@@ -9,15 +9,6 @@
     "date": "Tue, 19 May 2026 21:09:34 +0000"
   },
   {
-    "title": "Hello world!",
-    "snippet": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
-    "url": "http://www.husi.info/2019/06/23/hello-world/",
-    "source": "husi.info (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Sun, 23 Jun 2019 11:12:38 +0000"
-  },
-  {
     "title": "Tragedie la Huși: un bărbat a murit într-o fântână după ce a fost lovit în cap de un cablu rupt",
     "snippet": "UPDATE Intervenție dramatică joi în municipiul Huși, pe strada Iancu Postu, lângă Biserica „Sfântul Ioan”, unde un bărbat de aproximativ 65 de ani și-a pierdut viața în timp ce efectua lucrări de decolmatare a unei [ ]",
     "url": "https://stiriest.ro/2026/05/14/mobilizare-de-urgenta-la-husi-o-persoana-a-cazut-intr-o-fantana-adanca-de-10-metri/",
@@ -43,5 +34,14 @@
     "lang": "ro",
     "scope": "city",
     "date": "Wed, 06 May 2026 03:59:56 +0000"
+  },
+  {
+    "title": "Hello world!",
+    "snippet": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+    "url": "http://www.husi.info/2019/06/23/hello-world/",
+    "source": "husi.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Sun, 23 Jun 2019 11:12:38 +0000"
   }
 ]

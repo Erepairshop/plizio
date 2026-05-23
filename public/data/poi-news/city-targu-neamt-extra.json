@@ -1,14 +1,5 @@
 [
   {
-    "title": "Probleme cu furnizarea apei în Târgu Neamț",
-    "snippet": "Pentru remedierea unei avarii la rețeaua publică de distribuție a apei potabile, Compania Județeană Apa Serv S.A. anunță sistarea furnizării serviciului de alimentare cu apă, astazi 22.05.2026, în intervelul orar 09.30-14.00, în Orașul Tg. Neamț Vor fi afectași utilizatorii de pe străzile: Prof. Ung",
-    "url": "https://www.ziarpiatraneamt.ro/probleme-cu-furnizarea-apei-in-targu-neamt-9",
-    "source": "Ziar Piatra Neamț",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 06:09:45 +0000"
-  },
-  {
     "title": "Lista locurilor de muncă vacante anunțate de AJOFM Neamț (22 mai): Târgu Neamț – 102 posturi disponibile",
     "snippet": "În zona Târgu Neamț sunt disponibile 102 locuri de muncă vacante, potrivit situației centralizate de AJOFM Neamț, valabilă la data de 22 mai 2026. Posturile sunt disponibile atât în Târgu Neamț, cât și în localități apropiate, precum Nemțișor, Petricani, Leghin, Vânători, Bălțătești, Brusturi, Răuce",
     "url": "https://www.ziartarguneamt.ro/lista-locurilor-de-munca-vacante-anuntate-de-ajofm-neamt-22-mai-targu-neamt-102-posturi-disponibile",
@@ -36,6 +27,15 @@
     "date": "Fri, 22 May 2026 10:50:15 +0000"
   },
   {
+    "title": "Probleme cu furnizarea apei în Târgu Neamț",
+    "snippet": "Pentru remedierea unei avarii la rețeaua publică de distribuție a apei potabile, Compania Județeană Apa Serv S.A. anunță sistarea furnizării serviciului de alimentare cu apă, astazi 22.05.2026, în intervelul orar 09.30-14.00, în Orașul Tg. Neamț Vor fi afectași utilizatorii de pe străzile: Prof. Ung",
+    "url": "https://www.ziarpiatraneamt.ro/probleme-cu-furnizarea-apei-in-targu-neamt-9",
+    "source": "Ziar Piatra Neamț",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 06:09:45 +0000"
+  },
+  {
     "title": "Festivalul de Teatru Piatra Neamț. Ediția 37 se încheie, Orestia deschide un nou capitol",
     "snippet": "Festivalul Internațional de Teatru de la Piatra Neamț a adus opt zile de spectacole, întâlniri și dialoguri culturale, iar Teatrul Tineretului anunță deja direcțiile pentru ediția viitoare și premiera spectacolului Orestia. Festivalul de Teatru Piatra Neamț s-a încheiat după opt zile de evenimente d",
     "url": "https://monitorulneamt.ro/festivalul-de-teatru-piatra-neamt-editia-37-se-incheie-orestia-deschide-un-nou-capitol/",
@@ -45,15 +45,6 @@
     "date": "Thu, 21 May 2026 10:00:00 +0000"
   },
   {
-    "title": "Nemțenii sunt invitați să adopte: târg de adopții la Baza Hipică din Piatra-Neamț pentru câinii fără stăpân",
-    "snippet": "Adăpostul Public de Câini din Piatra-Neamț organizează un nou târg de adopții, o inițiativă dedicată celor care își doresc să ofere o șansă la o viață mai bună unui câine aflat în căutarea unei familii. Evenimentul va avea loc sâmbătă, 23 mai 2026, de la ora 11.00, la Baza Hipică din Piatra-Neamț. Î",
-    "url": "https://www.ziartarguneamt.ro/nemtenii-sunt-invitati-sa-adopte-targ-de-adoptii-la-baza-hipica-din-piatra-neamt-pentru-cainii-fara-stapan",
-    "source": "Ziar Târgu Neamț",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 05:01:21 +0000"
-  },
-  {
     "title": "Dispozitie privind convocarea Consiliului Local al orașului Târgu-Neamţ  în ședinţă ordinară,  pentru ziua de 27.05.2026, ora 15:00, desfasurată în sala de ședințe a Consiliului local",
     "snippet": "Deschide",
     "url": "https://www.primariatarguneamt.ro/dispozitie-privind-convocarea-consiliului-local-al-orasului-targu-neamt-in-sedinta-ordinara-pentru-ziua-de-27-05-2026-ora-1500-desfasurata-in-sala-de-sedinte-a-consiliului-local",
@@ -61,6 +52,15 @@
     "lang": "ro",
     "scope": "city",
     "date": "Thu, 21 May 2026 07:26:19 +0000"
+  },
+  {
+    "title": "Nemțenii sunt invitați să adopte: târg de adopții la Baza Hipică din Piatra-Neamț pentru câinii fără stăpân",
+    "snippet": "Adăpostul Public de Câini din Piatra-Neamț organizează un nou târg de adopții, o inițiativă dedicată celor care își doresc să ofere o șansă la o viață mai bună unui câine aflat în căutarea unei familii. Evenimentul va avea loc sâmbătă, 23 mai 2026, de la ora 11.00, la Baza Hipică din Piatra-Neamț. Î",
+    "url": "https://www.ziartarguneamt.ro/nemtenii-sunt-invitati-sa-adopte-targ-de-adoptii-la-baza-hipica-din-piatra-neamt-pentru-cainii-fara-stapan",
+    "source": "Ziar Târgu Neamț",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 05:01:21 +0000"
   },
   {
     "title": "Prevenția ajunge și în câmp. Polițiștii au discutat cu șoferii de utilaje agricole",
@@ -79,15 +79,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Thu, 21 May 2026 18:36:13 +0000"
-  },
-  {
-    "title": "Comunicare acte administrativ fiscale",
-    "snippet": "",
-    "url": "https://www.primariatarguneamt.ro",
-    "source": "primariatgneamt.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 05:57:03 +0000"
   },
   {
     "title": "Noaptea Muzeelor Neamț 2026. Cetatea Neamț, Curtea Domnească și muzeele își deschid porțile gratuit",
@@ -117,15 +108,6 @@
     "date": "Tue, 19 May 2026 10:00:11 +0000"
   },
   {
-    "title": "Joi, 21 mai 2026, ora 12:00 Înălțarea Domnului – Ziua Eroilor – Sărbătoare Națională a Poporului Român",
-    "snippet": "Deschide",
-    "url": "https://www.primariatarguneamt.ro/joi-21-mai-2026-inaltarea-domnului-ziua-eroilor-sarbatoare-nationala-a-poporului-roman",
-    "source": "primariatgneamt.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 10:28:31 +0000"
-  },
-  {
     "title": "Furturi în serie într-o localitate din Neamț. Prejudiciu uriaș",
     "snippet": "Furturi în serie într-o localitate din Neamț. Prejudiciu uriaș, după ce polițiștii au legat mai multe sesizări și au identificat suspecții. Mai multe furturi reclamate în Zănești La datele de 15 august 2025, 3 mai, 5 mai și 12 mai 2026, polițiștii din cadrul Secției de Poliție Rurală Săvinești au fo",
     "url": "https://monitorulneamt.ro/furturi-serie-zanesti-neamt-retineri/",
@@ -133,15 +115,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Tue, 19 May 2026 08:33:12 +0000"
-  },
-  {
-    "title": "Publicatie casatorie 18.05.2026",
-    "snippet": "18-05-2026",
-    "url": "https://www.primariatarguneamt.ro/publicatie-casatorie-18-05-2026",
-    "source": "primariatgneamt.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 10:28:24 +0000"
   },
   {
     "title": "Descoperiri periculoase în Neamț. Grenadă și muniție din Al Doilea Război Mondial",
@@ -162,15 +135,6 @@
     "date": "Wed, 13 May 2026 07:17:18 +0000"
   },
   {
-    "title": "Informare privind aprobarea regulamentului de instituire si administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare din orasul Tg. Neamt",
-    "snippet": "Deschide",
-    "url": "https://www.primariatarguneamt.ro/informare-privind-aprobarea-regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizare-pentru-utilizatorii-serviciului-de-salubrizare-din-orasul-tg-neamt",
-    "source": "primariatgneamt.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 06:55:29 +0000"
-  },
-  {
     "title": "Luni dimineață, pe bulevard, cu alcool peste limita penală",
     "snippet": "Luni dimineață, pe bulevard, cu alcool peste limita penală, pentru un șofer oprit de polițiști în Târgu-Neamț. Control rutier în Târgu-Neamț La data de 11 mai a.c., ora 09:13, în timp ce polițiștii din cadrul Formațiunii Rutiere Târgu-Neamț se aflau în exercitarea atribuțiilor de serviciu, pe buleva",
     "url": "https://monitorulneamt.ro/luni-dimineata-pe-bulevard-cu-alcool-peste-limita-penala/",
@@ -178,15 +142,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Tue, 12 May 2026 08:31:58 +0000"
-  },
-  {
-    "title": "Publicatie casatorie 14.05.2026",
-    "snippet": "14-05-2026",
-    "url": "https://www.primariatarguneamt.ro/publicatie-casatorie-14-05-2026",
-    "source": "primariatgneamt.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 12:13:16 +0000"
   },
   {
     "title": "Ghinion în trafic la Bicaz: s-a răsturnat și a fost prins cu lemn în plus",
@@ -198,6 +153,51 @@
     "date": "Thu, 23 Apr 2026 06:29:22 +0000"
   },
   {
+    "title": "Comunicare acte administrativ fiscale",
+    "snippet": "",
+    "url": "https://www.primariatarguneamt.ro",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 05:57:03 +0000"
+  },
+  {
+    "title": "Joi, 21 mai 2026, ora 12:00 Înălțarea Domnului – Ziua Eroilor – Sărbătoare Națională a Poporului Român",
+    "snippet": "Deschide",
+    "url": "https://www.primariatarguneamt.ro/joi-21-mai-2026-inaltarea-domnului-ziua-eroilor-sarbatoare-nationala-a-poporului-roman",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 10:28:31 +0000"
+  },
+  {
+    "title": "Publicatie casatorie 18.05.2026",
+    "snippet": "18-05-2026",
+    "url": "https://www.primariatarguneamt.ro/publicatie-casatorie-18-05-2026",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 10:28:24 +0000"
+  },
+  {
+    "title": "Informare privind aprobarea regulamentului de instituire si administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare din orasul Tg. Neamt",
+    "snippet": "Deschide",
+    "url": "https://www.primariatarguneamt.ro/informare-privind-aprobarea-regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizare-pentru-utilizatorii-serviciului-de-salubrizare-din-orasul-tg-neamt",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 06:55:29 +0000"
+  },
+  {
+    "title": "Publicatie casatorie 14.05.2026",
+    "snippet": "14-05-2026",
+    "url": "https://www.primariatarguneamt.ro/publicatie-casatorie-14-05-2026",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 12:13:16 +0000"
+  },
+  {
     "title": "Dispozitie privind convocarea Consiliului Local al orașului Târgu-Neamţ  în ședinţă extraordinară,  pentru ziua de 14.05.2026, ora 15:00, desfasurată în sala de ședințe a Consiliului local și online p",
     "snippet": "Deschide",
     "url": "https://www.primariatarguneamt.ro/dispozitie-privind-convocarea-consiliului-local-al-orasului-targu-neamt-in-sedinta-extraordinara-pentru-ziua-de-14-05-2026-ora-1500-desfasurata-in-sala-de-sedinte-a-consiliului-local-si-online-p",
@@ -205,5 +205,23 @@
     "lang": "ro",
     "scope": "city",
     "date": "Thu, 14 May 2026 10:16:23 +0000"
+  },
+  {
+    "title": "INVITAŢIE Dezbatere Publică – Proiectul bugetului local de venituri și cheltuieli al oraşului Târgu-Neamţ  pe anul 2026 şi Lista de investiţii pentru anul 2026",
+    "snippet": "Deschide",
+    "url": "https://www.primariatarguneamt.ro/invitatie-dezbatere-publica-proiectul-bugetului-local-de-venituri-si-cheltuieli-al-orasului-targu-neamt-pe-anul-2026-si-lista-de-investitii-pentru-anul-2026",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 10:05:01 +0000"
+  },
+  {
+    "title": "Publicatie casatorie 06.05.2026",
+    "snippet": "06-05-2026",
+    "url": "https://www.primariatarguneamt.ro/publicatie-casatorie-06-05-2026",
+    "source": "primariatgneamt.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 07:33:21 +0000"
   }
 ]

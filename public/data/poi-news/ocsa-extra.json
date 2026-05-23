@@ -45,6 +45,15 @@
     "date": "Tue, 14 May 2024 11:20:19 +0000"
   },
   {
+    "title": "POLGÁRMESTERI KÖSZÖNTŐ",
+    "snippet": "POLGÁRMESTERI KÖSZÖNTŐ",
+    "url": "http://www.ocsa.hu/polgarmesteri-koszonto",
+    "source": "ocsa.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Orbán Viktor keserves éjszakát emlegetve elárulta, hogy mit mondtak neki a 2006-os vereség után",
     "snippet": "Ócsára érkezett a kormányfő kampányturnéja.",
     "url": "https://index.hu/belfold/2026/03/31/orban-viktor-ocsa-fidesz-kampany-orszagjaras-valasztas2026-orszaggyulesi-valasztasok/",
@@ -52,5 +61,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 31 Mar 2026 18:21:00 +0200"
+  },
+  {
+    "title": "POLGÁRMESTERI HIVATAL",
+    "snippet": "POLGÁRMESTERI HIVATAL",
+    "url": "http://www.ocsa.hu/polgarmesteri",
+    "source": "ocsa.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "POLGÁRMESTERI NAPLÓ",
+    "snippet": "POLGÁRMESTERI NAPLÓ",
+    "url": "http://www.ocsa.hu/polgarmesteri-naplo",
+    "source": "ocsa.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ócsa > Budapest mentesítőbusz",
+    "snippet": "Ócsa > Budapest mentesítőbusz",
+    "url": "https://www.mavcsoport.hu/node/193377",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Két autó ütközött Ócsa közelében, egy ember a roncsba szorult",
+    "snippet": "Két autó ütközött Ócsa közelében, egy ember a roncsba szorult",
+    "url": "https://zsaruhirek.hu/katasztrofavedelem/2026/05/18/ket-auto-utkozott-ocsa-kozeleben/",
+    "source": "zsaruhirek.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Meghalt egy 20 év körüli férfi az Ócsa közelében történt súlyos autóbalesetben",
+    "snippet": "Meghalt egy 20 év körüli férfi az Ócsa közelében történt súlyos autóbalesetben",
+    "url": "https://www.ekozben.hu/2026/05/meghalt-egy-20-ev-koruli-ferfi-az-ocsa.html",
+    "source": "ekozben.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

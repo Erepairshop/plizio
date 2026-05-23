@@ -18,15 +18,6 @@
     "date": "Wed, 29 Apr 2026 09:41:16 +0000"
   },
   {
-    "title": "Civil szervezetekre vonatkozó pályázati felhívás",
-    "snippet": "",
-    "url": "https://nyiradony.hu/2025/05/10/civil-szervezetekre-vonatkozo-palyazati-felhivas/",
-    "source": "nyiradony.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 10 May 2025 06:19:26 +0000"
-  },
-  {
     "title": "Viccből igazoltatta az embereket egy 18 éves fiú, gyanúsítottként hallgatták ki",
     "snippet": "Nem tartott sokáig a szerepjáték.",
     "url": "https://index.hu/belfold/2026/01/22/rendorseg-ellenor-fiatal-kiadta-magat-gyanusitott-kihallgatas-nyiradony-igazoltatas-szemelyes-adattal-visszaeles/",
@@ -45,15 +36,6 @@
     "date": "Fri, 30 Jan 2026 10:53:45 +0000"
   },
   {
-    "title": "EFOP-1.9.10-22-2022-00006",
-    "snippet": "",
-    "url": "https://nyiradony.hu/2024/03/18/efop-1-9-10-22-2022-00006/",
-    "source": "nyiradony.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 18 Mar 2024 20:28:38 +0000"
-  },
-  {
     "title": "Lelőtt kutyák tetemeit találták meg egy illegális dögkútban Nyíradony határában",
     "snippet": "Az ügyben a rendőrség nyomozást indított.",
     "url": "https://index.hu/belfold/2025/05/04/kutya-illegalis-dogkut-tetem-nyiradony-allatkinzas-nyomozas-rendorseg/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 04 May 2025 07:06:00 +0200"
+  },
+  {
+    "title": "Civil szervezetekre vonatkozó pályázati felhívás",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2025/05/10/civil-szervezetekre-vonatkozo-palyazati-felhivas/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 10 May 2025 06:19:26 +0000"
   },
   {
     "title": "Két év nyolc hónapra ítéltek egy volt fideszes polgármestert",
@@ -72,6 +63,15 @@
     "date": "Wed, 19 Nov 2025 10:47:37 +0000"
   },
   {
+    "title": "EFOP-1.9.10-22-2022-00006",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2024/03/18/efop-1-9-10-22-2022-00006/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 18 Mar 2024 20:28:38 +0000"
+  },
+  {
     "title": "Leromlott városi területek rehabilitációja Nyíradonyban – TOP-4.3.1-16-HB1-2017-00008",
     "snippet": "",
     "url": "https://nyiradony.hu/2022/10/29/leromlott-varosi-teruletek-rehabilitacioja-nyiradonyban-top-4-3-1-16-hb1-2017-00008/",
@@ -79,5 +79,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 29 Oct 2022 22:33:23 +0000"
+  },
+  {
+    "title": "Integrált válasz az egészségügyi segítségnyújtásra a határmenti régióban (ROHU-392 IRMA)",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2022/08/24/integralt-valasz-az-egeszsegugyi-segitsegnyujtasra-a-hatarmenti-regioban-rohu-392-irma/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 24 Aug 2022 09:08:18 +0000"
+  },
+  {
+    "title": "ROHU-392 IRMA Projekt keretében készült tanulmány",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2022/07/25/rohu-392-irma-projekt-kereteben-keszult-tanulmany/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 25 Jul 2022 12:53:10 +0000"
+  },
+  {
+    "title": "Bel- és csapadékvíz elvezetése Nyíradony városában",
+    "snippet": "www.nyiradony.hu ​ Bel- és csapadékvíz elvezetése Nyíradony városában PROJEKT LEÍRÁSA: Nyíradony Város Önkormányzata 2021.01.29 én pályázatot nyújtott be a Települési környezetvédelmi infrastruktúra-fejlesztések című, TOP-2.1.3-16 azonosítószámú pályázati kiírására „Bel- és csapadékvíz elvezetése Ny",
+    "url": "https://nyiradony.hu/2021/07/25/bel-es-csapadekviz-elvezetese-nyiradony-varosaban/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 25 Jul 2021 06:54:58 +0000"
+  },
+  {
+    "title": "KEHOP-1.2.1-18-2018-00159",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2021/07/21/kehop-1-2-1-18-2018-00159/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 21 Jul 2021 10:59:55 +0000"
+  },
+  {
+    "title": "EFOP-1.5.3-16-Humán szolgáltatások fejlesztése térségi szemléletben-kedvezményezett térségek",
+    "snippet": "EFOP-1.5.3-16-Humán szolgáltatások fejlesztése térségi szemléletben-kedvezményezett térségek EFOP-1.5.3-16-2017-00077 ” Humán szolgáltatások fejlesztése a Nyíradonyi járásban” Támogatás adatlapja Alapadatok Pályázó neve: NYÍRADONY VÁROS ÖNKORMÁNYZATA Projekt megnevezése: Humán szolgáltatások fejlesz",
+    "url": "https://nyiradony.hu/2021/04/07/efop-1-5-3-16-human-szolgaltatasok-fejlesztese-tersegi-szemleletben-kedvezmenyezett-tersegek/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 07 Apr 2021 09:31:29 +0000"
+  },
+  {
+    "title": "EFOP-3.9.2-16-Humán kapacitások fejlesztése térségi szemléletben-kedvezményezett térségek",
+    "snippet": "",
+    "url": "https://nyiradony.hu/2021/04/07/efop-3-9-2-16-human-kapacitasok-fejlesztese-tersegi-szemleletben-kedvezmenyezett-tersegek/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 07 Apr 2021 09:17:57 +0000"
+  },
+  {
+    "title": "Tisztítsuk meg az országot projekt",
+    "snippet": "Tisztítsuk meg az Országot!” projekt 1.ütem Illegális hulladéklerakók felszámolásának támogatása 2020. A Belügyminisztérium, mint Támogató az illegális hulladéklerakók felszámolása érdekében a „Tisztítsuk meg az Országot!” projekt 2020. évben megvalósítandó I. üteméről szóló 1598/2020. (IX. 21.) Kor",
+    "url": "https://nyiradony.hu/2021/03/25/tisztitsuk-meg-az-orszagot-projekt/",
+    "source": "nyiradony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 25 Mar 2021 13:53:16 +0000"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Elestek az autópályák a pünkösdi hétvégén, több baleset történt az utakon",
+    "snippet": "Hatalmas dugók alakultak ki, az M1-esen 14 kilométeres a torlódás.",
+    "url": "https://index.hu/belfold/2026/05/23/m1-autopalya-m0-autout-bicske-baleset-torlodas-felujitas-kozlekedes-forgalom-punkosd-hosszu-hetvege/",
+    "source": "index.hu/Bicske",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 09:33:00 +0200"
+  },
+  {
     "title": "Bencsik András szerint K. Endre valójában egy jó ember, aki rosszkor volt rossz helyen",
     "snippet": "Úgy látja, hogy a a bicskei gyermekotthon egykori igazgatóhelyettese a „látszatok áldozata”.",
     "url": "https://index.hu/belfold/2026/05/21/bencsik-andras-k-endre-kegyelmi-ugy-demokrata-varga-judit-novak-katalin/",
@@ -36,6 +45,15 @@
     "date": "Thu, 09 Apr 2026 21:43:00 +0200"
   },
   {
+    "title": "Tájékoztatás az M1 bővítése kapcsán",
+    "snippet": "Tájékoztatás az M1 bővítése kapcsán 43. BICSKEI NAPOK programajánló Tervezett áramszünet (2026.06.03.) Tájékoztatás mezőgazdasági összeírá...",
+    "url": "http://www.bicske.hu/?q=friss/tajekoztatas-az-m1-bovitese-kapcsan",
+    "source": "bicske.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-06-03"
+  },
+  {
     "title": "Gyurkó Szilvia a 24.hu-nak: Nem történhet meg, hogy olyanok legyenek gyerekek közelében, akiknek a testi fenyítés belefér",
     "snippet": "Azonnali szemléletváltást és átvilágítást ígér a gyermekvédelemben a Tisza-kormány leendő gyermekvédelmi és gyermekjogi államtitkára. Gyurkó Szilvia politikai kívülállóként határozza meg magát, és mostanáig semmilyen kapcsolata nem volt az új kormány tagjaival. Interjú. The post Gyurkó Szilvia a 24.",
     "url": "https://24.hu/belfold/2026/05/12/gyurko-szilvia-allamtitkar-gyremekvedelem-interju/",
@@ -63,37 +81,19 @@
     "date": "Mon, 20 Apr 2026 15:10:43 +0000"
   },
   {
-    "title": "Tájékoztatás az M1 bővítése kapcsán",
-    "snippet": "Tájékoztatás az M1 bővítése kapcsán 43. BICSKEI NAPOK programajánló Tervezett áramszünet (2026.06.03.) Tájékoztatás mezőgazdasági összeírá...",
-    "url": "http://www.bicske.hu/?q=friss/tajekoztatas-az-m1-bovitese-kapcsan",
-    "source": "bicske.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Hulladéknaptár",
-    "snippet": "Hulladéknaptár TÁJÉKOZTATÓ A TÜZELŐANYAG, TELEPÜLÉSI TÁMOGATÁSOK ÉS AZ EGYÉB SZOCIÁLIS ELLÁTÁSOK VÁLTOZÁSÁRÓL Ebösszeírás Bírósági ülnökök választása 2023 Széchenyi 2020 pályázatok Integrált kormányzati ügyfélszolgálatok Helyi autóbusz menetrend Vadászterület határának kijelölése Bicskei Körzeti Meg",
-    "url": "http://www.bicske.hu/?q=content/hulladeknaptar",
-    "source": "bicske.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Járóka Anna",
-    "snippet": "Járóka Anna Nagy Lajos Pecsenka István Pimpl Ferencné Tóth Marcell",
-    "url": "https://bicske.hu/sites/default/files/hatosagi-hirdetmenyek/uv148-2.pdf",
-    "source": "bicske.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Jegyző által jogszabályi kötelezettség alapján vezetett közhiteles nyilvántartások",
     "snippet": "Jegyző által jogszabályi kötelezettség alapján vezetett közhiteles nyilvántartások",
     "url": "http://www.bicske.hu/?q=kozetdeku-adatok/kozhiteles-nyilvantartasok",
     "source": "bicske.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Bicske város elbúcsúzott szeretett orvosától",
+    "snippet": "Bicske város elbúcsúzott szeretett orvosától",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/kiss-peter-orvos-elhunyt-bicske-varos-bucsuzas",
+    "source": "feol.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

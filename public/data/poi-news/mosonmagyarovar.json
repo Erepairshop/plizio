@@ -9,15 +9,6 @@
     "date": "Tue, 08 Oct 2024 21:32:00 +0200"
   },
   {
-    "title": "Megszakadt a Ferencváros szériája, négy kupagyőzelem után a Győr kiejtette riválisát",
-    "snippet": "A 15-szörös győztes kisalföldi csapat sorozatban a 22. kupadöntőjét játszhatja vasárnap.",
-    "url": "https://index.hu/sport/kezilabda/2026/05/02/noi-magyar-kupa-negyes-donto-elodonto-gyori-audi-eto-kc-ftc-rail-cargo-hungaria-mosonmagyarovar-debrecen/",
-    "source": "index.hu/Mosonmagyaróvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 02 May 2026 17:11:00 +0200"
-  },
-  {
     "title": "Az NB I-en belül vált klubot az Európa-bajnoki bronzérmes kézis",
     "snippet": "Pásztor Noémi visszatér a Mosonmagyaróvári KC női kézilabdacsapatához. The post Az NB I-en belül vált klubot az Európa-bajnoki bronzérmes kézis first appeared on 24.hu .",
     "url": "https://24.hu/sport/2026/05/13/pasztor-noemi-kezilabda-atigazolas-mosonmagyarovar/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 13 May 2026 09:46:02 +0000"
+  },
+  {
+    "title": "Megszakadt a Ferencváros szériája, négy kupagyőzelem után a Győr kiejtette riválisát",
+    "snippet": "A 15-szörös győztes kisalföldi csapat sorozatban a 22. kupadöntőjét játszhatja vasárnap.",
+    "url": "https://index.hu/sport/kezilabda/2026/05/02/noi-magyar-kupa-negyes-donto-elodonto-gyori-audi-eto-kc-ftc-rail-cargo-hungaria-mosonmagyarovar-debrecen/",
+    "source": "index.hu/Mosonmagyaróvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 02 May 2026 17:11:00 +0200"
   },
   {
     "title": "Több ezer lakcímbejelentést hozott Mosonmagyaróvár környékére a szigorított határátlépés",
@@ -36,15 +36,6 @@
     "date": "Mon, 19 Jul 2021 04:00:43 +0000"
   },
   {
-    "title": "Itt fogunk élni, de nem mindegy, hogyan",
-    "snippet": "Senki nem tudja, mi a f*sz van, csak áll az élet előtt.",
-    "url": "https://index.hu/velemeny/2026/04/11/valasztas-mosonmagyarovar-orban-viktor-magyar-peter-tisza-fidesz-itt-fogunk-elni/",
-    "source": "index.hu/Mosonmagyaróvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 11 Apr 2026 16:29:00 +0200"
-  },
-  {
     "title": "Elütötte a bicikliző gyereket, de rá sem hederített, lekapta a rendszámot és gyorsan elhajtott",
     "snippet": "Akár négy és fél évet is kaphat a férfi. The post Elütötte a bicikliző gyereket, de rá sem hederített, lekapta a rendszámot és gyorsan elhajtott first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/22/mosonmagyarovar-gyerek-gazolas-cserbenhagyas/",
@@ -54,13 +45,22 @@
     "date": "Wed, 22 Apr 2026 06:38:18 +0000"
   },
   {
-    "title": "Nemzetközi kupaújoncként az Európa-liga négyes döntőjébe jutott az Esztergom",
-    "snippet": "Kettős győzelemmel búcsúztatták a negyeddöntőben a magyar riválist.",
-    "url": "https://index.hu/sport/kezilabda/2026/03/29/noi-kezilabda-europa-liga-negyeddonto-esztergom-mosonmagyarovar-final-four/",
+    "title": "Lakossági tájékoztató - Útfelújítási munkálatok a Fazekas Mihály utcában",
+    "snippet": "Lakossági tájékoztató - Útfelújítási munkálatok a Fazekas Mihály utcában Tájékoztatjuk a tisztelt lakosságot, hogy 2026. május 4-én (hétfőn) megkezdődnek az útfelújítási munkálatok Mosonmagyaróváron, a Fazekas Mihály utcában. Részletek Pályázati felhívás társasházi, lakásszövetkezeti kamerarendszer ",
+    "url": "http://mosonmagyarovar.hu/8741/hirek.html",
+    "source": "mosonmagyarovar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "Itt fogunk élni, de nem mindegy, hogyan",
+    "snippet": "Senki nem tudja, mi a f*sz van, csak áll az élet előtt.",
+    "url": "https://index.hu/velemeny/2026/04/11/valasztas-mosonmagyarovar-orban-viktor-magyar-peter-tisza-fidesz-itt-fogunk-elni/",
     "source": "index.hu/Mosonmagyaróvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 29 Mar 2026 16:00:00 +0200"
+    "date": "Sat, 11 Apr 2026 16:29:00 +0200"
   },
   {
     "title": "Nem jött be az edzőváltás: Elek Gábor csapata megint kiütötte a riválist",
@@ -72,12 +72,21 @@
     "date": "Wed, 25 Mar 2026 18:40:19 +0000"
   },
   {
-    "title": "Lakossági tájékoztató - Útfelújítási munkálatok a Fazekas Mihály utcában",
-    "snippet": "Lakossági tájékoztató - Útfelújítási munkálatok a Fazekas Mihály utcában Tájékoztatjuk a tisztelt lakosságot, hogy 2026. május 4-én (hétfőn) megkezdődnek az útfelújítási munkálatok Mosonmagyaróváron, a Fazekas Mihály utcában. Részletek Pályázati felhívás társasházi, lakásszövetkezeti kamerarendszer ",
-    "url": "http://mosonmagyarovar.hu/8741/hirek.html",
-    "source": "mosonmagyarovar.hu (hivatalos)",
+    "title": "Nemzetközi kupaújoncként az Európa-liga négyes döntőjébe jutott az Esztergom",
+    "snippet": "Kettős győzelemmel búcsúztatták a negyeddöntőben a magyar riválist.",
+    "url": "https://index.hu/sport/kezilabda/2026/03/29/noi-kezilabda-europa-liga-negyeddonto-esztergom-mosonmagyarovar-final-four/",
+    "source": "index.hu/Mosonmagyaróvár",
     "lang": "hu",
     "scope": "city",
-    "date": "2026-05-04"
+    "date": "Sun, 29 Mar 2026 16:00:00 +0200"
+  },
+  {
+    "title": "Opel ütközött frontálisan Suzukinak az 1-es főúton Mosonmagyaróvár határában",
+    "snippet": "Opel ütközött frontálisan Suzukinak az 1-es főúton Mosonmagyaróvár határában",
+    "url": "https://www.movarpress.hu/hirek/opel-utkozott-frontalisan-suzukinak-az-1-es-fouton-mosonmagyarovar-hataraban/",
+    "source": "movarpress.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

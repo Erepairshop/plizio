@@ -9,15 +9,6 @@
     "date": "Thu, 21 May 2026 08:55:50 +0000"
   },
   {
-    "title": "Kémiai kísérlet torkollott tragédiába Nagykátán",
-    "snippet": "Mentőhelikopter is érkezett a helyszínre.",
-    "url": "https://index.hu/belfold/2026/03/06/tragedia-kemia-kiserlet-nagykata-mentohelikopter-baleset/",
-    "source": "index.hu/Nagykáta",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 06 Mar 2026 11:00:00 +0100"
-  },
-  {
     "title": "Rosszul sült el a tanár kémiakísérlete, mentőhelikopterrel szállítottak kórházba egy tizennégy éves diákot",
     "snippet": "Egy általános iskolai kémiaórán rosszul sült el egy kísérlet, melyben egy diák másodfokú égési sérüléseket szenvedett. The post Rosszul sült el a tanár kémiakísérlete, mentőhelikopterrel szállítottak kórházba egy tizennégy éves diákot first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/03/05/mentohelikopter-serules-kemiakiserlet-diak/",
@@ -27,13 +18,13 @@
     "date": "Thu, 05 Mar 2026 19:23:22 +0000"
   },
   {
-    "title": "Ököllel ütött, majd ki akart rabolni egy nőt egy tápiószecsői férfi",
-    "snippet": "Csakhogy nem igazán úgy sikerült, ahogy eltervezte.",
-    "url": "https://index.hu/belfold/2025/10/22/rablas-veres-vasutallomas-sulysap-nagykata/",
+    "title": "Kémiai kísérlet torkollott tragédiába Nagykátán",
+    "snippet": "Mentőhelikopter is érkezett a helyszínre.",
+    "url": "https://index.hu/belfold/2026/03/06/tragedia-kemia-kiserlet-nagykata-mentohelikopter-baleset/",
     "source": "index.hu/Nagykáta",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 22 Oct 2025 07:58:00 +0200"
+    "date": "Fri, 06 Mar 2026 11:00:00 +0100"
   },
   {
     "title": "Egy maglódi tanyára csaltak, majd összevertek és a családja kiirtásával fenyegettek egy vállalkozót",
@@ -45,13 +36,13 @@
     "date": "Tue, 17 Jun 2025 07:49:16 +0000"
   },
   {
-    "title": "Orbán Viktor nagy harcostól vett búcsút",
-    "snippet": "Eltemették Tóth András címzetes prépostot.",
-    "url": "https://index.hu/belfold/2025/07/18/orban-viktor-toth-andras-plebanos-cimzetes-prepost-temetes-nagykata-hitoktatas-harcos/",
+    "title": "Ököllel ütött, majd ki akart rabolni egy nőt egy tápiószecsői férfi",
+    "snippet": "Csakhogy nem igazán úgy sikerült, ahogy eltervezte.",
+    "url": "https://index.hu/belfold/2025/10/22/rablas-veres-vasutallomas-sulysap-nagykata/",
     "source": "index.hu/Nagykáta",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 18 Jul 2025 15:25:00 +0200"
+    "date": "Wed, 22 Oct 2025 07:58:00 +0200"
   },
   {
     "title": "Elfogták a nagykátai férfit, aki szexuális erőszakot követett el az unokahúga ellen, és fel is vette mindezt",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 25 Feb 2025 06:50:29 +0000"
+  },
+  {
+    "title": "Orbán Viktor nagy harcostól vett búcsút",
+    "snippet": "Eltemették Tóth András címzetes prépostot.",
+    "url": "https://index.hu/belfold/2025/07/18/orban-viktor-toth-andras-plebanos-cimzetes-prepost-temetes-nagykata-hitoktatas-harcos/",
+    "source": "index.hu/Nagykáta",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 18 Jul 2025 15:25:00 +0200"
   }
 ]

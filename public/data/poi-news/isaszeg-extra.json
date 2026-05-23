@@ -45,6 +45,15 @@
     "date": "Fri, 20 Mar 2026 11:00:14 +0000"
   },
   {
+    "title": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
+    "snippet": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
+    "url": "https://infostart.hu/belfold/2026/05/22/sertespestis-mar-a-pest-megyei-isaszeg-is-fertozott",
+    "source": "infostart.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Személyautót sodort el a vonat Isaszegnél, utolsó pillanatban ugrottak el a mozdony elől",
     "snippet": "Pillanatokon múlott a tragédia.",
     "url": "https://index.hu/belfold/2026/02/11/video-vonatbaleset-pecel-isaszeg-utkozes-szemelyauto-mav-rendorseg/",
@@ -79,5 +88,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 09 Nov 2025 11:05:21 +0000"
+  },
+  {
+    "title": "Afrikai sertéspestist azonosítottak vaddisznókban Isaszeg környékén – sertéstartókat figyelmeztetnek",
+    "snippet": "Afrikai sertéspestist azonosítottak vaddisznókban Isaszeg környékén – sertéstartókat figyelmeztetnek",
+    "url": "https://10perc.hu/hir/belfold/2026/05/22/afrikai-sertespestist-azonositottak-vaddisznokban-isaszeg-kornyeken-sertestartokat-figyelmeztetnek",
+    "source": "10perc.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Afrikai sertéspestis miatt fertőzött területté vált Isaszeg",
+    "snippet": "Afrikai sertéspestis miatt fertőzött területté vált Isaszeg",
+    "url": "https://telex.hu/belfold/2026/05/22/isaszeg-sertespestis-asp-fertozes",
+    "source": "telex.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

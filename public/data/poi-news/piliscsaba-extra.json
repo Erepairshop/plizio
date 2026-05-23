@@ -45,6 +45,15 @@
     "date": "Tue, 14 Apr 2026 08:59:14 +0000"
   },
   {
+    "title": "Hírlevél feliratkozás",
+    "snippet": "Hírlevél feliratkozás Elfogadom az Adatkezelési tájékoztató.",
+    "url": "http://www.piliscsaba.hu/common/uploads/aszf/Adatkezelési tájékoztató Piliscsaba-V1_1.pdf",
+    "source": "piliscsaba.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Lebontják Pest vármegye egyik kedvelt kilátóját",
     "snippet": "Több gombafaj is támadta a fából készült építményt, már nem biztonságos.",
     "url": "https://index.hu/belfold/2025/08/15/devenyi-antal-kilato-lebontjak-pilisi-parkerdo-piliscsaba-nagy-kopasz-hegy-balesetveszely/",
@@ -61,14 +70,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 14 Apr 2026 07:44:50 +0000"
-  },
-  {
-    "title": "Hírlevél feliratkozás",
-    "snippet": "Hírlevél feliratkozás Elfogadom az Adatkezelési tájékoztató.",
-    "url": "http://www.piliscsaba.hu/common/uploads/aszf/Adatkezelési tájékoztató Piliscsaba-V1_1.pdf",
-    "source": "piliscsaba.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   }
 ]

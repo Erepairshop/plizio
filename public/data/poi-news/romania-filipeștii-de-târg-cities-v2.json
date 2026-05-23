@@ -25,5 +25,14 @@
     "lang": "ro",
     "scope": "city",
     "date": "Mon, 24 Aug 2020 08:55:03 +0000"
+  },
+  {
+    "title": "Salut lume!",
+    "snippet": "Bun venit pe WordPress. Acesta este primul tău articol. Editează-l sau șterge-l, apoi începe scrisul!",
+    "url": "https://www.primariafilipestiidetarg.ro/salut-lume/",
+    "source": "primariafilipestiidetarg.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 15 Mar 2018 13:01:52 +0000"
   }
 ]

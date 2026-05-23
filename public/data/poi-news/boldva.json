@@ -1,14 +1,5 @@
 [
   {
-    "title": "Meghívó",
-    "snippet": "",
-    "url": "http://boldva.hu/2026/05/8756/",
-    "source": "boldva.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 06:11:25 +0000"
-  },
-  {
     "title": "Nem árulja el a szüleinek egy eltűntként keresett kislány, hogy hol van",
     "snippet": "A boldvai lány húsz napja tűnt el, azóta sem lehet tudni a tartózkodási helyét. The post Nem árulja el a szüleinek egy eltűntként keresett kislány, hogy hol van first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2021/06/24/nem-arulja-el-a-szuleinek-egy-eltuntkent-keresett-kislany-hogy-hol-van/",
@@ -16,15 +7,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 24 Jun 2021 20:26:28 +0000"
-  },
-  {
-    "title": "",
-    "snippet": "",
-    "url": "http://boldva.hu/2026/04/8728/",
-    "source": "boldva.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 23 Apr 2026 14:25:25 +0000"
   },
   {
     "title": "Elítélték a boldvai csecsemőgyilkosokat",
@@ -36,15 +18,6 @@
     "date": "Thu, 11 Oct 2018 13:15:46 +0000"
   },
   {
-    "title": "",
-    "snippet": "",
-    "url": "http://boldva.hu/2026/04/8720/",
-    "source": "boldva.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 23 Apr 2026 14:24:49 +0000"
-  },
-  {
     "title": "Anyja is tudta, hogy lánya az apa szexrabszolgája",
     "snippet": "A húszéves boldvai lánynak két gyermeke is született az apjától. The post Anyja is tudta, hogy lánya az apa szexrabszolgája first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2017/10/16/anyja-is-tudta-hogy-lanya-az-apa-szexrabszolgaja/",
@@ -54,6 +27,33 @@
     "date": "Mon, 16 Oct 2017 12:35:25 +0000"
   },
   {
+    "title": "Meghívó",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/05/8756/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 06:11:25 +0000"
+  },
+  {
+    "title": "",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/04/8728/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 23 Apr 2026 14:25:25 +0000"
+  },
+  {
+    "title": "",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/04/8720/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 23 Apr 2026 14:24:49 +0000"
+  },
+  {
     "title": "",
     "snippet": "",
     "url": "http://boldva.hu/2026/04/8714/",
@@ -61,5 +61,59 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 23 Apr 2026 14:23:40 +0000"
+  },
+  {
+    "title": "",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/03/8396/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 12 Mar 2026 12:54:24 +0000"
+  },
+  {
+    "title": "Fogadóóra",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/03/fogadoora/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 04 Mar 2026 07:42:17 +0000"
+  },
+  {
+    "title": "",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/02/7978/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 25 Feb 2026 16:14:33 +0000"
+  },
+  {
+    "title": "Tisztelt Lakosság!",
+    "snippet": "Boldva Község Önkormányzata Képviselő-testülete új mértéket állapított meg a magánszemélyek kommunális adóját illetően a 12/2025.(XI.18.) számú önkormányzati rendeletében, melyben adótárgyanként (lakás, garázs) 6.000.- Ft/év a fizetendő adó. A kedvezmények nem változtak a 2014. évi rendeletben megha",
+    "url": "http://boldva.hu/2026/02/tisztelt-lakossag/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 23 Feb 2026 12:46:01 +0000"
+  },
+  {
+    "title": "Meghívó",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/02/meghivo-31/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 12 Feb 2026 10:20:04 +0000"
+  },
+  {
+    "title": "Tájékoztató",
+    "snippet": "",
+    "url": "http://boldva.hu/2026/02/tajekoztato-6/",
+    "source": "boldva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 10 Feb 2026 13:40:18 +0000"
   }
 ]

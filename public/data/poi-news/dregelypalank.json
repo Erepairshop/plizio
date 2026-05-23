@@ -45,6 +45,15 @@
     "date": "Sat, 19 Nov 2022 21:04:00 +0100"
   },
   {
+    "title": "Adatkezelési tájékoztató",
+    "snippet": "Adatkezelési tájékoztató",
+    "url": "http://dregelypalank.hu/wp-content/uploads/2024/12/adatkezelesi_tajekoztato_dphu.pdf",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Másodszorra adta át Szijjártó ugyanazt az Ipoly-hidat",
     "snippet": "Két hónappal ezelőtt a helyi művházban jelentette be, hogy elkészült az új híd. The post Másodszorra adta át Szijjártó ugyanazt az Ipoly-hidat first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/03/11/masodszorra-adta-at-szijjarto-ugyanazt-az-ipoly-hidat/",
@@ -52,5 +61,59 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 11 Mar 2024 11:09:39 +0000"
+  },
+  {
+    "title": "Térkép és címerleírás",
+    "snippet": "Térkép és címerleírás",
+    "url": "http://dregelypalank.hu/dregelypalank/terkep-cimerleiras/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Csósza István: Drégelypalánk története a XVIII. századig",
+    "snippet": "Csósza István: Drégelypalánk története a XVIII. századig",
+    "url": "http://dregelypalank.hu/tortenelem-3/a-falu-tortenete/csosza-istvan-dregelypalank-tortenete-a-xviii-szazadig/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Szondi-emlék története",
+    "snippet": "A Szondi-emlék története",
+    "url": "http://dregelypalank.hu/tortenelem-3/a-falu-tortenete/a-szondi-emlek-tortenete/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Szondy-alagút",
+    "snippet": "A Szondy-alagút",
+    "url": "http://dregelypalank.hu/tortenelem-3/a-falu-tortenete/a-szondy-alagut/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Drégelyvár múltja és jelene",
+    "snippet": "A Drégelyvár múltja és jelene",
+    "url": "http://dregelypalank.hu/tortenelem-3/a-falu-tortenete/a-dregelyvar-multja-es-jelene/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Nepomuki Szent János",
+    "snippet": "Nepomuki Szent János",
+    "url": "http://dregelypalank.hu/tortenelem-3/a-historia-domus/nepomuki-szent-janos/",
+    "source": "dregelypalank.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

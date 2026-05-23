@@ -18,15 +18,6 @@
     "date": "Tue, 19 May 2026 09:55:00 +0200"
   },
   {
-    "title": "Újabb szörnyű baleset, öten meghaltak Miskolc és Szerencs között",
-    "snippet": "A rendőrség vizsgálja a baleset pontos körülményeit.",
-    "url": "https://index.hu/belfold/2022/09/07/frontalis-utkozes-karambol-szerencs-miskolc-rendorseg/",
-    "source": "index.hu/Szerencs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 07 Sep 2022 06:45:00 +0200"
-  },
-  {
     "title": "Megnyílt az ország egyik legnagyobb Lidl-áruháza, megrohanták a vásárlók",
     "snippet": "Kígyózó sort lehetett látni már hajnalban. The post Megnyílt az ország egyik legnagyobb Lidl-áruháza, megrohanták a vásárlók first appeared on 24.hu .",
     "url": "https://24.hu/fn/gazdasag/2026/02/27/lidl-aruhaz-miskolc-uzletnyitas/",
@@ -36,6 +27,15 @@
     "date": "Fri, 27 Feb 2026 12:57:13 +0000"
   },
   {
+    "title": "Újabb szörnyű baleset, öten meghaltak Miskolc és Szerencs között",
+    "snippet": "A rendőrség vizsgálja a baleset pontos körülményeit.",
+    "url": "https://index.hu/belfold/2022/09/07/frontalis-utkozes-karambol-szerencs-miskolc-rendorseg/",
+    "source": "index.hu/Szerencs",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 07 Sep 2022 06:45:00 +0200"
+  },
+  {
     "title": "Zsarolásról és „erősen ajánlott” tartalmak megosztásáról beszélt a Fideszből kilépett miskolci képviselő",
     "snippet": "Czinkné Sztán Anikó tetszését nem nyerte el a legerősebb ellenzéki párt kampánya.",
     "url": "https://index.hu/belfold/2026/05/11/miskolc-onkormanyzati-kepviselo-czinkne-sztan-aniko-fidesz-kilepes-valasztasi-kampany-aktivistak-ajanlasok/",
@@ -43,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 11 May 2026 13:11:00 +0200"
+  },
+  {
+    "title": "A legtöbb magyarnak fogalma sincs, milyen kincseket rejt ez a város: Miskolc ismeretlen varázslatos arca",
+    "snippet": "A legtöbb magyarnak fogalma sincs, milyen kincseket rejt ez a város: Miskolc ismeretlen varázslatos arca",
+    "url": "https://femina.hu/utazas/varazslatos-termeszetkozeli-programok-miskolcon/",
+    "source": "femina.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",
@@ -88,5 +97,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 04 May 2026 09:53:00 +0200"
+  },
+  {
+    "title": "Miskolc.  Teca és Senviczi csoport drámájára gondolsz?",
+    "snippet": "Miskolc.  Teca és Senviczi csoport drámájára gondolsz?",
+    "url": "https://www.eszakhirnok.com/2026/05/22/miskolc-teca-es-senviczi-csoport-dramajara-gondolsz/",
+    "source": "eszakhirnok.com (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Megnyílt a látogatók előtt Miskolc új kilátója",
+    "snippet": "Megnyílt a látogatók előtt Miskolc új kilátója",
+    "url": "https://minap.hu/miskolc/2026/05/21/miskolci-kilato-atrium-park-megnyilt-latogatok-elott",
+    "source": "minap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Miskolc Holding központjában is mosolyt csaltak az arcokra a menhelyi kutyák",
+    "snippet": "A Miskolc Holding központjában is mosolyt csaltak az arcokra a menhelyi kutyák",
+    "url": "https://minap.hu/miskolc/2026/05/21/miskolc-holding-kozpontjaban-mosolyt-csaltak-az-arcokra-menhelyi-kutyak",
+    "source": "minap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Miskolc zárszámadása éppen arról ad bizonyítékot, hogy a fideszes vezetés alatt az átlagot is mélyen alulmúlja a város?",
+    "snippet": "Miskolc zárszámadása éppen arról ad bizonyítékot, hogy a fideszes vezetés alatt az átlagot is mélyen alulmúlja a város?",
+    "url": "https://borsod24.hu/2026/05/21/miskolc-zarszamadasa-eppen-arrol-ad-bizonyitekot-hogy-a-fideszes-vezetes-alatt-az-atlagot-is-melyen-alulmulja-a-varos/",
+    "source": "borsod24.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ehhez képest a miskolc.hu-n Senviczki Erika a jegyző. Ki nem mond igazat?",
+    "snippet": "Ehhez képest a miskolc.hu-n Senviczki Erika a jegyző. Ki nem mond igazat?",
+    "url": "https://www.eszakhirnok.com/2026/05/21/ehhez-kepest-a-miskolc-hu-n-senviczki-erika-a-jegyzo-ki-nem-mond-igazat/",
+    "source": "eszakhirnok.com (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

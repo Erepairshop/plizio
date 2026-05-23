@@ -1,14 +1,5 @@
 [
   {
-    "title": "Többen súlyosan megsérültek, miután egy kisbusz behajtott egy munkaterületre",
-    "snippet": "Baranya vármegyében, az érintett szakaszon útzár van érvényben.",
-    "url": "https://index.hu/belfold/2026/03/16/baleset-kisbusz-baranya-varmegye-villany-munkaterulet-behajtott-serultek/",
-    "source": "index.hu/Villány",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 16 Mar 2026 13:25:00 +0100"
-  },
-  {
     "title": "Érkeznek a kedvezményes villanyszámlák, ezt a sort kell rajtuk keresni",
     "snippet": "Eddig 475 ezer nyilatkozat érkezett be, feldolgozásuk folyamatosan zajlik. The post Érkeznek a kedvezményes villanyszámlák, ezt a sort kell rajtuk keresni first appeared on 24.hu .",
     "url": "https://24.hu/fn/gazdasag/2026/04/07/rezsistop-villanyszamlak-erkeznek/",
@@ -18,13 +9,13 @@
     "date": "Tue, 07 Apr 2026 11:22:29 +0000"
   },
   {
-    "title": "Meghalt Kiss Gábor, a Matias Borászat szakmai vezetője",
-    "snippet": "A villányi borász 45 éves volt.",
-    "url": "https://index.hu/belfold/2025/12/04/kiss-gabor-borasz-villany-gyasz-tudoembolia/",
+    "title": "Többen súlyosan megsérültek, miután egy kisbusz behajtott egy munkaterületre",
+    "snippet": "Baranya vármegyében, az érintett szakaszon útzár van érvényben.",
+    "url": "https://index.hu/belfold/2026/03/16/baleset-kisbusz-baranya-varmegye-villany-munkaterulet-behajtott-serultek/",
     "source": "index.hu/Villány",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 04 Dec 2025 15:05:00 +0100"
+    "date": "Mon, 16 Mar 2026 13:25:00 +0100"
   },
   {
     "title": "Készüljön, két napig leállás lesz az MVM-nél",
@@ -36,13 +27,13 @@
     "date": "Tue, 12 Aug 2025 08:49:21 +0000"
   },
   {
-    "title": "Meghalt Tiffán Zsolt, egykori országgyűlési képviselő",
-    "snippet": "60 éves volt.",
-    "url": "https://index.hu/belfold/2025/04/12/tiffan-zsolt-meghalt-orszaggyulesi-kepviselo-boraszat-villany/",
+    "title": "Meghalt Kiss Gábor, a Matias Borászat szakmai vezetője",
+    "snippet": "A villányi borász 45 éves volt.",
+    "url": "https://index.hu/belfold/2025/12/04/kiss-gabor-borasz-villany-gyasz-tudoembolia/",
     "source": "index.hu/Villány",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 12 Apr 2025 12:16:00 +0200"
+    "date": "Thu, 04 Dec 2025 15:05:00 +0100"
   },
   {
     "title": "Tizenöt év után jött rá egy kaliforniai férfi, hogy ő fizeti a szomszédja villanyszámláját is",
@@ -52,5 +43,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 28 Sep 2024 08:08:34 +0000"
+  },
+  {
+    "title": "Süti beállítások",
+    "snippet": "Süti beállítások",
+    "url": "http://www.villany.hu/uj/",
+    "source": "villany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Meghalt Tiffán Zsolt, egykori országgyűlési képviselő",
+    "snippet": "60 éves volt.",
+    "url": "https://index.hu/belfold/2025/04/12/tiffan-zsolt-meghalt-orszaggyulesi-kepviselo-boraszat-villany/",
+    "source": "index.hu/Villány",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 12 Apr 2025 12:16:00 +0200"
+  },
+  {
+    "title": "Jó az irány? Ilyen a Spanyolországból érkező villany kisautó!",
+    "snippet": "Jó az irány? Ilyen a Spanyolországból érkező villany kisautó!",
+    "url": "https://autonavigator.hu/ujdonsag/jo-az-irany-ilyen-a-spanyolorszagbol-erkezo-villany-kisauto",
+    "source": "autonavigator.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Villány vörösborai és Szeged legendás ízei - Ezeket a gasztroútvonalakat neked is végig kell járnod",
+    "snippet": "Villány vörösborai és Szeged legendás ízei - Ezeket a gasztroútvonalakat neked is végig kell járnod",
+    "url": "https://www.nosalty.hu/ajanlo/villany-szeged-pick-turak",
+    "source": "nosalty.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Eljött a villany aranykora",
+    "snippet": "Eljött a villany aranykora",
+    "url": "https://tolnamegyeihirek.hu/eljott-a-villany-aranykora/",
+    "source": "tolnamegyeihirek.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

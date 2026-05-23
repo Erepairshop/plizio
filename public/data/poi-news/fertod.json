@@ -45,6 +45,15 @@
     "date": "Sat, 26 Jun 2021 10:58:00 +0200"
   },
   {
+    "title": "Ingatlan értékesítés",
+    "snippet": "Ingatlan értékesítés",
+    "url": "https://www.fertod.hu/hu/varosunkrol/ingatlan-ertekesites",
+    "source": "fertod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Ő volt a legpazarlóbb magyar",
     "snippet": "Esterházy „Fényes” Miklós a császáréval vetekedő udvart tartott fenn. The post Ő volt a legpazarlóbb magyar first appeared on 24.hu .",
     "url": "https://24.hu/tudomany/2019/12/18/pazarlas-kastely-arisztokrata-esterhazy/",
@@ -52,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 18 Dec 2019 05:30:48 +0000"
+  },
+  {
+    "title": "Esélyegyenlőségi program",
+    "snippet": "Esélyegyenlőségi program",
+    "url": "http://fertod.hu/dokumentumtar#2",
+    "source": "fertod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Gazdasági program",
+    "snippet": "Gazdasági program",
+    "url": "http://fertod.hu/dokumentumtar#3",
+    "source": "fertod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

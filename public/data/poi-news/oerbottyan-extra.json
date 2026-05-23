@@ -1,23 +1,5 @@
 [
   {
-    "title": "Pénzügyi és Településfejlesztési Bizottság",
-    "snippet": "Tagok, ügyrend, feladat- és hatáskör",
-    "url": "http://www.orbottyan.hu/ptb_leiras",
-    "source": "orbottyan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 19:00:24 +0200"
-  },
-  {
-    "title": "Humánügyi, Kulturális, Környezetvédelmi és Sport Bizottság",
-    "snippet": "Ügyrend, tagok",
-    "url": "http://www.orbottyan.hu/hkksb_leiras",
-    "source": "orbottyan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 18:48:02 +0200"
-  },
-  {
     "title": "Lemondott a képviselő, aki kezdeményezte Nagy Feró díszpolgári címének visszavonását",
     "snippet": "A zenész kinevezését a Szőlő utcai intézettel kapcsolatos nyilatkozata miatt akarták elvenni.",
     "url": "https://index.hu/belfold/2025/10/26/nagy-fero-orbottyan-diszpolgar-kepviselo-lemondas/",
@@ -34,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 17 Dec 2025 17:09:52 +0000"
-  },
-  {
-    "title": "Tájékoztató",
-    "snippet": "a 71-es vasútvonal korrekciójához kapcsolódó településrendezési tervmódosítások partnerségi egyeztetési eljárásával kapcsolatban",
-    "url": "http://www.orbottyan.hu/s71_260514",
-    "source": "orbottyan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 15:34:45 +0200"
   },
   {
     "title": "„Nem azért kaptam a Kossuth-díjat, hogy most már fogjam be a pofámat” – Nagy Feró nem kér bocsánatot",
@@ -63,15 +36,6 @@
     "date": "Sat, 25 Oct 2025 15:15:19 +0000"
   },
   {
-    "title": "Fogorvosi ellátás",
-    "snippet": "2026.05.18-22-ig",
-    "url": "http://www.orbottyan.hu/fogorvos_20260518",
-    "source": "orbottyan.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 10:29:24 +0200"
-  },
-  {
     "title": "Feljelentették és beperelték Nagy Ferót",
     "snippet": "Rettegnek a szomszédok a zenész pulijaitól.",
     "url": "https://index.hu/fomo/2025/01/06/nagy-fero-beatrice-puli-feljelentes-orbottyan-suba-tappancs/",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 06 Jan 2025 18:23:00 +0100"
+  },
+  {
+    "title": "Pénzügyi és Településfejlesztési Bizottság",
+    "snippet": "Tagok, ügyrend, feladat- és hatáskör",
+    "url": "http://www.orbottyan.hu/ptb_leiras",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 19:00:24 +0200"
   },
   {
     "title": "Kezdeményezik Nagy Feró díszpolgári címének visszavonását",
@@ -90,6 +63,33 @@
     "date": "Sat, 25 Oct 2025 08:35:09 +0000"
   },
   {
+    "title": "Humánügyi, Kulturális, Környezetvédelmi és Sport Bizottság",
+    "snippet": "Ügyrend, tagok",
+    "url": "http://www.orbottyan.hu/hkksb_leiras",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:48:02 +0200"
+  },
+  {
+    "title": "Tájékoztató",
+    "snippet": "a 71-es vasútvonal korrekciójához kapcsolódó településrendezési tervmódosítások partnerségi egyeztetési eljárásával kapcsolatban",
+    "url": "http://www.orbottyan.hu/s71_260514",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 15:34:45 +0200"
+  },
+  {
+    "title": "Fogorvosi ellátás",
+    "snippet": "2026.05.18-22-ig",
+    "url": "http://www.orbottyan.hu/fogorvos_20260518",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 10:29:24 +0200"
+  },
+  {
     "title": "Felhívás a termőföldek hasznosítási kötelezettségére",
     "snippet": "A Pest Megyei Kormányhivatal közleménye",
     "url": "http://www.orbottyan.hu/hatarszemle_2026",
@@ -97,5 +97,176 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 12 May 2026 14:28:39 +0200"
+  },
+  {
+    "title": "Hírmondó 2026 május",
+    "snippet": "Új önkormányzati képviselő - Vasútfejlesztés - Új gyalogátkelők - GAMESZ igazgató - Családi Sportnap - Happy-hét - Vásárolj helyben! - Lápmentő akció - Sportcsarnok",
+    "url": "http://www.orbottyan.hu/hirmondo_2026_05",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 May 2026 13:16:00 +0200"
+  },
+  {
+    "title": "Vágányzári információ",
+    "snippet": "2026. május 8-án 22:30-tól május 10-ig",
+    "url": "http://www.orbottyan.hu/vaganyzar_260508",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 May 2026 12:59:02 +0200"
+  },
+  {
+    "title": "Álláspályázat: intézményvezető",
+    "snippet": "A pályázat benyújtásának határideje: 2026.06.04. 08:00",
+    "url": "http://www.orbottyan.hu/allas_intezmenyvezeto_260502",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 03 May 2026 09:16:11 +0200"
+  },
+  {
+    "title": "Gyermekorvosi ellátás",
+    "snippet": "2026. május 4-től",
+    "url": "http://www.orbottyan.hu/gyerekorvos_202605",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 30 Apr 2026 12:26:22 +0200"
+  },
+  {
+    "title": "Ideiglenes Bizottság",
+    "snippet": "Meghívók, jegyzőkönyvek",
+    "url": "http://www.orbottyan.hu/ideiglenes_bizottsag_2026",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 29 Apr 2026 17:46:04 +0200"
+  },
+  {
+    "title": "Tökmag Focisuli",
+    "snippet": "Jóváhagyták a szakmai programot és a támogatási kérelmet.",
+    "url": "http://www.orbottyan.hu/tokmag_sfp",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 27 Apr 2026 14:00:42 +0200"
+  },
+  {
+    "title": "Álláspályázat: műszaki karbantartó",
+    "snippet": "A pályázat benyújtásának határideje: 2026.05.18. 15:00",
+    "url": "http://www.orbottyan.hu/allas_muszakikarbantarto_260427",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 27 Apr 2026 06:14:45 +0200"
+  },
+  {
+    "title": "Álláspályázat: karbantartó",
+    "snippet": "A pályázat benyújtásának határideje: 2026.05.18. 20:00",
+    "url": "http://www.orbottyan.hu/allas_karbantarto_260427",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 27 Apr 2026 06:08:33 +0200"
+  },
+  {
+    "title": "Tagtoborzás nyári gyerektáborra - Betelt!",
+    "snippet": "A Segítő Kéz Szociális Szolgálat felhívása",
+    "url": "http://www.orbottyan.hu/nyari_tabor_segitokez_2026",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 24 Apr 2026 12:36:40 +0200"
+  },
+  {
+    "title": "Lakossági tájékoztató",
+    "snippet": "MÁV 71-es számú vasútvonalának elővárosi célú fejlesztésének előkészítése",
+    "url": "http://www.orbottyan.hu/vasurtfejlesztes_20260424",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 24 Apr 2026 07:47:45 +0200"
+  },
+  {
+    "title": "Hirdetmény",
+    "snippet": "Loór Tiborné alperes telefonszolgáltatási díjjal összefüggő perével kapcsolatban",
+    "url": "http://www.orbottyan.hu/hirdetmeny_20260423",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 23 Apr 2026 10:48:00 +0200"
+  },
+  {
+    "title": "Álláspályázat: konyhalány",
+    "snippet": "A pályázat benyújtásának határideje: 2026.05.01. 08:00",
+    "url": "http://www.orbottyan.hu/allas_konyhalany_2604",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 16 Apr 2026 06:12:14 +0200"
+  },
+  {
+    "title": "Álláspályázat: szakács",
+    "snippet": "A pályázat benyújtásának határideje: 2026.05.01. 08:00",
+    "url": "http://www.orbottyan.hu/allas_palyazat_szakacs_2604",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 16 Apr 2026 06:11:26 +0200"
+  },
+  {
+    "title": "Bírósági ülnökök választása",
+    "snippet": "Hirdetmény",
+    "url": "http://www.orbottyan.hu/ulnokvalasztas_2026",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 13 Apr 2026 09:05:21 +0200"
+  },
+  {
+    "title": "Hírmondó 2026 április",
+    "snippet": "Stabil gazdálkodás - Közlekedésbiztonsági fejlesztések - Nőnap Őrbottyánban - Testvértelepülések Napja - Májusi programok, jeles napok - Bölcsődei beiratkozás - Kütyüjogsi",
+    "url": "http://www.orbottyan.hu/hirmondo_2026_04",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 02 Apr 2026 13:06:10 +0200"
+  },
+  {
+    "title": "Bartók Béla utca komplex fejlesztése Őrbottyán Városában",
+    "snippet": "TOP_Plusz-1.2.3-21 - Belterületi utak fejlesztése - Pályázati felhívás",
+    "url": "http://www.orbottyan.hu/top_plusz_1_2_3_21_260402",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 02 Apr 2026 12:49:58 +0200"
+  },
+  {
+    "title": "Gyermekorvosi ellátás",
+    "snippet": "2026. április 1-től",
+    "url": "http://www.orbottyan.hu/gyerekorvos_202604",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 31 Mar 2026 15:17:40 +0200"
+  },
+  {
+    "title": "Fogorvosi ellátás",
+    "snippet": "2026. április 2-12.",
+    "url": "http://www.orbottyan.hu/fogorvos_20260330",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 30 Mar 2026 18:37:37 +0200"
+  },
+  {
+    "title": "Ajánlattételi felhívás",
+    "snippet": "A TOP_PLUSZ-1.2.3-21 Belterületi utak fejlesztése című pályázat keretében Őrbottyán megvalósuló Bartók Béla utca komplex fejlesztésének tervezése",
+    "url": "http://www.orbottyan.hu/ajanlatteteli_felhivas_20260330",
+    "source": "orbottyan.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 30 Mar 2026 15:18:14 +0200"
   }
 ]

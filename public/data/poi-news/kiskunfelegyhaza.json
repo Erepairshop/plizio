@@ -1,14 +1,5 @@
 [
   {
-    "title": "Videóval cáfolta a rendőrség a találgatásokat – így történt valójában a kiskunfélegyházi baleset",
-    "snippet": "A közösségi médiában többen úgy tudták, hogy egy autós ütött el egy biciklin közlekedő gyereket.",
-    "url": "https://index.hu/belfold/2026/03/11/kiskunfelegyhaza-baleset-gyermek-bicikli-auto-felvetel-beszamolo/",
-    "source": "index.hu/Kiskunfélegyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 11 Mar 2026 08:29:00 +0100"
-  },
-  {
     "title": "Elfogták, elengedték a kiskunfélegyházi szatírt",
     "snippet": "A 47 éves gátéri férfi beismerte tettét, szabadlábon védekezik. The post Elfogták, elengedték a kiskunfélegyházi szatírt first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2019/09/11/elfogtak-kiskunfelegyhaza-szatir/",
@@ -18,13 +9,13 @@
     "date": "Wed, 11 Sep 2019 09:39:43 +0000"
   },
   {
-    "title": "Halálos lakástűz volt Kiskunfélegyházán",
-    "snippet": "A tragédia körülményei egyelőre tisztázatlanok.",
-    "url": "https://index.hu/belfold/2026/02/27/tuz-katasztrofavedelem-lakastuz-kiskunfelegyhaza-tuzolto-halaleset/",
+    "title": "Videóval cáfolta a rendőrség a találgatásokat – így történt valójában a kiskunfélegyházi baleset",
+    "snippet": "A közösségi médiában többen úgy tudták, hogy egy autós ütött el egy biciklin közlekedő gyereket.",
+    "url": "https://index.hu/belfold/2026/03/11/kiskunfelegyhaza-baleset-gyermek-bicikli-auto-felvetel-beszamolo/",
     "source": "index.hu/Kiskunfélegyháza",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 27 Feb 2026 14:46:00 +0100"
+    "date": "Wed, 11 Mar 2026 08:29:00 +0100"
   },
   {
     "title": "Nagy Blanka: Feljelentették a szüleimet",
@@ -36,13 +27,13 @@
     "date": "Fri, 16 Aug 2019 18:22:39 +0000"
   },
   {
-    "title": "Részleges látogatási tilalmat rendeltek el a Bács-Kiskun Vármegyei Oktatókórházban",
-    "snippet": "Az intézkedés a Kecskeméten, Kalocsán és Kiskunfélegyházán található telephelyeket is érinti.",
-    "url": "https://index.hu/belfold/2026/01/15/bacs-kiskun-varmegye-kecskemet-kalocsa-kiskunfelegyhaza--korhaz-latogatasi-tilalom-jarvanyveszely/",
+    "title": "Halálos lakástűz volt Kiskunfélegyházán",
+    "snippet": "A tragédia körülményei egyelőre tisztázatlanok.",
+    "url": "https://index.hu/belfold/2026/02/27/tuz-katasztrofavedelem-lakastuz-kiskunfelegyhaza-tuzolto-halaleset/",
     "source": "index.hu/Kiskunfélegyháza",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 15 Jan 2026 06:59:00 +0100"
+    "date": "Fri, 27 Feb 2026 14:46:00 +0100"
   },
   {
     "title": "Nem jár a vonat Szeged és Kiskunfélegyháza között",
@@ -52,5 +43,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 09 Aug 2019 04:39:11 +0000"
+  },
+  {
+    "title": "Kiskunfélegyháza – május 22-én és 23-án terelés rendezvény miatt",
+    "snippet": "Kiskunfélegyháza – május 22-én és 23-án terelés rendezvény miatt",
+    "url": "https://www.mavcsoport.hu/node/193293",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Részleges látogatási tilalmat rendeltek el a Bács-Kiskun Vármegyei Oktatókórházban",
+    "snippet": "Az intézkedés a Kecskeméten, Kalocsán és Kiskunfélegyházán található telephelyeket is érinti.",
+    "url": "https://index.hu/belfold/2026/01/15/bacs-kiskun-varmegye-kecskemet-kalocsa-kiskunfelegyhaza--korhaz-latogatasi-tilalom-jarvanyveszely/",
+    "source": "index.hu/Kiskunfélegyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 15 Jan 2026 06:59:00 +0100"
   }
 ]

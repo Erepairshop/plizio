@@ -45,6 +45,15 @@
     "date": "Fri, 21 Nov 2025 18:24:00 +0100"
   },
   {
+    "title": "Önkormányzati szabályzatok",
+    "snippet": "Önkormányzati szabályzatok",
+    "url": "https://vasarosnameny.hu/onkormanyzat/onkormanyzati-szabalyzatok",
+    "source": "vasarosnameny.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Megkéselték a biztonságiak főnökét a vásárosnaményi fesztiválon, a vádlottak állítják, hogy ők csak védekeztek",
     "snippet": "Hat évet kértek a biztonságiak főnökét hasba szúró férfire. The post Megkéselték a biztonságiak főnökét a vásárosnaményi fesztiválon, a vádlottak állítják, hogy ők csak védekeztek first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2023/08/02/megkeseltek-a-biztonsagiak-fonoket-a-vasarosnamenyi-fesztivalon-a-vadlottak-allitjak-hogy-ok-csak-vedekeztek/",
@@ -52,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 02 Aug 2023 10:02:52 +0000"
+  },
+  {
+    "title": "Általános közzétételi lista",
+    "snippet": "Általános közzétételi lista",
+    "url": "https://vasarosnameny.hu/onkormanyzat/aklista",
+    "source": "vasarosnameny.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Testületi anyagok",
+    "snippet": "Testületi anyagok",
+    "url": "https://vasarosnameny.hu/onkormanyzat/testuleti-anyagok",
+    "source": "vasarosnameny.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

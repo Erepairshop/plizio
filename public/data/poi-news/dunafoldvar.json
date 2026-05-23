@@ -1,14 +1,5 @@
 [
   {
-    "title": "Utolsó pillanatban rántotta félre a kormányt, lepergett előtte az élete",
-    "snippet": "Ijesztő jelenetek játszódtak le ismét a magyar utakon.",
-    "url": "https://index.hu/belfold/2025/07/25/bpiautosok-isaszeg-dunafoldvar-balatonvilagos/",
-    "source": "index.hu/Dunaföldvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 25 Jul 2025 18:21:00 +0200"
-  },
-  {
     "title": "Durva bosszút állt egy nő az exén és annak új társán",
     "snippet": "Jó partner volt ebben a bosszúéhes nő barátnője is, akitől az ötlet származott. The post Durva bosszút állt egy nő az exén és annak új társán first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/12/17/durva-bosszut-allt-egy-no-az-exen-es-annak-uj-tarsan/",
@@ -18,13 +9,13 @@
     "date": "Tue, 17 Dec 2024 07:42:18 +0000"
   },
   {
-    "title": "Böde Dániel kis híján fellökte a fotósunkat, szerencsére földhöz most nem vágta…",
-    "snippet": "A legendás csatár zsebe nincs bevarrva, fél Madocsa az ő vendége volt.",
-    "url": "https://index.hu/sport/futball/2025/05/02/labdarugas-futball-bode-daniel-paks-madocsa-dunafoldvar-kolyokcsapat-utanpotlas-edzo-futballtorna/",
+    "title": "Utolsó pillanatban rántotta félre a kormányt, lepergett előtte az élete",
+    "snippet": "Ijesztő jelenetek játszódtak le ismét a magyar utakon.",
+    "url": "https://index.hu/belfold/2025/07/25/bpiautosok-isaszeg-dunafoldvar-balatonvilagos/",
     "source": "index.hu/Dunaföldvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 02 May 2025 12:25:00 +0200"
+    "date": "Fri, 25 Jul 2025 18:21:00 +0200"
   },
   {
     "title": "Szokatlanul oldották meg a karácsonyfa-állítást Dunaföldváron",
@@ -36,13 +27,13 @@
     "date": "Wed, 27 Nov 2024 11:08:00 +0000"
   },
   {
-    "title": "Lezárják az egyik Duna-hidat, kerülőútra kényszerülnek az autósok",
-    "snippet": "Augusztus végéig karbantartási munkálatokat végeznek.",
-    "url": "https://index.hu/gazdasag/2025/03/17/m8-as-autopalya-duna-hid-kerulout-autosok/",
+    "title": "Böde Dániel kis híján fellökte a fotósunkat, szerencsére földhöz most nem vágta…",
+    "snippet": "A legendás csatár zsebe nincs bevarrva, fél Madocsa az ő vendége volt.",
+    "url": "https://index.hu/sport/futball/2025/05/02/labdarugas-futball-bode-daniel-paks-madocsa-dunafoldvar-kolyokcsapat-utanpotlas-edzo-futballtorna/",
     "source": "index.hu/Dunaföldvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 17 Mar 2025 12:07:00 +0100"
+    "date": "Fri, 02 May 2025 12:25:00 +0200"
   },
   {
     "title": "A dunaföldvári gyilkosság gyanúsítottja azt állítja, önvédelemből késelte halálra a 24 éves férfit",
@@ -52,5 +43,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 06 Oct 2024 08:36:51 +0000"
+  },
+  {
+    "title": "Széchenyi pályázatok",
+    "snippet": "Széchenyi pályázatok Dunaföldvár-Bölcske-Madocsa-Dunakömlőd térségi turisztikai termékcsomag TOP-1.2.1-15-TL1-2016-00020",
+    "url": "http://www.dunafoldvar.hu/hir-kategoria/szechenyi-2020/",
+    "source": "dunafoldvar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Lezárják az egyik Duna-hidat, kerülőútra kényszerülnek az autósok",
+    "snippet": "Augusztus végéig karbantartási munkálatokat végeznek.",
+    "url": "https://index.hu/gazdasag/2025/03/17/m8-as-autopalya-duna-hid-kerulout-autosok/",
+    "source": "index.hu/Dunaföldvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 17 Mar 2025 12:07:00 +0100"
+  },
+  {
+    "title": "Polgármesteri Hivatal",
+    "snippet": "Polgármesteri Hivatal Szervezeti felépítés",
+    "url": "http://www.dunafoldvar.hu/oldal/Polgármesteri Hivatal/",
+    "source": "dunafoldvar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "2026. évi választási információk",
+    "snippet": "2026. évi választási információk",
+    "url": "http://www.dunafoldvar.hu/hir-kategoria/valasztasi-informaciok/",
+    "source": "dunafoldvar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Tragédia a 6-os úton: halálra gázoltak egy férfit Dunaföldvár közelében",
+    "snippet": "Tragédia a 6-os úton: halálra gázoltak egy férfit Dunaföldvár közelében",
+    "url": "https://www.teol.hu/helyi-kek-hirek/2026/05/gazolas-halalos-baleset-serules-tragedia",
+    "source": "teol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

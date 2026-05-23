@@ -18,15 +18,6 @@
     "date": "Mon, 24 May 2021 08:40:24 +0000"
   },
   {
-    "title": "Bontási jkv_Óvodatej_2026-27. nevelési évre",
-    "snippet": "",
-    "url": "http://www.kartal.hu/2026/05/bontasi-jkv_ovodatej_2026-27-nevelesi-evre/",
-    "source": "kartal.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 07 May 2026 09:28:21 +0000"
-  },
-  {
     "title": "Meghalt Rónaszegi Miklós",
     "snippet": "Történetein egy egész generáció nőtt föl.",
     "url": "https://index.hu/kultur/2022/01/31/ronaszegi-miklos-elhunyt-iro-regeny-kartal/",
@@ -45,15 +36,6 @@
     "date": "Mon, 29 May 2017 05:38:48 +0000"
   },
   {
-    "title": "Ajánlattételi felhívás óvodatej beszerzésére",
-    "snippet": "",
-    "url": "http://www.kartal.hu/2026/04/ajanlatteteli-felhivas-ovodatej-beszerzesere-2/",
-    "source": "kartal.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 15 Apr 2026 11:17:55 +0000"
-  },
-  {
     "title": "Zebrán gázolták halálra az idős nőt",
     "snippet": "A két gyalogos közül egy 70 éves nő olyan súlyosan megsérült, hogy a helyszínen életét vesztette, míg egy 20 éves férfit kórházba vittek. The post Zebrán gázolták halálra az idős nőt first appeared on 24.hu .",
     "url": "https://24.hu/kozelet/2014/02/13/zebran-gazoltak-halalra-az-idos-not/",
@@ -63,6 +45,24 @@
     "date": "Thu, 13 Feb 2014 08:49:11 +0000"
   },
   {
+    "title": "Bontási jkv_Óvodatej_2026-27. nevelési évre",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/05/bontasi-jkv_ovodatej_2026-27-nevelesi-evre/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 09:28:21 +0000"
+  },
+  {
+    "title": "Ajánlattételi felhívás óvodatej beszerzésére",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/04/ajanlatteteli-felhivas-ovodatej-beszerzesere-2/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 15 Apr 2026 11:17:55 +0000"
+  },
+  {
     "title": "Óvodai beiratkozás 2026-2027 nevelési évre",
     "snippet": "",
     "url": "http://www.kartal.hu/2026/03/ovodai-beiratkozas-2026-2027-nevelesi-evre/",
@@ -70,5 +70,77 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 31 Mar 2026 07:40:15 +0000"
+  },
+  {
+    "title": "HIRDETMÉNY a 2026. évi óvodai beiratkozás rendjéről",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/03/hirdetmeny-a-2026-evi-ovodai-beiratkozas-rendjerol/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 16 Mar 2026 09:34:54 +0000"
+  },
+  {
+    "title": "ÁLLÁSPÁLYÁZAT",
+    "snippet": "Jegyző Munkakör/feladatkör betöltésére",
+    "url": "http://www.kartal.hu/2026/02/allaspalyazat-4/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 10 Feb 2026 10:31:22 +0000"
+  },
+  {
+    "title": "",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/01/9983/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 28 Jan 2026 08:34:50 +0000"
+  },
+  {
+    "title": "KSH Tájékoztatás lakossági adatgyűjtésről",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2026/01/ksh-tajekoztatas-lakossagi-adatgyujtesrol/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 21 Jan 2026 08:14:34 +0000"
+  },
+  {
+    "title": "Kartal 2026.évi hulladéknaptár",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2025/12/kartal-2026-evi-hulladeknaptar/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 18 Dec 2025 09:33:07 +0000"
+  },
+  {
+    "title": "Adatkezelési tájékoztató a szavazatszámláló bizottság választott tagjaival kapcsolatos adatkezelésről",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2025/11/adatkezelesi-tajekoztato-a-szavazatszamlalo-bizottsag-valasztott-tagjaival-kapcsolatos-adatkezelesrol/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 25 Nov 2025 14:46:50 +0000"
+  },
+  {
+    "title": "Közmeghallgatás",
+    "snippet": "",
+    "url": "http://www.kartal.hu/2025/11/kozmeghallgatas-3/",
+    "source": "kartal.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 11 Nov 2025 07:01:32 +0000"
+  },
+  {
+    "title": "430: Kartal - Budapest kimaradó járat",
+    "snippet": "430: Kartal - Budapest kimaradó járat",
+    "url": "https://www.mavcsoport.hu/node/193473",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Convocarea Consiliului Local al Municipiului Focşani în şedinţă ordinară, pentru data de 28 mai 2026",
-    "snippet": "",
-    "url": "https://www.focsani.info/stiri/convocarea-consiliului-local-al-municipiului-focsani-in-sedinta-ordinara-pentru-data-de-28-mai-2026",
-    "source": "focsani.info (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "2026-05-22 17:35:10"
-  },
-  {
     "title": "Eveniment medical de amploare desfășurat la Focșani: peste 150 de cadre medicale au participat la simpozionul „Infecțiile urinare în practica medicală – de la diagnostic, management și prevenție”",
     "snippet": "Echipa Serviciului de Prevenire a Infecțiilor Asociate Asistenței Medicale (SPIAAM) din cadrul Spitalului Județean de Urgență „Sf. Pantelimon” Focșani, coordonată de dr. Stoica Diana, medic primar epidemiologie, a organizat, în parteneriat cu Asociația pentru Prevenirea și Controlul Infecțiilor (APC",
     "url": "https://www.vrancea24.ro/eveniment-medical-de-amploare-desfasurat-la-focsani-peste-150-de-cadre-medicale-au-participat-la-simpozionul-infectiile-urinare-in-practica-medicala-de-la-diagnostic-management-si/",
@@ -25,15 +16,6 @@
     "lang": "ro",
     "scope": "county",
     "date": "Thu, 21 May 2026 21:00:00 +0000"
-  },
-  {
-    "title": "Târg de adopţii la padocul Primăriei Municipiului Focşani",
-    "snippet": "",
-    "url": "https://www.focsani.info/stiri/targ-de-adoptii-la-padocul-primariei-municipiului-focsani-1779362458",
-    "source": "focsani.info (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "2026-05-21 14:20:58"
   },
   {
     "title": "Cautã magazinul MERE din Focșani, ca antidot la scumpirile exagerate: prețuri mici și produse de calitate",
@@ -63,6 +45,24 @@
     "date": "Mon, 18 May 2026 17:15:36 +0000"
   },
   {
+    "title": "Convocarea Consiliului Local al Municipiului Focşani în şedinţă ordinară, pentru data de 28 mai 2026",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/convocarea-consiliului-local-al-municipiului-focsani-in-sedinta-ordinara-pentru-data-de-28-mai-2026",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-05-22 17:35:10"
+  },
+  {
+    "title": "Târg de adopţii la padocul Primăriei Municipiului Focşani",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/targ-de-adoptii-la-padocul-primariei-municipiului-focsani-1779362458",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-05-21 14:20:58"
+  },
+  {
     "title": "Anunț privind combaterea buruienii ambrozia",
     "snippet": "",
     "url": "https://www.focsani.info/stiri/anun-539-privind-combaterea-buruienii-ambrozia",
@@ -70,15 +70,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "2026-05-14 09:39:32"
-  },
-  {
-    "title": "Festivalul Național de Dans „Flori pentru mama” – ediția a XVII-a, desfășurată la Focșani",
-    "snippet": "Duminică, 29 martie, Sala Sporturilor „Alin Moldoveanu” din municipiul Focșani a găzduit cea de-a XVII-a ediție a Festivalului Național de Dans „Flori pentru mama”, eveniment cultural-artistic dedicat promovării talentului tinerilor și celebrării valorilor artistice și familiale. Manifestarea a Cont",
-    "url": "https://www.primariaodobesti.ro/10805-2/",
-    "source": "primariaodobesti.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Mon, 30 Mar 2026 06:49:08 +0000"
   },
   {
     "title": "Convocarea Consiliului Local al Municipiului Focşani în şedinţă extraordinară, pentru data de 14 mai 2026",
@@ -97,5 +88,59 @@
     "lang": "ro",
     "scope": "city",
     "date": "2026-04-28 10:45:59"
+  },
+  {
+    "title": "Convocarea Consiliului Local al Municipiului Focşani în şedinţă ordinară pentru data 30 aprilie 2026",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/convocarea-consiliului-local-al-municipiului-focsani-in-sedinta-ordinara-pentru-data-30-aprilie-2026",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-04-24 13:59:04"
+  },
+  {
+    "title": "ANUNȚ PUBLIC",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/anun-538-public-1776850200",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-04-22 12:30:00"
+  },
+  {
+    "title": "Convocarea Consiliului Local al Municipiului Focşani în şedinţă extraordinară în data de 15 aprilie 2026",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/convocarea-consiliului-local-al-municipiului-focsani-in-sedinta-extraordinara-in-data-de-15-aprilie-2026",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-04-08 15:48:49"
+  },
+  {
+    "title": "ANUNȚ PRIVIND VÂNZAREA PRIN LICITAȚIE PUBLICĂ - TEREN STR. CUZA VODĂ  FOCȘANI",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/anun-538-privind-vanzarea-prin-licita-538-ie-publica-teren-str-cuza-voda-focsani",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-04-08 11:03:19"
+  },
+  {
+    "title": "ANUNȚ PUBLIC",
+    "snippet": "",
+    "url": "https://www.focsani.info/stiri/anun-538-public-1774960394",
+    "source": "focsani.info (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "2026-03-31 15:33:14"
+  },
+  {
+    "title": "Festivalul Național de Dans „Flori pentru mama” – ediția a XVII-a, desfășurată la Focșani",
+    "snippet": "Duminică, 29 martie, Sala Sporturilor „Alin Moldoveanu” din municipiul Focșani a găzduit cea de-a XVII-a ediție a Festivalului Național de Dans „Flori pentru mama”, eveniment cultural-artistic dedicat promovării talentului tinerilor și celebrării valorilor artistice și familiale. Manifestarea a Cont",
+    "url": "https://www.primariaodobesti.ro/10805-2/",
+    "source": "primariaodobesti.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 30 Mar 2026 06:49:08 +0000"
   }
 ]

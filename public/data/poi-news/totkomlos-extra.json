@@ -45,15 +45,6 @@
     "date": "Wed, 05 Jan 2022 15:12:00 +0100"
   },
   {
-    "title": "Gázömlés van Tótkomlóson",
-    "snippet": "Építkezés közben sérült meg egy gázvezeték. The post Gázömlés van Tótkomlóson first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/02/13/gazomles-van-totkomloson/",
-    "source": "24.hu/Tótkomlós",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 13 Feb 2023 11:07:01 +0000"
-  },
-  {
     "title": "Meghívó Tótkomlós Város Önkormányzat Képviselő-testületének ülésére",
     "snippet": "Meghívó Tótkomlós Város Önkormányzat Képviselő-testületének ülésére Az FGSZ Földgázszállító Zrt. gázszolgáltatási szünettel járó karbantartási munkát végez Ajánlattételi felhívás óvoda - és iskolatej programban való részvételre Város Napja - 2026 Lomtalanítás Tótkomlóson 2026. április 18-án, szombat",
     "url": "https://www.totkomlos.hu/hireink-meghivo-totkomlos-varos-onkormanyzat-kepviselo-testuletenek-soros-ulesere_0",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-04-18"
+  },
+  {
+    "title": "Gázömlés van Tótkomlóson",
+    "snippet": "Építkezés közben sérült meg egy gázvezeték. The post Gázömlés van Tótkomlóson first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/02/13/gazomles-van-totkomloson/",
+    "source": "24.hu/Tótkomlós",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 13 Feb 2023 11:07:01 +0000"
   }
 ]

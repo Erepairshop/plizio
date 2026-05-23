@@ -45,6 +45,15 @@
     "date": "Sat, 16 May 2026 17:34:05 +0200"
   },
   {
+    "title": "Sopron kerül a fókuszba az idei Múzeumok Éjszakáján",
+    "snippet": "Sopron kerül a fókuszba az idei Múzeumok Éjszakáján",
+    "url": "https://kultura.hu/muzeumok-ejszakaja-2026-sopron-mautner-zsofi/",
+    "source": "kultura.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Már csak a Scarbantia maradt: eltűntek a soproni ic-k emblematikus nevei",
     "snippet": "Sopron távolsági vasúti közlekedésének emlékezetes korszakát zárták le a közelmúlt menetrendi módosításai. A 2024/2025-ös menetrendváltással egységesítették a Budapest-Keleti pályaudvar és Sopron között közlekedő minőségi szolgáltatást ... p The post Már csak a Scarbantia maradt: eltűntek a soproni ",
     "url": "https://cyberpress.hu/2026/mar-csak-a-scarbantia-maradt-eltuntek-a-soproni-ic-k-emblematikus-nevei/",
@@ -223,5 +232,41 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 11 May 2026 11:09:00 +0200"
+  },
+  {
+    "title": "Az idei Múzeumok Éjszakáján Mautner Zsófi és Sopron is főszerepet kap",
+    "snippet": "Az idei Múzeumok Éjszakáján Mautner Zsófi és Sopron is főszerepet kap",
+    "url": "https://turizmus.com/cikk/programok/muzeumok-ejszakaja-mautner-zsofi-sopron-foszerepben",
+    "source": "turizmus.com (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Mr. Piano varázsolja Sopron utcáira a zene hangulatát",
+    "snippet": "Mr. Piano varázsolja Sopron utcáira a zene hangulatát",
+    "url": "https://www.kisalfold.hu/helyi-kultura/2026/05/mr-piano-zene-varazsa-tolti-be-a-soproni-utcakat",
+    "source": "kisalfold.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Sopron a Múzeumok Éjszakája idei kiemelt városa",
+    "snippet": "Sopron a Múzeumok Éjszakája idei kiemelt városa",
+    "url": "https://mult-kor.hu/sopron-a-muzeumok-ejszakaja-idei-kiemelt-varosa-20260520",
+    "source": "mult-kor.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Sopron bronzérmes az U12-es bajnokságban",
+    "snippet": "A Sopron bronzérmes az U12-es bajnokságban",
+    "url": "https://wbasket.hu/a-sopron-bronzermes-az-u12-es-bajnoksagban/",
+    "source": "wbasket.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

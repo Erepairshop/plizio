@@ -25,5 +25,41 @@
     "lang": "hu",
     "scope": "search",
     "date": "Mon, 02 Sep 2019 07:00:00 GMT"
+  },
+  {
+    "title": "Református templom",
+    "snippet": "Református templom",
+    "url": "http://csaroda.hu/reformatus-templom/",
+    "source": "csaroda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Szevezeti tagolódás",
+    "snippet": "Szevezeti tagolódás Intézményrendszer",
+    "url": "http://csaroda.hu/szevezeti-tagozodas/",
+    "source": "csaroda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ügyrendi bizottság",
+    "snippet": "Ügyrendi bizottság",
+    "url": "http://csaroda.hu/jogi-es-ugyrendi-bizottsag/",
+    "source": "csaroda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Falugondnoki szolgálat",
+    "snippet": "Falugondnoki szolgálat",
+    "url": "http://csaroda.hu/falugondnoki-szolgalat/",
+    "source": "csaroda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

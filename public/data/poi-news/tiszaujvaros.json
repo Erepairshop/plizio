@@ -45,6 +45,15 @@
     "date": "Fri, 22 May 2026 14:19:00 +0200"
   },
   {
+    "title": "Tiszaújváros lakói biztonságban vannak",
+    "snippet": "Tiszaújváros lakói biztonságban vannak",
+    "url": "https://magyarhirlap.hu/belfold/20260522-tiszaujvaros-lakoi-biztonsagban-vannak",
+    "source": "magyarhirlap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Tiszaújvárosi robbanás: a technológiai balesetek jelentős része mögött a dolgozók túlterheltsége áll",
     "snippet": "A balesetek a szakszervezet vezetője szerint nem ritkán a dolgozók túlterheltsége miatt következnek be. The post Tiszaújvárosi robbanás: a technológiai balesetek jelentős része mögött a dolgozók túlterheltsége áll first appeared on 24.hu .",
     "url": "https://24.hu/fn/gazdasag/2026/05/22/tiszaujvarosi-robbanas-tulterhelt-dolgozok/",
@@ -52,6 +61,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 11:45:46 +0000"
+  },
+  {
+    "title": "Újabb részletek a Mol tiszaújvárosi üzemében történt robbanásról, sajtóhírek szerint több áldozat is lehet",
+    "snippet": "Három mentőhelikoptert riasztottak a helyszínre.",
+    "url": "https://index.hu/belfold/2026/05/22/mol-tiszaujvaros-uzem-robbanas-baleset-magyar-peter-miniszterelnok-kapitany-istvan-miniszter/",
+    "source": "index.hu/Tiszaújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 09:34:00 +0200"
+  },
+  {
+    "title": "Robbanás történt a Mol tiszaújvárosi üzemében, egy ember meghalt",
+    "snippet": "A polgármester megerősítette a haláleset tényét, Hernádi Zsolt és Kapitány István is a helyszínre tart, a Mol hivatalos közleményt adott ki. The post Robbanás történt a Mol tiszaújvárosi üzemében, egy ember meghalt first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/22/mol-tiszaujvaros-uzem-robbanas/",
+    "source": "24.hu/Tiszaújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 07:33:36 +0000"
   },
   {
     "title": "Lenin-szobrot állítanak a majálison, elindult a tiltakozás",
@@ -97,5 +124,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 06 Feb 2026 19:05:00 +0100"
+  },
+  {
+    "title": "Bejelentést tett Tiszaújváros polgármestere a MOL üzemében történt robbanás után",
+    "snippet": "Bejelentést tett Tiszaújváros polgármestere a MOL üzemében történt robbanás után",
+    "url": "https://nyugatifeny.hu/2026/05/22/bejelentest-tett-tiszaujvaros-polgarmestere-a-mol-uzemeben-tortent-robbanas-utan",
+    "source": "nyugatifeny.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Tiszaújváros>Nyíregyháza 4240-es késés",
+    "snippet": "Tiszaújváros>Nyíregyháza 4240-es késés",
+    "url": "https://www.mavcsoport.hu/node/193755",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

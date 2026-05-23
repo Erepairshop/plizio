@@ -9,15 +9,6 @@
     "date": "Thu, 19 Mar 2020 09:23:09 +0000"
   },
   {
-    "title": "Bursa Hungarica",
-    "snippet": "",
-    "url": "http://kehidakustany.hu/blog/2025/10/03/bursa-hungarica/",
-    "source": "kehidakustany.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 03 Oct 2025 08:30:23 +0000"
-  },
-  {
     "title": "Európát elárasztó menekülteket ábrázoló kép csüng a kehidakustányi fürdő falán",
     "snippet": "Angela Merkelt megtörve ábrázolja a művész. The post Európát elárasztó menekülteket ábrázoló kép csüng a kehidakustányi fürdő falán first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2018/01/05/europat-elaraszto-menekulteket-abrazolo-kep-csung-a-kehidakustanyi-furdo-falan/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 05 Jan 2018 16:03:19 +0000"
+  },
+  {
+    "title": "Bursa Hungarica",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2025/10/03/bursa-hungarica/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 03 Oct 2025 08:30:23 +0000"
   },
   {
     "title": "Végzés",
@@ -43,5 +43,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 04 Feb 2025 09:08:10 +0000"
+  },
+  {
+    "title": "Végzés",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2025/02/04/vegzes/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 04 Feb 2025 09:05:06 +0000"
+  },
+  {
+    "title": "Tájékoztatás kiskérődzők pestise",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2025/02/04/tajekoztatas-kiskerodzok-pestise/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 04 Feb 2025 08:53:20 +0000"
+  },
+  {
+    "title": "FELHÍVÁS",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2024/06/27/felhivas/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 27 Jun 2024 08:21:16 +0000"
+  },
+  {
+    "title": "IV. Zala Vármegyei Pajtaszínház Találkozó",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2024/05/31/iv-zala-varmegyei-pajtaszinhaz-talalkozo/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 31 May 2024 14:02:46 +0000"
+  },
+  {
+    "title": "Óvodavezető",
+    "snippet": "Deák Ferenc napköziotthonos óvoda és bölcsőde óvodavezetői állás pályázata.",
+    "url": "http://kehidakustany.hu/blog/2024/05/17/kozigallas/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 17 May 2024 08:12:57 +0000"
+  },
+  {
+    "title": "LOMTALANÍTÁS",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2023/04/14/lomtalanitas/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 14 Apr 2023 06:28:03 +0000"
+  },
+  {
+    "title": "Óvodai beiratkozás",
+    "snippet": "",
+    "url": "http://kehidakustany.hu/blog/2023/03/24/ovodai-beiratkozas/",
+    "source": "kehidakustany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 24 Mar 2023 07:23:47 +0000"
   }
 ]

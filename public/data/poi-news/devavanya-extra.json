@@ -1,23 +1,5 @@
 [
   {
-    "title": "Gyomai utca házszámozása",
-    "snippet": "The post Gyomai utca házszámozása appeared first on Dévaványa Város Honlapja .",
-    "url": "https://devavanya.hu/gyomai-utca-hazszamozasa/",
-    "source": "devavanya.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 13:50:41 +0000"
-  },
-  {
-    "title": "Vajda utca házszámozása",
-    "snippet": "The post Vajda utca házszámozása appeared first on Dévaványa Város Honlapja .",
-    "url": "https://devavanya.hu/vajda-utca-hazszamozasa/",
-    "source": "devavanya.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 13:48:00 +0000"
-  },
-  {
     "title": "Nézze meg a gigantikus darázsfészket, amivel hetekig küzdött az otthonában egy dévaványai férfi",
     "snippet": "A férfi szerint érdemes mindenkinek átnéznie a házát.",
     "url": "https://index.hu/belfold/2025/11/12/bekes-varmegye-devavanya-darazsfeszek-vedekezes-csipes/",
@@ -34,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 08 Jul 2025 13:38:33 +0000"
-  },
-  {
-    "title": "Online térben elkövetett csalások",
-    "snippet": "Tájékoztatjuk, hogy osztályunk kiemelt figyelmet fordít az online térben elkövetett bűncselekmények megelőzésére. Az elmúlt időszakban vármegyénkben az alábbi, jellemző csalási formák fordultak elő: Egy vármegyénkben élő lakos 2026. május 12-én tett feljelentést személyesen ismeretlen tettesek ellen",
-    "url": "https://devavanya.hu/online-terben-elkovetett-csalasok/",
-    "source": "devavanya.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 11:55:08 +0000"
   },
   {
     "title": "Magyar Péter betegség miatt lemondta országjárásának dévaványai eseményét",
@@ -63,15 +36,6 @@
     "date": "Sun, 27 Aug 2023 16:39:25 +0000"
   },
   {
-    "title": "Tájékoztatás  az NTAK adatküldést érintő változásokról az alkalmi vendéglátóhelyek számára",
-    "snippet": "Ezúton tájékoztatjuk, hogy a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendeletnek (a továbbiakba",
-    "url": "https://devavanya.hu/tajekoztatas-az-ntak-adatkuldest-erinto-valtozasokrol-az-alkalmi-vendeglatohelyek-szamara/",
-    "source": "devavanya.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 08:08:45 +0000"
-  },
-  {
     "title": "Árokba borult egy autó, a sofőr a helyszínen meghalt",
     "snippet": "A rendőrség teljes szélességében lezárta az érintett útszakaszt.",
     "url": "https://index.hu/belfold/2022/11/23/baleset-autobaleset-arok-bekes-megye-devavanya-gyomaendrod/",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 23 Nov 2022 17:08:00 +0100"
+  },
+  {
+    "title": "Gyomai utca házszámozása",
+    "snippet": "The post Gyomai utca házszámozása appeared first on Dévaványa Város Honlapja .",
+    "url": "https://devavanya.hu/gyomai-utca-hazszamozasa/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 13:50:41 +0000"
   },
   {
     "title": "Egy ember meghalt, három megsérült Dévaványánál",
@@ -90,6 +63,33 @@
     "date": "Wed, 23 Nov 2022 15:09:07 +0000"
   },
   {
+    "title": "Vajda utca házszámozása",
+    "snippet": "The post Vajda utca házszámozása appeared first on Dévaványa Város Honlapja .",
+    "url": "https://devavanya.hu/vajda-utca-hazszamozasa/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 13:48:00 +0000"
+  },
+  {
+    "title": "Online térben elkövetett csalások",
+    "snippet": "Tájékoztatjuk, hogy osztályunk kiemelt figyelmet fordít az online térben elkövetett bűncselekmények megelőzésére. Az elmúlt időszakban vármegyénkben az alábbi, jellemző csalási formák fordultak elő: Egy vármegyénkben élő lakos 2026. május 12-én tett feljelentést személyesen ismeretlen tettesek ellen",
+    "url": "https://devavanya.hu/online-terben-elkovetett-csalasok/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 11:55:08 +0000"
+  },
+  {
+    "title": "Tájékoztatás  az NTAK adatküldést érintő változásokról az alkalmi vendéglátóhelyek számára",
+    "snippet": "Ezúton tájékoztatjuk, hogy a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendeletnek (a továbbiakba",
+    "url": "https://devavanya.hu/tajekoztatas-az-ntak-adatkuldest-erinto-valtozasokrol-az-alkalmi-vendeglatohelyek-szamara/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 08:08:45 +0000"
+  },
+  {
     "title": "FONTOS TÁJÉKOZTATÓ A FELNŐTT HÁZIORVOSI KÖRZETEK VÁLTOZÁSÁRÓL!",
     "snippet": "A jelenlegi háziorvosi körzethatárok még a rendszerváltás után, az akkori lakosságszám alapján kerültek kialakításra. Ennek megfelelően városunkban akkor 4 felnőtt és 2 gyermek háziorvosi valamint 2 fogorvosi körzet került kialakításra, melyek változatlan formában maradtak évtizedeken keresztül. Az ",
     "url": "https://devavanya.hu/fontos-tajekoztato-a-felnott-haziorvosi-korzetek-valtozasarol/",
@@ -97,5 +97,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 13 May 2026 08:08:19 +0000"
+  },
+  {
+    "title": "Tájékoztatás mezőgazdasági összeírásról",
+    "snippet": "The post Tájékoztatás mezőgazdasági összeírásról appeared first on Dévaványa Város Honlapja .",
+    "url": "https://devavanya.hu/tajekoztatas-mezogazdasagi-osszeirasrol/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 12 May 2026 08:18:12 +0000"
+  },
+  {
+    "title": "A Dévaványa, külterület 0752/13 hrsz. alatti komposztálótelep (KTJ: 101831603) egységes környezethasználati engedélyezési eljárása",
+    "snippet": "A Békés Vármegyei Kormányhivatalnál, mint környezetvédelmi hatóságnál folyamatban lévő, a BIOKOMPOSZT Zrt. (1097 Budapest, Illatos út 23., KÜJ: 100 171 653) kérelmére indult egységes környezethasználati engedélyezési eljárásban a területi környezetvédelmi hatóság határozatáról szóló közlemény közhír",
+    "url": "https://devavanya.hu/a-devavanya-kulterulet-0752-13-hrsz-alatti-komposztalotelep-ktj-101831603-egyseges-kornyezethasznalati-engedelyezesi-eljarasa/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 08:06:49 +0000"
+  },
+  {
+    "title": "Tudnivalók a vastagbélszűrésről",
+    "snippet": "Az egészségügyről szóló 1997. évi CLIV. törvény rendelkezéseivel összhangban – amely a vastagbélszűrést is népegészségügyi célú, szervezett szűrővizsgálatként határozza meg – a Nemzeti Népegészségügyi és Gyógyszerészeti Központ kiemelt feladatának tekinti a szűrőprogram eredményes megvalósítását, a ",
+    "url": "https://devavanya.hu/tudnivalok-a-vastagbelszuresrol/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 10:38:17 +0000"
+  },
+  {
+    "title": "A település önkormányzata mély megrendüléssel búcsúzik Dr. Bagi Károlytól,",
+    "snippet": "A település önkormányzata mély megrendüléssel búcsúzik Dr. Bagi Károlytól, Dévaványa elhivatott és köztiszteletben álló háziorvosától. 1944. november 27-én született Kabán, szerény körülmények között, de szorgalmának és kitartásának köszönhetően orvosi diplomát szerzett, majd életét a gyógyítás szol",
+    "url": "https://devavanya.hu/a-telepules-onkormanyzata-mely-megrendulessel-bucsuzik-dr-bagi-karolytol/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 07:32:47 +0000"
+  },
+  {
+    "title": "A Körös-vidéki erdőtervezési körzetre vonatkozó körzeti erdőtervezési eljárás megindítása",
+    "snippet": "Nyilvános Erdőtervezési térképi adatok térképe: https://erdoterkep.nebih.gov.hu/ A Körös-vidéki erdőtervezési körzetre vonatkozó körzeti erdőtervezési eljárás megindítása Az Agrárminisztérium (továbbiakban: AM) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (",
+    "url": "https://devavanya.hu/a-koros-videki-erdotervezesi-korzetre-vonatkozo-korzeti-erdotervezesi-eljaras-meginditasa/",
+    "source": "devavanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 05:58:24 +0000"
   }
 ]

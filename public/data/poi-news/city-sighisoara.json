@@ -25,5 +25,23 @@
     "lang": "ro",
     "scope": "city",
     "date": "Fri, 05 Dec 2025 08:37:16 +0000"
+  },
+  {
+    "title": "PLĂȚI ONLINE",
+    "snippet": "PLĂȚI ONLINE ECETATEAN",
+    "url": "https://ecetatean.primaria-sighisoara.ro/public/cetatean-login/index",
+    "source": "ecetatean.primaria-sighisoara.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Știri municipale",
+    "snippet": "Știri municipale",
+    "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/tiri+municipale-0001604A",
+    "source": "primariasighisoara.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
   }
 ]

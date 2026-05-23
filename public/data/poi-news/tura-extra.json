@@ -45,6 +45,15 @@
     "date": "Sun, 20 Oct 2024 17:54:00 +0200"
   },
   {
+    "title": "Jelenlegi oldal 1",
+    "snippet": "Jelenlegi oldal 1",
+    "url": "http://www.tura.hu/esemenyek?page=0",
+    "source": "tura.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Holtan találtak egy túrázót a Tátrában",
     "snippet": "Napokig keresték a lengyel férfit. The post Holtan találtak egy túrázót a Tátrában first appeared on 24.hu .",
     "url": "https://24.hu/kulfold/2025/10/25/turazo-tatra-baleset-szakadek/",
@@ -52,5 +61,41 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 25 Oct 2025 08:15:12 +0000"
+  },
+  {
+    "title": "Következő oldal ››",
+    "snippet": "Következő oldal ››",
+    "url": "http://www.tura.hu/esemenyek?page=1",
+    "source": "tura.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Utolsó oldal Utolsó »",
+    "snippet": "Utolsó oldal Utolsó »",
+    "url": "http://www.tura.hu/esemenyek?page=2",
+    "source": "tura.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ha Orbán-nap, akkor túra, bor és jókedv!",
+    "snippet": "Ha Orbán-nap, akkor túra, bor és jókedv!",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/orban-nap-batyusmulatsag-borral-turaval-nagymizdon",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Tragédiával végződött egy túra Ausztriában, tehenek támadtak rá egy házaspárra",
+    "snippet": "Tragédiával végződött egy túra Ausztriában, tehenek támadtak rá egy házaspárra",
+    "url": "https://hirado.hu/kulfold/cikk/2026/05/19/tragediaval-vegzodott-egy-tura-ausztriaban-tehenek-tamadtak-ra-egy-ferfira",
+    "source": "hirado.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

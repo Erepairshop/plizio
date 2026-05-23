@@ -45,6 +45,15 @@
     "date": "Tue, 18 Jun 2024 06:30:00 +0200"
   },
   {
+    "title": "Választási információk",
+    "snippet": "Választási információk",
+    "url": "http://www.siklos.hu/valasztasi-informaciok",
+    "source": "siklos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Újra kellett éleszteni egy 6 éves gyereket a siklósi fürdőben",
     "snippet": "A 6 éves fiú valamilyen okból szülői felügyelet nélkül maradhatott, az úszómestereknek mentették meg az életét. The post Újra kellett éleszteni egy 6 éves gyereket a siklósi fürdőben first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2025/04/26/siklos-furdo-6-eves-gyerek-ujraelesztes-mento-uszomester/",
@@ -52,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 26 Apr 2025 11:02:13 +0000"
+  },
+  {
+    "title": "Archív hírek",
+    "snippet": "Archív hírek",
+    "url": "http://www.siklos.hu/hirek/archiv-hirek",
+    "source": "siklos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

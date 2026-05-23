@@ -45,6 +45,15 @@
     "date": "Wed, 20 May 2026 14:20:08 +0000"
   },
   {
+    "title": "Casa de Cultură Oțelu Roșu",
+    "snippet": "Inaugurat în primăvara anului 1963, acest lăcaș de cultură venea să cinstească meritele metalurgiștilor din Oțelu Roșu, nu numai în plămădirea oțelului dar și a artelor și culturii. Corul, dansurile, cineclubul, fanfara, teatrul, orchestra de muzică populară, cea semi-simfonică, brigăzile artistice,",
+    "url": "https://otelu-rosu.ro/2022/10/16/casa-de-cultura-otelu-rosu/",
+    "source": "otelu-rosu.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Sun, 16 Oct 2022 06:02:20 +0000"
+  },
+  {
     "title": "Orașul Buftea, un pol de conservare și promovare a patrimoniului tradițional ilfovean. Casa lui Lişcă, readusă la viaţă în Parcul dintre Flori",
     "snippet": "Autoritățile anunță relocarea și restaurarea unei a doua case tradiționale, în cadrul aceluiași demers de protejare a arhitecturii vernaculare Într-o atmosferă de sărbătoare autentic românească, cu muzică tradițională, veșminte populare, slujbă de binecuvântare oficiată de preoții din comunitate și ",
     "url": "https://jurnaluldeilfov.ro/orasul-buftea-un-pol-de-conservare-si-promovare-a-patrimoniului-traditional-ilfovean-casa-lui-lisca-readusa-la-viata-in-parcul-dintre-flori/",
@@ -108,15 +117,6 @@
     "date": "Thu, 02 Oct 2025 08:42:13 +0000"
   },
   {
-    "title": "Casa de Cultură Oțelu Roșu",
-    "snippet": "Inaugurat în primăvara anului 1963, acest lăcaș de cultură venea să cinstească meritele metalurgiștilor din Oțelu Roșu, nu numai în plămădirea oțelului dar și a artelor și culturii. Corul, dansurile, cineclubul, fanfara, teatrul, orchestra de muzică populară, cea semi-simfonică, brigăzile artistice,",
-    "url": "https://otelu-rosu.ro/2022/10/16/casa-de-cultura-otelu-rosu/",
-    "source": "otelu-rosu.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Sun, 16 Oct 2022 06:02:20 +0000"
-  },
-  {
     "title": "Urs lovit de tren lângă Turnu Roșu. Primar: În fiecare zi am luat măsuri pentru îndepărtarea cazurilor semnalate",
     "snippet": "Un urs a fost lovit mortal de tren n această dimineață, n jurul orei 06:00 Poliția Transporturi fiind alertată prin apel la 112. Evenimentul a avut loc la aproximativ cinci kilometri de orașul Tălmaciu, cadavrul fiind preluat de Direcția Sanitar Veterinară și pentru Siguranța Alimentelor, informează",
     "url": "https://www.turnulsfatului.ro/2025/07/11/urs-lovit-de-tren-langa-turnu-rosu-primar-in-fiecare-zi-am-luat-masuri-pentru-indepartarea-cazurilor-semnalate-221287/",
@@ -144,15 +144,6 @@
     "date": "Mon, 15 Sep 2025 04:15:20 +0000"
   },
   {
-    "title": "Ansamblul Iedera Oțelu Roșu",
-    "snippet": "Localitatea Oțelu Roșu se bucură de ansambluri culturale care-i poartă obiceiurile și tradițiile mai departe, Ansamblul Cultural Iedera. Coregraful profesor Avram Boța învață dansul românesc, tuturor celor care vor să se dezvolte armonios, să facă parte dintr-o formație, să devină o mică vedetă, și ",
-    "url": "https://otelu-rosu.ro/2022/10/16/ansamblul-iedera-otelu-rosu/",
-    "source": "otelu-rosu.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Sun, 16 Oct 2022 05:59:20 +0000"
-  },
-  {
     "title": "Sute de elevi au alergat în Ilfov la crosul care a marcat un secol și jumătate de Cruce Roșie Română",
     "snippet": "@ Competiția s-a desfășurat în două etape, la Buftea și Chitila, cu prilejul Zilei Mondiale a Crucii Roșii Liceul Tehnologic „Barbu A. Știrbey” din Buftea a găzduit pe 8 mai Crosul Crucii Roșii Române, eveniment organizat de Crucea Roșie Română – Filiala Ilfov cu prilejul Zilei Mondiale a Crucii Roș",
     "url": "https://jurnaluldeilfov.ro/competitia-s-a-desfasurat-in-doua-etape-la-buftea-si-chitila-cu-prilejul-zilei-mondiale-a-crucii-rosii/",
@@ -169,5 +160,14 @@
     "lang": "ro",
     "scope": "city",
     "date": "Thu, 17 Jul 2025 04:30:56 +0000"
+  },
+  {
+    "title": "Ansamblul Iedera Oțelu Roșu",
+    "snippet": "Localitatea Oțelu Roșu se bucură de ansambluri culturale care-i poartă obiceiurile și tradițiile mai departe, Ansamblul Cultural Iedera. Coregraful profesor Avram Boța învață dansul românesc, tuturor celor care vor să se dezvolte armonios, să facă parte dintr-o formație, să devină o mică vedetă, și ",
+    "url": "https://otelu-rosu.ro/2022/10/16/ansamblul-iedera-otelu-rosu/",
+    "source": "otelu-rosu.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Sun, 16 Oct 2022 05:59:20 +0000"
   }
 ]

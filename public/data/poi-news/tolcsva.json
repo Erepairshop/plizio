@@ -43,5 +43,50 @@
     "lang": "hu",
     "scope": "search",
     "date": "Fri, 13 May 2022 07:00:00 GMT"
+  },
+  {
+    "title": "Szálláshelyek nyilvántartásba vételi folyamata",
+    "snippet": "Szálláshelyek nyilvántartásba vételi folyamata",
+    "url": "https://tolcsva.hu/onkormanyzat/szallashelyek-nyilvantartasba-veteli-folyamata",
+    "source": "tolcsva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Polgármesteri köszöntő",
+    "snippet": "Polgármesteri köszöntő",
+    "url": "https://tolcsva.hu/onkormanyzat/polgarmesteri-koszonto",
+    "source": "tolcsva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Statisztikai adatok",
+    "snippet": "Statisztikai adatok",
+    "url": "https://tolcsva.hu/onkormanyzat/statisztikai-adatok",
+    "source": "tolcsva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A hivatal elérhetőségei",
+    "snippet": "A hivatal elérhetőségei",
+    "url": "https://tolcsva.hu/onkormanyzat/a-hivatal-elerhetosegei",
+    "source": "tolcsva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Testületi ülések",
+    "snippet": "Testületi ülések",
+    "url": "https://tolcsva.hu/onkormanyzat/testuleti-ulesek",
+    "source": "tolcsva.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

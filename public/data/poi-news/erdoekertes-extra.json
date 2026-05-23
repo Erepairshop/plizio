@@ -1,41 +1,5 @@
 [
   {
-    "title": "Meghívó 2026.05.28-i Képviselő-testületi ülésre",
-    "snippet": "A Meghívó 2026.05.28-i Képviselő-testületi ülésre bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
-    "url": "https://erdokertes.hu/2026/05/22/meghivo-2026-05-28-i-kepviselo-testuleti-ulesre/",
-    "source": "erdokertes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 08:22:07 +0000"
-  },
-  {
-    "title": "Tájékoztató és „Jó Sertéstartási Gyakorlat”",
-    "snippet": "Minimális járványvédelmi követelmények, háztáji sertéstartás kapcsán az afrikai sertéspestis miatt fertőzött, szigorúan korlátozott (SZKT) és fertőzött területeken Felhívom a figyelmét, hogy Ön a környék vaddisznóállományában jelen lévő afrikai sertéspestis (ASP) betegség miatt fertőzött, szigorúan ",
-    "url": "https://erdokertes.hu/2026/05/22/tajekoztato-es-jo-sertestartasi-gyakorlat/",
-    "source": "erdokertes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 06:36:21 +0000"
-  },
-  {
-    "title": "Hirdetmény 8564/2026",
-    "snippet": "A Hirdetmény 8564/2026 bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
-    "url": "https://erdokertes.hu/2026/05/21/hirdetmeny-8564-2026/",
-    "source": "erdokertes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 18:41:34 +0000"
-  },
-  {
-    "title": "Képviselő-testületi ülés 2026.03.31. jkv",
-    "snippet": "A Képviselő-testületi ülés 2026.03.31. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
-    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2026-03-31-jkv/",
-    "source": "erdokertes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 18:33:04 +0000"
-  },
-  {
     "title": "Kivonult a TEK egy férfihoz, aki robbantással fenyegette meg a mentősöket Erdőkertesen",
     "snippet": "A szomszédok szerint mentális betegséggel küzd.",
     "url": "https://index.hu/belfold/2025/10/10/tek-erdokertes-robbantas-fenyegetes-mentok/",
@@ -81,6 +45,15 @@
     "date": "Fri, 07 Oct 2022 09:04:00 +0200"
   },
   {
+    "title": "Meghívó 2026.05.28-i Képviselő-testületi ülésre",
+    "snippet": "A Meghívó 2026.05.28-i Képviselő-testületi ülésre bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/22/meghivo-2026-05-28-i-kepviselo-testuleti-ulesre/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 08:22:07 +0000"
+  },
+  {
     "title": "Kútba zuhant egy 15 éves lány Erdőkertesen",
     "snippet": "A Katasztrófavédelem emberei mentették ki őt a mélyből. The post Kútba zuhant egy 15 éves lány Erdőkertesen first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2023/10/01/erdokertes-15-eves-lany-kutba-esett/",
@@ -88,5 +61,86 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 01 Oct 2023 13:00:09 +0000"
+  },
+  {
+    "title": "Tájékoztató és „Jó Sertéstartási Gyakorlat”",
+    "snippet": "Minimális járványvédelmi követelmények, háztáji sertéstartás kapcsán az afrikai sertéspestis miatt fertőzött, szigorúan korlátozott (SZKT) és fertőzött területeken Felhívom a figyelmét, hogy Ön a környék vaddisznóállományában jelen lévő afrikai sertéspestis (ASP) betegség miatt fertőzött, szigorúan ",
+    "url": "https://erdokertes.hu/2026/05/22/tajekoztato-es-jo-sertestartasi-gyakorlat/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 06:36:21 +0000"
+  },
+  {
+    "title": "Hirdetmény 8564/2026",
+    "snippet": "A Hirdetmény 8564/2026 bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/hirdetmeny-8564-2026/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:41:34 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2026.03.31. jkv",
+    "snippet": "A Képviselő-testületi ülés 2026.03.31. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2026-03-31-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:33:04 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2026.03.03. jkv",
+    "snippet": "A Képviselő-testületi ülés 2026.03.03. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2026-03-03-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:32:20 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2026.02.25. jkv",
+    "snippet": "A Képviselő-testületi ülés 2026.02.25. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2026-02-25-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:30:55 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2026.02.17. jkv",
+    "snippet": "A Képviselő-testületi ülés 2026.02.17. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2026-02-17-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:27:56 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2025.12.11. jkv",
+    "snippet": "A Képviselő-testületi ülés 2025.12.11. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2025-12-11-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:25:54 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2025.12.08. jkv",
+    "snippet": "A Képviselő-testületi ülés 2025.12.08. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2025-12-08-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:25:10 +0000"
+  },
+  {
+    "title": "Képviselő-testületi ülés 2025.11.25. jkv",
+    "snippet": "A Képviselő-testületi ülés 2025.11.25. jkv bejegyzés először Erdőkertes Község Honlapja -én jelent meg.",
+    "url": "https://erdokertes.hu/2026/05/21/kepviselo-testuleti-ules-2025-11-25-jkv/",
+    "source": "erdokertes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 18:24:34 +0000"
   }
 ]

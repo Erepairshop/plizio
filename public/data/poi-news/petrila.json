@@ -25,5 +25,32 @@
     "lang": "ro",
     "scope": "city",
     "date": "Thu, 17 Jan 2013 20:35:57 +0000"
+  },
+  {
+    "title": "Articolul anterior Primaria",
+    "snippet": "Articolul anterior Primaria",
+    "url": "http://www.orasulpetrila.ro/portal/hunedoara/petrila/portal.nsf/allbyunid/8277CB5F8C5ACDBDC22584EA00338D5C?OpenDocument",
+    "source": "orasulpetrila.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Link-uri guvernamentale",
+    "snippet": "Link-uri guvernamentale 31.03.2026 Stiri Citeşte tot articolul »",
+    "url": "http://www.orasulpetrila.ro/portal/hunedoara/petrila/portal.nsf/AllByUNID/3FB895B496724ACEC22585300040AD42?OpenDocument",
+    "source": "orasulpetrila.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Alte documente",
+    "snippet": "Alte documente 27.04.2026 Anunturi PETRILA !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js'); Primăria O",
+    "url": "http://www.orasulpetrila.ro/portal/hunedoara/petrila/portal.nsf/AllByUNID/2ECF2DE76A7B7DB7C2258507004B0D80?OpenDocument",
+    "source": "orasulpetrila.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
   }
 ]

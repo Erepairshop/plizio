@@ -45,24 +45,6 @@
     "date": "Mon, 24 Nov 2025 11:22:35 +0000"
   },
   {
-    "title": "Hatalmas tűz és robbanás – kigyulladt egy szalmabálákkal teli raktárépület Bács-Kiskun megyében",
-    "snippet": "Több mint negyvenen dolgoztak a lángok megfékezésén.",
-    "url": "https://index.hu/belfold/2025/11/24/lajosmizse-orkeny-tuz-robbanas-tanya-katasztrofavedelem/",
-    "source": "index.hu/Lajosmizse",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 24 Nov 2025 06:53:00 +0100"
-  },
-  {
-    "title": "Állásbörze",
-    "snippet": "Állásbörze Közzétéve: 2026-05-18",
-    "url": "http://www.lajosmizse.hu?hir=927",
-    "source": "lajosmizse.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-18"
-  },
-  {
     "title": "Környezetvédelmi díj hirdetmény",
     "snippet": "Környezetvédelmi díj hirdetmény Közzétéve: 2026-05-12",
     "url": "http://www.lajosmizse.hu?hir=924",
@@ -72,6 +54,15 @@
     "date": "2026-05-12"
   },
   {
+    "title": "Hatalmas tűz és robbanás – kigyulladt egy szalmabálákkal teli raktárépület Bács-Kiskun megyében",
+    "snippet": "Több mint negyvenen dolgoztak a lángok megfékezésén.",
+    "url": "https://index.hu/belfold/2025/11/24/lajosmizse-orkeny-tuz-robbanas-tanya-katasztrofavedelem/",
+    "source": "index.hu/Lajosmizse",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 24 Nov 2025 06:53:00 +0100"
+  },
+  {
     "title": "Tájékoztatás áramszünetről",
     "snippet": "Tájékoztatás áramszünetről Közzétéve: 2026-05-06",
     "url": "http://www.lajosmizse.hu?hir=922",
@@ -79,15 +70,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-06"
-  },
-  {
-    "title": "Második hír",
-    "snippet": "Második hír Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc... 2019. Május 17. Részletek",
-    "url": "http://www.lajosmizse.hu/hir2",
-    "source": "lajosmizse.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2019-05-17"
   },
   {
     "title": "Harmadik hír",

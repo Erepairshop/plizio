@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hamis katonai behívót kaptak többen is",
-    "snippet": "Zaklatás miatt indult eljárás az ügyben ismeretlen tettes ellen. The post Hamis katonai behívót kaptak többen is first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/12/domos-gamisitott-katonai-behivo/",
-    "source": "24.hu/Dömös",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 12 May 2026 12:50:17 +0000"
-  },
-  {
     "title": "Katonai behívókkal riogat egy ismeretlen magyar, nyomozást indított a rendőrség",
     "snippet": "Több dömösi lakos is váratlan levelet kapott.",
     "url": "https://index.hu/belfold/2026/05/12/domos-katonai-behivok-komarom-esztergom-varmegye-zaklatas-vetsege-megtevesztes-buncselekmeny/",
@@ -18,22 +9,13 @@
     "date": "Tue, 12 May 2026 06:10:00 +0200"
   },
   {
-    "title": "Meghívó a 01.30-i testületi ülésre",
-    "snippet": "",
-    "url": "http://domos.hu/2024/01/25/meghivo-a-01-30-i-testuleti-ulesre/",
-    "source": "domos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 25 Jan 2024 16:27:36 +0000"
-  },
-  {
-    "title": "Megtalálták a Dömösnél elmerült fiatal holttestét",
-    "snippet": "A 27 éves férfi holttestét Visegrádnál emelték ki a folyóból. The post Megtalálták a Dömösnél elmerült fiatal holttestét first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/10/megtalaltak-a-domosnel-elmerult-fiatal-holttestet/",
+    "title": "Hamis katonai behívót kaptak többen is",
+    "snippet": "Zaklatás miatt indult eljárás az ügyben ismeretlen tettes ellen. The post Hamis katonai behívót kaptak többen is first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/12/domos-gamisitott-katonai-behivo/",
     "source": "24.hu/Dömös",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 10 Jun 2025 11:51:18 +0000"
+    "date": "Tue, 12 May 2026 12:50:17 +0000"
   },
   {
     "title": "Megtalálták a Dömösnél csütörtökön eltűnt férfit",
@@ -45,22 +27,13 @@
     "date": "Tue, 10 Jun 2025 17:57:00 +0200"
   },
   {
-    "title": "Katasztrófavédelmi információk a téli időszakra",
-    "snippet": "",
-    "url": "http://domos.hu/2023/12/06/katasztrofavedelmi-informaciok-a-teli-idoszakra/",
-    "source": "domos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 06 Dec 2023 15:07:30 +0000"
-  },
-  {
-    "title": "Eltűnt a Dunában egy 27 éves férfi",
-    "snippet": "Dömös mellett, fürdőzés közben tűnt el. The post Eltűnt a Dunában egy 27 éves férfi first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/07/domos-duna-eltunt-ferfi-furdozes/",
+    "title": "Megtalálták a Dömösnél elmerült fiatal holttestét",
+    "snippet": "A 27 éves férfi holttestét Visegrádnál emelték ki a folyóból. The post Megtalálták a Dömösnél elmerült fiatal holttestét first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/10/megtalaltak-a-domosnel-elmerult-fiatal-holttestet/",
     "source": "24.hu/Dömös",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 07 Jun 2025 18:37:14 +0000"
+    "date": "Tue, 10 Jun 2025 11:51:18 +0000"
   },
   {
     "title": "Évek óta kitart sérült párja mellett a hűséges gólya",
@@ -72,6 +45,33 @@
     "date": "Fri, 24 Mar 2023 14:18:00 +0100"
   },
   {
+    "title": "Meghívó a 01.30-i testületi ülésre",
+    "snippet": "",
+    "url": "http://domos.hu/2024/01/25/meghivo-a-01-30-i-testuleti-ulesre/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 25 Jan 2024 16:27:36 +0000"
+  },
+  {
+    "title": "Eltűnt a Dunában egy 27 éves férfi",
+    "snippet": "Dömös mellett, fürdőzés közben tűnt el. The post Eltűnt a Dunában egy 27 éves férfi first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/07/domos-duna-eltunt-ferfi-furdozes/",
+    "source": "24.hu/Dömös",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 07 Jun 2025 18:37:14 +0000"
+  },
+  {
+    "title": "Katasztrófavédelmi információk a téli időszakra",
+    "snippet": "",
+    "url": "http://domos.hu/2023/12/06/katasztrofavedelmi-informaciok-a-teli-idoszakra/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 Dec 2023 15:07:30 +0000"
+  },
+  {
     "title": "Meghívó a 2023.11.28-i nyílt rendes testületi ülésre",
     "snippet": "Az előterjesztések a következő linken tekinthetők meg:",
     "url": "http://domos.hu/2023/11/26/meghivo-a-2023-11-28-i-nyilt-rendes-testuleti-ulesre/",
@@ -79,5 +79,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 26 Nov 2023 19:51:11 +0000"
+  },
+  {
+    "title": "Katasztrófavédelmi Információk",
+    "snippet": "",
+    "url": "http://domos.hu/2023/11/22/katasztrofavedelmi-informaciok/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 22 Nov 2023 14:33:07 +0000"
+  },
+  {
+    "title": "Közmeghallgatás – 11.21.",
+    "snippet": "",
+    "url": "http://domos.hu/2023/11/15/kozmeghallgatas-11-21/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 15 Nov 2023 20:13:59 +0000"
+  },
+  {
+    "title": "Meghívó a 10.31-i testületi ülésre",
+    "snippet": "Az előterjesztések a Testületi ülések menüpont alatt érhetők el.",
+    "url": "http://domos.hu/2023/10/29/meghivo-a-10-31-i-testuleti-ulesre/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 29 Oct 2023 09:09:41 +0000"
+  },
+  {
+    "title": "Házszámtábla kihelyezésére történő felhívás",
+    "snippet": "",
+    "url": "http://domos.hu/2023/10/05/hazszamtabla-kihelyezesere-torteno-felhivas/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 05 Oct 2023 16:23:07 +0000"
+  },
+  {
+    "title": "Tájékoztatás a Bursa Hungarica ösztöndíjról",
+    "snippet": "További részletek:",
+    "url": "http://domos.hu/2023/10/05/tajekoztatas-a-bursa-hungarica-osztondijrol/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 05 Oct 2023 16:21:40 +0000"
+  },
+  {
+    "title": "Testületi ülés – 09.26.",
+    "snippet": "Meghívó: Előterjesztések",
+    "url": "http://domos.hu/2023/09/25/testuleti-ules-09-26/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 25 Sep 2023 08:07:33 +0000"
+  },
+  {
+    "title": "Tájékoztatás az eboltásról",
+    "snippet": "",
+    "url": "http://domos.hu/2023/09/07/tajekoztatas-az-eboltasrol-3/",
+    "source": "domos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 Sep 2023 08:06:41 +0000"
   }
 ]

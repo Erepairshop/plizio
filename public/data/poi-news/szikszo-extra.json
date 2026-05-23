@@ -45,6 +45,15 @@
     "date": "Sun, 27 Apr 2025 20:45:00 +0200"
   },
   {
+    "title": "Nemzetiségi önkormányzat",
+    "snippet": "Nemzetiségi önkormányzat Roma Nemzetiségi Önkormányzat",
+    "url": "http://www.szikszo.hu/nemzetisegi-onkormanyzat.html",
+    "source": "szikszo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Lázár megint az osztrákokkal szkanderezik – miközben egy éve mindenki szenved az M30-as mentén",
     "snippet": "A vita tárgya az, kinek kell állnia a sztráda javítási költségeit, ugyanakkor az is látszik: a kormány nem akar repedt autópályával nekifutni a 2026-os választásoknak. The post Lázár megint az osztrákokkal szkanderezik – miközben egy éve mindenki szenved az M30-as mentén first appeared on 24.hu .",
     "url": "https://24.hu/fn/gazdasag/2025/02/15/lazar-janos-strabag-szkander-m30-autopalya-lezaras-javitas-felelosseg/",
@@ -52,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 15 Feb 2025 05:58:06 +0000"
+  },
+  {
+    "title": "Stratégiák, koncepciók",
+    "snippet": "Stratégiák, koncepciók Gazdasági Program",
+    "url": "http://www.szikszo.hu/strategiak-koncepciok.html",
+    "source": "szikszo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Egy Szikszó és Irota közti, délelőtti busz később indul",
+    "snippet": "Egy Szikszó és Irota közti, délelőtti busz később indul",
+    "url": "https://www.mavcsoport.hu/node/193611",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

@@ -45,6 +45,15 @@
     "date": "Sat, 31 Jan 2026 12:28:51 +0000"
   },
   {
+    "title": "Vígjáték, szórakozás, vastaps",
+    "snippet": "Kultúra Vígjáték, szórakozás, vastaps Nagy sikerrel mutatta be vígjátékát a Bánfalvy Stúdió.",
+    "url": "http://www.mezokovesd.hu/hirek/kultura-c3",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Országjárásra indult Magyar Péter, Mezőkövesd volt az első állomás",
     "snippet": "Az eseményen Csézi Erzsébet is felszólalt.",
     "url": "https://index.hu/belfold/2026/02/16/magyar-peter-tisza-part-orszagjaras-mezokovesd-valasztas-2026-csezy-erzsebet/",
@@ -52,5 +61,59 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 16 Feb 2026 21:23:00 +0100"
+  },
+  {
+    "title": "Zeneiskolai beiratkozás",
+    "snippet": "Oktatás Zeneiskolai beiratkozás Folyamatosan lehet jelentkezni a Béres János Alapfokú Művészeti Iskolába.",
+    "url": "http://www.mezokovesd.hu/hirek/oktatas-c1",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kiváló szereplés",
+    "snippet": "Sport Kiváló szereplés Első helyen áll a mezőkövesdi kötődésű Érdi Mária az ILCA 6-os vitorlázó Európa-bajnokságon, így az Aranycsoportban folytatja szereplését.",
+    "url": "http://www.mezokovesd.hu/hirek/sport-c6",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Közlekedés kétkeréken",
+    "snippet": "Sziréna Közlekedés kétkeréken Megérkezett a jó idő, melynek köszönhetően egyre többen kerékpároznak, vagy motoroznak az utakon. A Mezőkövesdi Rendőrkapitányság fontos tanácsokkal segíti a biztonságos közlekedést.",
+    "url": "http://www.mezokovesd.hu/hirek/szirena-c4",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Anyák napi köszöntő",
+    "snippet": "Aktuális Anyák napi köszöntő Dr. Fekete Zoltán polgármester anyák napi gondolatai.",
+    "url": "http://www.mezokovesd.hu/hirek/aktualis-c2",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "snippet": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/88270",
+    "source": "katasztrofavedelem.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "snippet": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "url": "https://webradio.hu/hirek/kek-hirek/arokba-hajtott-egy-kisteherauto-mezokovesd-es-bogacs-kozott",
+    "source": "webradio.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

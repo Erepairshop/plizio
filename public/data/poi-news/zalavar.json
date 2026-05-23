@@ -1,14 +1,5 @@
 [
   {
-    "title": "Lakástűzben meghalt egy ember Zalaváron",
-    "snippet": "A lakásban nem volt füstérzékelő.",
-    "url": "https://index.hu/belfold/2024/09/01/zalavar-tuz-lakastuz-csaladi-haz-halaleset/",
-    "source": "index.hu/Zalavár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 01 Sep 2024 07:45:00 +0200"
-  },
-  {
     "title": "Több mint huszonöt Makovecz-műből lesz műemlék, védetté válik a felcsúti Puskás Akadémia kollégiuma is",
     "snippet": "A 2014-ben alapított intézmény kollégiuma nem a lista legkésőbb épült eleme. The post Több mint huszonöt Makovecz-műből lesz műemlék, védetté válik a felcsúti Puskás Akadémia kollégiuma is first appeared on 24.hu .",
     "url": "https://24.hu/kultura/2025/05/31/makovecz-imre-muemlek-vedelem-muemlekvedelem-rendelet-felcsut-puskas-akademia-sarospatak-zalavar-dobogoko-mako-hagymatikum/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 31 May 2025 11:25:28 +0000"
+  },
+  {
+    "title": "Lakástűzben meghalt egy ember Zalaváron",
+    "snippet": "A lakásban nem volt füstérzékelő.",
+    "url": "https://index.hu/belfold/2024/09/01/zalavar-tuz-lakastuz-csaladi-haz-halaleset/",
+    "source": "index.hu/Zalavár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 01 Sep 2024 07:45:00 +0200"
   },
   {
     "title": "Kigyulladt egy ház, meghalt egy férfi Zalaváron",
@@ -34,5 +34,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 27 Sep 2022 08:28:53 +0000"
+  },
+  {
+    "title": "Álláspályázat - Közművelődési szakember és könyvtáros",
+    "snippet": "Álláspályázat - Közművelődési szakember és könyvtáros 2026. február 02 Álláspályázat - Közművelődési szakember és könyvtáros Bővebben: Álláspályázat - Közművelődési szakember és könyvtáros",
+    "url": "http://www.zalavar.hu/álláspályázat-közművelődési-szakember-és-könyvtáros-2",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Álláspályázat - Közművelődési szakember és könyvtáros",
+    "snippet": "Álláspályázat - Közművelődési szakember és könyvtáros 2025. december 12 Álláspályázat - Közművelődési szakember és könyvtáros (A fenti sorra kattintva olvasható a dokumentum) Bővebben: Álláspályázat - Közművelődési szakember és könyvtáros",
+    "url": "http://www.zalavar.hu/álláspályázat-közművelődési-szakember-és-könyvtáros",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2025-12-12"
+  },
+  {
+    "title": "Pályázati felhívás - Bursa Hungarica, 2026.",
+    "snippet": "Pályázati felhívás - Bursa Hungarica, 2026. 2025. október 07 Bővebben: Pályázati felhívás - Bursa Hungarica, 2026.",
+    "url": "http://www.zalavar.hu/pályázati-felhívás-bursa-hungarica,-2026",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2025-10-07"
+  },
+  {
+    "title": "Álláspályázat - Óvodapedagógus",
+    "snippet": "Álláspályázat - Óvodapedagógus 2025. szeptember 11 Bővebben: Álláspályázat - Óvodapedagógus",
+    "url": "http://www.zalavar.hu/álláspályázat-óvodapedagógus-2",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2025-09-11"
+  },
+  {
+    "title": "Gazdasági Program tervezet",
+    "snippet": "Gazdasági Program tervezet 2025. április 09 Tisztelt Lakosság! Bővebben: Gazdasági Program tervezet",
+    "url": "http://www.zalavar.hu/gazdasági-program-tervezet",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2025-04-09"
+  },
+  {
+    "title": "Álláspályázat - Aljegyző",
+    "snippet": "Álláspályázat - Aljegyző 2024. december 06 Bővebben: Álláspályázat - Aljegyző",
+    "url": "http://www.zalavar.hu/álláspályázat-aljegyző",
+    "source": "zalavar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2024-12-06"
+  },
+  {
+    "title": "Zalavár: kis település nagy lehetőségekkel",
+    "snippet": "Zalavár: kis település nagy lehetőségekkel",
+    "url": "http://www.hirbalaton.hu/zalavar-kis-telepules-nagy-lehetosegekkel/",
+    "source": "hirbalaton.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

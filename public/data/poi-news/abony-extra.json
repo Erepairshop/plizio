@@ -9,15 +9,6 @@
     "date": "Fri, 22 May 2026 19:26:11 +0200"
   },
   {
-    "title": "Kigyulladt egy mérővonat Cegléd és Abony között",
-    "snippet": "Vizsgálódik a katasztrófavédelem. The post Kigyulladt egy mérővonat Cegléd és Abony között first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/06/mav-kigyulladt-vonat-vitezy-lazar/",
-    "source": "24.hu/Cegléd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 06 May 2026 14:12:50 +0000"
-  },
-  {
     "title": "Halálra gázolt a vonat egy embert Cegléd és Abony között",
     "snippet": "A vonalon az esti járatok menetideje 20-40 perccel növekedhet meg.",
     "url": "https://index.hu/belfold/2022/11/22/baleset-gazolas-halal-vonat-kozlekedes-vasut-cegled-abony/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 22 Nov 2022 19:51:00 +0100"
+  },
+  {
+    "title": "Kigyulladt egy mérővonat Cegléd és Abony között",
+    "snippet": "Vizsgálódik a katasztrófavédelem. The post Kigyulladt egy mérővonat Cegléd és Abony között first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/06/mav-kigyulladt-vonat-vitezy-lazar/",
+    "source": "24.hu/Cegléd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 14:12:50 +0000"
   },
   {
     "title": "Elkészült az M4-es Abony és Törökszentmiklós között",
@@ -43,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 06 Aug 2019 04:21:00 +0000"
+  },
+  {
+    "title": "Abony – május 23-án és 24-én ideiglenes forgalmi változás",
+    "snippet": "Abony – május 23-án és 24-én ideiglenes forgalmi változás",
+    "url": "https://www.mavcsoport.hu/node/193635",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "TikTokon hirdetett hamis tízezreseket egy abonyi férfi, tízmilliókat keresett az átveréssel",

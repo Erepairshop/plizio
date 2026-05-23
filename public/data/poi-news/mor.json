@@ -45,15 +45,6 @@
     "date": "Wed, 20 May 2026 03:00:00 GMT"
   },
   {
-    "title": "Strom aus dem Moor: Hier steht Deutschlands größte Photovoltaikanlage mit nassen Füßen - NDR.de",
-    "snippet": "Strom aus dem Moor: Hier steht Deutschlands größte Photovoltaikanlage mit nassen Füßen NDR.de",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXAzbjN6aXhIbHpNVWZpRDItTHhJeXV5NjdJaG1jcDc4dGVDQVlzUU1mbUpxNlMydy1UQmFQd1RYcnBPV056a0c1ODg3a1dPZWVLNmMzeHZIOGFVOHkxMGV5Z0x1NjkyWVlOak5Hc2dtVHNaYlBVYzBMZzk5cW5lMkZTYXYxcUlsNEVrcm1HckZvQlRxQmN4MGplM1k1Z2VFRUlMT2ZLSHo3b2VSb1drWXVHLUtFaTNSdWxFMnhKNzUyR0ZVMEU3bG5jMTdhYXZFMDVKYmRmWTVZbm44Nmw2WGVISk5aMS1sUERwaWlrTTdWQVBL?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Tue, 05 May 2026 07:00:00 GMT"
-  },
-  {
     "title": "Gyermekek napjához kapcsolódó rendezvény",
     "snippet": "Gyermekek napjához kapcsolódó rendezvény 2026. 05. 19.",
     "url": "http://www.mor.hu/program/gyermekek-napjahoz-kapcsolodo-rendezveny",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-31"
+  },
+  {
+    "title": "Strom aus dem Moor: Hier steht Deutschlands größte Photovoltaikanlage mit nassen Füßen - NDR.de",
+    "snippet": "Strom aus dem Moor: Hier steht Deutschlands größte Photovoltaikanlage mit nassen Füßen NDR.de",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXAzbjN6aXhIbHpNVWZpRDItTHhJeXV5NjdJaG1jcDc4dGVDQVlzUU1mbUpxNlMydy1UQmFQd1RYcnBPV056a0c1ODg3a1dPZWVLNmMzeHZIOGFVOHkxMGV5Z0x1NjkyWVlOak5Hc2dtVHNaYlBVYzBMZzk5cW5lMkZTYXYxcUlsNEVrcm1HckZvQlRxQmN4MGplM1k1Z2VFRUlMT2ZLSHo3b2VSb1drWXVHLUtFaTNSdWxFMnhKNzUyR0ZVMEU3bG5jMTdhYXZFMDVKYmRmWTVZbm44Nmw2WGVISk5aMS1sUERwaWlrTTdWQVBL?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Tue, 05 May 2026 07:00:00 GMT"
   }
 ]

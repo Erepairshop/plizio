@@ -45,6 +45,15 @@
     "date": "Tue, 19 May 2026 11:23:53 +0000"
   },
   {
+    "title": "Hotel Bodrog – Étterem",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Hotel Bodrog Étterem bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/hotel-bodrog-etterem/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:10:35 +0000"
+  },
+  {
     "title": "Sárospataki Urbán György Képzúművészeti Szabadiskola- ATR ÉRT Alapítvány – 2026.08.05-15",
     "snippet": "A Sárospataki Urbán György Képzúművészeti Szabadiskola- ATR ÉRT Alapítvány 2026.08.05-15 bejegyzés először Sárospatak Hírportál -én jelent meg.",
     "url": "https://sarospatak-online.hu/2026/05/18/sarospataki-urban-gyorgy-kepzumuveszeti-szabadiskola-atr-ert-alapitvany-2026-08-05-15/",
@@ -81,15 +90,6 @@
     "date": "Fri, 27 Mar 2026 14:47:17 +0000"
   },
   {
-    "title": "Hotel Bodrog – Étterem",
-    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Hotel Bodrog Étterem bejegyzés először Sárospatak Turizmus -én jelent meg.",
-    "url": "https://sarospatak.hu/hotel-bodrog-etterem/",
-    "source": "sarospatak.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 16:10:35 +0000"
-  },
-  {
     "title": "Tarr Zoltán újabb beszéde került nyilvánosságra, radikális reformokra készülhet a Tisza Párt",
     "snippet": "Az EP-képviselő brandek versenyzésének nevezte a politikát.",
     "url": "https://index.hu/belfold/2025/10/02/tarr-zoltan-tisza-part-alelnok-magyar-peter-megszoritas-iskolabezaras-korhaz-nyugdij-kozigazgatas-tamogatas/",
@@ -106,15 +106,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 31 May 2025 11:25:28 +0000"
-  },
-  {
-    "title": "Vár Vendéglő Panzió",
-    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Vár Vendéglő Panzió bejegyzés először Sárospatak Turizmus -én jelent meg.",
-    "url": "https://sarospatak.hu/var-vendeglo-panzio/",
-    "source": "sarospatak.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 16:09:58 +0000"
   },
   {
     "title": "Kortárs vagy hagyományőrző: Sárospatak lakóit is megkérdezték az új kollégiumi épület stílusáról",
@@ -135,6 +126,15 @@
     "date": "Sun, 04 May 2025 04:55:07 +0000"
   },
   {
+    "title": "Vár Vendéglő Panzió",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Vár Vendéglő Panzió bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/var-vendeglo-panzio/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:09:58 +0000"
+  },
+  {
     "title": "Béla Király Udvar Étterem-Kávézó & Belga Söröző",
     "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Béla Király Udvar Étterem-Kávézó Belga Söröző bejegyzés először Sárospatak Turizmus -én jelent meg.",
     "url": "https://sarospatak.hu/bela-kiraly-udvar-etterem-kavezo-belga-sorozo/",
@@ -142,5 +142,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 13 May 2026 16:08:14 +0000"
+  },
+  {
+    "title": "Ristorante Collegno",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Ristorante Collegno bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/ristorante-collegno/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:07:39 +0000"
+  },
+  {
+    "title": "Bor & Bazsalikom Étterem, Pizzéria, Kávézó",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Bor Bazsalikom Étterem, Pizzéria, Kávézó bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/bor-bazsalikom-etterem-pizzeria-kavezo/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:06:08 +0000"
+  },
+  {
+    "title": "A Boros Borbár, Étterem, Borbolt",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A A Boros Borbár, Étterem, Borbolt bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/a-boros-borbar-etterem-borbolt/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:05:43 +0000"
+  },
+  {
+    "title": "Huszár Panzió és Étterem",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Huszár Panzió és Étterem bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/huszar-panzio-es-etterem/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:04:39 +0000"
+  },
+  {
+    "title": "Harsányi Dűlőbisztró és Pincészet",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Harsányi Dűlőbisztró és Pincészet bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/harsanyi-dulobisztro-es-pinceszet/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:03:21 +0000"
+  },
+  {
+    "title": "Pizza Narr",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Pizza Narr bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/pizza-narr/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 15:15:53 +0000"
+  },
+  {
+    "title": "Pizza Express",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Pizza Express bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/pizza-express/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 15:14:26 +0000"
   }
 ]

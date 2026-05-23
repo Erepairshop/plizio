@@ -45,15 +45,6 @@
     "date": "Tue, 28 Apr 2026 09:50:00 +0200"
   },
   {
-    "title": "„Szerettem volna picit nevetségessé tenni a regnáló hatalmat” – nyilatkozta a 24.hu-nak az Orbánt kifigurázó jászberényi polgármester",
-    "snippet": "Budai Lóránt nem tart retorziótól, és úgy véli, a kolbásztöltő fesztivál hangulata alapján nincs mitől rettegniük az embereknek. The post „Szerettem volna picit nevetségessé tenni a regnáló hatalmat” – nyilatkozta a 24.hu-nak az Orbánt kifigurázó jászberényi polgármester first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/17/valasztas-2026-jaszbereny-pocs-janos-fidesz-budai-lorant-orban-parodia/",
-    "source": "24.hu/Jászberény",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 17 Mar 2026 17:00:19 +0000"
-  },
-  {
     "title": "Pályázati hirdetmény - építési telek ingatlan értékesítésére lakóépület építése céljából.",
     "snippet": "Pályázati hirdetmény - építési telek ingatlan értékesítésére lakóépület építése céljából. 2026.05.19.",
     "url": "http://www.jaszbereny.hu/hirek/palyazati-hirdetmeny-epitesi-telek-ingatlan-ertekesitesere-lakoepulet-epitese-celjabol/20841/",
@@ -61,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-19"
+  },
+  {
+    "title": "„Szerettem volna picit nevetségessé tenni a regnáló hatalmat” – nyilatkozta a 24.hu-nak az Orbánt kifigurázó jászberényi polgármester",
+    "snippet": "Budai Lóránt nem tart retorziótól, és úgy véli, a kolbásztöltő fesztivál hangulata alapján nincs mitől rettegniük az embereknek. The post „Szerettem volna picit nevetségessé tenni a regnáló hatalmat” – nyilatkozta a 24.hu-nak az Orbánt kifigurázó jászberényi polgármester first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/17/valasztas-2026-jaszbereny-pocs-janos-fidesz-budai-lorant-orban-parodia/",
+    "source": "24.hu/Jászberény",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 17 Mar 2026 17:00:19 +0000"
   },
   {
     "title": "Az eső sem állhatott a Hajta túrázók útjába",
@@ -124,5 +124,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-03-31"
+  },
+  {
+    "title": "Kimaradó Jászárokszállás és Jászberény közti busz",
+    "snippet": "Kimaradó Jászárokszállás és Jászberény közti busz",
+    "url": "https://www.mavcsoport.hu/node/193206",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

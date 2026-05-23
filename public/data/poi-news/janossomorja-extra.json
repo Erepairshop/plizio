@@ -45,15 +45,6 @@
     "date": "Tue, 08 Apr 2025 15:28:00 +0200"
   },
   {
-    "title": "Kisebb földrengés volt Jánossomorján",
-    "snippet": "Károkról egyelőre nem érkezett jelentés. The post Kisebb földrengés volt Jánossomorján first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/02/03/janossomorja-foldrenges/",
-    "source": "24.hu/Jánossomorja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 03 Feb 2024 08:10:19 +0000"
-  },
-  {
     "title": "Kölyök Gödör",
     "snippet": "Kölyök Gödör 2026.06.14. 14:00 - 19:00",
     "url": "https://janossomorja.hu/esemenyek/kolyok-godor-3/",
@@ -61,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-06-14"
+  },
+  {
+    "title": "Kisebb földrengés volt Jánossomorján",
+    "snippet": "Károkról egyelőre nem érkezett jelentés. The post Kisebb földrengés volt Jánossomorján first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/02/03/janossomorja-foldrenges/",
+    "source": "24.hu/Jánossomorja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 03 Feb 2024 08:10:19 +0000"
   },
   {
     "title": "Nemzeti összetartozás napja",
@@ -79,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-06-01"
-  },
-  {
-    "title": "Hanságfutás",
-    "snippet": "Hanságfutás 2026.05.30. All-day event",
-    "url": "https://janossomorja.hu/esemenyek/hansagfutas/",
-    "source": "janossomorja.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-30"
   },
   {
     "title": "Katonasírok közös gondozása a magyar hősök emlékünnepén",

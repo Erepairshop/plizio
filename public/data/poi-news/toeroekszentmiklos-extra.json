@@ -45,6 +45,15 @@
     "date": "Sun, 21 Dec 2025 07:21:00 +0100"
   },
   {
+    "title": "Áprilisi állatorvosi ügyelet",
+    "snippet": "Áprilisi állatorvosi ügyelet",
+    "url": "http://www.torokszentmiklos.hu/hirek/167715/aprilisi_allatorvosi_ugyelet",
+    "source": "torokszentmiklos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "100 ezer forintot ér a gondozott kert: ebben a városban pénzjutalom jár a legszebb portának",
     "snippet": "A díjazottak „Tiszta udvar, rendes ház” feliratú, a település címerét ábrázoló, falra szerelhető táblát is kapnak. The post 100 ezer forintot ér a gondozott kert: ebben a városban pénzjutalom jár a legszebb portának first appeared on 24.hu .",
     "url": "https://24.hu/otthon/2026/03/05/torokszentmiklos-kert-penzjutalom/",
@@ -90,60 +99,6 @@
     "date": "Fri, 08 May 2026 18:04:22 +0000"
   },
   {
-    "title": "Hirdetmény",
-    "snippet": "Hirdetmény Az M4 T-K szakasz, Törökszentmiklósi csomópont C-ág és kerékpáros út kereszteződésében található kerékpáros aluljárónál (B0059. j. műtárgy) 2026. március 26-án 10,00 órai kezdettel, időjárás függvényébe munkavégzés várható. Alkalmatlan, esős, csapadékos időjárás esetén a pótnap 2026. márc",
-    "url": "http://www.torokszentmiklos.hu/hirek/168705/hirdetmeny",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Tájékoztató",
-    "snippet": "Tájékoztató Tájékoztatjuk a Tisztelt Lakosságot, hogy az EGYMI rendelőintézeben 2026. március 9. (hétfő) napjától nem kötelező a maszk használata.",
-    "url": "http://www.torokszentmiklos.hu/hirek/168445/tajekoztato",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Hirdetmény",
-    "snippet": "Hirdetmény a tankötelessé váló gyermekek általános iskolai beíratásáról",
-    "url": "http://www.torokszentmiklos.hu/hirek/168838/hirdetmeny",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Áprilisi állatorvosi ügyelet",
-    "snippet": "Áprilisi állatorvosi ügyelet",
-    "url": "http://www.torokszentmiklos.hu/hirek/167715/aprilisi_allatorvosi_ugyelet",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Áramszünet",
-    "snippet": "Áramszünet Törökszentmiklóson az alábbi tervezett áramszünet megtartása elengedhetetlen, az üzembiztonság növelése és a későbbi üzemzavarok megelőzése érdekében.",
-    "url": "http://www.torokszentmiklos.hu/hirek/164443/aramszunet",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Hirdetmény",
-    "snippet": "Hirdetmény A Baptista Szeretetszolgálat EJSZ Kölcsey Ferenc Általános Iskola intézmény óvodai és iskolai beíratásáról.",
-    "url": "http://www.torokszentmiklos.hu/hirek/168583/hirdetmeny",
-    "source": "torokszentmiklos.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Mezővédő erdősáv Törökszentmiklós határában",
     "snippet": "Mezővédő erdősáv Törökszentmiklós határában az Agrár-erdészeti rendszerek telepítése, ápolása és fenntartása (KAP-RD21-RD22-1-25) keretében",
     "url": "http://www.torokszentmiklos.hu/hirek/168484/mezovedo_erdosav_torokszentmiklos_hataraban",
@@ -153,10 +108,10 @@
     "date": ""
   },
   {
-    "title": "Hirdetmény",
-    "snippet": "Hirdetmény Szent Kristóf Katolikus Tagóvoda beiratkozás rendjéről és a 2025/2026 nevelési évre vonatkozó nyári zárva tartásról",
-    "url": "http://www.torokszentmiklos.hu/hirek/167960/hirdetmeny",
-    "source": "torokszentmiklos.hu (hivatalos)",
+    "title": "Kupafinálé Mezőtúron: a teher nélkül futballozó Törökszentmiklós vagy a visszavágásra éhes Szajol?",
+    "snippet": "Kupafinálé Mezőtúron: a teher nélkül futballozó Törökszentmiklós vagy a visszavágásra éhes Szajol?",
+    "url": "https://www.szoljon.hu/helyi-sport/2026/05/szajol-torokszentmiklos-varmegyei-kupa-donto",
+    "source": "szoljon.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

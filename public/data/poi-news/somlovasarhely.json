@@ -1,5 +1,41 @@
 [
   {
+    "title": "Magyar Péter: Orbán Viktor szembeköpte a polgári Magyarországot",
+    "snippet": "A Tisza Párt elnöke szerint a miniszterelnök már az oroszok zsoldjában áll.",
+    "url": "https://index.hu/belfold/2025/06/26/magyar-peter-orban-viktor-antall-jozsef-tisza-part-somlovasarhely/",
+    "source": "index.hu/Somlóvásárhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Jun 2025 20:41:00 +0200"
+  },
+  {
+    "title": "Magyar Péter és Jeszenszky Géza Somlóvásárhelyen koccintottak",
+    "snippet": "Szóba került Orbán Viktor is. The post Magyar Péter és Jeszenszky Géza Somlóvásárhelyen koccintottak first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/06/26/magyar-peter-jeszenszky-geza-somlovasarhely-talalkozo/",
+    "source": "24.hu/Somlóvásárhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Jun 2025 19:10:45 +0000"
+  },
+  {
+    "title": "Tagadja a pap, hogy megütötte a tanárnőt",
+    "snippet": "A rendőrségre könnyű testi sértés és rágalmazás gyanúja miatt is érkezett feljelentés. The post Tagadja a pap, hogy megütötte a tanárnőt first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2019/03/20/tagadja-a-pap-hogy-megutotte-a-tanarnot/",
+    "source": "24.hu/Somlóvásárhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 20 Mar 2019 07:32:05 +0000"
+  },
+  {
+    "title": "Az iskolaigazgató szerint fenyegetéssel csikarta ki a tankerület a lemondását",
+    "snippet": "A tankerületi vezető a somlóvásárhelyi plébánost is bepanaszolta a püspöknél, amiért a faluban aláírást gyűjtöttek a nem önszántából távozó iskolaigazgató mellett. The post Az iskolaigazgató szerint fenyegetéssel csikarta ki a tankerület a lemondását first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2018/02/16/az-iskolaigazgato-szerint-fenyegetessel-csikarta-ki-a-tankerulet-a-lemondasat/",
+    "source": "24.hu/Somlóvásárhely",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 16 Feb 2018 16:33:54 +0000"
+  },
+  {
     "title": "Családi nap Kisszőlős",
     "snippet": "",
     "url": "http://somlovasarhely.hu/hirek/csaladi-nap-kisszolos",
@@ -36,24 +72,6 @@
     "date": "Thu, 14 May 2026 07:42:00 +0000"
   },
   {
-    "title": "Magyar Péter: Orbán Viktor szembeköpte a polgári Magyarországot",
-    "snippet": "A Tisza Párt elnöke szerint a miniszterelnök már az oroszok zsoldjában áll.",
-    "url": "https://index.hu/belfold/2025/06/26/magyar-peter-orban-viktor-antall-jozsef-tisza-part-somlovasarhely/",
-    "source": "index.hu/Somlóvásárhely",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 26 Jun 2025 20:41:00 +0200"
-  },
-  {
-    "title": "Magyar Péter és Jeszenszky Géza Somlóvásárhelyen koccintottak",
-    "snippet": "Szóba került Orbán Viktor is. The post Magyar Péter és Jeszenszky Géza Somlóvásárhelyen koccintottak first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/06/26/magyar-peter-jeszenszky-geza-somlovasarhely-talalkozo/",
-    "source": "24.hu/Somlóvásárhely",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 26 Jun 2025 19:10:45 +0000"
-  },
-  {
     "title": "HIRDETMÉNY",
     "snippet": "HIRDETMÉNY",
     "url": "http://somlovasarhely.hu/hirek/hirdetmeny-1",
@@ -61,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 12 May 2026 07:05:45 +0000"
-  },
-  {
-    "title": "Tagadja a pap, hogy megütötte a tanárnőt",
-    "snippet": "A rendőrségre könnyű testi sértés és rágalmazás gyanúja miatt is érkezett feljelentés. The post Tagadja a pap, hogy megütötte a tanárnőt first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2019/03/20/tagadja-a-pap-hogy-megutotte-a-tanarnot/",
-    "source": "24.hu/Somlóvásárhely",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 Mar 2019 07:32:05 +0000"
   },
   {
     "title": "Hírdetmény",
@@ -81,12 +90,39 @@
     "date": "Tue, 31 Mar 2026 09:16:10 +0000"
   },
   {
-    "title": "Az iskolaigazgató szerint fenyegetéssel csikarta ki a tankerület a lemondását",
-    "snippet": "A tankerületi vezető a somlóvásárhelyi plébánost is bepanaszolta a püspöknél, amiért a faluban aláírást gyűjtöttek a nem önszántából távozó iskolaigazgató mellett. The post Az iskolaigazgató szerint fenyegetéssel csikarta ki a tankerület a lemondását first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2018/02/16/az-iskolaigazgato-szerint-fenyegetessel-csikarta-ki-a-tankerulet-a-lemondasat/",
-    "source": "24.hu/Somlóvásárhely",
+    "title": "Somlójenő hulladékudvar nyári nyitvatartása: Kedd: 7,00-15,00 Szombat: 7,00-9,00",
+    "snippet": "",
+    "url": "http://somlovasarhely.hu/hirek/somlojeno-hulladekudvar-nyari-nyitvatartasa-kedd-700-1500-szombat-700-900",
+    "source": "somlovasarhely.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 16 Feb 2018 16:33:54 +0000"
+    "date": "Tue, 31 Mar 2026 09:15:23 +0000"
+  },
+  {
+    "title": "Somlójenői hulladékudvar működési rendjének változása",
+    "snippet": "Tájékoztatás",
+    "url": "http://somlovasarhely.hu/hirek/somlojenoi-hulladekudvar-mukodesi-rendjenek-valtozasa",
+    "source": "somlovasarhely.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 12 Mar 2026 14:21:05 +0000"
+  },
+  {
+    "title": "Tájékoztató",
+    "snippet": "A Központi Statisztikai Hivatal (KSH) Somlóvásárhely településen a hivatal elnöke által 2026-ra engedélyezett, önkéntes adatszolgáltatáson alapuló lakossági adatfelvéteeket hajt végre, a korábbi évek gyakorlata szerint. Somlóvásárhely: 1539 Munkaerő-felmérés és kiegészítő felvételei - havi rendszere",
+    "url": "http://somlovasarhely.hu/hirek/tajekoztato-0",
+    "source": "somlovasarhely.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 03 Feb 2026 14:12:56 +0000"
+  },
+  {
+    "title": "ÁLLÁSPÁLYÁZAT HÁZIORVOS",
+    "snippet": "Álláspályázat",
+    "url": "http://somlovasarhely.hu/hirek/allaspalyazat-haziorvos-11",
+    "source": "somlovasarhely.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 15 Jan 2026 00:00:00 +0000"
   }
 ]

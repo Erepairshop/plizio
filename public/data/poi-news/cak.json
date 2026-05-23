@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "title": "Cák története",
+    "snippet": "Cák története",
+    "url": "http://cak.hu/index.php/cak-tortenete",
+    "source": "cak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Látogatóknak, turistáknak",
+    "snippet": "Látogatóknak, turistáknak",
+    "url": "http://cak.hu/index.php/latogatoknak-turistaknak",
+    "source": "cak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Látnivalók, nevezetességek",
+    "snippet": "Látnivalók, nevezetességek",
+    "url": "http://cak.hu/index.php/latnivalok",
+    "source": "cak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  }
+]

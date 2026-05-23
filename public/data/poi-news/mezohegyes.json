@@ -1,14 +1,5 @@
 [
   {
-    "title": "Mezőhegyes",
-    "snippet": "Mezőhegyes",
-    "url": "https://mezohegyes.hu",
-    "source": "mezohegyes.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Egy csarnoképület gyulladt ki Mezőhegyesen",
     "snippet": "A környező utcákban több órán át nem lesz áramszolgáltatás.",
     "url": "https://index.hu/belfold/2025/09/08/mezohegyes-bekes-varmegye-csarnok-epulet-tuz-katasztrofavedelem/",
@@ -54,6 +45,15 @@
     "date": "Sat, 01 Jun 2024 15:50:00 +0200"
   },
   {
+    "title": "Mezőhegyes - Mezőtúr: reggeli változások",
+    "snippet": "Mezőhegyes - Mezőtúr: reggeli változások",
+    "url": "https://www.mavcsoport.hu/node/193959",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Még élt a bosszúból eszméletlenre vert mezőhegyesi férfi, amikor felgyújtották",
     "snippet": "A testvérek azt, hitték, hogy már halott. Fegyházbüntetést kértek rájuk. The post Még élt a bosszúból eszméletlenre vert mezőhegyesi férfi, amikor felgyújtották first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2023/12/12/meg-elt-a-bosszubol-eszmeletlenre-vert-mezohegyesi-ferfi-amikor-felgyujtottak/",
@@ -61,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 12 Dec 2023 08:34:02 +0000"
+  },
+  {
+    "title": "Mezőhegyes > Békéscsaba: hosszabb menetidő reggel",
+    "snippet": "Mezőhegyes > Békéscsaba: hosszabb menetidő reggel",
+    "url": "https://www.mavcsoport.hu/node/193404",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Mezőhegyes",
+    "snippet": "Mezőhegyes",
+    "url": "https://mezohegyes.hu",
+    "source": "mezohegyes.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

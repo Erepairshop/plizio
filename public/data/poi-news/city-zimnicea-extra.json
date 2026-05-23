@@ -45,15 +45,6 @@
     "date": "Mon, 18 May 2026 15:13:01 +0000"
   },
   {
-    "title": "Cel mai cald Crăciun – 19 grade la Zimnicea și Turnu Măgurele",
-    "snippet": "Locuitorii județului Teleorman au experimentat cel mai cald Crăciun din istoria recentă în ceea ce privește vremea. Datele furnizate de Administrația Națională de Meteorologie (ANM) arată că temperaturile au atins cote neașteptat de ridicate în întreaga regiune, depășind recordurile anterioare și de",
-    "url": "https://liberinteleorman.ro/cel-mai-cald-craciun-19-grade-la-zimnicea-si-turnu-magurele/",
-    "source": "Liber în Teleorman",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Tue, 26 Dec 2023 13:19:11 +0000"
-  },
-  {
     "title": "ANUNȚ DE PARTICIPARE LA LICITAȚIE PUBLICĂ DESCHISĂ",
     "snippet": "Post-ul ANUNȚ DE PARTICIPARE LA LICITAȚIE PUBLICĂ DESCHISĂ apare prima dată în Primăria Orașului Zimnicea .",
     "url": "https://orasulzimnicea.ro/anunt-de-participare-la-licitatie-publica-deschisa/",
@@ -61,6 +52,15 @@
     "lang": "ro",
     "scope": "city",
     "date": "Wed, 13 May 2026 08:18:35 +0000"
+  },
+  {
+    "title": "Cel mai cald Crăciun – 19 grade la Zimnicea și Turnu Măgurele",
+    "snippet": "Locuitorii județului Teleorman au experimentat cel mai cald Crăciun din istoria recentă în ceea ce privește vremea. Datele furnizate de Administrația Națională de Meteorologie (ANM) arată că temperaturile au atins cote neașteptat de ridicate în întreaga regiune, depășind recordurile anterioare și de",
+    "url": "https://liberinteleorman.ro/cel-mai-cald-craciun-19-grade-la-zimnicea-si-turnu-magurele/",
+    "source": "Liber în Teleorman",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 26 Dec 2023 13:19:11 +0000"
   },
   {
     "title": "Petre Pârvu, primarul orașului Zimnicea: “Câinii comunitari, o problemă atât pentru primărie, cât și pentru cetățeni”",
@@ -90,15 +90,6 @@
     "date": "Mon, 18 Feb 2019 17:32:28 +0000"
   },
   {
-    "title": "Comunicat privind desfășurarea activităților de jocuri de noroc pe raza orașului Zimnicea",
-    "snippet": "Post-ul Comunicat privind desfășurarea activităților de jocuri de noroc pe raza orașului Zimnicea apare prima dată în Primăria Orașului Zimnicea .",
-    "url": "https://orasulzimnicea.ro/comunicat-privind-desfasurarea-activitatilor-de-jocuri-de-noroc-pe-raza-orasului-zimnicea/",
-    "source": "orasulzimnicea.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Tue, 10 Mar 2026 10:44:06 +0000"
-  },
-  {
     "title": "Zimnicea, printre zonele cu probleme în privința gunoaielor abandonate pe malurile Dunării / A început primul studiu referitor la cantitatea de microplastic transportată de fluviu",
     "snippet": "Asociația Mai Mult Verde, în parteneriat cu Global Water Partnership România, demarează anul acesta primul studio privind cantitatea de microplastic transportată de Dunăre efectuat în țara noastră. În cadrul acestui studiu vor fi prelevate și analizate aluviunile de pe Dunăre cu scopul de a determin",
     "url": "https://ziarulteleormanul.ro/zimnicea-printre-zonele-cu-probleme-in-privinta-gunoaielor-abandonate-pe-malurile-dunarii-a-inceput-primul-studiu-referitor-la-cantitatea-de-microplastic-transportata-de-fluviu/",
@@ -117,15 +108,6 @@
     "date": "Thu, 02 Dec 2021 11:22:25 +0000"
   },
   {
-    "title": "INFORMARE METEOROLOGICĂ  Interval de valabilitate: 17 februarie, ora 10:00 – 19 februarie, ora 10:00",
-    "snippet": "Post-ul INFORMARE METEOROLOGICĂ Interval de valabilitate: 17 februarie, ora 10:00 – 19 februarie, ora 10:00 apare prima dată în Primăria Orașului Zimnicea .",
-    "url": "https://orasulzimnicea.ro/informare-meteorologica-interval-de-valabilitate-17-februarie-ora-1000-19-februarie-ora-1000/",
-    "source": "orasulzimnicea.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Tue, 17 Feb 2026 11:44:17 +0000"
-  },
-  {
     "title": "“Caravana de bine”, la Zimnicea / Consultații medicale gratuite pentru persoane vulnerabile",
     "snippet": "Societatea Națională de Cruce Roșie din România, în continuarea angajamentului de a interveni acolo unde este nevoie de ajutor, derulează Caravana de Bine, un proiect umanitar dedicat persoanelor vulnerabile și menit să ofere acces la screening medical pentru depistarea unei game variate de afecțiun",
     "url": "https://ziarulteleormanul.ro/caravana-de-bine-la-zimnicea-consultatii-medicale-gratuite-pentru-persoane-vulnerabile/",
@@ -142,5 +124,86 @@
     "lang": "ro",
     "scope": "city",
     "date": "Tue, 28 Jul 2020 06:45:45 +0000"
+  },
+  {
+    "title": "Comunicat privind desfășurarea activităților de jocuri de noroc pe raza orașului Zimnicea",
+    "snippet": "Post-ul Comunicat privind desfășurarea activităților de jocuri de noroc pe raza orașului Zimnicea apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/comunicat-privind-desfasurarea-activitatilor-de-jocuri-de-noroc-pe-raza-orasului-zimnicea/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 10 Mar 2026 10:44:06 +0000"
+  },
+  {
+    "title": "INFORMARE METEOROLOGICĂ  Interval de valabilitate: 17 februarie, ora 10:00 – 19 februarie, ora 10:00",
+    "snippet": "Post-ul INFORMARE METEOROLOGICĂ Interval de valabilitate: 17 februarie, ora 10:00 – 19 februarie, ora 10:00 apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/informare-meteorologica-interval-de-valabilitate-17-februarie-ora-1000-19-februarie-ora-1000/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 17 Feb 2026 11:44:17 +0000"
+  },
+  {
+    "title": "ATENȚIONARE METEOROLOGICĂ COD GALBEN  Interval de valabilitate: 20 ianuarie, ora 20:00 – 21 ianuarie, ora 10:00",
+    "snippet": "Post-ul ATENȚIONARE METEOROLOGICĂ COD GALBEN Interval de valabilitate: 20 ianuarie, ora 20:00 – 21 ianuarie, ora 10:00 apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/tentionare-meteorologica-cod-galben-interval-de-valabilitate-20-ianuarie-ora-2000-21-ianuarie-ora-1000/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 20 Jan 2026 08:23:38 +0000"
+  },
+  {
+    "title": "INFORMARE METEOROLOGICĂ  Interval de valabilitate: 19 ianuarie, ora 10:00 – 22 ianuarie, ora 10:00",
+    "snippet": "Post-ul INFORMARE METEOROLOGICĂ Interval de valabilitate: 19 ianuarie, ora 10:00 – 22 ianuarie, ora 10:00 apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/informare-meteorologica-interval-de-valabilitate-19-ianuarie-ora-1000-22-ianuarie-ora-1000/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 20 Jan 2026 08:21:49 +0000"
+  },
+  {
+    "title": "COD PORTOCALIU DE CANICULĂ. Interval de valabilitate: 23 iulie, ora 10.00 – 24 iulie, ora 10.00.",
+    "snippet": "Post-ul COD PORTOCALIU DE CANICULĂ. Interval de valabilitate: 23 iulie, ora 10.00 – 24 iulie, ora 10.00. apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/cod-portocaliu-de-canicula-interval-de-valabilitate-23-iulie-ora-10-00-24-iulie-ora-10-00/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 23 Jul 2025 06:37:32 +0000"
+  },
+  {
+    "title": "#STOP Incendiilor de vegetație 2025",
+    "snippet": "Post-ul #STOP Incendiilor de vegetație 2025 apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/stop-incendiilor-de-vegetatie-2025/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 26 Jun 2025 09:28:25 +0000"
+  },
+  {
+    "title": "Campanie informare canicula 2025 –   Recomandări generale pentru populație",
+    "snippet": "Post-ul Campanie informare canicula 2025 Recomandări generale pentru populație apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/informare-canicula/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 26 Jun 2025 09:23:17 +0000"
+  },
+  {
+    "title": "Aprobarea Regulamentului pentru stabilirea Normelor de bună gospodărire pe teritoriul administrativ al orașului Zimnicea",
+    "snippet": "Post-ul Aprobarea Regulamentului pentru stabilirea Normelor de bună gospodărire pe teritoriul administrativ al orașului Zimnicea apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/aprobarea-regulamentului-pentru-stabilirea-normelor-de-buna-gospodarire-pe-teritoriul-administrativ-al-orasului-zimnicea/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 31 Mar 2025 11:18:19 +0000"
+  },
+  {
+    "title": "Proiecte implementate prin Programul Operațional Ajutorarea Persoanelor Dezavantajate 2014-2020",
+    "snippet": "Post-ul Proiecte implementate prin Programul Operațional Ajutorarea Persoanelor Dezavantajate 2014-2020 apare prima dată în Primăria Orașului Zimnicea .",
+    "url": "https://orasulzimnicea.ro/6838-2/",
+    "source": "orasulzimnicea.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 27 Mar 2025 13:14:50 +0000"
   }
 ]

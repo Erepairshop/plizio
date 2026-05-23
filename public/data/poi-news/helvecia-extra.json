@@ -1,14 +1,5 @@
 [
   {
-    "title": "Eldurvul az időjárás, módosítani kell a kecskeméti helyszínen",
-    "snippet": "A svájci nagykövetség átköltözteti a szombati pikniket.",
-    "url": "https://index.hu/belfold/2024/09/12/svajci-napok-piknik-kecskemet-nagykovetseg-helyszinvaltozas/",
-    "source": "index.hu/Helvécia",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 12 Sep 2024 16:32:00 +0200"
-  },
-  {
     "title": "Balesetek az ország útjain",
     "snippet": "Teljes útzár a 22-es főúton, Tasson villanyoszlopnak hajtott egy busz. The post Balesetek az ország útjain first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2023/07/29/balesetek-az-orszag-utjain/",
@@ -18,13 +9,13 @@
     "date": "Sat, 29 Jul 2023 06:27:52 +0000"
   },
   {
-    "title": "Svájc egyhetes programsorozattal jelentkezik Kecskeméten",
-    "snippet": "Az erős gazdasági érdekeltséget kiemelve üzleti fórumon tartanak előadást az alpesi ország titkairól.",
-    "url": "https://index.hu/kulfold/2024/09/08/svajc-kecskemet-helvecia-svajci-napok/",
+    "title": "Eldurvul az időjárás, módosítani kell a kecskeméti helyszínen",
+    "snippet": "A svájci nagykövetség átköltözteti a szombati pikniket.",
+    "url": "https://index.hu/belfold/2024/09/12/svajci-napok-piknik-kecskemet-nagykovetseg-helyszinvaltozas/",
     "source": "index.hu/Helvécia",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 08 Sep 2024 21:48:00 +0200"
+    "date": "Thu, 12 Sep 2024 16:32:00 +0200"
   },
   {
     "title": "A helvéciai cserbenhagyásos gázoló letartóztatását kezdeményezik",
@@ -36,13 +27,13 @@
     "date": "Thu, 29 Oct 2020 07:13:20 +0000"
   },
   {
-    "title": "Heten adtak át egy utat Kecskemét mellett, de így is elrontották",
-    "snippet": "Rossz helyre álltak a települések vezetői.",
-    "url": "https://index.hu/belfold/2023/09/04/kecskemet-ut-atadas-helcvecia-baki/",
+    "title": "Svájc egyhetes programsorozattal jelentkezik Kecskeméten",
+    "snippet": "Az erős gazdasági érdekeltséget kiemelve üzleti fórumon tartanak előadást az alpesi ország titkairól.",
+    "url": "https://index.hu/kulfold/2024/09/08/svajc-kecskemet-helvecia-svajci-napok/",
     "source": "index.hu/Helvécia",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 04 Sep 2023 14:41:00 +0200"
+    "date": "Sun, 08 Sep 2024 21:48:00 +0200"
   },
   {
     "title": "Elgázoltak egy nőt Helvécián, majd hagyták meghalni",
@@ -52,5 +43,59 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 26 Oct 2020 14:59:48 +0000"
+  },
+  {
+    "title": "- Állásbörze",
+    "snippet": "- Állásbörze 2026-05-14 - Wass Albert est - Szerelmem, Erdély - Rékasi Károly önálló estje <time datetime=\"2026-05-14",
+    "url": "http://www.helvecia.hu/allasborze",
+    "source": "helvecia.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Heten adtak át egy utat Kecskemét mellett, de így is elrontották",
+    "snippet": "Rossz helyre álltak a települések vezetői.",
+    "url": "https://index.hu/belfold/2023/09/04/kecskemet-ut-atadas-helcvecia-baki/",
+    "source": "index.hu/Helvécia",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 Sep 2023 14:41:00 +0200"
+  },
+  {
+    "title": "- Tájékoztatás Kormányablak busz kitelepüléséről",
+    "snippet": "- Tájékoztatás Kormányablak busz kitelepüléséről <time datetime=\"2026-05-06",
+    "url": "http://www.helvecia.hu/tajekoztatas-kormanyablak-busz-kitelepuleserol",
+    "source": "helvecia.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "- Tájékoztatás útépítésről",
+    "snippet": "- Tájékoztatás útépítésről <time datetime=\"2026-05-05",
+    "url": "http://www.helvecia.hu/tajekoztatas-utepitesrol",
+    "source": "helvecia.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "- Helvécia - április 25-én - terelés rendezvény miatt",
+    "snippet": "- Helvécia - április 25-én - terelés rendezvény miatt <time datetime=\"2026-04-24",
+    "url": "http://www.helvecia.hu/helvecia-aprilis-25-en-tereles-rendezveny-miatt",
+    "source": "helvecia.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Keresés az összes oldalon:",
+    "snippet": "Közadat kereső Keresés az összes oldalon: Keresendő kifejezés Keresés Hírek - Elnyert pályázatok <time datetime=\"2026-02-24",
+    "url": "http://www.helvecia.hu/kozadat-kereso",
+    "source": "helvecia.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-02-24"
   }
 ]

@@ -45,15 +45,6 @@
     "date": "Sun, 21 May 2023 16:28:00 +0200"
   },
   {
-    "title": "Kútba zuhant egy idős nő Létavértesen",
-    "snippet": "Tűzoltók húzták fel. The post Kútba zuhant egy idős nő Létavértesen first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/11/14/kutba-zuhant-egy-idos-no-letavertesen/",
-    "source": "24.hu/Létavértes",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 14 Nov 2022 14:37:11 +0000"
-  },
-  {
     "title": "KÉPVISELŐ-TESTÜLETI ÜLÉS 2026. MÁJUS 28-ÁN 14 ÓRÁTÓL",
     "snippet": "KÉPVISELŐ-TESTÜLETI ÜLÉS 2026. MÁJUS 28-ÁN 14 ÓRÁTÓL Önkormányzat , 2026.05.22. , forrás: Létavértes Városi Önkormányzat",
     "url": "javascript:__doPostBack(&#39;ctl00$ContentPH$UCHirekListB$KecHirlista$ctrl0$LinkButt&#39;,&#39;&#39;)",
@@ -61,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-22"
+  },
+  {
+    "title": "Kútba zuhant egy idős nő Létavértesen",
+    "snippet": "Tűzoltók húzták fel. The post Kútba zuhant egy idős nő Létavértesen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/11/14/kutba-zuhant-egy-idos-no-letavertesen/",
+    "source": "24.hu/Létavértes",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 14 Nov 2022 14:37:11 +0000"
   },
   {
     "title": "80 ÓRÁS NÖVÉNYVÉDELMI ALAPTANFOLYAM (ZÖLDKÖNYVES) INDUL DEBRECENBEN",
@@ -115,14 +115,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-18"
-  },
-  {
-    "title": "Tovább...",
-    "snippet": "2026.05.08. Létavértes Nagylétai Görögkatolikus Egyház - Szimicsku Ferenc Tovább... JAVASLATTÉTELI FELHÍVÁS : \"LÉTAVÉRTES DÍSZPOLGÁRA\" ÉS \"LÉTAVÉRTES VÁROSÉRT DÍJ\" ADOMÁNYOZÁSÁHOZ 2026.05.06. Létavértes Városi Önkormányzat Tovább...",
-    "url": "javascript:__doPostBack(&#39;ctl00$ContentPH$UCHirekListA$KecHirlistaKiemelt$ctrl4$LinkButtonTovabb&#39;,&#39;&#39;)",
-    "source": " (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-08"
   }
 ]

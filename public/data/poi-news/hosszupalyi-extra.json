@@ -18,15 +18,6 @@
     "date": "Mon, 11 May 2026 09:54:57 +0000"
   },
   {
-    "title": "MEGHÍVÓ (közmeghallgatás)",
-    "snippet": "",
-    "url": "https://hosszupalyi.hu/meghivo-kozmeghallgatas/",
-    "source": "hosszupalyi.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 12 May 2026 07:03:59 +0000"
-  },
-  {
     "title": "Halálos baleset történt Debrecennél",
     "snippet": "Tisztázatlan körülmények között sodródott egy kisteherautó a szemközti sávba.",
     "url": "https://index.hu/belfold/2023/08/12/debrecen-hosszupalyi-halalos-baleset-katasztrofavedelem-rendorseg-szemelyauto-tehergepkocsi-utkozes/",
@@ -45,15 +36,6 @@
     "date": "Wed, 06 Sep 2023 07:42:23 +0000"
   },
   {
-    "title": "TÁJÉKOZTATÁS! (áramszünet)",
-    "snippet": "",
-    "url": "https://hosszupalyi.hu/tajekoztatas-aramszunet/",
-    "source": "hosszupalyi.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 08 May 2026 09:50:07 +0000"
-  },
-  {
     "title": "Kicsavart a szél egy nyolcméteres fát, agyonnyomta az alatta ülő polgárőrt",
     "snippet": "A helyiek gyászolják a 60 év körüli férfit.",
     "url": "https://index.hu/belfold/2022/07/07/szelvihar-fa-kidolese-baleset-hosszupalyi/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 Jul 2022 06:12:00 +0200"
+  },
+  {
+    "title": "MEGHÍVÓ (közmeghallgatás)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/meghivo-kozmeghallgatas/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 12 May 2026 07:03:59 +0000"
   },
   {
     "title": "Meghalt egy ember háztűzben Hosszúpályiban",
@@ -72,6 +63,15 @@
     "date": "Wed, 03 Feb 2021 12:57:42 +0000"
   },
   {
+    "title": "TÁJÉKOZTATÁS! (áramszünet)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/tajekoztatas-aramszunet/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 08 May 2026 09:50:07 +0000"
+  },
+  {
     "title": "Tájékoztatás! (Káblex Kft.)",
     "snippet": "",
     "url": "https://hosszupalyi.hu/tajekoztatas-kablex-kft/",
@@ -79,5 +79,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 May 2026 13:39:43 +0000"
+  },
+  {
+    "title": "INGATLANÁRVERÉSI HIRDETMÉNY (1863-2026)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/ingatlanarveresi-hirdetmeny-1863-2026/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 12:38:31 +0000"
+  },
+  {
+    "title": "Lakossági Tájékoztatás (Mobil Hulladékudvar Május)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/lakossagi-tajekoztatas-mobil-hulladekudvar-majus/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 07:33:53 +0000"
+  },
+  {
+    "title": "Kormányablakbusz érkezik Hosszúpályiba",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/kormanyablakbusz-erkezik-hosszupalyiba-3/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 29 Apr 2026 11:37:38 +0000"
+  },
+  {
+    "title": "ADÁSVÉTELI SZERZŐDÉS",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/adasveteli-szerzodes/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 22 Apr 2026 08:50:58 +0000"
+  },
+  {
+    "title": "Tájékoztató! (Debreceni Vízmű Zrt)",
+    "snippet": "Tájékoztatjuk Hosszúpályi település lakosságát, hogy a Debreceni Vízmű Zrt a mai napon ( 04.17.) Hosszúpályi, Nagy utcai csőtörés miatt, hibaelhárítási munkát végez. Vízhiány várható 09.00-órától kb 15.00-óráig, ami érinti a Nagy utcát 2-től 54.-ig, és a Szabadság téren az Iskolát.",
+    "url": "https://hosszupalyi.hu/tajekoztato-debreceni-vizmu-zrt/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 17 Apr 2026 06:58:16 +0000"
+  },
+  {
+    "title": "Tájékoztatás! (Debreceni Vízmű Zrt.)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/tajekoztatas-debreceni-vizmu-zrt-9/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 15 Apr 2026 07:22:55 +0000"
+  },
+  {
+    "title": "Tájékoztatás! (Debreceni Vízmű Zrt.)",
+    "snippet": "",
+    "url": "https://hosszupalyi.hu/tajekoztatas-debreceni-vizmu-zrt-8/",
+    "source": "hosszupalyi.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 10 Apr 2026 05:54:24 +0000"
   }
 ]

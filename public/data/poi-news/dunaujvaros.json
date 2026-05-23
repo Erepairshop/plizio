@@ -36,15 +36,6 @@
     "date": "Sat, 18 Apr 2026 18:57:03 +0000"
   },
   {
-    "title": "Döntött a kormány, Dunaújváros sokmilliárdos adóbevételtől esik el",
-    "snippet": "Új, különleges gazdasági övezetet hoztak létre „Duna mente Fejér megye” néven.",
-    "url": "https://index.hu/gazdasag/2021/06/29/kulonleges-gazdasagi-ovezet-duna-mente-fejer-megye-dontes-dunaujvatos-adobevetel/",
-    "source": "index.hu/Pusztaszabolcs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 29 Jun 2021 08:55:00 +0200"
-  },
-  {
     "title": "Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között",
     "snippet": "Pótlóbuszok szállítják az utasokat. The post Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/11/26/mav-vonat-felsovezetek-dunaujvaros/",
@@ -52,6 +43,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 26 Nov 2024 15:42:06 +0000"
+  },
+  {
+    "title": "„Dunaújváros Ifjúságáért” díjazottak",
+    "snippet": "„Dunaújváros Ifjúságáért” díjazottak A csütörtöki közgyűlés elején Pintér Tamás polgármester és Barta Endre humán alpolgármester ünnepélyes keretek között adták át az idei „Dunaújváros Ifjúságáért” díjakat, amelyekkel a város közössége minden évben az ifjúságnevelés és gyermekvédelem területén végze",
+    "url": "https://dunaujvaros.hu/hir/39017",
+    "source": "dunaujvaros.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-21"
+  },
+  {
+    "title": "Döntött a kormány, Dunaújváros sokmilliárdos adóbevételtől esik el",
+    "snippet": "Új, különleges gazdasági övezetet hoztak létre „Duna mente Fejér megye” néven.",
+    "url": "https://index.hu/gazdasag/2021/06/29/kulonleges-gazdasagi-ovezet-duna-mente-fejer-megye-dontes-dunaujvatos-adobevetel/",
+    "source": "index.hu/Pusztaszabolcs",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 29 Jun 2021 08:55:00 +0200"
   },
   {
     "title": "Körülbelül nyolchektáros területen ég a vegetáció Dunaújváros határában",
@@ -88,15 +97,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 19 Mar 2026 07:44:33 +0000"
-  },
-  {
-    "title": "„Dunaújváros Ifjúságáért” díjazottak",
-    "snippet": "„Dunaújváros Ifjúságáért” díjazottak A csütörtöki közgyűlés elején Pintér Tamás polgármester és Barta Endre humán alpolgármester ünnepélyes keretek között adták át az idei „Dunaújváros Ifjúságáért” díjakat, amelyekkel a város közössége minden évben az ifjúságnevelés és gyermekvédelem területén végze",
-    "url": "https://dunaujvaros.hu/hir/39017",
-    "source": "dunaujvaros.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-21"
   },
   {
     "title": "Módosul az ügyfélfogadás rendje a Kihívás Napja miatt",
@@ -160,5 +160,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-13"
+  },
+  {
+    "title": "Szirénától volt hangos Dunaújváros, sokak boldogságára – képgaléria, videó",
+    "snippet": "Szirénától volt hangos Dunaújváros, sokak boldogságára – képgaléria, videó",
+    "url": "https://www.duol.hu/helyi-kozelet/2026/05/szirena-keklampa-felvonulas-rendor-tuzolto-dunaujvaros",
+    "source": "duol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

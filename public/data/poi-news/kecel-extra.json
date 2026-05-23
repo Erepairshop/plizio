@@ -45,6 +45,15 @@
     "date": "Tue, 20 Feb 2024 10:42:00 +0100"
   },
   {
+    "title": "Önkormányzat partnerei",
+    "snippet": "Önkormányzat partnerei",
+    "url": "http://www.kecel.hu/onkormanyzat/onkormanyzat-partnerei",
+    "source": "kecel.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Ezt a nőt gázolták halálra Kecelnél, segítsen beazonosítani",
     "snippet": "Vasárnap hajnalban történt a tragédia. The post Ezt a nőt gázolták halálra Kecelnél, segítsen beazonosítani first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/11/25/kecel-halalos-baleset-segitsen-azonositani/",
@@ -52,5 +61,32 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 25 Nov 2024 09:50:00 +0000"
+  },
+  {
+    "title": "Keceli Értéktár",
+    "snippet": "Keceli Értéktár",
+    "url": "http://www.kecel.hu/kozerdeku/keceli-ertektar",
+    "source": "kecel.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Civil szervezetek",
+    "snippet": "Civil szervezetek",
+    "url": "http://www.kecel.hu/kozerdeku/civil-szervezetek",
+    "source": "kecel.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Hírek, aktualitások",
+    "snippet": "Hírek, aktualitások",
+    "url": "http://www.kecel.hu/kozerdeku/flora/flora-2024-hirek-aktualitasok",
+    "source": "kecel.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

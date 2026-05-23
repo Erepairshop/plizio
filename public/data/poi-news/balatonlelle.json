@@ -1,14 +1,5 @@
 [
   {
-    "title": "Őrült építkezés megy a Balatonnál",
-    "snippet": "Miközben a helyi lélekszám csökken, ezrével épülnek az új ingatlanok a déli oldalon, a part menti sáv szinte mindenhol beépül. The post Őrült építkezés megy a Balatonnál first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2019/05/04/orult-epitkezes-megy-a-balatonnal/",
-    "source": "24.hu/Balatonlelle",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 04 May 2019 09:45:50 +0000"
-  },
-  {
     "title": "Őszöd a múlt, Lelle a jelen – Dobrev Klára balatoni utazásra vitt rászorulókat",
     "snippet": "A strandolás mellett természetesen Orbán Viktor és Magyar Péter is szóba került.",
     "url": "https://index.hu/belfold/2025/08/17/balatonoszod-balatonlelle-balaton-nyar-dobrev-klara-nyaralas-utazas-raszorulok-segitseg/",
@@ -18,13 +9,13 @@
     "date": "Sun, 17 Aug 2025 15:55:00 +0200"
   },
   {
-    "title": "Egy nagyon rejtélyes haláleset történt Balatonlellén",
-    "snippet": "A rendőrség vizsgálódik, egyelőre nem tudják, miért halt meg az idős hölgy. The post Egy nagyon rejtélyes haláleset történt Balatonlellén first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2016/11/08/egy-nagyon-rejtelyes-halaleset-tortent-balatonlellen/",
+    "title": "Őrült építkezés megy a Balatonnál",
+    "snippet": "Miközben a helyi lélekszám csökken, ezrével épülnek az új ingatlanok a déli oldalon, a part menti sáv szinte mindenhol beépül. The post Őrült építkezés megy a Balatonnál first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2019/05/04/orult-epitkezes-megy-a-balatonnal/",
     "source": "24.hu/Balatonlelle",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 08 Nov 2016 06:00:57 +0000"
+    "date": "Sat, 04 May 2019 09:45:50 +0000"
   },
   {
     "title": "Meghalt egy 26 éves fiatal a Balatonnál, miközben a barátnőjét próbálta kimenteni a tóból",
@@ -36,13 +27,13 @@
     "date": "Tue, 06 Aug 2024 07:21:00 +0200"
   },
   {
-    "title": "Lopni akartak, helyette inkább elszaladtak a tolvajok",
-    "snippet": "A fiatalokat már keresik a rendőrök. The post Lopni akartak, helyette inkább elszaladtak a tolvajok first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2016/09/21/lopni-akartak-helyette-inkabb-elszaladtak-a-tolvajok/",
+    "title": "Egy nagyon rejtélyes haláleset történt Balatonlellén",
+    "snippet": "A rendőrség vizsgálódik, egyelőre nem tudják, miért halt meg az idős hölgy. The post Egy nagyon rejtélyes haláleset történt Balatonlellén first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2016/11/08/egy-nagyon-rejtelyes-halaleset-tortent-balatonlellen/",
     "source": "24.hu/Balatonlelle",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 21 Sep 2016 15:30:22 +0000"
+    "date": "Tue, 08 Nov 2016 06:00:57 +0000"
   },
   {
     "title": "50 kilós cingárból lett a mádi tűzoltó a legerősebb magyar",
@@ -52,5 +43,68 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 19 Jul 2024 17:02:00 +0200"
+  },
+  {
+    "title": "Megnyílik Balatonlelle kutyás paradicsoma",
+    "snippet": "Megnyílik Balatonlelle kutyás paradicsoma Kedves Balatonlelleiek! Megnyílik Balatonlelle kutyás paradicsoma. Várunk minden gazdit és négy lábút a kutyavidámpark ünnepélyes megnyitójára 2026. május 14.-én 16.00 órára Balatonlelle, Szent István utcába. Amire számíthatnak: akadálypályák, ásóhomokozó, a",
+    "url": "https://www.balatonlelle.hu/hu/hir/megnyilik-balatonlelle-kutyas-paradicsoma",
+    "source": "balatonlelle.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Lopni akartak, helyette inkább elszaladtak a tolvajok",
+    "snippet": "A fiatalokat már keresik a rendőrök. The post Lopni akartak, helyette inkább elszaladtak a tolvajok first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2016/09/21/lopni-akartak-helyette-inkabb-elszaladtak-a-tolvajok/",
+    "source": "24.hu/Balatonlelle",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 21 Sep 2016 15:30:22 +0000"
+  },
+  {
+    "title": "BALATONLELLE IDŐJÁRÁS",
+    "snippet": "BALATONLELLE IDŐJÁRÁS !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');",
+    "url": "https://forecast7.com/hu/46d7817d70/balatonlelle/",
+    "source": "forecast7.com (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Weboldal adatkezelési tájékoztató",
+    "snippet": "Weboldal adatkezelési tájékoztató Akadálymentesítési nyilatkozat",
+    "url": "https://www.balatonlelle.hu/hu/varosunk/adatkezelesi-tajekoztato",
+    "source": "balatonlelle.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ugrás az oldal tetejére",
+    "snippet": "Ugrás az oldal tetejére",
+    "url": "https://www.balatonlelle.hu/hirek",
+    "source": "balatonlelle.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "P2web Design Team",
+    "snippet": "© Balatonlelle Város Önkormányzata, 2023. Minden jog fenntartva. Designed by P2web Design Team",
+    "url": "https://www.p2web.hu",
+    "source": "p2web.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Balatonlelle új parkolási rendje a helyieknek kedvez, a turistáknak nem",
+    "snippet": "Balatonlelle új parkolási rendje a helyieknek kedvez, a turistáknak nem",
+    "url": "http://www.hirbalaton.hu/balatonlelle-uj-parkolasi-rendje-a-helyieknek-kedvez-a-turistaknak-nem-sonline-hu/",
+    "source": "hirbalaton.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

@@ -27,15 +27,6 @@
     "date": "Wed, 08 Apr 2026 04:48:46 +0000"
   },
   {
-    "title": "Hello world!",
-    "snippet": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing! The post Hello world! first appeared on Website primăria Motru .",
-    "url": "https://primariamotru.ro/2021/10/13/hello-world/",
-    "source": "primariamotru.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Wed, 13 Oct 2021 14:26:09 +0000"
-  },
-  {
     "title": "Plătică de peste patru kilograme pescuită din lacul de acumulare din Târgu Jiu. Este un record",
     "snippet": "O plătică de mari dimensiuni a fost prinsă astăzi pe insulița din Parcul Central din municipiul Târgu Jiu. Este un adevărat record înregistrat pentru lacurile de acumulare din Târgu Jiu, susține Claudiu Fiu, vicepreședintele Asociația Județene a Vânătorilor și Pescarilor Sportivi (AJVPS) Gorj. Plăti",
     "url": "https://www.gorjonline.ro/platica-de-peste-patru-kilograme-pescuita-din-lacul-de-acumulare-din-targu-jiu-este-un-record/",
@@ -52,5 +43,14 @@
     "lang": "ro",
     "scope": "city",
     "date": "Mon, 16 Mar 2026 13:39:21 +0000"
+  },
+  {
+    "title": "Hello world!",
+    "snippet": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing! The post Hello world! first appeared on Website primăria Motru .",
+    "url": "https://primariamotru.ro/2021/10/13/hello-world/",
+    "source": "primariamotru.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 13 Oct 2021 14:26:09 +0000"
   }
 ]

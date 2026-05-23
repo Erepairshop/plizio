@@ -1,23 +1,5 @@
 [
   {
-    "title": "Egy korszak véget ér: Jászapáti Petra visszavonul",
-    "snippet": "Történelmi sikereket ért el karrierje során.",
-    "url": "https://www.delmagyar.hu/helyi-sport/2026/05/jaszapati-petra-visszavonul-rovidpalyas-gyorskorcsolya?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "Délmagyar",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 14:40:19 +0000"
-  },
-  {
-    "title": "Visszavonul Jászapáti Petra, az Európa-bajnok és olimpiai bronzérmes szegedi gyorskorcsolyázó",
-    "snippet": "Visszavonul az aktív sporttól Jászapáti Petra olimpiai bronzérmes és Európa-bajnok rövidpályás gyorskorcsolyázó. A 27 éves szegedi sportoló péntek délután közösségi oldalán jelentette be döntését, és úgy fogalmazott: a korcsolyázás sokkal többet adott neki, mint amire gyerekként valaha is számított.",
-    "url": "https://szeged365.hu/2026/05/22/visszavonul-jaszapati-petra-az-europa-bajnok-es-olimpiai-bronzermes-szegedi-gyorskorcsolyazo/",
-    "source": "Szeged365",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 16:41:01 +0000"
-  },
-  {
     "title": "„Országot keressél magadnak, te takony” – Pócs János szerint a Tisza emberei szabotázsra készültek Jászapátiban",
     "snippet": "Heves vita alakult ki a fideszes képviselő és a tiszás jelölt között.",
     "url": "https://index.hu/belfold/csatater/2026/04/06/pocs-janos-farady-zoltan-tisza-part-fidesz-halmai-ferenc-zoltan-jaszapati-valasztas-2026/",
@@ -63,6 +45,15 @@
     "date": "Tue, 10 Feb 2026 14:23:00 +0100"
   },
   {
+    "title": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
+    "snippet": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
+    "url": "https://magyarhirlap.hu/sport/20260522-visszavonul-az-olimpiai-bronzermes-es-europa-bajnok-jaszapati-petra",
+    "source": "magyarhirlap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Vezetés közben rosszul lett és meghalt egy 52 éves férfi Jászapátinál",
     "snippet": "Nem a baleset következtében halt meg az árokba csapódó sofőr. The post Vezetés közben rosszul lett és meghalt egy 52 éves férfi Jászapátinál first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/02/10/jaszapati-baleset-rosszulet-sofor/",
@@ -70,5 +61,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 10 Feb 2026 10:33:53 +0000"
+  },
+  {
+    "title": "Visszavonul Jászapáti Petra, az Európa-bajnok és olimpiai bronzérmes szegedi gyorskorcsolyázó",
+    "snippet": "Visszavonul Jászapáti Petra, az Európa-bajnok és olimpiai bronzérmes szegedi gyorskorcsolyázó",
+    "url": "https://szeged365.hu/2026/05/22/visszavonul-jaszapati-petra-az-europa-bajnok-es-olimpiai-bronzermes-szegedi-gyorskorcsolyazo/",
+    "source": "szeged365.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Visszavonul Jászapáti Petra, Szeged olimpiai bronzérmes és Európa-bajnok gyorskorcsolyázója",
+    "snippet": "Visszavonul Jászapáti Petra, Szeged olimpiai bronzérmes és Európa-bajnok gyorskorcsolyázója",
+    "url": "https://szegeder.hu/helyi/2026-05-22/visszavonul-jaszapati-petra-szeged-olimpiai-bronzermes-es-europa-bajnok-gyorskorcsolyazoja/6a1082f647d3c0047539bbec",
+    "source": "szegeder.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Visszavonul az olimpiai 3., Eb-1. Jászapáti Petra",
+    "snippet": "Visszavonul az olimpiai 3., Eb-1. Jászapáti Petra",
+    "url": "https://24.hu/sport/2026/05/22/rovidpalyas-gyorskorcsolya-jaszapati-petra-visszavonulas/",
+    "source": "24.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Egy korszak véget ér: Jászapáti Petra visszavonul",
+    "snippet": "Egy korszak véget ér: Jászapáti Petra visszavonul",
+    "url": "https://www.delmagyar.hu/helyi-sport/2026/05/jaszapati-petra-visszavonul-rovidpalyas-gyorskorcsolya",
+    "source": "delmagyar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Visszavonul az olimpiai bronzérmes és Európa-bajnok gyorskorcsolyázó, Jászapáti Petra",
+    "snippet": "Visszavonul az olimpiai bronzérmes és Európa-bajnok gyorskorcsolyázó, Jászapáti Petra",
+    "url": "https://hirado.hu/sport/cikk/2026/05/22/visszavonul-az-olimpiai-bronzermes-es-europa-bajnok-gyorskorcsolyazo-jaszapati-petra",
+    "source": "hirado.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

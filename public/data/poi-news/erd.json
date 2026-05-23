@@ -45,6 +45,15 @@
     "date": "Thu, 21 May 2026 15:13:22 +0000"
   },
   {
+    "title": "Hírek, aktualitások",
+    "snippet": "Hírek, aktualitások TÁJÉKOZTATÓ AZ ÉRDI NYÁRI TÁBORRÓL 2026. máj. 18. Pályázati felhívás - adóügyi ügyintéző munkakör betöltésére 2026. máj. 18. Pályázati felhívás - SZOCIÁLIS GONDOZÓ KÖZPONT - Munkaügyi ügyintéző munkakör betöltésére 2026. máj. 13. Pályázati felhívás - SZOCIÁLIS GONDOZÓ KÖZPONT - 5",
+    "url": "https://www.erd.hu/kozerdeku-informaciok/hirek-aktualitasok/felhivasok-tajekoztatok/tajekoztato-nyari-taborrol",
+    "source": "erd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "A Szepesség titkai",
     "snippet": "Érdekes és részletgazdag előadást tartott Czenthe Miklós történész Érden május 13-án.",
     "url": "https://erdmost.hu/2026/05/21/a-szepesseg-titkai/",
@@ -63,15 +72,6 @@
     "date": "Tue, 19 May 2026 06:43:00 +0200"
   },
   {
-    "title": "Hódít a sportág, amit akár ötvenévesen is elkezdhetsz, és világklasszissá válhatsz",
-    "snippet": "Komoly dartsverseny Érden.",
-    "url": "https://index.hu/sport/2026/04/18/darts-adc-wdf-pdc-amator-erd-tekauer-greta-norbert-kelemen-peter/",
-    "source": "index.hu/Érd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 18 Apr 2026 14:12:00 +0200"
-  },
-  {
     "title": "Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit",
     "snippet": "Az önkormányzat jegyzőkönyvet vett fel és hivatalosan is megindította az eljárást. The post Kivágott egy fát a kertjében, százezrekre büntethetik az érdi férfit first appeared on 24.hu .",
     "url": "https://24.hu/otthon/2026/05/08/erd-fakivagas-buntetes/",
@@ -81,13 +81,13 @@
     "date": "Fri, 08 May 2026 12:57:47 +0000"
   },
   {
-    "title": "Celluxszal ragasztotta le egy síró kisgyerek száját és orrát egy óvónő egy pest vármegyei bölcsődében",
-    "snippet": "Vádat emeltek ellene.",
-    "url": "https://index.hu/belfold/2026/02/13/pest-varmegyei-fougyeszseg-erd-bolcsode-nevelo-vademeles-bantalmazas-kisgyerekek/",
+    "title": "Hódít a sportág, amit akár ötvenévesen is elkezdhetsz, és világklasszissá válhatsz",
+    "snippet": "Komoly dartsverseny Érden.",
+    "url": "https://index.hu/sport/2026/04/18/darts-adc-wdf-pdc-amator-erd-tekauer-greta-norbert-kelemen-peter/",
     "source": "index.hu/Érd",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 13 Feb 2026 18:35:00 +0100"
+    "date": "Sat, 18 Apr 2026 14:12:00 +0200"
   },
   {
     "title": "Cikkeink és a lakossági felháborodás hatására távoznak Érd és Budapest határából az akkumulátoriparhoz kötődő cégek",
@@ -99,13 +99,13 @@
     "date": "Mon, 04 May 2026 11:36:43 +0000"
   },
   {
-    "title": "Kézigránátokról szóló digitális segédanyagot vetítettek le egy gimnáziumban, több diákot is felzaklatott a felvétel",
-    "snippet": "A diákok korábban lövészgyakorlaton is részt vettek.",
-    "url": "https://index.hu/belfold/2026/02/04/honvedelmi-alapismeretek-kezigranat-oktatofilm-erd/",
+    "title": "Celluxszal ragasztotta le egy síró kisgyerek száját és orrát egy óvónő egy pest vármegyei bölcsődében",
+    "snippet": "Vádat emeltek ellene.",
+    "url": "https://index.hu/belfold/2026/02/13/pest-varmegyei-fougyeszseg-erd-bolcsode-nevelo-vademeles-bantalmazas-kisgyerekek/",
     "source": "index.hu/Érd",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 04 Feb 2026 10:48:00 +0100"
+    "date": "Fri, 13 Feb 2026 18:35:00 +0100"
   },
   {
     "title": "Hogyan kerülhetett akkumulátortesztelő cég Érd határába?",
@@ -117,21 +117,12 @@
     "date": "Tue, 21 Apr 2026 09:04:35 +0000"
   },
   {
-    "title": "Hírek, aktualitások",
-    "snippet": "Hírek, aktualitások TÁJÉKOZTATÓ AZ ÉRDI NYÁRI TÁBORRÓL 2026. máj. 18. Pályázati felhívás - adóügyi ügyintéző munkakör betöltésére 2026. máj. 18. Pályázati felhívás - SZOCIÁLIS GONDOZÓ KÖZPONT - Munkaügyi ügyintéző munkakör betöltésére 2026. máj. 13. Pályázati felhívás - SZOCIÁLIS GONDOZÓ KÖZPONT - 5",
-    "url": "https://www.erd.hu/kozerdeku-informaciok/hirek-aktualitasok/felhivasok-tajekoztatok/tajekoztato-nyari-taborrol",
-    "source": "erd.hu (hivatalos)",
+    "title": "Kézigránátokról szóló digitális segédanyagot vetítettek le egy gimnáziumban, több diákot is felzaklatott a felvétel",
+    "snippet": "A diákok korábban lövészgyakorlaton is részt vettek.",
+    "url": "https://index.hu/belfold/2026/02/04/honvedelmi-alapismeretek-kezigranat-oktatofilm-erd/",
+    "source": "index.hu/Érd",
     "lang": "hu",
     "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Pályázatok",
-    "snippet": "Pályázatok Tájékoztatás a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjról 2025. dec. 02. Tájékoztató a tanulmányi ösztöndíjak elbírálásáról 2025 év 2025. nov. 28. Esélyteremtő ösztöndíj 2025 2025. aug. 20. Tehetséggondozó ösztöndíj 2025 2025. aug. 20. URBIO BAUHAUS – FIATALOK ÖTLETPÁLYÁZATA",
-    "url": "https://www.erd.hu/kozerdeku-informaciok/palyazatok/tanulmanyi-osztondij-palyazatok/bursa-hungarica-felsooktatasi-osztondij-2025/tajekoztatas-a-bursa-hungarica-felsooktatasi-onkormanyzati-osztondijrol",
-    "source": "erd.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
+    "date": "Wed, 04 Feb 2026 10:48:00 +0100"
   }
 ]

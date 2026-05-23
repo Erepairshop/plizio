@@ -45,6 +45,15 @@
     "date": "Sat, 23 Aug 2025 14:30:00 +0200"
   },
   {
+    "title": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
+    "snippet": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
+    "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/sargulas-bucsu-vegzos-agrarhallgatok-vasarhely",
+    "source": "delmagyar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",
     "snippet": "Keleti pályaudvarra tartó Kócsag InterCity vonat a péceli állomáson elütött egy embert.",
     "url": "https://index.hu/belfold/2021/10/05/baleset-vonatgazolas-pecel-halalos-aldozat-budapest-hatvan-miskolc-vonal-megnovekedett-menetido/",
@@ -70,5 +79,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 20 Jan 2024 11:09:00 +0100"
+  },
+  {
+    "title": "Kigyulladt kamion miatt állt az M3-as autópálya forgalma Hatvan közelében",
+    "snippet": "Kigyulladt kamion miatt állt az M3-as autópálya forgalma Hatvan közelében",
+    "url": "https://webradio.hu/hirek/kek-hirek/kigyulladt-kamion-miatt-allt-az-m3-as-autopalya-forgalma-hatvan-kozeleben-frissitve",
+    "source": "webradio.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Pótlóbusz Somoskőújfalu és Hatvan közt egy délutáni vonat helyett",
+    "snippet": "Pótlóbusz Somoskőújfalu és Hatvan közt egy délutáni vonat helyett",
+    "url": "https://www.mavcsoport.hu/node/193830",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A mesterséges intelligenciától az azbesztmentesítésig: több mint hatvan ösztöndíjas mutatta be kutatását a Széchenyi István Egyetemen",
+    "snippet": "A mesterséges intelligenciától az azbesztmentesítésig: több mint hatvan ösztöndíjas mutatta be kutatását a Széchenyi István Egyetemen",
+    "url": "https://www.gyorplusz.hu/gyor/a-mesterseges-intelligenciatol-az-azbesztmentesitesig-tobb-mint-hatvan-osztondijas-mutatta-be-kutatasat-a-szechenyi-istvan-egyetemen/",
+    "source": "gyorplusz.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A mesterséges intelligenciától az azbesztmentesítésig: több mint hatvan ösztöndíjas mutatta be kutatását a Széchenyi István Egyetemen",
+    "snippet": "A mesterséges intelligenciától az azbesztmentesítésig: több mint hatvan ösztöndíjas mutatta be kutatását a Széchenyi István Egyetemen",
+    "url": "https://uni.sze.hu/post/a-mesters%C3%A9ges-intelligenci%C3%A1t%C3%B3l-az-azbesztmentes%C3%ADt%C3%A9sig-t%C3%B6bb-mint-hatvan-%C3%B6szt%C3%B6nd%C3%ADjas-mutatta-be-kutat",
+    "source": "uni.sze.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Délutáni változások Hatvan és Szolnok között",
+    "snippet": "Délutáni változások Hatvan és Szolnok között",
+    "url": "https://www.mavcsoport.hu/node/193728",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

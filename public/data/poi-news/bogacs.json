@@ -1,14 +1,5 @@
 [
   {
-    "title": "Buliztak a mulatós sztárok, egymástól kapták el a koronavírust",
-    "snippet": "A házigazda szerint mindenki be volt oltva.",
-    "url": "https://index.hu/belfold/2021/11/18/bogacs-sihell-ferry-hazibuli-halalos-betegseg-mulatos-zeneszek/",
-    "source": "index.hu/Bogács",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 18 Nov 2021 08:31:00 +0100"
-  },
-  {
     "title": "Állásinterjúra ment egy bogácsi férfi, aztán nyoma veszett",
     "snippet": "Három napja semmit sem tudni a Budapestre utazó férfiről. The post Állásinterjúra ment egy bogácsi férfi, aztán nyoma veszett first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2022/09/09/allasinterjura-ment-egy-bogacsi-ferfi-aztan-nyoma-veszett/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 09 Sep 2022 12:25:04 +0000"
+  },
+  {
+    "title": "Buliztak a mulatós sztárok, egymástól kapták el a koronavírust",
+    "snippet": "A házigazda szerint mindenki be volt oltva.",
+    "url": "https://index.hu/belfold/2021/11/18/bogacs-sihell-ferry-hazibuli-halalos-betegseg-mulatos-zeneszek/",
+    "source": "index.hu/Bogács",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 18 Nov 2021 08:31:00 +0100"
   },
   {
     "title": "Ágy alá bújt a járőr elől a bogácsi betörő",
@@ -81,15 +81,6 @@
     "date": ""
   },
   {
-    "title": "Szívességbank",
-    "snippet": "Szívességbank",
-    "url": "https://bogacs.hu/szivessegbank",
-    "source": "bogacs.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Mezőkövesd – Bükkzsérc kerékpárút kialakítása és a mezőkövesdi közösségi közlekedés fejlesztése",
     "snippet": "Mezőkövesd – Bükkzsérc kerékpárút kialakítása és a mezőkövesdi közösségi közlekedés fejlesztése",
     "url": "https://bogacs.hu/mezokovesd-–-bukkzserc-kerekparut-kialakitasa-es-a-mezokovesdi-kozossegi-kozlekedes-fejlesztese",
@@ -103,6 +94,24 @@
     "snippet": "Miskolc–Bogács turisztikai kerékpárút kialakítása Harsány–Bogács szakaszon",
     "url": "https://bogacs.hu/miskolc–bogacs-turisztikai-kerekparut-kialakitasa-harsany–bogacs-szakaszon",
     "source": "bogacs.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "snippet": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/88270",
+    "source": "katasztrofavedelem.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "snippet": "Árokba hajtott egy kisteherautó Mezőkövesd és Bogács között",
+    "url": "https://webradio.hu/hirek/kek-hirek/arokba-hajtott-egy-kisteherauto-mezokovesd-es-bogacs-kozott",
+    "source": "webradio.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

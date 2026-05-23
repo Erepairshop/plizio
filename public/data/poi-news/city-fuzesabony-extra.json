@@ -45,6 +45,15 @@
     "date": "Sun, 21 Dec 2025 17:11:27 +0000"
   },
   {
+    "title": "KÖZÉRDEKŰ ADATOK",
+    "snippet": "KÖZÉRDEKŰ ADATOK",
+    "url": "http://www.fuzesabony.hu/index.php/kozerdeku-adatok",
+    "source": "fuzesabony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Vasútállomás mosdójában indult meg a szülés egy ikreket váró nőnél, meghalt az egyik gyermek",
     "snippet": "Egy takarítónő kezdte meg a csecsemő újraélesztését.",
     "url": "https://index.hu/belfold/2025/07/09/ikrek-szules-fuzesabony-vasutallomas-takaritono-csecsemo-ujraelesztes/",
@@ -61,5 +70,59 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 16 May 2025 09:08:49 +0000"
+  },
+  {
+    "title": "MÁV hirdetmények",
+    "snippet": "MÁV hirdetmények",
+    "url": "http://www.fuzesabony.hu/index.php/hirdetmenyek-main/hirdetmenyek-mav",
+    "source": "fuzesabony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Polgármesteri köszöntő",
+    "snippet": "Polgármesteri köszöntő",
+    "url": "http://www.fuzesabony.hu/index.php/polgarmesteri-koszonto",
+    "source": "fuzesabony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Információk városunkról",
+    "snippet": "Információk városunkról",
+    "url": "http://www.fuzesabony.hu/index.php/informaciok-varosunkrol",
+    "source": "fuzesabony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Éjszaka, meztelenül riogatta a környékbelieket egy ittas férfi Füzesabony közelében",
+    "snippet": "Éjszaka, meztelenül riogatta a környékbelieket egy ittas férfi Füzesabony közelében",
+    "url": "https://zsaruhirek.hu/bunugyek/2026/05/21/ejszaka-meztelenul-riogatta/",
+    "source": "zsaruhirek.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Nyíregyháza–Füzesabony vonat késés",
+    "snippet": "Nyíregyháza–Füzesabony vonat késés",
+    "url": "https://www.mavcsoport.hu/node/193524",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Füzesabony SC: az utolsó fordulóra maradt a döntés",
+    "snippet": "Füzesabony SC: az utolsó fordulóra maradt a döntés",
+    "url": "https://www.heol.hu/helyi-sport/2026/05/fuzesabony-sc-az-utolso-fordulora-maradt-a-dontes",
+    "source": "heol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

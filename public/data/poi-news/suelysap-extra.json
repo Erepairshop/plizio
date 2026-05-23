@@ -45,6 +45,15 @@
     "date": "Thu, 05 Feb 2026 15:52:00 +0100"
   },
   {
+    "title": "Sülysáp bemutatása",
+    "snippet": "Sülysáp bemutatása",
+    "url": "http://www.sulysap.hu?module=news&action=list&fname=bemutatas",
+    "source": "sulysap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "„IGYEKSZÜNK A KÖRNYEZETTUDATOS SZEMLÉLETET ERŐSÍTENI”",
     "snippet": "Katus Norberttel, Sülysáp alpolgármesterével beszélgettünk közösségről és állatvédelemről, valamint körbejártuk a település környezettudatosságot és az energiahatékonyságot segítő törekvéseit. (Az interjú a Sülysápi Hírforrás 2025/1. számában jelent meg.) Nagyszerűen siker",
     "url": "https://sulysapma.hu/igyekszunk-a-kornyezettudatos-szemleletet-erositeni/?utm_source=rss&utm_medium=rss&utm_campaign=igyekszunk-a-kornyezettudatos-szemleletet-erositeni",
@@ -81,15 +90,6 @@
     "date": "Wed, 04 Dec 2024 07:05:07 +0000"
   },
   {
-    "title": "Sülysáp bemutatása",
-    "snippet": "Sülysáp bemutatása",
-    "url": "http://www.sulysap.hu?module=news&action=list&fname=bemutatas",
-    "source": "sulysap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "A település története",
     "snippet": "A település története",
     "url": "http://www.sulysap.hu?module=news&action=list&fname=tortenet",
@@ -102,42 +102,6 @@
     "title": "Sülysápi értéktár",
     "snippet": "Sülysápi értéktár",
     "url": "http://www.sulysap.hu?module=news&action=list&fname=helyiertektar",
-    "source": "sulysap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Kitüntetettek",
-    "snippet": "Kitüntetettek",
-    "url": "http://www.sulysap.hu?module=news&action=list&fname=kituntetettek",
-    "source": "sulysap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Hírességek",
-    "snippet": "Hírességek",
-    "url": "http://www.sulysap.hu?module=news&action=list&fname=hiressegek",
-    "source": "sulysap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Látnivalók",
-    "snippet": "Látnivalók",
-    "url": "http://www.sulysap.hu?module=news&action=list&fname=latnivalok",
-    "source": "sulysap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Egyházak",
-    "snippet": "Egyházak",
-    "url": "http://www.sulysap.hu?module=news&action=list&fname=egyhazak",
     "source": "sulysap.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",

@@ -1,5 +1,32 @@
 [
   {
+    "title": "Egymilliárdért borászatot tessék!",
+    "snippet": "Valódi kuriózum várja új tulajdonosát.",
+    "url": "https://index.hu/belfold/2022/12/26/pinceszet-boraszat-balaton-hegymagas-boksay-pinceszet/",
+    "source": "index.hu/Hegymagas",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 26 Dec 2022 15:31:00 +0100"
+  },
+  {
+    "title": "Végleg bezár Rákay Philip Balaton-felvidéki étterme",
+    "snippet": "Az éttermet működtető cég is végelszámolás alá került. The post Végleg bezár Rákay Philip Balaton-felvidéki étterme first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/08/21/rakay-philip-balaton-felvidek-hegymagas-etterem-veszteseg/",
+    "source": "24.hu/Hegymagas",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 21 Aug 2023 05:12:45 +0000"
+  },
+  {
+    "title": "„Lefújták a meccset, nincs rossz viszony”",
+    "snippet": "A tapolcai körzetben jártunk, hogy beszélgessünk Navracsics Tiborral és Rig Lajossal, illetve megnéztük azokat a falvakat, amelyekben az ellenzék jó eredményt ért el. The post „Lefújták a meccset, nincs rossz viszony” first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/04/21/navracsics-rig-tapolca-valasztas/",
+    "source": "24.hu/Hegymagas",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 Apr 2022 08:59:30 +0000"
+  },
+  {
     "title": "Szigligeti Napközi Otthonos Óvoda pályázatot hirdet Óvodai gondozó és takarító munkakör betöltésére",
     "snippet": "Munkavégzés helye: 8264 Szigliget, Kossuth utca 51, Szigligeti Napközi Otthonos Óvoda Munkaidő: teljes munkaidő, napi 8 óra A munkakör célja: A mosogatási feladatok elvégzése, az óvoda épületének tisztán tartása, valamint a gyermekek gondozási folyamataiban való aktív segítségnyújtás az óvodapedagóg",
     "url": "https://www.hegymagas.hu/hirek/2026/szigligeti-napkozi-otthonos-ovoda-palyazatot-hirdet-ovodai-gondozo-es-takarito-munkakor-betoltesere/",
@@ -45,24 +72,6 @@
     "date": "Mon, 18 May 2026 09:07:51 +0000"
   },
   {
-    "title": "Egymilliárdért borászatot tessék!",
-    "snippet": "Valódi kuriózum várja új tulajdonosát.",
-    "url": "https://index.hu/belfold/2022/12/26/pinceszet-boraszat-balaton-hegymagas-boksay-pinceszet/",
-    "source": "index.hu/Hegymagas",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 26 Dec 2022 15:31:00 +0100"
-  },
-  {
-    "title": "Végleg bezár Rákay Philip Balaton-felvidéki étterme",
-    "snippet": "Az éttermet működtető cég is végelszámolás alá került. The post Végleg bezár Rákay Philip Balaton-felvidéki étterme first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/08/21/rakay-philip-balaton-felvidek-hegymagas-etterem-veszteseg/",
-    "source": "24.hu/Hegymagas",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 21 Aug 2023 05:12:45 +0000"
-  },
-  {
     "title": "Meghívó Testületi Ülésre – 2026. május 20.",
     "snippet": "Értesítem, hogy a Képviselő-testület 2026. május 20-án (szerdán) 13.00 órai kezdettel nyilvános ülést tart, melyre ezúton tisztelettel meghívom. Az ülés helye: Hegymagas Község Önkormányzata (8265 Hegymagas, Szigligeti utca 13.) Az ülés napirendje: 1. Hegymagas Község Önkormányzat 2025. évi zárszáma",
     "url": "https://www.hegymagas.hu/hirek/2026/meghivo-testuleti-ulesre-2026-majus-20/",
@@ -70,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 15 May 2026 14:43:50 +0000"
-  },
-  {
-    "title": "„Lefújták a meccset, nincs rossz viszony”",
-    "snippet": "A tapolcai körzetben jártunk, hogy beszélgessünk Navracsics Tiborral és Rig Lajossal, illetve megnéztük azokat a falvakat, amelyekben az ellenzék jó eredményt ért el. The post „Lefújták a meccset, nincs rossz viszony” first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/04/21/navracsics-rig-tapolca-valasztas/",
-    "source": "24.hu/Hegymagas",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 Apr 2022 08:59:30 +0000"
   },
   {
     "title": "Agrárium 2026 – Gazdaságszerkezeti összeírás",
@@ -97,5 +97,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 11 May 2026 07:54:12 +0000"
+  },
+  {
+    "title": "Rendőrségi hírek – Osztrák házakba törtek be",
+    "snippet": "Összehangolt akció keretében három Ajka környéki férfit fogtak el a rendőrök. A Burgerlandi Nyomozó Hivatal EGS Bevetési Csoporttal együttműködve a Veszprém vármegyei rendőrök május 6-án hajnalban három férfit kaptak el. Az adatok szerint az elmúlt fél évben több családi házba, valamint a hozzájuk t",
+    "url": "https://www.hegymagas.hu/hirek/2026/rendorsegi-hirek-osztrak-hazakba-tortek-be/",
+    "source": "hegymagas.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 11 May 2026 07:51:56 +0000"
+  },
+  {
+    "title": "Tájékoztatás vendéglátó üzletek részére –  használt sütőolaj gyűjtésének és elszállításának gyakorlata",
+    "snippet": "A MOHU rögzíti, hogy a vendéglátásban keletkező használt sütőolaj gyűjtésének és elszállításának gyakorlata nem változott. Az elmúlt időszakban olyan piaci híresztelések jelentek meg, amelyek félrevezetik a vendéglátóhelyeket. A MOHU ezért jogi lépéseket tesz. A Biofilter félrevezető tájékoztatása s",
+    "url": "https://www.hegymagas.hu/hirek/2026/tajekoztatas-vendeglato-uzletek-reszere-hasznalt-sutoolaj-gyujtesenek-es-elszallitasanak-gyakorlata/",
+    "source": "hegymagas.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 18:50:29 +0000"
   }
 ]

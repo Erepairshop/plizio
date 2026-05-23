@@ -45,15 +45,6 @@
     "date": "Wed, 13 Aug 2025 08:03:12 +0000"
   },
   {
-    "title": "Magyar Péter ezt válaszolta egy kamasz kérdésére: Feminista vagyok",
-    "snippet": "Beszélt a külhoni magyarság helyzetéről is.",
-    "url": "https://index.hu/belfold/2025/08/03/magyar-peter-szentgotthard-tinedzser-kerdes-feminizmus-kulhoni-magyarsag/",
-    "source": "index.hu/Szentgotthárd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 03 Aug 2025 12:24:00 +0200"
-  },
-  {
     "title": "Friss információk az azbeszthelyzettel kapcsolatban",
     "snippet": "2026. május 22. péntek, 10:32 Friss információk az azbeszthelyzettel kapcsolatban Szentgotth&aacute;rd V&aacute;ros &Ouml;nkorm&aacute;nyzata az azbesztszennyez&eacute;ssel kapcsolatos helyzet kezel&eacute;se &eacute;rdek&eacute;ben folyamatosan v&eacute;gzi a sz&uuml;ks&eacute;ges int&eacute;zked&e",
     "url": "javascript:void(0);",
@@ -61,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-22"
+  },
+  {
+    "title": "Magyar Péter ezt válaszolta egy kamasz kérdésére: Feminista vagyok",
+    "snippet": "Beszélt a külhoni magyarság helyzetéről is.",
+    "url": "https://index.hu/belfold/2025/08/03/magyar-peter-szentgotthard-tinedzser-kerdes-feminizmus-kulhoni-magyarsag/",
+    "source": "index.hu/Szentgotthárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 03 Aug 2025 12:24:00 +0200"
   },
   {
     "title": "LAKOSSÁGI TÁJÉKOZTATÓ - A rohonci bányából származó szerpentinit kőzúzalék azbeszttartalmára vonatkozóan",
@@ -79,5 +79,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-04"
+  },
+  {
+    "title": "Több mint kétezer kétéltűt mentettek meg Szentgotthárd mellett egy békaterelő fallal",
+    "snippet": "Több mint kétezer kétéltűt mentettek meg Szentgotthárd mellett egy békaterelő fallal",
+    "url": "https://www.nyugat.hu/cikk/tobb_mint_ketezer_keteltut_mentettek_meg_nellett",
+    "source": "nyugat.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

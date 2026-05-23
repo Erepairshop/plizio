@@ -45,6 +45,15 @@
     "date": "Sun, 26 May 2024 12:11:00 +0200"
   },
   {
+    "title": "Térségi partnerek",
+    "snippet": "Térségi partnerek",
+    "url": "http://www.harkany.hu#partner-tab-content-1",
+    "source": "harkany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Videón, ahogy egy nő megrongálja a katonai sátrat a harkányi kórház előtt",
     "snippet": "Szerinte zavarta a városképet. The post Videón, ahogy egy nő megrongálja a katonai sátrat a harkányi kórház előtt first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2021/05/12/videon-ahogy-egy-no-megrongalja-a-katonai-satrat-a-harkanyi-korhaz-elott/",
@@ -52,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 12 May 2021 14:28:45 +0000"
+  },
+  {
+    "title": "Külföldi partnerek",
+    "snippet": "Külföldi partnerek",
+    "url": "http://www.harkany.hu#partner-tab-content-3",
+    "source": "harkany.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

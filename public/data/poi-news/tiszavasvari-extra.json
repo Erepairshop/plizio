@@ -45,15 +45,6 @@
     "date": "Wed, 16 Apr 2025 06:28:00 +0200"
   },
   {
-    "title": "Barna, darabos víz folyik a csapból Tiszavasváriban, a helyiek sokszor már fürdeni sem mernek benne",
-    "snippet": "A szolgálatató szerint iható a víz, abban vas és mangán lerakodások vannak. The post Barna, darabos víz folyik a csapból Tiszavasváriban, a helyiek sokszor már fürdeni sem mernek benne first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/08/18/viz-csapviz-tiszavasvari-vas-lerakodas-ivoviz-furdes-mosas/",
-    "source": "24.hu/Tiszavasvári",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 18 Aug 2024 18:24:12 +0000"
-  },
-  {
     "title": "Helyi buszjárat Pünkösdi szünet",
     "snippet": "2026.05.22. Helyi buszjárat Pünkösdi szünet",
     "url": "https://tiszavasvari.hu/helyi-buszjarat-punkosdi-szunet/",
@@ -61,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-22"
+  },
+  {
+    "title": "Barna, darabos víz folyik a csapból Tiszavasváriban, a helyiek sokszor már fürdeni sem mernek benne",
+    "snippet": "A szolgálatató szerint iható a víz, abban vas és mangán lerakodások vannak. The post Barna, darabos víz folyik a csapból Tiszavasváriban, a helyiek sokszor már fürdeni sem mernek benne first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/08/18/viz-csapviz-tiszavasvari-vas-lerakodas-ivoviz-furdes-mosas/",
+    "source": "24.hu/Tiszavasvári",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 18 Aug 2024 18:24:12 +0000"
   },
   {
     "title": "II. Városi Tehetség Gála",
@@ -81,15 +81,6 @@
     "date": "2026-05-18"
   },
   {
-    "title": "Közlemény",
-    "snippet": "2026.05.15. Közlemény",
-    "url": "https://tiszavasvari.hu/kozlemeny-2/",
-    "source": "tiszavasvari.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-15"
-  },
-  {
     "title": "Lakossági tájékoztatás",
     "snippet": "2026.05.14. Lakossági tájékoztatás",
     "url": "https://tiszavasvari.hu/lakossagi-tajekoztatas-2/",
@@ -97,5 +88,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-14"
+  },
+  {
+    "title": "Atyaég! Tíz gólig jutott a Nyírbátor, életben tartotta esélyeit a Tiszavasvári",
+    "snippet": "Atyaég! Tíz gólig jutott a Nyírbátor, életben tartotta esélyeit a Tiszavasvári",
+    "url": "https://www.szon.hu/helyi-sport/2026/05/varmegyei-i-nyirbator-tiszavasvari-mandok-ujfeherto",
+    "source": "szon.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

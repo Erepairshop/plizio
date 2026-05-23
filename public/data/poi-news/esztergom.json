@@ -45,6 +45,15 @@
     "date": "Tue, 24 Mar 2026 18:25:03 +0000"
   },
   {
+    "title": "Esztergom – május 27-étől ideiglenes megállóáthelyezés",
+    "snippet": "Esztergom – május 27-étől ideiglenes megállóáthelyezés",
+    "url": "https://www.mavcsoport.hu/node/193818",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Esztergom zokog, Dorog boldog",
     "snippet": "Az esztergomi lakosok szerint az érseki város nem tudott megfelelően profitálni a NEK 2020-as rendezvényből.",
     "url": "https://index.hu/belfold/2021/09/09/esztergom-zokog-dorog-boldog/",
@@ -133,5 +142,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 28 Apr 2026 17:34:59 +0000"
+  },
+  {
+    "title": "A Duna közepén rozsdásodik Esztergom titokzatos monstruma – 99 éve épült",
+    "snippet": "A Duna közepén rozsdásodik Esztergom titokzatos monstruma – 99 éve épült",
+    "url": "https://femina.hu/utazas/szenrakodo-duna-esztergom/",
+    "source": "femina.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kizöldült Esztergom: harsog a természet a tavaszi eső után",
+    "snippet": "Kizöldült Esztergom: harsog a természet a tavaszi eső után",
+    "url": "https://www.kemma.hu/helyi-kozelet/2026/05/tavaszi-esztergom-eso-idojaras-punkosdi-hosszu-hetvege",
+    "source": "kemma.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Nem lett bronzérmes a MOL Esztergom az Európa-ligában",
+    "snippet": "Nem lett bronzérmes a MOL Esztergom az Európa-ligában",
+    "url": "https://dorogimedence.hu/index.php/2026/05/18/nem-lett-bronzermes-a-mol-esztergom-az-europa-ligaban/",
+    "source": "dorogimedence.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A döntőhöz közelebb volt a MOL Esztergom, mint a bronzhoz",
+    "snippet": "A döntőhöz közelebb volt a MOL Esztergom, mint a bronzhoz",
+    "url": "https://molcsapat.hu/kezilabda/a-dontohoz-kozelebb-volt-a-mol-esztergom-mint-a-bronzhoz-4424",
+    "source": "molcsapat.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Női kézilabda El: az Esztergom öt góllal kikapott a Viborgtól a bronzmérkőzésen",
+    "snippet": "Női kézilabda El: az Esztergom öt góllal kikapott a Viborgtól a bronzmérkőzésen",
+    "url": "https://vehir.hu/cikk/84736-noi-kezilabda-el-az-esztergom-ot-gollal-kikapott-a-viborgtol-a-bronzmerkozesen",
+    "source": "vehir.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

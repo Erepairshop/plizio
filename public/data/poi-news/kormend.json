@@ -45,6 +45,15 @@
     "date": "Thu, 08 May 2025 09:08:00 +0200"
   },
   {
+    "title": "55. Májusfa kitáncolás",
+    "snippet": "55. Májusfa kitáncolás",
+    "url": "http://kormend.hu/Hirek/55_Majusfa_kitancolas.html",
+    "source": "kormend.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
+  },
+  {
     "title": "Fegyvernek tűnő tárggyal próbált boltot rabolni, keresik a rendőrök",
     "snippet": "Az elkövetőről kamerafelvételek is készültek. The post Fegyvernek tűnő tárggyal próbált boltot rabolni, keresik a rendőrök first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/01/19/fegyver-rablas-bolt-rendor/",
@@ -52,5 +61,86 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 19 Jan 2026 17:25:23 +0000"
+  },
+  {
+    "title": "Angyalok kenyere",
+    "snippet": "Angyalok kenyere",
+    "url": "http://kormend.hu/Hirek/Angyalok_kenyere.html",
+    "source": "kormend.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Megújult elnökség a Változást a Városért Egyesület élén",
+    "snippet": "Megújult elnökség a Változást a Városért Egyesület élén",
+    "url": "http://kormend.hu/Hirek/Megujult_elnokseg_a_Valtozast_a_Varosert_Egyesulet_elen.html",
+    "source": "kormend.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Kiemelt hírek",
+    "snippet": "Kiemelt hírek",
+    "url": "http://kormend.hu/aktualis",
+    "source": "kormend.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Egis Körmend: győzelemmel búcsúzni a szezontól - és Fepu-tól!",
+    "snippet": "Egis Körmend: győzelemmel búcsúzni a szezontól - és Fepu-tól!",
+    "url": "https://www.vaol.hu/helyi-sport/2026/05/egis-kormend-gyozelemmel",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Két ponttal, de verte a ZTE-t a Körmend",
+    "snippet": "Két ponttal, de verte a ZTE-t a Körmend",
+    "url": "https://www.nyugat.hu/cikk/ket_ponttal_de_verte_a_zte_t_a_kormend",
+    "source": "nyugat.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A másodosztály felé lökte a ZTE-t a Körmend",
+    "snippet": "A másodosztály felé lökte a ZTE-t a Körmend",
+    "url": "https://www.vaol.hu/helyi-sport/2026/05/kormend-zte-kosarlabda-rangado-gyozelem-fotok",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Így búcsúzik Scherer Pétertől szeretett kosárlabda-csapata, az Egis Körmend, és egykori vasi iskolája",
+    "snippet": "Így búcsúzik Scherer Pétertől szeretett kosárlabda-csapata, az Egis Körmend, és egykori vasi iskolája",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/scherer-peter-halal-bucsu-kormend-kosarlabda-iskola",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Egis Körmend: megfogyva bár, de törve nem a ZTE ellen",
+    "snippet": "Egis Körmend: megfogyva bár, de törve nem a ZTE ellen",
+    "url": "https://www.vaol.hu/helyi-sport/2026/05/egis-kormend-megfogyva-bar-de-torve-nem-a-zte-ellen",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Egis Körmend: szoros meccs, négy pontos vereség",
+    "snippet": "Egis Körmend: szoros meccs, négy pontos vereség",
+    "url": "https://www.vaol.hu/helyi-sport/2026/05/egis-kormend-szoros-meccs-negy-pont-a",
+    "source": "vaol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

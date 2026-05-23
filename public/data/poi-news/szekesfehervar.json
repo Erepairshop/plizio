@@ -36,15 +36,6 @@
     "date": "Fri, 22 May 2026 14:36:52 +0000"
   },
   {
-    "title": "Újabb baleset történt az M7-es autópályán, több kilométeres torlódásra kell számítani",
-    "snippet": "Nehézkes a haladás Balaton felé.",
-    "url": "https://index.hu/belfold/2026/05/09/m7-autopalya-baleset-utkozes-szekesfehervar-balaton-m5-kamion-kigyulladt-katasztrofavedelem-utinform/",
-    "source": "index.hu/Székesfehérvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 09 May 2026 11:08:00 +0200"
-  },
-  {
     "title": "Cser-Palkovics András levélben gratulált Vitézy Dávidnak a miniszteri kinevezéséhez",
     "snippet": "A kedves szavak mellett két konkrét ügyben is a miniszter tudtára adta, mit vár tőle Székesfehérvár polgármestereként. The post Cser-Palkovics András levélben gratulált Vitézy Dávidnak a miniszteri kinevezéséhez first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/13/cser-palkovics-andras-vitezy-david-gratulacio/",
@@ -52,6 +43,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 13 May 2026 14:38:08 +0000"
+  },
+  {
+    "title": "Pünkosdi Virágálom",
+    "snippet": "Pünkosdi Virágálom",
+    "url": "https://fehervariprogram.hu/event/punkosdi-viragalom-2026/",
+    "source": "fehervariprogram.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Újabb baleset történt az M7-es autópályán, több kilométeres torlódásra kell számítani",
+    "snippet": "Nehézkes a haladás Balaton felé.",
+    "url": "https://index.hu/belfold/2026/05/09/m7-autopalya-baleset-utkozes-szekesfehervar-balaton-m5-kamion-kigyulladt-katasztrofavedelem-utinform/",
+    "source": "index.hu/Székesfehérvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 09 May 2026 11:08:00 +0200"
   },
   {
     "title": "Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak",
@@ -72,15 +81,6 @@
     "date": "Thu, 05 Jun 2025 22:00:00 +0200"
   },
   {
-    "title": "Kigyulladt és felborult egy autó Csákvár közelében, a sofőr életét vesztette",
-    "snippet": "A tűz a környező aljnövényzetre is átterjedt.",
-    "url": "https://index.hu/belfold/2026/04/29/szekesfehervar-csakvar-lovasbereny-kigyulladt-auto-felborult-halalos-baleset-mentohelikopter/",
-    "source": "index.hu/Székesfehérvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 29 Apr 2026 16:23:00 +0200"
-  },
-  {
     "title": "„A nyolcadik emeleten egy galambtetem hever a párkányon” – ablakot sem mernek már nyitni a székesfehérvári társasházban",
     "snippet": "Tehetetlenek a lakók. The post „A nyolcadik emeleten egy galambtetem hever a párkányon” – ablakot sem mernek már nyitni a székesfehérvári társasházban first appeared on 24.hu .",
     "url": "https://24.hu/otthon/2026/05/07/szekesfehervar-tarsashaz-galamburulek/",
@@ -90,13 +90,13 @@
     "date": "Thu, 07 May 2026 09:41:01 +0000"
   },
   {
-    "title": "Rengetegen tartanak hazafelé a Balatonról, elesett az M7-es autópálya",
-    "snippet": "Érdemes alternatív útvonalat választani.",
-    "url": "https://index.hu/belfold/2026/04/26/m7-autopalya-utinform-vasarnap-aprilis-torlodas-forgalom-balaton-kozlekedes/",
+    "title": "Kigyulladt és felborult egy autó Csákvár közelében, a sofőr életét vesztette",
+    "snippet": "A tűz a környező aljnövényzetre is átterjedt.",
+    "url": "https://index.hu/belfold/2026/04/29/szekesfehervar-csakvar-lovasbereny-kigyulladt-auto-felborult-halalos-baleset-mentohelikopter/",
     "source": "index.hu/Székesfehérvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 26 Apr 2026 17:39:00 +0200"
+    "date": "Wed, 29 Apr 2026 16:23:00 +0200"
   },
   {
     "title": "Orbán Viktor Székesfehérváron: „Nyilván ebben a városban is vannak tiszások, csak itt nem szokás elrontani mások örömét”",
@@ -108,10 +108,64 @@
     "date": "Fri, 10 Apr 2026 17:58:35 +0000"
   },
   {
-    "title": "Pünkosdi Virágálom",
-    "snippet": "Pünkosdi Virágálom",
-    "url": "https://fehervariprogram.hu/event/punkosdi-viragalom-2026/",
-    "source": "fehervariprogram.hu (hivatalos)",
+    "title": "Rengetegen tartanak hazafelé a Balatonról, elesett az M7-es autópálya",
+    "snippet": "Érdemes alternatív útvonalat választani.",
+    "url": "https://index.hu/belfold/2026/04/26/m7-autopalya-utinform-vasarnap-aprilis-torlodas-forgalom-balaton-kozlekedes/",
+    "source": "index.hu/Székesfehérvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 26 Apr 2026 17:39:00 +0200"
+  },
+  {
+    "title": "Egy hétre virágos csodavilággá változik Székesfehérvár belvárosa",
+    "snippet": "Egy hétre virágos csodavilággá változik Székesfehérvár belvárosa",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/punkosdi-viragalom-megnyito-unnep",
+    "source": "feol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Torlódás a déli elkerülőn Székesfehérvár irányában – Frissítés! +videó!",
+    "snippet": "Torlódás a déli elkerülőn Székesfehérvár irányában – Frissítés! +videó!",
+    "url": "https://www.veol.hu/helyi-kek-hirek/2026/05/torlodas-a-deli-elkerulon-szekesfehervar-iranyaban",
+    "source": "veol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "A Videoton mellett Székesfehérvár megújulása került előtérbe a közgyűlésen",
+    "snippet": "A Videoton mellett Székesfehérvár megújulása került előtérbe a közgyűlésen",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/kozgyules-videoton-szekesfehervar-fejlesztesek",
+    "source": "feol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Székesfehérvár – május 30-án ideiglenes forgalmi változás",
+    "snippet": "Székesfehérvár – május 30-án ideiglenes forgalmi változás",
+    "url": "https://www.mavcsoport.hu/node/193563",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Emblematikus épület újul meg Székesfehérvár belvárosában",
+    "snippet": "Emblematikus épület újul meg Székesfehérvár belvárosában",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/vorosmarty-mihaly-konyvtar-kozponti-olvasoszolgalat",
+    "source": "feol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Hősök a Haleszban: zuhogó esőben is hatalmasat futott Székesfehérvár!",
+    "snippet": "Hősök a Haleszban: zuhogó esőben is hatalmasat futott Székesfehérvár!",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/szekesfehervar-futokorok-napja-eso-idojaras-halesz",
+    "source": "feol.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

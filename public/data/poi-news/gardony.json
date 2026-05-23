@@ -1,14 +1,5 @@
 [
   {
-    "title": "Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság",
-    "snippet": "A háromezer négyzetméteres pelletáló csarnok nagyrésze lángba borult. The post Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/23/gardony-tuz-pelletalo-csarnok/",
-    "source": "24.hu/Gárdony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:06:56 +0000"
-  },
-  {
     "title": "Lángba borult egy óriási gárdonyi üzem hajnalban, nagy erőkkel vonultak ki a tűzoltók",
     "snippet": "A tüzet megfékezték, még vizsgálják, mi okozhatta a történteket.",
     "url": "https://index.hu/belfold/2026/05/23/pelletuzem-tuz-gardony-zichyujfalu-tuzoltosag-katasztrofavedelem/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 23 May 2026 06:43:00 +0200"
+  },
+  {
+    "title": "Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság",
+    "snippet": "A háromezer négyzetméteres pelletáló csarnok nagy része lángba borult. The post Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/23/gardony-tuz-pelletalo-csarnok/",
+    "source": "24.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 05:06:56 +0000"
   },
   {
     "title": "Egyre reménytelenebb a helyzet a Velencei-tónál, hónapokon belül kiszáradhat",
@@ -27,15 +27,6 @@
     "date": "Tue, 19 May 2026 06:09:00 +0200"
   },
   {
-    "title": "Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát",
-    "snippet": "A bíróság szerint a kormányhivatal vizsgálat nélkül fogadta el a Mol érvelését. The post Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/12/mol-gardony-talajszennyezes-birosag/",
-    "source": "24.hu/Gárdony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 12 May 2026 12:23:46 +0000"
-  },
-  {
     "title": "Pert nyert a Greenpeace és a gárdonyiak a Mol ellen",
     "snippet": "Óriási zöld siker.",
     "url": "https://index.hu/belfold/2026/05/13/kornyezet-szennyezes-green-peace-gardony-mol/",
@@ -45,13 +36,22 @@
     "date": "Wed, 13 May 2026 11:26:00 +0200"
   },
   {
-    "title": "Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak",
-    "snippet": "A Tópart IC ütött el egy embert The post Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/08/26/vonat-gazolas-szekesfehervar-2/",
+    "title": "Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát",
+    "snippet": "A bíróság szerint a kormányhivatal vizsgálat nélkül fogadta el a Mol érvelését. The post Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/12/mol-gardony-talajszennyezes-birosag/",
     "source": "24.hu/Gárdony",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 26 Aug 2025 16:52:59 +0000"
+    "date": "Tue, 12 May 2026 12:23:46 +0000"
+  },
+  {
+    "title": "Testületi ülés 2026. május 28.",
+    "snippet": "Testületi ülés 2026. május 28. 2026.05.22. 11:33 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. május 28-án (csütörtökön) 15:00 órakor testületi ülést, azt követően 16:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
+    "url": "http://www.gardony.hu/testuleti-ules-2026-majus-28",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
   },
   {
     "title": "Gázolt a vonat Gárdonynál, fennakadásokra lehet számítani a székesfehérvári fővonalon",
@@ -63,13 +63,13 @@
     "date": "Thu, 04 Dec 2025 16:25:00 +0100"
   },
   {
-    "title": "Gárdonyban csak egy jelölt indult a választáson",
-    "snippet": "Két másik településen csak függetlenek közül lehet választani. The post Gárdonyban csak egy jelölt indult a választáson first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/08/24/gardonyban-csak-egy-jelolt-indult-a-valasztason/",
+    "title": "Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak",
+    "snippet": "A Tópart IC ütött el egy embert The post Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/26/vonat-gazolas-szekesfehervar-2/",
     "source": "24.hu/Gárdony",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 24 Aug 2025 05:24:51 +0000"
+    "date": "Tue, 26 Aug 2025 16:52:59 +0000"
   },
   {
     "title": "Öt településen rendeznek időközi önkormányzati választást vasárnap",
@@ -81,13 +81,13 @@
     "date": "Sun, 21 Sep 2025 11:49:00 +0200"
   },
   {
-    "title": "Testületi ülés 2026. május 28.",
-    "snippet": "Testületi ülés 2026. május 28. 2026.05.22. 11:33 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. május 28-án (csütörtökön) 15:00 órakor testületi ülést, azt követően 16:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
-    "url": "http://www.gardony.hu/testuleti-ules-2026-majus-28",
-    "source": "gardony.hu (hivatalos)",
+    "title": "Gárdonyban csak egy jelölt indult a választáson",
+    "snippet": "Két másik településen csak függetlenek közül lehet választani. The post Gárdonyban csak egy jelölt indult a választáson first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/24/gardonyban-csak-egy-jelolt-indult-a-valasztason/",
+    "source": "24.hu/Gárdony",
     "lang": "hu",
     "scope": "city",
-    "date": "2026-05-22"
+    "date": "Sun, 24 Aug 2025 05:24:51 +0000"
   },
   {
     "title": "Áramszünet várható - 2026. május 21.",
@@ -151,5 +151,41 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-03-30"
+  },
+  {
+    "title": "Azonnali közlemény a Katasztrófavédelemtől – nagy üzemtűz ütött ki hajnalban Gárdony és Zichyújfalu között",
+    "snippet": "Azonnali közlemény a Katasztrófavédelemtől – nagy üzemtűz ütött ki hajnalban Gárdony és Zichyújfalu között",
+    "url": "https://liner.hu/sulyos-tuzeset-gardony-es-zichyujfalu-kozott-pelletalo-csarnok-uzem/",
+    "source": "liner.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Lángra lobbant egy pelletüzem Gárdony és Zichyújfalu között",
+    "snippet": "Lángra lobbant egy pelletüzem Gárdony és Zichyújfalu között",
+    "url": "https://magyarjelen.hu/belfold/31577-langra-lobbant-egy-pelletuzem-gardony-es-zichyujfalu-kozott",
+    "source": "magyarjelen.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kigyulladt egy pelletüzem Gárdony és Zichyújfalu között",
+    "snippet": "Kigyulladt egy pelletüzem Gárdony és Zichyújfalu között",
+    "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/88382",
+    "source": "katasztrofavedelem.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kigyulladt egy pelletüzem Gárdony és Zichyújfalu között",
+    "snippet": "Kigyulladt egy pelletüzem Gárdony és Zichyújfalu között",
+    "url": "https://webradio.hu/hirek/kek-hirek/kigyulladt-egy-pelletuzem-gardony-es-zichyujfalu-kozott",
+    "source": "webradio.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

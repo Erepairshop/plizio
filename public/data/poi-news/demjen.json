@@ -81,15 +81,6 @@
     "date": "2026-04-17"
   },
   {
-    "title": "Mozgóurna",
-    "snippet": "2026. április 9. Mozgóurna Bővebben",
-    "url": "https://demjen.hu/hu/c/mozgourna",
-    "source": "demjen.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-04-09"
-  },
-  {
     "title": "ÁLLÁSPÁLYÁZAT Szociális gondozó",
     "snippet": "2026. április 7. ÁLLÁSPÁLYÁZAT Szociális gondozó Bővebben",
     "url": "https://demjen.hu/hu/c/allaspalyazat-szocialis-gondozo",
@@ -97,5 +88,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-04-07"
+  },
+  {
+    "title": "Komár, Demjén, Charlie és a többiek: így koncerteztek a legnagyobbak Baranyában",
+    "snippet": "Komár, Demjén, Charlie és a többiek: így koncerteztek a legnagyobbak Baranyában",
+    "url": "https://www.pecsiujsag.hu/pecs/hir/helyi-hireink/komar-demjen-charlie-es-a-tobbiek-igy-koncerteztek-a-legnagyobbak-baranyaban",
+    "source": "pecsiujsag.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Több jármű ütközött az M5-ös autópályán, a torlódás meghaladja az 5 kilométert",
-    "snippet": "A 140-es kilométernél található Kiskunmajsa csomópontnál kiterelik a járműveket.",
-    "url": "https://index.hu/belfold/2026/03/08/m5-os-autopalya-baleset-kistelek-szeged-lezaras/",
-    "source": "index.hu/Kistelek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 08 Mar 2026 10:03:00 +0100"
-  },
-  {
     "title": "Teljes lezárás volt az M5-ön",
     "snippet": "Egy autó átrepült a szemközti sávba. The post Teljes lezárás volt az M5-ön first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2019/08/25/baleset-m5-teljes-lezaras/",
@@ -18,13 +9,13 @@
     "date": "Sun, 25 Aug 2019 05:14:19 +0000"
   },
   {
-    "title": "Egy budapesti emberölés feltételezett elkövetőjére csapott le a rendőrség vasárnap hajnalban",
-    "snippet": "Az elszámoltatása már folyamatban van.",
-    "url": "https://index.hu/belfold/2024/11/03/rendorseg-emberoles-hajtovadaszat-elgfogas-kistelek/",
+    "title": "Több jármű ütközött az M5-ös autópályán, a torlódás meghaladja az 5 kilométert",
+    "snippet": "A 140-es kilométernél található Kiskunmajsa csomópontnál kiterelik a járműveket.",
+    "url": "https://index.hu/belfold/2026/03/08/m5-os-autopalya-baleset-kistelek-szeged-lezaras/",
     "source": "index.hu/Kistelek",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 03 Nov 2024 06:46:00 +0100"
+    "date": "Sun, 08 Mar 2026 10:03:00 +0100"
   },
   {
     "title": "Neten szerezte a magokat a kisteleki vadkenderes",
@@ -36,13 +27,13 @@
     "date": "Sat, 15 Jun 2019 04:52:09 +0000"
   },
   {
-    "title": "Kiskorúaknak adott el marihuánát és kristályt, indítványozták a kisteleki férfi letartóztatását.",
-    "snippet": "A férfi ellen kábítószer-kereskedelem bűntette miatt indult eljárás.",
-    "url": "https://index.hu/belfold/2024/10/21/marihuana-kristaly-szanka-ferenc-kabitoszer-kistelek/",
+    "title": "Egy budapesti emberölés feltételezett elkövetőjére csapott le a rendőrség vasárnap hajnalban",
+    "snippet": "Az elszámoltatása már folyamatban van.",
+    "url": "https://index.hu/belfold/2024/11/03/rendorseg-emberoles-hajtovadaszat-elgfogas-kistelek/",
     "source": "index.hu/Kistelek",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 21 Oct 2024 13:54:00 +0200"
+    "date": "Sun, 03 Nov 2024 06:46:00 +0100"
   },
   {
     "title": "Kisvárosi polgármester is elindult a Szegedi Egyetem kancellári posztjáért",
@@ -52,5 +43,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 10 Apr 2019 09:49:14 +0000"
+  },
+  {
+    "title": "Füstbe borul Kistelek főtere, 250 grillkolbászt osztanak szét",
+    "snippet": "Füstbe borul Kistelek főtere, 250 grillkolbászt osztanak szét",
+    "url": "https://www.delmagyar.hu/helyi-kultura/2026/05/fust-es-mosoly-kistelek",
+    "source": "delmagyar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kiskorúaknak adott el marihuánát és kristályt, indítványozták a kisteleki férfi letartóztatását.",
+    "snippet": "A férfi ellen kábítószer-kereskedelem bűntette miatt indult eljárás.",
+    "url": "https://index.hu/belfold/2024/10/21/marihuana-kristaly-szanka-ferenc-kabitoszer-kistelek/",
+    "source": "index.hu/Kistelek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 21 Oct 2024 13:54:00 +0200"
   }
 ]

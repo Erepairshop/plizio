@@ -1,14 +1,5 @@
 [
   {
-    "title": "Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás",
-    "snippet": "A lövedék átszakította az áldozat fejét, és a koponyájából egy darabot kitépve távozott a kocsi tetején. The post Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2022/09/15/fejbe-lotte-a-vadaszatvezetot-egy-ferfi-a-nagyborzsonyi-erdoben/",
-    "source": "24.hu/Nagybörzsöny",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 15 Sep 2022 07:05:26 +0000"
-  },
-  {
     "title": "Posta",
     "snippet": "Nyitva tartás: Hétfő: 8-12-ig, Kedd: 8-12-ig, Szerda: 8-12-ig, Csütörtök: 8-12-ig, Péntek: 8-12-ig [...]",
     "url": "https://nagyborzsony.hu/posta/",
@@ -18,13 +9,13 @@
     "date": "Mon, 19 Mar 2018 22:51:07 +0000"
   },
   {
-    "title": "Gyógyszert követelve betört és ököllel megvert egy fogyatékkal élőt egy 19 éves férfi Nagybörzsönyben",
-    "snippet": "Elmondása szerint a gyógyszerért bármire hajlandó lett volna. The post Gyógyszert követelve betört és ököllel megvert egy fogyatékkal élőt egy 19 éves férfi Nagybörzsönyben first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2021/01/17/gyogyszert-kovetelve-betort-es-okollel-megvert-egy-fogyatekkal-elot-egy-19-eves-ferfi-nagyborzsonyben/",
+    "title": "Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás",
+    "snippet": "A lövedék átszakította az áldozat fejét, és a koponyájából egy darabot kitépve távozott a kocsi tetején. The post Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2022/09/15/fejbe-lotte-a-vadaszatvezetot-egy-ferfi-a-nagyborzsonyi-erdoben/",
     "source": "24.hu/Nagybörzsöny",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 17 Jan 2021 07:06:04 +0000"
+    "date": "Thu, 15 Sep 2022 07:05:26 +0000"
   },
   {
     "title": "Cukrászda",
@@ -36,13 +27,13 @@
     "date": "Fri, 16 Mar 2018 11:21:45 +0000"
   },
   {
-    "title": "Súlyos vadászbaleset történt Nagybörzsönyben",
-    "snippet": "Fejbe lőtték a helyi erdészt. The post Súlyos vadászbaleset történt Nagybörzsönyben first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2020/07/05/vadasz-baleset-nagyborzsony/",
+    "title": "Gyógyszert követelve betört és ököllel megvert egy fogyatékkal élőt egy 19 éves férfi Nagybörzsönyben",
+    "snippet": "Elmondása szerint a gyógyszerért bármire hajlandó lett volna. The post Gyógyszert követelve betört és ököllel megvert egy fogyatékkal élőt egy 19 éves férfi Nagybörzsönyben first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2021/01/17/gyogyszert-kovetelve-betort-es-okollel-megvert-egy-fogyatekkal-elot-egy-19-eves-ferfi-nagyborzsonyben/",
     "source": "24.hu/Nagybörzsöny",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 05 Jul 2020 17:07:04 +0000"
+    "date": "Sun, 17 Jan 2021 07:06:04 +0000"
   },
   {
     "title": "Atilla korcsmája",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 16 Mar 2018 11:20:41 +0000"
+  },
+  {
+    "title": "Súlyos vadászbaleset történt Nagybörzsönyben",
+    "snippet": "Fejbe lőtték a helyi erdészt. The post Súlyos vadászbaleset történt Nagybörzsönyben first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2020/07/05/vadasz-baleset-nagyborzsony/",
+    "source": "24.hu/Nagybörzsöny",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 05 Jul 2020 17:07:04 +0000"
   }
 ]

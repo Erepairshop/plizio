@@ -36,15 +36,6 @@
     "date": "Wed, 29 Apr 2026 07:47:06 +0000"
   },
   {
-    "title": "Módosított menetrend a Budapest–Újszász–Szolnok vasútvonalon",
-    "snippet": "A MÁV Személyszállítási Zrt. tájékoztatta az Igazgatóságot, hogy 2026. május 15. és május 17. között a Nagykáta és Tápiószele állomások között végzett pályakarbantartási munkák miatt a 120a számú Budapest – [ ] A Módosított menetrend a Budapest–Újszász–Szolnok vasútvonalon bejegyzés először Tápiósze",
-    "url": "http://www.tapioszele.hu/modositott-menetrend-a-budapest-ujszasz-szolnok-vasutvonalon/",
-    "source": "tapioszele.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 12:56:06 +0000"
-  },
-  {
     "title": "Vandál verte szét a MÁV emeletes motorvonatát, legalább 50 milliós a kár",
     "snippet": "A vállalat feljelentést tett az ügyben, a rendőrség keresi az elkövetőt.",
     "url": "https://index.hu/belfold/2025/08/18/mav-vasut-vonat-rongalas-ujszasz-ablak-betores-kar-rendorseg-feljelentes/",
@@ -52,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 18 Aug 2025 15:40:00 +0200"
+  },
+  {
+    "title": "Módosított menetrend a Budapest–Újszász–Szolnok vasútvonalon",
+    "snippet": "A MÁV Személyszállítási Zrt. tájékoztatta az Igazgatóságot, hogy 2026. május 15. és május 17. között a Nagykáta és Tápiószele állomások között végzett pályakarbantartási munkák miatt a 120a számú Budapest – [ ] A Módosított menetrend a Budapest–Újszász–Szolnok vasútvonalon bejegyzés először Tápiósze",
+    "url": "http://www.tapioszele.hu/modositott-menetrend-a-budapest-ujszasz-szolnok-vasutvonalon/",
+    "source": "tapioszele.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 12:56:06 +0000"
   },
   {
     "title": "15 évre eltiltották a megyei focistát, aki a kiállítása után fejbe rúgta a bírót",
@@ -79,5 +79,41 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 24 Feb 2025 07:14:05 +0000"
+  },
+  {
+    "title": "Testületi ülések",
+    "snippet": "Testületi ülések",
+    "url": "http://www.ujszasz.hu/onkormanyzat/testuleti-ulesek",
+    "source": "ujszasz.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Versenyképes Járások Program",
+    "snippet": "Versenyképes Járások Program",
+    "url": "http://www.ujszasz.hu/onkormanyzat/versenykepes-jarasok-program",
+    "source": "ujszasz.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Adatvédelmi tájékoztató",
+    "snippet": "Adatvédelmi tájékoztató",
+    "url": "http://www.ujszasz.hu/onkormanyzat/adatvedelmi-tajekoztato",
+    "source": "ujszasz.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Panasz és közérdekű adatok bejelentése",
+    "snippet": "Panasz és közérdekű adatok bejelentése",
+    "url": "http://www.ujszasz.hu/onkormanyzat/panasz-es-kozerdeku-adatok-bejelentese",
+    "source": "ujszasz.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

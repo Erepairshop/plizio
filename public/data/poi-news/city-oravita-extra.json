@@ -18,15 +18,6 @@
     "date": "Mon, 04 May 2026 05:34:36 +0000"
   },
   {
-    "title": "Orasul in acuarela",
-    "snippet": "",
-    "url": "http://oravita.ro/orasul-in-acuarela1/",
-    "source": "oravita.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Sun, 05 Aug 2018 21:27:55 +0000"
-  },
-  {
     "title": "Reșița deschide două centre moderne pentru colectarea deșeurilor",
     "snippet": "Două noi centre de colectare a deșeurilor prin aport voluntar vor deveni funcționale în aproximativ două luni la Reșița, înlocuind actualele puncte limitate. Municipalitatea promite condiții moderne, colectarea a opt tipuri de deșeuri și acces gratuit pentru persoanele fizice. Reșițenii au la dispoz",
     "url": "https://expressdebanat.ro/resita-deschide-doua-centre-moderne-pentru-colectarea-deseurilor/",
@@ -34,15 +25,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Mon, 20 Apr 2026 04:30:48 +0000"
-  },
-  {
-    "title": "Lacul Mare",
-    "snippet": "Cele mai vechi amenajări hidrotehnice si primele baraje de greutate din România construite pentru spălarea minereurilor pe pârâul Oravița, cunoscute sub numele de Lacul Mare și Lacul Mic. Între lacurile antropice ale Banatului Montan, se remarcă şi cele două lacuri din Oraviţa. Ele au fost amenajate",
-    "url": "http://oravita.ro/lacul-mare1/",
-    "source": "oravita.ro (oficial)",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Wed, 29 Jun 2016 20:53:33 +0000"
   },
   {
     "title": "„Caransebeș fără păcănele, fără iluzii vândute la fiecare colț de stradă”!",
@@ -54,6 +36,24 @@
     "date": "Fri, 17 Apr 2026 14:27:55 +0000"
   },
   {
+    "title": "Orasul in acuarela",
+    "snippet": "",
+    "url": "http://oravita.ro/orasul-in-acuarela1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Sun, 05 Aug 2018 21:27:55 +0000"
+  },
+  {
+    "title": "Lacul Mare",
+    "snippet": "Cele mai vechi amenajări hidrotehnice si primele baraje de greutate din România construite pentru spălarea minereurilor pe pârâul Oravița, cunoscute sub numele de Lacul Mare și Lacul Mic. Între lacurile antropice ale Banatului Montan, se remarcă şi cele două lacuri din Oraviţa. Ele au fost amenajate",
+    "url": "http://oravita.ro/lacul-mare1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 29 Jun 2016 20:53:33 +0000"
+  },
+  {
     "title": "Muzeul de Etnografie",
     "snippet": "MUZEUL DE ETNOGRAFIE, ETNOLOGIE ȘI FOLCLOR „ȚARA CARAȘULUI”, ORAVIȚA. Noua instituție din Oravița, habitat important din Țara Carașului, parte din tradițiile și istoria Banatului Montan, face parte din rețeaua muzeelor tematice realizate în cadrul Centrului Cultural „Teatrul Vechi Mihai Eminescu” și",
     "url": "http://oravita.ro/muzeul-de-etnografie1/",
@@ -61,5 +61,68 @@
     "lang": "ro",
     "scope": "city",
     "date": "Sat, 25 Jun 2016 09:23:00 +0000"
+  },
+  {
+    "title": "Muzeul Monetăriei Imperiale, Oravița",
+    "snippet": "Monetăria Imperială de la Ciclova Montană. Scurt istoric. Orașul Oravița are prioritățile lui în istoria românească și în istoria Europei, între care primul Edificiu Teatral din spațiul culturii române, Teatrul Vechi, fondat între 1814-1815 și inaugurat în 1817, prima Farmacie Montanistică, amintită",
+    "url": "http://oravita.ro/muzeul-monetariei-imperiale-oravita1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Tue, 22 Sep 2015 21:39:33 +0000"
+  },
+  {
+    "title": "Video",
+    "snippet": "",
+    "url": "http://oravita.ro/video-prezentare1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 13 May 2015 12:45:54 +0000"
+  },
+  {
+    "title": "Activităţi sportiv-recreative în zona Oraviţa",
+    "snippet": "SPEO-CARAS Organizatie neguvernamentala si non profit ,Asociatia Speo-Caras din Oravita are deja o istorie .Evolutia sa de-a lungul a peste 30 de ani de existenta a fost marcata de succese si deceptii,impliniri dar si esecuri,incercari si renuntari. Ca si grupare care a functionat in cadru organizat",
+    "url": "http://oravita.ro/activitati-turistice1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 13 May 2015 12:44:40 +0000"
+  },
+  {
+    "title": "Turism Ecumenic",
+    "snippet": "Biserica romano-catolica:In anul 1718 s-au aşezat pe versantul vestic al văii Oraviţei, primii colonişti tirolezi. Ei şi-au construit o bisericuţă din lemn Kisslinger în Kreuzwiese sau Poiana în cruce, (după încrucişarea a mai multor drumuri). Datorită acestei denumiri a poienii credincioşii romano-",
+    "url": "http://oravita.ro/turism-ecumenic1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 11 May 2015 12:00:28 +0000"
+  },
+  {
+    "title": "Cetatea Socolari / Ilidia",
+    "snippet": "Cetatea Socolari/Ilidia. Scurt istoric şi alte clarificări în jurul unui obiectiv turistic european În preistoria Ţării Caraşului, tranziţia spre epoca bronzului, prin eneoliticul în care habitatul orăviţean era marcat printr-o aşezare, e specifică altui grup cultural, cultura Vinca (Vinca-Turdaş)6 ",
+    "url": "http://oravita.ro/cetatea-socolari-ilidia1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 11 May 2015 11:58:39 +0000"
+  },
+  {
+    "title": "Arcidava",
+    "snippet": "Arcidava a fost un castru roman, pe locul unde se găsește astazi satul Văradia, langă Oravița, Caraș-Severin, pe drumul imperial de la Lederata la Apulum. Localitatea a fost menționată de Ptolemeu sub numele Argidava, iar în Tabula Peutingerianaca Arcidaba. Pe Dealul Chilii este un castru de piatră,",
+    "url": "http://oravita.ro/arcidava1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 11 May 2015 11:57:49 +0000"
+  },
+  {
+    "title": "Lacul Dracului",
+    "snippet": "Lacul Dracului din Cheile Nerei vine de la legenda sa, care are la baza mitul diavolului care ademeneşte omul. Legenda spune ca unui cioban care pastea caprele langa apele Nerei, in apropiere de Poiana Meliugului, s-a intalnit cu Satana. Ciobanul isi aprinsese un foc la intrarea in pestera si deodat",
+    "url": "http://oravita.ro/lacul-dracului1/",
+    "source": "oravita.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Mon, 11 May 2015 11:56:47 +0000"
   }
 ]

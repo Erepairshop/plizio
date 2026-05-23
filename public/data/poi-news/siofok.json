@@ -1,5 +1,14 @@
 [
   {
+    "title": "A honvédelem napjára emlékeztek Keszthelyen (tvkeszthely.hu)",
+    "snippet": "A honvédelem napja alkalmából koszorúzással és megemlékezéssel tisztelegtek a magyar katonai hagyományok előtt. Az egykori keszthelyi alakulat tagjai és a megemlékezők először a 2022-ben, az alakulat megszűnésének 25. évfordulójára állított kopjafánál gyűltek össze, majd a Várkertben folytatódott az",
+    "url": "https://www.hirbalaton.hu/a-honvedelem-napjara-emlekeztek-keszthelyen-tvkeszthely-hu/",
+    "source": "HírBalaton",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 07:26:14 +0000"
+  },
+  {
     "title": "Tánc a dűlőben, a kompon vagy egy kastélykertben – Nappali bulik a Balatonnál (welovebalaton.hu)",
     "snippet": "A daytime, azaz nappali bulik joggal váltak népszerűvé az elmúlt években. Az éjszakai dorbézolást egyre többször váltja fel nyáron a délutáni koccintás és tánc, amely sokkal inkább beilleszthető a programjainkba. Arról nem is beszélve, hogy a napsütés és naplemente fényei mellett más programok is sz",
     "url": "https://www.hirbalaton.hu/tanc-a-duloben-a-kompon-vagy-egy-kastelykertben-nappali-bulik-a-balatonnal-welovebalaton-hu/",
@@ -18,15 +27,6 @@
     "date": "Sat, 23 May 2026 05:28:19 +0000"
   },
   {
-    "title": "Pünkösdre megérkezik az igazi nyár (idokep.hu)",
-    "snippet": "A hosszú hétvégén sok napsütésre, egyre melegebb délutánokra készülhetünk, pünkösdhétfőn helyenként már 30 fok fölé emelkedhet a hőmérséklet írja előrejelzésében az Időkép. A pünkösdi hosszú hétvége igazi nyári időt tartogat. Szombaton sok napsütésre számíthatunk, csak kevés gomolyfelhő lesz az égen",
-    "url": "https://www.hirbalaton.hu/punkosdre-megerkezik-az-igazi-nyar-idokep-hu/",
-    "source": "HírBalaton",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 04:22:27 +0000"
-  },
-  {
     "title": "Két héttel hosszabb lesz a nyár a siófoki Plázson",
     "snippet": "Nem is lesz megállás szeptember 5-ig.",
     "url": "https://index.hu/fomo/2026/05/19/siofok-plazs-nyitobuli/",
@@ -43,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 02 Apr 2026 12:08:49 +0000"
+  },
+  {
+    "title": "Adatvédelmi tájékoztató",
+    "snippet": "* Megismertem az Adatvédelmi tájékoztató t!",
+    "url": "https://siofok.hu/adatvedelem-3",
+    "source": "siofok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Nem vetítik a siófoki moziban a Magyar Péterről szóló dokumentumfilmet, szerintük a politikának ott nincs helye",
@@ -90,10 +99,28 @@
     "date": "Tue, 17 Feb 2026 19:16:14 +0100"
   },
   {
-    "title": "Adatvédelmi tájékoztató",
-    "snippet": "* Megismertem az Adatvédelmi tájékoztató t!",
-    "url": "https://siofok.hu/adatvedelem-3",
-    "source": "siofok.hu (hivatalos)",
+    "title": "Siófok a Thanhofferek nyomában",
+    "snippet": "Siófok a Thanhofferek nyomában",
+    "url": "http://www.hirbalaton.hu/siofok-a-thanhofferek-nyomaban-siofoki-hirek/",
+    "source": "hirbalaton.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Zöld oázist tervez Siófok az ikonikus sétányára",
+    "snippet": "Zöld oázist tervez Siófok az ikonikus sétányára",
+    "url": "https://sokszinuvidek.24.hu/viragzo-videkunk/2026/05/18/siofok-petofi-setany-megujitas/",
+    "source": "sokszinuvidek.24.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Kaposvár–Siófok: kidőlt fa",
+    "snippet": "Kaposvár–Siófok: kidőlt fa",
+    "url": "https://www.mavcsoport.hu/node/193077",
+    "source": "mavcsoport.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

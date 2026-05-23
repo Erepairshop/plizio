@@ -1,14 +1,5 @@
 [
   {
-    "title": "Másodfokon felfüggesztett börtönbüntetést kér az ügyészség Balmazújváros volt alpolgármesterére az uszodaperben",
-    "snippet": "Koroknai Imre az utolsó szó jogán arról beszélt, ha ma kerülne hasonló helyzetbe, most is úgy döntene, hogy visszafizeti az államnak a projektre kapott támogatást.",
-    "url": "https://debreciner.hu/cikk/felfuggesztett-bortonbuntetest-ker-az-ugyeszseg-balmazujvaros-volt-alpolgarmesterere",
-    "source": "Debreciner",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 16:30:54 +0000"
-  },
-  {
     "title": "Hadházy Ákos: Tanúként hallgatott meg a rendőrség Mészáros Lőrinc és exveje kartellezésének ügyében",
     "snippet": "A volt országgyűlési képviselő kartellezés és hűtlen kezelés gyanúja miatt tett feljelentést.",
     "url": "https://index.hu/belfold/2026/05/20/hadhazy-akos-meszaros-lorinc-kartellezes-tularazas-vasutepites-balmazujvaros/",
@@ -16,15 +7,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 16:15:00 +0200"
-  },
-  {
-    "title": "Mekkora jelentősége van a Fidesz vasárnapi győzelmének? Megoszlanak a vélemények",
-    "snippet": "Időközin szerzett kulcsfontosságú mandátumot a kormánypárt.",
-    "url": "https://index.hu/belfold/2026/02/09/fidesz-idokozi-valasztas-balmazujvaros-talaber-krisztian-nagy-attila-tibor/",
-    "source": "index.hu/Balmazújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 09 Feb 2026 17:50:00 +0100"
   },
   {
     "title": "Kubatov Gábor fellebbezett, és megváltoztatták az ítéletet, ami szerint választási törvényt sértett",
@@ -36,13 +18,13 @@
     "date": "Tue, 17 Feb 2026 17:59:49 +0000"
   },
   {
-    "title": "Orbán Viktor nem hagyta szó nélkül a választási sikert, üzent Szoboszlai Dominiknak is",
-    "snippet": "Erős volt a vasárnap estéje a miniszterelnöknek.",
-    "url": "https://index.hu/belfold/2026/02/09/orban-viktor-szoboszlai-dominik-balmazujvaros-valasztas-2026-liverpool-manchester-city/",
+    "title": "Mekkora jelentősége van a Fidesz vasárnapi győzelmének? Megoszlanak a vélemények",
+    "snippet": "Időközin szerzett kulcsfontosságú mandátumot a kormánypárt.",
+    "url": "https://index.hu/belfold/2026/02/09/fidesz-idokozi-valasztas-balmazujvaros-talaber-krisztian-nagy-attila-tibor/",
     "source": "index.hu/Balmazújváros",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 09 Feb 2026 06:36:00 +0100"
+    "date": "Mon, 09 Feb 2026 17:50:00 +0100"
   },
   {
     "title": "Kubatov Gábor egy marionett bábus videóval választási törvényt sértett a balmazújvárosi időközin",
@@ -54,13 +36,22 @@
     "date": "Fri, 13 Feb 2026 14:54:51 +0000"
   },
   {
-    "title": "Tarolt a Fidesz az időközi választáson, megszűnik a patthelyzet Balmazújvárosban",
-    "snippet": "A település képviselő-testülete ezzel hosszú idő után határozatképes lesz.",
-    "url": "https://index.hu/belfold/2026/02/08/balmazujvaros-idokozi-valasztas-eredmenyek-hajdu-bihar-varmegye/",
+    "title": "Orbán Viktor nem hagyta szó nélkül a választási sikert, üzent Szoboszlai Dominiknak is",
+    "snippet": "Erős volt a vasárnap estéje a miniszterelnöknek.",
+    "url": "https://index.hu/belfold/2026/02/09/orban-viktor-szoboszlai-dominik-balmazujvaros-valasztas-2026-liverpool-manchester-city/",
     "source": "index.hu/Balmazújváros",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 08 Feb 2026 21:24:00 +0100"
+    "date": "Mon, 09 Feb 2026 06:36:00 +0100"
+  },
+  {
+    "title": "Másodfokon felfüggesztett börtönbüntetést kér az ügyészség Balmazújváros volt alpolgármesterére az uszodaperben",
+    "snippet": "Másodfokon felfüggesztett börtönbüntetést kér az ügyészség Balmazújváros volt alpolgármesterére az uszodaperben",
+    "url": "https://debreciner.hu/cikk/felfuggesztett-bortonbuntetest-ker-az-ugyeszseg-balmazujvaros-volt-alpolgarmesterere",
+    "source": "debreciner.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Kubatov a balmazújvárosi időköziről: tiszás a lúzer, hiába tagadják, miután zacskó volt",
@@ -70,5 +61,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 10 Feb 2026 11:07:18 +0000"
+  },
+  {
+    "title": "Tarolt a Fidesz az időközi választáson, megszűnik a patthelyzet Balmazújvárosban",
+    "snippet": "A település képviselő-testülete ezzel hosszú idő után határozatképes lesz.",
+    "url": "https://index.hu/belfold/2026/02/08/balmazujvaros-idokozi-valasztas-eredmenyek-hajdu-bihar-varmegye/",
+    "source": "index.hu/Balmazújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 08 Feb 2026 21:24:00 +0100"
   }
 ]

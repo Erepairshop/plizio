@@ -45,6 +45,15 @@
     "date": "Tue, 28 May 2024 19:32:00 +0200"
   },
   {
+    "title": "Közérdekű információk",
+    "snippet": "9999999565031|930300 Közérdekű információk",
+    "url": "https://www.vamospercs.hu/kozerdekuinformaciok",
+    "source": "vamospercs.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Súlyosabb büntetést kapott másodfokon a fiú, aki halálra verte síró hároméves testvérét",
     "snippet": "Az akkor 14 éves fiatalt idegesítette, hogy a kislány a szülei után sír. The post Súlyosabb büntetést kapott másodfokon a fiú, aki halálra verte síró hároméves testvérét first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/04/17/vamospercs-halalra-verte-testveret-masodfok/",
@@ -52,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 17 Apr 2024 19:09:54 +0000"
+  },
+  {
+    "title": "Írjon nekünk",
+    "snippet": "9999999803324|930300 Írjon nekünk",
+    "url": "https://www.vamospercs.hu/kapcsolatfelvetel",
+    "source": "vamospercs.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Választási információk",
+    "snippet": "9999999545191|930300 Választási információk",
+    "url": "https://www.vamospercs.hu/valasztasiinformaciok",
+    "source": "vamospercs.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

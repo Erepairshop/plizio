@@ -3,7 +3,7 @@
     "title": "Álláshirdetés",
     "snippet": "",
     "url": "https://nagyvazsony.hu/allashirdetes-3/",
-    "source": "nagyvazsony.hu (hivatalos)",
+    "source": "Nagyvázsony Hírek",
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 14:03:59 +0000"
@@ -12,7 +12,7 @@
     "title": "Tervezett áramszünet",
     "snippet": "Tájékoztatjuk, hogy településükön tervezett áramszünet lesz, amely az alábbi fogyasztási helyet érinti:Áramszünet helye: NagyvázsonyÁramszünet ideje: 2026.06.02. 08:00 16:00Áramszünet oka: hálózat karbantartásÉrintett felhasználási helyek:Jókai Mór utca Hrsz. 659Jókai Mór utca 1Jókai Mór utca 10Jóka",
     "url": "https://nagyvazsony.hu/tervezett-aramszunet-2/",
-    "source": "nagyvazsony.hu (hivatalos)",
+    "source": "Nagyvázsony Hírek",
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 18 May 2026 20:07:08 +0000"
@@ -39,10 +39,19 @@
     "title": "Nyári munkalehetőség",
     "snippet": "",
     "url": "https://nagyvazsony.hu/nyari-munkalehetoseg/",
-    "source": "nagyvazsony.hu (hivatalos)",
+    "source": "Nagyvázsony Hírek",
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 15 May 2026 06:56:10 +0000"
+  },
+  {
+    "title": "Nagyvázsony büszkesége és nehézsége a Kinizsi vár",
+    "snippet": "Nagyvázsony büszkesége és nehézsége a Kinizsi vár",
+    "url": "http://www.hirbalaton.hu/nagyvazsony-buszkesege-es-nehezsege-a-kinizsi-var/",
+    "source": "hirbalaton.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Kéthetes jogosítvánnyal frontálisan ütközött egy 19 éves sofőr, ketten meghaltak",
@@ -66,7 +75,7 @@
     "title": "Rendőrségi hírlevél",
     "snippet": "",
     "url": "https://nagyvazsony.hu/rendorsegi-hirlevel-2/",
-    "source": "nagyvazsony.hu (hivatalos)",
+    "source": "Nagyvázsony Hírek",
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 15 May 2026 06:36:45 +0000"
@@ -93,7 +102,7 @@
     "title": "Véradás: május 21-én az IKSZT-ben.",
     "snippet": "",
     "url": "https://nagyvazsony.hu/veradas-majus-21-en-az-ikszt-ben/",
-    "source": "nagyvazsony.hu (hivatalos)",
+    "source": "Nagyvázsony Hírek",
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 14 May 2026 14:39:54 +0000"

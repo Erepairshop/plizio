@@ -45,15 +45,6 @@
     "date": "Fri, 20 Feb 2026 09:38:00 +0100"
   },
   {
-    "title": "Méz ömlött a 4-es főútra harminc négyzetméteren",
-    "snippet": "A tűzoltók vízsugárral kezdték meg a mézzel szennyezett útszakasz tisztítását. The post Méz ömlött a 4-es főútra harminc négyzetméteren first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/07/17/mez-4-es-fout-baleset-kisujszallas/",
-    "source": "24.hu/Kisújszállás",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 17 Jul 2024 08:29:26 +0000"
-  },
-  {
     "title": "Aktuális híreink",
     "snippet": "Aktuális híreink",
     "url": "http://www.kisujszallas.hu/hirek",
@@ -61,5 +52,14 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Méz ömlött a 4-es főútra harminc négyzetméteren",
+    "snippet": "A tűzoltók vízsugárral kezdték meg a mézzel szennyezett útszakasz tisztítását. The post Méz ömlött a 4-es főútra harminc négyzetméteren first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/07/17/mez-4-es-fout-baleset-kisujszallas/",
+    "source": "24.hu/Kisújszállás",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 17 Jul 2024 08:29:26 +0000"
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "„Hinni akarunk már valamiben, az az igazság” – Magyar Péter békési látogatását követtük",
-    "snippet": "Már hógolyó vagyunk, és lehetünk a NER-t elsöprő lavina – mondta nekünk Magyar Péter, akit a választási várakozásairól is kérdeztünk Békés vármegyében kezdődött országjárásán. Volt, aki ajándékkal és reményekkel tele, és volt, aki szkeptikusan, de érdeklődve várta a Tisza Párt EP-listavezetőjét. The",
-    "url": "https://24.hu/belfold/2024/04/20/magyar-peter-orszagjaras-bekes-sarkad-szarvas-videk/",
-    "source": "24.hu/Gyomaendrőd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 20 Apr 2024 12:02:33 +0000"
-  },
-  {
     "title": "Hajszálon múlt, hogy súlyos balesetet okozzon egy létra",
     "snippet": "Az incidens a 46-os főúton történt.",
     "url": "https://index.hu/belfold/2026/01/28/budapesti-autosok-orszagut-letra-gyomaendrod-mezotur-incidens-felvetel/",
@@ -18,13 +9,13 @@
     "date": "Wed, 28 Jan 2026 17:42:00 +0100"
   },
   {
-    "title": "Elgázolt egy embert a vonat Gyomaendrődnél",
-    "snippet": "A történtek miatt csak egy vágányon járnak a vonatok. The post Elgázolt egy embert a vonat Gyomaendrődnél first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/04/10/vonat-gazolas-gyomaendrod/",
+    "title": "„Hinni akarunk már valamiben, az az igazság” – Magyar Péter békési látogatását követtük",
+    "snippet": "Már hógolyó vagyunk, és lehetünk a NER-t elsöprő lavina – mondta nekünk Magyar Péter, akit a választási várakozásairól is kérdeztünk Békés vármegyében kezdődött országjárásán. Volt, aki ajándékkal és reményekkel tele, és volt, aki szkeptikusan, de érdeklődve várta a Tisza Párt EP-listavezetőjét. The",
+    "url": "https://24.hu/belfold/2024/04/20/magyar-peter-orszagjaras-bekes-sarkad-szarvas-videk/",
     "source": "24.hu/Gyomaendrőd",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 10 Apr 2024 16:45:14 +0000"
+    "date": "Sat, 20 Apr 2024 12:02:33 +0000"
   },
   {
     "title": "Négyes karambol történt a 6-os főúton, mentők érkeztek a helyszínre",
@@ -36,13 +27,13 @@
     "date": "Sat, 13 Sep 2025 16:06:00 +0200"
   },
   {
-    "title": "Több melegrekord megdőlt vasárnap",
-    "snippet": "Vasárnap Gyomaendrődön 20,9 fokig melegedett fel a levegő. The post Több melegrekord megdőlt vasárnap first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/02/12/melegrekord-idojaras-gyomaendrod-sandorfalva-budapest/",
+    "title": "Elgázolt egy embert a vonat Gyomaendrődnél",
+    "snippet": "A történtek miatt csak egy vágányon járnak a vonatok. The post Elgázolt egy embert a vonat Gyomaendrődnél first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/04/10/vonat-gazolas-gyomaendrod/",
     "source": "24.hu/Gyomaendrőd",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 12 Feb 2024 12:06:20 +0000"
+    "date": "Wed, 10 Apr 2024 16:45:14 +0000"
   },
   {
     "title": "Édesvízi medúzát találtak a Hármas-Körösön",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 13 Jul 2025 16:15:00 +0200"
+  },
+  {
+    "title": "Több melegrekord megdőlt vasárnap",
+    "snippet": "Vasárnap Gyomaendrődön 20,9 fokig melegedett fel a levegő. The post Több melegrekord megdőlt vasárnap first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/02/12/melegrekord-idojaras-gyomaendrod-sandorfalva-budapest/",
+    "source": "24.hu/Gyomaendrőd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 12 Feb 2024 12:06:20 +0000"
   }
 ]

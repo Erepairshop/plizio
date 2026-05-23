@@ -45,6 +45,15 @@
     "date": "Sat, 09 Dec 2023 15:17:05 +0000"
   },
   {
+    "title": "Pályázati felhívás",
+    "snippet": ".st0{fill:none;stroke:#727272;stroke-width:1.5;stroke-miterlimit:10;} Önkormányzat Pályázati felhívás 2026.05.22. Mórahalom Városi Önkormányzat (Mórahalom, Szentháromság tér 1.) nyilvános, hirdetéssel induló versenytárgyalásos pályázati felhívást tesz közzé a tulajdonát képző alábbi ingatlanok érték",
+    "url": "https://www.morahalom.hu/hu/kereses?search=Önkormányzat",
+    "source": "morahalom.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
+  },
+  {
     "title": "Halálos baleset történt Mórahalom környékén az 55-ös főúton",
     "snippet": "Mentőhelikopter is érkezett a helyszínre.",
     "url": "https://index.hu/belfold/2026/01/23/domaszek-morahalom-55-os-fout-halalos-baleset-auto-arok-katasztrofavedelem-mentoszolgalat-lezaras/",
@@ -61,15 +70,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 12 Aug 2023 04:30:45 +0000"
-  },
-  {
-    "title": "Pályázati felhívás",
-    "snippet": ".st0{fill:none;stroke:#727272;stroke-width:1.5;stroke-miterlimit:10;} Önkormányzat Pályázati felhívás 2026.05.22. Mórahalom Városi Önkormányzat (Mórahalom, Szentháromság tér 1.) nyilvános, hirdetéssel induló versenytárgyalásos pályázati felhívást tesz közzé a tulajdonát képző alábbi ingatlanok érték",
-    "url": "https://www.morahalom.hu/hu/kereses?search=Önkormányzat",
-    "source": "morahalom.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-22"
   },
   {
     "title": "MÓRAHALOM, VÉRADÁSRA HÍVUNK!",
@@ -112,6 +112,33 @@
     "snippet": "május 21. 30. Szegedi Borfesztivál Részletek Kedvencekhez május 21",
     "url": "https://www.morahalom.hu/hu/program/30-szegedi-borfesztival",
     "source": "morahalom.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Szeged, Mórahalom és Balástya is büszke lehet rájuk, de most mindannyiunk segítségére szükségük van",
+    "snippet": "Szeged, Mórahalom és Balástya is büszke lehet rájuk, de most mindannyiunk segítségére szükségük van",
+    "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/harom-varmegyei-tesitanar-szeged",
+    "source": "delmagyar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Baleset történt az 55-ösön, Domaszék és Mórahalom között",
+    "snippet": "Baleset történt az 55-ösön, Domaszék és Mórahalom között",
+    "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/88215",
+    "source": "katasztrofavedelem.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Baleset történt az 55-ösön, Domaszék és Mórahalom között",
+    "snippet": "Baleset történt az 55-ösön, Domaszék és Mórahalom között",
+    "url": "https://webradio.hu/hirek/kek-hirek/baleset-tortent-az-55-oson-domaszek-es-morahalom-kozott",
+    "source": "webradio.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

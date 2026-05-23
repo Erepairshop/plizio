@@ -1,14 +1,5 @@
 [
   {
-    "title": "Tűz ütött ki egy családi ház padlásterében",
-    "snippet": "Először a füstre lettek figyelmesek a berzencei lakók, majd észlelték a tüzet is, ezért kérték a tűzoltók segítségét péntekre virradó éjjel.",
-    "url": "http://kaposvarmost.hu/hirek/bulvar/2026/05/23/tuz-utott-ki-egy-csaladi-haz-padlastereben.html",
-    "source": "Kaposvár Most",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:25:00 +0200"
-  },
-  {
     "title": "Csontvázak kerültek elő Kaposvár főutcáján",
     "snippet": "1982 nyarán különös esemény borzolta Kaposvár belvárosát; emberi csontvázak kerültek elő a földből.",
     "url": "https://www.sonline.hu/helyi-kozelet/2026/05/csont-kerult-elo-kaposvar-foutcajan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
@@ -16,6 +7,24 @@
     "lang": "hu",
     "scope": "county",
     "date": "Sat, 23 May 2026 04:00:41 +0000"
+  },
+  {
+    "title": "Megdőlt a rekord a somogyi borversenyen",
+    "snippet": "Nevezési rekordot döntött az idei somogyi borverseny – erről számolt be a közösségi oldalán csütörtökön Biró Norbert, a Somogy Vármegyei Önkormányzat elnöke.",
+    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/23/megdolt-a-rekord-a-somogyi-borversenyen.html",
+    "source": "Kaposvár Most",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 09:27:00 +0200"
+  },
+  {
+    "title": "Tűz ütött ki egy családi ház padlásterében",
+    "snippet": "Először a füstre lettek figyelmesek a berzencei lakók, majd észlelték a tüzet is, ezért kérték a tűzoltók segítségét péntekre virradó éjjel.",
+    "url": "http://kaposvarmost.hu/hirek/bulvar/2026/05/23/tuz-utott-ki-egy-csaladi-haz-padlastereben.html",
+    "source": "Kaposvár Most",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:25:00 +0200"
   },
   {
     "title": "Otthon maradt az iskolatáska, gyereknapot rendeztek a Kinizsiben",
@@ -27,22 +36,22 @@
     "date": "Sat, 23 May 2026 06:35:00 +0200"
   },
   {
-    "title": "Kaposvári és somogyi sikerek az Országos Elsősegélynyújtó Versenyen",
-    "snippet": "Balatonlellei, látrányi és kaposvári fiatalok szerepeltek sikeresen az 54. Országos Elsősegélynyújtó Verseny somogyi fordulójában.",
-    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/22/kaposvari-es-somogyi-sikerek-az-orszagos-elsosegelynyujto-versenyen.html",
+    "title": "Közösségépítő hétvégén vett részt a Kaposvári Evangélikus Gyülekezet Kórusa",
+    "snippet": "Országos Evangélikus Kórustalálkozón vett részt a Kaposvári Evangélikus Gyülekezet Kórusa május 16–17-én Békéscsabán.",
+    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/22/kozossegepito-hetvegen-vett-reszt-a-kaposvari-evangelikus-gyulekezet-korusa.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 20:20:00 +0200"
+    "date": "Fri, 22 May 2026 09:38:00 +0200"
   },
   {
-    "title": "Bővített hajózási menetrenddel vár a BAHART a pünkösdi hosszú hétvégén",
-    "snippet": "Május 23–25. között bővített menetrenddel közlekednek a BAHART hajói, így a pünkösdi hosszú hétvégén még több lehetőség nyílik a Balaton felfedezésére.",
-    "url": "http://kaposvarmost.hu/hirek/orszagos-hirek/2026/05/22/bovitett-hajozasi-menetrenddel-var-a-bahart-a-punkosdi-hosszu-hetvegen.html",
-    "source": "Kaposvár Most",
+    "title": "Csontvázak kerültek elő Kaposvár főutcáján",
+    "snippet": "Csontvázak kerültek elő Kaposvár főutcáján",
+    "url": "https://www.sonline.hu/helyi-kozelet/2026/05/csont-kerult-elo-kaposvar-foutcajan",
+    "source": "sonline.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 07:40:00 +0200"
+    "date": ""
   },
   {
     "title": "Berángatott egy 16 éves fiú egy 14 éves lányt az egyik kaposvári áruház vécéjébe, és minősített szexuális erőszakot követett el rajta",
@@ -63,22 +72,31 @@
     "date": "Thu, 21 May 2026 12:44:00 +0200"
   },
   {
-    "title": "Újabb városrész-rehabilitáció indul Kaposváron: megújul a Honvéd utcai tömbbelső",
-    "snippet": "Újabb jelentős fejlesztésre készül Kaposvár az északnyugati városrészben: megkezdődik a Honvéd utcai tömbbelső rehabilitációja. A tervezett beruházásról a helyszínen beszélt Szita Károly polgármester, aki szerint a város legsűrűbben lakott területén évek óta zajlanak a fejlesztések, most pedig egy ú",
-    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/22/ujabb-varosresz-rehabilitacio-indul-kaposvaron-megujul-a-honved-utcai-tombbelso.html",
+    "title": "Nyolc somogyi tűzoltó vizsgázott le a minap az elmúlt hetekben elsajátított ismeretekből Kaposváron",
+    "snippet": "A látrányi önkéntes, valamint a kadarkúti, a tabi, a böhönyei és a balatonboglári önkormányzati tűzoltók vettek részt azon a negyven órás elméleti és gyakorlati felkészítésen, amelyen elsajátították az alapvető tűzoltásvezetői, mentésvezetői feladatok biztonságos és szakszerű végrehajtását.",
+    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/22/nyolc-somogyi-tuzolto-vizsgazott-le-a-minap-az-elmult-hetekben-elsajatitott-ismeretekbol-kaposvaron.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 01:18:00 +0200"
+    "date": "Fri, 22 May 2026 08:44:00 +0200"
   },
   {
-    "title": "A rendőrség felkészült a 2026. évi nyári szezonra",
-    "snippet": "A Balatoni Közbiztonsági Koordinációs Bizottság (BKKB) 2026. május 21-én Balatonlellén tartotta sajtótájékoztatóval egybekötött szezonnyitó értekezletét.",
-    "url": "http://kaposvarmost.hu/hirek/orszagos-hirek/2026/05/21/a-rendorseg-felkeszult-a-2026-evi-nyari-szezonra.html",
+    "title": "Bővített hajózási menetrenddel vár a BAHART a pünkösdi hosszú hétvégén",
+    "snippet": "Május 23–25. között bővített menetrenddel közlekednek a BAHART hajói, így a pünkösdi hosszú hétvégén még több lehetőség nyílik a Balaton felfedezésére.",
+    "url": "http://kaposvarmost.hu/hirek/orszagos-hirek/2026/05/22/bovitett-hajozasi-menetrenddel-var-a-bahart-a-punkosdi-hosszu-hetvegen.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 21 May 2026 20:20:00 +0200"
+    "date": "Fri, 22 May 2026 07:40:00 +0200"
+  },
+  {
+    "title": "Napos hetünk lesz néhai záporokkal",
+    "snippet": "Nyugodt, napos hét várható gomolyfelhőkkel és kisebb záporokkal.",
+    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/20/napos-het-nehai-zaporokkal.html",
+    "source": "Kaposvár Most",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 09:18:00 +0200"
   },
   {
     "title": "Melegebb időt és szárazabb nyarakat hoz a klímaváltozás a Kárpát-medencében",
@@ -99,22 +117,13 @@
     "date": "Wed, 20 May 2026 07:21:00 +0200"
   },
   {
-    "title": "1,3 millió forintot gyűjtött össze a FINO csoport és a FINO Kaposvár röplabdacsapat",
-    "snippet": "Az összeget a Táncsics Mihály Gimnázium Arany János Tehetséggondozó Programjában részt vevő diákok kapják. Véget ért a bajnok röplabdacsapat és névadó szponzoruk egész szezonon át tartó, Pont a jó ügyért elnevezésű különleges gyűjtése.",
-    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/19/13-millio-forintot-gyujtott-ossze-a-fino-csoport-es-a-fino-kaposvar-roplabdacsapat.html",
+    "title": "Építs te is hajót - Gyerekeknek hirdet pályázatot a BAHART",
+    "snippet": "A balatoni hajózás 180 éves jubileuma alkalmából hívta életre a Balatoni Hajózási Zrt. az „Építs hajót!” kreatív pályázatot általános iskolás gyermekek és osztályok számára.",
+    "url": "http://kaposvarmost.hu/hirek/bulvar/2026/05/16/epits-te-is-hajot-gyerekeknek-hirdet-palyazatot-a-bahart.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 19 May 2026 20:32:00 +0200"
-  },
-  {
-    "title": "NAV: Mindenképp foglalkozni kell az adóbevallással!",
-    "snippet": "Május 20-a az egyéni vállalkozók, a mezőgazdasági őstermelők és az áfafizetésre kötelezett magánszemélyek szja-bevallásának is a határideje. A kiajánlott tervezettel a NAV nekik is segít, de fontos, hogy akik a tervezet felhasználásával kívánják teljesíteni a bevallási kötelezettségüket, azoknak min",
-    "url": "http://kaposvarmost.hu/hirek/orszagos-hirek/2026/05/16/nav-mindenkepp-foglalkozni-kell-az-adobevallassal.html",
-    "source": "Kaposvár Most",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 16 May 2026 08:25:00 +0200"
+    "date": "Sat, 16 May 2026 09:30:00 +0200"
   },
   {
     "title": "Péntektől tilos az elektromos rollerezés a kaposvári sétálóutcában",
@@ -144,13 +153,13 @@
     "date": "Fri, 13 Sep 2024 15:29:51 +0000"
   },
   {
-    "title": "Kiégett egy családi ház Mernyén",
-    "snippet": "Kigyulladt egy lakóház csütörtök délután Mernyén, a Csokonai utcában.",
-    "url": "http://kaposvarmost.hu/hirek/bulvar/2026/05/15/kiegett-egy-csaladi-haz-mernyen.html",
+    "title": "NAV: Mindenképp foglalkozni kell az adóbevallással!",
+    "snippet": "Május 20-a az egyéni vállalkozók, a mezőgazdasági őstermelők és az áfafizetésre kötelezett magánszemélyek szja-bevallásának is a határideje. A kiajánlott tervezettel a NAV nekik is segít, de fontos, hogy akik a tervezet felhasználásával kívánják teljesíteni a bevallási kötelezettségüket, azoknak min",
+    "url": "http://kaposvarmost.hu/hirek/orszagos-hirek/2026/05/16/nav-mindenkepp-foglalkozni-kell-az-adobevallassal.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 15 May 2026 20:10:00 +0200"
+    "date": "Sat, 16 May 2026 08:25:00 +0200"
   },
   {
     "title": "Magyar Péter Kaposváron: Talán soha nem néztünk ki ilyen jól",
@@ -171,13 +180,13 @@
     "date": "Mon, 27 Apr 2026 11:59:00 +0200"
   },
   {
-    "title": "\"Éles\" helyzetben gyakorolhattak a leendő rendőrök",
-    "snippet": "Az elsők között próbálhatták ki a Somogy Vármegyei Rendőr-főkapitányság intézkedéstechnikai kiképzőházát a középiskolás diákok.",
-    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/15/eles-helyzetben-gyakorolhattak-a-leendo-rendorok.html",
+    "title": "Kiégett egy családi ház Mernyén",
+    "snippet": "Kigyulladt egy lakóház csütörtök délután Mernyén, a Csokonai utcában.",
+    "url": "http://kaposvarmost.hu/hirek/bulvar/2026/05/15/kiegett-egy-csaladi-haz-mernyen.html",
     "source": "Kaposvár Most",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 15 May 2026 19:15:00 +0200"
+    "date": "Fri, 15 May 2026 20:10:00 +0200"
   },
   {
     "title": "Egy vendégmunkás holtteste került elő a kaposvári üveggyárban",
@@ -196,5 +205,50 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 22 Apr 2026 15:35:00 +0200"
+  },
+  {
+    "title": "Nézze élőben a Kaposvár - Szentes rangadót!",
+    "snippet": "Nézze élőben a Kaposvár - Szentes rangadót!",
+    "url": "https://kapos.hu/hirek/sport/2026-05-21/nezze_eloben_a_kaposvar_-_szentes_rangadot.html",
+    "source": "kapos.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Összefog Kaposvár a tehetséges fiatal zenész, Magyary Timót gyógyulásáért",
+    "snippet": "Összefog Kaposvár a tehetséges fiatal zenész, Magyary Timót gyógyulásáért",
+    "url": "https://www.sonline.hu/helyi-kozelet/2026/05/magyary-timot-gyogyulasa-osszefogas",
+    "source": "sonline.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Újra a Kaposvár áll közelebb a bronzéremhez",
+    "snippet": "Újra a Kaposvár áll közelebb a bronzéremhez",
+    "url": "https://magyarhirlap.hu/sport/20260521-ujra-a-kaposvar-all-kozelebb-a-bronzeremhez",
+    "source": "magyarhirlap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Újból érkezik a katonazenekari fesztivál Kaposvár főterére",
+    "snippet": "Újból érkezik a katonazenekari fesztivál Kaposvár főterére",
+    "url": "http://kaposvarmost.hu/hirek/kaposvari-hirek/2026/05/20/ujbol-katonazenekari-fesztival-erkezik-kaposvar-foterere-junius-elejen.html",
+    "source": "kaposvarmost.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Meghalt a Kaposvár mellett elgázolt fiatalember",
+    "snippet": "Meghalt a Kaposvár mellett elgázolt fiatalember",
+    "url": "https://www.sonline.hu/helyi-kozelet/2026/05/meghalt-a-kaposvar-mellett-elgazolt-fiatalember",
+    "source": "sonline.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

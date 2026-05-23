@@ -1,14 +1,5 @@
 [
   {
-    "title": "A föld alá is belesnek majd: közös projektbe fogott a Mol és a török állami vállalat",
-    "snippet": "Feltérképezik a dunántúli koncessziós területek esetleges kőolaj- és földgázkészleteit.",
-    "url": "https://index.hu/gazdasag/2025/12/08/mol-magyar-torok-szenhidrogen-kutatas-dunantul/",
-    "source": "index.hu/Buzsák",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 08 Dec 2025 17:56:00 +0100"
-  },
-  {
     "title": "Kigyulladt a buzsáki önkormányzat épülete",
     "snippet": "Az épületben senki nem tartózkodott. The post Kigyulladt a buzsáki önkormányzat épülete first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2018/03/25/buzsak-onkormanyzat-tuz/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 25 Mar 2018 11:52:22 +0000"
+  },
+  {
+    "title": "A föld alá is belesnek majd: közös projektbe fogott a Mol és a török állami vállalat",
+    "snippet": "Feltérképezik a dunántúli koncessziós területek esetleges kőolaj- és földgázkészleteit.",
+    "url": "https://index.hu/gazdasag/2025/12/08/mol-magyar-torok-szenhidrogen-kutatas-dunantul/",
+    "source": "index.hu/Buzsák",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 08 Dec 2025 17:56:00 +0100"
   },
   {
     "title": "Agrárium 2026-Gazdaságszerkezeti összeírás",
@@ -43,5 +43,77 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 15 Apr 2026 06:50:54 +0000"
+  },
+  {
+    "title": "Védőnői helyettesítés 2026.03.01-től",
+    "snippet": "A Védőnői helyettesítés 2026.03.01-től bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/vedonoi-helyettesites-2026-03-01-tol/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Feb 2026 15:55:59 +0000"
+  },
+  {
+    "title": "Gyócsiné Lakatos Izabella, Buzsák Község védőnőjének üzenete",
+    "snippet": "Ezúton továbbítjuk Gyócsiné Lakatos Izabella, Buzsák Község védőnőjének üzenetét. A kedves Védőnéninktől örömteli okok miatt egy időre elbúcsúzunk, hiszen ismét anyai örömök várnak rá. Jó egészséget, örömteli, szeretetteljes pillanatokat kívánunk Neki és az egész Családjának. Nagyon köszönjük az áld",
+    "url": "https://buzsak.hu/hirek/gyocsine-lakatos-izabella-buzsak-kozseg-vedonojenek-uzenete/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Feb 2026 15:48:07 +0000"
+  },
+  {
+    "title": "Lomtalanítás 2026.  Lomhulladék kihelyezés időpontja: március 22.",
+    "snippet": "A Lomtalanítás 2026. Lomhulladék kihelyezés időpontja: március 22. bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/lomtalanitas-2026-marcius-22/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 03 Feb 2026 13:31:52 +0000"
+  },
+  {
+    "title": "Buzsák község településrendezési eszközeinek 7. számú módosításával kapcsolatos lakossági fórum",
+    "snippet": "A Buzsák község településrendezési eszközeinek 7. számú módosításával kapcsolatos lakossági fórum bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/buzsak-kozseg-telepulesrendezesi-eszkozeinek-7-szamu-modositasaval-kapcsolatos-lakossagi-forum/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 26 Jan 2026 14:25:28 +0000"
+  },
+  {
+    "title": "2026. évi hulladéknaptár",
+    "snippet": "A 2026. évi hulladéknaptár bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/2026-evi-hulladeknaptar/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 06 Jan 2026 13:01:33 +0000"
+  },
+  {
+    "title": "Álláshirdetés-Buzsák Térségi Szociális Társulás- Intézményvezető munkakör",
+    "snippet": "A Álláshirdetés-Buzsák Térségi Szociális Társulás- Intézményvezető munkakör bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/allashirdetes-buzsak-tersegi-szocialis-tarsulas-intezmenyvezeto-munkakor/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 09 Dec 2025 14:39:55 +0000"
+  },
+  {
+    "title": "Mit lehet tenni a téli szélsőséges időjárási körülmények során?",
+    "snippet": "A Mit lehet tenni a téli szélsőséges időjárási körülmények során? bejegyzés először Buzsák -én jelent meg.",
+    "url": "https://buzsak.hu/hirek/mit-lehet-tenni-a-teli-szelsoseges-idojarasi-korulmenyek-soran/",
+    "source": "buzsak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 04 Dec 2025 12:16:16 +0000"
+  },
+  {
+    "title": "Vármegye II: Keresztúron tudott nyerni a Buzsák",
+    "snippet": "Vármegye II: Keresztúron tudott nyerni a Buzsák",
+    "url": "https://www.sonline.hu/helyi-sport/2026/05/varmegye-ketto-kereszturon-tudott-nyerni-a-buzsak",
+    "source": "sonline.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

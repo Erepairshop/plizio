@@ -45,6 +45,15 @@
     "date": "Sat, 21 Jun 2025 17:41:00 +0200"
   },
   {
+    "title": "Üveghulladék leadása",
+    "snippet": "Üveghulladék leadása",
+    "url": "http://www.martonvasar.hu/2026-05-13/uveghulladek-leadasa",
+    "source": "martonvasar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-13"
+  },
+  {
     "title": "Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál",
     "snippet": "A Martonvásárról 10:10-kor Kőbánya-Kispestre elindult S36-os vonat Martonvásár állomásról engedély nélkül, a tiltó jelzés ellenére indult el. The post Vizsgálat a MÁV-nál, miután egymással szemben ment két vonat Martonvásárnál first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/11/07/mav-vizsgalat-egymassal-szemben-haladt-ket-vonat-martonvasar/",
@@ -52,5 +61,23 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 Nov 2024 11:58:29 +0000"
+  },
+  {
+    "title": "Üveghulladék leadása",
+    "snippet": "Üveghulladék leadása",
+    "url": "http://www.martonvasar.hu/2026-04-02/uveghulladek-leadasa",
+    "source": "martonvasar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-02-26"
+  },
+  {
+    "title": "Martonvásár>Százhalombatta 704-es késés",
+    "snippet": "Martonvásár>Százhalombatta 704-es késés",
+    "url": "https://www.mavcsoport.hu/node/193707",
+    "source": "mavcsoport.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

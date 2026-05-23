@@ -27,6 +27,15 @@
     "date": "Fri, 22 May 2026 17:01:15 +0000"
   },
   {
+    "title": "Robbanás történt a Mol tiszaújvárosi üzemében",
+    "snippet": "Egy ember meghalt, több súlyos sérült van. Robbanás történt a Mol tiszaújvárosi üzemében – közölte a miniszterelnök a közösségi oldalán. Egy ember életét vesztette, több súlyos sérült van. Magyar Péter beszámolt róla, hogy Kapitány István energetikáért felelős miniszter a helyszínre megy Hernádi Zso",
+    "url": "https://egerhirek.hu/2026/05/22/robbanas-tortent-a-mol-tiszaujvarosi-uzemeben/villogo/egerhirek",
+    "source": "Eger Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 07:36:26 +0000"
+  },
+  {
     "title": "Forgalomkorlátozás és vízhiány is lehet a Vörösmarty úton",
     "snippet": "A Heves Megyei Vízmű Zrt. folytatja az ivóvíz bekötővezetékek cseréjét Egerben, a Vörösmarty úton. A munkálatok miatt forgalomkorlátozásra, időszakos nyomáscsökkenésre és vízhiányra is számítani kell. A társaság tájékoztatása szerint a 25-ös főút egri átkelési szakaszán, a Rózsa Károly és a Petőfi S",
     "url": "https://egerhirek.hu/2026/05/21/forgalomkorlatozas-es-vizhiany-is-lehet-a-vorosmarty-utonh/varos/egerhirek",
@@ -36,13 +45,13 @@
     "date": "Thu, 21 May 2026 15:04:53 +0000"
   },
   {
-    "title": "Hivatalosan is Eger tulajdonába került a volt laktanya területe",
-    "snippet": "A mai nappal egy új korszak kezdődik: hivatalosan is Eger tulajdonába került a volt laktanya területe közölte közösségi oldalán Várgner Ákos Eger polgármestere. Húsz év után végre megnyílt az út, hogy a város egyik legnagyobb, legértékesebb, mégis hosszú ideje kihasználatlanul álló területéről mi ma",
-    "url": "https://egerhirek.hu/2026/05/21/hivatalosan-is-eger-tulajdonaba-kerult-a-volt-laktanya-terulete/varos/egerhirek",
-    "source": "Eger Hírek",
+    "title": "Késik egy esti 3410-es busz Eger felé",
+    "snippet": "Késik egy esti 3410-es busz Eger felé",
+    "url": "https://www.mavcsoport.hu/node/193950",
+    "source": "mavcsoport.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 21 May 2026 10:28:11 +0000"
+    "date": ""
   },
   {
     "title": "300 ezer zarándokot várnak a csíksomlyói pünkösdi búcsúba",
@@ -81,6 +90,15 @@
     "date": "Tue, 19 May 2026 08:13:52 +0000"
   },
   {
+    "title": "Akadozik az áramszolgáltatás Egerben",
+    "snippet": "A kormányhivatal és a járási hivatal épületeit is érinti az áramkimaradás. The post Akadozik az áramszolgáltatás Egerben first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/04/aramszolgaltatas-eger-kormanyhivatal-korhaz/",
+    "source": "24.hu/Eger",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 May 2026 11:39:21 +0000"
+  },
+  {
     "title": "Indul a szezon a Tisza-tónál",
     "snippet": "A Heves, a Jász-Nagykun-Szolnok és a Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság a Tisza-tavi Régiós Közbiztonsági Koordinációs Bizottság égisze alatt tartott szezonnyitó értekezletet Poroszlón május 14-én. A rendőr-főkapitányságok lassan közel két évtizede hangolják össze a turisztikai idén",
     "url": "https://egerhirek.hu/2026/05/15/indul-a-szezon-a-tisza-tonal/villogo/egerhirek",
@@ -99,15 +117,6 @@
     "date": "Sat, 16 May 2026 07:24:00 +0200"
   },
   {
-    "title": "Akadozik az áramszolgáltatás Egerben",
-    "snippet": "A kormányhivatal és a járási hivatal épületeit is érinti az áramkimaradás. The post Akadozik az áramszolgáltatás Egerben first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/04/aramszolgaltatas-eger-kormanyhivatal-korhaz/",
-    "source": "24.hu/Eger",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 04 May 2026 11:39:21 +0000"
-  },
-  {
     "title": "Meghalt egy motoros Eger közelében",
     "snippet": "Egy betonoszlopnak hajtott neki, teljes útlezárás mellett helyszínelnek a rendőrök.",
     "url": "https://index.hu/belfold/2021/08/01/meghalt-egy-motoros-eger-kozeleben/",
@@ -115,6 +124,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 01 Aug 2021 19:17:00 +0200"
+  },
+  {
+    "title": "Téglával agyonverte a feleségét, majd felhívta a 112-t",
+    "snippet": "A lakásba azonban már nem engedte be a rendőröket. The post Téglával agyonverte a feleségét, majd felhívta a 112-t first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/22/eger-feleseggyilkos-letartoztatas/",
+    "source": "24.hu/Eger",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 22 Apr 2026 09:47:11 +0000"
   },
   {
     "title": "Orbán Anita az orosz nagykövetnek: elfogadhatatlan, hogy a magyarok által lakott Kárpátalját is támadják",
@@ -135,13 +153,13 @@
     "date": "Fri, 08 May 2026 16:13:00 +0200"
   },
   {
-    "title": "Téglával agyonverte a feleségét, majd felhívta a 112-t",
-    "snippet": "A lakásba azonban már nem engedte be a rendőröket. The post Téglával agyonverte a feleségét, majd felhívta a 112-t first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/22/eger-feleseggyilkos-letartoztatas/",
+    "title": "Halálra verte feleségét egy egri férfi",
+    "snippet": "A 68 éves férfit őrizetbe vették. The post Halálra verte feleségét egy egri férfi first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/21/emberoles-csaladon-beluli-eroszak/",
     "source": "24.hu/Eger",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 22 Apr 2026 09:47:11 +0000"
+    "date": "Tue, 21 Apr 2026 08:11:47 +0000"
   },
   {
     "title": "Csipkebogyóterméket hívott vissza a gyártó a forgalomból",
@@ -162,12 +180,48 @@
     "date": "Tue, 05 May 2026 21:01:00 +0200"
   },
   {
-    "title": "Halálra verte feleségét egy egri férfi",
-    "snippet": "A 68 éves férfit őrizetbe vették. The post Halálra verte feleségét egy egri férfi first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/21/emberoles-csaladon-beluli-eroszak/",
-    "source": "24.hu/Eger",
+    "title": "Eger – május 26-ától ideiglenesen kimaradó megállók",
+    "snippet": "Eger – május 26-ától ideiglenesen kimaradó megállók",
+    "url": "https://www.mavcsoport.hu/node/193854",
+    "source": "mavcsoport.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 21 Apr 2026 08:11:47 +0000"
+    "date": ""
+  },
+  {
+    "title": "One Eger: kétfrontos csata a vízilabdázóknak",
+    "snippet": "One Eger: kétfrontos csata a vízilabdázóknak",
+    "url": "https://www.heol.hu/helyi-sport/2026/05/one-eger-uvse-osc-bronzcsata",
+    "source": "heol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Hivatalosan is Eger tulajdonába került a volt laktanya területe",
+    "snippet": "Hivatalosan is Eger tulajdonába került a volt laktanya területe",
+    "url": "https://egerhirek.hu/2026/05/21/hivatalosan-is-eger-tulajdonaba-kerult-a-volt-laktanya-terulete/varos/egerhirek",
+    "source": "egerhirek.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Ünnepi sportműsor: Eger a házigazdája az Akrobatikus Rock & Roll Országos Bajnokságnak",
+    "snippet": "Ünnepi sportműsor: Eger a házigazdája az Akrobatikus Rock & Roll Országos Bajnokságnak",
+    "url": "https://www.heol.hu/helyi-sport/2026/05/sportmusor-eger-akrobatikus-rock-orszagos-bajnoksag",
+    "source": "heol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "One Eger: sok rossz lövés és sok kapott buta gól",
+    "snippet": "One Eger: sok rossz lövés és sok kapott buta gól",
+    "url": "https://www.heol.hu/helyi-sport/2026/05/one-eger-sok-rossz-loves-es-sok-kapott-buta-gol",
+    "source": "heol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

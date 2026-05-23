@@ -27,15 +27,6 @@
     "date": "Sat, 23 May 2026 03:20:03 +0000"
   },
   {
-    "title": "Nyáriasan meleg idő várható a pünkösdi hosszú hétvégén",
-    "snippet": "A pünkösdi hosszú hétvégén túlnyomóan napos, száraz és nyáriasan meleg időre számíthatunk. A csúcshőmérséklet több helyen megközelítheti a 30 fokot. A szél többfelé lesz élénk, olykor erős derül ki a HungaroMet Nonprofit Zrt. előrejelzéséből. Pénteken többnyire napos idő várható, csupán kevés fátyol",
-    "url": "https://ujpestmedia.hu/nyariasan-meleg-ido-varhato-a-punkosdi-hosszu-hetvegen/",
-    "source": "Újpesti Médiaközpont",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 05:17:09 +0000"
-  },
-  {
     "title": "Vezetés közben meghalt egy férfi Újpesten",
     "snippet": "A mentők nem tudták már újraéleszteni. The post Vezetés közben meghalt egy férfi Újpesten first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/20/ujpest-vezetes-kozben-meghalt-ferfi/",
@@ -52,6 +43,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 14:31:00 +0200"
+  },
+  {
+    "title": "Újpest: Az NB I magyar gólkirályát nézhették ki a csatársorba",
+    "snippet": "Újpest: Az NB I magyar gólkirályát nézhették ki a csatársorba",
+    "url": "https://www.csakfoci.hu/magyar-foci/ujpest-az-nb-i-magyar-golkiralyat-vinnek-a-csatarsorba",
+    "source": "csakfoci.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Nyáriasan meleg idő várható a pünkösdi hosszú hétvégén",
+    "snippet": "A pünkösdi hosszú hétvégén túlnyomóan napos, száraz és nyáriasan meleg időre számíthatunk. A csúcshőmérséklet több helyen megközelítheti a 30 fokot. A szél többfelé lesz élénk, olykor erős derül ki a HungaroMet Nonprofit Zrt. előrejelzéséből. Pénteken többnyire napos idő várható, csupán kevés fátyol",
+    "url": "https://ujpestmedia.hu/nyariasan-meleg-ido-varhato-a-punkosdi-hosszu-hetvegen/",
+    "source": "Újpesti Médiaközpont",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 05:17:09 +0000"
   },
   {
     "title": "„Nem tudtam reálisan gondolkozni, ezért vágtam le az ujját” – az újpesti gyilkos megindokolta, miért csonkította meg a felesége holttestét",
@@ -259,14 +268,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 13 Dec 2025 21:13:00 +0100"
-  },
-  {
-    "title": "Ezúttal nem fért bele a kihagyott büntető, Kisvárdán kikapott az Újpest",
-    "snippet": "Révész Attila együttese egyre nagyobb mumusa a 20-szoros magyar bajnoknak.",
-    "url": "https://index.hu/sport/futball/2025/11/30/labdarugo-nb-i-kisvarda-ujpest-bajnoki-osszefoglalo-15.-fordulo/",
-    "source": "index.hu/Kisvárda",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 30 Nov 2025 15:52:00 +0100"
   }
 ]

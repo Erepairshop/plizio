@@ -18,15 +18,6 @@
     "date": "Fri, 09 Jan 2026 11:07:56 +0000"
   },
   {
-    "title": "Agrárium 2026",
-    "snippet": "",
-    "url": "https://putnok.hu/hivatal/2026/05/13/agrarium-2026/",
-    "source": "putnok.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 07:16:07 +0000"
-  },
-  {
     "title": "„Mutasson rá, most legyen bátor!” – megjelent egy polgármester Magyar Péter gyűlésén, kiabálás lett belőle",
     "snippet": "Feszült pillanatok.",
     "url": "https://index.hu/belfold/2024/05/11/magyar-peter-tamas-barnabas-putnok-kiabalas-veszekedes/",
@@ -45,15 +36,6 @@
     "date": "Sat, 27 Dec 2025 08:55:18 +0000"
   },
   {
-    "title": "Tájékoztatás – a 2025/2026-ös tanév nyári szünetében igénybe vehető szünidei gyermekétkeztetés feltételeiről",
-    "snippet": "Putnok Város Önkormányzata a szünidei gyermekétkeztetés keretében ingyenes ebédet biztosít a szülő, törvényes képviselő kérelmére a rendszeres gyermekvédelmi kedvezményre jogosult, továbbá a hátrányos",
-    "url": "https://putnok.hu/hivatal/2026/05/05/tajekoztatas-a-2025-2026-os-tanev-nyari-szuneteben-igenybe-veheto-szunidei-gyermeketkeztetes-felteteleirol/",
-    "source": "putnok.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 05 May 2026 12:29:05 +0000"
-  },
-  {
     "title": "Családi ház égett Putnokon, egy ember meghalt",
     "snippet": "Tűzvizsgálati eljárás indult az ügyben.",
     "url": "https://index.hu/belfold/2023/11/22/tuzeset-csaladi-haz-eg-putnok-meghalt-egy-ember/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 22 Nov 2023 16:17:00 +0100"
+  },
+  {
+    "title": "Agrárium 2026",
+    "snippet": "",
+    "url": "https://putnok.hu/hivatal/2026/05/13/agrarium-2026/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 07:16:07 +0000"
   },
   {
     "title": "Legkorábban 28 év múlva szabadulhat a putnoki férfi, aki brutálisan kivégezte a barátnője szeretőjét",
@@ -72,6 +63,15 @@
     "date": "Thu, 12 Sep 2024 12:56:18 +0000"
   },
   {
+    "title": "Tájékoztatás – a 2025/2026-ös tanév nyári szünetében igénybe vehető szünidei gyermekétkeztetés feltételeiről",
+    "snippet": "Putnok Város Önkormányzata a szünidei gyermekétkeztetés keretében ingyenes ebédet biztosít a szülő, törvényes képviselő kérelmére a rendszeres gyermekvédelmi kedvezményre jogosult, továbbá a hátrányos",
+    "url": "https://putnok.hu/hivatal/2026/05/05/tajekoztatas-a-2025-2026-os-tanev-nyari-szuneteben-igenybe-veheto-szunidei-gyermeketkeztetes-felteteleirol/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 12:29:05 +0000"
+  },
+  {
     "title": "Földtulajdonosi gyűlés – 2026.05.26.",
     "snippet": "A meghívó letöltése: ftulaj_gy_2026-meghivo.pdf",
     "url": "https://putnok.hu/hivatal/2026/04/28/foldtulajdonosi-gyules-2026-05-26/",
@@ -79,5 +79,77 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 28 Apr 2026 06:44:35 +0000"
+  },
+  {
+    "title": "Hirdetmény – Óvodai beíratkozás",
+    "snippet": "Putnok Város Önkormányzatának Képviselő-testülete 2026. március 17-ei ülésén a 32/2026. (III.17.) határozatával elfogadta a 2026/2027. nevelési évre szóló óvodai beiratkozás",
+    "url": "https://putnok.hu/hivatal/2026/04/16/hirdetmeny-ovodai-beiratkozas-2/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 16 Apr 2026 11:36:52 +0000"
+  },
+  {
+    "title": "ÉRTESÍTÉS VEGYSZERES GYOMIRTÁSRÓL",
+    "snippet": "ÉRTESÍTÉS VEGYSZERES GYOMIRTÁSRÓL Ezúton értesítjük, hogy az Önkormányzat illetékességi területén a MÁV Zrt. Miskolc Pályavasúti Területi Igazgatóság tájékoztatása szerint Putnok,",
+    "url": "https://putnok.hu/hivatal/2026/04/09/ertesites-vegyszeres-gyomirtasrol-7/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 09 Apr 2026 07:08:55 +0000"
+  },
+  {
+    "title": "Általános iskolák 1. évfolyamra történő beíratkozásáról",
+    "snippet": "Letöltés: beiratkozás-2026.pdf",
+    "url": "https://putnok.hu/hivatal/2026/03/30/altalanos-iskolak-1-evfolyamra-torteno-beiratkozasarol/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 30 Mar 2026 07:03:13 +0000"
+  },
+  {
+    "title": "Veszettség elleni védekezés",
+    "snippet": "Csatolt dokumentum: veszettség elleni védekezés.pdf",
+    "url": "https://putnok.hu/hivatal/2026/03/26/veszettseg-elleni-vedekezes/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Mar 2026 09:43:54 +0000"
+  },
+  {
+    "title": "INGATLANÁRVERÉSI HIRDETMÉNY",
+    "snippet": "A dokumentum letöltése: 05.05_09.30_BO-36-392-2-2026-hirdetmény.pdf",
+    "url": "https://putnok.hu/hivatal/2026/03/24/ingatlanarveresi-hirdetmeny/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 24 Mar 2026 10:38:41 +0000"
+  },
+  {
+    "title": "PÁLYÁZAT  – Putnok Város Önkormányzata értékesítésre meghirdeti egyes önkormányzati tulajdonú ingatlanait.",
+    "snippet": "Putnok Város Önkormányzata értékesítésre meghirdeti egyes önkormányzati tulajdonú ingatlanait. A pályázati ajánlatokat írásban, zárt borítékban kell a Putnoki Közös",
+    "url": "https://putnok.hu/hivatal/2026/03/23/palyazat-putnok-varos-onkormanyzata-ertekesitesre-meghirdeti-egyes-onkormanyzati-tulajdonu-ingatlanait-2/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 23 Mar 2026 14:47:11 +0000"
+  },
+  {
+    "title": "Lakossági tájékoztató helyi adókról",
+    "snippet": "Tisztelt Adófizetők! Tájékoztatjuk Önöket, hogy a helyi adók I. félévi részletének befizetési határideje március 16. a II. félévi adó befizetésének",
+    "url": "https://putnok.hu/hivatal/2026/03/10/lakossagi-tajekoztato-helyi-adokrol/",
+    "source": "putnok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 10 Mar 2026 13:06:55 +0000"
+  },
+  {
+    "title": ",,Megvan a 100. győzelmem a Putnok vezetőedzőjeként és ezt szeretném megköszönni minden eddigi játékosnak, aki az elmúlt 5 évben részt vett ezekben a sikerekben\"",
+    "snippet": ",,Megvan a 100. győzelmem a Putnok vezetőedzőjeként és ezt szeretném megköszönni minden eddigi játékosnak, aki az elmúlt 5 évben részt vett ezekben a sikerekben\"",
+    "url": "https://www.boon.hu/helyi-sport/2026/05/dvtk-tartalek-kikapott-tarpa-putnok",
+    "source": "boon.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]
