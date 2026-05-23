@@ -1600,7 +1600,7 @@ export const hungaryRegions: POI[] = [
 
 export const hungaryCities: POI[] = [
   {
-    id: "budapest-city",
+    id: "budapest-city", population: 1757618,
     type: "city",
     parent: "budapest",
     coords: [19.0402, 47.4979],
@@ -3766,7 +3766,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "pecs",
+    id: "pecs", population: 147719,
     type: "city",
     parent: "baranya",
     coords: [18.2323, 46.0727],
@@ -4736,7 +4736,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "siklos",
+    id: "siklos", population: 9501,
     type: "city",
     parent: "baranya",
     coords: [18.2975, 45.855],
@@ -5216,7 +5216,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "mohacs",
+    id: "mohacs", population: 17738,
     type: "city",
     parent: "baranya",
     coords: [18.6814, 45.9956],
@@ -6253,7 +6253,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kecskemet",
+    id: "kecskemet", population: 112071,
     type: "city",
     parent: "bacs-kiskun",
     coords: [19.6913, 46.9062],
@@ -7167,7 +7167,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kalocsa",
+    id: "kalocsa", population: 16552,
     type: "city",
     parent: "bacs-kiskun",
     coords: [18.9803, 46.5297],
@@ -7693,7 +7693,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kiskunmajsa",
+    id: "kiskunmajsa", population: 11675,
     type: "city",
     parent: "bacs-kiskun",
     coords: [19.7381, 46.4919],
@@ -7999,7 +7999,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "bekescsaba",
+    id: "bekescsaba", population: 61046,
     type: "city",
     parent: "bekes",
     coords: [21.0978, 46.6797],
@@ -8857,7 +8857,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "gyula",
+    id: "gyula", population: 31199,
     type: "city",
     parent: "bekes",
     coords: [21.2811, 46.6447],
@@ -10337,7 +10337,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "miskolc",
+    id: "miskolc", population: 162905,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [20.79, 48.1],
@@ -11223,7 +11223,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szerencs",
+    id: "szerencs", population: 9166,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [21.2053, 48.1631],
@@ -14863,7 +14863,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szekesfehervar",
+    id: "szekesfehervar", population: 99247,
     type: "city",
     parent: "fejer",
     coords: [18.4103, 47.1899],
@@ -15749,7 +15749,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "dunaujvaros",
+    id: "dunaujvaros", population: 48484,
     type: "city",
     parent: "fejer",
     coords: [18.9397, 46.9619],
@@ -16936,7 +16936,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "gyor",
+    id: "gyor", population: 132735,
     type: "city",
     parent: "gyor-moson-sopron",
     coords: [17.6351, 47.6833],
@@ -18030,7 +18030,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "sopron",
+    id: "sopron", population: 62454,
     type: "city",
     parent: "gyor-moson-sopron",
     coords: [16.5905, 47.6817],
@@ -18972,7 +18972,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "debrecen",
+    id: "debrecen", population: 218000,
     type: "city",
     parent: "hajdu-bihar",
     coords: [21.6273, 47.5316],
@@ -19964,7 +19964,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "hajduszoboszlo",
+    id: "hajduszoboszlo", population: 24175,
     type: "city",
     parent: "hajdu-bihar",
     coords: [21.4, 47.45],
@@ -20713,7 +20713,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "eger",
+    id: "eger", population: 54867,
     type: "city",
     parent: "heves",
     coords: [20.3739, 47.9025],
@@ -21599,7 +21599,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "gyongyos",
+    id: "gyongyos", population: 31018,
     type: "city",
     parent: "heves",
     coords: [19.9281, 47.7833],
@@ -22531,7 +22531,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "szolnok",
+    id: "szolnok", population: 73193,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [20.2, 47.1833],
@@ -23389,7 +23389,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "jaszbereny",
+    id: "jaszbereny", population: 31402,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [19.9167, 47.5],
@@ -24167,7 +24167,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kisujszallas",
+    id: "kisujszallas", population: 13092,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [20.7667, 47.2167],
@@ -24525,7 +24525,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "tatabanya",
+    id: "tatabanya", population: 100000,
     type: "city",
     parent: "komarom-esztergom",
     coords: [18.4222, 47.58],
@@ -25411,7 +25411,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "esztergom",
+    id: "esztergom", population: 28680,
     type: "city",
     parent: "komarom-esztergom",
     coords: [18.7394, 47.7914],
@@ -26297,7 +26297,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "tata",
+    id: "tata", population: 23881,
     type: "city",
     parent: "komarom-esztergom",
     coords: [18.3167, 47.65],
@@ -27131,7 +27131,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "salgotarjan",
+    id: "salgotarjan", population: 37199,
     type: "city",
     parent: "nograd",
     coords: [19.8053, 48.0986],
@@ -27937,7 +27937,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "balassagyarmat",
+    id: "balassagyarmat", population: 17794,
     type: "city",
     parent: "nograd",
     coords: [19.2944, 48.0792],
@@ -28435,7 +28435,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "szentendre",
+    id: "szentendre", population: 28524,
     type: "city",
     parent: "pest",
     coords: [19.0761, 47.6694],
@@ -29293,7 +29293,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "godollo",
+    id: "godollo", population: 32792,
     type: "city",
     parent: "pest",
     coords: [19.3478, 47.5969],
@@ -30197,7 +30197,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "vac",
+    id: "vac", population: 36310,
     type: "city",
     parent: "pest",
     coords: [19.1306, 47.7756],
@@ -31003,7 +31003,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "kaposvar",
+    id: "kaposvar", population: 65337,
     type: "city",
     parent: "somogy",
     coords: [17.7897, 46.3592],
@@ -31833,7 +31833,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "siofok",
+    id: "siofok", population: 26451,
     type: "city",
     parent: "somogy",
     coords: [18.05, 46.9],
@@ -33079,7 +33079,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "nyiregyhaza",
+    id: "nyiregyhaza", population: 118185,
     type: "city",
     parent: "szabolcs-szatmar-bereg",
     coords: [21.7167, 47.95],
@@ -33923,7 +33923,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "mateszalka",
+    id: "mateszalka", population: 17144,
     type: "city",
     parent: "szabolcs-szatmar-bereg",
     coords: [22.3167, 47.95],
@@ -34270,7 +34270,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "vasarosnameny",
+    id: "vasarosnameny", population: 8831,
     type: "city",
     parent: "szabolcs-szatmar-bereg",
     coords: [22.3167, 48.1167],
@@ -34611,7 +34611,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szekszard",
+    id: "szekszard", population: 33599,
     type: "city",
     parent: "tolna",
     coords: [18.7, 46.35],
@@ -36643,7 +36643,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szombathely",
+    id: "szombathely", population: 78446,
     type: "city",
     parent: "vas",
     coords: [16.6217, 47.2306],
@@ -37526,7 +37526,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "koszeg",
+    id: "koszeg", population: 11927,
     type: "city",
     parent: "vas",
     coords: [16.5406, 47.3892],
@@ -38029,7 +38029,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "sarvar",
+    id: "sarvar", population: 15072,
     type: "city",
     parent: "vas",
     coords: [16.9333, 47.25],
@@ -38452,7 +38452,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "veszprem-city",
+    id: "veszprem-city", population: 60876,
     type: "city",
     parent: "veszprem",
     coords: [17.9114, 47.0928],
@@ -39543,7 +39543,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "balatonfured",
+    id: "balatonfured", population: 13313,
     type: "city",
     parent: "veszprem",
     coords: [17.8833, 46.95],
@@ -40039,7 +40039,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "zalaegerszeg",
+    id: "zalaegerszeg", population: 62214,
     type: "city",
     parent: "zala",
     coords: [16.8439, 46.8417],
@@ -40866,7 +40866,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "nagykanizsa",
+    id: "nagykanizsa", population: 49070,
     type: "city",
     parent: "zala",
     coords: [16.9911, 46.45],
@@ -41641,7 +41641,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "keszthely",
+    id: "keszthely", population: 20382,
     type: "city",
     parent: "zala",
     coords: [17.2431, 46.7681],
@@ -42767,7 +42767,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szigetvar",
+    id: "szigetvar", population: 10755,
     type: "city",
     parent: "baranya",
     coords: [17.7981, 46.0494],
@@ -43893,7 +43893,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kiskunfelegyhaza",
+    id: "kiskunfelegyhaza", population: 29567,
     type: "city",
     parent: "bacs-kiskun",
     coords: [19.85, 46.7167],
@@ -45884,7 +45884,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "sarospatak",
+    id: "sarospatak", population: 12827,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [21.5667, 48.3167],
@@ -46804,7 +46804,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "mor",
+    id: "mor", population: 14357,
     type: "city",
     parent: "fejer",
     coords: [18.2, 47.3667],
@@ -48796,7 +48796,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "hajduboszormeny",
+    id: "hajduboszormeny", population: 32177,
     type: "city",
     parent: "hajdu-bihar",
     coords: [21.5167, 47.6667],
@@ -49744,7 +49744,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "berettyoujfalu",
+    id: "berettyoujfalu", population: 15411,
     type: "city",
     parent: "hajdu-bihar",
     coords: [21.5, 47.2167],
@@ -50882,7 +50882,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "mezotur",
+    id: "mezotur", population: 17111,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [20.6167, 47.0],
@@ -51308,7 +51308,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "tiszafured",
+    id: "tiszafured", population: 11616,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [20.75, 47.6167],
@@ -51710,7 +51710,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "komarom",
+    id: "komarom", population: 20391,
     type: "city",
     parent: "komarom-esztergom",
     coords: [18.1167, 47.75],
@@ -53636,7 +53636,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "erd",
+    id: "erd", population: 71495,
     type: "city",
     parent: "pest",
     coords: [18.9167, 47.3833],
@@ -54386,7 +54386,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "cegled",
+    id: "cegled", population: 36391,
     type: "city",
     parent: "pest",
     coords: [19.8, 47.1833],
@@ -56064,7 +56064,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kisvarda",
+    id: "kisvarda", population: 16888,
     type: "city",
     parent: "szabolcs-szatmar-bereg",
     coords: [22.0833, 48.2167],
@@ -56841,7 +56841,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "dombovar",
+    id: "dombovar", population: 19067,
     type: "city",
     parent: "tolna",
     coords: [18.1333, 46.3667],
@@ -57223,7 +57223,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "dunafoldvar",
+    id: "dunafoldvar", population: 8722,
     type: "city",
     parent: "tolna",
     coords: [18.9167, 46.8],
@@ -58297,7 +58297,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "papa",
+    id: "papa", population: 31528,
     type: "city",
     parent: "veszprem",
     coords: [17.4667, 47.3333],
@@ -62266,7 +62266,7 @@ export const hungaryCities: POI[] = [
     },
   },
   {
-    id: "hatvan",
+    id: "hatvan", population: 20525,
     type: "city",
     parent: "heves",
     coords: [19.6833, 47.6667],
@@ -63044,7 +63044,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "tapolca",
+    id: "tapolca", population: 15966,
     type: "city",
     parent: "veszprem",
     coords: [17.4333, 46.8833],
@@ -63426,7 +63426,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "kazincbarcika",
+    id: "kazincbarcika", population: 28249,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [20.6333, 48.25],
@@ -64204,7 +64204,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "ozd",
+    id: "ozd", population: 34361,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [20.2833, 48.2167],
@@ -64982,7 +64982,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szigliget",
+    id: "szigliget", population: 849,
     type: "city",
     parent: "veszprem",
     coords: [17.4333, 46.8],
@@ -65780,7 +65780,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "mezokovesd",
+    id: "mezokovesd", population: 16644,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [20.5833, 47.8167],
@@ -66574,7 +66574,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szentgotthard",
+    id: "szentgotthard", population: 8864,
     type: "city",
     parent: "vas",
     coords: [16.2833, 46.95],
@@ -67020,7 +67020,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "lenti",
+    id: "lenti", population: 8779,
     type: "city",
     parent: "zala",
     coords: [16.5333, 46.6167],
@@ -67676,7 +67676,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "jaszapati",
+    id: "jaszapati", population: 8879,
     type: "city",
     parent: "jasz-nagykun-szolnok",
     coords: [20.15, 47.52],
@@ -68034,7 +68034,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "tiszaujvaros",
+    id: "tiszaujvaros", population: 16654,
     type: "city",
     parent: "borsod-abauj-zemplen",
     coords: [21.05, 47.93],
@@ -68460,7 +68460,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "komlo",
+    id: "komlo", population: 24066,
     type: "city",
     parent: "baranya",
     coords: [18.27, 46.19],
@@ -69210,7 +69210,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "szazhalombatta",
+    id: "szazhalombatta", population: 18641,
     type: "city",
     parent: "pest",
     coords: [18.91, 47.32],
@@ -69460,7 +69460,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "monor",
+    id: "monor", population: 19743,
     type: "city",
     parent: "pest",
     coords: [19.45, 47.35],
@@ -70950,7 +70950,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "barcs",
+    id: "barcs", population: 11173,
     type: "city",
     parent: "somogy",
     coords: [17.46, 45.96],
@@ -71280,7 +71280,7 @@ export const hungaryCities: POI[] = [
 }
   },
   {
-    id: "celldomolk",
+    id: "celldomolk", population: 11156,
     type: "city",
     parent: "vas",
     coords: [17.15, 47.25],

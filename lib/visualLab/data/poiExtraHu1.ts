@@ -537,7 +537,7 @@ export const poiExtraHu1: POI[] = [
 }
   },
   {
-    id: "city-ujpest-extra",
+    id: "city-ujpest-extra", population: 100694,
     type: "city",
     parent: "HU-BU",
     coords: [19.09, 47.56],
@@ -1891,7 +1891,7 @@ export const poiExtraHu1: POI[] = [
 }
   },
   {
-    id: "city-lajosmizse-extra",
+    id: "city-lajosmizse-extra", population: 11673,
     type: "city",
     parent: "HU-BK",
     coords: [19.55, 47.02],
@@ -2340,7 +2340,7 @@ export const poiExtraHu1: POI[] = [
   // HU-BE: Békés
   
   {
-    id: "city-gyomaendrod-extra",
+    id: "city-gyomaendrod-extra", population: 13688,
     type: "city",
     parent: "HU-BE",
     coords: [20.82, 46.93],
@@ -2916,7 +2916,7 @@ export const poiExtraHu1: POI[] = [
     // HU-CS: Csongrád-Csanád
   
     {
-    id: "city-szentes-extra",
+    id: "city-szentes-extra", population: 28456,
     type: "city",
     parent: "HU-CS",
     coords: [20.26, 46.65],
@@ -3519,7 +3519,7 @@ export const poiExtraHu1: POI[] = [
   // HU-FE: Fejér
   
     {
-    id: "city-bicske-extra",
+    id: "city-bicske-extra", population: 12009,
     type: "city",
     parent: "HU-FE",
     coords: [18.63, 47.48],
@@ -5255,7 +5255,7 @@ export const poiExtraHu1: POI[] = [
   },
     // HU-KE: Komárom-Esztergom
     {
-    id: "city-dorog-extra",
+    id: "city-dorog-extra", population: 11905,
     type: "city",
     parent: "HU-KE",
     coords: [18.73, 47.72],
@@ -5745,7 +5745,7 @@ export const poiExtraHu1: POI[] = [
 }
   },
     {
-    id: "city-orosz lany-extra",
+    id: "city-orosz lany-extra", population: 18326,
     type: "city",
     parent: "HU-KE",
     coords: [18.31, 47.48],
@@ -6208,7 +6208,7 @@ export const poiExtraHu1: POI[] = [
   },
     // HU-NO: Nógrád
     {
-    id: "city-paszto-extra",
+    id: "city-paszto-extra", population: 9559,
     type: "city",
     parent: "HU-NO",
     coords: [19.69, 47.92],
@@ -6656,7 +6656,7 @@ export const poiExtraHu1: POI[] = [
   },
     // HU-PE: Pest
     {
-    id: "city-rackeve-extra",
+    id: "city-rackeve-extra", population: 11086,
     type: "city",
     parent: "HU-PE",
     coords: [18.94, 47.16],
@@ -7653,7 +7653,7 @@ export const poiExtraHu1: POI[] = [
   },
   // HU-SZ: Szabolcs-Szatmár-Bereg
   {
-    id: "city-fehergyarmat-extra",
+    id: "city-fehergyarmat-extra", population: 8051,
     type: "city",
     parent: "HU-SZ",
     coords: [22.518, 47.986],
@@ -9875,7 +9875,7 @@ export const poiExtraHu1: POI[] = [
   },
   // HU-VE: Veszprém
   {
-    id: "city-ajka-extra",
+    id: "city-ajka-extra", population: 29048,
     type: "city",
     parent: "HU-VE",
     coords: [17.558, 47.102],
