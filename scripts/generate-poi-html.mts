@@ -116,7 +116,7 @@ async function loadFullPois(): Promise<POI[]> {
   return out;
 }
 const pois: POI[] = await loadFullPois();
-type Lang = "de" | "hu" | "ro" | "en";
+type Lang = "de" | "hu" | "ro" | "en" | "fr";
 
 const SITE_URL = "https://plizio.com";
 
@@ -133,7 +133,11 @@ function hasIndexableContent(poi: POI): boolean {
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
-  return Object.fromEntries(SUPPORTED_LANGS.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
+  // FR POIs get an extra fr alternate for hreflang signal + lang switcher href.
+  const langs: Lang[] = poi.parent?.startsWith("FR")
+    ? [...SUPPORTED_LANGS, "fr"]
+    : SUPPORTED_LANGS;
+  return Object.fromEntries(langs.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
 }
 
 function getRelatedPois(poi: POI, limit = 6): POI[] {
@@ -191,7 +195,7 @@ function getLocalized<T>(obj: Partial<Record<string, T>> | undefined, lang: Lang
   return (obj[lang] ?? obj.de ?? obj.en ?? fallback) as T | undefined;
 }
 
-const TYPE_LABEL: Record<string, Record<Lang, string>> = {
+const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
   city: { de: "Stadt", hu: "Város", ro: "Oraș", en: "City" },
   "state-capital": { de: "Landeshauptstadt", hu: "Tartományi főváros", ro: "Capitală regiune", en: "State capital" },
   mountain: { de: "Berg", hu: "Hegy", ro: "Munte", en: "Mountain" },
@@ -209,7 +213,7 @@ const TYPE_LABEL: Record<string, Record<Lang, string>> = {
   "animal-habitat": { de: "Tierlebensraum", hu: "Élőhely", ro: "Habitat animal", en: "Animal habitat" },
 };
 
-const I18N: Record<string, Record<Lang, string>> = {
+const I18N: Record<string, Partial<Record<Lang, string>>> = {
   facts: { de: "Fakten", hu: "Tények", ro: "Fapte", en: "Facts" },
   details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details" },
   geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography" },
@@ -524,11 +528,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     : "";
 
   // Weather widget HTML + JS (client-side fetch of Open-Meteo)
-  const weatherCopy: Record<Lang, { now: string; forecast: string; loading: string }> = {
+  const weatherCopy: Partial<Record<Lang, { now: string; forecast: string; loading: string }>> = {
     de: { now: "Aktuell", forecast: "5-Tage-Vorhersage", loading: "Wetter…" },
     hu: { now: "Most", forecast: "5 napos előrejelzés", loading: "Időjárás…" },
     ro: { now: "Acum", forecast: "Prognoză 5 zile", loading: "Vremea…" },
     en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
+    fr: { now: "Maintenant", forecast: "Prévisions sur 5 jours", loading: "Météo…" },
   };
   const wc = weatherCopy[lang] || weatherCopy.en;
   const weatherHtml = (poi.coords && poi.coords.length >= 2)
@@ -537,11 +542,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     : "";
 
   // Recent news HTML (build-time read from public/data/poi-news/<id>.json)
-  const newsCopy: Record<Lang, { heading: string; via: string }> = {
+  const newsCopy: Partial<Record<Lang, { heading: string; via: string }>> = {
     de: { heading: "Aktuelle Nachrichten", via: "via" },
     hu: { heading: "Friss hírek", via: "innen:" },
     ro: { heading: "Știri recente", via: "via" },
     en: { heading: "Recent News", via: "via" },
+    fr: { heading: "Actualités récentes", via: "via" },
   };
   const nc = newsCopy[lang] || newsCopy.en;
 
@@ -551,7 +557,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   try {
     const links = (OFFICIAL_LINKS as Record<string, { site?: string; fb?: string }>)[poi.id];
     if (links?.site || links?.fb) {
-      const siteLabel: Record<Lang, string> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website" };
+      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web" };
       const buttons: string[] = [];
       if (links.site) buttons.push(`<a href="${escapeHtml(links.site)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-site">🌐 ${escapeHtml(siteLabel[lang] || siteLabel.en)}</a>`);
       if (links.fb) buttons.push(`<a href="${escapeHtml(links.fb)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-fb">📘 Facebook</a>`);
@@ -606,10 +612,14 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
 
-  // Language switcher
-  const langSwitcher = SUPPORTED_LANGS.map((l) => {
+  // Language switcher — show fr only for French POIs (parent starts with FR).
+  const switcherLangs: Lang[] = poi.parent?.startsWith("FR")
+    ? [...SUPPORTED_LANGS, "fr"]
+    : SUPPORTED_LANGS;
+  const langSwitcher = switcherLangs.map((l) => {
     const cls = l === lang ? ' class="active"' : "";
-    return `<a href="${alternates[l]}"${cls}>${l.toUpperCase()}</a>`;
+    const href = alternates[l] || buildPoiPath(l, poi);
+    return `<a href="${href}"${cls}>${l.toUpperCase()}</a>`;
   }).join("");
 
   return `<!DOCTYPE html>
@@ -698,7 +708,11 @@ async function main() {
   const dirsMade = new Set<string>();
 
   for (const poi of target) {
-    for (const lang of SUPPORTED_LANGS) {
+    // FR POIs get an additional `fr` page (slugs.ts:extraLangsFor returns ["fr"] for them).
+    const poiLangs: Lang[] = poi.parent?.startsWith("FR")
+      ? [...SUPPORTED_LANGS, "fr"]
+      : SUPPORTED_LANGS;
+    for (const lang of poiLangs) {
       const url = buildPoiPath(lang, poi);
       // URL like /de/oesterreich/wien/foo/ → relative path de/oesterreich/wien/foo
       const rel = url.replace(/^\/+/, "").replace(/\/+$/, "");

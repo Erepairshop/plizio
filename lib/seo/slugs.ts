@@ -10,9 +10,18 @@ import { SEO_POIS, SEO_REGIONS } from "@/lib/seo/_seo-data.generated";
 // remains in per-country JSON under public/data/pois/<CC>.json and is read on
 // demand by the POI detail page render path (out of scope here).
 
-export type Lang = "de" | "hu" | "ro" | "en";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr";
 
+// Core 4 langs build everywhere. `fr` is conditional: only emitted for French
+// POIs (parent starts with "FR"). NOT in SUPPORTED_LANGS to avoid sitemap
+// bloat for non-FR pages. Use `extraLangsFor(poi)` to detect per-POI extras.
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
+export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr"];
+
+export function extraLangsFor(poi: { parent?: string }): Lang[] {
+  if (poi.parent?.startsWith("FR")) return ["fr"];
+  return [];
+}
 
 function isDefinedPoi(poi: POI | null | undefined): poi is POI {
   return Boolean(poi && poi.id && poi.name && poi.type);
@@ -490,7 +499,9 @@ export function getCountryId(id: string) {
 }
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
-  return COUNTRY_SLUGS[countryId]?.[lang] ?? COUNTRY_SLUGS.germany[lang];
+  // fr fallback → use en slug (France country/state names are already French-native).
+  const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : (lang === "fr" ? "en" : lang));
+  return COUNTRY_SLUGS[countryId]?.[effLang] ?? COUNTRY_SLUGS.germany[effLang] ?? COUNTRY_SLUGS.germany.en;
 }
 
 // HU: POI parent is "HU-XX" (ISO), but the URL slug is the legacy region.id (pl. "budapest", "pest")
@@ -508,7 +519,9 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   }
   // HU legacy id (pl "fejer") -> ugyanaz
   if (HU_LEGACY_IDS.has(stateId)) return stateId;
-  return STATE_SLUGS[stateId]?.[lang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[lang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
+  // fr fallback → en (most state names are already natively French for FR-* regions).
+  const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : (lang === "fr" ? "en" : lang);
+  return STATE_SLUGS[stateId]?.[effLang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[effLang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }
 
 export function getStateForPoi(poi: POI) {
