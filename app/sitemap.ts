@@ -17,12 +17,20 @@ export const dynamic = "force-static";
 const CHUNK_SIZE = 20_000;
 
 export async function generateSitemaps() {
-  // Compute how many chunks are needed (rough estimate; safe upper bound).
-  // root + countries + states + indexable POIs × 4 langs
+  // Compute EXACT chunk count — match the same URL-set sitemap() will emit.
+  // Previous "100" placeholder undercounted by regions.length × 4 langs (~8K),
+  // so when totalUrls was JUST over a 20K chunk boundary, ~10K URLs got lost
+  // (last chunk wasn't requested, .slice() returned nothing).
   const indexablePois = pois.filter(
     (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
   );
-  const totalUrls = 100 /* roots+countries+states */ + indexablePois.length * SUPPORTED_LANGS.length;
+  const ROOT_FIXED = 33;     // hardcoded root pages (/, /learn, /europe-map, country maps, ...)
+  const COUNTRIES = 3;       // germany, romania, hungary at country level
+  const totalUrls =
+    ROOT_FIXED +
+    COUNTRIES * SUPPORTED_LANGS.length +
+    regions.length * SUPPORTED_LANGS.length +
+    indexablePois.length * SUPPORTED_LANGS.length;
   const n = Math.max(1, Math.ceil(totalUrls / CHUNK_SIZE));
   return Array.from({ length: n }, (_, id) => ({ id }));
 }
