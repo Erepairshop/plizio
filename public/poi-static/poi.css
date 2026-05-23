@@ -504,3 +504,21 @@ footer a { color: rgba(255,255,255,0.7); }
 
 /* In the side panel, news shows compact cards (max 5) */
 .plz-hero-grid-side .plz-news-grid li:nth-child(n+6) { display: none; }
+
+/* Official link buttons (site + Facebook) — shown next to news block */
+.plz-official-links { display: flex; gap: 0.5rem; margin: 0.75rem 0; }
+.plz-official-link {
+  flex: 1; display: inline-flex; align-items: center; justify-content: center;
+  gap: 0.35rem; padding: 0.6rem 0.75rem;
+  font-size: 0.85rem; font-weight: 500;
+  border-radius: 0.5rem; text-decoration: none;
+  transition: all 0.15s;
+}
+.plz-official-site {
+  color: #6ee7b7; border: 1px solid rgba(110,231,183,0.3); background: rgba(110,231,183,0.05);
+}
+.plz-official-site:hover { background: rgba(110,231,183,0.15); border-color: rgba(110,231,183,0.5); }
+.plz-official-fb {
+  color: #93c5fd; border: 1px solid rgba(147,197,253,0.3); background: rgba(147,197,253,0.05);
+}
+.plz-official-fb:hover { background: rgba(147,197,253,0.15); border-color: rgba(147,197,253,0.5); }

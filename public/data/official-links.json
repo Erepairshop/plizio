@@ -1,0 +1,2675 @@
+{
+  "kalocsa": {
+    "site": "https://www.kalocsa.hu",
+    "fb": "https://www.facebook.com/kalocsa.hu"
+  },
+  "pecs": {
+    "site": "http://www.pecs.hu",
+    "fb": "https://www.facebook.com/pecsvaroshivatalos"
+  },
+  "kiskunmajsa": {
+    "site": "https://www.kiskunmajsa.hu",
+    "fb": "https://www.facebook.com/kvtmedia"
+  },
+  "mohacs": {
+    "site": "http://www.mohacs.hu",
+    "fb": "https://www.facebook.com/busojarasmohacs"
+  },
+  "budapest-city": {
+    "site": "https://budapest.hu/",
+    "fb": "https://www.facebook.com/budapestmindenkie"
+  },
+  "szerencs": {
+    "site": "https://www.szerencs.hu/"
+  },
+  "siklos": {
+    "site": "http://www.siklos.hu",
+    "fb": "https://www.facebook.com/siklosvaros"
+  },
+  "kecskemet": {
+    "site": "http://www.kecskemet.hu",
+    "fb": "https://www.facebook.com/kecskemetmegyeijoguvaros"
+  },
+  "hodmezovasarhely": {
+    "site": "https://www.hodmezovasarhely.hu/",
+    "fb": "https://www.facebook.com/gyorshirszolgalat"
+  },
+  "mako": {
+    "site": "http://www.mako.hu",
+    "fb": "https://www.facebook.com/makovaroshivatalos"
+  },
+  "bekescsaba": {
+    "site": "https://bekescsaba.hu",
+    "fb": "https://www.facebook.com/B"
+  },
+  "tokaj": {
+    "site": "http://www.tokaj.hu",
+    "fb": "https://www.facebook.com/postagyuri"
+  },
+  "gyor": {
+    "site": "https://www.gyor.hu",
+    "fb": "https://www.facebook.com/gyorvaroshivatalos"
+  },
+  "sopron": {
+    "site": "http://www.sopron.hu"
+  },
+  "szeged": {
+    "site": "https://www.szegedvaros.hu/",
+    "fb": "https://www.facebook.com/szegedph"
+  },
+  "dunaujvaros": {
+    "site": "https://dunaujvaros.hu/",
+    "fb": "https://www.facebook.com/dunaujvarosmjv"
+  },
+  "szekesfehervar": {
+    "site": "https://www.szekesfehervar.hu/",
+    "fb": "https://www.facebook.com/fehervar"
+  },
+  "hajduszoboszlo": {
+    "site": "https://hajduszoboszlo.hu/",
+    "fb": "https://www.facebook.com/hajduszoboszlo.hu"
+  },
+  "gardony": {
+    "site": "http://www.gardony.hu",
+    "fb": "https://www.facebook.com/gardonyicsillagok"
+  },
+  "villany": {
+    "site": "http://www.villany.hu"
+  },
+  "jaszbereny": {
+    "site": "http://www.jaszbereny.hu",
+    "fb": "https://www.facebook.com/events"
+  },
+  "kisujszallas": {
+    "site": "http://www.kisujszallas.hu"
+  },
+  "esztergom": {
+    "site": "https://www.esztergom.hu/",
+    "fb": "https://www.facebook.com/hernadiadam.esztergom"
+  },
+  "tata": {
+    "site": "https://tata.hu/",
+    "fb": "https://www.facebook.com/tatavaros.hivatalosoldala"
+  },
+  "salgotarjan": {
+    "site": "https://www.salgotarjan.hu/",
+    "fb": "https://www.facebook.com/pg"
+  },
+  "balassagyarmat": {
+    "site": "https://balassagyarmat.hu/",
+    "fb": "https://www.facebook.com/bgyvaroshaza"
+  },
+  "szentendre": {
+    "site": "https://szentendre.hu/",
+    "fb": "https://www.facebook.com/Szentendreofficial"
+  },
+  "tatabanya": {
+    "site": "https://www.tatabanya.hu/",
+    "fb": "https://www.facebook.com/tatabanya.hu"
+  },
+  "vac": {
+    "site": "http://www.vac.hu",
+    "fb": "https://www.facebook.com/vacponthu"
+  },
+  "szolnok": {
+    "site": "https://info.szolnok.hu/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "godollo": {
+    "site": "http://www.godollo.hu",
+    "fb": "https://www.facebook.com/godollo"
+  },
+  "debrecen": {
+    "site": "https://www.debrecen.hu/",
+    "fb": "https://www.facebook.com/Debrecen-Megyei-Jog"
+  },
+  "kaposvar": {
+    "site": "https://www.kaposvar.hu/",
+    "fb": "https://www.facebook.com/cityofkaposvar"
+  },
+  "balatonfoldvar": {
+    "site": "https://www.balatonfoldvar.hu/",
+    "fb": "https://www.facebook.com/Balatonf"
+  },
+  "nyiregyhaza": {
+    "site": "https://www.nyiregyhaza.hu/",
+    "fb": "https://www.facebook.com/nyiregyhazamjv"
+  },
+  "mateszalka": {
+    "site": "https://mateszalka.hu/",
+    "fb": "https://www.facebook.com/M"
+  },
+  "bonyhad": {
+    "site": "http://www.bonyhad.hu",
+    "fb": "https://www.facebook.com/bonyhadvarosoldala"
+  },
+  "szekszard": {
+    "site": "https://szekszard.hu",
+    "fb": "https://www.facebook.com/szekszardmjv"
+  },
+  "szombathely": {
+    "site": "http://www.szombathely.hu"
+  },
+  "sarvar": {
+    "site": "https://www.sarvarvaros.hu/",
+    "fb": "https://www.facebook.com/sarvarlenduletben"
+  },
+  "koszeg": {
+    "site": "https://koszeg.hu/",
+    "fb": "https://www.facebook.com/olellek.koszeg"
+  },
+  "balatonfured": {
+    "site": "http://www.balatonfured.hu",
+    "fb": "https://www.facebook.com/balatonfured.hu"
+  },
+  "zalaegerszeg": {
+    "site": "https://zalaegerszeg.hu/",
+    "fb": "https://www.facebook.com/zalaegerszeghivatalosoldal"
+  },
+  "veszprem-city": {
+    "site": "https://www.veszprem.hu/",
+    "fb": "https://www.facebook.com/veszprem.kozosseg"
+  },
+  "keszthely": {
+    "site": "https://www.keszthely.hu/",
+    "fb": "https://www.facebook.com/hellokeszthely"
+  },
+  "vasarosnameny": {
+    "site": "https://vasarosnameny.hu/",
+    "fb": "https://www.facebook.com/V"
+  },
+  "nagykanizsa": {
+    "site": "https://nagykanizsa.hu/",
+    "fb": "https://www.facebook.com/nagykanizsa.hu"
+  },
+  "paks": {
+    "site": "http://www.paks.hu"
+  },
+  "kiskunfelegyhaza": {
+    "site": "https://kiskunfelegyhaza.hu/"
+  },
+  "szigetvar": {
+    "site": "http://www.szigetvar.hu"
+  },
+  "baja": {
+    "site": "https://www.bajaionkormanyzat.hu/"
+  },
+  "oroshaza": {
+    "site": "http://www.oroshaza.hu"
+  },
+  "mezohegyes": {
+    "site": "https://mezohegyes.hu/",
+    "fb": "https://www.facebook.com/polgarmesterihivatal.varosionkormanyzat"
+  },
+  "mosonmagyarovar": {
+    "site": "http://mosonmagyarovar.hu/"
+  },
+  "sarospatak": {
+    "site": "http://www.sarospatak.hu",
+    "fb": "https://www.facebook.com/sarospatak.varos.hivatalos"
+  },
+  "hajduboszormeny": {
+    "site": "http://www.hajduboszormeny.hu"
+  },
+  "eger": {
+    "site": "https://eger.hu/",
+    "fb": "https://www.facebook.com/maraikozpont"
+  },
+  "parad": {
+    "site": "https://parad.hu/",
+    "fb": "https://www.facebook.com/p"
+  },
+  "harkany": {
+    "site": "http://www.harkany.hu",
+    "fb": "https://www.facebook.com/harkany.onkormanyzat"
+  },
+  "berettyoujfalu": {
+    "site": "http://www.berettyoujfalu.hu"
+  },
+  "martonvasar": {
+    "site": "http://www.martonvasar.hu",
+    "fb": "https://www.facebook.com/Martonvasar"
+  },
+  "fertod": {
+    "site": "http://fertod.hu/"
+  },
+  "belapatfalva": {
+    "site": "http://www.belapatfalva.hu/"
+  },
+  "szecseny": {
+    "site": "https://szecseny.hu/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "tiszafured": {
+    "site": "http://www.tiszafured.hu"
+  },
+  "mezotur": {
+    "site": "http://www.mezotur.hu"
+  },
+  "kisvarda": {
+    "site": "https://kisvarda.hu/",
+    "fb": "https://www.facebook.com/kisvardaujsag"
+  },
+  "tar": {
+    "site": "https://www.tarkozseg.hu/"
+  },
+  "erd": {
+    "site": "https://www.erd.hu/"
+  },
+  "tiszadada": {
+    "site": "http://www.tiszadada.hu/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "dombovar": {
+    "site": "http://www.dombovar.hu",
+    "fb": "https://www.facebook.com/avarosunkdombovar"
+  },
+  "buk": {
+    "site": "http://www.buk.hu",
+    "fb": "https://www.facebook.com/bukiinfo"
+  },
+  "cegled": {
+    "site": "http://www.cegled.hu",
+    "fb": "https://www.facebook.com/cegled"
+  },
+  "balatonlelle": {
+    "site": "https://www.balatonlelle.hu/"
+  },
+  "hatvan": {
+    "site": "https://hatvan.hu/",
+    "fb": "https://www.facebook.com/hatvanvarosa"
+  },
+  "tapolca": {
+    "site": "http://www.tapolca.hu"
+  },
+  "kazincbarcika": {
+    "site": "http://www.kazincbarcika.hu"
+  },
+  "ozd": {
+    "site": "http://www.ozd.hu"
+  },
+  "zalakaros": {
+    "site": "http://www.zalakaros.hu",
+    "fb": "https://www.facebook.com/zalakaroshivatalosoldala"
+  },
+  "szigliget": {
+    "site": "http://szigliget.hu/"
+  },
+  "fonyod": {
+    "site": "https://fonyod.hu/"
+  },
+  "siofok": {
+    "site": "http://www.siofok.hu",
+    "fb": "https://www.facebook.com/siofokguide"
+  },
+  "hajos": {
+    "site": "http://www.hajosvaros.hu",
+    "fb": "https://www.facebook.com/photo.php"
+  },
+  "oriszentpeter": {
+    "site": "https://oriszentpeter.hu/"
+  },
+  "szentgotthard": {
+    "site": "http://szentgotthard.hu/",
+    "fb": "https://www.facebook.com/SzentgotthardVarosOnkormanyzata"
+  },
+  "karcag": {
+    "site": "https://karcag.hu/"
+  },
+  "lenti": {
+    "site": "http://lenti.hu/"
+  },
+  "mezokovesd": {
+    "site": "http://www.mezokovesd.hu"
+  },
+  "szazhalombatta": {
+    "site": "http://www.szazhalombatta.hu",
+    "fb": "https://www.facebook.com/Szazhalombattaazotthonunk"
+  },
+  "heviz": {
+    "site": "https://www.heviz.hu/",
+    "fb": "https://www.facebook.com/heviz.info"
+  },
+  "monor": {
+    "site": "http://www.monor.hu",
+    "fb": "https://www.facebook.com/MonorHivatalosOldala"
+  },
+  "herend": {
+    "site": "http://www.herend.hu"
+  },
+  "nagykoros": {
+    "site": "https://www.nagykoros.hu/",
+    "fb": "https://www.facebook.com/onkormanyzati.hireknagykoros"
+  },
+  "jaszapati": {
+    "site": "http://www.jaszapati.hu/"
+  },
+  "dunafoldvar": {
+    "site": "http://www.dunafoldvar.hu/"
+  },
+  "celldomolk": {
+    "site": "http://celldomolk.hu/",
+    "fb": "https://www.facebook.com/teve.cell"
+  },
+  "kormend": {
+    "site": "http://kormend.hu/",
+    "fb": "https://www.facebook.com/kormendhu"
+  },
+  "city-lajosmizse-extra": {
+    "site": "http://www.lajosmizse.hu",
+    "fb": "https://www.facebook.com/p"
+  },
+  "city-kiskunhalas-extra": {
+    "site": "http://kiskunhalas.hu/",
+    "fb": "https://www.facebook.com/Kiskunhalas.hu"
+  },
+  "city-szentlorinc-extra": {
+    "site": "http://www.szentlorinc.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "marcali": {
+    "site": "https://marcali.hu/"
+  },
+  "city-bicske-extra": {
+    "site": "http://www.bicske.hu"
+  },
+  "barcs": {
+    "site": "http://barcs.hu/",
+    "fb": "https://www.facebook.com/muvhazbarcs"
+  },
+  "city-gyomaendrod-extra": {
+    "site": "https://www.gyomaendrod.hu/"
+  },
+  "city-szentes-extra": {
+    "site": "http://www.szentes.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-dorog-extra": {
+    "site": "https://www.dorog.hu/",
+    "fb": "https://www.facebook.com/dorogvarosonkormanyzata"
+  },
+  "tiszaujvaros": {
+    "site": "http://www.tiszaujvaros.hu"
+  },
+  "city-fuzesabony-extra": {
+    "site": "http://www.fuzesabony.hu"
+  },
+  "city-csorna-extra": {
+    "site": "http://www.csorna.hu"
+  },
+  "city-paszto-extra": {
+    "site": "http://www.paszto.hu",
+    "fb": "https://www.facebook.com/P"
+  },
+  "city-nagymaros-extra": {
+    "site": "https://nagymaros.hu/",
+    "fb": "https://www.facebook.com/nagymarosvaros"
+  },
+  "city-ujfeherto-extra": {
+    "site": "http://www.ujfeherto.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-fehergyarmat-extra": {
+    "site": "http://www.fehergyarmat.hu/"
+  },
+  "city-vasvar-extra": {
+    "site": "http://vasvar.hu/",
+    "fb": "https://www.facebook.com/vasvarrol"
+  },
+  "city-orosz lany-extra": {
+    "site": "http://www.oroszlany.hu",
+    "fb": "https://www.facebook.com/oroszlany.hu"
+  },
+  "city-janoshaza-extra": {
+    "site": "https://www.janoshaza.hu/",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "city-berhida-extra": {
+    "site": "http://berhida.hu/"
+  },
+  "city-ajka-extra": {
+    "site": "https://www.ajka.hu/"
+  },
+  "city-letenye-extra": {
+    "site": "http://letenye.hu/"
+  },
+  "aszofo": {
+    "site": "http://www.aszofo.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-tamasi-extra": {
+    "site": "http://www.tamasi.hu"
+  },
+  "badacsonytomaj": {
+    "site": "http://www.badacsonytomaj.hu/"
+  },
+  "city-zalalovo-extra": {
+    "site": "http://www.zalalovo.hu",
+    "fb": "https://www.facebook.com/zalalovo"
+  },
+  "balatonederics": {
+    "site": "https://balatonederics.hu/",
+    "fb": "https://www.facebook.com/permalink.php"
+  },
+  "balatonfenyves": {
+    "site": "http://www.balatonfenyves.hu"
+  },
+  "battonya": {
+    "site": "http://www.battonya.hu"
+  },
+  "bakonynana": {
+    "site": "https://bakonynana.hu/",
+    "fb": "https://www.facebook.com/bakonynana"
+  },
+  "abaliget": {
+    "site": "https://www.abaliget.hu/",
+    "fb": "https://www.facebook.com/abaligetkozsegonkormanyzata"
+  },
+  "berekfurdo": {
+    "site": "https://www.berekfurdo.hu/"
+  },
+  "bogacs": {
+    "site": "https://bogacs.hu/",
+    "fb": "https://www.facebook.com/bogacsofficial"
+  },
+  "boldva": {
+    "site": "http://boldva.hu/"
+  },
+  "balatonakali": {
+    "site": "http://www.balatonakali.hu",
+    "fb": "https://www.facebook.com/balatonakali.fesztival"
+  },
+  "cak": {
+    "site": "http://cak.hu/"
+  },
+  "bakonybel": {
+    "site": "http://www.bakonybel.hu",
+    "fb": "https://www.facebook.com/mindennap.bakonybel"
+  },
+  "csaroda": {
+    "site": "http://www.csaroda.hu/",
+    "fb": "https://www.facebook.com/Csaroda"
+  },
+  "buzsak": {
+    "site": "https://buzsak.hu/",
+    "fb": "https://www.facebook.com/Buzsak.kozseg"
+  },
+  "csempeszkopacs": {
+    "site": "https://csempeszkopacs.hu/"
+  },
+  "miskolc": {
+    "site": "https://www.miskolc.hu/",
+    "fb": "https://www.facebook.com/miskolconhivatalos"
+  },
+  "egerszalok": {
+    "site": "http://www.egerszalok.hu"
+  },
+  "bakonyszentlaszlo": {
+    "site": "http://www.bakonyszentlaszlo.hu/"
+  },
+  "domos": {
+    "site": "http://www.domos.hu",
+    "fb": "https://www.facebook.com/permalink.php"
+  },
+  "decs": {
+    "site": "http://www.decs.hu/",
+    "fb": "https://www.facebook.com/decstelepules"
+  },
+  "csopak": {
+    "site": "https://csopak.hu/",
+    "fb": "https://www.facebook.com/csopakhivatalosoldala"
+  },
+  "hegymagas": {
+    "site": "https://www.hegymagas.hu/"
+  },
+  "fertorakos": {
+    "site": "http://www.fertorakos.hu"
+  },
+  "fertoboz": {
+    "site": "http://www.fertoboz.hu/"
+  },
+  "feldebro": {
+    "site": "http://www.feldebro.hu"
+  },
+  "jak": {
+    "site": "http://jak.hu/",
+    "fb": "https://www.facebook.com/groups"
+  },
+  "ipolytarnoc": {
+    "site": "http://www.ipolytarnoc.hu"
+  },
+  "josvafo": {
+    "site": "https://josvafo.hu/"
+  },
+  "kehidakustany": {
+    "site": "http://www.kehidakustany.hu",
+    "fb": "https://www.facebook.com/kehidakustanykozsegonkormanyzata"
+  },
+  "koveskal": {
+    "site": "http://www.koveskal.hu/"
+  },
+  "dregelypalank": {
+    "site": "http://www.dregelypalank.hu",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "lasztonya": {
+    "site": "https://lasztonya.hu/",
+    "fb": "https://www.facebook.com/Lasztonyai-harangl"
+  },
+  "kallosemjen": {
+    "site": "http://kallosemjen.hu/"
+  },
+  "mad": {
+    "site": "http://www.mad.info.hu",
+    "fb": "https://www.facebook.com/MadiFurmintUnnep"
+  },
+  "lebeny": {
+    "site": "http://www.lebeny.hu/"
+  },
+  "lovasbereny": {
+    "site": "http://www.lovasbereny.hu",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "nagyborzsony": {
+    "site": "http://www.nagyborzsony.hu"
+  },
+  "nagycenk": {
+    "site": "https://nagycenk.hu/"
+  },
+  "matraverebely": {
+    "site": "https://matraverebely.hu/"
+  },
+  "matraszentimre": {
+    "site": "https://felso-matra.hu"
+  },
+  "magyarpolany": {
+    "site": "http://magyarpolany.hu"
+  },
+  "paloznak": {
+    "site": "https://paloznak.hu/"
+  },
+  "orfu": {
+    "site": "https://orfu.hu"
+  },
+  "cserkeszolo": {
+    "site": "https://www.cserkeszolo.hu/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "nagyvazsony": {
+    "site": "http://www.nagyvazsony.hu/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "pankasz": {
+    "site": "http://pankasz.hu/",
+    "fb": "https://www.facebook.com/PremiumCoding"
+  },
+  "rudabanya": {
+    "site": "http://www.rudabanya.hu"
+  },
+  "ofeherto": {
+    "site": "http://ofeherto.hu/",
+    "fb": "https://www.facebook.com/Ofehertoihivatal"
+  },
+  "salfold": {
+    "site": "http://www.salfold.hu/"
+  },
+  "revfulop": {
+    "site": "http://www.revfulop.hu"
+  },
+  "sarrod": {
+    "site": "http://www.sarrod.hu/"
+  },
+  "somlovasarhely": {
+    "site": "http://somlovasarhely.hu/"
+  },
+  "szalafo": {
+    "site": "http://www.szalafo.hu/"
+  },
+  "pilisszentkereszt": {
+    "site": "http://www.pilisszentkereszt.hu/"
+  },
+  "szentbekkalla": {
+    "site": "http://www.szentbekkalla.hu"
+  },
+  "tarpa": {
+    "site": "http://www.tarpa.eu",
+    "fb": "https://www.facebook.com/tarpakozseg"
+  },
+  "takos": {
+    "site": "http://www.takos.hu/"
+  },
+  "tarnaszentmaria": {
+    "site": "http://www.tarnaszentmaria.hu"
+  },
+  "szilvasvarad": {
+    "site": "https://szilvasvarad.hu/",
+    "fb": "https://www.facebook.com/SzeretlekSzilvasvarad"
+  },
+  "tolcsva": {
+    "site": "https://tolcsva.hu/",
+    "fb": "https://www.facebook.com/Tolcsva"
+  },
+  "vacratot": {
+    "site": "http://www.vacratot.hu",
+    "fb": "https://www.facebook.com/vacratotonkormanyzat"
+  },
+  "velem": {
+    "site": "http://velem.hu/"
+  },
+  "vertesszolos": {
+    "site": "http://www.vertesszolos.hu"
+  },
+  "szigetszentmiklos-extra": {
+    "site": "http://szigetszentmiklos.hu",
+    "fb": "https://www.facebook.com/szigetszentmiklos.hu"
+  },
+  "zalavar": {
+    "site": "http://www.zalavar.hu/"
+  },
+  "gyal-extra": {
+    "site": "https://www.gyal.hu/",
+    "fb": "https://www.facebook.com/varos.gyal"
+  },
+  "goed-extra": {
+    "site": "http://god.hu/",
+    "fb": "https://www.facebook.com/godvarosonkormanyzata"
+  },
+  "dunaharaszti-extra": {
+    "site": "https://dunaharaszti.hu/",
+    "fb": "https://www.facebook.com/Dunaharaszti-V"
+  },
+  "regec": {
+    "site": "https://www.regec.hu/",
+    "fb": "https://www.facebook.com/Reg"
+  },
+  "vecses-extra": {
+    "site": "https://www.vecses.hu/"
+  },
+  "budaoers-extra": {
+    "site": "http://www.budaors.hu",
+    "fb": "https://www.facebook.com/budaorshivatalos"
+  },
+  "fot-extra": {
+    "site": "https://fot.hu/",
+    "fb": "https://www.facebook.com/fot.varos"
+  },
+  "varpalota-extra": {
+    "site": "http://www.varpalota.hu"
+  },
+  "szigethalom-extra": {
+    "site": "http://www.szigethalom.hu"
+  },
+  "veresegyhaz-extra": {
+    "site": "https://www.veresegyhaz.hu/",
+    "fb": "https://www.facebook.com/veresegyhaz.varos.hivatalos.oldala"
+  },
+  "igal": {
+    "site": "http://igal.hu/"
+  },
+  "toeroekszentmiklos-extra": {
+    "site": "http://www.torokszentmiklos.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "gyoemroe-extra": {
+    "site": "http://www.gyomro.hu",
+    "fb": "https://www.facebook.com/gyomro.varos.onkormanyzata"
+  },
+  "oroszlany-extra": {
+    "site": "http://www.oroszlany.hu",
+    "fb": "https://www.facebook.com/oroszlany.hu"
+  },
+  "pomaz-extra": {
+    "site": "http://www.pomaz.hu",
+    "fb": "https://www.facebook.com/pomaz2013"
+  },
+  "budakeszi-extra": {
+    "site": "https://varoshaza.budakeszi.hu/",
+    "fb": "https://www.facebook.com/gyoriottilia"
+  },
+  "dunakeszi-extra": {
+    "site": "https://dunakeszi.hu/",
+    "fb": "https://www.facebook.com/diossi.csaba"
+  },
+  "biatorbagy-extra": {
+    "site": "http://www.biatorbagy.hu",
+    "fb": "https://www.facebook.com/otthonunkbiatorbagy"
+  },
+  "balmazujvaros-extra": {
+    "site": "https://balmazujvaros.hu/"
+  },
+  "pecel-extra": {
+    "site": "http://www.pecel.hu",
+    "fb": "https://www.facebook.com/P"
+  },
+  "toeroekbalint-extra": {
+    "site": "https://www.torokbalint.hu/"
+  },
+  "hajdunanas-extra": {
+    "site": "http://www.hajdunanas.hu"
+  },
+  "hajdusamson-extra": {
+    "site": "http://www.hajdusamson.hu",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "albertirsa-extra": {
+    "site": "http://www.albertirsa.hu",
+    "fb": "https://www.facebook.com/albertirsavaros.onkormanyzata"
+  },
+  "hajduhadhaz-extra": {
+    "site": "http://www.hajduhadhaz.hu"
+  },
+  "satoraljaujhely-extra": {
+    "site": "http://satoraljaujhely.hu/",
+    "fb": "https://www.facebook.com/SzamosvolgyiPeter"
+  },
+  "kiskoeroes-extra": {
+    "site": "https://kiskoros.hu/",
+    "fb": "https://www.facebook.com/kiskoros"
+  },
+  "kistarcsa-extra": {
+    "site": "https://kistarcsa.hu/",
+    "fb": "https://www.facebook.com/F"
+  },
+  "maglod-extra": {
+    "site": "http://www.maglod.hu",
+    "fb": "https://www.facebook.com/alsomocsolad"
+  },
+  "dabas-extra": {
+    "site": "http://www.dabas.hu",
+    "fb": "https://www.facebook.com/DabasVarosHivatalos"
+  },
+  "pilisvoeroesvar-extra": {
+    "site": "https://pilisvorosvar.hu/",
+    "fb": "https://www.facebook.com/pilisvorosvar"
+  },
+  "abony-extra": {
+    "site": "http://www.abony.hu",
+    "fb": "https://www.facebook.com/abony.hu"
+  },
+  "diosd-extra": {
+    "site": "http://www.diosd.hu",
+    "fb": "https://www.facebook.com/diosdvaros"
+  },
+  "nagykata-extra": {
+    "site": "http://www.nagykata.hu",
+    "fb": "https://www.facebook.com/Nagykatavaroshivatalos"
+  },
+  "tiszakecske-extra": {
+    "site": "http://www.tiszakecske.hu"
+  },
+  "halasztelek-extra": {
+    "site": "http://www.halasztelek.hu",
+    "fb": "https://www.facebook.com/halasztelek.varos"
+  },
+  "gyomaendroed-extra": {
+    "site": "https://www.gyomaendrod.hu/"
+  },
+  "toekoel-extra": {
+    "site": "https://www.tokol.hu/",
+    "fb": "https://www.facebook.com/tokolvarosonkormanyzata"
+  },
+  "kerepes-extra": {
+    "site": "https://www.kerepes.hu/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "puespoekladany-extra": {
+    "site": "http://www.puspokladany.hu",
+    "fb": "https://www.facebook.com/people"
+  },
+  "sajoszentpeter-extra": {
+    "site": "http://www.sajoszentpeter.hu"
+  },
+  "solymar-extra": {
+    "site": "http://www.solymar.hu",
+    "fb": "https://www.facebook.com/Solym"
+  },
+  "sarbogard-extra": {
+    "site": "http://sarbogard.hu/"
+  },
+  "nyirbator-extra": {
+    "site": "https://nyirbator.hu/",
+    "fb": "https://www.facebook.com/nyirbator.hu"
+  },
+  "erdoekertes-extra": {
+    "site": "https://erdokertes.hu/",
+    "fb": "https://www.facebook.com/drpasztorlaszlo"
+  },
+  "isaszeg-extra": {
+    "site": "https://isaszeg.asp.lgov.hu/",
+    "fb": "https://www.facebook.com/Isaszegonkormanyzat"
+  },
+  "city-rackeve-extra": {
+    "site": "http://www.rackeve.hu"
+  },
+  "csoemoer-extra": {
+    "site": "http://www.csomor.hu",
+    "fb": "https://www.facebook.com/csomoraktualis"
+  },
+  "kiskunlachaza-extra": {
+    "site": "https://www.kiskunlachaza.hu/",
+    "fb": "https://www.facebook.com/kiskunlachazaonkormanyzat"
+  },
+  "tiszavasvari-extra": {
+    "site": "https://tiszavasvari.hu/",
+    "fb": "https://www.facebook.com/tiszavasvarionkormanyzat"
+  },
+  "ocsa-extra": {
+    "site": "http://www.ocsa.hu",
+    "fb": "https://www.facebook.com/ocsa.varos"
+  },
+  "tiszafoeldvar-extra": {
+    "site": "http://www.tiszafoldvar.hu/",
+    "fb": "https://www.facebook.com/Tiszaf"
+  },
+  "nagyatad-extra": {
+    "site": "http://nagyatad.hu/"
+  },
+  "edeleny-extra": {
+    "site": "http://www.edeleny.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "sarkad-extra": {
+    "site": "http://www.sarkad.hu"
+  },
+  "nagykallo-extra": {
+    "site": "http://nagykallo.hu/"
+  },
+  "batonyterenye-extra": {
+    "site": "http://www.batonyterenye.hu/"
+  },
+  "balatonalmadi-extra": {
+    "site": "http://www.balatonalmadi.hu",
+    "fb": "https://www.facebook.com/BalatonalmadiVaros"
+  },
+  "dunavarsany-extra": {
+    "site": "http://www.dunavarsany.hu",
+    "fb": "https://www.facebook.com/dunavarsanyhivatalos"
+  },
+  "mezoebereny-extra": {
+    "site": "http://www.mezobereny.hu"
+  },
+  "mogyorod-extra": {
+    "site": "http://www.mogyorod.hu"
+  },
+  "kapuvar-extra": {
+    "site": "http://kapuvar.hu/"
+  },
+  "suelysap-extra": {
+    "site": "http://www.sulysap.hu"
+  },
+  "oerbottyan-extra": {
+    "site": "http://www.orbottyan.hu",
+    "fb": "https://www.facebook.com/orbottyan"
+  },
+  "paty-extra": {
+    "site": "http://www.paty.hu/"
+  },
+  "sandorfalva-extra": {
+    "site": "https://sandorfalva.hu/",
+    "fb": "https://www.facebook.com/Sandorfalva"
+  },
+  "ercsi-extra": {
+    "site": "http://ercsi.hu",
+    "fb": "https://www.facebook.com/Ercsi-Vros-nkormnyzata-104266691012768"
+  },
+  "gyoerujbarat-extra": {
+    "site": "http://www.gyorujbarat.hu"
+  },
+  "derecske-extra": {
+    "site": "http://www.derecske.hu"
+  },
+  "piliscsaba-extra": {
+    "site": "http://www.piliscsaba.hu",
+    "fb": "https://www.facebook.com/events"
+  },
+  "nagykovacsi-extra": {
+    "site": "http://www.nagykovacsi.hu/",
+    "fb": "https://www.facebook.com/nagykovacsionkormanyzata"
+  },
+  "hajdudorog-extra": {
+    "site": "http://www.hajdudorog.hu",
+    "fb": "https://www.facebook.com/places"
+  },
+  "szeghalom-extra": {
+    "site": "https://szeghalom.hu/",
+    "fb": "https://www.facebook.com/Szeghalom-V"
+  },
+  "budakalasz-extra": {
+    "site": "https://www.budakalasz.hu/",
+    "fb": "https://www.facebook.com/budakalaszvaros"
+  },
+  "nadudvar-extra": {
+    "site": "http://www.nadudvar.hu"
+  },
+  "kunszentmiklos-extra": {
+    "site": "http://www.kunszentmiklos.hu"
+  },
+  "jaszarokszallas-extra": {
+    "site": "http://www.jaszarokszallas.hu/"
+  },
+  "fuezesabony-extra": {
+    "site": "http://www.fuzesabony.hu"
+  },
+  "kistelek-extra": {
+    "site": "http://www.kistelek.hu"
+  },
+  "kecel-extra": {
+    "site": "http://www.kecel.hu",
+    "fb": "https://www.facebook.com/kecelmedia"
+  },
+  "nyergesujfalu-extra": {
+    "site": "http://www.nyergesujfalu.hu",
+    "fb": "https://www.facebook.com/egykisnyerges"
+  },
+  "kunszentmarton-extra": {
+    "site": "http://www.kunszentmarton.hu",
+    "fb": "https://www.facebook.com/people"
+  },
+  "soltvadkert-extra": {
+    "site": "https://soltvadkert.hu/",
+    "fb": "https://www.facebook.com/varosunksoltvadkert"
+  },
+  "kunhegyes-extra": {
+    "site": "http://www.kunhegyes.hu/",
+    "fb": "https://www.facebook.com/kunhegyesvaros.onkormanyzat.9"
+  },
+  "nagytarcsa-extra": {
+    "site": "http://www.nagytarcsa.hu",
+    "fb": "https://www.facebook.com/nagytarcsaweb"
+  },
+  "polgardi-extra": {
+    "site": "https://polgardi.hu/",
+    "fb": "https://www.facebook.com/PolgardiOnkormanyzat"
+  },
+  "letavertes-extra": {
+    "site": "https://www.letavertes.hu/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "devavanya-extra": {
+    "site": "https://devavanya.hu/",
+    "fb": "https://www.facebook.com/DevavanyaVaros"
+  },
+  "enying-extra": {
+    "site": "http://www.enying.eu"
+  },
+  "nyirtelek-extra": {
+    "site": "http://www.nyirtelek.hu/",
+    "fb": "https://www.facebook.com/nyirtelek"
+  },
+  "kerekegyhaza-extra": {
+    "site": "http://www.kerekegyhaza.hu/"
+  },
+  "szada-extra": {
+    "site": "http://www.szada.hu",
+    "fb": "https://www.facebook.com/SzadaKozsegOnkormanyzat"
+  },
+  "nyiradony-extra": {
+    "site": "http://www.nyiradony.hu"
+  },
+  "felsoezsolca-extra": {
+    "site": "http://www.felsozsolca.hu",
+    "fb": "https://www.facebook.com/Felsozsolca.ph"
+  },
+  "morahalom-extra": {
+    "site": "https://www.morahalom.hu/",
+    "fb": "https://www.facebook.com/morahalom"
+  },
+  "tahitotfalu-extra": {
+    "site": "http://www.tahitotfalu.hu",
+    "fb": "https://www.facebook.com/tahitotfalu"
+  },
+  "putnok-extra": {
+    "site": "http://www.putnok.hu"
+  },
+  "mindszent-extra": {
+    "site": "http://www.mindszent.hu"
+  },
+  "aszod-extra": {
+    "site": "https://aszod.hu/",
+    "fb": "https://www.facebook.com/aszodvaros"
+  },
+  "teglas-extra": {
+    "site": "https://www.teglas.hu/"
+  },
+  "tapioszecsoe-extra": {
+    "site": "http://www.tapioszecso.hu"
+  },
+  "ibrany-extra": {
+    "site": "https://ibrany.hu/"
+  },
+  "vesztoe-extra": {
+    "site": "http://www.veszto.hu",
+    "fb": "https://www.facebook.com/onkormanyzatveszto"
+  },
+  "fegyvernek-extra": {
+    "site": "http://www.fegyvernek.hu"
+  },
+  "nagyecsed-extra": {
+    "site": "https://www.nagyecsed.hu/"
+  },
+  "delegyhaza-extra": {
+    "site": "http://www.delegyhaza.hu"
+  },
+  "encs-extra": {
+    "site": "http://www.encs.hu",
+    "fb": "https://www.facebook.com/reel"
+  },
+  "jaszfenyszaru-extra": {
+    "site": "http://www.jaszfenyszaru.hu/"
+  },
+  "bacsalmas-extra": {
+    "site": "http://www.bacsalmas.hu",
+    "fb": "https://www.facebook.com/bacsalmasiebtelep"
+  },
+  "szentloerinc-extra": {
+    "site": "http://www.szentlorinc.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "zirc-extra": {
+    "site": "http://www.zirc.hu"
+  },
+  "janoshalma-extra": {
+    "site": "http://www.janoshalma.hu",
+    "fb": "https://www.facebook.com/czellerzoltanpolgarmester"
+  },
+  "tapioszele-extra": {
+    "site": "http://www.tapioszele.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "szabadszallas-extra": {
+    "site": "http://www.szabadszallas.hu/"
+  },
+  "doemsoed-extra": {
+    "site": "http://www.domsod.hu/",
+    "fb": "https://www.facebook.com/domsod.onkormanyzat"
+  },
+  "zsambek-extra": {
+    "site": "http://www.zsambek.hu",
+    "fb": "https://www.facebook.com/zsambekvaroshaza"
+  },
+  "pusztaszabolcs-extra": {
+    "site": "http://www.pusztaszabolcs.hu",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "balkany-extra": {
+    "site": "https://balkany.hu"
+  },
+  "ujszasz-extra": {
+    "site": "http://www.ujszasz.hu/",
+    "fb": "https://www.facebook.com/ujszaszvarosonkormanyzata"
+  },
+  "suemeg-extra": {
+    "site": "https://www.sumeg.hu",
+    "fb": "https://www.facebook.com/sumegvaros"
+  },
+  "zalaszentgrot-extra": {
+    "site": "https://zalaszentgrot.hu/",
+    "fb": "https://www.facebook.com/ZalaszentgrotHivatalosOldala"
+  },
+  "janossomorja-extra": {
+    "site": "https://www.janossomorja.hu/",
+    "fb": "https://www.facebook.com/janossomorja.hu"
+  },
+  "bataszek-extra": {
+    "site": "https://bataszek.hu/",
+    "fb": "https://www.facebook.com/Eg"
+  },
+  "hosszupalyi-extra": {
+    "site": "http://www.hosszupalyi.hu",
+    "fb": "https://www.facebook.com/Hossz"
+  },
+  "mezoecsat-extra": {
+    "site": "http://www.mezocsat.hu"
+  },
+  "alsonemedi-extra": {
+    "site": "https://alsonemedi.hu/",
+    "fb": "https://www.facebook.com/Als"
+  },
+  "tapioszentmarton-extra": {
+    "site": "http://www.tapioszentmarton.hu",
+    "fb": "https://www.facebook.com/www.tapioszentmarton.hu"
+  },
+  "rajka-extra": {
+    "site": "http://rajka.hu"
+  },
+  "martfue-extra": {
+    "site": "http://www.martfu.hu/",
+    "fb": "https://www.facebook.com/martfumedia"
+  },
+  "jaszladany-extra": {
+    "site": "http://www.jaszladany.hu"
+  },
+  "algyoe-extra": {
+    "site": "https://www.algyo.hu/",
+    "fb": "https://www.facebook.com/algyo"
+  },
+  "alsozsolca-extra": {
+    "site": "http://www.alsozsolca.hu",
+    "fb": "https://www.facebook.com/alsozsolcainfo"
+  },
+  "szikszo-extra": {
+    "site": "http://www.szikszo.hu",
+    "fb": "https://www.facebook.com/Szikszo.varoshaza"
+  },
+  "mikepercs-extra": {
+    "site": "http://www.mikepercs.hu"
+  },
+  "tiszaloek-extra": {
+    "site": "https://www.tiszalok.hu/"
+  },
+  "csakvar-extra": {
+    "site": "http://www.csakvar.hu",
+    "fb": "https://www.facebook.com/p"
+  },
+  "kaba-extra": {
+    "site": "http://www.kaba.hu"
+  },
+  "tat-extra": {
+    "site": "http://www.tat.hu"
+  },
+  "balatonboglar-extra": {
+    "site": "https://www.balatonboglar.hu/"
+  },
+  "totkomlos-extra": {
+    "site": "https://www.totkomlos.hu/"
+  },
+  "monorierdoe-extra": {
+    "site": "http://www.monorierdo.hu"
+  },
+  "mezoekovacshaza-extra": {
+    "site": "https://www.mezokovacshaza.hu/",
+    "fb": "https://www.facebook.com/mezokovacshaza.onkormanyzat"
+  },
+  "kozarmisleny-extra": {
+    "site": "http://kozarmisleny.hu",
+    "fb": "https://www.facebook.com/ksnkft"
+  },
+  "nagyhalasz-extra": {
+    "site": "http://www.nagyhalasz.hu/",
+    "fb": "https://www.facebook.com/nagyhalasz.varos"
+  },
+  "helvecia-extra": {
+    "site": "http://www.helvecia.hu",
+    "fb": "https://www.facebook.com/helveciaonkormanyzat.hu"
+  },
+  "nyekladhaza-extra": {
+    "site": "http://www.nyekladhaza.hu"
+  },
+  "vamospercs-extra": {
+    "site": "https://vamospercs.hu/"
+  },
+  "kisber-extra": {
+    "site": "http://www.kisber.hu"
+  },
+  "turkeve-extra": {
+    "site": "http://www.turkeve.hu",
+    "fb": "https://www.facebook.com/turkeveofficial"
+  },
+  "gyula": {
+    "site": "https://www.gyula.hu/"
+  },
+  "szarvas": {
+    "site": "http://www.szarvas.hu"
+  },
+  "gyongyos": {
+    "site": "http://www.gyongyos.hu",
+    "fb": "https://www.facebook.com/events"
+  },
+  "csongrad-city": {
+    "site": "https://www.csongrad.hu/",
+    "fb": "https://www.facebook.com/csongradvaroshu"
+  },
+  "mor": {
+    "site": "http://www.mor.hu",
+    "fb": "https://www.facebook.com/morvarosi.onkormanyzat"
+  },
+  "komarom": {
+    "site": "http://www.komarom.hu",
+    "fb": "https://www.facebook.com/komaromvaros.hivatalosoldala"
+  },
+  "babolna": {
+    "site": "https://babolna.hu/"
+  },
+  "papa": {
+    "site": "https://papa.hu/",
+    "fb": "https://www.facebook.com/PapaVarosHivatalosOldala"
+  },
+  "komlo": {
+    "site": "http://www.komlo.hu"
+  },
+  "demjen": {
+    "site": "https://www.demjen.hu/",
+    "fb": "https://www.facebook.com/kultura.demjen"
+  },
+  "fuzer": {
+    "site": "http://www.fuzer.hu/",
+    "fb": "https://www.facebook.com/fuzerkozseg"
+  },
+  "kapolcs": {
+    "site": "https://www.kapolcs-onkormanyzat.hu/"
+  },
+  "kazar": {
+    "site": "http://www.kazar.hu",
+    "fb": "https://www.facebook.com/kazar.hu"
+  },
+  "ocs": {
+    "site": "http://ocs.hu/"
+  },
+  "poroszlo": {
+    "site": "http://www.poroszlo.hu",
+    "fb": "https://www.facebook.com/poroszlo.hu"
+  },
+  "tarcal": {
+    "site": "http://tarcal.hu/",
+    "fb": "https://www.facebook.com/6PuttonyosBorfalu"
+  },
+  "uelloe-extra": {
+    "site": "http://www.ullo.hu"
+  },
+  "pilis-extra": {
+    "site": "https://www.pilis.hu/",
+    "fb": "https://www.facebook.com/pilisonk"
+  },
+  "jozsa-extra": {
+    "site": "http://www.jozsanet.hu/",
+    "fb": "https://www.facebook.com/DMK-J"
+  },
+  "tarnok-extra": {
+    "site": "http://www.tarnok.hu",
+    "fb": "https://www.facebook.com/onkormanyzattarnok"
+  },
+  "ueroem-extra": {
+    "site": "http://www.urom.hu"
+  },
+  "velence-extra": {
+    "site": "http://www.velence.hu",
+    "fb": "https://www.facebook.com/Velencevaros"
+  },
+  "polgar-extra": {
+    "site": "http://www.polgar.hu"
+  },
+  "tura-extra": {
+    "site": "http://www.tura.hu"
+  },
+  "acs-extra": {
+    "site": "http://www.acs-varos.hu",
+    "fb": "https://www.facebook.com/p"
+  },
+  "taksony-extra": {
+    "site": "http://www.taksony.hu",
+    "fb": "https://www.facebook.com/taksony.online"
+  },
+  "kartal-extra": {
+    "site": "http://www.kartal.hu",
+    "fb": "https://www.facebook.com/photo"
+  },
+  "solt-extra": {
+    "site": "http://www.solt.hu"
+  },
+  "izsak-extra": {
+    "site": "http://www.izsak.hu/"
+  },
+  "loerinci-extra": {
+    "site": "http://www.lorinci.hu/",
+    "fb": "https://www.facebook.com/lorincihirei"
+  },
+  "bugyi-extra": {
+    "site": "http://www.bugyi.hu"
+  },
+  "romania-medias-cities-v2": {
+    "site": "http://www.primariamedias.ro/"
+  },
+  "romania-lupeni-cities-v2": {
+    "site": "https://primarialupeni.ro/"
+  },
+  "romania-resita-cities-v2": {
+    "site": "http://www.primaria-resita.ro/",
+    "fb": "https://www.facebook.com/primaria.resita.5"
+  },
+  "romania-toplita-cities-v2": {
+    "site": "http://www.toplita.info/"
+  },
+  "romania-cisnadie-cities-v2": {
+    "site": "http://www.cisnadie.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "romania-codlea-cities-v2": {
+    "site": "http://www.primariacodlea.ro/"
+  },
+  "romania-ovidiu-cities-v2": {
+    "site": "http://www.primariaovidiu.ro/",
+    "fb": "https://www.facebook.com/primariaovidiu"
+  },
+  "romania-deva-cities-v2": {
+    "site": "http://www.primariadeva.ro"
+  },
+  "romania-turda-cities-v2": {
+    "site": "http://www.primturda.ro/"
+  },
+  "romania-ghimbav-cities-v2": {
+    "site": "https://primaria-ghimbav.ro/",
+    "fb": "https://www.facebook.com/primariaghimbav"
+  },
+  "romania-pangrati-cities-v2": {
+    "site": "http://www.cityofathens.gr"
+  },
+  "romania-valenii-de-munte-cities-v2": {
+    "site": "http://www.valeniidemunte.com.ro/"
+  },
+  "romania-campina-cities-v2": {
+    "site": "http://www.primariacampina.ro/",
+    "fb": "https://www.facebook.com/112814544768735"
+  },
+  "romania-balan-cities-v2": {
+    "site": "http://www.orasulbalan.ro/",
+    "fb": "https://www.facebook.com/OrasulBalanHR"
+  },
+  "romania-boldesti-scaeni-cities-v2": {
+    "site": "http://pbs.infoprimarie.ro/"
+  },
+  "romania-baicoi-cities-v2": {
+    "site": "http://www.primariabaicoi.ro/",
+    "fb": "https://www.facebook.com/CSOBaicoi"
+  },
+  "romania-breaza-cities-v2": {
+    "site": "http://www.primariabreaza.ro/",
+    "fb": "https://www.facebook.com/people"
+  },
+  "romania-urlati-cities-v2": {
+    "site": "http://www.urlati.ro/",
+    "fb": "https://www.facebook.com/URLATI.ro"
+  },
+  "romania-sinaia-cities-v2": {
+    "site": "https://www.primaria-sinaia.ro",
+    "fb": "https://www.facebook.com/primariasinaia"
+  },
+  "romania-slanic-cities-v2": {
+    "site": "http://www.primariaslanic.ro"
+  },
+  "romania-busteni-cities-v2": {
+    "site": "http://www.orasul-busteni.ro/",
+    "fb": "https://www.facebook.com/uatobusteni"
+  },
+  "romania-techirghiol-cities-v2": {
+    "site": "http://www.primariatechirghiol.ro/"
+  },
+  "romania-drajna-cities-v2": {
+    "site": "http://www.primaria-drajna.ro/"
+  },
+  "romania-stefesti-cities-v2": {
+    "site": "http://www.primariastefesti.ro"
+  },
+  "romania-aricestii-rahtivani-cities-v2": {
+    "site": "http://www.aricestiirahtivani.ro/"
+  },
+  "romania-teisani-cities-v2": {
+    "site": "https://teisani.europrahova.eu/wordpress/"
+  },
+  "romania-posesti-cities-v2": {
+    "site": "http://www.primariaposesti.ro/"
+  },
+  "romania-targsoru-vechi-cities-v2": {
+    "site": "http://www.comunatirgsoruvechi.ro",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "romania-brazi-cities-v2": {
+    "site": "http://www.pcbrazi.ro/"
+  },
+  "romania-filipestii-de-padure-cities-v2": {
+    "site": "http://www.filipestiidepadure.ro",
+    "fb": "https://www.facebook.com/Primaria-Filipestii-de-Padure-Prahova-105556248023209"
+  },
+  "romania-bucov-cities-v2": {
+    "site": "http://bucov.uv.ro/"
+  },
+  "romania-dumbravesti-cities-v2": {
+    "site": "http://www.dumbravesti.ro/"
+  },
+  "romania-puchenii-mari-cities-v2": {
+    "site": "http://www.pucheniimari.ro/",
+    "fb": "https://www.facebook.com/Primariapucheni"
+  },
+  "romania-blejoi-cities-v2": {
+    "site": "http://www.primariablejoi.ro/"
+  },
+  "romania-colceag-cities-v2": {
+    "site": "http://colceag.infoprimarie.ro/"
+  },
+  "romania-azuga-cities-v2": {
+    "site": "http://www.primariaazuga.ro/"
+  },
+  "romania-magurele-cities-v2": {
+    "site": "http://primariamagurele.ro/"
+  },
+  "romania-gura-vitioarei-cities-v2": {
+    "site": "https://www.guravitioarei.ro/"
+  },
+  "romania-filipeștii-de-târg-cities-v2": {
+    "site": "http://primariafilipestiidetarg.ro/",
+    "fb": "https://www.facebook.com/Primaria-Filipe"
+  },
+  "romania-pantelimon-cities-v2": {
+    "site": "https://www.primariapantelimon.ro/",
+    "fb": "https://www.facebook.com/primariapantelimon"
+  },
+  "romania-buftea-cities-v2": {
+    "site": "http://www.primariabuftea.ro/",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "romania-popesti-leordeni-cities-v2": {
+    "site": "https://primăria-popești-leordeni.ro/"
+  },
+  "romania-otopeni-cities-v2": {
+    "site": "https://www.otopeniro.ro/"
+  },
+  "romania-voluntari-cities-v2": {
+    "site": "http://www.primaria-voluntari.ro/"
+  },
+  "romania-darasti-ilfov-cities-v2": {
+    "site": "https://comunadarastiilfov.ro/"
+  },
+  "romania-bragadiru-cities-v2": {
+    "site": "https://www.primariaorasbragadiru.ro/"
+  },
+  "romania-cocorastii-colt-cities-v2": {
+    "site": "https://cocorastiicolt.ro/"
+  },
+  "romania-chitila-cities-v2": {
+    "site": "http://www.primariachitila.ro/"
+  },
+  "romania-mogosoaia-cities-v2": {
+    "site": "https://primaria.mogosoaia.ro/"
+  },
+  "romania-snagov-cities-v2": {
+    "site": "https://primaria-snagov.ro/"
+  },
+  "romania-peris-cities-v2": {
+    "site": "http://www.peris.ro/"
+  },
+  "romania-corbeanca-cities-v2": {
+    "site": "http://www.primariacorbeanca.ro/",
+    "fb": "https://www.facebook.com/578179315670350"
+  },
+  "romania-stefanestii-de-jos-cities-v2": {
+    "site": "http://www.primariastefanesti.ro/"
+  },
+  "romania-1-decembrie-cities-v2": {
+    "site": "http://www.1-decembrie.ro/"
+  },
+  "romania-petrachioaia-cities-v2": {
+    "site": "http://primaria-petrachioaia.ro/"
+  },
+  "romania-tunari-cities-v2": {
+    "site": "http://primaria-tunari.ro/"
+  },
+  "romania-clinceni-cities-v2": {
+    "site": "http://primaria-clinceni.ro/",
+    "fb": "https://www.facebook.com/primaria.comunei.clinceni"
+  },
+  "romania-cernica-cities-v2": {
+    "site": "http://cernica.judetulilfov.eu/"
+  },
+  "romania-cornetu-cities-v2": {
+    "site": "https://www.primariacornetu.ro/",
+    "fb": "https://www.facebook.com/primariacornetuilfov"
+  },
+  "romania-plopeni-cities-v2": {
+    "site": "http://www.primariaplopeni.ro",
+    "fb": "https://www.facebook.com/PrimariaOrasPlopeniPrahova"
+  },
+  "romania-ciolpani-cities-v2": {
+    "site": "http://www.primariaciolpani.ro/"
+  },
+  "romania-glina-cities-v2": {
+    "site": "https://grad-glina.hr",
+    "fb": "https://www.facebook.com/GradGlina"
+  },
+  "romania-dragomiresti-vale-cities-v2": {
+    "site": "http://www.primariadragomirestivale.ro/",
+    "fb": "https://www.facebook.com/primariadragomirestivale"
+  },
+  "city-sebes-extra": {
+    "site": "https://www.primariasebes.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "romania-balotesti-cities-v2": {
+    "site": "https://primariabalotesti.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-pecica-extra": {
+    "site": "http://www.pecica.ro/"
+  },
+  "romania-ramnicu-valcea-cities-v2": {
+    "site": "https://primariavl.ro/"
+  },
+  "city-blaj-extra": {
+    "site": "http://www.primariablaj.ro/",
+    "fb": "https://www.facebook.com/gheorghevalentinrotarprimar"
+  },
+  "city-curtea-de-arges-extra": {
+    "site": "http://www.primariacurteadearges.ro/",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "city-campulung-extra": {
+    "site": "https://www.primariacampulung.ro/",
+    "fb": "https://www.facebook.com/PrimariaCampulungOficial"
+  },
+  "city-aiud-extra": {
+    "site": "http://www.aiud.ro/",
+    "fb": "https://www.facebook.com/primariamunicipiuluiaiud"
+  },
+  "romania-crevedia-cities-v2": {
+    "site": "http://www.primariacrevedia.ro"
+  },
+  "city-moinesti-extra": {
+    "site": "https://moinesti.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-mioveni-extra": {
+    "site": "http://www.primariamioveni.ro"
+  },
+  "city-santana-extra": {
+    "site": "http://www.primariasantana.ro/"
+  },
+  "city-salonta-extra": {
+    "site": "https://salonta.net/ro/"
+  },
+  "city-lipova-extra": {
+    "site": "http://www.primarialipova.ro/",
+    "fb": "https://www.facebook.com/Primaria-Lipova"
+  },
+  "city-comanesti-extra": {
+    "site": "http://www.primariacomanesti.ro/",
+    "fb": "https://www.facebook.com/Regio.NordEst.ro"
+  },
+  "city-marghita-extra": {
+    "site": "http://www.marghita.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiMarghita"
+  },
+  "city-beclean-extra": {
+    "site": "http://www.primariabeclean.ro/"
+  },
+  "city-darabani-extra": {
+    "site": "http://www.primariadarabani.ro/",
+    "fb": "https://www.facebook.com/primariadarabani"
+  },
+  "city-onesti-extra": {
+    "site": "http://www.onesti.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiOnesti"
+  },
+  "city-nasaud-extra": {
+    "site": "http://www.primarianasaud.ro/",
+    "fb": "https://www.facebook.com/PrimariaNasaud"
+  },
+  "city-saveni-extra": {
+    "site": "https://primariasaveni.ro/"
+  },
+  "city-sacele-extra": {
+    "site": "http://www.municipiulsacele.ro/",
+    "fb": "https://www.facebook.com/municipiulsacele"
+  },
+  "city-sangeorz-bai-extra": {
+    "site": "https://www.singeorzbai.com"
+  },
+  "city-ianca-extra": {
+    "site": "http://www.primaria-ianca.ro/"
+  },
+  "city-zarnesti-extra": {
+    "site": "https://www.primaria-zarnesti.ro/",
+    "fb": "https://www.facebook.com/primariaora"
+  },
+  "city-faurei-extra": {
+    "site": "http://orasulfaurei.ro/"
+  },
+  "city-beius-extra": {
+    "site": "https://www.municipiulbeius.ro",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiBeius"
+  },
+  "city-pogoanele-extra": {
+    "site": "http://www.primariepogoanele.ro/"
+  },
+  "city-nehoiu-extra": {
+    "site": "http://primaria-nehoiu.ro"
+  },
+  "city-dorohoi-extra": {
+    "site": "http://www.primariadorohoi.ro"
+  },
+  "city-resita-extra": {
+    "site": "http://www.primaria-resita.ro/",
+    "fb": "https://www.facebook.com/primaria.resita.5"
+  },
+  "city-ramnicu-sarat-extra": {
+    "site": "http://www.primariermsarat.ro/"
+  },
+  "city-oravita-extra": {
+    "site": "http://www.oravita.ro/",
+    "fb": "https://www.facebook.com/pensiuneacarulcuflori"
+  },
+  "city-caransebes-extra": {
+    "site": "https://www.primaria-caransebes.ro",
+    "fb": "https://www.facebook.com/primariacaransebes"
+  },
+  "city-lehliu-gara-extra": {
+    "site": "http://primarialehliugara.ro/",
+    "fb": "https://www.facebook.com/story.php"
+  },
+  "city-calarasi-extra": {
+    "site": "http://www.primariacalarasi.ro",
+    "fb": "https://www.facebook.com/primariacl"
+  },
+  "city-oltenita-extra": {
+    "site": "http://www.primariaoltenita.ro/"
+  },
+  "city-mangalia-extra": {
+    "site": "http://www.mangalia.ro/",
+    "fb": "https://www.facebook.com/primariemangalia"
+  },
+  "city-turda-extra": {
+    "site": "http://www.primturda.ro/"
+  },
+  "city-dej-extra": {
+    "site": "http://www.primariadej.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-navodari-extra": {
+    "site": "http://www.primaria-navodari.ro/",
+    "fb": "https://www.facebook.com/primarianavodari"
+  },
+  "city-campia-turzii-extra": {
+    "site": "http://www.campiaturzii.ro/",
+    "fb": "https://www.facebook.com/primariacampiaturzii"
+  },
+  "city-targu-secuiesc-extra": {
+    "site": "http://www.kezdi.ro/",
+    "fb": "https://www.facebook.com/kezdivasarhely.onkormanyzat"
+  },
+  "city-medgidia-extra": {
+    "site": "http://www.emedgidia.ro/"
+  },
+  "city-intorsura-buzaului-extra": {
+    "site": "http://www.intorsurabuzaului.ro/"
+  },
+  "city-pucioasa-extra": {
+    "site": "http://www.primpuc.ro/"
+  },
+  "city-moreni-extra": {
+    "site": "https://primariamoreni.ro/",
+    "fb": "https://www.facebook.com/primariamunicipiuluimoreni"
+  },
+  "city-covasna-extra": {
+    "site": "http://www.primariacovasna.ro/"
+  },
+  "city-calafat-extra": {
+    "site": "http://www.municipiulcalafat.ro/"
+  },
+  "city-gaesti-extra": {
+    "site": "http://www.primaria-gaesti.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-tecuci-extra": {
+    "site": "http://www.primariatecuci.ro/",
+    "fb": "https://www.facebook.com/primaria.municipiului.tecuci"
+  },
+  "city-fagaras-extra": {
+    "site": "https://www.primaria-fagaras.ro/"
+  },
+  "city-bailesti-extra": {
+    "site": "http://www.primariabailesti.ro"
+  },
+  "city-targu-bujor-extra": {
+    "site": "http://www.primariatgbujor.ro/"
+  },
+  "city-bolintin-vale-extra": {
+    "site": "http://www.bolintin-vale.ro",
+    "fb": "https://www.facebook.com/primariabolintinvale"
+  },
+  "city-filiasi-extra": {
+    "site": "http://www.primaria-filiasi.ro/"
+  },
+  "city-rovinari-extra": {
+    "site": "http://www.primariarovinari.ro/",
+    "fb": "https://www.facebook.com/primarierovinari"
+  },
+  "city-motru-extra": {
+    "site": "http://www.primariamotru.ro/",
+    "fb": "https://www.facebook.com/primariamotru"
+  },
+  "city-mihailesti-extra": {
+    "site": "http://primariamihailesti.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-toplita-extra": {
+    "site": "http://www.toplita.info/"
+  },
+  "romania-targu-jiu-cities-v2": {
+    "site": "http://www.targujiu.ro"
+  },
+  "city-hunedoara-extra": {
+    "site": "https://www.primariahunedoara.ro/"
+  },
+  "city-odorheiu-secuiesc-extra": {
+    "site": "http://www.varoshaza.ro"
+  },
+  "city-urziceni-extra": {
+    "site": "https://primaria-urziceni.ro/primarie_urziceni/",
+    "fb": "https://www.facebook.com/PrimariaChitila"
+  },
+  "city-gheorgheni-extra": {
+    "site": "http://www.primariagheorgheni.ro/"
+  },
+  "city-deva-extra": {
+    "site": "http://www.primariadeva.ro"
+  },
+  "romania-mizil-cities-v2": {
+    "site": "http://www.primaria-mizil.ro/"
+  },
+  "city-tandarei-extra": {
+    "site": "http://www.primaria-tandarei.ro/"
+  },
+  "city-buftea-extra": {
+    "site": "http://www.primariabuftea.ro/",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "city-fetesti-extra": {
+    "site": "http://www.primariafetesti.ro/"
+  },
+  "city-pascani-extra": {
+    "site": "https://primariapascani.ro/",
+    "fb": "https://www.facebook.com/PrimariaPascaniOficial"
+  },
+  "city-targu-frumos-extra": {
+    "site": "http://primariatgfrumos.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-viseu-de-sus-extra": {
+    "site": "http://www.primariaviseu.info/"
+  },
+  "city-otopeni-extra": {
+    "site": "https://www.otopeniro.ro/"
+  },
+  "city-voluntari-extra": {
+    "site": "http://www.primaria-voluntari.ro/"
+  },
+  "city-petrosani-extra": {
+    "site": "http://www.petrosani.ro/"
+  },
+  "city-harlau-extra": {
+    "site": "http://www.primaria-hirlau.ro/"
+  },
+  "city-vanju-mare-extra": {
+    "site": "http://www.vinju-mare.ro/"
+  },
+  "city-borsa-extra": {
+    "site": "http://www.primariaborsamm.ro"
+  },
+  "city-sighetu-marmatiei-extra": {
+    "site": "https://www.primaria-sighet.ro"
+  },
+  "city-orsova-extra": {
+    "site": "http://www.primariaorsova.ro/"
+  },
+  "city-strehaia-extra": {
+    "site": "http://www.primariastrehaia.ro/",
+    "fb": "https://www.facebook.com/primaria.strehaia"
+  },
+  "city-ludus-extra": {
+    "site": "http://www.ludus.ro/"
+  },
+  "city-iernut-extra": {
+    "site": "http://www.primariaiernut.ro/"
+  },
+  "city-corabia-extra": {
+    "site": "http://www.primariacorabia.ro",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "city-caracal-extra": {
+    "site": "https://www.primariacaracal.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiCaracal"
+  },
+  "city-campina-extra": {
+    "site": "http://www.primariacampina.ro/",
+    "fb": "https://www.facebook.com/112814544768735"
+  },
+  "city-scornicesti-extra": {
+    "site": "http://www.primariascornicesti.ro/"
+  },
+  "city-sinaia-extra": {
+    "site": "https://www.primaria-sinaia.ro",
+    "fb": "https://www.facebook.com/primariasinaia"
+  },
+  "city-targu-neamt-extra": {
+    "site": "http://www.primariatgneamt.ro/"
+  },
+  "city-negresti-oas-extra": {
+    "site": "https://www.negresti-oas.ro/",
+    "fb": "https://www.facebook.com/OrasulNegrestiOas"
+  },
+  "city-breaza-extra": {
+    "site": "http://www.primariabreaza.ro/",
+    "fb": "https://www.facebook.com/people"
+  },
+  "city-simleu-silvaniei-extra": {
+    "site": "http://www.simleusilvaniei.ro/",
+    "fb": "https://www.facebook.com/groups"
+  },
+  "city-reghin-extra": {
+    "site": "http://www.primariareghin.ro/",
+    "fb": "https://www.facebook.com/Casa-Municipala-de-Cultur"
+  },
+  "city-tasnad-extra": {
+    "site": "http://www.tasnad.ro/",
+    "fb": "https://www.facebook.com/Wiki-Ro-580179925815382"
+  },
+  "city-cisnadie-extra": {
+    "site": "http://www.cisnadie.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-medias-extra": {
+    "site": "http://www.primariamedias.ro/"
+  },
+  "city-piatra-neamt-extra": {
+    "site": "http://www.neamt.ro/"
+  },
+  "city-avrig-extra": {
+    "site": "http://www.primaria-avrig.ro/",
+    "fb": "https://www.facebook.com/primariaavrig"
+  },
+  "city-carei-extra": {
+    "site": "http://www.primariacarei.ro/"
+  },
+  "city-radauti-extra": {
+    "site": "http://www.primariaradauti.ro/",
+    "fb": "https://www.facebook.com/Primaria-Municipiului-Radauti-785988071548055"
+  },
+  "city-turnu-magurele-extra": {
+    "site": "http://www.municipiulturnumagurele.ro/"
+  },
+  "city-cehu-silvaniei-extra": {
+    "site": "https://primaria-cehusilvaniei.ro"
+  },
+  "city-zimnicea-extra": {
+    "site": "https://orasulzimnicea.ro/"
+  },
+  "city-rosiorii-de-vede-extra": {
+    "site": "http://www.rosioridevede.ro/"
+  },
+  "city-jibou-extra": {
+    "site": "http://www.primariajibou.ro/",
+    "fb": "https://www.facebook.com/1746545138976406"
+  },
+  "city-jimbolia-extra": {
+    "site": "http://www.jimbolia.ro/"
+  },
+  "city-babadag-extra": {
+    "site": "http://www.babadag.ro"
+  },
+  "city-lugoj-extra": {
+    "site": "http://www.primarialugoj.ro",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "city-husi-extra": {
+    "site": "http://www.husi.info/"
+  },
+  "city-tulcea-extra": {
+    "site": "http://www.primaria-tulcea.ro/",
+    "fb": "https://www.facebook.com/primariatulcea"
+  },
+  "city-falticeni-extra": {
+    "site": "http://www.falticeni.ro/"
+  },
+  "city-sannicolau-mare-extra": {
+    "site": "http://www.sannicolau-mare.ro/",
+    "fb": "https://www.facebook.com/search"
+  },
+  "city-campulung-moldovenesc-extra": {
+    "site": "http://www.campulungmoldovenesc.ro/",
+    "fb": "https://www.facebook.com/PrimariaCampulung"
+  },
+  "city-horezu-extra": {
+    "site": "https://www.orasul-horezu.ro/",
+    "fb": "https://www.facebook.com/primariahorezu"
+  },
+  "city-marasesti-extra": {
+    "site": "http://www.primariamarasesti.ro/",
+    "fb": "https://www.facebook.com/Primaria-Marasesti-205516762943937"
+  },
+  "city-negresti-extra": {
+    "site": "http://www.negresti.ro",
+    "fb": "https://www.facebook.com/PrimariaOrasNegresti"
+  },
+  "city-cluj-napoca": {
+    "site": "https://primariaclujnapoca.ro/",
+    "fb": "https://www.facebook.com/1690150471289313"
+  },
+  "city-ramnicu-valcea-extra": {
+    "site": "https://primariavl.ro/"
+  },
+  "city-timisoara": {
+    "site": "https://www.primariatm.ro/"
+  },
+  "city-adjud-extra": {
+    "site": "http://www.adjud.ro/",
+    "fb": "https://www.facebook.com/uatadjud"
+  },
+  "city-ploiesti": {
+    "site": "https://www.ploiesti.ro/",
+    "fb": "https://www.facebook.com/ploiestiprimarie"
+  },
+  "city-craiova": {
+    "site": "https://primariacraiova.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "city-oradea": {
+    "site": "https://oradea.ro/",
+    "fb": "https://www.facebook.com/PrimariaOradea"
+  },
+  "city-pitesti": {
+    "site": "https://www.primariapitesti.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiPitesti"
+  },
+  "city-targu-mures": {
+    "site": "https://tirgumures.ro",
+    "fb": "https://www.facebook.com/Municipiul-T"
+  },
+  "city-alba-iulia": {
+    "site": "http://www.apulum.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "city-sighisoara": {
+    "site": "https://primariasighisoara.ro/",
+    "fb": "https://www.facebook.com/Municipiul-Sighisoara-1941484399432341"
+  },
+  "city-targoviste": {
+    "site": "http://www.pmtgv.ro/"
+  },
+  "city-panciu-extra": {
+    "site": "http://www.primariapanciu.ro/"
+  },
+  "city-drobeta-turnu-severin": {
+    "site": "https://primariadrobeta.ro/"
+  },
+  "city-black-church": {
+    "site": "https://bisericaneagra.ro/",
+    "fb": "https://www.facebook.com/Istorie.Cultura.Spiritualitate"
+  },
+  "city-village-museum": {
+    "site": "http://www.muzeul-satului.ro/",
+    "fb": "https://www.facebook.com/muzeulsatului"
+  },
+  "city-insuratei-extra": {
+    "site": "http://www.portal-braila.ro/Primarii/Insuratei/index.php"
+  },
+  "landmark-cluj-botanical": {
+    "site": "https://gradinabotanica.ubbcluj.ro/",
+    "fb": "https://www.facebook.com/gradina.botanica.al.borza"
+  },
+  "landmark-palas-iasi": {
+    "site": "https://www.palasiasi.ro/"
+  },
+  "city-baia-mare": {
+    "site": "https://www.baiamare.ro/",
+    "fb": "https://www.facebook.com/baiamareoficial"
+  },
+  "ro-poi-bistrita": {
+    "site": "https://www.primariabistrita.ro/",
+    "fb": "https://www.facebook.com/primariamunicipiuluibistrita"
+  },
+  "ro-poi-sfantu-gheorghe": {
+    "site": "https://www.sfantugheorgheinfo.ro/",
+    "fb": "https://www.facebook.com/PrimariaSfantuGheorghe"
+  },
+  "ro-poi-baile-herculane": {
+    "site": "http://www.baile-herculane.ro"
+  },
+  "ro-poi-slobozia": {
+    "site": "http://www.sloboziail.ro/",
+    "fb": "https://www.facebook.com/MunicipiulSloboziaIL"
+  },
+  "ro-poi-focsani": {
+    "site": "https://www.focsani.info/"
+  },
+  "ro-poi-zalau": {
+    "site": "http://www.zalausj.ro/",
+    "fb": "https://www.facebook.com/primaria.zalau"
+  },
+  "agnita": {
+    "site": "https://primaria-agnita.ro",
+    "fb": "https://www.facebook.com/PrimariaOrAgnita"
+  },
+  "agigea": {
+    "site": "http://www.primaria-agigea.ro/"
+  },
+  "ro-poi-alexandria": {
+    "site": "http://www.alexandria.gov.eg/",
+    "fb": "https://www.facebook.com/AlexPortal.Gov.Eg"
+  },
+  "alesd": {
+    "site": "http://www.alesd-bihor.ro/",
+    "fb": "https://www.facebook.com/groups"
+  },
+  "anina": {
+    "site": "http://www.anina.ro/"
+  },
+  "amara": {
+    "site": "http://www.primaria-amara.ro"
+  },
+  "apahida": {
+    "site": "http://www.cjcluj.ro/Apahida/",
+    "fb": "https://www.facebook.com/cjcluj"
+  },
+  "city-barlad-extra": {
+    "site": "http://www.primariabarlad.ro",
+    "fb": "https://www.facebook.com/primariamunbarlad"
+  },
+  "ardud": {
+    "site": "http://www.ardud.ro/"
+  },
+  "bacau": {
+    "site": "https://municipiulbacau.ro",
+    "fb": "https://www.facebook.com/MunicipiulBacau"
+  },
+  "baia-sprie": {
+    "site": "http://www.baiasprie.com/"
+  },
+  "city-targu-jiu-extra": {
+    "site": "http://www.targujiu.ro"
+  },
+  "baraolt": {
+    "site": "http://www.prefecturacv.ro/baraolt.html"
+  },
+  "arad": {
+    "site": "http://www.primariaarad.ro",
+    "fb": "https://www.facebook.com/primariamunicipiului.arad"
+  },
+  "baia": {
+    "site": "http://www.comunabaia.ro",
+    "fb": "https://www.facebook.com/Comuna-Baia-500692073467079"
+  },
+  "bals": {
+    "site": "https://primariabals.eu",
+    "fb": "https://www.facebook.com/PrimariaOrasuluiBals"
+  },
+  "bicaz": {
+    "site": "http://www.primariabicaz.ro/",
+    "fb": "https://www.facebook.com/hashtag"
+  },
+  "bascov": {
+    "site": "http://www.primariabascov.ro/"
+  },
+  "city-miercurea-ciuc": {
+    "site": "http://www.miercureaciuc.ro/",
+    "fb": "https://www.facebook.com/primaria.miercureaciuc"
+  },
+  "brasov": {
+    "site": "https://www.brasovcity.ro/",
+    "fb": "https://www.facebook.com/primariabrasov"
+  },
+  "bocsa": {
+    "site": "http://www.primariabocsa.ro/"
+  },
+  "botosani": {
+    "site": "http://www.primariabt.ro/",
+    "fb": "https://www.facebook.com/primariabotosani"
+  },
+  "budesti": {
+    "site": "http://www.primariebudesti.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "brosteni": {
+    "site": "http://www.primariabrosteni.ro"
+  },
+  "bucuresti": {
+    "site": "https://www.pmb.ro/"
+  },
+  "buzau": {
+    "site": "http://primariabuzau.ro/",
+    "fb": "https://www.facebook.com/primariamunicipiuluibuzau"
+  },
+  "buzias": {
+    "site": "http://www.primariabuzias.ro/"
+  },
+  "buhusi": {
+    "site": "http://www.primariabuhusi.ro/",
+    "fb": "https://www.facebook.com/fscbacau.ro"
+  },
+  "calan": {
+    "site": "http://www.calan.info.ro/"
+  },
+  "bumbesti-jiu": {
+    "site": "http://www.bumbesti-jiu.ro/"
+  },
+  "borcea": {
+    "site": "http://www.primariaborcea.ro/"
+  },
+  "campeni": {
+    "site": "http://www.primariacimpeni.ro"
+  },
+  "baciu": {
+    "site": "http://www.primariabaciu.ro/"
+  },
+  "cernavoda": {
+    "site": "http://www.primaria-cernavoda.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "chirnogi": {
+    "site": "http://primariachirnogi.ro"
+  },
+  "chiajna": {
+    "site": "http://www.primariachiajna.ro",
+    "fb": "https://www.facebook.com/PrimariaChiajnaIlfov"
+  },
+  "cajvana": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/...CAJVANA/190688/"
+  },
+  "cobadin": {
+    "site": "https://primariacobadin.ro/"
+  },
+  "calimanesti": {
+    "site": "https://www.primaria-calimanesti.ro/"
+  },
+  "ciorogarla": {
+    "site": "http://www.primariaciorogarla.ro",
+    "fb": "https://www.facebook.com/primariaciorogarla"
+  },
+  "braila": {
+    "site": "http://www.primariabraila.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiBraila"
+  },
+  "costesti": {
+    "site": "http://costesti-ag.ro/"
+  },
+  "constanta": {
+    "site": "https://www.primaria-constanta.ro/",
+    "fb": "https://www.facebook.com/PrimariaConstanta"
+  },
+  "cudalbi": {
+    "site": "http://www.artelecom.net/primaria.cudalbi/"
+  },
+  "corund": {
+    "site": "http://www.korond.ro/"
+  },
+  "cumpana": {
+    "site": "http://www.primaria-cumpana.ro/",
+    "fb": "https://www.facebook.com/PrimariaCumpanaCT"
+  },
+  "cristuru-secuiesc": {
+    "site": "http://www.keresztur.ro/",
+    "fb": "https://www.facebook.com/SzekelykereszturPolgarmesteriHivatala"
+  },
+  "curcani": {
+    "site": "http://www.primariacurcani.ro/"
+  },
+  "curtici": {
+    "site": "http://www.primariacurtici.ro/",
+    "fb": "https://www.facebook.com/www.strandtermalcurtici.ro"
+  },
+  "city-dragasani-extra": {
+    "site": "http://www.primariadragasani.ro/"
+  },
+  "cugir": {
+    "site": "http://www.primariacugir.ro/"
+  },
+  "chisineu-cris": {
+    "site": "https://primariachisineucris.ro/",
+    "fb": "https://www.facebook.com/chisineucris"
+  },
+  "darmanesti": {
+    "site": "http://www.orasuldarmanesti.ro",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "dolhasca": {
+    "site": "http://www.primariadolhasca.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "deta": {
+    "site": "http://www.detatm.ro/"
+  },
+  "comarnic": {
+    "site": "http://www.comarnic.net/"
+  },
+  "dobroesti": {
+    "site": "http://primariadobroesti.ro"
+  },
+  "dabuleni": {
+    "site": "http://www.primariadabuleni.ro/",
+    "fb": "https://www.facebook.com/primariaorasuluidabuleni"
+  },
+  "faget": {
+    "site": "http://www.primariafaget.ro/"
+  },
+  "draganesti-olt": {
+    "site": "http://www.draganesti-olt.ro/",
+    "fb": "https://www.facebook.com/Dr"
+  },
+  "fieni": {
+    "site": "http://www.fieni.ro/"
+  },
+  "faraoani": {
+    "site": "http://www.comunafaraoani.ro/",
+    "fb": "https://www.facebook.com/PrimariaFaraoani"
+  },
+  "flamanzi": {
+    "site": "https://orasul-flamanzi.ro/"
+  },
+  "frasin": {
+    "site": "http://www.primariaorasuluifrasin.ro/"
+  },
+  "eforie": {
+    "site": "http://www.primariaeforie.ro/",
+    "fb": "https://www.facebook.com/PrimariaEforie"
+  },
+  "diosig": {
+    "site": "http://www.ghidulprimariilor.ro/business.php?PRIMARIA-DIOSIG/17380/"
+  },
+  "galati": {
+    "site": "https://www.primariagalati.ro",
+    "fb": "https://www.facebook.com/primariagl"
+  },
+  "gataia": {
+    "site": "http://www.e-primarii.ro/~gataia/"
+  },
+  "feldru": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-FELDRU/24190/"
+  },
+  "giarmata": {
+    "site": "http://www.primariagiarmata.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "geoagiu": {
+    "site": "http://www.geoagiu.ro/",
+    "fb": "https://www.facebook.com/geoagiu.ro"
+  },
+  "ghiroda": {
+    "site": "http://www.e-primarii.ro/~ghiroda/"
+  },
+  "harman": {
+    "site": "http://www.primaria-harman.ro/"
+  },
+  "gherla": {
+    "site": "http://www.gherla.ro/"
+  },
+  "hateg": {
+    "site": "https://primariehateg.ro/"
+  },
+  "gugesti": {
+    "site": "http://www.primariagugesti.ro/",
+    "fb": "https://www.facebook.com/p"
+  },
+  "giurgiu": {
+    "site": "http://www.primariagiurgiu.ro",
+    "fb": "https://www.facebook.com/p"
+  },
+  "giroc": {
+    "site": "http://www.giroc.ro/",
+    "fb": "https://www.facebook.com/primariagiroctimis"
+  },
+  "harsova": {
+    "site": "http://www.primaria-harsova.ro/"
+  },
+  "huedin": {
+    "site": "http://www.primariahuedin.ro/",
+    "fb": "https://www.facebook.com/UATHuedin"
+  },
+  "fundulea": {
+    "site": "http://www.primaria-fundulea.ro/"
+  },
+  "liteni": {
+    "site": "https://primaria-liteni.ro/",
+    "fb": "https://www.facebook.com/Primaria-Liteni-106900651026144"
+  },
+  "jilava": {
+    "site": "http://www.primariajilava.ro"
+  },
+  "macin": {
+    "site": "http://www.macin.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "iasi": {
+    "site": "https://www.primaria-iasi.ro/",
+    "fb": "https://www.facebook.com/PrimariaMunicipiuluiIasi"
+  },
+  "marginea": {
+    "site": "https://comuna-marginea.ro/"
+  },
+  "maieru": {
+    "site": "http://www.maieru.com/"
+  },
+  "liesti": {
+    "site": "http://www.primaria-liesti.ro"
+  },
+  "ineu": {
+    "site": "https://primariaineu.ro/"
+  },
+  "matca": {
+    "site": "https://www.comunamatca.ro/",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "mosnita-noua": {
+    "site": "http://www.mosnitanoua.ro/"
+  },
+  "modelu": {
+    "site": "http://www.primariamodelu.ro/"
+  },
+  "moisei": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-MOISEI/174314/"
+  },
+  "moldova-noua": {
+    "site": "http://www.moldova-noua.ro/"
+  },
+  "nadlac": {
+    "site": "http://www.primaria-nadlac.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "ciacova": {
+    "site": "http://www.primariaciacova.ro/index.html/"
+  },
+  "ocna-mures": {
+    "site": "http://www.primariaocnamures.ro/",
+    "fb": "https://www.facebook.com/primariaocnamures"
+  },
+  "odobesti": {
+    "site": "http://www.primariaodobesti.ro/",
+    "fb": "https://www.facebook.com/primariaodobestioficial"
+  },
+  "orastie": {
+    "site": "http://www.orastie.info.ro/"
+  },
+  "novaci": {
+    "site": "http://www.novaci-ranca.ro/"
+  },
+  "murfatlar": {
+    "site": "http://www.primaria-murfatlar.ro/",
+    "fb": "https://www.facebook.com/primariamurfatlar"
+  },
+  "pancota": {
+    "site": "https://primariapancota.ro/"
+  },
+  "otelu-rosu": {
+    "site": "http://www.otelu-rosu.ro/"
+  },
+  "pechea": {
+    "site": "http://pechea.info"
+  },
+  "patarlagele": {
+    "site": "http://www.primariapatarlagele.ro"
+  },
+  "oituz": {
+    "site": "http://www.primariaoituz.ro",
+    "fb": "https://www.facebook.com/Primaria-comunei-Oituz-100168251632238"
+  },
+  "petrila": {
+    "site": "http://www.orasulpetrila.ro/",
+    "fb": "https://www.facebook.com/Primaria-orasului-Petrila-411636552270160"
+  },
+  "miercurea-nirajului": {
+    "site": "https://www.miercureanirajului.ro",
+    "fb": "https://www.facebook.com/nyszereda"
+  },
+  "piatra-olt": {
+    "site": "http://www.primariapiatraolt.ro/"
+  },
+  "city-gura-humorului": {
+    "site": "https://primariagurahumorului.ro",
+    "fb": "https://www.facebook.com/primariagh"
+  },
+  "horodnic-de-sus": {
+    "site": "https://horodnicdesus.ro/",
+    "fb": "https://www.facebook.com/caidelegenda.hardic"
+  },
+  "poiana-mare": {
+    "site": "http://www.poianamare.ro"
+  },
+  "prejmer": {
+    "site": "http://www.zarnesti.go.ro/"
+  },
+  "poienile-de-sub-munte": {
+    "site": "https://pdsm.ro/"
+  },
+  "podu-iloaiei": {
+    "site": "http://primariapoduiloaiei.blogspot.ro/"
+  },
+  "piatra-neamt": {
+    "site": "http://www.neamt.ro/"
+  },
+  "racari": {
+    "site": "http://www.primariaracari.ro/"
+  },
+  "potcoava": {
+    "site": "http://primariapotcoava.judetulolt.ro/"
+  },
+  "recas": {
+    "site": "http://www.primariarecas.ro/"
+  },
+  "rodna": {
+    "site": "http://comunarodna.ro/"
+  },
+  "rosiori-de-vede": {
+    "site": "http://www.rosioridevede.ro/"
+  },
+  "roznov": {
+    "site": "http://www.roznov.ro/"
+  },
+  "sabaoani": {
+    "site": "https://www.sabaoani.ro/",
+    "fb": "https://www.facebook.com/sabaoani.ro"
+  },
+  "rucar": {
+    "site": "http://www.primariarucar.ro",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "sacalaz": {
+    "site": "https://primariasacalaz.ro/"
+  },
+  "rasnov": {
+    "site": "https://www.primariarasnov.ro/",
+    "fb": "https://www.facebook.com/primariarasnov"
+  },
+  "salcea": {
+    "site": "http://www.primariasalcea.ro/"
+  },
+  "saliste": {
+    "site": "https://saliste-sibiu.ro/",
+    "fb": "https://www.facebook.com/primariasaliste"
+  },
+  "sacueni": {
+    "site": "http://www.sacueni.ro/"
+  },
+  "ruscova": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-RUSCOVA/174327/"
+  },
+  "paunesti": {
+    "site": "http://www.paunesti.ro/"
+  },
+  "sag": {
+    "site": "http://www.e-primarii.ro/~sag-tm/"
+  },
+  "sanpetru": {
+    "site": "http://www.sanpetru.ro",
+    "fb": "https://www.facebook.com/Brussland-679415028821881"
+  },
+  "sarmasu": {
+    "site": "https://orasulsarmasu.ro/"
+  },
+  "santandrei": {
+    "site": "https://www.primariasantandrei.ro/"
+  },
+  "roseti": {
+    "site": "http://comunaroseti.ro/"
+  },
+  "sancraiu-de-mures": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-SANCRAIU-DE-MURES/73825/"
+  },
+  "sandominic": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-SANDOMINIC/64788/"
+  },
+  "sebis": {
+    "site": "http://www.primariasebis.ro/",
+    "fb": "https://www.facebook.com/Primaria-Orasului-Sebis-574270016400379"
+  },
+  "sangeorgiu-de-mures": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-SANGEORGIU-DE-MURES/73853/"
+  },
+  "selimbar": {
+    "site": "http://www.primariaselimbar.ro/",
+    "fb": "https://www.facebook.com/PrimariaSelimbar"
+  },
+  "seini": {
+    "site": "https://seini.ro/",
+    "fb": "https://www.facebook.com/2008"
+  },
+  "satu-mare": {
+    "site": "https://www.primariasm.ro/",
+    "fb": "https://www.facebook.com/primariasatumare"
+  },
+  "siret": {
+    "site": "http://www.siretromania.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "sibiu": {
+    "site": "http://www.sibiu.ro/",
+    "fb": "https://www.facebook.com/pages"
+  },
+  "murgeni": {
+    "site": "http://primaria-murgeni.ro/index.php?rewriteparam=proiecte_investitionale"
+  },
+  "segarcea": {
+    "site": "http://www.primariasegarcea.ro/"
+  },
+  "suraia": {
+    "site": "https://www.suraia.primarievn.ro/"
+  },
+  "stei": {
+    "site": "http://www.primariastei.ro"
+  },
+  "savinesti": {
+    "site": "http://www.savinesti.ro"
+  },
+  "somcuta-mare": {
+    "site": "http://www.somcutamare.ro/"
+  },
+  "suceava": {
+    "site": "https://www.primariasv.ro/",
+    "fb": "https://www.facebook.com/MunicipiulSuceava"
+  },
+  "targu-ocna": {
+    "site": "https://www.orasul-targuocna.ro/",
+    "fb": "https://www.facebook.com/PrimariaOrasuluiTarguOcna"
+  },
+  "targu-lapus": {
+    "site": "http://www.primariatargulapus.ro/"
+  },
+  "tarlungeni": {
+    "site": "https://www.comunatarlungeni.ro",
+    "fb": "https://www.facebook.com/comunatarlungeni"
+  },
+  "tautii-magheraus": {
+    "site": "http://www.tautiimagheraus.ro/",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "targu-carbunesti": {
+    "site": "http://www.primariacarbunesti.ro/"
+  },
+  "teius": {
+    "site": "http://www.primariateius.ro/"
+  },
+  "topoloveni": {
+    "site": "http://www.topoloveni.ro/",
+    "fb": "https://www.facebook.com/OrasTopoloveni"
+  },
+  "turceni": {
+    "site": "http://www.turceni.ro/"
+  },
+  "tuzla": {
+    "site": "https://grad.tuzla.ba/"
+  },
+  "tarnaveni": {
+    "site": "http://www.primariatarnaveni.ro/"
+  },
+  "uricani": {
+    "site": "http://www.orasuluricani.ro/",
+    "fb": "https://www.facebook.com/profile.php"
+  },
+  "ungheni": {
+    "site": "http://www.ungheni.md"
+  },
+  "siria": {
+    "site": "http://www.primariasiria.ro/"
+  },
+  "valea-lupului": {
+    "site": "http://comuna-valealupului.ro/",
+    "fb": "https://www.facebook.com/primariavalealupului"
+  },
+  "valea-lui-mihai": {
+    "site": "http://www.valealuimihai.ro/"
+  },
+  "turt": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-TURT/77908/"
+  },
+  "sovata": {
+    "site": "http://www.primariasovata.ro/?l=ro",
+    "fb": "https://www.facebook.com/Szov"
+  },
+  "vatra-dornei": {
+    "site": "http://www.vatra-dornei.ro/"
+  },
+  "vicovu-de-sus": {
+    "site": "https://primaria-vicovudesus.ro/",
+    "fb": "https://www.facebook.com/Prim"
+  },
+  "vicovu-de-jos": {
+    "site": "http://www.primariavicovudejos.ro"
+  },
+  "valu-lui-traian": {
+    "site": "http://www.valu-lui-traian.ro/",
+    "fb": "https://www.facebook.com/Primaria-Valu-Lui-Traian-576035032553812"
+  },
+  "viseu-de-jos": {
+    "site": "http://www.ghidulpimariilo.ro/business.php/PRIMARIA-VISEU-DE-JOS/201564/"
+  },
+  "vaslui": {
+    "site": "https://www.primariavs.ro/",
+    "fb": "https://www.facebook.com/PrimariaVaslui"
+  },
+  "vlahita": {
+    "site": "http://www.primariavlahita.ro/",
+    "fb": "https://www.facebook.com/szentegyhazavaros"
+  },
+  "videle": {
+    "site": "http://www.primariavidele.ro/"
+  },
+  "zlatna": {
+    "site": "http://www.primaria-zlatna.ro/"
+  },
+  "tismana": {
+    "site": "http://www.primariatismana.ro"
+  },
+  "volovat": {
+    "site": "http://www.comunavolovat.ro"
+  },
+  "voitinel": {
+    "site": "http://www.comunavoitinel.ro"
+  },
+  "simeria": {
+    "site": "http://www.primariasimeria.ro/"
+  },
+  "titu": {
+    "site": "http://primariatitu.ro/"
+  },
+  "ro-poi-slatina": {
+    "site": "http://www.primariaslatina.ro/"
+  },
+  "cristian": {
+    "site": "http://www.ghidulprimariilor.ro/business.php/PRIMARIA-CRISTIAN/35095/"
+  },
+  "stefanesti": {
+    "site": "https://orasulstefanesti-bt.ro/",
+    "fb": "https://www.facebook.com/florin.butura"
+  },
+  "victoria": {
+    "site": "http://comunavictoria.ro/"
+  },
+  "vladimirescu": {
+    "site": "https://www.primariavladimirescu.ro/",
+    "fb": "https://www.facebook.com/Primaria-Comunei-Vladimirescu-pagina-oficiala-357325917801711"
+  }
+}

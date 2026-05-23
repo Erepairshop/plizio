@@ -32,6 +32,16 @@ const {
   getCountryId,
 } = slugs;
 
+// Load official links (POI id → {site, fb}) once at startup. Renders inline
+// in each POI page next to the news block. Missing file → empty map.
+let OFFICIAL_LINKS: Record<string, { site?: string; fb?: string }> = {};
+try {
+  const olPath = path.resolve(process.cwd(), "public", "data", "official-links.json");
+  if (fs.existsSync(olPath)) {
+    OFFICIAL_LINKS = JSON.parse(fs.readFileSync(olPath, "utf-8"));
+  }
+} catch {}
+
 // Load FULL POI data (with description/facts/advanced) directly via TS imports
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
@@ -508,6 +518,21 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     en: { heading: "Recent News", via: "via" },
   };
   const nc = newsCopy[lang] || newsCopy.en;
+
+  // Official links (site + Facebook) — emitted next to the news block so users
+  // can jump straight to municipal channels. Build-time read.
+  let officialLinksHtml = "";
+  try {
+    const links = (OFFICIAL_LINKS as Record<string, { site?: string; fb?: string }>)[poi.id];
+    if (links?.site || links?.fb) {
+      const siteLabel: Record<Lang, string> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website" };
+      const buttons: string[] = [];
+      if (links.site) buttons.push(`<a href="${escapeHtml(links.site)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-site">🌐 ${escapeHtml(siteLabel[lang] || siteLabel.en)}</a>`);
+      if (links.fb) buttons.push(`<a href="${escapeHtml(links.fb)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-fb">📘 Facebook</a>`);
+      officialLinksHtml = `<div class="plz-official-links">${buttons.join("")}</div>`;
+    }
+  } catch {}
+
   let newsHtml = "";
   try {
     const newsFp = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
@@ -604,7 +629,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${audioHtml}
   <div class="plz-hero-grid">
     <div class="plz-hero-grid-main">${heroHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${newsHtml}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}

@@ -511,6 +511,17 @@ const InteractiveMapInner = ({
       .catch(() => setSightsById((prev) => ({ ...prev, [selectedPoiId]: {} })));
   }, [selectedPoiId, selectedPoiBase, sightsById]);
 
+  // Lazy-fetch official links index (POI id → { site, fb }) for popup buttons.
+  // One small JSON for the whole site, loaded on first POI select.
+  const [officialLinks, setOfficialLinks] = useState<Record<string, { site?: string; fb?: string }> | null>(null);
+  useEffect(() => {
+    if (!selectedPoiId || officialLinks !== null) return;
+    fetch("/data/official-links.json")
+      .then((r) => (r.ok ? r.json() : {}))
+      .then((data) => setOfficialLinks(data && typeof data === "object" ? data : {}))
+      .catch(() => setOfficialLinks({}));
+  }, [selectedPoiId, officialLinks]);
+
   // Lazy-fetch per-country POI JSON for description/facts (SEO_POIS lite drops
   // them to keep the JS bundle small). Cache by country code; one fetch per
   // country per session. Derive CC from POI.parent (e.g. "RO-SM" -> "RO").
@@ -1418,11 +1429,21 @@ const InteractiveMapInner = ({
             </div>
 
             <div>
-              {selectedPoi.description?.[displayLang] && (
-                <p className="text-white/75 text-sm leading-relaxed mb-2">
-                  {selectedPoi.description[displayLang]}
-                </p>
-              )}
+              {(() => {
+                // Prefer first sentence of descriptionAdvanced for richer popup text;
+                // fall back to the popup-sized `description` until heavy data loads.
+                const advDesc = (selectedPoi as POI & { descriptionAdvanced?: POI["description"] }).descriptionAdvanced?.[displayLang];
+                let teaser: string | undefined;
+                if (advDesc) {
+                  const m = advDesc.match(/^[^.!?]+[.!?]/);
+                  teaser = (m ? m[0] : advDesc.slice(0, 200)).trim();
+                } else {
+                  teaser = selectedPoi.description?.[displayLang];
+                }
+                return teaser ? (
+                  <p className="text-white/75 text-sm leading-relaxed mb-2">{teaser}</p>
+                ) : null;
+              })()}
 
               {(() => {
                 const v = getPoiVideo(selectedPoi);
@@ -1439,10 +1460,12 @@ const InteractiveMapInner = ({
               })()}
 
               {(() => {
-                const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
+                // Prefer first 3 advanced facts; fall back to base facts when heavy
+                // data hasn't loaded yet.
                 const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
-                const useAdv = grade >= 5 && advFactsRaw.length > 0;
-                const allFacts = useAdv ? [...baseFacts, ...advFactsRaw] : baseFacts;
+                const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
+                const source = advFactsRaw.length > 0 ? advFactsRaw : baseFacts;
+                const allFacts = source.slice(0, 3);
                 if (allFacts.length === 0) return null;
                 return (
                   <div className="flex flex-wrap gap-1.5">
@@ -1454,6 +1477,35 @@ const InteractiveMapInner = ({
                         {f}
                       </span>
                     ))}
+                  </div>
+                );
+              })()}
+
+              {(() => {
+                const links = officialLinks?.[selectedPoi.id];
+                if (!links?.site && !links?.fb) return null;
+                return (
+                  <div className="mt-3 flex gap-2">
+                    {links.site && (
+                      <a
+                        href={links.site}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 flex items-center justify-center gap-1.5 rounded-lg border border-emerald-400/30 px-3 py-1.5 text-xs text-emerald-200 hover:border-emerald-300/50 hover:bg-emerald-500/10"
+                      >
+                        🌐 {displayLang === "hu" ? "Honlap" : displayLang === "ro" ? "Site" : displayLang === "en" ? "Website" : "Webseite"}
+                      </a>
+                    )}
+                    {links.fb && (
+                      <a
+                        href={links.fb}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 flex items-center justify-center gap-1.5 rounded-lg border border-blue-400/30 px-3 py-1.5 text-xs text-blue-200 hover:border-blue-300/50 hover:bg-blue-500/10"
+                      >
+                        📘 Facebook
+                      </a>
+                    )}
                   </div>
                 );
               })()}
