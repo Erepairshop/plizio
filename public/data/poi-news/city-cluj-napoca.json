@@ -9,13 +9,13 @@
     "date": "Fri, 22 May 2026 13:38:22 +0300"
   },
   {
-    "title": "Weekly Tech News - 22.05.2026",
-    "snippet": "Rubrică oferită de partenerul dvs. în tehnologie – TAZ IT",
-    "url": "https://zcj.ro/tehnologie/weekly-tech-news-22052026--296326.html",
+    "title": "Daniel Pancu a confirmat despărțirea de CFR Cluj: \"Mi se îndeplinesc foarte multe condiții în altă parte\"",
+    "snippet": "Antrenorul în vârstă de 48 de ani pleacă din Gruia după un mandat început în luna noiembrie.",
+    "url": "https://zcj.ro/sport/daniel-pancu-a-confirmat-despartirea-de-cfr-cluj-mi-se-indeplinesc-foarte-multe-conditii-in-alta-parte--296327.html",
     "source": "Ziua de Cluj",
     "lang": "ro",
     "scope": "city",
-    "date": "Fri, 22 May 2026 23:50:00 +0300"
+    "date": "Sat, 23 May 2026 08:46:00 +0300"
   },
   {
     "title": "Primăria Cluj-Napoca scoate la licitație pasajul de la Oașului – Muncii: contract de aproape 84 de milioane de lei pentru unul dintre cele mai aglomerate noduri rutiere din oraș",
@@ -27,13 +27,13 @@
     "date": "Fri, 22 May 2026 12:52:53 +0000"
   },
   {
-    "title": "CFR Cluj – FC Argeș 1-1. Vișiniii nu câștigă la retragerea lui Deac",
-    "snippet": "CFR Cluj a încheiat la egalitate pe teren propriu contra FC Argeș, scor 1-1, în ultima etapă din play-off-ul Superligii. Meciul a fost ultimul din carieră pentru Ciprian Deac, veteranul din atacul vișiniiilor.",
-    "url": "https://www.monitorulcj.ro/sport/137592-cfr-cluj-fc-arges-1-1-visiniii-nu-castiga-la-retragerea-lui-deac",
+    "title": "Vreme frumoasă și temperaturi de primăvară cu maxime de 25 de grade. Prognoza meteo pentru Cluj.",
+    "snippet": "Weekend cu vreme frumoasă și temperaturi de primăvară. Prognoza meteo pentru Cluj.",
+    "url": "https://www.monitorulcj.ro/actualitate/137593-vreme-frumoasa-si-temperaturi-de-primavara-cu-maxime-de-25-de-grade-prognoza-meteo-pentru-cluj",
     "source": "Monitorul de Cluj",
     "lang": "ro",
     "scope": "county",
-    "date": "Sat, 23 May 2026 00:04:10 +0300"
+    "date": "Sat, 23 May 2026 07:56:26 +0300"
   },
   {
     "title": "După succesul de la Eurovision, România speră la un nou trofeu internațional la World Choir Games din Suedia. Corul “Junior Vip” din Cluj-Napoca este singurul participant din țară și este deja calific",
@@ -45,13 +45,13 @@
     "date": "Fri, 22 May 2026 06:25:40 +0000"
   },
   {
-    "title": "Clujul, între trafic, turism și business: de ce crește interesul pentru mașini închiriate",
-    "snippet": "Clujul s-a consolidat în ultimii ani ca unul dintre cele mai dinamice orașe din România, atât din punct de vedere economic, cât și turistic.",
-    "url": "https://zcj.ro/promo/clujul-intre-trafic-turism-si-business-de-ce-creste-interesul-pentru-masini-inchiriate--296325.html",
+    "title": "Weekly Tech News - 22.05.2026",
+    "snippet": "Rubrică oferită de partenerul dvs. în tehnologie – TAZ IT",
+    "url": "https://zcj.ro/tehnologie/weekly-tech-news-22052026--296326.html",
     "source": "Ziua de Cluj",
     "lang": "ro",
     "scope": "city",
-    "date": "Fri, 22 May 2026 23:40:00 +0300"
+    "date": "Fri, 22 May 2026 23:50:00 +0300"
   },
   {
     "title": "Bloc din Cluj-Napoca afectat de incendiu la ghena de gunoi, zeci de locatari autoevacuați în toiul nopții",
@@ -63,6 +63,24 @@
     "date": "Fri, 22 May 2026 06:44:18 +0000"
   },
   {
+    "title": "CFR Cluj – FC Argeș 1-1. Vișiniii nu câștigă la retragerea lui Deac",
+    "snippet": "CFR Cluj a încheiat la egalitate pe teren propriu contra FC Argeș, scor 1-1, în ultima etapă din play-off-ul Superligii. Meciul a fost ultimul din carieră pentru Ciprian Deac, veteranul din atacul vișiniiilor.",
+    "url": "https://www.monitorulcj.ro/sport/137592-cfr-cluj-fc-arges-1-1-visiniii-nu-castiga-la-retragerea-lui-deac",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 00:04:10 +0300"
+  },
+  {
+    "title": "Clujul, între trafic, turism și business: de ce crește interesul pentru mașini închiriate",
+    "snippet": "Clujul s-a consolidat în ultimii ani ca unul dintre cele mai dinamice orașe din România, atât din punct de vedere economic, cât și turistic.",
+    "url": "https://zcj.ro/promo/clujul-intre-trafic-turism-si-business-de-ce-creste-interesul-pentru-masini-inchiriate--296325.html",
+    "source": "Ziua de Cluj",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 23:40:00 +0300"
+  },
+  {
     "title": "A crescut îngrijorător numărul urșilor la Cluj. Au produs pagube de mii de lei în 2026.",
     "snippet": "Creșterea prezenței urșilor printre oameni este o realitate îngrijorătoare în județul Cluj, în special în luna mai 2026.",
     "url": "https://www.monitorulcj.ro/actualitate/137591-a-crescut-ingrijorator-numarul-ursilor-la-cluj-au-produs-pagube-de-zeci-de-mii-de-lei-in-2026",
@@ -70,24 +88,6 @@
     "lang": "ro",
     "scope": "county",
     "date": "Fri, 22 May 2026 19:39:05 +0300"
-  },
-  {
-    "title": "Octofun, școala pornită dintr-o întrebare simplă: \"De ce copilul meu nu merge fericit la școală?\"",
-    "snippet": "Tot mai mulți părinți caută astăzi altceva de la școală decât note, disciplină rigidă și acumulare brutală de informații. Vor un loc în care copiii să fie ascultați, înțeleși și ajutați să se dezvolte emoțional.",
-    "url": "https://zcj.ro/promo/octofun-scoala-pornita-dintr-o-intrebare-simpla-de-ce-copilul-meu-nu-merge-fericit-la-scoala--296324.html",
-    "source": "Ziua de Cluj",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 22:30:00 +0300"
-  },
-  {
-    "title": "Reguli mai stricte în școli. Telefoanele ar putea fi INTERZISE în timpul orelor, iar elevii monitorizați video",
-    "snippet": "Un proiect de lege prevede monitorizarea audio-video în școli și interzicerea telefoanelor mobile în timpul orelor.",
-    "url": "https://www.monitorulcj.ro/actualitate/137590-telefoanele-ar-putea-fi-interzise-in-scoli-iar-elevii-supravegheati-video",
-    "source": "Monitorul de Cluj",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 18:44:36 +0300"
   },
   {
     "title": "Cum s-a produs accidentul mortal de azi din Cluj-Napoca, soldat cu decesul unui motociclist",
@@ -99,6 +99,24 @@
     "date": "Thu, 21 May 2026 12:47:36 +0000"
   },
   {
+    "title": "România primește 16,68 miliarde de euro: Comisia Europeană a semnat acordul SAFE",
+    "snippet": "Comisia Europeană a semnat acordul de finanțare în cadrul programului SAFE, prin care România va primi 16,68 miliarde de euro pentru apărare și industria de armament. MApN așteaptă ratificarea de către Parlament a acordului pentru a putea încheia contractele.",
+    "url": "https://www.monitorulcj.ro/actualitate/137572-romania-primeste-1668-miliarde-de-euro-comisia-europeana-a-semnat-acordul-safe",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 08:33:15 +0300"
+  },
+  {
+    "title": "Vreme instabilă, ploi și maxime de 24 de grade.",
+    "snippet": "Vremea se menține instabilă la început de weekend cu șanse crescute de ploi și maxime de 24 de grade. Prognoza meteo pentru Cluj.",
+    "url": "https://www.monitorulcj.ro/actualitate/137571-vreme-instabila-ploi-si-maxime-de-24-de-grade",
+    "source": "Monitorul de Cluj",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 08:00:55 +0300"
+  },
+  {
     "title": "Floreștiul va avea un campus universitar pentru studenții la medicină. Pivariu: „Chiar e un proiect imens, acolo va fi un întreg hub!”",
     "snippet": "Primarul comunei Florești, Bogdan Pivariu, a anunțat că administrația locală are un acord pentru construirea unui campus universitar destinat studenților la medicină.",
     "url": "https://www.monitorulcj.ro/floresti/137570-florestiul-va-avea-un-campus-universitar-pentru-studentii-la-medicina-pivariu-chiar-e-un-proiect-imens-acolo-va-fi-un-intreg-hub",
@@ -106,42 +124,6 @@
     "lang": "ro",
     "scope": "county",
     "date": "Thu, 21 May 2026 21:24:39 +0300"
-  },
-  {
-    "title": "Motociclistul rănit azi într-un tragic accident de circulație pe strada Făgetului din Cluj-Napoca a decedat",
-    "snippet": "Motociclistul rănit azi într-un tragic accident de circulație pe strada Făgetului din Cluj-Napoca a decedat, în ciuda manevrelor de resuscitare ce au durat mai bine...",
-    "url": "https://actualdecluj.ro/motociclistul-ranit-azi-intr-un-tragic-accident-de-circulatie-pe-strada-fagetului-din-cluj-napoca-a-decedat/",
-    "source": "Actual de Cluj",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 11:07:15 +0000"
-  },
-  {
-    "title": "Blindatele Lynx pentru Armata Română vor fi fabricate la Mediaș. Contractul depășește 5 miliarde de euro",
-    "snippet": "Blindatele moderne Lynx destinate Armatei Române vor fi produse la Mediaș, în cadrul celui mai mare contract militar din istoria României.",
-    "url": "https://www.monitorulcj.ro/stiri-din-transilvania/137569-blindatele-lynx-pentru-armata-romana-vor-fi-fabricate-la-medias-contractul-depaseste-5-miliarde-de-euro",
-    "source": "Monitorul de Cluj",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Thu, 21 May 2026 21:12:49 +0300"
-  },
-  {
-    "title": "„Ciocanul vrăjitoarelor” din 1487 a provocat scandal la Iași. Organizatorii unei expoziții au chemat Poliția",
-    "snippet": "Un exemplar original al celebrei cărți medievale „Malleus Maleficarum” („Ciocanul vrăjitoarelor”), tipărit în anul 1487, a ajuns în centrul unui scandal uriaș la Iași.",
-    "url": "https://www.monitorulcj.ro/nationale/137568-ciocanul-vrajitoarelor-din-1487-a-provocat-scandal-la-iasi-organizatorii-unei-expozitii-au-chemat-politia",
-    "source": "Monitorul de Cluj",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Thu, 21 May 2026 19:36:30 +0300"
-  },
-  {
-    "title": "XIV. Leó: a mesterséges intelligencia fejlődése az emberi lét értelme hanyatlásához vezet",
-    "snippet": "A mesterséges intelligencia fejlődésével az emberi létezés értelme hanyatlását éljük meg, ami nem technológiai, hanem antropológiai kihívásnak számít - jelentette ki XIV. Leó pápa pénteken kiadás előtt álló enciklikája témáit ismertetve.",
-    "url": "https://szabadsag.ro/article/xiv-leo-mesterseges-intelligencia-fejlodese-az-emberi-let-ertelme-hanyatlasahoz-vezet",
-    "source": "Szabadság",
-    "lang": "hu",
-    "scope": "regional",
-    "date": "2026. május 22."
   },
   {
     "title": "Lufthansa a suspendat zborurile spre Sibiu și Cluj-Napoca, cu posibile efecte și în județul Alba. Protest al comunității germane",
@@ -153,6 +135,24 @@
     "date": "Tue, 21 Apr 2026 05:57:40 +0000"
   },
   {
+    "title": "Anunț privind închirierea prin licitaţie publică a terenului destinat amplasării terasei de alimentaţie publică T4, situată în municipiul Cluj-Napoca, pe strada Emil Isac, latura sudică",
+    "snippet": "Documentația de atribuire Plan ANUNȚ LICITAȚIE PUBLICĂ privind închirierea prin licitaţie publică a terenului destinat amplasării terasei de alimentaţie publică T4, situată în municipiul Cluj-Napoca, pe strada Emil Isac, latura sudică Autoritate contractantă: Consiliul Local al Municipiului Cluj-Nap",
+    "url": "https://primariaclujnapoca.ro/anunt-privind-inchirierea-prin-licitatie-publica-a-terenului-destinat-amplasarii-terasei-de-alimentatie-publica-t4-situata-in-municipiul-cluj-napoca-pe-strada-emil-isac-latura-sudica/",
+    "source": "primariaclujnapoca.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 10 Jul 2024 09:31:33 +0000"
+  },
+  {
+    "title": "Garden of Lights își deschide porțile la Cluj-Napoca",
+    "snippet": "Expoziția Small World pentru prima dată în România Începând cu 15 noiembrie, locuitorii Clujului și cei din împrejurimi sunt invitați să participe la o experiență inedită, ce îmbină magia poveștilor cu tehnologia și creativitatea. „Garden of Lights” va fi deschisă în Grădina Botanică „Alexandru Borz",
+    "url": "https://gradinabotanica.ubbcluj.ro/2024/11/15/garden-of-lights-isi-deschide-portile-la-cluj-napoca/",
+    "source": "gradinabotanica.ubbcluj.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Fri, 15 Nov 2024 07:33:28 +0000"
+  },
+  {
     "title": "Premieră pe piața turistică: zbor charter direct Riga – Cluj-Napoca pentru promovarea Transilvaniei",
     "snippet": "Cluj-Napoca, martie 2026 – Piața turistică din Transilvania marchează o premieră importantă: un zbor charter...",
     "url": "https://www.floresti24.ro/premiera-pe-piata-turistica-zbor-charter-direct-riga-cluj-napoca-pentru-promovarea-transilvaniei/",
@@ -160,15 +160,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Mon, 09 Mar 2026 13:19:11 +0000"
-  },
-  {
-    "title": "Bodor Ádám: erdélyi vagyok, ez kitörölhetetlen",
-    "snippet": "A kilencvenéves Bodor Ádámot köszönthették tisztelői, olvasói Kolozsváron a magyar főkonzulátus főtéri rendezvénytermében május 21-én, csütörtökön délután. A jelenlevőket Grezsa Csaba főkonzul és Karácsonyi Zsolt, a Helikon főszerkesztője üdvözölte, és bemutatták az irodalmi folyóirat Kossuth-díjas ",
-    "url": "https://szabadsag.ro/article/bodor-adam-erdelyi-vagyok-ez-kitorolhetetlen",
-    "source": "Szabadság",
-    "lang": "hu",
-    "scope": "regional",
-    "date": "2026. május 22."
   },
   {
     "title": "Bărbat suspectat de pornografie infantilă, prins în județul Alba. Dosar instrumentat de DIICOT și BCCO Cluj-Napoca",
@@ -180,12 +171,21 @@
     "date": "Wed, 28 Jan 2026 15:40:55 +0000"
   },
   {
-    "title": "Nem írta alá az államfő a medvekvóta megduplázását előíró RMDSZ-kezdeményezést",
-    "snippet": "Alkotmányossági kifogást emelt Nicuşor Dan államfő a törvénytervezet ellen, miszerint idén országos szinten 859 barnamedve kilövését engedélyeznék. Tánczos Barna ügyvivő mezőgazdasági és vidékfejlesztési miniszter sajnálatát fejezte ki, hogy az államelnök nem hirdette ki az RMDSZ által kezdeményezet",
-    "url": "https://szabadsag.ro/article/nem-irta-ala-az-allamfo-medvekvota-megduplazasat-eloiro-rmdsz-kezdemenyezest",
-    "source": "Szabadság",
-    "lang": "hu",
-    "scope": "regional",
-    "date": "2026. május 22."
+    "title": "Notificare exproprieri  92/39801/16.04.2024 emisă în baza art. 8 alin. 1 din Legea 255/2010- Drum Transregio Feleac TR 35, Etapa I Centura Metropolitană TR 35 și Drumuri de Legătură – Tronson I",
+    "snippet": "Articolul Notificare exproprieri 92/39801/16.04.2024 emisă în baza art. 8 alin. 1 din Legea 255/2010- Drum Transregio Feleac TR 35, Etapa I Centura Metropolitană TR 35 și Drumuri de Legătură Tronson I apare prima dată în Cluj-Napoca .",
+    "url": "https://primariaclujnapoca.ro/notificare-exproprieri-92-39801-16-04-2024-emisa-in-baza-art-8-alin-1-din-legea-255-2010-drum-transregio-feleac-tr-35-etapa-i-centura-metropolitana-tr-35-si-drumuri-de-legatura-tronson-i/",
+    "source": "primariaclujnapoca.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Thu, 18 Apr 2024 12:41:21 +0000"
+  },
+  {
+    "title": "Regulamentele procedurilor administrative",
+    "snippet": "Articolul Regulamentele procedurilor administrative apare prima dată în Cluj-Napoca .",
+    "url": "https://primariaclujnapoca.ro/regulamentele-procedurilor-administrative/",
+    "source": "primariaclujnapoca.ro (oficial)",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 13 Apr 2022 08:36:26 +0000"
   }
 ]

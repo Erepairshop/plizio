@@ -34,5 +34,77 @@
     "lang": "ro",
     "scope": "county",
     "date": "Thu, 21 May 2026 12:40:31 +0000"
+  },
+  {
+    "title": "Certificate de Urbanism",
+    "snippet": "Certificate de Urbanism lista certificatelor de urbanism emise",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Certificate+de+Urbanism-00001AAE?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Autorizații de Construire",
+    "snippet": "Autorizații de Construire lista autorizațiilor de construire/desființare emise",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Autorizatii+de+Construire-00001AB2?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Formulare online",
+    "snippet": "Formulare online",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Formulare+online-00001ADA?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Impozite și Taxe Locale",
+    "snippet": "Impozite și Taxe Locale",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/566DC48953616E54C225856E004AD422?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Hotărârile Consiliului Local",
+    "snippet": "Hotărârile Consiliului Local",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Hotararile+Consiliului+Local-00001A4E?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Urbanism",
+    "snippet": "Urbanism",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Urbanism-00006EEA?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Căutare în registratură",
+    "snippet": "Căutare în registratură verifică stadiul cererii tale",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/Cautare+in+registratura-00001AD2?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "PRNV 2021 - 2027",
+    "snippet": "PRNV 2021 - 2027 proiecte finanțate prin programul regional nord vest 2021 – 2027",
+    "url": "http://www.zalausj.ro/portal/zalau/portal.nsf/AllByUNID/809532B484977D82C2258CCE002DFA74?OpenDocument",
+    "source": "zalausj.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
   }
 ]
