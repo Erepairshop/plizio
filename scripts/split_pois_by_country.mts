@@ -32,11 +32,12 @@ function popToTier(pop: number): 1 | 2 | 3 | 4 | 5 {
 // Priority order:
 //   1) p.population field set directly on the POI (preferred, language-agnostic)
 //   2) HU_POP lookup table (legacy HU coverage)
-//   3) Default tier 1 (visible) if no data — never hide for lack of data
+//   3) Default tier 4 if no data — small-town tier so villages without population
+//      don't pollute the default T1+T2 view (Domnești was showing up at T1).
 function cityTier(p: { id: string; population?: number }): 1 | 2 | 3 | 4 | 5 {
   if (typeof p.population === "number" && p.population > 0) return popToTier(p.population);
   const pop = HU_POP[p.id];
-  return pop !== undefined ? popToTier(pop) : 1;
+  return pop !== undefined ? popToTier(pop) : 4;
 }
 
 // Pull build helpers from slugs (lite — no heavy text).
