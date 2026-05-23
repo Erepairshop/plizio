@@ -1,14 +1,5 @@
 [
   {
-    "title": "Kigyulladt a buzsáki önkormányzat épülete",
-    "snippet": "Az épületben senki nem tartózkodott. The post Kigyulladt a buzsáki önkormányzat épülete first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2018/03/25/buzsak-onkormanyzat-tuz/",
-    "source": "24.hu/Buzsák",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 25 Mar 2018 11:52:22 +0000"
-  },
-  {
     "title": "A föld alá is belesnek majd: közös projektbe fogott a Mol és a török állami vállalat",
     "snippet": "Feltérképezik a dunántúli koncessziós területek esetleges kőolaj- és földgázkészleteit.",
     "url": "https://index.hu/gazdasag/2025/12/08/mol-magyar-torok-szenhidrogen-kutatas-dunantul/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 08 Dec 2025 17:56:00 +0100"
+  },
+  {
+    "title": "Kigyulladt a buzsáki önkormányzat épülete",
+    "snippet": "Az épületben senki nem tartózkodott. The post Kigyulladt a buzsáki önkormányzat épülete first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2018/03/25/buzsak-onkormanyzat-tuz/",
+    "source": "24.hu/Buzsák",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 25 Mar 2018 11:52:22 +0000"
   },
   {
     "title": "Agrárium 2026-Gazdaságszerkezeti összeírás",

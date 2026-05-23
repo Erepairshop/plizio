@@ -1,14 +1,5 @@
 [
   {
-    "title": "Erdőtüzek tombolnak az Alföldön, lakóházak is veszélybe kerültek",
-    "snippet": "Nyárfapihe és szalmabálák kaptak lángra.",
-    "url": "https://index.hu/belfold/2026/05/09/erdotuz-kecskemet-pilis-cserkeszolo-aljnovenyzet-katasztrofavedelem/",
-    "source": "index.hu/Pilis",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 09 May 2026 21:43:00 +0200"
-  },
-  {
     "title": "„Miért lenne bizalom?” – akkumulátorfeldolgozó ellen tüntettek Pilisjászfalun",
     "snippet": "Nemcsak a Samsung gödi gyárából, hanem külföldről is hoznának akkumulátorgyártási hulladékot Pilisjászfalura. The post „Miért lenne bizalom?” – akkumulátorfeldolgozó ellen tüntettek Pilisjászfalun first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/02/14/pilisjaszfalu-akkuhulladek-tuntetes/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 14 Feb 2026 06:50:25 +0000"
+  },
+  {
+    "title": "Erdőtüzek tombolnak az Alföldön, lakóházak is veszélybe kerültek",
+    "snippet": "Nyárfapihe és szalmabálák kaptak lángra.",
+    "url": "https://index.hu/belfold/2026/05/09/erdotuz-kecskemet-pilis-cserkeszolo-aljnovenyzet-katasztrofavedelem/",
+    "source": "index.hu/Pilis",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 09 May 2026 21:43:00 +0200"
   },
   {
     "title": "Potenciálisan mérgező vegyi üzem fenyegeti a Pilis gyöngyszemét",
@@ -36,13 +36,13 @@
     "date": "Tue, 18 Oct 2022 10:32:32 +0000"
   },
   {
-    "title": "Sima győzelmet aratott a Fidesz Nagykőrösön, Pilisen botrány után lett új képviselő",
-    "snippet": "Több településen is időközi választást tartottak, a Tisza nem indult egyiken se.",
-    "url": "https://index.hu/belfold/2025/12/15/fidesz-idokozi-valasztas-nagykoros-pilis-borsod-somogy/",
-    "source": "index.hu/Pilis",
+    "title": "Akkubotrány, paksi felár, Trump-látogatás – Szijjártó Péter a Dellában",
+    "snippet": "A külgazdasági és külügyminisztertől a többi között azt kérdeztük a Dellában, hogy emelkedhet-e az új paksi blokkok költsége, ki fogja azt fizetni, de szóba került Orbán Anita is, akit támogatott a NATO-főtitkárhelyettesi jelentkezésében, és aki Szijjártó állítása szerint nemrég még inkompetensnek t",
+    "url": "https://24.hu/fn/gazdasag/2026/02/11/podcast-della-akkubotrany-trump-szijjarto-peter/",
+    "source": "24.hu/Pilis",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 15 Dec 2025 09:40:00 +0100"
+    "date": "Wed, 11 Feb 2026 10:10:35 +0000"
   },
   {
     "title": "Mountain&Bike Kiállítás Pilis – Időutazás két keréken",
@@ -54,22 +54,13 @@
     "date": ""
   },
   {
-    "title": "Akkubotrány, paksi felár, Trump-látogatás – Szijjártó Péter a Dellában",
-    "snippet": "A külgazdasági és külügyminisztertől a többi között azt kérdeztük a Dellában, hogy emelkedhet-e az új paksi blokkok költsége, ki fogja azt fizetni, de szóba került Orbán Anita is, akit támogatott a NATO-főtitkárhelyettesi jelentkezésében, és aki Szijjártó állítása szerint nemrég még inkompetensnek t",
-    "url": "https://24.hu/fn/gazdasag/2026/02/11/podcast-della-akkubotrany-trump-szijjarto-peter/",
-    "source": "24.hu/Pilis",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 11 Feb 2026 10:10:35 +0000"
-  },
-  {
-    "title": "Lemondások és haláleset miatt tartanak időközi választás négy településen",
-    "snippet": "Vasárnap szavaznak Tabon, Korláton, Nagykőrösön és Pilisen.",
-    "url": "https://index.hu/belfold/2025/12/14/valasztas-idokozi-szavazas-tab-korlat-nagykoros-pilis-martonyi-voksolas-kepviselo-polgarmester/",
+    "title": "Sima győzelmet aratott a Fidesz Nagykőrösön, Pilisen botrány után lett új képviselő",
+    "snippet": "Több településen is időközi választást tartottak, a Tisza nem indult egyiken se.",
+    "url": "https://index.hu/belfold/2025/12/15/fidesz-idokozi-valasztas-nagykoros-pilis-borsod-somogy/",
     "source": "index.hu/Pilis",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 14 Dec 2025 08:11:00 +0100"
+    "date": "Mon, 15 Dec 2025 09:40:00 +0100"
   },
   {
     "title": "Megtalálták a 2022-ben rejtélyes körülmények közt eltűnt pilisi férfi maradványait",
@@ -79,5 +70,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 14 Oct 2025 13:53:25 +0000"
+  },
+  {
+    "title": "Lemondások és haláleset miatt tartanak időközi választás négy településen",
+    "snippet": "Vasárnap szavaznak Tabon, Korláton, Nagykőrösön és Pilisen.",
+    "url": "https://index.hu/belfold/2025/12/14/valasztas-idokozi-szavazas-tab-korlat-nagykoros-pilis-martonyi-voksolas-kepviselo-polgarmester/",
+    "source": "index.hu/Pilis",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 14 Dec 2025 08:11:00 +0100"
   }
 ]

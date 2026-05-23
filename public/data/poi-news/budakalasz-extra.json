@@ -1,14 +1,5 @@
 [
   {
-    "title": "Elzárással büntették azt a férfit, aki megütött egy jegyvizsgálót a szentendrei HÉV-en",
-    "snippet": "A vádlott 90 napra kerül a rácsok mögé.",
-    "url": "https://index.hu/belfold/2026/03/19/budakalasz-szentendre-hev-jegyvizsgalo-bantalmazas-ferfi-ugyeszseg-birosag-elzaras-itelet/",
-    "source": "index.hu/Budakalász",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 19 Mar 2026 09:55:00 +0100"
-  },
-  {
     "title": "Az NB I-ből kieső kézicsapat edzője: Nézőcsalogató meccs volt, szurkolóinknak kellemes élményt szereztünk",
     "snippet": "Csoknyai István elégedett volt csapata játékával a Szeged elleni bajnokin. The post Az NB I-ből kieső kézicsapat edzője: Nézőcsalogató meccs volt, szurkolóinknak kellemes élményt szereztünk first appeared on 24.hu .",
     "url": "https://24.hu/sport/2026/05/11/budakalasz-kieses-csoknyai-istvan-kezilabda-nb-i/",
@@ -18,13 +9,13 @@
     "date": "Mon, 11 May 2026 07:24:09 +0000"
   },
   {
-    "title": "A H5-ös HÉV felújítása miatt Lázár Jánoshoz fordultak a térség polgármesterei",
-    "snippet": "Az alternatív közlekedési útvonalak kidolgozásában szeretnének részt venni.",
-    "url": "https://index.hu/belfold/2025/12/02/h5-hev-felujitas-szentendre-pomaz-budakalasz-lazar-janos/",
+    "title": "Elzárással büntették azt a férfit, aki megütött egy jegyvizsgálót a szentendrei HÉV-en",
+    "snippet": "A vádlott 90 napra kerül a rácsok mögé.",
+    "url": "https://index.hu/belfold/2026/03/19/budakalasz-szentendre-hev-jegyvizsgalo-bantalmazas-ferfi-ugyeszseg-birosag-elzaras-itelet/",
     "source": "index.hu/Budakalász",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 02 Dec 2025 10:08:00 +0100"
+    "date": "Thu, 19 Mar 2026 09:55:00 +0100"
   },
   {
     "title": "Kilenc év után búcsúzik a kézi NB I első kiesője",
@@ -36,13 +27,22 @@
     "date": "Sun, 10 May 2026 18:58:46 +0000"
   },
   {
-    "title": "Egyeztetést kérnek a polgármesterek Lázár Jánostól a szentendrei HÉV felújításának módosításai miatt",
-    "snippet": "Racionalizálás - ez a kulcsszó, de senki nem érti, hogy mit jelent.",
-    "url": "https://index.hu/belfold/2025/11/06/szentendre-pomaz-budakalasz-polgarmester-h5-hev-lazar-janos-felujitas/",
+    "title": "A H5-ös HÉV felújítása miatt Lázár Jánoshoz fordultak a térség polgármesterei",
+    "snippet": "Az alternatív közlekedési útvonalak kidolgozásában szeretnének részt venni.",
+    "url": "https://index.hu/belfold/2025/12/02/h5-hev-felujitas-szentendre-pomaz-budakalasz-lazar-janos/",
     "source": "index.hu/Budakalász",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 06 Nov 2025 06:33:00 +0100"
+    "date": "Tue, 02 Dec 2025 10:08:00 +0100"
+  },
+  {
+    "title": "Csoda a kézilabda NB I.-ben: szeptember után újra nyert a sereghajtó",
+    "snippet": "A sereghajtó Budakalász házigazdaként 23-22-re nyert a Csurgó ellen a férfi kézilabda NB I. szombati játéknapján. The post Csoda a kézilabda NB I.-ben: szeptember után újra nyert a sereghajtó first appeared on 24.hu .",
+    "url": "https://24.hu/sport/2026/03/07/kezulabda-nb-i-budakalasz-csurgo/",
+    "source": "24.hu/Budakalász",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 07 Mar 2026 19:25:46 +0000"
   },
   {
     "title": "Gratulálunk a Kulin Kati emlékverseny...",
@@ -54,13 +54,13 @@
     "date": "2026-05-20"
   },
   {
-    "title": "Csoda a kézilabda NB I.-ben: szeptember után újra nyert a sereghajtó",
-    "snippet": "A sereghajtó Budakalász házigazdaként 23-22-re nyert a Csurgó ellen a férfi kézilabda NB I. szombati játéknapján. The post Csoda a kézilabda NB I.-ben: szeptember után újra nyert a sereghajtó first appeared on 24.hu .",
-    "url": "https://24.hu/sport/2026/03/07/kezulabda-nb-i-budakalasz-csurgo/",
-    "source": "24.hu/Budakalász",
+    "title": "Egyeztetést kérnek a polgármesterek Lázár Jánostól a szentendrei HÉV felújításának módosításai miatt",
+    "snippet": "Racionalizálás - ez a kulcsszó, de senki nem érti, hogy mit jelent.",
+    "url": "https://index.hu/belfold/2025/11/06/szentendre-pomaz-budakalasz-polgarmester-h5-hev-lazar-janos-felujitas/",
+    "source": "index.hu/Budakalász",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 07 Mar 2026 19:25:46 +0000"
+    "date": "Thu, 06 Nov 2025 06:33:00 +0100"
   },
   {
     "title": "Értékvédelmi pályázat benyújtási...",

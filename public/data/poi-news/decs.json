@@ -1,14 +1,5 @@
 [
   {
-    "title": "Kiderült, mi okozhatta a decsi vonatbalesetet",
-    "snippet": "Egy 78 éves nő a helyszínen meghalt.",
-    "url": "https://index.hu/belfold/2025/06/28/decs-tolna-varmegye-mav-vasut-baleset-rendorseg/",
-    "source": "index.hu/Decs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 28 Jun 2025 19:22:00 +0200"
-  },
-  {
     "title": "Ájultra vertek egy vascsővel fenyegetőző férfit Decsen",
     "snippet": "A barátnője előtt összevert férfit súlyos, életveszélyes sérülésekkel vitték kórházba. Őrizetbe vettek egy testvérpárt. The post Ájultra vertek egy vascsővel fenyegetőző férfit Decsen first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2022/06/28/ajultra-vertek-egy-vascsovel-fenyegetozo-ferfit-decsen/",
@@ -18,13 +9,13 @@
     "date": "Tue, 28 Jun 2022 14:42:34 +0000"
   },
   {
-    "title": "A vonat elé hajtott egy autó Decsen",
-    "snippet": "Az érintett szakaszon leállították a vasúti forgalmat.",
-    "url": "https://index.hu/belfold/2025/06/28/baleset-tolna-varmegye-decs-vonat-auto/",
+    "title": "Kiderült, mi okozhatta a decsi vonatbalesetet",
+    "snippet": "Egy 78 éves nő a helyszínen meghalt.",
+    "url": "https://index.hu/belfold/2025/06/28/decs-tolna-varmegye-mav-vasut-baleset-rendorseg/",
     "source": "index.hu/Decs",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 28 Jun 2025 07:27:00 +0200"
+    "date": "Sat, 28 Jun 2025 19:22:00 +0200"
   },
   {
     "title": "A NAV nyomozói vizsgálják, miként lett a 110 milliós útból kátyútenger – videó",
@@ -36,13 +27,22 @@
     "date": "Tue, 25 May 2021 13:03:51 +0000"
   },
   {
-    "title": "Ájultra vert egy testvérpár egy férfit Decsen",
-    "snippet": "A rendőrök a testvérek letartóztatását kezdeményezik.",
-    "url": "https://index.hu/belfold/2022/06/28/decs-testverpar-vascso-rendorseg-tamadas/",
+    "title": "A vonat elé hajtott egy autó Decsen",
+    "snippet": "Az érintett szakaszon leállították a vasúti forgalmat.",
+    "url": "https://index.hu/belfold/2025/06/28/baleset-tolna-varmegye-decs-vonat-auto/",
     "source": "index.hu/Decs",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 28 Jun 2022 18:07:00 +0200"
+    "date": "Sat, 28 Jun 2025 07:27:00 +0200"
+  },
+  {
+    "title": "Ha a kocsiban hagyja a kulcsot, ne csodálkozzon, hogy elkötik azt",
+    "snippet": "Egy decsi férfinak szerencséje volt, mert hamar elkapták a tolvajt. The post Ha a kocsiban hagyja a kulcsot, ne csodálkozzon, hogy elkötik azt first appeared on 24.hu .",
+    "url": "https://24.hu/kozelet/2016/07/21/ha-a-kocsiban-hagyja-a-kulcsot-ne-csodalkozzon-hogy-elkotik-azt/",
+    "source": "24.hu/Decs",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 Jul 2016 11:48:02 +0000"
   },
   {
     "title": "Áramszünet",
@@ -54,13 +54,13 @@
     "date": "Thu, 21 May 2026 13:11:23 +0000"
   },
   {
-    "title": "Ha a kocsiban hagyja a kulcsot, ne csodálkozzon, hogy elkötik azt",
-    "snippet": "Egy decsi férfinak szerencséje volt, mert hamar elkapták a tolvajt. The post Ha a kocsiban hagyja a kulcsot, ne csodálkozzon, hogy elkötik azt first appeared on 24.hu .",
-    "url": "https://24.hu/kozelet/2016/07/21/ha-a-kocsiban-hagyja-a-kulcsot-ne-csodalkozzon-hogy-elkotik-azt/",
-    "source": "24.hu/Decs",
+    "title": "Ájultra vert egy testvérpár egy férfit Decsen",
+    "snippet": "A rendőrök a testvérek letartóztatását kezdeményezik.",
+    "url": "https://index.hu/belfold/2022/06/28/decs-testverpar-vascso-rendorseg-tamadas/",
+    "source": "index.hu/Decs",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 21 Jul 2016 11:48:02 +0000"
+    "date": "Tue, 28 Jun 2022 18:07:00 +0200"
   },
   {
     "title": "Meghívó",

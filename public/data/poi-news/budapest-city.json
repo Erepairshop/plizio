@@ -1,14 +1,5 @@
 [
   {
-    "title": "KKevin ismét bevette a Budapest Parkot, és beszélt a „strici” művészi énről",
-    "snippet": "Nagy sikert aratott az új show-ja.",
-    "url": "https://index.hu/fomo/2026/05/23/kkevin-budapest-park-trap/",
-    "source": "index.hu",
-    "lang": "hu",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 09:07:00 +0200"
-  },
-  {
     "title": "Ilyen volt Budapest 75 éve – újabb kvíz, újabb fővárosi terek régi képeken",
     "snippet": "Az első részben már próbára tettük, mennyire ismered Budapest régi arcát, most pedig újabb ötvenes évekbeli fotókon kell kitalálnod, melyik teret látod. Vajon ezúttal jobban megy? The post Ilyen volt Budapest 75 éve – újabb kvíz, újabb fővárosi terek régi képeken first appeared on 24.hu .",
     "url": "https://24.hu/szorakozas/2026/05/23/budapest-terek-kviz-2/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 23 May 2026 03:30:13 +0000"
+  },
+  {
+    "title": "KKevin ismét bevette a Budapest Parkot, és beszélt a „strici” művészi énről",
+    "snippet": "Nagy sikert aratott az új show-ja.",
+    "url": "https://index.hu/fomo/2026/05/23/kkevin-budapest-park-trap/",
+    "source": "index.hu",
+    "lang": "hu",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 09:07:00 +0200"
   },
   {
     "title": "Újra közvetlen kapcsolat Amerika felé – elindult a Budapest–Philadelphia járat",
@@ -36,13 +36,13 @@
     "date": "Fri, 22 May 2026 11:04:24 +0000"
   },
   {
-    "title": "Jöhet a budapesti repülőtér bővítése és új transzatlanti járatot is bejelenthetnek",
-    "snippet": "A kormány a budapesti repülőtér kapacitásának bővítését és jobb közlekedési kapcsolatait sürgeti, de Vitézy Dávid miniszter szerint az amerikai piac bővülése újabb transzatlanti járatok bejelentését is előrevetíti. The post Jöhet a budapesti repülőtér bővítése és új transzatlanti járatot is bejelent",
-    "url": "https://24.hu/fn/gazdasag/2026/05/22/ferihegy-bovites-amerikai-jaratok-tervek/",
-    "source": "24.hu/Budapest",
+    "title": "Hétköznap esténként is a gyalogosoké lesz a rakpart",
+    "snippet": "Május 26-tól már nem csak hétvégente lesz autómentes a terület.",
+    "url": "https://index.hu/belfold/2026/05/21/budapest-pesti-also-rakpart-auto-gyalogos-kerekpar/",
+    "source": "index.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 09:24:04 +0000"
+    "date": "Thu, 21 May 2026 19:04:00 +0200"
   },
   {
     "title": "Május 26-án keddtől hétköznap esténként is megnyílik a rakpart a gyalogosok előtt",
@@ -54,13 +54,13 @@
     "date": "Thu, 21 May 2026 13:12:59 GMT"
   },
   {
-    "title": "Hétköznap esténként is a gyalogosoké lesz a rakpart",
-    "snippet": "Május 26-tól már nem csak hétvégente lesz autómentes a terület.",
-    "url": "https://index.hu/belfold/2026/05/21/budapest-pesti-also-rakpart-auto-gyalogos-kerekpar/",
-    "source": "index.hu/Budapest",
+    "title": "Jöhet a budapesti repülőtér bővítése és új transzatlanti járatot is bejelenthetnek",
+    "snippet": "A kormány a budapesti repülőtér kapacitásának bővítését és jobb közlekedési kapcsolatait sürgeti, de Vitézy Dávid miniszter szerint az amerikai piac bővülése újabb transzatlanti járatok bejelentését is előrevetíti. The post Jöhet a budapesti repülőtér bővítése és új transzatlanti járatot is bejelent",
+    "url": "https://24.hu/fn/gazdasag/2026/05/22/ferihegy-bovites-amerikai-jaratok-tervek/",
+    "source": "24.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 21 May 2026 19:04:00 +0200"
+    "date": "Fri, 22 May 2026 09:24:04 +0000"
   },
   {
     "title": "Itt a javaslat a taxistarifák emelésére, jelentős drágulás jöhet",
@@ -90,22 +90,13 @@
     "date": "Wed, 20 May 2026 04:00:39 +0000"
   },
   {
-    "title": "Eljárás indult a csődbe ment utazásszervezővel szemben",
-    "snippet": "Az elmaradt kárrendezés okát vizsgálják.",
-    "url": "https://index.hu/belfold/2026/05/19/utazasszervezo-travel-teachers-kft-budapest-eljaras-karrendezes/",
+    "title": "Feltételezett második világháborús robbanótest miatt kiürítettek egy útszakaszt a XI. kerületben",
+    "snippet": "A szerkezet egy ingatlan alapozási munkái közben került elő.",
+    "url": "https://index.hu/belfold/2026/05/20/budapest-xi-kerulet-robbanoszerkezet-lezaras-bomba/",
     "source": "index.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 19 May 2026 19:51:00 +0200"
-  },
-  {
-    "title": "Sztrádakoncesszió, mohácsi Duna-híd, Budapest-Belgrád vasútvonal – Vitézy Dávid felsorolta, miket tervez felülvizsgálni",
-    "snippet": "A miniszter a kulcsfontosságú fővárosi beruházások elindítása érdekében már egyeztetett Karácsony Gergellyel.",
-    "url": "https://444.hu/2026/05/16/sztradakoncesszio-mohacsi-duna-hid-budapest-belgrad-vasutvonal-vitezy-david-felsorolta-miket-tervez-felulvizsgalni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "source": "444.hu",
-    "lang": "hu",
-    "scope": "national",
-    "date": "Sat, 16 May 2026 14:06:09 +0200"
+    "date": "Wed, 20 May 2026 13:21:00 +0200"
   },
   {
     "title": "Egyéni csúcsok és értékes pontgyűjtés a Budapest Team Cup 2. fordulóján",
@@ -126,13 +117,13 @@
     "date": "Tue, 19 May 2026 19:35:39 +0000"
   },
   {
-    "title": "Vitézy Dávid elmondta, mit tesz a kormány a reptér extrém leterheltsége miatt a BL-döntő idején",
-    "snippet": "A valaha volt legnagyobb terhelés várható.",
-    "url": "https://index.hu/bajnokokligaja/2026/05/19/bajnokok-ligaja-budapest-vitezy-david-tisza-kormany/",
+    "title": "Mindent beismert a férfi, aki neje levágott ujjával netbankozott: „A tettem megbocsáthatatlan”",
+    "snippet": "A férfit Pozsonyban fogták el, most Budapesten állt bíróság elé.",
+    "url": "https://index.hu/belfold/2026/05/20/emberoles-fovarosi-torvenyszek-elokeszito-ules-ujjlevagas-netbank-pozsony-budapest-n-balazs/",
     "source": "index.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 19 May 2026 17:00:00 +0200"
+    "date": "Wed, 20 May 2026 10:05:00 +0200"
   },
   {
     "title": "Gyomron fejeltek egy fiatal nőt szombat hajnalban Budapesten, garázdaság miatt indult eljárás",
@@ -144,13 +135,13 @@
     "date": "Sun, 17 May 2026 14:15:20 +0000"
   },
   {
-    "title": "Ilyen esemény még nem volt Budapesten, Vitézy Dávid is megjelent a helyszínen",
-    "snippet": "Milliók életét érintő területről zajlanak egyeztetések.",
-    "url": "https://index.hu/belfold/2026/05/18/budapest-kozlekedes-konferencia-kozossegi-kozlekedes-tomegkozlekedes-vitezy-david-transport-research-arena/",
+    "title": "Eljárás indult a csődbe ment utazásszervezővel szemben",
+    "snippet": "Az elmaradt kárrendezés okát vizsgálják.",
+    "url": "https://index.hu/belfold/2026/05/19/utazasszervezo-travel-teachers-kft-budapest-eljaras-karrendezes/",
     "source": "index.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 18 May 2026 19:05:00 +0200"
+    "date": "Tue, 19 May 2026 19:51:00 +0200"
   },
   {
     "title": "Tíz amerikai város csatlakozott a Szabad Városok Szövetségéhez",
@@ -162,13 +153,22 @@
     "date": "Wed, 13 May 2026 16:35:08 +0000"
   },
   {
-    "title": "Brutális szurkolóhad árasztja el május végén Budapestet",
-    "snippet": "Totális logisztikai megszállás alá kerül a Városliget.",
-    "url": "https://index.hu/kultur/2026/05/15/varosliget-bajnokok-ligaja-donto-gyereknap-kozlekedes-program-kultbudapest/",
+    "title": "A Duran Duran énekese az Indexnek: Ebben a világban könnyű depresszióssá válni",
+    "snippet": "Simon Le Bonnal a zenekar budapesti koncertje előtt készítettünk interjút.",
+    "url": "https://index.hu/fomo/2026/05/16/duran-duran-simon-le-bon-interju-budapest-koncert/",
     "source": "index.hu/Budapest",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 15 May 2026 19:23:00 +0200"
+    "date": "Sat, 16 May 2026 15:06:00 +0200"
+  },
+  {
+    "title": "Sztrádakoncesszió, mohácsi Duna-híd, Budapest-Belgrád vasútvonal – Vitézy Dávid felsorolta, miket tervez felülvizsgálni",
+    "snippet": "A miniszter a kulcsfontosságú fővárosi beruházások elindítása érdekében már egyeztetett Karácsony Gergellyel.",
+    "url": "https://444.hu/2026/05/16/sztradakoncesszio-mohacsi-duna-hid-budapest-belgrad-vasutvonal-vitezy-david-felsorolta-miket-tervez-felulvizsgalni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "source": "444.hu",
+    "lang": "hu",
+    "scope": "national",
+    "date": "Sat, 16 May 2026 14:06:09 +0200"
   },
   {
     "title": "Lángokba borult egy kamion, lezárták az M5-öst Budapest felé",
@@ -252,15 +252,6 @@
     "date": "Tue, 11 Apr 2023 15:10:00 +0200"
   },
   {
-    "title": "Cikkeink és a lakossági felháborodás hatására távoznak Érd és Budapest határából az akkumulátoriparhoz kötődő cégek",
-    "snippet": "Akkumulátorokat teszteltek, dél-koreai cégekkel a háttérben. The post Cikkeink és a lakossági felháborodás hatására távoznak Érd és Budapest határából az akkumulátoriparhoz kötődő cégek first appeared on 24.hu .",
-    "url": "https://24.hu/fn/gazdasag/2026/05/04/erd-akkumulator-tesztelo-kivonul/",
-    "source": "24.hu/Érd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 04 May 2026 11:36:43 +0000"
-  },
-  {
     "title": "Magas a vízszámlája? Felbolydult Budapest agglomerációja",
     "snippet": "Egymillió forintos jutalmat ajánlottak fel annak, aki szakmailag megdönti a jelentésben foglaltakat.",
     "url": "https://index.hu/belfold/2025/05/08/kozmu-rezsi-szamla-vizora-budapest-agglomeracio-erd-diosd-torokbalint-herceghalom-soskut-tarnok-pusztazamor/",
@@ -268,5 +259,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 08 May 2025 06:59:00 +0200"
+  },
+  {
+    "title": "Cikkeink és a lakossági felháborodás hatására távoznak Érd és Budapest határából az akkumulátoriparhoz kötődő cégek",
+    "snippet": "Akkumulátorokat teszteltek, dél-koreai cégekkel a háttérben. The post Cikkeink és a lakossági felháborodás hatására távoznak Érd és Budapest határából az akkumulátoriparhoz kötődő cégek first appeared on 24.hu .",
+    "url": "https://24.hu/fn/gazdasag/2026/05/04/erd-akkumulator-tesztelo-kivonul/",
+    "source": "24.hu/Érd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 May 2026 11:36:43 +0000"
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hepatitis A-járványhelyzet alakult ki Hajdúhadházon",
-    "snippet": "Becslések szerint legfeljebb 20 megbetegedettről és több száz kontaktszemélyről lehet szó.",
-    "url": "https://index.hu/belfold/2026/05/14/hajdu-bihar-varmegye-hepatitis-a-jarvanyhelyzet-hajduhadhaz/",
-    "source": "index.hu/Hajdúhadház",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 21:00:00 +0200"
-  },
-  {
     "title": "Csúnyán kikapott a Fidesz egy újabb időközi választáson",
     "snippet": "A kormánypárti jelölt a szavazatok 30 százalékát sem szerezte meg. The post Csúnyán kikapott a Fidesz egy újabb időközi választáson first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2025/05/18/idokozi-valasztas-hajduhadhaz-2-es-valosztaokerulet-vereseg-fidesz/",
@@ -18,13 +9,13 @@
     "date": "Sun, 18 May 2025 19:01:12 +0000"
   },
   {
-    "title": "Rejtélyes bűz terjed Hajdúhadházán, többeknek el kellett hagyni otthonaikat",
-    "snippet": "A hatóságok keresik a szag forrását, az ügyben feljelentés is történt.",
-    "url": "https://index.hu/belfold/2026/01/16/hajdu-bihar-varmegye-hajduhadhaz-buz-vizsgalat/",
+    "title": "Hepatitis A-járványhelyzet alakult ki Hajdúhadházon",
+    "snippet": "Becslések szerint legfeljebb 20 megbetegedettről és több száz kontaktszemélyről lehet szó.",
+    "url": "https://index.hu/belfold/2026/05/14/hajdu-bihar-varmegye-hepatitis-a-jarvanyhelyzet-hajduhadhaz/",
     "source": "index.hu/Hajdúhadház",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 16 Jan 2026 08:42:00 +0100"
+    "date": "Thu, 14 May 2026 21:00:00 +0200"
   },
   {
     "title": "Kis híján megöltek egy férfit Hajdúhadházon",
@@ -36,13 +27,22 @@
     "date": "Mon, 11 Nov 2024 14:22:43 +0000"
   },
   {
-    "title": "Csontsoványan mentették meg Sanyit, a német juhászkutyát",
-    "snippet": "Ön is lehet a kutyus gazdája.",
-    "url": "https://index.hu/belfold/2025/11/06/hajduhadhaz-ebrendesz-nemet-juhasz-kutya-kinzas-allatkinzas/",
+    "title": "Rejtélyes bűz terjed Hajdúhadházán, többeknek el kellett hagyni otthonaikat",
+    "snippet": "A hatóságok keresik a szag forrását, az ügyben feljelentés is történt.",
+    "url": "https://index.hu/belfold/2026/01/16/hajdu-bihar-varmegye-hajduhadhaz-buz-vizsgalat/",
     "source": "index.hu/Hajdúhadház",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 06 Nov 2025 13:02:00 +0100"
+    "date": "Fri, 16 Jan 2026 08:42:00 +0100"
+  },
+  {
+    "title": "Arra ébredtek a kisgyerekek, hogy kifosztják a családjukat, azóta se mernek egyedül aludni",
+    "snippet": "Még a 8 éves kislány és a 6 éves kistestvére telefonját is elvitte a rokonait meglopó férfi. Három év börtönt kapott. The post Arra ébredtek a kisgyerekek, hogy kifosztják a családjukat, azóta se mernek egyedül aludni first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/10/31/arra-ebredtek-a-kisgyerekek-hogy-kifosztjak-a-csaladjukat-azota-se-mernek-egyedul-aludni/",
+    "source": "24.hu/Hajdúhadház",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 31 Oct 2024 12:29:13 +0000"
   },
   {
     "title": "Értesítés éleslövészetről",
@@ -54,13 +54,13 @@
     "date": "Fri, 22 May 2026 07:48:00 +0000"
   },
   {
-    "title": "Arra ébredtek a kisgyerekek, hogy kifosztják a családjukat, azóta se mernek egyedül aludni",
-    "snippet": "Még a 8 éves kislány és a 6 éves kistestvére telefonját is elvitte a rokonait meglopó férfi. Három év börtönt kapott. The post Arra ébredtek a kisgyerekek, hogy kifosztják a családjukat, azóta se mernek egyedül aludni first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/10/31/arra-ebredtek-a-kisgyerekek-hogy-kifosztjak-a-csaladjukat-azota-se-mernek-egyedul-aludni/",
-    "source": "24.hu/Hajdúhadház",
+    "title": "Csontsoványan mentették meg Sanyit, a német juhászkutyát",
+    "snippet": "Ön is lehet a kutyus gazdája.",
+    "url": "https://index.hu/belfold/2025/11/06/hajduhadhaz-ebrendesz-nemet-juhasz-kutya-kinzas-allatkinzas/",
+    "source": "index.hu/Hajdúhadház",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 31 Oct 2024 12:29:13 +0000"
+    "date": "Thu, 06 Nov 2025 13:02:00 +0100"
   },
   {
     "title": "A bakator nyomában jártunk Hajdúhadházon",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Nívós nemzetközi ajánlóra került két magyar úti cél",
+    "snippet": "Érdemes itthon is szétnézni a külföldi nyaralás előtt.",
+    "url": "https://index.hu/gazdasag/2026/05/23/miskolc-zold-lista-turizmus-wanderlust-green-list-2026/",
+    "source": "index.hu/Miskolc",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 14:18:00 +0200"
+  },
+  {
     "title": "„A barát az barát, még ha szar is” – Felnőttek a bohém betyárok",
     "snippet": "Az Akárkifia az eddigi legérettebb Bohemian Betyars-album.",
     "url": "https://index.hu/kultur/zene/2026/05/20/bohemian-betyars-akarkifia-zene-album-koncert-miskolc/",
@@ -27,15 +36,6 @@
     "date": "Fri, 27 Feb 2026 12:57:13 +0000"
   },
   {
-    "title": "Újabb szörnyű baleset, öten meghaltak Miskolc és Szerencs között",
-    "snippet": "A rendőrség vizsgálja a baleset pontos körülményeit.",
-    "url": "https://index.hu/belfold/2022/09/07/frontalis-utkozes-karambol-szerencs-miskolc-rendorseg/",
-    "source": "index.hu/Szerencs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 07 Sep 2022 06:45:00 +0200"
-  },
-  {
     "title": "Zsarolásról és „erősen ajánlott” tartalmak megosztásáról beszélt a Fideszből kilépett miskolci képviselő",
     "snippet": "Czinkné Sztán Anikó tetszését nem nyerte el a legerősebb ellenzéki párt kampánya.",
     "url": "https://index.hu/belfold/2026/05/11/miskolc-onkormanyzati-kepviselo-czinkne-sztan-aniko-fidesz-kilepes-valasztasi-kampany-aktivistak-ajanlasok/",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Újabb szörnyű baleset, öten meghaltak Miskolc és Szerencs között",
+    "snippet": "A rendőrség vizsgálja a baleset pontos körülményeit.",
+    "url": "https://index.hu/belfold/2022/09/07/frontalis-utkozes-karambol-szerencs-miskolc-rendorseg/",
+    "source": "index.hu/Szerencs",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 07 Sep 2022 06:45:00 +0200"
   },
   {
     "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",

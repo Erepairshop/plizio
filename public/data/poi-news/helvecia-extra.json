@@ -1,14 +1,5 @@
 [
   {
-    "title": "Balesetek az ország útjain",
-    "snippet": "Teljes útzár a 22-es főúton, Tasson villanyoszlopnak hajtott egy busz. The post Balesetek az ország útjain first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2023/07/29/balesetek-az-orszag-utjain/",
-    "source": "24.hu/Helvécia",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 29 Jul 2023 06:27:52 +0000"
-  },
-  {
     "title": "Eldurvul az időjárás, módosítani kell a kecskeméti helyszínen",
     "snippet": "A svájci nagykövetség átköltözteti a szombati pikniket.",
     "url": "https://index.hu/belfold/2024/09/12/svajci-napok-piknik-kecskemet-nagykovetseg-helyszinvaltozas/",
@@ -18,13 +9,13 @@
     "date": "Thu, 12 Sep 2024 16:32:00 +0200"
   },
   {
-    "title": "A helvéciai cserbenhagyásos gázoló letartóztatását kezdeményezik",
-    "snippet": "A férfi még október 24-én ütött el egy gyalogost, aki belehalt sérüléseibe. The post A helvéciai cserbenhagyásos gázoló letartóztatását kezdeményezik first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2020/10/29/helvecia-cserbenhagyasos-gazolas-letartoztatas-kezdemenyezes-ugyeszseg/",
+    "title": "Balesetek az ország útjain",
+    "snippet": "Teljes útzár a 22-es főúton, Tasson villanyoszlopnak hajtott egy busz. The post Balesetek az ország útjain first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/07/29/balesetek-az-orszag-utjain/",
     "source": "24.hu/Helvécia",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 29 Oct 2020 07:13:20 +0000"
+    "date": "Sat, 29 Jul 2023 06:27:52 +0000"
   },
   {
     "title": "Svájc egyhetes programsorozattal jelentkezik Kecskeméten",
@@ -36,13 +27,22 @@
     "date": "Sun, 08 Sep 2024 21:48:00 +0200"
   },
   {
-    "title": "Elgázoltak egy nőt Helvécián, majd hagyták meghalni",
-    "snippet": "Keresik a Kecskeméti úti cserbenhagyót. The post Elgázoltak egy nőt Helvécián, majd hagyták meghalni first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2020/10/26/elgazoltak-egy-not-helvecian-majd-hagytak-meghalni/",
+    "title": "A helvéciai cserbenhagyásos gázoló letartóztatását kezdeményezik",
+    "snippet": "A férfi még október 24-én ütött el egy gyalogost, aki belehalt sérüléseibe. The post A helvéciai cserbenhagyásos gázoló letartóztatását kezdeményezik first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2020/10/29/helvecia-cserbenhagyasos-gazolas-letartoztatas-kezdemenyezes-ugyeszseg/",
     "source": "24.hu/Helvécia",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 26 Oct 2020 14:59:48 +0000"
+    "date": "Thu, 29 Oct 2020 07:13:20 +0000"
+  },
+  {
+    "title": "Heten adtak át egy utat Kecskemét mellett, de így is elrontották",
+    "snippet": "Rossz helyre álltak a települések vezetői.",
+    "url": "https://index.hu/belfold/2023/09/04/kecskemet-ut-atadas-helcvecia-baki/",
+    "source": "index.hu/Helvécia",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 04 Sep 2023 14:41:00 +0200"
   },
   {
     "title": "- Állásbörze",
@@ -54,13 +54,13 @@
     "date": "2026-05-14"
   },
   {
-    "title": "Heten adtak át egy utat Kecskemét mellett, de így is elrontották",
-    "snippet": "Rossz helyre álltak a települések vezetői.",
-    "url": "https://index.hu/belfold/2023/09/04/kecskemet-ut-atadas-helcvecia-baki/",
-    "source": "index.hu/Helvécia",
+    "title": "Elgázoltak egy nőt Helvécián, majd hagyták meghalni",
+    "snippet": "Keresik a Kecskeméti úti cserbenhagyót. The post Elgázoltak egy nőt Helvécián, majd hagyták meghalni first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2020/10/26/elgazoltak-egy-not-helvecian-majd-hagytak-meghalni/",
+    "source": "24.hu/Helvécia",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 04 Sep 2023 14:41:00 +0200"
+    "date": "Mon, 26 Oct 2020 14:59:48 +0000"
   },
   {
     "title": "- Tájékoztatás Kormányablak busz kitelepüléséről",

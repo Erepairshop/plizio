@@ -1,14 +1,5 @@
 [
   {
-    "title": "Posta",
-    "snippet": "Nyitva tartás: Hétfő: 8-12-ig, Kedd: 8-12-ig, Szerda: 8-12-ig, Csütörtök: 8-12-ig, Péntek: 8-12-ig [...]",
-    "url": "https://nagyborzsony.hu/posta/",
-    "source": "Nagybörzsöny Hírek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 19 Mar 2018 22:51:07 +0000"
-  },
-  {
     "title": "Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás",
     "snippet": "A lövedék átszakította az áldozat fejét, és a koponyájából egy darabot kitépve távozott a kocsi tetején. The post Fejbe lőtte a vadászatvezetőt egy férfi a nagybörzsönyi erdőben – lezárult a nyomozás first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2022/09/15/fejbe-lotte-a-vadaszatvezetot-egy-ferfi-a-nagyborzsonyi-erdoben/",
@@ -18,13 +9,13 @@
     "date": "Thu, 15 Sep 2022 07:05:26 +0000"
   },
   {
-    "title": "Cukrászda",
-    "snippet": "üzemeltető: Sári Ferencné Nyitva tartás : Idény jelleggel működik májustól szeptemberig. Hétfőtől péntekig: 13-20-ig Szombat, vasárnap, és ünnepnap: 10-20-ig. Fagylalt, kávé, szeszes és szeszmentes italok,hétvégén sütemények. Tortarendelés! Csoportok bejelentkezése: 70 4572017",
-    "url": "https://nagyborzsony.hu/cukraszda/",
+    "title": "Posta",
+    "snippet": "Nyitva tartás: Hétfő: 8-12-ig, Kedd: 8-12-ig, Szerda: 8-12-ig, Csütörtök: 8-12-ig, Péntek: 8-12-ig [...]",
+    "url": "https://nagyborzsony.hu/posta/",
     "source": "Nagybörzsöny Hírek",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 16 Mar 2018 11:21:45 +0000"
+    "date": "Mon, 19 Mar 2018 22:51:07 +0000"
   },
   {
     "title": "Gyógyszert követelve betört és ököllel megvert egy fogyatékkal élőt egy 19 éves férfi Nagybörzsönyben",
@@ -36,13 +27,13 @@
     "date": "Sun, 17 Jan 2021 07:06:04 +0000"
   },
   {
-    "title": "Atilla korcsmája",
-    "snippet": "",
-    "url": "https://nagyborzsony.hu/atilla-korcsmaja/",
+    "title": "Cukrászda",
+    "snippet": "üzemeltető: Sári Ferencné Nyitva tartás : Idény jelleggel működik májustól szeptemberig. Hétfőtől péntekig: 13-20-ig Szombat, vasárnap, és ünnepnap: 10-20-ig. Fagylalt, kávé, szeszes és szeszmentes italok,hétvégén sütemények. Tortarendelés! Csoportok bejelentkezése: 70 4572017",
+    "url": "https://nagyborzsony.hu/cukraszda/",
     "source": "Nagybörzsöny Hírek",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 16 Mar 2018 11:20:41 +0000"
+    "date": "Fri, 16 Mar 2018 11:21:45 +0000"
   },
   {
     "title": "Súlyos vadászbaleset történt Nagybörzsönyben",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 05 Jul 2020 17:07:04 +0000"
+  },
+  {
+    "title": "Atilla korcsmája",
+    "snippet": "",
+    "url": "https://nagyborzsony.hu/atilla-korcsmaja/",
+    "source": "Nagybörzsöny Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 16 Mar 2018 11:20:41 +0000"
   }
 ]

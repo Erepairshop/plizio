@@ -1,14 +1,5 @@
 [
   {
-    "title": "Bevallotta a fideszes képviselő, hogy a „kamu” Magyar Péternek gyűjtött",
-    "snippet": "Varga Károly sárvári önkormányzati képviselő már felkészült a rendőrség érkezésére.",
-    "url": "https://index.hu/belfold/2026/05/07/varga-karoly-fidesz-sarvar-vas-megye-valasztas-alairasgyujtes-vallomas/",
-    "source": "index.hu/Sárvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 07 May 2026 05:53:00 +0200"
-  },
-  {
     "title": "Egy fideszes önkormányzati képviselő is gyűjtött aláírást a „kamu” Magyar Péternek",
     "snippet": "Egy fideszes sárvári önkormányzati képviselő is közreműködött a független jelölt Magyar Péter ajánlásainak összegyűjtésében, miközben már zajlik a rendőrségi nyomozás az ügyben. The post Egy fideszes önkormányzati képviselő is gyűjtött aláírást a „kamu” Magyar Péternek first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/06/fuggetlen-magyar-peter-alairasgyujtes-fidesz-sarvar/",
@@ -18,13 +9,13 @@
     "date": "Wed, 06 May 2026 16:17:32 +0000"
   },
   {
-    "title": "A sajtót megkerülve vette át megbízólevelét a fideszes képviselő, akit Magyar Péter nem ismer el",
-    "snippet": "A Tisza szerint csalással szerzett mandátumot.",
-    "url": "https://index.hu/belfold/2026/04/30/agh-peter-megbizolevel-fidesz-nyilvanos-esemeny-sarvar-jegyzoseg-magyar-peter/",
+    "title": "Bevallotta a fideszes képviselő, hogy a „kamu” Magyar Péternek gyűjtött",
+    "snippet": "Varga Károly sárvári önkormányzati képviselő már felkészült a rendőrség érkezésére.",
+    "url": "https://index.hu/belfold/2026/05/07/varga-karoly-fidesz-sarvar-vas-megye-valasztas-alairasgyujtes-vallomas/",
     "source": "index.hu/Sárvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 30 Apr 2026 21:03:00 +0200"
+    "date": "Thu, 07 May 2026 05:53:00 +0200"
   },
   {
     "title": "Ötéves gyerekkel a hátsó ülésen ellopott egy Audit két kamasz",
@@ -36,13 +27,13 @@
     "date": "Mon, 12 Jan 2026 17:13:48 +0000"
   },
   {
-    "title": "Lefoglalták a független Magyar Péter ajánlóíveit, nyomoz a rendőrség",
-    "snippet": "Rendőrségi razzia a sárvári választási irodában.",
-    "url": "https://index.hu/belfold/2026/04/09/valasztas-2026-ajanloiv-rendorseg-nyomozas-lefoglalas-gyanusitottak/",
+    "title": "A sajtót megkerülve vette át megbízólevelét a fideszes képviselő, akit Magyar Péter nem ismer el",
+    "snippet": "A Tisza szerint csalással szerzett mandátumot.",
+    "url": "https://index.hu/belfold/2026/04/30/agh-peter-megbizolevel-fidesz-nyilvanos-esemeny-sarvar-jegyzoseg-magyar-peter/",
     "source": "index.hu/Sárvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 09 Apr 2026 12:58:00 +0200"
+    "date": "Thu, 30 Apr 2026 21:03:00 +0200"
   },
   {
     "title": "Testi és lelki utazásra visznek Magyarország első gyógyulásközpontú hoteljében",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 19 Dec 2025 10:36:56 +0000"
+  },
+  {
+    "title": "Lefoglalták a független Magyar Péter ajánlóíveit, nyomoz a rendőrség",
+    "snippet": "Rendőrségi razzia a sárvári választási irodában.",
+    "url": "https://index.hu/belfold/2026/04/09/valasztas-2026-ajanloiv-rendorseg-nyomozas-lefoglalas-gyanusitottak/",
+    "source": "index.hu/Sárvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 09 Apr 2026 12:58:00 +0200"
   }
 ]

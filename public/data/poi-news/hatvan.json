@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
-    "snippet": "Sárgulással búcsúztak, lovas fogatokkal vonultak végig a városon.",
-    "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/sargulas-bucsu-vegzos-agrarhallgatok-vasarhely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "Délmagyar",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 17:13:43 +0000"
-  },
-  {
     "title": "Virágba borult Hatvan: befejeződtek a tavaszi ültetési munkálatok",
     "snippet": "Május végére teljesen megújultak Hatvan zöldfelületei. A Hatvani Szolgáltató Kft. munkatársai a Dobó téren helyezték el az utolsó virágokat, így idén is több tízezer tő növény teszi látványosabbá a várost. A lakosság kérésére idén jelentősen növelték az évelő ágyások arányát, a fenntarthatóságot ped",
     "url": "https://hatvanihirlap.hu/viragba-borult-hatvan-befejezodtek-a-tavaszi-ultetesi-munkalatok/",
@@ -45,15 +36,6 @@
     "date": "Sat, 23 Aug 2025 14:30:00 +0200"
   },
   {
-    "title": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
-    "snippet": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
-    "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/sargulas-bucsu-vegzos-agrarhallgatok-vasarhely",
-    "source": "delmagyar.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Vonatgázolás miatt meghosszabbodott a menetidő a Budapest–Hatvan–Miskolc vonalon",
     "snippet": "Keleti pályaudvarra tartó Kócsag InterCity vonat a péceli állomáson elütött egy embert.",
     "url": "https://index.hu/belfold/2021/10/05/baleset-vonatgazolas-pecel-halalos-aldozat-budapest-hatvan-miskolc-vonal-megnovekedett-menetido/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 05 Oct 2021 19:54:00 +0200"
+  },
+  {
+    "title": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
+    "snippet": "Hatvan éve ugyanazt jelenti: ballagással és sárgulással búcsúztak a végzős agrárhallgatók - galériával",
+    "url": "https://www.delmagyar.hu/helyi-kozelet/2026/05/sargulas-bucsu-vegzos-agrarhallgatok-vasarhely",
+    "source": "delmagyar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Hatvan évvel fiatalabb nőt vett feleségül Kunhegyes polgármestere, elfogyott a fagyi",

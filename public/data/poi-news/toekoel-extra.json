@@ -45,13 +45,13 @@
     "date": "Fri, 31 Oct 2025 21:01:00 +0100"
   },
   {
-    "title": "Tököli Lovas-és Városnap",
-    "snippet": "",
-    "url": "https://tokol.hu/tokoli-lovas-es-varosnap/",
+    "title": "Átmenetileg nem használható a Kun utcai játszótér",
+    "snippet": "Kedves Szülők és Gyerekek! A homokozó felújítása miatt a játszótér 2026. május 23. napjától – előre láthatólag – 2026. május 31. napjáig nem használható. Megértésüket köszönjük! Tököl Város Önkormányzata",
+    "url": "https://tokol.hu/atmenetileg-nem-hasznalhato-a-kun-utcai-jatszoter/",
     "source": "tokol.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 21 May 2026 15:00:50 +0000"
+    "date": "Sat, 23 May 2026 09:02:06 +0000"
   },
   {
     "title": "Gina melltartókat és bugyikat rabolt, majd megharapta a boltvezetőt",
@@ -61,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 12 Nov 2024 07:04:11 +0000"
+  },
+  {
+    "title": "Tököli Lovas-és Városnap",
+    "snippet": "",
+    "url": "https://tokol.hu/tokoli-lovas-es-varosnap/",
+    "source": "tokol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 15:00:50 +0000"
   },
   {
     "title": "MÁV Személyszállítási Zrt. tájékoztatója – Szigetszentmiklós Műúti HÉV útátjáró felújítása",
@@ -133,14 +142,5 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 May 2026 05:14:20 +0000"
-  },
-  {
-    "title": "Lakossági kérdőív levegőminőségi terv felülvizsgálatához",
-    "snippet": "Ezúton értesítjük a Lakosságot, hogy Budapest Főváros Főpolgármesteri Hivatal Klíma- és Környezetügyi Főosztálya levegőminőségi kérdőívet tett közzé. A főváros és a légszennyezettségi agglomerációhoz tartozó települések esetében egy közös levegőminőségi dokumentáció készül. Budapest Főváros Főpolgár",
-    "url": "https://tokol.hu/lakossagi-kerdoiv-levegominosegi-terv-felulvizsgalatahoz/",
-    "source": "tokol.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 06 May 2026 14:01:20 +0000"
   }
 ]

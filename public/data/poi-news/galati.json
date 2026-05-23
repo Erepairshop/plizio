@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 08:20:37 GMT"
   },
   {
-    "title": "Casă lovită de fulger, în Galați. Incendiul izbucnit a mistuit vila de 140 de metri pătrați",
-    "snippet": "Incendiu devastator în Galați, acolo unde o casă a fost lovită de fulger. Vila în suprafață de 140 de metri pătrați a ars în totalitate. Incidentul a avut loc în localitatea Nărțești, din județul Galați. A ars tot, inclusiv anexele gospodărești O persoană care a încercat să stingă focul până la sosi",
-    "url": "https://www.gandul.ro/actualitate/casa-lovita-de-fulger-in-galati-incendiul-izbucnit-a-mistuit-vila-de-140-de-metri-patrati-20900787",
-    "source": "gandul.ro",
-    "lang": "ro",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 08:04:38 +0000"
-  },
-  {
     "title": "Mașină căzută într-o prăpastie de 15 metri la Galați. Trei tineri, printre care doi minori, au ajuns la spital",
     "snippet": "O mașină în care se aflau doi minori de 16 ani și un tânăr de 20 de ani s-a prăbușit, vineri seară, într-o prăpastie adâncă de aproximativ 15 metri, în zona centurii Brateș din Galați, potrivit informațiilor transmise de ISU Galați.",
     "url": "https://www.digi24.ro/stiri/masina-cazuta-intr-o-prapastie-de-15-metri-la-galati-trei-tineri-printre-care-doi-minori-au-ajuns-la-spital-3782275",
@@ -25,6 +16,15 @@
     "lang": "ro",
     "scope": "national",
     "date": "Fri, 22 May 2026 23:12:24 +0300"
+  },
+  {
+    "title": "Pe Drumul Expres Galați – Brăila au apărut tasări înainte de inaugurare, deși nu s-a circulat deloc pe el",
+    "snippet": "Drumul Expres DEx6 Galați-Brăila, finalizat în proporție de 95%, întâmpină probleme majore din cauza tasării terenului moale. Constructorii se luptă cu întârzieri și speră să finalizeze lucrările până în toamnă. Lucrările sunt aproape de final, dar întâmpină mari obstacole Cu o lungime de aproximati",
+    "url": "https://www.libertatea.ro/stiri/drumul-expres-galati-braila-probleme-tasari-teren-moale-inainte-inaugurare-nu-s-a-circulat-deloc-5750973",
+    "source": "libertatea.ro",
+    "lang": "ro",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 15:17:49 +0300"
   },
   {
     "title": "Mașină căzută într-o prăpastie de 15 metri, la Galați. Trei tineri au ajuns la spital (FOTO)",
@@ -54,15 +54,6 @@
     "date": "Fri, 27 Sep 2024 06:06:52 +0000"
   },
   {
-    "title": "CSM Târgu Jiu continuă lupta pentru menținere în LNBM. Urmează seria din play-out, cu CSM Galați.",
-    "snippet": "CSM Târgu Jiu continuă lupta pentru menținere în Liga Națională de Baschet Masculin. Pentru baschetbaliștii CSM Târgu Jiu urmează faza a 3-a din play-out, bătălia pentru locurile 15-16, contra CSM Galați. Echipa noastră va juca primele două meciuri din serie pe teren propriu. Primul meci este progra",
-    "url": "https://www.gorjonline.ro/csm-targu-jiu-continua-lupta-pentru-mentinere-in-lnbm-urmeaza-seria-din-play-out-cu-csm-galati/",
-    "source": "Gorj Online",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 05:37:23 +0000"
-  },
-  {
     "title": "Vulnerabilitate critică în Chromium: milioane de PC-uri devin arme",
     "snippet": "O vulnerabilitate gravă descoperită în motorul Chromium ar fi rămas fără soluţie de aproape doi ani şi jumătate, deşi problema a fost raportată încă din 2022. Potrivit expertei independente în securitate cibernetică Lyra Rebane, breşa poate permite hackerilor sau organizaţiilor implicate în activită",
     "url": "https://www.monitoruldegalati.ro/tehnologie/vulnerabilitate-critica-in-chromium-milioane-de-pc-uri-devin-arme.html",
@@ -70,24 +61,6 @@
     "lang": "ro",
     "scope": "county",
     "date": "Sat, 23 May 2026 09:11:49 +0000"
-  },
-  {
-    "title": "Fulger devastator în Galați! O casă a ars aproape complet în câteva minute, iar un bărbat a ajuns la spital",
-    "snippet": "Un incendiu violent a distrus aproape în totalitate o locuință din județul Galați, după ce imobilul ar fi fost lovit de un fulger în timpul nopții de vineri spre sâmbătă. Flăcările au cuprins rapid casa aflată în localitatea Nărțești, iar un bărbat care a încercat să stingă focul înainte de sosirea ",
-    "url": "https://jurnaluldearges.ro/fulger-devastator-in-galati-o-casa-a-ars-aproape-complet-in-cateva-minute-iar-un-barbat-a-ajuns-la-spital-448678/",
-    "source": "Jurnalul de Argeș",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 07:47:22 +0000"
-  },
-  {
-    "title": "Accident spectaculos în Galați: Trei tineri au scăpat cu viață după ce maşina lor a căzută într-o prăpastie de 15 metri",
-    "snippet": "Doi adolescenți de 16 ani și un tânăr de 20 de ani au fost transportaţi la spital după ce autoturismul în care se aflau a părăsit carosabilul și a căzut într-o prăpastie de aproximativ 15 metri, pe centura Brateș din municipiul Galați.",
-    "url": "https://adevarul.ro/stiri-locale/galati/masina-cazuta-intr-o-prapastie-de-15-metri-in-2531655.html",
-    "source": "adevarul.ro",
-    "lang": "ro",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 19:54:08 GMT"
   },
   {
     "title": "Tehnologia NFC transformă obiectele obişnuite în comenzi pentru case inteligente",
@@ -126,15 +99,6 @@
     "date": "Mon, 27 Jan 2025 06:00:00 +0000"
   },
   {
-    "title": "Scut antigrindină în Galați",
-    "snippet": "Județul Galați a fost inclus anul acesta de Ministerul Agriculturii și Dezvoltării Rurale pe lista de investiții pentru construcția de rampe de lansare a The post Scut antigrindină în Galați first appeared on Ziar independent din Galați .",
-    "url": "https://www.expressdedunare.ro/scut-antigrindina-in-galati/",
-    "source": "Express de Dunăre",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Thu, 18 Jan 2018 16:04:59 +0000"
-  },
-  {
     "title": "Galaţi: Pui de căprioară salvat şi apoi hrănit de o capră – FOTO",
     "snippet": "Un pui de căprioară a fost salvat după ce mama lui l-a părăsit. Puiul de căprioară a fost găsit de un localnic din Bereşti pe un câmp de la marginea localităţii. Omul a luat puiul acasă, l-a îngrijit, iar de hrănit, i-a venit ideea de a-l ”împrieteni” cu o căpriţă care l-a acceptat la ugerul [ ] Art",
     "url": "https://www.monitoruldegalati.ro/eveniment/galati-pui-de-caprioara-salvat-si-apoi-hranit-de-o-capra-foto.html",
@@ -144,13 +108,13 @@
     "date": "Tue, 10 Jun 2025 13:07:23 +0000"
   },
   {
-    "title": "Mesaj RO-Alert pentru localitățile Grindu și Isaccea. O dronă a căzut în municipiul Galați",
-    "snippet": "Locuitorii din Grindu și Isaccea au primit mesaj RO-Alert după noi atacuri ale Federației Ruse asupra infrastructurii din Ucraina, iar [...]",
-    "url": "https://www.tlnews.ro/mesaj-ro-alert-pentru-localitatile-grindu-si-isaccea-o-drona-a-cazut-in-municipiul-galati/",
-    "source": "TL News",
+    "title": "Scut antigrindină în Galați",
+    "snippet": "Județul Galați a fost inclus anul acesta de Ministerul Agriculturii și Dezvoltării Rurale pe lista de investiții pentru construcția de rampe de lansare a The post Scut antigrindină în Galați first appeared on Ziar independent din Galați .",
+    "url": "https://www.expressdedunare.ro/scut-antigrindina-in-galati/",
+    "source": "Express de Dunăre",
     "lang": "ro",
     "scope": "county",
-    "date": "Sat, 25 Apr 2026 05:45:57 +0000"
+    "date": "Thu, 18 Jan 2018 16:04:59 +0000"
   },
   {
     "title": "VIDEO cu momentul în care tânărul din Bereşti este omorât în stradă",

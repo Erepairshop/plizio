@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hamarosan véget érnek az úton folyó munkálatok Nádudvar térségében - fotóval!",
-    "snippet": "A fejlesztés következő fázisában már az útburkolati jeleket festik majd.",
-    "url": "https://www.haon.hu/helyi-kozelet/2026/05/nadudvar-utfejlesztes-elepi-ut-felujitas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "haon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 14:44:20 +0000"
-  },
-  {
     "title": "Családi vita közben lett rosszul egy férfi, nem tudták megmenteni az életét",
     "snippet": "A rendőrség vizsgálja az esetet.",
     "url": "https://index.hu/belfold/2025/06/08/nadudvar-rendorseg-csaladi-vita-rosszullet-meghalt-vizsgalat/",
@@ -45,15 +36,6 @@
     "date": "Thu, 19 Mar 2026 05:02:36 +0000"
   },
   {
-    "title": "Kedves Látogató!",
-    "snippet": "Nádudvar város oldala, a nadudvar.hu weboldal technikai fejlesztése folymatban van. Szerverköltöztetés miatt előfordulhat, hogy néhány funkció, vagy link átmeneti hibát jelez. Lépjen tovább Nádudvar város weboldalára Szíves megértésüket kérjük!",
-    "url": "https://nadudvar.hu/hello-vilag/",
-    "source": "nadudvar.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 10:39:14 +0000"
-  },
-  {
     "title": "Halálos munkabaleset történt Nádudvaron, 18 éves fiú az áldozat",
     "snippet": "A rendőrség eljárást indított.",
     "url": "https://index.hu/belfold/2023/11/22/halalos-munkabaleset-nadudvaron-18-eves-aldozat/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 22 Nov 2023 10:41:00 +0100"
+  },
+  {
+    "title": "Kedves Látogató!",
+    "snippet": "Nádudvar város oldala, a nadudvar.hu weboldal technikai fejlesztése folymatban van. Szerverköltöztetés miatt előfordulhat, hogy néhány funkció, vagy link átmeneti hibát jelez. Lépjen tovább Nádudvar város weboldalára Szíves megértésüket kérjük!",
+    "url": "https://nadudvar.hu/hello-vilag/",
+    "source": "nadudvar.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 10:39:14 +0000"
   },
   {
     "title": "A családi vita hevében a rendőrök előtt esett össze, és meghalt egy férfi Nádudvaron",

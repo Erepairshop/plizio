@@ -1,12 +1,12 @@
 [
   {
-    "title": "Székesfehérvár már nagyon szabadulna a Videoton FC-től, új pályázatot írtak ki",
-    "snippet": "Cser-Palkovics András polgármester azt reméli, hogy júliusra megtalálják az új tulajdonost.",
-    "url": "https://hvg.hu/kkv/20260522_labdarugas-szekesfehervar-videoton-fc-cser-palkovics-andras-palyazat-kiiras",
-    "source": "hvg.hu",
+    "title": "Egy hétre virágos csodavilággá változik Székesfehérvár belvárosa (galéria + videó)",
+    "snippet": "A Pünkösdi Virágálom megnyitóján a virágok szépsége mellett a béke és a lelki megújulás üzenete került a középpontba.",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/punkosdi-viragalom-megnyito-unnep?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "feol.hu (megyei)",
     "lang": "hu",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 15:28:45 Z"
+    "scope": "county",
+    "date": "Fri, 22 May 2026 18:47:36 +0000"
   },
   {
     "title": "Sürgősen eladó a Videoton, újabb egyfordulós pályázatot hirdetett Székesfehérvár",
@@ -18,24 +18,6 @@
     "date": "Fri, 22 May 2026 15:28:13 +0200"
   },
   {
-    "title": "Egy hétre virágos csodavilággá változik Székesfehérvár belvárosa (galéria + videó)",
-    "snippet": "A Pünkösdi Virágálom megnyitóján a virágok szépsége mellett a béke és a lelki megújulás üzenete került a középpontba.",
-    "url": "https://www.feol.hu/helyi-kozelet/2026/05/punkosdi-viragalom-megnyito-unnep?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 18:47:36 +0000"
-  },
-  {
-    "title": "Torlódás a déli elkerülőn Székesfehérvár irányában – FRISSÍTÉS! +videó!",
-    "snippet": "Torlódás a déli elkerülőn Székesfehérvár irányába vezető oldalon.",
-    "url": "https://www.veol.hu/helyi-kek-hirek/2026/05/torlodas-a-deli-elkerulon-szekesfehervar-iranyaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "veol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 14:36:52 +0000"
-  },
-  {
     "title": "Cser-Palkovics András levélben gratulált Vitézy Dávidnak a miniszteri kinevezéséhez",
     "snippet": "A kedves szavak mellett két konkrét ügyben is a miniszter tudtára adta, mit vár tőle Székesfehérvár polgármestereként. The post Cser-Palkovics András levélben gratulált Vitézy Dávidnak a miniszteri kinevezéséhez first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/13/cser-palkovics-andras-vitezy-david-gratulacio/",
@@ -43,15 +25,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 13 May 2026 14:38:08 +0000"
-  },
-  {
-    "title": "Pünkosdi Virágálom",
-    "snippet": "Pünkosdi Virágálom",
-    "url": "https://fehervariprogram.hu/event/punkosdi-viragalom-2026/",
-    "source": "fehervariprogram.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Újabb baleset történt az M7-es autópályán, több kilométeres torlódásra kell számítani",
@@ -70,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 26 Aug 2025 16:52:59 +0000"
+  },
+  {
+    "title": "Pünkosdi Virágálom",
+    "snippet": "Pünkosdi Virágálom",
+    "url": "https://fehervariprogram.hu/event/punkosdi-viragalom-2026/",
+    "source": "fehervariprogram.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Reagáltak Székesfehérvár és Szentendre polgármesterei Vitályos Eszter „sírnak, picsognak” kijelentésére",

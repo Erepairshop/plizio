@@ -1,14 +1,5 @@
 [
   {
-    "title": "Sertéspestises vaddisznót találtak Isaszeg környékén",
-    "snippet": "A betegség a vaddisznók és a házisertések érintkezésével terjedhet.",
-    "url": "https://hvg.hu/gazdasag/20260522_sertespestis-asp-vaddiszno-isaszeg",
-    "source": "hvg.hu",
-    "lang": "hu",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 15:16:29 Z"
-  },
-  {
     "title": "Fertőzött terület lett Isaszeg, több vaddisznóban is kimutatták a sertéspestist",
     "snippet": "Az önkormányzat figyelmeztette a sertéstartókat.",
     "url": "https://index.hu/belfold/2026/05/22/isaszeg-afrikai-sertespestis-betegseg-fertozott-terulet-vaddisznok/",
@@ -45,15 +36,6 @@
     "date": "Fri, 20 Mar 2026 11:00:14 +0000"
   },
   {
-    "title": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
-    "snippet": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
-    "url": "https://infostart.hu/belfold/2026/05/22/sertespestis-mar-a-pest-megyei-isaszeg-is-fertozott",
-    "source": "infostart.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Személyautót sodort el a vonat Isaszegnél, utolsó pillanatban ugrottak el a mozdony elől",
     "snippet": "Pillanatokon múlott a tragédia.",
     "url": "https://index.hu/belfold/2026/02/11/video-vonatbaleset-pecel-isaszeg-utkozes-szemelyauto-mav-rendorseg/",
@@ -61,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 11 Feb 2026 09:27:00 +0100"
+  },
+  {
+    "title": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
+    "snippet": "Sertéspestis: már a Pest megyei Isaszeg is fertőzött",
+    "url": "https://infostart.hu/belfold/2026/05/22/sertespestis-mar-a-pest-megyei-isaszeg-is-fertozott",
+    "source": "infostart.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Egy 15 éves lányt gázolt halálra a vonat Isaszegnél, szerelmi bánatában léphetett a szerelvény elé",
