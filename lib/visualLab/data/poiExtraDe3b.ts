@@ -4,7 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraDe3b: POI[] = [
   // ── DE-BB Brandenburg (15) ──────────────────────────────────────────────────
     {
-    id: "city-cottbus-extra",
+    id: "city-cottbus-extra", population: 100010,
     type: "city",
     parent: "DE-BB",
     coords: [14.3350, 51.7607],
@@ -681,7 +681,7 @@ export const poiExtraDe3b: POI[] = [
       fr: ["Siège des plus anciens grands studios de cinéma au monde (fondés en 1912).", "C'est ici qu'ont été créés des chefs-d'œuvre comme 'L'Ange bleu' avec Marlene Dietrich.", "Studio Babelsberg comprend 21 studios modernes sur 46 hectares.", "Le Filmpark présente des décors originaux de la série 'Gute Zeiten, schlechte Zeiten'.", "Cœur de la première Ville créative de cinéma de l'UNESCO en Allemagne.", "Possède l'une des plus grandes arènes de cascades de toute l'Europe."],
     }, image: "/poi-images/hist-filmpark-babelsberg-extra.webp"},
   {
-    id: "city-frankfurt-oder-extra",
+    id: "city-frankfurt-oder-extra", population: 58818,
     type: "city",
     parent: "DE-BB",
     coords: [14.5500, 52.3400],
@@ -856,7 +856,7 @@ export const poiExtraDe3b: POI[] = [
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
       {
-    id: "city-dessau-extra",
+    id: "city-dessau-extra", population: 79686,
     type: "city",
     parent: "DE-ST",
     coords: [12.2400, 51.8370],

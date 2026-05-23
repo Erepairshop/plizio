@@ -6,7 +6,7 @@ export const poiExtraDe4a: POI[] = [
 
   
   {
-    id: "city-weimar-extra",
+    id: "city-weimar-extra", population: 65611,
     type: "city",
     parent: "DE-TH",
     coords: [11.3283, 50.9795],
@@ -567,7 +567,7 @@ export const poiExtraDe4a: POI[] = [
     area: 9.2, image: "/poi-images/lake-bleilochtalsperre-extra.webp"},
 
   {
-    id: "city-eisenach-extra",
+    id: "city-eisenach-extra", population: 42817,
     type: "city",
     parent: "DE-TH",
     coords: [10.3148, 50.9750],
@@ -992,7 +992,7 @@ export const poiExtraDe4a: POI[] = [
     length: 292, image: "/poi-images/river-werra-th-extra.webp"},
 
   {
-    id: "city-gotha-extra",
+    id: "city-gotha-extra", population: 46300,
     type: "city",
     parent: "DE-TH",
     coords: [10.7024, 50.9478],

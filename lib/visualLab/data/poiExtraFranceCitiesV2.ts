@@ -3,7 +3,7 @@ import { POI } from './poi';
 export const franceCitiesV2: POI[] = [
 
   {
-    id: "france-antibes-cities-v2",
+    id: "france-antibes-cities-v2", population: 77637,
     type: "city",
     parent: "FR",
     name: { de: "Antibes", hu: "Antibes", ro: "Antibes", en: "Antibes" },
@@ -226,7 +226,7 @@ export const franceCitiesV2: POI[] = [
 }
   },
   {
-    id: "france-dunkerque-cities-v2",
+    id: "france-dunkerque-cities-v2", population: 89882,
     type: "city",
     parent: "FR",
     name: { de: "Dünkirchen", hu: "Dunkerque", ro: "Dunkerque", en: "Dunkirk" },
@@ -449,7 +449,7 @@ export const franceCitiesV2: POI[] = [
 }
   },
   {
-    id: "france-ajaccio-cities-v2",
+    id: "france-ajaccio-cities-v2", population: 76320,
     type: "city",
     parent: "FR",
     name: { de: "Ajaccio", hu: "Ajaccio", ro: "Ajaccio", en: "Ajaccio" },
@@ -1164,7 +1164,7 @@ export const franceCitiesV2: POI[] = [
 }
   },
   {
-    id: "france-toulouse-cities-v2",
+    id: "france-toulouse-cities-v2", population: 514819,
     type: "city",
     parent: "FR",
     name: { de: "Toulouse", hu: "Toulouse", ro: "Toulouse", en: "Toulouse" },
@@ -1387,7 +1387,7 @@ export const franceCitiesV2: POI[] = [
 }
   },
   {
-    id: "france-nice-cities-v2",
+    id: "france-nice-cities-v2", population: 357737,
     type: "city",
     parent: "FR",
     name: { de: "Nizza", hu: "Nizza", ro: "Nisa", en: "Nice" },
@@ -1682,7 +1682,7 @@ export const franceCitiesV2: POI[] = [
 }
   },
   {
-    id: "france-lyon-cities-v2",
+    id: "france-lyon-cities-v2", population: 522969,
     type: "city",
     parent: "FR",
     name: { de: "Lyon", hu: "Lyon", ro: "Lyon", en: "Lyon" },

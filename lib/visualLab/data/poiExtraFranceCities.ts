@@ -4,7 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraFranceCities: POI[] = [
   // All batches combined - Final
   {
-    id: "city-grenoble-extra",
+    id: "city-grenoble-extra", population: 166037,
     type: "city",
     parent: "FR-ARA",
     coords: [5.7245, 45.1885],
@@ -201,7 +201,7 @@ export const poiExtraFranceCities: POI[] = [
 }
   },
   {
-    id: "city-strasbourg-extra",
+    id: "city-strasbourg-extra", population: 293771,
     type: "city",
     parent: "FR-GES",
     coords: [7.7521, 48.5734],
@@ -699,7 +699,7 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "city-rouen-extra",
+    id: "city-rouen-extra", population: 117662,
     type: "city",
     parent: "FR-NOR",
     coords: [1.0993, 49.4432],
@@ -939,7 +939,7 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "city-montpellier-extra",
+    id: "city-montpellier-extra", population: 310240,
     type: "city",
     parent: "FR-OCC",
     coords: [3.8767, 43.6108],
@@ -1265,7 +1265,7 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "city-avignon-extra",
+    id: "city-avignon-extra", population: 94200,
     type: "city",
     parent: "FR-PAC",
     coords: [4.8056, 43.9493],
@@ -1592,7 +1592,7 @@ export const poiExtraFranceCities: POI[] = [
     image: "/poi-images/agriculture-champagne-region-extra.webp",
   },
   {
-    id: "city-dijon-extra",
+    id: "city-dijon-extra", population: 161830,
     type: "city",
     parent: "FR-BFC",
     coords: [5.0415, 47.3220],
@@ -1832,7 +1832,7 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "city-clermont-ferrand-extra",
+    id: "city-clermont-ferrand-extra", population: 147865,
     type: "city",
     parent: "FR-ARA",
     coords: [3.0870, 45.7772],
@@ -2464,7 +2464,7 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "city-aix-en-provence-extra",
+    id: "city-aix-en-provence-extra", population: 149695,
     type: "city",
     parent: "FR-PAC",
     coords: [5.4474, 43.5297],

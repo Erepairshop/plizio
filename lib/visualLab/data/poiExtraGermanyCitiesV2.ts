@@ -48,7 +48,7 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-paderborn-cities-v2.webp",
   },
   {
-    id: "germany-reutlingen-cities-v2",
+    id: "germany-reutlingen-cities-v2", population: 118528,
     type: "city",
     parent: "DE",
     name: { de: "Reutlingen", hu: "Reutlingen", ro: "Reutlingen", en: "Reutlingen" },
@@ -228,7 +228,7 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-hof-cities-v2.webp",
   },
   {
-    id: "germany-bottrop-cities-v2",
+    id: "germany-bottrop-cities-v2", population: 118705,
     type: "city",
     parent: "DE",
     name: { de: "Bottrop", hu: "Bottrop", ro: "Bottrop", en: "Bottrop" },
@@ -588,7 +588,7 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-cloppenburg-cities-v2.webp",
   },
   {
-    id: "germany-emden-cities-v2",
+    id: "germany-emden-cities-v2", population: 50659,
     type: "city",
     parent: "DE",
     name: { de: "Emden", hu: "Emden", ro: "Emden", en: "Emden" },
@@ -633,7 +633,7 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-emden-cities-v2.webp",
   },
     {
-    id: "germany-baden-baden-cities-v2",
+    id: "germany-baden-baden-cities-v2", population: 57420,
     type: "city",
     parent: "DE",
     name: { de: "Baden-Baden", hu: "Baden-Baden", ro: "Baden-Baden", en: "Baden-Baden" },
@@ -678,7 +678,7 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-baden-baden-cities-v2.webp",
   },
   {
-    id: "germany-arnsberg-cities-v2",
+    id: "germany-arnsberg-cities-v2", population: 74206,
     type: "city",
     parent: "DE",
     name: { de: "Arnsberg", hu: "Arnsberg", ro: "Arnsberg", en: "Arnsberg" },

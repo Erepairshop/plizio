@@ -11,7 +11,7 @@ type CitySeed = {
 
 const citySeeds: CitySeed[] = [
   {
-    id: "rennes",
+    id: "rennes", population: 230890,
     parent: "FR-BRE",
     coords: [-1.6778, 48.1173],
     name: { de: "Rennes", hu: "Rennes", ro: "Rennes", en: "Rennes" },
@@ -223,7 +223,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "le-havre",
+    id: "le-havre", population: 172807,
     parent: "FR-NOR",
     coords: [0.1079, 49.4944],
     name: { de: "Le Havre", hu: "Le Havre", ro: "Le Havre", en: "Le Havre" },
@@ -435,7 +435,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "angers",
+    id: "angers", population: 159022,
     parent: "FR-PDL",
     coords: [-0.5632, 47.4784],
     name: { de: "Angers", hu: "Angers", ro: "Angers", en: "Angers" },
@@ -647,7 +647,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "nimes",
+    id: "nimes", population: 154196,
     parent: "FR-OCC",
     coords: [4.3601, 43.8367],
     name: { de: "Nîmes", hu: "Nîmes", ro: "Nîmes", en: "Nîmes" },
@@ -835,7 +835,7 @@ const citySeeds: CitySeed[] = [
 }
   },
     {
-    id: "brest",
+    id: "brest", population: 166826,
     parent: "FR-BRE",
     coords: [-4.4861, 48.3904],
     name: { de: "Brest", hu: "Brest", ro: "Brest", en: "Brest" },
@@ -1023,7 +1023,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "tours",
+    id: "tours", population: 140686,
     parent: "FR-CVL",
     coords: [0.6848, 47.3941],
     name: { de: "Tours", hu: "Tours", ro: "Tours", en: "Tours" },
@@ -1211,7 +1211,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "amiens",
+    id: "amiens", population: 136998,
     parent: "FR-HDF",
     coords: [2.2950, 49.8941],
     name: { de: "Amiens", hu: "Amiens", ro: "Amiens", en: "Amiens" },
@@ -1399,7 +1399,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "limoges",
+    id: "limoges", population: 135140,
     parent: "FR-NAQ",
     coords: [1.2611, 45.8336],
     name: { de: "Limoges", hu: "Limoges", ro: "Limoges", en: "Limoges" },
@@ -1587,7 +1587,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "metz",
+    id: "metz", population: 124435,
     parent: "FR-GES",
     coords: [6.1757, 49.1193],
     name: { de: "Metz", hu: "Metz", ro: "Metz", en: "Metz" },
@@ -1775,7 +1775,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "perpignan",
+    id: "perpignan", population: 123602,
     parent: "FR-OCC",
     coords: [2.8948, 42.6887],
     name: { de: "Perpignan", hu: "Perpignan", ro: "Perpignan", en: "Perpignan" },
@@ -1963,7 +1963,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "besancon",
+    id: "besancon", population: 120315,
     parent: "FR-BFC",
     coords: [6.0241, 47.2378],
     name: { de: "Besançon", hu: "Besançon", ro: "Besançon", en: "Besançon" },
@@ -2151,7 +2151,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "orleans",
+    id: "orleans", population: 118601,
     parent: "FR-CVL",
     coords: [1.9093, 47.9029],
     name: { de: "Orléans", hu: "Orléans", ro: "Orléans", en: "Orléans" },
@@ -2339,7 +2339,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "mulhouse",
+    id: "mulhouse", population: 110468,
     parent: "FR-GES",
     coords: [7.3359, 47.7508],
     name: { de: "Mulhouse", hu: "Mulhouse", ro: "Mulhouse", en: "Mulhouse" },
@@ -2527,7 +2527,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "caen",
+    id: "caen", population: 119640,
     parent: "FR-NOR",
     coords: [-0.3707, 49.1829],
     name: { de: "Caen", hu: "Caen", ro: "Caen", en: "Caen" },
@@ -2903,7 +2903,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "saint-denis",
+    id: "saint-denis", population: 149077,
     parent: "FR-IDF",
     coords: [2.3580, 48.9362],
     name: { de: "Saint-Denis", hu: "Saint-Denis", ro: "Saint-Denis", en: "Saint-Denis" },
@@ -3091,7 +3091,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "argenteuil",
+    id: "argenteuil", population: 111038,
     parent: "FR-IDF",
     coords: [2.2469, 48.9470],
     name: { de: "Argenteuil", hu: "Argenteuil", ro: "Argenteuil", en: "Argenteuil" },
@@ -3255,7 +3255,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "troyes",
+    id: "troyes", population: 74898,
     parent: "FR-GES",
     coords: [4.0744, 48.2973],
     name: { de: "Troyes", hu: "Troyes", ro: "Troyes", en: "Troyes" },
@@ -3467,7 +3467,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "saint-etienne",
+    id: "saint-etienne", population: 199000,
     parent: "FR-ARA",
     coords: [4.3872, 45.4397],
     name: { de: "Saint-Étienne", hu: "Saint-Étienne", ro: "Saint-Étienne", en: "Saint-Étienne" },
@@ -3679,7 +3679,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "toulon",
+    id: "toulon", population: 180834,
     parent: "FR-PAC",
     coords: [5.9280, 43.1242],
     name: { de: "Toulon", hu: "Toulon", ro: "Toulon", en: "Toulon" },
@@ -3867,7 +3867,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "valence",
+    id: "valence", population: 68604,
     parent: "FR-ARA",
     coords: [4.8924, 44.9334],
     name: { de: "Valence", hu: "Valence", ro: "Valence", en: "Valence" },
@@ -4243,7 +4243,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "dunkerque",
+    id: "dunkerque", population: 89882,
     parent: "FR-HDF",
     coords: [2.3770, 51.0344],
     name: { de: "Dunkerque", hu: "Dunkerque", ro: "Dunkerque", en: "Dunkerque" },
@@ -4431,7 +4431,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "la-rochelle",
+    id: "la-rochelle", population: 79961,
     parent: "FR-NAQ",
     coords: [-1.1511, 46.1603],
     name: { de: "La Rochelle", hu: "La Rochelle", ro: "La Rochelle", en: "La Rochelle" },
@@ -4643,7 +4643,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "biarritz",
+    id: "biarritz", population: 26206,
     parent: "FR-NAQ",
     coords: [-1.5536, 43.4832],
     name: { de: "Biarritz", hu: "Biarritz", ro: "Biarritz", en: "Biarritz" },
@@ -4855,7 +4855,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "pau",
+    id: "pau", population: 81166,
     parent: "FR-NAQ",
     coords: [-0.3708, 43.2951],
     name: { de: "Pau", hu: "Pau", ro: "Pau", en: "Pau" },
@@ -5067,7 +5067,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "bayonne",
+    id: "bayonne", population: 54306,
     parent: "FR-NAQ",
     coords: [-1.4734, 43.4929],
     name: { de: "Bayonne", hu: "Bayonne", ro: "Bayonne", en: "Bayonne" },
@@ -5279,7 +5279,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "poitiers",
+    id: "poitiers", population: 90590,
     parent: "FR-NAQ",
     coords: [0.3404, 46.5802],
     name: { de: "Poitiers", hu: "Poitiers", ro: "Poitiers", en: "Poitiers" },
@@ -5467,7 +5467,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "vannes",
+    id: "vannes", population: 55790,
     parent: "FR-BRE",
     coords: [-2.7608, 47.6582],
     name: { de: "Vannes", hu: "Vannes", ro: "Vannes", en: "Vannes" },
@@ -5655,7 +5655,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "lorient",
+    id: "lorient", population: 69769,
     parent: "FR-BRE",
     coords: [-3.3700, 47.7480],
     name: { de: "Lorient", hu: "Lorient", ro: "Lorient", en: "Lorient" },
@@ -5843,7 +5843,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "saint-malo",
+    id: "saint-malo", population: 50675,
     parent: "FR-BRE",
     coords: [-2.0249, 48.6493],
     name: { de: "Saint-Malo", hu: "Saint-Malo", ro: "Saint-Malo", en: "Saint-Malo" },
@@ -6055,7 +6055,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "quimper",
+    id: "quimper", population: 66743,
     parent: "FR-BRE",
     coords: [-4.0979, 47.9961],
     name: { de: "Quimper", hu: "Quimper", ro: "Quimper", en: "Quimper" },
@@ -6243,7 +6243,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "saint-brieuc",
+    id: "saint-brieuc", population: 52559,
     parent: "FR-BRE",
     coords: [-2.7600, 48.5142],
     name: { de: "Saint-Brieuc", hu: "Saint-Brieuc", ro: "Saint-Brieuc", en: "Saint-Brieuc" },
@@ -6431,7 +6431,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "dinard",
+    id: "dinard", population: 10772,
     parent: "FR-BRE",
     coords: [-2.0580, 48.6350],
     name: { de: "Dinard", hu: "Dinard", ro: "Dinard", en: "Dinard" },
@@ -6619,7 +6619,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "laval",
+    id: "laval", population: 52359,
     parent: "FR-PDL",
     coords: [-0.7703, 48.0734],
     name: { de: "Laval", hu: "Laval", ro: "Laval", en: "Laval" },
@@ -6807,7 +6807,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "cholet",
+    id: "cholet", population: 55772,
     parent: "FR-PDL",
     coords: [-0.8787, 47.0581],
     name: { de: "Cholet", hu: "Cholet", ro: "Cholet", en: "Cholet" },
@@ -6995,7 +6995,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "saint-nazaire",
+    id: "saint-nazaire", population: 74568,
     parent: "FR-PDL",
     coords: [-2.2137, 47.2735],
     name: { de: "Saint-Nazaire", hu: "Saint-Nazaire", ro: "Saint-Nazaire", en: "Saint-Nazaire" },
@@ -7183,7 +7183,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "chartres",
+    id: "chartres", population: 40361,
     parent: "FR-CVL",
     coords: [1.4890, 48.4461],
     name: { de: "Chartres", hu: "Chartres", ro: "Chartres", en: "Chartres" },
@@ -7371,7 +7371,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "blois",
+    id: "blois", population: 49778,
     parent: "FR-CVL",
     coords: [1.3290, 47.5861],
     name: { de: "Blois", hu: "Blois", ro: "Blois", en: "Blois" },
@@ -7559,7 +7559,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "bourges",
+    id: "bourges", population: 77300,
     parent: "FR-CVL",
     coords: [2.3991, 47.0810],
     name: { de: "Bourges", hu: "Bourges", ro: "Bourges", en: "Bourges" },
@@ -7747,7 +7747,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "chateauroux",
+    id: "chateauroux", population: 53429,
     parent: "FR-CVL",
     coords: [1.6910, 46.8100],
     name: { de: "Châteauroux", hu: "Châteauroux", ro: "Châteauroux", en: "Châteauroux" },
@@ -7935,7 +7935,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "amboise",
+    id: "amboise", population: 13246,
     parent: "FR-CVL",
     coords: [0.9820, 47.4120],
     name: { de: "Amboise", hu: "Amboise", ro: "Amboise", en: "Amboise" },
@@ -8123,7 +8123,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "albi",
+    id: "albi", population: 51290,
     parent: "FR-OCC",
     coords: [2.1480, 43.9280],
     name: { de: "Albi", hu: "Albi", ro: "Albi", en: "Albi" },
@@ -8311,7 +8311,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "rodez",
+    id: "rodez", population: 25747,
     parent: "FR-OCC",
     coords: [2.5756, 44.3510],
     name: { de: "Rodez", hu: "Rodez", ro: "Rodez", en: "Rodez" },
@@ -8511,7 +8511,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "montauban",
+    id: "montauban", population: 62945,
     parent: "FR-OCC",
     coords: [1.3520, 44.0170],
     name: { de: "Montauban", hu: "Montauban", ro: "Montauban", en: "Montauban" },
@@ -8711,7 +8711,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "auch",
+    id: "auch", population: 23258,
     parent: "FR-OCC",
     coords: [0.5889, 43.6450],
     name: { de: "Auch", hu: "Auch", ro: "Auch", en: "Auch" },
@@ -8911,7 +8911,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "beziers",
+    id: "beziers", population: 84029,
     parent: "FR-OCC",
     coords: [3.2158, 43.3442],
     name: { de: "Béziers", hu: "Béziers", ro: "Béziers", en: "Béziers" },
@@ -9111,7 +9111,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "narbonne",
+    id: "narbonne", population: 57587,
     parent: "FR-OCC",
     coords: [3.0050, 43.1830],
     name: { de: "Narbonne", hu: "Narbonne", ro: "Narbonne", en: "Narbonne" },
@@ -9347,7 +9347,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "sete",
+    id: "sete", population: 45337,
     parent: "FR-OCC",
     coords: [3.6990, 43.4020],
     name: { de: "Sète", hu: "Sète", ro: "Sète", en: "Sète" },
@@ -9583,7 +9583,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "tarbes",
+    id: "tarbes", population: 44529,
     parent: "FR-OCC",
     coords: [-0.0781, 43.2332],
     name: { de: "Tarbes", hu: "Tarbes", ro: "Tarbes", en: "Tarbes" },
@@ -11579,7 +11579,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "agen",
+    id: "agen", population: 34949,
     parent: "FR-NAQ",
     coords: [0.6210, 44.2030],
     name: { de: "Agen", hu: "Agen", ro: "Agen", en: "Agen" },
@@ -11767,7 +11767,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "brive-la-gaillarde",
+    id: "brive-la-gaillarde", population: 51864,
     parent: "FR-NAQ",
     coords: [1.5330, 45.1590],
     name: { de: "Brive-la-Gaillarde", hu: "Brive-la-Gaillarde", ro: "Brive-la-Gaillarde", en: "Brive-la-Gaillarde" },
@@ -11955,7 +11955,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "bergerac",
+    id: "bergerac", population: 28166,
     parent: "FR-NAQ",
     coords: [0.4850, 44.8510],
     name: { de: "Bergerac", hu: "Bergerac", ro: "Bergerac", en: "Bergerac" },
@@ -12143,7 +12143,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "colmar",
+    id: "colmar", population: 71445,
     parent: "FR-GES",
     coords: [7.3570, 48.0790],
     name: { de: "Colmar", hu: "Colmar", ro: "Colmar", en: "Colmar" },
@@ -12379,7 +12379,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "epinal",
+    id: "epinal", population: 33454,
     parent: "FR-GES",
     coords: [6.4500, 48.1730],
     name: { de: "Épinal", hu: "Épinal", ro: "Épinal", en: "Épinal" },
@@ -12591,7 +12591,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "thionville",
+    id: "thionville", population: 42778,
     parent: "FR-GES",
     coords: [6.1650, 49.3570],
     name: { de: "Thionville", hu: "Thionville", ro: "Thionville", en: "Thionville" },
@@ -12803,7 +12803,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "charleville-mezieres",
+    id: "charleville-mezieres", population: 60176,
     parent: "FR-GES",
     coords: [4.7200, 49.7700],
     name: { de: "Charleville-Mézières", hu: "Charleville-Mézières", ro: "Charleville-Mézières", en: "Charleville-Mézières" },
@@ -13039,7 +13039,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "cherbourg-en-cotentin",
+    id: "cherbourg-en-cotentin", population: 80616,
     parent: "FR-NOR",
     coords: [-1.6220, 49.6330],
     name: { de: "Cherbourg-en-Cotentin", hu: "Cherbourg-en-Cotentin", ro: "Cherbourg-en-Cotentin", en: "Cherbourg-en-Cotentin" },
@@ -13227,7 +13227,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "dieppe",
+    id: "dieppe", population: 30588,
     parent: "FR-NOR",
     coords: [1.0830, 49.9230],
     name: { de: "Dieppe", hu: "Dieppe", ro: "Dieppe", en: "Dieppe" },
@@ -13415,7 +13415,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "evreux",
+    id: "evreux", population: 51560,
     parent: "FR-NOR",
     coords: [1.1510, 49.0240],
     name: { de: "Évreux", hu: "Évreux", ro: "Évreux", en: "Évreux" },
@@ -13791,7 +13791,7 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "boulogne-sur-mer",
+    id: "boulogne-sur-mer", population: 42537,
     parent: "FR-HDF",
     coords: [1.6130, 50.7260],
     name: { de: "Boulogne-sur-Mer", hu: "Boulogne-sur-Mer", ro: "Boulogne-sur-Mer", en: "Boulogne-sur-Mer" },
@@ -13825,7 +13825,7 @@ const citySeeds: CitySeed[] = [
     image: "/poi-images/boulogne-sur-mer.webp",
   },
   {
-    id: "valenciennes",
+    id: "valenciennes", population: 44509,
     parent: "FR-HDF",
     coords: [3.5230, 50.3570],
     name: { de: "Valenciennes", hu: "Valenciennes", ro: "Valenciennes", en: "Valenciennes" },

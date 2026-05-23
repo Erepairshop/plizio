@@ -325,7 +325,7 @@ imageHint: "Cargo ships and docks at the Port of Immingham",
     },
     image: "/poi-images/uk-port-of-immingham-economic-v2.webp",
 },  {
-    id: "uk-milton-keynes-economic-v2",
+    id: "uk-milton-keynes-economic-v2", population: 264349,
     parent: "GB",
     type: "city",
     name: { de: "Milton Keynes", hu: "Milton Keynes", ro: "Milton Keynes", en: "Milton Keynes"},

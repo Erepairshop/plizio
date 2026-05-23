@@ -1351,7 +1351,7 @@ export const poiExtraDe4b: POI[] = [
   // ─── DE-SL Saarland (+15) ────────────────────────────────────────────────────
 
   {
-    id: "state-capital-saarbruecken-sl-extra",
+    id: "state-capital-saarbruecken-sl-extra", population: 183509,
     type: "state-capital",
     parent: "DE-SL",
     coords: [6.9969, 49.2354],
@@ -1682,7 +1682,7 @@ export const poiExtraDe4b: POI[] = [
     }, image: "/poi-images/mountain-hohe-warte-sl-extra.webp"},
 
   {
-    id: "city-neunkirchen-sl-extra",
+    id: "city-neunkirchen-sl-extra", population: 47097,
     type: "city",
     parent: "DE-SL",
     coords: [7.1777, 49.3453],
@@ -2482,7 +2482,7 @@ export const poiExtraDe4b: POI[] = [
     }, image: "/poi-images/forest-warndt-sl-extra.webp"},
 
   {
-    id: "city-saarlouis-sl-extra",
+    id: "city-saarlouis-sl-extra", population: 34893,
     type: "city",
     parent: "DE-SL",
     coords: [6.7517, 49.3134],

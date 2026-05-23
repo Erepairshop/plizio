@@ -4,7 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraDe3a: POI[] = [
   // ─── DE-MV (Mecklenburg-Vorpommern) — 15 POIs ──────────────────────────────
     {
-    id: "city-stralsund-extra",
+    id: "city-stralsund-extra", population: 59450,
     type: "city",
     parent: "DE-MV",
     coords: [13.0848, 54.3092],
@@ -525,7 +525,7 @@ export const poiExtraDe3a: POI[] = [
       fr: ["Le monastère d'Eldena a été fondé en 1199 par le prince Jaromar Ier de Rügen.", "Il appartenait à l'ordre cistercien et était un centre de christianisation de la région.", "Les moines d'Eldena ont officiellement fondé la ville de Greifswald en 1250.", "Après la sécularisation de 1536, les pierres des bâtiments furent en partie utilisées pour les fortifications de la ville.", "Caspar David Friedrich a rendu la ruine mondialement célèbre grâce à ses peintures romantiques.", "Le site de la ruine a été aménagé en parc au XIXe siècle selon les plans de Peter Joseph Lenné.", "En été, la ruine accueille les populaires soirées de jazz \"Eldenaer Jazz Evenings\"."],
     }, image: "/poi-images/historical-kloster-eldena-extra.webp"},
     {
-    id: "city-neubrandenburg-extra",
+    id: "city-neubrandenburg-extra", population: 64390,
     type: "city",
     parent: "DE-MV",
     coords: [13.2602, 53.5568],
@@ -1296,7 +1296,7 @@ export const poiExtraDe3a: POI[] = [
       fr: ["Le parc national de la mer des Wadden du Schleswig-Holstein couvre une superficie de 4 410 kilomètres carrés.", "Avec d'autres zones de vasières, il est inscrit au patrimoine mondial de l'UNESCO depuis 2009.", "Chaque année, entre 10 et 12 millions d'oiseaux migrateurs utilisent la mer des Wadden comme halte et zone d'alimentation.", "La mer des Wadden est le plus important habitat pour le phoque commun en Allemagne.", "Deux fois par jour (toutes les 12,5 heures environ), flux et reflux alternent.", "Un seul mètre carré de vase peut abriter des millions de minuscules organismes (comme les vers de vase et les escargots).", "Sur les bancs de sable extérieurs inhabités, comme Trischen, on trouve une nature sauvage absolument vierge."],
     }, image: "/poi-images/sea-wattenmeer-sh-extra.webp"},
   {
-    id: "city-flensburg-extra",
+    id: "city-flensburg-extra", population: 99307,
     type: "city",
     parent: "DE-SH",
     coords: [9.4352, 54.7920],

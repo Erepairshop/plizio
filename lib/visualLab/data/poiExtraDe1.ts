@@ -5,7 +5,7 @@ export const poiExtraDe1: POI[] = [
   // ─── DE-BY Bayern (+10) ─────────────────────────────────────────────────────
 
   {
-    id: "city-ingolstadt-extra",
+    id: "city-ingolstadt-extra", population: 142308,
     type: "city",
     parent: "DE-BY",
     coords: [11.4234, 48.7665],
@@ -227,7 +227,7 @@ export const poiExtraDe1: POI[] = [
   },
 
   {
-    id: "city-passau-extra",
+    id: "city-passau-extra", population: 54401,
     type: "city",
     parent: "DE-BY",
     coords: [13.4317, 48.5748],
@@ -995,7 +995,7 @@ export const poiExtraDe1: POI[] = [
   // ─── DE-NW Nordrhein-Westfalen (+10) ────────────────────────────────────────
 
   {
-    id: "city-muenster-extra",
+    id: "city-muenster-extra", population: 322904,
     type: "city",
     parent: "DE-NW",
     coords: [7.6261, 51.9607],
@@ -1242,7 +1242,7 @@ export const poiExtraDe1: POI[] = [
   },
 
   {
-    id: "city-wuppertal-extra",
+    id: "city-wuppertal-extra", population: 358938,
     type: "city",
     parent: "DE-NW",
     coords: [7.1828, 51.2562],
@@ -1968,7 +1968,7 @@ export const poiExtraDe1: POI[] = [
   // ─── DE-BW Baden-Württemberg (+10) ──────────────────────────────────────────
 
   {
-    id: "city-ulm-extra",
+    id: "city-ulm-extra", population: 129942,
     type: "city",
     parent: "DE-BW",
     coords: [9.9876, 48.3974],
@@ -2737,7 +2737,7 @@ export const poiExtraDe1: POI[] = [
     }, image: "/poi-images/historical-kloster-maulbronn-extra.webp"},
 
   {
-    id: "city-konstanz-extra",
+    id: "city-konstanz-extra", population: 85770,
     type: "city",
     parent: "DE-BW",
     coords: [9.1775, 47.6779],

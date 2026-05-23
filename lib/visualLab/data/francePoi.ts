@@ -1214,7 +1214,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "nice",
+    id: "nice", population: 357737,
     type: "city",
     parent: "FR-PAC",
     coords: [7.262, 43.7102],
@@ -1444,7 +1444,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "nantes",
+    id: "nantes", population: 327734,
     type: "city",
     parent: "FR-PDL",
     coords: [-1.5536, 47.2184],
@@ -1674,7 +1674,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "bordeaux",
+    id: "bordeaux", population: 267991,
     type: "city",
     parent: "FR-NAQ",
     coords: [-0.5792, 44.8378],
@@ -1904,7 +1904,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "strasbourg",
+    id: "strasbourg", population: 293771,
     type: "city",
     parent: "FR-GES",
     coords: [7.7521, 48.5734],
@@ -2134,7 +2134,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "lille",
+    id: "lille", population: 238695,
     type: "city",
     parent: "FR-HDF",
     coords: [3.0573, 50.6292],
@@ -2998,7 +2998,7 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "calais",
+    id: "calais", population: 75961,
     type: "city",
     parent: "FR-HDF",
     coords: [1.8587, 50.9513],
@@ -3276,7 +3276,7 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "reims",
+    id: "reims", population: 187206,
     type: "city",
     parent: "FR-GES",
     coords: [4.0331, 49.2583],

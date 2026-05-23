@@ -802,7 +802,7 @@ export const poiExtraDe2: POI[] = [
 
   // DE-NI (Niedersachsen) — 15 POIs
   {
-    id: "city-wolfsburg-extra",
+    id: "city-wolfsburg-extra", population: 127256,
     type: "city",
     parent: "DE-NI",
     coords: [10.7865, 52.4231],
@@ -1054,7 +1054,7 @@ export const poiExtraDe2: POI[] = [
       fr: ["Né de la confluence de la Werra et de la Fulda ('Pierre de la Weser').", "Seul grand fleuve allemand dont le bassin versant est exclusivement intérieur.", "La longueur totale, Werra incluse, est d'environ 751 kilomètres.", "Passe par la Porta Westfalica avec le monument de l'empereur Guillaume.", "Donne son nom au style architectural de la 'Renaissance de la Weser' (XVIe/XVIIe s.).", "Voie de navigation importante pour le port de Brême/Bremerhaven."],
     }, image: "/poi-images/river-weser-ni-extra.webp"},
   {
-    id: "city-hildesheim-extra",
+    id: "city-hildesheim-extra", population: 102325,
     type: "city",
     parent: "DE-NI",
     coords: [9.9518, 52.1508],
