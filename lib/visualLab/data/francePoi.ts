@@ -367,7 +367,7 @@ export const franceRegions: POI[] = [
       ro: ["Suprafață: 31.400 km².", "Populație: peste 5,1 milioane locuitori.", "Capitală regională: Marsilia.", "Regiunea este a treia ca pondere în PIB-ul Franței.", "Portul Marsilia gestionează 80 de milioane de tone de mărfuri anual.", "Nisa a devenit parte a Franței abia în 1860.", "Peste 300 de zile de soare pe an în medie.", "Găzduiește cel mai mare parc tehnologic din Europa, Sophia Antipolis."],
       en: ["Area: 31,400 square kilometers.", "Population: approximately 5.1 million.", "Regional capital: Marseille.", "Includes the world-famous French Riviera (Côte d'Azur).", "Highest peak: Barre des Écrins at 4,102 meters.", "Sophia Antipolis is Europe's leading science park.", "Marseille is the oldest city in France (founded 600 BC).", "Famous for the largest lavender fields in the world."],
      fr: ["La superficie régionale est de 31 400 km² pour 5,1 millions d'habitants.", "Le point culminant est la Barre des Écrins, s'élevant à 4 102 mètres d'altitude.", "Sophia Antipolis est la première technopole d'Europe, située près d'Antibes.", "Marseille est la deuxième ville de France par sa population.", "La Côte d'Azur concentre une part importante du nautisme de luxe mondial.", "Le mont Ventoux est une étape mythique et redoutée du Tour de France."]},
-  },
+  }
 ];
 
 export const franceCities: POI[] = [
@@ -1290,7 +1290,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Musée d'Art Moderne et d'Art Contemporain (MAMAC)", "text": "Ein bedeutendes Museum für Kunst der späten 1950er Jahre bis heute, mit Werken von Niki de Saint Phalle und Yves Klein.", "category": "museum", "confidence": "high" },
+            { "name": "Franziskanerkloster von Cimiez", "text": "Ein historisches Franziskanerkloster mit einem wunderschönen Garten und dem Friedhof, auf dem Henri Matisse begraben liegt.", "category": "monastic", "confidence": "high" },
+            { "name": "Römisches Amphitheater von Cimiez", "text": "Überreste eines römischen Amphitheaters aus dem 2. Jahrhundert, gelegen in einem Olivenhain nahe dem Archäologischen Museum.", "category": "historical", "confidence": "high" },
+            { "name": "Russische Orthodoxe Kathedrale Saint-Nicolas", "text": "Eine prachtvolle russisch-orthodoxe Kathedrale, die größte ihrer Art außerhalb Russlands, berühmt für ihre bunten Kuppeln.", "category": "religious", "confidence": "high" },
+            { "name": "Parc Phoenix", "text": "Ein großer botanischer und zoologischer Park mit einem riesigen Gewächshaus, verschiedenen Ökosystemen und exotischen Tieren.", "category": "natural", "confidence": "high" },
+            { "name": "Oper von Nizza", "text": "Ein elegantes Opernhaus aus dem 19. Jahrhundert im Herzen der Altstadt, das für seine hochklassigen Aufführungen bekannt ist.", "category": "cultural", "confidence": "high" },
+            { "name": "Port Lympia", "text": "Der historische Hafen von Nizza, umgeben von Gebäuden im genuesischen Stil und bunten traditionellen Fischerbooten.", "category": "civic", "confidence": "high" },
+            { "name": "Palais de la Méditerranée", "text": "Ein Luxushotel und Casino an der Promenade des Anglais, berühmt für seine prächtige Art-Déco-Fassade und Geschichte.", "category": "hotel", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Promenade des Anglais",
@@ -1340,7 +1349,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Modern és Kortárs Művészetek Múzeuma (MAMAC)", "text": "A modern művészet kiemelkedő múzeuma az 1950-es évektől napjainkig, Niki de Saint Phalle és Yves Klein műveivel.", "category": "museum", "confidence": "high" },
+            { "name": "Cimiez-i kolostor", "text": "Történelmi ferences kolostor gyönyörű kerttel, panorámás kilátással és a temetővel, ahol Henri Matisse nyugszik.", "category": "monastic", "confidence": "high" },
+            { "name": "Cimiez-i amfiteátrum", "text": "Egy 2. századi római amfiteátrum romjai egy olajfaligetben, a város régészeti múzeumának közvetlen közelében.", "category": "historical", "confidence": "high" },
+            { "name": "Szent Miklós orosz ortodox székesegyház", "text": "Lenyűgöző orosz ortodox székesegyház, Oroszországon kívül a legnagyobb, híres színes kupoláiról és ikonjairól.", "category": "religious", "confidence": "high" },
+            { "name": "Parc Phoenix", "text": "Hatalmas botanikus- és állatkert óriási üvegházzal, változatos ökoszisztémákkal és számos egzotikus állatfajjal.", "category": "natural", "confidence": "high" },
+            { "name": "Nizzai Operaház", "text": "Elegáns 19. századi operaház az óváros szívében, a tenger közelében, amely rangos előadásoknak ad otthont.", "category": "cultural", "confidence": "high" },
+            { "name": "Port Lympia", "text": "Nizza történelmi kikötője, amelyet genovai stílusú épületek és színes, hagyományos halászhajók vesznek körül.", "category": "civic", "confidence": "high" },
+            { "name": "Palais de la Méditerranée", "text": "Luxusszálloda és kaszinó a Promenade des Anglais-n, amely pompás Art Deco homlokzatáról és történelmi bájáról híres.", "category": "hotel", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Promenade des Anglais",
@@ -1390,7 +1408,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul de Artă Modernă și Contemporană (MAMAC)", "text": "Un muzeu proeminent de artă modernă din anii 1950 până azi, prezentând lucrări de Niki de Saint Phalle și Yves Klein.", "category": "museum", "confidence": "high" },
+            { "name": "Mănăstirea Cimiez", "text": "O mănăstire franciscană istorică cu o grădină superbă și cimitirul unde este înmormântat pictorul Henri Matisse.", "category": "monastic", "confidence": "high" },
+            { "name": "Amfiteatrul din Cimiez", "text": "Ruinele unui amfiteatru roman din secolul al II-lea, situate într-o livadă de măslini lângă muzeul de arheologie.", "category": "historical", "confidence": "high" },
+            { "name": "Catedrala Sfântul Nicolae", "text": "O catedrală ortodoxă rusă impresionantă, cea mai mare din afara Rusiei, cunoscută pentru cupolele și icoanele sale.", "category": "religious", "confidence": "high" },
+            { "name": "Parcul Phoenix", "text": "Un parc botanic și zoologic vast, cu o seră uriașă, ecosisteme diverse și numeroase specii de animale exotice.", "category": "natural", "confidence": "high" },
+            { "name": "Opera din Nisa", "text": "O operă elegantă din secolul al XIX-lea situată în inima orașului vechi, găzduind spectacole de prestigiu.", "category": "cultural", "confidence": "high" },
+            { "name": "Portul Lympia", "text": "Portul istoric al orașului Nisa, înconjurat de clădiri în stil genovez și plin de bărci de pescuit tradiționale colorate.", "category": "civic", "confidence": "high" },
+            { "name": "Palais de la Méditerranée", "text": "Un hotel de lux și cazino pe Promenade des Anglais, faimos pentru fațada sa Art Deco magnifică și farmecul istoric.", "category": "hotel", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Promenade des Anglais",
@@ -1440,7 +1467,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Museum of Modern and Contemporary Art (MAMAC)", "text": "A prominent museum showcasing avant-garde art from the late 1950s to the present, featuring Niki de Saint Phalle and Yves Klein.", "category": "museum", "confidence": "high" },
+            { "name": "Cimiez Monastery", "text": "A historic Franciscan monastery with a beautiful garden offering panoramic views and a cemetery where Matisse is buried.", "category": "monastic", "confidence": "high" },
+            { "name": "Cimiez Amphitheater", "text": "Ruins of a Roman amphitheater from the 2nd century, set in an olive grove near the city's archaeological museum.", "category": "historical", "confidence": "high" },
+            { "name": "Saint Nicholas Russian Orthodox Cathedral", "text": "A stunning Russian Orthodox cathedral, the largest of its kind outside Russia, known for its colorful domes and icons.", "category": "religious", "confidence": "high" },
+            { "name": "Phoenix Park", "text": "A large botanical and zoological park featuring a giant greenhouse, diverse ecosystems, and various exotic animal species.", "category": "natural", "confidence": "high" },
+            { "name": "Nice Opera House", "text": "An elegant 19th-century opera house hosting prestigious performances, located in the heart of the Old Town near the sea.", "category": "cultural", "confidence": "high" },
+            { "name": "Port Lympia", "text": "The historic port of Nice, surrounded by Genoese-style buildings and filled with colorful traditional fishing boats.", "category": "civic", "confidence": "high" },
+            { "name": "Palais de la Méditerranée", "text": "A luxury hotel and casino on the Promenade des Anglais, famous for its magnificent Art Deco facade and historic charm.", "category": "hotel", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1520,7 +1556,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Tour Bretagne", "text": "Ein 144 Meter hoher Wolkenkratzer mit Panoramablick über die Stadt von der Bar „Le Nid“ auf dem Dachgeschoss.", "category": "civic", "confidence": "high" },
+            { "name": "Jules-Verne-Museum", "text": "Ein Museum, das dem in Nantes geborenen Schriftsteller gewidmet ist, mit Manuskripten und Modellen in einer alten Villa.", "category": "museum", "confidence": "high" },
+            { "name": "Place Royale", "text": "Ein prächtiger Platz aus dem 18. Jahrhundert mit einem monumentalen Brunnen, der Nantes und die Loire symbolisiert.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Graslin", "text": "Ein im neoklassizistischen Stil erbautes Opernhaus aus dem 18. Jahrhundert, bekannt für seine korinthischen Säulen.", "category": "cultural", "confidence": "high" },
+            { "name": "Mahnmal für die Abschaffung der Sklaverei", "text": "Eine eindrucksvolle unterirdische Gedenkstätte an den Ufern der Loire, die dem Kampf gegen die Sklaverei gewidmet ist.", "category": "historical", "confidence": "high" },
+            { "name": "Naturhistorisches Museum Nantes", "text": "Ein Museum mit umfangreichen Sammlungen zur Zoologie und Geologie in einem prächtigen Gebäude aus dem 19. Jahrhundert.", "category": "museum", "confidence": "high" },
+            { "name": "Basilika Saint-Nicolas", "text": "Eine beeindruckende neugotische Basilika aus dem 19. Jahrhundert im Stadtzentrum, bekannt für ihren hohen Turm.", "category": "religious", "confidence": "high" },
+            { "name": "Parc de Procé", "text": "Ein malerischer Landschaftspark im englischen Stil mit seltenen Bäumen, Statuen und einem Herrenhaus.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Château des ducs de Bretagne",
@@ -1570,7 +1615,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Bretagne-torony", "text": "144 méter magas felhőkarcoló, amelynek tetőtéri bárjából, a hatalmas madarat formázó „Le Nid”-ből körpanoráma nyílik.", "category": "civic", "confidence": "high" },
+            { "name": "Jules Verne Múzeum", "text": "A Nantes-ban született híres írónak szentelt múzeum kéziratokkal és modellekkel egy dombtetőn álló villában.", "category": "museum", "confidence": "high" },
+            { "name": "Place Royale", "text": "Pompás 18. századi tér egy monumentális szökőkúttal, amely Nantes városát és a Loire folyót jelképezi.", "category": "civic", "confidence": "high" },
+            { "name": "Théâtre Graslin", "text": "Neoklasszicista stílusú 18. századi operaház, amely elegáns korinthoszi oszlopairól és gazdag belső teréről ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "A rabszolgaság eltörlésének emlékműve", "text": "Hatásos föld alatti emlékmű a Loire partján, amelyet a rabszolgaság eltörlésének és az ellene való küzdelemnek szenteltek.", "category": "historical", "confidence": "high" },
+            { "name": "Nantes-i Természettudományi Múzeum", "text": "Természettudományi múzeum hatalmas zoológiai és geológiai gyűjteménnyel egy gyönyörű 19. századi épületben.", "category": "museum", "confidence": "high" },
+            { "name": "Szent Miklós-bazilika", "text": "Lenyűgöző 19. századi neogótikus bazilika a városközpontban, amely magas tornyáról és részletgazdag faragványairól ismert.", "category": "religious", "confidence": "high" },
+            { "name": "Procé park", "text": "Festői angolkert ritka fákkal, szobrokkal és egy udvarházzal, amely tökéletes helyszín a nyugodt sétákhoz.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Château des ducs de Bretagne",
@@ -1620,7 +1674,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Turnul Bretania", "text": "Un zgârie-nori de 144 de metri care oferă o vedere panoramică asupra orașului de la barul „Le Nid” de pe acoperiș.", "category": "civic", "confidence": "high" },
+            { "name": "Muzeul Jules Verne", "text": "Un muzeu dedicat celebrului scriitor născut în Nantes, cu manuscrise, machete și obiecte personale într-o vilă veche.", "category": "museum", "confidence": "high" },
+            { "name": "Piața Regală", "text": "O piață grandioasă din secolul al XVIII-lea, cu o fântână monumentală care reprezintă orașul Nantes și fluviul Loara.", "category": "civic", "confidence": "high" },
+            { "name": "Teatrul Graslin", "text": "O operă din secolul al XVIII-lea construită în stil neoclasic, cunoscută pentru coloanele corintice și interiorul bogat.", "category": "cultural", "confidence": "high" },
+            { "name": "Memorialul abolirii sclaviei", "text": "Un memorial subteran impresionant dedicat luptei împotriva sclaviei, situat pe malurile fluviului Loara.", "category": "historical", "confidence": "high" },
+            { "name": "Muzeul de Istorie Naturală din Nantes", "text": "Un muzeu care prezintă colecții vaste de zoologie, geologie și etnografie într-o clădire superbă din secolul XIX.", "category": "museum", "confidence": "high" },
+            { "name": "Bazilica Sfântul Nicolae", "text": "O bazilică neogotică impresionantă din secolul al XIX-lea, cunoscută pentru turla sa înaltă și detaliile sculptate.", "category": "religious", "confidence": "high" },
+            { "name": "Parcul Procé", "text": "Un parc peisagistic pitoresc în stil englezesc, cu arbori rari, statui și un conac, ideal pentru plimbări liniștite.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Château des ducs de Bretagne",
@@ -1670,7 +1733,16 @@ export const franceCities: POI[] = [
                   "category": "historical",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Brittany Tower", "text": "A 144-meter skyscraper offering a panoramic view of the city from its rooftop bar, \"Le Nid,\" shaped like a giant bird.", "category": "civic", "confidence": "high" },
+            { "name": "Jules Verne Museum", "text": "A museum dedicated to the famous writer born in Nantes, featuring manuscripts, models, and personal belongings in a villa.", "category": "museum", "confidence": "high" },
+            { "name": "Place Royale", "text": "A grand 18th-century square featuring a monumental fountain representing the city of Nantes and the Loire River.", "category": "civic", "confidence": "high" },
+            { "name": "Graslin Theatre", "text": "An 18th-century opera house built in the neoclassical style, known for its elegant Corinthian columns and rich interior.", "category": "cultural", "confidence": "high" },
+            { "name": "Memorial to the Abolition of Slavery", "text": "A powerful underground memorial dedicated to the struggle against slavery, located on the banks of the Loire River.", "category": "historical", "confidence": "high" },
+            { "name": "Nantes Natural History Museum", "text": "A museum showcasing vast collections of zoology, geology, and ethnography in a beautiful 19th-century building.", "category": "museum", "confidence": "high" },
+            { "name": "Saint Nicholas Basilica", "text": "A stunning 19th-century Gothic Revival basilica located in the city center, known for its tall spire and detailed carvings.", "category": "religious", "confidence": "high" },
+            { "name": "Procé Park", "text": "A picturesque English-style landscape park featuring rare trees, statues, and a manor house, perfect for peaceful walks.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1750,7 +1822,16 @@ export const franceCities: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Basilique Saint-Michel", "text": "Spätgotische Basilika mit einem 114 Meter hohen freistehenden Glockenturm, der das Stadtbild prägt.", "category": "religious", "confidence": "high" },
+            { "name": "Musée d'Aquitaine", "text": "Regionalmuseum, das die Geschichte von Bordeaux und Aquitanien von der Urzeit bis heute zeigt.", "category": "museum", "confidence": "high" },
+            { "name": "Place des Quinconces", "text": "Einer der größten Stadtplätze Europas, bekannt für seine beeindruckenden Monumente und Brunnen.", "category": "civic", "confidence": "high" },
+            { "name": "Monument aux Girondins", "text": "Ein monumentales Denkmal mit Brunnen zur Ehre der während der Revolution hingerichteten Girondisten.", "category": "historical", "confidence": "high" },
+            { "name": "Palais Rohan", "text": "Das heutige Rathaus von Bordeaux, ein prächtiges klassizistisches Gebäude aus dem 18. Jahrhundert.", "category": "civic", "confidence": "high" },
+            { "name": "Base sous-marine", "text": "Ein ehemaliger U-Boot-Bunker aus dem Zweiten Weltkrieg, heute ein Zentrum für digitale Kunst.", "category": "cultural", "confidence": "high" },
+            { "name": "CAPC Musée d'art contemporain", "text": "In einem ehemaligen Warenlager untergebracht, zeigt dieses Museum bedeutende moderne Kunstwerke.", "category": "museum", "confidence": "high" },
+            { "name": "Marché des Capucins", "text": "Der größte Markt der Stadt, bekannt als Bauch von Bordeaux, bietet frische lokale Spezialitäten.", "category": "culinary", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Place de la Bourse",
@@ -1800,7 +1881,16 @@ export const franceCities: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Basilique Saint-Michel", "text": "Késő gótikus bazilika 114 méter magas harangtoronnyal, amely Bordeaux egyik legfontosabb jelképe.", "category": "religious", "confidence": "high" },
+            { "name": "Musée d'Aquitaine", "text": "Bordeaux és Aquitánia történetét bemutató múzeum az őskortól egészen napjainkig.", "category": "museum", "confidence": "high" },
+            { "name": "Place des Quinconces", "text": "Európa egyik legnagyobb tere, amely Monument aux Girondins emlékművéről és kútjairól híres.", "category": "civic", "confidence": "high" },
+            { "name": "Monument aux Girondins", "text": "Monumentális emlékmű és szökőkút a francia forradalom alatt kivégzett girondisták tiszteletére.", "category": "historical", "confidence": "high" },
+            { "name": "Palais Rohan", "text": "Bordeaux városházája, egy 18. századi klasszicista palota, amely egykor érseki székhely volt.", "category": "civic", "confidence": "high" },
+            { "name": "Base sous-marine", "text": "A második világháború alatt épült tengeralattjáró-bázis, ma digitális művészeti központ.", "category": "cultural", "confidence": "high" },
+            { "name": "CAPC Musée d'art contemporain", "text": "Egykori raktárépületben berendezett múzeum, amely a kortárs művészet jelentős alkotásait mutatja be.", "category": "museum", "confidence": "high" },
+            { "name": "Marché des Capucins", "text": "A város legnagyobb piaca, Bordeaux gyomraként is ismerik, híres a helyi specialitásokról.", "category": "culinary", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Place de la Bourse",
@@ -1850,7 +1940,16 @@ export const franceCities: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Basilique Saint-Michel", "text": "O basilică gotică târzie cu un turn clopotniță de 114 metri, fiind un simbol al orașului Bordeaux.", "category": "religious", "confidence": "high" },
+            { "name": "Musée d'Aquitaine", "text": "Muzeu care prezintă istoria orașului Bordeaux și a regiunii Aquitania din preistorie până azi.", "category": "museum", "confidence": "high" },
+            { "name": "Place des Quinconces", "text": "Una dintre cele mai mari piețe din Europa, faimoasă pentru monumentele și fântânile sale.", "category": "civic", "confidence": "high" },
+            { "name": "Monument aux Girondins", "text": "Un monument grandios dedicat girondinilor executați în timpul Revoluției Franceze.", "category": "historical", "confidence": "high" },
+            { "name": "Palais Rohan", "text": "Actuala primărie din Bordeaux, un palat neoclasic superb construit în secolul al XVIII-lea.", "category": "civic", "confidence": "high" },
+            { "name": "Base sous-marine", "text": "O fostă bază de submarine din Al Doilea Război Mondial, transformată în centru de artă.", "category": "cultural", "confidence": "high" },
+            { "name": "CAPC Musée d'art contemporain", "text": "Muzeu de artă contemporană situat într-un fost depozit, expunând opere de renume mondial.", "category": "museum", "confidence": "high" },
+            { "name": "Marché des Capucins", "text": "Cea mai mare piață din Bordeaux, oferind o gamă largă de produse proaspete și locale.", "category": "culinary", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Place de la Bourse",
@@ -1900,7 +1999,16 @@ export const franceCities: POI[] = [
                   "category": "natural",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Basilique Saint-Michel", "text": "A late Gothic basilica featuring a 114-meter freestanding bell tower, a landmark of Bordeaux.", "category": "religious", "confidence": "high" },
+            { "name": "Musée d'Aquitaine", "text": "Museum documenting the history of Bordeaux and Aquitaine from prehistoric times to today.", "category": "museum", "confidence": "high" },
+            { "name": "Place des Quinconces", "text": "One of the largest squares in Europe, known for its monumental column and fountain.", "category": "civic", "confidence": "high" },
+            { "name": "Monument aux Girondins", "text": "A monumental fountain dedicated to the Girondists executed during the French Revolution.", "category": "historical", "confidence": "high" },
+            { "name": "Palais Rohan", "text": "The current city hall of Bordeaux, a grand 18th-century neoclassical palace.", "category": "civic", "confidence": "high" },
+            { "name": "Base sous-marine", "text": "A former World War II submarine base, now an impressive center for digital art exhibitions.", "category": "cultural", "confidence": "high" },
+            { "name": "CAPC Musée d'art contemporain", "text": "Contemporary art museum located in a former warehouse, displaying major modern works.", "category": "museum", "confidence": "high" },
+            { "name": "Marché des Capucins", "text": "The city's largest market, known as the belly of Bordeaux, famous for fresh local food.", "category": "culinary", "confidence": "high" }
+        ]
 }
   },
   {
@@ -1980,7 +2088,18 @@ export const franceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Elsässisches Museum", "text": "In historischen Fachwerkhäusern wird das traditionelle Leben und die Volkskunst des Elsass lebendig.", "category": "museum", "confidence": "high" },
+            { "name": "Église Saint-Paul", "text": "Eine imposante neugotische Kirche, die malerisch am Zusammenfluss von Ill und Aar gelegen ist.", "category": "religious", "confidence": "high" },
+            { "name": "Place Kléber", "text": "Der größte zentrale Platz der Stadt, ein beliebter Treffpunkt mit dem Denkmal von General Kléber.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra National du Rhin", "text": "Das klassizistische Opernhaus am Place de la République ist ein Zentrum der darstellenden Künste.", "category": "cultural", "confidence": "high" },
+            { "name": "MAMCS", "text": "Das Museum für moderne und zeitgenössische Kunst zeigt bedeutende Werke von Picasso bis Kandinsky.", "category": "museum", "confidence": "high" },
+            { "name": "Gare de Strasbourg", "text": "Der historische Bahnhof wird von einer spektakulären, modernen Glaskuppel aus dem Jahr 2007 geschützt.", "category": "station", "confidence": "high" },
+            { "name": "Palais du Rhin", "text": "Der ehemalige Kaiserpalast ist ein herausragendes Beispiel für die deutsche Architektur der Preußenzeit.", "category": "historical", "confidence": "high" },
+            { "name": "Musée Historique", "text": "In der ehemaligen Stadtmetzgerei wird die bewegte Geschichte Straßburgs vom Mittelalter bis heute erzählt.", "category": "museum", "confidence": "high" },
+            { "name": "Europäischer Gerichtshof für Menschenrechte", "text": "Ein markantes modernes Gebäude, das die Bedeutung Straßburgs als europäische Hauptstadt unterstreicht.", "category": "civic", "confidence": "high" },
+            { "name": "Jardin des Deux Rives", "text": "Ein weitläufiger Park am Rhein, der durch eine Fußgängerbrücke Frankreich und Deutschland verbindet.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -2030,7 +2149,18 @@ export const franceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Elzászi Múzeum", "text": "Régi gerendavázas házakban mutatja be Elzász hagyományos népművészetét és mindennapi életét.", "category": "museum", "confidence": "high" },
+            { "name": "Szent Pál-templom", "text": "Lenyűgöző neogótikus templom, amely az Ill és az Aar folyók találkozásánál fekszik festői környezetben.", "category": "religious", "confidence": "high" },
+            { "name": "Place Kléber", "text": "Strasbourg legnagyobb központi tere, ahol Kléber tábornok szobra áll, és a városi élet lüktet.", "category": "civic", "confidence": "high" },
+            { "name": "Rajnai Nemzeti Opera", "text": "Klasszicista stílusú operaház a Place de la République mellett, a régió egyik legfontosabb színháza.", "category": "cultural", "confidence": "high" },
+            { "name": "Modern és Kortárs Művészeti Múzeum", "text": "A MAMCS néven ismert intézmény jelentős gyűjteménnyel rendelkezik a 19. századtól napjainkig.", "category": "museum", "confidence": "high" },
+            { "name": "Strasbourgi vasútállomás", "text": "A történelmi épületet 2007 óta egy hatalmas, látványos üvegbúra védi a modern kor szellemében.", "category": "station", "confidence": "high" },
+            { "name": "Rajnai palota", "text": "Az egykori császári palota a német építészet kiemelkedő példája a porosz fennhatóság idejéből.", "category": "historical", "confidence": "high" },
+            { "name": "Történeti Múzeum", "text": "Az egykori mészárszék épületében mutatja be a város gazdag múltját a középkortól kezdve.", "category": "museum", "confidence": "high" },
+            { "name": "Emberi Jogok Európai Bírósága", "text": "Modern építészeti landmark, amely az emberi jogok védelmének európai központjaként szolgál.", "category": "civic", "confidence": "high" },
+            { "name": "Két Part Kertje", "text": "A Rajna partján fekvő park, amely gyaloghíddal köti össze a francia és a német oldalt.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -2080,7 +2210,18 @@ export const franceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Muzeul Alsacian", "text": "Situat în case vechi cu bârne aparente, muzeul prezintă arta populară și viața tradițională din Alsacia.", "category": "museum", "confidence": "high" },
+            { "name": "Biserica Saint-Paul", "text": "O impunătoare biserică neogotică situată pitoresc la confluența râurilor Ill și Aar.", "category": "religious", "confidence": "high" },
+            { "name": "Place Kléber", "text": "Cea mai mare piață centrală a orașului, un loc de întâlnire popular dominat de statuia generalului Kléber.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra National du Rhin", "text": "Clădirea neoclasică a operei din Place de la République este un reper cultural major al regiunii.", "category": "cultural", "confidence": "high" },
+            { "name": "Muzeul de Artă Modernă și Contemporană", "text": "Găzduiește o colecție impresionantă de lucrări, de la impresionism până la formele de artă actuale.", "category": "museum", "confidence": "high" },
+            { "name": "Gara din Strasbourg", "text": "Fațada istorică a gării este protejată de o cupolă spectaculoasă de sticlă, construită în 2007.", "category": "station", "confidence": "high" },
+            { "name": "Palais du Rhin", "text": "Fostul palat imperial este un exemplu remarcabil de arhitectură germană din perioada prusacă.", "category": "historical", "confidence": "high" },
+            { "name": "Muzeul Istoric", "text": "Situat în vechiul sediu al măcelăriei orașului, muzeul prezintă evoluția Strasbourgului de-a lungul secolelor.", "category": "museum", "confidence": "high" },
+            { "name": "Curtea Europeană a Drepturilor Omului", "text": "O clădire modernă emblematică ce subliniază rolul orașului de capitală europeană a justiției.", "category": "civic", "confidence": "high" },
+            { "name": "Jardin des Deux Rives", "text": "Un parc vast situat pe malurile Rinului, simbolizând prietenia franco-germană printr-un pod pietonal.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Cathédrale Notre-Dame",
@@ -2130,7 +2271,18 @@ export const franceCities: POI[] = [
                   "category": "civic",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Alsatian Museum", "text": "Located in historic timber-framed houses, it showcases the traditional life and folk art of Alsace.", "category": "museum", "confidence": "high" },
+            { "name": "Saint Paul's Church", "text": "A stunning neo-Gothic church located at the scenic confluence of the Ill and Aar rivers.", "category": "religious", "confidence": "high" },
+            { "name": "Place Kléber", "text": "The main central square of the city, home to a monument of General Kléber and vibrant public events.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra National du Rhin", "text": "A neoclassical opera house on Place de la République, serving as a major hub for performing arts.", "category": "cultural", "confidence": "high" },
+            { "name": "MAMCS", "text": "Strasbourg's Modern and Contemporary Art Museum holds a vast collection from 1870 to the present day.", "category": "museum", "confidence": "high" },
+            { "name": "Strasbourg Train Station", "text": "The 19th-century station is famously encased within a massive, modern glass canopy added in 2007.", "category": "station", "confidence": "high" },
+            { "name": "Palais du Rhin", "text": "The former Imperial Palace is a prime example of German monumental architecture from the Prussian era.", "category": "historical", "confidence": "high" },
+            { "name": "Historical Museum", "text": "Housed in the city's former Great Butchery, this museum details the history of Strasbourg.", "category": "museum", "confidence": "high" },
+            { "name": "European Court of Human Rights", "text": "An iconic modern building designed by Richard Rogers, representing the city's European importance.", "category": "civic", "confidence": "high" },
+            { "name": "Jardin des Deux Rives", "text": "A border-crossing park on the Rhine with a pedestrian bridge linking France and Germany.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -2222,7 +2374,15 @@ export const franceCities: POI[] = [
                   "category": "station",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Maison Coilliot", "text": "Ein Meisterwerk des Art Nouveau von Hector Guimard mit einer markanten grünen Keramikfassade.", "category": "cultural", "confidence": "high" },
+            { "name": "Palais Rihour", "text": "Ein gotischer Palast aus dem 15. Jahrhundert, der heute das Tourismusbüro der Stadt beherbergt.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maurice", "text": "Eine fünfschiffige Hallenkirche im Zentrum, die über Jahrhunderte im gotischen Stil erbaut wurde.", "category": "religious", "confidence": "high" },
+            { "name": "Gare Saint-Sauveur", "text": "Ein ehemaliger Güterbahnhof, der in ein lebendiges Kulturzentrum mit Ausstellungen umgewandelt wurde.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin des Plantes de Lille", "text": "Ein botanischer Garten mit historischen Gewächshäusern und einer großen Vielfalt an Pflanzenarten.", "category": "natural", "confidence": "high" },
+            { "name": "Marché de Wazemmes", "text": "Einer der größten Märkte Frankreichs, bekannt für seine multikulturelle Atmosphäre und Frische.", "category": "culinary", "confidence": "high" },
+            { "name": "Parc Jean-Lebas", "text": "Ein weitläufiger Stadtpark in der Nähe des Kunstmuseums, ideal für Spaziergänge und Erholung.", "category": "natural", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Grand Place",
@@ -2284,7 +2444,15 @@ export const franceCities: POI[] = [
                   "category": "station",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Maison Coilliot", "text": "Hector Guimard által tervezett szecessziós lakóház, amely zöld kerámia homlokzatáról ismert.", "category": "cultural", "confidence": "high" },
+            { "name": "Palais Rihour", "text": "15. századi gótikus palota, amely ma a városi turisztikai irodának ad otthont.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maurice", "text": "Öthajós csarnoktemplom Lille központjában, amelyet évszázadokon át gótikus stílusban építettek.", "category": "religious", "confidence": "high" },
+            { "name": "Gare Saint-Sauveur", "text": "Eredetileg teherpályaudvar, ma népszerű kulturális helyszín kiállításokkal és közösségi terekkel.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin des Plantes de Lille", "text": "Botanikus kert üvegházakkal, amely változatos növényvilágot és nyugodt környezetet biztosít.", "category": "natural", "confidence": "high" },
+            { "name": "Marché de Wazemmes", "text": "Franciaország egyik legnagyobb és legélénkebb piaca, híres multikulturális hangulatáról.", "category": "culinary", "confidence": "high" },
+            { "name": "Parc Jean-Lebas", "text": "Tágas városi park a szépművészeti múzeum közelében, kedvelt pihenőhely a helyiek körében.", "category": "natural", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Grand Place",
@@ -2346,7 +2514,15 @@ export const franceCities: POI[] = [
                   "category": "station",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Maison Coilliot", "text": "O capodoperă Art Nouveau de Hector Guimard, celebră pentru fațada sa din ceramică verde.", "category": "cultural", "confidence": "high" },
+            { "name": "Palais Rihour", "text": "Un palat gotic din secolul al XV-lea, care găzduiește în prezent biroul de turism.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maurice", "text": "O biserică impunătoare cu cinci nave, construită în stil gotic de-a lungul mai multor secole.", "category": "religious", "confidence": "high" },
+            { "name": "Gare Saint-Sauveur", "text": "O fostă gară de mărfuri transformată într-un spațiu cultural activ cu diverse expoziții.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin des Plantes de Lille", "text": "Grădină botanică cu sere istorice, oferind o colecție vastă de plante și un mediu relaxant.", "category": "natural", "confidence": "high" },
+            { "name": "Marché de Wazemmes", "text": "Una dintre cele mai mari piețe din Franța, renumită pentru diversitate și produse proaspete.", "category": "culinary", "confidence": "high" },
+            { "name": "Parc Jean-Lebas", "text": "Un parc urban întins situat lângă muzeul de artă, ideal pentru recreere și plimbări.", "category": "natural", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Grand Place",
@@ -2408,7 +2584,15 @@ export const franceCities: POI[] = [
                   "category": "station",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Maison Coilliot", "text": "An Art Nouveau masterpiece by Hector Guimard, famous for its green ceramic facade.", "category": "cultural", "confidence": "high" },
+            { "name": "Palais Rihour", "text": "A 15th-century Gothic palace that currently houses the city tourism office.", "category": "historical", "confidence": "high" },
+            { "name": "Église Saint-Maurice", "text": "A five-aisled hall church in the center, built in Gothic style over several centuries.", "category": "religious", "confidence": "high" },
+            { "name": "Gare Saint-Sauveur", "text": "A former freight station converted into a vibrant cultural center with various exhibitions.", "category": "cultural", "confidence": "high" },
+            { "name": "Jardin des Plantes de Lille", "text": "Botanical garden with historic greenhouses, offering a wide variety of plants and tranquility.", "category": "natural", "confidence": "high" },
+            { "name": "Marché de Wazemmes", "text": "One of the largest markets in France, known for its multicultural atmosphere and products.", "category": "culinary", "confidence": "high" },
+            { "name": "Parc Jean-Lebas", "text": "A spacious urban park near the fine arts museum, perfect for walks and recreation.", "category": "natural", "confidence": "high" }
+        ]
 }
   },
   {
@@ -3729,50 +3913,7 @@ export const franceCities: POI[] = [
       fr: ["Avec ses 52 mètres, le donjon est la plus haute tour médiévale d'Europe.", "Charles V est né dans ce château en 1338.", "La Sainte-Chapelle ne fut achevée qu'en 1552 sous Henri II.", "Le marquis de Sade y fut emprisonné en 1777.", "Les courtines de la forteresse délimitent un périmètre de plus de 1,1 kilomètre.", "Mata Hari a été fusillée en 1917 dans les fossés du château."],
     },
   },
-  {
-    id: "fr-mont-blanc",
-    type: "mountain",
-    parent: "FR-ARA",
-    coords: [6.8646, 45.8326],
-    name: { de: "Mont Blanc", hu: "Mont Blanc", ro: "Mont Blanc", en: "Mont Blanc" },
-    image: "/geo-images/france/mont-blanc.webp",
-    description: {
-      de: "Der Mont Blanc ist mit 4.807 Metern der höchste Berg der Alpen und Westeuropas. Er liegt an der Grenze zwischen Frankreich und Italien, wobei der Gipfel auf französischem Staatsgebiet liegt. Der Berg ist ein Symbol für den Alpinismus und zieht jährlich Tausende von Bergsteigern und Touristen an. Die Region um den Mont Blanc bietet spektakuläre Gletscherlandschaften und erstklassige Skigebiete.",
-      hu: "A Mont Blanc 4807 méteres magasságával az Alpok és Nyugat-Európa legmagasabb hegycsúcsa. A francia-olasz határon fekszik, csúcsa francia területen található. A hegy az alpinizmus szimbóluma, amely évente hegymászók és turisták ezreit vonzza. A Mont Blanc környéke lenyűgöző gleccserlatványt és világszínvonalú sípályákat kínál az idelátogatóknak.",
-      ro: "Mont Blanc este cel mai înalt munte din Alpi și din Europa de Vest, având o înălțime de 4.807 metri. Situat la granița dintre Franța și Italia, vârful său se află pe teritoriul francez. Muntele este un simbol al alpinismului și atrage anual mii de alpiniști și turiști. Regiunea din jurul Mont Blanc oferă peisaje glaciare spectaculoase și stațiuni de schi de talie mondială.",
-      en: "Mont Blanc, standing at 4,807 meters, is the highest mountain in the Alps and Western Europe. It is located on the border between France and Italy, with the summit being in French territory. The mountain is a symbol of alpinism and attracts thousands of climbers and tourists every year. The region around Mont Blanc offers spectacular glacial landscapes and world-class ski resorts.",
-      es: "El Mont Blanc, con 4.807 metros, es la montaña más alta de los Alpes y de Europa Occidental. Está situado en la frontera entre Francia e Italia, aunque la cima se encuentra en territorio francés. La montaña es un símbolo del alpinismo y atrae cada año a miles de montañeros y turistas. La región del Mont Blanc ofrece espectaculares paisajes glaciares y estaciones de esquí de primer nivel.",
-      pt: "O Mont Blanc, com 4.807 metros, é a montanha mais alta dos Alpes e da Europa Ocidental. Situa-se na fronteira entre a França e a Itália, estando o cume em território francês. A montanha é um símbolo do alpinismo e atrai anualmente milhares de montanhistas e turistas. A região em redor do Mont Blanc oferece paisagens glaciares espetaculares e estâncias de esqui de classe mundial.",
-      fr: "Le Mont Blanc est, avec ses 4 807 mètres, le plus haut sommet des Alpes et d'Europe occidentale. Il se situe à la frontière entre la France et l'Italie, le sommet se trouvant sur le territoire français. La montagne est un symbole de l'alpinisme et attire chaque année des milliers d'alpinistes et de touristes. La région du Mont-Blanc offre des paysages glaciaires spectaculaires et des domaines skiables de premier plan.",
-    },
-    facts: {
-      de: ["Die Erstbesteigung erfolgte 1786 durch Jacques Balmat und Michel-Gabriel Paccard.", "Die Höhe des Berges variiert je nach Schneebedeckung.", "Der Mont-Blanc-Tunnel verbindet Frankreich und Italien unter dem Berg.", "Chamonix am Fuße des Berges war Austragungsort der ersten Olympischen Winterspiele.", "Es gibt mehrere klassische Routen zum Gipfel.", "Das Massiv beherbergt zahlreiche Gletscher, darunter das Mer de Glace.", "Der Berg ist Teil des Natura-2000-Netzwerks zum Schutz der Artenvielfalt."],
-      hu: ["Az első megmászás 1786-ban történt Jacques Balmat és Michel-Gabriel Paccard által.", "A hegy magassága a hóvastagságtól függően változik.", "A Mont Blanc-alagút a hegy alatt köti össze Franciaországot és Olaszországot.", "A hegy lábánál fekvő Chamonix adott otthont az első téli olimpiának.", "Számos klasszikus útvonal vezet a csúcsra.", "A masszívum számos gleccsernek ad otthont, köztük a Mer de Glace-nak.", "A hegy a Natura 2000 hálózat része a biológiai sokféleség védelme érdekében."],
-      ro: ["Prima ascensiune a fost realizată în 1786 de Jacques Balmat și Michel-Gabriel Paccard.", "Înălțimea muntelui variază în funcție de grosimea stratului de zăpadă.", "Tunelul Mont Blanc leagă Franța de Italia pe sub munte.", "Chamonix, la poalele muntelui, a găzduit primele Jocuri Olimpice de iarnă.", "Există mai multe rute clasice către vârf.", "Masivul găzduiește numeroși ghețari, inclusiv Mer de Glace.", "Muntele face parte din rețeaua Natura 2000 pentru protejarea biodiversității."],
-      en: ["The first ascent was made in 1786 by Jacques Balmat and Michel-Gabriel Paccard.", "The mountain's height varies depending on the snow cover.", "The Mont Blanc Tunnel connects France and Italy beneath the mountain.", "Chamonix, at the foot of the mountain, hosted the first Winter Olympics.", "There are several classic routes to reach the summit.", "The massif is home to numerous glaciers, including the Mer de Glace.", "The mountain is part of the Natura 2000 network for biodiversity protection."],
-      es: ["La primera ascensión fue realizada en 1786 por Jacques Balmat y Michel-Gabriel Paccard.", "La altura de la montaña varía según la capa de nieve.", "El túnel del Mont Blanc conecta Francia e Italia bajo la montaña.", "Chamonix, al pie de la montaña, fue la sede de los primeros Juegos Olímpicos de Invierno.", "Existen varias rutas clásicas hacia la cima.", "El macizo alberga numerosos glaciares, entre ellos el Mer de Glace.", "La montaña forma parte de la red Natura 2000 para la protección de la biodiversidad."],
-      pt: ["A primeira ascensão foi feita em 1786 por Jacques Balmat e Michel-Gabriel Paccard.", "A altitude da montanha varia consoante a cobertura de neve.", "O Túnel do Mont Blanc liga a França e a Itália sob a montanha.", "Chamonix, no sopé da montanha, foi a sede dos primeiros Jogos Olímpicos de Inverno.", "Existem várias rotas clássicas para o cume.", "O maciço abriga inúmeros glaciares, incluindo o Mer de Glace.", "A montanha faz parte da rede Natura 2000 para a proteção da biodiversidade."],
-      fr: ["La première ascension a été réalisée en 1786 par Jacques Balmat et Michel-Gabriel Paccard.", "L'altitude de la montagne varie en fonction de la couverture neigeuse.", "Le tunnel du Mont-Blanc relie la France et l'Italie sous la montagne.", "Chamonix, au pied du mont, a accueilli les premiers Jeux Olympiques d'hiver.", "Il existe plusieurs voies classiques pour atteindre le sommet.", "Le massif abrite de nombreux glaciers, dont la Mer de Glace.", "La montagne fait partie du réseau Natura 2000 pour la protection de la biodiversité."],
-    },
-    descriptionAdvanced: {
-      de: "Der Mont Blanc ist mit einer Höhe von etwa 4807 Metern der höchste Berg der Alpen und Westeuropas. Er liegt im gleichnamigen Massiv an der Grenze zwischen Frankreich und Italien, wobei die genaue Grenzziehung auf dem Gipfelplateau historisch umstritten ist. Der Berg ist ein Symbol des modernen Alpinismus, dessen Geschichte mit der Erstbesteigung durch Jacques Balmat und Michel-Gabriel Paccard im Jahr 1786 begann. Das Massiv ist durch gewaltige Gletscher wie das Mer de Glace geprägt, die jedoch aufgrund des Klimawandels stark zurückgehen. Für Touristen bietet die Seilbahn auf die Aiguille du Midi (3842 m) einen spektakulären Zugang zur Hochgebirgswelt. Unter dem Berg verläuft der 11,6 Kilometer lange Mont-Blanc-Tunnel, der eine wichtige Verkehrsverbindung zwischen Chamonix und Courmayeur darstellt. Trotz seiner Schönheit bleibt der Mont Blanc ein gefährliches Terrain für Bergsteiger, das jährlich eine hohe Anzahl an Rettungseinsätzen erfordert und eine genaue Vorbereitung sowie professionelle Ausrüstung voraussetzt.",
-      hu: "A Mont Blanc körülbelül 4807 méteres magasságával az Alpok és Nyugat-Európa legmagasabb hegycsúcsa. A Franciaország és Olaszország határán fekvő masszívum pontos határvonala a csúcs környékén történelmileg vitatott terület. A hegy a modern alpinizmus bölcsője, amelynek története 1786-ban kezdődött, amikor Jacques Balmat és Michel-Gabriel Paccard elsőként érte el a csúcsot. A hegységet hatalmas gleccserek jellemzik, mint például a Mer de Glace, amelyek azonban a klímaváltozás miatt jelentősen visszahúzódtak. A turisták számára az Aiguille du Midi-re (3842 m) vezető felvonó kínál lenyűgöző rálátást a magashegyi világra. A hegy alatt halad át a 11,6 kilométer hosszú Mont Blanc-alagút, amely létfontosságú közlekedési kapcsolatot biztosít Chamonix és Courmayeur között. Szépsége ellenére a Mont Blanc veszélyes terep marad a hegymászók számára, ahol a változékony időjárás és a gleccserhasadékok miatt évente számos mentőakcióra van szükség.",
-      ro: "Mont Blanc, cu o înălțime de aproximativ 4807 metri, este cel mai înalt vârf din Munții Alpi și din Europa Occidentală. Situat în masivul cu același nume de la granița dintre Franța și Italia, linia exactă de demarcație pe platoul somital este un subiect istoric disputat între cele două țări. Muntele este considerat locul de naștere al alpinismului modern, istoria sa fiind marcată de prima ascensiune reușită de Jacques Balmat și Michel-Gabriel Paccard în 1786. Masivul este caracterizat de ghețari impunători, precum Mer de Glace, care însă se retrag accelerat din cauza schimbărilor climatice. Pentru turiști, telecabina către Aiguille du Midi (3842 m) oferă un acces spectaculos către peisajele de mare altitudine. Pe sub munte trece Tunelul Mont Blanc, lung de 11,6 kilometri, o legătură rutieră vitală între Chamonix și Courmayeur. În ciuda frumuseții sale, Mont Blanc rămâne un teren periculos, necesitând pregătire riguroasă și echipament profesionist din partea alpiniștilor.",
-      en: "Mont Blanc, standing at approximately 4,807 meters, is the highest peak in the Alps and Western Europe. Situated in the Mont Blanc massif on the border between France and Italy, the exact sovereignty of the summit plateau remains a subject of historical diplomatic debate. The mountain is the symbolic birthplace of modern mountaineering, dating back to the first successful ascent by Jacques Balmat and Michel-Gabriel Paccard in 1786. The massif is characterized by massive glaciers, such as the Mer de Glace, which are currently experiencing significant retreat due to climate change. For non-climbers, the Aiguille du Midi cable car (reaching 3,842 m) provides spectacular access to the high-alpine environment. Beneath the mountain lies the 11.6-kilometer Mont Blanc Tunnel, a vital transport link between Chamonix and Courmayeur. Despite its aesthetic appeal, Mont Blanc remains a hazardous environment, requiring serious preparation and professional equipment for the thousands who attempt its summit annually.",
-      es: "El Mont Blanc es, con una altitud de unos 4.807 metros, la montaña más alta de los Alpes y de Europa Occidental. Se encuentra en el macizo del mismo nombre, en la frontera entre Francia e Italia, aunque el trazado exacto de la frontera en la meseta de la cumbre ha sido históricamente objeto de disputa. La montaña es un símbolo del alpinismo moderno, cuya historia comenzó con la primera ascensión de Jacques Balmat y Michel-Gabriel Paccard en 1786. El macizo se caracteriza por enormes glaciares como el Mer de Glace, que sin embargo están retrocediendo bruscamente debido al cambio climático. Para los turistas, el teleférico a la Aiguille du Midi (3.842 m) ofrece un acceso espectacular al mundo de la alta montaña. Bajo la montaña discurre el túnel del Mont Blanc, de 11,6 kilómetros de longitud, que constituye una importante conexión de tráfico entre Chamonix y Courmayeur. A pesar de su belleza, el Mont Blanc sigue siendo un terreno peligroso para los montañeros, ya que requiere un gran número de misiones de rescate cada año y exige una preparación precisa y equipo profesional.",
-      pt: "O Mont Blanc é, com uma altitude de cerca de 4807 metros, a montanha mais alta dos Alpes e da Europa Ocidental. Situa-se no maciço homónimo, na fronteira entre a França e a Itália, embora a demarcação exata da fronteira no planalto do cume seja historicamente disputada. A montanha é um símbolo do alpinismo moderno, cuja história começou com a primeira ascensão por Jacques Balmat e Michel-Gabriel Paccard em 1786. O maciço é marcado por glaciares imensos como o Mer de Glace, que no entanto estão a recuar fortemente devido às alterações climáticas. Para os turistas, o teleférico para a Aiguille du Midi (3842 m) oferece um acesso espetacular ao mundo da alta montanha. Sob a montanha passa o Túnel do Mont Blanc, com 11,6 quilómetros de extensão, que representa uma importante ligação rodoviária entre Chamonix e Courmayeur. Apesar da sua beleza, o Mont Blanc continua a ser um terreno perigoso para os montanhistas, exigindo anualmente um elevado número de missões de resgate e requerendo uma preparação rigorosa e equipamento profissional.",
-      fr: "Le Mont Blanc est, avec une altitude d'environ 4 807 mètres, le plus haut sommet des Alpes et d'Europe occidentale. Il est situé dans le massif du même nom, à la frontière entre la France et l'Italie, bien que le tracé exact de la frontière sur le plateau sommital soit historiquement contesté. La montagne est un symbole de l'alpinisme moderne, dont l'histoire a débuté avec la première ascension par Jacques Balmat et Michel-Gabriel Paccard en 1786. Le massif est marqué par d'immenses glaciers comme la Mer de Glace, qui reculent toutefois fortement en raison du changement climatique. Pour les touristes, le téléphérique de l'Aiguille du Midi (3 842 m) offre un accès spectaculaire à la haute montagne. Sous la montagne passe le tunnel du Mont-Blanc, long de 11,6 kilomètres, qui constitue une liaison de transport importante entre Chamonix et Courmayeur. Malgré sa beauté, le Mont-Blanc reste un terrain dangereux pour les alpinistes, nécessitant chaque année un nombre élevé d'interventions de secours et exigeant une préparation minutieuse ainsi qu'un équipement professionnel.",
-    },
-    factsAdvanced: {
-      de: ["Die offizielle Höhe wurde 2021 mit 4807,81 Metern gemessen.", "Die Erstbesteigung fand am 8. August 1786 statt.", "Der Mont-Blanc-Tunnel ist genau 11,611 Kilometer lang.", "Die Seilbahn zur Aiguille du Midi überwindet 2800 Höhenmeter.", "Das Mer de Glace ist der größte Gletscher Frankreichs.", "Jährlich versuchen etwa 20.000 Bergsteiger den Gipfel zu erreichen."],
-      hu: ["A hivatalos magasságot 2021-ben 4807,81 méternek mérték.", "Az első sikeres csúcshódítás 1786. augusztus 8-án történt.", "A Mont Blanc-alagút pontos hossza 11,611 kilométer.", "Az Aiguille du Midi felvonója 2800 méteres szintkülönbséget küzd le.", "A Mer de Glace Franciaország legnagyobb gleccsere.", "Évente körülbelül 20 000 hegymászó próbálja meg elérni a csúcsot."],
-      ro: ["Înălțimea oficială a fost măsurată în 2021 la 4807,81 metri.", "Prima ascensiune a avut loc la data de 8 august 1786.", "Tunelul Mont Blanc are o lungime de exact 11,611 kilometri.", "Telecabina către Aiguille du Midi urcă o diferență de nivel de 2800 m.", "Mer de Glace este cel mai mare ghețar din Franța.", "Anual, aproximativ 20.000 de alpiniști încearcă să ajungă pe vârf."],
-      en: ["The official altitude was measured at 4,807.81 meters in 2021.", "The first successful ascent took place on August 8, 1786.", "The Mont Blanc Tunnel is exactly 11.611 kilometers long.", "The Aiguille du Midi cable car climbs a vertical rise of 2,800 meters.", "Mer de Glace is the largest glacier in France.", "Approximately 20,000 climbers attempt to reach the summit each year."],
-      es: ["La altura oficial se midió en 2021 en 4.807,81 metros.", "La primera ascensión tuvo lugar el 8 de agosto de 1786.", "El túnel del Mont Blanc mide exactamente 11,611 kilómetros.", "El teleférico de la Aiguille du Midi supera los 2.800 metros de altitud.", "El Mer de Glace es el glaciar más grande de Francia.", "Unos 20.000 montañeros intentan alcanzar la cima cada año."],
-      pt: ["A altitude oficial foi medida em 2021 em 4807,81 metros.", "A primeira ascensão ocorreu em 8 de agosto de 1786.", "O Túnel do Mont Blanc tem exatamente 11,611 quilómetros de comprimento.", "O teleférico para a Aiguille du Midi supera 2800 metros de desnível.", "O Mer de Glace é o maior glaciar de França.", "Anualmente, cerca de 20.000 montanhistas tentam atingir o cume."],
-      fr: ["L'altitude officielle a été mesurée à 4 807,81 mètres en 2021.", "La première ascension a eu lieu le 8 août 1786.", "Le tunnel du Mont-Blanc mesure exactement 11,611 kilomètres.", "Le téléphérique de l'Aiguille du Midi franchit 2 800 mètres de dénivelé.", "La Mer de Glace est le plus grand glacier de France.", "Environ 20 000 alpinistes tentent d'atteindre le sommet chaque année."],
-    },
-  },
+  
   {
     id: "fr-gorges-verdon",
     type: "landmark",
@@ -4347,474 +4488,8 @@ export const franceCities: POI[] = [
       ]
 }
   },
-  {
-    id: "fr-annecy",
-    type: "city",
-    parent: "FR-ARA",
-    coords: [6.1294, 45.8992],
-    name: { de: "Annecy", hu: "Annecy", ro: "Annecy", en: "Annecy" },
-    image: "/geo-images/france/annecy.webp",
-    description: {
-      de: "Annecy, oft als das 'Venedig der Alpen' bezeichnet, liegt am Ufer des gleichnamigen Sees in Hochsavoyen. Die malerische Altstadt ist von Kanälen durchzogen und besticht durch ihre pastellfarbenen Häuser und blumengeschmückten Brücken. Das Wahrzeichen der Stadt ist das Palais de l'Île, ein ehemaliges Gefängnis inmitten eines Kanals. Der Lac d'Annecy gilt als einer der saubersten Seen Europas.",
-      hu: "Annecy-t, amelyet gyakran az 'Alpok Velencéjének' neveznek, a hasonló nevű tó partján fekszik Felső-Savoyában. A festői óvárost csatornák szelik át, pasztellszínű házaival és virágokkal díszített hídjaival varázsolja el a látogatókat. A város jelképe a Palais de l'Île, egy egykori börtön a csatorna közepén. Az Annecy-i tavat Európa egyik legtisztább tavaként tartják számon.",
-      ro: "Annecy, supranumit adesea 'Veneția Alpilor', este situat pe malul lacului cu același nume în Haute-Savoie. Orașul vechi pitoresc este străbătut de canale și impresionează prin casele sale în culori pastelate și podurile decorate cu flori. Simbolul orașului este Palais de l'Île, o fostă închisoare situată în mijlocul unui canal. Lacul Annecy este considerat unul dintre cele mai curate lacuri din Europa.",
-      en: "Annecy, often called the 'Venice of the Alps', is located on the shores of Lake Annecy in the Haute-Savoie region. Its picturesque old town is crisscrossed by canals and features pastel-colored houses and flower-decked bridges. The city's most iconic landmark is the Palais de l'Île, a former prison situated in the middle of a canal. Lake Annecy is renowned as one of the cleanest lakes in Europe.",
-      es: "Annecy, a menudo llamada la 'Venecia de los Alpes', se encuentra a orillas del lago homónimo en la Alta Saboya. El pintoresco casco antiguo está atravesado por canales y destaca por sus casas en tonos pastel y puentes adornados con flores. El símbolo de la ciudad es el Palais de l'Île, una antigua prisión en medio de un canal. El Lago de Annecy se considera uno de los lagos más limpios de Europa.",
-      pt: "Annecy, frequentemente chamada a 'Veneza dos Alpes', situa-se nas margens do lago homónimo na Alta Saboia. O pitoresco centro histórico é atravessado por canais e cativa pelas suas casas em tons pastel e pontes decoradas com flores. O ex-líbris da cidade é o Palais de l'Île, uma antiga prisão no meio de um canal. O Lac d'Annecy é considerado um dos lagos mais limpos da Europa.",
-      fr: "Annecy, souvent surnommée la « Venise des Alpes », est située au bord du lac du même nom en Haute-Savoie. La vieille ville pittoresque est sillonnée de canaux et séduit par ses maisons aux couleurs pastel et ses ponts fleuris. L'emblème de la ville est le Palais de l'Île, une ancienne prison située au milieu d'un canal. Le lac d'Annecy est considéré comme l'un des lacs les plus propres d'Europe.",
-    },
-    facts: {
-      de: ["Das Palais de l'Île stammt aus dem 12. Jahrhundert.", "Der Lac d'Annecy ist der zweitgrößte See Frankreichs.", "Annecy ist ein Zentrum für Animationsfilm und beherbergt ein bedeutendes Festival.", "Das Schloss Annecy thront über der Altstadt.", "Die Stadt ist ein beliebter Ausgangspunkt für Outdoor-Aktivitäten in den Alpen.", "Die 'Pont des Amours' (Liebesbrücke) bietet einen schönen Blick auf den See.", "Annecy war im 16. Jahrhundert Sitz des Bischofs von Genf."],
-      hu: ["A Palais de l'Île a 12. századból származik.", "Az Annecy-i tó Franciaország második legnagyobb tava.", "Annecy az animációs filmek központja, jelentős fesztiválnak ad otthont.", "Az Annecy-i vár az óváros fölé magasodik.", "A város népszerű kiindulópont az alpesi szabadtéri sportokhoz.", "A 'Pont des Amours' (Szerelmesek hídja) gyönyörű kilátást nyújt a tóra.", "Annecy a 16. században a genfi püspök székhelye volt."],
-      ro: ["Palais de l'Île datează din secolul al XII-lea.", "Lacul Annecy este al doilea ca mărime din Franța.", "Annecy este un centru al filmului de animație și găzduiește un festival important.", "Castelul Annecy domină orașul vechi de pe o colină.", "Orașul este un punct de plecare popular pentru activități în aer liber în Alpi.", "Podul 'Pont des Amours' oferă o priveliște superbă asupra lacului.", "Annecy a fost sediul episcopului de Geneva în secolul al XVI-lea."],
-      en: ["The Palais de l'Île dates back to the 12th century.", "Lake Annecy is the second largest lake in France.", "Annecy is a global hub for animation and hosts a major international festival.", "The Château d'Annecy overlooks the old town from a hilltop.", "The city is a popular base for outdoor activities like paragliding and hiking.", "The 'Pont des Amours' (Lovers' Bridge) offers a romantic view of the lake.", "Annecy became the seat of the Bishop of Geneva in the 16th century."],
-      es: ["El Palais de l'Île data del siglo XII.", "El Lago de Annecy es el segundo lago más grande de Francia.", "Annecy es un centro para el cine de animación y acoge un festival importante.", "El castillo de Annecy preside el casco antiguo.", "La ciudad es un punto de partida popular para actividades al aire libre en los Alpes.", "El 'Pont des Amours' (Puente de los Amores) ofrece una hermosa vista al lago.", "Annecy fue sede del obispo de Ginebra en el siglo XVI."],
-      pt: ["O Palais de l'Île data do século XII.", "O Lac d'Annecy é o segundo maior lago da França.", "Annecy é um centro para o cinema de animação e acolhe um importante festival.", "O Castelo de Annecy ergue-se sobre o centro histórico.", "A cidade é um ponto de partida popular para atividades ao ar livre nos Alpes.", "A 'Pont des Amours' (Ponte dos Amores) oferece uma bela vista sobre o lago.", "Annecy foi a sede do Bispo de Genebra no século XVI."],
-      fr: ["Le Palais de l'Isle date du XIIe siècle.", "Le lac d'Annecy est le deuxième plus grand lac de France.", "Annecy est la capitale du film d'animation et accueille un festival majeur.", "Le château d'Annecy surplombe la vieille ville.", "La ville est un point de départ prisé pour les activités de plein air dans les Alpes.", "Le pont des Amours offre une vue magnifique sur le lac.", "Annecy fut le siège de l'évêché de Genève au XVIe siècle."],
-    },
-    descriptionAdvanced: {
-      de: "Annecy, oft als das „Venedig der Alpen“ bezeichnet, ist die Hauptstadt des Departements Haute-Savoie und liegt am Ufer des Lac d'Annecy, der als einer der saubersten Seen Europas gilt. Die historische Altstadt (Vieille Ville) wird von Kanälen durchzogen und ist geprägt durch das mittelalterliche Palais de l’Isle, ein ehemaliges Gefängnis aus dem 12. Jahrhundert, das malerisch inmitten des Flusses Thiou liegt. Über der Stadt thront das Château d'Annecy, die ehemalige Residenz der Grafen von Genf und der Herzöge von Nemours, das heute ein Museum beherbergt. Annecy kam erst im Jahr 1860 endgültig zu Frankreich, nachdem es zuvor Teil des Herzogtums Savoyen war. Heute ist die Stadt nicht nur ein kulturelles Zentrum mit einem renommierten internationalen Animationsfilmfestival, sondern auch ein bedeutender Standort für den Bergtourismus und Wassersport in den französischen Alpen.",
-      hu: "Annecy, amelyet gyakran az „Alpok Velencéjeként” emlegetnek, Haute-Savoie megye székhelye, és az Annecy-tó partján fekszik, amely Európa egyik legtisztább tavának számít. A történelmi óvárost (Vieille Ville) csatornák szelik át, és a középkori Palais de l’Isle határozza meg a képét, amely egy 12. századi börtönépület a Thiou folyó közepén. A város felett magasodik az Annecy-vár, a genfi grófok és Nemours hercegeinek egykori rezidenciája, amely ma múzeumnak ad otthont. Annecy csak 1860-ban került végleg Franciaországhoz, korábban a Savoyai Hercegség része volt. Napjainkban a város nemcsak kulturális központ híres nemzetközi animációs filmfesztiváljával, hanem a hegyi turizmus és a vízi sportok egyik legfontosabb helyszíne is a Francia-Alpokban.",
-      ro: "Annecy, supranumit adesea „Veneția Alpilor”, este capitala departamentului Haute-Savoie și este situat pe malul lacului Annecy, considerat unul dintre cele mai curate lacuri din Europa. Orașul vechi istoric (Vieille Ville) este străbătut de canale și este dominat de Palais de l’Isle, o fostă închisoare din secolul al XII-lea situată pitoresc în mijlocul râului Thiou. Deasupra orașului se află Castelul Annecy, fosta reședință a conților de Geneva și a ducilor de Nemours, care astăzi adăpostește un muzeu. Annecy a devenit parte definitivă a Franței abia în anul 1860, după ce anterior făcuse parte din Ducatul de Savoia. Astăzi, orașul nu este doar un centru cultural, gazdă a unui prestigios festival internațional de film de animație, ci și o locație importantă pentru turismul montan și sporturile nautice din Alpii Francezi.",
-      en: "Annecy, often referred to as the 'Venice of the Alps,' is the capital of the Haute-Savoie department and sits on the shores of Lake Annecy, considered one of the cleanest lakes in Europe. The historic old town (Vieille Ville) is crisscrossed by canals and is anchored by the medieval Palais de l’Isle, a 12th-century former prison located picturesquely in the middle of the Thiou river. Overlooking the city is the Château d'Annecy, the former residence of the Counts of Geneva and the Dukes of Nemours, which now houses a museum. Annecy only became part of France in 1860, having previously been part of the Duchy of Savoy. Today, the city is not only a cultural hub with a renowned international animated film festival but also a key location for mountain tourism and water sports in the French Alps.",
-      es: "Annecy, a menudo denominada la «Venecia de los Alpes», es la capital del departamento de Alta Saboya y se sitúa a orillas del Lago de Annecy, considerado uno de los lagos más limpios de Europa. El casco antiguo histórico (Vieille Ville) está atravesado por canales y se caracteriza por el medieval Palais de l'Isle, una antigua prisión del siglo XII que se ubica pintorescamente en medio del río Thiou. Sobre la ciudad se alza el Château d'Annecy, antigua residencia de los condes de Ginebra y de los duques de Nemours, que hoy alberga un museo. Annecy no pasó definitivamente a manos de Francia hasta el año 1860, habiendo formado parte anteriormente del Ducado de Saboya. Hoy, la ciudad no es solo un centro cultural con un reconocido festival internacional de cine de animación, sino también un lugar destacado para el turismo de montaña y los deportes náuticos en los Alpes franceses.",
-      pt: "Annecy, frequentemente referida como a 'Veneza dos Alpes', é a capital do departamento da Alta Saboia e situa-se nas margens do Lac d'Annecy, considerado um dos lagos mais limpos da Europa. O centro histórico (Vieille Ville) é atravessado por canais e é marcado pelo medieval Palais de l'Isle, uma antiga prisão do século XII, pitorescamente situada no meio do rio Thiou. Sobre a cidade ergue-se o Château d'Annecy, a antiga residência dos Condes de Genebra e dos Duques de Nemours, que hoje alberga um museu. Annecy só passou definitivamente para a França em 1860, tendo feito parte anteriormente do Ducado de Saboia. Atualmente, a cidade não é apenas um centro cultural com um prestigiado festival internacional de cinema de animação, mas também um importante local para o turismo de montanha e desportos náuticos nos Alpes franceses.",
-      fr: "Annecy, souvent appelée la « Venise des Alpes », est la préfecture de la Haute-Savoie, située sur les rives du lac d'Annecy, considéré comme l'un des plus propres d'Europe. La vieille ville historique est parcourue par des canaux et dominée par le Palais de l'Isle, une ancienne prison du XIIe siècle pittoresquement posée au milieu de la rivière Thiou. Le château d'Annecy, ancienne résidence des comtes de Genève et des ducs de Nemours qui abrite aujourd'hui un musée, surplombe la ville. Annecy n'a été rattachée définitivement à la France qu'en 1860, après avoir fait partie du duché de Savoie. Aujourd'hui, la ville est non seulement un centre culturel avec son célèbre festival international du film d'animation, mais aussi un site majeur pour le tourisme de montagne et les sports nautiques dans les Alpes françaises.",
-    },
-    factsAdvanced: {
-      de: ["Annecy wurde im Jahr 1860 Teil Frankreichs.", "Der Lac d'Annecy ist etwa 14,6 Kilometer lang.", "Das Palais de l'Isle stammt ursprünglich aus dem 12. Jahrhundert.", "Die Stadt liegt auf einer Höhe von 448 Metern über dem Meeresspiegel.", "Die Einwohnerzahl der Gemeinde beträgt rund 130.000 Menschen.", "Das internationale Animationsfilmfestival findet hier seit 1960 statt."],
-      hu: ["Annecy 1860-ban vált Franciaország részévé.", "Az Annecy-tó hossza körülbelül 14,6 kilométer.", "A Palais de l'Isle eredetileg a 12. századból származik.", "A város 448 méteres tengerszint feletti magasságban fekszik.", "A község lakossága körülbelül 130 000 fő.", "Az nemzetközi animációs filmfesztivált 1960 óta rendezik meg itt."],
-      ro: ["Annecy a devenit parte a Franței în anul 1860.", "Lacul Annecy are o lungime de aproximativ 14,6 kilometri.", "Palais de l'Isle datează inițial din secolul al XII-lea.", "Orașul este situat la o altitudine de 448 de metri.", "Populația comunei este de aproximativ 130.000 de locuitori.", "Festivalul internațional de film de animație are loc aici din 1960."],
-      en: ["Annecy became part of France in 1860.", "Lake Annecy is approximately 14.6 kilometers long.", "The Palais de l'Isle dates back to the 12th century.", "The city is situated at an altitude of 448 meters.", "The population of the commune is around 130,000 people.", "The International Animated Film Festival has been held here since 1960."],
-      es: ["Annecy pasó a formar parte de Francia en el año 1860.", "El Lago de Annecy tiene unos 14,6 kilómetros de largo.", "El Palais de l'Isle data originalmente del siglo XII.", "La ciudad se sitúa a una altitud de 448 metros sobre el nivel del mar.", "La población del municipio es de unas 130.000 personas.", "El festival internacional de cine de animación se celebra aquí desde 1960."],
-      pt: ["Annecy tornou-se parte da França em 1860.", "O Lac d'Annecy tem cerca de 14,6 quilómetros de comprimento.", "O Palais de l'Isle data originalmente do século XII.", "A cidade situa-se a uma altitude de 448 metros acima do nível do mar.", "A população do município é de cerca de 130.000 pessoas.", "O festival internacional de cinema de animação realiza-se aqui desde 1960."],
-      fr: ["Annecy est devenue française en 1860.", "Le lac d'Annecy mesure environ 14,6 kilomètres de long.", "Le Palais de l'Isle date initialement du XIIe siècle.", "La ville est située à une altitude de 448 mètres au-dessus du niveau de la mer.", "La population de la commune est d'environ 130 000 habitants.", "Le festival international du film d'animation s'y tient depuis 1960."],
-    },
-    "sights": {
-      "de": [
-            {
-                  "name": "Palais de l'Isle",
-                  "text": "Dieses ehemalige Gefängnis auf einer Insel im Fluss Thiou ist das Wahrzeichen der Stadt Annecy.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Schloss Annecy",
-                  "text": "Die ehemalige Residenz der Grafen von Genf thront über der Altstadt und beherbergt heute ein Museum.",
-                  "category": "fortress",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lac d'Annecy",
-                  "text": "Bekannt als einer der saubersten Seen Europas, bietet er kristallklares Wasser und ein Bergpanorama.",
-                  "category": "natural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont des Amours",
-                  "text": "Eine romantische Eisenbrücke, die den Park Jardins de l'Europe mit dem Pâquier-Viertel verbindet.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Basilika der Heimsuchung",
-                  "text": "Eine imposante Kirche auf einem Hügel, die über die Stadt wacht und Reliquien lokaler Heiliger birgt.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardins de l'Europe",
-                  "text": "Ein weitläufiger englischer Garten am Seeufer, ideal für Spaziergänge unter jahrhundertealten Bäumen.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kathedrale Saint-Pierre",
-                  "text": "Eine im 16. Jahrhundert erbaute Kirche, die ursprünglich als Franziskanerklosterkapelle diente.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Palais de l'Isle",
-                  "text": "Ez az egykori börtön a Thiou-folyó egyik szigetén Annecy városának legismertebb jelképe.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Annecy-i vár",
-                  "text": "A Genfi grófok egykori rezidenciája az óváros felett magasodik, ma múzeumnak ad otthont.",
-                  "category": "fortress",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Annecy-i tó",
-                  "text": "Európa egyik legtisztább tavaként ismert, kristálytiszta vízzel és hegyvidéki panorámával várja a látogatókat.",
-                  "category": "natural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont des Amours",
-                  "text": "Egy romantikus vashíd, amely a Jardins de l'Europe parkot köti össze a Pâquier-negyeddel.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "A Vizitáció bazilikája",
-                  "text": "Egy impozáns dombtetői templom, amely a város felett őrködik és helyi szentek ereklyéit őrzi.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardins de l'Europe",
-                  "text": "Tágas angolkert a tóparton, amely ideális sétákhoz az évszázados fák árnyékában.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Péter-székesegyház",
-                  "text": "A 16. században épült templom, amely eredetileg ferences kolostori kápolnaként szolgált.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Palais de l'Isle",
-                  "text": "Această fostă închisoare situată pe o insulă în mijlocul râului Thiou este simbolul orașului Annecy.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Castelul din Annecy",
-                  "text": "Fosta reședință a conților de Geneva domină orașul vechi și găzduiește în prezent un muzeu.",
-                  "category": "fortress",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lacul Annecy",
-                  "text": "Cunoscut drept unul dintre cele mai curate lacuri din Europa, oferă ape cristaline și panorame montane.",
-                  "category": "natural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont des Amours",
-                  "text": "Un pod de fier romantic care leagă parcul Jardins de l'Europe de zona Pâquier.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bazilica Vizitației",
-                  "text": "O biserică impunătoare aflată pe o colină, care veghează orașul și păstrează moaștele sfinților locali.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grădinile Europei",
-                  "text": "O vastă grădină englezească pe malul lacului, perfectă pentru plimbări printre arbori seculari.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Catedrala Saint-Pierre",
-                  "text": "O biserică construită în secolul al XVI-lea, care a servit inițial ca capelă a unei mănăstiri franciscane.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "en": [
-            {
-                  "name": "Palais de l'Isle",
-                  "text": "An iconic 12th-century island stronghold and former prison located in the middle of the Thiou canal.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Annecy Castle",
-                  "text": "The former residence of the Counts of Geneva, overlooking the old town with its fortified towers.",
-                  "category": "fortress",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Lake Annecy",
-                  "text": "One of the clearest lakes in Europe, surrounded by stunning Alpine scenery and offering various water sports.",
-                  "category": "natural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont des Amours",
-                  "text": "A romantic iron bridge over the Vassé canal, famous for its views and legend for lovers.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Basilica of the Visitation",
-                  "text": "A landmark hilltop church built in the early 20th century, home to the tomb of Saint Francis de Sales.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardins de l'Europe",
-                  "text": "A lakeside park with large trees and flowerbeds, providing a peaceful escape near the historic center.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Saint Peter's Cathedral",
-                  "text": "A 16th-century cathedral in the heart of the old town, featuring Renaissance architectural elements.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ]
-}
-  },
-  {
-    id: "fr-bordeaux",
-    type: "city",
-    parent: "FR-NAQ",
-    coords: [-0.5792, 44.8378],
-    name: { de: "Bordeaux", hu: "Bordeaux", ro: "Bordeaux", en: "Bordeaux" },
-    image: "/geo-images/france/bordeaux.webp",
-    description: {
-      de: "Bordeaux, an der Garonne gelegen, ist die Welthauptstadt des Weins und eine Stadt von außergewöhnlicher architektonischer Schönheit. Das Stadtbild ist geprägt von prächtigen Ensembles aus dem 18. Jahrhundert, was ihr den Beinamen 'Kleines Paris' einbrachte. Das moderne Wahrzeichen ist der 'Miroir d'eau', das weltweit größte Reflexionsbecken. Bordeaux ist ein lebendiges Zentrum für Kultur, Gastronomie und Handel.",
-      hu: "A Garonne partján fekvő Bordeaux a világ borfővárosa és kivételes építészeti szépségű város. Városképét a 18. századi pompás épületegyüttesek határozzák meg, amiért 'Kis Párizsnak' is nevezik. Modern jelképe a 'Miroir d'eau', a világ legnagyobb tükörmedencéje. Bordeaux a kultúra, a gasztronómia és a kereskedelem lüktető központja.",
-      ro: "Bordeaux, situat pe malul Garonnei, este capitala mondială a vinului și un oraș de o frumusețe arhitecturală excepțională. Peisajul urban este dominat de ansambluri magnifice din secolul al XVIII-lea, ceea ce i-a adus supranumele de 'Micul Paris'. Simbolul modern este 'Miroir d'eau', cea mai mare oglindă de apă din lume. Bordeaux este un centru vibrant de cultură, gastronomie și comerț.",
-      en: "Bordeaux, situated on the Garonne River, is the wine capital of the world and a city of exceptional architectural beauty. Its historic center is filled with magnificent 18th-century buildings, earning it the nickname 'Little Paris'. A modern highlight is the 'Miroir d'eau', the world's largest reflecting pool. Bordeaux is a vibrant hub for culture, gastronomy, and international trade.",
-      es: "Burdeos, situada a orillas del Garona, es la capital mundial del vino y una ciudad de excepcional belleza arquitectónica. Su paisaje urbano está marcado por magníficos conjuntos del siglo XVIII, lo que le valió el apodo de 'Pequeño París'. Su emblema moderno es el 'Miroir d'eau', el estanque de espejos más grande del mundo. Burdeos es un centro vibrante de cultura, gastronomía y comercio.",
-      pt: "Bordéus, situada nas margens do Garona, é a capital mundial do vinho e uma cidade de beleza arquitetónica excecional. A paisagem urbana é marcada por magníficos conjuntos do século XVIII, o que lhe valeu a alcunha de 'Pequena Paris'. O marco moderno é o 'Miroir d'eau', o maior espelho de água do mundo. Bordéus é um centro vibrante de cultura, gastronomia e comércio.",
-      fr: "Bordeaux, située sur les rives de la Garonne, est la capitale mondiale du vin et une ville d'une beauté architecturale exceptionnelle. Son paysage urbain est marqué par de magnifiques ensembles du XVIIIe siècle, ce qui lui a valu le surnom de 'Petit Paris'. Son emblème moderne est le 'Miroir d'eau', le plus grand miroir d'eau au monde. Bordeaux est un centre dynamique pour la culture, la gastronomie et le commerce.",
-    },
-    facts: {
-      de: ["Bordeaux hat nach Paris die meisten denkmalgeschützten Gebäude in Frankreich.", "Die Region Bordeaux ist das größte zusammenhängende Weinbaugebiet der Welt.", "Der Place de la Bourse ist ein Meisterwerk der klassischen Architektur.", "Die Cité du Vin ist ein hochmodernes Museum zur Weinkultur.", "Die Stadt besitzt eine der längsten Fußgängerzonen Europas (Rue Sainte-Catherine).", "Bordeaux war während der Weltkriege zeitweise Sitz der französischen Regierung.", "Fast die Hälfte der Stadt gehört zum UNESCO-Welterbe."],
-      hu: ["Párizs után Bordeaux-ban van a legtöbb műemléki védettségű épület Franciaországban.", "A bordeaux-i borvidék a világ legnagyobb összefüggő szőlőtermő területe.", "A Place de la Bourse a klasszikus építészet remekműve.", "A Cité du Vin egy ultramodern borkultúra-múzeum.", "A városban található Európa egyik leghosszabb sétálóutcája (Rue Sainte-Catherine).", "A világháborúk alatt Bordeaux ideiglenesen a francia kormány székhelye volt.", "A város területének majdnem fele az UNESCO Világörökség része."],
-      ro: ["Bordeaux are cele mai multe clădiri protejate din Franța, după Paris.", "Regiunea Bordeaux este cea mai mare zonă viticolă din lume.", "Place de la Bourse este o capodoperă a arhitecturii clasice.", "Cité du Vin este un muzeu ultramodern dedicat culturii vinului.", "Orașul are una dintre cele mai lungi străzi pietonale din Europa (Rue Sainte-Catherine).", "Bordeaux a fost sediul temporar al guvernului francez în timpul războaielor mondiale.", "Aproape jumătate din suprafața orașului este inclusă în Patrimoniul UNESCO."],
-      en: ["Bordeaux has the highest number of preserved historical buildings in France after Paris.", "The surrounding region is the largest fine wine-producing area in the world.", "The Place de la Bourse is a masterpiece of 18th-century French architecture.", "The Cité du Vin is a high-tech museum dedicated to the history of wine.", "The Rue Sainte-Catherine is one of the longest pedestrian shopping streets in Europe.", "Bordeaux served as the temporary capital of France during several wars.", "Nearly half of the city's area is designated as a UNESCO World Heritage site."],
-      es: ["Burdeos tiene el mayor número de edificios protegidos de Francia después de París.", "La región de Burdeos es la mayor zona vitivinícola contigua del mundo.", "La Place de la Bourse es una obra maestra de la arquitectura clásica.", "La Cité du Vin es un museo vanguardista sobre la cultura del vino.", "La ciudad cuenta con una de las calles peatonales más largas de Europa (Rue Sainte-Catherine).", "Durante las guerras mundiales, Burdeos fue temporalmente la sede del gobierno francés.", "Casi la mitad de la ciudad forma parte del Patrimonio de la Humanidad de la UNESCO."],
-      pt: ["Bordéus tem o maior número de edifícios classificados em França, a seguir a Paris.", "A região de Bordéus é a maior área de viticultura contígua do mundo.", "A Place de la Bourse é uma obra-prima da arquitetura clássica.", "A Cité du Vin é um museu ultramoderno dedicado à cultura do vinho.", "A cidade tem uma das ruas pedonais mais longas da Europa (Rue Sainte-Catherine).", "Bordéus foi temporariamente a sede do governo francês durante as guerras mundiais.", "Quase metade da cidade é Património Mundial da UNESCO."],
-      fr: ["Bordeaux possède le plus grand nombre de monuments classés en France après Paris.", "La région bordelaise est le plus grand vignoble d'un seul tenant au monde.", "La place de la Bourse est un chef-d'œuvre de l'architecture classique.", "La Cité du Vin est un musée ultramoderne dédié à la culture viticole.", "La ville possède l'une des plus longues rues piétonnes d'Europe (rue Sainte-Catherine).", "Bordeaux fut temporairement le siège du gouvernement français durant les guerres mondiales.", "Près de la moitié de la ville est classée au patrimoine mondial de l'UNESCO."],
-    },
-    descriptionAdvanced: {
-      de: "Bordeaux, am Ufer der Garonne im Südwesten Frankreichs gelegen, ist die Hauptstadt der Region Nouvelle-Aquitaine und das weltweite Zentrum des Weinhandels. Die Stadt ist berühmt für ihr architektonisches Ensemble aus dem 18. Jahrhundert, das im historischen Stadtkern „Port de la Lune“ von der UNESCO als Welterbe geschützt ist. Zu den markantesten Wahrzeichen gehören die Place de la Bourse mit dem „Miroir d’eau“ (Wasserspiegel) und die neoklassizistische Oper Grand Théâtre. Die Pont de Pierre war die erste Brücke, die die Garonne in Bordeaux überquerte und wurde auf Befehl Napoleons I. erbaut. Neben seiner historischen Bedeutung ist Bordeaux heute eine moderne Metropole mit einer bedeutenden Luft- und Raumfahrtindustrie sowie einer lebendigen Universitätsszene. Das 2016 eröffnete Weinmuseum „Cité du Vin“ unterstreicht die tiefe kulturelle Verbindung der Stadt zum Weinbau, der bereits in römischer Zeit begann.",
-      hu: "Bordeaux, a Garonne folyó partján, Franciaország délnyugati részén található, Új-Aquitania régió székhelye és a világ bortermelésének központja. A város híres a 18. századi építészeti együtteséről, amelynek történelmi magja, a „Hold kikötője” (Port de la Lune) az UNESCO Világörökség része. A legjelentősebb látnivalók közé tartozik a Place de la Bourse a „Miroir d’eau” (Vízitükör) nevű látványossággal, valamint a neoklasszicista Grand Théâtre operaház. A Pont de Pierre volt az első híd, amely átívelt a Garonna felett Bordeaux-ban, és I. Napóleon parancsára épült. Történelmi jelentősége mellett Bordeaux ma egy modern metropolisz jelentős repülőgép- és űripari szektorral, valamint pezsgő egyetemi élettel. A 2016-ban megnyitott „Cité du Vin” bormúzeum hangsúlyozza a város mély kulturális kötődését a borászathoz, amely már a római korban elkezdődött.",
-      ro: "Bordeaux, situat pe malurile fluviului Garonne în sud-vestul Franței, este capitala regiunii Nouvelle-Aquitaine și centrul mondial al comerțului cu vin. Orașul este faimos pentru ansamblul său arhitectural din secolul al XVIII-lea, centrul istoric „Port de la Lune” fiind protejat de UNESCO ca sit al Patrimoniului Mondial. Printre cele mai emblematice repere se numără Place de la Bourse cu al său „Miroir d’eau” (Oglinda de apă) și Grand Théâtre, o operă neoclasică monumentală. Pont de Pierre a fost primul pod care a traversat Garonne în Bordeaux, fiind construit la ordinul lui Napoleon I. Pe lângă importanța sa istorică, Bordeaux este astăzi o metropolă modernă cu o industrie aerospațială semnificativă și o viață universitară vibrantă. Muzeul vinului „Cité du Vin”, inaugurat în 2016, subliniază legătura culturală profundă a orașului cu viticultura, care a început încă din perioada romană.",
-      en: "Bordeaux, located on the banks of the Garonne River in southwestern France, is the capital of the Nouvelle-Aquitaine region and the global center of the wine trade. The city is famous for its 18th-century architectural ensemble, with its historic center 'Port de la Lune' designated as a UNESCO World Heritage site. Notable landmarks include the Place de la Bourse with its 'Miroir d’eau' (Water Mirror) and the neoclassical Grand Théâtre opera house. The Pont de Pierre was the first bridge to cross the Garonne in Bordeaux, built on the orders of Napoleon I. In addition to its historical significance, Bordeaux is today a modern metropolis with a major aerospace industry and a vibrant university scene. The 'Cité du Vin' wine museum, opened in 2016, highlights the city's deep cultural connection to viticulture, which dates back to Roman times.",
-      es: "Burdeos, ubicada en el suroeste de Francia, es la capital de la región de Nueva Aquitania y el centro mundial del comercio vinícola. La ciudad es famosa por su conjunto arquitectónico del siglo XVIII, protegido por la UNESCO como Patrimonio de la Humanidad en su centro histórico 'Port de la Lune'. Entre sus monumentos más destacados se encuentran la Place de la Bourse con el 'Miroir d'eau' y el Gran Teatro neoclásico. El Pont de Pierre fue el primer puente que cruzó el Garona en la ciudad y se construyó por orden de Napoleón I. Además de su importancia histórica, Burdeos es hoy una metrópolis moderna con una relevante industria aeroespacial y una animada vida universitaria. El museo del vino 'Cité du Vin', inaugurado en 2016, subraya la profunda conexión cultural de la ciudad con la viticultura, que se remonta a la época romana.",
-      pt: "Bordéus, localizada no sudoeste da França, é a capital da região da Nova Aquitânia e o centro mundial do comércio de vinho. A cidade é famosa pelo seu conjunto arquitetónico do século XVIII, protegido pela UNESCO como Património Mundial no seu centro histórico 'Port de la Lune'. Entre os marcos mais notáveis estão a Place de la Bourse com o 'Miroir d'eau' e a ópera neoclássica Grand Théâtre. A Pont de Pierre foi a primeira ponte a atravessar o Garona em Bordéus e foi construída por ordem de Napoleão I. Além da sua importância histórica, Bordéus é hoje uma metrópole moderna com uma indústria aeroespacial significativa e uma vida universitária vibrante. O museu do vinho 'Cité du Vin', inaugurado em 2016, sublinha a profunda ligação cultural da cidade à viticultura, que remonta ao período romano.",
-      fr: "Bordeaux, située au sud-ouest de la France sur les rives de la Garonne, est la capitale de la région Nouvelle-Aquitaine et le centre mondial du négoce de vin. La ville est renommée pour son ensemble architectural du XVIIIe siècle, classé au patrimoine mondial de l'UNESCO sous le nom de « Port de la Lune ». Parmi les monuments les plus emblématiques figurent la place de la Bourse avec son « Miroir d'eau » et le Grand Théâtre de style néoclassique. Le Pont de Pierre fut le premier pont à enjamber la Garonne à Bordeaux, érigé sur ordre de Napoléon Ier. Outre son importance historique, Bordeaux est aujourd'hui une métropole moderne dotée d'une industrie aéronautique et spatiale majeure ainsi que d'une vie universitaire dynamique. La Cité du Vin, ouverte en 2016, souligne le lien culturel profond de la ville avec la viticulture, dont les origines remontent à l'époque romaine.",
-    },
-    factsAdvanced: {
-      de: ["Bordeaux hat etwa 260.000 Einwohner (Stadtgebiet).", "Das historische Zentrum gehört seit 2007 zum UNESCO-Welterbe.", "Der 'Miroir d'eau' erstreckt sich über 3450 Quadratmeter.", "In der Region Bordeaux gibt es über 7000 Weingüter (Châteaux).", "Die Pont de Pierre hat 17 Bögen, entsprechend der Buchstaben im Namen Napoleon Bonaparte.", "Das Grand Théâtre wurde im Jahr 1780 eingeweiht."],
-      hu: ["Bordeaux lakossága körülbelül 260 000 fő (városi terület).", "A történelmi központ 2007 óta az UNESCO Világörökség része.", "A 'Miroir d'eau' (Vízitükör) 3450 négyzetméteren terül el.", "Bordeaux régióban több mint 7000 borászat (Châteaux) működik.", "A Pont de Pierre hídnak 17 íve van, a Napoléon Bonaparte név betűinek száma szerint.", "A Grand Théâtre operaházat 1780-ban avatták fel."],
-      ro: ["Bordeaux are aproximativ 260.000 de locuitori (zona urbană).", "Centrul istoric este inclus în Patrimoniul UNESCO din anul 2007.", "„Miroir d’eau” se întinde pe o suprafață de 3450 de metri pătrați.", "În regiunea Bordeaux există peste 7000 de domenii viticole (châteaux).", "Pont de Pierre are 17 arcuri, corespunzător numărului de litere din numele Napoleon Bonaparte.", "Grand Théâtre a fost inaugurat în anul 1780."],
-      en: ["Bordeaux has a population of approximately 260,000 (city proper).", "The historic center has been a UNESCO World Heritage site since 2007.", "The 'Miroir d'eau' covers an area of 3,450 square meters.", "There are over 7,000 wine estates (châteaux) in the Bordeaux region.", "The Pont de Pierre has 17 arches, matching the letters in the name Napoleon Bonaparte.", "The Grand Théâtre was inaugurated in 1780."],
-      es: ["Burdeos tiene unos 260.000 habitantes en el área municipal.", "El centro histórico es Patrimonio de la Humanidad por la UNESCO desde 2007.", "El 'Miroir d'eau' se extiende sobre 3.450 metros cuadrados.", "En la región de Burdeos hay más de 7.000 bodegas (Châteaux).", "El Pont de Pierre tiene 17 arcos, que corresponden a las letras de Napoleón Bonaparte.", "El Grand Théâtre fue inaugurado en el año 1780."],
-      pt: ["Bordéus tem cerca de 260.000 habitantes (área urbana).", "O centro histórico é Património Mundial da UNESCO desde 2007.", "O 'Miroir d'eau' estende-se por 3450 metros quadrados.", "Existem mais de 7000 propriedades vinícolas (Châteaux) na região de Bordéus.", "A Pont de Pierre tem 17 arcos, correspondendo ao número de letras de Napoleão Bonaparte.", "O Grand Théâtre foi inaugurado no ano de 1780."],
-      fr: ["Bordeaux compte environ 260 000 habitants (ville intra-muros).", "Le centre historique est inscrit au patrimoine mondial de l'UNESCO depuis 2007.", "Le « Miroir d'eau » s'étend sur une surface de 3 450 mètres carrés.", "La région de Bordeaux compte plus de 7 000 domaines viticoles (Châteaux).", "Le Pont de Pierre possède 17 arches, soit le nombre de lettres de Napoléon Bonaparte.", "Le Grand Théâtre a été inauguré en 1780."],
-    },
-    "sights": {
-      "de": [
-            {
-                  "name": "Place de la Bourse",
-                  "text": "Ein prachtvoller Platz am Ufer der Garonne, bekannt für den weltweit größten Wasserspiegel (Miroir d'eau).",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cité du Vin",
-                  "text": "Ein futuristisches Gebäude, das als interaktives Museum der Weinkultur gewidmet ist.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kathedrale Saint-André",
-                  "text": "Eine imposante gotische Kathedrale, in der Eleonore von Aquitanien den späteren König Ludwig VII. heiratete.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grand Théâtre",
-                  "text": "Eines der schönsten Opernhäuser Frankreichs mit einer beeindruckenden neoklassizistischen Fassade.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont de Pierre",
-                  "text": "Die erste Brücke über die Garonne in Bordeaux, erbaut im Auftrag von Napoleon Bonaparte.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grosse Cloche",
-                  "text": "Ein mittelalterliches Stadttor mit einer monumentalen Glocke, ein Überrest der alten Stadtmauer.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardin Public",
-                  "text": "Ein eleganter englischer Garten im Herzen der Stadt, ideal zum Entspannen am Ufer des Weihers.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Basilika Saint-Michel",
-                  "text": "Eine prächtige gotische Kirche mit einem freistehenden Glockenturm, der die Skyline der Stadt prägt.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Place de la Bourse",
-                  "text": "Pompás tér a Garonne partján, amely a világ legnagyobb vízitükréről (Miroir d'eau) híres.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cité du Vin",
-                  "text": "Futurisztikus épület, amely a borkultúra interaktív múzeumaként szolgál.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent András-székesegyház",
-                  "text": "Impozáns gótikus katedrális, ahol Aquitániai Eleonóra férjhez ment a későbbi VII. Lajos királyhoz.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grand Théâtre",
-                  "text": "Franciaország egyik legszebb operaháza, lenyűgöző neoklasszicista homlokzattal.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont de Pierre",
-                  "text": "Az első híd a Garonne felett Bordeaux-ban, amelyet Napóleon Bonaparte parancsára építettek.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grosse Cloche",
-                  "text": "Középkori városkapu monumentális haranggal, a régi városfal egyik megmaradt emléke.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardin Public",
-                  "text": "Elegáns angolkert a város szívében, amely ideális kikapcsolódást nyújt a tó partján.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Szent Mihály-bazilika",
-                  "text": "Pompás gótikus templom különálló harangtoronnyal, amely meghatározza a város látképét.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Place de la Bourse",
-                  "text": "O piață splendidă pe malul Garonnei, celebră pentru oglinda de apă (Miroir d'eau), cea mai mare din lume.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cité du Vin",
-                  "text": "O clădire futuristă care găzduiește un muzeu interactiv dedicat culturii vinului universal.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Catedrala Saint-André",
-                  "text": "O catedrală gotică impunătoare, locul unde Eleanor de Aquitania s-a căsătorit cu viitorul rege Ludovic al VII-lea.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Marele Teatru",
-                  "text": "Una dintre cele mai frumoase clădiri de operă din Franța, cu o fațadă neoclasică impresionantă.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont de Pierre",
-                  "text": "Primul pod peste Garonne din Bordeaux, construit la ordinul lui Napoleon Bonaparte.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grosse Cloche",
-                  "text": "O poartă medievală a orașului cu un clopot monumental, un vestigiu al vechilor fortificații.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grădina Publică",
-                  "text": "O grădină englezească elegantă în inima orașului, oferind un spațiu de relaxare lângă un mic lac.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Bazilica Saint-Michel",
-                  "text": "O biserică gotică remarcabilă cu un turn cu clopotniță separat, care domină panorama orașului.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ],
-      "en": [
-            {
-                  "name": "Place de la Bourse",
-                  "text": "A stunning example of 18th-century architecture, famous for the Water Mirror reflection pool.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cité du Vin",
-                  "text": "A landmark museum with futuristic architecture dedicated to the history and culture of wine.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Saint-André Cathedral",
-                  "text": "A magnificent Gothic cathedral and UNESCO World Heritage site, where royal weddings once took place.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grand Théâtre",
-                  "text": "An iconic opera house featuring a neoclassic portico with twelve Corinthian columns.",
-                  "category": "cultural",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Pont de Pierre",
-                  "text": "The historic 'Stone Bridge' spanning the Garonne river, commissioned by Napoleon I.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Grosse Cloche",
-                  "text": "A preserved medieval belfry that served as the town hall's gate and a landmark of the old city.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Jardin Public",
-                  "text": "An 18th-century public park in the English style, featuring botanical gardens and a library.",
-                  "category": "recreational",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Saint-Michel Basilica",
-                  "text": "A flamboyant Gothic church known for its separate spire, the second tallest in France.",
-                  "category": "religious",
-                  "confidence": "high"
-            }
-      ]
-}
-  },
+  
+  
   {
     id: "fr-saint-tropez",
     type: "city",
@@ -5566,7 +5241,7 @@ export const franceCities: POI[] = [
       pt: ["O início da construção da catedral foi em 1163", "As duas torres principais têm uma altura de 69 metros", "A coroação de Napoleão I ocorreu aqui em 1804", "Um incêndio devastador ocorreu a 15 de abril de 2019", "A rosácea oeste tem um diâmetro de 9,6 metros", "A catedral oferece espaço para cerca de 9.000 pessoas"],
       fr: ["Le début de la construction de la cathédrale date de 1163", "Les deux tours principales mesurent 69 mètres de haut", "Le sacre de Napoléon Ier s'y est déroulé en 1804", "Un incendie dévastateur a eu lieu le 15 avril 2019", "La rosace ouest a un diamètre de 9,6 mètres", "La cathédrale peut accueillir environ 9 000 personnes"],
     },
-  },
+  }
 ];
 
 export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities];

@@ -200,203 +200,7 @@ export const poiExtraFranceCities: POI[] = [
       ]
 }
   },
-  {
-    id: "city-strasbourg-extra", population: 293771,
-    type: "city",
-    parent: "FR-GES",
-    coords: [7.7521, 48.5734],
-    name: { de: "Straßburg", hu: "Strasbourg", ro: "Strasbourg", en: "Strasbourg" },
-    description: {
-      de: "Straßburg ist der offizielle Sitz des Europäischen Parlaments und ein Symbol der deutsch-französischen Aussöhnung. Die Altstadt Grande Île ist UNESCO-Weltkulturerbe.",
-      hu: "Strasbourg az Európai Parlament hivatalos székhelye és a francia-német megbékélés szimbóluma. A Grande Île történelmi központja az UNESCO Világörökség része.",
-      ro: "Strasbourg este sediul oficial al Parlamentului European și un simbol al reconcilierii franco-germane. Centrul său istoric, Grande Île, este un sit al Patrimoniului Mondial UNESCO.",
-      en: "Strasbourg is the official seat of the European Parliament and a symbol of Franco-German reconciliation. Its historic center, the Grande Île, is a UNESCO World Heritage site.",
-      es: "Estrasburgo es la sede oficial del Parlamento Europeo y un símbolo de la reconciliación franco-alemana. El casco antiguo Grande Île es Patrimonio de la Humanidad UNESCO.",
-      pt: "Estrasburgo é a sede oficial do Parlamento Europeu e um símbolo da reconciliação franco-alemã. O centro histórico Grande Île é Património Mundial da UNESCO.",
-      fr: "Strasbourg est le siège officiel du Parlement européen et un symbole de la réconciliation franco-allemande. La vieille ville, la Grande Île, est classée au patrimoine mondial de l'UNESCO.",
-    },
-    facts: {
-      de: ["Sitz des Europäischen Parlaments.", "Historisches Viertel 'Petite France'.", "Berühmter Weihnachtsmarkt."],
-      hu: ["Az Európai Parlament székhelye.", "A 'Petite France' történelmi negyed.", "Híres karácsonyi vásár."],
-      ro: ["Sediul Parlamentului European.", "Cartierul istoric 'Petite France'.", "Târg de Crăciun renumit."],
-      en: ["Seat of the European Parliament.", "Historic 'Petite France' quarter.", "Famous Christmas market."],
-      es: ["Sede del Parlamento Europeo.", "Barrio histórico 'Petite France'.", "Famoso mercado de Navidad."],
-      pt: ["Sede do Parlamento Europeu.", "Bairro histórico 'Petite France'.", "Famoso mercado de Natal."],
-      fr: ["Siège du Parlement européen.", "Quartier historique de la 'Petite France'.", "Célèbre marché de Noël."],
-    }, image: "/poi-images/city-strasbourg-extra.webp",
-    descriptionAdvanced: {
-      de: "Strasbourg ist die Hauptstadt der Region Grand Est im Nordosten Frankreichs und dient als offizieller Sitz des Europäischen Parlaments. Die Stadt liegt direkt am Fluss Ill, der sich im Stadtzentrum in mehrere Kanäle verzweigt, und grenzt unmittelbar an den Rhein. Die historische Altstadt, Grande Île, wurde 1988 zum UNESCO-Weltkulturerbe erklärt und ist geprägt von prächtigen Fachwerkhäusern und mittelalterlicher Architektur. Das Straßburger Münster, dessen Bau im Jahr 1015 begann und 1439 abgeschlossen wurde, war über zwei Jahrhunderte das höchste Gebäude der Welt. Aufgrund seiner Grenzlage zwischen Frankreich und Deutschland hat die Stadt eine wechselvolle Geschichte hinter sich und ist heute ein Symbol der deutsch-französischen Aussöhnung. Neben ihrer politischen Bedeutung ist Strasbourg ein wichtiges Zentrum für Bildung, Kultur und die renommierte elsässische Gastronomie. Straßburg, Sitz des Europäischen Parlaments, war 2024-2025 Schauplatz wichtiger Sitzungen in instabiler französischer Politik. Das Münster feierte 2025 sein tausendjähriges Jubiläum.",
-      hu: "Strasbourg a Franciaország északkeleti részén található Grand Est régió székhelye, és az Európai Parlament hivatalos központja. A város az Ill folyó partján fekszik, amely a történelmi városközpontban több csatornára ágazik szét, közvetlen közelében pedig a Rajna folyik. A Grande Île nevű történelmi negyed 1988 óta az UNESCO Világörökség része, híres jól megőrzött favázas házairól és középkori hangulatáról. A strasbourgi katedrális, melynek építése 1015-ben kezdődött és 1439-ben fejeződött be, több mint két évszázadon át a világ legmagasabb épülete volt. A francia-német határon fekvő település viharos történelmet tudhat magáénak, ma azonban a két nemzet közötti megbékélés és az európai egység jelképe. Politikai súlya mellett Strasbourg kiemelkedő oktatási központ és az elzászi gasztronómia egyik legfontosabb városa. Strasbourg, az Európai Parlament székhelye, 2024-2025-ben kulcsfontosságú üléseknek adott otthont a francia politikai instabilitás közepette. A katedrális 2025-ben ünnepelte évezredes évfordulóját.",
-      ro: "Strasbourg este capitala regiunii Grand Est din nord-estul Franței și sediul oficial al Parlamentului European. Orașul este situat pe malul râului Ill, care se ramifică în mai multe canale în centrul vechi, și se învecinează direct cu fluviul Rin. Centrul istoric, cunoscut sub numele de Grande Île, a fost înscris în patrimoniul mondial UNESCO în 1988, fiind remarcabil pentru casele sale cu structură de lemn și arhitectura medievală. Catedrala Notre-Dame din Strasbourg, construită între anii 1015 și 1439, a deținut titlul de cea mai înaltă clădire din lume timp de peste două secole. Datorită poziției sale strategice la granița dintre Franța și Germania, orașul are o istorie biculturală complexă, fiind astăzi un simbol al reconcilierii europene. Pe lângă rolul politic, Strasbourg este un centru universitar de prestigiu și o destinație gastronomică recunoscută pentru bucătăria alsaciană. Strasbourg, sediul Parlamentului European, a găzduit sesiuni cheie în 2024-2025 pe fondul instabilității politice franceze. Catedrala a sărbătorit mileniul în 2025.",
-      en: "Strasbourg is the capital of the Grand Est region in northeastern France and serves as the official seat of the European Parliament. The city is situated on the Ill River, which divides into several canals in the historic center, and lies in close proximity to the Rhine. Its central island, the Grande Île, was designated a UNESCO World Heritage site in 1988, celebrated for its well-preserved half-timbered houses and medieval urban fabric. The Strasbourg Cathedral, constructed between 1015 and 1439, held the record as the world's tallest building for over two centuries. Positioned on the border between France and Germany, the city has a complex bicultural history and stands today as a symbol of Franco-German reconciliation and European unity. Beyond its political role, Strasbourg is a major center for higher education, culture, and renowned Alsatian gastronomy. Strasbourg, seat of the European Parliament, hosted key sessions in 2024-2025 amid French political instability. The cathedral celebrated its millennium in 2025.",
-      es: "Estrasburgo es la capital de la región del Gran Este, en el noreste de Francia, y sirve como sede oficial del Parlamento Europeo. La ciudad está situada directamente sobre el río Ill, que se divide en varios canales en el centro de la ciudad, y limita inmediatamente con el Rin. El casco antiguo histórico, Grande Île, fue declarado Patrimonio de la Humanidad por la UNESCO en 1988 y se caracteriza por sus magníficas casas de entramado de madera y su arquitectura medieval. La Catedral de Estrasburgo, cuya construcción comenzó en el año 1015 y finalizó en 1439, fue el edificio más alto del mundo durante más de dos siglos. Debido a su ubicación fronteriza entre Francia y Alemania, la ciudad tiene una historia agitada y es hoy un símbolo de la reconciliación franco-alemana. Además de su importancia política, Estrasburgo es un centro importante para la educación, la cultura y la renombrada gastronomía alsaciana.",
-      pt: "Estrasburgo é a capital da região de Grande Leste, no nordeste da França, e serve como sede oficial do Parlamento Europeu. A cidade situa-se diretamente no rio Ill, que se ramifica em vários canais no centro da cidade, e faz fronteira imediata com o Reno. O centro histórico, Grande Île, foi declarado Património Mundial da UNESCO em 1988 e é caracterizado por magníficas casas de enxaimel e arquitetura medieval. A Catedral de Estrasburgo, cuja construção começou no ano 1015 e terminou em 1439, foi o edifício mais alto do mundo durante mais de dois séculos. Devido à sua localização fronteiriça entre a França e a Alemanha, a cidade tem uma história atribulada e é hoje um símbolo da reconciliação franco-alemã. Além da sua importância política, Estrasburgo é um centro importante para a educação, cultura e a renomeada gastronomia alsaciana.",
-      fr: "Strasbourg est la capitale de la région Grand Est, dans le nord-est de la France, et sert de siège officiel au Parlement européen. La ville est située directement sur l'Ill, qui se divise en plusieurs canaux au centre-ville, et jouxte immédiatement le Rhin. La vieille ville historique, la Grande Île, a été classée au patrimoine mondial de l'UNESCO en 1988 ; elle est marquée par de magnifiques maisons à colombages et une architecture médiévale. La cathédrale de Strasbourg, dont la construction a débuté en 1015 et s'est achevée en 1439, a été le plus haut bâtiment du monde pendant plus de deux siècles. En raison de sa situation frontalière entre la France et l'Allemagne, la ville a connu une histoire mouvementée et est aujourd'hui un symbole de la réconciliation franco-allemande. Outre son importance politique, Strasbourg est un centre important pour l'éducation, la culture et la gastronomie alsacienne de renommée. Strasbourg, siège du Parlement européen, a accueilli des sessions clés en 2024-2025 dans un contexte politique français instable. La cathédrale a célébré son millénaire en 2025.",
-    },
-    factsAdvanced: {
-      de: ["Die Grande Île wurde 1988 als erstes Stadtzentrum in die UNESCO-Liste aufgenommen.", "Das Straßburger Münster besitzt einen Nordturm mit einer Höhe von 142 Metern.", "Die Stadt beherbergt den Sitz des Europarates und des Europäischen Gerichtshofs für Menschenrechte.", "Hier wurde 1792 die französische Nationalhymne, die Marseillaise, komponiert.", "Der Straßburger Weihnachtsmarkt besteht bereits seit dem Jahr 1570.", "Johannes Gutenberg erfand in dieser Stadt um 1440 den modernen Buchdruck."],
-      hu: ["A Grande Île 1988-ban az első teljes városközpontként került fel az UNESCO listájára.", "A katedrális északi tornya 142 méter magas, 1874-ig a világ legmagasabbja volt.", "A város az Európa Tanács és az Emberi Jogok Európai Bíróságának székhelye.", "Itt komponálták 1792-ben a francia himnuszt, a Marseillaise-t.", "A strasbourgi karácsonyi vásár hagyománya egészen 1570-ig nyúlik vissza.", "Johannes Gutenberg itt végezte első kísérleteit a könyvnyomtatással 1440 körül."],
-      ro: ["Grande Île a fost primul centru urban din Franța inclus în lista UNESCO, în 1988.", "Turnul de nord al catedralei are o înălțime impresionantă de 142 de metri.", "Orașul este sediul Consiliului Europei și al Curții Europene a Drepturilor Omului.", "Imnul național al Franței, La Marseillaise, a fost compus aici în anul 1792.", "Piața de Crăciun din Strasbourg datează din 1570, fiind una dintre cele mai vechi.", "Johannes Gutenberg a dezvoltat tehnica tiparului în acest oraș în jurul anului 1440."],
-      en: ["The Grande Île was the first entire city center listed as a UNESCO World Heritage site in 1988.", "Strasbourg Cathedral's north spire reaches a height of 142 meters.", "The city hosts the Council of Europe and the European Court of Human Rights.", "The French national anthem, La Marseillaise, was composed here in 1792.", "The Strasbourg Christmas Market has been held annually since the year 1570.", "Johannes Gutenberg conducted his early printing experiments in this city around 1440."],
-      es: ["La Grande Île fue el primer centro de ciudad en ser incluido en la lista de la UNESCO en 1988.", "La Catedral de Estrasburgo tiene una torre norte con una altura de 142 metros.", "La ciudad alberga la sede del Consejo de Europa y del Tribunal Europeo de Derechos Humanos.", "Aquí se compuso en 1792 el himno nacional francés, la Marsellesa.", "El mercado de Navidad de Estrasburgo existe desde el año 1570.", "Johannes Gutenberg inventó la imprenta moderna en esta ciudad hacia 1440."],
-      pt: ["A Grande Île foi o primeiro centro de cidade a ser incluído na lista da UNESCO em 1988.", "A Catedral de Estrasburgo possui uma torre norte com uma altura de 142 metros.", "A cidade alberga a sede do Conselho da Europa e do Tribunal Europeu dos Direitos Humanos.", "Aqui foi composto em 1792 o hino nacional francês, a Marselhesa.", "O mercado de Natal de Estrasburgo existe desde o ano de 1570.", "Johannes Gutenberg inventou a imprensa moderna nesta cidade por volta de 1440."],
-      fr: ["La Grande Île a été le premier centre-ville inscrit sur la liste de l'UNESCO en 1988.", "La cathédrale de Strasbourg possède une tour nord d'une hauteur de 142 mètres.", "La ville accueille le siège du Conseil de l'Europe et de la Cour européenne des droits de l'homme.", "C'est ici qu'a été composée en 1792 l'hymne national français, la Marseillaise.", "Le marché de Noël de Strasbourg existe depuis l'année 1570.", "Johannes Gutenberg y a inventé l'imprimerie moderne vers 1440."],
-    },
-    "sights": {
-      "de": [
-            {
-                  "name": "Straßburger Münster",
-                  "text": "Dieses gotische Meisterwerk mit seiner astronomischen Uhr war über Jahrhunderte das höchste Gebäude der Menschheit.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "La Petite France",
-                  "text": "Das malerischste Viertel von Straßburg mit Fachwerkhäusern, Kanälen und blumengeschmückten Gassen.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Palais Rohan",
-                  "text": "Ein prächtiger Barockpalast, der einst den Fürstbischöfen gehörte und heute drei wichtige Museen beherbergt.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Gedeckte Brücken",
-                  "text": "Drei Brücken mit vier massiven Türmen aus dem 14. Jahrhundert, die einst Teil der Stadtbefestigung waren.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Europäisches Parlament",
-                  "text": "Ein Symbol der europäischen Einheit und Demokratie, untergebracht in einem beeindruckenden modernen Glasgebäude.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orangerie-Park",
-                  "text": "Der älteste Park der Stadt mit einem See, Störchen und einem wunderschönen Pavillon für die Kaiserin Josephine.",
-                  "category": "recreational",
-                  "confidence": "high"
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Strasbourgi székesegyház",
-                  "text": "Lenyűgöző gótikus katedrális híres csillagászati órával; évszázadokon át a világ legmagasabb épülete volt.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Petite France negyed",
-                  "text": "Strasbourg legbájosabb része csatornákkal, rácsos szerkezetű házakkal és virágokkal díszített szűk utcákkal.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Rohan-palota",
-                  "text": "Pompás barokk palota, amely ma három jelentős múzeumnak ad otthont a katedrális közvetlen szomszédságában.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Fedett hidak",
-                  "text": "A 14. századból származó tornyokkal védett hidak, amelyek egykor a város erődrendszerének fontos részét képezték.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Európai Parlament",
-                  "text": "Az európai egység modern szimbóluma, egy futurisztikus üvegépület az Ill folyó partján, amely látogatható.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Orangerie park",
-                  "text": "A város legrégebbi és legnagyobb parkja, ahol a látogatók megcsodálhatják a város jelképét, a gólyákat.",
-                  "category": "recreational",
-                  "confidence": "high"
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Catedrala Notre-Dame",
-                  "text": "O capodoperă a artei gotice, celebră pentru turnul său înalt și ceasul astronomic care atrage mii de turiști.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Cartierul Petite France",
-                  "text": "Cea mai pitorească zonă a orașului, cu case vechi din lemn, canale navigabile și o atmosferă medievală autentică.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Palatul Rohan",
-                  "text": "O fostă reședință episcopală de o eleganță rară, care găzduiește astăzi muzeele de artă și arheologie.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Podurile Acoperite",
-                  "text": "Un ansamblu de trei poduri și patru turnuri medievale care păstrează farmecul fortificațiilor de altădată.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parlamentul European",
-                  "text": "O clădire modernă spectaculoasă ce servește drept sediu oficial al democrației europene și poate fi vizitată.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parcul Orangerie",
-                  "text": "Cel mai vechi parc public din Strasbourg, renumit pentru coloniile de berze și lacul său liniștit cu bărci.",
-                  "category": "recreational",
-                  "confidence": "high"
-            }
-      ],
-      "en": [
-            {
-                  "name": "Strasbourg Cathedral",
-                  "text": "A Gothic masterpiece with a world-famous astronomical clock, it was the world's tallest building for 227 years.",
-                  "category": "religious",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Petite France",
-                  "text": "The city's most picturesque district, known for its half-timbered houses, narrow canals, and floral displays.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Palais Rohan",
-                  "text": "A grand 18th-century episcopal palace that now houses the Fine Arts, Decorative Arts, and Archaeology museums.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Ponts Couverts",
-                  "text": "A set of three bridges and four 14th-century towers that formerly served as part of the city's defenses.",
-                  "category": "historical",
-                  "confidence": "high"
-            },
-            {
-                  "name": "European Parliament",
-                  "text": "An iconic modern building that serves as the official seat of the European Union's legislative body.",
-                  "category": "civic",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Parc de l'Orangerie",
-                  "text": "The city's oldest park, famous for its stork sanctuary, boating lake, and beautiful English-style gardens.",
-                  "category": "recreational",
-                  "confidence": "high"
-            }
-      ]
-}
-  },
+  
   {
     id: "industry-airbus-toulouse-extra",
     type: "industry",
@@ -612,49 +416,7 @@ export const poiExtraFranceCities: POI[] = [
       fr: ["Le point le plus haut du viaduc atteint 343 mètres.", "La longueur totale du pont est exactement de 2 460 mètres.", "L'ouvrage a été inauguré officiellement le 14 décembre 2004.", "Le pont est porté par sept pylônes construits dans la vallée.", "La chaussée présente une légère pente de 3 %.", "Environ 36 000 tonnes d'acier ont été utilisées pour le tablier."],
     },
   },
-    {
-    id: "castle-chateau-de-chambord-extra",
-    type: "castle",
-    parent: "FR-CVL",
-    coords: [1.5173, 47.6162],
-    name: { de: "Schloss Chambord", hu: "Chambord-i kastély", ro: "Castelul Chambord", en: "Château de Chambord" },
-    description: {
-      de: "Schloss Chambord ist das größte Schloss der Loire und ein Meisterwerk der französischen Renaissance-Architektur, das möglicherweise von Leonardo da Vinci beeinflusst wurde.",
-      hu: "A Chambord-i kastély a Loire-völgy legnagyobb kastélya, a francia reneszánsz építészet mesterműve, melyet valószínűleg Leonardo da Vinci is befolyásolt.",
-      ro: "Castelul Chambord este cel mai mare castel de pe Valea Loarei și o capodoperă a arhitecturii renascentiste franceze, posibil influențată de Leonardo da Vinci.",
-      en: "Château de Chambord is the largest château in the Loire Valley and a masterpiece of French Renaissance architecture, possibly influenced by Leonardo da Vinci.",
-      es: "El castillo de Chambord es el más grande del Loira y una obra maestra de la arquitectura renacentista francesa, posiblemente influenciada por Leonardo da Vinci.",
-      pt: "O castelo de Chambord é o maior do Loire e uma obra-prima da arquitetura renascentista francesa, possivelmente influenciada por Leonardo da Vinci.",
-      fr: "Le château de Chambord est le plus grand château de la Loire et un chef-d'œuvre de l'architecture de la Renaissance française, peut-être influencé par Léonard de Vinci.",
-    },
-    facts: {
-      de: ["Gebaut als Jagdschloss für König Franz I.", "Berühmte doppelläufige Wendeltreppe.", "Umg eben von einem riesigen Waldgebiet."],
-      hu: ["I. Ferenc király vadászkastélyának épült.", "Híres kettős csigalépcső.", "Hatalmas erdőterület veszi körül."],
-      ro: ["Construit ca reședință de vânătoare pentru regele Francisc I.", "Scară dublă elicoidală faimoasă.", "Înconjurat de o pădure vastă."],
-      en: ["Built as a hunting lodge for King Francis I.", "Famous double-helix staircase.", "Surrounded by a vast forest estate."],
-      es: ["Construido como pabellón de caza para el rey Francisco I.", "Famosa escalera de caracol de doble hélice.", "Rodeado por una enorme zona forestal."],
-      pt: ["Construído como pavilhão de caça para o rei Francisco I.", "Famosa escadaria em espiral de dupla hélice.", "Rodeado por uma enorme zona florestal."],
-      fr: ["Construit comme pavillon de chasse pour François Ier.", "Célèbre escalier à double révolution.", "Entouré d'un immense domaine forestier."],
-    }, image: "/poi-images/castle-chateau-de-chambord-extra.webp",
-    descriptionAdvanced: {
-      de: "Das Schloss Chambord im Loiretal ist das größte und prächtigste der französischen Renaissanceschlösser und ein Meisterwerk der Baukunst des 16. Jahrhunderts. Es wurde ab 1519 im Auftrag von König Franz I. als Jagdschloss errichtet, wobei die Entwürfe stark von italienischen Einflüssen, möglicherweise sogar von Leonardo da Vinci, geprägt wurden. Die Architektur zeichnet sich durch eine komplexe Dachlandschaft mit Türmen, Kaminen und Dachfenstern aus, die an die Skyline einer Stadt erinnern. Im Zentrum des Bauwerks befindet sich die berühmte doppelläufige Wendeltreppe, die so konstruiert ist, dass zwei Personen gleichzeitig hinauf- und hinuntergehen können, ohne sich zu begegnen. Das Schloss liegt inmitten eines riesigen, ummauerten Parks von über 5.000 Hektar, der als größter geschlossener Waldpark Europas gilt. Obwohl es nie als dauerhafte Residenz genutzt wurde, diente es als Symbol für die Macht und den kulturellen Anspruch der französischen Monarchie. Seit 1981 gehört Chambord zum UNESCO-Weltkulturerbe.",
-      hu: "A Chambord-i kastély a Loire-völgy legnagyobb és legpompásabb reneszánsz épülete, a 16. századi francia építészet remekműve. Építése 1519-ben kezdődött I. Ferenc király megbízásából, aki vadászkastélynak szánta, az épület terveiben pedig erős olasz hatások, vélhetően Leonardo da Vinci elképzelései is tükröződnek. Az épület karakterét a rendkívül összetett tetőszerkezet adja, amely tornyaival, kéményeivel és tetőablakaival egy miniatűr város látképét idézi. Központi eleme a híres kettős csigalépcső, amelynek különlegessége, hogy két ember úgy tud rajta egyszerre közlekedni, hogy nem találkoznak egymással. A kastélyt egy hatalmas, több mint 5000 hektáros fallal körülvett park övezi, amely Európa legnagyobb zárt erdei parkja. Bár állandó lakhelyként soha nem használták, a francia monarchia hatalmának és kulturális fölényének szimbólumává vált. Chambord 1981 óta az UNESCO Világörökség része.",
-      ro: "Castelul Chambord, situat pe Valea Loarei, este cel mai mare și spectaculos castel din perioada Renașterii franceze, fiind o capodoperă arhitecturală a secolului al XVI-lea. Construcția sa a fost inițiată în 1519 de regele Francisc I pentru a servi drept pavilion de vânătoare, designul fiind influențat de ideile inovatoare ale lui Leonardo da Vinci. Arhitectura se remarcă prin acoperișul său complex, decorat cu numeroase turnuri, coșuri și lucarne care creează o siluetă urbană fantastică. Piesa centrală a castelului este celebra scară cu dublă elice, concepută astfel încât două persoane să poată urca și coborî simultan fără a se întâlni. Domeniul este înconjurat de un parc forestier de peste 5.000 de hectare, protejat de un zid lung de 32 de kilometri, cel mai mare de acest tip din Europa. Deși nu a fost niciodată locuit permanent, castelul rămâne un simbol al puterii absolute și al rafinamentului regal. Chambord a fost inclus în patrimoniul mondial UNESCO în anul 1981.",
-      en: "The Château de Chambord in the Loire Valley is the largest and most magnificent of all French Renaissance castles, serving as a masterpiece of 16th-century architectural ambition. Construction began in 1519 under the orders of King Francis I, who intended it as a hunting lodge, with designs heavily influenced by Italian styles and possibly the concepts of Leonardo da Vinci. The architecture is characterized by its complex roofline featuring numerous towers, chimneys, and dormer windows that resemble a city skyline. At its heart lies the famous double-helix staircase, engineered so that two people can ascend and descend simultaneously without ever meeting. The castle is surrounded by a vast walled forest park of over 5,000 hectares, the largest of its kind in Europe. Although never used as a permanent residence, it stands as a potent symbol of French monarchical power and cultural prestige. Chambord was designated a UNESCO World Heritage site in 1981.",
-      es: "El castillo de Chambord, en el valle del Loira, es el más grande y espléndido de los castillos renacentistas franceses y una obra maestra de la arquitectura del siglo XVI. Se construyó a partir de 1519 por encargo del rey Francisco I como pabellón de caza, con diseños fuertemente marcados por influencias italianas, posiblemente incluso de Leonardo da Vinci. La arquitectura se caracteriza por un complejo paisaje de tejados con torres, chimeneas y tragaluces que recuerdan el horizonte de una ciudad. En el centro del edificio se encuentra la famosa escalera de caracol de doble hélice, diseñada para que dos personas puedan subir y bajar simultáneamente sin cruzarse. El castillo está situado en medio de un enorme parque amurallado de más de 5.000 hectáreas, considerado el parque forestal cerrado más grande de Europa. Aunque nunca se utilizó como residencia permanente, sirvió como símbolo del poder y la ambición cultural de la monarquía francesa. Desde 1981, Chambord forma parte del Patrimonio de la Humanidad de la UNESCO.",
-      pt: "O castelo de Chambord, no Vale do Loire, é o maior e mais esplêndido dos castelos renascentistas franceses e uma obra-prima da arquitetura do século XVI. Foi construído a partir de 1519 por encomenda do rei Francisco I como um pavilhão de caça, com desenhos fortemente marcados por influências italianas, possivelmente até de Leonardo da Vinci. A arquitetura caracteriza-se por uma complexa paisagem de telhados com torres, chaminés e claraboias que lembram a linha do horizonte de uma cidade. No centro do edifício encontra-se a famosa escadaria em espiral de dupla hélice, construída de forma a que duas pessoas possam subir e descer simultaneamente sem se cruzarem. O castelo situa-se no meio de um enorme parque murado de mais de 5.000 hectares, considerado o maior parque florestal fechado da Europa. Embora nunca tenha sido utilizado como residência permanente, serviu como símbolo do poder e da pretensão cultural da monarquia francesa. Desde 1981, Chambord pertence ao Património Mundial da UNESCO.",
-      fr: "Le château de Chambord, dans la vallée de la Loire, est le plus grand et le plus somptueux des châteaux de la Renaissance française, chef-d'œuvre de l'architecture du XVIe siècle. Sa construction débuta en 1519 sur l'ordre du roi François Ier comme pavillon de chasse, avec des plans fortement marqués par les influences italiennes, peut-être même par Léonard de Vinci. L'architecture se distingue par un paysage de toitures complexe avec des tours, des cheminées et des lucarnes évoquant la silhouette d'une ville. Au centre de l'édifice se trouve le célèbre escalier à double révolution, conçu pour que deux personnes puissent monter et descendre simultanément sans jamais se croiser. Le château est situé au cœur d'un immense parc clos de murs de plus de 5 000 hectares, considéré comme le plus grand parc forestier clos d'Europe. Bien qu'il n'ait jamais servi de résidence permanente, il fut un symbole de la puissance et de l'ambition culturelle de la monarchie française. Depuis 1981, Chambord est inscrit au patrimoine mondial de l'UNESCO.",
-    },
-    factsAdvanced: {
-      de: ["Der Bau des Schlosses begann im Jahr 1519 unter Franz I.", "Das Schloss verfügt über insgesamt 426 Zimmer und 77 Treppen.", "Der ummauerte Park umfasst eine Fläche von 5.440 Hektar.", "Die berühmte doppelläufige Wendeltreppe wird Leonardo da Vinci zugeschrieben.", "Das Dach des Schlosses ist mit insgesamt 282 Kaminen geschmückt.", "Die Außenmauer des Anwesens ist etwa 32 Kilometer lang."],
-      hu: ["A kastély építése 1519-ben vette kezdetét I. Ferenc parancsára.", "Az épületben összesen 426 szoba és 77 lépcsőház található.", "A birtokot körülvevő park 5440 hektáron terül el.", "A központi kettős csigalépcsőt valószínűleg Leonardo da Vinci tervezte.", "A kastély tetejét 282 egyedi formájú kémény díszíti.", "A parkot övező kerítésfal hossza eléri a 32 kilométert."],
-      ro: ["Construcția castelului a început oficial în anul 1519.", "Castelul are un total de 426 de camere și 77 de scări.", "Domeniul Chambord acoperă o suprafață de 5.440 de hectare.", "Scara centrală cu dublă elice este atribuită lui Leonardo da Vinci.", "Acoperișul monumentului este dotat cu 282 de coșuri de fum decorative.", "Zidul de incintă al parcului are o lungime de 32 de kilometri."],
-      en: ["Construction of the castle began in 1519 under King Francis I.", "The building contains a total of 426 rooms and 77 staircases.", "The walled forest park covers an area of 5,440 hectares.", "The central double-helix staircase is widely attributed to Leonardo da Vinci.", "The roof features a distinctive array of 282 ornamental chimneys.", "The property is enclosed by a stone wall approximately 32 kilometers long."],
-      es: ["La construcción del castillo comenzó en 1519 bajo Francisco I.", "El castillo cuenta con un total de 426 habitaciones y 77 escaleras.", "El parque amurallado abarca una superficie de 5.440 hectáreas.", "La famosa escalera de doble hélice se atribuye a Leonardo da Vinci.", "El tejado del castillo está adornado con un total de 282 chimeneas.", "El muro exterior de la propiedad tiene unos 32 kilómetros de longitud."],
-      pt: ["A construção do castelo começou em 1519 sob Francisco I.", "O castelo dispõe de um total de 426 quartos e 77 escadas.", "O parque murado abrange uma área de 5.440 hectares.", "A famosa escadaria de dupla hélice é atribuída a Leonardo da Vinci.", "O telhado do castelo está adornado com um total de 282 chaminés.", "A muralha exterior da propriedade tem cerca de 32 quilómetros de comprimento."],
-      fr: ["La construction du château commença en 1519 sous François Ier.", "Le château dispose au total de 426 pièces et 77 escaliers.", "Le parc clos de murs s'étend sur une surface de 5 440 hectares.", "Le célèbre escalier à double révolution est attribué à Léonard de Vinci.", "Le toit du château est orné de 282 cheminées au total.", "Le mur extérieur du domaine mesure environ 32 kilomètres de long."],
-    },
-  },
+    
   {
     id: "kid-landmark-parc-asterix-extra",
     type: "kid-landmark",
@@ -1018,7 +780,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Aquädukt Saint-Clément", "text": "Dieses beeindruckende Bauwerk aus dem 18. Jahrhundert wurde nach dem Vorbild des antiken Pont du Gard errichtet.", "category": "historical", "confidence": "high" },
+            { "name": "Quartier Antigone", "text": "Ein von Ricardo Bofill entworfenes Stadtviertel im neoklassizistischen Stil mit monumentalen Gebäuden und Plätzen.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra Comédie", "text": "Das prachtvolle Opernhaus aus dem 19. Jahrhundert ist das kulturelle Herzstück an der Place de la Comédie.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour de la Babote", "text": "Ein mittelalterlicher Wehrturm, der später als Observatorium diente und Teil der alten Stadtbefestigung war.", "category": "historical", "confidence": "high" },
+            { "name": "Carré Sainte-Anne", "text": "Eine entweihte neugotische Kirche, die heute als Raum für Ausstellungen zeitgenössischer Kunst genutzt wird.", "category": "cultural", "confidence": "high" },
+            { "name": "Château de Flaugergues", "text": "Eines der prachtvollen Lustschlösser vor den Toren der Stadt mit kunstvoll angelegten Gärten und Weinbergen.", "category": "historical", "confidence": "high" },
+            { "name": "Esplanade Charles-de-Gaulle", "text": "Eine schattige Promenade mit Springbrunnen, die das historische Zentrum mit dem modernen Corum verbindet.", "category": "recreational", "confidence": "high" },
+            { "name": "Pavillon Populaire", "text": "Ein bedeutendes Museum für Fotokunst, das wechselnde Ausstellungen internationaler Fotografen präsentiert.", "category": "museum", "confidence": "high" },
+            { "name": "Faculté de Médecine", "text": "Eine der ältesten medizinischen Fakultäten der Welt, die in einem ehemaligen Benediktinerkloster untergebracht ist.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville", "text": "Das moderne Rathaus von Jean Nouvel ist ein markantes Beispiel für zeitgenössische Architektur aus blauem Glas.", "category": "civic", "confidence": "high" }
+        ],
       "hu": [
             {
                   "name": "Place de la Comédie",
@@ -1056,7 +829,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Saint-Clément vízvezeték", "text": "Ez a 18. századi építmény a híres Pont du Gard mintájára készült, és egykor vizet szállított a városba.", "category": "historical", "confidence": "high" },
+            { "name": "Antigone negyed", "text": "Ricardo Bofill által tervezett neoklasszicista városrész, amely monumentális tereiről és épületeiről ismert.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra Comédie", "text": "A 19. századi operaház a Place de la Comédie ékköve, a város kulturális életének egyik legfontosabb helyszíne.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour de la Babote", "text": "Eredetileg középkori védőtorony volt, majd később csillagvizsgálóként működött a városfal részeként.", "category": "historical", "confidence": "high" },
+            { "name": "Carré Sainte-Anne", "text": "Egykori neogótikus templom, amely ma kortárs művészeti kiállításoknak ad otthont Montpellier szívében.", "category": "cultural", "confidence": "high" },
+            { "name": "Château de Flaugergues", "text": "A város környéki elegáns kastélyok egyike, amely gyönyörű kertjeiről és saját borászatáról híres.", "category": "historical", "confidence": "high" },
+            { "name": "Esplanade Charles-de-Gaulle", "text": "Árnyas sétány szökőkutakkal, amely összeköti a történelmi belvárost a modern városrészekkel.", "category": "recreational", "confidence": "high" },
+            { "name": "Pavillon Populaire", "text": "Nívós fotóművészeti központ, ahol világhírű fotósok alkotásait tekinthetik meg az érdeklődők ingyenesen.", "category": "museum", "confidence": "high" },
+            { "name": "Orvostudományi Kar", "text": "A világ egyik legrégebbi orvosi egyeteme, amely egy korábbi bencés kolostor épületében kapott helyet.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville", "text": "Jean Nouvel által tervezett modern városháza, amely sötétkék üveghomlokzatával a modern építészet példája.", "category": "civic", "confidence": "high" }
+        ],
       "ro": [
             {
                   "name": "Piața Comediei",
@@ -1094,7 +878,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ],
+      ,
+            { "name": "Apeductul Saint-Clément", "text": "Această structură impresionantă din secolul al XVIII-lea a fost construită după modelul celebrului Pont du Gard.", "category": "historical", "confidence": "high" },
+            { "name": "Cartierul Antigone", "text": "Un cartier proiectat de Ricardo Bofill în stil neoclasic, renumit pentru clădirile sale monumentale și piețe.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra Comédie", "text": "Splendida operă din secolul al XIX-lea reprezintă centrul cultural situat în inima Place de la Comédie.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour de la Babote", "text": "Un turn defensiv medieval care a servit ulterior drept observator astronomic, parte din vechile fortificații.", "category": "historical", "confidence": "high" },
+            { "name": "Carré Sainte-Anne", "text": "O fostă biserică neogotică transformată într-un spațiu dedicat expozițiilor de artă contemporană.", "category": "cultural", "confidence": "high" },
+            { "name": "Château de Flaugergues", "text": "Una dintre elegantele reședințe nobiliare din afara orașului, celebră pentru grădinile sale și podgorii.", "category": "historical", "confidence": "high" },
+            { "name": "Esplanade Charles-de-Gaulle", "text": "O promenadă umbrită, cu fântâni arteziene, care face legătura între centrul istoric și complexul Corum.", "category": "recreational", "confidence": "high" },
+            { "name": "Pavillon Populaire", "text": "Un muzeu de prestigiu dedicat fotografiei artistice, găzduind expoziții ale unor fotografi de talie mondială.", "category": "museum", "confidence": "high" },
+            { "name": "Facultatea de Medicină", "text": "Una dintre cele mai vechi școli de medicină din lume, găzduită într-o fostă mănăstire benedictină.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville", "text": "Primăria modernă proiectată de Jean Nouvel este un reper al arhitecturii contemporane din sticlă albastră.", "category": "civic", "confidence": "high" }
+        ],
       "en": [
             {
                   "name": "Place de la Comédie",
@@ -1132,7 +927,18 @@ export const poiExtraFranceCities: POI[] = [
                   "category": "recreational",
                   "confidence": "high"
             }
-      ]
+      ,
+            { "name": "Aqueduc Saint-Clément", "text": "This 18th-century aqueduct was inspired by the Roman Pont du Gard and spans the Arceaux district.", "category": "historical", "confidence": "high" },
+            { "name": "Antigone District", "text": "Designed by Ricardo Bofill, this neoclassical district features grand buildings and symmetrical plazas.", "category": "civic", "confidence": "high" },
+            { "name": "Opéra Comédie", "text": "The majestic 19th-century opera house stands as a cultural centerpiece on the Place de la Comédie.", "category": "cultural", "confidence": "high" },
+            { "name": "Tour de la Babote", "text": "A medieval tower that once part of the city walls, later repurposed as an astronomical observatory.", "category": "historical", "confidence": "high" },
+            { "name": "Carré Sainte-Anne", "text": "A former neo-Gothic church now serving as a prominent space for contemporary art exhibitions.", "category": "cultural", "confidence": "high" },
+            { "name": "Château de Flaugergues", "text": "An elegant country estate known as a \"folie,\" featuring lush gardens and its own wine production.", "category": "historical", "confidence": "high" },
+            { "name": "Esplanade Charles-de-Gaulle", "text": "A tree-lined promenade with fountains, linking the historic center to the Corum conference center.", "category": "recreational", "confidence": "high" },
+            { "name": "Pavillon Populaire", "text": "A dedicated art photography space hosting world-class exhibitions by international photographers.", "category": "museum", "confidence": "high" },
+            { "name": "Faculty of Medicine", "text": "One of the oldest medical schools in the Western world, located in a former Benedictine monastery.", "category": "historical", "confidence": "high" },
+            { "name": "Hôtel de Ville", "text": "The modern City Hall, designed by Jean Nouvel, is a striking example of contemporary blue-glass architecture.", "category": "civic", "confidence": "high" }
+        ]
 }
   },
   {

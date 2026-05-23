@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Alle Stadtnachrichten",
+    "snippet": "Alle Stadtnachrichten",
+    "url": "https://www.esslingen.de/stadt-und-politik/presse-und-oeffentlichkeitsarbeit/stadtnachrichten",
+    "source": "esslingen.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Social Media",
+    "snippet": "Social Media Verfolgen Sie hier die aktuellsten Social-Media-Beiträge aus dem Rathaus - datenschutzkonform und ohne Anmeldung. Alle Social Media-Posts",
+    "url": "https://stage.bio/stadt-esslingen-am-neckar",
+    "source": "stage.bio (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Alle Veranstaltungen",
+    "snippet": "Alle Veranstaltungen",
+    "url": "https://www.esslingen.de/freizeit-und-engagement/veranstaltungskalender",
+    "source": "esslingen.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Esslingen besuchen",
+    "snippet": "Esslingen besuchen Erleben Sie Esslingen am Neckar mit seiner historischen Altstadt. Die richtigen Tipps für den perfekten Städtetrip hat die Esslinger Stadtmarketing & Tourismus GmbH für Sie. zum Stadtmarketing",
+    "url": "https://www.esslingen-info.com/",
+    "source": "esslingen-info.com (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  }
+]
