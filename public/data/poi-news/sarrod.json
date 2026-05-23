@@ -1,5 +1,14 @@
 [
   {
+    "title": "A huszadik művésztábor kezdődik Sarródon",
+    "snippet": "Pénteken, julius 27-én nyitja meg kapuit az idén 20 éves fennállását ünneplő Ferenczy József Nemzetközi Alkotó- és Művésztábor Sarródon. The post A huszadik művésztábor kezdődik Sarródon first appeared on 24.hu .",
+    "url": "https://24.hu/kultura/2012/07/26/a-huszadik-muvesztabor-kezdodik-sarrodon/",
+    "source": "24.hu/Sarród",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Jul 2012 07:50:00 +0000"
+  },
+  {
     "title": "Sarród időjárás - Időkép",
     "snippet": "Sarród időjárás Időkép",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50V3NoS0FFeFFTd2o3bUFONlhrNFl0ZmhUUk1VUWdoUkZSOTkzR3psekNkUGVQdkctR3FIOUtTNUUyQlA2S2hRMTV6Y0EtTndITkdsMg?oc=5",
@@ -25,5 +34,32 @@
     "lang": "hu",
     "scope": "search",
     "date": "Thu, 27 Sep 2018 01:29:47 GMT"
+  },
+  {
+    "title": "Fertő Hanság Nemzeti park",
+    "snippet": "Fertő Hanság Nemzeti park",
+    "url": "http://www.sarrod.hu/latnivalok/3-ferto-hansag-nemzeti-park.html",
+    "source": "sarrod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Fertő-Táj Világörökség",
+    "snippet": "Fertő-Táj Világörökség",
+    "url": "http://www.sarrod.hu/latnivalok/2-ferto-taj-vilagorokseg.html",
+    "source": "sarrod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Sarródi Tájház",
+    "snippet": "Sarródi Tájház",
+    "url": "http://www.sarrod.hu/latnivalok/1-sarrodi-tajhaz.html",
+    "source": "sarrod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

@@ -1,29 +1,155 @@
 [
   {
-    "title": "Így mentené meg Gárdony a Velencei-tavat - 24.hu",
-    "snippet": "Így mentené meg Gárdony a Velencei-tavat 24.hu",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzA1QUk4R2NpLVFYRks4V2Q3dlRpWndrNmhNa1lWY21sOFhBa2w2b1F0eGJuVktScDdYYVpTTDdlUDJKTEctWVl4cl9RZ3JvQThteUtYX2hiSDQ3dWhwY0NoclQ2MDVjZjU3QWtOdUhyaGlrZzRUQlRQNnFEVTRQbG5jWnJ4SkFaeTBITURRX3R1QQ?oc=5",
-    "source": "google-news",
+    "title": "Lángba borult egy óriási gárdonyi üzem hajnalban, nagy erőkkel vonultak ki a tűzoltók",
+    "snippet": "A tűz egy mintegy háromezer négyzetméteres csarnokban ütött ki.",
+    "url": "https://index.hu/belfold/2026/05/23/pelletuzem-tuz-gardony-zichyujfalu-tuzoltosag-katasztrofavedelem/",
+    "source": "index.hu/Gárdony",
     "lang": "hu",
-    "scope": "search",
-    "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    "scope": "city",
+    "date": "Sat, 23 May 2026 06:43:00 +0200"
   },
   {
-    "title": "Gárdony időjárás előrejelzés - Időkép",
-    "snippet": "Gárdony időjárás előrejelzés Időkép",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNUxfNWRkWGxGTXZlNkdfUUhxNUtNUkxMNW9fQXNoM2dFYThVbmpzaVRtWGo2UzFHSGhiNS1rY21FMy1nbnc3cGdsSTZPSFVwVkktcHhQNGppRElaOG5ZWE1VUV9kXzJN?oc=5",
-    "source": "google-news",
+    "title": "Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság",
+    "snippet": "A háromezer négyzetméteres pelletáló csarnok nagyrésze lángba borult. The post Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/23/gardony-tuz-pelletalo-csarnok/",
+    "source": "24.hu/Gárdony",
     "lang": "hu",
-    "scope": "search",
-    "date": "Thu, 05 Mar 2026 23:07:58 GMT"
+    "scope": "city",
+    "date": "Sat, 23 May 2026 05:06:56 +0000"
   },
   {
-    "title": "Három gólos siker – legyőzte a Gárdony-Pázmándot a Csaba - BEHIR",
-    "snippet": "Három gólos siker – legyőzte a Gárdony-Pázmándot a Csaba BEHIR",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aZEJXMm4wdF9vNDl0RHo1bHo3MVNNWFNtZ1kwOVQzVngxaF96bElwZmtmam1zcFZPSTJuNFhrQWFuT2F4c19zU3d1cVd0QWtlemFJdGVTLU41Q1V1Z19LbmIwc1BxVEZkMkNqdUkwV1BoVmhqbThNdWcwcw?oc=5",
-    "source": "google-news",
+    "title": "Egyre reménytelenebb a helyzet a Velencei-tónál, hónapokon belül kiszáradhat",
+    "snippet": "Magyar Péterben és az esőben reménykednek a helyiek.",
+    "url": "https://index.hu/belfold/2026/05/19/velencei-to-gardony-aszalyhelyzet-gajdos-laszlo-vizszint-idojaras/",
+    "source": "index.hu/Gárdony",
     "lang": "hu",
-    "scope": "search",
-    "date": "Fri, 13 Feb 2026 08:00:00 GMT"
+    "scope": "city",
+    "date": "Tue, 19 May 2026 06:09:00 +0200"
+  },
+  {
+    "title": "Pert nyert a Greenpeace és a gárdonyiak a Mol ellen",
+    "snippet": "Óriási zöld siker.",
+    "url": "https://index.hu/belfold/2026/05/13/kornyezet-szennyezes-green-peace-gardony-mol/",
+    "source": "index.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 11:26:00 +0200"
+  },
+  {
+    "title": "Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát",
+    "snippet": "A bíróság szerint a kormányhivatal vizsgálat nélkül fogadta el a Mol érvelését. The post Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/12/mol-gardony-talajszennyezes-birosag/",
+    "source": "24.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 12 May 2026 12:23:46 +0000"
+  },
+  {
+    "title": "Gázolt a vonat Gárdonynál, fennakadásokra lehet számítani a székesfehérvári fővonalon",
+    "snippet": "Az érintett járat utasait másik szerelvényre szállították át.",
+    "url": "https://index.hu/belfold/2025/12/04/mav-mavinform-vasut-gardony-agard-szekesfehervar-fovonal-gazolas-baleset/",
+    "source": "index.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 04 Dec 2025 16:25:00 +0100"
+  },
+  {
+    "title": "Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak",
+    "snippet": "A Tópart IC ütött el egy embert The post Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/26/vonat-gazolas-szekesfehervar-2/",
+    "source": "24.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 26 Aug 2025 16:52:59 +0000"
+  },
+  {
+    "title": "Öt településen rendeznek időközi önkormányzati választást vasárnap",
+    "snippet": "Szavazni reggel hattól este hét óráig lehet.",
+    "url": "https://index.hu/belfold/2025/09/21/idokozi-onkormanyzati-valasztas-budapest-csurgo-kunmadaras-gardony-pilisvorosvar/",
+    "source": "index.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 21 Sep 2025 11:49:00 +0200"
+  },
+  {
+    "title": "Gárdonyban csak egy jelölt indult a választáson",
+    "snippet": "Két másik településen csak függetlenek közül lehet választani. The post Gárdonyban csak egy jelölt indult a választáson first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/08/24/gardonyban-csak-egy-jelolt-indult-a-valasztason/",
+    "source": "24.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 24 Aug 2025 05:24:51 +0000"
+  },
+  {
+    "title": "Testületi ülés 2026. május 28.",
+    "snippet": "Testületi ülés 2026. május 28. 2026.05.22. 11:33 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. május 28-án (csütörtökön) 15:00 órakor testületi ülést, azt követően 16:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
+    "url": "http://www.gardony.hu/testuleti-ules-2026-majus-28",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Áramszünet várható - 2026. május 21.",
+    "snippet": "Áramszünet várható - 2026. május 21. 2026.05.15. 11:33 Tájékoztatjuk a Tisztelt Lakosságot, hogy 2026.05.21. 08:30 - 15:00 óra közötti időszakban Gárdony településen tervezett áramszünet lesz. &#160; Áramszünet oka: hálózat karbantartás Érintett felhasználási helyek: &#160; tovább »",
+    "url": "http://www.gardony.hu/aramszunet-varhato-2026-majus-21",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Képviselői fogadóóra",
+    "snippet": "Képviselői fogadóóra 2026.05.08. 13:55 Tájékoztatjuk a Tisztelt Lakosságot, hogy Dávid Zoltán és Horányi Tibor 2026. május 13-án (szerdán) 17:00 - 19:00 óra között&#160; képviselői fogadóórát tart a Városháza földszinti nagytermében. tovább »",
+    "url": "http://www.gardony.hu/kepviseloi-fogadoora-14",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Áramszünet várható - 2026. május 7.",
+    "snippet": "Áramszünet várható - 2026. május 7. 2026.04.30. 11:44 Tájékoztatjuk a Tisztelt Lakosságot, hogy 2026.05.07. 08:00 - 15:00 óra közötti időszakban Gárdony településen tervezett áramszünet lesz. &#160; Áramszünet oka: hálózat karbantartás Érintett felhasználási helyek: &#160; tovább »",
+    "url": "http://www.gardony.hu/aramszunet-varhato-2026-majus-7",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Ünnepi hulladékszállítás - május 1.",
+    "snippet": "Ünnepi hulladékszállítás - május 1. 2026.04.30. 11:38 Tájékoztatjuk Tisztelt Ügyfeleinket, hogy a Depónia Nonprofit Kft. a lakossági hulladékszállítást 2026. május 1-én, pénteken&#160; MEGSZOKOTT ÜRÍTÉSI REND SZERINT VÉGZI. Kérjük a gyűjtőedényeket reggel 5 órára szíveskedjenek kihelyezni! &#160; to",
+    "url": "http://www.gardony.hu/unnepi-hulladekszallitas-majus-1",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "A Székesfehérvár-kelet Agárd csomópont részleges lezárása",
+    "snippet": "A Székesfehérvár-kelet Agárd csomópont részleges lezárása 2026.04.30. 10:14 Tájékoztatjuk Önöket, hogy az M7-es autópálya Budapest felé tartó oldalán Székesfehérvár-kelet, Agárd csomópont fel- és lehajtó ága várhatóan 2026. május 4. és 29. között lezárásra kerül. A zárás várhatóan május 29-ig lesz é",
+    "url": "http://www.gardony.hu/a-szekesfehervar-kelet-agard-csomopont-reszleges-lezarasa",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Testületi ülés 2026. április 29.",
+    "snippet": "Testületi ülés 2026. április 29. 2026.04.24. 12:11 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. április 29-én (szerdán) 16:00 órakor testületi ülést, azt követően 17:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
+    "url": "http://www.gardony.hu/testuleti-ules-2026-aprilis-29",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Testületi ülés 2026. március 31.",
+    "snippet": "Testületi ülés 2026. március 31. 2026.03.30. 17:37 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. március 31-é n&#160; (kedden) &#160;18:00 órakor rendkívüli testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pontok: &#160; tovább »",
+    "url": "http://www.gardony.hu/testuleti-ules-2026-marcius-31",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-03-30"
   }
 ]

@@ -1,29 +1,56 @@
 [
   {
-    "title": "Közös Haydn jubileumra készül Fertőd és Rohrau - Magyarok - Aktuális - ORF",
-    "snippet": "Közös Haydn jubileumra készül Fertőd és Rohrau - Magyarok - Aktuális ORF",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NZWdfaGZVR0Y3Y0o5Qmxla3Z5Y2hoV0xSaS00MEFFVmdBWGJzUkxBbGs3UjhyMTBtc1llRWlVdVRvUlFMMU54OTdTaFlkRDIxMUVqd0V5ZEc2QlQyUnFtSWxYNA?oc=5",
-    "source": "google-news",
+    "title": "Meghalt Esterházy II. Antal herceg",
+    "snippet": "Nyolcvannyolc éves volt.",
+    "url": "https://index.hu/kultur/2025/09/22/meghalt-esterhazy-ii-antal-herceg/",
+    "source": "index.hu/Fertőd",
     "lang": "hu",
-    "scope": "search",
-    "date": "Thu, 14 May 2026 09:58:36 GMT"
+    "scope": "city",
+    "date": "Mon, 22 Sep 2025 16:25:00 +0200"
   },
   {
-    "title": "Megnyílik Fertőd téli fénybirodalma az Esterházy-kastélyban - Vaskarika",
-    "snippet": "Megnyílik Fertőd téli fénybirodalma az Esterházy-kastélyban Vaskarika",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2dVa1NaU3dtNmNwVzBvZkVZTFNsMVgxLV9CNF9WR0k2SmNzUUktc0txYVN2U3g0RTU3X1JUOVF2NV9YaS1aRnBsU0U0S01qbXVRT3Q2MzE5VkcxeFl1d3p4OEtrZnoxTFZXdXBaWVJfOEV3YzBiME9IRFJFREFIVWRMaG5zUGtNSUh5ZEJuMnZfQlpGeGRzTS15emV2Nk9PcVZiemJn?oc=5",
-    "source": "google-news",
+    "title": "Centiken múlt, hogy nem ütötte el a vonat a biciklist Fertődnél",
+    "snippet": "A lezárt sorompó és a piros jelzés sem tudta megállítani a nőt. The post Centiken múlt, hogy nem ütötte el a vonat a biciklist Fertődnél first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/09/17/vonat-no-piros-lampa-fertod/",
+    "source": "24.hu/Fertőd",
     "lang": "hu",
-    "scope": "search",
-    "date": "Fri, 24 Oct 2025 07:00:00 GMT"
+    "scope": "city",
+    "date": "Tue, 17 Sep 2024 10:04:08 +0000"
   },
   {
-    "title": "Fertőd időjárás előrejelzés - Időkép",
-    "snippet": "Fertőd időjárás előrejelzés Időkép",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMGpoR092WWUtLTIydXd5WmNOaUQxWDZyWVpUSWVpTmoyUXJCNTJueFY0OFRGLWh2LTZmVU1LWjc0Nk92NDJ0RjRLX3J0S3UyV21qQy1fbnFBenYyUGljT0l1ZGIwNC1DcUdr?oc=5",
-    "source": "google-news",
+    "title": "Uniós oltalmat kapott a fertődi sárgarépa",
+    "snippet": "Így már összesen 28 élelmiszer, 38 bor és 12 pálinka elnevezése védett az EU területén.",
+    "url": "https://index.hu/gazdasag/2021/11/03/fertodi-sargarepa-unios-oltalom-agrarminiszterium/",
+    "source": "index.hu/Fertőd",
     "lang": "hu",
-    "scope": "search",
-    "date": "Thu, 05 Mar 2026 06:36:03 GMT"
+    "scope": "city",
+    "date": "Wed, 03 Nov 2021 15:44:00 +0100"
+  },
+  {
+    "title": "2,6 milliárdból újul meg a fertődi kastély nyugati szárnya",
+    "snippet": "A munkák a Nemzeti Kastélyprogram újabb lépéseként indulnak el. The post 2,6 milliárdból újul meg a fertődi kastély nyugati szárnya first appeared on 24.hu .",
+    "url": "https://24.hu/kultura/2022/02/24/26-milliard-felujitas-fertodi-kastely-nyugati-szarny-nemzeti-kastelyprogram/",
+    "source": "24.hu/Fertőd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 24 Feb 2022 09:17:50 +0000"
+  },
+  {
+    "title": "Nem működik a Telenor hálózata Sopronban, az előfizetők begurultak",
+    "snippet": "Reagált a szolgáltató, azt ígérik, délután kettőig helyreáll a teljes kapacitás a rendszerben.",
+    "url": "https://index.hu/gazdasag/2021/06/26/halozati-hiba-internet-sopron-telenor/",
+    "source": "index.hu/Fertőd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 26 Jun 2021 10:58:00 +0200"
+  },
+  {
+    "title": "Ő volt a legpazarlóbb magyar",
+    "snippet": "Esterházy „Fényes” Miklós a császáréval vetekedő udvart tartott fenn. The post Ő volt a legpazarlóbb magyar first appeared on 24.hu .",
+    "url": "https://24.hu/tudomany/2019/12/18/pazarlas-kastely-arisztokrata-esterhazy/",
+    "source": "24.hu/Fertőd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 18 Dec 2019 05:30:48 +0000"
   }
 ]

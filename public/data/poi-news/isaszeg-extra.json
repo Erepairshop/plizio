@@ -1,14 +1,5 @@
 [
   {
-    "title": "Afrikai sertéspestis miatt fertőzött területté vált Isaszeg",
-    "snippet": "A hatóságok fokozott óvatosságra kérik a sertéstartókat. A járvány ugyan emberre nem veszélyes, de a sertésekre rendkívül fertőző, ezért szigorú járványvédelmi szabályokat vezettek be.",
-    "url": "https://telex.hu/belfold/2026/05/22/isaszeg-sertespestis-asp-fertozes",
-    "source": "telex.hu",
-    "lang": "hu",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 14:43:43 +0200"
-  },
-  {
     "title": "Sertéspestises vaddisznót találtak Isaszeg környékén",
     "snippet": "A betegség a vaddisznók és a házisertések érintkezésével terjedhet.",
     "url": "https://hvg.hu/gazdasag/20260522_sertespestis-asp-vaddiszno-isaszeg",
@@ -18,12 +9,84 @@
     "date": "Fri, 22 May 2026 15:16:29 Z"
   },
   {
+    "title": "Afrikai sertéspestis miatt fertőzött területté vált Isaszeg",
+    "snippet": "A hatóságok fokozott óvatosságra kérik a sertéstartókat. A járvány ugyan emberre nem veszélyes, de a sertésekre rendkívül fertőző, ezért szigorú járványvédelmi szabályokat vezettek be.",
+    "url": "https://telex.hu/belfold/2026/05/22/isaszeg-sertespestis-asp-fertozes",
+    "source": "telex.hu",
+    "lang": "hu",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 14:43:43 +0200"
+  },
+  {
+    "title": "Sertéspestis ütötte fel a fejét Isaszegen",
+    "snippet": "Emberekre veszélytelen, de a sertésállományra nézve nagyon ragályos. The post Sertéspestis ütötte fel a fejét Isaszegen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/22/isaszeg-sertespestis-jarvany/",
+    "source": "24.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 12:59:53 +0000"
+  },
+  {
     "title": "Fertőzött terület lett Isaszeg, több vaddisznóban is kimutatták a sertéspestist",
     "snippet": "Az önkormányzat figyelmeztette a sertéstartókat.",
     "url": "https://index.hu/belfold/2026/05/22/isaszeg-afrikai-sertespestis-betegseg-fertozott-terulet-vaddisznok/",
-    "source": "index.hu",
+    "source": "index.hu/Isaszeg",
     "lang": "hu",
-    "scope": "national",
+    "scope": "city",
     "date": "Fri, 22 May 2026 15:55:00 +0200"
+  },
+  {
+    "title": "Orbán Balázs szerint Magyar Péterre ráuntak az emberek, de Orbán Viktorra kíváncsiak",
+    "snippet": "Nem érzi, hogy háttérbe szorult volna a szerepe a kampányban, de azt elismerte, hogy a közösségi média szerepe nő. The post Orbán Balázs szerint Magyar Péterre ráuntak az emberek, de Orbán Viktorra kíváncsiak first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/20/orban-balazs-valasztas-magyar/",
+    "source": "24.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 20 Mar 2026 11:00:14 +0000"
+  },
+  {
+    "title": "Véres csatát és sorsfordító levelet is hozott a húsvét a magyar történelemben",
+    "snippet": "Plusz egy új Alaptörvényt.",
+    "url": "https://index.hu/belfold/2026/04/04/magyar-tortenelem-husvet-isaszeg-deak-ferenc-kiegyezes-alaptorveny/",
+    "source": "index.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 04 Apr 2026 20:24:00 +0200"
+  },
+  {
+    "title": "Egy 15 éves lányt gázolt halálra a vonat Isaszegnél, szerelmi bánatában léphetett a szerelvény elé",
+    "snippet": "A rendőrség vizsgálja a tragédia körülményeit. The post Egy 15 éves lányt gázolt halálra a vonat Isaszegnél, szerelmi bánatában léphetett a szerelvény elé first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/11/12/halalos-onatgazolas-iszaszeg-fiatal-lany/",
+    "source": "24.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 12 Nov 2025 07:53:06 +0000"
+  },
+  {
+    "title": "Személyautót sodort el a vonat Isaszegnél, utolsó pillanatban ugrottak el a mozdony elől",
+    "snippet": "Pillanatokon múlott a tragédia.",
+    "url": "https://index.hu/belfold/2026/02/11/video-vonatbaleset-pecel-isaszeg-utkozes-szemelyauto-mav-rendorseg/",
+    "source": "index.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 11 Feb 2026 09:27:00 +0100"
+  },
+  {
+    "title": "Halálos vonatgázolás Isaszegen",
+    "snippet": "Vasárnap reggel történt. The post Halálos vonatgázolás Isaszegen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/11/09/halalos-vonatgazolas-isaszegen/",
+    "source": "24.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 09 Nov 2025 11:05:21 +0000"
+  },
+  {
+    "title": "Vonat elé lépett szerelmi bánatában egy 15 éves lány Isaszegnél",
+    "snippet": "A fiatal a tragédia előtt nem sokkal szakított a barátjával.",
+    "url": "https://index.hu/belfold/2025/11/12/isaszeg-vonat-baleset-tragedia-lany-bucsulevel-szakitas-gyasz/",
+    "source": "index.hu/Isaszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 12 Nov 2025 08:13:00 +0100"
   }
 ]

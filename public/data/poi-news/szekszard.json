@@ -1,5 +1,14 @@
 [
   {
+    "title": "Szekszárdi Pünkösdi Fesztivál",
+    "snippet": "M jus 22-25. k z tt zajlik a Szeksz rdi P nk sdi Fesztiv l, melynek r szleteiről a napokban tartottak sajt t j koztat t. Berlinger Attila polg rmestert s Gonda M ri t a szervező Babits Mih ly Kultur lis K zpont igazgat ja sz mol be a r szletekről. A rendezv ny gy kereiről T ttős G bor, a Szeksz rdi ",
+    "url": "https://szekszardihirek.hu/szekszardi_punkosdi_fesztival1/",
+    "source": "Szekszárdi Hírek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 04:53:03 +0000"
+  },
+  {
     "title": "Balesetről és bűnmegelőzésről esett szó a Völgységben",
     "snippet": "A Bonyh di Rendőrkapit nys g szakemberei t bb előad st tartottak. A Ligeti voda megh v s ra rkeztek a gyereknapi rendezv nyre. A legfontosabb: idegenektől soha semmit ne fogadjatok el. Felh vt k a kicsik figyelm t a gyalogos-kismotoros-ker kp ros k zleked s szab lyaira, a r juk leselkedő vesz lyekre",
     "url": "https://szekszardihirek.hu/balesetrol_es_bunmegelozesrol_esett_szo_a_volgysegben/",
@@ -18,12 +27,57 @@
     "date": "Fri, 22 May 2026 14:19:15 +0000"
   },
   {
-    "title": "A hónap utolsó napja mindig a gyerkőcökről szól",
-    "snippet": "K sz cirkusz lesz az idei V rosi Gyermeknap Szeksz rdon, amelyen a cirkusz vil ga kapja a főszerepet! V rosunk var zslatos produkci kkal, artist kkal s interakt v j t kokkal id zi meg a cirkuszi hangulatot. Lesz arcfest s, a lufihajtogat s, s nem hi nyozhatnak majd a v s ri finoms gok, no meg persze",
-    "url": "https://szekszardihirek.hu/a_honap_utolso_napja_mindig_a_gyerkocokrol_szol/",
-    "source": "Szekszárdi Hírek",
+    "title": "Letartóztatták a szekszárdi játszótéren holtan talált férfi bántalmazóit",
+    "snippet": "Halált okozó testi sértés bűntettének megalapozott gyanúja miatt hallgatták ki őket. The post Letartóztatták a szekszárdi játszótéren holtan talált férfi bántalmazóit first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/13/szekszard-jatszoter-holttest-letartoztatas/",
+    "source": "24.hu/Szekszárd",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 22 May 2026 14:00:03 +0000"
+    "date": "Fri, 13 Mar 2026 11:18:58 +0000"
+  },
+  {
+    "title": "Holttestet találtak Szekszárdon",
+    "snippet": "A rendőrök egy férfi maradványaira bukkantak egy játszótéren.",
+    "url": "https://index.hu/belfold/2026/03/11/szekszard-jatszoter-holttest-rendorseg-helyszineles-intezkedes/",
+    "source": "index.hu/Szekszárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 11 Mar 2026 10:56:00 +0100"
+  },
+  {
+    "title": "Agyonverték a szekszárdi játszótéren holtan talált 51 éves férfit",
+    "snippet": "Halált okozó testi sértés miatt nyomoznak. The post Agyonverték a szekszárdi játszótéren holtan talált 51 éves férfit first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/11/szekszard-holttest-halalt-okozo-testi-sertes/",
+    "source": "24.hu/Szekszárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 11 Mar 2026 15:05:20 +0000"
+  },
+  {
+    "title": "Átadták az ország huszadik áldozatsegítő központját Szekszárdon",
+    "snippet": "A hálózatot továbbfejlesztik a következő hetekben.",
+    "url": "https://index.hu/belfold/2026/02/26/aldozatsegito-kozpont-szekszard-victima-protector-dij-tuzson-bence-aldozat-pszichologiai-jogi-segitseg/",
+    "source": "index.hu/Szekszárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Feb 2026 14:44:00 +0100"
+  },
+  {
+    "title": "Holtan találtak egy férfit Szekszárdon, az egyik játszótéren",
+    "snippet": "Egy középkorú férfi holttestét találták meg. The post Holtan találtak egy férfit Szekszárdon, az egyik játszótéren first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/11/szekszard-jatszoter-holttest/",
+    "source": "24.hu/Szekszárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 11 Mar 2026 09:38:21 +0000"
+  },
+  {
+    "title": "Ismét együtt indult tárgyalni Orbán Viktor és Lázár János: a következő évtizedet csak erős vezetőkkel lehet megnyerni",
+    "snippet": "Ezúttal Szekszárd környéki polgármesterekkel találkoztak.",
+    "url": "https://index.hu/belfold/2026/02/09/lazar-janos-orban-viktor-szekszard-telepulesek-vezetok-talalkozo/",
+    "source": "index.hu/Szekszárd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 09 Feb 2026 19:09:00 +0100"
   }
 ]

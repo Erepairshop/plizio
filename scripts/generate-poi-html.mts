@@ -519,7 +519,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
           const dateShort = (it.date || "").slice(0, 10);
           return `<li class="plz-news-card"><a href="${escapeHtml(it.url)}" target="_blank" rel="noopener nofollow"><div class="plz-news-meta"><span class="plz-news-source">${escapeHtml(it.source || "")}</span>${dateShort ? `<time class="plz-news-date" datetime="${escapeHtml(it.date)}">${escapeHtml(dateShort)}</time>` : ""}</div><h3 class="plz-news-title">${escapeHtml(it.title || "")}</h3>${it.snippet ? `<p class="plz-news-snippet">${escapeHtml(it.snippet)}</p>` : ""}</a></li>`;
         }).join("");
-        newsHtml = `<section class="plz-news"><h2>${escapeHtml(nc.heading)} <span class="plz-news-count">${items.length}</span></h2><ul class="plz-news-grid">${cards}</ul><p class="plz-news-via">${escapeHtml(nc.via)} Google News + RSS</p></section>`;
+        const hasOfficial = items.some((it) => /\(hivatalos\)/i.test(it.source || ""));
+        const sourcesLabel = hasOfficial ? "önkormányzati + RSS + Google News" : "Google News + RSS";
+        newsHtml = `<section class="plz-news"><h2>${escapeHtml(nc.heading)} <span class="plz-news-count">${items.length}</span></h2><ul class="plz-news-grid">${cards}</ul><p class="plz-news-via">${escapeHtml(nc.via)} ${escapeHtml(sourcesLabel)}</p></section>`;
       }
     }
   } catch {}
@@ -574,7 +576,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
-<link rel="stylesheet" href="/poi-static/poi.css"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260522b"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },

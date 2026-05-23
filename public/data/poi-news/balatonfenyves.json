@@ -1,11 +1,56 @@
 [
   {
-    "title": "Falunap 2026 Balatonfenyves - CsodalatosBalaton.hu",
-    "snippet": "Falunap 2026 Balatonfenyves CsodalatosBalaton.hu",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUw0bXdWX0l6T1dqVjlYakt5OG5jcjZvOEYyMnVjeGMzZzh3SUdVT1loNnlIdEU4RENMOGhqRGRWS3RKbGpHOTEwbXdya0Jram1EVHBHcFlFelBSVFBPNHgtWG91NE41LTVRdVJ2WUl4N2VURTVLVWl6Wmt4U096Tg?oc=5",
-    "source": "google-news",
+    "title": "Kerékpárost gázolt el egy InterCity Balatonfenyvesen",
+    "snippet": "1-2 órával hosszabb eljutási időre kell számítani. The post Kerékpárost gázolt el egy InterCity Balatonfenyvesen first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/08/23/vonat-kerekparos-gazolas-balatonfenyves/",
+    "source": "24.hu/Balatonfenyves",
     "lang": "hu",
-    "scope": "search",
-    "date": "Tue, 03 Feb 2026 22:20:36 GMT"
+    "scope": "city",
+    "date": "Fri, 23 Aug 2024 06:30:11 +0000"
+  },
+  {
+    "title": "A Balatonnál nyaralt, amikor stroke-ot kapott Rózsa György",
+    "snippet": "A műsorvezetőt kórházba vitték, ahol megműtötték.",
+    "url": "https://index.hu/kultur/2025/08/18/rozsa-gyorgy-balaton-nyar-musorvezeto-televizio-stroke-rosszullet-mentok-korhaz/",
+    "source": "index.hu/Balatonfenyves",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 18 Aug 2025 15:39:00 +0200"
+  },
+  {
+    "title": "Vaddisznóinváziótól szenved Balatonfenyves",
+    "snippet": "A településen élők szerint egyre rosszabb a helyzet, és van, aki már aludni sem tud a vadak miatt. The post Vaddisznóinváziótól szenved Balatonfenyves first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/08/13/vaddiszno-balatonfenyves-balaton/",
+    "source": "24.hu/Balatonfenyves",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 13 Aug 2024 17:06:25 +0000"
+  },
+  {
+    "title": "Magyar Péter húsz évre visszamenő vagyonosodási eljárást indítana, Orbán Viktorral kezdené",
+    "snippet": "A Tisza Párt elnöke Balatonfenyvesen országjárt.",
+    "url": "https://index.hu/belfold/2025/08/11/magyar-peter-balatonfenyves-orszagjaras-tisza-part-kormany-vagyonosodas-eljaras/",
+    "source": "index.hu/Balatonfenyves",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 11 Aug 2025 21:01:00 +0200"
+  },
+  {
+    "title": "Az elszabaduló árak miatt folyamatosan csökken a vízimentőt foglalkoztató strandok száma",
+    "snippet": "Az idén szerződést nem kötő önkormányzatok közül többen a szolgáltatás árával magyarázták, hogy erre a szezonra nem kértek vízimentőt. The post Az elszabaduló árak miatt folyamatosan csökken a vízimentőt foglalkoztató strandok száma first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2023/07/18/strand-vizimento-csokken-szamuk-inflacio-balaton/",
+    "source": "24.hu/Balatonfenyves",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 18 Jul 2023 04:42:29 +0000"
+  },
+  {
+    "title": "Vaddisznókonda tartja félelemben egy balatoni település lakóit",
+    "snippet": "Az állatok már egy kutyát is megtámadtak.",
+    "url": "https://index.hu/belfold/2024/08/14/vaddiszno-retteges-balaton-balatonfenyves-gyerites-kutya-tamadas-nyaralok/",
+    "source": "index.hu/Balatonfenyves",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 14 Aug 2024 06:27:00 +0200"
   }
 ]

@@ -9,15 +9,6 @@
     "date": "Thu, 23 Apr 2026 07:00:00 GMT"
   },
   {
-    "title": "Velem mindig történik valami – Janikovszky Éva-bemutató az Akváriumban - Fidelio.hu",
-    "snippet": "Velem mindig történik valami – Janikovszky Éva-bemutató az Akváriumban Fidelio.hu",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0h6cGkzUlNkUGtrU05hNHRDNkxwTHVuSGtaVW5xdXNOWU4wdFRRRjRYYjhuNjhrVC01djNsYjRiNTVBOXp6ekpHVmpaMFAyaEdhdTFGdThxb3BTRzBiUnNzZjVBQ1hwR1RrSUhHRU1LZzB5d0VrdHV3NTUtTVAwcEZFX0piX1psemgzNThTZ29GNWQ4aUwxNFNfTDhOUy1sTkFhQjlQY2NZNmlPZUkxSnhLNA?oc=5",
-    "source": "google-news",
-    "lang": "hu",
-    "scope": "search",
-    "date": "Fri, 20 Feb 2026 08:00:00 GMT"
-  },
-  {
     "title": "Csinszka – Velem Ég - Lángoló",
     "snippet": "Csinszka – Velem Ég Lángoló",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TRXNIMHgwSTFFVktuc1ZiZ3A5MDhIejE0VDJoVVJ4OVM2TV9vVnh3YlJUazJENmtJd0lBTFZxemZXN3EtWE5sNDNCN0Rzdw?oc=5",
@@ -25,5 +16,14 @@
     "lang": "hu",
     "scope": "search",
     "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Velem mindig történik valami – Janikovszky Éva-bemutató az Akváriumban - Fidelio.hu",
+    "snippet": "Velem mindig történik valami – Janikovszky Éva-bemutató az Akváriumban Fidelio.hu",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0h6cGkzUlNkUGtrU05hNHRDNkxwTHVuSGtaVW5xdXNOWU4wdFRRRjRYYjhuNjhrVC01djNsYjRiNTVBOXp6ekpHVmpaMFAyaEdhdTFGdThxb3BTRzBiUnNzZjVBQ1hwR1RrSUhHRU1LZzB5d0VrdHV3NTUtTVAwcEZFX0piX1psemgzNThTZ29GNWQ4aUwxNFNfTDhOUy1sTkFhQjlQY2NZNmlPZUkxSnhLNA?oc=5",
+    "source": "google-news",
+    "lang": "hu",
+    "scope": "search",
+    "date": "Fri, 20 Feb 2026 08:00:00 GMT"
   }
 ]
