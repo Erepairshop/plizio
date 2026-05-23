@@ -1875,7 +1875,7 @@
     "fb": "https://www.facebook.com/primariaavrig"
   },
   "city-carei-extra": {
-    "site": "http://www.primariacarei.ro/"
+    "site": "https://www.municipiulcarei.ro/"
   },
   "city-radauti-extra": {
     "site": "http://www.primariaradauti.ro/",
@@ -2040,8 +2040,7 @@
     "site": "http://www.primaria-agigea.ro/"
   },
   "ro-poi-alexandria": {
-    "site": "http://www.alexandria.gov.eg/",
-    "fb": "https://www.facebook.com/AlexPortal.Gov.Eg"
+    "site": "http://www.alexandria.gov.eg/"
   },
   "alesd": {
     "site": "http://www.alesd-bihor.ro/",

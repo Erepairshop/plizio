@@ -27,15 +27,6 @@
     "date": "Fri, 22 May 2026 17:08:00 +0000"
   },
   {
-    "title": "Reșița devine capitala distracției de 1 Iunie: trei zile de street art, muzică și energie în Centrul Civic",
-    "snippet": "Reșița Street Art Fest revine în forță și transformă centrul din Reșița într-un adevărat spectacol urban, între 30 mai și 1 iunie 2026. Timp de trei zile, orașul prinde viață prin culoare, ritm și energie, într-un eveniment dedicat atât copiilor, cât și adulților. Festivalul aduce laolaltă artiști s",
-    "url": "https://reper24.ro/resita-devine-capitala-distractiei-de-1-iunie-trei-zile-de-street-art-muzica-si-energie-in-centrul-civic/",
-    "source": "Reper 24",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Fri, 22 May 2026 08:57:04 +0000"
-  },
-  {
     "title": "Noaptea Muzeelor revine la Reșița cu un traseu cultural care unește orașul. O plimbare prin memorie, lumină și poveștile orașului",
     "snippet": "În seara în care muzeele din toată Europa își deschid porțile până târziu, Reșița își invită locuitorii la o experiență unică, care nu se trăiește în grabă, ci în ritmul pașilor. Noaptea Muzeelor revine, iar orașul va fi, pentru câteva ore, o hartă culturală vie, presărată cu opriri, întâlniri și de",
     "url": "https://expressdebanat.ro/noaptea-muzeelor-revine-la-resita-cu-un-traseu-cultural-care-uneste-orasul-o-plimbare-prin-memorie-lumina-si-povestile-orasului/",
@@ -43,15 +34,6 @@
     "lang": "ro",
     "scope": "county",
     "date": "Sat, 23 May 2026 05:04:19 +0000"
-  },
-  {
-    "title": "ADOPTĂ UN CĂȚEL",
-    "snippet": "ADOPTĂ UN CĂȚEL Adăpostul pentru câini Reșița",
-    "url": "https://adoptiecainiresita.ro/",
-    "source": "adoptiecainiresita.ro (hivatalos)",
-    "lang": "ro",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "La Reșița, se montează cântare inteligente pentru traficul greu",
@@ -63,13 +45,22 @@
     "date": "Sat, 23 May 2026 04:15:55 +0000"
   },
   {
-    "title": "Liceul de Arte din Reșița – facelift de 17 milioane de lei pe bani europeni",
-    "snippet": "Lucrările de reabilitare a Liceului de Arte „Sabin Păuța” din Reșița au fost scoase la licitație de municipalitate, la nici trei luni de la semnarea contractului de finanțare cu Agenția pentru Dezvoltare Regională Vest. Primăria Reșița a scos la licitație lucrările pentru reabilitarea și modernizare",
-    "url": "https://expressdebanat.ro/liceul-de-arte-din-resita-facelift-de-17-milioane-de-lei-pe-bani-europeni/",
+    "title": "ADOPTĂ UN CĂȚEL",
+    "snippet": "ADOPTĂ UN CĂȚEL Adăpostul pentru câini Reșița",
+    "url": "https://adoptiecainiresita.ro/",
+    "source": "adoptiecainiresita.ro (hivatalos)",
+    "lang": "ro",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Au început pregătirile pentru transformarea funicularului din Reșița. Constructorul intră în șantier!",
+    "snippet": "Organizarea de șantier pentru unul dintre cele mai ambițioase proiecte ale administrației reșițene a debutat în aceste zile. Funicularul va fi transformat într-o pasarelă suspendată pentru pietoni și bicicliști. Lucrările pentru reconversia funicularului din centrul Reșița intră în faza de pregătire",
+    "url": "https://expressdebanat.ro/au-inceput-pregatirile-pentru-transformarea-funicularului-din-resita-constructorul-intra-in-santier/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Fri, 22 May 2026 06:33:14 +0000"
+    "date": "Fri, 22 May 2026 07:54:31 +0000"
   },
   {
     "title": "ANUNȚ OPRIRE APĂ în REŞIŢA –22.05.2026 – avarie –str. Călărașilor parțial de la nr. 1 până la nr.29-interval orar 12:10-13:00",
@@ -108,6 +99,15 @@
     "date": "Thu, 21 May 2026 16:17:29 +0000"
   },
   {
+    "title": "Reșița devine capitala distracției de 1 Iunie: trei zile de street art, muzică și energie în Centrul Civic",
+    "snippet": "Reșița Street Art Fest revine în forță și transformă centrul din Reșița într-un adevărat spectacol urban, între 30 mai și 1 iunie 2026. Timp de trei zile, orașul prinde viață prin culoare, ritm și energie, într-un eveniment dedicat atât copiilor, cât și adulților. Festivalul aduce laolaltă artiști s",
+    "url": "https://reper24.ro/resita-devine-capitala-distractiei-de-1-iunie-trei-zile-de-street-art-muzica-si-energie-in-centrul-civic/",
+    "source": "Reper 24",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 08:57:04 +0000"
+  },
+  {
     "title": "Suspiciune de hantavirus la Spitalul Județean din Reșița! Pacient întors recent din Serbia, probe trimise la Cantacuzino",
     "snippet": "Un posibil caz de infecție cu hantavirus este investigat la Spitalul Județean de Urgență Reșița, în contextul alertelor internaționale generate în ultimele săptămâni de focarul apărut pe nava de croazieră MV Hondius, unde mai multe persoane au fost infectate, iar trei oameni au murit. Potrivit manag",
     "url": "https://carasinfo.ro/2026/05/21/suspiciune-de-hantavirus-la-spitalul-judetean-din-resita-pacient-intors-recent-din-serbia-probe-trimise-la-cantacuzino/",
@@ -117,13 +117,13 @@
     "date": "Thu, 21 May 2026 12:29:43 +0000"
   },
   {
-    "title": "Chirurgi din Timișoara și Reșița, împreună în sala de operație: tehnici moderne folosite în cazuri dificile",
-    "snippet": "Chirurgii de la Spitalul Medici’s MedLife Timișoara și de la Spitalul Județean de Urgență Reșița au realizat astăzi mai multe intervenții chirurgicale complexe, considerate deosebite atât prin gravitatea cazurilor, cât și prin tehnicile moderne utilizate. Acțiunea marchează prima colaborare de acest",
-    "url": "https://expressdebanat.ro/chirurgi-din-timisoara-si-resita-impreuna-in-sala-de-operatie-tehnici-moderne-folosite-in-cazuri-dificile/",
+    "title": "Liceul de Arte din Reșița – facelift de 17 milioane de lei pe bani europeni",
+    "snippet": "Lucrările de reabilitare a Liceului de Arte „Sabin Păuța” din Reșița au fost scoase la licitație de municipalitate, la nici trei luni de la semnarea contractului de finanțare cu Agenția pentru Dezvoltare Regională Vest. Primăria Reșița a scos la licitație lucrările pentru reabilitarea și modernizare",
+    "url": "https://expressdebanat.ro/liceul-de-arte-din-resita-facelift-de-17-milioane-de-lei-pe-bani-europeni/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Thu, 21 May 2026 16:35:09 +0000"
+    "date": "Fri, 22 May 2026 06:33:14 +0000"
   },
   {
     "title": "ANUNŢ OPRIRE APĂ în Bocșa Română-22.05.2026 –avarie- str. Mircea cel Bătrân parțial-interval orar 12:00-15:00",
@@ -135,13 +135,13 @@
     "date": "Fri, 22 May 2026 06:00:57 +0000"
   },
   {
-    "title": "Bărbat internat la spitalul din Reșița, suspect de hantavirus",
-    "snippet": "Un pacient de 43 de ani, internat pe Secția de Boli Infecțioase a Spitalului Județean de Urgență Reșița, este suspect de infecție cu hantavirus. Bărbatul, pompier de profesie, a fost adus la unitatea medicală în urmă cu două zile și se află în continuare sub supraveghere medicală. Potrivit managerul",
-    "url": "https://expressdebanat.ro/barbat-internat-la-spitalul-din-resita-suspect-de-hantavirus/",
+    "title": "Chirurgi din Timișoara și Reșița, împreună în sala de operație: tehnici moderne folosite în cazuri dificile",
+    "snippet": "Chirurgii de la Spitalul Medici’s MedLife Timișoara și de la Spitalul Județean de Urgență Reșița au realizat astăzi mai multe intervenții chirurgicale complexe, considerate deosebite atât prin gravitatea cazurilor, cât și prin tehnicile moderne utilizate. Acțiunea marchează prima colaborare de acest",
+    "url": "https://expressdebanat.ro/chirurgi-din-timisoara-si-resita-impreuna-in-sala-de-operatie-tehnici-moderne-folosite-in-cazuri-dificile/",
     "source": "Express de Banat",
     "lang": "ro",
     "scope": "county",
-    "date": "Thu, 21 May 2026 12:57:57 +0000"
+    "date": "Thu, 21 May 2026 16:35:09 +0000"
   },
   {
     "title": "ANUNȚ OPRIRE APĂ în REŞIŢA –22.05.2026 – avarie – str.P-ța Republicii de la intersecția str. Fagului pană la intersecția cu str. Oituzului (numerele pare)-interval orar 11:45-13:45",
