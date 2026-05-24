@@ -1,32 +1,5 @@
 [
   {
-    "title": "Ezen a KRESZ-teszten a legtöbb sofőr azonnal elhasal – te meg tudod oldani hibátlanul?",
-    "snippet": "Te hogy döntenél ebben a szituációban?",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/kresz-teszt-kozlekedes-szabalyok-villamos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:39:12 +0000"
-  },
-  {
-    "title": "Ezek a házak a vevők kedvencei, de nem vagy alig adnak rá hitelt a bankok",
-    "snippet": "A bankok nem szeretik, a felújítás kockázatos, mégis van, aki megveszi.",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/elado-valyoghaz-szolnokon-es-a-varmegyeben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:38:07 +0000"
-  },
-  {
-    "title": "Óriási fordulat Tiszaszentimrén, júniusban visszaáll a mindenkit érintő ellátás",
-    "snippet": "Júniustól ismét biztosított lesz a fogorvosi ellátás Tiszaszentimrén.",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/fogorvos-tiszaszentimre-ellatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
     "title": "Pályakarbantartás: Mezőtúr és Szarvas között pótlóbusz jár május 18-tól 21-ig",
     "snippet": "A megbízhatóbb és jobb minőségű vonatozás érdekében két állomás között több mint egy kilométeren síncseréket, vasbetonalj furatjavításokat, mintegy 8 kilométeren pedig kotrógéppel ágyazatkarbantartást végzünk. Ugyanezen időszakban megtartjuk a Körös-híd előírt rendszeres hídvizsgálatát is, továbbá k",
     "url": "https://www.szarvasihet.hu/2026/05/18/palyakarbantartas-mezotur-es-szarvas-kozott-potlobusz-jar-majus-18-tol-21-ig/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 09 Mar 2026 09:05:26 +0000"
-  },
-  {
-    "title": "Áramszüneti értesítő",
-    "snippet": "Tervezett üzemszünet: 2026.05.20. 08:00-16:00-ig 2026.05.26. 08:00-16:00-ig Település Közterület neve Közterület jellege Házszámtartomány Mezőtúr Földvári út 27-59 VII. út 41-47, 42-48 Tervezett üzemszünet: 2026.05.21.",
-    "url": "https://mezotur.hu/aramszuneti-ertesito/",
-    "source": "mezotur.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 10:12:52 +0000"
   },
   {
     "title": "Erőszakos támadás érte a Mi Hazánk aktivistáját",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 06 Feb 2026 15:41:00 +0100"
+  },
+  {
+    "title": "Áramszüneti értesítő",
+    "snippet": "Tervezett üzemszünet: 2026.05.20. 08:00-16:00-ig 2026.05.26. 08:00-16:00-ig Település Közterület neve Közterület jellege Házszámtartomány Mezőtúr Földvári út 27-59 VII. út 41-47, 42-48 Tervezett üzemszünet: 2026.05.21.",
+    "url": "https://mezotur.hu/aramszuneti-ertesito/",
+    "source": "mezotur.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 10:12:52 +0000"
   },
   {
     "title": "Nyomozás zajlik a mezőtúri kórház egyik főorvosa ellen",

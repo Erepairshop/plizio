@@ -1,32 +1,5 @@
 [
   {
-    "title": "Megújulás vagy irányváltás? – Csizmadia Péter a pécsi jobboldal jövőjéről beszélt",
-    "snippet": "Merre tovább, pécsi jobboldal?",
-    "url": "https://www.bama.hu/helyi-kozelet/2026/05/megujulas-vagy-iranyvaltas-csizmadia-peter-a-pecsi-jobboldal-jovojerol-beszelt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "bama.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:03 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.bama.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "bama.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
-    "title": "Erre figyeljünk pünkösd után! Újra csak átszállással lehet közlekedni Pécs és Budapest között",
-    "snippet": "Újra csak átszállással lehet közlekedni Pécs és Budapest között.",
-    "url": "https://www.bama.hu/helyi-kozelet/2026/05/erre-figyeljunk-punkosd-utan-ujra-csak-atszallassal-lehet-kozlekedni-pecs-es-budapest-kozott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "bama.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:40:05 +0000"
-  },
-  {
     "title": "Beismerte a mohácsi roma önkormányzat elnöke, hogy előre megírt szöveget olvastattak fel vele a Lázárinfón",
     "snippet": "Nyitott arra, hogy a Tisza Pártot támogassa, ha jól végzik a dolgukat.",
     "url": "https://index.hu/belfold/2026/05/22/mohacs-lazar-janos-lazarinfo-forum-roma-onkormanyzat-elnok/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 21 May 2026 17:45:47 +0000"
-  },
-  {
-    "title": "Feloldják a forgalomkorlátozást az Ipari út és a Mezőszél utca között",
-    "snippet": "Feloldják a forgalomkorlátozást az Ipari út és a Mezőszél utca között 2026.05.22 00:00 Még korábban, ez év márciusától – a Duna-híd építését és a kapcsolódó úthálózat létrehozását érintő közműkiváltási munkák miatt – forgalomkorlátozást rendeltek el az Ipari út egy szakaszán, az 5121 j. út és a Mező",
-    "url": "http://www.mohacs.hu/hireink/feloldjak-a-forgalomkorlatozast-az-ipari-ut-es-a-mezoszel-utca-kozott-1182",
-    "source": "mohacs.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-22"
   },
   {
     "title": "„Túl sok ment zsebre” – a fejlesztésekben úszó, ősjobboldali városnak is elege lett a Fideszből",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 06 May 2026 10:31:24 +0000"
+  },
+  {
+    "title": "Feloldják a forgalomkorlátozást az Ipari út és a Mezőszél utca között",
+    "snippet": "Feloldják a forgalomkorlátozást az Ipari út és a Mezőszél utca között 2026.05.22 00:00 Még korábban, ez év márciusától – a Duna-híd építését és a kapcsolódó úthálózat létrehozását érintő közműkiváltási munkák miatt – forgalomkorlátozást rendeltek el az Ipari út egy szakaszán, az 5121 j. út és a Mező",
+    "url": "http://www.mohacs.hu/hireink/feloldjak-a-forgalomkorlatozast-az-ipari-ut-es-a-mezoszel-utca-kozott-1182",
+    "source": "mohacs.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
   },
   {
     "title": "Hahner Péter: Mohácsot történelmi érettségi nélkül is meg kell tanulnia mindenkinek",

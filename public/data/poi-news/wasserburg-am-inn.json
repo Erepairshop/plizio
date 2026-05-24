@@ -1,23 +1,5 @@
 [
   {
-    "title": "Wiesn-Tag 12: Heute auf dem Frühlingfest",
-    "snippet": "Spitzenbands „Scheeomnei\" und „Next in Line\" heute Abend in Wasserburg",
-    "url": "https://www.wasserburger-stimme.de/blog/2026/05/24/wiesn-tag-12-heute-auf-dem-fruehlingfest/",
-    "source": "Wasserburger Stimme",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 07:36:28 +0000"
-  },
-  {
-    "title": "Während du einkaufst …",
-    "snippet": "Dieb nutzte wenige Minuten, um ein Rennradl zu stehlen - Täter gestern Abend gefasst",
-    "url": "https://www.wasserburger-stimme.de/blog/2026/05/24/waehrend-du-einkaufst-3/",
-    "source": "Wasserburger Stimme",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 07:01:32 +0000"
-  },
-  {
     "title": "Für Reichertsheim stehen alle Türen offen",
     "snippet": "Gelingt der Weg zurück in die Bezirksliga? Die Entscheidung fällt nächsten Samstag",
     "url": "https://www.wasserburger-stimme.de/blog/2026/05/24/fuer-reichertsheim-stehen-alle-tueren-offen/",
@@ -27,13 +9,22 @@
     "date": "Sun, 24 May 2026 06:27:29 +0000"
   },
   {
-    "title": "Wiesn-Tag 11: Heute auf dem Frühlingfest",
-    "snippet": "„The Soundscape\" und „Tetrapack\" sorgen in Alm und Zelt für Stimmung",
-    "url": "https://www.wasserburger-stimme.de/blog/2026/05/23/wiesn-tag-11-heute-auf-dem-fruehlingfest/",
+    "title": "Auf dem Weg in den Urlaub verunglückt",
+    "snippet": "Um Mitternacht auf A8 gegen Leitplanke gekippt: Zu schnell mit Pkw samt Bootsanhänger",
+    "url": "https://www.wasserburger-stimme.de/blog/2026/05/24/auf-dem-weg-in-den-urlaub-verunglueckt/",
     "source": "Wasserburger Stimme",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 07:36:24 +0000"
+    "date": "Sun, 24 May 2026 05:56:15 +0000"
+  },
+  {
+    "title": "Diebe auf Wasserburger Großbaustelle",
+    "snippet": "Container aufgehebelt - Vielzahl an Werkzeug gestohlen - Beutewert: 5.000 Euro",
+    "url": "https://www.wasserburger-stimme.de/blog/2026/05/24/diebe-auf-wasserburger-grossbaustelle/",
+    "source": "Wasserburger Stimme",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 05:23:42 +0000"
   },
   {
     "title": "Selbstverteidigung erlernen",
@@ -52,5 +43,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 06:08:50 +0000"
+  },
+  {
+    "title": "Zwischen „Genie und Wahnsinn“: Eine Konzert-Lesung",
+    "snippet": "Kultur-Highlight von Rundfunk-Sprecher Michael Atzinger und Pianistin Yume Hanusch",
+    "url": "https://www.wasserburger-stimme.de/blog/2026/05/23/zwischen-genie-und-wahnsinn-eine-konzert-lesung-3/",
+    "source": "Wasserburger Stimme",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 05:48:34 +0000"
   }
 ]

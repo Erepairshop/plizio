@@ -670,7 +670,7 @@ export function QuizSvgOverlay({
         const isDistA = poiId === distancePoiA?.id;
         // Csak ha rossz valasz utan (piros) VAGY distance_guess elso POI ki van valasztva (kek visszajelzes)
         if (!isWrong && !isDistA) return null;
-        const [cx, cy] = projectCoords(poi.coords[0], poi.coords[1]);
+        const [cx, cy] = projectCoords(poi.coords?.[0] || 0, poi.coords?.[1] || 0);
         const color = isWrong ? "#EF4444" : "#22D3EE";
         return (
           <circle

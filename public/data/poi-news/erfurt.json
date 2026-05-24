@@ -9,15 +9,6 @@
     "date": "Sun, 24 May 2026 01:16:45 +0200"
   },
   {
-    "title": "Blumenstadt Erfurt will bei Mini-Buga punkten",
-    "snippet": "Nur wenige Tage bleiben dem Verein der Buga-Freunde, Überzeugendes für die Entente-Florale-Jury auf die Beine zu stellen.",
-    "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article412061173/erfurt-bekommt-dieses-jahr-eine-mini-buga.html",
-    "source": "Thüringer Allgemeine",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 24 May 2026 09:00:00 +0200"
-  },
-  {
     "title": "Erfurts grüner Radring: Uralte Idee wird neu debattiert",
     "snippet": "Von Hochheim bis Gispersleben kann immer am Wasser geradelt werden. Nur entlang der Stauffenbergallee geht das nicht. Wieso diese Lücke?",
     "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article412072679/erfurts-gruener-radring-erneute-debatte-ueber-uralte-idee.html",
@@ -45,6 +36,15 @@
     "date": "Sat, 23 May 2026 18:00:00 +0200"
   },
   {
+    "title": "Pommes und Planschen: Nur in einem Erfurter Freibad gibt’s keine Fritten",
+    "snippet": "Pommes rot-weiß gehören für viele zum Badespaß dazu. Das Snack-Angebot in Erfurts Freibädern ist vielfältig. In einem Bad sucht man Fritten vergeblich.",
+    "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article411920224/freibad-pommes-in-einem-einzigen-erfurter-bad-sucht-man-sie-vergeblich.html",
+    "source": "TA Erfurt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 14:00:00 +0200"
+  },
+  {
     "title": "29. Erfurter Entenrennen 2026",
     "snippet": "29. Erfurter Entenrennen 2026",
     "url": "https://www.erfurt.de/ef/de/service/mediathek/video/2026/153782.html",
@@ -52,15 +52,6 @@
     "lang": "de",
     "scope": "city",
     "date": ""
-  },
-  {
-    "title": "Darum ist der neue Asphalt in Erfurts Schlösserstraße dunkler und griffiger",
-    "snippet": "Alt und neu lassen sich in der Schlösserstraße gut anhand des Farbunterschieds erkennen. Das soll nicht auf Dauer so bleiben.",
-    "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article412069582/darum-ist-der-neue-asphalt-in-erfurts-schloesserstrasse-dunkler-und-griffiger.html",
-    "source": "TA Erfurt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 12:00:00 +0200"
   },
   {
     "title": "Immer wieder Unfälle: Warum diese Erfurter Kreuzung für Ärger sorgt",
@@ -144,13 +135,13 @@
     "date": "Thu, 21 May 2026 07:48:23 +0200"
   },
   {
-    "title": "Erfurter Polizei gelingt Schlag gegen Drogenhändler",
-    "snippet": "Kiloweise Rauschgift, Waffen und Bargeld beschlagnahmen die Ermittler nach Hausdurchsuchungen. Ein 50-jähriger Mann wird verhaftet.",
-    "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article412051619/erfurter-polizei-gelingt-schlag-gegen-drogenhaendler.html",
+    "title": "Gütliche Einigung zwischen Stadt Erfurt und Ex-Intendant",
+    "snippet": "Nach langem Streit einigen sich die Stadt Erfurt und der frühere Theaterintendant. Guy Montavons Arbeitsverhältnis endet nun offiziell zum 31. März. Was außerdem Teil der Vereinbarung ist.",
+    "url": "https://www.thueringer-allgemeine.de/lokales/erfurt/article412055641/guetliche-einigung-zwischen-stadt-erfurt-und-ex-intendant.html",
     "source": "TA Erfurt",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 09:28:00 +0200"
+    "date": "Thu, 21 May 2026 08:47:46 +0200"
   },
   {
     "title": "Drogen-Moloch Erfurt? Was sich aus Abwasser-Rückständen schließen lässt",
@@ -264,6 +255,15 @@
     "title": "Bürgersprechstunde vom 9. Januar 2026",
     "snippet": "Bürgersprechstunde vom 9. Januar 2026",
     "url": "https://www.erfurt.de/ef/de/rathaus/sv/ob/fragdenob/153146.html",
+    "source": "erfurt.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Weihnachtsansprache des Oberbürgermeisters",
+    "snippet": "Weihnachtsansprache des Oberbürgermeisters",
+    "url": "https://www.erfurt.de/ef/de/service/mediathek/video/2025/153096.html",
     "source": "erfurt.de (hivatalos)",
     "lang": "de",
     "scope": "city",

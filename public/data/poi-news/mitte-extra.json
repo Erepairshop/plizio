@@ -18,15 +18,6 @@
     "date": "Sat, 23 May 2026 18:39:12 +0200"
   },
   {
-    "title": "Parkzonen in Wanne-Mitte: Ab wann Autofahrer zahlen müssen",
-    "snippet": "In Wanne-Mitte verzögert sich der Start der neuen Parkzonen. Was dahintersteckt – und ab wann Autofahrer jetzt Parktickets ziehen müssen.",
-    "url": "https://www.waz.de/lokales/herne-wanne-eickel/article412072518/wanne-mitte-was-bremst-die-neuen-parkzonen-aus.html",
-    "source": "WAZ Hagen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 09:19:46 +0200"
-  },
-  {
     "title": "Mega-Stau an der Kreuzung in Zehlendorf-Mitte: Das ist der Grund",
     "snippet": "Wer es am Freitag eilig hatte und die B1 stadteinwärts oder stadtauswärts nehmen musste, hatte Pech: Am Dorfanger ging nichts mehr.",
     "url": "https://www.morgenpost.de/bezirke/steglitz-zehlendorf/article412071432/mega-stau-an-der-kreuzung-in-berlin-zehlendorf-das-ist-der-grund.html",
@@ -47,8 +38,8 @@
   {
     "title": "Stuttgart-Mitte: Passanten in der Königstraße belästigt – Polizei nimmt 37-Jährigen fest",
     "snippet": "Ein 37-J hriger bel stigt offenbar Passanten in der Stuttgarter-Innenstadt. Als die Polizei ihn kontrolliert, stellt sie fest, dass gegen ihn ein Haftbefehl vorliegt.",
-    "url": "https://www.stuttgarter-nachrichten.de/inhalt.stuttgart-mitte-passanten-in-der-koenigstrasse-belaestigt-polizei-nimmt-37-jaehrigen-fest.3f6499a2-11ba-4cf7-932f-5b0c48215f15.html",
-    "source": "Stuttgarter Nachrichten",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.stuttgart-mitte-passanten-in-der-koenigstrasse-belaestigt-polizei-nimmt-37-jaehrigen-fest.3f6499a2-11ba-4cf7-932f-5b0c48215f15.html",
+    "source": "Stuttgarter Zeitung",
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 13:26:00 GMT"
@@ -74,8 +65,8 @@
   {
     "title": "Brand in Stuttgart-Mitte: Feuer bricht in Toilette am Schlossplatz aus – Zeugen gesucht",
     "snippet": "In einer Herrentoilette eines Caf s am Schlossplatz in Stuttgart bricht am Donnerstag ein Feuer aus. Die Polizei sucht nun Zeugen.",
-    "url": "https://www.stuttgarter-nachrichten.de/inhalt.brand-in-stuttgart-mitte-feuer-bricht-in-toilette-am-schlossplatz-aus-zeugen-gesucht.56161fdb-81d6-4617-86b3-ae99e5d380e4.html",
-    "source": "Stuttgarter Nachrichten",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.brand-in-stuttgart-mitte-feuer-bricht-in-toilette-am-schlossplatz-aus-zeugen-gesucht.56161fdb-81d6-4617-86b3-ae99e5d380e4.html",
+    "source": "Stuttgarter Zeitung",
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 09:50:00 GMT"
@@ -171,15 +162,6 @@
     "date": "Sun, 05 May 2024 08:26:00 +0200"
   },
   {
-    "title": "Neues Verwaltungsgebäude für Berlin-Mitte: Rathaus mit Ausblick",
-    "snippet": "Geradlinig, gezackt, Sichtbeton und Holz: So soll das neue Rathaus in Berlin-Mitte aussehen. Die Idee stammt von einem Dresdner Architekturbüro. Doch das war nicht der einzige Entwurf.",
-    "url": "https://www.rbb24.de/politik/beitrag/2025/04/berlin-rathaus-mitte-architektur-wettbewerb-neu-politik.html",
-    "source": "rbb24 Politik",
-    "lang": "de",
-    "scope": "region",
-    "date": "Mon, 21 Apr 2025 22:00:00 +0200"
-  },
-  {
     "title": "Krankenhausreform: DRK-Kliniken legen Standorte Mitte und Westend nach 2028 zusammen",
     "snippet": "Die DRK-Kliniken Berlin schließen ihren Klinikstandort in Mitte nach 2028 und führen ihn mit dem Standort Westend zusammen - auch ein Großteil der etwa 400 Mitarbeiter wechselt. Laut Geschäftsführung wird durch die Schließung keine Unterversorgung entstehen.",
     "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-drk-kliniken-mitte-westend-zusammenlegung-krankenhausreform-lauterbach-level-3-maximalversorger.html",
@@ -196,6 +178,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Tue, 12 May 2026 08:33:45 +0200"
+  },
+  {
+    "title": "Neues Verwaltungsgebäude für Berlin-Mitte: Rathaus mit Ausblick",
+    "snippet": "Geradlinig, gezackt, Sichtbeton und Holz: So soll das neue Rathaus in Berlin-Mitte aussehen. Die Idee stammt von einem Dresdner Architekturbüro. Doch das war nicht der einzige Entwurf.",
+    "url": "https://www.rbb24.de/politik/beitrag/2025/04/berlin-rathaus-mitte-architektur-wettbewerb-neu-politik.html",
+    "source": "rbb24 Politik",
+    "lang": "de",
+    "scope": "region",
+    "date": "Mon, 21 Apr 2025 22:00:00 +0200"
   },
   {
     "title": "Stuttgart-Mitte: 44-Jähriger soll 14-Jährige sexuell bedrängt haben –  Polizei sucht Zeugen",
@@ -268,5 +259,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Mon, 09 Mar 2026 08:54:00 +0100"
+  },
+  {
+    "title": "MINTmachtag an der Grundschule Mitte",
+    "snippet": "Unter dem Titel „Entdecken, Forschen, Freisein!” haben die Kinder der Grundschule Mitte und die künftigen ersten Klassen einen ganzen Schulvormittag in die Forschung investiert.",
+    "url": "https://www.beckum.de/news/april-bis-juni-2024/mintmachtag-an-der-grundschule-mitte/",
+    "source": "beckum.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 27 May 2024 12:08:25 GMT"
   }
 ]

@@ -1,32 +1,5 @@
 [
   {
-    "title": "Nem mindennapi rendezvény a Nyíregyházi Egyetemen: az ország több pontjáról érkeztek hallgatók",
-    "snippet": "A Nyíregyházi Egyetemre az ország több intézményéből hallgatók.",
-    "url": "https://www.szon.hu/helyi-kozelet/2026/05/nyiregyhazi-egyetem-orszagos-hallgatoi-rendezveny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:25:23 +0000"
-  },
-  {
-    "title": "Vadételek, retró slágerek és óriási habparty – nézze végig a tákosi családi nap képeit! (fotók)",
-    "snippet": "Családi nap Tákoson.",
-    "url": "https://www.szon.hu/helyi-kozelet/2026/05/csaladi-es-gyermeknap-takoson-fotok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:45:32 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.szon.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
     "title": "Kétszeres magyar bajnok edző lesz Révész Attila utódja a Kisvárdánál",
     "snippet": "Házon belülről érkezik a segítség.",
     "url": "https://index.hu/sport/futball/2026/05/21/supka-attila-kisvarda-revesz-attila-vezetoedzo-nb-i/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 16:44:00 +0200"
-  },
-  {
-    "title": "Országos elismerésben részesült a Friss Fm rádió",
-    "snippet": "Országos elismerésben részesült a FRISS FM Rádió – Kisvárda a Magyar Vöröskereszt 145 éves jubileuma alkalmából rendezett nyíregyházi ünnepségen. A Magyar Vöröskereszt Országos Vezetősége a kisvárdai rádió részére az „Év Médiatámogatója” címet adományozta. A díjjal azt a sokéves támogatást köszönték",
-    "url": "https://www.kisvarda.hu/orszagos-elismeresben-reszesult-a-friss-fm-radio/",
-    "source": "kisvarda.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:14:07 +0000"
   },
   {
     "title": "Három ETO-szurkoló is megsérült Kisvárdán a bajnoki címről döntő mérkőzésen",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 04 Apr 2026 17:09:00 +0200"
+  },
+  {
+    "title": "Országos elismerésben részesült a Friss Fm rádió",
+    "snippet": "Országos elismerésben részesült a FRISS FM Rádió – Kisvárda a Magyar Vöröskereszt 145 éves jubileuma alkalmából rendezett nyíregyházi ünnepségen. A Magyar Vöröskereszt Országos Vezetősége a kisvárdai rádió részére az „Év Médiatámogatója” címet adományozta. A díjjal azt a sokéves támogatást köszönték",
+    "url": "https://www.kisvarda.hu/orszagos-elismeresben-reszesult-a-friss-fm-radio/",
+    "source": "kisvarda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 11:14:07 +0000"
   },
   {
     "title": "„A kialakult bizonytalan helyzetben nem tudtam volna felelősen jövőképet állítani” – még a szezon vége előtt távozott Kisvárdáról két légiós",
@@ -268,5 +241,32 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 07 May 2026 06:06:41 +0000"
+  },
+  {
+    "title": "Francia hangulat, tehetség és kreativitás a Besiben",
+    "snippet": "Ünnepi hangulat, színes produkciók és kiemelkedő diákalkotások töltötték meg térségünk Minősített Tehetséggondozó Műhelye, a Kisvárdai Bessenyei György Gimnázium és Kollégium dísztermét, ahol megrendezésre került a már hagyományosnak mondható francia gála. Az esemény szervezője, Bujdosó Tamás László",
+    "url": "https://www.kisvarda.hu/francia-hangulat-tehetseg-es-kreativitas-a-besiben/",
+    "source": "kisvarda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 07 May 2026 05:55:46 +0000"
+  },
+  {
+    "title": "Generációk találkozása: húsvéti vidámság költözött a kisvárdai Idősek Otthonába",
+    "snippet": "Megható pillanatoknak lehettek tanúi április 10-én a kisvárdai Idősek Otthona lakói és dolgozói. A Tompos úti Bölcsőde apróságai látogatták meg a szépkorúakat, hogy verssel, mosollyal és a közelgő ünnep hangulatával töltsék meg az intézmény falait. A délelőtt folyamán a generációk közötti szakadék t",
+    "url": "https://www.kisvarda.hu/generaciok-talalkozasa-husveti-vidamsag-koltozott-a-kisvardai-idosek-otthonaba/",
+    "source": "kisvarda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 20:30:08 +0000"
+  },
+  {
+    "title": "Szatmárvill kft. – Hirdetmény",
+    "snippet": "A Szatmárvill kft. Hirdetmény bejegyzés először Kisvárda -én jelent meg.",
+    "url": "https://www.kisvarda.hu/szatmarvill-kft-hirdetmeny/",
+    "source": "kisvarda.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 07:03:25 +0000"
   }
 ]

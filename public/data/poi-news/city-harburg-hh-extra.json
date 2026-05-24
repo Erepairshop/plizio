@@ -9,15 +9,6 @@
     "date": "Sun, 24 May 2026 06:40:00 +0200"
   },
   {
-    "title": "Hamburger Ärzte und Krankenkassen streiten erbittert über Termine",
-    "snippet": "Eine neue App könnte die Abläufe durcheinanderwirbeln. Ärzte: „Lassen uns nicht vorschreiben, wann und an wen wir Termine vergeben.“ Warnung vor steigender Krebsrate.",
-    "url": "https://www.abendblatt.de/hamburg/politik/article412005536/hamburg-aerzte-und-krankenkassen-liegen-in-erbittertem-streit-um-termine-fuer-patienten-1.html",
-    "source": "Hamburger Abendblatt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 09:39:34 +0200"
-  },
-  {
     "title": "Mega-ZOB in Harburg – so schön wird das Bauwerk am Bahnhof",
     "snippet": "Hamburgs modernster Busbahnhof nimmt sichtbar Gestalt an. Wann hier wieder Busse ankommen und abfahren, wie hoch die Kosten inzwischen sind.",
     "url": "https://www.abendblatt.de/hamburg/harburg/article412070396/mega-zob-in-harburg-so-schoen-wird-das-bauwerk-am-bahnhof.html",
@@ -25,6 +16,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sun, 24 May 2026 08:50:00 +0200"
+  },
+  {
+    "title": "BMW schleudert von der Fahrbahn und landet samt VW Golf in Vorgarten",
+    "snippet": "Der Fahrer stand offenbar unter Alkoholeinfluss. Er und seine Beifahrerin haben bei dem Unfall allerdings viel Glück.",
+    "url": "https://www.abendblatt.de/hamburg/article412081632/unfall-in-hamburg-bmw-schleudert-von-der-fahrbahn-und-landet-samt-vw-golf-in-vorgarten.html",
+    "source": "Hamburger Abendblatt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 07:49:48 +0200"
   },
   {
     "title": "Abschied von „Tarzan“ in Hamburg: Mit Alexander Klaws? Oder Philipp Büttner?",
@@ -81,13 +81,13 @@
     "date": "Thu, 21 May 2026 11:45:00 +0200"
   },
   {
-    "title": "Der unsichtbare Schmerz: Was sind myofasziale Triggerpunkte?",
-    "snippet": "Warum so viele Menschen leiden – und wie moderne Therapie endlich Erleichterung bringen kann.",
-    "url": "https://www.abendblatt.de/hamburg/article412046862/der-unsichtbare-schmerz-was-sind-myofasziale-triggerpunkte.html",
+    "title": "Ausflugstipp für Genießer zu Pfingsten: Bratwurst-Festival bei Hamburg",
+    "snippet": "Regionale, handgemachte und extravagante Kreationen kommen hier auf den Grill. Historisches Anwesen in Stade verwandelt sich in Genussbühne.",
+    "url": "https://www.abendblatt.de/niedersachsen/landkreis-harburg/article412029450/magie-der-bratwurst-auf-diesem-festival-kann-man-sie-entdecken-1.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 00:01:00 +0200"
+    "date": "Wed, 20 May 2026 12:10:35 +0200"
   },
   {
     "title": "Hamburgs Freibäder im großen Überblick – Preise, Öffnungszeiten, Attraktionen",
@@ -99,9 +99,9 @@
     "date": "Thu, 21 May 2026 08:51:26 +0200"
   },
   {
-    "title": "Weltklasse-Artistik, talentierte Newcomer und Clownerie im neuen Megazelt",
-    "snippet": "Vom 17. September bis 11. Oktober 2026 wird das Hamburger Heiligengeistfeld zum Schauplatz eines unvergesslichen Circus-Spektakels. Der Circus Krone präsentiert seine neue Show „Farbenspiel – Gold Edition“ – ein Feuerwerk aus Akrobatik, Farben, Musik und tierischen Highlights.",
-    "url": "https://www.abendblatt.de/hamburg/article411980052/weltklasse-artistik-talentierte-newcomer-und-clownerie-im-neuen-megazelt.html",
+    "title": "Der unsichtbare Schmerz: Was sind myofasziale Triggerpunkte?",
+    "snippet": "Warum so viele Menschen leiden – und wie moderne Therapie endlich Erleichterung bringen kann.",
+    "url": "https://www.abendblatt.de/hamburg/article412046862/der-unsichtbare-schmerz-was-sind-myofasziale-triggerpunkte.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
@@ -117,13 +117,13 @@
     "date": "Thu, 21 May 2026 07:33:47 +0200"
   },
   {
-    "title": "Rentenrechner: So viel Rente können Sie erwarten",
-    "snippet": "Was bleibt von der gesetzlichen Rente netto übrig? Ruhestand mit 63 oder mit 70? Ihre persönliche Modellrechnung mit wenigen Klicks.",
-    "url": "https://www.abendblatt.de/rentenrechner/",
+    "title": "Weltklasse-Artistik, talentierte Newcomer und Clownerie im neuen Megazelt",
+    "snippet": "Vom 17. September bis 11. Oktober 2026 wird das Hamburger Heiligengeistfeld zum Schauplatz eines unvergesslichen Circus-Spektakels. Der Circus Krone präsentiert seine neue Show „Farbenspiel – Gold Edition“ – ein Feuerwerk aus Akrobatik, Farben, Musik und tierischen Highlights.",
+    "url": "https://www.abendblatt.de/hamburg/article411980052/weltklasse-artistik-talentierte-newcomer-und-clownerie-im-neuen-megazelt.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 18:30:00 +0200"
+    "date": "Thu, 21 May 2026 00:01:00 +0200"
   },
   {
     "title": "Hamburger Wolf unter GPS-Kontrolle: Das sind die Kosten und Grenzen",

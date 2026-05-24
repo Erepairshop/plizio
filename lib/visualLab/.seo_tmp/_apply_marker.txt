@@ -537,3 +537,6 @@
 1778647793 czechrepublic multi4 matched=16 files=poiExtraCzechrepublicCitiesV2.ts
 1778647850 czechrepublic multi4 matched=16 files=poiExtraCzechrepublicCitiesV2.ts
 1778647904 czechrepublic multi4 matched=16 files=poiExtraCzechrepublicCitiesV2.ts
+1779458576 sierraleone multi4 matched=4 files=poiExtraSierraleoneHistoryV2.ts
+1779458628 uzbekistan multi4 matched=24 files=poiExtraUzbekistanReliefV2.ts
+1779458880 seychelles multi4 matched=4 files=poiExtraSeychellesHistoryV2.ts

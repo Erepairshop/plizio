@@ -36,15 +36,6 @@
     "date": "Thu, 21 May 2026 17:00:00 +0200"
   },
   {
-    "title": "Spatenstich \"Jung und Alt am See\"",
-    "snippet": "Mit einem symbolischen Spatenstich beginnen die Bauarbeiten für das generationenübergreifende Projekt „Jung und Alt am See“ der Theodor-Fliedner-Stiftung im Stadtteil Neckarau. Auf dem rund 6.000 Quadratmeter großen Grundstück entstehen bis Herbst 2027 33 Wohnungen für Betreutes Wohnen sowie eine Ki",
-    "url": "https://www.mannheim.de/de/nachrichten/spatenstich-jung-und-alt-am-see",
-    "source": "Mannheim (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 17:00:00 +0200"
-  },
-  {
     "title": "Stadtfest Mannheim – Erleben, Staunen, Genießen",
     "snippet": "Stadtfest Mannheim – Erleben, Staunen, Genießen",
     "url": "https://www.mannheim.de/de/nachrichten/stadtfest-mannheim-2026",
@@ -52,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Spatenstich \"Jung und Alt am See\"",
+    "snippet": "Mit einem symbolischen Spatenstich beginnen die Bauarbeiten für das generationenübergreifende Projekt „Jung und Alt am See“ der Theodor-Fliedner-Stiftung im Stadtteil Neckarau. Auf dem rund 6.000 Quadratmeter großen Grundstück entstehen bis Herbst 2027 33 Wohnungen für Betreutes Wohnen sowie eine Ki",
+    "url": "https://www.mannheim.de/de/nachrichten/spatenstich-jung-und-alt-am-see",
+    "source": "Mannheim (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 17:00:00 +0200"
   },
   {
     "title": "Tag der Biotonne am 26. Mai",

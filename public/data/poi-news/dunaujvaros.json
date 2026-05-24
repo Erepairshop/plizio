@@ -1,32 +1,5 @@
 [
   {
-    "title": "Rövid hála sokszor a hosszú életért",
-    "snippet": "Az idén kilencven éves tabajdi hölgy, Kiss Bálintné Kun Irma története.",
-    "url": "https://www.feol.hu/helyi-kozelet/2026/05/kilenc-evtized-tortenete-kiss-balintne-kun-irma?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 08:00:00 +0000"
-  },
-  {
-    "title": "Szedd magad eper Fejér megyében: 1000 forintért már vehetsz egy kilóval",
-    "snippet": "A szedd magad eper idén is sokakat vonz Fejér megyében, mutatjuk az árakat és tippeket.",
-    "url": "https://www.feol.hu/helyi-kozelet/2026/05/szedd-magad-eper-hazi-lekvar-idojaras-fejer-megye?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:20:00 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.feol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
     "title": "Nagy Ervin bejelentette, hogy meghosszabbították a Dunaferr szerződését, biztosítják a dolgozók megélhetését",
     "snippet": "A kormány rendkívüli ülésen tárgyalta a vasmű helyzetét.",
     "url": "https://index.hu/gazdasag/2026/05/19/nagy-ervin-tisza-part-dunaujvaros-dunaferr-dolgozok-megelhetes/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 06 May 2026 17:38:00 +0200"
-  },
-  {
-    "title": "„Dunaújváros Ifjúságáért” díjazottak",
-    "snippet": "„Dunaújváros Ifjúságáért” díjazottak A csütörtöki közgyűlés elején Pintér Tamás polgármester és Barta Endre humán alpolgármester ünnepélyes keretek között adták át az idei „Dunaújváros Ifjúságáért” díjakat, amelyekkel a város közössége minden évben az ifjúságnevelés és gyermekvédelem területén végze",
-    "url": "https://dunaujvaros.hu/hir/39017",
-    "source": "dunaujvaros.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-21"
   },
   {
     "title": "Választási csalás gyanúja miatt bilincsben vittek el egy férfit Dunaújvárosban",
@@ -72,15 +36,6 @@
     "date": "Sat, 18 Apr 2026 18:57:03 +0000"
   },
   {
-    "title": "Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között",
-    "snippet": "Pótlóbuszok szállítják az utasokat. The post Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/11/26/mav-vonat-felsovezetek-dunaujvaros/",
-    "source": "24.hu/Pusztaszabolcs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 26 Nov 2024 15:42:06 +0000"
-  },
-  {
     "title": "Döntött a kormány, Dunaújváros sokmilliárdos adóbevételtől esik el",
     "snippet": "Új, különleges gazdasági övezetet hoztak létre „Duna mente Fejér megye” néven.",
     "url": "https://index.hu/gazdasag/2021/06/29/kulonleges-gazdasagi-ovezet-duna-mente-fejer-megye-dontes-dunaujvatos-adobevetel/",
@@ -88,6 +43,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 29 Jun 2021 08:55:00 +0200"
+  },
+  {
+    "title": "„Dunaújváros Ifjúságáért” díjazottak",
+    "snippet": "„Dunaújváros Ifjúságáért” díjazottak A csütörtöki közgyűlés elején Pintér Tamás polgármester és Barta Endre humán alpolgármester ünnepélyes keretek között adták át az idei „Dunaújváros Ifjúságáért” díjakat, amelyekkel a város közössége minden évben az ifjúságnevelés és gyermekvédelem területén végze",
+    "url": "https://dunaujvaros.hu/hir/39017",
+    "source": "dunaujvaros.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-21"
+  },
+  {
+    "title": "Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között",
+    "snippet": "Pótlóbuszok szállítják az utasokat. The post Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/11/26/mav-vonat-felsovezetek-dunaujvaros/",
+    "source": "24.hu/Pusztaszabolcs",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 26 Nov 2024 15:42:06 +0000"
   },
   {
     "title": "Körülbelül nyolchektáros területen ég a vegetáció Dunaújváros határában",

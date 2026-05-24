@@ -27,15 +27,6 @@
     "date": "Sun, 24 May 2026 07:53:07 +0200"
   },
   {
-    "title": "News-Ticker zum DFB-Pokalfinale in Berlin: Koordinierter Fan-Protest lässt Stadion erleuchten",
-    "snippet": "Stuttgart- und Bayern-Fans protestieren gegen den DFB mit koordinierter Choreo und Pyro-Fackeln. Alle Infos zum DFB-Pokalfinale im News-Ticker.",
-    "url": "https://www.chiemgau24.de/sport/fussball/fc-bayern/double-news-ticker-zum-dfb-pokalfinale-in-berlin-holen-sich-die-bayern-das-zr-94319691.html",
-    "source": "Chiemgau24",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 09:00:59 +0200"
-  },
-  {
     "title": "Stadt Traunstein sucht gemeinsam mit Schulen und Behörden nach verantwortungsvollem Umgang an der Traun",
     "snippet": "Runder Tisch setzt auf Pr vention, R cksichtnahme und gemein-same Verantwortung w hrend Abschlussfeiern",
     "url": "https://www.traunstein.de/stadt-buerger/aktuelles/nachrichten-aus-der-stadt-traunstein/stadt-traunstein-sucht-gemeinsam-mit-schulen-und-behoerden-nach-verantwortungsvollem-umgang-an-der-traun/",
@@ -43,6 +34,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 09:51:29 GMT"
+  },
+  {
+    "title": "News-Ticker zum DFB-Pokalfinale in Berlin: Koordinierter Fan-Protest lässt Stadion erleuchten",
+    "snippet": "Stuttgart- und Bayern-Fans protestieren gegen den DFB mit koordinierter Choreo und Pyro-Fackeln. Alle Infos zum DFB-Pokalfinale im News-Ticker.",
+    "url": "https://www.chiemgau24.de/sport/fussball/fc-bayern/double-news-ticker-zum-dfb-pokalfinale-in-berlin-holen-sich-die-bayern-das-zr-94319691.html",
+    "source": "Chiemgau24",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 09:00:59 +0200"
   },
   {
     "title": "Runder Tisch in Traunstein: Suche nach Lösungen für Abschlussfeiern an der Traun",
@@ -54,15 +54,6 @@
     "date": "Fri, 22 May 2026 13:21:06 +0200"
   },
   {
-    "title": "Unbekannter E-Biker verfolgt und bedroht Bub (9) auf Fahrrad in Oberaudorf",
-    "snippet": "In Oberaudorf ist ein neunjähriger Radfahrer von einem unbekannten E‑Bike‑Fahrer verfolgt und bedroht worden. Der Mann fuhr dem Kind dicht hinterher und sprach an einer Ampel eine massive Drohung aus. Die Polizei sucht Zeugen.",
-    "url": "https://www.chiemgau24.de/bayern/landkreis-rosenheim/unbekannter-verfolgt-und-bedroht-bub-auf-fahrrad-in-oberaudorf-94319687.html",
-    "source": "Chiemgau24",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 08:55:56 +0200"
-  },
-  {
     "title": "Literarische Spaziergänge in Traunstein",
     "snippet": "An drei Samstagen mit Willi Schwenkmeier",
     "url": "https://www.traunstein.de/stadt-buerger/aktuelles/nachrichten-aus-der-stadt-traunstein/literarische-spaziergaenge-in-traunstein/",
@@ -70,6 +61,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 08:59:51 GMT"
+  },
+  {
+    "title": "Unbekannter E-Biker verfolgt und bedroht Bub (9) auf Fahrrad in Oberaudorf",
+    "snippet": "In Oberaudorf ist ein neunjähriger Radfahrer von einem unbekannten E‑Bike‑Fahrer verfolgt und bedroht worden. Der Mann fuhr dem Kind dicht hinterher und sprach an einer Ampel eine massive Drohung aus. Die Polizei sucht Zeugen.",
+    "url": "https://www.chiemgau24.de/bayern/landkreis-rosenheim/unbekannter-verfolgt-und-bedroht-bub-auf-fahrrad-in-oberaudorf-94319687.html",
+    "source": "Chiemgau24",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 08:55:56 +0200"
   },
   {
     "title": "Klangvoller Abend voller Begeisterung",
@@ -97,6 +97,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 08:28:26 GMT"
+  },
+  {
+    "title": "Kunst am Morgen in der Städtischen Galerie",
+    "snippet": "Ausstellungsrundgang am 20. Mai um 11 Uhr",
+    "url": "https://www.traunstein.de/stadt-buerger/aktuelles/nachrichten-aus-der-stadt-traunstein/kunst-am-morgen-in-der-staedtischen-galerie/",
+    "source": "Traunstein (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 11:19:19 GMT"
   },
   {
     "title": "BPOLD 11: Brandbekämpfung aus der Luft: Die Bundespolizei im Einsatz gegen den Waldbrand im Landkreis Traunstein",

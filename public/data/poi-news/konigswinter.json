@@ -1,23 +1,5 @@
 [
   {
-    "title": "Sinkende Zahl der Geflüchteten: Keine Flüchtlinge mehr in der Sporthalle in Mondorf",
-    "snippet": "Seit 2015 ist die Dreifachturnhalle in Mondorf eine Flüchtlingsunterkunft. Mit sinkender Zahl der Geflüchteten stieg der Unmut der Sportvereine. Nun wird die Halle schneller frei als erwartet.",
-    "url": "https://ga.de/region/sieg-und-rhein/niederkassel/gefluechtete-in-niederkassel-sporthalle-in-mondorf-ist-frei_aid-148744743",
-    "source": "General-Anzeiger Bonn",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sun, 24 May 2026 09:00:00 +0200"
-  },
-  {
-    "title": "[GA+] Bonner Insektenforscher „Libellen-Schmidt“: Alexander Koenig warf 1936 einen Nazi aus seinem Museum",
-    "snippet": "Als aktiver Nazi war der Insektenforscher Erich Schmidt 1936 beim Bonner Museumsgründer Alexander Koenig unerwünscht. Die Bonner Geschichtsblätter arbeiten den Fall auf.",
-    "url": "https://ga.de/bonn/stadt-bonn/alexander-koenig-warf-1936-einen-nazi-aus-seinem-museum_aid-148292687",
-    "source": "General-Anzeiger Bonn",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sun, 24 May 2026 08:00:00 +0200"
-  },
-  {
     "title": "[GA+] Ein Landgut aus der Lotterie: „Schatzi, ick hab‘ da wat jewonnen“",
     "snippet": "„Man kann die Gefühle nicht beschreiben, die man in diesem Moment empfindet“: Ein 40-jähriger Supermarktmitarbeiter aus Brandenburg gewinnt bei einer Lotterie ein 2,8-Millionen-Euro- und 22.000-Quadratmeter-Landgut. Und jetzt?",
     "url": "https://ga.de/news/panorama/supermarktmitarbeiter-gewinnt-landgut-bei-duesseldorf_aid-148617797",
@@ -25,6 +7,24 @@
     "lang": "de",
     "scope": "state",
     "date": "Sun, 24 May 2026 07:00:00 +0200"
+  },
+  {
+    "title": "[GA+] Debatte um Sahles Parteispende: „An die CDU in Bonn ist niemals eine Spende geflossen“",
+    "snippet": "Die Firma Sahle hat 2020 eine Parteispende von rund 18.000 Euro an die CDU abgegeben. Besteht deshalb ein Interessenskonflikt im Zusammenhang mit der Landwirtschaftskammer in Roleber? Antworten auf eine kritische Nachfrage der Opposition.",
+    "url": "https://ga.de/bonn/beuel/sahle-spende-an-cdu-debatte-um-roleber-bauprojekt-beuel_aid-148632315",
+    "source": "General-Anzeiger Bonn",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 05:00:00 +0200"
+  },
+  {
+    "title": "[GA+] Offenbar Familienkonflikt eskaliert: Versuchte Tötung in Bonn-Oberkassel? Frau nach Auto-Attacke verletzt",
+    "snippet": "Nach einem mutmaßlich gezielten Angriff mit einem Auto auf eine 48-jährige Frau in Bonn-Oberkassel ermittelt eine Mordkommission wegen versuchten Tötungsdelikts. Der 20 Jahre alte Tatverdächtige ist weiter auf der Flucht. Nach Angaben der Familie des Opfers sollen dem Vorfall massive Drohungen vorau",
+    "url": "https://ga.de/bonn/beuel/versuchte-toetung-in-bonn-oberkassel-frau-nach-auto-attacke-verletzt_aid-148800065",
+    "source": "General-Anzeiger Bonn",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:18:00 +0200"
   },
   {
     "title": "Deutsch-Französischer Freundschaftskreis plant Tagesfahrt nach Rhöndorf und Königswinter",

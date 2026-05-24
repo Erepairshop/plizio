@@ -1,20 +1,11 @@
 [
   {
-    "title": "FW Paderborn: Leichtsinnige E-Scooter-Fahrt auf B64 mündet in Feuerwehreinsatz",
-    "snippet": "Paderborn (ots) - (sg) Am Sonntag, den 24.05.2026, wurde die Feuerwehr Paderborn um kurz vor 3 Uhr mit dem Stichwort \"Ausleuchten Einsatzstelle\" auf die B64 zwischen den Anschlussstellen Borchener Straße und B1/Salzkottener Straße alarmiert. Die ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/173646/6280768",
-    "source": "Presseportal Polizei-NI",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 08:33:30 +0200"
-  },
-  {
     "title": "Zwei junge Männer steigen nachts zur Zugspitze auf: 19-Jähriger aus Kreis Paderborn stirbt",
     "snippet": "Auf einem Schneefeld an der Zugspitze kommt es nachts zu einem tödlichen Unfall. Ein 19-Jähriger aus Ostwestfalen stürzt bei Ehrwald in die Tiefe.",
-    "url": "https://www.bbv-net.de/regionales/ehrwald-zwei-junge-maenner-steigen-nachts-zur-zugspitze-auf-19-jaehriger-aus-kreis-paderborn-stirbt-w1198027-6000554691/",
-    "source": "Bocholter-Borkener Volksblatt",
+    "url": "https://www.ruhrnachrichten.de/regionales/ehrwald-zwei-junge-maenner-steigen-nachts-zur-zugspitze-auf-19-jaehriger-aus-kreis-paderborn-stirbt-w1198027-2002077618/",
+    "source": "Ruhr Nachrichten",
     "lang": "de",
-    "scope": "city",
+    "scope": "state",
     "date": "Sun, 24 May 2026 06:05:42 +0000"
   },
   {
@@ -24,7 +15,7 @@
     "source": "Wolfsburger Allgemeine (WAZ)",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 09:38:04 +0200"
+    "date": "Sun, 24 May 2026 08:23:34 +0200"
   },
   {
     "title": "VfL Wolfsburg – SC Paderborn: Wölfe hadern, Sticker fliegt – torloses Remis im Relegations-Hinspiel",
@@ -34,6 +25,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 21 May 2026 15:35:32 +0000"
+  },
+  {
+    "title": "Relegations-Endspiel VfL Wolfsburg gegen Paderborn: Public Viewing im B'moovd - Zahlreiche Fernsehsender vor Ort",
+    "snippet": "Sonnenschein und sommerliche Temperaturen – die Wettervorhersage verspricht beste Bedingungen, um das Abstiegs-Endspiel des VfL Wolfsburg gegen Paderborn am Pfingstmontag gemeinsam im Biergarten zu schauen. Das B‘moovd erwartet bis zu 3.500 Besucher. Auch an anderen Orten gibt es Fußball zu sehen.",
+    "url": "https://www.waz-online.de/lokales/wolfsburg/relegations-endspiel-vfl-wolfsburg-gegen-paderborn-public-viewing-im-b-moovd-zahlreiche-ETYTYZBZQJB2LEDQP6IVLO6FKE.html",
+    "source": "Wolfsburger Allgemeine (WAZ)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:43:05 +0200"
   },
   {
     "title": "Billig-Airline Ryanair setzt Zeichen für den Flughafen Paderborn/Lippstadt",

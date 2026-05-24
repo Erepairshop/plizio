@@ -36,15 +36,6 @@
     "date": "Sat, 23 May 2026 19:33:43 +0200"
   },
   {
-    "title": "Safeclub Kamenz: \"Wollen zeigen, dass auch eine Kleinstadt ein cooler Ort ist\"",
-    "snippet": "Abseits großer Städte wie Leipzig oder Dresden fühlen sich Jugendliche oft abgehängt. Fehlende Freizeitangebote, ausgedünnter ÖPNV - da kommt schnell Frust auf. Ein Jugendclub in Kamenz will sich nicht entmutigen lassen.",
-    "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/jugend-freizeit-safeclub-laendlicher-raum-100.html",
-    "source": "MDR Sachsen Bautzen",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 10:00:00 +0200"
-  },
-  {
     "title": "Hauseinsturz mit drei Toten in Görlitz: Polizei ermittelt in alle Richtungen",
     "snippet": "Nach dem Einsturz eines Mehrfamilienhauses in Görlitz, bei dem drei Menschen starben, ermittelt die Polizei in alle Richtungen. Unterdessen dürfen weitere Anwohner in ihre Häuser zurück.",
     "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/haus-eingestuerzt-tote-polizei-ermittelt-anwohner-sperrung100.html",
@@ -61,6 +52,15 @@
     "lang": "de",
     "scope": "county",
     "date": "Fri, 22 May 2026 19:34:00 +0200"
+  },
+  {
+    "title": "Pressekonferenz zum Hauseinsturz in Görlitz",
+    "snippet": "In der Innenstadt von Görlitz ist am Montag ein Mehrfamilienhaus eingestürzt. Seit Tagen sichern Rettungskräfte die anliegenden Häuser und suchen nach Verschütteten. Hier sehen Sie die Pressekonferenz zur aktuellen Lage.",
+    "url": "https://www.mdr.de/video/mdr-plus-videos/video-pressekonferenz-zum-hauseinsturz-in-goerlitz-freitag-100.html",
+    "source": "MDR Sachsen Bautzen",
+    "lang": "de",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 09:00:00 +0200"
   },
   {
     "title": "Hauseinsturz in Görlitz: Helfer suchen zwischen Staub und Trümmern nach Vermissten",

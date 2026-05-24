@@ -1,14 +1,5 @@
 [
   {
-    "title": "New Model Army am 29. Mai auf der Waldbühne im Oelder Park",
-    "snippet": "In ihrem fünften Jahrzehnt auf der Bühne kommt New Model Army nach Oelde. Am 29. Mai werden sie im Vier-Jahreszeiten-Park erwartet.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/new-model-army-am-29-mai-auf-der-waldbuehne-im-oelder-park-1779468625",
-    "source": "Die Glocke oelde",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 09:09:00 +0200"
-  },
-  {
     "title": "Rückblick: Elefanten-Frühstück 1996 auf Oelder Schulhof",
     "snippet": "Oelde erinnert an kuriose Schlagzeilen: Elefanten am Thomas-Morus-Gymnasium, Tests gegen Fliegen in Biotonnen und Dino-Modelle in der Innenstadt.",
     "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/rueckblick-elefanten-fruehstueck-1996-auf-oelder-schulhof-1779459927",
@@ -45,15 +36,6 @@
     "date": "Fri, 22 May 2026 17:30:00 +0200"
   },
   {
-    "title": "22.05.2026 Parkbad: Geänderte Öffnungszeiten",
-    "snippet": "22.05.2026 Parkbad: Geänderte Öffnungszeiten 22.05.2026 Am Pfingstmontag und Samstag, den 30. Mai 2026 Mehr lesen",
-    "url": "https://www.oelde.de/de/rathaus/veroeffentlichungen/pressemitteilungen/2026/05/geaenderte-oeffnungszeiten-parkbad/",
-    "source": "oelde.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Kita gibt Auftakt für Oelder Pfingstenkranzfeste",
     "snippet": "In Oelde wird mit dem Pfingstenkranz ein Brauchtum gefeiert, das über die Grenzen hinaus kaum bekannt ist. Ein stimmungsvoller Einblick:",
     "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/kita-gibt-auftakt-fuer-oelder-pfingstenkranzfeste-1779461428",
@@ -61,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 16:39:00 +0200"
+  },
+  {
+    "title": "22.05.2026 Parkbad: Geänderte Öffnungszeiten",
+    "snippet": "22.05.2026 Parkbad: Geänderte Öffnungszeiten 22.05.2026 Am Pfingstmontag und Samstag, den 30. Mai 2026 Mehr lesen",
+    "url": "https://www.oelde.de/de/rathaus/veroeffentlichungen/pressemitteilungen/2026/05/geaenderte-oeffnungszeiten-parkbad/",
+    "source": "oelde.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Raul Huesca Valverde leitet Chor TonArt in Stromberg",

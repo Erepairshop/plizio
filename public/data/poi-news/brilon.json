@@ -27,15 +27,6 @@
     "date": "Tue, 19 May 2026 15:43:46 +0200"
   },
   {
-    "title": "Brilon: Einbrecher steigen über ein Dach in Gebäude ein",
-    "snippet": "Einbrecher steigen übers Dach in ein Gebäude am „Ostring“ in Brilon ein. Der Tatzeitraum kann eingegrenzt werden. Die Polizei bittet um Hinweise.",
-    "url": "https://www.wp.de/staedte/altkreis-brilon/article242549570/Brilon-Einbrecher-steigen-ueber-ein-Dach-in-Gebaeude-ein.html",
-    "source": "WP Altkreis Brilon",
-    "lang": "de",
-    "scope": "county",
-    "date": "Tue, 11 Jun 2024 09:58:12 +0200"
-  },
-  {
     "title": "Integrationskurs der VHS Brilon-Marsberg-Olsberg zu Besuch",
     "snippet": "Integrationskurs der VHS im Rathaus der Stadt Brilon",
     "url": "https://www.brilon.de/leben-in-brilon/brilon-aktuell/news-details/integrationskurs-der-vhs-brilon-marsberg-olsberg-zu-besuch",
@@ -45,13 +36,13 @@
     "date": "Tue, 12 May 2026 09:18:24 +0200"
   },
   {
-    "title": "Schützen in Oberschledorn feiern 150. Jubiläum mit Herzblut",
-    "snippet": "Die St. Antonius-Schützenbruderschaft Oberschledorn hat ihr 150-jähriges Bestehen gefeiert. Es war ein wirklich rauschendes Fest.",
-    "url": "https://www.wp.de/staedte/altkreis-brilon/article242546948/Schuetzen-in-Oberschledorn-feiern-150-Jubilaeum-mit-Herzblut.html",
+    "title": "Brilon: Einbrecher steigen über ein Dach in Gebäude ein",
+    "snippet": "Einbrecher steigen übers Dach in ein Gebäude am „Ostring“ in Brilon ein. Der Tatzeitraum kann eingegrenzt werden. Die Polizei bittet um Hinweise.",
+    "url": "https://www.wp.de/staedte/altkreis-brilon/article242549570/Brilon-Einbrecher-steigen-ueber-ein-Dach-in-Gebaeude-ein.html",
     "source": "WP Altkreis Brilon",
     "lang": "de",
     "scope": "county",
-    "date": "Tue, 11 Jun 2024 06:15:00 +0200"
+    "date": "Tue, 11 Jun 2024 09:58:12 +0200"
   },
   {
     "title": "Spielplatz „Am Renzelsberg“ ab sofort für Kinder bespielbar",
@@ -63,13 +54,13 @@
     "date": "Mon, 11 May 2026 12:11:46 +0200"
   },
   {
-    "title": "Wahlergebnis im HSK: Freude und Sorge über AfD-Zugewinne",
-    "snippet": "Einen Tag nach der Wahl: Große Erleichterung bei der CDU, Frust bei SPD und Grünen. Sogar Neuwahlen stehen im Raum. Wie es nun weitergeht:",
-    "url": "https://www.wp.de/staedte/altkreis-brilon/article242547694/Wahlergebnis-im-HSK-Freude-und-Sorge-ueber-AfD-Zugewinne.html",
+    "title": "Schützen in Oberschledorn feiern 150. Jubiläum mit Herzblut",
+    "snippet": "Die St. Antonius-Schützenbruderschaft Oberschledorn hat ihr 150-jähriges Bestehen gefeiert. Es war ein wirklich rauschendes Fest.",
+    "url": "https://www.wp.de/staedte/altkreis-brilon/article242546948/Schuetzen-in-Oberschledorn-feiern-150-Jubilaeum-mit-Herzblut.html",
     "source": "WP Altkreis Brilon",
     "lang": "de",
     "scope": "county",
-    "date": "Mon, 10 Jun 2024 17:50:42 +0200"
+    "date": "Tue, 11 Jun 2024 06:15:00 +0200"
   },
   {
     "title": "Schmierereien an Blumenkübeln und Abfalleimern in Brilon",
@@ -79,5 +70,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Mon, 11 May 2026 12:00:08 +0200"
+  },
+  {
+    "title": "Wahlergebnis im HSK: Freude und Sorge über AfD-Zugewinne",
+    "snippet": "Einen Tag nach der Wahl: Große Erleichterung bei der CDU, Frust bei SPD und Grünen. Sogar Neuwahlen stehen im Raum. Wie es nun weitergeht:",
+    "url": "https://www.wp.de/staedte/altkreis-brilon/article242547694/Wahlergebnis-im-HSK-Freude-und-Sorge-ueber-AfD-Zugewinne.html",
+    "source": "WP Altkreis Brilon",
+    "lang": "de",
+    "scope": "county",
+    "date": "Mon, 10 Jun 2024 17:50:42 +0200"
   }
 ]

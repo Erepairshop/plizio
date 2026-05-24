@@ -9,24 +9,6 @@
     "date": "Sat, 23 May 2026 10:00:00 GMT"
   },
   {
-    "title": "Einladung zum Ausflug: SPD Linz erkundet Remagen - NR-Kurier",
-    "snippet": "Einladung zum Ausflug: SPD Linz erkundet Remagen NR-Kurier",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFU4UXdqd3NKdkpCSEdxMGVWMlhQa3cxOW40Sk5NR0cxdnRZSUdFQ0VFUmFtcTd4aFdTajdGb2xvWHEwRmFzS2xWSVhWWHkzczhfR2xBYzJlSW4wZFB2UmZRNGwyZG9DRTJlVXZCc0g4anh2WGlBcWx2VjhPRTl1LU5aVVZFUEpVVVlTWFRVek8xZw?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Mon, 18 May 2026 12:07:36 GMT"
-  },
-  {
-    "title": "Tierheim Remagen ändert Spendenannahme-Ort und Zeiten ab Juni 2026 - blick-aktuell.de",
-    "snippet": "Tierheim Remagen ändert Spendenannahme-Ort und Zeiten ab Juni 2026 blick-aktuell.de",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHp1ckktendncDRwTk5Od0J6dVFWT282VVZiTTh3VU5wRGRwVWtqaUpaWUlTMzlycU1LNlpnV3ppYXZCUUxRZUhKcWp0RUlxU3l1bVdVMUpPcTJVZDZGaFNScnk4ZlB3ajJ6eTV2SmFlcEVsWXpyM0N3VTJ2YklTeXFVR0M4ZU1qWE5saEtWUUMzR2hWd2JrTXVvSUpLZEE5aDR3LUViejNTWkZBNy1qemZycFVPN2M?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Mon, 18 May 2026 10:07:56 GMT"
-  },
-  {
     "title": "Günther Uecker im Arp-Museum Bahnhof Rolandseck Remagen - FAZ",
     "snippet": "Günther Uecker im Arp-Museum Bahnhof Rolandseck Remagen FAZ",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdGlHX19tMUlnWGQ4TzVLZnFzYmF3d29kMHQyanNXOXJTOTdhWGhpT2I5Uk1kNDJIakFKTVRobzVUTHJnbWpraVZZVDNISjhCSFR1RUN0TU9FZjRteUZXRGhBcUowV0h2VTlRMVVtMEozSnhhNUNpRjlYNF9DZzJIRDlpZUFhejAzMEhmNE9CYUM5Z1MwcjBJOVlSTjYzRVRQdE1lQ1Q3SHprbGVaa0pLUWlBLVRYZTdfQmk0dmp0NHl0b1ZuaTg2anZoVE9DYUc1ZmRwbGVkVXF0Sk1E?oc=5",
@@ -45,15 +27,6 @@
     "date": "Thu, 07 May 2026 06:32:53 GMT"
   },
   {
-    "title": "Herzlich willkommen in Remagen",
-    "snippet": "Herzlich willkommen in Remagen Sie sind ... Bürger/ Bürgerin Besucher/ Besucherin Unternehmer/ Unternehmerin Grußwort Björn Ingendahl Bürgermeister Aktuelles Amtliche Bekanntmachungen",
-    "url": "https://www.remagen.de/Schnelleinstieg/Buerger_Buergerin/",
-    "source": "remagen.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "VW-Bulli-Treffen in Remagen: Der Bulli ist Teil der Familiengeschichte - General-Anzeiger Bonn",
     "snippet": "VW-Bulli-Treffen in Remagen: Der Bulli ist Teil der Familiengeschichte General-Anzeiger Bonn",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUlLU2c1SjVQMENFUE9xU0ItaEZFdXdTRWI5c2tNTXVTN3BNNTk1R1RUU0w4V3JIWFVFcVViQUtFcFJqSF9waWZUZ1ZrTmIxaXEzcDluLWY4RFRnb0NIS3VEWWFudEZqS25vcFgzUnNqYl9tTnRLVnV3Z2RjZTVvd09hWlN1ZjU0Yk1NM2pnc0hqTkdwbkVlQUlidm5qWWJxOTJoNVozbVdoMlk?oc=5",
@@ -61,6 +34,15 @@
     "lang": "de",
     "scope": "search",
     "date": "Fri, 15 May 2026 16:03:02 GMT"
+  },
+  {
+    "title": "Herzlich willkommen in Remagen",
+    "snippet": "Herzlich willkommen in Remagen Sie sind ... Bürger/ Bürgerin Besucher/ Besucherin Unternehmer/ Unternehmerin Grußwort Björn Ingendahl Bürgermeister Aktuelles Amtliche Bekanntmachungen",
+    "url": "https://www.remagen.de/Schnelleinstieg/Buerger_Buergerin/",
+    "source": "remagen.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Veranstaltungstipps",

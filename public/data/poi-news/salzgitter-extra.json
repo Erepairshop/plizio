@@ -1,14 +1,5 @@
 [
   {
-    "title": "POL-SZ: Pressemeldung der Polizeiinspektion Salzgitter/Peine/Wolfenbüttel vom 24.05.2026 für die Bereiche Salzgitter-Lebenstedt und -Thiede",
-    "snippet": "Salzgitter (ots) - siehe Anlage. Rückfragen bitte an: Polizei Salzgitter Dienstschichtleiter POK Kruse Telefon: 05341/ 1897-217 ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/56519/6280789",
-    "source": "Presseportal Polizei-MV",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 09:09:06 +0200"
-  },
-  {
     "title": "Festival, Mühlentag und großes Straßenfest: Das ist kommende Woche in Salzgitter los",
     "snippet": "Salzgitter-Bad feiert gleich drei Tage, an einem Tag geht es im Seeviertel richtig rund, und etwas für Geschichtsfans ist auch etwas dabei. Die Übersicht.",
     "url": "https://www.braunschweiger-zeitung.de/niedersachsen/salzgitter/article412071193/festival-muehlentag-und-grosses-strassenfest-das-ist-kommende-woche-in-salzgitter-los.html",
@@ -18,22 +9,13 @@
     "date": "Sun, 24 May 2026 06:52:00 +0200"
   },
   {
-    "title": "Braunschweig, Wolfsburg, Salzgitter & Co.: Hier kommen Freibad-Fans am günstigsten weg",
-    "snippet": "Der Sommer rückt immer näher. Aber in welchem Freibad schwimmt es sich am günstigsten? Das hat News38 für euch recherchiert.",
-    "url": "https://www.news38.de/niedersachsen/article300680352/braunschweig-wolfsburg-salzgitter-freibad-preise-2026.html",
+    "title": "Bittere Nachricht für Salzgitter! Unternehmen macht Standort dicht – zig Mitarbeiter betroffen",
+    "snippet": "Die Mühle Rüningen schließt ihr Werk in Salzgitter-Ringelheim. Rund 30 Arbeitsplätze sind betroffen. Das Unternehmen nennt harte Marktbedingungen als Grund.",
+    "url": "https://www.news38.de/salzgitter/article300679206/salzgitter-muehle-rueningen-ringelheim-schliessung-standort.html",
     "source": "News38",
     "lang": "de",
     "scope": "region",
-    "date": "Sun, 24 May 2026 07:00:37 +0000"
-  },
-  {
-    "title": "POL-SZ: Pressemitteilung des Polizeikommissariats Salzgitter-Bad vom 23.05.2026, 09:00 Uhr - 24.05.2026, 09:00 Uhr",
-    "snippet": "Salzgitter-Bad (ots) - Räuberischer Diebstahl in Supermarkt Zeit: Samstag, 23.05.2026, 14:19 Uhr. Ort: 38259 Salzgitter, Am Pfingstanger. Hergang: Am Samstagnachmittag kam es in einem Supermarkt zu einem räuberischen Diebstahl. Ein 47-jähriger ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/56519/6280784",
-    "source": "Presseportal Polizei-MV",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 09:00:00 +0200"
+    "date": "Sat, 23 May 2026 12:10:29 +0000"
   },
   {
     "title": "Schrubben, pumpen, schippen: Freibad-Team gibt alles vor Saisonstart in Salzgitter",
@@ -43,24 +25,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 17:21:42 +0200"
-  },
-  {
-    "title": "Konradfonds schüttet 2 Millionen Euro aus",
-    "snippet": "Pressemitteilungen Konradfonds schüttet 2 Millionen Euro aus Kuratoriumsvorsitzender OB Klingebiel: Konradfonds schüttet für das Förderjahr 2026 die ersten 2 Millionen Euro aus!",
-    "url": "https://www.salzgitter.de/#MTA2NzA0NDY4NA",
-    "source": "salzgitter.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Bittere Nachricht für Salzgitter! Unternehmen macht Standort dicht – zig Mitarbeiter betroffen",
-    "snippet": "Die Mühle Rüningen schließt ihr Werk in Salzgitter-Ringelheim. Rund 30 Arbeitsplätze sind betroffen. Das Unternehmen nennt harte Marktbedingungen als Grund.",
-    "url": "https://www.news38.de/salzgitter/article300679206/salzgitter-muehle-rueningen-ringelheim-schliessung-standort.html",
-    "source": "News38",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 12:10:29 +0000"
   },
   {
     "title": "So kommt der Wasserstoff nach Salzgitter: Diese Firma macht‘s möglich",
@@ -79,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 08:00:00 +0200"
+  },
+  {
+    "title": "Konradfonds schüttet 2 Millionen Euro aus",
+    "snippet": "Pressemitteilungen Konradfonds schüttet 2 Millionen Euro aus Kuratoriumsvorsitzender OB Klingebiel: Konradfonds schüttet für das Förderjahr 2026 die ersten 2 Millionen Euro aus!",
+    "url": "https://www.salzgitter.de/#MTA2NzA0NDY4NA",
+    "source": "salzgitter.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Anmeldung ist gestartet: STADTRADELN und SCHULRADELN 2026",

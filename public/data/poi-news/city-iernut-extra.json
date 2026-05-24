@@ -1,14 +1,5 @@
 [
   {
-    "title": "Ilie Bolojan, despre centrala de la Iernut: Până la sfârșitul anului trebuie să producă. Cine termină centrala blocată la 98%",
-    "snippet": "Premierul interimar Ilie Bolojan a anunțat sâmbătă că are toată încrederea că noua centrală pe gaz de la Iernut, județul Mureș, cu o capacitate de 430 MW, va începe să livreze energie în sistemul național până la sfârșitul acestui an. Termenul asumat oficial de conducerea Romgaz este 31 decembrie 20",
-    "url": "https://www.libertatea.ro/stiri/ilie-bolojan-despre-centrala-de-la-iernut-pana-la-sfarsitul-anului-trebuie-sa-produca-cine-termina-centrala-blocata-la-98-5750956",
-    "source": "libertatea.ro",
-    "lang": "ro",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 14:41:00 +0300"
-  },
-  {
     "title": "Ce se întâmplă cu centrala de la Iernut. Ilie Bolojan: „De acum înainte, mingea este în terenul echipei tehnice”",
     "snippet": "Premierul Ilie Bolojan a anunțat sâmbătă că Executivul a aprobat un memorandum în privința centralei electrice pe gaz de la Iernut. „Confirmă, la nivel guvernamental, că proiectul centralei de la Iernut, cu o putere de 430 MW, este de extremă urgență,” a transmis Ilie Bolojan. De asemenea, Guvernul ",
     "url": "https://www.digi24.ro/stiri/economie/energie/ce-se-intampla-cu-centrala-de-la-iernut-ilie-bolojan-de-acum-inainte-mingea-este-in-terenul-echipei-tehnice-3782761",
@@ -16,6 +7,15 @@
     "lang": "ro",
     "scope": "national",
     "date": "Sat, 23 May 2026 13:34:44 +0300"
+  },
+  {
+    "title": "Ilie Bolojan, despre centrala de la Iernut: Până la sfârșitul anului trebuie să producă. Cine termină centrala blocată la 98%",
+    "snippet": "Premierul interimar Ilie Bolojan a anunțat sâmbătă că are toată încrederea că noua centrală pe gaz de la Iernut, județul Mureș, cu o capacitate de 430 MW, va începe să livreze energie în sistemul național până la sfârșitul acestui an. Termenul asumat oficial de conducerea Romgaz este 31 decembrie 20",
+    "url": "https://www.libertatea.ro/stiri/ilie-bolojan-despre-centrala-de-la-iernut-pana-la-sfarsitul-anului-trebuie-sa-produca-cine-termina-centrala-blocata-la-98-5750956",
+    "source": "libertatea.ro",
+    "lang": "ro",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 14:41:00 +0300"
   },
   {
     "title": "Ilie Bolojan: centrala pe gaz de la Iernut va injecta energie în sistemul energetic național",
@@ -27,22 +27,22 @@
     "date": "Sat, 23 May 2026 12:30:54 +0000"
   },
   {
-    "title": "Concurs de proiecte pentru acțiuni sportive organizat de Primăria Târgu Mureș",
-    "snippet": "Primăria Municipiului Târgu Mureș anunță lansarea concursului de proiecte pentru finanțarea acțiunilor sportive aferente anului 2026. ”Programul are ca obiectiv susținerea sportului de performanță, a sportului școlar, precum și a activităților sportive dedicate tuturor categoriilor de vârstă, inclus",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/concurs-de-proiecte-pentru-actiuni-sportive-organizat-de-primaria-targu-mures/",
-    "source": "Zi de Zi",
+    "title": "Centrala de la Iernut trebuie finalizată până la 31 decembrie",
+    "snippet": "Guvernul României a aprobat azi un memorandum prin care declară stare de extremă urgență pentru finalizarea și punerea în funcțiune a centralei termoelectrice cu ciclu combinat cu turbine cu gaze de la Iernut, județul Mureș, obiectiv de investiții al Romgaz cu o putere instalată de 430 MW. Documentu",
+    "url": "https://www.tirnaveni.ro/centrala-de-la-iernut-trebuie-finalizata-pana-la-31-decembrie/",
+    "source": "Tirnaveni.ro",
     "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 15:22:00 +0000"
+    "scope": "city",
+    "date": "Fri, 22 May 2026 11:00:00 +0000"
   },
   {
-    "title": "Noaptea Muzeelor a atras un număr record de 15.768 de vizitatori",
-    "snippet": "Ediția din acest an a evenimentului Noaptea Muzeelor a stabilit un nou record de public, după ce 15.768 de persoane au trecut pragul spațiilor expoziționale, potrivit bilanțului prezentat de organizatori după seara de sâmbătă, 23 mai. Reprezentanții instituției au descris participarea drept una pest",
-    "url": "https://punctul.ro/noaptea-muzeelor-a-atras-un-numar-record-de-15-768-de-vizitatori/",
-    "source": "Punctul",
+    "title": "Red Dragon Fight Club Reghin strălucește la Gala FRAM 2025",
+    "snippet": "Pe 10 decembrie, Circul Metropolitan din București a găzduit Gala Artelor Marțiale – FRAM 2025, un eveniment dedicat excelenței și devotamentului în sport. Red Dragon Fight Club Reghin a fost prezent cu sportivii săi de top, care au obținut rezultate excepționale în acest an. Clubul a anunțat că Csi",
+    "url": "https://www.zi-de-zi.ro/2025/12/15/red-dragon-fight-club-reghin-straluceste-la-gala-fram-2025/",
+    "source": "zi-de-zi.ro",
     "lang": "ro",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:42:15 +0000"
+    "scope": "city",
+    "date": "Mon, 15 Dec 2025 12:01:00 +0000"
   },
   {
     "title": "Termocentrala din Iernut",
@@ -54,130 +54,22 @@
     "date": "Tue, 18 Feb 2025 09:12:32 +0000"
   },
   {
-    "title": "FOTO: Programul HELIOS continuă la UMFST",
-    "snippet": "Facultatea de Medicină din cadrul Universității de Medicină, Farmacie, Științe și Tehnologie (UMFST) ”George Emil Palade” din Târgu Mureș a organizat, recent, workshop-ul dedicat sistemului nervos „NeuroXperience rețeaua care te definește”, activitate interactivă realizată cu participarea discipline",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/foto-programul-helios-continua-la-umfst/",
-    "source": "Zi de Zi",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 14:50:00 +0000"
-  },
-  {
-    "title": "Trei exemple de nuclee urbane premiate la competiția Destinația Anului 2026: Sibiu, Brașov și Constanța",
-    "snippet": "Piața Mare, Sibiu Piața Mare este inima Sibiului și cea mai activă scenă urbană a sa. Definită de un patrimoniu arhitectural de mare valoare, cu o puternică încărcătură istorică, piața găzduiește constant festivaluri, concerte și evenimente majore. Activă în toate anotimpurile, este locul în care or",
-    "url": "https://punctul.ro/trei-exemple-de-nuclee-urbane-premiate-la-competitia-destinatia-anului-2026-sibiu-brasov-si-constanta/",
-    "source": "Punctul",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:00 +0000"
-  },
-  {
-    "title": "Cristian Erbașu, la Târgu Mureș: ”Criza tăcută din construcții nu mai poate fi ignorată”",
-    "snippet": "În cadrul conferinței anuale organizată la Târgu Mureș, în perioada 21-22 mai, de Asociația Inginerilor Constructori Proiectanți de Structuri, președintele Federației Patronatelor Societăților din Construcții, Cristian Erbașu, a adus în prim-plan câteva dintre cele mai sensibile probleme ale industr",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/cristian-erbasu-la-targu-mures-criza-tacuta-din-constructii-nu-mai-poate-fi-ignorata/",
-    "source": "Zi de Zi",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 13:47:00 +0000"
-  },
-  {
-    "title": "Leonard Azamfirei: „România are nevoie de diaspora medicală” – apel pentru reconectarea medicilor români din Marea Britanie cu sistemul medical din țară",
-    "snippet": "Rectorul Universității de Medicină, Farmacie, Științe și Tehnologie „George Emil Palade” din Târgu Mureș, Leonard Azamfirei, a participat, la invitația Ambasadei României la Londra și a ambasadorului Laura Popescu, la evenimentul dedicat diasporei medicale românești, organizat în capitala Marii Brit",
-    "url": "https://punctul.ro/leonard-azamfirei-romania-are-nevoie-de-diaspora-medicala-apel-pentru-reconectarea-medicilor-romani-din-marea-britanie-cu-sistemul-medical-din-tara/",
-    "source": "Punctul",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:05:00 +0000"
-  },
-  {
-    "title": "Noaptea Muzeelor, și la ART3 Café din Târgu Mureș",
-    "snippet": "Pe 23 mai, ART3 Café din Târgu Mureș devine punctul de întâlnire dintre artă, oameni și noaptea orașului. ”Împreună cu Noaptea Muzeelor 2026, vă invităm la expoziția „Nașterea”, organizată de Asociația Miszk o intervenție artistică despre începuturi, transformare și prezență. Expoziția poate fi vizi",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/noaptea-muzeelor-si-la-art3-cafe-din-targu-mures/",
-    "source": "Zi de Zi",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 07:08:00 +0000"
-  },
-  {
-    "title": "Hungaroring se redeschide după cea mai mare renovare din istoria sa. Circuitul de Formula 1 devine un complex multifuncțional modern",
-    "snippet": "Circuitul Hungaroring din Mogyoród, gazda Marelui Premiu al Ungariei de Formula 1, și-a redeschis oficial porțile după finalizarea celui mai amplu proiect de modernizare din istoria sa. Lucrările, începute în 2023 și accelerate după ediția din 2024 a Grand Prix-ului, au transformat complet infrastru",
-    "url": "https://punctul.ro/hungaroring-se-redeschide-dupa-cea-mai-mare-renovare-din-istoria-sa-circuitul-de-formula-1-devine-un-complex-multifunctional-modern/",
-    "source": "Punctul",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 08:00:00 +0000"
-  },
-  {
-    "title": "Centrala de la Iernut trebuie finalizată până la 31 decembrie",
-    "snippet": "Guvernul României a aprobat azi un memorandum prin care declară stare de extremă urgență pentru finalizarea și punerea în funcțiune a centralei termoelectrice cu ciclu combinat cu turbine cu gaze de la Iernut, județul Mureș, obiectiv de investiții al Romgaz cu o putere instalată de 430 MW. Documentu",
-    "url": "https://www.tirnaveni.ro/centrala-de-la-iernut-trebuie-finalizata-pana-la-31-decembrie/",
-    "source": "Tirnaveni.ro",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:00:00 +0000"
-  },
-  {
-    "title": "Activități preventive organizate în mai multe școli mureșene",
-    "snippet": "Polițiștii Inspectoratului de Poliție Județean Mureș au continuat, în perioada 19-22 mai, activitățile preventive desfășurate în sistem integrat, dedicate creșterii gradului de siguranță în unitățile de învățământ și zonele adiacente acestora. În acest sens, la data de 19 mai, polițiștii Biroului Si",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/activitati-preventive-organizate-in-mai-multe-scoli-muresene/",
-    "source": "Zi de Zi",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 06:29:00 +0000"
-  },
-  {
-    "title": "Șoferii din Sibiu, supravegheați de primul radar fix. Deocamdată fără amenzi, dar sistemul se extinde",
-    "snippet": "Primăria Sibiu a instalat primul sistem radar fix de monitorizare a traficului din municipiu, amplasat pe Șoseaua Alba Iulia, în zona intersecției cu strada Vasile Cârlova, considerată unul dintre cele mai circulate și problematice puncte ale orașului din perspectiva siguranței rutiere. Instalarea f",
-    "url": "https://punctul.ro/soferii-din-sibiu-supravegheati-de-primul-radar-fix-deocamdata-fara-amenzi-dar-sistemul-se-extinde/",
-    "source": "Punctul",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 07:00:00 +0000"
-  },
-  {
-    "title": "FOTO: Atelier de investigații criminale, la Congresul ”Marisiensis”",
-    "snippet": "Polițiști ai Serviciului Criminalistic și ai Serviciului de Investigații Criminale din cadrul Inspectoratului de Poliție Județean Mureș au participat la o activitate practică organizată în cadrul Congresului Științific Internațional ”Marisiensis”, eveniment desfășurat recent la Târgu Mureș. Activita",
-    "url": "https://www.zi-de-zi.ro/2026/05/23/foto-atelier-de-investigatii-criminale-la-congresul-marisiensis/",
-    "source": "Zi de Zi",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 05:54:00 +0000"
-  },
-  {
-    "title": "Cum se face borșul de casă și care sunt pașii esențiali pentru o ciorbă acră reușită",
-    "snippet": "Borșul de casă rămâne una dintre cele mai folosite soluții pentru a acri ciorbele, iar prepararea lui se bazează pe fermentarea tărâțelor de grâu. Potrivit informațiilor publicate de Știrile ProTV, lichidul obținut astfel este folosit tradițional la ciorbe de legume, de pui sau de perișoare și poate",
-    "url": "https://punctul.ro/cum-se-face-borsul-de-casa-si-care-sunt-pasii-esentiali-pentru-o-ciorba-acra-reusita/",
-    "source": "Punctul",
-    "lang": "ro",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 06:00:00 +0000"
-  },
-  {
-    "title": "Ludușeancă de 100 de ani felicitată de primar",
-    "snippet": "Primarul Orașului Luduș, Cristian Moldovan, a felicitat-o marți, 20 ianuarie, pe Szabo Emilia, la împlinirea venerabilei vârste de 100 de ani. ”Am sărbătorit-o cu respect și emoție pe doamna Szabo Emilia, care a împlinit frumoasa vârstă de 100 de ani. Un secol de experiențe, amintiri și lecții de vi",
-    "url": "https://www.zi-de-zi.ro/2026/01/22/luduseanca-de-100-de-ani-felicitata-de-primar/",
+    "title": "Proiecția filmului „Cravata Galbenă” la Reghin, în prezența regizorului Serge Ioan Celebidachi",
+    "snippet": "O proiecție specială a filmului „Cravata Galbenă” va avea loc vineri, 12 decembrie, ora 18:30, în prezența regizorului Serge Ioan Celebidachi și a producătoarei Cristina Dobrițoiu, cu ocazia inaugurării noului Cinematograf Patria din Reghin. Publicul din Reghin se va bucura de o dublă ocazie, vizion",
+    "url": "https://www.zi-de-zi.ro/2025/12/10/proiectia-filmului-cravata-galbena-la-reghin-in-prezenta-regizorului-serge-ioan-celebidachi/",
     "source": "zi-de-zi.ro",
     "lang": "ro",
     "scope": "city",
-    "date": "Thu, 22 Jan 2026 11:33:00 +0000"
+    "date": "Wed, 10 Dec 2025 14:30:00 +0000"
   },
   {
-    "title": "VIDEO: 15 percheziții și trei rețineri în Mureș",
-    "snippet": "În cadrul operațiunii Jupiter, sub coordonarea Parchetului de pe lângă Înalta Curte de Casație și Justiție și Inspectoratului General al Poliției Române, marți, 4 noiembrie 2025, polițiștii Serviciului de Ordine Publică din cadrul Inspectoratului de Poliție Județean Mureș, sub supravegherea procuror",
-    "url": "https://www.zi-de-zi.ro/2025/11/04/video-15-perchezitii-si-trei-retineri-in-mures/",
+    "title": "Incendiu în Reghin",
+    "snippet": "Pompierii militari au fost solicitați în această dimineață să intervină pentru stingerea unui incendiu produs la o casă de locuit situată pe strada Salcâmilor din municipiul Reghin. La fața locului au fost mobilizate două autospeciale de stingere cu apă și spumă din cadrul Detașamentului de Pompieri",
+    "url": "https://www.zi-de-zi.ro/2025/12/05/incendiu-in-reghin/",
     "source": "zi-de-zi.ro",
     "lang": "ro",
     "scope": "city",
-    "date": "Tue, 04 Nov 2025 13:58:31 +0000"
-  },
-  {
-    "title": "Cercetări pentru vătămare corporală din culpă",
-    "snippet": "La data de 22 octombrie 2025, în cursul serii, Poliția orașului Luduș a fost sesizată cu privire la faptul că, la o unitate medicală din Luduș, a fost transportată o persoană angajată la o societate comercială din Luduș, cu simptome ale unei posibile intoxicații cu monoxid de carbon. Din verificăril",
-    "url": "https://www.zi-de-zi.ro/2025/10/23/cercetari-pentru-vatamare-corporala-din-culpa/",
-    "source": "zi-de-zi.ro",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Thu, 23 Oct 2025 08:57:00 +0000"
+    "date": "Fri, 05 Dec 2025 08:37:16 +0000"
   },
   {
     "title": "Râpa Lechința",

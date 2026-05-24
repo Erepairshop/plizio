@@ -1,32 +1,5 @@
 [
   {
-    "title": "Nem mindennapi rendezvény a Nyíregyházi Egyetemen: az ország több pontjáról érkeztek hallgatók",
-    "snippet": "A Nyíregyházi Egyetemre az ország több intézményéből hallgatók.",
-    "url": "https://www.szon.hu/helyi-kozelet/2026/05/nyiregyhazi-egyetem-orszagos-hallgatoi-rendezveny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:25:23 +0000"
-  },
-  {
-    "title": "Vadételek, retró slágerek és óriási habparty – nézze végig a tákosi családi nap képeit! (fotók)",
-    "snippet": "Családi nap Tákoson.",
-    "url": "https://www.szon.hu/helyi-kozelet/2026/05/csaladi-es-gyermeknap-takoson-fotok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:45:32 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.szon.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
     "title": "Lezárták az M3-as autópályát Nyíregyházánál, összeütközött egy kisbusz és egy autó",
     "snippet": "A Vásárosnamény felé vezető oldalon.",
     "url": "https://index.hu/belfold/2026/01/29/nyiregyhaza-m3-as-autopalya-baleset-vasarosnameny/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 30 Apr 2026 09:07:20 +0000"
-  },
-  {
-    "title": "Önkormányzati szabályzatok",
-    "snippet": "Önkormányzati szabályzatok",
-    "url": "https://vasarosnameny.hu/onkormanyzat/onkormanyzati-szabalyzatok",
-    "source": "vasarosnameny.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Húszmilliárd forint értékben bővíti magyarországi gyártási kapacitásait a svájci faipari vállalat",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 21 Nov 2025 18:24:00 +0100"
+  },
+  {
+    "title": "Önkormányzati szabályzatok",
+    "snippet": "Önkormányzati szabályzatok",
+    "url": "https://vasarosnameny.hu/onkormanyzat/onkormanyzati-szabalyzatok",
+    "source": "vasarosnameny.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Megkéselték a biztonságiak főnökét a vásárosnaményi fesztiválon, a vádlottak állítják, hogy ők csak védekeztek",

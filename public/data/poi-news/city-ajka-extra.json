@@ -1,32 +1,5 @@
 [
   {
-    "title": "Így alakul a hulladékszállítás pünkösdhétfőn",
-    "snippet": "Magyarországon a pünkösdhétfő hivatalos munkaszüneti nap, így változhat a hulladékszállítás menete.",
-    "url": "https://www.veol.hu/helyi-kozelet/2026/05/hulladekszallitas-punkosdhetfon-deponia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "VEOL Veszprém Vármegyei Hírportál (Ajka)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
-    "title": "A poszméhek társas tanulási képességei a kutatókat is meglepték",
-    "snippet": "A poszméhek egymástól olyan viselkedést tanulhatnak, amit eddig csak emberi tulajdonságnak hittek.",
-    "url": "https://www.veol.hu/helyi-kozelet/2026/05/poszmehek-tanulasi-kepessege-tarsas-tanulas-kiserlet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "VEOL Veszprém Vármegyei Hírportál (Ajka)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:00 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.veol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "VEOL Veszprém Vármegyei Hírportál (Ajka)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
     "title": "Május 30-án újraindul a másfél éve lezárt Ajka-Veszprém közötti szakaszon a vonatközlekedés",
     "snippet": "Így a Székesfehérvár–Szombathely transzeurópai fővonal végre újra teljes hosszában járható lesz.",
     "url": "https://444.hu/2026/05/20/majus-30-an-ujraindul-a-masfel-eve-lezart-ajka-veszprem-kozotti-szakaszon-a-vonatkozlekedes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 20 May 2026 09:40:18 +0000"
-  },
-  {
-    "title": "Pályázati kiírás",
-    "snippet": "Ajka Város Önkormányzata Képviselő-testülete pályázatot ír ki az Ajka 1318 hrsz-ú, „kivett zeneiskola” megnevezésű, 5288 m2 térmértékű belterületi ingatlan 1/1 tulajdoni illetőségének, az Ajka 1319 hrsz-ú, „kivett beépítetlen terület” megnevezésű, 5024 m2 térmértékű belterületi ingatlan 1/1 tulajdon",
-    "url": "https://www.ajka.hu/?p=12266",
-    "source": "ajka.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 15 May 2026 08:17:55 +0000"
   },
   {
     "title": "A Honvéd nagy pofont kapott a végére, a Vasas lett az NB II bajnoka",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 19 Apr 2026 17:57:44 +0000"
+  },
+  {
+    "title": "Pályázati kiírás",
+    "snippet": "Ajka Város Önkormányzata Képviselő-testülete pályázatot ír ki az Ajka 1318 hrsz-ú, „kivett zeneiskola” megnevezésű, 5288 m2 térmértékű belterületi ingatlan 1/1 tulajdoni illetőségének, az Ajka 1319 hrsz-ú, „kivett beépítetlen terület” megnevezésű, 5024 m2 térmértékű belterületi ingatlan 1/1 tulajdon",
+    "url": "https://www.ajka.hu/?p=12266",
+    "source": "ajka.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 15 May 2026 08:17:55 +0000"
   },
   {
     "title": "Túl későn kapott sebészeti ellátást és meghalt egy nő, 540 ezer forintos pénzbírságot kapott három orvos",
@@ -268,5 +241,32 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 02 Feb 2026 09:59:57 +0000"
+  },
+  {
+    "title": "Lakossági tájékoztató a kommunális adóról",
+    "snippet": "Tájékoztatom Ajka város lakosságát, hogy Ajka Város Önkormányzata Képviselő-testülete a magánszemélyek kommunális adójáról új önkormányzati rendeletet alkotott, mely alapján 2026. január 1. napjától jelentős változások történtek a kommunális adót érintően: Bővebben",
+    "url": "https://www.ajka.hu/?p=11709",
+    "source": "ajka.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 02 Feb 2026 08:42:50 +0000"
+  },
+  {
+    "title": "A Kúria határozata",
+    "snippet": "A KÚRIA Önkormányzati Tanácsának h a t á r o z a t a. Bővebben",
+    "url": "https://www.ajka.hu/?p=11173",
+    "source": "ajka.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Mon, 10 Nov 2025 07:30:39 +0000"
+  },
+  {
+    "title": "Felhívás újdörögdi gyakorló- és lőtéren zajló katonai tevékenységről",
+    "snippet": "Az MHB Böszörményi Géza Csapatgyakorlótér Parancsnokság kezelésében lévő honvédségi területeken az alábbi időpontok között is engedélyezett az éles és vaklőszeres lövészet. Bővebben",
+    "url": "https://www.ajka.hu/?p=10016",
+    "source": "ajka.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 28 Oct 2025 13:20:14 +0000"
   }
 ]

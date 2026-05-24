@@ -3,9 +3,9 @@
     "title": "Kunstrasenplatz in Frankenberg fällt aus Fördertopf",
     "snippet": "Die Stadt Frankenberg erhält kein Geld aus dem Bundesprogramm für den geplanten Kunstrasenplatz. Das Förderprogramm sei „völlig überzeichnet\", sagte Bürgermeisterin Barbara Eckes.",
     "url": "https://www.hna.de/lokales/frankenberg/frankenberg-eder-ort305273/kunstrasenplatz-in-frankenberg-faellt-aus-foerdertopf-94319289.html",
-    "source": "Hessische/Niedersächsische Allgemeine (HNA)",
+    "source": "HNA",
     "lang": "de",
-    "scope": "city",
+    "scope": "state",
     "date": "Sun, 24 May 2026 07:00:00 +0200"
   },
   {
@@ -36,6 +36,15 @@
     "date": "Mon, 18 May 2026 07:10:56 GMT"
   },
   {
+    "title": "Kommunalwahl-Ergebnisse 2026: So hat Frankenberg (Eder) gewählt - hessenschau.de",
+    "snippet": "Kommunalwahl-Ergebnisse 2026: So hat Frankenberg (Eder) gewählt hessenschau.de",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1MtLXA2S1FEcjNXNW85RXBsbjJQSWpHVUs2MlA4ZUdfaGFzaVlmaFk1X19QRDBhYm8zcjdKdEU1akJwWGZPUE5XTm0zUEJKNmgzaTEzUWpZQ19sOEF6ekx1ZElGeTlrcHpvNTJ0SHM3TG9tYUxjUUY0WmhhaDBlY1Q2R1VRa0JZUDBMUzhreEl6UE1aNGwwZXVHV3RlcWpXdFBDNVljMEowY0x3NFFldWlrWW1ENkgxVUxVVG9TejlIU01Rb0lTZkE2REUwdFZjckFjMzlYUjN3cXJl?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Thu, 12 Mar 2026 07:00:00 GMT"
+  },
+  {
     "title": "Standortprofil Frankenberg (Eder): Wirtschaft und die größten Unternehmen - Die Deutsche Wirtschaft",
     "snippet": "Standortprofil Frankenberg (Eder): Wirtschaft und die größten Unternehmen Die Deutsche Wirtschaft",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zZlR5WkUyUmZRSnEzWUxmMmpuUUpqZmljaER2UUVuMFNjVElaSTY5c2ZnX3VIa1d5SmtSUnUxVW1pR2FZUkZYYjhHSnUtNGRUMy1CVnpKdTRMeHlJMjhzbFN3YTVuSWVsS2ZLWjVR?oc=5",
@@ -52,14 +61,5 @@
     "lang": "de",
     "scope": "search",
     "date": "Fri, 15 May 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Kommunalwahl-Ergebnisse 2026: So hat Frankenberg (Eder) gewählt - hessenschau.de",
-    "snippet": "Kommunalwahl-Ergebnisse 2026: So hat Frankenberg (Eder) gewählt hessenschau.de",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1MtLXA2S1FEcjNXNW85RXBsbjJQSWpHVUs2MlA4ZUdfaGFzaVlmaFk1X19QRDBhYm8zcjdKdEU1akJwWGZPUE5XTm0zUEJKNmgzaTEzUWpZQ19sOEF6ekx1ZElGeTlrcHpvNTJ0SHM3TG9tYUxjUUY0WmhhaDBlY1Q2R1VRa0JZUDBMUzhreEl6UE1aNGwwZXVHV3RlcWpXdFBDNVljMEowY0x3NFFldWlrWW1ENkgxVUxVVG9TejlIU01Rb0lTZkE2REUwdFZjckFjMzlYUjN3cXJl?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Thu, 12 Mar 2026 07:00:00 GMT"
   }
 ]

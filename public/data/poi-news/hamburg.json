@@ -9,6 +9,15 @@
     "date": "Sun, 24 May 2026 06:43:00 GMT"
   },
   {
+    "title": "Hamburg: Früherer Pastor in Ochsenwerder soll Jugendlichen zur Prostitution gedrängt haben",
+    "snippet": "Ein Vater bietet seinen minderjährigen Sohn zum Missbrauch an – und ein Pastor aus Hamburg soll dafür bezahlt haben. Das Landgericht hat den 64-Jährigen nun verurteilt.",
+    "url": "https://www.spiegel.de/panorama/justiz/hamburg-frueherer-pastor-in-ochsenwerder-soll-jugendlichen-zur-prostitution-gedraengt-haben-a-7632e85d-a63e-4da4-b138-7b7646ed3b65#ref=rss",
+    "source": "spiegel.de",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 09:29:00 +0200"
+  },
+  {
     "title": "Tennis in Hamburg: Ignacio Buse überrascht mit Turniersieg am Rothenbaum",
     "snippet": "Der Qualifikant aus Peru gewinnt das Finale gegen den Amerikaner Tommy Paul in drei Sätzen. Im Doppel bejubeln die Fans in der Hansestadt einen deutschen Sieg.",
     "url": "https://www.tagesspiegel.de/sport/tennis-in-hamburg-ignacio-buse-uberrascht-mit-turniersieg-am-rothenbaum-15633873.html",
@@ -27,12 +36,21 @@
     "date": "Sun, 24 May 2026 06:40:00 +0200"
   },
   {
-    "title": "Liveticker: Sperrung der Bahnstrecke Hannover–Hamburg ab Mai 2026 – Umleitungen, SEV, Tickets",
-    "snippet": "Die Bahnstrecke Hannover–Hamburg ist seit 1. Mai wegen umfangreicher Sanierungsarbeiten zwischen Hannover und Uelzen für den Personenverkehr gesperrt. In unserem Liveticker finden Sie aktuelle Infos zu Ersatzverkehr, Verspätungen und Umleitungen sowie praktische Hinweise für Pendler und Reisende.",
-    "url": "https://www.neuepresse.de/lokales/hannover/liveticker-sperrung-der-bahnstrecke-hannover-hamburg-ab-mai-2026-umleitungen-sev-tickets-YTUM3UT5RBEXHG3NXW2SPUQFTM.html",
+    "title": "Streckensperrung Hamburg-Hannover: Auswirkungen auf Geschäfte und Kiosks im Bahnhof",
+    "snippet": "Die Bahn-Baustelle zwischen Hamburg und Hannover bringt nicht nur den Fahrplan durcheinander – sie betrifft auch viele Unternehmer. Wie ein Bahnhofskiosk und ein Restaurant mit den veränderten Pendlerströmen leben.",
+    "url": "https://www.neuepresse.de/der-norden/streckensperrung-hamburg-hannover-auswirkungen-auf-geschaefte-und-kiosks-im-bahnhof-4BPTSRLVDBAH3CQJ4ZAZWG3TWA.html",
     "source": "Neue Presse Hannover",
     "lang": "de",
     "scope": "city",
+    "date": "Sun, 24 May 2026 08:51:56 +0200"
+  },
+  {
+    "title": "Liveticker: Sperrung der Bahnstrecke Hannover–Hamburg ab Mai 2026 – Umleitungen, SEV, Tickets",
+    "snippet": "Die Bahnstrecke Hannover–Hamburg ist seit 1. Mai wegen umfangreicher Sanierungsarbeiten zwischen Hannover und Uelzen für den Personenverkehr gesperrt. In unserem Liveticker finden Sie aktuelle Infos zu Ersatzverkehr, Verspätungen und Umleitungen sowie praktische Hinweise für Pendler und Reisende.",
+    "url": "https://www.haz.de/der-norden/liveticker-sperrung-der-bahnstrecke-hannover-hamburg-ab-mai-2026-umleitungen-sev-tickets-YTUM3UT5RBEXHG3NXW2SPUQFTM.html",
+    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
+    "lang": "de",
+    "scope": "region",
     "date": "Sun, 24 May 2026 08:56:47 +0200"
   },
   {
@@ -63,24 +81,6 @@
     "date": "Sun, 24 May 2026 05:02:37 +0000"
   },
   {
-    "title": "Hamburger Ärzte und Krankenkassen streiten erbittert über Termine",
-    "snippet": "Eine neue App könnte die Abläufe durcheinanderwirbeln. Ärzte: „Lassen uns nicht vorschreiben, wann und an wen wir Termine vergeben.“ Warnung vor steigender Krebsrate.",
-    "url": "https://www.abendblatt.de/hamburg/politik/article412005536/hamburg-aerzte-und-krankenkassen-liegen-in-erbittertem-streit-um-termine-fuer-patienten-1.html",
-    "source": "Hamburger Abendblatt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 09:39:34 +0200"
-  },
-  {
-    "title": "Streckensperrung Hamburg-Hannover: Auswirkungen auf Geschäfte und Kiosks im Bahnhof",
-    "snippet": "Die Bahn-Baustelle zwischen Hamburg und Hannover bringt nicht nur den Fahrplan durcheinander – sie betrifft auch viele Unternehmer. Wie ein Bahnhofskiosk und ein Restaurant mit den veränderten Pendlerströmen leben.",
-    "url": "https://www.neuepresse.de/der-norden/streckensperrung-hamburg-hannover-auswirkungen-auf-geschaefte-und-kiosks-im-bahnhof-4BPTSRLVDBAH3CQJ4ZAZWG3TWA.html",
-    "source": "Neue Presse Hannover",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 08:51:56 +0200"
-  },
-  {
     "title": "Mega-ZOB in Harburg – so schön wird das Bauwerk am Bahnhof",
     "snippet": "Hamburgs modernster Busbahnhof nimmt sichtbar Gestalt an. Wann hier wieder Busse ankommen und abfahren, wie hoch die Kosten inzwischen sind.",
     "url": "https://www.abendblatt.de/hamburg/harburg/article412070396/mega-zob-in-harburg-so-schoen-wird-das-bauwerk-am-bahnhof.html",
@@ -90,13 +90,13 @@
     "date": "Sun, 24 May 2026 08:50:00 +0200"
   },
   {
-    "title": "Hamburg: Früherer Pastor in Ochsenwerder soll Jugendlichen zur Prostitution gedrängt haben",
-    "snippet": "Ein Vater bietet seinen minderjährigen Sohn zum Missbrauch an – und ein Pastor aus Hamburg soll dafür bezahlt haben. Das Landgericht hat den 64-Jährigen nun verurteilt.",
-    "url": "https://www.spiegel.de/panorama/justiz/hamburg-frueherer-pastor-in-ochsenwerder-soll-jugendlichen-zur-prostitution-gedraengt-haben-a-7632e85d-a63e-4da4-b138-7b7646ed3b65#ref=rss",
-    "source": "spiegel.de",
+    "title": "BMW schleudert von der Fahrbahn und landet samt VW Golf in Vorgarten",
+    "snippet": "Der Fahrer stand offenbar unter Alkoholeinfluss. Er und seine Beifahrerin haben bei dem Unfall allerdings viel Glück.",
+    "url": "https://www.abendblatt.de/hamburg/article412081632/unfall-in-hamburg-bmw-schleudert-von-der-fahrbahn-und-landet-samt-vw-golf-in-vorgarten.html",
+    "source": "Hamburger Abendblatt",
     "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 09:29:00 +0200"
+    "scope": "city",
+    "date": "Sun, 24 May 2026 07:49:48 +0200"
   },
   {
     "title": "BPOL-HH: Hamburg Hauptbahnhof: Sieben abgestellte Gegenstände verursachen umfangreichen Einsatz der Bundespolizei",
@@ -117,13 +117,13 @@
     "date": "Fri, 22 May 2026 06:52:25 GMT"
   },
   {
-    "title": "Abschied von „Tarzan“ in Hamburg: Mit Alexander Klaws? Oder Philipp Büttner?",
-    "snippet": "Eine Rolle, zwei tolle Darsteller: Bis zum Finale des Musicals in der Neuen Flora sind beide zu erleben. Bei wem lohnt sich ein letzter Besuch?",
-    "url": "https://www.abendblatt.de/hamburg/kultur/article410948189/abschied-von-tarzan-in-hamburg-mit-alexander-klaws-oder-philipp-buettner-1.html",
+    "title": "Schwanger in Hamburg: Erstes Hebammenzentrum in kinderreichem Bezirk eröffnet",
+    "snippet": "Beratung, Kurse, Vor- und Nachsorge: Frauen und Familien sollen vor und nach der Geburt begleitet werden. Versorgungslücke wird geschlossen.",
+    "url": "https://www.abendblatt.de/hamburg/politik/article412061664/schwangerschaft-hamburg-erstes-hebammenzentrum-in-kinderreichem-bezirk-eroeffnet-2.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 09:27:31 +0200"
+    "date": "Sat, 23 May 2026 08:53:41 +0200"
   },
   {
     "title": "„So geht’s nicht weiter“ – der DOSB-Chef über den nötigen Wandel durch Olympia",
@@ -144,24 +144,6 @@
     "date": "Fri, 22 May 2026 13:09:26 GMT"
   },
   {
-    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
-    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.dnn.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "DNN",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:41:26 +0200"
-  },
-  {
-    "title": "„Ich bin gerast durch dieses Leben!“ Auf den Spuren von Udo Lindenberg in Hamburg unterwegs",
-    "snippet": "Happy Birthday Udo Lindenberg! Eine Schau im Hamburger Stilwerk lädt zu einer Zeitreise durch das wilde Leben von Udo Lindenberg ein. Willkommen im Udoversum!",
-    "url": "https://www.augsburger-allgemeine.de/reise/80-geburtstag-willkommen-im-udoversum-eine-interessante-ausstellung-in-hamburg-zeigt-das-leben-von-udo-lindenberg-114163898",
-    "source": "Augsburger Allgemeine — more sections",
-    "lang": "de",
-    "scope": "state",
-    "date": "2026-05-21T09:20:00Z"
-  },
-  {
     "title": "Parken in Hamburg wird deutlich teurer",
     "snippet": "In Hamburg werden Parkgebühren erhöht und Parkscheine abgeschafft. Die Stadt nennt höhere Preise fair. Der ADAC hat Kritik. The post Parken in Hamburg wird deutlich teurer appeared first on FINK.HAMBURG .",
     "url": "https://fink.hamburg/2026/05/parken-in-hamburg-wird-deutlich-teurer/",
@@ -169,6 +151,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 21 May 2026 14:48:23 +0000"
+  },
+  {
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.dnn.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "DNN",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
   },
   {
     "title": "Von Hamburg in die Prignitz – Bürgermeister Axel Schmidt begrüßt Johannes Kröger als neuen Gewerbetreibenden in Rosenhagen",
@@ -198,15 +189,6 @@
     "date": "Sat, 23 May 2026 01:36:21 +0000"
   },
   {
-    "title": "Ferienangebot: Freie Plätze in der Jugendfahrt nach Hamburg",
-    "snippet": "Für die Jugendfahrt nach Hamburg gibt es noch freie Plätze. Unter dem Titel „Moin Hamburg – Auf den Spuren einer lebenswerten Stadt“ erwartet Jugendliche ab 14 Jahren ein Programm-Mix aus Politischer Bildung, Kultur und Freizeit. Die Fahrt findet in den Sommerferien vom 5. bis 10. Juli statt. Eine A",
-    "url": "https://www.marburg.de/portal/meldungen/ferienangebot-freie-plaetze-in-der-jugendfahrt-nach-hamburg-900013396-23001.html?rubrik=900000004",
-    "source": "Marburg (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:55:00 +0200"
-  },
-  {
     "title": "Lego-Rivale BlueBrixx eröffnet zweites Geschäft in Hamburg mit Rabattaktion",
     "snippet": "Das bisherige Outlet im City-Center Bergedorf wird zu einem regulären Store umgebaut. Wann eröffnet wird und was im CCB geplant ist.",
     "url": "https://www.abendblatt.de/hamburg/bergedorf/article412071731/lego-rivale-bluebrixx-eroeffnet-zweites-geschaeft-in-hamburg-mit-rabattaktion.html",
@@ -214,6 +196,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 06:45:00 +0200"
+  },
+  {
+    "title": "Ferienangebot: Freie Plätze in der Jugendfahrt nach Hamburg",
+    "snippet": "Für die Jugendfahrt nach Hamburg gibt es noch freie Plätze. Unter dem Titel „Moin Hamburg – Auf den Spuren einer lebenswerten Stadt“ erwartet Jugendliche ab 14 Jahren ein Programm-Mix aus Politischer Bildung, Kultur und Freizeit. Die Fahrt findet in den Sommerferien vom 5. bis 10. Juli statt. Eine A",
+    "url": "https://www.marburg.de/portal/meldungen/ferienangebot-freie-plaetze-in-der-jugendfahrt-nach-hamburg-900013396-23001.html?rubrik=900000004",
+    "source": "Marburg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 11:55:00 +0200"
   },
   {
     "title": "POL-HH: 260522-3. Erledigung der Vermisstenfahndung nach 68-jähriger Frau aus Hamburg-Othmarschen",
@@ -225,13 +216,13 @@
     "date": "Fri, 22 May 2026 23:46:40 +0200"
   },
   {
-    "title": "Schwanger in Hamburg: Erstes Hebammenzentrum in kinderreichem Bezirk eröffnet",
-    "snippet": "Beratung, Kurse, Vor- und Nachsorge: Frauen und Familien sollen vor und nach der Geburt begleitet werden. Versorgungslücke wird geschlossen.",
-    "url": "https://www.abendblatt.de/hamburg/politik/article412061664/schwangerschaft-hamburg-erstes-hebammenzentrum-in-kinderreichem-bezirk-eroeffnet-2.html",
+    "title": "Ernst Deutsch Theater bringt’s: An keiner Privatbühne sonst ist so viel Bewegung",
+    "snippet": "Intendantenduo stellt die neue Spielzeit vor. „Keine Aufstiegsgeschichte“ wird zur Erfolgsgeschichte. Neu: Labor und sehr günstiges Abo-Modell.",
+    "url": "https://www.abendblatt.de/hamburg/kultur/article412068086/ernst-deutsch-theater-so-viel-bewegung-wie-an-keiner-hamburger-privatbuehne.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 08:53:41 +0200"
+    "date": "Sat, 23 May 2026 07:20:00 +0200"
   },
   {
     "title": "Kurz vor dem Untergang",
@@ -268,5 +259,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 21 May 2026 11:45:00 +0200"
+  },
+  {
+    "title": "POL-HH: 260521-1. Zeugenaufruf nach Überfall auf eine Gaststätte in Hamburg-Tonndorf",
+    "snippet": "Hamburg (ots) - Tatzeit: 21.05.2026, 01:00 Uhr Tatort: Hamburg-Tonndorf, Tonndorfer Hauptstraße Vergangene Nacht haben drei Unbekannte eine Gaststätte im Hamburger Stadtteil Tonndorf überfallen. Die Polizei bittet um Hinweise aus der ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/6337/6279395",
+    "source": "Presseportal Polizei-HB",
+    "lang": "de",
+    "scope": "national",
+    "date": "Thu, 21 May 2026 12:55:08 +0200"
   }
 ]

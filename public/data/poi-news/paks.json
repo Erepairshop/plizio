@@ -1,14 +1,5 @@
 [
   {
-    "title": "Az egyik pillanatban újraélesztenek, a másikban szüléshez rohannak – így dolgoznak a Tolna vármegyei mentők",
-    "snippet": "A mentőzés egy életforma, ami nem való mindenkinek.",
-    "url": "https://www.teol.hu/helyi-kozelet/2026/05/mentok-napja-embereletek-empatia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "teol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
     "title": "Kaposváron dől el a bronzérem sorsa",
     "snippet": "Az Atomerőmű SE csapata a bronzéremért lép pályára a férfi kosárlabda NB I/A csoportjában. Atomerőmű SE – Kometa-KVGY Kaposvári KK 77-71 (13-21, 26-22, 22-10, 16-18). A párharc állása 2:2, a bronzérem sorsa május 25-én dől el... The post Kaposváron dől el a bronzérem sorsa first appeared on TelePaks",
     "url": "https://www.telepaks.net/2026/05/23/kaposvaron-dol-el-a-bronzerem-sorsa/#utm_source=rss&utm_medium=rss",
@@ -18,15 +9,6 @@
     "date": "Sat, 23 May 2026 19:29:01 +0000"
   },
   {
-    "title": "Nem jött az érem, de van ok az optimizmusra az ASE-nél",
-    "snippet": "Bár érem nélkül zárta a brandenburgi világkupát az Atomerőmű SE három kenusa, Bedecs Ferenc szerint tanítványai teljesítménye biztató volt.",
-    "url": "https://www.teol.hu/helyi-sport/2026/05/atomeromu-se-brandenburg-vilagkupa-bedecs-ferenc?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "teol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:05:46 +0000"
-  },
-  {
     "title": "Az eltűnt városkép nyomában – Paks és a Tour de Hongrie",
     "snippet": "A napokban fejeződött be a Tour de Hongrie kerékpárverseny, melynek egyik szakaszának látványos befutó-helyszíne volt Paks. Ennek kapcsán visszatekertem az idővonalat, hogy vajon érintette-e már Paksot korábban ez a kerékpárverseny és egyáltalán van-e a városhoz köthető kerékpáros történet a régmúlt",
     "url": "https://www.telepaks.net/2026/05/23/az-eltunt-varoskep-nyomaban-paks-es-a-tour-de-hongrie/#utm_source=rss&utm_medium=rss",
@@ -34,24 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 23 May 2026 09:11:14 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.teol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "teol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
-    "title": "Hirdetmények, közzétételek",
-    "snippet": "Hirdetmények, közzétételek Javaslattételi felhívás – Összetartozásért kitüntetés Tájékoztatás a Humánpolitikai Bizottság pályázatainak döntéséről Felhívás a vállalkozói adatbázisba való bejelentkezéshez Sajtóközlemény a Versenyképes Járások Program keretében elnyert támogatásról Paksi Harmadik Kor E",
-    "url": "https://paks.hu/informaciok/hirdetmenyek/javaslatteteli-felhivas-osszetartozasert-kituntetes.29963",
-    "source": "paks.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "EZT OLVASD EL! – Peter Wohlleben: A ​fák titkos élete",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 14:49:45 +0000"
+  },
+  {
+    "title": "Hirdetmények, közzétételek",
+    "snippet": "Hirdetmények, közzétételek Javaslattételi felhívás – Összetartozásért kitüntetés Tájékoztatás a Humánpolitikai Bizottság pályázatainak döntéséről Felhívás a vállalkozói adatbázisba való bejelentkezéshez Sajtóközlemény a Versenyképes Járások Program keretében elnyert támogatásról Paksi Harmadik Kor E",
+    "url": "https://paks.hu/informaciok/hirdetmenyek/javaslatteteli-felhivas-osszetartozasert-kituntetes.29963",
+    "source": "paks.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Berobbant a törvénygyár, felülvizsgálati hullámról döntött a Tisza-kormány",
@@ -126,15 +99,6 @@
     "date": "Sat, 20 Dec 2025 18:35:00 +0100"
   },
   {
-    "title": "„Tíz másodperc alatt megegyeztünk” – Böde Dániel 40 évesen is Pakson futballozhat",
-    "snippet": "Szeretné megdönteni Végh Zoltán NB I-es rekordját.",
-    "url": "https://index.hu/sport/futball/2026/05/14/nb-i-paks-bode-daniel-szerzodeshosszabbitas/",
-    "source": "index.hu/Paks",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 12:58:00 +0200"
-  },
-  {
     "title": "A bronz még nincs meg, de Bognárral így is hosszabbított a Paks",
     "snippet": "Böde után a hadvezér is a folytatásra szavazott. The post A bronz még nincs meg, de Bognárral így is hosszabbított a Paks first appeared on 24.hu .",
     "url": "https://24.hu/sport/foci/2026/05/15/bognar-gyorgy-paks-szerzodeshosszabbitas/",
@@ -142,6 +106,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 15 May 2026 09:36:50 +0000"
+  },
+  {
+    "title": "„Tíz másodperc alatt megegyeztünk” – Böde Dániel 40 évesen is Pakson futballozhat",
+    "snippet": "Szeretné megdönteni Végh Zoltán NB I-es rekordját.",
+    "url": "https://index.hu/sport/futball/2026/05/14/nb-i-paks-bode-daniel-szerzodeshosszabbitas/",
+    "source": "index.hu/Paks",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 12:58:00 +0200"
   },
   {
     "title": "Böde csereként is lesújtott kétszer, kiütéssel nyert a Paks",
@@ -171,15 +144,6 @@
     "date": "Sat, 26 Mar 2022 21:07:00 +0100"
   },
   {
-    "title": "Fölényes paksi győzelem a Loki ellen, már dobogós Bognár György csapata",
-    "snippet": "Kétszer is egyenlítettek a vendégek, mindhiába.",
-    "url": "https://index.hu/sport/futball/2026/05/03/paks-debrecen-labdarugo-nb-i-2025-2026-magyar-bajnoksag/",
-    "source": "index.hu/Paks",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 03 May 2026 16:00:00 +0200"
-  },
-  {
     "title": "„Tíz másodperc alatt megegyeztünk, mert szeretek focizni” – szerződést hosszabbított Böde Dániel Pakson",
     "snippet": "Illés Bélát vette célba a Paks csatára. The post „Tíz másodperc alatt megegyeztünk, mert szeretek focizni” – szerződést hosszabbított Böde Dániel Pakson first appeared on 24.hu .",
     "url": "https://24.hu/sport/foci/2026/05/14/nb1-paks-bode-daniel-hosszabbitas/",
@@ -187,6 +151,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 14 May 2026 11:18:46 +0000"
+  },
+  {
+    "title": "Fölényes paksi győzelem a Loki ellen, már dobogós Bognár György csapata",
+    "snippet": "Kétszer is egyenlítettek a vendégek, mindhiába.",
+    "url": "https://index.hu/sport/futball/2026/05/03/paks-debrecen-labdarugo-nb-i-2025-2026-magyar-bajnoksag/",
+    "source": "index.hu/Paks",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 03 May 2026 16:00:00 +0200"
   },
   {
     "title": "Az Újpest a Paks otthonában aratott bravúros győzelmet",
@@ -198,15 +171,6 @@
     "date": "Sun, 31 Mar 2024 17:41:00 +0200"
   },
   {
-    "title": "Debrecenben botlott, mégis lépett egyet a bajnoki cím felé a Győr",
-    "snippet": "A zöld-fehér rangadót megnyerő Fradi hátránya egy pontra csökkent két körrel a vége előtt.",
-    "url": "https://index.hu/sport/futball/2026/04/26/labdarugo-nb-i-31.-fordulo-ferencvaros-paks-debrecen-gyor/",
-    "source": "index.hu/Paks",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 26 Apr 2026 18:57:00 +0200"
-  },
-  {
     "title": "Csak Böde csapta nyakon a védőt, de a Paks nem okozott gondot a Fradinak",
     "snippet": "Joseph két góljával győzött a címvédő. The post Csak Böde csapta nyakon a védőt, de a Paks nem okozott gondot a Fradinak first appeared on 24.hu .",
     "url": "https://24.hu/sport/foci/2026/04/26/nb1-ftc-paks-szalai-gabor-bode-daniel/",
@@ -214,6 +178,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 26 Apr 2026 17:22:50 +0000"
+  },
+  {
+    "title": "Debrecenben botlott, mégis lépett egyet a bajnoki cím felé a Győr",
+    "snippet": "A zöld-fehér rangadót megnyerő Fradi hátránya egy pontra csökkent két körrel a vége előtt.",
+    "url": "https://index.hu/sport/futball/2026/04/26/labdarugo-nb-i-31.-fordulo-ferencvaros-paks-debrecen-gyor/",
+    "source": "index.hu/Paks",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 26 Apr 2026 18:57:00 +0200"
   },
   {
     "title": "Mezőkövesdi győzelmével ismét élre állt a Paks",
@@ -265,6 +238,33 @@
     "snippet": "Egy felborult autóhoz riasztották a tűzoltókat Paks közelébe",
     "url": "https://www.teol.hu/helyi-kek-hirek/2026/05/egy-felborult-autohoz-riasztottak-a-tuzoltokat-paks-kozelebe",
     "source": "teol.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Felborult egy autó Paks közelében",
+    "snippet": "Felborult egy autó Paks közelében",
+    "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/88378",
+    "source": "katasztrofavedelem.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Felborult egy autó Paks közelében",
+    "snippet": "Felborult egy autó Paks közelében",
+    "url": "https://webradio.hu/hirek/kek-hirek/felborult-egy-auto-paks-kozeleben",
+    "source": "webradio.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Idén is részt vesz Paks a Virágos Magyarország versenyben",
+    "snippet": "Idén is részt vesz Paks a Virágos Magyarország versenyben",
+    "url": "https://tolnamegyeihirek.hu/iden-is-reszt-vesz-paks-a-viragos-magyarorszag-versenyben/",
+    "source": "tolnamegyeihirek.hu (hivatalos)",
     "lang": "hu",
     "scope": "city",
     "date": ""

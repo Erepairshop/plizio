@@ -135,7 +135,7 @@ async function loadFullPois(): Promise<POI[]> {
   return out;
 }
 const pois: POI[] = await loadFullPois();
-type Lang = "de" | "hu" | "ro" | "en" | "fr";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
 
 const SITE_URL = "https://plizio.com";
 
@@ -147,6 +147,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Obiective turistice", "Hartă", "Vremea", "Știri", "Istorie"],
     en: ["Sights", "Map", "Weather", "News", "History"],
     fr: ["Sites touristiques", "Carte", "Météo", "Actualités", "Histoire"],
+    tr: ["Gezilecek yerler", "Harita", "Hava durumu", "Haberler", "Tarih"],
   },
   castle: {
     de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
@@ -154,6 +155,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Castel", "Istorie", "Hartă", "Fotografii", "Vremea"],
     en: ["Castle", "History", "Map", "Photos", "Weather"],
     fr: ["Château", "Histoire", "Carte", "Photos", "Météo"],
+    tr: ["Kale", "Tarih", "Harita", "Fotoğraflar", "Hava durumu"],
   },
   mountain: {
     de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
@@ -161,6 +163,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Drumeții", "Hartă", "Vremea", "Fotografii", "Altitudine"],
     en: ["Hiking", "Map", "Weather", "Photos", "Elevation"],
     fr: ["Randonnée", "Carte", "Météo", "Photos", "Altitude"],
+    tr: ["Yürüyüş", "Harita", "Hava durumu", "Fotoğraflar", "Yükseklik"],
   },
   lake: {
     de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
@@ -168,6 +171,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Plaje", "Hartă", "Vremea", "Obiective", "Fotografii"],
     en: ["Beaches", "Map", "Weather", "Sights", "Photos"],
     fr: ["Plages", "Carte", "Météo", "Sites", "Photos"],
+    tr: ["Plajlar", "Harita", "Hava durumu", "Gezilecek yerler", "Fotoğraflar"],
   },
   river: {
     de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
@@ -175,6 +179,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Hartă", "Curs", "Obiective", "Vremea", "Fotografii"],
     en: ["Map", "Course", "Sights", "Weather", "Photos"],
     fr: ["Carte", "Cours", "Sites", "Météo", "Photos"],
+    tr: ["Harita", "Akış", "Gezilecek yerler", "Hava durumu", "Fotoğraflar"],
   },
   historical: {
     de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
@@ -182,6 +187,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Istorie", "Hartă", "Obiective", "Fotografii", "Vizită"],
     en: ["History", "Map", "Sights", "Photos", "Visit"],
     fr: ["Histoire", "Carte", "Sites", "Photos", "Visite"],
+    tr: ["Tarih", "Harita", "Gezilecek yerler", "Fotoğraflar", "Ziyaret"],
   },
   landmark: {
     de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
@@ -189,6 +195,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Obiective", "Hartă", "Fotografii", "Istorie", "Vremea"],
     en: ["Sights", "Map", "Photos", "History", "Weather"],
     fr: ["Sites touristiques", "Carte", "Photos", "Histoire", "Météo"],
+    tr: ["Gezilecek yerler", "Harita", "Fotoğraflar", "Tarih", "Hava durumu"],
   },
   nature: {
     de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
@@ -196,6 +203,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     ro: ["Hartă", "Vremea", "Drumeții", "Fotografii", "Natură"],
     en: ["Map", "Weather", "Hiking", "Photos", "Nature"],
     fr: ["Carte", "Météo", "Randonnée", "Photos", "Nature"],
+    tr: ["Harita", "Hava durumu", "Yürüyüş", "Fotoğraflar", "Doğa"],
   },
 };
 const TYPE_ALIAS: Record<string, string> = {
@@ -242,10 +250,11 @@ function hasIndexableContent(poi: POI): boolean {
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
-  // FR POIs get an extra fr alternate for hreflang signal + lang switcher href.
-  const langs: Lang[] = poi.parent?.startsWith("FR")
-    ? [...SUPPORTED_LANGS, "fr"]
-    : SUPPORTED_LANGS;
+  // FR POIs get an extra fr alternate; DE POIs get an extra tr (Turkish residents).
+  const extra: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
+                     : poi.parent?.startsWith("DE") ? ["tr"]
+                     : [];
+  const langs: Lang[] = [...SUPPORTED_LANGS, ...extra];
   return Object.fromEntries(langs.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
 }
 
@@ -348,8 +357,10 @@ const I18N: Record<string, Partial<Record<Lang, string>>> = {
   nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby" },
 };
 
-const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? k;
-const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? type;
+// Lang fallback: tr → de, fr → en (most strings only have 4 langs filled).
+function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang === "fr" ? "en" : lang; }
+const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
+const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[type]?.[_langFallback(lang)] ?? type;
 
 // Wikipedia lang code for slugify lookup
 const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en" };
@@ -645,6 +656,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     ro: { now: "Acum", forecast: "Prognoză 5 zile", loading: "Vremea…" },
     en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
     fr: { now: "Maintenant", forecast: "Prévisions sur 5 jours", loading: "Météo…" },
+    tr: { now: "Şimdi", forecast: "5 günlük tahmin", loading: "Hava durumu…" },
   };
   const wc = weatherCopy[lang] || weatherCopy.en;
   const weatherHtml = (poi.coords && poi.coords.length >= 2)
@@ -659,6 +671,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     ro: { heading: "Știri recente", via: "via" },
     en: { heading: "Recent News", via: "via" },
     fr: { heading: "Actualités récentes", via: "via" },
+    tr: { heading: "Son haberler", via: "kaynak" },
   };
   const nc = newsCopy[lang] || newsCopy.en;
 
@@ -668,7 +681,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   try {
     const links = (OFFICIAL_LINKS as Record<string, { site?: string; fb?: string }>)[poi.id];
     if (links?.site || links?.fb) {
-      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web" };
+      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web", tr: "Web sitesi" };
       const buttons: string[] = [];
       if (links.site) buttons.push(`<a href="${escapeHtml(links.site)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-site">🌐 ${escapeHtml(siteLabel[lang] || siteLabel.en)}</a>`);
       if (links.fb) buttons.push(`<a href="${escapeHtml(links.fb)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-fb">📘 Facebook</a>`);
@@ -688,6 +701,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         ro: "Evenimentele anului 2026",
         en: "Highlights of 2026",
         fr: "Faits marquants de 2026",
+        tr: "2026'nın öne çıkan olayları",
       };
       const cards = yhItems.map((ev) => {
         const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
@@ -748,10 +762,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
 
-  // Language switcher — show fr only for French POIs (parent starts with FR).
-  const switcherLangs: Lang[] = poi.parent?.startsWith("FR")
-    ? [...SUPPORTED_LANGS, "fr"]
-    : SUPPORTED_LANGS;
+  // Language switcher — show fr only for FR POIs, tr only for DE POIs.
+  const extraSwitcher: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
+                              : poi.parent?.startsWith("DE") ? ["tr"]
+                              : [];
+  const switcherLangs: Lang[] = [...SUPPORTED_LANGS, ...extraSwitcher];
   const langSwitcher = switcherLangs.map((l) => {
     const cls = l === lang ? ' class="active"' : "";
     const href = alternates[l] || buildPoiPath(l, poi);
@@ -856,10 +871,11 @@ async function main() {
   const dirsMade = new Set<string>();
 
   for (const poi of target) {
-    // FR POIs get an additional `fr` page (slugs.ts:extraLangsFor returns ["fr"] for them).
-    const poiLangs: Lang[] = poi.parent?.startsWith("FR")
-      ? [...SUPPORTED_LANGS, "fr"]
-      : SUPPORTED_LANGS;
+    // FR POIs get an additional `fr` page; DE POIs get an additional `tr` page.
+    const extraPoi: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
+                          : poi.parent?.startsWith("DE") ? ["tr"]
+                          : [];
+    const poiLangs: Lang[] = [...SUPPORTED_LANGS, ...extraPoi];
     for (const lang of poiLangs) {
       const url = buildPoiPath(lang, poi);
       // URL like /de/oesterreich/wien/foo/ → relative path de/oesterreich/wien/foo

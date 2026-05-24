@@ -1,32 +1,5 @@
 [
   {
-    "title": "A rangadók rangadója, és bajnoki cím után az edző a büszkeségről is beszélt",
-    "snippet": "Küzdelemben nem volt hiány.",
-    "url": "https://www.boon.hu/helyi-sport/2026/05/sarospatak-erdohorvati-varmegyei-foci-kelet-csoport?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
-    "title": "Nem unatkoztak a diósgyőri polgárőrök: több riasztás is érkezett egy este alatt",
-    "snippet": "A közrend fenntartása mellett több esetben is segítséget nyújtottak a diósgyőri polgárőrök.",
-    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/polgaror-diosgyor-szolgalat-majus-22?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:20:00 +0000"
-  },
-  {
-    "title": "Eszeveszett száguldozás Miskolcon – megszólalt a rendőrség is",
-    "snippet": "Lakott területen belül, útfelújítási szakaszon száguldott keresztül egy autós 142 km/h-val Miskolcon",
-    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/megengedett-sebesseg-sebessegtullepes-rendorseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:00 +0000"
-  },
-  {
     "title": "Meghalt Kordos László, a hazai paleontológia egyik legnagyobb alakja",
     "snippet": "",
     "url": "https://index.hu/tudomany/2026/03/26/kordos-laszlo-paleontologia-rudabanya-foldtani-intezet-geologia-gyasz/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 04 Mar 2017 14:12:04 +0000"
-  },
-  {
-    "title": "Tájékoztatás Óvodai beíratkozásról",
-    "snippet": "",
-    "url": "https://www.rudabanya.hu/tajekoztatas-ovodai-beiratkozasrol/",
-    "source": "rudabanya.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 31 Mar 2026 08:24:00 +0000"
   },
   {
     "title": "Sikálóval vertek meg egy férfit Borsodban",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 21 Jan 2022 15:16:00 +0100"
+  },
+  {
+    "title": "Tájékoztatás Óvodai beíratkozásról",
+    "snippet": "",
+    "url": "https://www.rudabanya.hu/tajekoztatas-ovodai-beiratkozasrol/",
+    "source": "rudabanya.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 31 Mar 2026 08:24:00 +0000"
   },
   {
     "title": "Nekiment egy hídnak, meghalt",

@@ -1,23 +1,5 @@
 [
   {
-    "title": "Nur von Waaden gibt Phoenix Hagen viel Energie, das langt in Bremerhaven nicht",
-    "snippet": "Das Halbfinale um den Bundesliga-Aufstieg wird zum Krimi mit mindestens vier Kapiteln. In Bremerhaven ist Phoenix Hagen zu langsam",
-    "url": "https://www.wp.de/sport/lokalsport/hagen-breckerfeld/article412079250/nur-von-waaden-gibt-phoenix-hagen-energie-das-reicht-in-bremerhaven-nicht.html",
-    "source": "WP siegerland",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sun, 24 May 2026 09:01:34 +0200"
-  },
-  {
-    "title": "Vier Männer überfallen RWE-Fan am Hauptbahnhof Gelsenkirchen",
-    "snippet": "Ein Fan von Rot-Weiss Essen wurde nach dem Relegationsspiel gegen Greuther Fürth am Hauptbahnhof in Gelsenkirchen überfallen.",
-    "url": "https://www.waz.de/lokales/gelsenkirchen/article412082076/vier-maenner-ueberfallen-rwe-fan-am-hauptbahnhof-gelsenkirchen.html",
-    "source": "WAZ Hagen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 09:30:48 +0200"
-  },
-  {
     "title": "Wildschwein-Plage in Hagen: Nun äußert sich die Landesregierung zur Situation",
     "snippet": "Wildschweine sorgen in Hagen für Wut – Bürger haben Angst, die Landesregierung reagiert. Doch reicht das aus, um die Sorgen zu mindern?",
     "url": "https://www.wp.de/lokales/hagen/article412070079/wildschwein-invasion-nun-aeussert-sich-die-landesregierung-zur-situation-in-hagen.html",
@@ -25,6 +7,15 @@
     "lang": "de",
     "scope": "state",
     "date": "Sun, 24 May 2026 08:41:02 +0200"
+  },
+  {
+    "title": "Nur von Waaden gibt Phoenix Hagen viel Energie, das reicht in Bremerhaven nicht",
+    "snippet": "Die Halbfinal-Serie um den Bundesliga-Aufstieg wird zum Krimi mit mindestens vier Kapiteln. In Bremerhaven ist Phoenix Hagen zu langsam",
+    "url": "https://www.wr.de/sport/lokalsport/hagen-breckerfeld/article412079250/nur-von-waaden-gibt-phoenix-hagen-energie-das-reicht-in-bremerhaven-nicht.html",
+    "source": "WR Ruhrgebiet",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 21:35:25 +0200"
   },
   {
     "title": "Schwere Kopfverletzungen: Frau stirbt bei Verkehrsunfall in Essen-Kray",
@@ -43,6 +34,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 16:57:00 +0200"
+  },
+  {
+    "title": "„Meterhohe Flammen“: Feuerwehr Essen bei Brand in Seniorenwohnungen im Einsatz",
+    "snippet": "Die Feuerwehr Essen ist am Samstag zu einem Großeinsatz ausgerückt. Dort brannte eine Wohnanlage für Senioren. Die Feuerwehr warnt per Nina-App.",
+    "url": "https://www.waz.de/lokales/essen/article412079422/meterhohe-flammen-feuerwehr-essen-bei-brand-in-seniorenwohnungen-im-einsatz.html",
+    "source": "WAZ Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 21:52:00 +0200"
   },
   {
     "title": "Internationale Gartenausstellung 2027",
@@ -189,15 +189,6 @@
     "date": "Sat, 16 May 2026 04:30:00 +0200"
   },
   {
-    "title": "Hagen Rether – Liebe",
-    "snippet": "Freitag, 21.04.2023 | 20:00 Uhr | Stadthalle Troisdorf, Kölner Straße 167, 53840 Troisdorf Eintritt: VVK ab 27,80 € (WAHL.ABO ab 22,50 €) zzgl. evtl. örtlicher Gebühren",
-    "url": "https://www.troisdorf.de/de/rathaus-service/aktuell/pressemeldungen/2023/april/hagen-rether-liebe/",
-    "source": "Troisdorf (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 20 Apr 2023 06:19:05 GMT"
-  },
-  {
     "title": "Spatenstich für Anbau an der Kita Hagen",
     "snippet": "https://www.stadt-badpyrmont.de/aktuelles/pressemitteilungen/2025/dezember/spatenstich-kita-hagen/",
     "url": "https://www.stadt-badpyrmont.de/aktuelles/pressemitteilungen/2025/dezember/spatenstich-kita-hagen/",
@@ -243,15 +234,6 @@
     "date": "Thu, 14 May 2026 13:00:00 +0200"
   },
   {
-    "title": "Hagen Rether plaudert mit scharfer Zunge",
-    "snippet": "Am 30. November in der Stadthalle Troisdorf, plaudert Hagen Rether, mit Preisen hochdekorierter Kabarettist am Klavier, über böse Wahrheiten, genau beobachtet und ohne Rücksicht auf Glaubenssätze oder politische Korrektheit.",
-    "url": "https://www.troisdorf.de/de/rathaus-service/aktuell/pressemeldungen/2019/november/hagen-rether-plaudert-mit-scharfer-zunge/",
-    "source": "Troisdorf (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 11 Nov 2019 23:00:00 GMT"
-  },
-  {
     "title": "Senioren-Adventsfeier im Ortsteil Hagen",
     "snippet": "https://www.stadt-badpyrmont.de/aktuelles/pressemitteilungen/2025/november/adventsfeier-hagen/",
     "url": "https://www.stadt-badpyrmont.de/aktuelles/pressemitteilungen/2025/november/adventsfeier-hagen/",
@@ -268,5 +250,23 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 13 May 2026 13:13:04 +0200"
+  },
+  {
+    "title": "Neuer Verein in Hagen sucht Dialog mit Spaziergängern",
+    "snippet": "Immer wieder geraten die zahlreichen Mountainbiker mit den zahlreichen Spaziergängern in Hagen aneinander. Ein Verein setzt auf Kooperation.",
+    "url": "https://www.wr.de/staedte/hagen/article242531260/Hagen-Mountainbiker-wollen-das-Kriegsbeil-im-Wald-begraben.html",
+    "source": "WR Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 11 Jun 2024 09:21:47 +0200"
+  },
+  {
+    "title": "Autofahrer stirbt bei Unfall mit Sattelzug auf der L 135 bei Hagen",
+    "snippet": "Ein 41-jähriger Mann aus Hagen ist am Dienstagnachmittag bei einem Unfall auf der L 135 bei Wittstedt gestorben. Ein Sattelzug kollidierte frontal mit seinem BMW. Die Straße blieb bis in den Abend gesperrt.",
+    "url": "https://www.weser-kurier.de/landkreis-cuxhaven/gemeinde-hagen/autofahrer-stirbt-bei-unfall-mit-sattelzug-auf-der-l-135-bei-hagen-doc85mkcy9igf747dyw9v",
+    "source": "Weser-Kurier Landkreis Cuxhaven",
+    "lang": "de",
+    "scope": "county",
+    "date": "Wed, 29 Apr 2026 12:46:14 +0200"
   }
 ]

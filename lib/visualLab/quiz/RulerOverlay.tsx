@@ -97,8 +97,8 @@ export function useRuler(onStateChange: (s: RulerState) => void) {
         // second click
         if (prevA.id === poi.id) return prevA; // same poi, ignore
         const km = haversineKm(
-          [prevA.coords[0], prevA.coords[1]],
-          [poi.coords[0], poi.coords[1]]
+          [prevA.coords?.[0] || 0, prevA.coords?.[1] || 0],
+          [poi.coords?.[0] || 0, poi.coords?.[1] || 0]
         );
         const next: RulerState = { poiA: prevA, poiB: poi, distanceKm: km };
         onStateChange(next);
@@ -209,7 +209,7 @@ export function RulerSvgOverlay({
   viewScale: number;
 }) {
   if (!poiA) return null;
-  const [ax, ay] = projectCoords(poiA.coords[0], poiA.coords[1]);
+  const [ax, ay] = projectCoords(poiA.coords?.[0] || 0, poiA.coords?.[1] || 0);
 
   return (
     <>
@@ -227,7 +227,7 @@ export function RulerSvgOverlay({
       <circle cx={ax} cy={ay} r={4 / viewScale} fill="#22D3EE" style={{ pointerEvents: "none" }} />
 
       {poiB && (() => {
-        const [bx, by] = projectCoords(poiB.coords[0], poiB.coords[1]);
+        const [bx, by] = projectCoords(poiB.coords?.[0] || 0, poiB.coords?.[1] || 0);
         return (
           <>
             {/* Line */}

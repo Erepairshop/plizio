@@ -1,32 +1,5 @@
 [
   {
-    "title": "Ezen a KRESZ-teszten a legtöbb sofőr azonnal elhasal – te meg tudod oldani hibátlanul?",
-    "snippet": "Te hogy döntenél ebben a szituációban?",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/kresz-teszt-kozlekedes-szabalyok-villamos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:39:12 +0000"
-  },
-  {
-    "title": "Ezek a házak a vevők kedvencei, de nem vagy alig adnak rá hitelt a bankok",
-    "snippet": "A bankok nem szeretik, a felújítás kockázatos, mégis van, aki megveszi.",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/elado-valyoghaz-szolnokon-es-a-varmegyeben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:38:07 +0000"
-  },
-  {
-    "title": "Óriási fordulat Tiszaszentimrén, júniusban visszaáll a mindenkit érintő ellátás",
-    "snippet": "Júniustól ismét biztosított lesz a fogorvosi ellátás Tiszaszentimrén.",
-    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/fogorvos-tiszaszentimre-ellatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "szoljon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
     "title": "Balesetet szenvedett a Magna Cum Laude turnébusza",
     "snippet": "Az együttes a közösségi médiában számolt be a történtekről.",
     "url": "https://index.hu/fomo/2024/07/13/magna-cum-laude-zenekar-baleset-egyuttes-turne-cserkeszolo/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 03 May 2022 07:05:30 +0000"
-  },
-  {
-    "title": "Hírlevél feliratkozás",
-    "snippet": "Hírlevél feliratkozás Értesüljön a legfrissebb akciókról, programokról! Feliratkozás! Az űrlap használatával Ön tudomásul veszi és elfogadja az Adatvédelmi tájékoztatónkat .",
-    "url": "https://www.cserkeszolo.hu/adatkezelesi-tajekoztato-a-hirlevel-folyamathoz",
-    "source": "cserkeszolo.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Halálra gázoltak egy gyalogost Cserkeszőlőnél",
@@ -79,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 20 Sep 2019 12:28:37 +0000"
+  },
+  {
+    "title": "Hírlevél feliratkozás",
+    "snippet": "Hírlevél feliratkozás Értesüljön a legfrissebb akciókról, programokról! Feliratkozás! Az űrlap használatával Ön tudomásul veszi és elfogadja az Adatvédelmi tájékoztatónkat .",
+    "url": "https://www.cserkeszolo.hu/adatkezelesi-tajekoztato-a-hirlevel-folyamathoz",
+    "source": "cserkeszolo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   }
 ]

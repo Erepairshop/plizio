@@ -10,16 +10,20 @@ import { SEO_POIS, SEO_REGIONS } from "@/lib/seo/_seo-data.generated";
 // remains in per-country JSON under public/data/pois/<CC>.json and is read on
 // demand by the POI detail page render path (out of scope here).
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
 
-// Core 4 langs build everywhere. `fr` is conditional: only emitted for French
-// POIs (parent starts with "FR"). NOT in SUPPORTED_LANGS to avoid sitemap
-// bloat for non-FR pages. Use `extraLangsFor(poi)` to detect per-POI extras.
+// Core 4 langs build everywhere. `fr` and `tr` are conditional:
+//   - fr: emitted for French POIs (parent starts with "FR")
+//   - tr: emitted for German POIs (parent starts with "DE") — targets ~2.5M
+//     Turkish-speaking residents of Germany.
+// NOT in SUPPORTED_LANGS to avoid sitemap bloat for non-applicable pages.
+// Use `extraLangsFor(poi)` to detect per-POI extras.
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
-export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr"];
+export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr"];
 
 export function extraLangsFor(poi: { parent?: string }): Lang[] {
   if (poi.parent?.startsWith("FR")) return ["fr"];
+  if (poi.parent?.startsWith("DE")) return ["tr"];
   return [];
 }
 
@@ -49,12 +53,13 @@ export const poisLite: POILite[] = pois.map((p) => ({
 }));
 export const regions: POI[] = SEO_REGIONS as POI[];
 
-export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
+export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de: string; hu: string; ro: string; en: string }> = {
   germany: {
     de: "deutschland",
     hu: "nemetorszag",
     ro: "germania",
     en: "germany",
+    tr: "almanya",
   },
   romania: {
     de: "rumaenien",
@@ -257,7 +262,7 @@ export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   "papua-new-guinea": { de: "papua-neuguinea", hu: "papua-uj-guinea", ro: "papua-noua-guinee", en: "papua-new-guinea" },
 };
 
-export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
+export const STATE_SLUGS: Record<string, Partial<Record<Lang, string>> & { de: string; hu: string; ro: string; en: string }> = {
   // Germany
   "DE-BW": { de: "baden-wuerttemberg", hu: "baden-wurttemberg", ro: "baden-wurttemberg", en: "baden-wurttemberg" },
   "DE-BY": { de: "bayern", hu: "bajororszag", ro: "bavaria", en: "bavaria" },
@@ -499,8 +504,9 @@ export function getCountryId(id: string) {
 }
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
-  // fr fallback → use en slug (France country/state names are already French-native).
-  const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : (lang === "fr" ? "en" : lang));
+  // Fallback: fr → en, tr → de (Turkish DE pages use German state names where TR slug missing).
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang;
+  const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : fallback);
   return COUNTRY_SLUGS[countryId]?.[effLang] ?? COUNTRY_SLUGS.germany[effLang] ?? COUNTRY_SLUGS.germany.en;
 }
 
@@ -519,8 +525,9 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   }
   // HU legacy id (pl "fejer") -> ugyanaz
   if (HU_LEGACY_IDS.has(stateId)) return stateId;
-  // fr fallback → en (most state names are already natively French for FR-* regions).
-  const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : (lang === "fr" ? "en" : lang);
+  // Fallback: fr → en (FR-* states already natively French), tr → de (DE-* states use German slug).
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang;
+  const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : fallback;
   return STATE_SLUGS[stateId]?.[effLang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[effLang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }
 

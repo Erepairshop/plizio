@@ -1,32 +1,5 @@
 [
   {
-    "title": "Így alakul a hulladékszállítás pünkösdhétfőn",
-    "snippet": "Magyarországon a pünkösdhétfő hivatalos munkaszüneti nap, így változhat a hulladékszállítás menete.",
-    "url": "https://www.veol.hu/helyi-kozelet/2026/05/hulladekszallitas-punkosdhetfon-deponia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "veol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
-    "title": "A poszméhek társas tanulási képességei a kutatókat is meglepték",
-    "snippet": "A poszméhek egymástól olyan viselkedést tanulhatnak, amit eddig csak emberi tulajdonságnak hittek.",
-    "url": "https://www.veol.hu/helyi-kozelet/2026/05/poszmehek-tanulasi-kepessege-tarsas-tanulas-kiserlet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "veol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:00 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.veol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "veol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
-  },
-  {
     "title": "Rejtőzik egy igazi fantasyvilág a Balatonnál, amit mindenkinek látnia kell",
     "snippet": "Index on Tour, az úti cél: Aszófő.",
     "url": "https://index.hu/fomo/2025/12/12/aszofo-index-on-tour-kovesdi-romtemplom/",
@@ -43,15 +16,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 21 Mar 2023 18:23:38 +0000"
-  },
-  {
-    "title": "Értesítés határszemle tartásáról",
-    "snippet": "Tfvt-kivonat-2026_alairt",
-    "url": "https://aszofo.hu/ertesites-hatarszemle-tartasarol/",
-    "source": "aszofo.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 09:14:47 +0000"
   },
   {
     "title": "Lakópark épül a 400 fős Aszófőn, a falusiak nem értik, miért és hogyan",
@@ -79,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 11 May 2018 14:57:16 +0000"
+  },
+  {
+    "title": "Értesítés határszemle tartásáról",
+    "snippet": "Tfvt-kivonat-2026_alairt",
+    "url": "https://aszofo.hu/ertesites-hatarszemle-tartasarol/",
+    "source": "aszofo.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 09:14:47 +0000"
   },
   {
     "title": "Meghívó_Lakossági fórum_2026.05.26.",

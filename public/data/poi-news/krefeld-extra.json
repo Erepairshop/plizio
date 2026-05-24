@@ -45,15 +45,6 @@
     "date": "Sat, 23 May 2026 09:00:00 +0200"
   },
   {
-    "title": "Der letzte seiner Art: Die Geschichte der Berg-Anoas wird im Zoo Krefeld enden",
-    "snippet": "Das Artensterben ist in Krefeld zu besichtigen. Besucher werden still vor Idris‘ Gehege – denn er ist kein Einzelfall.",
-    "url": "https://www.waz.de/rhein-und-ruhr/article411562441/der-letzte-seiner-art-die-geschichte-der-berg-anoas-wird-im-zoo-krefeld-enden.html",
-    "source": "WAZ Hagen",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 05:00:00 +0200"
-  },
-  {
     "title": "Stellenangebote der Stadt Krefeld am Fr., 22.05.2026",
     "snippet": "Stellenangebote der Stadt Krefeld am Fr., 22.05.2026 Liebe Newsletter-Abonnentin, lieber Newsletter-Abonnent, bei der Stadt Krefeld sind wieder interessante Stellen zu besetzen. Wir würden uns freuen, wenn die Stellenangebote Ihr Interesse wecken und wir in Kürze Ihre Bewerbung erhalten. Bei Rückfra",
     "url": "https://www.krefeld.de/stellenangebote-der-stadt-krefeld-am-fr-22052026",
@@ -61,6 +52,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 16:00:00 +0000"
+  },
+  {
+    "title": "Der letzte seiner Art: Die Geschichte der Berg-Anoas wird im Zoo Krefeld enden",
+    "snippet": "Das Artensterben ist in Krefeld zu besichtigen. Besucher werden still vor Idris‘ Gehege – denn er ist kein Einzelfall.",
+    "url": "https://www.waz.de/rhein-und-ruhr/article411562441/der-letzte-seiner-art-die-geschichte-der-berg-anoas-wird-im-zoo-krefeld-enden.html",
+    "source": "WAZ Hagen",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 05:00:00 +0200"
   },
   {
     "title": "Notschlafstelle Feldstraße: Zwischen Umbau und Sparzwang: Krefeld bangt um Obdach-Konzept",

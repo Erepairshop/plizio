@@ -1,14 +1,5 @@
 [
   {
-    "title": "„Egy maffiafőnök és egy áfacsaló” – Magyar Péter élesen bírálta Orbán Viktort, amiért meghívta magához Hajdú Pétert",
-    "snippet": "A Tisza Párt elnöke a Szabó Bence-ügyről is beszélt.",
-    "url": "https://index.hu/belfold/2026/04/01/magyar-peter-tisza-part-szeghalom-szabo-bence-orban-viktor-hajdu-peter/",
-    "source": "index.hu/Szeghalom",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 01 Apr 2026 19:05:00 +0200"
-  },
-  {
     "title": "Pajzsmirigy-betegségtől tartanak a menzareform miatt",
     "snippet": "Szeghalmon magas az ivóvíz jódtartalma, a miniszteri rendelet viszont jódtartalmú sót ír elő a közétkeztetésben. A többletbevitel viszont nem egészséges. The post Pajzsmirigy-betegségtől tartanak a menzareform miatt first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2015/08/24/pajzsmirigy-betegsegtol-tartanak-a-menzareform-miatt/",
@@ -18,13 +9,13 @@
     "date": "Mon, 24 Aug 2015 18:46:53 +0000"
   },
   {
-    "title": "Hosszú hetek óta nem kaptak pénzt a Felina dolgozói",
-    "snippet": "Az ügyben eljárás indult.",
-    "url": "https://index.hu/gazdasag/2026/01/30/szeghalom-felina-fehernemu-gyarto-ceg-dolgozok-fizetes-elmaradas-panasz-munka/",
+    "title": "„Egy maffiafőnök és egy áfacsaló” – Magyar Péter élesen bírálta Orbán Viktort, amiért meghívta magához Hajdú Pétert",
+    "snippet": "A Tisza Párt elnöke a Szabó Bence-ügyről is beszélt.",
+    "url": "https://index.hu/belfold/2026/04/01/magyar-peter-tisza-part-szeghalom-szabo-bence-orban-viktor-hajdu-peter/",
     "source": "index.hu/Szeghalom",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 30 Jan 2026 10:07:00 +0100"
+    "date": "Wed, 01 Apr 2026 19:05:00 +0200"
   },
   {
     "title": "Felújították a Szeghalom-Vésztő-Gyula összekötő út egy szakaszát",
@@ -34,6 +25,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 10 Jan 2013 15:34:48 +0000"
+  },
+  {
+    "title": "Hosszú hetek óta nem kaptak pénzt a Felina dolgozói",
+    "snippet": "Az ügyben eljárás indult.",
+    "url": "https://index.hu/gazdasag/2026/01/30/szeghalom-felina-fehernemu-gyarto-ceg-dolgozok-fizetes-elmaradas-panasz-munka/",
+    "source": "index.hu/Szeghalom",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 30 Jan 2026 10:07:00 +0100"
   },
   {
     "title": "Ellenpont: Ruszin-Szendi Romulusz arra kéri az időseket, hogy a fiatalok kedve szerint szavazzanak a Tiszára",

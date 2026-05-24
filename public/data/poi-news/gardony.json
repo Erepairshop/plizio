@@ -1,30 +1,12 @@
 [
   {
-    "title": "Rövid hála sokszor a hosszú életért",
-    "snippet": "Az idén kilencven éves tabajdi hölgy, Kiss Bálintné Kun Irma története.",
-    "url": "https://www.feol.hu/helyi-kozelet/2026/05/kilenc-evtized-tortenete-kiss-balintne-kun-irma?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
+    "title": "Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság",
+    "snippet": "A háromezer négyzetméteres pelletáló csarnok nagy része lángba borult. The post Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/23/gardony-tuz-pelletalo-csarnok/",
+    "source": "24.hu/Gárdony",
     "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 08:00:00 +0000"
-  },
-  {
-    "title": "Szedd magad eper Fejér megyében: 1000 forintért már vehetsz egy kilóval",
-    "snippet": "A szedd magad eper idén is sokakat vonz Fejér megyében, mutatjuk az árakat és tippeket.",
-    "url": "https://www.feol.hu/helyi-kozelet/2026/05/szedd-magad-eper-hazi-lekvar-idojaras-fejer-megye?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:20:00 +0000"
-  },
-  {
-    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
-    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
-    "url": "https://www.feol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "feol.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 06:41:20 +0000"
+    "scope": "city",
+    "date": "Sat, 23 May 2026 05:06:56 +0000"
   },
   {
     "title": "Lángba borult egy óriási gárdonyi üzem hajnalban, nagy erőkkel vonultak ki a tűzoltók",
@@ -36,24 +18,6 @@
     "date": "Sat, 23 May 2026 06:43:00 +0200"
   },
   {
-    "title": "Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság",
-    "snippet": "A háromezer négyzetméteres pelletáló csarnok nagy része lángba borult. The post Kigyulladt egy gárdonyi üzem hajnalban, nagy erőkkel vonult ki a tűzoltóság first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/23/gardony-tuz-pelletalo-csarnok/",
-    "source": "24.hu/Gárdony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 05:06:56 +0000"
-  },
-  {
-    "title": "Testületi ülés 2026. május 28.",
-    "snippet": "Testületi ülés 2026. május 28. 2026.05.22. 11:33 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. május 28-án (csütörtökön) 15:00 órakor testületi ülést, azt követően 16:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
-    "url": "http://www.gardony.hu/testuleti-ules-2026-majus-28",
-    "source": "gardony.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "2026-05-22"
-  },
-  {
     "title": "Egyre reménytelenebb a helyzet a Velencei-tónál, hónapokon belül kiszáradhat",
     "snippet": "Magyar Péterben és az esőben reménykednek a helyiek.",
     "url": "https://index.hu/belfold/2026/05/19/velencei-to-gardony-aszalyhelyzet-gajdos-laszlo-vizszint-idojaras/",
@@ -61,15 +25,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 19 May 2026 06:09:00 +0200"
-  },
-  {
-    "title": "Pert nyert a Greenpeace és a gárdonyiak a Mol ellen",
-    "snippet": "Óriási zöld siker.",
-    "url": "https://index.hu/belfold/2026/05/13/kornyezet-szennyezes-green-peace-gardony-mol/",
-    "source": "index.hu/Gárdony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 11:26:00 +0200"
   },
   {
     "title": "Fordulat a Mol gárdonyi olajszivárgási ügyében: megsemmisítették a kormányhivatal határozatát",
@@ -81,13 +36,22 @@
     "date": "Tue, 12 May 2026 12:23:46 +0000"
   },
   {
-    "title": "Gázolt a vonat Gárdonynál, fennakadásokra lehet számítani a székesfehérvári fővonalon",
-    "snippet": "Az érintett járat utasait másik szerelvényre szállították át.",
-    "url": "https://index.hu/belfold/2025/12/04/mav-mavinform-vasut-gardony-agard-szekesfehervar-fovonal-gazolas-baleset/",
+    "title": "Pert nyert a Greenpeace és a gárdonyiak a Mol ellen",
+    "snippet": "Óriási zöld siker.",
+    "url": "https://index.hu/belfold/2026/05/13/kornyezet-szennyezes-green-peace-gardony-mol/",
     "source": "index.hu/Gárdony",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 04 Dec 2025 16:25:00 +0100"
+    "date": "Wed, 13 May 2026 11:26:00 +0200"
+  },
+  {
+    "title": "Testületi ülés 2026. május 28.",
+    "snippet": "Testületi ülés 2026. május 28. 2026.05.22. 11:33 Gárdony Város Önkormányzat Képviselő-testülete&#160; 2026. május 28-án (csütörtökön) 15:00 órakor testületi ülést, azt követően 16:00 órakor zárt &#160; testületi ülést tart a Városháza földszinti tanácskozó termében.&#160; &#160; &#160; Napirendi pon",
+    "url": "http://www.gardony.hu/testuleti-ules-2026-majus-28",
+    "source": "gardony.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "2026-05-22"
   },
   {
     "title": "Halálra gázolt egy embert a vonat, Székesfehérvár és Gárdony között pótlóbuszok járnak",
@@ -99,13 +63,13 @@
     "date": "Tue, 26 Aug 2025 16:52:59 +0000"
   },
   {
-    "title": "Öt településen rendeznek időközi önkormányzati választást vasárnap",
-    "snippet": "Szavazni reggel hattól este hét óráig lehet.",
-    "url": "https://index.hu/belfold/2025/09/21/idokozi-onkormanyzati-valasztas-budapest-csurgo-kunmadaras-gardony-pilisvorosvar/",
+    "title": "Gázolt a vonat Gárdonynál, fennakadásokra lehet számítani a székesfehérvári fővonalon",
+    "snippet": "Az érintett járat utasait másik szerelvényre szállították át.",
+    "url": "https://index.hu/belfold/2025/12/04/mav-mavinform-vasut-gardony-agard-szekesfehervar-fovonal-gazolas-baleset/",
     "source": "index.hu/Gárdony",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 21 Sep 2025 11:49:00 +0200"
+    "date": "Thu, 04 Dec 2025 16:25:00 +0100"
   },
   {
     "title": "Gárdonyban csak egy jelölt indult a választáson",
@@ -115,6 +79,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 24 Aug 2025 05:24:51 +0000"
+  },
+  {
+    "title": "Öt településen rendeznek időközi önkormányzati választást vasárnap",
+    "snippet": "Szavazni reggel hattól este hét óráig lehet.",
+    "url": "https://index.hu/belfold/2025/09/21/idokozi-onkormanyzati-valasztas-budapest-csurgo-kunmadaras-gardony-pilisvorosvar/",
+    "source": "index.hu/Gárdony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 21 Sep 2025 11:49:00 +0200"
   },
   {
     "title": "Áramszünet várható - 2026. május 21.",

@@ -135,15 +135,6 @@
     "date": "Thu, 21 May 2026 13:58:05 +0000"
   },
   {
-    "title": "Team der BTU Cottbus-Senftenberg forscht in Grönland zum Klima",
-    "snippet": "Der Boden von Grönland war im April an manchen Stellen fünf Grad wärmer als normalerweise. Dafür verantwortlich sind Forscher aus Cottbus. Sie wollen vor Ort untersuchen, wie sich der Klimawandel auf die Arktis und global auswirkt.",
-    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-forscher-btu-klima-erwaermung-arktis.html",
-    "source": "rbb24 Panorama",
-    "lang": "de",
-    "scope": "region",
-    "date": "Tue, 19 May 2026 11:17:00 +0200"
-  },
-  {
     "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
     "snippet": "",
     "url": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
@@ -160,6 +151,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Sun, 17 May 2026 16:27:52 +0200"
+  },
+  {
+    "title": "Team der BTU Cottbus-Senftenberg forscht in Grönland zum Klima",
+    "snippet": "Der Boden von Grönland war im April an manchen Stellen fünf Grad wärmer als normalerweise. Dafür verantwortlich sind Forscher aus Cottbus. Sie wollen vor Ort untersuchen, wie sich der Klimawandel auf die Arktis und global auswirkt.",
+    "url": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-forscher-btu-klima-erwaermung-arktis.html",
+    "source": "rbb24 Panorama",
+    "lang": "de",
+    "scope": "region",
+    "date": "Tue, 19 May 2026 11:17:00 +0200"
   },
   {
     "title": "Was das mit einem Absteiger zu tun hat - Energie Cottbus vor Verlängerung mit Abräumer",
@@ -234,24 +234,6 @@
     "date": "Sun, 05 May 2024 13:16:11 +0200"
   },
   {
-    "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
-    "snippet": "Im Herbst startet das Medizinstudium an der neuen Uni in Cottbus. Zehn Prozent der Studienplätze sollen an jene gehen, die nach ihrer Ausbildung mindestens zehn Jahre als Landärzte in Brandenburg arbeiten. Kann dieses Modell den Mangel lindern?",
-    "url": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
-    "source": "rbb24 Politik",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 25 Apr 2026 10:19:55 +0200"
-  },
-  {
-    "title": "Uniklinik Cottbus: MRT für Kuscheltiere und Puppen soll Kindern Angst vor der Röhre nehmen",
-    "snippet": "Es ist eng, es piepst und es surrt: Ein MRT ist für einige Erwachsene schon nicht leicht zu ertragen. Für Kinder kann es besonders schwierig sein. Die Uniklinik in Cottbus hat deshalb nun ein Gerät, das ihnen Ängste nehmen und Narkosen unnötig machen soll.",
-    "url": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-uniklinik-mul-ct-mini-mrt-kuscheltiere-kinder-krebs.html",
-    "source": "rbb24 Panorama",
-    "lang": "de",
-    "scope": "region",
-    "date": "Wed, 29 Apr 2026 10:49:49 +0200"
-  },
-  {
     "title": "Brandenburg beim Theatertreffen: Der Hartmann von Cottbus und Potsdam",
     "snippet": "Nie zuvor war ein Brandenburger Theater zum Berliner Theatertreffen eingeladen. Dieses Jahr sind es gleich zwei - aus Cottbus und Potsdam. Beide Inszenierungen stammen von Sebastian Hartmann. Beide sind erstaunlich - und könnten kaum unterschiedlicher sein.",
     "url": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-hartmann-serotonin-hauptmann-koepenick-berlin-theatertreffen-potsdam-cottbus.html",
@@ -268,5 +250,23 @@
     "lang": "de",
     "scope": "region",
     "date": "Sat, 16 May 2026 18:40:00 +0200"
+  },
+  {
+    "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
+    "snippet": "Im Herbst startet das Medizinstudium an der neuen Uni in Cottbus. Zehn Prozent der Studienplätze sollen an jene gehen, die nach ihrer Ausbildung mindestens zehn Jahre als Landärzte in Brandenburg arbeiten. Kann dieses Modell den Mangel lindern?",
+    "url": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
+    "source": "rbb24 Politik",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 25 Apr 2026 10:19:55 +0200"
+  },
+  {
+    "title": "Uniklinik Cottbus: MRT für Kuscheltiere und Puppen soll Kindern Angst vor der Röhre nehmen",
+    "snippet": "Es ist eng, es piepst und es surrt: Ein MRT ist für einige Erwachsene schon nicht leicht zu ertragen. Für Kinder kann es besonders schwierig sein. Die Uniklinik in Cottbus hat deshalb nun ein Gerät, das ihnen Ängste nehmen und Narkosen unnötig machen soll.",
+    "url": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-uniklinik-mul-ct-mini-mrt-kuscheltiere-kinder-krebs.html",
+    "source": "rbb24 Panorama",
+    "lang": "de",
+    "scope": "region",
+    "date": "Wed, 29 Apr 2026 10:49:49 +0200"
   }
 ]

@@ -1,32 +1,5 @@
 [
   {
-    "title": "A rangadók rangadója, és bajnoki cím után az edző a büszkeségről is beszélt",
-    "snippet": "Küzdelemben nem volt hiány.",
-    "url": "https://www.boon.hu/helyi-sport/2026/05/sarospatak-erdohorvati-varmegyei-foci-kelet-csoport?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:30:00 +0000"
-  },
-  {
-    "title": "Nem unatkoztak a diósgyőri polgárőrök: több riasztás is érkezett egy este alatt",
-    "snippet": "A közrend fenntartása mellett több esetben is segítséget nyújtottak a diósgyőri polgárőrök.",
-    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/polgaror-diosgyor-szolgalat-majus-22?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:20:00 +0000"
-  },
-  {
-    "title": "Eszeveszett száguldozás Miskolcon – megszólalt a rendőrség is",
-    "snippet": "Lakott területen belül, útfelújítási szakaszon száguldott keresztül egy autós 142 km/h-val Miskolcon",
-    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/megengedett-sebesseg-sebessegtullepes-rendorseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-    "source": "boon.hu (megyei)",
-    "lang": "hu",
-    "scope": "county",
-    "date": "Sun, 24 May 2026 07:00:00 +0000"
-  },
-  {
     "title": "Gólfesztivált tartott a Paks, egyre kilátástalanabb helyzetben a sereghajtó Kazincbarcika",
     "snippet": "Újra harcban a dobogóért Bognár György csapata.",
     "url": "https://index.hu/sport/futball/2026/04/04/paks-kazincbarcika-nb-i-fizz-liga/",
@@ -45,13 +18,13 @@
     "date": "Sat, 11 Apr 2026 17:28:00 +0200"
   },
   {
-    "title": "Hálásak a rokonok, büszke a város: kamera elé álltak Kazincbarcika hős rendőrei",
-    "snippet": "Hálásak a rokonok, büszke a város: kamera elé álltak Kazincbarcika hős rendőrei",
-    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/kazincbarcikai-tarsashaztuz-fust-tuz",
-    "source": "boon.hu (hivatalos)",
+    "title": "Tiltakozott a 81 éves asszony, hogy ne kísérjék fel a lépcsőn, karon ragadták és kifosztották",
+    "snippet": "Fegyházbüntetés vár a letartóztatásban lévő elkövetőre. The post Tiltakozott a 81 éves asszony, hogy ne kísérjék fel a lépcsőn, karon ragadták és kifosztották first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/04/27/kazincbarcika-lepcsohaz-kifosztas-vademeles/",
+    "source": "24.hu/Kazincbarcika",
     "lang": "hu",
     "scope": "city",
-    "date": ""
+    "date": "Mon, 27 Apr 2026 08:10:00 +0000"
   },
   {
     "title": "A 90. percben bukta el a győzelmet az MTK Németh Krisztián hazai búcsúmérkőzésén",
@@ -63,13 +36,22 @@
     "date": "Sat, 02 May 2026 15:11:00 +0200"
   },
   {
-    "title": "Tiltakozott a 81 éves asszony, hogy ne kísérjék fel a lépcsőn, karon ragadták és kifosztották",
-    "snippet": "Fegyházbüntetés vár a letartóztatásban lévő elkövetőre. The post Tiltakozott a 81 éves asszony, hogy ne kísérjék fel a lépcsőn, karon ragadták és kifosztották first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/04/27/kazincbarcika-lepcsohaz-kifosztas-vademeles/",
+    "title": "Hat nappal Jézus után az MTK is feltámadt",
+    "snippet": "Ezzel eldőlt, hogy a Kazincbarcika búcsúzik az NB I-től. The post Hat nappal Jézus után az MTK is feltámadt first appeared on 24.hu .",
+    "url": "https://24.hu/sport/foci/2026/04/11/nb-i-mtk-zte-kiesett-a-kazincbarcika/",
     "source": "24.hu/Kazincbarcika",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 27 Apr 2026 08:10:00 +0000"
+    "date": "Sat, 11 Apr 2026 18:05:54 +0000"
+  },
+  {
+    "title": "Hálásak a rokonok, büszke a város: kamera elé álltak Kazincbarcika hős rendőrei",
+    "snippet": "Hálásak a rokonok, büszke a város: kamera elé álltak Kazincbarcika hős rendőrei",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/kazincbarcikai-tarsashaztuz-fust-tuz",
+    "source": "boon.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Sorozatban hét hazai vereség után szerzett újra pontot otthon a Kazincbarcika",
@@ -81,13 +63,13 @@
     "date": "Sat, 25 Apr 2026 06:53:00 +0200"
   },
   {
-    "title": "Hat nappal Jézus után az MTK is feltámadt",
-    "snippet": "Ezzel eldőlt, hogy a Kazincbarcika búcsúzik az NB I-től. The post Hat nappal Jézus után az MTK is feltámadt first appeared on 24.hu .",
-    "url": "https://24.hu/sport/foci/2026/04/11/nb-i-mtk-zte-kiesett-a-kazincbarcika/",
+    "title": "Az NB I legpechesebb játékosa először lőtt érvényes gólt az Újpestben",
+    "snippet": "A Kazincbarcika ellen törte meg az átkot. The post Az NB I legpechesebb játékosa először lőtt érvényes gólt az Újpestben first appeared on 24.hu .",
+    "url": "https://24.hu/sport/foci/2026/04/11/nb-i-kazincbarcika-ujpest-krajcsovics-abel/",
     "source": "24.hu/Kazincbarcika",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 11 Apr 2026 18:05:54 +0000"
+    "date": "Sat, 11 Apr 2026 15:15:47 +0000"
   },
   {
     "title": "A Debrecen kiütéses miskolci győzelemmel ejtette ki a Diósgyőrt",
@@ -97,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 18 Apr 2026 19:20:00 +0200"
-  },
-  {
-    "title": "Az NB I legpechesebb játékosa először lőtt érvényes gólt az Újpestben",
-    "snippet": "A Kazincbarcika ellen törte meg az átkot. The post Az NB I legpechesebb játékosa először lőtt érvényes gólt az Újpestben first appeared on 24.hu .",
-    "url": "https://24.hu/sport/foci/2026/04/11/nb-i-kazincbarcika-ujpest-krajcsovics-abel/",
-    "source": "24.hu/Kazincbarcika",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 11 Apr 2026 15:15:47 +0000"
   },
   {
     "title": "Kazincbarcika polgármesterénél járt a tiszás országgyűlési képviselő, de nem sikerült minden részletet megnyugtatóan tisztázni",

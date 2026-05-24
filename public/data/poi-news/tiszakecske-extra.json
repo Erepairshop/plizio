@@ -1,5 +1,14 @@
 [
   {
+    "title": "Több játékosától is elköszönt a Tiszakécske",
+    "snippet": "Öten hagyják el a klubot.",
+    "url": "https://www.baon.hu/helyi-sport/2026/05/tiszakecskei-lc-tavozok-nyar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "Baon",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 12:29:40 +0000"
+  },
+  {
     "title": ",,Legyen Tiszakécskén mindig birkózás!”",
     "snippet": "Tóth István kétszeres világbajnok, olimpiai ezüstérmes tiszakécskei sportember. Szívügye a tiszakécskei birkózósport. Nagyon fontos számára, hogy Tiszakécskén megmaradjon és sikeres legyen ez a sportág. A sportlegenda a Kécskei Krónikának adott exkluzív interjút.",
     "url": "https://kecskeikronika.hu/hirek/legyen-tiszakecsken-mindig-birkozas",
@@ -36,15 +45,6 @@
     "date": "Wed, 29 Apr 2026 10:00:25 +0000"
   },
   {
-    "title": "Egy 18 éves fiú ellopott egy autót Tiszakécskén, karambolozott, majd elaludt az anyósülésen",
-    "snippet": "A rendőrök ébresztették.",
-    "url": "https://index.hu/belfold/2025/08/26/rendorseg-baleset-autolopas-tiszakecske/",
-    "source": "index.hu/Tiszakécske",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 26 Aug 2025 07:36:00 +0200"
-  },
-  {
     "title": "Madárinfluenza miatt védő- és felügyeleti körzetek elrendelése",
     "snippet": "A Bács-Kiskun Vármegyei Kormányhivatal, mint eljáró élelmiszerlánc-felügyeleti hatóság, az alább mellékelt határozatban az abban foglalt településekre (így Tiszakécskére is) kiterjedően felügyeleti (megfigyelési) körzetet és védőkörzetet rendelt el a magas patogenitású",
     "url": "https://www.tiszakecske.hu/madarinfluenza-miatt-vedo-es-felugyeleti-korzetek-elrendelese/",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 17 Apr 2025 21:10:16 +0000"
+  },
+  {
+    "title": "Egy 18 éves fiú ellopott egy autót Tiszakécskén, karambolozott, majd elaludt az anyósülésen",
+    "snippet": "A rendőrök ébresztették.",
+    "url": "https://index.hu/belfold/2025/08/26/rendorseg-baleset-autolopas-tiszakecske/",
+    "source": "index.hu/Tiszakécske",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 26 Aug 2025 07:36:00 +0200"
   },
   {
     "title": "Fényesen csillog az ezüstérem férfi kézilabdázóink nyakában",
