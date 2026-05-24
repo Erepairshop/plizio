@@ -607,3 +607,13 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-itin-tagline{font-size:1.05rem;font-weight:600;color:#e6ecf3;line-height:1.2}
 .plz-itin-intro{font-size:.85rem;color:rgba(230,236,243,.65);margin-top:.15rem;line-height:1.4}
 @media (max-width:520px){.plz-go-logo{height:34px}.plz-itin-tagline{font-size:.95rem}.plz-itin-intro{font-size:.8rem}}
+
+/* PlizioGo collapsed default + GO button v=20260524g */
+.plz-itin-go{display:flex;align-items:center;justify-content:center;gap:.5rem;width:100%;margin-top:.8rem;padding:.9rem 1rem;border-radius:12px;border:0;background:linear-gradient(135deg,#4cc6ff 0%,#7dd87a 50%,#ffae5c 100%);color:#0a0f1c;font-size:1.05rem;font-weight:800;letter-spacing:.02em;cursor:pointer;transition:all .2s;box-shadow:0 4px 16px rgba(76,198,255,.25)}
+.plz-itin-go:hover{transform:translateY(-1px);box-shadow:0 6px 20px rgba(76,198,255,.35)}
+.plz-itin-go:active{transform:translateY(0)}
+.plz-itin-go-arrow{display:inline-block;font-size:.85rem;transition:transform .25s}
+.plz-itin-go.open .plz-itin-go-arrow{transform:rotate(180deg)}
+.plz-itin-body{margin-top:1rem;animation:plzItinFade .25s ease-out}
+.plz-itin-body[hidden]{display:none}
+@keyframes plzItinFade{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
