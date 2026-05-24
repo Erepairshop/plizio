@@ -4385,36 +4385,36 @@
     "transit_official": "https://www.tcl.fr",
     "bike_share": "https://velov.grandlyon.com",
     "parking_map": "https://en.parkopedia.com/parking/lyon/",
-    "city_card": "https://en.lyon-france.com/lyon-city-card",
-    "events": "https://www.sortiralyon.com",
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/rhone/lyon.html",
-    "tourism_office": "https://en.lyon-france.com",
+    "city_card": "https://shop.visiterlyon.com/lyon-city-card",
+    "events": "https://www.lyon.fr/agenda",
+    "webcam": "https://www.vision-environnement.com/livecams/webcam.php?webcam=vaise",
+    "tourism_office": "https://www.visiterlyon.com",
     "hotels": "https://www.booking.com/searchresults.html?ss=Lyon",
     "flights": "https://www.skyscanner.net/transport/flights-to/lyon/",
-    "transit_app": "https://citymapper.com/lyon",
-    "restaurants_booking": "https://www.thefork.com/restaurants/lyon-c560684",
-    "museum_tickets": "https://www.getyourguide.com/lyon-l160",
-    "parking_real_time": "https://www.lyonparc-auto.com",
+    "transit_app": "https://citymapper.com/lyon?set_region=fr-lyon",
+    "restaurants_booking": "https://www.thefork.com/restaurants/lyon-c326512",
+    "museum_tickets": "https://www.getyourguide.com/lyon-l295/",
+    "parking_real_time": "https://parking.lpa.fr/liste-des-parkings/",
     "language_tips": {
-      "fr": "Bonjour (Bonjour), Merci (Merci), L'addition s'il vous plaît (L'addition s'il vous plaît)",
-      "de": "Bonjour (Guten Tag), Merci (Danke), L'addition s'il vous plaît (Die Rechnung bitte)",
-      "hu": "Bonjour (Jó napot), Merci (Köszönöm), L'addition s'il vous plaît (A számlát kérem)",
-      "ro": "Bonjour (Bună ziua), Merci (Mulțumesc), L'addition s'il vous plaît (Nota, vă rog)",
-      "en": "Bonjour (Hello), Merci (Thank you), L'addition s'il vous plaît (The bill please)"
+      "fr": "Phrases essentielles: «Bonjour» (bon-zhoor, bonjour), «Merci» (mehr-see, merci), «L'addition s'il vous plaît» (la-dee-syon seel-voo-pleh, l'addition).",
+      "de": "Wichtige Sätze auf Französisch: «Bonjour» (bon-schur, Hallo), «Merci» (mär-ssi, Danke), «L'addition s'il vous plaît» (la-di-ssjong ssil-wu-plä, die Rechnung bitte).",
+      "hu": "Hasznos francia kifejezések: «Bonjour» (bonzsúr, jó napot), «Merci» (mörszi, köszönöm), «L'addition s'il vous plaît» (laddiszjon szilvuplé, a számlát kérem).",
+      "ro": "Expresii utile în franceză: «Bonjour» (bon-jur, bună ziua), «Merci» (mer-si, mulțumesc), «L'addition s'il vous plaît» (la-di-sion sil-vu-ple, nota de plată vă rog).",
+      "en": "Essential French phrases: 'Bonjour' (bohn-zhoor, hello), 'Merci' (mehr-see, thank you), 'L'addition s'il vous plaît' (lah-dee-syon seel-voo-pleh, the bill please)."
     },
     "best_time_to_visit": {
-      "fr": "Mai à septembre pour le climat, décembre pour la Fête des Lumières. Notez que de nombreux bouchons lyonnais traditionnels sont fermés le dimanche et le lundi.",
-      "de": "Mai bis September bietet das beste Wetter, während im Dezember das Lichterfest Millionen anzieht. Viele traditionelle Bouchons sind sonntags und montags geschlossen.",
-      "hu": "Május és szeptember között a legkellemesebb az időjárás, decemberben a Fényünnep (Fête des Lumières) vonz milliókat. A bouchonok vasárnap és hétfőn gyakran zárva tartanak.",
-      "ro": "Perioada mai-septembrie este ideală pentru vreme, iar în decembrie Festivalul Luminilor este spectaculos. Multe restaurante tipice (bouchons) sunt închise duminica și lunea.",
-      "en": "May to September offers the most pleasant weather, while December is famous for the Fête des Lumières. Be aware that many traditional bouchons are closed on Sundays and Mondays."
+      "fr": "Les meilleures périodes pour visiter Lyon sont mai-juin et septembre-octobre (températures douces, moins de touristes). Évitez août (chaleur, beaucoup de commerces fermés) et préparez-vous au froid humide en hiver.",
+      "de": "Die beste Reisezeit für Lyon ist Mai bis Juni und September bis Oktober (mildes Wetter, weniger Touristen). August meiden (Hitze, viele Geschäfte geschlossen), Winter feucht-kalt.",
+      "hu": "Lyon legjobb látogatási ideje május-június és szeptember-október (kellemes hőmérséklet, kevesebb turista). Augusztust kerülje (hőség, sok üzlet zárva), a tél nyirkos és hideg.",
+      "ro": "Cele mai bune perioade pentru Lyon sunt mai-iunie și septembrie-octombrie (vreme blândă, mai puțini turiști). Evitați august (caniculă, multe magazine închise), iarna este umedă și rece.",
+      "en": "The best times to visit Lyon are May-June and September-October (mild weather, fewer crowds). Avoid August (heatwaves, many shops closed for holidays) and expect damp, cold winters."
     },
     "neighborhood_warnings": {
-      "fr": "Ville sûre, mais soyez vigilant face aux pickpockets autour de la gare Part-Dieu. Dans le Vieux Lyon, ne laissez pas d'objets de valeur en évidence dans les zones touristiques.",
-      "de": "Generell sicher. Seien Sie am Bahnhof Part-Dieu wachsam gegenüber Taschendieben. Lassen Sie im touristischen Viertel Vieux Lyon keine Wertsachen unbeaufsichtigt.",
-      "hu": "Általában biztonságos város. A Part-Dieu pályaudvar környékén éjszaka legyél óvatos a zsebtolvajokkal. Vieux Lyon turistaövezet, ne hagyj értéket szem előtt.",
-      "ro": "Oraș sigur în general. Atenție la hoții de buzunare în zona gării Part-Dieu. În cartierul Vieux Lyon, nu lăsați obiecte de valoare la vedere în zonele aglomerate.",
-      "en": "Generally safe. Watch out for pickpockets around Part-Dieu station. In the touristy Vieux Lyon area, do not leave valuables unattended or clearly visible."
+      "fr": "Soyez vigilant aux pickpockets autour de la gare Part-Dieu, Bellecour et dans le métro aux heures de pointe. Évitez la Guillotière et certains secteurs du 8e/Mermoz la nuit.",
+      "de": "Achten Sie auf Taschendiebe rund um den Bahnhof Part-Dieu, Place Bellecour und in der Metro zur Stoßzeit. Meiden Sie La Guillotière und Teile des 8. Arrondissements (Mermoz) bei Nacht.",
+      "hu": "Vigyázzon a zsebtolvajokra a Part-Dieu pályaudvar, Place Bellecour környékén és a metróban csúcsidőben. Éjszaka kerülje a Guillotière negyedet és a 8. kerület egyes részeit (Mermoz).",
+      "ro": "Atenție la buzunărași în jurul gării Part-Dieu, Place Bellecour și în metrou la orele de vârf. Evitați cartierul La Guillotière și anumite zone din arondismentul 8 (Mermoz) noaptea.",
+      "en": "Watch for pickpockets around Part-Dieu station, Place Bellecour and on the metro at rush hour. Avoid La Guillotière and parts of the 8th arrondissement (Mermoz) at night."
     }
   }
 }
