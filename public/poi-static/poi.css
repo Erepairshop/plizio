@@ -593,3 +593,11 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-itin-more[open] summary{background:#4cc6ff;color:#0a0f1c}
 .plz-itin-more[open]{display:inline-flex;flex-wrap:wrap;gap:.32rem;align-items:center}
 .plz-itin-more[open] .plz-itin-link{margin-left:.32rem}
+
+/* PlizioGo logo + header layout v=20260524d */
+.plz-itin-header{display:flex;align-items:center;gap:1rem;margin-bottom:.5rem;flex-wrap:wrap}
+.plz-go-logo{height:42px;width:auto;flex:0 0 auto;filter:drop-shadow(0 2px 8px rgba(76,198,255,.25))}
+.plz-itin-sub{flex:1 1 200px;min-width:0}
+.plz-itin-tagline{font-size:1.05rem;font-weight:600;color:#e6ecf3;line-height:1.2}
+.plz-itin-intro{font-size:.85rem;color:rgba(230,236,243,.65);margin-top:.15rem;line-height:1.4}
+@media (max-width:520px){.plz-go-logo{height:34px}.plz-itin-tagline{font-size:.95rem}.plz-itin-intro{font-size:.8rem}}

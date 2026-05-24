@@ -622,7 +622,8 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   if (langT) infoBlocks.push(`<div class="plz-itin-info"><h3>${C.langTips}</h3><p>${escapeHtml(langT)}</p></div>`);
   const resourcesHtml = (resGrid || infoBlocks.length) ? `<section class="plz-itin-resources"><h2>${C.resTitle}</h2><p style="color:var(--muted);font-size:.9rem;margin:0 0 .8rem">${C.resIntro}</p>${resGrid}<div class="plz-itin-info-grid">${infoBlocks.join("")}</div></section>` : "";
 
-  return `<section class="plz-itin" id="plz-itin"><div class="plz-itin-header"><h2>📅 ${C.title}</h2></div><p style="color:var(--muted);margin:0 0 .6rem">${C.intro}</p><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${modeBlocks}</section>${resourcesHtml}
+  const logoSvg = `<svg class="plz-go-logo" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" aria-label="PlizioGo"><defs><linearGradient id="plzgoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4cc6ff"/><stop offset="50%" stop-color="#7dd87a"/><stop offset="100%" stop-color="#ffae5c"/></linearGradient></defs><text x="0" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="800" font-size="36" fill="#e6ecf3" letter-spacing="-1">Plizio</text><text x="118" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="900" font-size="36" fill="url(#plzgoGrad)" letter-spacing="-1.5">Go</text><circle cx="200" cy="14" r="5" fill="#4cc6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle></svg>`;
+  return `<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${modeBlocks}</section>${resourcesHtml}
 <script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var bs=r.querySelectorAll('[data-mode]'),cs=document.querySelectorAll('[data-mode-content]');bs.forEach(function(b){b.addEventListener('click',function(){var m=b.dataset.mode;bs.forEach(function(x){x.setAttribute('aria-selected',x===b?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.modeContent===m)})})})})();</script>`;
 }
 
@@ -979,13 +980,13 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
     <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderCityItinerary(poi, lang)}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
   ${gameCtaHtml}
   ${faqHtml}
   ${sightsHtml}
-  ${renderCityItinerary(poi, lang)}
   ${nearbyHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
