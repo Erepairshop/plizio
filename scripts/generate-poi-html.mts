@@ -991,7 +991,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524a"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524f"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1263,7 +1263,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524b"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524f"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
