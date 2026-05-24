@@ -1,5 +1,14 @@
 [
   {
+    "title": "Also doch: Giesinger auf dem Oktoberfest!",
+    "snippet": "Ein Prosit aus Australien: Der „German Club“ in Brisbane schenkt bei seinem Traditionsfest 2026 alle sieben großen Münchner Biere aus. Die erste Lieferung wird demnächst verladen.",
+    "url": "https://www.merkur.de/lokales/muenchen/also-doch-giesinger-auf-dem-oktoberfest-94319004.html",
+    "source": "Münchner Merkur",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 20:00:00 +0200"
+  },
+  {
     "title": "„Lieber zwei Arbeiten, als zum Sozialamt“: Rentnerin hat in München kaum Geld zum Leben übrig",
     "snippet": "Früher alleinerziehend mit fünf Kindern, heute in der Altersarmut: Ein Gespräch mit Rentnerin Christa Zimmerer im ASZ Westend der Caritas.",
     "url": "https://www.merkur.de/lokales/muenchen/lieber-zwei-arbeiten-als-zum-sozialamt-rentnerin-hat-in-muenchen-kaum-geld-zum-leben-uebrig-94317841.html",
@@ -16,15 +25,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 15:40:27 +0200"
-  },
-  {
-    "title": "Grüne wollen Altstadt zur Fußgängerzone machen – Gehbehinderte fürchtet um Versorgung",
-    "snippet": "Die Grünen haben im Stadtrat beantragt, Rosental und Prälat-Zistl-Straße für Autos zu sperren. Marianne Reit wohnt in der Altenwohnanlage am Sebastiansplatz und kann nur noch 50 Meter laufen.",
-    "url": "https://www.merkur.de/lokales/muenchen/altstadt-lehel-ort43327/gruene-wollen-altstadt-zur-fussgaengerzone-machen-gehbehinderte-fuerchtet-um-versorgung-94315224.html",
-    "source": "Münchner Merkur",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:19:16 +0200"
   },
   {
     "title": "Nach tödlichem Hantavirus-Ausbruch: Zweite Kontaktperson verlässt Münchner Klinik",
@@ -54,6 +54,15 @@
     "date": "Fri, 22 May 2026 14:01:53 +0200"
   },
   {
+    "title": "Kriegswaffen illegal nach München geschmuggelt: Vier Männer legen Geständnisse am Landgericht ab",
+    "snippet": "Vor dem Landgericht haben vier ältere Männer den Schmuggel von Kriegswaffen nach Deutschland zugegeben. Die mutmaßlichen Bosse der Bande sitzen bereits im Knast – sie waren 2022 verurteilt worden.",
+    "url": "https://www.merkur.de/lokales/muenchen/vier-maenner-gestehen-kriegswaffen-schmuggel-aus-jugoslawien-94315770.html",
+    "source": "Münchner Merkur",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 21:30:00 +0200"
+  },
+  {
     "title": "Stadtrat geht nächsten Schritt für Olympia in München – mit zentralem Argument",
     "snippet": "Olympia rückt für München immer näher - zumindest was die Bewerbung angeht. Im Zentrum steht dabei vor allem ein Argument.",
     "url": "https://www.merkur.de/lokales/muenchen/stadtrat-geht-naechsten-schritt-fuer-olympia-in-muenchen-mit-zentralem-argument-94314900.html",
@@ -70,14 +79,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 11:58:00 +0200"
-  },
-  {
-    "title": "Wo Karl Valentin das ABC lernte: Grundschule feiert Jubiläum",
-    "snippet": "Die Grundschule an der Klenzestraße wird 150 Jahre alt. Eine 95-jährige Zeitzeugin erinnert sich an dramatische Kriegsjahre.",
-    "url": "https://www.merkur.de/lokales/muenchen/ludwigsvorstadt-isarvorstadt-ort43328/wo-karl-valentin-das-abc-lernte-grundschule-feiert-jubilaeum-94307980.html",
-    "source": "Münchner Merkur",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 08:00:00 +0200"
   }
 ]

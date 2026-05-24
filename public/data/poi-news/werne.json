@@ -1,5 +1,23 @@
 [
   {
+    "title": "Denkmalgeschütztes Haus an der  Südmauer verfällt zusehends: Gericht fällt erstes Urteil",
+    "snippet": "Das denkmalgeschützte Haus an der Südmauer 27 in Werne sorgt seit Jahren für Konflikte. Nun gibt es eine neue Entwicklung im juristischen Streit um die Immobilie.",
+    "url": "https://www.ruhrnachrichten.de/werne/gammelhaus-suedmauer-werne-denkmal-gerichtsurteil-abriss-klage-eigentuemer-stadt-politik-immobilie-w1196082-2002073032/",
+    "source": "Ruhr Nachrichten - Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 04:00:00 +0000"
+  },
+  {
+    "title": "Machtkampf, Mord und eine Frau, die sich dem Schicksal entgegenstemmt: Die Geschichte von Haus Dahl",
+    "snippet": "Ihr Mann ein Mörder, ihre Burg verloren: Da steigt Gräfin Hadewig bei Selm-Bork in die Lippe – nicht aus Verzweiflung, sondern entschlossen, alles zu retten.",
+    "url": "https://www.ruhrnachrichten.de/selm/bork-waltrop-datteln-hadewig-flucht-lippe-haus-dahl-w1189367-2002059008/",
+    "source": "Ruhr Nachrichten - Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 18:00:00 +0000"
+  },
+  {
     "title": "Sperrungen auf der A1: Arbeiten an Anschlüssen in Münster-Nord und Ascheberg",
     "snippet": "Auf der A1 stehen nächtliche Sperrungen an: In Münster-Nord und Ascheberg werden Ausfahrten in Richtung Köln für Fahrbahnsanierungen gesperrt.",
     "url": "https://www.ruhrnachrichten.de/herbern/sperrungen-a1-muenster-nord-ascheberg-fahrbahnsanierung-richtung-koeln-w1197362-2002076026/",
@@ -9,13 +27,13 @@
     "date": "Sat, 23 May 2026 13:00:00 +0000"
   },
   {
-    "title": "„Es geht nur mit der vollen Wahrheit“: Clemens Overmann – ein nimmermüdes Urgestein aus Werne",
-    "snippet": "Clemens Overmann prägt Werne seit Jahrzehnten: Mit Bürgerinitiativen, NS-Aufarbeitung und einem Laden, der Regionalität und Gemeinschaft in den Fokus stellt.",
-    "url": "https://www.ruhrnachrichten.de/werne/clemens-overmann-werne-lebensmittelhandel-ns-aufarbeitung-buergerinitiativen-streuobstwiesen-w1197343-2002076693/",
-    "source": "Ruhr Nachrichten - Werne",
+    "title": "Veranstaltungen am Wochenende um Lünen, Werne, Selm: Schützenfeste, Konzert und Festival",
+    "snippet": "Auch am Pfingstwochenende (22. bis 25. Mai) ist viel los in Lünen, Selm, Werne und der Umgebung. Wir geben einige Veranstaltungstipps.",
+    "url": "https://www.wa.de/lokales/werne/veranstaltungen-am-wochenende-um-luenen-werne-selm-schuetzenfeste-konzert-und-festival-94319381.html",
+    "source": "WA Werne",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 10:00:00 +0000"
+    "date": "Fri, 22 May 2026 17:55:53 +0200"
   },
   {
     "title": "Badesaison beginnt: Öffnungstermine der Freibäder in Lünen, Selm und Werne",
@@ -25,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 04:00:00 +0000"
+  },
+  {
+    "title": "Stadtlauf in Werne 2026: Verantwortliche stellen Programm, Strecke und Sicherheitskonzept vor",
+    "snippet": "Der 24. Werner Volksbank Stadtlauf wird am 13. Juni wieder zahlreiche Sportler in die Lippestadt locken. Das Programm steht - genauso wie das Sicherheitskonzept.",
+    "url": "https://www.wa.de/lokales/werne/stadtlauf-in-werne-2026-verantwortliche-stellen-programm-strecke-und-sicherheitskonzept-vor-94317177.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 16:18:11 +0200"
   },
   {
     "title": "Rat in Werne beschließt Bauturbo: Neuer Wohnraum kann jetzt deutlich schneller entstehen",
@@ -45,12 +72,57 @@
     "date": "Fri, 22 May 2026 14:47:00 +0000"
   },
   {
-    "title": "Problem-Immobilie in Werne soll bald saniert werden: „Sind gerade in der Feinabstimmung“",
-    "snippet": "Nach Jahren des Verfalls könnte das Haus an der Burgstraße 15 in Werne bald saniert werden. Die Stadt und der neue Eigentümer arbeiten noch an Details.",
-    "url": "https://www.ruhrnachrichten.de/werne/problem-immobilie-burgstrasse-werne-sanierung-denkmalschutz-wohneinheiten-wohnen-plaene-w1196685-2002074884/",
-    "source": "Ruhr Nachrichten - Werne",
+    "title": "Sommerzeit im Schwimmbad beginnt: Freibad am Solebad öffnet",
+    "snippet": "Im Solebad in Werne beginnt am Freitag die Sommerzeit: Das Freibad wird geöffnet. Zusätzlich gibt es neue Öffnungszeiten.",
+    "url": "https://www.wa.de/lokales/werne/sommerzeit-im-schwimmbad-beginnt-freibad-am-solebad-oeffnet-94315436.html",
+    "source": "WA Werne",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 12:00:00 +0000"
+    "date": "Wed, 20 May 2026 16:27:07 +0200"
+  },
+  {
+    "title": "Gießpatenprogramm in Werne läuft schleppend an: Grüne Säcke sollen entfernt werden",
+    "snippet": "In Werne sollen Bürger Stadtbäume vor Trockenheit schützen. Ein Patenschaftsprogramm läuft schleppend an, doch eine Erweiterung ist bereits geplant.",
+    "url": "https://www.wa.de/lokales/werne/giesspatenprogramm-in-werne-laeuft-schleppend-an-gruene-saecke-sollen-entfernt-werden-94313513.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 15:47:34 +0200"
+  },
+  {
+    "title": "Schützenfest an Pfingsten: Vier-Tages-Event mit Party und Tradition",
+    "snippet": "Über Pfingsten wird beim Schützenverein Frohsinn 07 ein neuer König ausgeschossen. Es wartet ein vielfältiges Programm auf alle Besucher.",
+    "url": "https://www.wa.de/lokales/werne/schuetzenfest-in-werne-an-pfingsten-vier-tages-event-mit-party-und-tradition-94311372.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 18 May 2026 13:43:33 +0200"
+  },
+  {
+    "title": "Mitmachen und gewinnen: Wir suchen die schönsten Freundschafts-Geschichten",
+    "snippet": "WA, Lippewelle und Veltins starten eine besondere Aktion. Ihre Freundschaft könnte mit einem tollen Preis belohnt werden.",
+    "url": "https://www.wa.de/hamm/zeitung-und-radio-suchen-die-schoensten-freundschafts-geschichten-94303892.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 14 May 2026 19:30:00 +0200"
+  },
+  {
+    "title": "Neue Bezirksdienstbeamte in Werne: Schröder und Ambrosi sind keine Unbekannten",
+    "snippet": "Seit Januar 2026 sind Carsten Schröder und Carsten Ambrosi als Bezirksdienstbeamte in Werne tätig. Ihre Aufgaben reichen von Schulwegsicherung bis Präsenz.",
+    "url": "https://www.wa.de/lokales/werne/neue-bezirksdienstbeamte-in-werne-schroeder-und-ambrosi-sind-keine-unbekannten-94305939.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 17:25:59 +0200"
+  },
+  {
+    "title": "Lautloses Ertrinken: Neue Initiativen im Solebad Werne sollen Badeunfälle verhindern",
+    "snippet": "Badeunfälle verlaufen oft anders, als man denkt. Im Solebad Werne wurden neue Initiativen vorgestellt, um Kinder vor lautlosem Ertrinken zu schützen.",
+    "url": "https://www.wa.de/lokales/werne/lautloses-ertrinken-neue-initiativen-im-solebad-werne-sollen-badeunfaelle-verhindern-94298810.html",
+    "source": "WA Werne",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 08 May 2026 16:56:38 +0200"
   }
 ]

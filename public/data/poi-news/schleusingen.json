@@ -9,13 +9,22 @@
     "date": "Tue, 19 May 2026 15:30:21 GMT"
   },
   {
-    "title": "Verkehr: A73 ab Schleusingen wieder frei - DIE ZEIT",
-    "snippet": "Verkehr: A73 ab Schleusingen wieder frei DIE ZEIT",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRllja3ZFcWJ0dEJoTkszaHZmbzhBVHQ4aE53V3BMRVkwcnBhTExNc2dnTXJqUldfT09qYlN1Yjg1Q3FMdnVwSktmVTgxSVZDX0xhZFo4d3RicVJFc2tEU3BpcEwxN1M4VVlhSHVtSlM1NUhhZ1E?oc=5",
+    "title": "Museumstag in Schleusingen: Rätselhaftes im Museum - inSüdthüringen",
+    "snippet": "Museumstag in Schleusingen: Rätselhaftes im Museum inSüdthüringen",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWFaQWdQWC1RNHdMVFBlcTJBM0xnZHlTSUJuZUl2WFdqeU55Q2hKcm54M0xmaDdUb0tfcVk2aE1rRGM3N1p3OVhzTV93T0NZYmdZLTc4bjVUdU1udDJHa09aZnJ2MWpHaUFZVGY1SkVXTjZZWkNaVnJKZTJxNF92dzJLbWVLVTZyYW1GS2RTMzAwNjNwM2FpS2Vhb05zV00xSEU5UE1PYmRXa0ctaDBxUG9iWHF5UmhGU0FxU1d4c3ZuajdER192MVE1QQ?oc=5",
     "source": "google-news",
     "lang": "de",
     "scope": "search",
-    "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+    "date": "Mon, 18 May 2026 14:00:00 GMT"
+  },
+  {
+    "title": "Lindenschule in Schleusingen zumindest für zwei Schuljahre gerettet",
+    "snippet": "Die Lindenschule in Schleusingen sieht sich in akuter Gefahr - aus finanziellen Gründen, aber auch aufgrund Lehrermangels. Nun gibt es zumindest eine Gnadenfrist.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen/hildburghausen/schleusingen-lindenschule-unterricht-frist-100.html",
+    "source": "MDR Th Sued",
+    "lang": "de",
+    "scope": "region",
+    "date": "Tue, 24 Mar 2026 18:31:09 +0100"
   },
   {
     "title": "Fit für das Saarland: Erfolgreiches Special Olympics Tischtennis-Training in Schleusingen - Special Olympics Deutschland",
@@ -27,13 +36,13 @@
     "date": "Thu, 07 May 2026 14:14:42 GMT"
   },
   {
-    "title": "Schleusingen versteigert Autohaus-Inventar - MDR",
-    "snippet": "Schleusingen versteigert Autohaus-Inventar MDR",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54YnN3WmttWlBTazVTVWQyYjJoN3N3WU1WRV93T0h5SXlJWWhweTVXaHFiZFhDTUJ1WkdnSGZOajhveVZHXzZOelBhUU9fVGh0ZnA2d1REZ1NBVWxsR3BiTjJJLW5fcVE?oc=5",
-    "source": "google-news",
+    "title": "Wegen Lindenschule: Stiftung kann Krankenhaus in Schleusingen nicht kaufen",
+    "snippet": "Der Verkauf des ehemaligen Krankenhauses in Schleusingen ist offenbar vorerst geplatzt. Grund dafür ist eine hohe Rückforderung des Landes.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen/hildburghausen/klinik-kauf-finanzen-aerzte-stiftung-100.html",
+    "source": "MDR Th Sued",
     "lang": "de",
-    "scope": "search",
-    "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    "scope": "region",
+    "date": "Sat, 21 Mar 2026 05:23:09 +0100"
   },
   {
     "title": "Nehmen Sie Kontakt mit uns auf",
@@ -43,5 +52,23 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Verkehr: A73 ab Schleusingen wieder frei - Volksstimme",
+    "snippet": "Verkehr: A73 ab Schleusingen wieder frei Volksstimme",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZWdGclF6TkZkRHlMOW53RTdZc0tNcG5ETUM2cmJQSkpTSnhQYjJpSkpkQW1nYllOcU95a2FiaXpqdkN4OGlUU0VkU0JwZ01PYUJ4NVozX1RKY2dqN0NCMWxBZWVTcC1sakhuZS1YMUFOWVVyQzMwdXgxMVlRcnFJVQ?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Schleusingen versteigert Autohaus-Inventar - MDR",
+    "snippet": "Schleusingen versteigert Autohaus-Inventar MDR",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54YnN3WmttWlBTazVTVWQyYjJoN3N3WU1WRV93T0h5SXlJWWhweTVXaHFiZFhDTUJ1WkdnSGZOajhveVZHXzZOelBhUU9fVGh0ZnA2d1REZ1NBVWxsR3BiTjJJLW5fcVE?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Sat, 25 Apr 2026 07:00:00 GMT"
   }
 ]

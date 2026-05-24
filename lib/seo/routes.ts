@@ -369,26 +369,103 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
   return region;
 }
 
-// Content-marker title: "{Name}: {benefit1, benefit2, benefit3} | Plizio"
-// Benefits chosen per language for CTR — same set Google rewards (history,
-// map, sights, photos, facts). Length capped at 65 chars to avoid SERP truncation.
-const TITLE_BENEFITS: Record<Lang, string> = {
-  de: "Geschichte, Karte, Sehenswürdigkeiten",
-  hu: "Történelem, Térkép, Látnivalók",
-  ro: "Istorie, Hartă, Obiective Turistice",
-  en: "History, Map, Sights & Photos",
+// Type-aware, keyword-forward title generation.
+// Format: "{Name} ({state}): {kw1}, {kw2}, {kw3} | Plizio"  — up to 70 chars.
+// Keywords are type-specific and ordered by search volume (descending).
+// Drops trailing keywords or state until fit.
+
+const TYPE_KEYWORDS: Record<string, Record<Lang, string[]>> = {
+  city: {
+    de: ["Sehenswürdigkeiten", "Karte", "Wetter", "Nachrichten", "Geschichte"],
+    hu: ["Látnivalók", "Térkép", "Időjárás", "Hírek", "Történelem"],
+    ro: ["Obiective turistice", "Hartă", "Vremea", "Știri", "Istorie"],
+    en: ["Sights", "Map", "Weather", "News", "History"],
+  },
+  castle: {
+    de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
+    hu: ["Vár", "Történelem", "Térkép", "Fotók", "Időjárás"],
+    ro: ["Castel", "Istorie", "Hartă", "Fotografii", "Vremea"],
+    en: ["Castle", "History", "Map", "Photos", "Weather"],
+  },
+  mountain: {
+    de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
+    hu: ["Túrázás", "Térkép", "Időjárás", "Fotók", "Magasság"],
+    ro: ["Drumeții", "Hartă", "Vremea", "Fotografii", "Altitudine"],
+    en: ["Hiking", "Map", "Weather", "Photos", "Elevation"],
+  },
+  lake: {
+    de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
+    hu: ["Strandok", "Térkép", "Időjárás", "Látnivalók", "Fotók"],
+    ro: ["Plaje", "Hartă", "Vremea", "Obiective", "Fotografii"],
+    en: ["Beaches", "Map", "Weather", "Sights", "Photos"],
+  },
+  river: {
+    de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
+    hu: ["Térkép", "Folyamatos", "Látnivalók", "Időjárás", "Fotók"],
+    ro: ["Hartă", "Curs", "Obiective", "Vremea", "Fotografii"],
+    en: ["Map", "Course", "Sights", "Weather", "Photos"],
+  },
+  historical: {
+    de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
+    hu: ["Történelem", "Térkép", "Látnivalók", "Fotók", "Látogatás"],
+    ro: ["Istorie", "Hartă", "Obiective", "Fotografii", "Vizită"],
+    en: ["History", "Map", "Sights", "Photos", "Visit"],
+  },
+  landmark: {
+    de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
+    hu: ["Látnivalók", "Térkép", "Fotók", "Történelem", "Időjárás"],
+    ro: ["Obiective", "Hartă", "Fotografii", "Istorie", "Vremea"],
+    en: ["Sights", "Map", "Photos", "History", "Weather"],
+  },
+  nature: {
+    de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
+    hu: ["Térkép", "Időjárás", "Túrázás", "Fotók", "Természet"],
+    ro: ["Hartă", "Vremea", "Drumeții", "Fotografii", "Natură"],
+    en: ["Map", "Weather", "Hiking", "Photos", "Nature"],
+  },
 };
+
+// Type aliases — POI.type → bucket key
+const TYPE_ALIAS: Record<string, string> = {
+  "state-capital": "city",
+  town: "city",
+  village: "city",
+  fort: "castle",
+  peak: "mountain",
+  hill: "mountain",
+  forest: "nature",
+  island: "nature",
+  sea: "nature",
+  bay: "nature",
+};
+
 export function poiTitle(poi: POI, lang: Lang) {
   const state = getStateForPoi(poi);
   const name = localizedValue(poi.name, lang) || poi.id;
   const stateName = localizedStateName(state?.id ?? poi.parent ?? "", lang);
-  const benefits = TITLE_BENEFITS[lang] || TITLE_BENEFITS.en;
-  // Try the full form first; if too long for SERP, fall back to shorter.
-  const full = `${name}: ${benefits}, ${stateName} | Plizio`;
-  if (full.length <= 65) return full;
-  const noState = `${name}: ${benefits} | Plizio`;
-  if (noState.length <= 65) return noState;
-  return `${name} - ${stateName} | Plizio Visual Lab`; // legacy fallback
+  const bucket = TYPE_ALIAS[poi.type] || (TYPE_KEYWORDS[poi.type] ? poi.type : "landmark");
+  const keywords = TYPE_KEYWORDS[bucket]?.[lang] || TYPE_KEYWORDS.landmark[lang] || TYPE_KEYWORDS.landmark.en;
+  const SUFFIX = " | Plizio";
+  const MAX = 70;
+
+  // Skip state if same as name (e.g. Berlin/Berlin city-state) to avoid "Berlin (Berlin)".
+  const showState = stateName && stateName.toLowerCase() !== name.toLowerCase();
+  const tryBuild = (withState: boolean, kwCount: number) => {
+    const kws = keywords.slice(0, kwCount).join(", ");
+    if (withState && showState) return `${name} (${stateName}): ${kws}${SUFFIX}`;
+    return `${name}: ${kws}${SUFFIX}`;
+  };
+
+  for (const kwCount of [4, 3]) {
+    const t = tryBuild(true, kwCount);
+    if (t.length <= MAX) return t;
+  }
+  for (const kwCount of [4, 3, 2]) {
+    const t = tryBuild(false, kwCount);
+    if (t.length <= MAX) return t;
+  }
+  // Ultra-short fallback
+  return `${name}: ${keywords[0]}${SUFFIX}`;
 }
 
 // Enhanced description: short desc + sights-count + facts-count signals to

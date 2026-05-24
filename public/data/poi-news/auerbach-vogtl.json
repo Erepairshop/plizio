@@ -1,9 +1,18 @@
 [
   {
+    "title": "Mit 101 noch aktiv: Was wir von den Ältesten in Auerbach lernen können",
+    "snippet": "Wie bleibt man bis ins hohe Alter fit? Dieser Frage ist eine Veranstaltung in der Kulturfabrik Auerbach im Vogtland nachgegangen. Das Fazit war eindeutig: Es ist nie zu spät, gute Vorsätze umzusetzen.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/alter-ernaehrung-sport-bewegung-fitness-gedaechtnis-100.html",
+    "source": "MDR Sachsen Chemnitz",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 12:00:00 +0200"
+  },
+  {
     "title": "Neue Sonderausstellung \"140 Jahre BRK Auerbach\"",
     "snippet": "Am vergangenen Freitag fand die Vernissage zur neuen Sonderausstellung 140 Jahre BRK Auerbach statt. Zu diesem besonderen Anlass durften wir einen Ehrengast begr en: den Pr sidenten des Bayerischen Roten Kreuz, Herrn Hans-Michael Weisky. Kurz vor der Vernissage fand ein Rathausempfang statt, bei dem",
     "url": "https://www.auerbach.de/aktuelles/details/?cms_beg=0&single_filter_titelmd5=e115de8b0a32a10fd6fb1e8d2268fce9&cmsshowfull=1_1_1000&dummy=0#cmsjumpto16",
-    "source": "auerbach.de (official)",
+    "source": "Auerbach in der Oberpfalz (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 24 Mar 2026 16:43:07 GMT"
@@ -21,7 +30,7 @@
     "title": "Auerbach ist weiterhin Fairtrade-Town",
     "snippet": "Die Stadt Auerbach i.d.OPf. erf llt weiterhin alle f nf Kriterien der Fairtrade-Towns Kampagne und tr gt f r weitere zwei Jahre den Titel Fairtrade-Stadt. Die Auszeichnung wurde erstmalig im Jahr 2024 durch Fairtrade Deutschland e.V. verliehen. Hierf r musste die Stadt Auerbach i.d.OPf. nachweislich",
     "url": "https://www.auerbach.de/aktuelles/details/?cms_beg=0&single_filter_titelmd5=2cedeefdbe503d7ca1484764ba74600b&cmsshowfull=1_1_1000&dummy=0#cmsjumpto33",
-    "source": "auerbach.de (official)",
+    "source": "Auerbach in der Oberpfalz (official)",
     "lang": "de",
     "scope": "city",
     "date": "Mon, 02 Feb 2026 17:57:14 GMT"
@@ -36,15 +45,6 @@
     "date": "Tue, 28 Apr 2026 13:40:55 +0000"
   },
   {
-    "title": "Das Netzwerk SchuleWirtschaft Pegnitz-Auerbach wurde erneut ausgezeichnet",
-    "snippet": "F r die besonders gelungene Berufsorientierungsveranstaltung Nacht der Technik erhielt der Arbeitskreis einen mit 4.000 Euro dotierten Staatspreis des Bayerischen Staatsministeriums f r Familie, Arbeit und Soziales. Ausgezeichnet wurde das Konzept der Veranstaltung, die Sch lerinnen und Sch lern pra",
-    "url": "https://www.auerbach.de/aktuelles/details/?cms_beg=0&single_filter_titelmd5=4ddf84cb9fc3c44c4ebe958ace0a7047&cmsshowfull=1_1_1000&dummy=0#cmsjumpto42",
-    "source": "auerbach.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Tue, 16 Dec 2025 13:59:32 GMT"
-  },
-  {
     "title": "Veranstaltungen bei uns",
     "snippet": "Veranstaltungen bei uns 120-Jahre VfB Auerbach Jubil&auml;umswochenende in Beerheide 23.&#8203;05.&#8203;2026 bis 24.&#8203;05.&#8203;2026 B&uuml;rgerberatung zu Boden und Wasser 28.&#8203;05.&#8203;2026 - 11:15 Uhr bis 12:15 Uhr Kinderfest im Hofaupark 01.&#8203;06.&#8203;2026 - 15:00 Uhr bis 18:00",
     "url": "https://www.stadt-auerbach.de/veranstaltungen/2899242/2026/05/23/120-jahre-vfb-auerbach-jubiläumswochenende-in-beerheide.html",
@@ -52,5 +52,14 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Das Netzwerk SchuleWirtschaft Pegnitz-Auerbach wurde erneut ausgezeichnet",
+    "snippet": "F r die besonders gelungene Berufsorientierungsveranstaltung Nacht der Technik erhielt der Arbeitskreis einen mit 4.000 Euro dotierten Staatspreis des Bayerischen Staatsministeriums f r Familie, Arbeit und Soziales. Ausgezeichnet wurde das Konzept der Veranstaltung, die Sch lerinnen und Sch lern pra",
+    "url": "https://www.auerbach.de/aktuelles/details/?cms_beg=0&single_filter_titelmd5=4ddf84cb9fc3c44c4ebe958ace0a7047&cmsshowfull=1_1_1000&dummy=0#cmsjumpto42",
+    "source": "Auerbach in der Oberpfalz (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 16 Dec 2025 13:59:32 GMT"
   }
 ]

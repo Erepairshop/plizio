@@ -30,6 +30,7 @@ const {
   buildPoiPath,
   countrySlugFor,
   getCountryId,
+  regions,
 } = slugs;
 
 // Load official links (POI id → {site, fb}) once at startup. Renders inline
@@ -137,6 +138,96 @@ const pois: POI[] = await loadFullPois();
 type Lang = "de" | "hu" | "ro" | "en" | "fr";
 
 const SITE_URL = "https://plizio.com";
+
+// Type-aware keyword-forward title (mirrors lib/seo/routes.ts poiTitle, +fr).
+const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
+  city: {
+    de: ["Sehenswürdigkeiten", "Karte", "Wetter", "Nachrichten", "Geschichte"],
+    hu: ["Látnivalók", "Térkép", "Időjárás", "Hírek", "Történelem"],
+    ro: ["Obiective turistice", "Hartă", "Vremea", "Știri", "Istorie"],
+    en: ["Sights", "Map", "Weather", "News", "History"],
+    fr: ["Sites touristiques", "Carte", "Météo", "Actualités", "Histoire"],
+  },
+  castle: {
+    de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
+    hu: ["Vár", "Történelem", "Térkép", "Fotók", "Időjárás"],
+    ro: ["Castel", "Istorie", "Hartă", "Fotografii", "Vremea"],
+    en: ["Castle", "History", "Map", "Photos", "Weather"],
+    fr: ["Château", "Histoire", "Carte", "Photos", "Météo"],
+  },
+  mountain: {
+    de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
+    hu: ["Túrázás", "Térkép", "Időjárás", "Fotók", "Magasság"],
+    ro: ["Drumeții", "Hartă", "Vremea", "Fotografii", "Altitudine"],
+    en: ["Hiking", "Map", "Weather", "Photos", "Elevation"],
+    fr: ["Randonnée", "Carte", "Météo", "Photos", "Altitude"],
+  },
+  lake: {
+    de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
+    hu: ["Strandok", "Térkép", "Időjárás", "Látnivalók", "Fotók"],
+    ro: ["Plaje", "Hartă", "Vremea", "Obiective", "Fotografii"],
+    en: ["Beaches", "Map", "Weather", "Sights", "Photos"],
+    fr: ["Plages", "Carte", "Météo", "Sites", "Photos"],
+  },
+  river: {
+    de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
+    hu: ["Térkép", "Folyamatos", "Látnivalók", "Időjárás", "Fotók"],
+    ro: ["Hartă", "Curs", "Obiective", "Vremea", "Fotografii"],
+    en: ["Map", "Course", "Sights", "Weather", "Photos"],
+    fr: ["Carte", "Cours", "Sites", "Météo", "Photos"],
+  },
+  historical: {
+    de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
+    hu: ["Történelem", "Térkép", "Látnivalók", "Fotók", "Látogatás"],
+    ro: ["Istorie", "Hartă", "Obiective", "Fotografii", "Vizită"],
+    en: ["History", "Map", "Sights", "Photos", "Visit"],
+    fr: ["Histoire", "Carte", "Sites", "Photos", "Visite"],
+  },
+  landmark: {
+    de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
+    hu: ["Látnivalók", "Térkép", "Fotók", "Történelem", "Időjárás"],
+    ro: ["Obiective", "Hartă", "Fotografii", "Istorie", "Vremea"],
+    en: ["Sights", "Map", "Photos", "History", "Weather"],
+    fr: ["Sites touristiques", "Carte", "Photos", "Histoire", "Météo"],
+  },
+  nature: {
+    de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
+    hu: ["Térkép", "Időjárás", "Túrázás", "Fotók", "Természet"],
+    ro: ["Hartă", "Vremea", "Drumeții", "Fotografii", "Natură"],
+    en: ["Map", "Weather", "Hiking", "Photos", "Nature"],
+    fr: ["Carte", "Météo", "Randonnée", "Photos", "Nature"],
+  },
+};
+const TYPE_ALIAS: Record<string, string> = {
+  "state-capital": "city", town: "city", village: "city",
+  fort: "castle", peak: "mountain", hill: "mountain",
+  forest: "nature", island: "nature", sea: "nature", bay: "nature",
+};
+
+function buildPoiTitle(name: string, poi: POI, lang: Lang): string {
+  const bucket = TYPE_ALIAS[poi.type] || (TITLE_KEYWORDS[poi.type] ? poi.type : "landmark");
+  const kw = TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!;
+  // State name: try region lookup; fall back to poi.parent
+  let stateName = "";
+  const parent = poi.parent || "";
+  const r = (regions as POI[]).find((x) => x.id === parent);
+  if (r) {
+    stateName = (r.name as Record<string, string>)?.[lang]
+      || (r.name as Record<string, string>)?.de
+      || "";
+  }
+  const showState = stateName && stateName.toLowerCase() !== name.toLowerCase();
+  const SUFFIX = " | Plizio";
+  const MAX = 70;
+  const tryBuild = (withState: boolean, n: number): string => {
+    const kws = kw.slice(0, n).join(", ");
+    if (withState && showState) return `${name} (${stateName}): ${kws}${SUFFIX}`;
+    return `${name}: ${kws}${SUFFIX}`;
+  };
+  for (const n of [4, 3]) { const t = tryBuild(true, n); if (t.length <= MAX) return t; }
+  for (const n of [4, 3, 2]) { const t = tryBuild(false, n); if (t.length <= MAX) return t; }
+  return `${name}: ${kw[0]}${SUFFIX}`;
+}
 
 function hasIndexableContent(poi: POI): boolean {
   const desc = poi.description as Record<string, string> | undefined;
@@ -392,7 +483,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     || []) as string[];
 
   const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
-  const title = `${name} | Plizio`;
+  const title = buildPoiTitle(name, poi, lang);
   const metaDesc = (descText || `${name} — ${T(poi.type, lang)}`).slice(0, 160);
 
   const breadcrumbHome = `<a href="/${lang}/">${I("home", lang)}</a>`;

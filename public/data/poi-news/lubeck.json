@@ -1,21 +1,21 @@
 [
   {
-    "title": "Alle Ruderinnen aus Lübeck und Ratzeburg bei U19-EM in Brandenburg in A-Finals",
-    "snippet": "Greta Amort, Elena Schweisthal , Frederike Amort und Carla Steffen rudern am Sonntag sich bei den kontinentalen Meisterschaften um Medaillen.",
-    "url": "https://www.ln-online.de/sport/regional/alle-ruderinnen-aus-luebeck-und-ratzeburg-bei-u19-em-in-brandenburg-in-a-finals-U4H5YWUHGRB57HGKNJFY4W2DJE.html",
-    "source": "Lübecker Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:30:00 +0200"
-  },
-  {
     "title": "SV Todesfelde kassiert im Landespokal-Finale Heimpleite gegen Phönix Lübeck",
     "snippet": "Ausgerechnet im Endspiel um den Landespokal konnten die Fußballer des SV Todesfelde über weite Strecken ihr maximales Leistungsniveau nicht abrufen. Phönix Lübeck hatte es leichter als erwartet, im Joda-Sportpark zu gewinnen.",
     "url": "https://www.kn-online.de/sport/regional/sv-todesfelde-kassiert-im-landespokal-finale-heimpleite-gegen-phoenix-luebeck-DW6OSAUW55BQVPGG6N25DMAPKM.html",
     "source": "Kieler Nachrichten",
     "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 19:17:07 +0200"
+  },
+  {
+    "title": "Lübeck Cougars feiern bei den Hamburg Swans den dritten Regionalliga-Sieg",
+    "snippet": "Die Berglöwen haben ihre weiße Weste gewahrt. Doch mit dem Auftritt seiner Mannschaft beim 42:9-Auswärtserfolg dürfte Cheftrainer Florian Knüppel alles andere als zufrieden sein. Denn der Zweitliga-Absteiger leistete sich in Halbzeit eins viele Fehler, machte die Partie unnötig spannend.",
+    "url": "https://www.ln-online.de/sport/regional/luebeck-cougars-feiern-bei-den-hamburg-swans-den-dritten-regionalliga-sieg-ETBL6MLRQNABFHBJVWUOOJA4WQ.html",
+    "source": "Lübecker Nachrichten",
+    "lang": "de",
     "scope": "region",
-    "date": "Sat, 23 May 2026 18:15:47 +0200"
+    "date": "Sat, 23 May 2026 19:01:58 +0200"
   },
   {
     "title": "1. FC Phönix Lübeck gewinnt beim SV Todesfelde und nimmt am DFB-Pokal teil",
@@ -27,13 +27,22 @@
     "date": "2026-05-23T15:42:39Z"
   },
   {
-    "title": "Miniatur-Wunderland-Gründer machen neues Hotel in Lübeck auf – direkt am Wasser",
-    "snippet": "Das Hamburger Pierdrei Hotel, das die Braun-Zwillinge mit illustren Partnern betreiben, expandiert an einem spannenden Standort.",
-    "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article412063679/miniatur-wunderland-gruender-aus-hamburg-eroeffnen-neues-hotel-in-luebeck-direkt-am-wasser-1.html",
-    "source": "Hamburger Abendblatt",
+    "title": "Im Liveticker: So läuft das SHFV-Landespokal-Finale zwischen dem SV Todesfelde und Phönix Lübeck",
+    "snippet": "Auch die Neuauflage des Endspiels von 2024 hat Regionalligist 1. FC Phönix Lübeck beim SV Todesfelde für sich entschieden. Vor ausverkauftem Haus im Joda-Sportpark siegten die Adler am Samstag mit 4:1 und feierten den Einzug in die erste Runde des DFB-Pokals. Alle Tore, Highlights und Infos gibt’s z",
+    "url": "https://www.kn-online.de/sport/regional/im-liveticker-so-laeuft-das-shfv-landespokal-finale-zwischen-dem-sv-todesfelde-und-phoenix-luebeck-SBYYXJ56B5FBJNK2AWLMZTX2DQ.html",
+    "source": "Kieler Nachrichten",
     "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 22:08:00 +0200"
+    "scope": "state",
+    "date": "Sat, 23 May 2026 16:27:19 +0200"
+  },
+  {
+    "title": "Alle Ruderinnen aus Lübeck und Ratzeburg bei U19-EM in Brandenburg in A-Finals",
+    "snippet": "Greta Amort, Elena Schweisthal , Frederike Amort und Carla Steffen rudern am Sonntag sich bei den kontinentalen Meisterschaften um Medaillen.",
+    "url": "https://www.ln-online.de/sport/regional/alle-ruderinnen-aus-luebeck-und-ratzeburg-bei-u19-em-in-brandenburg-in-a-finals-U4H5YWUHGRB57HGKNJFY4W2DJE.html",
+    "source": "Lübecker Nachrichten",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 16:30:00 +0200"
   },
   {
     "title": "Im Liveticker: So läuft das SHFV-Landespokal-Finale zwischen dem SV Todesfelde und Phönix Lübeck",
@@ -45,21 +54,57 @@
     "date": "Sat, 23 May 2026 16:27:19 +0200"
   },
   {
-    "title": "Im Liveticker: So läuft das SHFV-Landespokal-Finale zwischen dem SV Todesfelde und Phönix Lübeck",
-    "snippet": "Auch die Neuauflage des Endspiels von 2024 hat Regionalligist 1. FC Phönix Lübeck beim SV Todesfelde für sich entschieden. Vor ausverkauftem Haus im Joda-Sportpark siegten die Adler am Samstag mit 4:1 und feierten den Einzug in die erste Runde des DFB-Pokals. Alle Tore, Highlights und Infos gibt’s z",
-    "url": "https://www.kn-online.de/sport/regional/im-liveticker-so-laeuft-das-shfv-landespokal-finale-zwischen-dem-sv-todesfelde-und-phoenix-luebeck-SBYYXJ56B5FBJNK2AWLMZTX2DQ.html",
-    "source": "Kieler Nachrichten",
+    "title": "POL-HL: HL- St. Gertrud / Einbrüche in Gartenlauben: Polizei nimmt Tatverdächtigen in Lübeck St. Gertrud fest",
+    "snippet": "Lübeck (ots) - Am Donnerstagabend (21.05.2026) konnten Beamte des 3. Polizeireviers nach einem Zeugenhinweis einen 23 Jahre alten Mann in einem Kleingartengelände in Lübeck St. Gertrud festnehmen. Er steht im Verdacht, in den vergangenen Wochen ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/43738/6280238",
+    "source": "Presseportal Polizei-RP",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:27:19 +0200"
+    "scope": "national",
+    "date": "Fri, 22 May 2026 13:40:56 +0200"
   },
   {
-    "title": "Cyberangriff auf UKSH in Lübeck: Tausende Patientendaten gestohlen",
-    "snippet": "Bei einem Cyberangriff auf einen externen Dienstleister des Universitätsklinikums Schleswig-Holstein (UKSH) wurden sensible Daten entwendet. Auch andere Kliniken sind betroffen. Um diese Daten geht es genau.",
-    "url": "https://www.ln-online.de/lokales/luebeck/cyberangriff-auf-uksh-in-luebeck-tausende-patientendaten-gestohlen-QLBEV5CIPJE67CKATDHBKJOGJM.html",
-    "source": "Lübecker Nachrichten",
+    "title": "\"Kulturzeit\" - Radio aus Ratzeburg in Lübeck FM",
+    "snippet": "\"Das Pfingstprogramm\" 24.5.2026 ( 1.Feiertag ), 17 Uhr: Pfingstkantaten von Johann Sebastian Bach 25.5.2026 ( 2.Feiertag ), 10 Uhr: Gedenksendung zum 100.Geburtstag von Miles Davis Am Dienstag um 9 Uhr gibt es wie üblich \"Jazz ...",
+    "url": "https://www.ratzeburg.de/index.php?ModID=255&FID=2559.371.1&object=tx%2C2559.534",
+    "source": "Ratzeburg (official)",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:08:42 +0200"
+    "scope": "city",
+    "date": "Fri, 22 May 2026 00:00:00 +0200"
+  },
+  {
+    "title": "Miniatur-Wunderland-Gründer machen neues Hotel in Lübeck auf – direkt am Wasser",
+    "snippet": "Das Hamburger Pierdrei Hotel, das die Braun-Zwillinge mit illustren Partnern betreiben, expandiert an einem spannenden Standort.",
+    "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article412063679/miniatur-wunderland-gruender-aus-hamburg-eroeffnen-neues-hotel-in-luebeck-direkt-am-wasser-1.html",
+    "source": "Hamburger Abendblatt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 22:08:00 +0200"
+  },
+  {
+    "title": "Tagung der AG Historische Städte in Lübeck: JA zur Städtebauförderung als Mittel der integrierten Stadtentwicklung",
+    "snippet": "und Übergabe der Geschäftsführung an die Stadt Bamberg",
+    "url": "https://www.goerlitz.de/news/2285",
+    "source": "Görlitz (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 07 Jul 2025 00:00:00 EST"
+  },
+  {
+    "title": "Generalsanierung der Bahnstrecke Lübeck-Hamburg",
+    "snippet": "Ab dem 04.05.2026 wird die DB InfraGO AG Umweltkartierungen für das Projekt der Generalsanierung der Bahnstrecke Lübeck-Hamburg an der Bahnstrecke im Bereich des Stadtgebietes Bargteheide vornehmen. Betroffen ist ebenfalls der Bereich südlich der ...",
+    "url": "https://www.bargteheide.de/index.php?ModID=255&FID=3489.48271.1&object=tx%2C3489.6",
+    "source": "Bargteheide (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 30 Apr 2026 08:52:24 +0200"
+  },
+  {
+    "title": "»SelbstVerständlich Politik« im Offenen Kanal Lübeck:»Die Wiederkehr des Feudalismus?«",
+    "snippet": "In der politischen Bildungsreihe \"SelbstVerständlich Politik\" des Vereins Miteinander leben e.V. spricht Politikwissenschaftler Dr. Udo Metzinger in einem Podacst über die enormen Herausforderungen der Demokratie in den USA und verfolgt dabei die ...",
+    "url": "https://www.ratzeburg.de/index.php?ModID=255&FID=2559.9743.1&object=tx%2C2559.534",
+    "source": "Ratzeburg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 05 May 2026 00:00:00 +0200"
   }
 ]

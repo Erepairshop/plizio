@@ -1,14 +1,5 @@
 [
   {
-    "title": "Tennis in Hamburg: Ignacio Buse überrascht mit Turniersieg am Rothenbaum",
-    "snippet": "",
-    "url": "https://www.zeit.de/news/2026-05/23/ignacio-buse-ueberrascht-mit-turniersieg-am-rothenbaum",
-    "source": "zeit.de",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 16:00:34 -0000"
-  },
-  {
     "title": "Hamburg: Früherer Pastor in Ochsenwerder soll Jugendlichen zur Prostitution gedrängt haben",
     "snippet": "Ein Vater bietet seinen minderjährigen Sohn zum Missbrauch an – und ein Pastor aus Hamburg soll dafür bezahlt haben. Das Landgericht hat den 64-Jährigen nun verurteilt.",
     "url": "https://www.spiegel.de/panorama/justiz/hamburg-frueherer-pastor-in-ochsenwerder-soll-jugendlichen-zur-prostitution-gedraengt-haben-a-7632e85d-a63e-4da4-b138-7b7646ed3b65#ref=rss",
@@ -18,28 +9,91 @@
     "date": "Sat, 23 May 2026 09:29:00 +0200"
   },
   {
-    "title": "Im Video: Schnäppchenjäger auf dem Fischmarkt – „haben sechs Kilo Lachs gekauft“",
-    "snippet": "Der Fischmarkt ist eine Institution. Doch kann man wirklich noch den einen oder anderen Euro sparen? Das Abendblatt hat nachgefragt.",
-    "url": "https://www.abendblatt.de/hamburg/altona/article412018795/fischmarkt-hamburg-schnaeppchenjaeger-im-video-haben-sechs-kilo-lachs-gekauft.html",
+    "title": "BPOL-HH: Hamburg Hauptbahnhof: Sieben abgestellte Gegenstände verursachen umfangreichen Einsatz der Bundespolizei",
+    "snippet": "Hamburg (ots) - Am 22.05.2026 gegen 11:00 Uhr verursachten im Hamburger Hbf. auf dem Bahnsteig zu den Gleisen 7 und 8 abgestellte, herrenlose Gegenstände umfangreiche Einsatzmaßnahmen der Bundespolizei. Eine Präsenzstreife der Bundespolizei ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/70254/6280470",
+    "source": "Presseportal Polizei-HB",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 07:45:00 +0200"
+  },
+  {
+    "title": "Tennis in Hamburg: Ignacio Buse überrascht mit Turniersieg am Rothenbaum",
+    "snippet": "Der Qualifikant aus Peru gewinnt das Finale gegen den Amerikaner Tommy Paul in drei Sätzen. Im Doppel bejubeln die Fans in der Hansestadt einen deutschen Sieg.",
+    "url": "https://www.tagesspiegel.de/sport/tennis-in-hamburg-ignacio-buse-uberrascht-mit-turniersieg-am-rothenbaum-15633873.html",
+    "source": "Tagesspiegel",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 18:01:40 +0200"
+  },
+  {
+    "title": "Zirkus mit Meerjungfrauen und Piraten: Waterland kommt erstmals nach Hamburg",
+    "snippet": "Der besondere Zirkus verließ die Ukraine nach Kriegsbeginn und tourt seitdem durch Europa. Die Manege ist ein riesiges Becken.",
+    "url": "https://www.abendblatt.de/hamburg/wandsbek/article412066690/zirkus-waterland-kommt-erstmals-nach-hamburg-mit-meerjungfrauen-und-piraten.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 06:10:00 +0200"
+    "date": "Sun, 24 May 2026 06:10:00 +0200"
+  },
+  {
+    "title": "„So geht’s nicht weiter“ – der DOSB-Chef über den nötigen Wandel durch Olympia",
+    "snippet": "Olympia in Deutschland – Traum oder Risiko? Otto Fricke, Vorstandsvorsitzender des Deutschen Olympischen Sportbunds, ist der Mann, der das nationale Bewerbungsverfahren steuert. Er sagt, warum es wichtig wäre, dass auch Hamburg am 31. Mai mit ins Rennen geht.",
+    "url": "https://www.welt.de/regionales/hamburg/article6a0c59e5dc590e4588162cd6/otto-fricke-so-gehts-nicht-weiter-der-dosb-chef-ueber-den-noetigen-wandel-durch-olympia.html",
+    "source": "Welt Regionales Hamburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 06:01:18 GMT"
   },
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
     "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.haz.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
+    "url": "https://www.lvz.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "LVZ",
     "lang": "de",
-    "scope": "region",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
+  },
+  {
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.dnn.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "DNN",
+    "lang": "de",
+    "scope": "city",
     "date": "Sat, 23 May 2026 08:41:26 +0200"
   },
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
     "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
     "url": "https://www.neuepresse.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Neue Presse (Garbsen)",
+    "source": "Neue Presse Hannover",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
+  },
+  {
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.kn-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "Kieler Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
+  },
+  {
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.maz-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "Maerkische Allgemeine",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
+  },
+  {
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.haz.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
     "lang": "de",
     "scope": "region",
     "date": "Sat, 23 May 2026 08:41:26 +0200"
@@ -63,40 +117,31 @@
     "date": "Sat, 23 May 2026 08:41:26 +0200"
   },
   {
-    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
-    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.ln-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "title": "Wolfsburg: Ministerin Julia Willie Hamburg besucht Phaeno und informiert sich über neue Bildungsformate",
+    "snippet": "In der Bildungslandschaft ist das Phaeno weit über Wolfsburg hinaus bekannt. Niedersachsens Kultusministerin Julia Willie Hamburg besuchte nun das Science Center, um sich über neue Bildungsformate zu informieren.",
+    "url": "https://www.waz-online.de/lokales/wolfsburg/wolfsburg-ministerin-julia-willie-hamburg-besucht-phaeno-und-informiert-sich-ueber-neue-3IJWOT6JORAILNXQYQQLCFORSU.html",
+    "source": "Wolfsburger Allgemeine (WAZ)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 11:00:02 +0200"
+  },
+  {
+    "title": "Lübeck Cougars feiern bei den Hamburg Swans den dritten Regionalliga-Sieg",
+    "snippet": "Die Berglöwen haben ihre weiße Weste gewahrt. Doch mit dem Auftritt seiner Mannschaft beim 42:9-Auswärtserfolg dürfte Cheftrainer Florian Knüppel alles andere als zufrieden sein. Denn der Zweitliga-Absteiger leistete sich in Halbzeit eins viele Fehler, machte die Partie unnötig spannend.",
+    "url": "https://www.ln-online.de/sport/regional/luebeck-cougars-feiern-bei-den-hamburg-swans-den-dritten-regionalliga-sieg-ETBL6MLRQNABFHBJVWUOOJA4WQ.html",
     "source": "Lübecker Nachrichten",
     "lang": "de",
     "scope": "region",
-    "date": "Sat, 23 May 2026 08:41:26 +0200"
+    "date": "Sat, 23 May 2026 19:01:58 +0200"
   },
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
     "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.maz-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Märkische Allgemeine",
+    "url": "https://www.szlz.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "Schaumburger Zeitung (SZ-LZ)",
     "lang": "de",
-    "scope": "region",
+    "scope": "city",
     "date": "Sat, 23 May 2026 08:41:26 +0200"
-  },
-  {
-    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
-    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.lvz.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Leipziger Volkszeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 08:41:26 +0200"
-  },
-  {
-    "title": "Tennis in Hamburg: Ignacio Buse überrascht mit Turniersieg am Rothenbaum",
-    "snippet": "Der Qualifikant aus Peru gewinnt das Finale gegen den Amerikaner Tommy Paul in drei Sätzen. Im Doppel bejubeln die Fans in der Hansestadt einen deutschen Sieg.",
-    "url": "https://www.wz.de/sport/tennis/ignacio-buse-ueberrascht-mit-turniersieg-am-rothenbaum_aid-148799883",
-    "source": "Westdeutsche Zeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 18:00:34 +0200"
   },
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
@@ -119,15 +164,6 @@
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
     "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
-    "url": "https://www.kn-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Kieler Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 08:41:26 +0200"
-  },
-  {
-    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
-    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
     "url": "https://www.siegener-zeitung.de/medien/shopping-queen-heute-in-muenster-punkte-kandidatinnen-und-motto-14-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
     "source": "Siegener Zeitung",
     "lang": "de",
@@ -135,58 +171,49 @@
     "date": "Sat, 23 May 2026 08:41:26 +0200"
   },
   {
-    "title": "Wolfsburg: Ministerin Julia Willie Hamburg besucht Phaeno und informiert sich über neue Bildungsformate",
-    "snippet": "In der Bildungslandschaft ist das Phaeno weit über Wolfsburg hinaus bekannt. Niedersachsens Kultusministerin Julia Willie Hamburg besuchte nun das Science Center, um sich über neue Bildungsformate zu informieren.",
-    "url": "https://www.waz-online.de/lokales/wolfsburg/wolfsburg-ministerin-julia-willie-hamburg-besucht-phaeno-und-informiert-sich-ueber-neue-3IJWOT6JORAILNXQYQQLCFORSU.html",
-    "source": "Wolfsburger Allgemeine Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 11:00:02 +0200"
-  },
-  {
-    "title": "Schlägerei auf Hamburger Flohmarkt: Händler prügeln sich und kratzen Passanten",
-    "snippet": "In Bahrenfeld kommt es am Sonnabend zu einer Auseinandersetzung. Einer der Streithähne bricht zusammen und wird ins Krankenhaus gebracht.",
-    "url": "https://www.abendblatt.de/hamburg/altona/article412077580/angriff-auf-hamburger-flohmarkt-polizei-stellt-blutige-nase-und-bissspuren-fest-2.html",
+    "title": "Hamburg auf dem Wasser erleben: Hier können Sie Kanu, Kajak & Co. mieten",
+    "snippet": "Eine Bootstour auf der Alster bietet an heißen Tagen eine kleine Abkühlung. Angebote und Preise der Verleiher im Überblick.",
+    "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article412060255/alster-hamburg-auf-dem-wasser-erleben-hier-koennen-sie-kanu-kajak-co-mieten.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 16:56:00 +0200"
-  },
-  {
-    "title": "Liveticker: Sperrung der Bahnstrecke Hannover–Hamburg ab Mai 2026 – Umleitungen, SEV, Tickets",
-    "snippet": "Die Bahnstrecke Hannover–Hamburg ist seit 1. Mai wegen umfangreicher Sanierungsarbeiten zwischen Hannover und Uelzen für den Personenverkehr gesperrt. In unserem Liveticker finden Sie aktuelle Infos zu Ersatzverkehr, Verspätungen und Umleitungen sowie praktische Hinweise für Pendler und Reisende.",
-    "url": "https://www.haz.de/der-norden/liveticker-sperrung-der-bahnstrecke-hannover-hamburg-ab-mai-2026-umleitungen-sev-tickets-YTUM3UT5RBEXHG3NXW2SPUQFTM.html",
-    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 07:33:27 +0200"
-  },
-  {
-    "title": "Liveticker: Sperrung der Bahnstrecke Hannover–Hamburg ab Mai 2026 – Umleitungen, SEV, Tickets",
-    "snippet": "Die Bahnstrecke Hannover–Hamburg ist seit 1. Mai wegen umfangreicher Sanierungsarbeiten zwischen Hannover und Uelzen für den Personenverkehr gesperrt. In unserem Liveticker finden Sie aktuelle Infos zu Ersatzverkehr, Verspätungen und Umleitungen sowie praktische Hinweise für Pendler und Reisende.",
-    "url": "https://www.neuepresse.de/lokales/hannover/liveticker-sperrung-der-bahnstrecke-hannover-hamburg-ab-mai-2026-umleitungen-sev-tickets-YTUM3UT5RBEXHG3NXW2SPUQFTM.html",
-    "source": "Neue Presse (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 07:33:27 +0200"
+    "date": "Sun, 24 May 2026 06:00:00 +0200"
   },
   {
     "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
     "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
     "url": "https://www.waz-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
-    "source": "Wolfsburger Allgemeine Zeitung",
+    "source": "Wolfsburger Allgemeine (WAZ)",
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 08:41:26 +0200"
   },
   {
-    "title": "Protestcamp mit Lagerfeuer: Warum plötzlich Zelte vor Hamburger Behörde stehen",
-    "snippet": "Rund 30 Jurten und Zelte sind auf einer Wiese an der Adolph-Schönfelder-Straße aufgebaut. Abendblatt hat gefragt, was dahintersteckt.",
-    "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article412074988/protestcamp-mit-lagerfeuer-in-hamburg-warum-ploetzlich-zelte-vor-behoerde-stehen.html",
+    "title": "„Shopping Queen“ heute in Hamburg: Punkte, Kandidatinnen und Motto (22.5.2026)",
+    "snippet": "Jede Woche sucht der Star-Designer Guido Maria Kretschmer die Shopping-Queen einer anderen Stadt. In welcher Stadt die Kandidaten auf Mode-Jagd gehen, zu welchem Motto sie shoppen und wer am Ende das Rennen macht, lesen Sie hier.",
+    "url": "https://www.ln-online.de/medien/shopping-queen-heute-in-hamburg-punkte-kandidatinnen-und-motto-22-5-2026-H5CBTBYMFZHLXDG7NMW6C2XEJE.html",
+    "source": "Lübecker Nachrichten",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 08:41:26 +0200"
+  },
+  {
+    "title": "Leben am Abgrund: Sittengemälde der Drogen-Szene am Drob Inn in Hamburg",
+    "snippet": "Am Hauptbahnhof werden Drogen gehandelt wie auf dem Wochenmarkt. Bei zwei Cracksteinen gibt’s den dritten gratis. Ein Süchtiger erklärt die Regeln der Szene.",
+    "url": "https://www.abendblatt.de/hamburg/politik/article412033075/hamburgs-groesster-drogenplatz-was-passiert-auf-dem-platz-vor-dem-drob-inn.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 16:41:12 +0200"
+    "date": "Sun, 24 May 2026 05:28:00 +0200"
+  },
+  {
+    "title": "POL-HH: 260522-3. Erledigung der Vermisstenfahndung nach 68-jähriger Frau aus Hamburg-Othmarschen",
+    "snippet": "Hamburg (ots) - Zeit: seit 21.05.2026, 21:00 Uhr; Ort: Hamburg-Othmarschen, Bernadottestraße Mit Hilfe der Veröffentlichung eines Lichtbildes suchte die Polizei Hamburg nach einer 68-jährigen Frau aus dem Stadtteil Othmarschen. Zunächst wird auf ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/6337/6280434",
+    "source": "Presseportal Polizei-HB",
+    "lang": "de",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 23:46:40 +0200"
   },
   {
     "title": "A24 Berlin-Hamburg ist bei Wittenburg wegen eines Unfalls voll gesperrt",
@@ -198,13 +225,31 @@
     "date": "Fri, 22 May 2026 06:52:25 GMT"
   },
   {
-    "title": "Flughafen Hamburg: Lufthansa streicht Angebot auf zentraler Strecke zusammen",
-    "snippet": "Lufthansa spürt Milliardenbelastungen durch den Irankrieg und streicht unrentable Strecken. Was sich am Flughafen Hamburg in Kürze ändert.",
-    "url": "https://www.abendblatt.de/hamburg/wirtschaft/article412062687/flughafen-hamburg-lufthansa-streicht-angebot-nach-frankfurt-zusammen.html",
+    "title": "Gehypter Foodtruck vom Isemarkt: Betreiber eröffnen festen Standort in Hamburg",
+    "snippet": "Für die besonderen Rindfleisch-Brötchen stehen Kunden Schlange. Bald gibt’s die Eifeler Tradition dauerhaft an einer prominenten Ecke.",
+    "url": "https://www.abendblatt.de/hamburg/altona/article412061361/hamburger-foodtruck-hype-vom-isemarkt-betreiber-eroeffnen-festen-standort.html",
     "source": "Hamburger Abendblatt",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 18:00:00 +0200"
+    "date": "Sat, 23 May 2026 06:20:00 +0200"
+  },
+  {
+    "title": "Kurz vor dem Untergang",
+    "snippet": "Regisseur Dušan David Pařízek beweist im Hamburger Schauspielhaus mit einem bewegenden Abend, wie aktuell der Roman „Fabian oder Der Gang vor die Hunde“ von Erich Kästner ist. Mirco Kreibich spielt sich in der Hauptrolle in einen Rausch.",
+    "url": "https://www.welt.de/regionales/hamburg/article6a1098b13b7096456ac80103/premiere-kurz-vor-dem-untergang.html",
+    "source": "Welt Regionales Hamburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 19:20:43 GMT"
+  },
+  {
+    "title": "Hamburg Der Tag vom 22.05.2026",
+    "snippet": "&#x201C;Hamburg Der Tag&#x201D; ist deine Nachrichtensendung bei Hamburg 1. Was passiert in der Hansestadt? Was besch&#xE4;ftigt die Hamburgerinnen und Hamburger? Was steht in unserer Stadt an?&#xA0; Fragen, die von Montag bis Freitag LIVE um 18 Uhr beantwortet werden - auf YouTube und im TV.",
+    "url": "https://www.hamburg1.de/hamburg-der-tag-vom-22-05-2026/",
+    "source": "Hamburg1 TV",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 13:09:26 GMT"
   },
   {
     "title": "Parken in Hamburg wird deutlich teurer",
@@ -216,57 +261,12 @@
     "date": "Thu, 21 May 2026 14:48:23 +0000"
   },
   {
-    "title": "A23 zwischen Hamburg und Pinneberg gesperrt: So sieht es auf der Baustelle aus",
-    "snippet": "Großbaustelle A23 im Kreis Pinneberg: Das sind die Bilder Fahrbahn-Sanierung und Vollsperrung zwischen Eidelstedt und Pinneberg.",
-    "url": "https://www.shz.de/lokales/pinneberg-schenefeld/galerie/a23-bei-pinneberg-gesperrt-so-sieht-es-auf-der-baustelle-aus-50681447",
-    "source": "Schleswig-Holsteinischer Zeitungsverlag",
+    "title": "„Ich bin gerast durch dieses Leben!“ Auf den Spuren von Udo Lindenberg in Hamburg unterwegs",
+    "snippet": "Happy Birthday Udo Lindenberg! Eine Schau im Hamburger Stilwerk lädt zu einer Zeitreise durch das wilde Leben von Udo Lindenberg ein. Willkommen im Udoversum!",
+    "url": "https://www.augsburger-allgemeine.de/reise/80-geburtstag-willkommen-im-udoversum-eine-interessante-ausstellung-in-hamburg-zeigt-das-leben-von-udo-lindenberg-114163898",
+    "source": "Augsburger Allgemeine — more sections",
     "lang": "de",
-    "scope": "region",
-    "date": "2026-05-22T13:55:59Z"
-  },
-  {
-    "title": "Rap-Superstar, Samtstimme und Orchester: So wird „Channel Aid“ in Hamburg",
-    "snippet": "Gegensätzlicher könnte das Programm der Benefizkonzerte im Schauspielhaus nicht sein: Kontra K und Calum Scott sind dabei. Wann es Karten gibt.",
-    "url": "https://www.abendblatt.de/hamburg/kultur/article412060449/rap-superstar-samtstimme-und-orchester-so-wird-channel-aid-in-hamburg.html",
-    "source": "Hamburger Abendblatt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 17:55:00 +0200"
-  },
-  {
-    "title": "Gegenwind für die AfD",
-    "snippet": "Kritik aus der Hamburger Bürgerschaft: AfD leugnet Klimawandel und erntet dafür Hohn der anderen Parteien. The post Gegenwind für die AfD appeared first on FINK.HAMBURG .",
-    "url": "https://fink.hamburg/2026/05/gegenwind-fuer-die-afd/",
-    "source": "Fink.Hamburg",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 14:27:48 +0000"
-  },
-  {
-    "title": "Delikatesse im Doppelpack: Wo es statt einer gleich zwei Maischollen gibt",
-    "snippet": "Restaurant im Alten Land überrascht mit besonderem Service. Das beliebte Gericht wird hier in zwei Gängen serviert – was dahinter steckt.",
-    "url": "https://www.abendblatt.de/hamburg/harburg/article411977732/maischolle-essen-in-hamburg-dieses-restaurant-serviert-gaesten-gleich-zwei-1.html",
-    "source": "Hamburger Abendblatt",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 17:40:48 +0200"
-  },
-  {
-    "title": "Verfassungsschutzbericht: Mehr Rechtsextremisten in Hamburg",
-    "snippet": "Islamisten bleiben die größte Extremistengruppe in Hamburg, doch der Rechtsextremismus nimmt zahlenmäßig deutlich zu – Innensenator Grote stellt den Hamburger Verfassungsschutzbericht 2025 vor. The post Verfassungsschutzbericht: Mehr Rechtsextremisten in Hamburg appeared first on FINK.HAMBURG .",
-    "url": "https://fink.hamburg/2026/05/verfassungsschutzbericht-mehr-rechtsextremisten-in-hamburg/",
-    "source": "Fink.Hamburg",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 14:17:50 +0000"
-  },
-  {
-    "title": "Heizungsgesetz: Hamburg stemmt sich gegen Öl und Gas",
-    "snippet": "Gerade brachte die Bundesregierung ein Gesetz auf den Weg, um Öl- und Gasheizungen noch viel länger zu ermöglichen. Doch Hamburgs Grüne wollen strengere Regeln – und pochen auf eine spezielle Klausel.",
-    "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hamburg-stemmt-sich-gegen-reiche-oel-und-gas-200850946.html",
-    "source": "faz.net",
-    "lang": "de",
-    "scope": "national",
-    "date": "Wed, 20 May 2026 14:37:26 GMT"
+    "scope": "state",
+    "date": "2026-05-21T09:20:00Z"
   }
 ]

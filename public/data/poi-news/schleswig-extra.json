@@ -1,5 +1,14 @@
 [
   {
+    "title": "Die leise Gefahr: Invasive Ameisenart „Tapinoma magnum“ erreicht Schleswig-Holstein",
+    "snippet": "Die invasive Ameisenart „Tapinoma magnum“ hat Schleswig-Holstein erreicht. Besonders gefährlich sind ihre aggressiven Arbeiterinnen und zahlreichen Königinnen. Welchen Schutz gibt es gegen eine potenzielle Plage?",
+    "url": "https://www.kn-online.de/schleswig-holstein/die-leise-gefahr-invasive-ameisenart-tapinoma-magnum-erreicht-schleswig-holstein-KXCMAU7LBBGYHK2LKTRX4CE36U.html",
+    "source": "Kieler Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 16:00:04 +0200"
+  },
+  {
     "title": "Cyberangriff auf Fotodienstleister: Kinderbilder auch in Schleswig-Holstein betroffen?",
     "snippet": "Ein Online-Fotodienstleister ist von Cyberkriminellen gehackt worden. Brisant: Auch Kindergarten- und Schulfotografen in Schleswig-Holstein nutzen den Service der Portraitbox GmbH. Nun besteht die Befürchtung, dass Kinderfotos ins Darknet gelangen oder Eltern um Geld geprellt werden könnten.",
     "url": "https://www.ln-online.de/der-norden/cyberangriff-auf-fotodienstleister-kinderbilder-auch-in-schleswig-holstein-betroffen-BRXY6DH27JE7FLOM44S5ZTNK2Q.html",
@@ -7,15 +16,6 @@
     "lang": "de",
     "scope": "region",
     "date": "Sat, 23 May 2026 14:39:48 +0200"
-  },
-  {
-    "title": "Die leise Gefahr: Invasive Ameisenart „Tapinoma magnum“ erreicht Schleswig-Holstein",
-    "snippet": "Die invasive Ameisenart „Tapinoma magnum“ hat Schleswig-Holstein erreicht. Besonders gefährlich sind ihre aggressiven Arbeiterinnen und zahlreichen Königinnen. Welchen Schutz gibt es gegen eine potenzielle Plage?",
-    "url": "https://www.kn-online.de/schleswig-holstein/die-leise-gefahr-invasive-ameisenart-tapinoma-magnum-erreicht-schleswig-holstein-KXCMAU7LBBGYHK2LKTRX4CE36U.html",
-    "source": "Kieler Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:00:04 +0200"
   },
   {
     "title": "Neubau oder Sanierung? Die Zukunft des Schwimmbades in Schleswig ist wieder völlig offen",
@@ -27,13 +27,13 @@
     "date": "2026-05-23T10:00:00Z"
   },
   {
-    "title": "Unser sauberes Schleswig-Holstein: Ratzeburg soll Aktion ab 2027 selbst organisieren",
-    "snippet": "Selbst ist die Stadt: Ratzeburg soll von 2027 an als offizielle Veranstalterin der Aktion „Unser sauberes Schleswig-Holstein“ auftreten. Die Grünen orientieren sich dabei am Vorbild anderer Kommunen wie Elmshorn, Ahrensbök oder Kropp. Welche Vorteile die Partei darin sieht.",
-    "url": "https://www.ln-online.de/lokales/herzogtum-lauenburg/unser-sauberes-schleswig-holstein-ratzeburg-soll-aktion-ab-2027-selbst-organisieren-XLYZYPBQHRGKPK7BJQDZLMAQG4.html",
-    "source": "Lübecker Nachrichten",
+    "title": "Seit drei Jahren Leerstand: Ehemaliges Kult-Café auf Sylt sucht neuen Betreiber",
+    "snippet": "Das ehemalige Kult-Café „Waldidyll“ auf Sylt soll wiederbelebt werden. Gesucht wird ein Pächter, der das Konzept von Anfang an mitgestaltet.",
+    "url": "https://www.moin.de/norddeutschland/nordsee/sylt-nordsee-waldidyll-cafe-betreiber-kosten-news-sucht-id300856081.html",
+    "source": "moin.de Flensburg",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 09:00:01 +0200"
+    "scope": "city",
+    "date": "Sun, 24 May 2026 03:59:29 +0000"
   },
   {
     "title": "Cyberangriff auf Fotodienstleister: Kinderbilder auch in Schleswig-Holstein betroffen?",
@@ -41,8 +41,17 @@
     "url": "https://www.kn-online.de/schleswig-holstein/cyberangriff-auf-fotodienstleister-kinderbilder-auch-in-schleswig-holstein-betroffen-BRXY6DH27JE7FLOM44S5ZTNK2Q.html",
     "source": "Kieler Nachrichten",
     "lang": "de",
-    "scope": "region",
+    "scope": "state",
     "date": "Sat, 23 May 2026 14:39:48 +0200"
+  },
+  {
+    "title": "Unser sauberes Schleswig-Holstein: Ratzeburg soll Aktion ab 2027 selbst organisieren",
+    "snippet": "Selbst ist die Stadt: Ratzeburg soll von 2027 an als offizielle Veranstalterin der Aktion „Unser sauberes Schleswig-Holstein“ auftreten. Die Grünen orientieren sich dabei am Vorbild anderer Kommunen wie Elmshorn, Ahrensbök oder Kropp. Welche Vorteile die Partei darin sieht.",
+    "url": "https://www.ln-online.de/lokales/herzogtum-lauenburg/unser-sauberes-schleswig-holstein-ratzeburg-soll-aktion-ab-2027-selbst-organisieren-XLYZYPBQHRGKPK7BJQDZLMAQG4.html",
+    "source": "Lübecker Nachrichten",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 09:00:01 +0200"
   },
   {
     "title": "Kriegswaffen bei illegalem Sondengänger gefunden – das sagt der Angeklagte aus Haddeby",
@@ -54,6 +63,15 @@
     "date": "2026-05-23T06:00:00Z"
   },
   {
+    "title": "Camping mit Hund an der Nordsee: Diese Regeln gibt es zu beachten",
+    "snippet": "Campingurlaub mit Hund an der Nordsee? Viele Plätze haben sich inzwischen auf Vierbeiner eingestellt. Doch es gibt auch einiges zu beachten.",
+    "url": "https://www.moin.de/norddeutschland/nordsee/nordsee-camping-hund-campingplatz-strand-news-campingurlaub-id300856315.html",
+    "source": "moin.de Flensburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 02:55:18 +0000"
+  },
+  {
     "title": "Schulsozialarbeit in Schleswig-Holstein: Viele denken an Jobwechsel",
     "snippet": "Eine Untersuchung zeigt, wie hoch die Arbeitsbelastung vieler Schulsozialarbeiter in Schleswig-Holstein ist. Viel zu tun, wenig Mitarbeiter, eine hohe Frequenz. Das spüren auch Fachkräfte aus Lübeck.",
     "url": "https://www.ln-online.de/lokales/luebeck/schulsozialarbeit-in-schleswig-holstein-viele-denken-an-jobwechsel-GDG6CYXTRVD3JMBQEFDR5BCD6A.html",
@@ -61,6 +79,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Sat, 23 May 2026 08:00:05 +0200"
+  },
+  {
+    "title": "Kuba-Drohnen alarmieren USA: Gerät Trump jetzt ins Visier?",
+    "snippet": "300 Kampfdrohnen aus Iran und Russland sollen auf Kuba stationiert sein. Auch Trumps Anwesen Mar-a-Lago liegt in Reichweite.",
+    "url": "https://www.moin.de/politik/iran-russland-drohnen-kuba-florida-angriff-usa-id300858307.html",
+    "source": "moin.de Flensburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 01:20:24 +0000"
   },
   {
     "title": "Millionenprojekt Kulturhaus Schleswig: Ohne Bremse voll gegen die Wand?",
@@ -72,6 +99,15 @@
     "date": "2026-05-22T16:00:00Z"
   },
   {
+    "title": "Kurtaxen an Ostsee und Nordsee ade! Darauf müssen sich Urlauber jetzt einstellen",
+    "snippet": "Aus der Kurtaxe wird die Gästeabgabe. Gleichzeitig könnten künftig deutlich mehr Orte an Nordsee und Ostsee eine Abgabe von Urlaubern verlangen.",
+    "url": "https://www.moin.de/norddeutschland/nordsee/nordsee-ostsee-urlaub-kurtaxe-gaesteabgabe-news-einstellen-id300856754.html",
+    "source": "moin.de Flensburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 04:05:35 +0000"
+  },
+  {
     "title": "Altlasten und Überdüngung: Der Schlei geht es schlecht – und das hat Folgen",
     "snippet": "Die Schlei ist Deutschlands einziger Meeresarm und beherbergt ein einzigartiges Ökosystem. Doch ihre Wasserqualität hat sich im letzten Jahrhundert verschlechtert, und das aus mehreren Gründen.",
     "url": "https://www.shz.de/lokales/gluecksburg-angeln/artikel/warum-ist-die-wasserqualitaet-der-schlei-so-schlecht-50644900",
@@ -81,6 +117,15 @@
     "date": "2026-05-22T16:00:00Z"
   },
   {
+    "title": "Frau fährt mit ihrem Hund an die Nordsee – sie werden nie wieder kommen können",
+    "snippet": "Mit dem ASB-Wünschewagen reist eine 58-Jährige aus Itzehoe mit ihren Kindern und ihrem Hund ein letztes Mal nach St. Peter-Ording.",
+    "url": "https://www.moin.de/norddeutschland/nordsee/nordsee-spo-strand-hunde-asb-wuenschewagen-frau-id300857938.html",
+    "source": "moin.de Flensburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 04:05:34 +0000"
+  },
+  {
     "title": "Pfingsten 2026: Das ist los an der Schlei von Kappeln bis Schleswig",
     "snippet": "Pfingsten 2026 an der Schlei: raus aufs Wasser oder rein in Geschichte. Überall warten Momente zum Durchatmen und Entdecken.",
     "url": "https://www.shz.de/lokales/kappeln/artikel/pfingsten-2026-an-der-schlei-diese-ausfluege-lohnen-sich-50663052",
@@ -88,6 +133,15 @@
     "lang": "de",
     "scope": "city",
     "date": "2026-05-22T09:30:00Z"
+  },
+  {
+    "title": "„Dem Ertrinkungstod ausgesetzt“ – Tierärztin fällt vernichtendes Urteil zu Wal Timmy",
+    "snippet": "Nach der versuchten Rettung von Wal Timmy wagt sich Tierärztin Dr. Kerstin Alexandra Dörnath an einer Bilanz. Sie ist vernichtend.",
+    "url": "https://www.moin.de/panorama/wal-timmy-buckelwal-tieraerztin-initiative-vernichtendes-id300857280.html",
+    "source": "moin.de Flensburg",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 02:54:13 +0000"
   },
   {
     "title": "Bierflasche und Wasserwaage: Diese kuriosen Dinge landen in Schleswig-Flensburg im Abfluss",
@@ -115,5 +169,68 @@
     "lang": "de",
     "scope": "city",
     "date": "2026-05-20T16:00:00Z"
+  },
+  {
+    "title": "Nachrichten aus Schleswig-Holstein",
+    "snippet": "Bleiben Sie aktuell informiert: Nachrichten aus Schleswig-Holstein, Videos, Hintergründe und Analysen - die wichtigsten News bei ZDFheute.",
+    "url": "https://www.zdfheute.de/thema/schleswig-holstein-news-100.html",
+    "source": "ZDF heute",
+    "lang": "de",
+    "scope": "state",
+    "date": "Thu, 5 Oct 2023 12:52:23 +0200"
+  },
+  {
+    "title": "Geplante Änderungen bei der Fischereiabgabe und beim Urlauberfischereischein in Schleswig-Holstein",
+    "snippet": "Im Zuge der Verwaltungsmodernisierung und -digitalisierung bereitet Schleswig-Holstein aktuell Änderungen im Fischerei- und Gebührenrecht vor; diese sollen zum 01.10.2025 in Kraft treten. Zeitgleich wird in der oberen Fischereibehörde und in den örtlichen Ordnungsbehörden ein neues digitales Verfahr",
+    "url": "https://www.stadt-schenefeld.de/nachrichten/artikelarchiv/2025/geplante-aenderungen-bei-der-fischereiabgabe-und-beim-urlauberfischereischein-in-schleswig-holstein/",
+    "source": "Schenefeld (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 27 Jun 2025 09:22:54 GMT"
+  },
+  {
+    "title": "Neue Autobahn an Schleswig-Holsteins Westküste? Was die Region vom Bund fordert",
+    "snippet": "Schleswig-Holsteins Westküste fühlt sich in Berlin unterschätzt. Ein regionales Bündnis fordert nun mehr und schnellere Verkehrsinvestitionen des Bundes – und bringt eine neue Autobahn im Norden ins Spiel.",
+    "url": "https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/neue-autobahn-an-westkueste-in-sh-was-die-region-vom-bund-fordert-50602484",
+    "source": "shz Dithmarschen",
+    "lang": "de",
+    "scope": "county",
+    "date": "2026-05-05T16:00:00Z"
+  },
+  {
+    "title": "Schleswig-Holsteinische Erhebung",
+    "snippet": "Der Tag der Schleswig-Holsteinischen Erhebung wurde auch in diesem Jahr erneut mit Kranzniederlegungen am Lornsendenkmal gewürdigt.",
+    "url": "https://www.rendsburg.de/aktuelle-meldungen/details/news/schleswig-holsteinische-erhebung",
+    "source": "Rendsburg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 24 Mar 2026 16:18:21 +0100"
+  },
+  {
+    "title": "Das statistische Amt für Hamburg und Schleswig-Holstein informiert: Mikrozensus 2024",
+    "snippet": "https://www.stadt-schenefeld.de/nachrichten/artikelarchiv/2024/das-statistische-amt-fuer-hamburg-und-schleswig-holstein-informiert-mikrozensus-2024/",
+    "url": "https://www.stadt-schenefeld.de/nachrichten/artikelarchiv/2024/das-statistische-amt-fuer-hamburg-und-schleswig-holstein-informiert-mikrozensus-2024/",
+    "source": "Schenefeld (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 25 Mar 2024 15:23:21 GMT"
+  },
+  {
+    "title": "100 Jahre DLRG Schleswig-Holstein",
+    "snippet": "Den 100. Geburtstag feierte die DLRG gestern im Landeshaus mit einem Parlamentarischen Abend. Rund 120 Gäste aus Landespolitik kamen zusammen.",
+    "url": "https://www.rendsburg.de/aktuelle-meldungen/details/news/100-jahre-dlrg-schleswig-holstein",
+    "source": "Rendsburg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 19 Mar 2026 17:02:10 +0100"
+  },
+  {
+    "title": "Ausbau Radverkehr ist ein Gemeinschaftsprojekt; Radstrategie Schleswig-Holstein 2030 wird begrüßt",
+    "snippet": "Bürgermeister Pierre Gilgenast begrüßt und unterstützt die gestern vom Wirtschaftsministerium vorgestellte Radstrategie Schleswig-Holstein 2030 und dessen Ziel:",
+    "url": "https://www.rendsburg.de/aktuelle-meldungen/details/news/ausbau-radverkehr-ist-ein-gemeinschaftsprojekt-radstrategie-schleswig-holstein-2030-wird-begruesst",
+    "source": "Rendsburg (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 02 Sep 2020 17:19:00 +0200"
   }
 ]

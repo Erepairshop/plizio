@@ -45,6 +45,15 @@
     "date": "Tue, 19 May 2026 18:00:00 GMT"
   },
   {
+    "title": "Neuorganisation beim Finanzamt Montabaur-Diez",
+    "snippet": "Umstellung auf neue Steuernummern",
+    "url": "https://www.hoehr-grenzhausen.de/neuigkeiten/2020/september/landesamt-fuer-steuern/",
+    "source": "Höhr-Grenzhausen (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 21 Sep 2020 11:58:24 GMT"
+  },
+  {
     "title": "300 Jahre alte Aartreppe in Diez wird saniert - Rhein-Zeitung",
     "snippet": "300 Jahre alte Aartreppe in Diez wird saniert Rhein-Zeitung",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTRhcEE5UHNfMXRHY0RBZHhSNVI1MnpRTDhkSXRQV1FUVVhwUl9tYlVBNFZ3QjNVbC1zUGVHX2htc2V2Nk9rTGFMS0NBZEJYbUtMQk9yMVVvdXF6REpJVFBGWm1qN3A1bmFKTzRScEZzWHdnem1HaGJZSERfMU9XM1dWbzZZTzk1Q09Hbmx3SjBCbDVmczIxcXN4a2N2YV9hT1FCN1M0ankxWG1JMXdUOWJhcm9nWmtWYkRF?oc=5",
@@ -54,13 +63,13 @@
     "date": "Fri, 08 May 2026 07:00:00 GMT"
   },
   {
-    "title": "Diez: Die Kleinsten hatten den größten Spaß - Rhein-Zeitung",
-    "snippet": "Diez: Die Kleinsten hatten den größten Spaß Rhein-Zeitung",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFJCWTFneUtRYlBjd2Q5WGdiNXFtMTQzLXdCTmVGMFVuMzdFbVlHUmRDMzFNWlpLMzVHQjlmVUdUOFNkVHZkVzdUelh4ZnNrVmQwU1RkWjNnWUJlU2FsNFpJcnd1YzJqbGdtLVIxZUVtdjA0LWt4YkdQdDBEeTlscW1LdTFlQkFrMXdnZGwyYkFjbGhDVkVpd3NjNm9memZzbnlTYlhTOVlpT3haOV91YmR5T1NZQUVpalVB?oc=5",
-    "source": "google-news",
+    "title": "Großbrand in Diez - Überörtliche Hilfe",
+    "snippet": "https://www.hoehr-grenzhausen.de/neuigkeiten/2020/juni/feuerwehr-hoehr-grenzhausen-grossbrand-in-diez/",
+    "url": "https://www.hoehr-grenzhausen.de/neuigkeiten/2020/juni/feuerwehr-hoehr-grenzhausen-grossbrand-in-diez/",
+    "source": "Höhr-Grenzhausen (official)",
     "lang": "de",
-    "scope": "search",
-    "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    "scope": "city",
+    "date": "Mon, 15 Jun 2020 09:22:01 GMT"
   },
   {
     "title": "Diez: Angeklagter akzeptiert Geldstrafe doch - Rhein-Zeitung",
@@ -70,5 +79,14 @@
     "lang": "de",
     "scope": "search",
     "date": "Wed, 13 May 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Diez: Die Kleinsten hatten den größten Spaß - Rhein-Zeitung",
+    "snippet": "Diez: Die Kleinsten hatten den größten Spaß Rhein-Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFJCWTFneUtRYlBjd2Q5WGdiNXFtMTQzLXdCTmVGMFVuMzdFbVlHUmRDMzFNWlpLMzVHQjlmVUdUOFNkVHZkVzdUelh4ZnNrVmQwU1RkWjNnWUJlU2FsNFpJcnd1YzJqbGdtLVIxZUVtdjA0LWt4YkdQdDBEeTlscW1LdTFlQkFrMXdnZGwyYkFjbGhDVkVpd3NjNm9memZzbnlTYlhTOVlpT3haOV91YmR5T1NZQUVpalVB?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Tue, 28 Apr 2026 07:00:00 GMT"
   }
 ]

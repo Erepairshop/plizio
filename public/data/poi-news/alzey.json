@@ -27,13 +27,13 @@
     "date": "Fri, 22 May 2026 16:00:00 GMT"
   },
   {
-    "title": "Straßensperrungen der K10 und K7 in Alzey verschoben - Allgemeine Zeitung",
-    "snippet": "Straßensperrungen der K10 und K7 in Alzey verschoben Allgemeine Zeitung",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDFvWFRpWG95ODhtdkdiV0oxcmhneE9sYldTU1lselRrVGlEbjNlTjJJVkZiNFd6aTg2aXpZenJyNUwzTjk3SHNkcnI4OU5vTEduV3EwQlRDLXJfMGt2Nkx0ZlpCaU9va0E0allnWFFibkg0UnotaDFadmxRVklfUG5hWjdGM1VOOUdUR29ob0t3dktZZXNuR3dNX2h6Znc5YVlXaXpOWHFrZk12MFE?oc=5",
+    "title": "Einblick in die Arbeit der Feuerwehr Alzey-Heimersheim - Allgemeine Zeitung",
+    "snippet": "Einblick in die Arbeit der Feuerwehr Alzey-Heimersheim Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblpyWlFLZHNuVVRKOU1WckxtMjZpVHZIc3kydFpuN095bWh5RWgwS2pjYWltVDRfYXJvOW9TZEJNYk92bjFQTk96UWRFQXJJZzhoWHAyc0NySzJEVlY3XzJOZ3NzeVVBaEVyVzRjZHl6YkppUzJuM0FrSUhPTFhiSW15Qjh6bUR3ZjhqUWR0eGVOVEE2VXdYRTgzeGMwdFUtV2kzLUdqTTNmVHdtWUZF?oc=5",
     "source": "google-news",
     "lang": "de",
     "scope": "search",
-    "date": "Fri, 22 May 2026 10:30:00 GMT"
+    "date": "Fri, 22 May 2026 12:30:00 GMT"
   },
   {
     "title": "Schwerer Unfall B271 bei Alzey: Auto landet im Schrebergarten - Wochenblatt Reporter",
@@ -43,6 +43,15 @@
     "lang": "de",
     "scope": "search",
     "date": "Tue, 19 May 2026 10:48:20 GMT"
+  },
+  {
+    "title": "A-Klasse Alzey-Worms: Tag der Entscheidungen - FuPa ⚽️",
+    "snippet": "A-Klasse Alzey-Worms: Tag der Entscheidungen FuPa ⚽️",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblAxdEQ3bE5xV1VnOGUtd2pEbVo0U3l3U21HNi1NY3FFUE45VDhWMDlyRUVmRzZ4Y0IyV2Z0ZFE3MGsxUzRleW9Nc1hkWUdsd1lVcVVXeFlBWTRkbTFrdE9SbFFzbENEYW4yeUp1Q2psbE5ZSEVkSEtyZ293VXh6eUQ5aw?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Sun, 17 May 2026 18:08:47 GMT"
   },
   {
     "title": "Stadtradeln 2026: Alzey-Worms radelt für den Klimaschutz - Allgemeine Zeitung",
@@ -61,5 +70,23 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Queeres Beratungsangebot in den Räumen des Warbede Frauennotrufs in Alzey",
+    "snippet": "Das queere Beratungsangebot ist ein neues Angebot des Warbede Frauennotrufs-Fachstelle gegen sexualisierte Gewalt in Alzey und der Peerberatung der dgti e. V. (Deutsche Gesellschaft für Transidentität und Intersexualität).",
+    "url": "https://www.frankenthal.de/stadt-frankenthal/de/neuigkeiten/soziales-und-gleichstellung/2023/beratungsangebot-frauennotruf-fachstelle/",
+    "source": "Frankenthal (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 17 Apr 2023 08:51:47 GMT"
+  },
+  {
+    "title": "Die Erfolgsgeschichte von „Cinephonics Alzey“ - Alzey-Worms",
+    "snippet": "Die Erfolgsgeschichte von „Cinephonics Alzey“ Alzey-Worms",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ0hXbEN4RVcwZUQzbGp3R3FldEVaeG9TNFZWNlJlSkw4ZGhlUnc4MHBINTZqWFlpcEFpcjBuVWlrbC1mcFlCRjZIVjVyZS1PeXg3eHluWnFxOVc5eWxZaC1uVXhUT2ZKY2hXYWtBcFpyN21Ld0QzUGhOY2xLNlJwWnhaeTN3cFV5ZnVyUk5obXJxQ1QtSWJ6WFRGWE81Z3N6TWhESXNaT0NmcHhiM1MtU3BWZWtNWFNrVXlvQlFFcExkTk9rVE9HbHV5VDAzckJwMzdCMFhzcG9ia0pDZ2sxUg?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Tue, 12 May 2026 08:12:26 GMT"
   }
 ]

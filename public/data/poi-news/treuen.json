@@ -1,14 +1,5 @@
 [
   {
-    "title": "Eistorte, Kalter Hund und Eis aus Muschel-Waffeln: Die Erfolgsrezepte der Pieschels in Treuen - Freie Presse",
-    "snippet": "Eistorte, Kalter Hund und Eis aus Muschel-Waffeln: Die Erfolgsrezepte der Pieschels in Treuen Freie Presse",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZUhublBZQ2VpMXNRY0J1Yk9oc1d3WGsxbnVvaG83dnF5NlpubzN3LVFsV25NZG5mc252SHBKek5DTkVHOWh6bW1wRmktQWhQMVgtNTk1bmlnZHNjM3E2dk9qMnI0anJ0ekFtNEM1SkJkYnVESUc5MDU4MjlDNDlUa2pIUEhCeEVWTjhzYmpWOGxjOEUwV1hZYzlUSVEtOFhwcFJRWm4yS01kWHAySHpmMVJSVjBjTHlJWkZ4Tk1oQlh4RldpdFI5R1NZU3EwY3hERFlWd0dvNDI1dmIzQVM3cWUxb09uZWs?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Sat, 23 May 2026 03:00:00 GMT"
-  },
-  {
     "title": "Sommersaison startet im Freibad Treuen - Freie Presse",
     "snippet": "Sommersaison startet im Freibad Treuen Freie Presse",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmVQaXluNFJCa21kNnhwbzlsYXNXQmdEZ3RmQUtkejFqV29BYzV6MHpjejJtaGwxZXFpRGFqdkY2UlhJZS1aeWF4Q3hKYVd6TERPdjd3STYwUTB6NHZIY2d2c2htN0FjZER5eWI3bGVvNVZ4U1RoMmZoWXE2eFVmbExER3FCaTJzRUpENW5iWGZDbnYwcWdxOGt4cTZzWTFP?oc=5",
@@ -25,6 +16,15 @@
     "lang": "de",
     "scope": "search",
     "date": "Thu, 21 May 2026 13:58:01 GMT"
+  },
+  {
+    "title": "Eistorte, Kalter Hund und Eis aus Muschel-Waffeln: Die Erfolgsrezepte der Pieschels in Treuen - Freie Presse",
+    "snippet": "Eistorte, Kalter Hund und Eis aus Muschel-Waffeln: Die Erfolgsrezepte der Pieschels in Treuen Freie Presse",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZUhublBZQ2VpMXNRY0J1Yk9oc1d3WGsxbnVvaG83dnF5NlpubzN3LVFsV25NZG5mc252SHBKek5DTkVHOWh6bW1wRmktQWhQMVgtNTk1bmlnZHNjM3E2dk9qMnI0anJ0ekFtNEM1SkJkYnVESUc5MDU4MjlDNDlUa2pIUEhCeEVWTjhzYmpWOGxjOEUwV1hZYzlUSVEtOFhwcFJRWm4yS01kWHAySHpmMVJSVjBjTHlJWkZ4Tk1oQlh4RldpdFI5R1NZU3EwY3hERFlWd0dvNDI1dmIzQVM3cWUxb09uZWs?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Sat, 23 May 2026 03:00:00 GMT"
   },
   {
     "title": "FSV Treuen II - Transfermarkt",
@@ -54,15 +54,6 @@
     "date": "Wed, 13 May 2026 09:47:00 GMT"
   },
   {
-    "title": "MA AUTOMOTIVE DEUTSCHLAND GmbH (Treuen) im Ranking der deutschen Top-Unternehmen - Die Deutsche Wirtschaft",
-    "snippet": "MA AUTOMOTIVE DEUTSCHLAND GmbH (Treuen) im Ranking der deutschen Top-Unternehmen Die Deutsche Wirtschaft",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEN5YlY5TkhHMWNsUWNDTnVSakVqWGI0ZFkwemJvTDZpVVFUOUFNVTNtRVpLdW1YTnZmNFBSMkp3UFJKUm1qbFFycVh2anZkX1VGRFlwc0tCeTNMZjlIdW81eXhQQnN5RGdvT25IM2hfMU84bDN3YUs5eWl3NDlQMFN6N1M5TkxESzUwRlVR?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Thu, 30 Apr 2026 07:00:00 GMT"
-  },
-  {
     "title": "A72 zwischen Plauen und Treuen Freitagvormittag mehrere Stunden gesperrt - MDR",
     "snippet": "A72 zwischen Plauen und Treuen Freitagvormittag mehrere Stunden gesperrt MDR",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGVfSzdIVUxIVy1RVWtQb2Fnc3NfVFhieUY5cm53OFl0WHBYenQyUnJ5aGJiWER3ZGlPc1FYNDZlTDMxMU9CZ2RDcG9oQjY0SEVYdnR5QzZNVFJ6S05yTC10aVR6d1NTVXYxNHlrckVuWnl4VTlPTzRGTU1rVXJReUhYNi1tMXRQSlVUeWZ5cEtVLUhsQ1FtaGY2c3ZkV3l3VTg4WV80emJvcEdwNzdkZU9sR2xra3RRQXVv?oc=5",
@@ -70,5 +61,14 @@
     "lang": "de",
     "scope": "search",
     "date": "Fri, 27 Mar 2026 13:32:45 GMT"
+  },
+  {
+    "title": "MA AUTOMOTIVE DEUTSCHLAND GmbH (Treuen) im Ranking der deutschen Top-Unternehmen - Die Deutsche Wirtschaft",
+    "snippet": "MA AUTOMOTIVE DEUTSCHLAND GmbH (Treuen) im Ranking der deutschen Top-Unternehmen Die Deutsche Wirtschaft",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEN5YlY5TkhHMWNsUWNDTnVSakVqWGI0ZFkwemJvTDZpVVFUOUFNVTNtRVpLdW1YTnZmNFBSMkp3UFJKUm1qbFFycVh2anZkX1VGRFlwc0tCeTNMZjlIdW81eXhQQnN5RGdvT25IM2hfMU84bDN3YUs5eWl3NDlQMFN6N1M5TkxESzUwRlVR?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Thu, 30 Apr 2026 07:00:00 GMT"
   }
 ]

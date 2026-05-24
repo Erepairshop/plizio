@@ -1,5 +1,14 @@
 [
   {
+    "title": "POL-F: 260523 - 0642 Frankfurt - Westend: Armbanduhr geraubt",
+    "snippet": "Frankfurt (ots) - (di) Gestern Nachmittag (22. Mai 2026) beraubte ein Unbekannter im Westend einen 80-Jährigen. Die Polizei sucht nun Zeugen. Nach ersten Erkenntnissen kehrte der 80-Jährige kurz nach 16:00 Uhr zu seiner Wohnanschrift \"Auf der ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6280548",
+    "source": "Presseportal Polizei-HH",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 11:38:26 +0200"
+  },
+  {
     "title": "Überraschender Wechsel: Nächste Nationalspielerin aus Frankfurt zu Union",
     "snippet": "DFB-Verteidigerin Jella Veit verlässt Eintracht Frankfurt und soll zu Union Berlin wechseln.",
     "url": "https://www.bz-berlin.de/berlin-sport/union-berlin/naechste-nationalspielerin-aus-frankfurt-zu-union",
@@ -9,67 +18,103 @@
     "date": "Sat, 23 May 2026 10:58:32 +0200"
   },
   {
-    "title": "20-Jähriger schoss beim JPMorgan-Lauf einem Mann das Auge aus – so hoch ist die Strafe",
-    "snippet": "Ein 20-Jähriger hat beim JP-Morgan-Lauf einen Läufer in einen Hinterhof gelockt und ihm aus weniger als 50 Zentimetern ins Gesicht geschossen.",
-    "url": "https://www.fnp.de/frankfurt/schiesst-laeufer-ins-auge-und-raubt-ihm-500-euro-vier-jahre-haft-94319762.html",
+    "title": "Stadt schickt Frankfurter Mietern Postkarten – das steckt dahinter",
+    "snippet": "Viele Frankfurterinnen und Frankfurter zahlen womöglich zu viel Miete, ohne es zu wissen. Die Stadt will das jetzt ändern – und verschickt Postkarten.",
+    "url": "https://www.fnp.de/frankfurt/post-vom-amt-frankfurt-schickt-mietern-postkarten-und-das-steckt-dahinter-94319763.html",
     "source": "Frankfurter Neue Presse",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 18:00:00 +0200"
+    "date": "Sun, 24 May 2026 06:00:00 +0200"
   },
   {
     "title": "„So absurd wie großartig“: Metallica sorgen bei Frankfurt-Konzert für Überraschung",
     "snippet": "Am Freitagabend gaben Metallica das erste ihrer beiden Stadionkonzerte in Frankfurt. Ein Moment überraschte insbesondere alle Eintracht-Fans.",
-    "url": "https://www.fr.de/frankfurt/so-absurd-wie-grossartig-metallica-sorgen-bei-frankfurt-konzert-fuer-ueberraschung-94319759.html",
+    "url": "https://www.fr.de/frankfurt/ueberraschung-so-absurd-wie-grossartig-metallica-sorgen-bei-frankfurt-konzert-fuer-94319759.html",
     "source": "Frankfurter Rundschau",
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 11:00:00 +0200"
   },
   {
-    "title": "Tödlicher Streit in Frankfurt – Polizist schießt auf Mann",
-    "snippet": "In einer Wohnung im Frankfurter Nordend eskaliert ein Streit zweier Männer. Einer stirbt. Der andere wird von der Polizei angeschossen und schwer verletzt.",
-    "url": "https://www.op-marburg.de/hessen/toedlicher-streit-in-frankfurt-polizist-schiesst-auf-mann-7W4FJNVBG2DDONXKFIKAQ5DZFY.html",
-    "source": "Oberhessische Presse",
+    "title": "Premiere am 30. Mai: „Barock am Main“ wächst über Frankfurt hinaus",
+    "snippet": "Michael Quast probt Molière für „Barock am Main“",
+    "url": "https://www.faz.net/aktuell/rhein-main/gastspiel-in-bad-hersfeld-barock-am-main-waechst-ueber-frankfurt-hinaus-accg-200855881.html",
+    "source": "FAZ Rhein-Main",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 09:46:33 GMT"
+  },
+  {
+    "title": "Leisnig: Sensationeller dritter Platz für F-Jugend bei Eintracht Frankfurt",
+    "snippet": "Die Kinder der F-Jugend vom VfB Leisnig haben sich bei der Waldkicker-Challenge selbst übertroffen. Beim Abschlussturnier kämpften sich die Achtjährigen bei Eintracht Frankfurt auf einen sensationellen dritten Platz.",
+    "url": "https://www.dnn.de/lokales/mittelsachsen/doebeln/leisnig-sensationeller-dritter-platz-fuer-f-jugend-bei-eintracht-frankfurt-ICTVK2D2HZAEXHWF2HZP7TYCKM.html",
+    "source": "DNN",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 17:00:03 +0200"
+  },
+  {
+    "title": "Firma aus Nordhessen realisierte am Flughafen Frankfurt Millionenauftrag – „Bedingungen waren anspruchsvoll“",
+    "snippet": "Insgesamt wurden am neuen Terminal mehrere Tausend Türen verbaut – rund 400 davon stammen von E+S Brandschutz aus Frankershausen (Werra-Meißner-Kreis).",
+    "url": "https://www.hna.de/lokales/witzenhausen/frankershaeuser-firma-baut-am-neuen-terminal-mit-frankfurt-airport-flughafen-94318690.html",
+    "source": "HNA",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 05:55:00 +0200"
+  },
+  {
+    "title": "Eintracht-Frankfurt-Sportvorstand Markus Krösche mit überraschender Pressekonferenz",
+    "snippet": "Nach der verkorksten Saison von Eintracht Frankfurt nimmt Sportvorstand Markus Krösche die Schuld auf sich. Ex-Coach Riera spricht er von Verantwortung frei....",
+    "url": "https://kinzig.news/31976/eintracht-frankfurt-sportvorstand-markus-kroesche-mit-ueberraschender-pressekonferenz",
+    "source": "Kinzig.News",
     "lang": "de",
     "scope": "region",
-    "date": "Fri, 22 May 2026 22:41:58 +0200"
+    "date": "Sun, 24 May 2026 06:00:00 +0200"
+  },
+  {
+    "title": "POL-F: 260523 - 0641 Frankfurt - Bockenheim: Festnahme nach Farbschmierereien",
+    "snippet": "Frankfurt (ots) - (di) Gestern Nacht (23. Mai 2026) erfolgte die Festnahme eines 45-Jährigen in Bockenheim, der zunächst randalierte. Im weiteren Verlauf erhärtete sich zudem der Verdacht, dass dieser auch für Farbschmierereien in diesem Bereich ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6280547",
+    "source": "Presseportal Polizei-HH",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 11:37:02 +0200"
+  },
+  {
+    "title": "20-Jähriger schoss beim JPMorgan-Lauf einem Mann das Auge aus – so hoch ist die Strafe",
+    "snippet": "Ein 20-Jähriger hat beim JP-Morgan-Lauf einen Läufer in einen Hinterhof gelockt und ihm aus weniger als 50 Zentimetern ins Gesicht geschossen.",
+    "url": "https://www.fnp.de/frankfurt/haft-schiesst-laeufer-ins-auge-und-raubt-ihm-500-euro-vier-jahre-94319762.html",
+    "source": "Frankfurter Neue Presse",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 18:00:00 +0200"
+  },
+  {
+    "title": "Mann in Frankfurt Erstochen: Polizei verletzt Angreifer mit Schüssen",
+    "snippet": "Bei einem Streit in einer Wohnung im Frankfurter Nordend wird ein Mann mit einem scharfen Gegenstand getötet. Der Tatverdächtige wird durch Schüsse der Polizei schwer verletzt.",
+    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-mann-bei-streit-getoetet-polizei-schiesst-auf-angreifer-200861192.html",
+    "source": "FAZ Rhein-Main",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 07:00:00 GMT"
+  },
+  {
+    "title": "POL-F: 260523 - 0640 Frankfurt - Innenstadt: Schnelle Festnahme nach Raub",
+    "snippet": "Frankfurt (ots) - (di) Gestern Morgen (22. Mai 2026) erfolgte die schnelle Festnahme von vier Tatverdächtigen nach einem Raub in der Innenstadt. Nach bisherigen Erkenntnissen umzingelten die vier Tatverdächtigen im Alter zwischen 15 und 18 Jahren ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6280546",
+    "source": "Presseportal Polizei-HH",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 11:35:49 +0200"
   },
   {
     "title": "„So absurd wie großartig“: Metallica sorgen bei Frankfurt-Konzert für Überraschung",
     "snippet": "Am Freitagabend gaben Metallica das erste ihrer beiden Stadionkonzerte in Frankfurt. Ein Moment überraschte insbesondere alle Eintracht-Fans.",
-    "url": "https://www.fnp.de/frankfurt/so-absurd-wie-grossartig-metallica-sorgen-bei-frankfurt-konzert-fuer-ueberraschung-94319745.html",
+    "url": "https://www.fnp.de/frankfurt/ueberraschung-so-absurd-wie-grossartig-metallica-sorgen-bei-frankfurt-konzert-fuer-94319745.html",
     "source": "Frankfurter Neue Presse",
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 10:22:29 +0200"
-  },
-  {
-    "title": "„Wäldchestag“ und Märkte – Ausflugstipps für Pfingsten rund um Frankfurt",
-    "snippet": "Pfingsten steht vor der Tür. An den Feiertagen gibt es wieder viele Angebote für Klein und Groß. Was man im Rhein-Main-Gebiet unternehmen kann.",
-    "url": "https://www.fr.de/frankfurt/waeldchestag-und-maerkte-ausflugstipps-fuer-pfingsten-rund-um-frankfurt-94318973.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 06:00:00 +0200"
-  },
-  {
-    "title": "Trotz Polizei-Siegel weiter in Betrieb: Illegales Glücksspiel in Frankfurter Lokal erneut aufgeflogen",
-    "snippet": "Nur Tage nach der Schließung hebt die Polizei Frankfurt in einer Gaststätte wieder illegales Glücksspiel aus – sechsstelliger Betrag sichergestellt.",
-    "url": "https://www.fnp.de/frankfurt/trotz-polizei-siegel-illegales-gluecksspiel-frankfurter-lokal-94318862.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:00:00 +0200"
-  },
-  {
-    "title": "Messer-Streit in Frankfurter Wohnung eskaliert: Polizei schießt – ein Toter, ein Schwerverletzter",
-    "snippet": "In einer Wohnung in Frankfurt gerieten zwei Männer in einen Streit, bei dem ein Messer eingesetzt wurde. Einer starb noch am Tatort – der andere wurde von der Polizei angeschossen.",
-    "url": "https://www.fr.de/frankfurt/messer-streit-in-frankfurter-wohnung-eskaliert-polizei-gibt-schuss-ab-zr-94319560.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 21:49:46 +0200"
   },
   {
     "title": "Brandenburger Innenministerium lehnt Haushalt Frankfurt (Oder) für 2025 und 2026 ab",
@@ -81,13 +126,67 @@
     "date": "Fri, 22 May 2026 17:48:31 +0200"
   },
   {
-    "title": "Frankfurt ein „El Dorado für Immobilienspekulanten“?",
-    "snippet": "In Frankfurt prallen beim Thema bezahlbarer Wohnraum die Positionen aufeinander. Während die SPD von einem Wendepunkt spricht, kritisiert das BSW Etikettenschwindel.",
-    "url": "https://www.fnp.de/frankfurt/frankfurt-ein-el-dorado-fuer-immobilienspekulanten-94317935.html",
+    "title": "Titelkampf in Frankfurt: „Dolph“ Merten will vor Heimpublikum den MMA-Gürtel",
+    "snippet": "Moritz „Dolph“ Merten kämpft am Samstag, 23. Mai, in der Jahrhunderthalle in Frankfurt um den MMA-Titel – und träumt langfristig von der UFC.",
+    "url": "https://www.fnp.de/frankfurt/titelkampf-frankfurt-dolph-merten-will-heimpublikum-mma-guertel-94318953.html",
     "source": "Frankfurter Neue Presse",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 17:00:00 +0200"
+    "date": "Sat, 23 May 2026 06:00:00 +0200"
+  },
+  {
+    "title": "„Wäldchestag“ und Märkte – Ausflugstipps für Pfingsten rund um Frankfurt",
+    "snippet": "Pfingsten steht vor der Tür. An den Feiertagen gibt es wieder viele Angebote für Klein und Groß. Was man im Rhein-Main-Gebiet unternehmen kann.",
+    "url": "https://www.fr.de/frankfurt/waeldchestag-und-maerkte-ausflugstipps-fuer-pfingsten-rund-um-frankfurt-94318973.html",
+    "source": "Frankfurter Rundschau",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 06:00:00 +0200"
+  },
+  {
+    "title": "Pfingsten in Frankfurt: Die Überwindung der Sprachlosigkeit",
+    "snippet": "Pfingsten feiert das Wunder der Verständigung. Über alle Grenzen und Hürden hinweg: Es ist Zeit für eine Rückbesinnung auf Pragmatismus. Nicht nur im Frankfurter Römer, dort aber dringend.",
+    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/warum-wir-mehr-pragmatismus-in-deutschland-brauchen-200858019.html",
+    "source": "FAZ Rhein-Main",
+    "lang": "de",
+    "scope": "state",
+    "date": "Fri, 22 May 2026 10:08:09 GMT"
+  },
+  {
+    "title": "Messer-Streit in Frankfurter Wohnung eskaliert: Polizei schießt – ein Toter, ein Schwerverletzter",
+    "snippet": "In einer Wohnung in Frankfurt gerieten zwei Männer in einen Streit, bei dem ein Messer eingesetzt wurde. Einer starb noch am Tatort – der andere wurde von der Polizei angeschossen.",
+    "url": "https://www.fnp.de/frankfurt/messer-streit-in-frankfurter-wohnung-eskaliert-polizei-gibt-schuss-ab-zr-94319560.html",
+    "source": "Frankfurter Neue Presse",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 21:49:46 +0200"
+  },
+  {
+    "title": "Messer-Streit in Frankfurter Wohnung eskaliert: Polizei schießt – ein Toter, ein Schwerverletzter",
+    "snippet": "In einer Wohnung in Frankfurt gerieten zwei Männer in einen Streit, bei dem ein Messer eingesetzt wurde. Einer starb noch am Tatort – der andere wurde von der Polizei angeschossen.",
+    "url": "https://www.fr.de/frankfurt/messer-streit-in-frankfurter-wohnung-eskaliert-polizei-gibt-schuss-ab-zr-94319560.html",
+    "source": "Frankfurter Rundschau",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 21:49:46 +0200"
+  },
+  {
+    "title": "Gastro-Ranking: Frankfurt vor Berlin, aber hinter Hannover",
+    "snippet": "Hannover ist laut einem neuen Ranking die heimliche Hauptstadt der Gastronomiebranche. Frankfurt landet auf dem zweiten Platz, das Biergarten-Paradies München taucht in den Top Ten gar nicht auf.",
+    "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/gastronomie-frankfurt-vor-berlin-aber-hinter-hannover-200855316.html",
+    "source": "FAZ Rhein-Main",
+    "lang": "de",
+    "scope": "state",
+    "date": "Fri, 22 May 2026 16:46:45 GMT"
+  },
+  {
+    "title": "Dampflok-Spektakel an Pfingsten: Mit Volldampf in den Taunus – was Eisenbahn-Fans erwartet",
+    "snippet": "Die Güterzuglok 50 4867 pendelt an Pfingsten zwischen Frankfurt-Höchst und dem Bahnhofsfest in Königstein im Hochtaunuskreis.",
+    "url": "https://www.fnp.de/frankfurt/taunus-dampflok-spektakel-an-pfingsten-mit-volldampf-in-den-94318364.html",
+    "source": "Frankfurter Neue Presse",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 20:00:00 +0200"
   },
   {
     "title": "Cocktailstunde in Walhalla",
@@ -99,138 +198,75 @@
     "date": "Fri, 22 May 2026 17:32:18 +0200"
   },
   {
-    "title": "Brennpunkt Poststraße: Frankfurts Drogenszene weicht aus – Crackzentrum kommt",
-    "snippet": "Die offene Drogenszene in Frankfurt hat sich in Teilen nördlich des Hauptbahnhofs verlagert. Grund sind die zahlreichen Baustellen im Bahnhofsviertel.",
-    "url": "https://www.fnp.de/frankfurt/brennpunkt-poststrasse-frankfurts-drogenszene-weicht-aus-crackzentrum-kommt-94318051.html",
+    "title": "Saasfee Pavillon Frankfurt: Im Archiv der Sinne",
+    "snippet": "Nina Tobiens Saasfee Pavillon",
+    "url": "https://www.faz.net/aktuell/rhein-main/kultur/ausstellung-in-frankfurt-nina-tobien-im-saasfee-pavillon-accg-200839809.html",
+    "source": "FAZ Rhein-Main",
+    "lang": "de",
+    "scope": "state",
+    "date": "Fri, 22 May 2026 11:57:31 GMT"
+  },
+  {
+    "title": "Sie kommt aus Frankfurt - Union holt deutsche Nationalspielerin",
+    "snippet": "Nationalspielerin Lisanne Gräwe wechselt zu Union.",
+    "url": "https://www.bild.de/sport/fussball/union-berlin-erste-nationalspielerin-fuer-marie-louise-eta-6a0c2fd69abebff50a96ffbf",
+    "source": "Bild Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 11:54:52 CEST"
+  },
+  {
+    "title": "Frankfurter Traditionslokal schließt – „Meine Mutter war schon ein Riesenfan von euch“",
+    "snippet": "Für das Team und die Gäste ist es auch der Abschied von einem Gefühl, wenn das legendäre Lokal im Frankfurter Nordend nächste Woche schließt.",
+    "url": "https://www.fnp.de/frankfurt/schluss-strandcafe-im-nordend-schliesst-nach-18-jahren-am-29-mai-ist-94315478.html",
     "source": "Frankfurter Neue Presse",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 15:00:00 +0200"
+    "date": "Thu, 21 May 2026 06:00:00 +0200"
   },
   {
-    "title": "Theater gegen Extremismus",
-    "snippet": "In den Schuljahren 2024/25 gingen jeweils rund 150 Meldungen über rechtsextreme Vorfälle an hessischen Schulen ein. Theater könnte eine Möglickeit sein, Gemeinschaft statt Ausgrenzung zu erschaffen.",
-    "url": "https://www.fr.de/frankfurt/150-rechtsextreme-vorfaelle-an-schulen-theater-soll-jugendliche-staerken-94319286.html",
+    "title": "Metallica in Frankfurt: Parken, Anfahrt, RMV-Anreise – alle Infos",
+    "snippet": "Die Metalband Metallica eröffnet den Stadionsommer 2026 in Frankfurt. James Hetfield und Co. spielen gleich zweimal im Deutsche Bank Park.",
+    "url": "https://www.fr.de/frankfurt/metallica-in-frankfurt-parken-anfahrt-rmv-anreise-alle-infos-94315799.html",
     "source": "Frankfurter Rundschau",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 17:21:15 +0200"
+    "date": "Thu, 21 May 2026 06:00:00 +0200"
   },
   {
-    "title": "Frankfurter Nationalfeiertag startet: Wäldchestag lockt mit 66-Meter-Flugkarussell",
-    "snippet": "Der Wäldchestag öffnet am Freitag um 17 Uhr im Stadtwald. Das höchste transportable Flugkarussell der Welt wirbelt Gäste in 66 Metern Höhe herum.",
-    "url": "https://www.fnp.de/frankfurt/frankfurter-nationalfeiertag-startet-waeldchestag-lockt-mit-66-meter-flugkarussell-94317999.html",
+    "title": "Nach Triumph in Frankfurt: Radprofi Georg Zimmermann ordnet Tour de France alles unter",
+    "snippet": "Nach seinem Sieg bei Eschborn-Frankfurt verändert Radprofi Georg Zimmermann seine Trainingsumgebung grundlegend. Der Augsburger verlagert dafür seinen Lebensmittelpunkt nach Vorarlberg.",
+    "url": "https://www.augsburger-allgemeine.de/sport/radsport-nach-triumph-in-frankfurt-radprofi-georg-zimmermann-ordnet-der-tour-de-france-alles-unter-114249599",
+    "source": "Augsburger Allgemeine — more sections",
+    "lang": "de",
+    "scope": "state",
+    "date": "2026-05-20T05:10:52Z"
+  },
+  {
+    "title": "Mehr Platz auf dem RE1: Neue 8-Teiler stärken Bahnverkehr zwischen Brandenburg an der Havel, Berlin und Frankfurt (Oder)",
+    "snippet": "Der Regionalexpress RE1, eine der wichtigsten Pendlerverbindungen in der Hauptstadtregion, erhält deutlich mehr Kapazität. Künftig verkehren auf der Strecke zwischen Brandenburg an...",
+    "url": "https://www.stadt-brandenburg.de/n?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=17515&cHash=1b9e614d99c2430e9ec3f29ac9e734ea",
+    "source": "Brandenburg an der Havel (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 20:09:17 +0200"
+  },
+  {
+    "title": "VHS Frankfurt (Oder) beteiligt sich am bundesweiten Aktionstag „Zusammenhalt in Vielfalt“",
+    "snippet": "Am Donnerstag, 21. Mai, findet der erste bundesweite Aktionstag „Zusammenhalt in Vielfalt“ statt – ein Tag, der mit vielen Angeboten sichtbar machen soll, wie kulturelle Integration in Deutschland gelebt wird. Im Rahmen ...",
+    "url": "https://www.frankfurt-oder.de/index.php?ModID=255&FID=4071.8438.1&object=tx%2C4071.5.1",
+    "source": "Frankfurt (Oder) (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 14:55:00 +0200"
+  },
+  {
+    "title": "Awo Oberrad wählt neuen Vorstand: Erich Schlauch gibt nach 47 Jahren ab",
+    "snippet": "Die Awo Oberrad hat eine neue Doppelspitze gewählt. Erich Schlauch, der den Verein seit 1979 führte, wird nächstes Jahr 90 Jahre alt.",
+    "url": "https://www.fnp.de/frankfurt/awo-oberrad-waehlt-neuen-vorstand-erich-schlauch-gibt-nach-47-jahren-ab-94315874.html",
     "source": "Frankfurter Neue Presse",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 13:00:00 +0200"
-  },
-  {
-    "title": "Weniger Wohnungen in Frankfurt fertiggestellt",
-    "snippet": "Die Baukrise hält an. Das zeigen die neuen Fertigstellungszahlen. Auch in Frankfurt wurden 2025 weniger Wohnungen errichtet. In mancher Gegend von Hessen kommt die Bautätigkeit aber fast zum Erliegen.",
-    "url": "https://www.fr.de/frankfurt/weniger-wohnungen-in-frankfurt-fertiggestellt-94319267.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 17:15:21 +0200"
-  },
-  {
-    "title": "Frankfurter „Ride of Silence“ gedenkt der Toten im Straßenverkehr",
-    "snippet": "Am 20. Mai fahren Radfahrer schweigend durch Frankfurt und gedenken der Verkehrstoten. An drei Ghostbikes wird eine Minute geschwiegen – ein viertes wird diesmal nicht aufgestellt.",
-    "url": "https://www.fnp.de/frankfurt/ride-of-silence-in-frankfurt-2025-starb-kein-radfahrer-94315162.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 15:01:47 +0200"
-  },
-  {
-    "title": "Römerbriefe: Go, Nico, go",
-    "snippet": "Wer bei Wahlen kandidiert, muss auch verlieren können. Wer weiß das besser als Nico Wehnemann. Die FR-Kolumne aus dem Frankfurter Römer.",
-    "url": "https://www.fr.de/frankfurt/bahnhofsviertel-ort904309/nico-wehnemann-scheitert-erneut-als-ausschussvorsitzender-94315727.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:25:27 +0200"
-  },
-  {
-    "title": "„Plakatieren verboten\" läuft wegen großen Erfolgs ein zweites Mal in Frankfurt",
-    "snippet": "Die Ausstellung in der Dondorf-Druckerei zeigt politische Plakate aus den 1960er und 1970er Jahren. Darunter ist ein frühes Werk von Thomas Bayrle mit einem Dutschke-Bild.",
-    "url": "https://www.fnp.de/frankfurt/plakatieren-verboten-laeuft-wegen-grossem-erfolg-ein-zweites-mal-94314082.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 15:00:00 +0200"
-  },
-  {
-    "title": "Haushaltschaos in Frankfurt: Erneuter Millionen-Fehlbetrag droht – Kämmerer im Kreuzfeuer",
-    "snippet": "Mehrere Dezernate in Frankfurt geben mehr Geld aus, als im städtischen Haushalt eingeplant ist. Der erste Controlling-Bericht erscheint im Juni.",
-    "url": "https://www.fr.de/politik/cdu-org26591/dezernate-ueberziehen-etat-erneut-kaemmerer-frankfurt-haushalt-94315714.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:15:22 +0200"
-  },
-  {
-    "title": "Sandstrand mitten in Frankfurt: freier Eintritt am Tag, Foodcourt, Padel und Daydrinking",
-    "snippet": "Der Gibson Beach Club geht an der Mainzer Landstraße in Frankfurt in die zweite Saison. Neue Anbieter und ein exklusiver Drink erweitern das Angebot. Auch die Trendsportart Padel findet ihren Platz.",
-    "url": "https://www.fnp.de/frankfurt/foodcourt-padel-und-daydrinking-sandstrand-mitten-in-frankfurt-freier-eintritt-am-tag-94314518.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 13:00:00 +0200"
-  },
-  {
-    "title": "Neue Koalition in Frankfurt: Bleibt Dezernentin Eileen O’Sullivan trotz Volt-Sonderrolle?",
-    "snippet": "Mehr als zwei Monate nach der Kommunalwahl zeichnet sich eine Lösung ab. Die Volt-Dezernentin Eileen O'Sullivan soll im Amt bleiben, obwohl ihre Partei nicht Teil der Koalition wird.",
-    "url": "https://www.fr.de/frankfurt/cdu-gruene-und-spd-koalitionsgespraeche-94315697.html",
-    "source": "Frankfurter Rundschau",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 18:03:32 +0200"
-  },
-  {
-    "title": "Vermessung des Instrumentenlandesystems (ILS) am Flughafen Frankfurt",
-    "snippet": "Messflugzeug überprüft dabei die Präzision der Signale",
-    "url": "https://www.bingen.de/stadt/news/alle-pressemitteilungen//d-vermessung-des-instrumentenlandesystems-ils-am-flughafen-frankfurt-2054089433",
-    "source": "bingen.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Aktuelle Vermessungsflüge rund um den Flughafen Frankfurt",
-    "snippet": "Vom 19. bis voraussichtlich 22. März 2026 wird das Instrumentenlandesystem der Nordwest-Landebahn am Frankfurter Flughafen vermessen. Ein speziell hierfür ausgerüstetes Messflugzeug überprüft da...",
-    "url": "https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen",
-    "source": "heusenstamm.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 19 Mar 2026 13:32:54 GMT"
-  },
-  {
-    "title": "Sperrung Abfahrts- und Auffahrtsrampe Frankfurt / Main Anschlussstelle Höchstadt-Ost 04.- 22.05.2026",
-    "snippet": "Presseinformation 18/2026 Sperrung der Abfahrts- und Auffahrtsrampe der Richtungsfahrbahn Frankfurt / Main an der Anschlussstelle Höchstadt-Ost vom 04.05.2026 bis voraussichtlich 22.05.2026 Im Zuge der Bauarbeiten für den sechsstreifigen Ausbau der BAB A3 zwischen den Autobahnkreuzen Biebelried und ",
-    "url": "https://www.hoechstadt.de/communice-news/news/artikel/sperrung-der-abfahrts-und-auffahrtsrampe-der-richtungsfahrbahn-frankfurt-main-an-der-anschlussstelle-hoechstadt-ost-vom-04052026-bis-voraussichtlich-22052026-1064",
-    "source": "hoechstadt.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 30 Apr 2026 17:32:41 +0200"
-  },
-  {
-    "title": "Vermessung des Instrumentenlandesystems (ILS) am Flughafen Frankfurt",
-    "snippet": "Vom 26. bis voraussichtlich 28. Februar 2026",
-    "url": "https://www.bingen.de/stadt/news/alle-pressemitteilungen//d-vermessung-des-instrumentenlandesystems-ils-am-flughafen-frankfurt-1125549",
-    "source": "bingen.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Vermessung des Instrumentenlandesystems (ILS) am Flughafen Frankfurt",
-    "snippet": "Untersucht wird die Betriebsrichtung West",
-    "url": "https://www.bingen.de/stadt/news/alle-pressemitteilungen//d-vermessung-des-instrumentenlandesystems-ils-am-flughafen-frankfurt-982092307",
-    "source": "bingen.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
+    "date": "Wed, 20 May 2026 22:20:38 +0200"
   }
 ]

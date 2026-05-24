@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 11:00:00 GMT"
   },
   {
-    "title": "Urteil im Fall Tino Werner aus Bad Driburg: Anwälte des Verurteilten legen Revision ein - Radio Hochstift",
-    "snippet": "Urteil im Fall Tino Werner aus Bad Driburg: Anwälte des Verurteilten legen Revision ein Radio Hochstift",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOXzZFUmc3Q2Y0Ni1jRTZoTkRIM2NhOGdxelFsV1lqOGZsemM3NHpxN1NHb2RJMlV2dklDR1VBMU83NmFiMlY3SDdITlU5dzY0N282Qjl3WnJ2ZVc3b0RjTHRjQkpQNnhIaXFVMXNRUHVFT1prLXE4TnJDYVkzdXBfb1pkdDl4V0J4Q3VWbFp6UUVlb1o2RGhQNmJuYTI1WTlSZHVBTzM0RDE2a1NZSDM1aTlMTGFHMC1ZNDVQUXFfeWNpRXY3WkJtU2VrNUJqSW9LNTNBWkxUamhmM1hRcUhiSUVzVG11ZEk?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Thu, 21 May 2026 04:39:27 GMT"
-  },
-  {
     "title": "Rosi und Klaus Krekeler aus Bad Driburg suchen einen Nachfolger - Neue Westfälische",
     "snippet": "Rosi und Klaus Krekeler aus Bad Driburg suchen einen Nachfolger Neue Westfälische",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ082X0pOMEZYbERwRU1aVUc1VHNCLVVRYWdZQ05ZUkw0R0s2Sk1aSm1uTURKS19IM0hlb1ZCWngyX21aLUZnZ2lFYTRsLThrNkpmeGRpdGM3MWNzZWkzNmREZGkxSEwwMzA4cWI5alFjOGFad000cFZyYVBSOGt6SUlHVVdjNFZfWHgwQ29IMnZkWDF1NnNYbUhhTU1ZTkZBY3UwRXJQSzczRy1UVjd6RTlEaXJJMXJVSGNWcklJRnppN05GbHc?oc=5",
@@ -25,6 +16,15 @@
     "lang": "de",
     "scope": "search",
     "date": "Thu, 21 May 2026 15:19:00 GMT"
+  },
+  {
+    "title": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen - Lippische Landes-Zeitung",
+    "snippet": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen Lippische Landes-Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVlNbmdfVGxIR2pmS011RElUdjd6TERudl9rMExJWl9fMDFhTXBqVFctcldFNlZSSVhKZ0JpWnpLNV82RDMyWnE0OXg4aU1mY0h1YkdnaWQ1VHVJVXhFWFhTUFFKSGZJSzNQZHRXb1lLMmhYRDY3UTVDSnBOUU00MUQ0VlJqUWMycjFETUdidGNWUE5SZUtCT29wVTBuMXF4VHJmV1R0Z3RlQmpmUkxGNDU4c0twTWszeVE?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Thu, 21 May 2026 10:45:00 GMT"
   },
   {
     "title": "Bad Driburg startet in den Freibad-Sommer - Westfalen-Blatt",
@@ -36,13 +36,13 @@
     "date": "Thu, 21 May 2026 11:46:00 GMT"
   },
   {
-    "title": "Bad Driburg: Mörder von Tino Werner zu lebenslanger Haft verurteilt - Westfalen-Blatt",
-    "snippet": "Bad Driburg: Mörder von Tino Werner zu lebenslanger Haft verurteilt Westfalen-Blatt",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTlPWmdPQWlYQ3FET3BOZU5TZFNaUTFCV19DdVhmV0dkTExVTkdqdFJYV0lOaVVHd2o4MnBoZmcySkJWbFM4MmEwMGlXaExVUG9aSlhMMmpIOUNqQ0FONXpFS3JWWWZWZjREMWwzS3JtemtwS3hsdUN3WGtveXk2TlRfZFZzQmF5Wm1UdDNVN2tVVGlqaDNGSllfQmJYN2RQQ2d1VUdReDBBTDhJeC1Z?oc=5",
+    "title": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen - Neue Westfälische",
+    "snippet": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen Neue Westfälische",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjhVYlFKM00xOFk5OEs1QVZyLUJQcFFzbXQ0Y1ZPYTBuUUZxdlhCelNZRVF0THpzSFp3NzRnS292OTV2R19kY0NNV1dLV1BYbGNhWFlRc3hrU0g3c0NLYjNPUUlPYksxNVdUaHc5YUZNTXZRTThLQVVtTlNRSUVHTlV4VGgyMjVMWTRIdFpvWmR3dzNsXzZ3elVBdWpuWjRweXhMbVRmcjV3dnJQYWtJLU9VN0hIeDJ6V1V4Qjk4UHAtZ0hjMHVjU1U3RkUwRXBXeDhxNVdha3RCYi1uV3RN?oc=5",
     "source": "google-news",
     "lang": "de",
     "scope": "search",
-    "date": "Wed, 20 May 2026 13:06:00 GMT"
+    "date": "Wed, 20 May 2026 15:22:03 GMT"
   },
   {
     "title": "Mordfall Tino Werner aus Bad Driburg: Angeklagter schuldig gesprochen - Mindener Tageblatt",
@@ -54,21 +54,39 @@
     "date": "Wed, 20 May 2026 12:40:00 GMT"
   },
   {
-    "title": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen - Neue Westfälische",
-    "snippet": "Mord an Tino Werner aus Bad Driburg: Angeklagter nach 22 Jahren schuldig gesprochen Neue Westfälische",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjhVYlFKM00xOFk5OEs1QVZyLUJQcFFzbXQ0Y1ZPYTBuUUZxdlhCelNZRVF0THpzSFp3NzRnS292OTV2R19kY0NNV1dLV1BYbGNhWFlRc3hrU0g3c0NLYjNPUUlPYksxNVdUaHc5YUZNTXZRTThLQVVtTlNRSUVHTlV4VGgyMjVMWTRIdFpvWmR3dzNsXzZ3elVBdWpuWjRweXhMbVRmcjV3dnJQYWtJLU9VN0hIeDJ6V1V4Qjk4UHAtZ0hjMHVjU1U3RkUwRXBXeDhxNVdha3RCYi1uV3RN?oc=5",
+    "title": "Bad Driburg: Mörder von Tino Werner zu lebenslanger Haft verurteilt - Westfalen-Blatt",
+    "snippet": "Bad Driburg: Mörder von Tino Werner zu lebenslanger Haft verurteilt Westfalen-Blatt",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTlPWmdPQWlYQ3FET3BOZU5TZFNaUTFCV19DdVhmV0dkTExVTkdqdFJYV0lOaVVHd2o4MnBoZmcySkJWbFM4MmEwMGlXaExVUG9aSlhMMmpIOUNqQ0FONXpFS3JWWWZWZjREMWwzS3JtemtwS3hsdUN3WGtveXk2TlRfZFZzQmF5Wm1UdDNVN2tVVGlqaDNGSllfQmJYN2RQQ2d1VUdReDBBTDhJeC1Z?oc=5",
     "source": "google-news",
     "lang": "de",
     "scope": "search",
-    "date": "Wed, 20 May 2026 15:22:03 GMT"
+    "date": "Wed, 20 May 2026 13:06:00 GMT"
   },
   {
-    "title": "Bad Driburg - Westfalen-Blatt",
-    "snippet": "Bad Driburg Westfalen-Blatt",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMElpNVhmbmJBT0RyRk1QeFBWdS1EcmFRcEJsbHQyQ2lxYkhnLWM3THEtQ2xiY19pRWhMa1pYXzJ6c1EtaFRKalRpYUJLZG02NkVQQlpTdVdzQ2FPLUFVWE1nWjhDRE9kenFCXw?oc=5",
+    "title": "Hat er Tino Werner aus Bad Driburg ermordet? Cold Case Fall von vor 22 Jahren wirft Fragen auf - WDR",
+    "snippet": "Hat er Tino Werner aus Bad Driburg ermordet? Cold Case Fall von vor 22 Jahren wirft Fragen auf WDR",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDhRZ2VsdVpWbElaZmpFTXQxV2lkUmhLUnFzeGlaN3JZeVNRdHZ0MVFPNURqZGNFOTJfVjl2VE9NZlNDTW10bDZYRTRvMEVPcm8yT2lpTTZldlIxM1FGWGhfTmlrRmlaTWVMdFdmcEI2VFVGUXVlb0M1U2dEQkRoTTFKcF9kTzQ?oc=5",
     "source": "google-news",
     "lang": "de",
     "scope": "search",
-    "date": "Wed, 19 May 2021 19:40:19 GMT"
+    "date": "Thu, 14 May 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Bad Driburg mit 9,6 Millionen Euro im Minus - Radio Hochstift",
+    "snippet": "Bad Driburg mit 9,6 Millionen Euro im Minus Radio Hochstift",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa21reHYzeERscU9SXzdWUGlQZ21tS1lBbTJTUG9DUlBoOEJNanNnZ2h2LW5vSnd1ZGU5UnBSYS1zeDRmci1vYmxZaGRtTzcwWThCSkg4bDF3MG42bDRJdDZYejRhRFhQRjFwU1hwb2F5OXh6ek9VQ1dzTl9MdnhWNDJhM2VpZERmbEdUM3dWeUwxSXZ3d285ZTZGUG9zOEgtNEFKTkRGMC1BTjhQaEpVSjk5alFUV0RoTGc?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Plädoyers Cold Case \"Mord Tino Werner/ Bad Driburg\" - WDR",
+    "snippet": "Plädoyers Cold Case \"Mord Tino Werner/ Bad Driburg\" WDR",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWk9UcE5BbEU1OG4zeHJadFJOZkhNOFJkT2gtWEtQM2oyS0hNdFhKTDhKb3FMQ1F4bzg3MGVFS252VU05WW0tZW1fSGZSWjhGYktoNktPTGY2cEY0amRvSEZrM2Z1NGUzbjUzRVFBODEzWGw4c1V0Q2M1LVpPTE5VTktkVXZSR1I4UG13ZFV4SGxpRThncWVUcDZpTjBldHgxMDhXbDBhZmFOTkFqSWhaNWliS0pxSF95dXpvSEcyZ0xLVlNrejR3R2pvTkpIQdIBzAFBVV95cUxNUU1mV1FGVFV1aTlQd3BwaWFYX0ZCMElkc1hwUmlhZzZac0JJSUtETC0yVnJSelZDMUpxM1pPSkk5V3dBZkRrVkFtbnBTTzh6MUtXSkR5OFM3czRNd1RldnhXZzJGT3ZPdUlHUDlTbUxvSm1mUGh2bVp5V0xCcDFpVlkzN0g3VnE2elhfVmJGXzR4eFJaRWJLdV9jcG9ycHBURnVDTDVqd0FzQUg5ZzU1bGpVQW5zaW1FUl9Vd21Dd1F3UW13b1I5VWlHYlE?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Wed, 13 May 2026 07:00:00 GMT"
   }
 ]

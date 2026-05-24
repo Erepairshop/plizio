@@ -1,30 +1,264 @@
 [
   {
-    "title": "„Wir haben Blut geleckt“ – Titelverteidiger Stuttgart will den Final-Coup gegen den FC Bayern",
-    "snippet": "Der VfB Stuttgart träumt von der Titelverteidigung im DFB-Pokal. Die Vorfreude auf das Endspiel gegen den FC Bayern ist bei Fans und Team selbstverständlich groß. „Das schönste Spiel, dass du haben kannst“, sagt Stuttgart-Trainer Sebastian Hoeneß.",
-    "url": "https://www.welt.de/sport/fussball/video6a1182a4be29d4b4607a4798/dfb-pokal-wir-haben-blut-geleckt-titelverteidiger-stuttgart-will-den-final-coup-gegen-den-fc-bayern.html",
-    "source": "welt.de",
+    "title": "VfB Stuttgart in der Einzelkritik: Das Monster hat das Nachsehen",
+    "snippet": "Ramon Hendriks verliert einen entscheidenden Wettlauf, Ermedin Demirovic imitiert das Stefan-Effenberg-Begrüßungsfoul, Alexander Nübel ist chancenlos im Nebel: Der VfB Stuttgart in der Einzelkritik.",
+    "url": "https://www.sueddeutsche.de/sport/vfb-stuttgart-fc-bayern-muenchen-dfb-pokal-einzelkritik-li.3488189",
+    "source": "sueddeutsche.de",
     "lang": "de",
     "scope": "national",
-    "date": "Sat, 23 May 2026 11:00:13 GMT"
+    "date": "Sat, 23 May 2026 20:23:54 GMT"
   },
   {
-    "title": "Pokalfinale und Sommerfestival: Liveblog – 0711-Crew stimmt sich über den Dächern Stuttgarts  auf den Abend ein",
-    "snippet": "Am Samstag platzt Stuttgart aus allen N hten. Auf dem Schlossplatz steigt das SWR-Sommerfestival, im Neckarpark das Public Viewing zum VfB-Pokalfinale. Wir sind live dabei.",
-    "url": "https://www.stuttgarter-zeitung.de/inhalt.pokalfinale-und-sommerfestival-liveblog-0711-crew-stimmt-sich-ueber-den-daechern-stuttgarts-auf-den-abend-ein.70b28124-893d-41cb-832c-f9673e8a59cd.html",
+    "title": "Finale im DFB-Pokal: Stuttgart stark, aber Kane lässt die Bayern jubeln",
+    "snippet": "Der VfB Stuttgart war mutig, engagiert, teilweise klar überlegen - doch der FC Bayern schlug gnadenlos zurück und feiert dank Harry Kane zum 21. Mal den Triumph im DFB-Pokal.",
+    "url": "https://www.tagesschau.de/sport/stuttgart-stark-aber-kane-laesst-die-bayern-jubeln,pokal-finale-bayern-vfb-100.html",
+    "source": "tagesschau.de",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 23:57:55 +0200"
+  },
+  {
+    "title": "DFB-Pokal-Finale: Die Bayern gewinnen das Endspiel gegen den VfB Stuttgart dank Harry Kane",
+    "snippet": "Der Meister ist auch der Pokalsieger. Der FC Bayern hat den VfB Stuttgart im Endspiel besiegt und konnte sich wieder auf seinen Torjäger verlassen. Die drei Erkenntnisse des Spiels im Live-Kommentar.",
+    "url": "https://www.spiegel.de/sport/fussball/dfb-pokal-finale-live-bayern-muenchen-gegen-den-vfb-stuttgart-a-513d9c5d-4a4e-4178-8726-861810c741e8#ref=rss",
+    "source": "spiegel.de",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 21:33:00 +0200"
+  },
+  {
+    "title": "FC Bayern gewinnt DFB-Pokal: Sturm-Gigant Harry Kane fertigt den VfB Stuttgart ab",
+    "snippet": "Erstmals seit sechs Jahren gewinnt der FC Bayern wieder den DFB-Pokal. Im Finale im Berliner Olympiastadion erlegt der Münchner Starstürmer Harry Kane den VfB Stuttgart im Alleingang (3:0).",
+    "url": "https://www.n-tv.de/sport/fussball/Sturm-Gigant-Harry-Kane-fertigt-den-VfB-Stuttgart-ab-id30853180.html",
+    "source": "n-tv.de",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 21:58:01 +0200"
+  },
+  {
+    "title": "3:0 gegen VfB Stuttgart: King Kane führt den FC Bayern zum DFB-Pokalsieg",
+    "snippet": "Der VfB Stuttgart nimmt den FC Bayern im DFB-Pokalfinale zunächst in den schwäbischen Schwitzkasten. Am Ende jubeln doch die Münchner, weil ihr Torjäger auch in Berlin trifft und trifft und trifft.",
+    "url": "https://www.faz.net/aktuell/sport/fussball/fc-bayern-muenchen-dank-harry-kane-dfb-pokalsieger-gegen-vfb-stuttgart-200767524.html",
+    "source": "faz.net",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sat, 23 May 2026 20:35:07 GMT"
+  },
+  {
+    "title": "Berlin badet, Stuttgart grölt: So heiß startet die Stadt ins Wochenende",
+    "snippet": "27 Grad, volle Eisdielen, Handtücher am Orankesee: Berlin feiert den ersten heißen Tag. Nur am Alexanderplatz klingt die Stadt plötzlich schwäbisch.",
+    "url": "https://www.berliner-zeitung.de/article/sommervibes-in-berlin-27-grad-und-es-wird-noch-heisser-10038082",
+    "source": "Berliner Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 16:43:57 GMT"
+  },
+  {
+    "title": "DFB-Pokal: Dank Kane: FC Bayern besiegt Stuttgart im Pokalfinale",
+    "snippet": "Harry Kane macht Bayern München zum Double-Sieger: Die Münchener feiern durch drei Treffer des Stürmers den ersten DFB-Pokalsieg seit sechs Jahren.",
+    "url": "https://www.tagesspiegel.de/sport/dfb-pokal-dank-kane-fc-bayern-besiegt-stuttgart-im-pokalfinale-15634080.html",
+    "source": "Tagesspiegel",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 21:59:47 +0200"
+  },
+  {
+    "title": "Mourinho bei FC Bayern – Stuttgart im Stadion: Sofort setzt es eine verbale Ohrfeige",
+    "snippet": "Prominenter Besuch beim DFB-Pokalfinale zwischen dem FC Bayern und Stuttgart. Sofort hagelt es eine Ansage.",
+    "url": "https://www.berlin-live.de/sport/fussball/fc-bayern-stuttgart-pokalfinale-jose-mourinho-hoeness-olise-id608069.html",
+    "source": "Berlin Live",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 19:54:39 +0000"
+  },
+  {
+    "title": "Liveticker: VfB Stuttgart und FC Bayern wollen den DFB-Pokal",
+    "snippet": "Der VfB Stuttgart und der FC Bayern München sind fürs Finale des DFB-Pokals zu Gast in Berlin. Ihre Fanlager stimmten sich in der Stadt aufs Endspiel ein. Alle Entwicklungen rund um den Finaltag gibt es hier im Liveticker.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-liveticker-dfb-pokal-finale-berlin-vfb-stuttgart-bayern-muenchen-fans-polizei.html",
+    "source": "rbb24 Sport",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 19:30:02 +0200"
+  },
+  {
+    "title": "Kane krönt Bayern und sich selbst: Die Pokalsieger gegen Stuttgart in der Einzelkritik",
+    "snippet": "Der FC Bayern liefert sich im Berliner Olympiastadion einen packenden Pokal-Fight gegen Stuttgart – mit Happy End: die Noten vom DFB-Pokal-Finale gegen den VfB.",
+    "url": "https://www.fnp.de/sport/fussball/kane-kroent-bayern-und-sich-selbst-bayern-noten-gegen-vfb-zr-94320156.html",
+    "source": "Frankfurter Neue Presse",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:01:33 +0200"
+  },
+  {
+    "title": "Stimmen zum VfB Stuttgart: Deniz Undav – „Für die Saison gebe ich uns eine Eins minus“",
+    "snippet": "Nach dem 0:3 des VfB Stuttgart gegen den FC Bayern M nchen haben sich die Beteiligten zum DFB-Pokalfinale ge u ert. Wir fassen die Stimmen zusammen.",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.stimmen-zum-vfb-stuttgart-deniz-undav-fuer-die-saison-gebe-ich-uns-eine-eins-minus.23a92aca-014d-4a7b-86f4-3d33c355cdc5.html",
+    "source": "Stuttgarter Zeitung — sections",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:08:00 GMT"
+  },
+  {
+    "title": "Prozess um ein Möbelhaus: „Alle dachten, ich wäre gestorben“ – Bizarrer Möbelkrieg in Feuerbach",
+    "snippet": "Im Prozess um ein &Uuml;berfallkommando im Streit um den Besitz eines M belhauses in Feuerbach verschwimmen die Grenzen zwischen mutma lichen T tern und Opfern.",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.prozess-um-ein-moebelhaus-alle-dachten-ich-waere-gestorben-bizarrer-moebelkrieg-in-feuerbach.973a9b0b-a9a5-4702-a120-a2d21b9ff4cd.html",
     "source": "Stuttgarter Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 16:09:00 GMT"
+    "date": "Sun, 24 May 2026 04:00:00 GMT"
   },
   {
-    "title": "Pokalfinale und Sommerfestival: Liveblog – 0711-Crew stimmt sich über den Dächern Stuttgarts  auf den Abend ein",
-    "snippet": "Am Samstag platzt Stuttgart aus allen N hten. Auf dem Schlossplatz steigt das SWR-Sommerfestival, im Neckarpark das Public Viewing zum VfB-Pokalfinale. Wir sind live dabei.",
-    "url": "https://www.stuttgarter-nachrichten.de/inhalt.pokalfinale-und-sommerfestival-liveblog-0711-crew-stimmt-sich-ueber-den-daechern-stuttgarts-auf-den-abend-ein.70b28124-893d-41cb-832c-f9673e8a59cd.html",
+    "title": "Prozess um ein Möbelhaus: „Alle dachten, ich wäre gestorben“ – Bizarrer Möbelkrieg in Feuerbach",
+    "snippet": "Im Prozess um ein &Uuml;berfallkommando im Streit um den Besitz eines M belhauses in Feuerbach verschwimmen die Grenzen zwischen mutma lichen T tern und Opfern.",
+    "url": "https://www.stuttgarter-nachrichten.de/inhalt.prozess-um-ein-moebelhaus-alle-dachten-ich-waere-gestorben-bizarrer-moebelkrieg-in-feuerbach.973a9b0b-a9a5-4702-a120-a2d21b9ff4cd.html",
     "source": "Stuttgarter Nachrichten",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 16:09:00 GMT"
+    "date": "Sun, 24 May 2026 04:00:00 GMT"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.lvz.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.dnn.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "DNN",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.saechsische.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "Saechsische Zeitung",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Mourinho bei FC Bayern – Stuttgart im Stadion: Sofort setzt es eine verbale Ohrfeige",
+    "snippet": "Prominenter Besuch beim DFB-Pokalfinale zwischen dem FC Bayern und Stuttgart. Sofort hagelt es eine Ansage.",
+    "url": "https://www.news38.de/sport/fussball/article300681313/fc-bayern-stuttgart-pokalfinale-jose-mourinho-hoeness-olise.html",
+    "source": "News38",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 19:55:15 +0000"
+  },
+  {
+    "title": "Stuttgart fehlen 100 Millionen Euro zur Titelverteidigung gegen die Bayern",
+    "snippet": "Dank des Hattricks von Superstar Harry Kane triumphieren die Münchener gegen den VfB. Trotzdem darf sich der deutsche Fußball freuen.",
+    "url": "https://www.braunschweiger-zeitung.de/sport/article412079195/stuttgart-fehlen-100-millionen-euro-zur-titelverteidigung-gegen-die-bayern.html",
+    "source": "Braunschweiger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 22:11:49 +0200"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.neuepresse.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "Neue Presse Hannover",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.kn-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "Kieler Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Stuttgart fehlen 100 Millionen Euro zur Titelverteidigung gegen die Bayern",
+    "snippet": "Dank des Hattricks von Superstar Harry Kane triumphieren die Münchener gegen den VfB. Trotzdem darf sich der deutsche Fußball freuen.",
+    "url": "https://www.thueringer-allgemeine.de/sport/article412079195/stuttgart-fehlen-100-millionen-euro-zur-titelverteidigung-gegen-die-bayern.html",
+    "source": "Thüringer Allgemeine",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 22:11:49 +0200"
+  },
+  {
+    "title": "Stuttgart fehlen 100 Millionen Euro zur Titelverteidigung gegen die Bayern",
+    "snippet": "Dank des Hattricks von Superstar Harry Kane triumphieren die Münchener gegen den VfB. Trotzdem darf sich der deutsche Fußball freuen.",
+    "url": "https://www.tlz.de/sport/article412079195/stuttgart-fehlen-100-millionen-euro-zur-titelverteidigung-gegen-die-bayern.html",
+    "source": "Thüringische Landeszeitung",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 22:11:49 +0200"
+  },
+  {
+    "title": "Kane krönt Bayern und sich selbst: Die Pokalsieger gegen Stuttgart in der Einzelkritik",
+    "snippet": "Der FC Bayern liefert sich im Berliner Olympiastadion einen packenden Pokal-Fight gegen Stuttgart – mit Happy End: die Noten vom DFB-Pokal-Finale gegen den VfB.",
+    "url": "https://www.hna.de/sport/fussball/kane-kroent-bayern-und-sich-selbst-bayern-noten-gegen-vfb-zr-94320156.html",
+    "source": "HNA",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:01:33 +0200"
+  },
+  {
+    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
+    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
+    "url": "https://www.maz-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
+    "source": "Maerkische Allgemeine",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 15:18:53 +0200"
+  },
+  {
+    "title": "Fanprotest beim Pokalfinale mit VfB Stuttgart: Pyro stoppt Spiel",
+    "snippet": "Berlin. Eine Spielunterbrechung und massive Pyrotechnik haben das DFB Pokalfinale mit Beteiligung des VfB Stuttgart im Berliner Olympiastadion überschattet. Fans des VfB Stuttgart und des FC Bayern München protestierten gemeinsam gegen den Deutschen Fußball Bund. In den ersten Minuten der zweiten Ha",
+    "url": "https://www.wochenblatt-reporter.de/c-sport/fanprotest-beim-pokalfinale-mit-vfb-stuttgart-pyro-stoppt-spiel_a781993",
+    "source": "wochenblatt-reporter (Rhein-Neckar)",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:14:58 +0200"
+  },
+  {
+    "title": "Stuttgart fehlen 100 Millionen Euro zur Titelverteidigung gegen die Bayern",
+    "snippet": "Dank des Hattricks von Superstar Harry Kane triumphieren die Münchener gegen den VfB. Trotzdem darf sich der deutsche Fußball freuen.",
+    "url": "https://www.otz.de/sport/article412079195/stuttgart-fehlen-100-millionen-euro-zur-titelverteidigung-gegen-die-bayern.html",
+    "source": "OTZ",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sat, 23 May 2026 22:11:49 +0200"
+  },
+  {
+    "title": "Kane krönt Bayern und sich selbst: Die Pokalsieger gegen Stuttgart in der Einzelkritik",
+    "snippet": "Der FC Bayern liefert sich im Berliner Olympiastadion einen packenden Pokal-Fight gegen Stuttgart – mit Happy End: die Noten vom DFB-Pokal-Finale gegen den VfB.",
+    "url": "https://www.kreiszeitung.de/sport/fussball/kane-kroent-bayern-und-sich-selbst-bayern-noten-gegen-vfb-zr-94320156.html",
+    "source": "Kreiszeitung Delmenhorst",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 22:01:33 +0200"
+  },
+  {
+    "title": "Kane krönt Bayern und sich selbst: Die Pokalsieger gegen Stuttgart in der Einzelkritik",
+    "snippet": "Der FC Bayern liefert sich im Berliner Olympiastadion einen packenden Pokal-Fight gegen Stuttgart – mit Happy End: die Noten vom DFB-Pokal-Finale gegen den VfB.",
+    "url": "https://www.soester-anzeiger.de/sport/fussball/kane-kroent-bayern-und-sich-selbst-bayern-noten-gegen-vfb-zr-94320156.html",
+    "source": "Soester Anzeiger Lippstadt",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 22:01:33 +0200"
+  },
+  {
+    "title": "Hattrick Kane: Bayern entthronen Stuttgart im DFB-Pokal",
+    "snippet": "Ohne Neuer, mit Protesten im Stadion und einem herausragenden Harry Kane: Wie die Bayern Stuttgarts Träume von der Titelverteidigung in Berlin beim 3:0 platzen lassen.",
+    "url": "https://www.allgaeuer-zeitung.de/baden-wuerttemberg/fussball-hattrick-kane-bayern-entthronen-stuttgart-im-dfb-pokal-114301425",
+    "source": "Allgäuer Zeitung",
+    "lang": "de",
+    "scope": "state",
+    "date": "2026-05-23T19:57:52Z"
   },
   {
     "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
@@ -34,239 +268,5 @@
     "lang": "de",
     "scope": "region",
     "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.neuepresse.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Neue Presse (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.ostsee-zeitung.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Ostsee-Zeitung (Greifswald)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.paz-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Peiner Allgemeine Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.merkur.de/sport/fc-bayern/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Münchner Merkur",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.fnp.de/sport/fussball/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.ln-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Lübecker Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.hersfelder-zeitung.de/sport/fussball/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Hersfelder Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.maz-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Märkische Allgemeine",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.kreiszeitung.de/sport/fussball/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Kreiszeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.hna.de/sport/fussball/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Hessische/Niedersächsische Allgemeine",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.lvz.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Leipziger Volkszeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.sn-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Schaumburger Nachrichten",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.op-marburg.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Oberhessische Presse",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.kn-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Kieler Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Bayern gegen Stuttgart heute im Liveticker: Sorgt Kompany für Startelf-Überraschung?",
-    "snippet": "Der FC Bayern greift in Berlin nach dem nächsten Titel in dieser Saison, doch Titelverteidiger Stuttgart will den deutschen Rekordmeister fordern. Der Liveticker.",
-    "url": "https://www.usinger-anzeiger.de/sport/fussball/bayern-gegen-stuttgart-heute-im-live-ticker-titelverteidiger-fordert-den-rekordpokalsieger-zr-94320050.html",
-    "source": "Usinger Anzeiger",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 18:08:11 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.siegener-zeitung.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Siegener Zeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Double, Torhüter, Prämien: Wissenswertes zum DFB-Pokalfinale zwischen Bayern und Stuttgart",
-    "snippet": "Blickpunkt Berlin: Im Olympiastadion wird der DFB-Pokalsieger gekürt. Für die favorisierten Bayern geht es um Titel Nummer zwei, für Stuttgart um den zweiten Cup-Erfolg nacheinander.",
-    "url": "https://www.waz-online.de/sport/double-torhueter-praemien-wissenswertes-zum-dfb-pokalfinale-zwischen-bayern-und-stuttgart-VX54XAX5AFDRBHZPW7JK24ZM3A.html",
-    "source": "Wolfsburger Allgemeine Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:18:53 +0200"
-  },
-  {
-    "title": "Pokalfinale in Stuttgart: Wie sieht es aus am Mercedes-Museum beim Public Viewing?",
-    "snippet": "Es ist eine Premiere. Erstmals wird ein VfB-Spiel beim Mercedes-Museum gezeigt. Wie sieht es dort aus? Und ist das Gel nde daf r geeignet?",
-    "url": "https://www.stuttgarter-zeitung.de/inhalt.pokalfinale-in-stuttgart-wie-sieht-es-aus-am-mercedes-museum-beim-public-viewing.79b49606-b281-4d8a-94db-b50166432d87.html",
-    "source": "Stuttgarter Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:14:00 GMT"
-  },
-  {
-    "title": "Pokalfinale in Stuttgart: Wie sieht es aus am Mercedes-Museum beim Public Viewing?",
-    "snippet": "Es ist eine Premiere. Erstmals wird ein VfB-Spiel beim Mercedes-Museum gezeigt. Wie sieht es dort aus? Und ist das Gel nde daf r geeignet?",
-    "url": "https://www.stuttgarter-nachrichten.de/inhalt.pokalfinale-in-stuttgart-wie-sieht-es-aus-am-mercedes-museum-beim-public-viewing.79b49606-b281-4d8a-94db-b50166432d87.html",
-    "source": "Stuttgarter Nachrichten",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 15:14:00 GMT"
-  },
-  {
-    "title": "DFB-Pokalfinale 2026: Bayern vs. Stuttgart heute am 23. Mai live im Free-TV & Stream",
-    "snippet": "Bayern München trifft im DFB-Pokalfinale 2026 auf den VfB Stuttgart. Alle Infos zu Termin, Übertragung, Schiedsrichter, Neuerungen und Liveticker im Überblick.",
-    "url": "https://www.haz.de/sport/dfb-pokalfinale-2026-bayern-vs-stuttgart-heute-am-23-mai-live-im-free-tv-und-stream-53DXAVIBURBUNLQ7CCKWTUFOGE.html",
-    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 08:29:04 +0200"
-  },
-  {
-    "title": "DFB-Pokalfinale 2026: Bayern vs. Stuttgart heute am 23. Mai live im Free-TV & Stream",
-    "snippet": "Bayern München trifft im DFB-Pokalfinale 2026 auf den VfB Stuttgart. Alle Infos zu Termin, Übertragung, Schiedsrichter, Neuerungen und Liveticker im Überblick.",
-    "url": "https://www.neuepresse.de/sport/dfb-pokalfinale-2026-bayern-vs-stuttgart-heute-am-23-mai-live-im-free-tv-und-stream-53DXAVIBURBUNLQ7CCKWTUFOGE.html",
-    "source": "Neue Presse (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 08:29:04 +0200"
-  },
-  {
-    "title": "DFB-Pokalfinale 2026: Bayern vs. Stuttgart heute am 23. Mai live im Free-TV & Stream",
-    "snippet": "Bayern München trifft im DFB-Pokalfinale 2026 auf den VfB Stuttgart. Alle Infos zu Termin, Übertragung, Schiedsrichter, Neuerungen und Liveticker im Überblick.",
-    "url": "https://www.ostsee-zeitung.de/sport/dfb-pokalfinale-2026-bayern-vs-stuttgart-heute-am-23-mai-live-im-free-tv-und-stream-53DXAVIBURBUNLQ7CCKWTUFOGE.html",
-    "source": "Ostsee-Zeitung (Greifswald)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:29:04 +0200"
-  },
-  {
-    "title": "DFB-Pokalfinale 2026: Bayern vs. Stuttgart heute am 23. Mai live im Free-TV & Stream",
-    "snippet": "Bayern München trifft im DFB-Pokalfinale 2026 auf den VfB Stuttgart. Alle Infos zu Termin, Übertragung, Schiedsrichter, Neuerungen und Liveticker im Überblick.",
-    "url": "https://www.paz-online.de/sport/dfb-pokalfinale-2026-bayern-vs-stuttgart-heute-am-23-mai-live-im-free-tv-und-stream-53DXAVIBURBUNLQ7CCKWTUFOGE.html",
-    "source": "Peiner Allgemeine Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:29:04 +0200"
-  },
-  {
-    "title": "FC Bayern geht mit europäischem Rekordwert ins Pokalfinale gegen Stuttgart",
-    "snippet": "Im DFB-Pokalfinale 2026 trifft Titelverteidiger VfB Stuttgart auf den Rekordsieger FC Bayern. Dieser ist klarer Favorit und hat einen bemerkenswerten Bestwert zu verteidigen.",
-    "url": "https://www.merkur.de/sport/fc-bayern/bayern-geht-mit-europaeischem-rekordwert-ins-finale-gegen-den-vfb-zr-94319991.html",
-    "source": "Münchner Merkur",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 16:42:33 +0200"
-  },
-  {
-    "title": "FC Bayern geht mit europäischem Rekordwert ins Pokalfinale gegen Stuttgart",
-    "snippet": "Im DFB-Pokalfinale 2026 trifft Titelverteidiger VfB Stuttgart auf den Rekordsieger FC Bayern. Dieser ist klarer Favorit und hat einen bemerkenswerten Bestwert zu verteidigen.",
-    "url": "https://www.fnp.de/sport/fussball/bayern-geht-mit-europaeischem-rekordwert-ins-finale-gegen-den-vfb-zr-94319991.html",
-    "source": "Frankfurter Neue Presse",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 16:42:33 +0200"
-  },
-  {
-    "title": "DFB-Pokalfinale 2026: Bayern vs. Stuttgart heute am 23. Mai live im Free-TV & Stream",
-    "snippet": "Bayern München trifft im DFB-Pokalfinale 2026 auf den VfB Stuttgart. Alle Infos zu Termin, Übertragung, Schiedsrichter, Neuerungen und Liveticker im Überblick.",
-    "url": "https://www.ln-online.de/sport/dfb-pokalfinale-2026-bayern-vs-stuttgart-heute-am-23-mai-live-im-free-tv-und-stream-53DXAVIBURBUNLQ7CCKWTUFOGE.html",
-    "source": "Lübecker Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 08:29:04 +0200"
   }
 ]

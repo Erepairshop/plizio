@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bad Langensalza: Autofahrer bekifft am Steuer",
+    "snippet": "Bei einer Verkehrskontrolle in Bad Langensalza fällt ein 45-Jähriger mit positivem Drogentest auf.",
+    "url": "https://www.tlz.de/lokales/unstrut-hainich-kreis/article412077186/bad-langensalza-autofahrer.html",
+    "source": "Thüringische Landeszeitung",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 09:55:00 +0200"
+  },
+  {
+    "title": "Einsatz für Rosen und Kinder: Warum Marie-Luise Steube aus Bad Langensalza Thüringerin des Monats ist",
+    "snippet": "Seit Jahrzehnten engagiert sich Marie-Luise Steube für Bad Langensalza - für Rosen, Kinder und Kultur. Dafür wurde die langjährige Stadtkämmerin nun als Thüringerin des Monats ausgezeichnet.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/soemmerda/thueringerin-des-monats-rosen-langensalza-100.html",
+    "source": "MDR Th Mitte-West",
+    "lang": "de",
+    "scope": "region",
+    "date": "Fri, 22 May 2026 19:57:17 +0200"
+  },
+  {
     "title": "Bad Nauheim",
     "snippet": "Seit dem 1. März 1990 besteht die Städtepartnerschaft zwischen Bad Langensalza und Bad Nauheim. Beziehungen werden hauptsächlich über Vereine der Städte und gemeinsame Seniorenveranstaltungen gepflegt. Bad Nauheim liegt im Bundesland Hessen, etwa 40 km von Frankfurt/M. entfernt, in nordöstlicher Ric",
     "url": "https://badlangensalza.de/leben/stadtportrait/partnerstaedte/bad-nauheim/",
@@ -18,6 +36,15 @@
     "date": "Wed, 15 Apr 2026 08:23:15 +0000"
   },
   {
+    "title": "Bad Langensalza: Fotoshooting für neue Rosenkönigin",
+    "snippet": "Die 22-jährige Leonie Kurzynoga wird die Stadt zwei Jahre lang repräsentieren. Die Betriebswirtin für Steuerrecht ist am Montag offiziell vorgestellt worden.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/video-1008488.html",
+    "source": "MDR Th Nord",
+    "lang": "de",
+    "scope": "region",
+    "date": "Mon, 04 May 2026 20:00:00 +0200"
+  },
+  {
     "title": "Lage",
     "snippet": "Stadtplan Zum interaktiven Stadtplan Stadtplan Bad Langensalza Download Herunterladen",
     "url": "https://badlangensalza.de/wirtschaft/infrastruktur/lage/",
@@ -27,6 +54,15 @@
     "date": "Thu, 01 Dec 2022 15:53:29 +0000"
   },
   {
+    "title": "Bad Langensalza will weiter mit Hotel zusammenarbeiten",
+    "snippet": "Bad Langensalza will die Zusammenarbeit mit der Hotelkette Santé Royale fortführen. Diese hatte zuvor angekündigt, sich wegen des Streits mit der Stadt um den sogenannten Bademantelgang zurückzuziehen.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/bad-langensalza-hotel-therme-nutzung-100.html",
+    "source": "MDR Th Nord",
+    "lang": "de",
+    "scope": "region",
+    "date": "Wed, 25 Mar 2026 17:57:52 +0100"
+  },
+  {
     "title": "Bürgerservice / Terminbuchung",
     "snippet": "Herzlich willkommen im virtuellen Service der Stadt Bad Langensalza. Auf den folgenden Seiten haben wir Ihnen wissenswerte behördliche Informationen zu öffentlichen Dienstleistungen und Einrichtungen in der Stadt zusammengestellt. Diesen Service werden wir regelmäßig verfeinern und ausbauen. Wir wür",
     "url": "https://badlangensalza.de/buerger/buergerbuero-service/",
@@ -34,5 +70,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 01 Dec 2022 14:26:51 +0000"
+  },
+  {
+    "title": "Neue Repräsentanten für Japanischen Garten in Bad Langensalza",
+    "snippet": "Als Samurai und als Sakura - also Kirschblütenprinzessin - werden sie die Stadt bei Festen vertreten. Für diese Aufgabe haben sich rund ein Dutzend Erstklässler beworben.",
+    "url": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/video-japanischer-garten-bad-langensalza-repraesentanten-100.html",
+    "source": "MDR Th Nord",
+    "lang": "de",
+    "scope": "region",
+    "date": "Mon, 23 Mar 2026 19:57:00 +0100"
   }
 ]
