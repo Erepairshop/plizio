@@ -36,15 +36,6 @@
     "date": "Thu, 21 May 2026 10:52:21 +0200"
   },
   {
-    "title": "Info aus der Stadtbücherei: Die Vorlesestunde am 26.05.26 entfällt",
-    "snippet": "",
-    "url": "/aktuelles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1426&cHash=bac1415a0f79a684db06146323e1936f",
-    "source": "Kemnath (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 21 May 2026 08:19:42 +0200"
-  },
-  {
     "title": "Ukrainischer Kinderchor \"Free Fox\" begeistert in Kemnath mit Musik und Tanz",
     "snippet": "Gebrauchte Kleidung, Spielsachen, Bücher, Schulranzen ...– nichts deutet in der \"Bunten Kiste\" in Kemnath auf einen Probenraum hin. Dennoch übt hier regelmäßig ein Chor ukrainischer Kinder für Auftritte. Sie sind ihre Art zu danken.",
     "url": "https://www.onetz.de/oberpfalz/kemnath/ukrainischer-kinderchor-free-fox-begeistert-kemnath-musik-tanz-id5376395.html",
@@ -54,13 +45,13 @@
     "date": "Tue, 19 May 2026 13:36:49 +0000"
   },
   {
-    "title": "Kostenlose Eisweiher-Konzerte am 06. und 20. Juni in Kemnath",
-    "snippet": "Mit zwei stimmungsvollen Open-Air-Konzerten von Vintage Pie und Soul Station No. 10 startet die Stadt Kemnath in die sommerliche Kultursaison. Am idyllischen Eisweiher erwartet die Besucher im Juni ein abwechslungsreiches musikalisches Programm – und das bei freiem Eintritt.",
-    "url": "/aktuelles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1425&cHash=de429a4bdef91a8b360bd793d8c07fe2",
+    "title": "Info aus der Stadtbücherei: Die Vorlesestunde am 26.05.26 entfällt",
+    "snippet": "",
+    "url": "/aktuelles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1426&cHash=bac1415a0f79a684db06146323e1936f",
     "source": "Kemnath (official)",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 10:08:27 +0200"
+    "date": "Thu, 21 May 2026 08:19:42 +0200"
   },
   {
     "title": "Fahrzeug gerät am Stadtplatz in Kemnath in Brand",
@@ -70,6 +61,15 @@
     "lang": "de",
     "scope": "state",
     "date": "Tue, 19 May 2026 10:04:49 +0000"
+  },
+  {
+    "title": "Kostenlose Eisweiher-Konzerte am 06. und 20. Juni in Kemnath",
+    "snippet": "Mit zwei stimmungsvollen Open-Air-Konzerten von Vintage Pie und Soul Station No. 10 startet die Stadt Kemnath in die sommerliche Kultursaison. Am idyllischen Eisweiher erwartet die Besucher im Juni ein abwechslungsreiches musikalisches Programm – und das bei freiem Eintritt.",
+    "url": "/aktuelles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1425&cHash=de429a4bdef91a8b360bd793d8c07fe2",
+    "source": "Kemnath (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 10:08:27 +0200"
   },
   {
     "title": "Blutspende am 26.05.2026",

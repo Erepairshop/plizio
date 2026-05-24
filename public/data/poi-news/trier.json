@@ -81,6 +81,15 @@
     "date": "Fri, 22 May 2026 10:50:00 +0200"
   },
   {
+    "title": "Flammen aus Fenster: Feuerwehr löscht Wohnungsbrand in Heiligkreuz",
+    "snippet": "Wegen eines Wohnungsbrandes ist die Trierer Feuerwehr am späten Mittwochabend nach Heiligkreuz ausgerückt.",
+    "url": "https://www.trier.de/aktuelles/nachrichten/19002.Flammen-aus-Fenster-Feuerwehr-loescht-Wohnungsbrand-in-Heiligkreuz.html#ref=rss",
+    "source": "trier.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 07:54:00 +0200"
+  },
+  {
     "title": "Pokal und Play-Offs: Starke Verkehrsbelastung am Samstag in Trier-Nord",
     "snippet": "Das Pokalfinale Eintracht Trier gegen TuS Koblenz und das Playoff-Spiel Gladiators Trier gegen Bayern München finden am Samstag nahezu zeitgleich in Trier-Nord statt. Es gelten Straßensperrungen und Busumleitungen rund um das Moselstadion. Die Stadtwerke bieten einen kostenlosen Shuttle-Service zu b",
     "url": "https://www.trier.de/aktuelles/nachrichten/18999.Pokal-und-Play-Offs-Starke-Verkehrsbelastung-am-Samstag-in-Trier-Nord.html#ref=rss",
@@ -99,15 +108,6 @@
     "date": "Wed, 20 May 2026 14:09:00 +0200"
   },
   {
-    "title": "Weichenstellungen für die nächsten Spielplatzprojekte",
-    "snippet": "Mit der Fortschreibung der Bedarfsplanung hat der Stadtrat Schwerpunkte für Bau- und Sanierungsprojekte an Spielplätzen in diesem und im nächsten Jahr festgelegt.",
-    "url": "https://www.trier.de/aktuelles/nachrichten/18992.Weichenstellungen-fuer-die-naechsten-Spielplatzprojekte.html#ref=rss",
-    "source": "trier.de (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 12:16:00 +0200"
-  },
-  {
     "title": "ADD Trier: Vereinsgeflecht mit Spendengeldern - ADD verfügt ein landesweites Sammlungsverbot gegen DEKUNA e.V. mit Sitz in Hessen",
     "snippet": "https://www.hoehr-grenzhausen.de/neuigkeiten/2020/februar/add-trier-vereinsgeflecht-mit-spendengeldern-add-verfuegt-ein-landesweites-sammlungsverbot-gegen-dekuna-e-v-mit-sitz-in-hessen/",
     "url": "https://www.hoehr-grenzhausen.de/neuigkeiten/2020/februar/add-trier-vereinsgeflecht-mit-spendengeldern-add-verfuegt-ein-landesweites-sammlungsverbot-gegen-dekuna-e-v-mit-sitz-in-hessen/",
@@ -117,15 +117,6 @@
     "date": "Fri, 28 Feb 2020 07:02:54 GMT"
   },
   {
-    "title": "Selbsthilfe Kontakt- und Informationsstelle (SEKIS) Trier",
-    "snippet": "Beratungsangebot für Betroffene vom Hochwasser in Prüm)",
-    "url": "https://www.pruem.de/aktuelles/aktuelle-meldungen/2022/maerz/sekis-trier/",
-    "source": "Prüm (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 19 Mar 2022 23:00:00 GMT"
-  },
-  {
     "title": "Kanadische Delegation besucht Trier",
     "snippet": "Am Dienstag (11.05.2022) besuchte die Delegation unserer kanadischen Partnerstadt Barrie die älteste Stadt Deutschlands, Trier.",
     "url": "https://www.zweibruecken.de/de/leben-in-zweibruecken/aktuelles/jahresarchiv-2022/05/kanadische-delegation-besucht-trier/",
@@ -133,5 +124,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 11 May 2022 08:10:09 GMT"
+  },
+  {
+    "title": "Selbsthilfe Kontakt- und Informationsstelle (SEKIS) Trier",
+    "snippet": "Beratungsangebot für Betroffene vom Hochwasser in Prüm)",
+    "url": "https://www.pruem.de/aktuelles/aktuelle-meldungen/2022/maerz/sekis-trier/",
+    "source": "Prüm (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 19 Mar 2022 23:00:00 GMT"
   }
 ]

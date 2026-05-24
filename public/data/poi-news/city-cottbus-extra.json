@@ -1,14 +1,5 @@
 [
   {
-    "title": "Cottbus blamiert sich gegen Fünftligisten – Polizei verhindert Platzsturm in Berlin",
-    "snippet": "Knapp eine Woche nach der Aufstiegsparty in Liga zwei erlebt Energie Cottbus im Landespokal eine Enttäuschung. In Berlin muss nach Abpfiff die Polizei eingreifen. Alle Ergebnisse vom Finaltag der Amateure im Überblick.",
-    "url": "https://www.welt.de/sport/fussball/article6a11bcd1f0f7eb608db7ba08/finaltag-der-amateure-cottbus-blamiert-sich-polizei-verhindert-platzsturm-in-berlin.html",
-    "source": "welt.de",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 15:36:14 GMT"
-  },
-  {
     "title": "Landespokalfinale: VfB Krieschow schockt Cottbus - Jena triumphiert in Thüringen",
     "snippet": "Pokalsensation in Brandenburg: Außenseiter VfB Krieschow schlägt Zweitliga-Aufsteiger Energie Cottbus. In Thüringen holt der Carl Zeiss Jena mit einem knappen Sieg den Landespokal.",
     "url": "https://www.berliner-zeitung.de/article/landespokalfinale-vfb-krieschow-schockt-cottbus-jena-siegt-in-thueringen-10038086",
@@ -54,13 +45,13 @@
     "date": "Sat, 23 May 2026 15:01:42 +0200"
   },
   {
-    "title": "VfB Krieschow gewinnt Landespokal-Finale gegen Energie Cottbus 2:1",
-    "snippet": "Die kleine Sensation ist perfekt: Der VfB Krieschow hat das Brandenburger Landespokalfinale mit 2:1 gegen den FC Energie Cottbus gewonnen und sich damit den prestigeträchtigen Titel gesichert. Vor rund 10.300 Zuschauern im LEAG Energie Stadion brachte ein Eigentor von Henry Rorig den Oberligisten be",
-    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/314661/vfb-krieschow-gewinnt-landespokal-finale-gegen-energie-cottbus-21.html",
+    "title": "Cottbus: Alle Tankstellen-Preise auf einen Blick",
+    "snippet": "Benzinpreise Cottbus: Diesel ab – €, Super E5 ab – €. Jetzt 0 Tankstellen vergleichen und günstig tanken.",
+    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/311584/benzinpreise-cottbus.html",
     "source": "Niederlausitz Aktuell",
     "lang": "de",
     "scope": "region",
-    "date": "Sat, 23 May 2026 11:32:38 +0000"
+    "date": "Sun, 24 May 2026 06:00:03 +0000"
   },
   {
     "title": "Landespokal Finale Brandenburg mit VfB Krieschow und Energie Cottbus: Andy Hebler hat den Tor-Rekord",
@@ -70,6 +61,15 @@
     "lang": "de",
     "scope": "state",
     "date": "Sat, 23 May 2026 11:07:01 +0200"
+  },
+  {
+    "title": "VfB Krieschow gewinnt Landespokal-Finale gegen Energie Cottbus 2:1",
+    "snippet": "Die kleine Sensation ist perfekt: Der VfB Krieschow hat das Brandenburger Landespokalfinale mit 2:1 gegen den FC Energie Cottbus gewonnen und sich damit den prestigeträchtigen Titel gesichert. Vor rund 10.300 Zuschauern im LEAG Energie Stadion brachte ein Eigentor von Henry Rorig den Oberligisten be",
+    "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/314661/vfb-krieschow-gewinnt-landespokal-finale-gegen-energie-cottbus-21.html",
+    "source": "Niederlausitz Aktuell",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 11:32:38 +0000"
   },
   {
     "title": "Fußball: Energie Cottbus verlängert mit Tolcay Cigerci",
@@ -144,15 +144,6 @@
     "date": "Tue, 19 May 2026 11:17:00 +0200"
   },
   {
-    "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
-    "snippet": "Cottbus ist nach zwölf Jahren zurück in der 2. Liga: Nach dem 1:0-Sieg gegen Regensburg am Samstag war Platz 2 gesichert. Noch in der Nacht empfingen Tausende Energie-Fans ihre Helden, am Sonntag folgte die große Aufstiegsparty in der Innenstadt.",
-    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-energie-cottbus-aufstieg-party-feier-pele-wollitz.html",
-    "source": "rbb24 Sport",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 17 May 2026 16:27:52 +0200"
-  },
-  {
     "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
     "snippet": "",
     "url": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
@@ -160,6 +151,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Tue, 19 May 2026 17:29:40 +0200"
+  },
+  {
+    "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
+    "snippet": "Cottbus ist nach zwölf Jahren zurück in der 2. Liga: Nach dem 1:0-Sieg gegen Regensburg am Samstag war Platz 2 gesichert. Noch in der Nacht empfingen Tausende Energie-Fans ihre Helden, am Sonntag folgte die große Aufstiegsparty in der Innenstadt.",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-energie-cottbus-aufstieg-party-feier-pele-wollitz.html",
+    "source": "rbb24 Sport",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 17 May 2026 16:27:52 +0200"
   },
   {
     "title": "Was das mit einem Absteiger zu tun hat - Energie Cottbus vor Verlängerung mit Abräumer",
@@ -207,15 +207,6 @@
     "date": "Mon, 18 May 2026 11:37:13 +0200"
   },
   {
-    "title": "Brandenburg beim Theatertreffen: Der Hartmann von Cottbus und Potsdam",
-    "snippet": "Nie zuvor war ein Brandenburger Theater zum Berliner Theatertreffen eingeladen. Dieses Jahr sind es gleich zwei - aus Cottbus und Potsdam. Beide Inszenierungen stammen von Sebastian Hartmann. Beide sind erstaunlich - und könnten kaum unterschiedlicher sein.",
-    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-hartmann-serotonin-hauptmann-koepenick-berlin-theatertreffen-potsdam-cottbus.html",
-    "source": "rbb24 Kultur",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sun, 17 May 2026 09:20:00 +0200"
-  },
-  {
     "title": "Baumfällungen im Cottbuser Stadtgebiet",
     "snippet": "Im Cottbuser Stadtgebiet müssen kurzfristig zwei Linden gefällt werden. Betroffen sind jeweils ein Baum auf dem Lindenplatz im Ortsteil Sandow/Žandow sowie in der Bahnhofstraße 82 im Ortsteil Kiekebusch/Kibuš. Bei beiden Bäumen wurde ein Befall mit dem Brandkrustenpilz festgestellt. Dieser verursach",
     "url": "https://cottbus.de/pressemitteilung/baumfaellungen-im-cottbuser-stadtgebiet-5/",
@@ -259,6 +250,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Wed, 29 Apr 2026 10:49:49 +0200"
+  },
+  {
+    "title": "Brandenburg beim Theatertreffen: Der Hartmann von Cottbus und Potsdam",
+    "snippet": "Nie zuvor war ein Brandenburger Theater zum Berliner Theatertreffen eingeladen. Dieses Jahr sind es gleich zwei - aus Cottbus und Potsdam. Beide Inszenierungen stammen von Sebastian Hartmann. Beide sind erstaunlich - und könnten kaum unterschiedlicher sein.",
+    "url": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-hartmann-serotonin-hauptmann-koepenick-berlin-theatertreffen-potsdam-cottbus.html",
+    "source": "rbb24 Kultur",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sun, 17 May 2026 09:20:00 +0200"
   },
   {
     "title": "Energie feiert Zweitliga-Rückkehr: \"Cottbus wird brennen\"",

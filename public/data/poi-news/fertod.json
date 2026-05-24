@@ -1,5 +1,41 @@
 [
   {
+    "title": "Tavaszi táncestet rendeznek Győrben az Akkordeon Tánczenekarral",
+    "snippet": "Tavaszi táncestet rendeznek május 28-án a győri József Attila Művelődési Házban",
+    "url": "https://www.kisalfold.hu/helyi-eletstilus/2026/05/tavaszi-tancestet-rendeznek-gyorben-az-akkordeon-tanczenekarral?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "kisalfold.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:26:40 +0000"
+  },
+  {
+    "title": "Sok a régi autó, kevés az új: komoly bajban a magyar autópark",
+    "snippet": "Magyarország látványosan elmarad az uniós átlagtól az autók számában, életkorában és az újautó-vásárlások terén is.",
+    "url": "https://www.kisalfold.hu/helyi-gazdasag/2026/05/sok-a-regi-auto-keves-az-uj-komoly-bajban-a-magyar-autopark?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "kisalfold.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
+    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
+    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
+    "url": "https://www.kisalfold.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "kisalfold.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 06:41:20 +0000"
+  },
+  {
+    "title": "Megérkeztek a vizsgálat eredményei - 19 soproni utca érintett az azbeszt-ügyben",
+    "snippet": "A polgármester új intézkedéseket is bejelentett.",
+    "url": "https://www.enyugat.hu/cikk/65136_megerkeztek_a_vizsgalat_eredmenyei_19_soproni_utca_erintett_az_azbeszt_ugyben",
+    "source": "Enyugat",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sat, 16 May 2026 13:34:41 +0000"
+  },
+  {
     "title": "Meghalt Esterházy II. Antal herceg",
     "snippet": "Nyolcvannyolc éves volt.",
     "url": "https://index.hu/kultur/2025/09/22/meghalt-esterhazy-ii-antal-herceg/",
@@ -9,6 +45,15 @@
     "date": "Mon, 22 Sep 2025 16:25:00 +0200"
   },
   {
+    "title": "Ingatlan értékesítés",
+    "snippet": "Ingatlan értékesítés",
+    "url": "https://www.fertod.hu/hu/varosunkrol/ingatlan-ertekesites",
+    "source": "fertod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Centiken múlt, hogy nem ütötte el a vonat a biciklist Fertődnél",
     "snippet": "A lezárt sorompó és a piros jelzés sem tudta megállítani a nőt. The post Centiken múlt, hogy nem ütötte el a vonat a biciklist Fertődnél first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/09/17/vonat-no-piros-lampa-fertod/",
@@ -16,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 17 Sep 2024 10:04:08 +0000"
+  },
+  {
+    "title": "Magyar Péter: Szégyelljék magukat, amiért ilyen helyzetbe hozták az országot!",
+    "snippet": "A miniszterelnök videóban mutatta be, hogyan zajlott a kormányzati átadás-átvétel.",
+    "url": "https://www.enyugat.hu/cikk/magyar_peter_szegyelljek_magukat_",
+    "source": "Enyugat",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Fri, 15 May 2026 09:19:08 +0000"
   },
   {
     "title": "Uniós oltalmat kapott a fertődi sárgarépa",
@@ -36,6 +90,15 @@
     "date": "Thu, 24 Feb 2022 09:17:50 +0000"
   },
   {
+    "title": "Legendás magyar előadókról szól a Sziget minusz egyedik napja",
+    "snippet": "Augusztus 9-én mintegy félszáz hazai előadó és zenekar lép a fesztivál nagyszínpadára, hogy közösen tisztelegjenek Bródy János életműve előtt.",
+    "url": "https://www.enyugat.hu/cikk/65130_legendas_magyar_eloadokrol_szol_a_sziget_minusz_egyedik_napja",
+    "source": "Enyugat",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Thu, 14 May 2026 14:07:41 +0000"
+  },
+  {
     "title": "Nem működik a Telenor hálózata Sopronban, az előfizetők begurultak",
     "snippet": "Reagált a szolgáltató, azt ígérik, délután kettőig helyreáll a teljes kapacitás a rendszerben.",
     "url": "https://index.hu/gazdasag/2021/06/26/halozati-hiba-internet-sopron-telenor/",
@@ -43,15 +106,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 26 Jun 2021 10:58:00 +0200"
-  },
-  {
-    "title": "Ingatlan értékesítés",
-    "snippet": "Ingatlan értékesítés",
-    "url": "https://www.fertod.hu/hu/varosunkrol/ingatlan-ertekesites",
-    "source": "fertod.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Ő volt a legpazarlóbb magyar",

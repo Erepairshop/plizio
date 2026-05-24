@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nach Böschungsbrand bei Trebbin: Sperrung auf Bahnstrecke Berlin-Leipzig aufgehoben",
+    "snippet": "Bei Trebbin in Brandenburg brannte es an einem Bahndamm, die Strecke zwischen Jüterbog und Ludwigsfelde war gesperrt. Es war zu Störungen im Fernverkehr zwischen Berlin und Leipzig gekommen.",
+    "url": "https://www.tagesspiegel.de/berlin/nach-boschungsbrand-bei-trebbin-sperrung-auf-bahnstrecke-berlin-leipzig-aufgehoben-15633859.html",
+    "source": "Tagesspiegel",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 17:56:12 +0200"
+  },
+  {
+    "title": "Passagiere saßen fest: Brand! Bahnstrecke Leipzig – Berlin stundenlang gesperrt",
+    "snippet": "Böschungsbrand an der Bahnstrecke Leipzig – Berlin! Mittags brach im brandenburgischen Trebbin ein Feuer an der Strecke aus.",
+    "url": "https://www.bz-berlin.de/berlin/brand-bahnstrecke-leipzig-berlin-gesperrt",
+    "source": "B.Z. Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 08:37:34 +0200"
+  },
+  {
+    "title": "Passagiere sitzen fest - Brand! Bahnstrecke Leipzig – Berlin gesperrt",
+    "snippet": "Böschungsbrand bei Trebbin legt den Zugverkehr lahm, Reisende sitzen fest.",
+    "url": "https://www.bild.de/news/passagiere-sitzen-fest-brand-bahnstrecke-leipzig-berlin-gesperrt-6a11b81c3b7096456ac80aca",
+    "source": "Bild Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 08:36:15 CEST"
+  },
+  {
     "title": "Probleme von Leipzig nach Berlin: Böschungsbrand verursacht stundenlange Probleme im Fernverkehr",
     "snippet": "Stundenlang kämpfen Feuerwehrleute in Brandenburg gegen einen Brand an der Bahnstrecke Berlin-Leipzig an. Erst am späten Abend wird die Sperrung wieder aufgehoben. Es dauert aber noch etwas, bis der Verkehr wieder ganz wie geplant läuft.",
     "url": "https://www.n-tv.de/panorama/Boeschungsbrand-verursacht-stundenlange-Probleme-im-Fernverkehr-id30853287.html",
@@ -9,31 +36,31 @@
     "date": "Sat, 23 May 2026 23:59:23 +0200"
   },
   {
-    "title": "Passagiere sitzen fest: Brand! Bahnstrecke Leipzig – Berlin gesperrt",
-    "snippet": "Böschungsbrand an der Bahnstrecke Leipzig – Berlin! Mittags brach im brandenburgischen Trebbin ein Feuer an der Strecke aus.",
-    "url": "https://www.bz-berlin.de/berlin/brand-bahnstrecke-leipzig-berlin-gesperrt",
-    "source": "B.Z. Berlin",
+    "title": "Nur für ein paar Tage - Bundesliga-Stadion bekommt neuen Namen",
+    "snippet": "Neuer Name für Leipzigs Red Bull Arena. BILD erklärt, was dahinter steckt.",
+    "url": "https://www.bild.de/sport/fussball/rb-leipzig-was-dahintersteckt-bundesliga-stadion-bekommt-neuen-namen-6a0edcc03b7096456ac7e45b",
+    "source": "Bild Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 18:55:58 +0200"
+    "date": "Sun, 24 May 2026 07:15:45 CEST"
   },
   {
-    "title": "Böschungsbrand bei Trebbin: Sperrung auf Bahnstrecke Berlin-Leipzig – Fernverkehr gestört",
-    "snippet": "Bei Trebbin in Brandenburg brennt es an einem Bahndamm, die Strecke zwischen Jüterbog und Ludwigsfelde ist gesperrt. Der Fernverkehr zwischen Berlin und Leipzig ist gestört.",
-    "url": "https://www.tagesspiegel.de/berlin/boschungsbrand-bei-trebbin-sperrung-auf-bahnstrecke-berlin-leipzig--fernverkehr-gestort-15633859.html",
-    "source": "Tagesspiegel",
+    "title": "Steinzeitliches Augenrollen",
+    "snippet": "In Halle ersteht die Schamanin von Bad Dürrenberg auf – nach 9.000 Jahren",
+    "url": "https://kreuzer-leipzig.de/2026/05/24/leipzig-ausflug-halle-schamanin",
+    "source": "Kreuzer Online",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 17:56:12 +0200"
+    "date": "Sun, 24 May 2026 09:34:00 +0200"
   },
   {
-    "title": "Passagiere sitzen fest - Brand! Bahnstrecke Leipzig – Berlin gesperrt",
-    "snippet": "Böschungsbrand bei Trebbin legt den Zugverkehr lahm, Reisende sitzen fest.",
-    "url": "https://www.bild.de/news/passagiere-sitzen-fest-brand-bahnstrecke-leipzig-berlin-gesperrt-6a11b81c3b7096456ac80aca",
-    "source": "Bild Berlin",
+    "title": "ZFC Meuselwitz verbessert, aber ohne Ertrag Thüringenpokal-Finale Carl Zeiss Jena",
+    "snippet": "Die Meuselwitzer haben das Finale des Thüringenpokals bei Carl Zeiss Jena trotz eines respektablem Auftritts 0:1 verloren. Neben warmen Worten gibt es für den ZFC hinterher auch einiges an Einnahmen.",
+    "url": "https://www.lvz.de/sport/regional/thueringenpokal-gegen-jena-zfc-meuselwitz-verbessert-aber-ohne-ertrag-OGJHDLMVYNG65CDRGBFZUX2WDU.html",
+    "source": "LVZ",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 21:43:20 CEST"
+    "date": "Sun, 24 May 2026 09:35:44 +0200"
   },
   {
     "title": "WGT 2026 Leipzig: Alle Infos und Bilder zum Wave-Gotik-Treffen",
@@ -42,70 +69,16 @@
     "source": "MDR Sachsen Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 16:35:33 +0200"
+    "date": "Sun, 24 May 2026 08:19:57 +0200"
   },
   {
-    "title": "Fine Dining bodenständig",
-    "snippet": "Das Bistro Baerbel bietet unkompliziertes Abendessen auf hohem Niveau. Und dazu besondere Weine",
-    "url": "https://kreuzer-leipzig.de/2026/05/23/leipzig-restaurant-bistro-baerbel",
-    "source": "Kreuzer Online",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:00:00 +0200"
-  },
-  {
-    "title": "Marathon-Star Amanal Petros im Interview: Das träumt Deutschlands Leichtathletik-Hoffnung nachts",
-    "snippet": "Amanal Petros läuft für Hannover 96 und ist so etwas wie das Wunderkind des deutschen Laufsports. Beim London Marathon aber knackten andere die magische Zwei-Stunden-Marke, während er auf Platz 15 ins Ziel lief. Im Interview spricht er darüber, wie man richtig verliert, wie er mit den Erwartungen an",
-    "url": "https://www.lvz.de/sport/marathon-star-amanal-petros-im-interview-das-traeumt-deutschlands-leichtathletik-hoffnung-nachts-PH4Z2CFQABA2ZN4ZZMPHGWM4YA.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 06:03:00 +0200"
-  },
-  {
-    "title": "Camp-Haustier, Team-Besuche, Fitness - DFB-Star Raum verrät, was Kimmich zur WM plant",
-    "snippet": "Er vertritt RB Leipzig im DFB-Team! In BILD verrät David Raum seinen WM-Plan.",
-    "url": "https://www.bild.de/sport/fussball/dfb-spielerfrauen-haustier-fitness-leipzig-kapitaen-david-raum-ueber-seinen-wm-plan-6a103cbdab04a3614e21ff8a",
-    "source": "Bild Leipzig",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 24 May 2026 05:28:03 CEST"
-  },
-  {
-    "title": "Jetzt bewerben: Sozialministerium vergibt „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
-    "snippet": "Noch bis zum 13. Juli 2026 können sich Bildungseinrichtungen, Vereine, Netzwerke sowie zivilgesellschaftliche Initiativen in Sachsen, die mit innovativen didaktischen Konzepten zur Stärkung demokratischer Kompetenzen beitragen, um den „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
-    "url": "https://www.l-iz.de/politik/sachsen/2026/05/jetzt-bewerben-sozialministerium-peter-henkenborg-preis-didaktik-politische-bildung-658192",
+    "title": "Energieministerkonferenz 2026: Sachsen setzt sich für einen verbindlichen Energiewendefahrplan ein",
+    "snippet": "Vom 20. bis 22. Mai 2026 hat die Energieministerkonferenz (EnMK) der Länder unter niedersächsischem Vorsitz auf Norderney getagt und ist am Freitag geendet. Das Sächsische Staatsministerium für Wirtschaft, Arbeit, Energie und Klimaschutz (SMWA) brachte drei zentrale Beschlussvorschläge ein: zur Einr",
+    "url": "https://www.l-iz.de/politik/sachsen/2026/05/energieministerkonferenz-2026-sachsen-verbindlicher-energiewendefahrplan-658196",
     "source": "Leipziger Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 02:57:00 +0000"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.saechsische.de/politik/regional/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Saechsische Zeitung",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.neuepresse.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Neue Presse Hannover",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.kn-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Kieler Nachrichten",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
+    "date": "Sun, 24 May 2026 06:03:00 +0000"
   },
   {
     "title": "33. Wave-Gotik-Treffen in Leipzig – Die Bilder vom Samstag",
@@ -117,87 +90,6 @@
     "date": "Sat, 23 May 2026 22:47:00 +0200"
   },
   {
-    "title": "33. Wave-Gotik-Treffen in Leipzig – Die Bilder vom Samstag",
-    "snippet": "",
-    "url": "https://www.tlz.de/panorama/article412080795/33-wave-gotik-treffen-in-leipzig-die-bilder-vom-samstag.html",
-    "source": "Thüringische Landeszeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 22:47:00 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.maz-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Maerkische Allgemeine",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "33. Wave-Gotik-Treffen in Leipzig – Die Bilder vom Samstag",
-    "snippet": "",
-    "url": "https://www.otz.de/panorama/article412080795/33-wave-gotik-treffen-in-leipzig-die-bilder-vom-samstag.html",
-    "source": "OTZ",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 22:47:00 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.haz.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Hannoversche Allgemeine Zeitung (Garbsen)",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.ostsee-zeitung.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Ostsee-Zeitung (Greifswald)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.paz-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Peiner Allgemeine Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.waz-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Wolfsburger Allgemeine (WAZ)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.ln-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Lübecker Nachrichten",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.szlz.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Schaumburger Zeitung (SZ-LZ)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
     "title": "Wave-Gotik-Treffen Leipzig: Auftakt mit Viktorianischem Picknick",
     "snippet": "Mit dem Viktorianischen Picknick im Clara‑Zetkin‑Park hat sich die schwarze Szene am Freitag auf das Wave‑Gotik‑Treffen 2026 in Leipzig eingestimmt. Klicken Sie sich durch unsere Bilder.",
     "url": "https://www.insuedthueringen.de/inhalt.wave-gotik-treffen-leipzig-auftakt-mit-viktorianischem-picknick.02032641-61dc-4393-b239-ca0594012e3f.html",
@@ -207,40 +99,22 @@
     "date": "Sat, 23 May 2026 08:13:55 GMT"
   },
   {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.sn-online.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Schaumburger Nachrichten",
+    "title": "Camp-Haustier, Team-Besuche, Fitness - DFB-Star Raum verrät, was Kimmich zur WM plant",
+    "snippet": "Er vertritt RB Leipzig im DFB-Team! In BILD verrät David Raum seinen WM-Plan.",
+    "url": "https://www.bild.de/sport/fussball/dfb-spielerfrauen-haustier-fitness-leipzig-kapitaen-david-raum-ueber-seinen-wm-plan-6a103cbdab04a3614e21ff8a",
+    "source": "Bild Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
+    "date": "Sun, 24 May 2026 05:28:03 CEST"
   },
   {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.op-marburg.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Oberhessische Presse",
+    "title": "„Bares für Rares“ heute (24.5.2026): Aktuelle Sendetermine und Livestream",
+    "snippet": "Einst als Sonntagsunterhaltung gestartet, läuft die Trödelshow „Bares für Rares“ mit Horst Lichter mittlerweile nahezu täglich im Free-TV. Hier informieren wir über die aktuelle Folge und beantworten die wichtigsten Fragen zur Sendung.",
+    "url": "https://www.lvz.de/medien/bares-fuer-rares-heute-24-5-2026-aktuelle-sendetermine-und-livestream-PFFEXYNZN2KGYMQB5R5QIR6ZVE.html",
+    "source": "LVZ",
     "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Carmen Zanders Tiger im Gewerbegebiet bei Leipzig: Wohin mit wilden Tieren, wenn der Zirkus stirbt?",
-    "snippet": "In der Manege treten sie kaum noch auf, aber einfach weg sind sie deswegen nicht: Tiger, Elefanten, Löwen, einst trainiert auf „Hopp“ und Tusch. Wo sollen wilde Tiere hin, die nicht mehr gefragt sind?",
-    "url": "https://www.siegener-zeitung.de/panorama/carmen-zanders-tiger-im-gewerbegebiet-bei-leipzig-wohin-mit-wilden-tieren-wenn-der-zirkus-stirbt-4R7PIFTDLFD2VAW7ZH5BNBZSZA.html",
-    "source": "Siegener Zeitung",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 20:19:07 +0200"
-  },
-  {
-    "title": "Verspätungen und Ausfälle: Feuer legt Bahnstrecke zwischen Berlin und Leipzig lahm",
-    "snippet": "In Brandenburg gerät eine Wiese entlang einer Bahnstrecke in Brand. Das Feuer droht auf einen angrenzenden Wald überzugreifen. Die Deutsche Bahn muss Züge stoppen und umleiten.",
-    "url": "https://www.n-tv.de/panorama/Feuer-legt-Bahnstrecke-zwischen-Berlin-und-Leipzig-lahm-id30852861.html",
-    "source": "n-tv.de",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sat, 23 May 2026 17:32:37 +0200"
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:32:33 +0200"
   },
   {
     "title": "Böschungsbrand: Fernverkehr von Berlin nach Leipzig, Halle und Erfurt betroffen",
@@ -252,21 +126,147 @@
     "date": "Sun, 24 May 2026 01:16:45 +0200"
   },
   {
-    "title": "Mehr als Unkrautzupfen: Wie Gärtnern gegen chronische Schmerzen hilft",
-    "snippet": "Körperliche Arbeit im Grünen kann bei Knie- und Rückenproblemen helfen, weil sie den gesamten Bewegungsapparat aktiviert. Dies beschreibt Orthopäde Arne-Björn Jäger mit seinem Konzept des „Orthopädischen Gärtnerns”. Und auch, dass Hecke schneiden und Rasen mähen die Psyche wohltuend beeinflussen.",
-    "url": "https://www.lvz.de/bauen-und-wohnen/mehr-als-unkrautzupfen-wie-gaertnern-gegen-chronische-schmerzen-hilft-BXBFZPKWP5EZDKC354RBO2ON5Y.html",
-    "source": "LVZ",
+    "title": "Jetzt bewerben: Sozialministerium vergibt „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
+    "snippet": "Noch bis zum 13. Juli 2026 können sich Bildungseinrichtungen, Vereine, Netzwerke sowie zivilgesellschaftliche Initiativen in Sachsen, die mit innovativen didaktischen Konzepten zur Stärkung demokratischer Kompetenzen beitragen, um den „Peter-Henkenborg-Preis für die Didaktik der politischen Bildung“",
+    "url": "https://www.l-iz.de/politik/sachsen/2026/05/jetzt-bewerben-sozialministerium-peter-henkenborg-preis-didaktik-politische-bildung-658192",
+    "source": "Leipziger Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 06:00:01 +0200"
+    "date": "Sun, 24 May 2026 02:57:00 +0000"
   },
   {
-    "title": "Nur für ein paar Tage - Bundesliga-Stadion bekommt neuen Namen",
-    "snippet": "Neuer Name für Leipzigs Red Bull Arena. BILD erklärt, was dahinter steckt.",
-    "url": "https://www.bild.de/sport/fussball/rb-leipzig-was-dahintersteckt-bundesliga-stadion-bekommt-neuen-namen-6a0edcc03b7096456ac7e45b",
+    "title": "WGT-Auftakt in Leipzig mit Viktorianischem Picknick im Clara-Zetkin-Park",
+    "snippet": "Ein Highlight des WGT 2026 in Leipzig ist das Viktorianische Picknick im Clara-Zetkin-Park – der stilvolle Auftakt der schwarzen Szene. Hier gibt es die Bilder.",
+    "url": "https://www.thueringer-allgemeine.de/panorama/article412077353/wgt-auftakt-in-leipzig-mit-viktorianischem-picknick-im-clara-zetkin-park.html",
+    "source": "Thüringer Allgemeine",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 10:08:36 +0200"
+  },
+  {
+    "title": "Massenschlägerei in Sachsen - Hier prügeln sich Anwohner mit Schaufeln und Felgen",
+    "snippet": "Mockrehna (Sachsen) – In Mockrehna kommt es am Freitagabend zu einer heftigen Massenschlägerei. Rund 40 Menschen gehen dort mit Fäus...",
+    "url": "https://www.bild.de/news/inland/massenschlaegerei-in-sachsen-hier-pruegeln-sich-anwohner-mit-schaufeln-und-felgen-6a1156da3b7096456ac80528",
     "source": "Bild Leipzig",
     "lang": "de",
     "scope": "city",
-    "date": "Sun, 24 May 2026 05:20:02 CEST"
+    "date": "Sat, 23 May 2026 09:54:56 CEST"
+  },
+  {
+    "title": "Was koche ich heute? Rezepte für den Feierabend (Sonntag, 24. Mai 2026)",
+    "snippet": "Lecker, gesund, einfach: Die alltägliche Suche nach einem passenden Rezept gestaltet sich oft schwer und raubt kostbare Zeit. Damit Sie Ihren Feierabend möglichst lang genießen können, nehmen wir Ihnen die Entscheidung ab – anbei finden Sie unser täglich wechselndes Rezept des Tages. Guten Appetit!",
+    "url": "https://www.lvz.de/lifestyle/was-koche-ich-heute-rezepte-fuer-den-feierabend-sonntag-24-mai-2026-BXLGXXARURGITHNZDYXZBWN464.html",
+    "source": "LVZ",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:30:22 +0200"
+  },
+  {
+    "title": "Fäuste, Schaufeln, Baseballschläger: Massenschlägerei in Mockrehna in Nordsachsen",
+    "snippet": "Mockrehna ist ein kleiner, beschaulicher Ort in Nordsachsen. Doch am Freitagabend müssen auf einmal Polizisten aus ganz Sachsen anrücken. Grund ist eine Massenschlägerei. Sieben Menschen wurden verletzt.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/delitzsch-eilenburg-torgau/massenschlaegerei-mockrehna-gewalt-polizei-festnahme-100.html",
+    "source": "MDR Sachsen Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 21:15:09 +0200"
+  },
+  {
+    "title": "Verkehrsforum im Rathaus Markkleeberg",
+    "snippet": "Unter dem Motto „QUO VADIS Markkleebergs Verkehr“ findet am Donnerstag, 28. Mai 2026, das dritte Verkehrsforum im Großen Lindensaal statt. Gastgeber sind der BürgerVerein Markkleeberg e.V. und die Stadt Markkleeberg. Los geht`s um 18 Uhr. Vor einem Jahr hatte der BürgerVerein Markkleeberg zum ersten",
+    "url": "https://www.l-iz.de/melder/wortmelder/2026/05/verkehrsforum-im-rathaus-markkleeberg-658200",
+    "source": "Leipziger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 12:52:59 +0000"
+  },
+  {
+    "title": "UEFA Conference League Finale: Lidl bringt den Frische-Kick nach Leipzig / Drei Tage volles Programm und Fan-Highlights im \"Frische Stadion\"",
+    "snippet": "Lidl: Bad Wimpfen (ots) - Im Vorfeld des Finales der UEFA Conference League in Leipzig begeistert Lidl die Fans mit zahlreichen Aktionen abseits des Rasens. Als Offizieller Partner der UEFA Conference League und neunfacher Gewinner des Retail Awards im ...",
+    "url": "https://www.presseportal.de/pm/58227/6280095",
+    "source": "Presseportal Topic-panorama",
+    "lang": "de",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 12:00:12 +0200"
+  },
+  {
+    "title": "Bierbörse Leipzig 2026 an Pfingsten: Vier Tage Braukunst aus aller Welt am Völkerschlachtdenkmal",
+    "snippet": "Vom 22. bis 25. Mai verwandelt sich das Areal am Völkerschlachtdenkmal in einen Hotspot für Bierfreunde. 500 Sorten warten, und viele Neuerungen",
+    "url": "https://www.berliner-zeitung.de/article/bierboerse-leipzig-2026-an-pfingsten-vier-tage-braukunst-aus-aller-welt-am-voelkerschlachtdenkmal-10037587",
+    "source": "Berliner Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 13:59:37 GMT"
+  },
+  {
+    "title": "Nach 17 Jahren - RB Leipzig schmeißt Zeugwart-Pärchen raus",
+    "snippet": "Champions League erreicht, aber dennoch dreht RB Leipzig jetzt jeden Stein um!",
+    "url": "https://www.bild.de/sport/fussball/bundesliga-nach-13-jahren-rb-leipzig-schmeisst-zeugwart-paerchen-raus-6a1050d03b7096456ac7fc68",
+    "source": "Bild Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 04:47:36 CEST"
+  },
+  {
+    "title": "Fine Dining bodenständig",
+    "snippet": "Das Bistro Baerbel bietet unkompliziertes Abendessen auf hohem Niveau. Und dazu besondere Weine",
+    "url": "https://kreuzer-leipzig.de/2026/05/23/leipzig-restaurant-bistro-baerbel",
+    "source": "Kreuzer Online",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 09:00:00 +0200"
+  },
+  {
+    "title": "Bierbörse in Leipzig: Festival zwischen Vielfalt und sinkendem Alkoholkonsum",
+    "snippet": "Die Leipziger Bierbörse 2026 ist gestartet: Über Pfingsten locken 500 Biersorten am Völkerschlachtdenkmal. Bestes Genusswetter ist ebenfalls vorhergesagt. Der Eintritt ist frei.",
+    "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/bier-fest-veranstaltung-pfingsten-100.html",
+    "source": "MDR Sachsen Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 07:00:00 +0200"
+  },
+  {
+    "title": "Leipziger Amtsblatt 10/2026",
+    "snippet": "Themen dieser Ausgabe (Auszug): Leipzig feiert den europäischen Fußball; Stadthafen wird eröffnet; Mobile Großbrunnen für die Stadt; „Tacheles“: Jüdische Kultur erleben; Feuerwehr-Bilanz 2025 „Weit mehr als Brandbekämpfung“; Fünf Vorbild-Projekte mit Zukunftspreis ausgezeichnet; Leipzig baut Förders",
+    "url": "https://www.leipzig.de/newsarchiv/news/leipziger-amtsblatt-10-2026",
+    "source": "leipzig.de (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 00:05:00 +0200"
+  },
+  {
+    "title": "Gastkommentar von Christian Wolff: Der Geist des Grundgesetzes – durchaus ein heiliger!",
+    "snippet": "Er fällt in diesem Jahr auf den Vorabend des Pfingstfestes: der Verfassungstag. Am 23. Mai 1949 wurde das Grundgesetz der Bundesrepublik Deutschland vom Parlamentarischen Rat erlassen. Seit dem 3. Oktober 1990 ist das Grundgesetz die Verfassung des vereinten Deutschlands. Mehr als ein Grund, dies ge",
+    "url": "https://www.l-iz.de/leben/gesellschaft/2026/05/gastkommentar-von-christian-wolff-der-geist-des-grundgesetzes-durchaus-ein-heiliger-657983",
+    "source": "Leipziger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 05:59:00 +0000"
+  },
+  {
+    "title": "Leipzig gewinnt den Fußball-Cup der mitteldeutschen Berufsfeuerwehren in Halle",
+    "snippet": "Am heutigen Freitag hat sich der Fußballplatz in der Nordstraße 66 in Halle (Saale) / ehemalige Kaserne Lettin in die exklusive Arena des Mitteldeutschen Berufsfeuerwehr-Pokals. Zum ersten Mal in der Geschichte dieses prestigeträchtigen Turniers",
+    "url": "https://dubisthalle.de/fussball-cup-der-mitteldeutschen-berufsfeuerwehren-am-freitag-in-halle2/",
+    "source": "Du bist Halle",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 15:41:00 +0000"
+  },
+  {
+    "title": "Theater in Dresden, Leipzig & Chemnitz: 7 sehenswerte Stücke im Juni 2026",
+    "snippet": "Diesen Juni zeigen die Theater in Sachsen tolle Stücke. Unsere Tipps: In Chemnitz trifft sich Theater aus aller Welt, in Leipzig gibt es ein kluges Solo-Stück und in Dresden Horror-Schauspiel und Zirkustheater.",
+    "url": "https://www.mdr.de/kultur/theater/sachsen-chemnitz-dresden-leipzig-theater-juni-100.html",
+    "source": "MDR Sachsen Chemnitz",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 17:18:46 +0200"
+  },
+  {
+    "title": "Er hatte 218.000 Follower - Instagram-Account von DFB-Star plötzlich gelöscht",
+    "snippet": "Rätselraten um DFB-Star Benjamin Henrichs nach seiner verpassten WM-Nominierung.",
+    "url": "https://www.bild.de/sport/fussball/nationalelf-er-hatte-218-000-follower-instagram-profil-von-henrichs-geloescht-6a10255ff0f7eb608db7a5bd",
+    "source": "Bild Leipzig",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 18:04:17 CEST"
   }
 ]

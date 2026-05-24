@@ -1,5 +1,32 @@
 [
   {
+    "title": "Rövid hála sokszor a hosszú életért",
+    "snippet": "Az idén kilencven éves tabajdi hölgy, Kiss Bálintné Kun Irma története.",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/kilenc-evtized-tortenete-kiss-balintne-kun-irma?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "feol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 08:00:00 +0000"
+  },
+  {
+    "title": "Szedd magad eper Fejér megyében: 1000 forintért már vehetsz egy kilóval",
+    "snippet": "A szedd magad eper idén is sokakat vonz Fejér megyében, mutatjuk az árakat és tippeket.",
+    "url": "https://www.feol.hu/helyi-kozelet/2026/05/szedd-magad-eper-hazi-lekvar-idojaras-fejer-megye?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "feol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:20:00 +0000"
+  },
+  {
+    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
+    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
+    "url": "https://www.feol.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "feol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 06:41:20 +0000"
+  },
+  {
     "title": "Nagy Ervin bejelentette, hogy meghosszabbították a Dunaferr szerződését, biztosítják a dolgozók megélhetését",
     "snippet": "A kormány rendkívüli ülésen tárgyalta a vasmű helyzetét.",
     "url": "https://index.hu/gazdasag/2026/05/19/nagy-ervin-tisza-part-dunaujvaros-dunaferr-dolgozok-megelhetes/",
@@ -7,15 +34,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 19 May 2026 06:08:00 +0200"
-  },
-  {
-    "title": "Választási csalás gyanúja miatt bilincsben vittek el egy férfit Dunaújvárosban",
-    "snippet": "Megtörtént az első letartóztatás azt követően, hogy Nagy Ervin, a Tisza parlamenti képviselője a választási kampány során feljelentést tett választási csalás miatt. The post Választási csalás gyanúja miatt bilincsben vittek el egy férfit Dunaújvárosban first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/05/06/valasztasi-csalas-letartoztatas-nagy-ervin-feljelentes/",
-    "source": "24.hu/Dunaújváros",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 06 May 2026 15:03:42 +0000"
   },
   {
     "title": "Beérett Nagy Ervin feljelentése, bilincsben vitték el a választási csalással gyanúsított férfit",
@@ -27,24 +45,6 @@
     "date": "Wed, 06 May 2026 17:38:00 +0200"
   },
   {
-    "title": "Női kézilabda: kiesett a Dunaújváros és a Kozármisleny",
-    "snippet": "Öt fordulóval a bajnokság vége előtt. The post Női kézilabda: kiesett a Dunaújváros és a Kozármisleny first appeared on 24.hu .",
-    "url": "https://24.hu/sport/2026/04/18/noi-kezilabda-kiesett-a-dunaujvaros-es-a-kozarmisleny/",
-    "source": "24.hu/Kozármisleny",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 18 Apr 2026 18:57:03 +0000"
-  },
-  {
-    "title": "Döntött a kormány, Dunaújváros sokmilliárdos adóbevételtől esik el",
-    "snippet": "Új, különleges gazdasági övezetet hoztak létre „Duna mente Fejér megye” néven.",
-    "url": "https://index.hu/gazdasag/2021/06/29/kulonleges-gazdasagi-ovezet-duna-mente-fejer-megye-dontes-dunaujvatos-adobevetel/",
-    "source": "index.hu/Pusztaszabolcs",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 29 Jun 2021 08:55:00 +0200"
-  },
-  {
     "title": "„Dunaújváros Ifjúságáért” díjazottak",
     "snippet": "„Dunaújváros Ifjúságáért” díjazottak A csütörtöki közgyűlés elején Pintér Tamás polgármester és Barta Endre humán alpolgármester ünnepélyes keretek között adták át az idei „Dunaújváros Ifjúságáért” díjakat, amelyekkel a város közössége minden évben az ifjúságnevelés és gyermekvédelem területén végze",
     "url": "https://dunaujvaros.hu/hir/39017",
@@ -52,6 +52,24 @@
     "lang": "hu",
     "scope": "city",
     "date": "2026-05-21"
+  },
+  {
+    "title": "Választási csalás gyanúja miatt bilincsben vittek el egy férfit Dunaújvárosban",
+    "snippet": "Megtörtént az első letartóztatás azt követően, hogy Nagy Ervin, a Tisza parlamenti képviselője a választási kampány során feljelentést tett választási csalás miatt. The post Választási csalás gyanúja miatt bilincsben vittek el egy férfit Dunaújvárosban first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/05/06/valasztasi-csalas-letartoztatas-nagy-ervin-feljelentes/",
+    "source": "24.hu/Dunaújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 May 2026 15:03:42 +0000"
+  },
+  {
+    "title": "Női kézilabda: kiesett a Dunaújváros és a Kozármisleny",
+    "snippet": "Öt fordulóval a bajnokság vége előtt. The post Női kézilabda: kiesett a Dunaújváros és a Kozármisleny first appeared on 24.hu .",
+    "url": "https://24.hu/sport/2026/04/18/noi-kezilabda-kiesett-a-dunaujvaros-es-a-kozarmisleny/",
+    "source": "24.hu/Kozármisleny",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 18 Apr 2026 18:57:03 +0000"
   },
   {
     "title": "Felsővezeték-hiba miatt leálltak a vonatok Pusztaszabolcs és Dunaújváros között",
@@ -63,13 +81,13 @@
     "date": "Tue, 26 Nov 2024 15:42:06 +0000"
   },
   {
-    "title": "Dunaújvárosi gyűlésén Orbán egy szót sem vesztegetett a Dunaferre, a helyi lapnak adta elő, szerinte miért dőlt be a vállalat",
-    "snippet": "Az államnak szerinte semmi felelőssége nincs a vállalat bedöntésében. The post Dunaújvárosi gyűlésén Orbán egy szót sem vesztegetett a Dunaferre, a helyi lapnak adta elő, szerinte miért dőlt be a vállalat first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/19/orban-dunaferr-bedoles/",
-    "source": "24.hu/Dunaújváros",
+    "title": "Döntött a kormány, Dunaújváros sokmilliárdos adóbevételtől esik el",
+    "snippet": "Új, különleges gazdasági övezetet hoztak létre „Duna mente Fejér megye” néven.",
+    "url": "https://index.hu/gazdasag/2021/06/29/kulonleges-gazdasagi-ovezet-duna-mente-fejer-megye-dontes-dunaujvatos-adobevetel/",
+    "source": "index.hu/Pusztaszabolcs",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 19 Mar 2026 09:44:21 +0000"
+    "date": "Tue, 29 Jun 2021 08:55:00 +0200"
   },
   {
     "title": "Körülbelül nyolchektáros területen ég a vegetáció Dunaújváros határában",
@@ -81,13 +99,13 @@
     "date": "Mon, 04 May 2026 17:07:00 +0200"
   },
   {
-    "title": "Magyar Péter: Orbán patyomkin színháza leomlott, miután buszoztatott honfitársaink bevallották, hogy a Fidesz fizeti őket",
-    "snippet": "Dunaújvárosban a Fidesz szimpatizánsai bevallották, hogy a kormánypárt fizette utazásukat Székesfehérvárról. The post Magyar Péter: Orbán patyomkin színháza leomlott, miután buszoztatott honfitársaink bevallották, hogy a Fidesz fizeti őket first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/03/19/magyar-peter-orban-viktor-fidesz-travel/",
+    "title": "Dunaújvárosi gyűlésén Orbán egy szót sem vesztegetett a Dunaferre, a helyi lapnak adta elő, szerinte miért dőlt be a vállalat",
+    "snippet": "Az államnak szerinte semmi felelőssége nincs a vállalat bedöntésében. The post Dunaújvárosi gyűlésén Orbán egy szót sem vesztegetett a Dunaferre, a helyi lapnak adta elő, szerinte miért dőlt be a vállalat first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/19/orban-dunaferr-bedoles/",
     "source": "24.hu/Dunaújváros",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 19 Mar 2026 07:44:33 +0000"
+    "date": "Thu, 19 Mar 2026 09:44:21 +0000"
   },
   {
     "title": "Nagy Ervin feljelentést tett lehetséges választási csalás miatt",
@@ -97,6 +115,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 09 Apr 2026 10:37:00 +0200"
+  },
+  {
+    "title": "Magyar Péter: Orbán patyomkin színháza leomlott, miután buszoztatott honfitársaink bevallották, hogy a Fidesz fizeti őket",
+    "snippet": "Dunaújvárosban a Fidesz szimpatizánsai bevallották, hogy a kormánypárt fizette utazásukat Székesfehérvárról. The post Magyar Péter: Orbán patyomkin színháza leomlott, miután buszoztatott honfitársaink bevallották, hogy a Fidesz fizeti őket first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/03/19/magyar-peter-orban-viktor-fidesz-travel/",
+    "source": "24.hu/Dunaújváros",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 19 Mar 2026 07:44:33 +0000"
   },
   {
     "title": "Módosul az ügyfélfogadás rendje a Kihívás Napja miatt",

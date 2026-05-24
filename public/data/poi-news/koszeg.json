@@ -1,5 +1,32 @@
 [
   {
+    "title": "Gencsi pünkösd: veterán autók és Lord-koncert robbantotta be az ünnepet - sok-sok fotó",
+    "snippet": "Százával érkeztek a veterán járművek, sportprogramok és koncertek mozgatták meg a közönséget.",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/gencsi-punkosd-veteran-autok-lord-koncert-kepgaleriak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:27:23 +0000"
+  },
+  {
+    "title": "Újabb vasi településen nyílik értéktár – nem is akárhogy!",
+    "snippet": "A közösség összefogott: a polgármester ingatlant ajánlott fel, a vasszentmihályiak pedig emlékeiket.",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/vasszentmihaly-ertektara-augusztus-vegen-nyilik-meg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:03:14 +0000"
+  },
+  {
+    "title": "Tízezer menyhallal erősítették a Rába halállományát",
+    "snippet": "Összesen tízezer előnevelt menyhal került a folyóba.",
+    "url": "https://www.vaol.hu/helyi-kozelet/2026/05/haltelepites-tizezer-menyhal-raba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "vaol.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:18 +0000"
+  },
+  {
     "title": "„Ez már büntetőjogi kategória” – riport az azbesztszennyezéssel érintett településekről",
     "snippet": "Ausztriai bányákból származó, azbesztet tartalmazó kőzet okozta azt problémahalmazt, amelynek a megoldása Magyar Péter szerint akár több tíz milliárd forintba is kerülhet. Ellátogattunk néhány érintett településre, ahol az ott élőket kérdeztük a helyzetről. The post „Ez már büntetőjogi kategória” – ",
     "url": "https://24.hu/belfold/2026/05/22/azbesztszennyezes-nyugat-magyarorszag-riport/",
@@ -7,15 +34,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 13:10:33 +0000"
-  },
-  {
-    "title": "Újabb helyszíneken mutattak ki azbesztszennyezést Kőszegen",
-    "snippet": "A rohonci bánya is érintett lehet.",
-    "url": "https://index.hu/belfold/2026/05/20/azbeszt-azbesztszennyezes-koszeg-meres-vas-varmegye/",
-    "source": "index.hu/Kőszeg",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 09:41:00 +0200"
   },
   {
     "title": "Bölcsőde, óvoda, gyermekotthon és játszótér közelébe is jutott az azbeszttel szennyezett kövekből",
@@ -27,13 +45,22 @@
     "date": "Wed, 20 May 2026 08:15:53 +0000"
   },
   {
-    "title": "Újabb település lehet érintett az azbesztszennyezésben, a hivatalban már maszkokat osztanak",
-    "snippet": "A szennyezés miatt Szombathelyen rendkívüli intézkedéseket vezettek be.",
-    "url": "https://index.hu/belfold/2026/04/24/koszeg-azbeszt-szennyezes-ausztria-vas-varmegye-lezaras-sebessegkorlatozas/",
+    "title": "Két év múlva elkészülhet Kőszeg intermodális csomópontja",
+    "snippet": "Két év múlva elkészülhet Kőszeg intermodális csomópontja",
+    "url": "https://magyarepitok.hu/mi-epul/2026/05/ket-ev-mulva-elkeszulhet-koszeg-intermodalis-csomopontja",
+    "source": "magyarepitok.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
+    "title": "Újabb helyszíneken mutattak ki azbesztszennyezést Kőszegen",
+    "snippet": "A rohonci bánya is érintett lehet.",
+    "url": "https://index.hu/belfold/2026/05/20/azbeszt-azbesztszennyezes-koszeg-meres-vas-varmegye/",
     "source": "index.hu/Kőszeg",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 24 Apr 2026 17:26:00 +0200"
+    "date": "Wed, 20 May 2026 09:41:00 +0200"
   },
   {
     "title": "Azbesztveszély Vas megyében: akár 40 település közterületei is szennyezettek lehetnek",
@@ -45,13 +72,13 @@
     "date": "Fri, 08 May 2026 19:42:47 +0000"
   },
   {
-    "title": "Két év múlva elkészülhet Kőszeg intermodális csomópontja",
-    "snippet": "Két év múlva elkészülhet Kőszeg intermodális csomópontja",
-    "url": "https://magyarepitok.hu/mi-epul/2026/05/ket-ev-mulva-elkeszulhet-koszeg-intermodalis-csomopontja",
-    "source": "magyarepitok.hu (hivatalos)",
+    "title": "Újabb település lehet érintett az azbesztszennyezésben, a hivatalban már maszkokat osztanak",
+    "snippet": "A szennyezés miatt Szombathelyen rendkívüli intézkedéseket vezettek be.",
+    "url": "https://index.hu/belfold/2026/04/24/koszeg-azbeszt-szennyezes-ausztria-vas-varmegye-lezaras-sebessegkorlatozas/",
+    "source": "index.hu/Kőszeg",
     "lang": "hu",
     "scope": "city",
-    "date": ""
+    "date": "Fri, 24 Apr 2026 17:26:00 +0200"
   },
   {
     "title": "Eltűnt egy sátoraljaújhelyi férfi a budapesti Guns N' Roses koncertről",
@@ -63,15 +90,6 @@
     "date": "Tue, 25 Jul 2023 14:11:00 +0200"
   },
   {
-    "title": "Rezsivédelem, aszály, tanuszoda – megjelent a Magyar Közlöny",
-    "snippet": "Milliárdokat mozgatnak meg.",
-    "url": "https://index.hu/belfold/2026/04/10/magyar-kozlony-rezsivedelem-aszalyvedelem-operativ-torzs/",
-    "source": "index.hu/Kőszeg",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 10 Apr 2026 07:27:00 +0200"
-  },
-  {
     "title": "Újabb magyar városban erős az azbesztszennyezés gyanúja, maszkokat biztosítanak a helyi lakosoknak",
     "snippet": "A szennyezés nem csak Szombathelyt és Bozsokot érinti. The post Újabb magyar városban erős az azbesztszennyezés gyanúja, maszkokat biztosítanak a helyi lakosoknak first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/24/azbesztszennyezes-gyanu-koszeg/",
@@ -81,13 +99,13 @@
     "date": "Fri, 24 Apr 2026 12:29:16 +0000"
   },
   {
-    "title": "A hó eltakarítása helyett disznóvágásra használták a városgondnokság munkagépét Kőszegen",
-    "snippet": "A városüzemeltetésért felelős cég egyelőre nem kommentálta a történteket.",
-    "url": "https://index.hu/belfold/2026/02/24/koszeg-ho-munkagep-disznovagas/",
+    "title": "Rezsivédelem, aszály, tanuszoda – megjelent a Magyar Közlöny",
+    "snippet": "Milliárdokat mozgatnak meg.",
+    "url": "https://index.hu/belfold/2026/04/10/magyar-kozlony-rezsivedelem-aszalyvedelem-operativ-torzs/",
     "source": "index.hu/Kőszeg",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 24 Feb 2026 17:34:00 +0100"
+    "date": "Fri, 10 Apr 2026 07:27:00 +0200"
   },
   {
     "title": "Honfoglalás kori sírokat tártak fel Kőszegen",
@@ -97,6 +115,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 17 Apr 2026 02:10:30 +0000"
+  },
+  {
+    "title": "A hó eltakarítása helyett disznóvágásra használták a városgondnokság munkagépét Kőszegen",
+    "snippet": "A városüzemeltetésért felelős cég egyelőre nem kommentálta a történteket.",
+    "url": "https://index.hu/belfold/2026/02/24/koszeg-ho-munkagep-disznovagas/",
+    "source": "index.hu/Kőszeg",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 24 Feb 2026 17:34:00 +0100"
   },
   {
     "title": "Vármegyei II.: bajnok lett a Kőszeg! (képgaléria)",

@@ -27,15 +27,6 @@
     "date": "Sat, 23 May 2026 12:09:56 +0200"
   },
   {
-    "title": "Giftige Rauchwolke über Nürnberg: Sporthalle geht in Flammen auf",
-    "snippet": "Nach dem Großbrand einer Nürnberger Schulsporthalle am Freitagabend (22. Mai) sind die Löscharbeiten weitgehend abgeschlossen. Das Dach stürzte ein, rund 200 Einsatzkräfte waren vor Ort. Wegen giftigem Rauch wurde die Bevölkerung gewarnt.",
-    "url": "https://www.rosenheim24.de/bayern/giftige-rauchwolke-ueber-nuernberg-sporthalle-geht-in-flammen-auf-94319826.html",
-    "source": "Rosenheim24",
-    "lang": "de",
-    "scope": "county",
-    "date": "Sat, 23 May 2026 12:09:56 +0200"
-  },
-  {
     "title": "Feuerwehr Nürnberg: Dachstuhlbrand an Turnhalle: Feuerwehr Nürnberg kämpft unter erschwerten Bedingungen gegen Flammen",
     "snippet": "Nürnberg (ots) - Am Freitagabend geriet der Dachstuhl einer Turnhalle in der Wiesenstraße in Vollbrand. Die Integrierte Leitstelle Nürnberg (ILS) alarmierte die Berufsfeuerwehr Nürnberg am heutigen Abend um 19:34 Uhr zu einem Brandereignis auf ...",
     "url": "https://www.presseportal.de/blaulicht/pm/171957/6280595",
@@ -43,15 +34,6 @@
     "lang": "de",
     "scope": "national",
     "date": "Sat, 23 May 2026 14:47:26 +0200"
-  },
-  {
-    "title": "Haushalt für 2026 unter strengen Auflagen genehmigt",
-    "snippet": "Haushalt für 2026 unter strengen Auflagen genehmigt Die Regierung von Mittelfranken hat den Haushalt der Stadt für das Jahr 2026 genehmigt – unter strengen Auflagen. Damit ist die finanzielle Handlungsfähigkeit zunächst gesichert, zugleich wird aber deutlich: Die kommenden Jahre werden herausfordern",
-    "url": "https://www.nuernberg.de/internet/stadtportal/haushalt_2026.html",
-    "source": "nuernberg.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Metropolregion Nürnberg treibt Transformation der Automobilbranche voran",
@@ -63,13 +45,13 @@
     "date": "Fri, 15 Nov 2024 09:41:32 GMT"
   },
   {
-    "title": "A 3 Nürnberg - Passau: Diverse Verkehrseinschränkungen",
-    "snippet": "Unter anderem die Verkehrsf hrung auf der A 3 zwischen Anschlussstelle Regensburg-Universit t und dem Autobahnkreuz Regensburg wird umgebaut:",
-    "url": "http://www.stadt-neutraubling.de/aktuelles/alle-meldungen/a-3-nuernberg-passau-diverse-verkehrseinschraenkungen/",
-    "source": "Neutraubling (official)",
+    "title": "Haushalt für 2026 unter strengen Auflagen genehmigt",
+    "snippet": "Haushalt für 2026 unter strengen Auflagen genehmigt Die Regierung von Mittelfranken hat den Haushalt der Stadt für das Jahr 2026 genehmigt – unter strengen Auflagen. Damit ist die finanzielle Handlungsfähigkeit zunächst gesichert, zugleich wird aber deutlich: Die kommenden Jahre werden herausfordern",
+    "url": "https://www.nuernberg.de/internet/stadtportal/haushalt_2026.html",
+    "source": "nuernberg.de (hivatalos)",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 01 Dec 2021 12:23:57 GMT"
+    "date": ""
   },
   {
     "title": "Lust auf Wandern? Tageswanderung mit dem Fränkischen Albverein \"Der Pegnitz entlang durch Nürnberg",
@@ -79,6 +61,15 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "A 3 Nürnberg - Passau: Diverse Verkehrseinschränkungen",
+    "snippet": "Unter anderem die Verkehrsf hrung auf der A 3 zwischen Anschlussstelle Regensburg-Universit t und dem Autobahnkreuz Regensburg wird umgebaut:",
+    "url": "http://www.stadt-neutraubling.de/aktuelles/alle-meldungen/a-3-nuernberg-passau-diverse-verkehrseinschraenkungen/",
+    "source": "Neutraubling (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 01 Dec 2021 12:23:57 GMT"
   },
   {
     "title": "Zeil a.Main auf der Consumenta Nürnberg erfolgreich vertreten",

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Baleset történt az M5-ösön: egy ember meghalt, hatan megsérültek",
-    "snippet": "A baleset a leállósávban történt. The post Baleset történt az M5-ösön: egy ember meghalt, hatan megsérültek first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2025/02/01/baleset-m5-os-autopalya-ocsa/",
-    "source": "24.hu/Ócsa",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 01 Feb 2025 08:35:56 +0000"
-  },
-  {
     "title": "Egy nő meghalt az M5-ös autópályán történt balesetben Ócsa közelében",
     "snippet": "Egy kamion és egy személyautó ütközött.",
     "url": "https://index.hu/belfold/2026/04/13/ocsa-m5-baleset-autopalya-halalos-utkozes-torlodas-orszagos-mentoszolgalat/",
@@ -18,13 +9,13 @@
     "date": "Mon, 13 Apr 2026 17:03:00 +0200"
   },
   {
-    "title": "Börtönbe kerülhet az anya, aki brutálisan megverte lánya iskolatársát",
-    "snippet": "Az utcán támadt rá a tinédzserre. The post Börtönbe kerülhet az anya, aki brutálisan megverte lánya iskolatársát first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/12/26/bantalmazas-ocsa-anya-iskolatars-borton/",
+    "title": "Baleset történt az M5-ösön: egy ember meghalt, hatan megsérültek",
+    "snippet": "A baleset a leállósávban történt. The post Baleset történt az M5-ösön: egy ember meghalt, hatan megsérültek first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2025/02/01/baleset-m5-os-autopalya-ocsa/",
     "source": "24.hu/Ócsa",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 26 Dec 2024 18:11:15 +0000"
+    "date": "Sat, 01 Feb 2025 08:35:56 +0000"
   },
   {
     "title": "Valami történt, hirtelen minden megváltozott Orbán Viktor országjárásán",
@@ -36,13 +27,22 @@
     "date": "Tue, 31 Mar 2026 20:31:00 +0200"
   },
   {
-    "title": "Hármas karambol az M5-ös autópályán, mentőhelikopter érkezett a helyszínre",
-    "snippet": "A sztráda érintett szakaszát lezárták. The post Hármas karambol az M5-ös autópályán, mentőhelikopter érkezett a helyszínre first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/05/14/harmas-karambol-az-m5-os-autopalyan-mentohelikopter-erkezett-a-helyszinre/",
+    "title": "Börtönbe kerülhet az anya, aki brutálisan megverte lánya iskolatársát",
+    "snippet": "Az utcán támadt rá a tinédzserre. The post Börtönbe kerülhet az anya, aki brutálisan megverte lánya iskolatársát first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/12/26/bantalmazas-ocsa-anya-iskolatars-borton/",
     "source": "24.hu/Ócsa",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 14 May 2024 11:20:19 +0000"
+    "date": "Thu, 26 Dec 2024 18:11:15 +0000"
+  },
+  {
+    "title": "Orbán Viktor keserves éjszakát emlegetve elárulta, hogy mit mondtak neki a 2006-os vereség után",
+    "snippet": "Ócsára érkezett a kormányfő kampányturnéja.",
+    "url": "https://index.hu/belfold/2026/03/31/orban-viktor-ocsa-fidesz-kampany-orszagjaras-valasztas2026-orszaggyulesi-valasztasok/",
+    "source": "index.hu/Ócsa",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 31 Mar 2026 18:21:00 +0200"
   },
   {
     "title": "POLGÁRMESTERI KÖSZÖNTŐ",
@@ -54,13 +54,13 @@
     "date": ""
   },
   {
-    "title": "Orbán Viktor keserves éjszakát emlegetve elárulta, hogy mit mondtak neki a 2006-os vereség után",
-    "snippet": "Ócsára érkezett a kormányfő kampányturnéja.",
-    "url": "https://index.hu/belfold/2026/03/31/orban-viktor-ocsa-fidesz-kampany-orszagjaras-valasztas2026-orszaggyulesi-valasztasok/",
-    "source": "index.hu/Ócsa",
+    "title": "Hármas karambol az M5-ös autópályán, mentőhelikopter érkezett a helyszínre",
+    "snippet": "A sztráda érintett szakaszát lezárták. The post Hármas karambol az M5-ös autópályán, mentőhelikopter érkezett a helyszínre first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/05/14/harmas-karambol-az-m5-os-autopalyan-mentohelikopter-erkezett-a-helyszinre/",
+    "source": "24.hu/Ócsa",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 31 Mar 2026 18:21:00 +0200"
+    "date": "Tue, 14 May 2024 11:20:19 +0000"
   },
   {
     "title": "POLGÁRMESTERI HIVATAL",

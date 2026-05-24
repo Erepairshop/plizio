@@ -1,14 +1,5 @@
 [
   {
-    "title": "Missbrauch von zwei Mädchen in Fürstenwalde – Ermittlungen, aber kein „dringender“ Tatverdacht",
-    "snippet": "Zwei Mädchen sollen in Fürstenwalde von einer Gruppe Jugendlicher sexuell missbraucht worden sein. Knapp drei Wochen später ist vieles immer noch unklar. Um die mutmaßlichen Opfer zu schützen, wurden Verdächtige vorübergehend vom Schulunterricht ausgeschlossen.",
-    "url": "https://www.welt.de/vermischtes/article69f1e553622ae392e46e2bfc/brandenburg-missbrauch-von-zwei-maedchen-in-fuerstenwalde-ermittlungen-aber-kein-dringender-tatverdacht.html",
-    "source": "Welt Berlin",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 29 Apr 2026 13:10:21 GMT"
-  },
-  {
     "title": "Stichwahl in Fürstenwalde: Amtsinhaber Rudolph bleibt Bürgermeister",
     "snippet": "Nach der Stichwahl in Fürstenwalde steht fest: Amtsinhaber Matthias Rudolph bleibt weitere acht Jahre Chef im Rathaus. In einer Stichwahl setzte er sich gegen den ehemaligen SPD-Bundestagsabgeordneten Papendieck durch.",
     "url": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Mon, 27 Apr 2026 11:10:59 +0200"
+  },
+  {
+    "title": "Missbrauch von zwei Mädchen in Fürstenwalde – Ermittlungen, aber kein „dringender“ Tatverdacht",
+    "snippet": "Zwei Mädchen sollen in Fürstenwalde von einer Gruppe Jugendlicher sexuell missbraucht worden sein. Knapp drei Wochen später ist vieles immer noch unklar. Um die mutmaßlichen Opfer zu schützen, wurden Verdächtige vorübergehend vom Schulunterricht ausgeschlossen.",
+    "url": "https://www.welt.de/vermischtes/article69f1e553622ae392e46e2bfc/brandenburg-missbrauch-von-zwei-maedchen-in-fuerstenwalde-ermittlungen-aber-kein-dringender-tatverdacht.html",
+    "source": "Welt Berlin",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 29 Apr 2026 13:10:21 GMT"
   },
   {
     "title": "Bürgermeisterwahl in Fürstenwalde: Sieben Kandidaten treten an",

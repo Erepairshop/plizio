@@ -1,14 +1,5 @@
 [
   {
-    "title": "SV Naunhof 1920 - Transfermarkt",
-    "snippet": "SV Naunhof 1920 Transfermarkt",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aTVBjWkNCODQ1a3djWlNYSjNxc0tOcnA3MFBScFdQeTRhSWk4LXZNV1JQa2k3VXViZzJueG9qT0xzT2Q0d1g1RXVXLW55TDZhS2VoTnBCV08tS0Yzek8tLWYzTG5ERlVYNEVweEU0ajk?oc=5",
-    "source": "google-news",
-    "lang": "de",
-    "scope": "search",
-    "date": "Thu, 21 May 2026 07:00:43 GMT"
-  },
-  {
     "title": "SV Naunhof 1920 II - Transfermarkt",
     "snippet": "SV Naunhof 1920 II Transfermarkt",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2M1VDJvaTZzRGVwTVU3OEFwTlZzZEFxT01xYklPcThQaFAwVEU2RzVGb2J0Y0dEWTVkUnV4anNwZGdEYkZwek53eDhSdUZCSk5IZmJuUTJUNVgzbUtUeFRJdk1UWWNGeUthZjRER1VMNG1HWGM0TmdVdktCZFAtMVRkWQ?oc=5",
@@ -34,6 +25,15 @@
     "lang": "de",
     "scope": "search",
     "date": "Mon, 18 May 2026 05:15:26 GMT"
+  },
+  {
+    "title": "SV Naunhof 1920 - Transfermarkt",
+    "snippet": "SV Naunhof 1920 Transfermarkt",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aTVBjWkNCODQ1a3djWlNYSjNxc0tOcnA3MFBScFdQeTRhSWk4LXZNV1JQa2k3VXViZzJueG9qT0xzT2Q0d1g1RXVXLW55TDZhS2VoTnBCV08tS0Yzek8tLWYzTG5ERlVYNEVweEU0ajk?oc=5",
+    "source": "google-news",
+    "lang": "de",
+    "scope": "search",
+    "date": "Thu, 21 May 2026 07:00:43 GMT"
   },
   {
     "title": "SV Naunhof 1920 Jugend - Transfermarkt",

@@ -1,5 +1,32 @@
 [
   {
+    "title": "Évi plusz 100-200 ezer forintot kapnának a nyugdíjasok, de nem mindenki",
+    "snippet": "Nem mindegy, hogy kinek mennyi a nyugdíja, ettől függ a SZÉP-kártya.",
+    "url": "https://www.sonline.hu/helyi-kozelet/2026/05/nyugdijasok-szep-kartyat-kaphatnak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "sonline.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:30:14 +0000"
+  },
+  {
+    "title": "„A frutti, a töki, a nápolyi!” – Emlékszel még Kalapra, a Rákóczi lelátójának legendás alakjára?",
+    "snippet": "Kalap, a Fradi szurkoló fruttiárus, aki a Rákóczi meccseken is jelen volt.",
+    "url": "https://www.sonline.hu/helyi-kozelet/2026/05/kalap-fruttiarus-rakoczi-meccsekrol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "sonline.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:35 +0000"
+  },
+  {
+    "title": "Balog Zoltán: nem volt kormányzati kérés a kegyelmi ügyben",
+    "snippet": "A református püspök megerősítette korábbi állítását, hogy K. Endre felesége kért tőle segítséget.",
+    "url": "https://www.sonline.hu/orszag-vilag/2026/05/balog-zoltan-nem-volt-kormanyzati-keres-a-kegyelmi-ugyben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "sonline.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 06:41:20 +0000"
+  },
+  {
     "title": "„Szerelem miatt költöztem el, sajnálom, hogy otthagytam a gyerekeket” – mondta a nő, aki hetekre sorsukra hagyta a négy gyermekét, majd lemondott róluk",
     "snippet": "Egy 8, egy 10, egy 13 és egy 15 éves gyermeket hagyott faképnél és ellátatlanul az anyjuk. Felfüggesztett börtönt kértek rá. The post „Szerelem miatt költöztem el, sajnálom, hogy otthagytam a gyerekeket” – mondta a nő, aki hetekre sorsukra hagyta a négy gyermekét, majd lemondott róluk first appeared",
     "url": "https://24.hu/belfold/2026/05/07/fonyod-sorsukra-hagyott-negy-gyerek/",
@@ -16,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 27 Apr 2026 19:42:00 +0200"
+  },
+  {
+    "title": "FONYÓD Időjárás",
+    "snippet": "FONYÓD Időjárás !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');",
+    "url": "https://forecast7.com/hu/46d7417d56/fonyod/",
+    "source": "forecast7.com (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Könyörögtek a kisgyerekek az apjuknak, hogy ne verje az édesanyjukat, a legnagyobb lány próbálta védeni az anyját",
@@ -43,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 23 Feb 2026 13:57:37 +0000"
-  },
-  {
-    "title": "FONYÓD Időjárás",
-    "snippet": "FONYÓD Időjárás !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');",
-    "url": "https://forecast7.com/hu/46d7417d56/fonyod/",
-    "source": "forecast7.com (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Valami nagyon ég a Balatonnál",

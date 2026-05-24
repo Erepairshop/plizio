@@ -1,5 +1,41 @@
 [
   {
+    "title": "Freibäder in Schwaben: In diesem Deutschland-Vergleich belegt Augsburg Platz 1",
+    "snippet": "Augsburg landet beim bundesweiten Freibad-Preisvergleich auf dem Spitzenplatz. Eines der Freibäder in der Stadt ist sogar komplett gratis.",
+    "url": "https://www.augsburger-allgemeine.de/bayern/freibadpreise-augsburg-fuehrt-bundesweiten-vergleich-mit-guenstigstem-eintritt-an-24-05-114296311",
+    "source": "Augsburger Allgemeine — alt feeds",
+    "lang": "de",
+    "scope": "state",
+    "date": "2026-05-24T06:45:00Z"
+  },
+  {
+    "title": "FC Augsburg: 15 Jahre Erste Liga!",
+    "snippet": "Was für ein emotionaler Moment als Stephan Hain am 8. Mai 2011 in der 85. Minute das 2:1-Siegtor gegen den FSV Frankfurt erzielte. Damit war der FC Augsburg zum ersten Mal im Deutschen Oberhaus angekommen. Von der neuen Heimat Bundesliga hat er sich in den letzten 15 Jahren nicht mehr verabschieden ",
+    "url": "https://www.augsburg-journal.de/sport-auto/fc-augsburg-15-jahre-erste-liga-2/",
+    "source": "Augsburg Journal / Münchner Bote",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 06:54:22 +0000"
+  },
+  {
+    "title": "Diese außergewöhnlichen historischen Anwesen sind im Großraum Augsburg zu haben",
+    "snippet": "Wohnturm, Märchenschloss oder ehemalige Molkerei: In der Region stehen aktuell einige besondere Häuser zum Verkauf. Eine Auswahl.",
+    "url": "https://www.allgaeuer-zeitung.de/bayern/diese-historischen-immobilien-sind-im-raum-augsburg-zu-kaufen-114302540",
+    "source": "Allgäuer Zeitung",
+    "lang": "de",
+    "scope": "state",
+    "date": "2026-05-24T06:10:49Z"
+  },
+  {
+    "title": "Veranstaltungstipps: Das ist am langen Pfingstwochenende in und um Augsburg geboten",
+    "snippet": "Ob Ferien- bzw. Urlaubsauftakt oder „nur“ ein verlängertes Wochenende – das Wetter lädt ein, die Pfingstfeiertage in Augsburg und Region draußen zu verbringen.",
+    "url": "https://www.augsburger-allgemeine.de/bayern/in-und-um-augsburg-veranstaltungen-und-ausfluege-an-pfingsten-bei-schoenem-wetter-24-05-114291321",
+    "source": "Augsburger Allgemeine — alt feeds",
+    "lang": "de",
+    "scope": "state",
+    "date": "2026-05-24T06:41:00Z"
+  },
+  {
     "title": "Mit Tankrabatt: So viel kosten Benzin und Diesel aktuell in Augsburg",
     "snippet": "Benzinpreise und Dieselpreise der verschiedenen Tankstellen zu vergleichen, lohnt sich. Wir zeigen, wie viel der Sprit aktuell im Stadtgebiet Augsburg kostet.",
     "url": "https://www.augsburger-allgemeine.de/augsburg/benzinpreise-dieselpreise-aktuelle-spritpreise-in-augsburg-30-04-2050-102254170",
@@ -7,33 +43,6 @@
     "lang": "de",
     "scope": "state",
     "date": "2026-05-24T03:55:23Z"
-  },
-  {
-    "title": "Bleibt das Kaffeehaus-Gefühl? Was der neue Wirt mit dem Thalia-Café in Augsburg vor hat",
-    "snippet": "Wenn das beliebte Café neben dem Traditionskino wieder öffnet, erwarten die Gäste einige Neuerungen. Wie der Chef den Spagat zwischen Tradition und Moderne meistern will.",
-    "url": "https://www.augsburger-allgemeine.de/augsburg/augsburger-traditionslokal-im-umbruch-wie-es-mit-dem-thalia-kaffeehaus-weitergeht-114270038",
-    "source": "Augsburger Allgemeine",
-    "lang": "de",
-    "scope": "region",
-    "date": "2026-05-23T15:55:00Z"
-  },
-  {
-    "title": "Stadt Augsburg soll bei neuer Realschule Gas geben – gibt es eine schnelle Zwischenlösung?",
-    "snippet": "Bis die geplante neue Realschule im Augsburger Osten fertig ist, dauert es noch Jahre. Eine Zusammenarbeit mit der katholischen Kirche könnte bis dahin helfen.",
-    "url": "https://www.augsburger-allgemeine.de/augsburg/stadt-augsburg-soll-bei-neuer-realschule-gas-geben-gibt-es-eine-schnelle-zwischenloesung-114288567",
-    "source": "Augsburger Allgemeine — alt feeds",
-    "lang": "de",
-    "scope": "state",
-    "date": "2026-05-24T04:10:00Z"
-  },
-  {
-    "title": "Veranstaltungstipps: Das ist am langen Pfingstwochenende in und um Augsburg geboten",
-    "snippet": "Ob Ferien- bzw. Urlaubsauftakt oder „nur“ ein verlängertes Wochenende – das Wetter lädt ein, die Pfingstfeiertage in Augsburg und Region draußen zu verbringen.",
-    "url": "https://www.augsburger-allgemeine.de/bayern/in-und-um-augsburg-veranstaltungen-und-ausfluege-an-pfingsten-bei-schoenem-wetter-23-05-114291321",
-    "source": "Augsburger Allgemeine — alt feeds",
-    "lang": "de",
-    "scope": "state",
-    "date": "2026-05-23T08:47:40Z"
   },
   {
     "title": "„Branche hat sich gewaltig gewandelt“: Traditionsbäckerei in Augsburg überrascht mit Eiscafé",
@@ -124,15 +133,6 @@
     "lang": "de",
     "scope": "state",
     "date": "2026-04-26T12:19:11Z"
-  },
-  {
-    "title": "Zuhause bei Freund(en)",
-    "snippet": "Das rote Garagentor, die rote Haustür, der rote Sonnenschirm im Garten, im roten Idyll der Familie Freund hat sich seit unserem letzten Besuch im Landtagswahlkampf 2023 auf den ersten Blick nicht viel getan. Marei Freund (43) begrüßt uns im lichtdurchfluteten Erdgeschoss ihres Hauses in Göggingen. S",
-    "url": "https://www.augsburg-journal.de/augsburg-journal-reporter/zuhause-bei-freunden-2/",
-    "source": "Augsburg Journal / Münchner Bote",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sun, 17 May 2026 03:00:00 +0000"
   },
   {
     "title": "Kickboxen Augsburg",

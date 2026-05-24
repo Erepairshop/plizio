@@ -1,14 +1,5 @@
 [
   {
-    "title": "Soha nem volt jogosítványa a halálos aszódi balesetet okozó férfinak, várandós élettársa is vele utazott",
-    "snippet": "Egy 25 éves lány az áldozat, a férfi letartóztatását indítványozták.",
-    "url": "https://index.hu/belfold/2025/11/28/aszod-halalos-baleset-rendorseg-ugyeszseg-video/",
-    "source": "index.hu/Aszód",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 28 Nov 2025 10:13:00 +0100"
-  },
-  {
     "title": "A blog",
     "snippet": "Elindult ez a weboldal kérek mindenkit aki szeretne magárol videót külgye át és én felteszem vagy képet mindig kapni fogtok képeket videókat és ki írásokat de lessznek társaim is ha meg lessz az 1000like.",
     "url": "http://asd-hu9.webnode.hu/news/a-blog/",
@@ -27,13 +18,13 @@
     "date": "Thu, 26 Feb 2026 23:29:43 +0000"
   },
   {
-    "title": "Biztonsági kamera rögzítette az aszódi halálos balesetet",
-    "snippet": "Egy 25 éves nő meghalt, többen súlyosan megsérültek.",
-    "url": "https://index.hu/belfold/2025/11/27/aszod-halalos-baleset-segitsegnyujtas-elmulasztasa-video/",
+    "title": "Soha nem volt jogosítványa a halálos aszódi balesetet okozó férfinak, várandós élettársa is vele utazott",
+    "snippet": "Egy 25 éves lány az áldozat, a férfi letartóztatását indítványozták.",
+    "url": "https://index.hu/belfold/2025/11/28/aszod-halalos-baleset-rendorseg-ugyeszseg-video/",
     "source": "index.hu/Aszód",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 27 Nov 2025 17:01:00 +0100"
+    "date": "Fri, 28 Nov 2025 10:13:00 +0100"
   },
   {
     "title": "Hírek",
@@ -45,15 +36,6 @@
     "date": "Tue, 11 Mar 2014 13:28:00 +0100"
   },
   {
-    "title": "Városi gyermeknap",
-    "snippet": "",
-    "url": "https://aszod.hu/varosi-gyermeknap/",
-    "source": "aszod.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:09:39 +0000"
-  },
-  {
     "title": "Szőlő utca: Az elszállított fiatalokat hosszú és költséges utazás árán látogathatják a hozzátartozóik",
     "snippet": "Pintér Sándor azonnali hatállyal bezáratta a Budapesti Javítóintézetet, a korábbi növendékeket az ország távoli pontjaira szállíthatták. The post Szőlő utca: Az elszállított fiatalokat hosszú és költséges utazás árán látogathatják a hozzátartozóik first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/01/22/szolo-utca-javitointezet-utazas/",
@@ -63,13 +45,22 @@
     "date": "Thu, 22 Jan 2026 06:51:47 +0000"
   },
   {
-    "title": "Hajtóvadászatot indított a rendőrség, elfogták az aszódi baleset elkövetőjét",
+    "title": "Városi gyermeknap",
+    "snippet": "",
+    "url": "https://aszod.hu/varosi-gyermeknap/",
+    "source": "aszod.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 11:09:39 +0000"
+  },
+  {
+    "title": "Biztonsági kamera rögzítette az aszódi halálos balesetet",
     "snippet": "Egy 25 éves nő meghalt, többen súlyosan megsérültek.",
-    "url": "https://index.hu/belfold/2025/11/25/aszod-halalos-baleset-godollo-rendorseg-korozes-sofor-segitsegnyujtas/",
+    "url": "https://index.hu/belfold/2025/11/27/aszod-halalos-baleset-segitsegnyujtas-elmulasztasa-video/",
     "source": "index.hu/Aszód",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 25 Nov 2025 12:53:00 +0100"
+    "date": "Thu, 27 Nov 2025 17:01:00 +0100"
   },
   {
     "title": "Elindult a weboldal",
@@ -88,6 +79,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 28 Nov 2025 20:31:49 +0000"
+  },
+  {
+    "title": "Hajtóvadászatot indított a rendőrség, elfogták az aszódi baleset elkövetőjét",
+    "snippet": "Egy 25 éves nő meghalt, többen súlyosan megsérültek.",
+    "url": "https://index.hu/belfold/2025/11/25/aszod-halalos-baleset-godollo-rendorseg-korozes-sofor-segitsegnyujtas/",
+    "source": "index.hu/Aszód",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 25 Nov 2025 12:53:00 +0100"
   },
   {
     "title": "Afrikai Sertéspestis (ASP) betegség vaddisznókban történő előfordulása miatt fertőzött területté nyilvánítás",

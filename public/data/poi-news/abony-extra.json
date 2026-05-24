@@ -9,15 +9,6 @@
     "date": "Fri, 22 May 2026 19:26:11 +0200"
   },
   {
-    "title": "Halálra gázolt a vonat egy embert Cegléd és Abony között",
-    "snippet": "A vonalon az esti járatok menetideje 20-40 perccel növekedhet meg.",
-    "url": "https://index.hu/belfold/2022/11/22/baleset-gazolas-halal-vonat-kozlekedes-vasut-cegled-abony/",
-    "source": "index.hu/Cegléd",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 22 Nov 2022 19:51:00 +0100"
-  },
-  {
     "title": "Kigyulladt egy mérővonat Cegléd és Abony között",
     "snippet": "Vizsgálódik a katasztrófavédelem. The post Kigyulladt egy mérővonat Cegléd és Abony között first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/05/06/mav-kigyulladt-vonat-vitezy-lazar/",
@@ -25,6 +16,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Wed, 06 May 2026 14:12:50 +0000"
+  },
+  {
+    "title": "Halálra gázolt a vonat egy embert Cegléd és Abony között",
+    "snippet": "A vonalon az esti járatok menetideje 20-40 perccel növekedhet meg.",
+    "url": "https://index.hu/belfold/2022/11/22/baleset-gazolas-halal-vonat-kozlekedes-vasut-cegled-abony/",
+    "source": "index.hu/Cegléd",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 22 Nov 2022 19:51:00 +0100"
   },
   {
     "title": "Elkészült az M4-es Abony és Törökszentmiklós között",
@@ -36,13 +36,13 @@
     "date": "Tue, 22 Feb 2022 18:48:00 +0100"
   },
   {
-    "title": "Baleset, sérültek a 4-esen teljes útzár",
-    "snippet": "Több jármű ütközött, torlódásra kell számítani Abony területénél. The post Baleset, sérültek a 4-esen teljes útzár first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2019/08/06/baleset-serultek-4-es-utzar/",
-    "source": "24.hu/Abony",
+    "title": "TikTokon hirdetett hamis tízezreseket egy abonyi férfi, tízmilliókat keresett az átveréssel",
+    "snippet": "Gumikesztyűs kézzel, az arcát elrejtve kínált hamis bankjegyeket a közösségi médiában.",
+    "url": "https://index.hu/belfold/2026/05/13/tiktok-videok-rendorseg-nyomozas-penzhamisitas-kriptovaluta-atveres-gyanusitas/",
+    "source": "index.hu/Abony",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 06 Aug 2019 04:21:00 +0000"
+    "date": "Wed, 13 May 2026 11:13:00 +0200"
   },
   {
     "title": "Abony – május 23-án és 24-én ideiglenes forgalmi változás",
@@ -54,22 +54,13 @@
     "date": ""
   },
   {
-    "title": "TikTokon hirdetett hamis tízezreseket egy abonyi férfi, tízmilliókat keresett az átveréssel",
-    "snippet": "Gumikesztyűs kézzel, az arcát elrejtve kínált hamis bankjegyeket a közösségi médiában.",
-    "url": "https://index.hu/belfold/2026/05/13/tiktok-videok-rendorseg-nyomozas-penzhamisitas-kriptovaluta-atveres-gyanusitas/",
-    "source": "index.hu/Abony",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 11:13:00 +0200"
-  },
-  {
-    "title": "Halálos motorosbaleset Abonyban",
-    "snippet": "Meghalt egy motoros, miután személyautóval ütközött Abonyban szombat délután. The post Halálos motorosbaleset Abonyban first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2019/03/30/halalos-motorosbaleset-abonyban/",
+    "title": "Baleset, sérültek a 4-esen teljes útzár",
+    "snippet": "Több jármű ütközött, torlódásra kell számítani Abony területénél. The post Baleset, sérültek a 4-esen teljes útzár first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2019/08/06/baleset-serultek-4-es-utzar/",
     "source": "24.hu/Abony",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 30 Mar 2019 17:19:53 +0000"
+    "date": "Tue, 06 Aug 2019 04:21:00 +0000"
   },
   {
     "title": "Villanyoszlophoz csapkodta a kutyát egy abonyi férfi, mert elragadta a csirkéjét",
@@ -81,13 +72,13 @@
     "date": "Mon, 27 Apr 2026 19:50:00 +0200"
   },
   {
-    "title": "Hatezer éves leprás testet találtak Abonyban",
-    "snippet": "A betegség eddigi legkorábbi nyomaira bukkantak magyar kutatók. Ezzel némileg átírják a történelmet. The post Hatezer éves leprás testet találtak Abonyban first appeared on 24.hu .",
-    "url": "https://24.hu/tudomany/2017/10/12/hatezer-eves-lepras-testet-talaltak-abonyban/",
+    "title": "Halálos motorosbaleset Abonyban",
+    "snippet": "Meghalt egy motoros, miután személyautóval ütközött Abonyban szombat délután. The post Halálos motorosbaleset Abonyban first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2019/03/30/halalos-motorosbaleset-abonyban/",
     "source": "24.hu/Abony",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 12 Oct 2017 19:34:15 +0000"
+    "date": "Sat, 30 Mar 2019 17:19:53 +0000"
   },
   {
     "title": "Két autó ütközött össze az M4-es autóúton, megállították a forgalmat",
@@ -97,5 +88,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 01 Feb 2026 18:16:00 +0100"
+  },
+  {
+    "title": "Hatezer éves leprás testet találtak Abonyban",
+    "snippet": "A betegség eddigi legkorábbi nyomaira bukkantak magyar kutatók. Ezzel némileg átírják a történelmet. The post Hatezer éves leprás testet találtak Abonyban first appeared on 24.hu .",
+    "url": "https://24.hu/tudomany/2017/10/12/hatezer-eves-lepras-testet-talaltak-abonyban/",
+    "source": "24.hu/Abony",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 12 Oct 2017 19:34:15 +0000"
   }
 ]

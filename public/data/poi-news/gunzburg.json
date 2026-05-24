@@ -1,5 +1,14 @@
 [
   {
+    "title": "Frage der Woche: Was bleibt vom Hochwasser 2024?",
+    "snippet": "Vor zwei Jahren überschwemmte die Jahrtausendflut den Landkreis Günzburg. Wir wollen von unseren Leserinnen und Lesern wissen, was ihnen davon im Gedächtnis bleibt.",
+    "url": "https://www.augsburger-allgemeine.de/guenzburg/hochwasser-2024-veraendert-landkreis-guenzburg-und-zeigt-grosse-hilfsbereitschaft-114293758",
+    "source": "Günzburger Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "2026-05-24T05:30:00Z"
+  },
+  {
     "title": "Die Freien Wähler in Ziemetshausen fühlen sich im Marktgemeinderat ausgebremst – zurecht?",
     "snippet": "Die FW zogen mit zwei Sitzen in den Marktgemeinderat ein, gehen aber bei den Ausschüssen leer aus. Laut Regelungen im Gemeinderat hätte dies nicht so sein müssen.",
     "url": "https://www.augsburger-allgemeine.de/krumbach/freie-waehler-scheitern-mit-antrag-auf-fraktionsstatus-im-gemeinderat-ziemetshausen-114265081",
@@ -16,15 +25,6 @@
     "lang": "de",
     "scope": "city",
     "date": "2026-05-24T03:21:22Z"
-  },
-  {
-    "title": "„Friedhof hat was arg Soziales“: So sieht der Arbeitsalltag einer Grabpflegerin in Krumbach aus",
-    "snippet": "Das Hochwasser nahm ihr den Blumenladen. Jetzt pflegt Brigitte Heisch Gräber auf Krumbachs Friedhöfen. Wo andere trauern, findet sie Ruhe.",
-    "url": "https://www.augsburger-allgemeine.de/krumbach/grabpflegerin-in-krumbach-arbeiten-wo-andere-trauern-114148032",
-    "source": "Günzburger Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "2026-05-23T16:00:00Z"
   },
   {
     "title": "KEG-Kreisverband Günzburg: Organisationstreffen zu den Personalratswahlen 2026",
@@ -75,7 +75,7 @@
     "title": "Ersatzneubau der Bahnbrücke in Günzburg – Vollsperrung der B 16 ab Dienstag, den 11. Januar 2022",
     "snippet": "Wie bereits mit unserer Pressemitteilung 72/2021 vom 16.12.2021 angekündigt, wird es ab Dienstag, den 11.01.2022 ernst an der B 16 in Günzburg. Das Staatliche Bauamt Krumbach erneuert die Brücke über die Bahnlinie Ulm-Augsburg im Zuge der B 16 und errichtet einen Kreisverkehr im Kreuzungsbereich Auw",
     "url": "https://www.gundelfingen-donau.de/ausbau-b-16-vollsperrung-der-anschlussstelle-ab-dem-08-09-2021/",
-    "source": "gundelfingen-donau.de (official)",
+    "source": "Gundelfingen an der Donau (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 11 Jan 2022 07:10:16 +0000"

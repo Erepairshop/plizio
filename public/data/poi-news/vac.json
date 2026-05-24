@@ -1,5 +1,14 @@
 [
   {
+    "title": "Vác és Diósjenő között június 1-jétől 19-ig vonat helyett buszok közlekednek",
+    "snippet": "Pályakarbantartást végeznek az érintett szakaszon.",
+    "url": "https://index.hu/belfold/2026/05/23/vac-diosjeno-balassagyarmat-palyakarbantartas-vaganyszabalyozas-busz-volan-mav/",
+    "source": "index.hu/Vác",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 16:13:00 +0200"
+  },
+  {
     "title": "Számos újdonság várja a vendégeket a strandon az idei szezonban",
     "snippet": "A váci strandfürdő-uszoda létesítményegyüttes háza táján számos szépítő, korszerűsítő munkát végeztek a kivitelezők a strandszezonra készülve. Az elmúlt évekhez hasonlóan áprilisban megkezdődtek a strandon a tavaszi karbantartási és kertészeti munkáink. Az idei évben talán a legnagyobb újdonság a na",
     "url": "https://0627.hu/2026/05/szamos-ujdonsag-varja-a-vendegeket-a-strandon-az-idei-szezonban/",
@@ -36,15 +45,6 @@
     "date": "Wed, 20 May 2026 09:55:00 +0000"
   },
   {
-    "title": "Figyelmeztető felhívás a termőföldek hasznosítási kötelezettségéről",
-    "snippet": "A járásszékhely önkormányzatának hivatalos honlapján is megjelent az a figyelmeztető figyelemfelhívás, amely a termőföldek hasznosítási kötelezettségére irányítja figyelmet. „A termőföld védelméről szóló 2007. évi CXXIX. törvény alapján a termőföld használója köteles a földet művelési ágának megfele",
-    "url": "https://0627.hu/2026/05/figyelmezteto-felhivas-a-termofoldek-hasznositasi-kotelezettsegerol/",
-    "source": "0627.hu",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 09:59:00 +0000"
-  },
-  {
     "title": "Önkormányzati ingatlanhirdetések – (fotókkal)",
     "snippet": "Nem lakás célú helyiségek bérbeadásra: Vác, Széchenyi utca 8. fsz. 11. (megtekintés időpontja: bejelentkezés alapján 2026. június 11. 08:30) Pályázatok benyújtásának határideje: 2026. június 29. 16:00 Zártkerti ingatlan értékesítésre: Vác, zártkert 20001 hrsz. Balassagyarmati és Agancs utca közötti ",
     "url": "https://www.vac.hu/onkormanyzati-ingatlanhirdetesek-fotokkal-23/",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 22 May 2026 11:30:44 +0000"
+  },
+  {
+    "title": "Figyelmeztető felhívás a termőföldek hasznosítási kötelezettségéről",
+    "snippet": "A járásszékhely önkormányzatának hivatalos honlapján is megjelent az a figyelmeztető figyelemfelhívás, amely a termőföldek hasznosítási kötelezettségére irányítja figyelmet. „A termőföld védelméről szóló 2007. évi CXXIX. törvény alapján a termőföld használója köteles a földet művelési ágának megfele",
+    "url": "https://0627.hu/2026/05/figyelmezteto-felhivas-a-termofoldek-hasznositasi-kotelezettsegerol/",
+    "source": "0627.hu",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Tue, 19 May 2026 09:59:00 +0000"
   },
   {
     "title": "Péntekig lehet pályázni a márianosztrai közös önkormányzati hivatal jegyzői munkakörére",

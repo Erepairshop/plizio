@@ -1,14 +1,5 @@
 [
   {
-    "title": "Razzia in Neukölln",
-    "snippet": "Die ersten News des Tages sind Chefsache. Heute: Herr Baustellenkoordinator, übernehmen Sie!",
-    "url": "https://www.morgenpost.de/berlin/article412076845/razzia-in-neukoelln.html",
-    "source": "Berliner Morgenpost",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:30:00 +0200"
-  },
-  {
     "title": "Homofeindlicher Angriff in Neukölln: Drei Menschen beleidigt und mit Reizgas besprüht",
     "snippet": "In der Karl-Marx-Straße haben zwei Unbekannte eine Gruppe homofeindlich angegriffen. Auch andernorts kam es zu einer Attacke mit Reizgas.",
     "url": "https://www.tagesspiegel.de/berlin/homofeindlicher-angriff-in-neukolln-drei-menschen-beleidigt-und-mit-reizgas-bespruht-15633119.html",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 14:17:58 +0200"
+  },
+  {
+    "title": "Razzia in Neukölln",
+    "snippet": "Die ersten News des Tages sind Chefsache. Heute: Herr Baustellenkoordinator, übernehmen Sie!",
+    "url": "https://www.morgenpost.de/berlin/article412076845/razzia-in-neukoelln.html",
+    "source": "Berliner Morgenpost",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:30:00 +0200"
   },
   {
     "title": "Überfall in Neukölln: Öffentliche Fahndung nach Frau eingestellt",

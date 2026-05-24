@@ -63,15 +63,6 @@
     "date": "Wed, 13 May 2026 13:11:00 +0100"
   },
   {
-    "title": "Jan Elert vom Chorverband Breisgau erklärt, warum   viele  wieder Gefallen am Singen gefunden haben",
-    "snippet": "Der Chorverband Breisgau trifft sich in Oberried. Präsident Jan Elert erklärt, warum fast jeder singen kann, welchen Schwerpunkt das nächste Chorwärts -Festival hat und was er selbst gerne singt.",
-    "url": "https://www.badische-zeitung.de/jan-elert-vom-chorverband-breisgau-erklaert-warum-viele-wieder-gefallen-am-singen-gefunden-haben",
-    "source": "Badische Zeitung — sections",
-    "lang": "de",
-    "scope": "state",
-    "date": "Fri, 15 May 2026 17:00:00 GMT"
-  },
-  {
     "title": "„Mehrsprachiges Singen“ im Mehrgenerationenhaus „Haus International“",
     "snippet": "Wussten Sie schon, dass Singen nicht nur gesund ist, sondern auch glücklicher macht? Aus diesem Grund findet ab sofort jeden Dienstag von 17.30 Uhr bis 18.30 Uhr eine \"offene\" Gesangsrunde im Mehrgenerationenhaus \"Haus International\" in Troisdorf (Friedrich-Wilhelms-Hütte) statt.",
     "url": "https://www.troisdorf.de/de/rathaus-service/aktuell/pressemeldungen/2024/februar/mehrsprachiges-singen-im-mehrgenerationenhaus-haus-international/",
@@ -79,6 +70,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 28 Feb 2024 16:08:56 GMT"
+  },
+  {
+    "title": "Jan Elert vom Chorverband Breisgau erklärt, warum   viele  wieder Gefallen am Singen gefunden haben",
+    "snippet": "Der Chorverband Breisgau trifft sich in Oberried. Präsident Jan Elert erklärt, warum fast jeder singen kann, welchen Schwerpunkt das nächste Chorwärts -Festival hat und was er selbst gerne singt.",
+    "url": "https://www.badische-zeitung.de/jan-elert-vom-chorverband-breisgau-erklaert-warum-viele-wieder-gefallen-am-singen-gefunden-haben",
+    "source": "Badische Zeitung — sections",
+    "lang": "de",
+    "scope": "state",
+    "date": "Fri, 15 May 2026 17:00:00 GMT"
   },
   {
     "title": "Singen macht stark und Singen tut gut!",
@@ -115,14 +115,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Mon, 27 Apr 2026 15:29:00 +0200"
-  },
-  {
-    "title": "Von Sport bis Singen",
-    "snippet": "Die neuen interkommunalen Angebote des DRK Generationentreffs Hessisches Kegelspiel für den Monat April stehen fest.",
-    "url": "https://www.huenfeld.de/de/nachrichtenartikel/2026/april/interkommunale-angebote/",
-    "source": "Hünfeld (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 07 Aug 2025 09:00:42 GMT"
   }
 ]

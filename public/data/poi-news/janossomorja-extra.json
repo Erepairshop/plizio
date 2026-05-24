@@ -1,14 +1,5 @@
 [
   {
-    "title": "A magyar válogatottra is hatással van az olimpiai sportág körüli belviszály",
-    "snippet": "Több per is indult a szakszövetségen belül kirobbant heves viták nyomán.",
-    "url": "https://index.hu/sport/2025/05/29/baseball-softball-mobssz-olimpia-magyarorszag-vita-tordai-nandor-obuda-janossomorja/",
-    "source": "index.hu/Jánossomorja",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 29 May 2025 17:54:00 +0200"
-  },
-  {
     "title": "Rémisztően közel csapott le a villám Jánossomorján",
     "snippet": "Videó is készült a történtekről. The post Rémisztően közel csapott le a villám Jánossomorján first appeared on 24.hu .",
     "url": "https://24.hu/elet-stilus/2025/06/27/vihar-villam-janossomorja-video/",
@@ -18,13 +9,13 @@
     "date": "Fri, 27 Jun 2025 13:20:13 +0000"
   },
   {
-    "title": "Azonnali blokádot rendelt el Románia, lezárták a határokat a magyar haszonállatok előtt",
-    "snippet": "Magyarországról nem lehet bevinni élő állatokat az országba.",
-    "url": "https://index.hu/kulfold/2025/04/11/romania-szaj-es-koromfajas-jarvany-ovintezkedes-szigoritas/",
+    "title": "A magyar válogatottra is hatással van az olimpiai sportág körüli belviszály",
+    "snippet": "Több per is indult a szakszövetségen belül kirobbant heves viták nyomán.",
+    "url": "https://index.hu/sport/2025/05/29/baseball-softball-mobssz-olimpia-magyarorszag-vita-tordai-nandor-obuda-janossomorja/",
     "source": "index.hu/Jánossomorja",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 11 Apr 2025 20:04:00 +0200"
+    "date": "Thu, 29 May 2025 17:54:00 +0200"
   },
   {
     "title": "Nem lesz dögtemető a miniszter választókerületében",
@@ -36,13 +27,22 @@
     "date": "Tue, 08 Apr 2025 11:00:39 +0000"
   },
   {
-    "title": "Kiderült, hol ássák el a több ezer leölt szarvasmarhát",
-    "snippet": "Jánossomorja lakosai fellélegezhetnek.",
-    "url": "https://index.hu/belfold/2025/04/08/babolna-janossomorja-szaj-es-koromfajas-virus-jarvany-szarvasmarha-tetem-leoles/",
+    "title": "Azonnali blokádot rendelt el Románia, lezárták a határokat a magyar haszonállatok előtt",
+    "snippet": "Magyarországról nem lehet bevinni élő állatokat az országba.",
+    "url": "https://index.hu/kulfold/2025/04/11/romania-szaj-es-koromfajas-jarvany-ovintezkedes-szigoritas/",
     "source": "index.hu/Jánossomorja",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 08 Apr 2025 15:28:00 +0200"
+    "date": "Fri, 11 Apr 2025 20:04:00 +0200"
+  },
+  {
+    "title": "Kisebb földrengés volt Jánossomorján",
+    "snippet": "Károkról egyelőre nem érkezett jelentés. The post Kisebb földrengés volt Jánossomorján first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2024/02/03/janossomorja-foldrenges/",
+    "source": "24.hu/Jánossomorja",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 03 Feb 2024 08:10:19 +0000"
   },
   {
     "title": "Kölyök Gödör",
@@ -54,13 +54,13 @@
     "date": "2026-06-14"
   },
   {
-    "title": "Kisebb földrengés volt Jánossomorján",
-    "snippet": "Károkról egyelőre nem érkezett jelentés. The post Kisebb földrengés volt Jánossomorján first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2024/02/03/janossomorja-foldrenges/",
-    "source": "24.hu/Jánossomorja",
+    "title": "Kiderült, hol ássák el a több ezer leölt szarvasmarhát",
+    "snippet": "Jánossomorja lakosai fellélegezhetnek.",
+    "url": "https://index.hu/belfold/2025/04/08/babolna-janossomorja-szaj-es-koromfajas-virus-jarvany-szarvasmarha-tetem-leoles/",
+    "source": "index.hu/Jánossomorja",
     "lang": "hu",
     "scope": "city",
-    "date": "Sat, 03 Feb 2024 08:10:19 +0000"
+    "date": "Tue, 08 Apr 2025 15:28:00 +0200"
   },
   {
     "title": "Nemzeti összetartozás napja",

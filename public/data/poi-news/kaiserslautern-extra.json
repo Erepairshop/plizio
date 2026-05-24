@@ -1,14 +1,5 @@
 [
   {
-    "title": "Verkaufsoffener Sonntag Kaiserslautern 2026 – Shopping und Erlebnis",
-    "snippet": "Verkaufsoffener Sonntag Kaiserslautern 2026. An vier Sonntagen lädt die Geschäftswelt von Kaiserslautern zum entspannten Sonntagsshopping ein – jeweils verbunden mit großen Events wie Frühlingsmarkt, Kerwe und Weihnachtsmarkt. Hier stehen alle Termine, Öffnungszeiten sowie Infos zu Parken und Anreis",
-    "url": "https://www.wochenblatt-reporter.de/kaiserslautern/c-ausgehen-geniessen/verkaufsoffener-sonntag-kaiserslautern-2026-shopping-und-erlebnis_a704105",
-    "source": "wochenblatt-reporter (Rhein-Neckar)",
-    "lang": "de",
-    "scope": "state",
-    "date": "Sat, 23 May 2026 16:59:23 +0200"
-  },
-  {
     "title": "Stadtradeln in Kaiserslautern gestartet",
     "snippet": "In Kaiserslautern hat das diesjährige Stadtradeln begonnen. Bis zum 9. Juni sollen möglichst viele Alltagswege mit dem Fahrrad zurückgelegt werden. Zum Auftakt gab Beigeordneter Manuel Steinbrenner am Mittwoch auf dem Rathausvorplatz den offiziellen Startschuss. Bereits jetzt haben sich mehr als 1.0",
     "url": "https://antenne-kl.de/stadtradeln-in-kaiserslautern-gestartet/",
@@ -45,15 +36,6 @@
     "date": "Wed, 20 May 2026 11:47:36 +0000"
   },
   {
-    "title": "„Lautern liest“ im Jubiläumsjahr 2026",
-    "snippet": "22. Mai 2026 „Lautern liest“ im Jubiläumsjahr 2026 Verschiedene Orte in der Stadt laden zu Lesungen ein",
-    "url": "https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/080003/index.html.de",
-    "source": "kaiserslautern.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Weitere Untersuchungen zur Amerikanischen Faulbrut",
     "snippet": "Im Landkreis Kaiserslautern gibt es neue Informationen zur Amerikanischen Faulbrut bei Bienen. Nach Angaben des Veterinäramts liegen inzwischen die Ergebnisse von Untersuchungen aus 149 Bienenvölkern im Sperrgebiet vor. Dabei wurde der Erreger in zwei Sammelproben aus insgesamt neun Bienenvölkern na",
     "url": "https://antenne-kl.de/weitere-untersuchungen-zur-amerikanischen-faulbrut/",
@@ -61,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 11:45:30 +0000"
+  },
+  {
+    "title": "„Lautern liest“ im Jubiläumsjahr 2026",
+    "snippet": "22. Mai 2026 „Lautern liest“ im Jubiläumsjahr 2026 Verschiedene Orte in der Stadt laden zu Lesungen ein",
+    "url": "https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/080003/index.html.de",
+    "source": "kaiserslautern.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Mehr Sportabzeichen in der Pfalz verliehen",

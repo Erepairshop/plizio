@@ -1,5 +1,23 @@
 [
   {
+    "title": "Klimademo zwischen Hamm und Werne: VKU-Busse müssen Umleitung fahren",
+    "snippet": "Das Klimacamp rund um das Gersteinwerk führt zu Einschränkungen im Busverkehr zwischen Werne und Hamm. Betroffen sind die Linien X1 und 215.",
+    "url": "https://www.ruhrnachrichten.de/werne/klimademo-hamm-werne-gersteinwerk-busverkehr-vku-umleitung-linie-x1-215-klimacamp-stockum-w1197626-2002076470/",
+    "source": "Ruhr Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
+    "title": "Sechs Millionen Kinozuschauer in Deutschland: Einer der besten Filme der 80er-Jahre läuft heute im Free-TV",
+    "snippet": "Kein teurer, aber ein großer Film: „Rain Man“ ist ein erstklassig inszeniertes Drama mit glänzenden Schauspielern.",
+    "url": "https://www.wa.de/stars-tv/sechs-millionen-kinozuschauer-in-deutschland-einer-der-besten-filme-der-80er-jahre-laeuft-heute-im-free-tv-zr-94320301.html",
+    "source": "Westfälischer Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 09:30:01 +0200"
+  },
+  {
     "title": "Haus ermöglicht Menschen mit Beeinträchtigung eine eigene Wohnung – Verein erlebt „überglückliche Familien“",
     "snippet": "In Westtünnen leben Menschen mit Beeinträchtigung in eigenen Wohnungen – so selbstständig wie möglich. Astrid Simon (64) hat dort sogar einen Freund kennengelernt.",
     "url": "https://www.wa.de/hamm/vkm-haus-ermoeglicht-23-menschen-mit-beeintraechtigung-eigene-wohnung-hamm-westuennen-94318329.html",
@@ -9,6 +27,24 @@
     "date": "Sun, 24 May 2026 05:30:00 +0200"
   },
   {
+    "title": "Szenarien im Kreis Unna-Hamm: In der Kreisliga B2 geht es drunter und drüber",
+    "snippet": "Spannung pur in der Kreisliga B2 Unna-Hamm: Mit komplexen Szenarien und engen Tabellenkonstellationen steht ein entscheidender Spieltag bevor.",
+    "url": "https://www.ruhrnachrichten.de/luenen-sport/kreisliga-b2-unna-hamm-aufstieg-abstieg-tus-niederaden-cappenberg-w1195558-2002072257/",
+    "source": "Ruhr Nachrichten",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 06:55:00 +0000"
+  },
+  {
+    "title": "Ukraine-Krieg eskaliert: Russland greift Kiew massiv an – Warnung vor gefürchteter Rakete",
+    "snippet": "Russland griff Kiew in der Nacht mit Drohnen, Marschflugkörpern und ballistischen Raketen an. Die Ukraine warnte zeitweise vor Oreschnik.",
+    "url": "https://www.wa.de/politik/luftangriff-auf-kiew-russland-greift-mit-raketen-und-drohnen-an-zr-94320298.html",
+    "source": "Westfälischer Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 09:16:31 +0200"
+  },
+  {
     "title": "Bezirk stellt sich auf Risikofaktor Hitze ein: Ältere sind besonders betroffen",
     "snippet": "In Rhynern leben überdurchschnittlich viele ältere Menschen, die als besonders hitzeanfällig gelten. 15 sensible Einrichtungen wie Pflege- und Betreuungsheime liegen teilweise in thermisch belasteten Bereichen.",
     "url": "https://www.wa.de/hamm/rhynern-ort370524/23-prozent-ueber-65-stadt-bezirk-rhynern-hitzeaktionsplan-senioren-besonders-betroffen-klima-wandel-94320139.html",
@@ -16,6 +52,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sun, 24 May 2026 05:00:00 +0200"
+  },
+  {
+    "title": "Externe Beratung: Justizministerium verweist auf AfD-Anfrage – Innenministerium sieht sich „bedarfsgerecht“",
+    "snippet": "Wer gibt am meisten Geld für externe PR und andere Berater aus – und wie reagieren die Presseabteilungen auf solche Anfragen? Teil 2 der FR-Recherche.",
+    "url": "https://www.wa.de/politik/externe-pr-beratung-der-bundesministerien-justizministerium-verweist-auf-afd-anfrage-zr-94320293.html",
+    "source": "Westfälischer Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 09:09:10 +0200"
   },
   {
     "title": "Rollstuhlfahrer und Autofahrer stoßen zusammen – Senior schwer verletzt",
@@ -63,13 +108,13 @@
     "date": "Fri, 22 May 2026 20:20:00 +0200"
   },
   {
-    "title": "Tausende Aktivisten auf dem Weg nach Hamm: Erste Details zum Ablauf durchgesickert",
-    "snippet": "Fridays for Future, Ende Gelände und Greenpeace rufen zu Anti-Gas-Aktionen in Hamm auf. Die Polizei kündigt für Freitag Details zu Straßensperrungen an.",
-    "url": "https://www.wa.de/hamm/herringen-ort370529/tausende-aktivisten-erwartet-grossdemo-am-30-mai-vor-dem-gersteinwerk-94315614.html",
+    "title": "Neue Gastro: So unterschiedlich läuft es für die Lokale in der Innenstadt",
+    "snippet": "In Hamm haben in den vergangenen Monaten mehrere neue Gastronomen eröffnet. Manche haben schon Vollauslastung, andere kämpfen noch, zum Beispiel mit mit fehlenden Parkplätzen.",
+    "url": "https://www.wa.de/hamm/cafe-und-bars-hamm-innenstadt-so-laeuft-der-start-fuer-neue-restaurants-94315076.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Thu, 21 May 2026 05:30:00 +0200"
+    "date": "Thu, 21 May 2026 08:30:00 +0200"
   },
   {
     "title": "<b>ASH sucht wieder Ferienjobber:innen für die Müllabfuhr</b>",
@@ -81,28 +126,28 @@
     "date": "Mon, 18 May 2026 14:26:48 +0200"
   },
   {
-    "title": "DRK-Spenden-Affäre: Prozess dauert nur 20 Minuten – und steht vor Neustart",
-    "snippet": "Der Prozess zur DRK-Spenden-Affäre war schnell vorbei. Doch am Strafbefehl gegen den städtischen Mitarbeiter könnte sich noch etwas ändern.",
-    "url": "https://www.wa.de/hamm/gegen-frueheren-stadtmitarbeiter-wegen-drk-spendenkonto-hamm-strafbefehl-94315772.html",
+    "title": "Falsche Handwerker täuschen Senior – Verdächtige stehlen Schmuck und Bargeld",
+    "snippet": "Zwei Männer haben sich am Mittwoch in Hamm als Mitarbeiter einer Wohnbaugesellschaft ausgegeben und eine 85-jährige Frau bestohlen.",
+    "url": "https://www.wa.de/hamm/hamm-mitte-ort370531/falsche-handwerker-taeuschen-senior-verdaechtige-stehlen-schmuck-und-bargeld-94316041.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 19:30:00 +0200"
+    "date": "Thu, 21 May 2026 08:27:38 +0200"
   },
   {
-    "title": "Ein Leben für den leisen Humor: Beliebter Loriot-Darsteller stirbt mit 91 Jahren",
-    "snippet": "Hans Adler ist am 14. Mai im Alter von 91 Jahren gestorben. Vicco von Bülow gratulierte dem Ehepaar Adler einst persönlich zu ihren Loriot-Aufführungen.",
-    "url": "https://www.wa.de/hamm/hans-adler-ist-tot-loriot-darsteller-spielte-jahrzehntelang-in-hamm-94315675.html",
+    "title": "Autofahrer biegt ab – Jugendlicher auf E-Scooter wird erfasst",
+    "snippet": "Ein 14-Jähriger ist am Mittwoch in Hamm beim Abbiegen eines Autos mit seinem E-Scooter zusammengestoßen und kam ins Krankenhaus.",
+    "url": "https://www.wa.de/hamm/autofahrer-biegt-ab-jugendlicher-auf-scooter-wird-erfasst-94316035.html",
     "source": "WA Hamm",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 18:00:00 +0200"
+    "date": "Thu, 21 May 2026 08:23:37 +0200"
   },
   {
     "title": "Volvo überschlägt sich auf A1 bei Hamm und landet auf dem Dach",
     "snippet": "Auf der A1 ist am 1. Mai früh ein Volvo verunglückt. Der Kombi überschlug sich in einer Baustelle und blieb auf dem Dach liegen.",
     "url": "https://www.wa.de/nordrhein-westfalen/unfall-volvo-ueberschlaegt-sich-auf-a1-bei-hamm-bergkamen-94287369.html",
-    "source": "WA Bergkamen",
+    "source": "Westfälischer Anzeiger (Region Bergkamen)",
     "lang": "de",
     "scope": "city",
     "date": "Fri, 01 May 2026 08:45:57 +0200"
@@ -120,7 +165,7 @@
     "title": "Sri-Kamadchi-Ampal Tempel in Hamm besichtigt",
     "snippet": "Der Einladung des Arbeitskreises Asyl zur Führung durch den Sri-Kamadchi-Ampal Tempel in Hamm ist eine Gruppe interessierter Beckumerinnen und Beckumer gefolgt.",
     "url": "https://www.beckum.de/news/januar-bis-maerz-2025/tempel-besichtigt/",
-    "source": "beckum.de (official)",
+    "source": "Beckum (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 25 Mar 2025 23:00:00 GMT"

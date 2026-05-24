@@ -1,14 +1,5 @@
 [
   {
-    "title": "A vasvári bisztró B*zi Dózsa pizzával várta a Ferencváros szurkolóit",
-    "snippet": "Sonka, gomba, zöldhagyma.",
-    "url": "https://index.hu/sport/2025/09/13/szarvaskend-fradi-vasvar-pizzeria-dozsa-pizza/",
-    "source": "index.hu/Vasvár",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 13 Sep 2025 21:47:00 +0200"
-  },
-  {
     "title": "Halálra gázoltak egy gyalogost Vasváron",
     "snippet": "Parkoló autók közül lépett az úttestre. The post Halálra gázoltak egy gyalogost Vasváron first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2022/12/18/halalra-gazoltak-egy-gyalogost-vasvaron/",
@@ -18,13 +9,13 @@
     "date": "Sun, 18 Dec 2022 20:24:10 +0000"
   },
   {
-    "title": "Halálos baleset történt Vasvár közelében, meghalt egy fiatal édesanya",
-    "snippet": "Nem tudták megmenteni az életét.",
-    "url": "https://index.hu/belfold/2025/01/20/halalos-baleset-vasvar-rabahidveg-8-as-fout-fiatal-edesanya-meghalt/",
+    "title": "A vasvári bisztró B*zi Dózsa pizzával várta a Ferencváros szurkolóit",
+    "snippet": "Sonka, gomba, zöldhagyma.",
+    "url": "https://index.hu/sport/2025/09/13/szarvaskend-fradi-vasvar-pizzeria-dozsa-pizza/",
     "source": "index.hu/Vasvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Mon, 20 Jan 2025 07:04:00 +0100"
+    "date": "Sat, 13 Sep 2025 21:47:00 +0200"
   },
   {
     "title": "Baleset miatt lezárták a 8-as utat Vasvárnál",
@@ -36,13 +27,22 @@
     "date": "Mon, 16 May 2022 07:25:33 +0000"
   },
   {
-    "title": "Halálos gázolás történt Adonynál és Vasváron",
-    "snippet": "Az áldozatok a helyszínen életüket vesztették.",
-    "url": "https://index.hu/belfold/2022/12/18/halalesetek-gazolas-balesetek-sofor-gyalogos-vavar-adony/",
+    "title": "Halálos baleset történt Vasvár közelében, meghalt egy fiatal édesanya",
+    "snippet": "Nem tudták megmenteni az életét.",
+    "url": "https://index.hu/belfold/2025/01/20/halalos-baleset-vasvar-rabahidveg-8-as-fout-fiatal-edesanya-meghalt/",
     "source": "index.hu/Vasvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Sun, 18 Dec 2022 21:37:00 +0100"
+    "date": "Mon, 20 Jan 2025 07:04:00 +0100"
+  },
+  {
+    "title": "A Fidesz vitt Mikulás-csomagot a szentgotthárdi óvodába",
+    "snippet": "V. Németh Zsolt parlamenti képviselő segített be az ajándékozásba. The post A Fidesz vitt Mikulás-csomagot a szentgotthárdi óvodába first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2017/12/06/a-fidesz-vitt-mikulas-csomagot-a-szentgotthardi-ovodaba/",
+    "source": "24.hu/Vasvár",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 06 Dec 2017 09:45:12 +0000"
   },
   {
     "title": "2026.05.21. Tájékoztatás hulladékszállítással kapcsolatosan",
@@ -54,13 +54,13 @@
     "date": "Thu, 21 May 2026 13:14:31 +0000"
   },
   {
-    "title": "A Fidesz vitt Mikulás-csomagot a szentgotthárdi óvodába",
-    "snippet": "V. Németh Zsolt parlamenti képviselő segített be az ajándékozásba. The post A Fidesz vitt Mikulás-csomagot a szentgotthárdi óvodába first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2017/12/06/a-fidesz-vitt-mikulas-csomagot-a-szentgotthardi-ovodaba/",
-    "source": "24.hu/Vasvár",
+    "title": "Halálos gázolás történt Adonynál és Vasváron",
+    "snippet": "Az áldozatok a helyszínen életüket vesztették.",
+    "url": "https://index.hu/belfold/2022/12/18/halalesetek-gazolas-balesetek-sofor-gyalogos-vavar-adony/",
+    "source": "index.hu/Vasvár",
     "lang": "hu",
     "scope": "city",
-    "date": "Wed, 06 Dec 2017 09:45:12 +0000"
+    "date": "Sun, 18 Dec 2022 21:37:00 +0100"
   },
   {
     "title": "2025.05.20. Azbeszt tájékoztatás",

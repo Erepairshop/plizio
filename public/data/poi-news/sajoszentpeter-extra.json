@@ -1,14 +1,5 @@
 [
   {
-    "title": "Több vonatgázolás volt éjjel, elesett a ceglédi fővonal",
-    "snippet": "Autóbuszos pótlásra és terelésekre kell számítani hatósági helyszínelés miatt.",
-    "url": "https://index.hu/belfold/2026/04/01/mav-vasut-vonatgazolas-baleset-budapest-sajoszentpeter-cegled-szolnok-fovonal-autobusz-potlas/",
-    "source": "index.hu/Sajószentpéter",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 01 Apr 2026 06:45:00 +0200"
-  },
-  {
     "title": "Két vonatgázolás is történt szerdára virradóra",
     "snippet": "Budapesten és Sajószentpéteren. The post Két vonatgázolás is történt szerdára virradóra first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/01/vonatgazolas-budapest-borsod-szerda-ejjel/",
@@ -18,13 +9,13 @@
     "date": "Wed, 01 Apr 2026 04:13:23 +0000"
   },
   {
-    "title": "Felmondási hullám Sajószentpéteren, felállt a polgármesteri hivatal teljes felső vezetése",
-    "snippet": "A távozások nem előzmény nélküliek.",
-    "url": "https://index.hu/belfold/2026/01/30/sajoszentpeter-felmondas-polgarmesteri-hivatal-onkormanyzat-borsod-abauj-zemplen-varmegye/",
+    "title": "Több vonatgázolás volt éjjel, elesett a ceglédi fővonal",
+    "snippet": "Autóbuszos pótlásra és terelésekre kell számítani hatósági helyszínelés miatt.",
+    "url": "https://index.hu/belfold/2026/04/01/mav-vasut-vonatgazolas-baleset-budapest-sajoszentpeter-cegled-szolnok-fovonal-autobusz-potlas/",
     "source": "index.hu/Sajószentpéter",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 30 Jan 2026 16:34:00 +0100"
+    "date": "Wed, 01 Apr 2026 06:45:00 +0200"
   },
   {
     "title": "Két településen is veszélyessé vált a levegő minősége",
@@ -36,13 +27,13 @@
     "date": "Sat, 27 Dec 2025 08:55:18 +0000"
   },
   {
-    "title": "Ezt a hét várost támogatja a magyar kormány a költségvetés terhére",
-    "snippet": "Gyöngyös kapja a legtöbbet.",
-    "url": "https://index.hu/gazdasag/2025/11/21/magyar-kormany-tamogatas-het-varos/",
+    "title": "Felmondási hullám Sajószentpéteren, felállt a polgármesteri hivatal teljes felső vezetése",
+    "snippet": "A távozások nem előzmény nélküliek.",
+    "url": "https://index.hu/belfold/2026/01/30/sajoszentpeter-felmondas-polgarmesteri-hivatal-onkormanyzat-borsod-abauj-zemplen-varmegye/",
     "source": "index.hu/Sajószentpéter",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 21 Nov 2025 18:24:00 +0100"
+    "date": "Fri, 30 Jan 2026 16:34:00 +0100"
   },
   {
     "title": "„Azon kaptunk össze, melyikünk ivott több bort. Elcsattant pár pofon a húsz év alatt, de nagyon hiányzik” – sajnálkozott a párját agyonverő férfi",
@@ -52,5 +43,14 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 11 Nov 2025 10:13:16 +0000"
+  },
+  {
+    "title": "Ezt a hét várost támogatja a magyar kormány a költségvetés terhére",
+    "snippet": "Gyöngyös kapja a legtöbbet.",
+    "url": "https://index.hu/gazdasag/2025/11/21/magyar-kormany-tamogatas-het-varos/",
+    "source": "index.hu/Sajószentpéter",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 21 Nov 2025 18:24:00 +0100"
   }
 ]

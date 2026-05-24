@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ezen a KRESZ-teszten a legtöbb sofőr azonnal elhasal – te meg tudod oldani hibátlanul?",
+    "snippet": "Te hogy döntenél ebben a szituációban?",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/kresz-teszt-kozlekedes-szabalyok-villamos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:39:12 +0000"
+  },
+  {
+    "title": "Ezek a házak a vevők kedvencei, de nem vagy alig adnak rá hitelt a bankok",
+    "snippet": "A bankok nem szeretik, a felújítás kockázatos, mégis van, aki megveszi.",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/elado-valyoghaz-szolnokon-es-a-varmegyeben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:38:07 +0000"
+  },
+  {
+    "title": "Óriási fordulat Tiszaszentimrén, júniusban visszaáll a mindenkit érintő ellátás",
+    "snippet": "Júniustól ismét biztosított lesz a fogorvosi ellátás Tiszaszentimrén.",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/fogorvos-tiszaszentimre-ellatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:30:00 +0000"
+  },
+  {
     "title": "Szinte fékezés nélkül rohant bele egy kamion egy lerobbant kisteherautóba az M4-esen",
     "snippet": "Az esetről készült videót is közzétette az MKIF Zrt.",
     "url": "https://index.hu/belfold/2026/03/30/m4-autout-baleset-kisujszallas-mkif/",
@@ -16,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 20 Feb 2026 05:15:57 +0000"
+  },
+  {
+    "title": "Aktuális híreink",
+    "snippet": "Aktuális híreink",
+    "url": "http://www.kisujszallas.hu/hirek",
+    "source": "kisujszallas.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Mesék, fesztiválok, pályázatok – egész évben ünnepli Kisújszállás Csukás Istvánt",
@@ -43,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Fri, 20 Feb 2026 09:38:00 +0100"
-  },
-  {
-    "title": "Aktuális híreink",
-    "snippet": "Aktuális híreink",
-    "url": "http://www.kisujszallas.hu/hirek",
-    "source": "kisujszallas.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Méz ömlött a 4-es főútra harminc négyzetméteren",

@@ -36,24 +36,6 @@
     "date": "Tue, 19 May 2026 09:53:00 +0200"
   },
   {
-    "title": "Seniorenbeirat lädt zu Vortrag und Generationen-Frühstück ein",
-    "snippet": "Der Seniorenbeirat der Stadt Visselhövede lädt in den kommenden Wochen zu zwei öffentlichen Veranstaltungen ein.",
-    "url": "https://www.visselhoevede.de/portal/meldungen/seniorenbeirat-laedt-zu-vortrag-und-generationen-fruehstueck-ein-900000800-23850.html?rubrik=900000005",
-    "source": "Visselhövede (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 07:52:00 +0200"
-  },
-  {
-    "title": "Stellenausschreibung: Hausmeister für die städtischen Gebäude",
-    "snippet": "Die Stadt Visselhövede sucht zur Verstärkung unseres Bereiches 3 - Bauen zum nächstmöglichen Zeitpunkt einen Hausmeister für die städtischen Gebäude (m/w/d).",
-    "url": "https://www.visselhoevede.de/portal/meldungen/stellenausschreibung-hausmeister-fuer-die-staedtischen-gebaeude-900000799-23850.html?rubrik=900000018",
-    "source": "Visselhövede (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 18 May 2026 07:48:00 +0200"
-  },
-  {
     "title": "Die Vissel-Freitage sind zurück! 🍹☀️",
     "snippet": "Auch in diesem Sommer heißt es wieder: Musik, gute Stimmung und gemeinsame Abende auf dem Marktplatz genießen!",
     "url": "https://www.visselhoevede.de/portal/meldungen/die-vissel-freitage-sind-zurueck--900000797-23850.html?rubrik=900000006",
@@ -63,15 +45,6 @@
     "date": "Wed, 13 May 2026 16:12:00 +0200"
   },
   {
-    "title": "Vissel-Bad vorübergehend geschlossen",
-    "snippet": "Die Stadt Visselhövede informiert darüber, dass das Vissel-Bad aufgrund eines technischen Defekts vorübergehend geschlossen bleiben muss.",
-    "url": "https://www.visselhoevede.de/portal/meldungen/vissel-bad-voruebergehend-geschlossen-900000796-23850.html?rubrik=900000006",
-    "source": "Visselhövede (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 08:24:00 +0200"
-  },
-  {
     "title": "Stadtbücherei bietet jetzt bargeldlose Bezahlung an",
     "snippet": "",
     "url": "https://www.visselhoevede.de/portal/meldungen/stadtbuecherei-bietet-jetzt-bargeldlose-bezahlung-an-900000795-23850.html?rubrik=900000020",
@@ -79,5 +52,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Mon, 11 May 2026 09:38:00 +0200"
+  },
+  {
+    "title": "Leitlinien zum Bau-Turbo",
+    "snippet": "Mehr Tempo beim Wohnungsbau: Der Rat der Stadt Visselhövede hat Leitlinien zum Bau-Turbo beschlossen und damit klare Rahmenbedingungen für eine effizientere und transparentere Umsetzung von Wohnbauprojekten geschaffen.",
+    "url": "https://www.visselhoevede.de/portal/meldungen/leitlinien-zum-bau-turbo-900000794-23850.html?rubrik=900000004",
+    "source": "Visselhövede (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 08 May 2026 10:09:00 +0200"
   }
 ]

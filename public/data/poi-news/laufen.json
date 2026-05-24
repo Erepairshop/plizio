@@ -1,23 +1,5 @@
 [
   {
-    "title": "Jetzt neu: Im Newsletter alles rund ums Laufen in Leipzig erfahren",
-    "snippet": "Für die Lauf-Community in Leipzig",
-    "url": "https://www.lvz.de/sport/regional/jetzt-neu-im-newsletter-alles-rund-ums-laufen-in-leipzig-erfahren-5N23M7DORNEGTEITQMXJOMWVCM.html",
-    "source": "LVZ",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 09:03:00 +0200"
-  },
-  {
-    "title": "Laufevent in Hilden: Laufen bis zum Limit – neun Hildener wagen den Ultra Marathon",
-    "snippet": "Jede Stunde eine neue Runde, 6,7 Kilometer lang – so lange, bis nur ein Läufer übrig bleibt. Neun Hildener wollen das am Pfingstwochenende durchziehen. Doch der Lauf birgt gesundheitliche Risiken.",
-    "url": "https://rp-online.de/nrw/staedte/hilden/ultra-marathon-in-hilden-freundesgruppe-veranstaltet-mega-event_aid-148181591",
-    "source": "RP-Hilden",
-    "lang": "de",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 09:23:00 +0200"
-  },
-  {
     "title": "Laufen für guten Zweck: Warendorfer sammeln 15.500 Euro für Kinderhospizdienst",
     "snippet": "Drei Freunde haben mit dem Projekt „Paris-Marathon“ 15.500 Euro für den Kinder- und Jugendhospizdienst gesammelt. Jetzt wurde das Geld übergeben.",
     "url": "https://www.die-glocke.de/kreis-warendorf/warendorf/artikel/laufen-fuer-guten-zweck-15500-euro-fuer-kinderhospizdienst-1778168706",
@@ -36,15 +18,6 @@
     "date": "Sat, 15 Jun 2024 06:00:00 +0200"
   },
   {
-    "title": "Laufen und walken beim 44. Lohners Vulkan Marathon -2026 mit Spendenaktion für die Krebshilfe",
-    "snippet": "Wie immer am , 1. Mai, dieses Jahr an einem Freitag lädt die LG Laacher See am Mendiger Sportgelände an der Kreissporthalle zum 44. Mal zum „Lohners Vulkan Marathon“ ein die Zusammenarbeit mit der Polcher Großbäckerei „Die Lohners“ als Kooperationspartner und Namensgeber besteht seit nunmehr 17 Läuf",
-    "url": "https://stadt-mendig.de/neues-aus-dem-rathaus/laufen-und-walken-beim-44-lohners-vulkan-marathon-2026-mit-spendenaktion-fuer-die-krebshilfe/",
-    "source": "Mendig (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Mon, 09 Mar 2026 10:03:36 +0000"
-  },
-  {
     "title": "Das Wunder vom Laufen lernen beim Elterncafé",
     "snippet": "Während es sich die meisten Kinder im Rollenspielraum gemütlich machten und Dagmar Hora von der Stadtbibliothek beim Bilderbuchkino lauschten, erlebten ein paar wenige nebenan das Wunder vom Laufen lernen.",
     "url": "https://www.hoehr-grenzhausen.de/neuigkeiten/2019/juli/das-wunder-vom-laufen-lernen-beim-elterncafe/",
@@ -52,5 +25,14 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 05 Jul 2019 08:23:18 GMT"
+  },
+  {
+    "title": "Laufen und walken beim 44. Lohners Vulkan Marathon -2026 mit Spendenaktion für die Krebshilfe",
+    "snippet": "Wie immer am , 1. Mai, dieses Jahr an einem Freitag lädt die LG Laacher See am Mendiger Sportgelände an der Kreissporthalle zum 44. Mal zum „Lohners Vulkan Marathon“ ein die Zusammenarbeit mit der Polcher Großbäckerei „Die Lohners“ als Kooperationspartner und Namensgeber besteht seit nunmehr 17 Läuf",
+    "url": "https://stadt-mendig.de/neues-aus-dem-rathaus/laufen-und-walken-beim-44-lohners-vulkan-marathon-2026-mit-spendenaktion-fuer-die-krebshilfe/",
+    "source": "Mendig (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Mon, 09 Mar 2026 10:03:36 +0000"
   }
 ]

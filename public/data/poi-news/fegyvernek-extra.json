@@ -18,15 +18,6 @@
     "date": "Tue, 16 Sep 2025 11:45:00 +0200"
   },
   {
-    "title": "Halálos baleset történt Fegyverneknél",
-    "snippet": "Mentőhelikopter is érkezett a helyszínre, de a sofőrön már nem lehetett segíteni.",
-    "url": "https://index.hu/belfold/2024/03/11/halalos-baleset-frontalis-utkozes-kamion-auto-utlezaras-fegyvernek/",
-    "source": "index.hu/Fegyvernek",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Mon, 11 Mar 2024 15:23:00 +0100"
-  },
-  {
     "title": "Kiszökött az ablakon a fegyverneki tragédiában meghalt 13 éves fiú",
     "snippet": "Csak ő volt bekötve, senki más nem használta a biztonsági övet. The post Kiszökött az ablakon a fegyverneki tragédiában meghalt 13 éves fiú first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2019/05/28/fegyverneki-halalos-baleset-13-eves-fiu/",
@@ -36,22 +27,13 @@
     "date": "Tue, 28 May 2019 18:26:45 +0000"
   },
   {
-    "title": "Halálos baleset történt a 34-es főúton",
-    "snippet": "A helyszínen teljes útlezárás van.",
-    "url": "https://index.hu/belfold/2023/10/05/kozlekedeshalalos-kozuti-baleset-felfrontalis-utkozes-banhalma-fegyvernek-utlezaras/",
+    "title": "Halálos baleset történt Fegyverneknél",
+    "snippet": "Mentőhelikopter is érkezett a helyszínre, de a sofőrön már nem lehetett segíteni.",
+    "url": "https://index.hu/belfold/2024/03/11/halalos-baleset-frontalis-utkozes-kamion-auto-utlezaras-fegyvernek/",
     "source": "index.hu/Fegyvernek",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 05 Oct 2023 15:32:00 +0200"
-  },
-  {
-    "title": "Vízhiány",
-    "snippet": "Fegyvernek, Táncsics M. utca 25. alatti 6. sz. termelőkút elektromos vezérlőszekrénye meghibásodott, égésnyomok láthatók. Azonnali áramtalanítás megtörtént, a villanyszerelő és az aggregátor úton van a helyszínre. A hiba pontos oka a helyszíni felmérés után állapítható meg. Jelenleg a 4. és 7. sz. k",
-    "url": "http://www.fegyvernek.hu/node/2593",
-    "source": "fegyvernek.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 06:26:10 +0000"
+    "date": "Mon, 11 Mar 2024 15:23:00 +0100"
   },
   {
     "title": "Fegyverneki tragédia: újra járható a 4-es – fotók",
@@ -63,13 +45,22 @@
     "date": "Mon, 27 May 2019 04:54:08 +0000"
   },
   {
-    "title": "Az Előválasztási Bizottság szerint semmi probléma azzal, hogy kisbuszokkal viszik az embereket szavazni",
-    "snippet": "Az indoklás szerint csak a települések ötödén található szavazósátor.",
-    "url": "https://index.hu/belfold/2021/09/24/elovalasztas-jobbik-dk-lukacs-laszlo-gyorgy-utaztatas/",
+    "title": "Vízhiány",
+    "snippet": "Fegyvernek, Táncsics M. utca 25. alatti 6. sz. termelőkút elektromos vezérlőszekrénye meghibásodott, égésnyomok láthatók. Azonnali áramtalanítás megtörtént, a villanyszerelő és az aggregátor úton van a helyszínre. A hiba pontos oka a helyszíni felmérés után állapítható meg. Jelenleg a 4. és 7. sz. k",
+    "url": "http://www.fegyvernek.hu/node/2593",
+    "source": "fegyvernek.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 06:26:10 +0000"
+  },
+  {
+    "title": "Halálos baleset történt a 34-es főúton",
+    "snippet": "A helyszínen teljes útlezárás van.",
+    "url": "https://index.hu/belfold/2023/10/05/kozlekedeshalalos-kozuti-baleset-felfrontalis-utkozes-banhalma-fegyvernek-utlezaras/",
     "source": "index.hu/Fegyvernek",
     "lang": "hu",
     "scope": "city",
-    "date": "Fri, 24 Sep 2021 18:17:00 +0200"
+    "date": "Thu, 05 Oct 2023 15:32:00 +0200"
   },
   {
     "title": "Tragédia a 4-es főúton, hatan meghaltak",
@@ -79,6 +70,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 26 May 2019 22:07:37 +0000"
+  },
+  {
+    "title": "Az Előválasztási Bizottság szerint semmi probléma azzal, hogy kisbuszokkal viszik az embereket szavazni",
+    "snippet": "Az indoklás szerint csak a települések ötödén található szavazósátor.",
+    "url": "https://index.hu/belfold/2021/09/24/elovalasztas-jobbik-dk-lukacs-laszlo-gyorgy-utaztatas/",
+    "source": "index.hu/Fegyvernek",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Fri, 24 Sep 2021 18:17:00 +0200"
   },
   {
     "title": "Tájékoztatás a 2026. évi nyári szünidei gyermekétkeztetésről",

@@ -1,5 +1,32 @@
 [
   {
+    "title": "A rangadók rangadója, és bajnoki cím után az edző a büszkeségről is beszélt",
+    "snippet": "Küzdelemben nem volt hiány.",
+    "url": "https://www.boon.hu/helyi-sport/2026/05/sarospatak-erdohorvati-varmegyei-foci-kelet-csoport?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:30:00 +0000"
+  },
+  {
+    "title": "Nem unatkoztak a diósgyőri polgárőrök: több riasztás is érkezett egy este alatt",
+    "snippet": "A közrend fenntartása mellett több esetben is segítséget nyújtottak a diósgyőri polgárőrök.",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/polgaror-diosgyor-szolgalat-majus-22?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:20:00 +0000"
+  },
+  {
+    "title": "Eszeveszett száguldozás Miskolcon – megszólalt a rendőrség is",
+    "snippet": "Lakott területen belül, útfelújítási szakaszon száguldott keresztül egy autós 142 km/h-val Miskolcon",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/megengedett-sebesseg-sebessegtullepes-rendorseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
     "title": "Kiürítettek egy mezőkövesdi középiskolát, miután többen torokirritációra kezdtek panaszkodni",
     "snippet": "A katasztrófavédelem kiérkező szakemberei mobil labort is felállítottak a helyszínen. The post Kiürítettek egy mezőkövesdi középiskolát, miután többen torokirritációra kezdtek panaszkodni first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/02/23/iskola-kiuites-mezokovesd-torokirritacio/",
@@ -16,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 23 Feb 2026 16:48:00 +0100"
+  },
+  {
+    "title": "Vígjáték, szórakozás, vastaps",
+    "snippet": "Kultúra Vígjáték, szórakozás, vastaps Nagy sikerrel mutatta be vígjátékát a Bánfalvy Stúdió.",
+    "url": "http://www.mezokovesd.hu/hirek/kultura-c3",
+    "source": "mezokovesd.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Magyar Péter megkövette a mezőkövesdieket, és jobbulást kívánt Tállai Andrásnak",
@@ -43,15 +79,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 31 Jan 2026 12:28:51 +0000"
-  },
-  {
-    "title": "Vígjáték, szórakozás, vastaps",
-    "snippet": "Kultúra Vígjáték, szórakozás, vastaps Nagy sikerrel mutatta be vígjátékát a Bánfalvy Stúdió.",
-    "url": "http://www.mezokovesd.hu/hirek/kultura-c3",
-    "source": "mezokovesd.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "Országjárásra indult Magyar Péter, Mezőkövesd volt az első állomás",

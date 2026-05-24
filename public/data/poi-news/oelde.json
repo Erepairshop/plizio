@@ -1,5 +1,14 @@
 [
   {
+    "title": "New Model Army am 29. Mai auf der Waldbühne im Oelder Park",
+    "snippet": "In ihrem fünften Jahrzehnt auf der Bühne kommt New Model Army nach Oelde. Am 29. Mai werden sie im Vier-Jahreszeiten-Park erwartet.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/new-model-army-am-29-mai-auf-der-waldbuehne-im-oelder-park-1779468625",
+    "source": "Die Glocke oelde",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 09:09:00 +0200"
+  },
+  {
     "title": "Rückblick: Elefanten-Frühstück 1996 auf Oelder Schulhof",
     "snippet": "Oelde erinnert an kuriose Schlagzeilen: Elefanten am Thomas-Morus-Gymnasium, Tests gegen Fliegen in Biotonnen und Dino-Modelle in der Innenstadt.",
     "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/rueckblick-elefanten-fruehstueck-1996-auf-oelder-schulhof-1779459927",
@@ -7,15 +16,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 14:04:00 +0200"
-  },
-  {
-    "title": "Beim Gendern fährt SPD-Sprecher der FDP-Fraktion in die Parade",
-    "snippet": "Von Tempo-30 über gendergerechte Sprache bis zum Schulessen - der Oelder Rat musste jüngst viele Anträge behandeln. Erfolgreich waren wenige.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/beim-gendern-faehrt-spd-sprecher-der-fdp-fraktion-in-die-parade-1779465931",
-    "source": "Die Glocke oelde",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 08:19:00 +0200"
   },
   {
     "title": "Pendler betroffen: Vielbefahrene Straße zwischen Oelde und Münster wird gesperrt",
@@ -27,6 +27,15 @@
     "date": "Thu, 21 May 2026 11:22:00 +0200"
   },
   {
+    "title": "Beim Gendern fährt SPD-Sprecher der FDP-Fraktion in die Parade",
+    "snippet": "Von Tempo-30 über gendergerechte Sprache bis zum Schulessen - der Oelder Rat musste jüngst viele Anträge behandeln. Erfolgreich waren wenige.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/beim-gendern-faehrt-spd-sprecher-der-fdp-fraktion-in-die-parade-1779465931",
+    "source": "Die Glocke oelde",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sat, 23 May 2026 08:19:00 +0200"
+  },
+  {
     "title": "Pfingstenkranz: In Oelde wird eine einzigartige Tradition gefeiert",
     "snippet": "In Oelde und Umgebung wird seit vielen, vielen Jahren ein Brauchtum gepflegt: der Pfingstenkranz. Am Wochenende gibt es wieder mehrere Veranstaltungen anlässlich dieser Tradition.",
     "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/pfingstenkranz-in-oelde-wird-eine-einzigartige-tradition-gefeiert-1779285613",
@@ -34,15 +43,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 22 May 2026 17:30:00 +0200"
-  },
-  {
-    "title": "Kita gibt Auftakt für Oelder Pfingstenkranzfeste",
-    "snippet": "In Oelde wird mit dem Pfingstenkranz ein Brauchtum gefeiert, das über die Grenzen hinaus kaum bekannt ist. Ein stimmungsvoller Einblick:",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/kita-gibt-auftakt-fuer-oelder-pfingstenkranzfeste-1779461428",
-    "source": "Die Glocke oelde",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 16:39:00 +0200"
   },
   {
     "title": "22.05.2026 Parkbad: Geänderte Öffnungszeiten",
@@ -54,13 +54,22 @@
     "date": ""
   },
   {
-    "title": "Oelder Parkbad: Pfingstmontag von 8 bis 19 Uhr geöffnet",
-    "snippet": "Im Freibad im Oelder Vier-Jahreszeiten-Park gelten an Pfingstmontag sowie am 30. Mai geänderte Öffnungszeiten. Zudem sind Kurse gestartet.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/oelder-parkbad-pfingstmontag-von-8-bis-19-uhr-geoeffnet-1779460833",
+    "title": "Kita gibt Auftakt für Oelder Pfingstenkranzfeste",
+    "snippet": "In Oelde wird mit dem Pfingstenkranz ein Brauchtum gefeiert, das über die Grenzen hinaus kaum bekannt ist. Ein stimmungsvoller Einblick:",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/kita-gibt-auftakt-fuer-oelder-pfingstenkranzfeste-1779461428",
     "source": "Die Glocke oelde",
     "lang": "de",
     "scope": "city",
-    "date": "Fri, 22 May 2026 16:24:00 +0200"
+    "date": "Fri, 22 May 2026 16:39:00 +0200"
+  },
+  {
+    "title": "Raul Huesca Valverde leitet Chor TonArt in Stromberg",
+    "snippet": "Beim Chor TonArt in Stromberg folgt auf Hans Jörg Wever nun Raul Huesca Valverde. Mit ihm sollen neue musikalische Wege mit Traditionen verbunden werden.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/raul-huesca-valverde-leitet-chor-tonart-in-stromberg-1779291624",
+    "source": "Die Glocke oelde",
+    "lang": "de",
+    "scope": "city",
+    "date": "Thu, 21 May 2026 06:25:00 +0200"
   },
   {
     "title": "Vandalismus auf landwirtschaftlichem Lehrpfad in Lette",
@@ -81,13 +90,13 @@
     "date": "Wed, 20 May 2026 15:40:00 +0200"
   },
   {
-    "title": "Oelder Brauerei-Chef Jörg Pott ehrgeizig: Wollen dauerhaft 20.000 Gäste im Jahr",
-    "snippet": "Jüngst wurde bekannt, dass die Herforder Brauerei schließt. Die Bierbranche steckt in der Krise. Doch die Pott’s Brauerei in Oelde bleibt optimistisch und peilt ein ehrgeiziges Ziel an.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/potts-in-oelde-peilt-dauerhaft-20000-gaeste-im-jahr-an-1779280208",
+    "title": "Lions Club Beckum spendet an Oelder Hilfswerk",
+    "snippet": "Das Oelder Hilfswerk Schwester Petra hat eine Spende von 2000 Euro vom Lions Club Beckum bekommen. Anlass war ein Vortrag von Dr. Reinhold Festge.",
+    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/lions-club-beckum-spendet-an-oelder-hilfswerk-1778859016",
     "source": "Die Glocke oelde",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 11:50:00 +0200"
+    "date": "Sun, 17 May 2026 07:01:00 +0200"
   },
   {
     "title": "Ein Blick zurück: Wissenschaftliches Modellfliegen in Nepal",
@@ -106,15 +115,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 16 May 2026 12:07:00 +0200"
-  },
-  {
-    "title": "Oelder Feuerwehr verhindert Übergreifen der Flammen auf Wohnhaus",
-    "snippet": "Beim Brand einer Gartenhütte war der schnelle Einsatz der Oelder Feuerwehr gefordert. Sie verhinderte, dass Flammen auf ein Wohnhaus übergriffen.",
-    "url": "https://www.die-glocke.de/kreis-warendorf/oelde/artikel/oelder-feuerwehr-verhindert-uebergreifen-der-flammen-auf-wohnhaus-1778926808",
-    "source": "Die Glocke oelde",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 16 May 2026 12:06:00 +0200"
   },
   {
     "title": "19.05.2026 Modernes Umsteigen in Oelde",

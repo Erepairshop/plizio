@@ -1,5 +1,59 @@
 [
   {
+    "title": "Három hónap, ami mindent megváltoztat… vagy mégsem",
+    "snippet": "2026-ban szinte lehetetlen úgy megnyitni a közösségi médiát, hogy ne találkozzunk egy újabb életet ígérő tanfolyammal. „Válts karriert három hónap alatt!”, „Tanulj otthonról, és teremts",
+    "url": "https://hirnok.hu/harom-honap-ami-mindent-megvaltoztat-vagy-megsem/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Thu, 21 May 2026 17:39:29 +0000"
+  },
+  {
+    "title": "Az egycsillagos igazság",
+    "snippet": "Valami gyökeresen megváltozott a vásárlási szokásainkban. Már nem a hibátlan cégeket keressük, hanem azokat, amelyek képesek emberként viselkedni akkor is, amikor minden félremegy. De miért",
+    "url": "https://hirnok.hu/az-egycsillagos-igazsag/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 14:54:45 +0000"
+  },
+  {
+    "title": "Miért kötődünk érzelmileg is a telefonszámunkhoz?",
+    "snippet": "A hívás továbbra is a legerősebb kommunikációs forma – derül ki a Yettel országos kutatásából, amely a május 17-i, a távközlés világnapja apropóján vizsgálta a magyarok kapcsolattartási szokásait",
+    "url": "https://hirnok.hu/miert-kotodunk-erzelmileg-is-a-telefonszamunkhoz/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 13:53:29 +0000"
+  },
+  {
+    "title": "Az önéletrajz elemei, amik eldöntik, behívnak-e állásinterjúra",
+    "snippet": "Az önéletrajzoknál a különböző területeken eltérő szempontok alapján döntenek a cégek, ezért érdemes a jelentkezést az adott munkához igazítani. A Profession.hu kutatása szerint tízből kilenc",
+    "url": "https://hirnok.hu/az-oneletrajz-elemei-amik-eldontik-behivnak-e-allasinterjura/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 09:54:25 +0000"
+  },
+  {
+    "title": "Szebb arc, könnyebb élet?",
+    "snippet": "A tudomány szerint a vonzerő egyszerre lehet előny és társadalmi csapda A közösségi média korában a „pretty privilege”, vagyis a szépségből fakadó társadalmi előny fogalma",
+    "url": "https://hirnok.hu/szebb-arc-konnyebb-elet/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Wed, 13 May 2026 11:38:02 +0000"
+  },
+  {
+    "title": "Legfrissebb videó",
+    "snippet": "Legfrissebb videó Székely Bertalan - nap 2026 - Kiállítás megnyitó a Műteremházban",
+    "url": "https://www.szada.hu/videok/szekely-bertalan-nap-2026-kiallitas-megnyito-a-muteremhazban",
+    "source": "szada.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
+  },
+  {
     "title": "Kiengedték a kórházból a szenteste autóbalesetet szenvedő Bardóczy Kornél szövetségi kapitányt",
     "snippet": "Az ütközést okozó sofőr ittas volt.",
     "url": "https://index.hu/sport/tenisz/2025/12/28/bardoczky-kornel-davis-kupa-valogatott-szovetsegi-kapitany-baleset-gyogyulas/",
@@ -16,6 +70,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 28 Dec 2025 21:07:55 +0000"
+  },
+  {
+    "title": "Suzuki: biztosra mennek…",
+    "snippet": "Csak egy (teszt)példa. Igen kellemes autó a Suzuki Swift! A jelenkor Swiftje persze már más, mint azelőtt. Mokány hibrid, 5 körüli fogyasztással, strapabíró futóművel. A",
+    "url": "https://hirnok.hu/suzuki-biztosra-mennek/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sat, 09 May 2026 19:23:41 +0000"
   },
   {
     "title": "Újabb magyar tehetség külföldön: Papp Ferenc a Real Sociedadnál bizonyíthat",
@@ -36,6 +99,15 @@
     "date": "Thu, 25 Dec 2025 10:05:03 +0000"
   },
   {
+    "title": "Drasztikusan nőttek a gyermekek elleni online szexuális visszaélések",
+    "snippet": "Egyre súlyosabb problémát jelentenek a gyermekekkel szemben elkövetett szexuális visszaélések – derül ki a gyermekek online szexuális kizsákmányolása ellen küzdő nemzetközi szövetség, az INHOPE (International",
+    "url": "https://hirnok.hu/drasztikusan-nottek-a-gyermekek-elleni-online-szexualis-visszaelesek/",
+    "source": "hirnok.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Tue, 05 May 2026 14:30:46 +0000"
+  },
+  {
     "title": "Tovább izmosodott a magyar étrendkiegészítő-óriás – történelmet írt a BioTech",
     "snippet": "A soha nem látott infrastrukturális fejlesztések megtriplázzák a gyártókapacitást, miközben garanciát vállalnak a minőségre.",
     "url": "https://index.hu/gazdasag/2025/03/13/biotechusa-biotech-szeletgyarto-infrastruktura-szada-fejlesztes-etrendkiegeszito-feherjeszelet-logisztika-gyartokozpont/",
@@ -43,15 +115,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 13 Mar 2025 10:34:00 +0100"
-  },
-  {
-    "title": "Legfrissebb videó",
-    "snippet": "Legfrissebb videó Székely Bertalan - nap 2026 - Kiállítás megnyitó a Műteremházban",
-    "url": "https://www.szada.hu/videok/szekely-bertalan-nap-2026-kiallitas-megnyito-a-muteremhazban",
-    "source": "szada.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
   },
   {
     "title": "A magyar vállalat, mely piaci alapon fejlesztett 9 milliárdért, és melynek termékei még Nepálba is eljutnak",

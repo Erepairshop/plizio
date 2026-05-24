@@ -1,14 +1,5 @@
 [
   {
-    "title": "Circulația trenurilor spre Aeroportul Otopeni, oprită în perioada 26-29 mai, într-un anumit interval orar, pentru lucrări de mentenanță",
-    "snippet": "Circulația trenurilor pe ruta Bucureşti Nord - Pajura - Mogoşoaia - Aeroport Henri Coandă T1 va fi oprită în perioada 26 - 29 mai, între orele 10:30 - 15:30, pentru executarea unor lucrări de mentenanţă, a anunţat CFR SA.",
-    "url": "https://www.digi24.ro/stiri/economie/transporturi/circulatia-trenurilor-spre-aeroportul-otopeni-oprita-in-perioada-26-29-mai-intr-un-anumit-interval-orar-pentru-lucrari-de-mentenanta-3781957",
-    "source": "digi24.ro",
-    "lang": "ro",
-    "scope": "national",
-    "date": "Fri, 22 May 2026 17:49:33 +0300"
-  },
-  {
     "title": "Trenurile spre Aeroportul Otopeni, blocate câte 5 ore pe zi, de marți până vineri",
     "snippet": "Traficul feroviar între Gara de Nord și Aeroportul Internațional Henri Coandă (Otopeni) va fi afectat, zilnic, în perioada 26 29 mai 2026, între orele 10.30 și 15.30, din cauza unor lucrări de întreținere și mentenanță programate de CFR SA. Compania Naţională de Căi Ferate CFR SA informează că circu",
     "url": "https://www.libertatea.ro/stiri/trenuri-oprite-gara-nord-bucuresti-aeroportul-otopeni-5-ore-marti-vineri-5750850",
@@ -18,13 +9,49 @@
     "date": "Sat, 23 May 2026 12:39:10 +0300"
   },
   {
-    "title": "Școala Gimnazială Nr. 2 Chitila, gazdă a etapei județene a Olimpiadei ”Meșteșuguri Artistice Tradiționale”. Concurs dedicat  păstrării identităţii culturale româneşti",
-    "snippet": "@ Peste 100 de elevi și-au arătat îndemânarea, creativitatea și respectul pentru tradițiile populare și au realizat lucrări inspirate din patrimoniul cultural autentic, demonstrând nu doar talent artistic și dexteritate tehnică, ci și cunoștințe solide despre simbolistica, tehnicile și specificul me",
-    "url": "https://jurnaluldeilfov.ro/scoala-gimnaziala-nr-2-chitila-gazda-a-etapei-judetene-a-olimpiadei-mestesuguri-artistice-traditionale-concurs-dedicat-pastrarii-identitatii-culturale-romanesti/",
-    "source": "jurnaluldeilfov.ro",
+    "title": "Cristian Mungiu obține al doilea trofeu Palme d’Or din carieră cu filmul “Fjord”",
+    "snippet": "Lungmetrajul “Fjord”, regizat de cineastul român Cristian Mungiu, a câștigat trofeul Palme d’Or la cea de-a 79-a ediție a Festivalului de Film. Este al doilea trofeu Palme d’Or pentru Mungiu, care triumfa la Cannes și în 2007, cu filmul “4 luni, 3 săptămâni și 2 zile“. Cristian Mungiu român este la ",
+    "url": "https://viitorulilfovean.ro/cristian-mungiu-obtine-al-doilea-trofeu-palme-dor-din-cariera-cu-filmul-fjord/",
+    "source": "Viitorul Ilfovean",
     "lang": "ro",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 14:38:35 +0000"
+    "scope": "county",
+    "date": "Sun, 24 May 2026 05:53:43 +0000"
+  },
+  {
+    "title": "Oana Țoiu: Spațiul Inițiativei Central Europene, cu 160 de milioane de cetățeni și un PIB combinat de 5.000 de miliarde de euro, este regiunea unde vedem potențialul de creştere, România asigurând Pre",
+    "snippet": "Ministrul afacerilor externe, Oana Țoiu, a participat în perioada 22-23 mai 2026, la Praga, la cea de-a 21-a ediție a Forumului GLOBSEC. Evenimentul reprezintă una dintre cele mai importante platforme de dezbatere la nivel european dedicate temelor de securitate și apărare. Forumul se desfășoară sub",
+    "url": "https://viitorulilfovean.ro/oana-toiu-spatiul-initiativei-central-europene-cu-160-de-milioane-de-cetateni-si-un-pib-combinat-de-5-000-de-miliarde-de-euro-este-regiunea-unde-vedem-potentialul-de-crestere-romania-asigurand-pre/",
+    "source": "Viitorul Ilfovean",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 05:51:25 +0000"
+  },
+  {
+    "title": "TPBI: linia 780, repusă în funcțiune în perioada 26.05-29.05.2026",
+    "snippet": "Linia de autobuz 780 va funcționa în perioada 26-29 mai 2026, între orele 09:30-16:00, asigurând legătura între Gara Basarab/ Gara de Nord și Aeroportul Internațional „Henri Coandă . Măsura a fost luată de Asociația de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov (TPBI) ca ur",
+    "url": "https://viitorulilfovean.ro/tpbi-linia-780-repusa-in-functiune-in-perioada-26-05-29-05-2026/",
+    "source": "Viitorul Ilfovean",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 05:44:49 +0000"
+  },
+  {
+    "title": "Circulația trenurilor spre Aeroportul Otopeni, oprită în perioada 26-29 mai, într-un anumit interval orar, pentru lucrări de mentenanță",
+    "snippet": "Circulația trenurilor pe ruta Bucureşti Nord - Pajura - Mogoşoaia - Aeroport Henri Coandă T1 va fi oprită în perioada 26 - 29 mai, între orele 10:30 - 15:30, pentru executarea unor lucrări de mentenanţă, a anunţat CFR SA.",
+    "url": "https://www.digi24.ro/stiri/economie/transporturi/circulatia-trenurilor-spre-aeroportul-otopeni-oprita-in-perioada-26-29-mai-intr-un-anumit-interval-orar-pentru-lucrari-de-mentenanta-3781957",
+    "source": "digi24.ro",
+    "lang": "ro",
+    "scope": "national",
+    "date": "Fri, 22 May 2026 17:49:33 +0300"
+  },
+  {
+    "title": "PSD, PNL, USR, UDMR au semnat un acord pentru adoptarea noii legi a salarizării în sectorul public",
+    "snippet": "Partidele din fosta coaliţie de guvernare – PSD, PNL, USR şi UDMR – au semnat un acord, în urma unui proces de mediere coordonat de Administraţia Prezidenţială, prin care îşi asumă adoptarea noii legi a salarizării până la finalul actualei sesiuni parlamentare. În urma unui proces de mediere desfășu",
+    "url": "https://viitorulilfovean.ro/psd-pnl-usr-udmr-au-semnat-un-acord-pentru-adoptarea-noii-legi-a-salarizarii-in-sectorul-public/",
+    "source": "Viitorul Ilfovean",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 05:45:42 +0000"
   },
   {
     "title": "Trenurile spre aeroportul Otopeni nu vor circula în perioada 26 – 29 mai",
@@ -36,13 +63,22 @@
     "date": "Fri, 22 May 2026 11:16:15 +0000"
   },
   {
-    "title": "Eveniment cultural dedicat memoriei și tradiției  instituționale.  170 de ani de istorie  a Jandarmeriei  Române",
-    "snippet": "După succesul obținut în 29 de muzee din țară, expoziția itinerantă de istorie a ajuns la Galeria Parter Palat a Centrului de Cultură ”Palatele Brâncovenești de la Porțile Bucureștiului” Muzeul Național de Istorie a României, în parteneriat cu Muzeul Casa Mureșenilor Brașov, Inspectoratul General al",
-    "url": "https://jurnaluldeilfov.ro/eveniment-cultural-dedicat-memoriei-si-traditiei-institutionale-170-de-ani-de-istorie-a-jandarmeriei-romane/",
-    "source": "jurnaluldeilfov.ro",
+    "title": "Oana Țoiu, la Forumul GLOBSEC 2026 de la Praga",
+    "snippet": "Ministrul afacerilor externe, Oana Țoiu, participă, în perioada 22-23 mai 2026, la Praga (Cehia), la cea de-a 21-a ediție a Forumului GLOBSEC, una dintre cele mai influente platforme europene de dezbatere pe teme de securitate, apărare și ordine internațională. Ediția din acest an se desfășoară sub ",
+    "url": "https://viitorulilfovean.ro/oana-toiu-la-forumul-globsec-2026-de-la-praga/",
+    "source": "Viitorul Ilfovean",
     "lang": "ro",
-    "scope": "city",
-    "date": "Wed, 20 May 2026 14:20:08 +0000"
+    "scope": "county",
+    "date": "Sat, 23 May 2026 05:43:40 +0000"
+  },
+  {
+    "title": "112 programe de formare profesională vor începe în iunie 2026, la nivel național",
+    "snippet": "Agenția Națională pentru Ocuparea Forței de Muncă va organiza în luna iunie 2026, 112 programe de formare profesională pentru un număr de 1.793 persoane care beneficiază, conform legii, de servicii de formare profesională gratuite, organizate de agenţiile județene pentru ocuparea forţei de muncă şi ",
+    "url": "https://viitorulilfovean.ro/112-programe-de-formare-profesionala-vor-incepe-in-iunie-2026-la-nivel-national/",
+    "source": "Viitorul Ilfovean",
+    "lang": "ro",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 05:40:10 +0000"
   },
   {
     "title": "Orașul Buftea, un pol de conservare și promovare a patrimoniului tradițional ilfovean. Casa lui Lişcă, readusă la viaţă în Parcul dintre Flori",
@@ -54,6 +90,15 @@
     "date": "Tue, 19 May 2026 07:54:53 +0000"
   },
   {
+    "title": "Școala Gimnazială Nr. 2 Chitila, gazdă a etapei județene a Olimpiadei ”Meșteșuguri Artistice Tradiționale”. Concurs dedicat  păstrării identităţii culturale româneşti",
+    "snippet": "@ Peste 100 de elevi și-au arătat îndemânarea, creativitatea și respectul pentru tradițiile populare și au realizat lucrări inspirate din patrimoniul cultural autentic, demonstrând nu doar talent artistic și dexteritate tehnică, ci și cunoștințe solide despre simbolistica, tehnicile și specificul me",
+    "url": "https://jurnaluldeilfov.ro/scoala-gimnaziala-nr-2-chitila-gazda-a-etapei-judetene-a-olimpiadei-mestesuguri-artistice-traditionale-concurs-dedicat-pastrarii-identitatii-culturale-romanesti/",
+    "source": "jurnaluldeilfov.ro",
+    "lang": "ro",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 14:38:35 +0000"
+  },
+  {
     "title": "Talent, emoție și performanță artistică la Școala de Arte nr. 5 din București ”Armonii de Primăvară”, ediţia a XXII-a",
     "snippet": "Sâmbătă, 16 mai 2026, Școala de Arte nr. 5 din București a găzduit etapa zonală a Concursului de Interpretare Vocală și Instrumentală ”Armonii de Primăvară”, ajuns anul acesta la ediția a XXII-a. Evenimentul a reunit elevi talentați din toate cele șase sectoare ale Capitalei și din județul Ilfov, tr",
     "url": "https://jurnaluldeilfov.ro/talent-emotie-si-performanta-artistica-la-scoala-de-arte-nr-5-din-bucuresti-armonii-de-primavara-editia-a-xxii-a/",
@@ -61,15 +106,6 @@
     "lang": "ro",
     "scope": "city",
     "date": "Tue, 19 May 2026 07:49:43 +0000"
-  },
-  {
-    "title": "Eveniment construit pentru oameni și împreună cu oamenii. ”Urban Picnic Măgurele”, o primă ediţie care a adus, din nou, comunitatea împreună",
-    "snippet": "Prima ediție ”Urban Picnic Măgurele” a reușit să transforme, sâmbăta trecută, un spațiu al comunității într-un loc al întâlnirii, creativității, relaxării și bucuriei de a fi împreună. Evenimentul a fost gândit ca un manifest artistic și comunitar dedicat oamenilor din Măgurele, familiilor, copiilor",
-    "url": "https://jurnaluldeilfov.ro/eveniment-construit-pentru-oameni-si-impreuna-cu-oamenii-urban-picnic-magurele-o-prima-editie-care-a-adus-din-nou-comunitatea-impreuna/",
-    "source": "jurnaluldeilfov.ro",
-    "lang": "ro",
-    "scope": "city",
-    "date": "Tue, 19 May 2026 07:58:30 +0000"
   },
   {
     "title": "PPC – Comunicat de presă",

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Vonatbaleset Martfűnél: autóval ütközött a szerelvény, a sofőr meghalt",
-    "snippet": "Eközben Budapesten is leállt egy karambol miatt a 6-os villamos.",
-    "url": "https://index.hu/belfold/2023/12/21/vonatbaleset-martfunel-autoval-utkozott-a-szerelveny-a-sofor-meghalt/",
-    "source": "index.hu/Martfű",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 21 Dec 2023 19:27:00 +0100"
-  },
-  {
     "title": "Bevallotta bűnösségét a mentőautó előtt büntetőfékező férfi",
     "snippet": "Közúti veszélyeztetés miatt indult eljárás Á. András ellen. The post Bevallotta bűnösségét a mentőautó előtt büntetőfékező férfi first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2020/03/30/mentoauto-buntetofekezes-elfogas-vallomas/",
@@ -16,6 +7,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 30 Mar 2020 13:51:10 +0000"
+  },
+  {
+    "title": "Vonatbaleset Martfűnél: autóval ütközött a szerelvény, a sofőr meghalt",
+    "snippet": "Eközben Budapesten is leállt egy karambol miatt a 6-os villamos.",
+    "url": "https://index.hu/belfold/2023/12/21/vonatbaleset-martfunel-autoval-utkozott-a-szerelveny-a-sofor-meghalt/",
+    "source": "index.hu/Martfű",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 21 Dec 2023 19:27:00 +0100"
   },
   {
     "title": "Megbeszélés a martfűi Körforgalom virágosításáról",
@@ -27,15 +27,6 @@
     "date": "Tue, 31 Mar 2026 05:18:46 +0000"
   },
   {
-    "title": "Kamion gázolt Martfűn",
-    "snippet": "Nyolc napon túl gyógyuló sérüléseket szenvedett egy nő.",
-    "url": "https://index.hu/belfold/2023/06/07/gazolas-martfu-jasz-nagykun-szolnok-megye-kamion-bicikli-baleset/",
-    "source": "index.hu/Martfű",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 07 Jun 2023 12:10:00 +0200"
-  },
-  {
     "title": "A zebrán gázoltak el egy gyalogost Martfűn",
     "snippet": "Szerencsére csak megsérült. The post A zebrán gázoltak el egy gyalogost Martfűn first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2015/11/28/a-zebran-gazoltak-el-egy-gyalogost-martfun/",
@@ -43,6 +34,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sat, 28 Nov 2015 17:29:20 +0000"
+  },
+  {
+    "title": "Kamion gázolt Martfűn",
+    "snippet": "Nyolc napon túl gyógyuló sérüléseket szenvedett egy nő.",
+    "url": "https://index.hu/belfold/2023/06/07/gazolas-martfu-jasz-nagykun-szolnok-megye-kamion-bicikli-baleset/",
+    "source": "index.hu/Martfű",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 07 Jun 2023 12:10:00 +0200"
   },
   {
     "title": "For visitors / für Besucher",
@@ -63,15 +63,6 @@
     "date": "Mon, 30 Mar 2026 05:12:58 +0000"
   },
   {
-    "title": "Frontális ütközés Martfűnél, egy ember meghalt, többen megsérültek",
-    "snippet": "A baleset a 442-es számú úton történt.",
-    "url": "https://index.hu/belfold/2022/11/19/utkozes-karambol-baleset-rendorseg-martfu/",
-    "source": "index.hu/Martfű",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sat, 19 Nov 2022 17:17:00 +0100"
-  },
-  {
     "title": "Elfogták a földvári tragédia okozóját",
     "snippet": "A gyanú szerint a férfi ittasan vezetett, amikor két ember halálát okozta a 442-es főuton. Valószínűleg épp a mobilját kereste, amikor ütközött. The post Elfogták a földvári tragédia okozóját first appeared on 24.hu .",
     "url": "https://24.hu/kozelet/2015/07/19/elfogtak-a-foldvari-tragedia-okozojat/",
@@ -79,6 +70,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Sun, 19 Jul 2015 11:32:23 +0000"
+  },
+  {
+    "title": "Frontális ütközés Martfűnél, egy ember meghalt, többen megsérültek",
+    "snippet": "A baleset a 442-es számú úton történt.",
+    "url": "https://index.hu/belfold/2022/11/19/utkozes-karambol-baleset-rendorseg-martfu/",
+    "source": "index.hu/Martfű",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sat, 19 Nov 2022 17:17:00 +0100"
   },
   {
     "title": "Beszámoló a Tisza Élővilágának Emléknapjáról",

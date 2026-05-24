@@ -1,23 +1,5 @@
 [
   {
-    "title": "POL-MA: Heidelberg: Fahrzeugbrand in der Heidelberger Altstadt, PM 2",
-    "snippet": "Heidelberg (ots) - Wie bereits berichtet, https://www.presseportal.de/blaulicht/pm/14915/6280670, kam es zu einem Einsatz von Polizei und Feuerwehr. Der Fahrzeugbrand ist mittlerweile gelöscht, ein Übergreifen auf Gebäude wurde rechtzeitig durch ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/14915/6280675",
-    "source": "Presseportal Polizei-BW",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 01:09:37 +0200"
-  },
-  {
-    "title": "POL-MA: Heidelberg: Fahrzeugbrand in der Heidelberger Altstadt, PM 1",
-    "snippet": "Heidelberg (ots) - Derzeit kommt es aufgrund eines Fahrzeugbrandes am Kornmarkt in Heidelberg zu einem Polizei- und Feuerwehreinsatz. Nähere Informationen liegen nocht nicht vor. Es wird nachberichtet. Rückfragen bitte an: Polizeipräsidium ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/14915/6280670",
-    "source": "Presseportal Polizei-BW",
-    "lang": "de",
-    "scope": "national",
-    "date": "Sun, 24 May 2026 00:31:31 +0200"
-  },
-  {
     "title": "Hoffnung im Heidelberger Zoo: Acht Vietnamfasane schlüpfen",
     "snippet": "Im Zoo Heidelberg gibt es gleich doppelt Grund zur Freude: Acht seltene Vietnamfasane sind geschlüpft – und 20 Tiere wurden gerade für ein Artenschutzprojekt nach Vietnam gebracht.",
     "url": "https://www.heidelberg24.de/heidelberg/hoffnung-heidelberger-zoo-acht-vietnamfasane-schluepfen-94318405.html",
@@ -45,15 +27,6 @@
     "date": "Fri, 22 May 2026 08:01:18 +0200"
   },
   {
-    "title": "„Feuer & Flamme“: Drehstart zur zweiten Staffel aus Heidelberg",
-    "snippet": "„Feuer & Flamme“: Drehstart zur zweiten Staffel aus Heidelberg Die Doku-Serie „Feuer & Flamme\" startet in ihre 13. Staffel – und kehrt nach Heidelberg zurück. Seit Dienstag, 19. Mai 2026, begleitet das Team der SEO Entertainment die Berufsfeuerwehr der Stadt Heidelberg über 100 Tage hautnah. mehr da",
-    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/params_E2138536439/7071/7074/5424839/5424829/5884151/5884152/37_topteaser_startseite_Feuer_%20Flamme%201_by%20Feuerwehr%20Heidelberg.jpg",
-    "source": "heidelberg.de (hivatalos)",
-    "lang": "de",
-    "scope": "city",
-    "date": ""
-  },
-  {
     "title": "Tipps für Pfingsten – was du in Heidelberg und Umgebung unternehmen kannst",
     "snippet": "Heidelberg - Pfingstferien, Sonne und die Frage: Was machen wir heute? Zwischen Neckarufer und Schloss-Kulisse haben wir ein paar Events entdeckt, die du dir merken solltest.",
     "url": "https://www.heidelberg24.de/heidelberg/pfingsten-heidelberg-unternehmen-tipps-freizeit-termine-ausfluege-94314965.html",
@@ -70,6 +43,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Wed, 20 May 2026 10:04:28 +0200"
+  },
+  {
+    "title": "„Feuer & Flamme“: Drehstart zur zweiten Staffel aus Heidelberg",
+    "snippet": "„Feuer & Flamme“: Drehstart zur zweiten Staffel aus Heidelberg Die Doku-Serie „Feuer & Flamme\" startet in ihre 13. Staffel – und kehrt nach Heidelberg zurück. Seit Dienstag, 19. Mai 2026, begleitet das Team der SEO Entertainment die Berufsfeuerwehr der Stadt Heidelberg über 100 Tage hautnah. mehr da",
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/params_E2138536439/7071/7074/5424839/5424829/5884151/5884152/37_topteaser_startseite_Feuer_%20Flamme%201_by%20Feuerwehr%20Heidelberg.jpg",
+    "source": "heidelberg.de (hivatalos)",
+    "lang": "de",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Flugzeugunglück in Limburgerhof: Heidelberger Krankenhaus trauert um Klinik-Chef (†66)",

@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 11:23:59 +0200"
   },
   {
-    "title": "Täter auf der Flucht: Türke in Kreuzberg niedergeschossen und schwer verletzt",
-    "snippet": "Ein Mann wurde am Freitagabend in Berlin-Kreuzberg angeschossen und schwer verletzt. Der Täter ist auf der Flucht.",
-    "url": "https://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/mann-in-kreuzberg-angeschossen",
-    "source": "B.Z. Berlin",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 11:37:36 +0200"
-  },
-  {
     "title": "Schon wieder Schüsse in Berlin - Mann in Kreuzberg schwer verletzt",
     "snippet": "In Berlin wurde schon wieder eine Person durch Schüsse verletzt.",
     "url": "https://www.bild.de/regional/berlin/schon-wieder-schuesse-in-berlin-mann-in-kreuzberg-schwer-verletzt-6a11326ff0f7eb608db7b2bf",
@@ -36,15 +27,6 @@
     "date": "Fri, 22 May 2026 16:13:00 +0200"
   },
   {
-    "title": "Schüsse auf fahrendes Auto in Kreuzberg – Clanmitglieder als Ziel?",
-    "snippet": "Mitten am Tag fielen am Donnerstag Schüsse in Berlin-Kreuzberg. Kurz darauf stoppte die Polizei ein Fahrzeug mit mehreren Einschusslöchern.",
-    "url": "https://www.morgenpost.de/berlin/article412061829/schuesse-in-kreuzberg-kriminelle-feuern-von-motorroller-auf-fahrendes-auto.html",
-    "source": "Berliner Morgenpost",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:43:35 +0200"
-  },
-  {
     "title": "Kreuzberg: Von Motorroller aus auf fahrendes Auto geschossen",
     "snippet": "",
     "url": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-kreuzberg-schuesse-motorroller-auto-polizei.html",
@@ -52,6 +34,15 @@
     "lang": "de",
     "scope": "region",
     "date": "Fri, 22 May 2026 11:57:40 +0200"
+  },
+  {
+    "title": "Schüsse auf fahrendes Auto in Kreuzberg – Clanmitglieder als Ziel?",
+    "snippet": "Mitten am Tag fielen am Donnerstag Schüsse in Berlin-Kreuzberg. Kurz darauf stoppte die Polizei ein Fahrzeug mit mehreren Einschusslöchern.",
+    "url": "https://www.morgenpost.de/berlin/article412061829/schuesse-in-kreuzberg-kriminelle-feuern-von-motorroller-auf-fahrendes-auto.html",
+    "source": "Berliner Morgenpost",
+    "lang": "de",
+    "scope": "city",
+    "date": "Fri, 22 May 2026 11:43:35 +0200"
   },
   {
     "title": "Schwer verletzt ins Krankenhaus gebracht: 25-Jähriger in Berlin-Kreuzberg angeschossen – Schütze auf der Flucht",

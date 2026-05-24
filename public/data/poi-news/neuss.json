@@ -1,5 +1,23 @@
 [
   {
+    "title": "Handwerk in Meerbusch: Uhrmacher repariert Erbstücke – und bewahrt Familiengeschichten",
+    "snippet": "Thomas Wunderlich repariert seit etwa 30 Jahren Uhren in Meerbusch. In einem Punkt hat sich ein Beruf verändert – aus einem bestimmten Segment nimmt er keine Armbanduhren mehr an. Warum das so ist.",
+    "url": "https://rp-online.de/nrw/staedte/neuss/meerbusch-das-macht-der-uhrmacher-thomas-wunderlich_aid-147805249",
+    "source": "Neuß-Grevenbroicher Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 08:30:00 +0200"
+  },
+  {
+    "title": "Integration in Neuss: Ukrainischer Architekt wird Laga-Projektleiter",
+    "snippet": "Andrii Safronov kam 2022 aus der Ukraine nach Deutschland – heute leitet er Projekte bei der Landesgartenschau. Sein Weg dorthin verlief ungewöhnlich.",
+    "url": "https://rp-online.de/nrw/staedte/neuss/neuss-andrii-safronov-arbeitet-bei-der-laga-als-projektleiter_aid-148241793",
+    "source": "Neuß-Grevenbroicher Zeitung",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 08:00:00 +0200"
+  },
+  {
     "title": "Laga-Riesenrad in Neuss: „Die Auslastung ist momentan dröppelig“",
     "snippet": "40.000 Euro Betriebskosten pro Monat, aber kaum Fahrgäste unter der Woche: Das Riesenrad am Eingang zur Neusser Landesgartenschau kämpft mit schwacher Auslastung. Wo der Betreiber die Ursachen sieht – und was er jetzt unternehmen will.",
     "url": "https://rp-online.de/nrw/staedte/neuss/landesgartenschau/neuss-betreiber-von-laga-riesenrad-klagt-ueber-geringe-auslastung-v1_aid-148687797",
@@ -7,15 +25,6 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 07:52:00 +0200"
-  },
-  {
-    "title": "Harter Ausbildungsmarkt in Neuss trotz weniger Abiturienten: „Ich war ein bisschen deprimiert, um ehrlich zu sein“",
-    "snippet": "Einzig an den Gesamtschulen wird es in NRW in diesem Jahr Abiturienten geben. Haben es die Absolventen dadurch leichter, einen Ausbildungsplatz zu bekommen? Wir haben nachgefragt.",
-    "url": "https://rp-online.de/nrw/staedte/neuss/neuss-harter-ausbildungsmarkt-trotz-weniger-abiturienten-in-nrw-durch-g9_aid-148680323",
-    "source": "Neuß-Grevenbroicher Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Sat, 23 May 2026 04:50:00 +0200"
   },
   {
     "title": "Ausflugtipp Neuss: Erdbeeren selbst pflücken - Die besten Felder im Rhein-Kreis Neuss",
@@ -27,22 +36,13 @@
     "date": "Thu, 21 May 2026 18:52:00 +0200"
   },
   {
-    "title": "Gebet und Lesung auf der Laga in Neuss: Margot Käßmann spricht über Glaube, Verlust – und einen alten Meister",
-    "snippet": "Die ehemalige EKD-Ratspräsidentin Margot Käßmann reiste am Freitag aus Hannover an, nur um auf der Landesgartenschau in Neuss zu sprechen. Beim Mittagsgebet erklärte die Theologin auch, was sie mit der Lichtkirche verbindet.",
-    "url": "https://rp-online.de/nrw/staedte/neuss/landesgartenschau/margot-kaessmann-in-neuss-mittagsgebet-und-lesung-auf-der-laga_aid-148558521",
+    "title": "Harter Ausbildungsmarkt in Neuss trotz weniger Abiturienten: „Ich war ein bisschen deprimiert, um ehrlich zu sein“",
+    "snippet": "Einzig an den Gesamtschulen wird es in NRW in diesem Jahr Abiturienten geben. Haben es die Absolventen dadurch leichter, einen Ausbildungsplatz zu bekommen? Wir haben nachgefragt.",
+    "url": "https://rp-online.de/nrw/staedte/neuss/neuss-harter-ausbildungsmarkt-trotz-weniger-abiturienten-in-nrw-durch-g9_aid-148680323",
     "source": "Neuß-Grevenbroicher Zeitung",
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 04:50:00 +0200"
-  },
-  {
-    "title": "Guildo Horn kommt zur Laga in Neuss: „Ich würde den Teufel tun, irgendetwas anders machen zu wollen“",
-    "snippet": "Schlagerstar Guildo Horn spielt am Sonntag auf der Landesgartenschau in Neuss. Im Interview verrät er, welche besondere Verbindung er zu der Stadt hat – und wen er gerne einmal zum ESC schicken würde.",
-    "url": "https://rp-online.de/nrw/staedte/neuss/landesgartenschau/neuss-guildo-horn-kommt-zur-landesgartenschau-das-interview_aid-148625481",
-    "source": "Neuß-Grevenbroicher Zeitung",
-    "lang": "de",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 20:34:00 +0200"
   },
   {
     "title": "Die Landesgartenschau Neuss 2026",
@@ -54,13 +54,13 @@
     "date": ""
   },
   {
-    "title": "Wochenende im Rhein-Kreis Neuss: Gartenfestival, Pfingstfest und Flugzeugbörse",
-    "snippet": "Sonne und Temperaturen um die 26 Grad werden für das verlängerte Pfingstwochenende angekündigt. Da kommt ein Gartenfestival gerade recht – unsere Tipps fürs Wochenende.",
-    "url": "https://rp-online.de/nrw/staedte/neuss/rhein-kreis-neuss-tipps-fuer-das-wochenende_aid-93948023",
-    "source": "RP-Grevenbroich",
+    "title": "Gebet und Lesung auf der Laga in Neuss: Margot Käßmann spricht über Glaube, Verlust – und einen alten Meister",
+    "snippet": "Die ehemalige EKD-Ratspräsidentin Margot Käßmann reiste am Freitag aus Hannover an, nur um auf der Landesgartenschau in Neuss zu sprechen. Beim Mittagsgebet erklärte die Theologin auch, was sie mit der Lichtkirche verbindet.",
+    "url": "https://rp-online.de/nrw/staedte/neuss/landesgartenschau/margot-kaessmann-in-neuss-mittagsgebet-und-lesung-auf-der-laga_aid-148558521",
+    "source": "Neuß-Grevenbroicher Zeitung",
     "lang": "de",
     "scope": "city",
-    "date": "Wed, 20 May 2026 16:12:00 +0200"
+    "date": "Sat, 23 May 2026 04:50:00 +0200"
   },
   {
     "title": "CDU im Rhein-Kreis Neuss: Ansgar Hevelings Abgang setzt ein Personalkarussell in Gang",
@@ -75,10 +75,19 @@
     "title": "Jugendamt Rhein-Kreis Neuss weist auf den Jugendschutz hin",
     "snippet": "Am Pfingstwochenende ab dem 22. Mai finden im Rhein-Kreis Neuss traditionell zahlreiche Schützenfeste statt. In Neuss-Grefrath und auf der Furth in Neuss, aber auch in Korschenbroich, Jüchen-Hochneukirch und Widdeshoven-Hoeningen wird gefeiert. Bei den Festumzügen und bei den Veranstaltungen in den ",
     "url": "https://korschenbroich.de/index.html?tx_pixelbrandnews_articledetail%5Baction%5D=detail&tx_pixelbrandnews_articledetail%5Barticle%5D=3073&tx_pixelbrandnews_articledetail%5Bcontroller%5D=Article&cHash=a1ddd3dd15ef8cd90b3a1506ee67a9f5",
-    "source": "Korschenbroich (official)",
+    "source": "korschenbroich.de (official)",
     "lang": "de",
     "scope": "city",
     "date": "Tue, 19 May 2026 09:19:00 +0200"
+  },
+  {
+    "title": "Wochenende im Rhein-Kreis Neuss: Gartenfestival, Pfingstfest und Flugzeugbörse",
+    "snippet": "Sonne und Temperaturen um die 26 Grad werden für das verlängerte Pfingstwochenende angekündigt. Da kommt ein Gartenfestival gerade recht – unsere Tipps fürs Wochenende.",
+    "url": "https://rp-online.de/nrw/staedte/neuss/rhein-kreis-neuss-tipps-fuer-das-wochenende_aid-93948023",
+    "source": "Rheinische Post",
+    "lang": "de",
+    "scope": "city",
+    "date": "Wed, 20 May 2026 16:12:00 +0200"
   },
   {
     "title": "Radeln für den Klimaschutz: Jetzt anmelden fürs Stadtradeln im Rhein-Kreis Neuss",

@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 12:28:48 +0200"
   },
   {
-    "title": "Feuerwehrfest anlässlich Grundsteinlegung in Wiesa",
-    "snippet": "Anlässlich der Grundsteinlegung für das Feuerwehrgerätehaus in Wiesa findet am Freitag, dem 29.05.2026 ein großes Feuerwehrfest statt. Dazu sind alle ab 17 Uhr , besonders die Wiesaer Einwohnerinnen und Einwohner, herzlich eingeladen.",
-    "url": "https://www.kamenz.de/assets/images/v/Screenshot%202026-05-22%20174939ab-w42j2qhvptw9qcz.jpg",
-    "source": "Kamenz (official)",
-    "lang": "de",
-    "scope": "city",
-    "date": "2026-05-23T06:36:00+02:00"
-  },
-  {
     "title": "Safeclub Kamenz: \"Wollen zeigen, dass auch eine Kleinstadt ein cooler Ort ist\"",
     "snippet": "Abseits großer Städte wie Leipzig oder Dresden fühlen sich Jugendliche oft abgehängt. Fehlende Freizeitangebote, ausgedünnter ÖPNV - da kommt schnell Frust auf. Ein Jugendclub in Kamenz will sich nicht entmutigen lassen.",
     "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/jugend-freizeit-safeclub-laendlicher-raum-100.html",
@@ -25,6 +16,15 @@
     "lang": "de",
     "scope": "county",
     "date": "Sat, 23 May 2026 10:00:00 +0200"
+  },
+  {
+    "title": "Feuerwehrfest anlässlich Grundsteinlegung in Wiesa",
+    "snippet": "Anlässlich der Grundsteinlegung für das Feuerwehrgerätehaus in Wiesa findet am Freitag, dem 29.05.2026 ein großes Feuerwehrfest statt. Dazu sind alle ab 17 Uhr , besonders die Wiesaer Einwohnerinnen und Einwohner, herzlich eingeladen.",
+    "url": "https://www.kamenz.de/assets/images/v/Screenshot%202026-05-22%20174939ab-w42j2qhvptw9qcz.jpg",
+    "source": "Kamenz (official)",
+    "lang": "de",
+    "scope": "city",
+    "date": "2026-05-23T06:36:00+02:00"
   },
   {
     "title": "Einladung zur Einwohner- versammlung Kamenz-Ost",

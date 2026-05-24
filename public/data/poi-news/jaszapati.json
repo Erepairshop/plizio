@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ezen a KRESZ-teszten a legtöbb sofőr azonnal elhasal – te meg tudod oldani hibátlanul?",
+    "snippet": "Te hogy döntenél ebben a szituációban?",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/kresz-teszt-kozlekedes-szabalyok-villamos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:39:12 +0000"
+  },
+  {
+    "title": "Ezek a házak a vevők kedvencei, de nem vagy alig adnak rá hitelt a bankok",
+    "snippet": "A bankok nem szeretik, a felújítás kockázatos, mégis van, aki megveszi.",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/elado-valyoghaz-szolnokon-es-a-varmegyeben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:38:07 +0000"
+  },
+  {
+    "title": "Óriási fordulat Tiszaszentimrén, júniusban visszaáll a mindenkit érintő ellátás",
+    "snippet": "Júniustól ismét biztosított lesz a fogorvosi ellátás Tiszaszentimrén.",
+    "url": "https://www.szoljon.hu/helyi-kozelet/2026/05/fogorvos-tiszaszentimre-ellatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "szoljon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:30:00 +0000"
+  },
+  {
     "title": "„Országot keressél magadnak, te takony” – Pócs János szerint a Tisza emberei szabotázsra készültek Jászapátiban",
     "snippet": "Heves vita alakult ki a fideszes képviselő és a tiszás jelölt között.",
     "url": "https://index.hu/belfold/csatater/2026/04/06/pocs-janos-farady-zoltan-tisza-part-fidesz-halmai-ferenc-zoltan-jaszapati-valasztas-2026/",
@@ -16,6 +43,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Mon, 06 Apr 2026 14:06:33 +0000"
+  },
+  {
+    "title": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
+    "snippet": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
+    "url": "https://magyarhirlap.hu/sport/20260522-visszavonul-az-olimpiai-bronzermes-es-europa-bajnok-jaszapati-petra",
+    "source": "magyarhirlap.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": ""
   },
   {
     "title": "Lázár János: Ukrajna azért akar kormányváltást Magyarországon, hogy uniós tag legyen, mert elveszítette a háborút",
@@ -45,22 +81,13 @@
     "date": "Tue, 10 Feb 2026 14:23:00 +0100"
   },
   {
-    "title": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
-    "snippet": "Visszavonul az olimpiai bronzérmes és Európa-bajnok Jászapáti Petra",
-    "url": "https://magyarhirlap.hu/sport/20260522-visszavonul-az-olimpiai-bronzermes-es-europa-bajnok-jaszapati-petra",
-    "source": "magyarhirlap.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": ""
-  },
-  {
-    "title": "Vezetés közben rosszul lett és meghalt egy 52 éves férfi Jászapátinál",
-    "snippet": "Nem a baleset következtében halt meg az árokba csapódó sofőr. The post Vezetés közben rosszul lett és meghalt egy 52 éves férfi Jászapátinál first appeared on 24.hu .",
-    "url": "https://24.hu/belfold/2026/02/10/jaszapati-baleset-rosszulet-sofor/",
+    "title": "Jászapáti tragédia: elaludt a buszvezető, vádat emeltek ellene",
+    "snippet": "Elismerte felelősségét a halálos balesetet okozó buszsofőr. Az ügyészség végleg eltiltaná a vezetéstől. The post Jászapáti tragédia: elaludt a buszvezető, vádat emeltek ellene first appeared on 24.hu .",
+    "url": "https://24.hu/belfold/2026/01/19/jaszapati-halalos-buszbaleset-vallomas-vademeles/",
     "source": "24.hu/Jászapáti",
     "lang": "hu",
     "scope": "city",
-    "date": "Tue, 10 Feb 2026 10:33:53 +0000"
+    "date": "Mon, 19 Jan 2026 16:30:54 +0000"
   },
   {
     "title": "Visszavonul Jászapáti Petra, az Európa-bajnok és olimpiai bronzérmes szegedi gyorskorcsolyázó",

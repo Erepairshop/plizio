@@ -1,14 +1,5 @@
 [
   {
-    "title": "Suhl: Bogensportler kämpfen um den Landestitel",
-    "snippet": "Am Wochenende trafen sich die besten Bogensportler des Landes auf dem neuen Bogensportplatz im Schießsportzentrum Suhl. Für Bastian Gropp aus Elxleben ging es dabei um mehr als nur den Titel, er will in den Bundeskader.",
-    "url": "https://www.mdr.de/video/mdr-videos/f/video-1012674.html",
-    "source": "MDR Th Sued",
-    "lang": "de",
-    "scope": "region",
-    "date": "Sat, 23 May 2026 21:47:36 +0200"
-  },
-  {
     "title": "Mitmachaktion in Suhl: Aufblühen im Haus der Volkssolidarität",
     "snippet": "Die Volkssolidarit t beteiligte sich am Mitmachtag zum Jahrestag des Grundgesetzes, indem sie ihre Gemeinschaft st rkten und zusammen einen Baum pflanzten.",
     "url": "https://www.insuedthueringen.de/inhalt.mitmachaktion-in-suhl-aufbluehen-im-haus-der-volkssolidaritaet.6111ddfa-bb8d-4bb8-8af8-fea1b932c8cb.html",
@@ -16,6 +7,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 12:38:00 GMT"
+  },
+  {
+    "title": "Suhl: Bogensportler kämpfen um den Landestitel",
+    "snippet": "Am Wochenende trafen sich die besten Bogensportler des Landes auf dem neuen Bogensportplatz im Schießsportzentrum Suhl. Für Bastian Gropp aus Elxleben ging es dabei um mehr als nur den Titel, er will in den Bundeskader.",
+    "url": "https://www.mdr.de/video/mdr-videos/f/video-1012674.html",
+    "source": "MDR Th Sued",
+    "lang": "de",
+    "scope": "region",
+    "date": "Sat, 23 May 2026 21:47:36 +0200"
   },
   {
     "title": "Video: Internationales Corvette-Treffen in Suhl",

@@ -1,12 +1,30 @@
 [
   {
-    "title": "Windelpauschale auf dem Prüfstand: Windelstreit im Stadtrat – Müllgebühr trifft Eltern in St. Wendel besonders hart",
-    "snippet": "Während die Müllgebühren in St. Wendel zuletzt kräftig stiegen, blieb die Windelpauschale seit zwei Jahrzehnten unverändert. Die SPD wollte das ändern – doch fand sie im Stadtrat keine Mehrheit. Und im Juni könnte die Pauschale sogar ganz fallen.",
-    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/stadtrat-st-wendel-streitet-ums-windelgeld_aid-148739897",
+    "title": "„Die Einschläge kommen immer öfter\": Wie ein saarländisches Busunternehmen ums Überleben kämpft",
+    "snippet": "Ein Tankstop kostet so viel wie ein Kleinwagen. Das Marpinger Busunternehmen „Der Saarländer kämpft mit explodierenden Spritpreisen. Ob die Familie Schmidt den Betrieb in die nächste Generation retten kann, ist ungewiss. Ein Besuch vor Ort.",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/saar-wirtschaft/hohe-dieselkosten-belasten-busunternehmen-in-marpingen-v24_aid-147866047",
     "source": "SZ St. Wendel",
     "lang": "de",
     "scope": "county",
-    "date": "Fri, 22 May 2026 18:00:00 +0200"
+    "date": "Sun, 24 May 2026 08:38:00 +0200"
+  },
+  {
+    "title": "Es kann einfach werden – oder kompliziert: Größter Erfolg seit 1973 möglich – Schießt sich der FC Freisen zum Titel?",
+    "snippet": "Der FC Freisen kann den erstmaligen Aufstieg in die Saarlandliga perfekt machen. Doch die Aufgabe im letzten Saisonspiel ist nicht einfach – und bei einer Niederlage muss gerechnet werden.",
+    "url": "https://www.saarbruecker-zeitung.de/sport/sz-sport/regionalsport/fc-freisen-geht-als-titel-favorit-ins-saisonfinale_aid-148616741",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 08:00:00 +0200"
+  },
+  {
+    "title": "Vereinslegende läuft zum letzten Mal auf: Noch einmal alles geben für die SG – Recktenwald hofft auf den perfekten Abschied",
+    "snippet": "Torjäger, Aufstiegsheld, Identifikationsfigur: Björn Recktenwald war über viele Jahre der Schlüsselspieler bei der SG Marpingen-Urexweiler schlechthin. Nun verlässt er den Verein. Und im letzten Spiel geht es um viel.",
+    "url": "https://www.saarbruecker-zeitung.de/sport/sz-sport/regionalsport/saarlandliga-sg-marpingen-urexweiler-kaempft-den-klassenverbleib_aid-148619943",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sat, 23 May 2026 19:00:00 +0200"
   },
   {
     "title": "Innovation Circle der Kreisstadt St. Wendel am 1. Juni",
@@ -18,6 +36,15 @@
     "date": "Thu, 21 May 2026 15:22:02 +0000"
   },
   {
+    "title": "Kolumne Usere Woche: Barrieren, Behinderungen und ein spezielles Sportfest",
+    "snippet": "Wasserspiele am Bostalsee, Rad, Golf und Reiten in St. Wendel: Die Special Olympics werfen ihren Schatten voraus.",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/kolumne-unsere-woche-von-sz-redakteur-thorsten-grim_aid-148746895",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 18:00:00 +0200"
+  },
+  {
     "title": "St. Wendeler Stadtfest am 12. und 13. Juni",
     "snippet": "Musik, Kultur und Lebensfreude im Herzen der Kreisstadt Ausgelassene Festival-Atmosphäre erwartet die Besucher des St. Wendeler Stadtfestes an zwei Tagen voller Live-Musik, Tanz, Spaß für junge Besucher und gutem Essen am 12. und 13. Juni. „Unser Stadtfest bietet auf musikalischer Ebene alles was da",
     "url": "https://www.sankt-wendel.de/st-wendeler-stadtfest-am-12-und-13-juni/",
@@ -25,6 +52,24 @@
     "lang": "de",
     "scope": "city",
     "date": "Thu, 21 May 2026 15:18:03 +0000"
+  },
+  {
+    "title": "Windelpauschale auf dem Prüfstand: Windelstreit im Stadtrat – Müllgebühr trifft Eltern in St. Wendel besonders hart",
+    "snippet": "Während die Müllgebühren in St. Wendel zuletzt kräftig stiegen, blieb die Windelpauschale seit zwei Jahrzehnten unverändert. Die SPD wollte das ändern – doch fand sie im Stadtrat keine Mehrheit. Und im Juni könnte die Pauschale sogar ganz fallen.",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/stadtrat-st-wendel-streitet-ums-windelgeld_aid-148739897",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 18:00:00 +0200"
+  },
+  {
+    "title": "Inklusion vor Ort: Kinder starten beim „Special Olympics Young Athletes“-Sportfest durch",
+    "snippet": "Special Olympics Saarland brachte am 19. Mai im Waldstadion in Hasborn-Dautweiler etwa 140 Kindergartenkinder in Bewegung. So war der ereignisreiche Tag.",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/special-olympics-sportfest-begeistert-kinder-in-tholey_aid-147993035",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Fri, 22 May 2026 18:00:00 +0200"
   },
   {
     "title": "St. Wendels Bürgermeister Peter Klär lädt zur Bürgersprechstunde ein",
@@ -54,13 +99,13 @@
     "date": "Tue, 19 May 2026 13:45:31 +0000"
   },
   {
-    "title": "St. Wendel als Special-Olympics-Gastgeber: St. Wendel wird zur Bühne für Golf, Rad und Reiten",
-    "snippet": "Zum ersten Mal richtet das Saarland die nationalen Spiele der Special Olympics aus – und St. Wendel ist mittendrin. Vom 15. bis 20. Juni verwandelt sich die nordsaarländische Kreisstadt in einen Austragungsort für drei Sportarten.",
-    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/st-wendel-ist-bei-der-special-sportwoche-mit-dabei_aid-148495707",
+    "title": "Bundesweit schlechter als fast alle: Das Saarland hat ein Schulabbrecher-Problem",
+    "snippet": "Schlechte Noten für das Saarland: Bundesweit landet das Land beim Schulabbrecher-Ranking auf Platz drei. Seit Jahren steigt die Quote – doch woran liegt das, und was soll sich ändern?",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/saarland-jeder-neunte-schueler-verlaesst-die-schule-ohne-abschluss_aid-148624983",
     "source": "SZ St. Wendel",
     "lang": "de",
     "scope": "county",
-    "date": "Tue, 19 May 2026 16:00:00 +0200"
+    "date": "Wed, 20 May 2026 19:24:00 +0200"
   },
   {
     "title": "Neue Einsatzfahrzeuge der Feuerwehr St. Wendel eingeweiht",
@@ -70,6 +115,15 @@
     "lang": "de",
     "scope": "city",
     "date": "Tue, 19 May 2026 13:38:48 +0000"
+  },
+  {
+    "title": "Bürgermeisterwahl: Wer wird Barths Nachfolger? So streiten drei Kandidaten um Nonnweilers Zukunft",
+    "snippet": "Während einer Podiumsdiskussion in der vollbesetzten Kurhalle standen die drei Kandidaten für das Bürgermeister-Amt in Nonnweiler den beiden Moderatorinnen von SR und Saarbrücker Zeitung Rede und Antwort.",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/st-wendel/podiumsdiskussion-zur-buergermeisterwahl-in-nonnweiler-ende-mai_aid-148495865",
+    "source": "SZ St. Wendel",
+    "lang": "de",
+    "scope": "county",
+    "date": "Wed, 20 May 2026 16:30:00 +0200"
   },
   {
     "title": "Pfingstmarkt in St. Wendel am 21. Mai",

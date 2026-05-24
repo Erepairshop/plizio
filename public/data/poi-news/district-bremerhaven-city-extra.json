@@ -1,5 +1,14 @@
 [
   {
+    "title": "Nur von Waaden gibt Phoenix Hagen viel Energie, das langt in Bremerhaven nicht",
+    "snippet": "Das Halbfinale um den Bundesliga-Aufstieg wird zum Krimi mit mindestens vier Kapiteln. In Bremerhaven ist Phoenix Hagen zu langsam",
+    "url": "https://www.wp.de/sport/lokalsport/hagen-breckerfeld/article412079250/nur-von-waaden-gibt-phoenix-hagen-energie-das-reicht-in-bremerhaven-nicht.html",
+    "source": "WP siegerland",
+    "lang": "de",
+    "scope": "state",
+    "date": "Sun, 24 May 2026 09:01:34 +0200"
+  },
+  {
     "title": "FW Bremerhaven: Gasaustritt in Bremerhaven-Lehe",
     "snippet": "Bremerhaven (ots) - Am heutigen Nachmittag wurde der Feuerwehr Bremerhaven durch Passanten Gasgeruch an einem Gebäude in der Hafenstraße gemeldet. Aufgrund dieser Meldung rückten die Einsatzkräfte der Feuerwehr Bremerhaven zur gemeldeten Adresse ...",
     "url": "https://www.presseportal.de/blaulicht/pm/133092/6280386",
@@ -36,15 +45,6 @@
     "date": "Thu, 21 May 2026 00:47:12 +0200"
   },
   {
-    "title": "POL-Bremerhaven: Bewaffneter 27-Jähriger bedroht Supermarkt-Kunden mit aggressivem Hund - Widerstand gegen Polizeibeamte geleistet",
-    "snippet": "Bremerhaven (ots) - Die Polizei Bremerhaven hat am Dienstagabend, 19. Mai, einen bewaffneten Mann festgenommen, der im Verdacht steht, einen schweren Raub begangen zu haben. Zudem leistete der Mann Widerstand gegen die Polizeibeamten und führte ...",
-    "url": "https://www.presseportal.de/blaulicht/pm/134196/6278756",
-    "source": "Presseportal Polizei-BB",
-    "lang": "de",
-    "scope": "national",
-    "date": "Wed, 20 May 2026 14:51:15 +0200"
-  },
-  {
     "title": "Eisbären Bremerhaven vs. Phoenix Hagen",
     "snippet": "05/23 06:00 PM | Sports Eisbären Bremerhaven vs. Phoenix Hagen Stadthalle Bremerhaven",
     "url": "https://www.bremerhaven.de/en/events/eisbaeren-bremerhaven-vs-phoenix-hagen.177137.html",
@@ -52,6 +52,15 @@
     "lang": "de",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "POL-Bremerhaven: Bewaffneter 27-Jähriger bedroht Supermarkt-Kunden mit aggressivem Hund - Widerstand gegen Polizeibeamte geleistet",
+    "snippet": "Bremerhaven (ots) - Die Polizei Bremerhaven hat am Dienstagabend, 19. Mai, einen bewaffneten Mann festgenommen, der im Verdacht steht, einen schweren Raub begangen zu haben. Zudem leistete der Mann Widerstand gegen die Polizeibeamten und führte ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/134196/6278756",
+    "source": "Presseportal Polizei-BB",
+    "lang": "de",
+    "scope": "national",
+    "date": "Wed, 20 May 2026 14:51:15 +0200"
   },
   {
     "title": "POL-Bremerhaven: Diebstahl während Gartenarbeit - Polizei sucht Zeugen",

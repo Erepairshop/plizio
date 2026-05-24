@@ -1,14 +1,5 @@
 [
   {
-    "title": "Verkaufsoffene Sonntage am Hochrhein – von Lörrach über Bad Säckingen, Waldshut bis nach Bonndorf",
-    "snippet": "Verkaufsoffene Sonntage bringen Leben in die Städte: Feste, Überraschungen und Angebote gibt es 2026 entlang des Rheins und im Südschwarzwald.",
-    "url": "https://www.suedkurier.de/hochrhein/hochrhein-in-diesen-orten-gibt-es-verkaufsoffene-sonntage-im-jahr-2026-18-05-27-113884726",
-    "source": "Südkurier",
-    "lang": "de",
-    "scope": "region",
-    "date": "2026-05-24T03:01:21Z"
-  },
-  {
     "title": "Sven Schöpker inspiriert beim Tag des Handwerks in Lörrach mit Tipps für Betriebe",
     "snippet": "Volles Haus und ein Referent, der mit teils provozierenden Statements Tipps für erfolgreiche Handwerksbetriebe gab. Beim 26. Tag des Handwerks hat Sven Schöpker für Innovation geworben.",
     "url": "https://www.badische-zeitung.de/sven-schoepker-inspiriert-beim-tag-des-handwerks-in-loerrach-mit-tipps-fuer-betriebe",
@@ -54,6 +45,15 @@
     "date": "Wed, 20 May 2026 10:58:00 GMT"
   },
   {
+    "title": "Stimmen-Festival startet kreative Karaoke-Aktion auf dem Alten Marktplatz in Lörrach",
+    "snippet": "Das Stimmen-Festival bringt einen Karaoke-Container auf den Alten Marktplatz. Wer Songs der Festival-Acts singt und die meisten Likes sammelt, gewinnt Freikarten. Sogar OB Lutz hat mitgemacht.",
+    "url": "https://www.badische-zeitung.de/stimmen-festival-startet-kreative-karaoke-aktion-auf-dem-alten-marktplatz-in-loerrach",
+    "source": "Badische Zeitung — sections",
+    "lang": "de",
+    "scope": "state",
+    "date": "Thu, 21 May 2026 05:25:00 GMT"
+  },
+  {
     "title": "Elf Millionen Euro bis 2029: Badenova will Standort in Lörrach aufrüsten",
     "snippet": "Das Lörracher Stromnetz soll nach einem jahrelangen Vergabeverfahren in die kommunale Hand übergehen. Netzbetreiber wird Partner Badenova. Welche Schritte und Investitionen geplant sind und warum vieles unklar bleibt.",
     "url": "https://www.badische-zeitung.de/elf-millionen-euro-bis-2029-badenova-will-standort-in-loerrach-aufruesten",
@@ -70,15 +70,6 @@
     "lang": "de",
     "scope": "state",
     "date": "Thu, 21 May 2026 04:00:00 GMT"
-  },
-  {
-    "title": "Stadt Lörrach investiert Millionen in die Sanierung der Grundschule Tumringen",
-    "snippet": "An der Grundschule Tumringen wurde Richtfest gefeiert. Das Gebäude wird grundlegend saniert und modernisiert. Ende 2027 soll es fertig sein.",
-    "url": "https://www.badische-zeitung.de/stadt-loerrach-investiert-millionen-in-die-sanierung-der-grundschule-tumringen",
-    "source": "Badische Zeitung — sections",
-    "lang": "de",
-    "scope": "state",
-    "date": "Wed, 20 May 2026 15:00:00 GMT"
   },
   {
     "title": "So soll eine digitale Wartezeiterfassung die Recyclingzentren Lörrach und Herten entlasten",

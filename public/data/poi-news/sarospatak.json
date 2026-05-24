@@ -1,5 +1,32 @@
 [
   {
+    "title": "A rangadók rangadója, és bajnoki cím után az edző a büszkeségről is beszélt",
+    "snippet": "Küzdelemben nem volt hiány.",
+    "url": "https://www.boon.hu/helyi-sport/2026/05/sarospatak-erdohorvati-varmegyei-foci-kelet-csoport?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:30:00 +0000"
+  },
+  {
+    "title": "Nem unatkoztak a diósgyőri polgárőrök: több riasztás is érkezett egy este alatt",
+    "snippet": "A közrend fenntartása mellett több esetben is segítséget nyújtottak a diósgyőri polgárőrök.",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/polgaror-diosgyor-szolgalat-majus-22?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:20:00 +0000"
+  },
+  {
+    "title": "Eszeveszett száguldozás Miskolcon – megszólalt a rendőrség is",
+    "snippet": "Lakott területen belül, útfelújítási szakaszon száguldott keresztül egy autós 142 km/h-val Miskolcon",
+    "url": "https://www.boon.hu/helyi-kek-hirek/2026/05/megengedett-sebesseg-sebessegtullepes-rendorseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "boon.hu (megyei)",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
     "title": "XXXII. Pünkösdi Szent Erzsébet Ünnep  – 2026.05.23-2026.05.25.",
     "snippet": "Meghívó A XXXII. Pünkösdi Szent Erzsébet Ünnep 2026.05.23-2026.05.25. bejegyzés először Sárospatak Hírportál -én jelent meg.",
     "url": "https://sarospatak-online.hu/2026/05/23/xxxii-punkosdi-szent-erzsebet-unnep-2026-05-23-2026-05-25/",
@@ -18,6 +45,15 @@
     "date": "Fri, 22 May 2026 11:12:24 +0000"
   },
   {
+    "title": "Hotel Bodrog – Étterem",
+    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Hotel Bodrog Étterem bejegyzés először Sárospatak Turizmus -én jelent meg.",
+    "url": "https://sarospatak.hu/hotel-bodrog-etterem/",
+    "source": "sarospatak.hu (hivatalos)",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Wed, 13 May 2026 16:10:35 +0000"
+  },
+  {
     "title": "Meghívó testületi ülésre – 2026.05.29. – 9:00",
     "snippet": "Meghívó testületi ülésre: https://sarospatak-varos.hu/onkormanyzat/testuleti-ulesek/meghivok Előterjesztések: https://sarospatak-varos.hu/onkormanyzat/testuleti-ulesek/eloterjesztesek/ A Meghívó testületi ülésre 2026.05.29. 9:00 bejegyzés először Sárospatak Hírportál -én jelent meg.",
     "url": "https://sarospatak-online.hu/2026/05/22/meghivo-testuleti-ulesre-2026-05-29-900/",
@@ -27,15 +63,6 @@
     "date": "Fri, 22 May 2026 11:07:37 +0000"
   },
   {
-    "title": "Meghívó Bizottsági ülésre – 2026.05.26. – 2026.05.27.",
-    "snippet": "Meghívó Egészségügyi és Szociális Bizottsági ülésre (2026.05.27.): https://sarospatak-varos.hu/onkormanyzat/bizottsagi-ulesek/egeszsegugyi-es-szocialis-bizottsag Meghívó Humán Bizottsági ülésre (2026.05.27.): https://sarospatak-varos.hu/onkormanyzat/bizottsagi-ulesek/human-bizottsag Meghívó Pénzügyi",
-    "url": "https://sarospatak-online.hu/2026/05/22/meghivo-bizottsagi-ulesre-2026-05-26-2026-05-27/",
-    "source": "Sárospatak Online",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Fri, 22 May 2026 11:03:03 +0000"
-  },
-  {
     "title": "Sárospatak Közelgő Események – 2026. május-június",
     "snippet": "A Sárospatak Közelgő Események 2026. május-június bejegyzés először Sárospatak Hírportál -én jelent meg.",
     "url": "https://sarospatak-online.hu/2026/05/19/sarospatak-kozelgo-esemenyek-2026-majus-junius/",
@@ -43,15 +70,6 @@
     "lang": "hu",
     "scope": "city",
     "date": "Tue, 19 May 2026 15:38:35 +0000"
-  },
-  {
-    "title": "Hotel Bodrog – Étterem",
-    "snippet": "A térség hagyományai korszerű formában, kifinomult megoldásokkal, helyi és térségi szezonális alapanyagokból. Engedje át magát az élvezeteknek! A Hotel Bodrog Étterem bejegyzés először Sárospatak Turizmus -én jelent meg.",
-    "url": "https://sarospatak.hu/hotel-bodrog-etterem/",
-    "source": "sarospatak.hu (hivatalos)",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 13 May 2026 16:10:35 +0000"
   },
   {
     "title": "Meghívó – A magyar hősök emléknapja megemlékezés- SWAK – 2026.05.30. 16.00",

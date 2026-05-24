@@ -9,15 +9,6 @@
     "date": "Sat, 23 May 2026 08:44:59 +0000"
   },
   {
-    "title": "Kiszivárgott hangfelvétel: „Kiszavaztátok a Lajost, nem lesz busz, ennyi”",
-    "snippet": "Dagad a botrány a délegyházi busz körül.",
-    "url": "https://index.hu/belfold/2024/10/02/delegyhaza-iskolabusz-hangfelvetel-riebl-antal-polgarmester-onkormanyzati-valasztas-szilveszter-lajos/",
-    "source": "index.hu/Délegyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Wed, 02 Oct 2024 07:43:00 +0200"
-  },
-  {
     "title": "Újra dolgozhat a februárban letartóztatott dunavarsányi gyermekorvos",
     "snippet": "A gyanú szerint úgy állított ki pénzért kötelező oltásokról igazolást, hogy azokat valójában nem adta be. Májustól Délegyházán praktizálhat, miután szerződést kötött vele az önkormányzat. The post Újra dolgozhat a februárban letartóztatott dunavarsányi gyermekorvos first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2026/04/30/letartoztatott-gyermekorvos-ujra-dolgozhat-kotelezo-oltas-delegyhaza-dunavarsany/",
@@ -27,13 +18,13 @@
     "date": "Thu, 30 Apr 2026 09:13:01 +0000"
   },
   {
-    "title": "Megszűnt az iskolabusz Délegyházán, naponta másfél órát kell gyalogolniuk a gyerekeknek",
-    "snippet": "A történtek miatt a Belügyminisztérium is közleményt adott ki.",
-    "url": "https://index.hu/belfold/2024/09/26/iskolabusz-megszunik-delegyhaza-tankerulet-gyerekek-gyaloglas-diakok-oktatas-kozlekedes/",
+    "title": "Kiszivárgott hangfelvétel: „Kiszavaztátok a Lajost, nem lesz busz, ennyi”",
+    "snippet": "Dagad a botrány a délegyházi busz körül.",
+    "url": "https://index.hu/belfold/2024/10/02/delegyhaza-iskolabusz-hangfelvetel-riebl-antal-polgarmester-onkormanyzati-valasztas-szilveszter-lajos/",
     "source": "index.hu/Délegyháza",
     "lang": "hu",
     "scope": "city",
-    "date": "Thu, 26 Sep 2024 10:42:00 +0200"
+    "date": "Wed, 02 Oct 2024 07:43:00 +0200"
   },
   {
     "title": "Naponta másfél órát kell gyalogolnia több tucat diáknak, miután megszűnt az iskolabusz Délegyházán",
@@ -45,6 +36,15 @@
     "date": "Thu, 26 Sep 2024 05:01:21 +0000"
   },
   {
+    "title": "Megszűnt az iskolabusz Délegyházán, naponta másfél órát kell gyalogolniuk a gyerekeknek",
+    "snippet": "A történtek miatt a Belügyminisztérium is közleményt adott ki.",
+    "url": "https://index.hu/belfold/2024/09/26/iskolabusz-megszunik-delegyhaza-tankerulet-gyerekek-gyaloglas-diakok-oktatas-kozlekedes/",
+    "source": "index.hu/Délegyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 26 Sep 2024 10:42:00 +0200"
+  },
+  {
     "title": "Versenyképes Járások Program közlemény",
     "snippet": "Versenyképes Járások Program közlemény Megjelent: 2025. november 11. kedd, 08:26 | \" onclick=\"window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;\" rel=\"nofollow\"> Nyomtatás | E-mail Ma",
     "url": "http://www.delegyhaza.hu/index.php?option=com_content&amp;view=article&amp;id=201945:versenykepes-jarasok-program-kozlemeny&amp;catid=9&amp;Itemid=104",
@@ -54,15 +54,6 @@
     "date": "2025-11-11"
   },
   {
-    "title": "Keddtől változik a vasúti közlekedés Délegyháza és Kelebia között",
-    "snippet": "A Budapest és Belgrád közötti vonal felújítása miatt.",
-    "url": "https://index.hu/belfold/2022/01/30/vasut-vonat-vaganyzar-kelebia-delegyhaza-mav/",
-    "source": "index.hu/Délegyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Sun, 30 Jan 2022 12:37:00 +0100"
-  },
-  {
     "title": "Második világháborús lőszereket találtak Délegyházán",
     "snippet": "A szovjet lőszer egy épülő bölcsőde-óvoda alapjának mélyítése során került elő. The post Második világháborús lőszereket találtak Délegyházán first appeared on 24.hu .",
     "url": "https://24.hu/belfold/2024/08/08/masodik-vilaghaborus-gepagyu-loszerek-delegyhaza/",
@@ -70,6 +61,15 @@
     "lang": "hu",
     "scope": "city",
     "date": "Thu, 08 Aug 2024 10:03:53 +0000"
+  },
+  {
+    "title": "Keddtől változik a vasúti közlekedés Délegyháza és Kelebia között",
+    "snippet": "A Budapest és Belgrád közötti vonal felújítása miatt.",
+    "url": "https://index.hu/belfold/2022/01/30/vasut-vonat-vaganyzar-kelebia-delegyhaza-mav/",
+    "source": "index.hu/Délegyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Sun, 30 Jan 2022 12:37:00 +0100"
   },
   {
     "title": "Kimarad egy kora esti 655-ös busz Délegyháza felé",

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Lemondta a Bácsalmás a Kiskunfélegyháza elleni bajnoki mérkőzést",
+    "snippet": "A vármegyei elsőosztályú labdarúgó bajnokság utolsó előtti fordulójának mérkőzése elmarad.",
+    "url": "https://www.baon.hu/helyi-sport/2026/05/bacsalmasi-psve-merkozes-lemondas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+    "source": "Baon",
+    "lang": "hu",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 05:15:00 +0000"
+  },
+  {
     "title": "Videóval cáfolta a rendőrség a találgatásokat – így történt valójában a kiskunfélegyházi baleset",
     "snippet": "A közösségi médiában többen úgy tudták, hogy egy autós ütött el egy biciklin közlekedő gyereket.",
     "url": "https://index.hu/belfold/2026/03/11/kiskunfelegyhaza-baleset-gyermek-bicikli-auto-felvetel-beszamolo/",
@@ -36,15 +45,6 @@
     "date": "Fri, 16 Aug 2019 18:22:39 +0000"
   },
   {
-    "title": "Részleges látogatási tilalmat rendeltek el a Bács-Kiskun Vármegyei Oktatókórházban",
-    "snippet": "Az intézkedés a Kecskeméten, Kalocsán és Kiskunfélegyházán található telephelyeket is érinti.",
-    "url": "https://index.hu/belfold/2026/01/15/bacs-kiskun-varmegye-kecskemet-kalocsa-kiskunfelegyhaza--korhaz-latogatasi-tilalom-jarvanyveszely/",
-    "source": "index.hu/Kiskunfélegyháza",
-    "lang": "hu",
-    "scope": "city",
-    "date": "Thu, 15 Jan 2026 06:59:00 +0100"
-  },
-  {
     "title": "Kiskunfélegyháza – május 22-én és 23-án terelés rendezvény miatt",
     "snippet": "Kiskunfélegyháza – május 22-én és 23-án terelés rendezvény miatt",
     "url": "https://www.mavcsoport.hu/node/193293",
@@ -52,6 +52,15 @@
     "lang": "hu",
     "scope": "city",
     "date": ""
+  },
+  {
+    "title": "Részleges látogatási tilalmat rendeltek el a Bács-Kiskun Vármegyei Oktatókórházban",
+    "snippet": "Az intézkedés a Kecskeméten, Kalocsán és Kiskunfélegyházán található telephelyeket is érinti.",
+    "url": "https://index.hu/belfold/2026/01/15/bacs-kiskun-varmegye-kecskemet-kalocsa-kiskunfelegyhaza--korhaz-latogatasi-tilalom-jarvanyveszely/",
+    "source": "index.hu/Kiskunfélegyháza",
+    "lang": "hu",
+    "scope": "city",
+    "date": "Thu, 15 Jan 2026 06:59:00 +0100"
   },
   {
     "title": "Nem jár a vonat Szeged és Kiskunfélegyháza között",

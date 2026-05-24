@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sonne und mehr als 30 Grad zu Beginn der neuen Woche",
+    "snippet": "Die neue Woche beginnt in Nordrhein-Westfalen sommerlich. Die Temperaturen steigen teilweise auf mehr als 30 Grad. Der Mittwoch bringt ein wenig Abkühlung. Die Aussichten. Der Beitrag Sonne und mehr als 30 Grad zu Beginn der neuen Woche erschien zuerst auf Hellweger Anzeiger .",
+    "url": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/sonne-und-mehr-als-30-grad-zu-beginn-der-neuen-woche-w1198032-1001683846/",
+    "source": "Hellweger Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:39:00 +0000"
+  },
+  {
+    "title": "Schicht im Schacht? Mitarbeiter im Fitnessstudio warten auf Gehalt – Geräte nicht gewartet",
+    "snippet": "Das Personal im Fitnesscenter Limitless in Rünthe soll seit einiger Zeit kein Gehalt mehr bekommen. Der Geschäftsführer antwortet nicht auf Anfragen der Redaktion.",
+    "url": "https://www.wa.de/lokales/bergkamen/schicht-im-schacht-mitarbeiter-im-fitnessstudio-warten-auf-gehalt-geraete-nicht-gewartet-94319357.html",
+    "source": "Westfälischer Anzeiger (Region Bergkamen)",
+    "lang": "de",
+    "scope": "city",
+    "date": "Sun, 24 May 2026 08:30:00 +0200"
+  },
+  {
+    "title": "Absturz von Segelflugzeug auf A45 – Ursache noch unklar",
+    "snippet": "Ein 56-Jähriger stirbt bei dem Absturz eines Segelflugzeugs auf eine Autobahn in Olpe. Noch immer unklar ist die Ursache. Der Beitrag Absturz von Segelflugzeug auf A45 Ursache noch unklar erschien zuerst auf Hellweger Anzeiger .",
+    "url": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/absturz-von-segelflugzeug-auf-a45-ursache-noch-unklar-w1198031-1001683844/",
+    "source": "Hellweger Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:09:00 +0000"
+  },
+  {
+    "title": "Klimademo zwischen Hamm und Werne: VKU-Busse müssen Umleitung fahren",
+    "snippet": "Das Klimacamp rund um das Gersteinwerk führt zu Einschränkungen im Busverkehr zwischen Werne und Hamm. Betroffen sind die Linien X1 und 215. Der Beitrag Klimademo zwischen Hamm und Werne: VKU-Busse müssen Umleitung fahren erschien zuerst auf Hellweger Anzeiger .",
+    "url": "https://www.hellwegeranzeiger.de/werne/klimademo-hamm-werne-gersteinwerk-busverkehr-vku-umleitung-linie-x1-215-klimacamp-stockum-w1197626-1001683168/",
+    "source": "Hellweger Anzeiger",
+    "lang": "de",
+    "scope": "county",
+    "date": "Sun, 24 May 2026 07:00:00 +0000"
+  },
+  {
     "title": "Zehntausende Gäste zum Hafenfest erwartet: 24 Teams paddeln um die Wette",
     "snippet": "Vom 5. bis 7. Juni steigt das 24. Bergkamener Hafenfest in der Marina Rünthe. Auf drei Bühnen spielen Bands quasi rund um die Uhr.",
     "url": "https://www.wa.de/lokales/bergkamen/zehntausende-gaeste-zum-hafenfest-erwartet-24-teams-paddeln-um-die-wette-94319180.html",
@@ -45,13 +81,13 @@
     "date": "Wed, 20 May 2026 05:30:00 +0200"
   },
   {
-    "title": "Idee gegen Leerstände in der Stadt – Rat lehnt Antrag ab",
-    "snippet": "Der Rat hat einen Antrag der Linken auf kommunales Leerstandsmanagement abgelehnt. CDU und SPD wollen stattdessen das Konzept „Mittendrin\" umsetzen, das seit drei Jahren auf Fördermittel wartet.",
-    "url": "https://www.wa.de/lokales/bergkamen/bergkamen-lehnt-leerstandsmanagement-ab-cdu-und-spd-setzen-auf-alten-plan-94312045.html",
+    "title": "„Lehrfabrik“ fürs Klima entsteht: Fachkräfte sollen auf Energiewende vorbereitet werden",
+    "snippet": "Eine Vorstudie soll den Weg für ein praxisnahes Ausbildungszentrum ebnen. Bis 2030 fehlen in Deutschland 350.000 Fachkräfte für den Energieumbau.",
+    "url": "https://www.wa.de/lokales/boenen/lehrfabrik-fuers-klima-entsteht-fachkraefte-sollen-auf-energiewende-vorbereitet-werden-94308261.html",
     "source": "Westfälischer Anzeiger (Region Bergkamen)",
     "lang": "de",
     "scope": "city",
-    "date": "Tue, 19 May 2026 05:30:00 +0200"
+    "date": "Sun, 17 May 2026 08:30:00 +0200"
   },
   {
     "title": "Niclas Kirsten übernimmt nach nur vier Monaten Vakanz die Jugendarbeit",
@@ -70,14 +106,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Fri, 15 May 2026 05:30:00 +0200"
-  },
-  {
-    "title": "Mitmachen und gewinnen: Wir suchen die schönsten Freundschafts-Geschichten",
-    "snippet": "WA, Lippewelle und Veltins starten eine besondere Aktion. Ihre Freundschaft könnte mit einem tollen Preis belohnt werden.",
-    "url": "https://www.wa.de/hamm/zeitung-und-radio-suchen-die-schoensten-freundschafts-geschichten-94303892.html",
-    "source": "Westfälischer Anzeiger (Region Bergkamen)",
-    "lang": "de",
-    "scope": "city",
-    "date": "Thu, 14 May 2026 19:30:00 +0200"
   }
 ]

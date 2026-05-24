@@ -1,20 +1,20 @@
 [
   {
+    "title": "FW-GLA: Abschlussmeldung von der B224 in Gladbeck.",
+    "snippet": "Gladbeck (ots) - Die Feuerwehr Gladbeck hat zusammen mit der TUIS-Einheit (Transport Unfall Informationssystem der chemischen Industrie) des Chemiepark Marl das Gefahrgut umgefüllt. Durch ein Bergungsunternehmen wurde der verunfallte LKW ...",
+    "url": "https://www.presseportal.de/blaulicht/pm/117806/6280766",
+    "source": "Presseportal Polizei-NI",
+    "lang": "de",
+    "scope": "national",
+    "date": "Sun, 24 May 2026 08:27:40 +0200"
+  },
+  {
     "title": "Gefahrgut-Lkw kommt in Gladbeck von der Straße ab",
     "snippet": "Ein Gefahrguttransporter mit 25.000 Liter Acrylsäure verunglückt im Ruhrgebiet. Der Fahrer wird schwer verletzt und ins Krankenhaus gebracht. Die Bundesstraße bleibt voll gesperrt.",
     "url": "https://www.szlz.de/nordrhein-westfalen/gefahrgut-lkw-kommt-in-gladbeck-von-der-strasse-ab-PQ6MP3TGD3YOPCJ7NCBCIP6VKU.html",
     "source": "Schaumburger Zeitung (SZ-LZ)",
     "lang": "de",
     "scope": "city",
-    "date": "Sat, 23 May 2026 13:49:47 +0200"
-  },
-  {
-    "title": "Gefahrgut-Lkw kommt in Gladbeck von der Straße ab",
-    "snippet": "Ein Gefahrguttransporter mit 25.000 Liter Acrylsäure verunglückt im Ruhrgebiet. Der Fahrer wird schwer verletzt und ins Krankenhaus gebracht. Die Bundesstraße bleibt voll gesperrt.",
-    "url": "https://www.siegener-zeitung.de/nordrhein-westfalen/gefahrgut-lkw-kommt-in-gladbeck-von-der-strasse-ab-PQ6MP3TGD3YOPCJ7NCBCIP6VKU.html",
-    "source": "Siegener Zeitung",
-    "lang": "de",
-    "scope": "region",
     "date": "Sat, 23 May 2026 13:49:47 +0200"
   },
   {
@@ -34,14 +34,5 @@
     "lang": "de",
     "scope": "city",
     "date": "Sat, 23 May 2026 16:51:00 +0200"
-  },
-  {
-    "title": "Gefahrgut-Lkw kommt in Gladbeck von der Straße ab",
-    "snippet": "Ein Gefahrguttransporter mit 25.000 Liter Acrylsäure verunglückt im Ruhrgebiet. Der Fahrer wird schwer verletzt und ins Krankenhaus gebracht. Die Bundesstraße bleibt voll gesperrt.",
-    "url": "https://www.wn.de/nrw/gefahrgut-lkw-kommt-in-gladbeck-von-der-strasse-ab-3558820?utm_source=RSS",
-    "source": "Westfälische Nachrichten",
-    "lang": "de",
-    "scope": "city",
-    "date": "2026-05-23T11:49:10.879Z"
   }
 ]
