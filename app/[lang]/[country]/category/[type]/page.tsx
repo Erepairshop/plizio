@@ -21,7 +21,7 @@ import {
 
 export const dynamicParams = false;
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
   const out: { lang: string; country: string; type: string }[] = [];
   for (const lang of SUPPORTED_LANGS) {
     for (const countryId of TYPE_INDEX_COUNTRIES) {
@@ -33,6 +33,12 @@ export function generateStaticParams() {
       }
     }
   }
+  const LIMIT = Number(process.env.GSP_LIMIT ?? -1);
+  if (LIMIT === 0) {
+    console.error("[gSP category] GSP_LIMIT=0, returning 1 sample");
+    return out.slice(0, 1);
+  }
+  console.error("[gSP category] returning", out.length);
   return out;
 }
 
