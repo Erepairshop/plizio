@@ -442,6 +442,19 @@ export const franceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
+      ,
+        { "name": "Champs-Élysées", "text": "Die berühmteste Prachtstraße der Welt verbindet den Arc de Triomphe mit der Place de la Concorde durch Luxusgeschäfte und Cafés.", "category": "civic" },
+        { "name": "Jardin du Luxembourg", "text": "Ein eleganter Park im Quartier Latin mit Palast, Brunnen und beliebten Spazierwegen rund um das große Bassin.", "category": "recreational" },
+        { "name": "Centre Pompidou", "text": "Das ikonische Museum für moderne Kunst zeigt seine farbigen Röhren und Rolltreppen auf der Außenfassade.", "category": "cultural" },
+        { "name": "Place de la Concorde", "text": "Der größte Platz von Paris mit dem ägyptischen Obelisken aus Luxor und prachtvollen Brunnen aus dem 19. Jahrhundert.", "category": "historical" },
+        { "name": "Moulin Rouge", "text": "Das legendäre Kabarett in Pigmont mit seinen roten Windmühlenflügeln ist seit 1889 weltberühmt für seinen French Cancan.", "category": "cultural" },
+        { "name": "Palais Garnier", "text": "Das prunkvolle Opernhaus aus dem Second Empire mit der berühmten Marmortreppe und dem Chagall-Deckengemälde.", "category": "cultural" },
+        { "name": "Musée Rodin", "text": "Das Hôtel Biron beherbergt die Skulpturen Auguste Rodins, darunter Der Denker und Der Kuss, umgeben von einem Rosengarten.", "category": "museum" },
+        { "name": "Pont Alexandre III", "text": "Die prunkvollste Seinebrücke aus der Belle Époque mit goldenen Statuen, Cherubinen und Art-Nouveau-Lampen.", "category": "historical" },
+        { "name": "Père-Lachaise", "text": "Der größte Friedhof von Paris mit den Gräbern von Oscar Wilde, Jim Morrison, Édith Piaf und Frédéric Chopin.", "category": "historical" },
+        { "name": "Place des Vosges", "text": "Der älteste geplante Platz von Paris aus dem 17. Jahrhundert im Marais, umgeben von symmetrischen Backsteinarkaden.", "category": "historical" },
+        { "name": "Katakomben", "text": "Das unterirdische Beinhaus enthält die Gebeine von rund sechs Millionen Pariser, in kunstvollen Mustern arrangiert.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "Die älteste erhaltene Brücke von Paris aus dem Jahr 1607 verbindet beide Seineufer mit der Île de la Cité.", "category": "historical" }
       ],
       "hu": [
             {
@@ -492,6 +505,19 @@ export const franceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
+      ,
+        { "name": "Champs-Élysées", "text": "A világ leghíresebb sugárútja, amely a Diadalívet köti össze a Concorde térrel luxusüzletek és kávézók sorával.", "category": "civic" },
+        { "name": "Luxembourg-kert", "text": "Elegáns park a Quartier Latinban, palotával, szökőkutakkal és kedvelt sétautakkal a nagy medence körül.", "category": "recreational" },
+        { "name": "Pompidou Központ", "text": "Az ikonikus modern művészeti múzeum külső homlokzatán csövek és mozgólépcsők futnak színes vázukban.", "category": "cultural" },
+        { "name": "Concorde tér", "text": "Párizs legnagyobb tere a luxori egyiptomi obeliszkkel és pazar 19. századi szökőkutakkal.", "category": "historical" },
+        { "name": "Moulin Rouge", "text": "A Pigalle legendás kabaréja vörös szélmalomszárnyaival 1889 óta világhírű a francia kankánról.", "category": "cultural" },
+        { "name": "Palais Garnier", "text": "A második császárság pompás operaháza híres márványlépcsőjéről és Chagall mennyezetfreskójáról.", "category": "cultural" },
+        { "name": "Rodin Múzeum", "text": "A Hôtel Biron Auguste Rodin szobrait őrzi, többek között A gondolkodót és A csókot, rózsakerttel körülvéve.", "category": "museum" },
+        { "name": "Alexandre III. híd", "text": "A belle époque legpompásabb Szajna-hídja arany szobrokkal, puttókkal és art nouveau lámpákkal.", "category": "historical" },
+        { "name": "Père-Lachaise temető", "text": "Párizs legnagyobb temetője, ahol Oscar Wilde, Jim Morrison, Édith Piaf és Chopin nyugszik.", "category": "historical" },
+        { "name": "Place des Vosges", "text": "Párizs legrégebbi tervezett tere a 17. századból a Marais-ban, szimmetrikus vörös téglás árkádokkal körülvéve.", "category": "historical" },
+        { "name": "Katakombák", "text": "A földalatti csontkamra körülbelül hatmillió párizsi csontját tartalmazza díszes mintákba rendezve.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "Párizs legrégebbi fennmaradt hídja 1607-ből, mindkét Szajna-partot összekötve az Île de la Cité-vel.", "category": "historical" }
       ],
       "ro": [
             {
@@ -542,6 +568,19 @@ export const franceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
+      ,
+        { "name": "Champs-Élysées", "text": "Cel mai celebru bulevard din lume leagă Arcul de Triumf de Place de la Concorde prin magazine de lux și cafenele.", "category": "civic" },
+        { "name": "Grădina Luxembourg", "text": "Parc elegant în Cartierul Latin cu palat, fântâni și alei populare în jurul bazinului mare.", "category": "recreational" },
+        { "name": "Centre Pompidou", "text": "Iconic muzeu de artă modernă cu țevi colorate și scări rulante expuse pe fațada exterioară.", "category": "cultural" },
+        { "name": "Place de la Concorde", "text": "Cea mai mare piață din Paris, cu obeliscul egiptean din Luxor și fântâni magnifice din secolul XIX.", "category": "historical" },
+        { "name": "Moulin Rouge", "text": "Legendarul cabaret din Pigalle cu aripi roșii de moară este celebru în lume pentru french cancan din 1889.", "category": "cultural" },
+        { "name": "Palais Garnier", "text": "Sumptuoasa operă a Imperiului al Doilea, faimoasă pentru scara de marmură și plafonul pictat de Chagall.", "category": "cultural" },
+        { "name": "Muzeul Rodin", "text": "Hôtel Biron găzduiește sculpturile lui Auguste Rodin, inclusiv Gânditorul și Sărutul, în mijlocul unei grădini de trandafiri.", "category": "museum" },
+        { "name": "Podul Alexandru III", "text": "Cel mai somptuos pod peste Sena din Belle Époque, cu statui aurite, heruvimi și lămpi Art Nouveau.", "category": "historical" },
+        { "name": "Cimitirul Père-Lachaise", "text": "Cel mai mare cimitir din Paris, găzduind mormintele lui Oscar Wilde, Jim Morrison, Édith Piaf și Chopin.", "category": "historical" },
+        { "name": "Place des Vosges", "text": "Cea mai veche piață planificată din Paris, din secolul XVII, în Marais, înconjurată de arcade simetrice din cărămidă roșie.", "category": "historical" },
+        { "name": "Catacombele", "text": "Osuarul subteran conține oasele a aproximativ șase milioane de parizieni aranjate în modele decorative.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "Cel mai vechi pod păstrat din Paris, din 1607, conectând cele două maluri ale Senei cu Île de la Cité.", "category": "historical" }
       ],
       "en": [
             {
@@ -592,8 +631,45 @@ export const franceCities: POI[] = [
                   "category": "religious",
                   "confidence": "high"
             }
+      ,
+        { "name": "Champs-Élysées", "text": "The world's most famous boulevard connects the Arc de Triomphe to Place de la Concorde through luxury shops and cafés.", "category": "civic" },
+        { "name": "Luxembourg Gardens", "text": "An elegant park in the Latin Quarter with a palace, fountains, and popular paths around the great central basin.", "category": "recreational" },
+        { "name": "Centre Pompidou", "text": "This iconic modern art museum displays its colored pipes and escalators on the outside facade.", "category": "cultural" },
+        { "name": "Place de la Concorde", "text": "The largest square in Paris features the Egyptian obelisk from Luxor and magnificent 19th-century fountains.", "category": "historical" },
+        { "name": "Moulin Rouge", "text": "The legendary cabaret in Pigalle with its red windmill sails has been world-famous for the French cancan since 1889.", "category": "cultural" },
+        { "name": "Palais Garnier", "text": "The sumptuous Second Empire opera house, famous for its marble staircase and Chagall-painted ceiling.", "category": "cultural" },
+        { "name": "Musée Rodin", "text": "The Hôtel Biron houses Auguste Rodin's sculptures including The Thinker and The Kiss, set among rose gardens.", "category": "museum" },
+        { "name": "Pont Alexandre III", "text": "The most ornate Seine bridge from the Belle Époque era, adorned with golden statues, cherubs and Art Nouveau lamps.", "category": "historical" },
+        { "name": "Père-Lachaise Cemetery", "text": "The largest cemetery in Paris, holding the graves of Oscar Wilde, Jim Morrison, Édith Piaf and Chopin.", "category": "historical" },
+        { "name": "Place des Vosges", "text": "The oldest planned square in Paris from the 17th century in the Marais, surrounded by symmetric red-brick arcades.", "category": "historical" },
+        { "name": "Catacombs", "text": "This underground ossuary contains the remains of about six million Parisians arranged in decorative patterns.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "The oldest surviving bridge in Paris from 1607 connects both banks of the Seine via Île de la Cité.", "category": "historical" }
       ]
-}
+,
+      "fr": [
+        { "name": "Tour Eiffel", "text": "Le symbole de Paris est une tour en treillis de fer sur le Champ de Mars, construite par Gustave Eiffel pour l'Exposition universelle de 1889.", "category": "historical" },
+        { "name": "Louvre", "text": "Le musée d'art le plus visité au monde abrite dans un ancien palais des chefs-d'œuvre tels que la Joconde et la Vénus de Milo.", "category": "museum" },
+        { "name": "Cathédrale Notre-Dame de Paris", "text": "Un chef-d'œuvre gothique sur l'île de la Cité, célèbre pour ses gargouilles, ses rosaces et son importance historique.", "category": "religious" },
+        { "name": "Arc de Triomphe", "text": "Ce monument historique situé à l'extrémité ouest des Champs-Élysées commémore les victoires des armées françaises sous Napoléon.", "category": "historical" },
+        { "name": "Basilique du Sacré-Cœur", "text": "Cette église de pèlerinage blanc neige située sur la colline de Montmartre offre l'une des plus belles vues panoramiques sur toute la ville.", "category": "religious" },
+        { "name": "Musée d'Orsay", "text": "Une ancienne gare sur les rives de la Seine qui présente aujourd'hui une collection majeure d'œuvres impressionnistes et post-impressionnistes.", "category": "museum" },
+        { "name": "Panthéon", "text": "Le temple républicain de la France dans le Quartier Latin sert de lieu de sépulture à des personnalités illustres comme Voltaire et Marie Curie.", "category": "historical" },
+        { "name": "Sainte-Chapelle", "text": "Une chapelle royale dotée d'impressionnants vitraux du XIIIe siècle, construite à l'origine pour abriter des reliques.", "category": "religious" }
+      ,
+        { "name": "Champs-Élysées", "text": "La plus célèbre avenue du monde relie l'Arc de Triomphe à la place de la Concorde par ses boutiques de luxe et ses cafés.", "category": "civic" },
+        { "name": "Jardin du Luxembourg", "text": "Parc élégant du Quartier latin avec palais, fontaines et allées populaires autour du grand bassin central.", "category": "recreational" },
+        { "name": "Centre Pompidou", "text": "Ce musée d'art moderne iconique expose ses tuyaux colorés et ses escalators sur la façade extérieure.", "category": "cultural" },
+        { "name": "Place de la Concorde", "text": "La plus grande place de Paris abrite l'obélisque égyptien de Louxor et de magnifiques fontaines du XIXe siècle.", "category": "historical" },
+        { "name": "Moulin Rouge", "text": "Le cabaret légendaire de Pigalle aux ailes de moulin rouges est mondialement célèbre pour son french cancan depuis 1889.", "category": "cultural" },
+        { "name": "Palais Garnier", "text": "Le somptueux opéra du Second Empire est célèbre pour son grand escalier en marbre et son plafond peint par Chagall.", "category": "cultural" },
+        { "name": "Musée Rodin", "text": "L'Hôtel Biron abrite les sculptures d'Auguste Rodin dont Le Penseur et Le Baiser, au milieu d'un jardin de roses.", "category": "museum" },
+        { "name": "Pont Alexandre III", "text": "Le pont le plus orné de la Seine, de la Belle Époque, est paré de statues dorées, de chérubins et de lampes Art nouveau.", "category": "historical" },
+        { "name": "Cimetière du Père-Lachaise", "text": "Le plus grand cimetière de Paris abrite les tombes d'Oscar Wilde, Jim Morrison, Édith Piaf et Chopin.", "category": "historical" },
+        { "name": "Place des Vosges", "text": "La plus ancienne place planifiée de Paris, du XVIIe siècle, dans le Marais, entourée d'arcades symétriques en brique rouge.", "category": "historical" },
+        { "name": "Catacombes", "text": "Cet ossuaire souterrain renferme les restes d'environ six millions de Parisiens disposés en motifs décoratifs.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "Le plus ancien pont conservé de Paris, datant de 1607, relie les deux rives de la Seine via l'Île de la Cité.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "marseille",
@@ -799,7 +875,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Basilique Notre-Dame de la Garde", "text": "Visible de loin, cette basilique surplombe la ville et est considérée comme la protectrice des marins de Marseille.", "category": "religious" },
+        { "name": "Vieux-Port", "text": "Le port historique est le cœur battant de la ville, célèbre pour son marché aux poissons et ses promenades animées.", "category": "civic" },
+        { "name": "Le Panier", "text": "Le plus vieux quartier de Marseille séduit par ses ruelles étroites, ses façades colorées et ses nombreux petits ateliers.", "category": "historical" },
+        { "name": "MuCEM", "text": "Le Musée des civilisations de l'Europe et de la Méditerranée est un joyau architectural situé à l'entrée du Vieux-Port.", "category": "museum" },
+        { "name": "Château d'If", "text": "Cette célèbre forteresse située sur une petite île a servi de prison et constitue le cadre du roman Le Comte de Monte-Cristo.", "category": "fortress" },
+        { "name": "Palais Longchamp", "text": "Un monument somptueux du XIXe siècle, construit pour célébrer l'arrivée de l'eau dans la ville, abritant deux musées.", "category": "historical" },
+        { "name": "Cathédrale de Marseille", "text": "La Cathédrale de la Major est un édifice imposant de style néo-byzantin aux caractéristiques rayures claires et sombres.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "lyon",
@@ -1005,7 +1091,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Basilique Notre-Dame de Fourvière", "text": "Cette basilique majestueuse domine la colline de Fourvière et est dédiée à la protection de la ville par la Vierge Marie.", "category": "religious" },
+        { "name": "Vieux Lyon", "text": "Le quartier Renaissance au pied de la colline est classé au patrimoine mondial de l'UNESCO et célèbre pour ses traboules mystérieuses.", "category": "historical" },
+        { "name": "Place Bellecour", "text": "L'une des plus grandes places ouvertes d'Europe, située au centre-ville, ornée d'une imposante statue équestre de Louis XIV.", "category": "civic" },
+        { "name": "Parc de la Tête d'Or", "text": "Le plus grand parc urbain de France comprend un lac, des jardins botaniques et un zoo, en faisant une destination de loisirs très appréciée.", "category": "recreational" },
+        { "name": "Musée des Confluences", "text": "Un musée moderne de sciences et d'anthropologie à l'architecture futuriste situé au confluent du Rhône et de la Saône.", "category": "museum" },
+        { "name": "Théâtre antique de Fourvière", "text": "Ces ruines antiques témoignent de la fondation romaine de la ville de Lugdunum et servent aujourd'hui à des spectacles en plein air.", "category": "historical" },
+        { "name": "Cathédrale Saint-Jean-Baptiste", "text": "L'église gothique principale du Vieux Lyon abrite une fascinante horloge astronomique du XIVe siècle.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "toulouse",
@@ -1211,7 +1307,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Basilique Saint-Sernin", "text": "Cette église romane majeure est classée à l'UNESCO et était une étape clé sur le chemin de Saint-Jacques-de-Compostelle.", "category": "religious" },
+        { "name": "Place du Capitole", "text": "La somptueuse place centrale de la 'ville rose' accueille l'hôtel de ville et l'opéra dans un bâtiment impressionnant.", "category": "civic" },
+        { "name": "Couvent des Jacobins", "text": "Un chef-d'œuvre du gothique méridional, célèbre pour sa colonne unique en forme de palmier et son cloître.", "category": "monastic" },
+        { "name": "Canal du Midi", "text": "Ce canal historique reliant la Garonne à la Méditerranée invite à des promenades relaxantes sous les platanes ombragés.", "category": "historical" },
+        { "name": "Pont Neuf", "text": "Le plus vieux pont de la ville enjambe la Garonne avec ses arches caractéristiques et offre une belle vue sur la vieille ville.", "category": "historical" },
+        { "name": "Cité de l'Espace", "text": "Un parc à thème consacré à l'exploration spatiale avec des répliques de fusées et de stations spatiales pour les passionnés.", "category": "recreational" },
+        { "name": "Musée des Augustins", "text": "Ce musée des beaux-arts est installé dans un ancien monastère et présente une riche collection de sculptures et de peintures.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "nice", population: 357737,
@@ -1743,7 +1849,18 @@ export const franceCities: POI[] = [
             { "name": "Saint Nicholas Basilica", "text": "A stunning 19th-century Gothic Revival basilica located in the city center, known for its tall spire and detailed carvings.", "category": "religious", "confidence": "high" },
             { "name": "Procé Park", "text": "A picturesque English-style landscape park featuring rare trees, statues, and a manor house, perfect for peaceful walks.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Château des ducs de Bretagne", "text": "Cette forteresse du XVe siècle était la résidence des ducs de Bretagne et abrite aujourd'hui le musée d'Histoire de Nantes.", "category": "fortress" },
+        { "name": "Les Machines de l'île", "text": "Un projet artistique installé dans les anciens chantiers navals, présentant des animaux mécaniques géants inspirés de Jules Verne.", "category": "cultural" },
+        { "name": "Cathédrale Saint-Pierre-et-Saint-Paul", "text": "Un joyau de l'art gothique flamboyant, dont la construction débuta en 1434, abritant le tombeau de François II, dernier duc de Bretagne.", "category": "religious" },
+        { "name": "Passage Pommeraye", "text": "Cette magnifique galerie commerçante du XIXe siècle s'étend sur trois niveaux et est célèbre pour son escalier monumental.", "category": "historical" },
+        { "name": "Jardin des Plantes", "text": "L'un des jardins botaniques les plus importants de France, renommé pour sa collection de camélias et ses sculptures végétales originales.", "category": "natural" },
+        { "name": "Musée d'arts de Nantes", "text": "Après une rénovation majeure, ce musée expose une riche collection allant de la Renaissance à l'art contemporain.", "category": "museum" },
+        { "name": "Le Lieu Unique", "text": "Ce centre culturel installé dans l'ancienne usine de biscuits LU est un espace dédié à l'art contemporain, au théâtre et à la musique.", "category": "cultural" },
+        { "name": "Trentemoult", "text": "Ancien village de pêcheurs sur la Loire, connu pour ses maisons colorées, ses ruelles étroites et son atmosphère décontractée.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "bordeaux", population: 267991,
@@ -2009,7 +2126,18 @@ export const franceCities: POI[] = [
             { "name": "CAPC Musée d'art contemporain", "text": "Contemporary art museum located in a former warehouse, displaying major modern works.", "category": "museum", "confidence": "high" },
             { "name": "Marché des Capucins", "text": "The city's largest market, known as the belly of Bordeaux, famous for fresh local food.", "category": "culinary", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Place de la Bourse", "text": "Cette place majestueuse du XVIIIe siècle est parfaitement complétée par le Miroir d'eau, le plus grand bassin réfléchissant au monde.", "category": "civic" },
+        { "name": "Cathédrale Saint-André", "text": "La cathédrale gothique de Bordeaux était sur le chemin de Saint-Jacques et est célèbre pour son clocher séparé, la tour Pey-Berland.", "category": "religious" },
+        { "name": "Grand Théâtre", "text": "Ce théâtre néoclassique est considéré comme l'un des plus beaux au monde et a servi de modèle à l'Opéra Garnier de Paris.", "category": "cultural" },
+        { "name": "Cité du Vin", "text": "Un édifice futuriste sur les quais de la Garonne, dédié à l'histoire et à la culture du vin à travers le monde.", "category": "museum" },
+        { "name": "Pont de Pierre", "text": "Le premier pont de Bordeaux, construit sur ordre de Napoléon Ier, possède exactement 17 arches pour les lettres de son nom.", "category": "historical" },
+        { "name": "Grosse Cloche", "text": "Cette porte historique faisait autrefois partie de l'hôtel de ville et abrite une cloche massive utilisée autrefois en cas d'incendie.", "category": "historical" },
+        { "name": "Porte Cailhau", "text": "Une magnifique porte médiévale commémorant la victoire de Charles VIII en Italie, ressemblant à un château de conte de fées.", "category": "historical" },
+        { "name": "Jardin Public", "text": "Un jardin à l'anglaise au cœur de la ville, créé en 1746, abritant un muséum d'histoire naturelle et un théâtre de marionnettes.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "strasbourg", population: 293771,
@@ -2283,7 +2411,18 @@ export const franceCities: POI[] = [
             { "name": "European Court of Human Rights", "text": "An iconic modern building designed by Richard Rogers, representing the city's European importance.", "category": "civic", "confidence": "high" },
             { "name": "Jardin des Deux Rives", "text": "A border-crossing park on the Rhine with a pedestrian bridge linking France and Germany.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame", "text": "Cette majestueuse cathédrale gothique avec sa flèche de 142 mètres et sa célèbre horloge astronomique est l'emblème de Strasbourg.", "category": "religious" },
+        { "name": "La Petite France", "text": "Le quartier le plus pittoresque de la vieille ville, caractérisé par ses maisons à colombages, ses canaux et ses fleurs aux balcons.", "category": "historical" },
+        { "name": "Barrage Vauban", "text": "Un barrage fortifié du XVIIe siècle servant de terrasse panoramique et offrant une vue magnifique sur les Ponts Couverts.", "category": "fortress" },
+        { "name": "Palais Rohan", "text": "Cette ancienne résidence des princes-évêques de style classique français abrite aujourd'hui trois musées importants de la ville.", "category": "historical" },
+        { "name": "Ponts Couverts", "text": "Trois ponts et quatre tours massives du XIIIe siècle qui faisaient partie des fortifications médiévales de la ville.", "category": "historical" },
+        { "name": "Parc de l'Orangerie", "text": "Le plus vieux parc de la ville est connu pour ses cigognes, son lac et le Pavillon Joséphine, nommé d'après l'impératrice.", "category": "natural" },
+        { "name": "Église Saint-Thomas", "text": "La 'cathédrale protestante' de Strasbourg abrite le mausolée monumental du maréchal de Saxe et un orgue historique.", "category": "religious" },
+        { "name": "Parlement européen", "text": "Un bâtiment moderne en verre impressionnant sur les rives de l'Ill, siège de l'organe démocratique de l'Union européenne.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "lille", population: 238695,
@@ -2593,7 +2732,20 @@ export const franceCities: POI[] = [
             { "name": "Marché de Wazemmes", "text": "One of the largest markets in France, known for its multicultural atmosphere and products.", "category": "culinary", "confidence": "high" },
             { "name": "Parc Jean-Lebas", "text": "A spacious urban park near the fine arts museum, perfect for walks and recreation.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Grand Place", "text": "La place centrale de Lille, nommée d'après le général de Gaulle, est entourée de magnifiques édifices flamands.", "category": "civic" },
+        { "name": "Vieille Bourse", "text": "Construite au XVIIe siècle, l'ancienne bourse est considérée comme l'un des plus beaux bâtiments de la ville avec sa cour intérieure.", "category": "historical" },
+        { "name": "Palais des Beaux-Arts", "text": "L'un des plus grands musées d'art de France avec une impressionnante collection allant de Goya à Rubens.", "category": "museum" },
+        { "name": "Citadelle de Lille", "text": "Une forteresse en étoile conçue par Vauban au XVIIe siècle, entourée d'un vaste parc paysager.", "category": "fortress" },
+        { "name": "Beffroi de l'hôtel de ville", "text": "Haut de 104 mètres, le beffroi offre une vue panoramique sur la ville et est classé au patrimoine mondial de l'UNESCO.", "category": "civic" },
+        { "name": "Cathédrale Notre-Dame-de-la-Treille", "text": "La cathédrale néogothique de Lille séduit par sa façade moderne et son architecture impressionnante.", "category": "religious" },
+        { "name": "Hospice Comtesse", "text": "Ancien hôpital médiéval au cœur du Vieux-Lille, qui abrite aujourd'hui un musée municipal.", "category": "museum" },
+        { "name": "Porte de Paris", "text": "Un magnifique arc de triomphe érigé à la fin du XVIIe siècle en l'honneur de Louis XIV.", "category": "historical" },
+        { "name": "Musée d'Histoire naturelle", "text": "Ce musée propose de vastes collections sur la géologie, la zoologie et l'histoire industrielle de la région.", "category": "museum" },
+        { "name": "Gare de Lille-Flandres", "text": "La gare principale historique de Lille présente une façade impressionnante récupérée de l'ancienne gare du Nord de Paris.", "category": "station" }
+      ]
+    }
   },
   {
     id: "versailles",
@@ -2983,7 +3135,20 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Palais des Festivals", "text": "Le célèbre lieu accueillant le Festival international du film de Cannes, avec son tapis rouge mondialement connu.", "category": "cultural" },
+        { "name": "La Croisette", "text": "L'élégante promenade maritime bordée d'hôtels de luxe, de boutiques et de plages de sable le long de la Méditerranée.", "category": "recreational" },
+        { "name": "Le Suquet", "text": "Le quartier historique sur la colline offre des ruelles médiévales et une vue imprenable sur le port.", "category": "historical" },
+        { "name": "Îles de Lérins", "text": "Un archipel au large de la côte, célèbre pour le monastère Saint-Honorat et le fort de Sainte-Marguerite.", "category": "natural" },
+        { "name": "Marché Forville", "text": "Un marché couvert animé au cœur de la ville, renommé pour ses produits régionaux frais et ses fleurs.", "category": "culinary" },
+        { "name": "Musée des Explorations du Monde", "text": "Situé dans un château médiéval, ce musée présente des arts méditerranéens et orientaux.", "category": "museum" },
+        { "name": "Vieux Port de Cannes", "text": "Le port pittoresque où les yachts de luxe côtoient les bateaux de pêche traditionnels.", "category": "recreational" },
+        { "name": "Église Notre-Dame d'Espérance", "text": "Une église de style gothique du XVIe siècle située sur la colline du Suquet.", "category": "religious" },
+        { "name": "Villa Domergue", "text": "Un magnifique domaine de style Art déco avec de superbes jardins, utilisé pour des événements culturels.", "category": "historical" },
+        { "name": "Rue d'Antibes", "text": "La rue commerçante principale de Cannes, connue pour ses boutiques de mode élégantes et ses marques de luxe.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "french-alps",
@@ -3489,7 +3654,20 @@ export const franceCities: POI[] = [
             { "name": "Saint-Pierre Park", "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.", "category": "recreational", "confidence": "high" },
             { "name": "Louis XVIII Column", "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Beffroi de l'hôtel de ville", "text": "Le somptueux hôtel de ville de Calais se distingue par son style flamand et son beffroi haut et caractéristique.", "category": "civic" },
+        { "name": "Les Bourgeois de Calais", "text": "La célèbre sculpture en bronze d'Auguste Rodin commémore le sacrifice des bourgeois de la ville durant la guerre.", "category": "historical" },
+        { "name": "Phare de Calais", "text": "Un phare historique du centre-ville, haut de 58 mètres, offrant une vue sur le pas de Calais.", "category": "historical" },
+        { "name": "Musée de la dentelle", "text": "Ce musée est dédié à l'histoire de la dentelle, spécialité pour laquelle Calais est mondialement connue.", "category": "museum" },
+        { "name": "Fort Risban", "text": "Une forteresse historique à l'entrée du port qui protégeait autrefois la ville des attaques venant de la mer.", "category": "fortress" },
+        { "name": "Citadelle de Calais", "text": "Une ancienne fortification reconvertie en parc et espace de loisirs avec des installations sportives.", "category": "fortress" },
+        { "name": "Église Notre-Dame", "text": "La seule église de France de style Tudor, construite durant l'occupation anglaise de la ville.", "category": "religious" },
+        { "name": "Plage de Calais", "text": "Une vaste plage de sable avec une promenade, idéale pour des balades en admirant le ballet des ferries.", "category": "natural" },
+        { "name": "Parc Richelieu", "text": "Un charmant parc urbain au cœur de Calais, idéal pour se détendre et faire de courtes promenades.", "category": "recreational" },
+        { "name": "Tour du Guet", "text": "Une tour de guet médiévale du XIIIe siècle, le plus vieux bâtiment du centre-ville de Calais.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "reims", population: 187206,
@@ -3803,7 +3981,20 @@ export const franceCities: POI[] = [
             { "name": "Planétarium de Reims", "text": "A modern astronomy center offering fascinating shows about the universe and the stars for visitors of all ages.", "category": "museum", "confidence": "high" },
             { "name": "Gare de Reims", "text": "The historic railway station built in the 19th century, a major transport hub in the region with elegant architecture.", "category": "station", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame", "text": "Ce chef-d'œuvre gothique fut le lieu de sacre des rois de France et est classé au patrimoine mondial de l'UNESCO.", "category": "religious" },
+        { "name": "Palais du Tau", "text": "L'ancienne résidence des archevêques de Reims abrite aujourd'hui les trésors de la cathédrale et des statues.", "category": "historical" },
+        { "name": "Basilique Saint-Remi", "text": "Une église abbatiale romano-gothique importante où fut enterré Saint Rémi.", "category": "religious" },
+        { "name": "Musée Saint-Remi", "text": "Ce musée situé dans une ancienne abbaye retrace l'histoire de Reims depuis l'Antiquité.", "category": "museum" },
+        { "name": "Porte de Mars", "text": "L'imposant arc de triomphe romain du IIIe siècle est le plus grand monument de ce type dans la région.", "category": "historical" },
+        { "name": "Place Royale", "text": "Une place classique du XVIIIe siècle ornée d'une statue de Louis XV en son centre.", "category": "civic" },
+        { "name": "Villa Demoiselle", "text": "Un joyau architectural alliant Art nouveau et Art déco, célèbre pour ses intérieurs somptueux.", "category": "historical" },
+        { "name": "Musée de la Reddition", "text": "Le lieu historique où fut signée la capitulation sans condition de la Wehrmacht en 1945.", "category": "museum" },
+        { "name": "Caves de champagne", "text": "Les célèbres caves crayeuses des grandes maisons de champagne proposent des visites à travers des kilomètres de galeries.", "category": "culinary" },
+        { "name": "Opéra de Reims", "text": "Un magnifique bâtiment théâtral connu pour son architecture et sa programmation variée.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "fr-chateau-fontainebleau",
@@ -4554,7 +4745,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame de Reims", "text": "Ce chef-d'œuvre gothique a été, pendant des siècles, le lieu traditionnel de couronnement des rois de France.", "category": "religious" },
+        { "name": "Palais du Tau", "text": "L'ancien palais épiscopal abrite désormais le trésor de la cathédrale et des sculptures significatives.", "category": "historical" },
+        { "name": "Basilique Saint-Remi", "text": "Une église abbatiale majeure de style romano-gothique qui conserve les reliques de Saint Rémi.", "category": "religious" },
+        { "name": "Porte de Mars", "text": "Un arc de triomphe romain monumental du IIIe siècle, le plus grand de son genre dans l'Empire romain.", "category": "historical" },
+        { "name": "Place Royale", "text": "Une place élégante de style classique dotée d'une statue centrale en l'honneur du roi Louis XV.", "category": "civic" },
+        { "name": "Musée de la Reddition", "text": "C'est dans ce bâtiment que fut signée, le 7 mai 1945, la capitulation sans condition de l'armée allemande.", "category": "museum" },
+        { "name": "Champagne Pommery", "text": "L'une des maisons de champagne les plus célèbres, avec ses vastes caves crayeuses classées au patrimoine mondial de l'UNESCO.", "category": "culinary" }
+      ]
+    }
   },
   
   
@@ -4778,7 +4979,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Citadelle de Saint-Tropez", "text": "Cette forteresse du XVIIe siècle offre une vue imprenable sur la baie et abrite un musée maritime.", "category": "fortress" },
+        { "name": "Port de Saint-Tropez", "text": "Le célèbre port de plaisance est l'endroit idéal pour admirer des yachts luxueux et profiter de l'animation.", "category": "recreational" },
+        { "name": "Musée de l'Annonciade", "text": "Ce musée d'art installé dans une ancienne chapelle présente des œuvres de peintres modernes comme Matisse et Signac.", "category": "museum" },
+        { "name": "Église Notre-Dame-de-l'Assomption", "text": "Avec son clocher caractéristique, cette église aux tons ocre et sienne est l'emblème de la ville.", "category": "religious" },
+        { "name": "Place des Lices", "text": "Une charmante place sous les platanes où les locaux jouent à la pétanque et où se tiennent des marchés réguliers.", "category": "civic" },
+        { "name": "Plage de Pampelonne", "text": "L'une des plages les plus célèbres au monde, connue pour ses clubs de plage exclusifs et son sable fin.", "category": "natural" },
+        { "name": "Chapelle Sainte-Anne", "text": "Une chapelle simple perchée sur une colline, offrant calme et une vue panoramique sur la mer.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "fr-le-mans",
@@ -5000,7 +5211,17 @@ export const franceCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Julien", "text": "Cette magnifique cathédrale mêle les styles roman et gothique et est réputée pour ses vitraux exceptionnels.", "category": "religious" },
+        { "name": "Cité Plantagenêt", "text": "La vieille ville parfaitement conservée avec ses maisons à colombages et ses rues pavées sert souvent de décor de film.", "category": "historical" },
+        { "name": "Muraille romaine", "text": "L'une des enceintes romaines les mieux préservées d'Europe, connue pour ses motifs géométriques décoratifs en briques.", "category": "historical" },
+        { "name": "Circuit de la Sarthe", "text": "Le circuit légendaire qui accueille chaque année la célèbre course des 24 Heures du Mans.", "category": "recreational" },
+        { "name": "Abbaye de l'Épau", "text": "Cette ancienne abbaye cistercienne du XIIIe siècle abrite le tombeau de la reine Bérengère.", "category": "monastic" },
+        { "name": "Musée des 24 Heures du Mans", "text": "Un musée fascinant qui retrace l'histoire de la plus grande course d'endurance au monde et ses véhicules.", "category": "museum" },
+        { "name": "Jardin des Plantes du Mans", "text": "Un superbe parc paysager aménagé au XIXe siècle, comprenant notamment un jardin à l'anglaise.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "chateau-versailles",

@@ -1,6 +1,13 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
+import {
+  TYPE_BUCKETS,
+  TYPE_HEADINGS,
+  TYPE_INDEX_COUNTRIES,
+  getPoisForCountryBucket,
+  typeSlugFor,
+} from "@/lib/seo/typeIndex";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
 import { deutschlandMap, deutschlandViewBox } from "@/lib/visualLab/maps/deutschland.svg";
 import { romaniaMap, romaniaViewBox } from "@/lib/visualLab/maps/romania.svg";
@@ -172,6 +179,33 @@ export default async function CountryPage({
             </div>
           </div>
         </div>
+
+        {TYPE_INDEX_COUNTRIES.includes(countryId) ? (
+          <section className="mt-12 rounded-3xl border border-cyan-500/15 bg-[#07111b]/80 p-6">
+            <h2 className="text-xl font-semibold text-white/90">
+              {lang === "de" ? "Nach Kategorie durchstöbern" : lang === "hu" ? "Böngészés kategória szerint" : lang === "ro" ? "Răsfoiește pe categorii" : "Browse by category"}
+            </h2>
+            <ul className="mt-4 flex flex-wrap gap-2">
+              {Object.keys(TYPE_BUCKETS).map((bucket) => {
+                const count = getPoisForCountryBucket(countryId, bucket).length;
+                if (count < 4) return null;
+                const slug = typeSlugFor(bucket, lang as Lang);
+                const heading = TYPE_HEADINGS[bucket][lang as Lang];
+                return (
+                  <li key={bucket}>
+                    <a
+                      href={`/${lang}/${countrySlugFor(lang as Lang, countryId)}/category/${slug}/`}
+                      className="inline-flex items-center gap-2 rounded-full border border-cyan-500/20 bg-cyan-500/8 px-4 py-1.5 text-sm text-cyan-100/90 hover:border-cyan-300/40 hover:bg-cyan-500/15"
+                    >
+                      {heading}
+                      <span className="text-[0.7rem] text-white/45">{count}</span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        ) : null}
       </section>
       <StructuredData data={createCountryStructuredData(lang as Lang, countryCopy.name, countryCopy.description)} />
       <script

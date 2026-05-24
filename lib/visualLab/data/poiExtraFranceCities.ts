@@ -238,7 +238,16 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Crypte Saint-Laurent", "text": "A significant archaeological site with remains dating back to the 6th century, showcasing the city's early Christian history.", "category": "historical", "confidence": "high" },
             { "name": "Le Magasin - CNAC", "text": "A renowned contemporary art center housed in a former industrial hall designed by Gustave Eiffel.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Bastille de Grenoble", "text": "Forteresse historique sur une colline offrant une vue panoramique spectaculaire sur la ville et les Alpes.", "category": "fortress" },
+        { "name": "Téléphérique de Grenoble", "text": "Célèbre pour ses cabines sphériques, les 'Bulles', reliant le centre-ville à la forteresse de la Bastille.", "category": "recreational" },
+        { "name": "Musée de Grenoble", "text": "L'un des musées d'art les plus prestigieux de France avec une collection allant de l'Antiquité à la modernité.", "category": "museum" },
+        { "name": "Place Grenette", "text": "Place centrale bordée de cafés et commerces, lieu de rencontre privilégié des habitants.", "category": "civic" },
+        { "name": "Jardin de Ville", "text": "Charmant parc au cœur de Grenoble, autrefois jardin privé du duc de Lesdiguières.", "category": "recreational" },
+        { "name": "Cathédrale Notre-Dame", "text": "Édifice religieux du XIIIe siècle, réputé pour son ciborium exceptionnel du XVe siècle.", "category": "religious" }
+      ]
+    }
   },
   
   {
@@ -735,7 +744,16 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Pont Gustave-Flaubert", "text": "The tallest vertical-lift bridge in Europe and a modern landmark of Rouen, allowing ships to pass on the Seine.", "category": "civic", "confidence": "high" },
             { "name": "Panorama de la Côte Sainte-Catherine", "text": "A hill on the outskirts offering the most iconic panoramic view of Rouen, its cathedral, and the Seine.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame de Rouen", "text": "Splendide cathédrale gothique célèbre pour sa façade peinte par Claude Monet dans sa série de tableaux.", "category": "religious" },
+        { "name": "Le Gros-Horloge", "text": "Horloge astronomique du XIVe siècle surmontant un arc Renaissance au-dessus d'une rue animée de la vieille ville.", "category": "historical" },
+        { "name": "Place du Vieux-Marché", "text": "Place historique où Jeanne d'Arc fut exécutée en 1431, abritant aujourd'hui une église mémorial moderne.", "category": "historical" },
+        { "name": "Musée des Beaux-Arts de Rouen", "text": "L'un des musées d'art les plus importants de France, riche en œuvres impressionnistes et sculptures.", "category": "museum" },
+        { "name": "Abbatiale Saint-Ouen", "text": "Chef-d'œuvre du gothique flamboyant, célèbre pour ses dimensions imposantes et son orgue Cavaillé-Coll.", "category": "monastic" },
+        { "name": "Palais de Justice", "text": "Ancien parlement de Normandie, exemple exceptionnel d'architecture civile gothique et Renaissance.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "mountain-aiguille-du-midi-extra",
@@ -1019,7 +1037,16 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Faculty of Medicine", "text": "One of the oldest medical schools in the Western world, located in a former Benedictine monastery.", "category": "historical", "confidence": "high" },
             { "name": "Hôtel de Ville", "text": "The modern City Hall, designed by Jean Nouvel, is a striking example of contemporary blue-glass architecture.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Place de la Comédie", "text": "Place centrale de la ville, surnommée l'œuf pour sa forme ovale, dominée par un magnifique opéra.", "category": "civic" },
+        { "name": "Cathédrale Saint-Pierre", "text": "Imposante cathédrale gothique avec deux tours massives veillant sur l'entrée principale.", "category": "religious" },
+        { "name": "Arc de Triomphe", "text": "Érigé à la gloire de Louis XIV, il forme la porte monumentale menant à la promenade du Peyrou.", "category": "historical" },
+        { "name": "Musée Fabre", "text": "Musée majeur de la région avec une riche collection de peinture européenne, du baroque au moderne.", "category": "museum" },
+        { "name": "Jardin des Plantes de Montpellier", "text": "Plus vieux jardin botanique de France, fondé en 1593, offrant calme et diversité scientifique.", "category": "natural" },
+        { "name": "Promenade du Peyrou", "text": "Vaste esplanade royale avec vue panoramique, château d'eau et aqueduc Saint-Clément.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "animal-habitat-camargue-extra",
@@ -1389,7 +1416,16 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Remparts d'Avignon", "text": "Well-preserved 14th-century defensive walls encircling the historic center, spanning 4.3 kilometers.", "category": "historical", "confidence": "high" },
             { "name": "Palais du Roure", "text": "A 15th-century mansion and cultural center dedicated to the history and traditions of Provence.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Palais des Papes", "text": "Plus grand palais gothique au monde, résidence des papes au XIVe siècle et site inscrit au patrimoine mondial.", "category": "historical" },
+        { "name": "Pont Saint-Bénézet", "text": "Célèbre pont médiéval ne traversant que la moitié du Rhône, rendu célèbre par une chanson populaire.", "category": "historical" },
+        { "name": "Cathédrale Notre-Dame des Doms", "text": "Cathédrale romane jouxtant le Palais des Papes, surmontée d'une statue dorée de la Vierge Marie.", "category": "religious" },
+        { "name": "Rocher des Doms", "text": "Joli parc perché sur un rocher surplombant le Rhône, offrant une vue fantastique sur le pont et le palais.", "category": "natural" },
+        { "name": "Musée du Petit Palais", "text": "Installé dans l'ancien évêché, il expose une excellente collection de peintures italiennes et provençales.", "category": "museum" },
+        { "name": "Les Halles d'Avignon", "text": "Marché animé avec une façade végétale, proposant les meilleurs produits régionaux de Provence.", "category": "culinary" }
+      ]
+    }
   },
   {
     id: "lake-lake-geneva-extra",
@@ -1760,7 +1796,16 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Place François-Rude", "text": "Known as Place du Bareuzai, this picturesque square features a fountain with a bronze statue of a winemaker.", "category": "civic", "confidence": "high" },
             { "name": "Hôtel de Vogüé", "text": "One of the most beautiful Renaissance townhouses in Dijon, famous for its colorful Burgundian roof tiles.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Palais des Ducs de Bourgogne", "text": "Splendide siège des ducs de Bourgogne, il abrite aujourd'hui l'hôtel de ville et un des plus vieux musées d'art.", "category": "historical" },
+        { "name": "Église Notre-Dame de Dijon", "text": "Chef-d'œuvre gothique bourguignon célèbre pour sa façade aux gargouilles et sa chouette porte-bonheur.", "category": "religious" },
+        { "name": "Cathédrale Saint-Bénigne", "text": "Ancienne abbatiale impressionnante par sa crypte immense et son toit typique en tuiles vernissées colorées.", "category": "religious" },
+        { "name": "Tour Philippe le Bon", "text": "Tour haute de 46 mètres datant du XVe siècle, offrant un panorama spectaculaire sur les toits de Dijon.", "category": "historical" },
+        { "name": "Musée des Beaux-Arts de Dijon", "text": "Situé dans le Palais des Ducs, il expose les tombeaux des ducs de Bourgogne et une collection d'art de premier plan.", "category": "museum" },
+        { "name": "Puits de Moïse", "text": "Chef-d'œuvre de la sculpture médiévale réalisé par Claus Sluter dans l'ancienne chartreuse de Champmol.", "category": "monastic" }
+      ]
+    }
   },
   {
     id: "castle-chateau-haut-koenigsbourg-extra",
@@ -2092,7 +2137,18 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Saint-Eutrope Church", "text": "A charming church located near the city center, known for its architecture and religious significance.", "category": "religious", "confidence": "high" },
             { "name": "Museum of Resistance", "text": "Documents the history of the Resistance in Auvergne during the Second World War.", "category": "museum", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame-de-l'Assomption", "text": "Cathédrale gothique marquante en pierre de lave noire, caractérisée par ses hautes flèches emblématiques.", "category": "religious" },
+        { "name": "Place de Jaude", "text": "Place centrale animée, lieu de rencontre vivant doté de statues historiques, fontaines et beaux immeubles.", "category": "civic" },
+        { "name": "Basilique Notre-Dame-du-Port", "text": "Basilique romane classée à l'UNESCO, célèbre pour ses chapiteaux finement sculptés.", "category": "religious" },
+        { "name": "Jardin Lecoq", "text": "Parc public magnifique au cœur de la ville, propice à la détente avec son lac et ses massifs fleuris.", "category": "recreational" },
+        { "name": "L'Aventure Michelin", "text": "Musée interactif retraçant l'histoire fascinante et le succès mondial du fabricant de pneus Michelin.", "category": "museum" },
+        { "name": "Musée d'Art Roger-Quilliot", "text": "Logé dans un ancien couvent, ce musée présente des œuvres allant du Moyen Âge à nos jours.", "category": "museum" },
+        { "name": "Fontaine d'Amboise", "text": "Superbe fontaine Renaissance du XVIe siècle, sculptée avec finesse dans la roche volcanique sombre locale.", "category": "historical" },
+        { "name": "Statue de Vercingétorix", "text": "Imposante statue équestre sur la place de Jaude rappelant le héros gaulois et sa résistance contre Rome.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "kid-landmark-futuroscope-extra",
@@ -2760,7 +2816,18 @@ export const poiExtraFranceCities: POI[] = [
             { "name": "Thermes Sextius", "text": "A modern spa complex built over the remains of original Roman thermal baths, offering wellness in the historic city center.", "category": "historical", "confidence": "high" },
             { "name": "Cloître Saint-Sauveur", "text": "A beautifully preserved 12th-century Romanesque cloister featuring finely carved capitals next to the Saint-Sauveur Cathedral.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cours Mirabeau", "text": "Boulevard somptueux ombragé par des platanes, agrémenté de fontaines historiques et de cafés élégants.", "category": "historical" },
+        { "name": "Cathédrale Saint-Sauveur", "text": "Édifice unique unissant harmonieusement les styles allant du roman au baroque.", "category": "religious" },
+        { "name": "Musée Granet", "text": "L'un des plus importants musées d'art de la région, doté d'une collection exceptionnelle de la Renaissance à nos jours.", "category": "museum" },
+        { "name": "Atelier de Cézanne", "text": "Atelier préservé de Paul Cézanne, où les visiteurs peuvent ressentir l'atmosphère dans laquelle travaillait le peintre.", "category": "cultural" },
+        { "name": "Fontaine de la Rotonde", "text": "Monumentale fontaine à l'entrée de la ville, ornée de statues symbolisant la Justice, l'Agriculture et l'Art.", "category": "civic" },
+        { "name": "Place de l'Hôtel de Ville", "text": "Place pittoresque devant l'hôtel de ville, animée par un beffroi et des marchés réguliers de fleurs et livres.", "category": "civic" },
+        { "name": "Pavillon de Vendôme", "text": "Magnifique demeure baroque entourée d'un jardin classique français, servant aujourd'hui de musée.", "category": "museum" },
+        { "name": "Église Saint-Jean-de-Malte", "text": "Première église gothique de Provence, abritant d'importants tombeaux et des œuvres d'art sacré.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "historical-lascaux-iv-extra",

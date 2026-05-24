@@ -260,7 +260,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Rennes Train Station", "text": "A major transport hub, this station features striking modern architecture with a vast glass and steel structure covering the platforms.", "category": "station", "confidence": "high" },
             { "name": "Place de la République", "text": "A vast square in the heart of the city, dominated by the imposing Palais du Commerce building which houses the main post office.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Palais du Parlement de Bretagne", "text": "Ce bâtiment somptueux du XVIIe siècle est un symbole fort de l'histoire et de la justice bretonnes.", "category": "historical" },
+        { "name": "Parc du Thabor", "text": "Un parc de dix hectares mêlant jardins à la française, parc à l'anglaise et une célèbre roseraie.", "category": "natural" },
+        { "name": "Cathédrale Saint-Pierre", "text": "L'église principale de Rennes séduit par sa riche décoration intérieure et son retable flamand doré.", "category": "religious" },
+        { "name": "Portes Mordelaises", "text": "Ces portes de ville fortifiées du XVe siècle servaient autrefois d'entrée cérémonielle aux ducs.", "category": "fortress" },
+        { "name": "Place des Lices", "text": "Une place historique connue pour ses halles et l'un des plus grands marchés hebdomadaires de France.", "category": "historical" },
+        { "name": "Les Champs Libres", "text": "Un centre culturel moderne regroupant une bibliothèque, un musée et un planétarium sous un même toit.", "category": "cultural" },
+        { "name": "Musée des Beaux-Arts de Rennes", "text": "Le musée abrite des œuvres majeures allant de l'Antiquité à nos jours, incluant des peintures de Rubens.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "le-havre", population: 172807,
@@ -508,7 +518,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Stade Océane", "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.", "category": "civic", "confidence": "high" },
             { "name": "Le Pain de Sucre", "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Église Saint-Joseph", "text": "Un chef-d'œuvre moderne d'Auguste Perret, célèbre pour sa tour en béton de 107 mètres et ses vitraux colorés.", "category": "religious" },
+        { "name": "Le Volcan", "text": "Le centre culturel conçu par l'architecte Oscar Niemeyer se distingue par sa forme blanche et courbe.", "category": "cultural" },
+        { "name": "MuMa - Musée d'art moderne", "text": "Situé face à la mer, ce musée abrite l'une des collections impressionnistes les plus importantes de France.", "category": "museum" },
+        { "name": "Hôtel de Ville du Havre", "text": "L'hôtel de ville avec sa tour caractéristique est classé au patrimoine mondial de l'UNESCO et témoigne de la reconstruction.", "category": "civic" },
+        { "name": "Appartement témoin Perret", "text": "Cet appartement témoin montre fidèlement le design et le confort de vie dans les années 1950 au Havre.", "category": "historical" },
+        { "name": "Les Jardins suspendus", "text": "Des jardins botaniques situés dans un ancien fort, offrant une vue panoramique sur la ville et l'océan.", "category": "natural" },
+        { "name": "Port du Havre", "text": "L'un des plus grands ports d'Europe, véritable moteur économique et identitaire de la ville.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "angers", population: 159022,
@@ -764,7 +784,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Museum of Military Engineering", "text": "The Musée du Génie documents the history of French military engineering from Vauban to the present day.", "category": "museum", "confidence": "high" },
             { "name": "Verdun Bridge", "text": "The oldest bridge in the city connects the historic La Doutre district with the city center over the Maine river.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Château d'Angers", "text": "Cette puissante forteresse abrite la célèbre Tenture de l'Apocalypse, un chef-d'œuvre de l'art médiéval.", "category": "fortress" },
+        { "name": "Cathédrale Saint-Maurice", "text": "Connue pour ses hautes tours et ses voûtes uniques, elle est un monument emblématique de la ville d'Angers.", "category": "religious" },
+        { "name": "Terra Botanica", "text": "Le premier parc à thème européen dédié au monde végétal, alliant éducation et divertissement.", "category": "recreational" },
+        { "name": "Galerie David d'Angers", "text": "Installée dans une ancienne église abbatiale, ce musée expose les sculptures imposantes de l'artiste David d'Angers.", "category": "museum" },
+        { "name": "Maison d'Adam", "text": "L'une des plus belles maisons à colombages de France du XVe siècle, ornée de sculptures en bois bizarres.", "category": "historical" },
+        { "name": "Musée Jean-Lurçat", "text": "Héberge le cycle monumental de tapisseries 'Le Chant du Monde' dans un ancien hôpital médiéval.", "category": "cultural" },
+        { "name": "Jardin des Plantes d'Angers", "text": "Un parc charmant de style anglais offrant calme et une grande diversité végétale.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "nimes", population: 154196,
@@ -996,7 +1026,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Saint-Baudile Church", "text": "An imposing Neo-Gothic church built in the 1870s, featuring two high spires that dominate the city skyline.", "category": "religious", "confidence": "high" },
             { "name": "Museum of Old Nîmes", "text": "Housed in the former bishop's palace, this museum showcases local history and traditions, such as textile making.", "category": "museum", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Arènes de Nîmes", "text": "Cet amphithéâtre romain du Ier siècle est l'un des mieux conservés au monde et sert aujourd'hui aux concerts.", "category": "historical" },
+        { "name": "Maison Carrée", "text": "Un temple romain parfaitement conservé, dédié au culte impérial, classé au patrimoine mondial de l'UNESCO.", "category": "historical" },
+        { "name": "Jardins de la Fontaine", "text": "L'un des premiers parcs publics d'Europe, aménagé autour de ruines romaines et d'une source naturelle.", "category": "recreational" },
+        { "name": "Tour Magne", "text": "La tour la plus haute des anciens remparts romains offre une vue panoramique impressionnante sur Nîmes.", "category": "historical" },
+        { "name": "Musée de la Romanité", "text": "Un musée ultra-moderne face aux arènes présentant des découvertes archéologiques majeures de l'époque romaine.", "category": "museum" },
+        { "name": "Temple de Diane", "text": "Des ruines romaines mystérieuses situées dans les Jardins de la Fontaine, dont la fonction antique exacte reste débattue.", "category": "historical" }
+      ]
+    }
   },
     {
     id: "brest", population: 166826,
@@ -1224,7 +1263,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Base Navale de Brest", "text": "A major strategic French military port with a long history, visible from various viewpoints around the city.", "category": "fortress", "confidence": "high" },
             { "name": "Avenue Jean Jaurès", "text": "The main commercial artery of Brest, known for its shops, tramway, and vibrant central city atmosphere.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Château de Brest", "text": "La plus vieille forteresse au monde toujours en activité militaire, abritant le Musée national de la Marine.", "category": "fortress" },
+        { "name": "Océanopolis", "text": "Un complexe aquarium géant avec trois pavillons dédiés aux écosystèmes polaires, tropicaux et tempérés.", "category": "recreational" },
+        { "name": "Tour Tanguy", "text": "Tour historique au bord de la Penfeld présentant des dioramas du vieux Brest avant les destructions de la Seconde Guerre mondiale.", "category": "museum" },
+        { "name": "Ateliers des Capucins", "text": "Anciens ateliers de la Marine transformés en un immense lieu culturel et de loisirs, accessible par téléphérique.", "category": "cultural" },
+        { "name": "Pont de Recouvrance", "text": "L'un des plus grands ponts levant d'Europe, reliant le centre-ville au quartier historique de Recouvrance.", "category": "civic" },
+        { "name": "Conservatoire botanique national", "text": "Un jardin et des serres magnifiques dédiés à la préservation d'espèces végétales menacées du monde entier.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "tours", population: 140686,
@@ -1464,7 +1512,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Priory of Saint-Cosme", "text": "The former home of the poet Pierre de Ronsard, surrounded by magnificent rose gardens.", "category": "historical", "confidence": "high" },
             { "name": "Halles de Tours", "text": "The city's central market, a paradise for lovers of Loire Valley gastronomy and local products.", "category": "culinary", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Gatien", "text": "Une magnifique cathédrale gothique avec d'impressionnants vitraux du XIIIe siècle et une façade richement détaillée.", "category": "religious" },
+        { "name": "Place Plumereau", "text": "Une place pittoresque au cœur de la vieille ville, réputée pour ses maisons à pans de bois bien conservées du XVe siècle.", "category": "historical" },
+        { "name": "Basilique Saint-Martin", "text": "Un important lieu de pèlerinage érigé au-dessus du tombeau de saint Martin, le saint patron de la ville.", "category": "religious" },
+        { "name": "Musée des Beaux-Arts", "text": "Installé dans l'ancien palais épiscopal, ce musée abrite une riche collection de peintures européennes.", "category": "museum" },
+        { "name": "Château de Tours", "text": "Ancienne résidence royale, le château sert aujourd'hui de centre d'exposition pour l'art contemporain et la photographie.", "category": "historical" },
+        { "name": "Jardin des Prébendes d'Oé", "text": "Un superbe jardin paysager à l'anglaise aménagé au XIXe siècle, invitant à la détente et à la promenade.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "amiens", population: 136998,
@@ -1696,7 +1753,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Cirque Jules Verne", "text": "An impressive permanent circus building from 1889, inaugurated by Jules Verne, with a capacity for 1,600 spectators.", "category": "cultural", "confidence": "high" },
             { "name": "Théâtre des Cabotans", "text": "A traditional puppet theater that brings the local character Lafleur to life, preserving the unique cultural heritage of Picardy.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame d'Amiens", "text": "La plus grande cathédrale de France est un chef-d'œuvre de l'art gothique classé au patrimoine mondial de l'UNESCO.", "category": "religious" },
+        { "name": "Les Hortillonnages", "text": "Des jardins flottants uniques couvrant 300 hectares, que l'on peut explorer à bord de barques traditionnelles.", "category": "natural" },
+        { "name": "Quartier Saint-Leu", "text": "Le pittoresque quartier historique au bord de la Somme, connu pour ses petits canaux, ses cafés et ses maisons colorées.", "category": "historical" },
+        { "name": "Maison de Jules Verne", "text": "La demeure du célèbre écrivain, où il rédigea nombre de ses romans visionnaires, est aujourd'hui transformée en musée.", "category": "museum" },
+        { "name": "Musée de Picardie", "text": "L'un des plus importants musées d'art de France en province, situé dans un somptueux palais du XIXe siècle.", "category": "museum" },
+        { "name": "Beffroi d'Amiens", "text": "Ce beffroi historique du XVe siècle symbolise les libertés communales de la ville et appartient au patrimoine de l'UNESCO.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "limoges", population: 135140,
@@ -1928,7 +1994,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Musée de la Boucherie", "text": "This small museum in the butchers' quarter preserves the guild's traditions and displays the interior of an old meat shop.", "category": "museum", "confidence": "high" },
             { "name": "Bibliothèque Francophone Multimédia", "text": "A modern architectural landmark that integrates the remains of a Gallo-Roman mosaic into its contemporary glass and steel structure.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Étienne", "text": "Cette cathédrale gothique est l'un des monuments les plus emblématiques de la ville, abritant de somptueux vitraux.", "category": "religious" },
+        { "name": "Musée National Adrien Dubouché", "text": "Ce musée présente la plus grande collection publique au monde de porcelaines de Limoges et de céramiques internationales.", "category": "museum" },
+        { "name": "Gare de Limoges-Bénédictins", "text": "Avec son dôme et son clocher caractéristiques, cette gare majestueuse est considérée comme l'une des plus belles de France.", "category": "station" },
+        { "name": "Quartier de la Boucherie", "text": "Un quartier médiéval aux maisons à colombages, autrefois centre historique de la puissante corporation des bouchers.", "category": "historical" },
+        { "name": "Jardins de l'Évêché", "text": "Aménagés en terrasses, ces jardins offrent une vue magnifique sur la Vienne et abritent des essences botaniques rares.", "category": "recreational" },
+        { "name": "Église Saint-Michel-des-Lions", "text": "Célèbre pour ses deux lions en granit à l'entrée et les reliques de saint Martial, saint patron de la ville.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "metz", population: 124435,
@@ -2160,7 +2235,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Cloître des Récollets", "text": "A serene 14th-century Franciscan cloister that now houses the European Institute of Ecology.", "category": "monastic", "confidence": "high" },
             { "name": "Opéra-Théâtre de Metz", "text": "The oldest opera house in France still in activity, featuring an elegant 18th-century facade.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Étienne", "text": "Surnommée la lanterne du Bon Dieu, elle possède l'une des plus grandes surfaces de vitraux d'Europe.", "category": "religious" },
+        { "name": "Centre Pompidou-Metz", "text": "Un chef-d'œuvre d'architecture moderne et un pôle majeur dédié à l'art contemporain dans l'est de la France.", "category": "cultural" },
+        { "name": "Temple Neuf", "text": "Cette église évangélique néo-romane est située de façon pittoresque sur l'île du Petit Saulcy, au cœur de la Moselle.", "category": "religious" },
+        { "name": "Porte des Allemands", "text": "Une imposante porte fortifiée du Moyen Âge, semblable à un petit château veillant sur la rivière Seille.", "category": "fortress" },
+        { "name": "Place de la Comédie", "text": "Une place classique abritant l'Opéra-Théâtre de Metz, le plus ancien opéra encore en activité en France.", "category": "civic" },
+        { "name": "Quartier Impérial", "text": "Un quartier érigé durant l'annexion allemande, réputé pour son architecture éclectique de style wilhelmien.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "perpignan", population: 123602,
@@ -2392,7 +2476,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Théâtre de l'Archipel", "text": "A contemporary architectural landmark designed by Jean Nouvel, hosting various performing arts.", "category": "cultural", "confidence": "high" },
             { "name": "Couvent des Minimes", "text": "A former monastery with a large cloister, now used for cultural exhibitions and events.", "category": "monastic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Palais des rois de Majorque", "text": "Une forteresse gothique du XIIIe siècle qui servait de résidence aux souverains du royaume de Majorque.", "category": "fortress" },
+        { "name": "Le Castillet", "text": "Emblème de la ville, cette porte fortifiée en briques rouges abrite aujourd'hui le musée des arts et traditions populaires.", "category": "historical" },
+        { "name": "Cathédrale Saint-Jean-Baptiste", "text": "Une superbe cathédrale gothique dotée d'une façade remarquable faite de galets et de briques.", "category": "religious" },
+        { "name": "Loge de Mer", "text": "Un édifice gothique qui servait autrefois de tribunal de commerce maritime et de bourse pour la ville.", "category": "historical" },
+        { "name": "Hôtel de Ville", "text": "L'hôtel de ville se distingue par son patio intérieur et son architecture typique utilisant les galets de rivière.", "category": "civic" },
+        { "name": "Campo Santo", "text": "Le plus ancien et le plus grand cloître-cimetière de France, aujourd'hui lieu de manifestations culturelles.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "besancon", population: 120315,
@@ -2624,7 +2717,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Ledoux Theater", "text": "Neoclassical theater building from 1778, designed by the famous French architect Claude-Nicolas Ledoux.", "category": "cultural", "confidence": "high" },
             { "name": "Palace of Justice", "text": "Magnificent judicial building with an elaborate Renaissance facade in the heart of the historic old town.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Citadelle de Besançon", "text": "Chef-d'œuvre de Vauban et site classé par l'UNESCO, elle surplombe la ville au cœur d'un méandre de la rivière.", "category": "fortress" },
+        { "name": "Cathédrale Saint-Jean", "text": "Cette cathédrale est renommée pour son chœur à deux absides et son précieux tableau de la Vierge aux Saints.", "category": "religious" },
+        { "name": "Horloge Astronomique", "text": "Un prodige mécanique du XIXe siècle situé dans la cathédrale, composé de plus de 30 000 pièces mobiles.", "category": "historical" },
+        { "name": "Musée des Beaux-Arts", "text": "L'un des plus anciens musées publics de France, possédant une importante collection de peintures et d'antiquités.", "category": "museum" },
+        { "name": "Maison natale de Victor Hugo", "text": "La maison où naquit le célèbre écrivain est désormais un musée consacré à sa vie et à son œuvre.", "category": "museum" },
+        { "name": "Porte Noire", "text": "Un arc de triomphe romain du IIe siècle, richement orné de sculptures et de bas-reliefs détaillés.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "orleans", population: 118601,
@@ -2852,7 +2954,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Halles Châtelet", "text": "Bustling central market hall offering a wide selection of regional specialties and fresh local produce.", "category": "culinary", "confidence": "high" },
             { "name": "Pont George V", "text": "Elegant 18th-century stone bridge connecting the historic center with the Saint-Marceau district.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Sainte-Croix", "text": "Majestueuse cathédrale gothique mondialement connue pour son lien avec Jeanne d'Arc, qui y pria en 1429.", "category": "religious" },
+        { "name": "Maison de Jeanne d'Arc", "text": "Reconstitution de la demeure où séjourna la Pucelle d'Orléans lors du siège de la ville en 1429.", "category": "museum" },
+        { "name": "Place du Martroi", "text": "Place centrale de la ville, dominée par une statue équestre imposante de Jeanne d'Arc et bordée de terrasses.", "category": "civic" },
+        { "name": "Parc Floral de la Source", "text": "Vaste jardin botanique où le Loiret prend sa source, célèbre pour son parc aux papillons.", "category": "natural" },
+        { "name": "Hôtel Groslot", "text": "Splendide hôtel particulier Renaissance ayant servi d'hôtel de ville, abritant de somptueux salons historiques.", "category": "historical" },
+        { "name": "Musée des Beaux-Arts", "text": "L'un des plus anciens musées de France, exposant une riche collection de peintures européennes du XVe au XXe siècle.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "mulhouse", population: 110468,
@@ -3084,7 +3195,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Canal du Rhône au Rhin", "text": "Historical waterway crossing the city, now popular for leisure walks and cycling along the banks.", "category": "natural", "confidence": "high" },
             { "name": "Église Sainte-Marie", "text": "Significant Catholic church built in the 19th century in the neo-classical style.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cité de l'Automobile", "text": "Le plus grand musée automobile au monde, incluant la célèbre collection Schlumpf et des centaines de voitures de luxe.", "category": "museum" },
+        { "name": "Cité du Train", "text": "Musée national du chemin de fer, retraçant l'histoire ferroviaire à travers une collection de locomotives exceptionnelles.", "category": "museum" },
+        { "name": "Place de la Réunion", "text": "Le centre historique de Mulhouse, connu pour ses façades colorées et son ancien hôtel de ville.", "category": "historical" },
+        { "name": "Temple Saint-Étienne", "text": "Une impressionnante église protestante néo-gothique dotée de vitraux datant du XIVe siècle.", "category": "religious" },
+        { "name": "Parc Zoologique et Botanique", "text": "Un superbe parc dédié à la conservation des espèces menacées et présentant des collections botaniques rares.", "category": "natural" },
+        { "name": "Musée de l'Impression sur Étoffes", "text": "Un musée unique présentant la riche tradition textile de la ville et l'art de l'impression sur tissus.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "caen", population: 119640,
@@ -3316,7 +3436,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Bassin Saint-Pierre", "text": "The lively marina in the city center, a popular spot for strolling along the quays and boats.", "category": "recreational", "confidence": "high" },
             { "name": "Bird Hill Park", "text": "Spacious landscape park on a former landfill site, featuring themed gardens and a large rose garden.", "category": "recreational", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Mémorial de Caen", "text": "Musée de la Paix majeur retraçant l'histoire du XXe siècle et les événements du débarquement en Normandie.", "category": "museum" },
+        { "name": "Château de Caen", "text": "L'une des plus grandes forteresses médiévales d'Europe, édifiée par Guillaume le Conquérant au XIe siècle.", "category": "fortress" },
+        { "name": "Abbaye aux Hommes", "text": "Magnifique abbaye romane abritant le tombeau de Guillaume le Conquérant, servant aujourd'hui d'hôtel de ville.", "category": "religious" },
+        { "name": "Abbaye aux Dames", "text": "Fondée par Mathilde de Flandre, cette église abbatiale est un joyau de l'art roman normand.", "category": "religious" },
+        { "name": "Église Saint-Pierre", "text": "Une église majestueuse au cœur de la ville, alliant harmonieusement les styles gothique et Renaissance.", "category": "religious" },
+        { "name": "Quartier du Vaugueux", "text": "Un quartier historique charmant aux maisons à pans de bois, où vécurent autrefois les parents d'Edith Piaf.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "nancy",
@@ -3504,7 +3633,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Place Stanislas", "text": "Inscrite au patrimoine mondial de l'UNESCO, elle est l'une des plus belles places royales au monde avec ses grilles dorées.", "category": "civic" },
+        { "name": "Palais des Ducs de Lorraine", "text": "Ancienne résidence des ducs de Lorraine, aujourd'hui musée consacré à l'art et à l'histoire de la région.", "category": "historical" },
+        { "name": "Parc de la Pépinière", "text": "Vaste parc urbain situé à proximité immédiate de la place Stanislas, incluant jardins, petit zoo et aires de jeux.", "category": "natural" },
+        { "name": "Musée de l'École de Nancy", "text": "Un musée unique dédié au courant Art Nouveau, exposant les chefs-d'œuvre des artistes nancéiens.", "category": "museum" },
+        { "name": "Porte de la Craffe", "text": "La plus ancienne porte de Nancy datant du XIVe siècle, vestige impressionnant des fortifications médiévales.", "category": "fortress" },
+        { "name": "Basilique Saint-Epvre", "text": "Imposante basilique néo-gothique de la vieille ville, réputée pour ses fenêtres délicates et sa flèche élancée.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "saint-denis", population: 149077,
@@ -3736,7 +3874,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Théâtre Gérard Philipe", "text": "A prestigious National Drama Center located in the city, known for its high-quality productions and community engagement.", "category": "cultural", "confidence": "high" },
             { "name": "L'Écran", "text": "A historic art-house cinema in the city center, dedicated to promoting independent films and hosting local festivals.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Basilique Saint-Denis", "text": "Ancienne abbaye, elle est la nécropole royale et le berceau de l'art gothique grâce à ses arcs brisés innovants.", "category": "religious" },
+        { "name": "Stade de France", "text": "Construit pour la Coupe du Monde 1998, ce stade national accueille les plus grands événements sportifs et musicaux.", "category": "recreational" },
+        { "name": "Musée d'art et d'histoire Paul Éluard", "text": "Installé dans un ancien couvent carmélite, il retrace l'histoire de la ville et de la Commune de Paris.", "category": "museum" },
+        { "name": "Maison d'éducation de la Légion d'honneur", "text": "Prestigieuse institution située dans les bâtiments de l'ancienne abbaye royale, jouxtant la basilique.", "category": "historical" },
+        { "name": "Marché de Saint-Denis", "text": "L'un des marchés les plus vastes et vivants d'Île-de-France, connu pour la diversité de ses produits du monde entier.", "category": "cultural" },
+        { "name": "Canal Saint-Denis", "text": "Voie navigable reliant le canal de l'Ourcq à la Seine, offrant des parcours agréables pour la marche et le vélo.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "argenteuil", population: 111038,
@@ -3944,7 +4091,15 @@ const citySeeds: CitySeed[] = [
             { "name": "Jean Vilar Theatre", "text": "Major cultural venue in the city hosting various theatrical performances and artistic events.", "category": "cultural", "confidence": "high" },
             { "name": "Château du Marais", "text": "Historical residence and former manor house representing the city's architectural heritage.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Basilique Saint-Denys", "text": "Cette église abrite la Tunique Sainte du Christ, relique majeure qui attire des pèlerins depuis des siècles.", "category": "religious" },
+        { "name": "Maison de Claude Monet", "text": "Le célèbre peintre impressionniste y vécut de 1874 à 1878 ; elle présente aujourd'hui des expositions sur sa vie.", "category": "museum" },
+        { "name": "Musée d'Argenteuil", "text": "Situé dans un ancien hôpital, ce musée retrace l'histoire locale, de l'Antiquité à l'époque industrielle.", "category": "museum" },
+        { "name": "Parc des Berges", "text": "Vaste espace vert en bord de Seine, rappelant les paysages immortalisés par Monet et Renoir sur leurs toiles.", "category": "recreational" },
+        { "name": "Abbaye Notre-Dame d'Argenteuil", "text": "Les vestiges de ce monastère médiéval témoignent de la longue importance religieuse de la ville et de l'histoire d'Héloïse.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "troyes", population: 74898,
@@ -4196,7 +4351,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Aube Prefecture", "text": "An elegant building that was formerly a Benedictine monastery, now serving as the local administrative seat.", "category": "civic", "confidence": "high" },
             { "name": "Saint-Jean-au-Marché Church", "text": "The site where the Treaty of Troyes was signed in 1420 and Henry V of England married Catherine of Valois.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Pierre-et-Saint-Paul", "text": "Magnifique cathédrale gothique réputée pour ses vitraux exceptionnels du XIIIe au XIXe siècle.", "category": "religious" },
+        { "name": "Église Sainte-Madeleine", "text": "Célèbre pour son jubé du XVIe siècle, chef-d'œuvre de sculpture sur pierre typique de la Champagne.", "category": "religious" },
+        { "name": "Musée de l'Outil et de la Pensée Ouvrière", "text": "Possède une collection unique au monde d'outils forgés à la main au sein d'un superbe palais Renaissance.", "category": "museum" },
+        { "name": "Basilique Saint-Urbain", "text": "Joyau du gothique flamboyant, édifié par le pape Urbain IV dans sa ville natale, connu pour son architecture filiforme.", "category": "religious" },
+        { "name": "Ruelle des Chats", "text": "Ruelle médiévale très étroite où les toits se touchent presque, permettant aux chats de sauter d'une maison à l'autre.", "category": "historical" },
+        { "name": "Le Cœur de Troyes", "text": "Sculpture métallique moderne au bord du canal, s'illuminant de rouge et symbolisant le centre dynamique de la vieille ville.", "category": "civic" },
+        { "name": "Musée d'Art Moderne", "text": "Installé dans l'ancien palais épiscopal, il présente des œuvres majeures de Derain à Picasso.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "saint-etienne", population: 199000,
@@ -4448,7 +4613,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Montaud Park", "text": "The city's largest park offers extensive green spaces, wooded areas, and panoramic views over the surrounding mountains.", "category": "natural", "confidence": "high" },
             { "name": "Resistance and Deportation Memorial", "text": "This museum documents the history of the local resistance and the fate of deportees from the Loire region during WWII.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Musée d'Art Moderne et Contemporain", "text": "L'un des principaux musées d'art moderne en France, doté d'une impressionnante collection internationale.", "category": "museum" },
+        { "name": "Cité du Design", "text": "Située sur une ancienne manufacture d'armes, c'est le pôle phare de la capitale du design et siège de la Biennale.", "category": "cultural" },
+        { "name": "Musée de la Mine Puits Couriot", "text": "Ancienne mine authentique retraçant l'histoire industrielle de la ville et le quotidien des mineurs.", "category": "museum" },
+        { "name": "Stade Geoffroy-Guichard", "text": "Surnommé le Chaudron, il est la terre légendaire du club de football de l'AS Saint-Étienne avec une ambiance unique.", "category": "recreational" },
+        { "name": "Cathédrale Saint-Charles-Borromée", "text": "Cathédrale néo-gothique du début du XXe siècle, impressionnante par sa façade monumentale au cœur de la ville.", "category": "religious" },
+        { "name": "Place Jean-Jaurès", "text": "Place centrale entourée de bâtiments prestigieux comme l'hôtel de ville et le palais de justice, lieu de rencontre privilégié.", "category": "civic" },
+        { "name": "Planétarium de Saint-Étienne", "text": "Centre d'astronomie moderne proposant des voyages fascinants dans l'univers grâce à des simulations 3D.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "toulon", population: 180834,
@@ -4688,7 +4863,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Hôtel de Ville de Toulon", "text": "Toulon's town hall, famous for the monumental caryatid sculptures by Pierre Puget on its historic facade.", "category": "civic", "confidence": "high" },
             { "name": "Quartier du Mourillon", "text": "A picturesque seaside district with beaches, gardens, and a relaxed Mediterranean atmosphere for tourists and locals.", "category": "recreational", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Mont Faron", "text": "Sommet calcaire de 584 mètres offrant une vue imprenable sur la rade, accessible par un téléphérique panoramique.", "category": "natural" },
+        { "name": "Musée National de la Marine", "text": "Situé à la porte de l'arsenal, ce musée retrace l'histoire maritime de Toulon et l'évolution du port militaire.", "category": "museum" },
+        { "name": "Cathédrale Sainte-Marie-de-la-Seds", "text": "Magnifique cathédrale du XIe siècle dotée d'un clocher remarquable et d'une façade baroque.", "category": "religious" },
+        { "name": "Opéra de Toulon", "text": "Ce somptueux opéra inauguré en 1862 est réputé pour son acoustique exceptionnelle et ses riches ornements.", "category": "cultural" },
+        { "name": "Fort Saint-Louis", "text": "Fort côtier du XVIIe siècle édifié au bord de l'eau, dans le quartier du Mourillon, pour la protection du port.", "category": "fortress" },
+        { "name": "Place de la Liberté", "text": "Place principale de la ville, ornée de la fontaine monumentale de la Fédération et bordée d'édifices majestueux.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "valence", population: 68604,
@@ -4920,7 +5104,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Canaux de Valence", "text": "A network of over 17 kilometers of canals that wind through the city as green paths.", "category": "natural", "confidence": "high" },
             { "name": "Champ de Mars", "text": "A vast esplanade offering a panoramic view of the Vivarais mountains and the ruins of Crussol Castle.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Maison des Têtes", "text": "Demueure bourgeoise du XVIe siècle, célèbre pour sa façade richement décorée de multiples têtes sculptées.", "category": "historical" },
+        { "name": "Cathédrale Saint-Apollinaire", "text": "La plus ancienne église de la ville, édifiée au XIe siècle dans un style roman, située sur les rives du Rhône.", "category": "religious" },
+        { "name": "Parc Jouvet", "text": "Superbe parc de 7 hectares au cœur de la ville, offrant une vue sur les ruines du château de Crussol et le Rhône.", "category": "natural" },
+        { "name": "Kiosque Peynet", "text": "Charmant kiosque à musique sur le Champ de Mars, rendu célèbre par les dessins des « Amoureux » de Raymond Peynet.", "category": "historical" },
+        { "name": "Musée de Valence", "text": "Musée d'art et d'archéologie situé dans l'ancien palais épiscopal, abritant des collections de grande valeur.", "category": "museum" },
+        { "name": "Pendentif de Valence", "text": "Monument funéraire de la Renaissance sur la place de la cathédrale, connu pour son architecture voûtée unique de 1548.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "chambery",
@@ -5108,7 +5301,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Fontaine des Éléphants", "text": "Célèbre monument de 1838, surnommé « les quatre sans cul », honorant le comte de Boigne pour ses bienfaits.", "category": "historical" },
+        { "name": "Château des Ducs de Savoie", "text": "Château historique ayant abrité les ducs de Savoie durant des siècles, aujourd'hui siège de la préfecture.", "category": "historical" },
+        { "name": "Cathédrale Saint-François-de-Sales", "text": "La cathédrale renferme l'un des plus grands ensembles en trompe-l'œil d'Europe, chef-d'œuvre de peinture illusionniste.", "category": "religious" },
+        { "name": "Les Charmettes", "text": "Demeure où vécut le philosophe Jean-Jacques Rousseau, transformée en musée au sein d'un cadre naturel préservé.", "category": "historical" },
+        { "name": "Musée Savoisien", "text": "Situé dans un ancien couvent franciscain, ce musée est consacré à l'histoire et à la culture de la Savoie.", "category": "museum" },
+        { "name": "Rue de Boigne", "text": "Élégante rue du XIXe siècle bordée d'arcades, reliant le centre historique à la fontaine des Éléphants.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "dunkerque", population: 89882,
@@ -5340,7 +5542,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Dunkerque Railway Station", "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.", "category": "station", "confidence": "high" },
             { "name": "Kursaal", "text": "The city's congress center, a major cultural venue for events and performances right by the beach.", "category": "cultural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Beffroi de Dunkerque", "text": "Ce beffroi en briques du XVe siècle est classé au patrimoine mondial de l'UNESCO et offre une vue sur le port.", "category": "historical" },
+        { "name": "Musée Portuaire", "text": "Installé dans un ancien entrepôt de tabac, il retrace l'histoire du port de Dunkerque et le quotidien des marins.", "category": "museum" },
+        { "name": "Église Saint-Éloi", "text": "Une imposante église en briques du XVIe siècle, surnommée la « cathédrale des sables ».", "category": "religious" },
+        { "name": "Mémorial du Souvenir", "text": "Musée documentant l'opération Dynamo de 1940 lors de l'évacuation historique des troupes alliées.", "category": "historical" },
+        { "name": "Plage de Malo-les-Bains", "text": "Longue plage de sable réputée pour ses villas Belle Époque et sa digue ponctuée de nombreux cafés.", "category": "recreational" },
+        { "name": "Phare du Risban", "text": "Haut de 63 mètres et construit en 1843, ce phare guide les navires en toute sécurité vers le port de Dunkerque.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "la-rochelle", population: 79961,
@@ -5592,7 +5803,17 @@ const citySeeds: CitySeed[] = [
             { "name": "House of Henri II", "text": "A magnificent Renaissance residence with a unique gallery, reflecting the city's wealth in the 16th century.", "category": "historical", "confidence": "high" },
             { "name": "Lighthouse at the End of the World", "text": "A wooden replica of the famous lighthouse in Patagonia, standing in the sea off the coast of La Rochelle.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Vieux Port", "text": "Cœur de la ville, ce port historique est bordé de restaurants de poissons et gardé par deux tours médiévales emblématiques.", "category": "historical" },
+        { "name": "Tour de la Lanterne", "text": "Phare médiéval et ancienne prison, connue pour les inscriptions gravées dans la pierre par les détenus.", "category": "historical" },
+        { "name": "Tour Saint-Nicolas", "text": "Massive tour fortifiée du XIVe siècle protégeant l'entrée du port, offrant aujourd'hui un panorama sur La Rochelle.", "category": "fortress" },
+        { "name": "Tour de la Chaîne", "text": "Contrôlant l'accès au port, elle abrite des expositions sur l'histoire de la cité et l'émigration.", "category": "fortress" },
+        { "name": "Aquarium La Rochelle", "text": "L'un des plus grands aquariums privés d'Europe, avec plus de 12 000 animaux marins, incluant requins et méduses.", "category": "recreational" },
+        { "name": "Cathédrale Saint-Louis", "text": "Édifiée au XVIIIe siècle, cette cathédrale se distingue par son architecture classique et ses magnifiques vitraux.", "category": "religious" },
+        { "name": "Hôtel de Ville", "text": "Splendide hôtel de ville à la façade fortifiée et cour Renaissance, parmi les plus beaux édifices publics de France.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "biarritz", population: 26206,
@@ -5804,7 +6025,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Rocher de la Vierge", "text": "Rocher emblématique en mer, accessible par une passerelle signée Gustave Eiffel, portant une statue de la Vierge.", "category": "natural" },
+        { "name": "Phare de Biarritz", "text": "Culminant à 73 mètres, ce phare offre, après 248 marches, une vue spectaculaire sur toute la côte basque.", "category": "historical" },
+        { "name": "Aquarium de Biarritz", "text": "Bâtiment Art déco au bord de l'océan, abritant une riche collection marine et un bassin des phoques très apprécié.", "category": "museum" },
+        { "name": "Villa Belza", "text": "Villa iconique située sur un promontoire entre deux plages, réputée pour son architecture et sa situation mystérieuses.", "category": "historical" },
+        { "name": "Côte des Basques", "text": "Plage célèbre considérée comme le berceau du surf en Europe, entourée de falaises spectaculaires et de villas.", "category": "natural" },
+        { "name": "Église Sainte-Eugénie", "text": "Église néo-gothique dominant le port, réputée pour ses vitraux et son atmosphère tournée vers l'océan.", "category": "religious" },
+        { "name": "Casino Barrière", "text": "Splendide casino Art déco face à la Grande Plage, reflétant l'âge d'or de Biarritz en tant que station balnéaire.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "pau", population: 81166,
@@ -6064,7 +6295,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Palais de Justice", "text": "An imposing 19th-century neoclassical building serving as the courthouse, located near the historic center.", "category": "civic", "confidence": "high" },
             { "name": "Parc de Lawrence", "text": "A charming public park featuring century-old trees, a pond, and a 19th-century villa built in the Anglo-Norman style.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Château de Pau", "text": "Château natal du roi Henri IV, il abrite aujourd'hui un musée national possédant une impressionnante collection de tapisseries.", "category": "historical" },
+        { "name": "Boulevard des Pyrénées", "text": "Une promenade panoramique de 1,8 kilomètre offrant une vue spectaculaire et ininterrompue sur la chaîne des Pyrénées.", "category": "civic" },
+        { "name": "Funiculaire de Pau", "text": "Ce funiculaire historique relie la gare au centre-ville depuis 1908, offrant une traversée charmante et gratuite.", "category": "station" },
+        { "name": "Musée des Beaux-Arts", "text": "L'un des musées d'art les plus importants de la région, avec des œuvres du XVe siècle à nos jours, dont des maîtres flamands et italiens.", "category": "museum" },
+        { "name": "Palais Beaumont", "text": "Un élégant ancien casino d'hiver de style Belle Époque, aujourd'hui centre de congrès entouré d'un parc.", "category": "civic" },
+        { "name": "Église Saint-Martin", "text": "Une église néogothique imposante du XIXe siècle avec une haute tour, représentant le patrimoine religieux de la ville de Pau.", "category": "religious" },
+        { "name": "Parc Beaumont", "text": "Un magnifique parc urbain avec des arbres centenaires, un lac et un pavillon, idéal pour des promenades relaxantes.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "bayonne", population: 54306,
@@ -6312,7 +6553,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Plaine d'Ansot", "text": "A protected natural area along the Nive river with hiking trails and diverse wildlife, perfect for outdoor enthusiasts.", "category": "natural", "confidence": "high" },
             { "name": "Natural History Museum", "text": "Located within the Plaine d'Ansot, this museum focuses on local biodiversity, ecology, and environmental education.", "category": "museum", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Sainte-Marie", "text": "Cette cathédrale gothique du XIIIe siècle est classée au patrimoine mondial de l'UNESCO et impressionne par son cloître élégant.", "category": "religious" },
+        { "name": "Musée Basque", "text": "Le plus important musée consacré à la culture et à l'histoire basques, installé dans une ancienne maison de commerce du XVIIe siècle.", "category": "museum" },
+        { "name": "Les Halles de Bayonne", "text": "Situées sur les quais de la Nive, ces halles animées sont le cœur culinaire de la ville, réputées pour le jambon et les spécialités basques.", "category": "culinary" },
+        { "name": "Château-Vieux", "text": "Une ancienne forteresse édifiée sur des fondations romaines, ayant servi pendant des siècles de résidence militaire au Grand Bayonne.", "category": "fortress" },
+        { "name": "Jardin Botanique", "text": "Un jardin japonais suspendu sur les anciennes fortifications de la ville, offrant une atmosphère paisible et des plantes exotiques.", "category": "natural" },
+        { "name": "Citadelle de Bayonne", "text": "Une impressionnante fortification conçue par Vauban au XVIIe siècle, dominant la rive droite de l'Adour.", "category": "fortress" },
+        { "name": "Pont Saint-Esprit", "text": "Ce pont historique relie le centre au quartier Saint-Esprit et offre une vue étendue sur les fleuves Adour et Nive.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "poitiers", population: 90590,
@@ -6540,7 +6791,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Joubert Bridge", "text": "A historic stone bridge over the Clain River that has secured access to the city since the Middle Ages.", "category": "historical", "confidence": "high" },
             { "name": "Poitiers Railway Station", "text": "The main railway station building combines historic architecture with modern TGV network infrastructure.", "category": "station", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Pierre", "text": "Cette massive cathédrale gothique du XIIe siècle impressionne par ses dimensions imposantes et ses vitraux historiques.", "category": "religious" },
+        { "name": "Église Notre-Dame-la-Grande", "text": "Un chef-d'œuvre de l'art roman, célèbre pour sa façade richement sculptée racontant des histoires bibliques dans la pierre.", "category": "religious" },
+        { "name": "Baptistère Saint-Jean", "text": "L'un des plus anciens bâtiments chrétiens de France, datant de l'époque mérovingienne et abritant des fonts baptismaux antiques.", "category": "religious" },
+        { "name": "Palais des Ducs d'Aquitaine", "text": "L'ancien palais d'Aliénor d'Aquitaine abrite une salle magnifique et témoigne de la puissance médiévale.", "category": "historical" },
+        { "name": "Musée Sainte-Croix", "text": "Le principal musée de la région présente d'importantes découvertes archéologiques et des sculptures de Camille Claudel et Auguste Rodin.", "category": "museum" },
+        { "name": "Parc de Blossac", "text": "Un superbe jardin public avec des jardins à la française et un petit zoo, offrant une vue étendue sur la vallée du Clain.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "vannes", population: 55790,
@@ -6768,7 +7028,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Château Gaillard", "text": "A 15th-century mansion housing the Museum of History and Archaeology, displaying prehistoric and medieval Breton artifacts.", "category": "museum", "confidence": "high" },
             { "name": "Presqu'île de Conleau", "text": "A peaceful peninsula with a sea-water swimming pool, pine trees, and views over the Gulf, popular for relaxing walks.", "category": "natural", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Pierre", "text": "Située au cœur de la vieille ville, cette cathédrale gothique abrite le tombeau de Saint Vincent Ferrier et des tapisseries précieuses.", "category": "religious" },
+        { "name": "Remparts de Vannes", "text": "Les fortifications médiévales bien conservées entourent le noyau historique de la ville avec ses tours et ses portes.", "category": "fortress" },
+        { "name": "Jardin des Remparts", "text": "Un jardin magnifique au pied des remparts, connu pour ses parterres de fleurs artistiques et son atmosphère détendue.", "category": "natural" },
+        { "name": "La Cohue - Musée des Beaux-Arts", "text": "Installé dans une halle médiévale, ce musée présente d'importantes œuvres d'art moderne et contemporain.", "category": "museum" },
+        { "name": "Château de l'Hermine", "text": "L'ancien château des ducs de Bretagne sert aujourd'hui de centre culturel et marque un passé grandiose.", "category": "historical" },
+        { "name": "Porte Saint-Vincent", "text": "La porte monumentale principale du XVIIe siècle relie directement le port de Vannes à la vieille ville historique.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "lorient", population: 69769,
@@ -7000,7 +7269,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Gare de Lorient", "text": "The city's railway station, rebuilt with modern architecture, acting as a gateway to the wider region.", "category": "station", "confidence": "high" },
             { "name": "Chapelle de la Congrégation", "text": "A restored 18th-century chapel that now hosts various cultural events and art exhibitions.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Base de sous-marins de Keroman", "text": "Une immense ancienne base de sous-marins allemande de la Seconde Guerre mondiale, utilisée aujourd'hui pour des expositions et des visites.", "category": "historical" },
+        { "name": "Cité de la Voile Éric Tabarly", "text": "Un musée interactif dédié à la course au large, nommé d'après le célèbre marin français.", "category": "museum" },
+        { "name": "Sous-marin Flore S645", "text": "Ce sous-marin de classe Daphné préservé peut être visité, offrant un aperçu de la vie sous l'eau.", "category": "museum" },
+        { "name": "Église Notre-Dame-de-Victoire", "text": "Un bâtiment marquant de l'après-guerre, connu pour son architecture moderne en béton et sa coupole impressionnante.", "category": "religious" },
+        { "name": "Parc Jules-Ferry", "text": "Un poumon vert dans le centre-ville qui relie le port à la ville et invite à la promenade.", "category": "natural" },
+        { "name": "Grand Théâtre de Lorient", "text": "Un emblème culturel moderne proposant des représentations théâtrales, des concerts et des spectacles de danse de haut niveau.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "saint-malo", population: 50675,
@@ -7212,7 +7490,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Remparts de Saint-Malo", "text": "Les célèbres remparts en granit entourent la vieille ville et offrent une vue imprenable sur la mer et le port.", "category": "fortress" },
+        { "name": "Cathédrale Saint-Vincent", "text": "Cette cathédrale historique mêle art roman et gothique et constitue le cœur religieux de la cité fortifiée.", "category": "religious" },
+        { "name": "Fort National", "text": "Une forteresse conçue par Vauban sur une île, accessible à pied depuis la plage uniquement à marée basse.", "category": "fortress" },
+        { "name": "Le Grand Bé", "text": "Une petite île inhabitée abritant la tombe solitaire du célèbre écrivain Chateaubriand.", "category": "historical" },
+        { "name": "Château de Saint-Malo", "text": "Le château médiéval abrite aujourd'hui le musée d'histoire de la ville, retraçant l'épopée des corsaires et explorateurs.", "category": "fortress" },
+        { "name": "Plage du Sillon", "text": "Une longue plage de sable, connue pour ses brise-lames en bois et l'amplitude spectaculaire des marées de la région.", "category": "natural" },
+        { "name": "Tour Solidor", "text": "Une tour triple marquante du XIVe siècle qui surveillait autrefois l'embouchure de la rivière Rance.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "quimper", population: 66743,
@@ -7440,7 +7728,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Château de Lanniron", "text": "Former summer residence of the Bishops of Cornouaille, featuring 17th-century terraced gardens along the Odet river.", "category": "historical", "confidence": "high" },
             { "name": "Gare de Quimper", "text": "The historic railway station building, opened in 1863, is a key architectural witness to the development of western Brittany.", "category": "station", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Corentin", "text": "Cette cathédrale gothique impressionnante du XIIIe siècle est célèbre pour son inclinaison marquée et ses splendides vitraux.", "category": "religious" },
+        { "name": "Vieux Quimper", "text": "La vieille ville historique enchante les visiteurs avec ses maisons à colombages bien conservées et ses ruelles pavées médiévales.", "category": "historical" },
+        { "name": "Musée des Beaux-Arts", "text": "Le musée d'art abrite une importante collection de peinture européenne et expose des œuvres d'inspiration bretonne dans un bâtiment élégant.", "category": "museum" },
+        { "name": "Musée de la Faïence", "text": "Ce musée expose la célèbre faïence de Quimper, qui façonne l'identité de la ville depuis plus de 300 ans.", "category": "museum" },
+        { "name": "Jardin de la Retraite", "text": "Ce jardin botanique caché offre une flore exotique et une oasis de paix à l'intérieur des remparts historiques.", "category": "natural" },
+        { "name": "Musée Départemental Breton", "text": "Installé dans l'ancien palais épiscopal, le musée présente la riche histoire, l'archéologie et l'art populaire de toute la Bretagne.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "saint-brieuc", population: 52559,
@@ -7628,7 +7925,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Étienne", "text": "Cette cathédrale fortifiée mêle art roman et gothique et a servi pendant des siècles de refuge aux habitants.", "category": "religious" },
+        { "name": "Port du Légué", "text": "Le charmant port de plaisance relie Saint-Brieuc à la mer et constitue un lieu prisé pour les promenades le long des quais.", "category": "recreational" },
+        { "name": "Musée d'Art et d'Histoire", "text": "Le musée met en lumière l'histoire régionale, le patrimoine maritime et le développement agricole des Côtes-d'Armor.", "category": "museum" },
+        { "name": "Tour de Cesson", "text": "Les ruines de cette tour du XIVe siècle surplombent la baie et témoignent de l'importance stratégique de la défense côtière.", "category": "fortress" },
+        { "name": "Villa Rohannec'h", "text": "Au milieu d'un vaste parc, cette villa historique propose des expositions et une vue panoramique sur le port du Légué.", "category": "historical" },
+        { "name": "Chaos du Gouët", "text": "Un spectacle naturel de rochers granitiques géants dans le lit de la rivière Gouët, idéal pour des randonnées en forêt.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "dinard", population: 10772,
@@ -7816,7 +8122,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Plage de l'Écluse", "text": "La plage principale de Dinard est connue pour ses tentes de plage rayées bleu et blanc caractéristiques et son élégante promenade.", "category": "natural" },
+        { "name": "Promenade au Clair de Lune", "text": "Un chemin côtier pittoresque qui est illuminé le soir, offrant des vues de rêve sur la baie de Saint-Malo.", "category": "recreational" },
+        { "name": "Villas Belle Époque", "text": "Plus de 400 villas somptueuses de la fin du XIXe siècle confèrent à la station balnéaire son caractère mondain et nostalgique.", "category": "historical" },
+        { "name": "Pointe du Moulinet", "text": "Cette pointe rocheuse offre une vue panoramique spectaculaire sur la mer, l'estuaire de la Rance et la cité fortifiée de Saint-Malo.", "category": "natural" },
+        { "name": "Casino de Dinard", "text": "Situé directement en bord de mer, le casino est un symbole de la ville et reflète le style de vie luxueux de la Belle Époque.", "category": "recreational" },
+        { "name": "Statue d'Alfred Hitchcock", "text": "Cette statue rappelle le célèbre festival du film de Dinard et l'inspiration présumée pour le film Les Oiseaux.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "laval", population: 52359,
@@ -8004,7 +8319,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Vieux Château de Laval", "text": "Ce château imposant abrite une collection exceptionnelle d'art naïf et possède une histoire vieille de plus de 900 ans.", "category": "fortress" },
+        { "name": "Musée d'Art Naïf", "text": "Situé dans le château, le musée est dédié à l'héritage d'Henri Rousseau et expose des chefs-d'œuvre de la peinture naïve mondiale.", "category": "museum" },
+        { "name": "Cathédrale de la Trinité", "text": "La cathédrale réunit des styles architecturaux du XIe au XVIe siècle et abrite d'importantes œuvres d'art religieux et des tapisseries.", "category": "religious" },
+        { "name": "Vieux Pont", "text": "Ce pont gothique du XIIIe siècle est l'emblème de la ville et offre la meilleure vue sur le château.", "category": "historical" },
+        { "name": "Jardin de la Perrine", "text": "Un magnifique parc public sur une falaise, qui abrite des roseraies, des animaux exotiques et la tombe d'Henri Rousseau.", "category": "natural" },
+        { "name": "Porte Beucheresse", "text": "Cette porte fortifiée du XVe siècle faisait partie des remparts médiévaux et mène directement à la vieille ville.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "cholet", population: 55772,
@@ -8232,7 +8556,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Jardin du Mail", "text": "A charming public garden adjacent to the main promenade, featuring well-kept flower beds, statues, and shaded areas for rest.", "category": "natural", "confidence": "high" },
             { "name": "Ludoparc", "text": "An outdoor recreational area designed for families, offering playgrounds and green spaces for relaxation and children's activities.", "category": "recreational", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Musée d'Art et d'Histoire", "text": "Situé au cœur de Cholet, ce musée abrite des collections d'histoire régionale et d'art contemporain dans un bâtiment moderne.", "category": "museum" },
+        { "name": "Musée du Textile et de la Mode", "text": "Installé dans une ancienne blanchisserie, le musée documente l'importante histoire textile de la ville et la fabrication de mouchoirs.", "category": "museum" },
+        { "name": "Parc de Moine", "text": "Un grand parc urbain sur les rives de la Moine, idéal pour se détendre avec ses sentiers, jardins et installations de loisirs.", "category": "recreational" },
+        { "name": "Église du Sacré-Cœur", "text": "Construite dans un style romano-byzantin, cette église est emblématique de Cholet avec son architecture imposante et sa façade en briques rouges.", "category": "religious" },
+        { "name": "Lac de Ribou", "text": "Un grand lac de barrage près de la ville, offrant de nombreuses possibilités de sports nautiques et des sentiers de randonnée.", "category": "natural" },
+        { "name": "Église Notre-Dame", "text": "L'église néogothique marque le paysage urbain de Cholet avec ses hautes tours et abrite des œuvres d'art religieux précieuses.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "saint-nazaire", population: 74568,
@@ -8464,7 +8797,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Fort de l'Eve", "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.", "category": "historical", "confidence": "high" },
             { "name": "Saint-Nazaire Church", "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Escal'Atlantic", "text": "Installé dans l'ancienne base sous-marine, ce musée immersif transporte les visiteurs dans le monde des paquebots légendaires.", "category": "museum" },
+        { "name": "Sous-marin Espadon", "text": "Le premier sous-marin français à avoir navigué sous la banquise peut être visité aujourd'hui dans le bassin portuaire de Saint-Nazaire.", "category": "historical" },
+        { "name": "Base sous-marine", "text": "Une énorme structure en béton de la Seconde Guerre mondiale, servant aujourd'hui de centre culturel et d'espace d'exposition.", "category": "historical" },
+        { "name": "Pont de Saint-Nazaire", "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.", "category": "civic" },
+        { "name": "Chantiers de l'Atlantique", "text": "L'un des plus grands chantiers navals au monde, où sont construits les navires de croisière les plus célèbres, propose des visites guidées.", "category": "historical" },
+        { "name": "Plage de Monsieur Hulot", "text": "Une plage de sable charmante à Saint-Marc-sur-Mer, rendue mondialement célèbre par le film classique de Jacques Tati.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "chartres", population: 40361,
@@ -8652,7 +8994,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame", "text": "Classée au patrimoine mondial de l'UNESCO, elle est célèbre pour ses splendides vitraux bleus et son architecture gothique.", "category": "religious" },
+        { "name": "Maison Picassiette", "text": "Une maison unique entièrement décorée de mosaïques de verre et de céramique, un chef-d'œuvre de l'art naïf.", "category": "cultural" },
+        { "name": "Centre International du Vitrail", "text": "Installé dans une grange historique, ce centre est dédié à l'art et à l'histoire de la peinture sur verre.", "category": "cultural" },
+        { "name": "Musée des Beaux-Arts", "text": "Le musée situé dans l'ancien palais épiscopal présente une riche collection d'œuvres d'art du Moyen Âge au XXe siècle.", "category": "museum" },
+        { "name": "Église Saint-Aignan", "text": "Cette église du XVIe siècle impressionne par son plafond en bois peint et ses décorations intérieures colorées.", "category": "religious" },
+        { "name": "Jardins de l'Évêché", "text": "De magnifiques jardins derrière la cathédrale offrant une vue étendue sur la vallée de l'Eure et la ville basse de Chartres.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "blois", population: 49778,
@@ -8840,7 +9191,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château royal de Blois", "text": "Résidence de plusieurs rois de France, il réunit quatre styles architecturaux différents, du Moyen Âge au classicisme.", "category": "historical" },
+        { "name": "Maison de la Magie", "text": "Un musée situé en face du château, dédié à l'illusionniste Robert-Houdin, proposant régulièrement des spectacles.", "category": "museum" },
+        { "name": "Cathédrale Saint-Louis", "text": "Reconstruite dans un style gothique, la cathédrale domine la ville et impressionne par son élégance sobre.", "category": "religious" },
+        { "name": "Escalier Denis Papin", "text": "Cet escalier monumental relie la ville haute à la ville basse et est souvent décoré d'art spectaculaire.", "category": "civic" },
+        { "name": "Pont Jacques-Gabriel", "text": "Le pont historique en pierre traversant la Loire offre la meilleure vue sur la silhouette de la ville de Blois.", "category": "historical" },
+        { "name": "Fondation du Doute", "text": "Un centre d'art contemporain initié par Ben Vautier, centré sur le mouvement Fluxus.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "bourges", population: 77300,
@@ -9068,7 +9428,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Jacques Cœur Theatre", "text": "The municipal theater of Bourges, a magnificent 19th-century building offering a rich cultural program.", "category": "cultural", "confidence": "high" },
             { "name": "Gare de Bourges", "text": "The city's main railway station, a historical building with a distinctive facade connecting Bourges to Paris.", "category": "station", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Étienne", "text": "Cette cathédrale gothique est classée au patrimoine mondial de l'UNESCO et est célèbre pour ses magnifiques vitraux du XIIIe siècle.", "category": "religious" },
+        { "name": "Palais Jacques Cœur", "text": "Un chef-d'œuvre de l'architecture civile gothique, construit par l'argentier du roi Charles VII au XVe siècle.", "category": "historical" },
+        { "name": "Marais de Bourges", "text": "Des jardins maraîchers uniques au pied de la vieille ville, offrant 135 hectares de détente et d'agriculture urbaine.", "category": "natural" },
+        { "name": "Musée du Berry", "text": "Situé dans le magnifique Hôtel Cujas, le musée présente des découvertes archéologiques et l'art populaire régional du Berry.", "category": "museum" },
+        { "name": "Hôtel Lallemant", "text": "Une demeure Renaissance avec une cour intérieure magnifique, abritant aujourd'hui une collection d'objets d'art décoratif.", "category": "historical" },
+        { "name": "Jardin de l'Archevêché", "text": "Un jardin français classique derrière la cathédrale, conçu par des élèves du célèbre André Le Nôtre.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "chateauroux", population: 53429,
@@ -9256,7 +9625,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château Raoul", "text": "Ce château du Xe siècle domine l'Indre et est l'emblème historique qui a donné son nom à la ville.", "category": "fortress" },
+        { "name": "Musée Bertrand", "text": "Une ancienne demeure du général Bertrand, présentant aujourd'hui des collections de l'ère napoléonienne et des beaux-arts.", "category": "museum" },
+        { "name": "Église Notre-Dame", "text": "Une église imposante du XIXe siècle, mêlant avec brio des éléments romans et byzantins.", "category": "religious" },
+        { "name": "Abbaye de Déols", "text": "Les ruines de cette abbaye clunisienne autrefois puissante se trouvent à la périphérie et témoignent de la splendeur médiévale.", "category": "monastic" },
+        { "name": "Parc Balsan", "text": "Un vaste parc paysager sur les rives de l'Indre, alliant harmonieusement châteaux historiques et aménagements paysagers modernes.", "category": "recreational" },
+        { "name": "Couvent des Cordeliers", "text": "Un ancien couvent franciscain du XIIIe siècle, aujourd'hui utilisé pour des expositions d'art contemporain.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "amboise", population: 13246,
@@ -9444,7 +9822,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château royal d'Amboise", "text": "Cette magnifique résidence des rois de France domine la Loire et abrite la tombe de Léonard de Vinci.", "category": "historical" },
+        { "name": "Le Clos Lucé", "text": "La dernière demeure de Léonard de Vinci est aujourd'hui un musée exposant ses inventions géniales et ses modèles.", "category": "museum" },
+        { "name": "Château Gaillard", "text": "Une demeure Renaissance, réputée pour son orangerie royale et son jardin d'inspiration italienne.", "category": "historical" },
+        { "name": "Pagode de Chanteloup", "text": "Une tour insolite de style chinois du XVIIIe siècle, offrant une vue panoramique sur la vallée de la Loire.", "category": "historical" },
+        { "name": "Église Saint-Denis", "text": "Une église historique aux magnifiques chapiteaux romans et aux sculptures significatives de différentes époques.", "category": "religious" },
+        { "name": "Tour de l'Horloge", "text": "Le beffroi médiéval était autrefois la porte de la ville et demeure l'un des monuments les plus marquants de la vieille ville.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "albi", population: 51290,
@@ -9632,7 +10019,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Sainte-Cécile", "text": "La plus grande cathédrale en briques au monde est un chef-d'œuvre du gothique méridional avec un intérieur somptueux.", "category": "religious" },
+        { "name": "Palais de la Berbie", "text": "L'ancien palais épiscopal abrite aujourd'hui le musée Toulouse-Lautrec et impressionne par son architecture défensive.", "category": "museum" },
+        { "name": "Pont Vieux", "text": "L'un des plus vieux ponts de France, enjambant le Tarn depuis le XIe siècle et toujours en service.", "category": "historical" },
+        { "name": "Collégiale Saint-Salvi", "text": "Une église collégiale charmante mêlant styles roman et gothique, avec un cloître médiéval paisible.", "category": "religious" },
+        { "name": "Jardins du Palais de la Berbie", "text": "Des jardins à la française magnifiquement aménagés, offrant une vue spectaculaire sur le Tarn et les vieux ponts.", "category": "recreational" },
+        { "name": "Musée Lapérouse", "text": "Un musée dédié au célèbre navigateur et explorateur Lapérouse, né près d'Albi.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "rodez", population: 25747,
@@ -9832,7 +10228,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame de Rodez", "text": "Cette imposante cathédrale gothique en grès rouge impressionne par son clocher de 87 mètres et ses somptueux vitraux.", "category": "religious" },
+        { "name": "Musée Soulages", "text": "Un musée d'art moderne dédié aux œuvres de Pierre Soulages, remarquable par son architecture en acier Corten.", "category": "museum" },
+        { "name": "Musée Fenaille", "text": "Installé dans un palais Renaissance, ce musée abrite une collection unique au monde de statues-menhirs du Néolithique.", "category": "museum" },
+        { "name": "Maison d'Armagnac", "text": "L'une des plus anciennes maisons de la ville, un superbe édifice Renaissance aux façades richement sculptées sur la place de l'Olmet.", "category": "historical" },
+        { "name": "Place d'Armes", "text": "La place centrale de Rodez, entourée de bâtiments historiques, est un lieu de rencontre animé avec ses cafés juste devant la cathédrale.", "category": "civic" },
+        { "name": "Église Saint-Amans", "text": "Une église baroque construite sur les fondations d'un ancien édifice roman, abritant des retables somptueux.", "category": "religious" },
+        { "name": "Hôtel de Ville", "text": "Le magnifique hôtel de ville de Rodez est un exemple marquant de l'architecture administrative française au cœur du centre historique.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "montauban", population: 62945,
@@ -10076,7 +10482,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Museum of Resistance and Deportation", "text": "This museum is dedicated to the history of local resistance and the memory of deportation during World War II.", "category": "museum", "confidence": "high" },
             { "name": "Saint-Orens de Villebourbon Church", "text": "A Neo-Gothic brick church on the left bank of the Tarn, famous for its stained glass and decorative facade.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Place Nationale", "text": "Une place carrée magnifique avec des doubles rangées d'arcades, cœur de la ville et chef-d'œuvre de l'architecture en briques.", "category": "historical" },
+        { "name": "Musée Ingres-Bourdelle", "text": "Installé dans un ancien palais épiscopal, ce musée présente les œuvres du peintre Ingres et du sculpteur Bourdelle.", "category": "museum" },
+        { "name": "Pont Vieux", "text": "Une impressionnante passerelle médiévale en briques du XIVe siècle, enjambant le Tarn.", "category": "historical" },
+        { "name": "Cathédrale Notre-Dame-de-l'Assomption", "text": "Une cathédrale en pierre blanche marquante de style classique, formant un contraste saisissant avec la ville de briques rouges.", "category": "religious" },
+        { "name": "Église Saint-Jacques", "text": "Cette église fortifiée en briques rouges est l'un des rares bâtiments médiévaux conservés de la ville.", "category": "religious" },
+        { "name": "Cours Foucault", "text": "Un vaste parc du XVIIe siècle qui invite à la promenade sur les rives du Tarn.", "category": "recreational" },
+        { "name": "Théâtre Olympe de Gouges", "text": "Un théâtre élégant avec une façade magnifique, nommé d'après la célèbre militante pour les droits des femmes originaire de Montauban.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "auch", population: 23258,
@@ -10276,7 +10692,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Sainte-Marie d'Auch", "text": "Cette cathédrale classée au patrimoine mondial de l'UNESCO est réputée pour ses stalles magnifiques et ses vitraux de la Renaissance.", "category": "religious" },
+        { "name": "Escalier Monumental", "text": "Un escalier monumental de 374 marches reliant la ville basse à la ville haute, surmonté par une statue de d'Artagnan.", "category": "historical" },
+        { "name": "Tour d'Armagnac", "text": "Ancienne prison du XIVe siècle, cette tour emblématique domine aujourd'hui le centre historique de la ville.", "category": "fortress" },
+        { "name": "Musée des Amériques-Auch", "text": "Ce musée abrite une collection importante d'art précolombien ainsi que des trésors locaux de la Gascogne.", "category": "museum" },
+        { "name": "Berges du Gers", "text": "Des sentiers aménagés le long du Gers offrent un espace de détente naturel au cœur de la ville.", "category": "natural" },
+        { "name": "Maison de Gascogne", "text": "Ancienne halle au blé, ce bâtiment historique accueille désormais des événements culturels et des marchés régionaux.", "category": "civic" },
+        { "name": "Ancien Évêché", "text": "L'ancien palais épiscopal situé près de la cathédrale impressionne par son architecture et sa portée historique.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "beziers", population: 84029,
@@ -10520,7 +10946,17 @@ const citySeeds: CitySeed[] = [
             { "name": "Église de la Madeleine", "text": "A historic church known as the site of the 1209 massacre during the Albigensian Crusade, later rebuilt in Romanesque style.", "category": "religious", "confidence": "high" },
             { "name": "Hôtel de Ville de Béziers", "text": "The city hall of Béziers, a majestic 18th-century building with an elegant clock tower and a beautiful grand staircase.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Nazaire", "text": "Dominant l'Orb, cette cathédrale fortifiée offre une vue panoramique imprenable sur la campagne environnante.", "category": "religious" },
+        { "name": "Écluses de Fonseranes", "text": "Un escalier d'eau spectaculaire composé de neuf écluses sur le canal du Midi, chef-d'œuvre technique classé à l'UNESCO.", "category": "historical" },
+        { "name": "Pont Vieux", "text": "Un magnifique pont médiéval à 15 arches qui enjambe le fleuve Orb à Béziers depuis plusieurs siècles.", "category": "historical" },
+        { "name": "Les Allées Paul Riquet", "text": "La principale promenade de la ville, bordée de platanes, de cafés et de la statue du concepteur du canal du Midi.", "category": "civic" },
+        { "name": "Le Plateau des Poètes", "text": "Un vaste parc paysager de style anglais agrémenté de nombreuses statues et d'essences végétales rares.", "category": "recreational" },
+        { "name": "Arènes de Béziers", "text": "Un amphithéâtre historique accueillant des corridas et des concerts, véritable foyer de la culture locale.", "category": "cultural" },
+        { "name": "Canal du Midi", "text": "Le célèbre canal traverse Béziers, invitant aux promenades en bateau et aux flâneries sous les arbres centenaires.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "narbonne", population: 57587,
@@ -10800,7 +11236,18 @@ const citySeeds: CitySeed[] = [
             { "name": "Musée d'Art et d'Histoire", "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.", "category": "museum", "confidence": "high" },
             { "name": "Eglise Saint-Sébastien", "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Just-et-Saint-Pasteur", "text": "Cette cathédrale gothique inachevée du XIIIe siècle se distingue par l'une des voûtes les plus hautes de France.", "category": "religious" },
+        { "name": "Palais des Archevêques", "text": "Cet ancien palais épiscopal monumental abrite aujourd'hui l'hôtel de ville ainsi que des musées d'art et d'archéologie.", "category": "historical" },
+        { "name": "Horreum Romain", "text": "Des entrepôts souterrains uniques datant de l'époque romaine, offrant un aperçu fascinant du commerce antique.", "category": "museum" },
+        { "name": "Les Halles de Narbonne", "text": "Splendide halle de style Baltard datant de 1901, considérée comme l'un des plus beaux marchés couverts de France.", "category": "culinary" },
+        { "name": "Canal de la Robine", "text": "Classé au patrimoine mondial de l'UNESCO, ce canal traverse le centre-ville et invite à la promenade le long de ses quais.", "category": "recreational" },
+        { "name": "Via Domitia", "text": "Vestiges de la première voie romaine en Gaule, découverts et mis en valeur face à l'hôtel de ville.", "category": "historical" },
+        { "name": "Basilique Saint-Paul", "text": "Importante basilique protogothique bâtie sur une nécropole paléochrétienne, célèbre pour ses chapiteaux sculptés.", "category": "religious" },
+        { "name": "Narbo Via Museum", "text": "Musée moderne conçu par Norman Foster, présentant la riche histoire romaine de l'antique cité de Narbo Martius.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "sete", population: 45337,
@@ -11036,7 +11483,18 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Mont Saint-Clair", "text": "Le point culminant de Sète offre un panorama époustouflant sur la ville, la mer et l'étang de Thau.", "category": "natural" },
+        { "name": "Le Quartier Haut", "text": "Le plus vieux quartier de la ville, aux ruelles pentues, reflète l'âme artistique et l'influence italienne de Sète.", "category": "historical" },
+        { "name": "Musée Paul Valéry", "text": "Situé au pied du mont Saint-Clair, ce musée est dédié au poète et présente des collections artistiques variées.", "category": "cultural" },
+        { "name": "Le Grand Canal", "text": "Cœur névralgique de Sète, il accueille en été les traditionnelles joutes nautiques si emblématiques de la ville.", "category": "recreational" },
+        { "name": "Théâtre de la Mer", "text": "Ancien fort situé en bord de mer, transformé en scène à ciel ouvert offrant une vue imprenable sur la Méditerranée.", "category": "cultural" },
+        { "name": "Phare de la Méditerranée", "text": "Ce phare sur le môle Saint-Louis signale l'entrée du port et offre une vue étendue sur la côte languedocienne.", "category": "historical" },
+        { "name": "Cimetière Marin", "text": "Dernière demeure de Paul Valéry, ce cimetière surplombant la mer offre une beauté mélancolique au sommet des falaises.", "category": "historical" },
+        { "name": "Môle Saint-Louis", "text": "Construit au XVIIe siècle pour protéger le port, ce môle est un lieu de promenade privilégié entre ville et mer.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "tarbes", population: 44529,
@@ -11248,7 +11706,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Jardin Massey", "text": "L'un des plus beaux parcs de France, abritant des plantes exotiques, un cloître du XIVe siècle et des paons.", "category": "natural" },
+        { "name": "Musée Massey", "text": "Situé dans le jardin, ce musée abrite une collection unique au monde consacrée à l'histoire des Hussards.", "category": "museum" },
+        { "name": "Haras National de Tarbes", "text": "Fondé par Napoléon en 1806, ce haras est le berceau de la race anglo-arabe et un monument de l'art équestre.", "category": "historical" },
+        { "name": "Cathédrale Notre-Dame-de-la-Sède", "text": "Cette cathédrale mélange les styles roman et gothique et possède un somptueux autel sous un baldaquin baroque.", "category": "religious" },
+        { "name": "Halle Marcadieu", "text": "Monumentale halle de métal et de verre de style Baltard, accueillant chaque jeudi un grand marché régional.", "category": "culinary" },
+        { "name": "Maison Natale du Maréchal Foch", "text": "La maison où naquit le célèbre maréchal de la Grande Guerre, transformée en musée dédié à son parcours.", "category": "museum" },
+        { "name": "Place de Verdun", "text": "Espace central animé de la ville, avec ses fontaines et ses terrasses, cœur de la vie sociale tarbaise.", "category": "civic" }
+      ]
+    }
   },
   {
     id: "foix",
@@ -11436,7 +11904,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château de Foix", "text": "Imposante forteresse médiévale aux trois tours, dominant fièrement la vieille ville depuis son éperon rocheux.", "category": "fortress" },
+        { "name": "Abbatiale Saint-Volusien", "text": "Ancienne église abbatiale dotée d'un portail remarquable, elle abrite les reliques du saint patron de la cité.", "category": "religious" },
+        { "name": "Vieille Ville", "text": "Le centre historique de Foix, avec ses ruelles étroites, ses maisons à colombages et ses charmantes petites places.", "category": "historical" },
+        { "name": "Les Forges de Pyrène", "text": "Musée de plein air vivant, retraçant les métiers anciens et la vie rurale traditionnelle en Ariège.", "category": "cultural" },
+        { "name": "Rivière Souterraine de Labouiche", "text": "Rivière navigable sous terre offrant une découverte fascinante de concrétions calcaires dans les grottes.", "category": "natural" },
+        { "name": "Allées de Villote", "text": "Large promenade au pied du château, lieu de rencontres, de marchés et de fêtes sous les frondaisons.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "perigueux",
@@ -11600,7 +12077,15 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Front", "text": "Majestueuse cathédrale byzantine classée à l'UNESCO, dont l'architecture rappelle la basilique Saint-Marc de Venise.", "category": "religious" },
+        { "name": "Tour Mataguerre", "text": "Dernier vestige des remparts médiévaux de la ville, offrant une vue dégagée sur le quartier historique.", "category": "historical" },
+        { "name": "Vesunna", "text": "Musée gallo-romain construit sur les ruines d'une villa antique, exposant de remarquables mosaïques.", "category": "museum" },
+        { "name": "Musée d'Art et d'Archéologie", "text": "Le plus ancien musée de la Dordogne présente de riches collections allant de la préhistoire aux beaux-arts.", "category": "museum" },
+        { "name": "Église Saint-Étienne-de-la-Cité", "text": "Ancienne cathédrale de la ville, cette église romane précéda la construction de Saint-Front.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "angouleme",
@@ -11764,7 +12249,15 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Saint-Pierre", "text": "Chef-d'œuvre de l'art roman doté d'une façade richement sculptée datant du XIIe siècle.", "category": "religious" },
+        { "name": "Cité de la BD", "text": "Centre unique dédié à la bande dessinée, comprenant un musée, une bibliothèque et des expositions temporaires.", "category": "cultural" },
+        { "name": "Hôtel de Ville", "text": "L'hôtel de ville occupe les murs d'un ancien château, mélangeant plusieurs époques architecturales.", "category": "civic" },
+        { "name": "Les Remparts", "text": "Les anciennes fortifications offrent un panorama étendu sur la vallée de la Charente, parfait pour une balade.", "category": "historical" },
+        { "name": "Musée d'Angoulême", "text": "Ce musée expose des découvertes archéologiques majeures ainsi qu'une impressionnante collection d'art africain.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "cognac",
@@ -11928,7 +12421,15 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Musée des Arts du Cognac", "text": "Ce musée moderne retrace toute l'histoire et les techniques d'élaboration du célèbre spiritueux local.", "category": "culinary" },
+        { "name": "Château de Cognac", "text": "Lieu de naissance du roi François Ier, il abrite aujourd'hui une maison de cognac historique.", "category": "historical" },
+        { "name": "Église Saint-Léger", "text": "La plus grande église de Cognac séduit par son portail roman et sa rosace imposante.", "category": "religious" },
+        { "name": "Parc François Ier", "text": "Vaste espace forestier en bord de Charente, idéal pour la détente et les activités en plein air.", "category": "natural" },
+        { "name": "Vieux Cognac", "text": "Promenez-vous dans les ruelles du vieux Cognac, entre maisons à colombages et hôtels particuliers historiques.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "saintes",
@@ -12092,7 +12593,15 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Amphithéâtre de Saintes", "text": "L'un des amphithéâtres romains les mieux conservés de Gaule, pouvant accueillir des milliers de spectateurs.", "category": "historical" },
+        { "name": "Abbaye aux Dames", "text": "Joyau de l'art roman et première abbaye de femmes de la région, devenue un centre musical important.", "category": "monastic" },
+        { "name": "Arc de Germanicus", "text": "Arc de triomphe romain de l'an 18 ap. J.-C., qui se dressait autrefois sur le pont au-dessus de la Charente.", "category": "historical" },
+        { "name": "Basilique Saint-Eutrope", "text": "Étape majeure sur le chemin de Saint-Jacques-de-Compostelle, elle possède l'une des plus grandes cryptes d'Europe.", "category": "religious" },
+        { "name": "Cathédrale Saint-Pierre", "text": "Cette cathédrale se distingue par son clocher inachevé et son portail de style gothique flamboyant.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "rochefort",
@@ -12280,7 +12789,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Corderie Royale", "text": "Majestueux bâtiment du XVIIe siècle construit pour la marine de Louis XIV, exemple parfait d'architecture classique.", "category": "historical" },
+        { "name": "L'Hermione", "text": "Réplique fidèle de la frégate qui mena La Fayette en Amérique, témoignage du savoir-faire naval traditionnel.", "category": "cultural" },
+        { "name": "Musée National de la Marine", "text": "Installé dans un hôtel particulier, ce musée présente l'histoire maritime et la construction navale à Rochefort.", "category": "museum" },
+        { "name": "Pont Transbordeur", "text": "Dernier pont transbordeur de France, monument unique du XIXe siècle enjambant le fleuve Charente.", "category": "historical" },
+        { "name": "Place Colbert", "text": "Place centrale célèbre pour ses façades en pierre élégantes, lieu de tournage du film Les Demoiselles de Rochefort.", "category": "civic" },
+        { "name": "Maison de Pierre Loti", "text": "Maison natale excentrique et exotique du célèbre écrivain-officier, véritable conservatoire de ses voyages.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "niort",
@@ -12468,7 +12986,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Le Donjon", "text": "Impressionnant donjon double du XIIe siècle, l'un des plus beaux exemples d'architecture militaire romane en France.", "category": "fortress" },
+        { "name": "Le Pilori", "text": "Ancien hôtel de ville de style Renaissance, nommé d'après le pilori qui se dressait autrefois à proximité.", "category": "historical" },
+        { "name": "Musée Bernard d'Agesci", "text": "Musée éclectique situé dans une ancienne école, couvrant les beaux-arts, l'histoire naturelle et l'éducation.", "category": "museum" },
+        { "name": "Église Saint-André", "text": "Remarquable église néogothique du XIXe siècle, dont les deux flèches dominent le panorama urbain de Niort.", "category": "religious" },
+        { "name": "Les Halles de Niort", "text": "Halles animées de verre et d'acier du XIXe siècle, proposant des spécialités locales dans une ambiance authentique.", "category": "culinary" },
+        { "name": "Jardins de la Brèche", "text": "Vaste parc moderne au centre-ville, aménagé sur un ancien parking, formant une véritable oasis verte.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "dax",
@@ -12656,7 +13183,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Fontaine Chaude", "text": "Source thermale de l'époque romaine et emblème de Dax, délivrant une eau constante à 64 degrés.", "category": "natural" },
+        { "name": "Arènes de Dax", "text": "Superbes arènes de 1913 de style andalou, haut lieu des fêtes locales et des spectacles taurins.", "category": "cultural" },
+        { "name": "Cathédrale Notre-Dame", "text": "Magnifique cathédrale reconstruite au XVIIe siècle, dotée d'un portail gothique impressionnant.", "category": "religious" },
+        { "name": "Musée de Borda", "text": "Situé dans un hôtel particulier du XVIe siècle, il expose le patrimoine archéologique de Dax et sa région.", "category": "museum" },
+        { "name": "Splendid Hôtel", "text": "Chef-d'œuvre de l'architecture Art déco des années 1920, alliant luxe et élégance au cœur de la ville thermale.", "category": "hotel" },
+        { "name": "Atrium Casino", "text": "Imposant édifice Art déco conçu par André Granet, devenu aujourd'hui un centre culturel et théâtre.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "arcachon",
@@ -12844,7 +13380,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Dune du Pilat", "text": "La plus haute dune d'Europe, offrant une vue imprenable sur l'Atlantique et la forêt de pins environnante.", "category": "natural" },
+        { "name": "Ville d'Hiver", "text": "Quartier pittoresque célèbre pour ses villas éclectiques du XIXe siècle arborant des styles architecturaux variés.", "category": "historical" },
+        { "name": "Jetée Thiers", "text": "Jetée principale d'Arcachon, lieu animé et point de départ des navettes vers le Cap Ferret et le bassin.", "category": "recreational" },
+        { "name": "Parc Mauresque", "text": "Beau parc en hauteur qui abritait jadis un casino mauresque, proposant aujourd'hui des jardins botaniques.", "category": "natural" },
+        { "name": "Observatoire Sainte-Anne", "text": "Tour d'observation métallique conçue par Paul Régnauld, offrant une vue panoramique à 360 degrés sur le bassin.", "category": "cultural" },
+        { "name": "Notre-Dame-des-Passes", "text": "Église du XIXe siècle de style byzantin, dominant l'entrée du bassin dans le quartier du Moulleau.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "royan",
@@ -13032,7 +13577,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Notre-Dame de Royan", "text": "Monumental édifice en béton de la Reconstruction, célèbre pour son esthétique futuriste et son acoustique.", "category": "religious" },
+        { "name": "Marché central de Royan", "text": "Bâtiment emblématique en forme de coquille, érigé en 1955 comme centre battant de la vie urbaine.", "category": "civic" },
+        { "name": "Plage de la Grande Conche", "text": "La principale plage de sable de la ville, bordée de villas Belle Époque et de constructions modernes.", "category": "natural" },
+        { "name": "Phare de Cordouan", "text": "Le plus ancien phare français encore en activité, joyau du patrimoine mondial situé à l'embouchure de la Gironde.", "category": "historical" },
+        { "name": "Planet Exotica", "text": "Vaste parc botanique agrémenté d'animaux exotiques, de reptiles et d'une collection d'oliviers millénaires.", "category": "natural" },
+        { "name": "Musée de Royan", "text": "Installé dans un ancien marché, il documente l'histoire locale depuis l'Antiquité jusqu'à nos jours.", "category": "museum" }
+      ]
+    }
   },
   {
     id: "agen", population: 34949,
@@ -13220,7 +13774,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Pont-canal d'Agen", "text": "Impressionnant pont permettant au canal latéral à la Garonne de franchir le fleuve, ouvrage technique du XIXe siècle.", "category": "historical" },
+        { "name": "Cathédrale Saint-Caprais", "text": "Magnifique cathédrale romane classée au patrimoine mondial de l'UNESCO au titre des chemins de Compostelle.", "category": "religious" },
+        { "name": "Musée des Beaux-Arts", "text": "Réparti dans quatre hôtels Renaissance, il renferme une riche collection allant de Goya à l'impressionnisme.", "category": "museum" },
+        { "name": "Église des Jacobins", "text": "Église gothique des Dominicains du XIIIe siècle, utilisée aujourd'hui pour des expositions culturelles.", "category": "religious" },
+        { "name": "Parc Naturel de Passeligne", "text": "Vaste espace de loisirs doté de lacs et de chemins, idéal pour la promenade et les activités sportives.", "category": "natural" },
+        { "name": "Place des Laitiers", "text": "Place pittoresque au cœur de la vieille ville, bordée de cafés et de maisons à colombages historiques.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "brive-la-gaillarde", population: 51864,
@@ -13408,7 +13971,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Collégiale Saint-Martin", "text": "Édifice majeur de la ville avec une crypte romane et des chapiteaux sculptés du XIIe siècle.", "category": "religious" },
+        { "name": "Marché Georges Brassens", "text": "Célèbre marché alimentaire rendu mondialement connu par une chanson du chanteur Georges Brassens.", "category": "culinary" },
+        { "name": "Musée Labenche", "text": "Musée d'art et d'histoire installé dans un superbe hôtel Renaissance avec cour intérieure.", "category": "museum" },
+        { "name": "Distillerie Denoix", "text": "Distillerie traditionnelle de 1839, renommée pour sa liqueur de noix et ses alambics en cuivre d'époque.", "category": "culinary" },
+        { "name": "Tour des Échevins", "text": "Tour Renaissance emblématique de la vieille ville, ancien vestige de l'hôtel de ville de Brive.", "category": "historical" },
+        { "name": "Parc de la Guierle", "text": "Agréable parc urbain en bord de Corrèze, invitant à la détente et à la promenade au milieu de la verdure.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "bergerac", population: 28166,
@@ -13596,7 +14168,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Statue de Cyrano", "text": "Hommage au célèbre héros de Rostand, soulignant le charme historique de la place de la Mirpe.", "category": "historical" },
+        { "name": "Musée du Tabac", "text": "Logé dans la maison Peyrarède, ce musée unique relate l'histoire du tabac à travers le monde.", "category": "museum" },
+        { "name": "Maison des Vins", "text": "Ancien couvent des Récollets du XVIIe siècle où sont présentés les vins de la région.", "category": "culinary" },
+        { "name": "Vieille Ville de Bergerac", "text": "Quartier médiéval aux maisons à colombages, ruelles pavées et places idylliques en bord de rivière.", "category": "historical" },
+        { "name": "Gabarres de Bergerac", "text": "Bateaux traditionnels proposant des croisières sur la Dordogne pour admirer la ville au fil de l'eau.", "category": "recreational" },
+        { "name": "Église Notre-Dame", "text": "Église néogothique du XIXe siècle, dont le clocher de 80 mètres domine le paysage urbain de Bergerac.", "category": "religious" }
+      ]
+    }
   },
   {
     id: "colmar", population: 71445,
@@ -13868,7 +14449,18 @@ const citySeeds: CitySeed[] = [
             { "name": "Adolph House", "text": "Built around 1350, the Adolph House is considered one of the oldest buildings in Colmar, featuring Gothic window arches.", "category": "historical", "confidence": "high" },
             { "name": "Roesselmann Fountain", "text": "This white stone fountain honors the city judge Jean Roesselmann, who defended Colmar against the bishop in the 13th century.", "category": "historical", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Petite Venise", "text": "Quartier pittoresque aux maisons à colombages colorées le long de la Lauch, parfait pour des promenades romantiques.", "category": "historical" },
+        { "name": "Musée Unterlinden", "text": "L'un des musées les plus visités de France, abritant le célèbre retable d'Issenheim de Matthias Grünewald.", "category": "museum" },
+        { "name": "Collégiale Saint-Martin", "text": "Importante église gothique en grès jaune qui marque le panorama de Colmar par son clocher imposant.", "category": "religious" },
+        { "name": "Maison Pfister", "text": "Somptueuse demeure Renaissance de 1537, connue pour ses fresques murales et son oriel en bois.", "category": "historical" },
+        { "name": "Koifhus", "text": "Ancienne douane et plus vieux bâtiment public de la ville, devenu centre d'animations culturelles.", "category": "historical" },
+        { "name": "Musée Bartholdi", "text": "Maison natale de Frédéric-Auguste Bartholdi, créateur de la Statue de la Liberté, dédiée à sa vie et son œuvre.", "category": "museum" },
+        { "name": "Maison des Têtes", "text": "Édifice Renaissance dont la façade est ornée de plus d'une centaine de petites têtes et masques en pierre.", "category": "historical" },
+        { "name": "Champ-de-Mars", "text": "Grand parc public du centre-ville, lieu de détente privilégié agrémenté de statues de personnages locaux.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "epinal", population: 33454,
@@ -14080,7 +14672,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Musée de l'Image", "text": "Musée unique dédié à l'histoire des célèbres Images d'Épinal et aux arts de l'imagerie populaire.", "category": "museum" },
+        { "name": "Basilique Saint-Maurice", "text": "Basilique gothique du XIIIe siècle présentant un mélange d'influences romanes et bourguignonnes.", "category": "religious" },
+        { "name": "Château d'Épinal", "text": "Vestiges de l'ancienne forteresse sur une colline, entourés d'un parc avec enclos animalier et vue sur la ville.", "category": "fortress" },
+        { "name": "Place des Vosges", "text": "Cœur historique d'Épinal avec ses maisons Renaissance et ses galeries couvertes.", "category": "civic" },
+        { "name": "Parc du Château", "text": "Vaste espace vert entourant les ruines du château, idéal pour les promenades et les sorties en famille.", "category": "recreational" },
+        { "name": "Musée Départemental d'Art Ancien et Contemporain", "text": "Réunit des collections majeures allant de l'archéologie à l'art moderne dans un bâtiment remarquable sur la Moselle.", "category": "museum" },
+        { "name": "Roseraie d'Épinal", "text": "Magnifique jardin présentant plus de 500 variétés de roses le long de la Moselle.", "category": "natural" }
+      ]
+    }
   },
   {
     id: "thionville", population: 42778,
@@ -14292,7 +14894,17 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Tour aux Puces", "text": "Ancien donjon des comtes de Luxembourg, il abrite aujourd'hui le musée municipal d'archéologie.", "category": "historical" },
+        { "name": "Église Saint-Maximin", "text": "Église classique du XVIIIe siècle dotée d'un orgue impressionnant et d'un décor somptueux.", "category": "religious" },
+        { "name": "Belfried", "text": "Symbole de la liberté urbaine avec une cloche du XVIIe siècle, anciennement partie de l'hôtel de ville.", "category": "historical" },
+        { "name": "Parc Napoléon", "text": "Charmant parc urbain sur les rives de la Moselle, idéal pour des promenades paisibles sous des arbres centenaires.", "category": "recreational" },
+        { "name": "Hôtel de Ville", "text": "Bâtiment historique du XVIIe siècle qui reflète l'histoire administrative de la cité.", "category": "civic" },
+        { "name": "Pont des Alliés", "text": "Pont majeur sur la Moselle reliant le centre-ville aux faubourgs, offrant de belles vues.", "category": "civic" },
+        { "name": "Ouvrage Hackenberg", "text": "Partie de la ligne Maginot située près de Thionville, cette immense fortification est souterraine.", "category": "fortress" }
+      ]
+    }
   },
   {
     id: "charleville-mezieres", population: 60176,
@@ -14564,7 +15176,18 @@ const citySeeds: CitySeed[] = [
             { "name": "Marché Couvert de Charleville", "text": "The historical covered market offers local specialties and a lively atmosphere in the city center.", "category": "culinary", "confidence": "high" },
             { "name": "Lycée Chanzy", "text": "A monumental school building with an impressive facade, serving as an important local landmark.", "category": "civic", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "Place Ducale", "text": "Splendide place de style baroque, considérée comme la jumelle de la place des Vosges à Paris.", "category": "civic" },
+        { "name": "Musée Rimbaud", "text": "Dédié au poète Arthur Rimbaud, il est installé dans un ancien moulin au bord de la Meuse.", "category": "museum" },
+        { "name": "Basilique Notre-Dame d'Espérance", "text": "Basilique gothique de Mézières, célèbre pour ses vitraux modernes réalisés par René Dürrbach.", "category": "religious" },
+        { "name": "Le Grand Marionnettiste", "text": "Horloge mécanique géante représentant toutes les heures des scènes de la légende des quatre fils Aymon.", "category": "cultural" },
+        { "name": "Maison des Ailleurs", "text": "Maison où Arthur Rimbaud passa sa jeunesse, aujourd'hui un lieu dédié à l'inspiration et la littérature.", "category": "museum" },
+        { "name": "Berges de la Meuse", "text": "Aménagements paysagers le long du fleuve, parfaits pour les promenades et les sorties à vélo.", "category": "natural" },
+        { "name": "Musée de l'Ardenne", "text": "Musée consacré à l'histoire et aux traditions populaires de la région, situé sur la place Ducale.", "category": "museum" },
+        { "name": "Remparts de Mézières", "text": "Vestiges de l'ancienne enceinte et des tours témoignant du passé militaire du quartier de Mézières.", "category": "fortress" }
+      ]
+    }
   },
   {
     id: "cherbourg-en-cotentin", population: 80616,
@@ -14792,7 +15415,16 @@ const citySeeds: CitySeed[] = [
             { "name": "Military Port of Cherbourg", "text": "One of the largest artificial harbors in the world, an impressive defensive work built over centuries for protection.", "category": "fortress", "confidence": "high" },
             { "name": "Church of Saint-Martin d'Octeville", "text": "A Romanesque-style church with a notable bell tower, one of the oldest religious buildings in the Cherbourg area.", "category": "religious", "confidence": "high" }
         ]
-}
+,
+      "fr": [
+        { "name": "La Cité de la Mer", "text": "Grand musée maritime situé dans l'ancien terminal transatlantique, abritant un sous-marin et des aquariums.", "category": "museum" },
+        { "name": "Fort du Roule", "text": "Cette forteresse au sommet de la montagne du Roule offre une vue panoramique sur la rade et accueille un musée.", "category": "fortress" },
+        { "name": "Basilique Sainte-Trinité", "text": "Basilique gothique du XVe siècle, reconnue pour son architecture au cœur du centre historique.", "category": "religious" },
+        { "name": "Musée Thomas Henry", "text": "Troisième musée d'art de Normandie, avec une riche collection de peintures du XVe au XIXe siècle.", "category": "museum" },
+        { "name": "Parc Emmanuel Liais", "text": "Superbe jardin botanique proposant des plantes exotiques, des serres et un petit musée d'histoire naturelle.", "category": "natural" },
+        { "name": "Port de Chantereyne", "text": "Port de plaisance animé, idéal pour les balades au bord de l'eau dans une atmosphère maritime moderne.", "category": "recreational" }
+      ]
+    }
   },
   {
     id: "dieppe", population: 30588,
@@ -14980,7 +15612,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château de Dieppe", "text": "Forteresse imposante sur les falaises abritant un musée avec une célèbre collection d'ivoires.", "category": "museum" },
+        { "name": "Église Saint-Jacques", "text": "Somptueuse église gothique, étape importante sur le chemin de Saint-Jacques-de-Compostelle.", "category": "religious" },
+        { "name": "Estran Cité de la Mer", "text": "Centre maritime dédié à la pêche, à la construction navale et à l'environnement marin côtier.", "category": "museum" },
+        { "name": "Plage de Dieppe", "text": "Longue plage de galets bordée de falaises blanches, célèbre pour son festival international de cerf-volant.", "category": "natural" },
+        { "name": "Notre-Dame de Bonsecours", "text": "Chapelle située sur les falaises, dédiée aux marins, offrant une vue magnifique sur la ville.", "category": "religious" },
+        { "name": "Pont Colbert", "text": "Dernier grand pont tournant d'Europe du XIXe siècle, fonctionnant toujours avec son mécanisme hydraulique d'origine.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "evreux", population: 51560,
@@ -15168,7 +15809,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Cathédrale Notre-Dame d'Évreux", "text": "L'une des plus grandes cathédrales de France, connue pour son mélange architectural et ses vitraux splendides.", "category": "religious" },
+        { "name": "Musée d'Évreux", "text": "Situé dans l'ancien palais épiscopal, il présente des collections allant de l'archéologie à l'art moderne.", "category": "museum" },
+        { "name": "Église Saint-Taurin", "text": "Célèbre pour la châsse dorée de saint Taurin, chef-d'œuvre de l'orfèvrerie du XIIIe siècle.", "category": "religious" },
+        { "name": "Tour de l'Horloge", "text": "Clocher gothique du XVe siècle, emblème marquant du centre-ville d'Évreux.", "category": "historical" },
+        { "name": "Jardins de l'Évêché", "text": "Beaux jardins publics au bord de l'Iton, entourant la cathédrale et le palais épiscopal.", "category": "natural" },
+        { "name": "Rempart gallo-romain", "text": "Vestiges de l'ancienne muraille romaine du IIIe siècle, intégrés au tissu urbain moderne.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "arras",
@@ -15356,7 +16006,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Grand' Place", "text": "Vaste place bordée de 155 maisons baroques flamandes formant un ensemble architectural cohérent et impressionnant.", "category": "historical" },
+        { "name": "Beffroi d'Arras", "text": "Classé au patrimoine mondial de l'UNESCO, ce beffroi offre une vue spectaculaire sur la ville et la région.", "category": "historical" },
+        { "name": "Carrière Wellington", "text": "Réseau de tunnels de la Première Guerre mondiale, creusé par des sapeurs néo-zélandais pour l'offensive de 1917.", "category": "museum" },
+        { "name": "Abbaye Saint-Vaast", "text": "Ensemble monumental abritant aujourd'hui le musée des Beaux-Arts et la cathédrale d'Arras.", "category": "museum" },
+        { "name": "Citadelle d'Arras", "text": "Forteresse conçue par Vauban, inscrite au patrimoine mondial de l'UNESCO, propice aux promenades.", "category": "fortress" },
+        { "name": "Place des Héros", "text": "Autre place magnifique où se situent l'hôtel de ville et le célèbre beffroi.", "category": "historical" }
+      ]
+    }
   },
   {
     id: "boulogne-sur-mer", population: 42537,
@@ -15680,7 +16339,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Basilique de Saint-Quentin", "text": "Impressionnante basilique gothique renfermant les reliques de saint Quentin, véritable joyau architectural.", "category": "religious" },
+        { "name": "Hôtel de Ville de Saint-Quentin", "text": "Magnifique édifice gothique flamboyant à la façade ornée et au carillon célèbre.", "category": "civic" },
+        { "name": "Musée des Papillons", "text": "Ce musée unique présente une immense collection de plus de 20 000 insectes et papillons du monde entier.", "category": "museum" },
+        { "name": "Palais de Fervaques", "text": "Bâtiment monumental du XIXe siècle, servant aujourd'hui de palais de justice et de lieu culturel.", "category": "civic" },
+        { "name": "Parc d'Isle", "text": "Grand parc naturel en périphérie de la ville comprenant un parc animalier, des réserves et des loisirs pour familles.", "category": "recreational" },
+        { "name": "Théâtre Jean Vilar", "text": "Élégant théâtre offrant une programmation variée de spectacles dans un cadre historique.", "category": "cultural" }
+      ]
+    }
   },
   {
     id: "compiegne",
@@ -15868,7 +16536,16 @@ const citySeeds: CitySeed[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "fr": [
+        { "name": "Château de Compiègne", "text": "Ancienne résidence royale et impériale connue pour ses appartements somptueux et ses musées.", "category": "historical" },
+        { "name": "Hôtel de Ville de Compiègne", "text": "Beau bâtiment gothique doté d'un beffroi où les célèbres personnages des Picantins marquent les heures.", "category": "civic" },
+        { "name": "Clairière de l'Armistice", "text": "Lieu historique en forêt où furent signés les armistices de 1918 et de 1940.", "category": "historical" },
+        { "name": "Musée de la Figurine Historique", "text": "Ce musée abrite des milliers de figurines miniatures illustrant fidèlement les grandes batailles historiques.", "category": "museum" },
+        { "name": "Église Saint-Jacques", "text": "Étape majeure sur le chemin de Saint-Jacques-de-Compostelle, riche d'une longue histoire religieuse.", "category": "religious" },
+        { "name": "Forêt de Compiègne", "text": "L'un des plus grands massifs forestiers de France, idéal pour la randonnée et la découverte nature.", "category": "natural" }
+      ]
+    }
   },
 ];
 

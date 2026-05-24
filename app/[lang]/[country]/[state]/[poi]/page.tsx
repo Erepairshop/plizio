@@ -11,6 +11,12 @@ import PoiWeather from "@/components/seo/PoiWeather";
 import StructuredData, { createPoiStructuredData, createFaqStructuredData, createSightsStructuredData, createBreadcrumbStructuredData } from "@/components/seo/StructuredData";
 import { getRelatedPoisGrouped, getNearbyPois } from "@/lib/seo/relatedPoisGrouped";
 import {
+  TYPE_BUCKETS,
+  TYPE_HEADINGS,
+  TYPE_INDEX_COUNTRIES,
+  typeSlugFor,
+} from "@/lib/seo/typeIndex";
+import {
   COUNTRY_COPY,
   getCountryCopy,
   SEO_COPY,
@@ -139,7 +145,7 @@ export default async function PoiPage({
   const copy = SEO_COPY[resolved.lang as Lang];
   const countryCopy = getCountryCopy(countryId, resolved.lang as Lang);
   const related = getRelatedPois(poi);
-  const grouped = getRelatedPoisGrouped(poi, 6);
+  const grouped = getRelatedPoisGrouped(poi, 12);
   const nearby = getNearbyPois(poi, 80, 24);
   const nextHref = grouped.sameRegion[0] ? buildPoiPath(resolved.lang as Lang, grouped.sameRegion[0]) : undefined;
   const geoFacts = geographicFacts(poi);
@@ -306,18 +312,31 @@ export default async function PoiPage({
           </section>
         ) : null}
 
-        {grouped.sameTopic.length ? (
-          <section className="mt-10">
-            <h2 className="text-2xl font-semibold tracking-tight">{poi.type} — {countryCopy.name}</h2>
-            <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {grouped.sameTopic.map((item) => (
-                <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
-              ))}
-            </div>
-          </section>
-        ) : null}
+        {grouped.sameTopic.length ? (() => {
+          const bucket = Object.entries(TYPE_BUCKETS).find(([, types]) => types.includes(poi.type))?.[0];
+          const showLink = bucket && TYPE_INDEX_COUNTRIES.includes(countryId);
+          const seeAllHref = showLink ? `/${resolved.lang}/${countrySlugFor(resolved.lang as Lang, countryId)}/category/${typeSlugFor(bucket!, resolved.lang as Lang)}/` : null;
+          const seeAllLabel = resolved.lang === "de" ? "Alle ansehen" : resolved.lang === "hu" ? "Összes megtekintése" : resolved.lang === "ro" ? "Vezi toate" : "View all";
+          return (
+            <section className="mt-10">
+              <div className="flex flex-wrap items-baseline justify-between gap-3">
+                <h2 className="text-2xl font-semibold tracking-tight">{poi.type} — {countryCopy.name}</h2>
+                {seeAllHref ? (
+                  <a href={seeAllHref} className="text-sm text-cyan-300 hover:text-cyan-200">
+                    {seeAllLabel} →
+                  </a>
+                ) : null}
+              </div>
+              <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {grouped.sameTopic.map((item) => (
+                  <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
+                ))}
+              </div>
+            </section>
+          );
+        })() : null}
         <PoiWeather coords={poi.coords as [number, number] | undefined} lang={resolved.lang as Lang} />
-        <PoiNearbyList poi={poi} lang={resolved.lang as Lang} max={6} />
+        <PoiNearbyList poi={poi} lang={resolved.lang as Lang} max={12} />
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-12 sm:px-6 lg:px-8">
         <PoiRecentNews poiId={poi.id} lang={resolved.lang as Lang} />
