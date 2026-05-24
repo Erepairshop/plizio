@@ -80,6 +80,20 @@ function lookupSightImage(name: string, poiId: string): string | undefined {
   return SIGHT_IMG_MAP[key];
 }
 
+// Sight → POI internal link map: same-country name matches only (350 entries).
+// Key format: "<host_poi_id>|<sight_name>" → "<linked_poi_id>"
+let SIGHT_POI_LINKS: Record<string, string> = {};
+try {
+  const splPath = path.resolve(process.cwd(), "public", "data", "sight-poi-links.json");
+  if (fs.existsSync(splPath)) {
+    SIGHT_POI_LINKS = JSON.parse(fs.readFileSync(splPath, "utf-8"));
+  }
+} catch {}
+function lookupSightPoiLink(hostPoiId: string, sightName: string): string | undefined {
+  if (!hostPoiId || !sightName) return undefined;
+  return SIGHT_POI_LINKS[`${hostPoiId}|${sightName}`];
+}
+
 // Load FULL POI data (with description/facts/advanced) directly via TS imports
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
@@ -137,6 +151,8 @@ async function loadFullPois(): Promise<POI[]> {
   return out;
 }
 const pois: POI[] = await loadFullPois();
+// Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
+const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
 type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
 
 const SITE_URL = "https://plizio.com";
@@ -638,7 +654,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
     const attr = renderAttribution(s.image_attribution);
-    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${escapeHtml(s.name)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
+    // Internal link: if this sight name matches a same-country POI, link it.
+    const linkedPoiId = lookupSightPoiLink(poi.id, s.name);
+    const linkedPoi = linkedPoiId ? allById.get(linkedPoiId) : undefined;
+    const nameHtml = linkedPoi
+      ? `<a href="${buildPoiPath(lang, linkedPoi)}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
+      : escapeHtml(s.name);
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights;
   const sightsArr = (getLocalized(sightsObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];

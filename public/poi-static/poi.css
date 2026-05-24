@@ -523,6 +523,9 @@ footer a { color: rgba(255,255,255,0.7); }
 }
 .plz-official-fb:hover { background: rgba(147,197,253,0.15); border-color: rgba(147,197,253,0.5); }
 
+.plz-sight-name-link { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(34,211,238,0.4); }
+.plz-sight-name-link:hover { color: #4cc; border-bottom-color: rgba(34,211,238,0.8); }
+
 /* Yearly highlights — AI-curated 1-3 top 2026 events, displayed above news (compact) */
 .plz-yh { margin: 0.75rem 0; padding: 0.6rem 0.75rem; background: linear-gradient(135deg, rgba(251,191,36,0.06), rgba(251,191,36,0.02)); border: 1px solid rgba(251,191,36,0.25); border-radius: 0.6rem; }
 .plz-yh h2 { margin: 0 0 0.45rem 0; font-size: 0.85rem; color: #fbbf24; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
