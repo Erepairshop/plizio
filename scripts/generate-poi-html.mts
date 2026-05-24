@@ -619,7 +619,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     if (!s?.name) return "";
     // Inject image from sight-image-map.json if the sight itself lacks one.
     const imgUrl = s.image || lookupSightImage(s.name, poi.id);
-    const img = imgUrl ? `<img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(s.name)}" loading="lazy"/>` : "";
+    const img = imgUrl
+      ? `<button type="button" class="plz-sight-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(s.name)}" aria-label="${escapeHtml(s.name)}"><img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(s.name)}" loading="lazy"/></button>`
+      : "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
     const attr = renderAttribution(s.image_attribution);
@@ -815,6 +817,18 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   </section>
   ${relatedItems}
 </main>
+<div id="plz-lightbox" class="plz-lightbox" role="dialog" aria-modal="true" aria-hidden="true"><button type="button" class="plz-lightbox-close" aria-label="Close">×</button><img alt="" /></div>
+<style>
+.plz-sight-img-btn{padding:0;border:0;background:none;cursor:zoom-in;display:block}
+.plz-sight-img-btn:focus-visible{outline:2px solid #4cc;outline-offset:2px}
+.plz-lightbox{position:fixed;inset:0;background:rgba(2,6,12,.92);display:none;align-items:center;justify-content:center;z-index:9999;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);-webkit-tap-highlight-color:transparent}
+.plz-lightbox.open{display:flex}
+.plz-lightbox img{max-width:min(95vw,1400px);max-height:min(90vh,1400px);width:auto;height:auto;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,.6)}
+.plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
+.plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
+@media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+</style>
+<script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
 <footer>
   <div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a> · <a href="/${lang}/ueber-uns/">Über uns</a></div>
   <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
