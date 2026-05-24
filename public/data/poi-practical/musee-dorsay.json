@@ -1,0 +1,12 @@
+{
+  "address": "1 Rue de la Légion d'Honneur, 75007 Paris",
+  "openingHours": "Di-So 09:30-18:00, Do bis 21:45, Montag geschlossen",
+  "entranceFee": "€16 Erwachsene, Donnerstagabend €12 (ab 18:00)",
+  "website": "https://www.musee-orsay.fr",
+  "publicTransport": "RER Linie C Station 'Musée d'Orsay' oder Metro Linie 12 'Solférino'",
+  "parking": "Parkhaus 'Indigo' am Place de la Concorde (ca. 10 Min. Fußweg)",
+  "accessibility": "Barrierefrei mit Aufzügen zu allen Ebenen",
+  "photoRules": "Erlaubt ohne Blitz und Stativ",
+  "bestTimeToVisit": "Dienstag oder Mittwoch direkt zur Öffnung",
+  "audioGuide": "Verfügbar in DE, EN, FR, ES, RU, ZH, JP"
+}

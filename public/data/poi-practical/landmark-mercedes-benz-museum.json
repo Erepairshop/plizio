@@ -1,0 +1,12 @@
+{
+  "address": "Mercedesstraße 100, 70372 Stuttgart",
+  "openingHours": "Di-So 09:00-18:00, Mo geschlossen",
+  "entranceFee": "€12 Erwachsene, €6 Ermäßigt",
+  "website": "https://www.mercedes-benz.com/museum",
+  "publicTransport": "S-Bahn S1 bis Haltestelle Neckarpark (Mercedes-Benz)",
+  "parking": "Museums-Parkhaus, €2/Std. (erste 3 Std.)",
+  "accessibility": "Vollständig barrierefrei, Aufzüge zu allen Ebenen",
+  "photoRules": "Erlaubt für private Zwecke, kein Blitz",
+  "bestTimeToVisit": "Dienstag oder Mittwoch Vormittag für weniger Andrang",
+  "audioGuide": "de, en, fr, es, it, zh, ru, ja"
+}

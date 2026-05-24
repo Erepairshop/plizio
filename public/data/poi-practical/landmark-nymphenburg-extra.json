@@ -1,0 +1,12 @@
+{
+  "address": "Schloss Nymphenburg 1, 80638 München",
+  "openingHours": "Schloss 09:00-18:00 (Apr-Oct), Park 06:00-20:00",
+  "entranceFee": "Schloss €8, Gesamtticket (Schloss+Museen) €15",
+  "website": "https://www.schloss-nymphenburg.de",
+  "publicTransport": "Tram 17 bis Haltestelle Schloss Nymphenburg",
+  "parking": "Kostenlose Parkplätze direkt vor dem Schloss (begrenzt)",
+  "accessibility": "Schloss mit Aufzug barrierefrei, Parkwege teils Kies",
+  "photoRules": "Im Schloss ohne Blitz/Stativ erlaubt, Park frei",
+  "bestTimeToVisit": "Früh morgens für Spaziergänge im Park ohne Touristenströme",
+  "audioGuide": "de, en, fr, es, it, ru, zh, ja"
+}

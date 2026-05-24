@@ -509,6 +509,54 @@ function loadItinerary(poiId: string): any | null {
   return data;
 }
 
+// Landmark practical-info loader (644 landmark POIs with opening hours, fees, etc.).
+const _practicalCache = new Map<string, any>();
+function loadPractical(poiId: string): any | null {
+  if (_practicalCache.has(poiId)) return _practicalCache.get(poiId);
+  const p = path.resolve(process.cwd(), "public/data/poi-practical", `${poiId}.json`);
+  let data: any = null;
+  try {
+    if (fs.existsSync(p)) data = JSON.parse(fs.readFileSync(p, "utf-8"));
+  } catch {}
+  _practicalCache.set(poiId, data);
+  return data;
+}
+
+const PRACTICAL_COPY: Record<string, Record<string, string>> = {
+  hu: { title: "📋 Praktikus információk", address: "Cím", openingHours: "Nyitvatartás", entranceFee: "Belépő", website: "Hivatalos oldal", publicTransport: "Tömegközl.", parking: "Parkolás", accessibility: "Akadálymentes", photoRules: "Fotózás", bestTimeToVisit: "Legjobb idő", audioGuide: "Audio-vezető" },
+  de: { title: "📋 Praktische Infos", address: "Adresse", openingHours: "Öffnungszeiten", entranceFee: "Eintritt", website: "Website", publicTransport: "ÖPNV", parking: "Parken", accessibility: "Barrierefreiheit", photoRules: "Fotos", bestTimeToVisit: "Beste Zeit", audioGuide: "Audioguide" },
+  en: { title: "📋 Practical info", address: "Address", openingHours: "Hours", entranceFee: "Entry", website: "Website", publicTransport: "Transit", parking: "Parking", accessibility: "Accessibility", photoRules: "Photos", bestTimeToVisit: "Best time", audioGuide: "Audio guide" },
+  ro: { title: "📋 Informații practice", address: "Adresă", openingHours: "Program", entranceFee: "Intrare", website: "Site oficial", publicTransport: "Transport public", parking: "Parcare", accessibility: "Accesibilitate", photoRules: "Fotografii", bestTimeToVisit: "Cel mai bun moment", audioGuide: "Audioghid" },
+  fr: { title: "📋 Infos pratiques", address: "Adresse", openingHours: "Horaires", entranceFee: "Entrée", website: "Site officiel", publicTransport: "Transports", parking: "Stationnement", accessibility: "Accessibilité", photoRules: "Photos", bestTimeToVisit: "Meilleur moment", audioGuide: "Audioguide" },
+  tr: { title: "📋 Pratik bilgiler", address: "Adres", openingHours: "Çalışma saatleri", entranceFee: "Giriş", website: "Resmi site", publicTransport: "Toplu taşıma", parking: "Otopark", accessibility: "Erişilebilirlik", photoRules: "Fotoğraf", bestTimeToVisit: "En iyi zaman", audioGuide: "Sesli rehber" },
+};
+
+function renderPracticalInfo(poi: POI, lang: Lang): string {
+  const data = loadPractical(poi.id);
+  if (!data) return "";
+  const C = PRACTICAL_COPY[lang] || PRACTICAL_COPY.en;
+  const fields: Array<[string, string]> = [
+    ["address", "📍"], ["openingHours", "🕒"], ["entranceFee", "💶"],
+    ["website", "🌐"], ["publicTransport", "🚌"], ["parking", "🅿️"],
+    ["accessibility", "♿"], ["photoRules", "📷"], ["bestTimeToVisit", "⭐"],
+    ["audioGuide", "🎧"],
+  ];
+  const items = fields.map(([k, emoji]) => {
+    const v = data[k];
+    if (!v || typeof v !== "string" || v.length < 2) return "";
+    const label = C[k] || k;
+    let valHtml: string;
+    if (k === "website" && /^https?:\/\//.test(v)) {
+      valHtml = `<a href="${escapeHtml(v)}" target="_blank" rel="nofollow noopener">${escapeHtml(v.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>`;
+    } else {
+      valHtml = escapeHtml(v);
+    }
+    return `<div class="plz-pract-item"><div class="plz-pract-icon">${emoji}</div><div class="plz-pract-body"><div class="plz-pract-label">${escapeHtml(label)}</div><div class="plz-pract-value">${valHtml}</div></div></div>`;
+  }).filter(Boolean).join("");
+  if (!items) return "";
+  return `<section class="plz-pract"><h2>${C.title}</h2><div class="plz-pract-grid">${items}</div></section>`;
+}
+
 const ITIN_COPY: Record<Lang, Record<string, string>> = {
   hu: { title: "Egy nap a városban", intro: "Válassz időjárást + közlekedési módot, kapj konkrét napi tervet.", modeWalk: "🚶 Gyalog", modeBike: "🚲 Bicikli", modeCar: "🚗 Autó", modeTransit: "🚌 Tömegközl.", unitWalk: "séta", unitBike: "tekerés", unitCar: "vezetés", unitTransit: "út", places: "hely", tipsHeading: "💡 Helyi tippek", moreTipsHeading: "⭐ További tippek", navHere: "Útvonal", navTo: "Odamenni", resTitle: "🧰 Eszközök kéznél", resIntro: "Minden, ami a látogatáshoz kellhet — egy kattintással.", bestTime: "📅 Mikor érdemes jönni", warnings: "⚠️ Hol legyél óvatos", langTips: "🗣️ Nyelvi gyorstipp", wSunny: "☀️ Jó idő", wRainy: "☔ Eső", wWinter: "❄️ Téli", goLabel: "Mehet" },
   de: { title: "Ein Tag in der Stadt", intro: "Wähle Wetter + Verkehrsmittel, erhalte einen konkreten Tagesplan.", modeWalk: "🚶 Zu Fuß", modeBike: "🚲 Fahrrad", modeCar: "🚗 Auto", modeTransit: "🚌 ÖPNV", unitWalk: "Strecke", unitBike: "Strecke", unitCar: "Strecke", unitTransit: "Weg", places: "Orte", tipsHeading: "💡 Lokale Tipps", moreTipsHeading: "⭐ Weitere Tipps", navHere: "Route", navTo: "Hingelangen", resTitle: "🧰 Werkzeuge zur Hand", resIntro: "Alles, was du für den Besuch brauchst — ein Klick entfernt.", bestTime: "📅 Beste Reisezeit", warnings: "⚠️ Wo Vorsicht geboten ist", langTips: "🗣️ Sprach-Schnelltipp", wSunny: "☀️ Sonnig", wRainy: "☔ Regen", wWinter: "❄️ Winter", goLabel: "Los geht's" },
@@ -995,7 +1043,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524g"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524h"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1026,6 +1074,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
     <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderPracticalInfo(poi, lang)}
   ${renderCityItinerary(poi, lang)}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
@@ -1267,7 +1316,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524g"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524h"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}

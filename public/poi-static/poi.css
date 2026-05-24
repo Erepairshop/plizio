@@ -617,3 +617,15 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-itin-body{margin-top:1rem;animation:plzItinFade .25s ease-out}
 .plz-itin-body[hidden]{display:none}
 @keyframes plzItinFade{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+
+/* Landmark practical info grid v=20260524h */
+.plz-pract{margin:1.4rem 0;padding:1.2rem;border-radius:14px;background:rgba(76,198,255,.04);border:1px solid rgba(76,198,255,.18)}
+.plz-pract h2{margin:0 0 .8rem;font-size:1.15rem;color:rgba(255,255,255,.95)}
+.plz-pract-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:.55rem}
+.plz-pract-item{display:flex;gap:.55rem;align-items:flex-start;padding:.55rem .7rem;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:9px}
+.plz-pract-icon{font-size:1.05rem;flex:0 0 auto;line-height:1.2}
+.plz-pract-body{min-width:0;flex:1}
+.plz-pract-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:rgba(255,255,255,.55);font-weight:600;margin-bottom:.15rem}
+.plz-pract-value{font-size:.88rem;color:rgba(255,255,255,.88);line-height:1.4;word-break:break-word}
+.plz-pract-value a{color:#4cc6ff;text-decoration:none}
+.plz-pract-value a:hover{text-decoration:underline}
