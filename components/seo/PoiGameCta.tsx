@@ -40,12 +40,14 @@ export default function PoiGameCta({ poi, lang }: { poi: POI; lang: Lang }) {
       <div className="mt-4 flex flex-wrap gap-3">
         <a
           href={astroHref}
+          rel="nofollow"
           className="inline-flex items-center gap-2 rounded-full bg-cyan-500 hover:bg-cyan-400 text-black font-bold px-5 py-2.5 transition"
         >
           {copy.play}
         </a>
         <a
           href={testHref}
+          rel="nofollow"
           className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 hover:bg-white/10 text-white px-5 py-2.5 transition"
         >
           {copy.test}
