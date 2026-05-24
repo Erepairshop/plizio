@@ -956,7 +956,7 @@ async function main() {
   console.log(`Unique dirs: ${dirsMade.size}`);
 }
 
-// ---- Sight page renderer (Tier 1: modern compact UI with SVG icons) ----
+// ---- Sight page renderer (Tier 1: same chrome as POI page, modern compact body) ----
 function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const sightName = data.sight_name || "";
   const desc = (data.descriptionAdvanced && data.descriptionAdvanced[lang]) || data.descriptionAdvanced?.de || "";
@@ -965,7 +965,23 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
   const hostUrl = buildPoiPath(lang, host);
   const countryId = getCountryId(host.parent!);
-  const sightUrl = `${SITE_URL}${hostUrl.replace(/\/$/, "")}/sight/${data.slug}/`;
+  const sightRelUrl = hostUrl.replace(/\/$/, "") + "/sight/" + data.slug + "/";
+  const sightUrl = `${SITE_URL}${sightRelUrl}`;
+  // Per-lang sight URL alternates (use buildPoiPath for each lang)
+  const sightAlternates: Record<string, string> = Object.fromEntries(
+    SUPPORTED_LANGS.map((l) => [l, `${SITE_URL}${buildPoiPath(l, host).replace(/\/$/, "")}/sight/${data.slug}/`])
+  );
+  const hreflangLinks = Object.entries(sightAlternates)
+    .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
+    .join("\n  ");
+  // Lang switcher (4 langs only, no fr/tr for now)
+  const langSwitcher = SUPPORTED_LANGS.map((l) => {
+    const cls = l === lang ? ' class="active"' : "";
+    const href = sightAlternates[l];
+    return `<a href="${href}"${cls}>${l.toUpperCase()}</a>`;
+  }).join("");
+  const countrySlug = countrySlugFor(lang, countryId);
+  const countryName = countrySlug.replace(/-/g, " ");
   const ICON_COPY: Partial<Record<Lang, Record<string, string>>> = {
     de: { address: "Adresse", openingHours: "Öffnungszeiten", entranceFee: "Eintritt", website: "Webseite",
           publicTransport: "ÖPNV", parking: "Parken", accessibility: "Barrierefreiheit",
@@ -1042,22 +1058,38 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   if (p.website) jsonLd.sameAs = p.website;
   if (p.entranceFee && /^free$/i.test(p.entranceFee)) jsonLd.isAccessibleForFree = true;
 
+  // Weather widget (reuse same pattern as POI page)
+  const weatherCopy: Partial<Record<Lang, { now: string; forecast: string; loading: string }>> = {
+    de: { now: "Aktuell", forecast: "5-Tage-Vorhersage", loading: "Wetter…" },
+    hu: { now: "Most", forecast: "5 napos előrejelzés", loading: "Időjárás…" },
+    ro: { now: "Acum", forecast: "Prognoză 5 zile", loading: "Vremea…" },
+    en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
+  };
+  const wc = weatherCopy[lang] || weatherCopy.en!;
+  const weatherHtml = (host.coords && host.coords.length >= 2)
+    ? `<section class="plz-weather" id="plz-weather" data-lat="${host.coords[1]}" data-lon="${host.coords[0]}" data-lang="${lang}"><p class="plz-weather-loading">${escapeHtml(wc.loading)}</p></section>
+<script>(function(){var el=document.getElementById('plz-weather');if(!el)return;var lat=el.dataset.lat,lon=el.dataset.lon,lang=el.dataset.lang;var ICON=function(c){if(c===0)return'☀️';if(c<=2)return'🌤️';if(c===3)return'☁️';if(c>=45&&c<=48)return'🌫️';if(c>=51&&c<=57)return'🌦️';if(c>=61&&c<=67)return'🌧️';if(c>=71&&c<=77)return'🌨️';if(c>=80&&c<=82)return'🌧️';if(c>=85&&c<=86)return'🌨️';if(c>=95)return'⛈️';return'🌡️';};var DAYS={de:['So','Mo','Di','Mi','Do','Fr','Sa'],hu:['V','H','K','Sze','Cs','P','Szo'],ro:['Du','Lu','Ma','Mi','Jo','Vi','Sâ'],en:['Sun','Mon','Tue','Wed','Thu','Fri','Sat']};var CP={de:{now:'Aktuell',forecast:'5-Tage-Vorhersage'},hu:{now:'Most',forecast:'5 napos előrejelzés'},ro:{now:'Acum',forecast:'Prognoză 5 zile'},en:{now:'Now',forecast:'5-day forecast'}};var c=CP[lang]||CP.en;var d=DAYS[lang]||DAYS.en;fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&forecast_days=5&timezone=auto').then(function(r){return r.json();}).then(function(j){var html='';if(j.current){html+='<div class="plz-weather-now"><span class="plz-weather-icon">'+ICON(j.current.weather_code)+'</span><div><span class="plz-weather-label">'+c.now+'</span><strong>'+Math.round(j.current.temperature_2m)+'°C</strong></div></div>';}if(j.daily){html+='<div class="plz-weather-forecast"><span class="plz-weather-label">'+c.forecast+'</span><ul>';for(var i=0;i<j.daily.time.length;i++){var dt=new Date(j.daily.time[i]);html+='<li><span>'+d[dt.getDay()]+'</span><span>'+ICON(j.daily.weather_code[i])+'</span><strong>'+Math.round(j.daily.temperature_2m_max[i])+'°</strong><span class="plz-tmin">'+Math.round(j.daily.temperature_2m_min[i])+'°</span></li>';}html+='</ul></div>';}el.innerHTML=html;}).catch(function(){el.style.display='none';});})();</script>`
+    : "";
+
   return `<!DOCTYPE html>
 <html lang="${lang}">
 <head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
 <link rel="canonical" href="${sightUrl}"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524a"/>
+${hreflangLinks}
+<link rel="alternate" hreflang="x-default" href="${sightAlternates.en}"/>
+<meta property="og:title" content="${escapeHtml(sightName)}"/>
+<meta property="og:description" content="${escapeHtml(metaDesc)}"/>
+<meta property="og:url" content="${sightUrl}"/>
+<meta property="og:type" content="article"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524b"/>
 <style>
-.plz-sp-hero{padding:1.5rem 0;border-bottom:1px solid rgba(255,255,255,.08);margin-bottom:1.5rem}
-.plz-sp-hero h1{margin:0;font-size:1.8rem;line-height:1.2}
-.plz-sp-hero .plz-sp-loc{color:rgba(255,255,255,.55);font-size:.9rem;margin-top:.3rem}
-.plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.8rem}
+.plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
-.plz-sp-desc{margin:0 0 1.2rem 0;font-size:.95rem;line-height:1.65;color:rgba(255,255,255,.85)}
+.plz-sp-desc{margin:1rem 0 1.2rem 0;font-size:.95rem;line-height:1.65;color:rgba(255,255,255,.85)}
 .plz-sp-practical{background:linear-gradient(135deg,rgba(34,211,238,.05),rgba(34,211,238,.02));border:1px solid rgba(34,211,238,.18);border-radius:.75rem;padding:.9rem 1rem;margin:1.2rem 0}
 .plz-sp-practical h2{margin:0 0 .8rem 0;font-size:.95rem;color:#4cc;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
 .plz-sp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.4rem .9rem}
@@ -1073,23 +1105,38 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
 .plz-sp-facts h2{font-size:1rem;color:rgba(255,255,255,.9);margin:0 0 .5rem 0;font-weight:600}
 .plz-sp-facts ul{margin:0;padding-left:1.2rem;color:rgba(255,255,255,.78);font-size:.88rem;line-height:1.6}
 .plz-sp-facts li{margin-bottom:.3rem}
-@media(max-width:640px){.plz-sp-grid{grid-template-columns:1fr}.plz-sp-hero h1{font-size:1.45rem}}
+@media(max-width:640px){.plz-sp-grid{grid-template-columns:1fr}}
 </style>
 </head>
-<body class="plz-poi">
-<header class="plz-topbar"><a class="plz-logo" href="/${lang}/">Plizio</a></header>
-<main class="plz-main">
-  <section class="plz-sp-hero">
-    <a class="plz-sp-back" href="${hostUrl}">${escapeHtml(c.backToCity)} ${escapeHtml(hostName)}</a>
-    <h1>${escapeHtml(sightName)}</h1>
-    <p class="plz-sp-loc">${escapeHtml(hostName)}</p>
-  </section>
-  ${desc ? `<p class="plz-sp-desc">${escapeHtml(desc)}</p>` : ""}
+<body>
+<header class="plz-header">
+  <div class="plz-header-inner">
+    <a href="/${lang}/" class="plz-logo">Plizio</a>
+    <nav class="plz-nav">
+      <a href="/${lang}/">${I("home", lang)}</a>
+      <a href="/europe-map/">Europa</a>
+    </nav>
+    <div class="plz-langs">${langSwitcher}</div>
+  </div>
+</header>
+<main>
+  <nav class="plz-breadcrumb">
+    <a href="/${lang}/">${I("home", lang)}</a><span>›</span>
+    <a href="${buildCountryPath(lang, countryId)}">${escapeHtml(countryName)}</a><span>›</span>
+    <a href="${buildStatePath(lang, host.parent!)}">${escapeHtml(host.parent!)}</a><span>›</span>
+    <a href="${hostUrl}">${escapeHtml(hostName)}</a><span>›</span>
+    <span>${escapeHtml(sightName)}</span>
+  </nav>
+  <div class="plz-title-row"><div><p class="plz-eyebrow">${escapeHtml(hostName)}</p><h1>${escapeHtml(sightName)}</h1></div></div>
+  ${weatherHtml}
   ${practical ? `<section class="plz-sp-practical"><h2>${escapeHtml(c.practical)}</h2><div class="plz-sp-grid">${practical}</div></section>` : ""}
+  ${desc ? `<p class="plz-sp-desc">${escapeHtml(desc)}</p>` : ""}
   ${factsHtml}
+  <p><a class="plz-sp-back" href="${hostUrl}">${escapeHtml(c.backToCity)} ${escapeHtml(hostName)}</a></p>
 </main>
 <footer>
-  <div><a href="/${lang}/">Plizio</a> · <a href="${hostUrl}">${escapeHtml(hostName)}</a></div>
+  <div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a> · <a href="/${lang}/ueber-uns/">Über uns</a></div>
+  <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
 </footer>
 <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
 </body>
