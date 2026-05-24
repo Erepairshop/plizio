@@ -370,7 +370,617 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       fr: ["Mondialement connue pour la production d'acier", "Plus vieux club de football au monde (1857)", "Plus de 2 millions d'arbres sur le territoire urbain", "Un tiers de la ville se trouve dans le parc national"],
     },
     image: "/poi-images/uk-sheffield-cities-v2.webp",
-},
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Sheffield",
+                  "text": "Die im 12. Jahrhundert gegründete Kathedrale ist das älteste durchgehend genutzte Gebäude der Stadt Sheffield.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winter Garden",
+                  "text": "Eines der größten gemäßigten Gewächshäuser Großbritanniens mit über 2.500 Pflanzenarten unter einer Holzkonstruktion.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "Ein bedeutendes Kunst- und Designmuseum, das die berühmte Ruskin-Sammlung und Sheffielder Metallarbeiten beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kelham Island Museum",
+                  "text": "Das Industriemuseum zeigt die Geschichte der Stahlproduktion und beherbergt die gewaltige River Don Engine Dampfmaschine.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Gardens",
+                  "text": "Ein preisgekrönter öffentlicher Platz im Stadtzentrum mit Kaskadenbrunnen direkt neben dem historischen Rathaus.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten Sheffield",
+                  "text": "Diese 1836 eröffneten Gärten umfassen denkmalgeschützte Glashäuser und eine Sammlung von über 5.000 Pflanzenarten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Park",
+                  "text": "Der größte Park der Stadt bietet einen Tierbauernhof, Seen und weite Waldflächen für die öffentliche Erholung.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weston Park Museum",
+                  "text": "Das Museum befindet sich in einem denkmalgeschützten Gebäude und zeigt Ausstellungen zur lokalen Geschichte und Archäologie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucible Theatre",
+                  "text": "Weltberühmt als Austragungsort der Snooker-Weltmeisterschaft und bekannt für seine innovative Vorbühne.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lyceum Theatre",
+                  "text": "Ein prächtiges Theater im Tudor-Stil aus dem Jahr 1897, entworfen vom berühmten Architekten W.G.R. Sprague.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Sheffield",
+                  "text": "Ein beeindruckendes viktorianisches Gebäude aus dem Jahr 1897 mit einem 61 Meter hohen Turm und Vulcan-Statue.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beauchief Abbey",
+                  "text": "Die Überreste einer Prämonstratenser-Abtei aus dem 12. Jahrhundert, die heute teilweise als Kirche genutzt wird.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishops' House",
+                  "text": "Ein gut erhaltenes Fachwerkhaus aus dem Jahr 1500, das heute als Museum für das Leben in der Tudorzeit dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Endcliffe Park",
+                  "text": "Ein beliebter Park mit Denkmälern für Königin Victoria und die Besatzung des abgestürzten Bombers Mi Amigo.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arts Tower",
+                  "text": "Das höchste Universitätsgebäude Großbritanniens, bekannt für seinen Paternosteraufzug und die markante Glasarchitektur.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Videogame Museum",
+                  "text": "Ein interaktives Museum, das die Geschichte der Videospiele dokumentiert und zahlreiche spielbare Klassiker anbietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Manor Lodge",
+                  "text": "Die Ruinen eines Jagdschlosses aus dem 16. Jahrhundert, in dem Maria Stuart zeitweise gefangen gehalten wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Shepherd Wheel Workshop",
+                  "text": "Eine wasserbetriebene Schleifmühle aus dem 16. Jahrhundert, die Sheffielder Industriegeschichte lebendig macht.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Quays",
+                  "text": "Das historische Kanalbecken von Sheffield, umgeben von restaurierten Lagerhäusern und modernen Freizeiteinrichtungen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillsborough Stadium",
+                  "text": "Die Heimstätte von Sheffield Wednesday, bekannt als eines der traditionsreichsten Fußballstadien in ganz England.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bramall Lane",
+                  "text": "Das Heimstadion von Sheffield United und eines der ältesten Stadien der Welt, in dem noch Profifußball gespielt wird.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield General Cemetery",
+                  "text": "Ein historischer viktorianischer Friedhof, der heute als Naturschutzgebiet und öffentlicher Park dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rivelin Valley Nature Trail",
+                  "text": "Ein Wanderweg entlang des Flusses Rivelin, vorbei an zahlreichen Überresten alter wasserbetriebener Mühlen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Gallery",
+                  "text": "Die Galerie im obersten Stockwerk der Zentralbibliothek beherbergt Werke von Picasso, Cézanne und Bridget Riley.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norfolk Heritage Park",
+                  "text": "Ein historischer Park mit Panoramablick über die Stadt, gestiftet vom 15. Herzog von Norfolk im Jahr 1848.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheffieldi székesegyház",
+                  "text": "A 12. században alapított templom Sheffield városának legrégebbi, ma is folyamatosan használt épülete.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Téli Kert",
+                  "text": "Nagy-Britannia egyik legnagyobb mérsékelt égövi üvegháza, amely több mint 2500 növényfajnak ad otthont.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Galéria",
+                  "text": "Kiemelkedő művészeti és design múzeum, amely a híres Ruskin-gyűjteményt és sheffieldi fémmunkákat őrzi.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kelham Island Múzeum",
+                  "text": "Ipari múzeum, amely a helyi acélgyártás történetét mutatja be a hatalmas River Don Engine gőzgéppel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Béke Kertek",
+                  "text": "Díjnyertes közpark a városközpontban, látványos szökőkutakkal a történelmi városháza közvetlen szomszédságában.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffieldi Botanikus Kert",
+                  "text": "Az 1836-ban megnyitott kertben műemléki üvegházak és több mint 5000 növényfajból álló gyűjtemény található.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Park",
+                  "text": "A város legnagyobb parkja állatsimogatóval, tavakkal és kiterjedt erdős területekkel várja a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weston Park Múzeum",
+                  "text": "Műemléki épületben elhelyezett múzeum, amely helytörténeti és régészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucible Színház",
+                  "text": "Világhírű kulturális helyszín, a sznúker-világbajnokság otthona, különleges előretolt színpadáról ismert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lyceum Színház",
+                  "text": "Pompás, 1897-ben épült Tudor-stílusú színház, amelyet a neves építész, W.G.R. Sprague tervezett.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffieldi Városháza",
+                  "text": "Lenyűgöző viktoriánus épület 1897-ből, 61 méter magas toronnyal és a tetején Vulcan szobrával.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beauchief Apátság",
+                  "text": "Egy 12. századi premontrei apátság maradványai, amelynek egy részét ma is templomként használják.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Püspöki Ház",
+                  "text": "Kiváló állapotban fennmaradt gerendavázas ház 1500-ból, amely ma Tudor-kori életmódot bemutató múzeum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Endcliffe Park",
+                  "text": "Népszerű park Viktória királynő emlékművével és a lezuhant Mi Amigo bombázó legénységének emlékhelyével.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Művészeti Torony",
+                  "text": "Nagy-Britannia legmagasabb egyetemi épülete, híres páternoszter liftjéről és jellegzetes üveg architektúrájáról.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Videójáték Múzeum",
+                  "text": "Interaktív múzeum, amely dokumentálja a videojátékok történetét és számos játszható klasszikust kínál.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Manor Lodge",
+                  "text": "Egy 16. századi vadászház romjai, ahol egykor Stuart Mária skót királynőt is fogva tartották.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Shepherd Wheel Műhely",
+                  "text": "16. századi vízi meghajtású köszörűműhely, amely megeleveníti Sheffield ipari múltját.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Quays",
+                  "text": "Sheffield történelmi csatornapartja, felújított raktárépületekkel és modern szabadidős létesítményekkel.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillsborough Stadion",
+                  "text": "A Sheffield Wednesday labdarúgócsapat otthona, Anglia egyik leghangulatosabb és legpatinásabb stadionja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bramall Lane",
+                  "text": "A Sheffield United otthona, a világ egyik legrégebbi, ma is profi labdarúgásra használt stadionja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffieldi Köztemető",
+                  "text": "Történelmi viktoriánus temető, amely ma természetvédelmi területként és közparkként is funkcionál.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rivelin-völgyi Tanösvény",
+                  "text": "Gyalogtúra a Rivelin-folyó mentén, számos egykori vízi malom és ipari létesítmény romjai között.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Galéria",
+                  "text": "A központi könyvtár legfelső emeletén található galéria Picasso és Cézanne műveit is bemutatja.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norfolk Heritage Park",
+                  "text": "Történelmi park panorámás kilátással a városra, amelyet Norfolk 15. hercege adományozott 1848-ban.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Sheffield",
+                  "text": "Fondată în secolul al XII-lea, această catedrală este cea mai veche clădire din oraș utilizată continuu.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winter Garden",
+                  "text": "Una dintre cele mai mari sere temperate din Marea Britanie, adăpostind peste 2.500 de plante sub o structură de lemn.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "Un muzeu de artă și design de top care găzduiește colecția Ruskin și faimoasele obiecte din metal din Sheffield.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kelham Island Museum",
+                  "text": "Muzeul industrial prezintă istoria fabricării oțelului și motorul cu aburi masiv River Don Engine.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Gardens",
+                  "text": "Un spațiu public premiat în centrul orașului, cu fântâni în cascadă, situat lângă primăria istorică.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică Sheffield",
+                  "text": "Deschisă în 1836, grădina include sere protejate istoric și o colecție de peste 5.000 de specii de plante.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Park",
+                  "text": "Cel mai mare parc din oraș oferă o fermă de animale, lacuri și zone împădurite extinse pentru relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weston Park Museum",
+                  "text": "Situat într-o clădire de patrimoniu, muzeul prezintă expoziții despre istoria locală și arheologie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucible Theatre",
+                  "text": "Faimos la nivel mondial ca gazdă a Campionatului Mondial de Snooker și pentru scena sa inovatoare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lyceum Theatre",
+                  "text": "Un teatru splendid în stil Tudor construit în 1897, proiectat de renumitul arhitect W.G.R. Sprague.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Sheffield",
+                  "text": "O clădire victoriană impresionantă din 1897, cu un turn de 61 de metri și statuia lui Vulcan în vârf.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beauchief Abbey",
+                  "text": "Rămășițele unei abații premonstratense din secolul al XII-lea, parțial utilizată astăzi ca biserică parohială.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishops' House",
+                  "text": "O casă pe structură de lemn bine conservată din 1500, servind acum ca muzeu al vieții din epoca Tudor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Endcliffe Park",
+                  "text": "Un parc popular ce găzduiește monumente dedicate Reginei Victoria și echipajului bombardierului Mi Amigo.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arts Tower",
+                  "text": "Cea mai înaltă clădire universitară din Marea Britanie, cunoscută pentru liftul paternoster și designul de sticlă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Videogame Museum",
+                  "text": "Un muzeu interactiv care documentează istoria jocurilor video, oferind numeroase titluri clasice jucabile.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Manor Lodge",
+                  "text": "Ruinele unei loje de vânătoare din secolul al XVI-lea unde Mary, Regina Scoției, a fost ținută prizonieră.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Shepherd Wheel Workshop",
+                  "text": "Un atelier de șlefuire acționat prin forța apei din secolul al XVI-lea, martor al trecutului industrial.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Quays",
+                  "text": "Bazinul istoric al canalului din Sheffield, înconjurat de depozite restaurate și facilități moderne de petrecere a timpului liber.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillsborough Stadium",
+                  "text": "Casa clubului de fotbal Sheffield Wednesday, unul dintre cele mai tradiționale stadioane din Anglia.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bramall Lane",
+                  "text": "Stadionul clubului Sheffield United și unul dintre cele mai vechi stadioane din lume care încă găzduiește fotbal profesionist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul General din Sheffield",
+                  "text": "Un cimitir victorian istoric care funcționează acum ca rezervație naturală și parc public.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul Natural Rivelin Valley",
+                  "text": "Un drum de drumeție de-a lungul râului Rivelin, trecând pe lângă ruinele multor mori vechi cu roată de apă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Gallery",
+                  "text": "Situată la ultimul etaj al Bibliotecii Centrale, galeria expune lucrări de Picasso, Cézanne și Bridget Riley.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norfolk Heritage Park",
+                  "text": "Un parc istoric cu vederi panoramice asupra orașului, donat de al 15-lea Duce de Norfolk în 1848.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheffield Cathedral",
+                  "text": "Founded in the 12th century, this cathedral is the oldest building in the city of Sheffield in continuous use.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winter Garden",
+                  "text": "One of the largest temperate glasshouses in the UK, housing over 2,500 plants under a timber frame structure.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "A premier art and design museum that hosts the famous Ruskin collection and Sheffield metalwork displays.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kelham Island Museum",
+                  "text": "The industrial museum showcases steelmaking history and features the massive River Don Engine steam power.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Gardens",
+                  "text": "An award-winning public space in the city centre with cascading fountains located next to the historic Town Hall.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Botanical Gardens",
+                  "text": "Opened in 1836, the gardens feature Grade II listed glass pavilions and a collection of over 5,000 plant species.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Park",
+                  "text": "The city's largest park features an animal farm, boating lakes, and extensive woodland for public recreation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Weston Park Museum",
+                  "text": "Housed in a heritage building, the museum features exhibitions on local history, archaeology, and natural sciences.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucible Theatre",
+                  "text": "World-famous as the home of the World Snooker Championship and known for its innovative thrust stage design.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lyceum Theatre",
+                  "text": "A magnificent Tudor-style theatre built in 1897, designed by the renowned architect W.G.R. Sprague.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Town Hall",
+                  "text": "An impressive Victorian building completed in 1897, featuring a 61-metre tower and a statue of Vulcan.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beauchief Abbey",
+                  "text": "The remains of a 12th-century Premonstratensian abbey, with part of the structure still used as a parish church.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishops' House",
+                  "text": "A well-preserved timber-framed house dating back to 1500, now serving as a museum of Tudor-era life.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Endcliffe Park",
+                  "text": "A popular park housing monuments to Queen Victoria and the crew of the crashed Mi Amigo bomber.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arts Tower",
+                  "text": "The tallest university building in the UK, famous for its paternoster lift and distinctive glass architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Videogame Museum",
+                  "text": "An interactive museum documenting the history of video games, offering numerous playable classic titles.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield Manor Lodge",
+                  "text": "The ruins of a 16th-century hunting lodge where Mary, Queen of Scots, was held prisoner for several years.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Shepherd Wheel Workshop",
+                  "text": "A 16th-century water-powered grinding workshop that brings Sheffield's industrial heritage to life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Quays",
+                  "text": "Sheffield's historic canal basin, surrounded by restored warehouses and modern leisure facilities.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillsborough Stadium",
+                  "text": "The home of Sheffield Wednesday Football Club, known as one of the most traditional grounds in England.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bramall Lane",
+                  "text": "The home ground of Sheffield United and one of the oldest stadiums in the world still hosting professional football.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sheffield General Cemetery",
+                  "text": "A historic Victorian cemetery that now serves as a local nature reserve and a public park.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rivelin Valley Nature Trail",
+                  "text": "A walking trail along the Rivelin River, passing the remains of many historic water-powered mills.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Graves Gallery",
+                  "text": "Located on the top floor of the Central Library, the gallery features works by Picasso, Cézanne, and Bridget Riley.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norfolk Heritage Park",
+                  "text": "A historic park with panoramic views over the city, gifted by the 15th Duke of Norfolk in 1848.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "uk-bristol-cities-v2", population: 567111,
     parent: "GB",
@@ -416,6 +1026,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de construção da Clifton Suspension Bridge: 1864", "Lar do avião supersónico Concorde", "Mais de 450 parques e áreas verdes", "Maior festival de balões de ar quente da Europa (agosto)"],
       fr: ["Année de construction du pont suspendu de Clifton : 1864", "Foyer de l'avion supersonique Concorde", "Plus de 450 parcs et espaces verts", "Plus grand festival de montgolfières d'Europe (août)"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Clifton Suspension Bridge",
+                  "text": "Die von Isambard Kingdom Brunel entworfene Hängebrücke über die Avon-Schlucht ist das Wahrzeichen Bristols.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "SS Great Britain",
+                  "text": "Das erste eiserne Dampfschiff der Welt, das den Atlantik überquerte, heute ein preisgekröntes Museumsschiff.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale von Bristol",
+                  "text": "Ursprünglich 1140 als Augustinerabtei gegründet, ist sie eine der weltweit schönsten Hallenkirchen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary Redcliffe Church",
+                  "text": "Königin Elisabeth I. bezeichnete diese gotische Kirche aus dem 15. Jahrhundert als die schönste Englands.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Museum & Art Gallery",
+                  "text": "Das Museum beherbergt umfangreiche Sammlungen zur Naturgeschichte, Archäologie und bildenden Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "M Shed",
+                  "text": "Ein Museum im Hafen, das die Geschichte Bristols und seiner Menschen durch interaktive Exponate erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cabot Tower",
+                  "text": "Ein 32 Meter hoher Turm auf dem Brandon Hill, errichtet 1897 zur Erinnerung an Giovanni Cabotos Entdeckungsreise.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Matthew of Bristol",
+                  "text": "Ein originalgetreuer Nachbau des Schiffes, mit dem Giovanni Caboto 1497 Neufundland entdeckte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "We The Curious",
+                  "text": "Ein interaktives Wissenschaftszentrum mit Planetarium, das Wissenschaft und Technik spielerisch vermittelt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Old Vic",
+                  "text": "Das älteste durchgehend bespielte Theater in der englischsprachigen Welt, erbaut im Jahr 1766.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ashton Court Estate",
+                  "text": "Ein riesiges historisches Anwesen mit Herrensitz, Wildgehegen und Veranstaltungsort für das Ballonfestival.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaise Castle Estate",
+                  "text": "Ein 160 Hektar großer Park mit einem Herrenhaus aus dem 18. Jahrhundert und einer gotischen Burgruine.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arnos Vale Cemetery",
+                  "text": "Ein 18 Hektar großer viktorianischer Gartenfriedhof mit bedeutender Architektur und Denkmälern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christmas Steps",
+                  "text": "Eine historische, steile Gasse aus dem Jahr 1669, gesäumt von kleinen Läden und Kunstgalerien.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Meads Station",
+                  "text": "Der von Brunel entworfene Hauptbahnhof ist ein Meisterwerk viktorianischer Eisenbahnarchitektur.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wills Memorial Building",
+                  "text": "Ein markantes Gebäude der Universität Bristol im neugotischen Stil mit einem 65 Meter hohen Turm.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georgian House Museum",
+                  "text": "Ein restauriertes Stadthaus aus dem Jahr 1790, das Einblicke in das Leben eines wohlhabenden Zuckerhändlers gibt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Red Lodge Museum",
+                  "text": "Ein Haus mit elisabethanischen Räumen, die prächtige Holzschnitzereien und historische Gärten zeigen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banksy Street Art",
+                  "text": "Bristol ist die Heimat des berühmten Street-Art-Künstlers Banksy, dessen Werke überall in der Stadt zu finden sind.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harbourside",
+                  "text": "Das revitalisierte Hafenviertel bietet heute zahlreiche Restaurants, Bars und kulturelle Attraktionen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Square",
+                  "text": "Ein großer, von georgianischen Häusern umgebener Platz, der 1699 angelegt wurde und zu den größten Europas zählt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Rooms",
+                  "text": "Ein prächtiges klassizistisches Gebäude aus dem Jahr 1841, das heute von der Musikfakultät genutzt wird.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portland Square",
+                  "text": "Einer der schönsten georgianischen Plätze Bristols, bekannt für seine einheitliche Architektur aus dem 18. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandon Hill",
+                  "text": "Der älteste öffentliche Park Bristols bietet einen herrlichen Blick über die Stadt und den Hafen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Hippodrome",
+                  "text": "Eines der größten Theater Großbritanniens, bekannt für seine aufwendigen Musical-Produktionen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clifton függőhíd",
+                  "text": "Isambard Kingdom Brunel által tervezett híd az Avon-szurdok felett, amely Bristol legismertebb jelképe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "SS Great Britain",
+                  "text": "A világ első vasból készült, gőzhajtású óceánjárója, ma díjnyertes múzeumhajóként látogatható.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristoli székesegyház",
+                  "text": "Az 1140-ben alapított ágostonos apátság épülete a világ egyik legszebb csarnoktemploma.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary Redcliffe templom",
+                  "text": "I. Erzsébet királynő Anglia legszebb gótikus templomának nevezte ezt a 15. századi épületet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristoli Múzeum és Művészeti Galéria",
+                  "text": "Természettudományi, régészeti és szépművészeti gyűjteményeknek otthont adó központi múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "M Shed",
+                  "text": "Kikötői múzeum, amely Bristol és lakóinak történetét meséli el interaktív kiállításokon keresztül.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cabot-torony",
+                  "text": "32 méter magas torony a Brandon-dombon, Giovanni Caboto 1497-es felfedezőútjának emlékére emelték.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Matthew of Bristol",
+                  "text": "Annak a hajónak a hű másolata, amellyel Giovanni Caboto 1497-ben felfedezte Új-Fundlandot.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "We The Curious",
+                  "text": "Interaktív tudományos központ és planetárium, amely játékosan mutatja be a természettudományokat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Old Vic",
+                  "text": "Az angol nyelvű világ legrégebbi, folyamatosan működő színháza, amely 1766-ban épült.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ashton Court birtok",
+                  "text": "Hatalmas történelmi park udvarházzal, szarvasparkkal, a nemzetközi ballonfesztivál helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaise Castle birtok",
+                  "text": "160 hektáros park 18. századi kúriával és egy dombtetőn álló gótikus várutánzattal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arnos Vale temető",
+                  "text": "18 hektáros viktoriánus kert-temető, amely jelentős építészeti emlékeket és emlékműveket őriz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christmas Steps",
+                  "text": "Történelmi, meredek lépcsősor 1669-ből, kis boltokkal és művészeti galériákkal szegélyezve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Meads pályaudvar",
+                  "text": "Brunel által tervezett főpályaudvar, a viktoriánus vasúti építészet egyik mesterműve.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wills Memorial épület",
+                  "text": "A Bristoli Egyetem neogótikus stílusú, monumentális épülete 65 méter magas toronnyal.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georgiánus Ház Múzeum",
+                  "text": "Egy 1790-ben épült, korhűen berendezett városi ház, amely egy gazdag cukorkereskedő életét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Red Lodge Múzeum",
+                  "text": "Erzsébet-kori szobákat, díszes fafaragásokat és történelmi kerteket bemutató múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banksy utcai művészete",
+                  "text": "Bristol a világhírű graffitiművész, Banksy szülővárosa, akinek számos alkotása látható a házfalakon.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kikötőnegyed",
+                  "text": "A felújított történelmi kikötő ma éttermeknek, bároknak és kulturális attrakcióknak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Square",
+                  "text": "Hatalmas, georgiánus házakkal körülvett tér 1699-ből, Európa egyik legnagyobb ilyen típusú tere.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Rooms",
+                  "text": "Pompás klasszicista épület 1841-ből, amely ma az egyetem zenei karának ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portland Square",
+                  "text": "Bristol egyik legszebb georgiánus tere, egységes 18. századi építészeti stílusáról nevezetes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandon-domb",
+                  "text": "Bristol legrégebbi közparkja, ahonnan remek kilátás nyílik a városra és a kikötőre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Hippodrome",
+                  "text": "Nagy-Britannia egyik legnagyobb színháza, amely látványos musical-produkcióiról ismert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clifton Suspension Bridge",
+                  "text": "Proiectat de Isambard Kingdom Brunel, acest pod suspendat peste defileul Avon este simbolul orașului Bristol.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "SS Great Britain",
+                  "text": "Prima navă cu aburi din fier din lume care a traversat Atlanticul, astăzi o navă-muzeu premiată.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Bristol",
+                  "text": "Fondată în 1140 ca abație augustiniană, este una dintre cele mai frumoase biserici-hală din lume.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Mary Redcliffe",
+                  "text": "Regina Elisabeta I a descris această biserică gotică din secolul al XV-lea ca fiind cea mai frumoasă din Anglia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Museum & Art Gallery",
+                  "text": "Găzduiește colecții vaste de istorie naturală, arheologie și artă plastică într-o clădire edwardiană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "M Shed",
+                  "text": "Un muzeu situat în port care relatează istoria orașului Bristol și a oamenilor săi prin exponate interactive.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cabot Tower",
+                  "text": "Un turn de 32 de metri pe dealul Brandon, ridicat în 1897 pentru a comemora călătoria lui Giovanni Caboto.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Matthew of Bristol",
+                  "text": "O replică fidelă a navei cu care Giovanni Caboto a descoperit Newfoundland în anul 1497.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "We The Curious",
+                  "text": "Un centru de știință interactiv și planetariu care promovează educația prin explorare și joacă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Old Vic",
+                  "text": "Cel mai vechi teatru cu activitate continuă din lumea anglofonă, construit în anul 1766.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ashton Court Estate",
+                  "text": "O proprietate istorică vastă cu un conac, parcuri de căprioare și gazdă a festivalului internațional de baloane.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaise Castle Estate",
+                  "text": "Un parc de 160 de hectare cu un conac din secolul al XVIII-lea și un castel decorativ în stil gotic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Arnos Vale",
+                  "text": "Un cimitir-grădină victorian de 18 hectare cu arhitectură și monumente de importanță națională.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christmas Steps",
+                  "text": "O stradă istorică în trepte din 1669, mărginită de magazine artizanale și galerii de artă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Temple Meads",
+                  "text": "Proiectată de Brunel, această gară principală este o capodoperă a arhitecturii feroviare victoriene.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wills Memorial Building",
+                  "text": "O clădire monumentală a Universității din Bristol, în stil neogotic, cu un turn de 65 de metri.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georgian House Museum",
+                  "text": "O casă de oraș restaurată din 1790, oferind o perspectivă asupra vieții unui bogat comerciant de zahăr.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Red Lodge Museum",
+                  "text": "Prezintă camere din epoca elisabetană cu sculpturi în lemn somptuoase și grădini istorice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arta stradală a lui Banksy",
+                  "text": "Bristol este orașul natal al celebrului artist Banksy, lucrările sale fiind vizibile în diverse locații urbane.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harbourside",
+                  "text": "Zona portuară revitalizată care oferă acum numeroase restaurante, baruri și atracții culturale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Square",
+                  "text": "O piață mare înconjurată de case georgiene, amenajată în 1699, una dintre cele mai mari din Europa.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Rooms",
+                  "text": "O clădire neoclasică magnifică din 1841, care găzduiește acum departamentul de muzică al universității.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portland Square",
+                  "text": "Una dintre cele mai frumoase piețe georgiene din Bristol, cunoscută pentru arhitectura sa unitară din secolul XVIII.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandon Hill",
+                  "text": "Cel mai vechi parc public din Bristol, oferind vederi spectaculoase asupra orașului și portului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Hippodrome",
+                  "text": "Unul dintre cele mai mari teatre din Marea Britanie, renumit pentru producțiile sale majore de musicaluri.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clifton Suspension Bridge",
+                  "text": "Designed by Isambard Kingdom Brunel, this bridge across the Avon Gorge is Bristol's most famous landmark.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "SS Great Britain",
+                  "text": "The world's first iron-hulled steamship to cross the Atlantic, now an award-winning museum ship.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Cathedral",
+                  "text": "Originally founded in 1140 as an Augustinian abbey, it is one of the world's finest examples of a hall church.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary Redcliffe Church",
+                  "text": "Queen Elizabeth I described this 15th-century Gothic church as the fairest parish church in England.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Museum & Art Gallery",
+                  "text": "Housing extensive collections of natural history, archaeology, and fine art in an Edwardian building.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "M Shed",
+                  "text": "A museum on the wharf that tells the story of Bristol and its people through interactive exhibits.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cabot Tower",
+                  "text": "A 32-metre tower on Brandon Hill built in 1897 to commemorate Giovanni Caboto's voyage of discovery.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Matthew of Bristol",
+                  "text": "A faithful replica of the ship in which Giovanni Caboto discovered Newfoundland in 1497.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "We The Curious",
+                  "text": "An interactive science centre and planetarium that encourages education through play and exploration.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Old Vic",
+                  "text": "The oldest continuously working theatre in the English-speaking world, built in 1766.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ashton Court Estate",
+                  "text": "A massive historic estate with a manor house, deer parks, and host to the international balloon fiesta.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaise Castle Estate",
+                  "text": "A 400-acre parkland featuring an 18th-century mansion and a Gothic-style folly castle on the hill.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arnos Vale Cemetery",
+                  "text": "An 18-hectare Victorian garden cemetery with architecture and monuments of national importance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christmas Steps",
+                  "text": "A historic, steep stepped street dating from 1669, lined with artisan shops and art galleries.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Temple Meads Station",
+                  "text": "The main railway station designed by Brunel is a masterpiece of Victorian railway architecture.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wills Memorial Building",
+                  "text": "A landmark Gothic Revival building of the University of Bristol, featuring a 65-metre high tower.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Georgian House Museum",
+                  "text": "A restored 1790 townhouse providing an insight into the life of a wealthy sugar merchant and slave owner.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Red Lodge Museum",
+                  "text": "Features Elizabethan-era rooms with sumptuous wood carvings and a historic knot garden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Banksy Street Art",
+                  "text": "Bristol is the home city of the famous artist Banksy, with works visible in various urban locations.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harbourside",
+                  "text": "The revitalised historic docklands area now featuring many restaurants, bars, and cultural attractions.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Square",
+                  "text": "A large Georgian square surrounded by trees and houses, laid out in 1699 and one of Europe's largest.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Rooms",
+                  "text": "A magnificent Neoclassical building opened in 1841, now housing the university's department of music.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portland Square",
+                  "text": "One of Bristol's most beautiful Georgian squares, known for its uniform 18th-century architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandon Hill",
+                  "text": "The oldest public park in Bristol, offering spectacular views over the city and the floating harbour.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bristol Hippodrome",
+                  "text": "One of the largest theatres in the UK, renowned for its major touring musical productions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-leicester-cities-v2", population: 368600,
@@ -463,6 +1683,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de descoberta de Ricardo III: 2012", "Sede do National Space Centre", "O maior festival de Diwali fora da Índia", "Fundação da Universidade de Leicester: 1921"],
       fr: ["Année de découverte de Richard III : 2012", "Siège du National Space Centre", "Le plus grand festival de Diwali en dehors de l'Inde", "Fondation de l'université de Leicester : 1921"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Leicester",
+                  "text": "Die im 11. Jahrhundert gegründete Kirche beherbergt seit 2015 das Grab von König Richard III. und ist ein religiöses Wahrzeichen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King Richard III Visitor Centre",
+                  "text": "Dieses preisgekrönte Museum wurde über der Fundstelle der Überreste des Königs errichtet und erzählt die Geschichte seines Lebens.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Space Centre",
+                  "text": "Großbritanniens größtes Weltraumzentrum bietet einen markanten Raketenturm, ein Planetarium und interaktive Astronomie-Ausstellungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Guildhall",
+                  "text": "Ein prächtiges Fachwerkhaus aus dem Jahr 1390, das einst als Rathaus und Gericht diente und heute ein Museum beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jewry Wall Museum",
+                  "text": "Diese bedeutenden römischen Ruinen stellen einen Teil der antiken Badeanlage von Ratae Corieltauvorum dar und sind frei zugänglich.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbey Park",
+                  "text": "Eine weitläufige Parkanlage am Fluss Soar, die Ruinen der Cavendish-Abtei aus dem 12. Jahrhundert und schöne Blumengärten umfasst.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Museum & Art Gallery",
+                  "text": "Das älteste Stadtmuseum zeigt beeindruckende Sammlungen von Dinosaurier-Fossilien bis hin zu deutscher expressionistischer Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Curve Theatre",
+                  "text": "Ein modernes, hochmodernes Theatergebäude im Kulturviertel der Stadt, bekannt für seine innovative Architektur und Musicals.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Market",
+                  "text": "Europas größter überdachter Außenmarkt bietet seit über 700 Jahren frische Lebensmittel und Waren im Herzen der Innenstadt.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Castro Church",
+                  "text": "Diese im 12. Jahrhundert gegründete Kirche innerhalb des Schlossgeländes besticht durch ihre romanische und gotische Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Eine große öffentliche Grünfläche, die das monumentale Kriegsdenkmal von Sir Edwin Lutyens beherbergt und für Sport genutzt wird.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "De Montfort Hall",
+                  "text": "Ein bedeutender Veranstaltungsort für Konzerte und Kultur aus dem Jahr 1913, gelegen am Rande des Victoria Parks.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Castle",
+                  "text": "Die Überreste einer normannischen Festung, in der einst Könige residierten und das englische Parlament mehrmals tagte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrave Hall",
+                  "text": "Ein denkmalgeschütztes Herrenhaus aus dem frühen 18. Jahrhundert mit eleganten Gärten, das den Lebensstil vergangener Epochen zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanic Garden der Universität",
+                  "text": "Ein 16 Hektar großer Garten in Oadby mit Gewächshäusern, Steingärten und einer vielfältigen Sammlung weltweiter Pflanzenarten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King Power Stadium",
+                  "text": "Die moderne Heimat des Leicester City Football Club, Schauplatz des historischen Premier-League-Sieges im Jahr 2016.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Welford Road Stadium",
+                  "text": "Das traditionsreiche Stadion der Leicester Tigers, einer der erfolgreichsten Rugby-Union-Mannschaften in ganz Europa.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magazine Gateway",
+                  "text": "Ein beeindruckendes mittelalterliches Stadttor aus dem 15. Jahrhundert, das einst als Munitionslager für die Miliz diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Town Hall",
+                  "text": "Ein markantes Gebäude aus dem Jahr 1876 am Town Hall Square, bekannt für seine viktorianische Architektur und den Springbrunnen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haymarket Clock Tower",
+                  "text": "Ein viktorianischer Uhrturm im Zentrum, der die Statuen von vier berühmten Wohltätern der Stadt Leicester trägt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Highcross Leicester",
+                  "text": "Ein großes, modernes Einkaufszentrum mit markanter Glasarchitektur, das das kommerzielle Herz der Innenstadt bildet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Union Canal",
+                  "text": "Die Wasserstraße führt durch die Stadt und bietet malerische Fußwege sowie Einblicke in das industrielle Erbe Leicesters.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Walk",
+                  "text": "Eine seltene, 1785 angelegte Fußgängerpromenade, die von historischen georgianischen Gebäuden und Bäumen gesäumt ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Church",
+                  "text": "Die älteste Kirche der Stadt, in deren Mauern zahlreiche römische Ziegel der benachbarten Jewry Wall verbaut wurden.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Jain Centre",
+                  "text": "Ein prächtiger Tempel mit einer kunstvoll geschnitzten Fassade aus weißem Marmor, das erste Jain-Zentrum seiner Art im Westen.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leicesteri székesegyház",
+                  "text": "A 11. századi alapokon nyugvó templom 2015 óta III. Richárd király végső nyughelye, fontos történelmi emlékhely.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "III. Richárd Látogatóközpont",
+                  "text": "A király maradványainak megtalálási helye fölé épült múzeum bemutatja az uralkodó életét és a DNS-vizsgálat folyamatát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Űrközpont",
+                  "text": "Az Egyesült Királyság legnagyobb űrkutatási kiállítása, látványos rakétatoronnyal és interaktív planetáriummal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Guildhall",
+                  "text": "1390-ben épült fagerendás városháza, amely börtönként és színházként is szolgált az évszázadok során.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jewry Wall Múzeum",
+                  "text": "A római kori Ratae Corieltauvorum városának monumentális falmaradványai és az egykori fürdő romjai láthatók itt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbey Park",
+                  "text": "A Soar-folyó partján fekvő parkban találhatók a 12. századi Szűz Mária-apátság romjai és Cardinal Wolsey sírja.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicesteri Múzeum és Képtár",
+                  "text": "A város legrégebbi múzeuma dinoszaurusz-leletekkel és nemzetközi hírű német expresszionista gyűjteménnyel várja a látogatókat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Curve Színház",
+                  "text": "Modern építészeti remekmű a kulturális negyedben, amely innovatív színpadi megoldásairól és musicaljeiről híres.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicesteri Piac",
+                  "text": "Európa legnagyobb szabadtéri fedett piaca, amely több mint 700 éve a város kereskedelmi központja.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Castro templom",
+                  "text": "A 12. században alapított templom a vár területén található, normann és gótikus stílusjegyeket ötvöz.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Hatalmas zöldterület a város szívében, ahol az Edwin Lutyens által tervezett monumentális háborús emlékmű áll.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "De Montfort Hall",
+                  "text": "Népszerű koncerthelyszín és kulturális központ 1913-ból, amely a Victoria Park szomszédságában található.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicesteri vár",
+                  "text": "Egykori normann erődítmény maradványai, amely fontos királyi rezidencia és parlamenti ülések helyszíne volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrave Hall",
+                  "text": "18. századi elegáns vidéki kúria és múzeum, amely gyönyörű botanikus kertjeiről és korhű berendezéséről ismert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egyetemi Botanikus Kert",
+                  "text": "Oadby negyedben található 16 hektáros terület, ritka növényfajokkal, üvegházakkal és szoborparkkal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King Power Stadion",
+                  "text": "A Leicester City FC otthona, ahol a csapat 2016-os világraszóló Premier League bajnoki címét ünnepelték.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Welford Road Stadion",
+                  "text": "A híres Leicester Tigers rögbi csapat otthona, Európa egyik legnagyobb hagyományokkal bíró rögbi-stadionja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magazine Gateway",
+                  "text": "15. századi középkori kapuépület, amely egykor lőszerraktárként és katonai börtönként is funkcionált.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicesteri Városháza",
+                  "text": "1876-ban épült impozáns viktoriánus épület, amelynek díszes homlokzata a Városháza tér ékköve.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haymarket Óratorony",
+                  "text": "1868-ban emelt viktoriánus óratorony, amely Leicester négy híres történelmi személyiségének szobrát hordozza.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Highcross Leicester",
+                  "text": "A város fő bevásárlóközpontja, amely látványos üvegfalaival a modern Leicester szimbóluma.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Union-csatorna",
+                  "text": "A városon áthaladó vízi út, amely mentén hangulatos sétányok és ipari műemlékek találhatók.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Walk",
+                  "text": "Európa egyik legrégebbi, 1785-ben kialakított gyalogos sétánya, amelyet védett György-korabeli épületek szegélyeznek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A város legősibb keresztény temploma, amelynek falaiba beépítették a szomszédos római fal köveit is.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dzsain Központ",
+                  "text": "Lenyűgöző, fehér márványból faragott templomépület, a dzsainizmus első nagy központja a nyugati világban.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Leicester",
+                  "text": "Fondată în secolul XI, această biserică găzduiește din 2015 mormântul regelui Richard al III-lea, fiind un monument istoric major.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Vizitatori Richard al III-lea",
+                  "text": "Situat pe locul unde au fost descoperite rămășițele regelui, muzeul relatează viața și moartea ultimului monarh Plantagenet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Național Spațial",
+                  "text": "Cel mai mare muzeu spațial din Marea Britanie, dispunând de un turn de rachete iconic și un planetariu interactiv modern.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Guildhall",
+                  "text": "O clădire medievală superbă din 1390, care a servit drept primărie, tribunal și bibliotecă de-a lungul secolelor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jewry Wall",
+                  "text": "Unul dintre cele mai mari fragmente de zidărie romană civilă din Britania, parte a complexului termal din anticul Ratae.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Abbey",
+                  "text": "Oază de verdeață pe malul râului Soar, incluzând ruinele unei abații din secolul XII și mormântul cardinalului Wolsey.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă Leicester",
+                  "text": "Cel mai vechi muzeu public din oraș, faimos pentru colecția de dinozauri și operele expresionismului german.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Curve",
+                  "text": "O piesă de arhitectură contemporană remarcabilă, acest teatru este centrul cultural al orașului, cunoscut pentru producții inovatoare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Leicester",
+                  "text": "Cea mai mare piață în aer liber acoperită din Europa, funcționând neîntrerupt de peste 700 de ani în centrul istoric.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Mary de Castro",
+                  "text": "Situată în incinta castelului, această biserică din secolul XII este un exemplu splendid de arhitectură normandă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Victoria",
+                  "text": "Un spațiu public vast ce găzduiește monumentul eroilor 'Arch of Remembrance', proiectat de renumitul Sir Edwin Lutyens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "De Montfort Hall",
+                  "text": "Principala sală de concerte a orașului, inaugurată în 1913, situată într-un cadru pitoresc lângă parcul Victoria.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Leicester",
+                  "text": "Resturile unei fortărețe normande importante, unde se întruneau odinioară parlamentele engleze în perioada medievală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrave Hall",
+                  "text": "O reședință istorică din secolul XVIII cu grădini botanice splendide, oferind o incursiune în viața aristocrației victoriene.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică a Universității",
+                  "text": "Întinsă pe 16 hectare în Oadby, grădina conține colecții diverse de plante și sere cu specii exotice rare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul King Power",
+                  "text": "Casa clubului Leicester City FC, locul unde s-a scris istoria fotbalului prin câștigarea titlului în Premier League în 2016.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Welford Road",
+                  "text": "Arena legendară a echipei de rugby Leicester Tigers, fiind unul dintre cele mai faimoase stadioane de rugby din Europa.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Magazine",
+                  "text": "O poartă fortificată din secolul XV, numită astfel pentru că a servit drept depozit de muniție în timpul Războiului Civil.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Leicester",
+                  "text": "Clădire victoriană impunătoare din 1876, situată într-o piață liniștită, celebră pentru fântâna sa ornamentală.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul cu Ceas Haymarket",
+                  "text": "Un reper central al orașului ridicat în 1868, decorat cu statuile a patru binefăcători istorici ai Leicesterului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Highcross Leicester",
+                  "text": "Cel mai mare centru comercial din oraș, definit prin arhitectura sa modernă din sticlă și varietatea mare de magazine.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalul Grand Union",
+                  "text": "O cale navigabilă istorică ce traversează orașul, oferind trasee pitorești pentru plimbări și vestigii ale erei industriale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Walk",
+                  "text": "O promenadă pietonale istorică amenajată în 1785, mărginită de arbori seculari și clădiri elegante în stil georgian.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Nicholas",
+                  "text": "Cea mai veche biserică din oraș, construită parțial cu materiale recuperate din ruinele romane adiacente.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Jain",
+                  "text": "Un templu spectaculos din marmură albă sculptată, fiind primul centru religios de acest tip din lumea occidentală.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leicester Cathedral",
+                  "text": "A historic place of worship since the 11th century, it became the final resting place of King Richard III in 2015.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King Richard III Visitor Centre",
+                  "text": "Located at the site where the King's remains were found, this museum tells the story of his life, death, and discovery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Space Centre",
+                  "text": "The UK's leading space attraction featuring six interactive galleries, a planetarium, and the iconic Rocket Tower.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Guildhall",
+                  "text": "A remarkably preserved timber-framed building dating from 1390, once used as a town hall and courtroom.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jewry Wall",
+                  "text": "The remains of a massive Roman wall and public baths, representing the Roman city of Ratae Corieltauvorum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Abbey Park",
+                  "text": "A beautiful riverside park containing the ruins of the 12th-century Leicester Abbey and Cavendish House.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Museum & Art Gallery",
+                  "text": "The city's first public museum, home to significant collections of dinosaurs and German Expressionist art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Curve Theatre",
+                  "text": "A world-leading theatre in the Cultural Quarter, known for its distinctive glass architecture and large-scale productions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Market",
+                  "text": "Europe's largest outdoor covered market, providing fresh food and goods in the city centre for over 700 years.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Castro Church",
+                  "text": "A beautiful 12th-century church located within the castle precinct, known for its Norman and Gothic features.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A large park housing the Arch of Remembrance war memorial, designed by the famous architect Sir Edwin Lutyens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "De Montfort Hall",
+                  "text": "The city's premier music and performance venue, built in 1913 and set within pleasant grounds next to Victoria Park.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Castle",
+                  "text": "The remains of a Norman castle that was once a royal residence and hosted sessions of the English Parliament.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrave Hall",
+                  "text": "A Queen Anne style house built in 1709, famous for its historic gardens and insights into 18th-century life.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University Botanic Garden",
+                  "text": "A 16-acre site in Oadby with diverse plant collections, greenhouses, and a formal water garden.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King Power Stadium",
+                  "text": "Home of Leicester City FC, site of the club's miraculous 5000-to-1 Premier League title win in 2016.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Welford Road Stadium",
+                  "text": "The historic home of the Leicester Tigers, one of the most successful rugby union clubs in Europe.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magazine Gateway",
+                  "text": "An impressive 15th-century gateway that once served as a munitions store and military prison.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leicester Town Hall",
+                  "text": "A striking Victorian municipal building opened in 1876, featuring a grand clock tower and public square.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haymarket Clock Tower",
+                  "text": "A major city landmark built in 1868, featuring statues of four local benefactors including Simon de Montfort.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Highcross Leicester",
+                  "text": "A major shopping and leisure destination known for its modern architecture and extensive range of retailers.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Union Canal",
+                  "text": "The historic waterway passing through the city, offering scenic walks and a glimpse into Leicester's industrial past.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Walk",
+                  "text": "A rare example of a Georgian pedestrian promenade, laid out in 1785 and lined with historic architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Church",
+                  "text": "The oldest place of worship in the city, incorporating Roman bricks from the nearby Jewry Wall into its fabric.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Jain Centre",
+                  "text": "A stunning white marble temple, it was the first consecrated Jain temple to be established in the Western world.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-coventry-cities-v2", population: 366785,
@@ -510,6 +2340,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Consagração da nova catedral: 1962", "Lar da lendária Lady Godiva", "Centro da indústria automóvel britânica", "Capital cultural do Reino Unido em 2021"],
       fr: ["Consécration de la nouvelle cathédrale : 1962", "Foyer de la légendaire Lady Godiva", "Centre de l'industrie automobile britannique", "Capitale culturelle du Royaume-Uni en 2021"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Coventry Cathedral",
+                  "text": "Die neue Kathedrale von Sir Basil Spence ist ein Meisterwerk der Moderne und ein Symbol für Frieden und Versöhnung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Kathedrale (Ruinen)",
+                  "text": "Die im Zweiten Weltkrieg zerstörte mittelalterliche Kirche blieb als Mahnmal und stimmungsvoller Ort des Gedenkens erhalten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Transport Museum",
+                  "text": "Es beherbergt die weltweit größte Sammlung britischer Fahrzeuge, darunter die weltrekordverdächtigen Thrust-Düsenautos.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary’s Guildhall",
+                  "text": "Eines der besterhaltenen mittelalterlichen Gildenhäuser Englands, bekannt für seinen berühmten Wandteppich aus dem 15. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herbert Art Gallery & Museum",
+                  "text": "Ein bedeutendes Kulturzentrum, das die Geschichte der Stadt sowie moderne Kunst und Naturkunde-Exponate präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lady Godiva Statue",
+                  "text": "Die Bronzestatue am Broadgate erinnert an die legendäre nackte Reiterin, die gegen hohe Steuern in Coventry protestierte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Berühmt für ihr außergewöhnliches mittelalterliches Wandgemälde des Jüngsten Gerichts, eines der bedeutendsten seiner Art.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "War Memorial Park",
+                  "text": "Eine weitläufige Parkanlage, die nach dem Ersten Weltkrieg zum Gedenken an die Gefallenen angelegt wurde.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrade Theatre",
+                  "text": "Das erste nach dem Krieg neu gebaute Stadttheater Großbritanniens, benannt nach der jugoslawischen Hauptstadt Belgrad.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunt Roman Fort",
+                  "text": "Ein teilweise rekonstruiertes römisches Kavallerie-Fort aus dem 1. Jahrhundert mit einer einzigartigen kreisförmigen Arena.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spon Street",
+                  "text": "Eine historische Straße mit zahlreichen Fachwerkhäusern, die nach dem Blitzkrieg hierher versetzt und restauriert wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Weaver's House",
+                  "text": "Ein restauriertes Handwerkerhaus aus dem Jahr 1440, das das Leben mittelalterlicher Weber in Coventry veranschaulicht.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Canal Basin",
+                  "text": "Das restaurierte Ende des Coventry-Kanals ist heute ein lebendiges Viertel mit Kunsthandwerksläden und Booten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ricoh Arena",
+                  "text": "Ein großes Sport- und Veranstaltungszentrum, Heimat des Coventry City Football Club und wichtiger Konzertort.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Council House",
+                  "text": "Ein markantes Gebäude im Tudor-Revival-Stil, das als Sitz der Stadtverwaltung dient und für seine Architektur bekannt ist.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peeping Tom Statue",
+                  "text": "Diese Figur an der Broadgate-Uhr erinnert an den neugierigen Schneider aus der Lady-Godiva-Legende.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Spire",
+                  "text": "Die einzige erhaltene Spitze einer Franziskanerkirche aus dem 14. Jahrhundert, die heute ein markantes Wahrzeichen ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "Eine wunderschöne mittelalterliche Kirche aus dem 14. Jahrhundert, die einst von der Gilde des Heiligen Johannes gegründet wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fargo Village",
+                  "text": "Ein kreatives Viertel mit unabhängigen Geschäften, Streetfood und Kunstgalerien in einem industriellen Ambiente.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swanswell Gate",
+                  "text": "Eines von nur zwei erhaltenen Toren der mittelalterlichen Stadtmauer von Coventry, erbaut im 14. Jahrhundert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coombe Abbey Park",
+                  "text": "Ein herrschaftliches Anwesen mit einem großen See und Waldgebieten, gestaltet vom berühmten Lancelot 'Capability' Brown.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whittle Arch",
+                  "text": "Ein modernes Aluminium-Denkmal für Sir Frank Whittle, den Erfinder des Strahltriebwerks, der aus Coventry stammte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Priory Visitor Centre",
+                  "text": "Es zeigt Ausgrabungen und Fundstücke der ersten Kathedrale von Coventry, die von Lady Godiva mitbegründet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford's Hospital",
+                  "text": "Ein exquisites Fachwerkhaus aus dem Jahr 1509, das ursprünglich als Armenhaus für ältere Bürger gegründet wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Charterhouse",
+                  "text": "Ein ehemaliges Kartäuserkloster mit bedeutenden Wandmalereien, umgeben von einem neu angelegten Heritage Park.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coventry-i székesegyház",
+                  "text": "A Basil Spence által tervezett modern katedrális a megbékélés jelképe, monumentális üvegfalaival és kárpitjaival.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi katedrális romjai",
+                  "text": "A II. világháborús bombázások során romba dőlt középkori templom mementóként áll az utókor számára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Közlekedési Múzeum",
+                  "text": "A világ legnagyobb brit járműgyűjteménye, itt láthatók a szárazföldi sebességrekordot felállító sugárhajtású autók.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary’s Guildhall",
+                  "text": "Anglia egyik legépebben maradt középkori céhháza, híres a 15. századi gobelinjéről és királyi kapcsolatairól.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herbert Galéria és Múzeum",
+                  "text": "Modern kulturális központ, amely Coventry történetét, természettudományi kincseit és kortárs művészetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lady Godiva szobra",
+                  "text": "A Broadgate téren álló bronzszobor a nemeslelkű úrnőnek állít emléket, aki a legenda szerint meztelenül lovagolt végig a városon.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Háromság-templom",
+                  "text": "Középkori templom, amely a 'Doom painting' nevű, az utolsó ítéletet ábrázoló hatalmas falfestményéről híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Háborús Emlékpark",
+                  "text": "A város legnagyobb parkja, amelyet az I. világháború után alakítottak ki a hősök emlékére, népszerű szabadidős helyszín.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrád Színház",
+                  "text": "Az első háború után újjáépített brit színház, amely nevét a jugoszláv fővárostól kapott ajándék faanyagokról kapta.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunt római erőd",
+                  "text": "Részlegesen rekonstruált római kori lovassági erőd az 1. századból, különleges kör alakú kiképzőpályával.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spon Street",
+                  "text": "Történelmi utca, ahová a város különböző pontjairól mentették át és restaurálták a középkori favázas házakat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Takács Háza",
+                  "text": "Egy 1440-ben épült kézműves lakóház, amely a középkori coventry-i takácsok mindennapjait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Csatorna-medence",
+                  "text": "A felújított csatornapart művészeti stúdiókkal, kávézókkal és hajókkal várja a sétálni vágyókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ricoh Aréna",
+                  "text": "Modern multifunkcionális stadion és rendezvényközpont, a Coventry City FC otthona és nagykoncertek helyszíne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry-i Városháza",
+                  "text": "Impozáns Tudor-stílusú épület, a városvezetés székhelye, díszes belső terekkel és ólomüveg ablakokkal.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peeping Tom szobor",
+                  "text": "A Broadgate órájánál található figura a kíváncsi szabóra utal, aki a legenda szerint megkukkolta Lady Godivát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars-torony",
+                  "text": "A 14. századi ferences kolostor egyetlen fennmaradt része, a város panorámájának jellegzetes karcsú tornya.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "A 14. században épült gótikus templom, amelyet eredetileg Keresztelő Szent János céhe alapított.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fargo Village",
+                  "text": "Kreatív művésznegyed független üzletekkel, graffiti falakkal és alternatív piacokkal egy régi ipari területen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swanswell-kapu",
+                  "text": "A középkori városfal egyik utolsó megmaradt kapuja a 14. századból, fontos erődítéstörténeti emlék.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coombe Abbey Park",
+                  "text": "Hatalmas parkerdő és tórendszer a város szélén, egy egykori apátsági épület körül, Capability Brown tervei alapján.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whittle Arch",
+                  "text": "Modern alumínium ív, amely Sir Frank Whittle-nek, a sugárhajtómű feltalálójának állít emléket a városközpontban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perjelségi Látogatóközpont",
+                  "text": "Coventry első katedrálisának és bencés kolostorának romjait és régészeti leleteit mutatja be a látogatóknak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford's Hospital",
+                  "text": "Gyönyörűen díszített 16. századi favázas épület, amely eredetileg szegényházként működött idős polgárok számára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Charterhouse",
+                  "text": "Egykori karthauzi kolostor ritka középkori falfestményekkel, egy újonnan megnyitott történelmi park közepén.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Coventry",
+                  "text": "Noua catedrală proiectată de Basil Spence este un simbol al păcii, faimoasă pentru arhitectura modernistă și tapiseriile sale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Vechii Catedrale",
+                  "text": "Rămășițele bisericii medievale distruse în bombardamentele din 1940, păstrate ca memorial impresionant al războiului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Transportului Coventry",
+                  "text": "Găzduiește cea mai mare colecție publică de vehicule britanice, inclusiv mașinile cu reacție Thrust care au stabilit recorduri de viteză.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary’s Guildhall",
+                  "text": "Una dintre cele mai bine conservate clădiri medievale de breaslă din Anglia, celebră pentru tapiseria sa din secolul XV.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă și Muzeul Herbert",
+                  "text": "Un spațiu cultural dinamic ce explorează istoria locală, arta modernă și legenda celebrei Lady Godiva.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Lady Godiva",
+                  "text": "Amplasată în Broadgate, statuia de bronz o omagiază pe nobila care a călărit nud pentru a protesta împotriva taxelor impuse cetățenilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Holy Trinity",
+                  "text": "Biserică medievală renumită pentru pictura 'Doom', o frescă rară a Judecății de Apoi descoperită sub straturi de var.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "War Memorial Park",
+                  "text": "Cel mai mare parc al orașului, creat în 1921 în memoria soldaților căzuți, oferind spații vaste pentru recreere.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Belgrade",
+                  "text": "Inaugurat în 1958, a fost primul teatru municipal construit în Marea Britanie după Al Doilea Război Mondial.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortul Roman Lunt",
+                  "text": "O fortăreață de cavalerie romană din secolul I, parțial reconstruită, prezentând un gyrus (arenă circulară) unic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spon Street",
+                  "text": "O stradă istorică ce reunește case medievale cu structură de lemn, salvate din calea distrugerilor moderne și restaurate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Țesătorului",
+                  "text": "O locuință de meșteșugar din 1440 ce oferă o fereastră spre viața cotidiană a țesătorilor medievali din Coventry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazinul Canalului Coventry",
+                  "text": "Zona terminală a canalului istoric, astăzi un punct turistic cu cafenele, ateliere de artă și ambarcațiuni tradiționale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arena Ricoh",
+                  "text": "Un complex sportiv și de divertisment de top, sediul clubului de fotbal Coventry City și loc de desfășurare a concertelor mari.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Consiliul Local Coventry",
+                  "text": "O clădire administrativă în stil Tudor Revival, remarcabilă prin sculpturile sale exterioare și vitraliile bogat decorate.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Peeping Tom",
+                  "text": "O figură mecanică din ceasul de la Broadgate care îl înfățișează pe croitorul legendar care a îndrăznit să o privească pe Lady Godiva.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Greyfriars",
+                  "text": "Singura parte rămasă dintr-o mănăstire franciscană din secolul XIV, turnul fiind un punct de reper pe cerul orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Ioan Botezătorul",
+                  "text": "O biserică superbă de secol XIV, fondată de regina Isabella, remarcabilă pentru arhitectura sa în stil gotic perpendicular.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fargo Village",
+                  "text": "Un centru creativ 'indie' cu magazine de artizanat, studiouri de artiști și evenimente culturale într-un cadru industrial.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Swanswell",
+                  "text": "Una dintre cele două porți medievale rămase ale orașului, făcând parte odinioară din fortificațiile masive de apărare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Coombe Abbey",
+                  "text": "Domeniu istoric vast cu grădini formale și lacuri, amenajat de faimosul peisagist Capability Brown.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arcul Whittle",
+                  "text": "Monument modern sub formă de arc dublu din aluminiu, dedicat lui Sir Frank Whittle, inventatorul motorului cu reacție.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Vizitatori Priory",
+                  "text": "Expune vestigiile primei catedrale a orașului și ale mănăstirii benedictine fondate în 1043 de Lady Godiva.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spitalul Ford",
+                  "text": "O clădire cu bârne de lemn din 1509, un exemplu rar de azil medieval pentru bătrâni, extrem de bine conservat.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Charterhouse",
+                  "text": "Fostă mănăstire cartusiană cu picturi murale excepționale, redeschisă publicului ca parte a unui nou parc istoric.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coventry Cathedral",
+                  "text": "Sir Basil Spence's new cathedral is a modernist masterpiece and a world-renowned symbol of peace and reconciliation.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Cathedral Ruins",
+                  "text": "The remains of the 14th-century cathedral destroyed in the 1940 Blitz, preserved as a haunting and beautiful memorial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Transport Museum",
+                  "text": "Home to the world's largest collection of British road transport, including the record-breaking Thrust jet cars.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Guildhall",
+                  "text": "One of the finest medieval guildhalls in England, famous for its 15th-century tapestry and links to royalty.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herbert Art Gallery & Museum",
+                  "text": "The city's cultural heart, featuring local history exhibits, natural history, and a major collection of modern art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lady Godiva Statue",
+                  "text": "The iconic bronze statue in Broadgate commemorating the noblewoman who legend says rode naked to lower city taxes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A historic church containing a spectacular medieval 'Doom' painting of the Last Judgement, rediscovered in the 2000s.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "War Memorial Park",
+                  "text": "A large urban park opened in 1921 to commemorate Coventry's fallen soldiers, featuring a prominent cenotaph.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belgrade Theatre",
+                  "text": "Britain's first purpose-built civic theatre opened after the war, named in gratitude for timber donated by Belgrade.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lunt Roman Fort",
+                  "text": "A partially reconstructed 1st-century Roman cavalry fort featuring a unique circular training arena called a gyrus.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spon Street",
+                  "text": "A medieval street containing many timber-framed buildings that were relocated here for preservation after the Blitz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Weaver's House",
+                  "text": "A restored medieval artisan's cottage from 1440, showing how a Coventry weaver would have lived and worked.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Canal Basin",
+                  "text": "The restored terminus of the Coventry Canal, now a hub for creative businesses, narrowboats, and public art.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ricoh Arena",
+                  "text": "A major sports and exhibition complex, home to Coventry City Football Club and a venue for international concerts.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coventry Council House",
+                  "text": "A Tudor-revival municipal building opened in 1920, known for its intricate exterior carvings and grand interior.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peeping Tom Statue",
+                  "text": "A mechanical figure in the Broadgate clock that appears hourly, depicting the man who spied on Lady Godiva.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Spire",
+                  "text": "The 14th-century spire of a Franciscan monastery, the only part of the church to survive the Reformation.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "A historic Perpendicular Gothic church founded in 1344 by Queen Isabella, set in the medieval Spon Street area.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fargo Village",
+                  "text": "An artistic and creative quarter in the city centre featuring independent retailers, street food, and events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swanswell Gate",
+                  "text": "One of only two surviving gates of the medieval city wall, which once stood twelve feet high and six feet thick.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coombe Abbey Park",
+                  "text": "Historic parkland designed by 'Capability' Brown, featuring a large lake, formal gardens, and an ancient abbey.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whittle Arch",
+                  "text": "A modern double-arch monument dedicated to Sir Frank Whittle, the Coventry-born inventor of the jet engine.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Priory Visitor Centre",
+                  "text": "Located on the site of Coventry's first cathedral and Benedictine monastery, displaying excavated ruins and artefacts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford's Hospital",
+                  "text": "An exquisite timber-framed almshouse built in 1509 to house elderly and vulnerable citizens of Coventry.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Charterhouse",
+                  "text": "A 14th-century Carthusian monastery featuring exceptionally rare wall paintings and a newly opened heritage park.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ,
   {
@@ -557,6 +2997,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Abertura da Tyne Bridge: 1928", "Lar do clube de futebol Newcastle United", "O centro da cidade foi redesenhado no século XIX", "Restos do Muro de Adriano passam pela cidade"],
       fr: ["Ouverture du Tyne Bridge : 1928", "Siège du club de football Newcastle United", "Le centre-ville a été redessiné au XIXe siècle", "Des restes du mur d'Hadrien traversent la ville"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Tyne Bridge",
+                  "text": "Ikonische Stahlbogenbrücke aus dem Jahr 1928, die Newcastle und Gateshead verbindet und als Wahrzeichen der Stadt gilt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gateshead Millennium Bridge",
+                  "text": "Innovative Kippbrücke für Fußgänger, bekannt als das blinzelnde Auge des Flusses Tyne, eröffnet im Jahr 2001.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle Castle",
+                  "text": "Historische normannische Festung aus dem 12. Jahrhundert, deren öregtorony der Stadt ihren heutigen Namen gab.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale von Newcastle",
+                  "text": "Bischofskirche des Heiligen Nikolaus mit einem seltenen Laternenturm aus dem 15. Jahrhundert und feiner Holzschnitzerei.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grey's Monument",
+                  "text": "Zentrale Säule zu Ehren von Earl Grey, dem Premierminister, der das wichtige Reformgesetz von 1832 durchsetzte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St James' Park",
+                  "text": "Das traditionsreiche Heimstadion von Newcastle United, das majestätisch über dem Stadtzentrum auf dem Hügel thront.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Ein prächtiges denkmalgeschütztes Theater aus dem Jahr 1837, bekannt für seine erstklassigen Tournee-Produktionen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grainger Market",
+                  "text": "Historische Markthalle von 1835 mit traditionellen Ständen und der weltweit kleinsten Filiale von Marks & Spencer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Museum",
+                  "text": "Wissenschafts- und Technikmuseum, das die Turbinia ausstellt, einst das schnellste dampfgetriebene Schiff der Welt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great North Museum: Hancock",
+                  "text": "Museum für Naturkunde und Archäologie mit bedeutenden Funden vom Hadrianswall und altägyptischen Artefakten.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laing Art Gallery",
+                  "text": "Renommierte Kunstgalerie mit einer umfangreichen Sammlung britischer Ölgemälde, Aquarellen und lokaler Glaskunst.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Tunnel",
+                  "text": "Ein erhaltener Tunnel aus dem 19. Jahrhundert, der einst Kohle transportierte und im Zweiten Weltkrieg als Schutzraum diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jesmond Dene",
+                  "text": "Ein malerisches, bewaldetes Flusstal mit einem Wasserfall, einer historischen Mühle und dem beliebten Pet's Corner.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quayside",
+                  "text": "Das lebendige Uferviertel am Tyne mit einer Vielzahl von Restaurants, Bars und einem weiten Blick auf die sieben Brücken.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars",
+                  "text": "Ehemaliges Dominikanerkloster aus dem 13. Jahrhundert, das heute ein preisgekröntes Restaurant und Werkstätten beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Das pulsierende Viertel rund um die Stowell Street mit einem dekorativen Torbogen und vielen authentischen Restaurants.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bessie Surtees House",
+                  "text": "Zwei gut erhaltene Kaufmannshäuser aus dem 16. und 17. Jahrhundert mit eindrucksvollen Fachwerkfassaden am Flussufer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Moor",
+                  "text": "Eine riesige Grünfläche, die größer als der Hyde Park ist und auf der die Bürger der Stadt seit Jahrhunderten Vieh weiden.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exhibition Park",
+                  "text": "Historischer Stadtpark mit einem See, Spielplätzen und dem großen Pavillon, in dem sich heute die Wylam-Brauerei befindet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lit & Phil Society",
+                  "text": "Die größte unabhängige Bibliothek außerhalb Londons, gegründet im Jahr 1793 und ein Zentrum für Gelehrsamkeit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Station",
+                  "text": "Wichtiger Eisenbahnknotenpunkt aus dem Jahr 1850, berühmt für sein monumentales geschwungenes Glasdach und Steinfassade.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leazes Park",
+                  "text": "Der älteste öffentliche Park der Stadt, eröffnet 1873, mit einem See und traditionellen viktorianischen Gartenanlagen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seven Stories",
+                  "text": "Nationales Zentrum für Kinderliteratur in einem umgebauten viktorianischen Speicherhaus im kreativen Ouseburn Valley.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle City Hall",
+                  "text": "Bedeutender Veranstaltungsort für Konzerte und Comedy, der seit 1927 legendäre Künstler in seinem Konzertsaal empfängt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ouseburn Valley",
+                  "text": "Einst das industrielle Herz der Stadt, ist dieses Tal heute ein lebendiges Zentrum für Kunst, Musik und alternative Kultur.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tyne híd",
+                  "text": "A város jelképe, egy 1928-ban V. György király által felavatott acélívhíd, amely Newcastle-t és Gatesheadet köti össze.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gateshead Millennium híd",
+                  "text": "Díjnyertes billenőmechanizmusú híd gyalogosoknak, amelyet látványos formája miatt hunyorgó szemnek is neveznek.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle-i vár",
+                  "text": "12. századi normann erődítmény, amelynek öregtornyáról a város a nevét kapta, és ma helytörténeti múzeumnak ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle-i székesegyház",
+                  "text": "A Szent Miklósnak szentelt katedrális híres a 15. századi lámpatornyáról és gyönyörű középkori belső teréről.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grey-emlékmű",
+                  "text": "Earl Grey miniszterelnök tiszteletére 1838-ban emelt oszlop, aki a brit választási reform megalkotója volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St James' Park",
+                  "text": "A Newcastle United labdarúgócsapat ikonikus otthona, amely a városközpont fölé magasodva uralja a látképet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Egy 1837-ben megnyitott, lenyűgöző homlokzatú színház, amelyet az Egyesült Királyság egyik legszebb játszóhelyeként tartanak számon.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grainger piac",
+                  "text": "Történelmi fedett piac 1835-ből, ahol ma is számos hagyományos és modern üzlet, köztük a legkisebb Marks & Spencer található.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Múzeum",
+                  "text": "Tudományos és helytörténeti múzeum, ahol megtekinthető a Turbinia, a világ egykor leggyorsabb gőzhajója.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great North Múzeum: Hancock",
+                  "text": "Természettudományi múzeum jelentős Hadrianus fala-gyűjteménnyel és ókori egyiptomi tárlattal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laing Művészeti Galéria",
+                  "text": "1901-ben alapított galéria, amely kiemelkedő brit festészeti és iparművészeti kollekciót mutat be a látogatóknak.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria-alagút",
+                  "text": "Föld alatti szénszállító útvonal a 19. századból, amelyet a második világháború alatt óvóhelyként használtak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jesmond Dene",
+                  "text": "Festői erdős völgy vízeséssel és egy régi malommal, amely a város egyik legkedveltebb pihenőparkja.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quayside",
+                  "text": "A Tyne folyó menti pezsgő negyed, amely éjszakai életéről, éttermeiről és a hidakra nyíló kilátásáról híres.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars",
+                  "text": "13. századi dominikánus kolostor épületegyüttese, amely ma kézműves műhelyeknek és egy étteremnek ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kínai negyed",
+                  "text": "A Stowell Street környéki kulturális központ díszes kínai kapuval és számos autentikus keleti étteremmel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bessie Surtees háza",
+                  "text": "Két gyönyörűen megőrzött 16-17. századi kereskedőház a folyóparton, amelyek a város régi arculatát idézik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Moor",
+                  "text": "Hatalmas füves terület a város szélén, ahol a freemenek jogán ma is szabadon legelhetnek a szarvasmarhák.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exhibition Park",
+                  "text": "Városi park tóval és pavilonnal, amely egykor nagy nemzetközi kiállítások helyszíne volt, ma sörfőzde működik benne.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lit & Phil Társaság",
+                  "text": "Londontól északra a legnagyobb független könyvtár, amely 1825-ben nyílt meg, és tudományos örökségéről nevezetes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central vasútállomás",
+                  "text": "1850-ben átadott, műemléki védelem alatt álló állomásépület, amely lenyűgöző íves üvegtetővel rendelkezik.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leazes Park",
+                  "text": "Newcastle legrégebbi nyilvános parkja 1873-ból, amely tavával és kertjeivel békés oázis a stadion szomszédságában.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seven Stories",
+                  "text": "A gyermekkönyvek nemzeti központja, amely interaktív kiállításokkal várja az irodalom kedvelőit egy régi malomban.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle City Hall",
+                  "text": "Népszerű koncerthelyszín, amely 1927 óta ad otthont világhírű zenészek és humoristák fellépéseinek.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ouseburn-völgy",
+                  "text": "A város kreatív központja, ahol műtermek, hangulatos kocsmák és egy közösségi farm is helyet kapott.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podul Tyne",
+                  "text": "Pod emblematic cu arc de oțel, inaugurat în 1928, care a devenit principalul simbol vizual al orașului Newcastle.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Millennium Gateshead",
+                  "text": "Un pod basculant inovator pentru pietoni și bicicliști, renumit pentru designul său în formă de ochi care clipește.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Newcastle",
+                  "text": "Fortificație normandă din secolul XII care a dat numele orașului, oferind vizitatorilor acces în turnul principal.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Newcastle",
+                  "text": "Lăcaș de cult medieval dedicat Sfântului Nicolae, celebru pentru tura sa rară în formă de coroană din secolul XV.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul lui Grey",
+                  "text": "O coloană de 41 de metri ridicată în cinstea lui Earl Grey, fost prim-ministru britanic și reformator politic.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St James' Park",
+                  "text": "Stadionul istoric al clubului de fotbal Newcastle United, situat chiar în centrul orașului pe o poziție elevată.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Unul dintre cele mai frumoase teatre din Regatul Unit, cu o fațadă neoclasică impresionantă din anul 1837.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Grainger",
+                  "text": "Piață istorică acoperită ce datează din 1835, fiind și astăzi inima comercială tradițională a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Discovery",
+                  "text": "Muzeu de știință și istorie care găzduiește Turbinia, prima navă din lume propulsată de o turbină cu abur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Great North: Hancock",
+                  "text": "Muzeu de istorie naturală ce expune artefacte romane de la Zidul lui Hadrian și mumii egiptene antice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Laing",
+                  "text": "Galerie fondată în 1901 care deține o colecție importantă de pictură britanică și obiecte din sticlă locală.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tunelul Victoria",
+                  "text": "Tunel subteran din secolul XIX folosit pentru cărbune și transformat în adăpost antiaerian în timpul războiului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jesmond Dene",
+                  "text": "O vale împădurită pitorească situată în interiorul orașului, cu cascade, poduri vechi și o mică grădină zoologică.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quayside",
+                  "text": "Zona de faleză de-a lungul râului Tyne, renumită pentru viața de noapte, restaurante și vederile asupra podurilor.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars",
+                  "text": "O mănăstire dominicană restaurată din secolul XIII, care acum adăpostește ateliere de meșteșugari și un restaurant.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Cartierul chinezesc vibrant de pe strada Stowell, marcat de o poartă tradițională și numeroase restaurante asiatice.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Bessie Surtees",
+                  "text": "Două case de negustori din secolele XVI și XVII cu structură din lemn, situate pe malul râului lângă podul Tyne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Moor",
+                  "text": "O vastă zonă de teren comun unde localnicii au dreptul istoric de a pășuna vitele, fiind plămânul verde al orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Exhibition",
+                  "text": "Parc urban ce include un lac, terenuri de sport și un pavilion istoric unde funcționează acum o berărie artizanală.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Societatea Lit & Phil",
+                  "text": "Cea mai mare bibliotecă independentă din afara Londrei, un loc de studiu fascinant fondat la sfârșitul secolului XVIII.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Centrală",
+                  "text": "O gară monumentală inaugurată în 1850 de Regina Victoria, remarcabilă prin arhitectura sa curbată din fier și sticlă.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Leazes",
+                  "text": "Cel mai vechi parc public din oraș, deschis în 1873, oferind un peisaj relaxant cu un lac în apropierea stadionului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seven Stories",
+                  "text": "Centrul Național pentru Cărțile de Copii, situat într-o fostă moară victoriană în cartierul creativ Ouseburn.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Hall",
+                  "text": "Sală de concerte celebră inaugurată în 1927, care a găzduit mari nume ale muzicii rock și spectacole de comedie.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Valea Ouseburn",
+                  "text": "Centrul cultural alternativ al orașului, unde fostele clădiri industriale găzduiesc ateliere de artă și pub-uri.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tyne Bridge",
+                  "text": "Iconic steel arch bridge opened in 1928, serving as the most famous symbol of the Newcastle and Gateshead skyline.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gateshead Millennium Bridge",
+                  "text": "An award-winning tilt bridge for pedestrians and cyclists, widely known as the \"Blinking Eye\" for its unique shape.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle Castle",
+                  "text": "A Norman fortification from the 12th century that gives the city its name and offers panoramic views from the keep.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle Cathedral",
+                  "text": "The mother church of the Diocese of Newcastle, famous for its rare 15th-century lantern spire and medieval font.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grey's Monument",
+                  "text": "A landmark column built in 1838 to honor Earl Grey, the local Prime Minister who passed the Great Reform Act.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St James' Park",
+                  "text": "Historic home of Newcastle United FC since 1892, dominating the city skyline from its position above Gallowgate.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "A magnificent Grade I listed theater opened in 1837, regarded as one of the finest examples of Victorian architecture.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grainger Market",
+                  "text": "A historic covered market built in 1835, still home to local independent traders and the unique Marks & Spencer Penny Bazaar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Museum",
+                  "text": "A science and local history museum featuring the Turbinia, once the fastest steamship in the world, and many maritime exhibits.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great North Museum: Hancock",
+                  "text": "A natural history and ancient civilization museum housing significant Hadrian's Wall artifacts and Egyptian mummies.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laing Art Gallery",
+                  "text": "Founded in 1901, this gallery holds an extensive collection of British oil paintings, watercolors, and local glassware.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Tunnel",
+                  "text": "A preserved 19th-century underground wagonway used for coal transport and later as a World War II air-raid shelter.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jesmond Dene",
+                  "text": "A narrow, wooded valley park offering a tranquil escape with a waterfall, a historic mill, and the family-friendly Pet's Corner.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quayside",
+                  "text": "The vibrant riverside area known for its nightlife, restaurants, and spectacular views of the city's seven bridges.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars",
+                  "text": "A restored 13th-century Dominican friary, now housing a traditional restaurant and a variety of local craft workshops.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Centered on Stowell Street, this cultural hub features a grand ceremonial arch and many authentic Chinese restaurants.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bessie Surtees House",
+                  "text": "Two 16th and 17th-century merchant houses with fine timber-framed facades, reflecting the city's wealthy maritime past.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Moor",
+                  "text": "A vast area of common land larger than London's Hyde Park, where the city's Freemen still exercise their grazing rights.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exhibition Park",
+                  "text": "A historic city park featuring a lake, tennis courts, and the grand pavilion of the Wylam Brewery and taproom.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lit & Phil Society",
+                  "text": "The largest independent library outside London, opened in 1825 and famed for its early use of electric lighting.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Station",
+                  "text": "A major railway hub opened in 1850, noted for its impressive curved glass roof and neoclassical stone frontage.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leazes Park",
+                  "text": "The oldest public park in Newcastle, opened in 1873, offering a peaceful lake and gardens right next to the stadium.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seven Stories",
+                  "text": "The National Centre for Children's Books, located in a converted Victorian mill in the heart of the Ouseburn area.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newcastle City Hall",
+                  "text": "A premier music and comedy venue that has hosted legendary rock acts and international performers since its opening in 1927.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ouseburn Valley",
+                  "text": "The creative heart of Newcastle, once an industrial area, now filled with artists' studios, quirky pubs, and a city farm.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-nottingham-cities-v2",
@@ -745,6 +3795,736 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Fundação da Universidade de Aberdeen: 1495", "O granito de Aberdeen foi usado no Parlamento", "Dez vezes vencedora do Britain in Bloom", "Centro da indústria petrolífera offshore europeia"],
       fr: ["Fondation de l'Université d'Aberdeen : 1495", "Le granit d'Aberdeen a été utilisé pour le Parlement", "Dix fois lauréate du Britain in Bloom", "Centre de l'industrie pétrolière offshore européenne"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Marischal College",
+                  "text": "Das zweitgrößte Granitgebäude der Welt beeindruckt durch seine neugotische Architektur und Geschichte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Machar's Cathedral",
+                  "text": "Diese mittelalterliche Kathedrale ist berühmt für ihre Doppeltürme und die einzigartige heraldische Decke.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Footdee",
+                  "text": "Ein malerisches ehemaliges Fischerdorf an der Hafenmündung mit winzigen, bunt geschmückten Cottages.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Art Gallery",
+                  "text": "Ein bedeutendes Kunstmuseum mit einer umfangreichen Sammlung von Skulpturen und modernen Gemälden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Ein weitläufiger Park, der die David Welch Winter Gardens beherbergt, eine der größten Glasanlagen Europas.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Maritime Museum",
+                  "text": "Dieses Museum dokumentiert Aberdeens enge Verbindung zum Meer und die Geschichte der Ölindustrie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Ein historisches Viertel mit Kopfsteinpflasterstraßen, alten Universitätsgebäuden und ruhigen Gärten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's College",
+                  "text": "Das Herz der Universität aus dem 15. Jahrhundert, bekannt für seinen markanten Kronenturm.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Ein prachtvolles Theater im edwardianischen Stil, das große Tourneen und lokale Shows präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Ein langer Sandstrand mit einer Promenade, ideal für Spaziergänge und verschiedene Wassersportaktivitäten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Codonas Amusement Park",
+                  "text": "Ein familiengeführter Vergnügungspark direkt am Strand mit Achterbahnen und Unterhaltung für Kinder.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Eine historische Steinbrücke aus dem 13. Jahrhundert, die den Fluss Don in Old Aberdeen überquert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provost Skene's House",
+                  "text": "Das älteste Wohnhaus der Stadt zeigt heute historisch eingerichtete Räume aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Museum",
+                  "text": "Ein ehemaliges Gefängnis aus dem 17. Jahrhundert, das die Geschichte von Verbrechen und Strafe zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Ein viktorianischer Park im Stadtzentrum, der kürzlich mit modernen Pavillons neu gestaltet wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Ein preisgekrönter kleiner Garten mit Teichen, Wasserfällen und einer berühmten kleinen blauen Brücke.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cruickshank Botanic Garden",
+                  "text": "Ein ruhiger botanischer Garten der Universität mit einer Vielfalt an alpinen und Arzneipflanzen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pittodrie Stadium",
+                  "text": "Die Heimat des Aberdeen FC, bekannt als eines der ersten reinen Sitzplatzstadien in Großbritannien.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Town House",
+                  "text": "Ein beeindruckendes viktorianisches Rathaus, das als Verwaltungszentrum der Stadt dient.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Ein großer Waldpark mit Golfplätzen, einem Labyrinth und einem wunderschönen Rosengarten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Girdleness Lighthouse",
+                  "text": "Ein markanter Leuchtturm am Hafeneingang, entworfen vom berühmten Ingenieur Robert Stevenson.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "Eine Küstenbefestigung aus dem 19. Jahrhundert mit exzellentem Blick auf den Hafen und Delfine.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Ein historisches Konzerthaus an der Union Street für klassische und zeitgenössische Musik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Kirk",
+                  "text": "Eine der größten Pfarrkirchen Schottlands, deren Ursprünge bis in das 12. Jahrhundert zurückreichen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Science Centre",
+                  "text": "Ein interaktives Wissenschaftsmuseum, das besonders für Familien und Kinder viele Experimente bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gordon Highlanders Museum",
+                  "text": "Ein Museum, das der Geschichte des berühmten Infanterieregiments aus Schottland gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "Ein großer Park am Fluss Don mit Blumenbeeten und dem historischen Weg zur Kathedrale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Eine lebendige Straße im Zentrum mit zahlreichen Bars, Cafés und einem Kino in einer alten Kirche.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Street",
+                  "text": "Die Haupteinkaufsstraße der Stadt, bekannt für ihre imposanten Fassaden aus lokalem Granit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bon Accord Centre",
+                  "text": "Ein großes Einkaufszentrum im Herzen von Aberdeen mit einer breiten Auswahl an Marken.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marischal College",
+                  "text": "A világ második legnagyobb gránitépülete, az egyetem lenyűgöző neogótikus központja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Machar-székesegyház",
+                  "text": "Ősi székesegyház jellegzetes ikertornyaival és különleges, címerekkel díszített mennyezetével.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "Gyakran Fittie-ként emlegetett apró halászfalu a kikötőnél, színesre díszített kunyhókkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Művészeti Galéria",
+                  "text": "A város legfontosabb múzeuma, amely jelentős képzőművészeti és szoborgyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Hatalmas park, itt található Európa egyik legnagyobb fedett kertje, a David Welch Winter Gardens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Tengerészeti Múzeum",
+                  "text": "A város tengeri történelmét és az északi-tengeri olajipar fejlődését bemutató modern múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ó-Aberdeen",
+                  "text": "Macskaköves utcákkal teli történelmi negyed, az egyetem legrégebbi épületeivel és parkjaival.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's College",
+                  "text": "A városi egyetem 15. századi központja, amely híres különleges korona alakú toronysisakjáról.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Pompás edward-kori színházépület, amely rangos nemzetközi és hazai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Hosszú homokos tengerpart sétánnyal, amely népszerű a vízi sportok kedvelői és a sétálók körében.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Codonas vidámpark",
+                  "text": "Családi kézben lévő vidámpark és szórakoztató központ közvetlenül a tengerparti sétány mellett.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "A Don folyón átívelő, 13. századi műemlék kőhíd Ó-Aberdeen közelében, remek fotóhelyszín.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provost Skene háza",
+                  "text": "A város legrégebbi lakóháza, amely különböző korszakok szerint berendezett szobákat mutat be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Múzeum",
+                  "text": "Egy 17. századi börtönépületben kialakított múzeum a helyi bűnözés és büntetés történetéről.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Viktoriánus stílusú süllyesztett park a belvárosban, amelyet nemrég modern pavilonokkal újítottak fel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Díjnyertes kis botanikus kert tavakkal, vízesésekkel és egy ikonikus kékre festett fahíddal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cruickshank botanikus kert",
+                  "text": "Az egyetem fenntartásában lévő csendes kert, amely alpesi és gyógynövényekben gazdag.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pittodrie Stadion",
+                  "text": "Az Aberdeen FC otthona, az Egyesült Királyság egyik első kizárólag ülőhelyes stadionja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Városháza",
+                  "text": "Impozáns viktoriánus középület, amely a város közigazgatási és politikai központjaként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Kiterjedt erdős park golfpályákkal, útvesztővel és egy gyönyörű rózsakerttel a város szélén.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Girdleness világítótorony",
+                  "text": "Robert Stevenson által tervezett világítótorony, amely a kikötő bejáratát őrzi a tengerparton.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "19. századi parti erődítmény, ahonnan remek kilátás nyílik a kikötőre és gyakran delfineket is látni.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Történelmi koncertterem az Union Streeten, amely klasszikus és könnyűzenei koncertek helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas-templom",
+                  "text": "Skócia egyik legnagyobb plébániatemploma, amelynek egyes részei a 12. századból származnak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Tudományos Központ",
+                  "text": "Interaktív tudományos múzeum gyermekeknek, ahol játékos kísérleteken keresztül tanulhatnak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gordon Highlanders Múzeum",
+                  "text": "A híres északkelet-skóciai gyalogezred történetét bemutató katonai gyűjtemény és emlékmű.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "A Don folyó partján elterülő nagy közpark virágágyásokkal és a katedrálishoz vezető sétánnyal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Karakteres belvárosi utca számos bárral, kávézóval és egy régi templomból kialakított mozival.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Street",
+                  "text": "Aberdeen főútvonala, amely monumentális gránitépületeiről és üzleteiről vált híressé.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bon Accord bevásárlóközpont",
+                  "text": "A város szívében található nagy bevásárlóközpont nemzetközi márkákkal és éttermekkel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marischal College",
+                  "text": "A doua cea mai mare clădire de granit din lume, o capodoperă a stilului neogotic victorian.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala St Machar",
+                  "text": "O catedrală veche cu turnuri gemene distinctive și un tavan heraldic unic în Europa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "Un sat pescăresc pitoresc situat la gura portului, cu căsuțe mici și grădini frumos decorate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Aberdeen",
+                  "text": "Recent renovată, găzduiește o colecție impresionantă de artă plastică și sculpturi moderne.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Un parc vast care adăpostește Grădinile de Iarnă David Welch, printre cele mai mari din Europa.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Maritim Aberdeen",
+                  "text": "Găzduit într-o clădire istorică, prezintă istoria navigației și a industriei petroliere din Marea Nordului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Cartierul istoric al orașului, cu străzi pavate, clădiri universitare vechi și grădini liniștite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's College",
+                  "text": "Inima universității fondată în secolul XV, renumită pentru turnul său în formă de coroană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Un teatru edwardian grandios care găzduiește spectacole de operă, balet și turnee internaționale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Aberdeen",
+                  "text": "O plajă lungă de nisip cu o promenadă panoramică, populară pentru plimbări și sporturi nautice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de distracții Codonas",
+                  "text": "Complex de divertisment situat lângă plajă, oferind carusele și activități pentru întreaga familie.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Un pod de piatră istoric din secolul al XIII-lea care traversează râul Don în Old Aberdeen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Provost Skene",
+                  "text": "Cea mai veche casă de locuit din oraș, transformată în muzeu cu camere mobilate de epocă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Tolbooth",
+                  "text": "O fostă închisoare din secolul XVII care prezintă istoria locală a criminalității și pedepselor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Union Terrace",
+                  "text": "Un parc victorian situat în centrul orașului, recent modernizat cu pavilioane și zone de relaxare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Johnston",
+                  "text": "O mică grădină botanică premiată, cu iazuri, cascade și un pod albastru extrem de fotogenic.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică Cruickshank",
+                  "text": "Oază de liniște a universității, cu o colecție diversă de plante alpine și medicinale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Pittodrie",
+                  "text": "Casa clubului de fotbal Aberdeen FC, primul stadion din Marea Britanie cu locuri exclusiv pe scaune.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Aberdeen",
+                  "text": "Clădire municipală victoriană impunătoare care servește ca centru administrativ al orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Hazlehead",
+                  "text": "Parc forestier extins care oferă terenuri de golf, un labirint și o grădină de trandafiri superbă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Farul Girdleness",
+                  "text": "Far proiectat de Robert Stevenson, situat strategic la intrarea în portul orașului Aberdeen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bateria Torry",
+                  "text": "O fortificație de coastă din secolul XIX care oferă vederi spectaculoase asupra portului și mării.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Sală de concerte istorică situată pe strada Union, un centru cultural pentru muzică și evenimente.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Nicholas",
+                  "text": "Cunoscută ca Mither Kirk, este o biserică parohială mare cu părți ce datează din secolul XII.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Știință Aberdeen",
+                  "text": "Muzeu interactiv dedicat științei, oferind experimente educaționale captivante pentru copii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Gordon Highlanders",
+                  "text": "Dedicat istoriei faimosului regiment de infanterie din nord-estul Scoției și eroilor săi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Seaton",
+                  "text": "Un parc mare pe malul râului Don, renumit pentru straturile sale de flori și aleile de promenadă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strada Belmont",
+                  "text": "Zonă vibrantă în centrul orașului, celebră pentru cafenelele sale și viața de noapte animată.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strada Union",
+                  "text": "Principala arteră comercială din Aberdeen, flancată de clădiri monumentale construite din granit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Bon Accord",
+                  "text": "Una dintre principalele destinații de shopping din inima orașului, cu o varietate mare de magazine.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marischal College",
+                  "text": "The second largest granite building in the world, featuring iconic Victorian Gothic revival architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Machar's Cathedral",
+                  "text": "An ancient cathedral with distinctive twin spires and a unique heraldic ceiling from the 16th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "A charming former fishing village with tiny cottages and colorful gardens at the mouth of the harbor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Art Gallery",
+                  "text": "A major museum housing a significant collection of fine art, sculpture, and contemporary works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "A large public park known for the David Welch Winter Gardens, one of Europe's largest indoor gardens.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Maritime Museum",
+                  "text": "Detailed exhibits on the city's long history with the North Sea, shipbuilding, and the oil industry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Historic district featuring cobblestone streets, ancient university buildings, and quiet, hidden gardens.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's College",
+                  "text": "The original 15th-century heart of the university, famous for its unique crown-shaped steeple.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Grand Edwardian theater hosting major touring West End productions and local artistic performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "A wide sandy beach popular for walks, surfing, and its long scenic promenade with various amenities.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Codonas Amusement Park",
+                  "text": "Family-run amusement park and entertainment complex located near the beachfront for children and adults.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Historic 13th-century stone bridge crossing the River Don, a iconic landmark in the Old Aberdeen area.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Provost Skene's House",
+                  "text": "The oldest surviving townhouse in the city, showcasing various period-furnished rooms and local history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Museum",
+                  "text": "A 17th-century former jail housing exhibits on local crime, punishment, and municipal history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Sunken Victorian park in the city center, recently renovated with modern pavilions and walkways.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Award-winning small garden featuring colorful flowers, streams, waterfalls, and a picturesque bridge.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cruickshank Botanic Garden",
+                  "text": "Serene university garden with a diverse collection of alpine, herbaceous, and medicinal plants.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pittodrie Stadium",
+                  "text": "Home of Aberdeen FC, notable for being one of the first all-seater stadiums in the United Kingdom.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Town House",
+                  "text": "Impressive Victorian municipal building serving as the administrative and political center of the city.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Extensive woodland park featuring golf courses, a maze, and one of the largest rose gardens in Scotland.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Girdleness Lighthouse",
+                  "text": "Coastal lighthouse designed by Robert Stevenson, standing prominently at the entrance to the harbor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "19th-century coastal fortification offering excellent panoramic views of the harbor and sea dolphins.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Historic concert venue on Union Street hosting a wide range of orchestral and contemporary music.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Kirk",
+                  "text": "Large parish church known as the Mither Kirk, with some historical sections dating back to the 12th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aberdeen Science Centre",
+                  "text": "Interactive science museum for children and families, offering hands-on experiments and discovery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gordon Highlanders Museum",
+                  "text": "Museum dedicated to the history of the famous Northeast Scotland infantry regiment and its soldiers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "Large riverside park featuring beautiful floral displays and the historic Cathedral Walk path.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Vibrant street in the city center known for its independent bars, cafes, and creative cultural venues.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Union Street",
+                  "text": "The main thoroughfare of Aberdeen, famous for its grand architecture made of local silver granite.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bon Accord & St Nicholas",
+                  "text": "The city's primary shopping centers located in the heart of the retail district with many brands.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-swansea-cities-v2", population: 246700,
@@ -792,6 +4572,736 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Local de nascimento de Dylan Thomas (1914)", "Primeira 'Área de Destacada Beleza Natural' (Gower)", "Sede da Driver and Vehicle Licensing Agency (DVLA)", "Centro mundial do comércio de cobre no século XIX"],
       fr: ["Lieu de naissance de Dylan Thomas (1914)", "Première 'Area of Outstanding Natural Beauty' (Gower)", "Siège de la Driver and Vehicle Licensing Agency (DVLA)", "Centre mondial du commerce du cuivre au XIXe siècle"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "Der 1982 eröffnete Jachthafen im alten Hafenviertel ist heute ein lebendiges Wohn- und Freizeitzentrum.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterfront Museum",
+                  "text": "Das Museum zeigt die Industriegeschichte von Wales und wurde 2005 in einem modernen Glasbau eröffnet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Museum",
+                  "text": "Das älteste Museum in Wales wurde 1841 gegründet und beherbergt unter anderem eine altägyptische Mumie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Das 1934 eröffnete Rathaus ist für seinen Art-déco-Stil und die Brangwyn Hall mit ihren Wandgemälden bekannt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Castle",
+                  "text": "Die Ruinen der Burg aus dem 12. Jahrhundert stehen im Stadtzentrum und zeigen Überreste des mittelalterlichen Glanzes.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oystermouth Castle",
+                  "text": "Diese im 12. Jahrhundert von den Normannen erbaute Burg bietet einen weiten Blick über die Bucht von Swansea.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mumbles Pier",
+                  "text": "Der 1898 eröffnete, 256 Meter lange viktorianische Pier ist ein beliebtes Ziel für Angler und Ausflügler.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "Der botanische Garten ist berühmt für seine Sammlung von Rhododendren und die malerische Aussicht auf das Meer.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "Der größte Stadtpark umfasst 100 Hektar und beherbergt botanische Gärten sowie einen See mit Tretbooten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "Das Zentrum ist dem berühmtesten Dichter der Stadt gewidmet und zeigt eine ständige Ausstellung über sein Leben.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glynn Vivian Art Gallery",
+                  "text": "Die 1911 eröffnete Galerie beherbergt eine bedeutende Sammlung walisischer Kunst sowie europäische Porzellanarbeiten.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Dieses 1897 eröffnete Theater ist das kulturelle Herz der Stadt und bietet Platz für über 1.000 Zuschauer.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Market",
+                  "text": "Der größte überdachte Markt in Wales bietet seit dem 19. Jahrhundert lokale Spezialitäten wie Herzmuscheln an.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea.com Stadium",
+                  "text": "Das 2005 eröffnete Stadion ist die Heimstätte des Swansea City AFC und des Rugby-Teams Ospreys.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "Die Konzerthalle innerhalb der Guildhall ist berühmt für die Brangwyn-Paneele, die für das House of Lords entworfen wurden.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales' größter Wasserpark und Freizeitzentrum befindet sich im Stadtzentrum und wurde 2008 umfassend modernisiert.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Dieser tropische Regenwald unter Glas beherbergt exotische Tiere wie Krokodile und Erdmännchen inmitten der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Die fünf Kilometer lange Sandbucht erstreckt sich vom Yachthafen bis nach Mumbles und lädt zum Spazierengehen ein.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caswell Bay",
+                  "text": "Dieser beliebte Strand auf der Gower-Halbinsel ist bekannt für seine gute Wasserqualität und ideal für Surfer.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Langland Bay",
+                  "text": "Ein malerischer Küstenort mit charakteristischen grünen Strandhütten und hervorragenden Surfbedingungen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhossili Bay",
+                  "text": "Der drei Meilen lange Sandstrand am westlichen Ende von Gower wird regelmäßig zu einem der besten Strände gewählt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Worm's Head",
+                  "text": "Diese markante Landzunge ist nur bei Ebbe erreichbar und bietet spektakuläre Ausblicke auf den Atlantik.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Three Cliffs Bay",
+                  "text": "Die Bucht ist berühmt für ihre drei markanten Kalksteinfelsen und gilt als einer der meistfotografierten Orte in Wales.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pennard Castle",
+                  "text": "Die Ruinen der Burg aus dem 12. Jahrhundert thronen hoch über der Three Cliffs Bay und sind vom Golfplatz umgeben.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "Ein lebendiges Museum in einer Mühle aus dem 12. Jahrhundert, das traditionelles Handwerk und Landleben zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Die im Zweiten Weltkrieg zerstörte und in den 1950ern wiederaufgebaute Kirche ist das religiöse Zentrum der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egypt Centre",
+                  "text": "Das Museum an der Universität Swansea besitzt über 5.000 antike ägyptische Objekte aus der Sammlung von Sir Henry Wellcome.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea University",
+                  "text": "Die 1920 gegründete Universität liegt im Singleton Park und ist bekannt für ihre Forschung und die Lage am Meer.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "Die historische Straße im Stadtzentrum ist heute das Zentrum des Nachtlebens mit zahlreichen Bars und Restaurants.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Ein gepflegter Park aus dem Jahr 1887 mit einem Denkmal für den Hund Jack, der 27 Menschen vor dem Ertrinken rettete.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "A régi kikötőnegyedben 1982-ben megnyitott jachtkikötő ma élénk lakó- és szabadidős központ.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Waterfront Múzeum",
+                  "text": "A múzeum Wales ipari múltját mutatja be, 2005-ben nyílt meg egy modern üvegépületben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Múzeum",
+                  "text": "Wales legidősebb múzeumát 1841-ben alapították, többek között egy ókori egyiptomi múmiát is őriz.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Az 1934-ben megnyitott városháza art deco stílusáról és a falfestményekkel díszített Brangwyn Hallról ismert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea vár",
+                  "text": "A 12. századi vár romjai a városközpontban állnak, felidézve a középkori város egykori jelentőségét.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oystermouth vár",
+                  "text": "Ezt a 12. századi normann várat a Gower-félsziget kapujában emelték, csodás kilátást nyújt az öbölre.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mumbles móló",
+                  "text": "Az 1898-ban megnyitott, 256 méter hosszú viktoriánus móló a horgászok és kirándulók kedvelt célpontja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "A botanikus kert híres rododendron-gyűjteményéről és a tengerre nyíló festői panorámájáról.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "A város legnagyobb, 100 hektáros parkja botanikus kerteknek és egy csónakázótónak is otthont ad.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "A központ a város leghíresebb költőjének életét és munkásságát mutatja be egy állandó kiállítás keretében.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glynn Vivian Művészeti Galéria",
+                  "text": "Az 1911-ben alapított galéria jelentős walesi művészeti gyűjteménnyel és európai porcelánokkal rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Az 1897-ben megnyitott színház a város kulturális szíve, amely több mint 1000 néző befogadására alkalmas.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea piac",
+                  "text": "Wales legnagyobb fedett piaca a 19. század óta kínál helyi specialitásokat, például tengeri herkentyűket.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea.com Stadion",
+                  "text": "A 2005-ben átadott stadion a Swansea City AFC labdarúgócsapat és az Ospreys rögbi-együttes otthona.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "A városházán belüli hangversenyterem a Lordok Háza számára készült Brangwyn-panelekről híres.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales legnagyobb vízi parkja és szabadidős központja a városközpontban található, 2008-ban modernizálták.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Ez a városközponti üvegház trópusi esőerdőt, egzotikus állatokat és ritka növényeket mutat be.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea-öböl",
+                  "text": "Az öt kilométer hosszú homokos partszakasz a jachtkikötőtől Mumbles-ig tart, ideális sétákhoz.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caswell-öböl",
+                  "text": "A Gower-félsziget népszerű strandja kiváló vízminőségéről ismert, a szörfösök egyik kedvenc helye.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Langland-öböl",
+                  "text": "Festői tengerparti helyszín jellegzetes zöld strandkunyhókkal és kiváló szörfözési lehetőségekkel.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhossili-öböl",
+                  "text": "A Gower nyugati végén található három mérföldes homokos strandot rendszeresen a világ legjobbjai közé választják.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Worm's Head",
+                  "text": "Ez a különleges földnyelv csak apálykor érhető el gyalogosan, látványos kilátást nyújtva az Atlanti-óceánra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Three Cliffs-öböl",
+                  "text": "Az öböl három jellegzetes mészkősziklájáról kapta a nevét, Wales egyik legtöbbet fotózott helyszíne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pennard vár",
+                  "text": "A 12. századi vár romjai a Three Cliffs-öböl felett magasodnak, egy golfpálya szomszédságában.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "Egy 12. századi vízimalom köré épült skanzen, amely a hagyományos mesterségeket és a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária-templom",
+                  "text": "A második világháborúban lerombolt, majd az 1950-es években újjáépített templom a város vallási központja.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egyiptomi Központ",
+                  "text": "A Swansea-i Egyetem múzeuma több mint 5000 ókori egyiptomi tárgyat őriz Henry Wellcome gyűjteményéből.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Egyetem",
+                  "text": "Az 1920-ban alapított intézmény a Singleton Parkban található, híres kutatásairól és tengerparti fekvéséről.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "A történelmi utca ma a város éjszakai életének központja, számos bárral és étteremmel.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Az 1887-ben alapított parkban áll Jack, a kutya emlékműve, aki 27 embert mentett ki a tengerből.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina Swansea",
+                  "text": "Inaugurată în 1982 în vechiul cartier portuar, marina este astăzi un centru rezidențial și de agrement vibrant.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național Waterfront",
+                  "text": "Muzeul prezintă istoria industrială a Țării Galilor și a fost deschis în 2005 într-o clădire modernă din sticlă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Swansea",
+                  "text": "Cel mai vechi muzeu din Țara Galilor a fost fondat în 1841 și găzduiește, printre altele, o mumie egipteană antică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Primăria deschisă în 1934 este cunoscută pentru stilul său Art Deco și sala Brangwyn Hall cu picturile sale murale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Swansea",
+                  "text": "Ruinele castelului din secolul al XII-lea se află în centrul orașului, amintind de splendoarea medievală de odinioară.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Oystermouth",
+                  "text": "Construit de normanzi în secolul al XII-lea, acest castel oferă o vedere panoramică asupra golfului Swansea.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mollul Mumbles",
+                  "text": "Deschis în 1898, acest moll victorian lung de 256 de metri este o destinație populară pentru pescari și turiști.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Clyne",
+                  "text": "Grădina botanică este faimoasă pentru colecția sa de rododendroni și vederile pitorești spre mare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Singleton",
+                  "text": "Cel mai mare parc urban se întinde pe 100 de hectare și găzduiește grădini botanice și un lac cu bărci.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Dylan Thomas",
+                  "text": "Centrul este dedicat celui mai faimos poet al orașului și găzduiește o expoziție permanentă despre viața sa.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Glynn Vivian",
+                  "text": "Deschisă în 1911, galeria găzduiește o colecție importantă de artă galeză și lucrări europene din porțelan.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Grand",
+                  "text": "Deschis în 1897, acest teatru este inima culturală a orașului și poate găzdui peste 1.000 de spectatori.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Swansea",
+                  "text": "Cea mai mare piață acoperită din Țara Galilor oferă specialități locale precum scoici încă din secolul al XIX-lea.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Swansea.com",
+                  "text": "Deschis în 2005, stadionul este casa echipei de fotbal Swansea City AFC și a echipei de rugby Ospreys.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "Sala de concerte din cadrul Guildhall este celebră pentru panourile Brangwyn, create inițial pentru Camera Lorzilor.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Cel mai mare parc acvatic și centru de agrement din Țara Galilor a fost modernizat extensiv în 2008.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Această pădure tropicală sub sticlă găzduiește animale exotice precum crocodili și suricate chiar în centrul orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golful Swansea",
+                  "text": "Plaja cu nisip lungă de cinci kilometri se întinde de la marină până la Mumbles și este ideală pentru plimbări.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golful Caswell",
+                  "text": "Această plajă populară din peninsula Gower este cunoscută pentru calitatea apei și este ideală pentru surferi.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golful Langland",
+                  "text": "O locație costieră pitorească, cu cabane de plajă verzi caracteristice și condiții excelente pentru surf.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golful Rhossili",
+                  "text": "Plaja cu nisip lungă de trei mile de la capătul vestic al Gower este votată constant printre cele mai bune din lume.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Worm's Head",
+                  "text": "Acest promontoriu distinctiv este accesibil doar la reflux și oferă vederi spectaculoase asupra Atlanticului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Three Cliffs Bay",
+                  "text": "Golful este faimos pentru cele trei stânci de calcar distinctive și este unul dintre cele mai fotografiate locuri din Wales.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Pennard",
+                  "text": "Ruinele castelului din secolul al XII-lea tronează deasupra golfului Three Cliffs, fiind înconjurate de un teren de golf.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Patrimoniu Gower",
+                  "text": "Un muzeu viu situat într-o moară din secolul al XII-lea, care prezintă meșteșugurile tradiționale și viața rurală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Distrusă în al Doilea Război Mondial și reconstruită în anii 1950, biserica este centrul religios al orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Egiptului",
+                  "text": "Muzeul Universității Swansea deține peste 5.000 de obiecte egiptene antice din colecția lui Henry Wellcome.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universitatea Swansea",
+                  "text": "Fondată în 1920, universitatea este situată în Singleton Park și este cunoscută pentru cercetare și locația sa la mare.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "Strada istorică din centrul orașului este astăzi centrul vieții de noapte, cu numeroase baruri și restaurante.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Victoria",
+                  "text": "Un parc din 1887 care găzduiește monumentul câinelui Jack, care a salvat 27 de persoane de la înec.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "Opened in 1982 in the old docklands, the marina is now a vibrant residential and leisure hub.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterfront Museum",
+                  "text": "The museum showcases the industrial history of Wales and opened in 2005 in a modern glass building.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Museum",
+                  "text": "The oldest museum in Wales was founded in 1841 and houses an ancient Egyptian mummy among its treasures.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Opened in 1934, the city hall is famous for its Art Deco style and the Brangwyn Hall with its historic murals.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Castle",
+                  "text": "The ruins of the 12th-century castle stand in the city center, showing remains of its medieval grandeur.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Oystermouth Castle",
+                  "text": "Built by the Normans in the 12th century, this castle offers sweeping views over Swansea Bay.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mumbles Pier",
+                  "text": "Opened in 1898, the 256-meter long Victorian pier is a popular destination for anglers and tourists.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "The botanical garden is famous for its collection of rhododendrons and picturesque views over the sea.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "The largest urban park covers 100 hectares and houses botanical gardens and a boating lake.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "The center is dedicated to the city's most famous poet and features a permanent exhibition about his life.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glynn Vivian Art Gallery",
+                  "text": "Opened in 1911, the gallery houses a significant collection of Welsh art and European porcelain works.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Opened in 1897, this theater is the cultural heart of the city and can seat over 1,000 spectators.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Market",
+                  "text": "The largest indoor market in Wales has been offering local specialties like cockles since the 19th century.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea.com Stadium",
+                  "text": "Opened in 2005, the stadium is the home of Swansea City AFC and the Ospreys rugby team.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "The concert hall within the Guildhall is famous for the Brangwyn Panels, designed for the House of Lords.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales' largest waterpark and leisure center is located in the city center and was extensively modernized in 2008.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "This tropical rainforest under glass houses exotic animals like crocodiles and meerkats in the heart of the city.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "The five-kilometer long sandy beach stretches from the marina to Mumbles and is ideal for walking.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caswell Bay",
+                  "text": "This popular beach on the Gower Peninsula is known for its water quality and is ideal for surfers.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Langland Bay",
+                  "text": "A picturesque coastal location with characteristic green beach huts and excellent surfing conditions.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhossili Bay",
+                  "text": "The three-mile sandy beach at the western end of Gower is regularly voted among the best beaches in the world.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Worm's Head",
+                  "text": "This distinctive headland is accessible only at low tide and offers spectacular views over the Atlantic.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Three Cliffs Bay",
+                  "text": "The bay is famous for its three distinctive limestone cliffs and is one of the most photographed spots in Wales.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pennard Castle",
+                  "text": "The 12th-century castle ruins overlook Three Cliffs Bay and are surrounded by a golf course.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "A living museum based around a 12th-century water mill, showing traditional crafts and rural life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Destroyed in WWII and rebuilt in the 1950s, the church is the religious center of the city.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Egypt Centre",
+                  "text": "The museum at Swansea University holds over 5,000 ancient Egyptian objects from Henry Wellcome's collection.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Swansea University",
+                  "text": "Founded in 1920, the university is located in Singleton Park and is known for its research and seaside location.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "The historic city center street is now the hub of the city's nightlife with numerous bars and restaurants.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A park dating from 1887 which hosts the monument to Jack the dog, who saved 27 people from drowning.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-oxford-cities-v2",
@@ -933,6 +5443,304 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Únicas fontes termais na Grã-Bretanha", "Património Mundial da UNESCO desde 1987", "O Royal Crescent consiste em 30 casas", "A Pulteney Bridge é uma das quatro pontes habitadas"],
       fr: ["Seules sources thermales de Grande-Bretagne", "Patrimoine mondial de l'UNESCO depuis 1987", "Le Royal Crescent se compose de 30 maisons", "Le Pulteney Bridge est l'un des quatre ponts habités"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Roman Baths",
+                  "text": "Herausragend erhaltene römische Thermen aus dem Jahr 70 n. Chr. im Herzen der Stadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Abbey",
+                  "text": "Prachtvolle gotische Kirche mit beeindruckendem Fächergewölbe aus dem 16. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Royal Crescent",
+                  "text": "Eine halbmondförmige Reihe von 30 prachtvollen georgianischen Reihenhäusern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pulteney Bridge",
+                  "text": "Historische Brücke über den Avon, die auf beiden Seiten mit kleinen Läden bebaut ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Circus",
+                  "text": "Drei bogenförmige georgianische Häuserreihen, die einen perfekten Kreis bilden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Eines der ältesten und schönsten Theater Großbritanniens, erbaut im Jahr 1805.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Öffentliches Kunstmuseum mit Werken vom 15. Jahrhundert bis zur Gegenwart.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holburne Museum",
+                  "text": "Kunstmuseum im ehemaligen Sydney Hotel mit einer feinen Sammlung dekorativer Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prior Park Landscape Garden",
+                  "text": "Landschaftsgarten aus dem 18. Jahrhundert mit einer der wenigen Palladio-Brücken.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Park auf dem Beechen Cliff mit dem besten Panoramablick über ganz Bath.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Spa Station",
+                  "text": "Von Isambard Kingdom Brunel entworfener Bahnhof im Tudor-Stil aus dem Jahr 1840.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assembly Rooms",
+                  "text": "Einstiges Zentrum des gesellschaftlichen Lebens, bekannt durch die Romane von Jane Austen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Baths",
+                  "text": "Rendkívül jó állapotban fennmaradt római kori termálfürdő és templomegyüttes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Abbey",
+                  "text": "Gótikus stílusú apátsági templom, híres a 16. századi legyezőboltozatáról.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Royal Crescent",
+                  "text": "30 György-korabeli lakóházból álló, monumentális félköríves épületegyüttes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pulteney Bridge",
+                  "text": "Az Avon folyón átívelő híd, amelynek mindkét oldalát üzletek sora szegélyezi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Circus",
+                  "text": "Három íves szakaszból álló építészeti remekmű, amely egy szabályos kört formáz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Nagy-Britannia egyik legrégebbi és legszebb színháza, amely 1805 óta működik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Városi képtár, amely a 15. századtól napjainkig mutatja be a képzőművészetet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holburne Museum",
+                  "text": "Az egykori Sydney Hotelben berendezett múzeum gazdag iparművészeti gyűjteménnyel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prior Park Landscape Garden",
+                  "text": "18. századi angolkert, ahol a világ kevés Palladio-stílusú hídjának egyike látható.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "A Beechen Cliff tetején elhelyezkedő park, ahonnan teljes panoráma nyílik a városra.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Spa Station",
+                  "text": "Isambard Kingdom Brunel által tervezett Tudor-stílusú vasútállomás 1840-ből.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assembly Rooms",
+                  "text": "A társasági élet egykori központja, amely Jane Austen báljainak is helyszíne volt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Baths",
+                  "text": "Băile romane excepțional conservate, datând din anul 70 d.Hr., un simbol al orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Abbey",
+                  "text": "Măreață abație gotică fondată în secolul al VII-lea, celebră pentru bolta sa în evantai.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Royal Crescent",
+                  "text": "Un rând de 30 de case terasate în formă de semilună, capodoperă a stilului georgian.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pulteney Bridge",
+                  "text": "Pod istoric peste râul Avon, unul dintre puținele din lume care are magazine pe ambele părți.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Circus",
+                  "text": "Ansamblu arhitectural format din trei segmente curbe de case care descriu un cerc perfect.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "Unul dintre cele mai vechi și elegante teatre din Marea Britanie, construit în 1805.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Galerie publică de artă ce găzduiește colecții din secolul al XV-lea până în prezent.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holburne Museum",
+                  "text": "Muzeu de artă situat în fostul Hotel Sydney, prezentând obiecte decorative fine.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prior Park Landscape Garden",
+                  "text": "Grădină peisagistică din secolul al XVIII-lea cu un pod palladian spectaculos.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Parc situat pe înălțimile Beechen Cliff, oferind cea mai frumoasă vedere panoramică.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Spa Station",
+                  "text": "Gară proiectată de Isambard Kingdom Brunel în stil Tudor, deschisă publicului în 1840.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assembly Rooms",
+                  "text": "Centrul vieții sociale din secolul al XVIII-lea, frecventat odinioară de Jane Austen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Baths",
+                  "text": "Exceptionally preserved Roman thermal spa and temple complex dating from 70 AD.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Abbey",
+                  "text": "Grand Gothic parish church founded in the 7th century, famous for its fan vaulting.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Royal Crescent",
+                  "text": "A row of 30 terraced houses in a crescent shape, built between 1767 and 1774.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pulteney Bridge",
+                  "text": "Historic bridge completed in 1774, one of only four in the world with shops on both sides.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Circus",
+                  "text": "Three curved segments of Grade I listed townhouses forming a circular public space.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal",
+                  "text": "One of the oldest and most beautiful theatres in Britain, originally built in 1805.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Art Gallery",
+                  "text": "Public art museum housing works from the 15th century to the present day.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holburne Museum",
+                  "text": "Art museum housed in the former Sydney Hotel, featuring fine and decorative arts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prior Park Landscape Garden",
+                  "text": "18th-century landscape garden featuring one of only four Palladian bridges in the world.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Park situated on top of Beechen Cliff offering panoramic views over the city of Bath.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bath Spa Station",
+                  "text": "Designed by Isambard Kingdom Brunel in a Tudor style, serving the city since 1840.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Assembly Rooms",
+                  "text": "18th-century social hub where Jane Austen attended famous balls and concerts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-dundee-cities-v2", population: 148280,
@@ -980,6 +5788,736 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Sede do museu de design V&A Dundee", "Lar do navio de investigação RRS Discovery", "UNESCO City of Design desde 2014", "Centro da indústria escocesa de videojogos"],
       fr: ["Siège du musée du design V&A Dundee", "Foyer du navire de recherche RRS Discovery", "UNESCO City of Design depuis 2014", "Centre de l'industrie écossaise du jeu vidéo"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "V&A Dundee",
+                  "text": "Schottlands erstes Designmuseum in einem markanten modernen Gebäude, inspiriert von den Klippen von Arbroath.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "RRS Discovery",
+                  "text": "Das Schiff, das Scott und Shackleton in die Antarktis brachte, heute ein Museum über die Polarforschung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "McManus Galerien",
+                  "text": "Dundees Kunstgalerie und Museum, ein prächtiges viktorianisch-gotisches Gebäude mit vielfältigen Sammlungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Law",
+                  "text": "Ein erloschener Vulkan und der höchste Punkt der Stadt mit spektakulärem Panoramablick auf Dundee und den Tay.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Broughty Castle",
+                  "text": "Eine Küstenfestung aus dem 15. Jahrhundert, die heute ein Museum über das Leben in Broughty Ferry beherbergt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verdant Works",
+                  "text": "Ein preisgekröntes Museum in einer ehemaligen Jutemühle, das die Geschichte von Dundees Textilerbe erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "HMS Frigate Unicorn",
+                  "text": "Eines der ältesten Schiffe der Welt und das letzte intakte Kriegsschiff aus dem Zeitalter der Segelschiffe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mills Observatorium",
+                  "text": "Britanniens erstes speziell gebautes öffentliches Observatorium auf dem Balgay Hill mit viktorianischen Teleskopen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Science Centre",
+                  "text": "Ein interaktives Wissenschaftszentrum mit Fokus auf die Sinne und den menschlichen Körper, ideal für Familien.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Camperdown Country Park",
+                  "text": "Der größte Park in Dundee, Heimat des Camperdown House und eines beliebten Tierparks mit einheimischen Tieren.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Tower",
+                  "text": "Schottlands höchster erhaltener mittelalterlicher Kirchturm, Teil des historischen Pfarrkirchenkomplexes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caird Hall",
+                  "text": "Dundees wichtigster Veranstaltungsort für Konzerte, bekannt für seine hervorragende Akustik und große Orgel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dudhope Castle",
+                  "text": "Eine historische Festung und spätere Kaserne, heute von einem Park umgeben mit Blick über die Stadt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten der Universität",
+                  "text": "Zeigt eine große Vielfalt an Pflanzen aus aller Welt, inklusive Gewächshäusern mit tropischen Sammlungen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Desperate Dan Statue",
+                  "text": "Eine Bronzestatue zu Ehren der berühmten Comicfigur von D.C. Thomson im Herzen des Stadtzentrums.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drachenstatue",
+                  "text": "Eine beliebte Skulptur im Stadtzentrum, die den legendären Dundee-Drachen aus der lokalen Folklore darstellt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay Rail Bridge",
+                  "text": "Eine historische Eisenbahnbrücke über den Firth of Tay, Ersatz für die 1879 eingestürzte Originalbrücke.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Contemporary Arts",
+                  "text": "Ein Weltklasse-Zentrum für zeitgenössische Kunst mit Galerien, einem Kino und einem Druckstudio.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Claypotts Castle",
+                  "text": "Ein ungewöhnlich gestaltetes Z-Plan-Turmhaus aus dem 16. Jahrhundert, verwaltet von Historic Scotland.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slessor Gardens",
+                  "text": "Ein moderner öffentlicher Park und Veranstaltungsraum im Hafenviertel für große Konzerte und Festivals.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Howff Friedhof",
+                  "text": "Ein historischer Friedhof im Stadtzentrum, der der Stadt einst von Maria Stuart geschenkt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balgay Hill",
+                  "text": "Ein bewaldeter Hügel mit Wanderwegen, dem Mills Observatorium und Blick auf das Tay-Ästuar.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baxter Park",
+                  "text": "Ein schöner viktorianischer Park, entworfen von Sir Joseph Paxton, mit einem prächtigen Pavillon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Andrew's Cathedral",
+                  "text": "Die Mutterkirche der römisch-katholischen Diözese Dunkeld, bekannt für ihr elegantes Interieur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maggie's Centre Dundee",
+                  "text": "Ein einzigartiges Krebszentrum, entworfen vom Architekten Frank Gehry, nahe dem Krankenhaus gelegen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Point",
+                  "text": "Das Besucherzentrum neben dem V&A Dundee, das die heldenhafte Geschichte der RRS Discovery erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay Road Bridge",
+                  "text": "Eine wichtige Straßenbrücke über den Firth of Tay, die Dundee mit Fife verbindet und Flussblicke bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympia Leisure Centre",
+                  "text": "Ein modernes Schwimm- und Sportzentrum mit mehreren Rutschen und Becken für die Freizeitgestaltung.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Overgate Shopping Centre",
+                  "text": "Ein erstklassiges Einkaufszentrum in Dundee mit markanter Glasfassade und Blick auf das historische Zentrum.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Ice Arena",
+                  "text": "Ein bedeutendes regionales Sportzentrum für Eishockeyspiele und öffentliches Eislaufen in einer modernen Arena.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "V&A Dundee",
+                  "text": "Skócia első dizájnmúzeuma, amely egy lenyűgöző modern épületben kapott helyet, Arbroath sziklái ihlették.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "RRS Discovery",
+                  "text": "A hajó, amely Scottot és Shackletont az Antarktiszra vitte, ma a sarkvidéki felfedezések történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "McManus Galériák",
+                  "text": "Dundee művészeti galériája és múzeuma, egy pompás viktoriánus gótikus épület változatos gyűjteményekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Law",
+                  "text": "Egy kialudt vulkán és a város legmagasabb pontja, ahonnan látványos panoráma nyílik a Tay folyóra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Broughty-kastély",
+                  "text": "Egy 15. századi tengerparti erőd, amely ma a Broughty Ferry életét bemutató múzeumnak ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verdant Works",
+                  "text": "Díjnyertes múzeum egy egykori jutagyárban, amely Dundee ipari textilörökségének történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "HMS Frigate Unicorn",
+                  "text": "A világ egyik legrégebbi hajója, és az utolsó épen maradt hadihajó a vitorlások korszakából.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mills Csillagvizsgáló",
+                  "text": "Britannia első célirányosan épített nyilvános csillagvizsgálója a Balgay Hillen, viktoriánus távcsövekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Tudományos Központ",
+                  "text": "Interaktív tudományos központ, amely az érzékszervekre és az emberi testre összpontosít, ideális családoknak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Camperdown Country Park",
+                  "text": "Dundee legnagyobb parkja, ahol a Camperdown House és egy népszerű vadaspark található helyi állatokkal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária-torony",
+                  "text": "Skócia legmagasabb fennmaradt középkori templomtornya, a történelmi plébániatemplom-komplexum része.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caird Hall",
+                  "text": "Dundee első számú koncert- és rendezvényhelyszíne, amely kiváló akusztikájáról és orgonájáról híres.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dudhope-kastély",
+                  "text": "Történelmi erőd, később laktanya, amelyet ma park vesz körül, és kilátást nyújt a városra.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Egyetemi Botanikus Kert",
+                  "text": "A világ minden tájáról származó növények széles skáláját mutatja be, beleértve a trópusi üvegházakat is.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Desperate Dan szobor",
+                  "text": "Bronzszobor a híres D.C. Thomson képregényfigura tiszteletére a városközpont szívében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sárkányszobor",
+                  "text": "Népszerű szobor a városközpontban, amely a helyi folklór legendás dundee-i sárkányát ábrázolja.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay vasúti híd",
+                  "text": "Történelmi vasúti híd a Firth of Tay felett, amely az 1879-ben összeomlott eredeti hidat váltotta fel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kortárs Művészeti Központ (DCA)",
+                  "text": "Világszínvonalú kortárs művészeti központ galériákkal, mozival és nyomdai stúdióval.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Claypotts-kastély",
+                  "text": "Szokatlan kialakítású, 16. századi, Z-alaprajzú toronyház, amelyet a Historic Scotland kezel.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slessor Gardens",
+                  "text": "Modern közpark és rendezvénytér a vízparti területen, ahol nagyszabású koncerteket és fesztiválokat tartanak.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Howff temető",
+                  "text": "Történelmi temető a városközpontban, amelyet egykor Stuart Mária skót királynő ajándékozott a városnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balgay Hill",
+                  "text": "Erdős domb sétányokkal, a Mills csillagvizsgálóval és kilátással a Tay folyó torkolatára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baxter Park",
+                  "text": "Gyönyörű viktoriánus park, amelyet Sir Joseph Paxton tervezett, elegáns pavilonnal és virágágyásokkal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent András-székesegyház",
+                  "text": "A dunkeldi római katolikus egyházmegye anyatemploma, amely elegáns belső teréről nevezetes.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maggie's Centre Dundee",
+                  "text": "Világhírű Frank Gehry építész által tervezett egyedi rákbetegeket segítő központ a kórház közelében.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Point",
+                  "text": "A V&A Dundee melletti látogatóközpont, amely az RRS Discovery hajó hősies történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay közúti híd",
+                  "text": "Jelentős közúti híd a Firth of Tay felett, amely Dundee-t köti össze Fife-pal, remek kilátással.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympia Szabadidőközpont",
+                  "text": "Modern úszó- és sportkomplexum több csúszdával és medencével a családi kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Overgate Bevásárlóközpont",
+                  "text": "Dundee első számú bevásárlóközpontja üveghomlokzattal, amely a történelmi városközpontra néz.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Jégcsarnok",
+                  "text": "Jelentős regionális sporthelyszín, amely jégkorong-mérkőzéseknek és közönségkorcsolyázásnak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "V&A Dundee",
+                  "text": "Primul muzeu de design din Scoția, găzduit într-o clădire modernă frapantă inspirată de stâncile din Arbroath.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "RRS Discovery",
+                  "text": "Nava care i-a transportat pe Scott și Shackleton în Antarctica, acum un muzeu al explorării polare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeriile McManus",
+                  "text": "Galeria de Artă și Muzeul din Dundee, o clădire gotică victoriană magnifică cu diverse colecții locale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Law",
+                  "text": "Un vulcan stins și cel mai înalt punct al orașului, oferind vederi panoramice spectaculoase asupra râului Tay.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Broughty",
+                  "text": "Un fort de coastă din secolul XV care acum găzduiește un muzeu dedicat vieții din Broughty Ferry.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verdant Works",
+                  "text": "Un muzeu premiat situat într-o fostă fabrică de iută, spunând povestea moștenirii textile a orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "HMS Frigate Unicorn",
+                  "text": "Una dintre cele mai vechi nave din lume și ultima navă de război intactă din epoca navigației cu pânze.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatorul Mills",
+                  "text": "Primul observator public din Marea Britanie construit special, situat pe Balgay Hill cu telescoape victoriene.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Science Centre",
+                  "text": "Un centru științific interactiv axat pe simțuri și corpul uman, ideal pentru învățarea în familie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Camperdown Country",
+                  "text": "Cel mai mare parc din Dundee, sediul Camperdown House și al unui centru popular de animale sălbatice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Sfânta Maria",
+                  "text": "Cel mai înalt turn de biserică medievală supraviețuitor din Scoția, parte a complexului parohial istoric.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caird Hall",
+                  "text": "Principala sală de concerte din Dundee, cunoscută pentru acustica sa superbă și orga sa grandioasă.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Dudhope",
+                  "text": "O fortăreață istorică și ulterior cazarmă, acum înconjurată de un parc cu vederi asupra orașului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică a Universității",
+                  "text": "Prezintă o gamă largă de plante din întreaga lume, inclusiv sere cu colecții tropicale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Desperate Dan",
+                  "text": "O statuie de bronz care celebrează faimosul personaj de benzi desenate în inima centrului orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Dragonului",
+                  "text": "O sculptură populară în centrul orașului reprezentând legendarul Dragon din Dundee din folclorul local.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Feroviar Tay",
+                  "text": "Un pod feroviar istoric peste Firth of Tay, înlocuind podul original care s-a prăbușit în 1879.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Contemporary Arts",
+                  "text": "Un centru de talie mondială pentru artă contemporană, incluzând galerii, cinema și studio de imprimerie.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Claypotts",
+                  "text": "O casă turn în plan Z din secolul XVI cu un design neobișnuit, administrată de Historic Scotland.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Slessor",
+                  "text": "Un parc public modern și spațiu de evenimente în zona falezei, găzduind concerte și festivaluri majore.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Howff",
+                  "text": "Un cimitir istoric în centrul orașului, dăruit odinioară orașului de Maria, Regina Scoției.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dealul Balgay",
+                  "text": "Un deal împădurit mare care oferă trasee de plimbare, Observatorul Mills și vederi peste estuarul Tay.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Baxter",
+                  "text": "Un parc victorian frumos proiectat de Sir Joseph Paxton, cu un pavilion grandios și flori superbe.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfântul Andrei",
+                  "text": "Biserica mamă a Diecezei Romano-Catolice de Dunkeld, cunoscută pentru interiorul său elegant.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maggie's Centre Dundee",
+                  "text": "Un centru unic de îngrijire pentru bolnavii de cancer, proiectat de arhitectul Frank Gehry.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Point",
+                  "text": "Centrul de vizitatori de lângă V&A Dundee, care spune povestea eroică a navei RRS Discovery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Rutier Tay",
+                  "text": "Un pod rutier major peste Firth of Tay, care leagă Dundee de Fife, oferind vederi panoramice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Agrement Olympia",
+                  "text": "Un complex modern de înot și sport, cu mai multe tobogane și piscine pentru recreerea în familie.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Comercial Overgate",
+                  "text": "O destinație de retail de top din Dundee, cu o fațadă de sticlă ce dă spre centrul istoric.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Ice Arena",
+                  "text": "O locație sportivă regională de top care găzduiește meciuri de hochei pe gheață și patinaj public.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "V&A Dundee",
+                  "text": "Scotland's first design museum, housed in a striking modern building inspired by the cliffs of Arbroath.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "RRS Discovery",
+                  "text": "The ship that carried Scott and Shackleton to Antarctica, now a museum exploring polar exploration history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The McManus",
+                  "text": "Dundee's Art Gallery and Museum, a magnificent Victorian Gothic building housing diverse local collections.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Law",
+                  "text": "An extinct volcano and the city's highest point, offering spectacular panoramic views of Dundee and the Tay.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Broughty Castle",
+                  "text": "A 15th-century coastal fort that now houses a museum dedicated to life and times of Broughty Ferry.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verdant Works",
+                  "text": "An award-winning museum set in a former jute mill, telling the story of Dundee’s industrial textile heritage.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "HMS Frigate Unicorn",
+                  "text": "One of the oldest ships in the world and the last intact warship from the age of sail.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mills Observatory",
+                  "text": "Britain's first purpose-built public observatory, located on Balgay Hill and featuring Victorian telescopes.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Science Centre",
+                  "text": "An interactive science center focused on the senses and the human body, ideal for family learning.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Camperdown Country Park",
+                  "text": "The largest park in Dundee, home to Camperdown House and a popular wildlife center with local animals.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Tower (Old Steeple)",
+                  "text": "Scotland's highest surviving medieval church tower, part of the historic parish church complex.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caird Hall",
+                  "text": "Dundee's premier concert and events venue, known for its superb acoustics and grand organ.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dudhope Castle",
+                  "text": "A historic fortress and later barracks, now surrounded by a park and offering views over the city.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University of Dundee Botanic Garden",
+                  "text": "Features a wide range of plants from across the globe, including glasshouses with tropical collections.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Desperate Dan Statue",
+                  "text": "A bronze statue celebrating the famous D.C. Thomson comic character in the heart of the city center.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon Statue",
+                  "text": "A popular sculpture in the city center representing the legendary Dundee Dragon of local folklore.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay Rail Bridge",
+                  "text": "A historic railway bridge over the Firth of Tay, replacing the original bridge that collapsed in 1879.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Contemporary Arts (DCA)",
+                  "text": "A world-class center for contemporary art including galleries, a cinema, and print studio.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Claypotts Castle",
+                  "text": "An unusually designed 16th-century Z-plan tower house, managed by Historic Environment Scotland.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Slessor Gardens",
+                  "text": "A modern public park and event space in the waterfront area, hosting major concerts and festivals.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Howff Cemetery",
+                  "text": "A historic graveyard in the city center once gifted to the town by Mary, Queen of Scots.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Balgay Hill",
+                  "text": "A large wooded hill offering walking trails, the Mills Observatory, and views across the Tay estuary.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Baxter Park",
+                  "text": "A beautiful Victorian park designed by Sir Joseph Paxton, featuring a grand pavilion and flower displays.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Andrew's Cathedral",
+                  "text": "The mother church of the Roman Catholic Diocese of Dunkeld, known for its elegant interior.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maggie's Centre Dundee",
+                  "text": "A unique cancer care center designed by world-renowned architect Frank Gehry, located near the hospital.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Discovery Point",
+                  "text": "The visitor center next to V&A Dundee that tells the heroic story of the ship RRS Discovery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay Road Bridge",
+                  "text": "A major road bridge spanning the Firth of Tay, connecting Dundee to Fife with great river views.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympia Leisure Centre",
+                  "text": "A modern swimming and sports complex featuring multiple flumes and pools for family recreation.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Overgate Shopping Centre",
+                  "text": "A premier retail destination in Dundee with a distinctive glass facade overlooking the historic city center.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dundee Ice Arena",
+                  "text": "A premier regional sports venue hosting ice hockey matches and public skating sessions in a modern arena.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-canterbury-cities-v2",
@@ -1074,6 +6612,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Única cidade totalmente amuralhada da Irlanda", "Período de construção das muralhas: 1613–1619", "Inauguração da Peace Bridge: 2011", "Segunda maior cidade da Irlanda do Norte"],
       fr: ["Seule ville entièrement fortifiée d'Irlande", "Période de construction des remparts : 1613–1619", "Inauguration du Peace Bridge : 2011", "Deuxième plus grande ville d'Irlande du Nord"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "The City Walls",
+                  "text": "Die historischen Stadtmauern aus dem 17. Jahrhundert umschließen die Altstadt und bieten einen Rundweg mit Panoramablick auf Derry.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Ein prächtiges neugotisches Gebäude mit wunderschönen Buntglasfenstern, das als administratives und kulturelles Zentrum der Stadt dient.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "Eine elegante Fußgänger- und Radfahrerbrücke über den Fluss Foyle, die 2011 als Symbol der Versöhnung in der Stadt eröffnet wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Columb's Cathedral",
+                  "text": "Die älteste Kathedrale der Stadt wurde im 17. Jahrhundert im Stil der Planter-Gotik erbaut und beherbergt viele historische Artefakte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tower Museum",
+                  "text": "Ein preisgekröntes Museum in einem rekonstruierten Turm, das die Geschichte von Derry und die Geschichte der spanischen Armada erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Free Derry Corner",
+                  "text": "Ein ikonisches historisches Wahrzeichen im Bogside-Viertel, das an die Bürgerrechtsbewegung und die Geschichte des Konflikts erinnert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bogside Murals",
+                  "text": "Eine Reihe beeindruckender Wandgemälde, die die moderne Geschichte der Stadt darstellen und als 'People's Gallery' bekannt sind.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Eugene's Cathedral",
+                  "text": "Die katholische Kathedrale der Diözese Derry, ein beeindruckendes neugotisches Bauwerk, das im späten 19. Jahrhundert fertiggestellt wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Forum",
+                  "text": "Das führende Theater- und Konferenzzentrum der Region, das ein breites Spektrum an nationalen und internationalen Shows und Konzerten bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brooke Park",
+                  "text": "Ein wunderschön restaurierter viktorianischer Park mit Aussichtspunkten, Gärten und Freizeiteinrichtungen für Einheimische und Besucher.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The City Walls",
+                  "text": "A 17. századi történelmi városfalak körbeveszik az óvárost, és egy panorámás sétautat kínálnak, ahonnan belátható az egész város.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Pompás neogótikus épület csodálatos ólomüveg ablakokkal, amely a város közigazgatási és kulturális eseményeinek központjaként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "A Foyle-folyón átívelő elegáns gyalogoshíd, amelyet 2011-ben adtak át a megbékélés és az egység szimbólumaként Derry városában.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Columb's Cathedral",
+                  "text": "A város legrégebbi székesegyháza, amely a 17. században épült gótikus stílusban, és számos fontos történelmi emléket őriz falai között.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tower Museum",
+                  "text": "Díjnyertes múzeum egy bástyában, amely Derry viharos történetét és a spanyol Armada süllyedésének emlékeit mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Free Derry Corner",
+                  "text": "Ikonikus történelmi helyszín a Bogside negyedben, amely a polgárjogi mozgalomra és a város modern kori küzdelmeire emlékeztet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bogside Murals",
+                  "text": "Lenyűgöző falfestmények sorozata, amelyek a város újkori történelmét ábrázolják, és ma 'Nép Galériája' néven ismertek világszerte.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Eugene's Cathedral",
+                  "text": "Derry római katolikus székesegyháza, amely egy impozáns neogótikus építmény, és a 19. század végén nyitotta meg kapuit a hívők előtt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Forum",
+                  "text": "A régió vezető színházi és konferenciaközpontja, amely számos hazai és nemzetközi előadásnak és zenei koncertnek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brooke Park",
+                  "text": "Gyönyörűen felújított viktoriánus park kilátókkal, kertekkel és sportpályákkal, amely népszerű pihenőhely a város lakói számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The City Walls",
+                  "text": "Zidurile istorice ale orașului din secolul al XVII-lea înconjoară orașul vechi și oferă un traseu de mers cu vederi panoramice superbe.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "O clădire neoclasică grandioasă cu vitralii uimitoare, care servește drept centru administrativ și cultural principal al orașului Derry.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "Un pod pietonal elegant peste râul Foyle, inaugurat în 2011 ca simbol al reconcilierii și unității între comunitățile orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Columb's Cathedral",
+                  "text": "Cea mai veche catedrală din oraș, construită în secolul al XVII-lea în stil gotic, adăpostind numeroase artefacte istorice valoroase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tower Museum",
+                  "text": "Un muzeu premiat situat într-un turn reconstruit, care prezintă istoria captivantă a orașului Derry și a Armadei Spaniole.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Free Derry Corner",
+                  "text": "Un reper istoric iconic în cartierul Bogside, care comemorează mișcarea pentru drepturi civile și evenimentele politice din trecut.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bogside Murals",
+                  "text": "O serie de picturi murale impresionante care ilustrează istoria modernă a orașului, formând ceea ce se numește 'Galeria Oamenilor'.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Eugene's Cathedral",
+                  "text": "Catedrala catolică a diocezei Derry, o structură neogotică impunătoare finalizată la sfârșitul secolului al XIX-lea în centrul orașului.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Forum",
+                  "text": "Principalul teatru și centru de conferințe din regiune, oferind o gamă variată de spectacole naționale și internaționale de înaltă calitate.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brooke Park",
+                  "text": "Un parc victorian restaurat superb, cu puncte de belvedere, grădini amenajate și facilități de recreere pentru toți vizitatorii.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "The City Walls",
+                  "text": "The historic 17th-century city walls surround the old city, providing a walking route with panoramic views of the entire urban landscape.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "A grand neo-Gothic building featuring stunning stained-glass windows, serving as the city's main administrative and cultural hub.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "An elegant pedestrian and cycle bridge across the River Foyle, opened in 2011 as a symbol of reconciliation and unity for the city.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Columb's Cathedral",
+                  "text": "The oldest cathedral in the city, built in the 17th century in the Planter Gothic style and housing many important historical artifacts.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tower Museum",
+                  "text": "An award-winning museum located within a reconstructed tower, telling the story of Derry's history and the story of the Spanish Armada.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Free Derry Corner",
+                  "text": "An iconic historical landmark in the Bogside area, commemorating the civil rights movement and the city's modern political history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bogside Murals",
+                  "text": "A series of striking murals depicting the city's modern history, known collectively as the 'People's Gallery' by locals and tourists.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Eugene's Cathedral",
+                  "text": "The Catholic cathedral of the Diocese of Derry, an impressive neo-Gothic structure completed in the late 19th century near the city centre.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Forum",
+                  "text": "The region's premier theatre and conference centre, hosting a wide range of national and international touring shows and music concerts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brooke Park",
+                  "text": "A beautifully restored Victorian park featuring viewpoints, leisure gardens, and sports facilities for residents and visitors to enjoy.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-brighton-cities-v2", population: 134293,
@@ -1121,6 +6909,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de construção do Royal Pavilion: 1787–1823", "Lar do aquário mais antigo do mundo", "Maior festival do orgulho no Reino Unido", "Abertura do West Pier: 1866 (hoje em ruínas)"],
       fr: ["Année de construction du Royal Pavilion : 1787–1823", "Foyer du plus vieil aquarium du monde", "Plus grand festival de la fierté au Royaume-Uni", "Ouverture du West Pier : 1866 (aujourd'hui en ruines)"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "Der Royal Pavilion ist ein exotischer Palast im Zentrum von Brighton, der als Rückzugsort für König Georg IV. erbaut wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier ist ein ikonischer viktorianischer Pier mit Fahrgeschäften, Spielhallen und verschiedenen Essensständen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes ist ein historisches Viertel in Brighton, bekannt für seine engen Gassen, unabhängigen Geschäfte und Antiquitätenläden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "Der Brighton i360 ist ein 162 Meter hoher Aussichtsturm an der Küste, der einen Panoramablick über die Stadt und das Meer bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "Das Brighton Dome ist ein erstklassiger Veranstaltungsort für Kunst und Kultur, der sich in den ehemaligen königlichen Ställen befindet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "Dieses Museum im Royal Pavilion Garden beherbergt bedeutende Sammlungen von Kunst, Design und lokaler Geschichte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Das 1872 eröffnete Sea Life Brighton ist das älteste noch in Betrieb befindliche Aquarium der Welt mit einer viktorianischen Architektur.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Die Brighton Marina ist einer der größten künstlichen Jachthäfen Europas und bietet zahlreiche Geschäfte, Kinos und Restaurants.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Laine",
+                  "text": "Das Viertel North Laine ist ein lebendiges Zentrum für böhmische Kultur mit über 400 unabhängigen Geschäften, Cafés und Pubs.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Der berühmte Kieselstrand von Brighton erstreckt sich über mehrere Kilometer und ist ein beliebter Ort für Wassersport und Erholung.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "Die St. Nicholas Church ist das älteste Gebäude in Brighton und stammt aus dem 14. Jahrhundert mit einer reichen christlichen Tradition.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "Preston Manor ist ein Herrenhaus aus der georgianischen Zeit, das einen Einblick in das Leben der Oberschicht im frühen 20. Jahrhundert gibt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "Dieses Museum am Strand dokumentiert die reiche Fischereigeschichte der Stadt mit historischen Booten und Fotografien.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Eröffnet im Jahr 1883, ist dies die älteste noch in Betrieb befindliche elektrische Eisenbahn der Welt, die entlang der Küste fährt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "Das Booth Museum beherbergt eine faszinierende Sammlung von Vögeln, Schmetterlingen, Fossilien und Skeletten in viktorianischem Stil.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Dieses 1910 eröffnete Kino ist eines der ältesten noch in Betrieb befindlichen Lichtspielhäuser in Großbritannien.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "Das Museum unter dem Bahnhof Brighton zeigt eine riesige Sammlung von historischem Spielzeug und Modelleisenbahnen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "Die Jubilee Library ist ein modernes architektonisches Wahrzeichen und ein wichtiges kulturelles Zentrum im Herzen von Brighton.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "Der 1888 erbautet Uhrturm im Stadtzentrum wurde zum Gedenken an das Goldene Jubiläum von Königin Victoria errichtet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke ist ein tiefes V-förmiges Tal in den South Downs, das einen spektakulären Blick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "Das im 19. Jahrhundert erbautet Rathaus von Brighton ist ein beeindruckendes Gebäude mit klassizistischer Architektur.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "Das Theatre Royal ist eines der ältesten und renommiertesten Theater des Landes und zeigt regelmäßig große Tourneeproduktionen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "Diese monumentale Kirche ist für ihre gewaltige Größe und ihre beeindruckende Backsteinarchitektur im byzantinischen Stil bekannt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Der Regency Square ist ein historischer Platz mit eleganter Architektur aus dem frühen 19. Jahrhundert und Blick auf das Meer.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Die Skelettreste des 1866 erbauten West Pier sind ein markantes und melancholisches Wahrzeichen an der Küste von Brighton.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "A Royal Pavilion egy egzotikus palota Brighton központjában, amely IV. György király tengerparti rezidenciájaként épült.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "A Brighton Palace Pier egy ikonikus viktoriánus móló vidámparki játékokkal, játéktermekkel és különféle ételstandokkal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "A The Lanes Brighton történelmi negyede, amely szűk sikátorairól, független üzleteiről és régiségkereskedéseiről híres.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "A Brighton i360 egy 162 méter magas kilátótorony a tengerparton, amely panorámás kilátást nyújt a városra és a tengerre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "A Brighton Dome egy első osztályú művészeti és kulturális helyszín, amely az egykori királyi istállók épületében található.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "A Royal Pavilion kertjében található múzeum jelentős művészeti, design és helytörténeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Az 1872-ben megnyitott Sea Life Brighton a világ legrégebbi, folyamatosan működő akváriuma, lenyűgöző viktoriánus stílusban.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "A Brighton Marina Európa egyik legnagyobb mesterséges jachtkikötője, számos üzlettel, mozival és étteremmel rendelkezik.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Laine",
+                  "text": "A North Laine negyed a bohém kultúra vibráló központja, több mint 400 független üzlettel, kávézóval és pubbal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton híres kavicsos strandja több kilométer hosszan húzódik, és népszerű hely a vízi sportok és a kikapcsolódás kedvelőinek.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A Szent Miklós-templom Brighton legrégebbi épülete, amely a 14. századból származik, és gazdag keresztény hagyományokkal bír.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "A Preston Manor egy georgiánus kori udvarház, amely betekintést nyújt a 20. század eleji felsőosztály életébe.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "A tengerparton található múzeum a város gazdag halászati múltját mutatja be történelmi hajókkal és fényképekkel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Az 1883-ban megnyitott vasút a világ legrégebbi, ma is működő elektromos vasútja, amely a tengerpart mentén közlekedik.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "A Booth Múzeum madarak, pillangók, fosszíliák és csontvázak lenyűgöző gyűjteményét őrzi viktoriánus környezetben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Az 1910-ben megnyitott mozi az Egyesült Királyság egyik legrégebbi, ma is üzemelő filmszínháza.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "A brightoni vasútállomás alatt található múzeum történelmi játékok és modellvasutak hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "A Jubilee Könyvtár modern építészeti remekmű és fontos kulturális központ Brighton szívében.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "A városközpontban álló óratornyot 1888-ban építették Viktória királynő aranyjubileumának emlékére.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "A Devil's Dyke egy mély, V alakú völgy a South Downs dombjai között, ahonnan látványos kilátás nyílik a környező vidékre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "A 19. században épült brightoni városháza lenyűgöző épület, amely klasszicista építészeti stílusával emelkedik ki.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "A Theatre Royal az ország egyik legrégebbi és legrangosabb színháza, amely rendszeresen ad otthont nagy turnéprodukcióknak.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "Ez a monumentális templom hatalmas méretéről és lenyűgöző, bizánci stílusú téglaépítészetéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "A Regency Square egy történelmi tér elegáns, 19. század eleji építészettel és közvetlen kilátással a tengerre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Az 1866-ban épült West Pier csontvázszerű maradványai Brighton tengerpartjának jellegzetes és melankolikus szimbólumai.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavilionul Regal",
+                  "text": "Pavilionul Regal este un palat exotic din centrul orașului Brighton, construit ca reședință de vară pentru regele George al IV-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier este un debarcader victorian iconic, cu atracții de divertisment, săli de jocuri și standuri cu mâncare.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes este o zonă istorică din Brighton, faimoasă pentru aleile sale înguste, magazinele independente și antichități.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "Brighton i360 este un turn de observație de 162 de metri pe coastă, oferind o vedere panoramică asupra orașului și mării.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "Brighton Dome este o locație de prim rang pentru artă și cultură, situată în fostele grajduri regale ale palatului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă din Brighton",
+                  "text": "Acest muzeu din grădina Pavilionului Regal găzduiește colecții importante de artă, design și istorie locală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Deschis în 1872, Sea Life Brighton este cel mai vechi acvariu din lume aflat încă în funcțiune, având o arhitectură victoriană.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Brighton Marina este unul dintre cele mai mari porturi artificiale din Europa, oferind numeroase magazine, cinematografe și restaurante.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Laine",
+                  "text": "Cartierul North Laine este un centru vibrant al culturii boeme, cu peste 400 de magazine independente, cafenele și pub-uri.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaja Brighton",
+                  "text": "Faimoasa plajă cu pietriș din Brighton se întinde pe câțiva kilometri și este un loc popular pentru sporturi nautice și relaxare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "Biserica Sf. Nicolae este cea mai veche clădire din Brighton, datând din secolul al XIV-lea, cu o bogată tradiție creștină.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Conacul Preston",
+                  "text": "Conacul Preston este o reședință din epoca georgiană care oferă o privire asupra vieții clasei superioare la începutul secolului XX.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Pescuitului din Brighton",
+                  "text": "Acest muzeu situat pe plajă documentează istoria bogată a pescuitului din oraș prin bărci istorice și fotografii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calea ferată electrică a lui Volk",
+                  "text": "Deschisă în 1883, aceasta este cea mai veche cale ferată electrică din lume aflată încă în funcțiune, circulând de-a lungul coastei.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie Naturală Booth",
+                  "text": "Muzeul Booth găzduiește o colecție fascinantă de păsări, fluturi, fosile și schelete într-un cadru victorian.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Acest cinematograf deschis în 1910 este unul dintre cele mai vechi cinematografe din Marea Britanie încă în funcțiune.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Jucăriilor și Modelelor din Brighton",
+                  "text": "Muzeul aflat sub gara din Brighton prezintă o colecție uriașă de jucării istorice și trenulețe electrice.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Jubilee",
+                  "text": "Biblioteca Jubilee este un reper arhitectural modern și un centru cultural important în inima orașului Brighton.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul cu Ceas din Brighton",
+                  "text": "Turnul cu ceas din centrul orașului a fost construit în 1888 pentru a comemora Jubileul de Aur al Reginei Victoria.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke este o vale adâncă în formă de V în South Downs, care oferă vederi spectaculoase asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Brighton",
+                  "text": "Primăria din Brighton, construită în secolul al XIX-lea, este o clădire impresionantă cu o arhitectură neoclasică.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "Theatre Royal este unul dintre cele mai vechi și prestigioase teatre din țară, găzduind regulat mari producții itinerante.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Bartolomeu",
+                  "text": "Această biserică monumentală este cunoscută pentru dimensiunile sale uriașe și arhitectura impresionantă din cărămidă în stil bizantin.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Piața Regency este o piață istorică cu o arhitectură elegantă de la începutul secolului al XIX-lea și vedere spre mare.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Rămășițele scheletice ale West Pier, construit în 1866, sunt un reper distinctiv și melancolic pe coasta din Brighton.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "The Royal Pavilion is an exotic palace in the center of Brighton, built as a seaside retreat for King George IV.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier is an iconic Victorian pier featuring amusement rides, arcades, and various food stalls by the sea.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes is a historic area of Brighton famous for its narrow alleyways, independent shops, and antique stores.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "The Brighton i360 is a 162-meter observation tower on the seafront, offering panoramic views of the city and the sea.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "The Brighton Dome is a premier arts and culture venue located in the former royal stables of the palace complex.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "This museum in the Royal Pavilion Garden houses important collections of art, design, and local history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Opened in 1872, Sea Life Brighton is the world's oldest operating aquarium, featuring stunning Victorian architecture.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Brighton Marina is one of Europe's largest man-made marinas, offering numerous shops, cinemas, and restaurants.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Laine",
+                  "text": "The North Laine district is a vibrant hub of bohemian culture with over 400 independent shops, cafes, and pubs.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton's famous pebble beach stretches for several miles and is a popular spot for water sports and relaxation.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church is the oldest building in Brighton, dating back to the 14th century with a rich Christian tradition.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "Preston Manor is a Georgian-era manor house that provides a glimpse into the life of the upper class in the early 20th century.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "This museum on the seafront documents the city's rich fishing history with historic boats and photography.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Opened in 1883, this is the world's oldest operating electric railway, running along the Brighton seafront.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "The Booth Museum houses a fascinating collection of birds, butterflies, fossils, and skeletons in a Victorian setting.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "This cinema opened in 1910 is one of the oldest operating cinemas in the UK, showcasing a mix of films.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "Located under Brighton station, this museum showcases a huge collection of historic toys and model trains.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "The Jubilee Library is a modern architectural landmark and a major cultural hub in the heart of Brighton.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "The clock tower in the city center was built in 1888 to commemorate the Golden Jubilee of Queen Victoria.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke is a deep V-shaped valley in the South Downs, offering spectacular views of the surrounding countryside.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "Brighton Town Hall, built in the 19th century, is an imposing building featuring neoclassical architecture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "The Theatre Royal is one of the oldest and most prestigious theatres in the country, hosting major touring productions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "This monumental church is known for its sheer size and impressive brick architecture in a Byzantine style.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Regency Square is a historic square with elegant early 19th-century architecture and views across to the sea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "The skeletal remains of the West Pier, built in 1866, are a distinctive and melancholic landmark on the Brighton coast.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ,
   {
@@ -1215,6 +7613,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de construção da Ponte Transporter: 1906", "Sede da Ryder Cup 2010", "Centro do movimento cartista galês", "Sede da Universidade do Sul do País de Gales"],
       fr: ["Année de construction du pont transbordeur : 1906", "Lieu de la Ryder Cup 2010", "Centre du mouvement chartiste gallois", "Siège de l'Université du Pays de Galles du Sud"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Newport Transporter Bridge",
+                  "text": "Eine denkmalgeschützte Schwebefähre von 1906, eine von nur acht weltweit betriebenen Anlagen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tredegar House",
+                  "text": "Ein Herrenhaus aus dem 17. Jahrhundert mit einem 36 Hektar großen Park, einst Sitz der Familie Morgan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caerleon Roman Fortress",
+                  "text": "Standort der Isca Augusta, einer römischen Legionsfestung mit Museum, Kasernen und Thermen.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Cathedral",
+                  "text": "Die St. Woolos gewidmete Kathedrale mit Teilen, die bis ins späte 11. Jahrhundert zurückreichen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Castle",
+                  "text": "Die Überreste einer Burg aus dem 14. Jahrhundert am Fluss Usk, einst Sitz des Lords von Newport.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Roman Legion Museum",
+                  "text": "Ein Museum, das das Leben und die Fundstücke der in Caerleon stationierten Römer zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Das am besten erhaltene römische Amphitheater Britanniens, das einst bis zu 6.000 Menschen fasste.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle Vue Park",
+                  "text": "Ein von Thomas Mawson entworfener viktorianischer Park mit exotischen Bäumen und Wintergärten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fourteen Locks",
+                  "text": "Eine berühmte Schleusentreppe am Monmouthshire-und-Brecon-Kanal, ein technisches Wunderwerk von 1799.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Hotel",
+                  "text": "Schauplatz des Newport-Aufstands von 1839, der letzten großen bewaffneten Rebellion der Chartisten.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Riverfront",
+                  "text": "Ein modernes Kunstzentrum und Theater im Herzen der Stadt direkt am Ufer des Flusses Usk.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Market",
+                  "text": "Eine viktorianische Markthalle mit großem Glasdach, die 1854 für den lokalen Handel erbaut wurde.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chartist Statues",
+                  "text": "Gedenkskulpturen in der Commercial Street, die an den Kampf für demokratische Wahlrechte erinnern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friars Walk",
+                  "text": "Ein großes Einzelhandels- und Freizeitzentrum, das das Stadtzentrum von Newport 2015 neu belebte.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rodney Parade",
+                  "text": "Ein 1877 eröffnetes Sportstadion, Heimat des Newport County AFC und des Rugby-Teams Dragons.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beechwood Park",
+                  "text": "Ein öffentlicher Park mit Beechwood House, einem 1877 erbauten Herrenhaus eines lokalen Politikers.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Museum and Art Gallery",
+                  "text": "Dieses Museum bewahrt die Lokalgeschichte, Chartist-Objekte und Werke walisischer Künstler.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "Ein Regierungsgebäude, bekannt für seinen Uhrturm und die Chartist-Wandgemälde von Hans Feibusch.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Bridge",
+                  "text": "Eine elegante Steinbrücke über den Usk, die 1927 als Ersatz für eine ältere Holzkonstruktion fertiggestellt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christchurch Viewpoint",
+                  "text": "Ein Aussichtspunkt bei Christchurch mit weitem Blick über die Stadt und den Bristolkanal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allt-yr-yn Nature Reserve",
+                  "text": "Ein Naturschutzgebiet auf dem Gelände eines ehemaligen Freibads mit Wald, Teichen und Bächen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "Eine neugotische Kirche aus den 1840er Jahren für die wachsende katholische Gemeinde der Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Dock",
+                  "text": "Das historische Südbecken von Newport, einst ein wichtiges Zentrum für den Export walisischer Kohle.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waterloo Hotel",
+                  "text": "Ein denkmalgeschütztes viktorianisches Hotel, bekannt für seine Fliesenarbeiten und Architektur.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Wave",
+                  "text": "Eine markante Edelstahlskulptur am Fluss, die das maritime Erbe der Stadt Newport symbolisiert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Newport-i szállítóhíd",
+                  "text": "1906-ban megnyitott, műemléki védelem alatt álló híd, a világ nyolc működő szállítóhídjának egyike.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tredegar House",
+                  "text": "17. századi Charles II-stílusú kastély és 90 holdas parkja, a Morgan család ősi fészke volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caerleon római erőd",
+                  "text": "Az Isca Augusta legio-erőd helyszíne, ahol múzeum, laktanyák és fürdők maradványai láthatók.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport-i székesegyház",
+                  "text": "Szent Woolosnak szentelt katedrális, amelynek egyes részei a 11. század végéről származnak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport-i vár",
+                  "text": "Egy 14. századi vár romjai az Usk-folyó partján, amely egykor Newport urának székhelye volt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Római Légió Múzeum",
+                  "text": "A Caerleonban állomásozó római katonák életét és emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római amfiteátrum",
+                  "text": "Nagy-Britannia legjobb állapotban fennmaradt amfiteátruma, amely egykor 6000 nézőt fogadott be.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle Vue Park",
+                  "text": "Thomas Mawson által tervezett viktoriánus park egzotikus fákkal és hagyományos üvegházakkal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fourteen Locks",
+                  "text": "Híres zsilipsor a Monmouthshire és Brecon csatornán, egy 1799-ben épült mérnöki remekmű.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Hotel",
+                  "text": "Az 1839-es newporti felkelés helyszíne, amely a chartisták utolsó nagy fegyveres lázadása volt.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Riverfront",
+                  "text": "Kortárs művészeti központ és színház a város szívében, az Usk-folyó partján elhelyezkedve.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport-i piac",
+                  "text": "Viktoriánus fedett piac hatalmas üvegtetővel, amely 1854-ben épült a helyi kereskedelem számára.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chartisták szobrai",
+                  "text": "Emlékművek a Commercial Streeten, amelyek a demokratikus választójogért folytatott küzdelmet jelzik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friars Walk",
+                  "text": "Jelentős bevásárló- és szabadidőközpont, amely 2015-ös nyitásakor újjáélesztette a városközpontot.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rodney Parade",
+                  "text": "1877-ben megnyitott sportstadion, a Newport County AFC és a Dragons rögbi csapat otthona.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beechwood Park",
+                  "text": "30 holdas közpark a Beechwood House kastéllyal, amelyet 1877-ben egy helyi politikus építtetett.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport-i Múzeum és Galéria",
+                  "text": "A helytörténetet, a chartista gyűjteményt és walesi művészek alkotásait őrző galéria.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza (Civic Centre)",
+                  "text": "Híres óratornyáról és Hans Feibusch chartista mozgalmat ábrázoló falfestményeiről.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport-i híd",
+                  "text": "Elegáns kőhíd az Usk-folyón, amely 1927-ben készült el egy régebbi faszerkezet pótlására.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christchurch kilátó",
+                  "text": "Christchurch melletti magaslat, ahonnan pazar kilátás nyílik a városra és a Bristoli-csatornára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allt-yr-yn Természetvédelmi Terület",
+                  "text": "Vadvédelmi menedékhely egy korábbi strand helyén, erdővel, tavakkal és patakokkal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária katolikus templom",
+                  "text": "1840-es években épült gótikus templom, amely a város növekvő katolikus közösségét szolgálta.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra kikötő",
+                  "text": "Newport történelmi déli dokkja, amely egykor a walesi szén világméretű exportjának központja volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waterloo Hotel",
+                  "text": "Viktoriánus kocsma és szálloda, amely jellegzetes kerámia burkolatáról és építészetéről ismert.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Wave",
+                  "text": "Jellegzetes rozsdamentes acél szobor a folyóparton, amely Newport tengeri örökségét szimbolizálja.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podul Transbordor Newport",
+                  "text": "Un pod transbordor monument istoric deschis în 1906, unul dintre cele opt rămase în lume.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tredegar House",
+                  "text": "O conac în stil Charles al II-lea din secolul al XVII-lea, fosta reședință a familiei Morgan.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cetatea Romană Caerleon",
+                  "text": "Situl Isca Augusta, o fortăreață legionară romană cheie, cu muzeu, cazărmi și băi.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Newport",
+                  "text": "O catedrală dedicată Sfântului Woolos, cu secțiuni datând de la sfârșitul secolului al XI-lea.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Newport",
+                  "text": "Ruinele unui castel din secolul al XIV-lea pe râul Usk, fosta reședință a lordului de Newport.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național al Legiunii Romane",
+                  "text": "Un muzeu care prezintă viața și artefactele soldaților romani staționați la Caerleon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amfiteatrul Roman",
+                  "text": "Cel mai bine conservat amfiteatru roman din Marea Britanie, care putea găzdui până la 6.000 de oameni.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Belle Vue",
+                  "text": "Un parc victorian proiectat de Thomas Mawson, cu arbori exotici și sere tradiționale.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fourteen Locks",
+                  "text": "O serie faimoasă de ecluze pe canalul Monmouthshire și Brecon, o minune inginerească din 1799.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotelul Westgate",
+                  "text": "Locul revoltei din Newport din 1839, ultima rebeliune armată majoră a chartiștilor în Marea Britanie.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Riverfront",
+                  "text": "Un centru de artă contemporană și teatru situat în inima orașului, pe malul râului Usk.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Newport",
+                  "text": "O piață victoriană acoperită cu un acoperiș mare de sticlă, construită în 1854 pentru comerțul local.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuile Chartiștilor",
+                  "text": "Sculpturi comemorative pe Commercial Street care marchează lupta pentru dreptul la vot.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friars Walk",
+                  "text": "O dezvoltare majoră de retail și petrecere a timpului liber care a revitalizat centrul orașului în 2015.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rodney Parade",
+                  "text": "Un stadion istoric deschis în 1877, sediul Newport County AFC și al echipei de rugby Dragons.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Beechwood",
+                  "text": "Un parc public de 30 de acri cu Beechwood House, un conac construit în 1877 de un politician local.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă Newport",
+                  "text": "Conservă istoria locală, colecția Chartist și lucrări ale artiștilor galezi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "Clădirea administrației locale, cunoscută pentru turnul cu ceas și picturile murale de Hans Feibusch.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Newport",
+                  "text": "Un pod elegant din piatră peste râul Usk, finalizat în 1927 pentru a înlocui o structură veche.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Punctul de belvedere Christchurch",
+                  "text": "Un punct înalt care oferă vederi panoramice asupra orașului și a Canalului Bristol.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rezervația Naturală Allt-yr-yn",
+                  "text": "Un refugiu pentru fauna sălbatică pe locul unui fost ștrand, cu păduri și iazuri.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Catolică Sf. Maria",
+                  "text": "O biserică în stil gotic victorian construită în anii 1840 pentru comunitatea catolică.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Dock",
+                  "text": "Docul istoric de sud din Newport, odinioară un hub vital pentru exportul de cărbune galez.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hotelul Waterloo",
+                  "text": "Un pub și hotel victorian renumit pentru placările sale ceramice distinctive și arhitectură.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Wave",
+                  "text": "O sculptură proeminentă din oțel inoxidabil lângă râu, simbolizând moștenirea maritimă a orașului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Newport Transporter Bridge",
+                  "text": "A Grade I listed transporter bridge opened in 1906, one of only eight remaining in use worldwide.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tredegar House",
+                  "text": "A 17th-century Charles II mansion and its 90-acre park, once the ancestral home of the Morgan family.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caerleon Roman Fortress",
+                  "text": "The site of Isca Augusta, a key Roman legionary fortress featuring a museum, barracks, and baths.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Cathedral",
+                  "text": "A cathedral dedicated to St Woolos, with sections dating back to the late 11th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Castle",
+                  "text": "The remains of a 14th-century castle on the River Usk, once the seat of the Lord of Newport.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Roman Legion Museum",
+                  "text": "A museum showcasing the life and artifacts of the Roman soldiers stationed at Caerleon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "The best-preserved Roman amphitheatre in Britain, which could once accommodate up to 6,000 people.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belle Vue Park",
+                  "text": "A Victorian park designed by Thomas Mawson, featuring exotic trees and traditional conservatories.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fourteen Locks",
+                  "text": "A famous series of locks on the Monmouthshire and Brecon Canal, an engineering marvel from 1799.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Hotel",
+                  "text": "The site of the 1839 Newport Rising, the last major armed rebellion in Great Britain by Chartists.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Riverfront",
+                  "text": "A contemporary arts centre and theatre located in the heart of the city along the Usk riverbank.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Market",
+                  "text": "A Victorian indoor market with a large barrel-vaulted glass roof, built in 1854 for local commerce.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chartist Statues",
+                  "text": "Commemorative sculptures in Commercial Street that mark the struggle for democratic voting rights.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friars Walk",
+                  "text": "A major retail and leisure development that revitalised Newport city centre when it opened in 2015.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rodney Parade",
+                  "text": "A historic sports stadium opened in 1877, home to Newport County AFC and the Dragons rugby team.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beechwood Park",
+                  "text": "A 30-acre public park featuring Beechwood House, a mansion built in 1877 by a local politician.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Museum and Art Gallery",
+                  "text": "This gallery preserves local history, the Chartist collection, and works of Welsh artists.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "A local government building known for its clock tower and the Chartist murals by Hans Feibusch.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Bridge",
+                  "text": "An elegant stone bridge across the River Usk, completed in 1927 to replace an older wooden structure.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Christchurch Viewpoint",
+                  "text": "A high point near Christchurch that offers sweeping views over the city and the Bristol Channel.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allt-yr-yn Nature Reserve",
+                  "text": "A wildlife haven on the site of a former swimming pool, featuring woodland, ponds, and streams.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "A Victorian Gothic church built in the 1840s to serve the city's growing Catholic community.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alexandra Dock",
+                  "text": "The historic south dock of Newport, once a vital hub for the international export of Welsh coal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Waterloo Hotel",
+                  "text": "A Grade II listed Victorian pub and hotel known for its distinctive ceramic tiling and architecture.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Wave",
+                  "text": "A prominent stainless steel sculpture near the river, symbolising the maritime heritage of the city.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-preston-cities-v2", population: 141801,
@@ -1262,6 +8270,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Fundação da Preston Guild: 1179", "Primeiro local fora de Londres com iluminação a gás", "Sede da University of Central Lancashire", "Importante nó ferroviário desde 1838"],
       fr: ["Fondation de la Preston Guild : 1179", "Premier lieu en dehors de Londres avec éclairage au gaz", "Siège de l'University of Central Lancashire", "Important carrefour ferroviaire depuis 1838"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Harris Museum",
+                  "text": "Ein spektakuläres denkmalgeschütztes Gebäude mit Museum, Kunstgalerie und Bibliothek sowie ägyptischen Sammlungen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Minster",
+                  "text": "Die Hauptpfarrkirche von Preston, dem Heiligen Johannes gewidmet, mit schöner Glasmalerei und Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Walburge Kirche",
+                  "text": "Berühmt für den höchsten Kirchturm einer englischen Pfarrkirche, ist dieses neugotische Meisterwerk ein Wahrzeichen.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avenham Park",
+                  "text": "Ein atemberaubender viktorianischer Park in einem natürlichen Amphitheater am Ufer des Flusses Ribble.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miller Park",
+                  "text": "Ein formaler viktorianischer Park neben dem Avenham Park mit einem prächtigen Brunnen und italienischer Gestaltung.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Guild Hall",
+                  "text": "Ein bedeutender Veranstaltungsort für Konzerte und Shows sowie Zentrum der historischen Preston Guild Feierlichkeiten.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deepdale Stadion",
+                  "text": "Heimat von Preston North End, einem Gründungsmitglied der Football League, und ein historischer Sportort.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ribble Dampfeisenbahn",
+                  "text": "Eine Museumseisenbahn an den Preston Docks, die Fahrten mit Dampfzügen und industrielle Exponate bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Busbahnhof Preston",
+                  "text": "Ein weltberühmtes Beispiel brutalistischer Architektur, bekannt für seine geschwungenen Betonlamellen.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winckley Square",
+                  "text": "Eines der feinsten Beispiele eines georgianischen Platzes in Nordengland, umgeben von historischen Gebäuden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Kenotaph",
+                  "text": "Ein markantes Kriegsdenkmal am Flag Market, entworfen von Sir Giles Gilbert Scott zum Gedenken an die Gefallenen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum von Lancashire",
+                  "text": "In einem ehemaligen Gerichtsgebäude untergebracht, erkundet dieses Museum die reiche Geschichte der Grafschaft.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Ribble",
+                  "text": "Der historische Fluss, der durch den Süden der Stadt fließt und schöne Spazierwege am Wasser bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Wilfrid Kirche",
+                  "text": "Eine bemerkenswerte Jesuitenkirche im Stadtzentrum, bekannt für ihre überaus prunkvolle Innenausstattung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Markt",
+                  "text": "Verfügt über einen prächtigen viktorianischen Glasüberdachten Außenmarkt und eine moderne Markthalle.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fishergate",
+                  "text": "Die Haupteinkaufsstraße der Stadt, die bereits seit dem Mittelalter ein zentraler Durchgangsweg ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "UCLan Campus",
+                  "text": "Der Hauptstandort der University of Central Lancashire mit modernen akademischen Gebäuden und studentischen Zentren.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lancashire Infanteriemuseum",
+                  "text": "Das größte Regimentsmuseum im Nordwesten, das die Geschichte der Soldaten aus Lancashire detailliert darstellt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moor Park",
+                  "text": "Prestons ältester und größter öffentlicher Park, der für viele Großveranstaltungen und Sport genutzt wird.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haslam Park",
+                  "text": "Ein schöner edwardianischer Park mit einem See, Rosengärten und einer Lindenallee nahe dem Lancaster-Kanal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bahnhof Preston",
+                  "text": "Ein wichtiger Knotenpunkt an der West Coast Main Line mit beeindruckender viktorianischer Eisenbahnarchitektur.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Continental",
+                  "text": "Ein historisches Pub und Kulturzentrum am Flussufer, bekannt für Kulturveranstaltungen, Kino und Live-Musik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sessions House",
+                  "text": "Ein prächtiges Gebäude im Neobarockstil, das als Gerichtsgebäude dient und Prestons administrative Bedeutung zeigt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwood Kasernen",
+                  "text": "Eine historische Militäranlage, die bis heute ein aktiver Stützpunkt ist und das Infanteriemuseum beherbergt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Docks",
+                  "text": "Einst einer der größten Binnenhäfen Europas, heute ein lebendiges Marina-Viertel mit Geschäften und Restaurants.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harris Múzeum",
+                  "text": "Látványos műemlék épület, amely múzeumnak, művészeti galériának és könyvtárnak ad otthont, egyiptomi gyűjteménnyel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prestoni székesegyház",
+                  "text": "Preston fő plébániatemploma, amelyet János evangélistának szenteltek, gyönyörű ólomüveg ablakokkal és építészettel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Walburge-templom",
+                  "text": "Anglia legmagasabb plébániatemplomi tornyáról híres; ez a gótikus újjászületési remekmű Preston egyik jelképe.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avenham Park",
+                  "text": "Lenyűgöző viktoriánus park egy természetes amfiteátrumban, a Ribble-folyó partján.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miller Park",
+                  "text": "Az Avenham Park melletti formális viktoriánus park szökőkúttal és olaszos tájépítészeti elemekkel.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Guild Hall",
+                  "text": "Jelentős szórakoztató központ, amely koncerteknek, előadásoknak és a történelmi Preston Guild ünnepségeknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deepdale Stadion",
+                  "text": "A Preston North End F.C. otthona, amely a futball-liga egyik alapító tagja és történelmi sporthelyszín.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ribble gőzvasút",
+                  "text": "Nosztalgiavasút és múzeum a prestoni dokkoknál, gőzmozdonyos utazásokkal és ipari kiállításokkal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prestoni autóbusz-állomás",
+                  "text": "A brutalista építészet világhírű példája, amely íves betonfelületeiről és hatalmas méretéről ismert.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winckley Square",
+                  "text": "Észak-Anglia egyik legszebb György-kori tere, amelyet történelmi irodaépületek vesznek körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prestoni cenotáfium",
+                  "text": "Kiemelkedő háborús emlékmű a Flag Marketen, amelyet Sir Giles Gilbert Scott tervezett az elesettek tiszteletére.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lancashire-i Múzeum",
+                  "text": "Egy egykori bírósági épületben elhelyezett múzeum, amely a megye gazdag történelmét és lakóit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ribble-folyó",
+                  "text": "A város déli részén átfolyó történelmi folyó, amely mentén szép sétányok és természeti tájak találhatók.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Wilfrid-templom",
+                  "text": "Nevezetes jezsuita templom a városközpontban, amely rendkívül díszes belső teréről és márványmunkáiról ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prestoni piac",
+                  "text": "Pompás viktoriánus üvegtetős szabadtéri piacot és egy modern fedett vásárcsarnokot foglal magában.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fishergate",
+                  "text": "A város fő bevásárlóutcája, amely a középkor óta Preston elsődleges közlekedési és kereskedelmi útvonala.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "UCLan kampusz",
+                  "text": "A Közép-Lancashire-i Egyetem fő telephelye modern tudományos épületekkel és hallgatói központokkal.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lancashire-i Gyalogsági Múzeum",
+                  "text": "Az északnyugati régió legnagyobb ezredmúzeuma, amely a lancashire-i katonák történetét részletezi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moor Park",
+                  "text": "Preston legrégebbi és legnagyobb nyilvános parkja, számos nagyszabású esemény és sportrendezvény helyszíne.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haslam Park",
+                  "text": "Gyönyörű edárdi kori park tóval, rózsakertekkel és hársfasétánnyal a Lancaster-csatorna közelében.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston vasútállomás",
+                  "text": "A West Coast Main Line fontos csomópontja lenyűgöző viktoriánus és modern vasúti építészettel.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Continental",
+                  "text": "Történelmi folyóparti pub és művészeti helyszín, amely kulturális eseményeiről és élő zenéjéről ismert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sessions House",
+                  "text": "Hatalmas neobarokk épület, amely bíróságként szolgál, és Preston adminisztratív fontosságát jelképezi.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwood laktanya",
+                  "text": "Történelmi katonai létesítmény, amely ma is aktív bázisként működik és a gyalogsági múzeumnak ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prestoni dokkok",
+                  "text": "Egykor Európa egyik legnagyobb szárazföldi kikötője volt, ma vibráló marina negyed üzletekkel és éttermekkel.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Harris",
+                  "text": "O clădire spectaculoasă ce găzduiește un muzeu, o galerie de artă și o bibliotecă cu colecții egiptene.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Minster",
+                  "text": "Principala biserică parohială din Preston, dedicată Sfântului Ioan Evanghelistul, cu vitralii frumoase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Walburge",
+                  "text": "Faimoasă pentru cel mai înalt turn de biserică parohială din Anglia, această capodoperă neogotică este un simbol.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Avenham",
+                  "text": "Un parc victorian uimitor situat într-un amfiteatru natural pe malul râului Ribble.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Miller",
+                  "text": "Un parc victorian formal adiacent Parcului Avenham, cu o fântână grandioasă și peisaj italian.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Guild Hall",
+                  "text": "Complex major de divertisment care găzduiește concerte, spectacole și celebrările istorice Preston Guild.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Deepdale",
+                  "text": "Casa Preston North End F.C., unul dintre membrii fondatori ai Ligii de Fotbal și un sit sportiv istoric.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calea ferată cu abur Ribble",
+                  "text": "Cale ferată istorică și muzeu situat în docurile Preston, oferind plimbări cu trenul cu abur.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Autogara Preston",
+                  "text": "Un exemplu de renume mondial de arhitectură brutalistă, faimoasă pentru aripioarele sale curbe de beton.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Winckley",
+                  "text": "Unul dintre cele mai bune exemple de piață georgiană din nordul Angliei, înconjurată de birouri istorice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cenotaful din Preston",
+                  "text": "Un monument de război proeminent în Flag Market, proiectat de Sir Giles Gilbert Scott pentru a onora eroii.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul din Lancashire",
+                  "text": "Găzduit într-un fost tribunal, acest muzeu explorează istoria bogată și oamenii comitatului prin epoci.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Râul Ribble",
+                  "text": "Râul istoric care curge prin sudul orașului, oferind plimbări frumoase pe malul apei și peisaje naturale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Wilfrid",
+                  "text": "O biserică iezuită notabilă din centrul orașului, cunoscută pentru interiorul său incredibil de ornamentat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Preston",
+                  "text": "Include o piață în aer liber magnifică cu baldachin victorian din sticlă și o hală modernă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fishergate",
+                  "text": "Principala stradă comercială a orașului, care a fost o arteră primară încă din perioada medievală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campusul UCLan",
+                  "text": "Situl principal al Universității Central Lancashire, cu clădiri academice moderne și hub-uri studențești.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Infanteriei din Lancashire",
+                  "text": "Cel mai mare muzeu regimental din Nord-Vest, detaliind istoria soldaților din Lancashire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Moor",
+                  "text": "Cel mai vechi și mai mare parc public din Preston, gazdă pentru multe evenimente la scară largă.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Haslam",
+                  "text": "Un parc edwardian frumos, cu un lac, grădini de trandafiri și o alee de tei lângă Canalul Lancaster.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Preston",
+                  "text": "Un nod major pe linia principală West Coast, cu arhitectură feroviară victoriană și modernă impresionantă.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Continental",
+                  "text": "Un pub istoric pe malul râului și loc de artă cunoscut pentru evenimente culturale și muzică live.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sessions House",
+                  "text": "O clădire neobarocă grandioasă folosită ca tribunal, simbol al importanței administrative a orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cazarmele Fulwood",
+                  "text": "O instalație militară istorică care rămâne o bază activă și găzduiește muzeul infanteriei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Docurile Preston",
+                  "text": "Cândva unul dintre cele mai mari docuri interioare din Europa, acum o zonă de marină vibrantă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harris Museum",
+                  "text": "A spectacular Grade I listed building housing a museum, art gallery, and library with Egyptian collections.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Minster",
+                  "text": "The main parish church of Preston, dedicated to St John the Evangelist, featuring beautiful stained glass.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Walburge's Church",
+                  "text": "Famous for having the tallest parish church spire in England, this Gothic Revival masterpiece is a Preston icon.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Avenham Park",
+                  "text": "A stunning Victorian park designed by Edward Milner, located in a natural amphitheatre by the River Ribble.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miller Park",
+                  "text": "A formal Victorian park adjacent to Avenham Park, featuring a grand fountain and Italianate landscaping.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Guild Hall",
+                  "text": "A major entertainment complex that hosts concerts, shows, and the historic Preston Guild celebrations.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deepdale Stadium",
+                  "text": "The home of Preston North End F.C., one of the founding members of the Football League and a historic sports site.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ribble Steam Railway",
+                  "text": "A heritage railway and museum located at Preston Docks, offering steam train rides and industrial exhibits.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Bus Station",
+                  "text": "A world-renowned example of Brutalist architecture, famous for its curved concrete fins and massive scale.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winckley Square",
+                  "text": "One of the finest examples of a Georgian square in Northern England, surrounded by historic professional offices.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Cenotaph",
+                  "text": "A prominent war memorial in the Flag Market, designed by Sir Giles Gilbert Scott to honour the fallen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Lancashire",
+                  "text": "Housed in a former courthouse, this museum explores the rich history and people of the county through the ages.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Ribble",
+                  "text": "The historic river flowing through the south of the city, providing beautiful riverside walks and natural scenery.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Wilfrid's Church",
+                  "text": "A notable Jesuit church in the city centre known for its incredibly ornate interior and marble work.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Market",
+                  "text": "Features a magnificent Victorian glass-canopied outdoor market alongside a modern indoor market hall.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fishergate",
+                  "text": "The city's main shopping street, which has been a primary thoroughfare since medieval times.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "UCLan Campus",
+                  "text": "The University of Central Lancashire's main site, featuring modern academic buildings and student hubs.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lancashire Infantry Museum",
+                  "text": "The largest regimental museum in the North West, detailing the history of Lancashire's soldiers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moor Park",
+                  "text": "Preston's oldest and largest public park, Grade II listed and host to many large-scale events and sports.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Haslam Park",
+                  "text": "A beautiful Edwardian park featuring a lake, rose gardens, and a lime tree avenue near the Lancaster Canal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Railway Station",
+                  "text": "A major hub on the West Coast Main Line, featuring impressive Victorian and modern rail architecture.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Continental",
+                  "text": "A historic riverside pub and arts venue known for its cultural events, cinema, and live music.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sessions House",
+                  "text": "A grand neo-baroque building used as a courthouse, standing as a symbol of Preston's administrative importance.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwood Barracks",
+                  "text": "A historic military installation that remains an active base and houses the infantry museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Preston Docks",
+                  "text": "Once one of the largest inland docks in Europe, now a vibrant marina area with shops, homes, and dining.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-sunderland-cities-v2", population: 294000,
@@ -1309,6 +8927,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Antigo maior centro de construção naval do mundo", "Sede da fábrica da Nissan (a maior do Reino Unido)", "Lar do National Glass Centre", "O Stadium of Light tem 49.000 lugares"],
       fr: ["Ancien plus grand centre de construction navale au monde", "Siège de l'usine Nissan (la plus grande du Royaume-Uni)", "Siège du National Glass Centre", "Le Stadium of Light compte 49 000 places"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Penshaw Monument",
+                  "text": "Ein 1844 erbauter dorischer Tempel auf einem Hügel, der Lord Durham gewidmet ist und weithin sichtbar über der Stadt thront.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Museum and Winter Gardens",
+                  "text": "Dieses Museum zeigt lokale Geschichte und Naturkunde sowie einen beeindruckenden Glashaus-Garten mit exotischen Pflanzen.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Glass Centre",
+                  "text": "Ein zeitgenössisches Kulturzentrum, das die lange Glastradition Sunderlands feiert und Glasbläser-Vorführungen anbietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Peter's Church, Monkwearmouth",
+                  "text": "Eine der ältesten Kirchen Englands, die im Jahr 674 n. Chr. gegründet wurde und Teil eines bedeutenden Klosters war.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hylton Castle",
+                  "text": "Eine imposante Burgruine aus dem 14. Jahrhundert mit einer reich verzierten Fassade und Wappen der Familie Hylton.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roker Pier and Lighthouse",
+                  "text": "Ein markanter Leuchtturm und eine lange Mole, die Schutz für den Hafen bieten und beliebte Orte für Spaziergänge sind.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Die moderne Heimat des Sunderland AFC, erbaut auf dem Gelände einer ehemaligen Zeche, bietet Platz für fast 49.000 Fans.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "Ein wunderschöner viktorianischer Stadtpark mit Statuen, einem See und Verbindungen zum Schriftsteller Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwell Windmill",
+                  "text": "Die einzige funktionstüchtige Windmühle im Nordosten Englands, die 1808 erbaut wurde und heute ein Museum ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Empire Theatre",
+                  "text": "Ein prächtiges Theater im edwardianischen Stil, bekannt für große West End Produktionen und seine reiche Geschichte.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keel Square",
+                  "text": "Ein moderner öffentlicher Platz im Stadtzentrum, der das maritime Erbe und den Schiffbau der Region würdigt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "Die historische Stadtpfarrkirche, die im Jahr 930 n. Chr. gegründet wurde und heute ein wichtiges geistliches Zentrum ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wearmouth Bridge",
+                  "text": "Eine ikonische Eisenbrücke über den Fluss Wear, die das Stadtzentrum mit dem nördlichen Teil Sunderlands verbindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "Ein friedlicher Naturpark, der für seine alten Bäume und die jährliche Osterglockenblüte bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "Ein weitläufiger Park auf ehemaligem Bergbaugelände, ideal für Wanderungen und mit Blick auf das Penshaw Monument.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "Ein beliebter Familienpark mit Spielplätzen, einem Ententeich und renovierten viktorianischen Merkmalen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Northern Gallery for Contemporary Art",
+                  "text": "Diese Galerie zeigt innovative Werke moderner Künstler und befindet sich im National Glass Centre.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ryhope Engines Museum",
+                  "text": "Ein viktorianisches Pumpwerk mit zwei riesigen Dampfmaschinen, die noch heute zu besonderen Anlässen in Betrieb sind.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Eine georgianische Kirche im alten Stadtkern, die heute als Kultur- und Veranstaltungszentrum genutzt wird.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cliffe Park",
+                  "text": "Ein Küstenpark in Seaburn mit weitem Blick auf die Nordsee, oft Austragungsort für das jährliche Sunderland Airshow.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seafront Sculpture Trail",
+                  "text": "Ein Pfad entlang der Küste mit verschiedenen Kunstwerken, die die maritime Geschichte Sunderlands darstellen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University of Sunderland",
+                  "text": "Die Universität prägt das Stadtbild mit modernen Campusgebäuden am Flussufer und im Stadtzentrum.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "Das Herrenhaus aus dem 17. Jahrhundert war der Stammsitz der Vorfahren von George Washington, dem ersten US-Präsidenten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bowes Railway",
+                  "text": "Eine historische Seilbahn-Eisenbahn, die einst Kohle transportierte und heute als Museumsbahn erhalten bleibt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Station",
+                  "text": "Der zentrale Bahnhof der Stadt, der eine wichtige Verbindung nach Newcastle und London bietet.",
+                  "category": "station",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Penshaw-emlékmű",
+                  "text": "Egy 1844-ben épült dór templomutánzat egy dombtetőn, amely Lord Durham emlékére készült és messziről látható.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Múzeum és Télikert",
+                  "text": "Ez a múzeum a helyi történelmet mutatja be, mellette egy lenyűgöző üvegházzal, ahol egzotikus növények élnek.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nemzeti Üvegközpont",
+                  "text": "Kortárs kulturális központ, amely Sunderland híres üveggyártási múltját mutatja be bemutatókkal és kiállításokkal.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-templom, Monkwearmouth",
+                  "text": "Anglia egyik legrégebbi temploma, amelyet 674-ben alapítottak, és egykor egy fontos kolostor része volt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hylton-kastély",
+                  "text": "Egy 14. századi várkastély romja, amely gazdagon díszített homlokzatáról és a Hylton család címereiről ismert.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roker móló és világítótorony",
+                  "text": "A kikötőt védő hosszú móló és a jellegzetes világítótorony a város egyik legnépszerűbb sétahelyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "A Sunderland AFC otthona, amelyet egy egykori szénbánya helyén építettek, és közel 49 000 néző befogadására alkalmas.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "Viktoriánus stílusú városi park szobrokkal, tóval, amely Lewis Carroll íróhoz is több szállal kötődik.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwell szélmalom",
+                  "text": "Északkelet-Anglia egyetlen működőképes szélmalma, amely 1808-ban épült, és ma múzeumként látogatható.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Empire Színház",
+                  "text": "Pompás edwardi stílusú színház, amely híres a nagy West End produkcióiról és gazdag történelméről.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keel tér",
+                  "text": "Modern közösségi tér a városközpontban, amely a régió hajóépítő múltjának és tengerészeti örökségének állít emléket.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "A város történelmi plébániatemploma, amelyet 930-ban alapítottak, és ma is fontos lelki és közösségi központ.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wearmouth-híd",
+                  "text": "Ikonikus vashíd a Wear folyó felett, amely összeköti a városközpontot Sunderland északi részével.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "Békés természetvédelmi park, amely hatalmas régi fáiról és a tavaszi nárciszvirágzásról híres.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "Egykori bánya területén kialakított tágas park, amely kiváló túrázásra és rálátást nyújt a Penshaw-emlékműre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "Népszerű családi park játszóterekkel, kacsás tóval és szépen felújított viktoriánus elemekkel.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Északi Kortárs Művészeti Galéria",
+                  "text": "Ez a galéria innovatív modern művészek munkáit mutatja be, a Nemzeti Üvegközpont épületében található.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ryhope Engines Múzeum",
+                  "text": "Viktoriánus szivattyútelep két hatalmas gőzgéppel, amelyeket ünnepi alkalmakkor ma is beindítanak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "György-kori templom a régi városközpontban, amelyet ma kulturális rendezvényhelyszínként használnak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cliffe Park",
+                  "text": "Tengerparti park Seaburn-nél, ahonnan remek kilátás nyílik az Északi-tengerre, gyakran ad helyet repülőnapoknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tengerparti Szoborút",
+                  "text": "A part mentén haladó útvonal, amely különböző alkotásokon keresztül mutatja be Sunderland tengeri múltját.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Egyetem",
+                  "text": "Az egyetem modern épületei meghatározzák a folyóparti és a belvárosi városképet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "17. századi udvarház, amely George Washington, az első amerikai elnök őseinek családi fészke volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bowes Vasút",
+                  "text": "Történelmi kötélpályás vasút, amely egykor szenet szállított, ma pedig múzeumvasútként üzemel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Vasútállomás",
+                  "text": "A város központi vasúti csomópontja, amely fontos kapcsolatot biztosít Newcastle és London felé.",
+                  "category": "station",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Penshaw",
+                  "text": "Un templu doric construit în 1844 pe un deal, dedicat Lordului Durham și vizibil de la mare distanță deasupra orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Sunderland și Grădinile de Iarnă",
+                  "text": "Acest muzeu prezintă istoria locală și istoria naturală, alături de o grădină botanică impresionantă sub sticlă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul Național al Sticlei",
+                  "text": "Un centru cultural contemporan care celebrează tradiția îndelungată a sticlăriei din Sunderland prin expoziții și demonstrații.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Petru, Monkwearmouth",
+                  "text": "Una dintre cele mai vechi biserici din Anglia, fondată în anul 674 d.Hr., parte a unei mănăstiri anglo-saxone importante.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Hylton",
+                  "text": "O ruină impunătoare de castel din secolul al XIV-lea, cunoscută pentru fațada sa decorată cu blazoanele familiei Hylton.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Digul și Farul Roker",
+                  "text": "Un far distinctiv și un dig lung care oferă protecție portului, fiind locuri populare pentru plimbări pe malul mării.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Casa clubului de fotbal Sunderland AFC, construită pe locul unei foste mine de cărbune, cu o capacitate de aproape 49.000 de locuri.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Mowbray",
+                  "text": "Un parc orășenesc victorian frumos, cu statui, un lac și legături cu scriitorul Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moara de vânt Fulwell",
+                  "text": "Singura moară de vânt funcțională din nord-estul Angliei, construită în 1808 și transformată astăzi în muzeu.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Empire Sunderland",
+                  "text": "Un teatru magnific în stil eduardian, renumit pentru marile producții West End și istoria sa culturală bogată.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Keel",
+                  "text": "O piață publică modernă în centrul orașului, care onorează patrimoniul maritim și tradiția construcțiilor navale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "Biserica parohială istorică a orașului, fondată în anul 930 d.Hr., care servește astăzi ca centru spiritual central.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Wearmouth",
+                  "text": "Un pod de fier iconic peste râul Wear, care face legătura între centrul orașului și partea de nord a regiunii Sunderland.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Backhouse",
+                  "text": "Un parc liniștit, renumit pentru arborii săi seculari și spectacolul oferit de narcisele înflorite în fiecare primăvară.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Herrington Country",
+                  "text": "Un parc vast amenajat pe terenul unei foste mine, ideal pentru drumeții și cu vedere spre Monumentul Penshaw.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Barnes",
+                  "text": "Un parc popular pentru familii, dotat cu locuri de joacă, un iaz cu rațe și elemente victoriene restaurate.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Nord pentru Artă Contemporană",
+                  "text": "Această galerie expune lucrări inovatoare ale artiștilor moderni, fiind situată în incinta Centrului Național al Sticlei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Motoarelor Ryhope",
+                  "text": "O stație de pompare victoriană cu două motoare cu aburi gigantice, care sunt puse în funcțiune la ocazii speciale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "O biserică georgiană situată în centrul vechi al orașului, utilizată în prezent ca centru pentru evenimente culturale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Cliffe",
+                  "text": "Un parc de pe coastă în Seaburn, cu vederi largi spre Marea Nordului, gazdă frecventă pentru spectacole aviatice.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul Sculpturilor de pe Coastă",
+                  "text": "Un traseu de-a lungul mării punctat de diverse opere de artă care relatează istoria maritimă a orașului Sunderland.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universitatea din Sunderland",
+                  "text": "Universitatea definește peisajul urban cu campusuri moderne pe malul râului și în centrul orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "Un conac din secolul al XVII-lea care a fost casa strămoșilor lui George Washington, primul președinte al SUA.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calea Ferată Bowes",
+                  "text": "O cale ferată istorică cu cablu, folosită în trecut pentru transportul cărbunelui, păstrată acum ca muzeu feroviar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Sunderland",
+                  "text": "Nodul feroviar central al orașului, oferind conexiuni esențiale spre Newcastle și Londra.",
+                  "category": "station",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Penshaw Monument",
+                  "text": "A 1844 Doric temple built on a hill, dedicated to Lord Durham and visible for miles across the city skyline.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Museum and Winter Gardens",
+                  "text": "This museum showcases local and natural history alongside a stunning indoor botanical garden under glass.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Glass Centre",
+                  "text": "A contemporary cultural venue celebrating Sunderland's long glassmaking heritage with displays and demonstrations.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Peter's Church, Monkwearmouth",
+                  "text": "One of the oldest churches in England, founded in 674 AD, once part of a major Anglo-Saxon monastery.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hylton Castle",
+                  "text": "The imposing ruins of a 14th-century gatehouse castle featuring an ornate facade with the Hylton family coats of arms.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roker Pier and Lighthouse",
+                  "text": "A distinctive lighthouse and long stone pier protecting the harbor, popular for coastal walks and sea views.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Home of Sunderland AFC, built on the site of a former coal mine, with a capacity of nearly 49,000 fans.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "A beautiful Victorian city park featuring statues, a lake, and local links to the writer Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fulwell Windmill",
+                  "text": "The only working windmill in North East England, built in 1808 and now operating as a historic museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Empire Theatre",
+                  "text": "A grand Edwardian-style theatre renowned for hosting major West End productions and its rich performing arts history.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Keel Square",
+                  "text": "A modern public space in the city center honoring the region's shipbuilding legacy and maritime heritage.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "The city's historic parish church, founded in 930 AD, serving today as a central spiritual and community hub.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wearmouth Bridge",
+                  "text": "An iconic iron bridge spanning the River Wear, connecting the city center with the northern parts of Sunderland.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "A peaceful nature park known for its mature trees and beautiful display of daffodils every spring.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "A vast park developed on former colliery land, ideal for hiking and offering views of the Penshaw Monument.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "A popular family park with play areas, a duck pond, and beautifully restored Victorian landscaping features.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Northern Gallery for Contemporary Art",
+                  "text": "This gallery presents innovative works by modern artists, located within the National Glass Centre building.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ryhope Engines Museum",
+                  "text": "A Victorian pumping station with two giant steam engines that are still operated on special steaming days.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A Georgian church in the old town area, now used as a cultural venue for heritage and community events.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cliffe Park",
+                  "text": "A coastal park at Seaburn with wide views of the North Sea, often hosting major events like the Sunderland Airshow.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Seafront Sculpture Trail",
+                  "text": "A coastal path featuring various artworks and installations that tell the story of Sunderland's maritime past.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University of Sunderland",
+                  "text": "The university shapes the cityscape with modern riverside and city center campuses and educational facilities.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "A 17th-century manor house that was the ancestral home of George Washington, the first US president.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bowes Railway",
+                  "text": "A historic rope-hauled railway used for coal transport, now preserved as an industrial heritage museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sunderland Station",
+                  "text": "The city's central railway hub, providing vital rail links to Newcastle, London, and the wider region.",
+                  "category": "station",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-gloucester-cities-v2", population: 145563,
@@ -1356,6 +9584,736 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Túmulo do rei Eduardo II na catedral", "Cenário do cerco de 1643", "Porto interior mais antigo da Grã-Bretanha", "Local de filmagem de Harry Potter"],
       fr: ["Tombe du roi Édouard II dans la cathédrale", "Lieu du siège de 1643", "Plus ancien port intérieur de Grande-Bretagne", "Lieu de tournage de Harry Potter"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Gloucester Cathedral",
+                  "text": "Ein prächtiges gotisches Meisterwerk, in dem König Edward II. begraben liegt und Teile der Harry-Potter-Filme gedreht wurden.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Docks",
+                  "text": "Der am weitesten im Landesinneren gelegene Hafen Großbritanniens mit viktorianischen Lagerhäusern und lebhafter Atmosphäre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterways Museum",
+                  "text": "In einem historischen Lagerhaus untergebracht, erzählt dieses Museum die faszinierende Geschichte der britischen Kanäle.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soldiers of Gloucestershire Museum",
+                  "text": "Erforscht die heldenhafte Geschichte der lokalen Regimenter durch persönliche Geschichten, Uniformen und militärische Artefakte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Oswald's Priory",
+                  "text": "Die Ruinen eines mittelalterlichen Klosters, das 900 n. Chr. von Aethelflaed, der Tochter Alfreds des Großen, gegründet wurde.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Priory",
+                  "text": "Die stimmungsvollen Überreste eines Franziskanerklosters aus dem 13. Jahrhundert mit beeindruckendem mittelalterlichem Mauerwerk.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars Priory",
+                  "text": "Eines der am besten erhaltenen Dominikanerklöster Englands mit einer seltenen Bibliothek aus dem 13. Jahrhundert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kingsholm Stadium",
+                  "text": "Ein weltberühmtes Rugby-Stadion und die Heimat von Gloucester Rugby, bekannt für seine leidenschaftliche Atmosphäre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robinswood Hill",
+                  "text": "Ein großer Landschaftspark, der über der Stadt aufragt und eine unglaubliche Aussicht über das Severn-Tal bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tailor of Gloucester House",
+                  "text": "Ein charmantes Museum und Geschäft, das der berühmten Geschichte von Beatrix Potter gewidmet ist, nahe der Kathedrale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Crypt",
+                  "text": "Historische Kirche, in der George Whitefield, der große Prediger des 18. Jahrhunderts, getauft wurde und predigte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Guildhall",
+                  "text": "Ein lebendiger kultureller Veranstaltungsort in einem prächtigen viktorianischen Gebäude mit Kino und Live-Musik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Folk of Gloucester",
+                  "text": "Ein Museum für Sozialgeschichte in zwei Tudor-Häusern, das das Leben der Einheimischen über Jahrhunderte zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Quays",
+                  "text": "Ein stilvolles Outlet-Einkaufszentrum im Herzen der historischen Docks mit vielen Cafés, Bars und modernen Geschäften.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llanthony Secunda Priory",
+                  "text": "Die Ruinen eines 1136 gegründeten Augustinerklosters mit einer restaurierten Zehntscheune und friedlichen Grünflächen.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alney Island",
+                  "text": "Ein einzigartiges Naturschutzgebiet am Fluss Severn, bekannt für seine Auen und die vielfältige Population von Watvögeln.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Cross",
+                  "text": "Das historische Herz der Stadt, wo sich die vier römischen Hauptstraßen treffen, heute durch eine Plakette markiert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scriven's Conduit",
+                  "text": "Ein dekoratives steinernes Wasserleitungsgebäude aus dem 17. Jahrhundert, das heute in den ruhigen Hillfield Gardens steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robert Raikes' House",
+                  "text": "Das ehemalige Fachwerkhaus des Gründers der Sonntagsschulbewegung, das heute als beliebtes lokales Pub dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eastgate Viewing Chamber",
+                  "text": "Eine unterirdische Anlage, in der Besucher die Überreste der römischen Stadtmauern und das mittelalterliche Osttor sehen können.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Inn",
+                  "text": "Ein bemerkenswertes Pilgergasthaus aus dem 15. Jahrhundert mit einem hölzernen Galeriehof, das immer noch als Hotel betrieben wird.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Over Bridge",
+                  "text": "Eine historische Steinbogenbrücke, die vom berühmten Ingenieur Thomas Telford entworfen wurde, um den Fluss Severn zu überqueren.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas' Church",
+                  "text": "Eine mittelalterliche Kirche, die für ihre verkürzte Turmspitze und ihre Geschichte als Gebetsort der Kaufmannsschicht bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillfield Gardens",
+                  "text": "Ein viktorianischer Garten mit versetzten historischen Denkmälern und seltenen Bäumen, abseits der belebten Stadtstraßen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Room",
+                  "text": "Eine historische Halle, in der König Richard II. im Jahr 1378 ein Parlament abhielt, was die Bedeutung der Stadt zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariners' Church",
+                  "text": "Eine markante Kapelle aus der Mitte des 19. Jahrhunderts, die für die geistlichen Bedürfnisse der Seeleute gebaut wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hempsted Houses",
+                  "text": "Eine Gruppe historischer Anwesen im malerischen Dorf Hempsted, die einen Blick in die ländliche Umgebung der Stadt bieten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Lode",
+                  "text": "Gilt als Standort der ersten christlichen Kirche von Gloucester, erbaut über den Überresten eines antiken römischen Bades.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Museum",
+                  "text": "Ein Museum mit bedeutenden archäologischen Funden aus der Zeit des römischen Glevum bis zum heutigen Gloucestershire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great Western Railway Museum",
+                  "text": "Eine kleine Sammlung zum kulturellen Erbe, die dem Einfluss der Eisenbahn auf die Region Gloucester gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gloucester Cathedral",
+                  "text": "Pompás gótikus remekmű, ahol II. Eduárd király nyugszik, és ahol a Harry Potter-filmek több jelenetét is forgatták.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Docks",
+                  "text": "Nagy-Britannia legmélyebben fekvő szárazföldi kikötője, gyönyörűen felújított viktoriánus raktárépületekkel és élénk hangulattal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterways Museum",
+                  "text": "Egy történelmi raktárban található múzeum, amely a brit csatornák és folyami hajózás lenyűgöző történetét meséli el.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soldiers of Gloucestershire Museum",
+                  "text": "A helyi ezredek hősies történetét mutatja be személyes tárgyakon, egyenruhákon és katonai emlékeken keresztül.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Oswald's Priory",
+                  "text": "Egy középkori kolostor romjai, amelyet 900-ban alapított Aethelflaed, Nagy Alfréd lánya a királyi ereklyék őrzésére.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Priory",
+                  "text": "Egy 13. századi ferences kolostor hangulatos maradványai, amelyek lenyűgöző középkori kőművesmunkát mutatnak be.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars Priory",
+                  "text": "Anglia egyik legjobb állapotban fennmaradt dominikánus kolostora, ritka 13. századi könyvtárral és szép kerttel.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kingsholm Stadium",
+                  "text": "Világhírű rögbi pálya és a Gloucester Rugby otthona, amely szenvedélyes hangulatáról és hűséges szurkolóiról ismert.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robinswood Hill",
+                  "text": "A város fölé magasodó hatalmas park, amely 250 hektárnyi területet és lenyűgöző kilátást kínál a Severn-völgyre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tailor of Gloucester House",
+                  "text": "Bájos múzeum és üzlet, amelyet Beatrix Potter híres történetének szenteltek, közel a katedrális nyugati kapujához.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Crypt",
+                  "text": "Történelmi templom, ahol George Whitefieldet, a híres 18. századi prédikátort megkeresztelték és ahol beszédeit tartotta.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Guildhall",
+                  "text": "Élénk kulturális helyszín egy díszes viktoriánus épületben, mozival, élőzenével és különféle művészeti műhelyekkel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Folk of Gloucester",
+                  "text": "Társadalomtörténeti múzeum két lenyűgöző Tudor és Jakab-kori házban, bemutatva a helyiek életét az évszázadok során.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Quays",
+                  "text": "Stílusos outlet bevásárlóközpont a történelmi kikötő szívében, számos kávézóval, bárral és modern üzlettel várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llanthony Secunda Priory",
+                  "text": "Az 1136-ban alapított Ágoston-rendi kolostor romjai, felújított dézsma-pajtával és békés zöldfelületekkel a város szélén.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alney Island",
+                  "text": "Egyedülálló természetvédelmi terület a Severn-folyón, amely ártéri területeiről és változatos vízimadár-állományáról híres.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Cross",
+                  "text": "A város történelmi szíve, ahol a négy fő római kori út találkozik, ma egy emléktábla jelzi a pontos helyszínt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scriven's Conduit",
+                  "text": "Díszes 17. századi kővezeték, amely egykor vízzel látta el a várost, ma a csendes Hillfield Gardens területén áll.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robert Raikes' House",
+                  "text": "A vasárnapi iskolai mozgalom alapítójának egykori favázas otthona, amely ma népszerű helyi pubként működik a városban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eastgate Viewing Chamber",
+                  "text": "Föld alatti helyszín, ahol a látogatók megtekinthetik a római városfalak és a középkori keleti kaputorony maradványait.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Inn",
+                  "text": "Figyelemre méltó 15. századi zarándokfogadó fagerendás udvarral, amely még ma is szállodaként és pubként üzemel.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Over Bridge",
+                  "text": "Történelmi kőboltozatos híd, amelyet a híres mérnök, Thomas Telford tervezett a Severn-folyón való átkeléshez.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas' Church",
+                  "text": "Középkori templom, amely csonka tornyáról és a városi kereskedőréteg egykori imaházaként betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillfield Gardens",
+                  "text": "Viktoriánus kert áthelyezett történelmi emlékművekkel, ritka fákkal és békés ösvényekkel a forgalmas utcáktól távol.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Room",
+                  "text": "Történelmi csarnok, ahol II. Richárd király parlamentet tartott 1378-ban, bemutatva a város középkori politikai súlyát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariners' Church",
+                  "text": "Különleges kápolna a 19. század közepéről, amelyet a forgalmas kikötőbe látogató tengerészek lelki igényeire építettek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hempsted Houses",
+                  "text": "Történelmi ingatlanok csoportja a festői Hempsted faluban, amely bepillantást enged a város vidéki peremvidékére.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Lode",
+                  "text": "Úgy tartják, ez Gloucester első keresztény templomának helyszíne, amelyet egy ősi római fürdő maradványaira építettek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Museum",
+                  "text": "A római Glevum korszakától a mai Gloucestershire életéig terjedő jelentős régészeti leleteket bemutató városi múzeum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great Western Railway Museum",
+                  "text": "Kisebb örökségvédelmi gyűjtemény, amely a vasút és a vasutasok helyi hatásának állít emléket Gloucester területén.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gloucester Cathedral",
+                  "text": "O capodoperă gotică magnifică unde este înmormântat regele Edward al II-lea și unde s-au filmat părți din Harry Potter.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Docks",
+                  "text": "Cel mai interior port din Marea Britanie, cu depozite victoriene restaurate frumos și o atmosferă vibrantă pe malul apei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterways Museum",
+                  "text": "Situat într-un depozit istoric, acest muzeu spune povestea fascinantă a canalelor și navigației fluviale din Marea Britanie.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soldiers of Gloucestershire Museum",
+                  "text": "Explorează istoria eroică a regimentelor locale prin povești personale, uniforme și artefacte militare deosebite.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Oswald's Priory",
+                  "text": "Ruinele unei mănăstiri medievale fondate în anul 900 d.Hr. de către Aethelflaed, fiica lui Alfred cel Mare.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Priory",
+                  "text": "Rămășițele atmosferice ale unei mănăstiri franciscane din secolul al XIII-lea, prezentând zidărie medievală impresionantă.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars Priory",
+                  "text": "Una dintre cele mai bine conservate mănăstiri dominicane din Anglia, cu o bibliotecă rară din secolul al XIII-lea.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kingsholm Stadium",
+                  "text": "Un teren de rugby de faimă mondială și casa clubului Gloucester Rugby, cunoscut pentru atmosfera sa pasionată.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robinswood Hill",
+                  "text": "Un parc rural mare care se ridică deasupra orașului, oferind vederi incredibile peste Valea Severn.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tailor of Gloucester House",
+                  "text": "Un muzeu și magazin fermecător dedicat poveștii celebre a lui Beatrix Potter, situat lângă poarta de vest a catedralei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Crypt",
+                  "text": "O biserică istorică faimoasă ca locul unde George Whitefield, marele predicator, a fost botezat și a predicat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Guildhall",
+                  "text": "Un loc cultural plin de viață găzduit într-o clădire victoriană grandioasă, oferind cinema și muzică live.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Folk of Gloucester",
+                  "text": "Un muzeu de istorie socială situat în două case superbe din perioadele Tudor și Iacobiană din centrul orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Quays",
+                  "text": "Un centru comercial de tip outlet elegant, situat în inima docurilor istorice, cu numeroase cafenele și baruri.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llanthony Secunda Priory",
+                  "text": "Ruinele unei mănăstiri augustiniene fondate în 1136, având acum un hambar restaurat și spații verzi liniștite.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alney Island",
+                  "text": "O rezervație naturală unică situată pe râul Severn, renumită pentru luncile sale inundabile și păsările de mlaștină.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Cross",
+                  "text": "Inima istorică a orașului unde se întâlnesc cele patru străzi romane principale, marcată astăzi de o placă pe pavaj.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scriven's Conduit",
+                  "text": "O conductă de piatră decorativă din secolul al XVII-lea care odinioară alimenta orașul cu apă, acum în Hillfield Gardens.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robert Raikes' House",
+                  "text": "Fosta casă a fondatorului mișcării Școlii de Duminică, servind acum ca o casă publică locală populară.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eastgate Viewing Chamber",
+                  "text": "Un sit subteran unde vizitatorii pot vedea rămășițele zidurilor orașului roman și turnul porții medievale de est.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Inn",
+                  "text": "Un han de pelerini remarcabil din secolul al XV-lea, cu o curte cu galerii din lemn, funcționând încă ca hotel.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Over Bridge",
+                  "text": "Un pod istoric din piatră proiectat de celebrul inginer Thomas Telford pentru a transporta drumul peste râul Severn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas' Church",
+                  "text": "O biserică medievală notabilă pentru turla sa trunchiată și istoria sa ca loc de cult pentru clasa negustorilor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillfield Gardens",
+                  "text": "O grădină victoriană care conține monumente istorice relocate și arbori rari, departe de străzile aglomerate.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Room",
+                  "text": "O sală istorică unde regele Richard al II-lea a ținut un parlament în 1378, arătând importanța politică a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariners' Church",
+                  "text": "O capelă distinctivă construită la mijlocul secolului al XIX-lea pentru nevoile spirituale ale marinarilor din port.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hempsted Houses",
+                  "text": "Un grup de proprietăți istorice în satul pitoresc Hempsted, oferind o privire asupra periferiei rurale a orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Lode",
+                  "text": "Se crede că este locul primei biserici creștine din Gloucester, construită peste rămășițele unei băi romane antice.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Museum",
+                  "text": "Un muzeu care găzduiește descoperiri arheologice din era Glevum-ului roman până la viața contemporană din comitat.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great Western Railway Museum",
+                  "text": "O mică colecție dedicată impactului local al căii ferate și lucrătorilor săi în zona orașului Gloucester.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gloucester Cathedral",
+                  "text": "A magnificent Gothic masterpiece where King Edward II is buried and where parts of the Harry Potter films were shot.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Docks",
+                  "text": "The most inland port in Britain, featuring beautifully restored Victorian warehouses and a vibrant waterfront atmosphere.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Waterways Museum",
+                  "text": "Located in a historic warehouse, this museum tells the fascinating story of Britain's canals and river navigations.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Soldiers of Gloucestershire Museum",
+                  "text": "Explores the heroic history of the local regiments through personal stories, uniforms, and military artefacts.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Oswald's Priory",
+                  "text": "The ruins of a medieval priory founded in 900 AD by Aethelflaed, daughter of Alfred the Great, to house relics.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Priory",
+                  "text": "The atmospheric remains of a 13th-century Franciscan friary, showcasing impressive medieval masonry in the city centre.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blackfriars Priory",
+                  "text": "One of the best-preserved Dominican friaries in England, featuring a rare 13th-century library and grounds.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kingsholm Stadium",
+                  "text": "A world-famous rugby union ground and home to Gloucester Rugby, known for its passionate atmosphere and fans.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robinswood Hill",
+                  "text": "A large country park rising above the city, providing 250 acres of open space and incredible views of the Severn Vale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tailor of Gloucester House",
+                  "text": "A charming museum and shop dedicated to Beatrix Potter's famous story, located near the cathedral's West Gate.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Crypt",
+                  "text": "A historic church famous as the site where George Whitefield, the great preacher, was baptized and preached.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Guildhall",
+                  "text": "A lively cultural venue housed in a grand Victorian building, offering cinema, live music, and diverse arts events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Folk of Gloucester",
+                  "text": "A social history museum set in two stunning Tudor and Jacobean houses, showcasing the lives of local people.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Quays",
+                  "text": "A stylish designer outlet shopping centre located in the heart of the historic docks, featuring many cafes and bars.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llanthony Secunda Priory",
+                  "text": "The ruins of an Augustinian priory founded in 1136, now featuring a restored tithe barn and peaceful green spaces.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alney Island",
+                  "text": "A unique nature reserve located on the River Severn, famous for its floodplains and diverse population of wetland birds.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gloucester Cross",
+                  "text": "The historic heart of the city where the four main Roman streets meet, marked by a plaque on the pavement today.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scriven's Conduit",
+                  "text": "A decorative 17th-century stone conduit that once supplied water to the city, now in the quiet Hillfield Gardens.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Robert Raikes' House",
+                  "text": "The former timber-framed home of the founder of the Sunday School movement, now serving as a popular public house.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eastgate Viewing Chamber",
+                  "text": "An underground site where visitors can see the remains of the Roman city walls and the medieval East Gate tower.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Inn",
+                  "text": "A remarkable 15th-century pilgrims' inn with a wooden-galleried courtyard, still operating as a hotel in the city.",
+                  "category": "hotel",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Over Bridge",
+                  "text": "A historic stone arch bridge designed by the famous engineer Thomas Telford to carry the road over the River Severn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas' Church",
+                  "text": "A medieval church notable for its truncated spire and its history as a place of worship for the merchant class.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hillfield Gardens",
+                  "text": "A Victorian garden containing relocated historic monuments and rare trees, away from the busy city streets.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Room",
+                  "text": "A historic hall where King Richard II held a parliament in 1378, showcasing the city's medieval political importance.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mariners' Church",
+                  "text": "A distinctive chapel built in the mid-19th century to serve the spiritual needs of sailors visiting the inland port.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hempsted Houses",
+                  "text": "A cluster of historic properties in the picturesque village of Hempsted, offering a view into the rural outskirts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary de Lode",
+                  "text": "Believed to be the site of Gloucester's first Christian church, built over the remains of an ancient Roman bath house.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "City Museum",
+                  "text": "A museum housing significant archaeological finds from the Roman Glevum era through to contemporary life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Great Western Railway Museum",
+                  "text": "A small heritage collection dedicated to the local impact of the railway and its workers in the Gloucester area.",
+                  "category": "museum",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-exeter-cities-v2", population: 124180,
@@ -1403,6 +10361,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Catedral com a abóbada gótica mais longa", "Restos da muralha romana preservados", "Sede da University of Exeter", "Ano de construção do Guildhall: 1160 (o mais antigo do Reino Unido)"],
       fr: ["Cathédrale avec la plus longue voûte gothique", "Restes de remparts romains conservés", "Siège de l'Université d'Exeter", "Année de construction du Guildhall : 1160 (le plus ancien du Royaume-Uni)"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Exeter Cathedral",
+                  "text": "Diese gotische Kathedrale aus dem 14. Jahrhundert besitzt das längste ununterbrochene mittelalterliche Gewölbe der Welt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Albert Memorial Museum",
+                  "text": "Ein preisgekröntes Museum in einem prächtigen viktorianischen Gebäude, das Kunst, Geschichte und Naturwissenschaften vereint.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Underground Passages",
+                  "text": "Einzigartige mittelalterliche Durchgänge unter der Stadt, die ursprünglich im 14. Jahrhundert für Wasserleitungen erbaut wurden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Quay",
+                  "text": "Das historische Hafenviertel am Fluss Exe bietet heute Cafés, Antiquitätenläden und Möglichkeiten für Wassersportaktivitäten.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rougemont Castle",
+                  "text": "Die Ruinen dieser normannischen Burg wurden 1068 nach der Eroberung durch Wilhelm den Eroberer auf dem höchsten Punkt erbaut.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Guildhall",
+                  "text": "Dieses Gebäude gilt als das älteste noch genutzte kommunale Verwaltungsgebäude Englands und stammt teilweise aus dem Jahr 1160.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Priory",
+                  "text": "Ein ehemaliges Benediktinerkloster aus dem Jahr 1087, das heute als Museum das Alltagsleben der Tudor-Zeit anschaulich präsentiert.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Northernhay Gardens",
+                  "text": "Die älteste öffentliche Parkanlage Englands, die bereits 1612 auf dem Gelände vor den alten Stadtmauern angelegt wurde.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Street",
+                  "text": "Mit einer Breite von nur 64 Zentimetern an der schmalsten Stelle gilt sie als eine der engsten Straßen der gesamten Welt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Custom House",
+                  "text": "Dieses 1681 am Quai errichtete Gebäude gilt als das älteste Backsteingebäude der Stadt und zeigt eine prachtvolle Architektur.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iron Bridge",
+                  "text": "Eine elegante gusseiserne Brücke aus dem Jahr 1835, die das tiefe Tal der North Street überspannt und das Stadtbild prägt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tuckers Hall",
+                  "text": "Das historische Gildehaus der Tuchmacher und Walker, das Einblicke in die einst blühende Wollindustrie von Exeter bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sandy Park",
+                  "text": "Die moderne Heimat der Exeter Chiefs, eines der führenden Rugby-Union-Teams Englands, und ein bedeutendes Veranstaltungszentrum.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gandy Street",
+                  "text": "Eine charmante, gepflasterte Straße voller kleiner Boutiquen, die angeblich als Inspiration für die Winkelgasse diente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The House That Moved",
+                  "text": "Ein mittelalterliches Fachwerkhaus, das 1961 spektakulär um mehrere Meter verschoben wurde, um einer neuen Straße Platz zu machen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Pancras Church",
+                  "text": "Eine winzige, sehr alte Kirche im Herzen des Guildhall Shopping Centre, die eine ruhige Oase inmitten der Stadt bietet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princesshay",
+                  "text": "Ein modernes Einkaufs- und Wohnviertel im Stadtzentrum, das nach dem Zweiten Weltkrieg auf Ruinen neu gestaltet wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Southernhay",
+                  "text": "Ein elegantes Viertel mit georgianischen Reihenhäusern und Grünflächen, das direkt an die alten Stadtmauern angrenzt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Exe Bridge",
+                  "text": "Die Überreste einer Steinbrücke aus dem 12. Jahrhundert, die einst eine der längsten mittelalterlichen Brücken Englands war.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University of Exeter",
+                  "text": "Der Streatham Campus gilt als einer der schönsten des Landes und beherbergt bedeutende botanische Sammlungen und moderne Kunst.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buller Statue",
+                  "text": "Ein markantes Denkmal für General Sir Redvers Buller, das an einer zentralen Kreuzung in der Nähe des Museums steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Central Station",
+                  "text": "Ein wichtiger Verkehrsknotenpunkt im Stadtzentrum, der seit 1860 in Betrieb ist und eine klassische Eisenbahnarchitektur zeigt.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Martin's Church",
+                  "text": "Eine malerische Kirche am Cathedral Close, die im 11. Jahrhundert geweiht wurde und wertvolle mittelalterliche Details besitzt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mincinglake Valley Park",
+                  "text": "Ein weitläufiges Naturreservat am Stadtrand, das Wanderwege, Wiesen und einen herrlichen Blick über Exeter bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Ship Canal",
+                  "text": "Einer der ältesten künstlichen Kanäle Englands, der die Stadt mit der Mündung des Exe und dem Meer verbindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Exeteri székesegyház",
+                  "text": "Ez a 14. századi gótikus templom a világ leghosszabb, megszakítás nélküli középkori boltozatos mennyezetével rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Albert Emlékmúzeum",
+                  "text": "Díjnyertes múzeum egy pompás viktoriánus épületben, amely művészeti, történelmi és természettudományi tárlatokat ötvöz.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeteri föld alatti járatok",
+                  "text": "Egyedülálló középkori alagutak a város alatt, amelyeket eredetileg a 14. században építettek a vízvezetékek számára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeteri rakpart",
+                  "text": "Az Exe-folyó menti történelmi kikötőnegyed ma kávézóknak, antikváriumoknak és vízi sportoknak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rougemont vár",
+                  "text": "Hódító Vilmos építtette 1068-ban a város legmagasabb pontján, vörös kőből emelt falai ma is impozáns látványt nyújtanak.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza (Guildhall)",
+                  "text": "Anglia legrégebbi, ma is használatban lévő önkormányzati épülete, amelynek egyes részei 1160-ból származnak.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós perjel-lak",
+                  "text": "Egykori bencés kolostor 1087-ből, amely ma múzeumként mutatja be a Tudor-kori mindennapi életet és berendezést.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Northernhay kertek",
+                  "text": "Anglia legrégebbi közparkja, amelyet 1612-ben alakítottak ki a régi városfalak külső oldalán.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament utca",
+                  "text": "Mindössze 64 centiméteres legkisebb szélességével a világ egyik legkeskenyebb utcájaként tartják számon.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vámház (Custom House)",
+                  "text": "Az 1681-ben épült rakparti épület a város legrégebbi téglaépítménye, díszes belső stukkókkal büszkélkedhet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vashíd (Iron Bridge)",
+                  "text": "Elegáns öntöttvas híd 1835-ből, amely a North Street mély völgyét hidalja át a városközpont közelében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tuckers Hall",
+                  "text": "A takácsok és kelmefestők céhének történelmi székháza, amely az egykori virágzó gyapjúipar emlékeit őrzi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sandy Park",
+                  "text": "Az Exeter Chiefs rögbi csapat modern otthona, amely egyben a régió egyik legfontosabb rendezvényközpontja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gandy utca",
+                  "text": "Hangulatos, macskaköves utca kis üzletekkel, amely állítólag J.K. Rowlingot ihlette az Abszol út megalkotásakor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A ház, amely elmozdult",
+                  "text": "Középkori favázas épület, amelyet 1961-ben látványosan odébb költöztettek, hogy helyet csináljanak egy új útnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Pankráció-templom",
+                  "text": "Apró, rendkívül ősi templom egy modern bevásárlóközpont udvarán, amely a béke szigete a város szívében.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princesshay",
+                  "text": "Modern bevásárló- és lakónegyed a városközpontban, amelyet a második világháborús pusztítás után építettek újjá.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Southernhay",
+                  "text": "Elegáns negyed georgiánus stílusú sorházakkal és parkokkal, közvetlenül a középkori városfalak mellett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Exe-híd",
+                  "text": "Egy 12. századi kőhíd maradványai, amely egykor Anglia egyik leghosszabb és legfontosabb középkori hídja volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeteri Egyetem",
+                  "text": "A Streatham kampusz az ország egyik legszebbje, híres botanikus kertjéről és szabadtéri szobrairól.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buller szobor",
+                  "text": "Sir Redvers Buller tábornok lovasszobra, amely a város egyik központi kereszteződésében álló jellegzetes emlékmű.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Központi Pályaudvar",
+                  "text": "Fontos közlekedési csomópont a belvárosban, amely 1860 óta szolgálja az utazókat klasszikus vasúti stílusban.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Márton-templom",
+                  "text": "A katedrális közelében álló festői templom, amelyet 1065-ben szenteltek fel, értékes középkori részletekkel.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mincinglake Valley Park",
+                  "text": "Kiterjedt természetvédelmi terület a város szélén, amely túraútvonalakat és pazar kilátást kínál a környékre.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeteri hajócsatorna",
+                  "text": "Anglia egyik legrégebbi mesterséges csatornája, amely összeköti a várost az Exe torkolatával és a tengerrel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Exeter",
+                  "text": "Această catedrală gotică din secolul al XIV-lea deține cel mai lung tavan boltit medieval neîntrerupt din întreaga lume.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Memorial Royal Albert",
+                  "text": "Un muzeu premiat într-o clădire victoriană splendidă, reunind colecții de artă, istorie și științe naturale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pasajele Subterane din Exeter",
+                  "text": "Tuneluri medievale unice sub oraș, construite inițial în secolul al XIV-lea pentru a adăposti conductele de apă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cheiul Exeter",
+                  "text": "Zonă portuară istorică de pe râul Exe, care oferă astăzi cafenele, magazine de antichități și activități nautice.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Rougemont",
+                  "text": "Ruinele acestui castel normand au fost ridicate în 1068 pe cel mai înalt punct al orașului după cucerirea lui William I.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria (Guildhall)",
+                  "text": "Considerată cea mai veche clădire municipală din Anglia aflată încă în uz, cu părți datând din anul 1160.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prioratul Sfântul Nicolae",
+                  "text": "Fostă mănăstire benedictină din 1087, transformată în muzeu ce prezintă viața cotidiană din epoca Tudor.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Northernhay",
+                  "text": "Cel mai vechi parc public din Anglia, amenajat în 1612 pe terenul situat în exteriorul vechilor ziduri ale orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strada Parliament",
+                  "text": "Cu o lățime de doar 64 de centimetri în cel mai îngust punct, este considerată una dintre cele mai strâmte străzi din lume.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Vămii (Custom House)",
+                  "text": "Construită în 1681 pe chei, această clădire este cea mai veche structură din cărămidă din oraș, având o arhitectură grandioasă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul de Fier (Iron Bridge)",
+                  "text": "Un pod elegant din fontă ridicat în 1835, care traversează valea adâncă a străzii North Street din centrul orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tuckers Hall",
+                  "text": "Sediul istoric al breslei țesătorilor, care oferă informații despre industria lânii, odinioară înfloritoare în Exeter.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sandy Park",
+                  "text": "Sediul modern al echipei de rugby Exeter Chiefs și un important centru de conferințe și evenimente din regiune.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strada Gandy",
+                  "text": "O stradă fermecătoare cu piatră cubică și buticuri, despre care se spune că a inspirat Aleea Diagon din Harry Potter.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa care s-a mutat",
+                  "text": "O clădire medievală pe structură de lemn care a fost mutată întregi în 1961 pentru a face loc unei noi șosele.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Pancrațiu",
+                  "text": "O biserică minusculă și foarte veche situată în curtea unui centru comercial modern, fiind o oază de liniște.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princesshay",
+                  "text": "Un cartier modern de cumpărături și locuințe în centrul orașului, reconstruit după distrugerile din al Doilea Război Mondial.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Southernhay",
+                  "text": "Un cartier elegant cu case georgiene înșiruite și spații verzi, situat chiar lângă zidurile medievale ale orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechiul Pod peste Exe",
+                  "text": "Rămășițele unui pod de piatră din secolul al XII-lea, care a fost unul dintre cele mai lungi poduri medievale din Anglia.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universitatea din Exeter",
+                  "text": "Campusul Streatham este considerat unul dintre cele mai frumoase din țară, cu grădini botanice și artă modernă.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia Buller",
+                  "text": "Un monument ecvestru impresionant dedicat generalului Redvers Buller, situat într-o intersecție centrală importantă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gara Centrală Exeter",
+                  "text": "Un nod feroviar important situat în centrul orașului, funcționând din 1860 într-o clădire cu arhitectură clasică.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Martin",
+                  "text": "O biserică pitorească situată lângă catedrală, sfințită în secolul al XI-lea și păstrând detalii medievale valoroase.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Valea Mincinglake",
+                  "text": "O rezervație naturală vastă la marginea orașului, oferind trasee de drumeție și vederi panoramice asupra zonei.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalul de Navigație Exeter",
+                  "text": "Unul dintre cele mai vechi canale artificiale din Anglia, conectând orașul de estuarul râului Exe și de mare.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Exeter Cathedral",
+                  "text": "This 14th-century Gothic masterpiece features the longest uninterrupted medieval vaulted ceiling in the world.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Albert Memorial Museum",
+                  "text": "An award-winning museum in a stunning Victorian building, housing diverse art, history, and science collections.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Underground Passages",
+                  "text": "Unique medieval tunnels beneath the city, originally built in the 14th century to house the city's lead water pipes.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Quay",
+                  "text": "The historic riverside area on the Exe, now a hub for dining, antiques, and outdoor activities like kayaking.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rougemont Castle",
+                  "text": "The ruins of this Norman castle were built on the city's highest point in 1068 following the conquest by William I.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Guildhall",
+                  "text": "Thought to be the oldest municipal building in England still in use, with parts of the structure dating back to 1160.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Nicholas Priory",
+                  "text": "A former Benedictine priory founded in 1087, now a museum showcasing daily life and furnishings from the Tudor era.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Northernhay Gardens",
+                  "text": "The oldest public open space in England, laid out in 1612 on the site of the quarry used for the Roman city walls.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parliament Street",
+                  "text": "Measuring just 64 centimeters at its narrowest point, it is claimed to be one of the narrowest streets in the world.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Custom House",
+                  "text": "Built on the Quay in 1681, this is the oldest brick building in the city and features exceptionally fine plasterwork.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iron Bridge",
+                  "text": "An elegant cast-iron bridge completed in 1835 to span the deep valley of North Street near the city center.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tuckers Hall",
+                  "text": "The historic home of the Incorporation of Weavers, Fullers, and Shearmen, reflecting Exeter's rich wool trade history.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sandy Park",
+                  "text": "The modern home of the Exeter Chiefs rugby union team and a premier conference and event center in the South West.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gandy Street",
+                  "text": "A charming cobbled street lined with boutiques, famously said to have inspired Diagon Alley in the Harry Potter series.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The House That Moved",
+                  "text": "A medieval timber-framed house that was spectacularly moved on rollers in 1961 to make way for a new inner bypass.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Pancras Church",
+                  "text": "A tiny and very ancient church located in the Guildhall Shopping Centre, serving as a peaceful sanctuary in the city.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princesshay",
+                  "text": "A modern shopping and residential development in the city center, rebuilt on the site of WWII bomb damage.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Southernhay",
+                  "text": "An elegant area of Georgian terraced houses and green lawns situated just outside the line of the Roman city walls.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Exe Bridge",
+                  "text": "The remains of a 12th-century stone bridge which was once one of the longest and most important in medieval England.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "University of Exeter",
+                  "text": "The Streatham Campus is considered one of the most beautiful in the UK, featuring botanical gardens and sculpture.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Buller Statue",
+                  "text": "A prominent bronze equestrian statue of General Sir Redvers Buller, located at a major junction near the museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Central Station",
+                  "text": "A key railway station in the heart of the city, operating since 1860 and featuring classic railway architecture.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Martin's Church",
+                  "text": "A picturesque church on Cathedral Close, consecrated in 1065 and containing many original medieval features.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mincinglake Valley Park",
+                  "text": "A large countryside park on the outskirts of the city offering walking trails and panoramic views over Exeter.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Exeter Ship Canal",
+                  "text": "One of the oldest artificial canals in England, connecting the city to the Exe Estuary and the English Channel.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-carlisle-cities-v2", population: 75399,
@@ -1450,6 +11018,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de construção do Carlisle Castle: 1092", "Perto da Muralha de Adriano (Património da UNESCO)", "Centro da indústria têxtil no século XIX", "Fundação da Diocese de Carlisle: 1133"],
       fr: ["Année de construction du château de Carlisle : 1092", "Près du mur d'Hadrien (Patrimoine de l'UNESCO)", "Centre de l'industrie textile au XIXe siècle", "Fondation du diocèse de Carlisle : 1133"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Carlisle Castle",
+                  "text": "Eine über 900 Jahre alte Festung, die Zeuge zahlreicher Grenzkonflikte war und das Militärmuseum beherbergt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carlisle Cathedral",
+                  "text": "Eine prächtige Kathedrale aus dem 12. Jahrhundert, bekannt für ihr wunderschönes gotisches Chorfenster.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tullie House Museum",
+                  "text": "Ein erstklassiges Museum und Kunstgalerie, das die Geschichte der Region von der Römerzeit bis heute zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Citadel",
+                  "text": "Zwei markante runde Türme aus dem 16. Jahrhundert, die einst als Gerichtsgebäude und Festung dienten.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guildhall Museum",
+                  "text": "Eines der ältesten Gebäude der Stadt, ein mittelalterliches Fachwerkhaus, das die Zunftgeschichte dokumentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bitts Park",
+                  "text": "Eine weitläufige Parkanlage am Ufer des Flusses Eden, ideal für Spaziergänge unterhalb der Burgmauern.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Cross",
+                  "text": "Ein historisches Denkmal auf dem Marktplatz, das seit dem 17. Jahrhundert das Zentrum des Handels markiert.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Cuthbert's Church",
+                  "text": "Eine bedeutende Stadtkirche mit langer Geschichte, erbaut auf den Fundamenten früherer Gotteshäuser.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hadrian's Wall Trail",
+                  "text": "Ein Teilstück des berühmten römischen Grenzwalls, das Wanderer durch die geschichtsträchtige Landschaft führt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Sands Centre",
+                  "text": "Das führende Sport- und Unterhaltungszentrum der Region, Austragungsort für Konzerte und große Events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carlisle-i vár",
+                  "text": "Több mint 900 éves erődítmény, amely fontos szerepet játszott a skót-angol határvidék történelmében.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carlisle-i székesegyház",
+                  "text": "12. századi alapítású katedrális, amely lélegzetelállító gótikus üvegablakairól és faragott mennyezetéről híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tullie House Múzeum",
+                  "text": "Kiváló múzeum és művészeti galéria, amely a római kortól napjainkig mutatja be a régió örökségét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Citadella",
+                  "text": "Két monumentális kerek bástya a 16. századból, amelyek egykor börtönként és bíróságként is funkcionáltak.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guildhall Múzeum",
+                  "text": "A város egyik legrégebbi, középkori favázas épülete, amely a helyi céhek életét és emlékeit őrzi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bitts Park",
+                  "text": "Hatalmas park az Eden-folyó partján, közvetlenül a vár szomszédságában, ideális hely a kikapcsolódásra.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piaci kereszt",
+                  "text": "Történelmi emlékmű a főtéren, amely a 17. század óta jelzi a város egykori kereskedelmi központját.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Cuthbert templom",
+                  "text": "Jelentős városi templom, amelynek helyén már a 7. században is keresztény imaház állt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hadrianus fala túraútvonal",
+                  "text": "A híres római kori határfal nyomvonala, amely átszeli a várost és vonzza a történelem kedvelőit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Sands Centre",
+                  "text": "A régió legfontosabb kulturális és sportközpontja, amely számos színházi előadásnak és koncertnek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Carlisle",
+                  "text": "O fortăreață de peste 900 de ani care a supravegheat granița anglo-scoțiană și găzduiește un muzeu militar.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Carlisle",
+                  "text": "Fondată în secolul al XII-lea, această catedrală este celebră pentru fereastra sa estică spectaculoasă.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Tullie House",
+                  "text": "Un muzeu de prim rang care prezintă istoria locală, de la artefacte romane până la expoziții de artă modernă.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadela",
+                  "text": "Două turnuri rotunde impunătoare construite în secolul al XVI-lea, folosite în trecut ca tribunale și închisori.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Guildhall",
+                  "text": "O clădire medievală rară cu structură din lemn, care documentează istoria breslelor comerciale ale orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Bitts",
+                  "text": "O zonă recreativă vastă pe malul râului Eden, oferind grădini frumoase chiar lângă zidurile castelului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Crucea Pieței",
+                  "text": "Un monument istoric din secolul al XVII-lea situat în centrul civic, marcând vechiul loc de comerț.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Cuthbert",
+                  "text": "O biserică parohială importantă cu rădăcini străvechi, reconstruită în stil neoclasic la sfârșitul secolului XVIII.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Traseul Zidului lui Hadrian",
+                  "text": "O secțiune a faimosului zid roman care trece prin oraș, fiind o atracție majoră pentru drumeții istorice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sands Centre",
+                  "text": "Principalul complex de divertisment și sport din Cumbria, gazdă pentru spectacole internaționale și concerte.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carlisle Castle",
+                  "text": "A fortress with over 900 years of history, having witnessed numerous border conflicts and housing a military museum.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carlisle Cathedral",
+                  "text": "A beautiful cathedral founded in the 12th century, renowned for its magnificent East Window and starry ceiling.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tullie House Museum",
+                  "text": "A premier museum and art gallery that brings the region's heritage to life from Roman times to the present.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Citadel",
+                  "text": "Two prominent circular towers dating from the 16th century, originally used as courts and a fortress.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guildhall Museum",
+                  "text": "One of the city's oldest buildings, a medieval timber-framed house documenting the history of local guilds.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bitts Park",
+                  "text": "A large urban park on the banks of the River Eden, offering landscaped gardens right next to the castle.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Cross",
+                  "text": "A historic monument in the marketplace marking the center of trade in Carlisle since the 17th century.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Cuthbert's Church",
+                  "text": "A significant city church with a long history, built upon the site of earlier Christian worship dating to the 7th century.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hadrian's Wall Path",
+                  "text": "A section of the famous Roman frontier that passes through the city, attracting hikers and history enthusiasts.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Sands Centre",
+                  "text": "The region's leading sports and entertainment venue, hosting major concerts, theatre, and community events.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ,
   {
@@ -1497,6 +11315,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Segundo maior claustro de catedral da Inglaterra", "Cidade da Literatura da UNESCO (desde 2012)", "Mais de 30 igrejas medievais preservadas", "Ano de construção do Castelo de Norwich: a partir de 1067"],
       fr: ["Deuxième plus grand cloître de cathédrale d'Angleterre", "Ville de littérature de l'UNESCO (depuis 2012)", "Plus de 30 églises médiévales préservées", "Année de construction du château de Norwich : à partir de 1067"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Norwich Cathedral",
+                  "text": "Eine prächtige normannische Kathedrale aus dem 12. Jahrhundert mit einer der höchsten Spitzen Englands.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Castle",
+                  "text": "Eine mittelalterliche Festung mit erstklassigen Sammlungen zu Archäologie, Kunst und Naturgeschichte.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elm Hill",
+                  "text": "Die berühmteste mittelalterliche Straße in Norwich, bekannt für ihre Tudor-Fachwerkhäuser.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Market",
+                  "text": "Ein lebendiger, historischer Außenmarkt im Stadtzentrum, bekannt für seine bunten gestreiften Dächer.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Forum",
+                  "text": "Ein markantes modernes Gebäude, das die Zentralbibliothek, BBC-Studios und Veranstaltungen beherbergt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantation Garden",
+                  "text": "Ein wunderschön restaurierter viktorianischer Stadtgarten mit gotischem Brunnen und italienischen Mauern.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strangers' Hall",
+                  "text": "Eines der ältesten Gebäude der Stadt, heute ein Museum, das das historische häusliche Leben erkundet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Norwich at the Bridewell",
+                  "text": "Ein fesselndes Museum in einem ehemaligen Gefängnis, das von der Industriegeschichte der Stadt erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon Hall",
+                  "text": "Eine seltene mittelalterliche Kaufmannshalle mit einem spektakulären und einzigartigen Fachwerkdach.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Guildhall",
+                  "text": "Ein aufwendiges mittelalterliches Gebäude, das über 500 Jahre lang als Sitz der Stadtverwaltung diente.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pull's Ferry",
+                  "text": "Ein sehr fotogenes Wassertor aus dem 15. Jahrhundert am Ufer des Flusses Wensum in Norwich.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cow Tower",
+                  "text": "Ein hoher Artillerieturm aus dem späten 14. Jahrhundert zur Verteidigung des Flusszugangs zur Stadt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishop Bridge",
+                  "text": "Eine historische mittelalterliche Brücke über die Wensum von 1340, die heute noch von Fußgängern genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mousehold Heath",
+                  "text": "Ein weites Wald- und Heidegebiet, das den besten Panoramablick auf die Skyline von Norwich bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whitlingham Country Park",
+                  "text": "Ein großer Landschaftspark und Tor zu den Norfolk Broads mit Wassersport und Naturpfaden.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrow Road Stadium",
+                  "text": "Das Heimstadion des Norwich City Football Club, das seit seiner Eröffnung Tausende von Fans beherbergt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Peter Mancroft Church",
+                  "text": "Eine majestätische Kirche aus dem 15. Jahrhundert, bekannt für ihre beeindruckende Architektur.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainsbury Centre for Visual Arts",
+                  "text": "Eine weltbekannte Kunstgalerie auf dem Campus der UEA, entworfen vom Architekten Norman Foster.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Arcade",
+                  "text": "Eine wunderschöne Jugendstil-Einkaufspassage von 1899 mit eleganten Fliesen und Boutiquen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Theatre Royal",
+                  "text": "Ein bedeutendes regionales Theater, das West-End-Shows, Ballette, Opern und lokale Stücke zeigt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Julian's Cell",
+                  "text": "Ein historischer Schrein, der Julian von Norwich, der berühmten Mystikerin des 14. Jahrhunderts, gewidmet ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maddermarket Theatre",
+                  "text": "Ein einzigartiges Theater in einer ehemaligen Kapelle, bekannt für seine Bühne im elisabethanischen Stil.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Riverside Walk",
+                  "text": "Ein malerischer Fußweg am Fluss Wensum mit herrlichem Blick auf die historischen Wahrzeichen.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Andrew's Hall",
+                  "text": "Der vollständigste mittelalterliche Klosterkomplex Englands, heute als Konzertsaal genutzt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Arts Centre",
+                  "text": "Ein zeitgenössisches Kunstzentrum in einer Kirche aus dem 14. Jahrhundert mit Live-Musik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norwich-i székesegyház",
+                  "text": "Lenyűgöző 12. századi normann székesegyház, Anglia egyik legmagasabb templomtornyával.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich-i vár",
+                  "text": "Középkori királyi erődítmény, amely régészeti, művészeti és természettudományi gyűjteményeknek ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elm Hill",
+                  "text": "Norwich leghíresebb középkori utcája, macskaköves útjaival és Tudor-kori fagerendás épületeivel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich-i piac",
+                  "text": "Élénk és történelmi szabadtéri piac a városközpontban, híres a színes, csíkos tetőiről.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Forum",
+                  "text": "Feltűnő modern épület, amely a központi könyvtárnak, BBC stúdióknak és eseményeknek ad otthont.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantation Garden",
+                  "text": "Gyönyörűen restaurált 3 hektáros viktoriánus városi kert gótikus kúttal és olaszos várfalakkal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strangers' Hall",
+                  "text": "A város egyik legrégebbi és legérdekesebb épülete, ma a történelmi mindennapi élet múzeuma.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Norwich at the Bridewell",
+                  "text": "Magával ragadó múzeum egy egykori börtönben, amely a város gazdag ipari örökségét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon Hall",
+                  "text": "Ritka középkori kereskedőház, amely látványos és egyedülálló gerendás mennyezettel büszkélkedhet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich-i Guildhall",
+                  "text": "Díszes középkori tűzkő épület, amely több mint 500 évig szolgált a helyi önkormányzat központjaként.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pull's Ferry",
+                  "text": "Rendkívül fotogén 15. századi vízi kapu és révház a Wensum-folyó partján, Norwich szívében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cow Tower",
+                  "text": "Magas tüzérségi torony a 14. század végéről, amely Norwich folyó felőli megközelítését védte.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishop Bridge",
+                  "text": "Történelmi középkori híd a Wensum-folyón 1340-ből, amelyet a gyalogosok ma is használnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mousehold Heath",
+                  "text": "Hatalmas erdős és fenyéres terület, amely a legszebb panorámás kilátást nyújtja Norwich városára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whitlingham Country Park",
+                  "text": "Hatalmas park és a Norfolk Broads kapuja, vízi sportokkal és változatos tanösvényekkel.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrow Road Stadion",
+                  "text": "A Norwich City Football Club hazai stadionja, amely megnyitása óta rajongók ezreit fogadja.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Peter Mancroft templom",
+                  "text": "Fenséges 15. századi templom a piac közelében, amely lenyűgöző középkori építészetéről híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainsbury Centre for Visual Arts",
+                  "text": "Világhírű művészeti galéria és múzeum az UEA kampuszán, melyet Norman Foster tervezett.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Arcade",
+                  "text": "Gyönyörű, 1899-ben épült szecessziós bevásárlóudvar elegáns díszburkolattal és butikokkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Theatre Royal",
+                  "text": "Jelentős regionális színház, amely West End-előadásoknak, baletteknek és operáknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Julianna cellája",
+                  "text": "Történelmi szentély, melyet Norwich-i Juliannának, a híres 14. századi misztikusnak szenteltek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maddermarket Színház",
+                  "text": "Egyedülálló színház egy egykori katolikus kápolnában, híres Erzsébet-kori stílusú színpadáról.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Riverside Walk",
+                  "text": "Festői gyalogút a Wensum-folyó mentén, gyönyörű kilátással Norwich történelmi nevezetességeire.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Andrew's Hall",
+                  "text": "Anglia legépebben maradt középkori kolostorkomplexuma, ma rendezvényhelyszínként és koncertteremként működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich-i Művészeti Központ",
+                  "text": "Kortárs művészeti központ egy gyönyörű 14. századi templomban, élő zenével és előadásokkal.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Norwich",
+                  "text": "O catedrală normandă magnifică din secolul al XII-lea, având una dintre cele mai înalte turle.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Norwich",
+                  "text": "O fortificație regală medievală care găzduiește colecții de arheologie, artă și istorie naturală.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elm Hill",
+                  "text": "Cea mai faimoasă stradă medievală din Norwich, cunoscută pentru clădirile Tudor cu structură de lemn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața din Norwich",
+                  "text": "O piață exterioară vibrantă și istorică situată în centrul orașului, renumită pentru acoperișurile dungate.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Forum",
+                  "text": "O clădire modernă frapantă care găzduiește biblioteca centrală, studiourile BBC și evenimente locale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantation Garden",
+                  "text": "O grădină victoriană de 3 acri restaurată superb, cu o fântână gotică și ziduri italiene.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strangers' Hall",
+                  "text": "Una dintre cele mai vechi clădiri din oraș, acum un muzeu care explorează viața casnică istorică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Norwich at the Bridewell",
+                  "text": "Un muzeu captivant într-o fostă închisoare, relatând istoria bogatului patrimoniu industrial local.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon Hall",
+                  "text": "O sală medievală rară a negustorilor, cu un acoperiș spectaculos și unic pe structură de lemn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Guildhall",
+                  "text": "O clădire medievală elaborată din silex care a servit drept centru al guvernului local timp de 500 de ani.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pull's Ferry",
+                  "text": "O poartă de apă și o casă de feribot din secolul al XV-lea, situate pe malul râului Wensum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cow Tower",
+                  "text": "Un turn de artilerie înalt construit la sfârșitul secolului al XIV-lea pentru a apăra accesul pe râu.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Bishop",
+                  "text": "Un pod medieval istoric peste râul Wensum, construit în 1340 și folosit încă de pietoni astăzi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mousehold Heath",
+                  "text": "O zonă vastă de pădure și landă care oferă cele mai bune vederi panoramice ale orașului Norwich.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Whitlingham",
+                  "text": "Un parc pitoresc mare și poarta către Norfolk Broads, oferind sporturi nautice și trasee naturale.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Carrow Road",
+                  "text": "Stadionul echipei Norwich City Football Club, care găzduiește mii de fani pasionați încă de la deschidere.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Peter Mancroft",
+                  "text": "O biserică maiestuoasă din secolul al XV-lea situată lângă piață, renumită pentru arhitectura sa.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainsbury Centre for Visual Arts",
+                  "text": "O galerie de artă și un muzeu de renume mondial proiectate de Norman Foster în campusul universitar.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Arcade",
+                  "text": "O arcadă comercială Art Nouveau superbă construită în 1899, cu plăci decorative elegante.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Theatre Royal Norwich",
+                  "text": "Un teatru regional major care găzduiește spectacole West End, balet, operă și producții locale.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chilia Juliannei",
+                  "text": "Un altar istoric dedicat lui Julian din Norwich, faimoasa mistică și autoare din secolul XIV.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Maddermarket",
+                  "text": "Un teatru unic situat într-o fostă capelă catolică, cunoscut pentru scena în stil elisabetan.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Riverside Walk",
+                  "text": "O potecă pietonală pitorească de-a lungul râului Wensum, oferind vederi frumoase ale orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halele St Andrew's",
+                  "text": "Cel mai complet complex monastic medieval din Anglia, folosit acum ca sală de concerte grandioasă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Arts Centre",
+                  "text": "Un centru de artă contemporană situat într-o biserică superbă din secolul al XIV-lea.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norwich Cathedral",
+                  "text": "A magnificent 12th-century Norman cathedral featuring one of the tallest cathedral spires in England.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Castle Museum",
+                  "text": "A medieval royal fortification housing world-class collections of archaeology, art, and natural history.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elm Hill",
+                  "text": "The most famous medieval street in Norwich, known for its cobbled lanes and Tudor timber-framed buildings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Market",
+                  "text": "A vibrant and historic outdoor market located in the city centre, famous for its colorful striped roofs.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Forum",
+                  "text": "A striking modern building housing the city's central library, BBC studios, and various community events.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plantation Garden",
+                  "text": "A beautifully restored 3-acre Victorian town garden featuring a gothic fountain and Italianate walls.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Strangers' Hall",
+                  "text": "One of the city's oldest and most fascinating buildings, now a museum exploring historic domestic life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Norwich at the Bridewell",
+                  "text": "An engaging museum set in a former prison, telling the story of the city's rich industrial heritage.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dragon Hall",
+                  "text": "A rare medieval merchants' trading hall featuring a spectacular and unique timber-framed hammerbeam roof.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Guildhall",
+                  "text": "An elaborate medieval flint building that served as the center of local government for over 500 years.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pull's Ferry",
+                  "text": "A highly photogenic 15th-century water gate and ferry house located on the banks of the River Wensum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cow Tower",
+                  "text": "A tall artillery tower built in the late 14th century to defend the river access to the city of Norwich.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bishop Bridge",
+                  "text": "A historic medieval bridge across the River Wensum, built in 1340 and still in use by pedestrians today.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mousehold Heath",
+                  "text": "A vast area of woodland and open heathland providing the best panoramic views of the Norwich skyline.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whitlingham Country Park",
+                  "text": "A large scenic park and gateway to the Norfolk Broads, offering water sports and diverse wildlife trails.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carrow Road Stadium",
+                  "text": "The home stadium of Norwich City Football Club, hosting thousands of passionate fans since its opening.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Peter Mancroft Church",
+                  "text": "A majestic 15th-century church located near the market, renowned for its stunning medieval architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sainsbury Centre for Visual Arts",
+                  "text": "A world-renowned art gallery and museum designed by Norman Foster on the University of East Anglia campus.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Arcade",
+                  "text": "A beautiful Art Nouveau shopping arcade built in 1899, featuring elegant decorative tiles and boutique shops.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Theatre Royal",
+                  "text": "A major regional theatre hosting a wide variety of West End shows, ballets, operas, and local productions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Julian's Cell",
+                  "text": "A historic shrine and cell dedicated to Julian of Norwich, the famous 14th-century mystic and author.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maddermarket Theatre",
+                  "text": "A unique world-class theatre in a former Roman Catholic chapel, known for its Elizabethan style stage.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Riverside Walk",
+                  "text": "A scenic pedestrian path along the River Wensum, offering beautiful views of Norwich's historic landmarks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Andrew's and Blackfriars' Hall",
+                  "text": "The most complete medieval friary complex in England, now used as a grand civic venue and concert hall.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norwich Arts Centre",
+                  "text": "A contemporary arts venue located in a beautiful 14th-century church, hosting live music and performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-stirling-cities-v2", population: 37910,
@@ -1544,6 +11972,304 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Vitória de William Wallace (1297) em Stirling", "Local de coroação de Maria Stuart (1543)", "Monumento Nacional a Wallace (67 metros de altura)", "O Castelo de Stirling assenta sobre rocha vulcânica"],
       fr: ["Victoire de William Wallace (1297) à Stirling", "Lieu de couronnement de Marie Stuart (1543)", "Monument national Wallace (67 mètres de haut)", "Le château de Stirling repose sur de la roche volcanique"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Stirling Castle",
+                  "text": "Eine der größten und wichtigsten Burgen Schottlands, die auf einem vulkanischen Felsen über der Stadt thront.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Wallace Monument",
+                  "text": "Ein markanter Turm zum Gedenken an Sir William Wallace, der einen weiten Blick über das Schlachtfeld bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Holy Rude",
+                  "text": "Diese historische Kirche ist der Ort, an dem Jakob VI. zum König von Schottland gekrönt wurde.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Old Bridge",
+                  "text": "Eine wunderschöne mittelalterliche Steinbrücke, die in der Nähe des Ortes der berühmten Schlacht von 1297 steht.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argyll's Lodging",
+                  "text": "Das am besten erhaltene Renaissance-Stadthaus Schottlands, ehemals Wohnsitz des Earl of Argyll.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Jail",
+                  "text": "Ein ehemaliges Gefängnis aus dem 19. Jahrhundert, das heute durch Touren Einblicke in die viktorianische Justiz bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Smith Art Gallery and Museum",
+                  "text": "Ein lokales Museum, das die Geschichte von Stirling zeigt und den ältesten Fußball der Welt beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mar's Wark",
+                  "text": "Die imposante Ruine eines Renaissance-Palastes, der im 16. Jahrhundert für den Earl of Mar erbaut wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cambuskenneth Abbey",
+                  "text": "Eine zerstörte Augustinerabtei, in der König Jakob III. von Schottland und seine Frau begraben liegen.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's Park",
+                  "text": "Einst das königliche Jagdrevier, ist dies heute der wichtigste öffentliche Park Stirlings mit weiten Grünflächen.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bannockburn Heritage Centre",
+                  "text": "Ein Museum am Ort der berühmten Schlacht von 1314, das die Geschichte des schottischen Sieges erzählt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Stirling",
+                  "text": "Das einstige Rathaus und Gefängnis der Stadt dient heute als lebendiges Zentrum für Musik und Kunst.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stirling Castle",
+                  "text": "Skócia egyik legnagyobb és legfontosabb vára, amely egy vulkáni kőszikla tetején trónol a város felett.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Wallace Monument",
+                  "text": "William Wallace emlékére emelt monumentális torony, ahonnan pazar kilátás nyílik a történelmi csatamezőkre.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Holy Rude",
+                  "text": "Történelmi templom, amely arról nevezetes, hogy itt koronázták meg VI. Jakab skót királyt 1567-ben.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Old Bridge",
+                  "text": "Gyönyörű középkori kőhíd, amely az 1297-es híres stirlingi hídi csata helyszínének közelében áll.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argyll's Lodging",
+                  "text": "Skócia legjobb állapotban fennmaradt reneszánsz városi palotája, egykor Argyll grófjának rezidenciája.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Jail",
+                  "text": "Egykori 19. századi börtön, amely ma interaktív túrákon mutatja be a viktoriánus igazságszolgáltatás világát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Smith Art Gallery and Museum",
+                  "text": "Helyi múzeum Stirling történelmi emlékeivel, itt őrzik a világ legrégebbi futballabdáját is.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mar's Wark",
+                  "text": "Egy 16. századi reneszánsz palota díszes romja, amelyet Mar grófja építtetett a vár bejárata közelében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cambuskenneth Abbey",
+                  "text": "Ágoston-rendi apátság romjai, ahol III. Jakab skót királyt és feleségét, Margit királynét eltemették.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's Park",
+                  "text": "Egykor királyi vadászterület, ma Stirling legnagyobb közparkja, amely tágas tereket kínál a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bannockburn Heritage Centre",
+                  "text": "Az 1314-es híres csata helyszínén álló központ, amely bemutatja a skót függetlenségi háború sorsfordító győzelmét.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Stirling",
+                  "text": "A város egykori városháza és börtöne, amely ma Stirling elsőszámú zenei és művészeti központjaként működik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stirling Castle",
+                  "text": "Unul dintre cele mai mari și importante castele din Scoția, situat pe o stâncă vulcanică deasupra orașului.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Wallace Monument",
+                  "text": "Un turn distinctiv dedicat lui Sir William Wallace, oferind vederi largi asupra câmpului de luptă istoric.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Holy Rude",
+                  "text": "Această biserică istorică este locul unde Iacob al VI-lea a fost încoronat rege al Scoției.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Old Bridge",
+                  "text": "Un frumos pod de piatră medieval care stă lângă locul faimoasei bătălii de la Stirling Bridge din 1297.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argyll's Lodging",
+                  "text": "Cea mai bine conservată casă de oraș renascentistă din Scoția, fostă reședință a contelui de Argyll.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Jail",
+                  "text": "O fostă închisoare din secolul al XIX-lea, care acum oferă tururi despre justiția victoriană aspră.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Smith Art Gallery and Museum",
+                  "text": "Un muzeu local care prezintă istoria orașului Stirling și găzduiește cea mai veche minge de fotbal din lume.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mar's Wark",
+                  "text": "Ruinele impunătoare ale unui palat renascentist construit în secolul al XVI-lea pentru Contele de Mar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cambuskenneth Abbey",
+                  "text": "O abație augustiniană în ruină, unde sunt înmormântați regele Iacob al III-lea al Scoției și soția sa.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's Park",
+                  "text": "Odată teren de vânătoare regal, acesta este acum principalul parc public din Stirling, cu spații verzi vaste.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bannockburn Heritage Centre",
+                  "text": "Un muzeu situat pe locul faimoasei bătălii din 1314, relatând victoria scoțiană decisivă asupra englezilor.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Stirling",
+                  "text": "Fosta primărie și închisoare a orașului servește acum ca un centru vibrant pentru muzică și arte spectacolului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stirling Castle",
+                  "text": "One of Scotland's largest and most important castles, sitting atop a volcanic crag overlooking the city.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Wallace Monument",
+                  "text": "A striking tower commemorating Sir William Wallace, offering sweeping views across the historic battlefield.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Holy Rude",
+                  "text": "This historic church is the site where King James VI was crowned King of Scots in 1567.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Old Bridge",
+                  "text": "A beautiful medieval stone bridge that stands near the site of the famous 1297 battle.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Argyll's Lodging",
+                  "text": "Scotland's finest surviving Renaissance townhouse, formerly the residence of the Earl of Argyll.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Jail",
+                  "text": "A former 19th-century prison that now offers insightful tours into Victorian crime and punishment.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stirling Smith Art Gallery and Museum",
+                  "text": "A local museum showcasing Stirling's history and home to the world's oldest football.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mar's Wark",
+                  "text": "The imposing ruins of a Renaissance palace built in the 16th century for the Earl of Mar.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cambuskenneth Abbey",
+                  "text": "A ruined Augustinian abbey where King James III of Scotland and his wife are buried.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "King's Park",
+                  "text": "Once the royal hunting grounds, this is now Stirling's premier public park with vast green spaces.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bannockburn Heritage Centre",
+                  "text": "A museum on the site of the famous 1314 battle, telling the story of the pivotal Scottish victory.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tolbooth Stirling",
+                  "text": "The city's former town house and jail now serves as a vibrant venue for music and the arts.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   }
 ,
   {
@@ -1591,6 +12317,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Torre de igreja mais alta do Reino Unido (123 metros)", "Lar da Magna Carta (de 1215)", "Relógio em funcionamento mais antigo do mundo (1386)", "Stonehenge fica a apenas 13 km"],
       fr: ["Flèche d'église la plus haute du Royaume-Uni (123 mètres)", "Abrite la Grande Charte (de 1215)", "Plus vieille horloge en état de marche au monde (1386)", "Stonehenge est à seulement 13 km"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Salisbury",
+                  "text": "Ein Meisterwerk der englischen Gotik mit dem höchsten Kirchturm Großbritanniens und der Magna Carta.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Sarum",
+                  "text": "Die ursprüngliche Siedlungsstätte von Salisbury mit Ruinen einer Burg und der ersten Kathedrale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mompesson House",
+                  "text": "Ein elegantes Stadthaus aus dem 18. Jahrhundert mit herrlicher Innenausstattung und einem Garten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salisbury Museum",
+                  "text": "Beherbergt herausragende Sammlungen zur Archäologie, darunter Funde aus Stonehenge und dem Umland.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Poultry Cross",
+                  "text": "Ein spätgotisches Marktkreuz aus Stein, das einst das Zentrum des Geflügelmarktes markierte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Elizabeth Gardens",
+                  "text": "Ein wunderschöner Park am Flussufer mit Blick auf die Kathedrale und üppigen Blumenbeeten.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arundells",
+                  "text": "Das ehemalige Wohnhaus von Premierminister Sir Edward Heath, das Kunst und politische Memorabilia zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Thomas's Kirche",
+                  "text": "Bekannt für ihr mittelalterliches 'Doom Painting', eines der am besten erhaltenen Wandgemälde Englands.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "Der historische Mittelpunkt der Stadt, auf dem seit 1227 regelmäßig bunte Märkte stattfinden.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fisherton Mill",
+                  "text": "Eine ehemalige Getreidemühle, die heute als größtes unabhängiges Kunstzentrum des Südens dient.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salisbury-i székesegyház",
+                  "text": "Az angol gótika remekműve, Nagy-Britannia legmagasabb templomtornyával és a Magna Cartával.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Sarum",
+                  "text": "Salisbury eredeti helyszíne egy vár romjaival és az első katedrális alapjaival a dombtetőn.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mompesson-ház",
+                  "text": "Elegáns 18. századi városi ház pompás belső térrel és gyönyörű fallal körülvett kerttel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salisbury Múzeum",
+                  "text": "Kiváló régészeti gyűjteménynek ad otthont, beleértve a Stonehenge-ből származó leleteket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Poultry Cross",
+                  "text": "Késő gótikus kőből készült piaci kereszt, amely egykor a szárnyaspiac központját jelezte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erzsébet királynő kertek",
+                  "text": "Gyönyörű folyóparti park, ahonnan ikonikus kilátás nyílik a katedrálisra és a virágágyásokra.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arundells",
+                  "text": "Sir Edward Heath korábbi miniszterelnök lakóháza, amely művészeti és politikai emlékeket őriz.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Tamás templom",
+                  "text": "Híres a középkori 'Végítélet-festményéről', amely az egyik legjobb állapotú falfestmény Angliában.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piactér",
+                  "text": "A város történelmi központja, ahol 1227 óta rendszeresen tartanak színes szabadtéri piacokat.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fisherton Mill",
+                  "text": "Egykori gabonamalom, amely ma a délvidék legnagyobb független művészeti központjaként működik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Salisbury",
+                  "text": "O capodoperă a goticului englez, cu cel mai înalt turn din Marea Britanie și exemplarul Magna Carta.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Sarum",
+                  "text": "Situl original al orașului Salisbury, găzduind ruinele unui castel și ale primei catedrale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Mompesson",
+                  "text": "O casă elegantă din secolul al XVIII-lea, cu interioare rafinate și o grădină superbă împrejmuită.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Salisbury",
+                  "text": "Găzduiește colecții arheologice remarcabile, inclusiv artefacte descoperite la Stonehenge.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Poultry Cross",
+                  "text": "O cruce de piață din piatră în stil gotic târziu, care marca centrul pieței de păsări de curte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Regina Elisabeta",
+                  "text": "Un parc frumos pe malul râului, oferind vederi emblematice spre catedrală și straturi de flori.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arundells",
+                  "text": "Fosta locuință a premierului Sir Edward Heath, expunând artă și obiecte politice memorabile.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Toma",
+                  "text": "Cunoscută pentru pictura medievală 'Doom Painting', una dintre cele mai bine conservate din Anglia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mare",
+                  "text": "Centrul istoric al orașului, unde se organizează piețe în aer liber încă din anul 1227.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Moara Fisherton",
+                  "text": "O fostă moară de cereale transformată în cel mai mare centru de artă independent din sud.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salisbury Cathedral",
+                  "text": "A masterpiece of English Gothic architecture, home to Britain's tallest spire and the Magna Carta.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Sarum",
+                  "text": "The original site of Salisbury featuring the ruins of a royal castle and the first cathedral foundation.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mompesson House",
+                  "text": "An elegant 18th-century town house with magnificent interiors and a beautiful walled garden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Salisbury Museum",
+                  "text": "Houses outstanding archaeological collections, including finds from the nearby Stonehenge world heritage site.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Poultry Cross",
+                  "text": "A late Gothic stone market cross that once marked the centre of the town's poultry market.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Elizabeth Gardens",
+                  "text": "A beautiful riverside park offering iconic views of the cathedral and lush floral displays.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arundells",
+                  "text": "The former home of Prime Minister Sir Edward Heath, displaying fine art and political memorabilia.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Thomas's Church",
+                  "text": "Famous for its medieval 'Doom Painting', one of the largest and best-preserved murals in England.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Square",
+                  "text": "The historic focal point of the city, hosting regular outdoor markets since the year 1227.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fisherton Mill",
+                  "text": "A converted Victorian grain mill that now serves as the South's largest independent arts centre.",
+                  "category": "cultural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-lincoln-cities-v2", population: 100160,
@@ -1638,6 +12614,736 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["A catedral foi o edifício mais alto até 1549", "Original da Carta Magna no Castelo de Lincoln", "Steep Hill foi eleita a melhor rua em 2012", "A porta romana 'Newport Arch' preserva-se"],
       fr: ["La cathédrale a été le plus haut bâtiment jusqu'en 1549", "Original de la Magna Carta au château de Lincoln", "Steep Hill a été élue meilleure rue en 2012", "La porte romaine 'Newport Arch' est conservée"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Lincoln",
+                  "text": "Eine der bedeutendsten gotischen Kathedralen Europas, erbaut ab 1072, einst das höchste Gebäude der Welt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burg Lincoln",
+                  "text": "Eine normannische Burg aus dem Jahr 1068, die eine der vier Originalkopien der Magna Carta beherbergt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Steep Hill",
+                  "text": "Eine charmante, steile Straße mit mittelalterlichen Gebäuden, die das Stadtzentrum mit der Kathedrale verbindet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Collection",
+                  "text": "Ein preisgekröntes Archäologiemuseum, das die Geschichte von Lincolnshire von der Steinzeit bis heute zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Usher Gallery",
+                  "text": "Das führende Kunstmuseum der Region mit Werken von Turner, Lowry und einer bedeutenden Uhrensammlung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Lincolnshire Life",
+                  "text": "Ein Museum in einer ehemaligen Kaserne, das den Alltag und die Industrie der Region seit 1750 darstellt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "Die älteste Brücke Englands mit Gebäuden darauf, erbaut um 1160 über den Fluss Witham.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Arch",
+                  "text": "Das einzige römische Stadttor in Großbritannien, durch das heute noch der normale Straßenverkehr fließt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jew's House",
+                  "text": "Eines der ältesten bewohnten Stadthäuser Englands, ein seltenes Beispiel für normannische Wohnarchitektur um 1150.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ellis Mill",
+                  "text": "Die letzte funktionierende Windmühle in Lincoln, erbaut 1798 auf dem Kamm oberhalb der Stadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brayford Pool",
+                  "text": "Der älteste Binnenhafen Englands, ein römisches Becken, das heute ein lebhaftes Viertel mit Restaurants ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Arboretum",
+                  "text": "Ein wunderschöner viktorianischer Park, der 1872 eröffnet wurde und seltene Baumarten sowie Statuen enthält.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartsholme Country Park",
+                  "text": "Ein weitläufiger Park mit einem See, Wäldern und Gärten auf dem Gelände eines ehemaligen Herrenhauses.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whisby Nature Park",
+                  "text": "Ein Naturschutzgebiet in ehemaligen Kiesgruben, bekannt für seine vielfältige Vogelwelt und Wanderwege.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Guildhall",
+                  "text": "Das historische Rathaus über dem Stonebow-Tor, Sitz des Bürgermeisters und Ort für Stadtratssitzungen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Medieval Bishop's Palace",
+                  "text": "Die Ruinen des prächtigen Palastes der Bischöfe von Lincoln, einst einer der wichtigsten Bauten Englands.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Guildhall",
+                  "text": "Ein bedeutendes Gebäude aus dem 12. Jahrhundert, das vermutlich für König Heinrich II. erbaut wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "International Bomber Command Centre",
+                  "text": "Eine Gedenkstätte für die Besatzungen des Bomber Command, die im Zweiten Weltkrieg ihr Leben ließen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Drill Hall",
+                  "text": "Ein historisches Gebäude für Kulturveranstaltungen, das ursprünglich als Exerzierhalle für Freiwillige diente.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Engine Shed",
+                  "text": "Das größte Live-Musik-Zentrum der Region, untergebracht in einem renovierten Eisenbahndepot der Universität.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sincil Bank",
+                  "text": "Das Heimstadion von Lincoln City FC, ein wichtiger Treffpunkt für Sportbegeisterte seit 1895.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Joseph Banks Conservatory",
+                  "text": "Ein tropisches Gewächshaus im The Lawn-Komplex, benannt nach dem berühmten Botaniker Joseph Banks.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pottergate Arch",
+                  "text": "Ein Überrest der mittelalterlichen Stadtmauer aus dem 14. Jahrhundert nahe der Kathedrale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars",
+                  "text": "Das älteste erhaltene Franziskanerklostergebäude Englands, das heute für Ausstellungen genutzt wird.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boultham Park",
+                  "text": "Ein großer öffentlicher Park mit einem See und Resten eines alten Anwesens im Süden der Stadt.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Central Station",
+                  "text": "Ein denkmalgeschütztes Bahnhofsgebäude im Tudor-Stil aus dem Jahr 1848 im Herzen der Stadt.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lawn",
+                  "text": "Ein ehemaliges Krankenhausgelände, das heute Cafés, Geschäfte und Veranstaltungsräume in historischen Gärten bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Theatre Royal",
+                  "text": "Ein klassisches viktorianisches Theater, das seit 1893 ein breites Spektrum an Aufführungen bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Theatre Royal",
+                  "text": "Ein wunderschön restauriertes Theatergebäude mit einer reichen Geschichte und prachtvoller Innenausstattung.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danes Terrace",
+                  "text": "Eine malerische Gasse im historischen Viertel mit gut erhaltenen mittelalterlichen Fachwerkhäusern.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lincolni székesegyház",
+                  "text": "Európa egyik legjelentősebb gótikus székesegyháza, 1072-től épült, egykor a világ legmagasabb épülete volt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincolni vár",
+                  "text": "1068-ban épült normann vár, amely a Magna Carta négy eredeti példányának egyikét őrzi.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Steep Hill",
+                  "text": "Bájos, meredek utca középkori épületekkel, amely a városközpontot köti össze a katedrálissal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Collection",
+                  "text": "Díjnyertes régészeti múzeum, amely Lincolnshire történelmét mutatja be a kőkorszaktól napjainkig.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Usher Gallery",
+                  "text": "A régió vezető művészeti galériája Turner és Lowry műveivel, valamint egy jelentős óragyűjteménnyel.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Lincolnshire Life",
+                  "text": "Egy egykori laktanyában berendezett múzeum, amely a régió mindennapjait mutatja be 1750-től.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "Anglia legrégebbi, épületekkel beépített hídja, amely 1160 körül épült a Witham-folyó felett.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Arch",
+                  "text": "Az egyetlen római kori városkapu Nagy-Britanniában, amelyen ma is áthalad a közúti forgalom.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jew's House",
+                  "text": "Anglia egyik legrégebbi lakott háza, a normann lakóépítészet ritka példája 1150 környékéről.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ellis Mill",
+                  "text": "Lincoln utolsó működő szélmalma, amely 1798-ban épült a város feletti domboldalon.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brayford Pool",
+                  "text": "Anglia legrégebbi belvízi kikötője, egy római medence, amely ma nyüzsgő éttermi negyed.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Arboretum",
+                  "text": "Gyönyörű viktoriánus park, amelyet 1872-ben nyitottak meg, ritka fafajokkal és szobrokkal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartsholme Country Park",
+                  "text": "Tágas park tóval, erdőkkel és kertekkel egy egykori kúria területén.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whisby Nature Park",
+                  "text": "Egykori kavicsbányák helyén kialakított természetvédelmi terület, gazdag madárvilággal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Guildhall",
+                  "text": "A Stonebow-kapu felett található történelmi városháza, a polgármester és a tanács székhelye.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Medieval Bishop's Palace",
+                  "text": "A lincolni püspökök pompás palotájának romjai, amely egykor Anglia egyik legfontosabb épülete volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Guildhall",
+                  "text": "Jelentős 12. századi épület, amelyet valószínűleg II. Henrik király számára építettek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "International Bomber Command Centre",
+                  "text": "Emlékhely a Bomber Command egységei előtt, akik életüket adták a második világháborúban.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Drill Hall",
+                  "text": "Történelmi kulturális központ, amely eredetileg az önkéntesek gyakorlótereként szolgált.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Engine Shed",
+                  "text": "A régió legnagyobb élőzenei központja, az egyetem felújított vasúti depójában elhelyezve.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sincil Bank",
+                  "text": "A Lincoln City FC otthona, a sportbarátok fontos találkozóhelye 1895 óta.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Joseph Banks Conservatory",
+                  "text": "Trópusi üvegház a The Lawn komplexumban, a híres botanikusról elnevezve.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pottergate Arch",
+                  "text": "A középkori városfal 14. századi maradványa a székesegyház közelében.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars",
+                  "text": "Anglia legrégebbi épségben maradt ferences rendi épülete, ma kiállításoknak ad otthont.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boultham Park",
+                  "text": "Nagy közpark tóval és egy régi birtok maradványaival a város déli részén.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Central Station",
+                  "text": "Műemléki védelem alatt álló, Tudor-stílusú vasútállomás 1848-ból a város szívében.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lawn",
+                  "text": "Egykori kórházépület, amely ma kávézóknak, üzleteknek és rendezvényeknek ad otthont.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Theatre Royal",
+                  "text": "Klasszikus viktoriánus színház, amely 1893 óta várja a látogatókat színes előadásaival.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Theatre Royal",
+                  "text": "Gyönyörűen felújított színházépület gazdag történelemmel és pompás belső térrel.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danes Terrace",
+                  "text": "Festői sikátor a történelmi negyedben, jól megőrzött középkori favázas házakkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Lincoln",
+                  "text": "Una dintre cele mai importante catedrale gotice din Europa, construită începând cu 1072.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Lincoln",
+                  "text": "Castel normand din 1068, care adăpostește unul dintre cele patru exemplare originale ale Magna Carta.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Steep Hill",
+                  "text": "O stradă fermecătoare și abruptă cu clădiri medievale, care leagă centrul orașului de catedrală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Collection",
+                  "text": "Muzeu de arheologie premiat, care prezintă istoria comitatului Lincolnshire din epoca pietrei.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Usher Gallery",
+                  "text": "Principala galerie de artă din regiune, cu lucrări de Turner și Lowry și o colecție de ceasuri.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Lincolnshire Life",
+                  "text": "Muzeu situat într-o fostă cazarmă, prezentând viața cotidiană din regiune din 1750.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "Cel mai vechi pod din Anglia care mai are clădiri pe el, construit în 1160 peste râul Witham.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Arch",
+                  "text": "Singura poartă romană din Marea Britanie prin care încă mai circulă traficul rutier modern.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jew's House",
+                  "text": "Una dintre cele mai vechi case locuite din Anglia, un exemplu rar de arhitectură normandă din 1150.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ellis Mill",
+                  "text": "Ultima moară de vânt funcțională din Lincoln, construită în 1798 pe dealul de deasupra orașului.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brayford Pool",
+                  "text": "Cel mai vechi port interior din Anglia, un bazin roman transformat într-o zonă de agrement.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Arboretum",
+                  "text": "Un parc victorian superb, deschis în 1872, cu specii rare de arbori și numeroase statui.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartsholme Country Park",
+                  "text": "Parc vast cu un lac, păduri și grădini amenajate pe terenul unui fost conac.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whisby Nature Park",
+                  "text": "Rezervație naturală pe locul unor foste cariere de pietriș, celebră pentru varietatea păsărilor.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Guildhall",
+                  "text": "Primăria istorică situată deasupra porții Stonebow, sediul primarului și al consiliului local.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Medieval Bishop's Palace",
+                  "text": "Ruinele palatului magnific al episcopilor de Lincoln, odinioară o clădire crucială în Anglia.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Guildhall",
+                  "text": "O clădire importantă din secolul al XII-lea, construită probabil pentru regele Henric al II-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "International Bomber Command Centre",
+                  "text": "Memorial dedicat echipajelor Bomber Command care și-au pierdut viața în al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Drill Hall",
+                  "text": "Clădire istorică pentru evenimente culturale, folosită inițial ca sală de instrucție militară.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Engine Shed",
+                  "text": "Cel mai mare centru de muzică live din regiune, situat într-un depou renovat al universității.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sincil Bank",
+                  "text": "Stadionul echipei Lincoln City FC, un punct de întâlnire major pentru fanii sportului din 1895.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Joseph Banks Conservatory",
+                  "text": "Seră tropicală din complexul The Lawn, numită după faimosul botanist britanic.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pottergate Arch",
+                  "text": "Un rest al zidului medieval al orașului din secolul al XIV-lea, aflat lângă catedrală.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars",
+                  "text": "Cea mai veche clădire franciscană conservată din Anglia, folosită astăzi pentru diverse expoziții.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boultham Park",
+                  "text": "Un parc public mare cu un lac și ruinele unei vechi moșii în partea de sud a orașului.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Central Station",
+                  "text": "Gara centrală în stil Tudor, construită în 1848, aflată în inima centrului urban.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lawn",
+                  "text": "Fost spital transformat în spațiu comunitar cu cafenele, magazine și săli de evenimente.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Theatre Royal",
+                  "text": "Teatru victorian clasic care oferă o gamă largă de spectacole încă din anul 1893.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Theatre Royal",
+                  "text": "O clădire de teatru frumos restaurată, cu o istorie bogată și interioare spectaculoase.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danes Terrace",
+                  "text": "O alee pitorească în cartierul istoric, cu case medievale din lemn bine conservate.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lincoln Cathedral",
+                  "text": "One of Europe's finest Gothic cathedrals, built from 1072 and once the world's tallest building.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Castle",
+                  "text": "A Norman castle built in 1068, housing one of the four original copies of the 1215 Magna Carta.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Steep Hill",
+                  "text": "A charming, steep street lined with independent shops and medieval buildings leading to the cathedral.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Collection",
+                  "text": "An award-winning archaeology museum showcasing Lincolnshire's history from the Stone Age to today.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Usher Gallery",
+                  "text": "The region's premier art gallery featuring works by Turner, Lowry, and a notable clock collection.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Lincolnshire Life",
+                  "text": "Set in former barracks, this museum explores local life and industry since 1750.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "The oldest bridge in England with buildings still on it, built around 1160 over the River Witham.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newport Arch",
+                  "text": "The only Roman arch in Britain still used by traffic, forming part of the city's ancient walls.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jew's House",
+                  "text": "One of the oldest inhabited townhouses in England, a rare example of Norman domestic architecture.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ellis Mill",
+                  "text": "The last working windmill in Lincoln, built in 1798 and still producing flour on the city ridge.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brayford Pool",
+                  "text": "England's oldest inland harbour, a Roman pool now surrounded by restaurants and university buildings.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Arboretum",
+                  "text": "A beautiful Victorian park opened in 1872, featuring specimen trees, statues, and a bandstand.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartsholme Country Park",
+                  "text": "A large park with a lake, woodlands, and gardens on the site of a former manor house.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Whisby Nature Park",
+                  "text": "A wildlife haven created from former gravel pits, famous for its birdlife and walking trails.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Guildhall",
+                  "text": "Located above the Stonebow gate, this historic building is the seat of the Mayor and City Council.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Medieval Bishop's Palace",
+                  "text": "The ruins of the once-grand residence of Lincoln's bishops, a major English power base.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Guildhall",
+                  "text": "A significant 12th-century building likely built for King Henry II's Christmas court in 1157.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "International Bomber Command Centre",
+                  "text": "A memorial and visitor centre dedicated to the crews of Bomber Command in WWII.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Drill Hall",
+                  "text": "A historic performing arts venue originally built in 1890 for military volunteer training.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Engine Shed",
+                  "text": "The region's largest live music venue, located in a converted university railway engine shed.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sincil Bank",
+                  "text": "The home stadium of Lincoln City FC, a focal point for local sports fans since 1895.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Joseph Banks Conservatory",
+                  "text": "A tropical glasshouse within The Lawn complex, named after the famous botanist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pottergate Arch",
+                  "text": "A 14th-century remnant of the Close Wall that protected the cathedral precinct.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars",
+                  "text": "England's oldest surviving Franciscan friary building, now used as a temporary exhibition space.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boultham Park",
+                  "text": "A large community park in the south of the city with a lake and remnants of an old estate.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Central Station",
+                  "text": "A Grade II listed Tudor-style railway station built in 1848 in the heart of the city.",
+                  "category": "station",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Lawn",
+                  "text": "A former hospital complex now housing cafes and shops set in landscaped historic grounds.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lincoln Theatre Royal",
+                  "text": "A classic Victorian theatre providing a wide range of performances since its opening in 1893.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Theatre Royal",
+                  "text": "A beautifully restored theatre building with a rich heritage and stunning interior decor.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Danes Terrace",
+                  "text": "A picturesque lane in the historic quarter featuring well-preserved medieval timber-framed houses.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-winchester-cities-v2", population: 35200,
@@ -1685,6 +13391,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       fr: ["Ancienne capitale du royaume de Wessex", "La cathédrale possède la nef centrale la plus longue d'Europe", "Abrite la table ronde du roi Arthur (réplique)", "Lieu de sépulture de Jane Austen dans la cathédrale"],
       es: ["Antigua capital del reino de Wessex", "La catedral tiene la nave central más larga de Europa", "Hogar de la mesa redonda del Rey Arturo (réplica)", "Lugar de entierro de Jane Austen en la catedral"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Winchester Cathedral",
+                  "text": "Eine der größten Kathedralen Europas mit dem längsten gotischen Kirchenschiff und den Grabstätten früher englischer Könige.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Great Hall",
+                  "text": "Der einzige erhaltene Teil des Winchester Castle aus dem 13. Jahrhundert, in dem die legendäre Tafelrunde von König Artus hängt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester College",
+                  "text": "Eine im Jahr 1382 gegründete, weltberühmte Schule, die als eine der ältesten kontinuierlich genutzten Bildungseinrichtungen gilt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wolvesey Castle",
+                  "text": "Die Ruinen der mittelalterlichen Residenz der mächtigen Bischöfe von Winchester, die einst ein prächtiger Palast war.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Mill",
+                  "text": "Eine restaurierte Wassermühle aus dem 18. Jahrhundert am Fluss Itchen, die noch heute Mehl auf traditionelle Weise mahlt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospital of St Cross",
+                  "text": "Großbritanniens älteste noch bestehende gemeinnützige Einrichtung, bekannt für ihre Architektur und die Tradition des Almosens.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Museum",
+                  "text": "In einem befestigten mittelalterlichen Stadttor untergebracht, bietet dieses Museum Einblicke in die Tudor- und Stuart-Geschichte.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Museum",
+                  "text": "Ein Museum im Stadtzentrum, das die Geschichte von Winchester von der römischen Zeit bis zur Gegenwart anschaulich erzählt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Itchen",
+                  "text": "Ein kristallklarer Kreidefluss, der durch die Stadt fließt und malerische Wege für entspannte Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester Guildhall",
+                  "text": "Ein prächtiges viktorianisches Gebäude, das als administratives und kulturelles Zentrum der Stadt dient und Festlichkeiten beherbergt.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Winchester Cathedral",
+                  "text": "Európa egyik legnagyobb katedrálisa, amely a leghosszabb gótikus főhajóval és korai angol királyok sírjaival büszkélkedhet.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Great Hall",
+                  "text": "A 13. századi winchesteri vár egyetlen épségben maradt része, ahol a legendás Artúr király kerek asztala látható.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester College",
+                  "text": "Az 1382-ben alapított intézmény a világ egyik legrégebbi, megszakítás nélkül működő iskolája, gyönyörű középkori épületekkel.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wolvesey Castle",
+                  "text": "A hatalmas winchesteri püspökök egykori középkori rezidenciájának romjai, amelyek a város gazdag egyházi múltját idézik.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Mill",
+                  "text": "Az Itchen-folyón álló, 18. századi felújított vízimalom, ahol a látogatók ma is megtekinthetik a hagyományos lisztőrlést.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospital of St Cross",
+                  "text": "Nagy-Britannia legrégebbi máig működő jótékonysági intézménye, amely lenyűgöző normann kápolnájáról és alamizsna-osztásáról híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Museum",
+                  "text": "Egy középkori városkapu épületében helyet kapott múzeum, amely a város védelmi rendszerének és börtönének múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Museum",
+                  "text": "A város szívében található múzeum, amely a római kortól kezdve ismerteti Winchester történelmét és fontos leleteit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Itchen",
+                  "text": "Kristálytiszta vizű folyó, amely festői útvonalat kínál a természet kedvelőinek a város történelmi falai mentén.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester Guildhall",
+                  "text": "Impozáns viktoriánus épület, amely a város közigazgatási és kulturális központjaként szolgál, számos díszes teremmel.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Winchester Cathedral",
+                  "text": "Una dintre cele mai mari catedrale din Europa, având cea mai lungă navă gotică și mormintele unor regi englezi timpurii.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Great Hall",
+                  "text": "Singura parte supraviețuitoare a Castelului Winchester din secolul al XIII-lea, unde este expusă legendara Masă Rotundă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester College",
+                  "text": "Fondată în 1382, este una dintre cele mai vechi și prestigioase școli din Anglia, cu o arhitectură medievală remarcabilă.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wolvesey Castle",
+                  "text": "Ruinele reședinței medievale a puternicilor episcopi de Winchester, care a fost cândva un palat de o splendoare rară.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Mill",
+                  "text": "O moară de apă restaurată din secolul al XVIII-lea pe râul Itchen, unde se mai macină făină prin metode tradiționale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospital of St Cross",
+                  "text": "Cea mai veche instituție caritabilă din Marea Britanie încă în funcțiune, faimoasă pentru capela normandă și tradițiile sale.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Museum",
+                  "text": "Situat într-o poartă medievală a orașului, muzeul oferă o perspectivă asupra istoriei Tudorilor și a apărării cetății.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Museum",
+                  "text": "Muzeu situat în centrul orașului care urmărește evoluția Winchesterului de la epoca romană până în perioada contemporană.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Itchen",
+                  "text": "Un râu de cretă cu apă foarte limpede care traversează orașul, oferind trasee pitorești pentru plimbări în natură.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester Guildhall",
+                  "text": "O clădire victoriană impunătoare care servește drept centru administrativ și cultural al orașului, găzduind mari evenimente.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Winchester Cathedral",
+                  "text": "One of the largest cathedrals in Europe, featuring the longest Gothic nave and burial sites of early English kings.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Great Hall",
+                  "text": "The 13th-century hall that is the only surviving part of Winchester Castle, housing the iconic Round Table of King Arthur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester College",
+                  "text": "Founded in 1382, it is one of the oldest and most prestigious continuously running schools in the United Kingdom.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wolvesey Castle",
+                  "text": "The ruins of the medieval residence of the powerful Bishops of Winchester, once a magnificent palace for high-ranking clergy.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Mill",
+                  "text": "A restored 18th-century watermill on the River Itchen that still demonstrates traditional flour milling techniques today.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospital of St Cross",
+                  "text": "England's oldest almshouse still in use, famous for its grand Norman chapel and the Wayfarer's Dole tradition.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Westgate Museum",
+                  "text": "Housed in a fortified medieval city gate, this museum explores the history of Winchester as a defensive center.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester City Museum",
+                  "text": "A city center museum telling the story of Winchester from its Roman origins to the present day through diverse exhibits.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Itchen",
+                  "text": "A crystal-clear chalk stream flowing through the city, offering scenic riverside paths and a tranquil natural environment.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Winchester Guildhall",
+                  "text": "A grand Victorian building that serves as the administrative and cultural hub of the city, hosting many public events.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-st-davids-cities-v2",
@@ -1779,6 +13735,544 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       fr: ["Capitale de la culture du Royaume-Uni 2017", "Siège de l'aquarium 'The Deep'", "Pont suspendu à travée unique le plus long (pont Humber)", "La fermeture des portes de la ville en 1642 a déclenché la guerre civile"],
       es: ["Capital de la cultura del Reino Unido 2017", "Hogar del acuario 'The Deep'", "Puente colgante de un solo tramo más largo (Puente Humber)", "El cierre de las puertas de la ciudad en 1642 desencadenó la Guerra Civil"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Hull Minster",
+                  "text": "Einst als Holy Trinity Church bekannt, ist dies eine der größten Pfarrkirchen Englands und ein gotisches Meisterwerk.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Deep",
+                  "text": "Ein spektakuläres Aquarium in einem markanten Gebäude, das Tausende von Meerestieren und Haien beherbergt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Humber Bridge",
+                  "text": "Eine imposante Hängebrücke, die einst die längste der Welt war und den Fluss Humber auf beeindruckende Weise überspannt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Streetlife Museum of Transport",
+                  "text": "Ein faszinierendes Museum, das die Geschichte des Verkehrs mit alten Kutschen, Fahrrädern und Straßenbahnen zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ferens Art Gallery",
+                  "text": "Eine renommierte Kunstgalerie mit einer beeindruckenden Sammlung europäischer Meisterwerke und moderner Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Maritime Museum",
+                  "text": "Das Museum im ehemaligen Gebäude der Dock Company beleuchtet die reiche Walfang- und Fischereitradition der Stadt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilberforce House",
+                  "text": "Das Geburtshaus von William Wilberforce, dem Vorkämpfer gegen den Sklavenhandel, das heute als Museum dient.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arctic Corsair",
+                  "text": "Ein historischer Fischtrawler, der heute als Museumsschiff im Fluss Hull liegt und die harte Arbeit auf See zeigt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spurn Lightship",
+                  "text": "Ein ehemaliges Feuerschiff, das im Hafen von Hull liegt und besichtigt werden kann, um das Leben an Bord zu erkunden.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Old Town",
+                  "text": "Der historische Kern der Stadt mit gut erhaltenen georgianischen Gebäuden und stimmungsvollen gepflasterten Gassen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hepworth's Arcade",
+                  "text": "Eine wunderschöne viktorianische Einkaufspassage mit individuellen Geschäften und einer eleganten Glasdach-Architektur.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Marina",
+                  "text": "Ein belebtes Hafenbecken im Herzen der Stadt, umgeben von Cafés und Bars, ideal für einen entspannten Spaziergang.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Victoria Square",
+                  "text": "Der zentrale Platz der Stadt, gesäumt von prächtigen Gebäuden wie der City Hall und dem Maritime Museum.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull City Hall",
+                  "text": "Ein prächtiger Veranstaltungsort im Stadtzentrum, der für Konzerte, Aufführungen und kulturelle Events genutzt wird.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull New Theatre",
+                  "text": "Eines der führenden Theater im Norden Englands mit einem breiten Spektrum an Musicals, Ballett und Opern.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pearson Park",
+                  "text": "Der erste öffentliche Park der Stadt, ein klassisches Beispiel für eine viktorianische Parkanlage mit einem Tropenhaus.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Park",
+                  "text": "Hulls größter öffentlicher Park mit einem See, Tiergehegen und zahlreichen Freizeitmöglichkeiten für die ganze Familie.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maister House",
+                  "text": "Ein georgianisches Kaufmannshaus mit einer außergewöhnlichen Treppe, das vom National Trust verwaltet wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prince's Quay",
+                  "text": "Ein modernes Einkaufszentrum, das auf Pfählen über einem ehemaligen Hafenbecken erbaut wurde und einzigartig aussieht.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beverley Gate",
+                  "text": "Historische Ausgrabungsstätte im Stadtzentrum, wo dem König Karl I. im Jahr 1642 der Zutritt zur Stadt verwehrt wurde.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of William III",
+                  "text": "Eine markante goldene Reiterstatue von König Wilhelm III., die im Volksmund oft als Goldener König bezeichnet wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickering Park",
+                  "text": "Ein weitläufiger Park im Westen der Stadt mit wunderschönen Gärten und Sportplätzen für die örtliche Gemeinschaft.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hull Minster",
+                  "text": "Korábban Szent Háromság templomként volt ismert, Anglia egyik legnagyobb plébániatemploma és gótikus remekmű.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Deep",
+                  "text": "Látványos óriásakvárium egy modern épületben, amely több ezer tengeri állatnak és cápának ad otthont a kikötőnél.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Humber-híd",
+                  "text": "Impozáns függőhíd a Humber-folyó felett, amely átadásakor a leghosszabb volt a világon, és a mérnöki tudás csodája.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Közlekedési Múzeum",
+                  "text": "Érdekes múzeum az óvárosban, amely a közlekedés történetét mutatja be régi kocsikkal, villamosokkal és kerékpárokkal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ferens Művészeti Galéria",
+                  "text": "Neves galéria az óváros szívében, amely európai mesterművek és kortárs alkotások gazdag gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull-i Tengerészeti Múzeum",
+                  "text": "A dokktársaság egykori székházában berendezett múzeum a város bálnavadász és halász múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilberforce-ház",
+                  "text": "William Wilberforce, a rabszolga-kereskedelem elleni küzdelem vezéralakjának szülőháza, amely ma múzeumként működik.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arctic Corsair",
+                  "text": "Történelmi halászhajó a Hull-folyón, amely ma múzeumhajóként mutatja be a tengeri halászat nehézségeit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spurn Lightship",
+                  "text": "Egykori világítóhajó a kikötőben, amely látogatható, bemutatva a legénység életét ezen a különleges vízi járművön.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull óvárosa",
+                  "text": "A város történelmi központja jól megőrzött György-kori épületekkel, macskaköves utcákkal és hangulatos kocsmákkal.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hepworth's Arcade",
+                  "text": "Gyönyörű viktoriánus bevásárlóudvar üvegtetővel és egyedi üzletekkel, amely őrzi a békebeli idők hangulatát.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Marina",
+                  "text": "Élettel teli jachtkikötő a belvárosban, amelyet kávézók és bárok vesznek körül, ideális hely egy sétára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktória királynő tér",
+                  "text": "A város központi tere, amelyet olyan monumentális épületek határolnak, mint a városháza és a tengerészeti múzeum.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull-i Városháza",
+                  "text": "Díszes épület a város szívében, amely koncerteknek és nagyszabású kulturális eseményeknek biztosít elegáns helyszínt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull New Theatre",
+                  "text": "Észak-Anglia egyik vezető színháza, amely musicaleket, balett- és operaelőadásokat mutat be magas színvonalon.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pearson Park",
+                  "text": "A város első közparkja, amely a viktoriánus kertművészet szép példája egy különleges trópusi növényházzal.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Park",
+                  "text": "Hull legnagyobb parkja csónakázótóval, állatkerttel és számos pihenési lehetőséggel a családok számára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maister-ház",
+                  "text": "György-kori kereskedőház lenyűgöző lépcsőházzal, amelyet a National Trust tart fenn a látogatók számára.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prince's Quay",
+                  "text": "Modern bevásárlóközpont, amely különleges módon egy régi dokk vize fölé épült, látványos építészeti megoldás.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beverley Gate",
+                  "text": "Történelmi emlékhely, ahol 1642-ben megtagadták a belépést I. Károly királynak, kirobbantva a polgárháborút.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "III. Vilmos szobra",
+                  "text": "Aranyozott lovasszobor a városban, amelyet a helyiek gyakran csak Arany Királyként emlegetnek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickering Park",
+                  "text": "Kiterjedt zöldterület a város nyugati részén kertekkel és sportpályákkal a környék lakói számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hull Minster",
+                  "text": "Cunoscută anterior sub numele de Biserica Sfânta Treime, este una dintre cele mai mari biserici parohiale din Anglia.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Deep",
+                  "text": "Un acvariu spectaculos situat într-o clădire futuristă, găzduind mii de creaturi marine, inclusiv rechini și pisici de mare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Humber",
+                  "text": "Un pod suspendat impresionant peste râul Humber, care la momentul inaugurării sale era cel mai lung de acest tip din lume.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Transportului Streetlife",
+                  "text": "Un muzeu fascinant care prezintă istoria transportului prin trăsuri vechi, tramvaie și biciclete de epocă în centrul vechi.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Galeria de Artă Ferens",
+                  "text": "O galerie de artă renumită cu o colecție impresionantă de picturi europene vechi și lucrări contemporane de valoare.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Maritim Hull",
+                  "text": "Găzduit în fosta clădire a Companiei Docurilor, muzeul explorează tradiția bogată a pescuitului și vânătorii de balene.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Wilberforce",
+                  "text": "Locul de naștere al lui William Wilberforce, liderul mișcării abolitioniste, transformat astăzi într-un muzeu al libertății.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arctic Corsair",
+                  "text": "Un trauler de pescuit istoric acostat pe râul Hull, care servește acum ca navă-muzeu pentru a onora comunitatea pescarilor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spurn Lightship",
+                  "text": "O fostă navă-far situată în portul Hull, deschisă vizitatorilor care doresc să descopere viața izolată a echipajului de la bord.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orașul Vechi Hull",
+                  "text": "Centrul istoric al orașului cu clădiri georgiene bine conservate, străzi pavate și pub-uri cu o atmosferă autentică.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arcada Hepworth",
+                  "text": "O arcadă comercială victoriană superbă, acoperită cu sticlă, care adăpostește magazine independente și artizanale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marina Hull",
+                  "text": "Un port de ambarcațiuni plin de viață în inima orașului, înconjurat de cafenele și restaurante moderne lângă apă.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Regina Victoria",
+                  "text": "Piața centrală a orașului, dominată de clădiri monumentale precum Primăria și Muzeul Maritim.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Hull",
+                  "text": "O clădire civică impunătoare folosită pentru concerte, ceremonii și evenimente culturale majore în centrul orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Nou Hull",
+                  "text": "Unul dintre cele mai importante teatre din nordul Angliei, oferind spectacole de musical, balet și operă de clasă mondială.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Pearson",
+                  "text": "Primul parc public din Hull, un exemplu clasic de design peisagistic victorian, cu o seră tropicală renumită.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul East",
+                  "text": "Cel mai mare parc public din Hull, oferind un lac pentru canotaj, o grădină zoologică și numeroase facilități sportive.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Maister",
+                  "text": "O reședință de negustor din epoca georgiană cu o scară interioară remarcabilă, administrată de National Trust.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prince's Quay",
+                  "text": "Un centru comercial modern construit pe piloni deasupra apei unui fost doc, oferind o experiență de cumpărături unică.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Beverley",
+                  "text": "Sit istoric unde în 1642 regelui Carol I i s-a refuzat intrarea în oraș, eveniment ce a marcat începutul războiului civil.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statuia lui William al III-lea",
+                  "text": "O statuie ecvestră aurită a regelui William al III-lea, situată în Market Place, cunoscută local sub numele de Regele Aurit.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Pickering",
+                  "text": "O zonă verde întinsă în vestul orașului, cu grădini frumoase și terenuri de sport destinate comunității locale.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hull Minster",
+                  "text": "Formerly known as Holy Trinity Church, this is one of the largest parish churches in England and a Gothic masterpiece.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Deep",
+                  "text": "A spectacular aquarium housed in a striking building at Sammy's Point, featuring thousands of sea creatures and sharks.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Humber Bridge",
+                  "text": "An iconic suspension bridge over the River Humber, which was the longest of its type in the world upon completion.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Streetlife Museum of Transport",
+                  "text": "A fascinating museum in the Old Town depicting transport history with vintage carriages, trams, and bicycles.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ferens Art Gallery",
+                  "text": "A renowned art gallery in the heart of the city with an impressive collection of European masterpieces and modern art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Maritime Museum",
+                  "text": "Set in the former Dock Company building, this museum explores the city's rich whaling and fishing heritage.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilberforce House",
+                  "text": "The birthplace of William Wilberforce, the campaigner against the slave trade, now serving as a museum.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arctic Corsair",
+                  "text": "A historic deep-sea fishing trawler berthed on the River Hull, now a museum ship representing the city's maritime past.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spurn Lightship",
+                  "text": "A former light vessel moored in Hull Marina, open for visitors to explore life aboard a ship that guided others to safety.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Old Town",
+                  "text": "The city's historic core featuring well-preserved Georgian architecture, cobbled streets, and atmospheric pubs.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hepworth's Arcade",
+                  "text": "A beautiful Victorian shopping arcade with independent shops and an elegant glass-roofed design.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull Marina",
+                  "text": "A vibrant dock for pleasure craft in the city centre, surrounded by cafes and restaurants near the waterfront.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Queen Victoria Square",
+                  "text": "The central square of the city, flanked by grand buildings like the City Hall and the Maritime Museum.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull City Hall",
+                  "text": "A grand civic building used as a major venue for concerts, graduations, and various cultural events in the city centre.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hull New Theatre",
+                  "text": "One of the North of England's premier theatres, hosting major touring musicals, ballet, and opera productions.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pearson Park",
+                  "text": "The city's first public park, a classic Victorian design featuring a popular conservatory and historic statues.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Park",
+                  "text": "Hull's largest public park, featuring a boating lake, animal enclosure, and many recreational facilities for families.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maister House",
+                  "text": "A Georgian merchant's house with an outstanding staircase and interiors, managed by the National Trust.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Prince's Quay",
+                  "text": "A modern shopping centre uniquely built on stilts over the water of a former dock in the city centre.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beverley Gate",
+                  "text": "Historic site where King Charles I was refused entry to the city in 1642, a key event in the English Civil War.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Statue of William III",
+                  "text": "A prominent gilded lead equestrian statue of King William III, often referred to locally as the Golden King.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickering Park",
+                  "text": "A large park in the west of the city featuring beautiful gardens and sports pitches for the local community.",
+                  "category": "natural",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-wolverhampton-cities-v2",
@@ -1873,6 +14367,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 372.000 (2021)", "Área: 93 km²", "Fusão: 1910", "Número de olarias no auge: mais de 300", "Visitantes importantes do museu: 200.000 anuais no Museu Wedgwood", "Ponto mais alto: 213 m acima do nível do mar"],
       fr: ["Population : 372 000 (2021)", "Superficie : 93 km²", "Fusion : 1910", "Nombre de poteries à leur apogée : plus de 300", "Visiteurs importants du musée : 200 000 par an au musée Wedgwood", "Point culminant : 213 m au-dessus du niveau de la mer"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "The Potteries Museum & Art Gallery",
+                  "text": "Dieses Museum beherbergt die weltweit bedeutendste Sammlung von Keramiken aus Staffordshire und den angelsächsischen Schatz von Staffordshire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gladstone Töpfereimuseum",
+                  "text": "Eine vollständig erhaltene viktorianische Töpferei mit den charakteristischen Flaschenöfen, die die Industriegeschichte der Stadt lebendig macht.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Ein Erlebniszentrum, das die Geschichte der weltberühmten Marke Wedgwood zeigt, inklusive Fabriktouren und eines bedeutenden Museums.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Middleport Töpferei",
+                  "text": "Die Heimat der Burleigh-Keramik bietet Einblicke in traditionelle Handwerkstechniken in einer historischen Fabrik am Kanal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "Die Hauptkirche der Stadt mit angelsächsischen Ursprüngen und Gräbern bedeutender Töpfermeister wie Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Gärten",
+                  "text": "Wunderschöne italienische Gärten, ein See und weitläufige Parkanlagen bieten Erholung und erstklassige Gartenbaukunst.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Affenwald",
+                  "text": "Ein einzigartiges Freigehege, in dem 140 Berberaffen frei in einem alten Waldgebiet leben und beobachtet werden können.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "Ein prächtiges Fachwerkhaus aus dem 17. Jahrhundert, das als Museum das ländliche Leben der Tudor- und Stuart-Zeit zeigt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bethesda Methodistenkapelle",
+                  "text": "Bekannt als die Kathedrale des Methodismus, beeindruckt dieses Gebäude durch seine Architektur und seine historische Bedeutung.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Ein prachtvoller Konzertsaal aus dem Jahr 1888, der für seine hervorragende Akustik und sein vielfältiges Programm bekannt ist.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regent Theater",
+                  "text": "Ein wunderschön restauriertes Art-déco-Theater in Hanley, das große Tournee-Produktionen und Musicals beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Ein viktorianischer Stadtpark mit einem Pavillon, Sportanlagen und gepflegten Blumenbeeten im Zentrum der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "Ein weitläufiger Grünraum auf einem ehemaligen Zechengelände, ideal für Wanderungen und mit einem großen Skatepark.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Etruria Industriemuseum",
+                  "text": "Die letzte dampfbetriebene Mahlmühle für Töpfermaterialien zeigt die mechanische Seite der Keramikherstellung.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spode Museum Works",
+                  "text": "Ein Museum auf dem Gelände der historischen Spode-Fabrik, das seltene Blau-Weiß-Drucke und Designgeschichte präsentiert.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emma Bridgewater Fabrik",
+                  "text": "Eine lebhafte moderne Fabrik, in der Besucher die handgemalte Produktion beobachten und selbst Keramik gestalten können.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus von Burslem",
+                  "text": "Ein beeindruckendes viktorianisches Gebäude mit klassizistischer Fassade, das das Herz der 'Mutterstadt' der Potteries bildet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mow Cop Burg",
+                  "text": "Eine künstliche Ruine aus dem 18. Jahrhundert auf einem Hügel, die spektakuläre Ausblicke über die Region bietet.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "Ein friedlicher Park mit herrlicher Aussicht auf die Stadt und die umliegenden Hügel von Staffordshire.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Hall Landschaftspark",
+                  "text": "Ein Naturschutzgebiet mit Teichen, Wäldern und Heidelandschaften, das ein wichtiges Refugium für die lokale Tierwelt ist.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chatterley Whitfield Kohlebergwerk",
+                  "text": "Ein national bedeutendes Industriedenkmal, das die Bergbaugeschichte erinnert, die einst die Töpfereien befeuerte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kings Hall",
+                  "text": "Ein prachtvoller Saal im Rathaus von Stoke, der für Bälle, Konzerte und große gesellschaftliche Ereignisse genutzt wird.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burleigh Töpferei",
+                  "text": "Berühmt für das traditionelle Transferdruck-Verfahren, ist dies eine der letzten Fabriken ihrer Art weltweit.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apedale Heritage Centre",
+                  "text": "Bietet geführte Touren durch ein ehemaliges Bergwerk und zeigt die lokale Industriegeschichte im Norden der Stadt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Ein historisches Handelszentrum, das die Bedeutung von Longton als Zentrum der Porzellanherstellung widerspiegelt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Potteries Múzeum és Galéria",
+                  "text": "Ez a múzeum ad otthont a világ legjelentősebb staffordshire-i kerámiagyűjteményének és a híres staffordshire-i kincsnek.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gladstone Fazekasmúzeum",
+                  "text": "Egy teljesen konzervált viktoriánus fazekasüzem jellegzetes kemencékkel, amely életre kelti a város ipari múltját.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Élményközpont, amely a világhírű Wedgwood márka történetét mutatja be gyárlátogatással és múzeumi tárlattal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Middleport Fazekasság",
+                  "text": "A Burleigh kerámia otthona, ahol a látogatók bepillantást nyerhetnek a hagyományos kézműves technikákba a csatorna partján.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "A város főtemploma angolszász eredettel, ahol híres fazekasmesterek, köztük Josiah Wedgwood sírja is található.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Kertek",
+                  "text": "Gyönyörű olasz kertek, egy tó és kiterjedt parkosított területek kínálnak kikapcsolódást és kertészeti élményt.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Majomerdő",
+                  "text": "Egyedülálló park, ahol 140 berber makákó él szabadon egy ősi erdőben, zavartalanul megfigyelhető módon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "Egy 17. századi fa-vázas kúria, amely múzeumként mutatja be a Tudor- és Stuart-kori vidéki életmódot.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bethesda Metodista Kápolna",
+                  "text": "A metodizmus katedrálisaként ismert épület lenyűgöző belső térével és történelmi jelentőségével tűnik ki.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Egy 1888-ban épült pompás hangversenyterem, amely kiváló akusztikájáról és változatos zenei programjairól ismert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regent Színház",
+                  "text": "Egy gyönyörűen felújított art deco színház Hanley-ben, amely nagyszabású turnéprodukcióknak és musicaleknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Viktoriánus városi park pavilonnal, sportpályákkal és gondozott virágágyásokkal a város szívében.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "Egy korábbi bánya területén kialakított zöldterület, amely túraútvonalakat és egy nagy gördeszkapályát kínál.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Etruria Ipari Múzeum",
+                  "text": "Az utolsó gőzüzemű kerámia-alapanyag őrlőmalom, amely bemutatja a gyártás mechanikai oldalát.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spode Múzeum",
+                  "text": "A történelmi Spode gyár területén található múzeum, amely ritka kék-fehér porcelánokat és formatervezési emlékeket őriz.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emma Bridgewater Gyár",
+                  "text": "Egy életteli modern gyár, ahol a látogatók megfigyelhetik a kézzel festett termékek készítését és maguk is alkothatnak.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burslem Városháza",
+                  "text": "Impozáns viktoriánus épület klasszicista homlokzattal, amely a fazekasvárosok anyavárosának központjában áll.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mow Cop vára",
+                  "text": "Egy 18. századi műrom egy dombtetőn, ahonnan látványos kilátás nyílik a környező vidékre.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "Békés park, ahonnan remek kilátás nyílik a városra és Staffordshire környező dombjaira.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Hall Országos Park",
+                  "text": "Természetvédelmi terület tavakkal, erdőkkel és fenyérekkel, amely fontos menedék a helyi élővilág számára.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chatterley Whitfield Szénbánya",
+                  "text": "Országos jelentőségű ipari emlékhely, amely a fazekasipart egykor kiszolgáló bányászati múltra emlékeztet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kings Hall",
+                  "text": "A stoke-i városháza díszterme, amelyet bálok, koncertek és fontos társadalmi események megrendezésére használnak.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burleigh Fazekasság",
+                  "text": "A hagyományos matricás díszítésről híres üzem, amely az egyik utolsó ilyen típusú gyár a világon.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apedale Örökségközpont",
+                  "text": "Vezetett túrákat kínál egy egykori bányában, bemutatva a város északi részének ipari fejlődését.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Történelmi kereskedelmi központ, amely Longton porcelángyártásban betöltött fontos szerepét tükrözi.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul și Galeria de Artă Potteries",
+                  "text": "Acest muzeu găzduiește cea mai importantă colecție de ceramică din Staffordshire și faimosul tezaur anglo-saxon din Staffordshire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Ceramică Gladstone",
+                  "text": "O fabrică de ceramică victoriană conservată integral, cu cuptoarele sale specifice, care readuce la viață istoria industrială.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Un centru de experiență care prezintă istoria brandului de renume mondial Wedgwood, incluzând tururi în fabrică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ceramica Middleport",
+                  "text": "Sediul ceramicii Burleigh, oferind o incursiune în tehnicile tradiționale de manufactură într-o fabrică istorică de pe canal.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "Biserica principală a orașului cu origini anglo-saxone, unde se află mormintele unor ceramiști celebri precum Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Trentham",
+                  "text": "Grădini italiene superbe, un lac și parcuri vaste oferă relaxare și peisaje horticole de clasă mondială.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea de Maimuțe Trentham",
+                  "text": "Un parc unic unde 140 de macaci berberi trăiesc liberi într-o pădure străveche, putând fi observați de vizitatori.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "O casă boierească din secolul al XVII-lea, transformată în muzeu, care prezintă viața rurală din perioadele Tudor și Stuart.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capela Metodistă Bethesda",
+                  "text": "Cunoscută drept catedrala metodismului, clădirea impresionează prin arhitectura sa și importanța sa istorică.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "O sală de concerte grandioasă din 1888, celebră pentru acustica sa excelentă și programul cultural variat.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Regent",
+                  "text": "Un teatru art deco restaurat frumos în Hanley, care găzduiește producții majore de turneu și musicaluri.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Hanley",
+                  "text": "Parc orășenesc victorian cu pavilion, facilități sportive și aranjamente florale îngrijite în centrul orașului.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Forestier Central",
+                  "text": "Un spațiu verde vast creat pe locul unei foste mine, ideal pentru drumeții și dotat cu un skatepark mare.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Industrial Etruria",
+                  "text": "Ultima moară cu aburi funcțională pentru măcinarea materialelor ceramice, prezentând latura mecanică a producției.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Spode",
+                  "text": "Muzeu situat pe terenul fabricii istorice Spode, prezentând piese rare imprimate alb-albastru și istoria designului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fabrica Emma Bridgewater",
+                  "text": "O fabrică modernă vibrantă unde vizitatorii pot urmări pictura manuală a produselor și își pot crea propria ceramică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Burslem",
+                  "text": "Clădire victoriană impunătoare cu fațadă clasică, situată în inima orașului-mamă al ceramicii din Staffordshire.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Mow Cop",
+                  "text": "O ruină artificială din secolul al XVIII-lea situată pe un deal, oferind vederi spectaculoase asupra regiunii.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Hartshill",
+                  "text": "Un parc liniștit oferind vederi panoramice asupra orașului și a dealurilor înconjurătoare din Staffordshire.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Natural Park Hall",
+                  "text": "Rezervație naturală cu iazuri, păduri și lande, reprezentând un refugiu important pentru fauna locală.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mina de Cărbune Chatterley Whitfield",
+                  "text": "Monument industrial de importanță națională care amintește de trecutul minier ce alimenta fabricile de ceramică.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kings Hall",
+                  "text": "O sală de bal somptuoasă în primăria din Stoke, utilizată pentru concerte și evenimente sociale majore.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ceramica Burleigh",
+                  "text": "Celebră pentru tehnica tradițională de decorare prin transfer, este una dintre ultimele fabrici de acest tip din lume.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Patrimoniu Apedale",
+                  "text": "Oferă tururi ghidate într-o fostă mină, prezentând istoria industrială a părții de nord a orașului.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Un centru comercial istoric care reflectă importanța orașului Longton ca centru al producției de porțelan fin.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Potteries Museum & Art Gallery",
+                  "text": "This museum houses the world's most significant collection of Staffordshire ceramics and the famous Staffordshire Hoard.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gladstone Pottery Museum",
+                  "text": "A fully preserved Victorian pottery factory with its distinctive bottle kilns, bringing the city's industrial past to life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "An experience centre showcasing the history of the world-famous Wedgwood brand, including factory tours and a museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Middleport Pottery",
+                  "text": "The home of Burleigh pottery, offering a look at traditional handcrafting techniques in a historic canal-side factory.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "The town's main church with Anglo-Saxon origins, containing the graves of master potters like Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Gardens",
+                  "text": "Beautiful Italianate gardens, a lake, and extensive parklands offer relaxation and world-class horticultural displays.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trentham Monkey Forest",
+                  "text": "A unique park where 140 Barbary macaques live free in ancient woodland, allowing for close observation by visitors.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "A 17th-century timber-framed farmhouse museum showing rural life during the Tudor and Stuart periods.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bethesda Methodist Chapel",
+                  "text": "Known as the cathedral of Methodism, this building stands out for its grand architecture and historical significance.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "A magnificent concert hall built in 1888, renowned for its excellent acoustics and diverse musical programme.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Regent Theatre",
+                  "text": "A beautifully restored art deco theatre in Hanley that hosts major touring productions and musical shows.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Victorian urban park featuring a pavilion, sports facilities, and manicured flower beds in the heart of the city.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "A vast green space created on a former colliery site, ideal for hiking and featuring a large skatepark.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Etruria Industrial Museum",
+                  "text": "The last steam-powered pottery materials grinding mill, showcasing the mechanical side of ceramic production.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spode Museum Works",
+                  "text": "A museum on the site of the historic Spode factory, featuring rare blue-and-white prints and design history.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Emma Bridgewater Factory",
+                  "text": "A vibrant modern factory where visitors can watch hand-painted production and try decorating their own pottery.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burslem Town Hall",
+                  "text": "Imposing Victorian building with a classical facade, standing at the heart of the 'Mother Town' of the Potteries.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mow Cop Castle",
+                  "text": "An 18th-century folly castle on a hilltop, providing spectacular panoramic views over the surrounding countryside.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "A peaceful park offering wonderful views over the city and the surrounding Staffordshire moorland hills.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Hall Country Park",
+                  "text": "A nature reserve with ponds, woodlands, and heathland, providing an important sanctuary for local wildlife.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chatterley Whitfield Colliery",
+                  "text": "An industrial heritage site of national importance, remembering the mining past that once fuelled the potteries.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kings Hall",
+                  "text": "A grand ballroom in Stoke Town Hall used for dances, concerts, and major social events in the community.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Burleigh Pottery",
+                  "text": "Famous for the traditional transferware process, this is one of the last factories of its kind in the world.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Apedale Heritage Centre",
+                  "text": "Offers guided tours into a former mine, showcasing the industrial history of the north part of the city.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "A historic commercial exchange reflecting Longton's importance as a centre for fine bone china production.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-derby-cities-v2", population: 255394,
@@ -1920,6 +15024,616 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 255.000 (2021)", "Área: 78 km²", "Estatuto de cidade: 1977", "Funcionários da Rolls-Royce: aprox. 11.000", "Construção da catedral: concluída em 1725", "Rio Derwent: 306 km de comprimento"],
       fr: ["Population : 255 000 (2021)", "Superficie : 78 km²", "Statut de ville : 1977", "Employés de Rolls-Royce : env. 11 000", "Construction de la cathédrale : achevée en 1725", "Rivière Derwent : 306 km de long"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Derby",
+                  "text": "Die Kathedrale besitzt den zweithöchsten Kirchturm Englands und beherbergt das prächtige Grabmal von Bess of Hardwick.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Making",
+                  "text": "In der historischen Silk Mill gelegen, zeigt dieses Museum die reiche Industriegeschichte Derbys als Geburtsstätte der Fabriken.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Museum and Art Gallery",
+                  "text": "Bekannt für die weltweit größte Sammlung von Gemälden des Künstlers Joseph Wright of Derby und archäologische Funde.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickford's House Museum",
+                  "text": "Ein georgianisches Stadthaus, das Einblicke in das Leben einer wohlhabenden Familie und ihrer Bediensteten im 18. Jahrhundert bietet.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Arboretum",
+                  "text": "Der erste öffentliche Stadtpark Englands, der 1840 eröffnet wurde und als Vorbild für den Central Park in New York diente.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Markeaton Park",
+                  "text": "Ein weitläufiger Freizeitpark mit Gärten, einem See, einer Miniatureisenbahn und zahlreichen Sportmöglichkeiten für Familien.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darley Park",
+                  "text": "Ein malerischer Park am Ufer des Flusses Derwent, bekannt für seine Hortensiensammlung und das jährliche Open-Air-Konzert.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Elvaston",
+                  "text": "Ein prächtiges Landhaus in einem weitläufigen Country Park, berühmt für seine neugotische Architektur und formalen Gärten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kedleston Hall",
+                  "text": "Ein meisterhaftes Herrenhaus des Architekten Robert Adam aus dem 18. Jahrhundert, umgeben von einem weiten Landschaftspark.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Crown Derby",
+                  "text": "Das Besucherzentrum einer der ältesten Porzellanmanufakturen Englands bietet Fabriktouren und ein interessantes Museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Mary's Bridge Chapel",
+                  "text": "Eine der wenigen erhaltenen Brückenkapellen Englands, die Reisende im Mittelalter beim Betreten der Stadt willkommen hieß.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friar Gate Gefängnis",
+                  "text": "Ein ehemaliges Gefängnis aus dem 18. Jahrhundert, in dem heute ein Museum die düstere Kriminalgeschichte der Stadt erzählt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Dolphin Inne",
+                  "text": "Der älteste Pub Derbys aus dem Jahr 1530, berühmt für seine historischen Räume und Geistergeschichten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quad",
+                  "text": "Ein modernes Kunst- und Kulturzentrum am Marktplatz, das Ausstellungen, ein Kino und kreative Workshops anbietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Theater",
+                  "text": "Ein bedeutendes regionales Theater, das sowohl klassische Stücke als auch innovative Eigenproduktionen auf die Bühne bringt.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pride Park Stadium",
+                  "text": "Die Heimspielstätte des Fußballvereins Derby County und ein markantes Wahrzeichen im modernen Stadtteil Pride Park.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Helen's House",
+                  "text": "Ein prachtvolles georgianisches Gebäude, das einst als Schulgebäude diente und heute als eines der schönsten Häuser der Stadt gilt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Guildhall",
+                  "text": "Ein elegantes viktorianisches Gebäude am Marktplatz, das ein kleines Theater beherbergt und für kulturelle Events genutzt wird.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Rathaus",
+                  "text": "Ein markantes Gebäude der Stadtverwaltung, das durch seinen Uhrturm und die Lage am zentralen Platz auffällt.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Werburgh Kirche",
+                  "text": "Eine historische Kirche im Stadtzentrum, die für ihre Verbindung zu Samuel Johnson und ihre feine Architektur bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allestree Park",
+                  "text": "Ein großer öffentlicher Park am Stadtrand mit einem Golfplatz, einem See und ausgedehnten Waldflächen für Spaziergänge.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chaddesden Park",
+                  "text": "Ein beliebter Gemeinschaftspark mit Spielplätzen, Sportanlagen und einer reichen Geschichte als Teil eines ehemaligen Gutshofs.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alvaston Park",
+                  "text": "Ein weitläufiger Park am Flussufer mit einem See, Radwegen und einem beliebten Café für Besucher.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Roundhouse",
+                  "text": "Der älteste erhaltene Lokschuppen der Welt, heute ein College-Campus und ein beeindruckendes Beispiel der Eisenbahngeschichte.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathedral Quarter",
+                  "text": "Das historische Herz der Stadt mit kopfsteingepflasterten Straßen, unabhängigen Geschäften und der prachtvollen Kathedrale.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derby székesegyház",
+                  "text": "A katedrális büszkélkedhet Anglia második legmagasabb templomtornyával és Bess of Hardwick pompás síremlékével.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Making",
+                  "text": "A történelmi Silk Mill épületében található múzeum Derby gazdag ipari múltját mutatja be, mint a gyárrendszer szülőhelyét.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Múzeum és Galéria",
+                  "text": "Világhírű a Joseph Wright of Derby festményeiből álló gyűjteményéről, valamint régészeti és természettudományi tárlatairól.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickford-ház Múzeum",
+                  "text": "Egy György-kori városi ház, amely bepillantást enged egy 18. századi tehetős család és cselédségük mindennapi életébe.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Arborétum",
+                  "text": "Anglia első nyilvános városi parkja, amely 1840-ben nyílt meg, és mintául szolgált a New York-i Central Parkhoz.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Markeaton Park",
+                  "text": "Népszerű szabadidőpark kertekkel, tóval, kisvasúttal és számos sportolási lehetőséggel a családok számára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darley Park",
+                  "text": "Gleccservölgyben fekvő festői park a Derwent folyó partján, amely hortenzia-gyűjteményéről és szabadtéri koncertjeiről híres.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elvaston kastély",
+                  "text": "Egy gótikus stílusú vidéki ház egy hatalmas park közepén, amely híres díszkertjeiről és építészeti megoldásairól.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kedleston Hall",
+                  "text": "Robert Adam építész 18. századi remekműve, egy neoklasszicista kúria, amelyet tágas tájképi kert vesz körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Crown Derby",
+                  "text": "Az egyik legrégebbi angol porcelánmanufaktúra látogatóközpontja, ahol gyárlátogatás és múzeum várja az érdeklődőket.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Mária híd-kápolna",
+                  "text": "Egyike Anglia kevés fennmaradt híd-kápolnájának, amely a középkorban üdvözölte a városba érkező utazókat.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friar Gate Börtön",
+                  "text": "Egykori 18. századi börtön, amely ma múzeumként mutatja be a város sötét bűnügyi krónikáját és büntetés-végrehajtási múltját.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Dolphin Inne",
+                  "text": "Derby legrégebbi kocsmája, amely 1530-ból származik, híres történelmi szobáiról és állítólagos kísérteteiről.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quad",
+                  "text": "Modern művészeti és kulturális központ a piactéren, amely kiállításoknak, mozinak és kreatív műhelyeknek ad helyet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Színház",
+                  "text": "A város vezető regionális színháza, amely klasszikus darabokat és innovatív saját produkciókat is műsorra tűz.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pride Park Stadion",
+                  "text": "A Derby County labdarúgócsapat otthona és a modern Pride Park negyed egyik legmeghatározóbb építménye.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Helen's House",
+                  "text": "Pompás György-kori épület, amely egykor iskolaként működött, és a város egyik legszebb építészeti emlékeként tartják számon.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Guildhall",
+                  "text": "Elegáns viktoriánus épület a piactéren, amely ma színházteremnek és különféle kulturális eseményeknek ad otthont.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Városháza",
+                  "text": "A városvezetés központja, amely jellegzetes óratornyával uralja a központi teret és a városképet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Werburgh templom",
+                  "text": "Történelmi templom a belvárosban, amely Samuel Johnsonnal való kapcsolata és finom architektúrája miatt ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allestree Park",
+                  "text": "Nagy kiterjedésű közpark a város szélén golfpályával, tóval és sűrű erdőkkel a természetjárók számára.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chaddesden Park",
+                  "text": "Népszerű közösségi park játszóterekkel, sportpályákkal, egy korábbi udvarház birtokának területén kialakítva.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alvaston Park",
+                  "text": "Tágas park a folyópart mentén, ahol tó, kerékpárutak és egy kedvelt kávézó várja a látogatókat.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Roundhouse",
+                  "text": "A világ legrégebbi fennmaradt vasúti fűtőháza, amely ma modern oktatási központ és ipari műemlék.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Székesegyház negyed",
+                  "text": "A város történelmi szíve macskaköves utcákkal, egyedi üzletekkel és a méltóságteljes székesegyházzal.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Derby",
+                  "text": "Catedrala se mândrește cu al doilea cel mai înalt turn de biserică din Anglia și adăpostește mormântul fastuos al lui Bess of Hardwick.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Fabricare",
+                  "text": "Situat în clădirea istorică Silk Mill, acest muzeu prezintă bogata istorie industrială a orașului Derby ca loc de naștere al fabricilor.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă din Derby",
+                  "text": "Renumit pentru cea mai mare colecție de picturi de Joseph Wright of Derby și pentru exponatele sale arheologice și naturale.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Casa Pickford",
+                  "text": "O casă georgiană de oraș care oferă o privire asupra vieții unei familii înstărite și a servitorilor lor în secolul al XVIII-lea.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arboretul din Derby",
+                  "text": "Primul parc public urban din Anglia, deschis în 1840, care a servit drept model pentru Central Park din New York.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Markeaton",
+                  "text": "Un parc de recreere vast, cu grădini, un lac, un trenuleț și numeroase facilități sportive pentru familii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Darley",
+                  "text": "Un parc pitoresc pe malul râului Derwent, faimos pentru colecția sa de hortensii și concertul anual în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Elvaston",
+                  "text": "O casă de țară spectaculoasă într-un parc natural vast, celebră pentru arhitectura sa neogotică și grădinile formale.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kedleston Hall",
+                  "text": "O capodoperă a arhitectului Robert Adam din secolul al XVIII-lea, înconjurată de un parc peisagistic întins.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Crown Derby",
+                  "text": "Centrul de vizitare al uneia dintre cele mai vechi manufacturi de porțelan din Anglia oferă tururi și un muzeu interesant.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capela de pe podul Sfânta Maria",
+                  "text": "Una dintre puținele capele de pod conservate în Anglia, care întâmpina călătorii ce intrau în oraș în perioada medievală.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Închisoarea Friar Gate",
+                  "text": "Fostă închisoare din secolul al XVIII-lea, unde astăzi un muzeu spune istoria întunecată a criminalității din oraș.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hanul Ye Olde Dolphin",
+                  "text": "Cea mai veche tavernă din Derby, datând din 1530, faimoasă pentru camerele sale istorice și poveștile cu fantome.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quad",
+                  "text": "Un centru modern de artă și cultură situat în piață, oferind expoziții, un cinematograf și ateliere creative.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul din Derby",
+                  "text": "Un teatru regional important care pune în scenă atât piese clasice, cât și producții proprii inovatoare.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Pride Park",
+                  "text": "Locul unde joacă echipa de fotbal Derby County și un reper vizibil în cartierul modern Pride Park.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Sfânta Elena",
+                  "text": "O clădire georgiană grandioasă care a servit odinioară ca școală și este considerată una dintre cele mai frumoase case din oraș.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Guildhall din Derby",
+                  "text": "O clădire victoriană elegantă în piața centrală, care găzduiește un teatru mic și diverse evenimente culturale.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Derby",
+                  "text": "Clădirea principală a administrației orașului, remarcabilă prin turnul cu ceas și poziția sa centrală în piață.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Werburgh",
+                  "text": "Biserică istorică din centrul orașului, cunoscută pentru legătura sa cu Samuel Johnson și arhitectura sa fină.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Allestree",
+                  "text": "Un parc public mare la marginea orașului, cu un teren de golf, un lac și zone împădurite vaste pentru plimbări.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Chaddesden",
+                  "text": "Un parc comunitar popular cu locuri de joacă, facilități sportive, amenajat pe domeniul unei foste moșii.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Alvaston",
+                  "text": "Un spațiu verde extins de-a lungul malului râului, cu un iaz, piste de biciclete și o cafenea apreciată de vizitatori.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Remiza din Derby",
+                  "text": "Cea mai veche remiză feroviară circulară din lume, astăzi campus universitar și un monument remarcabil al istoriei căilor ferate.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Catedralei",
+                  "text": "Inima istorică a orașului cu străzi pietruite, magazine independente și maiestuoasa catedrală.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derby Cathedral",
+                  "text": "The cathedral boasts the second highest church tower in England and houses the grand tomb of Bess of Hardwick.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Making",
+                  "text": "Located in the historic Silk Mill, this museum showcases Derby's rich industrial history as the birthplace of factories.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Museum and Art Gallery",
+                  "text": "Famous for holding the world's largest collection of paintings by Joseph Wright of Derby and archaeology finds.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pickford's House Museum",
+                  "text": "A Georgian town house that offers a glimpse into the life of a wealthy family and their servants in the 18th century.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Arboretum",
+                  "text": "England's first public urban park, opened in 1840 and used as a model for Central Park in New York.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Markeaton Park",
+                  "text": "A vast leisure park featuring gardens, a boating lake, a miniature railway, and various sports facilities for families.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Darley Park",
+                  "text": "A picturesque park on the banks of the River Derwent, known for its hydrangea collection and annual open-air concert.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elvaston Castle",
+                  "text": "A grand country house set within a vast country park, famous for its Gothic Revival architecture and formal gardens.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kedleston Hall",
+                  "text": "A 18th-century masterpiece by architect Robert Adam, this neoclassical mansion is surrounded by vast parkland.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Crown Derby",
+                  "text": "The visitor centre for one of England's oldest porcelain brands offers factory tours and an interesting museum.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Mary's Bridge Chapel",
+                  "text": "One of only a few surviving bridge chapels in England, it welcomed travellers entering the town in medieval times.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friar Gate Gaol",
+                  "text": "A former 18th-century prison where a museum today tells the dark criminal history and execution past of the city.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Dolphin Inne",
+                  "text": "Derby's oldest pub dating back to 1530, famous for its historic rooms and stories of paranormal hauntings.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quad",
+                  "text": "A modern arts and culture centre in the Market Place, featuring exhibitions, a cinema, and creative workshops.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Theatre",
+                  "text": "A major regional theatre that stages both classic plays and innovative new work in the heart of the city.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pride Park Stadium",
+                  "text": "The home of Derby County Football Club and a prominent landmark within the modern Pride Park district.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Helen's House",
+                  "text": "A magnificent Georgian building that once served as a school and is considered one of the town's finest houses.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Guildhall",
+                  "text": "An elegant Victorian building in the Market Place, housing a small theatre and used for various cultural events.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Council House",
+                  "text": "The main municipal building for the city, notable for its clock tower and its central location in the square.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Werburgh's Church",
+                  "text": "A historic church in the city centre known for its connections to Samuel Johnson and its fine architecture.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Allestree Park",
+                  "text": "A large public park on the city's edge with a golf course, lake, and extensive woodland areas for walking.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chaddesden Park",
+                  "text": "A popular community park with play areas and sports facilities, located on the site of a former manor house estate.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alvaston Park",
+                  "text": "A wide riverside park featuring a lake, cycling paths, and a popular café for visitors to the area.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derby Roundhouse",
+                  "text": "The world's oldest surviving railway roundhouse, now a college campus and a major piece of industrial heritage.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cathedral Quarter",
+                  "text": "The historic heart of the city with cobbled streets, independent shops, and the grand cathedral at its centre.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-lancaster-cities-v2",
@@ -2014,6 +15728,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 59.000 (2021)", "Área: 17 km²", "Ano de criação do Mappa Mundi: 1300", "Comprimento da catedral: 108 m", "Gado Hereford: raça desde o século XVIII", "Rio Wye: 215 km de comprimento"],
       fr: ["Population : 59 000 (2021)", "Superficie : 17 km²", "Année de création de la Mappa Mundi : 1300", "Longueur de la cathédrale : 108 m", "Bétail Hereford : race depuis le XVIIIe siècle", "Rivière Wye : 215 km de long"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Hereford",
+                  "text": "Die im 11. Jahrhundert begonnene Kathedrale beherbergt die berühmte Mappa Mundi und eine angekettete Bibliothek.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mappa Mundi",
+                  "text": "Die größte erhaltene mittelalterliche Weltkarte, die um 1300 auf Kalbspergament gezeichnet wurde.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Black and White House Museum",
+                  "text": "Ein gut erhaltenes Fachwerkhaus aus dem Jahr 1621, das Einblicke in das jakobäische Leben gibt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Cider",
+                  "text": "In einer alten Fabrik untergebracht, dokumentiert es die Geschichte der Apfelwein-Herstellung in Herefordshire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Wye",
+                  "text": "Der Fluss fließt durch die Stadt und bietet Wege für Spaziergänge sowie Möglichkeiten zum Kanufahren.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "Eine kunstvolle Eisenbrücke aus dem Jahr 1898, die den Fluss Wye überquert und Parks miteinander verbindet.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hereford Town Hall",
+                  "text": "Ein prächtiges edwardianisches Gebäude aus rotem Backstein mit reichen Verzierungen und historischen Räumen.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Green",
+                  "text": "Eine öffentliche Grünanlage an der Stelle der ehemaligen Burg von Hereford mit Blick auf den Fluss.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Church",
+                  "text": "Eine im 11. Jahrhundert gegründete Kirche im Stadtzentrum, bekannt für ihre Architektur und Glocken.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church Street",
+                  "text": "Eine malerische, schmale Gasse mit unabhängigen Geschäften, die direkt auf die Kathedrale zuführt.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herefordi katedrális",
+                  "text": "A 11. században alapított székesegyház ad otthont a híres Mappa Mundinak és a láncos könyvtárnak.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mappa Mundi",
+                  "text": "A világ legnagyobb épségben maradt középkori világtérképe, amely 1300 körül készült borjúpergamenre.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fekete-fehér Ház Múzeum",
+                  "text": "Egy 1621-ben épült, gyönyörűen megőrzött gerendavázas ház, amely a jakobinus kori életet mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cidermúzeum",
+                  "text": "Egy régi gyárépületben található múzeum, amely az almabor készítésének történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wye-folyó",
+                  "text": "A városon átkanyargó folyó partján festői sétányok és kenuzási lehetőségek várják a látogatókat.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktória híd",
+                  "text": "1898-ban épült díszes vashíd a Wye-folyó felett, amely fontos gyalogos összeköttetést biztosít.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herefordi városháza",
+                  "text": "Díszes, vörös téglás edward-kori épület, amely a város közigazgatási központja és fontos műemlék.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Green",
+                  "text": "Az egykori herefordi vár helyén kialakított nyilvános park, ahonnan remek kilátás nyílik a folyóra.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter-templom",
+                  "text": "A 11. században alapított belvárosi templom, amely gótikus építészetéről és harangjairól ismert.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church Street",
+                  "text": "Hangulatos, szűk utca független üzletekkel, amely közvetlenül a katedrálishoz vezet.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Hereford",
+                  "text": "Începută în secolul al XI-lea, catedrala adăpostește faimoasa Mappa Mundi și o bibliotecă înlănțuită.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mappa Mundi",
+                  "text": "Cea mai mare hartă medievală a lumii care a supraviețuit, desenată pe pergament de vițel în jurul anului 1300.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Black and White House Museum",
+                  "text": "O casă cu structură din lemn din 1621, perfect conservată, oferind o privire asupra vieții din epoca iacobină.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Cidrului",
+                  "text": "Găzduit într-o veche fabrică, acest muzeu documentează istoria producerii cidrului în Herefordshire.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Râul Wye",
+                  "text": "Râul traversează orașul și oferă poteci pitorești de plimbare și oportunități pentru canotaj.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Victoria",
+                  "text": "Un pod de fier ornamental din 1898 care traversează râul Wye, legând parcurile principale ale orașului.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Hereford",
+                  "text": "O clădire edwardiană grandioasă din cărămidă roșie, cu decorațiuni bogate și interioare istorice.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Green",
+                  "text": "Un spațiu verde public situat pe locul fostului castel din Hereford, cu vedere spre râu.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Petru",
+                  "text": "O biserică din centrul orașului fondată în secolul al XI-lea, cunoscută pentru arhitectura sa și clopote.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church Street",
+                  "text": "O stradă îngustă și pitorească, plină de magazine independente, care duce direct spre catedrală.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hereford Cathedral",
+                  "text": "Founded in the 11th century, this cathedral houses the world-famous Mappa Mundi and a Chained Library.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mappa Mundi",
+                  "text": "The largest surviving medieval world map, drawn on vellum around 1300, located within the cathedral.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Black and White House Museum",
+                  "text": "A remarkably well-preserved timber-framed house dating from 1621, showcasing Jacobean domestic life.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Cider",
+                  "text": "Set in an old cider factory, it traces the history and traditional methods of cidermaking in the region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Wye",
+                  "text": "The river flows through Hereford, providing scenic riverside walks and opportunities for canoeing.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "An ornate iron footbridge built in 1898 to commemorate Queen Victoria's Diamond Jubilee.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hereford Town Hall",
+                  "text": "A grand Edwardian red-brick building with terracotta decorations, housing the city's administrative offices.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Green",
+                  "text": "A public park on the site of the former Hereford Castle, offering elevated views of the River Wye.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Church",
+                  "text": "A historic city centre church founded in 1070, featuring impressive architecture and active bells.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church Street",
+                  "text": "A narrow, pedestrianised historic street with independent shops and cafes leading to the cathedral.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-st-albans-cities-v2", population: 82146,
@@ -2061,6 +16025,304 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 147.000 (2021)", "Área: 30 km²", "Status de cidade: 1877", "Cidade romana Verulamium: fundada em 50 d.C.", "Construção da catedral: iniciada em 1077", "Distância de Londres: 33 km"],
       fr: ["Population : 147 000 (2021)", "Superficie : 30 km²", "Statut de ville : 1877", "Ville romaine de Verulamium : fondée en 50 apr. J.-C.", "Construction de la cathédrale : commencée en 1077", "Distance de Londres : 33 km"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von St Albans",
+                  "text": "Diese Kathedrale ist die älteste Stätte kontinuierlicher christlicher Verehrung in Britannien und beherbergt den Schrein des heiligen Alban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Park",
+                  "text": "Ein weitläufiger Stadtpark mit einem großen See, der über den Ruinen der antiken römischen Stadt Verulamium angelegt wurde.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Museum",
+                  "text": "Das Museum präsentiert beeindruckende römische Mosaike und Alltagsgegenstände aus der Zeit, als die Stadt eine bedeutende römische Siedlung war.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römische Stadtmauer",
+                  "text": "Erhaltene Abschnitte der antiken Befestigungsanlage aus dem 3. Jahrhundert, die einst die drittgrößte Stadt im römischen Britannien umschloss.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Der Uhrturm",
+                  "text": "Dieser freistehende mittelalterliche Glockenturm aus dem Jahr 1405 diente früher als Symbol für den bürgerlichen Widerstand gegen die Abtei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Fighting Cocks",
+                  "text": "Ein historisches Gasthaus mit einem achteckigen Grundriss, das als eines der ältesten Pubs in ganz England gilt.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römisches Theater",
+                  "text": "Das einzige Beispiel eines römischen Theaters mit einer Bühne in Großbritannien, das heute noch für Freilichtaufführungen genutzt wird.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Albans Museum + Gallery",
+                  "text": "Im ehemaligen Rathaus untergebracht, bietet dieses Zentrum Ausstellungen zur lokalen Geschichte und zeitgenössischen Kunst in prachtvollem Ambiente.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heartwood Forest",
+                  "text": "Ein junger Wald des Woodland Trust, der durch massive Baumpflanzungen zum größten neu geschaffenen Laubwald Englands heranwächst.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sopwell Nunnery Ruinen",
+                  "text": "Die Überreste eines ehemaligen Benediktinerinnenklosters aus dem 12. Jahrhundert, das später in ein Herrenhaus umgewandelt wurde.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clarence Park",
+                  "text": "Ein viktorianischer Park mit Sportanlagen, der Ende des 19. Jahrhunderts eröffnet wurde und heute die Heimat des lokalen Fußballvereins ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Michael's Church",
+                  "text": "Diese Kirche steht direkt auf dem Gelände der antiken römischen Basilika und enthält ein Denkmal für den Philosophen Francis Bacon.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Albans-i székesegyház",
+                  "text": "Nagy-Britannia legrégebbi folyamatos keresztény istentiszteleti helye, amely normann építészetéről és Szent Albán sírjáról híres.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Park",
+                  "text": "Egy hatalmas városi park nagy tóval, amely az ókori római város, Verulamium romjai felett terül el.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Múzeum",
+                  "text": "A múzeum lenyűgöző római mozaikokat és mindennapi tárgyakat mutat be abból az időből, amikor a város fontos római település volt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római városfal",
+                  "text": "A 3. századból származó ókori erődítmény fennmaradt szakaszai, amelyek egykor a római Britannia harmadik legnagyobb városát vették körül.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óratorony",
+                  "text": "Ez az 1405-ben épült, szabadon álló középkori harangtorony az apátsággal szembeni polgári ellenállás szimbólumaként szolgált.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Fighting Cocks",
+                  "text": "Egy történelmi vendéglő nyolcszögletű alaprajzzal, amelyet Anglia egyik legrégebbi kocsmájaként tartanak számon.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római Színház",
+                  "text": "Az egyetlen római kori színház Nagy-Britanniában, amely színpaddal is rendelkezett, és ma is szabadtéri előadások helyszíne.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Albans Múzeum és Galéria",
+                  "text": "Az egykori városházán elhelyezett központ helytörténeti kiállításoknak és kortárs művészeti tárlatoknak ad otthont pazar környezetben.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heartwood Forest",
+                  "text": "A Woodland Trust által kezelt fiatal erdő, amely Anglia legnagyobb újonnan telepített lombhullató erdejévé növi ki magát.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sopwell Nunnery romok",
+                  "text": "Egy 12. századi bencés apácakolostor maradványai, amelyet a feloszlatás után udvarházzá alakítottak át.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clarence Park",
+                  "text": "Egy viktoriánus korabeli park sportlétesítményekkel, amely a 19. század végén nyílt meg, és a helyi futballcsapat otthona.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Michael-templom",
+                  "text": "Ez a templom közvetlenül az ókori római bazilika helyén áll, és itt található a filozófus Francis Bacon emlékműve is.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din St Albans",
+                  "text": "Cea mai veche locație de cult creștin continuu din Marea Britanie, celebră pentru arhitectura normandă și racla Sfântului Alban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Verulamium",
+                  "text": "Un parc urban întins, cu un lac mare, amenajat peste ruinele fostului oraș roman Verulamium.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Verulamium",
+                  "text": "Muzeul expune mozaicuri romane impresionante și obiecte cotidiene din perioada în care orașul era o așezare romană majoră.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidul Roman",
+                  "text": "Secțiuni conservate ale fortificației antice din secolul al III-lea, care înconjura odinioară al treilea oraș ca mărime din Britania Romană.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul cu Ceas",
+                  "text": "Acest turn clopotniță medieval construit în 1405 a servit drept simbol al rezistenței civice împotriva autorității abației.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Fighting Cocks",
+                  "text": "Un han istoric cu o structură octogonală, considerat a fi unul dintre cele mai vechi pub-uri din întreaga Anglie.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Roman",
+                  "text": "Singurul exemplu de teatru roman cu scenă din Marea Britanie, folosit și astăzi pentru spectacole în aer liber.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria St Albans",
+                  "text": "Găzduit în fosta primărie, acest centru oferă expoziții despre istoria locală și artă contemporană într-un cadru somptuos.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pădurea Heartwood",
+                  "text": "O pădure tânără gestionată de Woodland Trust, care tinde să devină cea mai mare pădure de foioase nou creată din Anglia.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ruinele Sopwell Nunnery",
+                  "text": "Resturile unei mănăstiri de maici benedictine din secolul al XII-lea, care a fost ulterior transformată într-o reședință nobiliară.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Clarence",
+                  "text": "Un parc victorian cu facilități sportive, deschis la sfârșitul secolului al XIX-lea, fiind casa echipei locale de fotbal.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica St Michael",
+                  "text": "Această biserică este situată chiar pe locul fostei bazilici romane și adăpostește monumentul filosofului Francis Bacon.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Albans Cathedral",
+                  "text": "The oldest site of continuous Christian worship in Britain, famous for its Norman architecture and the shrine of Saint Alban.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Park",
+                  "text": "An extensive urban park with a large lake, set over the ruins of the ancient Roman city of Verulamium.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Verulamium Museum",
+                  "text": "The museum displays impressive Roman mosaics and everyday objects from when the town was a major Roman settlement.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman City Wall",
+                  "text": "Surviving sections of the 3rd-century ancient fortification that once enclosed the third largest city in Roman Britain.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Built in 1405, this free-standing medieval bell tower served as a symbol of civic resistance against the power of the abbey.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ye Olde Fighting Cocks",
+                  "text": "A historic inn with an octagonal structure, widely claimed to be one of the oldest pubs in all of England.",
+                  "category": "culinary",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Theatre",
+                  "text": "The only example of a Roman theatre with a stage in Britain, still used today for open-air theatrical performances.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Albans Museum + Gallery",
+                  "text": "Located in the former Town Hall, this center hosts local history exhibitions and contemporary art in a grand setting.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heartwood Forest",
+                  "text": "A young forest managed by the Woodland Trust, becoming England's largest newly created broadleaf woodland.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sopwell Nunnery Ruins",
+                  "text": "The remains of a 12th-century Benedictine nunnery which was later converted into a Tudor country house.",
+                  "category": "monastic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clarence Park",
+                  "text": "A Victorian-era park with various sports facilities, opened in 1894 and home to the local football club.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Michael's Church",
+                  "text": "This church stands directly on the site of the ancient Roman basilica and contains a monument to Francis Bacon.",
+                  "category": "religious",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-bangor-cities-v2",
@@ -2155,6 +16417,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 15.000 (2021)", "Área: 12,5 km²", "Estatuto de cidade: 1994", "Fundação do observatório: 1790", "Número de catedrais: 2", "Ponto mais alto: 100 m a. n. m."],
       fr: ["Population : 15 000 (2021)", "Superficie : 12,5 km²", "Statut de ville : 1994", "Fondation de l'observatoire : 1790", "Nombre de cathédrales : 2", "Point culminant : 100 m d'altitude"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "St Patrick's COI Cathedral",
+                  "text": "Die auf einem Hügel gelegene Kathedrale der Church of Ireland steht an der Stelle, an der St. Patrick 445 seine erste Kirche baute.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Patrick's RC Cathedral",
+                  "text": "Diese beeindruckende neugotische Kathedrale mit ihren zwei Türmen ist der Sitz des katholischen Erzbischofs von Armagh.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Observatory",
+                  "text": "Das 1789 gegründete Observatorium ist eine weltweit führende astronomische Forschungseinrichtung mit historischen Teleskopen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Planetarium",
+                  "text": "Ein führendes Zentrum für Astronomie-Bildung, das interaktive Ausstellungen und beeindruckende Sternenshows für Besucher bietet.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Navan Fort",
+                  "text": "Emain Macha ist eine bedeutende archäologische Stätte und war die antike Hauptstadt der Könige von Ulster.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Public Library",
+                  "text": "Die 1771 gegründete Bibliothek beherbergt seltene Bücher, darunter die Erstausgabe von Gullivers Reisen mit Swift's Notizen.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Mall",
+                  "text": "Ein eleganter georgianischer Park im Stadtzentrum, der von historischen Gebäuden umgeben ist und früher für Pferderennen genutzt wurde.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Gaol",
+                  "text": "Das ehemalige Gefängnis der Stadt ist ein imposantes historisches Gebäude, das Einblicke in die Justizgeschichte Nordirlands bietet.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh County Museum",
+                  "text": "Das älteste Kreismuseum Irlands zeigt Sammlungen zur lokalen Geschichte, Naturkunde und Kunst in einem ehemaligen Schulhaus.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace Demesne",
+                  "text": "Der Park des ehemaligen Erzbischofspalastes bietet Wanderwege, Skulpturengärten und die Ruine eines Franziskanerklosters.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Patrik anglikán székesegyház",
+                  "text": "A dombtetőn álló templom azon a helyen épült, ahol Szent Patrik 445-ben megalapította első kőtemplomát.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Patrik katolikus székesegyház",
+                  "text": "Látványos neogótikus épület ikertornyokkal, amely az írországi katolikus egyház prímásának székhelye.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Obszervatórium",
+                  "text": "Az 1789-ben alapított csillagvizsgáló világszerte elismert kutatóintézet, amely történelmi műszerekkel is rendelkezik.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Planetárium",
+                  "text": "Az asztronómiai oktatás központja, ahol interaktív kiállítások és lenyűgöző digitális vetítések várják az érdeklődőket.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Navan Fort",
+                  "text": "Emain Macha egy ősi régészeti lelőhely, amely egykor Ulster királyainak székhelye és rituális központja volt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Nyilvános Könyvtár",
+                  "text": "1771-ben alapították, és olyan ritkaságokat őriz, mint a Gulliver utazásai első kiadása Jonathan Swift kézjegyével.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Mall",
+                  "text": "Elegáns georgiánus stílusú közpark a város szívében, amelyet történelmi kőépületek és sétányok szegélyeznek.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Börtön",
+                  "text": "A város egykori börtöne monumentális épületegyüttes, amely fontos részét képezi a helyi büntetés-végrehajtási múltnak.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Megyei Múzeum",
+                  "text": "Írország legrégebbi megyei múzeuma, amely a helytörténet, a néprajz és a művészet emlékeit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace Demesne",
+                  "text": "Az érseki palota egykori birtoka ma nyilvános park, ahol egy ferences kolostor romjai is megtalálhatók.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Anglicană Sfântul Patrick",
+                  "text": "Situată pe un deal, această catedrală ocupă locul unde Sfântul Patrick și-a construit prima biserică în anul 445.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Catolică Sfântul Patrick",
+                  "text": "O catedrală neogotică impresionantă cu turnuri gemene, fiind sediul arhiepiscopului catolic de Armagh.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Observatorul din Armagh",
+                  "text": "Fondat în 1789, este o instituție de cercetare astronomică de renume mondial, deținând telescoape istorice valoroase.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planetariul din Armagh",
+                  "text": "Un centru de educație astronomică de top, oferind expoziții interactive și spectacole digitale despre univers.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortăreața Navan",
+                  "text": "Emain Macha este un sit arheologic major, fiind antica capitală regală a regilor din provincia Ulster.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Publică din Armagh",
+                  "text": "Înființată în 1771, adăpostește cărți rare, inclusiv prima ediție din Călătoriile lui Gulliver cu notele autorului.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Mall",
+                  "text": "Un spațiu verde georgian elegant în centrul orașului, înconjurat de clădiri istorice, folosit în trecut pentru curse.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Închisoarea din Armagh",
+                  "text": "Fosta închisoare a orașului este o clădire istorică impunătoare care reflectă trecutul judiciar al Irlandei de Nord.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Comitatului Armagh",
+                  "text": "Cel mai vechi muzeu județean din Irlanda, prezentând colecții de istorie locală, artă și istorie naturală.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace Demesne",
+                  "text": "Fostul domeniu al palatului arhiepiscopal oferă trasee de plimbare, grădini și ruinele unei mănăstiri franciscane.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Patrick's COI Cathedral",
+                  "text": "Perched on a hill, this Church of Ireland cathedral stands on the site where St Patrick built his first church in 445.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Patrick's RC Cathedral",
+                  "text": "A stunning twin-spired neo-Gothic cathedral that serves as the seat of the Catholic Archbishop of Armagh.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Observatory",
+                  "text": "Founded in 1789, the observatory is a world-class astronomical research institution with historic telescopes.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Planetarium",
+                  "text": "A leading center for astronomy education, offering interactive exhibits and immersive star shows for visitors.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Navan Fort",
+                  "text": "Emain Macha is a major archaeological site and was the ancient ceremonial capital of the Kings of Ulster.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Public Library",
+                  "text": "Established in 1771, it holds rare books including a first edition of Gulliver's Travels with Swift's own notes.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Mall",
+                  "text": "An elegant Georgian park in the city center surrounded by historic buildings and formerly used for horse racing.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh Gaol",
+                  "text": "The city's former prison is an imposing historic building that provides insight into Northern Ireland's judicial past.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Armagh County Museum",
+                  "text": "The oldest county museum in Ireland, showcasing local history, natural history, and art in a former schoolhouse.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace Demesne",
+                  "text": "The grounds of the former Archbishop's Palace featuring walking trails, sculpture gardens, and a friary ruin.",
+                  "category": "recreational",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-lisburn-cities-v2",
@@ -2249,6 +16761,256 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 27.000 (2021)", "Área: 12,5 km²", "Estatuto de cidade: 2002", "Construção do canal: inaugurado em 1741", "Fundação do mosteiro: 1157", "Catedral: consagrada em 1825"],
       fr: ["Population : 27 000 (2021)", "Superficie : 12,5 km²", "Statut de ville : 2002", "Construction du canal : inauguré en 1741", "Fondation du monastère : 1157", "Cathédrale : consacrée en 1825"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Newry",
+                  "text": "Diese beeindruckende gotische Kathedrale aus dem 19. Jahrhundert besticht durch Buntglasfenster und italienischen Marmor.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bagenal's Castle",
+                  "text": "Ein befestigtes Wohnhaus aus dem 16. Jahrhundert, das heute das Stadtmuseum beherbergt und die Geschichte von Newry erzählt.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry Canal",
+                  "text": "Der erste Binnenkanal auf den Britischen Inseln, der heute ein historisches Denkmal mit Spazierwegen am Wasser ist.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry Town Hall",
+                  "text": "Ein prächtiges Gebäude aus dem Jahr 1893, das über dem Clanrye-Fluss erbaut wurde und die Grenze zweier Grafschaften markiert.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "Die erste protestantische Kirche, die in Irland zweckgebunden erbaut wurde; sie bietet einen Blick über die Stadt.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Craigmore Viaduct",
+                  "text": "Ein monumentales Eisenbahnviadukt mit 18 Bögen, das als eines der bedeutendsten viktorianischen Bauwerke Nordirlands gilt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derrymore House",
+                  "text": "Ein elegantes strohgedecktes Herrenhaus aus dem 18. Jahrhundert, umgeben von einem weitläufigen Park im Besitz des National Trust.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry and Mourne Museum",
+                  "text": "Im Bagenal's Castle untergebracht, bietet das Museum Ausstellungen zur Archäologie und Industrie der Region.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Ein schöner Stadtpark mit gepflegten Gärten, der Raum für Entspannung und Freizeitaktivitäten im Freien bietet.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marcus Square",
+                  "text": "Der zentrale Platz der Stadt, der als historischer Marktplatz und heutiger Treffpunkt dient.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Newry katedrális",
+                  "text": "Ez a lenyűgöző 19. századi gótikus katedrális gyönyörű ólomüveg ablakokkal és gazdag olasz márvány belsővel rendelkezik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bagenal-vár",
+                  "text": "Egy 16. századi erődített lakóház, amely ma a városi múzeumnak ad otthont, bemutatva Newry múltját.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry-csatorna",
+                  "text": "A Brit-szigetek első belvízi csatornája, amely ma történelmi műemlék és kedvelt vízparti sétány.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry városháza",
+                  "text": "Az 1893-ban épült impozáns épület a Clanrye-folyó felett áll, jelképesen két megye határán.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Patrik templom",
+                  "text": "Az első protestáns célra épített templom Írországban, amely a város feletti dombon magasodik.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Craigmore viadukt",
+                  "text": "Hatalmas, 18 ívből álló vasúti viadukt, Észak-Írország egyik legjelentősebb viktoriánus mérnöki alkotása.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derrymore House",
+                  "text": "Elegáns, 18. századi nádtetős kúria, amelyet a National Trust kezel, kiterjedt parkerdővel körülvéve.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry és Mourne Múzeum",
+                  "text": "A Bagenal-várban található múzeum a régió régészeti és ipari emlékeit tárja a látogatók elé.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Szép városi park gondozott kertekkel, amely kikapcsolódást és szabadtéri programokat kínál.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marcus Square",
+                  "text": "A város központi tere, amely történelmi piactérként és modern találkozóhelyként szolgál.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Newry",
+                  "text": "Această catedrală gotică impresionantă din secolul al XIX-lea are vitralii superbe și un interior bogat din marmură italiană.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Bagenal",
+                  "text": "O casă fortificată din secolul al XVI-lea care găzduiește acum muzeul orașului, relatând istoria bogată a zonei Newry.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canalul Newry",
+                  "text": "Primul canal interior din Insulele Britanice, astăzi un monument istoric cu alei plăcute pentru plimbări pe malul apei.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Newry",
+                  "text": "O clădire grandioasă din 1893 construită peste râul Clanrye, marcând simbolic granița dintre două comitate.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Patrick",
+                  "text": "Prima biserică protestantă construită în acest scop în Irlanda, oferind o panoramă asupra întregului oraș.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viaductul Craigmore",
+                  "text": "Un viaduct feroviar monumental cu 18 arcade, considerat una dintre cele mai importante structuri victoriene din Irlanda de Nord.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derrymore House",
+                  "text": "Un conac elegant din secolul al XVIII-lea cu acoperiș de stuf, înconjurat de un parc vast administrat de National Trust.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Newry și Mourne",
+                  "text": "Situat în incinta Castelului Bagenal, muzeul prezintă exponate despre arheologia și industria regiunii.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Victoria",
+                  "text": "Un parc urban frumos cu grădini bine întreținute, oferind spațiu pentru relaxare și activități în aer liber.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Marcus",
+                  "text": "Piața centrală a orașului, care servește drept loc istoric de târg și punct de întâlnire contemporan.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Newry Cathedral",
+                  "text": "This impressive 19th-century gothic cathedral features beautiful stained glass and a rich interior of Italian marble.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bagenal's Castle",
+                  "text": "A 16th-century fortified dwelling that now houses the city museum, telling the story of Newry's heritage.",
+                  "category": "fortress",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry Canal",
+                  "text": "The first inland canal in the British Isles, now an historic monument with pleasant waterside walking paths.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry Town Hall",
+                  "text": "An imposing 1893 building constructed over the Clanrye River, famously straddling the border of two counties.",
+                  "category": "civic",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "The first purpose-built Protestant church in Ireland, situated on a hill with views overlooking the city.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Craigmore Viaduct",
+                  "text": "A monumental 18-arch railway viaduct, considered one of the most significant Victorian structures in Northern Ireland.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Derrymore House",
+                  "text": "An elegant 18th-century thatched manor house surrounded by extensive parkland owned by the National Trust.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Newry and Mourne Museum",
+                  "text": "Housed within Bagenal's Castle, the museum features exhibitions on the region's archaeology and industry.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A beautiful urban park with manicured gardens, providing space for relaxation and outdoor leisure activities.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marcus Square",
+                  "text": "The central square of the city, serving as a historic marketplace and a modern-day community gathering point.",
+                  "category": "civic",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-perth-cities-v2", population: 47430,
@@ -2296,6 +17058,304 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 47.000 (2021)", "Área: 15 km²", "Estatuto de cidade: 2012 (restaurado)", "Igreja: século XV", "Visitantes do museu: 100.000 anuais", "Tay: 193 km de comprimento"],
       fr: ["Population : 47 000 (2021)", "Superficie : 15 km²", "Statut de ville : 2012 (restauré)", "Église : XVe siècle", "Visiteurs du musée : 100 000 par an", "Tay : 193 km de long"],
     },
+    "sights": {
+      "de": [
+            {
+                  "name": "Scone Palace",
+                  "text": "Der historische Krönungsort der schottischen Könige und die ursprüngliche Heimat des Steins von Scone.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St John's Kirk",
+                  "text": "Eine prächtige mittelalterliche Kirche, die eine zentrale Rolle in der schottischen Reformation spielte.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Museum and Art Gallery",
+                  "text": "Eines der ältesten Museen Schottlands mit umfangreichen Sammlungen zur regionalen Geschichte und Kunst.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Tay",
+                  "text": "Der längste Fluss Schottlands, der wunderschöne Wanderwege und erstklassige Möglichkeiten zum Lachsfischen bietet.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinnoull Hill Tower",
+                  "text": "Ein beeindruckender Turm aus dem 18. Jahrhundert mit Panoramablick über das Tay-Tal und die ganze Stadt.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Black Watch Castle & Museum",
+                  "text": "Eine historische Festung, die der Geschichte des ältesten Hochlandregiments Schottlands gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Concert Hall",
+                  "text": "Ein modernes kulturelles Wahrzeichen, bekannt für seine hervorragende Akustik und vielfältigen Programme.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "South Inch",
+                  "text": "Ein großer öffentlicher Park mit Sportanlagen, einem Bootsteich und weitläufigen Grünflächen zur Erholung.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Inch",
+                  "text": "Ein historisches Parkgelände, Ort der berühmten Schlacht der Clans, heute beliebt für Golf und Spaziergänge.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norie-Miller Walk",
+                  "text": "Ein malerischer Uferweg am Tay, der nachts beleuchtet wird und ideal für einen ruhigen Abendspaziergang ist.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Burial Ground",
+                  "text": "Ein historischer Friedhof mit bedeutenden Grabsteinen aus dem 17. Jahrhundert, die das Handwerk der Zeit zeigen.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fair Maid's House",
+                  "text": "Das älteste weltliche Gebäude in Perth, berühmt durch die literarischen Werke von Sir Walter Scott.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scone-palota",
+                  "text": "A skót királyok történelmi koronázóhelye és a Végzet Kövének eredeti őrzési helye a Tay folyó partján.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János-templom",
+                  "text": "Egy pompás középkori templom, amely központi szerepet játszott a skót reformáció elindításában.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Múzeum és Művészeti Galéria",
+                  "text": "Skócia egyik legrégebbi múzeuma, amely gazdag helytörténeti és képzőművészeti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tay folyó",
+                  "text": "Skócia leghosszabb folyója, amely gyönyörű sétányokat és világhírű lazachalászati helyeket kínál a látogatóknak.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinnoull Hill torony",
+                  "text": "Egy látványos 18. századi építmény a dombtetőn, amely panorámás kilátást nyújt a Tay-völgyre és a városra.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Black Watch Kastély és Múzeum",
+                  "text": "Történelmi erődítmény, amely Skócia legrégebbi felföldi ezredének dicső történetét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Koncertterem",
+                  "text": "Modern kulturális központ, amely kiváló akusztikájáról és színvonalas, változatos előadásairól ismert.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "South Inch",
+                  "text": "Hatalmas nyilvános park sportpályákkal, csónakázótóval és tágas zöldterületekkel a szabadidő eltöltéséhez.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Inch",
+                  "text": "Történelmi parkterület, a híres klánok csatájának helyszíne, ma népszerű golfpálya és sétatér.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norie-Miller sétány",
+                  "text": "Festői folyóparti útvonal a Tay mentén, amely éjszakai kivilágításával tökéletes helyszín egy esti sétához.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars temető",
+                  "text": "Történelmi sírkert, amely a 17. századi céhes sírkövek legszebb és legmívesebb példáit őrzi.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fair Maid háza",
+                  "text": "Perth legrégebbi világi épülete, amely Sir Walter Scott híres regénye révén vált világszerte ismertté.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Scone",
+                  "text": "Locul istoric de încoronare a monarhilor scoțieni și casa originală a Pietrei Destinului de pe malul râului Tay.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Ioan",
+                  "text": "O biserică medievală magnifică ce a jucat un rol central în Reforma Scoțiană prin predicile lui John Knox.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă Perth",
+                  "text": "Unul dintre cele mai vechi muzee din Scoția, adăpostind colecții vaste de istorie locală și artă plastică.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Râul Tay",
+                  "text": "Cel mai lung râu din Scoția, oferind trasee pitorești de plimbare și locuri renumite pentru pescuitul de somon.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Kinnoull Hill",
+                  "text": "O construcție dramatică din secolul al XVIII-lea ce oferă vederi panoramice spectaculoase asupra văii Tay.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul și Muzeul Black Watch",
+                  "text": "O fortăreață istorică dedicată istoriei celui mai vechi regiment montan de elită din Scoția.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sala de Concerte Perth",
+                  "text": "Un punct de reper cultural modern, cunoscut pentru acustica sa excepțională și programul artistic divers.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "South Inch",
+                  "text": "Un parc public vast cu facilități sportive, un iaz pentru bărci și spații verzi generoase pentru recreere.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Inch",
+                  "text": "Un teren istoric, locul celebrei Bătălii a Clanurilor, fiind astăzi foarte popular pentru golf și plimbări.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norie-Miller Walk",
+                  "text": "O potecă pitorească pe malul râului Tay, iluminată noaptea, perfectă pentru o plimbare de seară liniștită.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Greyfriars",
+                  "text": "Un cimitir istoric ce conține câteva dintre cele mai fine exemple de pietre funerare din secolul al XVII-lea.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Fair Maid",
+                  "text": "Cea mai veche clădire seculară din Perth, faimoasă pentru asocierea cu operele literare ale lui Sir Walter Scott.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scone Palace",
+                  "text": "The historic site where Scottish monarchs were crowned and home to the Stone of Destiny's original site.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St John's Kirk",
+                  "text": "A magnificent medieval church that played a central role in the Scottish Reformation and city history.",
+                  "category": "religious",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Museum and Art Gallery",
+                  "text": "One of Scotland's oldest museums, housing extensive collections of local history, archaeology, and fine art.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "River Tay",
+                  "text": "Scotland's longest river, offering beautiful scenic walks and world-renowned salmon fishing spots for visitors.",
+                  "category": "natural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kinnoull Hill Tower",
+                  "text": "A dramatic 18th-century folly tower offering panoramic views over the Tay Valley and the city of Perth.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Black Watch Castle & Museum",
+                  "text": "A historic fortress dedicated to the history of Scotland's oldest highland regiment and its soldiers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perth Concert Hall",
+                  "text": "A modern cultural landmark known for its exceptional acoustics and diverse schedule of musical performances.",
+                  "category": "cultural",
+                  "confidence": "high"
+            },
+            {
+                  "name": "South Inch",
+                  "text": "A vast public park featuring sports facilities, a boating pond, and spacious green areas for family leisure.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "North Inch",
+                  "text": "A historic parkland site of the famous Battle of the Clans, now popular for golf and riverside walking.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norie-Miller Walk",
+                  "text": "A picturesque riverside path illuminated at night, perfect for a peaceful evening stroll along the River Tay.",
+                  "category": "recreational",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Greyfriars Burial Ground",
+                  "text": "A historic cemetery containing some of the finest examples of 17th-century trade gravestones in the country.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fair Maid's House",
+                  "text": "The oldest secular building in Perth, famously associated with the literary works of Sir Walter Scott.",
+                  "category": "historical",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "uk-st-andrews-cities-v2",

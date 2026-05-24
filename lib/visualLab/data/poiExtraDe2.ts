@@ -850,37 +850,79 @@ export const poiExtraDe2: POI[] = [
                   "name": "Autostadt",
                   "text": "Der Erlebnispark von Volkswagen bietet Pavillons verschiedener Marken, ein Automuseum und ein Auslieferungszentrum.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-autostadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107613760774163550132\">Susan</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phaeno",
                   "text": "Das futuristische Science Center, entworfen von Zaha Hadid, lädt zum Experimentieren mit physikalischen Phänomenen ein.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-phaeno.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117090552690749728976\">phaeno Wolfsburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Schloss Wolfsburg",
                   "text": "Das Weserrenaissance-Schloss gab der Stadt ihren Namen und beherbergt heute die Städtische Galerie und den Kunstverein.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-schloss-wolfsburg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107298061506433048419\">Schloss Wolfsburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4y02tJaTr0cR1r83W6uxFDw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Volkswagen AutoMuseum",
                   "text": "In dieser Sammlung können Besucher die technische Geschichte der Marke VW anhand zahlreicher Oldtimer nachvollziehen.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-volkswagen-automuseum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107161348869753320694\">Almat Nurpiissov</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyX_s2Tr0cRPYQgt0tKVDQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Allerpark",
                   "text": "Das weitläufige Naherholungsgebiet bietet einen Badesee, Sportanlagen und die Volkswagen Arena des VfL Wolfsburg.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-allerpark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/104337882002993044463\">Ramon</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJYa-xmsSTr0cROs5gMB0I104",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Planetarium Wolfsburg",
                   "text": "Es ist eines der größten und modernsten Planetarien in Norddeutschland und bietet faszinierende Shows zum Weltraum.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-planetarium-wolfsburg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100221965431896137732\">Planetarium Wolfsburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJNxP03k6Sr0cRszfdXIjBYcc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -888,13 +930,27 @@ export const poiExtraDe2: POI[] = [
                   "name": "Autostadt",
                   "text": "A Volkswagen élményparkja különböző márkák pavilonjait, autómúzeumot és egy látványos átadóközpontot kínál.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-autostadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107613760774163550132\">Susan</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phaeno",
                   "text": "A Zaha Hadid által tervezett futurisztikus tudományos központ fizikai kísérletekre és felfedezésre hívja a látogatókat.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-phaeno.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117090552690749728976\">phaeno Wolfsburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Wolfsburgi kastély",
@@ -914,13 +970,27 @@ export const poiExtraDe2: POI[] = [
                   "name": "Autostadt",
                   "text": "Parcul tematic de la Volkswagen oferă pavilioane ale diferitelor mărci, un muzeu auto și un centru de livrare spectaculos.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-autostadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107613760774163550132\">Susan</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phaeno",
                   "text": "Centrul futurist de științe, proiectat de Zaha Hadid, invită la experimentarea fenomenelor fizice prin metode interactive.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-phaeno.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117090552690749728976\">phaeno Wolfsburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ5UbEPrSTr0cRrsMuKq3Clzw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Castelul Wolfsburg",
@@ -940,7 +1010,14 @@ export const poiExtraDe2: POI[] = [
                   "name": "Autostadt",
                   "text": "Volkswagen's visitor attraction features brand pavilions, a car museum, and a massive vehicle delivery center.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-autostadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107613760774163550132\">Susan</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz_qbuLeTr0cR-H8jTX_wzU0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phaeno Science Center",
@@ -958,13 +1035,27 @@ export const poiExtraDe2: POI[] = [
                   "name": "Volkswagen AutoMuseum",
                   "text": "This collection showcases the technical history of the VW brand through a wide range of classic and historic vehicles.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-volkswagen-automuseum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107161348869753320694\">Almat Nurpiissov</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ7yyX_s2Tr0cRPYQgt0tKVDQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Allerpark",
                   "text": "This extensive recreation area includes a swimming lake, sports facilities, and the Volkswagen Arena stadium.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wolfsburg-extra-allerpark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/104337882002993044463\">Ramon</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJYa-xmsSTr0cROs5gMB0I104",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ]
 }
@@ -1101,31 +1192,66 @@ export const poiExtraDe2: POI[] = [
                   "name": "Hildesheimer Dom",
                   "text": "Die UNESCO-Welterbestätte ist berühmt für den 1000-jährigen Rosenstock und ihre mittelalterlichen Bronzegüsse.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-hildesheim-extra-hildesheimer-dom.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117915471455685220519\">Dom Mariä Himmelfahrt zu Hildesheim</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJGQ--Nq-vukcRAkZqoMrYI6k",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "St. Michaelis Kirche",
                   "text": "Ein Meisterwerk ottonischer Architektur mit einer weltweit einzigartigen bemalten Holzdecke aus dem 13. Jahrhundert.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-hildesheim-extra-st-michaelis-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108298869366077527803\">Aryavart Anand</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJlzuirqevukcRWXqbIx9MoEc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Knochenhauer-Amtshaus",
                   "text": "Gilt als eines der schönsten Fachwerkhäuser der Welt und ist das Prunkstück des historischen Marktplatzes.",
                   "category": "landmark",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-hildesheim-extra-knochenhauer-amtshaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/101388834678848304026\">Robert L.</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJT6-9sKmvukcRnymxBvxt4tc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Roemer- und Pelizaeus-Museum",
                   "text": "Ein international renommiertes Museum, das vor allem für seine bedeutende altägyptische Sammlung bekannt ist.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-hildesheim-extra-roemer-und-pelizaeus-museum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114131266311701642326\">A. D.</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJZ5w34aWvukcRLCxiQIkK62A",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "St. Andreas Kirche",
                   "text": "Die Bürgerkirche besitzt mit 114,5 Metern den höchsten Kirchturm in ganz Niedersachsen und bietet weite Ausblicke.",
                   "category": "church",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/city-hildesheim-extra-st-andreas-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111458247623145634588\">Jesper Kjaer Christensen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJR2EKG6mvukcRSl-1vw5uPjU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [

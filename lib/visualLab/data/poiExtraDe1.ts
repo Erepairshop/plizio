@@ -76,37 +76,79 @@ export const poiExtraDe1: POI[] = [
                   "name": "Audi Forum Ingolstadt",
                   "text": "Ein modernes Erlebniszentrum rund um die Marke Audi mit dem museum mobile und interessanten Werksführungen.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-audi-forum-ingolstadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116676120220283358988\">Audi museum mobile</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Neues Schloss",
                   "text": "Der herzogliche Bau aus dem 15. Jahrhundert beherbergt heute das Bayerische Armeemuseum mit bedeutenden Militaria.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-neues-schloss.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117148199602544876966\">Shi-Ting Chu</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ0QlrTlL-nkcRd-uQwc8f60I",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Liebfrauenmünster",
                   "text": "Die spätgotische Hallenkirche beeindruckt durch ihren gewaltigen Dachstuhl und den kostbaren Hochaltar.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-liebfrauenmuenster.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116202230488527262007\">Steffen S.</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ66ZJnFD-nkcRlO8cgAIk6kI",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kreuztor",
                   "text": "Das Wahrzeichen der Stadt ist das schönste erhaltene Stadttor der einstigen Festung Ingolstadt aus dem 14. Jahrhundert.",
                   "category": "gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-kreuztor.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112908391127234849083\">Rene Markus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Deutsches Medizinhistorisches Museum",
                   "text": "In der barocken Anatomie untergebracht, zeigt es die Geschichte der Medizin von der Antike bis heute.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-deutsches-medizinhistorisches-museum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110816309372964998165\">Bernhard Aurbach</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJmzFi_ln-nkcRFEAqQVL1T8Y",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Klenzepark",
                   "text": "Das ehemalige Landesgartenschaugelände am Donauufer verbindet historische Festungsbauten mit modernen Freizeitflächen.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-klenzepark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106116871720723393528\">Horst Reisinger</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -114,7 +156,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Audi Forum Ingolstadt",
                   "text": "Modern élményközpont az Audi márka jegyében, amely magában foglalja a museum mobile-t és gyárlátogatásokat kínál.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-audi-forum-ingolstadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116676120220283358988\">Audi museum mobile</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Új kastély (Neues Schloss)",
@@ -132,7 +181,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Kreuztor",
                   "text": "A város jelképe a 14. századi ingolstadti erőd legszebb épségben maradt városkapuja.",
                   "category": "gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-kreuztor.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112908391127234849083\">Rene Markus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Német Orvostörténeti Múzeum",
@@ -144,7 +200,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Klenzepark",
                   "text": "A Duna partján fekvő park a történelmi erődítményeket ötvözi modern szabadidős területekkel.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-klenzepark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106116871720723393528\">Horst Reisinger</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "ro": [
@@ -152,7 +215,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Audi Forum Ingolstadt",
                   "text": "Un centru modern dedicat mărcii Audi, care include muzeul 'museum mobile' și oferă tururi captivante ale fabricii.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-audi-forum-ingolstadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116676120220283358988\">Audi museum mobile</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Castelul Nou",
@@ -190,7 +260,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Audi Forum Ingolstadt",
                   "text": "A modern brand experience center featuring the 'museum mobile' and fascinating guided factory tours.",
                   "category": "industry",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-audi-forum-ingolstadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116676120220283358988\">Audi museum mobile</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJv300IT7-nkcRkfoJFlIeImM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "New Castle",
@@ -202,13 +279,27 @@ export const poiExtraDe1: POI[] = [
                   "name": "Liebfrauenmünster",
                   "text": "The late Gothic hall church impresses with its massive roof structure and precious high altar.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-liebfrauenmuenster.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116202230488527262007\">Steffen S.</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ66ZJnFD-nkcRlO8cgAIk6kI",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kreuztor",
                   "text": "The city's landmark is the most beautiful surviving gate of the former Ingolstadt fortress, dating to the 14th century.",
                   "category": "gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-kreuztor.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112908391127234849083\">Rene Markus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJu_cWR1r-nkcRLi68NE6ws8I",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "German Museum of Medical History",
@@ -220,7 +311,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Klenzepark",
                   "text": "Located on the banks of the Danube, this park combines historic fortress buildings with modern leisure facilities.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ingolstadt-extra-klenzepark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106116871720723393528\">Horst Reisinger</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJB69kUav_nkcR1CqxI5d5TAg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ]
 }
@@ -1067,43 +1165,92 @@ export const poiExtraDe1: POI[] = [
                   "name": "St.-Paulus-Dom",
                   "text": "Die Kathedrale aus dem 13. Jahrhundert besticht durch ihre astronomische Uhr und die Mischung aus Romanik und Gotik.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-st-paulus-dom.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110042737369241348768\">Thomas “PottBubi” Wiemers</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJdYIuTcK6uUcRUKC4CZyuA6M",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Historisches Rathaus",
                   "text": "Ein gotischer Prachtbau, in dem 1648 der Westfälische Friede zur Beendigung des Dreißigjährigen Krieges unterzeichnet wurde.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-historisches-rathaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114795906881707126482\">Wolfgang Knoll / KeybOrgel</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJcdbwOMO6uUcRTUEAzSibO30",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Prinzipalmarkt",
                   "text": "Die historische Marktstraße wird von charakteristischen Giebelhäusern und Bogengängen gesäumt, die das Stadtbild prägen.",
                   "category": "square",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-prinzipalmarkt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102621145214172291807\">Heiko Schmigalle</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Schloss Münster",
                   "text": "Das barocke Residenzschloss des ehemaligen Fürstbischofs dient heute als Hauptgebäude der Westfälischen Wilhelms-Universität.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-schloss-muenster.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/109938336319172901057\">Börse forex handeln торговля</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJrYFjKby6uUcRHzMgylSy5bo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Lambertikirche",
                   "text": "Bekannt für die drei Käfige am Turm, in denen einst die Leichen der Wiedertäufer zur Schau gestellt wurden.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-lambertikirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102646984418680623580\">St. Lamberti</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJg9br18K6uUcRJC9r5gjiN0o",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "LWL-Museum für Kunst und Kultur",
                   "text": "Ein bedeutendes Kunstmuseum, das Werke vom Mittelalter bis zur Gegenwart in einem modernen Neubau präsentiert.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-lwl-museum-fuer-kunst-und-kultur.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106532741517326638458\">LWL-Museum für Kunst und Kultur</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ797owMO6uUcRO6l3P5XFbmc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Aasee",
                   "text": "Ein weitläufiger künstlicher See nahe der Altstadt, der als Naherholungsgebiet für Spaziergänge und Wassersport dient.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-aasee.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113330160431531539944\">M O</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ3_0THrO6uUcRMM-QfofvqVk",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -1123,7 +1270,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Prinzipalmarkt",
                   "text": "Münster főtere jellegzetes árkádos házaival és díszes homlokzataival a város kereskedelmi és történelmi szíve.",
                   "category": "square",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-prinzipalmarkt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102621145214172291807\">Heiko Schmigalle</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Münsteri kastély",
@@ -1211,7 +1365,14 @@ export const poiExtraDe1: POI[] = [
                   "name": "Prinzipalmarkt",
                   "text": "Münster's historic marketplace, lined with characteristic gabled houses and arcades that define the city center.",
                   "category": "square",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-muenster-extra-prinzipalmarkt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102621145214172291807\">Heiko Schmigalle</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJrzx_aSC7uUcR70Z0ePvE3rQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Münster Palace",
@@ -1313,43 +1474,92 @@ export const poiExtraDe1: POI[] = [
                   "name": "Wuppertaler Schwebebahn",
                   "text": "Das Wahrzeichen der Stadt ist eine weltweit einzigartige Einschienen-Hängebahn, die seit 1901 über der Wupper schwebt.",
                   "category": "transport",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-wuppertaler-schwebebahn.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100930681712448346937\">Captain Kronos</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJS3koHbApuUcRb0ZNv9ktSVM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Von der Heydt-Museum",
                   "text": "Ein bedeutendes Kunstmuseum mit Schwerpunkt auf niederländischer Malerei des 17. Jahrhunderts und dem Impressionismus.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-von-der-heydt-museum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111486159437844065797\">Von der Heydt-Museum</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ6_4hcj0ouUcRFbLM6Lxgodo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Zoo Wuppertal",
                   "text": "Einer der ältesten und landschaftlich schönsten Zoos Deutschlands, bekannt für seine Elefanten- und Großkatzengehege.",
                   "category": "zoo",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-zoo-wuppertal.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105632749175458062470\">Der Grüne Zoo Wuppertal</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJdfDh6eDXuEcRpkpjgiMg4E8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Skulpturenpark Waldfrieden",
                   "text": "Vom Bildhauer Tony Cragg gegründet, zeigt der Park moderne Skulpturen inmitten eines idyllischen Waldstücks.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-skulpturenpark-waldfrieden.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117437704857900224167\">Skulpturenpark Waldfrieden</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1xU9sNLXuEcR8Yjspx5DLrk",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Historische Stadthalle",
                   "text": "Ein prachtvoller Konzertbau im Stil der Neorenaissance, der für seine herausragende Akustik weltberühmt ist.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-historische-stadthalle.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100826801387656914049\">MeHDi HaSHeMi</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1U6lf03WuEcRWFpbR3AiHuY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Botanischer Garten",
                   "text": "Auf dem Hardtberg gelegen, bietet der Garten eine Vielfalt an exotischen Pflanzen und einen Blick über das Tal.",
                   "category": "garden",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-botanischer-garten.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103015576699449524285\">Mark Poley</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJZWkRkcnXuEcRYgI_3v2yQ0U",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Ölberg-Viertel",
                   "text": "Eines der größten zusammenhängenden Arbeiterviertel der Gründerzeit mit engen Gassen und historischem Charme.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-wuppertal-extra-oelberg-viertel.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/118152945421091145545\">Renate Kern</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ53NRrKvXuEcRbWahBu4Fxlg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -2040,43 +2250,92 @@ export const poiExtraDe1: POI[] = [
                   "name": "Ulmer Münster",
                   "text": "Die gotische Kathedrale besitzt mit 161,5 Metern den höchsten Kirchturm der Welt und ist das Wahrzeichen Ulms.",
                   "category": "church",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-ulmer-muenster.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/118365404979078607272\">Roman Wilke</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJpWPETMBgmUcRHhenHJBN0gc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Fischerviertel",
                   "text": "Das historische Viertel an der Mündung der Blau in die Donau besticht durch Fachwerkhäuser und Kanäle.",
                   "category": "old-town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-fischerviertel.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113247554926951936046\">XSRainbowDash</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJjWjD3oRmmUcR3hxkbeqF4us",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Ulmer Rathaus",
                   "text": "Berühmt für seine prächtigen Fassadenmalereien aus der Frührenaissance und die astronomische Uhr von 1520.",
                   "category": "town-hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-ulmer-rathaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110409441582963405474\">Peter Raz</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJbQZVjo9mmUcR9NWcMHfpVk0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Schiefes Haus",
                   "text": "Ein spätgotisches Fachwerkhaus im Fischerviertel, das als das schiefste Hotel der Welt im Guinness-Buch steht.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-schiefes-haus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106841235349834301004\">Hotel Schiefes Haus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJExRAyICwuUcRruRru2Ug2Hg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kloster Wiblingen",
                   "text": "Die ehemalige Benediktinerabtei beeindruckt vor allem durch ihren prunkvollen Bibliothekssaal im Rokoko-Stil.",
                   "category": "monastery",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-kloster-wiblingen.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113075301577886013880\">SMB</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ2cXmP0phmUcR2yL_aYiTYWA",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Metzgerturm",
                   "text": "Ein alter Stadtturm aus dem 14. Jahrhundert, der aufgrund des instabilen Bodens eine deutliche Neigung aufweist.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-metzgerturm.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107805710830374797749\">Christian Berges</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJBZ42LQBnmUcRqVOwvZHAfwc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Museum Ulm",
                   "text": "Beherbergt den 'Löwenmenschen', eine über 35.000 Jahre alte Elfenbeinstatue und eines der ältesten Kunstwerke der Welt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-ulm-extra-museum-ulm.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117061048924480547090\">Claudio Patti</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJG7sf2fFnmUcRh0QD38-VClc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [

@@ -51,31 +51,66 @@ export const poiExtraDe3b: POI[] = [
                   "name": "Schloss Branitz",
                   "text": "Das prachtvolle Schloss von Fürst Pückler ist eingebettet in einen einzigartigen Landschaftspark.",
                   "category": "castle",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-cottbus-extra-schloss-branitz.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113371394975042410622\">Fürst-Pückler-Museum Park und Schloss Branitz</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJiZ1pGKl2CEcRfINYB3ds38g",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Staatstheater Cottbus",
                   "text": "Der Jugendstilbau gilt als eines der schönsten Theatergebäude Europas und bietet Oper und Schauspiel.",
                   "category": "theater",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-cottbus-extra-staatstheater-cottbus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103410577489288005018\">Staatstheater Cottbus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJccqGimN0CEcRkQAAXzIAY4E",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Spremberger Turm",
                   "text": "Der markante Wehrturm bietet eine Aussichtsplattform mit Blick über die gesamte Cottbuser Innenstadt.",
                   "category": "tower",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-cottbus-extra-spremberger-turm.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100466845610841808764\">Spremberger Turm</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ9QW2Aml0CEcRU_6ZmnO08yA",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Altmarkt",
                   "text": "Ein historischer Platz mit barocken Bürgerhäusern, gemütlichen Cafés und dem Cottbuser Postkutscher.",
                   "category": "town hall",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-cottbus-extra-altmarkt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102710658420957832014\">Mike S</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJoVeULWh0CEcRX49tj3fgk8Y",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Tierpark Cottbus",
                   "text": "Der größte Zoo in Brandenburg beherbergt über 1200 Tiere in einer weitläufigen Parkanlage.",
                   "category": "park",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-cottbus-extra-tierpark-cottbus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112179371988490581987\">Tierpark Cottbus</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJRXFQvQh0CEcRMsFhWgdI58Q",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [

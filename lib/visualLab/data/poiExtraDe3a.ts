@@ -1359,31 +1359,66 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Museumsberg",
                   "text": "Eines der größten Museen Schleswig-Holsteins mit Sammlungen zur Kunst und Kulturgeschichte.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-museumsberg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100555683634731310649\">Museumsberg Flensburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Nordertor",
                   "text": "Das Wahrzeichen Flensburgs und das einzige erhaltene Stadttor, das einst den Zugang nach Norden sicherte.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-nordertor.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106731945027704206025\">Arne Petersen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJx69_LsdCs0cRchGfBMDDwLU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phänomenta",
                   "text": "Ein Science Center direkt am Nordertor, das zum Mitmachen und Experimentieren für Jung und Alt einlädt.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-phaenomenta.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113115447282011937602\">Phänomenta</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Rote Straße",
                   "text": "Die historische Kaufmannsstraße beeindruckt mit malerischen Hinterhöfen und kleinen Handwerksläden.",
                   "category": "old town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-rote-strasse.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103511036697003185490\">Tina Jakubowski</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJTy1SIZhCs0cRnD-5qgKR4Wc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Museumshafen",
                   "text": "Hier liegen historische Segelschiffe und Oldtimer-Boote, die Flensburgs maritime Tradition zeigen.",
                   "category": "port",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-museumshafen.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115252716105755540177\">Lille Sael</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJs5tVe79Cs0cRuEF8Ey7KQ-8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -1391,7 +1426,14 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Museumsberg",
                   "text": "Schleswig-Holstein egyik legnagyobb múzeuma művészeti és kultúrtörténeti gyűjteményekkel.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-museumsberg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100555683634731310649\">Museumsberg Flensburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Északi kapu",
@@ -1403,7 +1445,14 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Phänomenta",
                   "text": "Tudományos központ közvetlenül az Északi kapunál, amely interaktív kísérleteket kínál minden korosztálynak.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-phaenomenta.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113115447282011937602\">Phänomenta</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Vörös utca",
@@ -1423,7 +1472,14 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Museumsberg",
                   "text": "Unul dintre cele mai mari muzee din Schleswig-Holstein, cu colecții de artă și istorie culturală.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-museumsberg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100555683634731310649\">Museumsberg Flensburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Poarta de Nord",
@@ -1435,7 +1491,14 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Phänomenta",
                   "text": "Centru de știință situat lângă Poarta de Nord, care invită vizitatorii la experimente interactive.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-phaenomenta.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113115447282011937602\">Phänomenta</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Strada Roșie",
@@ -1455,25 +1518,53 @@ export const poiExtraDe3a: POI[] = [
                   "name": "Museumsberg",
                   "text": "One of the largest museums in Schleswig-Holstein with collections on art and cultural history.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-museumsberg.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100555683634731310649\">Museumsberg Flensburg</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJA5u4r71Cs0cRGhlsULDM3zE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Nordertor",
                   "text": "Flensburg's landmark and the only preserved city gate that once secured the northern entrance.",
                   "category": "city gate",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-nordertor.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106731945027704206025\">Arne Petersen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJx69_LsdCs0cRchGfBMDDwLU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Phänomenta",
                   "text": "A science center located next to the Nordertor, offering interactive experiments for all ages.",
                   "category": "museum",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-phaenomenta.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113115447282011937602\">Phänomenta</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJP0Q7M8dCs0cRihdd3kYW51g",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Rote Straße",
                   "text": "This historic merchant street impresses with picturesque courtyards and small craft shops.",
                   "category": "old town",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/city-flensburg-extra-rote-strasse.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103511036697003185490\">Tina Jakubowski</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJTy1SIZhCs0cRnD-5qgKR4Wc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Museum Harbor",
