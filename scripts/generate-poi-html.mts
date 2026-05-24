@@ -20,6 +20,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
+import { recomputeItineraryTimings } from "../lib/itinerary/timing-config";
 
 // tsx ESM treats the TS module as CJS-wrapped → real exports on .default
 const slugs: any = (_slugsNs as any).default ?? _slugsNs;
@@ -498,7 +499,7 @@ function structuredData(
 // City-itinerary loader + renderer (4-mode day trip widget).
 // Loads public/data/itinerary/<poi.id>.json if present, then recomputes
 // all timings via central lib/itinerary/timing-config.ts (build-time refreshable).
-import { recomputeItineraryTimings } from "../lib/itinerary/timing-config";
+// Import moved to top of file (ES modules require top-level imports).
 const _itinCache = new Map<string, any>();
 function loadItinerary(poiId: string, poiTier: number = 2): any | null {
   if (_itinCache.has(poiId)) return _itinCache.get(poiId);
