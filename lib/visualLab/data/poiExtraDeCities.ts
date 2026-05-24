@@ -21,13 +21,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bamberget hét dombra építették.",
       "ro": "Bamberg a fost construit pe șapte coline.",
       "en": "Bamberg was built on seven hills."
-    },
+    ,
+      "tr": "Bamberg yedi tepe üzerine kurulmuştur."},
     "descriptionAdvanced": {
       "de": "Das Alte Rathaus steht mitten im Fluss Regnitz. Die Altstadt ist unversehrt erhalten. Geographie K7 — Flüsse und Städte",
       "hu": "A régi városháza a Regnitz folyó közepén áll. Az óváros épségben fennmaradt. Földrajz K7 — Folyók és városok",
       "ro": "Vechea primărie stă în mijlocul râului Regnitz. Orașul vechi este intact. Geografie K7 — Râuri și orașe",
       "en": "The Old Town Hall stands in the middle of the Regnitz river. The old town is preserved. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Alte Rathaus, Regnitz nehrinin tam ortasında durmaktadır. Eski şehir bozulmadan korunmuştur. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Sieben Hügel",
@@ -53,7 +55,8 @@ export const poiExtraDeCities: POI[] = [
         "Bamberg Cathedral",
         "Smoked beer"
       ]
-    },
+    ,
+      "tr": ["Yedi Tepe", "Alte Rathaus", "Bamberger Dom", "Rauchbier"]},
     "plizioChallenge": {
       "de": "7 Hügel minus 3 = ?",
       "hu": "7 domb mínusz 3 = ?",
@@ -214,7 +217,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Bamberger Dom", "text": "Dört kuleli imparatorluk katedrali, Papa II. Clemens'in mezarını ve ünlü Bamberg Süvarisi'ni barındırır.", "category": "church" },
+        { "name": "Altes Rathaus", "text": "Regnitz nehrinin ortasında muhteşem bir konuma sahip olan simgesel bina, iki taş köprüyle eski şehre bağlanır.", "category": "town hall" },
+        { "name": "Neue Residenz", "text": "Prens-piskoposların görkemli barok konutu, eski şehir manzaralı gül bahçesiyle etkileyicidir.", "category": "landmark" },
+        { "name": "Klein Venedig", "text": "Regnitz kıyısındaki eski balıkçı evleri, yarı ahşap yapılarıyla İtalya'daki Venedik'i andırır.", "category": "old town" },
+        { "name": "Kloster Michaelsberg", "text": "Şehrin yukarısında yer alan eski Benediktin manastırı, gökyüzü bahçeli barok kilisesiyle tanınır.", "category": "church" },
+        { "name": "Alte Hofhaltung", "text": "Katedral meydanındaki eski piskopos ikametgahı, tarihi yarı ahşap yapıları ve güzel avlusuyla büyüleyicidir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "rosenheim-extra",
@@ -235,13 +247,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Rosenheim Délkelet-Felső-Bajorország gazdasági központja.",
       "ro": "Rosenheim este centrul economic al sud-estului Bavariei Superioare.",
       "en": "Rosenheim is the economic center of southeastern Upper Bavaria."
-    },
+    ,
+      "tr": "Rosenheim, Güneydoğu Yukarı Bavyera'nın ekonomik merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt am Zusammenfluss von Mangfall und Inn. Sie ist bekannt für den Holzbau und die schöne Landschaft. Geographie K7 — Flüsse und Städte",
       "hu": "A város a Mangfall és az Inn folyók összefolyásánál fekszik. Híres a faépítészetről és a gyönyörű tájról. Földrajz K7 — Folyók és városok",
       "ro": "Orașul se află la confluența râurilor Mangfall și Inn. Este cunoscut pentru arhitectura din lemn și peisajul frumos. Geografie K7 — Râuri și orașe",
       "en": "The city lies at the confluence of the Mangfall and Inn rivers. It is known for timber construction and beautiful landscapes. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, Mangfall ve Inn nehirlerinin birleştiği noktada yer alır. Ahşap yapıları ve güzel manzarasıyla tanınır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Am Inn",
@@ -267,7 +281,8 @@ export const poiExtraDeCities: POI[] = [
         "Alpine foothills",
         "Max-Josefs Square"
       ]
-    },
+    ,
+      "tr": ["Inn nehri üzerinde", "Ahşap şehri", "Alp önleri", "Max-Josefs-Platz"]},
     "plizioChallenge": {
       "de": "2 Flüsse + 3 Berge = ?",
       "hu": "2 folyó + 3 hegy = ?",
@@ -404,7 +419,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Max-Josefs-Platz", "text": "Şehrin kalbi olan merkezi pazar meydanı, Inn-Salzach tarzındaki görkemli sivil evlerle çevrilidir.", "category": "historic square" },
+        { "name": "Mittertor", "text": "Rosenheim'ın 14. yüzyıldan kalma ayakta kalan tek şehir kapısıdır ve bugün belediye müzesine ev sahipliği yapar.", "category": "landmark" },
+        { "name": "Lokschuppen", "text": "Bugün değişen temalarda uluslararası düzeyde tanınan bir sergi merkezi olarak kullanılan eski bir tren deposu.", "category": "museum" },
+        { "name": "Heilig-Geist-Kirche", "text": "Pazar meydanındaki geç gotik kilise, görkemli sunağı ve barok tavan resimleriyle tanınır.", "category": "church" },
+        { "name": "Riedergarten", "text": "Eski şehirde bulunan ve bugün huzurlu bir park olarak kullanılan eski bir özel bitki bahçesidir.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "garmisch-extra",
@@ -425,13 +448,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Itt található Németország legmagasabb hegye.",
       "ro": "Aici se află cel mai înalt munte din Germania.",
       "en": "The highest mountain in Germany is located here."
-    },
+    ,
+      "tr": "Almanya'nın en yüksek dağı burada yer almaktadır."},
     "descriptionAdvanced": {
       "de": "Die Zugspitze zieht viele Bergsteiger und Skifahrer an. Der Ort an der Loisach ist ein berühmtes Wintersportzentrum. Geographie K7 — Flüsse und Städte",
       "hu": "A Zugspitze sok hegymászót és síelőt vonz. A Loisach menti település híres téli sportközpont. Földrajz K7 — Folyók és városok",
       "ro": "Zugspitze atrage mulți alpiniști și schiori. Orașul de pe Loisach este un renumit centru de sporturi de iarnă. Geografie K7 — Râuri și orașe",
       "en": "The Zugspitze attracts many climbers and skiers. The town on the Loisach is a famous winter sports center. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Zugspitze, birçok dağcıyı ve kayakçıyı kendine çeker. Loisach kıyısındaki kasaba, ünlü bir kış sporları merkezidir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Zugspitze (2962m)",
@@ -457,7 +482,8 @@ export const poiExtraDeCities: POI[] = [
         "Loisach",
         "Partnach Gorge"
       ]
-    },
+    ,
+      "tr": ["Zugspitze (2962 m)", "Kış sporları", "Loisach nehri", "Partnachklamm"]},
     "plizioChallenge": {
       "de": "Wenn der Berg 2962m hoch ist, wie viel fehlt bis 3000m?",
       "hu": "Ha a hegy 2962m magas, mennyi hiányzik 3000m-ig?",
@@ -594,7 +620,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Zugspitze", "text": "2962 metre ile Almanya'nın en yüksek dağıdır; teleferikle çıkılarak 4 ülkeyi kapsayan nefes kesici bir panorama sunar.", "category": "mountain" },
+        { "name": "Partnachklamm", "text": "Kaya içine oyulmuş yollarla geçilebilen, gürleyen şelalelere sahip 700 metre uzunluğunda muhteşem bir kanyon.", "category": "landmark" },
+        { "name": "Olympiaschanze", "text": "Yeni Yıl Atlamaları'na ev sahipliği yapan modern kayakla atlama pisti, bölgenin mimari açıdan öne çıkan yapısıdır.", "category": "landmark" },
+        { "name": "Ludwigstraße", "text": "Partenkirchen'deki tarihi ana cadde, sanatsal duvar resimlerine sahip görkemli evleriyle büyüleyicidir.", "category": "old town" },
+        { "name": "Eibsee", "text": "Zugspitze eteklerinde, turkuaz suyu ve çevresindeki yürüyüş yollarıyla bilinen kristal berraklığında bir dağ gölüdür.", "category": "lake" }
+      ]
+    }
   },
   {
     "id": "berchtesgaden-extra",
@@ -615,13 +649,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Berchtesgaden az Alpok szívében található.",
       "ro": "Berchtesgaden se află în mijlocul Alpilor.",
       "en": "Berchtesgaden is located in the heart of the Alps."
-    },
+    ,
+      "tr": "Berchtesgaden, Alplerin tam ortasında yer alır."},
     "descriptionAdvanced": {
       "de": "Der nahe Königssee und das Watzmann-Massiv sind weltbekannt. Die Berchtesgadener Ache fließt durch das Tal. Geographie K7 — Flüsse und Städte",
       "hu": "A közeli Königssee és a Watzmann-hegység világhírűek. A Berchtesgadener Ache folyik át a völgyön. Földrajz K7 — Folyók és városok",
       "ro": "Lacul Königssee și masivul Watzmann sunt de faimă mondială. Râul Berchtesgadener Ache curge prin vale. Geografie K7 — Râuri și orașe",
       "en": "The nearby Königssee and the Watzmann massif are world-famous. The Berchtesgadener Ache flows through the valley. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Yakındaki Königssee ve Watzmann masifi dünya çapında ünlüdür. Berchtesgadener Ache nehri vadinin içinden akar. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Nationalpark",
@@ -647,7 +683,8 @@ export const poiExtraDeCities: POI[] = [
         "Königssee",
         "Salt mine"
       ]
-    },
+    ,
+      "tr": ["Milli park", "Watzmann", "Königssee", "Tuz madeni"]},
     "plizioChallenge": {
       "de": "3 Berge + 2 Seen = ?",
       "hu": "3 hegy + 2 tó = ?",
@@ -784,7 +821,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Kehlsteinhaus", "text": "Alplerin üzerinden etkileyici bir panoramik manzara sunan, 1834 metre yükseklikteki tarihi restoran.", "category": "landmark" },
+        { "name": "Salzbergwerk Berchtesgaden", "text": "Almanya'nın aktif en eski tuz madeni, madenci kaydırağı dahil heyecan verici yer altı turları sunar.", "category": "industry" },
+        { "name": "Königssee", "text": "Milli parkta yer alan, sessizliği, yankısı ve St. Bartholomä şapeli ile dünyaca ünlü derin mavi bir dağ gölüdür.", "category": "lake" },
+        { "name": "Königliches Schloss Berchtesgaden", "text": "Sanat koleksiyonu ve kutsal hazineleriyle Wittelsbach hanedanının eski ikametgahı ve manastırı.", "category": "castle" },
+        { "name": "Dokumentation Obersalzberg", "text": "Obersalzberg tarihi ve nasyonal sosyalizm dönemi üzerine bir eğitim ve anma merkezidir.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "fuessen-extra",
@@ -805,13 +850,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Füssen Bajorország legmagasabban fekvő városa.",
       "ro": "Füssen este cel mai înalt oraș din Bavaria.",
       "en": "Füssen is the highest town in Bavaria."
-    },
+    ,
+      "tr": "Füssen, Bavyera'nın en yüksek rakımlı şehridir."},
     "descriptionAdvanced": {
       "de": "Es liegt am Lech und ist bekannt für das nahe Schloss Neuschwanstein. Der Lechfall ist ein beeindruckendes Naturschauspiel. Geographie K7 — Flüsse und Städte",
       "hu": "A Lech partján fekszik, és a közeli Neuschwanstein kastélyról ismert. A Lech-vízesés lenyűgöző természeti látványosság. Földrajz K7 — Folyók és városok",
       "ro": "Se află pe Lech și este cunoscut pentru castelul Neuschwanstein. Cascada Lech este un spectacol natural impresionant. Geografie K7 — Râuri și orașe",
       "en": "It is on the Lech and is known for the nearby Neuschwanstein Castle. The Lech Fall is an impressive natural spectacle. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Lech nehri kıyısında yer alan şehir, yakınındaki Schloss Neuschwanstein ile tanınır. Lechfall, etkileyici bir doğa olayıdır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Am Lech",
@@ -837,7 +884,8 @@ export const poiExtraDeCities: POI[] = [
         "Allgäu",
         "Lech Fall"
       ]
-    },
+    ,
+      "tr": ["Lech kıyısında", "Schloss Neuschwanstein", "Allgäu", "Lechfall"]},
     "plizioChallenge": {
       "de": "Wenn 5 Burgen je 4 Türme haben, wie viele Türme sind das?",
       "hu": "Ha 5 várnak egyenként 4 tornya van, hány torony az összesen?",
@@ -974,7 +1022,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Neuschwanstein", "text": "II. Ludwig'in dünyaca ünlü masal şatosu, Füssen yakınlarındaki Bavyera Alpleri'nde heybetle yükselir.", "category": "castle" },
+        { "name": "Hohes Schloss Füssen", "text": "Avlusunda etkileyici illüzyon resimleri bulunan önemli bir geç gotik şato kompleksidir.", "category": "castle" },
+        { "name": "Kloster St. Mang", "text": "Tarihi lavta koleksiyonuna sahip şehir müzesini barındıran eski bir Benediktin manastırı.", "category": "church" },
+        { "name": "Lechfall", "text": "Lech nehrinin on iki basamak üzerinden bir kanyona dökülüğü, şehrin güney kenarındaki etkileyici şelale.", "category": "landmark" },
+        { "name": "Schloss Hohenschwangau", "text": "Kral II. Ludwig'in çocukluğunu geçirdiği romantik rezidans şatosu, Neuschwanstein'ın tam karşısında yer alır.", "category": "castle" }
+      ]
+    }
   },
   {
     "id": "erlangen-extra",
@@ -995,13 +1051,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Erlangen jelentős egyetemi és orvosi város.",
       "ro": "Erlangen este un important oraș universitar și medical.",
       "en": "Erlangen is an important university and medical city."
-    },
+    ,
+      "tr": "Erlangen, önemli bir üniversite ve tıp şehridir."},
     "descriptionAdvanced": {
       "de": "Sie liegt an der Regnitz und ist ein wichtiger Standort für Siemens. Die Hugenotten prägten das barocke Stadtbild. Geographie K7 — Flüsse und Städte",
       "hu": "A Regnitz partján fekszik, és a Siemens fontos központja. A hugenották alakították ki a barokk városképet. Földrajz K7 — Folyók és városok",
       "ro": "Este pe Regnitz și este o locație cheie pentru Siemens. Hughenoții au modelat peisajul baroc al orașului. Geografie K7 — Râuri și orașe",
       "en": "It is on the Regnitz and is a key location for Siemens. The Huguenots shaped the baroque cityscape. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Regnitz nehri üzerinde yer alan şehir, Siemens için önemli bir merkezdir. Hugenotten topluluğu, barok şehir manzarasını şekillendirmiştir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "An der Regnitz",
@@ -1027,7 +1085,8 @@ export const poiExtraDeCities: POI[] = [
         "Siemens hub",
         "Mountain fair"
       ]
-    },
+    ,
+      "tr": ["Regnitz kıyısında", "Hugenotten şehri", "Siemens merkezi", "Bergkirchweih"]},
     "plizioChallenge": {
       "de": "Wenn 100 Studenten in 4 Räume gehen, wie viele sind in einem Raum?",
       "hu": "Ha 100 diák 4 terembe megy, hányan vannak egy teremben?",
@@ -1164,7 +1223,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Erlanger Schlossgarten", "text": "Merkezdeki barok park alanı popüler bir buluşma noktasıdır ve tarihi Orangerie'ye ev sahipliği yapar.", "category": "landmark" },
+        { "name": "Hugenottenkirche", "text": "Fransa dışındaki en eski Huguenot kilisesi olan yapı, şehir tarihinin önemli bir simgesidir.", "category": "church" },
+        { "name": "Botanischer Garten Erlangen", "text": "Üniversitenin çeşitli bitki türlerine ve tropikal seralara sahip bilimsel bahçesidir.", "category": "landmark" },
+        { "name": "Stadtmuseum Erlangen", "text": "Şehrin tarihini tarih öncesinden Huguenot ve üniversite şehri olarak gelişimine kadar belgeler.", "category": "museum" },
+        { "name": "Orangerie", "text": "Saray bahçesinin kenarında yer alan ve bugün üniversite amaçlı kullanılan görkemli bir barok yapı.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "aschaffenburg-extra",
@@ -1185,13 +1252,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Aschaffenburgot 'Bajor Nizzának' nevezik.",
       "ro": "Aschaffenburg este numit 'Nisa Bavariei'.",
       "en": "Aschaffenburg is called the 'Bavarian Nice'."
-    },
+    ,
+      "tr": "Aschaffenburg, 'Bavyera'nın Nizza'sı' olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Das beeindruckende Schloss Johannisburg thront über dem Main. Das milde Klima fördert eine mediterrane Flora. Geographie K7 — Flüsse und Städte",
       "hu": "A lenyűgöző Johannisburg kastély a Majna felett magasodik. Az enyhe éghajlat kedvez a mediterrán flórának. Földrajz K7 — Folyók és városok",
       "ro": "Impresionantul castel Johannisburg tronează deasupra Mainului. Clima blândă favorizează o floră mediteraneană. Geografie K7 — Râuri și orașe",
       "en": "The impressive Johannisburg Castle towers over the Main. The mild climate supports Mediterranean flora. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Etkileyici Schloss Johannisburg, Main nehri üzerinde yükselir. Ilıman iklim, Akdeniz bitki örtüsünün yetişmesini sağlar. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Am Main",
@@ -1217,7 +1286,8 @@ export const poiExtraDeCities: POI[] = [
         "Pompejanum",
         "Spessart edge"
       ]
-    },
+    ,
+      "tr": ["Main kıyısında", "Schloss Johannisburg", "Pompejanum", "Spessart sınırı"]},
     "plizioChallenge": {
       "de": "Schloss hat 7 Buchstaben. Nizza hat 5. Zusammen?",
       "hu": "Kastély (Schloss) 7 betű. Nizza 5. Összesen?",
@@ -1354,7 +1424,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Johannisburg", "text": "Kırmızı kumtaşından yapılmış devasa dört kanatlı yapı, Almanya'nın en önemli Rönesans binalarından biridir.", "category": "castle" },
+        { "name": "Pompejanum", "text": "Kral I. Ludwig için Main nehri kıyısında inşa edilen, Pompei'deki bir Roma villasının idealize edilmiş kopyası.", "category": "landmark" },
+        { "name": "Stiftskirche St. Peter und Alexander", "text": "Matthias Grünewald'ın tablosu gibi değerli sanat hazinelerine sahip Romanesk bir bazilikadır.", "category": "church" },
+        { "name": "Park Schönbusch", "text": "Küçük bir şato, göller ve tapınaklarla bezeli İngiliz tarzı Almanya'nın en eski peyzaj bahçelerinden biri.", "category": "landmark" },
+        { "name": "Stadttheater Aschaffenburg", "text": "Çeşitli kültürel programlar sunan Güney Almanya'nın en güzel klasik tarzı tiyatro binalarından biridir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "hof-extra",
@@ -1375,13 +1453,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hof Bajorország északkeleti részén fekszik.",
       "ro": "Hof se află în nord-estul Bavariei.",
       "en": "Hof is located in northeastern Bavaria."
-    },
+    ,
+      "tr": "Hof, Bavyera'nın kuzeydoğusunda yer alır."},
     "descriptionAdvanced": {
       "de": "Die Stadt an der Saale ist berühmt für die Hofer Filmtage. Der Untreusee ist ein beliebtes Naherholungsgebiet. Geographie K7 — Flüsse und Städte",
       "hu": "A Saale parti város híres a Hofi Filmnapokról. Az Untreusee kedvelt pihenőhely. Földrajz K7 — Folyók és városok",
       "ro": "Orașul de pe Saale este renumit pentru Festivalul de Film din Hof. Lacul Untreu este o zonă populară de recreere. Geografie K7 — Râuri și orașe",
       "en": "The city on the Saale is famous for the Hof Film Festival. Lake Untreu is a popular recreation area. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Saale nehri üzerindeki şehir, Hofer Filmtage ile ünlüdür. Untreusee, popüler bir dinlenme ve mesire alanıdır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "An der Saale",
@@ -1407,7 +1487,8 @@ export const poiExtraDeCities: POI[] = [
         "Untreusee",
         "Franconian Forest"
       ]
-    },
+    ,
+      "tr": ["Saale kıyısında", "Filmtage", "Untreusee", "Frankenwald"]},
     "plizioChallenge": {
       "de": "Wenn ein Film 90 Minuten dauert, wie viele Stunden sind das?",
       "hu": "Ha egy film 90 perces, hány óra az?",
@@ -1550,7 +1631,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Theresienstein", "text": "1816'da kurulan ve 2003'te Almanya'nın en güzel parkı seçilen park, botanik bahçesine ev sahipliği yapar.", "category": "Parks & gardens" },
+        { "name": "Untreusee", "text": "Şehrin güneyinde yüzme, yelken, yürüyüş ve tırmanma parkı için ideal olan popüler bir dinlenme alanıdır.", "category": "Parks & gardens" },
+        { "name": "Museum Bayerisches Vogtland", "text": "Tarihi hastane binasındaki müze, şehir tarihini ve Bavyera Vogtland kültürünü sunmaktadır.", "category": "Museums" },
+        { "name": "Rathaus Hof", "text": "Eski şehrin kenarında yer alan, yüksek kulesi ve tarihi mimarisiyle bilinen belirgin bir gotik yapıdır.", "category": "Town hall & historic squares" },
+        { "name": "Marienkirche", "text": "Şehrin ana Protestan kilisesi, neo-gotik cephesi og içindeki değerli sanat hazineleriyle etkileyicidir.", "category": "Churches & monasteries" },
+        { "name": "Freiheitshalle", "text": "Yukarı Frankonya'nın en büyük etkinlik merkezi olup bölge çapında konser ve fuarlara ev sahipliği yapar.", "category": "Modern landmarks" }
+      ]
+    }
   },
   {
     "id": "coburg-extra",
@@ -1571,13 +1661,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Coburg felett egy hatalmas erődítmény magasodik.",
       "ro": "Coburg este dominat de o fortăreață masivă.",
       "en": "Coburg is dominated by a massive fortress."
-    },
+    ,
+      "tr": "Coburg, devasa bir kale tarafından yukarıdan izlenir."},
     "descriptionAdvanced": {
       "de": "Die Veste Coburg wird auch 'Fränkische Krone' genannt. Die Stadt am Fluss Itz hat europäische Adelsgeschichte geschrieben. Geographie K7 — Flüsse und Städte",
       "hu": "A Veste Coburgot 'Frank Koronának' is nevezik. Az Itz folyó menti város európai nemesi történelmet írt. Földrajz K7 — Folyók és városok",
       "ro": "Veste Coburg este numită și 'Coroana Franconiană'. Orașul de pe râul Itz a scris istoria nobilimii europene. Geografie K7 — Râuri și orașe",
       "en": "Veste Coburg is also called the 'Franconian Crown'. The city on the river Itz has written European noble history. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Veste Coburg kalesi 'Fränkische Krone' olarak da anılır. Itz nehri üzerindeki şehir, Avrupa soyluluk tarihinde iz bırakmıştır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "An der Itz",
@@ -1603,7 +1695,8 @@ export const poiExtraDeCities: POI[] = [
         "Samba Festival",
         "Dukes"
       ]
-    },
+    ,
+      "tr": ["Itz kıyısında", "Veste Coburg", "Samba Festivali", "Dükler"]},
     "plizioChallenge": {
       "de": "Eine Festung hat 4 Mauern mit je 3 Wachen. Wie viele Wachen?",
       "hu": "Egy erődnek 4 fala van, mindegyiken 3 őr. Hány őr van?",
@@ -1779,13 +1872,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Mönchengladbach a futballcsapatáról ismert.",
       "ro": "Mönchengladbach este cunoscut pentru clubul său de fotbal.",
       "en": "Mönchengladbach is known for its football club."
-    },
+    ,
+      "tr": "Mönchengladbach, futbol kulübüyle tanınır."},
     "descriptionAdvanced": {
       "de": "Die Stadt war ein Zentrum der Textilindustrie. Sie liegt am Fluss Niers in der Nähe der Niederlande. Geographie K7 — Flüsse und Städte",
       "hu": "A város a textilipar központja volt. A Niers folyó mentén fekszik, Hollandia közelében. Földrajz K7 — Folyók és városok",
       "ro": "Orașul a fost un centru al industriei textile. Este situat pe râul Niers, aproape de Olanda. Geografie K7 — Râuri și orașe",
       "en": "The city was a center of the textile industry. It lies on the river Niers near the Netherlands. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir bir zamanlar tekstil endüstrisinin merkeziydi. Hollanda sınırına yakın bir konumda, Niers nehri üzerinde bulunur. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Borussia",
@@ -1811,7 +1906,8 @@ export const poiExtraDeCities: POI[] = [
         "On the Niers",
         "Rheydt Castle"
       ]
-    },
+    ,
+      "tr": ["Borussia", "Tekstil tarihi", "Niers kıyısında", "Schloss Rheydt"]},
     "plizioChallenge": {
       "de": "11 Spieler + 11 Spieler = ?",
       "hu": "11 játékos + 11 játékos = ?",
@@ -1987,13 +2083,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Solingen Németország pengevárosa.",
       "ro": "Solingen este orașul lamelor din Germania.",
       "en": "Solingen is the city of blades in Germany."
-    },
+    ,
+      "tr": "Solingen, Almanya'nın bıçak ve kesici aletler şehridir."},
     "descriptionAdvanced": {
       "de": "Hier werden weltbekannte Messer und Scheren hergestellt. Die Müngstener Brücke ist die höchste Eisenbahnbrücke Deutschlands. Geographie K7 — Flüsse und Städte",
       "hu": "Itt készítik a világhírű késeket és ollókat. A Müngstener Brücke Németország legmagasabb vasúti hídja. Földrajz K7 — Folyók és városok",
       "ro": "Aici se fac cuțite și foarfece de renume mondial. Podul Müngstener este cel mai înalt pod feroviar din Germania. Geografie K7 — Râuri și orașe",
       "en": "World-famous knives and scissors are made here. The Müngstener Bridge is the highest railway bridge in Germany. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Burada dünya çapında tanınan bıçaklar ve makaslar üretilir. Müngstener Brücke, Almanya'nın en yüksek demir yolu köprüsüdür. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Klingenstadt",
@@ -2019,7 +2117,8 @@ export const poiExtraDeCities: POI[] = [
         "Müngstener Bridge",
         "Burg Castle"
       ]
-    },
+    ,
+      "tr": ["Klingenstadt", "Bıçaklar ve makaslar", "Müngstener Brücke", "Schloss Burg"]},
     "plizioChallenge": {
       "de": "Wenn 1 Schere 2 Klingen hat, wie viele Klingen haben 5 Scheren?",
       "hu": "Ha 1 ollónak 2 pengéje van, hány pengéje van 5 ollónak?",
@@ -2195,13 +2294,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Krefeldet gyakran bársony- és selyemvárosnak nevezik.",
       "ro": "Krefeld este adesea numit orașul catifelei și mătăsii.",
       "en": "Krefeld is often called the city of velvet and silk."
-    },
+    ,
+      "tr": "Krefeld, sıkça kadife ve ipek şehri olarak anılır."},
     "descriptionAdvanced": {
       "de": "Die Textilindustrie brachte der Stadt am Rhein großen Reichtum. Die Burg Linn ist eine gut erhaltene Wasserburg. Geographie K7 — Flüsse und Städte",
       "hu": "A textilipar nagy gazdagságot hozott a Rajna menti városnak. A Linn vár egy jól megőrzött vizivár. Földrajz K7 — Folyók és városok",
       "ro": "Industria textilă a adus o mare bogăție orașului de pe Rin. Castelul Linn este un castel cu șanț de apă bine conservat. Geografie K7 — Râuri și orașe",
       "en": "The textile industry brought great wealth to the city on the Rhine. Linn Castle is a well-preserved moated castle. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tekstil endüstrisi, Rhein kıyısındaki bu şehre büyük zenginlik kazandırmıştır. Burg Linn, iyi korunmuş bir su kalesidir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Seidenstadt",
@@ -2227,7 +2328,8 @@ export const poiExtraDeCities: POI[] = [
         "Linn Castle",
         "Krefeld Zoo"
       ]
-    },
+    ,
+      "tr": ["İpek şehri", "Rhein kıyısında", "Burg Linn", "Zoo Krefeld"]},
     "plizioChallenge": {
       "de": "Samt und Seide: 2 Stoffe + 2 Farben = ?",
       "hu": "Bársony és selyem: 2 anyag + 2 szín = ?",
@@ -2385,13 +2487,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Paderborn a nevét a Pader forrásairól kapta.",
       "ro": "Paderborn își datorează numele izvoarelor Pader.",
       "en": "Paderborn owes its name to the springs of the Pader."
-    },
+    ,
+      "tr": "Paderborn, adını Pader nehrinin kaynaklarından alır."},
     "descriptionAdvanced": {
       "de": "Die Pader ist mit 4 km der kürzeste Fluss Deutschlands. Paderborn ist auch ein wichtiger IT-Standort. Geographie K7 — Flüsse und Städte",
       "hu": "A Pader 4 km-rel Németország legrövidebb folyója. Paderborn egy fontos IT-központ is. Földrajz K7 — Folyók és városok",
       "ro": "Pader, cu 4 km, este cel mai scurt râu din Germania. Paderborn este, de asemenea, o locație IT importantă. Geografie K7 — Râuri și orașe",
       "en": "The Pader, at 4 km, is the shortest river in Germany. Paderborn is also an important IT location. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Pader, 4 km uzunluğuyla Almanya'nın en kısa nehridir. Paderborn aynı zamanda önemli bir IT merkezidir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Paderquellen",
@@ -2417,7 +2521,8 @@ export const poiExtraDeCities: POI[] = [
         "Computer Museum",
         "Paderborn Cathedral"
       ]
-    },
+    ,
+      "tr": ["Pader kaynakları", "En kısa nehir", "Bilgisayar müzesi", "Paderborner Dom"]},
     "plizioChallenge": {
       "de": "Wenn der Fluss 4000 Meter lang ist, wie viele Kilometer sind das?",
       "hu": "Ha a folyó 4000 méter hosszú, hány kilométer ez?",
@@ -2575,13 +2680,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Siegen Peter Paul Rubens festő szülővárosa.",
       "ro": "Siegen este locul de naștere al pictorului Peter Paul Rubens.",
       "en": "Siegen is the birthplace of the painter Peter Paul Rubens."
-    },
+    ,
+      "tr": "Siegen, ressam Peter Paul Rubens'in doğduğu şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt an der Sieg und ist umgeben von bewaldeten Hügeln. Sie hat eine lange Geschichte in der Eisenverhüttung. Geographie K7 — Flüsse und Städte",
       "hu": "A város a Sieg folyó mentén fekszik, és erdős dombok veszik körül. Hosszú történelme van a vaskohászatban. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este pe râul Sieg și înconjurat de dealuri împădurite. Are o lungă istorie în topirea fierului. Geografie K7 — Râuri și orașe",
       "en": "The city is on the river Sieg and surrounded by wooded hills. It has a long history in iron smelting. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Sieg nehri üzerinde yer alan şehir, ormanlık tepelerle çevrilidir. Demir işleme konusunda uzun bir geçmişe sahiptir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Rubensstadt",
@@ -2607,7 +2714,8 @@ export const poiExtraDeCities: POI[] = [
         "Upper Castle",
         "Hilly"
       ]
-    },
+    ,
+      "tr": ["Rubens şehri", "Sieg kıyısında", "Oberes Schloss", "Engebeli arazi"]},
     "plizioChallenge": {
       "de": "Wenn ein Maler 5 Bilder pro Monat malt, wie viele im Jahr?",
       "hu": "Ha egy festő havonta 5 képet fest, mennyit fest egy évben?",
@@ -2765,13 +2873,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hamm a nagy üvegelefántjáról ismert.",
       "ro": "Hamm este cunoscut pentru marele său elefant de sticlă.",
       "en": "Hamm is known for its large glass elephant."
-    },
+    ,
+      "tr": "Hamm, büyük cam fili ile tanınır."},
     "descriptionAdvanced": {
       "de": "Das Wahrzeichen steht im Maximilianpark, einer ehemaligen Zeche. Die Lippe fließt durch das nördliche Stadtgebiet. Geographie K7 — Flüsse und Städte",
       "hu": "A jelkép a Maximilianparkban áll, egy egykori bányában. A Lippe folyó a város északi részén folyik át. Földrajz K7 — Folyók és városok",
       "ro": "Simbolul se află în Parcul Maximilian, o fostă mină. Râul Lippe curge prin partea de nord a orașului. Geografie K7 — Râuri și orașe",
       "en": "The landmark stands in Maximilian Park, a former colliery. The river Lippe flows through the northern part of the city. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Bu simge yapı, eski bir kömür madeni olan Maximilianpark'ta bulunur. Lippe nehri şehrin kuzeyinden akar. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Glaselefant",
@@ -2797,7 +2907,8 @@ export const poiExtraDeCities: POI[] = [
         "On the Lippe",
         "Former colliery"
       ]
-    },
+    ,
+      "tr": ["Cam fil", "Maximilianpark", "Lippe kıyısında", "Eski maden ocağı"]},
     "plizioChallenge": {
       "de": "Ein Elefant wiegt 4000 kg. Wie viel wiegen 2 Elefanten?",
       "hu": "Egy elefánt 4000 kg. Mennyit nyom 2 elefánt?",
@@ -2955,13 +3066,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hagent a Sauerland kapujának nevezik.",
       "ro": "Hagen este numit poarta către Sauerland.",
       "en": "Hagen is called the gateway to the Sauerland."
-    },
+    ,
+      "tr": "Hagen, Sauerland'ın kapısı olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt an den Flüssen Ruhr, Lenne, Volme und Ennepe. Das Freilichtmuseum zeigt alte Handwerkstechnik. Geographie K7 — Flüsse und Städte",
       "hu": "A város a Ruhr, Lenne, Volme és Ennepe folyók mentén fekszik. A szabadtéri múzeum régi kézműves technikákat mutat be. Földrajz K7 — Folyók és városok",
       "ro": "Orașul se află pe râurile Ruhr, Lenne, Volme și Ennepe. Muzeul în aer liber prezintă tehnici vechi de artizanat. Geografie K7 — Râuri și orașe",
       "en": "The city is on the rivers Ruhr, Lenne, Volme, and Ennepe. The open-air museum shows old craft techniques. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir; Ruhr, Lenne, Volme ve Ennepe nehirlerinin üzerinde yer alır. Freilichtmuseum eski el sanatları tekniklerini sergiler. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Tor zum Sauerland",
@@ -2987,7 +3100,8 @@ export const poiExtraDeCities: POI[] = [
         "Open-air museum",
         "Distance University"
       ]
-    },
+    ,
+      "tr": ["Sauerland'ın kapısı", "Dört nehir", "Açık hava müzesi", "Açık öğretim üniversitesi"]},
     "plizioChallenge": {
       "de": "Wenn Hagen 4 Flüsse hat, wie viele Ufer sind das?",
       "hu": "Ha Hagennek 4 folyója van, hány partja van?",
@@ -3145,13 +3259,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Leverkusen elválaszthatatlanul összekapcsolódik a Bayer konszernnel.",
       "ro": "Leverkusen este inseparabil legat de corporația Bayer.",
       "en": "Leverkusen is inseparably linked to the Bayer corporation."
-    },
+    ,
+      "tr": "Leverkusen, Bayer şirketiyle ayrılmaz bir bütün oluşturur."},
     "descriptionAdvanced": {
       "de": "Das Bayer-Kreuz leuchtet nachts weithin sichtbar über dem Rhein. Die Stadt hat einen sehr erfolgreichen Fußballclub. Geographie K7 — Flüsse und Städte",
       "hu": "A Bayer-kereszt éjszaka messziről világít a Rajna felett. A városnak nagyon sikeres futballcsapata van. Földrajz K7 — Folyók és városok",
       "ro": "Crucea Bayer strălucește vizibil de departe noaptea deasupra Rinului. Orașul are un club de fotbal foarte de succes. Geografie K7 — Râuri și orașe",
       "en": "The Bayer Cross shines visibly from afar at night over the Rhine. The city has a very successful football club. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Bayer-Kreuz, geceleri Rhein nehri üzerinde uzaklardan görülebilecek şekilde parlar. Şehir çok başarılı bir futbol kulübüne sahiptir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Bayer-Werk",
@@ -3177,7 +3293,8 @@ export const poiExtraDeCities: POI[] = [
         "Bayer 04",
         "Bayer Cross"
       ]
-    },
+    ,
+      "tr": ["Bayer fabrikası", "Rhein kıyısında", "Bayer 04", "Bayer-Kreuz"]},
     "plizioChallenge": {
       "de": "Wenn 4 Fußballspiele je 90 Minuten dauern, wie viele Minuten insgesamt?",
       "hu": "Ha 4 focimeccs egyenként 90 perces, hány perc összesen?",
@@ -3335,13 +3452,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Recklinghausen a Ruhr-fesztiválról ismert.",
       "ro": "Recklinghausen este cunoscut pentru Festivalul Ruhr.",
       "en": "Recklinghausen is known for the Ruhr Festival."
-    },
+    ,
+      "tr": "Recklinghausen, Ruhrfestspiele festivaliyle tanınır."},
     "descriptionAdvanced": {
       "de": "Sie ist eine der am nördlichsten gelegenen Städte im Ruhrgebiet. Das Ikonen-Museum ist das bedeutendste seiner Art in Westeuropa. Geographie K7 — Flüsse und Städte",
       "hu": "A Ruhr-vidék egyik legészakibb városa. Az Ikon Múzeum a legjelentősebb a maga nemében Nyugat-Európában. Földrajz K7 — Folyók és városok",
       "ro": "Este unul dintre cele mai nordice orașe din regiunea Ruhr. Muzeul de Icoane este cel mai important de acest fel din Europa de Vest. Geografie K7 — Râuri și orașe",
       "en": "It is one of the northernmost cities in the Ruhr area. The Icon Museum is the most important of its kind in Western Europe. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Ruhr bölgesinin en kuzeyinde yer alan şehirlerden biridir. Ikonen-Museum, Batı Avrupa'daki türünün en önemli örneğidir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Ruhrfestspiele",
@@ -3367,7 +3486,8 @@ export const poiExtraDeCities: POI[] = [
         "Ruhr area",
         "City Hall"
       ]
-    },
+    ,
+      "tr": ["Ruhrfestspiele", "Ikonen-Museum", "Ruhr bölgesi", "Belediye binası"]},
     "plizioChallenge": {
       "de": "Wenn ein Festival 3 Wochen dauert, wie viele Tage sind das?",
       "hu": "Ha egy fesztivál 3 hétig tart, hány nap az?",
@@ -3525,13 +3645,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Mannheimet a négyzetek városának hívják.",
       "ro": "Mannheim este numit orașul pătratelor.",
       "en": "Mannheim is called the city of squares."
-    },
+    ,
+      "tr": "Mannheim, kareler şehri olarak bilinir."},
     "descriptionAdvanced": {
       "de": "Die Innenstadt ist wie ein Schachbrett angelegt, statt Straßennamen gibt es Buchstaben und Zahlen. Sie liegt am Zusammenfluss von Rhein und Neckar. Geographie K7 — Flüsse und Städte",
       "hu": "A belváros olyan, mint egy sakktábla, utcanevek helyett betűk és számok vannak. A Rajna és a Neckar összefolyásánál fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Centrul orașului este ca o tablă de șah, în loc de nume de străzi sunt litere și numere. Se află la confluența Rinului și a Neckarului. Geografie K7 — Râuri și orașe",
       "en": "The city center is laid out like a chessboard, with letters and numbers instead of street names. It lies at the confluence of the Rhine and Neckar. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir merkezi satranç tahtası gibi tasarlanmıştır; sokak isimleri yerine harfler ve sayılar kullanılır. Rhein ve Neckar nehirlerinin birleştiği noktada yer alır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Quadratestadt",
@@ -3557,7 +3679,8 @@ export const poiExtraDeCities: POI[] = [
         "Water Tower",
         "Mannheim Palace"
       ]
-    },
+    ,
+      "tr": ["Kareler şehri", "Rhein ve Neckar", "Wasserturm", "Schloss Mannheim"]},
     "plizioChallenge": {
       "de": "Ein Schachbrett hat 8x8 Felder. Wie viele Felder sind das?",
       "hu": "Egy sakktáblán 8x8 mező van. Hány mező ez?",
@@ -3739,13 +3862,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Karlsruhe legyező alakú városszerkezettel rendelkezik.",
       "ro": "Karlsruhe are un plan al orașului în formă de evantai.",
       "en": "Karlsruhe has a fan-shaped city layout."
-    },
+    ,
+      "tr": "Karlsruhe yelpaze şeklinde bir şehir planına sahiptir."},
     "descriptionAdvanced": {
       "de": "Alle Hauptstraßen führen auf das Karlsruher Schloss zu. Hier haben der Bundesgerichtshof und das Bundesverfassungsgericht ihren Sitz. Geographie K7 — Flüsse und Städte",
       "hu": "Minden főutca a karlsruhei kastélyhoz vezet. Itt található a Szövetségi Legfelsőbb Bíróság és a Szövetségi Alkotmánybíróság. Földrajz K7 — Folyók és városok",
       "ro": "Toate străzile principale duc spre Castelul Karlsruhe. Curtea Federală de Justiție și Curtea Constituțională Federală au sediul aici. Geografie K7 — Râuri și orașe",
       "en": "All main streets lead to Karlsruhe Palace. The Federal Court of Justice and the Federal Constitutional Court are located here. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tüm ana caddeler Karlsruher Schloss'a çıkar. Burada Bundesgerichtshof ve Bundesverfassungsgericht bulunur. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Fächerstadt",
@@ -3771,7 +3896,8 @@ export const poiExtraDeCities: POI[] = [
         "ZKM",
         "Karlsruhe Palace"
       ]
-    },
+    ,
+      "tr": ["Fächerstadt", "Bundesgerichtshof", "ZKM", "Karlsruher Schloss"]},
     "plizioChallenge": {
       "de": "Ein Fächer hat 32 Streben. Die Hälfte ist kaputt. Wie viele sind übrig?",
       "hu": "Egy legyezőnek 32 bordája van. A fele eltört. Hány maradt?",
@@ -3935,13 +4061,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Heilbronn a 'Käthchen' városaként ismert.",
       "ro": "Heilbronn este cunoscut ca orașul lui 'Käthchen'.",
       "en": "Heilbronn is known as the city of 'Käthchen'."
-    },
+    ,
+      "tr": "Heilbronn, Käthchenstadt olarak bilinir."},
     "descriptionAdvanced": {
       "de": "Der Name stammt von Heinrich von Kleists Schauspiel. Die Stadt liegt am Neckar und ist vom Weinbau geprägt. Geographie K7 — Flüsse und Städte",
       "hu": "A név Heinrich von Kleist drámájából származik. A város a Neckar mentén fekszik, és a borászat jellemzi. Földrajz K7 — Folyók és városok",
       "ro": "Numele provine de la piesa lui Heinrich von Kleist. Orașul este situat pe Neckar și se caracterizează prin viticultură. Geografie K7 — Râuri și orașe",
       "en": "The name comes from Heinrich von Kleist's play. The city is located on the Neckar and is characterized by viticulture. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Adı Heinrich von Kleist'ın bir tiyatro oyunundan gelir. Şehir Neckar kıyısında yer alır ve bağcılığıyla ön plana çıkar. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Am Neckar",
@@ -3967,7 +4095,8 @@ export const poiExtraDeCities: POI[] = [
         "Viticulture",
         "Experimenta"
       ]
-    },
+    ,
+      "tr": ["Neckar kıyısında", "Käthchenstadt", "Bağcılık", "Experimenta"]},
     "plizioChallenge": {
       "de": "Wenn 3 Kisten je 12 Weintrauben haben, wie viele Trauben sind es?",
       "hu": "Ha 3 ládában egyenként 12 szőlő van, hány szőlő az összesen?",
@@ -4131,13 +4260,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Pforzheimot aranyvárosnak hívják.",
       "ro": "Pforzheim este numit orașul de aur.",
       "en": "Pforzheim is called the gold city."
-    },
+    ,
+      "tr": "Pforzheim, Goldstadt olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Sie hat eine lange Tradition in der Schmuck- und Uhrenindustrie. Die Stadt liegt am Nordrand des Schwarzwaldes. Geographie K7 — Flüsse und Städte",
       "hu": "Nagy hagyományokkal rendelkezik az ékszer- és óraiparban. A város a Fekete-erdő északi peremén fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Are o lungă tradiție în industria bijuteriilor și ceasurilor. Orașul este situat la marginea de nord a Pădurii Negre. Geografie K7 — Râuri și orașe",
       "en": "It has a long tradition in the jewelry and watch industry. The city is located on the northern edge of the Black Forest. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Takı ve saat endüstrisinde uzun bir geleneğe sahiptir. Şehir Schwarzwald'ın kuzey ucunda yer alır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Goldstadt",
@@ -4163,7 +4294,8 @@ export const poiExtraDeCities: POI[] = [
         "Black Forest gateway",
         "Confluence of 3 rivers"
       ]
-    },
+    ,
+      "tr": ["Goldstadt", "Mücevher ve saat", "Schwarzwald-Tor", "3 nehrin birleştiği nokta"]},
     "plizioChallenge": {
       "de": "Gold glänzt. 3 Uhren + 4 Ringe = wie viele Schmuckstücke?",
       "hu": "Az arany csillog. 3 óra + 4 gyűrű = hány ékszer?",
@@ -4327,13 +4459,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Reutlingenben található a világ legszűkebb utcája.",
       "ro": "Reutlingen are cea mai îngustă stradă din lume.",
       "en": "Reutlingen has the narrowest street in the world."
-    },
+    ,
+      "tr": "Reutlingen dünyanın en dar sokağına sahiptir."},
     "descriptionAdvanced": {
       "de": "Die Spreuerhofstraße ist nur 31 cm breit. Reutlingen wird vom Berg Achalm überragt. Geographie K7 — Flüsse und Städte",
       "hu": "A Spreuerhofstraße mindössze 31 cm széles. Reutlingen felett az Achalm hegy magasodik. Földrajz K7 — Folyók és városok",
       "ro": "Strada Spreuerhofstraße are o lățime de doar 31 cm. Reutlingen este dominat de muntele Achalm. Geografie K7 — Râuri și orașe",
       "en": "The Spreuerhofstraße is only 31 cm wide. Reutlingen is dominated by the Achalm mountain. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Spreuerhofstraße sadece 31 cm genişliğindedir. Reutlingen, Achalm dağının gölgesinde yer alır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Engste Straße",
@@ -4359,7 +4493,8 @@ export const poiExtraDeCities: POI[] = [
         "Swabian Jura",
         "Tübingen Gate"
       ]
-    },
+    ,
+      "tr": ["En dar sokak", "Achalm", "Schwäbische Alb", "Tübinger Tor"]},
     "plizioChallenge": {
       "de": "Wenn eine Straße 31 cm breit ist, wie viele mm sind das?",
       "hu": "Ha egy utca 31 cm széles, hány mm az?",
@@ -4523,13 +4658,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Esslingennek van az egyik legrégebbi favázas óvárosa.",
       "ro": "Esslingen are unul dintre cele mai vechi orașe cu case din lemn.",
       "en": "Esslingen has one of the oldest half-timbered old towns."
-    },
+    ,
+      "tr": "Esslingen, en eski Fachwerk-Altstadt'lardan birine sahiptir."},
     "descriptionAdvanced": {
       "de": "Die Stadt am Neckar ist für ihre mittelalterlichen Häuser und den Weinbau bekannt. Die Burg bietet einen tollen Ausblick. Geographie K7 — Flüsse und Städte",
       "hu": "A Neckar menti város középkori házairól és borászatáról ismert. A vár nagyszerű kilátást nyújt. Földrajz K7 — Folyók és városok",
       "ro": "Orașul de pe Neckar este cunoscut pentru casele sale medievale și viticultură. Castelul oferă o vedere minunată. Geografie K7 — Râuri și orașe",
       "en": "The city on the Neckar is known for its medieval houses and viticulture. The castle offers a great view. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Neckar kıyısındaki şehir, orta çağdan kalma evleri ve bağcılığı ile tanınır. Esslinger Burg harika bir manzara sunar. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Fachwerkstadt",
@@ -4555,7 +4692,8 @@ export const poiExtraDeCities: POI[] = [
         "Esslingen Castle",
         "Medieval market"
       ]
-    },
+    ,
+      "tr": ["Fachwerkstadt", "Neckar kıyısında", "Esslinger Burg", "Mittelaltermarkt"]},
     "plizioChallenge": {
       "de": "Wenn ein Fachwerkhaus 400 Jahre alt ist, aus welchem Jahrhundert stammt es?",
       "hu": "Ha egy favázas ház 400 éves, melyik évszázadból származik?",
@@ -4719,13 +4857,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Sindelfingen az autóipar fontos központja.",
       "ro": "Sindelfingen este o locație importantă pentru industria auto.",
       "en": "Sindelfingen is an important location for the car industry."
-    },
+    ,
+      "tr": "Sindelfingen otomobil endüstrisinin önemli bir merkezidir."},
     "descriptionAdvanced": {
       "de": "Hier steht eines der größten Automobilwerke der Welt (Mercedes-Benz). Die Stadt liegt in der Nähe von Stuttgart. Geographie K7 — Flüsse und Städte",
       "hu": "Itt található a világ egyik legnagyobb autógyára (Mercedes-Benz). A város Stuttgart közelében fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Aici se află una dintre cele mai mari fabrici de automobile din lume (Mercedes-Benz). Orașul este aproape de Stuttgart. Geografie K7 — Râuri și orașe",
       "en": "One of the largest car factories in the world (Mercedes-Benz) is located here. The city is near Stuttgart. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Dünyanın en büyük otomobil fabrikalarından biri (Mercedes-Benz) burada bulunur. Şehir Stuttgart yakınlarındadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Mercedes-Benz",
@@ -4751,7 +4891,8 @@ export const poiExtraDeCities: POI[] = [
         "Schwippe",
         "Near Stuttgart"
       ]
-    },
+    ,
+      "tr": ["Mercedes-Benz", "Otomobil endüstrisi", "Schwippe", "Stuttgart yakınlarında"]},
     "plizioChallenge": {
       "de": "Wenn im Werk pro Tag 1000 Autos gebaut werden, wie viele in 5 Tagen?",
       "hu": "Ha a gyárban naponta 1000 autót építenek, mennyit 5 nap alatt?",
@@ -4915,13 +5056,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Aalenben található Dél-Németország legnagyobb római múzeuma.",
       "ro": "Aalen găzduiește cel mai mare muzeu roman din sudul Germaniei.",
       "en": "Aalen is home to the largest Roman museum in southern Germany."
-    },
+    ,
+      "tr": "Aalen, Güney Almanya'nın en büyük Römermuseum'una ev sahipliği yapmaktadır."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt am Kocher und war früher ein wichtiges Römerkastell am Limes. Auch die Limes-Thermen sind bekannt. Geographie K7 — Flüsse und Städte",
       "hu": "A város a Kocher mentén fekszik, és korábban fontos római erődítmény volt a limes mentén. A Limes Termálfürdő is ismert. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este pe râul Kocher și a fost un important castru roman pe Limes. Băile termale Limes sunt, de asemenea, cunoscute. Geografie K7 — Râuri și orașe",
       "en": "The city is on the Kocher and used to be an important Roman fort on the Limes. The Limes thermal baths are also well-known. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir Kocher kıyısında yer alır ve eskiden Limes üzerindeki önemli bir Roma kalesiydi. Limes-Thermen de meşhurdur. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Limes-Kastell",
@@ -4947,7 +5090,8 @@ export const poiExtraDeCities: POI[] = [
         "On the Kocher",
         "Limes Thermal Baths"
       ]
-    },
+    ,
+      "tr": ["Limes-Kastell", "Römermuseum", "Kocher kıyısında", "Limes-Thermen"]},
     "plizioChallenge": {
       "de": "Wenn 50 Römer in 5 Zelten schlafen, wie viele Römer pro Zelt?",
       "hu": "Ha 50 római alszik 5 sátorban, hány római jut egy sátorra?",
@@ -5111,13 +5255,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Schwäbisch Gmünd régi Staufer-város.",
       "ro": "Schwäbisch Gmünd este un vechi oraș Staufer.",
       "en": "Schwäbisch Gmünd is an old Staufer city."
-    },
+    ,
+      "tr": "Schwäbisch Gmünd eski bir Stauferstadt'tır."},
     "descriptionAdvanced": {
       "de": "Sie liegt im Tal der Rems. Die Stadt ist bekannt für ihre historische Architektur und ihre Gold- und Silberschmiede. Geographie K7 — Flüsse und Städte",
       "hu": "A Rems völgyében fekszik. A város ismert történelmi építészetéről, valamint arany- és ezüstműveseiről. Földrajz K7 — Folyók és városok",
       "ro": "Este situat în valea Rems. Orașul este cunoscut pentru arhitectura sa istorică și aurarii și argintarii săi. Geografie K7 — Râuri și orașe",
       "en": "It is located in the Rems valley. The city is known for its historic architecture and its gold and silversmiths. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Rems vadisinde yer alır. Şehir tarihi mimarisi ve altın ile gümüş işçiliği ile tanınır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stauferstadt",
@@ -5143,7 +5289,8 @@ export const poiExtraDeCities: POI[] = [
         "On the Rems",
         "Jewelry tradition"
       ]
-    },
+    ,
+      "tr": ["Stauferstadt", "Heilig-Kreuz-Münster", "Rems kıyısında", "Takı geleneği"]},
     "plizioChallenge": {
       "de": "1 Goldring + 2 Silberketten = wie viele Schmuckstücke?",
       "hu": "1 aranygyűrű + 2 ezüstlánc = hány ékszer?",
@@ -5307,13 +5454,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ravensburg a tornyok és kapuk városa.",
       "ro": "Ravensburg este orașul turnurilor și porților.",
       "en": "Ravensburg is the city of towers and gates."
-    },
+    ,
+      "tr": "Ravensburg, kuleler ve kapılar şehridir."},
     "descriptionAdvanced": {
       "de": "Die mittelalterliche Altstadt ist sehr gut erhalten. Viele kennen die Stadt durch den gleichnamigen Spieleverlag. Geographie K7 — Flüsse und Städte",
       "hu": "A középkori óváros nagyon jól megőrzött. Sokan ismerik a várost a nevét viselő társasjáték-kiadóról. Földrajz K7 — Folyók és városok",
       "ro": "Orașul vechi medieval este foarte bine conservat. Mulți cunosc orașul datorită editorului de jocuri cu același nume. Geografie K7 — Râuri și orașe",
       "en": "The medieval old town is very well preserved. Many know the city from the board game publisher of the same name. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Orta çağdan kalma eski şehir merkezi çok iyi korunmuştur. Birçok kişi şehri aynı adı taşıyan oyun yayınevinden tanır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt der Türme",
@@ -5339,7 +5488,8 @@ export const poiExtraDeCities: POI[] = [
         "Blaserturm",
         "Upper Swabia"
       ]
-    },
+    ,
+      "tr": ["Stadt der Türme", "Oyun yayınevi", "Blaserturm", "Oberschwaben"]},
     "plizioChallenge": {
       "de": "Wenn ein Spiel 4 Spieler hat und 3 Spiele laufen, wie viele Spieler spielen?",
       "hu": "Ha egy játéknak 4 játékosa van, és 3 játék fut, hány játékos játszik?",
@@ -5497,13 +5647,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Fulda gyönyörű barokk város.",
       "ro": "Fulda este un oraș baroc frumos.",
       "en": "Fulda is a beautiful baroque city."
-    },
+    ,
+      "tr": "Fulda harika bir Barockstadt'tır."},
     "descriptionAdvanced": {
       "de": "Der Dom St. Salvator ist das Wahrzeichen. Die Stadt liegt am gleichnamigen Fluss Fulda. Geographie K7 — Flüsse und Städte",
       "hu": "A Szent Szalvátor-dóm a jelképe. A város a szintén Fulda nevű folyó mentén fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Domul Sf. Salvator este simbolul său. Orașul este situat pe râul cu același nume, Fulda. Geografie K7 — Râuri și orașe",
       "en": "St. Salvator Cathedral is its landmark. The city is located on the river of the same name, Fulda. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Dom St. Salvator şehrin simgesidir. Şehir, aynı adı taşıyan Fulda nehri kıyısında yer alır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Barockstadt",
@@ -5529,7 +5681,8 @@ export const poiExtraDeCities: POI[] = [
         "River Fulda",
         "City Palace"
       ]
-    },
+    ,
+      "tr": ["Barockstadt", "Fuldaer Dom", "Fulda nehri", "Stadtschloss"]},
     "plizioChallenge": {
       "de": "Fluss Fulda hat 5 Buchstaben, die Stadt Fulda auch. Zusammen?",
       "hu": "A Fulda folyó 5 betű, a Fulda város is. Összesen?",
@@ -5666,7 +5819,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Fulda Katedrali", "text": "Hessen'in en önemli barok kilisesidir ve Aziz Bonifatius'un mezarına ev sahipliği yapar.", "category": "church" },
+        { "name": "Fulda Şehir Sarayı", "text": "Görkemli barok salonları ve geniş parkıyla eski prens-başrahiplerin ikametgahıdır.", "category": "castle" },
+        { "name": "Aziz Michael Kilisesi", "text": "Almanya'nın en eski mezar kiliselerinden biridir ve 9. yüzyılda Ön-Romanesk tarzda yapılmıştır.", "category": "church" },
+        { "name": "Eski Belediye Binası", "text": "Universitätsplatz'da bulunan ve şehrin tarihi önemini yansıtan dikkat çekici bir yarı ahşap yapıdır.", "category": "square" },
+        { "name": "Saray Parkı", "text": "Barok şehrin merkezinde, Orangerie ve Flora Vazosu arasında yürüyüş için ideal bir yeşil vahadır.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "offenbach-extra",
@@ -5687,13 +5848,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Offenbach korábban bőrvárosként volt világhírű.",
       "ro": "Offenbach era renumit în întreaga lume ca oraș al pielii.",
       "en": "Offenbach was formerly world-famous as a leather city."
-    },
+    ,
+      "tr": "Offenbach eskiden Lederstadt olarak dünyaca ünlüydü."},
     "descriptionAdvanced": {
       "de": "Sie liegt direkt am Main, gegenüber von Frankfurt. Das Deutsche Ledermuseum zeugt von dieser Geschichte. Geographie K7 — Flüsse und Städte",
       "hu": "Közvetlenül a Majna partján fekszik, Frankfurttal szemben. A Német Bőrmúzeum tanúskodik erről a történelemről. Földrajz K7 — Folyók és városok",
       "ro": "Este chiar pe râul Main, vizavi de Frankfurt. Muzeul German al Pielii stă mărturie acestei istorii. Geografie K7 — Râuri și orașe",
       "en": "It is right on the Main river, opposite Frankfurt. The German Leather Museum bears witness to this history. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Main kıyısında, Frankfurt'un hemen karşısında yer alır. Deutsches Ledermuseum bu tarihe tanıklık eder. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Lederstadt",
@@ -5719,7 +5882,8 @@ export const poiExtraDeCities: POI[] = [
         "German Leather Museum",
         "Weather station"
       ]
-    },
+    ,
+      "tr": ["Lederstadt", "Main kıyısında", "Deutsches Ledermuseum", "Wetterwarte"]},
     "plizioChallenge": {
       "de": "Wenn eine Tasche aus 3 Lederstücken besteht, aus wie vielen 4 Taschen?",
       "hu": "Ha egy táska 3 bőrdarabból áll, hányból áll 4 táska?",
@@ -5856,7 +6020,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Isenburg Şatosu", "text": "Main kıyısında bulunan ve bugün Tasarım Akademisi'nin bir parçası olan önemli bir Rönesans şatosudur.", "category": "castle" },
+        { "name": "Alman Deri Müzesi", "text": "Deri işleme sanatı ve tarihi üzerine dünyada eşi benzeri olmayan benzersiz bir koleksiyon sunar.", "category": "museum" },
+        { "name": "Büsing Sarayı", "text": "Bugün konferans merkezi ve otel olarak kullanılan, parkı olan muazzam bir neo-barok şehir sarayıdır.", "category": "castle" },
+        { "name": "Klingspor Müzesi", "text": "Modern kitap sanatı, tipografi ve grafik tasarım alanında uluslararası üne sahip bir müzedir.", "category": "museum" },
+        { "name": "Rumpenheim Şatosu", "text": "Main kıyısında, eskiden Avrupa soylularının buluşma noktası olan tarihi bir şato kompleksidir.", "category": "castle" }
+      ]
+    }
   },
   {
     "id": "hanau-extra",
@@ -5877,13 +6049,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hanau a Grimm testvérek szülővárosa.",
       "ro": "Hanau este locul de naștere al Fraților Grimm.",
       "en": "Hanau is the birthplace of the Brothers Grimm."
-    },
+    ,
+      "tr": "Hanau, Brüder Grimm'in doğduğu şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Märchensammler wurden hier geboren. Die Stadt liegt an der Mündung der Kinzig in den Main. Geographie K7 — Flüsse und Städte",
       "hu": "A mesegyűjtők itt születtek. A város a Kinzig és a Majna torkolatánál fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Colecționarii de basme s-au născut aici. Orașul este situat la confluența râurilor Kinzig și Main. Geografie K7 — Râuri și orașe",
       "en": "The fairy tale collectors were born here. The city is located at the confluence of the Kinzig and the Main. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Masal derleyicileri burada doğmuştur. Şehir, Kinzig'in Main nehrine döküldüğü noktada yer alır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Brüder Grimm",
@@ -5909,7 +6083,8 @@ export const poiExtraDeCities: POI[] = [
         "Fairy Tale Route",
         "Goldsmiths"
       ]
-    },
+    ,
+      "tr": ["Brüder Grimm", "Main ve Kinzig", "Märchenstraße", "Goldschmiede"]},
     "plizioChallenge": {
       "de": "Schneewittchen hat 7 Zwerge. Wie viele Zwerge haben 3 Schneewittchen?",
       "hu": "Hófehérkének 7 törpéje van. Hány törpéje van 3 Hófehérkének?",
@@ -6046,7 +6221,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Philippsruhe Şatosu", "text": "Main kıyısında barok bir şato ve parktır, bugün Hanau Tarih Müzesi'ne ev sahipliği yapmaktadır.", "category": "castle" },
+        { "name": "Grimm Kardeşler Ulusal Anıtı", "text": "Hanau doğumlu masal derleyicileri Jacob ve Wilhelm Grimm onuruna dikilmiş bir anıttır.", "category": "landmark" },
+        { "name": "Alman Kuyumcular Evi", "text": "Eski belediye binası olan yapı, bugün mücevher sanatı ve tasarımı için uluslararası bir merkezdir.", "category": "museum" },
+        { "name": "Wilhelmsbad Devlet Parkı", "text": "Dünyanın en eski atlıkarıncasına ve yapay bir kale kalıntısına sahip tarihi bir kaplıca tesisidir.", "category": "park" },
+        { "name": "Steinheim Şatosu", "text": "Steinheim semtinde Orta Çağ'dan kalma bir kaledir, bugün tarih öncesi ve erken dönem müzesidir.", "category": "castle" }
+      ]
+    }
   },
   {
     "id": "wetzlar-extra",
@@ -6067,13 +6250,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Wetzlar az optikai ipar fontos városa.",
       "ro": "Wetzlar este un oraș important pentru industria optică.",
       "en": "Wetzlar is an important city for the optical industry."
-    },
+    ,
+      "tr": "Wetzlar optik endüstrisinin önemli bir şehridir."},
     "descriptionAdvanced": {
       "de": "Hier wurde die Leica-Kamera erfunden. Wetzlar liegt malerisch an der Lahn. Geographie K7 — Flüsse und Städte",
       "hu": "Itt találták fel a Leica fényképezőgépet. Wetzlar festői környezetben fekszik a Lahn folyó mentén. Földrajz K7 — Folyók és városok",
       "ro": "Aici a fost inventată camera Leica. Wetzlar este situat pitoresc pe râul Lahn. Geografie K7 — Râuri și orașe",
       "en": "The Leica camera was invented here. Wetzlar is picturesquely situated on the river Lahn. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Leica-Kamera burada icat edilmiştir. Wetzlar, Lahn kıyısında pitoresk bir konuma sahiptir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Optikstadt",
@@ -6099,7 +6284,8 @@ export const poiExtraDeCities: POI[] = [
         "On the Lahn",
         "Goethe city"
       ]
-    },
+    ,
+      "tr": ["Optikstadt", "Leica-Kamera", "Lahn kıyısında", "Goethe-Stadt"]},
     "plizioChallenge": {
       "de": "Wenn ein Fernglas 2 Linsen hat, wie viele Linsen haben 6 Ferngläser?",
       "hu": "Ha egy távcsőnek 2 lencséje van, hány lencséje van 6 távcsőnek?",
@@ -6260,7 +6446,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Wetzlar Katedrali", "text": "Romanesk, Gotik ve Barok öğeleri tamamlanmamış bir yapıda birleştiren eşsiz bir katedraldir.", "category": "church" },
+        { "name": "Lotte Evi", "text": "Goethe'nin ünlü eserindeki Lotte karakterine ilham veren Charlotte Buff'ın yaşadığı eski evdir.", "category": "museum" },
+        { "name": "Jerusalem Evi", "text": "Trajik kaderi Goethe'ye ünlü romanı için ilham veren Karl Wilhelm Jerusalem için yapılmış bir anıt yeridir.", "category": "museum" },
+        { "name": "İmparatorluk Kamara Mahkemesi Müzesi", "text": "Kutsal Roma İmparatorluğu'nun bir zamanlar burada bulunan en yüksek mahkemesinin tarihini belgeler.", "category": "museum" },
+        { "name": "Eski Lahn Köprüsü", "text": "Hessen'in en eski köprülerinden biridir, Lahn üzerinden geçer ve katedralin harika bir manzarasını sunar.", "category": "landmark" },
+        { "name": "Wetzlar Eski Şehri", "text": "Dar sokakları ve farklı dönemlerden restore edilmiş yarı ahşap evleriyle karakterize edilir.", "category": "historical" }
+      ]
+    }
   },
   {
     "id": "limburg-extra",
@@ -6281,13 +6476,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Limburg jellegzetes dómjáról ismert.",
       "ro": "Limburg este cunoscut pentru domul său izbitor.",
       "en": "Limburg is known for its striking cathedral."
-    },
+    ,
+      "tr": "Limburg, göze çarpan katedrali ile tanınır."},
     "descriptionAdvanced": {
       "de": "Der bunt bemalte Limburger Dom thront über der Lahn. Die Altstadt hat viele schöne Fachwerkhäuser. Geographie K7 — Flüsse und Städte",
       "hu": "A színesre festett limburgi dóm a Lahn felett magasodik. Az óvárosban sok szép favázas ház található. Földrajz K7 — Folyók és városok",
       "ro": "Domul din Limburg, pictat colorat, tronează deasupra Lahnului. Orașul vechi are multe case frumoase din lemn. Geografie K7 — Râuri și orașe",
       "en": "The colorfully painted Limburg Cathedral towers over the Lahn. The old town has many beautiful half-timbered houses. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Renkli boyanmış Limburger Dom, Lahn üzerinde yükselir. Eski şehir merkezinde birçok güzel Fachwerkhäuser bulunur. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Limburger Dom",
@@ -6313,7 +6510,8 @@ export const poiExtraDeCities: POI[] = [
         "Half-timbered old town",
         "Bishop's seat"
       ]
-    },
+    ,
+      "tr": ["Limburger Dom", "Lahn kıyısında", "Fachwerk-Altstadt", "Bischofssitz"]},
     "plizioChallenge": {
       "de": "Der Dom hat 7 Türme. 2 Türme sind vorne. Wie viele hinten?",
       "hu": "A dómnak 7 tornya van. 2 torony elöl. Hány hátul?",
@@ -6474,7 +6672,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Limburg Katedrali", "text": "Lahn üzerindeki bir kayalıkta yükselen geç Romanesk katedral, yedi kulesiyle dünyada tanınmaktadır.", "category": "church" },
+        { "name": "Eski Lahn Köprüsü", "text": "14. yüzyıldan beri nehirden geçen önemli ticaret yolunu koruyan, kulesi olan tarihi taş köprüdür.", "category": "landmark" },
+        { "name": "Yedi Günah Evi", "text": "Eski Şehir'de, oymalarıyla insanın yedi ana günahını canlı bir şekilde tasvir eden ünlü yapı.", "category": "historical" },
+        { "name": "Limburg Şatosu", "text": "13. yüzyıldan kalma kale, bir zamanlar ikametgah olarak kullanılmış ve bugün katedralle şehri süslemektedir.", "category": "castle" },
+        { "name": "Limburg Eski Şehri", "text": "Almanya'nın en iyi korunmuş yarı ahşap ev stoklarından birine sahip Orta Çağ sokakları labirentidir.", "category": "historical" },
+        { "name": "Piskoposluk Müzesi", "text": "Aralarında Konstantinopolis'ten gelen ünlü 10. yüzyıl Staurothek rölyefinin de bulunduğu hazinelere sahiptir.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "bad-homburg-extra",
@@ -6495,13 +6702,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bad Homburg ismert gyógyfürdőhely.",
       "ro": "Bad Homburg este o stațiune balneară bine cunoscută.",
       "en": "Bad Homburg is a well-known spa town."
-    },
+    ,
+      "tr": "Bad Homburg tanınmış bir Kurort'tur."},
     "descriptionAdvanced": {
       "de": "Die Stadt am Taunus war früher Sommerresidenz der deutschen Kaiser. Der Kurpark ist riesig. Geographie K7 — Flüsse und Städte",
       "hu": "A Taunus hegység lábánál fekvő város korábban a német császárok nyári rezidenciája volt. A gyógypark hatalmas. Földrajz K7 — Folyók és városok",
       "ro": "Orașul din munții Taunus era reședința de vară a împăraților germani. Parcul balnear este imens. Geografie K7 — Râuri și orașe",
       "en": "The city in the Taunus mountains was the summer residence of the German emperors. The spa park is huge. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Taunus'taki şehir eskiden Alman imparatorlarının yazlık ikametgahıydı. Kurpark oldukça büyüktür. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Kurort",
@@ -6527,7 +6736,8 @@ export const poiExtraDeCities: POI[] = [
         "Imperial residence",
         "Casino"
       ]
-    },
+    ,
+      "tr": ["Kurort", "Taunus", "Kaiserresidenz", "Spielbank"]},
     "plizioChallenge": {
       "de": "Wenn 3 Quellen je 5 Liter Wasser pro Minute geben, wie viel zusammen?",
       "hu": "Ha 3 forrás percenként 5 liter vizet ad, mennyi az összesen?",
@@ -6688,7 +6898,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Bad Homburg Şatosu", "text": "Hessen-Homburg kontlarının eski ikametgahı ve Prusya krallarının Beyaz Kuleli yazlık konutudur.", "category": "castle" },
+        { "name": "Bad Homburg Kaplıca Parkı", "text": "Tarihi kaynakları, kumarhanesi ve Tayland tapınaklarıyla Almanya'nın en güzel parklarından biridir.", "category": "landmark" },
+        { "name": "Saalburg", "text": "Limes üzerindeki tamamen yeniden inşa edilmiş tek Roma kalesidir ve bugün büyüleyici bir müzedir.", "category": "museum" },
+        { "name": "Erlöser Kilisesi", "text": "İmparatorluk anıt kilisesi, Bizans tarzındaki görkemli altın mozaik süslemeleriyle büyülemektedir.", "category": "church" },
+        { "name": "Rus Şapeli", "text": "19. yüzyılın sonunda Rus çarı için inşa edilmiş, park içinde yer alan zengin süslemeli bir kilisedir.", "category": "church" },
+        { "name": "Gotik Ev", "text": "Taunus ormanlarının kıyısında yer alan eski av köşkü, bugün şehir ve şapka tarihi müzesidir.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "friedberg-extra",
@@ -6709,13 +6928,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Friedbergben van az egyik legnagyobb várkomplexum német területen.",
       "ro": "Friedberg are unul dintre cele mai mari complexe de castele din Germania.",
       "en": "Friedberg has one of the largest castle complexes in Germany."
-    },
+    ,
+      "tr": "Friedberg, Almanya'daki en büyük kale komplekslerinden birine sahiptir."},
     "descriptionAdvanced": {
       "de": "Die Burg Friedberg und der Adolfsturm sind Wahrzeichen. Elvis Presley war hier als Soldat stationiert. Geographie K7 — Flüsse und Städte",
       "hu": "A friedbergi vár és az Adolf-torony jelképek. Elvis Presley itt szolgált katonaként. Földrajz K7 — Folyók és városok",
       "ro": "Castelul Friedberg și Turnul Adolf sunt repere. Elvis Presley a fost staționat aici ca soldat. Geografie K7 — Râuri și orașe",
       "en": "Friedberg Castle and the Adolf Tower are landmarks. Elvis Presley was stationed here as a soldier. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Burg Friedberg ve Adolfsturm şehrin simgeleridir. Elvis Presley askerlik yaparken burada görev yapmıştır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Burg Friedberg",
@@ -6741,7 +6962,8 @@ export const poiExtraDeCities: POI[] = [
         "Wetterau",
         "Elvis Presley"
       ]
-    },
+    ,
+      "tr": ["Burg Friedberg", "Adolfsturm", "Wetterau", "Elvis Presley"]},
     "plizioChallenge": {
       "de": "Elvis war 2 Jahre in Friedberg. Wie viele Monate sind das?",
       "hu": "Elvis 2 évig volt Friedbergben. Hány hónap ez?",
@@ -6902,7 +7124,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Friedberg Kalesi", "text": "Almanya'nın hala yaşanılan en büyük kale komplekslerinden biridir ve Wetterau bölgesinin simgesidir.", "category": "castle" },
+        { "name": "Adolf Kulesi", "text": "14. yüzyıldan kalma heybetli kale kulesi, tüm bölge üzerinde geniş bir manzara sunmaktadır.", "category": "landmark" },
+        { "name": "Bizim Leydi Şehir Kilisesi", "text": "Değerli vitrayları ve etkileyici mimarisiyle dikkat çeken önemli bir Gotik salon kilisesidir.", "category": "church" },
+        { "name": "Yahudi Hamamı", "text": "13. yüzyıldan kalma, türünün en iyi korunmuş örneklerinden biri olan derin ritüel banyosudur.", "category": "historical" },
+        { "name": "Wetterau Müzesi", "text": "Roma döneminden arkeolojik buluntular sergiler ve şehrin ve kalesinin hareketli tarihini anlatır.", "category": "museum" },
+        { "name": "Elvis Presley Meydanı", "text": "1950'lerin sonunda askerlik görevini Friedberg'de yapan Rock 'n' Roll Kralı'nı anan bir meydandır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "ruesselsheim-extra",
@@ -6923,13 +7154,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Rüsselsheim az Opel autómárka otthona.",
       "ro": "Rüsselsheim este casa mărcii auto Opel.",
       "en": "Rüsselsheim is the home of the car brand Opel."
-    },
+    ,
+      "tr": "Rüsselsheim, Opel otomobil markasının ana vatanıdır."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt am Main. Die Industrialisierung prägte die Entwicklung der gesamten Region. Geographie K7 — Flüsse und Städte",
       "hu": "A város a Majna partján fekszik. Az iparosodás az egész régió fejlődését meghatározta. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este situat pe Main. Industrializarea a modelat dezvoltarea întregii regiuni. Geografie K7 — Râuri și orașe",
       "en": "The city is located on the Main. Industrialization shaped the development of the entire region. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir Main kıyısında yer almaktadır. Sanayileşme tüm bölgenin gelişimini şekillendirmiştir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Opel-Werk",
@@ -6955,7 +7188,8 @@ export const poiExtraDeCities: POI[] = [
         "Industrial culture",
         "Rüsselsheim Fortress"
       ]
-    },
+    ,
+      "tr": ["Opel-Werk", "Main kıyısında", "Sanayi kültürü", "Rüsselsheimer Festung"]},
     "plizioChallenge": {
       "de": "Wenn 4 Autos je 5 Sitze haben, wie viele Personen können mitfahren?",
       "hu": "Ha 4 autónak egyenként 5 ülése van, hány személy utazhat velük?",
@@ -7098,7 +7332,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Rüsselsheim Kalesi", "text": "Bugün ödüllü şehir ve sanayi müzesine ev sahipliği yapan geç Orta Çağ'dan kalma bir tahkimattır.", "category": "historical" },
+        { "name": "Verna Parkı", "text": "Şehir merkezinde, tarihi dekoratif yapıları olan İngiliz tarzında geç romantik bir bahçedir.", "category": "park" },
+        { "name": "Opel Villaları", "text": "Opel ailesinin eski konutları, bugün modern sanat için tanınmış bir merkez olarak hizmet vermektedir.", "category": "museum" },
+        { "name": "Şehir ve Sanayi Müzesi", "text": "Opel firmasına odaklanarak, kaleden modern sanayi şehrine kadar olan gelişimi belgeliyor.", "category": "museum" },
+        { "name": "Adam Opel Anıtı", "text": "Opel fabrikalarının kurucusunun onuruna dikilen anıt, şehrin merkezi bir yön bulma noktasıdır.", "category": "landmark" },
+        { "name": "Main Kıyısı", "text": "Yürüyüş, bisiklet ve etkinlikler için kullanılan Main nehri kıyısındaki geniş yeşil alanlardır.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "bensheim-extra",
@@ -7119,13 +7362,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bensheim a napos Bergstraße (Hegyút) mentén fekszik.",
       "ro": "Bensheim este situat pe însorita Bergstraße (Drumul de munte).",
       "en": "Bensheim is located on the sunny Bergstraße (Mountain Road)."
-    },
+    ,
+      "tr": "Bensheim, güneşli Bergstraße üzerinde yer almaktadır."},
     "descriptionAdvanced": {
       "de": "Wegen des milden Klimas wachsen hier Mandeln und Feigen. Es ist die größte Stadt des Kreises Bergstraße. Geographie K7 — Flüsse und Städte",
       "hu": "Az enyhe éghajlat miatt mandula és füge terem itt. Ez a Bergstraße járás legnagyobb városa. Földrajz K7 — Folyók és városok",
       "ro": "Datorită climei blânde, migdalele și smochinele cresc aici. Este cel mai mare oraș din districtul Bergstraße. Geografie K7 — Râuri și orașe",
       "en": "Due to the mild climate, almonds and figs grow here. It is the largest city in the Bergstraße district. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Ilıman iklimi nedeniyle burada badem ve incir yetişir. Bergstraße ilçesinin en büyük şehridir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Bergstraße",
@@ -7151,7 +7396,8 @@ export const poiExtraDeCities: POI[] = [
         "Viticulture",
         "Auerbach Castle"
       ]
-    },
+    ,
+      "tr": ["Bergstraße", "Ilıman iklim", "Bağcılık", "Auerbacher Schloss"]},
     "plizioChallenge": {
       "de": "Wenn 10 Mandelbäume je 5 Kilo Mandeln geben, wie viele Kilo?",
       "hu": "Ha 10 mandulafa egyenként 5 kiló mandulát ad, hány kiló az összesen?",
@@ -7294,7 +7540,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Fürstenlager Devlet Parkı", "text": "Klasik tarzdaki binalarıyla geniş bir İngiliz peyzaj parkı, eski Hessen yazlık ikametgahıdır.", "category": "park" },
+        { "name": "Auerbach Şatosu", "text": "Bergstraße'nin en güçlü kalelerinden biridir, etkileyici kulelere ve panoramik manzaraya sahiptir.", "category": "historical" },
+        { "name": "Bensheim Pazar Meydanı", "text": "Görkemli yarı ahşap evleri ve St. Georg kilisesi ile şehrin tarihi merkezidir.", "category": "landmark" },
+        { "name": "Kirchberg Evi", "text": "Üzüm bağlarının ortasında popüler bir yürüyüş durağı olan ünlü bir küçük saraydır.", "category": "landmark" },
+        { "name": "Dalberg Sarayı", "text": "16. yüzyıldan kalma temsilci bir soylu konutu, bugün kültürel amaçlar için kullanılmaktadır.", "category": "historical" },
+        { "name": "Aziz Georg Kilisesi", "text": "Bensheim Eski Şehir manzarasını belirleyen dikkat çekici neo-klasik tarzda bir kilisedir.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "eschwege-extra",
@@ -7315,13 +7570,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Eschwege bájos favázas város a Werra völgyében.",
       "ro": "Eschwege este un oraș fermecător cu case de lemn în Valea Werra.",
       "en": "Eschwege is a charming half-timbered town in the Werra valley."
-    },
+    ,
+      "tr": "Eschwege, Werratal'da yer alan büyüleyici bir Fachwerk şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt direkt am Fluss Werra. Ein großer See, der Werratalsee, lädt zum Baden ein. Geographie K7 — Flüsse und Städte",
       "hu": "A város közvetlenül a Werra folyó partján fekszik. Egy nagy tó, a Werratalsee csábít fürdésre. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este chiar pe râul Werra. Un lac mare, Werratalsee, te invită la înot. Geografie K7 — Râuri și orașe",
       "en": "The city is right on the Werra river. A large lake, the Werratalsee, invites you to swim. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir doğrudan Werra nehri üzerinde yer almaktadır. Büyük bir göl olan Werratalsee yüzmek için idealdir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Fachwerk",
@@ -7347,7 +7604,8 @@ export const poiExtraDeCities: POI[] = [
         "Werratalsee",
         "Dietemann"
       ]
-    },
+    ,
+      "tr": ["Fachwerk", "Werra kıyısında", "Werratalsee", "Dietemann"]},
     "plizioChallenge": {
       "de": "Ein See ist 2 km lang und 1 km breit. 2 + 1 = ?",
       "hu": "Egy tó 2 km hosszú és 1 km széles. 2 + 1 = ?",
@@ -7496,7 +7754,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Werratal Gölü", "text": "Su sporları ve kampçılık için önemli bir dinlenme alanı olarak hizmet veren yapay bir göldür.", "category": "lake" },
+        { "name": "Eschwege Şatosu", "text": "Bugün idari merkez olarak kullanılan Rönesans şatosudur ve Dietemann Kulesi'ni de içerir.", "category": "historical" },
+        { "name": "Dietemann Kulesi", "text": "Şatonun kulesidir ve her saat başı şehrin simge figürü Dietemann dışarı çıkar.", "category": "tower" },
+        { "name": "Kurşun Figür Kabinesi", "text": "Tarihi sahneleri detaylı bir şekilde sergileyen devasa bir kurşun figür koleksiyonuna sahiptir.", "category": "museum" },
+        { "name": "Pazar Meydanı ve Belediye Binası", "text": "Görkemli binaları olan merkezi meydan ve çan oyunlu heybetli belediye binasıdır.", "category": "landmark" },
+        { "name": "Aziz Nikola Kilisesi", "text": "Dikkat çekici kulesiyle bu Gotik şehir kilisesi, Eski Şehir'in ruhani merkezidir.", "category": "church" },
+        { "name": "Wolfsbrunnen Şatosu", "text": "Yakınlarda bulunan, bugün otel ve etkinlik mekanı olarak kullanılan neo-gotik bir şatodur.", "category": "historical" }
+      ]
+    }
   },
   {
     "id": "neu-isenburg-extra",
@@ -7517,13 +7785,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Neu-Isenburgot francia hugenották alapították.",
       "ro": "Neu-Isenburg a fost fondat de hughenoții francezi.",
       "en": "Neu-Isenburg was founded by French Huguenots."
-    },
+    ,
+      "tr": "Neu-Isenburg, Fransız Hugenottenlar tarafından kurulmuştur."},
     "descriptionAdvanced": {
       "de": "Die Stadt liegt direkt neben Frankfurt am Main. Sie hat einen starken Bezug zum Frankfurter Flughafen. Geographie K7 — Flüsse und Städte",
       "hu": "A város közvetlenül Frankfurt am Main mellett fekszik. Szoros kapcsolatban áll a frankfurti repülőtérrel. Földrajz K7 — Folyók és városok",
       "ro": "Orașul se află chiar lângă Frankfurt pe Main. Are o legătură strânsă cu aeroportul din Frankfurt. Geografie K7 — Râuri și orașe",
       "en": "The city is located right next to Frankfurt am Main. It has a strong connection to Frankfurt Airport. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir Frankfurt am Main'ın hemen yanındadır. Frankfurt Havalimanı ile güçlü bir bağlantısı vardır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Hugenottenstadt",
@@ -7549,7 +7819,8 @@ export const poiExtraDeCities: POI[] = [
         "Near airport",
         "Bembel (jug)"
       ]
-    },
+    ,
+      "tr": ["Hugenotten şehri", "Frankfurt yakınında", "Havalimanı yakınlığı", "Bembel"]},
     "plizioChallenge": {
       "de": "Wenn ein Flugzeug 4 Triebwerke hat, wie viele haben 2 Flugzeuge?",
       "hu": "Ha egy repülőgépnek 4 hajtóműve van, hány van 2 repülőgépnek?",
@@ -7692,7 +7963,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Huguenot Müzesi", "text": "Şehri 1699'da bir sığınak olarak kuran Huguenotların tarihini belgeleyen müzedir.", "category": "museum" },
+        { "name": "Eski Yerleşim", "text": "Huguenot şehir planlamasına özgü olan, satranç tahtası desenli tarihi şehir merkezidir.", "category": "landmark" },
+        { "name": "Frankfurt Evi", "text": "Frankfurt Şehir Ormanı sınırında yer alan 18. yüzyıldan kalma tarihi bir konaklama yeridir.", "category": "historical" },
+        { "name": "Bansamühle", "text": "Eskiden yeşillikler içinde bir değirmen olan yapı, bugün popüler bir gezi noktasıdır.", "category": "park" },
+        { "name": "Pazar Meydanı", "text": "Eski Yerleşim'in merkezindeki meydan, pazarların ve şehrin sosyal hayatının sahnesidir.", "category": "landmark" },
+        { "name": "Huguenot Salonu", "text": "Şehrin kültürel merkezi, tiyatro, konser ve büyük etkinliklerin düzenlendiği yerdir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "oldenburg-extra",
@@ -7713,13 +7993,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Oldenburg egykor az Oldenburgi Nagyhercegség fővárosa volt.",
       "ro": "Oldenburg a fost odată capitala Marelui Ducat de Oldenburg.",
       "en": "Oldenburg was once the capital of the Grand Duchy of Oldenburg."
-    },
+    ,
+      "tr": "Oldenburg, bir zamanlar Großherzogtum Oldenburg'un başkentiydi."},
     "descriptionAdvanced": {
       "de": "Heute ist es eine lebendige Universitätsstadt. Die historische Architektur und die vielen Grünanlagen machen sie sehr attraktiv. Geographie K7 — Flüsse und Städte",
       "hu": "Ma nyüzsgő egyetemi város. A történelmi építészet és a sok zöld terület nagyon vonzóvá teszi. Földrajz K7 — Folyók és városok",
       "ro": "Astăzi este un oraș universitar vibrant. Arhitectura istorică și numeroasele spații verzi îl fac foarte atractiv. Geografie K7 — Râuri și orașe",
       "en": "Today it is a vibrant university city. The historic architecture and many green spaces make it very attractive. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Günümüzde canlı bir üniversite şehridir. Tarihi mimarisi ve birçok yeşil alanı şehri çok cazip kılmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Ehemalige Residenzstadt",
@@ -7745,7 +8027,8 @@ export const poiExtraDeCities: POI[] = [
         "Oldenburg Castle",
         "Kohlfahrt tradition"
       ]
-    },
+    ,
+      "tr": ["Eski ikametgah şehri", "Üniversite şehri", "Schloss Oldenburg", "Kohlfahrten geleneği"]},
     "plizioChallenge": {
       "de": "Wenn 15.000 Studenten in Oldenburg leben und die Stadt 170.000 Einwohner hat, wie viele sind keine Studenten?",
       "hu": "Ha 15 000 diák él a 170 000 lakosú városban, hányan nem diákok?",
@@ -7906,7 +8189,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Oldenburg Şatosu", "text": "Oldenburg kontlarının eski ikametgahı bugün Eyalet Sanat ve Kültür Tarihi Müzesi'dir.", "category": "palace" },
+        { "name": "Lappan", "text": "1467 yılından kalma eski çan kulesi, şehrin simgesi ve eski bir hastanenin parçasıdır.", "category": "tower" },
+        { "name": "Aziz Lamberti Kilisesi", "text": "Neo-gotik dış mimarisi ve içindeki klasik yuvarlak yapısıyla dikkat çeken ana kilisedir.", "category": "church" },
+        { "name": "Oldenburg Saray Bahçesi", "text": "Muazzam orman gülleri ve yaşlı ağaçlarıyla tanınan İngiliz tarzı tarihi bir bahçedir.", "category": "park" },
+        { "name": "Horst Janssen Müzesi", "text": "Ünlü ressam Horst Janssen'in eserlerine adanmış modern müze, değişen sergiler sunar.", "category": "museum" },
+        { "name": "Barut Kulesi", "text": "Eski şehir tahkimatından ayakta kalan son kule, eskiden barut deposu olarak kullanılıyordu.", "category": "tower" }
+      ]
+    }
   },
   {
     "id": "salzgitter-extra",
@@ -7927,13 +8219,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Salzgitter a német acélipar jelentős központja.",
       "ro": "Salzgitter este un centru major al industriei siderurgice germane.",
       "en": "Salzgitter is a major center of the German steel industry."
-    },
+    ,
+      "tr": "Salzgitter, Alman çelik endüstrisinin önemli bir merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt besteht aus vielen einzelnen Stadtteilen, die früher eigenständige Dörfer waren. Eisenerzabbau prägte lange die Region. Geographie K7 — Flüsse und Städte",
       "hu": "A város sok különálló városrészből áll, amelyek korábban önálló falvak voltak. A vasércbányászat sokáig meghatározta a régiót. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este format din multe districte individuale, care anterior erau sate independente. Mineritul de fier a dominat mult timp regiunea. Geografie K7 — Râuri și orașe",
       "en": "The city consists of many individual districts that were previously independent villages. Iron ore mining dominated the region for a long time. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, eskiden bağımsız köyler olan birçok ayrı mahalleden oluşur. Demir cevheri madenciliği bölgeyi uzun süre şekillendirmiştir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stahlstandort",
@@ -7959,7 +8253,8 @@ export const poiExtraDeCities: POI[] = [
         "Salzgitter Lake",
         "Ore mining history"
       ]
-    },
+    ,
+      "tr": ["Çelik merkezi", "Schloss Salder", "Salzgittersee", "Demir madenciliği tarihi"]},
     "plizioChallenge": {
       "de": "Wenn in Salzgitter 30.000 Tonnen Stahl in 3 Tagen produziert werden, wie viele Tonnen sind es pro Tag?",
       "hu": "Ha Salzgitterben 30 000 tonna acélt gyártanak 3 nap alatt, mennyi tonna jut egy napra?",
@@ -8120,7 +8415,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Salder Şatosu", "text": "Görkemli barok şato, bugün jeoloji ve sanayi tarihine dair eserlerin sergilendiği müzedir.", "category": "palace" },
+        { "name": "Gebhardshagen Kalesi", "text": "12. yüzyıldan kalma tarihi su kalesi, bugün kültürel etkinlikler ve festivaller için kullanılır.", "category": "palace" },
+        { "name": "Salzgitter Gölü", "text": "Kumlu plajları, su sporları olanakları ve bisiklet yollarıyla büyük bir dinlenme alanıdır.", "category": "lake" },
+        { "name": "Bismarck Kulesi", "text": "Hamberg üzerinde bulunan ve şehirden Harz'a kadar uzanan geniş bir manzara sunan kuledir.", "category": "tower" },
+        { "name": "Steterburg Manastır Kilisesi", "text": "Barok tarzdaki kilise, eski bir kadın manastırının parçasıdır ve görkemli bir donanıma sahiptir.", "category": "church" },
+        { "name": "Klesmer Meydanı", "text": "Salzgitter-Bad'daki meydan, gezgin müzisyenlerin eski geleneğini hatırlatmaktadır.", "category": "town hall" }
+      ]
+    }
   },
   {
     "id": "lueneburg-extra",
@@ -8141,13 +8445,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Lüneburg a középkorban a sóbányászat révén nagyon gazdag lett.",
       "ro": "Lüneburg a devenit foarte bogat prin exploatarea sării în Evul Mediu.",
       "en": "Lüneburg became very rich through salt mining in the Middle Ages."
-    },
+    ,
+      "tr": "Lüneburg, Orta Çağ'da tuz madenciliği sayesinde çok zenginleşmiştir."},
     "descriptionAdvanced": {
       "de": "Die gut erhaltene Altstadt zeugt von der Zeit der Hanse. Unter der Stadt liegt ein riesiger Salzstock. Geographie K7 — Flüsse und Städte",
       "hu": "A jól megőrzött óváros a Hanza-korszakról tanúskodik. A város alatt egy hatalmas sókupola található. Földrajz K7 — Folyók és városok",
       "ro": "Orașul vechi bine conservat stă mărturie pentru perioada Hanseatică. Sub oraș se află un uriaș dom de sare. Geografie K7 — Râuri și orașe",
       "en": "The well-preserved old town testifies to the Hanseatic period. Beneath the city lies a huge salt dome. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "İyi korunmuş eski kenti Hanse döneminin tanığıdır. Şehrin altında devasa bir tuz yatağı bulunmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Salzstadt",
@@ -8173,7 +8479,8 @@ export const poiExtraDeCities: POI[] = [
         "Lüneburg Heath",
         "Crooked House"
       ]
-    },
+    ,
+      "tr": ["Tuz şehri", "Hanse mimarisi", "Lüneburger Heide", "Schiefes Haus"]},
     "plizioChallenge": {
       "de": "Wenn 1 Liter Wasser 30 Gramm Salz enthält, wie viel Salz ist in 50 Litern?",
       "hu": "Ha 1 liter víz 30 gramm sót tartalmaz, mennyi só van 50 literben?",
@@ -8334,7 +8641,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Lüneburg Belediye Binası", "text": "Kuzey Almanya'nın görkemli cephesiyle en güzel Orta Çağ belediye binalarından biridir.", "category": "town hall" },
+        { "name": "Alman Tuz Müzesi", "text": "Eski tuzla arazisindeki müze, Lüneburg'u zenginleştiren tuzun tarihini belgelemektedir.", "category": "museum" },
+        { "name": "Aziz Johannis Kilisesi", "text": "Şehrin en eski kilisesi, eğik kulesi ve barok dönemden kalan önemli orguyla ünlüdür.", "category": "church" },
+        { "name": "Eski Vinç", "text": "Eski limandaki tarihi ahşap vinç, bir zamanlar şehrin tuz ticareti için çok önemliydi.", "category": "landmark" },
+        { "name": "Lüneburg Su Kulesi", "text": "Bugün seyir terası olarak hizmet veren ve eski şehir üzerinde manzara sunan tuğla kuledir.", "category": "tower" },
+        { "name": "Lüne Manastırı", "text": "Orta Çağ duvar resimleri ve tekstil müzesi olan eski bir rahibe manastırıdır.", "category": "monastery" }
+      ]
+    }
   },
   {
     "id": "emden-extra",
@@ -8355,13 +8671,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Emden Kelet-Frízföld legnagyobb városa és fontos kikötőváros.",
       "ro": "Emden este cel mai mare oraș din Frizia de Est și un port important.",
       "en": "Emden is the largest city in East Frisia and an important port city."
-    },
+    ,
+      "tr": "Emden, Ostfriesland'ın en büyük şehri ve önemli bir liman kentidir."},
     "descriptionAdvanced": {
       "de": "Der Hafen dient vor allem dem Umschlag von Autos. Die Kunsthalle Emden ist überregional bekannt. Geographie K7 — Flüsse und Städte",
       "hu": "A kikötő elsősorban az autók átrakodását szolgálja. Az Emdeni Műcsarnok országosan ismert. Földrajz K7 — Folyók és városok",
       "ro": "Portul servește în principal pentru manipularea mașinilor. Galeria de Artă din Emden este cunoscută la nivel național. Geografie K7 — Râuri și orașe",
       "en": "The port mainly serves the handling of cars. The Emden Art Gallery is known nationally. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Liman, özellikle otomobil sevkiyatı için hizmet vermektedir. Kunsthalle Emden bölge sınırları ötesinde tanınmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Ostfriesland",
@@ -8387,7 +8705,8 @@ export const poiExtraDeCities: POI[] = [
         "Art Gallery",
         "Car transshipment"
       ]
-    },
+    ,
+      "tr": ["Ostfriesland", "Liman şehri", "Kunsthalle", "Otomobil sevkiyatı"]},
     "plizioChallenge": {
       "de": "Ein Frachtschiff lädt 2.500 Autos. Wie viele Autos laden 4 solche Schiffe?",
       "hu": "Egy teherhajó 2500 autót rakodik be. Hány autót rakodik be 4 ilyen hajó?",
@@ -8548,7 +8867,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Emden Sanat Galerisi", "text": "Yayıncı Henri Nannen'in vakfına dayanan, uluslararası üne sahip bir sanat müzesidir.", "category": "museum" },
+        { "name": "Otto Evi", "text": "Komedyen Otto Waalkes'e adanmış müze, belediye binasının yanında, tam merkezde yer alır.", "category": "museum" },
+        { "name": "Doğu Frizye Eyalet Müzesi", "text": "Yeniden inşa edilen belediye binasında Doğu Frizye'nin sanat ve kültür tarihini sunar.", "category": "museum" },
+        { "name": "Johannes a Lasco Kütüphanesi", "text": "Büyük Kilise'nin kalıntıları içinde kurulmuş önemli bir teolojik ihtisas kütüphanesidir.", "category": "monastery" },
+        { "name": "Kessel Kilidi", "text": "Dört su yolunu birbirine bağlayan benzersiz dairesel odalı kilit, teknik bir anıttır.", "category": "industrial" },
+        { "name": "Amrumbank Fener Gemisi", "text": "Emden limanında bulunan ve denizcilik dünyasına dair bilgiler sunan müze gemidir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "stade-extra",
@@ -8569,13 +8897,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Stade történelmi Hanza-város az Elba közelében.",
       "ro": "Stade este un oraș istoric hanseatic aproape de Elba.",
       "en": "Stade is a historic Hanseatic city near the Elbe."
-    },
+    ,
+      "tr": "Stade, Elbe yakınlarında tarihi bir Hanse şehridir."},
     "descriptionAdvanced": {
       "de": "Sie besitzt einen alten Hafenmitten im Zentrum. Viele Gebäude spiegeln den Charme der schwedischen Herrschaftszeit wider. Geographie K7 — Flüsse und Städte",
       "hu": "Régi kikötője a központban található. Sok épület a svéd uralom idejének báját tükrözi. Földrajz K7 — Folyók és városok",
       "ro": "Are un port vechi chiar în centru. Multe clădiri reflectă farmecul din timpul dominației suedeze. Geografie K7 — Râuri și orașe",
       "en": "It has an old harbor right in the center. Many buildings reflect the charm from the time of Swedish rule. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tam merkezinde eski bir limana sahiptir. Birçok bina İsveç egemenliği döneminin cazibesini yansıtmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Hansestadt",
@@ -8601,7 +8931,8 @@ export const poiExtraDeCities: POI[] = [
         "Swedish Warehouse",
         "Half-timbered"
       ]
-    },
+    ,
+      "tr": ["Hanse şehri", "Eski liman", "Schwedenspeicher", "Fachwerk"]},
     "plizioChallenge": {
       "de": "Schweden herrschte von 1645 bis 1712 über Stade. Wie viele Jahre war das?",
       "hu": "Svédország 1645-től 1712-ig uralkodott Stade felett. Hány év volt ez?",
@@ -8762,7 +9093,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Eski Hansa Limanı", "text": "Eski Şehir'in kalbinde, ahşap vinci ve güzel yarı ahşap evleriyle tarihi limandır.", "category": "port" },
+        { "name": "İsveç Deposu Müzesi", "text": "İsveç garnizonunun eski erzak deposu, bugün bölge müzesi olarak kullanılmaktadır.", "category": "museum" },
+        { "name": "Aziz Cosmae ve Damiani Kilisesi", "text": "Ünlü orgu ve dikkat çekici barok kule kubbesiyle şehrin önemli bir kilisesidir.", "category": "church" },
+        { "name": "Eski Belediye Binası", "text": "1659 yangınından sonra inşa edilen bina, barok tarzı tuğla cephesiyle büyülemektedir.", "category": "landmark" },
+        { "name": "Stade Sanat Evi", "text": "Limandaki eski bir tüccar evinde yer alan modern ve çağdaş sanat sergi merkezidir.", "category": "museum" },
+        { "name": "Ada Açık Hava Müzesi", "text": "Bölgenin kırsal mimari kültürünü sunan Almanya'nın en eski açık hava müzelerinden biridir.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "cuxhaven-extra",
@@ -8783,13 +9123,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Cuxhaven egy ismert északi-tengeri gyógyhely az Elba torkolatánál.",
       "ro": "Cuxhaven este o stațiune balneară cunoscută pe Marea Nordului la estuarul Elbei.",
       "en": "Cuxhaven is a well-known North Sea spa town at the Elbe estuary."
-    },
+    ,
+      "tr": "Cuxhaven, Elbe ağzında tanınmış bir Nordseeheilbad merkezidir."},
     "descriptionAdvanced": {
       "de": "Das Wahrzeichen ist die Kugelbake, ein historisches Seezeichen. Von hier starten Wattwanderungen zur Insel Neuwerk. Geographie K7 — Flüsse und Städte",
       "hu": "Jelképe a Kugelbake, egy történelmi tengeri jelzés. Innen indulnak a gyalogtúrák a Neuwerk-szigetre. Földrajz K7 — Folyók és városok",
       "ro": "Simbolul este Kugelbake, un semn maritim istoric. De aici încep plimbările pe banchize spre insula Neuwerk. Geografie K7 — Râuri și orașe",
       "en": "The landmark is the Kugelbake, a historic navigation mark. Mudflat hikes to the island of Neuwerk start from here. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Simgesi, tarihi bir deniz işareti olan Kugelbake'dir. Buradan Neuwerk adasına Watt yürüyüşleri başlar. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Kugelbake",
@@ -8815,7 +9157,8 @@ export const poiExtraDeCities: POI[] = [
         "North Sea spa",
         "Elbe estuary"
       ]
-    },
+    ,
+      "tr": ["Kugelbake", "Wattenmeer", "Nordseeheilbad", "Elbe ağzı"]},
     "plizioChallenge": {
       "de": "Die Wattwanderung ist 10 km lang. Bei 4 km/h, wie lange braucht man?",
       "hu": "A gyalogtúra a tengerfenéken 10 km hosszú. 4 km/h sebességgel mennyi időbe telik?",
@@ -8976,7 +9319,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Kugelbake", "text": "Ahşap deniz işareti Cuxhaven'ın simgesidir ve Elbe Nehri'nin döküldüğü yeri işaret eder.", "category": "landmark" },
+        { "name": "Eski Aşk", "text": "Eski bir iskele olan yapı, bugün geçen dev okyanus gemilerini izlemek için bir terastır.", "category": "landmark" },
+        { "name": "Ritzebüttel Şatosu", "text": "Eskiden Hamburg yöneticilerinin merkezi olan ve bugün kültürel amaçlı kullanılan şatodur.", "category": "landmark" },
+        { "name": "Windstärke 10 Müzesi", "text": "Denizdeki çalışma koşullarını ve denizcilik tarihini sergileyen batık ve balıkçılık müzesidir.", "category": "museum" },
+        { "name": "Wadden Denizi Milli Park Merkezi", "text": "UNESCO Dünya Mirası ve eşsiz gelgit yaşam alanı hakkında bilgi veren ziyaretçi merkezidir.", "category": "landmark" },
+        { "name": "Elbe 1 Fener Gemisi", "text": "Limandaki müze gemi, yüzen bir deniz fenerindeki yaşam ve çalışma hakkında bilgiler sunar.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "lingen-extra",
@@ -8997,13 +9349,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Lingen az Emsland járás legnagyobb városa.",
       "ro": "Lingen este cel mai mare oraș din districtul Emsland.",
       "en": "Lingen is the largest city in the Emsland district."
-    },
+    ,
+      "tr": "Lingen, Emsland bölgesinin en büyük şehridir."},
     "descriptionAdvanced": {
       "de": "Es ist ein wichtiger Energiestandort und hat einen schönen historischen Marktplatz. Die Fachwerkhäuser prägen das Stadtbild. Geographie K7 — Flüsse und Städte",
       "hu": "Fontos energetikai központ, gyönyörű történelmi piactérrel rendelkezik. A favázas házak meghatározzák a városképet. Földrajz K7 — Folyók és városok",
       "ro": "Este un important centru energetic și are o frumoasă piață istorică. Casele cu cadre de lemn domină peisajul urban. Geografie K7 — Râuri și orașe",
       "en": "It is an important energy center and has a beautiful historic market square. The half-timbered houses dominate the cityscape. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Önemli bir enerji merkezi olup güzel ve tarihi bir pazar meydanına sahiptir. Fachwerk evler şehir manzarasını belirler. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Emsland",
@@ -9029,7 +9383,8 @@ export const poiExtraDeCities: POI[] = [
         "Historic town hall",
         "Kivelinge"
       ]
-    },
+    ,
+      "tr": ["Emsland", "Enerji merkezi", "Tarihi belediye binası", "Kivelinge"]},
     "plizioChallenge": {
       "de": "Wenn 6 Windräder jeweils 2 Megawatt produzieren, wie viel Megawatt sind das zusammen?",
       "hu": "Ha 6 szélturbina egyenként 2 megawattot termel, hány megawatt ez összesen?",
@@ -9190,7 +9545,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Tarihi Belediye Binası", "text": "Pazar meydanında bulunan, çan oyunu ve cephesiyle tanınan 1555 yapımı görkemli bina.", "category": "landmark" },
+        { "name": "Barut Kulesi", "text": "Eski şehir tahkimatından kalan son kule, 14. yüzyılda barut depolamak için inşa edilmiştir.", "category": "landmark" },
+        { "name": "Lingen Emsland Müzesi", "text": "Tarihi bir binada yer alan müze, şehrin ve Emsland bölgesinin tarihini sergiler.", "category": "museum" },
+        { "name": "Aziz Bonifatius Kilisesi", "text": "Neo-gotik tarzda inşa edilen ve şehir manzarasını belirleyen önemli bir salon kilisesidir.", "category": "church" },
+        { "name": "Aziz Michael Kültür Forumu", "text": "Bugün konserler ve kültürel buluşmalar için etkinlik mekanı olarak kullanılan eski kilise.", "category": "landmark" },
+        { "name": "Pazar Meydanı", "text": "Yarı ahşap evleri ve kafeleriyle şehrin kalbi, bölgesel pazarların kurulduğu yerdir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "kaiserslautern-extra",
@@ -9211,13 +9575,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Kaiserslautern a Pfälzerwaldról és az 1. FC Kaiserslauternről ismert.",
       "ro": "Kaiserslautern este cunoscut pentru Pădurea Palatinatului și 1. FC Kaiserslautern.",
       "en": "Kaiserslautern is known for the Palatinate Forest and 1. FC Kaiserslautern."
-    },
+    ,
+      "tr": "Kaiserslautern, Pfälzerwald ve 1. FC Kaiserslautern ile tanınır."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat eine große amerikanische Militärgemeinde (K-Town). Sie ist auch ein wachsender Technologiestandort. Geographie K7 — Flüsse und Städte",
       "hu": "A városban nagy amerikai katonai közösség él (K-Town). Növekvő technológiai központ is. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are o mare comunitate militară americană (K-Town). De asemenea, este un centru tehnologic în creștere. Geografie K7 — Râuri și orașe",
       "en": "The city has a large American military community (K-Town). It is also a growing technology hub. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir büyük bir Amerikan askeri topluluğuna (K-Town) ev sahipliği yapar. Aynı zamanda büyüyen bir teknoloji merkezidir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Pfälzerwald",
@@ -9243,7 +9609,8 @@ export const poiExtraDeCities: POI[] = [
         "Barbarossa city",
         "K-Town"
       ]
-    },
+    ,
+      "tr": ["Pfälzerwald", "Fritz-Walter-Stadion", "Barbarossastadt", "K-Town"]},
     "plizioChallenge": {
       "de": "Ein Fußballspiel dauert 90 Minuten. Wie viele Minuten dauern 3 Spiele zusammen?",
       "hu": "Egy focimeccs 90 percig tart. Hány percig tart 3 meccs összesen?",
@@ -9428,7 +9795,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "İmparatorluk Sarayı", "text": "Friedrich Barbarossa'nın ikametgahının kalıntıları, staufen mimarisinin önemli tanığıdır.", "category": "historical" },
+        { "name": "Japon Bahçesi", "text": "Göletleri ve orijinal çay evleriyle Avrupa'nın en büyük Japon bahçelerinden biridir.", "category": "landmark" },
+        { "name": "Kaiserslautern Bahçe Sergisi", "text": "Eski bahçe sergisi alanındaki park, gerçek boyutlu dinozorlarıyla tanınmaktadır.", "category": "landmark" },
+        { "name": "Manastır Kilisesi", "text": "Gotik tarzda inşa edilen şehrin en eski kilisesi, bugün ana Protestan kilisesidir.", "category": "church" },
+        { "name": "Fruchthalle", "text": "İtalyan Rönesansı tarzındaki etkileyici bina, bugün konser salonu olarak kullanılmaktadır.", "category": "landmark" },
+        { "name": "Humberg Kulesi", "text": "Şehir ve çevredeki bölge üzerinde geniş manzara sunan Pfalz Ormanı'ndaki seyir kulesidir.", "category": "landmark" },
+        { "name": "Pfalzgalerie Müzesi", "text": "19. yüzyıldan günümüze, özellikle resim ve heykel alanında eserler barındıran sanat müzesidir.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "speyer-extra",
@@ -9449,13 +9826,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Speyer a császári dómról, a világ legnagyobb fennmaradt román stílusú templomáról ismert.",
       "ro": "Speyer este cunoscut pentru Catedrala Imperială, cea mai mare biserică romanică păstrată din lume.",
       "en": "Speyer is known for the Imperial Cathedral, the largest preserved Romanesque church in the world."
-    },
+    ,
+      "tr": "Speyer, dünyanın en büyük korunmuş Romanesk kilisesi olan Kaiserdom ile tanınır."},
     "descriptionAdvanced": {
       "de": "Das Technik-Museum Speyer stellt Flugzeuge und Raumfahrzeuge aus, darunter ein russisches Buran-Space Shuttle. Geographie K7 — Flüsse und Städte",
       "hu": "A Speyeri Műszaki Múzeum repülőgépeket és űrjárműveket mutat be, köztük egy orosz Buran űrsiklót. Földrajz K7 — Folyók és városok",
       "ro": "Muzeul Tehnologiei din Speyer expune avioane și nave spațiale, inclusiv o navetă spațială rusă Buran. Geografie K7 — Râuri și orașe",
       "en": "The Speyer Technology Museum exhibits aircraft and spacecraft, including a Russian Buran space shuttle. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Technik-Museum Speyer, aralarında bir Rus Buran uzay mekiğinin de bulunduğu uçak ve uzay araçlarını sergilemektedir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Kaiserdom",
@@ -9481,7 +9860,8 @@ export const poiExtraDeCities: POI[] = [
         "Historical Museum",
         "Altpörtel"
       ]
-    },
+    ,
+      "tr": ["Kaiserdom", "Technik-Museum", "Historisches Museum", "Altpörtel"]},
     "plizioChallenge": {
       "de": "Der Dom wurde 1030 begonnen und 1061 geweiht. Wie lange dauerte die Bauzeit?",
       "hu": "A dómot 1030-ban kezdték el építeni és 1061-ben szentelték fel. Mennyi ideig tartott az építkezés?",
@@ -9618,7 +9998,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Speyer Katedrali", "text": "Dünyanın en büyük ayakta kalan Romanesk kilisesidir ve UNESCO Dünya Mirası listesindedir.", "category": "church" },
+        { "name": "Altpörtel", "text": "Orta Çağ'da ana caddenin ucunu oluşturan Almanya'nın en yüksek şehir kapılarından biridir.", "category": "gate" },
+        { "name": "Speyer Teknik Müzesi", "text": "Buran uzay mekiği ve Boeing 747 gibi devasa eserlerin sergilendiği büyük bir müzedir.", "category": "museum" },
+        { "name": "Pfalz Tarih Müzesi", "text": "Bölge tarihine dair önemli koleksiyonlara, katedral hazinesine ve Roma buluntularına sahiptir.", "category": "museum" },
+        { "name": "Protesto Anıt Kilisesi", "text": "1529'daki Protestan prenslerin protestosunu anan neo-gotik anıtsal bir yapıdır.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "neustadt-extra",
@@ -9639,13 +10027,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Neustadt an der Weinstraße a német borászat egyik központja.",
       "ro": "Neustadt an der Weinstraße este un centru al viticulturii germane.",
       "en": "Neustadt an der Weinstraße is a center of German viticulture."
-    },
+    ,
+      "tr": "Neustadt an der Weinstraße, Alman bağcılığının bir merkezidir."},
     "descriptionAdvanced": {
       "de": "Das Hambacher Schloss liegt in der Nähe und gilt als Wiege der deutschen Demokratie. Hier fand 1832 das Hambacher Fest statt. Geographie K7 — Flüsse und Städte",
       "hu": "A Hambachi kastély a közelben fekszik, és a német demokrácia bölcsőjének tartják. Itt zajlott 1832-ben a Hambachi Ünnep. Földrajz K7 — Folyók és városok",
       "ro": "Castelul Hambach este în apropiere și este considerat leagănul democrației germane. Festivalul Hambach a avut loc aici în 1832. Geografie K7 — Râuri și orașe",
       "en": "Hambach Castle is nearby and is considered the cradle of German democracy. The Hambach Festival took place here in 1832. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Hambacher Schloss yakınlardadır ve Alman demokrasisinin beşiği sayılır. 1832'de Hambacher Fest burada gerçekleşmiştir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Hambacher Schloss",
@@ -9671,7 +10061,8 @@ export const poiExtraDeCities: POI[] = [
         "Wine Harvest Festival",
         "Palatinate Forest"
       ]
-    },
+    ,
+      "tr": ["Hambacher Schloss", "Weinstraße", "Weinlesefest", "Pfälzerwald"]},
     "plizioChallenge": {
       "de": "Wenn bei einem Weinfest 1.500 Gläser pro Tag gefüllt werden, wie viele in 4 Tagen?",
       "hu": "Ha egy borfesztiválon napi 1500 poharat töltenek meg, hányat töltenek meg 4 nap alatt?",
@@ -9808,7 +10199,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Hambacher Schloss", "text": "1832 Hambacher Festivali'ne ev sahipliği yapan bu şato, Alman demokrasisinin beşiği olarak kabul edilir.", "category": "castle" },
+        { "name": "Stiftskirche", "text": "Bir bölme duvarıyla Katolik ve Protestan kısımlarına ayrılmış, Gotik tarzda inşa edilmiş önemli bir dini yapıdır.", "category": "church" },
+        { "name": "Elwedritsche-Brunnen", "text": "Şehir merkezinde yer alan bu özgün çeşme, Pfalz bölgesinin efsanevi yaratıkları olan Elwedritsche'ye adanmıştır.", "category": "historical" },
+        { "name": "Eisenbahnmuseum Neustadt", "text": "Tarihi bir lokomotif deposunda çok sayıda buharlı ve elektrikli lokomotif ile tarihi vagonlar sergilenmektedir.", "category": "museum" },
+        { "name": "Marktplatz", "text": "Görkemli belediye binası ve iyi korunmuş yarı ahşap evleriyle eski şehrin tarihi ve sosyal merkezidir.", "category": "square" }
+      ]
+    }
   },
   {
     "id": "idar-oberstein-extra",
@@ -9829,13 +10228,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Idar-Oberstein világhírű drágakőcsiszoló műhelyeiről.",
       "ro": "Idar-Oberstein este faimos la nivel mondial pentru tăierea pietrelor prețioase.",
       "en": "Idar-Oberstein is world-famous for its gemstone cutting."
-    },
+    ,
+      "tr": "Idar-Oberstein, değerli taş işleme atölyeleriyle dünya çapında ünlüdür."},
     "descriptionAdvanced": {
       "de": "Besucher können das Deutsche Edelsteinmuseum bewundern oder die Felsenkirche besuchen, die in eine steile Klippe gebaut wurde. Geographie K7 — Flüsse und Städte",
       "hu": "A látogatók megcsodálhatják a Német Drágakőmúzeumot, vagy meglátogathatják a Sziklatemplomot, amely egy meredek sziklába épült. Földrajz K7 — Folyók és városok",
       "ro": "Vizitatorii pot admira Muzeul German al Pietrelor Prețioase sau vizita Felsenkirche, o biserică construită într-o stâncă abruptă. Geografie K7 — Râuri și orașe",
       "en": "Visitors can admire the German Gemstone Museum or visit the Felsenkirche, a church built into a steep cliff. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Ziyaretçiler Deutsches Edelsteinmuseum'u hayranlıkla gezebilir veya sarp bir kayalığa inşa edilmiş olan Felsenkirche'yi ziyaret edebilirler. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Edelsteinstadt",
@@ -9861,7 +10262,8 @@ export const poiExtraDeCities: POI[] = [
         "German Gemstone Museum",
         "Steinkaulenberg"
       ]
-    },
+    ,
+      "tr": ["Değerli taş şehri", "Felsenkirche", "Deutsches Edelsteinmuseum", "Steinkaulenberg"]},
     "plizioChallenge": {
       "de": "Ein Schleifer poliert 4 Edelsteine in 1 Stunde. Wie viele Stunden braucht er für 28 Edelsteine?",
       "hu": "Egy csiszoló 1 óra alatt 4 drágakövet csiszol. Hány óra alatt végez 28 drágakővel?",
@@ -9998,7 +10400,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Felsenkirche", "text": "15. yüzyılda doğal bir kaya oyuğuna inşa edilen bu muhteşem kilise, şehrin en ünlü simgesi olarak kabul edilir.", "category": "church" },
+        { "name": "Deutsches Edelsteinmuseum", "text": "Görkemli bir villada sergilenen, dünya çapında benzersiz değerli taş, mineral ve sanat eseri koleksiyonudur.", "category": "museum" },
+        { "name": "Edelsteinminen Steinkaulenberg", "text": "Avrupa'da ziyarete açık tek değerli taş madeni olup kayaların içindeki agat ve ametistleri yakından görebilirsiniz.", "category": "historical" },
+        { "name": "Burg Bosselstein", "text": "Kaya Kilisesi'nin üzerindeki eski kalenin kalıntıları, Nahe Vadisi'nin etkileyici bir manzarasını sunmaktadır.", "category": "castle" },
+        { "name": "Schloss Oberstein", "text": "Kontların eski ikametgahı olan şato, bir kaya sırtında yükselmekte ve bugün çeşitli etkinliklere ev sahipliği yapmaktadır.", "category": "castle" }
+      ]
+    }
   },
   {
     "id": "bad-kreuznach-extra",
@@ -10019,13 +10429,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bad Kreuznach hagyományos fürdőváros a Nahe folyó partján.",
       "ro": "Bad Kreuznach este un oraș balnear tradițional pe râul Nahe.",
       "en": "Bad Kreuznach is a traditional spa town on the Nahe river."
-    },
+    ,
+      "tr": "Bad Kreuznach, Nahe kıyısında geleneklerle dolu bir kaplıca şehridir."},
     "descriptionAdvanced": {
       "de": "Wahrzeichen sind die historischen Brückenhäuser, die auf den Pfeilern der Alten Nahebrücke stehen. Salinen reinigen die Luft der Stadt. Geographie K7 — Flüsse und Städte",
       "hu": "Jelképei a történelmi hídi házak, amelyek a Régi Nahe híd pillérein állnak. A sólepárlók tisztítják a város levegőjét. Földrajz K7 — Folyók és városok",
       "ro": "Punctele de atracție sunt casele istorice de pe pod, construite pe stâlpii Podului Vechi. Salinele curăță aerul orașului. Geografie K7 — Râuri și orașe",
       "en": "Landmarks include the historic bridge houses built on the pillars of the Old Nahe Bridge. Salines purify the city's air. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehrin simgesi, Alte Nahebrücke'nin sütunları üzerinde duran tarihi Brückenhäuser'dir. Salinen tesisleri şehrin havasını temizler. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Brückenhäuser",
@@ -10051,7 +10463,8 @@ export const poiExtraDeCities: POI[] = [
         "Nahe",
         "Salinental"
       ]
-    },
+    ,
+      "tr": ["Brückenhäuser", "Kaplıca şehri", "Nahe", "Salinental"]},
     "plizioChallenge": {
       "de": "Wenn es 4 Brückenhäuser gibt und jedes 2 Stockwerke hat, wie viele Stockwerke sind es insgesamt?",
       "hu": "Ha 4 hídi ház van, és mindegyiknek 2 emelete van, hány emelet van összesen?",
@@ -10188,7 +10601,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Brückenhäuser", "text": "Eski Nahe Köprüsü üzerinde bulunan 15. yüzyıldan kalma bu yarı ahşap evler, şehrin en ikonik simgesidir.", "category": "bridge" },
+        { "name": "Kauzenburg", "text": "Eski kentin üzerindeki orta çağdan kalma bu kale kalıntısı, Nahe Vadisi'ne bakan geniş bir panoramik manzara sunar.", "category": "castle" },
+        { "name": "Römerhalle", "text": "Dünya çapında Roma mozaik tabanlarının yanı sıra görkemli bir Roma villasından çıkan buluntuları sergileyen müze.", "category": "museum" },
+        { "name": "Salinental", "text": "Sağlıklı tuzlu hava üreten devasa kulelere sahip, Avrupa'nın en büyük açık hava inhalasyon merkezidir.", "category": "nature" },
+        { "name": "Crucenia Thermen", "text": "Nahe kıyısında, şifalı termal suyu ve kaplıca parkına yakınlığı ile tanınan modern bir termal banyo ve dinlenme merkezidir.", "category": "historical" }
+      ]
+    }
   },
   {
     "id": "pirmasens-extra",
@@ -10209,13 +10630,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Pirmasens sokáig a német cipőipar központja volt.",
       "ro": "Pirmasens a fost mult timp centrul industriei germane de încălțăminte.",
       "en": "Pirmasens was long the center of the German shoe industry."
-    },
+    ,
+      "tr": "Pirmasens uzun süre Alman ayakkabı endüstrisinin merkeziydi."},
     "descriptionAdvanced": {
       "de": "Das Mitmachmuseum Dynamikum bietet spannende Experimente. Die Stadt liegt am Rand des Pfälzerwaldes. Geographie K7 — Flüsse und Städte",
       "hu": "A Dynamikum interaktív múzeum izgalmas kísérleteket kínál. A város a Pfälzerwald szélén fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Muzeul interactiv Dynamikum oferă experimente captivante. Orașul se află la marginea Pădurii Palatinat. Geografie K7 — Râuri și orașe",
       "en": "The Dynamikum interactive museum offers exciting experiments. The city lies on the edge of the Palatinate Forest. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "İnteraktif müze Dynamikum heyecan verici deneyler sunar. Şehir, Pfälzerwald'ın kenarında yer almaktadır. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Schuhstadt",
@@ -10241,7 +10664,8 @@ export const poiExtraDeCities: POI[] = [
         "Palatinate Forest",
         "Old Post Office"
       ]
-    },
+    ,
+      "tr": ["Ayakkabı şehri", "Dynamikum", "Pfälzerwald", "Alte Post"]},
     "plizioChallenge": {
       "de": "Wenn in einer Fabrik 500 Paar Schuhe pro Tag hergestellt werden, wie viele Paare sind es in 5 Tagen?",
       "hu": "Ha egy gyárban naponta 500 pár cipőt gyártanak, hány pár készül 5 nap alatt?",
@@ -10378,7 +10802,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Dynamikum", "text": "Eski bir ayakkabı fabrikasında yer alan, teknoloji ve bilimi oyunla anlatan etkileşimli bir bilim ve deney merkezidir.", "category": "museum" },
+        { "name": "Altes Rathaus", "text": "Barok bina, bugün şehir müzesine ev sahipliği yapar ve Prens Ludwig IX dönemindeki anıları ve tarihi belgeleri yaşatır.", "category": "rathaus" },
+        { "name": "Schusterbrunnen", "text": "Şehrin geleneksel ayakkabıcılık zanaatına adanmış, merkezdeki bronz usta ve çırak heykellerinden oluşan bir anıttır.", "category": "landmark" },
+        { "name": "St. Pirmin", "text": "Şehrin koruyucu azizine adanan bu Katolik kilisesi, belirgin kulesiyle 19. yüzyıldan beri silüetin bir parçasıdır.", "category": "kirche" },
+        { "name": "Strecktalpark", "text": "Eski bir sanayi bölgesinde kurulan, göletler ve tematik bahçeler içeren şehir merkezindeki geniş ve huzurlu peyzaj parkı.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "andernach-extra",
@@ -10399,13 +10831,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Andernach Németország egyik legrégebbi városa a Rajna partján.",
       "ro": "Andernach este unul dintre cele mai vechi orașe din Germania, pe Rin.",
       "en": "Andernach is one of the oldest cities in Germany, on the Rhine."
-    },
+    ,
+      "tr": "Andernach, Rhein kıyısındaki Almanya'nın en eski şehirlerinden biridir."},
     "descriptionAdvanced": {
       "de": "Hier befindet sich der höchste Kaltwassergeysir der Welt. Er bricht etwa alle zwei Stunden bis zu 60 Meter hoch aus. Geographie K7 — Flüsse und Städte",
       "hu": "Itt található a világ legmagasabb hidegvízi gejzírje. Körülbelül kétóránként akár 60 méter magasra is kitör. Földrajz K7 — Folyók és városok",
       "ro": "Aici se află cel mai înalt gheizer cu apă rece din lume. Erupe cam o dată la două ore până la 60 de metri înălțime. Geografie K7 — Râuri și orașe",
       "en": "The highest cold-water geyser in the world is located here. It erupts about every two hours up to 60 meters high. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Burada dünyanın en yüksek soğuk su gayzeri bulunmaktadır. Yaklaşık her iki saatte bir 60 metre yüksekliğe kadar fışkırır. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Kaltwassergeysir",
@@ -10431,7 +10865,8 @@ export const poiExtraDeCities: POI[] = [
         "City wall",
         "Edible City"
       ]
-    },
+    ,
+      "tr": ["Soğuk su gayzeri", "Alter Krahnen", "Şehir surları", "Essbare Stadt"]},
     "plizioChallenge": {
       "de": "Wenn der Geysir 60 Meter hoch ist, wie viel ist das in Zentimetern?",
       "hu": "Ha a gejzír 60 méter magas, mennyi az centiméterben?",
@@ -10568,7 +11003,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Geysir Andernach", "text": "Dünyanın en yüksek soğuk su gayzeri olup 60 metreye kadar püskürerek ziyaretçilere muhteşem bir doğa olayı sunar.", "category": "landmark" },
+        { "name": "Runder Turm", "text": "Şehrin simgesi olan 15. yüzyıldan kalma kule, Almanya'nın en iyi korunmuş orta çağ savunma yapılarından biridir.", "category": "landmark" },
+        { "name": "Mariendom", "text": "Andernach'ın Ren kıyısında yükselen, dört kulesiyle dikkat çeken Geç Romanesk tarzda inşa edilmiş önemli bir bazilikadır.", "category": "kirche" },
+        { "name": "Alter Krahnen", "text": "Ren kıyısında 1561'den kalma tarihi vinç, yüzyıllar boyunca ağır yükleri ve şarap fıçılarını yüklemek için kullanılmıştır.", "category": "landmark" },
+        { "name": "Rheintor", "text": "Orta çağ şehir surlarının bir parçası olan kapı, bugün nehirden eski şehre görkemli bir giriş sağlamaktadır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "bingen-extra",
@@ -10589,13 +11032,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bingen a déli kapuja az UNESCO világörökség részét képező Felső-Közép-Rajna-völgynek.",
       "ro": "Bingen este poarta sudică spre Patrimoniul Mondial UNESCO Valea Rinului Mijlociu Superior.",
       "en": "Bingen is the southern gateway to the UNESCO World Heritage Upper Middle Rhine Valley."
-    },
+    ,
+      "tr": "Bingen, UNESCO Dünya Mirası Oberes Mittelrheintal'ın güney kapısıdır."},
     "descriptionAdvanced": {
       "de": "Der Mäuseturm auf einer Insel im Rhein ist ein berühmtes Wahrzeichen. Die Hildegard von Bingen wirkte hier. Geographie K7 — Flüsse und Städte",
       "hu": "A Rajna egyik szigetén álló Egértorony híres látványosság. Itt tevékenykedett Bingeni Hildegárd. Földrajz K7 — Folyók és városok",
       "ro": "Turnul Șoarecilor de pe o insulă din Rin este un punct de reper faimos. Hildegard de Bingen a lucrat aici. Geografie K7 — Râuri și orașe",
       "en": "The Mouse Tower on an island in the Rhine is a famous landmark. Hildegard of Bingen worked here. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Rhein üzerindeki bir adada bulunan Mäuseturm ünlü bir simgedir. Hildegard von Bingen burada faaliyet göstermiştir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Mäuseturm",
@@ -10621,7 +11066,8 @@ export const poiExtraDeCities: POI[] = [
         "Middle Rhine Valley",
         "Rhine-Nahe Corner"
       ]
-    },
+    ,
+      "tr": ["Mäuseturm", "Hildegard von Bingen", "Mittelrheintal", "Rhein-Nahe-Eck"]},
     "plizioChallenge": {
       "de": "Wenn ein Turm 30 Meter hoch ist und jede Etage 5 Meter hat, wie viele Etagen hat er?",
       "hu": "Ha egy torony 30 méter magas és minden emelet 5 méter, hány emelete van?",
@@ -10758,7 +11204,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Mäuseturm", "text": "Ren üzerindeki bir adada bulunan efsanevi savunma kulesi, UNESCO Dünya Mirası Listesi'nde yer alan bir yapıdır.", "category": "landmark" },
+        { "name": "Burg Klopp", "text": "Şehre hakim bir tepede yer alan kale, bugün belediye idaresine ev sahipliği yapmakta ve harika bir manzara sunmaktadır.", "category": "historical" },
+        { "name": "Basilika St. Martin", "text": "Aziz Hildegard von Bingen ile bağlantılı olan, Romanesk kriptalı muhteşem bir Geç Gotik tarzı kilisedir.", "category": "kirche" },
+        { "name": "Historisches Museum am Strom", "text": "Eski bir elektrik santralinde bulunan müze, Hildegard von Bingen ve bölgenin Roma tarihine odaklanmaktadır.", "category": "museum" },
+        { "name": "Rochuskapelle", "text": "17. yüzyıldaki veba salgınından sonra Rochusberg tepesinde inşa edilen ve uzaktan seçilebilen tarihi bir hac şapelidir.", "category": "kirche" }
+      ]
+    }
   },
   {
     "id": "frankenthal-extra",
@@ -10779,13 +11233,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Frankenthal egy közepes méretű város Worms és Ludwigshafen között.",
       "ro": "Frankenthal este un oraș mijlociu între Worms și Ludwigshafen.",
       "en": "Frankenthal is a medium-sized city between Worms and Ludwigshafen."
-    },
+    ,
+      "tr": "Frankenthal, Worms ve Ludwigshafen arasında yer alan orta ölçekli bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Bekannt sind die zwei Stadttore: das Speyerer und das Wormser Tor. Früher gab es hier eine berühmte Porzellanmanufaktur. Geographie K7 — Flüsse und Städte",
       "hu": "Két városkapuja ismert: a Speyerer Tor és a Wormser Tor. Régebben itt egy híres porcelángyár működött. Földrajz K7 — Folyók és városok",
       "ro": "Sunt cunoscute două porți ale orașului: Poarta Speyer și Poarta Worms. În trecut a existat aici o faimoasă fabrică de porțelan. Geografie K7 — Râuri și orașe",
       "en": "The two city gates, the Speyerer Tor and the Wormser Tor, are well known. There used to be a famous porcelain manufactory here. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "İki şehir kapısı ünlüdür: Speyerer ve Wormser Tor. Eskiden burada ünlü bir porselen imalathanesi vardı. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Speyerer Tor",
@@ -10811,7 +11267,8 @@ export const poiExtraDeCities: POI[] = [
         "Porcelain manufactory",
         "Vorderpfalz"
       ]
-    },
+    ,
+      "tr": ["Speyerer Tor", "Wormser Tor", "Porselen imalathanesi", "Vorderpfalz"]},
     "plizioChallenge": {
       "de": "Wenn 2 Stadttore jeweils 15 Meter breit sind, wie breit sind sie zusammen?",
       "hu": "Ha 2 városkapu egyenként 15 méter széles, milyen szélesek összesen?",
@@ -10948,7 +11405,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Speyerer Tor", "text": "18. yüzyıldan kalma barok şehir kapısı, eski kale surlarından günümüze ulaşan en görkemli mimari eserlerden biridir.", "category": "landmark" },
+        { "name": "Wormser Tor", "text": "Şehrin kuzeyindeki tarihi kapı, barok şehir planlamasının ana eksenini oluşturan önemli bir tarihi yapıdır.", "category": "landmark" },
+        { "name": "Erkenbert-Ruine", "text": "Eski bir manastır kilisesinin kalıntıları, günümüzde kültürel etkinlikler için etkileyici bir atmosfer sunmaktadır.", "category": "historical" },
+        { "name": "Rathausplatz", "text": "Modern belediye binası ve müzesiyle şehrin merkezi olan meydan, kafe ve çeşmeleriyle popüler bir buluşma noktasıdır.", "category": "landmark" },
+        { "name": "Zwölf-Apostel-Kirche", "text": "Klasisist mimarisiyle öne çıkan Protestan kilisesi, yüksek kulesiyle şehir silüetinin en belirgin parçasıdır.", "category": "kirche" }
+      ]
+    }
   },
   {
     "id": "neuwied-extra",
@@ -10969,13 +11434,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Neuwied a Rajna partján fekszik, és gyakran Gátvárosnak hívják.",
       "ro": "Neuwied este pe Rin și este adesea numit Orașul Digului.",
       "en": "Neuwied is on the Rhine and is often called the Dyke City."
-    },
+    ,
+      "tr": "Neuwied, Rhein üzerinde yer alır ve sıklıkla Deichstadt olarak anılır."},
     "descriptionAdvanced": {
       "de": "Die Stadt war historisch für ihre religiöse Toleranz bekannt. Der Deich schützt die Stadtmitte vor Hochwasser. Geographie K7 — Flüsse und Städte",
       "hu": "A város történelmileg vallási toleranciájáról volt ismert. A gát védi a városközpontot az árvíztől. Földrajz K7 — Folyók és városok",
       "ro": "Orașul era cunoscut istoric pentru toleranța sa religioasă. Digul protejează centrul orașului de inundații. Geografie K7 — Râuri și orașe",
       "en": "The city was historically known for its religious tolerance. The dyke protects the city center from flooding. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir tarihsel olarak dini hoşgörüsüyle tanınırdı. Deich, şehir merkezini taşkınlardan korur. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Deichstadt",
@@ -11001,7 +11468,8 @@ export const poiExtraDeCities: POI[] = [
         "Edict of Tolerance",
         "Neuwied Zoo"
       ]
-    },
+    ,
+      "tr": ["Deichstadt", "Schloss Neuwied", "Toleranzedikt", "Zoo Neuwied"]},
     "plizioChallenge": {
       "de": "Der Deich ist 7,5 Kilometer lang. Wie viele Meter sind das?",
       "hu": "A gát 7,5 kilométer hosszú. Hány méter ez?",
@@ -11162,7 +11630,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Neuwied", "text": "Ren kıyısında yer alan Wied prenslerinin ikametgahı, barok mimarisinin bölgedeki seçkin örneklerinden biridir.", "category": "Schloss" },
+        { "name": "Schloss Engers", "text": "Günümüzde konserler ve bayram etkinlikleri için kullanılan görkemli bir barok av ve eğlence sarayıdır.", "category": "Schloss" },
+        { "name": "Zoo Neuwied", "text": "1.500'den fazla hayvana ev sahipliği yapan eyaletin en büyük hayvanat bahçesi, başarılı çita üretimiyle ünlüdür.", "category": "Park" },
+        { "name": "Roentgen-Museum", "text": "Ünlü Roentgen atölyesinin mobilyalarını sergileyen müze, Neuwied şehrinin zengin tarihine ışık tutmaktadır.", "category": "Museum" },
+        { "name": "Deichinformationszentrum", "text": "Şehrin selden korunma tarihini ve devasa set duvarının teknik detaylarını belgeleyen endüstriyel bir anıttır.", "category": "Museum" },
+        { "name": "Marktkirche", "text": "Şehir merkezindeki bu Protestan kilisesi, klasisist mimarisi ve pazar meydanındaki konumuyla dikkat çekmektedir.", "category": "Kirche" }
+      ]
+    }
   },
   {
     "id": "zweibruecken-extra",
@@ -11183,13 +11660,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Zweibrücken a rózsák és a lovak városa.",
       "ro": "Zweibrücken este orașul trandafirilor și al cailor.",
       "en": "Zweibrücken is the city of roses and horses."
-    },
+    ,
+      "tr": "Zweibrücken, güllerin ve atların şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt verfügt über einen riesigen Rosengarten. Das Landgestüt züchtet seit Jahrhunderten edle Pferde. Geographie K7 — Flüsse und Städte",
       "hu": "A városnak hatalmas rózsakertje van. Az állami ménes évszázadok óta tenyészt nemes lovakat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are o imensă grădină de trandafiri. Herghelia de stat crește cai nobili de secole. Geografie K7 — Râuri și orașe",
       "en": "The city has a huge rose garden. The state stud farm has bred noble horses for centuries. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir devasa bir Rosengarten'a sahiptir. Landgestüt, yüzyıllardır asil atlar yetiştirmektedir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Rosengarten",
@@ -11215,7 +11694,8 @@ export const poiExtraDeCities: POI[] = [
         "Ducal Castle",
         "Zweibrücken Fashion Outlet"
       ]
-    },
+    ,
+      "tr": ["Rosengarten", "Landgestüt", "Herzogschloss", "Zweibrücken Fashion Outlet"]},
     "plizioChallenge": {
       "de": "Wenn im Rosengarten 60.000 Rosen blühen und 10.000 rot sind, wie viele haben andere Farben?",
       "hu": "Ha a rózsakertben 60 000 rózsa nyílik, és 10 000 piros, hány más színű?",
@@ -11376,7 +11856,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Herzogsschloss Zweibrücken", "text": "Pfalz bölgesinin en büyük barok yapısı olup günümüzde Eyalet Yüksek Mahkemesi'ne ev sahipliği yapmaktadır.", "category": "Schloss" },
+        { "name": "Europas Rosengarten", "text": "Binlerce gül türüne sahip 50.000 metrekarelik park, Avrupa'nın en güzel gül bahçelerinden biri kabul edilir.", "category": "Park" },
+        { "name": "Alexanderkirche", "text": "Şehrin en eski kilisesi olan Geç Gotik salon kilisesi, Wittelsbach düklerinin ebedi istirahatgahıdır.", "category": "Kirche" },
+        { "name": "Karlskirche", "text": "Dük Karl II. August'un emriyle inşa edilen barok ibadethane, şehir silüetini şekillendiren zarif bir yapıdır.", "category": "Kirche" },
+        { "name": "Stadtmuseum Zweibrücken", "text": "Ressam Christian von Mannlich'in eski evinde bulunan müze, dükalığın hareketli tarihini gözler önüne serer.", "category": "Museum" },
+        { "name": "The Style Outlets", "text": "Bölge genelinden çok sayıda ziyaretçi çeken, Almanya'nın en büyük alışveriş outlet merkezlerinden biridir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "plauen-extra",
@@ -11397,13 +11886,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Plauen világhírű a 'Plauener Spitze' csipkéről.",
       "ro": "Plauen este faimos la nivel mondial pentru dantela sa 'Plauener Spitze'.",
       "en": "Plauen is world-famous for the 'Plauener Spitze' lace."
-    },
+    ,
+      "tr": "Plauen, 'Plauener Spitze' (Plauen danteli) ile dünya çapında ünlüdür."},
     "descriptionAdvanced": {
       "de": "Die Textilindustrie machte die Stadt groß. Plauen hat das einzige Spitzenmuseum in Deutschland. Geographie K7 — Flüsse und Städte",
       "hu": "A textilipar naggyá tette a várost. Plauenben található Németország egyetlen csipkemúzeuma. Földrajz K7 — Folyók és városok",
       "ro": "Industria textilă a făcut orașul mare. Plauen are singurul muzeu de dantelă din Germania. Geografie K7 — Râuri și orașe",
       "en": "The textile industry made the city great. Plauen has the only lace museum in Germany. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tekstil endüstrisi şehri büyüttü. Plauen, Almanya'daki tek dantel müzesine sahiptir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Plauener Spitze",
@@ -11429,7 +11920,8 @@ export const poiExtraDeCities: POI[] = [
         "Vogtland",
         "Peace Bridge"
       ]
-    },
+    ,
+      "tr": ["Plauener Spitze", "Spitzenmuseum", "Vogtland", "Friedensbrücke"]},
     "plizioChallenge": {
       "de": "Ein Stück Spitze kostet 15 Euro. Wie viel kosten 4 Stücke?",
       "hu": "Egy darab csipke 15 euróba kerül. Mennyibe kerül 4 darab?",
@@ -11590,7 +12082,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Altes Rathaus", "text": "Eski pazar meydanındaki Rönesans tarzı kalkan duvarıyla dikkat çeken bu bina, şehrin tarihi simgesidir.", "category": "Rathaus" },
+        { "name": "St. Johanniskirche", "text": "Plauen silüetine hakim olan çift kuleli görkemli kilise, kentin uzun ve köklü inşaat geçmişini yansıtır.", "category": "Kirche" },
+        { "name": "Plauener Spitzenmuseum", "text": "Almanya'daki türünün tek örneği olan müze, dünyaca ünlü Plauen dantel sanatının tarihine adanmıştır.", "category": "Museum" },
+        { "name": "Friedensbrücke", "text": "Geniş açıklığıyla teknik bir şaheser olan köprü, dünyanın en büyük taş kemer köprülerinden biri sayılır.", "category": "landmark" },
+        { "name": "Malzhaus", "text": "Günümüzde konserler, kabareler ve sergiler için kullanılan sosyo-kültürel bir merkeze dönüştürülmüş tarihi bina.", "category": "historical" },
+        { "name": "Vogtlandmuseum", "text": "Üç adet koruma altındaki tarihi evde yer alan müze, Vogtland bölgesinin zengin sanat ve kültür tarihini sunar.", "category": "Museum" }
+      ]
+    }
   },
   {
     "id": "bautzen-extra",
@@ -11611,13 +12112,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bautzen a szorbok politikai és kulturális központja.",
       "ro": "Bautzen este centrul politic și cultural al sorabilor.",
       "en": "Bautzen is the political and cultural center of the Sorbs."
-    },
+    ,
+      "tr": "Bautzen, Sorbların siyasi ve kültürel merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt ist berühmt für ihren Senf und die Alte Wasserkunst. Sie liegt malerisch an der Spree. Geographie K7 — Flüsse und Städte",
       "hu": "A város híres a mustárjáról és a Régi Vízműről. Festői környezetben fekszik a Spree folyó partján. Földrajz K7 — Folyók és városok",
       "ro": "Orașul este faimos pentru muștarul său și Vechea Uzină de Apă. Este situat pitoresc pe râul Spree. Geografie K7 — Râuri și orașe",
       "en": "The city is famous for its mustard and the Old Waterworks. It is picturesquely situated on the Spree. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, hardalı ve Alte Wasserkunst ile ünlüdür. Spree nehri kıyısında pitoresk bir konuma sahiptir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Zentrum der Sorben",
@@ -11643,7 +12146,8 @@ export const poiExtraDeCities: POI[] = [
         "Old Waterworks",
         "City of Towers"
       ]
-    },
+    ,
+      "tr": ["Sorbların merkezi", "Bautz'ner hardalı", "Alte Wasserkunst", "Kuleler şehri"]},
     "plizioChallenge": {
       "de": "Bautzen hat 17 Türme. Wenn man 4 besucht hat, wie viele bleiben noch übrig?",
       "hu": "Bautzenben 17 torony van. Ha 4-et már meglátogattál, mennyi maradt?",
@@ -11804,7 +12308,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Ortenburg", "text": "Spree nehri üzerindeki tarihi kale kompleksi, günümüzde yüksek mahkemeye ve çeşitli müzelere ev sahipliği yapar.", "category": "Schloss" },
+        { "name": "Dom St. Petri", "text": "Yüzyıllardır Katolik ve Protestanların birlikte kullandığı, Almanya'nın en büyük eş zamanlı kiliselerinden biridir.", "category": "Kirche" },
+        { "name": "Reichenturm", "text": "Bautzen'in eğik kulesi olarak bilinen yapı, tarihi eski şehir üzerinde harika bir panoramik manzara sunar.", "category": "landmark" },
+        { "name": "Alte Wasserkunst", "text": "Eskiden su temini ve savunma amaçlı kullanılan, şehrin simgesi niteliğindeki önemli bir teknik anıttır.", "category": "historical" },
+        { "name": "Gedenkstätte Bautzen", "text": "Eski hapishane binası, Nazi dönemi ve Doğu Almanya'daki siyasi zulüm mağdurlarını anan bir müzedir.", "category": "Museum" },
+        { "name": "Rathaus Bautzen", "text": "Ana meydandaki barok belediye binası, mimarisi ve kulesindeki astronomik saati ile ziyaretçileri etkiler.", "category": "Rathaus" }
+      ]
+    }
   },
   {
     "id": "pirna-extra",
@@ -11825,13 +12338,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Pirna a 'Szász Svájc kapujaként' ismert.",
       "ro": "Pirna este cunoscută ca 'Poarta către Elveția Saxonă'.",
       "en": "Pirna is known as the 'Gateway to Saxon Switzerland'."
-    },
+    ,
+      "tr": "Pirna, 'Sächsische Schweiz'ın kapısı' olarak bilinir."},
     "descriptionAdvanced": {
       "de": "Die historische Altstadt liegt an der Elbe und wurde vom Maler Bernardo Bellotto berühmt gemacht. Geographie K7 — Flüsse und Städte",
       "hu": "A történelmi óváros az Elba partján fekszik, és Bernardo Bellotto festőművész tette híressé. Földrajz K7 — Folyók és városok",
       "ro": "Centrul istoric este situat pe Elba și a fost făcut faimos de pictorul Bernardo Bellotto. Geografie K7 — Râuri și orașe",
       "en": "The historic old town is located on the Elbe and was made famous by the painter Bernardo Bellotto. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tarihi eski şehir Elbe kıyısındadır ve ressam Bernardo Bellotto tarafından ünlendirilmiştir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Tor zur Sächsischen Schweiz",
@@ -11857,7 +12372,8 @@ export const poiExtraDeCities: POI[] = [
         "Sonnenstein Castle",
         "Canaletto city"
       ]
-    },
+    ,
+      "tr": ["Sächsische Schweiz'ın kapısı", "Elbe", "Schloss Sonnenstein", "Canaletto şehri"]},
     "plizioChallenge": {
       "de": "Eine Wanderung in die Sächsische Schweiz dauert 3 Stunden hin und 2,5 Stunden zurück. Wie lange ist das insgesamt?",
       "hu": "Egy túra a Szász Svájcba oda 3 óra, vissza 2,5 óra. Mennyi idő ez összesen?",
@@ -11994,7 +12510,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Sonnenstein", "text": "Elbe üzerinde yükselen görkemli kale, vadiden Dresden'e kadar uzanan geniş bir manzara imkanı sunar.", "category": "castle" },
+        { "name": "Stadtkirche St. Marien", "text": "Sanatlı tonoz yapısıyla Saksonya'nın en önemli Geç Gotik tarzı salon kiliselerinden biri olarak bilinir.", "category": "church" },
+        { "name": "Canaletto-Haus", "text": "Meydandaki tarihi Rönesans evi, günümüzde turist bilgilendirme merkezi ve tematik bir sergiye ev sahipliği yapar.", "category": "museum" },
+        { "name": "DDR-Museum Pirna", "text": "Eski bir kışlada bulunan müze, çok sayıda orijinal objeyle Doğu Almanya'daki günlük yaşamı anlatmaktadır.", "category": "museum" },
+        { "name": "Rathaus Pirna", "text": "Gotik'ten Rönesans'a kadar farklı mimari stilleri başarıyla birleştiren, kentin merkezindeki görkemli yapı.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "hoyerswerda-extra",
@@ -12015,13 +12539,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hoyerswerda a szorb Lausitz központjában fekvő város.",
       "ro": "Hoyerswerda este un oraș în centrul Lusației sorabe.",
       "en": "Hoyerswerda is a city in the center of Sorbian Lusatia."
-    },
+    ,
+      "tr": "Hoyerswerda, Sorb Lausitz'inin merkezinde bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt war ein wichtiges Energiezentrum in der DDR. Heute ist sie umgeben vom Lausitzer Seenland. Geographie K7 — Flüsse und Städte",
       "hu": "A város fontos energiaközpont volt az NDK-ban. Ma a Lausitzi-tóvidék veszi körül. Földrajz K7 — Folyók és városok",
       "ro": "Orașul a fost un important centru energetic în RDG. Astăzi este înconjurat de Districtul Lacurilor Lusațiene. Geografie K7 — Râuri și orașe",
       "en": "The city was an important energy center in the GDR. Today it is surrounded by the Lusatian Lake District. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, DDR döneminde önemli bir enerji merkeziydi. Bugün Lausitzer Seenland ile çevrilidir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Lausitzer Seenland",
@@ -12047,7 +12573,8 @@ export const poiExtraDeCities: POI[] = [
         "Hoyerswerda Castle",
         "Krabat region"
       ]
-    },
+    ,
+      "tr": ["Lausitzer Seenland", "Konrad Zuse Okulu", "Schloss Hoyerswerda", "Krabat bölgesi"]},
     "plizioChallenge": {
       "de": "Ein See ist 4 km lang und 2 km breit. Was ist sein Flächeninhalt (Länge mal Breite)?",
       "hu": "Egy tó 4 km hosszú és 2 km széles. Mennyi a területe (hossz szorozva szélességgel)?",
@@ -12184,7 +12711,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Hoyerswerda", "text": "Şehrin en eski binası olup bugün şehir müzesine ve hemen yanındaki hayvanat bahçesine ev sahipliği yapar.", "category": "castle" },
+        { "name": "Zuse-Computer-Museum (ZCOM)", "text": "İlk bilgisayarın mucidi olan ve burada eğitim gören Konrad Zuse'ye adanmış teknoloji odaklı bir müzedir.", "category": "museum" },
+        { "name": "Zoo Hoyerswerda", "text": "Şatonun yanındaki aile dostu hayvan bahçesi, doğal alanlarda 120'den fazla türe ev sahipliği yapmaktadır.", "category": "park" },
+        { "name": "Johanneskirche", "text": "Eski şehirdeki bu Geç Gotik tuğla kilise, Hoyerswerda'nın en belirgin ve önemli dini yapılarından biridir.", "category": "church" },
+        { "name": "Altmarkt Hoyerswerda", "text": "Belediye binası ve tarihi posta sütunu ile eski şehrin merkezi olan, tarihi atmosferini koruyan meydan.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "riesa-extra",
@@ -12205,13 +12740,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Riesa az Elba partján fekszik, és acél- és tésztagyártásáról ismert.",
       "ro": "Riesa este pe Elba și este cunoscută pentru producția de oțel și paste.",
       "en": "Riesa is located on the Elbe and is known for its steel and pasta production."
-    },
+    ,
+      "tr": "Riesa, Elbe kıyısında yer alır ve çelik ile makarna üretimiyle tanınır."},
     "descriptionAdvanced": {
       "de": "Die Riesaer Nudeln sind in ganz Deutschland berühmt. Wahrzeichen der Stadt ist eine riesige Eisenskulptur an der Elbe. Geographie K7 — Flüsse und Städte",
       "hu": "A riesai tészta egész Németországban híres. A város jelképe egy hatalmas vasszobor az Elba partján. Földrajz K7 — Folyók és városok",
       "ro": "Pastele din Riesa sunt renumite în toată Germania. Simbolul orașului este o uriașă sculptură de fier pe Elba. Geografie K7 — Râuri și orașe",
       "en": "Riesa pasta is famous throughout Germany. The city's landmark is a huge iron sculpture on the Elbe. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Riesaer Nudeln makarnaları tüm Almanya'da ünlüdür. Şehrin simgesi, Elbe kıyısındaki devasa bir demir heykeldir. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Riesaer Nudeln",
@@ -12237,7 +12774,8 @@ export const poiExtraDeCities: POI[] = [
         "Elbe",
         "Riesa Monastery"
       ]
-    },
+    ,
+      "tr": ["Riesa makarnaları", "Çelik şehri", "Elbe", "Kloster Riesa"]},
     "plizioChallenge": {
       "de": "Wenn in einer Fabrik 5.000 Packungen Nudeln pro Tag hergestellt werden, wie viele in 2 Tagen?",
       "hu": "Ha egy gyárban napi 5000 csomag tésztát gyártanak, hány csomagot gyártanak 2 nap alatt?",
@@ -12374,7 +12912,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Kloster Riesa", "text": "Şehrin tarihi çekirdeğini oluşturan eski Benediktin manastırı, günümüzde kısmen belediye binası olarak kullanılır.", "category": "castle" },
+        { "name": "Nudelcenter Riesa", "text": "Ünlü Riesa makarnalarının üretimini gösteren, içinde müzesi de bulunan modern ve şeffaf bir fabrikadır.", "category": "museum" },
+        { "name": "Trinitatiskirche", "text": "Belirgin kulesiyle Elbe kıyısındaki bu görkemli kilise, Riesa şehir silüetinin en önemli parçalarından biridir.", "category": "church" },
+        { "name": "Riesaer Riese", "text": "Elbe kıyısında bulunan ve şehrin adının kökenine dair eski efsaneyi hatırlatan devasa anıtsal heykel.", "category": "landmark" },
+        { "name": "Stadtpark Riesa", "text": "Şehrin yeşil alanı olan park, Elbe Bisiklet Yolu boyunca uzanarak ziyaretçilere huzurlu bir dinlenme ortamı sunar.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "radebeul-extra",
@@ -12395,13 +12941,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Radebeult szőlőültetvényei miatt gyakran a 'Szász Nizzának' nevezik.",
       "ro": "Radebeul este adesea numit 'Nisa Saxonă' datorită podgoriilor sale.",
       "en": "Radebeul is often called the 'Saxon Nice' due to its vineyards."
-    },
+    ,
+      "tr": "Radebeul, üzüm bağları nedeniyle sıklıkla 'Saksonya'nın Nice'i' olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Der Schriftsteller Karl May lebte hier; sein Wohnhaus ist heute das Karl-May-Museum. Die Lößnitzgrundbahn dampft durch die Stadt. Geographie K7 — Flüsse und Städte",
       "hu": "Karl May író itt élt; háza ma a Karl May Múzeum. A Lößnitzgrundbahn gőzös pöfög át a városon. Földrajz K7 — Folyók és városok",
       "ro": "Scriitorul Karl May a locuit aici; casa sa este acum Muzeul Karl May. Trenul cu aburi Lößnitzgrundbahn trece prin oraș. Geografie K7 — Râuri și orașe",
       "en": "The writer Karl May lived here; his house is now the Karl May Museum. The Lößnitzgrundbahn steam train puffs through the city. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Yazar Karl May burada yaşamıştır; evi bugün Karl-May-Museum'dur. Lößnitzgrundbahn buharlı treni şehrin içinden geçer. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Sächsisches Nizza",
@@ -12427,7 +12975,8 @@ export const poiExtraDeCities: POI[] = [
         "Vineyards",
         "Wackerbarth Castle"
       ]
-    },
+    ,
+      "tr": ["Sächsisches Nizza", "Karl-May-Museum", "Üzüm bağları", "Schloss Wackerbarth"]},
     "plizioChallenge": {
       "de": "Karl May schrieb über 70 Bücher. Wenn er jedes Jahr 2 Bücher schrieb, wie viele Jahre brauchte er?",
       "hu": "Karl May több mint 70 könyvet írt. Ha minden évben 2 könyvet írt, hány évre volt szüksége?",
@@ -12564,7 +13113,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Karl-May-Museum", "text": "Villa Shatterhand, ünlü macera yazarı Karl May ve onun yarattığı ölümsüz kahramanlara adanmış bir müzedir.", "category": "museum" },
+        { "name": "Schloss Wackerbarth", "text": "Saksonya Devlet Şaraphanesi olan barok şato, bağları ve köpüklü şarabıyla ünlü bir turizm merkezidir.", "category": "castle" },
+        { "name": "Hoflößnitz", "text": "Günümüzde bağcılık müzesine ev sahipliği yapan tarihi şaraphane ve eski dükalık yazlık malikanesidir.", "category": "museum" },
+        { "name": "Altkötzschenbroda", "text": "Yarı ahşap evleri, sanat galerileri ve şirin meyhaneleriyle kentin en pitoresk ve tarihi köy meydanıdır.", "category": "landmark" },
+        { "name": "Lößnitzgrundbahn", "text": "Yolcuları bölgenin güzel üzüm bağları arasından taşıyan buharlı ve tarihi bir dar hatlı tren yoludur.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "glauchau-extra",
@@ -12585,13 +13142,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Glauchau korábban a textilipar jelentős központja volt.",
       "ro": "Glauchau a fost anterior un centru important al industriei textile.",
       "en": "Glauchau was formerly an important center of the textile industry."
-    },
+    ,
+      "tr": "Glauchau eskiden tekstil endüstrisinin önemli bir merkeziydi."},
     "descriptionAdvanced": {
       "de": "Das Doppelschloss Vorder- und Hinterglauchau ist die wichtigste Sehenswürdigkeit. Die Stadt liegt im Tal der Zwickauer Mulde. Geographie K7 — Flüsse und Städte",
       "hu": "A Vorder- és Hinterglauchau ikerkastély a legfontosabb látványosság. A város a Zwickauer Mulde völgyében fekszik. Földrajz K7 — Folyók és városok",
       "ro": "Castelul dublu Vorder- și Hinterglauchau este principala atracție. Orașul este situat în valea râului Zwickauer Mulde. Geografie K7 — Râuri și orașe",
       "en": "The double castle of Vorder- and Hinterglauchau is the main attraction. The city is located in the valley of the Zwickauer Mulde. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Vorder- ve Hinterglauchau çifte şatosu en önemli turistik yerdir. Şehir, Zwickauer Mulde vadisinde yer almaktadır. Geographie K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Doppelschloss",
@@ -12617,7 +13176,8 @@ export const poiExtraDeCities: POI[] = [
         "Textile city",
         "Gründelpark"
       ]
-    },
+    ,
+      "tr": ["Çifte şato", "Zwickauer Mulde", "Tekstil şehri", "Gründelpark"]},
     "plizioChallenge": {
       "de": "Wenn in einem Schlosshof 5 Bänke stehen und auf jede 3 Personen passen, wie viele Personen haben Platz?",
       "hu": "Ha egy kastély udvarán 5 pad van és mindegyiken 3 ember fér el, hány embernek van hely?",
@@ -12754,7 +13314,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Forder- und Hinterglauchau", "text": "Çift şato kompleksi, bugün şehir müzesi ve çok önemli bir sanat koleksiyonuna ev sahipliği yapmaktadır.", "category": "castle" },
+        { "name": "Bismarckturm", "text": "Scherberg'deki bu devasa gözlem kulesi, Saksonya tepelikleri üzerinde geniş bir panoramik manzara sunar.", "category": "tower" },
+        { "name": "St. Georgen Kirche", "text": "Pazar meydanındaki barok kilise, yüksek kulesiyle yüzyıllardır Glauchau silüetini belirleyen ana yapıdır.", "category": "church" },
+        { "name": "Gründelpark", "text": "Göletleri ve yaşlı ağaçlarıyla yeşillikler içinde huzurlu yürüyüşler yapmak için ideal olan geniş bir park alanı.", "category": "park" },
+        { "name": "Rathaus Glauchau", "text": "Tarihi belediye binası, kentin idari merkezi olup belirgin mimari detaylarıyla pazar meydanında öne çıkar.", "category": "town-hall" }
+      ]
+    }
   },
   {
     "id": "crimmitschau-extra",
@@ -12775,13 +13343,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Crimmitschau a 100 kémény városa a textilipari múltja miatt.",
       "ro": "Crimmitschau este orașul celor 100 de coșuri, datorită trecutului său textil.",
       "en": "Crimmitschau is the city of 100 chimneys, due to its textile past."
-    },
+    ,
+      "tr": "Crimmitschau, tekstil geçmişi nedeniyle 100 bacalı şehir olarak bilinir."},
     "descriptionAdvanced": {
       "de": "Die Tuchfabrik der Gebrüder Pfau ist heute ein Textilmuseum. Eis- und Rollsport haben hier eine große Tradition. Geographie K7 — Flüsse und Städte",
       "hu": "A Pfau fivérek posztógyára ma textilmúzeum. A jég- és görkorcsolyázásnak nagy hagyománya van itt. Földrajz K7 — Folyók és városok",
       "ro": "Fabrica de pânză a fraților Pfau este astăzi un muzeu textil. Sporturile pe gheață și cu role au o mare tradiție aici. Geografie K7 — Râuri și orașe",
       "en": "The cloth factory of the Pfau brothers is now a textile museum. Ice and roller sports have a great tradition here. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Gebrüder Pfau kumaş fabrikası bugün bir tekstil müzesidir. Buz ve tekerlekli paten sporları burada büyük bir geleneğe sahiptir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt der 100 Schornsteine",
@@ -12807,7 +13377,8 @@ export const poiExtraDeCities: POI[] = [
         "Ice hockey (Eispiraten)",
         "Saxony"
       ]
-    },
+    ,
+      "tr": ["100 bacalı şehir", "Tuchfabrik Gebr. Pfau", "Buz hokeyi (Eispiraten)", "Sachsen"]},
     "plizioChallenge": {
       "de": "Ein Eishockeyspiel hat 3 Drittel zu je 20 Minuten. Wie viele Minuten ist die reguläre Spielzeit?",
       "hu": "Egy jégkorongmérkőzés három 20 perces harmadból áll. Hány perc a rendes játékidő?",
@@ -12944,7 +13515,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Blankenhain", "text": "Şatodaki Alman Tarım Müzesi, geçmiş yüzyılların köy yaşamını ve kullanılan tarım teknolojilerini sergiler.", "category": "museum" },
+        { "name": "Tuchfabrik Gebr. Pfau", "text": "Tekstil müzesi olarak hizmet veren fabrika, kentin köklü sanayi ve dokumacılık geleneğini korumaktadır.", "category": "industry" },
+        { "name": "St. Laurentius Kirche", "text": "Geç Gotik salon kilisesi, değerli iç donanımı, mimari yapısı ve tarihi orgu ile ziyaretçi çeken bir yapıdır.", "category": "church" },
+        { "name": "Rathaus Crimmitschau", "text": "Kentin 19. yüzyıldaki ekonomik yükselişini yansıtan görkemli ve tarihselci tarzda inşa edilmiş belediye yapısı.", "category": "town-hall" },
+        { "name": "Sahnpark", "text": "Orman yollarının yanı sıra şehrin ünlü buz pateni pistine de ev sahipliği yapan popüler bir dinlenme bölgesidir.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "annaberg-buchholz-extra",
@@ -12965,13 +13544,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Annaberg-Buchholz az Érchegység titkos fővárosa.",
       "ro": "Annaberg-Buchholz este capitala secretă a Munților Metaliferi.",
       "en": "Annaberg-Buchholz is the secret capital of the Ore Mountains."
-    },
+    ,
+      "tr": "Annaberg-Buchholz, Erzgebirge'nin gizli başkentidir."},
     "descriptionAdvanced": {
       "de": "Die St. Annenkirche ist eine der bedeutendsten spätgotischen Hallenkirchen Deutschlands. Die Stadt lebte jahrhundertelang vom Silberbergbau. Geographie K7 — Flüsse und Städte",
       "hu": "A Szent Anna-templom Németország egyik legjelentősebb késő gótikus csarnoktemploma. A város évszázadokig az ezüstbányászatból élt. Földrajz K7 — Folyók és városok",
       "ro": "Biserica Sf. Ana este una dintre cele mai importante biserici hală gotice târzii din Germania. Orașul a trăit secole din mineritul de argint. Geografie K7 — Râuri și orașe",
       "en": "St. Anne's Church is one of the most important late Gothic hall churches in Germany. The city lived from silver mining for centuries. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "St. Annenkirche, Almanya'nın en önemli geç gotik salon kiliselerinden biridir. Şehir yüzyıllar boyunca gümüş madenciliğiyle geçinmiştir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Erzgebirge",
@@ -12997,7 +13578,8 @@ export const poiExtraDeCities: POI[] = [
         "Silver mining",
         "Frohnauer Hammer"
       ]
-    },
+    ,
+      "tr": ["Erzgebirge", "St. Annenkirche", "Gümüş madenciliği", "Frohnauer Hammer"]},
     "plizioChallenge": {
       "de": "Ein Bergmann baut täglich 5 kg Silbererz ab. Wie viel baut er in 6 Tagen ab?",
       "hu": "Egy bányász naponta 5 kg ezüstércet bányászik. Mennyit bányászik 6 nap alatt?",
@@ -13158,7 +13740,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St. Annenkirche", "text": "Saksonya'nın en büyük Geç Gotik salon kilisesi olup içinde ünlü madenci altarını barındıran muazzam bir yapıdır.", "category": "church" },
+        { "name": "Frohnauer Hammer", "text": "Almanya'nın en eski demirhane müzesi, 15. yüzyıldan kalma su gücüyle çalışan bir çekiç sistemini sergiler.", "category": "museum" },
+        { "name": "Erzgebirgsmuseum mit Besucherbergwerk", "text": "Madencilik tarihini anlatan müze, kentin hemen altındaki tarihi gümüş madenine doğrudan erişim sağlar.", "category": "mine" },
+        { "name": "Adam-Ries-Museum", "text": "Ünlü matematikçi Adam Ries'in eski evinde, bilim insanının hayatı ve hesaplama tarihi hakkında bilgiler sunulur.", "category": "museum" },
+        { "name": "Markus-Röhling-Stolln", "text": "Madencilerin ağır çalışma koşullarını ve devasa su çarklarını gösteren etkileyici bir ziyaretçi madenidir.", "category": "mine" },
+        { "name": "Pöhlberg", "text": "Yürüyüş yolları, kuleli oteli ve bazalt sütunlarıyla şehrin yerel dağı olup doğaseverler için idealdir.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "wittenberg-extra",
@@ -13179,13 +13770,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Wittenberg Luther Márton és a reformáció városaként ismert.",
       "ro": "Wittenberg este cunoscut ca orașul lui Martin Luther și al Reformei.",
       "en": "Wittenberg is known as the city of Martin Luther and the Reformation."
-    },
+    ,
+      "tr": "Wittenberg, Martin Luther'in şehri ve Reformasyon'un merkezi olarak bilinir."},
     "descriptionAdvanced": {
       "de": "An die Tür der Schlosskirche soll Luther 1517 seine 95 Thesen geschlagen haben. Die Luthergedenkstätten gehören zum UNESCO-Welterbe. Geographie K7 — Flüsse und Städte",
       "hu": "A kastélytemplom ajtajára állítólag Luther 1517-ben szegezte ki 95 tételét. A Luther-emlékhelyek az UNESCO világörökség részei. Földrajz K7 — Folyók és városok",
       "ro": "Se spune că Luther și-a bătut în cuie cele 95 de teze pe ușa bisericii castelului în 1517. Memoriile lui Luther aparțin Patrimoniului Mondial UNESCO. Geografie K7 — Râuri și orașe",
       "en": "Luther is said to have nailed his 95 theses to the door of the Castle Church in 1517. The Luther memorials belong to the UNESCO World Heritage. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Martin Luther'in 1517 yılında 95 tezini Schlosskirche kapısına astığı söylenir. Luther anıtları UNESCO Dünya Mirası listesinde yer almaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Lutherstadt",
@@ -13211,7 +13804,8 @@ export const poiExtraDeCities: POI[] = [
         "95 Theses",
         "UNESCO World Heritage"
       ]
-    },
+    ,
+      "tr": ["Lutherstadt", "Schlosskirche", "95 Tez", "UNESCO Dünya Mirası"]},
     "plizioChallenge": {
       "de": "Wenn Luther 95 Thesen hatte und er sie auf 5 Blätter schrieb, wie viele Thesen waren im Schnitt auf einem Blatt?",
       "hu": "Ha Luthernek 95 tétele volt, és 5 lapra írta őket, átlagosan hány tétel volt egy lapon?",
@@ -13396,7 +13990,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schlosskirche", "text": "Martin Luther'in 95 tezini kapısına çivilediği dünyaca ünlü kilise, UNESCO Dünya Mirası Listesi'ndedir.", "category": "church" },
+        { "name": "Lutherhaus", "text": "Martin Luther'in eski evi, bugün dünyanın en büyük Reformasyon tarihi müzesine ev sahipliği yapmaktadır.", "category": "museum" },
+        { "name": "Stadtkirche St. Marien", "text": "Martin Luther'in vaaz verdiği ana kilise olup Reformasyon'un doğduğu yer olarak kabul edilen tarihi bir yapıdır.", "category": "church" },
+        { "name": "Melanchthonhaus", "text": "Reformcu Philipp Melanchthon'un yaşadığı bu ev, Rönesans döneminin en zarif sivil mimari örneklerinden biridir.", "category": "museum" },
+        { "name": "Cranach-Höfe", "text": "Ünlü ressam Lucas Cranach'ların çalışma mekanları, Reform dönemindeki sanat üretimine tanıklık eden yerlerdir.", "category": "culture" },
+        { "name": "Hundertwasserschule", "text": "Sanatçı Friedensreich Hundertwasser tarafından tasarlanan lise binası, kentin en renkli mimari anıtıdır.", "category": "culture" },
+        { "name": "Altes Rathaus", "text": "Pazar meydanındaki görkemli Rönesans yapısı, Wittenberg'in tarihi merkezinin mimari ve idari kalbidir.", "category": "town-hall" }
+      ]
+    }
   },
   {
     "id": "wernigerode-extra",
@@ -13417,13 +14021,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Wernigerodét színes favázas házai miatt 'a Harz-hegység színes városának' hívják.",
       "ro": "Wernigerode este numit 'Orașul colorat din Harz' datorită caselor sale colorate cu cadru de lemn.",
       "en": "Wernigerode is called the 'Colorful City in the Harz' due to its colorful half-timbered houses."
-    },
+    ,
+      "tr": "Wernigerode, renkli yarı ahşap evleri nedeniyle Harz'daki 'Bunte Stadt' (Renkli Şehir) olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Das neugotische Schloss Wernigerode wacht majestätisch über die Stadt. Von hier startet die berühmte Harzer Schmalspurbahn zum Brocken. Geographie K7 — Flüsse und Städte",
       "hu": "A neogótikus Wernigerode kastély fenségesen őrködik a város felett. Innen indul a híres Harzi keskeny nyomtávú vasút a Brocken hegyre. Földrajz K7 — Folyók és városok",
       "ro": "Castelul neogotic Wernigerode veghează maiestuos asupra orașului. Faimoasa cale ferată îngustă Harz pleacă de aici spre muntele Brocken. Geografie K7 — Râuri și orașe",
       "en": "The neo-Gothic Wernigerode Castle majestically watches over the city. The famous Harz Narrow Gauge Railway starts from here to the Brocken mountain. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Neogotik tarzdaki Schloss Wernigerode, şehrin üzerinde görkemli bir şekilde yükselir. Ünlü Harzer Schmalspurbahn treni buradan Brocken'a hareket eder. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Bunte Stadt am Harz",
@@ -13449,7 +14055,8 @@ export const poiExtraDeCities: POI[] = [
         "Harz Narrow Gauge Railway",
         "Town Hall"
       ]
-    },
+    ,
+      "tr": ["Harz'daki Renkli Şehir", "Schloss Wernigerode", "Harzer Schmalspurbahn", "Belediye binası"]},
     "plizioChallenge": {
       "de": "Der Zug fährt mit 20 km/h auf den Brocken. Wie lange braucht er für 10 km?",
       "hu": "A vonat 20 km/h-val megy a Brockenre. Mennyi idő kell neki 10 km-hez?",
@@ -13658,7 +14265,18 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Wernigerode", "text": "Şehre hakim olan görkemli şato, Alman tarihselciliğinin bir şaheseri olup müze olarak hizmet vermektedir.", "category": "historical" },
+        { "name": "Rathaus Wernigerode", "text": "Sivri kuleleri ve renkli cephesiyle Avrupa'nın en estetik yarı ahşap belediye binalarından biri sayılmaktadır.", "category": "landmark" },
+        { "name": "Harzer Schmalspurbahnen", "text": "Tarihi buharlı lokomotifler, buradan Brocken dağına doğru Harz dağlarının içinden eşsiz bir yolculuğa başlar.", "category": "historical" },
+        { "name": "Kleinstes Haus", "text": "Sadece 2,95 metre genişliğindeki bu minik yarı ahşap ev, günümüzde ilginç bir müze olarak gezilebilmektedir.", "category": "museum" },
+        { "name": "Schiefes Haus", "text": "Aşırı eğimiyle dikkat çeken bu eski değirmen yapısı, bugün kent tarihine dair sergilere ev sahipliği yapar.", "category": "historical" },
+        { "name": "Museum für Luftfahrt und Technik", "text": "50'den fazla uçak ve helikopter ile çok sayıda teknik objenin sergilendiği etkileyici bir havacılık koleksiyonu.", "category": "museum" },
+        { "name": "Lustgarten", "text": "Şatonun eteğindeki barok park, nadir ağaç türleri ve tarihi palmiye eviyle huzurlu bir dinlenme alanıdır.", "category": "landmark" },
+        { "name": "Wohltäterbrunnen", "text": "Pazar meydanındaki dökme demir çeşme, şehre büyük emeği geçmiş hayırsever vatandaşlara adanmış bir anıttır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "halberstadt-extra",
@@ -13679,13 +14297,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Halberstadt a Harz kapuja, és híres a dómkincstáráról.",
       "ro": "Halberstadt este poarta către Harz și este renumit pentru tezaurul catedralei sale.",
       "en": "Halberstadt is the gateway to the Harz and famous for its cathedral treasure."
-    },
+    ,
+      "tr": "Halberstadt, Harz'a açılan kapıdır ve katedral hazinesiyle ünlüdür."},
     "descriptionAdvanced": {
       "de": "Der Dom St. Stephanus beherbergt einen der wertvollsten Kirchenschätze Europas. In einer Kirche der Stadt läuft das langsamste Musikstück der Welt von John Cage. Geographie K7 — Flüsse und Städte",
       "hu": "A Szent István-dóm Európa egyik legértékesebb egyházi kincsét őrzi. A város egyik templomában játsszák a világ leglassabb zeneművét John Cage-től. Földrajz K7 — Folyók és városok",
       "ro": "Catedrala Sf. Ștefan găzduiește una dintre cele mai valoroase comori bisericești din Europa. Într-o biserică din oraș cântă cea mai lentă piesă muzicală din lume, de John Cage. Geografie K7 — Râuri și orașe",
       "en": "St. Stephen's Cathedral houses one of the most valuable church treasures in Europe. In one of the city's churches, the slowest piece of music in the world by John Cage is playing. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Dom St. Stephanus, Avrupa'nın en değerli kilise hazinelerinden birine ev sahipliği yapar. Şehirdeki bir kilisede John Cage'in dünyanın en yavaş müzik eseri icra edilmektedir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Tor zum Harz",
@@ -13711,7 +14331,8 @@ export const poiExtraDeCities: POI[] = [
         "Cathedral treasure",
         "John Cage Project"
       ]
-    },
+    ,
+      "tr": ["Harz'a açılan kapı", "Halberstädter Dom", "Katedral hazinesi", "John-Cage projesi"]},
     "plizioChallenge": {
       "de": "Das Musikstück soll 639 Jahre dauern. Es startete 2001. In welchem Jahr endet es?",
       "hu": "A zenemű a tervek szerint 639 évig tart. 2001-ben kezdődött. Melyik évben ér véget?",
@@ -13920,7 +14541,18 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Halberstadt Katedrali", "text": "St. Stephanus ve St. Sixtus Katedrali, Saksonya-Anhalt eyaletindeki en önemli Gotik yapılardan biridir.", "category": "historical" },
+        { "name": "Halberstadt Katedral Hazinesi", "text": "650'den fazla orijinal sanat eseriyle dünyanın en değerli ortaçağ kilise hazinelerinden biridir.", "category": "museum" },
+        { "name": "Martini Kilisesi", "text": "Eşit olmayan kuleleri ve John Cage'in 'As Slow as Possible' adlı dünyanın en uzun org eseriyle tanınır.", "category": "historical" },
+        { "name": "Liebfrauen Kilisesi", "text": "Romanesk Yolu'nun bir parçası olan, değerli alçı panolara sahip Romanesk bir bazilikadır.", "category": "historical" },
+        { "name": "Gleimhaus", "text": "Şair Johann Wilhelm Ludwig Gleim'in eski evinde bulunan, Almanya'nın en eski edebiyat müzelerinden biridir.", "category": "museum" },
+        { "name": "Halberstadt Roland Heykeli", "text": "Belediye binasındaki taş heykel, Orta Çağ'dan beri şehir özgürlüğünün ve pazar haklarının sembolüdür.", "category": "landmark" },
+        { "name": "Spiegelsberge", "text": "Av köşkü, Belvedere ve 16. yüzyıldan kalma ünlü dev şarap fıçısı bulunan bir peyzaj parkıdır.", "category": "landmark" },
+        { "name": "Şehir Müzesi", "text": "Barok bir şehir sarayında yer alan müze, şehrin tarih öncesinden günümüze kadar olan tarihini sunar.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "stendal-extra",
@@ -13941,13 +14573,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Stendal az Altmark legnagyobb városa és központja.",
       "ro": "Stendal este cel mai mare oraș și centrul regiunii Altmark.",
       "en": "Stendal is the largest city and the center of the Altmark."
-    },
+    ,
+      "tr": "Stendal, Altmark'ın en büyük şehri ve merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Backsteingotik prägt das Stadtbild der alten Hansestadt. Berühmt sind das Uenglinger Tor und der Roland auf dem Marktplatz. Geographie K7 — Flüsse und Städte",
       "hu": "A tégla gótika határozza meg a régi Hanza-város képét. Híres az Uenglingi-kapu és a Roland-szobor a piactéren. Földrajz K7 — Folyók és városok",
       "ro": "Gotica de cărămidă domină peisajul vechiului oraș hanseatic. Poarta Uenglingen și statuia lui Roland din piață sunt faimoase. Geografie K7 — Râuri și orașe",
       "en": "Brick Gothic dominates the cityscape of the old Hanseatic city. The Uenglingen Gate and the Roland statue on the market square are famous. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Tuğla gotiği bu eski Hansestadt'ın çehresini belirler. Uenglinger Tor ve pazar meydanındaki Roland heykeli ünlüdür. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Hansestadt",
@@ -13973,7 +14607,8 @@ export const poiExtraDeCities: POI[] = [
         "Roland statue",
         "Altmark"
       ]
-    },
+    ,
+      "tr": ["Hansestadt", "Tuğla gotiği", "Roland heykeli", "Altmark"]},
     "plizioChallenge": {
       "de": "Die Rolandstatue ist 7,8 Meter groß. Wie viel fehlt bis zu 10 Metern?",
       "hu": "A Roland-szobor 7,8 méter magas. Mennyi hiányzik a 10 méterhez?",
@@ -14182,7 +14817,18 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St. Nikolaus Katedrali", "text": "Gotik salon kilisesi, Avrupa çapında öneme sahip 22 adet geç Gotik vitray penceresiyle dikkat çeker.", "category": "historical" },
+        { "name": "Uenglinger Kapısı", "text": "15. yüzyıldan kalma görkemli tuğla kapı, Kuzey Almanya'nın en güzel şehir kapılarından biri kabul edilir.", "category": "historical" },
+        { "name": "Tangermünder Kapısı", "text": "Şehir kapılarının en eskisi olup tuğla Gotik tarzındaki eski şehir tahkimatının bir parçasıdır.", "category": "historical" },
+        { "name": "Winckelmann Müzesi", "text": "Arkeolog Johann Joachim Winckelmann'ın doğum yerinde bulunan müze, klasik antik çağa adanmıştır.", "category": "museum" },
+        { "name": "Roland Heykeli", "text": "7 metreyi aşan boyuyla bu Roland heykeli, türünün en büyüklerinden biri ve pazar özgürlüğünün işaretidir.", "category": "landmark" },
+        { "name": "Marien Kilisesi", "text": "Pazar meydanında bulunan ve değerli bir astronomik saate sahip olan etkileyici bir tuğla kilise.", "category": "historical" },
+        { "name": "Stendal Belediye Binası", "text": "Pazar meydanında, Gotik'ten Rönesans'a kadar çeşitli stilleri birleştiren anıtsal bir yapı kompleksi.", "category": "historical" },
+        { "name": "Altmark Müzesi", "text": "Eski bir manastır okulunda yer alan müze, Altmark'ın tarih öncesinden beri bölgesel tarihini sergiler.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "aschersleben-extra",
@@ -14203,13 +14849,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Aschersleben Szász-Anhalt legrégebbi írásos emlékű városa.",
       "ro": "Aschersleben este cel mai vechi oraș documentat din Saxonia-Anhalt.",
       "en": "Aschersleben is the oldest documented city in Saxony-Anhalt."
-    },
+    ,
+      "tr": "Aschersleben, Sachsen-Anhalt'ta kayıtlara geçmiş en eski şehirdir."},
     "descriptionAdvanced": {
       "de": "Die sehr gut erhaltene Stadtmauer umschließt die Altstadt fast komplett. Aschersleben ist auch für den Majoran-Anbau bekannt. Geographie K7 — Flüsse und Städte",
       "hu": "A nagyon jól megőrzött városfal szinte teljesen körülöleli az óvárost. Aschersleben a majoránna termesztéséről is ismert. Földrajz K7 — Folyók és városok",
       "ro": "Zidul orașului foarte bine conservat înconjoară orașul vechi aproape complet. Aschersleben este cunoscut și pentru cultivarea măghiranului. Geografie K7 — Râuri și orașe",
       "en": "The very well-preserved city wall almost completely surrounds the old town. Aschersleben is also known for marjoram cultivation. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Çok iyi korunmuş şehir surları eski şehri neredeyse tamamen çevreler. Aschersleben ayrıca Majoran yetiştiriciliğiyle de tanınır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Älteste Stadt Sachsen-Anhalts",
@@ -14235,7 +14883,8 @@ export const poiExtraDeCities: POI[] = [
         "Marjoram city",
         "Criminal Panopticon"
       ]
-    },
+    ,
+      "tr": ["Sachsen-Anhalt'ın en eski şehri", "Şehir surları", "Majoran şehri", "Kriminalpanoptikum"]},
     "plizioChallenge": {
       "de": "Die Ersterwähnung war im Jahr 753. Wie alt war die Stadt im Jahr 2003?",
       "hu": "Az első említés 753-ban volt. Hány éves volt a város 2003-ban?",
@@ -14444,7 +15093,18 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Şehir Tahkimatı", "text": "Rabenturm gibi kuleleriyle neredeyse tamamen korunmuş olan ortaçağ şehir surları şehir silüetini belirler.", "category": "historical" },
+        { "name": "Aschersleben Belediye Binası", "text": "Saksonya-Anhalt'ın en eski şehrinin tarihine tanıklık eden Rönesans unsurlu temsili bir yapı.", "category": "historical" },
+        { "name": "St. Stephani Kilisesi", "text": "Belirgin çift kulesi şehrin sınırlarının çok ötesinden görülebilen devasa bir Gotik salon kilisesi.", "category": "historical" },
+        { "name": "Neo Rauch Grafik Vakfı", "text": "Müze, Aschersleben'de büyüyen dünyaca ünlü sanatçı Neo Rauch'un eserlerine adanmıştır.", "category": "museum" },
+        { "name": "Aschersleben Müzesi", "text": "Kont Westphalen'in eski avlusunda bulunan müze, ünlü Aschersleben kabartmasını da sergilemektedir.", "category": "museum" },
+        { "name": "Aschersleben Hayvanat Bahçesi", "text": "Şehrin kenarında bulunan ve özellikle beyaz kaplan yetiştiriciliği ile tanınan doğaya yakın bir park.", "category": "landmark" },
+        { "name": "Kriminal Panoptikum", "text": "Eski bir hapishanede yer alan müze, ilginç suç vakalarını ve tarihi infaz yöntemlerini belgeler.", "category": "museum" },
+        { "name": "Henne Çeşmesi", "text": "Pazar meydanında bulunan, 'Henne' devi efsanesini hatırlatan bir simge ve popüler bir buluşma noktasıdır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "naumburg-extra",
@@ -14465,13 +15125,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Naumburg világhírű a dómjáról, amely az UNESCO világörökség része.",
       "ro": "Naumburg este faimos în lume pentru catedrala sa, un Patrimoniu Mondial UNESCO.",
       "en": "Naumburg is world-famous for its cathedral, a UNESCO World Heritage site."
-    },
+    ,
+      "tr": "Naumburg, UNESCO Dünya Mirası olan katedraliyle dünya çapında tanınır."},
     "descriptionAdvanced": {
       "de": "Im Naumburger Dom stehen die berühmten Stifterfiguren Uta und Ekkehard. Die Stadt liegt im Weinbaugebiet Saale-Unstrut. Geographie K7 — Flüsse und Städte",
       "hu": "A Naumburgi dómban állnak a híres alapító figurák, Uta és Ekkehard. A város a Saale-Unstrut borvidéken fekszik. Földrajz K7 — Folyók és városok",
       "ro": "În Catedrala Naumburg se află celebrele figuri ale fondatorilor Uta și Ekkehard. Orașul este în regiunea viticolă Saale-Unstrut. Geografie K7 — Râuri și orașe",
       "en": "The famous founder figures Uta and Ekkehard stand in Naumburg Cathedral. The city lies in the Saale-Unstrut wine-growing region. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Naumburger Dom'da ünlü bağışçı figürleri Uta ve Ekkehard bulunur. Şehir, Saale-Unstrut bağcılık bölgesinde yer almaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Naumburger Dom",
@@ -14497,7 +15159,8 @@ export const poiExtraDeCities: POI[] = [
         "Saale-Unstrut",
         "Historic tram"
       ]
-    },
+    ,
+      "tr": ["Naumburger Dom", "Bağışçı figürü Uta", "Saale-Unstrut", "Tarihi tramvay"]},
     "plizioChallenge": {
       "de": "Es gibt 12 Stifterfiguren im Dom. Wenn 2 Frauen sind, wie viele Männer gibt es?",
       "hu": "A dómban 12 alapító szobor van. Ha 2 nő, hány férfi van?",
@@ -14634,7 +15297,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Naumburg Katedrali", "text": "UNESCO Dünya Mirası, batı korosundaki bağışçı figürleri ve Uta von Ballenstedt tasviri ile ünlüdür.", "category": "church" },
+        { "name": "St. Wenzel Şehir Kilisesi", "text": "Geç Gotik kilise, inşası bir zamanlar J.S. Bach tarafından onaylanan ünlü Hildebrandt orguna sahiptir.", "category": "church" },
+        { "name": "Marientor", "text": "Ortaçağ tahkimat sisteminden günümüze ulaşan tek şehir kapısı, tarihi savunma mimarisini yansıtır.", "category": "landmark" },
+        { "name": "Nietzsche Evi", "text": "Filozof Friedrich Nietzsche'nin eski evi, bugün hayatı üzerine bir müze ve araştırma merkezidir.", "category": "museum" },
+        { "name": "Pazar Meydanı", "text": "Merkezi meydan, görkemli sivil evleri ve Sakson Rönesans tarzındaki tarihi belediye binasıyla büyüleyicidir.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "bernburg-extra",
@@ -14655,13 +15326,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bernburgot lenyűgöző reneszánsz kastélya miatt gyakran 'Anhalt koronájának' nevezik.",
       "ro": "Bernburg este adesea numit 'Coroana Anhaltului' datorită impresionantului său castel renascentist.",
       "en": "Bernburg is often called the 'Crown of Anhalt' due to its impressive Renaissance castle."
-    },
+    ,
+      "tr": "Bernburg, etkileyici rönesans şatosu nedeniyle sık sık 'Anhalt'ın Tacı' olarak adlandırılır."},
     "descriptionAdvanced": {
       "de": "Das Schloss thront hoch über der Saale. Die Stadt hat auch den Bärenzwinger am Schloss, in dem Braunbären leben. Geographie K7 — Flüsse und Städte",
       "hu": "A kastély magasan a Saale folyó fölött tornyosul. A városban található a kastély melletti medveketrec is, ahol barnamedvék élnek. Földrajz K7 — Folyók és városok",
       "ro": "Castelul domină deasupra râului Saale. Orașul are, de asemenea, țarcul urșilor la castel, unde trăiesc urși bruni. Geografie K7 — Râuri și orașe",
       "en": "The castle towers high above the Saale. The city also has the bear pit at the castle, where brown bears live. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şato, Saale nehri üzerinde yüksekte yer alır. Şehirde ayrıca şatoda boz ayıların yaşadığı bir Bärenzwinger bulunmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Krone von Anhalt",
@@ -14687,7 +15360,8 @@ export const poiExtraDeCities: POI[] = [
         "Bear Pit",
         "Saale"
       ]
-    },
+    ,
+      "tr": ["Anhalt'ın Tacı", "Schloss Bernburg", "Bärenzwinger", "Saale"]},
     "plizioChallenge": {
       "de": "Ein Braunbär frisst 10 kg Äpfel pro Woche. Wie viel fressen 2 Bären in 3 Wochen?",
       "hu": "Egy barnamedve hetente 10 kg almát eszik. Mennyit eszik 2 medve 3 hét alatt?",
@@ -14824,7 +15498,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Bernburg Şatosu", "text": "Askanier hanedanının görkemli ikametgahı, Saale Nehri kıyısındaki yüksek bir kumtaşı kayalığı üzerindedir.", "category": "castle" },
+        { "name": "Eulenspiegel Kulesi", "text": "Şatonun kulesi, efsaneye göre burada kule bekçisi olarak görev yapan Till Eulenspiegel'in adını taşır.", "category": "landmark" },
+        { "name": "Bernburg Hayvanat Bahçesi", "text": "Krumbholz dinlenme alanında bulunan, özellikle boz ayıları ve yerel faunasıyla tanınan doğal bir park.", "category": "park" },
+        { "name": "Marien Kilisesi", "text": "Aşağı şehirdeki Gotik salon kilisesi, en eski yapılardan biri ve tuğla Gotik mimarisinin bir anıtıdır.", "category": "church" },
+        { "name": "Park Demiryolu", "text": "Popüler demiryolu, pitoresk Saale çayırları ve Krumbholz ormanı içinden geçen dairesel bir rotada ilerler.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "bitterfeld-wolfen-extra",
@@ -14845,13 +15527,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bitterfeld-Wolfen vegyipari központként és a Borostyán-tóról ismert.",
       "ro": "Bitterfeld-Wolfen este cunoscut ca locație chimică și pentru Lacul de Chihlimbar.",
       "en": "Bitterfeld-Wolfen is known as a chemical hub and for the Amber Lake."
-    },
+    ,
+      "tr": "Bitterfeld-Wolfen, bir kimya merkezi ve Bernsteinsee ile tanınır."},
     "descriptionAdvanced": {
       "de": "Früher war hier ein riesiger Braunkohletagebau, heute ist es eine Seenlandschaft. Der Bitterfelder Bogen ist das moderne Wahrzeichen. Geographie K7 — Flüsse und Städte",
       "hu": "Régen egy hatalmas barnaszénbánya volt itt, ma tóvidék. A modern jelkép a Bitterfeldi Ív (Bitterfelder Bogen). Földrajz K7 — Folyók és városok",
       "ro": "În trecut aici era o imensă mină de lignit cu exploatare la suprafață, astăzi este un peisaj de lacuri. Arcul Bitterfeld este simbolul modern. Geografie K7 — Râuri și orașe",
       "en": "Formerly a huge open-cast lignite mine, today it is a lake landscape. The Bitterfeld Arch is the modern landmark. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Eskiden burada devasa bir linyit madeni vardı, bugün ise bir göller bölgesidir. Bitterfelder Bogen şehrin modern simgesidir. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Chemiepark",
@@ -14877,7 +15561,8 @@ export const poiExtraDeCities: POI[] = [
         "Amber Lake",
         "Bitterfeld Arch"
       ]
-    },
+    ,
+      "tr": ["Kimya parkı", "Goitzsche", "Bernsteinsee", "Bitterfelder Bogen"]},
     "plizioChallenge": {
       "de": "Wenn der See 6 km² groß ist und ein Boot für 1 km² eine halbe Stunde braucht, wie lange braucht es für den ganzen See?",
       "hu": "Ha a tó 6 km² területű és egy csónaknak fél órába telik 1 km² bejárása, mennyi idő a teljes tó?",
@@ -15014,7 +15699,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Büyük Goitzsche Gölü", "text": "Bugün yat limanları bulunan devasa bir su sporları ve dinlenme alanı olarak hizmet veren eski bir maden ocağı.", "category": "lake" },
+        { "name": "Pegelturm", "text": "Goitzsche Gölü üzerindeki yüzen dikkat çekici seyir kulesi, göl manzarası üzerinde panoramik manzara sunar.", "category": "landmark" },
+        { "name": "Wolfen Sanayi ve Film Müzesi", "text": "İlk çok katmanlı renkli filmin doğum yerindeki müze, kimya ve film endüstrisinin tarihini sergiler.", "category": "museum" },
+        { "name": "Bitterfeld Yayı", "text": "Bitterfeld Tepesi'nde bulunan, bir köprüyü andıran etkileyici bir çelik heykel ve seyir platformu.", "category": "landmark" },
+        { "name": "Bitterfeld Şehir Limanı", "text": "Gezi tekneleri için iskeleler ve restoranlar ile şehrin Goitzsche Gölü'ndeki denizcilik merkezi.", "category": "port" }
+      ]
+    }
   },
   {
     "id": "sangerhausen-extra",
@@ -15035,13 +15728,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Sangerhausen ad otthont a világ legnagyobb rózsagyűjteményének az Europa-Rosariumban.",
       "ro": "Sangerhausen găzduiește cea mai mare colecție de trandafiri din lume în Europa-Rosarium.",
       "en": "Sangerhausen is home to the world's largest rose collection in the Europa-Rosarium."
-    },
+    ,
+      "tr": "Sangerhausen, Europa-Rosarium'daki dünyanın en büyük gül koleksiyonuna ev sahipliği yapar."},
     "descriptionAdvanced": {
       "de": "Es liegt im Südharz und ist vom historischen Kupferschieferbergbau geprägt. Im Rosarium blühen über 8.000 Rosensorten. Geographie K7 — Flüsse und Städte",
       "hu": "A déli Harz-hegységben fekszik, és a történelmi rézpalabányászat határozza meg. A rózsakertben több mint 8000 rózsafajta virágzik. Földrajz K7 — Folyók és városok",
       "ro": "Este situat în sudul regiunii Harz și este caracterizat de mineritul istoric de șist de cupru. În rozariu înfloresc peste 8.000 de varietăți de trandafiri. Geografie K7 — Râuri și orașe",
       "en": "It is located in the southern Harz and is characterized by historic copper shale mining. Over 8,000 rose varieties bloom in the rosarium. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Südharz'da yer alır ve tarihi bakır madenciliği ile şekillenmiştir. Europa-Rosarium'da 8.000'den fazla gül çeşidi açmaktadır. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Europa-Rosarium",
@@ -15067,7 +15762,8 @@ export const poiExtraDeCities: POI[] = [
         "Copper mining",
         "Spengler Museum"
       ]
-    },
+    ,
+      "tr": ["Europa-Rosarium", "Südharz", "Bakır madenciliği", "Spengler-Museum"]},
     "plizioChallenge": {
       "de": "Wenn man am Tag 400 verschiedene Rosensorten ansehen kann, wie viele Tage braucht man für 8.000 Sorten?",
       "hu": "Ha naponta 400 különböző rózsafajtát tudsz megnézni, hány nap kell 8000 fajtához?",
@@ -15204,7 +15900,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Avrupa Rosariumu", "text": "Dünyanın en büyük gül koleksiyonu, geniş bir parkta 8.600'den fazla çeşit ve yaban gülüne ev sahipliği yapar.", "category": "park" },
+        { "name": "Spengler Müzesi", "text": "Bölge müzesi, bir bozkır fili iskeleti ile jeoloji ve tarih öncesi üzerine sergileriyle ünlüdür.", "category": "museum" },
+        { "name": "Röhrigschacht", "text": "Ziyaretçilerin tarihi bir bakır şist madenine inebilecekleri bir madencilik deneyim merkezi.", "category": "museum" },
+        { "name": "Ulrich Kilisesi", "text": "Romanesk Yolu üzerindeki önemli bir bazilika, sade ve net mimarisiyle tanınmaktadır.", "category": "church" },
+        { "name": "Eski Şato", "text": "Bir zamanlar idari merkez olan, bugün şehir arşivi ve nikah dairesini barındıran tarihi bir Rönesans yapısı.", "category": "castle" }
+      ]
+    }
   },
   {
     "id": "neumunster-extra",
@@ -15225,13 +15929,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Neumünster egy szép város.",
       "ro": "Neumünster este un oraș frumos.",
       "en": "Neumünster is a beautiful city."
-    },
+    ,
+      "tr": "Neumünster güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Neumünster, un oraș vibrant din inima landului Schleswig-Holstein, este un centru economic și cultural important, situat pe râul Schwale. Cunoscut istoric pentru industria sa textilă înfloritoare, orașul și-a transformat cu succes moștenirea industrială într-o atracție modernă. Astăzi, este renumit pentru McArthurGlen Designer Outlet, care atrage vizitatori din întreaga regiune pentru cumpărături de lux la prețuri reduse. Pe lângă comerț, Neumünster este un nod feroviar crucial, conectând nordul Germaniei. Muzeul 'Tuch + Technik' oferă o incursiune fascinantă în trecutul textil al orașului, prezentând mașini istorice și procese de fabricație. Orașul, a cărui primă mențiune documentară datează din 1127, îmbină farmecul istoric cu dinamismul economic, fiind un exemplu de regenerare urbană reușită în Geografia K7 — Râuri și orașe.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt",
@@ -15257,7 +15963,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Neumünster = ?",
       "hu": "2 fa + 3 fa Neumünster területén = ?",
@@ -15442,7 +16149,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Tuch + Technik Tekstil Müzesi", "text": "Modern müze, Neumünster'deki kumaş üretiminin tarihini zanaattan endüstriye kadar göstermektedir.", "category": "museum" },
+        { "name": "Neumünster Hayvanat Bahçesi", "text": "Şehir ormanında bulunan, özellikle kutup ayıları ve yerel hayvan türleriyle tanınan geniş bir park.", "category": "landmark" },
+        { "name": "Vicelin Kilisesi", "text": "19. yüzyılda C.F. Hansen'in planlarına göre inşa edilen önemli bir Klasisist kilise.", "category": "church" },
+        { "name": "Gerisch Heykel Parkı", "text": "Villa Wachholtz'da çağdaş heykellerin ve değişen sanat sergilerinin bulunduğu geniş bir bahçe.", "category": "park" },
+        { "name": "Einfeld Gölü", "text": "Şehrin kuzeyinde, yelken, kürek çekme ve yürüyüş için ideal olan popüler bir dinlenme alanı.", "category": "lake" },
+        { "name": "Caspar-von-Saldern Evi", "text": "Şehrin en eski soylu evi, bugün kültür merkezi ve konser mekanı olarak hizmet verir.", "category": "historical" },
+        { "name": "Eski Belediye Binası", "text": "Şehrin tarihi merkezini şekillendiren neogotik tarzda etkileyici bir tuğla yapı.", "category": "town hall" }
+      ]
+    }
   },
   {
     "id": "norderstedt-extra",
@@ -15463,13 +16180,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Norderstedt egy szép város.",
       "ro": "Norderstedt este un oraș frumos.",
       "en": "Norderstedt is a beautiful city."
-    },
+    ,
+      "tr": "Norderstedt güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Norderstedt, cel mai mare oraș din districtul Segeberg, este un exemplu de dezvoltare modernă, fiind format în 1970 prin unirea a patru localități. Ca parte a regiunii metropolitane Hamburg, beneficiază de o locație strategică, aproape de aeroportul Hamburg, ceea ce a impulsionat dezvoltarea sa economică. Orașul este un centru de afaceri dinamic, cu numeroase parcuri industriale și companii inovatoare. Pentru recreere, Norderstedt oferă parcuri extinse și complexul acvatic 'Arriba', o destinație populară pentru familii. Cu o infrastructură excelentă și o calitate înaltă a vieții, orașul reprezintă o sinteză reușită între viața urbană și proximitatea față de natură. Istorie K8 — Dezvoltare urbană postbelică.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt",
@@ -15495,7 +16214,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Norderstedt = ?",
       "hu": "2 fa + 3 fa Norderstedt területén = ?",
@@ -15656,7 +16376,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Norderstedt Şehir Parkı", "text": "Eski bahçe sergisi alanı; bir göl, tematik bahçeler ve çeşitli spor olanakları sunmaktadır.", "category": "park" },
+        { "name": "Schleswig-Holstein İtfaiye Müzesi", "text": "İki yüzyıllık tarihi araçlar ve teknolojiyle Almanya'nın en büyük itfaiye müzelerinden biri.", "category": "museum" },
+        { "name": "ARRIBA Eğlence Havuzu", "text": "Çok sayıda kaydırak, sauna alanı ve termal havuzları ile Kuzey Almanya'nın en büyük eğlence tesislerinden biri.", "category": "landmark" },
+        { "name": "Kulturwerk am See", "text": "Konserler ve tiyatro için kullanılan, eski bir kireç tuğla fabrikasındaki modern etkinlik merkezi.", "category": "historical" },
+        { "name": "Willy-Brandt Parkı", "text": "Garstedt semtinde yürüyüşe davet eden ve kentsel alanda dinlenme imkanı sunan yeşil bir vaha.", "category": "park" },
+        { "name": "Belediye Meydanı", "text": "Modern belediye binası, kütüphane ve kurulan halk pazarları ile Norderstedt'in merkezi meydanı.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "pinneberg-extra",
@@ -15677,13 +16406,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Pinneberg egy szép város.",
       "ro": "Pinneberg este un oraș frumos.",
       "en": "Pinneberg is a beautiful city."
-    },
+    ,
+      "tr": "Pinneberg güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Pinneberg, capitala districtului omonim, este un oraș recunoscut pentru pepinierele sale, care joacă un rol central în economia locală și i-au adus renumele de 'orașul pepinierelor'. Situat la nord-vest de Hamburg, orașul îmbină farmecul provincial cu avantajele proximității față de metropolă. Un simbol al orașului este turnul de apă istoric, o mărturie a arhitecturii industriale de la începutul secolului XX. Centrul orașului, cu clădirile sale din cărămidă și micile magazine, invită la plimbări relaxante. Pinneberg este, de asemenea, un punct de plecare ideal pentru a explora peisajul rural înconjurător, caracterizat de spații verzi și de râul Pinnau. Agricultură K6 — Horticultură și pepiniere.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt",
@@ -15709,7 +16440,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Pinneberg = ?",
       "hu": "2 fa + 3 fa Pinneberg területén = ?",
@@ -15870,7 +16602,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Die Drostei", "text": "Şehrin en önemli Barok yapısı, bugün sanat sergileri ve konserler için bir kültür merkezidir.", "category": "historical" },
+        { "name": "Pinneberg Rosariumu", "text": "Kuzey Almanya'nın en güzellerinden kabul edilen, 1000'den fazla gül çeşidine sahip eşsiz bir bahçe.", "category": "park" },
+        { "name": "Christus Kilisesi", "text": "İstasyon bölgesindeki şehir silüetini belirleyen, 19. yüzyıl sonlarından kalma neogotik bir tuğla kilise.", "category": "church" },
+        { "name": "Fahltpark", "text": "Şehrin içinde yer alan, eski kayın ağaçları ve yürüyüş yollarıyla geniş bir orman ve dinlenme alanı.", "category": "park" },
+        { "name": "Pinneberg Fidanlık Bölgesi", "text": "Pinneberg çevresindeki bölge, dünyanın en büyük bitişik fidanlık alanlarından biridir.", "category": "landmark" },
+        { "name": "Tarihi Belediye Binası", "text": "Pinneberg'in sivil mimarisinin tanıklığını yapan, şehir merkezindeki koruma altındaki bir bina.", "category": "town hall" }
+      ]
+    }
   },
   {
     "id": "itzehoe-extra",
@@ -15891,13 +16632,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Itzehoe egy szép város.",
       "ro": "Itzehoe este un oraș frumos.",
       "en": "Itzehoe is a beautiful city."
-    },
+    ,
+      "tr": "Itzehoe güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Itzehoe, unul dintre cele mai vechi orașe din Schleswig-Holstein, are o istorie bogată ce datează din secolul al IX-lea, fiind fondat în jurul unui castel construit pentru a se apăra împotriva vikingilor. Astăzi, este un centru administrativ și comercial pe malul râului Stör. Orașul vechi (Altstadt) păstrează clădiri istorice, precum Biserica Sf. Laurențiu, o impunătoare biserică gotică din cărămidă. Itzehoe este, de asemenea, un sediu important pentru inovație, găzduind Fraunhofer-Institut für Siliziumtechnologie (ISIT), un lider în cercetarea microelectronicii. Această dualitate între moștenirea istorică și tehnologia de vârf definește caracterul unic al orașului. Istorie K7 — Evul Mediu timpuriu în nordul Germaniei.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Geographie K7 — Flüsse und Städte"},
     "facts": {
       "de": [
         "Stadt",
@@ -15923,7 +16666,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Itzehoe = ?",
       "hu": "2 fa + 3 fa Itzehoe területén = ?",
@@ -16084,7 +16828,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St. Laurentii Kilisesi", "text": "Görkemli bir iç mekana ve önemli bir tarihi orga sahip olan şehrin en büyük kilisesi.", "category": "church" },
+        { "name": "Manastır Avlusu", "text": "Bugün hala özel bir huzur yayan, eski bir rahibe manastırının tarihi alanı.", "category": "historical" },
+        { "name": "Prinzeßhof Bölge Müzesi", "text": "Eski bir soylu sarayında yer alan müze, bölgesel tarihi ve sivil yaşam kültürünü sergiler.", "category": "museum" },
+        { "name": "Eski Belediye Binası", "text": "Pazar meydanında, Itzehoe'nun tarihi merkezini ve uzun geleneğini temsil eden etkileyici bir yapı.", "category": "town hall" },
+        { "name": "Cermen Mezarı", "text": "Bölgenin erken yerleşim tarihine dair bilgiler sunan, Tunç Çağı'ndan kalma arkeolojik bir anıt.", "category": "historical" },
+        { "name": "Itzehoe Şehir Parkı", "text": "İçinden Stör nehrinin geçtiği, dinlenmeye davet eden geniş bir yeşil alan.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "elmshorn-extra",
@@ -16105,13 +16858,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Elmshorn egy szép város.",
       "ro": "Elmshorn este un oraș frumos.",
       "en": "Elmshorn is a beautiful city."
-    },
+    ,
+      "tr": "Elmshorn, Schleswig-Holstein eyaletinde bulunan, Krückau nehri kıyısında yer alan ve zengin bir sanayi geçmişine sahip dinamik bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Elmshorn este un oraș industrial și comercial important în districtul Pinneberg, situat pe râul Krückau. Dezvoltarea sa a fost puternic influențată de industrializare în secolul al XIX-lea, în special în prelucrarea pieilor și producția de cereale. Astăzi, orașul este un centru economic diversificat, cu companii din sectorul alimentar (Kölln Flocken) și inginerie. Podul basculant istoric (Käsklappbrücke) peste Krückau este un reper tehnic interesant. Elmshorn este, de asemenea, cunoscut pentru 'Flora-Woche', un festival anual popular care atrage numeroși vizitatori. Proximitatea față de Hamburg și buna conectivitate fac din Elmshorn o locație atractivă pentru afaceri și rezidenți. Industrie K8 — Revoluția industrială.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Elmshorn, kuzey Almanya'nın Schleswig-Holstein eyaletinde yer alan, dinamik ve gelişmiş bir şehirdir. Krückau nehrinin kıyısında konumlanmış olan bu yerleşim yeri, tarih boyunca 'Lederstadt' yani deri şehri olarak ün kazanmış ve önemli bir sanayi merkezi haline gelmiştir. Şehrin mimari yapısı, endüstriyel devrim döneminden kalma tuğla binalar ile modern dokunuşların harmanlanmasıyla oluşur. Ziyaretçiler, tarihi sokaklarda dolaşırken Elmshorn'un köklü geçmişini hissedebilir ve yerel müzelerde şehrin gelişim serüvenine tanıklık edebilirler. Hamburg metropol bölgesine olan yakınlığı sayesinde hem ekonomik hem de sosyal açıdan canlı bir atmosfere sahip olan Elmshorn, aynı zamanda doğa severler için nehir kıyısında huzurlu yürüyüş rotaları sunmaktadır. Kültürel açıdan da zengin olan şehir, yıl boyunca düzenlenen festivalleri ve sanatsal etkinlikleriyle bölgenin önemli bir cazibe merkezi olmaya devam etmektedir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -16137,7 +16892,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Krückau Nehri", "Lederstadt", "Endüstri Mirası", "Hamburg Yakınlığı"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Elmshorn = ?",
       "hu": "2 fa + 3 fa Elmshorn területén = ?",
@@ -16250,7 +17006,14 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Elmshorn Sanayi Müzesi", "text": "Şehrin sanayi tarihini, orijinal makinelerin bulunduğu eski bir tekstil fabrikasında belgeler.", "category": "museum" },
+        { "name": "St. Nikolai Kilisesi", "text": "Eski Pazar'daki geç Barok tuğla kilise, Elmshorn merkezindeki belirgin mimari simgedir.", "category": "church" },
+        { "name": "Elmshorn Su Kulesi", "text": "Bugün kültürel etkinlikler ve sergiler için kullanılan 1902'den kalma tarihi bir sanayi anıtı.", "category": "landmark" },
+        { "name": "Steindammpark", "text": "Bir göl ve yürüyüş yolları içeren, şehrin ortasında dinlenme ve yürüyüş için ideal bir yeşil vaha.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "schleswig-extra",
@@ -16271,13 +17034,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Schleswig egy szép város.",
       "ro": "Schleswig este un oraș frumos.",
       "en": "Schleswig is a beautiful city."
-    },
+    ,
+      "tr": "Schleswig, Schlei fiyordu kıyısında yer alan, Viking geçmişi ve görkemli katedraliyle tanınan tarihi bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Schleswig, un oraș cu o importanță istorică deosebită, este situat pe malurile fiordului Schlei. A fost un centru vital în epoca vikingilor, cunoscut sub numele de Hedeby (Haithabu), unul dintre cele mai mari așezări comerciale din nordul Europei. Astăzi, Muzeul Viking Haithabu, aflat în apropiere, oferă o reconstituire impresionantă a vieții de atunci. Castelul Gottorf, o altă atracție majoră, domină peisajul și găzduiește două muzee de stat importante. Catedrala Sf. Petru, cu faimosul său altar Brüggemann, este un exemplu remarcabil de arhitectură gotică. Istoria bogată, de la vikingi la ducii de Schleswig-Holstein, face din acest oraș o destinație culturală fascinantă. Istorie K6 — Epoca Vikingilor.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Schleswig, kuzey Almanya'nın en eski ve en önemli tarihi merkezlerinden biridir. Schlei fiyordunun uç noktasında yer alan şehir, özellikle Viking dönemine ışık tutan Haithabu yerleşimi ve müzesiyle dünya çapında bir üne sahiptir. Şehrin siluetine hakim olan Schleswig Katedrali (St. Petri-Dom), Gotik mimarisi ve içindeki ünlü Bordesholm Altari ile ziyaretçileri büyülemektedir. Gottorf Şatosu (Schloss Gottorf) ise hem barok bahçeleri hem de eyalet müzelerine ev sahipliği yapmasıyla bölgenin en önemli kültürel durağıdır. Tarihi balıkçı yerleşimi olan Holm, dar sokakları ve geleneksel evleriyle Schleswig'in kendine has atmosferini yansıtır. Doğal güzellikleri ve köklü geçmişiyle Schleswig, Baltık Denizi bölgesinin en etkileyici noktalarından biri olarak öne çıkmaktadır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -16303,7 +17068,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Schlei", "Haithabu Viking Müzesi", "Schloss Gottorf", "St. Petri-Dom"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Schleswig = ?",
       "hu": "2 fa + 3 fa Schleswig területén = ?",
@@ -16416,7 +17182,14 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Gottorf Şatosu", "text": "Kuzey Almanya'nın en önemli Barok şatolarından biri, bugün eyalet müzelerine ev sahipliği yapar.", "category": "landmark" },
+        { "name": "St. Petri Katedrali", "text": "Gotik katedral, Hans Brüggemann'ın ustalıkla oyulmuş Bordesholm Altarı ile dünya çapında ünlüdür.", "category": "church" },
+        { "name": "Haithabu Viking Müzesi", "text": "Schlei kıyısındaki tarihi Viking yerleşimi hakkında eşsiz bir arkeolojik sergi.", "category": "museum" },
+        { "name": "Holm Balıkçı Yerleşimi", "text": "Küçük balıkçı evleri ve kendi şapeli olan, doğrudan su kenarında yer alan pitoresk bir mahalle.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "rendsburg-extra",
@@ -16437,13 +17210,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Rendsburg egy szép város.",
       "ro": "Rendsburg este un oraș frumos.",
       "en": "Rendsburg is a beautiful city."
-    },
+    ,
+      "tr": "Rendsburg, Nord-Ostsee-Kanal kıyısında bulunan ve devasa demiryolu yüksek köprüsüyle ünlü olan stratejik bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Rendsburg este un oraș situat strategic în centrul landului Schleswig-Holstein, pe malurile Canalului Kiel, cea mai aglomerată cale navigabilă artificială din lume. Simbolul orașului este podul feroviar înalt, o capodoperă a ingineriei de la începutul secolului XX. Sub pod se află o 'navă-bac' suspendată (Schwebefähre), un mod de traversare unic în Germania. Centrul istoric al orașului, cu piețele sale vechi și străzile înguste, reflectă o istorie de peste 800 de ani. Evenimentul anual 'Rendsburger Herbst', un mare târg popular, atrage zeci de mii de vizitatori. Poziția sa pe canal și rolul de nod de transport subliniază importanța sa economică. Geografie K8 — Canale navigabile și transport maritim.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Rendsburg, Schleswig-Holstein'ın tam kalbinde, dünyanın en işlek yapay su yollarından biri olan Nord-Ostsee-Kanal (Kuzey Denizi-Baltık Denizi Kanalı) üzerinde yer almaktadır. Şehrin en dikkat çekici simgesi, 1913 yılında inşa edilen ve mühendislik harikası olarak kabul edilen Rendsburger Hochbrücke demiryolu köprüsüdür. Bu köprünün altından geçen asma feribot (Schwebefähre), dünyada türünün nadir örneklerinden biridir. Rendsburg'un tarihi şehir merkezi, eski belediye binası ve dar sokaklarıyla klasik kuzey Almanya mimarisini sergiler. Kanal kıyısında yer alan yürüyüş yolları ve devasa gemilerin geçişini izleme imkanı, şehre benzersiz bir turistik cazibe katar. Hem bir ulaşım kavşağı hem de bir kültür merkezi olan Rendsburg, bölgenin denizcilik ve ticaret tarihindeki önemli rolünü gururla sürdürmektedir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -16469,7 +17244,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Nord-Ostsee-Kanal", "Eisenbahnhochbrücke", "Schwebefähre", "Schleswig-Holstein"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Rendsburg = ?",
       "hu": "2 fa + 3 fa Rendsburg területén = ?",
@@ -16582,7 +17358,14 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Rendsburg Yüksek Köprüsü", "text": "Kuzey-Baltık Kanalı üzerindeki devasa demiryolu köprüsü, 1913'ten kalma bir teknik şaheserdir.", "category": "landmark" },
+        { "name": "Asma Feribot", "text": "Yüksek köprünün altında, araçları ve yolcuları kanalın üzerinden taşıyan nadir bir teknik anıt.", "category": "landmark" },
+        { "name": "Rendsburg Yahudi Müzesi", "text": "Eski bir sinagogda yer alan müze, Schleswig-Holstein'daki Yahudi tarihini göstermektedir.", "category": "museum" },
+        { "name": "Marien Kilisesi", "text": "13. yüzyıldan kalma Gotik salon kilisesi, Rendsburg eski şehrindeki en eski kilisedir.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "heide-extra",
@@ -16603,13 +17386,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Heide egy szép város.",
       "ro": "Heide este un oraș frumos.",
       "en": "Heide is a beautiful city."
-    },
+    ,
+      "tr": "Heide, Almanya'nın en büyük pazar meydanına ev sahipliği yapan ve Dithmarschen bölgesinin kültürel kalbi olan bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Heide, situat în districtul Dithmarschen, este cunoscut pentru cea mai mare piață neconstruită din Germania, cu o suprafață de 4,7 hectare. Această piață imensă găzduiește săptămânal târguri tradiționale, inclusiv faimosul 'Heider Marktfrieden', un festival medieval. Orașul are o identitate regională puternică, legată de istoria Republicii țărănești libere Dithmarschen. Biserica Sf. Jurgen este o clădire importantă, iar turnul său de apă oferă o priveliște panoramică asupra regiunii plate. Economia locală este diversificată, incluzând energie regenerabilă și turism. Proximitatea față de coasta Mării Nordului face din Heide un punct de plecare pentru a explora parcul național Wadden Sea. Istorie K7 — Forme de guvernare medievale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Heide, kuzey Almanya'da, Kuzey Denizi yakınlarındaki Dithmarschen bölgesinin merkezinde yer alan köklü bir şehirdir. Şehir, 4,7 hektarlık alanıyla Almanya'nın en büyük pazar meydanı olan 'Marktplatz' ile gurur duymaktadır; bu meydan yüzyıllardır bölgenin ticaret ve sosyal yaşamının kalbi olmuştur. Ünlü besteci Johannes Brahms'ın aile kökenlerinin bulunduğu şehirde, Brahms-Haus müzesi sanatseverlerin ilgisini çekmektedir. Heide'nin mimari yapısı, geleneksel tuğla binalar ve tarihi St. Jürgen Kilisesi ile şekillenmiştir. Dithmarschen'in özgürlükçü tarihini yansıtan şehir, yerel festivalleri ve geleneksel pazarlarıyla ziyaretçilerine otantik bir atmosfer sunar. Düzlük arazisi ve denize yakınlığı sayesinde doğa yürüyüşleri ve bisiklet turları için ideal bir başlangıç noktasıdır. Heide, modern yaşam ile kırsal geleneklerin uyum içinde buluştuğu özel bir yerleşim yeridir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -16635,7 +17420,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Almanya'nın En Büyük Marktplatz'ı", "Johannes Brahms", "Dithmarschen", "St. Jürgen Kilisesi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Heide = ?",
       "hu": "2 fa + 3 fa Heide területén = ?",
@@ -16748,7 +17534,14 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Heide Pazar Meydanı", "text": "4,7 hektarlık alanıyla Almanya'nın en büyük pazar meydanı, yüzyıllardır pazarların merkezidir.", "category": "landmark" },
+        { "name": "St. Jürgen Kilisesi", "text": "Pazar meydanındaki geç Gotik tuğla kilise, değerli sanat hazinelerine ve tarihi bir iç mekana sahiptir.", "category": "church" },
+        { "name": "Brahms Evi", "text": "Johannes Brahms'ın atalarının eski evi, bugün bir müze ve araştırma merkezi olarak hizmet verir.", "category": "museum" },
+        { "name": "Dithmarschen Eyalet Müzesi", "text": "Dithmarschen köylü cumhuriyetinin tarihini ve bölgesel kültürel gelişimi sunar.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "husum-extra",
@@ -16769,13 +17562,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Husum egy szép város.",
       "ro": "Husum este un oraș frumos.",
       "en": "Husum is a beautiful city."
-    },
+    ,
+      "tr": "Husum, Kuzey Denizi kıyısında yer alan, 'Gri Şehir' lakaplı ancak renkli limanı ve Theodor Storm'un mirasıyla tanınan büyüleyici bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Husum, 'orașul gri de la mare' (die graue Stadt am Meer), așa cum l-a numit scriitorul Theodor Storm, este un port pitoresc la Marea Nordului. În ciuda poreclei, orașul este plin de culoare, în special primăvara, când milioane de brândușe înfloresc în parcul castelului, creând un 'covor' mov spectaculos. Portul interior, cu mareele sale vizibile, este inima orașului, plin de restaurante și magazine. Casa memorială Theodor Storm, unde a locuit faimosul scriitor, este acum un muzeu. Castelul din Husum (Schloss vor Husum) găzduiește evenimente culturale și un muzeu. Economia este bazată pe turism, energie eoliană și comerț. Geografie K6 — Maree și zone costiere.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Husum, Schleswig-Holstein'ın batı kıyısında, Wadden Denizi Ulusal Parkı'nın kıyısında yer alan romantik bir liman şehridir. Ünlü yazar Theodor Storm tarafından 'Deniz kıyısındaki gri şehir' olarak tanımlansa da, aslında renkli evlerin sıralandığı limanı ve baharda binlerce çuha çiçeğinin açtığı şato bahçesiyle oldukça canlıdır. Şehrin kalbi olan iç liman, gelgit olaylarının doğrudan gözlemlenebildiği nadir yerlerden biridir. Theodor Storm Evi, edebiyat tutkunları için önemli bir durak noktasıyken, NordseeMuseum Husum bölgenin denizcilik ve kıyı koruma tarihine dair derin bilgiler sunar. Husum Şatosu (Schloss vor Husum), Rönesans mimarisi ve düzenli sanatsal etkinlikleriyle kültürel yaşamın merkezidir. Taze deniz ürünleri, rüzgarlı sokakları ve tipik kuzey Almanya misafirperverliği ile Husum, her mevsim ziyaretçilerine huzur ve ilham veren bir atmosfere sahiptir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -16801,7 +17596,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Theodor Storm", "Wattenmeer", "Schloss vor Husum", "Kuzey Denizi Limanı"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Husum = ?",
       "hu": "2 fa + 3 fa Husum területén = ?",
@@ -16962,7 +17758,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Husum Şatosu", "text": "Schleswig-Holstein Kuzey Denizi kıyısındaki tek şato olup ilkbahardaki çiğdemleriyle tanınır.", "category": "castle" },
+        { "name": "Marien Kilisesi", "text": "Pazar meydanındaki Klasisist kilise, belirgin mimarisiyle Husum'un şehir silüetini şekillendirir.", "category": "church" },
+        { "name": "Theodor Storm Evi", "text": "Şairin eski evi, bugün hayatına ve eserlerine dair bilgiler sunan bir müzeye ev sahipliği yapar.", "category": "museum" },
+        { "name": "İç Liman", "text": "Şehir merkezinde tarihi gemiler, balık restoranları ve canlı bir yolu olan pitoresk bir liman.", "category": "port" },
+        { "name": "Husum Kuzey Denizi Müzesi", "text": "Nissenhaus'taki müze, batı kıyısının kültürel tarihini ve denizle olan mücadelesini belgeler.", "category": "museum" },
+        { "name": "Husum Su Kulesi", "text": "Tarihi kule, şehir ve komşu Wadden Denizi üzerinde geniş bir manzara sunar.", "category": "tower" }
+      ]
+    }
   },
   {
     "id": "eckernforde-extra",
@@ -16983,13 +17788,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Eckernförde egy szép város.",
       "ro": "Eckernförde este un oraș frumos.",
       "en": "Eckernförde is a beautiful city."
-    },
+    ,
+      "tr": "Eckernförde, Baltık Denizi kıyısında bulunan, uzun plajları, tarihi limanı ve denizcilik gelenekleriyle ünlü bir sahil şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Eckernförde este o stațiune balneară fermecătoare pe coasta Mării Baltice, situată la capătul fiordului Eckernförder Bucht. Orașul este renumit pentru plaja sa lungă de nisip, portul pitoresc și centrul istoric bine conservat. În fiecare lună, aici are loc cel mai mare târg de pește din Schleswig-Holstein. O specialitate locală este 'Kieler Sprotte', un tip de pește afumat, care, în ciuda numelui, provine din Eckernförde. Podul pietonal din lemn care traversează portul și farul vechi sunt simboluri ale orașului. Fabrica de bomboane 'Bonbonkocherei Hermann Hinrichs' este o atracție dulce pentru vizitatori. Economia se bazează pe turism, servicii și industria alimentară. Geografie K7 — Marea Baltică și fiordurile sale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Eckernförde, Baltık Denizi'nin kıvrımlı bir fiyordunun ucunda yer alan, 700 yılı aşkın tarihe sahip büyüleyici bir sahil şehridir. Şehir, dört kilometre uzunluğundaki ince kumlu plajı ve hemen arkasında yükselen tarihi şehir merkeziyle benzersiz bir tatil destinasyonudur. Liman bölgesi, taze balık satan tekneleri, geleneksel dükkanları ve denizcilik atmosferiyle şehrin ruhunu yansıtır. Meşhur 'Kieler Sprotte' balığının aslında köken aldığı yer olan Eckernförde, gastronomi meraklıları için de pek çok seçenek sunar. Şehirde bulunan Rundsilo (yuvarlak silo) gibi endüstriyel anıtlar, deniz ticareti geçmişine tanıklık ederken, modern sanat galerileri ve kültürel festivaller şehrin modern yüzünü temsil eder. Su sporları, yelken yarışları ve doğa yürüyüşleri için mükemmel imkanlar sunan Eckernförde, hem aileler hem de macera arayanlar için Baltık Denizi kıyısındaki en popüler duraklardan biridir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -17015,7 +17822,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Baltık Denizi Plajı", "Kieler Sprotte", "Tarihi Liman", "Ostsee"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Eckernförde = ?",
       "hu": "2 fa + 3 fa Eckernförde területén = ?",
@@ -17176,7 +17984,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St. Nicolai Kilisesi", "text": "Sanatla oyulmuş bir kanatlı altara sahip, 13. yüzyıldan kalma geç Gotik bir tuğla kilise.", "category": "church" },
+        { "name": "Eski Belediye Binası", "text": "Tarihi bina bugün bölgesel tarihe ait eserlerin sergilendiği şehir müzesine ev sahipliği yapar.", "category": "museum" },
+        { "name": "Şekerleme Atölyesi", "text": "Bu geleneksel imalathanede ziyaretçiler renkli şekerlerin elle yapılışını canlı olarak izleyebilir.", "category": "industry" },
+        { "name": "Baltık Denizi Bilgi Merkezi", "text": "Plajda bulunan, deniz biyolojisini ve Baltık Denizi yaşam alanını açıklayan interaktif bir müze.", "category": "museum" },
+        { "name": "Eckernförde Limanı", "text": "Balıkçı tekneleri, yatlar ve gezinti yoluyla gezmeye davet eden canlı bir liman.", "category": "port" },
+        { "name": "Rundsilo", "text": "Limandaki belirgin tahıl ambarı, şehrin simgesi ve ticaret tarihinin bir tanığıdır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "homburg-extra",
@@ -17197,13 +18014,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Homburg egy szép város.",
       "ro": "Homburg este un oraș frumos.",
       "en": "Homburg is a beautiful city."
-    },
+    ,
+      "tr": "Homburg, Saarland eyaletinde bulunan, devasa kumtaşı mağaraları ve önemli tıp merkeziyle tanınan tarihi bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Homburg, al treilea cel mai mare oraș din Saarland, este un centru administrativ și comercial important. Orașul este cunoscut pentru fabrica de bere Karlsberg, una dintre cele mai mari din Germania, care oferă și tururi pentru vizitatori. Un punct de atracție major sunt peșterile Schlossberg (Schlossberghöhlen), cele mai mari peșteri de gresie colorată din Europa, create de mâna omului. Ruinele cetății Hohenburg de pe dealul Schlossberg oferă o priveliște panoramică asupra orașului. Homburg este, de asemenea, un centru medical important, găzduind spitalul universitar al landului Saarland. Istorie K8 — Minerit și peșteri artificiale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Homburg, Saarland'ın doğusunda, ormanlık tepelerin arasında yer alan ve zengin bir tarihe sahip olan önemli bir merkezdir. Şehrin en büyük turistik özelliği, Avrupa'nın en büyük kumtaşı mağaraları olan Schlossberg-Höhlen'dir; bu yer altı labirentleri ziyaretçilere büyüleyici bir deneyim sunar. Homburg aynı zamanda, bölgenin en büyük sağlık komplekslerinden biri olan Saarland Üniversitesi Kliniği'ne ev sahipliği yapmasıyla da bilinir. Tarihi Schwarzenacker Roma Müzesi, bölgedeki antik Roma yerleşimine dair eşsiz kalıntılar ve açık hava sergileri sunarak tarih meraklılarını geçmişe götürür. Şehir merkezi, barok ve modern mimarinin bir karışımını sunar ve Schlossberg tepesinden şehre bakıldığında harika bir manzara eşlik eder. Sanayi, eğitim ve tarihin iç içe geçtiği Homburg, hem bir ticaret merkezi hem de dinlendirici doğa rotalarının başlangıç noktasıdır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -17229,7 +18048,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Schlossberg-Höhlen", "Saarland Üniversitesi Kliniği", "Römermuseum Schwarzenacker", "Saar-Pfalz"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Homburg = ?",
       "hu": "2 fa + 3 fa Homburg területén = ?",
@@ -17390,7 +18210,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schlossberg Mağaraları", "text": "Etkileyici sarı ve kırmızı kaya oluşumlarına sahip, Avrupa'nın en büyük kumtaşı mağaraları.", "category": "landmark" },
+        { "name": "Hohenburg Harabeleri", "text": "Schlossberg üzerindeki ortaçağ kalesinin kalıntıları, bölge üzerinde geniş bir manzara sunar.", "category": "castle" },
+        { "name": "Schwarzenacker Roma Müzesi", "text": "Yeniden inşa edilmiş Roma villalarını ve günlük eşyaları sergileyen önemli bir açık hava müzesi.", "category": "museum" },
+        { "name": "St. Michaels Kilisesi", "text": "Homburg merkezini şekillendiren neogotik bir yapı olan Katolik şehir kilisesi.", "category": "church" },
+        { "name": "Karlsberg Şatosu", "text": "Bir zamanlar görkemli olan Barok şatodan bugün orman içinde hala atmosferik harabeler kalmıştır.", "category": "castle" },
+        { "name": "Christian Weber Meydanı", "text": "Şehrin merkezi pazar meydanı, kafeleri ve pazarlarıyla popüler bir buluşma noktasıdır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "volklingen-extra",
@@ -17411,13 +18240,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Völklingen egy szép város.",
       "ro": "Völklingen este un oraș frumos.",
       "en": "Völklingen is a beautiful city."
-    },
+    ,
+      "tr": "Völklingen, Saar nehri kıyısında yer alan ve UNESCO Dünya Mirası listesindeki devasa demir çelik fabrikasıyla ünlü bir sanayi şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Völklingen este un oraș dominat de moștenirea sa industrială, fiind faimos pentru Uzinele Siderurgice Völklingen (Völklinger Hütte), un monument industrial masiv și singurul de acest fel din lume care a fost păstrat integral. Acest complex, un sit al Patrimoniului Mondial UNESCO, este o mărturie impresionantă a epocii fierului și oțelului. Astăzi, fosta uzină este un centru cultural vibrant, găzduind expoziții de artă, concerte și evenimente. Vizitatorii pot explora furnalele înalte și instalațiile complexe, înțelegând procesul de producție a fontei. Orașul în sine reflectă istoria sa muncitorească, oferind o perspectivă unică asupra transformării unei regiuni industriale. Industrie K8 — Patrimoniu industrial UNESCO.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Völklingen, Saarland eyaletinin en önemli endüstriyel merkezlerinden biridir ve dünya çapında Völklinger Hütte ile tanınır. Bu eski demir çelik fabrikası, bütünsel olarak korunmuş dünyadaki tek demir fabrikası olduğu için UNESCO Dünya Mirası listesine alınmıştır; günümüzde ise devasa bir sergi alanı ve müze olarak hizmet vermektedir. Şehrin tarihi, kömür ve çelik endüstrisinin gelişimiyle şekillenmiş, bu durum mimari yapısına ve sosyal dokusuna da yansımıştır. Saar nehrinin kıyısında konumlanmış olan Völklingen, endüstriyel mirasın yanı sıra çevresindeki yeşil alanlar ve nehir boyu yürüyüş parkurlarıyla da çeşitlilik sunar. Şehrin merkezinde yer alan tarihi binalar, eski işçi mahalleleri ve modern yapılar, sanayi devriminden günümüze uzanan bir köprü gibidir. Sanat projeleri, devasa makine salonlarındaki konserler ve endüstriyel arkeoloji tutkunları için Völklingen, Avrupa'nın en etkileyici noktalarından biri olarak kabul edilir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -17443,7 +18274,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Völklinger Hütte", "UNESCO Dünya Mirası", "Saar Nehri", "Çelik Endüstrisi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Völklingen = ?",
       "hu": "2 fa + 3 fa Völklingen területén = ?",
@@ -17604,7 +18436,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "medium"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Völklinger Hütte", "text": "UNESCO Dünya Mirası, eşsiz bir endüstriyel anıt ve devasa bir açık hava müzesidir.", "category": "industry" },
+        { "name": "Versöhnung Kilisesi", "text": "Protestan kilisesi, görkemli mimarisi ve anıtsal duruşuyla hayranlık uyandırır.", "category": "church" },
+        { "name": "Eski Belediye Binası", "text": "Şehir merkezindeki tarihi yapı, bugün etkinlik mekanı ve sergiler için kullanılmaktadır.", "category": "landmark" },
+        { "name": "Zanaatkarlar Çeşmesi", "text": "Yaya bölgesindeki bu çeşme, bölgenin çeşitli geleneksel mesleklerini temsil eder.", "category": "landmark" },
+        { "name": "Völklingen Şehir Banyosu", "text": "Şehir tarihinin bir anıtı kabul edilen, mimari çekiciliğe sahip tarihi bir yüzme havuzu.", "category": "landmark" },
+        { "name": "Dünya Mirası Parkı", "text": "Hütte çevresindeki, doğa ve endüstri kültürünü birleştiren geniş park alanı.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "st-wendel-extra",
@@ -17625,13 +18466,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "St. Wendel egy szép város.",
       "ro": "St. Wendel este un oraș frumos.",
       "en": "St. Wendel is a beautiful city."
-    },
+    ,
+      "tr": "St. Wendel, Saarland'da bulunan, Wendalinus-Basilika ve zengin kültürel festivalleriyle bilinen tarihi bir hac ve ticaret şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Sankt Wendel, un oraș pitoresc din Saarland, este numit după Sfântul Wendelin, un sfânt patron al păstorilor. Bazilica gotică târzie, care adăpostește mormântul sfântului, este centrul spiritual și arhitectural al orașului și un important loc de pelerinaj. Centrul vechi este plin de farmec, cu clădiri medievale și piețe animate. Orașul este, de asemenea, cunoscut ca un centru pentru ciclism, găzduind frecvent competiții internaționale de mountain bike și ciclocros. Drumul Sculpturilor (Straße der Skulpturen), care leagă St. Wendel de Lacul Bostal, este o galerie de artă în aer liber. Istorie K7 — Pelerinaje și artă gotică.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "St. Wendel, Saarland'ın kuzeyinde, Blies nehri vadisinde yer alan, huzurlu ve estetik bir şehirdir. Şehir adını, buraya yerleşen ve mezarı şehrin simgesi olan görkemli Wendalinus-Basilika içinde bulunan Aziz Wendalinus'tan almıştır; bu kilise Gotik mimarinin bölgedeki en güzel örneklerinden biridir. St. Wendel, sadece bir hac merkezi değil, aynı zamanda uluslararası düzeyde tanınan spor etkinliklerine ve geleneksel Noel pazarlarına ev sahipliği yapmasıyla da bilinir. Şehrin dar sokaklarında yer alan özenle restore edilmiş yarı ahşap (Fachwerk) evler, tarihi atmosferi korumaktadır. Modern bir ticaret ve yönetim merkezi olmasının yanı sıra, 'Heykel Yolu' (Strasse der Skulpturen) gibi sanatsal projelerle de dikkat çeker. Doğayla iç içe olan konumu, çevresindeki ormanlık alanlar ve bisiklet yolları, şehri hem kültürel hem de sportif aktiviteler için ideal bir destinasyon haline getirir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -17657,7 +18500,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Wendalinus-Basilika", "Hac Şehri", "Strasse der Skulpturen", "Saarland"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in St. Wendel = ?",
       "hu": "2 fa + 3 fa St. Wendel területén = ?",
@@ -17794,7 +18638,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Wendelinus Bazilikası", "text": "Aziz Wendelin'in kemiklerini barındıran 14. yüzyıldan kalma kilise, önemli bir hac yeridir.", "category": "church" },
+        { "name": "St. Wendel Misyoner Evi", "text": "Etkileyici manastır binası, bir etnografya müzesi ve görülmeye değer bir kilise barındırır.", "category": "monastery" },
+        { "name": "Meyve Pazarı", "text": "Bazilikanın önündeki tarihi meydan, eski şehrin kalbidir ve kafelerle çevrilidir.", "category": "historic square" },
+        { "name": "Mia-Münster-Haus", "text": "Bu kültür merkezi, şehir tarihi sergileri ve Mia Münster'in eserlerini barındıran bir müzedir.", "category": "museum" },
+        { "name": "Wendel Şapeli", "text": "Bosenberg'in eteğindeki küçük şapel, Aziz Wendelin'in münzevi olarak yaşadığı yeri işaret eder.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "merzig-extra",
@@ -17815,13 +18667,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Merzig egy szép város.",
       "ro": "Merzig este un oraș frumos.",
       "en": "Merzig is a beautiful city."
-    },
+    ,
+      "tr": "Merzig, Saar nehri kıyısında yer alan, 'Kurt Şehri' olarak bilinen ve elma şarabı geleneğiyle tanınan yeşil bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Merzig, 'orașul lupilor', este situat pe râul Saar și este cunoscut pentru parcul de lupi Werner Freund (Wolfspark Werner Freund), unde vizitatorii pot observa lupi în semi-libertate. Orașul este, de asemenea, un 'oraș verde', cu numeroase parcuri și grădini, cum ar fi Grădina Sănătății (Garten der Sinne). Biserica romanică Sf. Petru este una dintre cele mai vechi clădiri din regiune. Merzig este un centru pentru producția de 'Viez', un tip de cidru de mere tradițional. Economia locală este diversificată, incluzând producția de plăci ceramice Villeroy & Boch. Poziția sa în 'Triunghiul Saar-Lor-Lux' îi conferă o importanță transfrontalieră. Natură K5 — Animale sălbatice din Europa.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Merzig, Saarland eyaletinin kuzeybatısında, Saar nehrinin kıyısında ve ünlü 'Saar Loop' (Saar-Schleife) yakınlarında yer alan büyüleyici bir yerleşimdir. Şehir, Werner Freund tarafından kurulan ve dünyanın dört bir yanından gelen kurt sürülerine ev sahipliği yapan Kurt Parkı (Wolfspark Werner Freund) nedeniyle 'Kurt Şehri' lakabıyla tanınır. Merzig aynı zamanda bölgenin önemli bir elma yetiştiriciliği merkezi olup, geleneksel elma şarabı olan 'Viez' ile ünlüdür; her yıl düzenlenen Viezfest bu kültürü kutlar. Tarihi St. Peter Kilisesi, Romanesk mimarisiyle şehrin en önemli dini yapısıdır. Merzig, zengin bir kültürel hayata sahip olup, eski bir tuz fabrikasından dönüştürülen 'Zeltpalast' gibi mekanlarda tiyatro ve müzik etkinlikleri düzenlenir. Şehir, Saar nehrinin sunduğu su sporları imkanları ve çevresindeki meyve bahçeleriyle hem doğa hem de kültür meraklıları için huzurlu ve ilgi çekici bir atmosfer sunmaktadır. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -17847,7 +18701,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Wolfspark Werner Freund", "Viez (Elma Şarabı)", "St. Peter Kilisesi", "Saar Nehri"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Merzig = ?",
       "hu": "2 fa + 3 fa Merzig területén = ?",
@@ -17984,7 +18839,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Wolfspark Werner Freund", "text": "Dünyaca ünlü park, çeşitli kurt sürülerinin doğaya yakın koşullarda büyük barınaklarda yaşadığı bir yer.", "category": "animal-habitat" },
+        { "name": "St. Peter", "text": "Saarland'da günümüze ulaşan tek Romanesk kilise, etkileyici mimarisi ve Barok iç dekorasyonu ile tanınır.", "category": "church" },
+        { "name": "Feinmechanisches Museum Fellenbergmühle", "text": "Tarihi bir değirmende yer alan bu müze, çalışan makinelerle hassas mekaniğin tarihini sergiliyor.", "category": "museum" },
+        { "name": "Tarihi Belediye Binası", "text": "Eskiden elektör sarayı olan bina bugün belediye binası olarak hizmet veriyor ve şehir merkezinde barok bir yapıdır.", "category": "town hall" },
+        { "name": "Duyular Bahçesi", "text": "Kreuzberg'de bulunan ve tüm insan duyularına hitap etmeyi amaçlayan çeşitli bahçe bölümleri sunan bir tematik park.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "dillingen-extra",
@@ -18005,13 +18868,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Dillingen egy szép város.",
       "ro": "Dillingen este un oraș frumos.",
       "en": "Dillingen is a beautiful city."
-    },
+    ,
+      "tr": "Dillingen, Saarland'da bulunan, Avrupa'nın en önemli çelik üretim tesislerinden birine ev sahipliği yapan sanayi odaklı bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Dillingen/Saar este un oraș industrial cu o istorie lungă în producția de oțel. Uzinele siderurgice (Dillinger Hütte), fondate în 1685, sunt cele mai vechi în funcțiune din Germania și un pilon al economiei locale. Orașul este un exemplu de simbioză între industrie și viața urbană. Castelul Dillingen, o clădire renascentistă, servește astăzi ca primărie și centru cultural. 'Lokschuppen', un depou de locomotive restaurat, este acum o sală de evenimente impresionantă. Portul de pe râul Saar subliniază importanța logistică a orașului. Dillingen este un exemplu viu al istoriei industriale a regiunii Saar. Industrie K9 — Istoria oțelului.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Dillingen (Saar), Almanya'nın güneybatısında, Saarland eyaletinde yer alan ve köklü bir sanayi geleneğine sahip olan stratejik bir şehirdir. Şehrin kaderi, Avrupa'nın en eski ve en önemli ağır sanayi tesislerinden biri olan 'Dillinger Hütte' çelik fabrikasıyla sıkı sıkıya bağlıdır. Bu devasa tesis, şehre ekonomik canlılık kazandırmış ve sosyal yapısını şekillendirmiştir. Bununla birlikte Dillingen, sadece fabrikalardan ibaret değildir; tarihi 15. yüzyıla kadar uzanan Eski Şato (Altes Schloss), şehrin orta çağ kökenlerini temsil eden önemli bir simgedir. Saar nehri kıyısındaki konumu, şehre hem ulaşım avantajı hem de dinlenme alanları sağlar. Şehir merkezi, modern alışveriş imkanları ve kültürel etkinliklerle canlı bir atmosfere sahiptir. Endüstriyel gücünü tarihi dokusuyla birleştiren Dillingen, Saar bölgesinin gelişimindeki kilit noktalarından biri olmayı sürdürmektedir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -18037,7 +18902,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Dillinger Hütte", "Altes Schloss", "Saarland", "Ağır Sanayi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Dillingen = ?",
       "hu": "2 fa + 3 fa Dillingen területén = ?",
@@ -18174,7 +19040,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Saardom", "text": "Kutsal Ayin Kilisesi, Saarland'ın en büyük dini yapılarından biridir ve büyüklüğü nedeniyle halk arasında Saardom olarak anılır.", "category": "church" },
+        { "name": "Eski Kale", "text": "16. yüzyılda inşa edilen kale bugün kültürel kurumlara ev sahipliği yapar ve küçük bir parkla çevrilidir.", "category": "castle" },
+        { "name": "Ökosee Dillingen", "text": "Yürüyüşçüler ve kuş gözlemcileri için biyotop ve dinlenme alanı olarak hizmet veren yapay bir göl.", "category": "lake" },
+        { "name": "Dillinger Hütte", "text": "Geleneksel çelik fabrikası şehir siluetini belirler ve bölgenin en önemli sanayi kuruluşlarından biridir.", "category": "industry" },
+        { "name": "Odilienkapelle", "text": "Pachtenberg üzerinde bulunan, Azize Odilia'ya adanmış tarihi bir şapel olup geniş bir manzara sunar.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "lebach-extra",
@@ -18195,13 +19069,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Lebach egy szép város.",
       "ro": "Lebach este un oraș frumos.",
       "en": "Lebach is a beautiful city."
-    },
+    ,
+      "tr": "Lebach, Saarland'ın coğrafi merkezi olarak kabul edilen, askeri ve ticari önemi olan yeşil bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Lebach este situat în inima geografică a landului Saarland, ceea ce i-a conferit porecla 'inima verde a Saarlandului'. Orașul este un centru militar important, găzduind o garnizoană a Bundeswehr. Din punct de vedere istoric, este cunoscut pentru 'Crimele din Lebach' din 1969, un caz care a șocat Germania și a dus la o decizie importantă a Curții Constituționale privind libertatea presei. Kaltenstein, o formațiune de rocă vulcanică, este un monument natural și un punct de belvedere. 'Grüne Woche', un festival anual, este cel mai mare eveniment de acest gen din sud-vestul Germaniei. Istorie K9 — Istorie recentă și media.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Lebach, Saarland eyaletinin tam coğrafi merkezinde yer alan, stratejik konumu ve köklü ticaret gelenekleriyle bilinen bir şehirdir. Şehir, yüzyıllardır düzenlenen ve bölgenin en büyük geleneksel etkinliklerinden biri olan Lebacher Pferdemarkt (At Pazarı) ile ün kazanmıştır. Aynı zamanda önemli bir askeri üst olan Lebach, Bundeswehr birliklerine ev sahipliği yapmasıyla da tanınır. Şehrin etrafını saran yeşil tepeler ve ormanlık alanlar, doğa yürüyüşleri ve dinlenme için mükemmel fırsatlar sunar. Tarihi yapılar arasında yer alan ve şehre tepeden bakan 'Kaltenstein' gibi bölgeler, yerel efsanelere ve tarihe tanıklık eder. Lebach'ın şehir merkezi, modern altyapısı ve eğitim kurumlarıyla canlı bir sosyal hayata sahiptir. Saarland'ın 'yeşil kalbi' olarak da anılan şehir, hem ulaşım kolaylığı hem de sunduğu yüksek yaşam kalitesiyle bölge sakinleri ve ziyaretçiler için önemli bir merkez niteliğindedir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -18227,7 +19103,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Saarland'ın Merkezi", "Lebacher Pferdemarkt", "Bundeswehr Üssü", "Yeşil Doğa"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Lebach = ?",
       "hu": "2 fa + 3 fa Lebach területén = ?",
@@ -18364,7 +19241,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss La Motte", "text": "Orta Çağ'dan kalma bir su kalesinin kalıntıları üzerine inşa edilmiş barok bir malikane, bugün oteldir.", "category": "castle" },
+        { "name": "Hl. Dreifaltigkeit Bölge Kilisesi", "text": "Şehrin göze çarpan kulesine sahip ana Katolik kilisesi, Lebach şehir merkezinde merkezi bir tarihi anıttır.", "category": "church" },
+        { "name": "Asya Bahçesi", "text": "Uzak Doğu havasıyla sevgiyle tasarlanmış, dinlenme ve meditasyon yapmaya davet eden bir bahçe.", "category": "park" },
+        { "name": "Lebach Yumurtaları", "text": "Yerel kaya katmanlarında bulunan ve fosil hazineler barındıran dünya çapında tanınan siderit nodülleri.", "category": "landmark" },
+        { "name": "Kaltenstein", "text": "Lebach yakınlarındaki ormanlık alanda, doğa anıtı ve popüler bir yürüyüş hedefi olan belirgin bir kaya oluşumu.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "suhl-extra",
@@ -18385,13 +19270,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Suhl egy szép város.",
       "ro": "Suhl este un oraș frumos.",
       "en": "Suhl is a beautiful city."
-    },
+    ,
+      "tr": "Suhl, Thüringen Ormanı'nın kalbinde yer alan, tarihi silah üretimi ve motosiklet müzesiyle ünlü bir dağ şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Suhl, un oraș situat în inima Pădurii Turingiei, este renumit de secole pentru producția de arme de foc. Supranumit 'Waffenstadt' (orașul armelor), are o tradiție neîntreruptă în armurieri din secolul al XVI-lea. Muzeul Armelor (Waffenmuseum) din centrul orașului prezintă această istorie bogată. Pe lângă aceasta, Suhl este un centru pentru sporturile de iarnă, având facilități pentru biatlon și sărituri cu schiurile. Clădirile din perioada RDG, cum ar fi fostul hotel 'Merkur', definesc o parte a peisajului urban. Datorită locației sale, este un punct de plecare popular pentru drumeții în Pădurea Turingiei. Industrie K8 — Meșteșuguri specializate.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Suhl, Almanya'nın Thüringen eyaletinde, Thüringer Wald (Thüringen Ormanı) sıradağlarının eteğinde konumlanmış, köklü bir zanaat ve sanayi geleneğine sahip bir şehirdir. Yüzyıllar boyunca Avrupa'nın en önemli av ve spor silahları üretim merkezlerinden biri olduğu için 'Waffenstadt' (Silah Şehri) lakabıyla anılır; bu miras günümüzde Silah Müzesi'nde sergilenmektedir. Ayrıca, efsanevi Simson motosikletlerinin üretildiği yer olarak teknoloji ve motor sporları meraklıları için özel bir yere sahiptir. Şehrin mimari dokusu, Thüringen bölgesine özgü dağ kasabası estetiği ile sanayi döneminin izlerini birleştirir. Herbert Roth gibi ünlü sanatçıların memleketi olan Suhl, kültürel açıdan da bölgenin önemli bir durağıdır. Çevresini saran uçsuz bucaksız ormanlar, kış sporları, doğa yürüyüşleri ve bisiklet turları için ideal bir ortam sunar. Suhl, hem teknik tarihi hem de doğal güzellikleriyle ziyaretçilerine çok yönlü bir deneyim vaat etmektedir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -18417,7 +19304,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Thüringer Wald", "Silah Üretim Tarihi", "Simson Motosikletleri", "Av ve Spor Silahları"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Suhl = ?",
       "hu": "2 fa + 3 fa Suhl területén = ?",
@@ -18578,7 +19466,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Waffenmuseum Suhl", "text": "Tarihi Malzhaus topluluğunda bulunan, Suhl el ateşli silahlar tarihine dair uluslararası düzeyde önemli uzmanlık müzesi.", "category": "museum" },
+        { "name": "Fahrzeugmuseum Suhl", "text": "Simson iki tekerleklilerden yerel üretim tarihi yarış arabalarına kadar araç üretim tarihini sunar.", "category": "museum" },
+        { "name": "St. Marien Ana Kilisesi", "text": "Geç Barok tarzındaki şehir kilisesi, Thüringen'in en büyük Rokoko kilisesidir ve değerli bir org barındırır.", "category": "church" },
+        { "name": "Bismarck Kulesi ile Domberg", "text": "Suhl'un yerel dağı, seyir kulesinden Thüringer Ormanı ve şehir bölgesi üzerine geniş panoramik bir manzara sunar.", "category": "landmark" },
+        { "name": "Suhl Belediye Binası", "text": "Pazar meydanında bulunan ve eski silah şehrinin tarihi merkezini simgeleyen görkemli bir Yeni Rönesans yapısı.", "category": "landmark" },
+        { "name": "Tierpark Suhl", "text": "İdil bir ormanlık alanda yer alan hayvanat bahçesi, özellikle yerli türleri ve nadir evcil hayvan ırklarını gösterir.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "muhlhausen-extra",
@@ -18599,13 +19496,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Mühlhausen egy szép város.",
       "ro": "Mühlhausen este un oraș frumos.",
       "en": "Mühlhausen is a beautiful city."
-    },
+    ,
+      "tr": "Mühlhausen, Thüringen'de bulunan, korunmuş şehir surları, Thomas Müntzer'in mirası ve pek çok tarihi kulesiyle tanınan bir Orta Çağ şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Mühlhausen, un oraș istoric din Turingia, se mândrește cu unul dintre cele mai mari centre medievale din Germania. Zidurile de apărare ale orașului, cu numeroasele lor turnuri, sunt remarcabil de bine conservate. Biserica Sf. Maria (Marienkirche), unde a activat ca organist compozitorul Johann Sebastian Bach, este un important monument gotic. Orașul a fost, de asemenea, un centru al Războiului Țărănesc German, condus de reformatorul radical Thomas Müntzer. În fiecare an, festivalul 'Mühlhäuser Kirmes' este cel mai mare târg de oraș din Germania. Istorie K7 — Orașe medievale și Reforma.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Mühlhausen, Almanya'nın kalbinde yer alan, zengin Orta Çağ dokusunu günümüze kadar başarıyla taşımış etkileyici bir şehirdir. Şehir, 'Kuleler Şehri' lakabını hak eden çok sayıda kilise kulesi ve neredeyse tamamen korunmuş olan görkemli şehir surlarıyla ziyaretçilerini büyülemektedir. Alman Köylü Savaşı'nın önderi Thomas Müntzer'in faaliyet gösterdiği yer olması, şehre önemli bir tarihi derinlik katar; Müntzer'in vaaz verdiği Marienkirche, Thüringen'in en büyük kiliselerinden biridir. Ayrıca Johann Sebastian Bach'ın bir dönem orgcu olarak görev yaptığı Mühlhausen, müzik tarihi açısından da seçkin bir konuma sahiptir. Şehrin labirenti andıran dar sokakları, restore edilmiş yarı ahşap evleri ve tarihi kapıları, Orta Çağ atmosferini her adımda hissettirir. Hem devrimci tarihi hem de estetik mimarisiyle Mühlhausen, Thüringen'in en önemli kültürel ve turistik merkezlerinden biri olarak kabul edilir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -18631,7 +19530,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Thomas Müntzer", "Orta Çağ Şehir Surları", "Johann Sebastian Bach", "Marienkirche"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Mühlhausen = ?",
       "hu": "2 fa + 3 fa Mühlhausen területén = ?",
@@ -18792,7 +19692,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Marienkirche", "text": "Gotik salon kilisesi, Erfurt Katedrali'nden sonra Thüringen'in en büyük ikinci dini yapısı ve Thomas Müntzer'in görev yeridir.", "category": "church" },
+        { "name": "Divi-Blasii-Kirche", "text": "Johann Sebastian Bach'ın görev yaptığı yer olup mimarisi ve Bach'ın planlarına göre restore edilen orgu ile tanınır.", "category": "church" },
+        { "name": "Orta Çağ Şehir Suru", "text": "Yürünebilir bölümleri, savunma kuleleri ve etkileyici Frauentor kapısı ile neredeyse tamamen korunmuş bir savunma sistemi.", "category": "landmark" },
+        { "name": "Mühlhausen Belediye Binası", "text": "Yüzyıllar boyunca büyümüş, etkileyici portallara ve tarihi arşive sahip geniş bir bina kompleksi.", "category": "landmark" },
+        { "name": "Bauernkriegsmuseum Kornmarktkirche", "text": "Eski Kornmarktkirche'de yer alan ve 1525 Köylü Savaşı olaylarını belgeleyen müze.", "category": "museum" },
+        { "name": "Popperöder Brunnenhaus", "text": "Şehrin en önemli kaynaklarından birinin üzerinde bulunan, 17. yüzyıldan kalma pitoresk bir ahşap karkas yapı.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "nordhausen-extra",
@@ -18813,13 +19722,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Nordhausen egy szép város.",
       "ro": "Nordhausen este un oraș frumos.",
       "en": "Nordhausen is a beautiful city."
-    },
+    ,
+      "tr": "Nordhausen, Harz dağlarının güney kapısı olarak bilinen, tarihi Roland heykeli ve dünyaca ünlü Korn içkisiyle tanınan bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Nordhausen, situat la poalele sudice ale munților Harz, este un oraș cu o istorie complexă. Este cunoscut pentru producția de băuturi spirtoase, în special 'Nordhäuser Doppelkorn', o tradiție de peste 500 de ani. Istoria sa este însă marcată și de perioade întunecate; în apropiere se afla lagărul de concentrare Mittelbau-Dora, unde prizonierii produceau rachete V2 în condiții inumane. Astăzi, un memorial comemorează victimele. Orașul vechi, parțial distrus în 1945, a fost reconstruit și păstrează clădiri istorice precum Catedrala Sf. Cruce. Calea ferată cu ecartament îngust din Harz (Harzer Schmalspurbahnen) leagă orașul de peisajele montane. Istorie K9 — Al Doilea Război Mondial și memoria sa.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Nordhausen, Thüringen eyaletinin kuzeyinde, Harz Dağları'nın güney eteklerinde yer alan ve bin yılı aşkın bir tarihe sahip olan kadim bir şehirdir. Şehrin simgesi olan Roland heykeli, Orta Çağ'dan kalma özgürlük ve yargı yetkisinin bir sembolü olarak belediye binasının önünde yükselir. Nordhausen aynı zamanda 16. yüzyıldan beri üretilen ve 'Nordhäuser Doppelkorn' markasıyla dünya çapında ün kazanan tahıl içkisi (Korn) geleneğiyle tanınır. Şehrin tarihi, İkinci Dünya Savaşı sırasındaki ağır yıkım ve ardından gelen yeniden inşa süreciyle şekillenmiş, bu durum eski ve modern mimarinin bir arada bulunmasına yol açmıştır. Yakınlardaki KZ Mittelbau-Dora anıtı, bölgenin karanlık dönemine dair önemli bir hatırlatıcıdır. Harz Dar Hat Demiryolu'nun (Harzer Schmalspurbahnen) başlangıç noktalarından biri olması, şehri doğa tutkunları ve nostaljik tren meraklıları için stratejik bir durak haline getirir. Coğrafya K7 — Nehirler ve Şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -18845,7 +19756,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Roland Heykeli", "Nordhäuser Doppelkorn", "Harz Dağları Kapısı", "Mittelbau-Dora"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Nordhausen = ?",
       "hu": "2 fa + 3 fa Nordhausen területén = ?",
@@ -19006,7 +19918,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Nordhäuser Roland", "text": "Belediye binasındaki heybetli ahşap heykel, şehrin simgesi ve kentsel özgürlük ile adaletin sembolüdür.", "category": "landmark" },
+        { "name": "Dom St. Marien", "text": "Şehir merkezinde değerli donanımı ve Romanesk kriptası olan önemli bir geç Gotik salon kilisesi.", "category": "church" },
+        { "name": "Echter Nordhäuser Traditionsbrennerei", "text": "Nordhausen tahıl içkisinin 500 yıllık tarihine ışık tutan müze ve yaşayan üretim tesisi.", "category": "museum" },
+        { "name": "Gedenkstätte Mittelbau-Dora", "text": "Eski toplama kampı ve yer altı tünellerindeki Nazi silah üretim kurbanları için bir anıt merkezi.", "category": "museum" },
+        { "name": "Flohburg", "text": "İnteraktif bir sergi ile Nordhausen'in olaylı şehir tarihini sunan tarihi müze binası.", "category": "museum" },
+        { "name": "Petriturm ile Petersberg", "text": "St. Petri Kilisesi'nin seyir noktası olarak korunan kulesiyle eski Eyalet Bahçe Sergisi alanı.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "altenburg-extra",
@@ -19027,13 +19948,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Altenburg egy szép város.",
       "ro": "Altenburg este un oraș frumos.",
       "en": "Altenburg is a beautiful city."
-    },
+    ,
+      "tr": "Altenburg, Thüringen eyaletinde yer alan, bin yılı aşkın tarihi ve dünyaca ünlü Skat iskambil oyununun doğum yeri olmasıyla tanınan köklü bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Altenburg, un oraș de peste o mie de ani în Turingia, este considerat leagănul jocului de cărți Skat. Muzeul Cărților de Joc, situat în castelul rezidențial, prezintă această istorie fascinantă. Castelul însuși, cu turnurile sale impunătoare, domină orașul și a fost reședința ducilor de Saxa-Altenburg. Teatrul de stat, o clădire splendidă în stil neo-baroc, este un alt punct de atracție culturală. Centrul istoric este bine conservat, cu clădiri renascentiste și o primărie impunătoare. Grădina Botanică și muzeul de istorie naturală Mauritianum completează oferta culturală a orașului. Cultură K6 — Jocuri și tradiții.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Altenburg'un silüetini, şehre tepeden bakan ve bir kaya kütlesi üzerine inşa edilmiş olan görkemli Residenzschloss kalesi belirler. Bu kale, yüzyıllar boyunca bölgenin yönetim merkezi olmuş ve bugün geniş müze koleksiyonlarıyla ziyaretçileri ağırlamaktadır. Orta Çağ'dan kalma dar sokakları ve iyi korunmuş mimari dokusu, tarih meraklılarını adeta bir zaman yolculuğuna çıkarır. Şehir aynı zamanda kültürel açıdan da son derece zengindir; Lindenau Müzesi, dünyanın en önemli İtalyan panel resimleri koleksiyonlarından birine ev sahipliği yapar. Pazar meydanı, muazzam tarihi belediye binası ile birlikte Almanya'nın en etkileyici meydanlarından biri olarak kabul edilir. Skat oyunu, 19. yüzyılın başlarında burada geliştirilmiştir ve şehrin kültürel kimliğinin en önemli parçasıdır. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -19059,7 +19982,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Residenzschloss kalesi", "Skat oyunu kökeni", "Thüringen eyaleti", "Bin yıllık tarih"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Altenburg = ?",
       "hu": "2 fa + 3 fa Altenburg területén = ?",
@@ -19220,7 +20144,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Residenzschloss Altenburg", "text": "Görkemli kale kompleksi Sachsen-Altenburg düklerinin ikametgahıydı ve Skat oyununun doğduğu yerdir.", "category": "castle" },
+        { "name": "Spielkartenmuseum", "text": "Türünün dünyadaki en eski müzesi olan ve kalede bulunan, devasa bir tarihi oyun kartı koleksiyonuna sahip müze.", "category": "museum" },
+        { "name": "Lindenau-Museum", "text": "Erken İtalyan panel resimlerinden oluşan olağanüstü koleksiyonuyla Thüringen'in en önemli sanat müzelerinden biri.", "category": "museum" },
+        { "name": "Rote Spitzen", "text": "Göze çarpan iki tuğla kule, eski bir Augustinus manastırının kalıntıları ve şehrin simgesidir.", "category": "landmark" },
+        { "name": "Altenburg Belediye Binası", "text": "Pazar meydanında görkemli cephesiyle Almanya'nın en önemli Rönesans binalarından biri.", "category": "landmark" },
+        { "name": "Inselzoo Altenburg", "text": "Büyük Göletteki bir adada idilik bir konumda bulunan ve özellikle aileler arasında popüler olan küçük bir park.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "sondershausen-extra",
@@ -19241,13 +20174,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Sondershausen egy szép város.",
       "ro": "Sondershausen este un oraș frumos.",
       "en": "Sondershausen is a beautiful city."
-    },
+    ,
+      "tr": "Sondershausen, Thüringen eyaletinin kuzeyinde bulunan, dünyanın en eski gezilebilir potas madeni ve köklü müzik geleneği ile öne çıkan bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Sondershausen, situat în nordul Turingiei, este un oraș al muzicii și al mineritului de potasiu. Castelul rezidențial, o combinație de stiluri arhitecturale, a fost reședința prinților de Schwarzburg-Sondershausen și găzduiește un muzeu cu colecții unice, inclusiv o 'trăsură de aur'. Orașul este renumit pentru orchestra sa, Loh-Orchester Sondershausen, cu o istorie de peste 400 de ani. O atracție unică este mina de potasiu vizitabilă (Erlebnisbergwerk), unde vizitatorii pot coborî la 700 de metri sub pământ și pot explora o lume de sare, inclusiv o sală de concerte subterană. Geografie K8 — Minerit și resurse naturale.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, yaklaşık 700 metre derinlikteki dünyanın en eski ve en derin gezilebilir potas madeni ocaklarından birine ev sahipliği yapar; bu yeraltı dünyası günümüzde hem müze hem de etkinlik alanı olarak hizmet verir. Sondershausen Şatosu, geniş barok mimarisi ve muazzam peyzajlı parkıyla şehrin kültürel ve tarihi merkezini oluşturur. Şehre 'Müzik Şehri' unvanını kazandıran 'Loh-Orchester' orkestrasının mirası, bugün de konserlerle yaşatılmaktadır. Kyffhäuser Dağları'nın güney eteklerinde yer alan bu yerleşim, doğa yürüyüşleri ve tarihi keşif turları için ideal bir başlangıç noktasıdır. Şehir merkezi, restore edilmiş binaları ve sakin atmosferiyle klasik bir Alman yerleşiminin tüm güzelliğini sunar. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -19273,7 +20208,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Derin tuz madeni", "Müzik şehri unvanı", "Sondershausen Şatosu", "Kyffhäuser bölgesi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Sondershausen = ?",
       "hu": "2 fa + 3 fa Sondershausen területén = ?",
@@ -19416,7 +20352,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Residenzschloss Sondershausen", "text": "Rönesans'tan Rokoko'ya kadar stiller barındıran görkemli bir kale ve ünlü bir Altın Araba.", "category": "Castles & palaces" },
+        { "name": "Erlebnisbergwerk Glückauf", "text": "Dünyanın en eski potas madenlerinden biri, 700 metre derinlikte turlar ve yer altı konser merkezi sunar.", "category": "Local industry heritage" },
+        { "name": "St. Trinitatis Şehir Kilisesi", "text": "Şehrin ana Protestan kilisesi, Barok donanımı ve prens ailesinin kriptası ile etkileyicidir.", "category": "Churches & monasteries" },
+        { "name": "Loh-Orchester", "text": "Thüringen hanedanının müzik tarihiyle yakından bağlantılı, gelenek açısından zengin bir senfoni orkestrası.", "category": "Museums" },
+        { "name": "Jagdschloss zum Possen", "text": "Almanya'nın en yüksek ahşap karkas kulesine ve Kyffhäuserland'da geniş bir vahşi yaşam parkına sahip popüler bir yer.", "category": "Castles & palaces" },
+        { "name": "Cruciskirche", "text": "Şehrin en eski binası bugün halk merkezi olarak hizmet vermekte ve geç Gotik mimarisiyle etkilemektedir.", "category": "Churches & monasteries" }
+      ]
+    }
   },
   {
     "id": "apolda-extra",
@@ -19437,13 +20382,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Apolda egy szép város.",
       "ro": "Apolda este un oraș frumos.",
       "en": "Apolda is a beautiful city."
-    },
+    ,
+      "tr": "Apolda, Thüringen eyaletinde yer alan, geleneksel çan dökümcülüğü sanatı ve tekstil endüstrisindeki tarihi başarılarıyla tanınan bir kültür merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Apolda este un oraș din Turingia cunoscut pentru două tradiții distincte: tricotajele și clopotele. Timp de secole, a fost un centru major al industriei textile, în special pentru ciorapi și tricotaje, o moștenire explorată în muzeul local. În același timp, Apolda a fost un centru renumit pentru turnarea clopotelor; clopote din Apolda pot fi găsite în catedrale din întreaga lume, inclusiv la Köln. Kunsthaus Apolda Avantgarde, o galerie de artă modernă, atrage expoziții de renume internațional. Viaductul feroviar, construit în 1846, este un monument tehnic impresionant. Orașul este un amestec de moștenire industrială și ambiție culturală. Industrie K7 — Meșteșuguri și producție.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, yüzyıllar boyunca 'Çan Şehri' (Glockenstadt) olarak ün salmış ve buradan çıkan devasa kilise çanları dünyanın dört bir yanındaki kulelere asılmıştır. Apolda Çan Müzesi, bu eşsiz zanaatın tekniklerini ve tarihini kapsamlı bir şekilde sergileyen nadir mekanlardan biridir. 19. ve 20. yüzyıllarda tekstil endüstrisinin de önemli bir merkezi haline gelen şehirde, bugün bu endüstriyel miras sanat galerileri ve kültürel etkinliklerle yaşatılmaktadır. Modern Apolda, yeşil alanları, tarihi tren istasyonu binası ve yenilikçi sanat sergileriyle ziyaretçilerine hem tarih hem de moderniteyi bir arada sunar. Şehirdeki mimari yapılar, bölgenin sanayi ve zanaat geçmişinin birer anıtı niteliğindedir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -19469,7 +20416,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Çan döküm sanatı", "Tekstil endüstrisi", "Çan Müzesi", "Tarihi tren garı"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Apolda = ?",
       "hu": "2 fa + 3 fa Apolda területén = ?",
@@ -19612,7 +20560,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Glocken- und Stadtmuseum", "text": "Apolda'daki asırlık çan döküm geleneğinin yanı sıra yerel tekstil tarihini de sunar.", "category": "Museums" },
+        { "name": "Kunsthaus Apolda Avantgarde", "text": "İki katlı bir villada değişen sergiler sunan, bölgesel düzeyde önemli bir sanat müzesi.", "category": "Museums" },
+        { "name": "Eisenbahnviadukt Apolda", "text": "Ilm vadisini görkemli kemerlerle aşan, Thüringen Demiryolu'na ait anıtsal bir tuğla yapı.", "category": "Bridges, train stations of note" },
+        { "name": "Schloss Apolda", "text": "Eski kale kompleksi bugün kültürel kurumlara ev sahipliği yapıyor ve konserler için etkinlik mekanı olarak kullanılıyor.", "category": "Castles & palaces" },
+        { "name": "Martinskirche", "text": "Romanesk kökenli Protestan şehir bölge kilisesi, belirgin kulesiyle şehir siluetini şekillendirir.", "category": "Churches & monasteries" },
+        { "name": "Paulinenpark", "text": "Eyalet Bahçe Sergisi için oluşturulmuş ve şehir merkezinde dinlenmeye davet eden geniş bir yeşil alan.", "category": "Parks, gardens, lakes nearby" }
+      ]
+    }
   },
   {
     "id": "ilmenau-extra",
@@ -19633,13 +20590,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ilmenau egy szép város.",
       "ro": "Ilmenau este un oraș frumos.",
       "en": "Ilmenau is a beautiful city."
-    },
+    ,
+      "tr": "Ilmenau, Thüringen Ormanı kıyısında kurulu olan, ünlü şair Goethe'nin mirasını taşıyan ve teknik üniversitesiyle teknolojiye yön veren bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Ilmenau, un oraș universitar situat în Pădurea Turingiei, este strâns legat de viața și opera lui Johann Wolfgang von Goethe. Poetul a vizitat frecvent orașul și a găsit inspirație în peisajele sale, scriind celebrul poem 'Wandrers Nachtlied' pe un perete al unei cabane de vânătoare de pe muntele Kickelhahn. Astăzi, Universitatea Tehnică din Ilmenau este un centru de excelență în cercetare. Orașul este un punct de plecare ideal pentru drumeții pe 'Goethewanderweg', un traseu tematic. Industria sticlei a avut, de asemenea, o lungă tradiție aici. Cultură K9 — Romantismul german și Goethe.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Ünlü Alman edebiyatçı Johann Wolfgang von Goethe'nin 28 kez ziyaret ettiği bu şehir, 'Goethe Şehri' unvanını gururla taşır ve onun izlerini taşıyan müzelerle doludur. Ilmenau Teknik Üniversitesi (TU Ilmenau), şehre genç, dinamik ve uluslararası bir atmosfer kazandırırken, aynı zamanda ileri teknoloji araştırmalarının merkezi olmasını sağlar. Kickelhahn Dağı ve çevresindeki sık ormanlar, kış sporlarından doğa yürüyüşlerine kadar geniş bir yelpazede aktivite imkanı sunar. Şehrin tarihi merkezinde yer alan 'Gabelbach' av köşkleri ve geleneksel Thüringen mimarisi, kentin estetik değerini artırır. İlmenau, doğanın huzuru ile bilimin hızını birleştiren nadir yerleşimlerden biridir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -19665,7 +20624,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Goethe Şehri", "Teknik Üniversite", "Thüringen Ormanı", "Kickelhahn zirvesi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Ilmenau = ?",
       "hu": "2 fa + 3 fa Ilmenau területén = ?",
@@ -19808,7 +20768,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Kickelhahn", "text": "Şairin 'Yolcunun Gece Şarkısı'nı yazdığı Goethe kulübesinin bulunduğu Ilmenau'nun yerel dağı.", "category": "Parks, gardens, lakes nearby" },
+        { "name": "Goethe-Stadt-Museum", "text": "Pazar meydanındaki tarihi idari binada, Goethe'nin Ilmenau'daki memur ve doğa bilimci çalışmaları belgelenir.", "category": "Museums" },
+        { "name": "Jagdhaus Gabelbach", "text": "Ormanda bulunan, bugün saray avcılığı ve Goethe'nin çalışmaları üzerine bir müzeye ev sahipliği yapan Barok bir av köşkü.", "category": "Museums" },
+        { "name": "St. Jakobus Kilisesi", "text": "Şehrin en büyük kilisesi, geç Gotik korosu ve kilise nefini oluşturan Barok yeni yapısı ile etkileyicidir.", "category": "Churches & monasteries" },
+        { "name": "Technische Universität Ilmenau", "text": "Tanınmış üniversite şehir hayatını şekillendirir ve medya teknolojisi alanındaki araştırmalarıyla tanınır.", "category": "Famous residences" },
+        { "name": "Festhalle Ilmenau", "text": "Şehrin kültürel zirveleri için en önemli etkinlik mekanı olarak hizmet veren belirgin bir Art Nouveau yapı.", "category": "Town hall & historic squares" }
+      ]
+    }
   },
   {
     "id": "schmalkalden-extra",
@@ -19829,13 +20798,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Schmalkalden egy szép város.",
       "ro": "Schmalkalden este un oraș frumos.",
       "en": "Schmalkalden is a beautiful city."
-    },
+    ,
+      "tr": "Schmalkalden, Thüringen eyaletinde bulunan, Reformasyon dönemindeki siyasi rolü ve mükemmel korunmuş tarihi yarı ahşap evleriyle ünlü bir kenttir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Schmalkalden este un oraș istoric cu un centru medieval excepțional de bine conservat, plin de case pe jumătate din lemn (Fachwerk). Orașul a jucat un rol crucial în istoria Reformei Protestante, fiind locul unde a fost formată Liga de la Schmalkalden în 1531, o alianță a principilor protestanți. Castelul Wilhelmsburg, o bijuterie a arhitecturii renascentiste, a fost construit ca reședință secundară pentru landgrafii de Hessa și este aproape neschimbat de la construcția sa. Expoziția 'Viba Nougat-Welt' oferă o incursiune dulce în lumea producției de nugat. Istorie K8 — Reforma Protestantă.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, 16. yüzyılda Protestan prenslerin kurduğu Schmalkalden Birliği'ne ismini vererek Avrupa tarihinin akışını değiştiren önemli olaylara sahne olmuştur. Wilhelmsburg Şatosu, Rönesans döneminin en iyi korunmuş saray yapılarından biri olarak kabul edilir ve içerisindeki duvar resimleriyle ziyaretçileri büyüler. Şehir merkezinde yer alan rengarenk yarı ahşap (Fachwerk) binalar, bölgenin mimari zenginliğini ve Orta Çağ estetiğini günümüze taşır. Ayrıca ünlü çikolata ve nuga üreticisi Viba Nougat'ın fabrikası burada yer alır ve şehre tatlı bir cazibe katar. Şehir, hem dini tarih hem de mimari güzellikler açısından Thüringen'in en değerli hazinelerinden biridir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -19861,7 +20832,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Schmalkalden Birliği", "Wilhelmsburg Şatosu", "Fachwerk mimarisi", "Viba Nougat fabrikası"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Schmalkalden = ?",
       "hu": "2 fa + 3 fa Schmalkalden területén = ?",
@@ -20004,7 +20976,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Wilhelmsburg", "text": "Görkemli salonları ve orijinal haliyle korunmuş kale kilisesi ile Alman Rönesansı'nın bir mücevheri.", "category": "Castles & palaces" },
+        { "name": "Eski Şehir", "text": "Sevgiyle restore edilmiş ahşap karkas evler ve Orta Çağ sokaklarından oluşan pitoresk bir topluluk.", "category": "Old town" },
+        { "name": "St. Georg Şehir Kilisesi", "text": "Martin Luther'in Schmalkalden Birliği toplantıları sırasında vaaz verdiği geç Gotik bir salon kilisesi.", "category": "Churches & monasteries" },
+        { "name": "Viba Schauconfiserie", "text": "İmalathane, kafe ve interaktif istasyonlarla ünlü Schmalkalden nugası etrafında bir deneyim dünyası.", "category": "Local industry heritage" },
+        { "name": "Lutherhaus", "text": "Martin Luther, 1537'deki önemli teolojik görüşmeler sırasında bu tarihi ahşap karkas binada konaklamıştır.", "category": "Famous residences" },
+        { "name": "Schmalkalden Belediye Binası", "text": "Pazar meydanında bulunan ve şehrin bir zamanki siyasi önemine tanıklık eden görkemli bir yapı.", "category": "Town hall & historic squares" }
+      ]
+    }
   },
   {
     "id": "anklam-extra",
@@ -20025,13 +21006,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Anklam egy szép város.",
       "ro": "Anklam este un oraș frumos.",
       "en": "Anklam is a beautiful city."
-    },
+    ,
+      "tr": "Anklam, Mecklenburg-Vorpommern eyaletinde yer alan, havacılık öncüsü Otto Lilienthal'in doğum yeri ve Peene nehri kıyısındaki tarihi bir Hansa şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Anklam, situat pe râul Peene, este cunoscut ca 'orașul lui Lilienthal' (Lilienthalstadt), în onoarea pionierului aviației Otto Lilienthal, care s-a născut aici. Muzeul Otto Lilienthal, cu replicile sale de planoare, celebrează viața și munca sa inovatoare. Orașul face parte din regiunea istorică Pomerania și are un centru cu clădiri gotice din cărămidă, tipice pentru regiunea baltică. Biserica Sf. Maria și Poarta de Piatră (Steintor) sunt exemple remarcabile. Datorită locației sale, orașul este un punct de plecare pentru excursii în Parcul Natural 'Flusslandschaft Peenetal', supranumit 'Amazonul Nordului'. Istorie K8 — Pionierii aviației.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, Peene nehrinin kıyısındaki stratejik konumu sayesinde Orta Çağ'da Hansa Birliği'nin önemli ticaret merkezlerinden biri olmuştur. Dünyaca ünlü havacılık dâhisi Otto Lilienthal'in burada doğmuş olması, şehre 'Lilienthal Şehri' unvanını kazandırmış ve havacılık tarihine adanmış bir müzeye ev sahipliği yapmasını sağlamıştır. Tuğla Gotik (Backsteingotik) tarzındaki devasa kiliseleri ve antik şehir kapıları, kentin zengin geçmişini simgeler. Peene vadisinin el değmemiş doğası, nadir kuş türlerine ve sakin su turizmine ev sahipliği yaparak şehre huzurlu bir hava katar. Anklam, tarihsel derinliği ile doğal güzellikleri bir araya getiren önemli bir kuzey Alman durağıdır. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -20057,7 +21040,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Otto Lilienthal", "Hansa ticaret birliği", "Peene nehri kıyısı", "Tuğla Gotik yapılar"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Anklam = ?",
       "hu": "2 fa + 3 fa Anklam területén = ?",
@@ -20194,7 +21178,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Otto-Lilienthal-Museum", "text": "Müze, uçuş öncüsünü onurlandırıyor ve doğum yerinde uçuş makinelerinin kopyalarını ve orijinal belgeleri sergiliyor.", "category": "Museum" },
+        { "name": "Marienkirche", "text": "13. yüzyıldan kalma Gotik salon kilisesi, belirgin kulesiyle Anklam şehir siluetini önemli ölçüde belirler.", "category": "Church" },
+        { "name": "Steintor", "text": "32 metre yüksekliğindeki şehir kapısı, Orta Çağ şehir surlarının orijinal altı kapısından günümüze ulaşan sonuncusudur.", "category": "Gate" },
+        { "name": "Nikolaikirche", "text": "Eski kilise bugün 'Ikareum' sergi merkezi olarak hizmet veriyor ve Otto Lilienthal'ın anısına adanmıştır.", "category": "Museum" },
+        { "name": "Barut Kulesi", "text": "Bir zamanlar barutun güvenli bir şekilde saklanması için kullanılan Orta Çağ şehir surlarının tarihi yuvarlak kulesi.", "category": "Tower" }
+      ]
+    }
   },
   {
     "id": "waren-extra",
@@ -20215,13 +21207,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Waren egy szép város.",
       "ro": "Waren este un oraș frumos.",
       "en": "Waren is a beautiful city."
-    },
+    ,
+      "tr": "Waren (Müritz), Almanya'nın en büyük iç gölü olan Müritz kıyısında bulunan, modern marinası ve uçsuz bucaksız milli parkıyla ünlü bir turizm merkezidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Waren (Müritz) este o stațiune balneară situată pe malul celui mai mare lac interior din Germania, Müritz. Inima orașului este portul său plin de viață, de unde pornesc vapoare de pasageri pentru a explora regiunea lacurilor Mecklenburg. Müritzeum, un centru modern al naturii, oferă o incursiune fascinantă în flora și fauna regiunii, cu un acvariu imens pentru peștii de apă dulce. Centrul istoric este bine conservat, cu case pe jumătate din lemn și biserici din cărămidă. Orașul este poarta de intrare către Parcul Național Müritz, o zonă vastă de păduri și lacuri, ideală pentru drumeții și observarea păsărilor. Natură K6 — Ecosisteme lacustre.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Müritz Milli Parkı'nın kapısı konumundaki şehir, doğa tutkunları ve su sporları meraklıları için benzersiz bir cazibe merkezidir. Müritzeum adındaki modern doğa deneyim merkezi, bölgenin su altı dünyasını ve orman ekosistemini interaktif bir şekilde ziyaretçilere tanıtır. Şehrin tarihi liman bölgesi, kafeleri, restoranları ve lüks yatlarıyla oldukça canlı bir atmosfere sahiptir. Restore edilmiş eski şehir merkezi (Altstadt), dar sokakları ve geleneksel binalarıyla kentin huzurlu karakterini yansıtır. Göl üzerinde yapılan tekne turları ve çevre köylere uzanan bisiklet yolları, Waren'i Mecklenburg Göller Bölgesi'nin en popüler tatil noktası haline getirir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -20247,7 +21241,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Müritz Gölü kıyısı", "Müritz Milli Parkı", "Müritzeum müzesi", "Tarihi yat limanı"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Waren = ?",
       "hu": "2 fa + 3 fa Waren területén = ?",
@@ -20384,7 +21379,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Müritzeum", "text": "Dev tatlı su akvaryumu ve Göller Bölgesi'nin florası ve faunası üzerine interaktif sergiler sunan doğa deneyim merkezi.", "category": "Museum" },
+        { "name": "Waren Şehir Limanı", "text": "Müritz kıyısındaki canlı liman, çok sayıda tekne bağlama yeri, restoranlar ve denizci bir atmosfer sunar.", "category": "Harbor" },
+        { "name": "St. Marienkirche", "text": "Eski Pazar'daki Yeni Gotik salon kilisesi, kulesinden Waren ve Müritz üzerine harika bir panoramik manzara sunar.", "category": "Church" },
+        { "name": "Müritz Ulusal Parkı", "text": "Şehrin hemen bitişiğinde yer alan, eski kayın ormanları ve göllerle dolu, yürüyüşe davet eden devasa bir koruma alanı.", "category": "Nature" },
+        { "name": "Eski Belediye Binası", "text": "Eski Pazar'daki tarihi tuğla bina, Waren eski şehrindeki Orta Çağ mimarisinin bir kanıtıdır.", "category": "Government" }
+      ]
+    }
   },
   {
     "id": "gustrow-extra",
@@ -20405,13 +21408,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Güstrow egy szép város.",
       "ro": "Güstrow este un oraș frumos.",
       "en": "Güstrow is a beautiful city."
-    },
+    ,
+      "tr": "Güstrow, Mecklenburg-Vorpommern'in kalbinde yer alan, Rönesans şatosu ve heykeltıraş Ernst Barlach'ın sanatsal mirasıyla tanınan bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Güstrow, un oraș renascentist din Mecklenburg, este strâns legat de numele sculptorului Ernst Barlach. Atelierul și casa sa sunt acum muzee, iar multe dintre operele sale celebre, cum ar fi 'Îngerul plutitor' (Der Schwebende Engel), pot fi văzute în oraș. Castelul Güstrow este una dintre cele mai importante clădiri renascentiste din nordul Germaniei și a fost reședința ducilor de Mecklenburg. Catedrala, o biserică gotică din cărămidă, adăpostește o replică a 'Îngerului plutitor'. Parcul natural și de mediu (Natur- und Umweltpark) oferă o experiență educativă, prezentând fauna locală, inclusiv lupi și urși. Cultură K9 — Expresionismul german și Ernst Barlach.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Kuzey Almanya'nın en önemli Rönesans yapılarından biri olan Güstrow Şatosu, görkemli mimarisi ve tarihi bahçeleriyle şehrin en çok ziyaret edilen noktasıdır. Ünlü dışavurumcu sanatçı Ernst Barlach'ın uzun yıllar burada yaşamış olması, şehre 'Barlach Şehri' unvanını kazandırmıştır; sanatçının en ünlü eseri olan 'Yüzen Melek' Güstrow Katedrali'nde sergilenmektedir. Şehrin Gotik mimariye sahip kiliseleri ve tarihi pazar meydanı, bölgenin zengin kültürel geçmişini yansıtır. Ayrıca çevredeki vahşi yaşam parkları ve göller, doğa severler için huzurlu bir atmosfer sunar. Sanat, tarih ve doğanın birleştiği Güstrow, bölgenin en önemli kültürel merkezlerinden biri olarak kabul edilir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -20437,7 +21442,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Rönesans Şatosu", "Ernst Barlach eserleri", "Güstrow Katedrali", "Barlach Şehri unvanı"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Güstrow = ?",
       "hu": "2 fa + 3 fa Güstrow területén = ?",
@@ -20574,7 +21580,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schloss Güstrow", "text": "Görkemli iç mekanları ve barok bahçesiyle Kuzey Almanya'nın en önemli Rönesans kalelerinden biri.", "category": "Castle" },
+        { "name": "Güstrower Dom", "text": "Ernst Barlach'ın 'Yüzen' heykeli ve havari figürleriyle ünlü tuğla gotik katedral.", "category": "Church" },
+        { "name": "Ernst-Barlach-Atelierhaus", "text": "Sanatçının eski atölyesi; heykelleri, çizimleri ve taslaklarından oluşan kapsamlı bir koleksiyonu sergiler.", "category": "Museum" },
+        { "name": "Gertrudenkapelle", "text": "Eski şehrin kıyısında bulunan ve bugün Ernst Barlach'ın eserleri için bir anıt yeri olarak hizmet veren gotik şapel.", "category": "Museum" },
+        { "name": "Güstrow Belediye Binası", "text": "Pazar meydanında bulunan ve tarihi eski şehrin merkezini oluşturan klasik tarzda bir bina.", "category": "Government" }
+      ]
+    }
   },
   {
     "id": "parchim-extra",
@@ -20595,13 +21609,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Parchim egy szép város.",
       "ro": "Parchim este un oraș frumos.",
       "en": "Parchim is a beautiful city."
-    },
+    ,
+      "tr": "Parchim, Mecklenburg-Vorpommern eyaletinde yer alan, Elde nehri kıyısındaki tarihi yerleşimi ve Tuğla Gotik mimari mirasıyla bilinen sakin bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Parchim, situat în Mecklenburg-Vorpommern, este un oraș cu o istorie bogată, marcat de arhitectura gotică din cărămidă. Primăria impunătoare și cele două biserici parohiale, Sf. Gheorghe și Sf. Maria, domină peisajul urban. Orașul este locul de naștere al mareșalului prusac Helmuth von Moltke cel Bătrân, a cărui casă memorială poate fi vizitată. Zidurile medievale ale orașului sunt parțial conservate. În ultimii ani, orașul a devenit cunoscut pentru aeroportul său, Parchim International Airport, care a fost dezvoltat cu investiții chineze pentru a deveni un hub de marfă între China și Europa. Istorie K8 — Istoria Prusiei.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Elde nehrinin kollarının arasından geçtiği Parchim, Orta Çağ'dan kalma dokusunu büyük ölçüde korumayı başarmış bir yerleşimdir. Şehirde bulunan Aziz Georg ve Aziz Marien kiliseleri, kuzey Almanya'ya özgü Tuğla Gotik mimarisinin en güzel örneklerini sunar. Tarihi belediye binası ve çevresindeki yarı ahşap evler, kentin ticaret ve idari geçmişini yansıtan önemli yapılardır. Parchim ayrıca bölgenin kültürel hayatında önemli bir yer tutan yerel bir tiyatroya ve canlı sanat etkinliklerine ev sahipliği yapar. Nehir kıyısındaki yeşil alanlar ve yürüyüş parkurları, şehir hayatına huzurlu bir doğal fon sağlar. Hem mimari hem de sosyal açıdan bölgenin karakteristik bir merkezidir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -20627,7 +21643,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Elde nehri geçişi", "Tuğla Gotik kiliseler", "Tarihi Belediye Binası", "Bölge tiyatrosu"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Parchim = ?",
       "hu": "2 fa + 3 fa Parchim területén = ?",
@@ -20764,7 +21781,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St. Georgenkirche", "text": "14. yüzyıldan kalma geç Gotik salon kilisesi, Parchim şehrinin en önemli tarihi anıtıdır.", "category": "Church" },
+        { "name": "Parchim Belediye Binası", "text": "Eski Pazar'da bulunan, aslen 14. yüzyılda inşa edilmiş ve daha sonra yeniden tasarlanmış görkemli tuğla yapı.", "category": "Government" },
+        { "name": "Zinnhaus", "text": "Şehrin en eski ahşap karkas evlerinden biri, bugün kütüphane ve kültür merkezi olarak hizmet veriyor.", "category": "Landmark" },
+        { "name": "St. Marienkirche", "text": "Parchim'in yeni şehir bölgesinde, değerli orta çağ donanımıyla tanınan erken Gotik bir tuğla kilise.", "category": "Church" },
+        { "name": "Wockersee", "text": "Şehrin kıyısında plajlar, dairesel yürüyüş yolu ve tekne gezisi imkanları sunan popüler bir dinlenme alanı.", "category": "Nature" }
+      ]
+    }
   },
   {
     "id": "demmin-extra",
@@ -20785,13 +21810,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Demmin egy szép város.",
       "ro": "Demmin este un oraș frumos.",
       "en": "Demmin is a beautiful city."
-    },
+    ,
+      "tr": "Demmin, üç önemli nehrin birleştiği noktada kurulu olan, Mecklenburg-Vorpommern'in su yolları ve köklü Hansa tarihi ile öne çıkan bir kentidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Demmin, un oraș hanseatic situat la confluența a trei râuri (Peene, Tollense și Trebel), este adesea numit 'orașul celor trei râuri'. Această locație strategică i-a adus prosperitate în Evul Mediu. Biserica Sf. Bartolomeu, o impunătoare biserică gotică din cărămidă, domină silueta orașului. Istoria sa este marcată de o tragedie la sfârșitul celui de-al Doilea Război Mondial, când sute de civili s-au sinucis în masă la venirea Armatei Roșii. Astăzi, Demmin este un centru regional liniștit, înconjurat de peisaje naturale atractive, ideale pentru sporturi nautice și pescuit. Geografie K7 — Confluențe de râuri.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Peene, Trebel ve Tollense nehirlerinin kesiştiği noktada stratejik bir konuma sahip olan Demmin, 'Üç Nehir Şehri' olarak anılır ve tarih boyunca su ticaretiyle zenginleşmiştir. Hansa Birliği döneminden kalan mimari izler, eski liman depoları ve tarihi kuleler şehrin görkemli ticaret geçmişini anlatır. Nehirlerin oluşturduğu geniş sulak alanlar, bugün kano sporları, kuş gözlemciliği ve sakin doğa gezileri için Almanya'nın en değerli rotalarından biridir. Şehrin sur kalıntıları ve tarihi kiliseleri, geçmişte yaşanan savaşların ve başarıların tanıklığını yapar. Demmin, suyun ve tarihin şekillendirdiği benzersiz bir peyzaja ve kültürel dokuya sahiptir. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -20817,7 +21844,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Üç nehir kavşağı", "Hansa ticaret mirası", "Peene vadisi doğası", "Su turizmi merkezi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Demmin = ?",
       "hu": "2 fa + 3 fa Demmin területén = ?",
@@ -20978,7 +22006,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "St.-Bartholomaei-Kirche", "text": "Bu devasa tuğla kilise, 90 metreyi aşan kulesiyle Peene kıyısındaki Demmin şehir siluetini belirler.", "category": "Churches & monasteries" },
+        { "name": "Luisentor", "text": "Demmin'in günümüze ulaşan tek şehir kapısı, 15. yüzyıldan kalma Orta Çağ tuğla gotiğinin muhteşem bir örneğidir.", "category": "City gates, towers, walls" },
+        { "name": "Barut Kulesi", "text": "Eskiden barut depolamak için kullanılan Orta Çağ şehir surlarının göze çarpan bir kalıntısı.", "category": "City gates, towers, walls" },
+        { "name": "Hanseviertel Demmin", "text": "Nehir kıyısında, Hansa döneminin geleneksel zanaatlarına ışık tutan canlı bir açık hava müzesi.", "category": "Museums" },
+        { "name": "Demmin Belediye Binası", "text": "Pazar meydanındaki klasik yapı, İkinci Dünya Savaşı'ndaki yıkımından sonra aslına uygun olarak yeniden inşa edildi.", "category": "Town hall & historic squares" },
+        { "name": "Haus Demmin", "text": "Peene ve Tollense nehirlerinin birleştiği yerdeki bir adada bulunan, bir zamanlar önemli olan Pomeranya prens kalesinin kalıntıları.", "category": "Castles & palaces" }
+      ]
+    }
   },
   {
     "id": "bad-doberan-extra",
@@ -20999,13 +22036,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bad Doberan egy szép város.",
       "ro": "Bad Doberan este un oraș frumos.",
       "en": "Bad Doberan is a beautiful city."
-    },
+    ,
+      "tr": "Bad Doberan, Baltık Denizi yakınlarında bulunan, dünyaca ünlü Doberan Katedrali ve nostaljik 'Molli' buharlı treni ile tanınan şık bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Bad Doberan este o stațiune balneară elegantă, renumită pentru complexul său monastic cistercian. Catedrala (Doberaner Münster), o capodoperă a goticului din cărămidă, este considerată una dintre cele mai importante biserici de acest stil din regiunea baltică și are un interior aproape complet conservat din Evul Mediu. O altă atracție unică este 'Molli', un tren cu aburi istoric cu ecartament îngust, care leagă Bad Doberan de stațiunile de pe litoral Heiligendamm și Kühlungsborn, circulând parțial chiar pe străzile orașului. Heiligendamm, parte a orașului, este cea mai veche stațiune balneară de pe litoralul german, fondată în 1793. Arhitectură K8 — Goticul din cărămidă.",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehrin en görkemli yapısı olan Doberan Manastırı (Münster), Gotik mimarinin 'Kuzeyin İncisi' olarak kabul edilir ve içerisindeki zengin sanat eserleriyle ziyaretçileri etkiler. Şehrin sokaklarından dumanlar çıkararak geçen tarihi buharlı tren Molli, nostaljik bir atmosfer yaratırken yolcularını lüks deniz beldesi Heiligendamm'a taşır. 19. yüzyıldan kalma klasisist tarzdaki beyaz binaları ve geniş parkları, şehre aristokratik bir zarafet kazandırır. Bad Doberan, hem dini tarihin ihtişamını hem de sahil kasabası huzurunu bir arada arayanlar için ideal bir destinasyondur. Şehir, bölgenin hem kültürel hem de turistik açıdan en popüler duraklarından biri olma özelliğini korur. Coğrafya K7 — Nehirler ve Şehirler."},
     "facts": {
       "de": [
         "Stadt",
@@ -21031,7 +22070,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Doberan Manastırı", "Molli buharlı treni", "Heiligendamm beldesi", "Gotik sanat merkezi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Bad Doberan = ?",
       "hu": "2 fa + 3 fa Bad Doberan területén = ?",
@@ -21192,7 +22232,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Doberaner Münster", "text": "Kuzey Alman tuğla gotiğinin incisi, olağanüstü zenginlikte orta çağ donanımına ev sahipliği yapar.", "category": "Churches & monasteries" },
+        { "name": "Molli-Bahn", "text": "Doğrudan Bad Doberan alışveriş caddelerinden Heiligendamm'a kadar tüten tarihi bir buharlı dar hatlı demiryolu.", "category": "Bridges, train stations of note" },
+        { "name": "Kamp", "text": "Şehrin kalbi sayılan, Kırmızı ve Beyaz Köşk gibi klasik binaların bulunduğu merkezi bir park.", "category": "Parks, gardens, lakes nearby" },
+        { "name": "Şehir ve Kaplıca Müzesi", "text": "Yeni Gotik bir villada yer alan müze, ilk Alman deniz kaplıcasının tarihini belgelemektedir.", "category": "Museums" },
+        { "name": "Manastır Harabeleri", "text": "Parkların ortasında mistik bir atmosfer yaratan eski Sistersiyen manastırının kalıntıları.", "category": "Churches & monasteries" },
+        { "name": "Kurhaus Heiligendamm", "text": "Heiligendamm semtinde, Baltık Denizi kıyısındaki beyaz kaplıca mimarisinin somut örneği olan görkemli bina.", "category": "Famous residences" }
+      ]
+    }
   },
   {
     "id": "ribnitz-extra",
@@ -21213,13 +22262,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ribnitz egy szép város.",
       "ro": "Ribnitz este un oraș frumos.",
       "en": "Ribnitz is a beautiful city."
-    },
+    ,
+      "tr": "Ribnitz-Damgarten, Mecklenburg-Vorpommern'de yer alan, 'Kehribar Şehri' olarak bilinen ve Baltık Denizi kıyısındaki konumuyla dikkat çeken bir liman kentidir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Ribnitz-Damgarten, cunoscut drept Orașul Chihlimbarului, este situat pe malul lagunei (Bodden) ce duce la Marea Baltică, între orașele hanseatice Rostock și Stralsund. Orașul este renumit pentru Muzeul German al Chihlimbarului, care prezintă o colecție impresionantă de bijuterii și artefacte din 'aurul nordului'. Fondat în Evul Mediu, orașul-dublu păstrează elemente arhitecturale gotice din cărămidă, precum Poarta Rostock și Biserica Sf. Maria. Portul său pitoresc și proximitatea față de peninsula Fischland-Darß-Zingst îl fac o destinație populară pentru turiști și iubitorii de sporturi nautice. Geografie K7 — Zone costiere și lagune.",
       "en": "Ribnitz-Damgarten, known as the Amber Town, is located on the shore of the lagoon (Bodden) leading to the Baltic Sea, between the Hanseatic cities of Rostock and Stralsund. The town is famous for the German Amber Museum, which displays an impressive collection of jewelry and artifacts made from the 'gold of the north.' Founded in the Middle Ages, the double town retains brick Gothic architectural elements like the Rostock Gate and St. Mary's Church. Its picturesque harbor and proximity to the Fischland-Darß-Zingst peninsula make it a popular destination for tourists and water sports enthusiasts. Geography K7 — Coastal zones and lagoons."
-    },
+    ,
+      "tr": "Şehir, dünyanın en nadide kehribar koleksiyonlarına ev sahipliği yapan Alman Kehribar Müzesi ile ün kazanmıştır ve bu 'deniz altını' zanaatı kentin kimliğinin temelini oluşturur. Ribnitz ve Damgarten gibi iki farklı tarihi merkezin birleşmesiyle oluşan yapı, şehre zengin bir mimari çeşitlilik kazandırır. Saaler Bodden kıyısındaki konumu, tekne turları, amatör balıkçılık ve su sporları için geniş olanaklar sunar. Tarihi liman bölgesi ve kırmızı tuğlalı kiliseleri, tipik bir Baltık kıyısı kasabası atmosferini tüm canlılığıyla yansıtır. Bölgede üretilen kehribar takılar ve sanat eserleri, kentin en önemli turistik değerleri arasında yer alır. Coğrafya K7 — Nehirler ve Şehirler."},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -21269,7 +22320,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Alman Kehribar Müzesi", "Bodden su yolları", "Kehribar Şehri unvanı", "Liman ve denizcilik"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Ribnitz = ?",
       "hu": "2 fa + 3 fa Ribnitz területén = ?",
@@ -21430,7 +22482,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Alman Kehribar Müzesi", "text": "Eski Ribnitz Manastırı'nın odalarında bulunan, Almanya'nın en önemli kehribar koleksiyonu.", "category": "Museums" },
+        { "name": "Klosterkirche Ribnitz", "text": "Eski Klaris manastırının bir parçası olan, 14. yüzyıldan kalma tek nefli tuğla kilise.", "category": "Churches & monasteries" },
+        { "name": "St.-Marien-Kirche", "text": "Pazar meydanındaki geç Gotik bölge kilisesi, kulesinden Saaler Bodden üzerine geniş bir manzara sunar.", "category": "Churches & monasteries" },
+        { "name": "Rostocker Tor", "text": "Tarihi eski şehrin batı girişini simgeleyen, 15. yüzyıldan kalma devasa bir şehir kapısı.", "category": "City gates, towers, walls" },
+        { "name": "Ribnitz Limanı", "text": "Bodden kıyısında gezintiye davet eden ve yolcu gemisi seferlerinin başlangıç noktası olan idilik bir yer.", "category": "Port" },
+        { "name": "Freilichtmuseum Klockenhagen", "text": "Mecklenburg'un kırsal yaşamını canlı tutan tarihi çiftlik evlerine sahip yakın bir müze.", "category": "Museums" }
+      ]
+    }
   },
   {
     "id": "brandenburg-an-der-havel-extra",
@@ -21451,13 +22512,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Brandenburg an der Havel egy szép város.",
       "ro": "Brandenburg an der Havel este un oraș frumos.",
       "en": "Brandenburg an der Havel is a beautiful city."
-    },
+    ,
+      "tr": "Brandenburg an der Havel, üç ada üzerine yayılmış tarihi merkezi, Roland heykeli ve nehir kanallarıyla Brandenburg eyaletinin su üzerindeki kadim şehridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Brandenburg an der Havel este considerat leagănul istoric al regiunii Brandenburg și al Prusiei. Orașul este construit pe mai multe insule și peninsule pe râul Havel, având o rețea densă de canale și peste 100 de poduri. Are trei nuclee istorice distincte: Altstadt (Orașul Vechi), Neustadt (Orașul Nou) și Dominsel (Insula Catedralei), fiecare cu farmecul său. Catedrala Sfinților Petru și Pavel, a cărei construcție a început în 1165, este un monument impresionant al arhitecturii romanice și gotice din cărămidă. Orașul a fost un centru industrial important, iar astăzi îmbină moștenirea sa de peste 1000 de ani cu un peisaj natural acvatic unic. Istorie K7 — Formarea statelor germane medievale.",
       "en": "Brandenburg an der Havel is considered the historic cradle of the Brandenburg region and Prussia. The city is built on several islands and peninsulas on the Havel River, featuring a dense network of canals and over 100 bridges. It has three distinct historic cores: Altstadt (Old Town), Neustadt (New Town), and Dominsel (Cathedral Island), each with its own charm. The Cathedral of St. Peter and Paul, whose construction began in 1165, is an impressive monument of Romanesque and Brick Gothic architecture. The city was an important industrial center and today combines its over 1000-year-old heritage with a unique aquatic natural landscape. History K7 — Formation of medieval German states."
-    },
+    ,
+      "tr": "Havel nehrinin kollarının arasından süzüldüğü bu şehirde, Dominsel (Katedral Adası) kentin en eski dini ve idari merkezini oluşturur ve görkemli katedraliyle dikkat çeker. Pazar meydanında yükselen devasa Roland heykeli, şehrin Orta Çağ'daki bağımsızlığını ve sahip olduğu hukuki hakları simgeleyen en önemli anıttır. Gotik mimariye sahip kiliseleri, tarihi sur kuleleri ve eski belediye binası, kentin ticaretle yoğrulmuş geçmişini gözler önüne serer. Şehrin içinden geçen su yolları ve kanallar, burayı kano ve tekne turları için bir cennet haline getirirken, yeşil kıyı şeridi huzurlu bir atmosfer sunar. Şehir, nehirle bütünleşmiş mimarisiyle bölgenin en estetik yerleşimlerinden biridir. Coğrafya K7 — Nehirler ve Şehirler."},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -21507,7 +22570,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Havel nehri ve kanalları", "Dominsel (Katedral Adası)", "Roland heykeli", "Orta Çağ sur kuleleri"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Brandenburg an der Havel = ?",
       "hu": "2 fa + 3 fa Brandenburg an der Havel területén = ?",
@@ -21668,7 +22732,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Dom St. Peter und Paul", "text": "'Brandenburg Eyaleti'nin beşiği' katedral adasında bulunur, Romanesk ve Gotik mimarisiyle etkiler.", "category": "Churches & monasteries" },
+        { "name": "Eski Şehir Belediye Binası", "text": "Önünde beş metreyi aşan Roland heykelinin nöbet tuttuğu, Kuzey Alman tuğla gotiğinin bir şaheseri.", "category": "Town hall & historic squares" },
+        { "name": "Paulikloster", "text": "Bugün Brandenburg Eyalet Arkeoloji Müzesi'ne ev sahipliği yapan eski bir Dominiken manastırı.", "category": "Museums" },
+        { "name": "Steintorturm", "text": "Şehir surlarının günümüze ulaşan dört orta çağ kapı kulesinden biri, bugün bir gemicilik müzesine ev sahipliği yapar.", "category": "City gates, towers, walls" },
+        { "name": "Friedenswarte", "text": "Marienberg üzerinde bulunan ve su zengini şehir manzarası üzerine panoramik bir görünüm sunan seyir kulesi.", "category": "City gates, towers, walls" },
+        { "name": "Industriemuseum Brandenburg", "text": "Eski bir çelik ve haddehane salonlarında yer alan teknik tarihin otantik bir mekanı.", "category": "Museums" }
+      ]
+    }
   },
   {
     "id": "eberswalde-extra",
@@ -21689,13 +22762,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Eberswalde egy szép város.",
       "ro": "Eberswalde este un oraș frumos.",
       "en": "Eberswalde is a beautiful city."
-    },
+    ,
+      "tr": "Eberswalde, Brandenburg eyaletinde yer alan, tarihi Finow Kanalı boyunca uzanan endüstriyel mirası ve çevresindeki devasa ormanlarıyla ünlü bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Eberswalde, supranumit 'Orașul Pădurilor' (Waldstadt), este situat la aproximativ 50 km nord-est de Berlin, pe malurile Canalului Finow. Acest canal, inaugurat în 1620, este cea mai veche cale navigabilă artificială încă în funcțiune din Germania. Un punct de atracție tehnic remarcabil în apropiere este Elevatorul de Nave Niederfinow. Orașul este un centru important pentru silvicultură, găzduind Universitatea pentru Dezvoltare Durabilă Eberswalde. Grădina Zoologică Eberswalde și Grădina Botanică Forestieră sunt destinații populare pentru recreere. Istoria sa industrială, legată de prelucrarea metalelor, este vizibilă în arhitectura sa. Geografie K8 — Canale navigabile și inginerie hidraulică.",
       "en": "Eberswalde, nicknamed 'Forest Town' (Waldstadt), is located about 50 km northeast of Berlin on the banks of the Finow Canal. This canal, inaugurated in 1620, is the oldest artificial waterway still in operation in Germany. A remarkable nearby technical attraction is the Niederfinow Boat Lift. The city is an important center for forestry, hosting the Eberswalde University for Sustainable Development. The Eberswalde Zoo and the Forestry Botanical Garden are popular recreational destinations. Its industrial history, linked to metal processing, is visible in its architecture. Geography K8 — Navigable canals and hydraulic engineering."
-    },
+    ,
+      "tr": "Avrupa'nın en eski işleyen yapay su yolu olan Finow Kanalı, Eberswalde'nin gelişiminde kilit rol oynamış ve şehre benzersiz bir endüstriyel estetik kazandırmıştır. Şehir, 'Orman Şehri' (Waldstadt) olarak bilinir; çünkü çevresindeki sık ormanlar yerleşimin hemen her noktasında kendisini hissettirir ve temiz bir hava sağlar. Eberswalde Hayvanat Bahçesi, modern barınak tasarımları ve doğal ortamıyla bölgenin en sevilen turistik mekanlarından biridir. Kanal üzerindeki tarihi gemi asansörleri ve endüstriyel anıtlar, mühendislik tarihine ilgi duyanlar için büyüleyici bir keşif alanı sunar. Şehir, doğanın huzuru ile teknik mirasın dinamizmini kusursuz bir şekilde birleştiren modern bir merkezdir. Coğrafya K7 — Nehirler ve Şehirler."},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -21745,7 +22820,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Finow Kanalı", "Orman Şehri unvanı", "Gemi asansörü sistemi", "Hayvanat bahçesi"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Eberswalde = ?",
       "hu": "2 fa + 3 fa Eberswalde területén = ?",
@@ -21906,7 +22982,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Zoo Eberswalde", "text": "Aslanları ve primatlarıyla tanınan, doğaya yakın tasarlanmış barınaklarda 1500'den fazla hayvanın bulunduğu geniş bir park.", "category": "landmark" },
+        { "name": "Familiengarten Eberswalde", "text": "Seyir kulesi, oyun alanları ve önemli sanayi anıtlarıyla eski bir sanayi bölgesindeki park.", "category": "landmark" },
+        { "name": "Museum Eberswalde", "text": "Şehrin en eski ahşap karkas evinde bulunur; bölgesel tarih ve Eberswalde altın hazinesini sergiler.", "category": "museum" },
+        { "name": "Maria-Magdalenen-Kirche", "text": "Görkemli bir iç donanıma ve belirgin bir kuleye sahip, 13. yüzyıldan kalma Gotik bir tuğla kilise.", "category": "church" },
+        { "name": "Schiffshebewerk Niederfinow", "text": "Almanya'nın çalışan en eski gemi asansörü kabul edilen, şehir yakınındaki etkileyici teknik anıt.", "category": "landmark" },
+        { "name": "Finow Kanalı", "text": "Almanya'nın hâlâ seyredilebilir en eski yapay su yolu, harika doğada bisiklet ve tekne turlarına davet ediyor.", "category": "nature" }
+      ]
+    }
   },
   {
     "id": "bernau-extra",
@@ -21927,13 +23012,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bernau egy szép város.",
       "ro": "Bernau este un oraș frumos.",
       "en": "Bernau is a beautiful city."
-    },
+    ,
+      "tr": "Bernau bei Berlin, Brandenburg'da bulunan, UNESCO Dünya Mirası listesindeki Bauhaus mirası ve iyi korunmuş Orta Çağ surlarıyla tanınan bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Bernau bei Berlin este un oraș istoric situat la porțile capitalei germane. Este renumit pentru zidurile sale medievale de apărare, aproape complet conservate, cu turnuri și porți impunătoare, precum Steintor. Orașul a jucat un rol important în timpul Războaielor Husite din secolul al XV-lea, apărându-se cu succes de un asediu în 1432, eveniment comemorat anual prin Festivalul Husit. În secolul XX, aici a funcționat Școala Sindicatelor ADGB, o capodoperă a arhitecturii Bauhaus, proiectată de Hannes Meyer și înscrisă în Patrimoniul Mondial UNESCO. Proximitatea față de Berlin și buna conexiune feroviară îl fac un oraș rezidențial atractiv. Istorie K7 — Arhitectura Bauhaus și mișcarea modernistă.",
       "en": "Bernau bei Berlin is a historic town at the gates of the German capital. It is renowned for its almost completely preserved medieval defense walls with imposing towers and gates, such as the Steintor. The town played a significant role during the Hussite Wars in the 15th century, successfully defending against a siege in 1432, an event commemorated annually with the Hussite Festival. In the 20th century, it was home to the ADGB Trade Union School, a masterpiece of Bauhaus architecture designed by Hannes Meyer and a UNESCO World Heritage site. Its proximity to Berlin and good rail connections make it an attractive residential town. History K7 — Bauhaus architecture and the modernist movement."
-    },
+    ,
+      "tr": "Berlin'in hemen kuzeyinde stratejik bir noktada yer alan Bernau, neredeyse tamamen korunmuş olan tarihi şehir duvarları, kapıları ve savunma kuleleriyle etkileyici bir Orta Çağ atmosferine sahiptir. Şehir, modern mimari tarihinde de büyük bir öneme sahiptir; UNESCO mirası olan ADGB Sendika Okulu binası, Bauhaus akımının en işlevsel ve estetik örneklerinden biri olarak kabul edilir. Her yıl düzenlenen geleneksel Hussitenfest festivali, şehrin kuşatmalara karşı gösterdiği direnişi kutlayan büyük bir kültürel etkinliktir. Bernau, hem tarihi surların arkasındaki huzurlu sokakları hem de Berlin'e olan mükemmel ulaşım bağlantılarıyla modern yaşam ve tarihin iç içe geçtiği bir merkezdir. Coğrafya K7 — Nehirler ve Şehirler."},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -21983,7 +23070,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Tarihi şehir surları", "Bauhaus Dünya Mirası", "Hussitenfest festivali", "Berlin yakın konumu"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Bernau = ?",
       "hu": "2 fa + 3 fa Bernau területén = ?",
@@ -22144,7 +23232,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Bernau Şehir Duvarı", "text": "Hendekleri ve tarihi kapılarıyla neredeyse tamamen korunmuş orta çağdan kalma şehir surları.", "category": "historical" },
+        { "name": "St. Marien Kilisesi", "text": "Cranach okulundan değerli bir sunağa ve etkileyici akustiğe sahip geç Gotik tarzı kilise.", "category": "church" },
+        { "name": "Bernau Cellat Evi", "text": "Celladın eski evinde bulunan müze, şehir tarihi ve adalet sistemi hakkında bilgiler sunmaktadır.", "category": "museum" },
+        { "name": "Steintor", "text": "Bernau'nun günümüze ulaşan son şehir kapısı olup bugün müze olarak kentin simgesi sayılır.", "category": "historical" },
+        { "name": "Bauhaus Anıtı (ADGB Okulu)", "text": "Hannes Meyer ve Hans Wittwer tarafından tasarlanan UNESCO mirası modern mimarlık şaheseri.", "category": "landmark" },
+        { "name": "Bernau Şehir Parkı", "text": "Tarihi şehir surları boyunca uzanan, yürüyüş ve açık havada dinlenme imkanı sunan yeşil vaha.", "category": "nature" }
+      ]
+    }
   },
   {
     "id": "konigs-wusterhausen-extra",
@@ -22165,13 +23262,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Königs Wusterhausen egy szép város.",
       "ro": "Königs Wusterhausen este un oraș frumos.",
       "en": "Königs Wusterhausen is a beautiful city."
-    },
+    ,
+      "tr": "Königs Wusterhausen güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Königs Wusterhausen este cunoscut drept 'leagănul radiodifuziunii germane'. Pe 22 decembrie 1920, de pe dealul Funkerberg, a fost transmis primul concert de Crăciun, marcând începutul radioului public în Germania. Muzeul Radioului comemorează acest eveniment. Orașul este dominat de castelul său, o fostă reședință de vânătoare a 'Regelui Soldat' Frederic Wilhelm I al Prusiei, care își petrecea timpul aici cu faimosul său 'Colegiu al Tutunului'. Situat într-o regiune bogată în lacuri și păduri, la sud-est de Berlin, orașul este o destinație populară pentru recreere și sporturi nautice. Istorie K9 — Istoria tehnologiei de comunicare.",
       "en": "Königs Wusterhausen is known as the 'cradle of German broadcasting.' On December 22, 1920, the first Christmas concert was broadcast from the Funkerberg hill, marking the beginning of public radio in Germany. The Radio Museum commemorates this event. The city is dominated by its castle, a former hunting lodge of the 'Soldier King' Frederick William I of Prussia, who spent time here with his famous 'Tobacco Parliament.' Located in a region rich in lakes and forests southeast of Berlin, the city is a popular destination for recreation and water sports. History K9 — History of communication technology."
-    },
+    ,
+      "tr": "Şehirde çok sayıda eski bina yer almaktadır. Kentin tarihi sokaklarını mutlaka ziyaret edin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -22221,7 +23320,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Königs Wusterhausen = ?",
       "hu": "2 fa + 3 fa Königs Wusterhausen területén = ?",
@@ -22382,7 +23482,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Königs Wusterhausen Sarayı", "text": "Kral Friedrich Wilhelm I'in eski av köşkü olan yapı, bugün otantik odalarıyla bir müzedir.", "category": "castle" },
+        { "name": "Verici ve Radyo Teknoloji Müzesi", "text": "Funkerberg'de yer alan müze, tarihi vericilerle Alman radyoculuğunun doğuşunu belgeler.", "category": "museum" },
+        { "name": "Kreuz Kilisesi", "text": "Pazar meydanındaki protestan şehir kilisesi, barok mimarisiyle merkezi bir buluşma noktasıdır.", "category": "church" },
+        { "name": "Königs Wusterhausen Su Kulesi", "text": "Funkerberg'de eskiden su sağlayan, uzaktan görülebilen göze çarpan bir simge yapıdır.", "category": "historical" },
+        { "name": "Königs Wusterhausen Hayvan Bahçesi", "text": "Yürüyüşler ve doğa gözlemleri için ideal koşullar sunan geniş bir ormanlık alan.", "category": "nature" },
+        { "name": "Dahme Tahliye Kanalı", "text": "Bölgeyi şekillendiren, kano turları ve kıyıda dinlenme için popüler olan huzurlu su yolu.", "category": "nature" }
+      ]
+    }
   },
   {
     "id": "oranienburg-extra",
@@ -22403,13 +23512,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Oranienburg egy szép város.",
       "ro": "Oranienburg este un oraș frumos.",
       "en": "Oranienburg is a beautiful city."
-    },
+    ,
+      "tr": "Oranienburg oldukça hoş bir kenttir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Oranienburg, situat la nord de Berlin pe râul Havel, are o istorie duală, marcată de splendoarea barocă și de teroarea nazistă. Orașul este dominat de Palatul Oranienburg, cel mai vechi palat baroc din landul Brandenburg, construit în secolul al XVII-lea pentru Louise Henriette de Orania-Nassau. În contrast, istoria sa din secolul XX este umbrită de Lagărul de Concentrare Sachsenhausen, unul dintre principalele lagăre de pe teritoriul german, astăzi un important memorial și muzeu. Orașul este înconjurat de o rețea de lacuri și canale, oferind numeroase oportunități de recreere. Parcul palatului, reamenajat pentru Expoziția Horticolă din 2009, este o atracție majoră. Istorie K9 — Germania Nazistă și Holocaustul.",
       "en": "Oranienburg, north of Berlin on the Havel River, has a dual history marked by baroque splendor and Nazi terror. The city is dominated by Oranienburg Palace, the oldest baroque palace in the state of Brandenburg, built in the 17th century for Louise Henriette of Orange-Nassau. In contrast, its 20th-century history is overshadowed by the Sachsenhausen Concentration Camp, one of the main camps on German territory, now an important memorial and museum. The city is surrounded by a network of lakes and canals, offering numerous recreational opportunities. The palace park, redesigned for the 2009 Horticultural Show, is a major attraction. History K9 — Nazi Germany and the Holocaust."
-    },
+    ,
+      "tr": "Kent genelinde tarihi yapılar göze çarpmaktadır. Tarihin izlerini taşıyan sokakları keşfe çıkın. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -22459,7 +23570,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Oranienburg = ?",
       "hu": "2 fa + 3 fa Oranienburg területén = ?",
@@ -22620,7 +23732,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Oranienburg Sarayı", "text": "Brandenburg'un en eski barok sarayı, görkemli müzelere ve kraliyet porselen koleksiyonuna ev sahipliği yapar.", "category": "castle" },
+        { "name": "Sachsenhausen Anıtı", "text": "Eski toplama kampı arazisinde tarih sergileri içeren bir anma ve hatırlama mekanıdır.", "category": "museum" },
+        { "name": "Oranienburg Saray Parkı", "text": "Çiçek tarhları ve etkinlik alanlarıyla eyalet bahçe sergisi için oluşturulmuş geniş park alanı.", "category": "nature" },
+        { "name": "St. Nicolai Kilisesi", "text": "Neogotik mimarisi ve merkezi konumuyla dikkat çeken protestan şehir kilisesidir.", "category": "church" },
+        { "name": "Lehnitz Gölü", "text": "Yoğun ormanlar ve plajlarla çevrili, su sporcuları ve yürüyüşçüler için popüler bir duraktır.", "category": "nature" },
+        { "name": "Oberhavel Bölge Müzesi", "text": "Saray kanadında yer alan müze, ilk çağlardan modern sanayiye kadar bölge tarihini sergiler.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "falkensee-extra",
@@ -22641,13 +23762,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Falkensee egy szép város.",
       "ro": "Falkensee este un oraș frumos.",
       "en": "Falkensee is a beautiful city."
-    },
+    ,
+      "tr": "Falkensee görülmeye değer güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
       "ro": "Falkensee este un oraș în plină expansiune situat la periferia vestică a Berlinului, în landul Brandenburg. Caracterizat de zone rezidențiale verzi și numeroase lacuri, precum Falkenhagener See și Neuer See, este o locație preferată pentru navetiștii care lucrează în Berlin, dar doresc un stil de viață mai liniștit. Orașul s-a format prin unirea mai multor sate și a cunoscut o dezvoltare rapidă după căderea Zidului Berlinului. Muzeul și Galeria locală prezintă istoria regiunii, inclusiv perioada în care Zidul Berlinului separa Falkensee de districtul Spandau al Berlinului de Vest. Infrastructura sa modernă și proximitatea față de natură definesc calitatea vieții în acest oraș dinamic. Geografie K9 — Urbanizare suburbană și zone metropolitane.",
       "en": "Falkensee is a booming town on the western outskirts of Berlin in the state of Brandenburg. Characterized by green residential areas and numerous lakes, such as Falkenhagener See and Neuer See, it is a preferred location for commuters working in Berlin who desire a quieter lifestyle. The town was formed by the merger of several villages and experienced rapid development after the fall of the Berlin Wall. The local Museum and Gallery showcases the region's history, including the period when the Berlin Wall separated Falkensee from the West Berlin district of Spandau. Its modern infrastructure and proximity to nature define the quality of life in this dynamic town. Geography K9 — Suburbanization and metropolitan areas."
-    },
+    ,
+      "tr": "Şehir, geçmişten gelen eski binalara ev sahipliği yapmaktadır. Tarihi dokulu sokaklarda bir gezintiye çıkın. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -22697,7 +23820,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Falkensee = ?",
       "hu": "2 fa + 3 fa Falkensee területén = ?",
@@ -22834,7 +23958,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Falkensee Müzesi ve Galerisi", "text": "Şehrin en eski binalarından birinde bulunan müze, bölge tarihine dair eserler sunmaktadır.", "category": "museum" },
+        { "name": "Falkenhagener Gölü", "text": "Bu huzurlu göl, popüler bir dinlenme alanı olup yürüyüş yolları ve plajlar sunmaktadır.", "category": "lake" },
+        { "name": "Seegefeld Köy Kilisesi", "text": "13. yüzyıldan kalma geç Gotik tarzdaki taş kilise, Falkensee'nin en eski yapısıdır.", "category": "church" },
+        { "name": "Falkensee Belediye Binası", "text": "1918'de tamamlanan bu belirgin tuğla bina, merkezde şehir yönetiminin merkezidir.", "category": "town hall" },
+        { "name": "Vatandaş Parkı (Bürgerpark)", "text": "Şehir merkezinde oyun parkları ve bakımlı yeşil alanları olan bir dinlenme vahasıdır.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "strausberg-extra",
@@ -22855,13 +23987,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Strausberg egy szép város.",
       "ro": "Strausberg este un oraș frumos.",
       "en": "Strausberg is a beautiful city."
-    },
+    ,
+      "tr": "Strausberg etkileyici bir yerleşim yeridir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
       "ro": "Strausberg, un oraș situat la est de Berlin, este cunoscut ca 'orașul verde de la lac'. Este așezat pe malul pitorescului lac Straussee, pe care operează un feribot electric unic în Europa, suspendat de un cablu aerian. Orașul este un important centru militar, găzduind Comandamentul Armatei Germane (Kommando Heer). Centrul său istoric, cu Biserica Sf. Maria și zidurile medievale, a fost restaurat cu grijă. Strausberg este înconjurat de o regiune bogată în păduri și lacuri, parte a parcului natural 'Märkische Schweiz'. Aerodromul local are o istorie bogată, fiind folosit încă din anii 1920. Geografie K7 — Lacuri glaciare și transport inovator.",
       "en": "Strausberg, a town east of Berlin, is known as the 'green city by the lake.' It is situated on the shore of the picturesque Straussee lake, which features a unique electric ferry suspended from an overhead cable, the only one of its kind in Europe. The city is an important military center, housing the German Army Command (Kommando Heer). Its historic center, with St. Mary's Church and medieval walls, has been carefully restored. Strausberg is surrounded by a region rich in forests and lakes, part of the 'Märkische Schweiz' nature park. The local airfield has a rich history, having been in use since the 1920s. Geography K7 — Glacial lakes and innovative transport."
-    },
+    ,
+      "tr": "Yerleşimde eski ve estetik binalar bulunmaktadır. Şehrin tarihi yollarını ziyaret etmeyi ihmal etmeyin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -22911,7 +24045,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Strausberg = ?",
       "hu": "2 fa + 3 fa Strausberg területén = ?",
@@ -23048,7 +24183,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Straus Gölü", "text": "Uzun yapısıyla şehir manzarasını belirleyen göl, su sporları ve dinlenme merkezidir.", "category": "lake" },
+        { "name": "Straus Gölü Feribotu", "text": "Avrupa'nın tek elektrikli halatlı feribotu, eski şehri ormanlık alanla birleştirir.", "category": "landmark" },
+        { "name": "St. Marien Kilisesi", "text": "İki kulesiyle dikkat çeken, 13. yüzyıldan kalma görkemli geç Gotik salon kilisesidir.", "category": "church" },
+        { "name": "Orta Çağ Şehir Duvarı", "text": "Tarihi şehir surlarının büyük bir kısmı ve kule evleri günümüze kadar korunmuştur.", "category": "historical" },
+        { "name": "Strausberg Yerel Tarih Müzesi", "text": "Tarihi bir yarı ahşap evdeki müze, kentin kuruluşundan bugüne gelişimini belgeler.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "werder-extra",
@@ -23069,13 +24212,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Werder egy szép város.",
       "ro": "Werder este un oraș frumos.",
       "en": "Werder is a beautiful city."
-    },
+    ,
+      "tr": "Werder keyifli atmosferi olan güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
       "ro": "Werder (Havel) este un oraș-insulă idilic, renumit în toată Germania pentru livezile sale și festivalul anual al înfloririi pomilor (Baumblütenfest). Situat într-un peisaj acvatic spectaculos format de râul Havel, la sud-vest de Potsdam, orașul este un centru al cultivării fructelor, în special cireșe, și al producției de vinuri de fructe. Centrul istoric este situat pe o insulă și este caracterizat de case pescărești vechi și străzi înguste. Moara de vânt istorică de pe insulă este un reper important. Pe lângă livezi, regiunea este cunoscută și pentru podgoriile sale, fiind cea mai nordică zonă viticolă de calitate din Europa. Agricultură K7 — Cultivarea fructelor și festivaluri tradiționale.",
       "en": "Werder (Havel) is an idyllic island town, famous throughout Germany for its orchards and the annual tree blossom festival (Baumblütenfest). Located in a spectacular water landscape formed by the Havel River, southwest of Potsdam, the city is a center for fruit growing, especially cherries, and fruit wine production. The historic old town is on an island and is characterized by old fishermen's houses and narrow streets. The historic windmill on the island is an important landmark. Besides orchards, the region is also known for its vineyards, being the northernmost quality wine-growing area in Europe. Agriculture K7 — Fruit cultivation and traditional festivals."
-    },
+    ,
+      "tr": "Şehirde korunmuş pek çok eski yapı mevcuttur. Kentin tarihi sokaklarında yürüyüş yapın. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -23125,7 +24270,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Werder = ?",
       "hu": "2 fa + 3 fa Werder területén = ?",
@@ -23262,7 +24408,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Tarihi Ada Şehri", "text": "Havel üzerindeki bir adada bulunan eski şehir, dar sokakları ve balıkçı evleriyle büyüleyicidir.", "category": "historical" },
+        { "name": "Werder Yel Değirmeni", "text": "Tepedeki simge yapı, Havel ve çiçek açan çevre üzerinde geniş bir manzara sunmaktadır.", "category": "historical" },
+        { "name": "Kutsal Ruh Kilisesi", "text": "Neogotik tuğla kilise adanın silüetini belirler ve önemli bir dini merkezdir.", "category": "church" },
+        { "name": "Meyvecilik Müzesi", "text": "Werder'in ünlü olduğu asırlık meyve yetiştirme geleneğini belgeleyen müzedir.", "category": "museum" },
+        { "name": "Bismarckhöhe", "text": "Şehir ve Havelland bölgesine harika bir panoramik bakış sunan etkinlik salonlu seyir noktası.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "senftenberg-extra",
@@ -23283,13 +24437,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Senftenberg egy szép város.",
       "ro": "Senftenberg este un oraș frumos.",
       "en": "Senftenberg is a beautiful city."
-    },
+    ,
+      "tr": "Senftenberg oldukça cazibeli bir merkezdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
       "ro": "Senftenberg este un exemplu remarcabil de transformare post-industrială, fiind situat în inima regiunii Lausitzer Seenland (Țara Lacurilor Lusațiană). Ceea ce a fost odată o vastă zonă de minerit de lignit în aer liber este acum un peisaj acvatic atractiv, cu lacuri navigabile. Lacul Senftenberg, unul dintre cele mai mari lacuri artificiale din Germania, oferă plaje, porturi de agrement și numeroase facilități pentru sporturi nautice. Cetatea Senftenberg, o fortăreață renascentistă bine conservată, găzduiește un muzeu care prezintă istoria regiunii, de la minerit la turism. Orașul este un centru universitar (BTU Cottbus-Senftenberg) și un model pentru revitalizarea regiunilor miniere. Geografie K9 — Recultivarea terenurilor și turismul post-industrial.",
       "en": "Senftenberg is a remarkable example of post-industrial transformation, located in the heart of the Lusatian Lake District (Lausitzer Seenland). What was once a vast open-cast lignite mining area is now an attractive water landscape with navigable lakes. Lake Senftenberg, one of the largest artificial lakes in Germany, offers beaches, marinas, and numerous water sports facilities. Senftenberg Fortress, a well-preserved Renaissance fortress, houses a museum showcasing the region's history from mining to tourism. The city is a university center (BTU Cottbus-Senftenberg) and a model for the revitalization of mining regions. Geography K9 — Land reclamation and post-industrial tourism."
-    },
+    ,
+      "tr": "Kentte bulunan eski binalar ilgi çekicidir. Tarihi caddeleri ziyaret ederek geçmişi hissedin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -23339,7 +24495,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Senftenberg = ?",
       "hu": "2 fa + 3 fa Senftenberg területén = ?",
@@ -23476,7 +24633,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Senftenberg Sarayı ve Kalesi", "text": "Muazzam surlarla çevrili etkileyici Rönesans kompleksi bir müzeye ev sahipliği yapmaktadır.", "category": "historical" },
+        { "name": "Senftenberg Gölü", "text": "Eski bir linyit ocağından oluşturulan, Almanya'nın en büyük yapay göllerinden biridir.", "category": "lake" },
+        { "name": "Marga Bahçe Şehri", "text": "İşçi yerleşkesi olarak bahçe şehri tarzında inşa edilmiş modern dönemin mimari mücevheridir.", "category": "historical" },
+        { "name": "Peter-Paul Kilisesi", "text": "Şehir merkezindeki geç Gotik tuğla kilise, 15. yüzyıldan kalma önemli bir yapıttır.", "category": "church" },
+        { "name": "Senftenberg Şehir Limanı", "text": "Göldeki modern liman, tekne turları ve kordonda yürüyüşler için popüler bir yerdir.", "category": "port" }
+      ]
+    }
   },
   {
     "id": "mitte-extra",
@@ -23497,13 +24662,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Mitte egy szép város.",
       "ro": "Mitte este un oraș frumos.",
       "en": "Mitte is a beautiful city."
-    },
+    ,
+      "tr": "Mitte ziyaretçilerini bekleyen güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Mitte, care înseamnă 'centru', este inima istorică și guvernamentală a Berlinului. Acest district vibrant găzduiește unele dintre cele mai emblematice repere ale Germaniei, inclusiv Poarta Brandenburg, clădirea Reichstag-ului (sediul parlamentului german) și Insula Muzeelor, un sit al Patrimoniului Mondial UNESCO. Alexanderplatz, cu turnul său de televiziune (Fernsehturm), este un nod de transport și un centru comercial important. Cartierul Nikolaiviertel, reconstruit în stil medieval, oferă o perspectivă asupra vechiului Berlin. De-a lungul râului Spree, districtul guvernamental modern contrastează cu monumentele istorice, reflectând istoria complexă a orașului. Istorie K10 — Berlin: capitala divizată și reunificată.",
       "en": "Mitte, meaning 'center,' is the historical and governmental heart of Berlin. This vibrant district is home to some of Germany's most iconic landmarks, including the Brandenburg Gate, the Reichstag building (seat of the German parliament), and Museum Island, a UNESCO World Heritage site. Alexanderplatz, with its television tower (Fernsehturm), is a major transport hub and commercial center. The Nikolaiviertel, rebuilt in a medieval style, offers a glimpse into old Berlin. Along the Spree River, the modern government district contrasts with historic monuments, reflecting the city's complex history. History K10 — Berlin: divided and reunified capital."
-    },
+    ,
+      "tr": "Şehir merkezinde çok sayıda tarihi bina yer alır. Bölgenin eski sokaklarını mutlaka gezin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -23553,7 +24720,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Mitte = ?",
       "hu": "2 fa + 3 fa Mitte területén = ?",
@@ -23714,7 +24882,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Brandenburger Tor", "text": "Alman birliğini temsil eden ünlü simge yapı, dünyanın en tanınmış eserlerinden biridir.", "category": "landmark" },
+        { "name": "Müzeler Adası", "text": "Spree nehri üzerinde, 1999'dan beri UNESCO mirası olan eşsiz beşli müze topluluğudur.", "category": "museum" },
+        { "name": "Reichstag Binası", "text": "Cam kubbesiyle Alman meclisi binası, hükümet mahallesine dair panoramik manzara sunar.", "category": "landmark" },
+        { "name": "Berlin TV Kulesi", "text": "368 metreyle Almanya'nın en yüksek yapısı, seyir terası ve döner restoran sunmaktadır.", "category": "tower" },
+        { "name": "Berlin Katedrali", "text": "Görkemli kubbesiyle kentin en büyük kilisesidir ve Hohenzollern hanedanı mezarlığını barındırır.", "category": "church" },
+        { "name": "Gendarmenmarkt", "text": "Alman ve Fransız katedrali ile konser salonuyla çevrili Berlin'in en güzel meydanlarından biri.", "category": "historic square" }
+      ]
+    }
   },
   {
     "id": "charlottenburg-extra",
@@ -23735,13 +24912,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Charlottenburg egy szép város.",
       "ro": "Charlottenburg este un oraș frumos.",
       "en": "Charlottenburg is a beautiful city."
-    },
+    ,
+      "tr": "Charlottenburg estetik dokusuyla güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Charlottenburg, un district elegant din vestul Berlinului, este renumit pentru Palatul Charlottenburg, cel mai mare și mai magnific palat din oraș. Construit la sfârșitul secolului al XVII-lea ca reședință de vară pentru regina Sophia Charlotte, palatul este înconjurat de grădini baroce întinse. Districtul este traversat de bulevardul comercial Kurfürstendamm (Ku'damm), plin de magazine de lux, teatre și restaurante. Charlottenburg oferă o atmosferă sofisticată, cu clădiri rezidențiale impunătoare din secolul al XIX-lea, muzee prestigioase precum Muzeul Berggruen și numeroase galerii de artă. Deutsche Oper Berlin, una dintre cele mai importante opere din Germania, se află de asemenea aici. Cultură K9 — Palate regale și viață urbană sofisticată.",
       "en": "Charlottenburg, an elegant district in western Berlin, is famous for Charlottenburg Palace, the largest and most magnificent palace in the city. Built in the late 17th century as a summer residence for Queen Sophia Charlotte, the palace is surrounded by extensive baroque gardens. The district is traversed by the Kurfürstendamm (Ku'damm) shopping boulevard, filled with luxury shops, theaters, and restaurants. Charlottenburg offers a sophisticated atmosphere with imposing 19th-century residential buildings, prestigious museums like the Berggruen Museum, and numerous art galleries. The Deutsche Oper Berlin, one of Germany's leading opera houses, is also located here. Culture K9 — Royal palaces and sophisticated urban life."
-    },
+    ,
+      "tr": "Şehirde görkemli ve eski binalar bulunmaktadır. Tarihi sokakların atmosferini yerinde deneyimleyin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -23791,7 +24970,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Charlottenburg = ?",
       "hu": "2 fa + 3 fa Charlottenburg területén = ?",
@@ -23952,7 +25132,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Charlottenburg Sarayı", "text": "Geniş saray parkıyla Prusya krallarının yürüyüşe davet eden muhteşem ikametgahıdır.", "category": "castle" },
+        { "name": "Kaiser Wilhelm Anıt Kilisesi", "text": "Savaşta yıkılan kilisenin kalıntı kulesi, barışın anıtı ve City West'in simgesidir.", "category": "church" },
+        { "name": "Kurfürstendamm", "text": "Lüks butikleri ve görkemli binalarıyla Berlin'in en ünlü alışveriş caddesidir.", "category": "historic square" },
+        { "name": "Hayvan Bahçesi (Zoo)", "text": "Almanya'nın en eski hayvan bahçesi, istasyonun yanında muazzam tür çeşitliliğine sahiptir.", "category": "park" },
+        { "name": "Berlin Alman Operası", "text": "Modern mimarisi ve birinci sınıf gösterileriyle Almanya'nın en büyük opera binalarından biridir.", "category": "landmark" },
+        { "name": "Savigny Meydanı", "text": "Çevresinde restoran ve kafelerin bulunduğu Charlottenburg'un kalbinde büyüleyici bir meydan.", "category": "historic square" }
+      ]
+    }
   },
   {
     "id": "kreuzberg-extra",
@@ -23973,13 +25162,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Kreuzberg egy szép város.",
       "ro": "Kreuzberg este un oraș frumos.",
       "en": "Kreuzberg is a beautiful city."
-    },
+    ,
+      "tr": "Kreuzberg kendine has tarzı olan güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Kreuzberg, parte a districtului Friedrichshain-Kreuzberg, este cunoscut ca un centru al contraculturii și al scenei alternative din Berlin. Istoric un bastion al mișcărilor anarhiste și punk, astăzi este un amestec vibrant de culturi, cu o mare populație de imigranți, în special de origine turcă. Districtul este împărțit cultural în SO 36, partea estică, mai agitată și alternativă, și Kreuzberg 61, partea vestică, mai burgheză. Găzduiește Muzeul Evreiesc, cu arhitectura sa deosebită proiectată de Daniel Libeskind, și Muzeul German de Tehnologie. Canalul Landwehr și parcul Viktoriapark, cu cascada sa artificială, oferă spații verzi pentru recreere. Cultură K10 — Contracultură și diversitate urbană.",
       "en": "Kreuzberg, part of the Friedrichshain-Kreuzberg district, is known as a center of counterculture and the alternative scene in Berlin. Historically a stronghold of anarchist and punk movements, today it is a vibrant mix of cultures with a large immigrant population, especially of Turkish origin. The district is culturally divided into SO 36, the more turbulent and alternative eastern part, and Kreuzberg 61, the more bourgeois western part. It is home to the Jewish Museum with its distinctive architecture by Daniel Libeskind, and the German Museum of Technology. The Landwehr Canal and Viktoriapark, with its artificial waterfall, offer green spaces for recreation. Culture K10 — Counterculture and urban diversity."
-    },
+    ,
+      "tr": "Şehir, karakter sahibi eski yapılara ev sahipliği yapmaktadır. Tarihi sokakları dolaşarak kenti keşfedin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -24029,7 +25220,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Kreuzberg = ?",
       "hu": "2 fa + 3 fa Kreuzberg területén = ?",
@@ -24190,7 +25382,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Berlin Yahudi Müzesi", "text": "Daniel Libeskind'in mimarisiyle etkileyen müze, iki bin yıllık Alman-Yahudi tarihini gösterir.", "category": "museum" },
+        { "name": "Viktoria Parkı", "text": "Yapay şelalesiyle park, Berlin şehir merkezine dair en güzel manzaralardan birini sunar.", "category": "park" },
+        { "name": "Oberbaum Köprüsü", "text": "İki semti bağlayan belirgin tuğla köprü, Berlin'in en güzel köprülerinden biri sayılır.", "category": "bridge" },
+        { "name": "Berlin Galerisi", "text": "Eski bir sanayi salonunda bulunan modern sanat, fotoğraf ve mimari eyalet müzesidir.", "category": "museum" },
+        { "name": "Markthalle Neun", "text": "Sokak yemekleri ve yerel ürünlerle tanınan tarihi, kapalı bir pazar yeridir.", "category": "historic square" },
+        { "name": "Bergmann Semti", "text": "Eski binaları, kafeleri ve rahat havasıyla bilinen canlı bir Kreuzberg mahallesidir.", "category": "historic square" }
+      ]
+    }
   },
   {
     "id": "prenzlauer-berg-extra",
@@ -24211,13 +25412,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Prenzlauer Berg egy szép város.",
       "ro": "Prenzlauer Berg este un oraș frumos.",
       "en": "Prenzlauer Berg is a beautiful city."
-    },
+    ,
+      "tr": "Prenzlauer Berg oldukça popüler ve güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Prenzlauer Berg, odinioară un cartier muncitoresc și un centru al artiștilor și al opoziției din RDG, a trecut printr-un proces masiv de gentrificare după reunificare. Astăzi, este unul dintre cele mai populare și prospere cartiere din Berlin, cunoscut pentru clădirile sale renovate din perioada Gründerzeit, străzile pitorești și atmosfera relaxată. Este plin de cafenele, buticuri independente și restaurante. Mauerpark, situat la fosta graniță a Zidului Berlinului, este celebru pentru piața sa de vechituri duminicală și karaoke-ul în aer liber. Kulturbrauerei, o fostă fabrică de bere, este acum un complex cultural vibrant, cu cinematografe, teatre și cluburi. Este un cartier preferat de familiile tinere. Cultură K11 — Gentrificare și transformare urbană.",
       "en": "Prenzlauer Berg, once a working-class district and a center for artists and GDR opposition, has undergone massive gentrification since reunification. Today, it is one of Berlin's most popular and affluent neighborhoods, known for its renovated Gründerzeit buildings, picturesque streets, and relaxed atmosphere. It is filled with cafes, independent boutiques, and restaurants. Mauerpark, located on the former border of the Berlin Wall, is famous for its Sunday flea market and open-air karaoke. The Kulturbrauerei, a former brewery, is now a vibrant cultural complex with cinemas, theaters, and clubs. It is a favorite neighborhood for young families. Culture K11 — Gentrification and urban transformation."
-    },
+    ,
+      "tr": "Şehirde döneminin izlerini taşıyan eski binalar vardır. Tarihi sokakları ziyaret ederek vakit geçirin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -24267,7 +25470,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Prenzlauer Berg = ?",
       "hu": "2 fa + 3 fa Prenzlauer Berg területén = ?",
@@ -24428,7 +25632,16 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Mauerpark", "text": "Eskiden ölüm şeridi olan alan bugün bitpazarı ve pazar karaokesiyle popüler bir noktadır.", "category": "park" },
+        { "name": "Kulturbrauerei", "text": "Bugün müze, sinema ve kulüplere ev sahipliği yapan 19. yüzyıldan kalma tarihi birahane sitesi.", "category": "landmark" },
+        { "name": "Prenzlauer Berg Su Kulesi", "text": "Berlin'in en eski su kulesi olup etrafı yeşil alanla çevrili belirgin bir simgedir.", "category": "tower" },
+        { "name": "Kollwitz Meydanı", "text": "Haftalık pazarı ve sokak kafeleriyle tanınan semtin en merkezi ve popüler meydanı.", "category": "historic square" },
+        { "name": "Zeiss Büyük Planeteryumu", "text": "Avrupa'nın en büyüklerinden biri olan, uzayda heyecan verici yolculuklar sunan modern tesis.", "category": "landmark" },
+        { "name": "Rykestraße Sinagogu", "text": "Almanya'nın en büyük sinagogu olup neoroman mimarisi ve tarihiyle dikkat çeker.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "steglitz-extra",
@@ -24449,13 +25662,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Steglitz egy szép város.",
       "ro": "Steglitz este un oraș frumos.",
       "en": "Steglitz is a beautiful city."
-    },
+    ,
+      "tr": "Steglitz huzurlu atmosferiyle güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Steglitz, parte a districtului Steglitz-Zehlendorf din sud-vestul Berlinului, este un cartier predominant rezidențial și comercial, cu o atmosferă burgheză. Coloana vertebrală a cartierului este Schloßstraße, una dintre cele mai mari și mai populare străzi comerciale din Berlin, care găzduiește numeroase magazine și centre comerciale, precum 'Das Schloss'. O atracție notabilă este 'Bierpinsel', o clădire futuristă din anii 1970, cu o formă distinctivă. În apropiere se află Grădina Botanică și Muzeul Botanic, una dintre cele mai importante din lume, cu o diversitate impresionantă de plante. Cartierul este bine conectat la centrul orașului și oferă o calitate înaltă a vieții, cu parcuri și zone verzi. Cultură K8 — Grădini botanice și arhitectură modernistă.",
       "en": "Steglitz, part of the Steglitz-Zehlendorf district in southwestern Berlin, is a predominantly residential and commercial neighborhood with a bourgeois atmosphere. The backbone of the district is Schloßstraße, one of Berlin's largest and most popular shopping streets, hosting numerous stores and shopping centers like 'Das Schloss.' A notable attraction is the 'Bierpinsel,' a futuristic 1970s building with a distinctive shape. Nearby is the Botanical Garden and Botanical Museum, one of the most important in the world, with an impressive diversity of plants. The district is well-connected to the city center and offers a high quality of life, with parks and green areas. Culture K8 — Botanical gardens and modernist architecture."
-    },
+    ,
+      "tr": "Şehir genelinde tarihi binalar yer almaktadır. Kentin eski sokaklarını mutlaka ziyaret edin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -24505,7 +25720,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Steglitz = ?",
       "hu": "2 fa + 3 fa Steglitz területén = ?",
@@ -24642,7 +25858,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Schlosspark Tiyatrosu", "text": "1921'de açılan ve nitelikli oyunculuk sanatıyla tanınan tarihi özel tiyatro binasıdır.", "category": "theater" },
+        { "name": "Berlin Botanik Bahçesi", "text": "20.000 bitki türü ve tropikal serasıyla dünyanın en önemli botanik bahçelerinden biridir.", "category": "park" },
+        { "name": "Steglitz Malikhanesi", "text": "Konserler ve sergiler için kullanılan, 1804'ten kalma klasik tarzda bir malikhanedir.", "category": "historical" },
+        { "name": "Bierpinsel", "text": "Schloßstraße'nin mimari simgesi sayılan 1970'lerden kalma fütüristik kule yapısıdır.", "category": "architecture" },
+        { "name": "Steglitz Su Kulesi", "text": "Fichtenberg üzerinde bulunan, kentin silüetini belirleyen 1916 yapımı tuğla bina.", "category": "historical" }
+      ]
+    }
   },
   {
     "id": "vegesack-extra",
@@ -24663,13 +25887,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Vegesack egy szép város.",
       "ro": "Vegesack este un oraș frumos.",
       "en": "Vegesack is a beautiful city."
-    },
+    ,
+      "tr": "Vegesack denizci ruhuna sahip güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Vegesack este un district maritim al orașului Bremen, situat pe malul râului Weser. Aici a fost construit primul port artificial din Germania, în 1619-1623, pentru a servi navele care nu mai puteau ajunge în portul principal al Bremenului din cauza aluviunilor. Districtul are o istorie bogată în construcția de nave, fiind locul de naștere al multor șantiere navale renumite, precum Bremer Vulkan. O atracție principală este nava-muzeu 'Schulschiff Deutschland', un velier complet echipat din 1927. Promenada maritimă și centrul vechi oferă o atmosferă pitorească, cu magazine, cafenele și vedere la traficul naval de pe Weser. Istorie K8 — Istoria maritimă și construcția de nave.",
       "en": "Vegesack is a maritime district of the city of Bremen, located on the banks of the Weser River. Germany's first artificial harbor was built here in 1619-1623 to serve ships that could no longer reach Bremen's main port due to siltation. The district has a rich shipbuilding history, being the birthplace of many famous shipyards, such as Bremer Vulkan. A main attraction is the museum ship 'Schulschiff Deutschland,' a fully-rigged tall ship from 1927. The maritime promenade and the old town center offer a picturesque atmosphere with shops, cafes, and views of the river traffic on the Weser. History K8 — Maritime history and shipbuilding."
-    },
+    ,
+      "tr": "Şehirde liman kültürünü yansıtan eski binalar mevcuttur. Tarihi sokakları keşfe çıkarak gezin. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -24719,7 +25945,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Vegesack = ?",
       "hu": "2 fa + 3 fa Vegesack területén = ?",
@@ -24856,7 +26083,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Okul Gemisi Deutschland", "text": "Vegesack limanında yüzen bir anıt ve müze gemi olarak duran son büyük yelkenli gemi.", "category": "historical" },
+        { "name": "Vegesack Müze Limanı", "text": "Almanya'nın en eski yapay limanı olup bugün birçok tarihi yelkenli gemiye ev sahipliği yapar.", "category": "port" },
+        { "name": "Vegesack Şehir Bahçesi", "text": "Weser nehri kıyısında yaşlı ağaçları ve nehir manzarasıyla güzel bir park alanıdır.", "category": "park" },
+        { "name": "Overbeck Müzesi", "text": "Eski bir ambar binasındaki müze, Overbeck çifti ve sanatçı kolonisine adanmıştır.", "category": "museum" },
+        { "name": "Vegesack Balina Çene Kemiği", "text": "Liman yakınındaki balina kemiği anıtı, bölgenin önemli balina avcılığı geleneğini hatırlatır.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "findorff-extra",
@@ -24877,13 +26112,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Findorff egy szép város.",
       "ro": "Findorff este un oraș frumos.",
       "en": "Findorff is a beautiful city."
-    },
+    ,
+      "tr": "Findorff sempatik ve güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Findorff este un district central din Bremen, situat la nord de gara principală. Numele său provine de la Jürgen Christian Findorff, care a colonizat mlaștinile din zonă în secolul al XVIII-lea. Astăzi, este un cartier rezidențial dens populat, apreciat pentru proximitatea față de centru și pentru atmosfera sa plină de viață. Piața săptămânală Findorffmarkt este una dintre cele mai mari și mai populare din Bremen. Districtul include și vasta esplanadă Bürgerweide, unde au loc evenimente majore, precum faimosul târg Freimarkt. Fostul abator (Schlachthof) a fost transformat într-un centru cultural vibrant, cu concerte și evenimente. Geografie K8 — Dezvoltare urbană și recuperarea terenurilor.",
       "en": "Findorff is a central district of Bremen, located north of the main train station. Its name comes from Jürgen Christian Findorff, who colonized the local moors in the 18th century. Today, it is a densely populated residential area, appreciated for its proximity to the center and its lively atmosphere. The weekly Findorffmarkt is one of the largest and most popular markets in Bremen. The district also includes the vast Bürgerweide esplanade, which hosts major events like the famous Freimarkt fair. The former slaughterhouse (Schlachthof) has been transformed into a vibrant cultural center with concerts and events. Geography K8 — Urban development and land reclamation."
-    },
+    ,
+      "tr": "Şehirde yerel mimariyi yansıtan eski binalar bulunur. Tarihi sokaklarda keyifli bir yürüyüş yapın. Coğrafya K7 — Nehirler ve şehirler"},
     "factsAdvanced": {
       "de": [],
       "hu": [],
@@ -24933,7 +26170,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Findorff = ?",
       "hu": "2 fa + 3 fa Findorff területén = ?",
@@ -25070,7 +26308,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Eski Pompa İstasyonu", "text": "Bugün kanalizasyon ve atık su tarihi müzesi olarak hizmet veren sanayi anıtıdır.", "category": "museum" },
+        { "name": "Findorff Pazarı", "text": "Bremen'in haftada üç kez yerel ürünlerle kurulan en popüler semt pazarlarından biri.", "category": "square" },
+        { "name": "Torf Kanalı", "text": "Eskiden bataklıktan şehre torf yakıtı taşımak için kullanılan tarihi bir su yolu.", "category": "historical" },
+        { "name": "Jan Reiners Anıtı", "text": "Bremen'den Tarmstedt'e giden eski demir yolu hattını hatırlatan tarihi bir lokomotif.", "category": "historical" },
+        { "name": "Schlachthof Kültür Merkezi", "text": "Etkinlikler ve atölyeler için dönüştürülmüş eski bir mezbaha binası olan kültür merkezi.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "schwachhausen-extra",
@@ -25091,13 +26337,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Schwachhausen egy szép város.",
       "ro": "Schwachhausen este un oraș frumos.",
       "en": "Schwachhausen is a beautiful city."
-    },
+    ,
+      "tr": "Schwachhausen prestijli ve güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehirde mimari değeri olan eski yapılar yer almaktadır. Tarihi sokakları ziyaret ederek kenti tanıyın. Coğrafya K7 — Nehirler ve şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -25123,7 +26371,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Schwachhausen = ?",
       "hu": "2 fa + 3 fa Schwachhausen területén = ?",
@@ -25260,7 +26509,15 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Focke Müzesi", "text": "Modern ve tarihi binalarda Bremen'in sanat ve kültür tarihini sergileyen eyalet müzesidir.", "category": "museum" },
+        { "name": "Riensberg Mezarlığı", "text": "Önemli şahsiyetlerin anıt mezarlarını barındıran tarihi bir park mezarlıktır.", "category": "historical" },
+        { "name": "Bremen Konser Salonu", "text": "Harika akustiğiyle efsaneleşmiş, aslen radyo stüdyosu olarak kullanılan konser salonu.", "category": "theater" },
+        { "name": "Vatandaş Parkı (Bürgerpark)", "text": "Bremen'in İngiliz tarzında tasarlanmış, semte komşu olan en geniş yeşil alanıdır.", "category": "park" },
+        { "name": "Emma am See", "text": "Bürgerpark içindeki göl kenarında bulunan, yerel halk ve ziyaretçiler için popüler bir kafe.", "category": "landmark" }
+      ]
+    }
   },
   {
     "id": "st-pauli-extra",
@@ -25281,13 +26538,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "St. Pauli egy szép város.",
       "ro": "St. Pauli este un oraș frumos.",
       "en": "St. Pauli is a beautiful city."
-    },
+    ,
+      "tr": "St. Pauli dinamik ve güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir, geçmişin dokusunu koruyan eski binalara sahiptir. Tarihi sokakların kendine has havasını soluyun. Coğrafya K7 — Nehirler ve şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -25313,7 +26572,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in St. Pauli = ?",
       "hu": "2 fa + 3 fa St. Pauli területén = ?",
@@ -25522,7 +26782,18 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Reeperbahn", "text": "Kulüp, bar ve tiyatrolarıyla Hamburg gece hayatının dünyaca ünlü merkezidir.", "category": "historic" },
+        { "name": "Landungsbrücken", "text": "Liman kıyısındaki tarihi bina ve Elbe manzaralı yüzer iskeleler topluluğudur.", "category": "port" },
+        { "name": "Eski Elbe Tüneli", "text": "1911 yapımı, yayaları ve araçları nehrin altından karşıya geçiren teknik bir anıttır.", "category": "landmark" },
+        { "name": "Balık Pazarı", "text": "Pazar sabahları Elbe kıyısında kurulan, satıcıların bağırışlarıyla ünlü efsanevi pazar.", "category": "landmark" },
+        { "name": "Millerntor Stadyumu", "text": "Özel atmosferi ve sosyal kimliğiyle bilinen FC St. Pauli takımının ana sahasıdır.", "category": "landmark" },
+        { "name": "St. Pauli Sığınağı", "text": "Bugün kültür alanı ve yeşil çatı bahçesi olarak kullanılan devasa bir İkinci Dünya Savaşı sığınağı.", "category": "historical" },
+        { "name": "Beatles Meydanı", "text": "Beatles'ın 1960'larda Hamburg'daki kariyer başlangıcını simgeleyen plak şeklindeki meydan.", "category": "landmark" },
+        { "name": "Balmumu Heykel Müzesi (Panoptikum)", "text": "1879'dan beri ünlülerin ve tarihi kişilerin figürlerini sergileyen en eski balmumu müzesi.", "category": "museum" }
+      ]
+    }
   },
   {
     "id": "eimsbuttel-extra",
@@ -25543,13 +26814,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Eimsbüttel egy szép város.",
       "ro": "Eimsbüttel este un oraș frumos.",
       "en": "Eimsbüttel is a beautiful city."
-    },
+    ,
+      "tr": "Eimsbüttel güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Coğrafya K7 — Nehirler ve şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -25575,7 +26848,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Eimsbüttel = ?",
       "hu": "2 fa + 3 fa Eimsbüttel területén = ?",
@@ -25760,7 +27034,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Ise Pazarı", "text": "Metro viyadükleri altında kurulan Avrupa'nın en uzun ve en güzel açık hava pazarlarından biri.", "category": "landmark" },
+        { "name": "Oster Caddesi", "text": "Semtin kafeleri, butikleri ve kentsel dokusuyla öne çıkan en hareketli alışveriş caddesi.", "category": "landmark" },
+        { "name": "Kaifu Hamamı", "text": "Tuğla mimarisi ve modern spa alanıyla 19. yüzyıldan kalma tarihi bir yüzme havuzudur.", "category": "landmark" },
+        { "name": "Eimsbüttel Parkı", "text": "Yoğun yerleşimin ortasında küçük bir gölü ve yaşlı ağaçları olan sakin bir yeşil vaha.", "category": "park" },
+        { "name": "St. Bonifatius Kilisesi", "text": "Yüksek kulesiyle semt silüetini belirleyen neogotik tarzda bir tuğla yapıdır.", "category": "church" },
+        { "name": "Grindel Semti", "text": "Üniversiteye ev sahipliği yapan, zengin kültür ve mutfağıyla bilinen tarihi Yahudi mahallesi.", "category": "historic" },
+        { "name": "Niendorfer Doğa Alanı", "text": "Geniş yürüyüş yolları ve geyik bahçesiyle dinlenmeye davet eden büyük ormanlık alan.", "category": "park" }
+      ]
+    }
   },
   {
     "id": "wandsbek-extra",
@@ -25781,13 +27065,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Wandsbek egy szép város.",
       "ro": "Wandsbek este un oraș frumos.",
       "en": "Wandsbek is a beautiful city."
-    },
+    ,
+      "tr": "Wandsbek güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Coğrafya K7 — Nehirler ve şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -25813,7 +27099,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Wandsbek = ?",
       "hu": "2 fa + 3 fa Wandsbek területén = ?",
@@ -25998,7 +27285,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Wandsbek Belediye Binası", "text": "Semtin yönetim merkezi olan bina, bölgenin modern tarihini temsil eden belirgin bir yapıdır.", "category": "town hall" },
+        { "name": "Wandsbek Pazar Meydanı", "text": "Semtin sosyal kalbini oluşturan merkezi bir ulaşım noktası ve hareketli bir pazar meydanıdır.", "category": "landmark" },
+        { "name": "Christus Kilisesi", "text": "Savaştan sonra sade ve modern bir formda yeniden inşa edilmiş önemli bir protestan kilisesi.", "category": "church" },
+        { "name": "Wandsbek Ormanı", "text": "Yürüyüş ve spor için kullanılan, semtin en önemli dinlenme alanlarından olan geniş şehir ormanı.", "category": "park" },
+        { "name": "Özel Botanik Bahçe", "text": "Yerli ve egzotik bitki türlerini keşfetmek için tasarlanmış harika bir bahçe alanıdır.", "category": "park" },
+        { "name": "Wandsbek Müzesi", "text": "Semtin tarihine ve sanayi gelişimine dair heyecan verici bilgiler sunan yerel müzedir.", "category": "museum" },
+        { "name": "Claudius Anıtı", "text": "Wandsbek'te uzun süre yaşamış ünlü şair Matthias Claudius'un anısına yapılmış mekan.", "category": "historic" }
+      ]
+    }
   },
   {
     "id": "harburg-extra",
@@ -26019,13 +27316,15 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Harburg egy szép város.",
       "ro": "Harburg este un oraș frumos.",
       "en": "Harburg is a beautiful city."
-    },
+    ,
+      "tr": "Harburg güzel bir şehirdir."},
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
       "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
       "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
+    ,
+      "tr": "Şehir eski binalara sahiptir. Tarihi sokakları ziyaret edin. Coğrafya K7 — Nehirler ve şehirler"},
     "facts": {
       "de": [
         "Stadt",
@@ -26051,7 +27350,8 @@ export const poiExtraDeCities: POI[] = [
         "Nature",
         "Architecture"
       ]
-    },
+    ,
+      "tr": ["Şehir", "Kültür", "Doğa", "Mimari"]},
     "plizioChallenge": {
       "de": "2 Bäume + 3 Bäume in Harburg = ?",
       "hu": "2 fa + 3 fa Harburg területén = ?",
@@ -26236,7 +27536,17 @@ export const poiExtraDeCities: POI[] = [
                   "confidence": "high"
             }
       ]
-}
+,
+      "tr": [
+        { "name": "Harburg Belediye Binası", "text": "Kırmızı tuğladan yapılmış görkemli Rönesans binası Harburg'un pazar meydanına hakimdir.", "category": "town hall" },
+        { "name": "Harburg Sarayı", "text": "Liman adasında bulunan, Braunschweig-Lüneburg düklerinin eski ikametgahı olan tarihi saray.", "category": "castle" },
+        { "name": "Lämmertwiete", "text": "Restore edilmiş ahşap evleri ve samimi restoranlarıyla Harburg'un en eski sokağıdır.", "category": "historic" },
+        { "name": "Helms Müzesi", "text": "Bölgenin tarih öncesi devirlerine dair büyüleyici buluntular sunan önemli arkeoloji müzesidir.", "category": "museum" },
+        { "name": "Eski Harburg Elbe Köprüsü", "text": "Elbe'yi geçen ve bugün sadece yayalara açık olan tarihi çelik kafes yapılı simge köprü.", "category": "landmark" },
+        { "name": "Harburg İç Limanı", "text": "Sanayi kültürünü modern mimari ve yeni yaşam alanlarıyla birleştiren deniz mahallesidir.", "category": "port" },
+        { "name": "St. Johannis Kilisesi", "text": "Kilise müziği ve çeşitli kültürel etkinlikleriyle tanınan belirgin neogotik kilise yapısı.", "category": "church" }
+      ]
+    }
   },
   {
     "id": "lauingen-extra",
@@ -26254,19 +27564,22 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Lauingen egy történelmi Duna-parti város Bajor-Svábföldön, amely Albertus Magnus polihisztor szülővárosaként ismert.",
       "ro": "Lauingen este un oraș istoric pe Dunăre, în Suabia Bavareză, cunoscut ca locul de naștere al savantului Albertus Magnus.",
       "en": "Lauingen is a historic town on the Danube in Bavarian Swabia, known as the birthplace of the polymath Albertus Magnus."
-    },
+    ,
+      "tr": "Lauingen, evrensel bilgin Albertus Magnus'un doğum yeri olarak bilinen, Bayerisch-Schwaben bölgesinde tarihi bir Donau şehridir."},
     "descriptionAdvanced": {
       "de": "Lauingen an der Donau ist eine ehemalige Residenzstadt der Herzöge von Pfalz-Neuburg mit rund 11.000 Einwohnern, gelegen im Landkreis Dillingen an der Donau in Bayerisch-Schwaben. Die Stadt blickt auf eine mehr als 1000-jährige Geschichte zurück und gilt als Geburtsort von Albertus Magnus (um 1200), einem der einflussreichsten Theologen und Naturwissenschaftler des Mittelalters. Das Stadtbild wird vom 54 Meter hohen Schimmelturm aus dem 15. Jahrhundert geprägt, einem der bemerkenswertesten Türme Süddeutschlands. Im Stadtkern finden sich Renaissance- und Barockbauten, ein historisches Rathaus und schmale Gassen, die noch den mittelalterlichen Grundriss erkennen lassen. Lauingen liegt an der Donau-Radweg-Route und ist Ausgangspunkt für Ausflüge ins Schwäbische Donautal und in den nahen Naturpark Augsburg.",
       "hu": "Lauingen a Duna mentén egykori herceg-választófejedelmi székváros, körülbelül 11 000 lakossal, Bajor-Svábföld északi részén, a Dillingen-i járásban. A város több mint 1000 éves múltra tekint vissza, és Albertus Magnus (kb. 1200) szülővárosaként ismert, aki a középkor egyik legbefolyásosabb teológusa és természettudósa volt. A városképet a 15. századi, 54 méter magas Schimmelturm uralja, Dél-Németország egyik legnevezetesebb tornya. A belvárosban reneszánsz és barokk épületek, történelmi városháza és szűk utcák őrzik a középkori városszerkezetet. Lauingen a Duna-menti kerékpárút mellett fekszik, és kiindulópont a Sváb-Duna-völgy és a közeli Augsburgi Természetpark felé.",
       "ro": "Lauingen pe Dunăre este o fostă reședință a ducilor de Palatinat-Neuburg, cu aproximativ 11.000 de locuitori, situată în districtul Dillingen din Suabia Bavareză. Orașul are o istorie de peste 1000 de ani și este cunoscut ca loc de naștere al lui Albertus Magnus (cca. 1200), unul dintre cei mai influenți teologi și oameni de știință ai Evului Mediu. Centrul orașului este dominat de Schimmelturm înalt de 54 de metri din secolul al XV-lea, unul dintre cele mai remarcabile turnuri din sudul Germaniei. În centrul vechi se găsesc clădiri renascentiste și baroce, o primărie istorică și străduțe înguste care păstrează planul medieval. Lauingen se află pe traseul cicloturistic al Dunării și reprezintă un punct de plecare pentru excursii în Valea Suabă a Dunării și în apropiatul Parc Natural Augsburg.",
       "en": "Lauingen on the Danube is a former ducal residence town of the Dukes of Palatinate-Neuburg, with around 11,000 inhabitants, located in the Dillingen district of Bavarian Swabia. The town looks back on more than 1000 years of history and is known as the birthplace of Albertus Magnus (c. 1200), one of the most influential theologians and natural scientists of the Middle Ages. Its townscape is dominated by the 54-meter Schimmelturm tower from the 15th century, one of the most remarkable towers in southern Germany. The historic center features Renaissance and Baroque buildings, a historical town hall, and narrow lanes that still trace the medieval street plan. Lauingen lies along the Danube Cycle Route and is a starting point for excursions into the Swabian Danube Valley and the nearby Augsburg Nature Park."
-    },
+    ,
+      "tr": "Lauingen an der Donau, Bayerisch-Schwaben'deki Landkreis Dillingen an der Donau'da yer alan, yaklaşık 11.000 nüfuslu Pfalz-Neuburg düklerinin eski bir ikametgah şehridir. Şehir, 1000 yılı aşkın bir geçmişe sahiptir ve Orta Çağ'ın en etkili teolog ve bilim insanlarından biri olan Albertus Magnus'un (yaklaşık 1200) doğum yeri olarak kabul edilir. Şehir silüeti, 15. yüzyıldan kalma 54 metre yüksekliğindeki Schimmelturm ile şekillenmiştir; bu kule Güney Almanya'nın en dikkat çekici kulelerinden biridir. Şehir merkezinde Rönesans ve Barok binalar, tarihi bir Rathaus ve Orta Çağ yerleşim planını hala yansıtan dar sokaklar bulunur. Lauingen, Donau-Radweg bisiklet rotası üzerinde yer alır ve Schwäbisches Donautal ile yakındaki Naturpark Augsburg'a yapılacak geziler için bir başlangıç noktasıdır."},
     "facts": {
       "de": ["Geburtsort von Albertus Magnus", "Schimmelturm 54 m", "ca. 11.000 Einwohner", "Bayerisch-Schwaben"],
       "hu": ["Albertus Magnus szülővárosa", "Schimmelturm 54 m", "kb. 11 000 lakos", "Bajor-Svábföld"],
       "ro": ["Locul natal al lui Albertus Magnus", "Schimmelturm 54 m", "cca. 11.000 locuitori", "Suabia Bavareză"],
       "en": ["Birthplace of Albertus Magnus", "Schimmelturm 54 m", "ca. 11,000 residents", "Bavarian Swabia"]
-    },
+    ,
+      "tr": ["Albertus Magnus'un doğum yeri", "Schimmelturm 54 m", "yakl. 11.000 nüfus", "Bayerisch-Schwaben"]},
     "factsAdvanced": {
       "de": [
         "Lauingen erhielt 1268 das Stadtrecht von König Konrad IV.",
@@ -26296,7 +27609,8 @@ export const poiExtraDeCities: POI[] = [
         "The town was part of the Principality of Palatinate-Neuburg from 1505 to 1808.",
         "The local museum in the former Augustinian monastery showcases the town's long history."
       ]
-    },
+    ,
+      "tr": ["Lauingen, 1268 yılında Kral Konrad IV.'ten şehir haklarını aldı.", "Albertus Magnus (1200-1280), Köln'de diğerlerinin yanı sıra Thomas von Aquin'e ders verdi.", "Schimmelturm, Orta Çağ'da hem bir gözetleme kulesi hem de bir çan kulesiydi.", "Şehir, 1505'ten 1808'e kadar Fürstentum Pfalz-Neuburg'un bir parçasıydı.", "Eski Augustinerkloster'deki Heimatmuseum, şehrin uzun tarihini sergilemektedir."]},
     "sights": {
       "de": [
         { "name": "Schimmelturm", "text": "Der 54 Meter hohe Stadtturm aus dem 15. Jahrhundert ist das Wahrzeichen Lauingens. Er wurde 1457 fertiggestellt und diente als Wacht- und Glockenturm. Eine Aussichtsplattform bietet bei klarem Wetter Blick bis zu den Alpen.", "image": "/poi-images/sights/lauingen-extra-schimmelturm.webp" },
@@ -26337,6 +27651,17 @@ export const poiExtraDeCities: POI[] = [
         { "name": "Lauingen Castle", "text": "The former castle of the Counts Palatine of Neuburg was built in the 16th century and today serves as a police station, with parts accessible to the public.", "image": "/poi-images/sights/lauingen-extra-schloss-lauingen.webp" },
         { "name": "Danube Promenade", "text": "The riverside path along the Danube invites walking and cycling, offering views of the Swabian Danube Moor.", "image": "/poi-images/sights/lauingen-extra-donau-promenade.webp" },
         { "name": "Resurrection Church", "text": "The 19th-century Protestant Resurrection Church showcases Neo-Gothic architecture.", "image": "/poi-images/sights/lauingen-extra-auferstehungskirche.webp" }
+      ]
+    ,
+      "tr": [
+        { "name": "Schimmelturm", "text": "1457'de tamamlanan 54 metre yüksekliğindeki kule, kentin simgesi ve eski bir gözlem kulesidir.", "category": "historical" },
+        { "name": "St. Martin Şehir Kilisesi", "text": "Tuna vadisinin en büyük kiliselerinden olan geç gotik yapı, barok sunaklara sahiptir.", "category": "historical" },
+        { "name": "Albertus Magnus Anıtı", "text": "Meydanda duran bu anıt, 1200'de burada doğan ünlü bilgin Albertus Magnus'u onurlandırır.", "category": "historical" },
+        { "name": "Tarihi Belediye Binası", "text": "Pazar meydanına hakim olan 16. yüzyıl Rönesans cepheli bina, tarihi salonlar barındırır.", "category": "historical" },
+        { "name": "Augustiner Manastırı ve Müzesi", "text": "Eski manastır binasında bulunan müze, şehir tarihi ve yerel dükalık hakkında eserler sunar.", "category": "historical" },
+        { "name": "Lauingen Sarayı", "text": "16. yüzyılda inşa edilen eski Neuburg dükü sarayı bugün bir kısmı halka açık polis merkezidir.", "category": "historical" },
+        { "name": "Tuna Kordon Boyu", "text": "Tuna nehri kıyısındaki yürüyüş yolu, nehir manzarasıyla bisiklet ve yürüyüş için idealdir.", "category": "historical" },
+        { "name": "Diriliş Kilisesi", "text": "19. yüzyıldan kalma protestan kilisesi, bölgedeki neogotik mimarinin güzel bir örneğidir.", "category": "historical" }
       ]
     },
     "nearbySights": {
