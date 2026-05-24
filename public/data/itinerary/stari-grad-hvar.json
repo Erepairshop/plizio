@@ -1,0 +1,882 @@
+{
+  "city_id": "stari-grad-hvar",
+  "anchor": {
+    "name": "Stari Grad (Hvar)",
+    "coords": [
+      16.5928,
+      43.1844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Škor Platz",
+          "coords": [
+            16.598,
+            43.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein barockes Juwel, das einst eine Schiffswerft war.",
+            "hu": "Barokk gyöngyszem, amely egykor hajójavító műhely volt.",
+            "ro": "O bijuterie barocă, care a fost odată șantier naval.",
+            "en": "A baroque jewel that was once a shipyard."
+          }
+        },
+        {
+          "name": "Tvrdalj Kastell",
+          "coords": [
+            16.5975,
+            43.1842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das befestigte Haus des Dichters Petar Hektorović mit Fischteich.",
+            "hu": "Petar Hektorović költő erődített háza halastóval.",
+            "ro": "Casa fortificată a poetului Petar Hektorović, cu un iaz cu pești.",
+            "en": "The fortified house of poet Petar Hektorović with a fish pond."
+          }
+        },
+        {
+          "name": "Museum von Stari Grad",
+          "coords": [
+            16.596,
+            43.1848
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike griechische Geschichte von Faros.",
+            "hu": "Fedezze fel Faros ókori görög történelmét.",
+            "ro": "Descoperiți istoria antică greacă a localității Faros.",
+            "en": "Discover the ancient Greek history of Pharos."
+          }
+        },
+        {
+          "name": "Dominikanerkloster",
+          "coords": [
+            16.5995,
+            43.1818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Tintoretto-Gemälde in der Klosterkirche.",
+            "hu": "Tekintse meg a Tintoretto-festményt a kolostortemplomban.",
+            "ro": "Vizitați pictura lui Tintoretto din biserica mănăstirii.",
+            "en": "View the Tintoretto painting in the monastery church."
+          }
+        },
+        {
+          "name": "Kirche des hl. Stephan",
+          "coords": [
+            16.5985,
+            43.1852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die ehemalige Kathedrale steht auf dem Hauptplatz der Stadt.",
+            "hu": "Az egykori székesegyház a város főterén áll.",
+            "ro": "Fosta catedrală se află în piața principală a orașului.",
+            "en": "The former cathedral stands on the town\"s main square."
+          }
+        },
+        {
+          "name": "Kirche des hl. Rochus",
+          "coords": [
+            16.5972,
+            43.1835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche, erbaut zum Schutz vor der Pest.",
+            "hu": "Kicsi fogadalmi templom, amelyet a pestis elleni védelemért emeltek.",
+            "ro": "Mică biserică votivă, construită pentru protecție împotriva ciumei.",
+            "en": "Small votive church built for protection against the plague."
+          }
+        },
+        {
+          "name": "Ebene von Stari Grad",
+          "coords": [
+            16.61,
+            43.183
+          ],
+          "category": "natural features",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit antiken griechischen Parzellierungen.",
+            "hu": "UNESCO Világörökség ókori görög parcellázásokkal.",
+            "ro": "Patrimoniu UNESCO cu parcelări grecești antice.",
+            "en": "UNESCO World Heritage site with ancient Greek land divisions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am intimen Škor-Platz und besuchen Sie dann das Tvrdalj-Kastell, die befestigte Residenz des Dichters Petar Hektorović. Mittags erkunden Sie das Stari Grad Museum und das nahe gelegene Dominikanerkloster, bevor Sie die barocke St.-Stephans-Kirche besichtigen. Verbringen Sie den Nachmittag mit einem Spaziergang durch die Ebene von Stari Grad, eine UNESCO-Stätte mit antiken Parzellierungen, die seit über zwei Jahrtausenden intakt sind. Den Abschluss bildet ein ruhiger Abend in den engen Gassen der Stadt.",
+        "hu": "Kezdje a reggelt a meghitt Škor téren, majd látogasson el a Tvrdalj-kastélyba, Petar Hektorović költő erődített lakóhelyére. Délben fedezze fel a Stari Grad Múzeumot és a közeli Dominikaner kolostort, majd tekintse meg a barokk Szent István-templomot. Töltse a délutánt sétával a Stari Grad-síkságon, amely UNESCO-helyszín ókori parcellákkal. Zárja a napot egy csendes estével a város szűk utcáin.",
+        "ro": "Începeți dimineața în piața intimă Škor, apoi vizitați castelul Tvrdalj, reședința fortificată a poetului Petar Hektorović. La prânz, explorați Muzeul Stari Grad și mănăstirea dominicană din apropiere, înainte de a vizita biserica barocă Sf. Ștefan. Petreceți după-amiaza cu o plimbare prin Câmpia Stari Grad, un sit UNESCO cu parcelări antice care au rămas intacte de peste două milenii. Încheiați cu o seară liniștită pe străzile înguste ale orașului.",
+        "en": "Start your morning at the intimate Škor Square, then visit the Tvrdalj Castle, the fortified residence of poet Petar Hektorović. Midday is perfect for exploring the Stari Grad Museum and the nearby Dominican Monastery before visiting the Baroque St. Stephen\"s Church. Spend the afternoon walking through the Stari Grad Plain, a UNESCO site with ancient land divisions that have remained intact for over two millennia. End with a quiet evening in the town\"s narrow streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Starogrojski paprenjok",
+            "tip": "Traditioneller Honigpfefferkuchen."
+          },
+          {
+            "name": "Konoba Antika",
+            "tip": "Probieren Sie lokale Spezialitäten in einem rustikalen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Starogrojski paprenjok",
+            "tip": "Hagyományos mézes-borsos sütemény."
+          },
+          {
+            "name": "Konoba Antika",
+            "tip": "Kóstolja meg a helyi specialitásokat rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Starogrojski paprenjok",
+            "tip": "Turtă dulce tradițională cu miere și piper."
+          },
+          {
+            "name": "Konoba Antika",
+            "tip": "Gustați specialități locale într-un ambient rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Starogrojski paprenjok",
+            "tip": "Traditional honey and pepper cookie."
+          },
+          {
+            "name": "Konoba Antika",
+            "tip": "Try local specialties in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein Ort der absoluten Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ebene von Stari Grad",
+            "tip": "Lange Spaziergänge zwischen Olivenhainen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A tökéletes nyugalom helyszíne.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stari Grad-síkság",
+            "tip": "Hosszú séták az olajfaligetek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un loc de liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Câmpia Stari Grad",
+            "tip": "Plimbări lungi printre livezile de măslini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery garden",
+            "tip": "A place of absolute tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stari Grad Plain",
+            "tip": "Long walks between olive groves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Souvenirs",
+            "tip": "Duftsäckchen und Öl von lokalen Feldern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula szuvenírek",
+            "tip": "Illatzsákok és olaj a helyi mezőkről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri cu lavandă",
+            "tip": "Săculeți parfumați și ulei de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender souvenirs",
+            "tip": "Scent bags and oil from local fields."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Gassen im alten Kern sind sehr eng, achten Sie auf Schilder.",
+          "Tvrdalj ist über die Mittagszeit oft geschlossen.",
+          "Bequeme Schuhe für das Kopfsteinpflaster tragen."
+        ],
+        "hu": [
+          "Az óváros utcái nagyon szűkek, figyelje a táblákat.",
+          "A Tvrdalj ebédidőben gyakran zárva tart.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Străzile din centrul vechi sunt foarte înguste, fiți atenți la indicatoare.",
+          "Tvrdalj este adesea închis în timpul prânzului.",
+          "Purtați încălțăminte confortabilă pentru pavajul de piatră."
+        ],
+        "en": [
+          "The alleys in the old core are very narrow, watch for signs.",
+          "Tvrdalj is often closed during lunch hours.",
+          "Wear comfortable shoes for the cobblestones."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Škor Platz",
+          "coords": [
+            16.598,
+            43.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Riva.",
+            "hu": "Kiindulópont a Riva-nál.",
+            "ro": "Punct de plecare de pe Riva.",
+            "en": "Starting point at the Riva."
+          }
+        },
+        {
+          "name": "Ebene von Stari Grad",
+          "coords": [
+            16.615,
+            43.183
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideales flaches Gelände zum Radfahren.",
+            "hu": "Ideális sík terep a kerékpározáshoz.",
+            "ro": "Teren plat ideal pentru ciclism.",
+            "en": "Ideal flat terrain for cycling."
+          }
+        },
+        {
+          "name": "Hügel Glavica",
+          "coords": [
+            16.596,
+            43.192
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, fantastischer Panoramablick.",
+            "hu": "Meredek emelkedő, fantasztikus panoráma.",
+            "ro": "Urcare abruptă, vedere panoramică fantastică.",
+            "en": "Steep climb, fantastic panoramic view."
+          }
+        },
+        {
+          "name": "Dominikanerkloster",
+          "coords": [
+            16.5995,
+            43.1818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuch zum Abschluss der Tour.",
+            "hu": "Látogatás a túra végén.",
+            "ro": "Vizită la finalul turului.",
+            "en": "Visit at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radle durch die UNESCO-geschützte Ebene von Stari Grad und genieße die antike Kulturlandschaft. Der Aufstieg zum Glavica-Hügel bietet den besten Blick auf die Bucht.",
+        "hu": "Tekerjen át az UNESCO által védett Stari Grad-síkságon, és élvezze az ókori kultúrtájat. A Glavica-dombra való feljutás kínálja a legjobb kilátást az öbölre.",
+        "ro": "Pedalați prin Câmpia Stari Grad, protejată de UNESCO, și bucurați-vă de peisajul cultural antic. Urcarea pe dealul Glavica oferă cea mai bună vedere asupra golfului.",
+        "en": "Cycle through the UNESCO-protected Stari Grad Plain and enjoy the ancient cultural landscape. The climb to Glavica Hill offers the best view of the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakehouse Paprenjok",
+            "tip": "Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprenjok pékség",
+            "tip": "Snack az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakehouse Paprenjok",
+            "tip": "Gustare pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakehouse Paprenjok",
+            "tip": "Snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Glavica",
+            "tip": "Ruhe am Gipfelkreuz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glavica-domb",
+            "tip": "Nyugalom a csúcskeresztnél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Glavica",
+            "tip": "Liniște la crucea de pe vârf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glavica Hill",
+            "tip": "Quiet at the summit cross.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Ab-Hof",
+            "tip": "Direkt bei den Bauern in der Ebene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj közvetlenül a termelőtől",
+            "tip": "Vásároljon a síkság gazdáinál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de la fermă",
+            "tip": "Direct de la fermierii din câmpie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil from the farm",
+            "tip": "Directly from farmers in the plain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege in der Ebene sind meist Schotter."
+        ],
+        "hu": [
+          "A síkság útjai többnyire murvásak."
+        ],
+        "ro": [
+          "Drumurile din câmpie sunt în mare parte pietruite."
+        ],
+        "en": [
+          "The paths in the plain are mostly gravel."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fährhafen Stari Grad",
+          "coords": [
+            16.57,
+            43.18
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz für Tagestouristen.",
+            "hu": "Nagy parkoló az egynapos turistáknak.",
+            "ro": "Parcare mare pentru turiștii de o zi.",
+            "en": "Large parking for day tourists."
+          }
+        },
+        {
+          "name": "Ebene von Stari Grad",
+          "coords": [
+            16.615,
+            43.183
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Befahrbare Feldwege, Vorsicht bei Gegenverkehr.",
+            "hu": "Autózható mezei utak, vigyázzon a szembejövőkre.",
+            "ro": "Drumuri de câmp practicabile, atenție la trafic.",
+            "en": "Drivable field paths, be careful of oncoming traffic."
+          }
+        },
+        {
+          "name": "Tvrdalj Kastell",
+          "coords": [
+            16.5975,
+            43.1842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken am Stadtrand empfohlen.",
+            "hu": "Parkolás a város szélén javasolt.",
+            "ro": "Se recomandă parcarea la marginea orașului.",
+            "en": "Parking at the edge of town recommended."
+          }
+        },
+        {
+          "name": "Kirche des hl. Stephan",
+          "coords": [
+            16.5985,
+            43.1852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Platz, nur zu Fuß erreichbar.",
+            "hu": "Központi tér, csak gyalogosan elérhető.",
+            "ro": "Piață centrală, accesibilă doar pe jos.",
+            "en": "Central square, only accessible on foot."
+          }
+        },
+        {
+          "name": "Hügel Glavica",
+          "coords": [
+            16.596,
+            43.192
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz unterhalb des Aussichtspunkts.",
+            "hu": "Parkoló a kilátópont alatt.",
+            "ro": "Parcare sub punctul de belvedere.",
+            "en": "Parking below the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Insel Hvar mit Stari Grad als Basis. Besuchen Sie die UNESCO-Ebene und das historische Zentrum bequem mit dem Auto.",
+        "hu": "Fedezze fel Hvar szigetét Stari Grad-i bázissal. Látogassa meg az UNESCO-síkságot és a történelmi központot kényelmesen, autóval.",
+        "ro": "Explorați insula Hvar cu baza în Stari Grad. Vizitați Câmpia UNESCO și centrul istoric confortabil cu mașina.",
+        "en": "Explore the island of Hvar with Stari Grad as your base. Visit the UNESCO plain and the historic center comfortably by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Pine",
+            "tip": "Lokale Fischküche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pine étterem",
+            "tip": "Helyi halkonyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Pine",
+            "tip": "Bucătărie locală cu pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Pine",
+            "tip": "Local fish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Glavica",
+            "tip": "Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glavica-domb",
+            "tip": "Panorámás kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Glavica",
+            "tip": "Vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glavica Hill",
+            "tip": "Panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hvar Wein",
+            "tip": "Kaufen Sie direkt beim Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hvari bor",
+            "tip": "Vásároljon közvetlenül a borásznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Hvar",
+            "tip": "Cumpărați direct de la vinărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hvar wine",
+            "tip": "Buy directly from the winemaker."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist autofrei."
+        ],
+        "hu": [
+          "Az óváros autómentes övezet."
+        ],
+        "ro": [
+          "Centrul vechi este zonă pietonală."
+        ],
+        "en": [
+          "The old town is a car-free zone."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "12:30",
+      "total_km": 6.0,
+      "stop_count": 3,
+      "stops": [
+        {
+          "name": "Fährhafen Stari Grad",
+          "coords": [
+            16.57,
+            43.18
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunftsort der Fähren von Split.",
+            "hu": "A Splitből érkező kompok kikötője.",
+            "ro": "Locul de sosire a feriboturilor din Split.",
+            "en": "Arrival point of ferries from Split."
+          }
+        },
+        {
+          "name": "Stari Grad Zentrum",
+          "coords": [
+            16.598,
+            43.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Busse verbinden den Hafen mit dem Zentrum.",
+            "hu": "Buszok kötik össze a kikötőt a központtal.",
+            "ro": "Autobuzele fac legătura între port și centru.",
+            "en": "Buses connect the port with the center."
+          }
+        },
+        {
+          "name": "Tvrdalj Kastell",
+          "coords": [
+            16.5975,
+            43.1842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit der Fähre an und nutzen Sie die lokalen Busse, um das Zentrum von Stari Grad zu erreichen.",
+        "hu": "Érkezzen komppal, és használja a helyi buszjáratokat Stari Grad központjának eléréséhez.",
+        "ro": "Sosiți cu feribotul și folosiți autobuzele locale pentru a ajunge în centrul orașului Stari Grad.",
+        "en": "Arrive by ferry and use local buses to reach the center of Stari Grad."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Kod Damira",
+            "tip": "In der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kod Damira bisztró",
+            "tip": "A kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Kod Damira",
+            "tip": "Lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Kod Damira",
+            "tip": "Near the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riva",
+            "tip": "Beobachten Sie das bunte Treiben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riva",
+            "tip": "Figyelje a kikötői nyüzsgést.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riva",
+            "tip": "Urmăriți agitația din port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riva",
+            "tip": "Watch the hustle and bustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstand am Hafen",
+            "tip": "Lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői piaci árus",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabă în port",
+            "tip": "Produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor market stall",
+            "tip": "Local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busfahrpläne sind auf die Fähren abgestimmt."
+        ],
+        "hu": [
+          "A buszmenetrendek a kompokhoz igazodnak."
+        ],
+        "ro": [
+          "Orarele autobuzelor sunt sincronizate cu feriboturile."
+        ],
+        "en": [
+          "Bus schedules are synchronized with the ferries."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Stari Grad",
+    "iso": "HR-17",
+    "coords": [
+      16.5928,
+      43.1844
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visithvar.hr/",
+    "tourism_office": "https://visithvar.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/stari-grad.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Auf der Insel Hvar; Jadrolinija-Faehre von Split nach Stari Grad (ca. 2 h). Englisch und Italienisch werden in Restaurants weit verstanden, Deutsch in den groesseren Hotels.",
+      "hu": "Hvar szigeten; Jadrolinija komp Splitbol Stari Gradba (kb. 2 ora). Az angolt es olaszt szelesebb korben ertik az ettermekben, nemetet a nagyobb szallodakban.",
+      "ro": "Pe insula Hvar; feribot Jadrolinija din Split la Stari Grad (cca 2 h). Engleza si italiana sunt intelese larg in restaurante, germana in hoteluri mai mari.",
+      "en": "On Hvar island; Jadrolinija car ferry from Split to Stari Grad (about 2 h). English and Italian widely understood in restaurants, German in larger hotels."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juni und September: warm, Lavendel- und Weinlese, deutlich weniger Touristen als im Juli und August.",
+      "hu": "Majus es junius eleje, valamint szeptember: meleg, levendula- es szureti idoszak, sokkal kevesebb turista, mint juliusban es augusztusban.",
+      "ro": "Mai si inceput de iunie, plus septembrie: cald, sezon de lavanda si vita-de-vie, mult mai putini turisti decat in iulie-august.",
+      "en": "May and early June plus September: warm, lavender and grape harvest, far fewer crowds than July and August."
+    },
+    "neighborhood_warnings": {
+      "de": "Altstadtgassen sind eng und gepflastert, das Auto kann nicht bis zum Quartier; Parkplatz am Hafen oder am Stadtrand nutzen.",
+      "hu": "Az obvaros utcai keskenyek es kovezettek, autoval nem lehet beallni a szallasig; a kikotonel vagy a varos szelen parkolj.",
+      "ro": "Ulitele din orasul vechi sunt inguste si pavate, masina nu ajunge la cazare; parcheaza in port sau la marginea orasului.",
+      "en": "Old town lanes are narrow and cobbled, you cannot drive up to lodging; park at the harbour or town edge."
+    }
+  }
+}

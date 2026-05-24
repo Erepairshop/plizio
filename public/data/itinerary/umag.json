@@ -1,0 +1,1050 @@
+{
+  "city_id": "umag",
+  "anchor": {
+    "name": "Umag",
+    "coords": [
+      13.5236,
+      45.4339
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Mary"
+          },
+          "coords": [
+            13.5238,
+            45.4338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Wappen von Umag an der Fassade.",
+            "hu": "Figyeld meg Umag címerét a homlokzaton.",
+            "ro": "Observați stema orașului Umag pe fațadă.",
+            "en": "Notice the coat of arms of Umag on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Stadtmauern",
+            "hu": "Történelmi városfalak",
+            "ro": "Zidurile istorice ale orașului",
+            "en": "Historical City Walls"
+          },
+          "coords": [
+            13.5232,
+            45.4348
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überreste der mittelalterlichen Befestigungsanlagen am Meer.",
+            "hu": "A középkori erődítmények maradványai a tengerparton.",
+            "ro": "Rămășițe ale fortificațiilor medievale de pe malul mării.",
+            "en": "Remnants of medieval fortifications by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Umag",
+            "hu": "Umagi Városi Múzeum",
+            "ro": "Muzeul Orașului Umag",
+            "en": "Umag City Museum"
+          },
+          "coords": [
+            13.5225,
+            45.4331
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den 'Turm des Bischofs' im Museum.",
+            "hu": "Látogasd meg a múzeumban a 'Püspöki tornyot'.",
+            "ro": "Vizitați 'Turnul Episcopului' din cadrul muzeului.",
+            "en": "Visit the 'Bishop's Tower' within the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Rochus",
+            "hu": "Szent Rókus-templom",
+            "ro": "Biserica Sf. Roch",
+            "en": "Church of St. Roch"
+          },
+          "coords": [
+            13.5245,
+            45.4332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche mit schöner Holzdecke.",
+            "hu": "Kis fogadalmi templom szép fagerendás mennyezettel.",
+            "ro": "Mică biserică votivă cu plafon frumos din lemn.",
+            "en": "Small votive church with a beautiful wooden ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Umag Promenade",
+            "hu": "Umagi sétány",
+            "ro": "Promenada Umag",
+            "en": "Umag Promenade"
+          },
+          "coords": [
+            13.521,
+            45.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Flanieren Sie entlang der Yachten und Boote.",
+            "hu": "Sétálj végig a jachtok és csónakok mellett.",
+            "ro": "Plimbați-vă pe lângă iahturi și bărci.",
+            "en": "Stroll along the yachts and boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Sepomaia",
+            "hu": "Sepomaia régészeti lelőhely",
+            "ro": "Situl arheologic Sepomaia",
+            "en": "Sepomaia Archaeological Site"
+          },
+          "coords": [
+            13.5485,
+            45.4125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Reste einer antiken römischen Villa am Katoro-Strand.",
+            "hu": "Egy ókori római villa maradványai a Katoro-strandon.",
+            "ro": "Resturile unei vile romane antice pe plaja Katoro.",
+            "en": "Remains of an ancient Roman villa at Katoro beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Kern von Umag bei der barocken Pfarrkirche. Erkunden Sie die mittelalterlichen Mauern und tauchen Sie im Stadtmuseum in die römische Vergangenheit ein. Nach einem Besuch der Rochus-Kirche spazieren Sie entlang der lebhaften Promenade. Zum Abschluss führt der Weg nach Süden zur antiken Stätte Sepomaia, wo Rom auf die Adria trifft.",
+        "hu": "Kezdd a napot Umag történelmi magjában a barokk plébániatemplomnál. Fedezd fel a középkori falakat, és merülj el a római múltban a Városi Múzeumban. A Szent Rókus-templom megtekintése után sétálj végig a pezsgő sétányon. Végezetül az út délre vezet a Sepomaia régészeti lelőhelyhez, ahol Róma és az Adria találkozik.",
+        "ro": "Începeți ziua în nucleul istoric al Umagului, la biserica parohială barocă. Explorați zidurile medievale și scufundați-vă în trecutul roman la Muzeul Orașului. După o vizită la biserica Sf. Roch, plimbați-vă pe promenada plină de viață. La final, drumul duce spre sud către situl arheologic Sepomaia, unde Roma întâlnește Adriatica.",
+        "en": "Start your day in the historical core of Umag at the Baroque parish church. Explore the medieval walls and dive into the Roman past at the City Museum. After visiting St. Roch Church, stroll along the lively promenade. Finally, the path leads south to the Sepomaia archaeological site, where Rome meets the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrianer Steinpilze",
+            "tip": "Saisonal in der Konoba Buščina probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai vargánya",
+            "tip": "Szezonálisan kóstold meg a Konoba Buščina-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hribi istrieni",
+            "tip": "Încercați-i sezonier la Konoba Buščina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Porcini",
+            "tip": "Try them seasonally at Konoba Buščina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Katoro Strand",
+            "tip": "Ruhige Ecken abseits des Zentrums.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katoro-strand",
+            "tip": "Csendes sarkok a központon kívül.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Katoro",
+            "tip": "Colțuri liniștite în afara centrului.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Katoro Beach",
+            "tip": "Quiet corners away from the center.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelprodukte",
+            "tip": "Auf dem Markt in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula termékek",
+            "tip": "Az óvárosi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu lavandă",
+            "tip": "În piața din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Products",
+            "tip": "At the market in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Umag ist sehr flach und daher ideal für lange Spaziergänge.",
+          "Die meisten Sehenswürdigkeiten befinden sich in der Fußgängerzone.",
+          "In der Nähe des Stadtturms gibt es kostenloses WLAN.",
+          "Die Promenade ist abends wunderschön beleuchtet."
+        ],
+        "hu": [
+          "Umag nagyon sík, ezért ideális hosszú sétákhoz.",
+          "A legtöbb látnivaló a gyalogosövezetben található.",
+          "A várostorony közelében ingyenes Wi-Fi érhető el.",
+          "A sétány este gyönyörűen meg van világítva."
+        ],
+        "ro": [
+          "Umag este foarte plan, fiind ideal pentru plimbări lungi.",
+          "Majoritatea obiectivelor turistice se află în zona pietonală.",
+          "Lângă turnul orașului există Wi-Fi gratuit.",
+          "Promenada este frumos iluminată seara."
+        ],
+        "en": [
+          "Umag is very flat, making it ideal for long walks.",
+          "Most sights are located in the pedestrian zone.",
+          "Free Wi-Fi is available near the town tower.",
+          "The promenade is beautifully illuminated in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Umag Promenade",
+            "hu": "Umagi sétány",
+            "ro": "Promenada Umag",
+            "en": "Umag Promenade"
+          },
+          "coords": [
+            13.521,
+            45.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radweg direkt am Wasser.",
+            "hu": "Kerékpárút közvetlenül a vízparton.",
+            "ro": "Pistă de biciclete chiar pe malul apei.",
+            "en": "Bike path right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Maris ATP Stadion",
+            "hu": "Stella Maris ATP stadion",
+            "ro": "Stadionul Stella Maris ATP",
+            "en": "Stella Maris ATP Stadium"
+          },
+          "coords": [
+            13.5195,
+            45.4485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentrum des kroatischen Tennis.",
+            "hu": "A horvát tenisz központja.",
+            "ro": "Centrul tenisului croat.",
+            "en": "The center of Croatian tennis."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Savudrija",
+            "hu": "Savudrijai világítótorony",
+            "ro": "Farul Savudrija",
+            "en": "Savudrija Lighthouse"
+          },
+          "coords": [
+            13.4882,
+            45.4885
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Der älteste Leuchtturm an der Adria (1818).",
+            "hu": "Az Adria legrégebbi világítótornya (1818).",
+            "ro": "Cel mai vechi far de la Marea Adriatică (1818).",
+            "en": "The oldest lighthouse on the Adriatic (1818)."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Stadtmauern",
+            "hu": "Történelmi városfalak",
+            "ro": "Zidurile istorice ale orașului",
+            "en": "Historical City Walls"
+          },
+          "coords": [
+            13.5232,
+            45.4348
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Rückkehr in die Altstadt.",
+            "hu": "Visszatérés az óvárosba.",
+            "ro": "Revenire în orașul vechi.",
+            "en": "Return to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Umag",
+            "hu": "Umagi Városi Múzeum",
+            "ro": "Muzeul Orașului Umag",
+            "en": "Umag City Museum"
+          },
+          "coords": [
+            13.5225,
+            45.4331
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kulturstopp zwischendurch.",
+            "hu": "Kulturális megálló útközben.",
+            "ro": "Oprire culturală pe parcurs.",
+            "en": "Cultural stop in between."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Mary"
+          },
+          "coords": [
+            13.5238,
+            45.4338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kühler Ort zum Abschluss.",
+            "hu": "Hűvös hely a záráshoz.",
+            "ro": "Loc răcoros pentru final.",
+            "en": "Cool place to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der Promenade nach Norden zum Stella Maris Stadion. Das Highlight ist der historische Leuchtturm von Savudrija, der älteste seiner Art an der Adria. Nach der Rückfahrt erkunden Sie die Stadtmauern und das Museum, bevor Sie den Ausflug an der zentralen Pfarrkirche beenden.",
+        "hu": "Tekerj a sétánytól északra a Stella Maris stadionhoz. A túra csúcspontja a savudrijai történelmi világítótorony, az Adria legrégebbi ilyen építménye. A visszautat követően fedezd fel a városfalakat és a múzeumot, majd zárd a kirándulást a központi plébániatemplomnál.",
+        "ro": "Pedalați de la promenadă spre nord până la stadionul Stella Maris. Punctul culminant este farul istoric din Savudrija, cel mai vechi de acest fel de la Marea Adriatică. După întoarcere, explorați zidurile orașului și muzeul, înainte de a încheia excursia la biserica parohială centrală.",
+        "en": "Cycle north from the promenade to the Stella Maris stadium. The highlight is the historical Savudrija lighthouse, the oldest of its kind on the Adriatic. After the return ride, explore the city walls and the museum before ending the excursion at the central parish church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "In der Konoba Rustica in Savudrija."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "A savudrijai Konoba Rustica-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "La Konoba Rustica din Savudrija."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "At Konoba Rustica in Savudrija."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Savudrija Klippen",
+            "tip": "Wilde Küste nördlich von Umag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savudrijai sziklák",
+            "tip": "Vadregényes partvidék Umagtól északra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Savudrija",
+            "tip": "Coastă sălbatică la nord de Umag.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Savudrija Cliffs",
+            "tip": "Wild coast north of Umag.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meersalz",
+            "tip": "Lokales Salz aus den nahen Salinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri só",
+            "tip": "Helyi só a közeli lepárlókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare de mare",
+            "tip": "Sare locală de la salinele din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Salt",
+            "tip": "Local salt from the nearby salines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße nach Savudrija ist größtenteils flach und gut befahrbar.",
+          "In Stella Maris gibt es viele Schattenplätze für Pausen.",
+          "Schließen Sie Ihr Rad am Leuchtturm sicher ab, bevor Sie die Küste erkunden.",
+          "Der Wind (Maestral) kann nachmittags stärker werden."
+        ],
+        "hu": [
+          "A Savudrija felé vezető parti út nagyrészt sík és jól járható.",
+          "Stella Maris területén sok árnyékos hely van pihenéshez.",
+          "A világítótoronynál zárd le biztonságosan a biciklit, mielőtt felfedeznéd a partot.",
+          "A szél (Maestral) délutánonként megerősödhet."
+        ],
+        "ro": [
+          "Drumul de coastă spre Savudrija este în mare parte plan și ușor de parcurs.",
+          "În Stella Maris există multe locuri umbrite pentru pauze.",
+          "Încuiați bine bicicleta la far înainte de a explora țărmul.",
+          "Vântul (Maestral) se poate intensifica după-amiaza."
+        ],
+        "en": [
+          "The coastal road to Savudrija is mostly flat and easy to ride.",
+          "There are many shady spots for breaks in Stella Maris.",
+          "Lock your bike securely at the lighthouse before exploring the shore.",
+          "The wind (Maestral) can pick up in the afternoon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmuseum Umag",
+            "hu": "Umagi Városi Múzeum",
+            "ro": "Muzeul Orașului Umag",
+            "en": "Umag City Museum"
+          },
+          "coords": [
+            13.5225,
+            45.4331
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkplatz an der Marina nutzen.",
+            "hu": "Használd a Marinánál lévő parkolót.",
+            "ro": "Utilizați parcarea de la Marină.",
+            "en": "Use the parking lot at the Marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Maris ATP Stadion",
+            "hu": "Stella Maris ATP stadion",
+            "ro": "Stadionul Stella Maris ATP",
+            "en": "Stella Maris ATP Stadium"
+          },
+          "coords": [
+            13.5195,
+            45.4485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadiongelände.",
+            "hu": "Látogasd meg a stadion területét.",
+            "ro": "Vizitați incinta stadionului.",
+            "en": "Visit the stadium grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Savudrija",
+            "hu": "Savudrijai világítótorony",
+            "ro": "Farul Savudrija",
+            "en": "Savudrija Lighthouse"
+          },
+          "coords": [
+            13.4882,
+            45.4885
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Region.",
+            "hu": "A régió jelképe.",
+            "ro": "Simbolul regiunii.",
+            "en": "Landmark of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Sepomaia",
+            "hu": "Sepomaia régészeti lelőhely",
+            "ro": "Situl arheologic Sepomaia",
+            "en": "Sepomaia Archaeological Site"
+          },
+          "coords": [
+            13.5485,
+            45.4125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Römische Mosaike am Meer.",
+            "hu": "Római mozaikok a tengerparton.",
+            "ro": "Mozaicuri romane la malul mării.",
+            "en": "Roman mosaics by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Umag Promenade",
+            "hu": "Umagi sétány",
+            "ro": "Promenada Umag",
+            "en": "Umag Promenade"
+          },
+          "coords": [
+            13.521,
+            45.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ideal für ein spätes Mittagessen.",
+            "hu": "Ideális egy késői ebédhez.",
+            "ro": "Ideal pentru un prânz târziu.",
+            "en": "Ideal for a late lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Umag und Umgebung. Starten Sie beim Stadtmuseum, besuchen Sie das berühmte ATP-Stadion und fahren Sie zum nördlichsten Punkt Istriens, dem Leuchtturm Savudrija. Danach geht es südlich zur antiken Stätte Sepomaia, bevor Sie den Tag an der Promenade von Umag ausklingen lassen.",
+        "hu": "Autóval kényelmesen felfedezheted Umag és környéke legfőbb látnivalóit. Kezdj a Városi Múzeumnál, látogasd meg a híres ATP stadiont, majd autózz el Isztria legészakibb pontjához, a savudrijai világítótoronyhoz. Ezután délnek veszed az irányt a Sepomaia régészeti lelőhelyhez, végül az umagi sétányon zárod a napot.",
+        "ro": "Cu mașina puteți explora punctele forte ale Umagului și împrejurimilor. Începeți la Muzeul Orașului, vizitați celebrul stadion ATP și conduceți până în cel mai nordic punct al Istriei, farul Savudrija. Apoi mergeți spre sud către situl arheologic Sepomaia, înainte de a încheia ziua pe promenada din Umag.",
+        "en": "By car, explore the highlights of Umag and its surroundings. Start at the City Museum, visit the famous ATP stadium, and drive to the northernmost point of Istria, the Savudrija lighthouse. Then head south to the ancient Sepomaia site before ending the day on the Umag promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrische Trüffel",
+            "tip": "Pasta mit Trüffeln im Restaurant Badi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai szarvasgomba",
+            "tip": "Szarvasgombás tészta a Badi étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trufe istriene",
+            "tip": "Paste cu trufe la restaurantul Badi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Truffles",
+            "tip": "Pasta with truffles at Restaurant Badi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zambratija Bucht",
+            "tip": "Ruhiger Sandstrand in der Nähe.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zambratija-öböl",
+            "tip": "Csendes homokos strand a közelben.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Zambratija",
+            "tip": "Plajă liniștită cu nisip în apropiere.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zambratija Bay",
+            "tip": "Quiet sandy beach nearby.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein & Öl",
+            "tip": "Direktverkauf in den Kellereien rund um Umag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor és olaj",
+            "tip": "Közvetlen értékesítés az Umag környéki pincészetekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin și ulei",
+            "tip": "Vânzare directă la cramele din jurul Umagului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine & Oil",
+            "tip": "Direct sales at the wineries around Umag."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt genügend Parkplätze in der Nähe aller Sehenswürdigkeiten.",
+          "Die Straße zum Leuchtturm führt durch malerische Dörfer.",
+          "Vermeiden Sie das Zentrum während der ATP-Woche wegen Staus.",
+          "Katoro bietet gute Parkmöglichkeiten für den Besuch von Sepomaia."
+        ],
+        "hu": [
+          "Minden látnivaló közelében elegendő parkolóhely található.",
+          "A világítótoronyhoz vezető út festői falvakon halad át.",
+          "Az ATP-torna hetében kerüld el a központot a dugók miatt.",
+          "Katoro jó parkolási lehetőségeket kínál Sepomaia meglátogatásához."
+        ],
+        "ro": [
+          "Există suficiente locuri de parcare în apropierea tuturor obiectivelor.",
+          "Drumul spre far trece prin sate pitorești.",
+          "Evitați centrul în timpul săptămânii ATP din cauza aglomerației.",
+          "Katoro oferă bune posibilități de parcare pentru vizitarea Sepomaia."
+        ],
+        "en": [
+          "There is sufficient parking near all the sights.",
+          "The road to the lighthouse passes through scenic villages.",
+          "Avoid the center during ATP week due to traffic jams.",
+          "Katoro offers good parking options for visiting Sepomaia."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busstation Umag",
+            "hu": "Umagi buszpályaudvar",
+            "ro": "Autogara Umag",
+            "en": "Umag Bus Station"
+          },
+          "coords": [
+            13.527,
+            45.4315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt für Busse aus Triest oder Pula.",
+            "hu": "A Triesztből vagy Pulából érkező buszok érkezési helye.",
+            "ro": "Punct de sosire pentru autobuzele din Trieste sau Pula.",
+            "en": "Arrival point for buses from Trieste or Pula."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Mary"
+          },
+          "coords": [
+            13.5238,
+            45.4338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busbahnhof ins Zentrum.",
+            "hu": "Rövid séta a buszpályaudvartól a központig.",
+            "ro": "Scurtă plimbare de la autogară până în centru.",
+            "en": "Short walk from the bus station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Umag",
+            "hu": "Umagi Városi Múzeum",
+            "ro": "Muzeul Orașului Umag",
+            "en": "Umag City Museum"
+          },
+          "coords": [
+            13.5225,
+            45.4331
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Im historischen Zentrum gelegen.",
+            "hu": "A történelmi központban található.",
+            "ro": "Situat în centrul istoric.",
+            "en": "Located in the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Umag Promenade",
+            "hu": "Umagi sétány",
+            "ro": "Promenada Umag",
+            "en": "Umag Promenade"
+          },
+          "coords": [
+            13.521,
+            45.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier startet der Touristenzug.",
+            "hu": "Innen indul a kisvonat.",
+            "ro": "De aici pleacă trenulețul turistic.",
+            "en": "The tourist train starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Maris",
+            "hu": "Stella Maris",
+            "ro": "Stella Maris",
+            "en": "Stella Maris"
+          },
+          "coords": [
+            13.5195,
+            45.4485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Touristenzug hierher.",
+            "hu": "Utazz ide a kisvonattal.",
+            "ro": "Mergeți până aici cu trenulețul turistic.",
+            "en": "Take the tourist train here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Busbahnhof erreichen Sie die Altstadt in wenigen Minuten. Erkunden Sie die Kirche und das Museum zu Fuß. Ein Touristenzug verbindet das Zentrum regelmäßig mit dem Stella Maris Resort, wo Sie entspannen können, bevor Sie zum Bus zurückkehren.",
+        "hu": "A buszpályaudvartól pár perc alatt elérhető az óváros. Fedezd fel gyalog a templomot és a múzeumot. Egy kisvonat rendszeresen összeköti a központot a Stella Maris üdülőhellyel, ahol megpihenhetsz, mielőtt visszatérnél a buszhoz.",
+        "ro": "De la autogară ajungeți în centrul vechi în câteva minute. Explorați biserica și muzeul pe jos. Un trenuleț turistic conectează regulat centrul cu stațiunea Stella Maris, unde vă puteți relaxa înainte de a reveni la autobuz.",
+        "en": "From the bus station, you can reach the old town in a few minutes. Explore the church and the museum on foot. A tourist train regularly connects the center with the Stella Maris resort, where you can relax before returning to the bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "In der Bäckerei nahe dem Busbahnhof probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Kóstold meg a buszpályaudvar melletti pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "Încercați la brutăria de lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "Try it at the bakery near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Kleine Grünanlage im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Kis zöldterület a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Mică zonă verde în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Small green area in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Andenken",
+            "tip": "Kleine Shops an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emléktárgyak",
+            "tip": "Kis üzletek a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri",
+            "tip": "Mici magazine pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs",
+            "tip": "Small shops on the promenade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Touristenzug ist die beste Verbindung zwischen Zentrum und Katoro/Stella Maris.",
+          "Die Busfrequenzen nach Novigrad oder Poreč sind gut.",
+          "Informationen zu Abfahrten finden Sie digital am Bahnhof.",
+          "In der Nähe der Haltestellen gibt es meist Schatten."
+        ],
+        "hu": [
+          "A kisvonat a legjobb összeköttetés a központ és Katoro/Stella Maris között.",
+          "A Novigradba vagy Porečbe tartó buszok gyakorisága jó.",
+          "Az indulásokról a pályaudvaron digitálisan tájékozódhatsz.",
+          "A megállók közelében általában van árnyék."
+        ],
+        "ro": [
+          "Trenulețul turistic este cea mai bună legătură între centru și Katoro/Stella Maris.",
+          "Frecvența autobuzelor spre Novigrad sau Poreč este bună.",
+          "Informații despre plecări se găsesc digital în autogară.",
+          "Lângă stații există de obicei umbră."
+        ],
+        "en": [
+          "The tourist train is the best connection between the center and Katoro/Stella Maris.",
+          "Bus frequencies to Novigrad or Poreč are good.",
+          "Information on departures can be found digitally at the station.",
+          "Shade is usually available near the stops."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Umag",
+    "iso": "HR-18",
+    "coords": [
+      13.5236,
+      45.4339
+    ],
+    "transit_official": "https://arriva.com.hr/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.umag.hr/en/events",
+    "tourism_office": "https://www.coloursofistria.com/en/destinations/umag",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/istarska.html",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.croatiaopen.hr/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Nordwestliches Istrien, dicht an der slowenischen Grenze; Italienisch und Deutsch sind im Tourismus Standard, Englisch ueberall.",
+      "hu": "Eszaknyugat-Isztria, kozel a szloven hatarhoz; az olasz es a nemet a turizmusban alap, az angol mindenutt.",
+      "ro": "Nord-vestul Istriei, aproape de granita cu Slovenia; italiana si germana sunt standard in turism, engleza peste tot.",
+      "en": "Northwest Istria, close to the Slovenian border; Italian and German are standard in tourism, English everywhere."
+    },
+    "best_time_to_visit": {
+      "de": "Spaetjuli rund um das ATP-Tennis-Turnier Croatia Open, sonst Mai, Juni und September fuer ruhigere Straende.",
+      "hu": "Julius vege a Croatia Open ATP teniszverseny korul, egyebkent majus, junius es szeptember nyugodtabb strandhoz.",
+      "ro": "Sfarsit de iulie in jurul turneului ATP Croatia Open, altfel mai, iunie si septembrie pentru plaje mai linistite.",
+      "en": "Late July around the Croatia Open ATP tennis tournament, otherwise May, June and September for quieter beaches."
+    },
+    "neighborhood_warnings": {
+      "de": "Waehrend des ATP-Turniers (Stella Maris) sind Verkehr und Parken stark belastet, Unterkunft fruehzeitig buchen.",
+      "hu": "Az ATP-verseny ideje alatt (Stella Maris) a kozlekedes es parkolas leterhelt, szallast korabban foglalj.",
+      "ro": "In timpul turneului ATP (Stella Maris), traficul si parcarea sunt foarte incarcate, rezerva cazarea din timp.",
+      "en": "During the ATP tournament (Stella Maris) traffic and parking get heavily loaded, book lodging well ahead."
+    }
+  }
+}

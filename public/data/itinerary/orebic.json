@@ -1,0 +1,1111 @@
+{
+  "city_id": "orebic",
+  "anchor": {
+    "name": "Orebić",
+    "coords": [
+      17.1758,
+      42.9744
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Hilfe der Christen",
+            "hu": "Segítő Szűz Mária-plébániatemplom",
+            "ro": "Biserica parohială Sfânta Maria Ajutorul Creștinilor",
+            "en": "Parish Church of Mary Help of Christians"
+          },
+          "coords": [
+            17.179,
+            42.9748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Fassade dieser im 19. Jahrhundert erbauten Kirche.",
+            "hu": "Csodáld meg a 19. századi templom pompás homlokzatát.",
+            "ro": "Admirați fațada splendidă a acestei biserici construite în secolul al XIX-lea.",
+            "en": "Admire the magnificent facade of this 19th-century church."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade der Kapitäne",
+            "hu": "Kapitányok sétánya",
+            "ro": "Promenada Căpitanilor",
+            "en": "Captains' Promenade"
+          },
+          "coords": [
+            17.18,
+            42.974
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang vorbei an prächtigen Kapitänshäusern mit Gärten.",
+            "hu": "Séta a pompás, kertes kapitányi házak mentén.",
+            "ro": "O plimbare pe lângă casele superbe ale căpitanilor, cu grădini.",
+            "en": "A walk past magnificent captains' houses with gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Orebić",
+            "hu": "Orebić Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Orebić",
+            "en": "Maritime Museum Orebić"
+          },
+          "coords": [
+            17.177,
+            42.974
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét.",
+            "ro": "Descoperiți istoria maritimă bogată a regiunii.",
+            "en": "Discover the rich maritime history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Mimbelli",
+            "hu": "Mimbelli-palota",
+            "ro": "Palatul Mimbelli",
+            "en": "Mimbelli Palace"
+          },
+          "coords": [
+            17.178,
+            42.9745
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Symbol für den Wohlstand der ehemaligen Kapitäne von Orebić.",
+            "hu": "Az egykori orebići kapitányok jólétének szimbóluma.",
+            "ro": "Un simbol al prosperității foștilor căpitani din Orebić.",
+            "en": "A symbol of the prosperity of the former captains of Orebić."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Trstenica",
+            "hu": "Trstenica strand",
+            "ro": "Plaja Trstenica",
+            "en": "Trstenica Beach"
+          },
+          "coords": [
+            17.189,
+            42.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der bekannteste Sandstrand der Halbinsel Pelješac.",
+            "hu": "A Pelješac-félsziget legismertebb homokos strandja.",
+            "ro": "Cea mai cunoscută plajă cu nisip de pe peninsula Pelješac.",
+            "en": "The most famous sandy beach on the Pelješac peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitänsfriedhof",
+            "hu": "Kapitányok temetője",
+            "ro": "Cimitirul Căpitanilor",
+            "en": "Captains' Cemetery"
+          },
+          "coords": [
+            17.1555,
+            42.9815
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gräber der Seefahrerfamilien mit Blick aufs Meer.",
+            "hu": "Látogasson el a tengerészdinasztiák sírjaihoz, kilátással a tengerre.",
+            "ro": "Vizitați mormintele familiilor de navigatori, cu vedere la mare.",
+            "en": "Visit the graves of seafaring families overlooking the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Orebić beginnt mit dem Besuch der beeindruckenden Pfarrkirche, gefolgt von einem Spaziergang entlang der Uferpromenade. Die prachtvollen Kapitänshäuser zeugen vom einstigen Reichtum dieses Ortes.\n\nTauchen Sie im Schifffahrtsmuseum tiefer in die maritime Vergangenheit ein, bevor Sie den Palast Mimbelli bewundern. Die Geschichte der Seefahrt ist hier in jeder Gasse spürbar.\n\nVerbringen Sie den sonnigen Nachmittag am Strand Trstenica. Der weiche Sand und das flache Wasser sind ideal für eine entspannte Pause unter der dalmatinischen Sonne.\n\nEin längerer Spaziergang führt Sie zum Abschluss zum Kapitänsfriedhof. Von dort oben haben Sie einen majestätischen Blick auf den Pelješac-Kanal und die gegenüberliegende Stadt Korčula bei Sonnenuntergang.",
+        "hu": "Az orebići reggel a lenyűgöző plébániatemplom meglátogatásával kezdődik, majd sétával folytatódik a tengerparti sétányon. A pompás kapitányi házak a település egykori gazdagságáról tanúskodnak.\n\nMerüljön el a tengerészeti múltban a Tengerészeti Múzeumban, mielőtt megcsodálná a Mimbelli-palotát. A hajózás történelme minden utcában érezhető.\n\nTöltse a napsütéses délutánt a Trstenica strandon. A puha homok és a sekély víz ideális egy pihentető szünethez a dalmát nap alatt.\n\nZárásként egy hosszabb séta vezet a Kapitányok temetőjéhez. Onnan fentről fenséges kilátás nyílik a Pelješac-csatornára és a szemközti Korčula városára a naplementében.",
+        "ro": "Dimineața în Orebić începe cu vizitarea bisericii parohiale impresionante, urmată de o plimbare pe promenada de pe faleză. Casele superbe ale căpitanilor stau mărturie bogăției de odinioară a acestui loc.\n\nAprofundați trecutul maritim la Muzeul Maritim înainte de a admira Palatul Mimbelli. Istoria navigației se simte aici la fiecare pas.\n\nPetreceți după-amiaza însorită pe plaja Trstenica. Nisipul fin și apa puțin adâncă sunt ideale pentru o pauză relaxantă sub soarele dalmat.\n\nÎn final, o plimbare mai lungă vă duce la Cimitirul Căpitanilor. De acolo de sus, aveți o vedere maiestuoasă asupra canalului Pelješac și a orașului Korčula de pe malul opus, la apus.",
+        "en": "Morning in Orebić begins with a visit to the impressive parish church, followed by a walk along the seaside promenade. The magnificent captains' houses bear witness to the former wealth of this place.\n\nDive deeper into the maritime past at the Maritime Museum before admiring the Mimbelli Palace. The history of seafaring is palpable in every alley here.\n\nSpend the sunny afternoon at Trstenica Beach. The soft sand and shallow water are ideal for a relaxing break under the Dalmatian sun.\n\nFinally, a longer walk leads you to the Captains' Cemetery. From up there, you have a majestic view of the Pelješac Channel and the opposite town of Korčula at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dingač Wein",
+            "tip": "Probieren Sie den berühmten Rotwein der Halbinsel in der Vinoteka Pelješac."
+          },
+          {
+            "name": "Austern aus Ston",
+            "tip": "Frische Austern aus der nahen Bucht, serviert im Restaurant Karako."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dingač bor",
+            "tip": "Kóstolja meg a félsziget híres vörösborát a Vinoteka Pelješacban."
+          },
+          {
+            "name": "Stoni osztriga",
+            "tip": "Friss osztriga a közeli öbölből, felszolgálva a Karako étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Dingač",
+            "tip": "Gustați celebrul vin roșu al peninsulei la Vinoteka Pelješac."
+          },
+          {
+            "name": "Stridii de Ston",
+            "tip": "Stridii proaspete din golful apropiat, servite la restaurantul Karako."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dingač Wine",
+            "tip": "Taste the peninsula's famous red wine at Vinoteka Pelješac."
+          },
+          {
+            "name": "Ston Oysters",
+            "tip": "Fresh oysters from the nearby bay, served at Karako Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Franziskanerkloster",
+            "tip": "Stille Kreuzgänge und Panorama-Terrasse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hügel oberhalb der Stadt",
+            "tip": "Ruhiger Blick auf die Inselwelt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferences kolostor",
+            "tip": "Csendes kerengők és panorámás terasz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A város feletti dombok",
+            "tip": "Nyugodt kilátás a szigetvilágra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Franciscană",
+            "tip": "Cloistere liniștite și terasă panoramică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "Priviți în liniște arhipelagul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Franciscan Monastery",
+            "tip": "Quiet cloisters and panoramic terrace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hills above the town",
+            "tip": "Quiet view of the islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pelješac-Wein",
+            "tip": "Lokale Weine direkt in den Weinkellern kaufen."
+          },
+          {
+            "name": "Korallen-Schmuck",
+            "tip": "Traditionelle Handarbeit in den Souvenirläden am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pelješac bor",
+            "tip": "Vásároljon helyi borokat közvetlenül a borospincékben."
+          },
+          {
+            "name": "Korallékszer",
+            "tip": "Hagyományos kézműves termék a kikötői ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Pelješac",
+            "tip": "Cumpărați vinuri locale direct din crame."
+          },
+          {
+            "name": "Bijuterii cu coral",
+            "tip": "Lucrate tradițional, disponibile în magazinele de suveniruri din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pelješac Wine",
+            "tip": "Buy local wines directly from the wine cellars."
+          },
+          {
+            "name": "Coral Jewelry",
+            "tip": "Traditional handicraft in the souvenir shops at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Sonne, Trstenica hat wenig natürlichen Schatten.",
+          "Besuchen Sie das Museum am Vormittag.",
+          "Die Fähre nach Korčula legt regelmäßig ab.",
+          "Nehmen Sie Wasser für den Weg zum Friedhof mit."
+        ],
+        "hu": [
+          "Ügyeljen a napra, Trstenicának kevés természetes árnyéka van.",
+          "A múzeumot délelőtt érdemes felkeresni.",
+          "A Korčulára tartó komp rendszeresen indul.",
+          "Vigyen vizet a temetőhöz vezető útra."
+        ],
+        "ro": [
+          "Atenție la soare, Trstenica are puțină umbră naturală.",
+          "Vizitați muzeul în cursul dimineții.",
+          "Feribotul spre Korčula pleacă regulat.",
+          "Luați apă pentru drumul spre cimitir."
+        ],
+        "en": [
+          "Watch out for the sun, Trstenica has little natural shade.",
+          "Visit the museum in the morning.",
+          "The ferry to Korčula departs regularly.",
+          "Take water for the walk to the cemetery."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade der Kapitäne",
+            "hu": "Kapitányok sétánya",
+            "ro": "Promenada Căpitanilor",
+            "en": "Captains' Promenade"
+          },
+          "coords": [
+            17.18,
+            42.974
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Flache Strecke ideal zum gemütlichen Einrollen.",
+            "hu": "Sík szakasz, ideális a kényelmes bemelegítéshez.",
+            "ro": "Traseu plan, ideal pentru o încălzire relaxată.",
+            "en": "Flat stretch ideal for a leisurely warm-up."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Trstenica",
+            "hu": "Trstenica strand",
+            "ro": "Plaja Trstenica",
+            "en": "Trstenica Beach"
+          },
+          "coords": [
+            17.189,
+            42.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Früh am Morgen ist es hier noch wunderbar ruhig.",
+            "hu": "Kora reggel még csodálatosan nyugodt itt a környék.",
+            "ro": "Dimineața devreme este încă minunat de liniște aici.",
+            "en": "It is still wonderfully quiet here early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Unserer Lieben Frau von den Engeln",
+            "hu": "Angyalok Boldogasszonya ferences kolostor",
+            "ro": "Mănăstirea Franciscană Maica Domnului Îngerilor",
+            "en": "Franciscan Monastery of Our Lady of the Angels"
+          },
+          "coords": [
+            17.155,
+            42.982
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein moderater Anstieg, der mit Panoramablick belohnt wird.",
+            "hu": "Mérsékelt emelkedő, amelyet panorámás kilátás jutalmaz.",
+            "ro": "O urcare moderată, răsplătită cu o priveliște panoramică.",
+            "en": "A moderate climb rewarded with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitänsfriedhof",
+            "hu": "Kapitányok temetője",
+            "ro": "Cimitirul Căpitanilor",
+            "en": "Captains' Cemetery"
+          },
+          "coords": [
+            17.1555,
+            42.9815
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Kloster gelegen.",
+            "hu": "Közvetlenül a kolostor mellett található.",
+            "ro": "Situat chiar lângă mănăstire.",
+            "en": "Located right next to the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Sveti Ilija",
+            "hu": "Sveti Ilija-hegy",
+            "ro": "Muntele Sveti Ilija",
+            "en": "Mount Sveti Ilija"
+          },
+          "coords": [
+            17.158,
+            43.003
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Ende der befestigten Straße.",
+            "hu": "Biciklizzen az aszfaltozott út végéig.",
+            "ro": "Mergeți cu bicicleta până la capătul drumului asfaltat.",
+            "en": "Cycle to the end of the paved road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt auf der flachen Uferpromenade von Orebić. Ein kurzer Halt am Strand Trstenica am frühen Vormittag bietet die perfekte Gelegenheit für ein kurzes Bad vor der sportlichen Herausforderung.\n\nDer Weg führt Sie anschließend hinauf zum Franziskanerkloster. Der Anstieg ist mit dem Fahrrad gut zu bewältigen und bietet immer wieder fantastische Ausblicke auf den Archipel von Korčula.\n\nBesuchen Sie den angrenzenden Kapitänsfriedhof, bevor Sie die Tour in Richtung des Berges Sveti Ilija fortsetzen. Bis zum Ende der befestigten Wege können Sie die wilde Natur des Pelješac genießen.\n\nDie Abfahrt zurück in die Stadt ist ein Genuss. Beenden Sie den Tag bei einem erfrischenden Getränk am Hafen, während Sie die Segelboote beobachten.",
+        "hu": "Kezdje a biciklitúrát kényelmesen Orebić sík tengerparti sétányán. Egy rövid megálló a Trstenica strandon kora délelőtt tökéletes alkalom egy gyors fürdőzésre a sportos kihívás előtt.\n\nAz út ezután felfelé vezet a ferences kolostorhoz. Az emelkedő kerékpárral jól teljesíthető, és útközben fantasztikus kilátás nyílik Korčula szigetvilágára.\n\nLátogasson el a szomszédos Kapitányok temetőjéhez, mielőtt folytatná a túrát a Sveti Ilija-hegy irányába. A kiépített utak végéig élvezheti Pelješac vad természetét.\n\nA városba való visszatérés igazi élmény. Zárja a napot egy frissítő itallal a kikötőben, miközben a vitorlásokat figyeli.",
+        "ro": "Începeți tura cu bicicleta relaxat pe promenada plană din Orebić. O scurtă oprire la plaja Trstenica dimineața devreme oferă ocazia perfectă pentru o baie scurtă înainte de provocarea sportivă.\n\nDrumul vă duce apoi sus spre mănăstirea franciscană. Urcarea este ușor de parcurs cu bicicleta și oferă constant vederi fantastice asupra arhipelagului Korčula.\n\nVizitați cimitirul căpitanilor învecinat înainte de a continua tura spre muntele Sveti Ilija. Până la capătul drumurilor amenajate, vă puteți bucura de natura sălbatică a peninsulei Pelješac.\n\nCoborârea înapoi în oraș este o plăcere. Încheiați ziua cu o băutură răcoritoare în port, în timp ce urmăriți ambarcațiunile cu pânze.",
+        "en": "Start your bike tour relaxed on the flat seaside promenade of Orebić. A short stop at Trstenica Beach in the early morning provides the perfect opportunity for a quick swim before the sporting challenge.\n\nThe path then leads you up to the Franciscan monastery. The climb is manageable by bike and offers fantastic views of the Korčula archipelago at every turn.\n\nVisit the adjacent Captains' Cemetery before continuing the tour towards Mount Sveti Ilija. You can enjoy the wild nature of Pelješac until the end of the paved paths.\n\nThe descent back into town is a treat. End the day with a refreshing drink at the harbor while watching the sailboats."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rozata",
+            "tip": "Dalmatinischer Pudding, die perfekte Belohnung nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rozata",
+            "tip": "Dalmát puding, a tökéletes jutalom a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rozata",
+            "tip": "Budincă dalmată, recompensa perfectă după tură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rozata",
+            "tip": "Dalmatian pudding, the perfect reward after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zypressenwald am Kloster",
+            "tip": "Duftende Stille unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipruserdő a kolostornál",
+            "tip": "Illatos csend az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de chiparoși de la mănăstire",
+            "tip": "Liniște parfumată sub copacii bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cypress forest at the monastery",
+            "tip": "Fragrant silence under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Travarica",
+            "tip": "Kräuterschnaps von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házias Travarica",
+            "tip": "Gyógynövényes pálinka helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Travarica de casă",
+            "tip": "Rachiu de ierburi de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Travarica",
+            "tip": "Herbal brandy from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Mittagshitze beim Anstieg.",
+          "Ein E-Bike macht den Anstieg zum Kloster deutlich entspannter.",
+          "Parken Sie Ihr Rad sicher am Klostereingang.",
+          "Achten Sie auf Wanderer auf den Wegen zum Sveti Ilija."
+        ],
+        "hu": [
+          "Kerülje a déli hőséget az emelkedőnél.",
+          "Egy e-bike jóval pihentetőbbé teszi a kolostorhoz vezető utat.",
+          "Biciklijét biztonságosan parkolja le a kolostor bejáratánál.",
+          "Ügyeljen a túrázókra a Sveti Ilija felé vezető utakon."
+        ],
+        "ro": [
+          "Evitați căldura de la prânz în timpul urcării.",
+          "O bicicletă electrică face urcarea spre mănăstire mult mai relaxată.",
+          "Parcați bicicleta în siguranță la intrarea în mănăstire.",
+          "Atenție la drumeți pe potecile spre Sveti Ilija."
+        ],
+        "en": [
+          "Avoid the midday heat during the climb.",
+          "An e-bike makes the climb to the monastery much more relaxed.",
+          "Park your bike securely at the monastery entrance.",
+          "Watch out for hikers on the paths to Sveti Ilija."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Franziskanerkloster Unserer Lieben Frau von den Engeln",
+            "hu": "Angyalok Boldogasszonya ferences kolostor",
+            "ro": "Mănăstirea Franciscană Maica Domnului Îngerilor",
+            "en": "Franciscan Monastery of Our Lady of the Angels"
+          },
+          "coords": [
+            17.155,
+            42.982
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplätze sind am Kloster vorhanden.",
+            "hu": "A kolostornál vannak parkolóhelyek.",
+            "ro": "Există locuri de parcare la mănăstire.",
+            "en": "Parking spaces are available at the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitänsfriedhof",
+            "hu": "Kapitányok temetője",
+            "ro": "Cimitirul Căpitanilor",
+            "en": "Captains' Cemetery"
+          },
+          "coords": [
+            17.1555,
+            42.9815
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Klosterparkplatz aus.",
+            "hu": "Rövid séta a kolostor parkolójától.",
+            "ro": "O scurtă plimbare din parcarea mănăstirii.",
+            "en": "Short walk from the monastery parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Orebić",
+            "hu": "Orebić Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Orebić",
+            "en": "Maritime Museum Orebić"
+          },
+          "coords": [
+            17.177,
+            42.974
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz am Hafen.",
+            "hu": "Használja a kikötői parkolót.",
+            "ro": "Folosiți parcarea din port.",
+            "en": "Use the harbor parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Sveti Ilija",
+            "hu": "Sveti Ilija-hegy",
+            "ro": "Muntele Sveti Ilija",
+            "en": "Mount Sveti Ilija"
+          },
+          "coords": [
+            17.158,
+            43.003
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Aussichtspunkt am Ende der Asphaltstraße.",
+            "hu": "Hajtson az aszfaltozott út végén lévő kilátóig.",
+            "ro": "Conduceți până la punctul de belvedere de la capătul drumului asfaltat.",
+            "en": "Drive to the viewpoint at the end of the asphalt road."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Trstenica",
+            "hu": "Trstenica strand",
+            "ro": "Plaja Trstenica",
+            "en": "Trstenica Beach"
+          },
+          "coords": [
+            17.189,
+            42.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parkplätze in Strandnähe sind kostenpflichtig.",
+            "hu": "A strand közeli parkolóhelyek fizetősek.",
+            "ro": "Locurile de parcare din apropierea plajei sunt cu plată.",
+            "en": "Parking spaces near the beach are subject to a fee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität Ihres Autos und starten Sie früh am Franziskanerkloster. Die Ruhe des Morgens und der weite Blick über das Meer sind hier oben am schönsten.\n\nNach einem kurzen Besuch des Kapitänsfriedhofs fahren Sie zurück ins Zentrum zum Schifffahrtsmuseum. Mit dem Auto erreichen Sie bequem die verschiedenen Stadtteile und historischen Stätten.\n\nEin Abstecher in Richtung Sveti Ilija führt Sie zu spektakulären Aussichtspunkten über die Halbinsel Pelješac. Die Straße schlängelt sich durch Pinienwälder und Olivenhaine.\n\nDen Nachmittag können Sie entspannt am Strand Trstenica ausklingen lassen. Da Sie mit dem Auto mobil sind, lässt sich auch ein Besuch in einem der ausgezeichneten Weingüter in der Umgebung leicht anschließen.",
+        "hu": "Használja ki autója rugalmasságát, és kezdjen korán a ferences kolostornál. A reggeli csend és a tengerre nyíló tágas kilátás itt fentről a legszebb.\n\nA Kapitányok temetőjének rövid meglátogatása után hajtson vissza a központba, a Tengerészeti Múzeumhoz. Autóval kényelmesen elérheti a különböző városrészeket és történelmi helyszíneket.\n\nEgy kitérő a Sveti Ilija felé látványos kilátópontokhoz vezeti a Pelješac-félszigeten. Az út fenyőerdőkön és olajfaligeteken kanyarog keresztül.\n\nA délutánt pihentető módon zárhatja a Trstenica strandon. Mivel autóval mobilis, könnyen beiktathat egy látogatást a környék egyik kiváló borászatába is.",
+        "ro": "Profitați de flexibilitatea mașinii și începeți devreme la mănăstirea franciscană. Liniștea dimineții și vederea largă peste mare sunt cele mai frumoase aici sus.\n\nDupă o scurtă vizită la Cimitirul Căpitanilor, conduceți înapoi în centru la Muzeul Maritim. Cu mașina, ajungeți ușor la diversele cartiere și situri istorice.\n\nO abatere spre Sveti Ilija vă duce la puncte de belvedere spectaculoase peste peninsula Pelješac. Drumul șerpuiește prin păduri de pini și livezi de măslini.\n\nDupă-amiaza o puteți încheia relaxat pe plaja Trstenica. Deoarece sunteți mobil cu mașina, puteți adăuga ușor și o vizită la una dintre cramele excelente din împrejurimi.",
+        "en": "Take advantage of your car's flexibility and start early at the Franciscan monastery. The quiet of the morning and the wide view over the sea are most beautiful up here.\n\nAfter a short visit to the Captains' Cemetery, drive back to the center to the Maritime Museum. By car, you can easily reach the various districts and historical sites.\n\nA detour towards Sveti Ilija leads you to spectacular viewpoints over the Pelješac peninsula. The road winds through pine forests and olive groves.\n\nYou can end the afternoon in a relaxed manner at Trstenica Beach. Since you are mobile by car, a visit to one of the excellent wineries in the area can also be easily included."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Traditionelle Fleischgerichte im Hinterland, z.B. im Restaurant Antunović."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Báránysült",
+            "tip": "Hagyományos húsételek a hátországban, például az Antunović étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "Mâncăruri tradiționale din carne în interiorul peninsulei, de ex. la restaurantul Antunović."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted Lamb",
+            "tip": "Traditional meat dishes in the hinterland, e.g., at Antunović Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße nach Viganj",
+            "tip": "Fahrt entlang der Küste mit weitem Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámaút Viganj felé",
+            "tip": "Autózás a part mentén, tágas kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic spre Viganj",
+            "tip": "Drum de-a lungul coastei cu vedere largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic road to Viganj",
+            "tip": "Drive along the coast with a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl extra vergine",
+            "tip": "Direktkauf bei den Ölmühlen der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Extra szűz olívaolaj",
+            "tip": "Vásárlás közvetlenül a régió olajütőiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline extravirgin",
+            "tip": "Cumpărare directă de la presele de ulei din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Extra virgin olive oil",
+            "tip": "Buy directly from the region's oil mills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie auf den schmalen Nebenstraßen vorsichtig.",
+          "Parken Sie im Sommer bevorzugt in schattigen Zonen.",
+          "Nutzen Sie die Park-App für die Gebührenzahlung.",
+          "Planen Sie Zeit für die Weinstraße Pelješac ein."
+        ],
+        "hu": [
+          "Vezessen óvatosan a szűk mellékutakon.",
+          "Nyáron lehetőleg árnyékos helyen parkoljon.",
+          "Használja a parkolási applikációt a díjfizetéshez.",
+          "Szánjon időt a Pelješac borútra."
+        ],
+        "ro": [
+          "Conduceți cu atenție pe drumurile secundare înguste.",
+          "Vara, parcați de preferință în zone umbrite.",
+          "Folosiți aplicația de parcare pentru plata taxelor.",
+          "Planificați-vă timp pentru drumul vinului din Pelješac."
+        ],
+        "en": [
+          "Drive carefully on the narrow side roads.",
+          "In summer, prefer parking in shaded zones.",
+          "Use the parking app for paying fees.",
+          "Plan time for the Pelješac Wine Road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Hilfe der Christen",
+            "hu": "Segítő Szűz Mária-plébániatemplom",
+            "ro": "Biserica parohială Sfânta Maria Ajutorul Creștinilor",
+            "en": "Parish Church of Mary Help of Christians"
+          },
+          "coords": [
+            17.179,
+            42.9748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof befindet sich in unmittelbarer Nähe.",
+            "hu": "A buszpályaudvar közvetlen közelben található.",
+            "ro": "Autogara se află în imediata apropiere.",
+            "en": "The bus station is located in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Orebić",
+            "hu": "Orebić Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Orebić",
+            "en": "Maritime Museum Orebić"
+          },
+          "coords": [
+            17.177,
+            42.974
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentral gelegen und gut zu Fuß erreichbar.",
+            "hu": "Központi fekvésű, gyalogosan is jól megközelíthető.",
+            "ro": "Situat central și ușor accesibil pe jos.",
+            "en": "Centrally located and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade der Kapitäne",
+            "hu": "Kapitányok sétánya",
+            "ro": "Promenada Căpitanilor",
+            "en": "Captains' Promenade"
+          },
+          "coords": [
+            17.18,
+            42.974
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Vormittag am Meer.",
+            "hu": "Ideális egy pihentető délelőtthöz a tengerparton.",
+            "ro": "Ideal pentru o dimineață relaxantă la malul mării.",
+            "en": "Ideal for a relaxed morning by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Unserer Lieben Frau von den Engeln",
+            "hu": "Angyalok Boldogasszonya ferences kolostor",
+            "ro": "Mănăstirea Franciscană Maica Domnului Îngerilor",
+            "en": "Franciscan Monastery of Our Lady of the Angels"
+          },
+          "coords": [
+            17.155,
+            42.982
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie lokale Busse oder ein Taxi für den Aufstieg.",
+            "hu": "Használjon helyi buszokat vagy taxit a feljutáshoz.",
+            "ro": "Folosiți autobuzele locale sau un taxi pentru urcare.",
+            "en": "Use local buses or a taxi for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Trstenica",
+            "hu": "Trstenica strand",
+            "ro": "Plaja Trstenica",
+            "en": "Trstenica Beach"
+          },
+          "coords": [
+            17.189,
+            42.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Busse halten oft an der Hauptstraße oberhalb des Strandes.",
+            "hu": "A buszok gyakran a strand feletti főúton állnak meg.",
+            "ro": "Autobuzele opresc adesea pe drumul principal de deasupra plajei.",
+            "en": "Buses often stop on the main road above the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Orebić, wo Sie nach Ankunft mit dem Bus direkt die Pfarrkirche besuchen können. Die kompakte Innenstadt ermöglicht es, das Schifffahrtsmuseum und die Uferpromenade bequem zu Fuß zu erkunden.\n\nFür den Besuch des Franziskanerklosters am Mittag empfiehlt es sich, die lokalen Verkehrsverbindungen oder ein kurzes Taxi zu nutzen, da der Fußweg bei Hitze anstrengend sein kann.\n\nDen Nachmittag verbringen Sie am beliebten Strand Trstenica. Dieser ist von den meisten Haltestellen im Ort gut erreichbar und bietet alle Annehmlichkeiten für einen Badetag.\n\nInformieren Sie sich vorab über die Abfahrtszeiten der Busse Richtung Ston oder zur Fähre. Der Tag lässt sich wunderbar mit einem Besuch im Hafen abschließen, wo Sie das rege Treiben der Schiffe beobachten können.",
+        "hu": "Kezdje a napot Orebić központjában, ahol a busszal való érkezés után közvetlenül meglátogathatja a plébániatemplomot. A kompakt belváros lehetővé teszi a Tengerészeti Múzeum és a tengerparti sétány kényelmes, gyalogos felfedezését.\n\nA ferences kolostor déli meglátogatásához javasolt a helyi közlekedés vagy egy rövid taxiút igénybevétele, mivel a gyalogút hőségben fárasztó lehet.\n\nA délutánt töltse a népszerű Trstenica strandon. Ez a legtöbb helyi megállótól jól elérhető, és minden kényelmi szolgáltatást megad egy strandolós naphoz.\n\nElőzetesen tájékozódjon a Ston felé vagy a komphoz közlekedő buszok indulási idejéről. A napot kellemesen zárhatja a kikötőben, ahol figyelheti a hajók élénk forgalmát.",
+        "ro": "Începeți ziua în centrul localității Orebić, unde după sosirea cu autobuzul puteți vizita direct biserica parohială. Centrul compact permite explorarea comodă pe jos a Muzeului Maritim și a promenadei de pe faleză.\n\nPentru vizitarea mănăstirii franciscane la prânz, se recomandă folosirea legăturilor locale de transport sau a unui taxi scurt, deoarece drumul pe jos poate fi obositor pe căldură.\n\nPetreceți după-amiaza pe populara plajă Trstenica. Aceasta este ușor accesibilă de la majoritatea stațiilor din localitate și oferă toate facilitățile pentru o zi de plajă.\n\nInformați-vă din timp despre orele de plecare ale autobuzelor spre Ston sau spre feribot. Ziua poate fi încheiată minunat în port, unde puteți urmări forfota vapoarelor.",
+        "en": "Start your day in the center of Orebić, where you can visit the parish church directly after arriving by bus. The compact downtown area allows for a comfortable exploration of the Maritime Museum and the seaside promenade on foot.\n\nFor the visit to the Franciscan monastery at noon, it is recommended to use local transport links or a short taxi ride, as the walk can be tiring in the heat.\n\nSpend the afternoon at the popular Trstenica Beach. It is easily accessible from most stops in town and offers all amenities for a beach day.\n\nCheck the bus departure times towards Ston or the ferry in advance. The day can be ended wonderfully at the harbor, where you can watch the busy boat traffic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buzara",
+            "tip": "Muscheln in Knoblauch-Wein-Sauce im Restaurant Mimbelli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buzara",
+            "tip": "Fokhagymás-boros mártásban készült kagyló a Mimbelli étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buzara",
+            "tip": "Midii în sos de usturoi și vin la restaurantul Mimbelli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buzara",
+            "tip": "Mussels in garlic and wine sauce at Mimbelli Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ein ruhiger Rückzugsort im Schatten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes menedékhely az árnyékban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Un refugiu liniștit la umbră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "A quiet retreat in the shade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kräuter",
+            "tip": "Getrockneter Salbei und Rosmarin auf dem kleinen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fűszernövények",
+            "tip": "Szárított zsálya és rozmaring a kis piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi locale",
+            "tip": "Salvie și rozmarin uscat de la mica piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Herbs",
+            "tip": "Dried sage and rosemary at the small market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die selteneren Busverbindungen an Sonntagen.",
+          "Tickets für die Fähre gibt es am Kiosk am Hafen.",
+          "Die Bushaltestellen sind oft einfach markiert.",
+          "Planen Sie Pufferzeiten für Verspätungen ein."
+        ],
+        "hu": [
+          "Ügyeljen a ritkább buszjáratokra vasárnaponként.",
+          "Kompjegyek a kikötői kioszkban kaphatók.",
+          "A buszmegállók gyakran egyszerűen vannak jelölve.",
+          "Számoljon ráhagyással az esetleges késések miatt."
+        ],
+        "ro": [
+          "Atenție la legăturile de autobuz mai rare duminica.",
+          "Biletele pentru feribot se găsesc la chioșcul din port.",
+          "Stațiile de autobuz sunt adesea marcate simplu.",
+          "Planificați-vă timp de rezervă pentru întârzieri."
+        ],
+        "en": [
+          "Note the less frequent bus connections on Sundays.",
+          "Ferry tickets are available at the harbor kiosk.",
+          "Bus stops are often simply marked.",
+          "Plan buffer times for delays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-19",
+    "coords": [
+      17.1758,
+      42.9744
+    ],
+    "transit_official": {
+      "name": "Jadrolinija (Orebić–Domince/Korčula ferry)",
+      "url": "https://www.jadrolinija.hr/en/ferry-croatia/local-lines/orebic-domince",
+      "verified": 200
+    },
+    "transit_app": {
+      "name": "Arriva Croatia (Dubrovnik–Orebić bus)",
+      "url": "https://www.arriva.com.hr/",
+      "verified": 200
+    },
+    "bike_share": null,
+    "city_card": null,
+    "events": {
+      "name": "Ulaznice.hr",
+      "url": "https://www.ulaznice.hr/",
+      "verified": 200
+    },
+    "tourism_office": {
+      "name": "TZ Orebić (Tourist Board)",
+      "url": "https://www.tz-orebic.hr/",
+      "verified": 200,
+      "alt": "https://visitorebic-croatia.hr/"
+    },
+    "webcam": {
+      "name": "Peljesac.info (peninsula portal with cams)",
+      "url": "https://www.peljesac.info/",
+      "verified": 200
+    },
+    "restaurants_booking": {
+      "name": "Google Maps (Orebić restaurants)",
+      "url": "https://www.google.com/maps/search/restaurants+Orebic",
+      "verified": 200
+    },
+    "museum_tickets": {
+      "name": "Korčula Info (cross-channel Korčula old town, Marco Polo house)",
+      "url": "https://www.korculainfo.com/",
+      "verified": 200
+    },
+    "parking_real_time": {
+      "name": "HAK traffic info (Pelješac bridge & D414)",
+      "url": "https://www.hak.hr/",
+      "verified": 200
+    },
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; auf Pelješac sprechen Winzer und Gastronomen Englisch und Deutsch. 'Vino' = Wein, 'Plavac mali' = lokale Rotweinsorte.",
+      "hu": "A horvát a hivatalos nyelv; a Pelješacon a borászok és vendéglátósok beszélnek angolul és németül. 'Vino' = bor, 'Plavac mali' = helyi vörösborfajta.",
+      "ro": "Croata este limba oficială; pe Pelješac vinificatorii și restauratorii vorbesc engleză și germană. 'Vino' = vin, 'Plavac mali' = soi local de vin roșu.",
+      "en": "Croatian is official; on Pelješac winemakers and restaurateurs speak English and German. 'Vino' = wine, 'Plavac mali' = local red grape."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni, September, Anfang Oktober; Weinlese September/Oktober, Fähre nach Korčula im Sommer alle 30–60 Min.",
+      "hu": "Május, június, szeptember, október eleje; szüret szeptember/október, a komp Korčulára nyáron 30–60 percenként jár.",
+      "ro": "Mai, iunie, septembrie, începutul lui octombrie; recolta de struguri septembrie/octombrie, feribotul spre Korčula vara la 30–60 min.",
+      "en": "May, June, September, early October; grape harvest September/October, ferry to Korčula runs every 30-60 min in summer."
+    },
+    "neighborhood_warnings": {
+      "de": "Fähre Orebić–Domince (Korčula) ist die Schnellfähre für Autos; in Hochsaison 1–2 h Wartezeit, früh anstellen oder online buchen. Bergstraße zum Sveti Ilija ist eng und kurvig.",
+      "hu": "Az Orebić–Domince (Korčula) komp a gyors autós átkelő; főszezonban 1–2 óra várakozás, érdemes korán beállni vagy online foglalni. A Sveti Ilija-hoz vezető hegyi út keskeny és kanyargós.",
+      "ro": "Feribotul Orebić–Domince (Korčula) este traversarea rapidă pentru mașini; în sezon, 1–2 ore așteptare, vino devreme sau rezervă online. Drumul de munte spre Sveti Ilija e îngust și sinuos.",
+      "en": "Orebić–Domince (Korčula) ferry is the fast car crossing; expect 1-2 h queues in peak season, arrive early or book online. The mountain road to Sveti Ilija is narrow and twisty."
+    }
+  }
+}

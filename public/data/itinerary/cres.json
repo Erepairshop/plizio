@@ -1,0 +1,906 @@
+{
+  "city_id": "cres",
+  "anchor": {
+    "name": "Cres",
+    "coords": [
+      14.4083,
+      44.9583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            14.407,
+            44.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Frühmorgens ist der Blick auf die Fischerboote am schönsten.",
+            "hu": "Kora reggel a legszebb a kilátás a halászhajókra a kikötőben.",
+            "ro": "Dimineața devreme, vederea ambarcațiunilor de pescuit este cea mai frumoasă.",
+            "en": "The view of the fishing boats is best in the early morning."
+          }
+        },
+        {
+          "name": "Loggia und Uhrturm",
+          "coords": [
+            14.408,
+            44.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf die Reliefs unter dem Dach der Loggia.",
+            "hu": "Figyelje meg a loggia tetőszerkezete alatti domborműveket.",
+            "ro": "Observați reliefurile de sub acoperișul lojei.",
+            "en": "Look for the reliefs under the roof of the loggia."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Isidor",
+          "coords": [
+            14.409,
+            44.958
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Die Kirche beherbergt eine Statue des Schutzpatrons der Stadt.",
+            "hu": "A templom a város védőszentjének szobrát őrzi.",
+            "ro": "Biserica adăpostește o statuie a sfântului protector al orașului.",
+            "en": "The church houses a statue of the town's patron saint."
+          }
+        },
+        {
+          "name": "Palast Arsan",
+          "coords": [
+            14.41,
+            44.957
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Das Museum zeigt interessante Exponate zur Inselgeschichte.",
+            "hu": "A múzeum érdekes kiállításokat mutat be a sziget történelméről.",
+            "ro": "Muzeul prezintă exponate interesante despre istoria insulei.",
+            "en": "The museum displays interesting exhibits on island history."
+          }
+        },
+        {
+          "name": "Stadtmauern von Cres",
+          "coords": [
+            14.411,
+            44.96
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Teile der Mauern bieten einen tollen Blick auf die Altstadt.",
+            "hu": "A falak egyes részeiről remek kilátás nyílik az óvárosra.",
+            "ro": "Părți ale zidurilor oferă o vedere excelentă asupra orașului vechi.",
+            "en": "Parts of the walls offer a great view of the old town."
+          }
+        },
+        {
+          "name": "Franziskanerkloster St. Franziskus",
+          "coords": [
+            14.412,
+            44.957
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Besuchen Sie das kleine Museum im Kreuzgang des Klosters.",
+            "hu": "Látogassa meg a kolostor keringőjében található kis múzeumot.",
+            "ro": "Vizitați micul muzeu din claustrul mănăstirii.",
+            "en": "Visit the small museum in the monastery cloister."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der belebten Riva, wo die pastellfarbenen Häuser im Hafen reflektiert werden. Ein kurzer Spaziergang führt Sie zur Loggia, dem einstigen Zentrum des öffentlichen Lebens. Mittags tauchen Sie im Arsan-Palast in die lokale Geschichte ein und bewundern die gotischen Details von St. Isidor. Nachmittags erkunden Sie die alten Befestigungsanlagen und genießen die Ruhe im Franziskanerkloster. Zum Abschluss des Tages lockt ein Abendessen mit fangfrischem Fisch direkt am Wasser.",
+        "hu": "Kezdje a napot a nyüzsgő Riván, ahol a pasztellszínű házak tükröződnek a kikötő vizében. Egy rövid séta elvezeti a Loggiához, a közélet egykori központjához. Délben merüljön el a helyi történelemben az Arsan-palotában, és csodálja meg a Szent Izidor-templom gótikus részleteit. Délután fedezze fel a régi erődítményeket, és élvezze a ferences kolostor nyugalmát. A nap zárásaként kóstoljon meg egy frissen fogott tengeri halat közvetlenül a vízparton.",
+        "ro": "Începeți ziua la Riva animată, unde casele în culori pastelate se reflectă în port. O scurtă plimbare vă duce la Loggia, fostul centru al vieții publice. La prânz, scufundați-vă în istoria locală la Palatul Arsan și admirați detaliile gotice ale bisericii Sf. Isidor. După-amiaza, explorați vechile fortificații și bucurați-vă de liniștea mănăstirii franciscane. La finalul zilei, savurați un pește proaspăt prins chiar pe malul apei.",
+        "en": "Start your day at the lively Riva, where pastel-colored houses reflect in the harbor water. A short walk leads you to the Loggia, the former center of public life. At midday, dive into local history at Arsan Palace and admire the Gothic details of St. Isidore's Church. In the afternoon, explore the old fortifications and enjoy the peace of the Franciscan monastery. To finish the day, enjoy some fresh fish right by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Creska janjetina",
+            "tip": "Probieren Sie das berühmte Insellamm im Restaurant Bukaleta."
+          },
+          {
+            "name": "Scampi a la Buzara",
+            "tip": "Frische Scampi in Knoblauch-Wein-Sauce bei Riva Cres."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cres-i bárány",
+            "tip": "Kóstolja meg a híres szigeti bárányt a Bukaleta étteremben."
+          },
+          {
+            "name": "Scampi a la Buzara",
+            "tip": "Friss skampi fokhagymás-boros szószban a Riva Cres vendéglőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel de Cres",
+            "tip": "Gustați faimosul miel de pe insulă la restaurantul Bukaleta."
+          },
+          {
+            "name": "Scampi a la Buzara",
+            "tip": "Scampi proaspeți în sos de usturoi și vin la Riva Cres."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cres Lamb",
+            "tip": "Taste the famous island lamb at Bukaleta restaurant."
+          },
+          {
+            "name": "Scampi a la Buzara",
+            "tip": "Fresh scampi in garlic and wine sauce at Riva Cres."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Maria Magdalena",
+            "tip": "Ein abgelegener Ort mit schöner Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mária Magdolna templom",
+            "tip": "Egy eldugott hely, csodálatos kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Maria Magdalena",
+            "tip": "Un loc retras cu o vedere frumoasă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary Magdalene Church",
+            "tip": "A secluded spot with a beautiful view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Cres",
+            "tip": "Kaufen Sie lokales Öl direkt bei den Erzeugern in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cres-i olívaolaj",
+            "tip": "Vásároljon helyi olajat közvetlenül a termelőktől a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline din Cres",
+            "tip": "Cumpărați ulei local direct de la producători din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cres Olive Oil",
+            "tip": "Buy local oil directly from producers in the town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Die Altstadt ist weitgehend autofrei und ideal zum Wandern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Az óváros nagy része autómentes, így ideális a sétához."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Centrul vechi este în mare parte pietonal, ideal pentru plimbare."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The old town is largely car-free and ideal for walking."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "12:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            14.407,
+            44.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ein flacher Start entlang der Küstenstraße.",
+            "hu": "Sima indulás a tengerparti út mentén.",
+            "ro": "Un început lin de-a lungul drumului de coastă.",
+            "en": "A flat start along the coastal road."
+          }
+        },
+        {
+          "name": "Mletačka Kula",
+          "coords": [
+            14.412,
+            44.962
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der venezianische Turm ist das Wahrzeichen der Befestigung.",
+            "hu": "A velencei torony az erődítmény jelképe.",
+            "ro": "Turnul venețian este simbolul fortificației.",
+            "en": "The Venetian tower is the landmark of the fortification."
+          }
+        },
+        {
+          "name": "Stadttor Marcana",
+          "coords": [
+            14.409,
+            44.963
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Eines der drei erhaltenen Stadttore.",
+            "hu": "A három épségben maradt városkapu egyike.",
+            "ro": "Una dintre cele trei porți ale orașului păstrate.",
+            "en": "One of the three preserved city gates."
+          }
+        },
+        {
+          "name": "Kirche Maria im Schnee",
+          "coords": [
+            14.408,
+            44.96
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Eine hübsche kleine Kirche nahe dem Zentrum.",
+            "hu": "Egy csinos kis templom a központ közelében.",
+            "ro": "O biserică mică și drăguță aproape de centru.",
+            "en": "A pretty little church near the center."
+          }
+        },
+        {
+          "name": "Kirche St. Maria Magdalena",
+          "coords": [
+            14.415,
+            44.955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Etwas steilerer Anstieg, aber die Ruhe lohnt sich.",
+            "hu": "Kicsit meredekebb emelkedő, de a nyugalom megéri.",
+            "ro": "Urcare puțin mai abruptă, dar liniștea merită.",
+            "en": "Slightly steeper climb, but the peace is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cres auf zwei Rädern. Beginnen Sie entspannt an der Riva und radeln Sie zum beeindruckenden venezianischen Turm. Entlang der alten Mauern gelangen Sie zum Stadttor Marcana. Nach einer kurzen Pause bei der Kirche Maria im Schnee führt Sie der Weg bergauf zur abgelegenen Kirche St. Maria Magdalena, von wo aus Sie einen weiten Blick über die Bucht genießen können.",
+        "hu": "Fedezze fel Cres-t két keréken. Kezdjen pihentetően a Riván, majd kerekezzen el a lenyűgöző velencei toronyhoz. A régi falak mentén jut el a Marcana városkapuhoz. Rövid pihenő után a Havas Boldogasszony templomnál az út felfelé vezet a távolabbi Szent Mária Magdolna templomhoz, ahonnan pazar kilátás nyílik az öbölre.",
+        "ro": "Explorați orașul Cres pe două roți. Începeți relaxat pe Riva și pedalați până la impresionantul turn venețian. De-a lungul zidurilor vechi veți ajunge la poarta Marcana. După o scurtă pauză la biserica Sf. Maria a Zăpezii, drumul vă duce la biserica retrasă Sf. Maria Magdalena, de unde vă puteți bucura de o vedere panoramică asupra golfului.",
+        "en": "Explore Cres on two wheels. Start relaxed on the Riva and bike to the impressive Venetian tower. Along the old walls, you'll reach the Marcana city gate. After a short break at the Church of Mary of the Snows, the path leads uphill to the secluded St. Mary Magdalene Church, offering a wide view over the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käse aus Cres",
+            "tip": "Harter Schafskäse mit Oliven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cres-i sajt",
+            "tip": "Kemény juhsajt olívabogyóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Cres",
+            "tip": "Brânză tare de oaie cu măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cres Cheese",
+            "tip": "Hard sheep cheese with olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht von Cres",
+            "tip": "Ideal für eine Pause am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cres-i öböl",
+            "tip": "Ideális egy pihenőhöz a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Cres",
+            "tip": "Ideal pentru o pauză lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cres Bay",
+            "tip": "Ideal for a break by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuterlikör",
+            "tip": "Travarica mit lokalen Bergkräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövénylikőr",
+            "tip": "Travarica helyi hegyi gyógynövényekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de ierburi",
+            "tip": "Travarica cu ierburi locale de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbal Liqueur",
+            "tip": "Travarica with local mountain herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad nahe der Marina.",
+          "Die Küstenpromenade ist perfekt zum gemütlichen Radeln."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a marina közelében.",
+          "A tengerparti sétány tökéletes a kényelmes biciklizéshez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă marină.",
+          "Promenada de coastă este perfectă pentru o plimbare relaxată."
+        ],
+        "en": [
+          "Rent a bike near the marina.",
+          "The coastal promenade is perfect for easy cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 45.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cres Riva",
+          "coords": [
+            14.407,
+            44.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie am großen Parkplatz am Stadteingang.",
+            "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea în oraș.",
+            "en": "Park at the large parking lot at the town entrance."
+          }
+        },
+        {
+          "name": "Lubenice (Bergdorf)",
+          "coords": [
+            14.331,
+            44.887
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_4lang": {
+            "de": "Ein 4000 Jahre altes Dorf auf einer Klippe.",
+            "hu": "Egy 4000 éves falu egy sziklaszirten.",
+            "ro": "Un sat vechi de 4000 de ani pe o stâncă.",
+            "en": "A 4000-year-old village on a cliff."
+          }
+        },
+        {
+          "name": "Valun (Fischerdorf)",
+          "coords": [
+            14.364,
+            44.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_4lang": {
+            "de": "Bekannt für die Tafel von Valun (Glagoliza).",
+            "hu": "A Valuni tábláról (glagolita írás) híres.",
+            "ro": "Cunoscut pentru tabla din Valun (alfabetul glagolitic).",
+            "en": "Famous for the Valun Tablet (Glagolitic script)."
+          }
+        },
+        {
+          "name": "Palast Arsan",
+          "coords": [
+            14.41,
+            44.957
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_4lang": {
+            "de": "Besuch des Inselmuseums im Stadtzentrum.",
+            "hu": "A szigeti múzeum meglátogatása a városközpontban.",
+            "ro": "Vizita muzeului insulei în centrul orașului.",
+            "en": "Visit the island museum in the town center."
+          }
+        },
+        {
+          "name": "Loggia und Uhrturm",
+          "coords": [
+            14.408,
+            44.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Abschluss im historischen Herzen der Stadt.",
+            "hu": "Zárás a város történelmi szívében.",
+            "ro": "Final în inima istorică a orașului.",
+            "en": "Wrap up in the historical heart of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Cres. Nach einem kurzen Halt an der Riva fahren Sie ins spektakuläre Lubenice, das hoch über dem Meer thront. Weiter geht es ins idyllische Fischerdorf Valun, bekannt für seine Strände und Geschichte. Zurück in Cres besuchen Sie den Arsan-Palast und lassen den Tag am Uhrturm ausklingen.",
+        "hu": "Autóval felfedezheti a Cres környéki látnivalókat is. A Riván tett rövid megálló után irány a látványos Lubenice, amely magasan a tenger felett trónol. Folytassa az utat az idilli Valun halászfaluba, amely strandjairól és történelméről híres. Visszatérve Cres-be, látogassa meg az Arsan-palotát, a napot pedig az óratoronynál zárja.",
+        "ro": "Cu mașina veți descoperi punctele de atracție din jurul orașului Cres. După o scurtă oprire pe Riva, conduceți spre spectaculosul Lubenice, cocoțat deasupra mării. Continuați spre satul idilic de pescari Valun, cunoscut pentru plajele și istoria sa. Revenind în Cres, vizitați Palatul Arsan și încheiați ziua la Turnul cu Ceas.",
+        "en": "By car, you can discover highlights around Cres. After a brief stop at the Riva, drive to spectacular Lubenice, perched high above the sea. Continue to the idyllic fishing village of Valun, known for its beaches and history. Back in Cres, visit Arsan Palace and end the day at the Clock Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm unter der Peka",
+            "tip": "In Lubenice ein absolutes Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárány peka alatt",
+            "tip": "Lubenice-ben kötelező megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel sub capac (peka)",
+            "tip": "O necesitate absolută în Lubenice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb under the Peka",
+            "tip": "An absolute must-try in Lubenice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen von Lubenice",
+            "tip": "Atemberaubender Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lubenice sziklái",
+            "tip": "Lélegzetelállító naplemente.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Lubenice",
+            "tip": "Apus de soare uluitor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliffs of Lubenice",
+            "tip": "Breathtaking sunset spot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Salbei",
+            "tip": "Spezialität der Insel Cres."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsályaméz",
+            "tip": "Cres szigetének specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de salvie",
+            "tip": "Specialitatea insulei Cres."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sage Honey",
+            "tip": "Specialty of the island of Cres."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Lubenice ist schmal, fahren Sie vorsichtig.",
+          "In Cres Stadt gibt es genügend Parkplätze außerhalb der Mauern."
+        ],
+        "hu": [
+          "A Lubenice-be vezető út keskeny, vezessen óvatosan.",
+          "Cres városában a falakon kívül elegendő parkolóhely van."
+        ],
+        "ro": [
+          "Drumul spre Lubenice este îngust, conduceți cu atenție.",
+          "În orașul Cres există suficiente locuri de parcare în afara zidurilor."
+        ],
+        "en": [
+          "The road to Lubenice is narrow, drive carefully.",
+          "In Cres town, there are plenty of parking spaces outside the walls."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "12:50",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busstation Cres",
+          "coords": [
+            14.405,
+            44.962
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftsort für alle Inselbusse.",
+            "hu": "Központi érkezési pont minden szigeti busz számára.",
+            "ro": "Locul central de sosire pentru toate autobuzele de pe insulă.",
+            "en": "Central arrival point for all island buses."
+          }
+        },
+        {
+          "name": "Loggia und Uhrturm",
+          "coords": [
+            14.408,
+            44.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
+            "hu": "Mindössze 5 perc séta a buszmegállótól.",
+            "ro": "Doar 5 minute de mers pe jos de la stația de autobuz.",
+            "en": "Only a 5-minute walk from the bus stop."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Isidor",
+          "coords": [
+            14.409,
+            44.958
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Im Herzen der Altstadt gelegen.",
+            "hu": "Az óváros szívében található.",
+            "ro": "Situată în inima orașului vechi.",
+            "en": "Located in the heart of the old town."
+          }
+        },
+        {
+          "name": "Stadtmauern von Cres",
+          "coords": [
+            14.411,
+            44.96
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Gut erreichbar bei einem Rundgang.",
+            "hu": "Könnyen elérhető egy városnéző séta során.",
+            "ro": "Ușor de accesat în timpul unui tur al orașului.",
+            "en": "Easily accessible during a city tour."
+          }
+        },
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            14.407,
+            44.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Perfekt für ein Mittagessen vor der Abfahrt.",
+            "hu": "Tökéletes hely egy ebédre az indulás előtt.",
+            "ro": "Perfect pentru un prânz înainte de plecare.",
+            "en": "Perfect for lunch before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Nahverkehr, um Cres bequem zu erreichen. Von der Busstation sind es nur wenige Schritte ins historische Zentrum mit Loggia und Uhrturm. Besuchen Sie die Kirche St. Isidor und spazieren Sie entlang der Stadtmauern, bevor Sie an der Riva entspannen und die Atmosphäre der Hafenstadt genießen.",
+        "hu": "Használja a tömegközlekedést Cres kényelmes eléréséhez. A buszmegállótól csak pár lépés a történelmi központ a Loggiával és az óratoronnyal. Látogassa meg a Szent Izidor-templomot és sétáljon a városfalak mentén, mielőtt megpihenne a Riván, élvezve a kikötőváros hangulatát.",
+        "ro": "Utilizați transportul public pentru a ajunge confortabil în Cres. De la stația de autobuz sunt doar câțiva pași până în centrul istoric cu Loggia și Turnul cu Ceas. Vizitați biserica Sf. Isidor și plimbați-vă de-a lungul zidurilor orașului, înainte de a vă relaxa pe Riva și de a vă bucura de atmosfera orașului port.",
+        "en": "Use public transit to reach Cres comfortably. From the bus station, it's just a few steps to the historic center with the Loggia and Clock Tower. Visit St. Isidore's Church and walk along the city walls before relaxing at the Riva and enjoying the atmosphere of the port town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe",
+            "tip": "Leichtes Mittagessen in Hafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleves",
+            "tip": "Könnyű ebéd a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Prânz ușor în apropierea portului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup",
+            "tip": "Light lunch near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park nahe der Marina",
+            "tip": "Schattige Bänke zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a marina közelében",
+            "tip": "Árnyékos padok a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă marină",
+            "tip": "Bănci umbrite pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the Marina",
+            "tip": "Shady benches for lingering.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Klassische Souvenirs im Kiosk am Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Klasszikus szuvenírek a téri újságosnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Suveniruri clasice la chioșcul din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Classic souvenirs at the square kiosk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der Busgesellschaft Arriva.",
+          "Fahrkarten können direkt beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze az Arriva busztársaság menetrendjét.",
+          "Jegyeket közvetlenül a sofőrnél lehet vásárolni."
+        ],
+        "ro": [
+          "Verificați orarele companiei de autobuze Arriva.",
+          "Biletele pot fi cumpărate direct de la șofer."
+        ],
+        "en": [
+          "Check the bus schedules of the Arriva company.",
+          "Tickets can be bought directly from the driver."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Cres",
+    "region": "HR-08",
+    "coords": [
+      14.4083,
+      44.9583
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en/",
+    "transit_app": "https://autotrans.hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visitcres.hr/",
+    "tourism_office": "https://visitcres.hr/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Amtssprache ist Kroatisch; Italienisch ist im Kvarner traditionell verbreitet, Deutsch und Englisch im Tourismus üblich.",
+      "hu": "Hivatalos nyelv a horvát; a Kvarner-öbölben az olasz hagyományosan elterjedt, a turizmusban a német és angol szokványos.",
+      "ro": "Limba oficială este croata; italiana este tradițional răspândită în Kvarner, germana și engleza obișnuite în turism.",
+      "en": "Croatian is official; Italian is traditionally widespread in Kvarner, German and English common in tourism."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober angenehm; Hochsaison Juli und August, ideal für Wandern und Griffon-Geier-Beobachtung im Frühling und Herbst.",
+      "hu": "Május és október között kellemes; főszezon július, augusztus, túrázáshoz és keselyű-megfigyeléshez tavasz és ősz ideális.",
+      "ro": "Plăcut din mai până în octombrie; vârful sezonului iulie, august, primăvara și toamna ideale pentru drumeții și observarea vulturilor.",
+      "en": "Pleasant May to October; July and August are peak, spring and autumn ideal for hiking and griffon vulture watching."
+    },
+    "neighborhood_warnings": {
+      "de": "Insgesamt sehr sicher; schmale, kurvige Inselstraßen erfordern vorsichtiges Fahren, vor allem nachts und bei Wildwechsel.",
+      "hu": "Általában nagyon biztonságos; a keskeny, kanyargós szigeti utakon óvatosan vezessünk, főleg éjszaka és vadveszély miatt.",
+      "ro": "În general foarte sigură; drumurile înguste și sinuoase de pe insulă cer condus prudent, mai ales noaptea.",
+      "en": "Overall very safe; narrow winding island roads require careful driving, especially at night and with wildlife crossing."
+    }
+  }
+}

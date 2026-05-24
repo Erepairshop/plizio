@@ -1,0 +1,962 @@
+{
+  "city_id": "crikvenica",
+  "anchor": {
+    "name": "Crikvenica",
+    "coords": [
+      14.69,
+      45.175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stjepan-Radić-Platz",
+          "coords": [
+            14.6912,
+            45.1731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Kaffee mit Blick auf den Hafen.",
+            "hu": "Igya meg reggeli kávéját a kikötőre néző teraszok egyikén.",
+            "ro": "Savurați prima cafea cu vedere la port pe terasă.",
+            "en": "Enjoy your morning coffee with a view of the harbor."
+          }
+        },
+        {
+          "name": "Kirche Mariä Himmelfahrt",
+          "coords": [
+            14.6931,
+            45.1738
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das älteste erhaltene Klostergebäude der Stadt.",
+            "hu": "A város legrégebbi fennmaradt kolostorépülete.",
+            "ro": "Cea mai veche clădire monahală păstrată din oraș.",
+            "en": "The oldest surviving monastery building in the city."
+          }
+        },
+        {
+          "name": "Stadtmuseum Crikvenica",
+          "coords": [
+            14.6925,
+            45.1728
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die römische Vergangenheit der Region.",
+            "hu": "Ismerje meg a régió római kori múltját és régészeti leleteit.",
+            "ro": "Aflați totul despre trecutul roman al regiunii.",
+            "en": "Learn all about the Roman past of the region."
+          }
+        },
+        {
+          "name": "Aquarium Crikvenica",
+          "coords": [
+            14.6918,
+            45.1735
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie über 100 Fischarten aus der Adria und den Tropen.",
+            "hu": "Csodáljon meg több mint 100 halfajt az Adriáról és a trópusokról.",
+            "ro": "Admirați peste 100 de specii de pești din Adria și tropice.",
+            "en": "Admire over 100 species of fish from the Adriatic and tropics."
+          }
+        },
+        {
+          "name": "Hotel Kaštel",
+          "coords": [
+            14.6934,
+            45.1737
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ehemaliges Kloster, das heute ein charmantes Hotel ist.",
+            "hu": "Egykori kolostor, amely ma hangulatos szállodaként működik.",
+            "ro": "O fostă mănăstire, astăzi un hotel plin de farmec.",
+            "en": "A former monastery that is now a charming hotel."
+          }
+        },
+        {
+          "name": "Strand Crni molo",
+          "coords": [
+            14.6852,
+            45.1815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der bekannteste Sandstrand der Stadt mit flachem Wasser.",
+            "hu": "A város legismertebb homokos strandja sekély vízzel.",
+            "ro": "Cea mai faimoasă plajă cu nisip din oraș, cu apă mică.",
+            "en": "The city's most famous sandy beach with shallow water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem zentralen Stjepan-Radić-Platz, dem pulsierenden Herz der Stadt. Besuchen Sie anschließend die historische Marienkirche und tauchen Sie im Stadtmuseum in die Geschichte ein.\n\nMittags erkunden Sie die faszinierende Unterwasserwelt im Aquarium, bevor Sie das Hotel Kaštel in einem ehemaligen Kloster bewundern.\n\nDer Nachmittag gehört der Entspannung am beliebten Sandstrand Crni molo, ideal für ein erfrischendes Bad in der Adria.\n\nLassen Sie den Abend bei einem Spaziergang entlang der Uferpromenade ausklingen und genießen Sie die Meeresbrise.",
+        "hu": "Kezdje a napot a Stjepan Radić téren, a város pezsgő szívében. Látogasson el a történelmi Mária Mennybemenetele templomhoz, majd merüljön el a múltban a Városi Múzeumban.\n\nDélben fedezze fel az Akvárium lenyűgöző vízi világát, mielőtt megcsodálná a Hotel Kaštel patinás épületét.\n\nA délután a pihenésé a népszerű Crni molo homokos strandon, amely tökéletes egy frissítő csobbanáshoz az Adriában.\n\nZárja az estét egy sétával a tengerparti sétányon, élvezve a lágy sós szellőt.",
+        "ro": "Începeți ziua în Piața Stjepan Radić, inima vibrantă a orașului. Vizitați apoi biserica istorică Sfânta Maria și pătrundeți în istorie la Muzeul Orașului.\n\nLa prânz, explorați lumea subacvatică fascinantă de la Acvariu, înainte de a admira Hotelul Kaštel într-o fostă mănăstire.\n\nDupă-amiaza este dedicată relaxării pe populara plajă cu nisip Crni molo, ideală pentru o baie răcoritoare în Marea Adriatică.\n\nÎncheiați seara cu o plimbare de-a lungul falezei, bucurându-vă de briza mării.",
+        "en": "Start your day at Stjepan Radić Square, the vibrant heart of the city. Then visit the historic Church of the Assumption and dive into history at the City Museum.\n\nAt midday, explore the fascinating underwater world at the Aquarium before admiring Hotel Kaštel in a former monastery.\n\nThe afternoon belongs to relaxation at the popular sandy beach Crni molo, ideal for a refreshing dip in the Adriatic.\n\nEnd the evening with a stroll along the seaside promenade, enjoying the gentle sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bura",
+            "tip": "Probieren Sie die hausgemachte Pasta mit Garnelen."
+          },
+          {
+            "name": "Konoba Karoca",
+            "tip": "Frischer Fisch direkt vom Grill in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bura",
+            "tip": "Kóstolja meg a házi tésztát helyi garnélával."
+          },
+          {
+            "name": "Konoba Karoca",
+            "tip": "Friss halételek közvetlenül a grillről, családias környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bura",
+            "tip": "Încercați pastele de casă cu creveți locali."
+          },
+          {
+            "name": "Konoba Karoca",
+            "tip": "Pește proaspăt direct de pe grătar într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bura",
+            "tip": "Try the homemade pasta with local shrimp."
+          },
+          {
+            "name": "Konoba Karoca",
+            "tip": "Fresh fish directly from the grill in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Liebeslabyrinth",
+            "tip": "Ein ruhiger Ort für Meditation zwischen Lorbeersträuchern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hafendamm",
+            "tip": "Perfekter Ort für den Sonnenuntergang weit weg vom Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szerelem-labirintus",
+            "tip": "Csendes hely meditációhoz a babérbokrok között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kikötői móló",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez, távol a tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Labirintul Iubirii",
+            "tip": "Un loc liniștit pentru meditație printre tufișurile de dafin.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Digul portului",
+            "tip": "Loc perfect pentru apus, departe de agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Love Labyrinth",
+            "tip": "A quiet spot for meditation among laurel bushes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Harbor Pier",
+            "tip": "Perfect spot for sunset far from the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tržnica Crikvenica",
+            "tip": "Lokaler Markt für Olivenöl und Lavendelprodukte."
+          },
+          {
+            "name": "Souvenirshop im Zentrum",
+            "tip": "Handgefertigte Keramik aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crikvenica piac",
+            "tip": "Helyi piac olívaolajjal és levendulatermékekkel."
+          },
+          {
+            "name": "Belvárosi ajándékbolt",
+            "tip": "Kézzel készített helyi kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Crikvenica",
+            "tip": "Piață locală pentru ulei de măsline și produse cu lavandă."
+          },
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Ceramică artizanală din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crikvenica Market",
+            "tip": "Local market for olive oil and lavender products."
+          },
+          {
+            "name": "Downtown Souvenirs",
+            "tip": "Handmade local ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Uferpromenade ist fast komplett flach und ideal für lange Spaziergänge.",
+          "Nutzen Sie die frühen Morgenstunden für den Liebespfad, um der Hitze zu entgehen.",
+          "Das Aquarium ist eine tolle Alternative bei Regen oder zu starker Sonne.",
+          "In den meisten Restaurants wird das Gedeck (Coperto) extra berechnet."
+        ],
+        "hu": [
+          "A tengerparti sétány szinte teljesen sík, ideális hosszú sétákhoz.",
+          "A Szerelem-ösvényt a kora reggeli órákban érdemes bejárni a hőség elkerülése végett.",
+          "Az Akvárium remek alternatíva esőben vagy túl erős napsütés esetén.",
+          "A legtöbb étteremben a szervizdíjat (Coperto) külön felszámolják."
+        ],
+        "ro": [
+          "Faleza este aproape complet plată și ideală pentru plimbări lungi.",
+          "Folosiți orele dimineții pentru Cărarea Iubirii pentru a evita căldura.",
+          "Acvariul este o alternativă excelentă în caz de ploaie sau soare puternic.",
+          "În majoritatea restaurantelor, taxa de serviciu se plătește separat."
+        ],
+        "en": [
+          "The seaside promenade is almost completely flat and ideal for long walks.",
+          "Use the early morning hours for the Love Path to avoid the heat.",
+          "The Aquarium is a great alternative during rain or strong sun.",
+          "In most restaurants, the service charge (Coperto) is added to the bill."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Liebespfad (Einstieg)",
+          "coords": [
+            14.6955,
+            45.1785
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schattiger Waldweg, ideal für Mountainbikes.",
+            "hu": "Árnyas erdei út, amely kiváló hegyi kerékpározáshoz.",
+            "ro": "O potecă de pădure umbrită, ideală pentru mountain bike.",
+            "en": "A shaded forest path, ideal for mountain biking."
+          }
+        },
+        {
+          "name": "Mediterranes Liebeslabyrinth",
+          "coords": [
+            14.6985,
+            45.1755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein botanisches Labyrinth direkt am Waldrand.",
+            "hu": "Botanikai labirintus közvetlenül az erdő szélén.",
+            "ro": "Un labirint botanic chiar la marginea pădurii.",
+            "en": "A botanical labyrinth right at the edge of the forest."
+          }
+        },
+        {
+          "name": "Stadtgalerie",
+          "coords": [
+            14.6908,
+            45.1725
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst lokaler kroatischer Künstler.",
+            "hu": "Kortárs művészet helyi horvát művészektől.",
+            "ro": "Artă contemporană a artiștilor locali croați.",
+            "en": "Contemporary art by local Croatian artists."
+          }
+        },
+        {
+          "name": "Nikolausstatuen",
+          "coords": [
+            14.6885,
+            45.1742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehrt den Schutzpatron der Seefahrer.",
+            "hu": "Szent Miklós szobra a tengerészek védőszentje előtt tiszteleg.",
+            "ro": "Onorează sfântul patron al marinarilor.",
+            "en": "Honors the patron saint of sailors."
+          }
+        },
+        {
+          "name": "Strand Crni molo",
+          "coords": [
+            14.6852,
+            45.1815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher an den markierten Ständern.",
+            "hu": "Zárja le biciklijét biztonságosan a kijelölt tárolóknál.",
+            "ro": "Parcați bicicleta în siguranță la suporturile marcate.",
+            "en": "Park your bike safely at the marked racks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Crikvenica auf zwei Rädern. Starten Sie mit dem Liebespfad, der Sie durch grüne Wälder führt. Besuchen Sie das botanische Liebeslabyrinth für einen Moment der Ruhe.\n\nFahren Sie zurück zur Küste, besuchen Sie die Stadtgalerie und bewundern Sie die Statue des Heiligen Nikolaus.\n\nDer Nachmittag endet entspannt am Strand Crni molo, wo Sie sich nach der Fahrt im Meer abkühlen können.",
+        "hu": "Fedezze fel Crikvenicát két keréken. Kezdje a Szerelem-ösvénnyel, amely zöld erdőkön vezet át. Látogasson el a botanikus Szerelem-labirintusba egy kis nyugalomért.\n\nTekerjen vissza a partra, nézze meg a Városi Galériát, és csodálja meg Szent Miklós szobrát.\n\nA délután pihentetően zárul a Crni molo strandon, ahol a tekerés után lehűtheti magát a tengerben.",
+        "ro": "Explorați Crikvenica pe două roți. Începeți cu Cărarea Iubirii, care vă poartă prin păduri verzi. Vizitați labirintul botanic al iubirii pentru un moment de liniște.\n\nPedalați înapoi spre coastă, vizitați Galeria Orașului și admirați statuia Sfântului Nicolae.\n\nDupă-amiaza se încheie relaxat pe plaja Crni molo, unde vă puteți răcori în mare după plimbare.",
+        "en": "Explore Crikvenica on two wheels. Start with the Love Path, which takes you through green forests. Visit the botanical Love Labyrinth for a moment of peace.\n\nCycle back to the coast, visit the City Gallery, and admire the statue of St. Nicholas.\n\nThe afternoon ends relaxingly at Crni molo beach, where you can cool off in the sea after your ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Mendula",
+            "tip": "Schnelle, gesunde Snacks für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Mendula",
+            "tip": "Gyors és egészséges harapnivalók kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Mendula",
+            "tip": "Snack-uri rapide și sănătoase pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Mendula",
+            "tip": "Quick and healthy snacks for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Badanj",
+            "tip": "Kurzer Anstieg zu einer Burgruine mit Panorama.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badanj kilátópont",
+            "tip": "Rövid emelkedő egy várromhoz panorámával.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Badanj",
+            "tip": "Urcare scurtă la ruinele cetății cu panoramă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Badanj Viewpoint",
+            "tip": "Short climb to a castle ruin with a panorama.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lidl / Konzum",
+            "tip": "Ideal für die Aufstockung Ihres Proviants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lidl / Konzum",
+            "tip": "Ideális úti készletek beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lidl / Konzum",
+            "tip": "Ideal pentru aprovizionarea cu provizii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lidl / Konzum",
+            "tip": "Ideal for restocking your provisions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt einen durchgehenden Radweg entlang der Riviera von Selce bis Kačjak.",
+          "Meiden Sie die Hauptstraße D8, nutzen Sie die Nebenstraßen am Meer.",
+          "Helmpflicht besteht in Kroatien für Kinder unter 16 Jahren."
+        ],
+        "hu": [
+          "Folyamatos kerékpárút vezet a riviérán Selcétől egészen Kačjakig.",
+          "Kerülje a D8-as főutat, használja a tengerparti mellékutcákat.",
+          "Horvátországban 16 év alatti gyermekeknek kötelező a bukósisak."
+        ],
+        "ro": [
+          "Există o pistă de biciclete continuă de-a lungul rivierei, de la Selce la Kačjak.",
+          "Evitați drumul principal D8, folosiți străzile secundare de lângă mare.",
+          "Casca este obligatorie în Croația pentru copiii sub 16 ani."
+        ],
+        "en": [
+          "There is a continuous bike path along the riviera from Selce to Kačjak.",
+          "Avoid the main road D8, use the side streets by the sea.",
+          "Helmets are mandatory in Croatia for children under 16."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Selce Zentrum",
+          "coords": [
+            14.7215,
+            45.1585
+          ],
+          "category": "region",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das charmante Nachbardorf mit einer schönen Promenade.",
+            "hu": "A bájos szomszédos település gyönyörű sétánnyal.",
+            "ro": "Satul vecin fermecător cu o faleză frumoasă.",
+            "en": "The charming neighboring village with a beautiful promenade."
+          }
+        },
+        {
+          "name": "Crikvenica Aquarium",
+          "coords": [
+            14.6918,
+            45.1735
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafenparkplatz in der Nähe.",
+            "hu": "Parkoljon a közeli kikötői parkolóban.",
+            "ro": "Parcați în parcarea portului din apropiere.",
+            "en": "Park at the harbor parking lot nearby."
+          }
+        },
+        {
+          "name": "Kacjak Halbinsel",
+          "coords": [
+            14.6555,
+            45.2015
+          ],
+          "category": "island",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Tolle Klippen und kristallklares Wasser zum Schnorcheln.",
+            "hu": "Csodálatos sziklák és kristálytiszta víz búvárkodáshoz.",
+            "ro": "Stânci grozave și apă cristalină pentru snorkeling.",
+            "en": "Great cliffs and crystal clear water for snorkeling."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Augen der Vinodol",
+          "coords": [
+            14.7155,
+            45.1955
+          ],
+          "category": "region",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick über die gesamte Riviera und Krk.",
+            "hu": "Látványos kilátás az egész riviérára és Krk szigetére.",
+            "ro": "Vedere spectaculoasă peste întreaga rivieră și insula Krk.",
+            "en": "Spectacular view over the entire riviera and Krk island."
+          }
+        },
+        {
+          "name": "Strand Crni molo",
+          "coords": [
+            14.6852,
+            45.1815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Großer gebührenpflichtiger Parkplatz direkt am Strand.",
+            "hu": "Nagy fizetős parkoló közvetlenül a strand mellett.",
+            "ro": "Parcare mare cu plată chiar lângă plajă.",
+            "en": "Large paid parking lot right by the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Vielfalt der Riviera. Starten Sie im beschaulichen Selce und besuchen Sie dann das Aquarium im Zentrum von Crikvenica.\n\nFahren Sie weiter zur Halbinsel Kačjak für ein Naturerlebnis abseits der Massen. Ein Highlight ist die Fahrt ins Hinterland zu den Aussichtspunkten der Vinodol.\n\nBeenden Sie den Tag entspannt am Crni molo Strand, bevor Sie zurückfahren.",
+        "hu": "Autóval felfedezheti a riviéra sokszínűségét. Kezdjen a békés Selcében, majd látogasson el a crikvenicai Akváriumba.\n\nFolytassa útját a Kačjak-félszigetre a tömegtől távoli természeti élményért. Kiemelt pont a Vinodol-völgy kilátóinak felkeresése a hátországban.\n\nA napot a Crni molo strandon zárhatja egy kis pihenéssel a hazaindulás előtt.",
+        "ro": "Cu mașina veți descoperi diversitatea rivierei. Începeți în liniștitul Selce și vizitați apoi Acvariul din centrul orașului Crikvenica.\n\nContinuați spre peninsula Kačjak pentru o experiență naturală departe de mulțime. Un punct culminant este drumul spre punctele de belvedere din Vinodol.\n\nÎncheiați ziua relaxat pe plaja Crni molo înainte de a porni spre casă.",
+        "en": "By car, you will discover the diversity of the riviera. Start in peaceful Selce and then visit the Aquarium in the center of Crikvenica.\n\nContinue to the Kačjak peninsula for a nature experience away from the crowds. A highlight is the drive into the hinterland to the Vinodol viewpoints.\n\nEnd the day relaxing at Crni molo beach before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vagabundo (Bribir)",
+            "tip": "Exzellentes Fleisch aus dem Hinterland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vagabundo (Bribir)",
+            "tip": "Kiváló húsételek a hátországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vagabundo (Bribir)",
+            "tip": "Carne excelentă din regiunea muntoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vagabundo (Bribir)",
+            "tip": "Excellent meat from the hinterland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kacjak Klippen",
+            "tip": "Einsame Buchten am Ende der Halbinsel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kacjak-sziklák",
+            "tip": "Magányos öblök a félsziget végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Kacjak",
+            "tip": "Golful izolate la capătul peninsulei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kacjak Cliffs",
+            "tip": "Secluded bays at the end of the peninsula.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Duga Mall",
+            "tip": "Größeres Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duga Mall",
+            "tip": "Nagyobb bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duga Mall",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duga Mall",
+            "tip": "Larger shopping mall on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Sommer im Zentrum sehr knapp, nutzen Sie die Randgebiete.",
+          "Die Straße ins Hinterland ist eng und kurvenreich, fahren Sie vorsichtig.",
+          "Parkgebühren können oft per SMS bezahlt werden."
+        ],
+        "hu": [
+          "Nyáron a parkolóhelyek száma korlátozott a központban, használja a külső övezeteket.",
+          "A hátországba vezető utak szűkek és kanyargósak, vezessen óvatosan.",
+          "A parkolási díj gyakran SMS-ben is fizethető."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate în centru vara, folosiți zonele periferice.",
+          "Drumurile spre interior sunt înguste și șerpuite, conduceți cu atenție.",
+          "Taxele de parcare pot fi plătite adesea prin SMS."
+        ],
+        "en": [
+          "Parking spaces are very scarce in the center in summer; use the outskirts.",
+          "The roads into the hinterland are narrow and winding; drive carefully.",
+          "Parking fees can often be paid via SMS."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busbahnhof Crikvenica",
+          "coords": [
+            14.6905,
+            45.1745
+          ],
+          "category": "region",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Fernbusse aus Rijeka und Zagreb.",
+            "hu": "Központi érkezési pont a Rijeka és Zágráb felől érkező buszoknak.",
+            "ro": "Punct central de sosire pentru autobuzele din Rijeka și Zagreb.",
+            "en": "Central arrival point for long-distance buses from Rijeka and Zagreb."
+          }
+        },
+        {
+          "name": "Stjepan-Radić-Platz",
+          "coords": [
+            14.6912,
+            45.1731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten zu Fuß vom Busbahnhof entfernt.",
+            "hu": "Csak 5 perc séta a buszpályaudvartól.",
+            "ro": "La doar 5 minute de mers pe jos de autogară.",
+            "en": "Just a 5-minute walk from the bus station."
+          }
+        },
+        {
+          "name": "Aquarium Crikvenica",
+          "coords": [
+            14.6918,
+            45.1735
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt in der Fußgängerzone gelegen.",
+            "hu": "Közvetlenül a sétálóövezetben található.",
+            "ro": "Situat chiar în zona pietonală.",
+            "en": "Located right in the pedestrian zone."
+          }
+        },
+        {
+          "name": "Strand Crni molo",
+          "coords": [
+            14.6852,
+            45.1815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus (Zvonko), um zum Strand zu gelangen.",
+            "hu": "Használja a helyi kisbuszt (Zvonko) a strandra jutáshoz.",
+            "ro": "Folosiți autobuzul local (Zvonko) pentru a ajunge la plajă.",
+            "en": "Use the local city bus (Zvonko) to get to the beach."
+          }
+        },
+        {
+          "name": "Selce (Zentrum)",
+          "coords": [
+            14.7215,
+            45.1585
+          ],
+          "category": "region",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Gute Busverbindung zurück nach Crikvenica alle 30-60 Min.",
+            "hu": "Jó buszközlekedés vissza Crikvenicába 30-60 percenként.",
+            "ro": "Conexiune bună de autobuz înapoi spre Crikvenica la fiecare 30-60 min.",
+            "en": "Good bus connection back to Crikvenica every 30-60 min."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Crikvenica ist mit öffentlichen Verkehrsmitteln gut erreichbar. Starten Sie am Busbahnhof und erkunden Sie das Zentrum zu Fuß.\n\nNach dem Besuch des Aquariums bringt Sie der lokale Busshuttle zum beliebten Crni molo Strand.\n\nAm Nachmittag lohnt sich ein Ausflug mit dem Bus ins benachbarte Selce, bevor Sie die Heimreise antreten.",
+        "hu": "Crikvenica jól megközelíthető tömegközlekedéssel. Kezdjen a buszpályaudvaron, és fedezze fel a központot gyalog.\n\nAz Akvárium megtekintése után a helyi buszjárat elviszi a népszerű Crni molo strandra.\n\nDélután érdemes busszal átmenni a szomszédos Selcébe, mielőtt elindulna hazafelé.",
+        "ro": "Crikvenica este ușor accesibilă cu transportul public. Începeți la autogară și explorați centrul pe jos.\n\nDupă vizitarea Acvariului, autobuzul local vă va duce la populara plajă Crni molo.\n\nDupă-amiaza, merită o excursie cu autobuzul în Selce vecin înainte de a pleca spre casă.",
+        "en": "Crikvenica is easily accessible by public transport. Start at the bus station and explore the center on foot.\n\nAfter visiting the Aquarium, the local bus shuttle will take you to the popular Crni molo beach.\n\nIn the afternoon, a bus trip to neighboring Selce is worthwhile before you start your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Maslina",
+            "tip": "Gute Pizza in der Nähe des Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Maslina",
+            "tip": "Jó pizza a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Maslina",
+            "tip": "Pizza bună lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Maslina",
+            "tip": "Good pizza near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark",
+            "tip": "Schattiger Park im Zentrum für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógypark",
+            "tip": "Árnyas park a központban egy rövid pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul stațiunii",
+            "tip": "Parc umbrit în centru pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Shady park in the center for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Kaufen Sie hier Ihre Bustickets vorab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisak újságos",
+            "tip": "Itt előre megvásárolhatja a buszjegyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Tisak",
+            "tip": "Cumpărați biletele de autobuz de aici în avans."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Buy your bus tickets here in advance."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der City-Bus 'Zvonko' verbindet alle Teile der Stadt im Sommer regelmäßig.",
+          "Bustickets können direkt beim Fahrer gekauft werden (nur Barzahlung).",
+          "Die Fernbusse nach Rijeka fahren häufig und sind pünktlich."
+        ],
+        "hu": [
+          "A 'Zvonko' városi busz nyáron rendszeresen összeköti a város minden részét.",
+          "Buszjegyek közvetlenül a sofőrnél válthatók (csak készpénz).",
+          "A Rijekába tartó távolsági buszok gyakran járnak és pontosak."
+        ],
+        "ro": [
+          "Autobuzul urban 'Zvonko' conectează regulat toate părțile orașului vara.",
+          "Biletele de autobuz pot fi cumpărate direct de la șofer (doar numerar).",
+          "Autobuzele spre Rijeka circulă frecvent și sunt punctuale."
+        ],
+        "en": [
+          "The 'Zvonko' city bus regularly connects all parts of the city in summer.",
+          "Bus tickets can be bought directly from the driver (cash only).",
+          "Long-distance buses to Rijeka run frequently and are punctual."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Crikvenica",
+    "region": "HR-08",
+    "coords": [
+      14.69,
+      45.175
+    ],
+    "transit_official": "https://www.arriva.com.hr",
+    "transit_app": "https://getbybus.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.rivieracrikvenica.com/en/events",
+    "tourism_office": "https://www.rivieracrikvenica.com/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/crikvenica.html",
+    "restaurants_booking": "https://www.zonzofox.com",
+    "museum_tickets": "https://www.rivieracrikvenica.com/en",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Crikvenica ist ein traditioneller deutschsprachiger und österreichischer Urlaubsort, Deutsch ist sehr verbreitet, Englisch und Italienisch ebenfalls.",
+      "hu": "A hivatalos nyelv a horvát; Crikvenica hagyományos osztrák-német üdülőhely, a német nagyon elterjedt, az angol és olasz is gyakori.",
+      "ro": "Limba oficială este croata; Crikvenica este o destinație tradițională pentru austrieci și germani, germana este foarte răspândită, engleza și italiana de asemenea.",
+      "en": "Croatian is official; Crikvenica is a traditional German/Austrian holiday town, German is very widespread, English and Italian also common."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober für die Kvarner-Riviera; Juni und September ideal mit warmem Meer und weniger Andrang als im Juli/August.",
+      "hu": "Május-október a Kvarner-rivieráért; június és szeptember ideális meleg tengerrel és kevesebb tömeggel mint július-augusztus.",
+      "ro": "Mai-octombrie pentru Riviera Kvarner; iunie și septembrie ideale cu mare caldă și mai puțină aglomerație decât iulie/august.",
+      "en": "May to October for the Kvarner Riviera; June and September ideal with warm sea and fewer crowds than July-August."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicherer Familienurlaubsort; Bora-Wind im Frühjahr/Herbst kann Fährverbindungen nach Krk beeinträchtigen. Auf Seeigel an Felsstränden achten, Badeschuhe empfohlen.",
+      "hu": "Nagyon biztonságos családi üdülőhely; a bóra szél tavasszal/ősszel akadályozhatja a Krk-i kompokat. Figyelj a tengeri sünökre a sziklás strandokon, vízicipő ajánlott.",
+      "ro": "Stațiune familială foarte sigură; vântul Bora primăvara/toamna poate afecta feriboturile spre Krk. Atenție la aricii de mare pe plajele stâncoase, papuci de apă recomandați.",
+      "en": "Very safe family resort; Bora wind in spring/autumn can disrupt ferries to Krk. Watch for sea urchins on rocky beaches, water shoes recommended."
+    }
+  }
+}

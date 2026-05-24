@@ -1,0 +1,1050 @@
+{
+  "city_id": "vodice",
+  "anchor": {
+    "name": "Vodice",
+    "coords": [
+      43.7589,
+      15.78
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche des hl. Kreuzes",
+            "hu": "Szent Kereszt plébániatemplom",
+            "ro": "Biserica parohială Sfânta Cruce",
+            "en": "Parish Church of the Holy Cross"
+          },
+          "coords": [
+            43.7595,
+            15.7795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Barocke Architektur im Herzen der Stadt.",
+            "hu": "Barokk építészet a város szívében.",
+            "ro": "Arhitectură barocă în inima orașului.",
+            "en": "Baroque architecture in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ćorić Turm",
+            "hu": "Ćorić-torony",
+            "ro": "Turnul Ćorić",
+            "en": "Ćorić Tower"
+          },
+          "coords": [
+            43.759,
+            15.7785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Letzter Rest der einstigen Stadtbefestigung.",
+            "hu": "Az egykori városfal utolsó maradványa.",
+            "ro": "Ultima rămășiță a vechilor fortificații ale orașului.",
+            "en": "The last remnant of the former city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Zisterne",
+            "hu": "Római ciszterna",
+            "ro": "Cisterna Romană",
+            "en": "Roman Cistern"
+          },
+          "coords": [
+            43.7592,
+            15.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein historisches Zeugnis der Wasserversorgung.",
+            "hu": "A vízellátás történelmi tanúja.",
+            "ro": "O dovadă istorică a alimentării cu apă.",
+            "en": "A historical witness of water supply."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Kirche des hl. Kreuzes",
+            "hu": "Szent Kereszt régi templom",
+            "ro": "Vechea biserică Sfânta Cruce",
+            "en": "Old Church of the Holy Cross"
+          },
+          "coords": [
+            43.758,
+            15.777
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kleiner, intimer Sakralbau aus dem 15. Jh.",
+            "hu": "Kicsi, meghitt 15. századi szakrális épület.",
+            "ro": "Mică clădire sacră intimă din secolul al XV-lea.",
+            "en": "Small, intimate 15th-century sacred building."
+          }
+        },
+        {
+          "name": {
+            "de": "Vodice Uferpromenade",
+            "hu": "Vodicei tengerparti sétány",
+            "ro": "Promenada Vodice",
+            "en": "Vodice Waterfront Promenade"
+          },
+          "coords": [
+            43.758,
+            15.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Belebtes Zentrum mit vielen Cafés.",
+            "hu": "Nyüzsgő központ számos kávézóval.",
+            "ro": "Centru plin de viață cu multe cafenele.",
+            "en": "Lively center with many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium & Museum",
+            "hu": "Akvárium és Múzeum",
+            "ro": "Acvariu și Muzeu",
+            "en": "Aquarium & Museum"
+          },
+          "coords": [
+            43.7575,
+            15.782
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Entdecken Sie die Meeresfauna der Adria.",
+            "hu": "Fedezze fel az Adria tengeri élővilágát.",
+            "ro": "Descoperiți fauna marină a Adriaticii.",
+            "en": "Discover the marine fauna of the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Plava Plaža",
+            "hu": "Plava Plaža strand",
+            "ro": "Plaja Plava",
+            "en": "Plava Plaža Beach"
+          },
+          "coords": [
+            43.757,
+            15.77
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Einer der beliebtesten Strände der Region.",
+            "hu": "A régió egyik legnépszerűbb strandja.",
+            "ro": "Una dintre cele mai populare plaje din regiune.",
+            "en": "One of the most popular beaches in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vodice zu Fuß und beginnen Sie bei der barocken Pfarrkirche. Der Ćorić-Turm und die römische Zisterne erzählen von der wehrhaften Vergangenheit. Schlendern Sie entlang der Promenade zum Aquarium, bevor Sie den Nachmittag am Blauen Strand (Plava Plaža) verbringen. Die Stadt bietet eine perfekte Mischung aus Geschichte und mediterraner Lebensfreude direkt am Meer.",
+        "hu": "Fedezze fel Vodicét gyalog, kezdve a barokk plébániatemplomnál. A Ćorić-torony és a római ciszterna a védelmező múltról mesél. Sétáljon végig a korzón az akváriumig, mielőtt a délutánt a Kék Strandon (Plava Plaža) töltené. A város a történelem és a mediterrán életöröm tökéletes keverékét kínálja közvetlenül a tengerparton.",
+        "ro": "Explorați Vodice la pas, începând de la biserica parohială barocă. Turnul Ćorić și cisterna romană povestesc despre trecutul defensiv. Plimbați-vă de-a lungul promenadei până la acvariu înainte de a petrece după-amiaza pe Plaja Albastră (Plava Plaža). Orașul oferă un amestec perfect de istorie și bucurie de viață mediteraneană chiar la malul mării.",
+        "en": "Explore Vodice on foot, starting at the Baroque parish church. The Ćorić Tower and the Roman cistern tell of the defensive past. Stroll along the promenade to the aquarium before spending the afternoon at the Blue Beach (Plava Plaža). The city offers a perfect blend of history and Mediterranean joie de vivre right by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frische Muscheln",
+            "tip": "Probieren Sie Muscheln nach Buzara-Art."
+          },
+          {
+            "name": "Maraština Wein",
+            "tip": "Ein lokaler Weißwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss kagyló",
+            "tip": "Próbálja ki a kagylót buzara módra."
+          },
+          {
+            "name": "Maraština bor",
+            "tip": "A régió jellegzetes fehérbora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scoici proaspete",
+            "tip": "Încercați scoicile în stil buzara."
+          },
+          {
+            "name": "Vin Maraština",
+            "tip": "Un vin alb local din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Mussels",
+            "tip": "Try mussels cooked 'buzara' style."
+          },
+          {
+            "name": "Maraština Wine",
+            "tip": "A local white wine from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Kirche Garten",
+            "tip": "Ein ruhiger Ort fernab des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi templomkert",
+            "tip": "Csendes hely távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii vechi",
+            "tip": "Un loc liniștit departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Church Garden",
+            "tip": "A quiet place away from the hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ufermarkt",
+            "tip": "Handgefertigter Schmuck und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti piac",
+            "tip": "Kézműves ékszerek és emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pe faleză",
+            "tip": "Bijuterii artizanale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Market",
+            "tip": "Handmade jewelry and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Abends ist die Promenade am schönsten.",
+          "Plava Plaža ist ideal für Familien.",
+          "Besuchen Sie den Fischmarkt am frühen Morgen."
+        ],
+        "hu": [
+          "Este a sétány a legszebb.",
+          "A Plava Plaža ideális családoknak.",
+          "Látogassa meg a halpiacot kora reggel."
+        ],
+        "ro": [
+          "Promenada este cea mai frumoasă seara.",
+          "Plaja Plava este ideală pentru familii.",
+          "Vizitați piața de pește dimineața devreme."
+        ],
+        "en": [
+          "The promenade is most beautiful in the evening.",
+          "Plava Plaža is ideal for families.",
+          "Visit the fish market early in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vodice Uferpromenade",
+            "hu": "Vodicei tengerparti sétány",
+            "ro": "Promenada Vodice",
+            "en": "Vodice Waterfront Promenade"
+          },
+          "coords": [
+            43.758,
+            15.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Perfekter Start für eine Fahrt am Meer.",
+            "hu": "Tökéletes kezdés a tengerparti tekeréshez.",
+            "ro": "Start perfect pentru o plimbare pe malul mării.",
+            "en": "Perfect start for a ride by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plava Plaža",
+            "hu": "Plava Plaža strand",
+            "ro": "Plaja Plava",
+            "en": "Plava Plaža Beach"
+          },
+          "coords": [
+            43.757,
+            15.77
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der Radweg führt flach am Ufer entlang.",
+            "hu": "A kerékpárút sík területen halad a parton.",
+            "ro": "Pista de biciclete duce plat de-a lungul malului.",
+            "en": "The bike path leads flat along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Okit",
+            "hu": "Okit-hegy",
+            "ro": "Dealul Okit",
+            "en": "Okit Hill"
+          },
+          "coords": [
+            43.785,
+            15.75
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Steiler Anstieg, aber tolle Belohnung oben.",
+            "hu": "Meredek emelkedő, de nagyszerű jutalom a csúcson.",
+            "ro": "Urcare abruptă, dar recompensă mare în vârf.",
+            "en": "Steep climb, but great reward at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Ćorić Turm",
+            "hu": "Ćorić-torony",
+            "ro": "Turnul Ćorić",
+            "en": "Ćorić Tower"
+          },
+          "coords": [
+            43.759,
+            15.7785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Kurzer Stopp im Zentrum.",
+            "hu": "Rövid megálló a központban.",
+            "ro": "Scurtă oprire în centru.",
+            "en": "Short stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des hl. Kreuzes",
+            "hu": "Szent Kereszt plébániatemplom",
+            "ro": "Biserica parohială Sfânta Cruce",
+            "en": "Parish Church of the Holy Cross"
+          },
+          "coords": [
+            43.7595,
+            15.7795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Abschluss im Herzen der Altstadt.",
+            "hu": "Befejezés az óváros szívében.",
+            "ro": "Final în inima orașului vechi.",
+            "en": "Conclusion in the heart of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Fahrrad ist ideal, um die Umgebung von Vodice zu erkunden. Radeln Sie entspannt entlang der Küste zum Plava Plaža und wagen Sie dann den anspruchsvollen Aufstieg zum Hügel Okit. Von dort oben haben Sie einen unvergleichlichen Blick auf den Archipel von Šibenik. Zurück im Zentrum warten historische Türme und Kirchen auf Ihre Entdeckung.",
+        "hu": "A kerékpár ideális Vodice környékének felfedezéséhez. Tekerjen kényelmesen a part mentén a Plava Plaža strandig, majd vágjon bele a kihívást jelentő Okit-hegyi emelkedőbe. Felülről páratlan kilátás nyílik a sibeniki szigetvilágra. Visszatérve a központba, történelmi tornyok és templomok várják a felfedezést.",
+        "ro": "Bicicleta este ideală pentru a explora împrejurimile orașului Vodice. Pedalați relaxat de-a lungul coastei spre Plaja Plava și apoi aventurați-vă în urcarea solicitantă spre dealul Okit. De sus aveți o vedere inegalabilă asupra arhipelagului Šibenik. Întorși în centru, turnuri și biserici istorice vă așteaptă descoperirea.",
+        "en": "The bike is ideal for exploring the surroundings of Vodice. Cycle relaxed along the coast to Plava Plaža and then venture the demanding climb to Okit Hill. From up there, you have an unparalleled view of the Šibenik archipelago. Back in the center, historical towers and churches await your discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tri Piruna",
+            "tip": "Moderne Interpretation dalmatinischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tri Piruna",
+            "tip": "A dalmát konyha modern értelmezése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tri Piruna",
+            "tip": "Interpretare modernă a bucătăriei dalmate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tri Piruna",
+            "tip": "Modern interpretation of Dalmatian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Okit",
+            "tip": "Ruhe und Weite über dem Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okit-hegy",
+            "tip": "Csend és tágasság a tenger felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Okit",
+            "tip": "Liniște și vastitate deasupra mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Okit Hill",
+            "tip": "Peace and vastness above the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Kaufen Sie direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Buy directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Mittagshitze beim Aufstieg zum Okit.",
+          "Tragen Sie einen Helm.",
+          "Die Uferwege sind im Sommer sehr belebt."
+        ],
+        "hu": [
+          "Kerülje a déli hőséget az Okit-hegyre menet.",
+          "Viseljen sisakot.",
+          "A parti utak nyáron nagyon zsúfoltak."
+        ],
+        "ro": [
+          "Evitați căldura de la amiază la urcarea pe Okit.",
+          "Purtați cască.",
+          "Traseele de pe mal sunt foarte aglomerate vara."
+        ],
+        "en": [
+          "Avoid the midday heat when climbing Okit.",
+          "Wear a helmet.",
+          "The waterfront paths are very busy in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hügel Okit",
+            "hu": "Okit-hegy",
+            "ro": "Dealul Okit",
+            "en": "Okit Hill"
+          },
+          "coords": [
+            43.785,
+            15.75
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Bequeme Zufahrt bis fast ganz nach oben.",
+            "hu": "Kényelmes feljutás szinte egészen a csúcsig.",
+            "ro": "Acces convenabil până aproape de vârf.",
+            "en": "Convenient access almost to the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des hl. Kreuzes",
+            "hu": "Szent Kereszt plébániatemplom",
+            "ro": "Biserica parohială Sfânta Cruce",
+            "en": "Parish Church of the Holy Cross"
+          },
+          "coords": [
+            43.7595,
+            15.7795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Parkhaus im Zentrum nutzen.",
+            "hu": "Használja a központi parkolóházat.",
+            "ro": "Folosiți parcarea etajată din centru.",
+            "en": "Use the central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ćorić Turm",
+            "hu": "Ćorić-torony",
+            "ro": "Turnul Ćorić",
+            "en": "Ćorić Tower"
+          },
+          "coords": [
+            43.759,
+            15.7785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt.",
+            "hu": "Csak egy rövid sétára van.",
+            "ro": "La doar o scurtă plimbare distanță.",
+            "en": "Just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium & Museum",
+            "hu": "Akvárium és Múzeum",
+            "ro": "Acvariu și Muzeu",
+            "en": "Aquarium & Museum"
+          },
+          "coords": [
+            43.7575,
+            15.782
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ideal auch bei schlechtem Wetter.",
+            "hu": "Rossz idő esetén is ideális program.",
+            "ro": "Ideal și pe vreme rea.",
+            "en": "Ideal even in bad weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Vodice Uferpromenade",
+            "hu": "Vodicei tengerparti sétány",
+            "ro": "Promenada Vodice",
+            "en": "Vodice Waterfront Promenade"
+          },
+          "coords": [
+            43.758,
+            15.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Lunch-Stopp an der lebhaften Riva.",
+            "hu": "Ebédszünet a nyüzsgő Riván.",
+            "ro": "Oprire pentru prânz pe faleza plină de viață.",
+            "en": "Lunch stop at the lively Riva."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie auf dem Gipfel des Okit für den perfekten Überblick. Danach geht es zurück in das belebte Zentrum von Vodice, wo Sie die architektonischen Schätze und das Aquarium besuchen. Das Auto bietet Ihnen Flexibilität, um den Nachmittag an entlegeneren Buchten in Richtung Tribunj oder Srima zu verbringen.",
+        "hu": "Autóval az Okit csúcsán kezdjen a tökéletes áttekintésért. Ezután térjen vissza Vodice nyüzsgő központjába, ahol meglátogathatja az építészeti kincseket és az akváriumot. Az autó rugalmasságot biztosít, hogy a délutánt Tribunj vagy Srima irányába eső távolabbi öblökben töltse.",
+        "ro": "Cu mașina începeți pe vârful dealului Okit pentru o privire de ansamblu perfectă. Apoi reveniți în centrul animat al orașului Vodice, unde vizitați comorile arhitecturale și acvariul. Mașina vă oferă flexibilitatea de a petrece după-amiaza în golfuri mai îndepărtate spre Tribunj sau Srima.",
+        "en": "By car, start at the summit of Okit for the perfect overview. Then head back to the lively center of Vodice, where you can visit the architectural treasures and the aquarium. The car gives you flexibility to spend the afternoon at more remote coves towards Tribunj or Srima."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Makina",
+            "tip": "Klassische Fleisch- und Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Makina",
+            "tip": "Klasszikus hús- és halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Makina",
+            "tip": "Mâncăruri clasice de carne și pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Makina",
+            "tip": "Classic meat and fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Okit Marienheiligtum",
+            "tip": "Besinnlicher Ort mit Weitblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okit Mária-kegyhely",
+            "tip": "Elmélkedésre alkalmas hely kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanctuarul Okit",
+            "tip": "Loc de reflecție cu vedere largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Okit Marian Sanctuary",
+            "tip": "Contemplative place with a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl von Okit",
+            "tip": "Direktverkauf in der Nähe des Hügels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okit olívaolaj",
+            "tip": "Közvetlen értékesítés a hegy közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de pe Okit",
+            "tip": "Vânzare directă în apropierea dealului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil from Okit",
+            "tip": "Direct sale near the hill."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-App für die Gebühren.",
+          "Fahren Sie vorsichtig auf den engen Hügelstraßen.",
+          "Kombinieren Sie den Trip mit einem Besuch in Šibenik."
+        ],
+        "hu": [
+          "Használja a parkolóalkalmazást a díjakhoz.",
+          "Vezessen óvatosan a szűk hegyi utakon.",
+          "Kombinálja az utat egy sibeniki látogatással."
+        ],
+        "ro": [
+          "Folosiți aplicația de parcare pentru taxe.",
+          "Conduceți cu atenție pe drumurile înguste de deal.",
+          "Combinați excursia cu o vizită la Šibenik."
+        ],
+        "en": [
+          "Use the parking app for fees.",
+          "Drive carefully on narrow hill roads.",
+          "Combine the trip with a visit to Šibenik."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vodice Uferpromenade",
+            "hu": "Vodicei tengerparti sétány",
+            "ro": "Promenada Vodice",
+            "en": "Vodice Waterfront Promenade"
+          },
+          "coords": [
+            43.758,
+            15.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt der Busse.",
+            "hu": "A buszok központi érkezési pontja.",
+            "ro": "Punctul central de sosire a autobuzelor.",
+            "en": "Central arrival point for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium & Museum",
+            "hu": "Akvárium és Múzeum",
+            "ro": "Acvariu și Muzeu",
+            "en": "Aquarium & Museum"
+          },
+          "coords": [
+            43.7575,
+            15.782
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Nur wenige Gehminuten von der Haltestelle.",
+            "hu": "Csak pár perc séta a megállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stație.",
+            "en": "Just a few minutes walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Ćorić Turm",
+            "hu": "Ćorić-torony",
+            "ro": "Turnul Ćorić",
+            "en": "Ćorić Tower"
+          },
+          "coords": [
+            43.759,
+            15.7785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Wahrzeichen im historischen Kern.",
+            "hu": "Jellegzetes épület a történelmi magban.",
+            "ro": "Emblemă în nucleul istoric.",
+            "en": "Landmark in the historical core."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des hl. Kreuzes",
+            "hu": "Szent Kereszt plébániatemplom",
+            "ro": "Biserica parohială Sfânta Cruce",
+            "en": "Parish Church of the Holy Cross"
+          },
+          "coords": [
+            43.7595,
+            15.7795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Barockes Highlight direkt im Zentrum.",
+            "hu": "Barokk látnivaló közvetlenül a központban.",
+            "ro": "Punct de atracție baroc chiar în centru.",
+            "en": "Baroque highlight right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plava Plaža",
+            "hu": "Plava Plaža strand",
+            "ro": "Plaja Plava",
+            "en": "Plava Plaža Beach"
+          },
+          "coords": [
+            43.757,
+            15.77
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Leicht erreichbar zu Fuß oder per Bummelzug.",
+            "hu": "Könnyen elérhető gyalog vagy kisvonattal.",
+            "ro": "Ușor accesibil pe jos sau cu trenulețul turistic.",
+            "en": "Easily accessible on foot or by tourist train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vodice ist exzellent mit Bussen aus Šibenik und Zadar erreichbar. Vom Busbahnhof gelangen Sie sofort zur Riva und zum Aquarium. Die historischen Sehenswürdigkeiten liegen alle eng beieinander im Zentrum. Nutzen Sie den touristischen 'Bummelzug', um bequem zum Blauen Strand zu gelangen, ohne das Auto bewegen zu müssen.",
+        "hu": "Vodice kiválóan megközelíthető busszal Sibenik és Zadar felől. A buszpályaudvartól azonnal a Rivára és az akváriumhoz juthat. A történelmi látnivalók mind szorosan egymás mellett találhatók a központban. Használja a turisztikai kisvonatot, hogy kényelmesen eljusson a Kék Strandhoz anélkül, hogy autót kellene használnia.",
+        "ro": "Vodice este excelent accesibil cu autobuzul din Šibenik și Zadar. De la autogară ajungeți imediat pe faleză și la acvariu. Atracțiile istorice sunt toate situate aproape una de alta în centru. Folosiți trenulețul turistic pentru a ajunge confortabil la Plaja Albastră fără a fi nevoie să folosiți mașina.",
+        "en": "Vodice is excellently accessible by bus from Šibenik and Zadar. From the bus station, you immediately reach the Riva and the aquarium. The historical sights are all closely located next to each other in the center. Use the tourist 'train' to comfortably reach Blue Beach without having to move the car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spizza",
+            "tip": "Beliebte Pizzeria an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spizza",
+            "tip": "Népszerű pizzéria a Riván."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spizza",
+            "tip": "Pizzerie populară pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spizza",
+            "tip": "Popular pizzeria on the Riva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Ruhiger Blick auf die ein- und auslaufenden Boote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőmóló",
+            "tip": "Csendes kilátás a ki- és befutó hajókra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mollul portului",
+            "tip": "Vedere liniștită asupra bărcilor care intră și ies.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Quiet view of the boats coming and going.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konvikt Souvenirs",
+            "tip": "Lokale Handwerkskunst im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konvikt Souvenirs",
+            "tip": "Helyi kézműves termékek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Konvikt",
+            "tip": "Artizanat local în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konvikt Souvenirs",
+            "tip": "Local handicrafts in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets können beim Fahrer gekauft werden.",
+          "Der Bummelzug fährt alle 30 Minuten.",
+          "Die Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "Buszjegyeket a sofőrnél lehet vásárolni.",
+          "A kisvonat 30 percenként közlekedik.",
+          "A megállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la șofer.",
+          "Trenulețul turistic circulă la fiecare 30 de minute.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "Bus tickets can be bought from the driver.",
+          "The tourist train runs every 30 minutes.",
+          "The stops are well marked."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Vodice",
+    "iso": "HR-15",
+    "coords": [
+      15.78,
+      43.7589
+    ],
+    "transit_official": "https://arriva.com.hr/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.vodice.hr/",
+    "tourism_office": "https://www.vodice.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/vodice.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Klassischer dalmatinischer Badeort; Deutsch und Tschechisch sind dank Stammgaesten weit verbreitet, Englisch ueberall.",
+      "hu": "Klasszikus dalmaciai uduloovaros; a torzsvendegek miatt elterjedt a nemet es a cseh, az angol mindenutt.",
+      "ro": "Statiune dalmata clasica; germana si ceha sunt foarte raspandite datorita turistilor fideli, engleza peste tot.",
+      "en": "Classic Dalmatian resort town; German and Czech are widespread thanks to regular guests, English everywhere."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September: warm zum Baden, lebendige Promenade, ohne die Spitzenpreise und Menschenmassen im Juli und August.",
+      "hu": "Junius es szeptember: meleg furdes, lukteto setany, a juliusi-augusztusi csucsarak es tomeg nelkul.",
+      "ro": "Iunie si septembrie: cald pentru scaldat, faleza animata, fara preturile si aglomeratia varfului din iulie-august.",
+      "en": "June and September: warm for swimming, lively promenade, without the July-August peak prices and crowds."
+    },
+    "neighborhood_warnings": {
+      "de": "Hauptort der dalmatinischen Sommer-Partyszene; die Promenade ist nachts laut, ruhigere Quartiere etwas vom Strand entfernt buchen.",
+      "hu": "A dalmaciai nyari bulielet egyik kozpontja; a setany ejszaka hangos, csendesebb szallast a parttol kicsit beljebb foglalj.",
+      "ro": "Unul din centrele vietii de noapte dalmate vara; faleza e zgomotoasa noaptea, rezerva cazare mai linistita la cativa zeci de metri de plaja.",
+      "en": "One of Dalmatia's summer nightlife hubs; the promenade is loud at night, book quieter lodging a short walk inland."
+    }
+  }
+}

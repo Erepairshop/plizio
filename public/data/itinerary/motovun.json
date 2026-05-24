@@ -1,0 +1,1002 @@
+{
+  "city_id": "motovun",
+  "anchor": {
+    "name": "Motovun Old Town",
+    "coords": [
+      13.8267,
+      45.3361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unteres Stadttor",
+            "hu": "Alsó városkapu",
+            "ro": "Poarta de jos a orașului",
+            "en": "Lower City Gate"
+          },
+          "coords": [
+            13.8275,
+            45.3355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Der historische Eingang zur Oberstadt.",
+            "hu": "A felsőváros történelmi bejárata.",
+            "ro": "Intrarea istorică în orașul de sus.",
+            "en": "The historic entrance to the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtloggia",
+            "hu": "Városi loggia",
+            "ro": "Loggia orașului",
+            "en": "City Loggia"
+          },
+          "coords": [
+            13.8278,
+            45.3358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Wunderschöner Aussichtspunkt über das Tal.",
+            "hu": "Gyönyörű kilátópont a völgyre.",
+            "ro": "Punct de belvedere superb asupra văii.",
+            "en": "Beautiful viewpoint over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz Andrea Antico",
+            "hu": "Andrea Antico tér",
+            "ro": "Piața Andrea Antico",
+            "en": "Andrea Antico Square"
+          },
+          "coords": [
+            13.8282,
+            45.3362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Das Herz von Motovun mit vielen Cafés.",
+            "hu": "Motovun szíve számos kávézóval.",
+            "ro": "Inima localității Motovun, cu multe cafenele.",
+            "en": "The heart of Motovun with many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Stephan",
+            "hu": "Szent István templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            13.8285,
+            45.3364
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Spätrenaissance-Kirche mit Glockenturm.",
+            "hu": "Késő reneszánsz templom harangtoronnyal.",
+            "ro": "Biserică din perioada Renașterii târzii.",
+            "en": "Late Renaissance church with a bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunalpalast",
+            "hu": "Közösségi palota",
+            "ro": "Palatul Municipal",
+            "en": "Municipal Palace"
+          },
+          "coords": [
+            13.8281,
+            45.3363
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Ein Symbol der venezianischen Herrschaft.",
+            "hu": "A velencei uralom egyik jelképe.",
+            "ro": "Un simbol al dominației venețiene.",
+            "en": "A symbol of Venetian rule."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            13.8285,
+            45.337
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 115,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein kompletter Rundgang bietet 360° Panorama.",
+            "hu": "A teljes körséta 360 fokos panorámát nyújt.",
+            "ro": "Un tur complet oferă o panoramă de 360 de grade.",
+            "en": "A complete walk offers a 360-degree panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberes Stadttor",
+            "hu": "Felső városkapu",
+            "ro": "Poarta de sus a orașului",
+            "en": "Upper City Gate"
+          },
+          "coords": [
+            13.828,
+            45.3365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Durchgang zum ältesten Teil der Festung.",
+            "hu": "Átjáró az erőd legrégebbi részéhez.",
+            "ro": "Pasaj către cea mai veche parte a cetății.",
+            "en": "Passage to the oldest part of the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Aufstieg in die bezaubernde Hügelstadt Motovun am unteren Stadttor. Schlendern Sie durch die Loggia und über den zentralen Platz zur St. Stephan Kirche. Nach einer Pause in einem der Paläste ist der Rundgang auf der Stadtmauer das absolute Highlight, mit spektakulären Ausblicken auf das Mirna-Tal und den berühmten Wald von Motovun, die Heimat der Trüffel.",
+        "hu": "Kezdje meg az emelkedést a varázslatos dombtetőre épült Motovunba az alsó városkapunál. Sétáljon át a loggián a központi térre a Szent István templomhoz. A paloták megtekintése után a városfalakon tett körséta a nap fénypontja, ahonnan látványos kilátás nyílik a Mirna-völgyre és a híres motovuni erdőre, a szarvasgombák hazájára.",
+        "ro": "Începeți urcarea în încântătorul oraș de pe deal, Motovun, de la poarta de jos. Plimbați-vă prin loggia și prin piața centrală spre biserica Sfântul Ștefan. După o pauză la palatele istorice, turul pe zidurile orașului este atracția principală, oferind vederi spectaculoase asupra văii Mirna și a pădurii Motovun, tărâmul trufelor.",
+        "en": "Start your ascent into the enchanting hilltop town of Motovun at the lower city gate. Stroll through the loggia and across the central square to St. Stephen's Church. After a break exploring the historic palaces, the walk on the city walls is the absolute highlight, offering spectacular views of the Mirna Valley and the famous Motovun Forest, home of the truffles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mondo",
+            "tip": "Probieren Sie Pasta mit frischem Trüffel."
+          },
+          {
+            "name": "Konoba Mondo",
+            "tip": "Bekannt durch Anthony Bourdain."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mondo",
+            "tip": "Kóstolja meg a tésztát friss szarvasgombával."
+          },
+          {
+            "name": "Konoba Mondo",
+            "tip": "Anthony Bourdain által híressé tett hely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mondo",
+            "tip": "Gustați paste cu trufe proaspete."
+          },
+          {
+            "name": "Konoba Mondo",
+            "tip": "Local făcut celebru de Anthony Bourdain."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mondo",
+            "tip": "Try the pasta with fresh truffles."
+          },
+          {
+            "name": "Konoba Mondo",
+            "tip": "Made famous by Anthony Bourdain."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südliche Stadtmauer",
+            "tip": "Ruhiger Blick über die Weinberge.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli városfal",
+            "tip": "Csendes kilátás a szőlőültetvényekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul de sud",
+            "tip": "Vedere liniștită peste podgorii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern City Wall",
+            "tip": "Quiet view over the vineyards.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffel-Shop",
+            "tip": "Trüffelöl und Pasten als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba bolt",
+            "tip": "Szarvasgombaolaj és krémek ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de trufe",
+            "tip": "Ulei de trufe și paste pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Shop",
+            "tip": "Truffle oil and pastes as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie unten und nutzen Sie den Shuttle-Bus.",
+          "Die Gassen sind steil und oft rutschig.",
+          "Besuchen Sie die Stadt am frühen Vormittag.",
+          "Das Kombiticket für Mauern lohnt sich."
+        ],
+        "hu": [
+          "Parkoljon lent és használja a transzferbuszt.",
+          "Az utcák meredekek és gyakran csúszósak.",
+          "Látogasson el a városba korán délelőtt.",
+          "Érdemes kombinált jegyet venni a falakra."
+        ],
+        "ro": [
+          "Parcați jos și folosiți autobuzul de transfer.",
+          "Străzile sunt abrupte și adesea alunecoase.",
+          "Vizitați orașul dimineața devreme.",
+          "Merită să luați biletul combinat pentru ziduri."
+        ],
+        "en": [
+          "Park at the bottom and use the shuttle bus.",
+          "The alleys are steep and often slippery.",
+          "Visit the town in the early morning.",
+          "The combined ticket for the walls is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parenzana-Weg",
+            "hu": "Parenzana-út",
+            "ro": "Traseul Parenzana",
+            "en": "Parenzana Trail"
+          },
+          "coords": [
+            13.822,
+            45.333
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ehemalige Bahntrasse, ideal für MTB.",
+            "hu": "Egykori vasútvonal, ideális MTB-hez.",
+            "ro": "Fosta cale ferată, ideală pentru MTB.",
+            "en": "Former railway line, ideal for MTB."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Motovun",
+            "hu": "Motovuni erdő",
+            "ro": "Pădurea Motovun",
+            "en": "Motovun Forest"
+          },
+          "coords": [
+            13.835,
+            45.345
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Schattige Wege im Tal.",
+            "hu": "Árnyékos utak a völgyben.",
+            "ro": "Poteci umbrite în vale.",
+            "en": "Shady paths in the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanal Mirna",
+            "hu": "Mirna-csatorna",
+            "ro": "Canalul Mirna",
+            "en": "Mirna Canal"
+          },
+          "coords": [
+            13.815,
+            45.338
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Flache Strecke entlang des Flusses.",
+            "hu": "Sík szakasz a folyó mentén.",
+            "ro": "Traseu plat de-a lungul râului.",
+            "en": "Flat route along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Motovun Bergfuß",
+            "hu": "Motovun hegy lába",
+            "ro": "Baza dealului Motovun",
+            "en": "Foot of Motovun Hill"
+          },
+          "coords": [
+            13.825,
+            45.333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Cafés für eine kurze Rast.",
+            "hu": "Kávézók egy rövid pihenőhöz.",
+            "ro": "Cafenele pentru un scurt popas.",
+            "en": "Cafes for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Livade",
+            "hu": "Livade",
+            "ro": "Livade",
+            "en": "Livade"
+          },
+          "coords": [
+            13.828,
+            45.35
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Das Zentrum der Trüffelsuche.",
+            "hu": "A szarvasgomba-keresés központja.",
+            "ro": "Centrul căutării de trufe.",
+            "en": "The center of truffle hunting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Für Radfahrer ist der Parenzana-Weg ein Muss. Die flache Route führt durch Tunnel und über Viadukte rund um Motovun. Erkunden Sie den schattigen Motovun-Wald und radeln Sie entlang des Flusses Mirna bis nach Livade. Der Aufstieg in die Stadt selbst ist steil, aber das Umland bietet entspanntes Radeln in der Natur.",
+        "hu": "A kerékpárosok számára a Parenzana-út kötelező. A sík útvonal alagutakon és viaduktokon vezet keresztül Motovun körül. Fedezze fel az árnyas motovuni erdőt, és tekerjen a Mirna folyó mentén egészen Livade-ig. Maga a városba vezető út meredek, de a környék nyugodt biciklizést kínál a természetben.",
+        "ro": "Pentru bicicliști, traseul Parenzana este obligatoriu. Ruta plată trece prin tuneluri și peste viaducte în jurul Motovunului. Explorați pădurea umbrită Motovun și pedalați de-a lungul râului Mirna până la Livade. Urcarea în orașul propriu-zis este abruptă, dar împrejurimile oferă ciclism relaxat în natură.",
+        "en": "For cyclists, the Parenzana Trail is a must. This flat route leads through tunnels and across viaducts around Motovun. Explore the shaded Motovun Forest and cycle along the Mirna River to Livade. While the ascent to the town itself is steep, the surrounding area offers relaxed cycling in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zigante Trüffel",
+            "tip": "In Livade, Weltklasse-Trüffelgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zigante szarvasgomba",
+            "tip": "Livade-ban, világszínvonalú fogások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zigante Trufe",
+            "tip": "În Livade, preparate cu trufe de talie mondială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zigante Truffles",
+            "tip": "In Livade, world-class truffle dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna Flussufer",
+            "tip": "Sehr ruhig und naturnah.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna folyópart",
+            "tip": "Nagyon csendes és közeli a természethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Mirna",
+            "tip": "Foarte liniștit și aproape de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Riverbank",
+            "tip": "Very quiet and close to nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Lokaler Käse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Helyi sajt és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața producătorilor",
+            "tip": "Brânză locală și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers Market",
+            "tip": "Local cheese and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike wird empfohlen.",
+          "In den Tunneln der Parenzana ist es kühl.",
+          "Nehmen Sie Insektenschutz für den Wald mit."
+        ],
+        "hu": [
+          "Hegyi kerékpár ajánlott.",
+          "A Parenzana alagutakban hűvös van.",
+          "Vigyen rovarriasztót az erdőbe."
+        ],
+        "ro": [
+          "Se recomandă o bicicletă de munte.",
+          "În tunelurile Parenzana este răcoare.",
+          "Luați repelent de insecte pentru pădure."
+        ],
+        "en": [
+          "A mountain bike is recommended.",
+          "It's cool inside the Parenzana tunnels.",
+          "Bring insect repellent for the forest."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Motovun (unten)",
+            "hu": "Motovun parkoló (lent)",
+            "ro": "Parcare Motovun (jos)",
+            "en": "Motovun Parking (bottom)"
+          },
+          "coords": [
+            13.825,
+            45.333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Zentraler Parkplatz mit Shuttle-Bus.",
+            "hu": "Központi parkoló transzferbusszal.",
+            "ro": "Parcare centrală cu autobuz de transfer.",
+            "en": "Central parking with a shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Motovun Altstadt",
+            "hu": "Motovun óváros",
+            "ro": "Centrul vechi Motovun",
+            "en": "Motovun Old Town"
+          },
+          "coords": [
+            13.8267,
+            45.3361
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Bester Start für den Rundgang.",
+            "hu": "A legjobb kezdőpont a városnézéshez.",
+            "ro": "Cel mai bun început pentru tur.",
+            "en": "Best starting point for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Motovun Wald",
+            "hu": "Motovuni erdő",
+            "ro": "Pădurea Motovun",
+            "en": "Motovun Forest"
+          },
+          "coords": [
+            13.835,
+            45.345
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Kurze Fahrt ins Tal.",
+            "hu": "Rövid autózás a völgybe.",
+            "ro": "Drum scurt în vale.",
+            "en": "Short drive into the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Grožnjan",
+            "hu": "Grožnjan",
+            "ro": "Grožnjan",
+            "en": "Grožnjan"
+          },
+          "coords": [
+            13.722,
+            45.38
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_4lang": {
+            "de": "Ein Künstlerdorf mit vielen Galerien.",
+            "hu": "Művészfalu számos galériával.",
+            "ro": "Un sat al artiștilor cu multe galerii.",
+            "en": "An artist village with many galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Boutique-Weingut",
+            "hu": "Butik borászat",
+            "ro": "Cramă boutique",
+            "en": "Boutique Winery"
+          },
+          "coords": [
+            13.75,
+            45.35
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Verkostung von Istrischer Malvazija.",
+            "hu": "Isztriai Malvazija kóstoló.",
+            "ro": "Degustare de Malvazija istriana.",
+            "en": "Tasting of Istrian Malvasia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto bietet die Freiheit, Motovun und die umliegenden Hügelstädte zu erkunden. Besuchen Sie zuerst das Herz von Motovun und fahren Sie dann ins nahegelegene Grožnjan, ein wunderschönes Dorf der Künstler. Beenden Sie den Tag bei einem Glas Wein in einem der renommierten Weingüter Istriens, während die Sonne hinter den Hügeln versinkt.",
+        "hu": "Az autó szabadságot ad Motovun és a környező dombtetőre épült városok felfedezéséhez. Látogasson el először Motovun szívébe, majd autózzon át a közeli Grožnjanba, a művészek festői falujába. Zárja a napot egy pohár borral Isztria egyik neves borászatában, miközben a nap lemegy a dombok mögött.",
+        "ro": "Mașina vă oferă libertatea de a explora Motovun și orașele din jur. Vizitați mai întâi inima Motovunului, apoi mergeți în Grožnjanul din apropiere, un sat superb al artiștilor. Încheiați ziua cu un pahar de vin la una dintre cramele renumite ale Istriei, în timp ce soarele apune după dealuri.",
+        "en": "A car gives you the freedom to explore Motovun and the surrounding hilltop towns. Visit the heart of Motovun first, then drive to nearby Grožnjan, a beautiful village of artists. End the day with a glass of wine at one of Istria's renowned wineries as the sun sets behind the rolling hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pod Napon",
+            "tip": "Traditionelle istrische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pod Napon",
+            "tip": "Hagyományos isztriai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pod Napon",
+            "tip": "Bucătărie tradițională istriana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pod Napon",
+            "tip": "Traditional Istrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Zamask",
+            "tip": "Blick auf Motovun aus der Ferne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zamaszk kilátópont",
+            "tip": "Kilátás Motovunra a távolból.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Zamask",
+            "tip": "Vedere spre Motovun de la distanță.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zamask Viewpoint",
+            "tip": "View of Motovun from a distance.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istrisches Olivenöl",
+            "tip": "Direkt bei den Erzeugern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline istrian",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Olive Oil",
+            "tip": "Buy directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nur Anwohner dürfen in die Oberstadt fahren.",
+          "Der Parkplatz unten ist kostenpflichtig.",
+          "Die Straßen zwischen den Dörfern sind kurvig."
+        ],
+        "hu": [
+          "Csak a lakók hajthatnak be a felsővárosba.",
+          "A lenti parkoló fizetős.",
+          "A falvak közötti utak kanyargósak."
+        ],
+        "ro": [
+          "Doar rezidenții pot intra în orașul de sus.",
+          "Parcarea de jos este cu plată.",
+          "Drumurile între sate sunt sinuoase."
+        ],
+        "en": [
+          "Only residents can drive into the upper town.",
+          "The parking at the bottom is paid.",
+          "The roads between the villages are winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "10:00",
+      "end_estimate": "15:30",
+      "total_km": 2.0,
+      "stop_count": 3,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Motovun",
+            "hu": "Motovuni buszmegálló",
+            "ro": "Stația de autobuz Motovun",
+            "en": "Motovun Bus Stop"
+          },
+          "coords": [
+            13.824,
+            45.332
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "An der Hauptstraße am Fuß des Hügels.",
+            "hu": "A főúton, a domb lábánál.",
+            "ro": "Pe drumul principal la baza dealului.",
+            "en": "On the main road at the foot of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Shuttle-Abfahrt",
+            "hu": "Transzferbusz indulás",
+            "ro": "Plecare transfer",
+            "en": "Shuttle Departure"
+          },
+          "coords": [
+            13.825,
+            45.333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bequemster Weg nach oben.",
+            "hu": "A legkényelmesebb út felfelé.",
+            "ro": "Cea mai confortabilă cale spre vârf.",
+            "en": "The most convenient way up."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Motovun",
+            "hu": "Motovun óváros",
+            "ro": "Centrul vechi Motovun",
+            "en": "Motovun Old Town"
+          },
+          "coords": [
+            13.8267,
+            45.3361
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Verbringen Sie hier den ganzen Mittag.",
+            "hu": "Töltse itt a délutánt.",
+            "ro": "Petreceți aici întreaga după-amiază.",
+            "en": "Spend your entire afternoon here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Motovun ist seltener per Linienbus erreichbar, meist von Pazin oder Buje aus. Nach der Ankunft am Fuße des Hügels nutzen Sie am besten den Shuttle-Bus, um die steile Auffahrt zu überbrücken. Oben angekommen, liegt die gesamte historische Stadt vor Ihnen, die man ideal zu Fuß an einem Nachmittag erkunden kann.",
+        "hu": "Motovun ritkábban érhető el menetrend szerinti busszal, főleg Pazin vagy Buje felől. A domb lábához érkezve a legjobb transzferbuszt használni a meredek szakasz leküzdéséhez. Felérve az egész történelmi város Ön előtt hever, amely gyalogosan egy délután alatt kényelmesen bejárható.",
+        "ro": "Motovun este accesibil mai rar cu autobuzul de linie, de obicei din Pazin sau Buje. După sosirea la baza dealului, cel mai bine este să folosiți autobuzul de transfer pentru a urca panta abruptă. Odată ajunși sus, întregul oraș istoric este în fața voastră, putând fi explorat ideal pe jos într-o după-amiază.",
+        "en": "Motovun is less frequently reachable by public bus, mostly from Pazin or Buje. After arriving at the foot of the hill, it's best to use the shuttle bus to bridge the steep ascent. Once at the top, the entire historic town is before you, ideal for exploring on foot in one afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pod Voltom",
+            "tip": "Terrasse mit Blick auf das Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pod Voltom",
+            "tip": "Terasz kilátással a völgyre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pod Voltom",
+            "tip": "Terasă cu vedere spre vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pod Voltom",
+            "tip": "Terrace with a view of the valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhof-Gärten",
+            "tip": "Kleine Oasen in der Altstadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belső udvari kertek",
+            "tip": "Kis oázisok az óvárosban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădini interioare",
+            "tip": "Mici oaze în centrul vechi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard Gardens",
+            "tip": "Small oases in the old town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt",
+            "tip": "Kézzel készített kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop",
+            "tip": "Handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets online oder im Bus prüfen.",
+          "Der Shuttle fährt ca. alle 20 Minuten.",
+          "Achten Sie auf den letzten Bus zurück."
+        ],
+        "hu": [
+          "Ellenőrizze a buszjegyeket online.",
+          "A transzferbusz kb. 20 percenként jár.",
+          "Figyeljen az utolsó visszajáratra."
+        ],
+        "ro": [
+          "Verificați biletele de autobuz online.",
+          "Transferul circulă la aproximativ 20 de minute.",
+          "Atenție la ultimul autobuz de întoarcere."
+        ],
+        "en": [
+          "Check bus tickets online or on board.",
+          "The shuttle runs approximately every 20 minutes.",
+          "Pay attention to the last return bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr/en-us/",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.coloursofistria.com/en/events",
+    "tourism_office": "https://www.istra.hr/en/destinations/motovun",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Motovun ist offiziell zweisprachig (Kroatisch/Italienisch). Italienisch wird vielerorts verstanden, Englisch im Tourismus problemlos, Deutsch in Trüffelrestaurants oft gesprochen.",
+      "hu": "Motovun hivatalosan kétnyelvű (horvát/olasz). Az olaszt sokan értik, az angollal mindenhol elboldogulsz, a szarvasgombás éttermekben gyakran beszélnek németül is.",
+      "ro": "Motovun este oficial bilingv (croată/italiană). Italiana este înțeleasă pe scară largă, engleza funcționează în turism, germana se aude în restaurantele cu trufe.",
+      "en": "Motovun is officially bilingual (Croatian/Italian). Italian is widely understood, English works everywhere in tourism, German is common in truffle restaurants."
+    },
+    "best_time_to_visit": {
+      "de": "September bis November für die Weißtrüffelsaison und das Filmfestival (Ende Juli). Frühling für Wanderungen entlang der Parenzana-Trasse. August sehr voll und heiß.",
+      "hu": "Szeptembertől novemberig a fehér szarvasgomba szezon és a filmfesztivál (július vége) miatt. Tavasszal kellemes a Parenzana nyomvonalán túrázni. Augusztus zsúfolt és forró.",
+      "ro": "Septembrie–noiembrie pentru sezonul de trufe albe și festivalul de film (sfârșit de iulie). Primăvara este ideală pentru trasee pe linia Parenzana. August aglomerat și fierbinte.",
+      "en": "September to November for white truffle season and the film festival (late July). Spring is great for hiking the Parenzana trail. August is crowded and very hot."
+    },
+    "neighborhood_warnings": {
+      "de": "Auto unten an den Parkplätzen P1/P2 lassen, das Dorf ist Fußgängerzone mit steilem Aufstieg. Auf den Kopfsteinpflasterstraßen rutschig bei Regen. Kein nennenswertes Kriminalitätsrisiko.",
+      "hu": "Autót a P1/P2 parkolóban lent hagyd, a falu gyalogos, meredek emelkedővel. A macskakő esőben csúszós. Bűnügyi kockázat gyakorlatilag nincs.",
+      "ro": "Lăsați mașina jos la parcările P1/P2, satul este pietonal cu urcuș abrupt. Pavajul devine alunecos pe ploaie. Risc de criminalitate practic inexistent.",
+      "en": "Leave your car at P1/P2 parking below; the village is pedestrian-only with a steep climb. Cobblestones are slippery in rain. Crime risk is negligible."
+    }
+  }
+}

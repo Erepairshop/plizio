@@ -1,0 +1,1010 @@
+{
+  "city_id": "nin",
+  "anchor": {
+    "name": "Nin",
+    "coords": [
+      15.1797,
+      44.2425
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Heilig-Kreuz-Kirche",
+          "coords": [
+            15.174,
+            44.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die kleinste Kathedrale der Welt bewundern.",
+            "hu": "Csodálja meg a világ legkisebb székesegyházát.",
+            "ro": "Admirați cea mai mică catedrală din lume.",
+            "en": "Admire the smallest cathedral in the world."
+          }
+        },
+        {
+          "name": "Römischer Tempel",
+          "coords": [
+            15.1745,
+            44.244
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die massiven korinthischen Säulenreste sehen.",
+            "hu": "Nézze meg a masszív korinthoszi oszlopmaradványokat.",
+            "ro": "Vedeți resturile masive de coloane corintice.",
+            "en": "See the massive Corinthian column remains."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Anselm",
+          "coords": [
+            15.1735,
+            44.2425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuch der Schatzkammer Gold und Silber von Nin.",
+            "hu": "Látogasson el a Nin aranya és ezüstje kincstárba.",
+            "ro": "Vizitați tezaurul Aurul și Argintul din Nin.",
+            "en": "Visit the Gold and Silver of Nin treasury."
+          }
+        },
+        {
+          "name": "Statue von Gregor von Nin",
+          "coords": [
+            15.1742,
+            44.2432
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Den goldenen Zeh reiben für viel Glück.",
+            "hu": "Dörzsölje meg az arany lábujjat a szerencséért.",
+            "ro": "Frecați degetul de aur pentru noroc.",
+            "en": "Rub the golden toe for good luck."
+          }
+        },
+        {
+          "name": "Condura Croatica Museum",
+          "coords": [
+            15.172,
+            44.243
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Originale altkroatische Schiffe besichtigen.",
+            "hu": "Tekintse meg az eredeti óhorvát hajókat.",
+            "ro": "Vizitați navele vechi croate originale.",
+            "en": "See the original old Croatian ships."
+          }
+        },
+        {
+          "name": "Salzmuseum Nin",
+          "coords": [
+            15.183,
+            44.2415
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Salzblüte als exklusives Souvenir kaufen.",
+            "hu": "Vásároljon sóvirágot exkluzív ajándékként.",
+            "ro": "Cumpărați floarea de sare ca suvenir exclusiv.",
+            "en": "Buy salt flower as an exclusive souvenir."
+          }
+        },
+        {
+          "name": "Königinnenstrand",
+          "coords": [
+            15.165,
+            44.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Heilschlamm an der Lagune ausprobieren.",
+            "hu": "Próbálja ki a gyógyiszapot a lagúnánál.",
+            "ro": "Încercați nămolul curativ la lagună.",
+            "en": "Try the healing mud at the lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nin, die älteste kroatische Königsstadt, liegt auf einer winzigen Insel in einer flachen Lagune. Der Rundgang führt durch Jahrtausende der Geschichte: von römischen Tempelruinen über die winzige Heilig-Kreuz-Kirche bis hin zu den Salinen, wo seit der Antike Salz gewonnen wird. Der Tag endet perfekt am feinsandigen Königinnenstrand mit Blick auf das Velebit-Gebirge.",
+        "hu": "Nin, a legősibb horvát királyi város, egy apró szigeten fekszik a sekély lagúnában. A séta évezredes történelmen vezet keresztül: a római templomromoktól a parányi Szent Kereszt-templomon át a sólepárlókig, ahol az ókor óta nyerik a sót. A nap tökéletes zárása a finomhomokos Királyné strandja, kilátással a Velebit-hegységre.",
+        "ro": "Nin, cel mai vechi oraș regal croat, este situat pe o insulă minusculă într-o lagună puțin adâncă. Turul trece prin milenii de istorie: de la ruinele templului roman și micuța biserică Sfânta Cruce, până la salinele unde sarea este extrasă încă din antichitate. Ziua se încheie perfect pe plaja cu nisip fin a Reginei, cu vedere spre munții Velebit.",
+        "en": "Nin, the oldest Croatian royal city, lies on a tiny island in a shallow lagoon. The walk leads through millennia of history: from Roman temple ruins and the tiny Church of the Holy Cross to the salt pans where salt has been harvested since antiquity. The day ends perfectly at the fine sandy Queen's Beach with a view of the Velebit mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostionica Burela",
+            "tip": "Probieren Sie den Ninski Šokol, eine gepökelte Fleischspezialität."
+          },
+          {
+            "name": "Konoba Branimir",
+            "tip": "Frischer Fisch aus der Nin-Lagune."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostionica Burela",
+            "tip": "Kóstolja meg a Ninski Šokol-t, a helyi hús különlegességet."
+          },
+          {
+            "name": "Konoba Branimir",
+            "tip": "Friss hal a Nini-lagúnából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostionica Burela",
+            "tip": "Încercați Ninski Šokol, o specialitate de carne afumată."
+          },
+          {
+            "name": "Konoba Branimir",
+            "tip": "Pește proaspăt din laguna Nin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostionica Burela",
+            "tip": "Try Ninski Šokol, a cured meat specialty from Nin."
+          },
+          {
+            "name": "Konoba Branimir",
+            "tip": "Fresh fish from the Nin lagoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilig-Kreuz-Garten",
+            "tip": "Stille Momente an der kleinsten Kathedrale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dünen am Königinnenstrand",
+            "tip": "Sonnenuntergang über dem Meer genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Kereszt-kert",
+            "tip": "Csendes pillanatok a legkisebb székesegyháznál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dűnék a Királyné strandján",
+            "tip": "Élvezze a naplementét a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Sfânta Cruce",
+            "tip": "Momente de liniște la cea mai mică catedrală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dunele de pe Plaja Reginei",
+            "tip": "Bucurați-vă de apusul de soare deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of the Holy Cross Garden",
+            "tip": "Quiet moments at the smallest cathedral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dunes at Queen's Beach",
+            "tip": "Enjoy the sunset over the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Solana Nin Shop",
+            "tip": "Natürliches Meersalz und Kosmetik."
+          },
+          {
+            "name": "Antiquariat Nin",
+            "tip": "Alte Karten und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solana Nin bolt",
+            "tip": "Természetes tengeri só és kozmetikumok."
+          },
+          {
+            "name": "Nini Antikvárium",
+            "tip": "Régi térképek és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Solana Nin",
+            "tip": "Sare de mare naturală și cosmetice."
+          },
+          {
+            "name": "Anticariatul Nin",
+            "tip": "Hărți vechi și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solana Nin Shop",
+            "tip": "Natural sea salt and cosmetics."
+          },
+          {
+            "name": "Nin Antiquarian",
+            "tip": "Old maps and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie eine leere Flasche für den Heilschlamm mit.",
+          "Besuchen Sie die Salinen am Vormittag für Führungen.",
+          "Der Königinnenstrand ist sehr weitläufig, ein Sonnenschirm ist ratsam.",
+          "Kostenlose Parkplätze finden Sie meist etwas außerhalb der Insel."
+        ],
+        "hu": [
+          "Hozzon egy üres palackot a gyógyiszapnak.",
+          "Látogassa meg a sólepárlókat délelőtt a vezetett túrákért.",
+          "A Királyné strandja tágas, tanácsos napernyőt vinni.",
+          "Ingyenes parkolót általában a szigeten kívül talál."
+        ],
+        "ro": [
+          "Aduceți o sticlă goală pentru nămolul curativ.",
+          "Vizitați salinele dimineața pentru tururi ghidate.",
+          "Plaja Reginei este foarte extinsă, un parasolar este recomandat.",
+          "Găsiți locuri de parcare gratuite de obicei în afara insulei."
+        ],
+        "en": [
+          "Bring an empty bottle for the healing mud.",
+          "Visit the salt pans in the morning for guided tours.",
+          "Queen's Beach is very extensive, a parasol is advisable.",
+          "Free parking is usually found slightly outside the island."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kirche des Heiligen Nikolaus",
+          "coords": [
+            15.1435,
+            44.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die markante Kirche auf dem Hügel Prahulje.",
+            "hu": "A jellegzetes templom a Prahulje-dombon.",
+            "ro": "Biserica distinctivă de pe dealul Prahulje.",
+            "en": "The distinctive church on Prahulje hill."
+          }
+        },
+        {
+          "name": "Heilig-Kreuz-Kirche",
+          "coords": [
+            15.174,
+            44.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum der Altstadt.",
+            "hu": "Rövid megálló az óváros központjában.",
+            "ro": "Scurtă oprire în centrul orașului vechi.",
+            "en": "Short stop in the center of the old town."
+          }
+        },
+        {
+          "name": "Salzmuseum Nin",
+          "coords": [
+            15.183,
+            44.2415
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einfache Fahrt entlang der Lagune.",
+            "hu": "Könnyű tekerés a lagúna mentén.",
+            "ro": "O plimbare ușoară de-a lungul lagunei.",
+            "en": "Easy ride along the lagoon."
+          }
+        },
+        {
+          "name": "Statue von Gregor von Nin",
+          "coords": [
+            15.1742,
+            44.2432
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und den Segen abholen.",
+            "hu": "Tegye le a biciklit és kérjen áldást.",
+            "ro": "Lăsați bicicleta și luați binecuvântarea.",
+            "en": "Park the bike and get the blessing."
+          }
+        },
+        {
+          "name": "Königinnenstrand",
+          "coords": [
+            15.165,
+            44.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Mit dem Rad bis zum Schlamm-Bereich fahren.",
+            "hu": "Biciklizzen el egészen az iszapos részig.",
+            "ro": "Mergeți cu bicicleta până la zona cu nămol.",
+            "en": "Cycle right up to the mud area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour um Nin führt durch die flache, faszinierende Lagunenlandschaft. Der Weg beginnt bei der ikonischen St. Nikolaus-Kirche, die einsam auf einem Hügel thront. Von dort geht es zurück in die Königsstadt Nin, vorbei an den Salinen und antiken Tempeln, bis man schließlich die Weite des Königinnenstrandes erreicht. Eine perfekte Route für Genussradler ohne große Steigungen.",
+        "hu": "A Nin körüli kerékpártúra a lapos, lenyűgöző lagúnatájat járja be. Az út az ikonikus Szent Miklós-templomnál kezdődik, amely magányosan trónol egy dombon. Innen visszafordulunk Nin királyi városába, elhaladva a sólepárlók és ókori templomok mellett, mígnem elérjük a Királyné strandjának tágasságát. Tökéletes útvonal a nagy emelkedőket kerülni vágyó bringásoknak.",
+        "ro": "Turul cu bicicleta în jurul Nin trece prin peisajul plat și fascinant al lagunei. Drumul începe la emblematica biserică Sfântul Nicolae, care tronează singură pe un deal. De acolo, vă întoarceți în orașul regal Nin, trecând pe lângă saline și temple antice, până când ajungeți în cele din urmă la întinderea Plajei Reginei. O rută perfectă pentru bicicliștii amatori, fără pante mari.",
+        "en": "The bike tour around Nin leads through the flat, fascinating lagoon landscape. The path begins at the iconic St. Nicholas Church, perched lonely on a hill. From there, it goes back into the royal city of Nin, passing the salt pans and ancient temples, until you finally reach the vastness of Queen's Beach. A perfect route for leisure cyclists without major inclines."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Sabun",
+            "tip": "Erfrischende Drinks nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Bar Sabun",
+            "tip": "Frissítő italok a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Sabun",
+            "tip": "Băuturi răcoritoare după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Bar Sabun",
+            "tip": "Refreshing drinks after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahulje Hügel",
+            "tip": "Blick über die gesamte Nin-Ebene.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahulje-domb",
+            "tip": "Kilátás az egész Nini-síkságra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Prahulje",
+            "tip": "Vedere peste întreaga câmpie Nin.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahulje Hill",
+            "tip": "View over the entire Nin plain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Nin",
+            "tip": "Lokale Radwanderkarten erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nini kerékpárkölcsönző",
+            "tip": "Helyi kerékpáros túratérképek kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete Nin",
+            "tip": "Hărți locale de ciclism disponibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nin Bike Rental",
+            "tip": "Local cycling maps available."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind meist asphaltiert oder gut befestigt.",
+          "Achten Sie auf den Wind, der in der Lagune stark sein kann.",
+          "Ein Schloss für das Fahrrad ist in der Altstadt notwendig.",
+          "Kombinieren Sie die Fahrt mit einem Picknick bei St. Nikolaus."
+        ],
+        "hu": [
+          "Az utak többnyire aszfaltozottak vagy jól tömörítettek.",
+          "Ügyeljen a szélre, amely a lagúnában erős lehet.",
+          "Az óvárosban szükség van kerékpárzárra.",
+          "Kombinálja a tekerést egy piknikkel a Szent Miklós-templomnál."
+        ],
+        "ro": [
+          "Drumurile sunt în mare parte asfaltate sau bine consolidate.",
+          "Atenție la vânt, care poate fi puternic în lagună.",
+          "Un lacăt pentru bicicletă este necesar în orașul vechi.",
+          "Combinați plimbarea cu un picnic la Sfântul Nicolae."
+        ],
+        "en": [
+          "The paths are mostly paved or well-consolidated.",
+          "Watch out for the wind, which can be strong in the lagoon.",
+          "A lock for the bike is necessary in the old town.",
+          "Combine the ride with a picnic at St. Nicholas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 20.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kirche des Heiligen Nikolaus",
+          "coords": [
+            15.1435,
+            44.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken direkt am Fuße des Hügels.",
+            "hu": "Parkoljon közvetlenül a domb lábánál.",
+            "ro": "Parcați direct la poalele dealului.",
+            "en": "Park directly at the foot of the hill."
+          }
+        },
+        {
+          "name": "Heilig-Kreuz-Kirche",
+          "coords": [
+            15.174,
+            44.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz am Eingang zur Altstadt.",
+            "hu": "Központi parkoló az óváros bejáratánál.",
+            "ro": "Parcare centrală la intrarea în orașul vechi.",
+            "en": "Central parking lot at the entrance to the old town."
+          }
+        },
+        {
+          "name": "Salzmuseum Nin",
+          "coords": [
+            15.183,
+            44.2415
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz vorhanden.",
+            "hu": "Nagy látogatói parkoló áll rendelkezésre.",
+            "ro": "Parcare mare pentru vizitatori disponibilă.",
+            "en": "Large visitor parking lot available."
+          }
+        },
+        {
+          "name": "Römischer Tempel",
+          "coords": [
+            15.1745,
+            44.244
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mitten im historischen Kern.",
+            "hu": "A történelmi mag közepén.",
+            "ro": "În mijlocul nucleului istoric.",
+            "en": "In the middle of the historical core."
+          }
+        },
+        {
+          "name": "Condura Croatica Museum",
+          "coords": [
+            15.172,
+            44.243
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nahe der unteren Brücke.",
+            "hu": "Az alsó híd közelében.",
+            "ro": "Lângă podul de jos.",
+            "en": "Near the lower bridge."
+          }
+        },
+        {
+          "name": "Königinnenstrand",
+          "coords": [
+            15.165,
+            44.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zufahrt über den Stadtteil Sabunike möglich.",
+            "hu": "Megközelíthető Sabunike városrészen keresztül.",
+            "ro": "Accesibil prin cartierul Sabunike.",
+            "en": "Accessible through the Sabunike district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht einen schnellen Wechsel zwischen den weit verstreuten Sehenswürdigkeiten der Nin-Region. Von der einsamen St. Nikolaus-Kirche geht es mitten in das historische Herz der Altstadt. Nach einer Dosis Kultur und dem Besuch der faszinierenden Salinen führt die Fahrt zum weitläufigen Königinnenstrand, wo man fernab des Stadtzentrums die Ruhe der Lagune genießen kann.",
+        "hu": "Az autó lehetővé teszi a gyors váltást a Nin-régió szétszórt látnivalói között. A magányos Szent Miklós-templomtól az óváros történelmi szívébe jutunk. Egy adag kultúra és a lenyűgöző sólepárlók meglátogatása után az út a tágas Királyné strandjára vezet, ahol a városközponttól távol élvezhetjük a lagúna nyugalmát.",
+        "ro": "Mașina permite o schimbare rapidă între atracțiile dispersate ale regiunii Nin. De la biserica solitară Sfântul Nicolae, ajungeți în inima istorică a orașului vechi. După o doză de cultură și vizitarea fascinantelor saline, călătoria duce la vasta Plajă a Reginei, unde vă puteți bucura de liniștea lagunei departe de centrul orașului.",
+        "en": "The car allows for a quick switch between the widely scattered sights of the Nin region. From the lonely St. Nicholas Church, you head into the historical heart of the old town. After a dose of culture and a visit to the fascinating salt pans, the drive leads to the extensive Queen's Beach, where you can enjoy the peace of the lagoon far from the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Madmar",
+            "tip": "Große Auswahl an dalmatinischen Fleischgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Madmar",
+            "tip": "Dalmát húsételek széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Madmar",
+            "tip": "Gamă largă de preparate din carne dalmate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Madmar",
+            "tip": "Large selection of Dalmatian meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lagunenufer",
+            "tip": "Abgelegene Plätze nördlich der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lagúnapart",
+            "tip": "Félreeső helyek a várostól északra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lagunei",
+            "tip": "Locuri retrase la nord de oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagoon Shore",
+            "tip": "Secluded spots north of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Plodine Supermarkt",
+            "tip": "Großeinkauf vor der Rückreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plodine szupermarket",
+            "tip": "Nagybevásárlás a visszautazás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Plodine",
+            "tip": "Cumpărături mari înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plodine Supermarket",
+            "tip": "Bulk shopping before the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze auf der Insel Nin sind begrenzt und eng.",
+          "Nutzen Sie den großen Parkplatz bei den Salinen.",
+          "Achten Sie auf die Einbahnstraßenregelung in der Altstadt.",
+          "Im Sommer sind die Zufahrten zum Strand oft staubig."
+        ],
+        "hu": [
+          "A parkolóhelyek a Nini-szigeten korlátozottak és szűkek.",
+          "Használja a sólepárlók melletti nagy parkolót.",
+          "Ügyeljen az óvárosi egyirányú utcákra.",
+          "Nyáron a strandhoz vezető utak gyakran porosak."
+        ],
+        "ro": [
+          "Locurile de parcare pe insula Nin sunt limitate și înguste.",
+          "Folosiți parcarea mare de lângă saline.",
+          "Atenție la reglementările privind sensul unic în orașul vechi.",
+          "Vara, drumurile de acces la plajă sunt adesea prăfuite."
+        ],
+        "en": [
+          "Parking spaces on Nin island are limited and narrow.",
+          "Use the large parking lot by the salt pans.",
+          "Watch out for one-way street regulations in the old town.",
+          "In summer, the access roads to the beach are often dusty."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Statue von Gregor von Nin",
+          "coords": [
+            15.1742,
+            44.2432
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp direkt am Stadttor.",
+            "hu": "Központi buszmegálló közvetlenül a városkapunál.",
+            "ro": "Stație de autobuz centrală chiar la poarta orașului.",
+            "en": "Central bus stop right by the city gate."
+          }
+        },
+        {
+          "name": "Heilig-Kreuz-Kirche",
+          "coords": [
+            15.174,
+            44.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Busstopp entfernt.",
+            "hu": "Csak néhány lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": "Salzmuseum Nin",
+          "coords": [
+            15.183,
+            44.2415
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einfacher Fußweg vom Zentrum.",
+            "hu": "Könnyű séta a központból.",
+            "ro": "Drum ușor pe jos din centru.",
+            "en": "Easy walk from the center."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Anselm",
+          "coords": [
+            15.1735,
+            44.2425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mitten im Ort, gut erreichbar.",
+            "hu": "A település közepén, jól elérhető.",
+            "ro": "În mijlocul localității, ușor accesibilă.",
+            "en": "In the middle of town, easily accessible."
+          }
+        },
+        {
+          "name": "Königinnenstrand",
+          "coords": [
+            15.165,
+            44.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Längerer Fußweg, aber lohnenswert.",
+            "hu": "Hosszabb séta, de megéri.",
+            "ro": "O plimbare mai lungă, dar merită.",
+            "en": "Longer walk, but worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nin ist ideal für Transit-Reisende, da die historische Altstadt kompakt und fußläufig ist. Der Bus aus Zadar hält direkt am Eingang zur Laguneninsel. Von dort aus lassen sich die wichtigsten Sehenswürdigkeiten wie die Heilig-Kreuz-Kirche und die Salinen bequem erkunden. Zum Abschluss führt ein schöner Spaziergang zum Königinnenstrand, bevor der Bus einen am Nachmittag wieder zurückbringt.",
+        "hu": "Nin ideális az átszállással utazóknak, mivel a történelmi óváros kompakt és bejárható gyalog. A Zágrábból vagy Zárából érkező busz közvetlenül a lagúnasziget bejáratánál áll meg. Innen a legfontosabb látnivalók, mint a Szent Kereszt-templom és a sólepárlók, kényelmesen felfedezhetők. Végezetül egy szép séta vezet a Királyné strandjához, mielőtt délután visszaindulnánk a busszal.",
+        "ro": "Nin este ideal pentru călătorii cu transportul public, deoarece orașul vechi istoric este compact și poate fi parcurs pe jos. Autobuzul din Zadar oprește chiar la intrarea pe insula lagunară. De acolo, atracțiile principale, cum ar fi biserica Sfânta Cruce și salinele, pot fi explorate cu ușurință. La final, o plimbare frumoasă duce la Plaja Reginei, înainte ca autobuzul să vă ducă înapoi după-amiaza.",
+        "en": "Nin is ideal for transit travelers as the historical old town is compact and walkable. The bus from Zadar stops right at the entrance to the lagoon island. From there, the most important sights like the Church of the Holy Cross and the salt pans can be easily explored. Finally, a beautiful walk leads to Queen's Beach before the bus takes you back in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fast Food Termini",
+            "tip": "Schnelle Snacks direkt am Busstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fast Food Termini",
+            "tip": "Gyors falatok közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast Food Termini",
+            "tip": "Gustări rapide direct la stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fast Food Termini",
+            "tip": "Quick snacks right by the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Nin",
+            "tip": "Bänke im Schatten alter Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nini városi park",
+            "tip": "Padok öreg fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Nin",
+            "tip": "Bănci la umbra copacilor bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nin City Park",
+            "tip": "Benches in the shade of old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Fahrkarten und Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisak újságos",
+            "tip": "Buszjegyek és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul Tisak",
+            "tip": "Bilete de transport și ziare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Tickets and newspapers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets nach Zadar kosten ca. 3-4 Euro.",
+          "Die Busse fahren im Sommer stündlich.",
+          "Nutzen Sie die App 'Arriva' für Echtzeit-Infos.",
+          "Die Haltestelle ist nicht überdacht, Schatten suchen."
+        ],
+        "hu": [
+          "A buszjegy Zárába kb. 3-4 euróba kerül.",
+          "Nyáron a buszok óránként járnak.",
+          "Használja az 'Arriva' alkalmazást a valós idejű információkért.",
+          "A megálló nem fedett, keressen árnyékot."
+        ],
+        "ro": [
+          "Biletele de autobuz spre Zadar costă aproximativ 3-4 euro.",
+          "Autobuzele circulă la fiecare oră vara.",
+          "Utilizați aplicația 'Arriva' pentru informații în timp real.",
+          "Stația nu este acoperită, căutați umbră."
+        ],
+        "en": [
+          "Bus tickets to Zadar cost about 3-4 Euros.",
+          "Buses run hourly in summer.",
+          "Use the 'Arriva' app for real-time info.",
+          "The stop is not covered, look for shade."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Nin",
+    "region": "HR-13",
+    "coords": [
+      15.1797,
+      44.2425
+    ],
+    "transit_official": "https://www.arriva.com.hr/",
+    "transit_app": "https://getbybus.com/hr",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.nin.hr/",
+    "tourism_office": "https://www.nin.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/zadarska/nin.html",
+    "restaurants_booking": "https://www.nin.hr/",
+    "museum_tickets": "https://www.ulaznice.hr/",
+    "parking_real_time": "https://www.hak.hr/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache, Deutsch und Englisch in der Altstadt verbreitet. Königin-Strand (Kraljičina plaža) gut beschildert. Auf Wiedersehen: Doviđenja.",
+      "hu": "Horvát a hivatalos nyelv, az óvárosban gyakori a német és angol. A Királyné-strand (Kraljičina plaža) jól táblázott. Viszlát: Doviđenja.",
+      "ro": "Croata este oficială, germana și engleza se aud des în centrul vechi. Plaja Reginei (Kraljičina plaža) e bine semnalizată. La revedere: Doviđenja.",
+      "en": "Croatian is official; German and English common in the old town. Queen's Beach (Kraljičina plaža) clearly signposted. Goodbye: Doviđenja."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September. Königin-Strand mit Heilschlamm besonders ab Juni warm genug. Festwoche der Šokačka noć Ende Juli.",
+      "hu": "Május és szeptember között. A Királyné-strand gyógyiszappal júniustól elég meleg. Júli végén Šokačka noć fesztivál.",
+      "ro": "Din mai până în septembrie. Plaja Reginei cu nămol terapeutic e caldă suficient din iunie. Festival Šokačka noć la sfârșitul lui iulie.",
+      "en": "May to September. Queen's Beach therapeutic mud warm enough from June. Šokačka noć festival late July."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr flaches Wasser am Königin-Strand, lange Strecke bis schwimmtief. Bora-Wind im Winter heftig. Salinen-Pfade rutschig nach Regen.",
+      "hu": "A Királyné-strand vize nagyon sekély, sokáig kell sétálni úszáshoz. A bóra szél télen erős. A sópárlókhoz vezető utak esőben csúszósak.",
+      "ro": "Apă foarte mică la Plaja Reginei, mers îndelung până la adâncime. Vântul bora e puternic iarna. Cărările spre saline alunecoase pe ploaie.",
+      "en": "Queen's Beach extremely shallow; long walk before swimming depth. Bora wind fierce in winter. Saltworks paths slippery after rain."
+    }
+  }
+}

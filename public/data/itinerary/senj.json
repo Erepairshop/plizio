@@ -1,0 +1,1094 @@
+{
+  "city_id": "senj",
+  "anchor": {
+    "name": "Senj",
+    "coords": [
+      14.905,
+      44.9908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cilnica-Platz",
+            "hu": "Cilnica tér",
+            "ro": "Piața Cilnica",
+            "en": "Cilnica Square"
+          },
+          "coords": [
+            14.9045,
+            44.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso.",
+            "hu": "Itt igyuk meg a reggeli kávénkat.",
+            "ro": "Savurați prima cafea a zilei aici.",
+            "en": "Enjoy your morning coffee here."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Tor",
+            "hu": "Nagy Kapu",
+            "ro": "Poarta Mare",
+            "en": "Great Gate"
+          },
+          "coords": [
+            14.9038,
+            44.9925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Endpunkt der historischen Josephinerstraße.",
+            "hu": "A történelmi Jozefina út végpontja.",
+            "ro": "Punctul final al drumului istoric Iosefina.",
+            "en": "The end point of the historic Josephine road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Jungfrau Maria",
+            "hu": "Szűz Mária-székesegyház",
+            "ro": "Catedrala Sfintei Fecioare Maria",
+            "en": "Cathedral of St. Mary"
+          },
+          "coords": [
+            14.9052,
+            44.9915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Fassadendetails.",
+            "hu": "Csodáljuk meg a román stílusú homlokzatot.",
+            "ro": "Admirați detaliile fațadei romanice.",
+            "en": "Admire the Romanesque facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Senj",
+            "hu": "Zenggi Városi Múzeum",
+            "ro": "Muzeul Orașului Senj",
+            "en": "Senj City Museum"
+          },
+          "coords": [
+            14.9042,
+            44.9921
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Uskoken-Piraten.",
+            "hu": "Ismerjük meg az uszkók kalózok történetét.",
+            "ro": "Aflați povestea piraților uscoc.",
+            "en": "Learn about the Uskok pirates."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nehaj",
+            "hu": "Nehaj-vár",
+            "ro": "Cetatea Nehaj",
+            "en": "Nehaj Fortress"
+          },
+          "coords": [
+            14.9015,
+            44.9865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der beste Blick über den Velebit-Kanal.",
+            "hu": "A legszebb kilátás a Velebit-csatornára.",
+            "ro": "Cea mai bună vedere asupra Canalului Velebit.",
+            "en": "The best view over the Velebit Channel."
+          }
+        },
+        {
+          "name": {
+            "de": "45. Breitengrad Denkmal",
+            "hu": "45. szélességi kör emlékmű",
+            "ro": "Monumentul Paralelei 45",
+            "en": "45th Parallel Monument"
+          },
+          "coords": [
+            14.9065,
+            45.0002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein Foto genau auf der halben Strecke zum Pol.",
+            "hu": "Fotózkodjunk félúton az Egyenlítő és a Sark között.",
+            "ro": "O fotografie exact la jumătatea distanței spre Pol.",
+            "en": "A photo exactly halfway to the Pole."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Banja",
+            "hu": "Banja strand",
+            "ro": "Plaja Banja",
+            "en": "Banja Beach"
+          },
+          "coords": [
+            14.9025,
+            44.9965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser direkt am Stadtzentrum.",
+            "hu": "Kristálytiszta víz közvetlenül a városközpontban.",
+            "ro": "Apă de cristal chiar lângă centrul orașului.",
+            "en": "Crystal clear water right by the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Kern von Senj am Cilnica-Platz, gefolgt von der Besichtigung des prachtvollen Großen Tores. Danach erkunden Sie die Kathedrale und das Stadtmuseum im Vukasović-Palast.\n\nMittags erklimmen Sie den Hügel zur imposanten Festung Nehaj, dem Symbol der Stadt. Genießen Sie die Aussicht und erfahren Sie alles über die tapferen Uskoken, die hier einst die Küste verteidigten.\n\nAm Nachmittag spazieren Sie nach Norden zum Denkmal des 45. Breitengrades. Es ist ein faszinierender Ort, der markiert, dass Sie sich genau zwischen Äquator und Nordpol befinden.\n\nDen Abend lassen Sie entspannt am Strand Banja ausklingen. Beobachten Sie, wie die Sonne hinter der Insel Krk im Meer versinkt, während die frische Meeresbrise des Velebit-Kanals kühlt.",
+        "hu": "A reggel Zengg történelmi magjában indul a Cilnica téren, majd megcsodáljuk a monumentális Nagy Kaput. Ezután a Szűz Mária-székesegyház és a Vukasović-palotában működő múzeum következik.\n\nDélben felkapaszkodunk a Nehaj-dombra a város jelképéhez, a Nehaj-várhoz. Élvezzük a panorámát és ismerjük meg a bátor uszkókok történetét, akik innen védték az Adria partjait.\n\nDélután észak felé sétálunk a 45. szélességi kör emlékművéhez. Érdekes pont, amely jelzi, hogy pontosan félúton járunk az Egyenlítő és az Északi-sark között.\n\nAz estét a Banja strandon zárjuk. Nézzük végig, ahogy a nap lebukik a Krk-sziget mögött, miközben a Velebit-csatorna frissítő szele lengedezik a város felett.",
+        "ro": "Dimineața începe în nucleul istoric al orașului Senj, în Piața Cilnica, urmată de vizitarea monumentalei Porți Mari. Apoi explorăm Catedrala și Muzeul Orașului găzduit în Palatul Vukasović.\n\nLa prânz urcăm dealul către impunătoarea Cetate Nehaj, simbolul orașului. Bucurați-vă de priveliște și aflați totul despre curajoșii uscoci care au apărat coasta de aici.\n\nDupă-amiaza ne plimbăm spre nord până la Monumentul Paralelei 45. Este un loc fascinant care marchează faptul că vă aflați exact la jumătatea distanței dintre Ecuator și Polul Nord.\n\nSeara se încheie relaxat pe plaja Banja. Urmăriți cum soarele apune în mare în spatele insulei Krk, în timp ce briza proaspătă a Canalului Velebit răcorește orașul.",
+        "en": "Morning starts in the historic core of Senj at Cilnica Square, followed by a visit to the magnificent Great Gate. Then explore the Cathedral and the City Museum in the Vukasović Palace.\n\nAt noon, climb the hill to the imposing Nehaj Fortress, the symbol of the city. Enjoy the view and learn everything about the brave Uskoks who once defended the coast from here.\n\nIn the afternoon, walk north to the 45th Parallel Monument. It is a fascinating spot marking that you are exactly halfway between the Equator and the North Pole.\n\nEnd the evening relaxed at Banja Beach. Watch the sun sink into the sea behind the island of Krk, while the fresh breeze of the Velebit Channel cools the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Val",
+            "tip": "Probieren Sie die hausgemachten Nudeln 'Surlice' mit Garnelen."
+          },
+          {
+            "name": "Senjski Uskok",
+            "tip": "Frischer Fisch direkt aus dem Velebit-Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Val",
+            "tip": "Kóstoljuk meg a házi 'šurlice' tésztát garnélával."
+          },
+          {
+            "name": "Senjski Uskok",
+            "tip": "Friss halételek közvetlenül a Velebit-csatornából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Val",
+            "tip": "Încercați pastele de casă 'šurlice' cu creveți."
+          },
+          {
+            "name": "Senjski Uskok",
+            "tip": "Pește proaspăt direct din Canalul Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Val",
+            "tip": "Try the homemade 'šurlice' pasta with shrimps."
+          },
+          {
+            "name": "Senjski Uskok",
+            "tip": "Fresh fish straight from the Velebit Channel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungshügel Nehaj",
+            "tip": "Panoramablick bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Nehaj",
+            "tip": "Ruhige Spazierwege rund um die Burg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nehaj-várdomb",
+            "tip": "Panorámás naplemente a vár mellett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nehaj park",
+            "tip": "Csendes sétautak a vár körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Cetății Nehaj",
+            "tip": "Vedere panoramică la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Nehaj",
+            "tip": "Alei liniștite în jurul cetății.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nehaj Fortress Hill",
+            "tip": "Panoramic sunset views near the fort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nehaj Park",
+            "tip": "Quiet walking paths around the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Senjer Honigmarkt",
+            "tip": "Velebit-Salbeihonig ist eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zenggi mézpiac",
+            "tip": "A velebiti zsályaméz igazi helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de miere din Senj",
+            "tip": "Mierea de salvie de Velebit este o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Senj Honey Market",
+            "tip": "Velebit sage honey is a unique local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Senj ist bekannt für den 'Bura'-Wind; prüfen Sie die Wettervorhersage.",
+          "Tragen Sie festes Schuhwerk für den Aufstieg zur Festung.",
+          "Die Parkplätze am Hafen sind oft belegt, nutzen Sie die Randbereiche."
+        ],
+        "hu": [
+          "Zengg a bóra szélről híres; ellenőrizzük az időjárást.",
+          "A várba való feljutáshoz kényelmes cipőt válasszunk.",
+          "A kikötői parkolók hamar megtelnek, keressünk helyet kicsit távolabb."
+        ],
+        "ro": [
+          "Senj este renumit pentru vântul 'Bura'; verificați prognoza.",
+          "Purtați încălțăminte comodă pentru urcarea la cetate.",
+          "Parcările din port se ocupă repede, folosiți zonele limitrofe."
+        ],
+        "en": [
+          "Senj is famous for the 'Bura' wind; check the weather forecast.",
+          "Wear sturdy shoes for the climb to the fortress.",
+          "Harbor parking fills up quickly, try the surrounding areas."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cilnica-Platz",
+            "hu": "Cilnica tér",
+            "ro": "Piața Cilnica",
+            "en": "Cilnica Square"
+          },
+          "coords": [
+            14.9045,
+            44.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct de start central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Tor",
+            "hu": "Nagy Kapu",
+            "ro": "Poarta Mare",
+            "en": "Great Gate"
+          },
+          "coords": [
+            14.9038,
+            44.9925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Stadttor.",
+            "hu": "Történelmi városkapu.",
+            "ro": "Poartă istorică a orașului.",
+            "en": "Historic city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "45. Breitengrad Denkmal",
+            "hu": "45. szélességi kör emlékmű",
+            "ro": "Monumentul Paralelei 45",
+            "en": "45th Parallel Monument"
+          },
+          "coords": [
+            14.9065,
+            45.0002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schöne Fahrt entlang der Küste.",
+            "hu": "Szép szakasz a tengerpart mentén.",
+            "ro": "Drum frumos de-a lungul coastei.",
+            "en": "Nice ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nehaj",
+            "hu": "Nehaj-vár",
+            "ro": "Cetatea Nehaj",
+            "en": "Nehaj Fortress"
+          },
+          "coords": [
+            14.9015,
+            44.9865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Anstrengender Aufstieg, aber es lohnt sich.",
+            "hu": "Fárasztó emelkedő, de megéri.",
+            "ro": "Urcare solicitantă, dar merită.",
+            "en": "Tough climb, but worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Banja",
+            "hu": "Banja strand",
+            "ro": "Plaja Banja",
+            "en": "Banja Beach"
+          },
+          "coords": [
+            14.9025,
+            44.9965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung.",
+            "hu": "Megérdemelt hűsölés.",
+            "ro": "Răcorire binemeritată.",
+            "en": "Well-deserved cooling off."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Franziskus",
+            "hu": "Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc",
+            "en": "Church of St. Francis"
+          },
+          "coords": [
+            14.906,
+            44.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger spiritueller Ort.",
+            "hu": "Csendes lelki központ.",
+            "ro": "Un loc spiritual liniștit.",
+            "en": "A quiet spiritual place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Cilnica-Platz und fahren Sie durch das Große Tor nach Norden zum 45. Breitengrad. Die Küstenstraße bietet herrliche Ausblicke.\n\nZurück im Zentrum fordern Sie Ihre Kondition beim Aufstieg zur Festung Nehaj heraus. Die Belohnung ist der weiteste Blick der Region.\n\nNach der Abfahrt ist der Strand Banja der ideale Ort für eine lange Pause im klaren Wasser.\n\nZum Abschluss besuchen Sie die Kirche des Heiligen Franziskus, bevor Sie die Räder im Hafenviertel zurückgeben.",
+        "hu": "Induljunk a Cilnica térről, majd a Nagy Kapun át tekintsünk északnak a 45. szélességi körhöz. A parti út csodás kilátást nyújt.\n\nA központba visszatérve tegyük próbára erőnlétünket a Nehaj-várhoz vezető emelkedőn. A jutalom a régió legszebb panorámája.\n\nA lejtőzés után a Banja strand tökéletes hely egy hosszú pihenőre a tiszta vízben.\n\nZárásként látogassuk meg a Szent Ferenc-templomot, mielőtt visszaadnánk a bringákat a kikötőben.",
+        "ro": "Porniți din Piața Cilnica și treceți prin Poarta Mare spre nord, până la Paralela 45. Drumul de coastă oferă vederi superbe.\n\nReveniți în centru și testați-vă condiția fizică la urcarea spre Cetatea Nehaj. Răsplata este cea mai vastă panoramă din regiune.\n\nDupă coborâre, plaja Banja este locul ideal pentru o pauză lungă în apa limpede.\n\nLa final, vizitați Biserica Sfântul Francisc înainte de a returna bicicletele în zona portului.",
+        "en": "Start at Cilnica Square and ride through the Great Gate north to the 45th Parallel. The coastal road offers magnificent views.\n\nBack in the center, challenge your fitness with the climb to Nehaj Fortress. The reward is the widest view in the region.\n\nAfter the descent, Banja Beach is the ideal place for a long break in the clear water.\n\nFinally, visit the Church of St. Francis before returning the bikes in the harbor area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Ivka",
+            "tip": "Hausgemachter Schinken und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Ivka",
+            "tip": "Házi sonka és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Ivka",
+            "tip": "Șuncă și brânză de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Ivka",
+            "tip": "Homemade ham and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Velebit-Hänge",
+            "tip": "Ruhige Wege oberhalb der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velebit lejtők",
+            "tip": "Csendes utak a város felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantele Velebitului",
+            "tip": "Poteci liniștite deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Velebit slopes",
+            "tip": "Quiet paths above the town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Nehaj",
+            "tip": "Kleine Festungs-Repliken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nehaj ajándékbolt",
+            "tip": "Kis vár-makettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri Nehaj",
+            "tip": "Replici mici ale cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nehaj Souvenir Shop",
+            "tip": "Small fortress replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den starken Wind, besonders auf offenen Küstenabschnitten.",
+          "Ein Mountainbike ist wegen der steilen Burgauffahrt empfehlenswert.",
+          "Nehmen Sie ausreichend Wasser für den Aufstieg mit."
+        ],
+        "hu": [
+          "Vigyázzunk az erős széllel, főleg a nyitott parti szakaszokon.",
+          "A meredek várhoz vezető út miatt a hegyi kerékpár ajánlott.",
+          "Vigyünk magunkkal elég vizet az emelkedőhöz."
+        ],
+        "ro": [
+          "Atenție la vântul puternic, mai ales pe secțiunile deschise de coastă.",
+          "O bicicletă montană este recomandată pentru urcarea abruptă la cetate.",
+          "Luați suficientă apă pentru urcare."
+        ],
+        "en": [
+          "Watch out for strong winds, especially on open coastal sections.",
+          "A mountain bike is recommended due to the steep castle climb.",
+          "Take plenty of water for the ascent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Nehaj",
+            "hu": "Nehaj-vár",
+            "ro": "Cetatea Nehaj",
+            "en": "Nehaj Fortress"
+          },
+          "coords": [
+            14.9015,
+            44.9865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken direkt am Eingang möglich.",
+            "hu": "Parkolás közvetlenül a bejáratnál.",
+            "ro": "Parcare disponibilă chiar la intrare.",
+            "en": "Parking available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cilnica-Platz",
+            "hu": "Cilnica tér",
+            "ro": "Piața Cilnica",
+            "en": "Cilnica Square"
+          },
+          "coords": [
+            14.9045,
+            44.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Hafen.",
+            "hu": "Használjuk a nagy kikötői parkolót.",
+            "ro": "Folosiți parcarea mare din port.",
+            "en": "Use the large harbor parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "45. Breitengrad Denkmal",
+            "hu": "45. szélességi kör emlékmű",
+            "ro": "Monumentul Paralelei 45",
+            "en": "45th Parallel Monument"
+          },
+          "coords": [
+            14.9065,
+            45.0002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp direkt an der Hauptstraße.",
+            "hu": "Gyors megálló a főút mentén.",
+            "ro": "Oprire scurtă chiar pe drumul principal.",
+            "en": "Quick stop right on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Krasno (Velebit-Nationalpark)",
+            "hu": "Krasno (Velebit Nemzeti Park)",
+            "ro": "Krasno (Parcul Național Velebit)",
+            "en": "Krasno (Velebit National Park)"
+          },
+          "coords": [
+            15.05,
+            44.83
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Heiligtum Unserer Lieben Frau von Krasno.",
+            "hu": "Látogassuk meg a krasnói Mária-kegyhelyet.",
+            "ro": "Vizitați sanctuarul Maicii Domnului din Krasno.",
+            "en": "Visit the Sanctuary of Our Lady of Krasno."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Senj",
+            "hu": "Zenggi kikötő",
+            "ro": "Portul Senj",
+            "en": "Senj Harbor"
+          },
+          "coords": [
+            14.903,
+            44.991
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Spaziergang an der Riva zum Abschluss.",
+            "hu": "Séta a parton a nap végén.",
+            "ro": "O plimbare pe faleză la finalul zilei.",
+            "en": "A walk on the Riva to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der Festung Nehaj, bevor die Busse kommen. Danach fahren Sie ins Zentrum zum Cilnica-Platz.\n\nEin kurzer Stopp am 45. Breitengrad führt Sie weiter ins Velebit-Gebirge nach Krasno. Die Fahrt durch die Serpentinen bietet spektakuläre Ausblicke auf die Kvarner-Inseln.\n\nIn Krasno genießen Sie die kühle Bergluft und besuchen das berühmte Bergheiligtum.\n\nZum Abend kehren Sie nach Senj zurück und genießen das geschäftige Treiben im Hafen, während die Sonne untergeht.",
+        "hu": "Kezdjük a Nehaj-várral, mielőtt megérkeznek a buszos csoportok. Ezután hajtsunk a központba a Cilnica térhez.\n\nEgy rövid megálló a 45. szélességi körnél, majd irány a Velebit-hegység és Krasno. A szerpentineken felfelé haladva látványos kilátás nyílik a Kvarner-szigetekre.\n\nKrasnóban élvezzük a hűvös hegyi levegőt és látogassuk meg a híres kegyhelyet.\n\nEstére térjünk vissza Zenggbe, és élvezzük a kikötői nyüzsgést a naplementében.",
+        "ro": "Începeți cu Cetatea Nehaj înainte de sosirea autocarelor. Apoi mergeți în centru, în Piața Cilnica.\n\nO oprire scurtă la Paralela 45 vă conduce mai departe în munții Velebit, spre Krasno. Drumul prin serpentine oferă vederi spectaculoase asupra insulelor Kvarner.\n\nÎn Krasno bucurați-vă de aerul răcoros de munte și vizitați faimosul sanctuar montan.\n\nSeara reveniți în Senj și bucurați-vă de agitația din port în timp ce soarele apune.",
+        "en": "Start with Nehaj Fortress before the tour buses arrive. Then drive to the center to Cilnica Square.\n\nA short stop at the 45th Parallel leads you further into the Velebit Mountains to Krasno. The drive through the serpentines offers spectacular views of the Kvarner islands.\n\nIn Krasno, enjoy the cool mountain air and visit the famous mountain sanctuary.\n\nIn the evening, return to Senj and enjoy the bustling harbor as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Probieren Sie die Senjer Fischplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Kóstoljuk meg a zenggi haltálat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Încercați platoul de pește Senj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Try the Senj fish platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt oberhalb Senj",
+            "tip": "Perfekt für Panoramafotos.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont Zengg felett",
+            "tip": "Tökéletes panorámaképekhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de observație deasupra Senj",
+            "tip": "Perfect pentru fotografii panoramice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint above Senj",
+            "tip": "Perfect for panoramic photos.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krasno Käse-Kooperative",
+            "tip": "Hervorragender Bergkäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krasnói sajt szövetkezet",
+            "tip": "Kiváló hegyi sajtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa de brânzeturi Krasno",
+            "tip": "Brânză de munte excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krasno Cheese Cooperative",
+            "tip": "Excellent mountain cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Krasno ist eng und kurvig, fahren Sie vorsichtig.",
+          "Parken Sie am Hafen, die Altstadt ist weitgehend fußläufig.",
+          "Tanken Sie in Senj, im Gebirge gibt es weniger Tankstellen."
+        ],
+        "hu": [
+          "A Krasnóba vezető út szűk és kanyargós, vezessünk óvatosan.",
+          "Parkoljunk a kikötőben, az óváros gyalogosan bejárható.",
+          "Tankoljunk Zenggben, a hegységben kevés a kút."
+        ],
+        "ro": [
+          "Drumul spre Krasno este îngust și virajat, conduceți cu atenție.",
+          "Parcați în port, centrul vechi este în mare parte pietonal.",
+          "Alimentați în Senj, în munți sunt puține benzinării."
+        ],
+        "en": [
+          "The road to Krasno is narrow and curvy, drive carefully.",
+          "Park at the harbor, the old town is mostly walkable.",
+          "Refuel in Senj, there are fewer gas stations in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Senj Hafen",
+            "hu": "Zengg kikötő buszmegálló",
+            "ro": "Stație de autobuz Port Senj",
+            "en": "Senj Harbor Bus Stop"
+          },
+          "coords": [
+            14.9035,
+            44.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Linien.",
+            "hu": "Minden járat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile.",
+            "en": "Central hub for all lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Jungfrau Maria",
+            "hu": "Szűz Mária-székesegyház",
+            "ro": "Catedrala Sfintei Fecioare Maria",
+            "en": "Cathedral of St. Mary"
+          },
+          "coords": [
+            14.9052,
+            44.9915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle gelegen.",
+            "hu": "A megálló közelében található.",
+            "ro": "Situată aproape de stație.",
+            "en": "Located near the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nehaj",
+            "hu": "Nehaj-vár",
+            "ro": "Cetatea Nehaj",
+            "en": "Nehaj Fortress"
+          },
+          "coords": [
+            14.9015,
+            44.9865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Hafen aus bergauf laufen.",
+            "hu": "A kikötőtől gyalog kell felmenni.",
+            "ro": "Urcați pe jos din port.",
+            "en": "Walk uphill from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Banja",
+            "hu": "Banja strand",
+            "ro": "Plaja Banja",
+            "en": "Banja Beach"
+          },
+          "coords": [
+            14.9025,
+            44.9965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus gut erreichbar.",
+            "hu": "Könnyen elérhető a központból.",
+            "ro": "Ușor accesibil din centru.",
+            "en": "Easily accessible from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cilnica-Platz",
+            "hu": "Cilnica tér",
+            "ro": "Piața Cilnica",
+            "en": "Cilnica Square"
+          },
+          "coords": [
+            14.9045,
+            44.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Final stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Hafen, wo die meisten Überlandbusse halten. Besuchen Sie zuerst die nahegelegene Kathedrale.\n\nDanach steht der Aufstieg zur Festung Nehaj an. Es gibt keinen direkten Bus zur Burg, aber der Weg bietet schöne Fotomotive.\n\nVerbringen Sie die Mittagszeit am Strand Banja, der nur einen kurzen Spaziergang vom Hafen entfernt liegt.\n\nZum Abschluss genießen Sie das Flair auf dem Cilnica-Platz, bevor Sie Ihren Bus für die Weiterreise besteigen.",
+        "hu": "Kezdjünk a kikötőben, ahol a legtöbb távolsági busz megáll. Elsőként a közeli székesegyházat keressük fel.\n\nEzután következik a séta a Nehaj-várhoz. Közvetlen járat nincs a várhoz, de az út szép fotótémákat kínál.\n\nA déli órákat töltsük a Banja strandon, amely csak egy rövid séta a kikötőtől.\n\nZárásként élvezzük a Cilnica tér hangulatát, mielőtt felszállnánk a továbbutazó buszra.",
+        "ro": "Începeți în port, unde opresc majoritatea autobuzelor interurbane. Vizitați mai întâi catedrala din apropiere.\n\nApoi urmează urcarea la Cetatea Nehaj. Nu există autobuz direct către cetate, dar drumul oferă cadre foto frumoase.\n\nPetreceți orele prânzului pe plaja Banja, aflată la scurtă distanță de mers pe jos de port.\n\nLa final, bucurați-vă de atmosfera din Piața Cilnica înainte de a urca în autobuzul pentru plecare.",
+        "en": "Start at the harbor, where most intercity buses stop. First, visit the nearby Cathedral.\n\nThen comes the walk up to Nehaj Fortress. There is no direct bus to the castle, but the route offers nice photo opportunities.\n\nSpend the midday at Banja Beach, which is just a short walk from the harbor.\n\nFinally, enjoy the flair at Cilnica Square before boarding your bus for the onward journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Tropicana",
+            "tip": "Schnelle und gute Pizza am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Tropicana",
+            "tip": "Gyors és jó pizza a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Tropicana",
+            "tip": "Pizza bună și rapidă în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Tropicana",
+            "tip": "Fast and good pizza at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Ruhiger Platz am Ende der Mole.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőgát",
+            "tip": "Csendes pont a gát végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Loc liniștit la capătul digului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Quiet spot at the end of the pier.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Postkarten und lokale Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői újságos",
+            "tip": "Képeslapok és helyi útikalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din port",
+            "tip": "Vederi și ghiduri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Postcards and local guidebooks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Busbahnhof liegt direkt am Hafen.",
+          "Fahrpläne hängen am zentralen Kiosk aus.",
+          "Senj ist ein wichtiger Knotenpunkt für Busse nach Zadar und Rijeka."
+        ],
+        "hu": [
+          "A buszállomás közvetlenül a kikötőben van.",
+          "A menetrendek a központi kioszknál vannak kifüggesztve.",
+          "Zengg fontos csomópont a Zárai és Fiumei járatok számára."
+        ],
+        "ro": [
+          "Autogara se află chiar în port.",
+          "Orarele sunt afișate la chioșcul central.",
+          "Senj este un nod important pentru autobuzele spre Zadar și Rijeka."
+        ],
+        "en": [
+          "The bus station is located directly at the harbor.",
+          "Schedules are posted at the central kiosk.",
+          "Senj is an important hub for buses to Zadar and Rijeka."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Senj",
+    "region": "HR-09",
+    "coords": [
+      14.905,
+      44.9908
+    ],
+    "transit_official": "https://www.arriva.com.hr/",
+    "transit_app": "https://getbybus.com/hr",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visitsenj.com/",
+    "tourism_office": "https://visitsenj.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/licko-senjska/senj.html",
+    "restaurants_booking": "https://visitsenj.com/",
+    "museum_tickets": "https://muzej-senj.hr/",
+    "nature_park": "https://www.pp-velebit.hr/",
+    "parking_real_time": "https://www.hak.hr/",
+    "language_tips": {
+      "de": "Kroatisch ist Hauptsprache, Deutsch und Englisch im Stadtzentrum und im Uskoken-Museum (Nehaj-Festung) verfügbar. Bitte: Molim.",
+      "hu": "A horvát az elsődleges, németet és angolt a központban és az uszkók múzeumban (Nehaj-erőd) értenek. Kérem: Molim.",
+      "ro": "Croata e principala limbă, germana și engleza se folosesc în centru și la muzeul uskocilor (fortul Nehaj). Vă rog: Molim.",
+      "en": "Croatian is primary; German and English available downtown and at the Uskok Museum (Nehaj Fortress). Please: Molim."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober. Wegen Bora-Wind nicht für Strandurlaub typisch, aber ideal für Velebit-Wanderungen Mai-Juni und September-Oktober.",
+      "hu": "Május és október között. A bóra miatt nem klasszikus strandhely, de Velebit-túrákhoz május-június és szeptember-október ideális.",
+      "ro": "Din mai până în octombrie. Din cauza vântului bora nu e stațiune clasică, dar e ideală pentru drumeții în Velebit mai-iunie și septembrie-octombrie.",
+      "en": "May to October. Bora wind makes it less of a beach resort, but ideal for Velebit hiking May-June and September-October."
+    },
+    "neighborhood_warnings": {
+      "de": "Stärkster Bora-Wind Kroatiens, Sturmwarnungen beachten, Wohnwagen und Motorräder gefährdet. Steile Auffahrt zur Nehaj-Festung. Wenig Sandstrand.",
+      "hu": "Horvátország legerősebb bórája, vihar-figyelmeztetésre figyelj, lakókocsi és motor veszélyes. A Nehaj-erődhöz meredek emelkedő. Kevés homokos strand.",
+      "ro": "Cel mai puternic vânt bora din Croația, atenție la avertizări, rulotele și motocicletele sunt vulnerabile. Urcuș abrupt la fortul Nehaj. Puține plaje cu nisip.",
+      "en": "Croatia's fiercest bora wind; heed storm warnings, caravans and motorbikes at risk. Steep climb to Nehaj Fortress. Very little sand beach."
+    }
+  }
+}

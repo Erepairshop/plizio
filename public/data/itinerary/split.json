@@ -1,0 +1,945 @@
+{
+  "city_id": "split",
+  "anchor": {
+    "name": "Split City Center",
+    "coords": [
+      16.4402,
+      43.5081
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Peristyl",
+            "hu": "Perisztil",
+            "ro": "Peristil",
+            "en": "Peristyle"
+          },
+          "coords": [
+            16.4405,
+            43.5081
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blicken Sie nach oben zu den ägyptischen Sphinxen aus schwarzem Granit.",
+            "hu": "Nézzen fel a fekete gránitból készült egyiptomi szfinxekre.",
+            "ro": "Priviți sfinxul egiptean din granit negru adus de Dioclețian.",
+            "en": "Look up at the black granite Egyptian sphinxes brought by Diocletian."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligen Domnius",
+            "hu": "Szent Dujmo-székesegyház",
+            "ro": "Catedrala Sfântul Domnius",
+            "en": "Cathedral of Saint Domnius"
+          },
+          "coords": [
+            16.4408,
+            43.5081
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für den besten Blick auf die Adria.",
+            "hu": "Másszon fel a harangtoronyba az Adriára nyíló legjobb kilátásért.",
+            "ro": "Urcați în clopotniță pentru cea mai bună vedere asupra Adriaticii.",
+            "en": "Climb the bell tower for the best view over the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Diokletianpalast (Zentraler Teil)",
+            "hu": "Diokleciánusz-palota (központi rész)",
+            "ro": "Palatul lui Dioclețian (zona centrală)",
+            "en": "Diocletian's Palace (Central Area)"
+          },
+          "coords": [
+            16.4404,
+            43.5082
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kellerhallen, in denen Game of Thrones gedreht wurde.",
+            "hu": "Látogassa meg az alagsori csarnokokat, ahol a Trónok harcát forgatták.",
+            "ro": "Vizitați pivnițele unde s-au filmat scene din Game of Thrones.",
+            "en": "Visit the basement halls where Game of Thrones was filmed."
+          }
+        },
+        {
+          "name": {
+            "de": "Jupitertempel",
+            "hu": "Jupiter-templom",
+            "ro": "Templul lui Jupiter",
+            "en": "Temple of Jupiter"
+          },
+          "coords": [
+            16.4398,
+            43.5082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Taufbecken mit dem kroatischen Flechtwerk.",
+            "hu": "Figyelje meg a horvát fonatos díszítésű keresztelőmedencét.",
+            "ro": "Observați baptisteriul cu motive tradiționale croate.",
+            "en": "Notice the baptismal font with Croatian wattle patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldenes Tor",
+            "hu": "Aranykapu",
+            "ro": "Poarta de Aur",
+            "en": "Golden Gate"
+          },
+          "coords": [
+            16.4403,
+            43.5093
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dies war der Haupteingang, den nur der Kaiser benutzen durfte.",
+            "hu": "Ez volt a főbejárat, amelyet csak a császár használhatott.",
+            "ro": "Aceasta era intrarea principală, rezervată doar împăratului.",
+            "en": "This was the main entrance used only by the Emperor."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des Gregor von Nin",
+            "hu": "Nini Gergely püspök szobra",
+            "ro": "Statuia lui Grigore din Nin",
+            "en": "Statue of Gregory of Nin"
+          },
+          "coords": [
+            16.4403,
+            43.5097
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reiben Sie den großen Zeh der Statue für viel Glück.",
+            "hu": "Dörzsölje meg a szobor nagylábujját a szerencse érdekében.",
+            "ro": "Atingeți degetul mare al statuii pentru noroc.",
+            "en": "Rub the statue's big toe for good luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva Promenade",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            16.4385,
+            43.5072
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee und beobachten Sie das Treiben im Hafen.",
+            "hu": "Élvezzen egy kávét és figyelje a kikötői nyüzsgést.",
+            "ro": "Savurați o cafea și urmăriți agitația din port.",
+            "en": "Enjoy a coffee and watch the hustle and bustle of the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Vormittag beginnt im Herzen der Geschichte, auf dem Peristyl-Platz des Diokletianpalasts. Hier spüren Sie die Macht des römischen Erbes, umgeben von Original-Säulen und der prächtigen Kathedrale des Heiligen Domnius, die aus dem Mausoleum des Kaisers entstand.\n\nGegen Mittag erkunden Sie die engen Gassen innerhalb der Palastmauern und besuchen den mystischen Jupitertempel. Ein kurzer Spaziergang führt Sie zum Goldenen Tor, wo Sie die gewaltige Statue des Gregor von Nin treffen, ein Werk von Ivan Meštrović.\n\nAm frühen Nachmittag verlassen Sie die alten Mauern und treten hinaus auf die sonnenverwöhnte Riva-Promenade. Dies ist das Wohnzimmer der Stadt, wo das mediterrane Lebensgefühl zwischen Palmen und Cafés am deutlichsten zu spüren ist.\n\nZum Abschluss des Tages finden Sie Ruhe in den südlichen Gassen von Varoš oder genießen den Sonnenuntergang direkt an der Hafenmole, während die Schiffe Richtung Hvar und Brač ablegen.",
+        "hu": "A délelőtt a történelem szívében indul, a Diokleciánusz-palota Perisztil terén. Itt érezheti a római örökség erejét az eredeti oszlopok és a Szent Dujmo-székesegyház gyűrűjében, amely a császár egykori mauzóleumából alakult ki.\n\nDél körül a palota falai közötti szűk sikátorokat fedezheti fel, útba ejtve a misztikus Jupiter-templomot. Rövid séta után az Aranykapuhoz ér, ahol megpillanthatja Nini Gergely monumentális bronzszobrát, Ivan Meštrović alkotását.\n\nA kora délutáni órákban kilép az ősi falak közül a napsütötte Riva sétányra. Ez a város nappalija, ahol a pálmák és kávézók között a mediterrán életérzés legjavát élvezheti a tengerparti szellő mellett.\n\nA napot a Varoš negyed hangulatos utcáin zárhatja, vagy nézze végig a naplementét a kikötői mólónál, miközben a kompok útnak indulnak Hvar és Brač szigetei felé.",
+        "ro": "Dimineața începe în inima istoriei, în piața Peristil a Palatului lui Dioclețian. Aici veți simți puterea moștenirii romane, înconjurați de coloane originale și de impunătoarea Catedrală Sfântul Domnius, transformată din mausoleul împăratului.\n\nÎn jurul prânzului, explorați aleile înguste din interiorul zidurilor palatului și vizitați misticul Templu al lui Jupiter. O scurtă plimbare vă duce la Poarta de Aur, unde veți întâlni statuia gigantică a lui Grigore din Nin, o capodoperă a lui Ivan Meštrović.\n\nLa începutul după-amiezii, părăsiți zidurile antice și ieșiți pe promenada însorită Riva. Acesta este 'sufrageria' orașului, unde stilul de viață mediteranean se simte cel mai bine printre palmieri și cafenele.\n\nPentru a încheia ziua, găsiți liniștea pe străduțele din cartierul Varoș sau admirați apusul direct de pe digul portului, în timp ce feriboturile pleacă spre insulele Hvar și Brač.",
+        "en": "Your morning begins in the heart of history at the Peristyle square of Diocletian's Palace. Here you can feel the power of Roman heritage, surrounded by original columns and the magnificent Cathedral of Saint Domnius, which originated from the Emperor's mausoleum.\n\nAround midday, explore the narrow alleys within the palace walls and visit the mystical Temple of Jupiter. A short walk leads you to the Golden Gate, where you meet the massive statue of Gregory of Nin, a work by Ivan Meštrović.\n\nIn the early afternoon, step outside the ancient walls onto the sun-drenched Riva promenade. This is the city's living room, where the Mediterranean vibe is most palpable among palms and cafes by the water.\n\nTo wrap up the day, find peace in the southern alleys of the Varoš district or enjoy the sunset right at the harbor pier while the ferries depart for the islands of Hvar and Brač."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Varos",
+            "tip": "Probieren Sie Pašticada, einen traditionellen dalmatinischen Rinderbraten."
+          },
+          {
+            "name": "Buffet Fife",
+            "tip": "Authentisches Essen zu guten Preisen, perfekt für schwarzen Risotto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Varos",
+            "tip": "Kóstolja meg a Pašticada-t, a hagyományos dalmát marhasültet."
+          },
+          {
+            "name": "Buffet Fife",
+            "tip": "Autentikus ételek jó áron, tökéletes választás a fekete rizottóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Varos",
+            "tip": "Încercați Pašticada, o friptură tradițională de vită dalmată."
+          },
+          {
+            "name": "Buffet Fife",
+            "tip": "Mâncare autentică la prețuri bune, locul ideal pentru risotto negru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Varos",
+            "tip": "Try Pašticada, a traditional Dalmatian slow-cooked beef roast."
+          },
+          {
+            "name": "Buffet Fife",
+            "tip": "Authentic food at fair prices, perfect for trying black risotto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sustipan Park",
+            "tip": "Ein alter Friedhof auf einer Klippe mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sustipan park",
+            "tip": "Egy sziklafalon fekvő régi temető panorámás kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sustipan",
+            "tip": "Un fost cimitir situat pe o stâncă, oferind o panoramă superbă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sustipan Park",
+            "tip": "An old cemetery on a cliff with panoramic sea views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pazar (Grüner Markt)",
+            "tip": "Kaufen Sie lokales Olivenöl und getrocknete Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pazar (Zöld piac)",
+            "tip": "Vásároljon helyi olívaolajat és szárított fügét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pazar (Piața Verde)",
+            "tip": "Cumpărați ulei de măsline local și smochine uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pazar (Green Market)",
+            "tip": "Buy local olive oil and dried figs near the Silver Gate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die unebenen römischen Steinpflaster.",
+          "Die Palastkeller sind im Sommer angenehm kühl.",
+          "Trinkwasser gibt es kostenlos an den öffentlichen Brunnen.",
+          "Meiden Sie die Riva zur Mittagszeit, wenn es zu heiß ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az egyenetlen római kőburkolatok miatt.",
+          "A palota pincéi nyáron kellemesen hűvösek.",
+          "Az ivóvíz ingyenes a köztéri kutaknál.",
+          "Kerülje a Rivát délidőben, ha túl erős a hőség."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul roman neregulat.",
+          "Subsolurile palatului sunt plăcut răcoroase în timpul verii.",
+          "Apa potabilă este gratuită la fântânile publice.",
+          "Evitați faleza Riva la prânz dacă este prea cald."
+        ],
+        "en": [
+          "Wear comfortable shoes for the uneven Roman stone pavements.",
+          "The palace basements are pleasantly cool during summer.",
+          "Drinking water is free at the public fountains.",
+          "Avoid the Riva at noon when it's too hot; seek shade in the alleys."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 7.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Riva Promenade",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            16.4385,
+            43.5072
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie früh, bevor die Fußgängermengen eintreffen.",
+            "hu": "Kezdjen korán, mielőtt megérkezik a gyalogos tömeg.",
+            "ro": "Începeți devreme, înainte de apariția mulțimilor de pietoni.",
+            "en": "Start early before the pedestrian crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Meštrović-Galerie",
+            "hu": "Meštrović Galéria",
+            "ro": "Galeria Meštrović",
+            "en": "Meštrović Gallery"
+          },
+          "coords": [
+            16.4172,
+            43.5042
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit der nahegelegenen Crikvine-Kastilac.",
+            "hu": "Kombinálja a látogatást a közeli Crikvine-Kastilac megtekintésével.",
+            "ro": "Combinați vizita cu Crikvine-Kastilac din apropiere.",
+            "en": "Combine the visit with the nearby Crikvine-Kastilac."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Marjan Aussichtspunkt",
+            "hu": "Marjan-hegyi kilátó",
+            "ro": "Punct de belvedere Dealul Marjan",
+            "en": "Marjan Hill Viewpoint"
+          },
+          "coords": [
+            16.4295,
+            43.5085
+          ],
+          "category": "natural features",
+          "arrive_at": "11:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber der Weg durch den Pinienwald lohnt sich.",
+            "hu": "A felfelé vezető út meredek, de a fenyőerdőn át vezető út megéri.",
+            "ro": "Urcușul este abrupt, dar drumul prin pădurea de pini merită.",
+            "en": "The climb is steep, but the path through the pine forest is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kašjuni Strand",
+            "hu": "Kašjuni strand",
+            "ro": "Plaja Kašjuni",
+            "en": "Kašjuni Beach"
+          },
+          "coords": [
+            16.3935,
+            43.5045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:19",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Abkühlung am Ende Ihrer Radtour.",
+            "hu": "Tökéletes hűsölésre a kerékpártúra végén.",
+            "ro": "Locul perfect pentru răcorire la finalul turului cu bicicleta.",
+            "en": "Perfect for cooling off at the end of your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Split auf zwei Rädern. Sie beginnen an der Riva und radeln entlang der Südküste zum Marjan-Hügel. Der Weg bietet spektakuläre Ausblicke auf die Inseln Brač und Šolta, während Sie an der berühmten Meštrović-Galerie vorbeifahren.",
+        "hu": "Fedezze fel Split partvonalát két keréken. A Rivától indulva a déli part mentén kerekezhet a Marjan-hegy felé. Az út során lenyűgöző kilátás nyílik Brač és Šolta szigeteire, miközben elhalad a híres Meštrović Galéria mellett.",
+        "ro": "Explorați coasta orașului Split pe două roți. Începeți de pe Riva și pedalați de-a lungul coastei de sud spre dealul Marjan. Drumul oferă vederi spectaculoase spre insulele Brač și Šolta în timp ce treceți pe lângă Galeria Meštrović.",
+        "en": "Explore Split's coastline on two wheels. You start at the Riva and cycle along the southern coast towards Marjan Hill. The path offers spectacular views of the islands Brač and Šolta as you pass by the famous Meštrović Gallery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Joe's Beach Bar",
+            "tip": "Leichte Snacks und Cocktails direkt am Kašjuni Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Joe's Beach Bar",
+            "tip": "Könnyű harapnivalók és koktélok közvetlenül a Kašjuni strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Joe's Beach Bar",
+            "tip": "Gustări ușoare și cocktailuri direct pe plaja Kašjuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Joe's Beach Bar",
+            "tip": "Light snacks and cocktails right on Kašjuni beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle St. Jere",
+            "tip": "In die Felsen des Marjan-Hügels gebaut.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Jeromos kápolna",
+            "tip": "A Marjan-hegy szikláiba építve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Ieronim",
+            "tip": "Construită direct în stâncile dealului Marjan.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Jerome Chapel",
+            "tip": "Built into the rocks of Marjan Hill.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Extreme Shop",
+            "tip": "Holen Sie sich hier Ihre Radausrüstung oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Extreme Shop",
+            "tip": "Itt beszerezheti a kerékpáros felszereléseket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Extreme Shop",
+            "tip": "Echipamente și accesorii pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Extreme Shop",
+            "tip": "Get your cycling gear or accessories here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steileren Wege auf dem Marjan.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Fahren Sie innerhalb des Marjan-Waldparks auf den markierten Wegen.",
+          "Schließen Sie Ihr Rad am Strand immer sicher ab."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a meredekebb Marjan utakhoz.",
+          "Vigyen magával elegendő vizet, kevés az árnyék.",
+          "A Marjan parkerdőben a kijelölt utakon közlekedjen.",
+          "A strandon mindig zárja le biztonságosan a kerékpárt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru pantele de pe Marjan.",
+          "Luați suficientă apă, există puțină umbră pe traseu.",
+          "Circulați pe potecile marcate în parcul Marjan.",
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt la plajă."
+        ],
+        "en": [
+          "Rent an e-bike for the steeper paths on Marjan Hill.",
+          "Take plenty of water with you as there is little shade.",
+          "Ride on the marked paths within the Marjan forest park.",
+          "Always lock your bike securely at the beach."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 25.0,
+      "stop_count": 3,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Zentrum Split",
+            "hu": "Split történelmi központja",
+            "ro": "Centrul istoric Split",
+            "en": "Split Historic Center"
+          },
+          "coords": [
+            16.4402,
+            43.5081
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Hafen oder in der Nähe des Gripe-Stadions.",
+            "hu": "A legjobb parkolni a kikötőben vagy a Gripe stadion közelében.",
+            "ro": "Parcați în port sau lângă stadionul Gripe.",
+            "en": "Best to park at the harbor or near the Gripe stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Klis",
+            "hu": "Klissza vára",
+            "ro": "Cetatea Klis",
+            "en": "Klis Fortress"
+          },
+          "coords": [
+            16.523,
+            43.5604
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Berühmt als Drehort für Meereen in Game of Thrones.",
+            "hu": "Híres mint Meereen forgatási helyszíne a Trónok harcában.",
+            "ro": "Faimoasă ca locație de filmare pentru Meereen în Urzeala Tronurilor.",
+            "en": "Famous as the filming location for Meereen in Game of Thrones."
+          }
+        },
+        {
+          "name": {
+            "de": "Salona (Antike Ruinen)",
+            "hu": "Salona (antik romok)",
+            "ro": "Salona (ruine antice)",
+            "en": "Salona (Ancient Ruins)"
+          },
+          "coords": [
+            16.483,
+            43.538
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Amphitheater der einstigen Hauptstadt Dalmatiens.",
+            "hu": "Fedezze fel Dalmácia egykori fővárosának amfiteátrumát.",
+            "ro": "Explorați amfiteatrul fostei capitale a Dalmației.",
+            "en": "Explore the amphitheater of the former capital of Dalmatia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erweitern Sie Ihren Radius über das Stadtzentrum hinaus. Nach einer Besichtigung der Altstadt fahren Sie landeinwärts zur imposanten Festung Klis, die auf einem Pass über Split thront. Auf dem Rückweg tauchen Sie in den Ruinen von Salona in die römische Provinzhauptstadt ein.",
+        "hu": "Autóval a városközponton túlra is kiterjesztheti az útját. Az óvárosi séta után hajtson beljebb az impozáns Klissza várához, amely egy hágón trónol Split felett. Visszaúton Salona romjai között merülhet el az egykori római tartományi főváros világában.",
+        "ro": "Cu mașina vă extindeți raza de explorare dincolo de centrul orașului. După vizitarea centrului vechi, conduceți spre interiorul țării către Cetatea Klis, care domină pasul de deasupra orașului. La întoarcere, descoperiți ruinele Salonei, fosta capitală provincială romană.",
+        "en": "By car, you can extend your radius beyond the city center. After visiting the old town, drive inland to the imposing Klis Fortress, perched on a pass above Split. On the way back, dive into the Roman provincial capital at the ruins of Salona."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Perlica (Klis)",
+            "tip": "Bekannt für das beste Lamm am Spieß der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perlica (Klis)",
+            "tip": "A régió legjobb nyárson sült bárányáról híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perlica (Klis)",
+            "tip": "Cunoscut pentru cel mai bun miel la proțap din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perlica (Klis)",
+            "tip": "Famous for the best spit-roasted lamb in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen von Klis",
+            "tip": "Blick über das gesamte Becken von Split.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klisszai sziklák",
+            "tip": "Kilátás az egész Split-medencére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Klis",
+            "tip": "Vedere peste întregul bazin al orașului Split.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klis Cliffs",
+            "tip": "View over the entire Split basin.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mall of Split",
+            "tip": "Das größte Einkaufszentrum der Region direkt an der Schnellstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mall of Split",
+            "tip": "A régió legnagyobb bevásárlóközpontja közvetlenül a gyorsforgalmi út mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall of Split",
+            "tip": "Cel mai mare centru comercial din regiune, chiar lângă drumul expres."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mall of Split",
+            "tip": "The largest shopping mall in the region right by the expressway."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt von Split ist das Parken schwierig und teuer.",
+          "Die Straße nach Klis ist gut ausgebaut, bietet aber tolle Kurven.",
+          "Salona ist weitläufig, parken Sie direkt am Eingang 'Manastirine'.",
+          "Beachten Sie die Maut auf der Autobahn, falls Sie weiter fahren."
+        ],
+        "hu": [
+          "Split óvárosában a parkolás nehézkes és drága.",
+          "A Klissza felé vezető út jól kiépített, de kanyargós.",
+          "Salona kiterjedt terület, parkoljon közvetlenül a 'Manastirine' bejáratnál.",
+          "Ügyeljen az autópályadíjakra, ha messzebb merészkedik."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este dificilă și costisitoare.",
+          "Drumul spre Klis este bun, dar are multe curbe.",
+          "Salona este un sit vast, parcați direct la intrarea 'Manastirine'.",
+          "Atenție la taxele de autostradă dacă vă îndepărtați de oraș."
+        ],
+        "en": [
+          "Parking in Split's old town is difficult and expensive; use paid garages.",
+          "The road to Klis is well-maintained but offers winding turns.",
+          "Salona is spacious; park right at the 'Manastirine' entrance.",
+          "Be aware of highway tolls if you decide to drive further out."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 6.5,
+      "stop_count": 3,
+      "stops": [
+        {
+          "name": {
+            "de": "Diokletianpalast",
+            "hu": "Diokleciánusz-palota",
+            "ro": "Palatul lui Dioclețian",
+            "en": "Diocletian's Palace"
+          },
+          "coords": [
+            16.4404,
+            43.5082
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nahe dem zentralen Busbahnhof am Hafen gelegen.",
+            "hu": "A kikötő melletti központi buszpályaudvar közelében található.",
+            "ro": "Situat lângă autogara centrală din port.",
+            "en": "Located near the central bus station at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Meštrović-Galerie",
+            "hu": "Meštrović Galéria",
+            "ro": "Galeria Meštrović",
+            "en": "Meštrović Gallery"
+          },
+          "coords": [
+            16.4172,
+            43.5042
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Buslinie 12 von der Riva.",
+            "hu": "Vegye igénybe a 12-es buszjáratot a Riváról.",
+            "ro": "Luați autobuzul linia 12 de pe Riva.",
+            "en": "Take bus line 12 from the Riva promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bene Strand (Marjan Park)",
+            "hu": "Bene strand (Marjan park)",
+            "ro": "Plaja Bene (Parcul Marjan)",
+            "en": "Bene Beach (Marjan Park)"
+          },
+          "coords": [
+            16.402,
+            43.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Linie 12 fährt bis direkt zum Strand Bene.",
+            "hu": "A 12-es járat közvetlenül a Bene strandig közlekedik.",
+            "ro": "Linia 12 merge până direct la plaja Bene.",
+            "en": "Bus line 12 goes directly to Bene beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem von Split verbindet das Zentrum effizient mit den Naherholungsgebieten. Mit der Linie 12 gelangen Sie bequem vom Trubel des Palastes zu den Kunstschätzen der Meštrović-Galerie und weiter zum ruhigen Bene-Strand tief im Marjan-Waldpark.",
+        "hu": "Split buszhálózata hatékonyan köti össze a központot a pihenőövezetekkel. A 12-es busszal kényelmesen juthat el a palota nyüzsgésétől a Meštrović Galéria műkincseihez, majd tovább a Marjan parkerdő mélyén fekvő nyugalmas Bene strandhoz.",
+        "ro": "Sistemul de autobuze din Split conectează eficient centrul cu zonele de agrement. Cu linia 12 puteți ajunge ușor de la agitația palatului la comorile artistice de la Galeria Meštrović și mai departe spre liniștita plajă Bene din inima parcului Marjan.",
+        "en": "Split's bus network efficiently connects the center with local recreation areas. Using line 12, you can easily travel from the palace's bustle to the art treasures of the Meštrović Gallery and further to the peaceful Bene beach deep within the Marjan forest park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Bene",
+            "tip": "Essen unter Pinien mit Blick auf das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Bene",
+            "tip": "Étkezés a fenyők alatt, kilátással a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Bene",
+            "tip": "Masă sub pini cu vedere spre mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Bene",
+            "tip": "Dining under pine trees with a view of the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marjan Waldwege",
+            "tip": "Abseits der Bushaltestellen finden Sie totale Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marjan erdei utak",
+            "tip": "A buszmegállóktól távol teljes csendet talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile din Marjan",
+            "tip": "Departe de stațiile de autobuz veți găsi o liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marjan Forest Paths",
+            "tip": "Away from the bus stops, you will find total silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Kaufen Sie hier Ihre Busfahrkarten günstiger als beim Fahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisak stand",
+            "tip": "Vásárolja meg itt a buszjegyét, olcsóbb, mint a sofőrnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Tisak",
+            "tip": "Cumpărați biletele de aici, sunt mai ieftine decât la șofer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Buy your bus tickets here cheaper than from the driver."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'SplitBus' App für Echtzeit-Infos herunter.",
+          "Busfahrkarten müssen beim Einstieg entwertet werden.",
+          "Die Linie 12 ist im Sommer oft sehr voll.",
+          "Der zentrale Busknotenpunkt ist am Ende der Riva (Hafen)."
+        ],
+        "hu": [
+          "Töltse le a 'SplitBus' alkalmazást a valós idejű információkért.",
+          "A buszjegyeket felszálláskor érvényesíteni kell.",
+          "A 12-es járat nyáron gyakran nagyon zsúfolt.",
+          "A központi buszcsomópont a Riva végén (kikötő) található."
+        ],
+        "ro": [
+          "Descărcați aplicația 'SplitBus' pentru informații în timp real.",
+          "Biletele de autobuz trebuie validate la urcare.",
+          "Linia 12 este adesea foarte aglomerată în timpul verii.",
+          "Nodul central de autobuze este la capătul falezei Riva (port)."
+        ],
+        "en": [
+          "Download the 'SplitBus' app for real-time schedule info.",
+          "Bus tickets must be validated upon boarding.",
+          "Line 12 is often very crowded during the peak summer season.",
+          "The central bus hub is located at the end of the Riva (harbor)."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.promet-split.hr/en",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Split-2790",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visitsplit.com/en/434/events/1",
+    "tourism_office": "https://visitsplit.com/en/1/welcome-to-split",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/split/grad-split.html",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.getyourguide.com/split-l268/",
+    "parking_real_time": "https://parkingsplit.com/",
+    "language_tips": {
+      "de": "Drei nuetzliche kroatische Woerter: Bok (bok, hallo), Hvala (chwa-la, danke), Racun molim (ra-tschun mo-lim, die Rechnung bitte).",
+      "hu": "Harom hasznos horvat szo: Bok (bok, szia), Hvala (hvala, koszonom), Racun molim (racsun molim, a szamlat kerem).",
+      "ro": "Trei cuvinte utile in croata: Bok (bok, salut), Hvala (hvala, multumesc), Racun molim (raciun molim, nota va rog).",
+      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please)."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind am besten (warm, badetauglich, ohne Hochsommer-Hitze). Mitte Juli bis Mitte August nur fuer Festival-Fans empfehlenswert.",
+      "hu": "Majus, junius es szeptember a legjobb (meleg, furdesre alkalmas, hosegmentes). Julius kozepe es augusztus kozepe csak fesztivalrajongoknak.",
+      "ro": "Mai, iunie si septembrie sunt cele mai bune (cald, propice scaldatului, fara canicula). Mijlocul lui iulie pana la mijlocul lui august doar pentru fanii festivalurilor.",
+      "en": "May, June and September are best (warm enough to swim, no peak heat). Mid-July to mid-August is for festival lovers only."
+    },
+    "neighborhood_warnings": {
+      "de": "In der Riva und im Diokletianspalast bei Gedraenge auf Taschen achten. Bacvice-Strand am Wochenende laut, am Hauptbahnhof/Hafenviertel nachts vorsichtig sein.",
+      "hu": "A Rivan es a Diocletianus palotaban tomeg eseten figyelj a taskadra. Bacvice strand hetvegen zajos, az allomas/kikoto kornyeken ejjel ovatosan.",
+      "ro": "Pe Riva si in palatul lui Diocletian atentie la genti cand e aglomerat. Plaja Bacvice e zgomotoasa weekendul, zona garii si portului noaptea cu prudenta.",
+      "en": "Mind your bag on the Riva and inside Diocletian's Palace when crowded. Bacvice beach is rowdy on weekends; be cautious around the bus/port area at night."
+    }
+  }
+}

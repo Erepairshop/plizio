@@ -1,0 +1,1022 @@
+{
+  "city_id": "ston",
+  "anchor": {
+    "name": "Ston Center",
+    "coords": [
+      17.696,
+      42.834
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fürstenpalast Ston",
+            "hu": "Stoni hercegi palota",
+            "ro": "Palatul Rectorului din Ston",
+            "en": "Rector's Palace Ston"
+          },
+          "coords": [
+            17.6961,
+            42.8342
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die gotische Architektur im Innenhof.",
+            "hu": "Csodálja meg a belső udvar gótikus építészetét.",
+            "ro": "Admirați arhitectura gotică din curtea interioară.",
+            "en": "Admire the Gothic architecture in the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Blasius",
+            "hu": "Szent Balázs templom",
+            "ro": "Biserica Sfântul Blasiu",
+            "en": "Church of St. Blaise"
+          },
+          "coords": [
+            17.6965,
+            42.8341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Ein Ort der Ruhe mit beeindruckenden Altarbildern.",
+            "hu": "A nyugalom szigete lenyűgöző oltárképekkel.",
+            "ro": "Un loc de liniște cu pânze de altar impresionante.",
+            "en": "A place of peace with impressive altarpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzgarten von Ston",
+            "hu": "Stoni sólepárló",
+            "ro": "Salina din Ston",
+            "en": "Ston Salt Pans"
+          },
+          "coords": [
+            17.6942,
+            42.8315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Kaufen Sie hier das berühmte 'Blumentalsalz'.",
+            "hu": "Vásároljon itt híres 'sóvirágot'.",
+            "ro": "Cumpărați faimoasa 'floare de sare' de aici.",
+            "en": "Buy the famous 'flower of salt' directly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kaštio",
+            "hu": "Kaštio erőd",
+            "ro": "Fortăreața Kaštio",
+            "en": "Kaštio Fortress"
+          },
+          "coords": [
+            17.6955,
+            42.8335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Eingang zur großen Mauerbefestigung.",
+            "hu": "Ez a hatalmas városfalrendszer bejárata.",
+            "ro": "Intrarea în marele sistem de fortificații.",
+            "en": "The entrance to the great wall fortification system."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Ston",
+            "hu": "Stoni városfalak",
+            "ro": "Zidurile din Ston",
+            "en": "Walls of Ston"
+          },
+          "coords": [
+            17.6985,
+            42.8412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Viseljen kényelmes cipőt a meredek szakaszokhoz.",
+            "ro": "Purtați încălțăminte comodă pentru urcarea abruptă.",
+            "en": "Wear sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Ston",
+            "hu": "Mali Ston",
+            "ro": "Mali Ston",
+            "en": "Mali Ston"
+          },
+          "coords": [
+            17.7042,
+            42.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Probieren Sie die Austern direkt am Wasser.",
+            "hu": "Kóstolja meg az osztrigát közvetlenül a parton.",
+            "ro": "Gustați scoicile chiar pe malul apei.",
+            "en": "Taste the oysters right by the waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ston mit der Besichtigung des Fürstenpalastes und der Blasius-Kirche. Tauchen Sie anschließend in die Geschichte der Salzgewinnung ein, die seit der Antike fast unverändert geblieben ist. Der Höhepunkt ist die Wanderung über die 'Europäische Chinesische Mauer' nach Mali Ston, wo Sie mit einem fantastischen Blick auf den Kanal belohnt werden. Den Abend lassen Sie bei frischen Meeresfrüchten ausklingen.",
+        "hu": "Kezdje a napot Ston szívében a hercegi palota és a Szent Balázs templom felfedezésével. Ezután ismerje meg a sólepárlás történetét, amely az ókor óta szinte változatlan formában zajlik itt. A nap csúcspontja a túra az 'Európa kínai falaként' emlegetett erődrendszeren Mali Ston felé, ahonnan pazar kilátás nyílik az öbölre. Az estét töltsön el egy hangulatos tengerparti vacsorával.",
+        "ro": "Începeți ziua în inima localității Ston vizitând Palatul Rectorului și biserica Sfântul Blasiu. Ulterior, descoperiți istoria extracției sării, proces rămas aproape neschimbat din antichitate. Momentul culminant este drumeția pe 'Marele Zid European' către Mali Ston, oferind priveliști superbe asupra canalului. Încheiați seara savurând fructe de mare proaspete, renumite în întreaga regiune.",
+        "en": "Start your day in the heart of Ston by exploring the Rector's Palace and St. Blaise Church. Then, dive into the history of salt production, which has remained nearly unchanged since antiquity. The highlight is the hike over the 'European Great Wall' to Mali Ston, rewarding you with fantastic views of the canal. Finish your evening with fresh seafood, specifically the world-famous local oysters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bota Šare",
+            "tip": "Frische Austern und Muscheln in Mali Ston."
+          },
+          {
+            "name": "Konoba Bakus",
+            "tip": "Bekannt für schwarzen Risotto und Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bota Šare",
+            "tip": "Friss osztriga és kagyló Mali Stonban."
+          },
+          {
+            "name": "Konoba Bakus",
+            "tip": "Híres fekete rizottó és friss halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bota Šare",
+            "tip": "Scoici și stridii proaspete în Mali Ston."
+          },
+          {
+            "name": "Konoba Bakus",
+            "tip": "Renumit pentru risotto negru și pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bota Šare",
+            "tip": "Fresh oysters and mussels in Mali Ston."
+          },
+          {
+            "name": "Konoba Bakus",
+            "tip": "Known for black risotto and fresh fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mauer-Aussichtspunkt",
+            "tip": "Blick über die Salzpfannen bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferpromenade Mali Ston",
+            "tip": "Ruhiger Spaziergang am Kanal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal kilátó",
+            "tip": "Kilátás a sólepárlókra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mali Ston rakpart",
+            "tip": "Csendes séta a csatorna mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere pe zid",
+            "tip": "Vedere peste saline la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Promenada Mali Ston",
+            "tip": "Plimbare liniștită pe marginea canalului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wall Viewpoint",
+            "tip": "View over the salt pans at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mali Ston Waterfront",
+            "tip": "Quiet walk along the canal.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salzladen Ston",
+            "tip": "Natürliches Meersalz als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stoni sóbolt",
+            "tip": "Természetes tengeri só ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de sare",
+            "tip": "Sare de mare naturală pentru suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ston Salt Shop",
+            "tip": "Natural sea salt as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kombinieren Sie das Ticket für Mauer und Museum.",
+          "Die Mauer ist ca. 5km lang, planen Sie genug Wasser ein.",
+          "Vermeiden Sie die Mittagshitze auf den Mauern.",
+          "Parken ist vor dem Stadttor möglich."
+        ],
+        "hu": [
+          "Váltson kombinált jegyet a falra és a múzeumba.",
+          "A fal kb. 5km hosszú, vigyen magával elég vizet.",
+          "Kerülje a déli hőséget a falakon.",
+          "Parkolni a városkapu előtt lehet."
+        ],
+        "ro": [
+          "Cumpărați bilet combinat pentru ziduri și muzeu.",
+          "Zidul are aproximativ 5km, luați destulă apă.",
+          "Evitați căldura de la prânz pe ziduri.",
+          "Parcarea este disponibilă în fața porții orașului."
+        ],
+        "en": [
+          "Get a combined ticket for the walls and museum.",
+          "The wall is about 5km long, bring plenty of water.",
+          "Avoid the midday heat on the walls.",
+          "Parking is available in front of the city gate."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salzgarten",
+            "hu": "Sólepárló",
+            "ro": "Salina",
+            "en": "Salt Pans"
+          },
+          "coords": [
+            17.6942,
+            42.8315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Radeln Sie entlang der Becken.",
+            "hu": "Kerekezzen a medencék mentén.",
+            "ro": "Mergeți cu bicicleta pe lângă bazine.",
+            "en": "Cycle along the ancient basins."
+          }
+        },
+        {
+          "name": {
+            "de": "Prapratno Bucht",
+            "hu": "Prapratno-öböl",
+            "ro": "Golful Prapratno",
+            "en": "Prapratno Bay"
+          },
+          "coords": [
+            17.6765,
+            42.8182
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Sandstrand und kristallklares Wasser.",
+            "hu": "Homokos strand és tiszta víz.",
+            "ro": "Plajă cu nisip și apă cristalină.",
+            "en": "Sandy beach and crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Ston",
+            "hu": "Mali Ston",
+            "ro": "Mali Ston",
+            "en": "Mali Ston"
+          },
+          "coords": [
+            17.7042,
+            42.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_4lang": {
+            "de": "Fischrestaurants am Hafen.",
+            "hu": "Haléttermek a kikötőben.",
+            "ro": "Restaurante de pește în port.",
+            "en": "Seafood restaurants at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Koruna",
+            "hu": "Koruna erőd",
+            "ro": "Fortăreața Koruna",
+            "en": "Koruna Fortress"
+          },
+          "coords": [
+            17.7035,
+            42.849
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Die nördliche Bastion der Mauer.",
+            "hu": "A falrendszer északi bástyája.",
+            "ro": "Bastionul nordic al zidului.",
+            "en": "The northern bastion of the wall system."
+          }
+        },
+        {
+          "name": {
+            "de": "Ston Altstadt",
+            "hu": "Ston óváros",
+            "ro": "Centrul vechi Ston",
+            "en": "Ston Old Town"
+          },
+          "coords": [
+            17.696,
+            42.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Ruhige Gassen erkunden.",
+            "hu": "Fedezze fel a csendes utcákat.",
+            "ro": "Explorați străzile liniștite.",
+            "en": "Explore the quiet alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Halbinsel Pelješac auf zwei Rädern. Von den Salzpfannen führt der Weg zur idyllischen Bucht Prapratno, perfekt für eine Abkühlung. Danach geht es zurück über Ston nach Mali Ston, wo Sie die Befestigung Koruna bewundern können. Die flachen Wege um die Salzbecken sind ideal zum Radeln.",
+        "hu": "Fedezze fel a Pelješac-félszigetet két keréken. A sólepárlóktól az út a meseszép Prapratno-öbölhöz vezet, amely tökéletes egy kis frissítőhöz. Ezután Stonon keresztül Mali Stonba tekerhet, ahol megcsodálhatja a Koruna erődöt. A sómedencék körüli sík terep ideális a biciklizéshez.",
+        "ro": "Explorați peninsula Pelješac pe două roți. De la saline, drumul duce spre golful idilic Prapratno, perfect pentru o baie răcoritoare. Apoi, reveniți prin Ston spre Mali Ston, unde puteți admira fortăreața Koruna. Traseele plate din jurul bazinelor de sare sunt ideale pentru ciclism.",
+        "en": "Explore the Pelješac Peninsula on two wheels. From the salt pans, the path leads to the idyllic Prapratno Bay, perfect for a swim. Then, head back through Ston to Mali Ston, where you can admire the Koruna Fortress. The flat paths around the salt basins are ideal for relaxed cycling."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vila Koruna",
+            "tip": "Austernverkostung direkt am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vila Koruna",
+            "tip": "Osztrigakóstoló közvetlenül a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vila Koruna",
+            "tip": "Degustare de stridii chiar lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vila Koruna",
+            "tip": "Oyster tasting right by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prapratno Strand",
+            "tip": "Ruhiger Platz am Morgen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prapratno strand",
+            "tip": "Csendes hely reggelente.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Prapratno",
+            "tip": "Loc liniștit dimineața.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prapratno Beach",
+            "tip": "Quiet spot in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Überall auf der Halbinsel erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A félszigeten mindenhol kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Disponibil peste tot în peninsulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local olive oil",
+            "tip": "Available all over the peninsula."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Autoverkehr auf der Hauptstraße.",
+          "In Prapratno gibt es Schatten unter Pinien.",
+          "Mieten Sie Fahrräder im Zentrum von Ston."
+        ],
+        "hu": [
+          "Figyeljen az autóforgalomra a főúton.",
+          "Prapratnóban árnyékot talál a fenyőfák alatt.",
+          "Béreljen kerékpárt Ston központjában."
+        ],
+        "ro": [
+          "Atenție la traficul auto pe drumul principal.",
+          "În Prapratno găsiți umbră sub pini.",
+          "Închiriați biciclete din centrul orașului Ston."
+        ],
+        "en": [
+          "Watch out for traffic on the main road.",
+          "In Prapratno, you can find shade under pine trees.",
+          "Rent bicycles in the center of Ston."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ston Zentrum",
+            "hu": "Ston központ",
+            "ro": "Centru Ston",
+            "en": "Ston Center"
+          },
+          "coords": [
+            17.696,
+            42.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Großer Parkplatz am Eingang.",
+            "hu": "Nagy parkoló a bejáratnál.",
+            "ro": "Parcare mare la intrare.",
+            "en": "Large parking lot at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzpfannen",
+            "hu": "Sómedencék",
+            "ro": "Bazinele de sare",
+            "en": "Salt Pans"
+          },
+          "coords": [
+            17.6942,
+            42.8315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Fotostopp an den weißen Salzhügeln.",
+            "hu": "Fotómegálló a fehér sóhalmoknál.",
+            "ro": "Oprire pentru poze la movilele de sare.",
+            "en": "Photo stop at the white salt mounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Ston",
+            "hu": "Mali Ston",
+            "ro": "Mali Ston",
+            "en": "Mali Ston"
+          },
+          "coords": [
+            17.7042,
+            42.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Kurze Fahrt, tolle Aussicht auf die Bucht.",
+            "hu": "Rövid út, remek kilátás az öbölre.",
+            "ro": "Drum scurt, vedere excelentă spre golf.",
+            "en": "Short drive, great view of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Prapratno Strand",
+            "hu": "Prapratno strand",
+            "ro": "Plaja Prapratno",
+            "en": "Prapratno Beach"
+          },
+          "coords": [
+            17.6765,
+            42.8182
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Ideal für Familien mit Kindern.",
+            "hu": "Ideális kisgyermekes családoknak.",
+            "ro": "Ideal pentru familii cu copii.",
+            "en": "Ideal for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingut in der Nähe",
+            "hu": "Közeli borászat",
+            "ro": "Cramă în apropiere",
+            "en": "Nearby Winery"
+          },
+          "coords": [
+            17.65,
+            42.84
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Probieren Sie den Pelješac-Wein Dingač.",
+            "hu": "Kóstolja meg a Pelješac-i Dingač bort.",
+            "ro": "Gustați vinul Dingač din Pelješac.",
+            "en": "Taste the famous Pelješac Dingač wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die schönsten Ecken um Ston. Nach einem Rundgang durch den Ort und die Salzpfannen fahren Sie ins charmante Mali Ston. Mittags bietet sich ein Badestopp in Prapratno an, bevor Sie eines der vielen Weingüter auf der Halbinsel Pelješac besuchen, die für ihren hervorragenden Rotwein bekannt sind.",
+        "hu": "Autóval kényelmesen elérheti Ston környékének legszebb pontjait. A városnézés és a sólepárlók után látogasson el a hangulatos Mali Stonba. Délben iktasson be egy fürdőzést Prapratnóban, majd keressen fel egyet a félsziget híres borászatai közül, amelyek kiváló vörösboraikról ismertek.",
+        "ro": "Cu mașina puteți ajunge ușor la cele mai frumoase colțuri din jurul localității Ston. După un tur al orașului și al salinelor, mergeți în fermecătorul Mali Ston. La prânz, opriți pentru o baie în Prapratno, înainte de a vizita una dintre numeroasele crame din peninsula Pelješac, renumite pentru vinul roșu excelent.",
+        "en": "By car, you can easily reach the most beautiful spots around Ston. After touring the town and salt pans, drive to charming Mali Ston. At midday, enjoy a swim at Prapratno Beach before visiting one of the many wineries on the Pelješac Peninsula, famous for their outstanding red wines."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapetanova kuća",
+            "tip": "Erstklassiger Fisch und Austern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapetanova kuća",
+            "tip": "Elsőosztályú halételek és osztriga."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapetanova kuća",
+            "tip": "Pește și stridii de primă clasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapetanova kuća",
+            "tip": "First-class fish and oysters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel über Prapratno",
+            "tip": "Panoramablick auf die Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prapratno feletti domb",
+            "tip": "Panorámás kilátás az öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul de deasupra Prapratno",
+            "tip": "Vedere panoramică spre golf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill above Prapratno",
+            "tip": "Panoramic view of the bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Direkt ab Hof kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wines",
+            "tip": "Buy directly from the winery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren in Ston werden per SMS oder Automat gezahlt.",
+          "Die Straße nach Mali Ston ist eng.",
+          "Trinken und fahren Sie nicht bei Weinproben."
+        ],
+        "hu": [
+          "A parkolásért Stonban SMS-ben vagy automatánál fizethet.",
+          "A Mali Stonba vezető út keskeny.",
+          "Ne vezessen, ha bort kóstol."
+        ],
+        "ro": [
+          "Taxele de parcare în Ston se plătesc prin SMS sau automat.",
+          "Drumul spre Mali Ston este îngust.",
+          "Nu conduceți dacă degustați vin."
+        ],
+        "en": [
+          "Parking fees in Ston are paid via SMS or machine.",
+          "The road to Mali Ston is narrow.",
+          "Don't drink and drive during wine tastings."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:30",
+      "end_estimate": "16:00",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Ston",
+            "hu": "Stoni buszmegálló",
+            "ro": "Stația de autobuz Ston",
+            "en": "Ston Bus Stop"
+          },
+          "coords": [
+            17.6975,
+            42.8345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt aus Dubrovnik.",
+            "hu": "Központi érkezési pont Dubrovnik felől.",
+            "ro": "Punct central de sosire dinspre Dubrovnik.",
+            "en": "Central arrival point from Dubrovnik."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Ston",
+            "hu": "Ston óváros",
+            "ro": "Centrul vechi Ston",
+            "en": "Ston Old Town"
+          },
+          "coords": [
+            17.696,
+            42.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Alles ist fußläufig erreichbar.",
+            "hu": "Minden gyalogosan is elérhető.",
+            "ro": "Totul este accesibil pe jos.",
+            "en": "Everything is reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzgarten",
+            "hu": "Sólepárló",
+            "ro": "Salina",
+            "en": "Salt Pans"
+          },
+          "coords": [
+            17.6942,
+            42.8315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Nur 10 Min. Fußweg vom Zentrum.",
+            "hu": "Csak 10 perc séta a központtól.",
+            "ro": "Doar 10 min. de mers pe jos din centru.",
+            "en": "Only 10 min. walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Ston (via Taxi/Bus)",
+            "hu": "Mali Ston (taxival/busszal)",
+            "ro": "Mali Ston (cu taxi/autobuz)",
+            "en": "Mali Ston (via taxi/bus)"
+          },
+          "coords": [
+            17.7042,
+            42.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Taxis stehen oft am Busstopp.",
+            "hu": "Taxik gyakran állnak a buszmegállónál.",
+            "ro": "Taxiurile sunt adesea la stația de autobuz.",
+            "en": "Taxis are often available at the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ston ist gut mit dem Bus von Dubrovnik oder Split aus erreichbar. Vom Busstopp gelangen Sie direkt in die Altstadt. Da die Entfernungen zwischen Ston, den Salzpfannen und der Mauer gering sind, lässt sich der Großteil zu Fuß erkunden. Für den Weg nach Mali Ston können Sie den Bus oder ein lokales Taxi nutzen.",
+        "hu": "Ston könnyen elérhető busszal Dubrovnik vagy Split felől. A megállótól közvetlenül az óvárosba juthat. Mivel Ston, a sólepárlók és a városfal közötti távolság kicsi, a legtöbb látnivaló gyalog is bejárható. Mali Ston eléréséhez használhatja a helyközi buszt vagy taxit.",
+        "ro": "Ston este ușor accesibil cu autobuzul din Dubrovnik sau Split. De la stație ajungeți direct în centrul vechi. Deoarece distanțele între Ston, saline și zid sunt mici, majoritatea locurilor pot fi explorate pe jos. Pentru a merge în Mali Ston, puteți folosi autobuzul sau un taxi local.",
+        "en": "Ston is easily accessible by bus from Dubrovnik or Split. From the bus stop, you can enter the old town directly. Since the distances between Ston, the salt pans, and the walls are small, most can be explored on foot. For the trip to Mali Ston, you can use a local bus or a taxi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sorgo",
+            "tip": "Gutes Preis-Leistungs-Verhältnis im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sorgo",
+            "tip": "Jó ár-érték arány a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorgo",
+            "tip": "Raport bun calitate-preț în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sorgo",
+            "tip": "Good value for money in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Ston",
+            "tip": "Kleine Grünanlage zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stoni városi park",
+            "tip": "Kis zöldövezet a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Ston",
+            "tip": "Mică zonă verde pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ston City Park",
+            "tip": "Small green area for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Oft an Ständen am Busstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Gyakran kapható a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Adesea la standuri lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Often available at stands near the bus stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Rückfahrzeiten nach Dubrovnik vorab.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Sonntags fahren weniger Busse."
+        ],
+        "hu": [
+          "Előre ellenőrizze a visszautat Dubrovnikba.",
+          "A jegyeket gyakran a sofőrnél is megveheti.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Verificați orarul de întoarcere spre Dubrovnik.",
+          "Biletele pot fi cumpărate adesea de la șofer.",
+          "Duminica circulă mai puține autobuze."
+        ],
+        "en": [
+          "Check return bus times to Dubrovnik in advance.",
+          "Tickets can often be bought from the driver.",
+          "Fewer buses run on Sundays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.jadrolinija.hr/en",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.ston.hr/",
+    "tourism_office": "https://www.ston.hr/turisticka-zajednica/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "In Ston wird Kroatisch gesprochen; Englisch und Italienisch sind im Tourismus üblich. Deutsch nur vereinzelt in größeren Restaurants entlang der Stadtmauern.",
+      "hu": "Stonban horvátul beszélnek, az idegenforgalomban az angol és olasz mindennapos. Magyarul nemigen tudnak, néhány alapszó horvátul (dobar dan, hvala) jól jön.",
+      "ro": "În Ston se vorbește croata; engleza și italiana sunt uzuale în turism. Româna nu este înțeleasă, învățați câteva formule de bază în croată (dobar dan, hvala).",
+      "en": "Croatian is the local language. English and Italian are widely used in restaurants and the salt works tour. A few words of Croatian (dobar dan, hvala) are appreciated."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juni und September für angenehme Temperaturen zum Begehen der Mauer; Austernsaison ganzjährig, Höhepunkt im März (Festa od kamenica). Juli/August sehr heiß auf den 1.200 Stufen.",
+      "hu": "Május és szeptember a legjobb a Pelješac-fal végigjárására (kellemes hő); osztriga egész évben kapható, csúcsa március (Festa od kamenica). Július, augusztus a falon nagyon meleg.",
+      "ro": "Mai și septembrie sunt ideale pentru zidul Pelješac (temperaturi confortabile); stagiunea stridiilor culminează în martie (Festa od kamenica). Iulie și august sunt foarte calde pe trepte.",
+      "en": "May and September are best for walking the Pelješac walls in mild weather; oyster season peaks in March (Festa od kamenica). July and August are very hot on the 1,200 steps."
+    },
+    "neighborhood_warnings": {
+      "de": "Ston ist sehr sicher. Vorsicht auf den teils unebenen Mauersteinen, festes Schuhwerk Pflicht. An der schmalen Hauptstraße rangieren Reisebusse, vorsichtig überqueren.",
+      "hu": "Ston biztonságos. A várfal kövei egyenetlenek, stabil cipő kötelező. A keskeny főutcán turistabuszok manővereznek, óvatosan kelj át.",
+      "ro": "Ston este sigur. Atenție la pietrele inegale de pe zid, încălțăminte solidă obligatorie. Pe strada principală îngustă manevrează autocare, traversați cu grijă.",
+      "en": "Ston is very safe. The walls have uneven stones, sturdy shoes are essential. Tour coaches manoeuvre on the narrow main street, cross carefully."
+    }
+  }
+}

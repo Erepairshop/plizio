@@ -1,0 +1,1027 @@
+{
+  "city_id": "komiza",
+  "anchor": {
+    "name": "Komiža Riva",
+    "coords": [
+      16.0883,
+      43.0436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der sieben Palmen",
+            "hu": "Hét pálma tere",
+            "ro": "Piața celor șapte palmi",
+            "en": "Square of Seven Palms"
+          },
+          "coords": [
+            16.0885,
+            43.044
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt am Morgen.",
+            "hu": "Kedvelt reggeli találkozóhely.",
+            "ro": "Un loc de întâlnire popular dimineața.",
+            "en": "A popular meeting spot in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei torony",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            16.0881,
+            43.0442
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beherbergt das interessante Fischereimuseum.",
+            "hu": "Érdekes halászati múzeumnak ad otthont.",
+            "ro": "Găzduiește un interesant muzeu al pescuitului.",
+            "en": "Houses the interesting Fishery Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hl. Nikolaus",
+            "hu": "Szent Miklós kolostor",
+            "ro": "Mănăstirea Sf. Nicolae",
+            "en": "Monastery of St. Nicholas"
+          },
+          "coords": [
+            16.0915,
+            43.0418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Kloster thront auf einem Hügel über der Stadt.",
+            "hu": "A kolostor egy dombon trónol a város felett.",
+            "ro": "Mănăstirea tronează pe un deal deasupra orașului.",
+            "en": "The monastery perches on a hill above the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Gospa Gusarica",
+            "hu": "Gospa Gusarica templom",
+            "ro": "Biserica Gospa Gusarica",
+            "en": "Church of Gospa Gusarica"
+          },
+          "coords": [
+            16.0835,
+            43.0465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bekannt für die Legende der Piraten-Madonna.",
+            "hu": "A kalóz-Madonna legendájáról ismert.",
+            "ro": "Cunoscută pentru legenda Madonei Piraților.",
+            "en": "Known for the legend of the Pirate Madonna."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Gusarica",
+            "hu": "Gusarica strand",
+            "ro": "Plaja Gusarica",
+            "en": "Gusarica Beach"
+          },
+          "coords": [
+            16.0825,
+            43.0468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kiesstrand mit hervorragender Wasserqualität.",
+            "hu": "Kavicsos strand kiváló vízminőséggel.",
+            "ro": "Plajă cu pietriș și apă de o calitate excelentă.",
+            "en": "Pebble beach with excellent water quality."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva von Komiža",
+            "hu": "Komiža Riva",
+            "ro": "Riva din Komiža",
+            "en": "Riva of Komiža"
+          },
+          "coords": [
+            16.0883,
+            43.0436
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee am Hafen.",
+            "hu": "Élvezzen egy kávét a kikötőben.",
+            "ro": "Savurați o cafea în port.",
+            "en": "Enjoy a coffee by the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Komiža ist ein Juwel für Fußgänger. Beginnen Sie am Hauptplatz und besuchen Sie das Fischereimuseum im Turm. Der Aufstieg zum Nikolaus-Kloster bietet herrliche Blicke, bevor Sie den Küstenweg zur Piratenkirche und zum Strand nehmen. Den Abschluss bildet das lebendige Treiben auf der Riva.",
+        "hu": "Komiža a gyalogosok ékköve. Kezdje a főtéren, és látogassa meg a toronyban lévő halászati múzeumot. A Szent Miklós kolostorhoz vezető út gyönyörű kilátást nyújt, majd a part mentén sétáljon a kalóztemplomhoz és a strandhoz. A napot a Riva nyüzsgése zárja.",
+        "ro": "Komiža este o bijuterie pentru pietoni. Începeți în piața principală și vizitați muzeul pescuitului din turn. Urcarea la mănăstirea Sf. Nicolae oferă priveliști superbe, înainte de a lua drumul de coastă spre biserica piraților și plajă. Finalul aparține agitației vii de pe Riva.",
+        "en": "Komiža is a pedestrian gem. Start at the main square and visit the Fishery Museum in the tower. The walk up to St. Nicholas Monastery offers splendid views before taking the coastal path to the Pirate Church and beach. Finish with the vibrant life on the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Komiška pogača",
+            "tip": "Spezialität mit Tomaten und Sardinen."
+          },
+          {
+            "name": "Konoba Bako",
+            "tip": "Authentische Meeresfrüchte am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komiška pogača",
+            "tip": "Paradicsomos-szardíniás különlegesség."
+          },
+          {
+            "name": "Konoba Bako",
+            "tip": "Autentikus tenger gyümölcsei a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komiška pogača",
+            "tip": "Specialitate cu roșii și sardine."
+          },
+          {
+            "name": "Konoba Bako",
+            "tip": "Fructe de mare autentice la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komiška pogača",
+            "tip": "Specialty with tomatoes and sardines."
+          },
+          {
+            "name": "Konoba Bako",
+            "tip": "Authentic seafood by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ruhe unter alten Pinien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Csend az öreg fenyők alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Liniște sub pinii bătrâni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Quiet under old pine trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Falkuša-Souvenirs",
+            "tip": "Miniaturmodelle der traditionellen Fischerboote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falkuša szuvenír",
+            "tip": "A tradicionális halászhajók kicsinyített másai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Falkuša",
+            "tip": "Modele miniaturale ale bărcilor de pescuit tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Falkuša Souvenirs",
+            "tip": "Miniature models of traditional fishing boats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Kloster ist steil, aber lohnenswert.",
+          "In Komiža gibt es viele Trinkwasserbrunnen.",
+          "Die Fischer bringen ihren Fang oft direkt zur Riva."
+        ],
+        "hu": [
+          "A kolostorhoz vezető út meredek, de megéri.",
+          "Komižán sok az ivóvízkút.",
+          "A halászok gyakran közvetlenül a Rivára hozzák a fogást."
+        ],
+        "ro": [
+          "Drumul spre mănăstire este abrupt, dar merită.",
+          "În Komiža sunt multe fântâni cu apă potabilă.",
+          "Pescarii își aduc adesea captura direct pe Riva."
+        ],
+        "en": [
+          "The path to the monastery is steep but rewarding.",
+          "There are many drinking water fountains in Komiža.",
+          "Fishermen often bring their catch directly to the Riva."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Komiža Riva",
+            "hu": "Komiža Riva",
+            "ro": "Riva din Komiža",
+            "en": "Kiomiža Riva"
+          },
+          "coords": [
+            16.0883,
+            43.0436
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sammeln Sie Kräfte für den Anstieg zum Hum.",
+            "hu": "Gyűjtsön erőt a Hum megmászásához.",
+            "ro": "Adunați-vă forțele pentru urcarea pe Hum.",
+            "en": "Gather strength for the climb to Mount Hum."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Hum",
+            "hu": "Hum-hegy",
+            "ro": "Muntele Hum",
+            "en": "Mount Hum"
+          },
+          "coords": [
+            16.1155,
+            43.0335
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Insel mit Panoramablick.",
+            "hu": "A sziget legmagasabb pontja panorámás kilátással.",
+            "ro": "Cel mai înalt punct al insulei cu vedere panoramică.",
+            "en": "Highest point of the island with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hl. Nikolaus",
+            "hu": "Szent Miklós kolostor",
+            "ro": "Mănăstirea Sf. Nicolae",
+            "en": "Monastery of St. Nicholas"
+          },
+          "coords": [
+            16.0915,
+            43.0418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein Halt auf dem Rückweg bergab.",
+            "hu": "Megálló a lefelé vezető úton.",
+            "ro": "O oprire pe drumul de întoarcere la vale.",
+            "en": "A stop on the way back downhill."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Kamenice",
+            "hu": "Kamenice strand",
+            "ro": "Plaja Kamenice",
+            "en": "Kamenice Beach"
+          },
+          "coords": [
+            16.0855,
+            43.0385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vulkanischer Strand mit Süßwasserquellen.",
+            "hu": "Vulkanikus strand édesvízi forrásokkal.",
+            "ro": "Plajă vulcanică cu izvoare de apă dulce.",
+            "en": "Volcanic beach with freshwater springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Zadruga-Gebäude",
+            "hu": "Zadruga épület",
+            "ro": "Clădirea Zadruga",
+            "en": "Zadruga Building"
+          },
+          "coords": [
+            16.089,
+            43.0425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ehemalige Fischverarbeitungsfabrik.",
+            "hu": "Egykori halfeldolgozó üzem.",
+            "ro": "Fosta fabrică de prelucrare a peștelui.",
+            "en": "Former fish processing factory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine anspruchsvolle Biketour führt Sie hinauf zum Berg Hum, dem Dach der Insel. Nach der Abfahrt besuchen Sie das historische Nikolaus-Kloster und entspannen am einzigartigen Kamenice-Strand. Die Tour endet mit einem Blick auf das industrielle Erbe der Fischerei im Zadruga-Gebäude.",
+        "hu": "Egy kihívásokkal teli biciklitúra a Hum-hegyre, a sziget tetejére vezet. A leereszkedés után látogassa meg a történelmi Szent Miklós kolostort, majd pihenjen az egyedülálló Kamenice strandon. A túra a Zadruga épületnél, a halászat ipari örökségének megtekintésével zárul.",
+        "ro": "O tură provocatoare cu bicicleta vă duce pe muntele Hum, acoperișul insulei. După coborâre, vizitați mănăstirea istorică Sf. Nicolae și relaxați-vă pe plaja unică Kamenice. Tura se încheie cu o privire asupra moștenirii industriale a pescuitului la clădirea Zadruga.",
+        "en": "A challenging bike tour takes you up Mount Hum, the roof of the island. After the descent, visit the historical St. Nicholas Monastery and relax at the unique Kamenice Beach. The tour ends with a look at the industrial heritage of fishing at the Zadruga building."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jastožera",
+            "tip": "Essen über dem Meer in einem Hummerkasten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jastožera",
+            "tip": "Vacsora a tenger felett egy homárketrecben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jastožera",
+            "tip": "Masă deasupra mării într-un fost adăpost de homari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jastožera",
+            "tip": "Dining above the sea in a former lobster pen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hum Gipfel",
+            "tip": "Blick bis nach Italien bei klarer Sicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hum csúcs",
+            "tip": "Tiszta időben ellátni Olaszországig.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Hum",
+            "tip": "Vedere până în Italia pe timp senin.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hum Peak",
+            "tip": "View as far as Italy on clear days.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salzsardinen",
+            "tip": "Traditionell eingelegt, ein tolles Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sós szardínia",
+            "tip": "Tradicionálisan tartósított, remek ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine sărate",
+            "tip": "Conservate tradițional, un cadou excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salted Sardines",
+            "tip": "Traditionally preserved, a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Hum-Anstieg ist lang, ein E-Bike wird empfohlen.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Der Kamenice-Strand bietet am Nachmittag natürlichen Schatten."
+        ],
+        "hu": [
+          "A Hum emelkedője hosszú, elektromos bicikli ajánlott.",
+          "Ellenőrizze a fékeket a leereszkedés előtt.",
+          "A Kamenice strand délután természetes árnyékot kínál."
+        ],
+        "ro": [
+          "Urcarea pe Hum este lungă, se recomandă bicicleta electrică.",
+          "Verificați frânele înainte de coborâre.",
+          "Plaja Kamenice oferă umbră naturală după-amiaza."
+        ],
+        "en": [
+          "The Hum climb is long, an e-bike is recommended.",
+          "Check your brakes before the descent.",
+          "Kamenice Beach offers natural shade in the afternoon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Komiža Hafen",
+            "hu": "Komiža kikötő",
+            "ro": "Portul Komiža",
+            "en": "Komiža Harbor"
+          },
+          "coords": [
+            16.0883,
+            43.0436
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie früh für die Bootstour zur Blauen Grotte.",
+            "hu": "Kezdjen korán a Kék barlanghoz induló hajótúrához.",
+            "ro": "Începeți devreme pentru turul cu barca la Grota Albastră.",
+            "en": "Start early for the boat tour to the Blue Cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Grotte (Biševo)",
+            "hu": "Kék barlang (Biševo)",
+            "ro": "Grota Albastră (Biševo)",
+            "en": "Blue Cave (Biševo)"
+          },
+          "coords": [
+            16.0125,
+            42.9805
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Magisches blaues Licht zwischen 11 und 12 Uhr.",
+            "hu": "Varázslatos kék fény délelőtt 11 és 12 között.",
+            "ro": "Lumină albastră magică între orele 11 și 12.",
+            "en": "Magical blue light between 11 AM and 12 PM."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Hum",
+            "hu": "Hum-hegy",
+            "ro": "Muntele Hum",
+            "en": "Mount Hum"
+          },
+          "coords": [
+            16.1155,
+            43.0335
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto erreichbar.",
+            "hu": "Autóval kényelmesen elérhető.",
+            "ro": "Accesibil confortabil cu mașina.",
+            "en": "Comfortably accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Gospa Gusarica",
+            "hu": "Gospa Gusarica templom",
+            "ro": "Biserica Gospa Gusarica",
+            "en": "Church of Gospa Gusarica"
+          },
+          "coords": [
+            16.0835,
+            43.0465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang der Bucht.",
+            "hu": "Parkoljon az öböl bejáratánál.",
+            "ro": "Parcați la intrarea în golf.",
+            "en": "Park at the entrance of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva von Komiža",
+            "hu": "Komiža Riva",
+            "ro": "Riva din Komiža",
+            "en": "Riva of Komiža"
+          },
+          "coords": [
+            16.0883,
+            43.0436
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag entspannt ausklingen.",
+            "hu": "Zárja a napot nyugodt pihenéssel.",
+            "ro": "Încheiați ziua într-un mod relaxat.",
+            "en": "Finish the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für eine Kombination aus Natur und Kultur. Starten Sie mit einer Bootstour ab Komiža zur berühmten Blauen Grotte auf Biševo. Nach der Rückkehr fahren Sie zum Hum-Gipfel für das Panorama. Den Nachmittag verbringen Sie entspannt bei der Gospa Gusarica und an der Riva.",
+        "hu": "Használja az autót a természet és a kultúra kombinálásához. Kezdje egy hajótúrával Komižából a híres Kék barlanghoz Biševón. Visszatérés után autózzon a Hum-csúcsra a panorámáért. A délutánt töltse pihenéssel a Gospa Gusarica templomnál és a Riván.",
+        "ro": "Folosiți mașina pentru o combinație de natură și cultură. Începeți cu un tur cu barca din Komiža spre celebra Grotă Albastră de pe Biševo. După întoarcere, conduceți pe vârful Hum pentru panoramă. Petreceți după-amiaza relaxându-vă la Gospa Gusarica și pe Riva.",
+        "en": "Use a car for a combination of nature and culture. Start with a boat tour from Komiža to the famous Blue Cave on Biševo. After returning, drive to the Hum summit for the panorama. Spend the afternoon relaxing at Gospa Gusarica and on the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Fabrika",
+            "tip": "Kreative Küche in maritimem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabrika étterem",
+            "tip": "Kreatív konyha tengeri környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Fabrika",
+            "tip": "Bucătărie creativă într-un ambient maritim."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabrika Restaurant",
+            "tip": "Creative cuisine in a maritime atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle auf dem Hum",
+            "tip": "Stiller Rückzugsort über der Insel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna a Humon",
+            "tip": "Csendes menedék a sziget felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela de pe Hum",
+            "tip": "Refugiu liniștit deasupra insulei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel on Mount Hum",
+            "tip": "Quiet retreat above the island.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Travarica",
+            "tip": "Kräuterschnaps mit Inselflora."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Travarica",
+            "tip": "Gyógynövényes párlat szigeti növényekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Travarica",
+            "tip": "Rachiu de ierburi cu flora insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Travarica",
+            "tip": "Herbal brandy with island flora."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie das Boot zur Blauen Grotte im Voraus.",
+          "Parken in Komiža ist kostenpflichtig und knapp.",
+          "Die Straße zum Hum ist gut asphaltiert."
+        ],
+        "hu": [
+          "Foglalja le előre a hajót a Kék barlanghoz.",
+          "Komižán a parkolás fizetős és kevés a hely.",
+          "A Humra vezető út jól aszfaltozott."
+        ],
+        "ro": [
+          "Rezervați din timp barca pentru Grota Albastră.",
+          "Parcarea în Komiža este cu plată și locurile sunt puține.",
+          "Drumul spre Hum este bine asfaltat."
+        ],
+        "en": [
+          "Book the boat to the Blue Cave in advance.",
+          "Parking in Komiža is paid and spaces are limited.",
+          "The road to Mount Hum is well-paved."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Komiža",
+            "hu": "Komiža buszmegálló",
+            "ro": "Stația de autobuz Komiža",
+            "en": "Komiža Bus Stop"
+          },
+          "coords": [
+            16.0895,
+            43.0435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunftsort des Busses aus Vis Stadt.",
+            "hu": "A Vis városából érkező busz érkezési helye.",
+            "ro": "Locul de sosire al autobuzului din orașul Vis.",
+            "en": "Arrival point of the bus from Vis town."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei torony",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            16.0881,
+            43.0442
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "Történelemkedvelőknek kötelező.",
+            "ro": "Obligatoriu pentru pasionații de istorie.",
+            "en": "A must for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva von Komiža",
+            "hu": "Komiža Riva",
+            "ro": "Riva din Komiža",
+            "en": "Riva of Komiža"
+          },
+          "coords": [
+            16.0883,
+            43.0436
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anleger für Ausflugsboote.",
+            "hu": "Kirándulóhajók központi mólója.",
+            "ro": "Debarcader central pentru bărcile de excursie.",
+            "en": "Central pier for excursion boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Gusarica",
+            "hu": "Gusarica strand",
+            "ro": "Plaja Gusarica",
+            "en": "Gusarica Beach"
+          },
+          "coords": [
+            16.0825,
+            43.0468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Zentrum erreichbar.",
+            "hu": "Gyalogosan könnyen elérhető a központból.",
+            "ro": "Accesibil ușor pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der sieben Palmen",
+            "hu": "Hét pálma tere",
+            "ro": "Piața celor șapte palmi",
+            "en": "Square of Seven Palms"
+          },
+          "coords": [
+            16.0885,
+            43.044
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle für die Rückfahrt.",
+            "hu": "A buszmegálló közelében a visszautazáshoz.",
+            "ro": "În apropierea stației de autobuz pentru întoarcere.",
+            "en": "Near the bus stop for the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Komiža bequem mit dem Inselbus von Vis. Das kompakte Ortszentrum ermöglicht es, die wichtigsten Sights wie den venezianischen Turm und die Riva stressfrei zu besuchen. Ein entspannter Aufenthalt am Gusarica-Strand rundet den Ausflug ab, bevor der Bus Sie zurückbringt.",
+        "hu": "Fedezze fel Komižát kényelmesen a Visről érkező szigeti busszal. A kompakt városközpont lehetővé teszi a legfontosabb látnivalók, mint a velencei torony és a Riva stresszmentes megtekintését. Egy nyugodt pihenés a Gusarica strandon zárja az utazást, mielőtt a busz visszaviszi.",
+        "ro": "Descoperiți Komiža confortabil cu autobuzul insular din Vis. Centrul compact al localității permite vizitarea celor mai importante obiective, precum turnul venețian și Riva, fără stres. O ședere relaxată pe plaja Gusarica completează excursia înainte ca autobuzul să vă ducă înapoi.",
+        "en": "Discover Komiža comfortably by taking the island bus from Vis. The compact town center allows for a stress-free visit to the main sights like the Venetian Tower and the Riva. A relaxed stay at Gusarica Beach completes the trip before the bus takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria Bella",
+            "tip": "Bestes Eis der Stadt direkt an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bella fagylaltozó",
+            "tip": "A város legjobb fagyija közvetlenül a Riván."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria Bella",
+            "tip": "Cea mai bună înghețată din oraș chiar pe Riva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria Bella",
+            "tip": "Best ice cream in town right on the Riva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hintergassen von Komiža",
+            "tip": "Verlaufen Sie sich in den ruhigen Steingassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komiža hátsó utcái",
+            "tip": "Vesszen el a csendes kőutcákban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțele din spatele portului",
+            "tip": "Pierdeți-vă pe străduțele liniștite de piatră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Back Alleys of Komiža",
+            "tip": "Get lost in the quiet stone alleys.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Würziger Honig mit Rosmarin und Salbei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Fűszeres méz rozmaringgal és zsályával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere aromată cu rozmarin și salvie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Spicy honey with rosemary and sage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Busfahrplan ist auf die Ankunft der Fähren in Vis abgestimmt.",
+          "Die Haltestelle in Komiža ist nur 2 Minuten von der Riva entfernt.",
+          "Boote zur Blauen Grotte starten alle 30-60 Minuten."
+        ],
+        "hu": [
+          "A buszmenetrend a Vis-i kompok érkezéséhez igazodik.",
+          "A Komiža-i megálló mindössze 2 percre van a Rivától.",
+          "A Kék barlanghoz induló hajók 30-60 percenként járnak."
+        ],
+        "ro": [
+          "Orarul autobuzelor este corelat cu sosirea feriboturilor în Vis.",
+          "Stația din Komiža este la doar 2 minute de Riva.",
+          "Bărcile spre Grota Albastră pleacă la fiecare 30-60 de minute."
+        ],
+        "en": [
+          "The bus schedule is coordinated with ferry arrivals in Vis.",
+          "The stop in Komiža is only 2 minutes from the Riva.",
+          "Boats to the Blue Cave depart every 30-60 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Komiža",
+    "region": "HR-17",
+    "coords": [
+      16.0883,
+      43.0436
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en/",
+    "transit_app": "https://www.getbybus.com/hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-komiza.hr/",
+    "tourism_office": "https://www.tz-komiza.hr/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Auf Vis spricht man Kroatisch; Deutsch und Englisch in Restaurants und Pensionen verbreitet, abseits des Hafens kaum.",
+      "hu": "Vis szigetén horvátul beszélnek; éttermekben és panziókban gyakori az angol, kikötőn kívül kevés idegen nyelvtudás.",
+      "ro": "Pe insula Vis se vorbește croată; engleza este uzuală în restaurante și pensiuni, în afara portului mai rar.",
+      "en": "Croatian is the local language; English is common in restaurants and guesthouses, less so outside the harbor."
+    },
+    "best_time_to_visit": {
+      "de": "Mitte Juni bis Mitte September für Baden und Bootsausflüge; Juli und August sehr voll, Mai und Oktober ruhig aber kühler.",
+      "hu": "Június közepétől szeptember közepéig ideális fürdéshez és hajókirándulásokhoz; július, augusztus zsúfolt, május és október nyugodt.",
+      "ro": "De la mijlocul lui iunie până la mijlocul lui septembrie pentru plajă și excursii cu barca; iulie, august aglomerate, mai și octombrie liniștite.",
+      "en": "Mid-June to mid-September is best for swimming and boat trips; July and August are crowded, May and October quiet but cooler."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicheres Fischerdorf; Vorsicht auf rutschigen Hafenrampen und beim Schwimmen in der offenen Bucht.",
+      "hu": "Nagyon biztonságos halászfalu; figyeljünk a csúszós kikötői rámpákra és a nyílt öbölbeli úszásra.",
+      "ro": "Sat pescăresc foarte sigur; atenție la rampele alunecoase din port și la înotul în golful deschis.",
+      "en": "Very safe fishing village; watch out for slippery harbor ramps and currents when swimming in the open bay."
+    }
+  }
+}

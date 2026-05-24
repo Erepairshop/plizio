@@ -1,0 +1,990 @@
+{
+  "city_id": "tucepi",
+  "anchor": {
+    "name": "Marina Tučepi",
+    "coords": [
+      17.056,
+      43.272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Tučepi",
+          "coords": [
+            17.056,
+            43.272
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das morgendliche Treiben der Fischer.",
+            "hu": "Figyelje meg a halászok reggeli nyüzsgését.",
+            "ro": "Urmăriți agitația matinală a pescarilor.",
+            "en": "Watch the morning bustle of the fishermen."
+          }
+        },
+        {
+          "name": "Barock-Sommerhaus Ivanišević",
+          "coords": [
+            17.055,
+            43.271
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein elegantes Beispiel dalmatinischer Barockarchitektur.",
+            "hu": "A dalmát barokk építészet elegáns példája.",
+            "ro": "Un exemplu elegant de arhitectură barocă dalmată.",
+            "en": "An elegant example of Dalmatian Baroque architecture."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Antonius von Padua",
+          "coords": [
+            17.058,
+            43.273
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Schönheit des Altars.",
+            "hu": "Csodálja meg az oltár egyszerű szépségét.",
+            "ro": "Admirați frumusețea simplă a altarului.",
+            "en": "Admire the simple beauty of the altar."
+          }
+        },
+        {
+          "name": "Kirche Mariä Geburt",
+          "coords": [
+            17.054,
+            43.27
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine kleine Kirche mit besonderer Atmosphäre.",
+            "hu": "Kicsiny templom különleges atmoszférával.",
+            "ro": "O biserică mică cu o atmosferă deosebită.",
+            "en": "A small church with a special atmosphere."
+          }
+        },
+        {
+          "name": "Strand von Tučepi",
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Einer der längsten Strände der Riviera.",
+            "hu": "A riviéra egyik leghosszabb strandja.",
+            "ro": "Una dintre cele mai lungi plaje de pe rivieră.",
+            "en": "One of the longest beaches on the Riviera."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Georg",
+          "coords": [
+            17.065,
+            43.262
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt am Küstenpfad gelegen.",
+            "hu": "Közvetlenül a tengerparti ösvény mellett.",
+            "ro": "Situată direct pe poteca de coastă.",
+            "en": "Located directly on the coastal path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Marina Tučepi, wo die Yachten sanft im Wasser schaukeln. Ein kurzer Spaziergang führt Sie zum barocken Sommerhaus Ivanišević, einem Zeugnis vergangener Eleganz.\n\nMittags besuchen Sie die religiösen Zentren des Ortes. Die Kirchen des Hl. Antonius und Mariä Geburt bieten kühle Rückzugsorte und architektonische Details, die die Geschichte des Dorfes erzählen.\n\nDer Nachmittag gehört dem berühmten, kilometerlangen Kiesstrand. Unter schattigen Pinien können Sie das kristallklare Wasser genießen und vollkommen entspannen.\n\nZum Abschluss spazieren Sie am Meer entlang zur Kirche des Hl. Georg. Die sanfte Meeresbrise und das goldene Licht des späten Nachmittags machen diesen Weg zu einem unvergesslichen Erlebnis.",
+        "hu": "Kezdje a napot a tučepi kikötőben, ahol a jachtok lágyan ringatóznak a vízen. Egy rövid séta elvezeti az Ivanišević barokk nyaralóhoz, amely a múltbéli elegancia tanúja.\n\nDélben látogassa meg a település vallási központjait. A Páduai Szent Antal és a Szűz Mária születése templomok hűvös menedéket és építészeti részleteket kínálnak.\n\nA délután a híres, kilométer hosszú kavicsos strandé. Az árnyas fenyőfák alatt élvezheti a kristálytiszta vizet és a teljes kikapcsolódást.\n\nBefejezésül sétáljon a tengerpart mentén a Szent György-templomhoz. A lágy tengeri szellő és a késő délutáni aranyló fények felejthetetlenné teszik ezt az utat.",
+        "ro": "Începeți ziua în marina din Tučepi, unde iahturile se leagănă ușor pe apă. O scurtă plimbare vă duce la reședința barocă Ivanišević, o dovadă a eleganței de altădată.\n\nLa prânz, vizitați centrele religioase ale localității. Bisericile Sf. Anton și Nașterea Maicii Domnului oferă refugii răcoroase și detalii arhitecturale fascinante.\n\nDupă-amiaza aparține celebrei plaje cu pietriș, lungă de kilometri. Sub pinii umbroși, vă puteți bucura de apa cristalina și de relaxare deplină.\n\nLa final, plimbați-vă de-a lungul mării până la Biserica Sf. Gheorghe. Briza ușoară a mării și lumina aurie a după-amiezii fac din acest drum o experiență de neuitat.",
+        "en": "Start your day at the Tučepi Marina, where yachts gently rock in the water. A short walk leads you to the Baroque Ivanišević summer house, a witness to past elegance.\n\nAt noon, visit the religious centers of the village. The churches of St. Anthony and the Nativity of Mary offer cool retreats and architectural details that tell the village's story.\n\nThe afternoon belongs to the famous, kilometer-long pebble beach. Under shaded pine trees, you can enjoy the crystal-clear water and relax completely.\n\nTo conclude, stroll along the sea to the Church of St. George. The gentle sea breeze and the golden light of the late afternoon make this walk an unforgettable experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Ranch",
+            "tip": "Authentische dalmatinische Küche unter Olivenbäumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Ranch",
+            "tip": "Autentikus dalmát konyha olajfák alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Ranch",
+            "tip": "Bucătărie dalmată autentică sub măslini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Ranch",
+            "tip": "Authentic Dalmatian cuisine under olive trees."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenpfad Richtung Podgora",
+            "tip": "Ruhiger Weg mit tollen Ausblicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti ösvény Podgora felé",
+            "tip": "Csendes út remek kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de coastă spre Podgora",
+            "tip": "Drum liniștit cu priveliști grozave.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Path towards Podgora",
+            "tip": "Quiet path with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Promenadenstände",
+            "tip": "Lokaler Lavendel und Olivenölprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány melletti árusok",
+            "tip": "Helyi levendula és olívaolaj termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standurile de pe faleză",
+            "tip": "Lavandă locală și produse din ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Stalls",
+            "tip": "Local lavender and olive oil products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Promenade ist flach und ideal für Senioren und Familien.",
+          "Sonnenschutz ist am langen Strand unverzichtbar."
+        ],
+        "hu": [
+          "A sétány sík, ideális időseknek és családoknak.",
+          "A napsütés ellen védekezzen a hosszú strandon."
+        ],
+        "ro": [
+          "Faleza este plată, ideală pentru seniori și familii.",
+          "Protecția solară este esențială pe plaja lungă."
+        ],
+        "en": [
+          "The promenade is flat and ideal for seniors and families.",
+          "Sun protection is essential on the long beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marina Tučepi",
+          "coords": [
+            17.056,
+            43.272
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie früh, um die Hitze zu vermeiden.",
+            "hu": "Kezdjen korán, hogy elkerülje a hőséget.",
+            "ro": "Începeți devreme pentru a evita căldura.",
+            "en": "Start early to avoid the heat."
+          }
+        },
+        {
+          "name": "Kirche Mariä Geburt",
+          "coords": [
+            17.054,
+            43.27
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ruhiger Stopp direkt am Meer.",
+            "hu": "Csendes megálló közvetlenül a tengernél.",
+            "ro": "Oprire liniștită direct lângă mare.",
+            "en": "Quiet stop right by the sea."
+          }
+        },
+        {
+          "name": "Gornji Tučepi",
+          "coords": [
+            17.06,
+            43.285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber tolle alte Steinhäuser.",
+            "hu": "Meredek emelkedő, de gyönyörű kőházak.",
+            "ro": "Urcare abruptă, dar case de piatră superbe.",
+            "en": "Steep climb, but beautiful stone houses."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Antonius von Padua",
+          "coords": [
+            17.058,
+            43.273
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den kleinen Kirchplatz.",
+            "hu": "Látogassa meg a kis templomteret.",
+            "ro": "Vizitați mica piață a bisericii.",
+            "en": "Visit the small church square."
+          }
+        },
+        {
+          "name": "Barock-Sommerhaus Ivanišević",
+          "coords": [
+            17.055,
+            43.271
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für ein Foto der Fassade.",
+            "hu": "Rövid megálló a homlokzat fotózásához.",
+            "ro": "O scurtă oprire pentru poze la fațadă.",
+            "en": "A short stop for a photo of the facade."
+          }
+        },
+        {
+          "name": "Biokovo Aussichtspunkt",
+          "coords": [
+            17.08,
+            43.28
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Atemberaubende Sicht auf die Adria.",
+            "hu": "Lélegzetelállító kilátás az Adriára.",
+            "ro": "Vedere uluitoare asupra Adriaticii.",
+            "en": "Breathtaking view of the Adriatic."
+          }
+        },
+        {
+          "name": "Strand von Tučepi",
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verdiente Pause im Schatten.",
+            "hu": "Megérdemelt pihenés az árnyékban.",
+            "ro": "O pauză binemeritată la umbră.",
+            "en": "A well-deserved break in the shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour verbindet die Küste mit dem Hinterland. Starten Sie an der Marina und folgen Sie dem Uferweg nach Süden.\n\nDer Anstieg nach Gornji Tučepi erfordert Ausdauer, wird aber mit dem Charme eines alten dalmatinischen Dorfes belohnt. Die Steinhäuser und Weinreben erzählen von der harten Arbeit der Vorfahren.\n\nEin Abstecher zu einem Aussichtspunkt am Fuße des Biokovo bietet spektakuläre Fotomotive. Die Abfahrt zurück zum Meer ist erfrischend und bietet stets den Blick auf das blaue Wasser.\n\nBeenden Sie die Tour am Strand. Es gibt nichts Schöneres, als nach einer anstrengenden Fahrt direkt vom Rad in die Wellen zu springen.",
+        "hu": "Ez a kerékpártúra összeköti a tengerpartot a hátországgal. Induljon a kikötőből és kövesse a parti utat dél felé.\n\nA Gornji Tučepi felé vezető emelkedő kitartást igényel, de kárpótol érte a régi dalmát falu bája. A kőházak és szőlőskertek az ősök kemény munkájáról mesélnek.\n\nEgy kitérő a Biokovo lábánál fekvő kilátóponthoz látványos fotótémákat kínál. A tengerhez való visszagurulás frissítő, és végig a kék vizet láthatjuk.\n\nZárja a túrát a strandon. Nincs is jobb, mint egy megerőltető tekerés után közvetlenül a bringáról a hullámok közé ugrani.",
+        "ro": "Acest tur cu bicicleta combină coasta cu interiorul. Începeți de la marină și urmați drumul de coastă spre sud.\n\nUrcarea spre Gornji Tučepi necesită rezistență, dar este răsplătită cu farmecul unui vechi sat dalmat. Casele de piatră și viile spun povești despre munca grea a strămoșilor.\n\nO abatere către un punct de belvedere la poalele muntelui Biokovo oferă oportunități spectaculoase pentru fotografii. Coborârea înapoi spre mare este revigorantă, cu vedere constantă la apa albastră.\n\nÎncheiați turul pe plajă. Nu este nimic mai frumos decât să sari direct de pe bicicletă în valuri după o plimbare solicitantă.",
+        "en": "This bike tour connects the coast with the hinterland. Start at the marina and follow the coastal path south.\n\nThe climb to Gornji Tučepi requires stamina but is rewarded with the charm of an old Dalmatian village. The stone houses and vineyards tell of the ancestors' hard work.\n\nA detour to a viewpoint at the foot of Biokovo offers spectacular photo opportunities. The descent back to the sea is refreshing and always offers a view of the blue water.\n\nEnd the tour at the beach. There is nothing better than jumping directly from the bike into the waves after a strenuous ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Jeny",
+            "tip": "Gourmet-Erlebnis in Gornji Tučepi mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Jeny",
+            "tip": "Gourmet élmény Gornji Tučepiben kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Jeny",
+            "tip": "Experiență gourmet în Gornji Tučepi cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Jeny",
+            "tip": "Gourmet experience in Gornji Tučepi with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine in Gornji Tučepi",
+            "tip": "Stille zwischen alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornji Tučepi olajligetei",
+            "tip": "Csend az ősi fák között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini din Gornji Tučepi",
+            "tip": "Liniște printre copaci antici.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Groves in Gornji Tučepi",
+            "tip": "Silence among ancient trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofverkauf",
+            "tip": "Suchen Sie nach Schildern für hausgemachten Wein (Vino) und Prošek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi eladás",
+            "tip": "Keresse a házi bort (Vino) és Prošeket hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de la poartă",
+            "tip": "Căutați semnele pentru vin de casă (Vino) și Prošek."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Sales",
+            "tip": "Look for signs for homemade wine (Vino) and Prošek."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihre Bremsen vor der Abfahrt von Gornji Tučepi.",
+          "Ein E-Bike macht den Anstieg deutlich entspannter."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Gornji Tučepi-ből való legurulás előtt.",
+          "Egy e-bike sokkal pihentetőbbé teszi az emelkedőt."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea din Gornji Tučepi.",
+          "O bicicletă electrică face urcarea mult mai relaxantă."
+        ],
+        "en": [
+          "Check your brakes before descending from Gornji Tučepi.",
+          "An e-bike makes the climb much more relaxed."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Gornji Tučepi",
+          "coords": [
+            17.06,
+            43.285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Dorf am frühen Vormittag.",
+            "hu": "Látogassa meg a falut kora délelőtt.",
+            "ro": "Vizitați satul dimineața devreme.",
+            "en": "Visit the village in the early morning."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Antonius von Padua",
+          "coords": [
+            17.058,
+            43.273
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplätze direkt an der Kirche vorhanden.",
+            "hu": "Parkolóhelyek közvetlenül a templomnál.",
+            "ro": "Locuri de parcare disponibile direct la biserică.",
+            "en": "Parking spaces available right at the church."
+          }
+        },
+        {
+          "name": "Marina Tučepi",
+          "coords": [
+            17.056,
+            43.272
+          ],
+          "category": "port",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer gebührenpflichtiger Parkplatz im Zentrum.",
+            "hu": "Nagy fizetős parkoló a központban.",
+            "ro": "Parcare mare cu plată în centru.",
+            "en": "Large paid parking lot in the center."
+          }
+        },
+        {
+          "name": "Barock-Sommerhaus Ivanišević",
+          "coords": [
+            17.055,
+            43.271
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für einen kurzen Kultur-Stopp.",
+            "hu": "Ideális egy rövid kulturális megállóhoz.",
+            "ro": "Ideal pentru o scurtă oprire culturală.",
+            "en": "Ideal for a short cultural stop."
+          }
+        },
+        {
+          "name": "Biokovo Skywalk",
+          "coords": [
+            17.042,
+            43.292
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Tickets müssen im Voraus online gebucht werden.",
+            "hu": "A jegyeket előre, online kell lefoglalni.",
+            "ro": "Biletele trebuie rezervate online în avans.",
+            "en": "Tickets must be booked online in advance."
+          }
+        },
+        {
+          "name": "Kirche Mariä Geburt",
+          "coords": [
+            17.054,
+            43.27
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Besichtigung vor dem Strandbesuch.",
+            "hu": "Tekintse meg a strandolás előtt.",
+            "ro": "Vizitați înainte de a merge la plajă.",
+            "en": "View before going to the beach."
+          }
+        },
+        {
+          "name": "Strand von Tučepi",
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie sich einen Platz unter den Pinien.",
+            "hu": "Keressen helyet a fenyőfák alatt.",
+            "ro": "Găsiți un loc sub pini.",
+            "en": "Find a spot under the pine trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl die Küste als auch die dramatischen Höhen des Biokovo. Beginnen Sie in den friedlichen Gassen von Gornji Tučepi.\n\nNach einem Bummel an der Marina führt Sie die spektakuläre Fahrt hinauf in den Naturpark Biokovo. Der Skywalk bietet Nervenkitzel und einen Blick, der bis nach Italien reichen kann.\n\nAm Nachmittag kehren Sie zurück an die Küste. Besuchen Sie die historischen Kirchen, bevor Sie sich am weiten Strand von der Hitze des Tages abkühlen.\n\nGenießen Sie das Abendessen in einem der exzellenten Restaurants an der Uferpromenade. Die Kombination aus Bergmassiv und Meeresnähe ist hier besonders intensiv spürbar.",
+        "hu": "Autóval felfedezheti a tengerpartot és a Biokovo drámai magaslatait is. Kezdjen Gornji Tučepi békés utcáin.\n\nA kikötői séta után a látványos út felvezet a Biokovo Natúrparkba. A Skywalk izgalmakat és olyan kilátást kínál, amely tiszta időben Olaszországig is elérhet.\n\nDélután térjen vissza a partra. Látogassa meg a történelmi templomokat, mielőtt a széles strandon hűsítené le magát a napi hőség után.\n\nÉlvezze a vacsorát a vízparti sétány egyik kiváló éttermében. A hegyláncok és a tenger közelsége itt különösen intenzíven érezhető.",
+        "ro": "Cu mașina, veți explora atât coasta, cât și înălțimile dramatice ale muntelui Biokovo. Începeți pe străzile liniștite din Gornji Tučepi.\n\nDupă o plimbare prin marină, drumul spectaculos vă duce sus, în Parcul Natural Biokovo. Skywalk oferă adrenalină și o priveliște care poate ajunge până în Italia.\n\nDupă-amiaza, întoarceți-vă la coastă. Vizitați bisericile istorice înainte de a vă răcori pe plaja întinsă după căldura zilei.\n\nSavurați cina la unul dintre restaurantele excelente de pe faleză. Combinația dintre masivul muntos și apropierea mării este resimțită aici deosebit de intens.",
+        "en": "By car, you explore both the coast and the dramatic heights of Biokovo. Start in the peaceful streets of Gornji Tučepi.\n\nAfter a stroll at the marina, the spectacular drive takes you up into the Biokovo Nature Park. The Skywalk offers thrills and a view that can reach as far as Italy.\n\nIn the afternoon, return to the coast. Visit the historical churches before cooling off from the day's heat on the wide beach.\n\nEnjoy dinner at one of the excellent restaurants on the waterfront. The combination of the mountain range and the proximity of the sea is particularly intense here."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Freyja",
+            "tip": "Moderne Interpretation traditioneller dalmatinischer Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Freyja",
+            "tip": "A hagyományos dalmát ételek modern interpretációja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Freyja",
+            "tip": "Interpretare modernă a mâncărurilor tradiționale dalmate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freyja",
+            "tip": "Modern interpretation of traditional Dalmatian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Sveti Jure",
+            "tip": "Der höchste Punkt für absolute Stille.",
+            "emoji": "⛰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sveti Jure kilátópont",
+            "tip": "A legmagasabb pont a teljes csendhez.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Sveti Jure",
+            "tip": "Cel mai înalt punct pentru liniște deplină.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Jure Viewpoint",
+            "tip": "The highest point for absolute silence.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Naturpark",
+            "tip": "Produkte aus Kräutern des Biokovo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a natúrparkban",
+            "tip": "A Biokovo gyógynövényeiből készült termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în parcul natural",
+            "tip": "Produse din ierburi din Biokovo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop in the Nature Park",
+            "tip": "Products made from herbs of Biokovo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße auf den Biokovo ist schmal und kurvenreich, fahren Sie vorsichtig.",
+          "Buchen Sie den Skywalk-Eintritt Tage im Voraus."
+        ],
+        "hu": [
+          "A Biokovóra vezető út szűk és kanyargós, vezessen óvatosan.",
+          "Foglalja le a Skywalk belépőt napokkal előre."
+        ],
+        "ro": [
+          "Drumul spre Biokovo este îngust și șerpuitor, conduceți cu atenție.",
+          "Rezervați intrarea la Skywalk cu câteva zile înainte."
+        ],
+        "en": [
+          "The road to Biokovo is narrow and winding, drive carefully.",
+          "Book Skywalk entry days in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marina Tučepi",
+          "coords": [
+            17.056,
+            43.272
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle an der Hauptstraße.",
+            "hu": "Központi buszmegálló a főúton.",
+            "ro": "Stație centrală de autobuz pe drumul principal.",
+            "en": "Central bus stop on the main road."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Antonius von Padua",
+          "coords": [
+            17.058,
+            43.273
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "O scurtă plimbare de la autobuz.",
+            "en": "A short walk from the bus."
+          }
+        },
+        {
+          "name": "Barock-Sommerhaus Ivanišević",
+          "coords": [
+            17.055,
+            43.271
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Gebäude ist leicht zu erkennen.",
+            "hu": "Az épület könnyen felismerhető.",
+            "ro": "Clădirea este ușor de recunoscut.",
+            "en": "The building is easy to recognize."
+          }
+        },
+        {
+          "name": "Strand von Tučepi",
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Weg entlang der Küste.",
+            "hu": "Használja a tengerparti sétányt.",
+            "ro": "Folosiți faleza de pe litoral.",
+            "en": "Use the seaside promenade."
+          }
+        },
+        {
+          "name": "Kirche Mariä Geburt",
+          "coords": [
+            17.054,
+            43.27
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für einen ruhigen Abschluss.",
+            "hu": "Ideális egy csendes befejezéshez.",
+            "ro": "Ideal pentru o încheiere liniștită.",
+            "en": "Ideal for a quiet conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tučepi lässt sich gut mit Bussen erkunden, die Makarska mit den südlichen Orten verbinden. Starten Sie an der Marina, dem lebendigen Herz des Ortes.\n\nBesuchen Sie die architektonischen Schätze wie das Sommerhaus Ivanišević und die historischen Kirchen. Die Haltestellen liegen meist oberhalb des Ortes an der Küstenstraße.\n\nDen Großteil des Tages verbringen Sie am weitläufigen Strand. Die flache Promenade macht das Erreichen der verschiedenen Strandabschnitte zu Fuß sehr angenehm.\n\nLassen Sie den Tag in einem Café an der Promenade ausklingen, bevor Sie den Bus zurück nehmen. Eine entspannte Art, Tučepi ohne Auto zu erleben.",
+        "hu": "Tučepi jól felfedezhető buszokkal, amelyek Makarskát kötik össze a déli településekkel. Kezdjen a kikötőben, a falu élénk szívében.\n\nLátogassa meg az olyan építészeti kincseket, mint az Ivanišević nyaraló és a történelmi templomok. A megállók többnyire a falu felett, a part menti úton találhatók.\n\nA nap nagy részét töltse a kiterjedt strandon. A sík sétány nagyon kellemessé teszi a különböző strandszakaszok gyalogos megközelítését.\n\nZárja a napot egy kávézóban a sétányon, mielőtt visszabuszolna. Pihentető módja Tučepi felfedezésének autó nélkül.",
+        "ro": "Tučepi poate fi explorat cu ușurință folosind autobuzele care leagă Makarska de localitățile din sud. Începeți de la marină, inima vibrantă a localității.\n\nVizitați comorile arhitecturale precum reședința Ivanišević și bisericile istorice. Stațiile sunt situate în mare parte deasupra satului, pe drumul de coastă.\n\nPetreceți cea mai mare parte a zilei pe plaja întinsă. Faleza plată face ca accesul la diversele secțiuni de plajă pe jos să fie foarte plăcut.\n\nÎncheiați ziua la o cafenea de pe faleză înainte de a lua autobuzul înapoi. O modalitate relaxantă de a experimenta Tučepi fără mașină.",
+        "en": "Tučepi can be easily explored with buses that connect Makarska with the southern villages. Start at the marina, the lively heart of the place.\n\nVisit architectural treasures such as the Ivanišević summer house and the historical churches. The stops are mostly located above the village on the coastal road.\n\nSpend most of the day on the extensive beach. The flat promenade makes reaching the various beach sections on foot very pleasant.\n\nEnd the day at a café on the promenade before taking the bus back. A relaxed way to experience Tučepi without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Schnelle Gerichte und Eis direkt an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Gyors ételek és fagylalt közvetlenül a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Mâncăruri rapide și înghețată direct pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Quick meals and ice cream right on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südliches Ende des Strandes",
+            "tip": "Weniger Trubel und viel Schatten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A strand déli vége",
+            "tip": "Kisebb tömeg és sok árnyék.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul sudic al plajei",
+            "tip": "Mai puțină agitație și multă umbră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern end of the beach",
+            "tip": "Less bustle and plenty of shade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kioske",
+            "tip": "Postkarten und handgemachte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bódék",
+            "tip": "Képeslapok és kézzel készített ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri locale",
+            "tip": "Vederi și suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Kiosks",
+            "tip": "Postcards and handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über den Busfahrplan (Promet Makarska).",
+          "Halten Sie Kleingeld für das Busticket bereit."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről (Promet Makarska).",
+          "Legyen Önnél aprópénz a buszjegyhez."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarul autobuzelor (Promet Makarska).",
+          "Aveți pregătiți bani mărunți pentru bilet."
+        ],
+        "en": [
+          "Check the bus schedule in advance (Promet Makarska).",
+          "Have small change ready for the bus ticket."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-17",
+    "coords": [
+      17.0561,
+      43.2728
+    ],
+    "transit_official": {
+      "name": "Promet Makarska (urban+suburban buses)",
+      "url": "https://promet-makarska.hr/",
+      "verified": 200
+    },
+    "transit_app": {
+      "name": "Arriva Croatia (intercity buses)",
+      "url": "https://www.arriva.com.hr/",
+      "verified": 200
+    },
+    "bike_share": null,
+    "city_card": null,
+    "events": {
+      "name": "Ulaznice.hr",
+      "url": "https://www.ulaznice.hr/",
+      "verified": 200
+    },
+    "tourism_office": {
+      "name": "Općina Tučepi (official municipal site)",
+      "url": "https://www.tucepi.hr/",
+      "verified": 200,
+      "alt": "https://www.makarska-info.hr/"
+    },
+    "webcam": {
+      "name": "Skyline Webcams Tučepi",
+      "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/tucepi.html",
+      "verified": 200
+    },
+    "restaurants_booking": {
+      "name": "Google Maps (Tučepi restaurants)",
+      "url": "https://www.google.com/maps/search/restaurants+Tucepi",
+      "verified": 200
+    },
+    "museum_tickets": null,
+    "parking_real_time": {
+      "name": "HAK traffic info (Makarska riviera)",
+      "url": "https://www.hak.hr/",
+      "verified": 200
+    },
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; an der Makarska-Riviera spricht das Personal Deutsch, Englisch, Tschechisch und Polnisch. 'Molim' = Bitte.",
+      "hu": "A horvát a hivatalos nyelv; a Makarska-rivierán a személyzet beszél németül, angolul, csehül és lengyelül. 'Molim' = kérem.",
+      "ro": "Croata este limba oficială; pe riviera Makarska personalul vorbește germană, engleză, cehă și poloneză. 'Molim' = vă rog.",
+      "en": "Croatian is official; on the Makarska riviera staff speak German, English, Czech and Polish. 'Molim' = please."
+    },
+    "best_time_to_visit": {
+      "de": "Ende Mai bis Mitte September; Wassertemperatur über 22 °C von Juni bis Oktober, Juli/August voll mit Familien.",
+      "hu": "Május végétől szeptember közepéig; a víz 22 °C feletti június és október között, július/augusztus tele családokkal.",
+      "ro": "De la sfârșitul lunii mai până la mijlocul lui septembrie; apa peste 22 °C din iunie până în octombrie, iulie/august plin de familii.",
+      "en": "Late May to mid-September; water above 22 °C June-October, July/August packed with families."
+    },
+    "neighborhood_warnings": {
+      "de": "Bura-Fallwinde vom Biokovo-Gebirge im Winter; im Sommer schmale Magistrale stark befahren, Parkplätze knapp.",
+      "hu": "A Biokovo-hegységről lecsapó bura szél télen; nyáron a keskeny parti főút (D8) zsúfolt, parkoló kevés.",
+      "ro": "Vânt bura coboară din munții Biokovo iarna; vara, magistrala îngustă (D8) e aglomerată, locuri de parcare puține.",
+      "en": "Bura katabatic winds from Biokovo mountains in winter; in summer the narrow D8 coastal road is congested and parking is scarce."
+    }
+  }
+}

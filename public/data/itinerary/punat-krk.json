@@ -1,0 +1,1131 @@
+{
+  "city_id": "punat-krk",
+  "anchor": {
+    "name": "Punat (Krk)",
+    "coords": [
+      14.6258,
+      45.0211
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stari Toš (Alte Ölpresse)",
+            "hu": "Stari Toš (Régi olajprés)",
+            "ro": "Stari Toš (Vechea presă de ulei)",
+            "en": "Stari Toš (Old Olive Press)"
+          },
+          "coords": [
+            14.6273,
+            45.0215
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie die hölzernen Mechanismen der Olivenölherstellung.",
+            "hu": "Tekintse meg az olívaolaj-készítés régi fagerendás gépeit.",
+            "ro": "Vedeți mecanismele din lemn ale producției de ulei de măsline.",
+            "en": "See the wooden mechanisms of traditional olive oil production."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Verkündigung",
+            "hu": "Gyümölcsoltó Boldogasszony plébániatemplom",
+            "ro": "Biserica parohială Buna Vestire",
+            "en": "Parish Church of the Annunciation"
+          },
+          "coords": [
+            14.6281,
+            45.021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Barocke Altäre und eine reich verzierte Decke.",
+            "hu": "Barokk oltárok és gazdagon díszített mennyezet.",
+            "ro": "Altare baroce și un tavan bogat decorat.",
+            "en": "Baroque altars and a richly decorated ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Punat",
+            "hu": "Punat tengerparti sétánya",
+            "ro": "Promenada din Punat",
+            "en": "Punat Waterfront Promenade"
+          },
+          "coords": [
+            14.626,
+            45.022
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für den Bootstransfer zur Insel.",
+            "hu": "A szigeti hajójáratok központi indulási helye.",
+            "ro": "Punctul central de plecare pentru bărcile spre insulă.",
+            "en": "Central meeting point for boat transfers to the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Košljun",
+            "hu": "Košljun-sziget",
+            "ro": "Insula Košljun",
+            "en": "Košljun Island"
+          },
+          "coords": [
+            14.615,
+            45.026
+          ],
+          "category": "island",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Franziskanerkloster und das Museum.",
+            "hu": "Látogasson el a ferences kolostorba és a múzeumba.",
+            "ro": "Vizitați mănăstirea franciscană și muzeul.",
+            "en": "Visit the Franciscan monastery and the ethnographic museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Punat",
+            "hu": "Punat Marina",
+            "ro": "Marina Punat",
+            "en": "Marina Punat"
+          },
+          "coords": [
+            14.628,
+            45.028
+          ],
+          "category": "port",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einer der ältesten und größten Jachthäfen der Adria.",
+            "hu": "Az Adria egyik legrégebbi és legnagyobb jachtkikötője.",
+            "ro": "Unul dintre cele mai vechi și mari porturi din Adriatică.",
+            "en": "One of the oldest and largest marinas in the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Buka",
+            "hu": "Buka strand",
+            "ro": "Plaja Buka",
+            "en": "Buka Beach"
+          },
+          "coords": [
+            14.63,
+            45.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 135,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beliebter Kieselstrand mit Schattenplätzen unter Pinien.",
+            "hu": "Népszerű kavicsos strand fenyőfák alatti árnyékos helyekkel.",
+            "ro": "Plajă de pietriș populară cu locuri umbrite sub pini.",
+            "en": "Popular pebble beach with shaded spots under pine trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört der Geschichte von Punat mit der Besichtigung der alten Ölpresse und der Pfarrkirche. Mittags bringt Sie ein Boot zur Klosterinsel Košljun, einer spirituellen Oase in der Bucht. Nachmittags erkunden Sie die beeindruckende Marina und die Uferpromenade. Den Tag beschließen Sie entspannt am glasklaren Wasser des Buka-Strandes.",
+        "hu": "A délelőtt Punat történelméről szól: megtekintjük a régi olajprést és a plébániatemplomot. Délben kishajóval látogatunk el a Košljun-szigetre, amely spirituális oázis az öbölben. Délután a hatalmas jachtkikötőt és a tengerparti sétányt fedezzük fel. A napot a Buka strand kristálytiszta vizében mártózva zárjuk.",
+        "ro": "Dimineața este dedicată istoriei orașului Punat, cu vizitarea vechii prese de ulei și a bisericii parohiale. La prânz, o barcă vă poartă spre insula mănăstirii Košljun, o oază spirituală în golf. După-amiaza explorați marina impresionantă și faleza. Încheiați ziua relaxându-vă lângă apa limpede a plajei Buka.",
+        "en": "Start your morning with Punat's history at the old olive press and the parish church. At midday, take a boat to Košljun Island, a spiritual oasis in the bay. Spend the afternoon exploring the impressive marina and the waterfront promenade. Finish your day relaxing by the crystal-clear waters of Buka Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šurlice mit Scampi",
+            "tip": "Traditionelle handgedrehte Nudeln im Restoran Sidro."
+          },
+          {
+            "name": "Krk-Lamm",
+            "tip": "Lokale Fleischspezialität in der Konoba Scuza."
+          },
+          {
+            "name": "Olivenöl aus Punat",
+            "tip": "Direktverkauf in der Uljara am Ortsrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Surlice rákkal",
+            "tip": "Hagyományos kézzel sodort tészta a Restoran Sidroban."
+          },
+          {
+            "name": "Krk-szigeti bárány",
+            "tip": "Helyi hússpecialitás a Konoba Scuza étteremben."
+          },
+          {
+            "name": "Punati olívaolaj",
+            "tip": "Közvetlen vásárlás az Uljara feldolgozóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šurlice cu creveți",
+            "tip": "Paste tradiționale rulate manual la Restoran Sidro."
+          },
+          {
+            "name": "Miel de Krk",
+            "tip": "Specialitate locală din carne la Konoba Scuza."
+          },
+          {
+            "name": "Ulei de măsline de Punat",
+            "tip": "Vânzare directă la Uljara, la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šurlice with scampi",
+            "tip": "Traditional hand-rolled pasta at Restoran Sidro."
+          },
+          {
+            "name": "Krk Lamb",
+            "tip": "Local meat specialty at Konoba Scuza."
+          },
+          {
+            "name": "Punat Olive Oil",
+            "tip": "Direct sales at the Uljara on the outskirts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten Košljun",
+            "tip": "Stille unter jahrhundertealten Eichen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olivenhaine im Hinterland",
+            "tip": "Ruhiger Spaziergang abseits der Küste.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Südliche Felsbuchten",
+            "tip": "Einsame Plätze hinter dem Buka-Strand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Košljun kolostorkert",
+            "tip": "Csend az évszázados tölgyfák alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Háttérországi olajfaligetek",
+            "tip": "Nyugodt séta a parttól távolabb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Déli sziklás öblök",
+            "tip": "Elszigetelt helyek a Buka strand után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii Košljun",
+            "tip": "Liniște sub stejari seculari.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Livezile de măslini",
+            "tip": "Plimbare liniștită departe de coastă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Golfurile stâncoase din sud",
+            "tip": "Locuri izolate dincolo de plaja Buka.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Košljun Monastery Garden",
+            "tip": "Silence under centuries-old oak trees.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inland Olive Groves",
+            "tip": "Quiet walk away from the coast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Southern Rocky Coves",
+            "tip": "Secluded spots past Buka Beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uljara Punat",
+            "tip": "Frisch gepresstes extra natives Olivenöl."
+          },
+          {
+            "name": "Souvenirladen Košljun",
+            "tip": "Handgefertigte religiöse Kunst und Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uljara Punat",
+            "tip": "Frissen préselt extra szűz olívaolaj."
+          },
+          {
+            "name": "Košljun ajándékbolt",
+            "tip": "Kézzel készült vallási tárgyak és gyógynövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uljara Punat",
+            "tip": "Ulei de măsline extravirgin proaspăt presat."
+          },
+          {
+            "name": "Magazin de suveniruri Košljun",
+            "tip": "Artă religioasă lucrată manual și ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uljara Punat",
+            "tip": "Freshly pressed extra virgin olive oil."
+          },
+          {
+            "name": "Košljun Souvenir Shop",
+            "tip": "Handmade religious art and local herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Boote nach Košljun verkehren ab 09:00 Uhr regelmäßig.",
+          "Tragen Sie feste Schuhe für die Altstadtgassen.",
+          "Reservieren Sie in der Hochsaison einen Tisch für das Abendessen.",
+          "Das Olivenöl aus Punat gilt als eines der besten Kroatiens."
+        ],
+        "hu": [
+          "A hajók Košljunra 09:00-tól rendszeresen közlekednek.",
+          "Viseljen stabil cipőt az óvárosi sikátorokhoz.",
+          "Főszezonban érdemes vacsoraasztalt foglalni.",
+          "A punati olívaolaj Horvátország egyik legjobbjának számít."
+        ],
+        "ro": [
+          "Bărcile spre Košljun circulă regulat de la ora 09:00.",
+          "Purtați încălțăminte stabilă pentru străzile din orașul vechi.",
+          "Rezervați o masă pentru cină în timpul sezonului de vârf.",
+          "Uleiul de măsline din Punat este considerat unul dintre cele mai bune din Croația."
+        ],
+        "en": [
+          "Boats to Košljun operate regularly from 09:00 AM.",
+          "Wear sturdy shoes for the old town alleys.",
+          "Book a dinner table in advance during high season.",
+          "The olive oil from Punat is considered one of Croatia's best."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Donatus",
+            "hu": "Szent Donát templom",
+            "ro": "Biserica Sfântul Donat",
+            "en": "Church of St. Donatus"
+          },
+          "coords": [
+            14.619,
+            45.04
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bedeutendes Denkmal der altkroatischen Baukunst.",
+            "hu": "Az óhorvát építészet jelentős műemléke.",
+            "ro": "Monument important al arhitecturii croate vechi.",
+            "en": "Significant monument of old Croatian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Toš (Alte Ölpresse)",
+            "hu": "Stari Toš (Régi olajprés)",
+            "ro": "Stari Toš (Vechea presă de ulei)",
+            "en": "Stari Toš (Old Olive Press)"
+          },
+          "coords": [
+            14.6273,
+            45.0215
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Museum direkt im Zentrum von Punat.",
+            "hu": "Múzeum közvetlenül Punat központjában.",
+            "ro": "Muzeu situat chiar în centrul orașului Punat.",
+            "en": "Museum located directly in the center of Punat."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Punat",
+            "hu": "Punat Marina",
+            "ro": "Marina Punat",
+            "en": "Marina Punat"
+          },
+          "coords": [
+            14.628,
+            45.028
+          ],
+          "category": "port",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großzügiges Gelände ideal zum Durchfahren.",
+            "hu": "Tágas terület, ideális az áthaladáshoz.",
+            "ro": "Zonă spațioasă, ideală pentru a fi parcursă cu bicicleta.",
+            "en": "Spacious grounds, ideal for cycling through."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Punat",
+            "hu": "Punat tengerparti sétánya",
+            "ro": "Promenada din Punat",
+            "en": "Punat Waterfront Promenade"
+          },
+          "coords": [
+            14.626,
+            45.022
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Flache Strecke mit Panoramablick auf die Bucht.",
+            "hu": "Lapos szakasz panorámás kilátással az öbölre.",
+            "ro": "Traseu plat cu vedere panoramică asupra golfului.",
+            "en": "Flat section with panoramic views of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Buka",
+            "hu": "Buka strand",
+            "ro": "Plaja Buka",
+            "en": "Buka Beach"
+          },
+          "coords": [
+            14.63,
+            45.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abstellplätze für Fahrräder sind vorhanden.",
+            "hu": "Kerékpártárolók rendelkezésre állnak.",
+            "ro": "Există locuri de parcare pentru biciclete.",
+            "en": "Bicycle parking spaces are available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Norden an der historischen Donatus-Kirche. Danach radeln Sie ins Zentrum zur alten Ölpresse und weiter durch die weitläufige Marina. Genießen Sie die entspannte Fahrt entlang der Uferpromenade mit Blick auf die Insel Košljun. Den Nachmittag verbringen Sie am Buka-Strand, bevor es zurück geht.",
+        "hu": "A biciklitúra északon, a történelmi Szent Donát templomnál indul. Ezután a központba tekerünk a régi olajpréshez, majd a tágas kikötőn keresztül folytatjuk utunkat. Élvezze a tengerparti sétányt a Košljun-szigetre nyíló kilátással. A délutánt a Buka strandon töltjük a visszaindulás előtt.",
+        "ro": "Turul cu bicicleta începe în nord, la biserica istorică Sfântul Donat. Apoi pedalați spre centru pentru a vedea presa veche de ulei și continuați prin marina vastă. Bucurați-vă de drumul relaxat pe faleză, cu vedere spre insula Košljun. După-amiaza o petreceți la plaja Buka înainte de întoarcere.",
+        "en": "Your bike tour starts in the north at the historic St. Donatus Church. Then pedal to the center to see the old olive press and continue through the expansive marina. Enjoy the relaxed ride along the waterfront with views of Košljun Island. Spend the afternoon at Buka Beach before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiskaffee am Hafen",
+            "tip": "Erfrischung in der Caffe Bar Plaza."
+          },
+          {
+            "name": "Pizza Meeresfrüchte",
+            "tip": "Schnelle Stärkung im Bistro Buka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jegeskávé a kikötőben",
+            "tip": "Frissítő a Caffe Bar Plazában."
+          },
+          {
+            "name": "Tenger gyümölcsei pizza",
+            "tip": "Gyors ebéd a Bistro Bukában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea cu gheață în port",
+            "tip": "Răcorire la Caffe Bar Plaza."
+          },
+          {
+            "name": "Pizza cu fructe de mare",
+            "tip": "Gustare rapidă la Bistro Buka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iced Coffee at the Port",
+            "tip": "Refreshment at Caffe Bar Plaza."
+          },
+          {
+            "name": "Seafood Pizza",
+            "tip": "Quick snack at Bistro Buka."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg nach Süden",
+            "tip": "Ruhiger Weg im Schatten der Pinienwälder.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli parti út",
+            "tip": "Csendes útvonal a fenyőerdők árnyékában.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre sud",
+            "tip": "Traseu liniștit la umbra pădurilor de pini.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern Coastal Path",
+            "tip": "Quiet path in the shade of pine forests.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Punat",
+            "tip": "Mieten Sie E-Bikes für längere Touren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicikli kölcsönző",
+            "tip": "Béreljen E-bike-ot a hosszabb túrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "Închiriați e-bike pentru trasee mai lungi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Punat",
+            "tip": "Rent e-bikes for longer tours."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach St. Donatus verläuft teils auf der Hauptstraße.",
+          "Meiden Sie die Mittagshitze bei langen Anstiegen.",
+          "Im Ort gibt es mehrere öffentliche Trinkwasserbrunnen.",
+          "Der Küstenweg südlich von Punat ist besonders verkehrsarm."
+        ],
+        "hu": [
+          "A Szent Donát templomhoz vezető út részben a főúton halad.",
+          "Hosszabb emelkedőknél kerülje a déli hőséget.",
+          "A városban több nyilvános ivóvízkút is található.",
+          "A Punattól délre fekvő parti út különösen forgalommentes."
+        ],
+        "ro": [
+          "Drumul spre Sf. Donat trece parțial pe șoseaua principală.",
+          "Evitați căldura de la prânz pe pantele lungi.",
+          "Există mai multe fântâni publice cu apă potabilă în oraș.",
+          "Drumul de coastă la sud de Punat este foarte liniștit."
+        ],
+        "en": [
+          "The route to St. Donatus is partly on the main road.",
+          "Avoid the midday heat on long climbs.",
+          "There are several public drinking water fountains in town.",
+          "The coastal path south of Punat is particularly low-traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Donatus",
+            "hu": "Szent Donát templom",
+            "ro": "Biserica Sfântul Donat",
+            "en": "Church of St. Donatus"
+          },
+          "coords": [
+            14.619,
+            45.04
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken am Straßenrand direkt vor der Kirche.",
+            "hu": "Parkolás az út szélén közvetlenül a templom előtt.",
+            "ro": "Parcare pe marginea drumului chiar în fața bisericii.",
+            "en": "Parking by the roadside directly in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Toš (Alte Ölpresse)",
+            "hu": "Stari Toš (Régi olajprés)",
+            "ro": "Stari Toš (Vechea presă de ulei)",
+            "en": "Stari Toš (Old Olive Press)"
+          },
+          "coords": [
+            14.6273,
+            45.0215
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Hafen.",
+            "hu": "Használja a nagy kikötői parkolót.",
+            "ro": "Utilizați marea parcare din port.",
+            "en": "Use the large parking lot at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Košljun",
+            "hu": "Košljun-sziget",
+            "ro": "Insula Košljun",
+            "en": "Košljun Island"
+          },
+          "coords": [
+            14.615,
+            45.026
+          ],
+          "category": "island",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Auto bleibt während der Überfahrt im Hafen.",
+            "hu": "Az autó az átkelés alatt a kikötőben marad.",
+            "ro": "Mașina rămâne în port în timpul traversării.",
+            "en": "The car remains in the harbor during the boat trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Stara Baška",
+            "hu": "Stara Baška",
+            "ro": "Stara Baška",
+            "en": "Stara Baška"
+          },
+          "coords": [
+            14.69,
+            44.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahrt entlang der spektakulären Küstenstraße.",
+            "hu": "Autózás a látványos tengerparti úton.",
+            "ro": "Drum de-a lungul șoselei de coastă spectaculoase.",
+            "en": "Drive along the spectacular coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Punat",
+            "hu": "Punat Marina",
+            "ro": "Marina Punat",
+            "en": "Marina Punat"
+          },
+          "coords": [
+            14.628,
+            45.028
+          ],
+          "category": "port",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Yachten zum Abschluss.",
+            "hu": "Zárásként élvezze a jachtokra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea spre iahturi la final.",
+            "en": "Enjoy the view of the yachts as a final stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zuerst die historische Donatus-Kirche und die alte Ölpresse. Nach der Bootsfahrt zur Insel Košljun führt Sie eine Panoramafahrt ins nahegelegene Stara Baška, das für seine Klippen bekannt ist. Den Abend lassen Sie entspannt in der Marina von Punat ausklingen.",
+        "hu": "Autóval először a történelmi Szent Donát templomot és a régi olajprést keressük fel. A Košljun-szigetre tett hajókirándulás után panorámaúton hajtunk el a közeli Stara Baškára, amely szikláiról ismert. Az estét a punati kikötő hangulatában zárjuk.",
+        "ro": "Cu mașina explorați mai întâi biserica istorică Sfântul Donat și presa veche de ulei. După excursia cu barca pe insula Košljun, un drum panoramic vă duce la Stara Baška, renumită pentru stâncile sale. Seara o petreceți relaxat în marina din Punat.",
+        "en": "By car, first explore the historic St. Donatus Church and the old olive press. After the boat trip to Košljun Island, take a scenic drive to nearby Stara Baška, famous for its cliffs. Finish the evening relaxing in Punat Marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischplatte für zwei",
+            "tip": "In der Konoba 9 bofora direkt in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haltál két főre",
+            "tip": "A Konoba 9 bofora étteremben közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu pește",
+            "tip": "La Konoba 9 bofora, chiar în marină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Platter for Two",
+            "tip": "At Konoba 9 bofora directly in the marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Stara Baška",
+            "tip": "Blick über die gesamte Kvarner-Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stara Baška kilátó",
+            "tip": "Kilátás az egész Kvarner-öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Stara Baška",
+            "tip": "Vedere peste întregul golf Kvarner.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stara Baška Viewpoint",
+            "tip": "View over the entire Kvarner Bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof Verkauf",
+            "tip": "Suchen Sie Schilder für Honig und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háztáji eladás",
+            "tip": "Keresse a mézet és olívaolajat hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de la fermă",
+            "tip": "Căutați indicatoarele pentru miere și ulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Gate Sales",
+            "tip": "Look for signs advertising honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Punat ist das Parken fast überall gebührenpflichtig.",
+          "Die Straße nach Stara Baška ist eng und kurvig.",
+          "Nutzen Sie offizielle Park-Apps für einfache Bezahlung.",
+          "Kombinieren Sie den Ausflug mit einem Besuch in Krk-Stadt."
+        ],
+        "hu": [
+          "Punatban szinte mindenhol fizetős a parkolás.",
+          "Stara Baška felé az út keskeny és kanyargós.",
+          "Használjon parkolási applikációt a fizetéshez.",
+          "Kösse össze az utat Krk város meglátogatásával."
+        ],
+        "ro": [
+          "În Punat parcarea este cu plată aproape peste tot.",
+          "Drumul spre Stara Baška este îngust și șerpuitor.",
+          "Folosiți aplicațiile de parcare pentru plată ușoară.",
+          "Combinați excursia cu o vizită în orașul Krk."
+        ],
+        "en": [
+          "In Punat, parking is paid almost everywhere.",
+          "The road to Stara Baška is narrow and winding.",
+          "Use official parking apps for easy payment.",
+          "Combine the trip with a visit to Krk Town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Punat",
+            "hu": "Punat Marina",
+            "ro": "Marina Punat",
+            "en": "Marina Punat"
+          },
+          "coords": [
+            14.628,
+            45.028
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Haupteingang.",
+            "hu": "Buszmegálló közvetlenül a főbejáratnál.",
+            "ro": "Stație de autobuz chiar la intrarea principală.",
+            "en": "Bus stop right at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Toš (Alte Ölpresse)",
+            "hu": "Stari Toš (Régi olajprés)",
+            "ro": "Stari Toš (Vechea presă de ulei)",
+            "en": "Stari Toš (Old Olive Press)"
+          },
+          "coords": [
+            14.6273,
+            45.0215
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle Punat Centar.",
+            "hu": "Rövid séta a Punat Centar buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația Punat Centar.",
+            "en": "Short walk from the Punat Centar bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Punat",
+            "hu": "Punat tengerparti sétánya",
+            "ro": "Promenada din Punat",
+            "en": "Punat Waterfront Promenade"
+          },
+          "coords": [
+            14.626,
+            45.022
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tickets für Košljun werden an der Mole verkauft.",
+            "hu": "Jegyek Košljunra a mólónál válthatók.",
+            "ro": "Biletele pentru Košljun se vând la dig.",
+            "en": "Tickets for Košljun are sold at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Košljun",
+            "hu": "Košljun-sziget",
+            "ro": "Insula Košljun",
+            "en": "Košljun Island"
+          },
+          "coords": [
+            14.615,
+            45.026
+          ],
+          "category": "island",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Bootstransfer dauert nur wenige Minuten.",
+            "hu": "A hajós átkelés csak néhány percet vesz igénybe.",
+            "ro": "Traversarea cu barca durează doar câteva minute.",
+            "en": "The boat transfer takes only a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Buka",
+            "hu": "Buka strand",
+            "ro": "Plaja Buka",
+            "en": "Buka Beach"
+          },
+          "coords": [
+            14.63,
+            45.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Zentrum in ca. 20 Minuten erreichbar.",
+            "hu": "Gyalog a központból kb. 20 perc alatt elérhető.",
+            "ro": "Accesibil pe jos din centru în aprox. 20 de minute.",
+            "en": "Reachable on foot from the center in about 20 minutes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Punat ist gut in das Busnetz der Insel eingebunden. Starten Sie an der Marina und laufen Sie ins Zentrum zum Museum. Ein Highlight bleibt die Überfahrt zur Insel Košljun. Am Nachmittag erreichen Sie den Buka-Strand bequem zu Fuß vom Zentrum aus, bevor der Bus Sie zurückbringt.",
+        "hu": "Punat jól kapcsolódik a sziget buszhálózatához. Kezdjen a kikötőnél, majd sétáljon be a központba a múzeumhoz. A nap fénypontja a Košljun-szigetre tett kirándulás. Délután a Buka strand gyalogosan is kényelmesen elérhető a visszaindulás előtt.",
+        "ro": "Punat este bine integrat în rețeaua de autobuze a insulei. Începeți la marină și mergeți spre centru la muzeu. Un punct culminant rămâne traversarea pe insula Košljun. După-amiaza ajungeți la plaja Buka pe jos din centru înainte de întoarcere.",
+        "en": "Punat is well integrated into the island's bus network. Start at the marina and walk to the center to the museum. A highlight remains the boat trip to Košljun Island. In the afternoon, reach Buka Beach easily on foot from the center before your bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eisdiele am Markt",
+            "tip": "Hausgemachtes Eis und faire Preise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagyizó a piacnál",
+            "tip": "Házias fagylalt és korrekt árak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelaterie lângă piață",
+            "tip": "Înghețată de casă și prețuri corecte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream Shop by the Market",
+            "tip": "Homemade ice cream and fair prices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke an der Mole",
+            "tip": "Beobachten Sie die einlaufenden Fischerboote.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a mólónál",
+            "tip": "Figyelje a befutó halászhajókat.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe dig",
+            "tip": "Observați bărcile de pescuit care intră în port.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches at the Pier",
+            "tip": "Watch the incoming fishing boats.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und lokale Schnäpse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök és helyi párlatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și rachiuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruits and local spirits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Arriva-Fahrplan online.",
+          "Die Haltestelle Punat Centar liegt ideal für die Erkundung.",
+          "Busse können in der Hochsaison Verspätung haben.",
+          "Tickets können beim Fahrer oder am Automaten gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze az Arriva aktuális menetrendjét online.",
+          "A Punat Centar megálló ideális a felfedezéshez.",
+          "Főszezonban a buszok késhetnek a forgalom miatt.",
+          "Jegyek a sofőrnél vagy automatában vásárolhatók."
+        ],
+        "ro": [
+          "Verificați orarul Arriva actualizat online.",
+          "Stația Punat Centar este ideală pentru explorare.",
+          "Autobuzele pot avea întârzieri în sezonul de vârf.",
+          "Biletele pot fi cumpărate de la șofer sau de la automat."
+        ],
+        "en": [
+          "Check the current Arriva schedule online.",
+          "The Punat Centar stop is ideal for exploration.",
+          "Buses may be delayed during high season.",
+          "Tickets can be purchased from the driver or at the machine."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Punat",
+    "county": "HR-08",
+    "coords": [
+      14.6258,
+      45.0211
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Croatia-1581",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tzpunat.hr/",
+    "tourism_office": "https://www.tzpunat.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": "https://www.visitkrk.com/en/",
+    "museum_tickets": "https://www.visitkrk.com/en/",
+    "parking_real_time": "https://en.parkopedia.com/parking/croatia/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; in der Marina von Punat sprechen viele Deutsch und Italienisch, Englisch ist Standard. 'Košljun' ist die Klosterinsel.",
+      "hu": "A horvát a hivatalos; a punati marinában sokan beszélnek németül és olaszul, az angol általános. 'Košljun' a kolostor-szigetecske neve.",
+      "ro": "Croata e oficială; în marina Punat mulți vorbesc germană și italiană, engleza e standard. 'Košljun' este insula mănăstirii.",
+      "en": "Croatian is official; in Punat marina German and Italian are common, English standard. 'Košljun' is the monastery islet."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober für Segeln in der Bucht von Punat; Juni und September angenehm warm, Hochsaison im Marina-Areal teuer und voll.",
+      "hu": "Május-október a vitorlázáshoz a Punat-öbölben; június és szeptember kellemesen meleg, főszezonban a marina környéke drága és zsúfolt.",
+      "ro": "Mai - octombrie pentru velier în golful Punat; iunie și septembrie plăcut de calde, în sezonul de vârf zona marina e scumpă și plină.",
+      "en": "May to October for sailing Punat bay; June and September pleasantly warm, peak-season marina area expensive and crowded."
+    },
+    "neighborhood_warnings": {
+      "de": "Košljun-Boote nur an offiziellen Anlegestellen buchen; Bora-Wind kann Bootstransfers absagen, Strände sind oft Steinplatten statt Sand.",
+      "hu": "Košljun-szigetre csak hivatalos kikötőből foglalj hajót; a bóra lemondhatja az átkelést, a strandok inkább sziklásak, nem homokosak.",
+      "ro": "Rezervați bărci spre Košljun doar din porturile oficiale; vântul bora poate anula transferurile, plajele sunt mai mult stâncoase decât nisipoase.",
+      "en": "Book Košljun boats only at official jetties; bora wind can cancel transfers, beaches are mostly rock slabs rather than sand."
+    }
+  }
+}

@@ -1,0 +1,906 @@
+{
+  "city_id": "rab",
+  "anchor": {
+    "name": "Rab",
+    "coords": [
+      14.76,
+      44.7558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:45",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Platz des hl. Christophorus",
+          "coords": [
+            14.761,
+            44.758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Der perfekte Treffpunkt am Eingang zur Altstadt.",
+            "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
+            "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
+            "en": "The perfect meeting spot at the entrance to the old town."
+          }
+        },
+        {
+          "name": "Gornja Ulica",
+          "coords": [
+            14.76,
+            44.757
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die 'Obere Straße' beherbergt die vier berühmten Glockentürme.",
+            "hu": "A 'Felső utca' ad otthont a négy híres harangtoronynak.",
+            "ro": "Strada de Sus găzduiește cele patru faimoase clopotnițe.",
+            "en": "The 'Upper Street' houses the four famous bell towers."
+          }
+        },
+        {
+          "name": "Kirche St. Justina",
+          "coords": [
+            14.759,
+            44.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Heute befindet sich hier ein kleines Museum für sakrale Kunst.",
+            "hu": "Ma egy kis egyházművészeti múzeum működik itt.",
+            "ro": "Astăzi găzduiește un mic muzeu de artă sacră.",
+            "en": "Today it houses a small museum of sacred art."
+          }
+        },
+        {
+          "name": "Fürstenpalast",
+          "coords": [
+            14.758,
+            44.755
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Eines der schönsten gotischen Gebäude der Insel.",
+            "hu": "A sziget egyik legszebb gótikus épülete.",
+            "ro": "Una dintre cele mai frumoase clădiri gotice de pe insulă.",
+            "en": "One of the most beautiful Gothic buildings on the island."
+          }
+        },
+        {
+          "name": "Kathedrale Mariä Himmelfahrt",
+          "coords": [
+            14.757,
+            44.754
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bestaunen Sie den Glockenturm der Maria direkt daneben.",
+            "hu": "Csodálja meg mellette a Mária-harangtornyot.",
+            "ro": "Admirați clopotnița Mariei chiar lângă ea.",
+            "en": "Admire the bell tower of Mary right next to it."
+          }
+        },
+        {
+          "name": "Park Komrčar",
+          "coords": [
+            14.762,
+            44.759
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Entspannen Sie im Schatten hoher Kiefern und Zypressen.",
+            "hu": "Pihenjen a magas fenyők és ciprusok árnyékában.",
+            "ro": "Relaxați-vă la umbra pinilor și chiparoșilor înalți.",
+            "en": "Relax in the shade of tall pines and cypresses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rab ist eine Stadt der Geschichte und der Türme. Beginnen Sie am Christophorus-Platz und schlendern Sie durch die Gornja Ulica, wo sich die Silhouette der vier Glockentürme abzeichnet. Entdecken Sie die sakrale Kunst in St. Justina und den prächtigen Fürstenpalast. Nach dem Besuch der Kathedrale bietet der kühle Park Komrčar den idealen Ausklang für Ihren Stadtspaziergang.",
+        "hu": "Rab a történelem és a tornyok városa. Kezdje a Szent Kristóf téren, és sétáljon végig a Gornja Ulicán, ahol kirajzolódik a négy harangtorony sziluettje. Fedezze fel a Szent Jusztina-templom egyházi műkincseit és a pompás Fejedelmi palotát. A székesegyház meglátogatása után a hűvös Komrčar-park ideális helyszín a városi séta lezárásához.",
+        "ro": "Rab este un oraș al istoriei și al turnurilor. Începeți în Piața Sf. Cristofor și plimbați-vă pe Gornja Ulica, unde se profilează silueta celor patru clopotnițe. Descoperiți arta sacră din Sf. Iustina și magnificul Palat al Principelui. După vizitarea catedralei, parcul răcoros Komrčar oferă finalul ideal pentru plimbarea prin oraș.",
+        "en": "Rab is a city of history and towers. Start at St. Christopher's Square and stroll through Gornja Ulica, where the silhouette of the four bell towers stands out. Discover the sacred art in St. Justina and the magnificent Rector's Palace. After visiting the Cathedral, the cool Komrcar Park offers the ideal ending to your city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rabska torta",
+            "tip": "Ein Mandelgebäck mit Maraschino-Likör."
+          },
+          {
+            "name": "Oktopus unter der Peka",
+            "tip": "In der Konoba Rab probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rabska torta",
+            "tip": "Mandulás sütemény Maraschino likőrrel."
+          },
+          {
+            "name": "Polip peka alatt",
+            "tip": "Kóstolja meg a Konoba Rab-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rabska torta",
+            "tip": "O prăjitură cu migdale și lichior Maraschino."
+          },
+          {
+            "name": "Caracatiță sub capac (peka)",
+            "tip": "Încercați la Konoba Rab."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rab Cake",
+            "tip": "An almond pastry with Maraschino liqueur."
+          },
+          {
+            "name": "Octopus under the Peka",
+            "tip": "Try it at Konoba Rab."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen von St. Johannes",
+            "tip": "Ein stimmungsvoller Ort für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent János romjai",
+            "tip": "Hangulatos hely egy rövid pihenőhöz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Sf. Ioan",
+            "tip": "Un loc plin de atmosferă pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ruins of St. John",
+            "tip": "An atmospheric spot for a break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Honig von der Insel Rab ist sehr aromatisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Rab-szigeti méz rendkívül aromás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de pe insula Rab este foarte aromată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Honey from the island of Rab is very aromatic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Klettern Sie auf den Glockenturm der Maria für die beste Aussicht.",
+          "Die Gassen der Altstadt sind am kühlen Vormittag am schönsten."
+        ],
+        "hu": [
+          "Másszon fel a Mária-harangtoronyba a legjobb kilátásért.",
+          "Az óváros utcái a hűvös délelőttön a legszebbek."
+        ],
+        "ro": [
+          "Urcați în clopotnița Mariei pentru cea mai bună vedere.",
+          "Străzile orașului vechi sunt cele mai frumoase în dimineața răcoroasă."
+        ],
+        "en": [
+          "Climb the bell tower of Mary for the best view.",
+          "The alleys of the old town are best in the cool morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "12:15",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Platz des hl. Christophorus",
+          "coords": [
+            14.761,
+            44.758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Guter Startpunkt für Radtouren entlang der Küste.",
+            "hu": "Jó kiindulópont a tengerparti kerékpártúrákhoz.",
+            "ro": "Punct bun de plecare pentru excursii cu bicicleta pe coastă.",
+            "en": "Good starting point for bike tours along the coast."
+          }
+        },
+        {
+          "name": "Viertel Kaldanac",
+          "coords": [
+            14.757,
+            44.753
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Der älteste Teil der Stadt mit verwinkelten Gassen.",
+            "hu": "A város legrégebbi része kanyargós utcákkal.",
+            "ro": "Cea mai veche parte a orașului cu străzi întortocheate.",
+            "en": "The oldest part of the town with winding alleys."
+          }
+        },
+        {
+          "name": "Ruinen von St. Johannes",
+          "coords": [
+            14.759,
+            44.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein geschichtsträchtiger Ort im oberen Stadtteil.",
+            "hu": "Történelmi emlékhely a felső városrészben.",
+            "ro": "Un loc plin de istorie în partea de sus a orașului.",
+            "en": "A place steeped in history in the upper town."
+          }
+        },
+        {
+          "name": "Benediktinerkloster St. Andreas",
+          "coords": [
+            14.758,
+            44.755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Hier wird seit Jahrhunderten die Tradition gepflegt.",
+            "hu": "Itt évszázadok óta ápolják a hagyományokat.",
+            "ro": "Aici tradiția este păstrată de secole.",
+            "en": "Tradition has been maintained here for centuries."
+          }
+        },
+        {
+          "name": "Park Komrčar",
+          "coords": [
+            14.762,
+            44.759
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Fahren Sie langsam durch den bewaldeten Park.",
+            "hu": "Hajtson lassan az erdős parkon keresztül.",
+            "ro": "Pedalați încet prin parcul împădurit.",
+            "en": "Cycle slowly through the forested park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Rab entspannt mit dem Fahrrad. Vom Christophorus-Platz radeln Sie durch das malerische Viertel Kaldanac und erkunden die historischen Ruinen von St. Johannes. Vorbei am Benediktinerkloster gelangen Sie schließlich in den weiten Park Komrčar, wo schattige Wege zum entspannten Fahren einladen und immer wieder Ausblicke auf das Meer bieten.",
+        "hu": "Fedezze fel Rab-ot kényelmesen kerékpárral. A Szent Kristóf tértől kerekezzen át a festői Kaldanac negyeden, és fedezze fel a Szent János-templom történelmi romjait. A bencés kolostor mellett elhaladva végül a tágas Komrčar-parkba ér, ahol árnyas utak hívogatnak a nyugodt tekerésre, közben pedig újra és újra felbukkan a tenger látványa.",
+        "ro": "Descoperiți Rab într-un mod relaxat cu bicicleta. De la Piața Sf. Cristofor pedalați prin cartierul pitoresc Kaldanac și explorați ruinele istorice ale Sf. Ioan. Trecând pe lângă mănăstirea benedictină, ajungeți în cele din urmă în parcul vast Komrčar, unde potecile umbrite vă invită la o plimbare relaxată, oferind din când în când vederi spre mare.",
+        "en": "Discover Rab in a relaxed way by bike. From St. Christopher's Square, cycle through the picturesque Kaldanac district and explore the historic ruins of St. John. Passing the Benedictine monastery, you finally reach the wide Komrcar Park, where shady paths invite you to ride peacefully, offering occasional views of the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Ein gesunder Snack für die Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aszalt füge",
+            "tip": "Egészséges snack a biciklitúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O gustare sănătoasă pentru tura cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A healthy snack for the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht am Park Komrčar",
+            "tip": "Perfekter Ort für ein kurzes Bad.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öböl a Komrčar-parknál",
+            "tip": "Tökéletes hely egy gyors mártózáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful de lângă parcul Komrčar",
+            "tip": "Loc perfect pentru o baie scurtă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bay near Komrcar Park",
+            "tip": "Perfect spot for a quick swim.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Handgefertigt auf der Insel Rab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsákok",
+            "tip": "Kézzel készített ajándék Rab szigetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Lucrați manual pe insula Rab."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Sachets",
+            "tip": "Handmade on the island of Rab."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Fußgängerzone ist das Radfahren nur eingeschränkt erlaubt.",
+          "Nutzen Sie den Weg entlang der Küste für längere Touren."
+        ],
+        "hu": [
+          "A sétálóövezetben a kerékpározás csak korlátozottan megengedett.",
+          "Használja a tengerparti utat hosszabb túrákhoz."
+        ],
+        "ro": [
+          "În zona pietonală ciclismul este permis doar limitat.",
+          "Folosiți drumul de-a lungul coastei pentru tururi mai lungi."
+        ],
+        "en": [
+          "Cycling is only restrictedly allowed in the pedestrian zone.",
+          "Use the coastal path for longer tours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 30.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Rab Altstadt Parkplatz",
+          "coords": [
+            14.763,
+            44.758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Großer öffentlicher Parkplatz direkt am Hafen.",
+            "hu": "Nagy nyilvános parkoló közvetlenül a kikötőnél.",
+            "ro": "Parcare publică mare chiar lângă port.",
+            "en": "Large public parking lot right by the harbor."
+          }
+        },
+        {
+          "name": "Lopar (Paradiesstrand)",
+          "coords": [
+            14.733,
+            44.829
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_4lang": {
+            "de": "Einer der bekanntesten Sandstrände Kroatiens.",
+            "hu": "Horvátország egyik leghíresebb homokos strandja.",
+            "ro": "Una dintre cele mai renumite plaje cu nisip din Croația.",
+            "en": "One of Croatia's most famous sandy beaches."
+          }
+        },
+        {
+          "name": "Platz des hl. Christophorus",
+          "coords": [
+            14.761,
+            44.758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_4lang": {
+            "de": "Rückkehr ins Herz der Stadt Rab.",
+            "hu": "Visszatérés Rab város szívébe.",
+            "ro": "Revenire în inima orașului Rab.",
+            "en": "Return to the heart of Rab town."
+          }
+        },
+        {
+          "name": "Fürstenpalast",
+          "coords": [
+            14.758,
+            44.755
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Besuch der historischen Innenräume.",
+            "hu": "A történelmi belső terek meglátogatása.",
+            "ro": "Vizita interioarelor istorice.",
+            "en": "Visit the historic interiors."
+          }
+        },
+        {
+          "name": "Glockenturm der Maria",
+          "coords": [
+            14.757,
+            44.754
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Der schönste Aussichtspunkt der ganzen Insel.",
+            "hu": "Az egész sziget legszebb kilátópontja.",
+            "ro": "Cel mai frumos punct de observație de pe întreaga insulă.",
+            "en": "The most beautiful viewpoint on the entire island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie den Badespaß in Lopar mit der Kultur der Stadt Rab. Starten Sie morgens am Paradiesstrand in Lopar, bevor Sie mittags in die Altstadt von Rab zurückkehren. Dort erkunden Sie den Christophorus-Platz, den Fürstenpalast und steigen schließlich auf den berühmten Glockenturm, um das Panorama über die roten Dächer zu genießen.",
+        "hu": "Autóval összekötheti a lopari strandolást Rab város kultúrájával. Kezdje a reggelt a lopari Paradicsom-parton, mielőtt délben visszatérne Rab óvárosába. Ott fedezze fel a Szent Kristóf teret, a Fejedelmi palotát, és végül másszon fel a híres harangtoronyba, hogy megcsodálja a panorámát a vörös tetők felett.",
+        "ro": "Cu mașina combinați distracția la plajă în Lopar cu cultura orașului Rab. Începeți dimineața pe plaja Paradisului din Lopar, înainte de a reveni la prânz în orașul vechi Rab. Acolo explorați Piața Sf. Cristofor, Palatul Principelui și în cele din urmă urcați în faimoasa clopotniță pentru a admira panorama peste acoperișurile roșii.",
+        "en": "By car, you can combine beach fun in Lopar with the culture of Rab town. Start the morning at Paradise Beach in Lopar before returning to the old town of Rab at midday. There, explore St. Christopher's Square, the Rector's Palace, and finally climb the famous bell tower to enjoy the panorama over the red roofs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "In Lopar gibt es exzellente Strandrestaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Loparban kiváló tengerparti éttermek találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "În Lopar există restaurante excelente pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "Lopar has excellent beach restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen von Lopar",
+            "tip": "Ruhige Orte abseits des Hauptstrandes.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lopar dűnéi",
+            "tip": "Csendes helyek a főstrandtól távolabb.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele din Lopar",
+            "tip": "Locuri liniștite departe de plaja principală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dunes of Lopar",
+            "tip": "Quiet spots away from the main beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sonnenschutz",
+            "tip": "Lokale Naturkosmetik aus Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naptej",
+            "hu": "Helyi natúrkozmetikumok olívaolajból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Protecție solară",
+            "tip": "Cosmetice naturale locale din ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sun Protection",
+            "tip": "Local natural cosmetics made from olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison ist der Parkplatz in Rab schnell voll.",
+          "Die Fahrt von Rab nach Lopar dauert etwa 15-20 Minuten."
+        ],
+        "hu": [
+          "Főszezonban a rabi parkoló hamar megtelik.",
+          "Az út Rab-ból Loparba körülbelül 15-20 percet vesz igénybe."
+        ],
+        "ro": [
+          "În sezonul de vârf, parcarea din Rab se umple repede.",
+          "Drumul de la Rab la Lopar durează aproximativ 15-20 de minute."
+        ],
+        "en": [
+          "In high season, the parking lot in Rab fills up quickly.",
+          "The drive from Rab to Lopar takes about 15-20 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "12:55",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busbahnhof Rab",
+          "coords": [
+            14.763,
+            44.759
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ankunftsort für Busse aus dem Fährhafen Mišnjak.",
+            "hu": "A Mišnjak kompállomástól érkező buszok megállóhelye.",
+            "ro": "Locul de sosire pentru autobuzele din portul de feribot Mišnjak.",
+            "en": "Arrival point for buses from the Mišnjak ferry port."
+          }
+        },
+        {
+          "name": "Platz des hl. Christophorus",
+          "coords": [
+            14.761,
+            44.758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "In unmittelbarer Nähe zum Busbahnhof.",
+            "hu": "A buszpályaudvar közvetlen közelében.",
+            "ro": "În imediata apropiere a autogării.",
+            "en": "In the immediate vicinity of the bus station."
+          }
+        },
+        {
+          "name": "Fürstenpalast",
+          "coords": [
+            14.758,
+            44.755
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Zentraler historischer Punkt der Altstadt.",
+            "hu": "Az óváros központi történelmi pontja.",
+            "ro": "Punctul istoric central al orașului vechi.",
+            "en": "Central historical point of the old town."
+          }
+        },
+        {
+          "name": "Kathedrale Mariä Himmelfahrt",
+          "coords": [
+            14.757,
+            44.754
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Gut zu Fuß erreichbar.",
+            "hu": "Gyalogosan jól megközelíthető.",
+            "ro": "Ușor de accesat pe jos.",
+            "en": "Well accessible on foot."
+          }
+        },
+        {
+          "name": "Park Komrčar",
+          "coords": [
+            14.762,
+            44.759
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein schöner Spaziergang zurück zum Busbahnhof.",
+            "hu": "Szép séta vissza a buszpályaudvarhoz.",
+            "ro": "O plimbare frumoasă înapoi la autogară.",
+            "en": "A nice walk back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erreichen Sie Rab bequem mit dem Inselbus. Von der Station gelangen Sie direkt zum Christophorus-Platz und tauchen in die Geschichte des Fürstenpalastes ein. Besuchen Sie die Kathedrale und wandern Sie durch die malerischen Gassen, bevor Sie im Park Komrčar neue Energie tanken und schließlich wieder den Bus für Ihre Weiterreise nehmen.",
+        "hu": "Érkezzen Rab-ba kényelmesen a szigeti busszal. Az állomástól közvetlenül a Szent Kristóf térre jut, és elmerülhet a Fejedelmi palota történelmében. Látogassa meg a székesegyházat, barangoljon a festői utcákon, majd tölődjön fel a Komrčar-parkban, mielőtt újra buszra szállna a továbbutazáshoz.",
+        "ro": "Ajungeți în Rab confortabil cu autobuzul de pe insulă. De la stație ajungeți direct în Piața Sf. Cristofor și vă scufundați în istoria Palatului Principelui. Vizitați catedrala și plimbați-vă pe străzile pitorești, înainte de a vă reîncărca bateriile în parcul Komrčar și de a lua din nou autobuzul pentru continuarea călătoriei.",
+        "en": "Reach Rab comfortably by island bus. From the station, you'll reach St. Christopher's Square directly and dive into the history of the Rector's Palace. Visit the Cathedral and wander through the picturesque alleys before recharging in Komrcar Park and finally taking the bus again for your onward journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ziegenkäse",
+            "tip": "Lokale Delikatesse vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kecskesajt",
+            "tip": "Helyi finomság a piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de capră",
+            "tip": "Delicatesă locală din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goat Cheese",
+            "tip": "Local delicacy from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schattige Bänke im Park",
+            "tip": "Ideal zum Lesen und Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyékos padok a parkban",
+            "tip": "Ideális olvasáshoz és pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci umbrite în parc",
+            "tip": "Ideal pentru citit și relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shady Benches in the Park",
+            "tip": "Ideal for reading and relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenholz-Produkte",
+            "tip": "Küchenutensilien und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfa termékek",
+            "tip": "Konyhai eszközök és ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lemn de măslin",
+            "tip": "Ustensile de bucătărie și bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Wood Products",
+            "tip": "Kitchen utensils and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihr Ticket im Voraus am Schalter.",
+          "Der Busbahnhof liegt nur etwa 300 Meter vom Hafen entfernt."
+        ],
+        "hu": [
+          "Vásárolja meg jegyét előre a pénztárnál.",
+          "A buszpályaudvar mindössze 300 méterre található a kikötőtől."
+        ],
+        "ro": [
+          "Cumpărați biletul în avans de la ghișeu.",
+          "Autogara se află la doar aproximativ 300 de metri de port."
+        ],
+        "en": [
+          "Buy your ticket in advance at the counter.",
+          "The bus station is only about 300 meters from the harbor."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Rab",
+    "region": "HR-09",
+    "coords": [
+      14.76,
+      44.7558
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en/",
+    "transit_app": "https://autotrans.hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.rab-visit.com/",
+    "tourism_office": "https://www.rab-visit.com/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Landessprache; im Tourismus sind Deutsch, Italienisch und Englisch sehr weit verbreitet.",
+      "hu": "Az ország nyelve a horvát; a turizmusban a német, az olasz és az angol nagyon elterjedt.",
+      "ro": "Limba țării este croata; în turism, germana, italiana și engleza sunt foarte răspândite.",
+      "en": "Croatian is the national language; in tourism, German, Italian and English are very widely spoken."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis September für Strände und das Rabska Fjera Festival Ende Juli; Mai und Oktober ideal zum Radfahren.",
+      "hu": "Június és szeptember között a strandokhoz és a július végi Rabska Fjera fesztiválhoz; május, október jó kerékpározáshoz.",
+      "ro": "Iunie până în septembrie pentru plaje și festivalul Rabska Fjera de la sfârșitul lui iulie; mai și octombrie bune pentru ciclism.",
+      "en": "June to September for beaches and the Rabska Fjera festival in late July; May and October ideal for cycling."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Insel; im Hochsommer Sonnenschutz und Wasser nicht vergessen, einige FKK-Strände sind klar ausgeschildert.",
+      "hu": "Nagyon biztonságos sziget; nyáron napvédő és víz szükséges, néhány nudista strand jól táblázott.",
+      "ro": "Insulă foarte sigură; vara protecție solară și apă obligatorii, unele plaje naturiste clar semnalizate.",
+      "en": "Very safe island; in high summer bring sunscreen and water, some nudist beaches are clearly signposted."
+    }
+  }
+}

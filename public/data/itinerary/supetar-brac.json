@@ -1,0 +1,962 @@
+{
+  "city_id": "supetar-brac",
+  "anchor": {
+    "name": "Supetar (Brač)",
+    "coords": [
+      16.55,
+      43.385
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Riva-Promenade",
+          "coords": [
+            16.5532,
+            43.3861
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Anlegen der Fähren bei einem Espresso.",
+            "hu": "Figyelje a kompok érkezését egy finom eszpresszó mellett.",
+            "ro": "Urmăriți acostarea feriboturilor cu un espresso.",
+            "en": "Watch the ferries docking while enjoying an espresso."
+          }
+        },
+        {
+          "name": "Mariä-Verkündigungs-Kirche",
+          "coords": [
+            16.5525,
+            43.3852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wunderschöne Mosaike aus dem 6. Jahrhundert im Inneren.",
+            "hu": "Gyönyörű 6. századi mozaikok találhatók a templombelsőben.",
+            "ro": "Mozaicuri superbe din secolul al VI-lea în interior.",
+            "en": "Beautiful 6th-century mosaics can be found inside."
+          }
+        },
+        {
+          "name": "Leroj-Glockenturm",
+          "coords": [
+            16.5528,
+            43.3855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt direkt neben der Kirche.",
+            "hu": "A város jelképe, közvetlenül a templom mellett.",
+            "ro": "Simbolul orașului, situat chiar lângă biserică.",
+            "en": "The landmark of the city, located right next to the church."
+          }
+        },
+        {
+          "name": "Ivan-Rendić-Galerie",
+          "coords": [
+            16.5535,
+            43.3858
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Werke des berühmtesten kroatischen Bildhauers, der hier geboren wurde.",
+            "hu": "A leghíresebb horvát szobrász művei, aki itt született.",
+            "ro": "Opere ale celui mai faimos sculptor croat, născut aici.",
+            "en": "Works of the most famous Croatian sculptor, who was born here."
+          }
+        },
+        {
+          "name": "Mausoleum Petrinović",
+          "coords": [
+            16.5412,
+            43.3875
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein architektonisches Meisterwerk auf der Halbinsel Sveti Nikola.",
+            "hu": "Építészeti remekmű a Sveti Nikola-félszigeten.",
+            "ro": "O capodoperă arhitecturală pe peninsula Sveti Nikola.",
+            "en": "An architectural masterpiece on the Sveti Nikola peninsula."
+          }
+        },
+        {
+          "name": "Strand Tri mosta",
+          "coords": [
+            16.5455,
+            43.3882
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Kiesstrand mit viel Schatten unter Pinienbäumen.",
+            "hu": "Kavicsos strand sok árnyékkal a fenyőfák alatt.",
+            "ro": "Plajă cu pietriș și multă umbră sub pini.",
+            "en": "Pebble beach with plenty of shade under pine trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Willkommen im malerischen Supetar. Beginnen Sie Ihren Rundgang an der belebten Riva und besuchen Sie die Verkündigungskirche mit dem markanten Leroj-Turm.\n\nBewundern Sie die Skulpturen in der Ivan-Rendić-Galerie, bevor Sie einen Küstenstreifzug zum prächtigen Mausoleum Petrinović unternehmen.\n\nVerbringen Sie den Nachmittag am kristallklaren Wasser des Strandes Tri mosta und entspannen Sie im Schatten der Pinien.\n\nDer Tag endet perfekt mit einem Abendessen in einer der Gassen der Altstadt.",
+        "hu": "Üdvözöljük a festői Supetarban. Kezdje a sétát a nyüzsgő Riván, majd látogasson el az Angyali Üdvözlet templomhoz és a jellegzetes Leroj-toronyhoz.\n\nCsodálja meg Ivan Rendić szobrait a galériában, mielőtt egy parti sétát tenne a pazar Petrinović-mauzóleumhoz.\n\nTöltse a délutánt a Tri mosta strand kristálytiszta vizénél, a fenyőfák hűvös árnyékában pihenve.\n\nA nap tökéletesen zárul egy vacsorával az óváros szűk, hangulatos utcáiban.",
+        "ro": "Bun venit în pitorescul Supetar. Începeți plimbarea pe Riva plină de viață și vizitați Biserica Bunei Vestiri cu turnul Leroj distinctiv.\n\nAdmirați sculpturile din Galeria Ivan Rendić înainte de o plimbare pe coastă spre magnificul Mausoleu Petrinović.\n\nPetreceți după-amiaza lângă apa cristalină a plajei Tri mosta, relaxându-vă la umbra pinilor.\n\nZiua se încheie perfect cu o cină pe una dintre străduțele orașului vechi.",
+        "en": "Welcome to picturesque Supetar. Start your tour at the lively Riva and visit the Church of the Annunciation with its prominent Leroj tower.\n\nAdmire the sculptures in the Ivan Rendić Gallery before taking a coastal stroll to the magnificent Petrinović Mausoleum.\n\nSpend the afternoon by the crystal-clear water of Tri mosta beach, relaxing in the shade of the pine trees.\n\nThe day ends perfectly with dinner in one of the narrow streets of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Vinotoka",
+            "tip": "Probieren Sie das berühmte Bračer Lammfleisch."
+          },
+          {
+            "name": "Restaurant Palute",
+            "tip": "Hervorragende Meeresfrüchte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Vinotoka",
+            "tip": "Kóstolja meg a híres brači báránysültet."
+          },
+          {
+            "name": "Restaurant Palute",
+            "tip": "Kiváló tengeri herentyűk közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Vinotoka",
+            "tip": "Încercați celebrul miel de pe insula Brač."
+          },
+          {
+            "name": "Restaurant Palute",
+            "tip": "Fructe de mare excelente chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Vinotoka",
+            "tip": "Try the famous Brač lamb."
+          },
+          {
+            "name": "Restaurant Palute",
+            "tip": "Excellent seafood right at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Supetar",
+            "tip": "Ein stiller Ort mit prachtvollen Grabmälern am Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bucht Banj",
+            "tip": "Ein ruhiger Moment am Morgen, bevor die Massen kommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Supetari temető",
+            "tip": "Csendes hely pazar síremlékekkel a tengerparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banj-öböl",
+            "tip": "Nyugodt pillanatok reggel, mielőtt megérkezik a tömeg.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Supetar",
+            "tip": "Un loc liniștit cu morminte magnifice lângă mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golful Banj",
+            "tip": "Un moment de liniște dimineața înainte de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Supetar Cemetery",
+            "tip": "A quiet spot with magnificent tombs by the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banj Bay",
+            "tip": "A quiet moment in the morning before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Ivan",
+            "tip": "Echte Steinmetzarbeiten aus dem weißen Bračer Marmor."
+          },
+          {
+            "name": "Örtlicher Markt",
+            "tip": "Kaufen Sie hier handgemachtes Olivenöl und Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ivan ajándékbolt",
+            "tip": "Valódi kőfaragványok a híres brači fehér márványból."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon itt kézműves olívaolajat és fügét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Ivan",
+            "tip": "Lucrări autentice în piatră din marmură albă de Brač."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline artizanal și smochine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ivan Souvenirs",
+            "tip": "Authentic stonework made from white Brač marble."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Buy handmade olive oil and figs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fähren von Split kommen fast stündlich an, planen Sie Zeit für die Rückfahrt ein.",
+          "Tragen Sie bequeme Schuhe für die Küstenwege zum Mausoleum.",
+          "Badeschuhe sind auf den Kiesstränden sehr zu empfehlen.",
+          "Die Riva ist im Hochsommer sehr belebt, weichen Sie in die Seitengassen aus."
+        ],
+        "hu": [
+          "A kompok Splitből szinte óránként járnak, tervezze meg időben a visszautat.",
+          "Viseljen kényelmes cipőt a mauzóleumhoz vezető parti ösvényen.",
+          "A kavicsos strandokon kifejezetten ajánlott az úszócipő használata.",
+          "A Riva főszezonban nagyon zsúfolt, ilyenkor keressen nyugalmat a mellékutcákban."
+        ],
+        "ro": [
+          "Feriboturile din Split sosesc aproape din oră în oră, planificați timpul de retur.",
+          "Purtați încălțăminte confortabilă pentru potecile de coastă spre mausoleu.",
+          "Pantofii de apă sunt foarte recomandați pe plajele cu pietriș.",
+          "Riva este foarte aglomerată în plin sezon, retrageți-vă pe străduțele laterale."
+        ],
+        "en": [
+          "Ferries from Split arrive almost hourly; plan your return trip in advance.",
+          "Wear comfortable shoes for the coastal paths to the mausoleum.",
+          "Water shoes are highly recommended on the pebble beaches.",
+          "The Riva is very busy in high summer; escape to the side alleys for more peace."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Römische Mosaike",
+          "coords": [
+            16.5522,
+            43.385
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nahe der Kirche gelegen, ein Blick in die Antike.",
+            "hu": "A templom közelében található antik emlékek.",
+            "ro": "Situate lângă biserică, o privire în antichitate.",
+            "en": "Located near the church, a glimpse into antiquity."
+          }
+        },
+        {
+          "name": "Mausoleum Petrinović",
+          "coords": [
+            16.5412,
+            43.3875
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Radweg entlang der Küste hierher.",
+            "hu": "Gyönyörű tengerparti kerékpárút vezet ide.",
+            "ro": "Pistă superbă de biciclete de-a lungul coastei până aici.",
+            "en": "Beautiful seaside bike path leads here."
+          }
+        },
+        {
+          "name": "Mirca (Dorf)",
+          "coords": [
+            16.5155,
+            43.3825
+          ],
+          "category": "region",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein ruhiges Dorf westlich von Supetar, ideal für eine Pause.",
+            "hu": "Csendes falu Supetartól nyugatra, ideális pihenőhely.",
+            "ro": "Un sat liniștit la vest de Supetar, ideal pentru o pauză.",
+            "en": "A quiet village west of Supetar, ideal for a break."
+          }
+        },
+        {
+          "name": "Strand Tri mosta",
+          "coords": [
+            16.5455,
+            43.3882
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Rad nah am Wasser unter Pinien unter.",
+            "hu": "A biciklit vigye közel a vízhez a fenyők árnyékába.",
+            "ro": "Puneți bicicleta aproape de apă sub pini.",
+            "en": "Keep your bike close to the water under the pines."
+          }
+        },
+        {
+          "name": "Hl.-Rochus-Statue",
+          "coords": [
+            16.5515,
+            43.3845
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kleine Kapelle und Statue am Stadtrand.",
+            "hu": "Kis kápolna és szobor a város szélén.",
+            "ro": "Mică capelă și statuie la marginea orașului.",
+            "en": "Small chapel and statue on the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Nordküste von Brač mit dem Fahrrad. Starten Sie bei den römischen Mosaiken und radeln Sie dann zum beeindruckenden Mausoleum Petrinović.\n\nDie Tour führt Sie weiter in das entspannte Dorf Mirca, umgeben von Olivenhainen. Zurück in Supetar genießen Sie das Meer am Strand Tri mosta.\n\nEine kurze Fahrt zur Statue des Hl. Rochus bildet den Abschluss Ihrer Radtour.",
+        "hu": "Fedezze fel Brač északi partját kerékpárral. Kezdje a római mozaikoknál, majd tekerjen a lenyűgöző Petrinović-mauzóleumhoz.\n\nA túra továbbvezet a békés Mirca faluba, amelyet olajfaligetek vesznek körül. Visszatérve Supetarba, élvezze a tengert a Tri mosta strandon.\n\nEgy rövid tekerés Szent Rókus szobrához zárja a kerékpáros felfedezést.",
+        "ro": "Explorați coasta de nord a insulei Brač cu bicicleta. Începeți la mozaicurile romane, apoi pedalați spre impresionantul Mausoleu Petrinović.\n\nTurul vă duce mai departe în satul relaxat Mirca, înconjurat de livezi de măslini. Revenind în Supetar, bucurați-vă de mare pe plaja Tri mosta.\n\nO scurtă plimbare la statuia Sfântului Rochus încheie turul cu bicicleta.",
+        "en": "Explore the northern coast of Brač by bike. Start at the Roman mosaics and then cycle to the impressive Petrinović Mausoleum.\n\nThe tour takes you further to the relaxed village of Mirca, surrounded by olive groves. Back in Supetar, enjoy the sea at Tri mosta beach.\n\nA short ride to the statue of St. Roch ends your cycling exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Gumonca (Mirca)",
+            "tip": "Hervorragendes Olivenöl und lokaler Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Gumonca (Mirca)",
+            "tip": "Kiváló olívaolaj és helyi sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Gumonca (Mirca)",
+            "tip": "Ulei de măsline excelent și brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Gumonca (Mirca)",
+            "tip": "Excellent olive oil and local cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenwege",
+            "tip": "Ruhige Schotterwege zwischen Mirca und Supetar.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfa-utak",
+            "tip": "Csendes murvás utak Mirca és Supetar között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumurile măslinilor",
+            "tip": "Drumuri liniștite cu pietriș între Mirca și Supetar.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Paths",
+            "tip": "Quiet gravel paths between Mirca and Supetar.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rent-a-bike Supetar",
+            "tip": "Gute Auswahl an Mountainbikes und E-Bikes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Supetar kerékpárkölcsönző",
+            "tip": "Hegyi és elektromos kerékpárok jó választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rent-a-bike Supetar",
+            "tip": "O selecție bună de mountain bike și e-bike."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rent-a-bike Supetar",
+            "tip": "Good selection of mountain bikes and e-bikes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege entlang der Küste sind meist flach, das Hinterland ist sehr steil.",
+          "Nehmen Sie ausreichend Wasser mit, Trinkbrunnen sind selten.",
+          "Achten Sie auf Fußgänger auf der Promenade Riva."
+        ],
+        "hu": [
+          "A tengerparti utak többnyire síkok, de a hátország nagyon meredek.",
+          "Vigyen magával elegendő vizet, mert az ivókutak ritkák.",
+          "Ügyeljen a gyalogosokra a Riva sétányon."
+        ],
+        "ro": [
+          "Drumurile de-a lungul coastei sunt în mare parte plate, interiorul este foarte abrupt.",
+          "Luați suficientă apă, cișmelele sunt rare.",
+          "Atenție la pietonii de pe faleza Riva."
+        ],
+        "en": [
+          "The coastal paths are mostly flat, but the hinterland is very steep.",
+          "Take plenty of water with you; drinking fountains are rare.",
+          "Watch out for pedestrians on the Riva promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Supetar Zentrum",
+          "coords": [
+            16.5532,
+            43.3861
+          ],
+          "category": "region",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplatz am Hafen nutzen.",
+            "hu": "Használja a kikötői parkolót.",
+            "ro": "Folosiți parcarea din port.",
+            "en": "Use the harbor parking lot."
+          }
+        },
+        {
+          "name": "Vidova Gora",
+          "coords": [
+            16.6355,
+            43.2855
+          ],
+          "category": "mountain",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Höchster Gipfel aller adriatischen Inseln mit Top-Aussicht.",
+            "hu": "Az adriai szigetek legmagasabb csúcsa, pazar kilátással.",
+            "ro": "Cel mai înalt vârf al insulelor adriatice, cu o vedere de top.",
+            "en": "Highest peak of all Adriatic islands with a top view."
+          }
+        },
+        {
+          "name": "Donji Humac",
+          "coords": [
+            16.5355,
+            43.3455
+          ],
+          "category": "region",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein Dorf bekannt für seine Steinmetztradition.",
+            "hu": "Kőfaragó hagyományairól ismert hangulatos falu.",
+            "ro": "Un sat cunoscut pentru tradiția cioplitului în piatră.",
+            "en": "A village known for its stonemasonry tradition."
+          }
+        },
+        {
+          "name": "Mausoleum Petrinović",
+          "coords": [
+            16.5412,
+            43.3875
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze direkt vor dem Eingang zum Friedhof.",
+            "hu": "A temető bejárata előtt közvetlenül van parkolóhely.",
+            "ro": "Există locuri de parcare chiar în fața intrării în cimitir.",
+            "en": "There are parking spaces right in front of the cemetery entrance."
+          }
+        },
+        {
+          "name": "Strand Tri mosta",
+          "coords": [
+            16.5455,
+            43.3882
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz bei den Hotelanlagen.",
+            "hu": "Nagy parkoló a szállodakomplexumoknál.",
+            "ro": "Parcare mare la complexele hoteliere.",
+            "en": "Large parking lot at the hotel complexes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um das Herz von Brač zu erkunden. Starten Sie in Supetar und fahren Sie hinauf zur Vidova Gora für ein atemberaubendes Panorama.\n\nBesuchen Sie das Steindorf Donji Humac, bevor Sie zurück nach Supetar kehren, um das Mausoleum Petrinović zu bewundern.\n\nDen Nachmittag verbringen Sie entspannt am Strand Tri mosta, der bequem per Auto erreichbar ist.",
+        "hu": "Használja az autót Brač szívének felfedezéséhez. Kezdjen Supetarban, majd hajtson fel a Vidova Gorára a lélegzetelállító panorámáért.\n\nLátogasson el a kőfaragóiról híres Donji Humac faluba, mielőtt visszatérne Supetarba a Petrinović-mauzóleumhoz.\n\nA délutánt töltse pihenéssel a Tri mosta strandon, amely autóval is kényelmesen megközelíthető.",
+        "ro": "Folosiți mașina pentru a explora inima insulei Brač. Începeți în Supetar și conduceți până la Vidova Gora pentru o panoramă uluitoare.\n\nVizitați satul de piatră Donji Humac înainte de a reveni în Supetar pentru a admira Mausoleul Petrinović.\n\nDupă-amiaza o veți petrece relaxat pe plaja Tri mosta, ușor accesibilă cu mașina.",
+        "en": "Use your car to explore the heart of Brač. Start in Supetar and drive up to Vidova Gora for a breathtaking panorama.\n\nVisit the stone village of Donji Humac before returning to Supetar to admire the Petrinović Mausoleum.\n\nSpend the afternoon relaxing at Tri mosta beach, which is easily accessible by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kopačina (Donji Humac)",
+            "tip": "Legendäres Restaurant für Lamm-Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kopačina (Donji Humac)",
+            "tip": "Legendás étterem bárányspecialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kopačina (Donji Humac)",
+            "tip": "Restaurant legendar pentru specialități din miel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kopačina (Donji Humac)",
+            "tip": "Legendary restaurant for lamb specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel Vidova Gora",
+            "tip": "Frische Bergluft und Stille über der Adria.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidova Gora csúcs",
+            "tip": "Friss hegyi levegő és csend az Adria felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Vidova Gora",
+            "tip": "Aer curat de munte și liniște deasupra Adriaticii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidova Gora Peak",
+            "tip": "Fresh mountain air and silence over the Adriatic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinmetz-Werkstatt Jakšić",
+            "tip": "Hochwertiges Kunsthandwerk aus Bračer Stein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jakšić kőfaragó műhely",
+            "tip": "Kiváló minőségű kézműves tárgyak brači kőből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierul Jakšić",
+            "tip": "Artizanat de înaltă calitate din piatră de Brač."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jakšić Stonemasonry",
+            "tip": "High-quality handicrafts made from Brač stone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie in Supetar, es gibt nur wenige Tankstellen auf der Insel.",
+          "Die Straße zur Vidova Gora ist gut ausgebaut, aber steil.",
+          "Parkplätze am Zlatni Rat (Bol) sind im Sommer sehr teuer, bleiben Sie lieber in Supetar."
+        ],
+        "hu": [
+          "Supetarban tankoljon, mert kevés benzinkút van a szigeten.",
+          "A Vidova Gorára vezető út jól kiépített, de meredek.",
+          "A Zlatni Rat (Bol) parkolói nyáron nagyon drágák, érdemes Supetarban maradni."
+        ],
+        "ro": [
+          "Alimentați în Supetar, există puține benzinării pe insulă.",
+          "Drumul spre Vidova Gora este bine întreținut, dar abrupt.",
+          "Parcările de la Zlatni Rat (Bol) sunt foarte scumpe vara, mai bine rămâneți în Supetar."
+        ],
+        "en": [
+          "Refuel in Supetar; there are few gas stations on the island.",
+          "The road to Vidova Gora is well-maintained but steep.",
+          "Parking at Zlatni Rat (Bol) is very expensive in summer; better stay in Supetar."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fährhafen Supetar",
+          "coords": [
+            16.5545,
+            43.3865
+          ],
+          "category": "region",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunftsort der Fähren aus Split.",
+            "hu": "A Splitből érkező kompok kikötőhelye.",
+            "ro": "Locul de sosire a feriboturilor din Split.",
+            "en": "Arrival point for ferries from Split."
+          }
+        },
+        {
+          "name": "Riva-Promenade",
+          "coords": [
+            16.5532,
+            43.3861
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt nur 200m vom Hafen.",
+            "hu": "Központi találkozóhely, csak 200m-re a kikötőtől.",
+            "ro": "Punct central de întâlnire la doar 200m de port.",
+            "en": "Central meeting point just 200m from the harbor."
+          }
+        },
+        {
+          "name": "Pfarreimuseum",
+          "coords": [
+            16.5528,
+            43.3852
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Interessante sakrale Sammlung in der Nähe der Kirche.",
+            "hu": "Érdekes szakrális gyűjtemény a templom közelében.",
+            "ro": "Interesantă colecție sacră lângă biserică.",
+            "en": "Interesting sacral collection near the church."
+          }
+        },
+        {
+          "name": "Strand Tri mosta",
+          "coords": [
+            16.5455,
+            43.3882
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zu Fuß oder mit dem Touristenzug erreichbar.",
+            "hu": "Gyalog vagy a kisvonattal is elérhető.",
+            "ro": "Accesibil pe jos sau cu trenulețul turistic.",
+            "en": "Accessible on foot or by tourist train."
+          }
+        },
+        {
+          "name": "Riva (Abend)",
+          "coords": [
+            16.5532,
+            43.3861
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis vor der Rückfahrt mit der Fähre.",
+            "hu": "Fagyizzon egyet a komp visszaindulása előtt.",
+            "ro": "Savurați o înghețată înainte de întoarcerea cu feribotul.",
+            "en": "Enjoy an ice cream before the ferry ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Supetar ist ideal ohne Auto zu erkunden. Nach der Ankunft mit der Fähre schlendern Sie entlang der Riva und besuchen das Pfarreimuseum.\n\nEin kleiner Spaziergang (oder die Fahrt mit dem Bimmelzug) bringt Sie zum herrlichen Strand Tri mosta.\n\nVor der Rückfahrt nach Split haben Sie Zeit für ein Eis an der Riva, während Sie das bunte Treiben im Hafen beobachten.",
+        "hu": "Supetar kiválóan felfedezhető autó nélkül is. A komppal való érkezés után sétáljon végig a Riván, és látogasson el a Plébániamúzeumba.\n\nEgy rövid séta (vagy a városi kisvonat) elviszi a csodás Tri mosta strandra.\n\nA Splitbe való visszaindulás előtt marad idő egy fagyira a Riván, miközben a kikötő nyüzsgését figyeli.",
+        "ro": "Supetar este ideal de explorat fără mașină. După sosirea cu feribotul, plimbați-vă pe Riva și vizitați Muzeul Parohial.\n\nO scurtă plimbare (sau trenulețul turistic) vă va duce la minunata plajă Tri mosta.\n\nÎnainte de întoarcerea spre Split, aveți timp pentru o înghețată pe Riva, urmărind agitația din port.",
+        "en": "Supetar is ideal to explore without a car. After arriving by ferry, stroll along the Riva and visit the Parish Museum.\n\nA short walk (or a ride on the tourist train) takes you to the wonderful Tri mosta beach.\n\nBefore heading back to Split, there's time for an ice cream on the Riva while watching the harbor's hustle and bustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Supetar",
+            "tip": "Holen Sie sich eine frische Burek für den Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Supetar pékség",
+            "tip": "Vegyél egy friss bureket a strandra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Supetar",
+            "tip": "Luați un burek proaspăt pentru plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supetar Bakery",
+            "tip": "Get a fresh burek for the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhof-Cafés",
+            "tip": "Kleine Cafés in den schmalen Gassen abseits der Riva.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belső udvari kávézók",
+            "tip": "Kis kávézók a szűk utcákban, távol a Rivától.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele ascunse",
+            "tip": "Cafenele mici pe străduțele înguste, departe de Riva.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard Cafes",
+            "tip": "Small cafes in narrow alleys away from the Riva.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jadrolinija Schalter",
+            "tip": "Kaufen Sie Ihr Rückfahrticket direkt bei der Ankunft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jadrolinija pénztár",
+            "tip": "Vegye meg a visszajegyet rögtön érkezéskor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ghișeu Jadrolinija",
+            "tip": "Cumpărați biletul de întoarcere imediat la sosire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jadrolinija Counter",
+            "tip": "Buy your return ticket immediately upon arrival."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Touristenzug fährt regelmäßig vom Zentrum zu den Stränden.",
+          "Die Busstation befindet sich direkt am Hafen für Ausflüge nach Bol.",
+          "Die Fähre nach Split dauert etwa 50 Minuten."
+        ],
+        "hu": [
+          "A városi kisvonat rendszeresen jár a központ és a strandok között.",
+          "A buszpályaudvar közvetlenül a kikötőben van, ha Bolba kirándulna.",
+          "A komp Splitbe körülbelül 50 percig tart."
+        ],
+        "ro": [
+          "Trenulețul turistic circulă regulat de la centru spre plaje.",
+          "Stația de autobuz este chiar în port pentru excursii spre Bol.",
+          "Feribotul spre Split durează aproximativ 50 de minute."
+        ],
+        "en": [
+          "The tourist train runs regularly from the center to the beaches.",
+          "The bus station is located right at the harbor for trips to Bol.",
+          "The ferry to Split takes about 50 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Supetar",
+    "region": "HR-17",
+    "coords": [
+      16.55,
+      43.385
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en",
+    "transit_app": "https://getbybus.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.bracinfo.com/en/supetar",
+    "tourism_office": "https://www.bracinfo.com/en/supetar",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska.html",
+    "restaurants_booking": "https://www.zonzofox.com",
+    "museum_tickets": "https://www.bracinfo.com/en/supetar",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; in Supetar als Hauptfährhafen von Brač sprechen Tourismus-Mitarbeiter Englisch, Deutsch und Italienisch.",
+      "hu": "A hivatalos nyelv a horvát; Supetar mint Brač fő kompkikötője, a turisztikai dolgozók beszélnek angolul, németül és olaszul.",
+      "ro": "Limba oficială este croata; în Supetar, principalul port cu feribot al insulei Brač, personalul turistic vorbește engleză, germană și italiană.",
+      "en": "Croatian is official; Supetar as Brač main ferry port, tourism staff speak English, German and Italian."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober; Juni und September am angenehmsten. Fähre von Split (Jadrolinija) ca. 50 Min, im Sommer stündlich aber überfüllt.",
+      "hu": "Május-október; június és szeptember a legkellemesebb. Komp Splitből (Jadrolinija) kb. 50 perc, nyáron óránként de zsúfolt.",
+      "ro": "Mai-octombrie; iunie și septembrie cele mai plăcute. Feribot din Split (Jadrolinija) cca 50 min, vara orar dar aglomerat.",
+      "en": "May to October; June and September most pleasant. Ferry from Split (Jadrolinija) about 50 min, hourly in summer but crowded."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicherer Hafenort; Autoreservierung für Fähre nach Split in der Hochsaison dringend empfohlen (sonst stundenlange Wartezeit). Felsenstrände, Badeschuhe nützlich.",
+      "hu": "Biztonságos kikötőváros; autós kompfoglalás Splitbe főszezonban erősen ajánlott (különben órás várakozás). Sziklás strandok, vízicipő hasznos.",
+      "ro": "Port sigur; rezervarea feribotului auto spre Split în sezon vârf este puternic recomandată (altfel ore de așteptare). Plaje stâncoase, papuci de apă utili.",
+      "en": "Safe port town; car ferry reservation to Split strongly recommended in peak season (otherwise hours of waiting). Rocky beaches, water shoes useful."
+    }
+  }
+}

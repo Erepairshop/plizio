@@ -1,0 +1,940 @@
+{
+  "city_id": "biograd-na-moru",
+  "anchor": {
+    "name": "Biograd na Moru",
+    "coords": [
+      15.4467,
+      43.9433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Denkmal für König Tomislav",
+          "coords": [
+            15.4435,
+            43.9415
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt an der Uferpromenade.",
+            "hu": "Központi találkozóhely a vízparti sétányon.",
+            "ro": "Loc de întâlnire central pe faleză.",
+            "en": "Central meeting point on the waterfront."
+          }
+        },
+        {
+          "name": "Heimatmuseum Biograd",
+          "coords": [
+            15.443,
+            43.941
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehenswerte Sammlung antiker Schiffswracks.",
+            "hu": "Érdemes megnézni az ókori hajóroncs gyűjteményt.",
+            "ro": "Colecție remarcabilă de epave antice.",
+            "en": "Must-see collection of ancient shipwrecks."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Anastasia",
+          "coords": [
+            15.4438,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Barockkirche im Herzen der Stadt.",
+            "hu": "Barokk templom a város szívében.",
+            "ro": "Biserică barocă în inima orașului.",
+            "en": "Baroque church in the heart of the city."
+          }
+        },
+        {
+          "name": "Marina Kornati",
+          "coords": [
+            15.4455,
+            43.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Yachten im Hafen.",
+            "hu": "Csodálja meg a jachtokat a kikötőben.",
+            "ro": "Admirați iahturile din port.",
+            "en": "Admire the yachts in the harbor."
+          }
+        },
+        {
+          "name": "Strand Dražica",
+          "coords": [
+            15.451,
+            43.9385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beschatteter Strand durch Pinienwälder.",
+            "hu": "Fenyőerdő által árnyékolt strand.",
+            "ro": "Plajă umbrită de păduri de pini.",
+            "en": "Shaded beach thanks to pine forests."
+          }
+        },
+        {
+          "name": "Bucht Soline",
+          "coords": [
+            15.458,
+            43.932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sandiger Meeresboden, ideal für Familien.",
+            "hu": "Homokos meder, ideális családoknak.",
+            "ro": "Fund nisipos, ideal pentru familii.",
+            "en": "Sandy sea floor, ideal for families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Biograd na Moru zu Fuß, beginnend am Tomislav-Denkmal. Tauchen Sie im Heimatmuseum in die maritime Geschichte ein und besuchen Sie die barocke St.-Anastasia-Kirche. Nach einem Spaziergang durch die moderne Marina Kornati führt der Weg entlang der Küste zum beliebten Strand Dražica. Den Nachmittag genießen Sie in der flachen Bucht Soline, bevor Sie den Tag in einem der zahlreichen Restaurants an der Riva ausklingen lassen.",
+        "hu": "Fedezze fel Biograd na Morut gyalogosan, a Tomislav-emlékműtől indulva. Merüljön el a tengeri történelemben a Helytörténeti Múzeumban, majd látogasson el a barokk Szent Anasztázia-templomhoz. A modern Marina Kornati kikötői sétája után az út a népszerű Dražica strandhoz vezet. A délutánt töltse a sekély Soline-öbölben, majd zárja a napot a Riva számos éttermének egyikében.",
+        "ro": "Descoperiți Biograd na Moru la pas, începând de la monumentul lui Tomislav. Explorați istoria maritimă la Muzeul Local și vizitați biserica barocă Sf. Anastasia. După o plimbare prin moderna Marina Kornati, drumul vă poartă spre populara plajă Dražica. Bucurați-vă de după-amiază în golful liniștit Soline, înainte de a încheia ziua la unul dintre restaurantele de pe faleză.",
+        "en": "Discover Biograd na Moru on foot, starting at the Tomislav monument. Dive into maritime history at the Local Museum and visit the baroque St. Anastasia Church. After a stroll through the modern Marina Kornati, the path leads along the coast to the popular Dražica beach. Enjoy the afternoon in the shallow Soline Bay before ending the day at one of the many restaurants on the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buzara-Muscheln",
+            "tip": "In Knoblauch und Weißwein gegart, ein Küstenklassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buzara kagyló",
+            "tip": "Fokhagymás-fehérboros mártásban, tengerparti klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scoici Buzara",
+            "tip": "Gătite în usturoi și vin alb, un clasic al coastei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mussels Buzara",
+            "tip": "Cooked in garlic and white wine, a coastal classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soline Pinienwald",
+            "tip": "Kühler Rückzugsort am Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soline fenyves",
+            "tip": "Hűvös menedék a délutáni órákban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Soline",
+            "tip": "Refugiu răcoros în timpul după-amiezii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soline Pine Forest",
+            "tip": "Cool retreat during the afternoon heat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "An den Ständen am Hafen zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsákok",
+            "tip": "A kikötő melletti árusoknál kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Se găsesc la tarabele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Sachets",
+            "tip": "Found at the stalls near the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Riva ist abends belebt, perfekt zum Flanieren.",
+          "Das Museum hat mittags oft eine Pause.",
+          "Badeschuhe sind auch hier empfehlenswert.",
+          "Trinken Sie morgens einen Kaffee am Hafen."
+        ],
+        "hu": [
+          "A Riva este életre kel, tökéletes a korzózáshoz.",
+          "A múzeum délben gyakran zárva tart.",
+          "Úszócipő itt is ajánlott.",
+          "Igyon meg egy reggeli kávét a kikötőben."
+        ],
+        "ro": [
+          "Faleza este animată seara, perfectă pentru promenadă.",
+          "Muzeul are adesea pauză la prânz.",
+          "Încălțămintea de apă este recomandată și aici.",
+          "Savurați o cafea dimineața în port."
+        ],
+        "en": [
+          "The Riva is lively in the evening, perfect for a stroll.",
+          "The museum often has a midday break.",
+          "Water shoes are recommended here as well.",
+          "Enjoy a morning coffee at the harbor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Kornati",
+          "coords": [
+            15.4455,
+            43.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit viel Platz zum Radfahren.",
+            "hu": "Tágas kiindulópont a kerékpározáshoz.",
+            "ro": "Punct de plecare cu mult spațiu pentru biciclete.",
+            "en": "Spacious starting point for cycling."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Antonius",
+          "coords": [
+            15.445,
+            43.938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kleine, friedliche Kapelle am Stadtrand.",
+            "hu": "Kicsi, békés kápolna a város szélén.",
+            "ro": "Capelă mică și liniștită la marginea orașului.",
+            "en": "Small, peaceful chapel on the outskirts."
+          }
+        },
+        {
+          "name": "Strand Dražica",
+          "coords": [
+            15.451,
+            43.9385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radweg führt durch den Schatten der Bäume.",
+            "hu": "A kerékpárút a fák árnyékában vezet.",
+            "ro": "Pista de biciclete trece prin umbra copacilor.",
+            "en": "The bike path runs through the shade of trees."
+          }
+        },
+        {
+          "name": "Bucht Soline",
+          "coords": [
+            15.458,
+            43.932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Guter Stopp für eine Erfrischung.",
+            "hu": "Jó hely egy kis frissítőhöz.",
+            "ro": "Un loc bun pentru o răcorire.",
+            "en": "Good stop for a quick refreshment."
+          }
+        },
+        {
+          "name": "Fun Park Biograd",
+          "coords": [
+            15.475,
+            43.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der 'kroatische Gardaland' für Abenteuerlustige.",
+            "hu": "A 'horvát Gardaland' a kalandvágyóknak.",
+            "ro": "Supranumit 'Gardaland-ul croat'.",
+            "en": "The 'Croatian Gardaland' for thrill-seekers."
+          }
+        },
+        {
+          "name": "Heimatmuseum Biograd",
+          "coords": [
+            15.443,
+            43.941
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Abschluss mit Kultur im Stadtzentrum.",
+            "hu": "Kulturális zárás a városközpontban.",
+            "ro": "Final cultural în centrul orașului.",
+            "en": "A cultural finish in the town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Biograd und seine Küste mit dem Fahrrad. Von der Marina geht es zur ruhigen St.-Antonius-Kirche und weiter auf den schattigen Wegen entlang der Strände Dražica und Soline. Das Highlight für Action-Fans ist der Fun Park Biograd im Süden der Stadt. Auf dem Rückweg tauchen Sie im Heimatmuseum noch einmal in die Geschichte ein. Eine abwechslungsreiche Tour zwischen Natur, Adrenalin und Kultur.",
+        "hu": "Kerékpározzon Biogradban és a tengerpart mentén. A kikötőtől indulva érintse a csendes Szent Antal-templomot, majd folytassa útját az árnyas utakon a Dražica és Soline strandok mentén. Az akciókedvelőknek a várostól délre fekvő Fun Park Biograd a fő attrakció. Visszafelé a Helytörténeti Múzeumban még egyszer elmélyedhet a történelemben. Változatos túra természet, adrenalin és kultúra között.",
+        "ro": "Explorați Biogradul și coasta sa cu bicicleta. De la marină porniți spre liniștita biserică Sf. Anton și continuați pe potecile umbrite de-a lungul plajelor Dražica și Soline. Punctul culminant pentru fanii adrenalinei este Fun Park Biograd, în sudul orașului. La întoarcere, vizitați Muzeul Local pentru o doză finală de istorie. Un tur variat între natură, adrenalină și cultură.",
+        "en": "Cycle through Biograd and its coastline. From the marina, head to the peaceful St. Anthony's Church and continue along the shaded paths by Dražica and Soline beaches. The highlight for thrill-seekers is Fun Park Biograd south of town. On the way back, immerse yourself in history at the Local Museum. A diverse tour blending nature, adrenaline, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiskaffee",
+            "tip": "Perfekte Erfrischung nach der Fahrt im Cafe Arkada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jegeskávé",
+            "tip": "Tökéletes frissítő a túra után a Cafe Arkadában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iced Coffee",
+            "tip": "Răcorirea perfectă după drum la Cafe Arkada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iced Coffee",
+            "tip": "Perfect refreshment after the ride at Cafe Arkada."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Antonius-Kirche",
+            "tip": "Sehr ruhiger Ort am Rande der Pinien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Antal templom",
+            "tip": "Nagyon csendes hely a fenyvesek szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Anton",
+            "tip": "Loc foarte liniștit la marginea pinilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anthony Church",
+            "tip": "Very peaceful spot at the edge of the pines.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportartikel",
+            "tip": "Lokale Geschäfte nahe der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportcikkek",
+            "tip": "Helyi üzletek a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole sportive",
+            "tip": "Magazine locale lângă marină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sporting Goods",
+            "tip": "Local shops near the marina area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Soline ist fast komplett eben.",
+          "Schließen Sie Ihr Rad am Fun Park sicher an.",
+          "Meiden Sie die Hauptstraße, nutzen Sie Küstenwege.",
+          "Vorsicht vor Fußgängern auf der Promenade."
+        ],
+        "hu": [
+          "A Soline-ba vezető út szinte teljesen sík.",
+          "Zárja le biztonságosan a bringát a Fun Parknál.",
+          "Kerülje a főutat, használja a tengerparti utakat.",
+          "Vigyázzon a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Traseul spre Soline este aproape complet plat.",
+          "Asigurați-vă bine bicicleta la Fun Park.",
+          "Evitați drumul principal, folosiți potecile de coastă.",
+          "Atenție la pietoni pe faleză."
+        ],
+        "en": [
+          "The route to Soline is almost entirely flat.",
+          "Secure your bike properly at Fun Park.",
+          "Avoid the main road; stick to the coastal paths.",
+          "Watch out for pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Heimatmuseum Biograd",
+          "coords": [
+            15.443,
+            43.941
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafenbecken.",
+            "hu": "Parkoljon a kikötői medencénél.",
+            "ro": "Parcați lângă bazinul portului.",
+            "en": "Park near the harbor basin."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Anastasia",
+          "coords": [
+            15.4438,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum.",
+            "hu": "Rövid megálló a központban.",
+            "ro": "Oprire scurtă în centru.",
+            "en": "Short stop in the city center."
+          }
+        },
+        {
+          "name": "Bucht Soline",
+          "coords": [
+            15.458,
+            43.932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz im Schatten der Pinien.",
+            "hu": "Nagy parkoló a fenyőfák árnyékában.",
+            "ro": "Parcare mare la umbra pinilor.",
+            "en": "Large parking lot in the pine shade."
+          }
+        },
+        {
+          "name": "Fun Park Biograd",
+          "coords": [
+            15.475,
+            43.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genügend Parkplätze direkt am Eingang.",
+            "hu": "Elegendő parkoló közvetlenül a bejáratnál.",
+            "ro": "Suficiente locuri de parcare la intrare.",
+            "en": "Ample parking right at the entrance."
+          }
+        },
+        {
+          "name": "Marina Kornati",
+          "coords": [
+            15.4455,
+            43.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Abendspaziergang vor der Rückfahrt.",
+            "hu": "Esti séta a visszaindulás előtt.",
+            "ro": "Plimbare de seară înainte de plecare.",
+            "en": "Evening stroll before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Biograd und seine Attraktionen ganz entspannt. Starten Sie mit Kultur im Heimatmuseum und der Anastasia-Kirche. Danach bietet die Bucht Soline perfekte Bademöglichkeiten mit einfachem Parken. Den Nachmittag verbringen Sie im Fun Park Biograd, bevor Sie zur Marina Kornati zurückkehren, um die beeindruckenden Schiffe bei Sonnenuntergang zu sehen. Ein Tag voller Abwechslung für die ganze Familie.",
+        "hu": "Autóval kényelmesen felfedezheti Biogradot és látnivalóit. Kezdjen kultúrával a Helytörténeti Múzeumban és az Anasztázia-templomnál. Ezután a Soline-öböl kínál tökéletes fürdőzési lehetőséget könnyű parkolással. A délutánt töltse a Fun Park Biogradban, majd térjen vissza a Marina Kornatihoz, hogy naplementekor megcsodálja a lenyűgöző hajókat. Változatos nap az egész családnak.",
+        "ro": "Cu mașina, explorați Biogradul și atracțiile sale în mod relaxat. Începeți cu cultura la Muzeul Local și biserica Anastasia. Apoi, golful Soline oferă condiții perfecte de baie și parcare facilă. Petreceți după-amiaza la Fun Park Biograd, înainte de a reveni la Marina Kornati pentru a vedea navele impresionante la apus. O zi plină de diversitate pentru întreaga familie.",
+        "en": "By car, you can explore Biograd and its attractions at your own pace. Start with culture at the Local Museum and Anastasia Church. Afterward, Soline Bay offers perfect swimming with easy parking. Spend the afternoon at Fun Park Biograd before returning to Marina Kornati to see the impressive ships at sunset. A day full of variety for the whole family."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmatinische Pasticada",
+            "tip": "Traditionelles Rinderragout in süß-saurer Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát Pasticada",
+            "tip": "Hagyományos marharagu édes-savanyú mártásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticada dalmată",
+            "tip": "Tocăniță de vită tradițională în sos dulce-acrișor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Pasticada",
+            "tip": "Traditional beef stew in a sweet and sour sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marina Stege",
+            "tip": "Beobachten Sie das sanfte Schaukeln der Boote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői mólók",
+            "tip": "Figyelje a hajók lágy ringatózását.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digurile marinei",
+            "tip": "Urmăriți legănarea ușoară a bărcilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Piers",
+            "tip": "Watch the gentle swaying of the boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "In den kleinen Läden der Altstadt kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon az óváros kisboltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "De găsit în micile magazine din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy it in the small shops in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison ist die Parkplatzsuche im Zentrum schwierig.",
+          "Nutzen Sie die Park-App für bequemes Bezahlen.",
+          "Besuchen Sie den Fun Park wochentags für kürzere Schlangen.",
+          "Fahren Sie zum nahen Aussichtspunkt Kamenjak für Weitblick."
+        ],
+        "hu": [
+          "Főszezonban nehéz parkolót találni a központban.",
+          "Használja a parkolási appot a kényelmes fizetéshez.",
+          "Látogassa a Fun Parkot hétköznap a rövidebb sorokért.",
+          "Hajtson fel a közeli Kamenjak kilátóhoz a panorámáért."
+        ],
+        "ro": [
+          "În plin sezon, parcarea în centru este dificilă.",
+          "Folosiți aplicația de parcare pentru plată ușoară.",
+          "Vizitați Fun Park în timpul săptămânii pentru cozi mai mici.",
+          "Mergeți la belvederea Kamenjak din apropiere pentru priveliște."
+        ],
+        "en": [
+          "Parking in the center is difficult during peak season.",
+          "Use the parking app for convenient payment.",
+          "Visit Fun Park on weekdays for shorter queues.",
+          "Drive to nearby Kamenjak viewpoint for great vistas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Denkmal für König Tomislav",
+          "coords": [
+            15.4435,
+            43.9415
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist nur wenige Schritte entfernt.",
+            "hu": "A buszpályaudvar csak pár lépésre van.",
+            "ro": "Autogara este la doar câțiva pași distanță.",
+            "en": "The bus station is just a few steps away."
+          }
+        },
+        {
+          "name": "Heimatmuseum Biograd",
+          "coords": [
+            15.443,
+            43.941
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt im Ort.",
+            "hu": "Központi tájékozódási pont a városban.",
+            "ro": "Punct central de referință în oraș.",
+            "en": "Central landmark in the town."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Anastasia",
+          "coords": [
+            15.4438,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Hafen erreichbar.",
+            "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
+            "ro": "Accesibil ușor pe jos din port.",
+            "en": "Easily reachable on foot from the harbor."
+          }
+        },
+        {
+          "name": "Marina Kornati",
+          "coords": [
+            15.4455,
+            43.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Viel Gastronomie in der direkten Umgebung.",
+            "hu": "Sok étterem található a közvetlen közelében.",
+            "ro": "Multe restaurante în imediata apropiere.",
+            "en": "Many dining options in the immediate area."
+          }
+        },
+        {
+          "name": "Strand Dražica",
+          "coords": [
+            15.451,
+            43.9385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Strand in Reichweite der Haltestelle.",
+            "hu": "A legjobb strand a buszmegálló közelében.",
+            "ro": "Cea mai bună plajă accesibilă din stație.",
+            "en": "Best beach within reach of the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Biograd ist ein wichtiger Verkehrsknotenpunkt und gut per Bus erreichbar. Vom Busbahnhof am Hafen sind alle Sehenswürdigkeiten im Zentrum, wie das Heimatmuseum und die Anastasia-Kirche, in wenigen Minuten zu Fuß erreichbar. Spazieren Sie zur Marina Kornati und weiter zum Strand Dražica, ohne sich um Parkplätze sorgen zu müssen. Die ideale Wahl für Reisende, die die Küstenstädte Dalmatiens nachhaltig erkunden möchten.",
+        "hu": "Biograd fontos közlekedési csomópont, busszal kiválóan elérhető. A kikötő melletti buszpályaudvartól minden központi látnivaló, mint a Helytörténeti Múzeum és az Anasztázia-templom, pár perc alatt elérhető gyalog. Sétáljon el a Marina Kornatihoz, majd tovább a Dražica strandra anélkül, hogy a parkolás miatt aggódna. Ideális választás az utazóknak, akik fenntartható módon fedeznék fel Dalmácia partjait.",
+        "ro": "Biograd este un important nod de transport, ușor accesibil cu autobuzul. De la autogara din port, toate obiectivele centrale, cum ar fi Muzeul Local și biserica Anastasia, sunt la câteva minute de mers pe jos. Mergeți la Marina Kornati și mai departe la plaja Dražica fără grija parcării. Alegerea ideală pentru călătorii care doresc să exploreze orașele de coastă dalmate într-un mod sustenabil.",
+        "en": "Biograd is a key transport hub and very accessible by bus. From the station by the harbor, all central sights like the Local Museum and Anastasia Church are just minutes away on foot. Stroll to Marina Kornati and on to Dražica beach without worrying about parking. The ideal choice for travelers wanting to explore Dalmatian coastal towns sustainably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Calamari",
+            "tip": "Ein Muss in den Restaurants an der Uferpromenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett kalamári",
+            "tip": "Kihagyhatatlan a vízparti sétány éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamari la grătar",
+            "tip": "Obligatoriu de încercat la restaurantele de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Calamari",
+            "tip": "A must-try at the restaurants along the waterfront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz St. Anastasia",
+            "tip": "Schatten und Ruhe im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Anasztázia templom tér",
+            "tip": "Árnyék és nyugalom a központban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii Sf. Anastasia",
+            "tip": "Umbră și liniște în centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anastasia Church Square",
+            "tip": "Shade and quiet in the town center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Obst",
+            "tip": "Frischmarkt in der Nähe des Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gyümölcs",
+            "tip": "Friss piac a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe locale",
+            "tip": "Piața de fructe proaspete de lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Fruit",
+            "tip": "Fresh market located near the bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Biograd ist Startpunkt für viele Fähren zu den Inseln.",
+          "Die Fahrpläne hängen am Hauptbahnhof aus.",
+          "Nutzen Sie die App 'FlixBus' für überregionale Fahrten.",
+          "Gepäckaufbewahrung ist oft am Busbahnhof möglich."
+        ],
+        "hu": [
+          "Biograd számos szigeti komp kiindulópontja.",
+          "A menetrendek ki vannak függesztve a pályaudvaron.",
+          "Használja a 'FlixBus' appot a távolsági járatokhoz.",
+          "Csomagmegőrző gyakran igénybe vehető a buszpályaudvaron."
+        ],
+        "ro": [
+          "Biograd este punctul de plecare pentru multe feriboturi.",
+          "Orarele sunt afișate la autogara principală.",
+          "Folosiți aplicația 'FlixBus' pentru cursele pe distanțe lungi.",
+          "Depozitarea bagajelor este adesea posibilă la autogară."
+        ],
+        "en": [
+          "Biograd is the starting point for many island ferries.",
+          "Schedules are posted at the main bus station.",
+          "Use the 'FlixBus' app for intercity travel.",
+          "Luggage storage is often available at the bus station."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Biograd na Moru",
+    "region": "HR-13",
+    "coords": [
+      15.4467,
+      43.9433
+    ],
+    "transit_official": "https://www.arriva.com.hr/",
+    "transit_app": "https://getbybus.com/hr",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.biogradnamoru.hr/",
+    "tourism_office": "https://www.biogradnamoru.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/zadarska/biograd-na-moru.html",
+    "restaurants_booking": "https://www.biogradnamoru.hr/",
+    "museum_tickets": "https://www.ulaznice.hr/",
+    "parking_real_time": "https://www.hak.hr/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache. Deutsch und Italienisch in der Tourismusbranche oft verstanden. Danke: Hvala.",
+      "hu": "A horvát a hivatalos nyelv. Németet és olaszt sokan értenek a turizmusban. Köszönöm: Hvala.",
+      "ro": "Croata este limba oficială. Germana și italiana sunt înțelese în turism. Mulțumesc: Hvala.",
+      "en": "Croatian is official. German and Italian are commonly understood in tourism. Thank you: Hvala."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September. Familienorientierter Badeort, Juli/August voll, Anfang Juni und September ruhiger mit warmem Meer.",
+      "hu": "Május és szeptember között. Családbarát üdülőhely, július-augusztus zsúfolt, június eleje és szeptember csendesebb.",
+      "ro": "Din mai până în septembrie. Stațiune familială, iulie-august aglomerate, începutul lui iunie și septembrie mai liniștite.",
+      "en": "May to September. Family resort; July-August packed, early June and September quieter with warm sea."
+    },
+    "neighborhood_warnings": {
+      "de": "Marina-Bereich verkehrsreich, im Sommer lange Staus auf der D8. Pinienpollen im Frühjahr. Strandbereich stellenweise kieselig.",
+      "hu": "A jachtkikötő körül forgalmas, nyáron D8-on torlódás. Tavasszal fenyőpollen. A partszakasz több helyen kavicsos.",
+      "ro": "Zona marinei e aglomerată, vara cozi pe D8. Polen de pin primăvara. Plaja este pe alocuri pietroasă.",
+      "en": "Marina area busy; long D8 traffic jams in summer. Pine pollen in spring. Beach pebbly in places."
+    }
+  }
+}

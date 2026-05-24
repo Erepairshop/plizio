@@ -1,0 +1,1164 @@
+{
+  "city_id": "groznjan",
+  "anchor": {
+    "name": "Grožnjan",
+    "coords": [
+      13.7128,
+      45.3722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.2,
+      "stop_count": 10,
+      "stops": [
+        {
+          "name": {
+            "de": "Loggia von Grožnjan",
+            "hu": "Grozsnyáni Loggia",
+            "ro": "Loggia din Grožnjan",
+            "en": "Grožnjan Loggia"
+          },
+          "coords": [
+            13.7128,
+            45.3722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den ersten Morgenkaffee mit Blick auf die Gassen.",
+            "hu": "Tökéletes hely az első reggeli kávéhoz, rálátással a szűk utcákra.",
+            "ro": "Locul perfect pentru prima cafea de dimineață, cu vedere la străduțe.",
+            "en": "Perfect spot for the first morning coffee with a view of the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern und Stadttor",
+            "hu": "Várfalak és Városkapu",
+            "ro": "Zidurile Cetății și Poarta Orașului",
+            "en": "City Walls and Gate"
+          },
+          "coords": [
+            13.712,
+            45.3715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die massiven Mauern stammen aus dem 14. Jahrhundert.",
+            "hu": "A masszív falak a 14. századból származnak.",
+            "ro": "Zidurile masive datează din secolul al XIV-lea.",
+            "en": "The massive walls date back to the 14th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Vitus",
+            "hu": "Szent Vid plébániatemplom",
+            "ro": "Biserica parohială Sfântul Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            13.7135,
+            45.3725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Chorgestühl aus dem 18. Jahrhundert.",
+            "hu": "Csodálja meg a 18. századi barokk kórust.",
+            "ro": "Admirați stranele baroce ale corului din secolul al XVIII-lea.",
+            "en": "Admire the 18th-century Baroque choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Spinotti",
+            "hu": "Spinotti-palota",
+            "ro": "Palatul Spinotti",
+            "en": "Spinotti Palace"
+          },
+          "coords": [
+            13.7125,
+            45.3718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einst Sitz der Adelsfamilie, heute ein Symbol lokaler Geschichte.",
+            "hu": "Egykor nemesi család székhelye, ma a helyi történelem szimbóluma.",
+            "ro": "Fosta reședință a familiei nobiliare, astăzi un simbol al istoriei locale.",
+            "en": "Former seat of a noble family, now a symbol of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Fonticus",
+            "hu": "Fonticus Galéria",
+            "ro": "Galeria Fonticus",
+            "en": "Fonticus Gallery"
+          },
+          "coords": [
+            13.713,
+            45.372
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hort zeitgenössischer Kunst in einem historischen Gebäude.",
+            "hu": "Kortárs művészeti központ egy történelmi épületben.",
+            "ro": "Centru de artă contemporană într-o clădire istorică.",
+            "en": "Hub of contemporary art inside a historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationales Kulturzentrum",
+            "hu": "Nemzetközi Kulturális Központ",
+            "ro": "Centrul Cultural Internațional",
+            "en": "International Cultural Centre"
+          },
+          "coords": [
+            13.714,
+            45.3722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier proben im Sommer oft Musiker aus aller Welt.",
+            "hu": "Nyáron gyakran próbálnak itt zenészek a világ minden tájáról.",
+            "ro": "Vara, aici repetă adesea muzicieni din întreaga lume.",
+            "en": "Musicians from all over the world often rehearse here in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schmiede",
+            "hu": "Régi Kovácsműhely",
+            "ro": "Vechile Fierării",
+            "en": "Old Smithy"
+          },
+          "coords": [
+            13.7145,
+            45.3715
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einblick in das traditionelle Handwerk der Region.",
+            "hu": "Betekintés a régió hagyományos mesterségeibe.",
+            "ro": "O privire asupra meșteșugurilor tradiționale ale regiunii.",
+            "en": "Insight into the traditional crafts of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor Balwan",
+            "hu": "Balwan városkapu",
+            "ro": "Poarta Balwan",
+            "en": "Balwan Gate"
+          },
+          "coords": [
+            13.7105,
+            45.3725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kleineres, charmantes Tor im westlichen Teil.",
+            "hu": "Kisebb, bájos kapu a város nyugati részén.",
+            "ro": "O poartă mai mică și fermecătoare în partea de vest.",
+            "en": "A smaller, charming gate in the western part."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Cosmas und Damian",
+            "hu": "Szent Kozma és Damján kápolna",
+            "ro": "Capela Sf. Cosma și Damian",
+            "en": "Chapel of St. Cosmas and Damian"
+          },
+          "coords": [
+            13.7155,
+            45.3705
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In der Nähe befinden sich oft kleine Freiluft-Ateliers.",
+            "hu": "A közelben gyakran találni kis szabadtéri műhelyeket.",
+            "ro": "În apropiere se află adesea mici ateliere în aer liber.",
+            "en": "Small open-air studios are often found nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirna-Tal",
+            "hu": "Mirna-völgyi kilátó",
+            "ro": "Punct de belvedere Valea Mirna",
+            "en": "Mirna Valley Viewpoint"
+          },
+          "coords": [
+            13.7115,
+            45.373
+          ],
+          "category": "natural features",
+          "arrive_at": "15:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort für Fotos bei Sonnenuntergang.",
+            "hu": "A legjobb hely fotózáshoz naplementekor.",
+            "ro": "Cel mai bun loc pentru fotografii la apus.",
+            "en": "The best place for photos at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Willkommen in Grožnjan, der Stadt der Künstler. Der Morgen beginnt an der Loggia, wo die Zeit stillzustehen scheint. Schlendern Sie durch die mittelalterlichen Gassen zum Stadttor und spüren Sie die Geschichte der massiven Mauern.\n\nMittags tauchen Sie in die Welt der Kunst ein. Der Palast Spinotti und die Galerie Fonticus zeigen, warum dieser Ort in den 1960er Jahren von Künstlern wiederbelebt wurde. Jede Ecke bietet ein neues Detail oder eine kleine Galerie.\n\nDer Nachmittag steht im Zeichen der Musik und des Handwerks. Im Internationalen Kulturzentrum hört man oft klassische Klänge, während die Alte Schmiede an die harte Arbeit vergangener Tage erinnert. Ein Spaziergang zum Balwan-Tor rundet die Erkundung ab.\n\nZum Ausklang des Tages bietet die Kapelle St. Cosmas Ruhe, bevor Sie den Aussichtspunkt über das Mirna-Tal aufsuchen. Hier erleben Sie einen der schönsten Panoramablicke Istriens, wenn die Sonne die Hügel in goldenes Licht taucht.",
+        "hu": "Üdvözöljük Grozsnyánban, a művészek városában. A reggel a Loggiánál kezdődik, ahol megállni látszik az idő. Sétáljon a középkori utcákon a városkapuig, és érezze a masszív falak történelmi erejét.\n\nDélben merüljön el a művészet világában. A Spinotti-palota és a Fonticus Galéria megmutatja, miért keltették életre a művészek ezt a helyet az 1960-as években. Minden sarok egy új részletet vagy egy kis galériát rejt.\n\nA délután a zene és a kézművesség jegyében telik. A Nemzetközi Kulturális Központban gyakran hallani klasszikus dallamokat, míg a Régi Kovácsműhely a múlt nehéz munkájára emlékeztet. A Balwan-kapuhoz tett séta teszi teljessé a felfedezést.\n\nA nap végén a Szent Kozma kápolna nyújt nyugalmat, mielőtt felkeresné a Mirna-völgyre néző kilátót. Itt tapasztalhatja meg Isztria egyik legszebb panorámáját, amikor a nap arany fénybe vonja a dombokat.",
+        "ro": "Bun venit în Grožnjan, orașul artiștilor. Dimineața începe la Loggia, unde timpul pare să stea în loc. Plimbați-vă pe străzile medievale până la poarta orașului și simțiți istoria zidurilor masive.\n\nLa prânz, scufundați-vă în lumea artei. Palatul Spinotti și Galeria Fonticus arată de ce acest loc a fost revitalizat de artiști în anii 1960. Fiecare colț oferă un nou detaliu sau o mică galerie.\n\nDupă-amiaza este dedicată muzicii și meșteșugurilor. În Centrul Cultural Internațional se aud adesea sunete clasice, în timp ce Vechile Fierării amintesc de munca grea a vremurilor trecute. O plimbare la Poarta Balwan completează explorarea.\n\nLa sfârșitul zilei, Capela Sf. Cosma oferă liniște, înainte de a vizita punctul de belvedere peste Valea Mirna. Aici veți experimenta una dintre cele mai frumoase panorame ale Istriei, când soarele scaldă dealurile în lumină aurie.",
+        "en": "Welcome to Grožnjan, the city of artists. The morning begins at the Loggia, where time seems to stand still. Stroll through the medieval alleys to the city gate and feel the history of the massive walls.\n\nAt midday, immerse yourself in the world of art. The Spinotti Palace and the Fonticus Gallery show why this place was revitalized by artists in the 1960s. Every corner offers a new detail or a small gallery.\n\nThe afternoon is dedicated to music and crafts. At the International Cultural Centre, classical sounds are often heard, while the Old Smithy reminds of the hard work of past days. A walk to the Balwan Gate rounds off the exploration.\n\nAt the end of the day, the Chapel of St. Cosmas offers peace before you head to the viewpoint over the Mirna Valley. Here you will experience one of Istria's most beautiful panoramas when the sun bathes the hills in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Bastia",
+            "tip": "Probieren Sie die hausgemachten Fritaja mit istrischen Trüffeln."
+          },
+          {
+            "name": "Pintur",
+            "tip": "Traditionelle Jota und lokaler Prosciutto (Pršut)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Bastia",
+            "tip": "Kóstolja meg a házi készítésű fritaját isztriai szarvasgombával."
+          },
+          {
+            "name": "Pintur",
+            "tip": "Hagyományos jota és helyi pršut (sonka)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Bastia",
+            "tip": "Încercați fritaja de casă cu trufe istriene."
+          },
+          {
+            "name": "Pintur",
+            "tip": "Jota tradițională și prosciutto local (Pršut)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Bastia",
+            "tip": "Try the homemade fritaja with Istrian truffles."
+          },
+          {
+            "name": "Pintur",
+            "tip": "Traditional jota and local prosciutto (Pršut)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna-Tal Panorama",
+            "tip": "Stille genießen beim Blick über die Weinberge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Südliche Stadtmauern",
+            "tip": "Ein ruhiger Platz abseits der Galerien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna-völgyi panoráma",
+            "tip": "Élvezze a csendet a szőlőültetvényekre nézve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Déli várfalak",
+            "tip": "Csendes hely távol a galériák zajától.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Valea Mirna",
+            "tip": "Bucurați-vă de liniște privind peste podgorii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile de sud",
+            "tip": "Un loc liniștit departe de galerii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Valley Panorama",
+            "tip": "Enjoy the silence while looking over the vineyards.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Southern City Walls",
+            "tip": "A quiet spot away from the galleries.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atelier-Gasse",
+            "tip": "Handgefertigte Keramik und Originalgemälde."
+          },
+          {
+            "name": "Zigante",
+            "tip": "Hochwertige Trüffelprodukte und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művész-köz",
+            "tip": "Kézzel készített kerámiák és eredeti festmények."
+          },
+          {
+            "name": "Zigante",
+            "tip": "Kiváló minőségű szarvasgombás termékek és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleea Atelierelor",
+            "tip": "Ceramică lucrată manual și picturi originale."
+          },
+          {
+            "name": "Zigante",
+            "tip": "Produse cu trufe de înaltă calitate și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atelier Alley",
+            "tip": "Handmade ceramics and original paintings."
+          },
+          {
+            "name": "Zigante",
+            "tip": "High-quality truffle products and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das historische Kopfsteinpflaster.",
+          "Besuchen Sie Grožnjan am späten Nachmittag, wenn das Licht ideal für Fotos ist.",
+          "Nehmen Sie sich Zeit, um in die kleinen Ateliers hineinzuschauen.",
+          "Parken Sie auf dem großen Parkplatz vor dem Stadteingang."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a történelmi macskaköves utcákhoz.",
+          "Látogasson el Grozsnyánba késő délután, amikor a fények ideálisak a fotózáshoz.",
+          "Szánjon időt arra, hogy benézzen a kis műhelyekbe.",
+          "Parkoljon a város bejárata előtti nagy parkolóban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru pavajul istoric cu piatră cubică.",
+          "Vizitați Grožnjan după-amiaza târziu, când lumina este ideală pentru fotografii.",
+          "Acordați-vă timp pentru a privi în micile ateliere.",
+          "Parcați în parcarea mare din fața intrării în oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes for the historic cobblestone streets.",
+          "Visit Grožnjan in the late afternoon when the light is ideal for photos.",
+          "Take your time to look inside the small studios.",
+          "Park in the large parking lot in front of the city entrance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Loggia",
+            "hu": "Loggia",
+            "ro": "Loggia",
+            "en": "Loggia"
+          },
+          "coords": [
+            13.7128,
+            45.3722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt.",
+            "hu": "Kiindulópont.",
+            "ro": "Punct de pornire.",
+            "en": "Starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Parenzana Tunnel",
+            "hu": "Parenzana alagút",
+            "ro": "Tunelul Parenzana",
+            "en": "Parenzana Tunnel"
+          },
+          "coords": [
+            13.725,
+            45.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Teil der alten Eisenbahnstrecke.",
+            "hu": "A régi vasútvonal része.",
+            "ro": "O parte a vechii linii ferate.",
+            "en": "Part of the old railway line."
+          }
+        },
+        {
+          "name": {
+            "de": "Završje Ausblick",
+            "hu": "Završje kilátás",
+            "ro": "Vedere Završje",
+            "en": "Završje View"
+          },
+          "coords": [
+            13.775,
+            45.362
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Blick auf das 'Geisterdorf'.",
+            "hu": "Kilátás a szellemvárosra.",
+            "ro": "Vedere spre satul fantomă.",
+            "en": "View of the ghost village."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirna-Tal Abfahrt",
+            "hu": "Mirna-völgyi lejtő",
+            "ro": "Coborâre Valea Mirna",
+            "en": "Mirna Valley Descent"
+          },
+          "coords": [
+            13.7115,
+            45.373
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Steile aber schöne Strecke.",
+            "hu": "Meredek, de gyönyörű szakasz.",
+            "ro": "Traseu abrupt dar frumos.",
+            "en": "Steep but beautiful route."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schmiede",
+            "hu": "Régi Kovácsműhely",
+            "ro": "Vechile Fierării",
+            "en": "Old Smithy"
+          },
+          "coords": [
+            13.7145,
+            45.3715
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfrischungspause.",
+            "hu": "Frissítő pihenő.",
+            "ro": "Pauză de răcorire.",
+            "en": "Refreshment break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern",
+            "hu": "Várfalak",
+            "ro": "Zidurile cetății",
+            "en": "City Walls"
+          },
+          "coords": [
+            13.712,
+            45.3715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finale Runde.",
+            "hu": "Utolsó kör.",
+            "ro": "Rundă finală.",
+            "en": "Final round."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Grožnjan auf zwei Rädern. Der Tag beginnt klassisch an der Loggia, bevor Sie auf die legendäre Parenzana-Strecke wechseln. Der Tunnel bietet eine kühle Abwechslung auf dem Weg durch die istrische Landschaft.\n\nMittags erreichen Sie die Gegend um Završje. Der Ausblick auf dieses fast verlassene Dorf ist mystisch und beeindruckend zugleich. Die sanften Hügel Istriens fordern die Waden, belohnen aber mit ungestörten Naturerlebnissen.\n\nAm Nachmittag führt die Route zurück nach Grožnjan. Die Abfahrt ins Mirna-Tal bietet rasante Ausblicke, bevor Sie in der Oberstadt eine wohlverdiente Pause bei der Alten Schmiede einlegen.\n\nDer Tag endet mit einer gemütlichen Runde entlang der Stadtmauern. Die tiefstehende Sonne begleitet Sie auf den letzten Metern dieses sportlichen Kulturausflugs.",
+        "hu": "Fedezze fel Grozsnyánt két keréken. A nap klasszikusan a Loggiánál kezdődik, mielőtt a legendás Parenzana útvonalra térne. Az alagút hűvös felüdülést nyújt az isztriai tájon átvezető úton.\n\nDélben Završje környékére ér. A kilátás erre a szinte elhagyatott falura egyszerre misztikus és lenyűgöző. Isztria lankás dombjai próbára teszik a vádlikat, de zavartalan természeti élményekkel jutalmazzák.\n\nDélután az útvonal visszavezet Grozsnyánba. A Mirna-völgybe vezető lejtő pörgős kilátást kínál, mielőtt a felsővárosban a Régi Kovácsműhelynél tartana egy jól megérdemelt pihenőt.\n\nA nap a várfalak menti kényelmes körrel zárul. Az alacsonyan járó nap kíséri el ennek a sportos kulturális kirándulásnak az utolsó méterein.",
+        "ro": "Descoperiți Grožnjan pe două roți. Ziua începe clasic la Loggia, înainte de a trece pe legendarul traseu Parenzana. Tunelul oferă o răcoare binevenită în drumul prin peisajul istrian.\n\nLa prânz ajungeți în zona Završje. Vederea spre acest sat aproape părăsit este mistică și impresionantă în același timp. Dealurile domoale ale Istriei solicită picioarele, dar recompensează cu experiențe naturale neîntrerupte.\n\nDupă-amiaza, traseul duce înapoi în Grožnjan. Coborârea în Valea Mirna oferă vederi rapide, înainte de a face o pauză binemeritată la Vechile Fierării în orașul de sus.\n\nZiua se încheie cu o tură relaxată de-a lungul zidurilor cetății. Soarele la apus vă însoțește pe ultimii metri ai acestei excursii culturale sportive.",
+        "en": "Explore Grožnjan on two wheels. The day starts classically at the Loggia before you switch to the legendary Parenzana route. The tunnel offers a cool diversion on the way through the Istrian landscape.\n\nAt midday, you reach the Završje area. The view of this almost abandoned village is both mystical and impressive. The gentle hills of Istria challenge the calves but reward with undisturbed nature experiences.\n\nIn the afternoon, the route leads back to Grožnjan. The descent into the Mirna Valley offers rapid views before you take a well-deserved break at the Old Smithy in the upper town.\n\nThe day ends with a cozy lap along the city walls. The low sun accompanies you on the last meters of this sporty cultural excursion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot Grožnjan",
+            "tip": "Energieriegel und frischer Saft für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot Grožnjan",
+            "tip": "Energiaszelet és friss gyümölcslé kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot Grožnjan",
+            "tip": "Batoane energizante și suc proaspăt pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot Grožnjan",
+            "tip": "Energy bars and fresh juice for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parenzana Viadukt",
+            "tip": "Stille mitten im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parenzana viadukt",
+            "tip": "Csend a zöld közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viaductul Parenzana",
+            "tip": "Liniște în mijlocul verdeții.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parenzana Viaduct",
+            "tip": "Quietness in the middle of greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Direkt vom Imker an der Strecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Közvetlenül a méhésztől az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Direct de la apicultor de pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Directly from the beekeeper along the route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Parenzana ist teilweise Schotter, Mountainbike empfohlen."
+        ],
+        "hu": [
+          "Vigyen magával elegendő vizet.",
+          "A Parenzana részben murvás, hegyi kerékpár ajánlott."
+        ],
+        "ro": [
+          "Luați suficientă apă cu voi.",
+          "Parenzana este parțial cu pietriș, se recomandă mountain bike."
+        ],
+        "en": [
+          "Take enough water with you.",
+          "Parenzana is partly gravel, mountain bike recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grožnjan Stadttor",
+            "hu": "Grozsnyán városkapu",
+            "ro": "Poarta Grožnjan",
+            "en": "Grožnjan City Gate"
+          },
+          "coords": [
+            13.712,
+            45.3715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplatz ist 5 Min. zu Fuß entfernt.",
+            "hu": "A parkoló 5 perc sétára van.",
+            "ro": "Parcarea este la 5 min de mers pe jos.",
+            "en": "Parking is 5 min walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Završje",
+            "hu": "Završje",
+            "ro": "Završje",
+            "en": "Završje"
+          },
+          "coords": [
+            13.776,
+            45.362
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schloss von Završje.",
+            "hu": "Látogasson el a Završje-i kastélyhoz.",
+            "ro": "Vizitați castelul din Završje.",
+            "en": "Visit the castle of Završje."
+          }
+        },
+        {
+          "name": {
+            "de": "Oprtalj Loggia",
+            "hu": "Oprtalj Loggia",
+            "ro": "Loggia Oprtalj",
+            "en": "Oprtalj Loggia"
+          },
+          "coords": [
+            13.823,
+            45.381
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Wunderschöner venezianischer Stil.",
+            "hu": "Gyönyörű velencei stílus.",
+            "ro": "Stil venețian superb.",
+            "en": "Beautiful Venetian style."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirna",
+            "hu": "Mirna kilátó",
+            "ro": "Punct belvedere Mirna",
+            "en": "Mirna Viewpoint"
+          },
+          "coords": [
+            13.7115,
+            45.373
+          ],
+          "category": "natural features",
+          "arrive_at": "13:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Blick auf Motovun in der Ferne.",
+            "hu": "Kilátás a távoli Motovunra.",
+            "ro": "Vedere spre Motovun în depărtare.",
+            "en": "View of Motovun in the distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Loggia von Grožnjan",
+            "hu": "Grozsnyáni Loggia",
+            "ro": "Loggia Grožnjan",
+            "en": "Grožnjan Loggia"
+          },
+          "coords": [
+            13.7128,
+            45.3722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschlusskaffee.",
+            "hu": "Záró kávé.",
+            "ro": "Cafea de final.",
+            "en": "Closing coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet Grožnjan mit den versteckten Schätzen Nordistriens. Der Morgen startet in Grožnjan, wo Sie das Stadttor und die erste Galerie erkunden.\n\nMittags führt die Fahrt nach Završje. Dieses fast menschenleere Dorf bietet eine unglaubliche Atmosphäre für Fotografen und Geschichtsliebhaber. Danach geht es weiter nach Oprtalj, einem weiteren Juwel auf einem Hügel.\n\nNachmittags kehren Sie in die Nähe von Grožnjan zurück. Der Aussichtspunkt Mirna bietet den perfekten Platz, um die Weite des Tals und die Silhouette von Motovun am Horizont zu bewundern.\n\nDer Tag endet wieder im Zentrum von Grožnjan bei der Loggia. Genießen Sie die entspannte Atmosphäre der Künstlerstadt, bevor Sie die Heimreise antreten.",
+        "hu": "Ez az autós túra összeköti Grozsnyánt Észak-Isztria rejtett kincseivel. A reggel Grozsnyánban indul, ahol a városkaput és az első galériákat fedezheti fel.\n\nDélben az út Završje felé vezet. Ez a szinte lakatlan falu hihetetlen hangulatot áraszt, ideális fotósoknak és a történelem kedvelőinek. Ezután folytassa útját Oprtaljba, egy másik dombtetőn ülő ékszerdobozba.\n\nDélután visszatér Grozsnyán környékére. A Mirna kilátó tökéletes hely a völgy tágasságának és a látóhatáron feltűnő Motovun sziluettjének megcsodálására.\n\nA nap ismét Grozsnyán központjában, a Loggiánál ér véget. Élvezze a művészváros nyugodt hangulatát a hazautazás előtt.",
+        "ro": "Acest tur cu mașina conectează Grožnjan cu comorile ascunse ale Istriei de Nord. Dimineața începe în Grožnjan, unde explorați poarta orașului și primele galerii.\n\nLa prânz, drumul duce spre Završje. Acest sat aproape pustiu oferă o atmosferă incredibilă pentru fotografi și iubitorii de istorie. Apoi continuați spre Oprtalj, o altă bijuterie de pe vârful unui deal.\n\nDupă-amiaza vă întoarceți în apropiere de Grožnjan. Punctul de belvedere Mirna oferă locul perfect pentru a admira imensitatea văii și silueta orașului Motovun la orizont.\n\nZiua se încheie din nou în centrul orașului Grožnjan, la Loggia. Bucurați-vă de atmosfera relaxată a orașului artiștilor înainte de a pleca spre casă.",
+        "en": "This car tour connects Grožnjan with the hidden treasures of Northern Istria. The morning starts in Grožnjan, where you explore the city gate and the first galleries.\n\nAt midday, the drive leads to Završje. This almost deserted village offers an incredible atmosphere for photographers and history buffs. Then continue to Oprtalj, another hilltop jewel.\n\nIn the afternoon, you return to the vicinity of Grožnjan. The Mirna viewpoint offers the perfect place to admire the vastness of the valley and the silhouette of Motovun on the horizon.\n\nThe day ends back in the center of Grožnjan at the Loggia. Enjoy the relaxed atmosphere of the artist town before starting your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Oprtalj",
+            "tip": "Fasolice und Wildgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Oprtalj",
+            "tip": "Fasolice és vadételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Oprtalj",
+            "tip": "Fasolice și preparate din vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Oprtalj",
+            "tip": "Fasolice and wild game dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Završje Schlossruine",
+            "tip": "Absolute Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Završje várrom",
+            "tip": "Abszolút csend.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele castelului Završje",
+            "tip": "Liniște absolută.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Završje Castle Ruins",
+            "tip": "Absolute silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl Oprtalj",
+            "tip": "Direktverkauf in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oprtalj olívaolaj",
+            "tip": "Közvetlen eladás az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Oprtalj",
+            "tip": "Vânzare directă în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oprtalj Olive Oil",
+            "tip": "Direct sale in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvenreich.",
+          "Parken Sie in Grožnjan nur auf markierten Flächen."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak.",
+          "Grozsnyánban csak a kijelölt helyeken parkoljon."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite.",
+          "Parcați în Grožnjan doar în locurile marcate."
+        ],
+        "en": [
+          "The roads are narrow and winding.",
+          "In Grožnjan, park only in marked areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Loggia",
+            "hu": "Loggia",
+            "ro": "Loggia",
+            "en": "Loggia"
+          },
+          "coords": [
+            13.7128,
+            45.3722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Busstop meist unterhalb der Stadt.",
+            "hu": "A buszmegálló általában a város alatt van.",
+            "ro": "Stația de autobuz este de obicei sub oraș.",
+            "en": "Bus stop is usually below the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Fonticus",
+            "hu": "Fonticus Galéria",
+            "ro": "Galeria Fonticus",
+            "en": "Fonticus Gallery"
+          },
+          "coords": [
+            13.713,
+            45.372
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß erreichbar.",
+            "hu": "Gyalogosan könnyen elérhető.",
+            "ro": "Ușor accesibil pe jos.",
+            "en": "Easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vitus Kirche",
+            "hu": "Szent Vid templom",
+            "ro": "Biserica Sf. Vitus",
+            "en": "St. Vitus Church"
+          },
+          "coords": [
+            13.7135,
+            45.3725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Zentrum.",
+            "hu": "Történelmi központ.",
+            "ro": "Centru istoric.",
+            "en": "Historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationales Kulturzentrum",
+            "hu": "Nemzetközi Kulturális Központ",
+            "ro": "Centrul Cultural Internațional",
+            "en": "International Cultural Centre"
+          },
+          "coords": [
+            13.714,
+            45.3722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hauptattraktion für Kultur.",
+            "hu": "Fő kulturális vonzerő.",
+            "ro": "Principala atracție culturală.",
+            "en": "Main attraction for culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirna Aussichtspunkt",
+            "hu": "Mirna kilátó",
+            "ro": "Punct belvedere Mirna",
+            "en": "Mirna Viewpoint"
+          },
+          "coords": [
+            13.7115,
+            45.373
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Rand.",
+            "hu": "Rövid séta a város szélére.",
+            "ro": "Scurtă plimbare până la margine.",
+            "en": "Short walk to the edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grožnjan mit öffentlichen Verkehrsmitteln zu besuchen, erfordert Planung, bietet aber eine entschleunigte Erfahrung. Der Tag beginnt an der Loggia, dem Treffpunkt für alle Besucher, die mit dem Bus ankommen.\n\nMittags konzentriert sich das Erlebnis auf die Kunstgalerien. Die Galerie Fonticus und die umliegenden Ateliers sind alle in wenigen Minuten erreichbar. Die St. Vitus Kirche bietet kühle Stille für eine kurze Rast.\n\nDer Nachmittag gehört der Musik. Im Internationalen Kulturzentrum können Sie oft Proben lauschen oder eine kleine Ausstellung besuchen. Es ist das Herz des kulturellen Lebens der Stadt.\n\nBevor der Nachmittagsbus abfährt, bleibt Zeit für den Aussichtspunkt Mirna. Ein kurzer Spaziergang führt Sie an den Rand der Hügelkuppe für einen letzten, unvergesslichen Blick über Istrien.",
+        "hu": "Grozsnyán meglátogatása tömegközlekedéssel tervezést igényel, de lassabb, elmélyültebb élményt kínál. A nap a Loggiánál kezdődik, amely a busszal érkező látogatók találkozóhelye.\n\nDélben az élmény a művészeti galériákra összpontosul. A Fonticus Galéria és a környező műhelyek mind pár perc alatt elérhetőek. A Szent Vid templom hűvös csendet nyújt egy rövid pihenőhöz.\n\nA délután a zenéé. A Nemzetközi Kulturális Központban gyakran hallgathat próbákat vagy megtekinthet egy kis kiállítást. Ez a város kulturális életének szíve.\n\nMielőtt a délutáni busz indulna, marad idő a Mirna kilátóra. Egy rövid séta vezet a dombtető szélére az utolsó, felejthetetlen isztriai panorámáért.",
+        "ro": "Vizitarea orașului Grožnjan cu transportul public necesită planificare, dar oferă o experiență mai lentă și relaxată. Ziua începe la Loggia, locul de întâlnire pentru toți vizitatorii care sosesc cu autobuzul.\n\nLa prânz, experiența se concentrează pe galeriile de artă. Galeria Fonticus și atelierele din jur sunt toate accesibile în câteva minute. Biserica Sf. Vitus oferă o liniște răcoroasă pentru un scurt popas.\n\nDupă-amiaza aparține muzicii. În Centrul Cultural Internațional puteți asculta adesea repetiții sau vizita o mică expoziție. Este inima vieții culturale a orașului.\n\nÎnainte de plecarea autobuzului de după-amiază, rămâne timp pentru punctul de belvedere Mirna. O scurtă plimbare vă duce la marginea dealului pentru o ultimă privire de neuitat peste Istria.",
+        "en": "Visiting Grožnjan by public transport requires planning but offers a decelerated experience. The day starts at the Loggia, the meeting point for all visitors arriving by bus.\n\nAt midday, the experience focuses on the art galleries. The Fonticus Gallery and surrounding studios are all reachable within a few minutes. St. Vitus Church offers cool silence for a short rest.\n\nThe afternoon belongs to music. At the International Cultural Centre, you can often listen to rehearsals or visit a small exhibition. It is the heart of the city's cultural life.\n\nBefore the afternoon bus departs, there is time for the Mirna viewpoint. A short walk leads you to the edge of the hilltop for one last, unforgettable view over Istria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffee Loggia",
+            "tip": "Kleines Gebäck und Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loggia Kávézó",
+            "tip": "Sütemények és eszpresszó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeaua Loggia",
+            "tip": "Patiserie mică și espresso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Loggia Coffee",
+            "tip": "Small pastries and espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz",
+            "tip": "Ruhiger Platz im Schatten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom tér",
+            "tip": "Csendes hely az árnyékban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii",
+            "tip": "Loc liniștit la umbră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Quiet spot in the shade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Galerie",
+            "tip": "Künstlerische Karten als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslap-galéria",
+            "tip": "Művészi lapok emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria de cărți poștale",
+            "tip": "Cărți poștale artistice ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Gallery",
+            "tip": "Artistic cards as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan genau (meist ab Buje).",
+          "Gehen Sie früh los, um den Tag voll zu nutzen."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a buszmenetrendet (többnyire Bujéból).",
+          "Induljon korán, hogy kihasználja a napot."
+        ],
+        "ro": [
+          "Verificați cu atenție mersul autobuzelor (de obicei din Buje).",
+          "Plecați devreme pentru a profita din plin de zi."
+        ],
+        "en": [
+          "Check the bus schedule carefully (mostly from Buje).",
+          "Start early to make the most of the day."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr/en-us/",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.coloursofistria.com/en/events",
+    "tourism_office": "https://www.tz-groznjan.hr/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Grožnjan ist zweisprachig Kroatisch/Italienisch, viele Bewohner sprechen Italienisch als Muttersprache. Englisch und Italienisch decken den Tourismus ab, Deutsch in den Galerien häufig.",
+      "hu": "Grožnjan kétnyelvű horvát–olasz; sok lakos anyanyelve olasz. Az angol és olasz mindenhol megy, a galériákban gyakran beszélnek németül is.",
+      "ro": "Grožnjan este bilingv croată/italiană, mulți localnici au italiana ca limbă maternă. Engleza și italiana acoperă turismul, germana se aude prin galerii.",
+      "en": "Grožnjan is bilingual Croatian/Italian; many locals are native Italian speakers. English and Italian cover all tourism needs, German is common in galleries."
+    },
+    "best_time_to_visit": {
+      "de": "Juli und August für das Jazz-is-Back-Festival und HRT-Künstlerresidenzen, jedoch heiß. Mai/Juni und September angenehmer, viele Galerien geöffnet. Winter sehr ruhig, vieles geschlossen.",
+      "hu": "Július–augusztus a Jazz is Back fesztivál és HRT-művésztelep miatt, de meleg. Május–június és szeptember kellemesebb, sok galéria nyitva. Télen kihalt, sok minden zár.",
+      "ro": "Iulie–august pentru festivalul Jazz is Back și colonia de artiști HRT, dar foarte cald. Mai–iunie și septembrie sunt mai plăcute, galeriile deschise. Iarna foarte liniștită.",
+      "en": "July and August for the Jazz is Back festival and HRT artist colony, but hot. May/June and September are more comfortable with galleries open. Winter is very quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicheres Künstlerdorf. Parken nur außerhalb der Mauern, schmale Gassen sind autofrei. Auf unebenes Kopfsteinpflaster und einzelne unmarkierte Stufen achten.",
+      "hu": "Nagyon biztonságos művészfalu. Parkolni csak a falakon kívül, a sikátorok autómentesek. Figyelj az egyenetlen macskakőre és néhány jelöletlen lépcsőre.",
+      "ro": "Sat de artiști foarte sigur. Parcați doar în afara zidurilor, ulițele sunt pietonale. Atenție la pavajul inegal și la trepte nemarcate.",
+      "en": "Very safe artists village. Park outside the walls, lanes are pedestrian only. Watch for uneven cobbles and a few unmarked steps."
+    }
+  }
+}

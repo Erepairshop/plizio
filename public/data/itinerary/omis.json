@@ -1,0 +1,824 @@
+{
+  "city_id": "omis",
+  "anchor": {
+    "name": "Omiš",
+    "coords": [
+      16.6889,
+      43.4444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stadtmuseum Omiš",
+          "coords": [
+            16.6895,
+            43.444
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Piratengeschichte.",
+            "hu": "Ismerje meg a kalózok történelmét.",
+            "ro": "Aflați mai multe despre istoria piraților.",
+            "en": "Learn about the local pirate history."
+          }
+        },
+        {
+          "name": "Haus des glücklichen Menschen",
+          "coords": [
+            16.69,
+            43.4438
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die lateinische Inschrift.",
+            "hu": "Figyelje meg a latin feliratot.",
+            "ro": "Observați inscripția în latină.",
+            "en": "Look for the Latin inscription above the door."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Michael",
+          "coords": [
+            16.6905,
+            43.4435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Hauptkirche im Herzen der Altstadt.",
+            "hu": "Az óváros szívének főtemploma.",
+            "ro": "Biserica principală din inima centrului vechi.",
+            "en": "The main church in the heart of the old town."
+          }
+        },
+        {
+          "name": "Festung Mirabella",
+          "coords": [
+            16.6895,
+            43.4448
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber fantastische Aussicht.",
+            "hu": "Meredek lépcsők, de pazar kilátás.",
+            "ro": "Urcare abruptă, dar vedere fantastică.",
+            "en": "Steep climb, but offers a fantastic view."
+          }
+        },
+        {
+          "name": "Pranger-Säulen",
+          "coords": [
+            16.689,
+            43.4442
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historischer Ort für öffentliche Strafen.",
+            "hu": "A nyilvános büntetések egykori helyszíne.",
+            "ro": "Loc istoric pentru pedepse publice.",
+            "en": "Historical site for public punishments."
+          }
+        },
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            16.692,
+            43.441
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Kreuzgang am Rande der Stadt.",
+            "hu": "Nyugodt kerengő a város szélén.",
+            "ro": "Cloșter liniștit la marginea orașului.",
+            "en": "Quiet cloister at the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Die engen Gassen der Altstadt und der Aufstieg zur Mirabella-Festung.\n\nMittag: Die Mündung der Cetina und die Schätze des Museums.\n\nNachmittag: Bootsfahrt im Cetina-Canyon oder Ausflug zu den Mühlen.\n\nAbend: Blick auf Meer und Berge bei einem gemütlichen Abendessen.",
+        "hu": "Délelőtt: Az óváros szűk utcái és a Mirabella-erőd megmászása.\n\nDélben: A Cetina-folyó torkolata és a helyi múzeum kincsei.\n\nDélután: Hajókázás a Cetina-kanyonban vagy kirándulás a malmokhoz.\n\nEste: Kilátás a tengerre és a hegyekre egy hangulatos vacsora mellett.",
+        "ro": "Dimineața: Explorarea centrului vechi și urcarea la cetatea Mirabella.\n\nLa prânz: Vizitarea gurii de vărsare a râului Cetina și a muzeului.\n\nDupă-amiaza: Plimbare cu barca în canion sau excursie la morile Radman.\n\nSeara: Admirați vederea spre mare și munți în timpul unei cine relaxante.",
+        "en": "Morning: Explore the old town and climb up to the Mirabella Fortress.\n\nMidday: Visit the mouth of the Cetina River and the local museum.\n\nAfternoon: Boat trip through the Cetina Canyon or visit Radman's Mills.\n\nEvening: Enjoy the views of the sea and mountains over a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soparnik",
+            "tip": "Probieren Sie diesen traditionellen Mangoldkuchen."
+          },
+          {
+            "name": "Peka",
+            "tip": "Unter der Glocke gegartes Fleisch oder Tintenfisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soparnik",
+            "tip": "Kóstolja meg a hagyományos mángoldos lepényt."
+          },
+          {
+            "name": "Peka",
+            "tip": "Hússütő harang alatt készült hús vagy polip."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soparnik",
+            "tip": "Gustați plăcinta tradițională cu mangold."
+          },
+          {
+            "name": "Peka",
+            "tip": "Carne sau caracatiță gătită sub clopot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soparnik",
+            "tip": "Try this traditional chard-filled pie."
+          },
+          {
+            "name": "Peka",
+            "tip": "Meat or octopus cooked under a baking bell."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brzet Strand",
+            "tip": "Etwas ruhiger als der Hauptstrand.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Mirabella Terrasse",
+            "tip": "Toller Ausblick in der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brzet strand",
+            "tip": "Kicsit csendesebb, mint a főstrand.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Mirabella terasz",
+            "tip": "Nagyszerű kilátás a csendben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Brzet",
+            "tip": "Puțin mai liniștită decât plaja principală.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Terasa Mirabella",
+            "tip": "Vedere superbă în liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brzet Beach",
+            "tip": "Slightly quieter than the main beach.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Mirabella Terrace",
+            "tip": "Great views in a peaceful setting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Omiš Markt",
+            "tip": "Honig, Olivenöl und Feigen."
+          },
+          {
+            "name": "Piratensouvenirs",
+            "tip": "Lustige Geschenke für Kinder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omiši piac",
+            "tip": "Méz, olívaolaj és füge."
+          },
+          {
+            "name": "Kalóz ajándéktárgyak",
+            "tip": "Mókás ajándékok gyerekeknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Omiš",
+            "tip": "Miere, ulei de măsline și smochine."
+          },
+          {
+            "name": "Suveniruri cu pirați",
+            "tip": "Cadouri amuzante pentru copii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Omiš Market",
+            "tip": "Honey, olive oil, and figs."
+          },
+          {
+            "name": "Pirate Souvenirs",
+            "tip": "Fun gifts for children."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Wasser für den Aufstieg zur Festung mit.",
+          "Die Altstadt ist klein und gut zu Fuß erkundbar.",
+          "Besuchen Sie den Hauptstrand 'Punta' früh am Morgen.",
+          "Im Sommer gibt es viele Klapa-Gesangsabende."
+        ],
+        "hu": [
+          "Vigyen vizet az erődbe való feljutáshoz.",
+          "Az óváros kicsi és könnyen bejárható gyalog.",
+          "A 'Punta' főstrandot korán reggel látogassa meg.",
+          "Nyáron sok Klapa kórusestet tartanak."
+        ],
+        "ro": [
+          "Luați apă pentru urcarea la cetate.",
+          "Orașul vechi e mic și ușor de explorat pe jos.",
+          "Vizitați plaja principală 'Punta' dimineața devreme.",
+          "Vara sunt multe seri de cântări Klapa."
+        ],
+        "en": [
+          "Bring water for the climb to the fortress.",
+          "The old town is compact and easily walkable.",
+          "Visit the main 'Punta' beach early in the morning.",
+          "Many 'Klapa' singing events happen in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cetina-Flussschlucht",
+          "coords": [
+            16.695,
+            43.445
+          ],
+          "category": "natural features",
+          "arrive_at": "09:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrt entlang des Flusses.",
+            "hu": "Tekerés a folyó mentén.",
+            "ro": "Pedalare de-a lungul râului.",
+            "en": "Ride along the river banks."
+          }
+        },
+        {
+          "name": "Radman-Mühlen",
+          "coords": [
+            16.755,
+            43.435
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Schattiges Plätzchen zum Ausruhen.",
+            "hu": "Árnyékos hely a pihenéshez.",
+            "ro": "Loc umbrit pentru odihnă.",
+            "en": "Shaded spot perfect for a rest."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Peter",
+          "coords": [
+            16.7,
+            43.445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Alte Kirche auf der anderen Flussseite.",
+            "hu": "Régi templom a folyó túloldalán.",
+            "ro": "Biserică veche pe cealaltă parte a râului.",
+            "en": "Old church on the other side of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Fahrt in den Canyon zu den Radman-Mühlen.\n\nMittag: Mittagessen im Grünen am Fluss.\n\nNachmittag: Rückfahrt und Besuch der kleinen St. Peter Kirche.\n\nAbend: Entspannung am Stadtstrand.",
+        "hu": "Délelőtt: Biciklizés a kanyonban a Radman-malmokhoz.\n\nDélben: Ebéd a folyóparti zöldben.\n\nDélután: Visszaút és a kis Szent Péter templom megtekintése.\n\nEste: Pihenés a városi strandon.",
+        "ro": "Dimineața: Pedalare în canion spre morile Radman.\n\nLa prânz: Prânz în natură lângă râu.\n\nDupă-amiaza: Întoarcere și vizitarea bisericii Sf. Petru.\n\nSeara: Relaxare pe plaja orașului.",
+        "en": "Morning: Ride into the canyon towards Radman's Mills.\n\nMidday: Lunch in the greenery by the river.\n\nAfternoon: Return trip and visit the small St. Peter's church.\n\nEvening: Relaxation at the city beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forelle",
+            "tip": "Frisch aus der Cetina bei Radmanove mlinice."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisztráng",
+            "tip": "Frissen a Cetinából Radmanove mlinicénél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv",
+            "tip": "Proaspăt din Cetina la Radmanove mlinice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trout",
+            "tip": "Fresh from the Cetina at Radmanove mlinice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer",
+            "tip": "Picknick im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart",
+            "tip": "Piknik a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului",
+            "tip": "Picnic la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River bank",
+            "tip": "Picnic in the shade of the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Oft an der Straße verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Gyakran az út mentén árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Vândută adesea pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Often sold along the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße im Canyon ist eng, Vorsicht vor Autos.",
+          "Licht am Fahrrad für die Tunnel."
+        ],
+        "hu": [
+          "A kanyoni út szűk, vigyázzon az autókkal.",
+          "Lámpa kell a biciklire az alagutakhoz."
+        ],
+        "ro": [
+          "Drumul din canion e îngust, atenție la mașini.",
+          "Lumina la bicicletă e necesară pentru tuneluri."
+        ],
+        "en": [
+          "The canyon road is narrow, watch out for cars.",
+          "Use bike lights for the tunnels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Festung Starigrad",
+          "coords": [
+            16.697,
+            43.442
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Start am Parkplatz, Wanderung nach oben.",
+            "hu": "Parkolóból indulva túra felfelé.",
+            "ro": "Porniți din parcare, drumeție spre vârf.",
+            "en": "Start from the parking lot, hike to the top."
+          }
+        },
+        {
+          "name": "Radman-Mühlen",
+          "coords": [
+            16.755,
+            43.435
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Wanderung zur oberen Festung Starigrad.\n\nMittag: Fahrt zu den Mühlen für ein rustikales Essen.\n\nNachmittag: Erkundung der Bergdörfer oberhalb von Omiš.\n\nAbend: Rückkehr und Fischdinner am Hafen.",
+        "hu": "Délelőtt: Túra a felső Starigrad-erődhöz.\n\nDélben: Autózás a malmokhoz egy rusztikus ebédre.\n\nDélután: A hegyi falvak felfedezése Omiš felett.\n\nEste: Visszatérés és halvacsora a kikötőben.",
+        "ro": "Dimineața: Drumeție la cetatea de sus Starigrad.\n\nLa prânz: Conducere spre mori pentru o masă rustică.\n\nDupă-amiaza: Explorarea satelor de munte de deasupra Omišului.\n\nSeara: Revenire și cină cu pește în port.",
+        "en": "Morning: Hike up to the higher Starigrad Fortress.\n\nMidday: Drive to the mills for a rustic lunch.\n\nAfternoon: Explore the mountain villages above Omiš.\n\nEvening: Return and enjoy a fish dinner at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrudet",
+            "tip": "Lokaler Fischeintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas brudet",
+            "tip": "Helyi halpörkölt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brudet de pește",
+            "tip": "Tocăniță de pește locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Brudet",
+            "tip": "Traditional local fish stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gata Dorf",
+            "tip": "Ruhiger Blick auf das Hinterland.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gata falu",
+            "tip": "Csendes kilátás a hátországra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Gata",
+            "tip": "Vedere liniștită spre hinterland.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gata Village",
+            "tip": "Quiet views of the hinterland.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Abfüllung",
+            "tip": "In den Bergdörfern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-töltés",
+            "tip": "A hegyi falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "În satele de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Available in the mountain villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Festung Starigrad erfordert Wanderschuhe.",
+          "Parken ist im Zentrum oft schwierig."
+        ],
+        "hu": [
+          "A Starigrad-erődhöz túracipő szükséges.",
+          "A központban gyakran nehéz parkolni."
+        ],
+        "ro": [
+          "Cetatea Starigrad necesită bocanci de munte.",
+          "Parcarea în centru e adesea dificilă."
+        ],
+        "en": [
+          "Starigrad Fortress requires hiking shoes.",
+          "Parking in the center is often difficult."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bushaltestelle Omiš",
+          "coords": [
+            16.69,
+            43.443
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt an der Hauptstraße.",
+            "hu": "Közvetlenül a főút mellett.",
+            "ro": "Direct pe drumul principal.",
+            "en": "Right on the main road."
+          }
+        },
+        {
+          "name": "Festung Mirabella",
+          "coords": [
+            16.6895,
+            43.4448
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie früh, um die Hitze zu vermeiden.",
+            "hu": "Induljon korán a hőség elkerülésére.",
+            "ro": "Porniți devreme pentru a evita căldura.",
+            "en": "Start early to avoid the heat."
+          }
+        },
+        {
+          "name": "Bootsanlegestelle",
+          "coords": [
+            16.691,
+            43.444
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Boot in den Canyon.",
+            "hu": "Menjen hajóval a kanyonba.",
+            "ro": "Luați barca în canion.",
+            "en": "Take the boat into the canyon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Ankunft mit dem Bus aus Split und Stadtrundgang.\n\nMittag: Besuch der Festung und Panoramablick.\n\nNachmittag: Bootstour auf der Cetina (statt Bus).\n\nAbend: Rückreise mit dem Fernbus.",
+        "hu": "Délelőtt: Érkezés busszal Split felől, városnézés.\n\nDélben: Az erőd megtekintése és panoráma.\n\nDélután: Hajókirándulás a Cetinán (busz helyett).\n\nEste: Visszautazás távolsági busszal.",
+        "ro": "Dimineața: Sosire cu autobuzul din Split și tur de oraș.\n\nLa prânz: Vizitarea cetății și vedere panoramică.\n\nDupă-amiaza: Tur cu barca pe Cetina (în loc de autobuz).\n\nSeara: Întoarcere cu autobuzul de cursă lungă.",
+        "en": "Morning: Arrival by bus from Split and city tour.\n\nMidday: Visit the fortress for panoramic views.\n\nAfternoon: Boat tour on the Cetina River (instead of bus).\n\nEvening: Return journey by long-distance bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fast Food Luka",
+            "tip": "Gute Burger für Zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fast Food Luka",
+            "tip": "Jó burger két látnivaló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast Food Luka",
+            "tip": "Burgeri buni pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fast Food Luka",
+            "tip": "Good burgers for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Fluss",
+            "tip": "Schattenplatz beim Terminal.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti park",
+            "tip": "Árnyékos hely a terminálnál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe râu",
+            "tip": "Loc umbrit lângă terminal.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Park",
+            "tip": "Shady spot near the terminal.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Souvenirs",
+            "tip": "Ansichtskarten und kleine Präsente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk ajándékok",
+            "tip": "Képeslapok és apró ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiosc suveniruri",
+            "tip": "Vederi și mici cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Souvenirs",
+            "tip": "Postcards and small gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bus Nr. 60 verbindet Split und Omiš.",
+          "Tickets können im Bus gekauft werden."
+        ],
+        "hu": [
+          "A 60-as busz köti össze Splitet és Omišt.",
+          "Jegyek a buszon válthatók."
+        ],
+        "ro": [
+          "Autobuzul nr. 60 leagă Split de Omiš.",
+          "Biletele se pot cumpăra din autobuz."
+        ],
+        "en": [
+          "Bus No. 60 connects Split and Omiš.",
+          "Tickets can be bought on the bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Omiš",
+    "region": "HR-17",
+    "coords": [
+      16.6889,
+      43.4444
+    ],
+    "transit_official": "https://www.promet-split.hr",
+    "transit_app": "https://getbybus.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-omis.hr/en/events",
+    "tourism_office": "https://visitomis.hr/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/omis.html",
+    "restaurants_booking": "https://www.zonzofox.com",
+    "museum_tickets": "https://www.tz-omis.hr/en",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Amtssprache Kroatisch; in Omiš sprechen viele im Tourismus Englisch und Deutsch, Italienisch weniger als in Istrien.",
+      "hu": "Hivatalos nyelv a horvát; Omišban a turisztikai dolgozók beszélnek angolul és németül, az olasz kevésbé elterjedt mint Isztriában.",
+      "ro": "Limba oficială este croata; în Omiš mulți din turism vorbesc engleza și germana, italiana mai puțin decât în Istria.",
+      "en": "Croatian is official; in Omiš many tourism workers speak English and German, Italian less common than in Istria."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September für Rafting und Wandern im Cetina-Canyon bei moderaten Temperaturen; Juli/August heiß, Strände überfüllt.",
+      "hu": "Május-június és szeptember a Cetina-kanyon raftinghoz és túrázáshoz mérsékelt hőmérsékleten; július-augusztus forró, a strandok zsúfoltak.",
+      "ro": "Mai-iunie și septembrie pentru rafting și drumeții în canionul Cetina la temperaturi moderate; iulie/august cald, plajele aglomerate.",
+      "en": "May-June and September for Cetina canyon rafting and hiking at moderate temperatures; July-August hot with crowded beaches."
+    },
+    "neighborhood_warnings": {
+      "de": "Stadt insgesamt sicher; Magistrale (D8) durch das Zentrum stark befahren, Vorsicht beim Überqueren. Wanderwege zur Festung steil und rutschig nach Regen.",
+      "hu": "A város biztonságos; a központon áthaladó Magistrale (D8) forgalmas, óvatosan kelj át. Az erődhöz vezető ösvények meredekek és csúszósak eső után.",
+      "ro": "Orașul este sigur în general; șoseaua Magistrala (D8) prin centru este foarte circulată, atenție la traversare. Potecile spre fortăreață sunt abrupte și alunecoase după ploaie.",
+      "en": "Town generally safe; Magistrala (D8) highway through centre is heavily trafficked, take care crossing. Trails up to fortress are steep and slippery after rain."
+    }
+  }
+}

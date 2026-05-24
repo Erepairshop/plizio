@@ -1,0 +1,994 @@
+{
+  "city_id": "tisno",
+  "anchor": {
+    "name": "Tisno",
+    "coords": [
+      15.6428,
+      43.8011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Platz der Tisno-Bruderschaften",
+          "coords": [
+            15.6418,
+            43.8008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso mit Blick auf den Kanal.",
+            "hu": "Igya meg itt az első eszpresszóját a csatornára nézve.",
+            "ro": "Savurați aici primul espresso cu vedere la canal.",
+            "en": "Enjoy your first espresso here overlooking the canal."
+          }
+        },
+        {
+          "name": "Ziehbrücke von Tisno",
+          "coords": [
+            15.6433,
+            43.8015
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Täglich um 09:00 und 17:00 Uhr öffnet sich die Brücke.",
+            "hu": "A híd minden nap 09:00-kor és 17:00-kor nyílik ki.",
+            "ro": "Podul se deschide zilnic la orele 09:00 și 17:00.",
+            "en": "The bridge opens daily at 09:00 and 17:00."
+          }
+        },
+        {
+          "name": "Palast Banovčevih",
+          "coords": [
+            15.6425,
+            43.8005
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Barockarchitektur der Insel.",
+            "hu": "A sziget barokk építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură barocă pe insulă.",
+            "en": "A fine example of baroque architecture on the island."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Geistes",
+          "coords": [
+            15.6412,
+            43.7998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kunstvollen Altarbilder im Inneren.",
+            "hu": "Figyeljen a belső tér művészi oltárképeire.",
+            "ro": "Admirați picturile murale artistice din interior.",
+            "en": "Note the artistic altarpieces inside."
+          }
+        },
+        {
+          "name": "Villa Katina",
+          "coords": [
+            15.6445,
+            43.8025
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prachtvolle Villa direkt an der Uferpromenade.",
+            "hu": "Pompás villa közvetlenül a parti sétányon.",
+            "ro": "Vilă splendidă situată chiar pe faleza orașului.",
+            "en": "Splendid villa located right on the waterfront promenade."
+          }
+        },
+        {
+          "name": "Heiligtum Unserer Lieben Frau von Karavaj",
+          "coords": [
+            15.6385,
+            43.8045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für das Panorama über Tisno.",
+            "hu": "A feljutás megéri a Tisno feletti panoráma miatt.",
+            "ro": "Urcarea merită pentru panorama asupra orașului Tisno.",
+            "en": "The climb is worth it for the panorama over Tisno."
+          }
+        },
+        {
+          "name": "Strand Jazine",
+          "coords": [
+            15.6555,
+            43.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Flaches Wasser, ideal für Familien und zum Entspannen.",
+            "hu": "Sekély víz, ideális családoknak és pihenésre.",
+            "ro": "Apă puțin adâncă, ideală pentru familii și relaxare.",
+            "en": "Shallow water, ideal for families and relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz von Tisno rund um die berühmte Ziehbrücke, die das Festland mit der Insel Murter verbindet.\n\nMittags schlendern Sie durch die engen Gassen, bewundern barocke Paläste und besuchen die historischen Kirchen im Ortskern.\n\nNachmittags steigen Sie zum Heiligtum von Karavaj auf, einem spirituellen Ort mit einem der besten Ausblicke der Region.\n\nAbends lassen Sie den Tag am Strand Jazine ausklingen, wo das ruhige Wasser perfekt für ein erfrischendes Bad ist.",
+        "hu": "Reggel fedezze fel Tisno szívét a híres felvonóhíd körül, amely összeköti a szárazföldet Murter-szigetével.\n\nDélben sétáljon végig a szűk utcákon, csodálja meg a barokk palotákat és látogassa meg a központ történelmi templomait.\n\nDélután másszon fel a Karavaj-szentélyhez, amely egy spirituális hely a régió egyik legjobb kilátásával.\n\nEste zárja a napot a Jazine-strandon, ahol a nyugodt víz tökéletes egy frissítő fürdőzéshez.",
+        "ro": "Dimineața explorați inima orașului Tisno în jurul celebrului pod mobil care leagă continentul de insula Murter.\n\nLa prânz plimbați-vă pe străzile înguste, admirați palatele baroce și vizitați bisericile istorice din centrul vechi.\n\nDupă-amiaza urcați la sanctuarul Karavaj, un loc spiritual care oferă una dintre cele mai bune priveliști din regiune.\n\nSeara încheiați ziua pe plaja Jazine, unde apa liniștită este perfectă pentru o baie răcoritoare.",
+        "en": "In the morning, explore the heart of Tisno around the famous drawbridge connecting the mainland to Murter Island.\n\nAt midday, stroll through the narrow streets, admire the baroque palaces, and visit the historical churches in the center.\n\nIn the afternoon, climb up to the Karavaj sanctuary, a spiritual site offering some of the best views in the region.\n\nIn the evening, end your day at Jazine beach, where the calm water is perfect for a refreshing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Brošćica",
+            "tip": "Traditioneller Peka und frischer Fisch direkt am Meer."
+          },
+          {
+            "name": "Restaurant Carmen",
+            "tip": "Hervorragende Meeresfrüchte-Pasta in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Brošćica",
+            "tip": "Tradicionális peka és friss hal közvetlenül a tengerparton."
+          },
+          {
+            "name": "Restaurant Carmen",
+            "tip": "Kiváló tenger gyümölcseivel tálalt tészta hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Brošćica",
+            "tip": "Peka tradițională și pește proaspăt chiar pe malul mării."
+          },
+          {
+            "name": "Restaurant Carmen",
+            "tip": "Paste excelente cu fructe de mare într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Brošćica",
+            "tip": "Traditional peka and fresh fish right by the sea."
+          },
+          {
+            "name": "Restaurant Carmen",
+            "tip": "Excellent seafood pasta in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gospa od Karavaja Hügel",
+            "tip": "Ein friedlicher Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kiefernwald bei Jazine",
+            "tip": "Schatten und Meeresrauschen abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gospa od Karavaja domb",
+            "tip": "Békés hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fenyőerdő Jazine mellett",
+            "tip": "Árnyék és tengerzúgás távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Gospa od Karavaja",
+            "tip": "Un loc liniștit pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de pini de lângă Jazine",
+            "tip": "Umbră și sunetul mării departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gospa od Karavaja Hill",
+            "tip": "A peaceful spot for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pine forest near Jazine",
+            "tip": "Shade and sea sounds away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt Tisno",
+            "tip": "Frisches Obst, Gemüse und lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisnói helyi piac",
+            "tip": "Friss gyümölcs, zöldség és helyi olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Tisno",
+            "tip": "Fructe proaspete, legume și ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market Tisno",
+            "tip": "Fresh fruit, vegetables, and local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Brücke ist das Herzstück des Ortes, planen Sie die Überquerung ein.",
+          "Festes Schuhwerk für den Weg zum Karavaj-Hügel empfohlen.",
+          "Parkplätze sind im Sommer begrenzt, kommen Sie früh.",
+          "Besuchen Sie Tisno während des internationalen Eselrennens im August."
+        ],
+        "hu": [
+          "A híd a város szíve, tervezze be az áthaladást rajta.",
+          "A Karavaj-dombhoz vezető úthoz kényelmes cipő javasolt.",
+          "Nyáron a parkolóhelyek száma korlátozott, érkezzen korán.",
+          "Látogasson el Tisnóba az augusztusi nemzetközi szamárverseny idején."
+        ],
+        "ro": [
+          "Podul este inima orașului, asigurați-vă că îl traversați.",
+          "Se recomandă încălțăminte comodă pentru drumul spre dealul Karavaj.",
+          "Locurile de parcare sunt limitate vara, veniți devreme.",
+          "Vizitați Tisno în timpul cursei internaționale de măgari din august."
+        ],
+        "en": [
+          "The bridge is the heart of the town, make sure to cross it.",
+          "Sturdy shoes are recommended for the path to Karavaj Hill.",
+          "Parking spaces are limited in summer, arrive early.",
+          "Visit Tisno during the international donkey race in August."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Ziehbrücke von Tisno",
+          "coords": [
+            15.6433,
+            43.8015
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier und fahren Sie Richtung Murter-Insel.",
+            "hu": "Induljon innen, és tekerjen Murter-sziget irányába.",
+            "ro": "Porniți de aici și pedalați spre insula Murter.",
+            "en": "Start here and cycle towards Murter Island."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Rochus",
+          "coords": [
+            15.6395,
+            43.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleine Kapelle mit historischem Charme am Wegrand.",
+            "hu": "Kis kápolna történelmi bájjal az út mentén.",
+            "ro": "Capelă mică cu farmec istoric la marginea drumului.",
+            "en": "Small chapel with historical charm by the road."
+          }
+        },
+        {
+          "name": "Strand Jazine",
+          "coords": [
+            15.6555,
+            43.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Stopp für eine kurze Abkühlung.",
+            "hu": "Kiváló megálló egy rövid felfrissüléshez.",
+            "ro": "O oprire excelentă pentru o scurtă răcorire.",
+            "en": "A great stop for a quick cooling down."
+          }
+        },
+        {
+          "name": "Platz der Tisno-Bruderschaften",
+          "coords": [
+            15.6418,
+            43.8008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad ab und genießen Sie ein Eis.",
+            "hu": "Tegye le a biciklit, és élvezze a fagyit.",
+            "ro": "Parcați bicicleta și savurați o înghețată.",
+            "en": "Park the bike and enjoy some ice cream."
+          }
+        },
+        {
+          "name": "Villa Katina",
+          "coords": [
+            15.6445,
+            43.8025
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Letzter Fotostopp vor dem Ende der Tour.",
+            "hu": "Utolsó fotómegálló a túra vége előtt.",
+            "ro": "Ultima oprire pentru poze înainte de finalul turului.",
+            "en": "Last photo stop before the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Brücke und genießen Sie die kühle Brise des Kanals am Morgen.\n\nFahren Sie entlang der Küstenstraße zur Jazine-Bucht, wo die Wege flach und leicht befahrbar sind.\n\nMittags kehren Sie zum Hauptplatz zurück, um die Atmosphäre des lebendigen Fischerortes aufzusaugen.\n\nBeenden Sie die Runde mit einem Besuch der historischen Villen entlang der Uferpromenade auf der Inselseite.",
+        "hu": "Kezdje kerékpártúráját a hídnál, és élvezze a csatorna hűvös szellőjét reggel.\n\nTekerjen a parti úton a Jazine-öböl felé, ahol az utak síkok és könnyen járhatók.\n\nDélben térjen vissza a főtérre, hogy magába szívja a nyüzsgő halászfalu hangulatát.\n\nZárja a kört a történelmi villák meglátogatásával a sziget oldali parti sétány mentén.",
+        "ro": "Începeți turul cu bicicleta la pod și bucurați-vă de briza răcoroasă a canalului dimineața.\n\nPedalați pe drumul de coastă spre golful Jazine, unde traseele sunt plane și ușor de parcurs.\n\nLa prânz reveniți în piața principală pentru a absorbi atmosfera satului pescăresc plin de viață.\n\nÎncheiați tura cu o vizită la vilele istorice de-a lungul falezei de pe partea insulei.",
+        "en": "Start your bike tour at the bridge and enjoy the cool canal breeze in the morning.\n\nCycle along the coastal road to Jazine Bay, where the paths are flat and easy to ride.\n\nAt midday, return to the main square to soak up the atmosphere of the vibrant fishing village.\n\nEnd the loop with a visit to the historical villas along the waterfront promenade on the island side."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Azur",
+            "tip": "Perfekt für eine schnelle und leckere Pizza nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Azur",
+            "tip": "Tökéletes egy gyors és finom pizzához a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Azur",
+            "tip": "Perfect pentru o pizza rapidă și delicioasă după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Azur",
+            "tip": "Perfect for a quick and tasty pizza after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenweg nach Jezera",
+            "tip": "Wunderschöne Strecke am Meer entlang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út Jezera felé",
+            "tip": "Gyönyörű útvonal a tenger mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre Jezera",
+            "tip": "Traseu minunat de-a lungul mării.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal path to Jezera",
+            "tip": "Beautiful route along the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Tisno",
+            "tip": "Handgemachte Lavendelsäckchen und Meeressalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisno Ajándékbolt",
+            "tip": "Kézműves levendula párnák és tengeri só."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Tisno",
+            "tip": "Săculeți cu lavandă lucrați manual și sare de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop Tisno",
+            "tip": "Handmade lavender bags and sea salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Tisno können eng sein, achten Sie auf Fußgänger.",
+          "Der Weg nach Jazine ist flach und sehr angenehm zu fahren.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten auf den Radwegen.",
+          "Ein Abstecher in das Nachbardorf Jezera ist per Rad sehr einfach."
+        ],
+        "hu": [
+          "Tisno utcái szűkek lehetnek, figyeljen a gyalogosokra.",
+          "A Jazine-ba vezető út sík és nagyon kellemes tekerni.",
+          "Vigyen magával elég vizet, kevés az árnyék a bicikliutakon.",
+          "Egy kitérő a szomszédos Jezera faluba kerékpárral nagyon egyszerű."
+        ],
+        "ro": [
+          "Străzile din Tisno pot fi înguste, atenție la pietoni.",
+          "Drumul spre Jazine este plat și foarte plăcut de parcurs.",
+          "Luați destulă apă, este puțină umbră pe pistele de biciclete.",
+          "O excursie în satul vecin Jezera este foarte ușoară cu bicicleta."
+        ],
+        "en": [
+          "Streets in Tisno can be narrow, watch out for pedestrians.",
+          "The path to Jazine is flat and very pleasant to ride.",
+          "Take enough water, there is little shade on the bike paths.",
+          "A side trip to the neighboring village Jezera is very easy by bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Heiligtum von Karavaj",
+          "coords": [
+            15.6385,
+            43.8045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb des Hügels und gehen Sie den Rest zu Fuß.",
+            "hu": "Parkoljon a domb alatt, és a többi részt tegye meg gyalog.",
+            "ro": "Parcați sub deal și parcurgeți restul drumului pe jos.",
+            "en": "Park below the hill and walk the rest of the way."
+          }
+        },
+        {
+          "name": "Ziehbrücke von Tisno",
+          "coords": [
+            15.6433,
+            43.8015
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke auf die Inselseite.",
+            "hu": "Keljen át a hídon a sziget oldalára.",
+            "ro": "Traversați podul spre partea insulei.",
+            "en": "Cross the bridge to the island side."
+          }
+        },
+        {
+          "name": "Palast Banovčevih",
+          "coords": [
+            15.6425,
+            43.8005
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einer der historischsten Orte auf der Insel Murter.",
+            "hu": "Murter-sziget egyik legtörténelmibb helyszíne.",
+            "ro": "Unul dintre cele mai istorice locuri de pe insula Murter.",
+            "en": "One of the most historical sites on Murter Island."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Rochus",
+          "coords": [
+            15.6395,
+            43.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hübsche Kirche mit typisch dalmatinischer Architektur.",
+            "hu": "Szép templom tipikus dalmát építészettel.",
+            "ro": "Biserică frumoasă cu arhitectură tipic dalmată.",
+            "en": "Pretty church with typical Dalmatian architecture."
+          }
+        },
+        {
+          "name": "Strand Kosirina",
+          "coords": [
+            15.612,
+            43.815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Strand in der Nähe, nur per Auto gut erreichbar.",
+            "hu": "Egy látványos közeli strand, csak autóval érhető el jól.",
+            "ro": "O plajă spectaculoasă în apropiere, accesibilă bine doar cu mașina.",
+            "en": "A spectacular nearby beach, best reached by car."
+          }
+        },
+        {
+          "name": "Strand Jazine",
+          "coords": [
+            15.6555,
+            43.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag auf der Festlandseite.",
+            "hu": "Zárja a napot a szárazföldi oldalon.",
+            "ro": "Încheiați ziua pe partea continentală.",
+            "en": "End the day on the mainland side."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Heiligtum auf dem Hügel, um die Stadt Tisno aus der Vogelperspektive zu sehen.\n\nFahren Sie über die Brücke und erkunden Sie die barocken Schätze im alten Ortskern auf der Inselseite.\n\nMittags machen Sie einen Ausflug zum Strand Kosirina, einer der schönsten Buchten der Insel, die ideal mit dem Wagen erreichbar ist.\n\nKehren Sie am späten Nachmittag nach Tisno zurück und genießen Sie die entspannte Atmosphäre am Jazine-Strand.",
+        "hu": "Kezdje a dombtetőn lévő szentélynél, hogy madártávlatból láthassa Tisno városát.\n\nHajtson át a hídon, és fedezze fel a barokk kincseket a sziget oldali óvárosban.\n\nDélben tegyen kirándulást a Kosirina-strandra, a sziget egyik legszebb öblébe, amely autóval könnyen megközelíthető.\n\nKéső délután térjen vissza Tisnóba, és élvezze a pihentető hangulatot a Jazine-strandon.",
+        "ro": "Începeți la sanctuarul de pe deal pentru a vedea orașul Tisno din perspectiva unei pasări.\n\nMergeți cu mașina peste pod și explorați comorile baroce din centrul vechi de pe partea insulei.\n\nLa prânz faceți o excursie la plaja Kosirina, unul dintre cele mai frumoase golfuri ale insulei, accesibil ușor cu mașina.\n\nReveniți în Tisno după-amiaza târziu și bucurați-vă de atmosfera relaxată de pe plaja Jazine.",
+        "en": "Start at the hilltop sanctuary to see Tisno from a bird's-eye view.\n\nDrive across the bridge and explore the baroque treasures in the old town on the island side.\n\nAt midday, take a trip to Kosirina beach, one of the island's most beautiful bays, easily reached by car.\n\nReturn to Tisno in the late afternoon and enjoy the relaxed atmosphere at Jazine beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tereza",
+            "tip": "Hervorragendes Fleisch vom Grill und hausgemachter Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tereza",
+            "tip": "Kiváló grillhúsok és házi bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tereza",
+            "tip": "Carne la grătar excelentă și vin de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tereza",
+            "tip": "Excellent grilled meat and homemade wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht Kosirina",
+            "tip": "Natur pur und kristallklares Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kosirina-öböl",
+            "tip": "Tiszta természet és kristálytiszta víz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Kosirina",
+            "tip": "Natură pură și apă cristalină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kosirina Bay",
+            "tip": "Pure nature and crystal clear water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinothek am Hafen",
+            "tip": "Beste Auswahl an dalmatinischen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinotéka a kikötőben",
+            "tip": "A legjobb válogatás dalmát borokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinotecă în port",
+            "tip": "Cea mai bună selecție de vinuri dalmate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinothek at the Port",
+            "tip": "Best selection of Dalmatian wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Öffnungszeiten der Brücke, um Wartezeiten zu vermeiden.",
+          "Parken im Zentrum ist im Sommer kostenpflichtig.",
+          "Nutzen Sie das Auto für Ausflüge zu den entlegeneren Stränden der Insel.",
+          "Die Straße zwischen Tisno und Murter ist landschaftlich sehr reizvoll."
+        ],
+        "hu": [
+          "Figyeljen a híd nyitvatartására, hogy elkerülje a várakozást.",
+          "A központban a parkolás nyáron fizetős.",
+          "Használja az autót a sziget távolabbi strandjainak felkereséséhez.",
+          "A Tisno és Murter közötti út tájképileg nagyon vonzó."
+        ],
+        "ro": [
+          "Atenție la orele de deschidere ale podului pentru a evita așteptarea.",
+          "Parcarea în centru este cu plată în timpul verii.",
+          "Folosiți mașina pentru excursii la plajele mai îndepărtate ale insulei.",
+          "Drumul dintre Tisno și Murter este foarte pitoresc."
+        ],
+        "en": [
+          "Pay attention to the bridge opening times to avoid waiting.",
+          "Parking in the center is paid during summer.",
+          "Use the car for trips to the more remote beaches of the island.",
+          "The road between Tisno and Murter is very scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Ziehbrücke von Tisno",
+          "coords": [
+            15.6433,
+            43.8015
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Haupthaltestelle für Busse aus Šibenik und Zadar.",
+            "hu": "Fő megálló a Šibenikből és Zadarból érkező buszoknak.",
+            "ro": "Stația principală pentru autobuzele din Šibenik și Zadar.",
+            "en": "Main stop for buses from Šibenik and Zadar."
+          }
+        },
+        {
+          "name": "Platz der Tisno-Bruderschaften",
+          "coords": [
+            15.6418,
+            43.8008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt, alles ist fußläufig erreichbar.",
+            "hu": "Központi találkozóhely, minden sétatávolságra van.",
+            "ro": "Punct de întâlnire central, totul este la câțiva pași.",
+            "en": "Central meeting point, everything is within walking distance."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Geistes",
+          "coords": [
+            15.6412,
+            43.7998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Bauwerk direkt im Ortskern.",
+            "hu": "Történelmi épület közvetlenül a városközpontban.",
+            "ro": "Clădire istorică situată chiar în centrul orașului.",
+            "en": "Historical building right in the town center."
+          }
+        },
+        {
+          "name": "Villa Katina",
+          "coords": [
+            15.6445,
+            43.8025
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einfach per kurzem Spaziergang vom Hafen erreichbar.",
+            "hu": "Könnyen elérhető egy rövid sétával a kikötőtől.",
+            "ro": "Accesibilă ușor printr-o scurtă plimbare de la port.",
+            "en": "Easily accessible by a short walk from the port."
+          }
+        },
+        {
+          "name": "Strand Jazine",
+          "coords": [
+            15.6555,
+            43.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lokale Busse halten oft in der Nähe des Campingplatzes.",
+            "hu": "A helyi buszok gyakran megállnak a kemping közelében.",
+            "ro": "Autobuzele locale opresc adesea lângă camping.",
+            "en": "Local buses often stop near the campsite."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Bus, um stressfrei im Zentrum von Tisno an der Brücke anzukommen.\n\nVerbringen Sie den Vormittag damit, die Kirchen und den Hauptplatz zu erkunden, wo das Leben des Ortes pulsiert.\n\nMittags spazieren Sie entlang des Wassers zu den prächtigen historischen Villen auf der Inselseite.\n\nNachmittags bringt Sie ein kurzer Fußweg oder der lokale Transit zum Strand Jazine, bevor Sie die Heimreise antreten.",
+        "hu": "Használja a buszt, hogy stresszmentesen érkezzen Tisno központjába, a hídhoz.\n\nTöltse a délelőttöt a templomok és a főtér felfedezésével, ahol a város élete lüktet.\n\nDélben sétáljon a víz mentén a sziget oldali pompás történelmi villákhoz.\n\nDélután egy rövid séta vagy a helyi közlekedés elviszi a Jazine-strandra, mielőtt hazaindulna.",
+        "ro": "Folosiți autobuzul pentru a ajunge fără stres în centrul orașului Tisno, lângă pod.\n\nPetreceți dimineața explorând bisericile și piața principală, unde pulsează viața orașului.\n\nLa prânz plimbați-vă pe malul apei spre vilele istorice splendide de pe partea insulei.\n\nDupă-amiaza, o scurtă plimbare sau transportul local vă duce la plaja Jazine înainte de a pleca spre casă.",
+        "en": "Use the bus to arrive stress-free in the center of Tisno by the bridge.\n\nSpend the morning exploring the churches and the main square, where the town's life pulses.\n\nAt midday, stroll along the water to the splendid historical villas on the island side.\n\nIn the afternoon, a short walk or local transit takes you to Jazine beach before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Günstige und gute lokale Gerichte direkt an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Olcsó és jó helyi ételek közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Mâncăruri locale bune și ieftine chiar lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Cheap and good local dishes right by the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Ufer",
+            "tip": "Ideal zum Beobachten der Boote im Kanal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a parton",
+            "tip": "Ideális a csatornában közlekedő hajók megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe mal",
+            "tip": "Ideal pentru a observa bărcile din canal.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Benches",
+            "tip": "Ideal for watching the boats in the canal.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk im Zentrum",
+            "tip": "Postkarten und lokale Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi újságos",
+            "tip": "Képeslapok és helyi újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în centru",
+            "tip": "Vederi și reviste locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center Kiosk",
+            "tip": "Postcards and local magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan für die Rückfahrt nach Šibenik im Voraus.",
+          "Die meisten Sehenswürdigkeiten sind vom Terminal aus leicht zu Fuß erreichbar.",
+          "Tickets können oft direkt beim Busfahrer gekauft werden.",
+          "Im Sommer gibt es zusätzliche Bootstaxis zwischen den Küstenorten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Šibenikbe visszatérő buszok menetrendjét.",
+          "A legtöbb látnivaló könnyen elérhető gyalog a termináltól.",
+          "A jegyeket gyakran közvetlenül a buszsofőrnél lehet megvásárolni.",
+          "Nyáron extra vízi taxik közlekednek a parti települések között."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzelor pentru întoarcerea spre Šibenik.",
+          "Cele mai multe obiective sunt ușor accesibile pe jos de la terminal.",
+          "Biletele pot fi cumpărate adesea direct de la șoferul de autobuz.",
+          "Vara există taxiuri pe apă suplimentare între localitățile de coastă."
+        ],
+        "en": [
+          "Check the bus schedule for the return trip to Šibenik in advance.",
+          "Most sights are easily reachable on foot from the terminal.",
+          "Tickets can often be bought directly from the bus driver.",
+          "In summer, there are extra water taxis between the coastal towns."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Tisno",
+    "county": "HR-15",
+    "coords": [
+      15.6428,
+      43.8011
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Croatia-1581",
+    "bike_share": null,
+    "city_card": null,
+    "events": "http://www.thegardenfestival.eu/",
+    "tourism_office": "https://www.tz-tisno.hr/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": "https://www.bookaway.com/",
+    "museum_tickets": null,
+    "parking_real_time": "https://en.parkopedia.com/parking/croatia/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Englisch und Italienisch entlang der Küste verbreitet, Deutsch in der Hochsaison oft verstanden. 'Hvala' = danke, 'Molim' = bitte.",
+      "hu": "A horvát a hivatalos nyelv; a tengerparton az angol és olasz általános, főszezonban a német is gyakori. 'Hvala' = köszönöm, 'Dobar dan' = jó napot.",
+      "ro": "Croata este limba oficială; engleza și italiana sunt frecvente pe coastă, germana în sezon. 'Hvala' = mulțumesc, 'Dobar dan' = bună ziua.",
+      "en": "Croatian is official; English and Italian widely spoken on the coast, German common in peak season. 'Hvala' = thanks, 'Dobar dan' = good day."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis Anfang September für Festivals (Garden Festival, Love International, Defected); Mai und späte September für ruhigere Strände und milderes Wetter.",
+      "hu": "Június és szeptember eleje a fesztiválok ideje (Garden, Love International, Defected); májusban és szeptember végén nyugodtabb strandok, enyhébb idő.",
+      "ro": "Iunie - început de septembrie pentru festivaluri (Garden, Love International, Defected); mai și sfârșitul lui septembrie pentru plaje liniștite.",
+      "en": "June to early September for festivals (Garden, Love International, Defected); May and late September for quieter beaches and milder weather."
+    },
+    "neighborhood_warnings": {
+      "de": "Während der Festivalwochen sind Unterkünfte teuer und laut bis spät; die schmale Brücke nach Murter staut sich, Parken in Ortsmitte schwierig.",
+      "hu": "Fesztiválhetekben drága és hangos a szállás késő éjjelig; a Murter-szigetre vezető keskeny híd dugós, a központban nehéz a parkolás.",
+      "ro": "În săptămânile cu festivaluri cazarea e scumpă și zgomotoasă până târziu; podul îngust spre insula Murter se aglomerează, parcare dificilă în centru.",
+      "en": "During festival weeks lodging is expensive and noisy late into the night; the narrow bridge to Murter island gets congested, parking tight in centre."
+    }
+  }
+}

@@ -1,0 +1,1078 @@
+{
+  "city_id": "bol-brac",
+  "anchor": {
+    "name": "Bol (Brač)",
+    "coords": [
+      16.6585,
+      43.2614
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hafen von Bol",
+          "coords": [
+            16.6585,
+            43.2614
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei der Ankunft am frühen Morgen.",
+            "hu": "Figyeld meg a kora reggel érkező halászhajókat a kikötőben.",
+            "ro": "Observați bărcile de pescuit care sosesc dimineața devreme.",
+            "en": "Watch the fishing boats arriving in the early morning."
+          }
+        },
+        {
+          "name": "Galerie Branislav Dešković",
+          "coords": [
+            16.6575,
+            43.2618
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie moderne kroatische Kunst in einem Renaissance-Palast.",
+            "hu": "Csodáld meg a modern horvát művészetet egy reneszánsz palotában.",
+            "ro": "Admirați arta croată modernă într-un palat renascentist.",
+            "en": "Admire modern Croatian art inside a Renaissance palace."
+          }
+        },
+        {
+          "name": "Das Haus im Haus",
+          "coords": [
+            16.656,
+            43.262
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein bizarres Baudenkmal, das von einem Familienstreit zeugt.",
+            "hu": "Bizar építészeti emlék, amely egy családi viszályról tanúskodik.",
+            "ro": "Un monument bizar care amintește de o dispută familială.",
+            "en": "A bizarre architectural monument born from a family feud."
+          }
+        },
+        {
+          "name": "Uferpromenade von Bol",
+          "coords": [
+            16.645,
+            43.2605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Schatten der Pinien auf dem Weg zum Horn.",
+            "hu": "Élvezd a fenyőfák árnyékát a szarv felé vezető úton.",
+            "ro": "Bucurați-vă de umbra pinilor în drum spre corn.",
+            "en": "Enjoy the shade of pine trees on the way to the horn."
+          }
+        },
+        {
+          "name": "Zlatni Rat (Goldenes Horn)",
+          "coords": [
+            16.634,
+            43.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Spitze des Strandes verändert sich je nach Meeresströmung.",
+            "hu": "A strand csúcsa a tengeri áramlatoktól függően változik.",
+            "ro": "Vârful plajei se schimbă în funcție de curenții marini.",
+            "en": "The tip of the beach changes shape with the sea currents."
+          }
+        },
+        {
+          "name": "Dominikanerkloster",
+          "coords": [
+            16.666,
+            43.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Klostermuseum mit alten Seekarten und Kunst.",
+            "hu": "Látogasd meg a kolostormúzeumot régi tengeri térképekkel.",
+            "ro": "Vizitați muzeul mănăstirii cu hărți maritime vechi și artă.",
+            "en": "Visit the monastery museum with old sea charts and art."
+          }
+        },
+        {
+          "name": "Kirche Unserer Lieben Frau von Carmen",
+          "coords": [
+            16.659,
+            43.2615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung im barocken Ambiente.",
+            "hu": "Csendes hely az elmélkedésre barokk környezetben.",
+            "ro": "Un loc liniștit pentru reflecție într-un cadru baroc.",
+            "en": "A quiet place for reflection in a baroque setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am lebhaften Hafen von Bol, wo die kalkweißen Steinhäuser der Renaissance-Galerie Dešković im Sonnenlicht strahlen. Ein kurzer Spaziergang führt zum kuriosen 'Haus im Haus', bevor Sie die duftende Pinienpromenade erreichen.\n\nMittags steht Entspannung am Zlatni Rat an, dem wohl berühmtesten Strand Kroatiens, dessen feine Kieselsteine sanft in das kristallblaue Wasser gleiten. Hier können Sie die warme Mittelmeersonne in vollen Zügen genießen.\n\nAm Nachmittag führt der Weg entlang der Küste zum östlichen Ende der Stadt zum Dominikanerkloster. Die abgeschiedene Lage auf der Halbinsel Glavica bietet eine herrliche Ruhe und einen tiefen Einblick in die religiöse Geschichte der Insel.\n\nDer Abend klingt in den malerischen Gassen der Altstadt aus. Vorbei an der Carmen-Kirche kehren Sie zum Hafen zurück, wo die Lichter der Restaurants im Wasser tanzen und lokale Köstlichkeiten auf die hungrigen Wanderer warten.",
+        "hu": "A reggel Bol pezsgő kikötőjében indul, ahol a Dešković Galéria reneszánsz palotájának fehér kövei ragyognak a napfényben. Rövid séta után a különös 'Ház a házban' építményt érintve érjük el az illatos fenyőfákkal övezett parti sétányt.\n\nDélben a pihenésé a főszerep a Zlatni Rat (Aranyszarv) strandon, Horvátország jelképén, amelynek apró kavicsos csúcsa folyamatosan változtatja alakját a tengeri áramlatok hatására a kristálytiszta vízben.\n\nDélután a part mentén a város keleti végébe látogatunk el a Dominikánus kolostorhoz. A Glavica-félszigeten fekvő épületegyüttes nyugodt környezete és múzeuma mély betekintést nyújt a sziget hitéletébe és múltjába.\n\nAz este az óváros festői utcácskáiban zárul. A Carmen-templom mellett elhaladva térünk vissza a kikötőbe, ahol az éttermek fényei táncolnak a vízen, és helyi finomságok várják a megfáradt vándorokat.",
+        "ro": "Dimineața începe în portul plin de viață din Bol, unde pietrele albe ale Galeriei Dešković strălucesc în soare. O scurtă plimbare pe lângă curioasa 'Casă în casă' vă duce pe faleza parfumată cu pini spre cea mai faimoasă plajă.\n\nLa prânz, relaxarea este cuvântul de ordine la Zlatni Rat, perla Croației, unde pietrișul fin se întâlnește cu apa albastră de cristal. Vârful plajei își schimbă constant forma, oferind un spectacol natural unic.\n\nDupă-amiaza ne îndreptăm spre capătul estic al orașului, la Mănăstirea Dominicană. Situată pe peninsula Glavica, aceasta oferă o liniște deplină și un muzeu fascinant cu hărți maritime vechi și obiecte de artă sacră.\n\nSeara se încheie pe străduțele pitorești ale centrului vechi. Trecând pe lângă Biserica Doamnei Noastre din Carmen, revenim în port pentru a ne bucura de luminile reflectate în apă și de aromele bucătăriei dalmate.",
+        "en": "The morning starts at Bol's lively harbor, where the limestone walls of the Dešković Gallery glow in the sunlight. A short walk leads past the curious 'House in a House' before reaching the fragrant pine-lined promenade.\n\nAt midday, enjoy relaxation at Zlatni Rat, Croatia's most iconic beach, where fine pebbles meet crystal blue waters. The ever-changing shape of the horn's tip is a true natural wonder to experience under the Mediterranean sun.\n\nIn the afternoon, head to the eastern edge of town to the Dominican Monastery. Located on the Glavica peninsula, it offers serene views and a museum rich in maritime history and sacred island art.\n\nEvening concludes in the picturesque alleys of the old town. Passing by the Carmen Church, return to the harbor where restaurant lights dance on the water and local specialties await hungry travelers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Dalmatino",
+            "tip": "Probieren Sie den gegrillten Oktopus mit lokalem Olivenöl."
+          },
+          {
+            "name": "Vitalac",
+            "tip": "Eine traditionelle Bračer Spezialität aus Lamm-Innereien."
+          },
+          {
+            "name": "Bolski Plavac",
+            "tip": "Ein kräftiger Rotwein aus den Weinbergen direkt über Bol."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Dalmatino",
+            "tip": "Kóstold meg a grillezett polipot helyi olívaolajjal."
+          },
+          {
+            "name": "Vitalac",
+            "tip": "Hagyományos brači különlegesség báránybelsőségből."
+          },
+          {
+            "name": "Bolski Plavac",
+            "tip": "Erős vörösbor a közvetlenül Bol feletti szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Dalmatino",
+            "tip": "Încercați caracatița la grătar cu ulei de măsline local."
+          },
+          {
+            "name": "Vitalac",
+            "tip": "O specialitate tradițională din Brač bazată pe miel."
+          },
+          {
+            "name": "Bolski Plavac",
+            "tip": "Un vin roșu robust din podgoriile situate deasupra orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Dalmatino",
+            "tip": "Try the grilled octopus with local olive oil."
+          },
+          {
+            "name": "Vitalac",
+            "tip": "A traditional Brač specialty made from lamb offal."
+          },
+          {
+            "name": "Bolski Plavac",
+            "tip": "A bold red wine from the vineyards directly above Bol."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dominikaner-Garten",
+            "tip": "Ein friedlicher Klostergarten mit Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Martinica Strand",
+            "tip": "Ruhigere Alternative zum Zlatni Rat direkt am Kloster.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Glavica Halbinsel",
+            "tip": "Ideal für einen meditativen Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dominikánus kert",
+            "tip": "Békés kolostorkert kilátással a tengerre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Martinica strand",
+            "tip": "Csendesebb alternatíva az Aranyszarv helyett a kolostornál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Glavica-félsziget",
+            "tip": "Ideális egy meditatív sétához naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Dominicană",
+            "tip": "O grădină mănăstirească liniștită cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Martinica",
+            "tip": "Alternativă liniștită la Zlatni Rat, lângă mănăstire.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Peninsula Glavica",
+            "tip": "Ideală pentru o plimbare meditativă la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dominican Garden",
+            "tip": "A peaceful monastery garden overlooking the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Martinica Beach",
+            "tip": "Quieter alternative to Zlatni Rat right by the monastery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Glavica Peninsula",
+            "tip": "Ideal for a meditative walk during sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinmetz-Souvenirs",
+            "tip": "Produkte aus dem berühmten weißen Bračer Marmor."
+          },
+          {
+            "name": "Bol-Markt",
+            "tip": "Frischer Honig, getrocknete Feigen und Lavendelöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfaragó ajándéktárgyak",
+            "tip": "Híres fehér brači márványból készült termékek."
+          },
+          {
+            "name": "Boli piac",
+            "tip": "Friss méz, szárított füge és levendulaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din piatră",
+            "tip": "Produse realizate din celebra marmură albă de Brač."
+          },
+          {
+            "name": "Piața din Bol",
+            "tip": "Miere proaspătă, smochine uscate și ulei de lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stonecraft souvenirs",
+            "tip": "Products made from the famous white Brač marble."
+          },
+          {
+            "name": "Bol Market",
+            "tip": "Fresh honey, dried figs, and lavender oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Steinpflaster in der Altstadt.",
+          "Die Promenade ist tagsüber schattig, aber am Zlatni Rat ist Sonnenschutz Pflicht.",
+          "Besuchen Sie das Kloster früh, um die Stille zu genießen.",
+          "Kaufen Sie Wasser im Supermarkt im Zentrum, bevor Sie zum Strand laufen.",
+          "Die besten Fotos vom Hafen gelingen am späten Nachmittag."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A sétány napközben árnyékos, de az Aranyszarvon kötelező a naptej.",
+          "Látogasd meg korán a kolostort a csend élvezete érdekében.",
+          "Vegyél vizet a központi szupermarketben, mielőtt a strandra indulnál.",
+          "A kikötőről a legjobb fotók késő délután készülnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru pavajul din centrul vechi.",
+          "Faleza este umbrită, dar la Zlatni Rat protecția solară este obligatorie.",
+          "Vizitați mănăstirea devreme pentru a vă bucura de liniște.",
+          "Cumpărați apă de la supermarketul din centru înainte de a merge la plajă.",
+          "Cele mai bune fotografii cu portul se fac după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones in the old town.",
+          "The promenade is shaded, but sunscreen is mandatory at Zlatni Rat.",
+          "Visit the monastery early to enjoy the absolute peace.",
+          "Buy water at the central supermarket before walking to the beach.",
+          "The best harbor photos are taken in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Uferpromenade von Bol",
+          "coords": [
+            16.645,
+            43.2605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radfahren ist auf der Hauptpromenade am Vormittag entspannt.",
+            "hu": "A kerékpározás a fősétányon délelőtt még nyugodt.",
+            "ro": "Ciclismul pe faleză este relaxant în cursul dimineții.",
+            "en": "Cycling on the promenade is relaxed during the morning."
+          }
+        },
+        {
+          "name": "Zlatni Rat",
+          "coords": [
+            16.634,
+            43.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer am Eingang des Pinienwaldes.",
+            "hu": "A fenyőerdő bejáratánál kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete la intrarea în pădurea de pini.",
+            "en": "There are bike racks at the entrance of the pine forest."
+          }
+        },
+        {
+          "name": "Murvica Dorf",
+          "coords": [
+            16.592,
+            43.268
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Steile Fahrt, aber mit atemberaubendem Blick auf Hvar.",
+            "hu": "Meredek út, de lélegzetelállító kilátás nyílik Hvarra.",
+            "ro": "Urcare abruptă, dar cu o vedere spectaculoasă spre Hvar.",
+            "en": "Steep ride but with breathtaking views of Hvar island."
+          }
+        },
+        {
+          "name": "Drachenhöhle (Eingang)",
+          "coords": [
+            16.587,
+            43.268
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder sicher ab; der Weg zur Höhle ist nur zu Fuß.",
+            "hu": "Zárd le a bringát; a barlanghoz vezető út csak gyalogos.",
+            "ro": "Parcați bicicletele sigur; accesul la peșteră este doar pietonal.",
+            "en": "Lock your bikes securely; the cave path is pedestrian only."
+          }
+        },
+        {
+          "name": "Hafen von Bol",
+          "coords": [
+            16.6585,
+            43.2614
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Rückfahrt bergab genießen, aber auf Fußgänger achten.",
+            "hu": "Élvezd a lejtőt visszafelé, de figyelj a gyalogosokra.",
+            "ro": "Bucurați-vă de coborâre, dar atenție la pietoni.",
+            "en": "Enjoy the downhill ride back, but watch out for pedestrians."
+          }
+        },
+        {
+          "name": "Dominikanerkloster",
+          "coords": [
+            16.666,
+            43.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der östliche Radweg ist flach und sehr malerisch.",
+            "hu": "A keleti kerékpárút sík és nagyon látványos.",
+            "ro": "Pista de biciclete din est este plană și foarte pitorească.",
+            "en": "The eastern bike path is flat and very scenic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Morgen auf der schattigen Promenade Richtung Westen. Die kühle Brise vom Meer macht das Radfahren zum Genuss, während Sie den Zlatni Rat passieren.\n\nMittags fordern die Hügel Richtung Murvica Ihre Kondition heraus, belohnen Sie aber mit weiten Panoramen über den Kanal von Hvar. Die unberührte Natur ist hier greifbar.\n\nNachmittags geht es zurück nach Bol. Ein Abstecher zum Dominikanerkloster am flachen Ostufer bildet den entspannten Abschluss der Tour.\n\nDer Abend gehört der Erholung im Hafen, wo Sie die verbrauchten Kalorien mit dalmatinischen Grillgerichten wieder auffüllen können.",
+        "hu": "Indulj reggel az árnyas sétányon nyugat felé. A tenger felől érkező hűvös szellő élvezetessé teszi a tekerést, miközben elhaladsz az Aranyszarv mellett.\n\nDélben a Murvica felé vezető dombok próbára teszik az állóképességet, de a Hvar-csatornára nyíló panoráma mindenért kárpótol. Itt tapintható az érintetlen természet.\n\nDélután gurulj vissza Bolba. Egy kitérő a lapos keleti parton fekvő Dominikánus kolostorhoz tökéletes levezetése a túrának.\n\nAz este a pihenésé a kikötőben, ahol a dalmát grillételekkel pótolhatod az elégetett kalóriákat.",
+        "ro": "Începeți dimineața pe faleza umbrită mergând spre vest. Briza răcoroasă a mării face pedalarea o plăcere în timp ce treceți pe lângă Zlatni Rat.\n\nLa prânz, dealurile spre Murvica vă vor testa condiția fizică, dar vă vor răsplăti cu panorame vaste peste canalul Hvar. Natura virgină este la ea acasă aici.\n\nDupă-amiaza reveniți în Bol. O abatere spre Mănăstirea Dominicană pe malul estic plan reprezintă finalul relaxant al turului.\n\nSeara este dedicată recuperării în port, unde puteți reface caloriile consumate cu preparate dalmate la grătar.",
+        "en": "Start your morning on the shaded promenade heading west. The cool sea breeze makes cycling a joy as you pass the iconic Zlatni Rat beach.\n\nAt midday, the hills towards Murvica will challenge your fitness but reward you with sweeping panoramas over the Hvar Channel. Pure nature is all around you here.\n\nIn the afternoon, cruise back to Bol. A detour to the Dominican Monastery on the flat eastern shore provides a relaxed conclusion to the trip.\n\nEvening is for recovery at the harbor, where you can replenish your calories with hearty Dalmatian grilled dishes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mali Raj",
+            "tip": "Direkt am Zlatni Rat gelegen, ideal für einen schnellen Snack."
+          },
+          {
+            "name": "Konoba Pusa",
+            "tip": "Hausgemachte Pasta mit Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mali Raj",
+            "tip": "Közvetlenül az Aranyszarvnál, ideális egy gyors snackre."
+          },
+          {
+            "name": "Konoba Pusa",
+            "tip": "Házi tészta tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mali Raj",
+            "tip": "Situat chiar lângă Zlatni Rat, ideal pentru o gustare rapidă."
+          },
+          {
+            "name": "Konoba Pusa",
+            "tip": "Paste de casă cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mali Raj",
+            "tip": "Located right by Zlatni Rat, ideal for a quick snack."
+          },
+          {
+            "name": "Konoba Pusa",
+            "tip": "Homemade pasta with fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murvica Ausblick",
+            "tip": "Ein ruhiger Stopp über den Klippen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murvicai kilátó",
+            "tip": "Csendes pihenő a sziklák felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Murvica",
+            "tip": "Un popas liniștit deasupra stâncilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Murvica Lookout",
+            "tip": "A quiet stop above the coastal cliffs.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Örtliches Olivenöl",
+            "tip": "Direkt vom Erzeuger in den kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a termelőktől a kisboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Direct de la producători în micile magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Direct from producers in the small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Mountainbike für die Strecke nach Murvica.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
+          "Achten Sie auf Wanderer auf der Promenade zum Zlatni Rat.",
+          "Die Hauptstraße über Bol ist steil, nutzen Sie lieber die Küstenwege.",
+          "Prüfen Sie die Bremsen vor der Abfahrt von Murvica."
+        ],
+        "hu": [
+          "Bérelj hegyi kerékpárt a Murvica felé vezető szakaszhoz.",
+          "Vigyél magaddal elegendő vizet, útközben kevés a forrás.",
+          "Figyelj a gyalogosokra az Aranyszarv felé vezető sétányon.",
+          "A Bol feletti főút meredek, használd inkább a parti utakat.",
+          "Ellenőrizd a fékeket a Murvicából való leereszkedés előtt."
+        ],
+        "ro": [
+          "Închiriați un mountain bike pentru traseul spre Murvica.",
+          "Luați suficientă apă, sunt puține surse pe drum.",
+          "Atenție la pietoni pe faleza spre Zlatni Rat.",
+          "Drumul principal deasupra Bol este abrupt, folosiți potecile de coastă.",
+          "Verificați frânele înainte de coborârea din Murvica."
+        ],
+        "en": [
+          "Rent a mountain bike for the section to Murvica.",
+          "Take enough water, there are few sources along the way.",
+          "Watch out for pedestrians on the promenade to Zlatni Rat.",
+          "The main road above Bol is steep; prefer the coastal paths.",
+          "Check your brakes before descending from Murvica."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Vidova Gora",
+          "coords": [
+            16.615,
+            43.277
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Vom höchsten Punkt der Adria-Inseln hat man den besten Blick auf Bol.",
+            "hu": "Az adriai szigetek legmagasabb pontjáról nyílik a legjobb kilátás Bolra.",
+            "ro": "De la cel mai înalt punct al insulelor adriatice aveți cea mai bună vedere.",
+            "en": "The highest peak of the Adriatic islands offers the best view of Bol."
+          }
+        },
+        {
+          "name": "Eremitage Blaca",
+          "coords": [
+            16.529,
+            43.291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Einzigartiges Felsenkloster; der Fußweg vom Parkplatz dauert 30 Min.",
+            "hu": "Egyedülálló sziklakolostor; a parkolótól 30 perc séta.",
+            "ro": "Mănăstire unică în stâncă; drumul pe jos de la parcare durează 30 min.",
+            "en": "Unique rock monastery; the walk from the parking lot takes 30 mins."
+          }
+        },
+        {
+          "name": "Murvica",
+          "coords": [
+            16.592,
+            43.268
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Malersiches Dorf mit alten Steinhäusern und Weinbergen.",
+            "hu": "Festői falu régi kőházakkal és szőlőültetvényekkel.",
+            "ro": "Sat pitoresc cu case vechi de piatră și podgorii.",
+            "en": "Picturesque village with old stone houses and vineyards."
+          }
+        },
+        {
+          "name": "Hafen von Bol",
+          "coords": [
+            16.6585,
+            43.2614
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang und schlendern Sie zum Hafen.",
+            "hu": "Parkolj a város szélén, és sétálj be a kikötőbe.",
+            "ro": "Parcați la intrarea în oraș și plimbați-vă spre port.",
+            "en": "Park at the town entrance and stroll to the harbor."
+          }
+        },
+        {
+          "name": "Zlatni Rat",
+          "coords": [
+            16.634,
+            43.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der große Parkplatz ist direkt hinter dem Strand.",
+            "hu": "A nagy parkoló közvetlenül a strand mögött található.",
+            "ro": "Parcarea mare se află chiar în spatele plajei.",
+            "en": "The large parking lot is right behind the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag führt Sie hoch hinaus auf die Vidova Gora, den Gipfel von Brač, von wo aus das Goldene Horn wie eine kleine Nadel im blauen Meer wirkt. Danach geht es zur faszinierenden Eremitage Blaca, einem in den Fels gehauenen Klosterkomplex.\n\nMittags erkunden Sie das verschlafene Murvica, bevor Sie zurück nach Bol fahren, um das Treiben im Hafen zu beobachten und in einer der Konobas zu speisen.\n\nNachmittags entspannen Sie am Zlatni Rat. Mit dem Auto erreichen Sie bequem den strandnahen Parkplatz, was ideal für einen späten Strandbesuch ist.\n\nDer Abend endet mit einer Panoramafahrt entlang der Küstenstraße zurück zu Ihrer Unterkunft, während die Sonne langsam hinter den Bergen versinkt.",
+        "hu": "A délelőtt a Vidova Gorára, Brač csúcsára vezet, ahonnan az Aranyszarv apró tűnek tűnik a kék tengerben. Ezután a lenyűgöző Blaca-remeteséghez látogatunk, amely egy sziklába vájt kolostorkomplexum.\n\nDélben felfedezzük az álmos Murvicát, majd visszahajtunk Bolba, hogy megfigyeljük a kikötő nyüzsgését és ebédeljünk egy helyi konobában.\n\nDélután a Zlatni Rat strandján pihenünk. Autóval kényelmesen elérhető a strand közeli parkoló, ami ideális egy kései strandoláshoz.\n\nAz este egy panorámás autózással zárul a parti úton vissza a szálláshelyre, miközben a nap lassan eltűnik a hegyek mögött.",
+        "ro": "Dimineața vă poartă sus pe Vidova Gora, vârful insulei Brač, de unde Cornul de Aur pare un ac mic în marea albastră. Urmează fascinanta Ermitaj Blaca, un complex mănăstiresc săpat direct în stâncă.\n\nLa prânz explorați liniștitul sat Murvica, înainte de a reveni în Bol pentru a observa agitația din port și a lua masa la o tavernă locală.\n\nDupă-amiaza vă relaxați la Zlatni Rat. Cu mașina ajungeți ușor la parcarea de lângă plajă, fiind ideal pentru o vizită târzie la mare.\n\nSeara se încheie cu o plimbare panoramică pe drumul de coastă înapoi spre cazare, în timp ce soarele apune încet după munți.",
+        "en": "Morning takes you high up to Vidova Gora, the peak of Brač, where the Golden Horn looks like a tiny needle in the vast blue sea. Next, visit the fascinating Blaca Hermitage, a monastery complex carved directly into the rock.\n\nAt midday, explore the sleepy village of Murvica before driving back to Bol to watch the harbor life and dine at a local konoba.\n\nIn the afternoon, relax at Zlatni Rat. By car, you can easily reach the parking lot right behind the beach, perfect for a late-day swim.\n\nEvening ends with a scenic drive along the coastal road back to your accommodation as the sun slowly dips behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tomić",
+            "tip": "In Gornji Humac, bekannt für Lamm am Spieß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tomić",
+            "tip": "Gornji Humacban, híres a nyárson sült bárányáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tomić",
+            "tip": "În Gornji Humac, renumită pentru mielul la proțap."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tomić",
+            "tip": "In Gornji Humac, famous for spit-roasted lamb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vidova Gora Wald",
+            "tip": "Kühle Schwarzkieferwälder für ein Picknick.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidova Gora erdő",
+            "tip": "Hűvös feketefenyő erdők egy piknikhez.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Vidova Gora",
+            "tip": "Păduri răcoroase de pin negru pentru un picnic.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidova Gora Forest",
+            "tip": "Cool black pine forests perfect for a picnic.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jakšić Galerie",
+            "tip": "Hochwertige Steinkunst in Donji Humac (kurzer Umweg)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jakšić Galéria",
+            "tip": "Kiváló minőségű kőművészet Donji Humacban (kis kitérő)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Jakšić",
+            "tip": "Artă în piatră de înaltă calitate în Donji Humac (mic ocol)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jakšić Gallery",
+            "tip": "High-quality stone art in Donji Humac (short detour)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Eremitage Blaca ist teilweise unbefestigt, fahren Sie vorsichtig.",
+          "Parkplätze in Bol sind im Sommer schnell belegt, nutzen Sie die großen Areale.",
+          "Vidova Gora kann auch im Sommer windig und kühl sein.",
+          "Tanken Sie in Supetar oder Bol, bevor Sie ins Inselinnere fahren.",
+          "Buchen Sie die Führung für Blaca im Voraus, falls möglich."
+        ],
+        "hu": [
+          "A Blaca-remeteséghez vezető út részben burkolatlan, vezess óvatosan.",
+          "Bolban a parkolók nyáron hamar megtelnek, használd a nagy területeket.",
+          "A Vidova Gora még nyáron is szeles és hűvös lehet.",
+          "Tankolj Supetarban vagy Bolban, mielőtt a sziget belsejébe indulnál.",
+          "Ha lehet, foglalj előre vezetést a Blaca-remeteségbe."
+        ],
+        "ro": [
+          "Drumul spre Ermitaj Blaca este parțial neasfaltat, conduceți cu atenție.",
+          "Parcările în Bol se ocupă repede vara, folosiți spațiile mari de la intrare.",
+          "Vidova Gora poate fi vântoasă și răcoroasă chiar și vara.",
+          "Alimentați în Supetar sau Bol înainte de a merge spre interiorul insulei.",
+          "Rezervați turul ghidat pentru Blaca în avans, dacă este posibil."
+        ],
+        "en": [
+          "The road to Blaca Hermitage is partly unpaved; drive carefully.",
+          "Parking in Bol fills up fast in summer; use the large designated lots.",
+          "Vidova Gora can be windy and cool even in the middle of summer.",
+          "Refuel in Supetar or Bol before heading into the island's interior.",
+          "Book the guided tour for Blaca in advance if possible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Bol",
+          "coords": [
+            16.6585,
+            43.2614
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hier starten die Taxiboote zum Goldenen Horn.",
+            "hu": "Innen indulnak a taxihajók az Aranyszarvhoz.",
+            "ro": "De aici pleacă taxi-urile pe apă spre Cornul de Aur.",
+            "en": "Water taxis to the Golden Horn start from here."
+          }
+        },
+        {
+          "name": "Zlatni Rat",
+          "coords": [
+            16.634,
+            43.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Bootsfahrt bietet den besten Blick auf die Küstenlinie.",
+            "hu": "A hajóút kínálja a legjobb kilátást a partvonalra.",
+            "ro": "Plimbarea cu barca oferă cea mai bună vedere a coastei.",
+            "en": "The boat ride offers the best views of the coastline."
+          }
+        },
+        {
+          "name": "Uferpromenade von Bol",
+          "coords": [
+            16.645,
+            43.2605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den touristischen Bummelzug für den Rückweg ins Zentrum.",
+            "hu": "Használd a turisztikai kisvonatot a központba való visszatéréshez.",
+            "ro": "Folosiți trenulețul turistic pentru întoarcerea în centru.",
+            "en": "Use the tourist mini-train for the return trip to the center."
+          }
+        },
+        {
+          "name": "Dominikanerkloster",
+          "coords": [
+            16.666,
+            43.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus in 15 Min. zu Fuß oder per Boot erreichbar.",
+            "hu": "A központból 15 perc sétával vagy hajóval elérhető.",
+            "ro": "Accesibil din centru în 15 minute pe jos sau cu barca.",
+            "en": "Reach it from the center in 15 mins by foot or boat."
+          }
+        },
+        {
+          "name": "Hafen von Bol",
+          "coords": [
+            16.6585,
+            43.2614
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Idealer Ort, um auf die Katamaran-Fähre zu warten.",
+            "hu": "Ideális hely a katamarán kompra való várakozáshoz.",
+            "ro": "Loc ideal pentru a aștepta feribotul catamarán.",
+            "en": "Ideal spot to wait for the catamaran ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Taxiboote am Morgen, um stilvoll zum Zlatni Rat zu gelangen. Die kurze Überfahrt bietet eine herrliche Perspektive auf die Insel Brač und das glitzernde Meer.\n\nMittags können Sie den kleinen Touristenzug (Bummelzug) nehmen, der regelmäßig zwischen dem Strand und dem Stadtzentrum verkehrt und besonders bei Familien beliebt ist.\n\nNachmittags erkunden Sie das östliche Ende von Bol. Viele Ausflugsboote bieten auch kurze Rundfahrten an, die Sie bequem zum Dominikanerkloster bringen.\n\nDer Abend endet am Hafen, dem zentralen Knotenpunkt für alle Katamarane und Boote, wo Sie das Kommen und Gehen der Reisenden bei einem Eis genießen können.",
+        "hu": "Használd reggel a taxihajókat, hogy stílusosan érkezz az Aranyszarvhoz. A rövid átkelés remek rálátást biztosít Brač szigetére és a csillogó tengerre.\n\nDélben felszállhatsz a turisztikai kisvonatra, amely rendszeresen közlekedik a strand és a városközpont között, és különösen népszerű a családok körében.\n\nDélután fedezd fel Bol keleti végét. Számos kirándulóhajó kínál rövid körutakat, amelyek kényelmesen elvisznek a Dominikánus kolostorig.\n\nAz este a kikötőben zárul, amely minden katamarán és hajó központi csomópontja, ahol egy fagylalt mellett élvezheted az utazók jövés-menését.",
+        "ro": "Folosiți taxi-urile pe apă dimineața pentru a ajunge cu stil la Zlatni Rat. Scurta traversare oferă o perspectivă superbă asupra insulei Brač și a mării sclipitoare.\n\nLa prânz puteți lua trenulețul turistic care circulă regulat între plajă și centrul orașului, fiind foarte apreciat de familii.\n\nDupă-amiaza explorați capătul estic al orașului Bol. Multe bărci de excursie oferă tururi scurte care vă pot lăsa direct la Mănăstirea Dominicană.\n\nSeara se încheie în port, nodul central pentru toate catamaranele și ambarcațiunile, unde puteți urmări agitația călătorilor savurând o înghețată.",
+        "en": "Use the water taxis in the morning to arrive at Zlatni Rat in style. The short crossing offers a wonderful perspective of Brač island and the sparkling Adriatic sea.\n\nAt midday, hop on the little tourist train that runs regularly between the beach and the town center, a favorite option for families and tired swimmers.\n\nIn the afternoon, explore the eastern side of Bol. Many excursion boats offer short hops that can drop you off near the Dominican Monastery.\n\nEvening concludes at the harbor, the central hub for all catamarans and boats, where you can enjoy an ice cream while watching travelers come and go."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fruit Land",
+            "tip": "Frische Smoothies direkt am Zlatni Rat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fruit Land",
+            "tip": "Friss smoothie-k közvetlenül az Aranyszarvnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fruit Land",
+            "tip": "Smoothie-uri proaspete chiar la Zlatni Rat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fruit Land",
+            "tip": "Fresh smoothies right on the Zlatni Rat beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bord des Taxibootes",
+            "tip": "Genießen Sie die Ruhe auf dem Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A taxihajó fedélzete",
+            "tip": "Élvezd a csendet a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "La bordul taxiului pe apă",
+            "tip": "Bucurați-vă de liniște pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deck of the Water Taxi",
+            "tip": "Enjoy the serenity while on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an der Promenade",
+            "tip": "Badebekleidung und Souvenirs bequem erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a sétányon",
+            "tip": "Fürdőruha és ajándéktárgyak könnyen elérhető helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcurile de pe faleză",
+            "tip": "Costume de baie și suveniruri la îndemână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Kiosks",
+            "tip": "Swimwear and souvenirs conveniently located along the path."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxiboote fahren in der Hochsaison alle 15-30 Minuten.",
+          "Der Touristenzug ist eine gute Option, wenn die Beine müde sind.",
+          "Prüfen Sie die Fahrpläne der Katamarane nach Split oder Hvar frühzeitig.",
+          "Kaufen Sie Tickets für den Zug direkt beim Fahrer.",
+          "Bootstaxis können bei starkem Wind (Bura) eingestellt werden."
+        ],
+        "hu": [
+          "A taxihajók főszezonban 15-30 percenként indulnak.",
+          "A kisvonat remek opció, ha elfáradt a lábad.",
+          "Időben ellenőrizd a Splitbe vagy Hvarra tartó katamaránok menetrendjét.",
+          "A vonatra a jegyet közvetlenül a vezetőnél vedd meg.",
+          "Erős szél (Bura) esetén a hajójáratok szünetelhetnek."
+        ],
+        "ro": [
+          "Taxi-urile pe apă circulă la fiecare 15-30 minute în sezon.",
+          "Trenulețul turistic este o opțiune bună când picioarele sunt obosite.",
+          "Verificați din timp orarul catamaranelor spre Split sau Hvar.",
+          "Cumpărați biletele pentru trenuleț direct de la șofer.",
+          "Taxi-urile pe apă pot fi suspendate în caz de vânt puternic (Bura)."
+        ],
+        "en": [
+          "Water taxis run every 15-30 minutes during high season.",
+          "The tourist train is a great option when your legs are tired.",
+          "Check the catamaran schedules to Split or Hvar early in the day.",
+          "Buy train tickets directly from the driver.",
+          "Water taxis may be suspended during strong winds (Bura)."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Bol",
+    "region": "HR-17",
+    "coords": [
+      16.6585,
+      43.2614
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://getbybus.com/hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.bol.hr/en",
+    "tourism_office": "https://www.visitbol.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": "https://www.parking.hr/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; im Tourismus rund um Zlatni Rat sprechen viele Englisch, Deutsch und Italienisch.",
+      "hu": "A hivatalos nyelv a horvát; a Zlatni Rat környékén turisztikai dolgozók sokszor beszélnek angolul, németül és olaszul.",
+      "ro": "Limba oficială este croata; în zona Zlatni Rat se vorbește des engleză, germană și italiană în turism.",
+      "en": "Croatian is the official language; English, German and Italian are commonly spoken around Zlatni Rat by tourism staff."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September für Strand und Wassersport ohne Hochsaison-Andrang; Wind am Zlatni Rat ideal zum Surfen.",
+      "hu": "Június és szeptember a legjobb a strandhoz és vízisportokhoz, főszezon nélkül; a Zlatni Rat szele kiváló szörfre.",
+      "ro": "Iunie și septembrie sunt ideale pentru plajă și sporturi nautice, fără aglomerație; vântul de la Zlatni Rat e bun pentru surf.",
+      "en": "June and September are best for beach and watersports without peak crowds; the wind at Zlatni Rat is ideal for surfing."
+    },
+    "neighborhood_warnings": {
+      "de": "Zlatni Rat ist im Hochsommer überfüllt; Bootstaxis und Mietboote nur bei lizensierten Anbietern buchen.",
+      "hu": "A Zlatni Rat nyár közepén túlzsúfolt; hajótaxit és bérelt csónakot csak engedéllyel rendelkező szolgáltatóknál foglalj.",
+      "ro": "Zlatni Rat este foarte aglomerat în plin sezon; rezervă taxiuri pe apă și bărci doar la furnizori autorizați.",
+      "en": "Zlatni Rat is overcrowded at peak summer; book boat taxis and rentals only with licensed operators."
+    }
+  }
+}

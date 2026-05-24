@@ -1,0 +1,994 @@
+{
+  "city_id": "kastela",
+  "anchor": {
+    "name": "Kaštel Lukšić",
+    "coords": [
+      16.36,
+      43.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt Kaštel Novi",
+          "coords": [
+            16.335,
+            43.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühmorgens ist der Markt am lebhaftesten.",
+            "hu": "Kora reggel a legpezsgőbb itt a piaci élet.",
+            "ro": "Piața este cea mai plină de viață dimineața devreme.",
+            "en": "The market is most lively early in the morning."
+          }
+        },
+        {
+          "name": "Turm Rotondo",
+          "coords": [
+            16.336,
+            43.551
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Wappen der Familie Rossi.",
+            "hu": "Csodálja meg a Rossi család címerét a falon.",
+            "ro": "Admirați blazonul familiei Rossi pe zid.",
+            "en": "Admire the coat of arms of the Rossi family."
+          }
+        },
+        {
+          "name": "Der alte Olivenbaum",
+          "coords": [
+            16.328,
+            43.553
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Über 1500 Jahre alter Naturdenkmal.",
+            "hu": "Több mint 1500 éves természeti emlék.",
+            "ro": "Monument natural de peste 1500 de ani.",
+            "en": "A natural monument over 1500 years old."
+          }
+        },
+        {
+          "name": "Burg Vitturi",
+          "coords": [
+            16.368,
+            43.555
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtmuseum im Inneren.",
+            "hu": "Látogassa meg a bent működő városi múzeumot.",
+            "ro": "Vizitați muzeul orașului aflat în interior.",
+            "en": "Visit the city museum located inside."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Johannes",
+          "coords": [
+            16.369,
+            43.556
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für innere Einkehr.",
+            "hu": "Csendes hely az elmélyüléshez.",
+            "ro": "Un loc liniștit pentru meditație.",
+            "en": "A quiet place for reflection."
+          }
+        },
+        {
+          "name": "Strand Gabine",
+          "coords": [
+            16.33,
+            43.548
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen Drink zum Sonnenuntergang.",
+            "hu": "Tökéletes hely egy italra naplementekor.",
+            "ro": "Perfect pentru o băutură la apus.",
+            "en": "Perfect for a drink at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Kaštel Novi, wo die Geschichte in den engen Gassen lebendig wird. Bestaunen Sie den wehrhaften Turm Rotondo und den imposanten alten Olivenbaum, der seit der Römerzeit steht.\n\nMittags erreichen Sie das prächtige Schloss Vitturi in Kaštel Lukšić. Tauchen Sie in die tragische Liebesgeschichte von Miljenko und Dobrila ein, während Sie die Museumsräume erkunden.\n\nAm Nachmittag bietet die Kirche des Heiligen Johannes einen Moment der Stille. Der Weg entlang der Küste verbindet die historischen Perlen mit sanftem Meeresrauschen.\n\nLassen Sie den Tag am Strand Gabine ausklingen. Genießen Sie die warme dalmatinische Brise und den Blick auf die Bucht von Kaštela bei einem Glas lokalem Crljenak.",
+        "hu": "Kezdje a napot Kaštel Noviban, ahol a történelem megelevenedik a szűk utcákon. Csodálja meg a Rotondo-torony erődítményét és az impozáns öreg olajfát, amely a római kor óta rendületlenül áll.\n\nDélben érkezzen meg a pazar Vitturi-kastélyhoz Kaštel Lukšićban. Merüljön el Miljenko és Dobrila tragikus szerelmi történetében, miközben bejárja a múzeum termeit.\n\nDélután a Szent János-templom nyújt egy pillanatnyi csendet. A tengerparti sétány lágy hullámzással kísérve köti össze a történelmi gyöngyszemeket.\n\nZárja a napot a Gabine strandon. Élvezze a meleg dalmát szellőt és a Kaštelai-öbölre nyíló kilátást egy pohár helyi Crljenak bor társaságában.",
+        "ro": "Începeți ziua în Kaštel Novi, unde istoria prinde viață pe străzile înguste. Admirați fortificația Turnului Rotondo și impunătorul măslin vechi, care stă neclintit încă din epoca romană.\n\nLa prânz, ajungeți la somptuosul Castel Vitturi din Kaštel Lukšić. Scufundați-vă în povestea tragică de dragoste a lui Miljenko și Dobrila în timp ce explorați sălile muzeului.\n\nDupă-amiaza, Biserica Sfântul Ioan oferă un moment de liniște. Promenada de pe malul mării leagă perlele istorice, însoțită de susurul blând al valurilor.\n\nÎncheiați ziua pe plaja Gabine. Bucurați-vă de briza caldă dalmată și de vederea spre golful Kaštela cu un pahar de vin local Crljenak.",
+        "en": "Start your day in Kaštel Novi, where history comes alive in the narrow streets. Admire the fortification of the Rotondo Tower and the imposing old olive tree, which has stood since Roman times.\n\nAt noon, reach the magnificent Vitturi Castle in Kaštel Lukšić. Immerse yourself in the tragic love story of Miljenko and Dobrila while exploring the museum rooms.\n\nIn the afternoon, the Church of Saint John offers a moment of silence. The seaside promenade connects the historical gems accompanied by the gentle sound of the waves.\n\nEnd the day at Gabine beach. Enjoy the warm Dalmatian breeze and the view of the Kaštela Bay with a glass of local Crljenak wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Frischer Fisch und lokaler Wein Crljenak Kaštelanski."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Friss halak és a híres helyi Crljenak bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Pește proaspăt și celebrul vin local Crljenak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Fresh fish and the famous local Crljenak wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblischer Garten",
+            "tip": "Ein Ort der Ruhe mit mediterranen Pflanzen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bibliai kert",
+            "tip": "A nyugalom szigete mediterrán növényekkel.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Biblică",
+            "tip": "O oază de liniște cu plante mediteraneene.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biblical Garden",
+            "tip": "An oasis of peace with Mediterranean plants.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Nutzen Sie die Strandpromenade für den Weg zwischen den Kastellen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Használja a tengerparti sétányt a várkastélyok közötti közlekedésre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Folosiți promenada de pe litoral pentru a vă deplasa între castele."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Use the seaside promenade to move between the castles."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaštilac Festung",
+          "coords": [
+            16.401,
+            43.554
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bekannt als Drehort für Game of Thrones.",
+            "hu": "Ismert Trónok harca forgatási helyszín.",
+            "ro": "Cunoscut ca locație de filmare pentru Game of Thrones.",
+            "en": "Known as a filming location for Game of Thrones."
+          }
+        },
+        {
+          "name": "Burg Vitturi",
+          "coords": [
+            16.368,
+            43.555
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Architektur-Liebhaber.",
+            "hu": "Az építészet kedvelőinek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "A must-see for architecture lovers."
+          }
+        },
+        {
+          "name": "Altstadt Kaštel Novi",
+          "coords": [
+            16.335,
+            43.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die engen Gassen.",
+            "hu": "Óvatosan kerekezzen a szűk sikátorokban.",
+            "ro": "Pedalați cu atenție pe străzile înguste.",
+            "en": "Cycle carefully through the narrow alleys."
+          }
+        },
+        {
+          "name": "Der alte Olivenbaum",
+          "coords": [
+            16.328,
+            43.553
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto.",
+            "hu": "Egy rövid megálló egy fotó erejéig.",
+            "ro": "O scurtă oprire pentru o fotografie.",
+            "en": "A short stop for a photo."
+          }
+        },
+        {
+          "name": "Biblischer Garten Stomorija",
+          "coords": [
+            16.332,
+            43.575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht.",
+            "hu": "A kaptató megéri a kilátás miatt.",
+            "ro": "Urcarea merită pentru priveliște.",
+            "en": "The climb is worth it for the view."
+          }
+        },
+        {
+          "name": "Strand Gabine",
+          "coords": [
+            16.33,
+            43.548
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach der Fahrt ab.",
+            "hu": "Frissüljön fel a tekerés után.",
+            "ro": "Răcoriți-vă după plimbare.",
+            "en": "Refresh yourself after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie in Kaštel Gomilica bei der Festung Kaštilac, einem Juwel auf einer kleinen Insel. Radeln Sie entlang der Küste nach Westen durch die verschiedenen Kastelle.\n\nBesuchen Sie die Burg Vitturi und erkunden Sie die Geschichte von Kaštel Lukšić. Die flache Küstenstraße ist ideal für eine entspannte Fahrt unter Pinien.\n\nFahren Sie hinauf zum Biblischen Garten Stomorija am Hang des Kozjak-Gebirges. Der Weg bietet fantastische Panoramablicke über die gesamte Bucht und die Inseln.\n\nBeenden Sie Ihre Tour mit einer rasanten Abfahrt zum Strand Gabine. Ein Sprung ins kristallklare Wasser ist die beste Belohnung für die geleisteten Kilometer.",
+        "hu": "Induljon Kaštel Gomilicából a Kaštilac-erődtől, amely egy apró szigeten fekvő ékszerdoboz. Tekerjen nyugat felé a tengerpart mentén, érintve a különböző településrészeket.\n\nLátogasson el a Vitturi-kastélyhoz és fedezze fel Kaštel Lukšić történetét. A sík tengerparti út ideális egy pihentető tekeréshez a fenyőfák alatt.\n\nKerekezzen fel a Kozjak-hegység oldalában fekvő Bibliai kerthez. Az út fantasztikus panorámát kínál az egész öbölre és a szemközti szigetekre.\n\nZárja a túrát egy gyors legurulással a Gabine strandhoz. Egy csobbanás a kristálytiszta vízben a legjobb jutalom a megtett kilométerekért.",
+        "ro": "Începeți din Kaštel Gomilica de la fortăreața Kaštilac, o bijuterie pe o mică insulă. Pedalați spre vest de-a lungul coastei, trecând prin diversele așezări.\n\nVizitați Castelul Vitturi și descoperiți istoria din Kaštel Lukšić. Drumul plat de pe coastă este ideal pentru o plimbare relaxantă sub pini.\n\nUrcați spre Grădina Biblică Stomorija de pe versantul muntelui Kozjak. Drumul oferă vederi panoramice fantastice peste întreg golful și insule.\n\nÎncheiați turul cu o coborâre rapidă spre plaja Gabine. O săritură în apa cristalina este cea mai bună recompensă pentru kilometrii parcurși.",
+        "en": "Start in Kaštel Gomilica at the Kaštilac fortress, a gem on a tiny island. Cycle west along the coast through the various settlements.\n\nVisit Vitturi Castle and discover the history of Kaštel Lukšić. The flat coastal road is ideal for a relaxed ride under the pine trees.\n\nCycle up to the Biblical Garden Stomorija on the slopes of Mount Kozjak. The path offers fantastic panoramic views over the entire bay and the islands.\n\nEnd your tour with a quick descent to Gabine beach. A dip in the crystal-clear water is the best reward for the kilometers traveled."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Jidro",
+            "tip": "Snacks und Erfrischungen direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Jidro",
+            "tip": "Snackek és frissítők közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Jidro",
+            "tip": "Gustări și băuturi răcoritoare direct în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Jidro",
+            "tip": "Snacks and refreshments right in the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Vitturi",
+            "tip": "Schattige Bänke hinter dem Schloss.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitturi park",
+            "tip": "Árnyas padok a kastély mögött.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vitturi",
+            "tip": "Bănci umbrite în spatele castelului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitturi Park",
+            "tip": "Shaded benches behind the castle.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Schloss",
+            "tip": "Handgefertigte Keramik und lokale Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a kastélyban",
+            "tip": "Kézzel készített kerámiák és helyi gyógynövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în castel",
+            "tip": "Ceramică lucrată manual și ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop in the Castle",
+            "tip": "Handmade ceramics and local herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Hauptstraße (Magistrale), bleiben Sie am Meer.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg zur Stomorija mit."
+        ],
+        "hu": [
+          "Kerülje a főutat (Magistrale), maradjon a tengerparti utakon.",
+          "Vigyen magával elég vizet a Stomorija felé vezető emelkedőhöz."
+        ],
+        "ro": [
+          "Evitați drumul principal (Magistrale), rămâneți pe drumurile de coastă.",
+          "Luați suficientă apă pentru urcarea spre Stomorija."
+        ],
+        "en": [
+          "Avoid the main road (Magistrale), stay on the coastal roads.",
+          "Take enough water for the climb to Stomorija."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaštilac Festung",
+          "coords": [
+            16.401,
+            43.554
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang von Gomilica.",
+            "hu": "Parkoljon Gomilica bejáratánál.",
+            "ro": "Parcați la intrarea în Gomilica.",
+            "en": "Park at the entrance of Gomilica."
+          }
+        },
+        {
+          "name": "Burg Vitturi",
+          "coords": [
+            16.368,
+            43.555
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Rundgang durch das Museum ist lohnenswert.",
+            "hu": "Érdemes körbejárni a múzeumot.",
+            "ro": "Merită să faceți un tur al muzeului.",
+            "en": "It's worth taking a tour of the museum."
+          }
+        },
+        {
+          "name": "Altstadt Kaštel Novi",
+          "coords": [
+            16.335,
+            43.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den Wehrturm Rotondo.",
+            "hu": "Csodálja meg a Rotondo erődített tornyot.",
+            "ro": "Admirați turnul fortificat Rotondo.",
+            "en": "Admire the fortified Rotondo tower."
+          }
+        },
+        {
+          "name": "Der alte Olivenbaum",
+          "coords": [
+            16.328,
+            43.553
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplätze direkt an der Straße vorhanden.",
+            "hu": "Parkolóhelyek közvetlenül az út mentén.",
+            "ro": "Locuri de parcare disponibile direct lângă drum.",
+            "en": "Parking spaces available right by the road."
+          }
+        },
+        {
+          "name": "Biblischer Garten Stomorija",
+          "coords": [
+            16.332,
+            43.575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick im Grünen.",
+            "hu": "Ideális egy piknikhez a zöldben.",
+            "ro": "Ideal pentru un picnic în natură.",
+            "en": "Ideal for a picnic in the countryside."
+          }
+        },
+        {
+          "name": "Kliške tvrđava (Klis)",
+          "coords": [
+            16.522,
+            43.56
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Festung oberhalb von Split.",
+            "hu": "Látványos erőd Split felett.",
+            "ro": "Cetate spectaculoasă deasupra orașului Split.",
+            "en": "Spectacular fortress above Split."
+          }
+        },
+        {
+          "name": "Strand Gabine",
+          "coords": [
+            16.33,
+            43.548
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Tour am Meer.",
+            "hu": "Pihenjen meg a túra után a tengerparton.",
+            "ro": "Relaxați-vă pe malul mării după tur.",
+            "en": "Relax by the sea after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die gesamte Küste von Kaštela mühelos. Beginnen Sie bei der fotogenen Kaštilac-Festung in Gomilica und fahren Sie weiter zum historischen Zentrum von Lukšić.\n\nNach dem Besuch von Burg Vitturi und dem 1500 Jahre alten Olivenbaum in Štafilić führt Sie die Fahrt hinauf zum Biblischen Garten Stomorija für eine Pause im Grünen.\n\nAm Nachmittag machen Sie einen Ausflug zur nahegelegenen Festung Klis. Diese strategische Burg bietet den wohl besten Ausblick über Dalmatien und ist weltberühmt aus Film und Fernsehen.\n\nKehren Sie rechtzeitig zurück, um den Abend in einem der gemütlichen Restaurants am Meer in Kaštel Novi zu verbringen. Ein perfekter Mix aus Kultur, Geschichte und Natur.",
+        "hu": "Autóval könnyedén felfedezheti Kaštela teljes partvidékét. Kezdjen a fotogén Kaštilac-erődnél Gomilicában, majd haladjon tovább Lukšić történelmi központja felé.\n\nA Vitturi-kastély és a 1500 éves štafilići olajfa megtekintése után az út felvezet a Bibliai kerthez egy rövid zöld pihenőre.\n\nDélután tegyen egy kitérőt a közeli Klis erődjéhez. Ez a stratégiai vár kínálja Dalmácia talán legszebb kilátását, és világszerte ismert filmekből.\n\nTérjen vissza időben, hogy az estét Kaštel Novi egyik hangulatos tengerparti éttermében töltse. A kultúra, a történelem és a természet tökéletes keveréke.",
+        "ro": "Cu mașina, veți descoperi cu ușurință întreaga coastă a orașului Kaštela. Începeți de la fotogenica fortăreață Kaštilac din Gomilica și continuați spre centrul istoric din Lukšić.\n\nDupă vizitarea Castelului Vitturi și a măslinului de 1500 de ani din Štafilić, drumul vă duce sus, la Grădina Biblică Stomorija, pentru o pauză în natură.\n\nDupă-amiaza, faceți o excursie la cetatea Klis din apropiere. Această fortăreață strategică oferă probabil cea mai bună vedere asupra Dalmației și este faimoasă în întreaga lume.\n\nÎntoarceți-vă la timp pentru a petrece seara într-unul dintre restaurantele primitoare de pe malul mării din Kaštel Novi. Un amestec perfect de cultură, istorie și natură.",
+        "en": "By car, you will easily discover the entire coast of Kaštela. Start at the photogenic Kaštilac fortress in Gomilica and continue to the historical center of Lukšić.\n\nAfter visiting Vitturi Castle and the 1500-year-old olive tree in Štafilić, the drive takes you up to the Biblical Garden Stomorija for a break in the greenery.\n\nIn the afternoon, take a trip to the nearby Klis fortress. This strategic castle offers perhaps the best view over Dalmatia and is world-famous from movies and TV.\n\nReturn in time to spend the evening in one of the cozy seaside restaurants in Kaštel Novi. A perfect mix of culture, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Perlica (Klis)",
+            "tip": "Berühmtes Lamm am Spieß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Perlica (Klis)",
+            "tip": "Híres nyárson sült bárány."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Perlica (Klis)",
+            "tip": "Celebru miel la proțap."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Perlica (Klis)",
+            "tip": "Famous spit-roasted lamb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kozjak Aussichtspunkt",
+            "tip": "Stoppen Sie für ein Foto der Bucht.",
+            "emoji": "📸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozjak kilátópont",
+            "tip": "Álljon meg egy fotóra az öböl felett.",
+            "emoji": "📸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Kozjak",
+            "tip": "Opriți-vă pentru o fotografie deasupra golfului.",
+            "emoji": "📸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozjak Viewpoint",
+            "tip": "Stop for a photo above the bay.",
+            "emoji": "📸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut Bedalov",
+            "tip": "Probieren und kaufen Sie erstklassigen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bedalov borászat",
+            "tip": "Kóstoljon és vásároljon prémium borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Bedalov",
+            "tip": "Degustați și cumpărați vinuri premium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bedalov Winery",
+            "tip": "Taste and buy premium wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in den alten Stadtkernen ist oft schwierig, nutzen Sie markierte Plätze.",
+          "Die Fahrt nach Klis dauert ca. 20 Minuten."
+        ],
+        "hu": [
+          "Az óvárosi részeken nehéz a parkolás, használja a kijelölt helyeket.",
+          "A Klis felé vezető út kb. 20 percet vesz igénybe."
+        ],
+        "ro": [
+          "Parcarea în centrele vechi este adesea dificilă, folosiți locurile marcate.",
+          "Drumul spre Klis durează aproximativ 20 de minute."
+        ],
+        "en": [
+          "Parking in the old town centers is often difficult, use marked spots.",
+          "The drive to Klis takes about 20 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaštilac Festung",
+          "coords": [
+            16.401,
+            43.554
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Buslinie 37 hält in der Nähe.",
+            "hu": "A 37-es busz megállója a közelben van.",
+            "ro": "Linia de autobuz 37 oprește în apropiere.",
+            "en": "Bus line 37 stops nearby."
+          }
+        },
+        {
+          "name": "Burg Vitturi",
+          "coords": [
+            16.368,
+            43.555
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das Schloss liegt direkt am Wasser.",
+            "hu": "A kastély közvetlenül a vízparton található.",
+            "ro": "Castelul este situat direct pe malul apei.",
+            "en": "The castle is located directly on the waterfront."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Johannes",
+          "coords": [
+            16.369,
+            43.556
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzes Stück zu Fuß von der Haltestelle.",
+            "hu": "Egy rövid sétára a megállótól.",
+            "ro": "La scurtă distanță de mers pe jos de stație.",
+            "en": "A short walk from the stop."
+          }
+        },
+        {
+          "name": "Altstadt Kaštel Novi",
+          "coords": [
+            16.335,
+            43.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis auf dem Hauptplatz.",
+            "hu": "Egyen egy fagyit a főtéren.",
+            "ro": "Savurați o înghețată în piața principală.",
+            "en": "Enjoy an ice cream in the main square."
+          }
+        },
+        {
+          "name": "Der alte Olivenbaum",
+          "coords": [
+            16.328,
+            43.553
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "In Kaštel Štafilić aussteigen.",
+            "hu": "Kaštel Štafilićnál kell leszállni.",
+            "ro": "Coborâți la Kaštel Štafilić.",
+            "en": "Get off at Kaštel Štafilić."
+          }
+        },
+        {
+          "name": "Strand Gabine",
+          "coords": [
+            16.33,
+            43.548
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Endstation für Entspannung.",
+            "hu": "A kikapcsolódás végállomása.",
+            "ro": "Stația finală pentru relaxare.",
+            "en": "The final stop for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den legendären '37er' Bus, der Split mit Trogir verbindet und an allen Kastellen hält. Beginnen Sie in Gomilica bei der beeindruckenden Kaštilac-Festung.\n\nFahren Sie weiter nach Kaštel Lukšić zum Schloss Vitturi. Der öffentliche Nahverkehr ist effizient und bietet einen authentischen Einblick in das lokale Leben.\n\nNachmittags erkunden Sie die Gassen von Kaštel Novi und besuchen den alten Olivenbaum in Štafilić. Die Haltestellen befinden sich meist an der Hauptstraße, nur wenige Gehminuten vom Meer entfernt.\n\nBeenden Sie den Tag am Strand Gabine, bevor Sie entspannt mit dem Bus zurückfahren. Eine stressfreie Art, die Vielfalt der sieben Kastelle ohne Parkplatzsorgen zu erleben.",
+        "hu": "Használja a legendás 37-es buszt, amely összeköti Splitet és Trogirt, és minden településrészen megáll. Kezdjen Gomilicában a lenyűgöző Kaštilac-erődnél.\n\nUtazzon tovább Kaštel Lukšićba a Vitturi-kastélyhoz. A tömegközlekedés hatékony és autentikus betekintést nyújt a helyi életbe.\n\nDélután fedezze fel Kaštel Novi utcáit és látogassa meg a štafilići öreg olajfát. A megállók többnyire a főúton vannak, pár perc sétára a tengertől.\n\nZárja a napot a Gabine strandon, mielőtt kényelmesen visszabuszozna. Stresszmentes módja a hét kastély felfedezésének parkolási gondok nélkül.",
+        "ro": "Folosiți legendarul autobuz „37”, care leagă Split de Trogir și oprește în toate zonele. Începeți în Gomilica la impresionanta fortăreață Kaštilac.\n\nContinuați spre Kaštel Lukšić la Castelul Vitturi. Transportul public este eficient și oferă o perspectivă autentică asupra vieții locale.\n\nDupă-amiaza, explorați străzile din Kaštel Novi și vizitați măslinul vechi din Štafilić. Stațiile sunt în mare parte pe drumul principal, la doar câteva minute de mers pe jos de mare.\n\nÎncheiați ziua pe plaja Gabine înainte de a vă întoarce relaxat cu autobuzul. O modalitate fără stres de a experimenta diversitatea celor șapte castele fără grija parcării.",
+        "en": "Use the legendary '37' bus, which connects Split and Trogir and stops at all the settlements. Start in Gomilica at the impressive Kaštilac fortress.\n\nContinue to Kaštel Lukšić to Vitturi Castle. Public transport is efficient and offers an authentic insight into local life.\n\nIn the afternoon, explore the streets of Kaštel Novi and visit the old olive tree in Štafilić. The stops are mostly on the main road, just a few minutes' walk from the sea.\n\nEnd the day at Gabine beach before taking a relaxed bus ride back. A stress-free way to experience the variety of the seven castles without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Beliebt bei Einheimischen, große Portionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "A helyiek kedvence, hatalmas adagok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Favorita localnicilor, porții generoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "A local favorite, huge portions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade Gomilica",
+            "tip": "Ruhiger Spaziergang am Abend.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gomilicai tengerparti sétány",
+            "tip": "Csendes esti séta a vízparton.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza din Gomilica",
+            "tip": "O plimbare liniștită de seară.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gomilica Waterfront",
+            "tip": "A quiet evening stroll by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Kaštel Lukšić",
+            "tip": "Probieren Sie frisches Burek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség Kaštel Lukšićban",
+            "tip": "Kóstolja meg a friss bureket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Kaštel Lukšić",
+            "tip": "Încercați burek proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in Kaštel Lukšić",
+            "tip": "Try fresh burek."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets beim Fahrer oder per App.",
+          "Achten Sie auf die Fahrtrichtung (Split oder Trogir)."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet a sofőrnél vagy alkalmazáson keresztül.",
+          "Ügyeljen a menetirányra (Split vagy Trogir)."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer sau prin aplicație.",
+          "Atenție la direcția de deplasare (Split sau Trogir)."
+        ],
+        "en": [
+          "Buy bus tickets from the driver or via app.",
+          "Pay attention to the direction of travel (Split or Trogir)."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-17",
+    "coords": [
+      16.35,
+      43.55
+    ],
+    "transit_official": {
+      "name": "Promet Split (urban+suburban buses, Kaštela lines)",
+      "url": "https://www.promet-split.hr/en/",
+      "verified": 200
+    },
+    "transit_app": {
+      "name": "Google Maps transit",
+      "url": "https://www.google.com/maps",
+      "verified": 200
+    },
+    "bike_share": null,
+    "city_card": null,
+    "events": {
+      "name": "Ulaznice.hr",
+      "url": "https://www.ulaznice.hr/",
+      "verified": 200
+    },
+    "tourism_office": {
+      "name": "Grad Kaštela (official municipal site)",
+      "url": "https://kastela.hr/",
+      "verified": 200,
+      "alt": "https://www.kastela-info.hr/"
+    },
+    "webcam": {
+      "name": "Skyline Webcams Kaštela",
+      "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/kastela.html",
+      "verified": 200
+    },
+    "restaurants_booking": {
+      "name": "Google Maps (Kaštela restaurants)",
+      "url": "https://www.google.com/maps/search/restaurants+Kastela",
+      "verified": 200
+    },
+    "museum_tickets": {
+      "name": "Visit Split (regional tourism, includes 7 Kaštela castles)",
+      "url": "https://www.visitsplit.com/",
+      "verified": 200
+    },
+    "parking_real_time": {
+      "name": "HAK traffic & parking info",
+      "url": "https://www.hak.hr/",
+      "verified": 200
+    },
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; in Dalmatien spricht das Tourismuspersonal Englisch, Deutsch und Italienisch. 'Bok' = Hallo (informell).",
+      "hu": "A horvát a hivatalos nyelv; Dalmáciában a turisztikai dolgozók beszélnek angolul, németül és olaszul. 'Bok' = szia (informális).",
+      "ro": "Croata este limba oficială; în Dalmația personalul turistic vorbește engleză, germană și italiană. 'Bok' = salut (informal).",
+      "en": "Croatian is official; in Dalmatia hospitality staff speak English, German and Italian. 'Bok' = hi (informal)."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni, September; im August sehr voll wegen Nähe zu Split und zum Flughafen.",
+      "hu": "Május, június, szeptember; augusztusban nagyon zsúfolt Split és a reptér közelsége miatt.",
+      "ro": "Mai, iunie, septembrie; în august foarte aglomerat datorită proximității de Split și aeroport.",
+      "en": "May, June, September; very crowded in August due to proximity to Split and the airport."
+    },
+    "neighborhood_warnings": {
+      "de": "Die sieben Orte (Štafilić bis Sućurac) ziehen sich 17 km entlang der Bucht, ohne Auto schwer zu erkunden; Flugzeuglärm in Kaštel Štafilić nahe Flughafen.",
+      "hu": "A hét település (Štafilić-tól Sućurac-ig) 17 km hosszan húzódik az öbölben, autó nélkül nehéz bejárni; repülőgépzaj Kaštel Štafilićban a reptér közelében.",
+      "ro": "Cele șapte localități (de la Štafilić la Sućurac) se întind pe 17 km de-a lungul golfului, greu de explorat fără mașină; zgomot de avioane în Kaštel Štafilić, lângă aeroport.",
+      "en": "The seven settlements (Štafilić to Sućurac) stretch 17 km along the bay, hard to explore without a car; aircraft noise in Kaštel Štafilić near the airport."
+    }
+  }
+}

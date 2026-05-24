@@ -1,0 +1,938 @@
+{
+  "city_id": "hvar",
+  "anchor": {
+    "name": "Hvar",
+    "coords": [
+      16.4413,
+      43.1729
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Sankt-Stephan-Platz",
+          "coords": [
+            16.4408,
+            43.1725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie Ihren ersten Kaffee hier, um das lokale Leben zu beobachten.",
+            "hu": "Igya meg itt a reggeli kávéját, és figyelje a város ébredését.",
+            "ro": "Beți prima cafea aici pentru a observa viața locală vibrantă.",
+            "en": "Drink your first coffee here to observe the local life waking up."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Stephan",
+          "coords": [
+            16.4418,
+            43.1723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wertvollen Gemälde lokaler Meister im Inneren.",
+            "hu": "Figyelje meg a helyi mesterek értékes festményeit a belső térben.",
+            "ro": "Admirați picturile valoroase ale maeștrilor locali din interior.",
+            "en": "Pay attention to the valuable paintings by local masters inside."
+          }
+        },
+        {
+          "name": "Benediktinerinnenkloster",
+          "coords": [
+            16.4412,
+            43.1735
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die UNESCO-geschützte Agavenspitze der Nonnen.",
+            "hu": "Csodálja meg az apácák UNESCO-védett agávécsipkéit a múzeumban.",
+            "ro": "Admirați dantela din agave, protejată UNESCO, realizată de călugărițe.",
+            "en": "Admire the UNESCO-protected agave lace made by the nuns."
+          }
+        },
+        {
+          "name": "Arsenal und Theater",
+          "coords": [
+            16.4398,
+            43.1718
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der ältesten kommunalen Theater Europas im Obergeschoss.",
+            "hu": "Látogasson el Európa egyik legrégebbi közszínházába az emeleten.",
+            "ro": "Vizitați unul dintre cele mai vechi teatre comunale din Europa la etaj.",
+            "en": "Visit one of the oldest communal theaters in Europe on the upper floor."
+          }
+        },
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            16.4442,
+            43.1702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Abendmahl-Gemälde im Refektorium ist ein absolutes Muss.",
+            "hu": "Az ebédlőben található Utolsó vacsora festmény kötelező látnivaló.",
+            "ro": "Pictura Cina cea de Taină din refectoriu este absolut obligatorie.",
+            "en": "The Last Supper painting in the refectory is an absolute must-see."
+          }
+        },
+        {
+          "name": "Festung Fortica",
+          "coords": [
+            16.4415,
+            43.1755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Panoramablick auf die Pakleni-Inseln ist von hier oben am besten.",
+            "hu": "Innen a legszebb a panoráma a Pakleni-szigetekre és az óvárosra.",
+            "ro": "Vederea panoramică asupra insulelor Pakleni este cea mai bună de aici.",
+            "en": "The panoramic view of the Pakleni Islands is best from up here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Pjaca, dem größten Platz Dalmatiens, inmitten lebendiger Kaffeekultur. Mittags erkunden wir das historische Arsenal und die filigrane Agavenspitze der Benediktinerinnen. Am Nachmittag führt ein Pinienweg zur Spanischen Festung mit atemberaubendem Ausblick. Der Abend klingt mit einem friedlichen Spaziergang am Franziskanerkloster aus, während die Sonne versinkt.",
+        "hu": "A reggel a Pjacán indul, Dalmácia legnagyobb terén, ahol pezseg a kávéházi élet. Délben a történelmi Arzenált és a bencés nővérek különleges agávécsipkéit fedezzük fel. Délután a fenyőillatú ösvényen felsétálunk a Spanyol erődbe a lenyűgöző panorámáért. Az estét a ferences kolostor melletti békés sétával zárjuk, miközben a nap lebukik a Pakleni-szigetek mögött a tengerbe.",
+        "ro": "Dimineața începe în Pjaca, cea mai mare piață din Dalmația, unde cultura cafelei este vibrantă. La prânz explorăm Arsenalul istoric și dantela delicată din agave a benedictinelor. După-amiaza, urcăm pe poteca parfumată cu pini spre Cetatea Spaniolă pentru vederi uluitoare. Seara se încheie cu o plimbare liniștită pe lângă mănăstirea franciscană, în timp ce soarele apune.",
+        "en": "Morning begins at the vibrant Pjaca, the largest square in Dalmatia. Midday is spent exploring the historic Arsenal and the delicate agave lace of the Benedictines. In the afternoon, we walk up the pine-scented path to the Spanish Fortress for breathtaking views. Evening concludes with a peaceful stroll by the Franciscan monastery as the sun sets over the Pakleni islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gregada",
+            "tip": "Traditioneller Hvarer Eintopf mit Fisch, Kartoffeln und Zwiebeln."
+          },
+          {
+            "name": "Dalmatino",
+            "tip": "Hervorragende Meeresfrüchte direkt im Herzen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gregada",
+            "tip": "Hagyományos hvari halragu burgonyával, hagymával és olívaolajjal."
+          },
+          {
+            "name": "Konoba Menego",
+            "tip": "Autentikus dalmát konyha egy családi vezetésű kőházban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gregada",
+            "tip": "Tocăniță tradițională din Hvar cu pește, cartofi și ceapă."
+          },
+          {
+            "name": "Konoba Luviji",
+            "tip": "Vinuri locale și specialități de pește pe o terasă acoperită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gregada",
+            "tip": "Traditional Hvar fish stew with potatoes, onions, and olive oil."
+          },
+          {
+            "name": "Dalmatino",
+            "tip": "Excellent seafood and steaks in the heart of the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein ruhiger Ort für Besinnung im Franziskanerkloster.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fortica Panorama",
+            "tip": "Perfekter Ort für den Sonnenuntergang über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes pihenőhely a ferences kolostor árnyas kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortica fok",
+            "tip": "Lenyűgöző panoráma és csend a várfalak tövében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "Un loc liniștit pentru reflecție la mănăstirea franciscană.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful Fortica",
+            "tip": "Loc perfect pentru apusul soarelui peste arhipelag.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A quiet spot for reflection in the Franciscan monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fortica Viewpoint",
+            "tip": "Perfect spot for sunset over the Pakleni islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Hvar ist berühmt für seinen aromatischen Lavendel."
+          },
+          {
+            "name": "Agavenspitze",
+            "tip": "Einzigartige Handarbeit der Benediktinerinnen-Nonnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula olaj",
+            "tip": "Vásároljon tiszta hvari levendulát a piaci árusoktól."
+          },
+          {
+            "name": "Agávécsipke",
+            "tip": "A világon egyedülálló, kaktuszból készült kézműves remek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculețe cu lavandă",
+            "tip": "Hvar este renumit pentru lavanda sa aromată."
+          },
+          {
+            "name": "Dantelă de agave",
+            "tip": "Artizanat unic realizat de călugărițele benedictine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Bags",
+            "tip": "Hvar is famous for its high-quality aromatic lavender."
+          },
+          {
+            "name": "Agave Lace",
+            "tip": "Unique handicraft made only by the Benedictine nuns."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den steilen Aufstieg zur Festung.",
+          "Die Kathedrale ist während der Mittagsruhe oft geschlossen.",
+          "Buchen Sie Restauranttische in der Hochsaison im Voraus.",
+          "Das Leitungswasser ist trinkbar, aber sehr kalkhaltig."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a várhoz vezető meredek úton.",
+          "A katedrális gyakran zárva tart a kora délutáni órákban.",
+          "A főszezonban érdemes előre asztalt foglalni az éttermekben.",
+          "Vásároljon levendulát közvetlenül a helyi kistermelőktől."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru urcarea abruptă spre cetate.",
+          "Catedrala este adesea închisă în timpul siestei de după-amiază.",
+          "Rezervați mese la restaurant în avans în timpul sezonului de vârf.",
+          "Apa de la robinet este potabilă, dar conține mult calcar."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep climb to the fortress.",
+          "The cathedral is often closed during the early afternoon hours.",
+          "Book restaurant tables in advance during the high season.",
+          "Buy lavender products directly from local street vendors."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Sankt-Stephan-Platz",
+          "coords": [
+            16.4408,
+            43.1725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Uferpromenade.",
+            "hu": "Kezdje a túrát a tengerparti sétányon.",
+            "ro": "Punct de plecare pe faleza mării.",
+            "en": "Start point at the seaside promenade."
+          }
+        },
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            16.4442,
+            43.1702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Leicht erreichbar über die flache Uferstraße.",
+            "hu": "Könnyen elérhető a lapos parti úton.",
+            "ro": "Ușor accesibil prin drumul plat de pe coastă.",
+            "en": "Easily accessible via the flat coastal road."
+          }
+        },
+        {
+          "name": "Pokonji Dol Beach",
+          "coords": [
+            16.458,
+            43.1645
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Strandweg führt von der Stadt hierher.",
+            "hu": "Gyönyörű tengerparti út vezet ide a városból.",
+            "ro": "O potecă frumoasă pe coastă duce aici din oraș.",
+            "en": "A beautiful coastal path leads here from the town."
+          }
+        },
+        {
+          "name": "Arsenal und Theater",
+          "coords": [
+            16.4398,
+            43.1718
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher am Hafen ab.",
+            "hu": "Zárja le biztonságosan kerékpárját a kikötőben.",
+            "ro": "Parcați bicicleta în siguranță lângă port.",
+            "en": "Lock your bike safely near the harbor."
+          }
+        },
+        {
+          "name": "Spanische Festung",
+          "coords": [
+            16.4415,
+            43.1755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Harter Anstieg, aber die Abfahrt macht Spaß.",
+            "hu": "Kemény emelkedő, de a lefelé út kárpótol.",
+            "ro": "Urcare grea, dar coborârea este distractivă.",
+            "en": "Tough climb, but the descent is fun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Hvar auf zwei Rädern. Wir starten an der Pjaca und fahren entlang der Küste zum Franziskanerkloster. Danach radeln wir zur idyllischen Bucht Pokonji Dol für ein erfrischendes Bad. Zurück in der Stadt besuchen wir das Arsenal, bevor wir den anstrengenden, aber lohnenden Weg zur Festung Fortica antreten, um den Tag mit einem Blick über die Inseln zu krönen.",
+        "hu": "Fedezze fel Hvart két keréken. A Pjacáról indulva a part mentén tekerünk a ferences kolostorig. Ezután az idilli Pokonji Dol öböl felé vesszük az irányt egy frissítő csobbanásra. Visszatérve a városba megnézzük az Arzenált, majd következik a fárasztó, de megérős tekerés fel a várba, hogy a napot a szigetekre nyíló kilátással zárjuk.",
+        "ro": "Explorați Hvar pe două roți. Începem din Pjaca și mergem de-a lungul coastei până la mănăstirea franciscană. Apoi pedalăm spre golful idilic Pokonji Dol pentru o baie răcoritoare. Înapoi în oraș vizităm Arsenalul, înainte de a începe drumul obositor, dar plin de satisfacții spre cetate, pentru a încheia ziua cu o priveliște asupra insulelor.",
+        "en": "Explore Hvar on two wheels. Starting from Pjaca, we ride along the coast to the Franciscan monastery. Then we cycle to the idyllic Pokonji Dol bay for a refreshing swim. Back in town, we visit the Arsenal before the strenuous but rewarding ride up to the Fortica fortress to crown the day with a view over the islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eisdiele am Hafen",
+            "tip": "Perfekte Erfrischung nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői fagyizó",
+            "tip": "Tökéletes felfrissülés a kerékpározás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată în port",
+            "tip": "Răcorire perfectă după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Ice Cream",
+            "tip": "Perfect refreshment after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pokonji Dol",
+            "tip": "Frühmorgens sehr ruhig und friedlich.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pokonji Dol",
+            "tip": "Kora reggel nagyon csendes és békés.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pokonji Dol",
+            "tip": "Foarte liniștit și pașnic dimineața devreme.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pokonji Dol",
+            "tip": "Very quiet and peaceful early in the morning.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mieten Sie ein E-Bike für die steilen Hügel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Béreljen e-bike-ot a meredek dombokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "Închiriați o bicicletă electrică pentru dealurile abrupte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental",
+            "tip": "Rent an e-bike for the steep hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Mittagshitze beim Aufstieg zur Festung.",
+          "Einige Gassen in der Altstadt sind Fußgängerzonen.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Fortica."
+        ],
+        "hu": [
+          "Kerülje a déli hőséget a várba való feljutáskor.",
+          "Az óváros egyes utcái gyalogos övezetek.",
+          "Ellenőrizze a fékeket a várból való leereszkedés előtt."
+        ],
+        "ro": [
+          "Evitați căldura de la prânz când urcați la cetate.",
+          "Unele străzi din centrul vechi sunt zone pietonale.",
+          "Verificați frânele înainte de a coborî de la cetate."
+        ],
+        "en": [
+          "Avoid the midday heat when climbing to the fortress.",
+          "Some alleys in the old town are pedestrian zones.",
+          "Check your brakes before descending from the fortress."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hvar Altstadt",
+          "coords": [
+            16.4408,
+            43.1725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen öffentlichen Parkplatz am Eingang.",
+            "hu": "Parkoljon a város bejáratánál lévő nagy központi parkolóban.",
+            "ro": "Parcați în marea parcare publică de la intrare.",
+            "en": "Park in the large public parking lot at the entrance."
+          }
+        },
+        {
+          "name": "Festung Fortica",
+          "coords": [
+            16.4415,
+            43.1755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sie können mit dem Auto fast bis zum Eingang fahren.",
+            "hu": "Autóval szinte a vár bejáratáig fel lehet hajtani.",
+            "ro": "Puteți conduce cu mașina aproape până la intrare.",
+            "en": "You can drive almost to the entrance of the fortress."
+          }
+        },
+        {
+          "name": "Brusje Lavendelfelder",
+          "coords": [
+            16.485,
+            43.189
+          ],
+          "category": "agriculture",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besonders im Juni und Juli zur Blütezeit wunderschön.",
+            "hu": "Különösen júniusban és júliusban, virágzáskor csodálatos.",
+            "ro": "Deosebit de frumos în iunie și iulie, în timpul înfloririi.",
+            "en": "Especially beautiful in June and July during the blooming season."
+          }
+        },
+        {
+          "name": "Stari Grad",
+          "coords": [
+            16.598,
+            43.183
+          ],
+          "category": "city",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus von Petar Hektorović (Tvrdalj).",
+            "hu": "Látogassa meg Petar Hektorović reneszánsz nyári lakát.",
+            "ro": "Vizitați casa lui Petar Hektorović (Tvrdalj).",
+            "en": "Visit the house of Petar Hektorović (Tvrdalj)."
+          }
+        },
+        {
+          "name": "Dubovica Beach",
+          "coords": [
+            16.535,
+            43.146
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein steiler Fußweg führt vom Parkplatz zum Strand hinunter.",
+            "hu": "Meredek gyalogút vezet le a parkolótól a partig.",
+            "ro": "O potecă abruptă duce de la parcare jos la plajă.",
+            "en": "A steep path leads down from the parking lot to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Roadtrip über die Insel Hvar. Nach dem Besuch der Altstadt fahren wir zur Festung Fortica. Die Reise geht weiter durch die Lavendeldörfer von Brusje nach Stari Grad, der ältesten Stadt Kroatiens. Den Nachmittag verbringen wir in der malerischen Dubovica-Bucht, bevor wir über die kurvenreiche alte Straße mit fantastischen Ausblicken nach Hvar zurückkehren.",
+        "hu": "Autós kirándulás Hvar szigetén. Az óváros megtekintése után felhajtunk a várhoz. Utunk Brusje levendulamezőin keresztül Stari Gradba, Horvátország legrégebbi városába vezet. A délutánt a festői Dubovica-öbölben töltjük, majd a régi szerpentinúton, fantasztikus kilátás mellett térünk vissza Hvar városába.",
+        "ro": "O excursie cu mașina pe insula Hvar. După vizitarea orașului vechi, conducem spre cetate. Călătoria continuă prin satele cu lavandă din Brusje către Stari Grad, cel mai vechi oraș din Croația. Petrecem după-amiaza în pitorescul golf Dubovica, înainte de a ne întoarce la Hvar pe vechiul drum șerpuitor cu vederi fantastice.",
+        "en": "A road trip across Hvar island. After visiting the old town, we drive up to Fortica fortress. The journey continues through the lavender fields of Brusje to Stari Grad, Croatia's oldest town. We spend the afternoon at the picturesque Dubovica bay before returning to Hvar via the scenic old road with fantastic island views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kokot",
+            "tip": "In Dol bei Stari Grad, berühmt für Lammfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kokot",
+            "tip": "Dol faluban, Stari Grad mellett, híres a báránysültjéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kokot",
+            "tip": "În Dol lângă Stari Grad, renumit pentru carnea de miel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kokot",
+            "tip": "In Dol near Stari Grad, famous for its lamb dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brusje Stille",
+            "tip": "Einsame Straßen mit Blick auf das Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brusje csendje",
+            "tip": "Magányos utak a levendulamezők között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liniștea din Brusje",
+            "tip": "Drumuri solitare cu vedere spre mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brusje Solitude",
+            "tip": "Lonely roads with views of the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stari Grad Markt",
+            "tip": "Frisches Olivenöl und Honig direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stari Gradi piac",
+            "tip": "Friss olívaolaj és méz közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Stari Grad",
+            "tip": "Ulei de măsline proaspăt și miere direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stari Grad Market",
+            "tip": "Fresh olive oil and honey directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die alte Straße nach Stari Grad bietet die besten Aussichten.",
+          "Vorsicht vor schmalen Straßen in den Bergdörfern.",
+          "Tanken Sie in Hvar Stadt, da es nur wenige Tankstellen gibt."
+        ],
+        "hu": [
+          "A Stari Gradba vezető régi út kínálja a legjobb kilátást.",
+          "Vigyázzon a szűk utakra a hegyi falvakban.",
+          "Tankoljon Hvar városában, mert kevés a benzinkút a szigeten."
+        ],
+        "ro": [
+          "Vechiul drum spre Stari Grad oferă cele mai bune priveliști.",
+          "Atenție la drumurile înguste din satele de munte.",
+          "Alimentați în orașul Hvar, deoarece sunt puține benzinării."
+        ],
+        "en": [
+          "The old road to Stari Grad offers the best scenic views.",
+          "Be careful on narrow roads in the mountain villages.",
+          "Refuel in Hvar town as gas stations are scarce on the island."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Sankt-Stephan-Platz",
+          "coords": [
+            16.4408,
+            43.1725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für alle Touren.",
+            "hu": "Központi találkozóhely minden túrához.",
+            "ro": "Punct de întâlnire central pentru toate tururile.",
+            "en": "Central meeting point for all island tours."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Stephan",
+          "coords": [
+            16.4418,
+            43.1723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt direkt am Platz.",
+            "hu": "A város jelképe közvetlenül a főtéren.",
+            "ro": "Simbolul orașului situat direct în piață.",
+            "en": "The landmark of the city directly on the square."
+          }
+        },
+        {
+          "name": "Arsenal und Theater",
+          "coords": [
+            16.4398,
+            43.1718
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt neben dem Hafenbecken gelegen.",
+            "hu": "Közvetlenül a kikötő mellett található.",
+            "ro": "Situat direct lângă bazinul portului.",
+            "en": "Located directly next to the harbor basin."
+          }
+        },
+        {
+          "name": "Pakleni-Inseln",
+          "coords": [
+            16.435,
+            43.161
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein Taxiboot vom Hauptkai.",
+            "hu": "Szálljon fel egy taxihajóra a fő mólónál.",
+            "ro": "Luați un taxi boat de la debarcaderul principal.",
+            "en": "Take a taxi boat from the main pier."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Hvar vom Wasser aus. Nach einem Spaziergang über die Pjaca und dem Besuch der Kathedrale und des Arsenals nutzen wir das beste Transportmittel der Insel: das Boot. Ein Taxiboot bringt uns zu den Pakleni-Inseln, wo wir den Nachmittag in kristallklarem Wasser verbringen. Die Rückreise bietet einen unvergleichlichen Blick auf die Skyline von Hvar Stadt.",
+        "hu": "Hvar a víz felől. A Pjaca, a katedrális és az Arzenál megtekintése után igénybe vesszük a sziget legjobb közlekedési eszközét: a hajót. Egy taxihajó átvisz minket a Pakleni-szigetekre, ahol a délutánt kristálytiszta vízben töltjük. A visszaút során páratlan kilátás nyílik Hvar városának sziluettjére.",
+        "ro": "Hvar de pe apă. După o plimbare prin Pjaca și vizitarea catedralei și a Arsenalului, folosim cel mai bun mijloc de transport de pe insulă: barca. Un taxi boat ne duce la insulele Pakleni, unde petrecem după-amiaza în ape cristaline. Călătoria de întoarcere oferă o vedere de neegalat asupra orizontului orașului Hvar.",
+        "en": "Hvar from the water. After a walk through Pjaca and visiting the cathedral and Arsenal, we use the island's best mode of transport: the boat. A taxi boat takes us to the Pakleni Islands, where we spend the afternoon in crystal-clear water. The return trip offers an unparalleled view of Hvar town's skyline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strandbars auf Jerolim",
+            "tip": "Entspannte Atmosphäre mit Cocktails und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jerolim strandbárjai",
+            "tip": "Laza hangulat koktélokkal és könnyű ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de plajă pe Jerolim",
+            "tip": "Atmosferă relaxată cu cocktailuri și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jerolim Beach Bars",
+            "tip": "Relaxed atmosphere with cocktails and snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pakleni Buchten",
+            "tip": "Finden Sie Ihre eigene kleine Bucht zum Entspannen.",
+            "emoji": "🏝️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pakleni öblök",
+            "tip": "Keressen saját kis öblöt a teljes nyugalomhoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Pakleni",
+            "tip": "Găsiți-vă propriul golfuleț pentru relaxare.",
+            "emoji": "🏝️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pakleni Bays",
+            "tip": "Find your own little bay for total relaxation.",
+            "emoji": "🏝️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ticketschalter am Hafen",
+            "tip": "Kaufen Sie Hin- und Rückfahrkarten für die Boote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői jegypénztár",
+            "tip": "Vásároljon retúrjegyet a taxihajókra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa de bilete din port",
+            "tip": "Cumpărați bilete dus-întors pentru bărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Ticket Office",
+            "tip": "Buy return tickets for the taxi boats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxiboote fahren im Sommer alle 20-30 Minuten.",
+          "Bewahren Sie Ihr Rückfahrticket gut auf.",
+          "Fragen Sie den Skipper nach der letzten Rückfahrtzeit."
+        ],
+        "hu": [
+          "A taxihajók nyáron 20-30 percenként indulnak.",
+          "Őrizze meg jól a visszatérésre szóló jegyét.",
+          "Kérdezze meg a kapitányt az utolsó hajó indulásáról."
+        ],
+        "ro": [
+          "Taxi-urile pe apă circulă la fiecare 20-30 de minute vara.",
+          "Păstrați biletul de întoarcere în siguranță.",
+          "Întrebați căpitanul despre ora ultimei curse de întoarcere."
+        ],
+        "en": [
+          "Taxi boats run every 20-30 minutes during summer.",
+          "Keep your return ticket safe.",
+          "Ask the skipper for the time of the last return boat."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": null,
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visithvar.hr/all-events/",
+    "tourism_office": "https://visithvar.hr/",
+    "webcam": "https://www.whatsupcams.com/en/webcams/croatia/split-dalmatia/hvar/",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.getyourguide.com/hvar-city-l176568/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Drei nuetzliche kroatische Woerter: Bok (bok, hallo), Hvala (chwa-la, danke), Racun molim (ra-tschun mo-lim, die Rechnung bitte).",
+      "hu": "Harom hasznos horvat szo: Bok (bok, szia), Hvala (hvala, koszonom), Racun molim (racsun molim, a szamlat kerem).",
+      "ro": "Trei cuvinte utile in croata: Bok (bok, salut), Hvala (hvala, multumesc), Racun molim (raciun molim, nota va rog).",
+      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please)."
+    },
+    "best_time_to_visit": {
+      "de": "Ende Mai bis Juni und September sind perfekt (Lavendel-Bluete im Juni, ruhigere Strande). Juli und August sind teuer und ueberfuellt mit Yachten.",
+      "hu": "Majus vege es junius, valamint szeptember tokeletes (juniusban levendulavirag, csendesebb strandok). Julius es augusztus draga es jachtokkal zsufolt.",
+      "ro": "Sfarsitul lui mai pana in iunie si septembrie sunt perfecte (lavanda inflorita in iunie, plaje mai linistite). Iulie si august sunt scumpe si aglomerate de iahturi.",
+      "en": "Late May to June and September are perfect (lavender bloom in June, quieter beaches). July and August get pricey and packed with yachts."
+    },
+    "neighborhood_warnings": {
+      "de": "Hvar-Stadt ist sicher, aber das Nachtleben rund um Pjaca/Carpe Diem zieht Pickpockets an. Vorsicht auf den polierten Steinplatten bei Regen.",
+      "hu": "Hvar varos biztonsagos, de a Pjaca/Carpe Diem korul az ejszakai elet zsebtolvajokat vonz. Csuszos kovekre figyelj esoben.",
+      "ro": "Orasul Hvar este sigur, dar viata de noapte din jurul Pjaca/Carpe Diem atrage hoti de buzunare. Atentie la pietrele lustruite cand ploua.",
+      "en": "Hvar Town is safe, but the nightlife strip around Pjaca/Carpe Diem attracts pickpockets. Watch for slippery polished stone when it rains."
+    }
+  }
+}

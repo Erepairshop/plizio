@@ -1,0 +1,1183 @@
+{
+  "city_id": "rovinj",
+  "anchor": {
+    "name": "Rovinj",
+    "coords": [
+      13.6386,
+      45.0811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Balbi-Bogen",
+            "hu": "Balbi-ív",
+            "ro": "Arcul lui Balbi",
+            "en": "Balbi's Arch"
+          },
+          "coords": [
+            13.6339,
+            45.0818
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf den venezianischen Löwen und den Kopf eines Türken am Tor.",
+            "hu": "Figyeld meg a velencei oroszlánt és a török fejet a kapun.",
+            "ro": "Observați leul venețian și capul de turc de pe poartă.",
+            "en": "Look for the Venetian lion and the Turkish head on the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Rovinj",
+            "hu": "Rovinj óratornya",
+            "ro": "Turnul cu ceas din Rovinj",
+            "en": "Rovinj Clock Tower"
+          },
+          "coords": [
+            13.6343,
+            45.0816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt am Hauptplatz mit dem Markuslöwen.",
+            "hu": "Népszerű találkozóhely a főtéren, Szent Márk oroszlánjával.",
+            "ro": "Un loc de întâlnire popular în piața principală, cu leul Sfântului Marcu.",
+            "en": "A popular meeting spot in the main square featuring the Lion of St. Mark."
+          }
+        },
+        {
+          "name": {
+            "de": "Grisia-Straße",
+            "hu": "Grisia utca",
+            "ro": "Strada Grisia",
+            "en": "Grisia Street"
+          },
+          "coords": [
+            13.632,
+            45.0825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kleinen Kunstgalerien lokaler Maler.",
+            "hu": "Látogasd meg a helyi festők kis művészeti galériáit.",
+            "ro": "Vizitați micile galerii de artă ale pictorilor locali.",
+            "en": "Visit the small art galleries of local painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Euphemia",
+            "hu": "Szent Eufémia-templom",
+            "ro": "Biserica Sfânta Eufemia",
+            "en": "Church of St. Euphemia"
+          },
+          "coords": [
+            13.6304,
+            45.0831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Klettern Sie auf den Glockenturm für den besten Blick auf Istrien.",
+            "hu": "Mássz fel a harangtoronyba Isztria legjobb kilátásáért.",
+            "ro": "Urcați în clopotniță pentru cea mai bună vedere asupra Istriei.",
+            "en": "Climb the bell tower for the best view of Istria."
+          }
+        },
+        {
+          "name": {
+            "de": "Rovinj Altstadt",
+            "hu": "Rovinj óvárosa",
+            "ro": "Orașul vechi Rovinj",
+            "en": "Rovinj Old Town"
+          },
+          "coords": [
+            13.6325,
+            45.082
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen abseits der Hauptwege.",
+            "hu": "Vessz el a szűk sikátorokban a főbb útvonalaktól távol.",
+            "ro": "Pierdeți-vă pe străduțele înguste departe de căile principale.",
+            "en": "Get lost in the narrow alleys away from the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Batana-Ökomuseum",
+            "hu": "Batana Ökomúzeum",
+            "ro": "Ecomuzeul Batana",
+            "en": "Batana Eco-museum"
+          },
+          "coords": [
+            13.6336,
+            45.0809
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lernen Sie die Geschichte der traditionellen Fischerboote kennen.",
+            "hu": "Ismerd meg a hagyományos halászhajók történetét.",
+            "ro": "Aflați istoria bărcilor tradiționale de pescuit.",
+            "en": "Learn the history of traditional fishing boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Balbi-Bogen, dem historischen Tor zur Altstadt, und schlendern Sie zum Uhrturm am belebten Hauptplatz. Steigen Sie die kunstvolle Grisia-Straße hinauf, wo lokale Künstler ihre Werke ausstellen, bis Sie die majestätische Kirche der Heiligen Euphemia auf dem Hügel erreichen. Nach der Besichtigung tauchen Sie tief in das Labyrinth der Altstadtgassen ein und entdecken verborgene Innenhöfe. Den Abschluss bildet das Batana-Museum, das die maritime Seele von Rovinj lebendig hält, bevor Sie ein spätes Mittagessen am Hafen genießen.",
+        "hu": "Kezdje a reggelt a Balbi-ívnél, az óváros történelmi kapujánál, majd sétáljon el a pezsgő főtéren álló óratoronyhoz. Menjen fel a művészi Grisia utcán, ahol helyi alkotók mutatják be műveiket, egészen a dombtetőn álló fenséges Szent Eufémia-templomig. A látogatás után merüljön el az óvárosi sikátorok labirintusában, és fedezzen fel rejtett udvarokat. A programot a Batana Múzeum zárja, amely Rovinj tengerészeti lelkét őrzi, mielőtt egy késői ebédet fogyasztana el a kikötőben.",
+        "ro": "Începeți dimineața la Arcul lui Balbi, poarta istorică a orașului vechi, și plimbați-vă până la Turnul cu Ceas din piața principală plină de viață. Urcați pe strada artistică Grisia, unde artiștii locali își expun lucrările, până când ajungeți la maiestuoasa Biserică Sfânta Eufemia de pe deal. După vizită, scufundați-vă în labirintul străduțelor din orașul vechi și descoperiți curți ascunse. Turul se încheie la Muzeul Batana, care păstrează vie sufletul maritim al orașului Rovinj, înainte de un prânz târziu în port.",
+        "en": "Start your morning at Balbi's Arch, the historic gateway to the old town, and stroll to the Clock Tower in the bustling main square. Climb the artistic Grisia Street, where local creators display their works, until you reach the majestic Church of St. Euphemia on the hill. After the visit, dive deep into the labyrinth of old town alleys and discover hidden courtyards. The tour concludes at the Batana Museum, which keeps Rovinj's maritime soul alive, before enjoying a late lunch at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brodetto",
+            "tip": "Traditioneller Fischeintopf, probieren Sie ihn bei 'Santa Croce'."
+          },
+          {
+            "name": "Schwarzes Risotto",
+            "tip": "Mit Tintenfisch zubereitet, exzellent im 'Balbi'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brodetto",
+            "tip": "Hagyományos halragu, kóstold meg a 'Santa Croce' étteremben."
+          },
+          {
+            "name": "Fekete rizottó",
+            "tip": "Tintahallal készül, kiváló a 'Balbi' vendéglőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brodetto",
+            "tip": "Tocană tradițională de pește, încercați-o la 'Santa Croce'."
+          },
+          {
+            "name": "Risotto negru",
+            "tip": "Preparat cu cerneală de sepie, excelent la 'Balbi'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brodetto",
+            "tip": "Traditional fish stew, try it at 'Santa Croce'."
+          },
+          {
+            "name": "Black Risotto",
+            "tip": "Made with cuttlefish ink, excellent at 'Balbi'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz-Aussicht",
+            "tip": "Panoramablick auf die Adria hinter der Kirche.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Verborgene Felsen",
+            "tip": "Kleine Badeplätze unter den Stadtmauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom téri kilátó",
+            "tip": "Panoráma az Adriára a templom mögül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sziklák",
+            "tip": "Kis fürdőhelyek a városfalak alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din piața bisericii",
+            "tip": "Panoramă asupra Adriaticii din spatele bisericii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stânci ascunse",
+            "tip": "Mici locuri de scăldat sub zidurile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square Viewpoint",
+            "tip": "Panoramic view of the Adriatic behind the church.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Rocks",
+            "tip": "Small bathing spots tucked under the city walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffelprodukte",
+            "tip": "Istrische Trüffel in den Feinkostläden der Grisia-Straße."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Frisch gepresstes Öl vom lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba termékek",
+            "tip": "Isztriai szarvasgomba a Grisia utca csemegeboltjaiban."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Frissen sajtolt olaj a helyi piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu trufe",
+            "tip": "Trufe istriene în magazinele de delicatese de pe strada Grisia."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei proaspăt presat de la piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Products",
+            "tip": "Istrian truffles in the gourmet shops of Grisia Street."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Freshly pressed oil from the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Pflaster ist oft glatt.",
+          "Die Altstadt ist komplett autofrei.",
+          "Frühmorgens ist das Licht für Fotos an der Grisia am besten.",
+          "Buchen Sie Restaurants im Voraus, besonders im Sommer."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a macskakő gyakran csúszós.",
+          "Az óváros teljesen autómentes övezet.",
+          "Kora reggel a legjobb a fény a Grisia utcai fotózáshoz.",
+          "Foglalj asztalt előre, különösen a nyári szezonban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavajul este adesea alunecos.",
+          "Orașul vechi este complet pietonal.",
+          "Dimineața devreme lumina este cea mai bună pentru fotografii pe Grisia.",
+          "Rezervați restaurantele în avans, mai ales vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be slippery.",
+          "The old town is a completely car-free zone.",
+          "Early morning light is best for photos on Grisia Street.",
+          "Book restaurants in advance, especially during the summer season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 8.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Rovinj Altstadt",
+            "hu": "Rovinj óvárosa",
+            "ro": "Orașul vechi Rovinj",
+            "en": "Rovinj Old Town"
+          },
+          "coords": [
+            13.6325,
+            45.082
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hafen, bevor Sie Richtung Süden radeln.",
+            "hu": "Kezdd a kikötőnél, mielőtt dél felé tekernél.",
+            "ro": "Începeți în port înainte de a pedala spre sud.",
+            "en": "Start at the harbor before cycling south."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.642,
+            45.0835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort mit einer beeindruckenden Bibliothek.",
+            "hu": "Csendes hely lenyűgöző könyvtárral.",
+            "ro": "Un loc liniștit cu o bibliotecă impresionantă.",
+            "en": "A quiet spot with an impressive library."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldenes Kap (Zlatni rt)",
+            "hu": "Aranyfok (Zlatni rt)",
+            "ro": "Capul de Aur (Zlatni rt)",
+            "en": "Golden Cape (Zlatni rt)"
+          },
+          "coords": [
+            13.638,
+            45.065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie unter jahrhundertealten Zedern und Pinien.",
+            "hu": "Bringázz évszázados cédrusok és fenyők alatt.",
+            "ro": "Pedalați sub cedri și pini seculari.",
+            "en": "Cycle under centuries-old cedars and pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Lone Bay",
+            "hu": "Lone-öböl",
+            "ro": "Golful Lone",
+            "en": "Lone Bay"
+          },
+          "coords": [
+            13.639,
+            45.07
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine erfrischende Badepause.",
+            "hu": "Ideális egy frissítő fürdőzésre.",
+            "ro": "Ideal pentru o pauză de înot revigorantă.",
+            "en": "Ideal for a refreshing swimming break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Rovinj auf zwei Rädern, beginnend am Rand der Altstadt. Nach einem kurzen Besuch im ruhigen Franziskanerkloster führt der Weg nach Süden zum Waldpark Goldenes Kap. Hier genießen Sie schattige Wege entlang der Adria, umgeben von exotischen Pflanzen. Machen Sie eine längere Pause in der Lone-Bucht für ein Bad im kristallklaren Wasser, bevor Sie entlang der Promenade zurück in die Stadt radeln, wo Sie den Tag mit Meeresfrüchten ausklingen lassen.",
+        "hu": "Fedezze fel Rovinj partvonalát két keréken, az óváros szélétől indulva. A csendes ferences kolostor rövid meglátogatása után az út délre, az Aranyfok parkerdőbe vezet. Itt árnyas ösvényeken tekerhet az Adria mentén, egzotikus növényekkel körülvéve. Tartson hosszabb szünetet a Lone-öbölben egy fürdőzésre a kristálytiszta vízben, majd a sétány mentén tekerjen vissza a városba, ahol a napot tengeri ételekkel zárhatja.",
+        "ro": "Explorați coasta orașului Rovinj pe două roți, pornind de la marginea orașului vechi. După o scurtă vizită la liniștita mănăstire franciscană, drumul duce spre sud, către parcul forestier Capul de Aur. Aici vă veți bucura de poteci umbrite de-a lungul Adriaticii, înconjurați de plante exotice. Faceți o pauză mai lungă în golful Lone pentru o baie în apa cristalină, apoi pedalați înapoi spre oraș de-a lungul falezii, unde puteți încheia ziua cu fructe de mare.",
+        "en": "Explore the Rovinj coastline on two wheels, starting from the edge of the old town. After a brief visit to the tranquil Franciscan Monastery, the path leads south to the Golden Cape forest park. Here, you'll enjoy shaded trails along the Adriatic, surrounded by exotic plants. Take a long break at Lone Bay for a swim in the crystal-clear water, then cycle back to town along the promenade, where you can end the day with some local seafood."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Calamari",
+            "tip": "Frisch gefangen, probieren Sie 'Badi'."
+          },
+          {
+            "name": "Istrischer Schinken",
+            "tip": "Pršut mit lokalem Käse serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett tintahal",
+            "tip": "Frissen fogott, kóstold meg a 'Badi' étteremben."
+          },
+          {
+            "name": "Isztriai sonka",
+            "tip": "Pršut helyi sajttal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamari la grătar",
+            "tip": "Proaspăt prinși, încercați la 'Badi'."
+          },
+          {
+            "name": "Șuncă istriană",
+            "tip": "Pršut servit cu brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Calamari",
+            "tip": "Freshly caught, try them at 'Badi'."
+          },
+          {
+            "name": "Istrian Ham",
+            "tip": "Pršut served with local cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Steinbruch am Goldenen Kap",
+            "tip": "Einzigartige Kulisse für eine Meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zlatni rt Küstenweg",
+            "tip": "Meeresrauschen fernab der Massen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aranyfok kőfejtő",
+            "tip": "Egyedülálló környezet egy meditációhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zlatni rt parti út",
+            "tip": "Hullámzás a tömegtől távol.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cariera de la Capul de Aur",
+            "tip": "Cadru unic pentru o meditație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul de coastă Zlatni rt",
+            "tip": "Sunetul mării departe de mulțime.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Golden Cape Quarry",
+            "tip": "A unique setting for meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zlatni rt Coastal Path",
+            "tip": "Sound of the waves away from the crowds.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Duftende Souvenirs aus istrischem Anbau."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "In den kleinen Ateliers der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula tasakok",
+            "tip": "Illatos emléktárgyak isztriai termesztésből."
+          },
+          {
+            "name": "Kézműves ékszerek",
+            "tip": "Az óváros kis műhelyeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Suveniruri parfumate din producția istriană."
+          },
+          {
+            "name": "Bijuterii handmade",
+            "tip": "În micile ateliere din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Sachets",
+            "tip": "Fragrant souvenirs from local Istrian farms."
+          },
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Found in the small ateliers of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Mountainbikes für die Waldwege am Goldenen Kap.",
+          "Nehmen Sie ausreichend Wasser mit, Trinkbrunnen sind selten.",
+          "Die Küstenwege sind meist flach und auch für Gelegenheitsfahrer geeignet.",
+          "Achten Sie in der Altstadt auf Fußgänger, dort muss oft geschoben werden."
+        ],
+        "hu": [
+          "Bérelj hegyikerékpárt az Aranyfok erdei útjaihoz.",
+          "Vigyél magaddal elegendő vizet, az ivókutak ritkák.",
+          "A parti utak többnyire síkok, alkalmi kerékpárosoknak is megfelelnek.",
+          "Az óvárosban ügyelj a gyalogosokra, ott gyakran tolni kell a bringát."
+        ],
+        "ro": [
+          "Închiriați mountain bike-uri pentru potecile din pădurea Capului de Aur.",
+          "Luați suficientă apă, cișmelele sunt rare.",
+          "Drumurile de coastă sunt în mare parte plate și potrivite pentru cicliștii ocazionali.",
+          "Fiți atenți la pietoni în orașul vechi, unde adesea trebuie să mergeți pe lângă bicicletă."
+        ],
+        "en": [
+          "Rent mountain bikes for the forest trails at the Golden Cape.",
+          "Bring plenty of water as drinking fountains are rare.",
+          "The coastal paths are mostly flat and suitable for casual riders.",
+          "Be mindful of pedestrians in the old town, where you often need to push your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Rovinj Altstadt Parkplatz",
+            "hu": "Rovinj óvárosi parkoló",
+            "ro": "Parcare orașul vechi Rovinj",
+            "en": "Rovinj Old Town Parking"
+          },
+          "coords": [
+            13.638,
+            45.084
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Valdibora-Parkplatz für schnellen Zugang zur Stadt.",
+            "hu": "Használd a Valdibora parkolót a gyors bejutáshoz.",
+            "ro": "Folosiți parcarea Valdibora pentru acces rapid în oraș.",
+            "en": "Use Valdibora parking for quick access to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Euphemia",
+            "hu": "Szent Eufémia-templom",
+            "ro": "Biserica Sfânta Eufemia",
+            "en": "Church of St. Euphemia"
+          },
+          "coords": [
+            13.6304,
+            45.0831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb und gehen Sie das letzte Stück zu Fuß.",
+            "hu": "Parkolj kívül, és az utolsó szakaszt tedd meg gyalog.",
+            "ro": "Parcați în exterior și mergeți pe jos ultima porțiune.",
+            "en": "Park outside and walk the last stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldenes Kap (Zlatni rt)",
+            "hu": "Aranyfok (Zlatni rt)",
+            "ro": "Capul de Aur (Zlatni rt)",
+            "en": "Golden Cape (Zlatni rt)"
+          },
+          "coords": [
+            13.638,
+            45.065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze am Eingang des Waldparks.",
+            "hu": "A parkerdő bejáratánál vannak parkolóhelyek.",
+            "ro": "Există locuri de parcare la intrarea în parcul forestier.",
+            "en": "There are parking spaces at the entrance of the forest park."
+          }
+        },
+        {
+          "name": {
+            "de": "Lim Fjord (Aussichtspunkt)",
+            "hu": "Lim-fjord (kilátó)",
+            "ro": "Canalul Lim (punct de belvedere)",
+            "en": "Lim Fjord (Viewpoint)"
+          },
+          "coords": [
+            13.73,
+            45.13
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Austern direkt am Fjord.",
+            "hu": "Élvezd a friss osztrigát közvetlenül a fjordnál.",
+            "ro": "Savurați scoici proaspete direct la canal.",
+            "en": "Enjoy fresh oysters right by the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Auto bietet Ihnen die Flexibilität, sowohl die Highlights von Rovinj als auch die nähere Umgebung zu erkunden. Beginnen Sie mit einem Spaziergang durch die Altstadt zur Kirche der Heiligen Euphemia. Nach dem Mittagessen fahren Sie zum Goldenen Kap für eine entspannte Zeit im Pinienwald. Der krönende Abschluss ist eine kurze Fahrt zum beeindruckenden Lim-Fjord, einem naturgeschützten Meeresarm, wo Sie lokale Spezialitäten wie Muscheln und Austern direkt am Wasser probieren können.",
+        "hu": "Az autó rugalmasságot biztosít Rovinj és a környék felfedezéséhez. Kezdjen egy sétával az óvárosban a Szent Eufémia-templomig. Ebéd után hajtson el az Aranyfokhoz egy kis kikapcsolódásra a fenyőerdőben. A napot a lenyűgöző Lim-fjord meglátogatásával zárhatja, amely egy természetvédelmi terület, ahol friss kagylókat és osztrigákat kóstolhat közvetlenül a vízparton.",
+        "ro": "Mașina vă oferă flexibilitatea de a explora atât punctele forte ale orașului Rovinj, cât și împrejurimile. Începeți cu o plimbare prin orașul vechi până la Biserica Sfânta Eufemia. După prânz, conduceți spre Capul de Aur pentru un timp relaxant în pădurea de pini. Finalul perfect este o scurtă călătorie până la impresionantul Canal Lim, un braț de mare protejat, unde puteți gusta specialități locale precum scoici și stridii chiar pe malul apei.",
+        "en": "A car gives you the flexibility to explore both Rovinj's highlights and the nearby surroundings. Start with a walk through the old town to the Church of St. Euphemia. After lunch, drive to the Golden Cape for some relaxed time in the pine forest. The highlight is a short trip to the impressive Lim Fjord, a protected marine inlet, where you can taste local specialties like mussels and oysters right by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Austern vom Lim-Fjord",
+            "tip": "Probieren Sie sie direkt an den Zuchtstationen."
+          },
+          {
+            "name": "Fuži mit Trüffeln",
+            "tip": "Typische istrische Nudeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim-fjord osztriga",
+            "tip": "Kóstold meg közvetlenül a tenyésztőhelyeknél."
+          },
+          {
+            "name": "Fuži szarvasgombával",
+            "tip": "Tipikus isztriai tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii din Canalul Lim",
+            "tip": "Încercați-le direct la stațiile de epurare."
+          },
+          {
+            "name": "Fuži cu trufe",
+            "tip": "Paste tipice istriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lim Fjord Oysters",
+            "tip": "Try them fresh at the oyster farms."
+          },
+          {
+            "name": "Fuži with Truffles",
+            "tip": "Typical Istrian pasta dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lim-Kanal Aussicht",
+            "tip": "Ruhiger Blick über den Fjord vom Hügel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insel Katarina",
+            "tip": "Kurze Bootsfahrt für totale Stille.",
+            "emoji": "🏝️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim-csatorna kilátó",
+            "tip": "Csendes kilátás a fjordra a dombról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Katalin-sziget",
+            "tip": "Rövid hajóút a teljes nyugalomért.",
+            "emoji": "🏝️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Canalul Lim",
+            "tip": "Vedere liniștită peste canal de pe deal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula Sfânta Ecaterina",
+            "tip": "Scurtă călătorie cu barca pentru liniște totală.",
+            "emoji": "🏝️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lim Channel Viewpoint",
+            "tip": "Quiet view over the fjord from the hill.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Catherine Island",
+            "tip": "Short boat trip for total silence.",
+            "emoji": "🏝️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Verkauft an Ständen entlang der Straßen nach Rovinj."
+          },
+          {
+            "name": "Istrische Weine",
+            "tip": "Malvazija oder Teran direkt vom Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Az utak menti árusoknál Rovinj felé."
+          },
+          {
+            "name": "Isztriai borok",
+            "tip": "Malvazija vagy Teran közvetlenül a borásztól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Vândută la tarabe de-a lungul drumurilor spre Rovinj."
+          },
+          {
+            "name": "Vinuri istriene",
+            "tip": "Malvazija sau Teran direct de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Sold at stalls along the roads to Rovinj."
+          },
+          {
+            "name": "Istrian Wines",
+            "tip": "Malvazija or Teran directly from the winemaker."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in Tornähe sind teuer, nutzen Sie P+R Parkplätze.",
+          "Die Küstenstraße zum Lim-Fjord ist landschaftlich sehr reizvoll.",
+          "Meiden Sie die Hauptverkehrszeiten am Wochenende.",
+          "In Rovinj ist fast alles fußläufig, das Auto dient eher für Ausflüge."
+        ],
+        "hu": [
+          "A városközpont közeli parkolók drágák, használd a P+R zónákat.",
+          "A Lim-fjordhoz vezető part menti út nagyon látványos.",
+          "Kerüld a hétvégi csúcsforgalmat.",
+          "Rovinjon belül szinte minden elérhető gyalog, az autó kirándulásokhoz kell."
+        ],
+        "ro": [
+          "Parcările de lângă oraș sunt scumpe, folosiți zonele P+R.",
+          "Drumul de coastă către Canalul Lim este foarte pitoresc.",
+          "Evitați orele de vârf din weekend.",
+          "În Rovinj aproape totul este accesibil pe jos, mașina servește mai mult pentru excursii."
+        ],
+        "en": [
+          "Parking near the old town is expensive; use P+R spots instead.",
+          "The coastal road to Lim Fjord is highly scenic.",
+          "Avoid weekend peak traffic hours.",
+          "Within Rovinj, almost everything is walkable; the car is best for excursions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Rovinj",
+            "hu": "Rovinj autóbusz-állomás",
+            "ro": "Autogara Rovinj",
+            "en": "Rovinj Bus Station"
+          },
+          "coords": [
+            13.6395,
+            45.0805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt, nur wenige Minuten vom Hafen entfernt.",
+            "hu": "Központi érkezési pont, pár percre a kikötőtől.",
+            "ro": "Punct central de sosire, la doar câteva minute de port.",
+            "en": "Central arrival point, just minutes from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Rovinj",
+            "hu": "Rovinj óratornya",
+            "ro": "Turnul cu ceas din Rovinj",
+            "en": "Rovinj Clock Tower"
+          },
+          "coords": [
+            13.6343,
+            45.0816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist vom Busbahnhof leicht zu Fuß erreichbar.",
+            "hu": "A város szíve könnyen elérhető gyalog a buszállomástól.",
+            "ro": "Inima orașului este ușor accesibilă pe jos de la autogară.",
+            "en": "The heart of the city is an easy walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Euphemia",
+            "hu": "Szent Eufémia-templom",
+            "ro": "Biserica Sfânta Eufemia",
+            "en": "Church of St. Euphemia"
+          },
+          "coords": [
+            13.6304,
+            45.0831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Vom Hauptplatz führt ein schöner Aufstieg durch die Altstadt.",
+            "hu": "A főtértől szép séta vezet fel az óvároson keresztül.",
+            "ro": "Din piața principală, o urcare frumoasă trece prin orașul vechi.",
+            "en": "A beautiful climb from the main square leads through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Batana-Ökomuseum",
+            "hu": "Batana Ökomúzeum",
+            "ro": "Ecomuzeul Batana",
+            "en": "Batana Eco-museum"
+          },
+          "coords": [
+            13.6336,
+            45.0809
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt an der Hafenpromenade gelegen.",
+            "hu": "Közvetlenül a kikötői sétányon található.",
+            "ro": "Situat direct pe faleza portului.",
+            "en": "Located right on the harbor promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            13.642,
+            45.0835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang vor der Rückreise mit dem Bus.",
+            "hu": "Csendes levezetés a buszos visszautazás előtt.",
+            "ro": "Un final liniștit înainte de călătoria de întoarcere cu autobuzul.",
+            "en": "A quiet finish before your return bus trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wenn Sie mit öffentlichen Verkehrsmitteln anreisen, ist der zentrale Busbahnhof Ihr idealer Ausgangspunkt. Von dort sind es nur wenige Gehminuten zum Hauptplatz mit dem markanten Uhrturm. Erklimmen Sie die Hügelkuppe zur Kirche der Heiligen Euphemia und genießen Sie die Aussicht. Nach dem Abstieg bietet das Batana-Museum Einblicke in die lokale Kultur. Den Tag beenden Sie im ruhigen Franziskanerkloster, das einen friedlichen Kontrast zum belebten Hafen darstellt, bevor Sie Ihren Bus zurück nehmen.",
+        "hu": "Ha tömegközlekedéssel érkezik, a központi buszállomás az ideális kiindulópont. Innen csak pár perc séta a főtér a jellegzetes óratoronnyal. Másszon fel a dombtetőre a Szent Eufémia-templomhoz, és élvezze a kilátást. A leereszkedés után a Batana Múzeum nyújt betekintést a helyi kultúrába. A napot a csendes ferences kolostorban zárhatja, amely békés kontrasztot nyújt a nyüzsgő kikötővel, mielőtt visszaszállna a buszra.",
+        "ro": "Dacă sosiți cu transportul public, autogara centrală este punctul ideal de plecare. De acolo, sunt doar câteva minute de mers pe jos până în piața principală cu emblematicul turn cu ceas. Urcați pe vârful dealului la Biserica Sfânta Eufemia și bucurați-vă de priveliște. După coborâre, Muzeul Batana oferă o perspectivă asupra culturii locale. Încheiați ziua la liniștita mănăstire franciscană, care oferă un contrast pașnic cu portul plin de viață, înainte de a lua autobuzul înapoi.",
+        "en": "If you arrive by public transport, the central bus station is your ideal starting point. From there, it's just a few minutes' walk to the main square with its distinctive Clock Tower. Climb the hill to the Church of St. Euphemia and enjoy the view. After descending, the Batana Museum provides insight into local culture. End your day at the quiet Franciscan Monastery, which offers a peaceful contrast to the lively harbor, before catching your bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrische Pasta",
+            "tip": "Probieren Sie Pljukanci in einer der Konobas."
+          },
+          {
+            "name": "Lokaler Fisch",
+            "tip": "Gebackene Sardinen sind ein günstiger Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai tészta",
+            "tip": "Kóstold meg a Pljukancit valamelyik konobában."
+          },
+          {
+            "name": "Helyi hal",
+            "tip": "A sült szardínia pénztárcabarát finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste istriene",
+            "tip": "Încercați Pljukanci într-una dintre konoba."
+          },
+          {
+            "name": "Pește local",
+            "tip": "Sardinele la cuptor sunt un deliciu accesibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Pasta",
+            "tip": "Try Pljukanci in one of the local konobas."
+          },
+          {
+            "name": "Local Fish",
+            "tip": "Baked sardines are an affordable treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhof-Gärten",
+            "tip": "In den Seitengassen der Altstadt versteckt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchen-Park",
+            "tip": "Schattige Bänke rund um St. Euphemia.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belső udvari kertek",
+            "tip": "Az óváros mellékutcáiban elrejtve.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templom-park",
+            "tip": "Árnyas padok a Szent Eufémia körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădini interioare",
+            "tip": "Ascunse pe străduțele lăturalnice ale orașului vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Bisericii",
+            "tip": "Bănci umbrite în jurul Sfântei Eufemia.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Backyard Gardens",
+            "tip": "Hidden in the side alleys of the old town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church Park",
+            "tip": "Shaded benches around St. Euphemia.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenholz-Produkte",
+            "tip": "Handgefertigte Löffel und Schalen."
+          },
+          {
+            "name": "Istrianische Gewürze",
+            "tip": "Meersalz mit Rosmarin gemischt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívafa termékek",
+            "tip": "Kézzel készített kanalak és tálak."
+          },
+          {
+            "name": "Isztriai fűszerek",
+            "tip": "Tengeri só rozmaringgal keverve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lemn de măslin",
+            "tip": "Linguri și boluri lucrate manual."
+          },
+          {
+            "name": "Condimente istriene",
+            "tip": "Sare de mare amestecată cu rozmarin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Wood Products",
+            "tip": "Handmade spoons and bowls."
+          },
+          {
+            "name": "Istrian Spices",
+            "tip": "Sea salt mixed with rosemary."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse nach Poreč oder Pula verkehren regelmäßig.",
+          "Kaufen Sie Tickets am Schalter, um einen Sitzplatz zu garantieren.",
+          "Fast alle Sehenswürdigkeiten sind vom Bahnhof aus zu Fuß erreichbar.",
+          "Rovinj hat kein internes Stadtbussystem, da es klein ist."
+        ],
+        "hu": [
+          "Porečbe és Pulába rendszeresen járnak a buszok.",
+          "Vegyél jegyet a pénztárnál, hogy garantált helyed legyen.",
+          "Szinte minden látnivaló elérhető gyalog az állomástól.",
+          "Rovinjnak nincs belső buszhálózata, mert kicsi a város."
+        ],
+        "ro": [
+          "Autobuzele către Poreč sau Pula circulă regulat.",
+          "Cumpărați bilete de la ghișeu pentru a garanta un loc.",
+          "Aproape toate obiectivele sunt accesibile pe jos de la autogară.",
+          "Rovinj nu are un sistem de transport intern, fiind un oraș mic."
+        ],
+        "en": [
+          "Buses to Poreč or Pula run regularly.",
+          "Buy tickets at the counter to guarantee a seat.",
+          "Almost all sights are reachable on foot from the station.",
+          "Rovinj doesn't have an internal bus network as it's small."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": null,
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.rovinj-tourism.com/en/calendar-of-events",
+    "tourism_office": "https://www.rovinj-tourism.com/",
+    "webcam": "https://www.whatsupcams.com/en/webcams/croatia/istria/rovinj/rovinj-panorama-city/",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.getyourguide.com/rovinj-l1299/",
+    "parking_real_time": "https://www.rovinj-tourism.com/en/plan-your-journey/parking-in-rovinj/price-list-of-city-parking-lots",
+    "language_tips": {
+      "de": "Drei nuetzliche kroatische Woerter: Bok (bok, hallo), Hvala (chwa-la, danke), Racun molim (ra-tschun mo-lim, die Rechnung bitte). In Rovinj wird auch Italienisch gesprochen.",
+      "hu": "Harom hasznos horvat szo: Bok (bok, szia), Hvala (hvala, koszonom), Racun molim (racsun molim, a szamlat kerem). Rovinjban olaszul is beszelnek.",
+      "ro": "Trei cuvinte utile in croata: Bok (bok, salut), Hvala (hvala, multumesc), Racun molim (raciun molim, nota va rog). La Rovinj se vorbeste si italiana.",
+      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please). Italian is also widely spoken in Rovinj."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind am besten (angenehm warm, weniger Italiener am Wochenende). August vermeiden, dann ist Rovinj komplett ausgebucht.",
+      "hu": "Majus, junius es szeptember a legjobb (kellemes meleg, kevesebb olasz hetvegen). Augusztus kerulendo, Rovinj ekkor teljesen telt.",
+      "ro": "Mai, iunie si septembrie sunt cele mai bune (cald placut, mai putini italieni in weekend). Evitati august, Rovinj e complet rezervat.",
+      "en": "May, June and September are best (pleasantly warm, fewer Italian weekend crowds). Avoid August when Rovinj is fully booked out."
+    },
+    "neighborhood_warnings": {
+      "de": "Rovinj ist sehr sicher, aber in der engen Altstadt rund um St. Euphemia auf Taschen achten. Steile kopfsteingepflasterte Gassen sind rutschig im Regen.",
+      "hu": "Rovinj nagyon biztonsagos, de a szuk obvarosi sikatorokban Szent Eufemia korul figyelj a taskadra. A meredek macskakoves utcak esoben csuszosak.",
+      "ro": "Rovinj e foarte sigur, dar in stradutele inguste din jurul Sf. Eufemia atentie la genti. Stradutele abrupte pavate sunt alunecoase pe ploaie.",
+      "en": "Rovinj is very safe but watch your bag in the narrow old town alleys around St. Euphemia. Steep cobbled lanes are slippery when wet."
+    }
+  }
+}

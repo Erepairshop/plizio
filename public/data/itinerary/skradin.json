@@ -1,0 +1,1027 @@
+{
+  "city_id": "skradin",
+  "anchor": {
+    "name": "Skradin",
+    "coords": [
+      43.8203,
+      15.9217
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz Trg Male Gospe",
+            "hu": "Trg Male Gospe főtér",
+            "ro": "Piața Trg Male Gospe",
+            "en": "Main Square Trg Male Gospe"
+          },
+          "coords": [
+            43.8203,
+            15.9217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Kaffee trinken und das lokale Leben beobachten.",
+            "hu": "Igyon egy kávét és figyelje a helyi életet.",
+            "ro": "Beți o cafea și observați viața locală.",
+            "en": "Have a coffee and watch the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Kisboldogasszony-templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            43.8198,
+            15.9211
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie den markanten Glockenturm.",
+            "hu": "Csodálja meg a jellegzetes harangtornyot.",
+            "ro": "Admirați clopotnița distinctivă.",
+            "en": "Admire the distinctive bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Turina",
+            "hu": "Turina-erőd",
+            "ro": "Cetatea Turina",
+            "en": "Turina Fortress"
+          },
+          "coords": [
+            43.8215,
+            15.9225
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Bester Panoramablick auf die Stadt und den Fluss.",
+            "hu": "A legjobb panoráma a városra és a folyóra.",
+            "ro": "Cea mai bună vedere panoramică asupra orașului și râului.",
+            "en": "Best panoramic view of the town and river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Scardona Park",
+            "hu": "Scardona Park Múzeum",
+            "ro": "Muzeul Scardona Park",
+            "en": "Museum Scardona Park"
+          },
+          "coords": [
+            43.8185,
+            15.9205
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Erfahren Sie mehr über die antike Geschichte von Scardona.",
+            "hu": "Ismerje meg Scardona ókori történelmét.",
+            "ro": "Aflați despre istoria antică a orașului Scardona.",
+            "en": "Learn about the ancient history of Scardona."
+          }
+        },
+        {
+          "name": {
+            "de": "Skradin Marina",
+            "hu": "Skradini kikötő",
+            "ro": "Marina Skradin",
+            "en": "Skradin Marina"
+          },
+          "coords": [
+            43.818,
+            15.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Spazieren Sie entlang der luxuriösen Yachten.",
+            "hu": "Sétáljon a luxusjachtok mentén.",
+            "ro": "Plimbați-vă pe lângă iahturile de lux.",
+            "en": "Stroll along the luxury yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Krka Eingang",
+            "hu": "Krka Nemzeti Park bejárat",
+            "ro": "Intrarea în Parcul Național Krka",
+            "en": "Krka National Park Entrance"
+          },
+          "coords": [
+            43.817,
+            15.923
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Kaufen Sie hier Ihre Tickets für die Bootsfahrt.",
+            "hu": "Itt válthat jegyet a hajóútra.",
+            "ro": "Cumpărați bilete pentru plimbarea cu barca aici.",
+            "en": "Buy your tickets for the boat ride here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Skradin auf dem malerischen Hauptplatz. Besuchen Sie die barocke Kirche Mariä Geburt, bevor Sie zur Festung Turina aufsteigen, um einen atemberaubenden Blick auf den Fluss Krka zu genießen. Am Mittag erkunden Sie die römischen Wurzeln im Scardona Park Museum. Der Nachmittag gehört der Marina und dem Eingang zum Nationalpark, wo Sie die Weiterreise zu den Wasserfällen planen können. Den Abend lassen Sie bei einem traditionellen Risotto in einer der Gassen ausklingen.",
+        "hu": "Kezdje a napot Skradin történelmi központjában, a festői főtéren. Látogassa meg a barokk Kisboldogasszony-templomot, majd kapaszkodjon fel a Turina-erődbe a Krka-folyóra nyíló lélegzetelállító kilátásért. Délben fedezze fel a római gyökereket a Scardona Park Múzeumban. A délután a kikötőé és a nemzeti park bejáratáé, ahol megtervezheti továbbutazását a vízesésekhez. Az estét zárja egy hagyományos rizottóval a szűk utcák egyikében.",
+        "ro": "Începeți ziua în centrul istoric al orașului Skradin, în piața principală pitorească. Vizitați biserica barocă Nașterea Maicii Domnului înainte de a urca la cetatea Turina pentru o vedere uluitoare asupra râului Krka. La prânz, explorați rădăcinile romane la Muzeul Scardona Park. După-amiaza este dedicată marinei și intrării în parcul național, unde puteți planifica continuarea călătoriei spre cascade. Încheiați seara cu un risotto tradițional într-una dintre străduțele înguste.",
+        "en": "Start your day in the historical center of Skradin at the picturesque main square. Visit the Baroque Church of the Nativity before climbing up to Turina Fortress for a breathtaking view of the Krka River. At midday, explore the Roman roots at the Scardona Park Museum. The afternoon is dedicated to the marina and the national park entrance, where you can plan your further trip to the waterfalls. Finish the evening with a traditional risotto in one of the narrow alleys."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skradinski rižot",
+            "tip": "Ein langsam gekochtes Kalbfleisch-Risotto, eine lokale Legende."
+          },
+          {
+            "name": "Skradinska torta",
+            "tip": "Nusskuchen mit Schokolade und Orangenaroma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skradinski rižot",
+            "tip": "Lassan főzött borjúhúsos rizottó, helyi legenda."
+          },
+          {
+            "name": "Skradini torta",
+            "tip": "Diós-mandulás sütemény csokoládéval és narancshéjjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skradinski rižot",
+            "tip": "Un risotto de vițel gătit lent, o legendă locală."
+          },
+          {
+            "name": "Skradinska torta",
+            "tip": "Tort de nuci cu ciocolată și aromă de portocale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skradin Risotto",
+            "tip": "Slow-cooked veal risotto, a local legend."
+          },
+          {
+            "name": "Skradin Cake",
+            "tip": "Nut-based cake with chocolate and orange aroma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Turina",
+            "tip": "Ideal für den Sonnenuntergang über dem Krka-Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turina-erőd",
+            "tip": "Ideális naplementéhez a Krka-völgy felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Turina",
+            "tip": "Ideal pentru apusul de soare peste valea Krka.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Turina Fortress",
+            "tip": "Ideal for sunset over the Krka valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Spezialitäten aus dem Hinterland von Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Dalát hátországából származó különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Specialități din hinterlandul dalmațian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Specialties from the Dalmatian hinterland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Festung.",
+          "Buchen Sie die NP-Bootsfahrt frühzeitig.",
+          "Parken Sie außerhalb des Zentrums, da die Gassen sehr eng sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az erődbe való felkapaszkodáshoz.",
+          "Foglalja le időben a hajójegyet.",
+          "Parkoljon a központon kívül, mert az utcák nagyon szűkek."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru urcarea la cetate.",
+          "Rezervați plimbarea cu barca din timp.",
+          "Parcați în afara centrului, deoarece străzile sunt foarte înguste."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the fortress.",
+          "Book the NP boat ride early.",
+          "Park outside the center as the streets are very narrow."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Skradin Marina",
+            "hu": "Skradini kikötő",
+            "ro": "Marina Skradin",
+            "en": "Skradin Marina"
+          },
+          "coords": [
+            43.818,
+            15.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Startpunkt für die Radtour entlang des Flusses.",
+            "hu": "A folyó menti kerékpártúra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul cu bicicleta de-a lungul râului.",
+            "en": "Starting point for the bike tour along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Skradinski Buk Wasserfall",
+            "hu": "Skradinski Buk vízesés",
+            "ro": "Cascada Skradinski Buk",
+            "en": "Skradinski Buk Waterfall"
+          },
+          "coords": [
+            43.805,
+            15.94
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Der Radweg führt direkt von Skradin zum Wasserfall.",
+            "hu": "A kerékpárút közvetlenül Skradinból vezet a vízeséshez.",
+            "ro": "Traseul de biciclete duce direct de la Skradin la cascadă.",
+            "en": "The bike path leads directly from Skradin to the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Krka-Brücke",
+            "hu": "Krka-híd",
+            "ro": "Podul Krka",
+            "en": "Krka Bridge"
+          },
+          "coords": [
+            43.815,
+            15.91
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Toller Blick auf die Autobahnbrücke und den Canyon.",
+            "hu": "Remek kilátás az autópályahídra és a kanyonra.",
+            "ro": "Vedere minunată spre podul autostrăzii și canion.",
+            "en": "Great view of the highway bridge and the canyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz Trg Male Gospe",
+            "hu": "Trg Male Gospe főtér",
+            "ro": "Piața Trg Male Gospe",
+            "en": "Main Square Trg Male Gospe"
+          },
+          "coords": [
+            43.8203,
+            15.9217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_4lang": {
+            "de": "Kurze Pause im Zentrum.",
+            "hu": "Rövid pihenő a központban.",
+            "ro": "Scurtă pauză în centru.",
+            "en": "Short break in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Turina",
+            "hu": "Turina-erőd",
+            "ro": "Cetatea Turina",
+            "en": "Turina Fortress"
+          },
+          "coords": [
+            43.8215,
+            15.9225
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Herausfordernder Anstieg mit dem Rad.",
+            "hu": "Kihívást jelentő emelkedő kerékpárral.",
+            "ro": "Urcare provocatoare cu bicicleta.",
+            "en": "Challenging climb with the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Fahrrad, um die natürliche Schönheit rund um Skradin zu erkunden. Die Strecke zum Skradinski Buk ist flach und führt malerisch am Ufer entlang. Nach der Erfrischung an den Wasserfällen radeln Sie zurück und besuchen den Aussichtspunkt an der Krka-Brücke. Den Abschluss bildet der historische Kern mit der Turina-Festung.",
+        "hu": "Használja a kerékpárt a Skradin környéki természeti szépségek felfedezéséhez. A Skradinski Bukhoz vezető út sík és festői a folyópart mentén. A vízeséseknél tett felfrissülés után tekerjen vissza, és látogassa meg a Krka-híd kilátópontját. A napot a történelmi mag és a Turina-erőd zárja.",
+        "ro": "Folosiți bicicleta pentru a explora frumusețea naturală din jurul orașului Skradin. Traseul către Skradinski Buk este plat și duce pitoresc de-a lungul malului. După reîmprospătarea la cascade, pedalați înapoi și vizitați punctul de belvedere de la podul Krka. Încheierea o constituie nucleul istoric cu cetatea Turina.",
+        "en": "Use the bike to explore the natural beauty around Skradin. The route to Skradinski Buk is flat and leads picturesquely along the shore. After refreshing at the waterfalls, cycle back and visit the viewpoint at the Krka Bridge. The historical core with the Turina Fortress forms the conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Skradin",
+            "tip": "Hausgemachter Wein und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Skradin",
+            "tip": "Házias bor és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Skradin",
+            "tip": "Vin și brânză de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Skradin",
+            "tip": "Homemade wine and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krka Uferweg",
+            "tip": "Ruhiger Weg im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka parti út",
+            "tip": "Csendes út a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Krka",
+            "tip": "Potecă liniștită la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka river path",
+            "tip": "Quiet path in the shade of trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Frisches Obst und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Friss gyümölcs és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers market",
+            "tip": "Fresh fruit and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für längere Touren.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Achten Sie auf Wanderer auf dem Uferweg."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a hosszabb túrákhoz.",
+          "Vigyen magával elegendő vizet.",
+          "Figyeljen a gyalogosokra a parti úton."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru tururi mai lungi.",
+          "Luați suficientă apă cu voi.",
+          "Fiți atenți la pietoni pe poteca de pe mal."
+        ],
+        "en": [
+          "Rent an e-bike for longer tours.",
+          "Take enough water with you.",
+          "Watch out for hikers on the river path."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Krka-Brücke Aussichtspunkt",
+            "hu": "Krka-híd kilátóhely",
+            "ro": "Punct de belvedere Podul Krka",
+            "en": "Krka Bridge Viewpoint"
+          },
+          "coords": [
+            43.815,
+            15.91
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Direkt an der Raststation 'Krka'.",
+            "hu": "Közvetlenül a 'Krka' pihenőhelyen.",
+            "ro": "Direct la stația de odihnă 'Krka'.",
+            "en": "Right at the 'Krka' rest area."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Turina",
+            "hu": "Turina-erőd",
+            "ro": "Cetatea Turina",
+            "en": "Turina Fortress"
+          },
+          "coords": [
+            43.8215,
+            15.9225
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Parkplatz im Zentrum nutzen.",
+            "hu": "Használja a központi parkolót.",
+            "ro": "Folosiți parcarea din centru.",
+            "en": "Use the central parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz Trg Male Gospe",
+            "hu": "Trg Male Gospe főtér",
+            "ro": "Piața Trg Male Gospe",
+            "en": "Main Square Trg Male Gospe"
+          },
+          "coords": [
+            43.8203,
+            15.9217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Zentrum ist Fußgängerzone.",
+            "hu": "A központ gyalogos övezet.",
+            "ro": "Centrul este zonă pietonală.",
+            "en": "The center is a pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Kisboldogasszony-templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            43.8198,
+            15.9211
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein Muss in der Altstadt.",
+            "hu": "Kihagyhatatlan az óvárosban.",
+            "ro": "O necesitate în orașul vechi.",
+            "en": "A must in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Skradin Marina",
+            "hu": "Skradini kikötő",
+            "ro": "Marina Skradin",
+            "en": "Skradin Marina"
+          },
+          "coords": [
+            43.818,
+            15.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Spaziergang am Wasser vor dem Mittagessen.",
+            "hu": "Séta a vízparton ebéd előtt.",
+            "ro": "Plimbare pe malul apei înainte de prânz.",
+            "en": "Walk by the water before lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die spektakulärsten Aussichtspunkte. Beginnen Sie an der Krka-Brücke für ein perfektes Foto. Danach erkunden Sie Skradin zu Fuß, besuchen die Festung, den Platz und die Marina. Ein Auto ermöglicht Ihnen auch einen schnellen Trip zum Haupteingang Lozovac des Nationalparks.",
+        "hu": "Autóval kényelmesen elérheti a leglátványosabb kilátópontokat. Kezdje a Krka-hídnál egy tökéletes fotóért. Ezután fedezze fel Skradint gyalog, látogasson el az erődbe, a térre és a kikötőbe. Az autó lehetővé teszi a gyors utazást a Nemzeti Park főbejáratához, Lozovachoz is.",
+        "ro": "Cu mașina puteți ajunge confortabil la cele mai spectaculoase puncte de belvedere. Începeți la podul Krka pentru o fotografie perfectă. După aceea, explorați Skradin la pas, vizitați cetatea, piața și marina. O mașină vă permite, de asemenea, o excursie rapidă la intrarea principală Lozovac a parcului național.",
+        "en": "By car, you can comfortably reach the most spectacular viewpoints. Start at the Krka Bridge for a perfect photo. Afterwards, explore Skradin on foot, visit the fortress, the square, and the marina. A car also allows you a quick trip to the main entrance Lozovac of the National Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Visovac",
+            "tip": "Traditionelle Peka-Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Visovac",
+            "tip": "Hagyományos peka ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Visovac",
+            "tip": "Mâncăruri tradiționale peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Visovac",
+            "tip": "Traditional Peka dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krka Brücke Rastplatz",
+            "tip": "Ruhiger Blick auf den Flussbogen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka híd pihenőhely",
+            "tip": "Csendes kilátás a folyó ívére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popas Podul Krka",
+            "tip": "Vedere liniștită asupra arcului râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka Bridge Rest Area",
+            "tip": "Quiet view of the river bend.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinstraße Skradin",
+            "tip": "Besuch bei lokalen Winzern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skradini borút",
+            "tip": "Helyi borászok meglátogatása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul vinului Skradin",
+            "tip": "Vizită la viticultorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skradin Wine Road",
+            "tip": "Visit local winemakers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Sommer begrenzt.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+          "Nutzen Sie den Parkplatz P1 am Ortseingang."
+        ],
+        "hu": [
+          "Nyáron korlátozott a parkolóhelyek száma.",
+          "Ügyeljen a sebességkorlátozásokra.",
+          "Használja a P1 parkolót a város bejáratánál."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate vara.",
+          "Fiți atenți la limitele de viteză.",
+          "Folosiți parcarea P1 de la intrarea în oraș."
+        ],
+        "en": [
+          "Parking spaces are limited in summer.",
+          "Watch out for speed limits.",
+          "Use parking lot P1 at the entrance of the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Skradin Marina",
+            "hu": "Skradini kikötő",
+            "ro": "Marina Skradin",
+            "en": "Skradin Marina"
+          },
+          "coords": [
+            43.818,
+            15.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Hier legen die Boote zum Nationalpark ab.",
+            "hu": "Innen indulnak a hajók a Nemzeti Parkba.",
+            "ro": "De aici pleacă bărcile către parcul național.",
+            "en": "Boats to the National Park depart from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Skradinski Buk Wasserfall",
+            "hu": "Skradinski Buk vízesés",
+            "ro": "Cascada Skradinski Buk",
+            "en": "Skradinski Buk Waterfall"
+          },
+          "coords": [
+            43.805,
+            15.94
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Die Bootsfahrt ist im Ticketpreis enthalten.",
+            "hu": "A hajóút benne van a jegy árában.",
+            "ro": "Plimbarea cu barca este inclusă în prețul biletului.",
+            "en": "The boat ride is included in the ticket price."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Krka Eingang",
+            "hu": "Krka Nemzeti Park bejárat",
+            "ro": "Intrarea în Parcul Național Krka",
+            "en": "Krka National Park Entrance"
+          },
+          "coords": [
+            43.817,
+            15.923
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Rückkehr mit dem Boot nach Skradin.",
+            "hu": "Visszatérés hajóval Skradinba.",
+            "ro": "Întoarcerea cu barca la Skradin.",
+            "en": "Return by boat to Skradin."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz Trg Male Gospe",
+            "hu": "Trg Male Gospe főtér",
+            "ro": "Piața Trg Male Gospe",
+            "en": "Main Square Trg Male Gospe"
+          },
+          "coords": [
+            43.8203,
+            15.9217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nahe der Bushaltestelle für Überlandbusse.",
+            "hu": "Közel a távolsági buszmegállóhoz.",
+            "ro": "Aproape de stația de autobuz pentru liniile interurbane.",
+            "en": "Near the bus stop for intercity buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Scardona Park",
+            "hu": "Scardona Park Múzeum",
+            "ro": "Muzeul Scardona Park",
+            "en": "Museum Scardona Park"
+          },
+          "coords": [
+            43.8185,
+            15.9205
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekter Abschluss vor der Abreise.",
+            "hu": "Tökéletes befejezés elutazás előtt.",
+            "ro": "Încheiere perfectă înainte de plecare.",
+            "en": "Perfect conclusion before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das offizielle Krka-Boot als Ihr Hauptverkehrsmittel. Die Fahrt von der Marina zum Skradinski Buk bietet eine herrliche Flusslandschaft. Nach dem Besuch der Wasserfälle erkunden Sie den historischen Stadtkern von Skradin, der gut an das regionale Busnetz angebunden ist.",
+        "hu": "Használja a hivatalos Krka-hajót fő közlekedési eszközként. A kikötőtől a Skradinski Bukig tartó út lenyűgöző folyami tájat kínál. A vízesések megtekintése után fedezze fel Skradin történelmi magját, amely jól kapcsolódik a regionális buszhálózathoz.",
+        "ro": "Folosiți barca oficială Krka ca principal mijloc de transport. Călătoria de la marină la Skradinski Buk oferă un peisaj fluvial magnific. După vizitarea cascadelor, explorați centrul istoric al orașului Skradin, care este bine conectat la rețeaua regională de autobuze.",
+        "en": "Use the official Krka boat as your main mode of transport. The ride from the marina to Skradinski Buk offers a magnificent river landscape. After visiting the waterfalls, explore the historical core of Skradin, which is well connected to the regional bus network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet Skradin",
+            "tip": "Schnelle lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet Skradin",
+            "tip": "Gyors helyi ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet Skradin",
+            "tip": "Mâncăruri locale rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet Skradin",
+            "tip": "Quick local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsoberdeck",
+            "tip": "Genießen Sie den Wind auf dem Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajó felső fedélzete",
+            "tip": "Élvezze a szelet a folyón.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a bărcii",
+            "tip": "Bucurați-vă de vânt pe râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat upper deck",
+            "tip": "Enjoy the wind on the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "NP Souvenirshop",
+            "tip": "Offizielle Nationalpark-Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "NP ajándékbolt",
+            "tip": "Hivatalos nemzeti parki emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "NP Souvenir Shop",
+            "tip": "Suveniruri oficiale ale parcului național."
+          }
+        ],
+        "en": [
+          {
+            "name": "NP Souvenir Shop",
+            "tip": "Official National Park souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Bootsfahrplan genau.",
+          "Busse nach Šibenik fahren regelmäßig.",
+          "Tickets enthalten die Bootsfahrt."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a hajó menetrendjét.",
+          "Sibenikbe rendszeresen járnak buszok.",
+          "A jegyek tartalmazzák a hajóutat."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul bărcii.",
+          "Autobuzele către Šibenik circulă regulat.",
+          "Biletele includ plimbarea cu barca."
+        ],
+        "en": [
+          "Check the boat schedule carefully.",
+          "Buses to Šibenik run regularly.",
+          "Tickets include the boat ride."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Skradin",
+    "iso": "HR-15",
+    "coords": [
+      15.9217,
+      43.8203
+    ],
+    "transit_official": "https://arriva.com.hr/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.skradin.hr/en/events",
+    "tourism_office": "https://www.skradin.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/skradin.html",
+    "restaurants_booking": null,
+    "museum_tickets": "https://shop.np-krka.hr/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Tor zum Nationalpark Krka; in den Restaurants und am NP-Eingang werden Englisch, Deutsch und Italienisch gesprochen.",
+      "hu": "A Krka Nemzeti Park kapuja; az ettermekben es a NP-bejaratnal angolul, nemetul es olaszul beszelnek.",
+      "ro": "Poarta spre Parcul National Krka; in restaurante si la intrarea in parc se vorbeste engleza, germana si italiana.",
+      "en": "Gateway to Krka National Park; English, German and Italian are spoken in restaurants and at the park entrance."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September: Wasserfaelle fuehren noch viel Wasser, das Boot von Skradin in den Park ist im Sommer kostenpflichtig und stark frequentiert.",
+      "hu": "Majus-junius es szeptember: a vizesesek meg bovizuek, a Skradinbol indulo parki hajo nyaron fizetos es zsufolt.",
+      "ro": "Mai-iunie si septembrie: cascadele inca au debit mare, barca din Skradin in parc e cu plata si aglomerata vara.",
+      "en": "May to June and September: waterfalls still have strong flow, the Skradin-to-park boat is paid and crowded in summer."
+    },
+    "neighborhood_warnings": {
+      "de": "Im Hochsommer sehr begrenzte Parkplaetze am NP-Eingang; frueh ankommen oder Bootsanleger in Skradin nutzen.",
+      "hu": "Csucsszezonban nagyon keves a parkolohely a NP-bejaratnal; korabban erkezz vagy hasznald a skradini hajokikotot.",
+      "ro": "In varful sezonului, parcarile la intrarea in PN sunt foarte limitate; vino devreme sau foloseste debarcaderul din Skradin.",
+      "en": "Parking at the NP entrance is very limited in peak summer; arrive early or use the Skradin boat pier instead."
+    }
+  }
+}

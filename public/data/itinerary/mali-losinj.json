@@ -1,0 +1,1151 @@
+{
+  "city_id": "mali-losinj",
+  "anchor": {
+    "name": "Mali Lošinj",
+    "coords": [
+      44.5328,
+      14.4708
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Geburt der Jungfrau Maria",
+            "hu": "Szűz Mária Születése plébániatemplom",
+            "ro": "Biserica Nașterea Fecioarei Maria",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            44.5312,
+            14.4691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige barocke Innenausstattung der Kirche aus dem 18. Jahrhundert.",
+            "hu": "Csodálja meg a 18. századi templom gazdag barokk belső díszítését.",
+            "ro": "Admirați interiorul baroc spectaculos al bisericii din secolul al XVIII-lea.",
+            "en": "Admire the rich Baroque interior of this 18th-century parish church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fritzi-Palast",
+            "hu": "Fritzi-palota",
+            "ro": "Palatul Fritzi",
+            "en": "Fritzi Palace"
+          },
+          "coords": [
+            44.5324,
+            14.4688
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Piperata-Sammlung alter Meister und die Geschichte von Lošinj.",
+            "hu": "Fedezze fel a Piperata-gyűjtemény régi mestereit és Lošinj történetét.",
+            "ro": "Descoperiți colecția Piperata de maeștri vechi și istoria insulei Lošinj.",
+            "en": "Explore the Piperata collection of old masters and the history of Lošinj."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Apoxyomenos",
+            "hu": "Apoxüomenosz Múzeum",
+            "ro": "Muzeul lui Apoxyomenos",
+            "en": "Museum of Apoxyomenos"
+          },
+          "coords": [
+            44.5322,
+            14.4697
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das ganze Museum ist einer einzigen, perfekt erhaltenen antiken Bronzestatue gewidmet.",
+            "hu": "A teljes múzeumot egyetlen, tökéletesen megőrzött ókori bronzszobornak szentelték.",
+            "ro": "Întregul muzeu este dedicat unei singure statui antice de bronz, perfect conservate.",
+            "en": "The entire museum is dedicated to a single, perfectly preserved ancient bronze statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Ambroz Haračić",
+            "hu": "Ambroz Haračić emlékműve",
+            "ro": "Monumentul lui Ambroz Haračić",
+            "en": "Monument to Ambroz Haračić"
+          },
+          "coords": [
+            44.5332,
+            14.4552
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Haračić war der Botaniker, der die Insel in ein grünes Paradies verwandelte.",
+            "hu": "Haračić volt az a botanikus, aki zöld paradicsommá változtatta a szigetet.",
+            "ro": "Haračić a fost botanistul care a transformat insula într-un paradis verde.",
+            "en": "Haračić was the botanist who transformed the island into a green paradise."
+          }
+        },
+        {
+          "name": {
+            "de": "Čikat-Bucht",
+            "hu": "Čikat-öböl",
+            "ro": "Golful Čikat",
+            "en": "Čikat Bay"
+          },
+          "coords": [
+            44.5355,
+            14.4525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für ein langes Mittagessen am Meer und ein erfrischendes Bad im Schatten der Pinien.",
+            "hu": "Ideális egy hosszú tengerparti ebédhez és egy frissítő fürdőzéshez a fenyők árnyékában.",
+            "ro": "Ideal pentru un prânz lung la malul mării și o baie răcoritoare la umbra pinilor.",
+            "en": "Ideal for a long seaside lunch and a refreshing swim in the shade of pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Duftender Inselgarten",
+            "hu": "Illatos szigeti kert",
+            "ro": "Grădina Insulei Parfumate",
+            "en": "Fragrant Island Garden"
+          },
+          "coords": [
+            44.5292,
+            14.4785
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den hausgemachten Likör und kaufen Sie duftende Souvenirs aus Wildkräutern.",
+            "hu": "Kóstolja meg a házi likőrt, és vásároljon illatos, vadon termő gyógynövényes szuveníreket.",
+            "ro": "Gustați lichiorul de casă și cumpărați suveniruri parfumate din plante sălbatice.",
+            "en": "Taste the homemade liqueur and buy fragrant souvenirs made from wild herbs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mali Lošinj mit einem Besuch der Barockkirche und des Fritzi-Palastes, um in die lokale Kunst einzutauchen. Der Höhepunkt des Vormittags ist der beeindruckende Apoxyomenos, eine antike Statue, die erst vor kurzem aus dem Meer geborgen wurde. Spazieren Sie mittags entlang der Küste zur Čikat-Bucht, wo Sie unter jahrhundertealten Pinien lokale Meeresfrüchte genießen können. Der Nachmittag gehört der Entspannung am kristallklaren Wasser des Čikat, bevor Sie den Tag im Duftenden Inselgarten ausklingen lassen, wo die Aromen von Salbei und Lavendel die Sinne beleben.",
+        "hu": "Kezdje a napot Mali Lošinj szívében a barokk plébániatemplom és a Fritzi-palota megtekintésével. A délelőtt fénypontja az Apoxüomenosz Múzeum, ahol egy tengerből kimentett ókori bronzszobrot láthat. Délben sétáljon el a Čikat-öbölbe, és ebédeljen a matuzsálemi fenyők árnyékában a tengerparton. A délutánt töltse pihenéssel a kristálytiszta vízben, majd fejezze be a napot az Illatos szigeti kertben, ahol a zsálya és a levendula aromája várja. Az este a kikötői sétányon, egy pohár helyi bor társaságában a legtökéletesebb.",
+        "ro": "Începeți ziua în inima orașului Mali Lošinj cu o vizită la biserica barocă și Palatul Fritzi pentru a descoperi arta locală. Momentul culminant al dimineții este impresionantul Apoxyomenos, o statuie antică recuperată recent din mare. La prânz, plimbați-vă de-a lungul coastei spre Golful Čikat, unde vă puteți bucura de fructe de mare sub pinii seculari. După-amiaza este dedicată relaxării la apele cristaline din Čikat, înainte de a încheia ziua în Grădina Insulei Parfumate, unde aromele de salvie și lavandă revigorează simțurile.",
+        "en": "Start your day in the heart of Mali Lošinj with a visit to the Baroque church and Fritzi Palace to immerse yourself in local art. The morning highlight is the stunning Apoxyomenos, an ancient bronze statue recovered from the seabed. At midday, stroll along the shore to Čikat Bay for a seaside lunch under ancient pines. Spend the afternoon relaxing by the crystal-clear waters of Čikat before ending your day at the Fragrant Island Garden, where the scents of sage and lavender fill the air. The evening is best spent on the harbor promenade with a glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bura Barka",
+            "tip": "Frischer Fisch und istrischer Schinken direkt am Hafen."
+          },
+          {
+            "name": "Lošinjer Lamm",
+            "tip": "Eine lokale Spezialität, oft mit aromatischen Kräutern zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bura Barka",
+            "tip": "Friss halak és isztriai sonka közvetlenül a kikötőben."
+          },
+          {
+            "name": "Lošinji bárány",
+            "tip": "Helyi különlegesség, gyakran aromás gyógynövényekkel készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bura Barka",
+            "tip": "Pește proaspăt și prăsut istrian chiar în port."
+          },
+          {
+            "name": "Miel de Lošinj",
+            "tip": "O specialitate locală, adesea preparată cu ierburi aromatice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bura Barka",
+            "tip": "Fresh fish and Istrian prosciutto right on the harbor."
+          },
+          {
+            "name": "Lošinj Lamb",
+            "tip": "A local specialty, often prepared with aromatic island herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Čikat Promenade",
+            "tip": "Ein ruhiger Spaziergang im Schatten der Pinien am späten Nachmittag.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "St. Martin Bucht",
+            "tip": "Ein friedlicher Ort abseits der Haupttouristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čikat sétány",
+            "tip": "Csendes séta a fenyők árnyékában késő délután.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Szent Márton-öböl",
+            "tip": "Békés hely a fő turistaútvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Čikat",
+            "tip": "O plimbare liniștită la umbra pinilor la sfârșitul după-amiezii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Golful Sf. Martin",
+            "tip": "Un loc liniștit, departe de fluxurile principale de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Čikat Promenade",
+            "tip": "A quiet walk in the shade of pine trees in the late afternoon.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "St. Martin Bay",
+            "tip": "A peaceful spot away from the main tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt Mali Lošinj",
+            "tip": "Frisches Obst, Olivenöl und lokaler Honig."
+          },
+          {
+            "name": "Inselgarten-Shop",
+            "tip": "Kosmetik und Tees aus Lošinjer Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mali Lošinj helyi piaca",
+            "tip": "Friss gyümölcsök, olívaolaj és helyi méz."
+          },
+          {
+            "name": "Szigeti Kert boltja",
+            "tip": "Kozmetikumok és teák lošinji gyógynövényekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Mali Lošinj",
+            "tip": "Fructe proaspete, ulei de măsline și miere locală."
+          },
+          {
+            "name": "Magazinul Grădinii Insulei",
+            "tip": "Cosmetice și ceaiuri din plante de pe Lošinj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mali Lošinj Local Market",
+            "tip": "Fresh fruit, olive oil, and local honey."
+          },
+          {
+            "name": "Island Garden Shop",
+            "tip": "Cosmetics and teas made from Lošinj herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Küstenpromenaden.",
+          "Besuchen Sie den Apoxyomenos am Vormittag, um Wartezeiten zu vermeiden.",
+          "Nehmen Sie Badesachen mit, da die Čikat-Bucht zum Schwimmen einlädt.",
+          "Die Stadt ist hügelig, planen Sie kurze Pausen ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a tengerparti sétányokhoz.",
+          "Látogassa meg az Apoxüomenoszt délelőtt a várakozás elkerülése érdekében.",
+          "Vigyen magával fürdőruhát, mert a Čikat-öböl úszásra csábít.",
+          "A város dombos, tervezzen be rövid pihenőket a séta során."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru promenadele de pe coastă.",
+          "Vizitați Apoxyomenos dimineața pentru a evita timpii de așteptare.",
+          "Luați costumul de baie, deoarece Golful Čikat este perfect pentru înot.",
+          "Orașul este deluros, așa că planificați scurte pauze de odihnă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the coastal promenades.",
+          "Visit the Apoxyomenos in the morning to avoid wait times.",
+          "Bring swimwear as Čikat Bay is very inviting for a swim.",
+          "The town is hilly, so plan for short breaks during your walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Čikat-Bucht",
+            "hu": "Čikat-öböl",
+            "ro": "Golful Čikat",
+            "en": "Čikat Bay"
+          },
+          "coords": [
+            44.5355,
+            14.4525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Radwege unter den Pinien sind am frühen Morgen herrlich kühl.",
+            "hu": "A fenyők alatti kerékpárutak kora reggel csodálatosan hűvösek.",
+            "ro": "Pistele de biciclete de sub pini sunt minunat de răcoroase dimineața devreme.",
+            "en": "The bike paths under the pines are wonderfully cool in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of Saint Martin"
+          },
+          "coords": [
+            44.5358,
+            14.4755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt liegt in einer malerischen Bucht.",
+            "hu": "A város legrégebbi temploma egy festői öbölben található.",
+            "ro": "Cea mai veche biserică din oraș este situată într-un golf pitoresc.",
+            "en": "The oldest church in town is located in a picturesque bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaues Weltinstitut (Veli Lošinj)",
+            "hu": "Kék Világ Intézet (Veli Lošinj)",
+            "ro": "Institutul Lumea Albastră (Veli Lošinj)",
+            "en": "Blue World Institute (Veli Lošinj)"
+          },
+          "coords": [
+            44.5215,
+            14.4995
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Delfine der Adria und den Meeresschutz.",
+            "hu": "Tudjon meg többet az adriai delfinekről és a tengeri védelemről.",
+            "ro": "Aflați mai multe despre delfinii din Adriatică și conservarea marină.",
+            "en": "Learn more about Adriatic dolphins and marine conservation efforts."
+          }
+        },
+        {
+          "name": {
+            "de": "Duftender Inselgarten",
+            "hu": "Illatos szigeti kert",
+            "ro": "Grădina Insulei Parfumate",
+            "en": "Fragrant Island Garden"
+          },
+          "coords": [
+            44.5292,
+            14.4785
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine längere Pause mit hausgemachten Kräuterprodukten.",
+            "hu": "Tökéletes hely egy hosszabb pihenőhöz házi gyógynövényes termékekkel.",
+            "ro": "Locul perfect pentru o pauză lungă cu produse din plante de casă.",
+            "en": "A perfect spot for a longer break with homemade herbal products."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Apoxyomenos",
+            "hu": "Apoxüomenosz Múzeum",
+            "ro": "Muzeul lui Apoxyomenos",
+            "en": "Museum of Apoxyomenos"
+          },
+          "coords": [
+            44.5322,
+            14.4697
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour mit diesem archäologischen Highlight ab.",
+            "hu": "Zárja túráját ezzel a régészeti fényponttal.",
+            "ro": "Încheiați-vă turul cu acest punct culminant arheologic.",
+            "en": "Finish your tour with this archaeological highlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Insel Lošinj auf zwei Rädern, beginnend mit einer Fahrt durch die schattigen Pinienwälder der Čikat-Bucht. Radeln Sie weiter entlang der Küste zur historischen St. Martin Bucht, bevor Sie das benachbarte Veli Lošinj erreichen, um das Delfinschutzzentrum zu besuchen. Nach einem Mittagessen in Veli Lošinj führt der Rückweg über den Duftenden Inselgarten, wo Sie die reiche Flora der Insel erleben können. Beenden Sie Ihre Tour im Stadtzentrum von Mali Lošinj mit einem Besuch beim berühmten Apoxyomenos.",
+        "hu": "Fedezze fel Lošinj szigetét két keréken, kezdve a Čikat-öböl árnyas fenyőerdőin keresztül vezető úttal. Tekerjen tovább a tengerpart mentén a történelmi Szent Márton-öbölbe, majd érje el a szomszédos Veli Lošinj-t, hogy meglátogassa a delfinvédelmi központot. Egy veli lošinji ebéd után az út az Illatos szigeti kertbe vezet, ahol megismerheti a sziget gazdag flóráját. Zárja túráját Mali Lošinj központjában a híres Apoxüomenosz szobor megtekintésével.",
+        "ro": "Explorați insula Lošinj pe două roți, începând cu o plimbare prin pădurile de pini umbroase din Golful Čikat. Pedalați mai departe de-a lungul coastei până la golful istoric Sf. Martin, înainte de a ajunge în orașul vecin Veli Lošinj pentru a vizita centrul de conservare a delfinilor. După un prânz în Veli Lošinj, drumul de întoarcere trece prin Grădina Insulei Parfumate, unde puteți experimenta flora bogată a insulei. Încheiați-vă turul în centrul orașului Mali Lošinj cu o vizită la celebrul Apoxyomenos.",
+        "en": "Explore the island of Lošinj on two wheels, starting with a ride through the shaded pine forests of Čikat Bay. Cycle along the coast to the historic St. Martin Bay before reaching the neighboring Veli Lošinj to visit the dolphin conservation center. After a lunch in Veli Lošinj, the route back takes you through the Fragrant Island Garden, where you can experience the island's rich flora. End your tour in the town center of Mali Lošinj with a visit to the famous Apoxyomenos statue."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Probieren Sie die hausgemachten Nudeln 'Šurlice' in Veli Lošinj."
+          },
+          {
+            "name": "Kräuterlimonade",
+            "tip": "Erfrischend und gesund im Duftenden Inselgarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Kóstolja meg a házi készítésű 'šurlice' tésztát Veli Lošinjban."
+          },
+          {
+            "name": "Gyógynövényes limonádé",
+            "tip": "Frissítő és egészséges az Illatos szigeti kertben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Gustați pastele de casă 'šurlice' în Veli Lošinj."
+          },
+          {
+            "name": "Limonadă cu ierburi",
+            "tip": "Răcoritoare și sănătoasă în Grădina Insulei Parfumate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Try the homemade 'šurlice' pasta in Veli Lošinj."
+          },
+          {
+            "name": "Herbal Lemonade",
+            "tip": "Refreshing and healthy at the Fragrant Island Garden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenweg nach Veli Lošinj",
+            "tip": "Wunderschöner Panorama-Radweg direkt am Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Bukovica",
+            "tip": "Ruhige Hügel oberhalb der Stadt mit tollem Ausblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út Veli Lošinj felé",
+            "tip": "Gyönyörű panorámás kerékpárút közvetlenül a tenger mellett.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Bukovica",
+            "tip": "Csendes dombok a város felett, remek kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre Veli Lošinj",
+            "tip": "Pistă de biciclete panoramică superbă chiar lângă mare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Bukovica",
+            "tip": "Dealuri liniștite deasupra orașului cu o vedere minunată.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Path to Veli Lošinj",
+            "tip": "Beautiful panoramic bike path right by the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Bukovica",
+            "tip": "Quiet hills above the town with great views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veli Lošinj Souvenirs",
+            "tip": "Delfin-Themenartikel, deren Erlös dem Schutz zugutekommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veli Lošinj szuvenírek",
+            "tip": "Delfines ajándéktárgyak, melyek bevétele a védelmet támogatja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Veli Lošinj",
+            "tip": "Articole cu tematică delfini, profitul fiind destinat conservării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veli Lošinj Souvenirs",
+            "tip": "Dolphin-themed items where proceeds support conservation."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenwege sind oft schmal, nehmen Sie Rücksicht auf Fußgänger.",
+          "Mieten Sie ein E-Bike, wenn Sie die steileren Abschnitte nach Veli Lošinj meiden wollen.",
+          "Ausreichend Wasser ist wegen der Sonne unerlässlich.",
+          "Sperren Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "A tengerparti utak gyakran keskenyek, ügyeljen a gyalogosokra.",
+          "Béreljen elektromos kerékpárt, ha el akarja kerülni a meredekebb szakaszokat.",
+          "A nap miatt az elegendő víz elengedhetetlen.",
+          "Mindig jól zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Drumurile de coastă sunt adesea înguste, fiți atenți la pietoni.",
+          "Închiriați o bicicletă electrică dacă doriți să evitați secțiunile mai abrupte.",
+          "Apa suficientă este esențială din cauza soarelui.",
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt bun."
+        ],
+        "en": [
+          "Coastal paths are often narrow, please be considerate of pedestrians.",
+          "Rent an e-bike if you want to avoid the steeper sections to Veli Lošinj.",
+          "Sufficient water is essential because of the sun.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Artatore-Bucht",
+            "hu": "Artatore-öböl",
+            "ro": "Golful Artatore",
+            "en": "Artatore Bay"
+          },
+          "coords": [
+            44.575,
+            14.425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine ruhige Bucht im Norden, ideal zum Schwimmen fernab des Zentrums.",
+            "hu": "Csendes öböl északon, ideális úszáshoz a központtól távol.",
+            "ro": "Un golf liniștit în nord, ideal pentru înot departe de centru.",
+            "en": "A quiet bay in the north, ideal for swimming away from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Apoxyomenos",
+            "hu": "Apoxüomenosz Múzeum",
+            "ro": "Muzeul lui Apoxyomenos",
+            "en": "Museum of Apoxyomenos"
+          },
+          "coords": [
+            44.5322,
+            14.4697
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Haupteingang der Stadt und gehen Sie zum Hafen.",
+            "hu": "Parkoljon a város főbejáratánál, és sétáljon le a kikötőbe.",
+            "ro": "Parcați la intrarea principală în oraș și mergeți pe jos până în port.",
+            "en": "Park at the main town entrance and walk down to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Fritzi-Palast",
+            "hu": "Fritzi-palota",
+            "ro": "Palatul Fritzi",
+            "en": "Fritzi Palace"
+          },
+          "coords": [
+            44.5324,
+            14.4688
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Apoxyomenos entfernt.",
+            "hu": "Csak pár perc séta az Apoxüomenosztól.",
+            "ro": "La doar câteva minute de mers pe jos de Apoxyomenos.",
+            "en": "Just a few minutes' walk from the Apoxyomenos."
+          }
+        },
+        {
+          "name": {
+            "de": "Čikat-Bucht",
+            "hu": "Čikat-öböl",
+            "ro": "Golful Čikat",
+            "en": "Čikat Bay"
+          },
+          "coords": [
+            44.5355,
+            14.4525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die luxuriösen Villen aus der Zeit der k.u.k. Monarchie.",
+            "hu": "Nézze meg a monarchia idejéből származó luxusvillákat.",
+            "ro": "Vizitați vilele luxoase din perioada monarhiei austro-ungare.",
+            "en": "Check out the luxury villas from the Austro-Hungarian era."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Providenca",
+            "hu": "Providenca kilátó",
+            "ro": "Punctul de belvedere Providenca",
+            "en": "Providenca Viewpoint"
+          },
+          "coords": [
+            44.5152,
+            14.4855
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang bei einem Glas Wein und lokalen Spezialitäten.",
+            "hu": "Élvezze a naplementét egy pohár bor és helyi különlegességek mellett.",
+            "ro": "Bucurați-vă de apusul soarelui cu un pahar de vin și specialități locale.",
+            "en": "Enjoy the sunset with a glass of wine and local specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die entlegensten Naturschönheiten mit den kulturellen Zentren von Mali Lošinj. Beginnen Sie entspannt in der Artatore-Bucht, bevor Sie für das kulturelle Programm ins Stadtzentrum fahren. Besuchen Sie den Apoxyomenos und den Fritzi-Palast, um mehr über die Geschichte der Insel zu erfahren. Nachmittags erkunden Sie die prächtige Čikat-Bucht mit ihren historischen Villen. Den krönenden Abschluss bildet die Fahrt zum Aussichtspunkt Providenca, wo Sie den spektakulärsten Blick über den gesamten Archipel bei Sonnenuntergang erleben.",
+        "hu": "Ez az autós túra Mali Lošinj legtávolabbi természeti szépségeit és kulturális központjait köti össze. Kezdje a napot pihenéssel az Artatore-öbölben, mielőtt a kulturális program miatt a városközpontba hajtana. Látogassa meg az Apoxüomenoszt és a Fritzi-palotát, hogy megismerje a sziget történetét. Délután fedezze fel a pompás Čikat-öblöt és történelmi villáit. A napot a Providenca kilátónál zártjuk, ahonnan a leglátványosabb kilátás nyílik az egész szigetvilágra naplementekor.",
+        "ro": "Acest tur cu mașina combină cele mai îndepărtate frumuseți naturale cu centrele culturale din Mali Lošinj. Începeți relaxat în Golful Artatore înainte de a merge în centrul orașului pentru programul cultural. Vizitați Apoxyomenos și Palatul Fritzi pentru a afla mai multe despre istoria insulei. După-amiaza, explorați magnificul Golf Čikat cu vilele sale istorice. Punctul culminant va fi drumul către punctul de belvedere Providenca, unde veți experimenta cea mai spectaculoasă vedere asupra întregului arhipelag la apus.",
+        "en": "This car tour connects the most remote natural beauties with the cultural centers of Mali Lošinj. Start relaxed at Artatore Bay before driving to the town center for the cultural program. Visit the Apoxyomenos and Fritzi Palace to learn about the island's history. In the afternoon, explore the magnificent Čikat Bay and its historic villas. The highlight will be the drive to the Providenca viewpoint, where you will experience the most spectacular view over the entire archipelago at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Artatore",
+            "tip": "Probieren Sie Meeresfrüchte unter der Glocke (Peka)."
+          },
+          {
+            "name": "Providenca Gastro-Platten",
+            "tip": "Käse, Pršut und Wein mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artatore étterem",
+            "tip": "Kóstolja meg a tenger gyümölcseit harang alatt sütve (peka)."
+          },
+          {
+            "name": "Providenca bőségtálak",
+            "tip": "Sajt, pršut és bor a kilátás mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artatore",
+            "tip": "Încercați fructele de mare la capac (peka)."
+          },
+          {
+            "name": "Platouri gastro Providenca",
+            "tip": "Brânză, pršut și vin cu vedere inclusă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artatore Restaurant",
+            "tip": "Try the seafood prepared under the iron bell (peka)."
+          },
+          {
+            "name": "Providenca Gastro Platters",
+            "tip": "Cheese, prosciutto, and wine served with the view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vidikovac Providenca",
+            "tip": "Der ultimative Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Artatore Wald",
+            "tip": "Ruhige Waldwege in Meeresnähe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Providenca kilátó",
+            "tip": "A legfőbb helyszín a naplemente nézéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Artatore-erdő",
+            "tip": "Csendes erdei utak a tenger közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vidikovac Providenca",
+            "tip": "Locul suprem pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Artatore",
+            "tip": "Poteci forestiere liniștite lângă mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Providenca Viewpoint",
+            "tip": "The ultimate spot for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Artatore Forest",
+            "tip": "Quiet forest paths near the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle in der Nähe",
+            "tip": "Kaufen Sie frisches Olivenöl direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Közeli olajütő",
+            "tip": "Vásároljon friss olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei în apropiere",
+            "tip": "Cumpărați ulei de măsline proaspăt direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nearby Oil Mill",
+            "tip": "Buy fresh olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Providenca ist schmal und kurvig.",
+          "Parkplätze im Zentrum sind im Sommer schwer zu finden, nutzen Sie die großen Auffangparkplätze.",
+          "Reservieren Sie für den Sonnenuntergang bei Providenca einen Tisch.",
+          "Achten Sie auf Schafe auf den Nebenstraßen."
+        ],
+        "hu": [
+          "A Providenca felé vezető út keskeny és kanyargós.",
+          "Nyáron nehéz parkolót találni a központban, használja a nagy gyűjtőparkolókat.",
+          "Foglaljon asztalt a naplementéhez a Providenca kilátónál.",
+          "Ügyeljen a juhokra a mellékutakon."
+        ],
+        "ro": [
+          "Drumul spre Providenca este îngust și șerpuitor.",
+          "Locurile de parcare în centru sunt greu de găsit vara, folosiți parcările mari de la intrare.",
+          "Rezervați o masă pentru apusul soarelui la Providenca.",
+          "Atenție la oile de pe drumurile secundare."
+        ],
+        "en": [
+          "The road to Providenca is narrow and winding.",
+          "Parking in the center is hard to find in summer; use the large peripheral lots.",
+          "Book a table for the sunset at Providenca in advance.",
+          "Watch out for sheep on the side roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum des Apoxyomenos",
+            "hu": "Apoxüomenosz Múzeum",
+            "ro": "Muzeul lui Apoxyomenos",
+            "en": "Museum of Apoxyomenos"
+          },
+          "coords": [
+            44.5322,
+            14.4697
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof in der Nähe des Hafens leicht zu Fuß erreichbar.",
+            "hu": "A kikötő melletti buszmegállótól könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la autogara de lângă port.",
+            "en": "Easily accessible on foot from the bus station near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Geburt der Jungfrau Maria",
+            "hu": "Szűz Mária Születése plébániatemplom",
+            "ro": "Biserica Nașterea Fecioarei Maria",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            44.5312,
+            14.4691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Befindet sich im historischen Zentrum, nur einen kurzen Spaziergang vom Hafen entfernt.",
+            "hu": "A történelmi központban található, rövid sétára a kikötőtől.",
+            "ro": "Situată în centrul istoric, la o scurtă plimbare de port.",
+            "en": "Located in the historic center, just a short walk from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaues Weltinstitut (Veli Lošinj)",
+            "hu": "Kék Világ Intézet (Veli Lošinj)",
+            "ro": "Institutul Lumea Albastră (Veli Lošinj)",
+            "en": "Blue World Institute (Veli Lošinj)"
+          },
+          "coords": [
+            44.5215,
+            14.4995
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Lokalbus von Mali nach Veli Lošinj; die Fahrt dauert nur 15 Minuten.",
+            "hu": "Szálljon fel a helyi buszra Mali Lošinjból Veli Lošinjba; az út csak 15 perc.",
+            "ro": "Luați autobuzul local din Mali spre Veli Lošinj; călătoria durează doar 15 minute.",
+            "en": "Take the local bus from Mali to Veli Lošinj; the journey is only 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Čikat-Bucht",
+            "hu": "Čikat-öböl",
+            "ro": "Golful Čikat",
+            "en": "Čikat Bay"
+          },
+          "coords": [
+            44.5355,
+            14.4525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den touristischen Zug (Bimmelbahn), der das Zentrum mit Čikat verbindet.",
+            "hu": "Használja a turisztikai kisvonatot, amely összeköti a központot a Čikat-öböllel.",
+            "ro": "Folosiți trenulețul turistic care leagă centrul de Golful Čikat.",
+            "en": "Use the tourist mini-train that connects the center with Čikat Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Duftender Inselgarten",
+            "hu": "Illatos szigeti kert",
+            "ro": "Grădina Insulei Parfumate",
+            "en": "Fragrant Island Garden"
+          },
+          "coords": [
+            44.5292,
+            14.4785
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus in ca. 15 Minuten zu Fuß erreichbar.",
+            "hu": "A központból kb. 15 perc sétával elérhető.",
+            "ro": "Accesibil în aproximativ 15 minute de mers pe jos din centru.",
+            "en": "Accessible in about 15 minutes on foot from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mali Lošinj bequem mit öffentlichen Verkehrsmitteln und dem touristischen Zug. Beginnen Sie im Zentrum mit dem Apoxyomenos und der barocken Pfarrkirche. Nutzen Sie dann den Lokalbus nach Veli Lošinj, um das Delfinschutzzentrum zu besuchen. Nach einem Mittagessen in Veli Lošinj kehren Sie nach Mali Lošinj zurück und nehmen den touristischen Zug zur wunderschönen Čikat-Bucht. Beenden Sie den Tag mit einem entspannten Spaziergang zum Duftenden Inselgarten, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Fedezze fel Mali Lošinj-t kényelmesen, tömegközlekedéssel és a turisztikai kisvonattal. Kezdjen a központban az Apoxüomenosz múzeummal és a barokk plébániatemplommal. Ezután szálljon fel a helyi buszra Veli Lošinjba, hogy meglátogassa a delfinvédelmi központot. Egy veli lošinji ebéd után térjen vissza Mali Lošinjba, és üljön fel a kisvonatra a gyönyörű Čikat-öbölbe. Zárja a napot egy pihentető sétával az Illatos szigeti kertbe, mielőtt visszatérne a kikötőbe.",
+        "ro": "Descoperiți Mali Lošinj confortabil cu transportul public și trenulețul turistic. Începeți în centru cu muzeul Apoxyomenos și biserica parohială barocă. Apoi, luați autobuzul local spre Veli Lošinj pentru a vizita centrul de conservare a delfinilor. După un prânz în Veli Lošinj, reveniți în Mali Lošinj și luați trenulețul turistic spre frumosul Golf Čikat. Încheiați ziua cu o plimbare relaxantă spre Grădina Insulei Parfumate înainte de a vă întoarce în port.",
+        "en": "Discover Mali Lošinj comfortably using public transport and the tourist mini-train. Start in the center with the Apoxyomenos museum and the Baroque parish church. Then take the local bus to Veli Lošinj to visit the dolphin conservation center. After a lunch in Veli Lošinj, return to Mali Lošinj and board the mini-train to the beautiful Čikat Bay. End the day with a relaxing walk to the Fragrant Island Garden before returning to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocca Vera",
+            "tip": "Ausgezeichnete mediterrane Küche im Herzen von Mali Lošinj."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocca Vera",
+            "tip": "Kiváló mediterrán konyha Mali Lošinj szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocca Vera",
+            "tip": "Bucătărie mediteraneană excelentă în inima orașului Mali Lošinj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocca Vera",
+            "tip": "Excellent Mediterranean cuisine in the heart of Mali Lošinj."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Veli Lošinj Hafen",
+            "tip": "Kleiner und friedlicher als Mali Lošinj.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veli Lošinj kikötője",
+            "tip": "Kisebb és békésebb, mint Mali Lošinj.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Veli Lošinj",
+            "tip": "Mai mic și mai liniștit decât Mali Lošinj.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Veli Lošinj Harbor",
+            "tip": "Smaller and more peaceful than Mali Lošinj.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Hafen",
+            "tip": "Handgefertigter Schmuck und Korallen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a kikötőben",
+            "tip": "Kézzel készített ékszerek és korallok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în port",
+            "tip": "Bijuterii lucrate manual și corali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shops at the Harbor",
+            "tip": "Handmade jewelry and corals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan nach Veli Lošinj im Voraus.",
+          "Der touristische Zug fährt regelmäßig zwischen dem Zentrum und Čikat.",
+          "Kaufen Sie Fahrkarten direkt beim Fahrer oder am Kiosk.",
+          "Planen Sie Pufferzeiten für den Umstieg ein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Veli Lošinjba tartó busz menetrendjét.",
+          "A turisztikai kisvonat rendszeresen jár a központ és Čikat között.",
+          "Vásároljon jegyet közvetlenül a vezetőnél vagy az újságosnál.",
+          "Tervezzen be ráhagyást az átszállásokhoz."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului spre Veli Lošinj în avans.",
+          "Trenulețul turistic circulă regulat între centru și Čikat.",
+          "Cumpărați bilete direct de la șofer sau de la chioșc.",
+          "Planificați timp suplimentar pentru conexiuni."
+        ],
+        "en": [
+          "Check the bus schedule to Veli Lošinj in advance.",
+          "The tourist mini-train runs regularly between the center and Čikat.",
+          "Buy tickets directly from the driver or at the kiosk.",
+          "Plan some buffer time for transfers."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Mali Lošinj",
+    "region": "HR-08",
+    "coords": [
+      14.4708,
+      44.5328
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://getbybus.com/hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitlosinj.hr/",
+    "tourism_office": "https://www.visitlosinj.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": "https://www.parking.hr/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache, Italienisch traditionell verbreitet; Deutsch und Englisch werden in Hotels und Restaurants gut verstanden.",
+      "hu": "A horvát a hivatalos nyelv, az olasz hagyományosan elterjedt; a szállodákban és éttermekben jól értik a németet és angolt.",
+      "ro": "Limba oficială este croata, italiana este tradițional vorbită; germana și engleza sunt înțelese în hoteluri și restaurante.",
+      "en": "Croatian is official, Italian is traditionally spoken; German and English are well understood in hotels and restaurants."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober mit mildem Klima; als Insel der Vitalität besonders im Frühling und Herbst für Wandern empfohlen.",
+      "hu": "Május–október a kellemes éghajlat miatt; a vitalitás szigeteként tavasszal és ősszel kiváló túrázni.",
+      "ro": "Mai–octombrie pentru clima blândă; cunoscută ca insula vitalității, ideală primăvara și toamna pentru drumeții.",
+      "en": "May to October for mild climate; known as the island of vitality, spring and autumn are excellent for hiking."
+    },
+    "neighborhood_warnings": {
+      "de": "Fähranbindung im Sommer stark ausgebucht, frühzeitig reservieren; einige Küstenpfade ohne Geländer.",
+      "hu": "A komp nyáron erősen lefoglalt, korán foglalj; néhány parti ösvény korlát nélküli.",
+      "ro": "Feriboturile sunt foarte solicitate vara, rezervă din timp; unele poteci de coastă sunt fără balustrade.",
+      "en": "Ferries are heavily booked in summer, reserve early; some coastal paths have no railings."
+    }
+  }
+}

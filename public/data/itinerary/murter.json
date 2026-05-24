@@ -1,0 +1,994 @@
+{
+  "city_id": "murter",
+  "anchor": {
+    "name": "Murter",
+    "coords": [
+      15.5878,
+      43.8208
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marina Hramina",
+          "coords": [
+            15.591,
+            43.8225
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit dem Anblick luxuriöser Yachten.",
+            "hu": "Kezdje a napot a luxusjachtok látványával.",
+            "ro": "Începeți ziua cu vederea iahturilor de lux.",
+            "en": "Start the day with the sight of luxury yachts."
+          }
+        },
+        {
+          "name": "Pfarrkirche des Hl. Michael",
+          "coords": [
+            15.5885,
+            43.8215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die barocke Innenausstattung ist beeindruckend.",
+            "hu": "A barokk belső díszítés lenyűgöző.",
+            "ro": "Interiorul baroc este impresionant.",
+            "en": "The baroque interior is impressive."
+          }
+        },
+        {
+          "name": "Archäologische Stätte Colentum",
+          "coords": [
+            15.5845,
+            43.8285
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Überreste einer römischen Stadt direkt am Ufer.",
+            "hu": "Egy római város maradványai közvetlenül a parton.",
+            "ro": "Rămășițele unui oraș roman chiar pe malul mării.",
+            "en": "Remains of a Roman town right on the shore."
+          }
+        },
+        {
+          "name": "Kirche Unserer Lieben Frau von Gradina",
+          "coords": [
+            15.5855,
+            43.8275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Friedliche Kapelle inmitten der Ruinen.",
+            "hu": "Békés kápolna a romok közepette.",
+            "ro": "Capelă liniștită în mijlocul ruinelor.",
+            "en": "Peaceful chapel amidst the ruins."
+          }
+        },
+        {
+          "name": "Hügel Gradina",
+          "coords": [
+            15.586,
+            43.827
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fantastischer Rundblick über den Archipel.",
+            "hu": "Fantasztikus körpanoráma a szigetvilágra.",
+            "ro": "Panoramă circulară fantastică asupra arhipelagului.",
+            "en": "Fantastic panoramic view over the archipelago."
+          }
+        },
+        {
+          "name": "Strand Podvrške",
+          "coords": [
+            15.58,
+            43.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Türkisfarbenes Wasser und feiner Sand.",
+            "hu": "Türkizkék víz és finom homok.",
+            "ro": "Apă turcoaz și nisip fin.",
+            "en": "Turquoise water and fine sand."
+          }
+        },
+        {
+          "name": "Strand Slanica",
+          "coords": [
+            15.5785,
+            43.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der beliebteste Strand der Insel, ideal zum Baden.",
+            "hu": "A sziget legnépszerűbb strandja, ideális fürdésre.",
+            "ro": "Cea mai populară plajă de pe insulă, ideală pentru scăldat.",
+            "en": "The island's most popular beach, ideal for swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erleben Sie das nautische Flair in der Marina Hramina und besuchen die majestätische St.-Michael-Kirche.\n\nMittags tauchen Sie in die antike Geschichte von Colentum ein und genießen die Aussicht vom Gradina-Hügel.\n\nNachmittags entspannen Sie an den traumhaften Stränden Podvrške und Slanica, die für ihr klares Wasser berühmt sind.\n\nAbends spazieren Sie gemütlich zurück zum Hafen, wo Sie in einer der Konobas den Tag bei frischem Fisch abschließen.",
+        "hu": "Reggel tapasztalja meg a tengeri hangulatot a Marina Hraminában, és látogassa meg a fenséges Szent Mihály-templomot.\n\nDélben merüljön el Colentum ókori történelmében, és élvezze a kilátást a Gradina-dombról.\n\nDélután pihenjen a lenyűgöző Podvrške és Slanica strandokon, amelyek tiszta vizükről híresek.\n\nEste sétáljon kényelmesen vissza a kikötőbe, ahol az egyik konobában friss hallal zárhatja a napot.",
+        "ro": "Dimineața experimentați atmosfera nautică în Marina Hramina și vizitați maiestuoasa biserică Sfântul Mihail.\n\nLa prânz scufundați-vă în istoria antică a orașului Colentum și bucurați-vă de priveliștea de pe dealul Gradina.\n\nDupă-amiaza relaxați-vă pe plajele superbe Podvrške și Slanica, faimoase pentru apa lor limpede.\n\nSeara plimbați-vă agale înapoi spre port, unde puteți încheia ziua cu pește proaspăt la una dintre konobe.",
+        "en": "In the morning, experience the nautical flair in Marina Hramina and visit the majestic St. Michael's Church.\n\nAt midday, dive into the ancient history of Colentum and enjoy the view from Gradina Hill.\n\nIn the afternoon, relax at the stunning beaches of Podvrške and Slanica, famous for their clear water.\n\nIn the evening, take a leisurely stroll back to the port, where you can end the day with fresh fish at one of the konobas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Boba",
+            "tip": "Gehobene Küche mit den besten Zutaten der Insel."
+          },
+          {
+            "name": "Restaurant Fabro",
+            "tip": "Hervorragender Grillfisch direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Boba",
+            "tip": "Színvonalas konyha a sziget legjobb alapanyagaival."
+          },
+          {
+            "name": "Restaurant Fabro",
+            "tip": "Kiváló grillhalak közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Boba",
+            "tip": "Bucătărie rafinată cu cele mai bune ingrediente de pe insulă."
+          },
+          {
+            "name": "Restaurant Fabro",
+            "tip": "Pește la grătar excelent chiar pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Boba",
+            "tip": "Upscale cuisine with the best ingredients from the island."
+          },
+          {
+            "name": "Restaurant Fabro",
+            "tip": "Excellent grilled fish right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gradina Hügel",
+            "tip": "Ruhe und Weitblick über die Kornaten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand Podvrške",
+            "tip": "Am frühen Morgen fast menschenleer und magisch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradina-domb",
+            "tip": "Csend és kilátás a Kornati-szigetekre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podvrške-strand",
+            "tip": "Kora reggel szinte néptelen és varázslatos.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Gradina",
+            "tip": "Liniște și vedere panoramică spre insulele Kornati.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Podvrške",
+            "tip": "Aproape pustie și magică dimineața devreme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradina Hill",
+            "tip": "Quiet and panoramic view over the Kornati islands.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podvrške Beach",
+            "tip": "Almost deserted and magical in the early morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Butik Murter",
+            "tip": "Lokale Mode und handgefertigter Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murter Butik",
+            "tip": "Helyi divat és kézműves ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Murter",
+            "tip": "Modă locală și bijuterii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique Murter",
+            "tip": "Local fashion and handmade jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strände können im Juli und August sehr voll werden.",
+          "Wandern Sie zum Hügel Gradina für die besten Urlaubsfotos.",
+          "Colentum ist frei zugänglich und bietet einen tollen Archäologiepark.",
+          "Probieren Sie das lokale Olivenöl, es gilt als eines der besten Kroatiens."
+        ],
+        "hu": [
+          "A strandok júliusban és augusztusban nagyon zsúfoltak lehetnek.",
+          "Túrázzon fel a Gradina-dombra a legjobb nyaralási fotókért.",
+          "Colentum szabadon látogatható és remek régészeti parkot kínál.",
+          "Kóstolja meg a helyi olívaolajat, Horvátország egyik legjobbjának tartják."
+        ],
+        "ro": [
+          "Plajele pot deveni foarte aglomerate în iulie și august.",
+          "Urcați pe dealul Gradina pentru cele mai bune fotografii de vacanță.",
+          "Colentum este accesibil gratuit și oferă un parc arheologic grozav.",
+          "Gustați uleiul de măsline local, este considerat unul dintre cele mai bune din Croația."
+        ],
+        "en": [
+          "Beaches can get very crowded in July and August.",
+          "Hike to Gradina Hill for the best holiday photos.",
+          "Colentum is free to access and offers a great archaeology park.",
+          "Taste the local olive oil, it's considered one of the best in Croatia."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marina Hramina",
+          "coords": [
+            15.591,
+            43.8225
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Flache Wege rund um das Hafenbecken.",
+            "hu": "Sík utak a kikötőmedence körül.",
+            "ro": "Trasee plane în jurul bazinului portuar.",
+            "en": "Flat paths around the harbor basin."
+          }
+        },
+        {
+          "name": "Archäologische Stätte Colentum",
+          "coords": [
+            15.5845,
+            43.8285
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Radweg führt direkt am Meer hierher.",
+            "hu": "Egy szép kerékpárút vezet közvetlenül a tenger mentén ide.",
+            "ro": "O pistă frumoasă de biciclete duce chiar pe malul mării până aici.",
+            "en": "A beautiful bike path leads right along the sea to here."
+          }
+        },
+        {
+          "name": "Strand Podvrške",
+          "coords": [
+            15.58,
+            43.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause mit dem Rad im Schatten der Kiefern.",
+            "hu": "Ideális egy pihenőhöz kerékpárral a fenyők árnyékában.",
+            "ro": "Ideal pentru o pauză cu bicicleta la umbra pinilor.",
+            "en": "Ideal for a break with the bike in the shade of the pines."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Rochus",
+          "coords": [
+            15.585,
+            43.8185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Historische Kapelle oberhalb des alten Dorfes.",
+            "hu": "Történelmi kápolna az ófalu felett.",
+            "ro": "Capelă istorică deasupra satului vechi.",
+            "en": "Historical chapel above the old village."
+          }
+        },
+        {
+          "name": "Strand Slanica",
+          "coords": [
+            15.5785,
+            43.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem Sprung ins Meer.",
+            "hu": "Zárja a túrát egy ugrással a tengerbe.",
+            "ro": "Încheiați turul cu o săritură în mare.",
+            "en": "End the tour with a jump into the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens entspannt entlang der Marina und weiter auf dem Küstenweg zu den Ruinen von Colentum.\n\nDer Weg führt durch schattige Pinienwälder zum Strand Podvrške, einem Paradies für Radfahrer.\n\nMittags erkunden Sie die Anhöhen rund um Murter mit der kleinen Rochus-Kirche.\n\nDie Tour endet am Strand Slanica, wo Sie Ihr Rad parken und den Nachmittag im Wasser genießen können.",
+        "hu": "Kerékpározzon reggel kényelmesen a kikötő mentén, majd tovább a parti úton Colentum romjaihoz.\n\nAz út árnyas fenyőerdőkön keresztül vezet a Podvrške-strandhoz, amely a kerékpárosok paradicsoma.\n\nDélben fedezze fel Murter környéki magaslatokat a kis Szent Rókus-templommal.\n\nA túra a Slanica-strandon ér véget, ahol leparkolhatja a biciklit, és a délutánt a vízben töltheti.",
+        "ro": "Pedalați dimineața relaxat de-a lungul marinei și continuați pe drumul de coastă spre ruinele din Colentum.\n\nTraseul trece prin păduri de pini umbroase spre plaja Podvrške, un paradis pentru bicicliști.\n\nLa prânz explorați înălțimile din jurul orașului Murter cu mica biserică Sfântul Rochus.\n\nTurul se încheie la plaja Slanica, unde vă puteți parca bicicleta și vă puteți bucura de după-amiază în apă.",
+        "en": "Cycle relaxed in the morning along the marina and further on the coastal path to the ruins of Colentum.\n\nThe path leads through shady pine forests to Podvrške beach, a paradise for cyclists.\n\nAt midday, explore the heights around Murter with the small St. Roch church.\n\nThe tour ends at Slanica beach, where you can park your bike and enjoy the afternoon in the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tic-Tac",
+            "tip": "Legendäre Fischsuppe und hausgemachte Pasta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tic-Tac",
+            "tip": "Legendás halleves és házi tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tic-Tac",
+            "tip": "Supă de pește legendară și paste de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tic-Tac",
+            "tip": "Legendary fish soup and homemade pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg um die Vrške-Halbinsel",
+            "tip": "Naturerlebnis pur direkt am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Vrške-félsziget körül",
+            "tip": "Tiszta természetélmény közvetlenül a víznél.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete în jurul peninsulei Vrške",
+            "tip": "Experiență în natură pură chiar lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path around Vrške Peninsula",
+            "tip": "Pure nature experience right by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle Murter",
+            "tip": "Kaufen Sie frisches Olivenöl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murteri olajütő",
+            "tip": "Vásároljon friss olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei Murter",
+            "tip": "Cumpărați ulei de măsline proaspăt direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oil mill Murter",
+            "tip": "Buy fresh olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenwege sind größtenteils flach und für alle Fitnessstufen geeignet.",
+          "Ein Helm ist auf den Schotterwegen rund um Colentum ratsam.",
+          "Meiden Sie die Mittagshitze im Hochsommer für längere Fahrten.",
+          "Leihen Sie sich ein E-Bike für die hügeligen Strecken im Inselinneren."
+        ],
+        "hu": [
+          "A parti utak nagyrészt síkok és minden edzettségi szintnek megfelelnek.",
+          "A Colentum körüli murvás utakon sisak viselése tanácsos.",
+          "A főszezonban kerülje a déli hőséget a hosszabb utakra.",
+          "Béreljen e-bike-ot a sziget belsejének dombos útvonalaihoz."
+        ],
+        "ro": [
+          "Drumurile de coastă sunt în mare parte plane și potrivite pentru toate nivelurile.",
+          "Se recomandă casca pe drumurile pietruite din jurul Colentum.",
+          "Evitați căldura de la prânz în plină vară pentru călătorii mai lungi.",
+          "Închiriați o bicicletă electrică pentru traseele deluroase din interiorul insulei."
+        ],
+        "en": [
+          "The coastal paths are mostly flat and suitable for all fitness levels.",
+          "A helmet is advisable on the gravel paths around Colentum.",
+          "Avoid the midday heat in midsummer for longer rides.",
+          "Rent an e-bike for the hilly routes in the island's interior."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Hramina",
+          "coords": [
+            15.591,
+            43.8225
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Hafeneingang vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a kikötő bejáratánál.",
+            "ro": "Parcare mare disponibilă chiar la intrarea în port.",
+            "en": "Large parking lot available right at the harbor entrance."
+          }
+        },
+        {
+          "name": "Archäologische Stätte Colentum",
+          "coords": [
+            15.5845,
+            43.8285
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Norden, Parken am Strand möglich.",
+            "hu": "Rövid út északra, parkolás a strandon lehetséges.",
+            "ro": "Drum scurt spre nord, parcare posibilă la plajă.",
+            "en": "Short drive north, parking possible at the beach."
+          }
+        },
+        {
+          "name": "Hügel Gradina",
+          "coords": [
+            15.586,
+            43.827
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aussichtspunkt ist per Auto fast bis oben erreichbar.",
+            "hu": "A kilátópont autóval szinte a tetejéig megközelíthető.",
+            "ro": "Punctul de belvedere este accesibil cu mașina aproape până sus.",
+            "en": "The viewpoint is reachable by car almost to the top."
+          }
+        },
+        {
+          "name": "Pfarrkirche des Hl. Michael",
+          "coords": [
+            15.5885,
+            43.8215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentral gelegen, Parkplatzsuche in der Nähe nötig.",
+            "hu": "Központi fekvésű, parkolóhely keresése szükséges a közelben.",
+            "ro": "Situat central, necesită căutarea unui loc de parcare în apropiere.",
+            "en": "Centrally located, parking search needed nearby."
+          }
+        },
+        {
+          "name": "Strand Podvrške",
+          "coords": [
+            15.58,
+            43.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Naturstrand, Parkgebühr im Sommer.",
+            "hu": "Gyönyörű természetes strand, nyáron parkolási díjjal.",
+            "ro": "Plajă naturală minunată, taxă de parcare vara.",
+            "en": "Beautiful natural beach, parking fee in summer."
+          }
+        },
+        {
+          "name": "Strand Slanica",
+          "coords": [
+            15.5785,
+            43.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Viel Platz, Bars und Restaurants in direkter Nähe.",
+            "hu": "Sok hely, bárok és éttermek a közvetlen közelben.",
+            "ro": "Mult spațiu, baruri și restaurante în imediata apropiere.",
+            "en": "Lots of space, bars and restaurants in immediate vicinity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Murter komfortabel mit dem Auto, beginnend am geschäftigen Yachthafen Hramina.\n\nBesuchen Sie die antike Stadt Colentum und den Gradina-Hügel, ohne weite Strecken zu Fuß zurücklegen zu müssen.\n\nMittags erkunden Sie die prächtige Pfarrkirche im Zentrum, bevor Sie zu den berühmtesten Stränden der Insel aufbrechen.\n\nDer Nachmittag gehört dem Strandleben in Slanica, wo Sie den Wagen bequem auf den großen Parkplätzen abstellen können.",
+        "hu": "Fedezze fel Murtert kényelmesen autóval, a nyüzsgő Hramina jachtkikötőből indulva.\n\nLátogasson el Colentum ókori városába és a Gradina-dombra anélkül, hogy hosszú távokat kellene gyalog megtennie.\n\nDélben fedezze fel a központi plébániatemplomot, mielőtt elindulna a sziget leghíresebb strandjaihoz.\n\nA délután a Slanica strandé, ahol kényelmesen leparkolhat a nagy parkolókban.",
+        "ro": "Descoperiți Murter confortabil cu mașina, începând de la portul de iahturi Hramina plin de viață.\n\nVizitați orașul antic Colentum și dealul Gradina fără a fi nevoie să parcurgeți distanțe mari pe jos.\n\nLa prânz explorați biserica parohială din centru înainte de a pleca spre cele mai faimoase plaje ale insulei.\n\nDupă-amiaza aparține plajei Slanica, unde vă puteți lăsa mașina confortabil în marile parcări.",
+        "en": "Discover Murter comfortably by car, starting from the busy Hramina marina.\n\nVisit the ancient city of Colentum and Gradina Hill without having to walk long distances.\n\nAt midday, explore the grand parish church in the center before heading to the island's most famous beaches.\n\nThe afternoon belongs to beach life in Slanica, where you can easily park your car in the large lots."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Reba",
+            "tip": "Familiäre Atmosphäre und riesige Portionen Grillfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Reba",
+            "tip": "Családias hangulat és hatalmas adag grillhúsok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Reba",
+            "tip": "Atmosferă familială și porții uriașe de carne la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Reba",
+            "tip": "Family atmosphere and huge portions of grilled meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Kirche des Hl. Rochus",
+            "tip": "Romantischer Blick über die roten Dächer von Murter.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Rókus-templom kilátója",
+            "tip": "Romantikus kilátás Murter piros tetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere de la biserica Sfântul Rochus",
+            "tip": "Vedere romantică peste acoperișurile roșii din Murter.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at St. Roch Church",
+            "tip": "Romantic view over the red roofs of Murter.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkellerei",
+            "tip": "Probieren Sie den Weißwein Debit direkt vom Fass."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászat",
+            "tip": "Kóstolja meg a Debit fehérbort közvetlenül a hordóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă locală",
+            "tip": "Gustați vinul alb Debit direct din butoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local winery",
+            "tip": "Taste the white wine Debit directly from the barrel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Hafen für den Besuch des Zentrums.",
+          "Die Straße zum Strand Slanica kann im Sommer sehr staubig und eng sein.",
+          "Ein Mietwagen ermöglicht auch den Besuch des nahegelegenen Nationalparks Krka.",
+          "Slanica bietet die beste Infrastruktur für einen ganzen Tag am Strand."
+        ],
+        "hu": [
+          "Használja a kikötői parkolókat a központ meglátogatásához.",
+          "A Slanica-strandra vezető út nyáron nagyon poros és szűk lehet.",
+          "A bérautó lehetővé teszi a közeli Krka Nemzeti Park meglátogatását is.",
+          "Slanica kínálja a legjobb infrastruktúrát egy egész napos strandoláshoz."
+        ],
+        "ro": [
+          "Folosiți parcările din port pentru a vizita centrul.",
+          "Drumul spre plaja Slanica poate fi foarte prăfuit și îngust vara.",
+          "O mașină închiriată permite și vizitarea parcului național Krka din apropiere.",
+          "Slanica oferini cea mai bună infrastructură pentru o zi întreagă la plajă."
+        ],
+        "en": [
+          "Use the harbor parking lots for visiting the center.",
+          "The road to Slanica beach can be very dusty and narrow in summer.",
+          "A rental car also allows for a visit to the nearby Krka National Park.",
+          "Slanica offers the best infrastructure for a full day at the beach."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marina Hramina",
+          "coords": [
+            15.591,
+            43.8225
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für alle regionalen Busse.",
+            "hu": "Központi érkezési pont minden regionális busz számára.",
+            "ro": "Punct central de sosire pentru toate autobuzele regionale.",
+            "en": "Central arrival point for all regional buses."
+          }
+        },
+        {
+          "name": "Pfarrkirche des Hl. Michael",
+          "coords": [
+            15.5885,
+            43.8215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Bushaltestelle im Zentrum.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz din centru.",
+            "en": "Short walk from the bus stop in the center."
+          }
+        },
+        {
+          "name": "Archäologische Stätte Colentum",
+          "coords": [
+            15.5845,
+            43.8285
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus gut per Fuß oder Lokalbus erreichbar.",
+            "hu": "A központtól gyalog vagy helyi busszal jól elérhető.",
+            "ro": "Accesibil bine pe jos sau cu autobuzul local din centru.",
+            "en": "Well accessible on foot or by local bus from the center."
+          }
+        },
+        {
+          "name": "Hügel Gradina",
+          "coords": [
+            15.586,
+            43.827
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben Colentum, kein extra Transport nötig.",
+            "hu": "Közvetlenül Colentum mellett, nincs szükség külön közlekedésre.",
+            "ro": "Chiar lângă Colentum, nu este nevoie de transport suplimentar.",
+            "en": "Right next to Colentum, no extra transport needed."
+          }
+        },
+        {
+          "name": "Strand Slanica",
+          "coords": [
+            15.5785,
+            43.8165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Im Sommer pendelt oft ein Touristenzug hierher.",
+            "hu": "Nyáron gyakran közlekedik ide városi kisvonat.",
+            "ro": "Vara circulă adesea un trenuleț turistic până aici.",
+            "en": "A tourist train often shuttles here in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie entspannt mit dem Bus in Murter an und starten Sie Ihre Erkundung am geschäftigen Hafen.\n\nBesuchen Sie die historische Michael-Kirche und wandern Sie zu den Ausgrabungen von Colentum auf der Nordseite des Ortes.\n\nMittags bietet sich der Gradina-Hügel für eine kurze Pause an, bevor Sie den lokalen Transit zum Slanica-Strand nutzen.\n\nGenießen Sie das Meer und den Sandstrand, bevor Sie am Nachmittag wieder den Bus für Ihre Rückreise nehmen.",
+        "hu": "Érkezzen pihenten busszal Murterbe, és kezdje a felfedezést a nyüzsgő kikötőben.\n\nLátogassa meg a történelmi Szent Mihály-templomot, és sétáljon el a Colentum ásatásokhoz a város északi oldalán.\n\nDélben a Gradina-domb kínál lehetőséget egy rövid pihenőre, mielőtt igénybe venné a helyi közlekedést a Slanica-strandhoz.\n\nÉlvezze a tengert és a homokos partot, mielőtt délután ismét buszra szállna a hazaúthoz.",
+        "ro": "Sosiți relaxat cu autobuzul în Murter și începeți explorarea în portul plin de viață.\n\nVizitați biserica istorică Sfântul Mihail și mergeți la săpăturile din Colentum pe partea de nord a orașului.\n\nLa prânz, dealul Gradina oferă ocazia pentru o scurtă pauză înainte de a folosi transportul local spre plaja Slanica.\n\nBucurați-vă de mare și de plaja cu nisip înainte de a lua din nou autobuzul după-amiaza pentru întoarcere.",
+        "en": "Arrive relaxed by bus in Murter and start your exploration at the busy harbor.\n\nVisit the historical St. Michael's Church and walk to the excavations of Colentum on the north side of town.\n\nAt midday, Gradina Hill offers a chance for a short break before using local transit to Slanica beach.\n\nEnjoy the sea and the sandy beach before taking the bus again in the afternoon for your return trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Lantana",
+            "tip": "Legendäre Pizza direkt am Strand Slanica."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Lantana",
+            "tip": "Legendás pizza közvetlenül a Slanica-strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Lantana",
+            "tip": "Pizza legendară chiar pe plaja Slanica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Lantana",
+            "tip": "Legendary pizza right on Slanica beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Hafen",
+            "tip": "Schattenbänke zum Ausruhen während der Wartezeit auf den Bus.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői park",
+            "tip": "Árnyas padok a pihenéshez a buszra várva.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din port",
+            "tip": "Bănci la umbră pentru odihnă în timpul așteptării autobuzului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Park",
+            "tip": "Shady benches for resting while waiting for the bus.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Tommy",
+            "tip": "Günstige Getränke und Snacks für die Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tommy szupermarket",
+            "tip": "Olcsó italok és harapnivalók az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Tommy",
+            "tip": "Băuturi și gustări ieftine pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tommy Supermarket",
+            "tip": "Cheap drinks and snacks for the journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bushaltestelle liegt sehr zentral am Rand der Marina.",
+          "Fragen Sie nach dem 'Tourist Train' (Vlak), der im Sommer die Strände anfährt.",
+          "Tickets nach Šibenik oder Zadar sollten im Sommer vorab gekauft werden.",
+          "Alles im Ort Murter ist für fitte Fußgänger auch ohne Bus gut erreichbar."
+        ],
+        "hu": [
+          "A buszmegálló központi helyen, a marina szélén található.",
+          "Kérdezzen rá a 'Tourist Train' (Vlak) kisvonatra, amely nyáron a strandokra jár.",
+          "A Šibenikbe vagy Zadarba szóló jegyeket nyáron érdemes előre megvenni.",
+          "Murterben minden jól elérhető gyalog is a fitt gyalogosok számára."
+        ],
+        "ro": [
+          "Stația de autobuz este situată central la marginea marinei.",
+          "Întrebați de 'Tourist Train' (Vlak), care merge la plaje în timpul verii.",
+          "Biletele spre Šibenik sau Zadar ar trebui cumpărate în avans vara.",
+          "Totul în orașul Murter este bine accesibil pe jos pentru pietonii în formă."
+        ],
+        "en": [
+          "The bus stop is very centrally located at the edge of the marina.",
+          "Ask for the 'Tourist Train' (Vlak), which runs to the beaches in summer.",
+          "Tickets to Šibenik or Zadar should be bought in advance in summer.",
+          "Everything in the town of Murter is easily accessible on foot for fit walkers."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Murter",
+    "county": "HR-15",
+    "coords": [
+      15.5878,
+      43.8208
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Croatia-1581",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tzo-murter.hr/",
+    "tourism_office": "https://www.tzo-murter.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": "https://www.murter-kornati.com/",
+    "museum_tickets": "https://www.np-kornati.hr/en/",
+    "parking_real_time": "https://en.parkopedia.com/parking/croatia/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; an der Küste sprechen viele Englisch und Italienisch, in der Saison auch Deutsch. Im Kornati-Nationalpark Ranger oft mehrsprachig.",
+      "hu": "A horvát a hivatalos; a parton sokan beszélnek angolul és olaszul, szezonban németül is. A Kornati Nemzeti Parkban a rangerek általában többnyelvűek.",
+      "ro": "Croata e oficială; pe coastă mulți vorbesc engleză și italiană, vara și germană. În Parcul Kornati rangerii sunt de obicei poligloți.",
+      "en": "Croatian is official; coastal locals widely speak English and Italian, German in season. Kornati NP rangers typically multilingual."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober für Kornati-Bootsausflüge; Hochsaison Juli/August voll, Juni und September ideal für Segeln und ACI-Marina Festivitäten.",
+      "hu": "Május-október a Kornati hajós kirándulások időszaka; július-augusztus zsúfolt, június és szeptember ideális vitorlázásra és ACI marina rendezvényekre.",
+      "ro": "Mai - octombrie pentru excursii cu barca în Kornati; iulie-august aglomerat, iunie și septembrie ideale pentru velier și evenimentele ACI marina.",
+      "en": "May to October for Kornati boat trips; July/August crowded, June and September ideal for sailing and ACI marina events."
+    },
+    "neighborhood_warnings": {
+      "de": "Kornati-Eintritt nur am Eingang oder über lizenzierte Anbieter kaufen, nicht von Schleppern am Kai; Bora-Wind kann Ausflüge kurzfristig absagen.",
+      "hu": "Kornati belépőt csak a bejáratnál vagy engedélyezett szolgáltatótól vegyél, ne a kikötői ajánlgatóktól; a bóra szél hirtelen lemondhatja a túrát.",
+      "ro": "Cumpărați biletul Kornati doar la intrare sau de la operatori licențiați, nu de la racolatori în port; vântul bora poate anula brusc excursiile.",
+      "en": "Buy Kornati entry only at the gate or via licensed operators, not from quay touts; bora wind can cancel excursions at short notice."
+    }
+  }
+}

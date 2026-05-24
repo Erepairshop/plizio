@@ -1,0 +1,1161 @@
+{
+  "city_id": "opatija",
+  "anchor": {
+    "name": "Opatija Center",
+    "coords": [
+      14.305,
+      45.338
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 2.2,
+      "stop_count": 10,
+      "stops": [
+        {
+          "name": {
+            "de": "Hotel Kvarner",
+            "hu": "Hotel Kvarner",
+            "ro": "Hotel Kvarner",
+            "en": "Hotel Kvarner"
+          },
+          "coords": [
+            14.3082,
+            45.3338
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaffee auf der legendären Terrasse genießen.",
+            "hu": "Kávézzon a legendás teraszon.",
+            "ro": "Savurați o cafea pe legendara terasă.",
+            "en": "Enjoy a coffee on the legendary terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Mädchen mit der Möwe",
+            "hu": "Leány a sirállyal",
+            "ro": "Fata cu Pescărușul",
+            "en": "Maiden with the Seagull"
+          },
+          "coords": [
+            14.3088,
+            45.3342
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das beste Fotomotiv bei Sonnenaufgang.",
+            "hu": "A legjobb fotótéma napfelkeltekor.",
+            "ro": "Cel mai bun loc pentru poze la răsărit.",
+            "en": "The best photo spot at sunrise."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Jakob",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "Church of Saint James"
+          },
+          "coords": [
+            14.3078,
+            45.3348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe im Stadtzentrum.",
+            "hu": "A nyugalom oázisa a városközpontban.",
+            "ro": "O oază de liniște în centrul orașului.",
+            "en": "An oasis of peace in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpavillon Juraj Šporer",
+            "hu": "Juraj Šporer Művészeti Pavilon",
+            "ro": "Pavilionul de Artă Juraj Šporer",
+            "en": "Juraj Šporer Art Pavilion"
+          },
+          "coords": [
+            14.308,
+            45.3349
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Wechselnde Kunstausstellungen.",
+            "hu": "Változatos művészeti kiállítások.",
+            "ro": "Expoziții de artă temporare.",
+            "en": "Rotating art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Angiolina",
+            "hu": "Villa Angiolina",
+            "ro": "Villa Angiolina",
+            "en": "Villa Angiolina"
+          },
+          "coords": [
+            14.3085,
+            45.3365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtvolle Architektur der Monarchie.",
+            "hu": "A monarchia pompás építészete.",
+            "ro": "Arhitectura magnifică a monarhiei.",
+            "en": "Magnificent monarchy architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kroatisches Tourismusmuseum",
+            "hu": "Horvát Turisztikai Múzeum",
+            "ro": "Muzeul Turismului Croat",
+            "en": "Croatian Museum of Tourism"
+          },
+          "coords": [
+            14.3085,
+            45.3365
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Einblick in die Geschichte des Kurortes.",
+            "hu": "Betekintés az üdülőhely történetébe.",
+            "ro": "O privire în istoria stațiunii.",
+            "en": "Insight into the resort's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Angiolina",
+            "hu": "Angiolina park",
+            "ro": "Parcul Angiolina",
+            "en": "Angiolina Park"
+          },
+          "coords": [
+            14.308,
+            45.337
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie die berühmte Kamelie.",
+            "hu": "Keresse meg a híres kaméliát.",
+            "ro": "Căutați faimoasa camelie.",
+            "en": "Look for the famous camellia."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Opatija",
+            "hu": "Opatijai kikötő",
+            "ro": "Portul Opatija",
+            "en": "Port of Opatija"
+          },
+          "coords": [
+            14.3105,
+            45.3392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause am Wasser.",
+            "hu": "Tökéletes egy rövid pihenőre a víznél.",
+            "ro": "Perfect pentru o scurtă pauză pe mal.",
+            "en": "Perfect for a short break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare-Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            14.306,
+            45.332
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die 12 km lange Küstenwanderung.",
+            "hu": "Élvezze a 12 km hosszú partmenti sétát.",
+            "ro": "Bucurați-vă de plimbarea de 12 km pe mal.",
+            "en": "Enjoy the 12 km long coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Slatina-Strand",
+            "hu": "Slatina-strand",
+            "ro": "Plaja Slatina",
+            "en": "Slatina Beach"
+          },
+          "coords": [
+            14.304,
+            45.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannung pur am Hauptstrand.",
+            "hu": "Tiszta kikapcsolódás a főstrandon.",
+            "ro": "Relaxare totală pe plaja principală.",
+            "en": "Pure relaxation at the main beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt aristokratisch auf der Terrasse des Hotels Kvarner. Mittags erkunden wir die Villa Angiolina und das Tourismusmuseum, um in die Geschichte der Monarchie einzutauchen. Der Nachmittag gehört der Meeresbrise der Lungomare-Promenade und den exotischen Pflanzen im Park Angiolina. Den Abend lassen wir am Slatina-Strand ausklingen, während die Sonne im Meer versinkt.",
+        "hu": "A reggel az arisztokratikus Kvarner-parton indul egy kávéval a történelmi hotel teraszán. Délben a Villa Angiolina és a Turisztikai Múzeum falai között ismerjük meg a múltat. Délután a Lungomare sétány sós levegője és az Angiolina park egzotikus növényei frissítenek fel. Az estét a Slatina-strand naplementéje és egy tengerparti pihenő koronázza meg.",
+        "ro": "Dimineața începe aristocratic pe terasa Hotelului Kvarner, cu o cafea în stil imperial. La prânz, explorăm Villa Angiolina și Muzeul Turismului, descoperind istoria locală. După-amiaza este dedicată brizei marine de pe faleza Lungomare și plantelor exotice din Parcul Angiolina. Seara se încheie la plaja Slatina, admirând apusul de pe malul mării.",
+        "en": "The morning starts with an aristocratic flair on the terrace of Hotel Kvarner. At midday, we explore Villa Angiolina and the Tourism Museum to dive into the resort's history. The afternoon is spent enjoying the sea breeze on the Lungomare promenade and the exotic flora of Angiolina Park. The evening concludes at Slatina Beach, watching the sunset over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kvarner-Scampi",
+            "tip": "Probieren Sie diese Delikatesse im Restaurant Bevanda."
+          },
+          {
+            "name": "Marunada",
+            "tip": "Spezialitäten aus Edelkastanien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvarneri skampi",
+            "tip": "Kóstolja meg a Bevanda étteremben."
+          },
+          {
+            "name": "Marunada",
+            "tip": "Szelídgesztenyés különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scampi de Kvarner",
+            "tip": "Gustați-i la restaurantul Bevanda."
+          },
+          {
+            "name": "Marunada",
+            "tip": "Specialități din castane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvarner Scampi",
+            "tip": "Try this delicacy at Bevanda restaurant."
+          },
+          {
+            "name": "Marunada",
+            "tip": "Chestnut-based specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungomare Bänke",
+            "tip": "Meeresblick genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Angiolina",
+            "tip": "Stiller Ort bei den Palmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungomare padok",
+            "tip": "Tengeri kilátás.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Angiolina park",
+            "tip": "Csendes hely a pálmák között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci Lungomare",
+            "tip": "Vedere la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Angiolina",
+            "tip": "Loc liniștit printre palmieri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungomare benches",
+            "tip": "Enjoy the sea view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Angiolina Park",
+            "tip": "Quiet spot among palms.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Opatija Markt",
+            "tip": "Lokale Produkte und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Opatijai piac",
+            "tip": "Helyi termékek és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Opatija",
+            "tip": "Produse locale și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Opatija Market",
+            "tip": "Local products and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe tragen.",
+          "Sonnenschutz nicht vergessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt.",
+          "Ne felejtse el a fényvédőt."
+        ],
+        "ro": [
+          "Purtați pantofi comozi.",
+          "Nu uitați protecția solară."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Don't forget sun protection."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Opatija",
+            "hu": "Opatijai kikötő",
+            "ro": "Portul Opatija",
+            "en": "Port of Opatija"
+          },
+          "coords": [
+            14.3105,
+            45.3392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Radtouren.",
+            "hu": "Kiindulópont kerékpártúrákhoz.",
+            "ro": "Punct de plecare pentru ture cu bicicleta.",
+            "en": "Starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Angiolina",
+            "hu": "Angiolina park",
+            "ro": "Parcul Angiolina",
+            "en": "Angiolina Park"
+          },
+          "coords": [
+            14.308,
+            45.337
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrrad kurz abstellen und spazieren.",
+            "hu": "Tegye le a biciklit és sétáljon.",
+            "ro": "Lăsați bicicleta și plimbați-vă.",
+            "en": "Park your bike and take a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Angiolina",
+            "hu": "Villa Angiolina",
+            "ro": "Villa Angiolina",
+            "en": "Villa Angiolina"
+          },
+          "coords": [
+            14.3085,
+            45.3365
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historisches Zentrum besichtigen.",
+            "hu": "Tekintse meg a történelmi központot.",
+            "ro": "Vizitați centrul istoric.",
+            "en": "Visit the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Mädchen mit der Möwe",
+            "hu": "Leány a sirállyal",
+            "ro": "Fata cu Pescărușul",
+            "en": "Maiden with the Seagull"
+          },
+          "coords": [
+            14.3088,
+            45.3342
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp am Meer.",
+            "hu": "Rövid fotómegálló a tengernél.",
+            "ro": "Scurt popas foto la mare.",
+            "en": "Short photo stop by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare-Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            14.306,
+            45.332
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vorsicht bei Fußgängern auf dem Weg.",
+            "hu": "Vigyázzon a gyalogosokra az úton.",
+            "ro": "Atenție la pietonii de pe drum.",
+            "en": "Watch out for pedestrians on the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Slatina-Strand",
+            "hu": "Slatina-strand",
+            "ro": "Plaja Slatina",
+            "en": "Slatina Beach"
+          },
+          "coords": [
+            14.304,
+            45.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verdiente Erfrischung nach der Tour.",
+            "hu": "Megérdemelt felfrissülés a túra után.",
+            "ro": "Răcorire binemeritată după tură.",
+            "en": "Well-deserved refreshment after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Riviera von Opatija auf zwei Rädern. Wir starten am Hafen und radeln durch den schattigen Park Angiolina bis zum Slatina-Strand. Die Meeresbrise ist der perfekte Begleiter für diesen aktiven Vormittag.",
+        "hu": "Fedezze fel az Abbáziai Riviérát két keréken. A kikötőtől indulunk, árnyas parkokon át egészen a Slatina-strandig. A tengeri szellő tökéletes társ ehhez az aktív délelőtthöz.",
+        "ro": "Explorați Riviera Opatija pe două roți. Pornim din port și pedalăm prin parcurile umbrite până la plaja Slatina. Briza mării este partenerul perfect pentru această dimineață activă.",
+        "en": "Explore the Opatija Riviera on two wheels. We start at the port and cycle through shaded parks all the way to Slatina Beach. The sea breeze is the perfect companion for this active morning."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis am Hafen",
+            "tip": "Erfrischung zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt a kikötőben",
+            "tip": "Felfrissülés útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată în port",
+            "tip": "Răcorire pe parcurs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice cream at the port",
+            "tip": "Refreshment on the way."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleine Buchten",
+            "tip": "Stopps entlang der Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis öblök",
+            "tip": "Megállók a part mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici golfuri",
+            "tip": "Opriri de-a lungul coastei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Small bays",
+            "tip": "Stops along the coast.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs Slatina",
+            "tip": "Kleine Andenken kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slatina szuvenír",
+            "tip": "Vásároljon apró emlékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Slatina",
+            "tip": "Cumpărați mici amintiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slatina souvenirs",
+            "tip": "Buy small mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Helmpflicht beachten.",
+          "Genügend Wasser mitnehmen."
+        ],
+        "hu": [
+          "Ügyeljen a sisak használatára.",
+          "Vigyen elég vizet."
+        ],
+        "ro": [
+          "Respectați purtarea căștii.",
+          "Luați destulă apă."
+        ],
+        "en": [
+          "Observe helmet rules.",
+          "Take enough water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:30",
+      "end_estimate": "16:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Slatina-Strand",
+            "hu": "Slatina-strand",
+            "ro": "Plaja Slatina",
+            "en": "Slatina Beach"
+          },
+          "coords": [
+            14.304,
+            45.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus in der Nähe nutzen.",
+            "hu": "Használja a közeli parkolóházat.",
+            "ro": "Folosiți parcarea din apropiere.",
+            "en": "Use the nearby parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Mädchen mit der Möwe",
+            "hu": "Leány a sirállyal",
+            "ro": "Fata cu Pescărușul",
+            "en": "Maiden with the Seagull"
+          },
+          "coords": [
+            14.3088,
+            45.3342
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Angiolina",
+            "hu": "Villa Angiolina",
+            "ro": "Villa Angiolina",
+            "en": "Villa Angiolina"
+          },
+          "coords": [
+            14.3085,
+            45.3365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Ort für Besichtigungen.",
+            "hu": "Központi hely a városnézéshez.",
+            "ro": "Loc central pentru vizitare.",
+            "en": "Central spot for sightseeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Opatija",
+            "hu": "Opatijai kikötő",
+            "ro": "Portul Opatija",
+            "en": "Port of Opatija"
+          },
+          "coords": [
+            14.3105,
+            45.3392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Blick auf die Boote.",
+            "hu": "Szép kilátás a hajókra.",
+            "ro": "Vedere frumoasă la bărci.",
+            "en": "Beautiful view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Angiolina",
+            "hu": "Angiolina park",
+            "ro": "Parcul Angiolina",
+            "en": "Angiolina Park"
+          },
+          "coords": [
+            14.308,
+            45.337
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannung vor der Heimfahrt.",
+            "hu": "Pihenés a hazautazás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before driving home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bequeme Tour durch Opatija. Mit dem Auto erreichen wir die wichtigsten Punkte schnell und verbringen mehr Zeit mit Entspannung in den Gärten und am Meer.",
+        "hu": "Kényelmes túra Abbáziában. Autóval gyorsan elérjük a főbb pontokat, így több idő jut a kertekben és a tengerparton való pihenésre.",
+        "ro": "Tur confortabil în Opatija. Cu mașina ajungem rapid la punctele principale, având mai mult timp pentru relaxare în grădini și la mare.",
+        "en": "A comfortable tour through Opatija. By car, we reach the main spots quickly, leaving more time for relaxation in the gardens and by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Fischrestaurant",
+            "tip": "Frischer Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi halétterem",
+            "tip": "Friss napi fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant local de pește",
+            "tip": "Captură proaspătă a zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local fish restaurant",
+            "tip": "Fresh catch of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbänke",
+            "tip": "Ruhiger Platz im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parki padok",
+            "tip": "Csendes hely az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în parc",
+            "tip": "Loc liniștit la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park benches",
+            "tip": "Quiet spot in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen Zentrum",
+            "tip": "Einkaufen in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Vásárlás a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri în centru",
+            "tip": "Cumpărături în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center boutiques",
+            "tip": "Shopping in the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren beachten.",
+          "Früh parken, da Plätze begrenzt sind."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási díjakra.",
+          "Parkoljon korán a kevés hely miatt."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare.",
+          "Parcați devreme, locurile sunt limitate."
+        ],
+        "en": [
+          "Watch out for parking fees.",
+          "Park early as spots are limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:15",
+      "end_estimate": "15:30",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Slatina-Strand",
+            "hu": "Slatina-strand",
+            "ro": "Plaja Slatina",
+            "en": "Slatina Beach"
+          },
+          "coords": [
+            14.304,
+            45.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuz.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Jakob",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "Church of Saint James"
+          },
+          "coords": [
+            14.3078,
+            45.3348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Angiolina",
+            "hu": "Villa Angiolina",
+            "ro": "Villa Angiolina",
+            "en": "Villa Angiolina"
+          },
+          "coords": [
+            14.3085,
+            45.3365
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einfach erreichbar mit Linie 32.",
+            "hu": "Könnyen elérhető a 32-es busszal.",
+            "ro": "Ușor accesibil cu linia 32.",
+            "en": "Easily accessible by bus line 32."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Opatija",
+            "hu": "Opatijai kikötő",
+            "ro": "Portul Opatija",
+            "en": "Port of Opatija"
+          },
+          "coords": [
+            14.3105,
+            45.3392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Startpunkt für den Hafen.",
+            "hu": "Szép kezdőpont a kikötőhöz.",
+            "ro": "Punct frumos de start spre port.",
+            "en": "Nice starting point for the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare-Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            14.306,
+            45.332
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zurück zum Zentrum spazieren.",
+            "hu": "Sétáljon vissza a központba.",
+            "ro": "Plimbați-vă înapoi spre centru.",
+            "en": "Walk back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Opatija entspannt zu erkunden. Die Linie 32 verbindet alle wichtigen Orte an der Riviera.",
+        "hu": "Használja a helyi buszokat Opatija nyugodt felfedezéséhez. A 32-es járat összeköti a riviéra összes fontos helyét.",
+        "ro": "Folosiți autobuzele locale pentru a explora relaxat Opatija. Linia 32 leagă toate locurile importante de pe rivieră.",
+        "en": "Use local buses to explore Opatija in a relaxed way. Line 32 connects all the important spots on the riviera."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Busbahnhof",
+            "tip": "Frische Burek probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a buszpályaudvarnál",
+            "tip": "Kóstolja meg a friss bureket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă autogară",
+            "tip": "Încercați burek proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery by the bus station",
+            "tip": "Try fresh burek."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenbänke",
+            "tip": "Zusehen, wie die Zeit vergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői padok",
+            "tip": "Nézze, ahogy telik az idő.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în port",
+            "tip": "Priviți cum trece timpul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port benches",
+            "tip": "Watch time go by.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zeitungskiosk",
+            "tip": "Lokale Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos",
+            "tip": "Helyi képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de ziare",
+            "tip": "Vederi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newsstand",
+            "tip": "Local postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrplan online prüfen.",
+          "Kleingeld für den Bus bereithalten."
+        ],
+        "hu": [
+          "Ellenőrizze a menetrendet online.",
+          "Legyen aprópénze a buszhoz."
+        ],
+        "ro": [
+          "Verificați orarul online.",
+          "Pregătiți mărunțiș pentru autobuz."
+        ],
+        "en": [
+          "Check schedule online.",
+          "Have small change ready for the bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-08",
+    "coords": [
+      14.305,
+      45.338
+    ],
+    "transit_official": "https://www.autotrolej.hr/",
+    "transit_app": "https://voznired.autotrolej.hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitopatija.com/en/calendar-of-events",
+    "tourism_office": "https://www.visitopatija.com/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/opatija/opatija.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": "https://dpk.rao.hr/",
+    "language_tips": {
+      "de": [
+        "Dobar dan (do-bar dahn) — Guten Tag",
+        "Hvala (hva-lah) — Danke",
+        "Molim (mo-lim) — Bitte"
+      ],
+      "hu": [
+        "Dobar dan (do-bar dán) — Jó napot",
+        "Hvala (hvá-la) — Köszönöm",
+        "Molim (mó-lim) — Kérem"
+      ],
+      "ro": [
+        "Dobar dan (do-bar dan) — Bună ziua",
+        "Hvala (hva-la) — Mulțumesc",
+        "Molim (mo-lim) — Vă rog"
+      ],
+      "en": [
+        "Dobar dan (DOH-bar dahn) — Good day",
+        "Hvala (HVAH-lah) — Thank you",
+        "Molim (MOH-leem) — Please"
+      ]
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober für Lungomare-Spaziergänge in mildem Klima; Karneval im Februar; Sommer mild dank Brise.",
+      "hu": "Április-június és szeptember-október ideális a Lungomare-séhányoz enyhe éghajlatban; februári karnevál; a nyár a tengeri szellő miatt kellemes.",
+      "ro": "Aprilie-iunie și septembrie-octombrie pentru plimbări pe Lungomare; carnaval în februarie; vara este blândă datorită brizei.",
+      "en": "April-June and September-October for Lungomare walks in mild weather; Carnival in February; summer is mild thanks to sea breeze."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher und gepflegt; Parkplätze in der Innenstadt sind knapp und teuer — Park-and-Walk wird empfohlen.",
+      "hu": "Nagyon biztonságos és ápolt; a belvárosi parkolóhelyek szűkösek és drágák, érdemes a város szélén parkolni.",
+      "ro": "Foarte sigur și îngrijit; locurile de parcare din centru sunt limitate și scumpe, parcați la margine și mergeți pe jos.",
+      "en": "Very safe and well-kept; downtown parking is scarce and pricey — park on the outskirts and walk."
+    }
+  }
+}

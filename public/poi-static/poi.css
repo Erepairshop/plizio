@@ -629,3 +629,26 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-pract-value{font-size:.88rem;color:rgba(255,255,255,.88);line-height:1.4;word-break:break-word}
 .plz-pract-value a{color:#4cc6ff;text-decoration:none}
 .plz-pract-value a:hover{text-decoration:underline}
+
+/* PlizioGo collapsibles + swipe dots + hint v=20260524i */
+.plz-itin-collapse{margin-top:1.1rem;border-radius:10px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);overflow:hidden}
+.plz-itin-collapse summary{list-style:none;cursor:pointer;padding:.75rem 1rem;display:flex;align-items:center;justify-content:space-between;gap:.5rem;color:#e6ecf3;font-weight:600;font-size:.95rem;background:rgba(255,255,255,.04);transition:background .15s}
+.plz-itin-collapse summary::-webkit-details-marker{display:none}
+.plz-itin-collapse summary:hover{background:rgba(255,255,255,.08)}
+.plz-itin-collapse-arrow{font-size:.78rem;color:rgba(255,255,255,.55);transition:transform .25s}
+.plz-itin-collapse[open] .plz-itin-collapse-arrow{transform:rotate(180deg);color:#4cc6ff}
+.plz-itin-collapse[open] summary{background:rgba(76,198,255,.08);color:#4cc6ff}
+.plz-itin-collapse > div{padding:.85rem 1rem 1rem}
+.plz-itin-resources-collapse summary{background:rgba(255,174,92,.07)}
+.plz-itin-resources-collapse[open] summary{background:rgba(255,174,92,.18);color:#ffae5c}
+.plz-itin-resources-collapse[open] .plz-itin-collapse-arrow{color:#ffae5c}
+
+/* Swipe-dots + hint */
+.plz-itin-swipe-hint{display:none;text-align:center;font-size:.78rem;color:rgba(255,255,255,.5);margin-bottom:.35rem;font-style:italic}
+.plz-itin-dots{display:flex;justify-content:center;gap:.35rem;margin:.5rem 0 .25rem;flex-wrap:wrap}
+.plz-itin-dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.18);transition:all .2s}
+.plz-itin-dot.active{background:#4cc6ff;transform:scale(1.3);box-shadow:0 0 6px rgba(76,198,255,.5)}
+@media (max-width:640px){
+  .plz-itin-swipe-hint{display:block}
+  .plz-itin-dots{margin:.6rem 0}
+}

@@ -1,0 +1,1167 @@
+{
+  "city_id": "baska-krk",
+  "anchor": {
+    "name": "Baška",
+    "coords": [
+      14.7561,
+      44.97
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság plébániatemplom",
+            "ro": "Biserica parohială Sfânta Treime",
+            "en": "Parish Church of the Holy Trinity"
+          },
+          "coords": [
+            14.7592,
+            44.9695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das wertvolle Altarbild der Heiligen Dreifaltigkeit.",
+            "hu": "Csodáld meg a Szentháromságot ábrázoló értékes oltárképet.",
+            "ro": "Admirați altarul valoros dedicat Sfintei Treimi.",
+            "en": "Admire the valuable altarpiece depicting the Holy Trinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Baška",
+            "hu": "Baškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Baška",
+            "en": "Baška Heritage Museum"
+          },
+          "coords": [
+            14.7601,
+            44.9691
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche ethnografische Sammlung der Insel.",
+            "hu": "Fedezd fel a sziget gazdag néprajzi gyűjteményét.",
+            "ro": "Descoperiți bogata colecție etnografică a insulei.",
+            "en": "Explore the rich ethnographic collection of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Plaža (Großer Strand)",
+            "hu": "Vela Plaža (Nagy strand)",
+            "ro": "Vela Plaža (Plaja Mare)",
+            "en": "Vela Plaža (Great Beach)"
+          },
+          "coords": [
+            14.7545,
+            44.9682
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser und fast 2 km Kieselstrand erwarten Sie.",
+            "hu": "Kristálytiszta víz és közel 2 km kavicsos part vár rád.",
+            "ro": "Apa de cristal și aproape 2 km de plajă cu pietriș vă așteaptă.",
+            "en": "Crystal clear water and nearly 2 km of pebble beach await you."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfad der glagolitischen Schrift",
+            "hu": "Glagolita ösvény",
+            "ro": "Calea scrierii glagolitice",
+            "en": "Glagolitic Path"
+          },
+          "coords": [
+            14.7565,
+            44.9721
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Finden Sie die steinernen Buchstaben, die das Alphabet ehren.",
+            "hu": "Keresd meg az ábécé előtt tisztelgő kőbetűket.",
+            "ro": "Căutați literele de piatră care onorează alfabetul.",
+            "en": "Find the stone letters honoring the ancient alphabet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            14.7642,
+            44.9751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den besten Panoramablick über die gesamte Bucht.",
+            "hu": "Élvezd a legjobb panorámát az egész öbölre.",
+            "ro": "Bucurați-vă de cea mai bună panoramă asupra întregului golf.",
+            "en": "Enjoy the best panoramic view over the entire bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Bunculuka",
+            "hu": "Bunculuka strand",
+            "ro": "Plaja Bunculuka",
+            "en": "Bunculuka Beach"
+          },
+          "coords": [
+            14.7711,
+            44.9723
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein malerischer Strand, umgeben von Pinien und Felsen.",
+            "hu": "Festői strand fenyőfákkal és sziklákkal körülvéve.",
+            "ro": "O plajă pitorească înconjurată de pini și stânci.",
+            "en": "A picturesque beach surrounded by pine trees and rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt von Baška. Nach dem Besuch der barocken Pfarrkirche tauchen Sie im Heimatmuseum in die lokale Geschichte ein. Der Vormittag gehört dem berühmten Vela Plaža, wo das türkisfarbene Meer zur Erfrischung einlädt.\n\nMittags schlendern Sie entlang der Strandpromenade und entdecken die ersten Stationen des glagolitischen Pfades. Die steinernen Monumente erzählen von der frühen slawischen Schriftkultur und führen Sie sanft aus dem geschäftigen Zentrum heraus.\n\nAm Nachmittag steigen Sie hinauf zur Kirche des Heiligen Johannes. Der Weg wird mit einem atemberaubenden Blick über die Bucht und die Insel Prvić belohnt. Es ist ein Ort der Stille und der perfekten Fotomotive über den roten Dächern von Baška.\n\nDen frühen Abend lassen Sie in der Bucht von Bunculuka ausklingen. Die Kombination aus weißem Kies, grünen Pinien und dem Rauschen der Adria bietet den idealen Abschluss für einen Tag voller Kultur und Naturerlebnisse.",
+        "hu": "Kezdd a napot Baška óvárosának szívében. A barokk plébániatemplom megtekintése után merülj el a helyi történelemben a Helytörténeti Múzeumban. A délelőtt a híres Vela Plaža strandé, ahol a türkizkék tenger frissítő vizét élvezheted.\n\nEbéd után sétálj végig a tengerparti sétányon, és fedezd fel a Glagolita ösvény első állomásait. A kőmonumentumok a korai szláv íráskultúráról mesélnek, és finoman kivezetnek a nyüzsgő központból.\n\nDélután kapaszkodj fel a Keresztelő Szent János-templomhoz. Az utat lélegzetelállító kilátás jutalmazza az öbölre és Prvić szigetére. Ez a nyugalom helye, tökéletes fotótémákkal Baška vörös tetői felett.\n\nA kora estét a Bunculuka-öbölben zárd le. A fehér kavicsok, a zöld fenyők és az Adria morajlása ideális befejezést kínál egy kultúrával és természeti élményekkel teli naphoz.",
+        "ro": "Începeți ziua în inima orașului vechi Baška. După vizitarea bisericii parohiale baroce, scufundați-vă în istoria locală la Muzeul de Istorie. Dimineața aparține celebrei plaje Vela Plaža, unde marea turcoaz vă invită la relaxare.\n\nLa prânz, plimbați-vă de-a lungul falezei și descoperiți primele stații ale căii glagolitice. Monumentele de piatră povestesc despre cultura timpurie a scrierii slave și vă conduc ușor în afara centrului aglomerat.\n\nDupă-amiaza, urcați la biserica Sfântul Ioan Botezătorul. Drumul este răsplătit cu o vedere uluitoare asupra golfului și a insulei Prvić. Este un loc al liniștii și al motivelor fotografice perfecte deasupra acoperișurilor roșii din Baška.\n\nÎncheiați seara devreme în golful Bunculuka. Combinația de pietriș alb, pini verzi și vuietul Adriaticii oferă finalul ideal pentru o zi plină de cultură și experiențe în natură.",
+        "en": "Start your day in the heart of Baška's old town. After visiting the baroque parish church, dive into local history at the Heritage Museum. The morning is dedicated to the famous Vela Plaža beach, where the turquoise sea invites you for a swim.\n\nAt midday, stroll along the seaside promenade and discover the first stations of the Glagolitic Path. The stone monuments tell the story of early Slavic writing culture and lead you gently away from the bustling center.\n\nIn the afternoon, climb up to the Church of St. John the Baptist. The path is rewarded with a breathtaking view over the bay and the island of Prvić. it is a place of silence and perfect photo opportunities above the red roofs of Baška.\n\nEnd the early evening in the Bunculuka bay. The combination of white pebbles, green pines, and the sound of the Adriatic offers the ideal conclusion to a day full of culture and natural experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šurlice mit Garnelen",
+            "tip": "Probieren Sie diese handgemachte lokale Pasta im Restaurant Cicibela."
+          },
+          {
+            "name": "Krk-Lamm",
+            "tip": "Eine Spezialität der Insel, am besten unter der 'Peka' Glocke zubereitet."
+          },
+          {
+            "name": "Presnac",
+            "tip": "Ein traditioneller Kuchen aus Schafskäse, ein Muss für Naschkatzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šurlice garnélával",
+            "tip": "Kóstold meg ezt a kézzel készült tésztát a Cicibela étteremben."
+          },
+          {
+            "name": "Krki bárány",
+            "tip": "A sziget specialitása, legfinomabb 'peka' alatt sütve."
+          },
+          {
+            "name": "Presnac",
+            "tip": "Hagyományos juhtúrós sütemény, az édesszájúak kedvence."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šurlice cu creveți",
+            "tip": "Gustați aceste paste locale făcute manual la restaurantul Cicibela."
+          },
+          {
+            "name": "Miel de Krk",
+            "tip": "O specialitate a insulei, cel mai bine preparată sub clopotul 'peka'."
+          },
+          {
+            "name": "Presnac",
+            "tip": "O prăjitură tradițională din brânză de oaie, obligatorie pentru gurmanzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šurlice with Shrimps",
+            "tip": "Try this handmade local pasta at Restaurant Cicibela."
+          },
+          {
+            "name": "Krk Lamb",
+            "tip": "A specialty of the island, best prepared under the 'peka' iron bell."
+          },
+          {
+            "name": "Presnac",
+            "tip": "A traditional sheep cheese cake, a must for dessert lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am Hl. Johannes",
+            "tip": "Ein Ort tiefer Stille mit Blick auf das weite Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kiefernwälder von Bunculuka",
+            "tip": "Schatten und Meeresbrise abseits der Massen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kleine Buchten Richtung Süden",
+            "tip": "Einsame Plätze für ein ruhiges Bad am Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent János temető",
+            "tip": "A mély csend helye, kilátással a nyílt tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bunculuka fenyvesek",
+            "tip": "Árnyék és tengeri szellő a tömegtől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Déli kis öblök",
+            "tip": "Elhagyatott helyek egy nyugodt reggeli úszáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de la Sf. Ioan",
+            "tip": "Un loc de liniște profundă cu vedere la marea liberă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurile de pini din Bunculuka",
+            "tip": "Umbră și briză marină departe de mulțime.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Micile golfuri spre sud",
+            "tip": "Locuri izolate pentru o baie liniștită dimineața.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. John's Cemetery",
+            "tip": "A place of deep silence with views of the open sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pine forests of Bunculuka",
+            "tip": "Shade and sea breeze away from the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Small coves to the south",
+            "tip": "Secluded spots for a quiet morning swim.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glagolitische Steine",
+            "tip": "Kleine handmeißelte Nachbildungen der Baška-Tafel."
+          },
+          {
+            "name": "Krker Olivenöl",
+            "tip": "Kaltgepresstes, goldgelbes Öl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glagolita kövek",
+            "tip": "A Baškai Tábla kisméretű, kézzel vésett másolatai."
+          },
+          {
+            "name": "Krki olívaolaj",
+            "tip": "Hidegen sajtolt, aranysárga olaj közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pietre glagolitice",
+            "tip": "Mici replici dăltuite manual ale Tablei de la Baška."
+          },
+          {
+            "name": "Ulei de măsline din Krk",
+            "tip": "Ulei presat la rece, auriu, direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glagolitic Stones",
+            "tip": "Small hand-chiseled replicas of the Baška Tablet."
+          },
+          {
+            "name": "Krk Olive Oil",
+            "tip": "Cold-pressed, golden oil directly from the local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zum Hl. Johannes.",
+          "Besuchen Sie den großen Strand früh am Morgen, um die besten Plätze zu sichern.",
+          "Achten Sie auf die Bora-Winde, die hier sehr stark sein können.",
+          "Die Glagolita-Buchstaben sind im ganzen Tal verstreut, halten Sie die Augen offen.",
+          "Nutzen Sie die Promenade für einen abendlichen Spaziergang bis zum Hafen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a Szent János-templomhoz vezető úton.",
+          "Érkezz korán a nagy strandra, hogy biztosítsd a legjobb helyeket.",
+          "Figyelj a bóra szélre, amely itt nagyon erős lehet.",
+          "A glagolita betűk az egész völgyben szét vannak szórva, tartsd nyitva a szemed.",
+          "Használd a sétányt egy esti sétához egészen a kikötőig."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la Sf. Ioan.",
+          "Vizitați plaja mare dimineața devreme pentru a prinde cele mai bune locuri.",
+          "Atenție la vântul Bora, care poate fi foarte puternic aici.",
+          "Literele glagolitice sunt împrăștiate prin toată valea, fiți atenți.",
+          "Folosiți faleza pentru o plimbare de seară până în port."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to St. John's church.",
+          "Visit the main beach early in the morning to secure the best spots.",
+          "Watch out for the Bora wind, which can be very strong here.",
+          "The Glagolitic letters are scattered throughout the valley, keep your eyes open.",
+          "Use the promenade for an evening stroll all the way to the harbor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Hl. Lucia in Jurandvor",
+            "hu": "Szent Lúcia-templom, Jurandvor",
+            "ro": "Biserica Sfânta Lucia din Jurandvor",
+            "en": "Church of St. Lucy in Jurandvor"
+          },
+          "coords": [
+            14.7431,
+            44.9811
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Hier wurde die berühmte Baška-Tafel, das älteste kroatische Schriftdokument, gefunden.",
+            "hu": "Itt találták a híres Baškai Táblát, a legrégebbi horvát írásos emléket.",
+            "ro": "Aici a fost găsită faimoasa Tablă de la Baška, cel mai vechi document scris croat.",
+            "en": "The famous Baška Tablet, the oldest Croatian written document, was found here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfad der glagolitischen Schrift",
+            "hu": "Glagolita ösvény",
+            "ro": "Calea scrierii glagolitice",
+            "en": "Glagolitic Path"
+          },
+          "coords": [
+            14.7565,
+            44.9721
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Rad lassen sich die weit verstreuten Steinbuchstaben perfekt erkunden.",
+            "hu": "Biciklivel tökéletesen felfedezhetők a távolabb eső kőbetűk is.",
+            "ro": "Cu bicicleta puteți explora perfect literele de piatră dispersate.",
+            "en": "By bike, you can perfectly explore the widely scattered stone letters."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Plaža (Großer Strand)",
+            "hu": "Vela Plaža (Nagy strand)",
+            "ro": "Vela Plaža (Plaja Mare)",
+            "en": "Vela Plaža (Great Beach)"
+          },
+          "coords": [
+            14.7545,
+            44.9682
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die gesamte Länge der Strandpromenade ab.",
+            "hu": "Tekerj végig a tengerparti sétány teljes hosszában.",
+            "ro": "Parcurgeți cu bicicleta întreaga lungime a falezei.",
+            "en": "Cycle the entire length of the beach promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Weg zum Mond",
+            "hu": "Út a Holdra",
+            "ro": "Drumul spre Lună",
+            "en": "Way to the Moon"
+          },
+          "coords": [
+            14.7645,
+            44.9755
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein anspruchsvoller Aufstieg, der mit einer bizarren Karstlandschaft belohnt wird.",
+            "hu": "Kihívást jelentő emelkedő, amit bizarr karsztvidék koronáz meg.",
+            "ro": "O urcare solicitantă, răsplătită cu un peisaj carstic bizar.",
+            "en": "A challenging climb rewarded with a bizarre karst landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Bunculuka",
+            "hu": "Bunculuka strand",
+            "ro": "Plaja Bunculuka",
+            "en": "Bunculuka Beach"
+          },
+          "coords": [
+            14.7711,
+            44.9723
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekter Endpunkt für eine Radtour durch das Baška-Tal.",
+            "hu": "Tökéletes végpont egy Baška-völgyi kerékpártúrához.",
+            "ro": "Punct final perfect pentru o tură cu bicicleta prin valea Baška.",
+            "en": "Perfect end point for a bike tour through the Baška valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in das grüne Hinterland nach Jurandvor. In der Kirche der Heiligen Lucia erfahren Sie alles über die Ursprünge der kroatischen Schrift. Die flache Strecke durch das Tal ist der ideale Warm-up für den Tag.\n\nAm späten Vormittag kehren Sie Richtung Küste zurück und folgen dem Glagolitischen Pfad. Mit dem Fahrrad erreichen Sie auch die entlegeneren Buchstaben-Monumente mühelos, bevor Sie zur lebhaften Vela Plaža gelangen, um dort die Mittagssonne zu genießen.\n\nDer Nachmittag wird sportlich: Der 'Weg zum Mond' führt Sie steil hinauf in eine völlig andere Welt. Die karge Steinwüste oberhalb von Baška erinnert tatsächlich an eine Mondlandschaft und bietet unglaubliche Weitblicke über das Kvarner-Archipel.\n\nZurück im Tal radeln Sie entspannt zum Strand Bunculuka. Nach der Anstrengung des Aufstiegs ist ein Sprung in das kühle Nass der versteckten Bucht die beste Belohnung, bevor Sie die Tour im Hafen von Baška bei einem Drink beenden.",
+        "hu": "Indítsd a kerékpártúrát a zöld hátországban, Jurandvor felé. A Szent Lúcia-templomban mindent megtudhatsz a horvát írás eredetéről. A völgyön átvezető sík terep ideális bemelegítés a naphoz.\n\nKéső délelőtt térj vissza a part felé a Glagolita ösvényt követve. Biciklivel a távolabbi betűmonumentumokat is könnyedén eléred, mielőtt a nyüzsgő Vela Plažához érnél, hogy élvezd a déli napsütést.\n\nA délután sportosra fordul: az 'Út a Holdra' meredeken vezet fel egy teljesen más világba. A Baška feletti kopár kősivatag valóban holdbéli tájra emlékeztet, és hihetetlen kilátást nyújt a Kvarner-szigetvilágra.\n\nVisszatérve a völgybe, tekerj el a Bunculuka strandhoz. A hegymenet után a legjobb jutalom egy csobbanás a rejtett öböl hűs vizében, mielőtt a túrát Baška kikötőjében egy frissítővel zárnád.",
+        "ro": "Începeți tura cu bicicleta în hinterlandul verde spre Jurandvor. La biserica Sfânta Lucia veți afla totul despre originile scrierii croate. Traseul plat prin vale este încălzirea ideală pentru această zi.\n\nSpre sfârșitul dimineții, reveniți spre coastă urmând Calea Glagolitică. Cu bicicleta ajungeți fără efort și la monumentele mai îndepărtate, înainte de a ajunge la animata Vela Plaža pentru a vă bucura de soarele de la prânz.\n\nDupă-amiaza devine sportivă: 'Drumul spre Lună' vă duce abrupt într-o lume complet diferită. Pustiul de piatră de deasupra localității Baška amintește într-adevăr de un peisaj lunar și oferă vederi incredibile peste arhipelagul Kvarner.\n\nReveniți în vale și pedalați relaxat spre plaja Bunculuka. După efortul urcării, o săritură în apa răcoroasă a golfului ascuns este cea mai bună recompensă, înainte de a încheia turul în portul Baška cu o băutură.",
+        "en": "Start your cycling tour into the green hinterland towards Jurandvor. At the Church of St. Lucy, you will learn all about the origins of Croatian writing. The flat route through the valley is the ideal warm-up for the day.\n\nIn the late morning, return towards the coast following the Glagolitic Path. By bike, you can effortlessly reach even the more remote letter monuments before arriving at the lively Vela Plaža to enjoy the midday sun.\n\nThe afternoon gets sporty: the 'Way to the Moon' leads you steeply up into a completely different world. The barren stone desert above Baška truly resembles a moonscape and offers incredible views over the Kvarner archipelago.\n\nBack in the valley, cycle relaxedly to Bunculuka beach. After the exertion of the climb, a jump into the cool water of the hidden bay is the best reward before ending the tour in Baška harbor with a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Schafskäse",
+            "tip": "Energieschub direkt vom Bauernhof in Jurandvor."
+          },
+          {
+            "name": "Adria-Calamari",
+            "tip": "Gegrillt mit Mangold und Kartoffeln im Bistro Bag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi juhtúró",
+            "tip": "Energialöket közvetlenül a jurandvori farmról."
+          },
+          {
+            "name": "Adriai tintahal",
+            "tip": "Grillezve, mángolddal és burgonyával a Bistro Bag-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de oaie de casă",
+            "tip": "O doză de energie direct de la ferma din Jurandvor."
+          },
+          {
+            "name": "Calamari de Adria",
+            "tip": "La grătar cu mangold și cartofi la Bistro Bag."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Sheep Cheese",
+            "tip": "Energy boost directly from the farm in Jurandvor."
+          },
+          {
+            "name": "Adriatic Calamari",
+            "tip": "Grilled with chard and potatoes at Bistro Bag."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Das 'Plateau des Mondes'",
+            "tip": "Stille und Weite auf der Hochebene.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olivenhaine im Tal",
+            "tip": "Schattige Wege zwischen den silbernen Blättern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Hold-fennsík",
+            "tip": "Csend és tágas tér a fennsíkon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olajfaligetek a völgyben",
+            "tip": "Árnyas utak az ezüstös levelek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Lunii",
+            "tip": "Liniște și imensitate pe platoul înalt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Livezile de măslini din vale",
+            "tip": "Poteci umbrite printre frunzele argintii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Moon Plateau",
+            "tip": "Silence and vastness on the high plateau.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olive groves in the valley",
+            "tip": "Shady paths between the silvery leaves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Salbeihonig",
+            "tip": "Ein aromatisches Heilmittel aus den Bergen Krks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi zsályaméz",
+            "tip": "Aromás gyógyír Krk hegyeiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de salvie locală",
+            "tip": "Un remediu aromatic din munții insulei Krk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sage Honey",
+            "tip": "An aromatic remedy from the mountains of Krk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom 'Mond'.",
+          "Nehmen Sie ausreichend Wasser mit, auf der Hochebene gibt es keinen Schatten.",
+          "In Baška gibt es mehrere E-Bike-Verleihstationen.",
+          "Die Hauptstraße im Tal kann im Sommer viel Verkehr haben, nutzen Sie Feldwege.",
+          "Ein Helm ist auf den steinigen Wegen oberhalb der Stadt unverzichtbar."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeidet a 'Holdról' való lejövetel előtt.",
+          "Vigyél magaddal elég vizet, a fennsíkon egyáltalán nincs árnyék.",
+          "Baškában több e-bike kölcsönző is található.",
+          "A völgy főútja nyáron forgalmas lehet, használd a mezei utakat.",
+          "A sisak elengedhetetlen a város feletti köves utakon."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de pe 'Lună'.",
+          "Luați suficientă apă, pe platoul înalt nu există umbră.",
+          "În Baška există mai multe puncte de închiriere e-bike.",
+          "Drumul principal din vale poate fi aglomerat vara, folosiți drumurile secundare.",
+          "Casca este indispensabilă pe potecile pietroase de deasupra orașului."
+        ],
+        "en": [
+          "Check your brakes before the descent from the 'Moon'.",
+          "Take plenty of water, there is no shade on the high plateau.",
+          "There are several e-bike rental stations in Baška.",
+          "The main road in the valley can be busy in summer, use field paths.",
+          "A helmet is essential on the stony paths above the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Hl. Lucia in Jurandvor",
+            "hu": "Szent Lúcia-templom, Jurandvor",
+            "ro": "Biserica Sfânta Lucia din Jurandvor",
+            "en": "Church of St. Lucy in Jurandvor"
+          },
+          "coords": [
+            14.7431,
+            44.9811
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Kulturdenkmal vorhanden.",
+            "hu": "Nagy parkoló található közvetlenül a műemlék mellett.",
+            "ro": "Parcare mare disponibilă direct lângă monumentul cultural.",
+            "en": "Large parking lot available directly at the cultural monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfad der glagolitischen Schrift",
+            "hu": "Glagolita ösvény",
+            "ro": "Calea scrierii glagolitice",
+            "en": "Glagolitic Path"
+          },
+          "coords": [
+            14.7565,
+            44.9721
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang und erkunden Sie die Monumente zu Fuß.",
+            "hu": "Parkolj a város bejáratánál, és fedezd fel a monumentumokat gyalog.",
+            "ro": "Parcați la intrarea în oraș și explorați monumentele pe jos.",
+            "en": "Park at the entrance to the town and explore the monuments on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Baška",
+            "hu": "Baškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Baška",
+            "en": "Baška Heritage Museum"
+          },
+          "coords": [
+            14.7601,
+            44.9691
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "In der Nähe des Hafens parken (gebührenpflichtig).",
+            "hu": "Parkolj a kikötő közelében (fizetős).",
+            "ro": "Parcați în apropierea portului (cu plată).",
+            "en": "Park near the harbor (paid parking)."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Plaža (Großer Strand)",
+            "hu": "Vela Plaža (Nagy strand)",
+            "ro": "Vela Plaža (Plaja Mare)",
+            "en": "Vela Plaža (Great Beach)"
+          },
+          "coords": [
+            14.7545,
+            44.9682
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Parkplätze füllen sich im Sommer schnell.",
+            "hu": "A központi parkolók nyáron gyorsan megtelnek.",
+            "ro": "Parcările centrale se umplu rapid vara.",
+            "en": "Central parking lots fill up quickly in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Bunculuka",
+            "hu": "Bunculuka strand",
+            "ro": "Plaja Bunculuka",
+            "en": "Bunculuka Beach"
+          },
+          "coords": [
+            14.7711,
+            44.9723
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkmöglichkeit am Eingang des Campingplatzes vorhanden.",
+            "hu": "Parkolási lehetőség a kemping bejáratánál.",
+            "ro": "Posibilitate de parcare la intrarea în camping.",
+            "en": "Parking available at the entrance of the campsite."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem das kulturelle Highlight von Jurandvor gleich am Morgen. Die Besichtigung der Baška-Tafel ist ein entspannter Start in den Tag, bevor Sie ins belebte Zentrum von Baška weiterfahren.\n\nNachdem Sie Ihren Wagen geparkt haben, erkunden Sie das historische Zentrum und den Glagolitischen Pfad. Die kurzen Distanzen zwischen Museum und Promenade lassen sich hervorragend zu Fuß bewältigen, während das Auto sicher steht.\n\nDen Mittag verbringen Sie am Vela Plaža. Dank der Flexibilität des Autos können Sie auch schwerere Strandausrüstung problemlos mitbringen und nach dem Bad direkt zu einer der nahegelegenen Konobas zum Essen fahren.\n\nAm Nachmittag führt Sie eine kurze Fahrt zur Bucht von Bunculuka. Dieser etwas abgelegenere Ort bietet eine wunderbare Kulisse für den Ausklang des Tages, bevor Sie die Heimreise über die Panoramastraße der Insel Krk antreten.",
+        "hu": "Autóval kényelmesen elérheted Jurandvor kulturális csúcspontját már reggel. A Baškai Tábla megtekintése nyugodt kezdete a napnak, mielőtt továbbhajtanál Baška nyüzsgő központjába.\n\nMiután leparkoltál, fedezd fel a történelmi központot és a Glagolita ösvényt. A múzeum és a sétány közötti rövid távolságok gyalog is kiválóan megtehetők, miközben az autó biztonságban áll.\n\nA delet a Vela Plaža strandon töltsd. Az autó rugalmasságának köszönhetően a nehezebb strandfelszerelést is magaddal viheted, és fürdés után közvetlenül elhajthatsz az egyik közeli konobába ebédelni.\n\nDélután egy rövid út vezet a Bunculuka-öbölbe. Ez a kissé eldugottabb hely csodálatos díszletet nyújt a nap lezárásához, mielőtt elindulnál hazafelé Krk-sziget panorámaútján.",
+        "ro": "Cu mașina ajungeți confortabil la punctul culminant cultural din Jurandvor chiar de dimineață. Vizitarea Tablei de la Baška este un început relaxat de zi, înainte de a continua spre centrul animat din Baška.\n\nDupă ce ați parcat mașina, explorați centrul istoric și Calea Glagolitică. Distanțele scurte între muzeu și faleză se pot parcurge excelent pe jos, în timp ce mașina stă în siguranță.\n\nPetreceți amiaza la plaja Vela Plaža. Datorită flexibilității mașinii, puteți aduce fără probleme și echipament de plajă mai greu, iar după baie puteți conduce direct la una dintre konobele din apropiere pentru masă.\n\nDupă-amiaza, o scurtă călătorie vă duce la golful Bunculuka. Acest loc ceva mai retras oferă un cadru minunat pentru încheierea zilei, înainte de a porni spre casă pe drumul panoramic al insulei Krk.",
+        "en": "By car, you can comfortably reach the cultural highlight of Jurandvor right in the morning. Visiting the Baška Tablet is a relaxed start to the day before continuing to the lively center of Baška.\n\nAfter parking your car, explore the historical center and the Glagolitic Path. The short distances between the museum and the promenade are excellent for walking while your car is safely parked.\n\nSpend midday at Vela Plaža. Thanks to the flexibility of the car, you can easily bring heavier beach equipment and drive directly to one of the nearby konobas for a meal after your swim.\n\nIn the afternoon, a short drive takes you to Bunculuka bay. This somewhat more secluded spot offers a wonderful backdrop for ending the day before heading home along the panoramic road of Krk island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Platte",
+            "tip": "Frischer Fang des Tages im Restaurant Lantino am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "A nap friss fogása a Lantino étteremben a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Captura proaspătă a zilei la restaurantul Lantino din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Platter",
+            "tip": "Fresh catch of the day at Restaurant Lantino by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt oberhalb von Baška",
+            "tip": "Halten Sie an den Parkbuchten der Serpentinen für ein Foto.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont Baška felett",
+            "tip": "Állj meg a szerpentinek melletti parkolóöblökben egy fotóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere deasupra Baška",
+            "tip": "Opriți în locurile de parcare de pe serpentine pentru o fotografie.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint above Baška",
+            "tip": "Stop at the parking bays on the serpentines for a photo.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krk-Wein Žlahtina",
+            "tip": "Kaufen Sie ein paar Flaschen des lokalen Weißweins für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krki Žlahtina bor",
+            "tip": "Vegyél pár palackkal a helyi fehérborból otthonra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Žlahtina de Krk",
+            "tip": "Cumpărați câteva sticle de vin alb local pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Wine Žlahtina",
+            "tip": "Buy a few bottles of the local white wine to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren können im Sommer hoch sein, halten Sie Kleingeld oder eine App bereit.",
+          "Vermeiden Sie die Wochenenden für die Anreise, wenn Sie Staus umgehen wollen.",
+          "Nutzen Sie den großen Parkplatz 'Zablaće' für den Strandzugang.",
+          "Kombinieren Sie den Besuch von Jurandvor mit einer Fahrt ins nahegelegene Punat.",
+          "Achten Sie auf die engen Gassen in der Altstadt, fahren Sie dort nicht hinein."
+        ],
+        "hu": [
+          "A parkolási díjak nyáron magasak lehetnek, tarts készenlétben aprót vagy applikációt.",
+          "Kerüld a hétvégi érkezést, ha el akarod kerülni a dugókat.",
+          "Használd a nagy 'Zablaće' parkolót a strand megközelítéséhez.",
+          "Kombináld Jurandvor meglátogatását egy úttal a közeli Punatba.",
+          "Figyelj az óváros szűk utcáira, ne hajts be oda autóval."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari vara, aveți pregătiți bani mărunți sau o aplicație.",
+          "Evitați sosirea în weekend dacă doriți să ocoliți ambuteiajele.",
+          "Folosiți parcarea mare 'Zablaće' pentru accesul la plajă.",
+          "Combinați vizita la Jurandvor cu o călătorie în localitatea apropiată Punat.",
+          "Atenție la străzile înguste din orașul vechi, nu intrați acolo cu mașina."
+        ],
+        "en": [
+          "Parking fees can be high in summer, have change or an app ready.",
+          "Avoid arriving on weekends if you want to dodge traffic jams.",
+          "Use the large 'Zablaće' parking lot for beach access.",
+          "Combine the visit to Jurandvor with a trip to nearby Punat.",
+          "Watch out for the narrow streets in the old town, do not drive in there."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Hl. Lucia in Jurandvor",
+            "hu": "Szent Lúcia-templom, Jurandvor",
+            "ro": "Biserica Sfânta Lucia din Jurandvor",
+            "en": "Church of St. Lucy in Jurandvor"
+          },
+          "coords": [
+            14.7431,
+            44.9811
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt nur wenige Gehminuten von der Kirche entfernt.",
+            "hu": "A buszmegálló mindössze pár perc sétára van a templomtól.",
+            "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de biserică.",
+            "en": "The bus stop is just a few minutes' walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Baška Busbahnhof",
+            "hu": "Baška buszállomás",
+            "ro": "Autogara Baška",
+            "en": "Baška Bus Station"
+          },
+          "coords": [
+            14.7561,
+            44.9701
+          ],
+          "category": "transport",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für alle Regionalbusse der Insel.",
+            "hu": "A sziget összes regionális buszjáratának központi érkezési pontja.",
+            "ro": "Punct central de sosire pentru toate autobuzele regionale de pe insulă.",
+            "en": "Central arrival point for all regional buses on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Baška",
+            "hu": "Baškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Baška",
+            "en": "Baška Heritage Museum"
+          },
+          "coords": [
+            14.7601,
+            44.9691
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof leicht zu Fuß erreichbar.",
+            "hu": "A buszállomástól könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la autogară.",
+            "en": "Easily accessible on foot from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Plaža (Großer Strand)",
+            "hu": "Vela Plaža (Nagy strand)",
+            "ro": "Vela Plaža (Plaja Mare)",
+            "en": "Vela Plaža (Great Beach)"
+          },
+          "coords": [
+            14.7545,
+            44.9682
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Alles Nötige ist in Gehweite: Kioske, Bars und Verleih.",
+            "hu": "Minden szükséges sétatávolságra van: büfék, bárok és kölcsönzők.",
+            "ro": "Tot ce este necesar se află la distanță de mers pe jos: chioșcuri, baruri.",
+            "en": "Everything needed is within walking distance: kiosks, bars, and rentals."
+          }
+        },
+        {
+          "name": {
+            "de": "Baška Hafen",
+            "hu": "Baška kikötő",
+            "ro": "Portul Baška",
+            "en": "Baška Harbor"
+          },
+          "coords": [
+            14.7615,
+            44.9685
+          ],
+          "category": "transport",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Abfahrtszeiten der Wassertaxis.",
+            "hu": "Tájékozódj a vízitaxik indulási idejéről.",
+            "ro": "Informați-vă despre orele de plecare ale taxiurilor pe apă.",
+            "en": "Check the departure times for water taxis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Inselbus, um Ihren Tag entspannt in Jurandvor zu beginnen. Ohne Parkplatzsorgen bewundern Sie das kulturelle Erbe, bevor Sie mit dem nächsten Bus ins Herz von Baška fahren.\n\nVom zentralen Busbahnhof aus liegen Ihnen alle Attraktionen zu Füßen. Ein kurzer Spaziergang führt Sie zum Heimatmuseum und danach direkt an den lebhaften Hafen, wo das maritime Flair der Stadt am stärksten zu spüren ist.\n\nDer Nachmittag steht ganz im Zeichen von Sonne und Meer am Vela Plaža. Da der Busbahnhof so nah ist, können Sie bis zur letzten Minute am Strand bleiben, bevor Sie die Rückreise antreten.\n\nZum Abschluss des Tages bietet sich ein Kaffee im Hafen an, während Sie das bunte Treiben der Boote beobachten. Die regelmäßigen Busverbindungen nach Krk-Stadt oder Rijeka machen Baška zu einem perfekten Ziel für Reisende ohne eigenes Fahrzeug.",
+        "hu": "Használd a szigeti buszjáratot, hogy napodat nyugodtan kezdd Jurandvorban. Parkolási gondok nélkül csodálhatod meg a kulturális örökséget, mielőtt a következő busszal Baška szívébe utaznál.\n\nA központi buszállomástól minden látnivaló karnyújtásnyira van. Egy rövid séta elvezet a Helytörténeti Múzeumba, majd közvetlenül a nyüzsgő kikötőbe, ahol a város tengeri hangulata a legerősebb.\n\nA délután a napfényről és a tengerről szól a Vela Plaža strandon. Mivel a buszállomás nagyon közel van, az utolsó pillanatig a parton maradhatsz, mielőtt elindulnál vissza.\n\nA nap zárásaként igyál meg egy kávét a kikötőben, miközben a hajók színes forgatagát figyeled. A Krk városába vagy Fiumébe induló rendszeres buszjáratok tökéletes célponttá teszik Baškát az autó nélkül utazók számára.",
+        "ro": "Folosiți autobuzul insular pentru a vă începe ziua relaxat în Jurandvor. Fără grija parcării, admirați moștenirea culturală înainte de a lua următorul autobuz spre inima localității Baška.\n\nDe la autogara centrală, toate atracțiile sunt la picioarele dumneavoastră. O scurtă plimbare vă duce la Muzeul de Istorie și apoi direct în portul animat, unde atmosfera maritimă a orașului este cea mai puternică.\n\nDupă-amiaza este dedicată soarelui și mării pe plaja Vela Plaža. Deoarece autogara este atât de aproape, puteți rămâne pe plajă până în ultimul moment înainte de a pleca înapoi.\n\nLa finalul zilei, puteți savura o cafea în port în timp ce observați mișcarea colorată a bărcilor. Conexiunile regulate de autobuz spre orașul Krk sau Rijeka fac din Baška o destinație perfectă pentru călătorii fără vehicul propriu.",
+        "en": "Use the island bus to start your day relaxedly in Jurandvor. Without parking worries, admire the cultural heritage before taking the next bus into the heart of Baška.\n\nFrom the central bus station, all attractions are at your fingertips. A short walk leads you to the Heritage Museum and then directly to the lively harbor, where the town's maritime flair is strongest.\n\nThe afternoon is all about sun and sea at Vela Plaža. Since the bus station is so close, you can stay on the beach until the last minute before heading back.\n\nAt the end of the day, enjoy a coffee in the harbor while watching the colorful bustle of the boats. Regular bus connections to Krk Town or Rijeka make Baška a perfect destination for travelers without their own vehicle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schneller, herzhafter Snack aus der Bäckerei am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors, laktató snack a buszállomás melletti pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă și consistentă de la brutăria de lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick, hearty snack from the bakery next to the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Park",
+            "tip": "Kleiner Park am Busbahnhof mit Schattenbänken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a parkban",
+            "tip": "Kis park a buszállomásnál árnyékos padokkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în parc",
+            "tip": "Un mic parc lângă autogară cu bănci la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the park",
+            "tip": "Small park by the bus station with shaded benches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten von Baška",
+            "tip": "Erhältlich im Kiosk direkt am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok Baškáról",
+            "tip": "Kapható a buszállomás melletti újságosnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi din Baška",
+            "tip": "Disponibile la chioșcul de lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards of Baška",
+            "tip": "Available at the kiosk right by the bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab online oder beim Fahrer (nur Bargeld).",
+          "Der Fahrplan kann sich je nach Saison stark ändern, prüfen Sie Arriva.com.hr.",
+          "In der Hochsaison können Busse aufgrund von Verkehr Verspätung haben.",
+          "Die Bushaltestelle in Jurandvor ist auf Abruf, geben Sie dem Fahrer rechtzeitig Bescheid.",
+          "Ein Tagesticket für die Insel Krk lohnt sich bei mehreren Stopps."
+        ],
+        "hu": [
+          "Vedd meg a buszjegyet előre online vagy a sofőrnél (csak készpénz).",
+          "A menetrend szezononként változhat, ellenőrizd az Arriva.com.hr oldalt.",
+          "Főszezonban a buszok a forgalom miatt késhetnek.",
+          "A jurandvori megálló kérésre működik, időben jelezz a sofőrnek.",
+          "A Krk-szigeti napijegy megéri, ha több helyen is megállsz."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz online în avans sau de la șofer (numai numerar).",
+          "Orarele se pot schimba mult în funcție de sezon, verificați Arriva.com.hr.",
+          "În plin sezon, autobuzele pot avea întârzieri din cauza traficului.",
+          "Stația din Jurandvor este la cerere, anunțați șoferul din timp.",
+          "Un bilet de o zi pentru insula Krk merită dacă faceți mai multe opriri."
+        ],
+        "en": [
+          "Buy bus tickets in advance online or from the driver (cash only).",
+          "The schedule can change significantly depending on the season, check Arriva.com.hr.",
+          "In high season, buses can be delayed due to traffic.",
+          "The stop in Jurandvor is on request, notify the driver in time.",
+          "A day ticket for Krk island is worth it if you make multiple stops."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Baška",
+    "county": "HR-08",
+    "coords": [
+      14.7561,
+      44.97
+    ],
+    "transit_official": "https://www.jadrolinija.hr/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Croatia-1581",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-baska.hr/en/",
+    "tourism_office": "https://www.tz-baska.hr/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": "https://www.visitkrk.com/en/",
+    "museum_tickets": "https://www.visitkrk.com/en/",
+    "parking_real_time": "https://en.parkopedia.com/parking/croatia/",
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; auf Krk wird viel Deutsch und Italienisch gesprochen, Englisch fast überall. 'Vela plaža' = großer Strand.",
+      "hu": "A horvát a hivatalos; Krk szigetén sok német és olasz beszélő van, az angol szinte mindenhol. 'Vela plaža' = nagy strand.",
+      "ro": "Croata e oficială; pe Krk se vorbește mult germană și italiană, engleza aproape peste tot. 'Vela plaža' = plaja mare.",
+      "en": "Croatian is official; on Krk German and Italian are widely spoken, English almost everywhere. 'Vela plaža' = big beach."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September für die Kiesstrände (Vela plaža); Juli/August voll und teuer, Juni und Anfang September ruhiger und ideal zum Wandern.",
+      "hu": "Május-szeptember a kavicsos strandokhoz (Vela plaža); július-augusztus zsúfolt és drága, június és szeptember eleje nyugodtabb, túrázásra is jó.",
+      "ro": "Mai - septembrie pentru plajele cu pietriș (Vela plaža); iulie-august aglomerat și scump, iunie și început de septembrie liniștite, bune pentru drumeții.",
+      "en": "May to September for the pebble beaches (Vela plaža); July/August crowded and pricey, June and early September quieter and great for hiking."
+    },
+    "neighborhood_warnings": {
+      "de": "Bora-Wind aus dem Velebit kann den Strand und die Krk-Brücke kurzfristig schließen; im Sommer Parkplätze früh am Morgen besetzt, Schatten knapp.",
+      "hu": "A Velebit felől fújó bóra hirtelen lezárhatja a strandot és a Krk hidat; nyáron a parkolók reggel megtelnek, kevés az árnyék.",
+      "ro": "Vântul bora dinspre Velebit poate închide brusc plaja și podul Krk; vara locurile de parcare se ocupă dimineața devreme, umbră puțină.",
+      "en": "Bora wind from Velebit can close the beach and Krk bridge at short notice; in summer car parks fill by mid-morning, shade is scarce."
+    }
+  }
+}

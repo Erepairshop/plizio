@@ -1,0 +1,993 @@
+{
+  "city_id": "pakostane",
+  "anchor": {
+    "name": "Pakoštane",
+    "coords": [
+      15.5092,
+      43.9119
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Pakoštane",
+          "coords": [
+            15.5092,
+            43.9119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühmorgens den Fischern beim Entladen zusehen.",
+            "hu": "Kora reggel nézze meg a halászok érkezését.",
+            "ro": "Priviți pescarii descărcând captura dimineața devreme.",
+            "en": "Watch the fishermen unload their catch early in the morning."
+          }
+        },
+        {
+          "name": "Franjo Tuđman Denkmal",
+          "coords": [
+            15.51,
+            43.9115
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein zentraler Treffpunkt mit Blick auf das Meer.",
+            "hu": "Központi találkozóhely kilátással a tengerre.",
+            "ro": "Un punct de întâlnire central cu vedere la mare.",
+            "en": "A central meeting point with a view of the sea."
+          }
+        },
+        {
+          "name": "Pfarrkirche Christi Himmelfahrt",
+          "coords": [
+            15.5085,
+            43.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Steinmetzkunst der Fassade.",
+            "hu": "Csodálja meg a homlokzat helyi kőfaragásait.",
+            "ro": "Admirați lucrările locale în piatră ale fațadei.",
+            "en": "Admire the local stonework of the facade."
+          }
+        },
+        {
+          "name": "Insel und Kirche St. Justina",
+          "coords": [
+            15.505,
+            43.908
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur mit dem Boot oder schwimmend erreichbar, tolles Fotomotiv.",
+            "hu": "Csak csónakkal vagy úszva érhető el, kiváló fotótéma.",
+            "ro": "Accesibilă doar cu barca sau înotând, un subiect foto grozav.",
+            "en": "Accessible only by boat or swimming, great photo spot."
+          }
+        },
+        {
+          "name": "Strand Janice",
+          "coords": [
+            15.513,
+            43.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flaches Wasser, ideal für Familien mit Kindern.",
+            "hu": "Sekély víz, ideális kisgyermekes családoknak.",
+            "ro": "Apă puțin adâncă, ideală pentru familii cu copii.",
+            "en": "Shallow water, ideal for families with children."
+          }
+        },
+        {
+          "name": "Pine Beach Resort",
+          "coords": [
+            15.498,
+            43.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Einzigartige Strohhütten im dichten Pinienwald.",
+            "hu": "Egyedülálló nádtetős kunyhók a sűrű fenyvesben.",
+            "ro": "Colibe de stuf unice în pădurea de pini densă.",
+            "en": "Unique straw huts in the dense pine forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pakoštane besticht durch seine Lage zwischen dem Meer und dem Vrana-See. Der Vormittag beginnt am belebten Hafen, wo die Meeresbrise die Sinne weckt. Ein Spaziergang führt zur monumentalen Pfarrkirche und zur kleinen Insel St. Justina, die wie ein Wächter in der Bucht liegt. Mittags lädt der Strand Janice zum Entspannen ein, bevor der Tag im schattigen Pinienwald des Resorts ausklingt.",
+        "hu": "Pakoštane varázsát a tenger és a Vrana-tó közötti fekvése adja. A délelőtt a pezsgő kikötőben indul, ahol a tengeri szellő ébreszti az érzékeket. Rövid séta vezet a monumentális plébániatemplomhoz és a Szent Jusztina-szigethez, amely őrszemként áll az öbölben. Délben a Janice strand hívogat pihenésre, mielőtt a napot az üdülőhely árnyas fenyvesében zárnánk.",
+        "ro": "Pakoštane captivează prin locația sa între mare și Lacul Vrana. Dimineața începe în portul plin de viață, unde briza mării trezește simțurile. O plimbare duce la biserica parohială monumentală și la mica insulă Sfânta Iustina, care stă ca o santinelă în golf. La prânz, plaja Janice vă invită la relaxare, înainte ca ziua să se încheie în pădurea de pini umbrită a complexului.",
+        "en": "Pakoštane charms with its position between the sea and Lake Vrana. The morning starts at the bustling harbor, where the sea breeze wakes the senses. A stroll leads to the monumental parish church and the small islet of St. Justina, standing like a sentinel in the bay. At noon, Janice Beach invites relaxation before the day concludes in the shaded pine forest of the resort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Pakostane",
+            "tip": "Probieren Sie den Oktopussalat mit lokalem Olivenöl."
+          },
+          {
+            "name": "Restoran Tri Feral",
+            "tip": "Frisch gefangener Fisch vom Grill ist hier Pflicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Pakostane",
+            "tip": "Kóstolja meg a polipsalátát helyi olívaolajjal."
+          },
+          {
+            "name": "Restoran Tri Feral",
+            "tip": "A frissen fogott grillezett hal itt kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Pakostane",
+            "tip": "Încercați salata de caracatiță cu ulei de măsline local."
+          },
+          {
+            "name": "Restoran Tri Feral",
+            "tip": "Peștele proaspăt prins la grătar este obligatoriu aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Pakostane",
+            "tip": "Try the octopus salad with local olive oil."
+          },
+          {
+            "name": "Restoran Tri Feral",
+            "tip": "Freshly caught grilled fish is a must here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippenweg nach Drage",
+            "tip": "Panoramablick auf die Kornaten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Justina Aussichtspunkt",
+            "tip": "Stille am Meeresufer genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklás ösvény Drage felé",
+            "tip": "Panorámás kilátás a Kornati-szigetekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Jusztina kilátópont",
+            "tip": "Élvezze a csendet a tengerparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea pe stânci spre Drage",
+            "tip": "Vedere panoramică asupra insulelor Kornati.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punctul de belvedere Sf. Iustina",
+            "tip": "Bucurați-vă de liniște pe malul mării.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliff path to Drage",
+            "tip": "Panoramic view of the Kornati islands.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Justina Viewpoint",
+            "tip": "Enjoy the silence by the seashore.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Getrocknete Feigen und Honig aus der Region."
+          },
+          {
+            "name": "Souvenirshop Riva",
+            "tip": "Handgefertigter Schmuck aus Korallen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Szárított füge és méz a környékről."
+          },
+          {
+            "name": "Riva ajándékbolt",
+            "tip": "Kézzel készített korall ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Smochine uscate și miere din regiune."
+          },
+          {
+            "name": "Magazinul de suveniruri Riva",
+            "tip": "Bijuterii din corali lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Dried figs and honey from the region."
+          },
+          {
+            "name": "Riva Souvenir Shop",
+            "tip": "Handmade coral jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Sandalen für den Spaziergang entlang der Küste.",
+          "Ein kleines Boot zur Insel St. Justina zu mieten lohnt sich.",
+          "Sonnenschutz ist im Sommer unerlässlich, da die Promenade wenig Schatten bietet.",
+          "Besuchen Sie den Hafen am späten Nachmittag für die beste Lichtstimmung."
+        ],
+        "hu": [
+          "Viseljen kényelmes szandált a tengerparti sétához.",
+          "Érdemes bérelni egy kis csónakot a Szent Jusztina-szigethez.",
+          "A fényvédő használata nyáron elengedhetetlen, mivel a sétányon kevés az árnyék.",
+          "Látogasson el a kikötőbe késő délután a legjobb fényekért."
+        ],
+        "ro": [
+          "Purtați sandale confortabile pentru plimbarea de-a lungul coastei.",
+          "Merită să închiriați o barcă mică spre insula Sfânta Iustina.",
+          "Protecția solară este esențială vara, deoarece faleza oferă puțină umbră.",
+          "Vizitați portul după-amiaza târziu pentru cea mai bună lumină."
+        ],
+        "en": [
+          "Wear comfortable sandals for the walk along the coast.",
+          "Renting a small boat to St. Justina islet is worth it.",
+          "Sunscreen is essential in summer as the promenade offers little shade.",
+          "Visit the harbor in the late afternoon for the best lighting mood."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Pakoštane",
+          "coords": [
+            15.5092,
+            43.9119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Tour um den See.",
+            "hu": "A tó körüli túra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul în jurul lacului.",
+            "en": "Starting point for the tour around the lake."
+          }
+        },
+        {
+          "name": "Naturpark Vrana-See",
+          "coords": [
+            15.54,
+            43.9
+          ],
+          "category": "natural features",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Vogelbeobachtungsturm am Nordufer besuchen.",
+            "hu": "Látogassa meg a madármegfigyelő tornyot az északi parton.",
+            "ro": "Vizitați turnul de observare a păsărilor de pe malul nordic.",
+            "en": "Visit the birdwatching tower on the north shore."
+          }
+        },
+        {
+          "name": "Maškovića Han",
+          "coords": [
+            15.5605,
+            43.9614
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Die nördlichste osmanische Festung Europas.",
+            "hu": "Európa legészakibb oszmán erődítménye.",
+            "ro": "Cea mai nordică fortăreață otomană din Europa.",
+            "en": "The northernmost Ottoman fortress in Europe."
+          }
+        },
+        {
+          "name": "Pfarrkirche Christi Himmelfahrt",
+          "coords": [
+            15.5085,
+            43.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort nach der Fahrt.",
+            "hu": "Hűvös menedék a biciklizés után.",
+            "ro": "Un refugiu răcoros după plimbare.",
+            "en": "A cool retreat after the ride."
+          }
+        },
+        {
+          "name": "Strand Janice",
+          "coords": [
+            15.513,
+            43.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sprung ins kühle Nass zur Belohnung.",
+            "hu": "Jutalomként csobbanjon egyet a hűvös vízben.",
+            "ro": "Săriți în apa rece ca recompensă.",
+            "en": "Jump into the cool water as a reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour verbindet das mediterrane Flair der Küste mit der wilden Natur des Hinterlandes. Der Weg führt entlang des Vrana-Sees, einem Paradies für Ornithologen. Das Highlight ist der Maškovića Han, eine beeindruckende Karawanserei aus dem 17. Jahrhundert. Nach der historischen Entdeckung führt der Weg zurück ans Meer, wo eine Erfrischung am Strand Janice auf die Radfahrer wartet.",
+        "hu": "A kerékpártúra összeköti a tengerpart mediterrán hangulatát a hátország vad természetével. Az út a Vrana-tó mentén vezet, amely az ornitológusok paradicsoma. A csúcspont a Maškovića Han, egy lenyűgöző 17. századi karavánszeráj. A történelmi felfedezés után az út visszavezet a tengerhez, ahol a Janice strandon frissítő várja a bringásokat.",
+        "ro": "Turul cu bicicleta combină flerul mediteranean al coastei cu natura sălbatică a hinterlandului. Drumul duce de-a lungul Lacului Vrana, un paradis pentru ornitologi. Punctul culminant este Hanul Maškovića, un caravanserai impresionant din secolul al XVII-lea. După descoperirea istorică, drumul se întoarce la mare, unde o răcorire pe plaja Janice îi așteaptă pe bicicliști.",
+        "en": "The bike tour combines the Mediterranean flair of the coast with the wild nature of the hinterland. The path leads along Lake Vrana, a paradise for ornithologists. The highlight is Maškovića Han, an impressive 17th-century caravanserai. After the historical discovery, the path returns to the sea, where a refreshment at Janice Beach awaits the cyclists."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Han Restaurant",
+            "tip": "Traditionelles Brot und Fleischgerichte im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Han Restaurant",
+            "tip": "Hagyományos kenyér és húsételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han Restaurant",
+            "tip": "Pâine tradițională și preparate din carne într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Han Restaurant",
+            "tip": "Traditional bread and meat dishes in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelschutzgebiet",
+            "tip": "Vogelstimmen am Seeufer lauschen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárvédelmi terület",
+            "tip": "Hallgassa a madárdalt a tóparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația ornitologică",
+            "tip": "Ascultați cântecul păsărilor pe malul lacului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bird Sanctuary",
+            "tip": "Listen to bird calls on the lakeshore.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vrana-See Infozentrum",
+            "tip": "Naturführer und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrana-tó látogatóközpont",
+            "tip": "Természetjáró kalauzok és helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de informare Lacul Vrana",
+            "tip": "Ghiduri naturale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrana Lake Info Center",
+            "tip": "Nature guides and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt zum See.",
+          "Die Wege am Vrana-See sind teilweise geschottert.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
+          "Ein Fernglas ist am See sehr zu empfehlen."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást a tóhoz indulás előtt.",
+          "A Vrana-tó körüli utak részben kavicsosak.",
+          "Vigyen elegendő vizet, útközben kevés a forrás.",
+          "A tónál nagyon ajánlott a távcső használata."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de plecare.",
+          "Drumurile de la Lacul Vrana sunt parțial pietruite.",
+          "Luați suficientă apă, sunt puține surse pe drum.",
+          "Un binoclu este foarte recomandat la lac."
+        ],
+        "en": [
+          "Check tire pressure before heading to the lake.",
+          "The paths at Lake Vrana are partially graveled.",
+          "Take enough water, there are few springs along the way.",
+          "Binoculars are highly recommended at the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Maškovića Han",
+          "coords": [
+            15.5605,
+            43.9614
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Museum im Inneren des Han.",
+            "hu": "Látogassa meg a Han belső múzeumát.",
+            "ro": "Vizitați muzeul din interiorul hanului.",
+            "en": "Visit the museum inside the Han."
+          }
+        },
+        {
+          "name": "Naturpark Vrana-See",
+          "coords": [
+            15.54,
+            43.9
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Aussichtspunkt Kamenjak für den besten Blick.",
+            "hu": "Hajtson fel a Kamenjak kilátóhoz a legjobb kilátásért.",
+            "ro": "Mergeți la punctul de belvedere Kamenjak pentru cea mai bună vedere.",
+            "en": "Drive to the Kamenjak viewpoint for the best view."
+          }
+        },
+        {
+          "name": "Franjo Tuđman Denkmal",
+          "coords": [
+            15.51,
+            43.9115
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Kurzer Halt im Stadtzentrum.",
+            "hu": "Rövid megálló a városközpontban.",
+            "ro": "Scurtă oprire în centrul orașului.",
+            "en": "Short stop in the city center."
+          }
+        },
+        {
+          "name": "Hafen von Pakoštane",
+          "coords": [
+            15.5092,
+            43.9119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagessen in Hafennähe genießen.",
+            "hu": "Élvezze az ebédet a kikötő közelében.",
+            "ro": "Bucurați-vă de prânz în apropierea portului.",
+            "en": "Enjoy lunch near the harbor."
+          }
+        },
+        {
+          "name": "Strand Janice",
+          "coords": [
+            15.513,
+            43.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt hinter dem Strand nutzen.",
+            "hu": "Használja a strand közvetlen mögötti parkolót.",
+            "ro": "Folosiți parcarea situată direct în spatele plajei.",
+            "en": "Use the parking lot directly behind the beach."
+          }
+        },
+        {
+          "name": "Pine Beach Resort",
+          "coords": [
+            15.498,
+            43.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Abendspaziergang durch das Resortgelände.",
+            "hu": "Esti séta az üdülőhely területén.",
+            "ro": "Plimbare de seară prin zona complexului.",
+            "en": "Evening walk through the resort grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die Kontraste von Pakoštane am besten erkunden. Die Reise beginnt im Landesinneren bei der osmanischen Festung Maškovića Han und führt zum spektakulären Aussichtspunkt Kamenjak über dem Vrana-See. Danach kehrt man zur Küste zurück, um das pulsierende Leben im Hafen und die Entspannung an den weiten Stränden zu genießen. Ein Tag voller Geschichte und Natur.",
+        "hu": "Autóval fedezhetők fel legjobban Pakoštane kontrasztjai. Az utazás a hátországban kezdődik a Maškovića Han oszmán erődítményénél, majd a Vrana-tó feletti látványos Kamenjak kilátóhoz vezet. Ezután visszatérünk a partra, hogy élvezzük a kikötő lüktető életét és a pihenést a tágas strandokon. Történelemmel és természettel teli nap.",
+        "ro": "Cu mașina, contrastele din Pakoštane pot fi explorate cel mai bine. Călătoria începe în interiorul țării, la fortăreața otomană Hanul Maškovića, și duce la spectaculosul punct de belvedere Kamenjak deasupra Lacului Vrana. Apoi, vă întoarceți la coastă pentru a vă bucura de viața vibrantă din port și de relaxarea pe plajele întinse. O zi plină de istorie și natură.",
+        "en": "By car, the contrasts of Pakoštane can be explored best. The journey begins inland at the Ottoman fortress Maškovića Han and leads to the spectacular Kamenjak viewpoint over Lake Vrana. Then you return to the coast to enjoy the vibrant life in the harbor and relaxation on the wide beaches. A day full of history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Kamenjak",
+            "tip": "Hauseigener Pršut mit Blick über die Inselwelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Kamenjak",
+            "tip": "Helyi sonka (pršut) kilátással a szigetvilágra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Kamenjak",
+            "tip": "Pršut de casă cu vedere peste lumea insulară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Kamenjak",
+            "tip": "Homemade pršut with a view over the islands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kamenjak Aussichtspunkt",
+            "tip": "Sonnenuntergang über den Kornaten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamenjak kilátópont",
+            "tip": "Naplemente a Kornati-szigetek felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Kamenjak",
+            "tip": "Apus de soare peste insulele Kornati.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamenjak Viewpoint",
+            "tip": "Sunset over the Kornati islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vrana Olivenöl",
+            "tip": "Direktverkauf bei den Bauern in Vrana."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrana olívaolaj",
+            "tip": "Közvetlen vásárlás a vranai gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Vrana",
+            "tip": "Vânzare directă de la fermierii din Vrana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrana Olive Oil",
+            "tip": "Direct sale from farmers in Vrana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Kamenjak ist schmal, fahren Sie vorsichtig.",
+          "Parken im Hafenbereich ist im Sommer kostenpflichtig.",
+          "Kombinieren Sie den Besuch in Vrana mit einem Mittagessen im Han.",
+          "Tanken Sie in Pakoštane, bevor Sie ins Hinterland fahren."
+        ],
+        "hu": [
+          "A Kamenjakhoz vezető út keskeny, vezessen óvatosan.",
+          "A kikötő környékén a parkolás nyáron fizetős.",
+          "Kombinálja a vranai látogatást egy ebéddel a Hanban.",
+          "Tankoljon Pakoštanéban, mielőtt a hátországba indul."
+        ],
+        "ro": [
+          "Drumul spre Kamenjak este îngust, conduceți cu prudență.",
+          "Parcarea în zona portului este cu plată vara.",
+          "Combinați vizita la Vrana cu un prânz la Han.",
+          "Alimentați în Pakoštane înainte de a pleca spre interiorul țării."
+        ],
+        "en": [
+          "The road to Kamenjak is narrow, drive carefully.",
+          "Parking in the harbor area is paid in summer.",
+          "Combine the visit to Vrana with lunch at the Han.",
+          "Refuel in Pakoštane before heading inland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Pakoštane",
+          "coords": [
+            15.5092,
+            43.9119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp an der Magistrale.",
+            "hu": "Központi buszmegálló a főút mentén.",
+            "ro": "Stație de autobuz centrală pe magistrală.",
+            "en": "Central bus stop on the main road."
+          }
+        },
+        {
+          "name": "Pfarrkirche Christi Himmelfahrt",
+          "coords": [
+            15.5085,
+            43.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Busstopp erreichbar.",
+            "hu": "Könnyen elérhető gyalog a buszmegállótól.",
+            "ro": "Ușor accesibilă pe jos de la stația de autobuz.",
+            "en": "Easily accessible on foot from the bus stop."
+          }
+        },
+        {
+          "name": "Strand Janice",
+          "coords": [
+            15.513,
+            43.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für einen langen Strandvormittag.",
+            "hu": "Ideális egy hosszú délelőtti strandoláshoz.",
+            "ro": "Ideal pentru o dimineață lungă la plajă.",
+            "en": "Ideal for a long morning at the beach."
+          }
+        },
+        {
+          "name": "Franjo Tuđman Denkmal",
+          "coords": [
+            15.51,
+            43.9115
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nahe der Gastronomie im Zentrum.",
+            "hu": "Közel a központi éttermekhez.",
+            "ro": "Aproape de restaurantele din centru.",
+            "en": "Near the restaurants in the center."
+          }
+        },
+        {
+          "name": "Pine Beach Resort",
+          "coords": [
+            15.498,
+            43.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer lokaler Bustransfer möglich.",
+            "hu": "Rövid helyi buszos transzfer lehetséges.",
+            "ro": "Scurt transfer cu autobuzul local disponibil.",
+            "en": "Short local bus transfer possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pakoštane ist über die Küstenstraße gut an das regionale Busnetz angebunden. Der Tag beginnt im Zentrum, von wo aus alle wichtigen Sehenswürdigkeiten und Strände bequem zu Fuß oder mit kurzen Fahrten erreichbar sind. Die entspannte Atmosphäre des Ortes lässt sich wunderbar ohne eigenes Auto genießen, besonders bei einem Tag am Strand Janice oder einem Besuch der historischen Kirchen.",
+        "hu": "Pakoštane a tengerparti út révén jól kapcsolódik a regionális buszhálózathoz. A nap a központban indul, ahonnan minden fontos látnivaló és strand kényelmesen elérhető gyalog vagy rövid utazással. A település nyugodt légköre remekül élvezhető saját autó nélkül is, különösen egy Janice strandos nap vagy a történelmi templomok meglátogatása során.",
+        "ro": "Pakoštane este bine conectat la rețeaua regională de autobuze prin drumul de coastă. Ziua începe în centru, de unde toate atracțiile importante și plajele sunt ușor accesibile pe jos sau cu călătorii scurte. Atmosfera relaxată a localității poate fi savurată minunat fără mașină proprie, în special în timpul unei zile pe plaja Janice sau a unei vizite la bisericile istorice.",
+        "en": "Pakoštane is well-connected to the regional bus network via the coastal road. The day starts in the center, from where all important sights and beaches are easily accessible on foot or with short rides. The relaxed atmosphere of the place can be wonderfully enjoyed without a car, especially during a day at Janice Beach or a visit to the historical churches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Libero",
+            "tip": "Beliebt bei Einheimischen, direkt an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Libero",
+            "tip": "A helyiek körében népszerű, közvetlenül a főút mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Libero",
+            "tip": "Populară printre localnici, direct pe drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Libero",
+            "tip": "Popular with locals, right on the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schattenpark",
+            "tip": "Kühle Bänke nahe der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyas park",
+            "tip": "Hűvös padok a templom közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul umbrit",
+            "tip": "Bănci răcoroase lângă biserică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shaded Park",
+            "tip": "Cool benches near the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konzum Supermarkt",
+            "tip": "Für Reiseverpflegung und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzum szupermarket",
+            "tip": "Úti elemózsia és rágcsálnivalók beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Konzum",
+            "tip": "Pentru provizii de drum și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konzum Supermarket",
+            "tip": "For travel provisions and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne online bei Arriva oder Liburnija.",
+          "Kaufen Sie Tickets direkt beim Fahrer für lokale Fahrten.",
+          "Die Haltestellen sind oft einfach markiert, fragen Sie Einheimische.",
+          "Planen Sie Pufferzeit ein, da Busse Verspätung haben können."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendeket online az Arriva vagy Liburnija oldalán.",
+          "Helyi járatokra vegyen jegyet közvetlenül a sofőrtől.",
+          "A megállók gyakran egyszerűen vannak jelölve, kérdezze a helyieket.",
+          "Tervezzen be tartalékidőt, mert a buszok késhetnek."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor online pe Arriva sau Liburnija.",
+          "Cumpărați bilete direct de la șofer pentru călătoriile locale.",
+          "Stațiile sunt adesea marcate simplu, întrebați localnicii.",
+          "Planificați timp de rezervă, deoarece autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Check bus schedules online at Arriva or Liburnija.",
+          "Buy tickets directly from the driver for local rides.",
+          "Stops are often simply marked, ask locals.",
+          "Plan buffer time as buses can be delayed."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Pakoštane",
+    "region": "HR-13",
+    "coords": [
+      15.5092,
+      43.9119
+    ],
+    "transit_official": "https://www.arriva.com.hr/",
+    "transit_app": "https://getbybus.com/hr",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.pakostane.hr/",
+    "tourism_office": "https://www.pakostane.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/zadarska/biograd-na-moru.html",
+    "restaurants_booking": "https://www.pakostane.hr/",
+    "museum_tickets": "https://www.vransko-jezero.hr/",
+    "nature_park": "https://www.vransko-jezero.hr/",
+    "parking_real_time": "https://www.hak.hr/",
+    "language_tips": {
+      "de": "Kroatisch dominiert, Deutsch und Englisch in Restaurants und Hotels üblich. Im Naturpark Vransko jezero auch englische Beschilderung. Hallo: Bok.",
+      "hu": "A horvát az alap, németet és angolt sok helyen értenek. A Vransko-tó Természeti Parkban angol táblák. Szia: Bok.",
+      "ro": "Croata predomină, germana și engleza sunt comune. În Parcul Natural Vransko jezero există indicatoare în engleză. Salut: Bok.",
+      "en": "Croatian dominates; German and English common in tourism. Vransko Lake Nature Park has English signage. Hi: Bok."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober. April und Oktober ideal für Vogelbeobachtung am Vransko-See, Juli/August für Strand und Wassersport.",
+      "hu": "Május és október között. Április és október ideális a Vransko-tó madármegfigyeléséhez, július-augusztus a strandhoz.",
+      "ro": "Din mai până în octombrie. Aprilie și octombrie sunt ideale pentru observarea păsărilor la lacul Vransko; iulie-august pentru plajă.",
+      "en": "May to October. April and October ideal for birdwatching at Vransko Lake; July-August for beach and watersports."
+    },
+    "neighborhood_warnings": {
+      "de": "Naturpark mit Mücken in Dämmerung, Insektenschutz nötig. Schmaler Küstenstreifen entlang D8, Vorsicht beim Überqueren.",
+      "hu": "A nemzeti parkban alkonyatkor sok szúnyog, rovarriasztó kell. A D8 főút mellett szűk partsáv, óvatos átkelés.",
+      "ro": "Țânțari la apus în parc; folosiți repelent. Fâșie îngustă de coastă lângă D8, traversare cu atenție.",
+      "en": "Mosquitoes at dusk in the nature park; bring repellent. Narrow coastal strip along D8 highway; cross carefully."
+    }
+  }
+}

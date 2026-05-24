@@ -1,0 +1,914 @@
+{
+  "city_id": "porec",
+  "anchor": {
+    "name": "Poreč",
+    "coords": [
+      13.5944,
+      45.2278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 1.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Decumanus-Straße",
+          "coords": [
+            13.594,
+            45.2275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Ort für den Morgenkaffee in der Altstadt.",
+            "hu": "A legjobb hely egy reggeli kávéhoz az óvárosban.",
+            "ro": "Cel mai bun loc pentru cafeaua de dimineață în orașul vechi.",
+            "en": "Best spot for morning coffee in the old town."
+          }
+        },
+        {
+          "name": "Fünfeckiger Turm",
+          "coords": [
+            13.5948,
+            45.2271
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Oben gibt es ein Restaurant mit toller Aussicht.",
+            "hu": "A tetején étterem működik, remek kilátással.",
+            "ro": "Există un restaurant în partea de sus cu o vedere excelentă.",
+            "en": "There is a restaurant at the top with a great view."
+          }
+        },
+        {
+          "name": "Zuccato-Palast",
+          "coords": [
+            13.5935,
+            45.2278
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne gotische Fassade, oft Kunstgalerie.",
+            "hu": "Gyönyörű gótikus homlokzat, gyakran művészeti galéria.",
+            "ro": "Fațadă gotică superbă, adesea galerie de artă.",
+            "en": "Beautiful Gothic facade, often hosts art galleries."
+          }
+        },
+        {
+          "name": "Euphrasius-Basilika",
+          "coords": [
+            13.5941,
+            45.2285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe, die Mosaike sind ein Muss.",
+            "hu": "UNESCO Világörökség, a mozaikokat látni kell.",
+            "ro": "Patrimoniu UNESCO, mozaicurile sunt obligatorii.",
+            "en": "UNESCO Heritage site, the mosaics are a must-see."
+          }
+        },
+        {
+          "name": "Marafor-Platz",
+          "coords": [
+            13.5915,
+            45.228
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das alte römische Forum der Stadt.",
+            "hu": "A város egykori római fóruma.",
+            "ro": "Vechiul forum roman al orașului.",
+            "en": "The former Roman forum of the city."
+          }
+        },
+        {
+          "name": "Neptuntempel-Ruinen",
+          "coords": [
+            13.591,
+            45.2282
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Überreste eines Tempels aus dem 1. Jahrhundert.",
+            "hu": "Egy 1. századi templom maradványai.",
+            "ro": "Rămășițele unui templu din secolul I.",
+            "en": "Remains of a 1st-century temple."
+          }
+        },
+        {
+          "name": "Romanisches Haus",
+          "coords": [
+            13.592,
+            45.2279
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Markantes Gebäude mit Holzbalkon aus dem 13. Jh.",
+            "hu": "Jellegzetes 13. századi ház fafogattal.",
+            "ro": "Clădire distinctivă din sec. XIII cu balcon de lemn.",
+            "en": "Distinctive 13th-century house with a wooden balcony."
+          }
+        },
+        {
+          "name": "Runder Turm",
+          "coords": [
+            13.594,
+            45.2265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teil der venezianischen Verteidigungsanlagen.",
+            "hu": "A velencei védelmi rendszer része.",
+            "ro": "Parte a fortificațiilor venețiene.",
+            "en": "Part of the Venetian defense system."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Spaziergang durch die Decumanus-Straße und Besichtigung der Türme.\n\nMittag: Besuch der Euphrasius-Basilika, ein UNESCO-Weltkulturerbe.\n\nNachmittag: Entdeckung der römischen Ruinen am Marafor-Platz.\n\nAbend: Sonnenuntergang an der Uferpromenade und Abendessen in der Altstadt.",
+        "hu": "Délelőtt: Séta a Decumanus főutcán és a bástyák felfedezése.\n\nDélben: A világörökség részét képező Euphrasius-bazilika megtekintése.\n\nDélután: A Marafor tér római emlékei és a román stílusú házak.\n\nEste: Naplemente a kikötőben és vacsora egy hangulatos teraszon.",
+        "ro": "Dimineața: Plimbare pe strada Decumanus și explorarea turnurilor medievale.\n\nLa prânz: Vizitarea Bazilicii Eufraziene, sit inclus în patrimoniul UNESCO.\n\nDupă-amiaza: Descoperirea ruinelor romane din Piața Marafor.\n\nSeara: Apus de soare pe faleză și cină într-un restaurant tradițional.",
+        "en": "Morning: Walk along the Decumanus main street and explore the towers.\n\nMidday: Visit the Euphrasian Basilica, a stunning UNESCO World Heritage site.\n\nAfternoon: Discover Roman ruins at Marafor Square and old stone houses.\n\nEvening: Enjoy the sunset at the harbor followed by dinner in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fuži mit Trüffeln",
+            "tip": "Probieren Sie diese lokale Pasta im Restaurant Sv. Nikola."
+          },
+          {
+            "name": "Istrischer Schinken",
+            "tip": "In einer Konaba mit lokalem Olivenöl genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuži szarvasgombával",
+            "tip": "Kóstolja meg a helyi tésztát a Sv. Nikola étteremben."
+          },
+          {
+            "name": "Isztriai pršut",
+            "tip": "Helyi olívaolajjal kísért füstölt sonka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fuži cu trufe",
+            "tip": "Gustați aceste paste locale la restaurantul Sv. Nikola."
+          },
+          {
+            "name": "Pršut istrian",
+            "tip": "Șuncă afumată servită cu ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuži with truffles",
+            "tip": "Try this local pasta at Restaurant Sv. Nikola."
+          },
+          {
+            "name": "Istrian pršut",
+            "tip": "Smoked ham best enjoyed with local olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Sveti Nikola",
+            "tip": "Kurze Bootsfahrt für ruhige Strände.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Marafor-Ruinen",
+            "tip": "Ein stiller Ort am Ende der Halbinsel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós sziget",
+            "tip": "Rövid hajóút a nyugodt strandokért.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Marafor romok",
+            "tip": "Csendes pont a félsziget végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Sveti Nikola",
+            "tip": "O scurtă călătorie cu barca pentru plaje liniștite.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Ruinele Marafor",
+            "tip": "Un loc liniștit la capătul peninsulei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Nikola Island",
+            "tip": "Short boat trip for quiet beaches.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Marafor Ruins",
+            "tip": "A quiet spot at the tip of the peninsula.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Poreč Markt",
+            "tip": "Lokaler Käse, Honig und Olivenöl."
+          },
+          {
+            "name": "Souvenirs aus Ton",
+            "tip": "Traditionelle istrische Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poreči piac",
+            "tip": "Helyi sajtok, méz és olívaolaj."
+          },
+          {
+            "name": "Agyag ajándéktárgyak",
+            "tip": "Hagyományos isztriai kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Poreč",
+            "tip": "Brânzeturi locale, miere și ulei de măsline."
+          },
+          {
+            "name": "Suveniruri din lut",
+            "tip": "Ceramică tradițională istriană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poreč Market",
+            "tip": "Local cheeses, honey, and olive oil."
+          },
+          {
+            "name": "Clay Souvenirs",
+            "tip": "Traditional Istrian ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Basilika schließt sonntags für Besichtigungen.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Parken Sie außerhalb der Altstadtzone.",
+          "Die touristischen Züge verbinden das Zentrum mit den Lagunen."
+        ],
+        "hu": [
+          "A bazilika vasárnap délután zárva van a látogatók előtt.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Parkoljon az óvárosi zónán kívül.",
+          "A kisvasút összeköti a központot a lagúnákkal."
+        ],
+        "ro": [
+          "Bazilica este închisă pentru vizitare duminica.",
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Parcați în afara zonei orașului vechi.",
+          "Trenulețele turistice fac legătura între centru și lagune."
+        ],
+        "en": [
+          "The Basilica is closed for tourists during Sunday services.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Park outside the old town pedestrian zone.",
+          "Tourist trains connect the center with the lagoons."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fünfeckiger Turm",
+          "coords": [
+            13.5948,
+            45.2271
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt an den Stadtmauern.",
+            "hu": "Kiindulópont a városfalaknál.",
+            "ro": "Punct de plecare la zidurile orașului.",
+            "en": "Starting point by the city walls."
+          }
+        },
+        {
+          "name": "Euphrasius-Basilika",
+          "coords": [
+            13.5941,
+            45.2285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder müssen draußen bleiben.",
+            "hu": "A bicikliket kint kell hagyni.",
+            "ro": "Bicicletele trebuie lăsate afară.",
+            "en": "Bikes must be left outside."
+          }
+        },
+        {
+          "name": "Lungomare",
+          "coords": [
+            13.598,
+            45.22
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schöne Küstenfahrt Richtung Süden.",
+            "hu": "Szép parti út déli irányba.",
+            "ro": "Drum frumos pe coastă spre sud.",
+            "en": "Beautiful coastal ride heading south."
+          }
+        },
+        {
+          "name": "Plava Laguna",
+          "coords": [
+            13.592,
+            45.205
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Badepause.",
+            "hu": "Tökéletes egy fürdőzési szünethez.",
+            "ro": "Perfect pentru o pauză de înot.",
+            "en": "Perfect for a swimming break."
+          }
+        },
+        {
+          "name": "Runder Turm",
+          "coords": [
+            13.594,
+            45.2265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Zurück in der Stadt für einen Snack.",
+            "hu": "Vissza a városba egy kis harapnivalóra.",
+            "ro": "Înapoi în oraș pentru o gustare.",
+            "en": "Back in town for a snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Kurzer Stopp in der Altstadt und dann Fahrt entlang der Küste.\n\nMittag: Entspannung und Schwimmen in der Plava Laguna.\n\nNachmittag: Rückfahrt auf dem Kiefernbeschatteten Lungomare.\n\nAbend: Rückgabe der Räder und Drink im Hafen.",
+        "hu": "Délelőtt: Rövid megálló az óvárosban, majd tekerés a part mentén.\n\nDélben: Pihenés és fürdés a Kék Lagúnánál (Plava Laguna).\n\nDélután: Visszaút a fenyőerdőkkel övezett Lungomare sétányon.\n\nEste: Biciklik leadása és egy ital a kikötőben.",
+        "ro": "Dimineața: Scurtă oprire în orașul vechi, apoi pedalare de-a lungul coastei.\n\nLa prânz: Relaxare și înot la Plava Laguna.\n\nDupă-amiaza: Întoarcere pe faleza Lungomare umbrită de pini.\n\nSeara: Returnarea bicicletelor și o băutură în port.",
+        "en": "Morning: Quick stop in the old town, then ride along the coast.\n\nMidday: Relax and swim at Plava Laguna.\n\nAfternoon: Return journey via the pine-shaded Lungomare promenade.\n\nEvening: Return the bikes and enjoy a drink at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Aba",
+            "tip": "Frische Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Aba",
+            "tip": "Friss tengeri ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Aba",
+            "tip": "Fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Aba",
+            "tip": "Fresh seafood specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zelena Laguna",
+            "tip": "Ruhigere Buchten weiter südlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zelena Laguna",
+            "tip": "Csendesebb öblök délebbre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zelena Laguna",
+            "tip": "Golfuri mai liniștite spre sud.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zelena Laguna",
+            "tip": "Quieter bays further south.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike Point",
+            "tip": "Ersatzteile und Verleih."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bike Point",
+            "tip": "Alkatrészek és kölcsönzés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bike Point",
+            "tip": "Piese și închiriere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Point",
+            "tip": "Parts and rental services."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Küstenwege.",
+          "Achten Sie auf Fußgänger am Lungomare."
+        ],
+        "hu": [
+          "Használja a kijelölt parti utakat.",
+          "Figyeljen a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Folosiți pistele de coastă marcate.",
+          "Atenție la pietoni pe faleză."
+        ],
+        "en": [
+          "Use the marked coastal bike paths.",
+          "Be careful with pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Baredine Höhle",
+          "coords": [
+            13.66,
+            45.27
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Höhle bei Poreč, kühl und beeindruckend.",
+            "hu": "Barlang Poreč mellett, hűvös és lenyűgöző.",
+            "ro": "Peșteră lângă Poreč, răcoroasă și impresionantă.",
+            "en": "Cave near Poreč, cool and impressive."
+          }
+        },
+        {
+          "name": "Euphrasius-Basilika",
+          "coords": [
+            13.5941,
+            45.2285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Parken Sie beim großen Parkplatz 'Vrtovi'.",
+            "hu": "Parkoljon a nagy 'Vrtovi' parkolóban.",
+            "ro": "Parcați la parcarea mare 'Vrtovi'.",
+            "en": "Park at the large 'Vrtovi' parking lot."
+          }
+        },
+        {
+          "name": "Marafor-Platz",
+          "coords": [
+            13.5915,
+            45.228
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Ausflug zur Baredine-Höhle im Hinterland.\n\nMittag: Rückkehr nach Poreč und Besuch der Altstadt.\n\nNachmittag: Fahrt zum Lim-Fjord für Austern.\n\nAbend: Dinner in einem Agroturizam außerhalb der Stadt.",
+        "hu": "Délelőtt: Kirándulás a Baredine-barlangba a hátországban.\n\nDélben: Visszatérés Porečbe és az óváros megtekintése.\n\nDélután: Autózás a Lim-fjordhoz osztrigát kóstolni.\n\nEste: Vacsora egy városon kívüli agroturizmusban.",
+        "ro": "Dimineața: Excursie la peștera Baredine din hinterland.\n\nLa prânz: Revenire în Poreč și vizitarea centrului vechi.\n\nDupă-amiaza: Conducere spre fiordul Lim pentru stridii.\n\nSeara: Cină la un agroturism în afara orașului.",
+        "en": "Morning: Trip to the Baredine Cave in the hinterland.\n\nMidday: Return to Poreč and explore the old town.\n\nAfternoon: Drive to Lim Fjord for fresh oysters.\n\nEvening: Dinner at an 'agroturizam' outside the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lim Fjord Austern",
+            "tip": "Direkt am Wasser genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim-fjordi osztriga",
+            "tip": "Közvetlenül a parton fogyasztva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii de Fiord Lim",
+            "tip": "Gustați-le direct pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lim Fjord Oysters",
+            "tip": "Enjoy them fresh right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lim-Kanal Aussicht",
+            "tip": "Toller Stopp an der Straße.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim-csatorna kilátó",
+            "tip": "Remek megálló az út mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Canal Lim",
+            "tip": "O oprire excelentă pe marginea drumului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lim Canal Viewpoint",
+            "tip": "Great stop along the road.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hinterland Olivenöl",
+            "tip": "Kauf direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátországi olívaolaj",
+            "tip": "Vásárlás közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hinterland Olive Oil",
+            "tip": "Buy directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist fast unmöglich.",
+          "Inland-Straßen sind kurvig aber schön."
+        ],
+        "hu": [
+          "Az óvárosi parkolás szinte lehetetlen.",
+          "A belső utak kanyargósak, de szépek."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi e aproape imposibilă.",
+          "Drumurile interioare sunt virajate, dar frumoase."
+        ],
+        "en": [
+          "Parking in the old town is almost impossible.",
+          "Inland roads are curvy but scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busbahnhof Poreč",
+          "coords": [
+            13.599,
+            45.226
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt.",
+            "hu": "Központi csomópont.",
+            "ro": "Nod central de transport.",
+            "en": "Central transport hub."
+          }
+        },
+        {
+          "name": "Decumanus-Straße",
+          "coords": [
+            13.594,
+            45.2275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busbahnhof.",
+            "hu": "Rövid séta a buszállomástól.",
+            "ro": "Scurtă plimbare de la autogară.",
+            "en": "Short walk from the bus station."
+          }
+        },
+        {
+          "name": "Touristenzug Haltestelle",
+          "coords": [
+            13.596,
+            45.224
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nimmt Sie mit zu den Hotels und Stränden.",
+            "hu": "Elviszi a szállodákhoz és strandokhoz.",
+            "ro": "Vă duce la hoteluri și plaje.",
+            "en": "Takes you to hotels and beaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Ankunft mit dem Bus und Start in der Altstadt.\n\nMittag: Besuch der Basilika.\n\nNachmittag: Fahrt mit dem Touristenzug in den Süden.\n\nAbend: Rückkehr zum Bahnhof oder Fähre nach Venedig.",
+        "hu": "Délelőtt: Érkezés busszal, séta az óvárosban.\n\nDélben: A bazilika megtekintése.\n\nDélután: Utazás a kisvonattal délre a strandokhoz.\n\nEste: Visszatérés az állomásra vagy komp Velencébe.",
+        "ro": "Dimineața: Sosire cu autobuzul și start în orașul vechi.\n\nLa prânz: Vizitarea bazilicii.\n\nDupă-amiaza: Călătorie cu trenulețul turistic spre sud.\n\nSeara: Întoarcere la autogară sau feribot spre Veneția.",
+        "en": "Morning: Arrival by bus and start in the old town.\n\nMidday: Visit the Basilica.\n\nAfternoon: Ride the tourist train south to the beaches.\n\nEvening: Return to the station or ferry to Venice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Fontana",
+            "tip": "Günstig und gut am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Fontana",
+            "tip": "Olcsó és jó a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Fontana",
+            "tip": "Ieftin și bun în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Fontana",
+            "tip": "Good value near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Ruhiger Blick aufs Meer.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői móló",
+            "tip": "Nyugodt kilátás a tengerre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Mole",
+            "tip": "Quiet sea views.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Duty Free",
+            "tip": "Am Fährterminal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duty Free",
+            "tip": "A kompterminálnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duty Free",
+            "tip": "La terminalul de feribot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duty Free",
+            "tip": "At the ferry terminal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Touristenzug fährt alle 30 Min.",
+          "Fahrkarten beim Fahrer kaufen."
+        ],
+        "hu": [
+          "A kisvonat 30 percenként jár.",
+          "Jegyet a vezetőnél lehet venni."
+        ],
+        "ro": [
+          "Trenulețul circulă la 30 min.",
+          "Cumpărați bilete de la șofer."
+        ],
+        "en": [
+          "The tourist train runs every 30 mins.",
+          "Buy tickets from the driver."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Poreč",
+    "region": "HR-18",
+    "coords": [
+      13.5944,
+      45.2278
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en",
+    "transit_app": "https://getbybus.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.myporec.com/en/events",
+    "tourism_office": "https://www.myporec.com/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+    "restaurants_booking": "https://www.zonzofox.com",
+    "museum_tickets": "https://www.istra.hr/en/destinations/porec",
+    "parking_real_time": "https://www.myporec.com/en/about-porec/parking",
+    "language_tips": {
+      "de": "Amtssprache ist Kroatisch; in Poreč spricht das Tourismuspersonal meist gut Deutsch und Italienisch (zweisprachige istrische Region), Englisch ebenfalls verbreitet.",
+      "hu": "A hivatalos nyelv a horvát; Porečben a turisztikai dolgozók többsége jól beszél olaszul és németül (kétnyelvű isztriai régió), az angol is gyakori.",
+      "ro": "Limba oficială este croata; în Poreč personalul turistic vorbește bine italiana și germana (regiune bilingvă Istria), engleza este de asemenea răspândită.",
+      "en": "Official language is Croatian; in Poreč tourism staff commonly speak Italian and German fluently (bilingual Istrian region), English is widespread."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September für angenehmes Wetter ohne Hochsaison-Andrang; Juli/August sehr voll und heiß.",
+      "hu": "Május-június és szeptember a legjobb a kellemes idő miatt, csúcsszezon nélkül; július-augusztus zsúfolt és forró.",
+      "ro": "Mai-iunie și septembrie pentru vreme plăcută fără aglomerația de vârf; iulie/august foarte aglomerat și călduros.",
+      "en": "May-June and September for pleasant weather without peak crowds; July-August very crowded and hot."
+    },
+    "neighborhood_warnings": {
+      "de": "Altstadt sicher; in der Hochsaison auf Taschendiebe an der Riva und auf engen Gassen achten. Parken in der Altstadt verboten, externe Parkhäuser nutzen.",
+      "hu": "Az óváros biztonságos; főszezonban figyelj a zsebtolvajokra a parton és a szűk utcákon. Az óvárosban tilos parkolni, használj külső parkolóházat.",
+      "ro": "Centrul vechi este sigur; în sezon de vârf atenție la buzunărași pe faleză și pe străduțele înguste. Parcarea în centrul vechi este interzisă, folosiți parcările exterioare.",
+      "en": "Old town is safe; in peak season watch for pickpockets on the waterfront and narrow lanes. Parking in old town is prohibited, use perimeter garages."
+    }
+  }
+}

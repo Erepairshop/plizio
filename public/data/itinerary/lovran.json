@@ -1,0 +1,1144 @@
+{
+  "city_id": "lovran",
+  "anchor": {
+    "name": "Lovran",
+    "coords": [
+      14.2728,
+      45.2906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Lovran",
+            "hu": "Lovran óvárosa",
+            "ro": "Orașul vechi Lovran",
+            "en": "Lovran Old Town"
+          },
+          "coords": [
+            14.2735,
+            45.2912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die engen mittelalterlichen Gassen.",
+            "hu": "Fedezzük fel a szűk középkori sikátorokat.",
+            "ro": "Explorați străduțele medievale înguste.",
+            "en": "Explore the narrow medieval alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm von Lovran",
+            "hu": "Lovrani várostorony",
+            "ro": "Turnul orașului Lovran",
+            "en": "Lovran City Tower"
+          },
+          "coords": [
+            14.274,
+            45.2915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einziges erhaltenes Element der Stadtmauer.",
+            "hu": "A városfal egyetlen megmaradt eleme.",
+            "ro": "Singurul element păstrat din zidul orașului.",
+            "en": "The only preserved element of the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of St. George"
+          },
+          "coords": [
+            14.2732,
+            45.2918
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gotische Kirche mit barockem Altar.",
+            "hu": "Gótikus templom barokk oltárral.",
+            "ro": "Biserică gotică cu altar baroc.",
+            "en": "Gothic church with a Baroque altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Lovran",
+            "hu": "Lovrani kikötő",
+            "ro": "Portul Lovran",
+            "en": "Lovran Harbor"
+          },
+          "coords": [
+            14.275,
+            45.2922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Idyllischer Ort mit kleinen Fischerbooten.",
+            "hu": "Idilli hely kis halászhajókkal.",
+            "ro": "Loc idilic cu bărci mici de pescuit.",
+            "en": "Idyllic spot with small fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare-Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            14.278,
+            45.295
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Traumhafter Weg direkt am Meer.",
+            "hu": "Csodás sétány közvetlenül a tengerparton.",
+            "ro": "Drum de vis chiar pe malul mării.",
+            "en": "Dreamy path right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Frappart",
+            "hu": "Villa Frappart",
+            "ro": "Vila Frappart",
+            "en": "Villa Frappart"
+          },
+          "coords": [
+            14.2765,
+            45.2855
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prachtvolle Architektur der Belle Époque.",
+            "hu": "A Belle Époque pompás építészete.",
+            "ro": "Arhitectură splendidă din Belle Époque.",
+            "en": "Magnificent Belle Époque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfintei Treimi",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            14.2755,
+            45.2905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kleine Kirche oberhalb des Hafens.",
+            "hu": "Kis templom a kikötő felett.",
+            "ro": "Biserică mică deasupra portului.",
+            "en": "Small church above the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Peharovo",
+            "hu": "Peharovo strand",
+            "ro": "Plaja Peharovo",
+            "en": "Peharovo Beach"
+          },
+          "coords": [
+            14.2705,
+            45.2852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einer der schönsten Kieselstrände der Region.",
+            "hu": "A régió egyik legszebb kavicsos strandja.",
+            "ro": "Una dintre cele mai frumoase plaje cu pietriș.",
+            "en": "One of the region's most beautiful pebble beaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der bezaubernden Altstadt von Lovran. Schlendern Sie durch die mittelalterlichen Gassen zum Stadtturm und zur St. Georgs-Kirche, wo die Zeit stehengeblieben zu sein scheint.\n\nMittags führt Sie der Weg zum Hafen und auf die berühmte Lungomare-Promenade. Genießen Sie die salzige Meeresbrise und die Aussicht auf die Kvarner-Bucht, während Sie an eleganten Villen vorbeispazieren.\n\nNachmittags bewundern Sie die Architektur der Villa Frappart und besuchen die kleine Dreifaltigkeitskirche, bevor Sie zum Strand Peharovo weitergehen.\n\nDen Tag lassen Sie entspannt am Strand ausklingen. Das glasklare Wasser und der Schatten der Kiefern bieten den perfekten Rahmen für einen mediterranen Abend.",
+        "hu": "Kezdjük a napot Lovran varázslatos óvárosában. Barangoljunk a középkori sikátorok között a várostoronyhoz és a Szent György-templomhoz, ahol megállt az idő.\n\nDélben az út a kikötőbe és a híres Lungomare sétányra vezet. Élvezzük a sós tengeri levegőt és a Kvarner-öböl látványát, miközben elegáns villák mellett haladunk el.\n\nDélután csodáljuk meg a Villa Frappart építészetét és keressük fel a Szentháromság-templomot, mielőtt a Peharovo strand felé vennénk az irányt.\n\nA napot pihenéssel zárjuk a strandon. A kristálytiszta víz és a fenyők árnyéka tökéletes keretet ad a mediterrán estének.",
+        "ro": "Începeți ziua în fermecătorul oraș vechi Lovran. Plimbați-vă pe străduțele medievale până la Turnul orașului și Biserica Sf. Gheorghe, unde timpul pare să fi stat în loc.\n\nLa prânz, drumul vă duce spre port și pe faimoasa promenadă Lungomare. Bucurați-vă de briza sărată a mării și de vederea asupra golfului Kvarner, trecând pe lângă vile elegante.\n\nDupă-amiaza admirați arhitectura Vilei Frappart și vizitați mica biserică a Sfintei Treimi înainte de a merge spre plaja Peharovo.\n\nÎncheiați ziua relaxat pe plajă. Apa cristalină și umbra pinilor oferă cadrul perfect pentru o seară mediteraneană.",
+        "en": "Begin your day in the charming Old Town of Lovran. Wander through medieval alleys to the City Tower and St. George's Church, where time seems to stand still.\n\nAt noon, the path leads to the harbor and the famous Lungomare promenade. Enjoy the salty sea breeze and the view of the Kvarner Bay as you walk past elegant villas.\n\nIn the afternoon, admire the architecture of Villa Frappart and visit the small Holy Trinity Church before heading to Peharovo beach.\n\nEnd the day relaxing at the beach. The crystal clear water and the shade of the pines offer the perfect setting for a Mediterranean evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draga di Lovrana",
+            "tip": "Exzellente Küche mit Panoramablick."
+          },
+          {
+            "name": "Konoba Kali",
+            "tip": "Probieren Sie die berühmten Lovraner Maronen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draga di Lovrana",
+            "tip": "Kiváló konyha panorámás kilátással."
+          },
+          {
+            "name": "Konoba Kali",
+            "tip": "Kóstoljuk meg a híres lovrani szelídgesztenyét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draga di Lovrana",
+            "tip": "Bucătărie excelentă cu vedere panoramică."
+          },
+          {
+            "name": "Konoba Kali",
+            "tip": "Încercați faimoasele castane din Lovran."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draga di Lovrana",
+            "tip": "Excellent cuisine with a panoramic view."
+          },
+          {
+            "name": "Konoba Kali",
+            "tip": "Try the famous Lovran chestnuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungomare (südlicher Teil)",
+            "tip": "Ruhige Buchten zum Entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Lovran",
+            "tip": "Schattige Plätze unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungomare (déli szakasz)",
+            "tip": "Csendes öblök a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lovrani park",
+            "tip": "Árnyas padok az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungomare (partea de sud)",
+            "tip": "Golfuri liniștite pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Lovran",
+            "tip": "Locuri umbrite sub arbori bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungomare (southern part)",
+            "tip": "Quiet bays for relaxation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lovran Park",
+            "tip": "Shady spots under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt Lovran",
+            "tip": "Frisches Obst und lokale Maronen-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lovrani helyi piac",
+            "tip": "Friss gyümölcsök és gesztenyés termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Lovran",
+            "tip": "Fructe proaspete și produse din castane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lovran Local Market",
+            "tip": "Fresh fruit and local chestnut products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie Lovran im Oktober zur 'Marunada', dem Kastanienfest.",
+          "Die Lungomare-Promenade ist beleuchtet und auch abends sicher.",
+          "Parkplätze sind im Sommer im Zentrum sehr knapp."
+        ],
+        "hu": [
+          "Látogassunk el Lovranba októberben a Marunada gesztenyefesztiválra.",
+          "A Lungomare sétány kivilágított és este is biztonságos.",
+          "Nyáron a központi parkolók hamar megtelnek."
+        ],
+        "ro": [
+          "Vizitați Lovran în octombrie pentru 'Marunada', festivalul castanelor.",
+          "Promenada Lungomare este iluminată și sigură și seara.",
+          "Locurile de parcare sunt limitate în centru pe timpul verii."
+        ],
+        "en": [
+          "Visit Lovran in October for 'Marunada', the chestnut festival.",
+          "The Lungomare promenade is lit and safe at night.",
+          "Parking spaces are very scarce in the center during summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Lovran",
+            "hu": "Lovran óvárosa",
+            "ro": "Orașul vechi Lovran",
+            "en": "Lovran Old Town"
+          },
+          "coords": [
+            14.2735,
+            45.2912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Indulópont a város szívében.",
+            "ro": "Punct de start în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Lovran",
+            "hu": "Lovrani kikötő",
+            "ro": "Portul Lovran",
+            "en": "Lovran Harbor"
+          },
+          "coords": [
+            14.275,
+            45.2922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Wasser.",
+            "hu": "Gyors megálló a víznél.",
+            "ro": "Oprire scurtă la apă.",
+            "en": "Short stop by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ičići (Nachbarort)",
+            "hu": "Ičići (szomszédos falu)",
+            "ro": "Ičići (localitate vecină)",
+            "en": "Ičići (neighboring village)"
+          },
+          "coords": [
+            14.288,
+            45.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Leichte Fahrt entlang der Küstenstraße.",
+            "hu": "Könnyű tekerés a parti úton.",
+            "ro": "Drum ușor pe șoseaua de coastă.",
+            "en": "Easy ride along the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Frappart",
+            "hu": "Villa Frappart",
+            "ro": "Vila Frappart",
+            "en": "Villa Frappart"
+          },
+          "coords": [
+            14.2765,
+            45.2855
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein historisches Highlight am Weg.",
+            "hu": "Történelmi látnivaló az út mentén.",
+            "ro": "Un punct istoric pe drum.",
+            "en": "A historic highlight on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Peharovo",
+            "hu": "Peharovo strand",
+            "ro": "Plaja Peharovo",
+            "en": "Peharovo Beach"
+          },
+          "coords": [
+            14.2705,
+            45.2852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Baden und Entspannen.",
+            "hu": "Fürdés és pihenés.",
+            "ro": "Baie și relaxare.",
+            "en": "Swimming and relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm von Lovran",
+            "hu": "Lovrani várostorony",
+            "ro": "Turnul orașului Lovran",
+            "en": "Lovran City Tower"
+          },
+          "coords": [
+            14.274,
+            45.2915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Stadtzentrum.",
+            "hu": "Visszatérés a városközpontba.",
+            "ro": "Revenire în centrul orașului.",
+            "en": "Return to the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie in der Altstadt und radeln Sie entlang der Küste nach Norden bis Ičići. Die Straße bietet herrliche Ausblicke auf das tiefblaue Meer.\n\nNach einer Pause in Ičići kehren Sie nach Lovran zurück, passieren die prachtvolle Villa Frappart und fahren zum Strand Peharovo im Süden.\n\nGenießen Sie die Mittagssonne am Strand und kühlen Sie sich im Meer ab, bevor Sie zum Stadtturm im Zentrum zurückkehren.\n\nDie Tour endet wieder im Herzen von Lovran, wo Sie den Tag in einem der gemütlichen Cafés ausklingen lassen können.",
+        "hu": "Induljunk az óvárosból és tekerjünk a part mentén északra Ičići felé. Az út pazar kilátást nyújt a mélykék tengerre.\n\nEgy rövid pihenő után térjünk vissza Lovranba, érintve a pompás Villa Frappartot, majd irány délnek a Peharovo strand.\n\nÉlvezzük a déli napsütést a parton és hűsöljünk a tengerben, mielőtt visszatérnénk a városközpontba a várostoronyhoz.\n\nA túra Lovran szívében ér véget, ahol egy hangulatos kávézóban pihenhetjük ki a tekerés fáradalmait.",
+        "ro": "Porniți din orașul vechi și pedalați de-a lungul coastei spre nord până în Ičići. Drumul oferă vederi superbe asupra mării albastre.\n\nDupă o pauză în Ičići, reveniți în Lovran, treceți pe lângă Vila Frappart și continuați spre plaja Peharovo în sud.\n\nBucurați-vă de soarele prânzului pe plajă și răcoriți-vă în mare înainte de a reveni la Turnul orașului din centru.\n\nTurul se încheie în inima localității Lovran, unde vă puteți relaxa la una dintre cafenelele primitoare.",
+        "en": "Start in the Old Town and cycle along the coast north to Ičići. The road offers magnificent views of the deep blue sea.\n\nAfter a break in Ičići, return to Lovran, pass the magnificent Villa Frappart and head south to Peharovo beach.\n\nEnjoy the midday sun at the beach and cool off in the sea before returning to the City Tower in the center.\n\nThe tour ends in the heart of Lovran, where you can relax at one of the cozy cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Obal",
+            "tip": "Frische Salate und Snacks für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Obal",
+            "tip": "Friss saláták és snackek bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Obal",
+            "tip": "Salate proaspete și gustări pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Obal",
+            "tip": "Fresh salads and snacks for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenweg nach Medveja",
+            "tip": "Ruhiger Abschnitt südlich von Lovran.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Medvejai parti út",
+            "description": "Csendes szakasz Lovrantól délre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre Medveja",
+            "tip": "Secțiune liniștită la sud de Lovran.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal road to Medveja",
+            "tip": "Quiet section south of Lovran.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Lovran",
+            "tip": "Lokale Tipps für Touren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lovrani bringakölcsönző",
+            "tip": "Helyi tippek a túrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete Lovran",
+            "tip": "Sfaturi locale pentru trasee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lovran Bike Rental",
+            "tip": "Local tips for tours."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Lungomare-Promenade ist nur für Fußgänger; nutzen Sie die Hauptstraße zum Radeln.",
+          "Tragen Sie einen Helm, der Verkehr auf der Küstenstraße kann stark sein.",
+          "Meiden Sie die heißen Mittagsstunden für lange Steigungen."
+        ],
+        "hu": [
+          "A Lungomare sétány csak gyalogosoké; bringával a főutat használjuk.",
+          "Viseljünk sisakot, a parti út forgalmas lehet.",
+          "Kerüljük a forró déli órákat a hosszabb emelkedőkhöz."
+        ],
+        "ro": [
+          "Promenada Lungomare este doar pentru pietoni; folosiți drumul principal.",
+          "Purtați cască, traficul pe drumul de coastă poate fi intens.",
+          "Evitați orele prânzului pentru urcările lungi."
+        ],
+        "en": [
+          "The Lungomare promenade is for pedestrians only; use the main road for cycling.",
+          "Wear a helmet, traffic on the coastal road can be heavy.",
+          "Avoid the hot midday hours for long climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Lovran",
+            "hu": "Lovran óvárosa",
+            "ro": "Orașul vechi Lovran",
+            "en": "Lovran Old Town"
+          },
+          "coords": [
+            14.2735,
+            45.2912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem zentralen Parkplatz 'Brajdice'.",
+            "hu": "Parkoljunk a központi 'Brajdice' parkolóban.",
+            "ro": "Parcați în parcarea centrală 'Brajdice'.",
+            "en": "Park at the central 'Brajdice' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Frappart",
+            "hu": "Villa Frappart",
+            "ro": "Vila Frappart",
+            "en": "Villa Frappart"
+          },
+          "coords": [
+            14.2765,
+            45.2855
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fotostopp an der prachtvollen Fassade.",
+            "hu": "Fotómegálló a díszes homlokzatnál.",
+            "ro": "Oprire pentru fotografii la fațada splendidă.",
+            "en": "Photo stop at the magnificent facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Učka (Naturpark)",
+            "hu": "Učka (Nemzeti Park)",
+            "ro": "Učka (Parcul Natural)",
+            "en": "Učka (Nature Park)"
+          },
+          "coords": [
+            14.2,
+            45.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Gipfel Vojak für den 360-Grad-Blick.",
+            "hu": "Autózzunk fel a Vojak-csúcsra a 360 fokos panorámáért.",
+            "ro": "Mergeți până pe vârful Vojak pentru vederea de 360 de grade.",
+            "en": "Drive to the Vojak summit for the 360-degree view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Lovran",
+            "hu": "Lovrani kikötő",
+            "ro": "Portul Lovran",
+            "en": "Lovran Harbor"
+          },
+          "coords": [
+            14.275,
+            45.2922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Mittagessen mit Blick auf die Fischerboote.",
+            "hu": "Ebéd a halászhajók látványával.",
+            "ro": "Prânz cu vedere la bărcile de pescuit.",
+            "en": "Lunch with a view of the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Peharovo",
+            "hu": "Peharovo strand",
+            "ro": "Plaja Peharovo",
+            "en": "Peharovo Beach"
+          },
+          "coords": [
+            14.2705,
+            45.2852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzte Abkühlung vor der Abreise.",
+            "hu": "Utolsó hűsölés indulás előtt.",
+            "ro": "Ultima răcorire înainte de plecare.",
+            "en": "Final cool off before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie in Lovrans Altstadt und bewundern Sie kurz die Villa Frappart. Danach führt Sie eine spektakuläre Bergstraße hinauf in den Naturpark Učka.\n\nVom Gipfel Vojak aus sehen Sie bei klarem Wetter bis nach Venedig und zu den Julischen Alpen. Es ist der ultimative Aussichtspunkt der Kvarner-Region.\n\nZurück an der Küste genießen Sie ein spätes Mittagessen am Hafen von Lovran und beobachten das maritime Treiben.\n\nDen Nachmittag verbringen Sie am Strand Peharovo, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Induljunk Lovran óvárosából, érintve a Villa Frappartot. Ezután egy látványos hegyi út vezet fel az Učka Nemzeti Parkba.\n\nA Vojak-csúcsról tiszta időben akár Velencéig és a Júliai-Alpokig is elláthatunk. Ez a Kvarner-régió legszebb kilátópontja.\n\nVisszatérve a partra, élvezzük a késői ebédet Lovran kikötőjében, figyelve a tengeri nyüzsgést.\n\nA délutánt töltsük a Peharovo strandon, mielőtt folytatnánk utunkat.",
+        "ro": "Porniți din orașul vechi Lovran și admirați Vila Frappart. Apoi, un drum montan spectaculos vă conduce în Parcul Natural Učka.\n\nDe pe vârful Vojak, pe vreme senină, puteți vedea până la Veneția și Alpii Iulieni. Este cel mai bun punct de observație din regiunea Kvarner.\n\nReveniți la coastă și savurați un prânz târziu în portul Lovran, observând activitatea maritimă.\n\nPetreceți după-amiaza pe plaja Peharovo înainte de a vă continua călătoria.",
+        "en": "Start in Lovran's Old Town and briefly admire Villa Frappart. Then, a spectacular mountain road leads you up to the Učka Nature Park.\n\nFrom the Vojak summit, on a clear day, you can see as far as Venice and the Julian Alps. It is the ultimate viewpoint of the Kvarner region.\n\nBack at the coast, enjoy a late lunch at Lovran harbor and watch the maritime activity.\n\nSpend the afternoon at Peharovo beach before continuing your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Riviera",
+            "tip": "Meeresfrüchte-Spezialitäten am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Riviera",
+            "tip": "Tengeri különlegességek a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Riviera",
+            "tip": "Specialități din fructe de mare pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Riviera",
+            "tip": "Seafood specialties by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vojak Aussichtsturm",
+            "tip": "Ruhe über den Wolken.",
+            "emoji": "⛰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vojak kilátótorony",
+            "tip": "Csend a felhők felett.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observare Vojak",
+            "tip": "Liniște deasupra norilor.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vojak Observation Tower",
+            "tip": "Peace above the clouds.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen in der Altstadt",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi ajándékbolt",
+            "tip": "Kézzel készített kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri din orașul vechi",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Souvenir Shop",
+            "tip": "Handcrafted ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße auf den Učka ist kurvig, aber gut asphaltiert.",
+          "Zahlen Sie die Parkgebühr per App oder an den Automaten.",
+          "Nehmen Sie eine Jacke mit auf den Berg, dort ist es deutlich kühler."
+        ],
+        "hu": [
+          "Az Učkára vezető út kanyargós, de jól aszfaltozott.",
+          "A parkolást fizessük applikációval vagy az automatáknál.",
+          "Vigyünk kabátot a hegyre, ott jóval hűvösebb van."
+        ],
+        "ro": [
+          "Drumul spre Učka este virajat, dar bine asfaltat.",
+          "Plătiți taxa de parcare prin aplicație sau la automate.",
+          "Luați o jachetă pe munte, acolo este mult mai răcoare."
+        ],
+        "en": [
+          "The road up to Učka is curvy but well-paved.",
+          "Pay parking fees via app or at the machines.",
+          "Take a jacket to the mountain, it's significantly cooler there."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Lovran Zentrum",
+            "hu": "Lovran központ buszmegálló",
+            "ro": "Stație de autobuz Centru Lovran",
+            "en": "Lovran Center Bus Stop"
+          },
+          "coords": [
+            14.274,
+            45.291
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Halt der Linie 32 aus Rijeka/Opatija.",
+            "hu": "A Fiuméből és Abbáziából érkező 32-es járat megállója.",
+            "ro": "Stația liniei 32 din Rijeka/Opatija.",
+            "en": "Stop for line 32 from Rijeka/Opatija."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Lovran",
+            "hu": "Lovran óvárosa",
+            "ro": "Orașul vechi Lovran",
+            "en": "Lovran Old Town"
+          },
+          "coords": [
+            14.2735,
+            45.2912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Haltestelle.",
+            "hu": "Közvetlenül a megálló mellett.",
+            "ro": "Chiar lângă stație.",
+            "en": "Right next to the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Lovran",
+            "hu": "Lovrani kikötő",
+            "ro": "Portul Lovran",
+            "en": "Lovran Harbor"
+          },
+          "coords": [
+            14.275,
+            45.2922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang zur Riva.",
+            "hu": "Séta a partra.",
+            "ro": "Plimbare pe faleză.",
+            "en": "Walk to the Riva."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare-Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            14.278,
+            45.295
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flanieren am Meer.",
+            "hu": "Korzózás a tengerparton.",
+            "ro": "Plimbare pe malul mării.",
+            "en": "Strolling by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Peharovo",
+            "hu": "Peharovo strand",
+            "ro": "Plaja Peharovo",
+            "en": "Peharovo Beach"
+          },
+          "coords": [
+            14.2705,
+            45.2852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető a központból.",
+            "ro": "Accesibil pe jos din centru.",
+            "en": "Walkable from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie mit der Linie 32 im Zentrum an. Besuchen Sie zuerst die charmante Altstadt, die nur wenige Schritte entfernt liegt.\n\nDanach führt ein kurzer Spaziergang zum Hafen und auf die Lungomare. Genießen Sie die Szenerie der Kvarner-Bucht ganz ohne Parkplatzsorgen.\n\nDen Nachmittag verbringen Sie am Strand Peharovo, der vom Zentrum aus bequem zu Fuß erreichbar ist.\n\nZum Abschluss kehren Sie zur Haltestelle zurück, von wo aus Sie im 20-Minuten-Takt zurück nach Opatija oder Rijeka fahren können.",
+        "hu": "Érkezzünk meg a 32-es busszal a központba. Keressük fel a bájos óvárost, amely csak pár lépésre van.\n\nEzután egy rövid séta következik a kikötőbe és a Lungomare sétányra. Élvezzük a Kvarner-öböl látványát parkolási gondok nélkül.\n\nA délutánt töltsük a Peharovo strandon, amely gyalogosan is kényelmesen elérhető a buszmegállótól.\n\nZárásként térjünk vissza a megállóba, ahonnan 20 percenként indulnak járatok Abbázia és Fiume felé.",
+        "ro": "Sosiți cu linia 32 în centru. Vizitați mai întâi orașul vechi fermecător, aflat la doar câțiva pași.\n\nApoi, o scurtă plimbare vă duce spre port și pe Lungomare. Bucurați-vă de peisajul golfului Kvarner fără grija parcării.\n\nPetreceți după-amiaza pe plaja Peharovo, ușor accesibilă pe jos din centru.\n\nLa final, reveniți la stație, de unde puteți lua autobuzul înapoi spre Opatija sau Rijeka, acestea circulând la fiecare 20 de minute.",
+        "en": "Arrive with line 32 in the center. First, visit the charming Old Town, just a few steps away.\n\nThen, a short walk leads to the harbor and the Lungomare. Enjoy the scenery of the Kvarner Bay without any parking worries.\n\nSpend the afternoon at Peharovo beach, which is easily accessible on foot from the center.\n\nFinally, return to the bus stop, from where you can catch a bus back to Opatija or Rijeka every 20 minutes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Delfino",
+            "tip": "Beliebt bei Einheimischen und gut erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Delfino",
+            "tip": "A helyiek kedvence, könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Delfino",
+            "tip": "Preferata localnicilor, ușor accesibilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Delfino",
+            "tip": "Local favorite, easily accessible."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park bei der Bushaltestelle",
+            "tip": "Kleine grüne Oase zum Warten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a megálló mellett",
+            "tip": "Kis zöld oázis a várakozáshoz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă stație",
+            "tip": "Mică oază verde pentru așteptare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the bus stop",
+            "tip": "Small green oasis while waiting.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Fahrkarten und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisak kioszk",
+            "tip": "Buszjegyek és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Tisak",
+            "tip": "Bilete și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Bus tickets and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten am Kiosk, das ist günstiger als beim Fahrer.",
+          "Die Linie 32 verkehrt sehr häufig und verbindet die gesamte Riviera.",
+          "Die Haltestellen sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Vegyünk jegyet a kioszkban, olcsóbb, mint a sofőrnél.",
+          "A 32-es járat nagyon gyakori és az egész riviérát összeköti.",
+          "A megállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșc, este mai ieftin decât la șofer.",
+          "Linia 32 este foarte frecventă și conectează întreaga rivieră.",
+          "Stațiile sunt bine semnalizate."
+        ],
+        "en": [
+          "Buy tickets at the kiosk, it's cheaper than from the driver.",
+          "Line 32 is very frequent and connects the entire Riviera.",
+          "The bus stops are well-marked."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-08",
+    "coords": [
+      14.2728,
+      45.2906
+    ],
+    "transit_official": {
+      "name": "Autotrolej Rijeka (regional bus, Lovran line)",
+      "url": "https://autotrolej.hr/",
+      "verified": 200
+    },
+    "transit_app": {
+      "name": "Google Maps transit",
+      "url": "https://www.google.com/maps",
+      "verified": 200
+    },
+    "bike_share": null,
+    "city_card": null,
+    "events": {
+      "name": "Ulaznice.hr (Croatian ticketing platform)",
+      "url": "https://www.ulaznice.hr/",
+      "verified": 200
+    },
+    "tourism_office": {
+      "name": "TZ Lovran (Tourist Board)",
+      "url": "https://www.tz-lovran.hr/",
+      "verified": 200,
+      "alt": "https://visitlovran.com/"
+    },
+    "webcam": {
+      "name": "Skyline Webcams Lovran",
+      "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/lovran.html",
+      "verified": 200
+    },
+    "restaurants_booking": {
+      "name": "Google Maps (Lovran restaurants)",
+      "url": "https://www.google.com/maps/search/restaurants+Lovran",
+      "verified": 200
+    },
+    "museum_tickets": null,
+    "parking_real_time": {
+      "name": "HAK traffic & parking info",
+      "url": "https://www.hak.hr/",
+      "verified": 200
+    },
+    "language_tips": {
+      "de": "Amtssprache Kroatisch; in Lovran und an der Opatija-Riviera ist Italienisch und Deutsch im Tourismus weit verbreitet. 'Hvala' = Danke, 'Dobar dan' = Guten Tag.",
+      "hu": "Hivatalos nyelv a horvát; Lovranban és az Opatija-rivierán az olasz és német széles körben elterjedt a turizmusban. 'Hvala' = köszönöm, 'Dobar dan' = jó napot.",
+      "ro": "Limba oficială este croata; în Lovran și pe riviera Opatija italiana și germana sunt larg răspândite în turism. 'Hvala' = mulțumesc, 'Dobar dan' = bună ziua.",
+      "en": "Croatian is official; Italian and German are widely used in tourism along the Opatija riviera. 'Hvala' = thanks, 'Dobar dan' = good day."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Oktober; Kirschblüte April, Maronifest (Marunada) im Oktober ist der Höhepunkt.",
+      "hu": "Május és október eleje között; áprilisi cseresznyevirágzás, az októberi gesztenyeünnep (Marunada) a csúcsidőszak.",
+      "ro": "Mai până la începutul lunii octombrie; cireșii înfloresc în aprilie, festivalul castanelor (Marunada) din octombrie este punctul culminant.",
+      "en": "May to early October; cherry blossom in April, the October chestnut festival (Marunada) is the highlight."
+    },
+    "neighborhood_warnings": {
+      "de": "Schmale Magistrale (D8) durch den Ort, im Sommer Stau; Strände sind kiesig, Badeschuhe empfohlen.",
+      "hu": "Keskeny tengerparti főút (D8) szeli át a falut, nyáron dugó; a strandok kavicsosak, vízicipő ajánlott.",
+      "ro": "Drumul magistral îngust (D8) traversează localitatea, ambuteiaje vara; plajele sunt cu pietriș, recomandăm încălțăminte de apă.",
+      "en": "The narrow coastal road (D8) passes through town and clogs in summer; beaches are pebbly, water shoes recommended."
+    }
+  }
+}

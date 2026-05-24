@@ -1,0 +1,896 @@
+{
+  "city_id": "rabac",
+  "anchor": {
+    "name": "Rabac",
+    "coords": [
+      14.1583,
+      45.0833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Rabac",
+          "coords": [
+            14.161,
+            45.078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei einem morgendlichen Espresso am Kai.",
+            "hu": "Figyelje a halászhajókat egy reggeli eszpresszó mellett a rakparton.",
+            "ro": "Priviți bărcile de pescuit la un espresso de dimineață pe chei.",
+            "en": "Watch the fishing boats over a morning espresso on the quay."
+          }
+        },
+        {
+          "name": "Kirche des hl. Andreas",
+          "coords": [
+            14.1608,
+            45.0768
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das älteste Bauwerk des Ortes aus dem 15. Jahrhundert bietet kühle Stille.",
+            "hu": "A település legöregebb, 15. századi épülete hűvös csendet áraszt.",
+            "ro": "Cea mai veche clădire din oraș, din secolul XV, oferă o liniște răcoroasă.",
+            "en": "The town\"s oldest building from the 15th century offers cool silence."
+          }
+        },
+        {
+          "name": "Lungomare Promenade",
+          "coords": [
+            14.166,
+            45.0745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Duft der Pinien auf dem Weg zu den Badebuchten.",
+            "hu": "Élvezze a fenyők illatát a fürdőöblök felé vezető úton.",
+            "ro": "Bucurați-vă de mirosul pinilor în drum spre golfurile de înot.",
+            "en": "Enjoy the scent of pine trees on the way to the swimming bays."
+          }
+        },
+        {
+          "name": "Strand Lanterna",
+          "coords": [
+            14.169,
+            45.0735
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Träger der Blauen Flagge mit kristallklarem Wasser für Schnorchler.",
+            "hu": "Kék zászlós strand kristálytiszta vízzel, kiváló a búvárkodáshoz.",
+            "ro": "O plajă cu Steag Albastru și apă cristalină pentru amatorii de snorkeling.",
+            "en": "A Blue Flag beach with crystal clear water perfect for snorkelers."
+          }
+        },
+        {
+          "name": "Strand Girandella",
+          "coords": [
+            14.173,
+            45.0755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Beach-Bars für einen erfrischenden Cocktail am Nachmittag.",
+            "hu": "Látogasson el a strandbárokba egy frissítő délutáni koktélra.",
+            "ro": "Vizitați barurile de pe plajă pentru un cocktail revigorant de după-amiază.",
+            "en": "Visit the beach bars for a refreshing afternoon cocktail."
+          }
+        },
+        {
+          "name": "Teleferika Ruinen",
+          "coords": [
+            14.153,
+            45.076
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Überreste der Erzseilbahn sind ein Geheimtipp für Lost-Place-Fotografen.",
+            "hu": "Az ércszállító kötélpálya maradványai igazi csemege a fotósoknak.",
+            "ro": "Rămășițele telefericului minier sunt un pont pentru fotografii de locuri părăsite.",
+            "en": "The remains of the ore cableway are a tip for lost-place photographers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am malerischen Hafen, wo Fischerboote im klaren Wasser schaukeln. Ein kurzer Aufstieg führt zur bescheidenen St.-Andreas-Kirche, dem ältesten Gebäude der Stadt. Mittags schlendern Sie entlang der Lungomare-Promenade im Schatten der Pinien zum Strand Lanterna für ein erfrischendes Bad. Am Nachmittag geht es weiter zur Girandella-Küste, die für ihre weißen Kieselsteine und lebhafte Atmosphäre bekannt ist. Gegen Abend überqueren Sie die Bucht zu den Teleferika-Ruinen für einen dramatischen Blick auf den Sonnenuntergang über Rabac.",
+        "hu": "A reggel a festői kikötőben indul, ahol halászhajók ringatóznak a tiszta vízben. Rövid séta vezet a Szent András-templomhoz, a város legrégebbi épületéhez. Délben a Lungomare sétányon, fenyők árnyékában haladunk a Lanterna strand felé egy frissítő csobbanásra. Délután a Girandella-part következik, amely fehér kavicsairól és élénk hangulatáról ismert. Este a Teleferika romjaihoz látogatunk el az öböl túloldalán, ahonnan lélegzetelállító naplementét láthatunk a város felett.",
+        "ro": "Dimineața începe în portul pitoresc, unde bărcile de pescuit plutesc în apa limpede. O scurtă urcare duce la biserica Sf. Andrei, cea mai veche clădire din oraș. La prânz, plimbați-vă pe faleza Lungomare, la umbra pinilor, spre plaja Lanterna pentru o baie răcoritoare. După-amiaza continuă pe coasta Girandella, cunoscută pentru pietricelele albe și atmosfera vibrantă. Spre seară, traversați golful spre ruinele Teleferika pentru o vedere dramatică a apusului peste Rabac.",
+        "en": "Morning begins at the picturesque harbor where fishing boats sway in the clear water. A short climb leads to the humble St. Andrew\"s Church, the town\"s oldest building. By midday, stroll along the Lungomare promenade, shaded by pine trees, towards the crystal waters of Lanterna beach for a refreshing dip. In the afternoon, continue to the Girandella coast, known for its white pebbles and vibrant summer atmosphere. As evening approaches, cross the bay to the Teleferika ruins for a dramatic view of the sunset over Rabac."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Labinski Krafi",
+            "tip": "Süße oder herzhafte Ravioli, serviert in lokalen Konobas."
+          },
+          {
+            "name": "Restaurant Nostromo",
+            "tip": "Direkt am Hafen, berühmt für fangfrischen Fisch und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Labinski krafi",
+            "tip": "Édes vagy sós töltött tészta, a helyi konobák specialitása."
+          },
+          {
+            "name": "Nostromo Étterem",
+            "tip": "Közvetlenül a kikötőben, híres a friss halairól és tenger gyümölcseiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Labinski krafi",
+            "tip": "Ravioli dulci sau sărați, serviți în tavernele locale."
+          },
+          {
+            "name": "Restaurant Nostromo",
+            "tip": "Chiar în port, renumit pentru pește proaspăt și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Labinski krafi",
+            "tip": "Sweet or savory ravioli, a specialty in local konobas."
+          },
+          {
+            "name": "Restaurant Nostromo",
+            "tip": "Right in the harbor, famous for fresh fish and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Teleferika Aussichtspunkt",
+            "tip": "Perfekter Ort für den Sonnenuntergang über der Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wasserfall Sentona",
+            "tip": "Ein ruhiger Pfad im Grünen abseits der Strände.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teleferika kilátópont",
+            "tip": "Tökéletes helyszín a naplemente megcsodálására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentona-vízesés",
+            "tip": "Csendes ösvény a zöldben, távol a strandoktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Teleferika",
+            "tip": "Locul perfect pentru a admira apusul peste golf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cascada Sentona",
+            "tip": "O potecă liniștită în natură, departe de plaje.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Teleferika viewpoint",
+            "tip": "Perfect spot for the sunset over the bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentona Waterfall",
+            "tip": "A quiet path in the greenery away from the beaches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istrisches Olivenöl",
+            "tip": "Kaufen Sie direkt bei lokalen Erzeugern in der Nähe von Labin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai olívaolaj",
+            "tip": "Vásároljon közvetlenül a helyi termelőktől Labin környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline istrian",
+            "tip": "Cumpărați direct de la producătorii locali de lângă Labin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian olive oil",
+            "tip": "Buy directly from local producers near Labin."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für den Weg zu den Teleferika-Ruinen.",
+          "Die Parkplätze am Hafen sind im Sommer schnell belegt.",
+          "Nehmen Sie Schnorchelausrüstung für die Lanterna-Bucht mit.",
+          "Ein kleiner Touristenzug verbindet die Außenbezirke mit dem Zentrum."
+        ],
+        "hu": [
+          "Viseljen zárt cipőt a Teleferika romjaihoz vezető úton.",
+          "A kikötői parkolók nyáron hamar megtelnek.",
+          "Vigyen búvárszemüveget a Lanterna-öbölbe.",
+          "Kis gumikerekes kisvonat köti össze a külső részeket a központtal."
+        ],
+        "ro": [
+          "Purtați încălțăminte stabilă pentru drumul spre ruinele Teleferika.",
+          "Parcările din port se ocupă rapid în timpul verii.",
+          "Luați echipament de snorkeling pentru golful Lanterna.",
+          "Un trenuleț turistic face legătura între periferie și centru."
+        ],
+        "en": [
+          "Wear sturdy shoes for the path to the Teleferika ruins.",
+          "Harbor parking spots fill up quickly during summer.",
+          "Take snorkeling gear for the Lanterna bay.",
+          "A small tourist train connects the outskirts with the center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Rabac",
+          "coords": [
+            14.161,
+            45.078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Guter Ausgangspunkt für Touren entlang der Küste.",
+            "hu": "Kiváló kiindulópont a tengerparti túrákhoz.",
+            "ro": "Punct bun de plecare pentru tururi de-a lungul coastei.",
+            "en": "Good starting point for tours along the coast."
+          }
+        },
+        {
+          "name": "Lungomare Promenade",
+          "coords": [
+            14.166,
+            45.0745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ebener Weg, ideal zum gemütlichen Radeln am Morgen.",
+            "hu": "Sík útvonal, ideális a reggeli könnyed tekeréshez.",
+            "ro": "Traseu plat, ideal pentru o plimbare ușoară cu bicicleta dimineața.",
+            "en": "Flat path, ideal for a leisurely morning ride."
+          }
+        },
+        {
+          "name": "Teleferika Ruinen",
+          "coords": [
+            14.153,
+            45.076
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erfordert kurze Bergauffahrt, belohnt mit toller Aussicht.",
+            "hu": "Rövid emelkedőt igényel, de a kilátás kárpótol.",
+            "ro": "Necesită o scurtă urcare, dar răsplătește cu o vedere superbă.",
+            "en": "Requires a short uphill ride, rewards with great views."
+          }
+        },
+        {
+          "name": "Wasserfall Sentona",
+          "coords": [
+            14.148,
+            45.084
+          ],
+          "category": "natural features",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Teil des Labin-Rabac Wanderwegs, schattig und grün.",
+            "hu": "A Labin-Rabac túraútvonal része, árnyékos és zöld.",
+            "ro": "Parte a traseului Labin-Rabac, umbros și verde.",
+            "en": "Part of the Labin-Rabac trail, shady and green."
+          }
+        },
+        {
+          "name": "Bucht von Maslinica",
+          "coords": [
+            14.155,
+            45.081
+          ],
+          "category": "natural features",
+          "arrive_at": "11:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Große Bucht mit vielen Sportmöglichkeiten und Restaurants.",
+            "hu": "Nagy öböl számos sportolási lehetőséggel és étteremmel.",
+            "ro": "Golf mare cu multe facilități sportive și restaurante.",
+            "en": "Large bay with many sports facilities and restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Hafen und genießen Sie die kühle Meeresbrise auf der Lungomare-Promenade. Der Weg führt Sie weiter zur Teleferika, wo Sie die industrielle Geschichte der Region entdecken. Anschließend radeln Sie bergauf zum Sentona-Wasserfall, einer grünen Oase zwischen Rabac und Labin. Den Abschluss bildet die Maslinica-Bucht, wo Sie sich nach der Tour im Meer abkühlen können.",
+        "hu": "Induljon a kikötőből, és élvezze a hűs tengeri szellőt a Lungomare sétányon. Az út továbbvezet a Teleferika felé, ahol felfedezheti a régió ipari múltját. Ezután tekerjen fel a Sentona-vízeséshez, amely egy zöld oázis Rabac és Labin között. A túrát a Maslinica-öbölben zárjuk, ahol a tekerés után megmártózhat a tengerben.",
+        "ro": "Porniți din port și bucurați-vă de briza mării pe faleza Lungomare. Drumul vă duce mai departe spre Teleferika, unde descoperiți istoria industrială a regiunii. Apoi pedalați spre cascada Sentona, o oază verde între Rabac și Labin. Încheiați turul în golful Maslinica, unde vă puteți răcori în mare după efort.",
+        "en": "Start at the harbor and enjoy the cool sea breeze on the Lungomare promenade. The path leads you further to Teleferika, where you discover the region\"s industrial history. Then pedal uphill to the Sentona Waterfall, a green oasis between Rabac and Labin. The tour concludes at Maslinica Bay, where you can cool off in the sea after the ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Rabac",
+            "tip": "Probieren Sie die hausgemachte Pasta Fuži."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Rabac",
+            "tip": "Kóstolja meg a házi készítésű fuži tésztát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Rabac",
+            "tip": "Încercați pastele de casă Fuži."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Rabac",
+            "tip": "Try the homemade Fuži pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege bei Sentona",
+            "tip": "Stille Natur pur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentona erdei ösvényei",
+            "tip": "Tiszta, csendes természet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile din pădure la Sentona",
+            "tip": "Natură pură și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths near Sentona",
+            "tip": "Pure quiet nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Erhältlich an Ständen oberhalb von Rabac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Kapható a Rabac feletti árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Disponibilă la tarabele de deasupra stațiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Available at stalls above Rabac."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mountainbikes sind für die Wege nach Labin empfehlenswert.",
+          "Vorsicht bei Fußgängern auf der Promenade.",
+          "Genügend Wasser für den Aufstieg mitnehmen."
+        ],
+        "hu": [
+          "A Labinba vezető utakhoz hegyi kerékpár ajánlott.",
+          "Vigyázzon a gyalogosokra a sétányon.",
+          "Vigyen elég vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "Se recomandă biciclete mountain bike pentru drumurile spre Labin.",
+          "Atenție la pietoni pe faleză.",
+          "Luați destulă apă pentru urcare."
+        ],
+        "en": [
+          "Mountain bikes are recommended for the paths to Labin.",
+          "Be careful with pedestrians on the promenade.",
+          "Take enough water for the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Rabac",
+          "coords": [
+            14.161,
+            45.078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz oft kostenpflichtig.",
+            "hu": "A központi parkoló gyakran fizetős.",
+            "ro": "Parcarea centrală este adesea cu plată.",
+            "en": "Central parking is often paid."
+          }
+        },
+        {
+          "name": "Teleferika Ruinen",
+          "coords": [
+            14.153,
+            45.076
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken am Straßenrand möglich.",
+            "hu": "Parkolás az út szélén lehetséges.",
+            "ro": "Parcarea este posibilă pe marginea drumului.",
+            "en": "Parking possible on the roadside."
+          }
+        },
+        {
+          "name": "Wasserfall Sentona",
+          "coords": [
+            14.148,
+            45.084
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie beim Wasserfall-Einstieg an der Hauptstraße.",
+            "hu": "Parkoljon a vízesés bejáratánál a főúton.",
+            "ro": "Parcați la intrarea spre cascadă de pe drumul principal.",
+            "en": "Park at the waterfall entrance on the main road."
+          }
+        },
+        {
+          "name": "Bucht von Maslinica",
+          "coords": [
+            14.155,
+            45.081
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe der Hotels.",
+            "hu": "Nagy parkoló a szállodák közelében.",
+            "ro": "Parcare mare în apropierea hotelurilor.",
+            "en": "Large parking lot near the hotels."
+          }
+        },
+        {
+          "name": "Strand Girandella",
+          "coords": [
+            14.173,
+            45.0755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Öffentlicher Parkplatz oberhalb der Ferienanlage.",
+            "hu": "Nyilvános parkoló az üdülőtelep felett.",
+            "ro": "Parcare publică deasupra complexului turistic.",
+            "en": "Public parking above the resort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie bequem die Highlights rund um Rabac. Nach dem Hafen besuchen Sie die Teleferika und den Sentona-Wasserfall. Den Mittag verbringen Sie in der weitläufigen Maslinica-Bucht, bevor Sie zum Girandella-Strand fahren.",
+        "hu": "Autóval kényelmesen felfedezheti Rabac környékének legfontosabb látnivalóit. A kikötő után a Teleferika és a Sentona-vízesés következik. A delet a tágas Maslinica-öbölben töltheti, majd a Girandella strandra autózhat.",
+        "ro": "Cu mașina puteți explora confortabil cele mai importante puncte din jurul stațiunii Rabac. După port, vizitați Teleferika și cascada Sentona. Prânzul îl petreceți în golful spațios Maslinica, înainte de a conduce spre plaja Girandella.",
+        "en": "By car, you can comfortably explore the highlights around Rabac. After the harbor, visit Teleferika and the Sentona Waterfall. Spend midday in the spacious Maslinica Bay before driving to Girandella Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria La Pentola",
+            "tip": "Moderne Küche direkt am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria La Pentola",
+            "tip": "Modern konyha közvetlenül a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria La Pentola",
+            "tip": "Bucătărie modernă chiar pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria La Pentola",
+            "tip": "Modern cuisine right by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht von Maslinica",
+            "tip": "Ruhige Ecken am Rand des Parks.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maslinica-öböl",
+            "tip": "Csendes zugok a park szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Maslinica",
+            "tip": "Colțuri liniștite la marginea parcului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maslinica Bay",
+            "tip": "Quiet corners at the edge of the park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Labin",
+            "tip": "Kurze Fahrt bergauf für größere Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Labin bevásárlóközpont",
+            "tip": "Rövid autóút felfelé a nagyobb bevásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Labin",
+            "tip": "O scurtă plimbare cu mașina pentru cumpărături mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Labin Shopping Center",
+            "tip": "Short drive uphill for larger shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Rabac sind oft steil und eng.",
+          "Parkgebühren per App bezahlen."
+        ],
+        "hu": [
+          "Rabac utcái gyakran meredekek és szűkek.",
+          "A parkolási díjat applikáción keresztül is fizetheti."
+        ],
+        "ro": [
+          "Străzile din Rabac sunt adesea abrupte și înguste.",
+          "Plătiți taxele de parcare prin aplicație."
+        ],
+        "en": [
+          "The streets in Rabac are often steep and narrow.",
+          "Pay parking fees via app."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 4.5,
+      "stop_count": 3,
+      "stops": [
+        {
+          "name": "Hafen von Rabac",
+          "coords": [
+            14.161,
+            45.078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Umstiegspunkt.",
+            "hu": "Központi átszállási pont.",
+            "ro": "Punct central de transfer.",
+            "en": "Central transfer point."
+          }
+        },
+        {
+          "name": "Strand Girandella",
+          "coords": [
+            14.173,
+            45.0755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Touristenzug erreichbar.",
+            "hu": "Kisvonattal megközelíthető.",
+            "ro": "Accesibil cu trenulețul turistic.",
+            "en": "Accessible by tourist train."
+          }
+        },
+        {
+          "name": "Bucht von Maslinica",
+          "coords": [
+            14.155,
+            45.081
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Endstation der Bimmelbahn.",
+            "hu": "A kisvonat végállomása.",
+            "ro": "Capătul de linie al trenulețului.",
+            "en": "Terminal station of the shuttle train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bunten Touristenzug, um die verschiedenen Strandabschnitte von Rabac stressfrei zu erreichen.",
+        "hu": "Használja a színes kisvonatot, hogy stresszmentesen elérje Rabac különböző strandjait.",
+        "ro": "Folosiți trenulețul turistic colorat pentru a ajunge fără stres la diferitele secțiuni de plajă din Rabac.",
+        "en": "Use the colorful tourist train to reach the different beach sections of Rabac stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet Pingo",
+            "tip": "Beliebt für Eis und schnelle Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pingo büfé",
+            "tip": "Népszerű fagylaltozó és gyorsbüfé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet Pingo",
+            "tip": "Popular pentru înghețată și gustări rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet Pingo",
+            "tip": "Popular for ice cream and quick snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade",
+            "tip": "Abendspaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány",
+            "tip": "Esti séta naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza",
+            "tip": "O plimbare de seară la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach promenade",
+            "tip": "Evening walk at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshops am Hafen",
+            "tip": "Typische Urlaubsmitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői ajándékboltok",
+            "tip": "Tipikus nyaralási emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în port",
+            "tip": "Suveniruri tipice de vacanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the harbor",
+            "tip": "Typical holiday souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Touristenzug fährt im Halbstundentakt.",
+          "Fahrkarten direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "A kisvonat félóránként közlekedik.",
+          "Jegyet közvetlenül a vezetőnél vehet."
+        ],
+        "ro": [
+          "Trenulețul turistic circulă la fiecare jumătate de oră.",
+          "Cumpărați biletele direct de la șofer."
+        ],
+        "en": [
+          "The tourist train runs every half hour.",
+          "Buy tickets directly from the driver."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr/en-us/",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://rabac-labin.com/",
+    "tourism_office": "https://rabac-labin.com/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Rabac ist seit Jahrzehnten deutscher und italienischer Hauptmarkt; Deutsch wird in den meisten Hotels und Restaurants gut gesprochen, ebenso Englisch und Italienisch. Kroatisch nur als Höflichkeit nötig.",
+      "hu": "Rabac évtizedek óta német és olasz turistapiac; a hotelek és éttermek többségében jól beszélnek németül, angolul és olaszul. Horvátul elég néhány udvarias szó.",
+      "ro": "Rabac este de zeci de ani piață majoră germană și italiană; germana, engleza și italiana se vorbesc bine în hoteluri și restaurante. Croata doar pentru politețe.",
+      "en": "Rabac has been a German and Italian package market for decades; German, English and Italian are spoken well in most hotels and restaurants. Croatian is only needed as courtesy."
+    },
+    "best_time_to_visit": {
+      "de": "Mitte Juni und September für warmes Adria-Wasser ohne den Juli/August-Andrang. Juli/August voll, Hotels ausgebucht. Saison meist Mai bis Anfang Oktober, im Winter geschlossen.",
+      "hu": "Június közepe és szeptember meleg adriai vízzel, július–augusztusi tömeg nélkül. Nyár csúcsán telt házak. A szezon kb. májustól október elejéig tart, télen zárva.",
+      "ro": "Mijlocul lui iunie și septembrie pentru apă caldă fără aglomerația din iulie–august. Hotelurile sunt pline în plin sezon. Sezonul ține din mai până la începutul lui octombrie.",
+      "en": "Mid-June and September for warm Adriatic water without July/August crowds. Hotels are fully booked in peak summer. Season runs roughly May to early October, closed in winter."
+    },
+    "neighborhood_warnings": {
+      "de": "Rabac ist sehr sicher, klassischer Familienbadeort. Die Strände sind Kiesel, Badeschuhe empfohlen. Die Serpentinen-Straße von Labin hinunter ist eng, nachts vorsichtig fahren.",
+      "hu": "Rabac nagyon biztonságos, klasszikus családi üdülőhely. A strandok kavicsosak, vízicipőt javasolt vinni. A Labinból leereszkedő szerpentin keskeny, éjjel óvatosan vezess.",
+      "ro": "Rabac este foarte sigur, stațiune de familie clasică. Plajele sunt cu pietriș, recomandate sandale de apă. Serpentinele dinspre Labin sunt înguste, conduceți cu atenție noaptea.",
+      "en": "Rabac is very safe, a classic family resort. Beaches are pebbly, water shoes recommended. The hairpin road down from Labin is narrow, drive carefully at night."
+    }
+  }
+}

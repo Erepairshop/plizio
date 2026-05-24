@@ -1,0 +1,1027 @@
+{
+  "city_id": "vis",
+  "anchor": {
+    "name": "Vis Harbor",
+    "coords": [
+      16.1858,
+      43.0617
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Viertel Kut",
+            "hu": "Kut negyed",
+            "ro": "Cartierul Kut",
+            "en": "Kut District"
+          },
+          "coords": [
+            16.1952,
+            43.0588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühmorgens ist das Licht für Fotos am Hafenbecken perfekt.",
+            "hu": "Kora reggel a legjobb a fény a kikötői fotókhoz.",
+            "ro": "Dimineața devreme lumina este perfectă pentru fotografii în port.",
+            "en": "Early morning light is perfect for photos by the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Gospa od Spilice",
+            "hu": "Gospa od Spilice templom",
+            "ro": "Biserica Gospa od Spilice",
+            "en": "Church of Gospa od Spilice"
+          },
+          "coords": [
+            16.191,
+            43.0602
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur im Inneren.",
+            "hu": "Csodálja meg a reneszánsz belső építészetet.",
+            "ro": "Admirați arhitectura renascentistă din interior.",
+            "en": "Admire the Renaissance architecture inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Prirovo",
+            "hu": "Prirovo ferences kolostor",
+            "ro": "Mănăstirea Franciscană Prirovo",
+            "en": "Franciscan Monastery Prirovo"
+          },
+          "coords": [
+            16.1878,
+            43.0645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Kloster steht auf den Ruinen eines antiken Theaters.",
+            "hu": "A kolostor egy ókori színház romjaira épült.",
+            "ro": "Mănăstirea este construită pe ruinele unui teatru antic.",
+            "en": "The monastery sits on the ruins of an ancient theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római termák",
+            "ro": "Terme Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            16.1835,
+            43.0628
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gut erhaltene Mosaike aus der Zeit der Antike.",
+            "hu": "Jól megőrzött mozaikok az antik korból.",
+            "ro": "Mozaicuri bine conservate din perioada antică.",
+            "en": "Well-preserved mosaics from the ancient era."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Issa",
+            "hu": "Issa Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Issa",
+            "en": "Archaeological Museum Issa"
+          },
+          "coords": [
+            16.1842,
+            43.0635
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Bronzekopf der Artemis ist das wertvollste Exponat.",
+            "hu": "Artemisz bronzfeje a legértékesebb kiállítási tárgy.",
+            "ro": "Capul de bronz al lui Artemis este cel mai valoros exponat.",
+            "en": "The bronze head of Artemis is the most valuable exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Batarija-Festung",
+            "hu": "Batarija erőd",
+            "ro": "Fortăreața Batarija",
+            "en": "Batarija Fortress"
+          },
+          "coords": [
+            16.185,
+            43.064
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In der Festung befindet sich heute das Museum.",
+            "hu": "Az erődben ma a múzeum gyűjteménye látható.",
+            "ro": "În fortăreață se află astăzi muzeul orașului.",
+            "en": "The fortress now houses the city museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Kut-Viertel mit seinen engen Steingassen. Nach einem Besuch der Gospa od Spilice wandern Sie zur Halbinsel Prirovo. Der Nachmittag steht im Zeichen der Antike mit den römischen Thermen und dem Issa-Museum in der Batarija-Festung. Ein entspannter Ausklang am Hafen rundet den Spaziergang ab.",
+        "hu": "Kezdje a napot a festői Kut negyed szűk kőutcái között. A Gospa od Spilice megtekintése után sétáljon el a Prirovo-félszigetre. A délután az antik emlékeké: a római termák és az Issa múzeum a Batarija erődben várja. A napot egy kellemes kikötői sétával zárhatja.",
+        "ro": "Începeți ziua în pitorescul cartier Kut, cu străduțele sale înguste de piatră. După o vizită la Gospa od Spilice, mergeți spre peninsula Prirovo. După-amiaza este dedicată antichității, cu termele romane și muzeul Issa din fortăreața Batarija. O seară relaxantă în port încheie plimbarea.",
+        "en": "Start your day in the picturesque Kut district with its narrow stone alleys. After visiting Gospa od Spilice, walk to the Prirovo peninsula. The afternoon is dedicated to antiquity, featuring the Roman baths and the Issa Museum inside Batarija Fortress. A relaxed evening at the harbor completes the walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Viška pogača",
+            "tip": "Herzhafter Hefeteigkuchen mit Sardinen und Zwiebeln."
+          },
+          {
+            "name": "Restaurant Vatrica",
+            "tip": "Frischer Fisch direkt im Kut-Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viška pogača",
+            "tip": "Szardíniával és hagymával töltött sós tészta."
+          },
+          {
+            "name": "Vatrica étterem",
+            "tip": "Friss halételek a Kut negyed szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viška pogača",
+            "tip": "Plăcintă sărată cu sardine și ceapă."
+          },
+          {
+            "name": "Restaurant Vatrica",
+            "tip": "Pește proaspăt chiar în cartierul Kut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viška pogača",
+            "tip": "Savory dough cake with sardines and onions."
+          },
+          {
+            "name": "Vatrica Restaurant",
+            "tip": "Fresh fish right in the heart of Kut district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prirovo Friedhof",
+            "tip": "Stiller Ort mit Blick auf die Bucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prirovo temető",
+            "tip": "Csendes hely kilátással az öbölre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Prirovo",
+            "tip": "Loc liniștit cu vedere la golf.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prirovo Cemetery",
+            "tip": "Quiet spot with a view over the bay.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vugava Wein",
+            "tip": "Lokaler Weißwein, direkt beim Winzer kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vugava bor",
+            "tip": "Helyi fehérbor, vegye közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Vugava",
+            "tip": "Vin alb local, cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vugava Wine",
+            "tip": "Local white wine, buy directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für das Kopfsteinpflaster in Kut Pflicht.",
+          "Besuchen Sie das Museum am Vormittag, um der Hitze zu entgehen.",
+          "In der Nebensaison sind viele Restaurants mittags geschlossen."
+        ],
+        "hu": [
+          "Kényelmes cipő kötelező a Kut negyed macskaköveihez.",
+          "Látogassa meg a múzeumot délelőtt a hőség elkerülése érdekében.",
+          "Szezonon kívül sok étterem délben zárva tart."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt obligatorii pentru pavajul din Kut.",
+          "Vizitați muzeul dimineața pentru a evita căldura.",
+          "În extrasezon, multe restaurante sunt închise la prânz."
+        ],
+        "en": [
+          "Comfortable shoes are a must for the cobblestones in Kut.",
+          "Visit the museum in the morning to avoid the heat.",
+          "In the off-season, many restaurants are closed at midday."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vis Hafen",
+            "hu": "Vis kikötő",
+            "ro": "Portul Vis",
+            "en": "Vis Harbor"
+          },
+          "coords": [
+            16.1858,
+            43.0617
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour entlang der Bucht.",
+            "hu": "Kiindulópont az öböl menti kerékpározáshoz.",
+            "ro": "Punct de plecare pentru tura cu bicicleta de-a lungul golfului.",
+            "en": "Starting point for the bike ride along the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Englischer Friedhof",
+            "hu": "Angol temető",
+            "ro": "Cimitirul Englez",
+            "en": "English Cemetery"
+          },
+          "coords": [
+            16.1755,
+            43.0655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gedenkstätte für britische Soldaten aus den Napoleonischen Kriegen.",
+            "hu": "Emlékhely a napóleoni háborúk brit katonáinak.",
+            "ro": "Memorial pentru soldații britanici din războaiele napoleoniene.",
+            "en": "Memorial for British soldiers from the Napoleonic Wars."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort George",
+            "hu": "George erőd",
+            "ro": "Fortul George",
+            "en": "Fort George"
+          },
+          "coords": [
+            16.1662,
+            43.0698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht auf den Eingang der Bucht.",
+            "hu": "Látványos kilátás az öböl bejáratára.",
+            "ro": "Vedere spectaculoasă asupra intrării în golf.",
+            "en": "Spectacular view of the bay entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Perasti-Turm",
+            "hu": "Perasti-torony",
+            "ro": "Turnul Perasti",
+            "en": "Perasti Tower"
+          },
+          "coords": [
+            16.1965,
+            43.0582
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Wehrturm aus dem 17. Jahrhundert.",
+            "hu": "Védőtorony a 17. századból.",
+            "ro": "Un turn de apărare din secolul al XVII-lea.",
+            "en": "A defense tower from the 17th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grandovac",
+            "hu": "Grandovac strand",
+            "ro": "Plaja Grandovac",
+            "en": "Grandovac Beach"
+          },
+          "coords": [
+            16.2055,
+            43.0558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Abkühlung nach der Tour.",
+            "hu": "Tökéletes hűsölésre a túra után.",
+            "ro": "Perfect pentru răcorire după tură.",
+            "en": "Perfect for cooling off after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Küste zum Fort George, einer britischen Festung mit weitem Rundblick. Auf dem Rückweg passieren Sie den englischen Friedhof und fahren durch das gesamte Hafenbecken bis zum Perasti-Turm. Beenden Sie die Tour mit einem Sprung ins klare Wasser am Grandovac-Strand.",
+        "hu": "Tekerjen a part mentén a George erődhöz, amely brit erődítmény pazar körpanorámával. Visszafelé érintse az angol temetőt, majd szelje át a kikötőt a Perasti-toronyig. Zárja a túrát egy csobbanással a Grandovac strand kristálytiszta vizében.",
+        "ro": "Pedalați de-a lungul coastei până la Fort George, o fortăreață britanică cu o panoramă vastă. La întoarcere, treceți pe lângă cimitirul englez și traversați tot portul până la turnul Perasti. Încheiați tura cu o baie în apa limpede de la plaja Grandovac.",
+        "en": "Cycle along the coast to Fort George, a British fortress with wide panoramic views. On the way back, pass the English Cemetery and ride through the harbor basin to Perasti Tower. Finish the tour with a dip in the clear water at Grandovac Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fort George Sunset Bar",
+            "tip": "Ideal für einen Drink mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort George Sunset Bar",
+            "tip": "Ideális egy italhoz a kilátás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fort George Sunset Bar",
+            "tip": "Ideal pentru o băutură cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort George Sunset Bar",
+            "tip": "Ideal for a drink with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halbinsel Sveti Juraj",
+            "tip": "Einsame Buchten am Ende der Straße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sveti Juraj-félsziget",
+            "tip": "Elhagyatott öblök az út végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Sveti Juraj",
+            "tip": "Golfuri izolate la capătul drumului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Juraj Peninsula",
+            "tip": "Secluded coves at the end of the road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "In Vis werden hervorragende Öle gepresst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Visen kiváló minőségű olajokat sajtolnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "În Vis se produc uleiuri de măsline excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Excellent olive oils are pressed in Vis."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Fort George hat einige Steigungen.",
+          "Mieten Sie ein E-Bike für mehr Komfort.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Az út a George erődhöz tartogat emelkedőket.",
+          "Béreljen elektromos biciklit a kényelemért.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Traseul spre Fort George are câteva pante.",
+          "Închiriați o bicicletă electrică pentru confort.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "The route to Fort George has some inclines.",
+          "Rent an e-bike for more comfort.",
+          "Take plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vis Stadtzentrum",
+            "hu": "Vis városközpont",
+            "ro": "Centrul orașului Vis",
+            "en": "Vis City Center"
+          },
+          "coords": [
+            16.1858,
+            43.0617
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hauptparkplatz am Hafen.",
+            "hu": "Parkoljon a fő kikötői parkolóban.",
+            "ro": "Parcați în parcarea principală din port.",
+            "en": "Park at the main harbor parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort George",
+            "hu": "George erőd",
+            "ro": "Fortul George",
+            "en": "Fort George"
+          },
+          "coords": [
+            16.1662,
+            43.0698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit dem Auto, großer Parkplatz.",
+            "hu": "Autóval könnyen elérhető, nagy parkolóval.",
+            "ro": "Ușor accesibil cu mașina, parcare mare.",
+            "en": "Easily accessible by car, large parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Issa",
+            "hu": "Issa Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Issa",
+            "en": "Archaeological Museum Issa"
+          },
+          "coords": [
+            16.1842,
+            43.0635
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe der Batarija-Festung.",
+            "hu": "Parkolóhelyek a Batarija erőd közelében.",
+            "ro": "Locuri de parcare în apropierea fortăreței Batarija.",
+            "en": "Parking spaces near Batarija Fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Kut",
+            "hu": "Kut negyed",
+            "ro": "Cartierul Kut",
+            "en": "Kut District"
+          },
+          "coords": [
+            16.1952,
+            43.0588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für ein ausgiebiges Mittagessen.",
+            "hu": "Ideális egy kiadós ebédhez.",
+            "ro": "Ideal pentru un prânz copios.",
+            "en": "Ideal for a hearty lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Stončica Bucht",
+            "hu": "Stončica-öböl",
+            "ro": "Golful Stončica",
+            "en": "Stončica Bay"
+          },
+          "coords": [
+            16.2385,
+            43.0655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Sandstrand mit flachem Wasser, tolles Restaurant.",
+            "hu": "Homokos strand sekély vízzel, remek étteremmel.",
+            "ro": "Plajă cu nisip și apă puțin adâncă, restaurant excelent.",
+            "en": "Sandy beach with shallow water, great restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die Highlights von Vis zu verbinden. Nach dem Besuch der historischen Festungen und Museen im Stadtgebiet fahren Sie zur nahegelegenen Stončica-Bucht. Dieser Sandstrand ist eine Seltenheit und bietet Entspannung pur vor der Rückfahrt in den Hafen.",
+        "hu": "Használja az autót Vis látnivalóinak összekötéséhez. A történelmi erődök és múzeumok megtekintése után autózzon el a közeli Stončica-öbölbe. Ez a homokos strand ritkaság a környéken, és teljes kikapcsolódást nyújt a kikötőbe való visszatérés előtt.",
+        "ro": "Folosiți mașina pentru a conecta punctele de atracție din Vis. După vizitarea fortărețelor istorice și a muzeelor din oraș, conduceți spre golful Stončica din apropiere. Această plajă cu nisip este o raritate și oferă relaxare totală înainte de întoarcerea în port.",
+        "en": "Use a car to link the highlights of Vis. After visiting the historical fortresses and museums in town, drive to the nearby Stončica Bay. This sandy beach is a rarity and offers pure relaxation before heading back to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Stončica",
+            "tip": "Fisch am Grill direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Stončica",
+            "tip": "Grillezett hal közvetlenül a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Stončica",
+            "tip": "Pește la grătar chiar pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Stončica",
+            "tip": "Grilled fish right on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm Stončica",
+            "tip": "Spaziergang zum alten Leuchtturm.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stončica világítótorony",
+            "tip": "Séta a régi világítótoronyhoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Stončica",
+            "tip": "Plimbare spre vechiul far.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stončica Lighthouse",
+            "tip": "Walk to the old lighthouse.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Limoncello von Vis",
+            "tip": "Handgemachter Likör aus lokalen Zitronen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vis-i Limoncello",
+            "tip": "Kézműves likőr helyi citromból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limoncello de Vis",
+            "tip": "Lichior artizanal din lămâi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vis Limoncello",
+            "tip": "Handmade liqueur from local lemons."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Kut ist schwierig, nutzen Sie die großen Plätze.",
+          "Die Straßen sind schmal, fahren Sie vorsichtig.",
+          "Ein Mietwagen ermöglicht den Besuch entlegener Buchten."
+        ],
+        "hu": [
+          "Kutban nehéz parkolni, használja a nagy parkolókat.",
+          "Az utak keskenyek, vezessen óvatosan.",
+          "A bérautóval elérheti a távoli öblöket is."
+        ],
+        "ro": [
+          "Parcarea în Kut este dificilă, folosiți locurile mari.",
+          "Drumurile sunt înguste, conduceți cu atenție.",
+          "O mașină închiriată permite vizitarea golfurilor izolate."
+        ],
+        "en": [
+          "Parking in Kut is difficult, use the large lots.",
+          "The roads are narrow, drive carefully.",
+          "A rental car allows you to visit remote bays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fährhafen Vis",
+            "hu": "Vis kompkikötő",
+            "ro": "Terminal ferry Vis",
+            "en": "Vis Ferry Port"
+          },
+          "coords": [
+            16.1858,
+            43.0617
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für Busse und Boote.",
+            "hu": "Buszok és hajók csomópontja.",
+            "ro": "Nod pentru autobuze și bărci.",
+            "en": "Hub for buses and boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Prirovo",
+            "hu": "Prirovo ferences kolostor",
+            "ro": "Mănăstirea Franciscană Prirovo",
+            "en": "Franciscan Monastery Prirovo"
+          },
+          "coords": [
+            16.1878,
+            43.0645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Hafen aus bequem zu Fuß oder Boot erreichbar.",
+            "hu": "A kikötőből gyalog vagy hajóval is könnyen elérhető.",
+            "ro": "Accesibil ușor pe jos sau cu barca din port.",
+            "en": "Easily accessible by foot or boat from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Issa",
+            "hu": "Issa Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Issa",
+            "en": "Archaeological Museum Issa"
+          },
+          "coords": [
+            16.1842,
+            43.0635
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle gelegen.",
+            "hu": "A buszmegálló közelében található.",
+            "ro": "Situat în apropierea stației de autobuz.",
+            "en": "Located near the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Kut",
+            "hu": "Kut negyed",
+            "ro": "Cartierul Kut",
+            "en": "Kut District"
+          },
+          "coords": [
+            16.1952,
+            43.0588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Taxiboot für den Weg zurück zum Hafen.",
+            "hu": "Vegyen igénybe vízitaxit a kikötőbe való visszatéréshez.",
+            "ro": "Folosiți un taxi pe apă pentru drumul înapoi spre port.",
+            "en": "Use a water taxi for the way back to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Batarija-Festung",
+            "hu": "Batarija erőd",
+            "ro": "Fortăreața Batarija",
+            "en": "Batarija Fortress"
+          },
+          "coords": [
+            16.185,
+            43.064
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler historischer Punkt.",
+            "hu": "Központi történelmi pont.",
+            "ro": "Punct istoric central.",
+            "en": "Central historical point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vis mit dem Fokus auf den zentralen Bereich. Nutzen Sie Taxiboote, um zwischen dem Hafen und dem Kut-Viertel zu pendeln. Die Wege sind kurz, und die wichtigsten Museen sowie die Festung Batarija liegen in Reichweite der Anlegestellen.",
+        "hu": "Fedezze fel Vis központi részét. Használjon vízitaxit a fő kikötő és a Kut negyed közötti közlekedéshez. A távolságok kicsik, a legfontosabb múzeumok és a Batarija erőd könnyen elérhetőek a hajóállomásoktól.",
+        "ro": "Explorați Vis concentrându-vă pe zona centrală. Folosiți taxiurile pe apă pentru a face naveta între port și cartierul Kut. Distanțele sunt scurte, iar cele mai importante muzee și fortăreața Batarija sunt la îndemâna debarcaderelor.",
+        "en": "Explore Vis focusing on the central area. Use water taxis to commute between the main harbor and the Kut district. Distances are short, and the most important museums and Batarija Fortress are within reach of the docks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Hafen",
+            "tip": "Frische Pogača für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a kikötőben",
+            "tip": "Friss pogača útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din port",
+            "tip": "Pogača proaspătă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the harbor",
+            "tip": "Fresh pogača on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park beim Kloster",
+            "tip": "Schattiger Platz zum Warten aufs Boot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a kolostornál",
+            "tip": "Árnyékos hely a hajóra várva.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă mănăstire",
+            "tip": "Loc umbros pentru așteptarea bărcii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the monastery",
+            "tip": "Shady spot while waiting for the boat.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Morgens frischer Fang am Kai."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Reggelente friss fogás a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Captură proaspătă dimineața pe chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Fresh morning catch on the quay."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxiboote sind schneller als der Fußweg um die Bucht.",
+          "Prüfen Sie die Abfahrtszeiten der Inselfähren.",
+          "Tickets für den Bus nach Komiža gibt es beim Fahrer."
+        ],
+        "hu": [
+          "A vízitaxik gyorsabbak, mint az öböl körüli séta.",
+          "Ellenőrizze a szigeti kompok indulási idejét.",
+          "A Komižára tartó buszra a sofőrnél vehet jegyet."
+        ],
+        "ro": [
+          "Taxiurile pe apă sunt mai rapide decât mersul pe jos în jurul golfului.",
+          "Verificați orele de plecare ale feriboturilor.",
+          "Biletele pentru autobuzul spre Komiža se iau de la șofer."
+        ],
+        "en": [
+          "Water taxis are faster than walking around the bay.",
+          "Check the departure times of island ferries.",
+          "Tickets for the bus to Komiža can be bought from the driver."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Vis",
+    "region": "HR-17",
+    "coords": [
+      16.1858,
+      43.0617
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en",
+    "transit_app": "https://krilo.hr/en",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-vis.hr/en/events",
+    "tourism_office": "https://www.tz-vis.hr/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska.html",
+    "restaurants_booking": "https://www.zonzofox.com",
+    "museum_tickets": "https://www.tz-vis.hr/en",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Vis war bis 1989 Militärinsel und ist weniger touristisch entwickelt, Englisch und Italienisch in Restaurants und Pensionen üblich, Deutsch begrenzt.",
+      "hu": "A hivatalos nyelv a horvát; Vis 1989-ig katonai sziget volt és kevésbé turisztikailag fejlett, az angol és olasz az éttermekben és panziókban szokásos, a német korlátozott.",
+      "ro": "Limba oficială este croata; Vis a fost insulă militară până în 1989 și e mai puțin dezvoltată turistic, engleza și italiana sunt comune în restaurante și pensiuni, germana limitată.",
+      "en": "Croatian is official; Vis was a military island until 1989 and is less developed for tourism, English and Italian common in restaurants and guesthouses, German limited."
+    },
+    "best_time_to_visit": {
+      "de": "Mitte Mai bis Anfang Oktober; Juni und September für Blaue Grotte und Stiniva-Bucht ohne Hochsommer-Andrang. Fähre Split-Vis ca. 2,5 Std (Jadrolinija) oder 1,5 Std (Krilo Schnellboot).",
+      "hu": "Május közepétől október elejéig; június és szeptember a Kék-barlanghoz és Stiniva-öbölhöz nyári tömeg nélkül. Komp Split-Vis kb 2,5 óra (Jadrolinija) vagy 1,5 óra (Krilo gyorshajó).",
+      "ro": "De la mijlocul lui mai până la începutul lui octombrie; iunie și septembrie pentru Peștera Albastră și golful Stiniva fără aglomerația verii. Feribot Split-Vis cca 2,5 h (Jadrolinija) sau 1,5 h (Krilo).",
+      "en": "Mid-May to early October; June and September for Blue Cave and Stiniva bay without summer crowds. Ferry Split-Vis about 2.5h (Jadrolinija) or 1.5h (Krilo catamaran)."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere, ruhige Insel; begrenzte medizinische Versorgung (nur Grundambulanz), bei ernsteren Fällen Transfer nach Split. Wenig Beschilderung in den Hinterland-Dörfern, Offline-Karte mitnehmen. Geldautomaten nur in Vis-Stadt und Komiža.",
+      "hu": "Nagyon biztonságos, csendes sziget; korlátozott egészségügyi ellátás (csak alap-rendelő), súlyosabb esetekben Splitbe szállítás. Kevés tábla a belsőbb falvakban, offline térkép ajánlott. ATM csak Vis városban és Komižában.",
+      "ro": "Insulă foarte sigură și liniștită; asistență medicală limitată (doar dispensar), cazuri grave transferate la Split. Semnalizare redusă în satele din interior, hartă offline recomandată. Bancomate doar în orașul Vis și Komiža.",
+      "en": "Very safe, quiet island; limited medical care (basic clinic only), serious cases transferred to Split. Minimal signage in inland villages, take offline map. ATMs only in Vis Town and Komiža."
+    }
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "city_id": "krk",
+  "anchor": {
+    "name": "Krk",
+    "coords": [
+      14.575,
+      45.0258
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vela Placa",
+            "hu": "Vela Placa",
+            "ro": "Vela Placa",
+            "en": "Vela Placa"
+          },
+          "coords": [
+            14.5755,
+            45.0262
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sehen Sie den Brunnen aus dem 16. Jahrhundert.",
+            "hu": "Nézze meg a 16. századi kutat.",
+            "ro": "Vedeți fântâna din secolul al XVI-lea.",
+            "en": "See the 16th-century well."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Volsonis",
+            "hu": "Volsonis régészeti lelőhely",
+            "ro": "Situl arheologic Volsonis",
+            "en": "Volsonis Archaeological Site"
+          },
+          "coords": [
+            14.5752,
+            45.0259
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den unterirdischen Garten unter der Stadt.",
+            "hu": "Látogassa meg a város alatti földalatti kertet.",
+            "ro": "Vizitați grădina subterană de sub oraș.",
+            "en": "Visit the underground garden beneath the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Krk",
+            "hu": "Krki székesegyház",
+            "ro": "Catedrala din Krk",
+            "en": "Krk Cathedral"
+          },
+          "coords": [
+            14.5745,
+            45.0255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die römischen Mosaike im Inneren.",
+            "hu": "Csodálja meg a belső római mozaikokat.",
+            "ro": "Admirați mozaicurile romane din interior.",
+            "en": "Admire the Roman mosaics inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Quirin",
+            "hu": "Szent Kvirin-templom",
+            "ro": "Biserica Sf. Quirin",
+            "en": "Church of St. Quirin"
+          },
+          "coords": [
+            14.5743,
+            45.0254
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zweigeschossige romanische Kirche mit Schatzkammer.",
+            "hu": "Kétszintes román stílusú templom kincstárral.",
+            "ro": "Biserică romanică pe două niveluri cu tezaur.",
+            "en": "Two-story Romanesque church with a treasury."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Frankopan",
+            "hu": "Frangepán-erőd",
+            "ro": "Cetatea Frankopan",
+            "en": "Frankopan Castle"
+          },
+          "coords": [
+            14.574,
+            45.0253
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie auf den Mauern für einen Hafenblick.",
+            "hu": "Sétáljon a falakon a kikötői kilátásért.",
+            "ro": "Mergeți pe ziduri pentru o vedere spre port.",
+            "en": "Walk on the walls for a harbor view."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum für Maritimes Erbe",
+            "hu": "Tengerészeti Örökség Központja",
+            "ro": "Centrul de interpretare a patrimoniului maritim",
+            "en": "Maritime Heritage Interpretation Centre"
+          },
+          "coords": [
+            14.5765,
+            45.0268
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lernen Sie den traditionellen Schiffbau kennen.",
+            "hu": "Ismerje meg a hagyományos hajóépítést.",
+            "ro": "Învățați despre construcția tradițională de nave.",
+            "en": "Learn about traditional shipbuilding."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Terrarium Krk",
+            "hu": "Krki Akvárium és Terrárium",
+            "ro": "Acvariul și Terariul Krk",
+            "en": "Aquarium Terrarium Krk"
+          },
+          "coords": [
+            14.577,
+            45.027
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Große Sammlung einheimischer Adriafische.",
+            "hu": "Hatalmas gyűjtemény őshonos adriai halakból.",
+            "ro": "Colecție mare de pești nativi din Marea Adriatică.",
+            "en": "Large collection of native Adriatic fish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Vela Placa, dem pulsierenden Herz der Altstadt. Nach dem Besuch der Kathedrale und der massiven Frankopan-Festung erkunden Sie das maritime Erbe. Den Nachmittag verbringen Sie in den kühlen Ausstellungsräumen des Aquariums, ideal für Familien.",
+        "hu": "Kezdje a napot a Vela Placa téren, az óváros szívében. A katedrális és a masszív Frangepán-erőd megtekintése után fedezze fel a tengerészeti örökséget. A délutánt töltse az akvárium hűvös kiállítótermeiben, amely családok számára is ideális.",
+        "ro": "Începeți ziua în Vela Placa, inima vibrantă a orașului vechi. După vizitarea catedralei și a masivei cetăți Frankopan, explorați moștenirea maritimă. Petreceți după-amiaza în sălile răcoroase ale acvariului, ideal pentru familii.",
+        "en": "Start your day at Vela Placa, the vibrant heart of the old town. After visiting the cathedral and the massive Frankopan Fortress, explore the maritime heritage. Spend the afternoon in the cool exhibition rooms of the aquarium, ideal for families."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šurlice mit Gulasch",
+            "tip": "Probieren Sie handgemachte Nudeln im Restaurant Galija."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šurlice gulyással",
+            "tip": "Kóstolja meg a kézzel készített tésztát a Galija étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šurlice cu gulaș",
+            "tip": "Gustați pastele lucrate manual la restaurantul Galija."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šurlice with goulash",
+            "tip": "Try the handmade pasta at Restaurant Galija."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porporela Strand",
+            "tip": "Genießen Sie den Sonnenuntergang an der Hafenmole.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porporela strand",
+            "tip": "Élvezze a naplementét a kikötői mólónál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Porporela",
+            "tip": "Bucurați-vă de apusul de soare la digul portului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porporela Beach",
+            "tip": "Enjoy the sunset by the harbor pier.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krk Olivenöl",
+            "tip": "Kaufen Sie lokales Öl in den Souvenirläden am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krki olívaolaj",
+            "tip": "Vásároljon helyi olajat a kikötői ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Krk",
+            "tip": "Cumpărați ulei local din magazinele de suveniruri din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Olive Oil",
+            "tip": "Buy local oil in the souvenir shops by the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Kathedrale erfordert angemessene Kleidung.",
+          "Buchen Sie Aquarium-Tickets im Voraus in der Hochsaison.",
+          "Parken Sie außerhalb der Stadtmauern im Sommer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A székesegyház megtekintéséhez illő öltözet szükséges.",
+          "Főszezonban foglaljon előre jegyet az akváriumba.",
+          "Nyáron parkoljon a városfalakon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Catedrala necesită îmbrăcăminte adecvată.",
+          "Rezervați bilete la acvariu în avans în plin sezon.",
+          "Parcați în afara zidurilor orașului pe timpul verii."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The cathedral requires appropriate clothing.",
+          "Book aquarium tickets in advance during peak season.",
+          "Park outside the city walls during summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "13:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz Kamplin",
+            "hu": "Kamplin tér",
+            "ro": "Piața Kamplin",
+            "en": "Kamplin Square"
+          },
+          "coords": [
+            14.5742,
+            45.0252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Historischer Platz zwischen Schloss und Kirche.",
+            "hu": "Történelmi tér a vár és a templom között.",
+            "ro": "Piață istorică între castel și biserică.",
+            "en": "Historical square between the castle and church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern und Tore",
+            "hu": "Városfalak és kapuk",
+            "ro": "Zidurile și porțile orașului",
+            "en": "City Walls and Gates"
+          },
+          "coords": [
+            14.5735,
+            45.025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das westliche Haupttor.",
+            "hu": "Fedezze fel a nyugati főkaput.",
+            "ro": "Explorați poarta principală de vest.",
+            "en": "Explore the western main gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinerkloster St. Maria",
+            "hu": "Szent Mária bencés kolostor",
+            "ro": "Mănăstirea Benedictină Sf. Maria",
+            "en": "Benedictine Monastery of St. Mary"
+          },
+          "coords": [
+            14.5748,
+            45.0258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Friedlicher Ort mit schöner Architektur.",
+            "hu": "Békés hely gyönyörű építészettel.",
+            "ro": "Loc liniștit cu arhitectură frumoasă.",
+            "en": "Peaceful place with beautiful architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Halbinsel Prniba",
+            "hu": "Prniba-félsziget",
+            "ro": "Peninsula Prniba",
+            "en": "Prniba Peninsula"
+          },
+          "coords": [
+            14.59,
+            45.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Waldreiches Gebiet perfekt zum Radfahren.",
+            "hu": "Erdős terület, tökéletes kerékpározáshoz.",
+            "ro": "Zonă împădurită perfectă pentru ciclism.",
+            "en": "Wooded area perfect for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Dražica Strand",
+            "hu": "Dražica strand",
+            "ro": "Plaja Dražica",
+            "en": "Dražica Beach"
+          },
+          "coords": [
+            14.585,
+            45.023
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Klares Wasser und Schatten unter Pinien.",
+            "hu": "Tiszta víz és árnyék a fenyők alatt.",
+            "ro": "Apă limpede și umbră sub pini.",
+            "en": "Clear water and shade under pines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Geschichte der Stadt Krk und flüchten Sie dann auf die Halbinsel Prniba. Diese Route kombiniert antike Mauern mit schattigen Pinienwäldern und endet mit einem erfrischenden Bad am Dražica Strand.",
+        "hu": "Kerékpározzon végig Krk város történelmén, majd meneküljön el a Prniba-félszigetre. Ez az útvonal az ősi falakat árnyas fenyőerdőkkel ötvözi, és egy frissítő fürdőzéssel zárul a Dražica strandon.",
+        "ro": "Mergeți cu bicicleta prin istoria orașului Krk, apoi evadați în Peninsula Prniba. Acest traseu combină zidurile antice cu pădurile umbroase de pini și se încheie cu o baie revigorantă pe plaja Dražica.",
+        "en": "Cycle through Krk town's history, then escape to the Prniba Peninsula. This route combines ancient walls with shaded pine forests and ends with a refreshing swim at Dražica Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krk Lamm",
+            "tip": "Besuchen Sie das Bistro Politin für lokale Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krki bárány",
+            "tip": "Látogasson el a Bistro Politinba helyi húsételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel de Krk",
+            "tip": "Vizitați Bistro Politin pentru preparate locale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Lamb",
+            "tip": "Visit Bistro Politin for local meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prniba Aussichtspunkt",
+            "tip": "Ruhiger Blick auf die Punat-Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prniba kilátó",
+            "tip": "Csendes kilátás a Punati-öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Prniba",
+            "tip": "Vedere liniștită spre Golful Punat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prniba Viewpoint",
+            "tip": "Quiet view of the Punat bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Erhältlich auf dem kleinen Markt in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula tasakok",
+            "tip": "Kapható a központ közeli kis piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Disponibili la mica piață de lângă centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Sachets",
+            "tip": "Available at the small market near the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die hügelige Umgebung.",
+          "Nehmen Sie ausreichend Wasser für den Prniba-Pfad mit.",
+          "Die Wege sind teils geschottert, Mountainbike empfohlen.",
+          "Achten Sie auf Wanderer auf den Küstenwegen."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a dombos környékhez.",
+          "Vigyen elég vizet a Prniba-ösvényre.",
+          "Az utak részben kavicsosak, hegyi kerékpár ajánlott.",
+          "Ügyeljen a túrázókra a parti utakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru împrejurimile deluroase.",
+          "Luați suficientă apă pentru traseul Prniba.",
+          "Drumurile sunt parțial cu pietriș, se recomandă mountain bike.",
+          "Atenție la drumeții de pe potecile de coastă."
+        ],
+        "en": [
+          "Rent an e-bike for the hilly surroundings.",
+          "Take enough water for the Prniba trail.",
+          "The paths are partly gravel, mountain bike recommended.",
+          "Watch out for hikers on the coastal paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Krk",
+            "hu": "Krk városközpont",
+            "ro": "Centrul orașului Krk",
+            "en": "Krk City Center"
+          },
+          "coords": [
+            14.575,
+            45.026
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Hauptsehenswürdigkeiten zu Fuß.",
+            "hu": "Látogassa meg a főbb látnivalókat gyalog.",
+            "ro": "Vizitați principalele obiective turistice la pas.",
+            "en": "Visit the main sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterinsel Košljun",
+            "hu": "Košljun kolostorsziget",
+            "ro": "Insula mănăstire Košljun",
+            "en": "Košljun Monastery Island"
+          },
+          "coords": [
+            14.615,
+            45.025
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bootstransfer ab Punat erforderlich.",
+            "hu": "Punatból induló hajótranszfer szükséges.",
+            "ro": "Este necesar transferul cu barca din Punat.",
+            "en": "Boat transfer from Punat is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Punat Uferpromenade",
+            "hu": "Punat tengerparti sétány",
+            "ro": "Faleza din Punat",
+            "en": "Punat Waterfront"
+          },
+          "coords": [
+            14.628,
+            45.02
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Einer der größten Yachthäfen der Adria.",
+            "hu": "Az Adria egyik legnagyobb jachtkikötője.",
+            "ro": "Una dintre cele mai mari marine din Adriatică.",
+            "en": "One of the largest marinas in the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavotok Kloster",
+            "hu": "Glavotok kolostor",
+            "ro": "Mănăstirea Glavotok",
+            "en": "Glavotok Monastery"
+          },
+          "coords": [
+            14.442,
+            45.093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Franziskanerkloster direkt am Meer.",
+            "hu": "Ferences kolostor közvetlenül a tengerparton.",
+            "ro": "Mănăstire franciscană chiar pe malul mării.",
+            "en": "Franciscan monastery right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Magneli Strand",
+            "hu": "Magneli strand",
+            "ro": "Plaja Magneli",
+            "en": "Magneli Beach"
+          },
+          "coords": [
+            14.45,
+            45.08
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Versteckter Kieselstrand in der Nähe von Glavotok.",
+            "hu": "Rejtett kavicsos strand Glavotok közelében.",
+            "ro": "Plajă ascunsă cu pietriș lângă Glavotok.",
+            "en": "Hidden pebble beach near Glavotok."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die Umgebung von Krk zu erkunden. Besuchen Sie die mystische Insel Košljun von Punat aus und fahren Sie dann zur ruhigen Westspitze der Insel nach Glavotok, um Kultur und einsame Buchten zu verbinden.",
+        "hu": "Használja az autót Krk környékének felfedezéséhez. Látogasson el a misztikus Košljun-szigetre Punatból, majd hajtson a sziget csendes nyugati csücskébe, Glavotokba, hogy ötvözze a kultúrát és az elhagyatott öblöket.",
+        "ro": "Folosiți mașina pentru a explora împrejurimile orașului Krk. Vizitați insula mistică Košljun din Punat, apoi mergeți spre vârful vestic liniștit al insulei, la Glavotok, pentru a îmbina cultura cu golfurile izolate.",
+        "en": "Use the car to explore the surroundings of Krk. Visit the mystical island of Košljun from Punat, then drive to the quiet western tip of the island at Glavotok to combine culture and secluded bays."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krk Käse",
+            "tip": "In lokalen Agrotourismen in der Nähe von Glavotok erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krki sajt",
+            "tip": "Helyi agroturizmusokban kapható Glavotok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Krk",
+            "tip": "Disponibilă la agroturismele locale de lângă Glavotok."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Cheese",
+            "tip": "Available in local agrotourisms near Glavotok."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Glavotok Wald",
+            "tip": "Hundertjährige Steineichen direkt an der Küste.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glavotoki erdő",
+            "tip": "Százéves magyaltölgyek közvetlenül a parton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Glavotok",
+            "tip": "Stejari de stâncă seculari chiar pe coastă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glavotok Forest",
+            "tip": "Centuries-old holm oaks right on the coast.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Žlahtina Wein",
+            "tip": "Kaufen Sie Flaschen in der Vrbnik-Vinothek in Krk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Žlahtina bor",
+            "tip": "Vásároljon palackokat a vrbniki vinotékában Krk városában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Žlahtina",
+            "tip": "Cumpărați sticle de la vinoteca Vrbnik din Krk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Žlahtina Wine",
+            "tip": "Buy bottles at the Vrbnik vinotheque in Krk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatz in Punat ist oft voll, früh anreisen.",
+          "Die Straße nach Glavotok ist schmal, vorsichtig fahren.",
+          "Bootstaxis nach Košljun fahren alle 30 Minuten.",
+          "Nehmen Sie Strandschuhe für die Kieselbuchten mit."
+        ],
+        "hu": [
+          "Punatban a parkoló gyakran megtelik, érkezzen korán.",
+          "A Glavotokba vezető út keskeny, vezessen óvatosan.",
+          "Hajótaxik Košljunra 30 percenként indulnak.",
+          "Vigyen vízi cipőt a kavicsos öblökhöz."
+        ],
+        "ro": [
+          "Parcarea în Punat este adesea plină, sosiți devreme.",
+          "Drumul spre Glavotok este îngust, conduceți cu atenție.",
+          "Taxiurile pe apă către Košljun pleacă la fiecare 30 de minute.",
+          "Luați încălțăminte de plajă pentru golfurile cu pietriș."
+        ],
+        "en": [
+          "Parking in Punat is often full, arrive early.",
+          "The road to Glavotok is narrow, drive carefully.",
+          "Boat taxis to Košljun run every 30 minutes.",
+          "Take beach shoes for the pebble bays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Krk",
+            "hu": "Krki autóbusz-állomás",
+            "ro": "Autogara Krk",
+            "en": "Krk Bus Station"
+          },
+          "coords": [
+            14.577,
+            45.028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für regionale Busse.",
+            "hu": "Regionális buszok központi érkezési pontja.",
+            "ro": "Punct central de sosire pentru autobuzele regionale.",
+            "en": "Central arrival point for regional buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Placa",
+            "hu": "Vela Placa",
+            "ro": "Vela Placa",
+            "en": "Vela Placa"
+          },
+          "coords": [
+            14.5755,
+            45.0262
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort für den ersten Morgenkaffee.",
+            "hu": "A legjobb hely az első reggeli kávéhoz.",
+            "ro": "Cel mai bun loc pentru prima cafea de dimineață.",
+            "en": "The best spot for the first morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Schloss",
+            "hu": "Katedrális és vár",
+            "ro": "Catedrala și castelul",
+            "en": "Cathedral and Castle"
+          },
+          "coords": [
+            14.574,
+            45.025
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zwei Highlights direkt nebeneinander.",
+            "hu": "Két fénypont közvetlenül egymás mellett.",
+            "ro": "Două atracții principale chiar una lângă alta.",
+            "en": "Two highlights right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Terrarium",
+            "hu": "Akvárium és Terrárium",
+            "ro": "Acvariu și Terariu",
+            "en": "Aquarium Terrarium"
+          },
+          "coords": [
+            14.577,
+            45.027
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Hafen zurück.",
+            "hu": "Rövid séta a kikötőtől visszafelé.",
+            "ro": "Scurtă plimbare de la port înapoi.",
+            "en": "Short walk back from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Ježevac Strand",
+            "hu": "Ježevac strand",
+            "ro": "Plaja Ježevac",
+            "en": "Ježevac Beach"
+          },
+          "coords": [
+            14.568,
+            45.024
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß erreichbar vom Zentrum.",
+            "hu": "Könnyen elérhető gyalog a központból.",
+            "ro": "Ușor accesibilă pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Tagesausflügler: Vom Busbahnhof sind alle wichtigen Sehenswürdigkeiten der Stadt Krk schnell erreichbar. Ein Vormittag voller Geschichte endet mit einem entspannten Strandbesuch in Ježevac, bevor der Bus zurückfährt.",
+        "hu": "Ideális egynapos kirándulóknak: az autóbusz-állomásról Krk város összes fontos látnivalója gyorsan elérhető. A történelemmel teli délelőtt egy pihentető strandolással zárul Ježevacban a busz indulása előtt.",
+        "ro": "Ideal pentru excursioniștii de o zi: de la autogară, toate obiectivele importante din Krk sunt rapid accesibile. O dimineață plină de istorie se încheie cu o vizită relaxantă la plaja Ježevac înainte de plecarea autobuzului.",
+        "en": "Ideal for day-trippers: all the major sights of Krk town are quickly accessible from the bus station. A morning full of history ends with a relaxing beach visit in Ježevac before the bus departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Presnac",
+            "tip": "Traditioneller Schafskäsekuchen, probieren Sie ihn bei Casa del Padrone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Presnac",
+            "tip": "Hagyományos juhtúrós sütemény, kóstolja meg a Casa del Padrone cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presnac",
+            "tip": "Prăjitură tradițională cu brânză de oaie, încercați-o la Casa del Padrone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Presnac",
+            "tip": "Traditional sheep cheese cake, try it at Casa del Padrone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krypta der Kathedrale",
+            "tip": "Kühler und ruhiger Ort voller Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális kriptája",
+            "tip": "Hűvös és csendes hely, tele történelemmel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cripta catedralei",
+            "tip": "Loc răcoros și liniștit, plin de istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Crypt",
+            "tip": "Cool and quiet place full of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Kleine Ateliers in den Gassen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Kis műhelyek az óváros szűk utcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică lucrată manual",
+            "tip": "Mici ateliere în străduțele orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Small workshops in the narrow streets of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne online bei Arriva.",
+          "Die Busstation ist 5 Minuten Fußweg vom Zentrum entfernt.",
+          "Kaufen Sie Rückfahrkarten direkt beim Fahrer.",
+          "Nutzen Sie das kostenlose WLAN am Busbahnhof."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet online az Arriva oldalán.",
+          "A buszállomás 5 perc sétára van a központtól.",
+          "A jegyeket közvetlenül a sofőrnél veheti meg.",
+          "Használja az ingyenes Wi-Fi-t az autóbusz-állomáson."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor online pe Arriva.",
+          "Autogara este la 5 minute de mers pe jos de centru.",
+          "Cumpărați bilete de întoarcere direct de la șofer.",
+          "Folosiți Wi-Fi-ul gratuit din autogară."
+        ],
+        "en": [
+          "Check bus schedules online at Arriva.",
+          "The bus station is a 5-minute walk from the center.",
+          "Buy return tickets directly from the driver.",
+          "Use the free Wi-Fi at the bus station."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Krk",
+    "region": "HR-08",
+    "coords": [
+      14.575,
+      45.0258
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en/",
+    "transit_app": "https://autotrans.hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-krk.hr/",
+    "tourism_office": "https://www.tz-krk.hr/en",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Deutsch und Italienisch sind im Tourismus auf Krk besonders verbreitet, Englisch sowieso.",
+      "hu": "A horvát a hivatalos; Krken a turizmusban a német és olasz különösen elterjedt, az angol amúgy is.",
+      "ro": "Croata este oficială; pe Krk germana și italiana sunt foarte răspândite în turism, engleza la fel.",
+      "en": "Croatian is official; on Krk, German and Italian are especially common in tourism, English too."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober; Juli und August voll und heiß, Frühling und Herbst ideal für Wandern, Radfahren und Weinverkostung.",
+      "hu": "Május és október között; július, augusztus zsúfolt és forró, tavasz és ősz ideális túrázáshoz, kerékpározáshoz, borkóstoláshoz.",
+      "ro": "Mai până în octombrie; iulie, august aglomerate și calde, primăvara și toamna ideale pentru drumeții, ciclism și degustări de vin.",
+      "en": "May to October; July and August crowded and hot, spring and autumn ideal for hiking, cycling and wine tasting."
+    },
+    "neighborhood_warnings": {
+      "de": "Krk gilt als sehr sicher; auf der Brücke und der Hauptstraße kann es im Sommer zu Staus kommen, an Steinstränden Badeschuhe tragen.",
+      "hu": "Krk nagyon biztonságos; a hídon és a főúton nyáron dugók lehetnek, köves strandokon vízicipő ajánlott.",
+      "ro": "Krk este foarte sigură; vara pot apărea ambuteiaje pe pod și pe drumul principal, pe plajele cu pietre purtați papuci de apă.",
+      "en": "Krk is very safe; expect summer traffic jams on the bridge and main road, wear water shoes on pebble beaches."
+    }
+  }
+}

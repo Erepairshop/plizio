@@ -1,0 +1,1128 @@
+{
+  "city_id": "pula",
+  "anchor": {
+    "name": "Pula Arena",
+    "coords": [
+      13.8502,
+      44.8732
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arena von Pula",
+            "hu": "Pulai amfiteátrum",
+            "ro": "Arena din Pula",
+            "en": "Pula Arena"
+          },
+          "coords": [
+            13.8502,
+            44.8732
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh kommen, um die unterirdischen Olivenöl-Ausstellungen ohne Massen zu sehen.",
+            "hu": "Érdemes korán érkezni a föld alatti olívaolaj-kiállítás miatt.",
+            "ro": "Veniți devreme pentru a vedea expozițiile de ulei de măsline din subteran.",
+            "en": "Arrive early to see the underground olive oil exhibitions without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Doppeltor (Dvojna vrata)",
+            "hu": "Kettős kapu",
+            "ro": "Poarta Dublă",
+            "en": "Twin Gates"
+          },
+          "coords": [
+            13.8495,
+            44.8705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses Tor führt direkt zum Archäologischen Museum und zum Kastel.",
+            "hu": "Ez a kapu vezet közvetlenül a Régészeti Múzeumhoz és a várhoz.",
+            "ro": "Această poartă duce direct la Muzeul Arheologic și la Kastel.",
+            "en": "This gate leads directly to the Archaeological Museum and the Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Istriens",
+            "hu": "Isztriai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic al Istriei",
+            "en": "Archaeological Museum of Istria"
+          },
+          "coords": [
+            13.848,
+            44.8715
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hinter dem Museum befindet sich ein kleines römisches Theater im Freien.",
+            "hu": "A múzeum mögött egy kis szabadtéri római színház található.",
+            "ro": "În spatele muzeului se află un mic teatru roman în aer liber.",
+            "en": "Behind the museum, there is a small Roman outdoor theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Herkulestor",
+            "hu": "Herkules-kapu",
+            "ro": "Poarta lui Hercule",
+            "en": "Hercules Gate"
+          },
+          "coords": [
+            13.8488,
+            44.8692
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 10,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das stark verwitterte Relief des Herkules-Kopfes oben.",
+            "hu": "Figyeld meg a Herkules fejét ábrázoló kopott domborművet a kapu tetején.",
+            "ro": "Observați relieful erodat al capului lui Hercule din partea de sus.",
+            "en": "Look for the weathered relief of Hercules' head at the top of the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Sergierbogen",
+            "hu": "Sergius-diadalív",
+            "ro": "Arcul lui Sergius",
+            "en": "Arch of the Sergii"
+          },
+          "coords": [
+            13.8475,
+            44.8682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für Fotos, bevor man in die Haupteinkaufsstraße einbiegt.",
+            "hu": "Tökéletes fotópont, mielőtt belépnél a fő bevásárlóutcába.",
+            "ro": "Un loc ideal pentru fotografii înainte de a intra pe strada principală.",
+            "en": "An ideal spot for photos before entering the main shopping street."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum & Augustustempel",
+            "hu": "Fórum és Augustus temploma",
+            "ro": "Forumul și Templul lui Augustus",
+            "en": "Forum & Temple of Augustus"
+          },
+          "coords": [
+            13.8428,
+            44.8702
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen am Platz mit Blick auf den Tempel aus dem 1. Jahrhundert.",
+            "hu": "Ebédelj a téren, rálátással az 1. századi római templomra.",
+            "ro": "Savurați prânzul în piață cu vedere la templul roman din secolul I.",
+            "en": "Enjoy lunch in the square with a view of the 1st-century Roman temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastel",
+            "hu": "Kastel erőd",
+            "ro": "Kastel",
+            "en": "Kastel Fortress"
+          },
+          "coords": [
+            13.8465,
+            44.8705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Mauern für den besten Panoramablick über ganz Pula.",
+            "hu": "Menj fel a falakra a legjobb panorámáért Pula városa felett.",
+            "ro": "Urcați pe ziduri pentru cea mai bună vedere panoramică asupra Pulei.",
+            "en": "Climb the walls for the best panoramic view over the entire city of Pula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der beeindruckenden Arena, einem der am besten erhaltenen römischen Amphitheater. Spazieren Sie durch die antiken Tore der Stadt und tauchen Sie im Archäologischen Museum in die Geschichte ein. Mittags entspannen Sie am Forum, dem Herzen des antiken Pula, direkt neben dem Augustustempel. Den Nachmittag krönen Sie mit einem Besuch der venezianischen Festung Kastel, von der aus Sie den Hafen und die Arena aus der Vogelperspektive bestaunen können.",
+        "hu": "Kezdje a napot a lenyűgöző Arénánál, amely a világ egyik legjobb állapotban fennmaradt római amfiteátruma. Sétáljon át az ókori városkapukon, és merüljön el a történelemben a Régészeti Múzeumban. Délben pihenjen a Fórumon, az ókori Pula szívében, közvetlenül Augustus temploma mellett. A délutánt koronázza meg a velencei Kastel erőd meglátogatásával, ahonnan madártávlatból csodálhatja meg a kikötőt és az Arénát.",
+        "ro": "Începeți ziua la impresionanta Arenă, unul dintre cele mai bine conservate amfiteatre romane din lume. Plimbați-vă prin porțile antice ale orașului și descoperiți istoria la Muzeul Arheologic. La prânz, relaxați-vă în Forum, inima Pulei antice, chiar lângă Templul lui Augustus. Încheiați după-amiaza cu o vizită la fortăreața venețiană Kastel, de unde puteți admira portul și Arena de la înălțime.",
+        "en": "Start your day at the impressive Arena, one of the best-preserved Roman amphitheaters in the world. Walk through the ancient city gates and dive into history at the Archaeological Museum. At midday, relax at the Forum, the heart of ancient Pula, right next to the Temple of Augustus. Crown the afternoon with a visit to the Venetian Kastel fortress, offering a bird's-eye view of the harbor and the Arena."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Batelina",
+            "tip": "Frischer Fisch und Meeresfrüchte nach traditioneller Art."
+          },
+          {
+            "name": "Istrianischer Schinken (Pršut)",
+            "tip": "Probieren Sie ihn in einer der kleinen Bars am Forum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Batelina",
+            "tip": "Friss halak és tenger gyümölcsei hagyományos módon elkészítve."
+          },
+          {
+            "name": "Isztriai sonka (Pršut)",
+            "tip": "Kóstolja meg a Fórum menti kis bárok egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Batelina",
+            "tip": "Pește proaspăt și fructe de mare gătite în mod tradițional."
+          },
+          {
+            "name": "Șuncă istriană (Pršut)",
+            "tip": "Încercați-o într-unul dintre micile baruri din Forum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Batelina",
+            "tip": "Fresh fish and seafood prepared in a traditional style."
+          },
+          {
+            "name": "Istrian Ham (Pršut)",
+            "tip": "Try it in one of the small bars along the Forum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Monte Zaro",
+            "tip": "Ein ruhiger Park mit Blick auf die Sternwarte.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Hafenmole",
+            "tip": "Ideal für einen ruhigen Spaziergang zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Zaro domb",
+            "tip": "Csendes park kilátással a csillagvizsgálóra.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kikötői móló",
+            "tip": "Ideális egy nyugodt sétához naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Monte Zaro",
+            "tip": "Un parc liniștit cu vedere la observatorul astronomic.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Digul portului",
+            "tip": "Ideal pentru o plimbare liniștită la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Zaro Hill",
+            "tip": "A quiet park with a view of the astronomical observatory.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Harbor Pier",
+            "tip": "Ideal for a peaceful walk at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle Pula",
+            "tip": "Ein wunderschönes Jugendstilgebäude mit lokalen Produkten."
+          },
+          {
+            "name": "Olivenöl-Fachgeschäfte",
+            "tip": "Kaufen Sie preisgekröntes istrisches Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulai Vásárcsarnok",
+            "tip": "Gyönyörű szecessziós épület helyi termékekkel."
+          },
+          {
+            "name": "Olívaolaj szaküzletek",
+            "tip": "Vásároljon díjnyertes isztriai olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală din Pula",
+            "tip": "O clădire Art Nouveau superbă cu produse locale."
+          },
+          {
+            "name": "Magazine de ulei de măsline",
+            "tip": "Cumpărați ulei de măsline istrian premiat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pula City Market",
+            "tip": "A beautiful Art Nouveau building with local fresh products."
+          },
+          {
+            "name": "Olive Oil Specialty Shops",
+            "tip": "Buy award-winning Istrian olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast komplett verkehrsberuhigt.",
+          "Tragen Sie bequeme Schuhe für das römische Kopfsteinpflaster.",
+          "Kombinieren Sie den Besuch der Arena mit dem unterirdischen Museum.",
+          "Das Forum bietet die beste Atmosphäre für eine Kaffeepause."
+        ],
+        "hu": [
+          "Az óváros szinte teljes egészében gyalogosövezet.",
+          "Viseljen kényelmes cipőt a római kori macskakövek miatt.",
+          "Az Aréna látogatását kösse össze a föld alatti múzeummal.",
+          "A Fórum kínálja a legjobb hangulatot egy kávészünethez."
+        ],
+        "ro": [
+          "Centrul vechi este aproape în întregime zonă pietonală.",
+          "Purtați încălțăminte confortabilă pentru pavajul roman.",
+          "Combinați vizita la Arenă cu muzeul subteran.",
+          "Forumul oferă cea mai bună atmosferă pentru o pauză de cafea."
+        ],
+        "en": [
+          "The old town is almost entirely a pedestrian zone.",
+          "Wear comfortable shoes for the Roman cobblestone streets.",
+          "Combine your Arena visit with the underground museum.",
+          "The Forum offers the best atmosphere for a coffee break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arena von Pula",
+            "hu": "Pulai amfiteátrum",
+            "ro": "Arena din Pula",
+            "en": "Pula Arena"
+          },
+          "coords": [
+            13.8502,
+            44.8732
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit ausreichend Fahrradständern.",
+            "hu": "Kiindulópont elegendő kerékpártárolóval.",
+            "ro": "Punct de plecare cu suficiente rastele pentru biciclete.",
+            "en": "Starting point with plenty of bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            13.832,
+            44.851
+          ],
+          "category": "park/beach",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Radweg direkt am Meer unter Pinien.",
+            "hu": "Gyönyörű kerékpárút a tenger mentén, fenyőfák alatt.",
+            "ro": "Pistă de biciclete superbă la malul mării, sub pini.",
+            "en": "Beautiful bike path along the sea under pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Verudela Strand",
+            "hu": "Verudela strand",
+            "ro": "Plaja Verudela",
+            "en": "Verudela Beach"
+          },
+          "coords": [
+            13.834,
+            44.838
+          ],
+          "category": "park/beach",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung im kristallklaren Wasser.",
+            "hu": "Tökéletes egy frissítő csobbanáshoz a kristálytiszta vízben.",
+            "ro": "Perfect pentru o bălăceală răcoritoare în apa cristalină.",
+            "en": "Perfect for a refreshing dip in the crystal-clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sergierbogen",
+            "hu": "Sergius-diadalív",
+            "ro": "Arcul lui Sergius",
+            "en": "Arch of the Sergii"
+          },
+          "coords": [
+            13.8475,
+            44.8682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad kurz ab für ein Foto.",
+            "hu": "Tegye le a biciklit egy rövid fotóra.",
+            "ro": "Lăsați bicicleta pentru o scurtă fotografie.",
+            "en": "Park your bike briefly for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum",
+            "hu": "Fórum",
+            "ro": "Forum",
+            "en": "Forum"
+          },
+          "coords": [
+            13.8428,
+            44.8702
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradfreundliche Cafés direkt am Platz.",
+            "hu": "Kerékpárosbarát kávézók közvetlenül a téren.",
+            "ro": "Cafenele bike-friendly direct în piață.",
+            "en": "Bike-friendly cafes right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastel",
+            "hu": "Kastel erőd",
+            "ro": "Kastel",
+            "en": "Kastel Fortress"
+          },
+          "coords": [
+            13.8465,
+            44.8705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Anstieg, aber die Aussicht lohnt sich.",
+            "hu": "Rövid, meredek emelkedő, de a kilátás megéri.",
+            "ro": "Urcare scurtă și abruptă, dar priveliștea merită.",
+            "en": "Short, steep climb, but the view is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pula auf zwei Rädern! Nach dem Start an der Arena führt Sie die Route entlang der malerischen Lungomare-Promenade bis zur Halbinsel Verudela, wo Sie eine Badepause einlegen können. Auf dem Rückweg durchqueren Sie das Stadtzentrum, passieren den Sergierbogen und das Forum, bevor Sie den Tag mit einem kurzen Anstieg zum Kastel und einem weiten Blick über die Adria abschließen.",
+        "hu": "Fedezze fel Pulát két keréken! Az Arénától indulva az út a festői Lungomare sétányon vezet a Verudela-félszigetig, ahol megmártózhat a tengerben. Visszafelé a városközponton keresztül kerekezhet, érintve a Sergius-diadalívet és a Fórumot, majd a napot egy rövid emelkedővel zárja a Kastel erődöz, ahonnan pazar kilátás nyílik az Adriára.",
+        "ro": "Explorați Pula pe două roți! După pornirea de la Arenă, traseul vă poartă pe faleza pitorească Lungomare până în peninsula Verudela, unde puteți face o pauză de înot. La întoarcere, traversați centrul orașului, trecând pe lângă Arcul lui Sergius și Forum, înainte de a încheia ziua cu o scurtă urcare la Kastel pentru o vedere panoramică asupra Adriaticii.",
+        "en": "Explore Pula on two wheels! After starting at the Arena, the route takes you along the scenic Lungomare promenade to the Verudela peninsula, where you can take a swim break. On the way back, cycle through the city center past the Arch of the Sergii and the Forum, before ending the day with a short climb to the Kastel for a grand view over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Alighieri",
+            "tip": "Leichte Pasta-Gerichte, ideal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Alighieri",
+            "tip": "Könnyű tésztaételek, ideális kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Alighieri",
+            "tip": "Paste ușoare, ideale pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Alighieri",
+            "tip": "Light pasta dishes, ideal for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gortans Bucht",
+            "tip": "Ruhiger Kieselstrand an der Lungomare.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gortan-öböl",
+            "tip": "Csendes kavicsos strand a Lungomare mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Gortan",
+            "tip": "Plajă liniștită cu pietriș pe Lungomare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gortan's Bay",
+            "tip": "Quiet pebble beach along the Lungomare.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Pula",
+            "tip": "Mieten Sie E-Bikes für die Hügel der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző Pula",
+            "tip": "Béreljen e-bike-ot a városi dombokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete Pula",
+            "tip": "Închiriați e-bike pentru dealurile orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pula Bike Rental",
+            "tip": "Rent e-bikes for the city's hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege an der Küste.",
+          "In der Fußgängerzone müssen Sie das Rad schieben.",
+          "Ein Schloss ist bei Besichtigungen unerlässlich."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat a parton.",
+          "A sétálóutcákban tolni kell a biciklit.",
+          "A lakat elengedhetetlen a városnézés során."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate de pe coastă.",
+          "În zona pietonală trebuie să mergeți pe lângă bicicletă.",
+          "Un lacăt este esențial în timpul vizitelor."
+        ],
+        "en": [
+          "Use the marked bike paths along the coast.",
+          "In the pedestrian zone, you must walk your bike.",
+          "A lock is essential during sightseeing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arena von Pula",
+            "hu": "Pulai amfiteátrum",
+            "ro": "Arena din Pula",
+            "en": "Pula Arena"
+          },
+          "coords": [
+            13.8502,
+            44.8732
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus 'Karolina' liegt direkt gegenüber.",
+            "hu": "A 'Karolina' parkolóház közvetlenül szemben található.",
+            "ro": "Parcarea 'Karolina' este chiar vizavi.",
+            "en": "The 'Karolina' parking lot is right across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustustempel & Forum",
+            "hu": "Augustus temploma és Fórum",
+            "ro": "Templul lui Augustus și Forumul",
+            "en": "Temple of Augustus & Forum"
+          },
+          "coords": [
+            13.8428,
+            44.8702
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und gehen Sie 5 Min. zu Fuß.",
+            "hu": "Parkoljon a kikötőnél, onnan 5 perc séta.",
+            "ro": "Parcați în port și mergeți 5 minute pe jos.",
+            "en": "Park at the harbor and walk 5 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kap Kamenjak (Naturschutzgebiet)",
+            "hu": "Kamenjak-fok (Természetvédelmi terület)",
+            "ro": "Capul Kamenjak (Rezervație)",
+            "en": "Cape Kamenjak (Nature Reserve)"
+          },
+          "coords": [
+            13.911,
+            44.762
+          ],
+          "category": "park/beach",
+          "arrive_at": "11:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Eintritt für Autos ist kostenpflichtig, aber es lohnt sich.",
+            "hu": "Autóval fizetős a belépés, de megéri.",
+            "ro": "Intrarea cu mașina este contra cost, dar merită.",
+            "en": "Car entry is paid, but it's worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Safari Bar",
+            "hu": "Safari Bar",
+            "ro": "Safari Bar",
+            "en": "Safari Bar"
+          },
+          "coords": [
+            13.91,
+            44.758
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kult-Bar inmitten von Schilf und Natur.",
+            "hu": "Kultikus bár a nádas és a természet lágy ölén.",
+            "ro": "Un bar cult în mijlocul stufului și al naturii.",
+            "en": "A cult bar in the middle of reeds and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastel",
+            "hu": "Kastel erőd",
+            "ro": "Kastel",
+            "en": "Kastel Fortress"
+          },
+          "coords": [
+            13.8465,
+            44.8705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp für den Sonnenuntergang über der Stadt.",
+            "hu": "Utolsó megálló a város feletti naplementéhez.",
+            "ro": "Ultima oprire pentru apusul peste oraș.",
+            "en": "Last stop for sunset over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die antiken Schätze Pulas mit der wilden Natur Südistriens. Nach der Besichtigung der Arena und des Forums fahren Sie zum Kap Kamenjak, einem unberührten Naturschutzgebiet mit spektakulären Klippen und versteckten Buchten. Genießen Sie ein Mittagessen in der legendären Safari Bar, bevor Sie am späten Nachmittag nach Pula zurückkehren, um den Tag auf der Festung Kastel ausklingen zu lassen.",
+        "hu": "Autóval összekötheti Pula ókori kincseit Dél-Isztria vad természetével. Az Aréna és a Fórum megtekintése után irány a Kamenjak-fok, egy érintetlen természetvédelmi terület látványos sziklákkal és rejtett öblökkel. Ebédeljen a legendás Safari Barban, majd késő délután térjen vissza Pulába, hogy a napot a Kastel erődben zárja.",
+        "ro": "Cu mașina, îmbinați comorile antice ale Pulei cu natura sălbatică a Istriei de Sud. După Arena și Forum, conduceți spre Capul Kamenjak, o rezervație naturală virgină cu stânci spectaculoase și golfuri ascunse. Savurați prânzul la legendarul Safari Bar, apoi reveniți în Pula spre seară pentru a încheia ziua la fortăreața Kastel.",
+        "en": "By car, you can combine Pula's ancient treasures with the wild nature of southern Istria. After visiting the Arena and the Forum, drive to Cape Kamenjak, a pristine nature reserve with spectacular cliffs and hidden bays. Enjoy lunch at the legendary Safari Bar before returning to Pula in the late afternoon to end the day at the Kastel fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Safari Bar",
+            "tip": "Probieren Sie die Sangria und den Gyros in besonderer Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Safari Bar",
+            "tip": "Kóstolja meg a sangriát és a gyrost ebben a különleges környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Safari Bar",
+            "tip": "Încercați sangria și gyrosul într-o atmosferă deosebită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Safari Bar",
+            "tip": "Try the sangria and gyros in a very unique atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen von Kamenjak",
+            "tip": "Beobachten Sie mutige Klippenspringer.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamenjak sziklái",
+            "tip": "Figyelje meg a bátor sziklaugrókat.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Kamenjak",
+            "tip": "Urmăriți săritorii curajoși de pe stânci.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamenjak Cliffs",
+            "tip": "Watch the brave cliff divers.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Max City Mall",
+            "tip": "Modernes Einkaufszentrum am Stadtrand mit Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Max City Pláza",
+            "tip": "Modern bevásárlóközpont a város szélén, jó parkolással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Max City Mall",
+            "tip": "Centru comercial modern la marginea orașului, cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Max City Mall",
+            "tip": "Modern shopping mall on the outskirts with easy parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Pula kann im Sommer schwierig sein, nutzen Sie große Parkplätze.",
+          "Kamenjak verlangt Eintritt pro Fahrzeug.",
+          "Die Straßen auf Kamenjak sind staubige Schotterpisten."
+        ],
+        "hu": [
+          "A parkolás Pulában nyáron nehéz lehet, használja a nagy parkolókat.",
+          "Kamenjakra járművenként kell belépőt fizetni.",
+          "Kamenjak útjai poros murvás utak."
+        ],
+        "ro": [
+          "Parcarea în Pula poate fi dificilă vara, folosiți parcările mari.",
+          "Kamenjak percepe taxă de intrare pe vehicul.",
+          "Drumurile din Kamenjak sunt de pământ și praf."
+        ],
+        "en": [
+          "Parking in Pula can be tough in summer, use the large lots.",
+          "Kamenjak charges an entry fee per vehicle.",
+          "The roads in Kamenjak are dusty gravel tracks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arena von Pula",
+            "hu": "Pulai amfiteátrum",
+            "ro": "Arena din Pula",
+            "en": "Pula Arena"
+          },
+          "coords": [
+            13.8502,
+            44.8732
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten direkt vor der Arena.",
+            "hu": "Számos buszjárat megáll közvetlenül az Aréna előtt.",
+            "ro": "Multe linii de autobuz opresc chiar în fața Arenei.",
+            "en": "Many bus lines stop right in front of the Arena."
+          }
+        },
+        {
+          "name": {
+            "de": "Sergierbogen",
+            "hu": "Sergius-diadalív",
+            "ro": "Arcul lui Sergius",
+            "en": "Arch of the Sergii"
+          },
+          "coords": [
+            13.8475,
+            44.8682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Knotenpunkt 'Giardini' ist nur wenige Schritte entfernt.",
+            "hu": "A 'Giardini' csomópont csak pár lépésre van.",
+            "ro": "Nodul 'Giardini' este la doar câțiva pași distanță.",
+            "en": "The 'Giardini' transit hub is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum & Augustustempel",
+            "hu": "Fórum és Augustus temploma",
+            "ro": "Forumul și Templul lui Augustus",
+            "en": "Forum & Temple of Augustus"
+          },
+          "coords": [
+            13.8428,
+            44.8702
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Fußgängerzone vom Giardini.",
+            "hu": "Séta a sétálóutcán keresztül a Giardini felől.",
+            "ro": "Plimbare prin zona pietonală de la Giardini.",
+            "en": "Walk through the pedestrian zone from Giardini."
+          }
+        },
+        {
+          "name": {
+            "de": "Verudela (Aquarium Pula)",
+            "hu": "Verudela (Pulai Akvárium)",
+            "ro": "Verudela (Avariul Pula)",
+            "en": "Verudela (Pula Aquarium)"
+          },
+          "coords": [
+            13.832,
+            44.835
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 2a oder 3a vom Zentrum.",
+            "hu": "Használja a 2a vagy 3a buszt a központból.",
+            "ro": "Luați linia 2a sau 3a din centru.",
+            "en": "Take line 2a or 3a from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastel",
+            "hu": "Kastel erőd",
+            "ro": "Kastel",
+            "en": "Kastel Fortress"
+          },
+          "coords": [
+            13.8465,
+            44.8705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Zentrum und kurzer Aufstieg zu Fuß.",
+            "hu": "Visszautazás a központba, majd rövid séta fel az erődhöz.",
+            "ro": "Întoarcere în centru și urcare scurtă pe jos.",
+            "en": "Return to the center and a short walk up to the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Pula, um Stadt und Strand zu verbinden. Beginnen Sie antik an der Arena und schlendern Sie zum Sergierbogen. Nach einem Besuch am Forum bringt Sie der Bus bequem zur Halbinsel Verudela, wo Sie das Aquarium in einer alten Festung besuchen oder am Meer entspannen können. Zum Abschluss kehren Sie ins Zentrum zurück, um den Panoramablick vom Kastel zu genießen.",
+        "hu": "Használja Pula hatékony buszhálózatát a város és a strand összekötésére. Kezdjen az Arénánál, majd sétáljon el a Sergius-diadalívhez. A Fórum után busszal kényelmesen kijuthat a Verudela-félszigetre, ahol megnézheti az akváriumot egy régi erődben, vagy pihenhet a tengerparton. Végezetül térjen vissza a központba a Kastel panorámájáért.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Pula pentru a lega orașul de plajă. Începeți la Arenă și plimbați-vă până la Arcul lui Sergius. După Forum, autobuzul vă duce confortabil în peninsula Verudela, unde puteți vizita acvariul într-o veche fortăreață sau vă puteți relaxa la malul mării. La final, reveniți în centru pentru panorama de la Kastel.",
+        "en": "Use Pula's efficient bus system to connect the city with the beach. Start at the ancient Arena and stroll to the Arch of the Sergii. After the Forum, the bus conveniently takes you to the Verudela peninsula, where you can visit the aquarium in an old fortress or relax by the sea. Finally, return to the center to enjoy the panoramic view from the Kastel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Jupiter",
+            "tip": "Beliebte Pizzeria in der Nähe der Arena."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jupiter Pizzéria",
+            "tip": "Népszerű pizzéria az Aréna közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Jupiter",
+            "tip": "Pizzerie populară lângă Arenă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Jupiter",
+            "tip": "Popular pizzeria near the Arena."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aquarium Park",
+            "tip": "Ruhiger Parkbereich auf Verudela.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akvárium park",
+            "tip": "Csendes parkos rész Verudelán.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Acvariului",
+            "tip": "Zonă liniștită de parc în Verudela.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aquarium Park",
+            "tip": "Quiet park area on Verudela.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Tickets",
+            "tip": "Kaufen Sie Busfahrkarten vorab am Kiosk für günstigere Preise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos jegyek",
+            "tip": "Vásároljon buszjegyet előre az újságosnál az olcsóbb árért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bilete la chioșc",
+            "tip": "Cumpărați bilete de autobuz în avans de la chioșc pentru prețuri mai mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Tickets",
+            "tip": "Buy bus tickets in advance at a kiosk for better prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buskarten beim Fahrer sind teurer als am Kiosk.",
+          "Die Linien 2 und 3 fahren im 20-Minuten-Takt nach Verudela.",
+          "Die Haltestelle 'Giardini' ist der zentrale Umsteigepunkt."
+        ],
+        "hu": [
+          "A sofőrnél váltott jegy drágább, mint az újságosnál.",
+          "A 2-es és 3-as busz 20 percenként jár Verudelára.",
+          "A 'Giardini' megálló a központi átszállási pont."
+        ],
+        "ro": [
+          "Biletele luate de la șofer sunt mai scumpe decât cele de la chioșc.",
+          "Liniile 2 și 3 circulă la fiecare 20 de minute spre Verudela.",
+          "Stația 'Giardini' este principalul punct de transfer."
+        ],
+        "en": [
+          "Bus tickets from the driver are more expensive than at kiosks.",
+          "Lines 2 and 3 run every 20 minutes to Verudela.",
+          "The 'Giardini' stop is the central transfer point."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-18",
+    "coords": [
+      13.8496,
+      44.8666
+    ],
+    "transit_official": "https://www.pulapromet.hr/en",
+    "transit_app": "https://www.pulapromet.hr/en",
+    "bike_share": "https://bikesharemap.com/pula/",
+    "city_card": null,
+    "events": "https://pulainfo.hr/",
+    "tourism_office": "https://pulainfo.hr/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/pula/grad-pula.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": [
+        "Dobar dan (do-bar dahn) — Guten Tag",
+        "Hvala (hva-lah) — Danke",
+        "Molim (mo-lim) — Bitte"
+      ],
+      "hu": [
+        "Dobar dan (do-bar dán) — Jó napot",
+        "Hvala (hvá-la) — Köszönöm",
+        "Molim (mó-lim) — Kérem"
+      ],
+      "ro": [
+        "Dobar dan (do-bar dan) — Bună ziua",
+        "Hvala (hva-la) — Mulțumesc",
+        "Molim (mo-lim) — Vă rog"
+      ],
+      "en": [
+        "Dobar dan (DOH-bar dahn) — Good day",
+        "Hvala (HVAH-lah) — Thank you",
+        "Molim (MOH-leem) — Please/You're welcome"
+      ]
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Oktober für Strand und Arena-Konzerte; Juli/August sind heiß und voll, daher sind Juni und September angenehmer.",
+      "hu": "Május és október eleje között ideális strandra és aréna-koncertekre; július-augusztus forró és zsúfolt, június vagy szeptember kellemesebb.",
+      "ro": "Mai până la începutul lui octombrie pentru plajă și concerte la Arenă; iulie-august sunt călduroase și aglomerate, iunie sau septembrie sunt mai plăcute.",
+      "en": "May to early October for beaches and Arena concerts; July and August are hot and crowded, so June or September are more pleasant."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Altstadt und Verudela sind sicher; rund um den Busbahnhof nachts auf Taschendiebe achten.",
+      "hu": "Az óváros és Verudela biztonságos; a buszpályaudvar környékén éjjel figyelj a zsebtolvajokra.",
+      "ro": "Centrul vechi și Verudela sunt sigure; lângă autogară, fiți atenți la hoții de buzunare seara.",
+      "en": "Old Town and Verudela are safe; watch for pickpockets near the bus station at night."
+    }
+  }
+}

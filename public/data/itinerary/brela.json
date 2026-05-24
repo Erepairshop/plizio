@@ -1,0 +1,1107 @@
+{
+  "city_id": "brela",
+  "anchor": {
+    "name": "Brela",
+    "coords": [
+      16.9258,
+      43.3636
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Stephan",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            16.933,
+            43.366
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockaltäre dieser im 19. Jahrhundert erbauten Kirche.",
+            "hu": "Csodáld meg a 19. századi templom barokk oltárait.",
+            "ro": "Admirați altarele baroce ale acestei biserici construite în secolul al XIX-lea.",
+            "en": "Admire the Baroque altars of this 19th-century church."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Brela",
+            "hu": "Brela tengerparti sétánya",
+            "ro": "Promenada din Brela",
+            "en": "Brela Seaside Promenade"
+          },
+          "coords": [
+            16.93,
+            43.364
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schattiger Spaziergang unter Pinien entlang der Adria.",
+            "hu": "Árnyas séta a fenyőfák alatt az Adria partján.",
+            "ro": "O plimbare umbrită sub pini de-a lungul Adriaticii.",
+            "en": "A shaded walk under pine trees along the Adriatic coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+            "hu": "Kármelhegyi Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+            "en": "Church of Our Lady of Mount Carmel"
+          },
+          "coords": [
+            16.9315,
+            43.365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Votivkirche wurde 1715 zum Sieg über die Osmanen errichtet.",
+            "hu": "Ez a fogadalmi templom 1715-ben épült a törökök feletti győzelem emlékére.",
+            "ro": "Această biserică votivă a fost ridicată în 1715 pentru victoria asupra otomanilor.",
+            "en": "This votive church was built in 1715 to commemorate the victory over the Ottomans."
+          }
+        },
+        {
+          "name": {
+            "de": "Stein von Brela",
+            "hu": "Brela-szikla",
+            "ro": "Piatra din Brela",
+            "en": "Brela Stone"
+          },
+          "coords": [
+            16.9213,
+            43.3615
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen Kroatiens – ein bewachsener Fels im Meer.",
+            "hu": "Horvátország jelképe – egy fenyőfákkal borított szikla a tengerben.",
+            "ro": "Simbolul Croației – o stâncă acoperită de vegetație în mare.",
+            "en": "The symbol of Croatia – a pine-covered rock in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Punta Rata",
+            "hu": "Punta Rata strand",
+            "ro": "Plaja Punta Rata",
+            "en": "Punta Rata Beach"
+          },
+          "coords": [
+            16.9216,
+            43.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einer der schönsten Kieselstrände der Welt mit kristallklarem Wasser.",
+            "hu": "A világ egyik legszebb kavicsos strandja kristálytiszta vízzel.",
+            "ro": "Una dintre cele mai frumoase plaje cu pietriș din lume, cu apă cristalină.",
+            "en": "One of the most beautiful pebble beaches in the world with crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Podrače",
+            "hu": "Podrače strand",
+            "ro": "Plaja Podrače",
+            "en": "Podrače Beach"
+          },
+          "coords": [
+            16.923,
+            43.362
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine fotogene Bucht, ideal zum Schnorcheln am Nachmittag.",
+            "hu": "Fotogén öböl, amely délutáni búvárkodáshoz is kiváló.",
+            "ro": "Un golf fotogenic, ideal pentru snorkeling după-amiaza.",
+            "en": "A photogenic cove, ideal for afternoon snorkeling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der sakralen Stille der St.-Stephans-Kirche und schlendern Sie dann gemütlich über die von Pinien gesäumte Uferpromenade. Die frische Meeresbrise begleitet Sie zur historischen Gospa-od-Karmela-Kirche.\n\nZur Mittagszeit erreichen Sie das Wahrzeichen von Brela, den markanten Stein im Meer. Genießen Sie die Sonne am berühmten Strand Punta Rata, wo das azurblaue Wasser zur Abkühlung einlädt.\n\nDer Nachmittag gehört der Entspannung in der malerischen Bucht von Podrače. Die Felsformationen bieten hier eine einzigartige Kulisse für Erinnerungsfotos und ruhige Momente direkt am Wasser.\n\nLassen Sie den Tag in einem der gemütlichen Restaurants an der Promenade ausklingen. Bei einem Glas lokalen Weins können Sie beobachten, wie die Sonne langsam hinter der Insel Brač versinkt.",
+        "hu": "Kezdje a reggelt a Szent István-templom szakrális csendjével, majd tegyen egy kényelmes sétát a fenyőfákkal övezett tengerparti sétányon. A friss tengeri szellő elkíséri Önt a történelmi Kármelhegyi Boldogasszony-templomhoz.\n\nEbédidőben éri el Brela jelképét, a tengerben álló jellegzetes sziklát. Élvezze a napsütést a híres Punta Rata strandon, ahol az azúrkék víz hűsítő fürdőzésre csábít.\n\nA délután a pihenésé a festői Podrače-öbölben. A sziklaalakzatok egyedülálló hátteret biztosítanak az emlékfotókhoz és a közvetlenül a vízparton töltött nyugodt pillanatokhoz.\n\nZárja a napot a sétány egyik hangulatos éttermében. Egy pohár helyi bor mellett nézheti végig, ahogy a nap lassan lebukik Brač szigete mögött.",
+        "ro": "Începeți dimineața cu liniștea sacră a Bisericii Sfântul Ștefan, apoi faceți o plimbare relaxantă pe promenada mărginită de pini. Briza proaspătă a mării vă însoțește spre biserica istorică Maica Domnului de pe Muntele Carmel.\n\nLa prânz, ajungeți la simbolul stațiunii Brela, celebra stâncă din mare. Bucurați-vă de soare pe faimoasa plajă Punta Rata, unde apa azurie vă invită la o baie răcoritoare.\n\nDupă-amiaza este dedicată relaxării în golful pitoresc Podrače. Formațiunile stâncoase oferă un decor unic pentru fotografii de neuitat și momente liniștite chiar lângă apă.\n\nÎncheiați ziua într-unul dintre restaurantele primitoare de pe faleză. Cu un pahar de vin local, puteți privi cum soarele apune încet în spatele insulei Brač.",
+        "en": "Start your morning with the sacred silence of St. Stephen's Church, then take a leisurely stroll along the pine-lined seaside promenade. The fresh sea breeze accompanies you to the historic Church of Our Lady of Mount Carmel.\n\nAt lunchtime, you reach the landmark of Brela, the distinctive rock in the sea. Enjoy the sun at the famous Punta Rata beach, where the azure water invites you for a refreshing swim.\n\nIn the afternoon, relax in the picturesque Podrače bay. The rock formations provide a unique backdrop for souvenir photos and quiet moments right by the water.\n\nEnd the day in one of the cozy restaurants on the promenade. With a glass of local wine, you can watch the sun slowly set behind the island of Brač."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Traditionell unter der Glocke gegartes Fleisch oder Tintenfisch im Restaurant Galinac."
+          },
+          {
+            "name": "Dalmatinische Pašticada",
+            "tip": "Geschmortes Rindfleisch mit Gnocchi, eine lokale Spezialität in der Konoba Feral."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Hagyományos, harang alatt sült hús vagy polip a Galinac étteremben."
+          },
+          {
+            "name": "Dalmát Pašticada",
+            "tip": "Párolt marhahús gnocchival, helyi különlegesség a Konoba Feralban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Carne sau caracatiță gătită tradițional sub un capac de fier la restaurantul Galinac."
+          },
+          {
+            "name": "Pašticada dalmată",
+            "tip": "Vită scăzută cu gnocchi, o specialitate locală la Konoba Feral."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "Traditional meat or octopus cooked under a bell at Galinac Restaurant."
+          },
+          {
+            "name": "Dalmatian Pašticada",
+            "tip": "Braised beef with gnocchi, a local specialty at Konoba Feral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vruja-Aussichtspunkt",
+            "tip": "Panoramablick auf die Bucht von oben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pinienwald am Strand Berulija",
+            "tip": "Ruhiger Schattenplatz abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vruja kilátópont",
+            "tip": "Panorámás kilátás az öbölre felülről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fenyőerdő a Berulija strandon",
+            "tip": "Csendes, árnyékos hely a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Vruja",
+            "tip": "Vedere panoramică asupra golfului de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de pini de la plaja Berulija",
+            "tip": "Loc umbrit și liniștit, departe de aglomerație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vruja Viewpoint",
+            "tip": "Panoramic view of the bay from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pine forest at Berulija Beach",
+            "tip": "Quiet shaded spot away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokal hergestelltes Olivenöl",
+            "tip": "Kaufen Sie direkt bei den Bauern in den oberen Ortsteilen."
+          },
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Ein duftendes Souvenir von den Marktständen am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőktől a felső falurészekben."
+          },
+          {
+            "name": "Levendulazsákok",
+            "tip": "Illatos emléktárgy a kikötői árusoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producători în părțile de sus ale satului."
+          },
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Un suvenir parfumat de la tarabele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locally produced olive oil",
+            "tip": "Buy directly from farmers in the upper parts of the village."
+          },
+          {
+            "name": "Lavender sachets",
+            "tip": "A fragrant souvenir from the market stalls at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Promenade.",
+          "Besuchen Sie Punta Rata früh am Morgen, um den Massen zu entgehen.",
+          "Nutzen Sie die Schattenplätze unter den Pinien.",
+          "Bringen Sie Badeschuhe für die Kieselstrände mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a sétányhoz.",
+          "Látogasson el korán a Punta Rata strandra a tömeg elkerülése végett.",
+          "Használja ki a fenyőfák nyújtotta árnyékot.",
+          "Hozzon úszócipőt a kavicsos strandokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru promenadă.",
+          "Vizitați plaja Punta Rata dimineața devreme pentru a evita aglomerația.",
+          "Profități de locurile umbrite sub pini.",
+          "Aduceți încălțăminte de apă pentru plajele cu pietriș."
+        ],
+        "en": [
+          "Wear comfortable shoes for the promenade.",
+          "Visit Punta Rata early in the morning to avoid the crowds.",
+          "Make use of the shaded areas under the pine trees.",
+          "Bring water shoes for the pebble beaches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade von Brela",
+            "hu": "Brela tengerparti sétánya",
+            "ro": "Promenada din Brela",
+            "en": "Brela Seaside Promenade"
+          },
+          "coords": [
+            16.93,
+            43.364
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf Fußgänger Rücksicht nehmend.",
+            "hu": "Óvatosan biciklizzen, tekintettel a gyalogosokra.",
+            "ro": "Circulați cu atenție, respectând pietonii.",
+            "en": "Ride carefully, showing consideration for pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Stein von Brela",
+            "hu": "Brela-szikla",
+            "ro": "Piatra din Brela",
+            "en": "Brela Stone"
+          },
+          "coords": [
+            16.9213,
+            43.3615
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp am berühmtesten Felsen der Makarska Riviera.",
+            "hu": "Rövid fotómegálló a Makarskai Riviéra leghíresebb sziklájánál.",
+            "ro": "Scurt popas pentru fotografii la cea mai celebră stâncă de pe Riviera Makarska.",
+            "en": "Short photo stop at the most famous rock of the Makarska Riviera."
+          }
+        },
+        {
+          "name": {
+            "de": "Vruja-Bucht",
+            "hu": "Vruja-öböl",
+            "ro": "Golful Vruja",
+            "en": "Vruja Bay"
+          },
+          "coords": [
+            16.883,
+            43.398
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakulären Unterwasserquellen in dieser Bucht.",
+            "hu": "Fedezze fel az öböl látványos víz alatti forrásait.",
+            "ro": "Experimentați izvoarele subacvatice spectaculoase din acest golf.",
+            "en": "Experience the spectacular underwater springs in this bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Hl. Elias",
+            "hu": "Szent Illés-kápolna",
+            "ro": "Capela Sfântul Ilie",
+            "en": "Chapel of St. Elias"
+          },
+          "coords": [
+            16.95,
+            43.38
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein anstrengender Anstieg, der mit herrlicher Aussicht belohnt wird.",
+            "hu": "Meredek emelkedő, amelyet csodálatos kilátás jutalmaz.",
+            "ro": "O urcare solicitantă, răsplătită cu o priveliște superbă.",
+            "en": "A demanding climb rewarded with magnificent views."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Punta Rata",
+            "hu": "Punta Rata strand",
+            "ro": "Plaja Punta Rata",
+            "en": "Punta Rata Beach"
+          },
+          "coords": [
+            16.9216,
+            43.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung nach der Radtour.",
+            "hu": "Megérdemelt hűsölés a biciklitúra után.",
+            "ro": "Răcorire binemeritată după tura cu bicicleta.",
+            "en": "Well-deserved cool down after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der ebenen Uferpromenade von Brela, wo Sie die frische Meeresluft genießen können. Ein erster Stopp am Stein von Brela bietet das perfekte Motiv für den Morgen.\n\nAnschließend führt der Weg nach Norden zur beeindruckenden Vruja-Bucht. Hier treffen steile Felswände auf das Meer, und Unterwasserquellen sorgen für kühles, kristallklares Wasser.\n\nDer anspruchsvollste Teil folgt am frühen Nachmittag mit der Fahrt hinauf zur Kapelle des Hl. Elias. Von hier oben haben Sie einen atemberaubenden Blick über die gesamte Riviera und die vorgelagerten Inseln.\n\nZurück an der Küste können Sie am Strand Punta Rata entspannen. Das Radfahren direkt am Meer bei Sonnenuntergang ist der ideale Abschluss für diesen aktiven Tag.",
+        "hu": "Kezdje a biciklitúrát Brela sík tengerparti sétányán, ahol élvezheti a friss tengeri levegőt. Az első megálló a Brela-sziklánál tökéletes motívumot kínál a reggelihez.\n\nEzt követően az út északra, a lenyűgöző Vruja-öbölhöz vezet. Itt meredek sziklafalak találkoznak a tengerrel, a víz alatti források pedig hűvös, kristálytiszta vizet biztosítanak.\n\nA legnagyobb kihívást jelentő rész kora délután következik a Szent Illés-kápolnához vezető emelkedővel. Innen fentről lélegzetelállító kilátás nyílik az egész riviérára és a szemközti szigetekre.\n\nVisszatérve a partra, a Punta Rata strandon pihenhet meg. A közvetlenül a tengerparton, naplementekor történő biciklizés ideális lezárása ennek az aktív napnak.",
+        "ro": "Începeți tura cu bicicleta pe promenada plană din Brela, unde vă puteți bucura de aerul proaspăt de mare. O primă oprire la Piatra din Brela oferă motivul perfect pentru dimineață.\n\nUlterior, drumul duce spre nord către impresionantul golf Vruja. Aici, pereții stâncoși abrupți întâlnesc marea, iar izvoarele subacvatice asigură o apă rece și cristalină.\n\nCea mai solicitantă parte urmează după-amiaza devreme, cu urcarea spre Capela Sfântul Ilie. De aici de sus, aveți o vedere uluitoare peste întreaga Rivieră și insulele din larg.\n\nÎnapoi pe coastă, vă puteți relaxa pe plaja Punta Rata. Mersul cu bicicleta chiar pe malul mării la apus este încheierea ideală pentru această zi activă.",
+        "en": "Start your bike tour on the flat seaside promenade of Brela, where you can enjoy the fresh sea air. A first stop at the Brela Stone provides the perfect morning photo opportunity.\n\nAfterwards, the route leads north to the impressive Vruja Bay. Here, steep cliffs meet the sea, and underwater springs ensure cool, crystal-clear water.\n\nThe most challenging part follows in the early afternoon with the ride up to the Chapel of St. Elias. From up here, you have a breathtaking view over the entire Riviera and the offshore islands.\n\nBack on the coast, you can relax at Punta Rata beach. Cycling right by the sea at sunset is the ideal end to this active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto",
+            "tip": "Tintenfisch-Risotto, ideal als leichtes Mittagessen in der Konoba Ivandića Dvori."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó",
+            "tip": "Tintahalas rizottó, ideális könnyű ebéd a Konoba Ivandića Dvori-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru",
+            "tip": "Risotto cu cerneală de sepie, ideal pentru un prânz ușor la Konoba Ivandića Dvori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto",
+            "tip": "Cuttlefish risotto, ideal for a light lunch at Konoba Ivandića Dvori."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle des Hl. Elias",
+            "tip": "Stille und Weite hoch über der Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Illés-kápolna",
+            "tip": "Csend és tágas tér magasan a part felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântul Ilie",
+            "tip": "Liniște și spațiu deschis sus deasupra coastei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel of St. Elias",
+            "tip": "Silence and vastness high above the coast.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Biokovo",
+            "tip": "Würziger Gebirgshonig, direkt am Wegrand erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biokovo méz",
+            "tip": "Fűszeres hegyi méz, közvetlenül az út mentén kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere din Biokovo",
+            "tip": "Miere de munte aromată, disponibilă direct la marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biokovo Honey",
+            "tip": "Flavorful mountain honey, available directly by the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Berg.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg mit.",
+          "Ein E-Bike ist für die Kapelle des Hl. Elias empfehlenswert.",
+          "Nutzen Sie die Radwege abseits der Hauptstraße."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a hegyről való leereszkedés előtt.",
+          "Vigyen magával elegendő vizet az emelkedőhöz.",
+          "A Szent Illés-kápolnához e-bike ajánlott.",
+          "Használja a főúttól távolabb eső kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de pe munte.",
+          "Luați suficientă apă pentru urcare.",
+          "O bicicletă electrică este recomandată pentru Capela Sfântul Ilie.",
+          "Folosiți pistele de biciclete departe de drumul principal."
+        ],
+        "en": [
+          "Check your brakes before descending from the mountain.",
+          "Take plenty of water for the climb.",
+          "An e-bike is recommended for the Chapel of St. Elias.",
+          "Use the bike paths away from the main road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Stephan",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            16.933,
+            43.366
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplätze sind in der Nähe der Kirche begrenzt vorhanden.",
+            "hu": "A templom közelében korlátozott számban állnak rendelkezésre parkolóhelyek.",
+            "ro": "Locurile de parcare sunt limitate în apropierea bisericii.",
+            "en": "Parking spaces are limited near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Vruja-Bucht",
+            "hu": "Vruja-öböl",
+            "ro": "Golful Vruja",
+            "en": "Vruja Bay"
+          },
+          "coords": [
+            16.883,
+            43.398
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Vom Parkplatz an der Hauptstraße hat man den besten Panoramablick.",
+            "hu": "A főút melletti parkolóból nyílik a legjobb panorámás kilátás.",
+            "ro": "De la parcarea de pe drumul principal aveți cea mai bună vedere panoramică.",
+            "en": "The best panoramic view is from the parking area on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Hl. Elias",
+            "hu": "Szent Illés-kápolna",
+            "ro": "Capela Sfântul Ilie",
+            "en": "Chapel of St. Elias"
+          },
+          "coords": [
+            16.95,
+            43.38
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die Anfahrt erfolgt über eine schmale, steile Bergstraße.",
+            "hu": "A megközelítés szűk, meredek hegyi úton történik.",
+            "ro": "Accesul se face pe un drum de munte îngust și abrupt.",
+            "en": "The approach is via a narrow, steep mountain road."
+          }
+        },
+        {
+          "name": {
+            "de": "Stein von Brela",
+            "hu": "Brela-szikla",
+            "ro": "Piatra din Brela",
+            "en": "Brela Stone"
+          },
+          "coords": [
+            16.9213,
+            43.3615
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie in den kostenpflichtigen Zonen am Hafen.",
+            "hu": "Parkoljon a kikötő fizetős zónáiban.",
+            "ro": "Parcați în zonele cu plată de lângă port.",
+            "en": "Park in the paid zones near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Punta Rata",
+            "hu": "Punta Rata strand",
+            "ro": "Plaja Punta Rata",
+            "en": "Punta Rata Beach"
+          },
+          "coords": [
+            16.9216,
+            43.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen langen Badeaufenthalt.",
+            "hu": "Ideális hely egy hosszú fürdőzéshez.",
+            "ro": "Un loc ideal pentru o ședere lungă la scăldat.",
+            "en": "An ideal place for a long swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag bequem mit dem Auto an der St.-Stephans-Kirche, bevor Sie die Küstenstraße nach Norden zur Vruja-Bucht nehmen. Der Ausblick vom Parkplatz oben an der Straße ist unvergleichlich.\n\nFahren Sie danach hinauf in die Bergwelt des Biokovo zur Kapelle des Hl. Elias. Die kurvenreiche Strecke bietet spektakuläre Ausblicke auf das Adriatische Meer und das Inselarchipel.\n\nAm Mittag kehren Sie an die Küste zurück, um den Stein von Brela zu bewundern. Da das Parken im Zentrum schwierig sein kann, nutzen Sie am besten die markierten Parkplätze in Hafennähe.\n\nVerbringen Sie den Rest des Tages am Strand Punta Rata. Mit dem Auto sind Sie flexibel und können den Tag entspannt ausklingen lassen, ohne auf Fahrpläne achten zu müssen.",
+        "hu": "Kezdje a napot kényelmesen autóval a Szent István-templomnál, mielőtt elindulna észak felé a tengerparti úton a Vruja-öbölhöz. Az út menti parkolóból nyíló kilátás párját ritkítja.\n\nEzután hajtson fel a Biokovo hegyvilágába a Szent Illés-kápolnához. A kanyargós út látványos kilátást nyújt az Adriai-tengerre és a szigetvilágra.\n\nDélben térjen vissza a partra, hogy megcsodálja a Brela-sziklát. Mivel a központban nehézkes lehet a parkolás, érdemes a kikötő közeli kijelölt helyeket igénybe venni.\n\nA nap hátralévő részét töltse a Punta Rata strandon. Autóval rugalmas maradhat, és nyugodtan zárhatja a napot anélkül, hogy a menetrendekhez kellene igazodnia.",
+        "ro": "Începeți ziua confortabil cu mașina la Biserica Sfântul Ștefan, înainte de a porni spre nord pe drumul de coastă către golful Vruja. Priveliștea de la parcarea de sus, de lângă drum, este inegalabilă.\n\nConduceți apoi spre munții Biokovo către Capela Sfântul Ilie. Traseul șerpuitor oferă vederi spectaculoase asupra Mării Adriatice și a arhipelagului de insule.\n\nLa prânz, reveniți pe coastă pentru a admira Piatra din Brela. Deoarece parcarea în centru poate fi dificilă, cel mai bine este să folosiți parcările marcate din apropierea portului.\n\nPetreceți restul zilei pe plaja Punta Rata. Cu mașina sunteți flexibil și puteți încheia ziua relaxat, fără a fi nevoie să urmăriți programele de transport.",
+        "en": "Start your day comfortably by car at St. Stephen's Church before taking the coastal road north to Vruja Bay. The view from the parking area above the road is unparalleled.\n\nThen drive up into the Biokovo mountains to the Chapel of St. Elias. The winding route offers spectacular views of the Adriatic Sea and the archipelago of islands.\n\nAt noon, return to the coast to admire the Brela Stone. As parking in the center can be difficult, it is best to use the marked parking spaces near the harbor.\n\nSpend the rest of the day at Punta Rata beach. With a car, you are flexible and can end the day in a relaxed manner without having to worry about schedules."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Wolfsbarsch oder Goldbrasse vom Grill im Restaurant Punta Rata."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Grillezett tengeri süllő vagy aranydurbincs a Punta Rata étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Biban de mare sau doradă la grătar la restaurantul Punta Rata."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Grilled sea bass or sea bream at Punta Rata Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberes Brela (Gornja Brela)",
+            "tip": "Ruhiges Hinterland mit traditioneller Architektur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornja Brela (Felső-Brela)",
+            "tip": "Csendes hátország hagyományos építészettel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brela de Sus (Gornja Brela)",
+            "tip": "Hinterland liniștit cu arhitectură tradițională.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Brela (Gornja Brela)",
+            "tip": "Quiet hinterland with traditional architecture.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalmatinischer Schinken (Pršut)",
+            "tip": "Direkt bei lokalen Erzeugern im Hinterland kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát sonka (Pršut)",
+            "tip": "Vásároljon közvetlenül a hátországi kistermelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă dalmată (Pršut)",
+            "tip": "Cumpărați direct de la producătorii locali din interiorul țării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Ham (Pršut)",
+            "tip": "Buy directly from local producers in the hinterland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die teuren Parkgebühren in Strandnähe.",
+          "Die Bergstraße erfordert volle Konzentration.",
+          "Tanken Sie im benachbarten Baška Voda.",
+          "Fahren Sie auf der Küstenstraße vorsichtig bei Wind (Bura)."
+        ],
+        "hu": [
+          "Ügyeljen a strand közeli magas parkolási díjakra.",
+          "A hegyi út teljes koncentrációt igényel.",
+          "Tankoljon a szomszédos Baška Vodában.",
+          "Szél (Bura) esetén vezessen óvatosan a tengerparti úton."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare scumpe din apropierea plajei.",
+          "Drumul de munte necesită concentrare maximă.",
+          "Alimentați în localitatea vecină Baška Voda.",
+          "Conduceți cu atenție pe drumul de coastă în caz de vânt (Bura)."
+        ],
+        "en": [
+          "Watch out for expensive parking fees near the beach.",
+          "The mountain road requires full concentration.",
+          "Refuel in neighboring Baška Voda.",
+          "Drive carefully on the coastal road during wind (Bura)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Stephan",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            16.933,
+            43.366
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt an der Magistrale oberhalb des Ortes.",
+            "hu": "A buszmegálló a település feletti főúton található.",
+            "ro": "Stația de autobuz este pe magistrală, deasupra localității.",
+            "en": "The bus stop is on the main road above the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+            "hu": "Kármelhegyi Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+            "en": "Church of Our Lady of Mount Carmel"
+          },
+          "coords": [
+            16.9315,
+            43.365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg verbindet die Bushaltestelle mit dem Zentrum.",
+            "hu": "Rövid séta köti össze a buszmegállót a központtal.",
+            "ro": "O scurtă plimbare leagă stația de autobuz de centru.",
+            "en": "A short walk connects the bus stop to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Brela",
+            "hu": "Brela tengerparti sétánya",
+            "ro": "Promenada din Brela",
+            "en": "Brela Seaside Promenade"
+          },
+          "coords": [
+            16.93,
+            43.364
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Weg nach unten zum Meer.",
+            "hu": "Használja a tengerhez levezető utat.",
+            "ro": "Folosiți drumul care coboară spre mare.",
+            "en": "Use the path leading down to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Stein von Brela",
+            "hu": "Brela-szikla",
+            "ro": "Piatra din Brela",
+            "en": "Brela Stone"
+          },
+          "coords": [
+            16.9213,
+            43.3615
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entlang der Küste gelangt man zu Fuß zu diesem Wahrzeichen.",
+            "hu": "A part mentén gyalogosan juthat el ehhez a jelképhez.",
+            "ro": "De-a lungul coastei puteți ajunge pe jos la acest simbol.",
+            "en": "You can reach this landmark on foot along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Punta Rata",
+            "hu": "Punta Rata strand",
+            "ro": "Plaja Punta Rata",
+            "en": "Punta Rata Beach"
+          },
+          "coords": [
+            16.9216,
+            43.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die Abfahrtszeiten der Busse für den Rückweg.",
+            "hu": "Ügyeljen a buszok indulási idejére a visszautazáshoz.",
+            "ro": "Atenție la orele de plecare ale autobuzelor pentru drumul de întoarcere.",
+            "en": "Check the bus departure times for your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Bushaltestelle oberhalb von Brela und besuchen Sie zuerst die St.-Stephans-Kirche. Der Weg hinunter ins Dorf führt Sie direkt zur Kirche Unserer Lieben Frau vom Berge Karmel.\n\nDer Vormittag lässt sich wunderbar an der Uferpromenade verbringen. Da Brela kompakt ist, sind die wichtigsten Sehenswürdigkeiten gut zu Fuß von den Bushaltestellen erreichbar.\n\nEin gemütlicher Spaziergang führt Sie zum Stein von Brela und dem angrenzenden Strand Punta Rata. Hier können Sie den Mittag verbringen und das klare Wasser genießen.\n\nFür den Rückweg sollten Sie den Aufstieg zur Hauptstraße einplanen, wo die regionalen Busse Richtung Split oder Makarska verkehren. Genießen Sie dabei noch einmal den Blick von oben auf den Ort.",
+        "hu": "Kezdje a napot a Brela feletti buszmegállónál, és látogasson el először a Szent István-templomhoz. A faluba levezető út közvetlenül a Kármelhegyi Boldogasszony-templomhoz viszi Önt.\n\nA délelőttöt kellemesen töltheti a tengerparti sétányon. Mivel Brela kompakt, a legfontosabb látnivalók gyalogosan is jól elérhetőek a buszmegállóktól.\n\nEgy kényelmes séta elvezeti a Brela-sziklához és a szomszédos Punta Rata strandhoz. Itt töltheti a délutánt és élvezheti a tiszta vizet.\n\nA visszautazáshoz számoljon a főúthoz való feljutással, ahol a Split vagy Makarska irányába közlekedő regionális buszok megállnak. Útközben élvezze még egyszer a településre nyíló fenti kilátást.",
+        "ro": "Începeți ziua la stația de autobuz de deasupra localității Brela și vizitați mai întâi Biserica Sfântul Ștefan. Drumul care coboară în sat vă duce direct la biserica Maica Domnului de pe Muntele Carmel.\n\nDimineața poate fi petrecută minunat pe promenada de pe faleză. Deoarece Brela este compactă, principalele atracții sunt ușor accesibile pe jos de la stațiile de autobuz.\n\nO plimbare relaxantă vă duce la Piatra din Brela și la plaja adiacentă Punta Rata. Aici puteți petrece prânzul și vă puteți bucura de apa limpede.\n\nPentru drumul de întoarcere, trebuie să planificați urcarea spre drumul principal, unde circulă autobuzele regionale spre Split sau Makarska. Bucurați-vă încă o dată de vederea de sus asupra localității.",
+        "en": "Start your day at the bus stop above Brela and first visit St. Stephen's Church. The path down to the village leads you directly to the Church of Our Lady of Mount Carmel.\n\nThe morning can be spent wonderfully on the seaside promenade. Since Brela is compact, the main sights are easily accessible on foot from the bus stops.\n\nA leisurely walk leads you to the Brela Stone and the adjacent Punta Rata beach. Here you can spend the afternoon and enjoy the clear water.\n\nFor the return journey, you should plan the climb back to the main road, where regional buses run towards Split or Makarska. Enjoy the view of the village from above once more."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscreme",
+            "tip": "Hausgemachtes Eis in der Café-Bar Roma an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt",
+            "tip": "Házias fagylalt a Roma kávézóban a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată",
+            "tip": "Înghețată de casă la Café-Bar Roma de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream",
+            "tip": "Homemade ice cream at Café-Bar Roma on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle des Hl. Stephan",
+            "tip": "Ruhiger Platz am Morgen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent István-kápolna",
+            "tip": "Csendes hely reggelente.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântul Ștefan",
+            "tip": "Un loc liniștit dimineața.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel of St. Stephen",
+            "tip": "Quiet place in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Kaufen Sie eine Flasche Plavac Mali im kleinen Supermarkt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon egy üveg Plavac Malit a központban lévő kis boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați o sticlă de Plavac Mali de la micul supermarket din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Buy a bottle of Plavac Mali at the small supermarket in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Behalten Sie den Fahrplan der Fernbusse im Blick.",
+          "Tickets können oft direkt beim Fahrer gekauft werden.",
+          "Wandern Sie vom Strand aus frühzeitig zurück zur Haltestelle.",
+          "An Wochenenden können die Busse voll sein."
+        ],
+        "hu": [
+          "Tartsa szem előtt a távolsági buszok menetrendjét.",
+          "A jegyeket gyakran közvetlenül a sofőrnél lehet megvásárolni.",
+          "Időben induljon vissza a strandról a megállóhoz.",
+          "Hétvégén a buszok zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Urmăriți orarul autobuzelor de cursă lungă.",
+          "Biletele pot fi cumpărate adesea direct de la șofer.",
+          "Porniți din timp de la plajă înapoi spre stație.",
+          "În weekend, autobuzele pot fi aglomerate."
+        ],
+        "en": [
+          "Keep an eye on the long-distance bus schedule.",
+          "Tickets can often be purchased directly from the driver.",
+          "Hike back to the bus stop from the beach in good time.",
+          "Buses can be crowded on weekends."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-17",
+    "coords": [
+      16.9258,
+      43.3636
+    ],
+    "transit_official": {
+      "name": "Arriva Croatia (Makarska–Brela line)",
+      "url": "https://www.arriva.com.hr/",
+      "verified": 200
+    },
+    "transit_app": {
+      "name": "Promet Makarska (regional buses)",
+      "url": "https://promet-makarska.hr/",
+      "verified": 200
+    },
+    "bike_share": null,
+    "city_card": null,
+    "events": {
+      "name": "Ulaznice.hr",
+      "url": "https://www.ulaznice.hr/",
+      "verified": 200
+    },
+    "tourism_office": {
+      "name": "Općina Brela (official municipal site)",
+      "url": "https://www.brela.hr/",
+      "verified": 200,
+      "alt": "https://www.makarska-info.hr/"
+    },
+    "webcam": {
+      "name": "Makarska Riviera webcams (Brela views)",
+      "url": "https://www.makarska-riviera.com/",
+      "verified": 200
+    },
+    "restaurants_booking": {
+      "name": "Google Maps (Brela restaurants)",
+      "url": "https://www.google.com/maps/search/restaurants+Brela",
+      "verified": 200
+    },
+    "museum_tickets": null,
+    "parking_real_time": {
+      "name": "HAK traffic info",
+      "url": "https://www.hak.hr/",
+      "verified": 200
+    },
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Punta Rata wird oft als 'einer der schönsten Strände Europas' beworben. 'Plaža' = Strand.",
+      "hu": "A horvát a hivatalos nyelv; a Punta Rata strandot gyakran 'Európa egyik legszebb strandjának' hirdetik. 'Plaža' = strand.",
+      "ro": "Croata este limba oficială; plaja Punta Rata este promovată drept 'una dintre cele mai frumoase plaje din Europa'. 'Plaža' = plajă.",
+      "en": "Croatian is official; Punta Rata is widely marketed as 'one of Europe's most beautiful beaches'. 'Plaža' = beach."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September für ruhige Strände; Juli/August Hochsaison mit voller Punta Rata ab 9 Uhr.",
+      "hu": "Június és szeptember csendes strandokért; július/augusztus főszezon, a Punta Rata 9 órától tele van.",
+      "ro": "Iunie și septembrie pentru plaje liniștite; iulie/august sezon de vârf, Punta Rata e plină de la ora 9.",
+      "en": "June and September for quiet beaches; July/August peak season with Punta Rata packed from 9 am."
+    },
+    "neighborhood_warnings": {
+      "de": "Steile Treppen vom Hauptort zum Strand; Parkplätze kostenpflichtig und schnell belegt; Steine am Strand können rutschig sein.",
+      "hu": "Meredek lépcsők vezetnek a faluból a strandra; parkolás fizetős és gyorsan megtelik; a parti kövek csúszósak lehetnek.",
+      "ro": "Scări abrupte de la sat la plajă; parcările sunt cu plată și se umplu rapid; pietrele de pe plajă pot fi alunecoase.",
+      "en": "Steep steps from village down to the beach; parking is paid and fills early; rocks on the beach can be slippery."
+    }
+  }
+}

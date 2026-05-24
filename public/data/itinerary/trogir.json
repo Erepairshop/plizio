@@ -1,0 +1,1187 @@
+{
+  "city_id": "trogir",
+  "anchor": {
+    "name": "Trogir Old Town",
+    "coords": [
+      43.5147,
+      16.2521
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 1.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Landtor",
+          "coords": [
+            43.5165,
+            16.2514
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Statue des Hl. Johannes, des Stadtschutzpatrons über dem Tor.",
+            "hu": "Figyelje meg a város védőszentje, Szent János szobrát a kapu felett.",
+            "ro": "Observați statuia Sfântului Ioan, patronul orașului, deasupra porții.",
+            "en": "Look for the statue of St. John, the city's patron saint, above the gate."
+          }
+        },
+        {
+          "name": "Stadtmuseum Trogir",
+          "coords": [
+            43.5162,
+            16.251
+          ],
+          "category": "museums",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im prächtigen Barockpalast Garagnin-Fanfogna.",
+            "hu": "A múzeum a gyönyörű barokk Garagnin-Fanfogna palotában található.",
+            "ro": "Muzeul se află în splendidul palat baroc Garagnin-Fanfogna.",
+            "en": "The museum is housed in the magnificent baroque Garagnin-Fanfogna Palace."
+          }
+        },
+        {
+          "name": "Cipiko-Palast",
+          "coords": [
+            43.5153,
+            16.2512
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:22",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Triforien an der Fassade dieses Adelspalastes.",
+            "hu": "Csodálja meg a nemesi palota homlokzatának gótikus trifóriumait.",
+            "ro": "Admirați triforiile gotice de pe fațada acestui palat nobiliar.",
+            "en": "Admire the Gothic triforia on the facade of this noble palace."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Laurentius",
+          "coords": [
+            43.5152,
+            16.2514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Radovan-Portal von 1240 ist ein Meisterwerk der dalmatinischen Bildhauerei.",
+            "hu": "Az 1240-es Radovan-kapu a dalmát szobrászat egyik legszebb mesterműve.",
+            "ro": "Portalul lui Radovan din 1240 este o capodoperă a sculpturii dalmate.",
+            "en": "Radovan's portal from 1240 is a masterpiece of Dalmatian sculpture."
+          }
+        },
+        {
+          "name": "Stadtloggia",
+          "coords": [
+            43.515,
+            16.2513
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einst der Gerichtshof der Stadt, heute ein schattiger Ruheplatz.",
+            "hu": "Egykor a város bírósága volt, ma árnyékos pihenőhely.",
+            "ro": "Odată tribunalul orașului, astăzi un loc umbros de odihnă.",
+            "en": "Once the city's courtroom, today it is a shaded resting spot."
+          }
+        },
+        {
+          "name": "Fürstenpalast",
+          "coords": [
+            43.5151,
+            16.2516
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im Innenhof finden Sie ein schönes Lapidarium und eine monumentale Treppe.",
+            "hu": "Az udvaron szép lapidáriumot és monumentális lépcsősort találunk.",
+            "ro": "În curte veți găsi un lapidariu frumos și o scară monumentală.",
+            "en": "In the courtyard you will find a beautiful lapidarium and a monumental staircase."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Dominikus",
+          "coords": [
+            43.5145,
+            16.2505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Kreuzgang für einen Moment der Stille abseits der Massen.",
+            "hu": "Látogasson el a kerengőbe egy kis nyugalomért a tömegtől távol.",
+            "ro": "Vizitați claustrul pentru un moment de liniște departe de mulțime.",
+            "en": "Visit the cloister for a moment of quiet away from the crowds."
+          }
+        },
+        {
+          "name": "Festung Kamerlengo",
+          "coords": [
+            43.5152,
+            16.2478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für den besten Blick auf die Stadt und das Meer.",
+            "hu": "Másszon fel a toronyba a városra és a tengerre nyíló legjobb kilátásért.",
+            "ro": "Urcați în turn pentru cea mai bună vedere asupra orașului și a mării.",
+            "en": "Climb the tower for the best view of the city and the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens betreten wir die Stadt durch das Nordtor und bestaunen das Portal von Radovan an der Kathedrale. Mittags schlendern wir über den Hauptplatz mit der Loggia und dem Rektorenpalast, bevor wir an der Riva frischen Fisch genießen. Nachmittags erkunden wir die Festung Kamerlengo für den besten Panoramablick. Abends lassen wir den Tag in den schmalen Gassen bei einem Glas Wein ausklingen.",
+        "hu": "Reggel az Északi kapun át lépünk be a világörökségi óvárosba, megcsodálva a székesegyház Radovan-kapuját. Délben a főtéren pihenünk a Loggia és a városháza tövében, majd a pálmafás tengerparti sétányon ebédelünk. Délután a Kamerlengo-erőd bástyáiról élvezzük a panorámát. Este az ódon sikátorok mélyén, egy pohár helyi bor mellett fejezzük be a napot a középkori díszletek között.",
+        "ro": "Dimineața intrăm în oraș prin Poarta de Nord și admirăm portalul lui Radovan de la Catedrală. La prânz explorăm piața centrală cu Loggia și Palatul Rectorului, apoi luăm masa pe faleza Riva sub palmieri. După-amiaza urcăm pe zidurile Cetății Kamerlengo pentru o vedere panoramică asupra Adriaticii. Seara ne pierdem pe străduțele înguste, savurând atmosfera medievală și un pahar de vin local.",
+        "en": "Morning begins at the Land Gate, followed by a visit to the Cathedral and its famous portal. At midday, we explore the main square's Loggia and palaces, then enjoy a seafood lunch on the palm-lined Riva. In the afternoon, we climb the Kamerlengo Fortress for stunning views of the Adriatic. Evening is perfect for wandering through stone alleys and enjoying the romantic atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trogirski Ravioli",
+            "tip": "Süße Teigtaschen mit Nussfüllung, eine lokale Spezialität."
+          },
+          {
+            "name": "Konoba Tragos",
+            "tip": "Probieren Sie hier die authentische Dalmatinische Pašticada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trogiri ravioli",
+            "tip": "Dióval töltött édes tészta, a város leghíresebb édessége."
+          },
+          {
+            "name": "Konoba Tragos",
+            "tip": "Kóstolja meg itt az autentikus dalmát marhasültet (pašticada)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ravioli de Trogir",
+            "tip": "Paste dulci umplute cu nucă, o specialitate locală celebră."
+          },
+          {
+            "name": "Konoba Tragos",
+            "tip": "Încercați aici autentica Pašticada dalmată de vită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trogir Ravioli",
+            "tip": "Sweet pastry filled with walnuts, the town's signature dessert."
+          },
+          {
+            "name": "Konoba Tragos",
+            "tip": "Try the authentic Dalmatian Pašticada (beef stew) here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Benediktinerkloster",
+            "tip": "Ein ruhiger Rückzugsort hinter dicken Mauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Fortin",
+            "tip": "Kleiner Park am Nordtor für eine Pause im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bencés kolostor",
+            "tip": "Csendes menedék a vastag falak mögött az óváros szélén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fortin park",
+            "tip": "Kis park az Északi kapunál egy árnyékos pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Benedictină",
+            "tip": "Un refugiu liniștit în spatele zidurilor groase.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Fortin",
+            "tip": "Un mic parc la Poarta de Nord pentru o pauză la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benedictine Monastery",
+            "tip": "A quiet retreat behind thick walls at the edge of town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fortin Park",
+            "tip": "Small park by the Land Gate for a break in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grüner Markt",
+            "tip": "Frisches Obst und Olivenöl direkt vor der Brücke."
+          },
+          {
+            "name": "Korallenschmuck",
+            "tip": "In den Gassen finden Sie handgefertigte Stücke aus Adria-Korallen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöldségpiac",
+            "tip": "Friss gyümölcs és olívaolaj közvetlenül a híd előtt."
+          },
+          {
+            "name": "Korall ékszerek",
+            "tip": "A sikátorokban kézzel készült adriai korall ékszereket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Verde",
+            "tip": "Fructe proaspete și ulei de măsline chiar înainte de pod."
+          },
+          {
+            "name": "Bijuterii din corali",
+            "tip": "În alei găsiți piese lucrate manual din corali adriatici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Market",
+            "tip": "Fresh fruit and olive oil located just before the bridge."
+          },
+          {
+            "name": "Coral Jewelry",
+            "tip": "Find handmade Adriatic coral pieces in the narrow alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das mittelalterliche Kopfsteinpflaster.",
+          "Besuchen Sie die Kathedrale früh am Morgen, um die Massen zu vermeiden.",
+          "Die gesamte Altstadt ist autofrei und ideal zu Fuß zu erkunden.",
+          "Verpassen Sie nicht die Wachablösung am Hauptplatz in der Hochsaison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a középkori macskaköves utcákhoz.",
+          "Látogassa meg a székesegyházat kora reggel a tömeg elkerülése érdekében.",
+          "Az egész óváros autómentes, így gyalogosan a legkönnyebb felfedezni.",
+          "Főszezonban ne hagyja ki az őrségváltást a főtéren."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile medievale cu piatră cubică.",
+          "Vizitați catedrala dimineața devreme pentru a evita aglomerația.",
+          "Întreaga zonă veche este pietonală, ideală pentru explorat la pas.",
+          "Nu ratați schimbarea gărzii în piața centrală în timpul sezonului de vârf."
+        ],
+        "en": [
+          "Wear comfortable shoes for the medieval cobblestone streets.",
+          "Visit the cathedral early in the morning to avoid the crowds.",
+          "The entire old town is car-free and best explored on foot.",
+          "Don't miss the changing of the guard in the main square during peak season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Landtor",
+          "coords": [
+            43.5165,
+            16.2514
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier und schieben Sie Ihr Rad durch die engen Gassen.",
+            "hu": "Induljon innen, de a szűk utcákon tolja a kerékpárt.",
+            "ro": "Începeți aici, dar mergeți pe lângă bicicletă în aleile înguste.",
+            "en": "Start here and push your bike through the narrow alleys."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Laurentius",
+          "coords": [
+            43.5152,
+            16.2514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Hauptplatz sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit a főtéren.",
+            "ro": "Parcați bicicleta în siguranță în piața centrală.",
+            "en": "Park your bike securely in the main square."
+          }
+        },
+        {
+          "name": "Festung Kamerlengo",
+          "coords": [
+            43.5152,
+            16.2478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Promenade am Meer ist perfekt zum Radfahren geeignet.",
+            "hu": "A tengerparti sétány kiválóan alkalmas kerékpározásra.",
+            "ro": "Promenada de pe malul mării este perfectă pentru ciclism.",
+            "en": "The waterfront promenade is perfect for cycling."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Dominikus",
+          "coords": [
+            43.5145,
+            16.2505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp in der Altstadt, bevor es über die Brücke geht.",
+            "hu": "Utolsó óvárosi megálló a híd előtt.",
+            "ro": "Ultima oprire în orașul vechi înainte de a trece podul.",
+            "en": "Last old town stop before crossing the bridge."
+          }
+        },
+        {
+          "name": "Strand Okrug Gornji",
+          "coords": [
+            43.5015,
+            16.2625
+          ],
+          "category": "landmarks",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die 'Copacabana' von Trogir auf der Insel Ciovo.",
+            "hu": "Élvezze Trogir 'Copacabanáját' a Čiovo-szigeten.",
+            "ro": "Bucurați-vă de 'Copacabana' din Trogir pe insula Ciovo.",
+            "en": "Enjoy the 'Copacabana' of Trogir on Ciovo island."
+          }
+        },
+        {
+          "name": "Marina Trogir",
+          "coords": [
+            43.5125,
+            16.2485
+          ],
+          "category": "port",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Luxusyachten mit Blick auf die Altstadt.",
+            "hu": "Figyelje a luxusjachtokat az óvárosra nyíló kilátással.",
+            "ro": "Observați iahturile de lux cu vedere spre orașul vechi.",
+            "en": "Watch the luxury yachts with a view of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten in der Altstadt und erkunden die historischen Schätze zu Fuß, bevor wir die Brücke zur Insel Ciovo überqueren. Die Radtour führt uns entlang der Küste zum beliebten Strand von Okrug Gornji. Nach einem erfrischenden Bad radeln wir zurück zur Marina, um den Blick auf die mittelalterliche Silhouette Trogirs bei einem kühlen Getränk zu genießen.",
+        "hu": "Az óvárosban kezdünk, ahol gyalog fedezzük fel a kincseket, majd átkerekezünk a Čiovo-szigetre vezető hídon. A part menti út Okrug Gornji népszerű strandjához vezet. Egy frissítő fürdőzés után a Marina felé vesszük az irányt, ahonnan remek kilátás nyílik Trogir középkori sziluettjére egy hűsítő ital mellett.",
+        "ro": "Începem în orașul vechi, explorând comorile istorice pe jos înainte de a traversa podul către insula Ciovo. Traseul cu bicicleta ne poartă de-a lungul coastei până la plaja populară din Okrug Gornji. După o baie revigorantă, pedalăm înapoi spre Marina pentru a admira silueta medievală a Trogirului la o băutură rece.",
+        "en": "We start in the old town, exploring historical treasures on foot before crossing the bridge to Ciovo island. The bike ride takes us along the coast to the popular beach of Okrug Gornji. After a refreshing swim, we head back to the Marina to enjoy the view of Trogir's medieval silhouette with a cool drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bura Line Beach Bar",
+            "tip": "Perfekt für einen schnellen Snack am Strand."
+          },
+          {
+            "name": "Kadena",
+            "tip": "Moderne Küche mit Blick auf den Jachthafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bura Line Beach Bar",
+            "tip": "Tökéletes egy gyors snackhez a strandon."
+          },
+          {
+            "name": "Kadena",
+            "tip": "Modern konyha kilátással a jachtkikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bura Line Beach Bar",
+            "tip": "Perfect pentru o gustare rapidă pe plajă."
+          },
+          {
+            "name": "Kadena",
+            "tip": "Bucătărie modernă cu vedere la portul de iahturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bura Line Beach Bar",
+            "tip": "Perfect for a quick snack at the beach."
+          },
+          {
+            "name": "Kadena",
+            "tip": "Modern cuisine with a view of the yacht marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küsteweg Ciovo",
+            "tip": "Ruhige Abschnitte entlang der Felsen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Marina Trogir",
+            "tip": "Entspannte Atmosphäre am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čiovo parti út",
+            "tip": "Csendes szakaszok a sziklák mentén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trogiri Marina",
+            "tip": "Nyugodt hangulat késő délután.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă Ciovo",
+            "tip": "Secțiuni liniștite de-a lungul stâncilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Marina Trogir",
+            "tip": "Atmosferă relaxată după-amiaza târziu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciovo Coastal Path",
+            "tip": "Quiet sections along the rocks.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trogir Marina",
+            "tip": "Relaxed atmosphere in the late afternoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "Hier finden Sie auch Radkarten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "Itt a régió kerékpáros térképeit is beszerezheti."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre de închirieri biciclete",
+            "tip": "Aici găsiți și hărți cicliste ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "You can also find cycling maps of the region here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Verkehr auf der Brücke nach Ciovo.",
+          "In der Altstadt ist das Radfahren offiziell nicht erlaubt, bitte schieben.",
+          "Nehmen Sie genügend Wasser für die Fahrt entlang der Insel mit.",
+          "Die Küstenstraße nach Okrug ist flach und einfach zu befahren."
+        ],
+        "hu": [
+          "Vigyázzon a forgalomra a Čiovo-szigetre vezető hídon.",
+          "Az óvárosban tilos biciklizni, ott kérjük, tolja a kerékpárt.",
+          "Vigyen magával elég vizet a szigeti tekeréshez.",
+          "Az Okrug felé vezető parti út sík és könnyen tekerhető."
+        ],
+        "ro": [
+          "Atenție la trafic pe podul către insula Ciovo.",
+          "Ciclismul nu este permis oficial în orașul vechi, vă rugăm să mergeți pe lângă bicicletă.",
+          "Luați suficientă apă pentru plimbarea de-a lungul insulei.",
+          "Drumul de coastă spre Okrug este plat și ușor de parcurs."
+        ],
+        "en": [
+          "Watch out for traffic on the bridge to Ciovo island.",
+          "Cycling is officially not allowed in the old town, please push your bike.",
+          "Take enough water for the ride along the island.",
+          "The coastal road to Okrug is flat and easy to ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Pantan Mühlen",
+          "coords": [
+            43.5285,
+            16.279
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Naturreservat mit alten Mühlen und Sumpfvögeln.",
+            "hu": "Látogasson el a régi malmokkal és vízimadarakkal teli természetvédelmi területre.",
+            "ro": "Vizitați această rezervație naturală cu mori vechi și păsări de mlaștină.",
+            "en": "Visit this nature reserve with old mills and marsh birds."
+          }
+        },
+        {
+          "name": "Stadtloggia",
+          "coords": [
+            43.515,
+            16.2513
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen öffentlichen Parkplatz nördlich der Stadt.",
+            "hu": "Parkoljon a várostól északra található nagy nyilvános parkolóban.",
+            "ro": "Parcați în marea parcare publică situată la nord de oraș.",
+            "en": "Park in the large public parking lot north of the city."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Laurentius",
+          "coords": [
+            43.5152,
+            16.2514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein absolutes Muss für Geschichtsliebhaber.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+            "en": "An absolute must for history lovers."
+          }
+        },
+        {
+          "name": "Festung Kamerlengo",
+          "coords": [
+            43.5152,
+            16.2478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Hafen.",
+            "hu": "Tökéletes helyszín a kikötő fotózásához.",
+            "ro": "Locul perfect pentru fotografii cu portul.",
+            "en": "Perfect spot for photos of the harbor."
+          }
+        },
+        {
+          "name": "Strand Medena",
+          "coords": [
+            43.5142,
+            16.2085
+          ],
+          "category": "landmarks",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Großer Kieselstrand mit viel Schatten und Sportmöglichkeiten.",
+            "hu": "Nagy kavicsos strand sok árnyékkal és sportolási lehetőséggel.",
+            "ro": "Plajă mare cu pietriș, multă umbră și facilități sportive.",
+            "en": "Large pebble beach with plenty of shade and sports facilities."
+          }
+        },
+        {
+          "name": "Kirche des Heiligen Sebastian",
+          "coords": [
+            43.5149,
+            16.2512
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Die Renaissance-Kirche mit dem markanten Uhrturm.",
+            "hu": "Reneszánsz templom jellegzetes óratoronnyal.",
+            "ro": "Biserică renascentistă cu turnul cu ceas distinctiv.",
+            "en": "Renaissance church with a distinctive clock tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Tour beginnt bei den idyllischen Pantan-Mühlen am Rande der Stadt. Danach fahren wir zum Zentrum von Trogir, parken bequem außerhalb und erkunden die UNESCO-geschützte Altstadt mit ihrer Kathedrale und der Festung Kamerlengo. Nach der Kulturfahrt entspannen wir am Strand Medena, bevor wir am späten Nachmittag für einen letzten Blick auf den Uhrturm zurückkehren.",
+        "hu": "Túránk az idilli Pantan-malmoknál kezdődik a város szélén. Ezután Trogir központjába hajtunk, kényelmesen leparkolunk kívül, és felfedezzük az UNESCO óvárost a székesegyházzal és a Kamerlengo-erőddel. A kulturális program után a Medena strandon pihenünk, majd késő délután visszatérünk egy utolsó pillantásra az óratoronyra.",
+        "ro": "Turul nostru începe la idilicele mori Pantan de la marginea orașului. Apoi conducem spre centrul Trogirului, parcăm confortabil în exterior și explorăm orașul vechi UNESCO cu catedrala și cetatea Kamerlengo. După turul cultural, ne relaxăm pe plaja Medena înainte de a reveni după-amiaza târziu pentru o ultimă privire asupra turnului cu ceas.",
+        "en": "Our tour begins at the idyllic Pantan mills on the outskirts. Then we drive to Trogir center, park conveniently outside, and explore the UNESCO old town with its cathedral and Kamerlengo fortress. After the cultural tour, we relax at Medena beach before returning in the late afternoon for a final look at the clock tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Pantan",
+            "tip": "Speisen Sie in historischem Ambiente direkt am Wasser."
+          },
+          {
+            "name": "Don Dino",
+            "tip": "Gehobene Fischküche im Herzen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Pantan",
+            "tip": "Vacsora történelmi környezetben, közvetlenül a víznél."
+          },
+          {
+            "name": "Don Dino",
+            "tip": "Színvonalas halkonyha az óváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Pantan",
+            "tip": "Luați masa într-un ambient istoric, chiar lângă apă."
+          },
+          {
+            "name": "Don Dino",
+            "tip": "Bucătărie rafinată cu pește în inima orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Pantan",
+            "tip": "Dine in a historical setting right by the water."
+          },
+          {
+            "name": "Don Dino",
+            "tip": "High-end seafood cuisine in the heart of the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pantan Reservat",
+            "tip": "Vogelbeobachtung in absoluter Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seget Vranjica",
+            "tip": "Ruhiger Küstenort nur wenige Minuten entfernt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pantan rezervátum",
+            "tip": "Madárles teljes csendben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seget Vranjica",
+            "tip": "Nyugodt tengerparti település pár percre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Pantan",
+            "tip": "Observarea păsărilor în liniște deplină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seget Vranjica",
+            "tip": "Sat de coastă liniștit la doar câteva minute distanță.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pantan Reserve",
+            "tip": "Birdwatching in absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seget Vranjica",
+            "tip": "Quiet coastal village just a few minutes away.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland/Plodine",
+            "tip": "Große Supermärkte für Vorräte an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland/Plodine",
+            "tip": "Nagy szupermarketek készletfeltöltéshez a főút mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland/Plodine",
+            "tip": "Supermarketuri mari pentru provizii pe drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland/Plodine",
+            "tip": "Large supermarkets for supplies along the main road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie es, mit dem Auto in die Altstadt zu fahren (nur für Anwohner).",
+          "Der Parkplatz Trogir Nord ist der größte und am einfachsten zu erreichen.",
+          "In der Hochsaison kann der Verkehr über die Brücke sehr zäh sein.",
+          "Parkgebühren können bequem per SMS oder App bezahlt werden."
+        ],
+        "hu": [
+          "Ne próbáljon autóval behajtani az óvárosba (csak lakóknak).",
+          "A Trogir Észak parkoló a legnagyobb és legkönnyebben megközelíthető.",
+          "Főszezonban a forgalom a hídon nagyon lassú lehet.",
+          "A parkolási díjat kényelmesen, SMS-ben vagy applikációval is fizetheti."
+        ],
+        "ro": [
+          "Evitați să intrați cu mașina în orașul vechi (permis doar rezidenților).",
+          "Parcarea Trogir Nord este cea mai mare și mai ușor de accesat.",
+          "În sezonul de vârf, traficul peste pod poate fi foarte lent.",
+          "Taxele de parcare pot fi plătite convenabil prin SMS sau aplicație."
+        ],
+        "en": [
+          "Avoid driving into the old town (residents only).",
+          "The Trogir North parking lot is the largest and easiest to access.",
+          "In peak season, traffic across the bridge can be very heavy.",
+          "Parking fees can be conveniently paid via SMS or app."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Busbahnhof Trogir",
+          "coords": [
+            43.5175,
+            16.2525
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für alle lokalen und regionalen Busse.",
+            "hu": "Központi csomópont minden helyi és távolsági buszhoz.",
+            "ro": "Nodul central pentru toate autobuzele locale și regionale.",
+            "en": "The central hub for all local and regional buses."
+          }
+        },
+        {
+          "name": "Landtor",
+          "coords": [
+            43.5165,
+            16.2514
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Busbahnhof entfernt.",
+            "hu": "Csak pár perc séta a buszállomástól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": "Kathedrale des Heiligen Laurentius",
+          "coords": [
+            43.5152,
+            16.2514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herzstück des UNESCO-Erbes.",
+            "hu": "Az UNESCO örökség szíve.",
+            "ro": "Inima patrimoniului UNESCO.",
+            "en": "The heart of the UNESCO heritage."
+          }
+        },
+        {
+          "name": "Benediktinerkloster des Heiligen Nikolaus",
+          "coords": [
+            43.5148,
+            16.2524
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie das berühmte Kairos-Relief aus dem 3. Jh. v. Chr.",
+            "hu": "Nézze meg a híres Kairosz-reliefet az i.e. 3. századból.",
+            "ro": "Vedeți faimosul relief Kairos din secolul al III-lea î.Hr.",
+            "en": "See the famous Kairos relief from the 3rd century BC."
+          }
+        },
+        {
+          "name": "Anlegestelle Bura Line",
+          "coords": [
+            43.5145,
+            16.2495
+          ],
+          "category": "port",
+          "arrive_at": "11:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Boot nach Slatine oder Split für eine Panoramafahrt.",
+            "hu": "Szálljon hajóra Slatine vagy Split felé egy panorámás útért.",
+            "ro": "Luați barca spre Slatine sau Split pentru o călătorie panoramică.",
+            "en": "Take the boat to Slatine or Split for a panoramic ride."
+          }
+        },
+        {
+          "name": "Slatine Strand",
+          "coords": [
+            43.4995,
+            16.3355
+          ],
+          "category": "landmarks",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein schöner Strand, der einfach mit der Fähre erreichbar ist.",
+            "hu": "Szép strand, amely könnyen elérhető a komppal.",
+            "ro": "O plajă frumoasă, ușor accesibilă cu feribotul.",
+            "en": "A beautiful beach easily accessible by ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das hervorragende öffentliche Verkehrsnetz und starten am Busbahnhof. Nach der Besichtigung der Kathedrale und des Nikolausklosters wechseln wir das Verkehrsmittel: Die Bura Line bringt uns auf dem Seeweg zum Strand von Slatine. Diese Kombination aus Bus und Boot bietet die entspannteste Art, Trogir und seine Umgebung ohne Parkplatzsorgen zu erleben.",
+        "hu": "A kiváló tömegközlekedést kihasználva a buszállomáson kezdünk. A székesegyház és a Szent Miklós-kolostor megtekintése után közlekedési módot váltunk: a Bura Line hajóval utazunk Slatine strandjára. A busz és a hajó kombinációja a legpihentetőbb módja Trogir és környéke felfedezésének, parkolási gondok nélkül.",
+        "ro": "Folosind rețeaua excelentă de transport public, începem la stația de autobuz. După vizitarea catedralei și a mănăstirii Sf. Nicolae, schimbăm mijlocul de transport: Bura Line ne duce pe mare la plaja din Slatine. Această combinație de autobuz și barcă oferă cel mai relaxant mod de a experimenta Trogirul și împrejurimile sale fără grija parcării.",
+        "en": "Taking advantage of the excellent public transport, we start at the bus station. After visiting the cathedral and St. Nicholas monastery, we switch modes: the Bura Line boat takes us to Slatine beach. This combination of bus and boat is the most relaxed way to experience Trogir and its surroundings without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocel",
+            "tip": "Hervorragende Meeresfrüchte direkt an der Bootsanlegestelle."
+          },
+          {
+            "name": "Pizzeria Galion",
+            "tip": "Beliebt bei Einheimischen und nah am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocel",
+            "tip": "Kiváló tengeri ételek közvetlenül a hajókikötőnél."
+          },
+          {
+            "name": "Pizzeria Galion",
+            "tip": "A helyiek kedvence, közel a buszállomáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocel",
+            "tip": "Fructe de mare excelente chiar lângă debarcader."
+          },
+          {
+            "name": "Pizzeria Galion",
+            "tip": "Populară printre localnici și aproape de stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocel",
+            "tip": "Excellent seafood right by the boat pier."
+          },
+          {
+            "name": "Pizzeria Galion",
+            "tip": "A local favorite near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Slatine Hafen",
+            "tip": "Ruhigerer Ort als das Zentrum von Trogir.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Busfahrt-Ausblick",
+            "tip": "Genießen Sie den Blick auf die Kastela-Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slatine kikötő",
+            "tip": "Nyugodtabb hely, mint Trogir központja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buszos kilátás",
+            "tip": "Élvezze a kilátást a Kaštela-öbölre az út alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Slatine",
+            "tip": "Un loc mai liniștit decât centrul Trogirului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vederea din autobuz",
+            "tip": "Bucurați-vă de vederea spre golful Kaštela.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Slatine Harbor",
+            "tip": "A quieter spot than the center of Trogir.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bus View",
+            "tip": "Enjoy the view of Kaštela Bay during the ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Hier erhalten Sie Fahrkarten und Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisak stand",
+            "tip": "Itt beszerezheti a jegyeket és újságokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Tisak",
+            "tip": "De aici puteți cumpăra bilete și ziare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisak Kiosk",
+            "tip": "Get your tickets and newspapers here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Bura Line vorab online.",
+          "Die Buslinie 37 verbindet Trogir alle 20 Minuten mit Split.",
+          "Kaufen Sie Bustickets beim Fahrer oder am Kiosk.",
+          "Die Fähre ist im Sommer oft angenehmer als der Bus."
+        ],
+        "hu": [
+          "Ellenőrizze a Bura Line menetrendjét előre online.",
+          "A 37-es busz 20 percenként köti össze Trogirt Splittel.",
+          "A buszjegyet a sofőrnél vagy az újságosnál veheti meg.",
+          "A komp nyáron gyakran kellemesebb, mint a busz."
+        ],
+        "ro": [
+          "Verificați programul Bura Line online în prealabil.",
+          "Linia de autobuz 37 leagă Trogir de Split la fiecare 20 de minute.",
+          "Cumpărați biletele de autobuz de la șofer sau de la chioșc.",
+          "Feribotul este adesea mai plăcut decât autobuzul pe timpul verii."
+        ],
+        "en": [
+          "Check the Bura Line schedule online in advance.",
+          "Bus line 37 connects Trogir with Split every 20 minutes.",
+          "Buy bus tickets from the driver or at the kiosk.",
+          "The ferry is often more pleasant than the bus in summer."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "HR-17",
+    "coords": [
+      16.2521,
+      43.5147
+    ],
+    "transit_official": null,
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visittrogir.hr/en/tourist/events",
+    "tourism_office": "https://www.visittrogir.hr/en/tourist",
+    "webcam": "https://www.livecamcroatia.com/en/camera/trogir-cathedral-of-st-lawrence",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": [
+        "Dobar dan (do-bar dahn) — Guten Tag",
+        "Hvala (hva-lah) — Danke",
+        "Molim (mo-lim) — Bitte"
+      ],
+      "hu": [
+        "Dobar dan (do-bar dán) — Jó napot",
+        "Hvala (hvá-la) — Köszönöm",
+        "Molim (mó-lim) — Kérem"
+      ],
+      "ro": [
+        "Dobar dan (do-bar dan) — Bună ziua",
+        "Hvala (hva-la) — Mulțumesc",
+        "Molim (mo-lim) — Vă rog"
+      ],
+      "en": [
+        "Dobar dan (DOH-bar dahn) — Good day",
+        "Hvala (HVAH-lah) — Thank you",
+        "Molim (MOH-leem) — Please"
+      ]
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni, September — die kleine UNESCO-Insel wird im Hochsommer von Tagesausflüglern aus Split überflutet.",
+      "hu": "Május, június, szeptember — a kis UNESCO-szigetet júliusban-augusztusban elárasztják a splitből érkező napi turisták.",
+      "ro": "Mai, iunie, septembrie — mica insulă UNESCO este copleșită de excursioniștii din Split în iulie-august.",
+      "en": "May, June, September — the small UNESCO island is overwhelmed by day-trippers from Split in July-August."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher; in der Hauptsaison können Touristenmassen auf der Inselbrücke zu Engpässen führen.",
+      "hu": "Nagyon biztonságos; főszezonban a sziget hídján torlódás alakulhat ki.",
+      "ro": "Foarte sigur; în sezon de vârf, aglomerația turistică pe podul insulei poate crea blocaje.",
+      "en": "Very safe; in peak season tourist crowds can create bottlenecks on the island bridge."
+    }
+  }
+}
