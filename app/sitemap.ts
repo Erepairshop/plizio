@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import type { MetadataRoute } from "next";
 import { getGitLastMod } from "@/lib/seo/lastmod";
 import { SITE_URL, hasIndexableContent } from "@/lib/seo/routes";
@@ -9,6 +11,15 @@ import {
   pois,
   regions,
 } from "@/lib/seo/slugs";
+
+// Tier-1 sight page index — loaded at build time. Each entry produces
+// /<lang>/<country>/<state>/<host-poi>/sight/<slug>/ in the sitemap.
+type SightIdxEntry = { host_id: string; sight_name: string; slug: string };
+let SIGHT_PAGES: SightIdxEntry[] = [];
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "sight-pages", "_index.json");
+  if (fs.existsSync(fp)) SIGHT_PAGES = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
 
 export const dynamic = "force-static";
 
@@ -30,7 +41,8 @@ export async function generateSitemaps() {
     ROOT_FIXED +
     COUNTRIES * SUPPORTED_LANGS.length +
     regions.length * SUPPORTED_LANGS.length +
-    indexablePois.length * SUPPORTED_LANGS.length;
+    indexablePois.length * SUPPORTED_LANGS.length +
+    SIGHT_PAGES.length * SUPPORTED_LANGS.length;
   const n = Math.max(1, Math.ceil(totalUrls / CHUNK_SIZE));
   return Array.from({ length: n }, (_, id) => ({ id }));
 }
@@ -102,6 +114,18 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     }
   }
 
+  // Tier-1 sight pages: /<lang>/<country>/<state>/<host-poi>/sight/<slug>/
+  const sightUrls: ReturnType<typeof createEntry>[] = [];
+  const poiById = new Map(pois.filter(p => p?.id).map(p => [p.id, p]));
+  for (const lang of SUPPORTED_LANGS) {
+    for (const sp of SIGHT_PAGES) {
+      const host = poiById.get(sp.host_id);
+      if (!host || !host.parent) continue;
+      const url = buildPoiPath(lang, host).replace(/\/$/, "") + "/sight/" + sp.slug + "/";
+      sightUrls.push(createEntry(url, "scripts/generate-poi-html.mts", 0.55));
+    }
+  }
+
   // poiUrls can have 100k+ entries; array-spread with >65k items hits V8's
   // argument-count limit (RangeError). Use push-loop instead.
   const all: ReturnType<typeof createEntry>[] = [];
@@ -109,6 +133,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   for (const u of countryUrls) all.push(u);
   for (const u of stateUrls) all.push(u);
   for (const u of poiUrls) all.push(u);
+  for (const u of sightUrls) all.push(u);
   // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.
   const start = id * CHUNK_SIZE;
   return all.slice(start, start + CHUNK_SIZE);
