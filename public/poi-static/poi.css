@@ -593,6 +593,12 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-itin-more[open] summary{background:#4cc6ff;color:#0a0f1c}
 .plz-itin-more[open]{display:inline-flex;flex-wrap:wrap;gap:.32rem;align-items:center}
 .plz-itin-more[open] .plz-itin-link{margin-left:.32rem}
+/* Weather chip-row v=20260524e */
+[data-mw]:not(.active){display:none}
+.plz-itin-weathers{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0 .4rem}
+.plz-itin-weathers button{flex:1 1 0;min-width:90px;padding:.5rem .65rem;border-radius:9px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.06);color:#e6ecf3;font-size:.88rem;cursor:pointer;transition:all .2s}
+.plz-itin-weathers button:hover{background:rgba(255,255,255,.12)}
+.plz-itin-weathers button[aria-selected="true"]{background:#ffae5c;color:#0a0f1c;border-color:#ffae5c;font-weight:600}
 
 /* PlizioGo logo + header layout v=20260524d */
 .plz-itin-header{display:flex;align-items:center;gap:1rem;margin-bottom:.5rem;flex-wrap:wrap}
