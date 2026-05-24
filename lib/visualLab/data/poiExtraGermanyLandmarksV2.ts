@@ -16,7 +16,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Römerberg constituye el centro histórico de Fráncfort del Meno. La plaza es el sitio del ayuntamiento histórico, llamado Römer.",
       pt: "O Römerberg constitui o centro histórico de Frankfurt am Main. A praça é o local da câmara municipal histórica, chamada Römer.",
       fr: "Le Römerberg constitue le centre historique de Francfort-sur-le-Main. La place abrite l'hôtel de ville historique, appelé Römer.",
-    ,
+    
       "tr": "Römerberg, Frankfurt am Main'ın tarihi merkezini oluşturur. Meydan, 'Römer' olarak adlandırılan tarihi belediye binasına ev sahipliği yapar."},
     facts: {
       de: ["Historisches Zentrum", "Rathaus Römer", "Fachwerkbauten", "Mittelalterlicher Platz"],
@@ -26,7 +26,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Centro histórico", "Ayuntamiento Römer", "Casas de entramado", "Plaza medieval"],
       pt: ["Centro histórico", "Câmara Municipal Römer", "Casas de enxaimel", "Praça medieval"],
       fr: ["Centre historique", "Hôtel de ville Römer", "Maisons à colombages", "Place médiévale"],
-    ,
+    
       "tr": ["Tarihi merkez", "Römer Belediye Binası", "Yarı ahşap binalar", "Orta Çağ meydanı"]},
     imageHint: "Frankfurt Römerberg buildings",
     descriptionAdvanced: {
@@ -37,7 +37,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Römerberg es la histórica plaza del ayuntamiento de Fráncfort del Meno y forma el centro del casco antiguo desde la Plena Edad Media. Es famoso por el distintivo ayuntamiento, el 'Römer', que es sede de la administración municipal desde 1405. La plaza fue durante siglos escenario de coronaciones imperiales, mercados y torneos. Especialmente digna de ver es la fila este (Ostzeile), una serie de casas de entramado de madera reconstruidas que reflejan el aire medieval de la ciudad. En el centro de la plaza se encuentra la Fuente de la Justicia (Gerechtigkeitsbrunnen) de 1543, que representa a la diosa Justitia. Durante la Segunda Guerra Mundial, el Römerberg fue destruido casi por completo, pero se reconstruyó fielmente a los detalles en la década de 1980. Hoy es un punto de encuentro popular para turistas y lugareños, especialmente durante el mercado de Navidad de Fráncfort, que tiene aquí una larga tradición. La adyacente Iglesia de San Nicolás (Alte Nikolaikirche) completa el conjunto histórico a orillas del Meno.",
       pt: "O Römerberg é a histórica praça da câmara municipal de Frankfurt am Main e constitui o centro da cidade velha desde a Alta Idade Média. É famoso pela característica câmara municipal, o 'Römer', que é a sede da administração municipal desde 1405. A praça foi, durante séculos, palco de coroações imperiais, mercados e torneios. Particularmente digna de nota é a fila leste (Ostzeile), uma série de casas de enxaimel reconstruídas que refletem o ambiente medieval da cidade. No centro da praça encontra-se a Fonte da Justiça (Gerechtigkeitsbrunnen) de 1543, que representa a deusa Justitia. Durante a Segunda Guerra Mundial, o Römerberg foi quase completamente destruído, mas foi reconstruído fielmente aos detalhes na década de 1980. Hoje, é um ponto de encontro popular para turistas e locais, especialmente durante o mercado de Natal de Frankfurt, que tem aqui uma longa tradição. A adjacente Antiga Igreja de São Nicolau completa o conjunto histórico na margem do Meno.",
       fr: "Le Römerberg est la place historique de l'hôtel de ville de Francfort-sur-le-Main et constitue le centre de la vieille ville depuis le haut Moyen Âge. Il est célèbre pour son hôtel de ville remarquable, le 'Römer', qui est le siège de l'administration municipale depuis 1405. Pendant des siècles, la place a été le théâtre de couronnements impériaux, de marchés et de tournois. On peut notamment y admirer l'Ostzeile, une rangée de maisons à colombages reconstruites qui reflètent l'ambiance médiévale de la ville. Au centre de la place se trouve la fontaine de la Justice (Gerechtigkeitsbrunnen) datant de 1543, représentant la déesse Justitia. Pendant la Seconde Guerre mondiale, le Römerberg a été presque entièrement détruit, mais il a été reconstruit à l'identique dans les années 1980. C'est aujourd'hui un lieu de rencontre prisé des touristes et des habitants, particulièrement pendant le marché de Noël de Francfort qui y perpétue une longue tradition. L'ancienne église Saint-Nicolas (Alte Nikolaikirche) adjacente complète cet ensemble historique sur les rives du Main.",
-    ,
+    
       "tr": "Römerberg, Frankfurt am Main'ın tarihi belediye binası meydanıdır ve Orta Çağ'dan beri eski kentin (Altstadt) merkezini oluşturur. 1405'ten beri şehir yönetiminin merkezi olan ve 'Römer' olarak bilinen belirgin belediye binasıyla ünlüdür. Meydan yüzyıllar boyunca imparatorluk taç giyme törenlerine, pazarlara ve turnuvalara sahne olmuştur. Şehrin orta çağ atmosferini yansıtan ve yeniden inşa edilen bir dizi yarı ahşap evden oluşan Ostzeile, özellikle görülmeye değerdir. Meydanın ortasında, Adalet Tanrıçası Justitia'yı temsil eden 1543 tarihli Adalet Çeşmesi (Gerechtigkeitsbrunnen) bulunur. İkinci Dünya Savaşı sırasında Römerberg neredeyse tamamen yıkılmış, ancak 1980'lerde aslına sadık kalınarak yeniden inşa edilmiştir. Bugün, özellikle burada uzun bir geleneğe sahip olan Frankfurt Noel Pazarı sırasında turistler ve yerli halk için popüler bir buluşma noktasıdır. Bitişikteki Alte Nikolaikirche, Main nehri kıyısındaki bu tarihi topluluğu tamamlar."},
     factsAdvanced: {
       de: ["Rathaus 'Römer' seit 1405 städtisch", "Ort der Kaiserkrönungen bis 1792", "Gerechtigkeitsbrunnen erbaut 1543", "Fachwerkhäuser 1981-1986 rekonstruiert", "Zentrum des Frankfurter Weihnachtsmarkts", "Fast vollständige Zerstörung 1944"],
@@ -47,7 +47,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Ayuntamiento 'Römer' municipal desde 1405.", "Lugar de coronaciones imperiales hasta 1792.", "Fuente de la Justicia construida en 1543.", "Casas de entramado reconstruidas entre 1981 y 1986.", "Centro del mercado de Navidad de Fráncfort.", "Destrucción casi total en 1944."],
       pt: ["Câmara Municipal 'Römer' municipal desde 1405.", "Local de coroações imperiais até 1792.", "Fonte da Justiça construída em 1543.", "Casas de enxaimel reconstruídas entre 1981 e 1986.", "Centro do mercado de Natal de Frankfurt.", "Destruição quase total em 1944."],
       fr: ["Hôtel de ville 'Römer' municipal depuis 1405.", "Lieu des couronnements impériaux jusqu'en 1792.", "Fontaine de la Justice construite en 1543.", "Maisons à colombages reconstruites entre 1981 et 1986.", "Cœur du marché de Noël de Francfort.", "Destruction quasi totale en 1944."],
-    ,
+    
       "tr": ["Belediye binası 'Römer', 1405'ten beri şehre aittir.", "1792 yılına kadar imparatorluk taç giyme törenlerinin yeridir.", "Adalet Çeşmesi 1543 yılında inşa edilmiştir.", "Yarı ahşap evler 1981-1986 yılları arasında yeniden inşa edilmiştir.", "Frankfurt Noel Pazarı'nın merkezidir.", "1944 yılında neredeyse tamamen yıkılmıştır."]},
     image: "/poi-images/germany-frankfurt-roemerberg-landmarks-v2.webp",
   },
@@ -65,7 +65,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "La Catedral de Berlín es la iglesia protestante más grande de Berlín. Se encuentra en la Isla de los Museos, en el distrito de Mitte.",
       pt: "A Catedral de Berlim é a maior igreja evangélica de Berlim. Situa-se na Ilha dos Museus, no distrito de Mitte.",
       fr: "La cathédrale de Berlin est la plus grande église protestante de Berlin. Elle est située sur l'Île des Musées, dans le quartier de Mitte.",
-    ,
+    
       "tr": "Berliner Dom, Berlin'deki en büyük Protestan kilisesidir. Mitte ilçesindeki Museumsinsel'de yer alır."},
     facts: {
       de: ["Fertigstellung 1905", "Neobarockstil", "Grablege Hohenzollern", "Museumsinsel"],
@@ -75,7 +75,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Finalización 1905", "Estilo Neobarroco", "Tumba de los Hohenzollern", "Isla de los Museos"],
       pt: ["Conclusão 1905", "Estilo Neobarroco", "Panteão Hohenzollern", "Ilha dos Museus"],
       fr: ["Achèvement en 1905", "Style néo-baroque", "Sépulture des Hohenzollern", "Île des Musées"],
-    ,
+    
       "tr": ["Tamamlanma: 1905", "Neobarok tarz", "Hohenzollern mezarlığı", "Museumsinsel"]},
     imageHint: "Berlin Cathedral architecture",
     descriptionAdvanced: {
@@ -86,7 +86,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "La Catedral de Berlín, en la Isla de los Museos, es la iglesia protestante más grande de Alemania y un ejemplo destacado de la arquitectura neobarroca. El edificio actual fue construido entre 1894 y 1905 según los planos de Julius Raschdorff, en el lugar de una catedral clasicista más pequeña. Con su imponente cúpula, la catedral marca la silueta de Berlin-Mitte y sirve como lugar de sepultura de la Casa Hohenzollern. En la cripta de los Hohenzollern, bajo la catedral, descansan casi 100 miembros de la familia real prusiana de cinco siglos. El interior impresiona por sus magníficos mosaicos, el órgano Sauer con más de 7.000 tubos y la espléndida capilla de bautismo y matrimonio. Durante la Segunda Guerra Mundial, el edificio fue gravemente dañado por bombas aéreas y la cúpula se derrumbó. La costosa restauración duró décadas y no se completó en gran medida hasta 1993. Los visitantes pueden subir a la cúpula y disfrutar de una amplia vista panorámica de la ciudad.",
       pt: "A Catedral de Berlim, na Ilha dos Museus, é a maior igreja evangélica da Alemanha e um exemplo notável da arquitetura neobarroca. O atual edifício foi construído entre 1894 e 1905 de acordo com os planos de Julius Raschdorff, no local de uma catedral clássica mais pequena. Com a sua imponente cúpula, a catedral molda a silhueta de Berlin-Mitte e serve como panteão da Casa de Hohenzollern. Na Cripta dos Hohenzollern, por baixo da catedral, repousam quase 100 membros da família governante prussiana de cinco séculos. O interior impressiona pelos mosaicos magníficos, pelo órgão Sauer com mais de 7.000 tubos e pela esplêndida capela de batismo e casamento. Durante a Segunda Guerra Mundial, o edifício foi gravemente danificado por bombardeamentos aéreos e a cúpula desabou. A restauração dispendiosa durou décadas e só foi concluída em grande parte em 1993. Os visitantes podem subir à cúpula e desfrutar de uma vista panorâmica abrangente sobre a cidade.",
       fr: "La cathédrale de Berlin, située sur l'Île des Musées, est la plus grande église protestante d'Allemagne et un exemple majeur de l'architecture néo-baroque. L'édifice actuel a été construit entre 1894 et 1905 selon les plans de Julius Raschdorff, à l'emplacement d'une cathédrale néoclassique plus petite. Avec son imposante coupole, la cathédrale marque la silhouette de Berlin-Mitte et sert de sépulture à la maison de Hohenzollern. Dans la crypte des Hohenzollern située sous la cathédrale reposent près de 100 membres de la famille régnante prussienne issus de cinq siècles d'histoire. L'intérieur impressionne par ses magnifiques mosaïques, l'orgue Sauer de plus de 7 000 tuyaux et la somptueuse chapelle des baptêmes et des mariages. Pendant la Seconde Guerre mondiale, le bâtiment a été gravement endommagé par des bombes et la coupole s'est effondrée. La restauration coûteuse a duré des décennies et ne s'est achevée qu'en 1993. Les visiteurs peuvent monter dans la coupole pour profiter d'une vue panoramique étendue sur la ville.",
-    ,
+    
       "tr": "Museumsinsel üzerindeki Berliner Dom, Almanya'nın en büyük Protestan kilisesidir ve Neobarok mimarinin önemli bir örneğidir. Bugünkü bina, daha küçük olan klasisist bir katedralin yerinde, Julius Raschdorff'un planlarına göre 1894 ile 1905 yılları arasında inşa edilmiştir. Heybetli kubbesiyle katedral, Berlin-Mitte'nin siluetini belirler ve Hohenzollern Hanedanı'nın mezar yeri olarak hizmet verir. Katedralin altındaki Hohenzollern Mezarlığı'nda (Hohenzollerngruft), beş yüzyıla yayılan Prusya yönetici ailesinin yaklaşık 100 üyesi yatmaktadır. İç mekan, muhteşem mozaikler, 7.000'den fazla borulu Sauer orgu ve görkemli vaftiz ve nikah şapeli ile etkileyicidir. İkinci Dünya Savaşı sırasında bina hava bombardımanıyla ağır hasar görmüş ve kubbesi çökmüştür. Kapsamlı restorasyon onlarca yıl sürmüş ve ancak 1993 yılında büyük ölçüde tamamlanmıştır. Ziyaretçiler kubbeye çıkarak şehrin geniş panoramik manzarasının keyfini çıkarabilirler."},
     factsAdvanced: {
       de: ["Bauzeit von 1894 bis 1905", "Hohenzollerngruft mit 94 Särgen", "Höhe der Kuppel etwa 75 Meter", "Sauer-Orgel besitzt 7.269 Pfeifen", "Umfassende Restaurierung bis 1993", "Größte evangelische Kirche Deutschlands"],
@@ -96,7 +96,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Tiempo de construcción de 1894 a 1905.", "Cripta de los Hohenzollern con 94 ataúdes.", "Altura de la cúpula de unos 75 metros.", "El órgano Sauer tiene 7.269 tubos.", "Restauración integral hasta 1993.", "Iglesia protestante más grande de Alemania."],
       pt: ["Tempo de construção de 1894 a 1905.", "Cripta dos Hohenzollern com 94 caixões.", "Altura da cúpula cerca de 75 metros.", "O órgão Sauer possui 7.269 tubos.", "Restauração abrangente até 1993.", "Maior igreja evangélica da Alemanha."],
       fr: ["Durée des travaux de 1894 à 1905.", "Crypte des Hohenzollern contenant 94 cercueils.", "Hauteur de la coupole environ 75 mètres.", "L'orgue Sauer possède 7 269 tuyaux.", "Restauration complète jusqu'en 1993.", "Plus grande église protestante d'Allemagne."],
-    ,
+    
       "tr": ["1894'ten 1905'e kadar süren inşaat süresi.", "94 tabutun bulunduğu Hohenzollern Mezarlığı.", "Kubbe yüksekliği yaklaşık 75 metredir.", "Sauer orgu 7.269 boruya sahiptir.", "1993 yılına kadar süren kapsamlı restorasyon.", "Almanya'nın en büyük Protestan kilisesidir."]},
     image: "/poi-images/germany-berliner-dom-landmarks-v2.webp",
   },
@@ -114,7 +114,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "La Catedral de Ulm posee la torre de iglesia más alta del mundo. El edificio se encuentra en la ciudad de Ulm, en el estado de Baden-Wurtemberg.",
       pt: "A Catedral de Ulm possui a torre de igreja mais alta do mundo. O edifício situa-se na cidade de Ulm, no estado de Baden-Württemberg.",
       fr: "La cathédrale d'Ulm possède la plus haute flèche d'église au monde. L'édifice se trouve dans la ville d'Ulm, dans le Land de Bade-Wurtemberg.",
-    ,
+    
       "tr": "Ulmer Münster, dünyanın en yüksek kilise kulesine sahiptir. Yapı, Baden-Württemberg eyaletindeki Ulm şehrinde bulunmaktadır."},
     facts: {
       de: ["Turmhöhe 161,5m", "Gotischer Baustil", "Baubeginn 1377", "Weltrekord-Turm"],
@@ -124,7 +124,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Altura de la torre 161,5m", "Estilo Gótico", "Inicio de obra 1377", "Torre récord mundial"],
       pt: ["Altura da torre 161,5m", "Estilo Gótico", "Início da obra 1377", "Torre recorde mundial"],
       fr: ["Hauteur de la flèche 161,5 m", "Style gothique", "Début des travaux en 1377", "Record mondial de hauteur"],
-    ,
+    
       "tr": ["Kule yüksekliği: 161,5 m", "Gotik mimari tarz", "İnşaat başlangıcı: 1377", "Dünya rekoru sahibi kule"]},
     imageHint: "Ulm Minster steeple",
     descriptionAdvanced: {
@@ -135,7 +135,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "La Catedral de Ulm (Ulmer Münster) es una iglesia ciudadana construida en estilo gótico y conocida por tener la torre de iglesia más alta del mundo. La primera piedra se colocó en 1377, cuando Ulm era una ciudad libre imperial, aunque la obra no se terminó definitivamente hasta 1890. La prominente torre occidental alcanza los 161,53 metros de altura y domina el paisaje urbano junto al Danubio. Los visitantes pueden subir 768 escalones hasta la plataforma de observación superior a 143 metros de altura, desde donde, con tiempo despejado, se alcanzan a ver incluso los Alpes. En su interior, la catedral impresiona por la magnífica sillería del coro de Jörg Syrlin el Viejo y las importantes vidrieras del siglo XV. Al haber sido concebida como una iglesia ciudadana, la construcción fue financiada casi exclusivamente por los habitantes de la ciudad. A pesar de los fuertes ataques con bombas sobre Ulm en 1944, la catedral permaneció casi intacta como por milagro, mientras que el casco antiguo circundante fue destruido en gran parte. Hoy no es solo un lugar sagrado, sino también un monumento arquitectónico de rango mundial.",
       pt: "A Catedral de Ulm (Ulmer Münster) é uma igreja cívica construída em estilo gótico, conhecida por ter a torre de igreja mais alta do mundo. O lançamento da primeira pedra ocorreu em 1377, quando Ulm era uma cidade imperial livre, mas o edifício só foi definitivamente concluído em 1890. A marcante torre ocidental ergue-se a 161,53 metros de altura e domina a paisagem urbana junto ao Danúbio. Os visitantes podem subir 768 degraus até à plataforma de observação superior, a 143 metros de altura, de onde, em dias claros, são visíveis até os Alpes. No interior, a catedral impressiona pelo magnífico cadeiral do coro de Jörg Syrlin, o Velho, e pelos importantes vitrais do século XV. Como foi concebida como uma igreja cívica, a construção foi financiada quase exclusivamente pelos habitantes da cidade. Apesar dos pesados ataques bombistas a Ulm em 1944, a catedral permaneceu quase intacta como que por milagre, enquanto o centro histórico circundante foi em grande parte destruído. Hoje, não é apenas um local sagrado, mas também um monumento arquitetónico de renome mundial.",
       fr: "La cathédrale d'Ulm est une église bâtie dans le style gothique, célèbre pour posséder la plus haute flèche d'église au monde. La pose de la première pierre a eu lieu en 1377, alors qu'Ulm était une ville d'Empire libre, mais l'édifice n'a été définitivement achevé qu'en 1890. La tour ouest, remarquable, s'élève à 161,53 mètres et domine le paysage urbain au bord du Danube. Les visiteurs peuvent gravir 768 marches jusqu'à la plate-forme d'observation supérieure située à 143 mètres de haut, d'où l'on peut apercevoir les Alpes par temps clair. À l'intérieur, la cathédrale impressionne par ses magnifiques stalles sculptées par Jörg Syrlin l'Ancien et ses vitraux majeurs du XVe siècle. Conçue comme une église bourgeoise, sa construction fut presque exclusivement financée par les habitants de la ville. Malgré les violents bombardements sur Ulm en 1944, la cathédrale est restée presque intacte, comme par miracle, alors que la vieille ville environnante était largement détruite. Elle est aujourd'hui non seulement un lieu sacré, mais aussi un monument architectural de renommée mondiale.",
-    ,
+    
       "tr": "Ulmer Münster, Gotik mimari tarzda inşa edilmiş bir halk kilisesidir ve dünyanın en yüksek kilise kulesiyle tanınır. Temel atma töreni, Ulm'un hür bir imparatorluk şehri olduğu 1377 yılında gerçekleşmiş, ancak yapı nihayet 1890 yılında tamamlanabilmiştir. Dikkat çekici batı kulesi 161,53 metre yüksekliğe ulaşır ve Tuna nehri kıyısındaki şehir siluetine hakimdir. Ziyaretçiler, 143 metre yükseklikteki en üst seyir platformuna ulaşmak için 768 basamak çıkabilirler; buradan açık havada Alpler bile görülebilir. İçeride katedral, Yaşlı Jörg Syrlin'in muhteşem koro koltukları ve 15. yüzyıldan kalma önemli cam boyamaları ile etkileyicidir. Bir halk kilisesi olarak tasarlandığı için inşaat neredeyse tamamen şehir sakinleri tarafından finanse edilmiştir. 1944 yılında Ulm'a düzenlenen ağır bombalı saldırılara rağmen, çevreleyen eski kent büyük ölçüde yıkılırken katedral adeta bir mucize eseri neredeyse hiç zarar görmeden kalmıştır. Bugün sadece kutsal bir yer değil, aynı zamanda dünya çapında bir mimari anıttır."},
     factsAdvanced: {
       de: ["Weltweit höchster Kirchturm (161,53 m)", "Grundsteinlegung im Jahr 1377", "768 Stufen zur Aussichtsplattform", "Vollendung nach 513 Jahren in 1890", "Platz für bis zu 20.000 Menschen", "Hauptschiffhöhe beträgt 41,6 Meter"],
@@ -145,7 +145,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Torre de iglesia más alta del mundo (161,53 m).", "Colocación de la primera piedra en el año 1377.", "768 escalones hasta la plataforma de observación.", "Finalización tras 513 años en 1890.", "Espacio para hasta 20.000 personas.", "La altura de la nave principal es de 41,6 metros."],
       pt: ["Torre de igreja mais alta do mundo (161,53 m).", "Lançamento da primeira pedra no ano 1377.", "768 degraus até à plataforma de observação.", "Conclusão após 513 anos, em 1890.", "Capacidade para até 20.000 pessoas.", "A altura da nave principal é de 41,6 metros."],
       fr: ["Plus haute flèche d'église au monde (161,53 m).", "Pose de la première pierre en l'an 1377.", "768 marches jusqu'à la plate-forme d'observation.", "Achèvement après 513 ans, en 1890.", "Capacité d'accueil jusqu'à 20 000 personnes.", "La hauteur de la nef principale est de 41,6 mètres."],
-    ,
+    
       "tr": ["Dünyanın en yüksek kilise kulesi (161,53 m).", "Temel atma yılı 1377'dir.", "Seyir platformuna 768 basamakla ulaşılır.", "513 yıl sonra 1890'da tamamlanmıştır.", "20.000 kişiye kadar kapasite sunar.", "Ana nef yüksekliği 41,6 metredir."]},
     image: "/poi-images/germany-ulmer-muenster-landmarks-v2.webp",
   },
@@ -163,7 +163,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Viktoriapark se encuentra en el distrito berlinés de Kreuzberg. El recinto cuenta con una cascada artificial y el Monumento Nacional.",
       pt: "O Viktoriapark está localizado no distrito de Kreuzberg, em Berlim. O local apresenta uma cascata artificial e o Monumento Nacional.",
       fr: "Le Viktoriapark est situé dans le quartier berlinois de Kreuzberg. Le site abrite une cascade artificielle et le Monument National.",
-    ,
+    
       "tr": "Viktoriapark, Berlin'in Kreuzberg semtinde yer alır. Park alanında yapay bir şelale ve ulusal bir anıt bulunmaktadır."},
     facts: {
       de: ["Künstlicher Wasserfall", "Nationaldenkmal 1821", "Kreuzberg Park", "Aussichtspunkt"],
@@ -173,7 +173,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Cascada artificial", "Monumento Nacional 1821", "Parque Kreuzberg", "Mirador"],
       pt: ["Cascata artificial", "Monumento Nacional 1821", "Parque Kreuzberg", "Miradouro"],
       fr: ["Cascade artificielle", "Monument National 1821", "Parc Kreuzberg", "Point de vue"],
-    ,
+    
       "tr": ["Yapay şelale", "1821 Ulusal Anıtı", "Kreuzberg Parkı", "Seyir noktası"]},
     imageHint: "Viktoriapark waterfall Berlin",
     descriptionAdvanced: {
@@ -184,7 +184,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Viktoriapark, en el distrito de Kreuzberg en Berlín, es un oasis verde de importancia histórica y ofrece la elevación natural más alta del centro de la ciudad. El corazón del parque es el Kreuzberg, de 66 metros de altura, en cuya cima se alza el Monumento Nacional a las Guerras de Liberación, diseñado por Karl Friedrich Schinkel. Una característica distintiva del parque es la cascada artificial, inspirada en el macizo del Watzmann, que se precipita sobre terreno rocoso. El parque fue creado a finales del siglo XIX y nombrado en honor a la princesa heredera prusiana Victoria. Además de los amplios prados, hay un pequeño viñedo donde crecen las uvas para el famoso vino \"Kreuz-Neroberger\". Desde la cima del monumento se tiene una vista espectacular del centro de Berlín hasta la Torre de la Televisión. El parque es un punto de encuentro popular para residentes y visitantes que buscan relajación y una conexión con la historia de Prusia.",
       pt: "O Viktoriapark, no bairro de Kreuzberg, em Berlim, é um oásis verde de importância histórica e oferece a maior elevação natural do centro da cidade. O coração do parque é o Kreuzberg, de 66 metros de altura, em cujo topo se encontra o Monumento Nacional para as Guerras de Libertação, projetado por Karl Friedrich Schinkel. Uma característica marcante do parque é a cascata artificial, modelada no maciço de Watzmann, que despenca sobre o terreno rochoso. O parque foi criado no final do século XIX e recebeu o nome da princesa herdeira prussiana Vitória. Além dos extensos gramados, existe aqui um pequeno vinhedo onde crescem as uvas para o famoso vinho \"Kreuz-Neroberger\". Do topo do monumento, tem-se uma vista espetacular do centro de Berlim até à Torre de TV. O parque é um ponto de encontro popular para moradores e visitantes que encontram aqui relaxamento e uma ligação com a história prussiana.",
       fr: "Le Viktoriapark, situé dans le quartier de Kreuzberg à Berlin, est un oasis de verdure d'importance historique et offre le point culminant naturel du centre de Berlin. Le cœur du parc est le mont Kreuzberg, haut de 66 mètres, au sommet duquel se dresse le Monument National commémorant les guerres de libération, conçu par Karl Friedrich Schinkel. Une caractéristique marquante du parc est la cascade artificielle, inspirée du massif du Watzmann, qui se jette dans le vide sur un terrain rocheux. Le parc a été aménagé à la fin du XIXe siècle et nommé en l'honneur de la princesse héritière de Prusse, Victoria. Outre les vastes pelouses, on y trouve un petit vignoble où poussent les raisins du célèbre vin \"Kreuz-Neroberger\". Depuis le sommet du monument, on profite d'une vue spectaculaire sur le centre-ville de Berlin jusqu'à la tour de la télévision. Le parc est un lieu de rencontre prisé des habitants et des visiteurs qui y trouvent calme et lien avec l'histoire prussienne.",
-    ,
+    
       "tr": "Berlin'in Kreuzberg semtindeki Viktoriapark, tarihi öneme sahip yeşil bir vahadır ve Berlin şehir merkezinin en yüksek doğal noktasını sunar. Parkın kalbi, tepesinde Karl Friedrich Schinkel tarafından tasarlanan Kurtuluş Savaşları Ulusal Anıtı'nın bulunduğu 66 metre yüksekliğindeki Kreuzberg tepesidir. Parkın belirgin bir özelliği, Watzmann masifi örnek alınarak tasarlanan ve kayalık araziden aşağı dökülen yapay şelaledir. Park, 19. yüzyılın sonlarında kurulmuş ve Prusya Veliaht Prensesi Viktoria'nın adını almıştır. Geniş çim alanların yanı sıra, burada ünlü 'Kreuz-Neroberger' şarabı için üzümlerin yetiştiği küçük bir üzüm bağı da bulunmaktadır. Anıtın tepesinden Berlin şehir merkezinden televizyon kulesine kadar muhteşem bir manzara izlenebilir. Park, hem dinlenmek isteyenler hem de Prusya tarihiyle bağ kurmak isteyen mahalle sakinleri ve ziyaretçiler için popüler bir buluşma noktasıdır."},
     factsAdvanced: {
       de: ["Höchster innerstädtischer Hügel (66 m)", "Wasserfall 1893-1894 künstlich angelegt", "Schinkel-Denkmal von 1821 geweiht", "Parkbenennung nach Prinzessin Viktoria", "Besitz eines eigenen Weinbergs", "Blick auf den Berliner Fernsehturm"],
@@ -194,7 +194,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Colina más alta del centro (66 m)", "Cascada creada artificialmente en 1893-1894", "Monumento de Schinkel inaugurado en 1821", "Parque nombrado por la princesa Victoria", "Posee un viñedo propio", "Vista a la Torre de la Televisión de Berlín"],
       pt: ["Colina mais alta do centro da cidade (66 m)", "Cascata criada artificialmente em 1893-1894", "Monumento de Schinkel inaugurado em 1821", "Nome do parque em homenagem à Princesa Vitória", "Possui um vinhedo próprio", "Vista para a Torre de TV de Berlim"],
       fr: ["Plus haute colline du centre-ville (66 m)", "Cascade créée artificiellement en 1893-1894", "Monument de Schinkel inauguré en 1821", "Parc nommé d'après la princesse Victoria", "Possession d'un vignoble propre", "Vue sur la tour de télévision de Berlin"],
-    ,
+    
       "tr": ["Şehir merkezindeki en yüksek tepe (66 m).", "1893-1894 yıllarında yapay olarak oluşturulan şelale.", "1821 tarihli Schinkel anıtı açılışı.", "Prenses Viktoria onuruna adlandırılan park.", "Kendi üzüm bağına sahip olma özelliği.", "Berlin televizyon kulesi manzarası."]},
     image: "/poi-images/germany-viktoriapark-kreuzberg-landmarks-v2.webp",
   },
@@ -212,7 +212,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Monasterio de Ettal es una abadía benedictina en la Alta Baviera. Es conocido por su magnífica iglesia cupulada de estilo barroco.",
       pt: "O Mosteiro de Ettal é um mosteiro beneditino na Alta Baviera. É conhecido pela sua magnífica igreja barroca com cúpula.",
       fr: "L'abbaye d'Ettal est un monastère bénédictin de Haute-Bavière. Elle est célèbre pour sa magnifique église baroque à coupole.",
-    ,
+    
       "tr": "Kloster Ettal, Oberbayern'da bir Benediktin manastırıdır. Görkemli barok kubbeli kilisesiyle tanınır."},
     facts: {
       de: ["Benediktinerkloster", "Barockkirche", "Gegründet 1330", "Alpenregion"],
@@ -222,7 +222,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Monasterio benedictino", "Iglesia barroca", "Fundado en 1330", "Región alpina"],
       pt: ["Mosteiro beneditino", "Igreja barroca", "Fundado em 1330", "Região alpina"],
       fr: ["Monastère bénédictin", "Église baroque", "Fondé en 1330", "Région alpine"],
-    ,
+    
       "tr": ["Benediktin manastırı", "Barok kilise", "Kuruluş: 1330", "Alpler bölgesi"]},
     imageHint: "Ettal Abbey dome interior",
     descriptionAdvanced: {
@@ -233,7 +233,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Monasterio de Ettal, en la Alta Baviera, es una importante abadía benedictina y una obra maestra de la arquitectura barroca bávara. Fue fundado en 1330 por el emperador Luis el Bávaro para cumplir un voto tras su regreso de Italia. La actual y magnífica basílica con su enorme cúpula surgió tras un devastador incendio en 1744 bajo la dirección de Enrico Zuccalli y Joseph Schmuzer. Especialmente digno de ver es el monumental fresco de la cúpula de Johann Jakob Zeiller, que representa el cielo sobre Ettal. Además de su importancia espiritual, Ettal es conocido por su economía monástica, que incluye una cervecería, una destilería para el famoso licor del monasterio de Ettal y una quesería. El complejo se encuentra en un idílico valle alto de los Alpes de Ammergau y sirve como importante lugar de peregrinación, así como centro cultural de la región. La armoniosa combinación de arte, fe y tradición artesanal atrae anualmente a numerosos visitantes de todo el mundo.",
       pt: "O Mosteiro de Ettal, na Alta Baviera, é uma importante abadia beneditina e uma obra-prima da arquitetura barroca bávara. O mosteiro foi fundado em 1330 pelo Imperador Luís, o Bávaro, para cumprir uma promessa após o seu regresso de Itália. A atual e magnífica basílica, com a sua enorme cúpula, surgiu após um incêndio devastador em 1744, sob a direção de Enrico Zuccalli e Joseph Schmuzer. Particularmente digno de nota é o monumental fresco da cúpula de Johann Jakob Zeiller, que representa o céu sobre Ettal. Além da sua importância espiritual, Ettal é conhecido pela sua economia monástica, que inclui uma cervejaria, uma destilaria para o famoso licor do mosteiro de Ettal e uma queijaria. O complexo situa-se num idílico vale de altitude nos Alpes de Ammergau e serve como um importante local de peregrinação, bem como centro cultural da região. A combinação harmoniosa de arte, fé e tradição artesanal atrai anualmente inúmeros visitantes de todo o mundo.",
       fr: "L'abbaye d'Ettal, en Haute-Bavière, est une importante abbaye bénédictine et un chef-d'œuvre de l'architecture baroque bavaroise. Le monastère a été fondé en 1330 par l'empereur Louis le Bavarois pour accomplir un vœu fait à son retour d'Italie. L'actuelle et magnifique basilique avec son immense coupole a été construite après un incendie dévastateur en 1744 sous la direction d'Enrico Zuccalli et Joseph Schmuzer. On peut notamment y admirer la fresque monumentale de la coupole réalisée par Johann Jakob Zeiller, représentant le ciel au-dessus d'Ettal. Outre son importance spirituelle, Ettal est réputée pour son économie monastique qui comprend une brasserie, une distillerie pour la célèbre liqueur de l'abbaye d'Ettal et une fromagerie. Le site est idylliquement situé dans une haute vallée des Alpes d'Ammergau et sert d'important lieu de pèlerinage ainsi que de centre culturel pour la région. L'alliance harmonieuse de l'art, de la foi et de la tradition artisanale attire chaque année de nombreux visiteurs du monde entier.",
-    ,
+    
       "tr": "Oberbayern'daki Kloster Ettal, önemli bir Benediktin manastırı ve Bavyera barok mimarisinin bir şaheseridir. Manastır, 1330 yılında İmparator Ludwig der Bayer tarafından, İtalya'dan dönüşünde verdiği bir adağı yerine getirmek amacıyla kurulmuştur. Bugünkü devasa kubbeli görkemli bazilika, 1744'teki yıkıcı bir yangından sonra Enrico Zuccalli ve Joseph Schmuzer yönetiminde inşa edilmiştir. Johann Jakob Zeiller tarafından yapılan ve Ettal üzerindeki gökyüzünü temsil eden anıtsal kubbe freski özellikle görülmeye değerdir. Manevi öneminin yanı sıra Ettal, bir bira fabrikası, ünlü Ettal manastır likörü için bir damıtımevi ve bir peynirhaneyi kapsayan manastır işletmesiyle de tanınır. Tesis, Ammergauer Alpen'in yüksek bir vadisinde huzurlu bir konumda yer alır ve önemli bir hac yeri ile bölgenin kültürel merkezi olarak hizmet verir. Sanat, inanç ve zanaat geleneğinin uyumlu birleşimi, her yıl dünyanın dört bir yanından çok sayıda ziyaretçiyi kendine çeker."},
     factsAdvanced: {
       de: ["Gegründet 1330 von Ludwig dem Bayern", "Basilika-Kuppel nach Brand 1744 erbaut", "Berühmt für den Ettaler Klosterlikör", "Eigene Brauerei seit dem Mittelalter", "Besitzt ein humanistisches Gymnasium", "Wallfahrtsort zur 'Madonna von Ettal'"],
@@ -243,7 +243,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Fundado en 1330 por Luis el Bávaro.", "Cúpula de la basílica construida tras el incendio de 1744.", "Famoso por el licor del monasterio de Ettal.", "Cervecería propia desde la Edad Media.", "Posee un instituto de enseñanza humanística.", "Lugar de peregrinación a la 'Madonna de Ettal'."],
       pt: ["Fundado em 1330 por Luís, o Bávaro.", "Cúpula da basílica construída após o incêndio de 1744.", "Famoso pelo licor do mosteiro de Ettal.", "Cervejaria própria desde a Idade Média.", "Possui um ginásio humanista.", "Local de peregrinação à 'Madonna de Ettal'."],
       fr: ["Fondée en 1330 par Louis le Bavarois.", "Coupole de la basilique construite après l'incendie de 1744.", "Célèbre pour sa liqueur monastique d'Ettal.", "Propre brasserie depuis le Moyen Âge.", "Possède un lycée (Gymnasium) humaniste.", "Lieu de pèlerinage pour la 'Madone d'Ettal'."],
-    ,
+    
       "tr": ["1330 yılında Ludwig der Bayer tarafından kurulmuştur.", "Bazilika kubbesi 1744'teki yangından sonra inşa edilmiştir.", "Ünlü Ettaler manastır likörü ile tanınır.", "Orta Çağ'dan beri kendi bira fabrikasına sahiptir.", "Hümanist bir spor lisesine (Gymnasium) ev sahipliği yapar.", "'Ettal Madonnas'ı' için bir hac yeridir."]},
     image: "/poi-images/germany-achensee-kloster-landmarks-v2.webp",
   },
@@ -261,7 +261,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Edificio del Concilio en Constanza, a orillas del Lago de Constanza, fue el lugar de reunión del Concilio de Constanza. Hoy sirve como centro de eventos.",
       pt: "O Edifício do Concílio em Constança, no Lago de Constança, foi o local de reunião do Concílio de Constança. Hoje serve como centro de eventos.",
       fr: "Le bâtiment du Concile à Constance, au bord du lac de Constance, fut le lieu de réunion du concile de Constance. Il sert aujourd'hui de centre de manifestations.",
-    ,
+    
       "tr": "Bodensee kıyısındaki Konstanz'da bulunan Konzilgebaeude, Konstanz Konsili'nin toplantı yeriydi. Bugün etkinlik merkezi olarak hizmet vermektedir."},
     facts: {
       de: ["Historisches Gebäude", "Konstanzer Konzil", "Bodensee-Ufer", "Veranstaltungsort"],
@@ -271,7 +271,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Edificio histórico", "Concilio de Constanza", "Orilla del Lago de Constanza", "Lugar de eventos"],
       pt: ["Edifício histórico", "Concílio de Constança", "Margem do Lago de Constança", "Local de eventos"],
       fr: ["Bâtiment historique", "Concile de Constance", "Rives du lac de Constance", "Lieu de manifestations"],
-    ,
+    
       "tr": ["Tarihi bina", "Konstanz Konsili", "Bodensee kıyısı", "Etkinlik mekanı"]},
     imageHint: "Konzilgebäude Konstanz waterfront",
     descriptionAdvanced: {
@@ -282,7 +282,7 @@ export const germanyLandmarksV2: POI[] = [
       es: "El Edificio del Concilio en Constanza es uno de los edificios civiles medievales más importantes del sur de Alemania y cuenta con una historia de más de 600 años. Originalmente, el macizo edificio de piedra fue construido entre 1388 y 1391 como almacén municipal y granero directamente a orillas del Lago de Constanza. Alcanzó fama mundial durante el Concilio de Constanza (1414-1418), cuando sirvió como lugar de sesiones y escenario de la única elección papal en suelo alemán. En 1417 fue elegido aquí el Papa Martín V, poniendo fin al Cisma de Occidente. El edificio impresiona por su arquitectura robusta de tres pisos y un imponente tejado a cuatro aguas. Tras diversos usos como almacén y sala de fiestas, hoy sirve como centro de congresos y restaurante. Frente al edificio se encuentra la famosa estatua Imperia, que recuerda de forma satírica la época del Concilio. El Edificio del Concilio es hoy un monumento cultural central de la ciudad de Constanza y un emblema en el puerto.",
       pt: "O Edifício do Concílio em Constança é um dos edifícios profanos medievais mais importantes do sul da Alemanha e conta com uma história de mais de 600 anos. Originalmente, o maciço edifício de pedra foi construído entre 1388 e 1391 como armazém municipal e celeiro diretamente na margem do Lago de Constança. Alcançou fama mundial durante o Concílio de Constança (1414-1418), quando serviu como local de reuniões e palco da única eleição papal em solo alemão. Em 1417, foi eleito aqui o Papa Martinho V, pondo fim ao Cisma do Ocidente. O edifício impressiona pela sua arquitetura robusta com três pisos e um imponente telhado de quatro águas. Após várias utilizações como armazém e salão de festas, serve hoje como centro de congressos e restaurante. Em frente ao edifício encontra-se a famosa estátua Imperia, que recorda satiricamente a época do Concílio. O Edifício do Concílio é hoje um monumento cultural central da cidade de Constança e um ex-líbris no porto.",
       fr: "Le bâtiment du Concile à Constance est l'un des plus importants édifices profanes médiévaux du sud de l'Allemagne et possède une histoire de plus de 600 ans. À l'origine, cet imposant bâtiment en pierre a été construit entre 1388 et 1391 pour servir d'entrepôt municipal et de grenier à grains, directement sur les rives du lac de Constance. Il a acquis une renommée mondiale lors du concile de Constance (1414-1418), servant de lieu de réunion et de théâtre à la seule élection papale sur le sol allemand. En 1417, le pape Martin V y fut élu, mettant ainsi fin au Grand Schisme d'Occident. Le bâtiment impressionne par son architecture massive de trois étages et son imposant toit en croupe. Après avoir servi d'entrepôt et de salle des fêtes, il est aujourd'hui utilisé comme centre de congrès et restaurant. Devant le bâtiment se dresse la célèbre statue Imperia, qui évoque de manière satirique l'époque du Concile. Le bâtiment du Concile est aujourd'hui un monument culturel central de la ville de Constance et un emblème du port.",
-    ,
+    
       "tr": "Konstanz'daki Konzilgebaeude, Güney Almanya'nın en önemli orta çağ sivil yapılarından biri olup 600 yılı aşkın bir geçmişe sahiptir. Bu devasa taş bina, aslen 1388 ile 1391 yılları arasında doğrudan Bodensee kıyısında bir belediye ticaret evi ve tahıl ambarı olarak inşa edilmiştir. Dünya çapındaki ününü, Alman topraklarındaki tek papalık seçimine ve toplantı yeri olarak hizmet verdiği Konstanz Konsili (1414–1418) sırasında kazanmıştır. 1417 yılında burada Papa V. Martin seçilmiş ve böylece Batı Bölünmesi (Schisma) sona ermiştir. Bina, üç katlı devasa mimarisi ve güçlü kırma çatısıyla etkileyicidir. Depo ve şenlik salonu gibi çeşitli kullanımlardan sonra, bugün kongre merkezi ve restoran olarak hizmet vermektedir. Binanın önünde, konsil dönemini hicivli bir şekilde hatırlatan ünlü Imperia heykeli durmaktadır. Konzilgebaeude bugün Konstanz şehrinin merkezi bir kültürel anıtı ve limandaki simgesidir."},
     factsAdvanced: {
       de: ["Erbaut 1388-1391 als Kaufhaus", "Ort der Papstwahl von 1417", "Größter mittelalterlicher Profanbau der Stadt", "Endete das Abendländische Schisma", "Heute Kongresszentrum und Restaurant", "Direkt am Konstanzer Hafen gelegen"],
@@ -292,7 +292,7 @@ export const germanyLandmarksV2: POI[] = [
       es: ["Construido entre 1388-1391 como almacén.", "Lugar de la elección papal de 1417.", "Edificio civil medieval más grande de la ciudad.", "Puso fin al Cisma de Occidente.", "Hoy centro de congresos y restaurante.", "Situado directamente en el puerto de Constanza."],
       pt: ["Construído em 1388-1391 como armazém.", "Local da eleição papal de 1417.", "Maior edifício profano medieval da cidade.", "Pôs fim ao Cisma do Ocidente.", "Atualmente centro de congressos e restaurante.", "Situado diretamente no porto de Constança."],
       fr: ["Construit entre 1388 et 1391 comme entrepôt.", "Lieu de l'élection papale de 1417.", "Plus grand bâtiment profane médiéval de la ville.", "A mis fin au Grand Schisme d'Occident.", "Aujourd'hui centre de congrès et restaurant.", "Situé directement sur le port de Constance."],
-    ,
+    
       "tr": ["1388-1391 yılları arasında ticaret evi olarak inşa edilmiştir.", "1417 yılındaki papalık seçiminin yapıldığı yer.", "Şehrin en büyük orta çağ sivil yapısı.", "Batı Bölünmesi'ni (Schisma) sona erdirmiştir.", "Bugün kongre merkezi ve restoran olarak kullanılır.", "Doğrudan Konstanz limanında yer almaktadır."]},
     image: "/poi-images/germany-konstanz-konzilgebaeude-landmarks-v2.webp",
   }
