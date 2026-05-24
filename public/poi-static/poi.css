@@ -537,3 +537,59 @@ footer a { color: rgba(255,255,255,0.7); }
 .plz-yh-date { font-size: 0.7rem; color: rgba(255,255,255,0.5); white-space: nowrap; }
 .plz-yh-title { margin: 0; font-size: 0.85rem; color: rgba(255,255,255,0.95); font-weight: 600; line-height: 1.35; flex: 1 1 60%; min-width: 0; }
 .plz-yh-summary { margin: 0.2rem 0 0 0; font-size: 0.78rem; color: rgba(255,255,255,0.65); line-height: 1.4; flex: 1 1 100%; }
+
+/* === City Itinerary widget (4-mode day-trip) v=20260524c === */
+.plz-itin{margin:1.4rem 0;border-radius:14px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);padding:1.1rem}
+.plz-itin-header h2{margin:0 0 .35rem;font-size:1.2rem}
+.plz-itin-modes{display:flex;flex-wrap:wrap;gap:.45rem;margin:.8rem 0 .5rem;position:sticky;top:0;background:rgba(0,8,20,.85);padding:.35rem 0;backdrop-filter:blur(8px);z-index:5}
+.plz-itin-modes button{flex:1 1 0;min-width:110px;padding:.6rem .7rem;border-radius:10px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.06);color:#e6ecf3;font-size:.92rem;cursor:pointer;transition:all .2s}
+.plz-itin-modes button:hover{background:rgba(255,255,255,.12)}
+.plz-itin-modes button[aria-selected="true"]{background:#4cc6ff;color:#0a0f1c;border-color:#4cc6ff;font-weight:600}
+.plz-itin-summary{display:flex;flex-wrap:wrap;gap:1rem;font-size:.88rem;color:rgba(230,236,243,.65);padding:.55rem .8rem;border-radius:8px;background:rgba(0,0,0,.18);margin-bottom:.85rem}
+.plz-itin-summary strong{color:#e6ecf3;margin-right:.25rem}
+.plz-itin-narrative{background:rgba(76,198,255,.07);border-left:3px solid #4cc6ff;padding:.7rem .95rem;border-radius:0 8px 8px 0;margin-bottom:1rem;font-size:.95rem}
+.plz-itin-cards{display:flex;gap:.7rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.35rem .15rem .9rem;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.plz-itin-cards::-webkit-scrollbar{height:6px}
+.plz-itin-cards::-webkit-scrollbar-thumb{background:rgba(255,255,255,.15);border-radius:3px}
+.plz-itin-card{flex:0 0 min(85%,300px);scroll-snap-align:start;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:.85rem;position:relative;transition:transform .2s,border-color .2s}
+.plz-itin-card:hover{border-color:rgba(255,255,255,.25);transform:translateY(-2px)}
+.plz-itin-card .plz-itin-time{font-size:.76rem;color:rgba(230,236,243,.65);font-weight:600;letter-spacing:.04em}
+.plz-itin-card .plz-itin-cat{position:absolute;top:.65rem;right:.75rem;font-size:1.25rem;opacity:.85}
+.plz-itin-card h3{font-size:1rem;margin:.3rem 0 .25rem;color:#e6ecf3}
+.plz-itin-card .plz-itin-tip{font-size:.85rem;color:rgba(230,236,243,.7);margin:.25rem 0 .65rem;line-height:1.4}
+.plz-itin-card[data-type="sight"]{border-left:3px solid #4cc6ff}
+.plz-itin-card[data-type="gastro"]{border-left:3px solid #ffae5c;background:rgba(255,174,92,.05)}
+.plz-itin-card[data-type="quiet"]{border-left:3px solid #c084fc;background:rgba(192,132,252,.05)}
+.plz-itin-card[data-type="shopping"]{border-left:3px solid #f472b6;background:rgba(244,114,182,.05)}
+.plz-itin-links{display:flex;flex-wrap:wrap;gap:.32rem;align-items:center;margin-top:.45rem}
+.plz-itin-nav{display:inline-flex;align-items:center;gap:.4rem;font-size:.8rem;padding:.38rem .65rem;border-radius:7px;background:rgba(76,198,255,.15);color:#4cc6ff;text-decoration:none;border:1px solid rgba(76,198,255,.3);font-weight:500}
+.plz-itin-nav:hover{background:rgba(76,198,255,.25)}
+.plz-itin-link{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:7px;background:rgba(255,255,255,.06);text-decoration:none;font-size:.95rem;border:1px solid rgba(255,255,255,.12);transition:all .15s}
+.plz-itin-link:hover{background:rgba(255,255,255,.14);transform:translateY(-1px)}
+.plz-itin-hop{flex:0 0 74px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:rgba(230,236,243,.65);font-size:.72rem;text-align:center;opacity:.75}
+.plz-itin-hop strong{display:block;font-size:1rem;color:#e6ecf3;margin-bottom:.1rem}
+.plz-itin-tips{margin-top:1rem;background:rgba(255,193,7,.06);border:1px solid rgba(255,193,7,.2);border-radius:9px;padding:.7rem .9rem}
+.plz-itin-tips h3{margin:0 0 .35rem;color:#ffd54f;font-size:.92rem}
+.plz-itin-tips ul{margin:0;padding-left:1.15rem;font-size:.86rem;color:rgba(230,236,243,.7)}
+.plz-itin-tips li{margin:.18rem 0}
+[data-mode-content]:not(.active){display:none}
+.plz-itin-resources{margin:1.4rem 0;border-radius:14px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);padding:1.1rem}
+.plz-itin-resources h2{margin:0 0 .25rem;font-size:1.2rem}
+.plz-itin-res-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:.55rem;margin-bottom:1rem}
+.plz-itin-res-cell{display:flex;align-items:center;gap:.55rem;padding:.6rem .75rem;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:9px;text-decoration:none;color:#e6ecf3;font-size:.86rem;transition:all .15s}
+.plz-itin-res-cell:hover{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.3);transform:translateY(-1px)}
+.plz-itin-res-icon{font-size:1.15rem}
+.plz-itin-info-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:.7rem;margin-top:.5rem}
+.plz-itin-info{background:rgba(76,198,255,.05);border:1px solid rgba(76,198,255,.2);border-radius:9px;padding:.7rem .9rem}
+.plz-itin-info h3{margin:0 0 .3rem;font-size:.92rem;color:#4cc6ff}
+.plz-itin-info p{margin:0;font-size:.86rem;color:rgba(230,236,243,.7);line-height:1.5}
+.plz-itin-warn{background:rgba(255,107,107,.05);border-color:rgba(255,107,107,.25)}
+.plz-itin-warn h3{color:#ff8a8a}
+@media (max-width:600px){.plz-itin{padding:.85rem}.plz-itin-card{flex:0 0 calc(100% - .6rem)}}
+.plz-itin-more{display:inline-block;position:relative}
+.plz-itin-more summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:7px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);font-size:.95rem;color:#e6ecf3}
+.plz-itin-more summary::-webkit-details-marker{display:none}
+.plz-itin-more summary:hover{background:rgba(255,255,255,.14)}
+.plz-itin-more[open] summary{background:#4cc6ff;color:#0a0f1c}
+.plz-itin-more[open]{display:inline-flex;flex-wrap:wrap;gap:.32rem;align-items:center}
+.plz-itin-more[open] .plz-itin-link{margin-left:.32rem}

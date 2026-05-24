@@ -492,6 +492,140 @@ function structuredData(
   return schemas.map((s) => `<script type="application/ld+json">${JSON.stringify(s)}</script>`).join("\n");
 }
 
+// City-itinerary loader + renderer (4-mode day trip widget).
+// Loads public/data/itinerary/<poi.id>.json if present.
+const _itinCache = new Map<string, any>();
+function loadItinerary(poiId: string): any | null {
+  if (_itinCache.has(poiId)) return _itinCache.get(poiId);
+  const p = path.resolve(process.cwd(), "public/data/itinerary", `${poiId}.json`);
+  let data: any = null;
+  try {
+    if (fs.existsSync(p)) data = JSON.parse(fs.readFileSync(p, "utf-8"));
+  } catch {}
+  _itinCache.set(poiId, data);
+  return data;
+}
+
+const ITIN_COPY: Record<Lang, Record<string, string>> = {
+  hu: { title: "Egy nap a városban", intro: "Válassz közlekedési módot, kapj konkrét napi tervet.", modeWalk: "🚶 Gyalog", modeBike: "🚲 Bicikli", modeCar: "🚗 Autó", modeTransit: "🚌 Tömegközl.", unitWalk: "séta", unitBike: "tekerés", unitCar: "vezetés", unitTransit: "út", places: "hely", tipsHeading: "💡 Helyi tippek", moreTipsHeading: "⭐ További tippek", navHere: "Útvonal", navTo: "Odamenni", resTitle: "🧰 Eszközök kéznél", resIntro: "Minden, ami a látogatáshoz kellhet — egy kattintással.", bestTime: "📅 Mikor érdemes jönni", warnings: "⚠️ Hol legyél óvatos", langTips: "🗣️ Nyelvi gyorstipp" },
+  de: { title: "Ein Tag in der Stadt", intro: "Wähle ein Verkehrsmittel, erhalte einen konkreten Tagesplan.", modeWalk: "🚶 Zu Fuß", modeBike: "🚲 Fahrrad", modeCar: "🚗 Auto", modeTransit: "🚌 ÖPNV", unitWalk: "Strecke", unitBike: "Strecke", unitCar: "Strecke", unitTransit: "Weg", places: "Orte", tipsHeading: "💡 Lokale Tipps", moreTipsHeading: "⭐ Weitere Tipps", navHere: "Route", navTo: "Hingelangen", resTitle: "🧰 Werkzeuge zur Hand", resIntro: "Alles, was du für den Besuch brauchst — ein Klick entfernt.", bestTime: "📅 Beste Reisezeit", warnings: "⚠️ Wo Vorsicht geboten ist", langTips: "🗣️ Sprach-Schnelltipp" },
+  en: { title: "A day in the city", intro: "Pick a travel mode, get a concrete day plan.", modeWalk: "🚶 Walking", modeBike: "🚲 Bike", modeCar: "🚗 Car", modeTransit: "🚌 Transit", unitWalk: "walk", unitBike: "ride", unitCar: "drive", unitTransit: "trip", places: "places", tipsHeading: "💡 Local tips", moreTipsHeading: "⭐ More picks", navHere: "Route", navTo: "Go here", resTitle: "🧰 Tools at hand", resIntro: "Everything you need for the visit — one click away.", bestTime: "📅 Best time to visit", warnings: "⚠️ Where to be careful", langTips: "🗣️ Language quick-tip" },
+  ro: { title: "O zi în oraș", intro: "Alege un mod de transport, primește un plan concret.", modeWalk: "🚶 Pe jos", modeBike: "🚲 Bicicletă", modeCar: "🚗 Mașină", modeTransit: "🚌 Transport public", unitWalk: "mers", unitBike: "ciclism", unitCar: "condus", unitTransit: "drum", places: "locuri", tipsHeading: "💡 Sfaturi locale", moreTipsHeading: "⭐ Sugestii suplimentare", navHere: "Traseu", navTo: "Du-te aici", resTitle: "🧰 Instrumente la îndemână", resIntro: "Tot ce ai nevoie pentru vizită — la un clic distanță.", bestTime: "📅 Când să vizitezi", warnings: "⚠️ Unde să fii atent", langTips: "🗣️ Sfaturi rapide de limbă" },
+  fr: { title: "Une journée dans la ville", intro: "Choisis ton mode de transport, reçois un plan concret.", modeWalk: "🚶 À pied", modeBike: "🚲 Vélo", modeCar: "🚗 Voiture", modeTransit: "🚌 Transports", unitWalk: "marche", unitBike: "vélo", unitCar: "route", unitTransit: "trajet", places: "lieux", tipsHeading: "💡 Conseils locaux", moreTipsHeading: "⭐ Autres recommandations", navHere: "Itinéraire", navTo: "S'y rendre", resTitle: "🧰 Outils à portée de main", resIntro: "Tout ce qu'il faut pour la visite — en un clic.", bestTime: "📅 Quand y aller", warnings: "⚠️ Où faire attention", langTips: "🗣️ Astuce linguistique" },
+  tr: { title: "Şehirde bir gün", intro: "Ulaşım modunu seç, somut bir günlük plan al.", modeWalk: "🚶 Yürüyerek", modeBike: "🚲 Bisiklet", modeCar: "🚗 Araba", modeTransit: "🚌 Toplu taşıma", unitWalk: "yürüyüş", unitBike: "sürüş", unitCar: "yolculuk", unitTransit: "yolculuk", places: "yer", tipsHeading: "💡 Yerel ipuçları", moreTipsHeading: "⭐ Daha fazla öneri", navHere: "Rota", navTo: "Buraya git", resTitle: "🧰 Elinizin altında", resIntro: "Ziyaret için gereken her şey — bir tık uzakta.", bestTime: "📅 Ne zaman gidilmeli", warnings: "⚠️ Nerede dikkatli olunmalı", langTips: "🗣️ Dil ipucu" },
+};
+const TRAVEL_MODE: Record<string, string> = { walk: "walking", bike: "bicycling", car: "driving", transit: "transit" };
+const CAT_ICON: Record<string, string> = { square: "📍", historical: "🏛️", religious: "⛪", museum: "🎨", park: "🏞️", gastro: "🍽️", panorama: "🌅" };
+
+function renderCityItinerary(poi: POI, lang: Lang): string {
+  const data = loadItinerary(poi.id);
+  if (!data || !data.modes) return "";
+  const C = ITIN_COPY[lang] || ITIN_COPY.en;
+  const modeKeys = ["walk", "bike", "car", "transit"] as const;
+  const modeLabels: Record<string, string> = { walk: C.modeWalk, bike: C.modeBike, car: C.modeCar, transit: C.modeTransit };
+  const unitLabels: Record<string, string> = { walk: C.unitWalk, bike: C.unitBike, car: C.unitCar, transit: C.unitTransit };
+
+  function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
+    const tip = (s.tip_5lang || {})[lang] || "";
+    const tm = TRAVEL_MODE[mode] || "driving";
+    const [lat, lon] = s.coords;
+    const gmaps = prevCoords
+      ? `https://www.google.com/maps/dir/?api=1&origin=${prevCoords[0]},${prevCoords[1]}&destination=${lat},${lon}&travelmode=${tm}`
+      : `https://www.google.com/maps/dir/?api=1&destination=${lat},${lon}&travelmode=${tm}`;
+    const navLabel = i === 0 ? C.navTo : C.navHere;
+    const links = s.links || {};
+    const wiki = (links.wikipedia || {})[lang] || (links.wikipedia || {}).en;
+    const icon = CAT_ICON[s.category] || "📍";
+    // Visible (3 fő link): GMaps Directions [nofollow], Wikipedia [dofollow], Street View [nofollow]
+    const visibleBtns: string[] = [`<a class="plz-itin-nav" href="${gmaps}" target="_blank" rel="nofollow noopener">🧭 ${navLabel}</a>`];
+    if (wiki) visibleBtns.push(`<a class="plz-itin-link" href="${wiki}" target="_blank" rel="noopener" title="Wikipedia">📚</a>`);
+    if (links.street_view) visibleBtns.push(`<a class="plz-itin-link" href="${links.street_view}" target="_blank" rel="nofollow noopener" title="Street View">👁️</a>`);
+    // Hidden behind <details>: Place [nofollow], OSM [dofollow], Tickets [sponsored], TripAdvisor [sponsored]
+    const moreBtns: string[] = [];
+    if (links.gmaps_place) moreBtns.push(`<a class="plz-itin-link" href="${links.gmaps_place}" target="_blank" rel="nofollow noopener" title="GMaps Place">📍</a>`);
+    if (links.osm) moreBtns.push(`<a class="plz-itin-link" href="${links.osm}" target="_blank" rel="noopener" title="OpenStreetMap">🗺️</a>`);
+    if (links.getyourguide) moreBtns.push(`<a class="plz-itin-link" href="${links.getyourguide}" target="_blank" rel="sponsored nofollow noopener" title="Tickets">🎟️</a>`);
+    if (links.tripadvisor) moreBtns.push(`<a class="plz-itin-link" href="${links.tripadvisor}" target="_blank" rel="sponsored nofollow noopener" title="TripAdvisor">⭐</a>`);
+    const moreHtml = moreBtns.length ? `<details class="plz-itin-more"><summary>🔗</summary>${moreBtns.join("")}</details>` : "";
+    return `<div class="plz-itin-card" data-type="sight"><div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(s.name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
+  }
+
+  function renderExtras(picks: any, kind: string): string {
+    const arr = (picks || {})[lang] || [];
+    if (!arr.length) return "";
+    return arr.map((it: any) => {
+      const emoji = it.emoji || ({ gastro: "🍽️", shopping: "🛍️", quiet: "🧘" } as any)[kind] || "•";
+      return `<div class="plz-itin-card" data-type="${kind}"><div class="plz-itin-cat">${emoji}</div><h3>${escapeHtml(it.name || "")}</h3><div class="plz-itin-tip">${escapeHtml(it.tip || "")}</div></div>`;
+    }).join("");
+  }
+
+  const modeBlocks = modeKeys.map((m, idx) => {
+    const md = data.modes[m]; if (!md) return "";
+    const nar = (md.narrative_4lang || {})[lang] || "";
+    const stops = md.stops || [];
+    let prev: [number, number] | null = null;
+    const stopCards = stops.map((s: any, i: number) => {
+      const hopHtml = i > 0 && s.hop_from_prev_min ? `<div class="plz-itin-hop"><strong>${modeLabels[m].split(" ")[0]} ${s.hop_from_prev_min}'</strong>${s.hop_from_prev_km} km</div>` : "";
+      const card = renderStopCard(s, i, prev, m);
+      prev = s.coords;
+      return hopHtml + card;
+    }).join("");
+    const gastro = renderExtras(md.gastro_picks, "gastro");
+    const quiet = renderExtras(md.quiet_picks, "quiet");
+    const shopping = renderExtras(md.shopping_picks, "shopping");
+    const extras = [gastro, quiet, shopping].filter(Boolean).join("");
+    const tipsArr = (md.tips || {})[lang] || [];
+    const tipsHtml = tipsArr.length ? `<div class="plz-itin-tips"><h3>${C.tipsHeading}</h3><ul>${tipsArr.map((t: string) => `<li>${escapeHtml(t)}</li>`).join("")}</ul></div>` : "";
+    const extrasBlock = extras ? `<h3 style="margin-top:1.6rem">${C.moreTipsHeading}</h3><div class="plz-itin-cards plz-itin-extras">${extras}</div>` : "";
+    return `<div data-mode-content="${m}" class="${idx === 0 ? "active" : ""}"><div class="plz-itin-summary"><span><strong>${md.start}→${md.end_estimate}</strong></span><span><strong>${md.total_km} km</strong> ${unitLabels[m]}</span><span><strong>${md.stop_count}</strong> ${C.places}</span></div><p class="plz-itin-narrative">${escapeHtml(nar)}</p><div class="plz-itin-cards">${stopCards}</div>${extrasBlock}${tipsHtml}</div>`;
+  }).join("");
+
+  const modeButtons = modeKeys.map((m, i) => `<button data-mode="${m}" aria-selected="${i === 0}">${modeLabels[m]}</button>`).join("");
+
+  // Resources block
+  const er = data.external_resources || {};
+  // rel-policy per resource type:
+  //   "follow"    = topic-relevant, valuable (Wikipedia/OSM/tourism office/city card/events)
+  //   "nofollow"  = utility, not commercial-juice (transit menetrend, parking-map, webcam)
+  //   "sponsored" = commercial affiliate (Booking/Skyscanner/GYG/TheFork/Tiqets)
+  type RelKind = "follow" | "nofollow" | "sponsored";
+  const resRows: Array<[string, string, string, RelKind]> = [
+    ["transit_official", "🚇", "Transit", "nofollow"],
+    ["transit_app", "🗺️", "Citymapper", "nofollow"],
+    ["bike_share", "🚲", "Bike share", "nofollow"],
+    ["parking_real_time", "🅿️", "Parking", "nofollow"],
+    ["parking_map", "🅿️", "Parkopedia", "nofollow"],
+    ["city_card", "🎫", "City Card", "follow"],
+    ["museum_tickets", "🎟️", "Tickets", "sponsored"],
+    ["restaurants_booking", "🍽️", "TheFork", "sponsored"],
+    ["tourism_office", "ℹ️", "Tourism office", "follow"],
+    ["events", "🎉", "Events", "follow"],
+    ["webcam", "📹", "Webcam", "nofollow"],
+    ["hotels", "🏨", "Booking", "sponsored"],
+    ["flights", "✈️", "Flights", "sponsored"],
+  ];
+  const relAttr = (k: RelKind) =>
+    k === "follow" ? "noopener"
+    : k === "sponsored" ? "sponsored nofollow noopener"
+    : "nofollow noopener";
+  const resCells = resRows.map(([k, emoji, label, rk]) => {
+    const u = er[k]; if (!u || typeof u !== "string") return "";
+    return `<a class="plz-itin-res-cell" href="${escapeHtml(u)}" target="_blank" rel="${relAttr(rk)}"><span class="plz-itin-res-icon">${emoji}</span><span>${escapeHtml(label)}</span></a>`;
+  }).filter(Boolean).join("");
+  const resGrid = resCells ? `<div class="plz-itin-res-grid">${resCells}</div>` : "";
+  const best = (er.best_time_to_visit || {})[lang] || "";
+  const warn = (er.neighborhood_warnings || {})[lang] || "";
+  const langT = (er.language_tips || {})[lang] || "";
+  const infoBlocks: string[] = [];
+  if (best) infoBlocks.push(`<div class="plz-itin-info"><h3>${C.bestTime}</h3><p>${escapeHtml(best)}</p></div>`);
+  if (warn) infoBlocks.push(`<div class="plz-itin-info plz-itin-warn"><h3>${C.warnings}</h3><p>${escapeHtml(warn)}</p></div>`);
+  if (langT) infoBlocks.push(`<div class="plz-itin-info"><h3>${C.langTips}</h3><p>${escapeHtml(langT)}</p></div>`);
+  const resourcesHtml = (resGrid || infoBlocks.length) ? `<section class="plz-itin-resources"><h2>${C.resTitle}</h2><p style="color:var(--muted);font-size:.9rem;margin:0 0 .8rem">${C.resIntro}</p>${resGrid}<div class="plz-itin-info-grid">${infoBlocks.join("")}</div></section>` : "";
+
+  return `<section class="plz-itin" id="plz-itin"><div class="plz-itin-header"><h2>📅 ${C.title}</h2></div><p style="color:var(--muted);margin:0 0 .6rem">${C.intro}</p><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${modeBlocks}</section>${resourcesHtml}
+<script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var bs=r.querySelectorAll('[data-mode]'),cs=document.querySelectorAll('[data-mode-content]');bs.forEach(function(b){b.addEventListener('click',function(){var m=b.dataset.mode;bs.forEach(function(x){x.setAttribute('aria-selected',x===b?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.modeContent===m)})})})})();</script>`;
+}
+
 function renderHtml(poi: POI, lang: Lang): string | null {
   if (!poi.parent) return null;
   const name = getLocalized(poi.name, lang) ?? poi.id;
@@ -851,6 +985,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${gameCtaHtml}
   ${faqHtml}
   ${sightsHtml}
+  ${renderCityItinerary(poi, lang)}
   ${nearbyHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>

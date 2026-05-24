@@ -1,0 +1,2063 @@
+{
+  "city_id": "lyon",
+  "city_name_fr": "Lyon",
+  "anchor": {
+    "name": "Place Bellecour",
+    "coords": [
+      45.7578,
+      4.8324
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:59",
+      "duration_h": 5.0,
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Bellecour",
+          "category": "square",
+          "coords": [
+            45.7578,
+            4.8324
+          ],
+          "arrive_at": "09:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "fr": "Rendez-vous sous la queue du cheval de la statue de Louis XIV, le point de ralliement des Lyonnais.",
+            "de": "Treffen Sie sich unter dem Pferdeschwanz der Statue Ludwigs XIV., dem Treffpunkt der Lyoner.",
+            "hu": "Találkozz a helyiekkel XIV. Lajos lovasszobránál, a ló farka alatt, ahogy a lyoniak szokták.",
+            "ro": "Întâlniți-vă sub coada calului statuii lui Ludovic al XIV-lea, punctul de reper al localnicilor.",
+            "en": "Meet under the horse's tail of the Louis XIV statue, the classic local meeting point."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7578,4.8324&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20Bellecour%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7578&mlon=4.8324#map=17/45.7578/4.8324",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20Bellecour%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20Bellecour%20Lyon"
+          }
+        },
+        {
+          "name": "Vieux Lyon (Saint-Jean)",
+          "category": "historical",
+          "coords": [
+            45.7619,
+            4.8268
+          ],
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "fr": "Poussez les grandes portes en bois pour découvrir les traboules, passages secrets Renaissance.",
+            "de": "Öffnen Sie die großen Holztüren, um die Traboules, geheime Passagen der Renaissance, zu entdecken.",
+            "hu": "Nyomd meg a nagy kapukat, hogy felfedezd a traboule-okat, a reneszánsz titkos átjáróit.",
+            "ro": "Împingeți ușile mari de lemn pentru a descoperi traboule-le, pasaje secrete din Renaștere.",
+            "en": "Push open the large wooden doors to discover the traboules, secret Renaissance passageways."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7619,4.8268&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7619&mlon=4.8268#map=17/45.7619/4.8268",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon"
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de Fourvière",
+          "category": "religious",
+          "coords": [
+            45.7622,
+            4.8222
+          ],
+          "arrive_at": "10:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "fr": "Ne manquez pas la vue panoramique sur toute la ville et les Alpes depuis l'esplanade derrière.",
+            "de": "Verpassen Sie nicht den Panoramablick auf die Stadt und die Alpen von der Esplanade dahinter.",
+            "hu": "Ne hagyd ki a panorámát az egész városra és az Alpokra a bazilika mögötti teraszról.",
+            "ro": "Nu ratați vederea panoramică asupra orașului și a Alpilor de pe esplanada din spate.",
+            "en": "Don't miss the panoramic view of the entire city and the Alps from the terrace behind."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7622,4.8222&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7622&mlon=4.8222#map=17/45.7622/4.8222",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Théâtre antique de Fourvière",
+          "category": "historical",
+          "coords": [
+            45.7607,
+            4.8202
+          ],
+          "arrive_at": "11:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "fr": "Asseyez-vous sur les gradins millénaires pour un moment de calme hors du temps.",
+            "de": "Setzen Sie sich auf die jahrtausendealten Stufen für einen Moment zeitloser Ruhe.",
+            "hu": "Ülj le az évezredes lépcsőkre egy pillanatnyi időtlen nyugalomért.",
+            "ro": "Așezați-vă pe treptele milenare pentru un moment de liniște în afara timpului.",
+            "en": "Sit on the ancient stone steps for a timeless moment of quiet contemplation."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7607,4.8202&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7607&mlon=4.8202#map=17/45.7607/4.8202",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Place des Terreaux + Hôtel de Ville",
+          "category": "square",
+          "coords": [
+            45.7676,
+            4.8336
+          ],
+          "arrive_at": "12:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.29,
+          "tip_5lang": {
+            "fr": "Admirez la fontaine de Bartholdi, le même sculpteur qui a créé la Statue de la Liberté.",
+            "de": "Bewundern Sie den Bartholdi-Brunnen vom Schöpfer der Freiheitsstatue.",
+            "hu": "Csodáld meg a Bartholdi-kutat, amelyet a Szabadság-szobor alkotója készített.",
+            "ro": "Admirați fântâna lui Bartholdi, creată de același sculptor ca și Statuia Libertății.",
+            "en": "Admire the Bartholdi fountain, created by the same sculptor who designed the Statue of Liberty."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7676,4.8336&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7676&mlon=4.8336#map=17/45.7676/4.8336",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon"
+          }
+        },
+        {
+          "name": "Traboules (Croix-Rousse)",
+          "category": "historical",
+          "coords": [
+            45.7728,
+            4.8302
+          ],
+          "arrive_at": "13:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "fr": "Cherchez la Cour des Voraces, la plus célèbre traboule à escalier monumental de la colline.",
+            "de": "Suchen Sie den Cour des Voraces, die berühmteste Traboule mit monumentaler Treppe auf dem Hügel.",
+            "hu": "Keresd meg a Cour des Voraces-t, a domb leghíresebb monumentális lépcsőházas átjáróját.",
+            "ro": "Căutați Cour des Voraces, cea mai celebră traboule cu scară monumentală de pe deal.",
+            "en": "Look for the Cour des Voraces, the hill's most famous traboule with its monumental staircase."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7728,4.8302&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7728&mlon=4.8302#map=17/45.7728/4.8302",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Traboules%20%28Croix-Rousse%29%20Lyon"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "fr": "Commencez votre journée sur la vaste Place Bellecour avant de traverser la Saône pour vous perdre dans les ruelles médiévales du Vieux Lyon. En fin de matinée, montez vers la colline de Fourvière pour admirer la basilique et les vestiges romains. L'après-midi est idéal pour découvrir la majestueuse Place des Terreaux et explorer les traboules secrètes de la Croix-Rousse. Terminez par un dîner authentique dans un bouchon traditionnel.",
+        "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Place Bellecour, bevor Sie die Saône überqueren, um sich in den mittelalterlichen Gassen von Vieux Lyon zu verlieren. Am späten Vormittag steigen Sie zum Fourvière-Hügel hinauf, um die Basilika und die römischen Ruinen zu bewundern. Der Nachmittag eignet sich ideal, um den majestätischen Place des Terreaux zu entdecken und die geheimen Traboules von Croix-Rousse zu erkunden. Beenden Sie den Tag mit einem Abendessen in einem traditionellen Bouchon.",
+        "hu": "Kezdd a napot a tágas Place Bellecour téren, majd kelj át a Saône folyón, hogy elmerülj Vieux Lyon középkori utcáiban. Késő délelőtt kapaszkodj fel a Fourvière-dombra a bazilikához és a római romokhoz. Délután fedezd fel a fenséges Place des Terreaux-t és a Croix-Rousse negyed titkos átjáróit, a traboule-okat. A napot zárd egy autentikus vacsorával egy hagyományos lyoni bouchon étteremben.",
+        "ro": "Începeți ziua în vasta Place Bellecour înainte de a traversa Saône pentru a vă pierde pe străduțele medievale din Vieux Lyon. La sfârșitul dimineții, urcați pe dealul Fourvière pentru a admira basilica și vestigiile romane. După-amiaza este ideală pentru a descoperi maiestuoasa Place des Terreaux și a explora traboule-le secrete din Croix-Rousse. Încheiați cu o cină autentică într-un „bouchon” tradițional.",
+        "en": "Start your day at the vast Place Bellecour before crossing the Saône to lose yourself in the medieval streets of Vieux Lyon. In the late morning, head up Fourvière hill to admire the basilica and Roman ruins. The afternoon is perfect for discovering the majestic Place des Terreaux and exploring the secret traboules of Croix-Rousse. Finish with an authentic dinner in a traditional lyonnais bouchon."
+      },
+      "gastro_picks": {
+        "fr": [
+          {
+            "name": "Bouchon Le Garet",
+            "tip": "Un cadre historique pour goûter le tablier de sapeur et la cervelle de canut."
+          },
+          {
+            "name": "Café des Fédérations",
+            "tip": "L'institution pour la quenelle de brochet sauce Nantua et le saucisson brioché."
+          },
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "La meilleure tarte à la praline rouge du Vieux Lyon, fondante et craquante."
+          }
+        ],
+        "de": [
+          {
+            "name": "Bouchon Le Garet",
+            "tip": "Ein historischer Ort, um Tablier de Sapeur und Cervelle de Canut zu probieren."
+          },
+          {
+            "name": "Café des Fédérations",
+            "tip": "Die Institution für Hechtklößchen mit Nantua-Sauce und Saucisson Brioché."
+          },
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Die beste Tarte à la Praline in Vieux Lyon, zartschmelzend und knusprig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouchon Le Garet",
+            "tip": "Történelmi környezet a tablier de sapeur és a cervelle de canut megkóstolásához."
+          },
+          {
+            "name": "Café des Fédérations",
+            "tip": "A legjobb hely a csuka-gombóchoz (quenelle) és a briósban sült kolbászhoz."
+          },
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Vieux Lyon legjobb piros pralinés tortája, egyszerre omlós és ropogós."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouchon Le Garet",
+            "tip": "Un cadru istoric pentru a gusta tablier de sapeur și cervelle de canut."
+          },
+          {
+            "name": "Café des Fédérations",
+            "tip": "Instituția pentru quenelle de brochet cu sos Nantua și saucisson brioché."
+          },
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Cea mai bună tartă cu praline roșii din Vieux Lyon, fondantă și crocantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouchon Le Garet",
+            "tip": "A historic setting to taste traditional tablier de sapeur and cervelle de canut."
+          },
+          {
+            "name": "Café des Fédérations",
+            "tip": "The place to go for pike quenelles with Nantua sauce and sausage in brioche."
+          },
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "The best red praline tart in Old Lyon, perfectly melting and crunchy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "fr": [
+          {
+            "name": "Jardin du Musée des Beaux-Arts",
+            "tip": "Un cloître paisible avec des statues, parfait pour une pause lecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place Bellevue",
+            "tip": "Une vue imprenable sur les toits de Lyon et les Alpes au loin.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "tip": "Un parc caché avec une vue plongeante sur la place Bellecour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "de": [
+          {
+            "name": "Jardin du Musée des Beaux-Arts",
+            "tip": "Ein friedlicher Kreuzgang mit Statuen, perfekt für eine Lesepause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place Bellevue",
+            "tip": "Ein atemberaubender Blick auf die Dächer von Lyon und die Alpen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "tip": "Ein versteckter Park mit Blick direkt hinunter auf den Place Bellecour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Musée des Beaux-Arts",
+            "tip": "Békés kolostorkert szobrokkal, tökéletes egy olvasási szünethez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place Bellevue",
+            "tip": "Lenyűgöző kilátás Lyon háztetőire és a távoli Alpokra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "tip": "Rejtett park, ahonnan közvetlenül a Bellecour térre látsz rá.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Musée des Beaux-Arts",
+            "tip": "O mănăstire liniștită cu statui, perfectă pentru o pauză de lectură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place Bellevue",
+            "tip": "O vedere superbă asupra acoperișurilor Lyonului și a Alpilor în depărtare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "tip": "Un parc ascuns cu o vedere plonjantă asupra pieței Bellecour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Musée des Beaux-Arts",
+            "tip": "A peaceful cloister with statues, perfect for a reading break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place Bellevue",
+            "tip": "An incredible view over Lyon's rooftops and the Alps in the distance.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "tip": "A hidden park with a plunging view over Place Bellecour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "fr": [
+          {
+            "name": "Brochier Soieries",
+            "tip": "L'endroit idéal pour acheter de la soie lyonnaise authentique."
+          },
+          {
+            "name": "Maison Sève",
+            "tip": "Chocolatier célèbre pour ses pralines rouges et ses macarons."
+          }
+        ],
+        "de": [
+          {
+            "name": "Brochier Soieries",
+            "tip": "Der ideale Ort, um authentische Lyoner Seide zu kaufen."
+          },
+          {
+            "name": "Maison Sève",
+            "tip": "Berühmter Chocolatier, bekannt für rote Pralinen und Macarons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brochier Soieries",
+            "tip": "Az ideális hely eredeti lyoni selyemvásárláshoz."
+          },
+          {
+            "name": "Maison Sève",
+            "tip": "Híres csokoládébolt, különlegességük a piros praliné és a macaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brochier Soieries",
+            "tip": "Locul ideal pentru a cumpăra mătase autentică de Lyon."
+          },
+          {
+            "name": "Maison Sève",
+            "tip": "Ciocolatier celebru pentru pralinele sale roșii și macarons."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brochier Soieries",
+            "tip": "The ideal place to buy authentic Lyonnais silk products."
+          },
+          {
+            "name": "Maison Sève",
+            "tip": "Famous chocolatier known for red pralines and macarons."
+          }
+        ]
+      },
+      "tips": {
+        "fr": [
+          "Portez des chaussures confortables, les pavés du Vieux Lyon sont impitoyables.",
+          "Beaucoup de bouchons traditionnels sont fermés le dimanche et le lundi.",
+          "N'hésitez pas à pousser les portes de traboules marquées d'un bouton poussoir."
+        ],
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster in Vieux Lyon ist gnadenlos.",
+          "Viele traditionelle Bouchons sind sonntags und montags geschlossen.",
+          "Drücken Sie ruhig an den Traboule-Türen mit dem speziellen Druckknopf."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, Vieux Lyon macskakövei nem ismernek kegyelmet.",
+          "Sok hagyományos bouchon zárva tart vasárnap és hétfőn.",
+          "Bátran nyomd meg a traboule-kapukon található nyitógombot (bouton poussoir)."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavajul din Vieux Lyon este nemilos.",
+          "Multe „bouchon” tradiționale sunt închise duminica și lunea.",
+          "Nu ezitați să apăsați butoanele de deschidere de pe porțile traboule-lor."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones in Old Lyon are unforgiving.",
+          "Many traditional bouchon restaurants are closed on Sundays and Mondays.",
+          "Feel free to push doors marked with a small bronze 'bouton poussoir'."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "duration_h": 6.7,
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place Bellecour",
+          "category": "square",
+          "coords": [
+            45.7578,
+            4.8324
+          ],
+          "arrive_at": "09:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "fr": "Stationnez votre Vélo'v ici, c'est l'un des plus grands hubs de la ville.",
+            "de": "Parken Sie Ihr Vélo'v hier, es ist einer der größten Hubs der Stadt.",
+            "hu": "Itt tedd le vagy vedd fel a Vélo'v biciklidet, ez a város egyik legnagyobb csomópontja.",
+            "ro": "Parcați-vă bicicleta Vélo'v aici, este unul dintre cele mai mari centre din oraș.",
+            "en": "Park or pick up your Vélo'v here; it's one of the city's largest bike hubs."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7578,4.8324&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20Bellecour%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7578&mlon=4.8324#map=17/45.7578/4.8324",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20Bellecour%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20Bellecour%20Lyon"
+          }
+        },
+        {
+          "name": "Vieux Lyon (Saint-Jean)",
+          "category": "historical",
+          "coords": [
+            45.7619,
+            4.8268
+          ],
+          "arrive_at": "09:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "fr": "Attachez bien votre vélo, les rues pavées sont étroites et fréquentées.",
+            "de": "Schließen Sie Ihr Rad gut ab, die Kopfsteinpflasterstraßen sind eng und belebt.",
+            "hu": "Zárd le jól a biciklidet, a macskaköves utcák szűkek és zsúfoltak.",
+            "ro": "Legați-vă bine bicicleta, străzile pavate sunt înguste și aglomerate.",
+            "en": "Lock your bike securely; the cobblestone streets are narrow and busy."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7619,4.8268&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7619&mlon=4.8268#map=17/45.7619/4.8268",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon"
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de Fourvière",
+          "category": "religious",
+          "coords": [
+            45.7622,
+            4.8222
+          ],
+          "arrive_at": "10:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "fr": "Le funiculaire accepte les vélos si vous voulez éviter la montée raide.",
+            "de": "Die Seilbahn akzeptiert Fahrräder, falls Sie den steilen Aufstieg vermeiden wollen.",
+            "hu": "A siklóra (funiculaire) felviheted a biciklidet, ha elkerülnéd a meredek emelkedőt.",
+            "ro": "Funicularul acceptă biciclete dacă doriți să evitați urcarea abruptă.",
+            "en": "The funicular accepts bikes if you want to avoid the steep uphill climb."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7622,4.8222&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7622&mlon=4.8222#map=17/45.7622/4.8222",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Théâtre antique de Fourvière",
+          "category": "historical",
+          "coords": [
+            45.7607,
+            4.8202
+          ],
+          "arrive_at": "11:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "fr": "Profitez de la descente vers Saint-Just pour une vue magnifique sur la ville.",
+            "de": "Genießen Sie die Abfahrt nach Saint-Just für einen herrlichen Blick auf die Stadt.",
+            "hu": "Élvezd a gurulást Saint-Just felé, közben gyönyörű kilátás nyílik a városra.",
+            "ro": "Profitați de coborârea spre Saint-Just pentru o vedere magnifică asupra orașului.",
+            "en": "Enjoy the downhill ride towards Saint-Just for a magnificent city view."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7607,4.8202&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7607&mlon=4.8202#map=17/45.7607/4.8202",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "category": "museum",
+          "coords": [
+            45.7672,
+            4.8333
+          ],
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "fr": "Garez-vous sur la place des Terreaux juste à côté de l'entrée du musée.",
+            "de": "Parken Sie auf dem Place des Terreaux direkt neben dem Museuseingang.",
+            "hu": "Parkolj a Place des Terreaux-n, közvetlenül a múzeum bejárata mellett.",
+            "ro": "Parcați în Place des Terreaux, chiar lângă intrarea în muzeu.",
+            "en": "Park your bike at Place des Terreaux right next to the museum entrance."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7672,4.8333&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7672&mlon=4.8333#map=17/45.7672/4.8333",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon"
+          }
+        },
+        {
+          "name": "Place des Terreaux + Hôtel de Ville",
+          "category": "square",
+          "coords": [
+            45.7676,
+            4.8336
+          ],
+          "arrive_at": "13:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "fr": "Attention aux jets d'eau de la fontaine qui peuvent surprendre les cyclistes.",
+            "de": "Achtung vor den Wasserfontänen, die Radfahrer überraschen können.",
+            "hu": "Vigyázz a szökőkút vízsugaraival, amelyek meglephetik a bicikliseket.",
+            "ro": "Atenție la jeturile de apă ale fântânii care pot surprinde bicicliștii.",
+            "en": "Watch out for the fountain's water jets which can surprise passing cyclists."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7676,4.8336&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7676&mlon=4.8336#map=17/45.7676/4.8336",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon"
+          }
+        },
+        {
+          "name": "Traboules (Croix-Rousse)",
+          "category": "historical",
+          "coords": [
+            45.7728,
+            4.8302
+          ],
+          "arrive_at": "14:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "fr": "Montez par la piste cyclable du tunnel de la Croix-Rousse pour une expérience unique.",
+            "de": "Fahren Sie durch den Croix-Rousse-Tunnel-Radweg für ein einzigartiges Erlebnis.",
+            "hu": "Tekerj fel a Croix-Rousse alagút kerékpárútján az egyedülálló élményért.",
+            "ro": "Urcați pe pista de biciclete din tunelul Croix-Rousse pentru o experiență unică.",
+            "en": "Ride up through the dedicated Croix-Rousse tunnel bike path for a unique experience."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7728,4.8302&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7728&mlon=4.8302#map=17/45.7728/4.8302",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Traboules%20%28Croix-Rousse%29%20Lyon"
+          }
+        },
+        {
+          "name": "Halles Paul Bocuse",
+          "category": "gastro",
+          "coords": [
+            45.7626,
+            4.8527
+          ],
+          "arrive_at": "14:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "fr": "De nombreux arceaux vélos sont disponibles devant l'entrée principale du cours Lafayette.",
+            "de": "Zahlreiche Fahrradbügel befinden sich vor dem Haupteingang am Cours Lafayette.",
+            "hu": "Számos kerékpártároló található a főbejárat előtt a Cours Lafayette-en.",
+            "ro": "Numeroase suporturi pentru biciclete sunt disponibile în fața intrării principale.",
+            "en": "Plenty of bike racks are available in front of the main entrance on Cours Lafayette."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7626,4.8527&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Halles%20Paul%20Bocuse%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7626&mlon=4.8527#map=17/45.7626/4.8527",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Halles%20Paul%20Bocuse%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Halles%20Paul%20Bocuse%20Lyon"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "fr": "Pédalez de Bellecour vers les quais de Saône pour rejoindre le Vieux Lyon. Après l'effort de la montée à Fourvière, redescendez vers la Presqu'île pour une dose de culture au Musée des Beaux-Arts. Explorez les pentes de la Croix-Rousse à vélo avant de foncer vers les Halles Paul Bocuse pour une pause gourmande bien méritée. Profitez des pistes cyclables le long des fleuves pour circuler rapidement.",
+        "de": "Radeln Sie von Bellecour zu den Saône-Ufern, um Vieux Lyon zu erreichen. Nach der Anstrengung des Aufstiegs nach Fourvière fahren Sie zurück zur Presqu'île für eine Dosis Kultur im Musée des Beaux-Arts. Erkunden Sie die Hänge von Croix-Rousse mit dem Rad, bevor Sie zu den Halles Paul Bocuse für eine wohlverdiente Schlemmerpause eilen. Nutzen Sie die Radwege entlang der Flüsse für schnelles Vorankommen.",
+        "hu": "Tekerj el a Bellecour térről a Saône partjára, hogy elérd Vieux Lyont. A Fourvière-dombra való felkapaszkodás után gurulj le a Presqu'île-re egy kis kultúráért a Szépművészeti Múzeumba. Fedezd fel kerékpárral a Croix-Rousse lankáit, majd vedd az irányt a Halles Paul Bocuse felé egy megérdemelt ínyenc szünetre. Használd a folyóparti kerékpárutakat a gyors haladáshoz.",
+        "ro": "Pedalați de la Bellecour spre cheiurile Saône pentru a ajunge în Vieux Lyon. După efortul urcării la Fourvière, coborâți spre Presqu'île pentru o doză de cultură la Muzeul de Arte Frumoase. Explorați pantele din Croix-Rousse cu bicicleta înainte de a porni spre Halles Paul Bocuse pentru o pauză gurmandă binemeritată. Profitați de pistele ciclabile de-a lungul fluviilor pentru a circula rapid.",
+        "en": "Cycle from Bellecour to the Saône quays to reach Old Lyon. After the effort of climbing Fourvière, glide back down to Presqu'île for a dose of culture at the Fine Arts Museum. Explore the slopes of Croix-Rousse by bike before heading to Halles Paul Bocuse for a well-deserved gourmet break. Take advantage of the riverside cycle paths to move quickly across the city."
+      },
+      "gastro_picks": {
+        "fr": [
+          {
+            "name": "Sève (Halles Paul Bocuse)",
+            "tip": "Incontournable pour leurs pralines roses et le chocolat pierre des monts d'Or."
+          },
+          {
+            "name": "Maison Victoire",
+            "tip": "Parfait pour un sandwich gourmet ou une fougasse à emporter sur les quais."
+          },
+          {
+            "name": "Chez Maman",
+            "tip": "Cuisine familiale lyonnaise rapide et généreuse pour cyclistes affamés."
+          }
+        ],
+        "de": [
+          {
+            "name": "Sève (Halles Paul Bocuse)",
+            "tip": "Ein Muss für ihre rosa Pralinen und die Schokolade 'Pierre des Monts d'Or'."
+          },
+          {
+            "name": "Maison Victoire",
+            "tip": "Perfekt für ein Gourmet-Sandwich oder eine Fougasse zum Mitnehmen."
+          },
+          {
+            "name": "Chez Maman",
+            "tip": "Schnelle und großzügige Lyoner Familienküche für hungrige Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sève (Halles Paul Bocuse)",
+            "tip": "Kihagyhatatlan a rózsaszín pralinéjuk és a különleges csokoládéjuk miatt."
+          },
+          {
+            "name": "Maison Victoire",
+            "tip": "Tökéletes egy ínyenc szendvicshez, amit a folyóparton ehetsz meg."
+          },
+          {
+            "name": "Chez Maman",
+            "tip": "Házias lyoni konyha, gyors és bőséges fogások éhes bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sève (Halles Paul Bocuse)",
+            "tip": "Esențial pentru pralinele roz și ciocolata 'pierre des monts d'Or'."
+          },
+          {
+            "name": "Maison Victoire",
+            "tip": "Perfect pentru un sandviș gourmet sau o fougasse de luat pe cheiuri."
+          },
+          {
+            "name": "Chez Maman",
+            "tip": "Bucătărie familială rapidă și generoasă pentru bicicliști flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sève (Halles Paul Bocuse)",
+            "tip": "A must-try for their pink pralines and 'Pierre des Monts d'Or' chocolate."
+          },
+          {
+            "name": "Maison Victoire",
+            "tip": "Perfect for a gourmet sandwich or fougasse to eat by the river."
+          },
+          {
+            "name": "Chez Maman",
+            "tip": "Fast and generous Lyonnais family cooking for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "fr": [
+          {
+            "name": "Berges du Rhône",
+            "tip": "Pistes cyclables larges et terrasses sur péniches pour une pause au fil de l'eau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Tête d'Or (Lac)",
+            "tip": "Faites le tour du lac à vélo, l'ombre des arbres est salvatrice en été.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esplanade de la Grande Côte",
+            "tip": "Une vue plongeante sur Lyon après avoir grimpé les pentes de la Croix-Rousse.",
+            "emoji": "🏞️"
+          }
+        ],
+        "de": [
+          {
+            "name": "Berges du Rhône",
+            "tip": "Breite Radwege und Terrassen auf Hausbooten für eine Pause am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Tête d'Or (See)",
+            "tip": "Radeln Sie um den See, der Schatten der Bäume ist im Sommer herrlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esplanade de la Grande Côte",
+            "tip": "Ein Blick über Lyon nach dem Erklimmen der Hänge von Croix-Rousse.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berges du Rhône",
+            "tip": "Széles kerékpárutak és teraszos lakóhajók a folyóparti pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Tête d'Or (tó)",
+            "tip": "Tekerd körbe a tavat, a fák árnyéka életmentő a nyári hőségben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esplanade de la Grande Côte",
+            "tip": "Pazar kilátás nyílik Lyonra, miután feltekertél a Croix-Rousse lankáin.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berges du Rhône",
+            "tip": "Piste largi și terase pe penișe pentru o pauză la malul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Tête d'Or (Lac)",
+            "tip": "Faceți turul lacului cu bicicleta, umbra arborilor este salvatoare vara.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esplanade de la Grande Côte",
+            "tip": "O vedere panoramică asupra Lyonului după urcarea pantelor din Croix-Rousse.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Berges du Rhône",
+            "tip": "Wide cycle paths and barge terraces for a break by the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Tête d'Or (Lake)",
+            "tip": "Cycle around the lake; the shade of the trees is a lifesaver in summer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esplanade de la Grande Côte",
+            "tip": "A stunning view over Lyon after climbing the Croix-Rousse slopes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "fr": [
+          {
+            "name": "Village des Créateurs",
+            "tip": "Boutiques de mode et design locales sur les pentes de la Croix-Rousse."
+          },
+          {
+            "name": "Le Grand Réfectoire (Grand Hôtel-Dieu)",
+            "tip": "Boutiques haut de gamme et artisanat dans un cadre historique rénové."
+          }
+        ],
+        "de": [
+          {
+            "name": "Village des Créateurs",
+            "tip": "Lokale Mode- und Designboutiquen an den Hängen von Croix-Rousse."
+          },
+          {
+            "name": "Le Grand Réfectoire (Grand Hôtel-Dieu)",
+            "tip": "Hochwertige Geschäfte und Kunsthandwerk in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village des Créateurs",
+            "tip": "Helyi divat- és dizájnerüzletek a Croix-Rousse lankáin."
+          },
+          {
+            "name": "Le Grand Réfectoire (Grand Hôtel-Dieu)",
+            "tip": "Exkluzív üzletek és kézműves termékek egy felújított történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Village des Créateurs",
+            "tip": "Magazine de modă și design local pe pantele din Croix-Rousse."
+          },
+          {
+            "name": "Le Grand Réfectoire (Grand Hôtel-Dieu)",
+            "tip": "Magazine de lux și artizanat într-un cadru istoric renovat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village des Créateurs",
+            "tip": "Local fashion and design boutiques on the slopes of Croix-Rousse."
+          },
+          {
+            "name": "Le Grand Réfectoire (Grand Hôtel-Dieu)",
+            "tip": "High-end shops and crafts in a beautifully renovated historic setting."
+          }
+        ]
+      },
+      "tips": {
+        "fr": [
+          "Utilisez le système Vélo'v, le pass journée est très abordable (environ 1.80€).",
+          "Les berges du Rhône et de la Saône offrent des pistes cyclables sans voitures.",
+          "Faites attention aux rails du tramway qui peuvent bloquer les roues de vélo."
+        ],
+        "de": [
+          "Nutzen Sie das Vélo'v-System, der Tagespass ist sehr günstig (ca. 1,80€).",
+          "Die Ufer von Rhône und Saône bieten autofreie Radwege quer durch die Stadt.",
+          "Achten Sie auf die Straßenbahnschienen, die Fahrradreifen einklemmen können."
+        ],
+        "hu": [
+          "Használd a Vélo'v rendszert, a napijegy nagyon olcsó (kb. 1.80€).",
+          "A Rhône és a Saône partján autómentes kerékpárutak várnak.",
+          "Vigyázz a villamossínekre, amelyekbe könnyen beszorulhat a kerékpár kereke."
+        ],
+        "ro": [
+          "Utilizați sistemul Vélo'v, permisul de o zi este foarte accesibil (cca. 1,80€).",
+          "Malurile Rhône și Saône oferă piste ciclabile fără mașini.",
+          "Atenție la șinele de tramvai care pot bloca roțile bicicletei."
+        ],
+        "en": [
+          "Use the Vélo'v bike-sharing system; a day pass is very cheap (around €1.80).",
+          "The banks of the Rhône and Saône offer car-free cycle paths across the city.",
+          "Be careful of tram tracks, as they can easily catch bike wheels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 22,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "duration_h": 9.8,
+      "total_km": 10.9,
+      "stop_count": 10,
+      "stops": [
+        {
+          "name": "Place Bellecour",
+          "category": "square",
+          "coords": [
+            45.7578,
+            4.8324
+          ],
+          "arrive_at": "09:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "fr": "Utilisez le parking souterrain Indigo Bellecour, très central mais souvent complet.",
+            "de": "Nutzen Sie das Indigo Bellecour Parkhaus, sehr zentral, aber oft voll.",
+            "hu": "Használd az Indigo Bellecour mélygarázst, nagyon központi, de gyakran megtelik.",
+            "ro": "Utilizați parcarea subterană Indigo Bellecour, centrală, dar adesea plină.",
+            "en": "Use the Indigo Bellecour underground parking; very central but fills up fast."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7578,4.8324&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20Bellecour%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7578&mlon=4.8324#map=17/45.7578/4.8324",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20Bellecour%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20Bellecour%20Lyon"
+          }
+        },
+        {
+          "name": "Vieux Lyon (Saint-Jean)",
+          "category": "historical",
+          "coords": [
+            45.7619,
+            4.8268
+          ],
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "fr": "Évitez d'entrer dans le Vieux Lyon en voiture, préférez le parking Saint-Georges.",
+            "de": "Fahren Sie nicht mit dem Auto nach Vieux Lyon, nutzen Sie das Parkhaus Saint-Georges.",
+            "hu": "Ne hajts be autóval Vieux Lyonba, inkább válaszd a Saint-Georges parkolót.",
+            "ro": "Evitați să intrați în Vieux Lyon cu mașina, preferați parcarea Saint-Georges.",
+            "en": "Avoid driving into Old Lyon; the Saint-Georges parking lot is your best bet."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7619,4.8268&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7619&mlon=4.8268#map=17/45.7619/4.8268",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon"
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de Fourvière",
+          "category": "religious",
+          "coords": [
+            45.7622,
+            4.8222
+          ],
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "fr": "Un petit parking gratuit se trouve derrière la basilique, arrivez tôt.",
+            "de": "Ein kleiner kostenloser Parkplatz befindet sich hinter der Basilika, kommen Sie früh.",
+            "hu": "A bazilika mögött található egy kis ingyenes parkoló, érkezz korán.",
+            "ro": "O mică parcare gratuită se află în spatele basilicii, veniți devreme.",
+            "en": "A small free parking lot is located behind the basilica; arrive early."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7622,4.8222&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7622&mlon=4.8222#map=17/45.7622/4.8222",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Théâtre antique de Fourvière",
+          "category": "historical",
+          "coords": [
+            45.7607,
+            4.8202
+          ],
+          "arrive_at": "11:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "fr": "Le stationnement dans les rues de Saint-Just est zone bleue, vérifiez votre disque.",
+            "de": "Parken in den Straßen von Saint-Just ist Blaue Zone, prüfen Sie Ihre Parkscheibe.",
+            "hu": "Saint-Just utcáin kék zónás a parkolás, ellenőrizd a parkolótárcsádat.",
+            "ro": "Parcarea pe străzile din Saint-Just este zonă albastră, verificați discul.",
+            "en": "Parking in the streets of Saint-Just is 'blue zone'; check your parking disc."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7607,4.8202&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7607&mlon=4.8202#map=17/45.7607/4.8202",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "category": "museum",
+          "coords": [
+            45.7672,
+            4.8333
+          ],
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "fr": "Garez-vous au parking Terreaux pour un accès direct à la place.",
+            "de": "Parken Sie im Parkhaus Terreaux für direkten Zugang zum Platz.",
+            "hu": "Parkolj a Terreaux parkolóházban a tér közvetlen eléréséhez.",
+            "ro": "Parcați în parcarea Terreaux pentru acces direct în piață.",
+            "en": "Park at the Terreaux car park for direct access to the square."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7672,4.8333&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7672&mlon=4.8333#map=17/45.7672/4.8333",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Beaux-Arts"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Mus%C3%A9e%20des%20Beaux-Arts%20Lyon"
+          }
+        },
+        {
+          "name": "Place des Terreaux + Hôtel de Ville",
+          "category": "square",
+          "coords": [
+            45.7676,
+            4.8336
+          ],
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "fr": "Zone piétonne stricte autour de la place, surveillez les panneaux.",
+            "de": "Strikte Fußgängerzone um den Platz, achten Sie auf die Schilder.",
+            "hu": "Szigorú sétálóövezet a tér körül, figyeld a jelzőtáblákat.",
+            "ro": "Zonă pietonală strictă în jurul pieței, urmăriți indicatoarele.",
+            "en": "Strict pedestrian zone around the square; watch the signs closely."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7676,4.8336&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7676&mlon=4.8336#map=17/45.7676/4.8336",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon"
+          }
+        },
+        {
+          "name": "Traboules (Croix-Rousse)",
+          "category": "historical",
+          "coords": [
+            45.7728,
+            4.8302
+          ],
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "fr": "Parking Gros Caillou recommandé pour explorer le haut de la colline.",
+            "de": "Parkplatz Gros Caillou empfohlen, um den oberen Teil des Hügels zu erkunden.",
+            "hu": "A Gros Caillou parkolót ajánljuk a dombtető felfedezéséhez.",
+            "ro": "Parcarea Gros Caillou este recomandată pentru a explora partea de sus a dealului.",
+            "en": "The Gros Caillou car park is recommended for exploring the top of the hill."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7728,4.8302&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7728&mlon=4.8302#map=17/45.7728/4.8302",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Traboules%20%28Croix-Rousse%29%20Lyon"
+          }
+        },
+        {
+          "name": "Parc de la Tête d'Or",
+          "category": "park",
+          "coords": [
+            45.777,
+            4.853
+          ],
+          "arrive_at": "14:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "fr": "Utilisez le parking de la Cité Internationale pour un accès facile au parc.",
+            "de": "Nutzen Sie das Parkhaus Cité Internationale für einfachen Zugang zum Park.",
+            "hu": "Használd a Cité Internationale parkolóját a park könnyű eléréséhez.",
+            "ro": "Utilizați parcarea de la Cité Internationale pentru acces facil în parc.",
+            "en": "Use the Cité Internationale car park for easy access to the park gates."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.777,4.853&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Parc%20de%20la%20T%C3%AAte%20d%27Or%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.777&mlon=4.853#map=17/45.777/4.853",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Parc%20de%20la%20T%C3%AAte%20d%27Or",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Parc%20de%20la%20T%C3%AAte%20d%27Or",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Parc%20de%20la%20T%C3%AAte%20d%27Or",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Parc%20de%20la%20T%C3%AAte%20d%27Or",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Parc%20de%20la%20T%C3%AAte%20d%27Or"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Parc%20de%20la%20T%C3%AAte%20d%27Or%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Parc%20de%20la%20T%C3%AAte%20d%27Or%20Lyon"
+          }
+        },
+        {
+          "name": "Halles Paul Bocuse",
+          "category": "gastro",
+          "coords": [
+            45.7626,
+            4.8527
+          ],
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "fr": "Le parking des Halles est juste en face, pratique pour charger vos achats.",
+            "de": "Das Parkhaus der Hallen ist direkt gegenüber, praktisch für Ihre Einkäufe.",
+            "hu": "A Halles parkolóháza közvetlenül szemben van, praktikus a bevásárláshoz.",
+            "ro": "Parcarea Halles este chiar vizavi, practică pentru a încărca cumpărăturile.",
+            "en": "The Halles parking lot is right across the street, handy for loading groceries."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7626,4.8527&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Halles%20Paul%20Bocuse%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7626&mlon=4.8527#map=17/45.7626/4.8527",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Halles%20Paul%20Bocuse"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Halles%20Paul%20Bocuse%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Halles%20Paul%20Bocuse%20Lyon"
+          }
+        },
+        {
+          "name": "Musée des Confluences",
+          "category": "museum",
+          "coords": [
+            45.7325,
+            4.8181
+          ],
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.29,
+          "tip_5lang": {
+            "fr": "Parking dédié au musée, accès facile depuis l'autoroute A7.",
+            "de": "Eigener Museumsparkplatz, einfache Zufahrt über die Autobahn A7.",
+            "hu": "A múzeumnak saját parkolója van, könnyen megközelíthető az A7-es autópályáról.",
+            "ro": "Parcare dedicată muzeului, acces facil de pe autostrada A7.",
+            "en": "Dedicated museum parking available; easy access from the A7 motorway."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7325,4.8181&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Confluences%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7325&mlon=4.8181#map=17/45.7325/4.8181",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Confluences",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Confluences",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Confluences",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Confluences",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mus%C3%A9e%20des%20Confluences"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Mus%C3%A9e%20des%20Confluences%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Mus%C3%A9e%20des%20Confluences%20Lyon"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "fr": "Garez-vous près de Bellecour pour explorer le centre historique avant de monter sans effort à Fourvière. L'après-midi, évadez-vous vers le Parc de la Tête d'Or pour une balade au vert, puis faites vos provisions aux Halles Paul Bocuse. Terminez la journée au Musée des Confluences pour admirer son architecture futuriste. La voiture est idéale pour rejoindre les points périphériques comme les musées modernes.",
+        "de": "Parken Sie in der Nähe von Bellecour, um das historische Zentrum zu erkunden, bevor Sie mühelos nach Fourvière hinauffahren. Am Nachmittag entfliehen Sie zum Parc de la Tête d'Or für einen Spaziergang im Grünen und kaufen dann in den Halles Paul Bocuse ein. Beenden Sie den Tag am Musée des Confluences, um die futuristische Architektur zu bewundern. Das Auto ist ideal, um Außenpunkte wie moderne Museen zu erreichen.",
+        "hu": "Parkolj a Bellecour közelében a történelmi központ felfedezéséhez, majd hajts fel kényelmesen a Fourvière-dombra. Délután látogass el a Parc de la Tête d'Or-ba egy zöld sétára, majd tankolj fel finomságokkal a Halles Paul Bocuse piacon. A napot a Musée des Confluencesnél zárd, megcsodálva annak futurista építészetét. Az autó ideális a távolabbi pontok, például a modern múzeumok eléréséhez.",
+        "ro": "Parcați lângă Bellecour pentru a explora centrul istoric înainte de a urca fără efort la Fourvière. După-amiaza, evadați în Parcul Tête d'Or pentru o plimbare în natură, apoi faceți aprovizionarea la Halles Paul Bocuse. Încheiați ziua la Muzeul Confluences pentru a admira arhitectura sa futuristă. Mașina este ideală pentru a ajunge la punctele periferice, cum ar fi muzeele moderne.",
+        "en": "Park near Bellecour to explore the historic center before driving effortlessly up to Fourvière. In the afternoon, escape to Parc de la Tête d'Or for a walk in the green, then stock up on delicacies at Halles Paul Bocuse. Finish the day at the Musée des Confluences to admire its futuristic architecture. A car is perfect for reaching outlying spots like the modern museums."
+      },
+      "gastro_picks": {
+        "fr": [
+          {
+            "name": "Bernachon",
+            "tip": "Chocolatier de légende, parfait pour acheter le 'Palet d'Or' en repartant."
+          },
+          {
+            "name": "Auberge du Pont de Collonges",
+            "tip": "Le temple de Paul Bocuse, à 15 min en voiture au nord de Lyon."
+          },
+          {
+            "name": "Brasserie Georges",
+            "tip": "Institution près de Perrache avec parking facile, célèbre pour sa choucroute."
+          }
+        ],
+        "de": [
+          {
+            "name": "Bernachon",
+            "tip": "Legendärer Chocolatier, perfekt um den 'Palet d'Or' mitzunehmen."
+          },
+          {
+            "name": "Auberge du Pont de Collonges",
+            "tip": "Der Tempel von Paul Bocuse, 15 Autominuten nördlich von Lyon."
+          },
+          {
+            "name": "Brasserie Georges",
+            "tip": "Institution bei Perrache mit Parkmöglichkeiten, berühmt für Sauerkraut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernachon",
+            "tip": "Legendás csokoládékészítő, érdemes megkóstolni a 'Palet d'Or'-t."
+          },
+          {
+            "name": "Auberge du Pont de Collonges",
+            "tip": "Paul Bocuse temploma, 15 perc autóval Lyontól északra."
+          },
+          {
+            "name": "Brasserie Georges",
+            "tip": "Klasszikus hely a Perrache mellett jó parkolással, híres a savanyú káposztájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bernachon",
+            "tip": "Ciocolatier de legendă, perfect pentru a cumpăra 'Palet d'Or'."
+          },
+          {
+            "name": "Auberge du Pont de Collonges",
+            "tip": "Templul lui Paul Bocuse, la 15 minute cu mașina la nord de Lyon."
+          },
+          {
+            "name": "Brasserie Georges",
+            "tip": "Instituție lângă Perrache cu parcare ușoară, celebră pentru choucroute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernachon",
+            "tip": "Legendary chocolatier, perfect for buying 'Palet d'Or' on your way out."
+          },
+          {
+            "name": "Auberge du Pont de Collonges",
+            "tip": "The Paul Bocuse temple, located 15 mins north of Lyon by car."
+          },
+          {
+            "name": "Brasserie Georges",
+            "tip": "Historic brasserie near Perrache with easy parking, famous for choucroute."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "fr": [
+          {
+            "name": "Île Barbe",
+            "tip": "Une île médiévale au milieu de la Saône, accessible en voiture en 10 min.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mont Cindre",
+            "tip": "Vue imprenable sur Lyon et les monts d'Or, idéal pour le coucher du soleil.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Parilly",
+            "tip": "Immense poumon vert en périphérie, très calme pour un pique-nique.",
+            "emoji": "🍃"
+          }
+        ],
+        "de": [
+          {
+            "name": "Île Barbe",
+            "tip": "Eine mittelalterliche Insel in der Saône, in 10 Min. mit dem Auto erreichbar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mont Cindre",
+            "tip": "Blick über Lyon und die Monts d'Or, ideal für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Parilly",
+            "tip": "Riesige grüne Lunge am Stadtrand, sehr ruhig für ein Picknick.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île Barbe",
+            "tip": "Középkori sziget a Saône közepén, autóval 10 perc alatt elérhető.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mont Cindre",
+            "tip": "Pazar kilátás Lyonra és a Monts d'Or-ra, tökéletes naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Parilly",
+            "tip": "Hatalmas zöldterület a külvárosban, nagyon nyugodt hely piknikezni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Île Barbe",
+            "tip": "O insulă medievală în mijlocul Saône, accesibilă în 10 min cu mașina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mont Cindre",
+            "tip": "Vedere superbă asupra Lyonului, ideală pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Parilly",
+            "tip": "Imens plămân verde la periferie, foarte liniștit pentru picnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Île Barbe",
+            "tip": "A medieval island in the middle of the Saône, a 10-min drive away.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mont Cindre",
+            "tip": "Stunning view over Lyon and the Monts d'Or, perfect for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Parilly",
+            "tip": "Huge green lung on the outskirts, very quiet for a picnic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "fr": [
+          {
+            "name": "Centre Commercial Confluence",
+            "tip": "Shopping moderne avec parking géant et architecture à ciel ouvert."
+          },
+          {
+            "name": "Marché Quai Saint-Antoine",
+            "tip": "Marché alimentaire réputé, arrivez avant 10h pour vous garer."
+          }
+        ],
+        "de": [
+          {
+            "name": "Centre Commercial Confluence",
+            "tip": "Modernes Shopping mit riesigem Parkhaus und Open-Air-Architektur."
+          },
+          {
+            "name": "Marché Quai Saint-Antoine",
+            "tip": "Berühmter Lebensmittelmarkt, parken Sie vor 10 Uhr morgens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Confluence",
+            "tip": "Modern bevásárlóközpont hatalmas parkolóval és nyitott építészettel."
+          },
+          {
+            "name": "Marché Quai Saint-Antoine",
+            "tip": "Híres élelmiszerpiac, érkezz 10 óra előtt, ha parkolni akarsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Confluence",
+            "tip": "Shopping modern cu parcare uriașă și arhitectură în aer liber."
+          },
+          {
+            "name": "Marché Quai Saint-Antoine",
+            "tip": "Piață alimentară renumită, veniți înainte de ora 10 pentru parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Confluence",
+            "tip": "Modern shopping center with a huge car park and open-air design."
+          },
+          {
+            "name": "Marché Quai Saint-Antoine",
+            "tip": "Renowned food market; arrive before 10 AM to find parking nearby."
+          }
+        ]
+      },
+      "tips": {
+        "fr": [
+          "Utilisez les parkings relais (P+R) si vous voulez éviter le centre-ville dense.",
+          "Le tunnel de Fourvière est souvent bouché, préférez le contournement par l'est.",
+          "Ne laissez rien de visible dans votre voiture, surtout dans les zones touristiques."
+        ],
+        "de": [
+          "Nutzen Sie die P+R Parkplätze, um die dichte Innenstadt zu vermeiden.",
+          "Der Fourvière-Tunnel ist oft verstopft, nutzen Sie die östliche Umgehung.",
+          "Lassen Sie nichts sichtbar im Auto liegen, besonders in Touristengebieten."
+        ],
+        "hu": [
+          "Használd a P+R parkolókat, ha elkerülnéd a zsúfolt belvárost.",
+          "A Fourvière-alagút gyakran bedugul, érdemes a keleti elkerülő utat választani.",
+          "Ne hagyj értéket az autóban látható helyen, különösen a turistaövezetekben."
+        ],
+        "ro": [
+          "Utilizați parcările de tip P+R pentru a evita centrul aglomerat.",
+          "Tunelul Fourvière este adesea blocat, preferați varianta de ocolire prin est.",
+          "Nu lăsați nimic vizibil în mașină, mai ales în zonele turistice."
+        ],
+        "en": [
+          "Use P+R (Park and Ride) lots to avoid the dense city center traffic.",
+          "The Fourvière tunnel is often congested; use the eastern bypass instead.",
+          "Never leave valuables visible in your car, especially in tourist areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "13:23",
+      "duration_h": 4.4,
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Bellecour",
+          "category": "square",
+          "coords": [
+            45.7578,
+            4.8324
+          ],
+          "arrive_at": "09:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "fr": "Station de métro Bellecour, croisement des lignes A et D, le coeur du réseau.",
+            "de": "Metrostation Bellecour, Kreuzung der Linien A und D, das Herz des Netzes.",
+            "hu": "Bellecour metrómegálló, az A és D vonalak találkozása, a hálózat szíve.",
+            "ro": "Stația de metrou Bellecour, intersecția liniilor A și D, inima rețelei.",
+            "en": "Bellecour metro station; junction of lines A and D and the heart of the network."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7578,4.8324&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20Bellecour%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7578&mlon=4.8324#map=17/45.7578/4.8324",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20Bellecour"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20Bellecour%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20Bellecour%20Lyon"
+          }
+        },
+        {
+          "name": "Vieux Lyon (Saint-Jean)",
+          "category": "historical",
+          "coords": [
+            45.7619,
+            4.8268
+          ],
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "fr": "Accès direct par le métro D, station Vieux Lyon - Cathédrale Saint-Jean.",
+            "de": "Direkter Zugang mit der Metro D, Station Vieux Lyon - Cathédrale Saint-Jean.",
+            "hu": "Közvetlen elérés a D metróval, Vieux Lyon - Cathédrale Saint-Jean megálló.",
+            "ro": "Acces direct cu metroul D, stația Vieux Lyon - Cathédrale Saint-Jean.",
+            "en": "Direct access via Metro D at the Vieux Lyon - Cathédrale Saint-Jean station."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7619,4.8268&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7619&mlon=4.8268#map=17/45.7619/4.8268",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Vieux%20Lyon%20%28Saint-Jean%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Vieux%20Lyon%20%28Saint-Jean%29%20Lyon"
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de Fourvière",
+          "category": "religious",
+          "coords": [
+            45.7622,
+            4.8222
+          ],
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "fr": "Prenez le funiculaire F2 (la Ficelle) depuis le métro Vieux Lyon.",
+            "de": "Nehmen Sie die Seilbahn F2 (La Ficelle) von der Metro Vieux Lyon.",
+            "hu": "Szállj fel az F2-es siklóra (La Ficelle) a Vieux Lyon metrómegállótól.",
+            "ro": "Luați funicularul F2 (la Ficelle) de la stația de metrou Vieux Lyon.",
+            "en": "Take the F2 funicular (locally called 'La Ficelle') from Vieux Lyon metro."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7622,4.8222&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7622&mlon=4.8222#map=17/45.7622/4.8222",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Théâtre antique de Fourvière",
+          "category": "historical",
+          "coords": [
+            45.7607,
+            4.8202
+          ],
+          "arrive_at": "11:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "fr": "Station de funiculaire F1 'Minimes - Théâtres Romains', juste à côté.",
+            "de": "Seilbahnstation F1 'Minimes - Théâtres Romains', direkt daneben.",
+            "hu": "F1-es sikló megálló: 'Minimes - Théâtres Romains', közvetlenül mellette.",
+            "ro": "Stația de funicular F1 'Minimes - Théâtres Romains', chiar alături.",
+            "en": "Get off at the F1 funicular station 'Minimes - Théâtres Romains', right next door."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7607,4.8202&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7607&mlon=4.8202#map=17/45.7607/4.8202",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Th%C3%A9%C3%A2tre%20antique%20de%20Fourvi%C3%A8re%20Lyon"
+          }
+        },
+        {
+          "name": "Place des Terreaux + Hôtel de Ville",
+          "category": "square",
+          "coords": [
+            45.7676,
+            4.8336
+          ],
+          "arrive_at": "12:03",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.29,
+          "tip_5lang": {
+            "fr": "Station de métro Hôtel de Ville - Louis Pradel sur la ligne A.",
+            "de": "Metrostation Hôtel de Ville - Louis Pradel auf der Linie A.",
+            "hu": "Hôtel de Ville - Louis Pradel metrómegálló az A vonalon.",
+            "ro": "Stația de metrou Hôtel de Ville - Louis Pradel pe linia A.",
+            "en": "Use the Hôtel de Ville - Louis Pradel metro station on Line A."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7676,4.8336&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7676&mlon=4.8336#map=17/45.7676/4.8336",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Place%20des%20Terreaux%20%2B%20H%C3%B4tel%20de%20Ville%20Lyon"
+          }
+        },
+        {
+          "name": "Traboules (Croix-Rousse)",
+          "category": "historical",
+          "coords": [
+            45.7728,
+            4.8302
+          ],
+          "arrive_at": "12:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "fr": "Prenez le métro C, un métro à crémaillère unique qui grimpe la colline.",
+            "de": "Nehmen Sie die Metro C, eine einzigartige Zahnradbahn, die den Hügel erklimmt.",
+            "hu": "Szállj fel a C metróra, ez egy egyedülálló fogaskerekű vasút, ami felvisz a dombra.",
+            "ro": "Luați metroul C, un metrou cu cremalieră unic care urcă dealul.",
+            "en": "Take Metro C, a unique rack-and-pinion metro line that climbs the hill."
+          },
+          "links": {
+            "street_view": "https://maps.google.com/?cbll=45.7728,4.8302&layer=c",
+            "gmaps_place": "https://www.google.com/maps/search/?api=1&query=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "osm": "https://www.openstreetmap.org/?mlat=45.7728&mlon=4.8302#map=17/45.7728/4.8302",
+            "wikipedia": {
+              "fr": "https://fr.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "de": "https://de.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "hu": "https://hu.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "ro": "https://ro.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29",
+              "en": "https://en.wikipedia.org/wiki/Special:Search?search=Traboules%20%28Croix-Rousse%29"
+            },
+            "getyourguide": "https://www.getyourguide.com/s/?q=Traboules%20%28Croix-Rousse%29%20Lyon",
+            "tripadvisor": "https://www.tripadvisor.com/Search?q=Traboules%20%28Croix-Rousse%29%20Lyon"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "fr": "Prenez le métro D jusqu'à Bellecour pour débuter. Traversez vers le Vieux Lyon puis empruntez le funiculaire emblématique pour monter à Fourvière sans effort. Redescendez vers la Presqu'île en bus ou métro pour explorer les Terreaux. Le réseau TCL est excellent pour naviguer entre les collines et les quartiers historiques. Finissez par une marche vers les traboules de la Croix-Rousse.",
+        "de": "Nehmen Sie die Metro D bis Bellecour zum Start. Überqueren Sie die Saône nach Vieux Lyon und nutzen Sie die berühmte Seilbahn nach Fourvière. Fahren Sie mit Bus oder Metro zurück zur Presqu'île, um Terreaux zu erkunden. Das TCL-Netz ist hervorragend, um zwischen den Hügeln und historischen Vierteln zu pendeln. Enden Sie mit einem Spaziergang zu den Traboules von Croix-Rousse.",
+        "hu": "Kezdj a D metróval a Bellecour térig. Menj át Vieux Lyonba, majd ülj fel az ikonikus siklóra (funiculaire), hogy fáradság nélkül feljuss a Fourvière-re. Busszal vagy metróval térj vissza a Presqu'île-re a Terreaux felfedezéséhez. A TCL hálózat kiváló a dombok és a történelmi negyedek közötti közlekedéshez. Végül sétálj el a Croix-Rousse traboule-jaihoz.",
+        "ro": "Luați metroul D până la Bellecour pentru a începe. Traversați spre Vieux Lyon, apoi folosiți funicularul emblematic pentru a urca la Fourvière fără efort. Reveniți spre Presqu'île cu autobuzul sau metroul pentru a explora Terreaux. Rețeaua TCL este excelentă pentru a naviga între dealuri și cartierele istorice. Încheiați cu o plimbare spre traboule-le din Croix-Rousse.",
+        "en": "Take Metro D to Bellecour to start your day. Cross over to Old Lyon and ride the iconic funicular to reach Fourvière effortlessly. Return to Presqu'île by bus or metro to explore the Terreaux area. The TCL network is excellent for navigating between the hills and historic districts. Finish with a walk to the secret traboules of Croix-Rousse."
+      },
+      "gastro_picks": {
+        "fr": [
+          {
+            "name": "Bouchon Les Lyonnais",
+            "tip": "Cuisine généreuse dans le Vieux Lyon, à deux pas de la station de métro."
+          },
+          {
+            "name": "Le Musée",
+            "tip": "Un bouchon authentique près de la station Cordeliers (Ligne A)."
+          },
+          {
+            "name": "Pralus",
+            "tip": "Faites la queue pour la Praluline, brioche aux pralines célèbre, près de l'Hôtel de Ville."
+          }
+        ],
+        "de": [
+          {
+            "name": "Bouchon Les Lyonnais",
+            "tip": "Herzhafte Küche in Vieux Lyon, nur zwei Schritte von der Metro entfernt."
+          },
+          {
+            "name": "Le Musée",
+            "tip": "Ein authentischer Bouchon in der Nähe der Station Cordeliers (Linie A)."
+          },
+          {
+            "name": "Pralus",
+            "tip": "Stehen Sie an für die Praluline, die berühmte Pralinen-Brioche bei Hôtel de Ville."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouchon Les Lyonnais",
+            "tip": "Bőséges fogások Vieux Lyonban, pár lépésre a metrómegállótól."
+          },
+          {
+            "name": "Le Musée",
+            "tip": "Autentikus bouchon a Cordeliers megálló közelében (A metró)."
+          },
+          {
+            "name": "Pralus",
+            "tip": "Állj sorba a Praluline-ért, a híres pralinés briósért a városháza közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouchon Les Lyonnais",
+            "tip": "Bucătărie generoasă în Vieux Lyon, la doi pași de stația de metrou."
+          },
+          {
+            "name": "Le Musée",
+            "tip": "Un bouchon autentic lângă stația Cordeliers (Linia A)."
+          },
+          {
+            "name": "Pralus",
+            "tip": "Stați la coadă pentru Praluline, celebra brioșă cu praline, lângă Hôtel de Ville."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouchon Les Lyonnais",
+            "tip": "Generous cooking in Old Lyon, just a few steps from the metro station."
+          },
+          {
+            "name": "Le Musée",
+            "tip": "An authentic bouchon located near the Cordeliers station (Line A)."
+          },
+          {
+            "name": "Pralus",
+            "tip": "Queue up for the Praluline, a famous pink praline brioche, near Hôtel de Ville."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "fr": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Un jardin extraordinaire en coquillages et pierres, près de la station Croix-Rousse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passerelle du Collège",
+            "tip": "Une passerelle piétonne sur le Rhône, magnifique pour voir les lumières de la ville.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quais de Saône (Saint-Antoine)",
+            "tip": "Promenade paisible au bord de l'eau, accessible via la station Cordeliers.",
+            "emoji": "🍃"
+          }
+        ],
+        "de": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Ein außergewöhnlicher Garten aus Muscheln und Steinen, nahe Croix-Rousse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passerelle du Collège",
+            "tip": "Eine Fußgängerbrücke über die Rhône, herrlich um die Stadtlichter zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quais de Saône (Saint-Antoine)",
+            "tip": "Friedlicher Spaziergang am Wasser, erreichbar über die Station Cordeliers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Különleges kert kagylókból és kövekből, a Croix-Rousse megálló közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passerelle du Collège",
+            "tip": "Gyalogoshíd a Rhône felett, csodás hely a város fényeinek megcsodálásához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quais de Saône (Saint-Antoine)",
+            "tip": "Békés sétány a vízparton, a Cordeliers megállótól könnyen elérhető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "O grădină extraordinară din scoici și pietre, lângă stația Croix-Rousse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passerelle du Collège",
+            "tip": "O pasarelă pietonală peste Rhône, magnifică pentru a vedea luminile orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quais de Saône (Saint-Antoine)",
+            "tip": "Promenadă liniștită la malul apei, accesibilă prin stația Cordeliers.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "An amazing garden made of shells and stones, near the Croix-Rousse station.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passerelle du Collège",
+            "tip": "A pedestrian bridge over the Rhône, beautiful for seeing the city lights.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quais de Saône (Saint-Antoine)",
+            "tip": "Peaceful riverside walk, accessible via the Cordeliers station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "fr": [
+          {
+            "name": "Rue de la République",
+            "tip": "La plus grande rue commerçante piétonne, entre Bellecour et Hôtel de Ville."
+          },
+          {
+            "name": "Boutique TCL (Bellecour)",
+            "tip": "Pour acheter des pass souvenirs et des cartes du réseau lyonnais."
+          }
+        ],
+        "de": [
+          {
+            "name": "Rue de la République",
+            "tip": "Die größte Fußgänger-Einkaufsstraße zwischen Bellecour und Hôtel de Ville."
+          },
+          {
+            "name": "Boutique TCL (Bellecour)",
+            "tip": "Zum Kauf von Souvenir-Passen und Karten des Lyoner Netzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la République",
+            "tip": "A legnagyobb sétáló-vásárlóutca a Bellecour és a városháza között."
+          },
+          {
+            "name": "Boutique TCL (Bellecour)",
+            "tip": "Itt vehetsz emlék-bérleteket és hálózati térképeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la République",
+            "tip": "Cea mai mare stradă comercială pietonală, între Bellecour și Hôtel de Ville."
+          },
+          {
+            "name": "Boutique TCL (Bellecour)",
+            "tip": "Pentru a cumpăra abonamente suvenir și hărți ale rețelei din Lyon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la République",
+            "tip": "The main pedestrian shopping street between Bellecour and Hôtel de Ville."
+          },
+          {
+            "name": "Boutique TCL (Bellecour)",
+            "tip": "Buy souvenir transit passes and maps of the Lyonnais network here."
+          }
+        ]
+      },
+      "tips": {
+        "fr": [
+          "Achetez un ticket '24h' (environ 6.20€) pour un accès illimité au réseau TCL.",
+          "Le même ticket est valable pour le métro, le bus, le tramway et le funiculaire.",
+          "Téléchargez l'application TCL pour les horaires en temps réel et les itinéraires."
+        ],
+        "de": [
+          "Kaufen Sie ein 24-Stunden-Ticket (ca. 6,20€) für unbegrenzten Zugang zum TCL-Netz.",
+          "Dasselbe Ticket gilt für Metro, Bus, Straßenbahn und Seilbahn.",
+          "Laden Sie die TCL-App für Echtzeit-Fahrpläne und Routenplanung herunter."
+        ],
+        "hu": [
+          "Vegyél 24 órás jegyet (kb. 6.20€), amivel korlátlanul használhatod a TCL hálózatot.",
+          "Ugyanaz a jegy érvényes metróra, buszra, villamosra és a siklóra is.",
+          "Töltsd le a TCL alkalmazást a valós idejű menetrendekhez és útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de '24h' (cca. 6,20€) pentru acces nelimitat la rețeaua TCL.",
+          "Același bilet este valabil pentru metrou, autobuz, tramvai și funicular.",
+          "Descărcați aplicația TCL pentru orare în timp real și itinerarii."
+        ],
+        "en": [
+          "Buy a '24h' ticket (around €6.20) for unlimited access to the TCL network.",
+          "The same ticket is valid for the metro, bus, tram, and funicular.",
+          "Download the TCL app for real-time schedules and route planning."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.tcl.fr",
+    "bike_share": "https://velov.grandlyon.com",
+    "parking_map": "https://en.parkopedia.com/parking/lyon/",
+    "city_card": "https://en.lyon-france.com/lyon-city-card",
+    "events": "https://www.sortiralyon.com",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/rhone/lyon.html",
+    "tourism_office": "https://en.lyon-france.com",
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lyon",
+    "flights": "https://www.skyscanner.net/transport/flights-to/lyon/",
+    "transit_app": "https://citymapper.com/lyon",
+    "restaurants_booking": "https://www.thefork.com/restaurants/lyon-c560684",
+    "museum_tickets": "https://www.getyourguide.com/lyon-l160",
+    "parking_real_time": "https://www.lyonparc-auto.com",
+    "language_tips": {
+      "fr": "Bonjour (Bonjour), Merci (Merci), L'addition s'il vous plaît (L'addition s'il vous plaît)",
+      "de": "Bonjour (Guten Tag), Merci (Danke), L'addition s'il vous plaît (Die Rechnung bitte)",
+      "hu": "Bonjour (Jó napot), Merci (Köszönöm), L'addition s'il vous plaît (A számlát kérem)",
+      "ro": "Bonjour (Bună ziua), Merci (Mulțumesc), L'addition s'il vous plaît (Nota, vă rog)",
+      "en": "Bonjour (Hello), Merci (Thank you), L'addition s'il vous plaît (The bill please)"
+    },
+    "best_time_to_visit": {
+      "fr": "Mai à septembre pour le climat, décembre pour la Fête des Lumières. Notez que de nombreux bouchons lyonnais traditionnels sont fermés le dimanche et le lundi.",
+      "de": "Mai bis September bietet das beste Wetter, während im Dezember das Lichterfest Millionen anzieht. Viele traditionelle Bouchons sind sonntags und montags geschlossen.",
+      "hu": "Május és szeptember között a legkellemesebb az időjárás, decemberben a Fényünnep (Fête des Lumières) vonz milliókat. A bouchonok vasárnap és hétfőn gyakran zárva tartanak.",
+      "ro": "Perioada mai-septembrie este ideală pentru vreme, iar în decembrie Festivalul Luminilor este spectaculos. Multe restaurante tipice (bouchons) sunt închise duminica și lunea.",
+      "en": "May to September offers the most pleasant weather, while December is famous for the Fête des Lumières. Be aware that many traditional bouchons are closed on Sundays and Mondays."
+    },
+    "neighborhood_warnings": {
+      "fr": "Ville sûre, mais soyez vigilant face aux pickpockets autour de la gare Part-Dieu. Dans le Vieux Lyon, ne laissez pas d'objets de valeur en évidence dans les zones touristiques.",
+      "de": "Generell sicher. Seien Sie am Bahnhof Part-Dieu wachsam gegenüber Taschendieben. Lassen Sie im touristischen Viertel Vieux Lyon keine Wertsachen unbeaufsichtigt.",
+      "hu": "Általában biztonságos város. A Part-Dieu pályaudvar környékén éjszaka legyél óvatos a zsebtolvajokkal. Vieux Lyon turistaövezet, ne hagyj értéket szem előtt.",
+      "ro": "Oraș sigur în general. Atenție la hoții de buzunare în zona gării Part-Dieu. În cartierul Vieux Lyon, nu lăsați obiecte de valoare la vedere în zonele aglomerate.",
+      "en": "Generally safe. Watch out for pickpockets around Part-Dieu station. In the touristy Vieux Lyon area, do not leave valuables unattended or clearly visible."
+    }
+  }
+}
