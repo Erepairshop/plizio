@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Residenz München",
+  "slug": "residenz-munchen",
+  "descriptionAdvanced": {
+    "de": "Die Münchner Residenz war über Jahrhunderte der politische und kulturelle Mittelpunkt Bayerns. Als ehemaliges Stadtschloss der bayerischen Herzöge, Kurfürsten und Könige aus dem Haus Wittelsbach ist sie heute der größte innerstädtische Schlosskomplex Deutschlands. Die Architektur vereint Stilelemente der Renaissance, des Barock, des Rokoko und des Klassizismus, was die lange Baugeschichte von 1385 bis ins 19. Jahrhundert widerspiegelt. Zu den herausragenden Räumlichkeiten gehört das Antiquarium, der größte und prächtigste Renaissancesaal nördlich der Alpen, der ursprünglich zur Aufstellung antiker Skulpturen diente. Ebenso beeindruckend ist die Reiche Kapelle und das Cuvilliés-Theater, ein Juwel des bayerischen Rokoko. Während des Zweiten Weltkriegs schwer beschädigt, wurde die Residenz in jahrzehntelanger Arbeit rekonstruiert und beherbergt heute das Residenzmuseum sowie die Schatzkammer mit den bayerischen Kroninsignien.",
+    "hu": "A müncheni Rezidencia évszázadokon át Bajorország politikai és kulturális központjaként szolgált. A Wittelsbach-ház hercegeinek, választófejedelmeinek és királyainak egykori városi palotája ma Németország legnagyobb belvárosi kastélykomplexuma. Építészeti stílusa a reneszánsz, a barokk, a rokokó és a klasszicizmus elemeit ötvözi, hűen tükrözve az 1385-től a 19. századig tartó folyamatos bővítéseket. A palota egyik leglátványosabb része az Antiquarium, az Alpoktól északra fekvő legnagyobb reneszánsz terem, amelyet eredetileg antik szobrok bemutatására terveztek. Kiemelkedő értéket képvisel a pazarul díszített Gazdag Kápolna és a Cuvilliés-színház, amely a bajor rokokó egyik legszebb alkotása. A második világháború pusztításai után évtizedekig tartó, aprólékos munkával állították helyre a komplexumot, amely ma a Rezidencia-múzeumnak és a bajor koronaékszereket őrző kincstárnak ad otthont.",
+    "ro": "Rezidența din München a fost, timp de secole, centrul politic și cultural al Bavariei. Fostul palat urban al ducilor, electorilor și regilor bavarezi din dinastia Wittelsbach reprezintă astăzi cel mai mare complex de palate intraurbane din Germania. Arhitectura sa îmbină armonios elemente de Renaștere, Baroc, Rococo și Clasicism, reflectând o istorie a construcției care se întinde din 1385 până în secolul al XIX-lea. Printre cele mai remarcabile încăperi se numără Antiquarium, cea mai mare și mai somptuoasă sală renascentistă la nord de Alpi, creată inițial pentru expunerea sculpturilor antice. De asemenea, Capela Bogată și Teatrul Cuvilliés sunt considerate bijuterii ale rococoului bavarez. Distrusă parțial în timpul celui de-al Doilea Război Mondial, Rezidența a fost reconstruită meticulos și găzduiește acum Muzeul Rezidenței și Tezaurul, unde sunt păstrate insignele coroanei bavareze.",
+    "en": "The Munich Residence served as the political and cultural heart of Bavaria for centuries. As the former city palace of the Wittelsbach dukes, electors, and kings, it stands today as Germany's largest city palace complex. Its architecture is a magnificent tapestry of Renaissance, Baroque, Rococo, and Neoclassical styles, reflecting a continuous building history from 1385 to the mid-19th century. One of its most legendary spaces is the Antiquarium, the largest and most lavish Renaissance hall north of the Alps, originally built to house an extensive collection of ancient sculptures. Other highlights include the ornate Court Chapel and the Cuvilliés Theatre, a masterpiece of Bavarian Rococo. Extensively damaged during World War II, the palace underwent decades of meticulous restoration. Today, it houses the Residence Museum and the Treasury, which protects the Bavarian crown jewels."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Größter innerstädtischer Schlosskomplex Deutschlands mit 10 Innenhöfen.",
+      "Das Antiquarium aus dem Jahr 1568 ist der größte Renaissancesaal nördlich der Alpen.",
+      "Die Schatzkammer beherbergt über 1.200 Exponate, darunter die bayerischen Kronjuwelen.",
+      "Im Zweiten Weltkrieg wurden ca. 90 % der Dachflächen der Residenz zerstört.",
+      "Der Komplex beherbergt heute über 130 Schauräume für Besucher.",
+      "Das Cuvilliés-Theater wurde 1751–1755 als reines Hoftheater erbaut."
+    ],
+    "hu": [
+      "Németország legnagyobb belvárosi palotakomplexuma 10 belső udvarral.",
+      "Az 1568-ból származó Antiquarium az Alpoktól északra fekvő legnagyobb reneszánsz terem.",
+      "A kincstár több mint 1200 kiállítási tárgyat, köztük a bajor koronaékszereket őrzi.",
+      "A második világháborúban a Rezidencia tetőfelületének mintegy 90%-a megsemmisült.",
+      "A komplexum ma több mint 130 látogatható díszteremmel rendelkezik.",
+      "A Cuvilliés-színház 1751–1755 között épült kizárólag udvari színházként."
+    ],
+    "ro": [
+      "Cel mai mare complex de palate urbane din Germania, având 10 curți interioare.",
+      "Antiquarium, construit în 1568, este cea mai mare sală renascentistă la nord de Alpi.",
+      "Tezaurul găzduiește peste 1.200 de exponate, inclusiv bijuteriile coroanei bavareze.",
+      "Aproximativ 90% din suprafața acoperișului a fost distrusă în al Doilea Război Mondial.",
+      "Complexul oferă astăzi acces vizitatorilor în peste 130 de săli de expoziție.",
+      "Teatrul Cuvilliés a fost construit între 1751 și 1755 ca teatru exclusiv de curte."
+    ],
+    "en": [
+      "Germany's largest city palace complex, featuring 10 distinct courtyards.",
+      "The Antiquarium, dating to 1568, is the largest Renaissance hall north of the Alps.",
+      "The Treasury displays over 1,200 items, including the Bavarian crown jewels.",
+      "Approximately 90% of the palace's roof area was destroyed during World War II.",
+      "The museum complex today features more than 130 rooms open to the public.",
+      "The Cuvilliés Theatre was built between 1751 and 1755 as a private court theater."
+    ]
+  },
+  "practical": {
+    "address": "Residenzstraße 1, 80333 München",
+    "openingHours": "Apr-Oct 09:00-18:00, Oct-Mar 10:00-17:00",
+    "entranceFee": "€10 Erwachsene (Residenzmuseum), €10 (Schatzkammer), €15 Kombi.",
+    "website": "https://www.residenz-muenchen.de",
+    "publicTransport": "Odeonsplatz (U3/U4/U5/U6)",
+    "parking": "Parkhaus Operngarage am Max-Joseph-Platz, ca. €5/Std.",
+    "accessibility": "Größtenteils barrierefrei zugänglich, Aufzüge und Rampen vorhanden.",
+    "photoRules": "Fotografieren ohne Blitz für private Zwecke erlaubt, kein Stativ.",
+    "bestTimeToVisit": "Direkt zur Öffnung am Morgen, um Reisegruppen zu entgehen.",
+    "audioGuide": "de, en, fr, it, es, ru, ja, zh"
+  }
+}

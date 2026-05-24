@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Groß St. Martin",
+  "slug": "gro-st-martin",
+  "descriptionAdvanced": {
+    "de": "Groß St. Martin ist eine der zwölf großen romanischen Kirchen Kölns und prägt mit ihrem monumentalen Vierungsturm das Bild der Altstadt am Rhein. Die Kirche wurde im 12. Jahrhundert auf den Fundamenten ehemaliger römischer Lagerhäuser errichtet und war über Jahrhunderte die Abteikirche eines bedeutenden Benediktinerklosters. Ihre Architektur gilt als herausragendes Beispiel für den rheinischen Kleeblattchor-Grundriss, bei dem die drei Apsiden eine harmonische Einheit bilden. Nach massiven Zerstörungen im Zweiten Weltkrieg wurde die Kirche in einem jahrzehntelangen Prozess bis 1985 originalgetreu rekonstruiert. Besonders der markante Turm mit seinen vier Ecktürmchen gilt als eines der wichtigsten Wahrzeichen der Stadt. Im Inneren herrscht eine schlichte, spirituelle Atmosphäre vor, die im bewussten Kontrast zum lebhaften Treiben der umliegenden Altstadtgassen steht. Die Krypta bietet faszinierende Einblicke in die römische Vergangenheit des Ortes, da hier antike Mauerreste und Becken einer Badeanlage freigelegt wurden. Heute wird die Kirche von der Monastischen Gemeinschaft von Jerusalem genutzt.",
+    "hu": "A Nagy Szent Márton-templom (Groß St. Martin) Köln tizenkét nagy román stílusú templomának egyike, amelynek hatalmas tornya az óváros Rajna-parti sziluettjének elmaradhatatlan része. A 12. században épült egykori római raktárépületek alapjaira, és évszázadokon át egy jelentős bencés apátság központja volt. Építészeti különlegessége a Rajna-vidéki stílusú, lóhere alakú szentélykialakítás, ahol a három apszis harmonikus egységet alkot. A második világháborúban elszenvedett súlyos károk után évtizedekig tartó, 1985-ben befejezett helyreállítás adta vissza a templom eredeti fényét. A jellegzetes, négy saroktoronnyal díszített főtorony a város egyik legfontosabb jelképe. A belső tér puritán és méltóságteljes, nyugalmat árasztva az óváros forgatagában. A kriptában végzett ásatások során feltárt római kori falak és medencék bepillantást engednek Köln kétezer éves történelmébe. Jelenleg a Jeruzsálemi Monasztikus Közösség gondozásában áll.",
+    "ro": "Biserica Mare Sfântul Martin (Groß St. Martin) este una dintre cele douăsprezece biserici romanice majore din Köln, turnul său masiv dominând panorama orașului vechi de pe malul Rinului. Construită în secolul al XII-lea pe fundațiile unor depozite romane antice, biserica a servit timp de secole ca abație benedictină. Arhitectura sa este un exemplu remarcabil al planului în formă de trifoi (Kleeblattchor), specific regiunii renane, în care cele trei abside formează o unitate armonioasă. După distrugerile masive din al Doilea Război Mondial, biserica a fost reconstruită meticulos într-un proces care a durat până în 1985. Turnul central distinctiv, cu cele patru turnulețe de colț, este unul dintre cele mai importante simboluri ale orașului. Interiorul este auster și invită la meditație, oferind un contrast puternic cu agitația turistică din jur. Cripta adăpostește vestigii arheologice fascinante, inclusiv ziduri romane și resturile unui bazin antic. Astăzi, biserica este administrată de Comunitățile Monastice din Ierusalim.",
+    "en": "Great St. Martin is one of Cologne's twelve major Romanesque churches, its massive crossing tower with four corner turrets defining the Old Town's skyline along the Rhine. Built in the 12th century on the foundations of former Roman warehouses, it served for centuries as the abbey church for a prominent Benedictine monastery. Its architecture is a premier example of the Rhenish trefoil-plan choir, where three apses form a harmonious central space. Following severe damage during World War II, the church underwent a meticulous reconstruction process that was not completed until 1985. The iconic tower remains one of Cologne's most vital landmarks. Inside, the church maintains a stark, meditative simplicity that offers a peaceful retreat from the bustling streets of the surrounding district. The crypt reveals fascinating insights into the site's Roman past, featuring excavated ancient walls and basins of an antique bathhouse. Today, the church is home to the Monastic Fraternities of Jerusalem, continuing its long history as a place of sanctuary."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Der Vierungsturm ist 75 Meter hoch und war im Mittelalter ein wichtiger Orientierungspunkt für Schiffer.",
+      "Die Fundamente der Kirche reichen bis in das 1. Jahrhundert n. Chr. zurück (römische Sportanlage).",
+      "Die Kirche wurde auf einer ehemaligen Rheininsel errichtet, die erst später mit dem Festland verlandete.",
+      "Der Wiederaufbau nach 1945 dauerte fast 40 Jahre bis zur feierlichen Einweihung im Jahr 1985.",
+      "Die drei Apsiden der Kirche bilden die Form eines Kleeblatts, ein typisches Merkmal rheinischer Romanik.",
+      "In der Krypta sind römische Mauerreste und Becken einer antiken Badeanlage für Besucher sichtbar."
+    ],
+    "hu": [
+      "A központi torony 75 méter magas, és a középkorban fontos tájékozódási pont volt a hajósok számára.",
+      "A templom alapjai az i.sz. 1. századig nyúlnak vissza, ahol egykor római sportlétesítmény állt.",
+      "A templomot egy korábbi Rajna-szigetre építették, amely később kapcsolódott össze a szárazfölddel.",
+      "Az 1945 utáni újjáépítés közel 40 évig tartott, az ünnepélyes felszentelésre 1985-ben került sor.",
+      "A templom három apszisa lóhere alakot formáz, ami a Rajna-vidéki román stílus jellegzetessége.",
+      "A kriptában római kori falmaradványok és egy antik fürdőmedence romjai is megtekinthetők."
+    ],
+    "ro": [
+      "Turnul central are o înălțime de 75 de metri și a fost un reper vital pentru navigatori în Evul Mediu.",
+      "Fundațiile bisericii datează din secolul I d.Hr., suprapunându-se peste o fostă facilitate sportivă romană.",
+      "Biserica a fost ridicată pe o fostă insulă a Rinului, care s-a unit ulterior cu restul orașului.",
+      "Reconstrucția de după 1945 a durat aproape 40 de ani, fiind finalizată prin sfințirea din 1985.",
+      "Cele trei abside ale bisericii formează modelul unui trifoi, o trăsătură tipică a stilului romanic renan.",
+      "În criptă sunt vizibile resturi de ziduri romane și bazinele unei vechi instalații de baie antice."
+    ],
+    "en": [
+      "The crossing tower stands 75 meters tall and served as a vital navigational landmark in the Middle Ages.",
+      "The church foundations date back to the 1st century AD, originally part of a Roman sports facility.",
+      "The church was built on a former Rhine island that only later became part of the mainland.",
+      "The reconstruction after 1945 took nearly 40 years, leading to a ceremonial reopening in 1985.",
+      "The three apses form a trefoil shape, a classic characteristic of Rhenish Romanesque architecture.",
+      "The crypt features visible Roman wall remains and basins from an ancient Roman bathing facility."
+    ]
+  },
+  "practical": {
+    "address": "An Groß St. Martin, 50667 Köln",
+    "openingHours": "Di-Fr 09:30-19:30, Sa-So 10:00-19:30 (während der Gebetszeiten keine Besichtigung)",
+    "entranceFee": "kostenlos (Krypta evtl. gegen kleine Spende/Gebühr)",
+    "website": "https://www.gross-st-martin.de",
+    "publicTransport": "U-Bahn Haltestelle Heumarkt (Linien 1, 5, 7, 9) oder Rathaus (Linie 5)",
+    "parking": "Parkhaus Groß St. Martin, direkt unter dem Platz (ca. €3,00 pro Stunde)",
+    "accessibility": "Haupthalle über Stufen zugänglich, Krypta nicht barrierefrei",
+    "photoRules": "Erlaubt ohne Blitz, während der Gottesdienste und Gebetszeiten untersagt",
+    "bestTimeToVisit": "Vormittags unter der Woche für Ruhe und spirituelle Atmosphäre",
+    "audioGuide": "Nein"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Kaiserdom St. Bartholomäus",
+  "slug": "kaiserdom-st-bartholomaus",
+  "descriptionAdvanced": {
+    "de": "Der Kaiserdom St. Bartholomäus ist der bedeutendste Sakralbau Frankfurts und war über Jahrhunderte ein geistiges Zentrum des Heiligen Römischen Reiches. Obwohl er kirchenrechtlich nie ein Bischofssitz war, erhielt er aufgrund seiner Bedeutung als Wahl- und Krönungskirche der römisch-deutschen Kaiser den Ehrentitel „Kaiserdom“. Die heutige gotische Hallenkirche entstand größtenteils im 13. und 14. Jahrhundert auf den Fundamenten früherer Bauten. Besonders eindrucksvoll ist der 95 Meter hohe Westturm, ein Meisterwerk der Spätgotik, das die Skyline bis heute prägt. Im Inneren befindet sich die Wahlkapelle, in der ab 1356 die offizielle Wahl der deutschen Könige stattfand. Zehn Kaiser wurden hier zwischen 1562 und 1792 gekrönt. Nach der fast vollständigen Zerstörung im Jahr 1944 wurde der Dom in den 1950er Jahren wiederaufgebaut.",
+    "hu": "A Szent Bertalan-dóm Frankfurt legjelentősebb szakrális építménye, amely évszázadokon át a Német-római Birodalom szellemi központja volt. Noha egyházjogilag soha nem volt püspöki székhely, a római-német császárok választó- és koronázótemplomaként betöltött szerepe miatt kapta a „Kaiserdom” nevet. A mai gótikus csarnoktemplom nagyrészt a 13. és 14. században épült. Különösen lenyűgöző a 95 méter magas nyugati torony, a késő gótika remekműve, amely mindmáig meghatározza Frankfurt sziluettjét. A dóm belsejében található a választókápolna, ahol 1356-tól a német királyok hivatalos választása zajlott. 1562 és 1792 között tíz császárt koronáztak meg itt. Az 1944-es pusztulás után a dómot az 1950-es években építették újjá.",
+    "ro": "Catedrala Imperială Sfântul Bartolomeu este cea mai importantă clădire sacră din Frankfurt și a fost timp de secole un centru spiritual al Sfântului Imperiu Roman. Deși nu a fost niciodată sediu episcopal, a primit titlul de „Kaiserdom” datorită importanței sale ca biserică de alegere și încoronare a împăraților romano-germani. Actuala biserică gotică a fost construită în mare parte în secolele XIII și XIV. Turnul de vest, înalt de 95 de metri, este o capodoperă a goticului târziu care definește și astăzi panorama orașului. În interior se află Capela de Alegere, unde din 1356 a avut loc alegerea oficială a regilor germani. Zece împărați au fost încoronați aici între 1562 și 1792. După distrugerea aproape totală în 1944, catedrala a fost reconstruită în anii 1950.",
+    "en": "The Imperial Cathedral of Saint Bartholomew is Frankfurt's most significant religious building and served for centuries as a spiritual center of the Holy Roman Empire. Although never a bishop's seat, it earned the title \"Kaiserdom\" due to its role as the site of election and coronation for Holy Roman Emperors. The current Gothic hall church was largely built in the 13th and 14th centuries. Particularly impressive is the 95-meter-high west tower, a masterpiece of Late Gothic architecture that still defines the Frankfurt skyline. Inside is the Election Chapel, where from 1356 the official election of German kings took place. Ten emperors were crowned here between 1562 and 1792. Following near-total destruction in 1944, the cathedral was rebuilt in the 1950s."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Baubeginn der heutigen gotischen Form im 13. Jahrhundert.",
+      "Der Turm ist 95 Meter hoch und bietet eine Aussichtsplattform.",
+      "Von 1562 bis 1792 wurden hier zehn Kaiser offiziell gekrönt.",
+      "Ein Großbrand zerstörte 1867 weite Teile der Innenausstattung.",
+      "Die Wahlkapelle war der Ort der offiziellen Königswahl."
+    ],
+    "hu": [
+      "A mai gótikus forma építése a 13. században kezdődött.",
+      "A torony 95 méter magas és kilátóterasszal rendelkezik.",
+      "1562 és 1792 között tíz császárt koronáztak meg itt hivatalosan.",
+      "1867-ben egy hatalmas tűzvész elpusztította a belső berendezés nagy részét.",
+      "A választókápolna volt a hivatalos királyválasztás helyszíne."
+    ],
+    "ro": [
+      "Construcția formei gotice actuale a început în secolul al XIII-lea.",
+      "Turnul are o înălțime de 95 de metri și oferă o platformă de observare.",
+      "Între 1562 și 1792, zece împărați au fost încoronați oficial aici.",
+      "Un incendiu major în 1867 a distrus mari părți din interior.",
+      "Capela de Alegere a fost locul oficial pentru alegerea regelui."
+    ],
+    "en": [
+      "Construction of the current Gothic form began in the 13th century.",
+      "The tower is 95 meters high and features an observation deck.",
+      "Ten emperors were officially crowned here between 1562 and 1792.",
+      "A major fire in 1867 destroyed large parts of the interior decoration.",
+      "The Election Chapel was the site of the official royal elections."
+    ]
+  },
+  "practical": {
+    "address": "Domplatz 1, 60311 Frankfurt am Main",
+    "openingHours": "Mo-Do 09:00-20:00, Fr 13:00-20:00, Sa-So 09:00-20:00",
+    "entranceFee": "Dom kostenlos; Turmbesteigung ca. 3€ Erwachsene",
+    "website": "https://www.dom-frankfurt.de/",
+    "publicTransport": "U-Bahn U4, U5 (Haltestelle Dom/Römer)",
+    "parking": "Parkhaus Dom Römer, ca. 3€ pro Stunde.",
+    "accessibility": "Kirchenraum barrierefrei; Turm nur über 328 Stufen erreichbar.",
+    "photoRules": "Erlaubt ohne Blitz; während Gottesdiensten untersagt.",
+    "bestTimeToVisit": "Mittags bei sonnigem Wetter für den Lichteinfall durch die Fenster.",
+    "audioGuide": "Deutsch, Englisch verfügbar"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "host_id": "dusseldorf",
+  "sight_name": "MedienHafen",
+  "slug": "medienhafen",
+  "descriptionAdvanced": {
+    "de": "Der MedienHafen in Düsseldorf ist das Ergebnis einer der erfolgreichsten Stadterneuerungen Deutschlands, bei der ein ehemals funktionaler Rheinhafen in ein modernes Architektur- und Büroviertel transformiert wurde. Ab den späten 1980er Jahren siedelten sich hier vor allem Unternehmen aus den Bereichen Medien, Mode und Kommunikation an, was dem Viertel seinen Namen gab. Weltweite Berühmtheit erlangte das Areal durch die \"Gehry-Bauten\" (Der Neue Zollhof), deren asymmetrische Formen und unterschiedliche Fassadenmaterialien zum Wahrzeichen der modernen Stadtplanung wurden. Im Gegensatz zu sterilen Business-Parks blieb im MedienHafen der maritime Charme durch denkmalgeschützte Kaimauern, gusseiserne Poller und alte Gleisanlagen erhalten. Ergänzt wird die architektonische Vielfalt durch eine hochkarätige Gastronomieszene und moderne Hotels, die das Viertel auch nach Büroschluss zu einem lebendigen Treffpunkt für Architekturinteressierte machen.",
+    "hu": "A düsseldorfi MedienHafen Németország egyik legsikeresebb városmegújítási projektje, melynek során az egykori funkcionális rajnai kikötőt modern építészeti és irodanegyeddé alakították át. Az 1980-as évek végétől főként média-, divat- és kommunikációs cégek telepedtek meg itt, innen ered a negyed neve. A terület világhírnevét a Gehry-épületeknek (Der Neue Zollhof) köszönheti, melyek aszimmetrikus formái és különböző homlokzati anyagai a modern várostervezés jelképévé váltak. A steril üzleti parkokkal ellentétben a MedienHafen megőrizte tengerészeti báját a műemlékvédelem alatt álló rakpartfalakkal, öntöttvas bójákkal és régi sínpályákkal. Az építészeti sokszínűséget magas színvonalú gasztronómia és modern szállodák egészítik ki, melyek a munkaidő lejárta után is élettel teli találkozóhellyé teszik a környéket.",
+    "ro": "MedienHafen din Düsseldorf este rezultatul uneia dintre cele mai reușite regenerări urbane din Germania, în care un fost port funcțional de pe Rin a fost transformat într-un cartier modern de arhitectură și birouri. Începând cu sfârșitul anilor 1980, aici s-au stabilit în special companii din domeniile media, modă și comunicare, ceea ce a dat numele cartierului. Zona a devenit faimoasă la nivel mondial datorită clădirilor Gehry (Der Neue Zollhof), ale căror forme asimetrice și materiale de fațadă diferite au devenit simboluri ale planificării urbane moderne. Spre deosebire de parcurile de afaceri sterile, MedienHafen și-a păstrat farmecul maritim prin zidurile de chei protejate, pilonii de fontă și vechile șine. Diversitatea arhitecturală este completată de o scenă gastronomică de top și hoteluri moderne.",
+    "en": "Dusseldorf's Media Harbour (MedienHafen) is the result of one of Germany's most successful urban renewal projects, transforming a former industrial Rhine port into a hub for modern architecture and creative industries. Starting in the late 1980s, the area attracted companies in media, fashion, and communication, which gave the district its name. It gained worldwide fame through the \"Gehry Buildings\" (Der Neue Zollhof), whose asymmetrical shapes and varying facade materials have become landmarks of contemporary urban design. Unlike sterile business parks, the Media Harbour has retained its maritime charm with protected quay walls, cast-iron bollards, and old rail tracks. This architectural diversity is complemented by a high-end culinary scene and stylish hotels, making the district a vibrant destination for architecture enthusiasts and foodies alike, even after office hours."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Umwandlung des alten Handelshafens begann offiziell im Jahr 1989.",
+      "Die drei Gehry-Bauten bestehen aus Weißputz, Backstein und Edelstahl.",
+      "Über 800 Unternehmen haben heute ihren Sitz im Hafenareal.",
+      "Denkmalgeschützte Kaimauern erinnern an die industrielle Vergangenheit.",
+      "Die \"Living Bridge\" dient als Fußgängerbrücke und Aussichtspunkt.",
+      "Das Stadttor-Gebäude beherbergt die Staatskanzlei von NRW."
+    ],
+    "hu": [
+      "A régi kereskedelmi kikötő átalakítása hivatalosan 1989-ben kezdődött.",
+      "A három Gehry-épület vakolatból, téglából és rozsdamentes acélból áll.",
+      "Mára több mint 800 vállalat székhelye található a kikötő területén.",
+      "Műemlék rakpartfalak emlékeztetnek az ipari múltra.",
+      "A \"Living Bridge\" gyalogoshídként és kilátópontként is szolgál.",
+      "A Stadttor épületében található Észak-Rajna-Vesztfália állami kancelláriája."
+    ],
+    "ro": [
+      "Transformarea vechiului port comercial a început oficial în 1989.",
+      "Cele trei clădiri Gehry sunt realizate din tencuială, cărămidă și inox.",
+      "Peste 800 de companii își au sediul astăzi în zona portului.",
+      "Zidurile de chei protejate amintesc de trecutul industrial.",
+      "\"Living Bridge\" servește ca pod pietonal și punct de observație.",
+      "Clădirea Stadttor găzduiește Cancelaria de Stat a Renaniei de Nord-Westfalia."
+    ],
+    "en": [
+      "The conversion of the old trading port officially began in 1989.",
+      "The three Gehry buildings are made of white plaster, brick, and stainless steel.",
+      "Over 800 companies are currently headquartered in the harbor area.",
+      "Listed quay walls serve as reminders of the district's industrial past.",
+      "The \"Living Bridge\" acts as a pedestrian walkway and viewpoint.",
+      "The Stadttor building houses the State Chancellery of North Rhine-Westphalia."
+    ]
+  },
+  "practical": {
+    "address": "Neuer Zollhof, 40221 Düsseldorf",
+    "openingHours": "24/7 (öffentlich zugänglich)",
+    "entranceFee": "kostenlos",
+    "website": "https://www.duesseldorf-tourismus.de/erleben/sehenswertes/medienhafen",
+    "publicTransport": "Straßenbahn 706, 707, 709 bis Stadttor oder Speditionstraße",
+    "parking": "Parkhaus Neuer Zollhof, ca. €3,50 pro Stunde",
+    "accessibility": "Weitgehend barrierefrei, teils historisches Kopfsteinpflaster",
+    "photoRules": "Erlaubt, sehr beliebt für Architektur- und Porträtfotografie",
+    "bestTimeToVisit": "Zur Goldenen Stunde für die besten Lichtreflexionen an den Fassaden",
+    "audioGuide": "Nein"
+  }
+}

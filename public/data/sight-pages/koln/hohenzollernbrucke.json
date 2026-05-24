@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Hohenzollernbrücke",
+  "slug": "hohenzollernbrucke",
+  "descriptionAdvanced": {
+    "de": "Die Hohenzollernbrücke ist eine der markantesten Konstruktionen Kölns und die meistbefahrene Eisenbahnbrücke Deutschlands. Sie verbindet den Hauptbahnhof auf der linken Rheinseite mit dem Bahnhof Köln Messe/Deutz im Osten. Die zwischen 1907 und 1911 errichtete Brücke bestand ursprünglich aus drei nebeneinanderliegenden Brückenkörpern für Schienen- und Straßenverkehr. Nach der Zerstörung am Ende des Zweiten Weltkriegs wurde sie jedoch nur noch für den Eisenbahn- und Fußgängerverkehr wiederaufgebaut. Ihre drei charakteristischen Eisenfachwerkbögen prägen gemeinsam mit dem Kölner Dom das weltberühmte Panorama der Stadt. In den letzten Jahrzehnten erlangte die Brücke zusätzliche Berühmtheit durch den Brauch der 'Liebesschlösser'. Zehntausende bunte Vorhängeschlösser hängen an den Zäunen entlang der Fußwege und machen die Brücke zu einem Ort gelebter Romantik. Reiterstandbilder preußischer Könige und deutscher Kaiser der Hohenzollern-Dynastie schmücken die Brückenköpfe und erinnern an die Zeit ihrer Entstehung.",
+    "hu": "A Hohenzollern-híd (Hohenzollernbrücke) Németország legforgalmasabb vasúti hídja, amely a kölni főpályaudvart köti össze a Rajna túlpartján fekvő Deutz negyeddel. Az 1907 és 1911 között épült, három hatalmas acélívből álló szerkezet az ipari építészet kiemelkedő példája. Eredetileg közúti és vasúti forgalmat is lebonyolított, de a második világháborús pusztítás utáni újjáépítéskor már csak a vonatok és a gyalogosok számára nyitották meg. A híd a dóm mellett a városkép legfontosabb eleme, amely világszerte ismertté vált a gyalogos járdát szegélyező kerítéseken található 'szerelemlakatok' ezrei miatt. A lakatok mára több tonnányi plusz súlyt jelentenek a szerkezetnek, de a város egyik legnépszerűbb romantikus hagyományává váltak. A hídfőket a Hohenzollern-házból származó porosz királyok és német császárok lovas szobrai díszítik, megidézve a híd építésének korabeli hangulatát.",
+    "ro": "Podul Hohenzollern este cel mai tranzitat pod feroviar din Germania și un reper inconfundabil al orașului Köln. Acesta leagă gara centrală de cartierul Deutz de pe malul opus al Rinului, asigurând o conexiune vitală pentru traficul feroviar european. Construit între 1907 și 1911, podul a fost inițial destinat atât trenurilor, cât și vehiculelor rutiere, însă după reconstrucția de după al Doilea Război Mondial, a rămas exclusiv feroviar și pietonal. Cele trei arcuri metalice masive formează, alături de catedrală, una dintre cele mai fotografiate panorame din lume. În ultimii ani, podul a devenit o destinație romantică celebră datorită 'lacătelor iubirii' (Liebesschlösser) atașate de gardurile pietonale; mii de astfel de simboluri colorate împodobesc structura de oțel. La capetele podului se află statui ecvestre ale regilor prusaci și împăraților germani din dinastia Hohenzollern, subliniind importanța istorică a acestei treceri peste fluviu.",
+    "en": "The Hohenzollern Bridge is one of Cologne's most striking architectural features and ranks as the busiest railway bridge in Germany. Connecting the main station to the district of Deutz, it serves as a crucial artery for European rail travel. Built between 1907 and 1911, the bridge originally carried both trains and road vehicles across its three massive steel arches. After being damaged during World War II, it was rebuilt solely for rail and pedestrian use. Its iconic silhouette, paired with the neighboring cathedral, defines the world-famous Cologne skyline. In recent decades, the bridge has gained global fame for the 'love locks' tradition; tens of thousands of colorful padlocks are attached to the pedestrian railings, symbolizing the vows of couples from all over the world. Equestrian statues of Prussian kings and German emperors from the Hohenzollern dynasty guard the bridge entrances, serving as a reminder of its imperial-era heritage."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Mehr als 1.200 Züge überqueren täglich die Brücke, was sie zum wichtigsten Bahnknotenpunkt der Region macht.",
+      "Die Liebesschlösser wiegen schätzungsweise über 40 Tonnen und werden regelmäßig auf Statik geprüft.",
+      "Die Brücke hat eine Gesamtlänge von 409 Metern über den Rhein.",
+      "Am 6. März 1945 wurde die Brücke von deutschen Truppen gesprengt, um den Vormarsch der Alliierten zu stoppen.",
+      "Die vier Reiterstandbilder an den Enden zeigen Friedrich Wilhelm IV., Wilhelm I., Friedrich III. und Wilhelm II.",
+      "Der heutige Fuß- und Radweg wurde erst 1989 im Rahmen einer massiven Erweiterung der Brücke fertiggestellt."
+    ],
+    "hu": [
+      "Naponta több mint 1200 vonat halad át a hídon, ezzel a régió legfontosabb vasúti csomópontja.",
+      "A kerítéseken lévő szerelemlakatok súlyát több mint 40 tonnára becsülik, statikájukat rendszeresen ellenőrzik.",
+      "A híd teljes hossza 409 méter a Rajna felett.",
+      "1945. március 6-án a visszavonuló német csapatok felrobbantották a hidat a szövetségesek megállítására.",
+      "A négy lovas szobor IV. Frigyes Vilmos, I. Vilmos, III. Frigyes és II. Vilmos uralkodókat ábrázolja.",
+      "A mai gyalogos és kerékpáros utat csak 1989-ben adták át egy nagyszabású bővítés keretében."
+    ],
+    "ro": [
+      "Peste 1.200 de trenuri traversează zilnic podul, făcându-l cel mai important nod feroviar regional.",
+      "Greutatea lacătelor iubirii este estimată la peste 40 de tone, stabilitatea structurii fiind verificată periodic.",
+      "Podul are o lungime totală de 409 metri peste Rin.",
+      "La 6 martie 1945, podul a fost aruncat în aer de trupele germane pentru a opri avansul aliaților.",
+      "Cele patru statui ecvestre îi reprezintă pe regii și împărații Friedrich Wilhelm IV, Wilhelm I, Friedrich III și Wilhelm II.",
+      "Actuala pistă pentru pietoni și bicicliști a fost finalizată abia în 1989, în urma unei extinderi majore."
+    ],
+    "en": [
+      "More than 1,200 trains cross the bridge every day, making it Germany's busiest railway bridge.",
+      "The love locks are estimated to weigh over 40 tons, and their impact on the bridge's load is checked regularly.",
+      "The bridge has a total length of 409 meters spanning across the Rhine.",
+      "On March 6, 1945, German troops blew up the bridge to stall the advancing Allied forces.",
+      "The four equestrian statues represent Frederick William IV, William I, Frederick III, and William II.",
+      "The current pedestrian and bicycle paths were completed in 1989 during a major expansion of the structure."
+    ]
+  },
+  "practical": {
+    "address": "Hohenzollernbrücke, 50667 Köln",
+    "openingHours": "24/7",
+    "entranceFee": "kostenlos",
+    "website": "https://www.koeln.de/tourismus/sehenswertes/hohenzollernbruecke",
+    "publicTransport": "Haltestelle Hauptbahnhof (Westseite) oder Köln Messe/Deutz (Ostseite)",
+    "parking": "Parkhaus KölnTriangle (Deutz) oder Parkhaus Am Dom (Altstadt), ca. €2,50-€3,00 pro Stunde",
+    "accessibility": "Barrierefrei über Rampen von beiden Seiten des Rheins zugänglich",
+    "photoRules": "Erlaubt, Stativnutzung auf den Fußwegen aufgrund von Vibrationen durch Züge schwierig",
+    "bestTimeToVisit": "Sonnenuntergang für den besten Blick auf den Dom oder nachts bei Beleuchtung",
+    "audioGuide": "Nein"
+  }
+}

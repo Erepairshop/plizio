@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Alte Oper",
+  "slug": "alte-oper",
+  "descriptionAdvanced": {
+    "de": "Die 1880 eröffnete Alte Oper in Frankfurt gilt als eines der bedeutendsten architektonischen Denkmäler der Stadt. Der von Richard Lucae im Stil der Neorenaissance entworfene Bau wurde durch Kaiser Wilhelm I. eingeweiht und beeindruckt durch seine prächtige Fassade sowie den Inschriftenspruch \"Dem Wahren, Schönen, Guten\". Nach der fast vollständigen Zerstörung im Zweiten Weltkrieg galt das Gebäude lange als \"schönste Ruine Deutschlands\". Erst eine massive Bürgerinitiative und Spendenkampagne in den 1970er Jahren ermöglichten den detailgetreuen Wiederaufbau der Fassade, während das Innere zu einem modernen Konzert- und Kongresszentrum umgestaltet wurde. Die feierliche Wiedereröffnung fand 1981 unter der Leitung von Herbert von Karajan statt. Heute beherbergt das Haus jährlich rund 450 Veranstaltungen, von klassischen Konzerten bis hin zu exklusiven Galas, und ist ein zentraler Treffpunkt am prachtvollen Opernplatz.",
+    "hu": "Az 1880-ban megnyitott frankfurti Régi Opera (Alte Oper) a város egyik legjelentősebb építészeti emléke. A Richard Lucae által neoreneszánsz stílusban tervezett épületet I. Vilmos császár avatta fel, homlokzatát pedig a híres \"Az Igaznak, a Szépnek, a Jónak\" felirat díszíti. A második világháború alatti szinte teljes pusztulás után az épületet sokáig \"Németország legszebb romjaként\" emlegették. Csak az 1970-es években indított hatalmas lakossági összefogás és adománygyűjtés tette lehetővé a homlokzat hű rekonstrukcióját, miközben a belső teret modern koncert- és kongresszusi központtá alakították át. Az ünnepélyes újranyitásra 1981-ben került sor Herbert von Karajan vezényletével. Ma az intézmény évente mintegy 450 eseménynek ad otthont, a klasszikus koncertektől az exkluzív gálákig, és a pazar Opernplatz központi találkozóhelye.",
+    "ro": "Inaugurată în 1880, Vechea Operă (Alte Oper) din Frankfurt este considerată unul dintre cele mai importante monumente arhitecturale ale orașului. Proiectată de Richard Lucae în stil neorenascentist, clădirea a fost inaugurată de împăratul Wilhelm I și impresionează prin fațada sa magnifică, decorată cu inscripția \"Pentru adevăr, frumos și bine\". După distrugerea aproape totală în al Doilea Război Mondial, clădirea a fost mult timp cunoscută drept \"cea mai frumoasă ruină a Germaniei\". Abia o inițiativă cetățenească masivă și o campanie de donații din anii 1970 au permis reconstrucția fidelă a fațadei, în timp ce interiorul a fost transformat într-un centru modern de concerte și congrese. Redeschiderea solemnă a avut loc în 1981 sub bagheta lui Herbert von Karajan. Astăzi, casa găzduiește anual aproximativ 450 de evenimente, de la concerte clasice la gale exclusive, fiind un punct central de întâlnire în splendida piață Opernplatz.",
+    "en": "Opened in 1880, the Alte Oper (Old Opera House) in Frankfurt is considered one of the city's most significant architectural landmarks. Designed by Richard Lucae in the Neorenaissance style, the building was inaugurated by Emperor Wilhelm I and impresses with its magnificent facade bearing the inscription \"To the True, the Beautiful, the Good.\" Following its near-total destruction during World War II, the building was long known as \"Germany's most beautiful ruin.\" It was only through a massive civic initiative and fundraising campaign in the 1970s that the faithful reconstruction of the facade became possible, while the interior was redesigned as a modern concert and congress center. The ceremonial reopening took place in 1981 under the direction of Herbert von Karajan. Today, the house hosts around 450 events annually, ranging from classical concerts to exclusive galas, and remains a central meeting point on the grand Opernplatz."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die Fassade trägt die berühmte Widmung \"Dem Wahren, Schönen, Guten\".",
+      "Für den Wiederaufbau wurden in den 70ern ca. 15 Millionen DM an Privatspenden gesammelt.",
+      "Der große Saal bietet Platz für rund 2.450 Besucher.",
+      "Die Grundsteinlegung erfolgte im Jahr 1873 durch den Architekten Richard Lucae.",
+      "Das Gebäude wurde am 28. August 1981 mit Mahlers 8. Sinfonie wiedereröffnet.",
+      "In der Ruinenzeit nach 1944 sollte das Gebäude gesprengt werden, was Bürger verhinderten."
+    ],
+    "hu": [
+      "A homlokzaton a híres \"Dem Wahren, Schönen, Guten\" dedikáció olvasható.",
+      "Az újjáépítéshez a 70-es években kb. 15 millió márkát gyűjtöttek össze magánadományokból.",
+      "A nagyterem mintegy 2450 látogató befogadására alkalmas.",
+      "Az alapkőletétel 1873-ban történt Richard Lucae építész tervei alapján.",
+      "Az épületet 1981. augusztus 28-án Mahler 8. szimfóniájával nyitották meg újra.",
+      "Az 1944 utáni romos állapotában le akarták bontani, de a polgárok megakadályozták."
+    ],
+    "ro": [
+      "Fațada poartă faimoasa dedicație \"Dem Wahren, Schönen, Guten\".",
+      "Pentru reconstrucție s-au colectat în anii '70 circa 15 milioane DM din donații private.",
+      "Sala mare are o capacitate de aproximativ 2.450 de locuri.",
+      "Piatra de temelie a fost pusă în anul 1873 de către arhitectul Richard Lucae.",
+      "Clădirea a fost redeschisă pe 28 august 1981 cu Simfonia a 8-a de Mahler.",
+      "În perioada de ruină de după 1944, clădirea urma să fie dinamitată, dar cetățenii s-au opus."
+    ],
+    "en": [
+      "The facade bears the famous dedication \"Dem Wahren, Schönen, Guten\" (To the True, Beautiful, Good).",
+      "About 15 million DM in private donations were collected for the reconstruction in the 1970s.",
+      "The Great Hall provides seating for approximately 2,450 visitors.",
+      "The foundation stone was laid in 1873 by architect Richard Lucae.",
+      "The building was officially reopened on August 28, 1981, with Mahler's 8th Symphony.",
+      "During its ruinous state after 1944, there were plans to blow up the building, which citizens prevented."
+    ]
+  },
+  "practical": {
+    "address": "Opernplatz 1, 60313 Frankfurt am Main",
+    "openingHours": "Mo-Fr 10:00-18:00, Sa 10:00-14:00 (Kasse), Veranstaltungen abends",
+    "entranceFee": "Besichtigung nur bei Veranstaltungen oder Führungen (ca. €10)",
+    "website": "https://www.alteoper.de",
+    "publicTransport": "U-Bahn Alte Oper (U6, U7) oder S-Bahn Taunusanlage",
+    "parking": "Parkhaus Opernturm direkt gegenüber, ca. €3,50 pro Stunde",
+    "accessibility": "Vollständig barrierefrei mit Aufzügen und speziellen Plätzen",
+    "photoRules": "Außenaufnahmen erlaubt, während Aufführungen striktes Verbot",
+    "bestTimeToVisit": "Abends zur blauen Stunde für die beleuchtete Fassade",
+    "audioGuide": "no"
+  }
+}

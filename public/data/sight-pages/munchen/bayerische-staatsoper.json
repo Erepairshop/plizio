@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Bayerische Staatsoper",
+  "slug": "bayerische-staatsoper",
+  "descriptionAdvanced": {
+    "de": "Die Bayerische Staatsoper in München zählt mit ihrer über 350-jährigen Geschichte zu den bedeutendsten Opernhäusern weltweit. Das Stammhaus, das Nationaltheater am Max-Joseph-Platz, wurde 1818 eröffnet und ist ein Meisterwerk des Klassizismus nach Entwürfen von Karl von Fischer. Nach Bränden und der fast vollständigen Zerstörung im Zweiten Weltkrieg wurde es originalgetreu wiederaufgebaut und 1963 feierlich wiedereröffnet. Der Zuschauerraum bietet Platz für etwa 2.100 Besucher und besticht durch seine prachtvolle rot-goldene Ausstattung. Die Staatsoper war Schauplatz zahlreicher Uraufführungen bedeutender Werke, insbesondere von Richard Wagner und Richard Strauss. Heute beherbergt sie neben dem Opernensemble auch das Bayerische Staatsballett und das Bayerische Staatsorchester, eines der ältesten Orchester Europas. Mit jährlich über 350 Vorstellungen und den renommierten Opernfestspielen im Sommer zieht das Haus ein internationales Publikum an und sichert Münchens Ruf als eine der führenden Kulturmetropolen.",
+    "hu": "A több mint 350 éves múltra visszatekintő Bajor Állami Operaház a világ egyik legjelentősebb operaintézménye. Főépülete, a Max-Joseph-Platzon található Nemzeti Színház 1818-ban nyílt meg, a klasszicista építészet remekműve Karl von Fischer tervei alapján. Tüzek és a második világháborús szinte teljes pusztulás után az eredeti formájában építették újjá, és 1963-ban nyitották meg újra ünnepélyesen. A nézőtér körülbelül 2100 látogató befogadására alkalmas, és pompás vörös-arany díszítésével nyűgöz le. Az operaház számos jelentős mű, különösen Richard Wagner és Richard Strauss darabjainak ősbemutatójának helyszíne volt. Ma az operatársulat mellett a Bajor Állami Balettnek és a Bajor Állami Zenekarnak — Európa egyik legrégebbi zenekarának — is otthont ad. Az évente több mint 350 előadással és a neves nyári Operafesztivállal az intézmény nemzetközi közönséget vonz, megerősítve München vezető kulturális szerepét.",
+    "ro": "Opera de Stat Bavareză din München, cu o istorie de peste 350 de ani, se numără printre cele mai importante case de operă din lume. Clădirea principală, Teatrul Național din Max-Joseph-Platz, a fost deschisă în 1818 și este o capodoperă a clasicismului, bazată pe proiectele lui Karl von Fischer. După incendii și distrugerea aproape totală în al Doilea Război Mondial, a fost reconstruită fidel originalului și redeschisă festiv în 1963. Sala de spectacole oferă loc pentru aproximativ 2.100 de vizitatori și impresionează prin decorul său splendid în roșu și auriu. Opera de Stat a fost locul a numeroase premiere mondiale ale unor opere semnificative, în special de Richard Wagner și Richard Strauss. Astăzi, pe lângă ansamblul de operă, găzduiește Baletul de Stat Bavarez și Orchestra de Stat Bavareză, una dintre cele mai vechi orchestre din Europa. Cu peste 350 de spectacole anual și renumitul Festival de Operă din vară, instituția atrage un public internațional.",
+    "en": "The Bavarian State Opera in Munich, with a history spanning over 350 years, is one of the world's leading opera houses. Its main venue, the National Theatre on Max-Joseph-Platz, opened in 1818 and is a masterpiece of neoclassicism designed by Karl von Fischer. After fires and almost total destruction in World War II, it was rebuilt true to the original and ceremoniously reopened in 1963. The auditorium seats about 2,100 visitors and impresses with its magnificent red and gold decor. The State Opera has been the venue for numerous world premieres of significant works, particularly by Richard Wagner and Richard Strauss. Today, in addition to the opera ensemble, it also houses the Bavarian State Ballet and the Bavarian State Orchestra, one of the oldest orchestras in Europe. With over 350 performances annually and the renowned Opera Festival in summer, the house attracts an international audience and secures Munich's reputation as a leading cultural metropolis."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gründung der Hofoper bereits im Jahr 1653.",
+      "Uraufführung von Wagners 'Tristan und Isolde' im Jahr 1865.",
+      "Der heutige Bau ist die dritte Version des Nationaltheaters.",
+      "Bietet 2.101 Sitzplätze und ist damit das größte Opernhaus Deutschlands.",
+      "Das Bayerische Staatsorchester wurde bereits 1523 als Hofkapelle gegründet.",
+      "Wiedereröffnung nach dem Krieg am 21. November 1963 mit 'Die Meistersinger'."
+    ],
+    "hu": [
+      "Az udvari opera alapítása már 1653-ban megtörtént.",
+      "Wagner 'Trisztán és Izolda' című művének ősbemutatója 1865-ben itt volt.",
+      "A mai épület a Nemzeti Színház harmadik változata.",
+      "2101 ülőhelyével Németország legnagyobb operaháza.",
+      "A Bajor Állami Zenekart már 1523-ban udvari zenekarként alapították.",
+      "A háború utáni újranyitás 1963. november 21-én volt a 'A nürnbergi mesterdalnokok' című darabbal."
+    ],
+    "ro": [
+      "Fondarea Operei Curții a avut loc încă din anul 1653.",
+      "Premiera mondială a operei 'Tristan și Isolda' de Wagner în 1865.",
+      "Clădirea actuală este a treia versiune a Teatrului Național.",
+      "Oferă 2.101 locuri, fiind cea mai mare casă de operă din Germania.",
+      "Orchestra de Stat Bavareză a fost fondată în 1523 ca orchestră de curte.",
+      "Redeschiderea după război la 21 noiembrie 1963 cu 'Maeștrii cântăreți'."
+    ],
+    "en": [
+      "Foundation of the Court Opera as early as 1653.",
+      "World premiere of Wagner's 'Tristan und Isolde' in 1865.",
+      "The current building is the third version of the National Theatre.",
+      "Provides 2,101 seats, making it the largest opera house in Germany.",
+      "The Bavarian State Orchestra was founded as early as 1523 as a court chapel.",
+      "Post-war reopening on November 21, 1963, with 'Die Meistersinger'."
+    ]
+  },
+  "practical": {
+    "address": "Max-Joseph-Platz 2, 80539 München",
+    "openingHours": "Abendkasse ab 1 Stunde vor Vorstellungsbeginn, Führungen nach Voranmeldung.",
+    "entranceFee": "Variiert stark (10 € bis über 200 €), Führungen ca. 12 €.",
+    "website": "https://www.staatsoper.de",
+    "publicTransport": "U-Bahn U3/U4/U5/U6 Marienplatz oder Odeonsplatz, Tram 19/21 Nationaltheater.",
+    "parking": "Tiefgarage Max-Joseph-Platz direkt unter dem Platz (sehr teuer).",
+    "accessibility": "Rollstuhlgerecht mit Aufzügen und speziellen Plätzen im Parkett und Rang.",
+    "photoRules": "Während der Vorstellung streng verboten, bei Führungen oft ohne Blitz erlaubt.",
+    "bestTimeToVisit": "Zur blauen Stunde für Fotos vom Platz aus oder für eine Abendvorstellung.",
+    "audioGuide": "Ja, für Führungen in verschiedenen Sprachen verfügbar."
+  }
+}

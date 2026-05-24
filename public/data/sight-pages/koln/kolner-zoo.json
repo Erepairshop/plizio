@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Kölner Zoo",
+  "slug": "kolner-zoo",
+  "descriptionAdvanced": {
+    "de": "Der Kölner Zoo wurde im Jahr 1860 gegründet und gehört damit zu den ältesten und traditionsreichsten Tierparks in ganz Deutschland. Er zeichnet sich durch eine gelungene Kombination aus denkmalgeschützten Bauten im maurischen Stil und hochmodernen, tiergerechten Anlagen aus. Ein besonderes Highlight ist der 2004 eröffnete Elefantenpark, der mit einer Fläche von 20.000 Quadratmetern zu den größten und modernsten seiner Art in Europa zählt und einer großen Herde Asiatischer Elefanten ein naturnahes Zuhause bietet. Auf insgesamt 20 Hektar Fläche beherbergt der Zoo rund 10.000 Tiere aus über 800 verschiedenen Arten. Dazu gehören faszinierende Welten wie das Hippodom, eine afrikanische Flusslandschaft, in der man Flusspferde und Nilkrokodile auch unter Wasser beobachten kann, sowie das große Regenwaldhaus. Der Zoo engagiert sich weltweit intensiv für den Artenschutz und nimmt an über 30 internationalen Zuchtprogrammen teil. Mit seinem großen Spielplatz und dem angeschlossenen Aquarium ist der Zoo ein perfektes Ausflugsziel für Familien und Naturbegeisterte direkt am Rheinufer.",
+    "hu": "A kölni állatkertet 1860-ban alapították, így Németország egyik legrégebbi és leghagyományosabb állatparkja. Jellemzője a műemlékvédelem alatt álló mór stílusú épületek és a legmodernebb, állatbarát létesítmények sikeres kombinációja. Különleges fénypont a 2004-ben megnyitott elefántpark, amely 20 000 négyzetméteres területével Európa egyik legnagyobb és legmodernebb ilyen jellegű létesítménye, és természetközeli otthont nyújt egy nagy ázsiai elefántcsordának. A összesen 20 hektáros területen az állatkert mintegy 10 000 állatnak ad otthont több mint 800 különböző fajból. Ide tartoznak olyan lenyűgöző világok, mint a Hippodom, egy afrikai folyóparti táj, ahol a vízilovakat és a nílusi krokodilokat a víz alatt is megfigyelhetjük, valamint a nagy esőerdőház. Az állatkert világszerte intenzíven elkötelezett a fajvédelem mellett, és több mint 30 nemzetközi tenyésztési programban vesz részt. Nagy játszóterével és a kapcsolódó akváriummal az állatkert tökéletes kirándulóhely családok és a természet kedvelői számára, közvetlenül a Rajna partján.",
+    "ro": "Grădina Zoologică din Köln a fost fondată în 1860, fiind astfel una dintre cele mai vechi și tradiționale grădini zoologice din Germania. Se remarcă printr-o combinație reușită între clădiri monumente istorice în stil maur și facilități ultra-moderne, adaptate nevoilor animalelor. Un punct de atracție deosebit este parcul elefanților deschis în 2004, care, cu o suprafață de 20.000 de metri pătrați, este unul dintre cele mai mari și moderne de acest tip din Europa, oferind o casă naturală unei turme mari de elefanți asiatici. Pe o suprafață totală de 20 de hectare, grădina zoologică găzduiește aproximativ 10.000 de animale din peste 800 de specii diferite. Acestea includ lumi fascinante precum Hippodom, un peisaj fluvial african unde hipopotamii și crocodilii de Nil pot fi observați și sub apă, precum și marea casă a pădurii tropicale. Grădina zoologică este intens implicată la nivel mondial în protecția speciilor și participă la peste 30 de programe internaționale de reproducere. Cu locul său de joacă mare și acvariul adiacent, grădina zoologică este o destinație perfectă pentru familii și pasionații de natură, chiar pe malul Rinului.",
+    "en": "Cologne Zoo was founded in 1860, making it one of the oldest and most traditional zoos in Germany. It is characterized by a successful combination of listed buildings in the Moorish style and state-of-the-art, species-appropriate facilities. A special highlight is the Elephant Park opened in 2004, which, with an area of 20,000 square meters, is one of the largest and most modern of its kind in Europe, providing a natural home for a large herd of Asian elephants. On a total area of 20 hectares, the zoo houses around 10,000 animals from over 800 different species. These include fascinating worlds such as the Hippodom, an African river landscape where hippos and Nile crocodiles can also be observed underwater, as well as the large Rainforest House. The zoo is intensely involved in species conservation worldwide and participates in over 30 international breeding programs. With its large playground and attached aquarium, the zoo is a perfect excursion destination for families and nature enthusiasts right on the banks of the Rhine."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Eröffnung am 22. Juli 1860 als dritter Zoo in Deutschland.",
+      "Der Elefantenpark umfasst eine Fläche von 20.000 Quadratmetern.",
+      "Erfolgreiche Zucht von Asiatischen Elefanten mit über 15 Geburten.",
+      "Das Aquarium Köln wurde 1971 eröffnet und zeigt Korallenriffe.",
+      "Das Hippodom zeigt Flusspferde in einer begehbaren Afrikawelt.",
+      "Mitgliedschaft in der WAZA (World Association of Zoos and Aquariums)."
+    ],
+    "hu": [
+      "1860. július 22-én nyílt meg Németország harmadik állatkertjeként.",
+      "Az elefántpark 20 000 négyzetméteres területet foglal el.",
+      "Sikeres ázsiai elefánttenyésztés több mint 15 születéssel.",
+      "A Kölni Akvárium 1971-ben nyílt meg, korallzátonyokat is bemutat.",
+      "A Hippodom vízilóvilága egy bejárható afrikai környezetet kínál.",
+      "Tagja a WAZA-nak (Állatkertek és Akváriumok Világszövetsége)."
+    ],
+    "ro": [
+      "Deschiderea la 22 iulie 1860 ca a treia grădină zoologică din Germania.",
+      "Parcul elefanților ocupă o suprafață de 20.000 de metri pătrați.",
+      "Reproducere de succes a elefanților asiatici cu peste 15 nașteri.",
+      "Acvariul din Köln a fost deschis în 1971 și prezintă recife de corali.",
+      "Hippodom prezintă hipopotami într-o lume africană accesibilă vizitatorilor.",
+      "Membru al WAZA (Asociația Mondială a Grădinilor Zoologice și Acvariilor)."
+    ],
+    "en": [
+      "Opened on July 22, 1860, as the third zoo in Germany.",
+      "The Elephant Park covers an area of 20,000 square meters.",
+      "Successful breeding of Asian elephants with over 15 births.",
+      "Cologne Aquarium opened in 1971 and features coral reefs.",
+      "The Hippodom shows hippos in a walk-through African world.",
+      "Membership in WAZA (World Association of Zoos and Aquariums)."
+    ]
+  },
+  "practical": {
+    "address": "Riehler Str. 173, 50735 Köln",
+    "openingHours": "Täglich 09:00-18:00 (Sommer), 09:00-17:00 (Winter)",
+    "entranceFee": "23 € Erwachsene, 11 € Kinder (4-12 J.)",
+    "website": "https://koelnerzoo.de",
+    "publicTransport": "Stadtbahn Linie 18, Haltestelle Zoo/Flora",
+    "parking": "Parkhaus am Zoo (ca. 2,50 €/Std.)",
+    "accessibility": "Vollständig barrierefrei; Rollstuhl-Verleih am Eingang möglich.",
+    "photoRules": "Privates Fotografieren erlaubt, gewerbliche Nutzung genehmigungspflichtig.",
+    "bestTimeToVisit": "Morgens ab 09:00 Uhr, um die Fütterungszeiten der Tiere zu erleben.",
+    "audioGuide": "nein (Infotafeln und Zooführer-App verfügbar)"
+  }
+}

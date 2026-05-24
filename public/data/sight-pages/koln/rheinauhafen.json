@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Rheinauhafen",
+  "slug": "rheinauhafen",
+  "descriptionAdvanced": {
+    "de": "Der Rheinauhafen ist ein modernes Stadtviertel im Kölner Süden, das auf dem Gelände eines ehemaligen Flusshafens aus dem 19. Jahrhundert entstanden ist. Die Revitalisierung des Gebiets begann Ende der 1990er Jahre und hat sich zu einem Vorzeigeprojekt für urbane Architektur entwickelt. Wahrzeichen des Viertels sind die drei sogenannten 'Kranhäuser', die von den Architekten BRT entworfen wurden. Ihre markante Form erinnert an historische Hafenkräne und verleiht der Kölner Skyline eine futuristische Note. Der Rheinauhafen verbindet denkmalgeschützte Speicherhäuser mit innovativen Neubauten und bietet eine Mischung aus Wohnraum, Büros, Gastronomie und Kultur. Die zwei Kilometer lange Flaniermeile direkt am Rhein ist ein beliebter Ort zum Spazierengehen, Joggen und Skaten. Im Viertel befinden sich zudem bedeutende kulturelle Einrichtungen wie das Schokoladenmuseum und das Deutsche Sport & Olympia Museum. Der Hafenmeister-Turm und die alten Kaimauern erinnern an die industrielle Vergangenheit des Ortes.",
+    "hu": "A Rheinauhafen Köln déli részén található modern negyed, amely egy 19. századi folyami kikötő területén jött létre. A környék revitalizációja az 1990-es évek végén kezdődött, és mára a kortárs városépítészet egyik mintaprojektjévé vált. A negyed jelképei a BRT építésziroda által tervezett 'Kranhäuser' (Daruházak), amelyek formája a történelmi kikötői darukat idézi, futurisztikus megjelenést kölcsönözve a városképnek. A Rheinauhafen harmonikusan ötvözi a műemléki védettségű régi raktárépületeket az innovatív új építményekkel, otthont adva luxuslakásoknak, irodáknak, éttermeknek és kulturális intézményeknek. A Rajna partján húzódó két kilométeres sétány a helyiek és a turisták kedvelt pihenőhelye. Itt található a népszerű Csokoládémúzeum és a Német Sport- és Olimpiai Múzeum is. A régi kikötőmesteri torony és a megőrzött rakpartfalak a terület ipari múltjának állítanak emléket.",
+    "ro": "Rheinauhafen este un cartier modern situat în sudul orașului Köln, dezvoltat pe situl unui fost port fluvial din secolul al XIX-lea. Revitalizarea zonei a început la sfârșitul anilor '90 și a devenit un proiect emblematic pentru arhitectura urbană contemporană. Simbolul cartierului este reprezentat de cele trei clădiri 'Kranhäuser' (Casele Macara), proiectate de arhitecții BRT. Forma lor distinctivă amintește de macaralele portuare istorice, adăugând o notă futuristă panoramei orașului. Rheinauhafen combină depozite vechi restaurate cu edificii noi inovatoare, oferind un mix de locuințe de lux, birouri, restaurante și spații culturale. Faleza de doi kilometri de-a lungul Rinului este o locație populară pentru plimbări, jogging și role. În cartier se află și instituții culturale majore, precum Muzeul Ciocolatei și Muzeul German al Sportului și Olimpic. Turnul fostului căpitan al portului și zidurile vechi ale cheiului evocă trecutul industrial al locației.",
+    "en": "Rheinauhafen is a modern waterfront district in southern Cologne, revitalized on the site of a former 19th-century river harbor. The transformation of this area began in the late 1990s and has since become a benchmark for urban architectural redevelopment. The district's most famous landmarks are the three 'Kranhäuser' (Crane Houses), designed by architects BRT. Their striking cantilevered shape mimics the look of historic harbor cranes, lending a futuristic touch to Cologne's skyline. Rheinauhafen seamlessly blends protected historical warehouses with cutting-edge new buildings, housing a mix of luxury apartments, corporate offices, galleries, and eateries. The two-kilometer promenade along the Rhine is a favorite spot for walking, jogging, and skating. The district also hosts cultural staples like the Chocolate Museum and the German Sport & Olympic Museum. The old harbor master's tower and preserved quay walls serve as reminders of the site's rich industrial past."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die Kranhäuser sind ca. 60 Meter hoch und ragen bis zu 40 Meter über den Kai hinaus.",
+      "Der Rheinauhafen hat eine Gesamtfläche von ca. 15,4 Hektar.",
+      "Das 'Siebengebirge' ist ein denkmalgeschützter Lagerhauskomplex mit charakteristischen Giebeln.",
+      "Im Viertel befindet sich das längste unterirdische Parkhaus Europas (1,6 km Länge).",
+      "Der Hafen wurde ursprünglich 1898 offiziell eröffnet.",
+      "In den Kranhäusern befinden sich teils Luxus-Eigentumswohnungen mit Rheinblick."
+    ],
+    "hu": [
+      "A Daruházak kb. 60 méter magasak, és 40 méter hosszan nyúlnak a rakpart fölé.",
+      "A Rheinauhafen teljes területe körülbelül 15,4 hektár.",
+      "A 'Siebengebirge' nevű épület egy műemlék raktárkomplexum jellegzetes oromzatokkal.",
+      "Itt található Európa leghosszabb mélygarázsa, amely 1,6 kilométer hosszú.",
+      "A kikötőt eredetileg 1898-ban adták át a forgalomnak.",
+      "A Daruházakban többek között luxuslakások kaptak helyet pazar rajnai panorámával."
+    ],
+    "ro": [
+      "Casele Macara au o înălțime de aproximativ 60 de metri și o consolă de 40 de metri peste chei.",
+      "Rheinauhafen ocupă o suprafață totală de circa 15,4 hectare.",
+      "Clădirea 'Siebengebirge' este un complex de depozite istorice cu frontoane distinctive.",
+      "Cartierul deține cea mai lungă parcare subterană din Europa, având 1,6 km lungime.",
+      "Portul a fost inaugurat oficial în forma sa inițială în anul 1898.",
+      "Casele Macara găzduiesc birouri de prestigiu și apartamente de lux cu vedere la Rin."
+    ],
+    "en": [
+      "The Crane Houses stand about 60 meters tall and cantilever 40 meters out over the quay.",
+      "Rheinauhafen covers a total area of approximately 15.4 hectares.",
+      "The 'Siebengebirge' is a heritage-listed warehouse complex with iconic gables.",
+      "The district features Europe's longest underground parking garage at 1.6 km.",
+      "The harbor was originally officially opened in 1898.",
+      "The Crane Houses contain a mix of commercial offices and high-end luxury residences."
+    ]
+  },
+  "practical": {
+    "address": "Im Zollhafen, 50678 Köln",
+    "openingHours": "24/7 (Außenbereiche); Museen und Gastronomie variieren",
+    "entranceFee": "frei (Zugang zum Viertel)",
+    "website": "https://www.rheinauhafen-koeln.de",
+    "publicTransport": "U-Bahn Severinstraße (Linien 3, 4, 17) oder Bus 132/133 (Station Schokoladenmuseum)",
+    "parking": "Tiefgarage Rheinauhafen, ca. €3.00 pro Stunde (Einfahrt Bayenstraße)",
+    "accessibility": "Barrierefreie Flaniermeile; Aufzüge in den Kranhäusern und Parkgaragen vorhanden.",
+    "photoRules": "Privates Fotografieren erlaubt; gewerbliche Aufnahmen bedürfen oft einer Genehmigung.",
+    "bestTimeToVisit": "Spätnachmittag für das goldene Licht auf der Glasfassade der Kranhäuser.",
+    "audioGuide": "no"
+  }
+}

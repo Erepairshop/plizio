@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Römisch-Germanisches Museum",
+  "slug": "romisch-germanisches-museum",
+  "descriptionAdvanced": {
+    "de": "Das Römisch-Germanische Museum (RGM) am Roncalliplatz präsentiert das reiche archäologische Erbe Kölns von der Urgeschichte bis ins frühe Mittelalter. Es wurde direkt über den Fundamenten einer römischen Stadtvilla aus dem 3. Jahrhundert errichtet, deren prachtvolles Dionysos-Mosaik das Herzstück des Museums bildet. Das Mosaik wurde 1941 während des Baus eines Luftschutzkellers zufällig entdeckt und blieb an seinem ursprünglichen Ort erhalten. Ein weiteres Highlight ist das fast 15 Meter hohe Grabmal des Poblicius, eines römischen Legionärs aus dem 1. Jahrhundert n. Chr. Die Sammlung umfasst zudem die weltweit größte Kollektion römischer Gläser sowie wertvollen Goldschmuck der Völkerwanderungszeit. Das 1974 eröffnete Museumsgebäude selbst ist ein markantes Beispiel für die Nachkriegsmoderne. Hinweis: Da das Haupthaus am Dom derzeit saniert wird, ist ein Großteil der Sammlung im Belgischen Haus am Neumarkt untergebracht, während die Großexponate oft durch Fenster einsehbar bleiben.",
+    "hu": "A dóm mellett található Römisch-Germanisches Museum (Római-Germán Múzeum) Köln gazdag régészeti örökségét mutatja be az őskortól a kora középkorig. Az intézményt közvetlenül egy 3. századi római városi villa alapjaira építették, amelynek lenyűgöző Dionüszosz-mozaikja a múzeum központi eleme. A mozaikot 1941-ben fedezték fel véletlenül egy légvédelmi óvóhely építése közben, és azóta is eredeti helyén látható. A kiállítás másik ékköve Poblicius legionárius 1. századi, közel 15 méter magas síremléke. A múzeum büszkélkedhet a világ legnagyobb római üvegedény-gyűjteményével és a népvándorlás korából származó értékes aranyékszerekkel is. Az 1974-ben átadott épület a háború utáni modern építészet jelentős alkotása. Figyelem: A főépület felújítás miatt jelenleg zárva tart, a kiállítás egy része a Belgisches Haus-ban (Neumarkt) tekinthető meg, bár a nagy mozaik az ablakokon keresztül továbbra is látható.",
+    "ro": "Muzeul Romano-German (RGM) din Köln prezintă moștenirea arheologică fascinantă a orașului, de la preistorie până în Evul Mediu timpuriu. Edificiul a fost ridicat direct deasupra fundațiilor unei vile romane din secolul al III-lea d.Hr., al cărei superb Mozaic al lui Dionysos constituie piesa centrală a muzeului. Mozaicul a fost descoperit accidental în 1941 în timpul construcției unui buncăr antiaerian și a fost păstrat in situ. O altă atracție majoră este monumentul funerar al lui Poblicius, un legionar roman din secolul I, care se înalță la aproape 15 metri. Muzeul deține cea mai mare colecție de sticlărie romană din lume și bijuterii prețioase din perioada migrațiilor. Inaugurată în 1974, clădirea este un exemplu notabil de modernism postbelic. Notă: Clădirea principală de lângă Dom este în renovare, cea mai mare parte a colecției fiind mutată temporar la Belgisches Haus (lângă Neumarkt), deși marile exponate pot fi încă văzute prin vitrinele exterioare.",
+    "en": "The Romano-Germanic Museum (RGM), located next to Cologne Cathedral, showcases the city's vast archaeological heritage from prehistory to the early Middle Ages. The museum was built directly over the foundations of a 3rd-century Roman urban villa, whose spectacular Dionysus Mosaic remains its center-piece. Discovered by chance in 1941 during the construction of an air-raid shelter, the mosaic was preserved in its original location. Another highlight is the nearly 15-meter-high tomb of Poblicius, a Roman legionary from the 1st century AD. The collection also boasts the world's largest assembly of Roman glassware and exquisite gold jewelry from the Migration Period. Opened in 1974, the building itself is a significant example of post-war modern architecture. Note: The main building at Roncalliplatz is currently closed for renovation; much of the collection is temporarily housed at the Belgisches Haus near Neumarkt, though major exhibits can still be viewed through the glass windows."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Das Dionysos-Mosaik besteht aus rund 1,5 Millionen einzelnen Mosaiksteinen.",
+      "Das Grabmal des Poblicius wurde 1930 bei Kanalarbeiten in der Südstadt entdeckt.",
+      "Die römische Glassammlung umfasst ca. 4.000 Objekte aus fünf Jahrhunderten.",
+      "Das Museum steht auf dem Gelände des antiken römischen Nordtors.",
+      "Der Fundort des Mosaiks liegt ca. 6 Meter unter dem heutigen Straßenniveau.",
+      "Die Sammlung fränkischen Goldschmucks zählt zu den wertvollsten in Europa."
+    ],
+    "hu": [
+      "A Dionüszosz-mozaik körülbelül 1,5 millió egyedi kődarabból áll.",
+      "Poblicius síremlékét 1930-ban találták meg csatornázási munkák során.",
+      "A római üveggyűjtemény mintegy 4000 tárgyat foglal magában öt évszázadból.",
+      "A múzeum az ókori római északi városkapu közelében fekszik.",
+      "A mozaik lelőhelye 6 méterrel a mai utcaszint alatt található.",
+      "A frank aranyműves gyűjtemény az egyik legértékesebb egész Európában."
+    ],
+    "ro": [
+      "Mozaicul lui Dionysos este format din aproximativ 1,5 milioane de piese individuale.",
+      "Monumentul lui Poblicius a fost descoperit în 1930 în timpul unor lucrări la canalizare.",
+      "Colecția de sticlă romană cuprinde circa 4.000 de obiecte din cinci secole diferite.",
+      "Muzeul este situat pe situl fostei porți de nord a orașului roman.",
+      "Locul unde a fost găsit mozaicul se află la 6 metri sub nivelul actual al străzii.",
+      "Colecția de bijuterii din aur ale francilor este una dintre cele mai valoroase din Europa."
+    ],
+    "en": [
+      "The Dionysus Mosaic consists of approximately 1.5 million individual tiles.",
+      "The Poblicius tomb was discovered in 1930 during sewage pipe works in the south of Cologne.",
+      "The Roman glass collection contains about 4,000 objects spanning five centuries.",
+      "The museum is situated on the grounds of the ancient Roman north gate.",
+      "The mosaic's original floor is located about 6 meters below current street level.",
+      "The collection of Frankish gold jewelry is considered one of the most valuable in Europe."
+    ]
+  },
+  "practical": {
+    "address": "Roncalliplatz 4, 50667 Köln (Haupthaus) / Cäcilienstraße 46 (Interim)",
+    "openingHours": "Di-So 10:00-18:00 (Interim im Belgischen Haus)",
+    "entranceFee": "€6.00 Erwachsene, €3.00 ermäßigt (Interimsstandort)",
+    "website": "https://www.roemisch-germanisches-museum.de",
+    "publicTransport": "U-Bahn Neumarkt (Linien 1, 3, 4, 7, 9, 16, 18) für das Ausweichquartier.",
+    "parking": "Parkhaus Cäcilienstraße am Neumarkt, ca. €2.50 pro Stunde",
+    "accessibility": "Haupthaus derzeit gesperrt; Ausweichquartier ist barrierefrei zugänglich.",
+    "photoRules": "Fotografieren ohne Blitz für private Zwecke erlaubt.",
+    "bestTimeToVisit": "Dämmerung, um das Dionysos-Mosaik durch die Fenster des Haupthauses beleuchtet zu sehen.",
+    "audioGuide": "Deutsch, Englisch (im Interim verfügbar)"
+  }
+}

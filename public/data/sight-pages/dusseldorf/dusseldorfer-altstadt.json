@@ -1,0 +1,57 @@
+{
+  "host_id": "dusseldorf",
+  "sight_name": "Düsseldorfer Altstadt",
+  "slug": "dusseldorfer-altstadt",
+  "descriptionAdvanced": {
+    "de": "Die Düsseldorfer Altstadt, flächenmäßig einer der kleinsten Stadtteile, genießt weltweiten Ruf als \"längste Unterhaltungstheke der Welt\". Auf engstem Raum drängen sich hier über 260 gastronomische Betriebe, von urigen Brauhäusern bis zu modernen Cocktailbars. Das historische Herz der Stadt wurde im Zweiten Weltkrieg stark zerstört, jedoch nach 1945 unter Beibehaltung der alten Gassenstrukturen und Fassaden rekonstruiert. Neben dem Nachtleben bietet das Viertel bedeutende kulturelle Stätten wie das Geburtshaus von Heinrich Heine, das Rathaus aus dem 16. Jahrhundert und die Kunstsammlung Nordrhein-Westfalen. Ein zentraler Punkt ist der Marktplatz mit dem Jan-Wellem-Reiterstandbild, das als eines der wichtigsten Barockdenkmale nördlich der Alpen gilt. Die Altstadt verbindet rheinische Lebensfreude mit tief verwurzelter Geschichte und bleibt trotz des Tourismus ein authentischer Ort lokaler Identität, besonders beim Ausschank des berühmten Altbiers.",
+    "hu": "A düsseldorfi óváros (Altstadt) területileg az egyik legkisebb negyed, mégis világhírnévnek örvend mint a \"világ leghosszabb pultja\". Szűk helyen több mint 260 vendéglátóhely zsúfolódik össze, az autentikus sörfőzdéktől a modern koktélbárokig. A város történelmi szívét a második világháborúban súlyos pusztítás érte, de 1945 után az eredeti utcaszerkezet és homlokzatok megtartásával újjáépítették. Az éjszakai élet mellett a negyed jelentős kulturális helyszíneket is kínál, mint például Heinrich Heine szülőháza, a 16. századi városháza és az Észak-Rajna-Vesztfáliai Művészeti Gyűjtemény. Központi pontja a Piactér (Marktplatz) Jan Wellem lovas szobrával, amely az Alpoktól északra fekvő egyik legfontosabb barokk emlékmű. Az óváros ötvözi a rajnai életörömöt a mélyen gyökerező történelemmel, és az Altbier sörfőzés hagyományának őrzője.",
+    "ro": "Orașul vechi din Düsseldorf (Altstadt), deși unul dintre cele mai mici districte ca suprafață, se bucură de o reputație mondială ca \"cel mai lung bar din lume\". Într-un spațiu restrâns se înghesuie peste 260 de unități gastronomice, de la berării tradiționale până la baruri moderne de cocktailuri. Inima istorică a orașului a fost puternic distrusă în al Doilea Război Mondial, dar reconstruită după 1945 menținând structura vechilor străduțe și fațade. Pe lângă viața de noapte, cartierul oferă locuri culturale importante, cum ar fi casa natală a lui Heinrich Heine, primăria din secolul al XVI-lea și Colecția de Artă a Renaniei de Nord-Westfalia. Un punct central este Marktplatz cu statuia ecvestră a lui Jan Wellem, unul dintre cele mai importante monumente baroce la nord de Alpi. Altstadt îmbină bucuria de a trăi rhenană cu istoria profundă.",
+    "en": "Dusseldorf's Old Town (Altstadt), though small in size, is internationally famous as the \"longest bar in the world\" due to its dense concentration of over 260 pubs, breweries, and bars. While the historical heart of the city was heavily damaged during World War II, it was carefully reconstructed after 1945, preserving its traditional narrow alleys and historic facades. Beyond its legendary nightlife, the district is a cultural treasure trove, home to the birthplace of poet Heinrich Heine, the 16th-century City Hall, and major art museums like the Kunstsammlung NRW. The central Marktplatz features the equestrian statue of Jan Wellem, considered one of the most significant Baroque monuments north of the Alps. The Altstadt remains a bastion of Rhenish tradition and local identity, where visitors can still enjoy the famous dark \"Altbier\" directly from the barrel in rustic brew houses."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Das Viertel beherbergt über 260 Kneipen, Restaurants und Bars.",
+      "Das historische Rathaus am Marktplatz stammt aus dem Jahr 1570.",
+      "Die Kirche St. Lambertus ist für ihren schiefen Kirchturm bekannt.",
+      "Heinrich Heine wurde 1797 in der Bolkerstraße 53 geboren.",
+      "Das Altbier wird hier noch nach traditionellen Rezepten gebraut.",
+      "Der Stadtteil ist lediglich rund 0,5 Quadratkilometer groß."
+    ],
+    "hu": [
+      "A negyed több mint 260 kocsmának, étteremnek és bárnak ad otthont.",
+      "A Piactéren álló történelmi városháza 1570-ből származik.",
+      "A Szent Lambertus-templom jellegzetes csavarodott tornyáról ismert.",
+      "Heinrich Heine 1797-ben született a Bolkerstraße 53. szám alatt.",
+      "Az Altbier-t itt ma is hagyományos receptek alapján főzik.",
+      "A városrész mindössze körülbelül 0,5 négyzetkilométer területű."
+    ],
+    "ro": [
+      "Cartierul găzduiește peste 260 de cârciumi, restaurante și baruri.",
+      "Primăria istorică din Marktplatz datează din anul 1570.",
+      "Biserica Sf. Lambertus este cunoscută pentru turnul său strâmb.",
+      "Heinrich Heine s-a născut în 1797 pe strada Bolkerstraße nr. 53.",
+      "Berea Altbier este produsă aici după rețete tradiționale.",
+      "Districtul are o suprafață de numai aproximativ 0,5 kilometri pătrați."
+    ],
+    "en": [
+      "The district is home to over 260 pubs, restaurants, and bars.",
+      "The historic City Hall on Marktplatz dates back to 1570.",
+      "St. Lambertus Church is famous for its distinctively twisted spire.",
+      "Poet Heinrich Heine was born at Bolkerstraße 53 in 1797.",
+      "Traditional dark \"Altbier\" is still brewed here in historic houses.",
+      "The entire district covers an area of only about 0.5 square kilometers."
+    ]
+  },
+  "practical": {
+    "address": "Bolkerstraße / Marktplatz, 40213 Düsseldorf",
+    "openingHours": "24/7 (Gastronomie meist ab 11:00 bis spät nachts)",
+    "entranceFee": "kostenlos",
+    "website": "https://www.duesseldorf-altstadt.de",
+    "publicTransport": "U-Bahn Heinrich-Heine-Allee (alle Linien)",
+    "parking": "Parkhaus Altstadt Rheinufer oder Carlsplatz, sehr hohe Nachfrage",
+    "accessibility": "Eingeschränkt durch Kopfsteinpflaster und historische Gebäude",
+    "photoRules": "Im öffentlichen Raum uneingeschränkt erlaubt",
+    "bestTimeToVisit": "Spätnachmittag für die Atmosphäre, Abend für das Nachtleben",
+    "audioGuide": "Nein"
+  }
+}

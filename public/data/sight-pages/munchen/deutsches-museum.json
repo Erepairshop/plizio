@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Deutsches Museum",
+  "slug": "deutsches-museum",
+  "descriptionAdvanced": {
+    "de": "Das Deutsche Museum auf der Isarinsel ist das weltweit führende Museum für Naturwissenschaft und Technik und ein absolutes Muss für jeden München-Besucher. Gegründet wurde das Institut im Jahr 1903 durch den visionären Ingenieur Oskar von Miller mit dem Ziel, technisches und naturwissenschaftliches Wissen für jedermann begreifbar zu machen. Auf einer Ausstellungsfläche von mehreren zehntausend Quadratmetern werden Meisterwerke der Technik aus über 50 Fachgebieten präsentiert – von der Astronomie über die Schifffahrt und Luftfahrt bis hin zur Nanotechnologie und Informatik. Zu den herausragenden Exponaten gehören das erste motorisierte Flugzeug der Brüder Wright, das U-Boot U1 und die erste computergesteuerte Rechenmaschine von Konrad Zuse. Besonders beliebt sind die täglichen Vorführungen, wie etwa die Hochspannungsanlage, bei der künstliche Blitze erzeugt werden. Das Museum versteht sich als lebendiges Lernzentrum, in dem Besucher an zahlreichen interaktiven Stationen Experimente selbst durchführen können. Nach umfangreichen Modernisierungen verbindet das Museum heute historische Meilensteine mit aktuellen Themen wie Klimawandel und Energiewende.",
+    "hu": "Az Isar folyó szigetén található Deutsches Museum a világ vezető természettudományi és technikai múzeuma, minden müncheni látogató számára kötelező program. Az intézményt 1903-ban alapította a látnok mérnök, Oskar von Miller azzal a céllal, hogy a technikai és természettudományos ismereteket mindenki számára érthetővé tegye. Több tízezer négyzetméternyi kiállítóterületen a technika remekműveit mutatják be több mint 50 szakterületről – a csillagászattól a hajózáson és repülésen át a nanotechnológiáig és az informatikáig. A kiemelkedő kiállítási tárgyak közé tartozik a Wright fivérek első motoros repülőgépe, az U1-es tengeralattjáró és Konrad Zuse első számítógépe. Különösen népszerűek a napi bemutatók, például a nagyfeszültségű berendezés, ahol mesterséges villámokat keltenek. A múzeum élő tanulóközpontként határozza meg önmagát, ahol a látogatók számos interaktív állomáson maguk is végezhetnek kísérleteket. Az átfogó korszerűsítések után a múzeum ma a történelmi mérföldköveket ötvözi olyan aktuális témákkal, mint a klímaváltozás és az energiafordulat.",
+    "ro": "Muzeul German (Deutsches Museum) de pe insula râului Isar este cel mai important muzeu de știință și tehnologie din lume și o destinație esențială pentru orice vizitator al Münchenului. Instituția a fost fondată în 1903 de inginerul vizionar Oskar von Miller, cu scopul de a face cunoștințele tehnice și științifice accesibile tuturor. Pe o suprafață expozițională de zeci de mii de metri pătrați sunt prezentate capodopere ale tehnologiei din peste 50 de domenii – de la astronomie, navigație și aviație până la nanotehnologie și informatică. Printre exponatele remarcabile se numără primul avion motorizat al fraților Wright, submarinul U1 și primul calculator controlat prin program al lui Konrad Zuse. Deosebit de populare sunt demonstrațiile zilnice, cum ar fi instalația de înaltă tensiune unde sunt generate fulgere artificiale. Muzeul se consideră un centru de învățare activ, unde vizitatorii pot efectua ei înșiși experimente la numeroase stații interactive. După modernizări extinse, muzeul combină astăzi reperele istorice cu teme actuale precum schimbările climatice și tranziția energetică.",
+    "en": "The Deutsches Museum on the Isar island is the world's leading museum of science and technology and an absolute must for every visitor to Munich. The institution was founded in 1903 by visionary engineer Oskar von Miller with the goal of making technical and scientific knowledge accessible to everyone. Across tens of thousands of square meters of exhibition space, masterpieces of technology from over 50 fields are presented – from astronomy, shipping, and aviation to nanotechnology and computer science. Outstanding exhibits include the Wright brothers' first motorized aircraft, the U1 submarine, and Konrad Zuse's first programmable computer. Particularly popular are the daily demonstrations, such as the high-voltage facility where artificial lightning is generated. The museum sees itself as a living learning center where visitors can conduct experiments themselves at numerous interactive stations. Following extensive modernizations, the museum today connects historical milestones with contemporary challenges like climate change and the energy transition."
+  },
+  "factsAdvanced": {
+    "de": [
+      "1903: Gründung des Museums durch den Ingenieur Oskar von Miller.",
+      "1,3 Millionen: Jährliche durchschnittliche Besucherzahl des Museums.",
+      "28.000 Objekte: Umfang der Exponate aus über 50 Fachbereichen.",
+      "1925: Eröffnung des heutigen Hauptgebäudes auf der Museumsinsel.",
+      "1950: Erster Betrieb des Planetariums nach dem Wiederaufbau.",
+      "9 Kilometer: Die Gesamtlänge des Ausstellungsrundgangs im Haus."
+    ],
+    "hu": [
+      "1903: A múzeum alapítása Oskar von Miller mérnök által.",
+      "1,3 millió: A múzeum éves átlagos látogatószáma.",
+      "28 000 tárgy: A kiállított tárgyak száma több mint 50 szakterületről.",
+      "1925: A mai főépület megnyitása a Múzeumszigeten.",
+      "1950: A planetárium első üzeme az újjáépítés után.",
+      "9 kilométer: A kiállítási útvonal teljes hossza az épületben."
+    ],
+    "ro": [
+      "1903: Fondarea muzeului de către inginerul Oskar von Miller.",
+      "1,3 milioane: Numărul mediu anual de vizitatori ai muzeului.",
+      "28.000 obiecte: Numărul exponatelor din peste 50 de domenii.",
+      "1925: Deschiderea actualei clădiri principale pe Insula Muzeelor.",
+      "1950: Prima punere în funcțiune a planetariului după reconstrucție.",
+      "9 kilometri: Lungimea totală a traseului expozițional în clădire."
+    ],
+    "en": [
+      "1903: Founding of the museum by the engineer Oskar von Miller.",
+      "1.3 million: Average annual number of visitors to the museum.",
+      "28,000 objects: Scope of exhibits covering over 50 specialized fields.",
+      "1925: Opening of the current main building on the Museum Island.",
+      "1950: First operation of the planetarium after its reconstruction.",
+      "9 kilometers: Total length of the exhibition tour within the building."
+    ]
+  },
+  "practical": {
+    "address": "Museumsinsel 1, 80538 München",
+    "openingHours": "Täglich 09:00-17:00",
+    "entranceFee": "€15,00 Erwachsene, €8,00 Kinder (6-17 Jahre)",
+    "website": "https://www.deutsches-museum.de",
+    "publicTransport": "S-Bahn bis Isartor (S1-S8) oder Tram 16 bis Deutsches Museum",
+    "parking": "Parkhaus Isartorplatz, ca. €4,00/Std. (keine museumseigenen Plätze)",
+    "accessibility": "Das gesamte Museum ist weitgehend barrierefrei, Aufzüge vorhanden",
+    "photoRules": "Fotos für private Zwecke ohne Blitz und Stativ erlaubt",
+    "bestTimeToVisit": "Den ganzen Tag einplanen, unter der Woche weniger Schulklassen",
+    "audioGuide": "Ja, über die kostenlose Deutsches Museum App (DE/EN)"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Olympiapark",
+  "slug": "olympiapark",
+  "descriptionAdvanced": {
+    "de": "Der Olympiapark München wurde anlässlich der XX. Olympischen Sommerspiele 1972 auf dem ehemaligen Oberwiesenfeld errichtet. Das Gelände ist ein Meilenstein der modernen Architektur und Landschaftsplanung. Weltberühmt ist die revolutionäre Zeltdachkonstruktion der Architekten Behnisch und Partner sowie Frei Otto, die sich organisch über das Olympiastadion, die Olympiahalle und die Schwimmhalle spannt. Diese Konstruktion aus Stahlnetzen und Acrylglasplatten galt zur Zeit ihrer Entstehung als statisches Wagnis und architektonisches Wunder. Der Park selbst wurde auf einem Trümmerberg aus dem Zweiten Weltkrieg angelegt, was ihm eine besondere symbolische Bedeutung als Ort der Erneuerung verleiht. Heute ist das Areal ein lebendiges Freizeit- und Veranstaltungszentrum, das jährlich Millionen Besucher anzieht. Neben Sportstätten bietet der Park weitläufige Grünflächen, den Olympiasee und den 291 Meter hohen Olympiaturm, der einen spektakulären Blick bis zu den Alpen bietet.",
+    "hu": "A müncheni Olimpiai Park az 1972-es XX. Nyári Olimpiai Játékokra épült az egykori Oberwiesenfeld területén. A komplexum a modern építészet és tájtervezés mérföldköve. Világhírnevét a Behnisch és Partner, valamint Frei Otto által tervezett forradalmi sátortető-szerkezetnek köszönheti, amely organikusan feszül az Olimpiai Stadion, az Olimpiai Csarnok és az Úszócsarnok fölé. Az acélhálóból és akrilüveg lapokból álló konstrukció építésekor statikai merészségnek és építészeti csodának számított. Magát a parkot a második világháborús romokból emelt dombon alakították ki, ami különleges szimbolikus jelentőséget ad neki, mint a megújulás helyszínének. Ma a terület egy nyüzsgő szabadidős és kulturális központ, amely évente látogatók millióit vonzza. A sportlétesítmények mellett tágas zöldfelületek, az Olimpiai-tó és a 291 méter magas Olimpiai-torony várja a vendégeket.",
+    "ro": "Parcul Olimpic din München a fost construit pentru a găzdui a XX-a ediție a Jocurilor Olimpice de vară din 1972, pe fostul teren Oberwiesenfeld. Complexul este considerat un reper al arhitecturii moderne și al planificării peisagistice. Elementul său distinctiv este revoluționara structură a acoperișului în formă de cort, proiectată de Behnisch și Partner și Frei Otto, care acoperă Stadionul Olimpic, Sala Olimpică și Bazinul Olimpic. Realizat din rețele de cabluri de oțel și panouri de sticlă acrilică, acoperișul a fost un miracol tehnologic la momentul inaugurării sale. Parcul a fost amenajat pe un deal format din resturile clădirilor distruse în al Doilea Război Mondial, oferindu-i o valență simbolică de renaștere. Astăzi, zona este un centru activ pentru evenimente și recreere, oferind spații verzi vaste, Lacul Olimpic și Turnul Olimpic de 291 de metri, de unde se poate vedea panorama orașului până la Alpi.",
+    "en": "Munich's Olympic Park was created for the 1972 Summer Olympics on a site known as Oberwiesenfeld. The complex remains a landmark of 20th-century architecture and landscape design, famous for its revolutionary tent roof construction. Designed by Behnisch and Partner and structural engineer Frei Otto, the sweeping canopy of steel cables and acrylic glass panels organically connects the Olympic Stadium, the Olympic Hall, and the Aquatic Center. At the time of its completion, it was considered a bold structural experiment and an architectural marvel. The park was partially landscaped using rubble from World War II bombings, giving the site a profound symbolic meaning of peace and reconstruction. Today, the area is a vibrant hub for leisure and major events, drawing millions of visitors each year. Beyond the sporting venues, it features expansive greenery, the Olympic Lake, and the 291-meter Olympic Tower."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Das Zeltdach überspannt eine Gesamtfläche von rund 74.800 Quadratmetern.",
+      "Der Olympiaturm ist mit 291 Metern das höchste Bauwerk der Stadt.",
+      "Für den Bau wurden rund 10 Millionen Kubikmeter Trümmerschutt aus dem Krieg verwendet.",
+      "Das Gelände war Austragungsort der XX. Olympischen Sommerspiele 1972.",
+      "Der Olympiasee hat eine Wasserfläche von etwa 8,6 Hektar.",
+      "Die Baukosten für das Stadion allein beliefen sich auf ca. 137 Millionen D-Mark."
+    ],
+    "hu": [
+      "A sátortető összesen mintegy 74 800 négyzetméternyi területet fed le.",
+      "Az Olimpiai-torony 291 méteres magasságával a város legmagasabb építménye.",
+      "Az építéshez mintegy 10 millió köbméter második világháborús törmeléket használtak fel.",
+      "A terület az 1972-es XX. Nyári Olimpiai Játékok központi helyszíne volt.",
+      "Az Olimpiai-tó vízfelülete megközelítőleg 8,6 hektár.",
+      "Csak a stadion építési költségei körülbelül 137 millió német márkát tettek ki."
+    ],
+    "ro": [
+      "Acoperișul în formă de cort se întinde pe o suprafață totală de circa 74.800 mp.",
+      "Turnul Olimpic este cea mai înaltă structură din oraș, având 291 de metri.",
+      "Circa 10 milioane mc de moloz din al Doilea Război Mondial au fost folosiți la construcție.",
+      "Parcul a găzduit a XX-a ediție a Jocurilor Olimpice de vară în anul 1972.",
+      "Lacul Olimpic are o suprafață a luciului de apă de aproximativ 8,6 hectare.",
+      "Costurile de construcție doar pentru stadion s-au ridicat la circa 137 milioane mărci germane."
+    ],
+    "en": [
+      "The iconic tent roof covers a total surface area of approximately 74,800 square meters.",
+      "At 291 meters, the Olympic Tower remains the tallest structure in Munich.",
+      "Around 10 million cubic meters of wartime rubble were used to shape the landscape.",
+      "The site served as the primary venue for the 1972 XX Summer Olympic Games.",
+      "The Olympic Lake covers a water surface area of roughly 8.6 hectares.",
+      "The construction costs for the stadium alone reached approximately 137 million D-Marks."
+    ]
+  },
+  "practical": {
+    "address": "Spiridon-Louis-Ring 21, 80809 München",
+    "openingHours": "Mo-Su 09:00-24:00 (Olympiaturm), Parkgelände 24/7",
+    "entranceFee": "Parkgelände kostenlos, Olympiaturm €13 Erwachsene.",
+    "website": "https://www.olympiapark.de",
+    "publicTransport": "Olympiazentrum (U3)",
+    "parking": "Parkharfe am Olympiastadion, ca. €5 Tagesticket.",
+    "accessibility": "Parkwege weitgehend barrierefrei, Turmrollstuhl-geeignet.",
+    "photoRules": "Fotografieren im Freien erlaubt, gewerbliche Aufnahmen genehmigungspflichtig.",
+    "bestTimeToVisit": "Später Nachmittag für Sonnenuntergang auf dem Olympiaberg.",
+    "audioGuide": "de, en (für Stadiontouren)"
+  }
+}

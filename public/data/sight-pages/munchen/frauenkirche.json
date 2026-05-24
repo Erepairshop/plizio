@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Frauenkirche",
+  "slug": "frauenkirche",
+  "descriptionAdvanced": {
+    "de": "Die Domkirche zu Unserer Lieben Frau, besser bekannt als Frauenkirche, ist seit 1821 die Kathedrale des Erzbischofs von München und Freising und gilt als das unverwechselbare Wahrzeichen der bayerischen Landeshauptstadt. Der spätgotische Backsteinbau wurde im 15. Jahrhundert in der erstaunlich kurzen Zeit von nur 20 Jahren errichtet, nachdem der Vorgängerbau zu klein geworden war. Besonders markant sind die beiden fast 100 Meter hohen Türme mit ihren charakteristischen welschen Hauben, die erst 1525 aufgesetzt wurden und ursprünglich byzantinischen Vorbildern nachempfunden waren. Im Inneren des Doms herrscht eine schlichte, aber würdevolle Atmosphäre, die durch die hohen weißen Säulen und das weiche Licht geprägt wird. Ein bedeutendes Kunstwerk ist das prachtvolle Kenotaph für Kaiser Ludwig den Bayern aus schwarzem Marmor und Bronze. Weltberühmt ist zudem der sogenannte Teufelstritt am Eingang – ein schwarzer Fußabdruck im Boden, um den sich eine düstere Legende über den Bau des Doms und eine Wette mit dem Teufel rankt. Die Frauenkirche ist nicht nur ein Ort des Gebets, sondern auch ein steinernes Zeugnis der Münchner Stadtgeschichte.",
+    "hu": "A müncheni Miasszonyunk-templom, közismert nevén a Frauenkirche, 1821 óta a München-Freisingi főegyházmegye székesegyháza és a bajor főváros összetéveszthetetlen jelképe. A késő gótikus téglaépületet a 15. században építették megdöbbentően rövid idő, mindössze 20 év alatt, miután a korábbi templom túl kicsinek bizonyult. Különösen jellegzetes a két, közel 100 méter magas tornya a sajátos hagymakupolákkal, amelyeket csak 1525-ben helyeztek fel, és eredetileg bizánci mintákat követtek. A dóm belsejében egyszerű, de méltóságteljes hangulat uralkodik, amelyet a magas fehér oszlopok és a lágy fény határoz meg. Jelentős műalkotás IV. Lajos német-római császár pompás, fekete márványból és bronzból készült díszsírhelye. Világhírű a bejáratnál található úgynevezett \"ördög lábnyoma\" – egy fekete lábnyom a padlóban, amelyhez egy sötét legenda fűződik a dóm építéséről és az ördöggel kötött fogadásról. A Frauenkirche nemcsak az imádság helye, hanem München történelmének kőbe vésett bizonysága is.",
+    "ro": "Catedrala Frauenkirche, cunoscută oficial ca Domul Maicii Domnului, este din 1821 catedrala Arhiepiscopiei de München și Freising și reprezintă simbolul inconfundabil al capitalei bavareze. Edificiul în stil gotic târziu, construit din cărămidă roșie, a fost ridicat în secolul al XV-lea într-un timp uimitor de scurt, de doar 20 de ani, după ce construcția anterioară devenise neîncăpătoare. Deosebit de marcante sunt cele două turnuri de aproape 100 de metri înălțime, cu cupolele lor caracteristice în formă de ceapă, care au fost adăugate abia în 1525, fiind inspirate inițial de modele bizantine. În interiorul domului domnește o atmosferă sobră, dar plină de demnitate, definită de coloanele albe înalte și de lumina difuză. O operă de artă semnificativă este magnificul cenotaf al împăratului Ludovic al IV-lea Bavarezul, realizat din marmură neagră și bronz. De asemenea, faimoasă în întreaga lume este așa-numita „urmă a diavolului” de la intrare – o amprentă neagră în pardoseală, în jurul căreia s-a țesut o legendă sumbră despre construcția domului și un pariu cu necuratul. Frauenkirche nu este doar un lăcaș de cult, ci și o mărturie de piatră a istoriei orașului München.",
+    "en": "The Cathedral of Our Dear Lady, better known as the Frauenkirche, has been the seat of the Archbishop of Munich and Freising since 1821 and is considered the unmistakable landmark of the Bavarian capital. This late Gothic brick building was constructed in the 15th century in the amazingly short span of just 20 years after its predecessor became too small. Especially striking are the two towers, nearly 100 meters high, with their characteristic onion domes, which were added in 1525 and were originally modeled after Byzantine designs. Inside the cathedral, a simple yet dignified atmosphere prevails, shaped by high white columns and soft light. A significant work of art is the magnificent cenotaph for Emperor Ludwig the Bavarian, made of black marble and bronze. Also world-famous is the so-called \"Devil's Footstep\" at the entrance – a black footprint in the floor around which a dark legend about the cathedral's construction and a wager with the devil is told. The Frauenkirche is not only a place of prayer but also a stone witness to Munich's long urban history."
+  },
+  "factsAdvanced": {
+    "de": [
+      "1468: Baubeginn unter dem Architekten Jörg von Halspach.",
+      "1525: Aufsetzen der charakteristischen Zwiebeltürme auf die Türme.",
+      "98,5 Meter: Die exakte Höhe des Nordturms der Kathedrale.",
+      "1622: Einweihung des Kenotaphs für Kaiser Ludwig den Bayern.",
+      "1944: Schwere Zerstörungen durch Luftangriffe im Zweiten Weltkrieg.",
+      "20.000: Die geschätzte Kapazität des Doms bei seiner Fertigstellung."
+    ],
+    "hu": [
+      "1468: Az építkezés kezdete Jörg von Halspach építész vezetésével.",
+      "1525: A jellegzetes hagymakupolák elhelyezése a tornyokon.",
+      "98,5 méter: A katedrális északi tornyának pontos magassága.",
+      "1622: IV. Lajos német-római császár díszsírhelyének felszentelése.",
+      "1944: Súlyos károk a második világháborús légitámadások során.",
+      "20 000: A dóm becsült befogadóképessége a befejezéskor."
+    ],
+    "ro": [
+      "1468: Începerea construcției sub conducerea arhitectului Jörg von Halspach.",
+      "1525: Adăugarea cupolelor caracteristice în formă de ceapă pe turnuri.",
+      "98,5 metri: Înălțimea exactă a turnului de nord al catedralei.",
+      "1622: Inaugurarea cenotafului pentru împăratul Ludovic al IV-lea Bavarezul.",
+      "1944: Distrugeri grave cauzate de raidurile aeriene din Al Doilea Război Mondial.",
+      "20.000: Capacitatea estimată a catedralei la momentul finalizării sale."
+    ],
+    "en": [
+      "1468: Construction began under the direction of architect Jörg von Halspach.",
+      "1525: The iconic onion domes were added to the towers.",
+      "98.5 meters: The exact height of the cathedral's northern tower.",
+      "1622: Dedication of the cenotaph for Emperor Ludwig the Bavarian.",
+      "1944: Severe damage sustained during air raids in World War II.",
+      "20,000: The cathedral's estimated capacity upon its completion."
+    ]
+  },
+  "practical": {
+    "address": "Frauenplatz 12, 80331 München",
+    "openingHours": "Mo-Sa 08:00-20:00, So 09:30-20:00",
+    "entranceFee": "Kirche kostenlos, Turmaufstieg €7,50 Erwachsene, €5,00 Kinder",
+    "website": "https://www.muenchner-dom.de",
+    "publicTransport": "U-Bahn/S-Bahn Marienplatz (U3, U6, S1-S8)",
+    "parking": "Parkhaus am Marienplatz (Rindermarkt), ca. €4,50/Std.",
+    "accessibility": "Kirche barrierefrei, Turm nur über Stufen und Aufzug (eingeschränkt)",
+    "photoRules": "Fotos ohne Blitz erlaubt, während Gottesdiensten streng verboten",
+    "bestTimeToVisit": "Vormittags unter der Woche für weniger Gedränge und schönes Licht",
+    "audioGuide": "Ja, in mehreren Sprachen über offizielle App verfügbar"
+  }
+}

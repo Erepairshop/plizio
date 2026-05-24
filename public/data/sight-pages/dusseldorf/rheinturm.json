@@ -1,0 +1,57 @@
+{
+  "host_id": "dusseldorf",
+  "sight_name": "Rheinturm",
+  "slug": "rheinturm",
+  "descriptionAdvanced": {
+    "de": "Der Rheinturm, mit einer Gesamthöhe von 240,5 Metern das höchste Bauwerk Düsseldorfs, wurde zwischen 1979 und 1982 nach Entwürfen des Architekten Harald Deilmann errichtet. Er steht markant am Rande des Regierungsviertels direkt am Rheinufer und dient nicht nur als Träger von Antennen für Richtfunk und Rundfunk, sondern ist mit seiner Aussichtsplattform und dem rotierenden Restaurant \"Qomo\" ein zentraler Touristenmagnet. Eine architektonische Besonderheit ist die Lichtskulptur an der Turmschaft-Außenseite, die als größte digitale Dezimaluhr der Welt ins Guinness-Buch der Rekorde eingegangen ist. Von den verglasten Kanzeln aus bietet sich ein Panorama über den MedienHafen, das Stadtzentrum und bei klarem Wetter bis zum Kölner Dom. Der Turm ist ein Paradebeispiel für den Sichtbetonbau der frühen 80er Jahre und prägt die Skyline der Landeshauptstadt wie kein zweites Gebäude.",
+    "hu": "A Rheinturm Düsseldorf legmagasabb építménye a maga 240,5 méteres magasságával, melyet 1979 és 1982 között építettek Harald Deilmann tervei alapján. A Rajna partján, a kormányzati negyed szélén álló torony nemcsak távközlési célokat szolgál, hanem kilátóterasza és forgó étterme, a \"Qomo\" révén a város egyik legfontosabb turisztikai célpontja. Különleges építészeti megoldása a torony oldalán található fényinstalláció, amely a világ legnagyobb digitális decimális órájaként vonult be a Guinness Rekordok Könyvébe. Az üvegfalú kilátóból lenyűgöző panoráma nyílik a MediaHafen negyedre, a belvárosra, tiszta időben pedig akár a Kölni Dómig is ellátni. A torony a 80-as évek eleji látszóbeton építészet kiemelkedő példája, és alapjaiban határozza meg a tartományi székhely sziluettjét.",
+    "ro": "Rheinturm, cu o înălțime totală de 240,5 metri, este cea mai înaltă structură din Düsseldorf, fiind construită între 1979 și 1982 după planurile arhitectului Harald Deilmann. Situat pe malul Rinului, la marginea districtului guvernamental, turnul nu servește doar ca suport pentru antene de radiodifuziune, ci este și un punct de atracție major datorită platformei sale de observație și restaurantului rotativ \"Qomo\". O particularitate arhitecturală este sculptura luminoasă de pe exteriorul turnului, care a intrat în Cartea Recordurilor ca fiind cel mai mare ceas digital zecimal din lume. De pe platformele vitrate, vizitatorii pot admira o panoramă superbă asupra MediaHafen, a centrului orașului și, în zilele senine, până la Domul din Köln. Turnul este un exemplu clasic al construcțiilor din beton brut de la începutul anilor '80 și definește profilul orașului.",
+    "en": "The Rheinturm, standing at 240.5 meters, is Dusseldorf's tallest landmark and an iconic feature of the city's skyline since its completion in 1982. Designed by architect Harald Deilmann, this concrete telecommunications tower is situated on the banks of the Rhine, right next to the state parliament. Beyond its technical role in broadcasting, it attracts visitors with its observation deck and the revolving \"Qomo\" restaurant, offering breathtaking 360-degree views of the city, the Media Harbour, and the surrounding Rhineland. A unique architectural highlight is the \"Lichtzeitpegel\" on its shaft, recognized as the world's largest digital decimal clock. The tower represents the bold concrete architecture of the early 1980s and has become a symbol of Dusseldorf's modernization and urban identity, especially when illuminated at night."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Erbaut zwischen 1979 und 1981 aus 7.500 Kubikmetern Beton.",
+      "Die Aussichtsplattform befindet sich in einer Höhe von 168 Metern.",
+      "Das Restaurant im Turm dreht sich einmal pro Stunde um die eigene Achse.",
+      "Die Lichtuhr am Schaft besteht aus 62 Leuchten auf 160 Metern Höhe.",
+      "Mit 240,5 Metern ist er das zehnthöchste Bauwerk Deutschlands.",
+      "Das Fundament des Turms reicht 11 Meter tief in den Boden."
+    ],
+    "hu": [
+      "1979 és 1981 között épült, 7500 köbméter beton felhasználásával.",
+      "A kilátóterasz 168 méteres magasságban található.",
+      "A torony étterme óránként egyszer fordul meg a saját tengelye körül.",
+      "A törzsön lévő fényóra 62 lámpából áll, 160 méter hosszan.",
+      "240,5 méterével Németország tizedik legmagasabb építménye.",
+      "A torony alapozása 11 méter mélyen nyúlik a földbe."
+    ],
+    "ro": [
+      "Construit între 1979 și 1981 din 7.500 de metri cubi de beton.",
+      "Platforma de observație se află la o înălțime de 168 de metri.",
+      "Restaurantul din turn se rotește în jurul axei sale o dată pe oră.",
+      "Ceasul luminos de pe trunchi este format din 62 de lămpi.",
+      "La 240,5 metri, este a zecea cea mai înaltă structură din Germania.",
+      "Fundația turnului ajunge la o adâncime de 11 metri în sol."
+    ],
+    "en": [
+      "Built between 1979 and 1981 using 7,500 cubic meters of concrete.",
+      "The observation deck is located at a height of 168 meters.",
+      "The tower's restaurant rotates fully once every hour.",
+      "The light clock on the shaft consists of 62 lamps over 160 meters.",
+      "At 240.5 meters, it is the tenth tallest structure in Germany.",
+      "The foundation of the tower extends 11 meters deep into the ground."
+    ]
+  },
+  "practical": {
+    "address": "Stromstraße 20, 40221 Düsseldorf",
+    "openingHours": "Mo-So 10:00-23:30",
+    "entranceFee": "€12,50 Erwachsene, €8,00 Kinder (6-17 Jahre)",
+    "website": "https://www.rheinturm.de",
+    "publicTransport": "Landtag/Kniebrücke (Straßenbahn 706, 709, Bus 725)",
+    "parking": "Q-Park Rheinturm/Landtag, ca. €3,00 pro Stunde",
+    "accessibility": "Vollständig barrierefrei durch Fahrstühle erreichbar",
+    "photoRules": "Privat erlaubt, kein Blitz oder Stativ im Restaurantbereich",
+    "bestTimeToVisit": "Vor Sonnenuntergang für den Blick bei Tageslicht und Nacht",
+    "audioGuide": "Nein"
+  }
+}

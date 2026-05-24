@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Alte Pinakothek",
+  "slug": "alte-pinakothek",
+  "descriptionAdvanced": {
+    "de": "Die Alte Pinakothek zählt zu den bedeutendsten Gemäldegalerien der Welt und beherbergt eine außergewöhnliche Sammlung europäischer Malerei vom 14. bis zum 18. Jahrhundert. Errichtet wurde der imposante Bau zwischen 1826 und 1836 im Auftrag von König Ludwig I. durch den Architekten Leo von Klenze. Das Gebäude selbst war wegweisend für die europäische Museumskultur und diente mit seinen großen, durch Oberlichter beleuchteten Sälen als Vorbild für zahlreiche spätere Galerien. Die Sammlung umfasst Meisterwerke von Künstlern wie Albrecht Dürer, Peter Paul Rubens, Leonardo da Vinci und Raffael. Besonders hervorzuheben ist das Selbstbildnis im Pelzrock von Dürer, eines der ikonischsten Werke der deutschen Kunstgeschichte. Nach schweren Zerstörungen im Zweiten Weltkrieg wurde das Museum unter der Leitung von Hans Döllgast in einer Weise wiederaufgebaut, die die Narben der Geschichte sichtbar ließ, was dem Bau heute eine zusätzliche architekturhistorische Dimension verleiht.",
+    "hu": "Az Alte Pinakothek a világ egyik legjelentősebb képtára, amely a 14. és 18. század közötti európai festészet rendkívüli gyűjteményének ad otthont. Az impozáns épületet I. Lajos király megbízásából Leo von Klenze építész tervezte és építette 1826 és 1836 között. Az épület mérföldkő volt az európai múzeumtörténetben; hatalmas, felülvilágított termeivel számos későbbi galéria mintájául szolgált. A gyűjtemény olyan mesterek műveit tartalmazza, mint Albrecht Dürer, Peter Paul Rubens, Leonardo da Vinci és Raffaello. Külön említést érdemel Dürer Önarckép prémszegélyes köntösben című alkotása, amely a német művészettörténet egyik legikonikusabb darabja. A második világháború pusztításai után a múzeumot Hans Döllgast vezetésével úgy állították helyre, hogy a történelem sebei láthatóak maradtak, ami mára különleges építészeti és történelmi értéket ad az épületnek.",
+    "ro": "Alte Pinakothek se numără printre cele mai importante galerii de artă din lume, adăpostind o colecție extraordinară de pictură europeană din secolele XIV-XVIII. Edificiul impunător a fost construit între 1826 și 1836 la comanda regelui Ludwig I, după planurile arhitectului Leo von Klenze. Clădirea a fost inovatoare pentru cultura muzeală europeană, sălile sale vaste luminate de sus servind drept model pentru numeroase galerii ulterioare. Colecția cuprinde capodopere ale unor artiști precum Albrecht Dürer, Peter Paul Rubens, Leonardo da Vinci și Rafael. O piesă centrală este Autoportretul cu haină de blană al lui Dürer, una dintre cele mai emblematice lucrări din istoria artei germane. După distrugerile masive din al Doilea Război Mondial, muzeul a fost reconstruit sub coordonarea lui Hans Döllgast într-o manieră care lasă vizibile cicatricile istoriei, oferind clădirii o dimensiune arhitecturală suplimentară.",
+    "en": "The Alte Pinakothek is one of the world's oldest and most prestigious art galleries, housing a peerless collection of European paintings from the 14th to the 18th century. Commissioned by King Ludwig I and designed by architect Leo von Klenze, the Neo-Renaissance building was completed in 1836. Its innovative design, featuring large skylit halls, became a blueprint for museum architecture across Europe. The gallery's holdings include masterpieces by Albrecht Dürer, Peter Paul Rubens, Leonardo da Vinci, and Raphael. A highlight is Dürer's Self-Portrait with Fur-Trimmed Robe, one of the most iconic works in German art history. Severely damaged during World War II, the museum was reconstructed by Hans Döllgast in a style that purposefully integrated the scars of the bombing into the facade, creating a powerful architectural statement about history and preservation."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Erbaut von 1826 bis 1836 durch den Architekten Leo von Klenze.",
+      "Die Galerie beherbergt eine der weltweit größten Sammlungen von Peter Paul Rubens.",
+      "Das Museum verfügt über 19 große Säle und 49 kleinere Kabinette.",
+      "Der Wiederaufbau nach dem Krieg durch Hans Döllgast wurde erst 1957 abgeschlossen.",
+      "Es war bei seiner Eröffnung der größte Museumsbau der Welt.",
+      "Das Rubens-Gemälde Das Große Jüngste Gericht ist über 6 Meter hoch."
+    ],
+    "hu": [
+      "1826 és 1836 között épült Leo von Klenze építész tervei alapján.",
+      "A galéria a világ egyik legnagyobb Peter Paul Rubens-gyűjteményével rendelkezik.",
+      "A múzeumban 19 nagy terem és 49 kisebb kabinet található.",
+      "A háború utáni helyreállítás Hans Döllgast vezetésével 1957-ben fejeződött be.",
+      "Megnyitásakor ez volt a világ legnagyobb múzeumi épülete.",
+      "Rubens Nagy utolsó ítélet című festménye több mint 6 méter magas."
+    ],
+    "ro": [
+      "Construită între 1826 și 1836 de către renumitul arhitect Leo von Klenze.",
+      "Galeria găzduiește una dintre cele mai mari colecții Rubens din lume.",
+      "Muzeul dispune de 19 săli mari și 49 de cabinete mai mici pentru expoziții.",
+      "Reconstrucția postbelică realizată de Hans Döllgast a fost finalizată abia în 1957.",
+      "La momentul inaugurării, a fost cea mai mare clădire de muzeu din lume.",
+      "Tabloul Marea Judecată de Apoi de Rubens are o înălțime de peste 6 metri."
+    ],
+    "en": [
+      "Built between 1826 and 1836 by the prominent architect Leo von Klenze.",
+      "The gallery houses one of the world's most extensive collections of Peter Paul Rubens.",
+      "The museum layout consists of 19 large halls and 49 smaller cabinets.",
+      "Post-war reconstruction by Hans Döllgast was not fully completed until 1957.",
+      "At the time of its opening, it was the largest museum building in the world.",
+      "Rubens' masterpiece The Last Judgment stands over 6 meters tall."
+    ]
+  },
+  "practical": {
+    "address": "Barer Straße 27, 80333 München",
+    "openingHours": "Tu-We 10:00-20:00, Th-Su 10:00-18:00",
+    "entranceFee": "€9 Erwachsene, sonntags nur €1.",
+    "website": "https://www.pinakothek.de",
+    "publicTransport": "Tram 27/28 (Pinakotheken), U2 (Theresienstraße)",
+    "parking": "Begrenzte Straßenparkplätze (Parkschein), Parkhaus in der Türkenstraße.",
+    "accessibility": "Barrierefreier Zugang über Rampe und Aufzug im Westflügel.",
+    "photoRules": "Fotografieren ohne Blitz erlaubt, keine Stative oder Selfie-Sticks.",
+    "bestTimeToVisit": "Dienstagabend (lange Öffnungszeit) oder Sonntag (günstiger Preis).",
+    "audioGuide": "de, en, fr, it, es"
+  }
+}

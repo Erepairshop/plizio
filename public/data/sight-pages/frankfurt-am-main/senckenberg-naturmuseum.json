@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Senckenberg Naturmuseum",
+  "slug": "senckenberg-naturmuseum",
+  "descriptionAdvanced": {
+    "de": "Das Senckenberg Naturmuseum in Frankfurt ist eines der bedeutendsten Naturkundemuseen in Europa. Es wurde von der Senckenberg Gesellschaft für Naturforschung getragen, die 1817 gegründet wurde. Das imposante Museumsgebäude im Stil des Historismus entstand zwischen 1904 und 1907. Weltberühmt ist das Museum für seine umfangreiche Dinosaurier-Galerie, in der beeindruckende Skelette wie das eines Diplodocus oder des Tyrannosaurus Rex zu bewundern sind. Ein besonderes Highlight ist die Mumie eines Edmontosaurus mit versteinerter Haut. Neben der Paläontologie bietet das Museum faszinierende Ausstellungen zur Biodiversität, Meeresforschung und Evolution des Menschen. Die moderne Gestaltung der Ausstellungsbereiche macht komplexe wissenschaftliche Themen für Besucher aller Altersgruppen begreifbar. Mit dem integrierten Forschungsinstitut ist das Museum zudem ein Zentrum internationaler Spitzenforschung, was sich in der hohen Qualität und Aktualität der Präsentationen widerspiegelt.",
+    "hu": "A Frankfurti Senckenberg Természettudományi Múzeum Európa egyik legjelentősebb ilyen jellegű intézménye. Fenntartója az 1817-ben alapított Senckenberg Természetkutató Társaság. A historizáló stílusú, impozáns múzeumépület 1904 és 1907 között épült. A múzeum világhírét elsősorban hatalmas dinoszaurusz-galériájának köszönheti, ahol olyan lenyűgöző csontvázak láthatók, mint a Diplodocus vagy a Tyrannosaurus Rex. Különlegesség egy mumifikálódott Edmontosaurus, amelyen megkövesedett bőrfelületek is megmaradtak. A paleontológia mellett a múzeum lenyűgöző kiállításokat kínál a biodiverzitásról, a tengerkutatásról és az emberi evolúcióról. A modern kiállítótér kialakítása lehetővé teszi, hogy minden korosztály számára érthetővé váljanak az összetett tudományos kérdések. Az intézmény szorosan együttműködik a kutatóintézettel, így a bemutatott adatok mindig a legfrissebb tudományos eredményeket tükrözik.",
+    "ro": "Muzeul de Istorie Naturală Senckenberg din Frankfurt este unul dintre cele mai importante muzee de profil din Europa. Este administrat de Societatea Senckenberg pentru Cercetarea Naturii, fondată în 1817. Clădirea muzeului, în stil istoricist, a fost ridicată între anii 1904 și 1907. Muzeul este celebru la nivel mondial pentru galeria sa de dinozauri, care include schelete spectaculoase de Diplodocus și Tyrannosaurus Rex. O piesă rară este mumiile de Edmontosaurus cu pielea fosilizată conservată. Pe lângă paleontologie, muzeul oferă expoziții fascinante despre biodiversitate, cercetare marină și evoluția umană. Designul modern al expozițiilor face ca temele științifice complexe să fie accesibile vizitatorilor de toate vârstele. Fiind integrat într-un institut de cercetare, muzeul reprezintă un centru de excelență științifică, reflectat în calitatea prezentărilor.",
+    "en": "The Senckenberg Nature Museum in Frankfurt is one of Europe's premier natural history museums. It is operated by the Senckenberg Society for Nature Research, founded in 1817. The grand museum building, designed in the Historism style, was constructed between 1904 and 1907. The museum is world-renowned for its extensive dinosaur gallery, featuring breathtaking skeletons such as the Diplodocus and Tyrannosaurus Rex. A particular highlight is the Edmontosaurus mummy with preserved fossilized skin. Beyond paleontology, the museum offers fascinating exhibitions on biodiversity, marine research, and human evolution. The modern layout of the exhibition areas makes complex scientific topics accessible to visitors of all ages. Combined with its integrated research institute, the museum serves as a hub for international top-level research, ensuring all displays are grounded in current scientific discovery."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Museumsgebäude wurde zwischen 1904 und 1907 errichtet.",
+      "Beherbergt das einzige vollständige Skelett eines Diplodocus in Europa.",
+      "Senckenberg-Gesellschaft wurde bereits 1817 gegründet.",
+      "Über 38 Millionen Sammlungsstücke weltweit in Senckenberg-Museen.",
+      "Besucherrekorde von jährlich über 400.000 Personen.",
+      "Die Edmontosaurus-Mumie wurde 1908 in Wyoming entdeckt."
+    ],
+    "hu": [
+      "A múzeum épülete 1904 és 1907 között épült.",
+      "Itt található Európa egyetlen teljes Diplodocus csontváza.",
+      "A Senckenberg Társaságot már 1817-ben megalapították.",
+      "Több mint 38 millió gyűjteményi darab a Senckenberg hálózatban.",
+      "Évente több mint 400 000 látogatót fogad az intézmény.",
+      "Az Edmontosaurus-múmiát 1908-ban Wyomingban találták."
+    ],
+    "ro": [
+      "Clădirea muzeului a fost construită între 1904 și 1907.",
+      "Găzduiește singurul schelet complet de Diplodocus din Europa.",
+      "Societatea Senckenberg a fost fondată în anul 1817.",
+      "Peste 38 de milioane de exponate în colecțiile Senckenberg globale.",
+      "Peste 400.000 de vizitatori accesează muzeul anual.",
+      "Mumia de Edmontosaurus a fost descoperită în Wyoming în 1908."
+    ],
+    "en": [
+      "The museum building was constructed between 1904 and 1907.",
+      "Houses the only complete Diplodocus skeleton in Europe.",
+      "The Senckenberg Society was founded as early as 1817.",
+      "Over 38 million specimens in Senckenberg collections worldwide.",
+      "Annual visitor numbers often exceed 400,000 people.",
+      "The Edmontosaurus mummy was discovered in 1908 in Wyoming."
+    ]
+  },
+  "practical": {
+    "address": "Senckenberganlage 25, 60325 Frankfurt am Main",
+    "openingHours": "Mo-Tu 09:00-17:00, We 09:00-20:00, Th-Fr 09:00-17:00, Sa-Su 09:00-18:00",
+    "entranceFee": "12 Euro Erwachsene, 6 Euro Kinder (6-15 Jahre)",
+    "website": "https://museumfrankfurt.senckenberg.de",
+    "publicTransport": "Station Bockenheimer Warte (U4, U6, U7, Tram 16).",
+    "parking": "Parkhaus Messeturm oder Parkhaus Senckenberg-Quartier, ca. 4 Euro pro Stunde.",
+    "accessibility": "Vollständig barrierefrei mit Aufzügen und Rampen zugänglich.",
+    "photoRules": "Erlaubt für private Zwecke; ohne Blitz und Stativ.",
+    "bestTimeToVisit": "Später Nachmittag unter der Woche, um Schulklassen zu meiden.",
+    "audioGuide": "yes"
+  }
+}

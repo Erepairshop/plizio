@@ -1,0 +1,57 @@
+{
+  "host_id": "dusseldorf",
+  "sight_name": "Schloss Benrath",
+  "slug": "schloss-benrath",
+  "descriptionAdvanced": {
+    "de": "Schloss Benrath ist ein im Düsseldorfer Süden gelegenes Ensemble, das als eines der bedeutendsten architektonischen Gesamtkunstwerke des ausgehenden Rokoko gilt. Erbaut wurde es zwischen 1755 und 1773 vom Hofarchitekten Nicolas de Pigage im Auftrag des Kurfürsten Karl Theodor von der Pfalz als Witwensitz und Jagdschloss. Die Anlage besteht aus dem Hauptschloss (Corps de Logis) und zwei Flügelbauten, die sich harmonisch um einen Spiegelweiher gruppieren. Besonders innovativ für die damalige Zeit war die funktionale Trennung der Räume und die Integration von Schloss und Garten: Die Fensterfronten öffnen sich direkt in den weitläufigen Park, der verschiedene Gartenstile von Barock bis zum englischen Landschaftsgarten vereint. Heute beherbergt das Schloss mehrere Museen, darunter das Museum für Europäische Gartenkunst und das Museum für Naturkunde, und dient als kulturelles Zentrum für Konzerte und Veranstaltungen in historischem Ambiente.",
+    "hu": "A Benrath-kastély Düsseldorf déli részén található együttes, amely a késő rokokó egyik legjelentősebb építészeti összművészeti alkotásának számít. 1755 és 1773 között építette Nicolas de Pigage udvari építész Pfalzi Károly Tivadar választófejedelem megbízásából, özvegyi lakhelynek és vadászkastélynak. A komplexum a főépületből (Corps de Logis) és két szárnyépületből áll, amelyek harmonikusan veszik körül a tükörmedencét. Korában különösen innovatív volt a helyiségek funkcionális elválasztása, valamint a kastély és a kert integrációja: az ablakok közvetlenül a kiterjedt parkra nyílnak, amely a barokktól az angol tájképi kertig különböző stílusokat ötvöz. Ma a kastély több múzeumnak ad otthont, köztük az Európai Kertművészeti Múzeumnak, és kulturális központként szolgál koncertek és rendezvények számára.",
+    "ro": "Castelul Benrath este un ansamblu situat în sudul orașului Düsseldorf, considerat una dintre cele mai importante opere de artă arhitecturală totală din perioada rococo târziu. A fost construit între 1755 și 1773 de arhitectul curții Nicolas de Pigage, la comanda principelui elector Karl Theodor al Palatinatului, ca reședință de văduvă și castel de vânătoare. Ansamblul constă din clădirea principală (Corps de Logis) și două aripi laterale, grupate armonios în jurul unui heleșteu-oglindă. Deosebit de inovatoare pentru acea vreme a fost separarea funcțională a camerelor și integrarea castelului cu grădina: ferestrele se deschid direct spre parcul vast, care îmbină diverse stiluri, de la baroc la grădina peisajistică engleză. Astăzi, castelul găzduiește mai multe muzee, inclusiv Muzeul de Artă a Grădinilor Europene.",
+    "en": "Benrath Palace is a magnificent ensemble in the south of Dusseldorf, regarded as one of the most important architectural masterpieces of the late Rococo period. Built between 1755 and 1773 by court architect Nicolas de Pigage for Elector Palatine Charles Theodore, it was designed as a pleasure palace and hunting lodge. The complex consists of the main palace (Corps de Logis) and two wings, harmoniously arranged around a reflecting pool. Its functional room layout and the seamless integration of palace and gardens were revolutionary for the time; large windows open directly onto the extensive park, which features various styles from Baroque parterres to English landscape gardens. Today, the palace houses several museums, including the Museum of European Garden Art, and serves as a prestigious venue for concerts and cultural events in an authentic historical setting."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Bauzeit von 18 Jahren unter der Leitung von Nicolas de Pigage.",
+      "Der Schlosspark umfasst eine Fläche von rund 61 Hektar.",
+      "Beherbergt das weltweit erste Museum für Europäische Gartenkunst.",
+      "Das Hauptschloss wurde auf einem Pfahlrost aus Eichenholz errichtet.",
+      "UNESCO-Weltkulturerbe-Kandidat aufgrund seiner authentischen Erhaltung.",
+      "Die Innenausstattung verbindet Rokoko-Elemente mit dem frühen Klassizismus."
+    ],
+    "hu": [
+      "18 évig tartó építkezés Nicolas de Pigage vezetésével.",
+      "A kastélypark területe körülbelül 61 hektárt tesz ki.",
+      "Itt található a világ első Európai Kertművészeti Múzeuma.",
+      "A főépületet tölgyfa cölöpökre építették a mocsaras talaj miatt.",
+      "Az UNESCO világörökségi listájára javasolták hiteles megőrzése miatt.",
+      "A belső tér a rokokó és a korai klasszicizmus elemeit ötvözi."
+    ],
+    "ro": [
+      "Timp de construcție de 18 ani sub conducerea lui Nicolas de Pigage.",
+      "Parcul castelului se întinde pe o suprafață de aproximativ 61 de hectare.",
+      "Găzduiește primul muzeu de artă a grădinilor europene din lume.",
+      "Clădirea principală a fost construită pe un grătar de piloni de stejar.",
+      "Candidat la Patrimoniul Mondial UNESCO datorită conservării sale.",
+      "Designul interior îmbină elemente rococo cu neoclasicismul timpuriu."
+    ],
+    "en": [
+      "Construction took 18 years under the direction of Nicolas de Pigage.",
+      "The palace park covers an area of approximately 61 hectares.",
+      "Home to the world's first Museum of European Garden Art.",
+      "The main building was constructed on a foundation of oak piles.",
+      "A candidate for UNESCO World Heritage status due to its preservation.",
+      "The interior design blends Rococo elements with early Neoclassicism."
+    ]
+  },
+  "practical": {
+    "address": "Benrather Schlossallee 100-108, 40597 Düsseldorf",
+    "openingHours": "Di-So 11:00-17:00 (Sommer bis 18:00)",
+    "entranceFee": "€14,00 Tagesticket (Museen & Parkführung)",
+    "website": "https://www.schloss-benrath.de",
+    "publicTransport": "S-Bahn S6 oder U71/U83 bis Bahnhof Benrath",
+    "parking": "Besucherparkplatz an der Benrather Schlossallee, gebührenpflichtig",
+    "accessibility": "Park barrierefrei, Schlossgebäude nur über Stufen zugänglich",
+    "photoRules": "Außen erlaubt, innen nur ohne Blitz und gegen kleine Gebühr",
+    "bestTimeToVisit": "Frühling oder Herbst für die Blüte bzw. Laubfärbung im Park",
+    "audioGuide": "Ja (DE, EN)"
+  }
+}

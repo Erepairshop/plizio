@@ -1,0 +1,57 @@
+{
+  "host_id": "dusseldorf",
+  "sight_name": "Königsallee",
+  "slug": "konigsallee",
+  "descriptionAdvanced": {
+    "de": "Die Königsallee, im Volksmund liebevoll \"Kö\" genannt, ist eine der führenden Luxuseinkaufsstraßen Europas und das glamouröse Herzstück Düsseldorfs. Ihre Entstehung geht auf die Stadtplanung des frühen 19. Jahrhunderts zurück, als nach dem Abriss der Festungsanlagen ein prachtvoller Boulevard mit einem zentralen Wassergraben angelegt wurde. Der Stadtgraben, gespeist durch die Düssel, verleiht der Allee ihren einzigartigen Charakter und trennt die ruhigere Westseite mit ihren Banken und Hotels von der lebhaften Ostseite mit ihren exklusiven Boutiquen und Flagship-Stores internationaler Modemarken. Ihren heutigen Namen erhielt sie 1848 als Geste der Versöhnung gegenüber König Friedrich Wilhelm IV., nachdem dieser bei einem Besuch mit Pferdeäpfeln beworfen worden war. Heute ist die Kö nicht nur eine Meile für High-End-Shopping, sondern auch ein architektonisches Denkmal mit prachtvollen Brücken, schmiedeeisernen Geländern und historischen Kastanienbäumen.",
+    "hu": "A Königsallee, vagy ahogy a helyiek hívják, a \"Kö\", Európa egyik vezető luxus bevásárlóutcája és Düsseldorf csillogó szíve. Története a 19. század eleji várostervezésig nyúlik vissza, amikor az erődítmények lebontása után egy pompás sugárutat alakítottak ki központi vizesárokkal. A Düssel folyó által táplált árok egyedi karaktert ad az útnak, elválasztva a nyugati oldal csendesebb bankjait és szállodáit a keleti oldal exkluzív butikjaitól és nemzetközi divatmárkáitól. Mai nevét 1848-ban kapta engesztelésül IV. Frigyes Vilmos királytól, miután egy látogatása során lótrágyával dobták meg. Ma a Kö nem csupán a prémium vásárlás helyszíne, hanem építészeti műemlék is pompás hídjaival, kovácsoltvas korlátaival és történelmi gesztenyefáival.",
+    "ro": "Königsallee, poreclită afectuos \"Kö\", este una dintre cele mai importante străzi comerciale de lux din Europa și inima plină de farmec a orașului Düsseldorf. Originile sale datează de la planificarea urbană de la începutul secolului al XIX-lea, când, după dărâmarea fortificațiilor, a fost amenajat un bulevard magnific cu un canal central. Șanțul orașului, alimentat de râul Düssel, conferă aleii un caracter unic și separă latura de vest, mai liniștită, cu bănci și hoteluri, de latura de est, animată de buticuri exclusive și magazine emblematice ale brandurilor internaționale. Numele actual l-a primit în 1848 ca gest de reconciliere față de regele Friedrich Wilhelm al IV-lea, după ce acesta fusese atacat cu balegă de cal în timpul unei vizite. Astăzi, Kö este un monument arhitectural cu poduri splendide și castani istorici.",
+    "en": "The Königsallee, affectionately known as the \"Kö\", is one of Europe's premier luxury shopping streets and the glamorous heart of Dusseldorf. Its creation dates back to early 19th-century urban planning, when a grand boulevard with a central water-filled moat was designed following the demolition of city fortifications. The moat, fed by the Düssel river, gives the avenue its unique character, separating the quieter west side with its banks and hotels from the vibrant east side lined with exclusive boutiques and flagship stores of international fashion houses. It received its current name in 1848 as a gesture of reconciliation towards King Frederick William IV after a local incident. Today, the Kö is not only a destination for high-end shopping but also an architectural landmark featuring ornate bridges, wrought-iron railings, and historic chestnut trees."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Angelegt ab 1802 nach den Plänen des Landschaftsarchitekten Weyhe.",
+      "Der zentrale Stadtgraben ist 31 Meter breit und 5 Meter tief.",
+      "Umbenannt von Kastanienallee in Königsallee im Jahr 1848.",
+      "Beherbergt die höchste Dichte an Luxusmarken in ganz Deutschland.",
+      "Die Allee erstreckt sich über eine Gesamtlänge von rund einem Kilometer.",
+      "Die Triton-Gruppe am Nordende ist einer der prächtigsten Brunnen der Stadt."
+    ],
+    "hu": [
+      "1802-től alakították ki Weyhe tájépítész tervei alapján.",
+      "A központi vizesárok 31 méter széles és 5 méter mély.",
+      "1848-ban nevezték át Kastanienallee-ról Königsallee-ra.",
+      "Itt található a luxusmárkák legnagyobb sűrűsége Németországban.",
+      "A sugárút teljes hossza körülbelül egy kilométer.",
+      "Az északi végén található Tritón-kút a város egyik legszebb kútja."
+    ],
+    "ro": [
+      "Amenajată începând cu 1802 după planurile peisagistului Weyhe.",
+      "Canalul central are 31 de metri lățime și 5 metri adâncime.",
+      "Redenumită din Kastanienallee în Königsallee în anul 1848.",
+      "Găzduiește cea mai mare densitate de mărci de lux din Germania.",
+      "Aleea se întinde pe o lungime totală de aproximativ un kilometru.",
+      "Grupul statuar Triton din capătul de nord este una dintre cele mai frumoase fântâni."
+    ],
+    "en": [
+      "Developed starting in 1802 based on plans by landscape architect Weyhe.",
+      "The central moat is 31 meters wide and 5 meters deep.",
+      "Renamed from Kastanienallee to Königsallee in 1848.",
+      "Features the highest density of luxury brands in Germany.",
+      "The avenue stretches over a total length of about one kilometer.",
+      "The Triton Fountain at the northern end is a major city landmark."
+    ]
+  },
+  "practical": {
+    "address": "Königsallee, 40212 Düsseldorf",
+    "openingHours": "24/7 (Geschäfte meist Mo-Sa 10:00-20:00)",
+    "entranceFee": "kostenlos",
+    "website": "https://www.koenigsallee-duesseldorf.de",
+    "publicTransport": "U-Bahn Steinstraße/Königsallee oder Heinrich-Heine-Allee",
+    "parking": "Parkhaus Kö-Bogen oder Parkhäuser der Kaufhäuser, ca. €4,00/h",
+    "accessibility": "Vollständig rollstuhlgerecht durch ebenerdige Gestaltung",
+    "photoRules": "Erlaubt, für kommerzielle Shootings ist eine Genehmigung nötig",
+    "bestTimeToVisit": "Samstagvormittag zum Sehen und Gesehenwerden",
+    "audioGuide": "Nein"
+  }
+}

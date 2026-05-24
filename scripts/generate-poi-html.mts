@@ -924,9 +924,176 @@ async function main() {
     }
   }
 
+  // ---- Tier 1 sight pages (de-sight-page-v1 output) ----
+  const sightPagesDir = path.resolve(process.cwd(), "public", "data", "sight-pages");
+  const sightIdxFp = path.join(sightPagesDir, "_index.json");
+  let sightPagesWritten = 0;
+  if (fs.existsSync(sightIdxFp)) {
+    const sightIdx: { host_id: string; sight_name: string; slug: string }[] = JSON.parse(fs.readFileSync(sightIdxFp, "utf-8"));
+    console.log(`\nGenerating ${sightIdx.length} sight pages × langs...`);
+    for (const entry of sightIdx) {
+      const host = allById.get(entry.host_id);
+      if (!host || !host.parent) continue;
+      const dataFp = path.join(sightPagesDir, entry.host_id, entry.slug + ".json");
+      if (!fs.existsSync(dataFp)) continue;
+      const sightData = JSON.parse(fs.readFileSync(dataFp, "utf-8"));
+      for (const lang of SUPPORTED_LANGS) {
+        const url = buildPoiPath(lang, host).replace(/\/$/, "") + "/sight/" + entry.slug + "/";
+        const rel = url.replace(/^\/+/, "").replace(/\/+$/, "");
+        if (!rel) continue;
+        const dir = path.join(OUT_DIR, rel);
+        fs.mkdirSync(dir, { recursive: true });
+        const html = renderSightHtml(host, sightData, lang);
+        fs.writeFileSync(path.join(dir, "index.html"), html, "utf8");
+        sightPagesWritten++;
+      }
+    }
+    console.log(`Sight pages: ${sightPagesWritten} written`);
+  }
+
   const elapsed = (Date.now() - start) / 1000;
-  console.log(`\nDone: ${written} written, ${skipped} skipped in ${elapsed.toFixed(1)}s`);
+  console.log(`\nDone: ${written + sightPagesWritten} written (POI ${written} + sight ${sightPagesWritten}), ${skipped} skipped in ${elapsed.toFixed(1)}s`);
   console.log(`Unique dirs: ${dirsMade.size}`);
+}
+
+// ---- Sight page renderer (Tier 1: modern compact UI with SVG icons) ----
+function renderSightHtml(host: POI, data: any, lang: Lang): string {
+  const sightName = data.sight_name || "";
+  const desc = (data.descriptionAdvanced && data.descriptionAdvanced[lang]) || data.descriptionAdvanced?.de || "";
+  const facts = (data.factsAdvanced && data.factsAdvanced[lang]) || data.factsAdvanced?.de || [];
+  const p = data.practical || {};
+  const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
+  const hostUrl = buildPoiPath(lang, host);
+  const countryId = getCountryId(host.parent!);
+  const sightUrl = `${SITE_URL}${hostUrl.replace(/\/$/, "")}/sight/${data.slug}/`;
+  const ICON_COPY: Partial<Record<Lang, Record<string, string>>> = {
+    de: { address: "Adresse", openingHours: "Öffnungszeiten", entranceFee: "Eintritt", website: "Webseite",
+          publicTransport: "ÖPNV", parking: "Parken", accessibility: "Barrierefreiheit",
+          photoRules: "Fotos", bestTimeToVisit: "Beste Zeit", audioGuide: "Audioguide",
+          practical: "Praktische Informationen", facts: "Wissenswert", backToCity: "← Zurück zur Stadt" },
+    hu: { address: "Cím", openingHours: "Nyitvatartás", entranceFee: "Belépő", website: "Honlap",
+          publicTransport: "Tömegközlekedés", parking: "Parkolás", accessibility: "Akadálymentesség",
+          photoRules: "Fotózás", bestTimeToVisit: "Legjobb idő", audioGuide: "Audioguide",
+          practical: "Gyakorlati információk", facts: "Érdekességek", backToCity: "← Vissza a városhoz" },
+    ro: { address: "Adresă", openingHours: "Orar", entranceFee: "Intrare", website: "Site web",
+          publicTransport: "Transport public", parking: "Parcare", accessibility: "Accesibilitate",
+          photoRules: "Fotografii", bestTimeToVisit: "Cel mai bun moment", audioGuide: "Ghid audio",
+          practical: "Informații practice", facts: "Curiozități", backToCity: "← Înapoi la oraș" },
+    en: { address: "Address", openingHours: "Opening hours", entranceFee: "Entrance fee", website: "Website",
+          publicTransport: "Public transport", parking: "Parking", accessibility: "Accessibility",
+          photoRules: "Photography", bestTimeToVisit: "Best time", audioGuide: "Audio guide",
+          practical: "Practical info", facts: "Did you know", backToCity: "← Back to city" },
+  };
+  const c = ICON_COPY[lang] || ICON_COPY.en!;
+
+  const ICONS: Record<string, string> = {
+    address: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>`,
+    openingHours: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`,
+    entranceFee: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8h18v8H3z"/><path d="M3 12h18M7 8v8M17 8v8"/></svg>`,
+    website: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 010 18M12 3a14 14 0 000 18"/></svg>`,
+    publicTransport: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="3" width="14" height="14" rx="2"/><circle cx="9" cy="15" r="1.5"/><circle cx="15" cy="15" r="1.5"/><path d="M5 11h14M9 3v3M15 3v3"/></svg>`,
+    parking: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M10 8h3a2.5 2.5 0 010 5h-3v3M10 8v5"/></svg>`,
+    accessibility: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="1.8"/><path d="M12 7v6h4l2 4M12 13l-3 6h6"/></svg>`,
+    photoRules: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="6" width="18" height="13" rx="2"/><circle cx="12" cy="12.5" r="3.5"/><path d="M8 6l2-2h4l2 2"/></svg>`,
+    bestTimeToVisit: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M5 5l2 2M17 17l2 2M5 19l2-2M17 7l2-2"/></svg>`,
+    audioGuide: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 11v3a8 8 0 0016 0v-3M8 11v5a2 2 0 11-4 0v-3a8 8 0 0116 0v3a2 2 0 11-4 0v-5"/></svg>`,
+  };
+
+  const renderRow = (key: string, value: string, isUrl = false) => {
+    if (!value || value.trim() === "") return "";
+    const icon = ICONS[key] || "";
+    const valHtml = isUrl
+      ? `<a href="${escapeHtml(value)}" target="_blank" rel="noopener nofollow" class="plz-sp-link">${escapeHtml(value.replace(/^https?:\/\//, ""))}</a>`
+      : escapeHtml(value);
+    return `<div class="plz-sp-row"><span class="plz-sp-icon" aria-hidden="true">${icon}</span><div class="plz-sp-row-body"><span class="plz-sp-row-label">${escapeHtml((c as any)[key])}</span><span class="plz-sp-row-val">${valHtml}</span></div></div>`;
+  };
+
+  const practical = [
+    renderRow("address", p.address || ""),
+    renderRow("openingHours", p.openingHours || ""),
+    renderRow("entranceFee", p.entranceFee || ""),
+    renderRow("website", p.website || "", true),
+    renderRow("publicTransport", p.publicTransport || ""),
+    renderRow("parking", p.parking || ""),
+    renderRow("accessibility", p.accessibility || ""),
+    renderRow("photoRules", p.photoRules || ""),
+    renderRow("bestTimeToVisit", p.bestTimeToVisit || ""),
+    renderRow("audioGuide", p.audioGuide || ""),
+  ].filter(Boolean).join("");
+
+  const factsHtml = facts && facts.length
+    ? `<section class="plz-sp-facts"><h2>${escapeHtml(c.facts)}</h2><ul>${facts.map((f: string) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>`
+    : "";
+
+  const title = `${sightName} (${hostName}) | Plizio`;
+  const metaDesc = (desc || `${sightName} in ${hostName}.`).slice(0, 160);
+
+  // Schema.org TouristAttraction with structured opening hours / address
+  const jsonLd: any = {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    name: sightName,
+    description: desc.slice(0, 500),
+    url: sightUrl,
+    containedInPlace: { "@type": "City", name: hostName, sameAs: `${SITE_URL}${hostUrl}` },
+  };
+  if (p.address) jsonLd.address = { "@type": "PostalAddress", streetAddress: p.address };
+  if (p.openingHours) jsonLd.openingHours = p.openingHours;
+  if (p.website) jsonLd.sameAs = p.website;
+  if (p.entranceFee && /^free$/i.test(p.entranceFee)) jsonLd.isAccessibleForFree = true;
+
+  return `<!DOCTYPE html>
+<html lang="${lang}">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>${escapeHtml(title)}</title>
+<meta name="description" content="${escapeHtml(metaDesc)}"/>
+<link rel="canonical" href="${sightUrl}"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260524a"/>
+<style>
+.plz-sp-hero{padding:1.5rem 0;border-bottom:1px solid rgba(255,255,255,.08);margin-bottom:1.5rem}
+.plz-sp-hero h1{margin:0;font-size:1.8rem;line-height:1.2}
+.plz-sp-hero .plz-sp-loc{color:rgba(255,255,255,.55);font-size:.9rem;margin-top:.3rem}
+.plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.8rem}
+.plz-sp-back:hover{color:#7df}
+.plz-sp-desc{margin:0 0 1.2rem 0;font-size:.95rem;line-height:1.65;color:rgba(255,255,255,.85)}
+.plz-sp-practical{background:linear-gradient(135deg,rgba(34,211,238,.05),rgba(34,211,238,.02));border:1px solid rgba(34,211,238,.18);border-radius:.75rem;padding:.9rem 1rem;margin:1.2rem 0}
+.plz-sp-practical h2{margin:0 0 .8rem 0;font-size:.95rem;color:#4cc;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+.plz-sp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.4rem .9rem}
+.plz-sp-row{display:flex;align-items:flex-start;gap:.6rem;padding:.35rem 0}
+.plz-sp-icon{flex:0 0 18px;width:18px;height:18px;color:#4cc;margin-top:2px}
+.plz-sp-icon svg{width:100%;height:100%;display:block}
+.plz-sp-row-body{flex:1;min-width:0;display:flex;flex-direction:column;gap:1px}
+.plz-sp-row-label{font-size:.7rem;color:rgba(255,255,255,.5);text-transform:uppercase;letter-spacing:.03em}
+.plz-sp-row-val{font-size:.85rem;color:rgba(255,255,255,.92);line-height:1.4;word-break:break-word}
+.plz-sp-link{color:#7df;text-decoration:none}
+.plz-sp-link:hover{text-decoration:underline}
+.plz-sp-facts{margin:1.2rem 0}
+.plz-sp-facts h2{font-size:1rem;color:rgba(255,255,255,.9);margin:0 0 .5rem 0;font-weight:600}
+.plz-sp-facts ul{margin:0;padding-left:1.2rem;color:rgba(255,255,255,.78);font-size:.88rem;line-height:1.6}
+.plz-sp-facts li{margin-bottom:.3rem}
+@media(max-width:640px){.plz-sp-grid{grid-template-columns:1fr}.plz-sp-hero h1{font-size:1.45rem}}
+</style>
+</head>
+<body class="plz-poi">
+<header class="plz-topbar"><a class="plz-logo" href="/${lang}/">Plizio</a></header>
+<main class="plz-main">
+  <section class="plz-sp-hero">
+    <a class="plz-sp-back" href="${hostUrl}">${escapeHtml(c.backToCity)} ${escapeHtml(hostName)}</a>
+    <h1>${escapeHtml(sightName)}</h1>
+    <p class="plz-sp-loc">${escapeHtml(hostName)}</p>
+  </section>
+  ${desc ? `<p class="plz-sp-desc">${escapeHtml(desc)}</p>` : ""}
+  ${practical ? `<section class="plz-sp-practical"><h2>${escapeHtml(c.practical)}</h2><div class="plz-sp-grid">${practical}</div></section>` : ""}
+  ${factsHtml}
+</main>
+<footer>
+  <div><a href="/${lang}/">Plizio</a> · <a href="${hostUrl}">${escapeHtml(hostName)}</a></div>
+</footer>
+<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+</body>
+</html>`;
 }
 
 main().catch((e) => {

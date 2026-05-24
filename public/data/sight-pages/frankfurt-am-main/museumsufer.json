@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Museumsufer",
+  "slug": "museumsufer",
+  "descriptionAdvanced": {
+    "de": "Das Frankfurter Museumsufer ist eines der weltweit bedeutendsten Kulturareale und erstreckt sich entlang beider Seiten des Mains, wobei der Schwerpunkt auf der südlichen Seite im Stadtteil Sachsenhausen liegt. Das Konzept entstand in den 1980er Jahren unter dem Kulturdezernenten Hilmar Hoffmann mit dem Ziel, bestehende Villen durch moderne Museumsbauten zu ergänzen oder umzunutzen. Zu den herausragenden Institutionen gehört das Städel Museum mit seiner exzellenten Sammlung europäischer Kunst aus sieben Jahrhunderten, das Deutsche Filmmuseum sowie das Museum Angewandte Kunst. Die architektonische Vielfalt der Gebäude, die von klassizistischen Villen bis zu avantgardistischen Entwürfen von Richard Meier reichen, macht den Spaziergang entlang des Schaumainkai zu einem besonderen Erlebnis. Jährlich am letzten Augustwochenende zieht das Museumsuferfest Millionen von Besuchern an, die die Verbindung von Kunst, Kultur und urbaner Lebensqualität am Fluss feiern.",
+    "hu": "A frankfurti Múzeumpart (Museumsufer) a világ egyik legjelentősebb kulturális területe, amely a Majna mindkét partján elnyúlik, bár súlypontja a déli oldalon, Sachsenhausen negyedben található. A koncepció az 1980-as években született Hilmar Hoffmann kulturális tanácsnok vezetésével, azzal a céllal, hogy a meglévő villákat modern múzeumépületekkel egészítsék ki vagy alakítsák át. A kiemelkedő intézmények közé tartozik a Städel Múzeum hét évszázad európai művészetét bemutató kiváló gyűjteményével, a Német Filmmúzeum, valamint az Iparművészeti Múzeum. Az épületek építészeti sokszínűsége, a klasszicista villáktól Richard Meier avantgárd terveiig, különleges élménnyé teszi a Schaumainkai menti sétát. Minden évben augusztus utolsó hétvégéjén a Museumsuferfest látogatók millióit vonzza, akik a művészet, a kultúra és a folyóparti városi életminőség találkozását ünneplik.",
+    "ro": "Malul Muzeelor din Frankfurt (Museumsufer) este una dintre cele mai importante zone culturale din lume și se întinde de-a lungul ambelor maluri ale râului Main, accentul fiind pus pe partea sudică, în cartierul Sachsenhausen. Conceptul a luat naștere în anii 1980 sub conducerea consilierului cultural Hilmar Hoffmann, cu scopul de a completa sau reutiliza vilele existente prin construcții muzeale moderne. Printre instituțiile remarcabile se numără Muzeul Städel, cu excelenta sa colecție de artă europeană din șapte secole, Muzeul German de Film și Muzeul de Artă Aplicată. Diversitatea arhitecturală a clădirilor, care variază de la vile clasiciste la proiecte avangardiste semnate de Richard Meier, transformă plimbarea de-a lungul Schaumainkai într-o experiență deosebită. Anual, în ultimul weekend din august, Festivalul Malului Muzeelor atrage milioane de vizitatori care sărbătoresc îmbinarea dintre artă, cultură și calitatea vieții urbane la râu.",
+    "en": "The Frankfurt Museumsufer (Museum Embankment) is one of the world's most significant cultural areas, stretching along both sides of the River Main, with its focus on the southern bank in the Sachsenhausen district. The concept emerged in the 1980s under Cultural Affairs Officer Hilmar Hoffmann, with the goal of complementing or repurposing existing villas with modern museum buildings. Outstanding institutions include the Städel Museum, with its excellent collection of European art spanning seven centuries, the German Film Museum, and the Museum of Applied Art. The architectural diversity of the buildings, ranging from Neoclassical villas to avant-garde designs by Richard Meier, makes a stroll along the Schaumainkai a unique experience. Every year on the last weekend of August, the Museumsuferfest attracts millions of visitors who celebrate the fusion of art, culture, and urban quality of life by the river."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Beherbergt über 30 verschiedene Museen auf beiden Seiten des Mains.",
+      "Das Städel Museum wurde bereits 1815 als bürgerliche Stiftung gegründet.",
+      "Das Museumsuferfest ist eines der größten Kulturfestivals Europas.",
+      "Die meisten Museen befinden sich am Schaumainkai in prachtvollen Villen.",
+      "Zweimal im Monat findet am Mainufer der größte Flohmarkt Frankfurts statt.",
+      "Die Untergrund-Erweiterung des Städel (2012) ist architektonisch preisgekrönt."
+    ],
+    "hu": [
+      "Több mint 30 különböző múzeumnak ad otthont a Majna két partján.",
+      "A Städel Múzeumot már 1815-ben alapították polgári alapítványként.",
+      "A Museumsuferfest Európa egyik legnagyobb kulturális fesztiválja.",
+      "A legtöbb múzeum a Schaumainkai mentén, pompás villákban található.",
+      "Havonta kétszer a Majna-parton tartják Frankfurt legnagyobb bolhapiacát.",
+      "A Städel 2012-es földalatti bővítése építészeti díjat nyert."
+    ],
+    "ro": [
+      "Găzduiește peste 30 de muzee diferite pe ambele maluri ale râului Main.",
+      "Muzeul Städel a fost fondat încă din 1815 ca fundație cetățenească.",
+      "Museumsuferfest este unul dintre cele mai mari festivaluri culturale din Europa.",
+      "Majoritatea muzeelor se află pe Schaumainkai, în vile magnifice.",
+      "De două ori pe lună, pe malul râului Main are loc cel mai mare târg de vechituri din Frankfurt.",
+      "Extinderea subterană a Muzeului Städel (2012) este premiată din punct de vedere arhitectural."
+    ],
+    "en": [
+      "Home to over 30 different museums on both sides of the Main.",
+      "The Städel Museum was founded as early as 1815 as a civic foundation.",
+      "The Museumsuferfest is one of the largest cultural festivals in Europe.",
+      "Most of the museums are located along the Schaumainkai in grand villas.",
+      "Twice a month, Frankfurt's largest flea market takes place on the banks of the Main.",
+      "The underground extension of the Städel (2012) is an architecturally award-winning space."
+    ]
+  },
+  "practical": {
+    "address": "Schaumainkai, 60594 Frankfurt am Main",
+    "openingHours": "Tue-Su 10:00-18:00 (Städel bis 19:00), Mo closed",
+    "entranceFee": "Museumsufer-Ticket (€21 für 2 Tage, alle Häuser)",
+    "website": "https://www.museumsufer.de",
+    "publicTransport": "U-Bahn Schweizer Platz (U1, U2, U3, U8) oder S-Bahn Lokalbahnhof",
+    "parking": "Parkhaus Alt-Sachsenhausen, ca. €2,50 pro Stunde",
+    "accessibility": "Die meisten Häuser sind modernisiert und rollstuhlgerecht",
+    "photoRules": "In den meisten Museen ohne Blitz für private Zwecke erlaubt",
+    "bestTimeToVisit": "Samstags, kombiniert mit dem Flohmarkt am Mainufer",
+    "audioGuide": "In fast allen großen Häusern DE/EN verfügbar"
+  }
+}

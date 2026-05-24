@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Schokoladenmuseum",
+  "slug": "schokoladenmuseum",
+  "descriptionAdvanced": {
+    "de": "Das Schokoladenmuseum in Köln wurde 1993 vom Schokoladenfabrikanten Hans Imhoff eröffnet und ist eines der meistbesuchten Museen Deutschlands. Es befindet sich in spektakulärer Lage auf einer Halbinsel im Rheinauhafen und ähnelt in seiner modernen Architektur aus Glas und Metall einem futuristischen Schiff. Die Ausstellung führt die Besucher auf rund 4.000 Quadratmetern durch die über 5.000-jährige Kulturgeschichte des Kakaos – von den rituellen Anfängen bei den Maya und Azteken über die kolonialen Handelswege bis hin zur industriellen Fertigung der Neuzeit. Ein besonderes Highlight ist das begehbare Tropenhaus, in dem bei konstanten 28 Grad echte Kakaobäume wachsen. In der gläsernen Schokoladenfabrik können Gäste live beobachten, wie Tafeln und Hohlfiguren entstehen. Der drei Meter hohe Schokoladenbrunnen, aus dem kontinuierlich flüssige Lindt-Schokolade sprudelt, ist das Herzstück des Hauses und bietet die Möglichkeit zur Verkostung. Mit interaktiven Stationen und einem Café mit Rheinblick ist es ein ideales Ziel für Familien.",
+    "hu": "A kölni Csokoládémúzeum (Schokoladenmuseum) 1993-as megnyitása óta Németország egyik legnépszerűbb kiállítóhelye. A Rajna-parti Rheinauhafen negyed egy félszigetén található épület futurisztikus üveg és fém konstrukciója egy kikötött hajóra emlékeztet. A múzeum 4000 négyzetméteren mutatja be a kakaó és a csokoládé ötezer éves történetét, a maja és azték rituáléktól kezdve a gyarmati kereskedelmen át a modern ipari termelésig. Egyik legérdekesebb része az üvegház, ahol trópusi klímán valódi kakaófák nőnek. A látványgyárban a látogatók élőben követhetik a csokoládéfigurák készítésének folyamatát. A múzeum jelképe a három méter magas csokoládészökőkút, amelyből folyamatosan folyik a tejcsokoládé, és ahol a vendégek meg is kóstolhatják az édességet. Az interaktív kiállítások és a Rajnára néző kávézó kiváló kikapcsolódást nyújtanak minden korosztály számára.",
+    "ro": "Muzeul Ciocolatei din Köln, inaugurat în 1993 de industriașul Hans Imhoff, este unul dintre cele mai vizitate muzee din Germania. Situat pe o peninsulă în zona Rheinauhafen, edificiul impresionant din sticlă și metal seamănă cu o navă modernă ancorată pe malul Rinului. Expoziția se întinde pe aproximativ 4.000 de metri pătrați și prezintă istoria de 5.000 de ani a cacauei, de la utilizările sacre ale mayașilor și aztecilor până la producția industrială contemporană. Un punct de atracție major este sera tropicală, unde vizitatorii pot experimenta climatul umed necesar creșterii arborilor de cacao. În fabrica de ciocolată transparentă, procesul de fabricație al pralinelor poate fi urmărit în timp real. Piesa centrală este fântâna de ciocolată de trei metri înălțime, unde vizitatorii pot degusta ciocolată Lindt proaspătă. Cu numeroase secțiuni interactive și o cafenea cu vedere panoramică spre fluviu, muzeul este o destinație de top pentru familii.",
+    "en": "The Cologne Chocolate Museum, opened in 1993 by chocolate pioneer Hans Imhoff, is one of Germany's top museum destinations. Perched on a peninsula in the Rheinauhafen district, its futuristic glass and metal architecture resembles a ship docked on the Rhine. Across 4,000 square meters, the museum chronicles the 5,000-year history of cocoa, starting from the ancient Mayan and Aztec rituals to the colonial trade routes and modern industrial manufacturing. A key attraction is the walk-in tropical greenhouse, where real cocoa trees thrive in a constant 28-degree environment. In the transparent production facility, visitors can watch chocolate bars and figurines being crafted live. The museum's heart is the three-meter-high chocolate fountain, continuously flowing with liquid Lindt chocolate for tasting. With its interactive exhibits and a cafe offering stunning river views, the museum provides an immersive experience for families and sweets enthusiasts alike."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Das Museum erstreckt sich über 4.000 Quadratmeter Ausstellungsfläche auf drei Ebenen.",
+      "Der Schokoladenbrunnen fasst etwa 200 Kilogramm flüssige Milchschokolade.",
+      "Das Museum wurde komplett privat finanziert und erhält bis heute keine öffentlichen Zuschüsse.",
+      "In der integrierten Produktion werden täglich ca. 400 kg Schokolade zu Tafeln und Figuren verarbeitet.",
+      "Im Tropenhaus herrscht eine konstante Temperatur von 28 Grad bei 80% Luftfeuchtigkeit.",
+      "Seit der Eröffnung 1993 haben über 15 Millionen Menschen das Museum besucht."
+    ],
+    "hu": [
+      "A múzeum három szinten, összesen 4000 négyzetméternyi kiállítófelületen várja a vendégeket.",
+      "A csokoládészökőkútban egyszerre körülbelül 200 kilogramm folyékony tejcsokoládé kering.",
+      "A múzeum teljes egészében magánfinanszírozásból épült, és nem kap állami támogatást.",
+      "A látványgyárban naponta nagyjából 400 kg csokoládét dolgoznak fel táblákká és figurákká.",
+      "A trópusi üvegházban állandó 28 fokos hőmérséklet és 80%-os páratartalom uralkodik.",
+      "Az 1993-as megnyitás óta több mint 15 millió látogató kereste fel az intézményt."
+    ],
+    "ro": [
+      "Muzeul dispune de o suprafață de expoziție de 4.000 de metri pătrați pe trei niveluri.",
+      "Fântâna de ciocolată conține aproximativ 200 de kilograme de ciocolată cu lapte lichidă.",
+      "Muzeul a fost finanțat integral din surse private și nu primește subvenții publice nici în prezent.",
+      "În secția de producție integrată se procesează zilnic circa 400 kg de ciocolată sub formă de tablete și figurine.",
+      "Sera tropicală menține o temperatură constantă de 28 de grade și o umiditate de 80%.",
+      "Peste 15 milioane de persoane au vizitat muzeul de la inaugurarea sa în anul 1993."
+    ],
+    "en": [
+      "The museum covers 4,000 square meters of exhibition space across three floors.",
+      "The chocolate fountain holds approximately 200 kilograms of liquid milk chocolate.",
+      "The museum was completely privately funded and operates without any government subsidies.",
+      "The integrated production facility processes about 400 kg of chocolate into bars and figures daily.",
+      "The tropical greenhouse maintains a constant temperature of 28 degrees Celsius and 80% humidity.",
+      "Since its opening in 1993, more than 15 million people have visited the museum."
+    ]
+  },
+  "practical": {
+    "address": "Am Schokoladenmuseum 1a, 50678 Köln",
+    "openingHours": "Di-So 10:00-18:00 (Montags nur in Ferienzeiten oder an Feiertagen geöffnet)",
+    "entranceFee": "Erwachsene ca. €14,50-€16,00 (Wochenende teurer), Kinder unter 6 Jahren frei",
+    "website": "https://www.schokoladenmuseum.de",
+    "publicTransport": "Buslinie 133 (Haltestelle Schokoladenmuseum) oder U-Bahn Heumarkt (10 Min. Fußweg)",
+    "parking": "Parkhaus Rheinauhafen (eines der längsten Parkhäuser Europas), ca. €2,80 pro Stunde",
+    "accessibility": "Komplett barrierefrei mit Aufzügen zugänglich",
+    "photoRules": "Privates Fotografieren ohne Blitz erlaubt, keine kommerzielle Nutzung ohne Genehmigung",
+    "bestTimeToVisit": "Wochentags vormittags direkt nach Öffnung, um Wartezeiten am Brunnen zu vermeiden",
+    "audioGuide": "Ja, in Deutsch und Englisch verfügbar"
+  }
+}

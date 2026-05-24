@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Altstadt Köln",
+  "slug": "altstadt-koln",
+  "descriptionAdvanced": {
+    "de": "Die Kölner Altstadt erstreckt sich unmittelbar am linken Rheinufer und bildet das historische und touristische Zentrum der Domstadt. Obwohl große Teile des Viertels während des Zweiten Weltkriegs fast vollständig zerstört wurden, gelang in der Nachkriegszeit ein charmanter Wiederaufbau, der den mittelalterlichen Charakter bewahrt hat. Das Viertel ist geprägt durch seine engen, kopfsteingepflasterten Gassen, die typischen schmalen Giebelhäuser mit ihren bunten Fassaden und die hohe Dichte an traditionellen Brauhäusern. Auf dem Alter Markt und dem Heumarkt, den beiden zentralen Plätzen, schlägt seit Jahrhunderten das Herz des städtischen Lebens. Hier finden regelmäßig Märkte, Volksfeste und der weltbekannte Kölner Karneval statt. Unter den Gebäuden verbergen sich zudem bedeutende archäologische Fundstätten aus der Römerzeit, wie das Praetorium. Die Altstadt verbindet auf einzigartige Weise rheinische Geselligkeit mit einer über 2000-jährigen Stadtgeschichte und lädt zum Verweilen in den zahlreichen Cafés entlang der Rheingarten-Promenade ein.",
+    "hu": "Köln óvárosa (Altstadt) a Rajna partján fekszik, és a város történelmi, kulturális szívét alkotja. Noha a második világháború pusztításai után szinte teljesen újjá kellett építeni, a terület megőrizte középkori hangulatát szűk sikátoraival és jellegzetes, színes homlokzatú, csúcsíves házaival. A negyed két központi tere, az Alter Markt és a Heumarkt, évszázadok óta a kereskedelem és a társasági élet központja, ahol ma is számos rendezvénynek és a híres kölni karneválnak adnak otthont. Az óváros elmaradhatatlan részei a hagyományos sörözők (Brauhaus), ahol a helyi Kölsch sört szolgálják fel. A felszín alatt római kori maradványok, például az egykori helytartói palota (Praetorium) romjai tanúskodnak a város ókori eredetéről. A Rajna-parti sétány éttermei és kávézói népszerű pihenőhelyek, ahol a látogatók egyszerre élvezhetik a folyó látványát és a történelmi környezet varázsát.",
+    "ro": "Orașul vechi din Köln (Altstadt) este situat direct pe malul Rinului și reprezintă centrul istoric și sufletul social al metropolei. Deși mare parte din district a fost distrusă în timpul celui de-al Doilea Război Mondial, reconstrucția atentă a redat farmecul străzilor înguste și al caselor colorate cu frontoane ascuțite. Inima zonei este formată din piețele Alter Markt și Heumarkt, care găzduiesc evenimente majore, de la piețe de Crăciun celebre până la celebrul carnaval din Köln. Cartierul este faimos pentru densitatea sa ridicată de berării tradiționale (Brauhäuser), unde cultura berii Kölsch este vie și autentică. Dincolo de fațadele pitorești, Altstadt ascunde vestigii romane importante, orașul fiind fondat ca o colonie romană acum două milenii. Promenada Rheingarten oferă un spațiu de relaxare cu vedere la fluviu, făcând din orașul vechi un loc unde istoria milenară se întâlnește cu ospitalitatea caldă a locuitorilor din Renania.",
+    "en": "Cologne's Old Town (Altstadt), nestled directly along the left bank of the Rhine, is the city's historical and cultural nucleus. While the district was almost entirely leveled during World War II, it was meticulously rebuilt to preserve its medieval atmosphere, characterized by narrow cobblestone alleys and slender, gabled houses with vibrant facades. The two main squares, Alter Markt and Heumarkt, have been focal points of urban life for centuries, hosting everything from traditional markets to the exuberant Cologne Carnival. The area is globally renowned for its high concentration of traditional breweries (Brauhäuser), where the local Kölsch beer is served in a century-old fashion. Beneath the pavement, significant archaeological sites like the Praetorium reveal Cologne's origins as a Roman colony. Today, the Old Town is a vibrant blend of historical charm and modern leisure, especially along the scenic Rheingarten promenade, offering visitors a true taste of Rhenish lifestyle and hospitality."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Über 90% der historischen Altstadt wurden im Zweiten Weltkrieg durch Luftangriffe zerstört.",
+      "Der Alter Markt war bereits im Mittelalter der wichtigste Handelsplatz der freien Reichsstadt.",
+      "Das historische Rathaus besitzt einen Turm mit 124 Figuren bedeutender Kölner Persönlichkeiten.",
+      "Unter dem Rathausplatz befindet sich das Praetorium, der ehemalige Palast des römischen Statthalters.",
+      "In der Altstadt gibt es über 100 gastronomische Betriebe auf einer Fläche von weniger als einem Quadratkilometer.",
+      "Das schmalste Haus Kölns am Alter Markt ist nur wenige Meter breit und wurde originalgetreu rekonstruiert."
+    ],
+    "hu": [
+      "A történelmi óváros több mint 90%-a megsemmisült a második világháborús légitámadásokban.",
+      "Az Alter Markt már a középkorban is a szabad birodalmi város legfontosabb kereskedelmi helyszíne volt.",
+      "A városháza tornyát 124 szobor díszíti, amelyek Köln jelentős történelmi személyiségeit ábrázolják.",
+      "A városháza alatt találhatók a Praetorium, az egykori római helytartói palota romjai.",
+      "Az óvárosban alig egy négyzetkilométeren belül több mint 100 vendéglátóhely található.",
+      "Az Alter Markt legkeskenyebb háza mindössze néhány méter széles, és az eredeti tervek szerint építették újjá."
+    ],
+    "ro": [
+      "Peste 90% din orașul vechi istoric a fost distrus de raidurile aeriene în al Doilea Război Mondial.",
+      "Piața Alter Markt a fost cel mai important loc de schimb comercial încă din perioada medievală.",
+      "Turnul primăriei istorice este decorat cu 124 de figuri reprezentând personalități importante ale orașului.",
+      "Sub piața primăriei se află Praetorium, fostul palat al guvernatorului roman al provinciei.",
+      "În Altstadt există peste 100 de unități gastronomice pe o suprafață de mai puțin de un kilometru pătrat.",
+      "Cea mai îngustă casă din Köln, situată în Alter Markt, are o lățime de doar câțiva metri."
+    ],
+    "en": [
+      "Over 90% of the historic Old Town was destroyed by air raids during World War II.",
+      "Alter Markt was already the city's primary trading hub during the Middle Ages.",
+      "The historic City Hall features a tower adorned with 124 statues of notable Cologne figures.",
+      "Beneath the City Hall square lies the Praetorium, the remains of the Roman governor's palace.",
+      "There are over 100 bars and restaurants within an area of less than one square kilometer in the Old Town.",
+      "The narrowest house in Cologne, located at Alter Markt, is only a few meters wide."
+    ]
+  },
+  "practical": {
+    "address": "Alter Markt / Heumarkt, 50667 Köln",
+    "openingHours": "24/7 (Brauhäuser meist 11:00-00:00)",
+    "entranceFee": "kostenlos (Museum Eintritt extra)",
+    "website": "https://www.koeln.de/tourismus/sehenswertes/altstadt",
+    "publicTransport": "U-Bahn Haltestelle Heumarkt (Linien 1, 5, 7, 9) oder Rathaus (Linie 5)",
+    "parking": "Tiefgarage Heumarkt oder Parkhaus Groß St. Martin (ca. €2,50-€3,00 pro Stunde)",
+    "accessibility": "Hauptplätze barrierefrei, viele Gassen mit Kopfsteinpflaster erschweren Rollstuhlfahrt",
+    "photoRules": "Erlaubt, in Brauhäusern sollte die Privatsphäre der Gäste respektiert werden",
+    "bestTimeToVisit": "Nachmittags für die Atmosphäre, abends für die Brauhauskultur",
+    "audioGuide": "Nein (Stadtführungen empfohlen)"
+  }
+}

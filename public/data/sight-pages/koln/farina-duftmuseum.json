@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Farina Duftmuseum",
+  "slug": "farina-duftmuseum",
+  "descriptionAdvanced": {
+    "de": "Das Farina Duftmuseum befindet sich im originalen Geburtshaus des Eau de Cologne, direkt im Herzen der Kölner Altstadt gegenüber dem Rathaus. An diesem geschichtsträchtigen Ort gründete der italienische Parfümeur Johann Maria Farina im Jahr 1709 seine Fabrik, die heute stolz den Titel der ältesten Parfümfabrik der Welt trägt. Das Museum bietet Besuchern einen faszinierenden Einblick in die hohe Kunst der Parfümherstellung über acht Generationen der Familie Farina. Hier erfahren Sie, wie der Firmengründer einen Duft erschuf, der ihn an einen italienischen Frühlingsmorgen nach dem Regen erinnerte – eine leichte Alternative zu den damals üblichen schweren Moschusnoten, die die Welt der Düfte revolutionierte. Die Ausstellung zeigt historische Destillationsapparate, wertvolle Flakons aus edlen Materialien sowie Originaldokumente und Kunstwerke, die die weltweite Bedeutung des Hauses unterstreichen. Die geführten Touren, oft in historischen Kostümen, machen die Epoche des Rokoko lebendig und erklären die strengen Qualitätsgeheimnisse des berühmten Aqua Mirabilis.",
+    "hu": "A Farina Illatmúzeum az Eau de Cologne eredeti szülőházában található, Köln óvárosának szívében, a városházával szemben. Ezen a történelmi helyen alapította Johann Maria Farina olasz parfümőr 1709-ben gyárát, amely ma büszkén viseli a világ legrégebbi parfümgyára címet. A múzeum lenyűgöző betekintést nyújt a parfümkészítés magas művészetébe a Farina család nyolc generációján keresztül. Itt megtudhatja, hogyan alkotott a cégalapító egy olyan illatot, amely az eső utáni olasz tavaszi reggelre emlékeztette – ez a könnyű alternatíva a korszakban szokásos nehéz pézsmaillatokkal szemben forradalmasította az illatok világát. A kiállítás történelmi lepárlókat, nemes anyagokból készült értékes flakonokat, valamint eredeti dokumentumokat és műalkotásokat mutat be, amelyek a ház globális jelentőségét hangsúlyozzák. A gyakran történelmi jelmezekben tartott vezetett túrák életre keltik a rokokó korszakát, és elmagyarázzák a híres Aqua Mirabilis szigorú minőségi titkait.",
+    "ro": "Muzeul Parfumului Farina se află în casa natală originală a apei de colonie, chiar în inima orașului vechi din Köln, vizavi de primărie. În acest loc plin de istorie, parfumierul italian Johann Maria Farina și-a fondat fabrica în 1709, care astăzi poartă cu mândrie titlul de cea mai veche fabrică de parfumuri din lume. Muzeul oferă vizitatorilor o perspectivă fascinantă asupra artei rafinate a fabricării parfumurilor de-a lungul a opt generații ale familiei Farina. Aici veți afla cum fondatorul companiei a creat un parfum care îi amintea de o dimineață de primăvară italiană după ploaie – o alternativă ușoară la notele grele de mosc obișnuite la acea vreme, care a revoluționat lumea mirosurilor. Expoziția prezintă aparate de distilare istorice, flacoane valoroase din materiale prețioase, precum și documente originale și opere de artă care subliniază importanța mondială a casei. Tururile ghidate, adesea în costume istorice, dau viață epocii rococo și explică secretele stricte de calitate ale celebrului Aqua Mirabilis.",
+    "en": "The Farina Fragrance Museum is located in the original birthplace of Eau de Cologne, right in the heart of Cologne's Old Town opposite the City Hall. At this historic site, the Italian perfumer Johann Maria Farina founded his factory in 1709, which today proudly holds the title of the oldest perfume factory in the world. The museum offers visitors a fascinating insight into the high art of perfume making over eight generations of the Farina family. Here you will learn how the company founder created a scent that reminded him of an Italian spring morning after the rain – a light alternative to the heavy musk notes common at the time, which revolutionized the world of fragrances. The exhibition displays historical distillation apparatus, precious flacons made of noble materials, as well as original documents and artworks that underline the global significance of the house. The guided tours, often in historical costumes, bring the Rococo era to life and explain the strict quality secrets of the famous Aqua Mirabilis."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet 1709, die älteste Parfümfabrik der Welt.",
+      "Johann Maria Farina benannte seinen Duft nach seiner Wahlheimat Köln.",
+      "Lieferant für fast alle europäischen Fürsten- und Königshöfe.",
+      "Das rote Tulpen-Siegel ist ein weltweit geschütztes Markenzeichen.",
+      "Original-Destillationsapparat aus dem 18. Jahrhundert ist ausgestellt.",
+      "Königin Victoria und Napoleon Bonaparte gehörten zu den Kunden."
+    ],
+    "hu": [
+      "1709-ben alapították, a világ legrégebbi parfümgyára.",
+      "Johann Maria Farina választott hazájáról, Kölnről nevezte el illatát.",
+      "Szinte az összes európai hercegi és királyi udvar beszállítója volt.",
+      "A vörös tulipán pecsét világszerte védett védjegy.",
+      "Egy eredeti, 18. századi lepárlókészülék is ki van állítva.",
+      "Viktória királynő és Bonaparte Napóleon is a vásárlók közé tartozott."
+    ],
+    "ro": [
+      "Fondată în 1709, cea mai veche fabrică de parfumuri din lume.",
+      "Johann Maria Farina și-a numit parfumul după orașul său adoptiv, Köln.",
+      "Furnizor pentru aproape toate curțile princiare și regale europene.",
+      "Sigiliul cu lalea roșie este o marcă protejată la nivel mondial.",
+      "Este expus un aparat de distilare original din secolul al XVIII-lea.",
+      "Regina Victoria și Napoleon Bonaparte s-au numărat printre clienți."
+    ],
+    "en": [
+      "Founded in 1709, the oldest perfume factory in the world.",
+      "Johann Maria Farina named his fragrance after his adopted home, Cologne.",
+      "Supplier to almost all European princely and royal courts.",
+      "The red tulip seal is a worldwide protected trademark.",
+      "An original 18th-century distillation apparatus is on display.",
+      "Queen Victoria and Napoleon Bonaparte were among the customers."
+    ]
+  },
+  "practical": {
+    "address": "Obenmarspforten 21, 50667 Köln",
+    "openingHours": "Mo-Sa 10:00-19:00, So 11:00-17:00",
+    "entranceFee": "8 € Erwachsene (inkl. Duftprobe), 5 € Ermäßigt",
+    "website": "https://farina.org",
+    "publicTransport": "U-Bahn Linie 5, Haltestelle Rathaus oder Heumarkt (Linien 1, 7, 9)",
+    "parking": "Parkhaus Rathaus (ca. 3,00 €/Std.)",
+    "accessibility": "Museum ist über einen Aufzug barrierefrei zugänglich.",
+    "photoRules": "Fotografieren ohne Blitz erlaubt, Stative sind nicht gestattet.",
+    "bestTimeToVisit": "Wochentage vormittags; Führung unbedingt vorab online buchen.",
+    "audioGuide": "Ja (mehrsprachige Audio-Stationen und geführte Touren)"
+  }
+}

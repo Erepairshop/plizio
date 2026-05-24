@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Theatinerkirche",
+  "slug": "theatinerkirche",
+  "descriptionAdvanced": {
+    "de": "Die Theatinerkirche St. Kajetan am Odeonsplatz ist eines der prächtigsten Zeugnisse des italienischen Hochbarocks nördlich der Alpen. Sie wurde ab 1663 als Dank für die Geburt des Thronfolgers Max Emanuel durch Kurfürst Ferdinand Maria und seine Gemahlin Henriette Adelaide von Savoyen gestiftet. Der Entwurf stammt vom italienischen Architekten Agostino Barelli, während die markante gelbe Fassade erst im 18. Jahrhundert von François de Cuvilliés im Stil des Rokoko vollendet wurde. Das Innere der Kirche beeindruckt durch seine strahlend weiße Stuckverzierung und die monumentale Kuppel, die eine Höhe von 71 Metern erreicht. Eine besondere Bedeutung kommt der Kirche als Grablege des Hauses Wittelsbach zu; in der Fürstengruft ruhen zahlreiche bayerische Herrscher, darunter auch König Otto von Griechenland. Die Kirche prägt mit ihren markanten Doppeltürmen und der Kuppel maßgeblich die Silhouette der Münchner Innenstadt und ist ein Ort der Stille und prachtvollen Andacht direkt gegenüber der Residenz.",
+    "hu": "Az Odeonsplatzon található Szent Kajetán-templom, közismertebb nevén a Theatinerkirche, az északi Alpok egyik legpompásabb itáliai barokk emléke. 1663-tól épült hálából Max Emanuel trónörökös születéséért, Ferdinand Maria választófejedelem és felesége, Savoyai Henrietta Adelheid megbízásából. A terveket az olasz Agostino Barelli készítette, míg a jellegzetes sárga homlokzatot csak a 18. században fejezte be François de Cuvilliés rokokó stílusban. A templom belseje ragyogó fehér stukkódíszítésével és a 71 méter magas monumentális kupolájával nyűgöz le. Különleges jelentőséggel bír a Wittelsbach-ház temetkezési helyeként; a fejedelmi kriptában számos bajor uralkodó nyugszik, köztük Ottó görög király is. A templom jellegzetes kettős tornyával és kupolájával meghatározó eleme a müncheni belváros sziluettjének, és a csend és a pompás áhítat helyszíne közvetlenül a Rezidencia mellett.",
+    "ro": "Biserica Teatinilor Sf. Cajetan din Odeonsplatz este una dintre cele mai splendide dovezi ale barocului italian la nord de Alpi. A fost construită începând cu 1663 ca mulțumire pentru nașterea moștenitorului tronului Max Emanuel, ctitorită de principele elector Ferdinand Maria și soția sa Henriette Adelaide de Savoia. Proiectul aparține arhitectului italian Agostino Barelli, în timp ce fațada galbenă distinctivă a fost finalizată abia în secolul al XVIII-lea de François de Cuvilliés în stil rococo. Interiorul bisericii impresionează prin decorațiunile din stuc de un alb strălucitor și cupola monumentală care atinge o înălțime de 71 de metri. Biserica are o semnificație deosebită ca loc de înmormântare al casei de Wittelsbach; în cripta princiară se odihnesc numeroși conducători bavarezi, inclusiv regele Otto al Greciei. Cu turnurile sale duble distinctive și cupola, biserica modelează semnificativ silueta centrului orașului München.",
+    "en": "The Theatinerkirche St. Kajetan on Odeonsplatz is one of the most magnificent examples of Italian High Baroque north of the Alps. It was commissioned in 1663 by Elector Ferdinand Maria and his wife Henriette Adelaide of Savoy as thanks for the birth of the heir to the throne, Max Emanuel. The design was by Italian architect Agostino Barelli, while the distinctive yellow facade was only completed in the 18th century by François de Cuvilliés in the Rococo style. The interior of the church impresses with its radiant white stucco decoration and the monumental dome, which reaches a height of 71 meters. The church is particularly significant as a burial site for the House of Wittelsbach; numerous Bavarian rulers, including King Otto of Greece, rest in the Princely Crypt. With its distinctive twin towers and dome, the church significantly shapes the silhouette of Munich's city center and is a place of silence and magnificent devotion directly opposite the Residence."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Baubeginn im Jahr 1663, Weihe im Jahr 1675.",
+      "Die Kuppel hat einen Durchmesser von 18 Metern.",
+      "Die markante gelbe Farbe der Fassade wurde erst 1765 hinzugefügt.",
+      "Beherbergt die Grablege von 47 Mitgliedern des Hauses Wittelsbach.",
+      "Erste Kirche in Bayern, die im Stil des italienischen Hochbarocks erbaut wurde.",
+      "Die Fassadenfiguren stellen die Heiligen Kajetan und Maximilian dar."
+    ],
+    "hu": [
+      "Az építkezés 1663-ban kezdődött, felszentelése 1675-ben történt.",
+      "A kupola átmérője 18 méter.",
+      "A homlokzat jellegzetes sárga színét csak 1765-ben kapta.",
+      "A Wittelsbach-ház 47 tagjának sírhelyét őrzi.",
+      "Az első templom Bajorországban, amely itáliai érett barokk stílusban épült.",
+      "A homlokzati szobrok Szent Kajetánt és Szent Miksát ábrázolják."
+    ],
+    "ro": [
+      "Începerea construcției în 1663, sfințirea în 1675.",
+      "Cupola are un diametru de 18 metri.",
+      "Culoarea galbenă distinctivă a fațadei a fost adăugată abia în 1765.",
+      "Găzduiește locurile de veci pentru 47 de membri ai casei de Wittelsbach.",
+      "Prima biserică din Bavaria construită în stil baroc italian înalt.",
+      "Statuile de pe fațadă îi reprezintă pe Sfinții Cajetan și Maximilian."
+    ],
+    "en": [
+      "Construction began in 1663, consecrated in 1675.",
+      "The dome has a diameter of 18 meters.",
+      "The distinctive yellow color of the facade was added only in 1765.",
+      "Houses the burial site of 47 members of the House of Wittelsbach.",
+      "The first church in Bavaria built in the style of Italian High Baroque.",
+      "The facade statues represent Saints Cajetan and Maximilian."
+    ]
+  },
+  "practical": {
+    "address": "Salvatorplatz 2a, 80333 München",
+    "openingHours": "Täglich 06:30-19:30 (Besichtigung während Gottesdiensten eingeschränkt)",
+    "entranceFee": "kostenlos (Spende erbeten), Fürstengruft ca. 2 €",
+    "website": "https://www.theatinerkirche.de",
+    "publicTransport": "U-Bahn U3/U4/U5/U6 bis Haltestelle Odeonsplatz",
+    "parking": "Parkhaus Salvatorplatz in unmittelbarer Nähe.",
+    "accessibility": "Ebenerdiger Zugang über das Hauptportal möglich.",
+    "photoRules": "Fotografieren ohne Blitz erlaubt, Rücksichtnahme auf Betende erforderlich.",
+    "bestTimeToVisit": "Am Vormittag, wenn das Licht die weiße Stuckatur im Inneren hell erleuchtet.",
+    "audioGuide": "nein"
+  }
+}

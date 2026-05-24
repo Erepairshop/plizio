@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Rathaus Köln",
+  "slug": "rathaus-koln",
+  "descriptionAdvanced": {
+    "de": "Das Kölner Rathaus ist das älteste Rathaus Deutschlands mit einer über 800-jährigen dokumentierten Baugeschichte. Der heutige Komplex besteht aus verschiedenen Gebäudeteilen, die unterschiedliche Epochen widerspiegeln. Besonders markant ist der spätgotische Rathausturm, der zwischen 1407 und 1414 errichtet wurde und mit 124 Sandsteinfiguren bedeutender Persönlichkeiten der Stadtgeschichte geschmückt ist. Die prächtige Renaissance-Laube (Loggia) an der Westseite stammt aus dem 16. Jahrhundert und gilt als eines der bedeutendsten Beispiele nordeuropäischer Renaissance-Architektur. Im Inneren beeindruckt der Hansasaal aus dem 14. Jahrhundert, in dem einst die Hansetage stattfanden. Er beherbergt die 'Neun Guten Helden', bedeutende Skulpturen aus dem Mittelalter. Unter dem Rathausplatz befinden sich zudem Reste des römischen Praetoriums, dem Amtssitz des kaiserlichen Statthalter. Trotz schwerer Zerstörungen im Zweiten Weltkrieg wurde das Rathaus originalgetreu und mit modernen Ergänzungen wiederaufgebaut und dient bis heute als Sitz des Oberbürgermeisters.",
+    "hu": "A Kölni Városháza Németország legrégebbi ilyen jellegű épülete, amelynek írásos története több mint 800 évre nyúlik vissza. Az épületegyüttes különböző korok stílusjegyeit hordozza magán. Leglátványosabb eleme a késő gótikus városháztorony, amely 1407 és 1414 között épült, és 124 homokkő szobor díszíti, melyek a város történetének fontos alakjait ábrázolják. A nyugati oldalon található reneszánsz loggia a 16. századból származik, és az észak-európai reneszánsz építészet egyik legszebb példája. Belül a 14. századi Hansasaal (Hanza-terem) nyűgözi le a látogatókat, ahol egykor a Hanza-szövetség gyűléseit tartották; itt láthatóak a híres 'Kilenc jó hős' középkori szobrai is. A városháza tere alatt találhatók az egykori római Praetorium, a helytartói palota romjai. Noha a második világháborúban az épület súlyos károkat szenvedett, az újjáépítés során sikerült megőrizni történelmi karakterét, és ma is a főpolgármester székhelyeként szolgál.",
+    "ro": "Primăria din Köln (Rathaus) este cea mai veche clădire de acest tip din Germania, având o istorie documentată de peste 800 de ani. Complexul actual este un melanj fascinant de stiluri arhitecturale din diferite epoci. Turnul primăriei, construit în stil gotic târziu între 1407 și 1414, este piesa centrală, fiind decorat cu 124 de statui din gresie care reprezintă personalități marcante ale orașului. Loggia renascentistă de pe fațada vestică, datând din secolul al XVI-lea, este considerată una dintre cele mai rafinate exemplare de arhitectură renascentistă din nordul Europei. În interior, Sala Hansei (Hansasaal) din secolul al XIV-lea păstrează amintirea reuniunilor Ligii Hanseatice și găzduiește faimoasele sculpturi medievale 'Cei nouă eroi buni'. Sub piața primăriei se află ruinele Praetoriului roman, sediul guvernatorului provinciei. Deși grav afectată în timpul celui de-al Doilea Război Mondial, primăria a fost reconstruită cu minuțiozitate, servind și astăzi ca sediu al primarului general.",
+    "en": "Cologne City Hall (Rathaus) is Germany's oldest town hall, boasting a documented history spanning over 800 years. The current architectural complex is a composite of several distinct historical periods. The late-Gothic Rathaus Tower, constructed between 1407 and 1414, stands as a prominent landmark decorated with 124 sandstone statues depicting key figures from Cologne's history. On the western facade, the exquisite Renaissance Loggia, built in the 16th century, is hailed as one of the finest examples of Northern European Renaissance architecture. Inside, the 14th-century Hansasaal (Hanseatic Hall) is a highlight, once hosting meetings of the Hanseatic League and featuring the 'Nine Good Heroes' medieval sculptures. Beneath the square lie the archaeological remains of the Roman Praetorium, the governor's palace. Although heavily damaged during World War II, the Rathaus was faithfully restored and remains the seat of the Lord Mayor of Cologne to this day."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Der Rathausturm ist 61 Meter hoch und besitzt fünf Etagen.",
+      "Das Glockenspiel des Turms spielt täglich um 9, 12, 15 und 18 Uhr verschiedene Melodien.",
+      "Die Renaissance-Laube wurde vom Baumeister Wilhelm Vernukken zwischen 1569 und 1573 errichtet.",
+      "Unter dem Rathaus befindet sich das größte römische Ruinenfeld der Stadt (Praetorium).",
+      "Die Figurengruppe am Turm zeigt unter anderem Karl den Großen und Agrippina die Jüngere.",
+      "Der 'Platzjabbel' unter der Turmuhr streckt bei jedem Stundenschlag die Zunge heraus."
+    ],
+    "hu": [
+      "A városháza tornya 61 méter magas és ötszintes.",
+      "A torony harangjátéka naponta 9, 12, 15 és 18 órakor különböző dallamokat játszik.",
+      "A reneszánsz loggiát Wilhelm Vernukken építőmester emelte 1569 és 1573 között.",
+      "A városháza alatt található a város legnagyobb római kori rommezője (Praetorium).",
+      "A torony szobrai között Nagy Károly és az ifjabb Agrippina alakja is felfedezhető.",
+      "A 'Platzjabbel' nevű figura az óra alatt minden óraütéskor kiölti a nyelvét."
+    ],
+    "ro": [
+      "Turnul primăriei are o înălțime de 61 de metri și este structurat pe cinci niveluri.",
+      "Carillonul turnului interpretează melodii zilnic la orele 9, 12, 15 și 18.",
+      "Loggia renascentistă a fost construită de Wilhelm Vernukken între 1569 și 1573.",
+      "Sub clădire se află cel mai vast sit arheologic roman din oraș (Praetorium).",
+      "Printre cele 124 de statui se numără Carol cel Mare și Agrippina cea Tânără.",
+      "Figura 'Platzjabbel' de sub ceas scoate limba la fiecare bătaie a orei fixe."
+    ],
+    "en": [
+      "The City Hall tower stands 61 meters tall and consists of five floors.",
+      "The tower's carillon plays different melodies daily at 9:00, 12:00, 15:00, and 18:00.",
+      "The Renaissance Loggia was built by master builder Wilhelm Vernukken between 1569 and 1573.",
+      "The basement houses the Praetorium, the largest Roman ruins site in the city.",
+      "The tower's statues include figures like Charlemagne and Agrippina the Younger.",
+      "The 'Platzjabbel' wooden head below the clock sticks out its tongue at every hour chime."
+    ]
+  },
+  "practical": {
+    "address": "Rathausplatz 2, 50667 Köln",
+    "openingHours": "Mo-Fr 08:00-16:00 (Innenhof und Turm oft frei zugänglich, Prunksäle nur bei Events/Führungen)",
+    "entranceFee": "Besichtigung von außen kostenlos, Praetorium-Eintritt €3.50",
+    "website": "https://www.stadt-koeln.de",
+    "publicTransport": "U-Bahn Rathaus (Linie 5) oder Alter Markt (Linien 1, 7, 9)",
+    "parking": "Parkhaus Alter Markt, ca. €2.80 pro Stunde",
+    "accessibility": "Teilweise barrierefrei; historische Säle oft nur über Stufen erreichbar.",
+    "photoRules": "Von außen erlaubt; in Innenräumen oft eingeschränkt (Sitzungsräume).",
+    "bestTimeToVisit": "Zur vollen Stunde, um den 'Platzjabbel' und das Glockenspiel zu erleben.",
+    "audioGuide": "no"
+  }
+}

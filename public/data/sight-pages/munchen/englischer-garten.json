@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Englischer Garten",
+  "slug": "englischer-garten",
+  "descriptionAdvanced": {
+    "de": "Der Englische Garten in München ist mit einer Fläche von rund 3,75 Quadratkilometern eine der größten innerstädtischen Parkanlagen der Welt und übertrifft in seiner Ausdehnung sogar den New Yorker Central Park. Er wurde im Jahr 1789 auf Initiative von Sir Benjamin Thompson angelegt und war eine der ersten Parkanlagen Europas, die für die gesamte Bevölkerung zugänglich waren. Der Park gliedert sich in den belebten südlichen Teil und den ruhigeren, fast waldähnlichen Nordteil. Zu den bekanntesten Wahrzeichen gehören der Chinesische Turm, um den sich einer der größten Biergärten der Stadt befindet, und der Monopteros, ein kleiner Rundtempel auf einem Hügel, der einen fantastischen Blick über die Türme der Altstadt bietet. Eine absolute Besonderheit ist die Eisbachwelle am südlichen Ende des Gartens. Hier stürzt sich der Eisbach über eine Stufe und erzeugt eine stehende Welle, auf der Profi-Surfer bei jedem Wetter und zu jeder Jahreszeit ihr Können zeigen. Der Englische Garten ist die grüne Lunge Münchens und ein unverzichtbarer Teil des Lebensgefühls in der bayerischen Metropole.",
+    "hu": "A müncheni Angolkert mintegy 3,75 négyzetkilométeres területével a világ egyik legnagyobb városi parkja, kiterjedése még a New York-i Central Parkot is meghaladja. 1789-ben hozták létre Sir Benjamin Thompson kezdeményezésére, és az elsők között volt Európában, amely a teljes lakosság számára nyitott volt. A park a forgalmas déli részre és a csendesebb, szinte erdőszerű északi részre tagolódik. Legismertebb nevezetességei közé tartozik a Kínai torony, amely körül a város egyik legnagyobb sörkertje található, valamint a Monopteros, egy dombtetőn álló kis körtemplom, ahonnan fantasztikus kilátás nyílik az óváros tornyaira. Abszolút különlegesség a park déli végén található Eisbach-hullám. Itt az Eisbach folyó egy lépcsőn zúdul le, állóhullámot hozva létre, amelyen profi szörfösök minden időjárási körülmény között és minden évszakban megmutatják tudásukat. Az Angolkert München zöld tüdeje és a bajor metropolisz életérzésének nélkülözhetetlen része.",
+    "ro": "Grădina Engleză (Englischer Garten) din München este una dintre cele mai mari zone verzi urbane din lume, cu o suprafață de aproximativ 3,75 kilometri pătrați, depășind în dimensiuni chiar și Central Park din New York. A fost creată în anul 1789 la inițiativa lui Sir Benjamin Thompson și a fost unul dintre primele parcuri din Europa deschise întregii populații. Parcul este împărțit în partea de sud, mai animată, și partea de nord, mai liniștită și aproape împădurită. Printre cele mai cunoscute repere se numără Turnul Chinezesc, în jurul căruia se află una dintre cele mai mari grădini de bere din oraș, și Monopteros, un mic templu circular situat pe o colină, care oferă o vedere fantastică asupra turnurilor centrului istoric. O particularitate absolută este valul de pe râul Eisbach de la capătul sudic al grădinii. Aici, râul Eisbach cade peste o treaptă și creează un val staționar pe care surferii profesioniști își demonstrează abilitățile în orice condiții meteorologice și în orice anotimp. Grădina Engleză este plămânul verde al Münchenului și o parte indispensabilă a stilului de viață din metropola bavareză.",
+    "en": "The English Garden in Munich, spanning approximately 3.75 square kilometers, is one of the largest urban parks in the world, even surpassing New York's Central Park in size. It was established in 1789 on the initiative of Sir Benjamin Thompson and was one of Europe's first parks accessible to all citizens. The park is divided into a bustling southern section and a quieter, almost forest-like northern part. Its most famous landmarks include the Chinese Tower, home to one of the city's largest beer gardens, and the Monopteros, a small circular temple atop a hill that offers a fantastic view over the spires of the Old Town. A truly unique feature is the Eisbach wave at the southern end of the garden. Here, the Eisbach river rushes over a ledge, creating a standing wave where professional surfers showcase their skills in all weather and seasons. The English Garden serves as Munich's green lung and is an indispensable part of the unique lifestyle in the Bavarian capital."
+  },
+  "factsAdvanced": {
+    "de": [
+      "1789: Gründung des Parks durch Kurfürst Karl Theodor.",
+      "3,75 km²: Die Gesamtfläche, damit größer als der Central Park.",
+      "1790: Bau des ersten Chinesischen Turms aus Holz.",
+      "1836: Errichtung des Monopteros-Tempels durch Leo von Klenze.",
+      "7.000 Plätze: Die Kapazität des Biergartens am Chinesischen Turm.",
+      "1972: Künstliche Verstärkung der Eisbachwelle für das Flusssurfen."
+    ],
+    "hu": [
+      "1789: A park alapítása Károly Tivadar választófejedelem által.",
+      "3,75 km²: A teljes terület, amivel nagyobb a Central Parknál.",
+      "1790: Az első, fából készült Kínai torony építése.",
+      "1836: A Monopteros-templom felállítása Leo von Klenze által.",
+      "7 000 férőhely: A Kínai torony melletti sörkert befogadóképessége.",
+      "1972: Az Eisbach-hullám mesterséges felerősítése a folyami szörfözéshez."
+    ],
+    "ro": [
+      "1789: Fondarea parcului de către principele elector Karl Theodor.",
+      "3,75 km²: Suprafața totală, fiind mai mare decât Central Park.",
+      "1790: Construcția primului Turn Chinezesc din lemn.",
+      "1836: Ridicarea templului Monopteros de către Leo von Klenze.",
+      "7.000 locuri: Capacitatea grădinii de bere de la Turnul Chinezesc.",
+      "1972: Consolidarea artificială a valului Eisbach pentru surfing fluvial."
+    ],
+    "en": [
+      "1789: Founding of the park by Elector Karl Theodor.",
+      "3.75 km²: Total area, making it larger than New York's Central Park.",
+      "1790: Construction of the first Chinese Tower made of wood.",
+      "1836: Erection of the Monopteros temple by Leo von Klenze.",
+      "7,000 seats: Capacity of the beer garden at the Chinese Tower.",
+      "1972: Artificial reinforcement of the Eisbach wave for river surfing."
+    ]
+  },
+  "practical": {
+    "address": "Englischer Garten, 80538 München",
+    "openingHours": "24/7",
+    "entranceFee": "kostenlos",
+    "website": "https://www.schloesser.bayern.de",
+    "publicTransport": "U3/U6 bis Universität oder Giselastraße, Bus 54/154",
+    "parking": "Parken am Haus der Kunst oder in Seitenstraßen, ca. €3,00/Std.",
+    "accessibility": "Hauptwege sind befestigt und weitgehend barrierefrei befahrbar",
+    "photoRules": "Privat frei erlaubt, gewerbliche Aufnahmen genehmigungspflichtig",
+    "bestTimeToVisit": "An warmen Sommertagen zum Entspannen oder Surferwelle schauen",
+    "audioGuide": "Nein, Naturerlebnis und Entspannung stehen im Vordergrund"
+  }
+}

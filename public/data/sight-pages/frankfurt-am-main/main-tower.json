@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Main Tower",
+  "slug": "main-tower",
+  "descriptionAdvanced": {
+    "de": "Der 1999 fertiggestellte Main Tower ist mit einer Höhe von 200 Metern (240 Meter inklusive Antenne) einer der markantesten Wolkenkratzer der Frankfurter Skyline. Er war das erste Hochhaus in Deutschland, das mit einer vollständig verglasten Außenfassade errichtet wurde, was ihm ein Gefühl von Transparenz und Modernität verleiht. Die Architektur besteht aus zwei ineinander verschachtelten Türmen – einem quadratischen und einem runden. Besonders attraktiv für Besucher ist die öffentliche Aussichtsplattform in rund 190 Metern Höhe, die einen unvergleichlichen Panoramablick über das gesamte Stadtgebiet, den Taunus und bis zum Odenwald bietet. Im Inneren beherbergt der Turm neben Büroräumen der Landesbank Hessen-Thüringen (Helaba) auch eine bedeutende Kunstsammlung sowie ein exklusives Restaurant im 53. Stockwerk. Der Main Tower symbolisiert den wirtschaftlichen Aufstieg Frankfurts zum führenden Finanzzentrum des Kontinents.",
+    "hu": "Az 1999-ben elkészült Main Tower 200 méteres magasságával (antennával együtt 240 méter) a frankfurti sziluett egyik legmeghatározóbb felhőkarcolója. Ez volt az első olyan toronyház Németországban, amely teljesen üvegezett külső homlokzattal épült, ami az átláthatóság és a modernség érzetét kelti. Az építészeti koncepció két egymásba fonódó toronyból áll: egy négyzetesből és egy kör alakúból. A látogatók számára különösen vonzó a mintegy 190 méter magasságban található nyilvános kilátóterasz, amely páratlan panorámát nyújt a teljes városra, a Taunus-hegységre és egészen az Odenwaldig. Odabent a torony a Landesbank Hessen-Thüringen (Helaba) irodái mellett jelentős művészeti gyűjteménynek, valamint az 53. emeleten egy exkluzív étteremnek is otthont ad. A Main Tower Frankfurt gazdasági felemelkedését szimbolizálja a kontinens vezető pénzügyi központjává.",
+    "ro": "Finalizat în 1999, Main Tower, cu o înălțime de 200 de metri (240 de metri inclusiv antena), este unul dintre cei mai proeminenți zgârie-nori din orizontul Frankfurtului. A fost prima clădire înaltă din Germania construită cu o fațadă exterioară complet vitrată, ceea ce îi conferă o senzație de transparență și modernitate. Arhitectura constă în două turnuri întrepătrunse – unul pătrat și unul rotund. Deosebit de atractivă pentru vizitatori este platforma publică de observație situată la aproximativ 190 de metri înălțime, care oferă o vedere panoramică inegalabilă asupra întregului oraș, a munților Taunus și până la Odenwald. În interior, turnul găzduiește, pe lângă birourile Landesbank Hessen-Thüringen (Helaba), o colecție importantă de artă și un restaurant exclusivist la etajul 53. Main Tower simbolizează ascensiunea economică a Frankfurtului ca centru financiar principal al continentului.",
+    "en": "Completed in 1999, the Main Tower stands at a height of 200 meters (240 meters including the antenna), making it one of the most prominent skyscrapers in the Frankfurt skyline. It was the first high-rise in Germany to be built with a fully glazed exterior facade, lending it a sense of transparency and modernity. The architecture consists of two interlocking towers – one square and one circular. Particularly attractive to visitors is the public observation deck at a height of approximately 190 meters, offering an unparalleled panoramic view over the entire urban area, the Taunus mountains, and as far as the Odenwald. Inside, in addition to the offices of the Landesbank Hessen-Thüringen (Helaba), the tower houses a significant art collection and an exclusive restaurant on the 53rd floor. The Main Tower symbolizes Frankfurt's economic rise to the continent's leading financial hub."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Erstes Hochhaus Europas mit einer vollverglasten Fassade (2.550 Fenster).",
+      "Der Turm verfügt über 56 Stockwerke über der Erde und 5 im Untergrund.",
+      "Die öffentliche Aussichtsplattform befindet sich auf 190 Metern Höhe.",
+      "Der Aufzug bringt Besucher mit einer Geschwindigkeit von 7 Metern pro Sekunde nach oben.",
+      "In der Lobby hängen Videoinstallationen von Bill Viola.",
+      "Bei starkem Wind schwankt die Spitze des Turms um bis zu 80 Zentimeter."
+    ],
+    "hu": [
+      "Európa első teljesen üvegezett homlokzatú felhőkarcolója (2550 ablak).",
+      "A torony 56 emelettel rendelkezik a föld felett és 5 emelettel a föld alatt.",
+      "A nyilvános kilátóterasz 190 méter magasságban található.",
+      "A lift másodpercenként 7 méteres sebességgel repíti fel a látogatókat.",
+      "A lobbiban Bill Viola videoinstallációi láthatóak.",
+      "Erős szélben a torony csúcsa akár 80 centimétert is kilenghet."
+    ],
+    "ro": [
+      "Primul zgârie-nori din Europa cu fațadă complet vitrată (2.550 de ferestre).",
+      "Turnul are 56 de etaje supraterane și 5 etaje subterane.",
+      "Platforma publică de observație se află la înălțimea de 190 de metri.",
+      "Ascensorul transportă vizitatorii în sus cu o viteză de 7 metri pe secundă.",
+      "În lobby sunt expuse instalații video semnate de Bill Viola.",
+      "În condiții de vânt puternic, vârful turnului oscilează cu până la 80 de centimetri."
+    ],
+    "en": [
+      "The first skyscraper in Europe with a fully glazed facade (2,550 windows).",
+      "The tower has 56 floors above ground and 5 floors below ground.",
+      "The public observation deck is located at a height of 190 meters.",
+      "The elevator transports visitors upward at a speed of 7 meters per second.",
+      "Video installations by Bill Viola are displayed in the lobby.",
+      "In strong winds, the top of the tower can sway by up to 80 centimeters."
+    ]
+  },
+  "practical": {
+    "address": "Neue Mainzer Straße 52-58, 60311 Frankfurt am Main",
+    "openingHours": "Su-Th 10:00-21:00, Fr-Sa 10:00-23:00 (Sommer); Winter meist 1 Std. kürzer",
+    "entranceFee": "€9 Erwachsene, €6 ermäßigt",
+    "website": "https://www.maintower.de",
+    "publicTransport": "S-Bahn Taunusanlage (alle Linien) oder U-Bahn Willy-Brandt-Platz",
+    "parking": "Parkhaus Junghofstraße in direkter Nähe, ca. €4 pro Stunde",
+    "accessibility": "Vollständig barrierefrei, Aufzüge zur Plattform vorhanden",
+    "photoRules": "Erlaubt, Stative aus Sicherheitsgründen oft untersagt",
+    "bestTimeToVisit": "Kurz vor Sonnenuntergang für Panorama bei Tag und Nacht",
+    "audioGuide": "no"
+  }
+}

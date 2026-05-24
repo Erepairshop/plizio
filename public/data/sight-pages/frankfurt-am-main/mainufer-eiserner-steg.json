@@ -1,0 +1,53 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Mainufer & Eiserner Steg",
+  "slug": "mainufer-eiserner-steg",
+  "descriptionAdvanced": {
+    "de": "Das Mainufer und der Eiserne Steg bilden zusammen eines der beliebtesten Ensembles Frankfurts. Der Eiserne Steg ist eine 174 Meter lange Fußgängerbrücke, die die Altstadt mit Sachsenhausen verbindet. Eingeweiht im Jahr 1868, war sie eine private Initiative von Bürgern. Die charakteristische neugotische Eisenkonstruktion wurde nach ihrer Zerstörung im Zweiten Weltkrieg bereits 1946 wiedereröffnet. Heute ist die Brücke vor allem als „Brücke der Liebenden“ bekannt, geschmückt mit Tausenden von Vorhängeschlössern. Das angrenzende Mainufer lädt mit seinen Grünanlagen und dem Museumsufer zum Verweilen ein. Von der Brücke aus bietet sich einer der spektakulärsten Ausblicke auf die Skyline Frankfurts, besonders bei Sonnenuntergang.",
+    "hu": "A Majna-part és az Eiserner Steg (Vashíd) együtt alkotják Frankfurt egyik legnépszerűbb együttesét. Az Eiserner Steg egy 174 méter hosszú gyalogoshíd, amely az óvárost köti össze Sachsenhausen negyeddel. Az 1868-ban felavatott híd polgári kezdeményezés eredménye volt. A jellegzetes neogótikus vasszerkezetet a második világháborús pusztítás után már 1946-ban újra megnyitották. Ma a híd leginkább a „szerelmesek hídjaként” ismert, amelyet lakatok ezrei díszítenek. A szomszédos Majna-part zöldfelületeivel és a Múzeumparttal várja a pihenni vágyókat. A hídról nyílik az egyik leglátványosabb kilátás Frankfurt felhőkarcolóira, különösen naplementekor.",
+    "ro": "Malul râului Main și Eiserner Steg (Podul de Fier) formează unul dintre cele mai populare ansambluri din Frankfurt. Eiserner Steg este un pod pietonal lung de 174 de metri care leagă orașul vechi de cartierul Sachsenhausen. Inaugurat în 1868, a fost o inițiativă privată a cetățenilor. Construcția metalică neogotică a fost redeschisă deja în 1946 după distrugerea sa în al Doilea Război Mondial. Astăzi, podul este cunoscut mai ales ca „podul îndrăgostiților”, fiind decorat cu mii de lacăte. Malul adiacent al Mainului invită la relaxare cu spațiile sale verzi și malul muzeelor. De pe pod se oferă una dintre cele mai spectaculoase vederi asupra panoramei zgârie-norilor din Frankfurt, mai ales la apus.",
+    "en": "The river Main embankment and the Eiserner Steg (Iron Bridge) form one of Frankfurt's most popular ensembles. The Eiserner Steg is a 174-meter-long footbridge connecting the Old Town with Sachsenhausen. Opened in 1868, it was a private citizen initiative. The characteristic neo-Gothic iron construction was reopened as early as 1946 after its destruction in World War II. Today, the bridge is primarily known as the \"bridge of lovers,\" adorned with thousands of padlocks. The adjacent river embankment invites visitors to linger with its green spaces and the Museumsufer. The bridge offers one of the most spectacular views of the Frankfurt skyline, especially at sunset."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die Brücke wurde im Jahr 1868 als Privatinitiative eingeweiht.",
+      "Sie ist 174 Meter lang und besteht aus versteiftem Stahl.",
+      "Pro Tag überqueren etwa 10.000 Menschen die Brücke.",
+      "Die Wehrmacht sprengte die Brücke im März 1945.",
+      "Die griechische Inschrift am Portal stammt aus Homers Odyssee."
+    ],
+    "hu": [
+      "A hidat 1868-ban magánkezdeményezésre avatták fel.",
+      "A híd 174 méter hosszú és merevített acélból készült.",
+      "Naponta körülbelül 10 000 ember kel át a hídon.",
+      "A Wehrmacht 1945 márciusában felrobbantotta a hidat.",
+      "A portálon található görög felirat Homérosz Odüsszeiájából származik."
+    ],
+    "ro": [
+      "Podul a fost inaugurat în 1868 ca o inițiativă privată.",
+      "Are o lungime de 174 de metri și este construit din oțel rigidizat.",
+      "Aproximativ 10.000 de oameni traversează podul zilnic.",
+      "Wehrmacht-ul a aruncat podul în aer în martie 1945.",
+      "Inscripția grecească de pe portal provine din Odiseea lui Homer."
+    ],
+    "en": [
+      "The bridge was inaugurated in 1868 as a private initiative.",
+      "It is 174 meters long and made of stiffened steel.",
+      "About 10,000 people cross the bridge every day.",
+      "The Wehrmacht blew up the bridge in March 1945.",
+      "The Greek inscription on the portal is from Homer's Odyssey."
+    ]
+  },
+  "practical": {
+    "address": "Eiserner Steg, 60311 Frankfurt am Main",
+    "openingHours": "24/7",
+    "entranceFee": "kostenlos",
+    "website": "https://www.frankfurt-tourismus.de/Entdecken-und-Erleben/Sehenswuerdigkeiten/Eiserner-Steg",
+    "publicTransport": "U-Bahn U4, U5 (Haltestelle Dom/Römer)",
+    "parking": "Parkhaus Dom Römer, ca. 3€ pro Stunde.",
+    "accessibility": "Vollständig barrierefrei über Aufzüge an beiden Uferseiten erreichbar.",
+    "photoRules": "Erlaubt; beliebt für Langzeitbelichtungen der Skyline bei Nacht.",
+    "bestTimeToVisit": "Sonnenuntergang für die besten Lichtverhältnisse der Skyline.",
+    "audioGuide": "nein"
+  }
+}

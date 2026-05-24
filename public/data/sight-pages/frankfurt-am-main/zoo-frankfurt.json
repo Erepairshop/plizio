@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Zoo Frankfurt",
+  "slug": "zoo-frankfurt",
+  "descriptionAdvanced": {
+    "de": "Der Zoo Frankfurt wurde 1858 gegründet und ist damit der zweitälteste Tierpark Deutschlands. Seine internationale Bekanntheit verdankt er vor allem dem langjährigen Direktor Bernhard Grzimek, der den Zoo nach dem Zweiten Weltkrieg aus den Ruinen wieder aufbaute und durch seine Dokumentarfilme weltberühmt machte. Auf einer Fläche von 11 Hektar beherbergt der Zoo rund 4.500 Tiere in über 450 Arten. Besondere Highlights sind das Grzimek-Haus, eines der größten Nachttierhäuser Europas, in dem Besucher nachtaktive Tiere bei ihrem Tagwerk beobachten können, sowie das Exotarium mit seinen beeindruckenden Reptilien, Amphibien und Insekten. Der Zoo engagiert sich stark im internationalen Artenschutz und betreibt zahlreiche Zuchtprogramme für bedrohte Tierarten. Trotz seiner zentralen Lage mitten im Stadtteil Ostend bietet der Zoo weitläufige Außenanlagen und moderne Tierhäuser, die den Besuchern eine Entdeckungsreise durch die verschiedenen Kontinente ermöglichen.",
+    "hu": "A Frankfurti Állatkert 1858-ban alakult, ezzel Németország második legrégebbi állatkertje. Nemzetközi hírnevét elsősorban Bernhard Grzimeknek köszönheti, aki a második világháború után a romokból építette újjá az intézményt, és természetfilmjeivel világszerte ismertté tette. A 11 hektáros területen mintegy 4500 állat él több mint 450 fajból. Kiemelkedő látnivaló a Grzimek-ház, Európa egyik legnagyobb éjszakai állatháza, ahol a látogatók fordított világítás mellett figyelhetik meg az éjjel aktív élőlényeket. Szintén népszerű az Exotarium, amely hüllőknek, kétéltűeknek és rovaroknak ad otthont. Az állatkert aktívan részt vesz a nemzetközi fajmegőrzési programokban. Központi elhelyezkedése ellenére tágas kifutókkal és modern pavilonokkal várja a látogatókat, bemutatva a különböző kontinensek élővilágát.",
+    "ro": "Grădina Zoologică din Frankfurt a fost fondată în 1858, fiind a doua cea mai veche din Germania. Faima sa internațională se datorează în mare parte directorului de cursă lungă, Bernhard Grzimek, care a reconstruit parcul din ruine după cel de-al Doilea Război Mondial și l-a făcut celebru prin documentarele sale. Pe o suprafață de 11 hectare, grădina găzduiește aproximativ 4.500 de animale din peste 450 de specii. Printre atracțiile principale se numără Casa Grzimek, una dintre cele mai mari case de animale nocturne din Europa, unde vizitatorii pot observa fauna nocturnă în activitate. Exotarium-ul este de asemenea impresionant prin colecția de reptile, amfibieni și insecte. Grădina este puternic implicată în proiecte internaționale de protecție a speciilor amenințate, oferind un refugiu natural modern chiar în inima cartierului Ostend.",
+    "en": "Zoo Frankfurt was founded in 1858, making it the second oldest zoo in Germany. It gained international renown primarily through its long-term director Bernhard Grzimek, who rebuilt the zoo from ruins after WWII and made it world-famous through his nature documentaries. Across 11 hectares, the zoo houses around 4,500 animals of over 450 species. Key highlights include the Grzimek House, one of Europe's largest nocturnal animal houses where visitors can observe nighttime creatures during their active phase. The Exotarium is another standout, featuring an impressive array of reptiles, amphibians, and insects. The zoo is deeply involved in global species conservation and breeding programs for endangered animals. Despite its central location in the Ostend district, it offers spacious enclosures and modern habitats that take visitors on a journey across different continents."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet am 29. Juli 1858 durch Frankfurter Bürger.",
+      "Grzimek-Haus wurde 1978 als Nachttierhaus eröffnet.",
+      "Der Zoo umfasst heute eine Fläche von ca. 11 Hektar.",
+      "Bernhard Grzimek war von 1945 bis 1974 Direktor.",
+      "Über 450 verschiedene Tierarten werden hier gehalten.",
+      "Das Exotarium wurde bereits 1877 als erstes Tierhaus errichtet."
+    ],
+    "hu": [
+      "1858. július 29-én alapították frankfurti polgárok.",
+      "A Grzimek-ház 1978-ban nyílt meg éjszakai állatházként.",
+      "Az állatkert területe ma körülbelül 11 hektár.",
+      "Bernhard Grzimek 1945 és 1974 között volt az igazgató.",
+      "Több mint 450 különböző állatfaj látható itt.",
+      "Az Exotarium már 1877-ben megnyílt első pavilonként."
+    ],
+    "ro": [
+      "Fondată la 29 iulie 1858 de cetățeni din Frankfurt.",
+      "Casa Grzimek a fost deschisă în 1978 ca pavilion nocturn.",
+      "Grădina zoologică se întinde pe aproximativ 11 hectare.",
+      "Bernhard Grzimek a fost director între 1945 și 1974.",
+      "Sunt prezentate peste 450 de specii diferite de animale.",
+      "Exotarium-ul a fost construit inițial în 1877."
+    ],
+    "en": [
+      "Founded on July 29, 1858, by Frankfurt citizens.",
+      "Grzimek House opened in 1978 as a nocturnal house.",
+      "The zoo currently covers an area of about 11 hectares.",
+      "Bernhard Grzimek served as director from 1945 to 1974.",
+      "More than 450 different animal species are exhibited.",
+      "The Exotarium was originally built in 1877."
+    ]
+  },
+  "practical": {
+    "address": "Bernhard-Grzimek-Allee 1, 60316 Frankfurt am Main",
+    "openingHours": "Summer 09:00-19:00, Winter 09:00-17:00",
+    "entranceFee": "12 Euro Erwachsene, 6 Euro Kinder (6-17 Jahre)",
+    "website": "https://www.zoo-frankfurt.de",
+    "publicTransport": "U-Bahn Station Zoo (U6, U7) oder Tram 14.",
+    "parking": "Parkhaus am Zoo (Zufahrt über Grüne Straße), ca. 2,50 Euro pro Stunde.",
+    "accessibility": "Größtenteils barrierefrei, einige Steigungen vorhanden.",
+    "photoRules": "Erlaubt für private Zwecke; Blitzverbot im Nachttierhaus.",
+    "bestTimeToVisit": "Vormittags zur Fütterungszeit oder am frühen Abend.",
+    "audioGuide": "no"
+  }
+}

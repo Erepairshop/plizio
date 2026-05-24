@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Paulskirche",
+  "slug": "paulskirche",
+  "descriptionAdvanced": {
+    "de": "Die Frankfurter Paulskirche ist weit mehr als nur ein historisches Gebäude; sie gilt als die \"Wiege der deutschen Demokratie\". Ursprünglich zwischen 1789 und 1833 als evangelische Hauptkirche der Stadt erbaut, diente der Rundbau aus rotem Mainsandstein im Revolutionsjahr 1848 als Tagungsort der Frankfurter Nationalversammlung. Hier wurde der erste Entwurf einer freiheitlichen Verfassung für ein geeintes Deutschland ausgearbeitet. Nach der schweren Beschädigung durch Luftangriffe im Jahr 1944 wurde die Kirche bereits 1948 – zum 100-jährigen Jubiläum der Nationalversammlung – als Mahnmal und Versammlungsstätte wiederaufgebaut. Seitdem wird sie nicht mehr sakral genutzt, sondern dient als Ort für bedeutende staatliche und kulturelle Festakte. Jährlich wird hier unter anderem der renommierte Friedenspreis des Deutschen Buchhandels verliehen. Die schlichte, aber würdevolle Architektur im Inneren unterstreicht die historische Bedeutung dieses nationalen Denkmals.",
+    "hu": "A frankfurti Szent Pál-templom (Paulskirche) sokkal több, mint egy történelmi épület; a \"német demokrácia bölcsőjeként\" tartják számon. Eredetileg 1789 és 1833 között épült a város fő evangélikus templomaként. A vörös majnai homokkőből készült körépület az 1848-as forradalmi évben a frankfurti nemzetgyűlés színhelyéül szolgált. Itt dolgozták ki az egyesült Németország első szabadelvű alkotmánytervezetét. Az 1944-es légitámadások során elszenvedett súlyos károk után a templomot már 1948-ban – a nemzetgyűlés 100. évfordulójára – emlékműként és gyülekezőhelyként építették újjá. Azóta nem szakrális célokra használják, hanem jelentős állami és kulturális ünnepségek helyszíne. Évente itt adják át többek között a Német Könyvkereskedelem Békedíját. A belső tér egyszerű, de méltóságteljes architektúrája hangsúlyozza e nemzeti műemlék történelmi jelentőségét.",
+    "ro": "Biserica Sfântul Paul din Frankfurt este mult mai mult decât o simplă clădire istorică; este considerată \"leagănul democrației germane\". Construită inițial între 1789 și 1833 ca principala biserică evanghelică a orașului, edificiul circular din gresie roșie de Main a servit în anul revoluționar 1848 drept sediu pentru Adunarea Națională de la Frankfurt. Aici a fost elaborat primul proiect al unei constituții liberale pentru o Germanie unită. După avariile grave cauzate de atacurile aeriene din 1944, biserica a fost reconstruită încă din 1948 – la centenarul Adunării Naționale – ca monument comemorativ și loc de adunare. De atunci, nu mai este folosită în scopuri sacre, ci servește drept loc pentru ceremonii de stat și culturale importante. Anual, aici se decernează, printre altele, prestigiosul Premiu al Păcii al Librarilor Germani. Arhitectura simplă, dar demnă a interiorului subliniază importanța istorică a acestui monument național.",
+    "en": "St. Paul's Church (Paulskirche) in Frankfurt is far more than just a historical building; it is regarded as the \"cradle of German democracy.\" Originally built between 1789 and 1833 as the city's main Lutheran church, the circular red sandstone structure served as the meeting place for the Frankfurt National Assembly during the revolutionary year of 1848. It was here that the first draft of a liberal constitution for a united Germany was developed. After being heavily damaged by air raids in 1944, the church was reconstructed as early as 1948 – for the 100th anniversary of the National Assembly – to serve as a memorial and assembly site. Since then, it has no longer been used for religious services but instead hosts significant state and cultural ceremonies. Each year, it is the venue for the presentation of the prestigious Peace Prize of the German Book Trade. The simple yet dignified interior architecture underscores the historical significance of this national monument."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Sitz des ersten frei gewählten deutschen Parlaments (1848/49).",
+      "Wiederaufbau 1948 als erstes bedeutendes Gebäude Frankfurts nach dem Krieg.",
+      "In der Wandelhalle befindet sich ein monumentales Wandbild von Johannes Grützke.",
+      "Die Kirche wurde 1944 durch Brandbomben bis auf die Außenmauern zerstört.",
+      "Verleihungsort des Friedenspreises des Deutschen Buchhandels seit 1950.",
+      "Der Bau wurde vom Stadtbaumeister Johann Georg Christian Hess vollendet."
+    ],
+    "hu": [
+      "Az első szabadon választott német parlament székhelye (1848/49).",
+      "Az első jelentős épület, amelyet Frankfurtban a háború után újjáépítettek (1948).",
+      "Az aulában Johannes Grützke monumentális falfestménye látható.",
+      "A templomot 1944-ben gyújtóbombák pusztították el a külső falakig.",
+      "1950 óta a Német Könyvkereskedelem Békedíjának átadóhelye.",
+      "Az építkezést Johann Georg Christian Hess városi építőmester fejezte be."
+    ],
+    "ro": [
+      "Sediul primului parlament german ales liber (1848/49).",
+      "Prima clădire importantă din Frankfurt reconstruită după război, în 1848.",
+      "În holul de la intrare se află o pictură murală monumentală de Johannes Grützke.",
+      "Biserica a fost distrusă de bombe incendiare în 1944, rămânând doar zidurile exterioare.",
+      "Locul de decernare a Premiului Păcii al Librarilor Germani din 1950.",
+      "Construcția a fost finalizată de maestrul constructor al orașului, Johann Georg Christian Hess."
+    ],
+    "en": [
+      "Site of the first freely elected German parliament (1848/49).",
+      "The first major building in Frankfurt to be reconstructed after the war (1948).",
+      "The lobby features a monumental mural by Johannes Grützke.",
+      "The church was destroyed down to its outer walls by incendiary bombs in 1944.",
+      "Venue for the Peace Prize of the German Book Trade since 1950.",
+      "The construction was completed by city master builder Johann Georg Christian Hess."
+    ]
+  },
+  "practical": {
+    "address": "Paulsplatz 11, 60311 Frankfurt am Main",
+    "openingHours": "Mo-Su 10:00-17:00 (bei Veranstaltungen geschlossen)",
+    "entranceFee": "free",
+    "website": "https://www.frankfurt.de",
+    "publicTransport": "U-Bahn Dom/Römer (U4, U5) oder Hauptwache (alle S-Bahnen)",
+    "parking": "Parkhaus Dom/Römer, ca. €3 per Stunde",
+    "accessibility": "Barrierefreier Zugang über Aufzug möglich",
+    "photoRules": "Erlaubt, ohne Blitz bevorzugt",
+    "bestTimeToVisit": "Vormittags unter der Woche für ungestörte Besichtigung der Ausstellung",
+    "audioGuide": "no"
+  }
+}

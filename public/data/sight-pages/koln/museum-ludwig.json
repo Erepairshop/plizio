@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Museum Ludwig",
+  "slug": "museum-ludwig",
+  "descriptionAdvanced": {
+    "de": "Das Museum Ludwig am Heinrich-Böll-Platz in Köln zählt zu den bedeutendsten Institutionen für moderne Kunst weltweit. Es wurde 1976 gegründet, als das Sammlerehepaar Peter und Irene Ludwig dem Museum 350 Werke moderner Kunst schenkten. Der markante Bau von den Architekten Busmann und Haberer wurde 1986 eröffnet und beherbergt heute die drittgrößte Picasso-Sammlung der Welt sowie eine der umfangreichsten Kollektionen der amerikanischen Pop Art außerhalb der USA. Besucher finden hier Schlüsselwerke von Roy Lichtenstein, Andy Warhol und James Rosenquist. Neben der Pop Art bilden der deutsche Expressionismus, die russische Avantgarde und zeitgenössische Fotografie weitere Schwerpunkte. Die Architektur des Gebäudes mit seinen charakteristischen shed-förmigen Dächern wurde so konzipiert, dass sie das natürliche Nordlicht optimal für die Präsentation der Gemälde nutzt. Das Museum agiert zudem als lebendiger Ort des Diskurses und präsentiert regelmäßig Wechselausstellungen internationaler Künstler.",
+    "hu": "A Kölni Dóm szomszédságában található Museum Ludwig a világ egyik legfontosabb modern művészeti gyűjteménye. Az intézményt 1976-ban alapították, amikor Peter és Irene Ludwig gyűjtőházaspár 350 modern alkotást adományozott a városnak. Az 1986-ban átadott, Busmann és Haberer által tervezett látványos épület ad otthont a világ harmadik legnagyobb Picasso-gyűjteményének, valamint az USA-n kívüli legjelentősebb amerikai pop-art kollekciónak. Olyan ikonikus művészek munkái láthatóak itt, mint Andy Warhol, Roy Lichtenstein és Claes Oldenburg. A múzeum kiemelkedő részlegei közé tartozik még az orosz avantgárd, a német expresszionizmus és a kortárs fotóművészet. Az épület jellegzetes, fűrészfogas tetőszerkezete biztosítja a termek egyenletes és természetes megvilágítását. A Museum Ludwig nemcsak statikus kiállítótér, hanem a nemzetközi kortárs művészeti élet aktív központja, amely folyamatosan változó tárlatokkal és kutatási programokkal várja a látogatókat.",
+    "ro": "Muzeul Ludwig din Köln, situat chiar lângă Dom, este una dintre cele mai importante instituții de artă modernă și contemporană din lume. Fondat în 1976 în urma unei donații generoase de 350 de opere din partea colecționarilor Peter și Irene Ludwig, muzeul a devenit rapid un punct de referință global. Clădirea actuală, inaugurată în 1986 și proiectată de arhitecții Busmann și Haberer, găzduiește a treia cea mai mare colecție Picasso din lume, după Paris și Barcelona. Un alt punct forte este colecția vastă de Pop Art american, cea mai mare din afara Statelor Unite, incluzând lucrări de Andy Warhol, Roy Lichtenstein și James Rosenquist. Pe lângă acestea, muzeul deține o colecție impresionantă de avangardă rusă și expresionism german. Arhitectura sa distinctivă, cu acoperișuri în formă de dinți de fierăstrău, este concepută pentru a capta lumina naturală dinspre nord, ideală pentru vizionarea operelor de artă. Muzeul servește ca un spațiu dinamic pentru dialog cultural, organizând frecvent expoziții temporare de talie internațională.",
+    "en": "Museum Ludwig, located adjacent to the Cologne Cathedral, is one of the world's premier institutions for modern and contemporary art. Established in 1976 following a major gift of 350 artworks from collectors Peter and Irene Ludwig, it found its permanent home in the iconic 1986 building designed by architects Busmann and Haberer. The museum is globally renowned for housing the third-largest Picasso collection in the world and the most significant collection of American Pop Art outside the United States. Visitors can admire masterpieces by legends like Andy Warhol, Roy Lichtenstein, and Tom Wesselmann. Beyond Pop Art, the museum features extensive holdings in Russian Avant-garde, German Expressionism, and a vast collection of historical photography. Its architecture, characterized by serrated 'shed' roofs, was specifically engineered to flood the galleries with indirect northern light, preserving the integrity of the works. As a vibrant hub for the international art scene, Museum Ludwig hosts major temporary exhibitions and fosters critical artistic discourse."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Beherbergt ca. 900 Werke von Pablo Picasso aus verschiedenen Schaffensperioden.",
+      "Die Sammlung umfasst über 70.000 Exponate im Bereich der Fotografie.",
+      "Der Museumsbau kostete zum Zeitpunkt der Errichtung ca. 280 Millionen DM.",
+      "Peter Ludwig schenkte der Stadt Köln auch seine bedeutende Sammlung russischer Avantgarde.",
+      "Das Gebäude teilt sich den Komplex mit der Kölner Philharmonie.",
+      "Die Ausstellungsfläche umfasst insgesamt ca. 8.000 Quadratmeter."
+    ],
+    "hu": [
+      "Körülbelül 900 alkotást őriznek itt Pablo Picassótól, minden korszakából.",
+      "A múzeum fotótára több mint 70 000 darabból álló gyűjteményt kezel.",
+      "Az épületkomplexum építési költsége 1986-ban mintegy 280 millió német márka volt.",
+      "Itt található az egyik legfontosabb orosz avantgárd gyűjtemény a világon.",
+      "Az épületben kapott helyet a Kölner Philharmonie hangversenyterme is.",
+      "A látogatók összesen 8000 négyzetméternyi kiállítótéren barangolhatnak."
+    ],
+    "ro": [
+      "Găzduiește aproximativ 900 de lucrări semnate de Pablo Picasso.",
+      "Colecția de fotografie a muzeului numără peste 70.000 de exponate istorice.",
+      "Construcția edificiului a costat aproximativ 280 de milioane de mărci germane în 1986.",
+      "Muzeul deține cea mai mare colecție de Pop Art american din afara SUA.",
+      "Clădirea este integrată cu sala de concerte a Filarmonicii din Köln.",
+      "Suprafața totală de expunere se ridică la aproximativ 8.000 de metri pătrați."
+    ],
+    "en": [
+      "Houses approximately 900 works by Pablo Picasso, covering all creative phases.",
+      "The photography department manages a vast collection of over 70,000 items.",
+      "The building complex cost about 280 million DM to construct in 1986.",
+      "It holds the largest collection of American Pop Art located outside the USA.",
+      "The museum structure also houses the Cologne Philharmonic concert hall.",
+      "The total exhibition space covers roughly 8,000 square meters."
+    ]
+  },
+  "practical": {
+    "address": "Heinrich-Böll-Platz, 50667 Köln",
+    "openingHours": "Di-So 10:00-18:00, Mo geschlossen",
+    "entranceFee": "€11.00 Erwachsene, €7.50 ermäßigt",
+    "website": "https://www.museum-ludwig.de",
+    "publicTransport": "U-Bahn/S-Bahn Köln Hauptbahnhof (Linien S6, S11, S12, S19, U16, U18)",
+    "parking": "Tiefgarage am Dom oder Philharmonie, ca. €2.50 - €3.00 pro Stunde",
+    "accessibility": "Vollständig barrierefrei mit Aufzügen und rollstuhlgerechten Toiletten.",
+    "photoRules": "Fotografieren ohne Blitz für private Zwecke erlaubt (außer bei Sonderausstellungen).",
+    "bestTimeToVisit": "Unter der Woche vormittags, um den größten Besucherströmen auszuweichen.",
+    "audioGuide": "Deutsch, Englisch, Französisch, Russisch"
+  }
+}

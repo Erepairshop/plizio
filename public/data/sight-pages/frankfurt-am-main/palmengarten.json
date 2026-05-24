@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Palmengarten",
+  "slug": "palmengarten",
+  "descriptionAdvanced": {
+    "de": "Der Frankfurter Palmengarten, gegründet im Jahr 1871 auf Initiative Frankfurter Bürger, zählt mit rund 22 Hektar Fläche zu den größten botanischen Gärten Deutschlands. Das Herzstück der Anlage ist das historische Palmenhaus, eine imposante Eisen-Glas-Konstruktion aus der Gründerzeit, die eine exotische Dschungellandschaft beherbergt. Architektur und Natur verschmelzen hier zu einem einzigartigen Ensemble. Besonders sehenswert ist das Tropicarium, ein moderner Gewächshauskomplex, der die verschiedenen Klimazonen der Erde – von der Nebelwüste bis zum tropischen Regenwald – simuliert. Zudem bietet der Garten einen weitläufigen Rosengarten, einen großen Weiher mit Bootsverleih und das Goethe-Garten-Areal, das dem berühmtesten Sohn der Stadt gewidmet ist. Als grüne Oase inmitten des Westends dient der Garten nicht nur der botanischen Forschung und dem Artenschutz, sondern ist auch ein beliebter Ort für Konzerte und kulturelle Veranstaltungen im Freien.",
+    "hu": "A frankfurti Pálmakert (Palmengarten), amelyet 1871-ben alapítottak polgári kezdeményezésre, 22 hektáros területével Németország egyik legnagyobb botanikus kertje. A létesítmény szíve a történelmi Pálmaház (Palmenhaus), egy impozáns vas-üveg szerkezet a historizmus korából, amely egzotikus dzsungelvilágot rejt. Itt az építészet és a természet egyedülálló egységet alkot. Különösen érdemes megtekinteni a Tropicariumot, egy modern üvegház-komplexumot, amely a Föld különböző éghajlati övezeteit – a ködsivatagtól a trópusi esőerdőig – szimulálja. A kert továbbá tágas rózsakertet, csónakázótavat és a város leghíresebb szülöttének szentelt Goethe-kertet is kínálja. Mint a Westend negyed közepén fekvő zöld oázis, a kert nemcsak a botanikai kutatást és a fajvédelmet szolgálja, hanem kedvelt helyszíne szabadtéri koncerteknek és kulturális eseményeknek is.",
+    "ro": "Grădina Botanică Palmengarten din Frankfurt, fondată în 1871 la inițiativa cetățenilor, este una dintre cele mai mari grădini botanice din Germania, întinzându-se pe 22 de hectare. Piesa centrală a complexului este Palmenhaus, o construcție impresionantă din fier și sticlă din perioada fondatoare, care adăpostește un peisaj exotic de junglă. Arhitectura și natura se contopesc aici într-un ansamblu unic. Deosebit de remarcabil este Tropicarium, un complex modern de sere care simulează diversele zone climatice ale Pământului – de la deșertul cu ceață la pădurea tropicală. În plus, grădina oferă o rozărie extinsă, un iaz mare cu bărci de închiriat și zona Grădinii Goethe, dedicată celui mai faimos fiu al orașului. Ca o oază verde în mijlocul cartierului Westend, grădina nu servește doar cercetării botanice și protecției speciilor, ci este și un loc popular pentru concerte și evenimente culturale în aer liber.",
+    "en": "The Frankfurt Palmengarten, founded in 1871 on the initiative of local citizens, is one of the largest botanical gardens in Germany, covering approximately 22 hectares. The heart of the grounds is the historic Palm House, an impressive iron-and-glass construction from the Wilhelminian era that houses an exotic jungle landscape. Here, architecture and nature merge into a unique ensemble. Particularly worth seeing is the Tropicarium, a modern greenhouse complex that simulates the various climate zones of the Earth – from fog deserts to tropical rainforests. Additionally, the garden offers an extensive rose garden, a large pond with boat rentals, and the Goethe Garden area, dedicated to the city's most famous son. As a green oasis in the middle of the Westend district, the garden serves not only botanical research and species conservation but is also a popular venue for outdoor concerts and cultural events."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet 1871 durch den Gartenarchitekten Heinrich Siesmayer.",
+      "Das historische Palmenhaus von 1869 ist eines der größten seiner Art in Europa.",
+      "Das Tropicarium beherbergt Pflanzen aus acht verschiedenen Klimazonen.",
+      "Die Parkeisenbahn \"Palmen-Express\" verbindet seit 1972 verschiedene Gartenteile.",
+      "Auf dem Weiher kann man seit Generationen mit Holzbooten rudern.",
+      "Jeden Sommer finden hier die beliebten Picknick-Konzerte \"Sommer im Park\" statt."
+    ],
+    "hu": [
+      "1871-ben alapította Heinrich Siesmayer kertépítész.",
+      "Az 1869-es történelmi Pálmaház az egyik legnagyobb ilyen jellegű építmény Európában.",
+      "A Tropicarium nyolc különböző éghajlati övezet növényeit mutatja be.",
+      "A \"Palmen-Express\" kisvasút 1972 óta köti össze a kert különböző részeit.",
+      "A tavon generációk óta lehet faladikokkal csónakázni.",
+      "Minden nyáron itt rendezik meg a népszerű \"Sommer im Park\" piknikkoncerteket."
+    ],
+    "ro": [
+      "Fondată în 1871 de către arhitectul peisagist Heinrich Siesmayer.",
+      "Palmenhaus, construită în 1869, este una dintre cele mai mari de acest tip din Europa.",
+      "Tropicarium găzduiește plante din opt zone climatice diferite.",
+      "Trenulețul parcului \"Palmen-Express\" face legătura între sectoare din 1972.",
+      "Pe iaz se pot închiria bărci de lemn pentru canotaj de generații întregi.",
+      "În fiecare vară au loc aici popularele concerte de tip picnic \"Sommer im Park\"."
+    ],
+    "en": [
+      "Founded in 1871 by landscape architect Heinrich Siesmayer.",
+      "The historic Palm House, built in 1869, is one of the largest of its kind in Europe.",
+      "The Tropicarium houses plants from eight different climatic zones.",
+      "The \"Palmen-Express\" park railway has connected different parts of the garden since 1972.",
+      "Rowing on the pond in wooden boats has been a tradition for generations.",
+      "The popular \"Summer in the Park\" picnic concerts take place here every summer."
+    ]
+  },
+  "practical": {
+    "address": "Siesmayerstraße 61, 60323 Frankfurt am Main",
+    "openingHours": "Mo-Su 09:00-19:00 (März-Okt), Mo-Su 09:00-16:00 (Nov-Feb)",
+    "entranceFee": "€7 Erwachsene, €2 Kinder (6-13 Jahre)",
+    "website": "https://www.palmengarten.de",
+    "publicTransport": "U-Bahn Bockenheimer Warte (U4, U6, U7) oder Westend (U6, U7)",
+    "parking": "Parkhaus Palmengarten in der Siesmayerstraße, ca. €2,50 pro Stunde",
+    "accessibility": "Weitgehend barrierefrei, Rampen in den Gewächshäusern vorhanden",
+    "photoRules": "Private Fotos ohne Stativ erlaubt, kommerziell genehmigungspflichtig",
+    "bestTimeToVisit": "Vormittags unter der Woche für Ruhe; Juni für die Rosenblüte",
+    "audioGuide": "App-basierte Infos in DE/EN verfügbar"
+  }
+}

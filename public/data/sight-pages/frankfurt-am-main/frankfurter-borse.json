@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Frankfurter Börse",
+  "slug": "frankfurter-borse",
+  "descriptionAdvanced": {
+    "de": "Die Frankfurter Wertpapierbörse ist einer der weltweit bedeutendsten Handelsplätze für Aktien. Das heutige Hauptgebäude am Börsenplatz wurde zwischen 1874 und 1879 nach Entwürfen von Heinrich Burnitz und Oskar Sommer im Stil der Neorenaissance errichtet. Besonders prachtvoll ist der große Kuppelbau, der den historischen Handelssaal krönt. Vor dem Gebäude stehen die berühmten Bronzestatuen von Bulle und Bär, die 1985 vom Bildhauer Reinhard Dachlauer geschaffen wurden und den Optimismus (Bulle) bzw. Pessimismus (Bär) am Markt symbolisieren. Obwohl der Großteil des Handels heute computergestützt abläuft, ist der Parketthandel für Medienübertragungen und als Symbol des Finanzplatzes Frankfurt von zentraler Bedeutung. Besucher können im modernen Besucherzentrum Einblicke in die Funktionsweise der Märkte gewinnen und von einer Galerie aus den legendären Handelssaal beobachten, der oft in internationalen Finanznachrichten zu sehen ist.",
+    "hu": "A Frankfurti Értéktőzsde a világ egyik legfontosabb részvénykereskedelmi központja. A Börsenplatzon található neoreneszánsz épületet 1874 és 1879 között emelték Heinrich Burnitz és Oskar Sommer tervei alapján. Az épület leglátványosabb eleme a hatalmas kupola, amely a történelmi kereskedési csarnok felett magasodik. A tőzsde előtt állnak a híres Bika és Medve bronzszobrok, amelyeket 1985-ben készített Reinhard Dachlauer; a bika a piaci optimizmust, a medve pedig a pesszimizmust jelképezi. Bár a kereskedés nagy része ma már számítógépes rendszereken zajlik, a parketten folyó munka továbbra is a frankfurti pénzügyi negyed szimbóluma. A látogatók a modern látogatóközpontban megismerhetik a tőzsde működését, és a galériáról megtekinthetik a híres kereskedési termet, amely gyakran szerepel a nemzetközi híradásokban.",
+    "ro": "Bursa de Valori din Frankfurt este unul dintre cele mai importante locuri de tranzacționare din lume. Clădirea principală de pe Börsenplatz a fost construită între 1874 și 1879 în stil neo-renaștentist, după planurile arhitecților Heinrich Burnitz și Oskar Sommer. Elementul central este domul impunător care acoperă sala istorică de tranzacționare. În fața clădirii se află faimoasele statui de bronz, Taurul și Ursul, create în 1985 de sculptorul Reinhard Dachlauer, simbolizând optimismul (taurul) și pesimismul (ursul) piețelor financiare. Deși majoritatea tranzacțiilor sunt acum computerizate, sala de tranzacționare rămâne un simbol vizual puternic al centrului financiar Frankfurt. Vizitatorii pot accesa centrul modern pentru vizitatori pentru a înțelege mecanismele bursiere și pot observa de la galerie activitatea din sală, celebră prin transmisiunile financiare internaționale.",
+    "en": "The Frankfurt Stock Exchange is one of the world's leading trading venues for securities. The current building at Börsenplatz was constructed between 1874 and 1879 in the Neo-Renaissance style, designed by Heinrich Burnitz and Oskar Sommer. Its most striking feature is the large dome crowning the historic trading floor. In front of the building stand the iconic bronze statues of the Bull and the Bear, created in 1985 by sculptor Reinhard Dachlauer; they symbolize market optimism and pessimism respectively. While most trading is now automated via computer systems, the floor trading remains a vital symbol of Frankfurt's financial district. Visitors can explore the modern Visitor Center to learn about market mechanics and view the legendary trading floor from a gallery, a sight frequently featured in global financial news broadcasts."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Grundsteinlegung des heutigen Gebäudes im Jahr 1874.",
+      "Die Statuen Bulle und Bär wurden 1985 aufgestellt.",
+      "Der DAX (Deutscher Aktienindex) startete hier 1988.",
+      "Über 90 % des Handelsvolumens entfallen heute auf Xetra.",
+      "Der große Handelssaal wurde 2006-2007 umfassend modernisiert.",
+      "Die Börse Frankfurt geht auf eine Messe-Privilegierung von 1585 zurück."
+    ],
+    "hu": [
+      "A jelenlegi épület alapkövét 1874-ben rakták le.",
+      "A Bika és Medve szobrokat 1985-ben állították fel.",
+      "A DAX index 1988-ban indult el innen.",
+      "A forgalom több mint 90%-a ma már a Xetra rendszeren zajlik.",
+      "A nagy kereskedési csarnokot 2006-2007-ben modernizálták.",
+      "A tőzsde eredete egy 1585-ös vásári privilégiumig nyúlik vissza."
+    ],
+    "ro": [
+      "Piatra de temelie a clădirii actuale a fost pusă în 1874.",
+      "Statuile Taurul și Ursul au fost instalate în 1985.",
+      "Indicele DAX a fost lansat aici în anul 1988.",
+      "Peste 90% din volumul tranzacțiilor are loc prin sistemul Xetra.",
+      "Sala mare de tranzacționare a fost modernizată în 2006-2007.",
+      "Originile bursei datează de la un privilegiu de târg din 1585."
+    ],
+    "en": [
+      "Foundation stone of the current building laid in 1874.",
+      "The Bull and Bear statues were installed in 1985.",
+      "The DAX index was launched here in 1988.",
+      "Over 90% of trading volume now occurs via Xetra.",
+      "The main trading floor was extensively modernized in 2006-2007.",
+      "The exchange's history traces back to a 1585 fair privilege."
+    ]
+  },
+  "practical": {
+    "address": "Börsenplatz 4, 60313 Frankfurt am Main",
+    "openingHours": "Mo-Fr 09:00-17:00 (Besucherzentrum)",
+    "entranceFee": "free",
+    "website": "https://www.deutsche-boerse.com",
+    "publicTransport": "Station Hauptwache (U/S-Bahn) oder Eschenheimer Tor (U-Bahn)",
+    "parking": "Parkhaus Börse direkt am Platz, ca. 4 Euro pro Stunde.",
+    "accessibility": "Rollstuhlgerecht über Rampen und Aufzüge zugänglich.",
+    "photoRules": "Außen bei den Statuen erlaubt; innen nur im Besucherzentrum.",
+    "bestTimeToVisit": "Vormittags während der Handelszeit für maximale Aktivität.",
+    "audioGuide": "no"
+  }
+}

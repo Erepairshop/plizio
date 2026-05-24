@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "NS-Dokumentationszentrum",
+  "slug": "ns-dokumentationszentrum",
+  "descriptionAdvanced": {
+    "de": "Das NS-Dokumentationszentrum der Stadt Köln hat seinen Sitz im EL-DE-Haus, dem ehemaligen Hauptquartier der Geheimen Staatspolizei (Gestapo) zwischen 1935 und 1945. Es ist heute die bundesweit größte lokale Gedenkstätte für die Opfer des Nationalsozialismus und ein Ort von bedrückender Authentizität. Besonders erschütternd ist der Besuch im Keller des Gebäudes, wo das ehemalige Gefängnis mit seinen zehn Zellen fast unverändert erhalten blieb. An den Wänden finden sich über 1.800 Inschriften der Häftlinge, die Zeugnis von Angst, Hoffnung und Widerstand ablegen. Die Dauerausstellung Köln im Nationalsozialismus dokumentiert umfassend den Alltag der Bürger, die Mechanismen der Machtergreifung sowie die systematische Verfolgung und Vernichtung von Minderheiten. Das Zentrum versteht sich nicht nur als Museum, sondern als aktiver Forschungs- und Bildungsort, der durch umfangreiche Archive und pädagogische Angebote die Erinnerung an die Verbrechen wachhält. Für die Qualität seiner Vermittlungsarbeit wurde das Haus im Jahr 2000 mit dem renommierten Museumspreis des Europarates ausgezeichnet.",
+    "hu": "A kölni Nemzetiszocializmus Dokumentációs Központ az EL-DE-Hausban található, amely 1935 és 1945 között a Gestapo helyi főhadiszállása volt. Ma ez Németország legnagyobb helyi emlékhelye a nemzetiszocializmus áldozatainak, és a nyomasztó hitelesség helyszíne. Különösen megrázó az épület pincéje, ahol a korábbi börtön tíz cellája szinte változatlan formában maradt fenn. A falakon a foglyok több mint 1800 felirata található, amelyek a félelemről, a reményről és az ellenállásról tanúskodnak. A Köln a nemzetiszocializmus alatt című állandó kiállítás átfogóan dokumentálja a polgárok mindennapjait, a hatalomátvétel mechanizmusait, valamint a kisebbségek szisztematikus üldözését és megsemmisítését. A központ nemcsak múzeumként, hanem aktív kutatási és oktatási helyszínként is meghatározza önmagát, amely kiterjedt archívumok és pedagógiai ajánlatok révén tartja ébren a bűncselekmények emlékét. A közvetítő munka minőségéért az intézmény 2000-ben elnyerte az Európa Tanács rangos múzeumi díját.",
+    "ro": "Centrul de Documentare NS al orașului Köln își are sediul în EL-DE-Haus, fostul sediu al Poliției Secrete de Stat (Gestapo) între 1935 și 1945. Astăzi, acesta este cel mai mare sit memorial local pentru victimele național-socialismului din Germania și un loc de o autenticitate copleșitoare. Deosebit de cutremurătoare este vizitarea subsolului clădirii, unde fosta închisoare cu cele zece celule ale sale s-a păstrat aproape neschimbată. Pe pereți se află peste 1.800 de inscripții ale deținuților, care depun mărturie despre frică, speranță și rezistență. Expoziția permanentă Köln în timpul național-socialismului documentează în mod cuprinzător viața de zi cu zi a cetățenilor, mecanismele de preluare a puterii, precum și persecuția și exterminarea sistematică a minorităților. Centrul se consideră nu doar un muzeu, ci și un loc activ de cercetare și educație, care păstrează vie memoria crimelor prin arhive extinse și oferte pedagogice. Pentru calitatea activității sale de mediere, instituția a fost distinsă în anul 2000 cu renumitul Premiu pentru Muzee al Consiliului Europei.",
+    "en": "The NS Documentation Center of the City of Cologne is based in the EL-DE-Haus, the former headquarters of the Secret State Police (Gestapo) between 1935 and 1945. Today, it is the largest local memorial for the victims of National Socialism in Germany and a place of oppressive authenticity. Particularly harrowing is the visit to the building's basement, where the former prison with its ten cells has been preserved almost unchanged. On the walls are over 1,800 inscriptions by inmates, testifying to fear, hope, and resistance. The permanent exhibition Cologne under National Socialism comprehensively documents the daily lives of citizens, the mechanisms of the seizure of power, and the systematic persecution and extermination of minorities. The center sees itself not only as a museum but as an active research and educational site that keeps the memory of the crimes alive through extensive archives and pedagogical programs. For the quality of its educational work, the house was awarded the renowned Museum Prize of the Council of Europe in 2000."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Das Gebäude wurde 1934 vom Goldhändler Leopold Dahmen errichtet.",
+      "Sitz der Kölner Gestapo von 1935 bis März 1945.",
+      "Über 1.800 Inschriften von Häftlingen an den Zellenwänden erhalten.",
+      "Größte lokale Gedenkstätte für die Opfer des NS-Regimes in der BRD.",
+      "Auszeichnung mit dem Museumspreis des Europarates im Jahr 2000.",
+      "Im Innenhof fanden während des Krieges Hinrichtungen statt."
+    ],
+    "hu": [
+      "Az épületet 1934-ben Leopold Dahmen aranykereskedő építtette.",
+      "A kölni Gestapo székhelye 1935-től 1945 márciusáig.",
+      "Több mint 1800 fogolyfelirat maradt fenn a cellák falain.",
+      "Németország legnagyobb helyi emlékhelye a náci rezsim áldozatainak.",
+      "2000-ben az Európa Tanács múzeumi díjával tüntették ki.",
+      "A háború alatt a belső udvarban kivégzéseket hajtottak végre."
+    ],
+    "ro": [
+      "Clădirea a fost construită în 1934 de comerciantul de aur Leopold Dahmen.",
+      "Sediul Gestapo din Köln din 1935 până în martie 1945.",
+      "S-au păstrat peste 1.800 de inscripții ale deținuților pe pereții celulelor.",
+      "Cel mai mare sit memorial local pentru victimele regimului NS din RFG.",
+      "Distins cu Premiul pentru Muzee al Consiliului Europei în anul 2000.",
+      "În curtea interioară au avut loc execuții în timpul războiului."
+    ],
+    "en": [
+      "The building was constructed in 1934 by gold dealer Leopold Dahmen.",
+      "Headquarters of the Cologne Gestapo from 1935 to March 1945.",
+      "Over 1,800 inscriptions by prisoners preserved on the cell walls.",
+      "Largest local memorial for the victims of the Nazi regime in Germany.",
+      "Awarded the Museum Prize of the Council of Europe in 2000.",
+      "Executions took place in the inner courtyard during the war."
+    ]
+  },
+  "practical": {
+    "address": "Appellhofplatz 23-25, 50667 Köln",
+    "openingHours": "Di-Fr 10:00-18:00, Sa-So 11:00-18:00, 1. Do im Monat bis 22:00",
+    "entranceFee": "4,50 € Erwachsene, 2 € Ermäßigt",
+    "website": "https://nsdok.de",
+    "publicTransport": "U-Bahn Haltestelle Appellhofplatz (Linien 3, 4, 5, 16, 18)",
+    "parking": "Parkhaus am Appellhofplatz (ca. 3,00 €/Std.)",
+    "accessibility": "Teilweise barrierefrei (Aufzug vorhanden), Keller für Rollstühle schwerer zugänglich.",
+    "photoRules": "Fotografieren für private Zwecke erlaubt, Blitzlicht streng untersagt.",
+    "bestTimeToVisit": "Vormittags unter der Woche, um große Schulklassen-Gruppen zu vermeiden.",
+    "audioGuide": "Ja (DE, EN, FR, PL, RU, ES)"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Hauptwache",
+  "slug": "hauptwache",
+  "descriptionAdvanced": {
+    "de": "Die Hauptwache ist eines der markantesten Baudenkmäler Frankfurts und Namensgeber des zentralen Platzes in der Innenstadt. Das barocke Gebäude wurde zwischen 1729 und 1730 vom Stadtbaumeister Johann Jakob Samhammer errichtet. Ursprünglich diente es als Hauptsitz der städtischen Miliz und beherbergte neben Wachstuben auch ein Gefängnis. Nach der preußischen Annexion 1866 verlor die Wache ihre militärische Funktion und wurde ab 1904 in ein Café umgewandelt. Eine bauliche Besonderheit war der komplette Abtrag und originalgetreue Wiederaufbau des Gebäudes in den 1960er Jahren, um den Bau des darunter liegenden S- und U-Bahnhofs zu ermöglichen. Heute ist die Hauptwache mit ihrem charakteristischen Mansardwalmdach ein seltener barocker Akzent inmitten der modernen Glasfassaden der umliegenden Einkaufsmeilen. Sie markiert den Übergang zwischen der Zeil und dem Roßmarkt und gilt als der wichtigste Treffpunkt der Stadt.",
+    "hu": "A Hauptwache Frankfurt egyik legismertebb barokk műemléke, amely a város központi terén áll. Az épület 1729 és 1730 között épült Johann Jakob Samhammer városi építőmester tervei alapján. Eredetileg a városi őrség székhelyeként szolgált, és börtön is működött benne. Miután Frankfurt 1866-ban porosz fennhatóság alá került, katonai jelentősége megszűnt, 1904-től pedig kávézóként üzemel. Érdekesség, hogy az 1960-as években, a metrócsomópont építésekor az épületet kőről kőre lebontották, majd az aluljáró elkészülte után pontosan az eredeti helyén építették újjá. A jellegzetes manzárdtetős épület ma is népszerű kávéház, a környező tér pedig a város legfontosabb találkozóhelye és közlekedési csomópontja, ahol a modern felhőkarcolók és a történelmi építészet találkozik.",
+    "ro": "Hauptwache este unul dintre cele mai emblematice monumente baroce din Frankfurt, dând numele pieței centrale a orașului. Clădirea a fost construită între 1729 și 1730 de arhitectul Johann Jakob Samhammer. Inițial, a servit ca sediu al gărzii orășenești și a inclus și o închisoare. După anexarea Frankfurtului de către Prusia în 1866, clădirea și-a pierdut importanța militară, fiind transformată în cafenea începând cu anul 1904. O particularitate istorică notabilă este demontarea completă a clădirii piatră cu piatră în anii 1960, pentru a permite construcția nodului feroviar subteran, urmată de reconstrucția sa fidelă pe același amplasament. Astăzi, cu acoperișul său mansardat distinctiv, Hauptwache reprezintă un punct de reper istoric prețios într-un centru dominat de zgârie-nori, fiind inima comercială și socială a orașului.",
+    "en": "The Hauptwache is one of Frankfurt's most famous baroque landmarks, located at the heart of the city's central square. Built between 1729 and 1730 by master builder Johann Jakob Samhammer, it originally served as the headquarters of the municipal guard and included a prison. Following the Prussian annexation in 1866, it lost its military significance and was converted into a café in 1904, a function it still serves today. A remarkable feat of preservation occurred in the 1960s when the building was completely dismantled stone by stone to allow for the construction of the underground station, only to be meticulously rebuilt in its original spot. With its distinctive mansard roof, the Hauptwache stands as a rare baroque jewel amidst the modern high-rises and shopping districts, serving as the city's primary meeting point and transit hub."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Erbaut zwischen 1729 und 1730 im barocken Stil.",
+      "Diente bis 1866 als Sitz der Frankfurter Stadtwehr.",
+      "Wurde 1904 erstmals als Café-Restaurant eröffnet.",
+      "Abtrag und Wiederaufbau zwischen 1967 und 1968.",
+      "Zentraler Knotenpunkt für 8 S-Bahn- und 5 U-Bahn-Linien.",
+      "Namensgeber für den umliegenden Platz seit ca. 1920."
+    ],
+    "hu": [
+      "1729 és 1730 között épült barokk stílusban.",
+      "1866-ig a frankfurti városi őrség székhelye volt.",
+      "1904-ben nyílt meg benne először kávéház.",
+      "1967 és 1968 között teljesen szétbontották és újjáépítették.",
+      "8 S-Bahn és 5 metróvonal találkozási pontja.",
+      "Az 1920-as évek óta viseli a tér hivatalosan is ezt a nevet."
+    ],
+    "ro": [
+      "Construită între 1729 și 1730 în stil baroc.",
+      "A servit ca sediu al gărzii până în 1866.",
+      "Prima cafenea s-a deschis aici în anul 1904.",
+      "Demontată și reconstruită între 1967 și 1968.",
+      "Nod central pentru 8 linii S-Bahn și 5 linii de metrou.",
+      "Dă numele pieței înconjurătoare în mod oficial din 1920."
+    ],
+    "en": [
+      "Constructed between 1729 and 1730 in baroque style.",
+      "Served as the city guard headquarters until 1866.",
+      "First opened as a café-restaurant in 1904.",
+      "Dismantled and rebuilt between 1967 and 1968.",
+      "Major transport hub for 8 S-Bahn and 5 U-Bahn lines.",
+      "The square has officially borne this name since around 1920."
+    ]
+  },
+  "practical": {
+    "address": "An der Hauptwache 15, 60313 Frankfurt am Main",
+    "openingHours": "24/7 (Square), Cafe: Mo-Sa 10:00-20:00, Su 11:00-19:00",
+    "entranceFee": "free",
+    "website": "",
+    "publicTransport": "Station Hauptwache (U1-U3, U6-U8, S1-S6, S8, S9)",
+    "parking": "Parkhaus Hauptwache, ca. 4 Euro pro Stunde.",
+    "accessibility": "Platz ist barrierefrei zugänglich, Aufzüge zur Bahnstation vorhanden.",
+    "photoRules": "Erlaubt, da öffentlicher Raum; Stativ behindert Fußgängerverkehr.",
+    "bestTimeToVisit": "Früher Vormittag für Fotos ohne Menschenmassen.",
+    "audioGuide": "no"
+  }
+}

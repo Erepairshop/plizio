@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Kölner Seilbahn",
+  "slug": "kolner-seilbahn",
+  "descriptionAdvanced": {
+    "de": "Die Kölner Seilbahn, eröffnet im Jahr 1957 anlässlich der Bundesgartenschau, ist die erste Seilbahn Europas, die einen Fluss überquert. Sie verbindet die beiden Rheinufer zwischen dem Kölner Zoo auf der linken Seite und dem Rheinpark auf der rechten Seite. Während der sechsminütigen Fahrt in einer der 44 Kabinen bietet sich den Passagieren ein spektakulärer 360-Grad-Panoramablick auf den Kölner Dom, die Altstadt und das Umland. Die Bahn überbrückt eine Distanz von 935 Metern und schwebt in einer maximalen Höhe von etwa 30 Metern über dem Rhein. Die Seilbahn gilt als eines der sichersten Verkehrsmittel der Stadt und hat seit ihrer Eröffnung über 20 Millionen Fahrgäste befördert. Besonders beliebt sind die 'Nachtfahrten', die zu besonderen Anlässen wie den 'Kölner Lichtern' angeboten werden. Nach einer kurzzeitigen Stilllegung in den 1960er Jahren aufgrund des Baus der Zoobrücke wurde die Trasse leicht verändert und 1966 wieder in Betrieb genommen.",
+    "hu": "A Kölni Libegő (Kölner Seilbahn) 1957-ben, a szövetségi kertészeti kiállítás alkalmából nyílt meg, és ez volt Európa első folyó felett átívelő kötélpályája. A Rajna két partját köti össze a bal parti Kölni Állatkert és a jobb parti Rheinpark között. A hatperces utazás során a 44 kabin egyikéből lenyűgöző, 360 fokos panoráma nyílik a Kölni Dómra, az óvárosra és a folyóra. A pálya hossza 935 méter, a kabinok pedig legmagasabb pontjukon körülbelül 30 méterrel lebegnek a víz felett. A libegő a város egyik legbiztonságosabb közlekedési eszköze, amely átadása óta több mint 20 millió utast szállított. Különösen népszerűek a különleges alkalmakkor, például a 'Kölni Fények' tűzijáték idején szervezett éjszakai menetek. Az 1960-as években a Zoobrücke híd építése miatt rövid időre leállították, majd a nyomvonal kismértékű módosítása után 1966-ban indult újra.",
+    "ro": "Telecabina din Köln (Kölner Seilbahn), inaugurată în 1957 cu ocazia expoziției horticole federale, este prima telecabină din Europa care traversează un fluviu. Aceasta face legătura între cele două maluri ale Rinului, între Grădina Zoologică (malul stâng) și Rheinpark (malul drept). Pe parcursul călătoriei de șase minute în una dintre cele 44 de cabine, pasagerii se bucură de o panoramă spectaculoasă de 360 de grade asupra Domului, centrului vechi și împrejurimilor. Traseul are o lungime de 935 de metri, cabinele plutind la o înălțime maximă de aproximativ 30 de metri deasupra apei. Telecabina este considerată unul dintre cele mai sigure mijloace de transport din oraș, transportând peste 20 de milioane de pasageri de la deschidere. Sunt extrem de populare cursele nocturne organizate cu ocazii speciale, cum ar fi evenimentul 'Luminile Kölnului'. După o scurtă suspendare în anii '60 din cauza construcției podului Zoobrücke, traseul a fost ușor modificat și redeschis în 1966.",
+    "en": "The Cologne Cable Car (Kölner Seilbahn), opened in 1957 for the Federal Horticultural Show, holds the distinction of being Europe's first cable car to cross a river. It spans the Rhine, connecting the Cologne Zoo on the left bank with the Rheinpark on the right. During the six-minute transit in one of the 44 cabins, passengers are treated to a spectacular 360-degree panoramic view of the Cologne Cathedral, the historic Old Town, and the sprawling river landscape. The cable car covers a distance of 935 meters, reaching a maximum height of about 30 meters above the water. Renowned as one of the city's safest modes of transport, it has carried over 20 million passengers since its inception. Night rides, offered during special events like the 'Cologne Lights' fireworks, are a major draw. After a brief hiatus in the 1960s necessitated by the construction of the Zoobrücke bridge, the route was slightly adjusted and resumed operations in 1966."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die Seilbahn verkehrt saisonal von März bis November.",
+      "Eine Fahrt über den Rhein dauert durchschnittlich 6 Minuten.",
+      "Die Kapazität beträgt etwa 1.600 Personen pro Stunde in beide Richtungen.",
+      "Die Drahtseile haben einen Durchmesser von ca. 30 Millimetern.",
+      "Es gibt spezielle 'Hochzeitskabinen' für Trauungen in der Luft.",
+      "Die höchste Stütze der Seilbahn misst etwa 34 Meter."
+    ],
+    "hu": [
+      "A libegő szezonálisan, márciustól novemberig üzemel.",
+      "Egy út a Rajna felett átlagosan 6 percet vesz igénybe.",
+      "A kapacitása óránként körülbelül 1600 fő mindkét irányban.",
+      "A tartókötelek átmérője körülbelül 30 milliméter.",
+      "Léteznek speciális 'esküvői kabinok' a levegőben tartott szertartásokhoz.",
+      "A kötélpálya legmagasabb tartóoszlopa körülbelül 34 méter magas."
+    ],
+    "ro": [
+      "Telecabina funcționează sezonier, din martie până în noiembrie.",
+      "O traversare a Rinului durează în medie 6 minute.",
+      "Capacitatea de transport este de circa 1.600 de persoane pe oră pe ambele sensuri.",
+      "Cablurile de oțel au un diametru de aproximativ 30 de milimetri.",
+      "Există cabine speciale pentru nunți, unde se pot oficia cununii civile la înălțime.",
+      "Cel mai înalt pilon de susținere are o înălțime de aproximativ 34 de metri."
+    ],
+    "en": [
+      "The cable car operates seasonally from March through November.",
+      "A single crossing of the Rhine takes approximately 6 minutes.",
+      "The system has a capacity of about 1,600 passengers per hour in both directions.",
+      "The steel cables have a diameter of roughly 30 millimeters.",
+      "Special 'wedding cabins' are available for couples wishing to marry in the air.",
+      "The tallest support pylon stands approximately 34 meters high."
+    ]
+  },
+  "practical": {
+    "address": "Riehler Str. 180, 50735 Köln (Station Zoo) / Sachsenbergstr. 3 (Station Rheinpark)",
+    "openingHours": "März-Okt täglich 10:00-18:00 (Saisonbetrieb)",
+    "entranceFee": "€5.00 Einzelfahrt Erw., €9.00 Hin- und Rückfahrt",
+    "website": "https://www.koelner-seilbahn.de",
+    "publicTransport": "U-Bahn Zoo/Flora (Linie 18) oder Bus 140",
+    "parking": "Parkplatz am Zoo oder Parkhaus Flora, ca. €2.00 - €2.50 pro Stunde",
+    "accessibility": "Barrierefrei; Rollstühle und Kinderwagen werden in speziellen Kabinen transportiert.",
+    "photoRules": "Erlaubt; ideal für Luftaufnahmen des Doms und der Hohenzollernbrücke.",
+    "bestTimeToVisit": "Bei klarem Wetter am Vormittag für beste Lichtverhältnisse auf den Dom.",
+    "audioGuide": "no"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Goethe-Haus",
+  "slug": "goethe-haus",
+  "descriptionAdvanced": {
+    "de": "Das Goethe-Haus am Großen Hirschgraben ist das Geburtshaus von Johann Wolfgang von Goethe und eine der bedeutendsten Literatur-Gedenkstätten Deutschlands. In diesem barocken Bürgerhaus verbrachte der Dichter seine Kindheit und Jugend. Die Innenräume sind originalgetreu mit Möbeln und Kunstwerken aus dem 18. Jahrhundert ausgestattet, was einen tiefen Einblick in das bürgerliche Leben der Goethe-Zeit ermöglicht. Zu den Höhepunkten zählt Goethes Arbeitszimmer im zweiten Stock, wo er bedeutende Jugendwerke wie den „Urfaust“ und „Die Leiden des jungen Werthers“ schuf. Obwohl das Haus 1944 vollständig zerstört wurde, konnte das Inventar gerettet und das Gebäude nach dem Krieg originalgetreu rekonstruiert werden. Heute beherbergt es neben dem Wohnhaus auch das Frankfurter Goethe-Museum und das Deutsche Romantik-Museum.",
+    "hu": "A Großer Hirschgraben utcában található Goethe-ház Johann Wolfgang von Goethe szülőhelye és Németország egyik legjelentősebb irodalmi emlékhelye. Ebben a barokk polgárházban töltötte a költő gyermek- és ifjúkorát. A belső tereket a 18. századból származó bútorokkal és műalkotásokkal rendezték be, ami mély betekintést enged a Goethe-kor polgári életébe. A ház egyik fénypontja Goethe dolgozószobája a második emeleten, ahol olyan jelentős fiatalkori műveket alkotott, mint az „Ős-Faust” és „Az ifjú Werther szenvedései”. Noha a ház 1944-ben teljesen megsemmisült, a berendezést sikerült megmenteni, az épületet pedig a háború után eredeti formájában újjáépíteni. Ma a lakóház mellett a Frankfurti Goethe-múzeumnak és a Német Romantika Múzeumának is otthont ad.",
+    "ro": "Casa Goethe din Großer Hirschgraben este locul de naștere al lui Johann Wolfgang von Goethe și unul dintre cele mai importante situri memoriale literare din Germania. În această casă burgheză barocă, poetul și-a petrecut copilăria și tinerețea. Interioarele sunt mobilate fidel cu piese din secolul al XVIII-lea, oferind o perspectivă asupra vieții burgheze din epoca lui Goethe. Printre punctele culminante se numără biroul lui Goethe de la etajul al doilea, unde a creat lucrări de tinerețe semnificative, precum „Urfaust” și „Suferințele tânărului Werther”. Deși casa a fost complet distrusă în 1944, inventarul a fost salvat, iar clădirea a fost reconstruită fidel după război. Astăzi, aceasta găzduiește, pe lângă casa memorială, Muzeul Goethe din Frankfurt și Muzeul Romantismului German.",
+    "en": "The Goethe House on Großer Hirschgraben is the birthplace of Johann Wolfgang von Goethe and one of Germany's most important literary memorial sites. The poet spent his childhood and youth in this Baroque bourgeois house. The interiors are authentically furnished with 18th-century furniture and artworks, providing deep insight into bourgeois life during Goethe's era. Highlights include Goethe's study on the second floor, where he created significant early works such as \"Urfaust\" and \"The Sorrows of Young Werther.\" Although the house was completely destroyed in 1944, the inventory was saved, and the building was faithfully reconstructed after the war. Today, it houses the residential museum as well as the Frankfurt Goethe Museum and the German Romanticism Museum."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Goethe wurde hier am 28. August 1749 geboren.",
+      "Die Familie Goethe bewohnte das Haus bis zum Jahr 1795.",
+      "Wiederaufbau nach Kriegszerstörung erfolgte von 1947 bis 1951.",
+      "Die Bibliothek des Vaters umfasst rund 2.000 Bände.",
+      "Das angeschlossene Romantik-Museum wurde 2021 eröffnet."
+    ],
+    "hu": [
+      "Goethe 1749. augusztus 28-án született ebben a házban.",
+      "A Goethe család 1795-ig lakott az épületben.",
+      "A háborús pusztítás utáni újjáépítés 1947 és 1951 között zajlott.",
+      "Az apa könyvtára körülbelül 2000 kötetet tartalmaz.",
+      "A kapcsolódó Romantika Múzeum 2021-ben nyílt meg."
+    ],
+    "ro": [
+      "Goethe s-a născut aici la 28 august 1749.",
+      "Familia Goethe a locuit în casă până în anul 1795.",
+      "Reconstrucția după distrugerile de război a avut loc între 1947 și 1951.",
+      "Biblioteca tatălui cuprinde aproximativ 2.000 de volume.",
+      "Muzeul Romantismului adiacent a fost deschis în 2021."
+    ],
+    "en": [
+      "Goethe was born here on August 28, 1749.",
+      "The Goethe family inhabited the house until 1795.",
+      "The reconstruction after wartime destruction took place from 1947 to 1951.",
+      "The father's library contains approximately 2,000 volumes.",
+      "The connected Romanticism Museum was opened in 2021."
+    ]
+  },
+  "practical": {
+    "address": "Großer Hirschgraben 23-25, 60311 Frankfurt am Main",
+    "openingHours": "Di-So 10:00-18:00, Do bis 21:00, Mo geschlossen",
+    "entranceFee": "10€ Erwachsene, 4€ Studenten; Kombiticket mit Romantik-Museum",
+    "website": "https://www.goethehaus-frankfurt.de/",
+    "publicTransport": "S-Bahn S1-S6, S8, S9 (Haltestelle Hauptwache)",
+    "parking": "Parkhaus Hauptwache oder Parkhaus Goetheplatz, ca. 3,50€ pro Stunde.",
+    "accessibility": "Nur eingeschränkt barrierefrei (historische Treppen, kein Aufzug in alle Etagen).",
+    "photoRules": "Privates Fotografieren ohne Blitz erlaubt.",
+    "bestTimeToVisit": "Vormittags unter der Woche, um Schulklassen zu vermeiden.",
+    "audioGuide": "Deutsch, Englisch, Französisch und weitere Sprachen"
+  }
+}

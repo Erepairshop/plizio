@@ -1,0 +1,53 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Römerberg",
+  "slug": "romerberg",
+  "descriptionAdvanced": {
+    "de": "Der Römerberg ist das historische Herzstück von Frankfurt am Main und einer der bekanntesten Plätze Deutschlands. Als zentraler Marktplatz der Altstadt blickt er auf eine über achthundertjährige Geschichte zurück, die eng mit den Frankfurter Messen und den Kaiserkrönungen verknüpft ist. Das markanteste Gebäudeensemble am Platz ist der „Römer“, das Rathaus der Stadt, das seit 1405 in städtischem Besitz ist. Mit seinen charakteristischen Treppengiebeln verkörpert es den Wohlstand der ehemaligen Freien Reichsstadt. Gegenüber dem Rathaus befindet sich die „Ostzeile“, eine Reihe von sechs malerischen Fachwerkhäusern, die nach der Zerstörung im Zweiten Weltkrieg in den 1980er Jahren originalgetreu rekonstruiert wurden. Im Zentrum des Platzes steht der Gerechtigkeitsbrunnen, an dem bei Kaiserkrönungen Wein statt Wasser floss. Heute ist der Römerberg Schauplatz für Märkte, Feste und den berühmten Frankfurter Weihnachtsmarkt, der eine mittelalterliche Atmosphäre in die moderne Metropole bringt.",
+    "hu": "A Römerberg Frankfurt am Main történelmi központja és Németország egyik legszebb tere. Az óváros szívében fekvő piactér több mint nyolcszáz éves múltra tekint vissza, szorosan kapcsolódva a frankfurti vásárokhoz és a német-római császárok koronázási ünnepségeihez. A tér legmeghatározóbb épületegyüttese a „Römer”, amely 1405 óta szolgál a város városházájaként. Jellegzetes lépcsős oromzata az egykori Szabad Birodalmi Város gazdagságát jelképezi. A városházával szemben található az „Ostzeile”, egy hat festői gerendavázas házból álló sor, amelyet a második világháborús pusztítás után az 1980-as években rekonstruáltak eredeti formájában. A tér közepén áll az Igazság kútja, amelyből a császári koronázások alkalmával víz helyett bor folyt. Napjainkban a Römerberg piacoknak, fesztiváloknak és a híres frankfurti karácsonyi vásárnak ad otthont, középkori hangulatot varázsolva a modern metropoliszba.",
+    "ro": "Römerberg este centrul istoric al orașului Frankfurt pe Main și una dintre cele mai emblematice piețe din Germania. Ca piață centrală a orașului vechi, aceasta are o istorie de peste opt sute de ani, fiind strâns legată de târgurile din Frankfurt și de încoronările imperiale. Cel mai remarcabil grup de clădiri din piață este „Römer”, primăria orașului, aflată în proprietatea municipalității din 1405. Cu frontoanele sale caracteristice în trepte, aceasta întruchipează prosperitatea fostului oraș imperial liber. Vis-à-vis de primărie se află „Ostzeile”, un rând de șase case pitorești cu structură de lemn, care au fost reconstruite fidel în anii 1980 după distrugerea lor în al Doilea Război Mondial. În centrul pieței se află Fântâna Justiției, unde la încoronările imperiale curgea vin în loc de apă. Astăzi, Römerberg este locul de desfășurare pentru piețe, festivaluri și faimosul târg de Crăciun din Frankfurt, aducând o atmosferă medievală în metropola modernă.",
+    "en": "The Römerberg is the historic heart of Frankfurt am Main and one of Germany's most iconic squares. As the central marketplace of the Old Town, it boasts a history spanning over eight hundred years, closely intertwined with Frankfurt's trade fairs and imperial coronations. The most prominent building complex on the square is the \"Römer,\" the city's town hall, which has been in municipal ownership since 1405. With its characteristic stepped gables, it embodies the prosperity of the former Free Imperial City. Opposite the town hall stands the \"Ostzeile,\" a row of six picturesque half-timbered houses that were faithfully reconstructed in the 1980s following their destruction in World War II. In the center of the square stands the Fountain of Justice, from which wine flowed instead of water during imperial coronations. Today, the Römerberg is a venue for markets, festivals, and the famous Frankfurt Christmas Market, bringing a medieval atmosphere to the modern metropolis."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die Rekonstruktion der Ostzeile erfolgte zwischen 1981 und 1983.",
+      "Seit dem 15. Jahrhundert dient der Römer als Rathaus der Stadt.",
+      "Im Zentrum steht der Gerechtigkeitsbrunnen aus dem Jahr 1543.",
+      "Hier fanden die Feierlichkeiten nach der Kaiserkrönung statt.",
+      "Der Platz wurde im Zweiten Weltkrieg fast vollständig zerstört."
+    ],
+    "hu": [
+      "Az Ostzeile házsorának rekonstrukciója 1981 és 1983 között zajlott.",
+      "A Römer a 15. század óta szolgál a város városházájaként.",
+      "A tér közepén az 1543-ból származó Igazság kútja áll.",
+      "Itt tartották a császári koronázásokat követő ünnepségeket.",
+      "A teret a második világháborúban szinte teljesen elpusztították."
+    ],
+    "ro": [
+      "Reconstrucția rândului de case Ostzeile a avut loc între 1981 și 1983.",
+      "Römer servește drept primărie a orașului încă din secolul al XV-lea.",
+      "În centru se află Fântâna Justiției, datând din anul 1543.",
+      "Aici aveau loc festivitățile de după încoronarea imperială.",
+      "Piața a fost aproape complet distrusă în al Doilea Război Mondial."
+    ],
+    "en": [
+      "The reconstruction of the Ostzeile took place between 1981 and 1983.",
+      "The Römer has served as the city's town hall since the 15th century.",
+      "The Fountain of Justice in the center dates back to 1543.",
+      "Grand celebrations following imperial coronations were held here.",
+      "The square was almost completely destroyed during World War II."
+    ]
+  },
+  "practical": {
+    "address": "Römerberg 27, 60311 Frankfurt am Main",
+    "openingHours": "24/7",
+    "entranceFee": "kostenlos",
+    "website": "https://www.frankfurt-tourismus.de/Entdecken-und-Erleben/Sehenswuerdigkeiten/Roemerberg",
+    "publicTransport": "U-Bahn U4, U5 (Haltestelle Dom/Römer), Straßenbahn 11, 12",
+    "parking": "Parkhaus Dom Römer (Domstraße 1), ca. 3€ pro Stunde.",
+    "accessibility": "Barrierefrei zugänglich, jedoch Kopfsteinpflaster auf dem gesamten Platz.",
+    "photoRules": "Fotografieren für private Zwecke erlaubt; Stative erfordern Genehmigung.",
+    "bestTimeToVisit": "Früh morgens vor den Touristenströmen oder abends bei Beleuchtung.",
+    "audioGuide": "nein"
+  }
+}

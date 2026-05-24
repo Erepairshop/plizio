@@ -1,0 +1,57 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Kleinmarkthalle",
+  "slug": "kleinmarkthalle",
+  "descriptionAdvanced": {
+    "de": "Die Frankfurter Kleinmarkthalle ist ein kulinarisches Paradies im Herzen der Stadt. Das heutige Gebäude wurde 1954 nach Plänen von Günther Gottwald errichtet, nachdem der historische Vorgängerbau im Krieg zerstört worden war. Auf einer Fläche von rund 1.500 Quadratmetern bieten über 60 Händler ein beeindruckendes Sortiment an regionalen Erzeugnissen und internationalen Spezialitäten an. Besonders berühmt ist die Halle für ihre Frankfurter Klassiker wie die 'Grie Soß' (Grüne Soße) und die Rindswurst der Metzgerei Schreiber, vor der sich oft lange Schlangen bilden. Das Obergeschoss beherbergt eine Weinterrasse, die besonders samstags ein beliebter Treffpunkt für Einheimische und Besucher ist. Die Architektur zeichnet sich durch eine funktionale, lichtdurchflutete Hallenkonstruktion aus, die eine ganz besondere Atmosphäre schafft. Hier trifft Tradition auf moderne Genusskultur, von frischem Obst und Gemüse bis hin zu exotischen Gewürzen und handgefertigten Delikatessen.",
+    "hu": "A Frankfurti Kleinmarkthalle a város gasztronómiai szíve. A jelenlegi csarnok 1954-ben épült Günther Gottwald tervei alapján, miután a történelmi elődje a világháborúban megsemmisült. A mintegy 1500 négyzetméteres területen több mint 60 árus kínálja portékáit a helyi termékektől a nemzetközi különlegességekig. A csarnok híres a frankfurti klasszikusokról, mint a zöldmártás (Grie Soß) alapanyagai vagy a Schreiber hentesüzlet marhakolbásza, amelyért gyakran hosszan kell sorban állni. Az emeleten található borterasz szombatonként a helyiek kedvenc találkozóhelye. Az építészetileg funkcionális, mégis világos csarnok különleges hangulatot áraszt, ahol a hagyomány és a modern gasztronómia találkozik. A látogatók a friss zöldségektől az egzotikus fűszereken át a kézműves finomságokig mindent megtalálnak.",
+    "ro": "Kleinmarkthalle este paradisul culinar al orașului Frankfurt. Actuala clădire a fost construită în 1954, după planurile lui Günther Gottwald, înlocuind vechea hală distrusă în timpul războiului. Pe o suprafață de aproximativ 1.500 mp, peste 60 de comercianți oferă o gamă impresionantă de produse regionale și specialități internaționale. Hala este celebră pentru ingredientele sosului verde (Grie Soß) și pentru cârnații de vită de la măcelăria Schreiber, unde se formează adesea cozi lungi. La etaj există o terasă cu vinuri care devine, în special sâmbăta, un punct de întâlnire vibrant pentru localnici. Arhitectura funcțională și luminoasă a halei creează o atmosferă unică, unde tradiția se îmbină cu cultura gastronomică modernă, oferind totul, de la legume proaspete la condimente exotice și delicatese artizanale.",
+    "en": "The Frankfurt Kleinmarkthalle is a culinary paradise in the heart of the city. The current building was constructed in 1954 according to plans by Günther Gottwald, replacing the historic hall destroyed during the war. Across approximately 1,500 square meters, more than 60 vendors offer an impressive assortment of regional produce and international specialties. The hall is particularly famous for Frankfurt classics like 'Grie Soß' (Green Sauce) and the beef sausages from the Schreiber butcher shop, which often attracts long queues. The upper floor features a wine terrace that is a popular social spot for locals and tourists, especially on Saturdays. The functional, light-filled architectural design creates a unique atmosphere where tradition meets modern food culture, ranging from fresh fruits and vegetables to exotic spices and handmade delicacies."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Die heutige Halle wurde 1954 fertiggestellt.",
+      "Über 60 verschiedene Marktstände auf 1.500 qm.",
+      "Historischer Vorgängerbau wurde bereits 1879 eröffnet.",
+      "Die Halle steht seit dem Jahr 2000 unter Denkmalschutz.",
+      "Schreiber's Rindswurst ist seit Jahrzehnten ein Kult-Objekt.",
+      "Geöffnet an allen Werktagen außer an Sonn- und Feiertagen."
+    ],
+    "hu": [
+      "A jelenlegi csarnok 1954-ben készült el.",
+      "Több mint 60 különböző stand 1500 négyzetméteren.",
+      "A történelmi elődépületet már 1879-ben megnyitották.",
+      "A csarnok 2000 óta műemléki védelem alatt áll.",
+      "A Schreiber-féle marhakolbász évtizedek óta kultikus étel.",
+      "Minden munkanapon nyitva, kivéve vasárnap és ünnepnapokon."
+    ],
+    "ro": [
+      "Hala actuală a fost finalizată în 1954.",
+      "Peste 60 de standuri diferite pe o suprafață de 1.500 mp.",
+      "Hala istorică anterioară a fost deschisă în 1879.",
+      "Clădirea este monument protejat din anul 2000.",
+      "Cârnații Schreiber sunt un produs cult de zeci de ani.",
+      "Deschisă în toate zilele lucrătoare, închisă duminica."
+    ],
+    "en": [
+      "The current hall was completed in 1954.",
+      "Over 60 different market stalls across 1,500 sqm.",
+      "The historic predecessor was opened as early as 1879.",
+      "The building has been a protected landmark since 2000.",
+      "Schreiber's beef sausage has been a cult classic for decades.",
+      "Open every working day; closed on Sundays and public holidays."
+    ]
+  },
+  "practical": {
+    "address": "Hasengasse 5-7, 60311 Frankfurt am Main",
+    "openingHours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00, closed Sundays",
+    "entranceFee": "free",
+    "website": "https://www.kleinmarkthalle.de",
+    "publicTransport": "Station Hauptwache oder Konstablerwache (U/S-Bahn).",
+    "parking": "Parkhaus Konstabler oder Parkhaus am Dom, ca. 3,50 Euro pro Stunde.",
+    "accessibility": "Erdgeschoss barrierefrei, Aufzug zur oberen Galerie vorhanden.",
+    "photoRules": "Erlaubt, aber Händler und Kunden sollten respektiert werden.",
+    "bestTimeToVisit": "Samstagmorgen für die Atmosphäre, wochentags zum Einkaufen.",
+    "audioGuide": "no"
+  }
+}

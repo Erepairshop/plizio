@@ -1,0 +1,57 @@
+{
+  "host_id": "koln",
+  "sight_name": "Flora & Botanischer Garten",
+  "slug": "flora-botanischer-garten",
+  "descriptionAdvanced": {
+    "de": "Die Flora und der Botanische Garten Köln blicken auf eine über 150-jährige Geschichte zurück und gehören zu den schönsten Parkanlagen der Domstadt. Die 1864 eröffnete Anlage vereint kunstvoll Stilelemente der Renaissance, des Barock und englischer Landschaftsgärten zu einem harmonischen Gesamtbild. Das architektonische Herzstück ist das prächtige Festhaus Flora, das nach einer aufwendigen Sanierung im Jahr 2014 pünktlich zum Jubiläum wiedereröffnet wurde. Auf rund 11,5 Hektar können Besucher eine botanische Weltreise unternehmen und über 10.000 Pflanzenarten aus verschiedensten Klimazonen entdecken. Besonders beeindruckend sind die Schaugewächshäuser, darunter das Tropenhaus und das Wüstenhaus, sowie die erste Palmenallee Deutschlands. Die Kamelien-Sammlung der Flora genießt Weltruf und wurde als erster deutscher Garten mit dem Titel International Camellia Garden of Excellence ausgezeichnet. Die Anlage dient nicht nur der Entspannung, sondern ist auch ein wichtiges Zentrum für botanische Forschung und Umweltbildung.",
+    "hu": "A kölni Flora és Botanikus Kert több mint 150 éves múltra tekint vissza, és a dómváros legszebb parkjai közé tartozik. Az 1864-ben megnyitott létesítmény művészien ötvözi a reneszánsz, a barokk és az angol tájkertek stíluselemeit egy harmonikus összképpé. Az építészeti központ a pompás Flora díszterem, amelyet 2014-ben, az évfordulóra időzítve nyitottak meg újra egy átfogó felújítás után. A mintegy 11,5 hektáros területen a látogatók botanikai világkörüli utazáson vehetnek részt, és több mint 10 000 növényfajt fedezhetnek fel a legkülönbözőbb éghajlati övezetekből. Különösen lenyűgözőek a bemutató üvegházak, köztük a trópusi és a sivatagi ház, valamint Németország első pálmasétánya. A Flora kaméliagyűjteménye világhírű, és első német kertként nyerte el az International Camellia Garden of Excellence címet. A kert nemcsak a kikapcsolódást szolgálja, hanem a botanikai kutatás és a környezeti nevelés fontos központja is.",
+    "ro": "Flora și Grădina Botanică din Köln au o istorie de peste 150 de ani și se numără printre cele mai frumoase parcuri din orașul de pe Rin. Deschisă în 1864, amenajarea îmbină artistic elemente de stil din perioada Renașterii, barocului și grădinilor peisagistice englezești într-o imagine de ansamblu armonioasă. Piesa centrală arhitecturală este somptuoasa sală de festivități Flora, care a fost redeschisă în 2014, exact la aniversarea sa, după o renovare amplă. Pe o suprafață de aproximativ 11,5 hectare, vizitatorii pot face o călătorie botanică în jurul lumii și pot descoperi peste 10.000 de specii de plante din diverse zone climatice. Deosebit de impresionante sunt serele expoziționale, inclusiv casa tropicală și casa deșertului, precum și prima alee de palmiere din Germania. Colecția de camelii de la Flora se bucură de renume mondial și a fost prima grădină germană distinsă cu titlul International Camellia Garden of Excellence. Complexul nu servește doar pentru relaxare, ci este și un centru important pentru cercetare botanică și educație ecologică.",
+    "en": "The Flora and Botanical Garden in Cologne look back on more than 150 years of history and are among the most beautiful parks in the cathedral city. Opened in 1864, the site artistically combines stylistic elements of the Renaissance, Baroque, and English landscape gardens into a harmonious ensemble. The architectural centerpiece is the magnificent Flora festival hall, which was reopened in 2014 just in time for its anniversary after extensive renovation. On around 11.5 hectares, visitors can embark on a botanical journey around the world and discover over 10,000 plant species from a wide variety of climatic zones. Particularly impressive are the display greenhouses, including the tropical house and the desert house, as well as Germany's first palm avenue. The Flora's camellia collection enjoys a global reputation and was the first German garden to be awarded the title International Camellia Garden of Excellence. The facility serves not only for relaxation but is also an important center for botanical research and environmental education."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet im Jahr 1864 nach Plänen von Peter Joseph Lenné.",
+      "Etwa 11,5 Hektar Gesamtfläche im Stadtteil Riehl.",
+      "Über 10.000 verschiedene Pflanzenarten aus globalen Klimazonen.",
+      "Heimat der ersten Palmenallee in Deutschland.",
+      "Die Flora-Festhalle wurde 2014 zum 150. Jubiläum saniert.",
+      "Europas erste Kamelien-Sammlung mit dem Titel International Camellia Garden of Excellence."
+    ],
+    "hu": [
+      "1864-ben alapították Peter Joseph Lenné tervei alapján.",
+      "Körülbelül 11,5 hektár összterület Riehl városrészben.",
+      "Több mint 10 000 különböző növényfaj a globális éghajlati övezetekből.",
+      "Németország első pálmasétányának otthona.",
+      "A Flora dísztermet 2014-ben, a 150. évfordulóra újították fel.",
+      "Európa első kaméliagyűjteménye, amely elnyerte a nemzetközi kiválósági címet."
+    ],
+    "ro": [
+      "Fondată în 1864 după planurile lui Peter Joseph Lenné.",
+      "Suprafață totală de aproximativ 11,5 hectare în districtul Riehl.",
+      "Peste 10.000 de specii diferite de plante din zone climatice globale.",
+      "Găzduiește prima alee de palmiere din Germania.",
+      "Sala de festivități Flora a fost renovată în 2014 pentru a 150-a aniversare.",
+      "Prima colecție de camelii din Europa cu titlul International Camellia Garden of Excellence."
+    ],
+    "en": [
+      "Founded in 1864 according to plans by Peter Joseph Lenné.",
+      "Approximately 11.5 hectares of total area in the Riehl district.",
+      "Over 10,000 different plant species from global climatic zones.",
+      "Home to the first palm avenue in Germany.",
+      "The Flora festival hall was renovated in 2014 for its 150th anniversary.",
+      "Europe's first camellia collection titled International Camellia Garden of Excellence."
+    ]
+  },
+  "practical": {
+    "address": "Alter Stammheimer Weg, 50735 Köln",
+    "openingHours": "Mo-So 08:00-21:00 (max. bis Sonnenuntergang), Gewächshäuser 10:00-16:00/18:00",
+    "entranceFee": "frei",
+    "website": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/parks/flora-und-botanischer-garten",
+    "publicTransport": "Stadtbahn Linie 18, Haltestelle Zoo/Flora",
+    "parking": "Parkhaus am Zoo (ca. 2,50 €/Std.)",
+    "accessibility": "Weitgehend barrierefrei, befestigte Wege für Rollstühle geeignet.",
+    "photoRules": "Private Fotografie erlaubt, Stative auf den Hauptwegen gestattet.",
+    "bestTimeToVisit": "Frühlingsmorgen für die beste Blüte und weiches Licht.",
+    "audioGuide": "nein"
+  }
+}

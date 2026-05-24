@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Siegestor",
+  "slug": "siegestor",
+  "descriptionAdvanced": {
+    "de": "Das Siegestor in München ist ein monumentales Triumphbauwerk, das zwischen 1843 und 1852 im Auftrag von König Ludwig I. errichtet wurde. Entworfen vom Architekten Friedrich von Gärtner nach dem Vorbild des Konstantinbogens in Rom, markiert es das Ende der prachtvollen Ludwigstraße und den Übergang zum Stadtteil Schwabing. Bekrönt wird das Bauwerk von einer imposanten Quadriga, die die Bavaria mit vier Löwen zeigt. Ursprünglich der bayerischen Armee gewidmet, erlitt das Tor im Zweiten Weltkrieg schwere Schäden. Beim Wiederaufbau wurde bewusst auf eine vollständige Rekonstruktion der Reliefs verzichtet, um die Zerstörung als Mahnmal zu erhalten. Auf der Nordseite wurde die Inschrift 'Dem Sieg geweiht, vom Krieg zerstört, zum Frieden mahnend' hinzugefügt, die dem Tor heute seine Bedeutung als Friedensdenkmal verleiht. Es ist nicht nur ein Zeugnis klassizistischer Architektur, sondern auch ein zentraler Ort für städtische Veranstaltungen und ein Symbol für die bewegte Geschichte Münchens.",
+    "hu": "A müncheni Siegestor (Győzelmi kapu) egy monumentális diadalív, amelyet 1843 és 1852 között építettek I. Lajos király megbízásából. Friedrich von Gärtner építész tervezte a római Constantinus-diadalív mintájára, és a pompás Ludwigstraße végét, valamint Schwabing negyed kezdetét jelzi. Az építményt egy impozáns kvadriga koronázza, amely Bavariát ábrázolja négy oroszlánnal. Eredetileg a bajor hadsereg tiszteletére emelték, de a második világháborúban súlyos károkat szenvedett. Az újjáépítés során tudatosan lemondtak a domborművek teljes körű rekonstrukciójáról, hogy az épület mementóként szolgáljon. Az északi oldalon elhelyezett felirat — 'A győzelemnek szentelve, a háború által elpusztítva, békére intve' — adja meg a kapu mai, békeemlékmű jellegét. Ez nemcsak a klasszicista építészet tanúja, hanem a városi események központi helyszíne és München mozgalmas történelmének szimbóluma is.",
+    "ro": "Siegestor din München este un arc de triumf monumental, construit între 1843 și 1852 la cererea regelui Ludwig I. Proiectat de arhitectul Friedrich von Gärtner după modelul Arcului lui Constantin din Roma, acesta marchează capătul splendidei Ludwigstraße și tranziția către cartierul Schwabing. Edificiul este încoronat de o quadriga impunătoare, care o înfățișează pe Bavaria cu patru lei. Dedicată inițial armatei bavareze, poarta a suferit daune grave în timpul celui de-al Doilea Război Mondial. La reconstrucție, s-a renunțat deliberat la refacerea completă a reliefurilor pentru a păstra distrugerea ca memorial. Pe partea de nord a fost adăugată inscripția 'Dedicat victoriei, distrus de război, îndemnând la pace', care oferă porții semnificația actuală de monument al păcii. Nu este doar o mărturie a arhitecturii clasiciste, ci și un loc central pentru evenimente urbane și un simbol al istoriei zbuciumate a orașului München.",
+    "en": "The Siegestor in Munich is a monumental triumphal arch built between 1843 and 1852 by order of King Ludwig I. Designed by architect Friedrich von Gärtner based on the model of the Arch of Constantine in Rome, it marks the end of the magnificent Ludwigstraße and the transition to the Schwabing district. The structure is crowned by an impressive quadriga showing Bavaria with four lions. Originally dedicated to the Bavarian army, the gate suffered severe damage in World War II. During reconstruction, the complete restoration of the reliefs was intentionally omitted to preserve the destruction as a memorial. On the north side, the inscription 'Dedicated to victory, destroyed by war, urging peace' was added, giving the gate its current significance as a peace monument today. It is not only a witness to neoclassical architecture but also a central location for urban events and a symbol of Munich's turbulent history."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Erbaut 1843 bis 1852 unter der Leitung von Friedrich von Gärtner.",
+      "Die Quadriga wiegt etwa 20 Tonnen und zeigt Bavaria mit Löwen statt Pferden.",
+      "Höhe des Bauwerks beträgt 21 Meter bei einer Breite von 24 Metern.",
+      "Die berühmte Friedensinschrift wurde erst nach 1945 hinzugefügt.",
+      "Im Zweiten Weltkrieg wurde das Tor fast zur Hälfte zerstört.",
+      "Dient als visueller Abschluss der Sichtachse vom Odeonsplatz aus."
+    ],
+    "hu": [
+      "1843 és 1852 között épült Friedrich von Gärtner irányításával.",
+      "A kvadriga súlya körülbelül 20 tonna, lovak helyett oroszlánokkal ábrázolja Bavariát.",
+      "Az építmény magassága 21 méter, szélessége 24 méter.",
+      "A híres békefeliratot csak 1945 után adták hozzá.",
+      "A második világháborúban a kapu majdnem fele elpusztult.",
+      "Az Odeonsplatztól induló látványtengely vizuális lezárásaként szolgál."
+    ],
+    "ro": [
+      "Construită între 1843 și 1852 sub conducerea lui Friedrich von Gärtner.",
+      "Quadriga cântărește aproximativ 20 de tone și o înfățișează pe Bavaria cu lei în loc de cai.",
+      "Înălțimea structurii este de 21 de metri, iar lățimea de 24 de metri.",
+      "Celebra inscripție pentru pace a fost adăugată abia după 1945.",
+      "Poarta a fost distrusă aproape pe jumătate în timpul celui de-al Doilea Război Mondial.",
+      "Servește ca închidere vizuală a axei vizuale de la Odeonsplatz."
+    ],
+    "en": [
+      "Built from 1843 to 1852 under the direction of Friedrich von Gärtner.",
+      "The quadriga weighs about 20 tons and shows Bavaria with lions instead of horses.",
+      "The height of the structure is 21 meters with a width of 24 meters.",
+      "The famous peace inscription was added only after 1945.",
+      "Nearly half of the gate was destroyed during the Second World War.",
+      "Serves as the visual conclusion of the sight axis starting from Odeonsplatz."
+    ]
+  },
+  "practical": {
+    "address": "Leopoldstraße 1, 80802 München",
+    "openingHours": "24/7 (Aussenbesichtigung jederzeit möglich)",
+    "entranceFee": "kostenlos",
+    "website": "",
+    "publicTransport": "U-Bahn Linien U3 oder U6 bis Haltestelle Universität",
+    "parking": "Sehr eingeschränkt in den Seitenstraßen von Schwabing, teures Parken am Straßenrand.",
+    "accessibility": "Ebenerdig zugänglich, Besichtigung nur von außen möglich.",
+    "photoRules": "Fotografieren jederzeit erlaubt, Stativnutzung im öffentlichen Raum meist problemlos.",
+    "bestTimeToVisit": "Am Vormittag für das beste Licht auf der Südseite oder nachts bei Beleuchtung.",
+    "audioGuide": "nein"
+  }
+}

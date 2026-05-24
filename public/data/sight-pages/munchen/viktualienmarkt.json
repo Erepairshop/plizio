@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Viktualienmarkt",
+  "slug": "viktualienmarkt",
+  "descriptionAdvanced": {
+    "de": "Der Viktualienmarkt im Herzen Münchens ist weit mehr als ein gewöhnlicher Lebensmittelmarkt; er ist eine kulinarische Institution und das Herz der Stadt. Seine Geschichte begann im Jahr 1807, als König Max I. Joseph den Markt vom zu eng gewordenen Marienplatz an seinen heutigen Standort verlegte. Auf einer Fläche von rund 22.000 Quadratmetern bieten heute über 140 Händler eine unvergleichliche Auswahl an frischen, oft regionalen Erzeugnissen sowie exotischen Spezialitäten an. Charakteristisch für den Markt sind die sechs Brunnen, die namhaften Münchner Volkssängern und Schauspielern gewidmet sind. Ein zentraler Treffpunkt ist der schattige Biergarten, der einzige in der Altstadt, in dem die Biere der sechs großen Münchner Brauereien im Wechsel ausgeschenkt werden. Der Markt hat sich trotz der Modernisierung seinen traditionellen Charme bewahrt und ist ein Ort, an dem sowohl Einheimische als auch Touristen die bayerische Gemütlichkeit genießen können.",
+    "hu": "A München szívében található Viktualienmarkt sokkal több, mint egy egyszerű élelmiszerpiac; ez a város kulináris intézménye és igazi lelke. Története 1807-ben kezdődött, amikor I. Miksa József király a piacot a kinőtt Marienplatzról jelenlegi helyére költöztette. A mintegy 22 000 négyzetméteres területen ma több mint 140 kereskedő kínálja friss, gyakran helyi termékeit, valamint egzotikus különlegességeit. A piac jellegzetessége a hat kút, amelyeket neves müncheni népi énekeseknek és színészeknek szenteltek. Központi találkozóhely a hatalmas gesztenyefák árnyékában lévő sörkert, az egyetlen az óvárosban, ahol a hat nagy müncheni sörfőzde termékeit váltakozva csapolják. A modernizáció ellenére a piac megőrizte tradicionális báját, és ez az a hely, ahol a helyiek és a turisták egyaránt élvezhetik a bajor vendégszeretetet egy autentikus tízórai keretében.",
+    "ro": "Viktualienmarkt, situat în inima orașului München, este mult mai mult decât o simplă piață de alimente; este o instituție culinară și stomacul orașului. Istoria sa a început în 1807, când regele Maximilian I Iosif a mutat piața din Marienplatz, devenită prea neîncăpătoare, pe locația actuală. Pe o suprafață de aproximativ 22.000 de metri pătrați, peste 140 de comercianți oferă astăzi o selecție inegalabilă de produse proaspete locale și specialități exotice. Caracteristice pieței sunt cele șase fântâni dedicate unor actori și cântăreți populari din München. Un punct central de întâlnire este grădina de bere (Biergarten), singura din centrul vechi unde berile celor șase mari berării din München sunt servite prin rotație. În ciuda modernizării, piața și-a păstrat farmecul tradițional, fiind un loc unde localnicii și turiștii deopotrivă se pot bucura de ospitalitatea bavareză direct la tarabe.",
+    "en": "Located in the heart of Munich, Viktualienmarkt is far more than a simple food market; it is a culinary institution and the soul of the city. Its history dates back to 1807, when King Maximilian I Joseph moved the market from the cramped Marienplatz to its current site. Spanning approximately 22,000 square meters, it now hosts over 140 stalls offering an unparalleled variety of fresh regional produce and exotic delicacies. A distinctive feature of the market is its collection of six fountains dedicated to famous Munich folk singers and actors. At its center lies a traditional beer garden, unique for being the only one in the historic center that rotates the beers of Munich's six major breweries. Despite modern influences, the market maintains its traditional charm, serving as a social hub where locals and tourists gather for a snack under the shade of ancient chestnut trees."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Der Markt wurde am 2. Mai 1807 durch König Max I. Joseph gegründet.",
+      "Auf 22.000 Quadratmetern Fläche sind heute ca. 140 Verkaufsstände vertreten.",
+      "Der Maibaum in der Mitte des Marktes wird alle paar Jahre neu errichtet.",
+      "Es gibt 6 Brunnenfiguren, u.a. von Karl Valentin und Liesl Karlstadt.",
+      "Der Biergarten bietet Platz für ca. 600 Gäste unter schattigen Kastanien.",
+      "Die Schrannenhalle am Rande des Marktes war einst die zentrale Getreidehalle."
+    ],
+    "hu": [
+      "A piacot 1807. május 2-án alapította I. Miksa József bajor király.",
+      "A 22 000 négyzetméteres területen ma körülbelül 140 elárusítóhely található.",
+      "A piac közepén álló májusfát (Maibaum) néhány évente hagyományosan megújítják.",
+      "A területen 6 kútszobor áll, többek között Karl Valentin tiszteletére.",
+      "A sörkertben mintegy 600 vendég fér el az árnyas vadgesztenyefák alatt.",
+      "A piac szélén álló Schrannenhalle egykor a város központi gabonacsarnoka volt."
+    ],
+    "ro": [
+      "Piața a fost fondată la 2 mai 1807 de către regele Maximilian I Iosif.",
+      "Pe o suprafață de 22.000 mp funcționează astăzi aproximativ 140 de tarabe.",
+      "Stâlpul de mai (Maibaum) din centrul pieței este reînnoit la fiecare câțiva ani.",
+      "Există 6 fântâni cu statui, inclusiv una dedicată umoristului Karl Valentin.",
+      "Grădina de bere oferă locuri pentru circa 600 de persoane sub castani umbroși.",
+      "Schrannenhalle, situată la marginea pieței, a fost odinioară principala hală de cereale."
+    ],
+    "en": [
+      "The market was officially established on May 2, 1807, by King Maximilian I Joseph.",
+      "Today, approximately 140 stalls operate across a 22,000-square-meter area.",
+      "The traditional Maypole in the center of the market is replaced every few years.",
+      "The site features 6 memorial fountains honoring famous Munich folk figures.",
+      "The beer garden accommodates about 600 guests under historic chestnut trees.",
+      "The neighboring Schrannenhalle was originally built as a central grain market hall."
+    ]
+  },
+  "practical": {
+    "address": "Viktualienmarkt 3, 80331 München",
+    "openingHours": "Mo-Sa 08:00-20:00 (Verkaufsstände meist bis 18:00)",
+    "entranceFee": "free",
+    "website": "https://www.viktualienmarkt.de",
+    "publicTransport": "Marienplatz (U/S-Bahn)",
+    "parking": "Parkhaus am Schrannenplatz, ca. €4,50/Std.",
+    "accessibility": "Ebenerdiges Gelände, jedoch teils enges Kopfsteinpflaster.",
+    "photoRules": "Fotografieren der Stände erlaubt, vorheriges Fragen bei Personen höflich.",
+    "bestTimeToVisit": "Samstagvormittags für echte Marktatmosphäre, aber sehr voll.",
+    "audioGuide": "no"
+  }
+}

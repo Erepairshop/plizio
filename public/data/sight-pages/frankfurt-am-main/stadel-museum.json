@@ -1,0 +1,53 @@
+{
+  "host_id": "frankfurt-am-main",
+  "sight_name": "Städel Museum",
+  "slug": "stadel-museum",
+  "descriptionAdvanced": {
+    "de": "Das Städel Museum am Museumsufer ist eines der bedeutendsten Kunstmuseen Deutschlands. Gegründet 1815 als bürgerliche Stiftung durch Johann Friedrich Städel, bietet es einen Überblick über 700 Jahre europäischer Kunstgeschichte. Die Sammlung reicht vom frühen 14. Jahrhundert über die Renaissance, den Barock und die Klassische Moderne bis zur Gegenwart. Weltberühmte Meisterwerke von Künstlern wie Rembrandt, Vermeer, Monet und Picasso sind hier zu finden. Besonders beeindruckend ist der 2012 eröffnete unterirdische Erweiterungsbau für Gegenwartskunst, dessen Decke mit kreisrunden Oberlichtern, den „Städel-Augen“, versehen ist. Das Museum verbindet historische Substanz mit moderner Architektur und gilt als kulturelles Aushängeschild der Stadt.",
+    "hu": "A Múzeumparton található Städel Múzeum Németország egyik legjelentősebb művészeti múzeuma. Az 1815-ben Johann Friedrich Städel által alapított polgári alapítvány 700 év európai művészettörténetét mutatja be. A gyűjtemény a 14. század elejétől a reneszánszon, barokkon és klasszikus modernizmuson át napjainkig terjed. Olyan világhírű mesterek alkotásai láthatók itt, mint Rembrandt, Vermeer, Monet és Picasso. Különösen lenyűgöző a 2012-ben megnyitott föld alatti bővítés a kortárs művészet számára, amelynek mennyezetét kerek tetőablakok, az úgynevezett „Städel-szemek” díszítik. A múzeum ötvözi a történelmi épületet a modern építészettel, és a város kulturális jelképének számít.",
+    "ro": "Muzeul Städel de pe malul muzeelor este unul dintre cele mai importante muzee de artă din Germania. Fondat în 1815 ca fundație civică de către Johann Friedrich Städel, acesta oferă o privire de ansamblu asupra a 700 de ani de istorie a artei europene. Colecția se întinde de la începutul secolului al XIV-lea, prin Renaștere, Baroc și Modernismul clasic, până în prezent. Aici pot fi găsite capodopere de renume mondial ale unor artiști precum Rembrandt, Vermeer, Monet și Picasso. Deosebit de impresionantă este extensia subterană pentru artă contemporană deschisă în 2012, al cărei tavan este prevăzut cu luminatoare circulare. Muzeul îmbină substanța istorică cu arhitectura modernă.",
+    "en": "The Städel Museum on the Museumsufer is one of Germany's most important art museums. Founded in 1815 as a civic foundation by Johann Friedrich Städel, it offers an overview of 700 years of European art history. The collection ranges from the early 14th century through the Renaissance, Baroque, and Classical Modernism to the present. World-famous masterpieces by artists such as Rembrandt, Vermeer, Monet, and Picasso can be found here. Particularly impressive is the underground extension for contemporary art opened in 2012, featuring circular skylights known as \"Städel eyes.\" The museum combines historical heritage with modern architecture."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet 1815 durch das Testament von Johann Friedrich Städel.",
+      "Die Sammlung umfasst rund 3.100 Gemälde und 660 Skulpturen.",
+      "Der Erweiterungsbau für Gegenwartskunst wurde 2012 eröffnet.",
+      "Es beherbergt Werke von Rembrandt, Vermeer und Picasso.",
+      "Die grafische Sammlung umfasst über 100.000 Zeichnungen."
+    ],
+    "hu": [
+      "1815-ben alapították Johann Friedrich Städel végrendelete alapján.",
+      "A gyűjtemény mintegy 3100 festményt és 660 szobrot tartalmaz.",
+      "A kortárs művészeti bővítést 2012-ben adták át.",
+      "Rembrandt, Vermeer és Picasso műveinek is otthont ad.",
+      "A grafikai gyűjtemény több mint 100 000 rajzot tartalmaz."
+    ],
+    "ro": [
+      "Fondat în 1815 prin testamentul lui Johann Friedrich Städel.",
+      "Colecția cuprinde aproximativ 3.100 de picturi și 660 de sculpturi.",
+      "Extensia pentru artă contemporană a fost deschisă în 2012.",
+      "Găzduiește lucrări de Rembrandt, Vermeer și Picasso.",
+      "Colecția grafică include peste 100.000 de desene."
+    ],
+    "en": [
+      "Founded in 1815 through the will of Johann Friedrich Städel.",
+      "The collection includes around 3,100 paintings and 660 sculptures.",
+      "The extension for contemporary art was opened in 2012.",
+      "It houses works by Rembrandt, Vermeer, and Picasso.",
+      "The graphic collection comprises over 100,000 drawings."
+    ]
+  },
+  "practical": {
+    "address": "Schaumainkai 63, 60596 Frankfurt am Main",
+    "openingHours": "Di-So 10:00-18:00, Do bis 21:00, Mo geschlossen",
+    "entranceFee": "16€ (Wochentage), 18€ (Wochenende/Feiertage) Erwachsene",
+    "website": "https://www.staedelmuseum.de/",
+    "publicTransport": "U-Bahn U1, U2, U3, U8 (Haltestelle Schweizer Platz)",
+    "parking": "Parkhaus Alt-Sachsenhausen (Walter-Kolb-Straße), ca. 2,50€ pro Stunde.",
+    "accessibility": "Vollständig barrierefrei; Aufzüge und Rampen vorhanden.",
+    "photoRules": "Erlaubt ohne Blitz in der Dauerausstellung; Sonderausstellungen variieren.",
+    "bestTimeToVisit": "Donnerstagabend während der verlängerten Öffnungszeiten.",
+    "audioGuide": "Deutsch und Englisch über die Städel-App oder Leihgeräte"
+  }
+}

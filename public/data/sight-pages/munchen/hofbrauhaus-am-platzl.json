@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Hofbräuhaus am Platzl",
+  "slug": "hofbrauhaus-am-platzl",
+  "descriptionAdvanced": {
+    "de": "Das Hofbräuhaus am Platzl ist die Verkörperung der bayerischen Wirtshauskultur und eine der bekanntesten Sehenswürdigkeiten Münchens. Gegründet wurde es im Jahr 1589 von Herzog Wilhelm V., um den herzoglichen Hof mit eigenem Bier zu versorgen, da die Importe aus Norddeutschland zu teuer waren. Das heutige Gebäude im Stil der Neorenaissance wurde 1897 nach Entwürfen von Max Littmann fertiggestellt, nachdem das ursprüngliche Gebäude für den enormen Besucheransturm zu klein geworden war. Herzstück ist die als Schwemme bekannte Halle im Erdgeschoss, wo unter Kreuzgewölben bis zu 1000 Gäste an historischen Holztischen Platz finden. Das Wirtshaus spielte auch eine Rolle in der politischen Geschichte des 20. Jahrhunderts. Trotz seiner touristischen Popularität bewahrt es Traditionen wie die Stammtische und den Tresor für die persönlichen Maßkrüge der Einheimischen. Die Architektur und die lebendige Atmosphäre machen es zu einem Denkmal der Münchner Lebensart.",
+    "hu": "A Hofbräuhaus am Platzl a bajor vendéglátó-kultúra világszerte legismertebb jelképe München szívében. 1589-ben alapította V. Vilmos bajor herceg, eredetileg az udvari igények kielégítésére, mivel a messziről szállított sör túl drága volt. A jelenlegi, neoreneszánsz stílusú épületet 1897-ben adták át Max Littmann tervei alapján. A földszinten található hatalmas csarnok, a Schwemme, boltozatos mennyezetével és masszív faasztalaival akár ezer vendég befogadására is alkalmas. Az épület nemcsak gasztronómiai, hanem történelmi szempontból is jelentős, számos politikai esemény helyszíne volt a 20. század folyamán. A turisták áradata ellenére a Hofbräuhaus megőrizte helyi jellegét is: a rendszeres törzsvendégek számára fenntartott asztalok és a névre szóló söröskorsó-széfek ma is használatban vannak. Az élő fúvószene és a népviseletbe öltözött felszolgálók autentikus bajor életérzést árasztanak.",
+    "ro": "Hofbräuhaus am Platzl este chintesența culturii bavareze a berăriilor și unul dintre cele mai faimoase obiective turistice din München. Fondată în 1589 de ducele Wilhelm al V-lea, berăria a servit inițial curtea regală, deoarece importul de bere era prea costisitor. Clădirea actuală, în stil neo-renașcentist, a fost finalizată în 1897 după planurile arhitectului Max Littmann, înlocuind vechea structură devenită neîncăpătoare. Inima locației este sala Schwemme de la parter, o sală vastă cu bolți pictate și mese lungi din lemn, unde pot sta până la 1000 de persoane. De-a lungul secolelor, localul a fost martor la evenimente istorice majore, inclusiv discursuri politice controversate în secolul XX. Deși extrem de populară în rândul turiștilor, berăria păstrează tradiții locale autentice, precum Stammtisch (masa rezervată localnicilor) și seiful pentru halbele de bere personalizate ale clienților fideli.",
+    "en": "The Hofbräuhaus am Platzl is the global epitome of Bavarian beer culture and a cornerstone of Munich's social history. Established in 1589 by Duke Wilhelm V, it was originally intended to supply the ducal court with high-quality beer, ending the reliance on expensive imports. The current Neo-Renaissance structure, designed by Max Littmann, was completed in 1897 to accommodate the growing numbers of patrons. The ground floor, known as the Schwemme, features magnificent cross-vaulted ceilings and historic wooden tables that can host up to 1,000 guests simultaneously. Throughout its history, the building has hosted figures ranging from Mozart to Lenin and played a complex role in 20th-century German politics. Despite its immense popularity with international visitors, it remains a living tradition for locals, featuring locked cabinets for regulars' personal beer steins and authentic oompah brass bands that play daily."
+  },
+  "factsAdvanced": {
+    "de": [
+      "Gegründet am 27. September 1589 durch Herzog Wilhelm V.",
+      "Jährlich werden etwa 35.000 Hektoliter Bier im Wirtshaus ausgeschenkt.",
+      "Der historische Saal Schwemme bietet Platz für 1.000 Gäste.",
+      "Das heutige Gebäude am Platzl wurde im Jahr 1897 eingeweiht.",
+      "Im Bierkrugtresor befinden sich 424 Fächer für die Krüge der Stammgäste.",
+      "Wolfgang Amadeus Mozart lebte im 18. Jahrhundert in unmittelbarer Nachbarschaft."
+    ],
+    "hu": [
+      "1589. szeptember 27-én alapította V. Vilmos herceg.",
+      "Évente körülbelül 35 000 hektoliter sört mérnek ki az épületben.",
+      "A történelmi Schwemme csarnok 1000 vendég befogadására alkalmas.",
+      "A jelenlegi, Platzl-on álló épületet 1897-ben adták át.",
+      "A söröskorsó-széfben 424 rekesz található a törzsvendégek számára.",
+      "Wolfgang Amadeus Mozart a 18. században a közvetlen szomszédságban élt."
+    ],
+    "ro": [
+      "Fondată la 27 septembrie 1589 de ducele Wilhelm al V-lea.",
+      "Aproximativ 35.000 de hectolitri de bere sunt serviți anual în berărie.",
+      "Sala istorică Schwemme are o capacitate de 1.000 de locuri.",
+      "Clădirea actuală din piața Platzl a fost inaugurată în anul 1897.",
+      "Există 424 de compartimente în seiful pentru halbe destinat clienților fideli.",
+      "Wolfgang Amadeus Mozart a locuit în imediata vecinătate în secolul al XVIII-lea."
+    ],
+    "en": [
+      "Founded on September 27, 1589, by Duke Wilhelm V of Bavaria.",
+      "Approximately 35,000 hectoliters of beer are served annually on the premises.",
+      "The historic Schwemme hall on the ground floor seats up to 1,000 people.",
+      "The current building at its famous location was completed in 1897.",
+      "The famous beer stein safe contains 424 individual lockers for regulars.",
+      "Wolfgang Amadeus Mozart lived just around the corner in the 18th century."
+    ]
+  },
+  "practical": {
+    "address": "Platzl 9, 80331 München",
+    "openingHours": "Mo-Su 11:00-24:00",
+    "entranceFee": "free",
+    "website": "https://www.hofbraeuhaus.de",
+    "publicTransport": "Marienplatz (U3/U6, S1-S8)",
+    "parking": "Parkhaus am Marienplatz, ca. €4/Std.",
+    "accessibility": "Erdgeschoss barrierefrei, Aufzug zu den oberen Sälen vorhanden.",
+    "photoRules": "Fotografieren erlaubt, kein Blitz in den Gasträumen, kein Stativ.",
+    "bestTimeToVisit": "Vormittags unter der Woche für weniger Trubel.",
+    "audioGuide": "no"
+  }
+}

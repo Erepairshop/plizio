@@ -1,0 +1,57 @@
+{
+  "host_id": "munchen",
+  "sight_name": "Marienplatz",
+  "slug": "marienplatz",
+  "descriptionAdvanced": {
+    "de": "Der Marienplatz ist seit der Stadtgründung durch Heinrich den Löwen im Jahr 1158 das pulsierende Zentrum und die gute Stube Münchens. Hier kreuzen sich die wichtigsten Wege der Altstadt, und der Platz ist der ideale Ausgangspunkt für jede Stadterkundung. Das Bild des Platzes wird heute maßgeblich vom Neuen Rathaus dominiert, einem monumentalen neugotischen Prachtbau aus der Zeit um 1900. Weltbekannt ist das im Rathausturm integrierte Glockenspiel, dessen 43 Glocken und 32 lebensgroße Figuren täglich historische Ereignisse wie das Ritterturnier zur Hochzeit von Herzog Wilhelm V. und den Schäfflertanz nachstellen. In der Mitte des Platzes ragt die Mariensäule empor, die Kurfürst Maximilian I. im Jahr 1638 als Dank für die Bewahrung der Städte München und Landshut vor der Zerstörung im Dreißigjährigen Krieg errichten ließ. Im Osten wird der Platz vom Alten Rathaus begrenzt, das mit seinem markanten Turm das historische Ensemble abrundet. Ob als Ort für politische Versammlungen, als Schauplatz für den traditionellen Christkindlmarkt oder als Treffpunkt für Fans des FC Bayern bei Meisterschaftsfeiern – der Marienplatz ist das unangefochtene Herz der Stadt.",
+    "hu": "A Marienplatz Oroszlán Henrik herceg általi városalapítása, 1158 óta München lüktető központja és a város nappalija. Itt keresztezik egymást az óváros legfontosabb útvonalai, és a tér ideális kiindulópont minden városnézéshez. A tér képét ma meghatározóan az Új Városháza uralja, amely egy 1900 körüli monumentális neogótikus épület. Világhírű a városháza tornyába épített harangjáték, amelynek 43 harangja és 32 életnagyságú figurája naponta olyan történelmi eseményeket elevenít fel, mint V. Vilmos herceg esküvői lovagi tornája és a pestis utáni Schäfflertanz (kádártánc). A tér közepén emelkedik a Mária-oszlop, amelyet I. Miksa választófejedelem emeltetett 1638-ban hálából azért, mert München és Landshut városa megmenekült a pusztulástól a harmincéves háborúban. Keletről a teret a Régi Városháza határolja, amely jellegzetes tornyával teszi teljessé a történelmi együttest. Legyen szó politikai gyűlések helyszínéről, a hagyományos karácsonyi vásárról vagy az FC Bayern szurkolóinak bajnoki ünnepléseiről – a Marienplatz a város vitathatatlan szíve.",
+    "ro": "Marienplatz este centrul vibrant și „camera de zi” a Münchenului încă de la fondarea orașului de către Henric Leul în 1158. Aici se intersectează cele mai importante artere ale centrului istoric, piața fiind punctul ideal de plecare pentru orice explorare urbană. Imaginea pieței este dominată astăzi de Primăria Nouă (Neues Rathaus), o clădire neogotică monumentală de la începutul secolului XX. Faimos în întreaga lume este Glockenspiel-ul integrat în turnul primăriei, ale cărui 43 de clopote și 32 de figurine în mărime naturală recreează zilnic evenimente istorice precum turnirul de la nunta ducelui Wilhelm al V-lea și dansul Schäfflertanz. În centrul pieței se înalță Coloana Sfantei Marii (Mariensäule), ridicată de principele elector Maximilian I în 1638 ca mulțumire pentru salvarea orașelor München și Landshut de la distrugere în timpul Războiului de Treizeci de Ani. La est, piața este mărginită de Primăria Veche, care completează ansamblul istoric cu turnul său distinctiv. Fie că este locul adunărilor politice, scena tradiționalului târg de Crăciun sau punctul de întâlnire pentru fanii FC Bayern la sărbătorirea titlurilor, Marienplatz rămâne inima incontestabilă a orașului.",
+    "en": "Marienplatz has been the heart and soul of Munich since the city's foundation in 1158 by Henry the Lion. As the central square of the Old Town, it serves as the perfect starting point for any exploration of the Bavarian capital. The landscape is dominated by the New Town Hall (Neues Rathaus), a magnificent neo-Gothic building completed in the early 20th century. Its world-famous Glockenspiel attracts thousands of visitors daily to watch its 43 bells and 32 life-sized mechanical figures perform scenes from Munich's history, such as the royal tournament at Duke Wilhelm V's wedding and the traditional Coopers' Dance. In the center of the square stands the Mariensäule (Mary's Column), erected in 1638 by Elector Maximilian I to express gratitude for the city's preservation during the Thirty Years' War. To the east, the Old Town Hall with its iconic tower completes the historic ensemble. Whether it's the site of the festive Christmas market, political rallies, or the victory celebrations of FC Bayern Munich, Marienplatz remains the undisputed center of urban life, where centuries of history meet modern vibrancy."
+  },
+  "factsAdvanced": {
+    "de": [
+      "1158: Gründung des Marktplatzes durch Herzog Heinrich den Löwen.",
+      "1638: Errichtung der Mariensäule während des Dreißigjährigen Krieges.",
+      "1908: Vollständige Fertigstellung des Neuen Rathausgebäudes.",
+      "1972: Umwandlung des Marienplatzes in eine autofreie Fußgängerzone.",
+      "43 Glocken: Bestandteil des berühmten Glockenspiels im Rathausturm.",
+      "32 Figuren: Anzahl der lebensgroßen mechanischen Figuren im Glockenspiel."
+    ],
+    "hu": [
+      "1158: A piactér alapítása Oroszlán Henrik herceg által.",
+      "1638: A Mária-oszlop felállítása a harmincéves háború idején.",
+      "1908: Az Új Városháza épületének teljes befejezése.",
+      "1972: A Marienplatz autómentes sétálóövezetté alakítása.",
+      "43 harang: A városháza tornyában lévő híres harangjáték része.",
+      "32 figura: Az életnagyságú mechanikus figurák száma a harangjátékban."
+    ],
+    "ro": [
+      "1158: Fondarea pieței de către ducele Henric Leul.",
+      "1638: Ridicarea Coloanei Sfantei Marii în timpul Războiului de Treizeci de Ani.",
+      "1908: Finalizarea completă a construcției clădirii Primăriei Noi.",
+      "1972: Transformarea pieței Marienplatz în zonă pietonală fără mașini.",
+      "43 clopote: Componente ale faimosului Glockenspiel din turnul primăriei.",
+      "32 figurine: Numărul figurilor mecanice în mărime naturală din Glockenspiel."
+    ],
+    "en": [
+      "1158: Founding of the marketplace by Duke Henry the Lion.",
+      "1638: Erection of the Mariensäule during the Thirty Years' War.",
+      "1908: Full completion of the New Town Hall building.",
+      "1972: Transformation of Marienplatz into a car-free pedestrian zone.",
+      "43 bells: Part of the world-famous Glockenspiel in the town hall tower.",
+      "32 figures: Number of life-sized mechanical figures in the Glockenspiel."
+    ]
+  },
+  "practical": {
+    "address": "Marienplatz 1, 80331 München",
+    "openingHours": "24/7",
+    "entranceFee": "kostenlos",
+    "website": "https://www.muenchen.de",
+    "publicTransport": "U-Bahn/S-Bahn Marienplatz (U3, U6, S1-S8)",
+    "parking": "Parkhaus Oberanger, ca. €4,00/Std. (nahegelegen)",
+    "accessibility": "Der Platz ist eben und komplett barrierefrei zugänglich",
+    "photoRules": "Frei erlaubt, Drohnenaufnahmen im gesamten Altstadtbereich verboten",
+    "bestTimeToVisit": "Täglich um 11:00 oder 12:00 Uhr zum berühmten Glockenspiel",
+    "audioGuide": "Nein, aber Stadtführungen starten meist direkt hier am Fischbrunnen"
+  }
+}
