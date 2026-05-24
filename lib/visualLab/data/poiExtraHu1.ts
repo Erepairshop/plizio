@@ -1982,7 +1982,14 @@ export const poiExtraHu1: POI[] = [
                         47.018
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/city-lajosmizse-extra-mizse-quelle.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105325743013112891426\">Ferenc Bereznai</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJocNKxel_QUcRbKWik_SxqA0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Rathaus von Lajosmizse",
@@ -6271,7 +6278,14 @@ export const poiExtraHu1: POI[] = [
                   "text": "In einem historischen Gebäude untergebracht, zeigt die Galerie die Werke des namhaften ungarischen Grafikers Kálmán Csohány. Die Sammlung ist ein bedeutender Teil des kulturellen Erbes der Region Nógrád.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/city-paszto-extra-csohany-kalman-galerie.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108734939396464137305\">Bodnár Emil</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJCaebYb1AQEcRsJi46pBpsxY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Schloss Teleki-Wattaay",
@@ -7137,7 +7151,14 @@ export const poiExtraHu1: POI[] = [
                         47.7915
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/city-nagymaros-extra-reformierte-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/113312688192146692562\">Sarkadi Imre</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ47D2yFyHakcRvnBzkZoU31c",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Szent Rókus Kapelle",
@@ -8149,7 +8170,14 @@ export const poiExtraHu1: POI[] = [
                         47.819
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/city-ujfeherto-extra-griechisch-katholische-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100956502023488312162\">Sándor Bolyán</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1fuAP3hmR0cRNK5y-EGOM9s",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Reformierte Kirche",

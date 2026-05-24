@@ -3787,7 +3787,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.4845
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/pecel-extra-millenniumspark.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105668016651846564416\">Pál Fodor</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJy_mliJHAQUcRoVw1B65Hu00",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Magdolna-Quelle",
@@ -5259,7 +5266,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Ein weitläufiger Wildpark, der in Ungarn heimische Tierarten in einer natürlichen Waldumgebung zeigt. Er ist ein ideales Ausflugsziel für Familien mit Streichelzoo und Abenteuerpark.",
                   "category": "family",
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/budakeszi-extra-wildpark-budakeszi.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117904607465833951913\">Budakeszi Vadaspark</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJRXJwAEPfQUcRJ4SACywFM3c",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Arboretum Budakeszi",
@@ -5320,7 +5334,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.5145
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/budakeszi-extra-mezey-maria-gedenkhaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103537156958782337607\">Palos</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJUSk04EHfQUcRqS0qm79Da40",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Dampflokomotive",
@@ -5353,7 +5374,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.5091
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/budakeszi-extra-mezey-maria-gedenkhaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103537156958782337607\">Palos</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJUSk04EHfQUcRqS0qm79Da40",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Flagge aller Ungarn",
@@ -7495,7 +7523,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Das zweitälteste Gebäude der Stadt wurde um 1750 erbaut und diente früher als Postkutschenstation.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/pilisvoeroesvar-extra-rathaus-pilisvoeroesvar.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110678218883887658462\">Tamás Roóz</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJp_2NE2N3akcR0ihitRfNams",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Römisch-katholische Kirche Mariä Himmelfahrt",
@@ -8338,7 +8373,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Ein moderneres Kirchengebäude, das 1939-1940 erbaut wurde und die Vielfalt der Konfessionen in Albertirsa zeigt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/albertirsa-extra-reformierte-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112192977218534527933\">Jorge Pereira</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJM7s5vv2nmkcRhq1wvSNc5hs",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Baptistische Kirche",
@@ -11988,7 +12030,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Zsólyomka-Kellerreihe",
                   "text": "Eine gemütliche Kellerreihe am Fuße des Berges, wo traditionelle Keller und exzellente Tokajer Weine warten.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/satoraljaujhely-extra-zsolyomka-kellerreihe.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110807939654402137931\">Niki</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ16ztj8nNOEcRRYs00Q0mrNY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -16260,7 +16309,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.9358
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/gyomaendroed-extra-reformierte-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111165811558868104682\">Reformierte Kirche Baselland</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJU_93daTLkUcRr9Mfgk1_czQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Evangelische Kirche",
@@ -16315,7 +16371,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.9358
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/gyomaendroed-extra-reformierte-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111165811558868104682\">Reformierte Kirche Baselland</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJU_93daTLkUcRr9Mfgk1_czQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Evangelische Kirche",
@@ -17564,7 +17627,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Aussichtsturm am Tisza-Ufer",
                   "text": "Ein hölzerner Aussichtsturm mit Blick auf die Theiß-Schleife und die Auenwälder, ein beliebtes Ausflugsziel.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tiszakecske-extra-aussichtsturm-am-tisza-ufer.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/104715119461194340832\">Debb312</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJMeUExnxYQUcRF95zNPWoLZo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -23858,7 +23928,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.0395
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/balatonalmadi-extra-kulturzentrum-magtar.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112740409611934085435\">Kerényi Imre Kult-Magtár</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJF6rfJsWXaUcRqiAQFVZXR_Q",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Budatava Strand",
@@ -23913,7 +23990,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.0395
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/balatonalmadi-extra-kulturzentrum-magtar.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112740409611934085435\">Kerényi Imre Kult-Magtár</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJF6rfJsWXaUcRqiAQFVZXR_Q",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Budatava Strand",
@@ -26344,7 +26428,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.9841
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/tiszafoeldvar-extra-st-stephans-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100956502023488312162\">Sándor Bolyán</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJt8oxLo1RQUcRGHJKMUQvoFM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Herz-Jesu-Kirche",
@@ -26388,7 +26479,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.9841
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/tiszafoeldvar-extra-st-stephans-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100956502023488312162\">Sándor Bolyán</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJt8oxLo1RQUcRGHJKMUQvoFM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Herz-Jesu-Kirche",
@@ -26427,7 +26525,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Kossuth-Lajos-Denkmal",
                   "text": "Eine Statue des berühmten ungarischen Staatsmannes im Stadtpark, die an die Ideale der Revolution von 1848 erinnert.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tiszafoeldvar-extra-kossuth-lajos-denkmal.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106564298255071270937\">Gábor Egervári</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJH35CnMVQQUcR-d1hd0thXNM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Städtische Galerie",
@@ -27970,7 +28075,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.2298
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/nagyatad-extra-solar-strand.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107833553380939804307\">Hotel Solar</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJIyO-cGN6aEcRG7-IIy-6gj0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kriegerdenkmal",
@@ -28089,7 +28201,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.2298
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/nagyatad-extra-solar-strand.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107833553380939804307\">Hotel Solar</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJIyO-cGN6aEcRG7-IIy-6gj0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Hősi emlékmű",
@@ -28451,7 +28570,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         48.2952
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/edeleny-extra-reformierte-kirche-von-edeleny.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100562731066191473217\">György Pap</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJpRu3jyhvP0cReIdk3iQnNRQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Regionalhaus Borsod",
@@ -28506,7 +28632,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         48.2941
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/edeleny-extra-reformierte-kirche-von-edeleny.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100562731066191473217\">György Pap</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJpRu3jyhvP0cReIdk3iQnNRQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Turul-Statue",
@@ -32892,7 +33025,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.5995
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/mogyorod-extra-statue-des-heiligen-ladislaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111964983518059951478\">Alin Carabulea</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJzQHxcoJHRkcRAEqe8YEeQjw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Reformierte Kirche",
@@ -32936,7 +33076,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.5995
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/mogyorod-extra-statue-des-heiligen-ladislaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111964983518059951478\">Alin Carabulea</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJzQHxcoJHRkcRAEqe8YEeQjw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Reformierte Kirche",
@@ -33570,7 +33717,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.3536
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/derecske-extra-istvan-bocskai-gedenktafel.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114606699371033672906\">Bocskai István Múzeum</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJn05-oWYZR0cRXIUwU74lEB8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Rathaus von Derecske",
@@ -33625,7 +33779,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.3536
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/derecske-extra-istvan-bocskai-gedenktafel.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114606699371033672906\">Bocskai István Múzeum</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJn05-oWYZR0cRXIUwU74lEB8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Rathaus von Derecske",
@@ -44162,7 +44323,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Kleinstadt-Sportzentrum",
                   "text": "Eine moderne Anlage für verschiedene Sportarten, die ein wichtiger Bestandteil des aktiven Gemeinschaftslebens ist.",
                   "category": "recreational",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/kistelek-extra-kleinstadt-sportzentrum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111989421518212888271\">József Sejben</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJkyHzfZ6IQ0cRwbOFIB3e35U",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -44678,7 +44846,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.708
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/acs-extra-denkmal-der-revolution-von-1848.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117454476695351094808\">Wolf Ese</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJT3kLA6YOvUcR9xr-UBTn_TY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Weltkriegsdenkmal",
@@ -44722,7 +44897,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.708
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/acs-extra-denkmal-der-revolution-von-1848.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117454476695351094808\">Wolf Ese</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJT3kLA6YOvUcR9xr-UBTn_TY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Weltkriegsdenkmal",
@@ -45756,7 +45938,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.3685
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/kunhegyes-extra-dreifaltigkeitskirche-roemisch-katholisch.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115499036204654305370\">Jan Vandermeulen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJoYbpztUtQUcRWdwsfaB8lA8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Nagykun Reiterstatue",
@@ -45811,7 +46000,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.3685
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/kunhegyes-extra-dreifaltigkeitskirche-roemisch-katholisch.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115499036204654305370\">Jan Vandermeulen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJoYbpztUtQUcRWdwsfaB8lA8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Nagykun Reiterstatue",
@@ -46913,7 +47109,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.3322
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/taksony-extra-kriegerdenkmal.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/109677074775854403190\">Pieter-Jan Elias</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJYS67nNJuvkcR_pddvbfidm8",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Millennium-Gedenkpark",
@@ -48871,7 +49074,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Ein Park, in dem sich ein vertrockneter Mammutbaum befindet, der einst als einer der höchsten seiner Art in Mitteleuropa galt.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/polgardi-extra-arboretum-polgardi.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/101575058533972392626\">József Böröndi</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJv91093LvaUcREwFEcPjdgXg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Schloss Sebestyén",
@@ -49817,7 +50027,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         48.0098
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/nyirtelek-extra-evangelische-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100879679247954460791\">Filadelfia Evangélikus Egyházközség</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJk-IVJhWhOEcRXyLle0S-iKQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "St.-Josef-Kirche",
@@ -49850,7 +50067,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         48.0125
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/nyirtelek-extra-evangelische-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100879679247954460791\">Filadelfia Evangélikus Egyházközség</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJk-IVJhWhOEcRXyLle0S-iKQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Römisch-katholische Kirche St. Josef",
@@ -50749,7 +50973,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.2195
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/morahalom-extra-heimatmuseum-homokhat.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/104372408986388548398\">Heimatmuseum Jakob Bleyer</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJrXiqOhjeQUcRxO-UFhNAlUo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Ehemalige Roggenmühle",
@@ -51277,7 +51508,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.9365
                   ],
                   "confidence": "medium",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/kerekegyhaza-extra-rathaus-von-kerekegyhaza.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100080048863362156826\">Zsolt Gyuradinovics</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJP2RbzjjTQ0cRZ4HJ-YxpO-Q",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Reformierte Kirche Kunpuszta",
@@ -53187,7 +53425,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Die 1787 im spätbarocken Stil erbaute Kirche ist ein markanter Punkt im Ortszentrum von Téglás.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/teglas-extra-reformierte-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103060882894560888068\">Dezső Csiszér</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJWYTUNZZvR0cRje-EiimFYZE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Heimatkundliche Sammlung",
@@ -53223,7 +53468,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.715
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/teglas-extra-roemisch-katholische-kirche-st-josef.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114441807582978639061\">mofoto_thueringen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJtxe9AaqSpEcRU4QjmbQgxjY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Weltkreisdenkmal",
@@ -54584,7 +54836,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Die Galerie widmet sich dem Werk des Malers László Holló, der in Putnok geboren wurde. Sie zeigt eine bedeutende Sammlung seiner Gemälde sowie persönliche Erinnerungsstücke.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/putnok-extra-hollo-laszlo-galerie.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115767924813269161739\">Gyula Tokai</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJsY4O0BkOR0cRBvRiJWVXcGM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "König-Matthias-Aussichtsturm",
@@ -59301,7 +59560,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         46.1265
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/bacsalmas-extra-back-muehle.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116094721170877321777\">Roland Zumbuehl</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJm09nPeY3kEcRHaXUaPmajNU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kálvária",
@@ -63651,7 +63917,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Wirtschaftsgebäude des Blaskovich-Anwesens",
                   "text": "Die erhaltenen Wirtschaftsgebäude und Stallungen des Gutes zeigen die landwirtschaftliche Vergangenheit und Pferdezucht der Region.",
                   "category": "historical",
-                  "confidence": "medium"
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/tapioszele-extra-wirtschaftsgebaeude-des-blaskovich-anwesens.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114663250027947296587\">Ilona Kurtsik</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJi8B_amIMQUcR8VFbjoMtEH0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -70085,7 +70358,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.0174
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/martfue-extra-rathaus-von-martfue.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106420570294106800013\">Bernd Löchner</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJNyH978Gu8U4RzZwuQ9z6AHU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Zeitportal (Időkapu)",
@@ -70140,7 +70420,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                         47.0174
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/martfue-extra-rathaus-von-martfue.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106420570294106800013\">Bernd Löchner</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJNyH978Gu8U4RzZwuQ9z6AHU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Zeitportal (Időkapu)",
@@ -75488,7 +75775,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "name": "Gemeindehaus Algyő",
                   "text": "Ein modernes Gemeinschaftsgebäude am Hauptplatz, das kulturelle Programme, Konzerte und lokale festliche Veranstaltungen beherbergt.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/algyoe-extra-gemeindehaus-algyoe.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110078333243805357436\">Zoltán Zsolt Nagy</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJq4QF0k5jREcRXsArB2Mazjo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Sportzentrum Algyő",
@@ -81678,7 +81972,14 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "text": "Diese römisch-katholische Kapelle dient auch der griechisch-katholischen Gemeinde als Gotteshaus. Sie stellt ein wichtiges ökumenisches Zentrum in der Gemeinde dar.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/vamospercs-extra-szent-istvan-koenig-kapelle.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105849825865985085531\">Koen</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ982jOl7BQUcRy7x_rqz8Qt0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Telegdy-Károly-Grabmal",

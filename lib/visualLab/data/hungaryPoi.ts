@@ -1981,7 +1981,14 @@ export const hungaryCities: POI[] = [
                   "name": "Lukács-Heilbad",
                   "text": "Ein traditionelles Bad in Buda, das seit dem Mittelalter für seine Heilwirkung bekannt ist und bei Einheimischen sehr beliebt ist.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/budapest-city-lukacs-heilbad.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105836046086993086066\">Каріна Мацібора</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJxwgSiwHcQUcRP2U4TKdq75A",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Király-Heilbad",
@@ -3950,7 +3957,14 @@ export const hungaryCities: POI[] = [
                   "name": "Bischofspalast",
                   "text": "Ein elegantes Gebäude am Domplatz, das eine wertvolle Bibliothek und historische Räume beherbergt.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/pecs-bischofspalast.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/112841602226864320465\">Roland Leusden</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJzxtJ5qKxQkcRPwfFm0cjj94",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Liebesschlösser-Gitter",
@@ -3998,7 +4012,14 @@ export const hungaryCities: POI[] = [
                   "name": "Franziskanerkirche",
                   "text": "Eine ehemalige Moschee, die zur Barockkirche umgebaut wurde und heute wertvolle religiöse Kunstwerke hütet.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/pecs-franziskanerkirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/101628797710358831431\">Yakov Bainer</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJN_lth5_7j0cR-ubKEjiYy4I",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Hotel Palatinus",
@@ -7264,7 +7285,14 @@ export const hungaryCities: POI[] = [
                         46.5295
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/kalocsa-grosses-seminar-nagyszeminarium.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106869065745044264670\">Imre Polyák</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJBwcUkgtXQkcRpGoJAX-gunQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Szent-József-Kirche",
@@ -7309,7 +7337,14 @@ export const hungaryCities: POI[] = [
                   "name": "Statue von Pál Tomori",
                   "text": "Das Denkmal für den Feldherrn der Schlacht von Mohács und Erzbischof von Kalocsa ist eine wichtige historische Stätte.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kalocsa-statue-von-pal-tomori.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103502091047204592801\">Erika Urbánné Dajka</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJuYnw39BXQkcRmMaHd1RRGk0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Statue von Erzbischof Astrik",
@@ -8084,7 +8119,14 @@ export const hungaryCities: POI[] = [
                   "text": "Die größte evangelische Kirche Mitteleuropas und das Wahrzeichen der Stadt. Sie beeindruckt durch ihren monumentalen klassizistischen Stil und bietet Platz für über 3.000 Gläubige.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/bekescsaba-evangelische-grosse-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/101683551018695320699\">Hrvoje Bakić</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJMcpCJr0rREcRZ7wsd7-h2ug",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Munkácsy Mihály Museum",
@@ -8185,7 +8227,14 @@ export const hungaryCities: POI[] = [
                   "name": "Markthalle",
                   "text": "Ein lebendiger Ort, an dem lokale Produkte und die berühmte Csabaer Wurst direkt von Erzeugern verkauft werden.",
                   "category": "culinary",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/bekescsaba-markthalle.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110478720013199112706\">Beleki Szilvia</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJLUrCUpErREcRfMctQc0sii0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Hotel Fiume",
@@ -8221,7 +8270,14 @@ export const hungaryCities: POI[] = [
                   "name": "Bandika-Baum",
                   "text": "Eine jahrhundertealte Eiche, die als Naturdenkmal geschützt ist und mit lokalen Legenden verbunden wird.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/bekescsaba-bandika-baum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103357296625880048262\">Szilvia Nagy</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ0YlcL0IqREcR7Ev292LS2ko",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Wenckheim-Schloss Gerla",
@@ -10560,7 +10616,14 @@ export const hungaryCities: POI[] = [
                   "name": "Griechisch-Orthodoxe Schule",
                   "text": "Ein historisches Bildungszentrum nahe der orthodoxen Kirche, das die reiche kulturelle Vielfalt der Stadt bezeugt.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/miskolc-griechisch-orthodoxe-schule.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102290979232435357491\">RkR</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJawugG_KhQEcR0Ify9mzDfrY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Dunkles Tor (Sötétkapu)",
@@ -11281,7 +11344,14 @@ export const hungaryCities: POI[] = [
                         48.165
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/szerencs-staedtisches-bad-szerencs.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102473822876966344710\">Molnar Viktor</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJH5o5DIVRP0cRiJehYLRScT0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Gedenkpark der Zuckerfabrik",
@@ -12367,7 +12437,14 @@ export const hungaryCities: POI[] = [
                   "name": "Seufzerbrücke (Sóhajok hídja)",
                   "text": "Diese charmante Brücke verbindet das Rathaus mit dem Nebengebäude und ist nach ihrem venezianischen Vorbild benannt.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/szeged-seufzerbruecke-sohajok-hidja.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114053500162370628638\">Péter István Tóth</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_8h1VnKIREcR9Va3TX4dUbU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Stefánia-Promenade",
@@ -13215,7 +13292,14 @@ export const hungaryCities: POI[] = [
                   "name": "Stadtbibliothek Németh László",
                   "text": "Ein modernes Informationszentrum, benannt nach dem berühmten Schriftsteller, das als kultureller Knotenpunkt dient.",
                   "category": "cultural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/hodmezovasarhely-stadtbibliothek-nemeth-laszlo.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103299739743713271924\">Tünde Bozó</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJjYkKXXBvREcRRHOHBveD6-E",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Galyasi-Miklós-Gedenkhaus",
@@ -13257,7 +13341,14 @@ export const hungaryCities: POI[] = [
                   "name": "Evangelische Kirche",
                   "text": "Eine neobarocke Kirche aus dem frühen 20. Jahrhundert, bekannt für ihre schlichte Eleganz und ihre aktive Gemeinde.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/hodmezovasarhely-evangelische-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106856306930448976705\">Erzsébet Kovács</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJx-T7RboIqkEREQpdW2aQ_lo",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Steinmauer",
@@ -17118,7 +17209,14 @@ export const hungaryCities: POI[] = [
                   "name": "Kossuth-Brücke",
                   "text": "Eine elegante Brücke über die Moson-Donau, die das Stadtzentrum mit dem Stadtteil Révfalu verbindet.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/gyor-kossuth-bruecke.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/110377655787209644184\">Pugesz L</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJEbKZIue_a0cRzku104NSNHA",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Jedlik-Springbrunnen",
@@ -21777,7 +21875,14 @@ export const hungaryCities: POI[] = [
                   "name": "Rákóczi-Denkmal",
                   "text": "Bronzestatue des Freiheitskämpfers Franz II. Rákóczi auf einem zentralen Platz der Stadt.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/gyongyos-rakoczi-denkmal.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/103902270525820559137\">Zsófia Kosztya</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ7V1dgw5bQEcRom6_6gpMVDI",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Weinpalast",
@@ -22644,7 +22749,14 @@ export const hungaryCities: POI[] = [
                   "text": "In der ehemaligen, prachtvollen Synagoge sind heute wechselnde Kunstausstellungen zu sehen. Das von Lipót Baumhorn entworfene Gebäude ist mit seiner markanten Kuppel eines der schönsten Baudenkmäler der Stadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/szolnok-galerie-von-szolnok-synagoge.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/105992501374108426951\">Dobos Erika</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4YvmTEBBQUcRjrlEjZBc6fE",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Sörárium",
@@ -24802,7 +24914,14 @@ export const hungaryCities: POI[] = [
                   "name": "Burg Várgesztes",
                   "text": "Eine teilweise restaurierte Ritterburg in der Nähe, ein beliebtes Ziel für Wanderer aus Tatabánya.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tatabanya-burg-vargesztes.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/109073241757794353621\">valami Valami</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJQZyPCcg_akcRshVWQjn63AA",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -25531,7 +25650,14 @@ export const hungaryCities: POI[] = [
                   "text": "Ein malerisches historisches Viertel am Fuße des Burgbergs mit Barockkirchen, dem Primas-Palast und engen Gassen entlang der Donau.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/esztergom-vizivaros-wasserstadt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/109951813494029042215\">Viera Kútiková</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJKTaaSu1hakcRLtMiqWVJ9gA",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Szent Tamás-Berg",
@@ -25616,7 +25742,14 @@ export const hungaryCities: POI[] = [
                   "name": "Mühlenbastei",
                   "text": "Teil der alten Stadtbefestigung direkt an der Donau, heute ein Aussichtspunkt.",
                   "category": "historical",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/esztergom-muehlenbastei.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117936099094646497948\">Károly Szabó</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJk_H35SBiakcREgVoYxPY_K0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Búbánat-Tal",
@@ -26456,7 +26589,14 @@ export const hungaryCities: POI[] = [
                   "name": "Reformierte Kirche von Tata",
                   "text": "Ein historisches protestantisches Kirchengebäude mit einer bedeutenden Gemeinde in der Stadt.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tata-reformierte-kirche-von-tata.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116652384013219342693\">Zoltán Bagosi</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ2yTjowlGakcRw1oUvCJF0Ug",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Arboretum von Agostyán",
@@ -29324,7 +29464,14 @@ export const hungaryCities: POI[] = [
                         47.5912
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/godollo-basilika-mariae-himmelfahrt-in-mariabesnyoe.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107284543250653790948\">Tamás Melcher</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJZZVLjaPJQUcREhy5_sjdVJw",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Weltfriedensgong",
@@ -31102,7 +31249,14 @@ export const hungaryCities: POI[] = [
                   "text": "Der prächtige Hauptplatz der Stadt mit dem Rathaus, dem Hotel Dorottya und zahlreichen Statuen. Er ist bekannt für seine mediterrane Atmosphäre im Sommer.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/kaposvar-kossuth-platz.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117837773383018483593\">Rihards Veinbergs</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJh6FdDBHcQUcR1UYBPcXz1Tg",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Mariä-Himmelfahrt-Kathedrale",
@@ -31901,7 +32055,14 @@ export const hungaryCities: POI[] = [
                   "text": "Dieser malerische Park direkt am Hafen verdankt seinen Namen den hunderten von Rosenstöcken, die hier im Sommer blühen. Er bietet schattige Wege, Bänke und Statuen, darunter das Denkmal der ersten Balaton-Überquerung. Von hier aus hat man einen fantastischen Blick auf den Sonnenuntergang über dem See.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/siofok-rosengarten-rozsakert.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111778462358107495193\">Bożena Z</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJm1pgt2zBaUcRQ06bcWOxwlc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Mineralienmuseum",
@@ -34787,7 +34948,14 @@ export const hungaryCities: POI[] = [
                   "name": "Gemenc-Wald Eingang",
                   "text": "Der Zugang zum größten Auwald-Nationalpark Europas, ideal für Naturbeobachtungen und Fahrten mit der Kleinbahn.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/szekszard-gemenc-wald-eingang.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116142659400982085360\">Gemenc Zrt. - Keselyűsi Vendégház</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJBTfwSXLuQkcR93lRgRw1rjI",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Művészetek Häza",
@@ -35468,7 +35636,14 @@ export const hungaryCities: POI[] = [
                   "text": "Das Museum ist in einem ehemaligen Adelswohnsitz untergebracht und präsentiert die Geschichte von Paks von der Römerzeit bis zur Entwicklung der modernen Atomstadt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/paks-stadtmuseum-paks.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107524172555007430686\">Béla Decsi</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz17n74tcQkcR6q3n8K9rUUU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Donau-Promenade",
@@ -36746,7 +36921,14 @@ export const hungaryCities: POI[] = [
                   "text": "Der weitläufige, dreieckige Platz ist das lebendige Herz von Szombathely. Er ist gesäumt von schönen Barock- und klassizistischen Gebäuden und dient als Ort für viele Stadtfeste.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/szombathely-hauptplatz-foe-ter.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/102165857673020333916\">Csaba Biro</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJ8bSBVba5bkcRid-SpoxNKK4",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Sankt-Martins-Kirche",
@@ -37648,13 +37830,27 @@ export const hungaryCities: POI[] = [
                   "name": "Siebenbründel (Hétforrás)",
                   "text": "Eine historische Quelle im Kőszeger Gebirge, benannt nach den sieben ungarischen Stammesfürsten, ein beliebtes Wanderziel.",
                   "category": "natural",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/koszeg-siebenbruendel-hetforras.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106034102988740949873\">Dénes Papp</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJwcJaVmyYbkcRAlpcDc_QT0E",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Óház-Aussichtsturm",
                   "text": "Auf den Ruinen der ersten Burg von Kőszeg errichtet, bietet der Turm einen weiten Blick über die Stadt bis nach Österreich.",
                   "category": "recreational",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/koszeg-ohaz-aussichtsturm.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108251229479377373738\">Krisztian Svarcz</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJzbRflHKYbkcRPbm-oQGeCHU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Kalvarienbergkirche",
@@ -41825,7 +42021,14 @@ export const hungaryCities: POI[] = [
                   "name": "Fußgängerzone (Kossuth Lajos utca)",
                   "text": "Die malerische Hauptstraße mit historischen Gebäuden, Geschäften und Cafés, die das Schloss mit dem Zentrum verbindet.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/keszthely-fussgaengerzone-kossuth-lajos-utca.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115435824249443494634\">Thomas Strasser</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz0dfqKHiaEcRkNbisYejDD0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Balaton-Theater",
@@ -42801,7 +43004,14 @@ export const hungaryCities: POI[] = [
                         46.0478
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/szigetvar-malkocs-bey-moschee.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/116991805209806650117\">Mark Heilingbrunner</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJn5hZAgA3XUcRN2GTWzyCHkM",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Vigadó Kulturzentrum",
@@ -43248,7 +43458,14 @@ export const hungaryCities: POI[] = [
                   "name": "Pfarrkirche St. Peter und Paul",
                   "text": "Die zentrale katholische Kirche der Innenstadt mit beeindruckender Innenbemalung.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/baja-pfarrkirche-st-peter-und-paul.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/111026800056913352232\">Glücksbild Fotografie Greber-Schwärzler Sandra</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJJeemAxRtm0cRPGZW7hTFXfQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Sankt-Rochus-Kapelle",
@@ -43981,7 +44198,14 @@ export const hungaryCities: POI[] = [
                   "name": "Petőfi-Platz",
                   "text": "Der zentrale Platz der Stadt mit Parkanlagen und bedeutenden historischen Denkmälern.",
                   "category": "civic",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kiskunfelegyhaza-petoefi-platz.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/104936595727868307464\">Laszlo R</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJbb6rm7_rQ0cR_Lea5eVtR9s",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Móra-Ferenc-Gymnasium",
@@ -45570,7 +45794,14 @@ export const hungaryCities: POI[] = [
                   "text": "Der 1888 errichtete Turm ist ein charakteristisches Industriedenkmal der Stadt. Er sicherte einst die Wasserversorgung des Gestüts und der umliegenden Wohngebäude.",
                   "category": "civic",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/mezohegyes-wasserturm-und-pumpenhaus.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108875403365185170246\">Steffen Walter</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJY8TZzP3Ol0cRh9Fa1clKXIk",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Nonius-Statue",
@@ -48888,7 +49119,14 @@ export const hungaryCities: POI[] = [
                   "text": "Eine Figurengruppe auf dem Hauptplatz, die den traditionellen Tanz der Hajduken-Soldaten darstellt.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/hajduboszormeny-denkmal-der-tanzenden-hajduken.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/106485795015656247193\">Ferenc Keresi</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJs8lspRhrR0cR9uxOwN1pVyQ",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Káplár-Haus",
@@ -50146,7 +50384,14 @@ export const hungaryCities: POI[] = [
                         47.9185
                   ],
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/parad-st-ottilia-pfarrkirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108094817696405516543\">Bernd Munzinger</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJhTzjtCZUvUcRhitFdr1PbL4",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "St. Anna Kapelle",
@@ -53690,7 +53935,14 @@ export const hungaryCities: POI[] = [
                   "text": "Ein wertvolles Naturareal am Rande der Stadt mit seltener Lössflora und Fauna. Vom Hügel aus bietet sich ein herrlicher Ausblick auf die Donau und die umliegenden Landschaften.",
                   "category": "natural",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/erd-naturschutzgebiet-kakukk-hegy.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/107951511190764248379\">Noémi Vigyinszki</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVgW7kQUcRCHPf16pmL7M",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Érd-Ófalu (Altstadt)",
@@ -54433,7 +54685,14 @@ export const hungaryCities: POI[] = [
                   "text": "Ein moderner Kurkomplex mit Thermalbecken und einem großen Wasserpark (Aqua Centrum). Das Heilwasser ist besonders für die Behandlung von Gelenk- und Knochenbeschwerden geeignet.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/cegled-heil-und-strandbad-cegled.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/114925686524125620600\">Ceglédi Gyógyfürdő és Szabadidőközpont</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJJWZjdd52QUcRtdVkOkIuOuU",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Trommelmuseum (Dobmúzeum)",
@@ -57678,7 +57937,14 @@ export const hungaryCities: POI[] = [
                   "text": "Die im 13. Jahrhundert errichtete Kirche weist gotische und barocke Elemente auf. Im Inneren sind wertvolle mittelalterliche Fresken und Barockmalereien zu sehen.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/buk-pfarrkirche-st-clemens.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/109807634483122319199\">Thomas Möser</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJK1Xb2OA6cEERZ44ZkskOq-Y",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Naturlehrpfad Répce-mente",
@@ -63092,7 +63358,14 @@ export const hungaryCities: POI[] = [
                         46.8813
                   ],
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/tapolca-schulmuseum.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/101924810834277955575\">Ebéd Elek</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJhVd9c-YFaUcRhViYcu4GXUc",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Historische Wassermühle",
@@ -66409,7 +66682,14 @@ export const hungaryCities: POI[] = [
                   "name": "Szent Imre Kirche",
                   "text": "Die barocke katholische Pfarrkirche des Ortes, die im 18. Jahrhundert erbaut wurde und eine wertvolle Gnadenstatue beherbergt.",
                   "category": "religious",
-                  "confidence": "high"
+                  "confidence": "high",
+                  "image": "/poi-images/sights/hajos-szent-imre-kirche.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/117430045488270741474\">István Sándor Czifra</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJu7WZf5YBQ0cRbiOExhvczro",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             }
       ],
       "hu": [
@@ -67439,7 +67719,14 @@ export const hungaryCities: POI[] = [
                   "text": "Das Bad bietet Heilwasser aus einer Tiefe von über 500 Metern, das besonders bei Gelenk- und Wirbelsäulenerkrankungen hilft. Die Anlage ist von Akazienwäldern umgeben und bietet Erholung für die ganze Familie.",
                   "category": "recreational",
                   "confidence": "high",
-                  "source_hint": "known"
+                  "source_hint": "known",
+                  "image": "/poi-images/sights/karcag-akacliget-heil-und-strandbad.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/100218340429396376334\">Mihály Lendvai</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJuYR3u5TQRkcR1oa_E9KJgAI",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Zádor-Brücke",
@@ -71368,7 +71655,14 @@ export const hungaryCities: POI[] = [
                   "text": "Die barocke Gnadenkirche ist ein bedeutender Wallfahrtsort und bekannt als Klein-Mariazell. Sie beherbergt eine Kopie der Mariazeller Gnadenstatue und ist berühmt für ihre prächtige Innenausstattung und die religiöse Bedeutung.",
                   "category": "historical",
                   "confidence": "high",
-                  "source_hint": "wiki"
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/celldomolk-wallfahrtskirche-mariae-himmelfahrt.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108776863069094147046\">Raimund “mundi” Lehner</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJiyND16iPbkcRfI0uROCUN1E",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  }
             },
             {
                   "name": "Vulkán Heil- und Erlebnisbad",
