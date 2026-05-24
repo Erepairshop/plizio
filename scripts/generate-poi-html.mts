@@ -709,8 +709,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
         const s = ev.summary?.[lang] || ev.summary?.en || ev.summary?.de || "";
         const d = (ev.date || "").slice(0, 10);
-        const linkOpen = ev.source_url ? `<a href="${escapeHtml(ev.source_url)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
-        const linkClose = ev.source_url ? "</a>" : "";
+        // Skip link if source_url isn't a real URL (early extractor stored titles in this field).
+        const isHttp = typeof ev.source_url === "string" && /^https?:\/\//i.test(ev.source_url);
+        const linkOpen = isHttp ? `<a href="${escapeHtml(ev.source_url!)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
+        const linkClose = isHttp ? "</a>" : "";
         return `<article class="plz-yh-card">${linkOpen}<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}</div><h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p>${linkClose}</article>`;
       }).join("");
       yearlyHtml = `<section class="plz-yh"><h2>⭐ ${escapeHtml(heading[lang] || heading.en || "Highlights of 2026")}</h2>${cards}</section>`;
