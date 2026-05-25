@@ -41,6 +41,7 @@ const {
   buildPoiPath,
   countrySlugFor,
   getCountryId,
+  getUnknownParentWarnings,
   regions,
 } = slugs;
 
@@ -1388,6 +1389,27 @@ async function main() {
   const elapsed = (Date.now() - start) / 1000;
   console.log(`\nDone: ${written + sightPagesWritten} written (POI ${written} + sight ${sightPagesWritten}), ${skipped} skipped in ${elapsed.toFixed(1)}s`);
   console.log(`Unique dirs: ${dirsMade.size}`);
+
+  // Persist unknown-parent audit log so it's accessible after deploy
+  // (served at https://plizio.com/_audit/build_warnings.json).
+  try {
+    const warnings: string[] = (typeof getUnknownParentWarnings === "function")
+      ? (getUnknownParentWarnings() as string[])
+      : [];
+    const auditDir = path.join(OUT_DIR, "_audit");
+    fs.mkdirSync(auditDir, { recursive: true });
+    const audit = {
+      generated_at: new Date().toISOString(),
+      build_id: process.env.GITHUB_RUN_ID || "local",
+      commit: process.env.GITHUB_SHA || "unknown",
+      unknown_parents_count: warnings.length,
+      unknown_parents: warnings,
+    };
+    fs.writeFileSync(path.join(auditDir, "build_warnings.json"), JSON.stringify(audit, null, 2), "utf8");
+    console.log(`Audit: ${warnings.length} unknown parents → out/_audit/build_warnings.json`);
+  } catch (e) {
+    console.warn(`Audit write failed: ${(e as Error).message}`);
+  }
 }
 
 // ---- Sight page renderer (Tier 1: same chrome as POI page, modern compact body) ----

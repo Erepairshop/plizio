@@ -589,6 +589,9 @@ export function getCountryId(id: string) {
 
 // Audit: track unknown parents so build logs surface data errors (visegrad, esztergom etc.)
 const _warnedParents = new Set<string>();
+export function getUnknownParentWarnings(): string[] {
+  return Array.from(_warnedParents).sort();
+}
 function _warnUnknownParent(id: string) {
   if (_warnedParents.has(id)) return;
   _warnedParents.add(id);
