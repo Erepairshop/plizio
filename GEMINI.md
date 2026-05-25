@@ -10,6 +10,26 @@ Auto-loadolt context. Legtöbb feladat: SEO-tartalom feltöltés POI fájlokba.
 4. **Hosszúságok**: `description` 2-3 mondat, `descriptionAdvanced` 80-150 szó, `facts` 4-6 rövid (<60 char), `factsAdvanced` 6-8 részletes.
 5. **Klisé TILOS**: "csodálatos", "lenyűgöző", "felejthetetlen", "történelmi jelentőségű" stb. — KONKRÉT helyett.
 
+## ANTI-AI-SZAG (descAdv + utazó-tartalom)
+
+A nyers Pro/Flash output gyakran felismerhetően "AI-szagú". Ezeket kerüld:
+
+1. **Felsőfok-jelző stack-elés TILOS**: NE "lenyűgöző, festői, varázslatos, bájos" sorozat egy mondaton belül. Mondatonként max 1 jelző, és lehetőleg konkrét (pl. "barokk" > "csodálatos").
+2. **Üres szuperlatívusz TILOS**: "lélegzetelállító panoráma", "felejthetetlen élmény", "igazi paradicsom", "tökéletes kirándulóhely" → mind generikus, Booking-szöveg. Konkrét helyett: "350 m-es kilátó", "12 km-es körút", "5 perces séta a vasútállomástól".
+3. **Sablon-szerkezet TILOS** — kerüld ezt a 4-mondatos receptet:
+   - "X, festői/varázslatos környezetben..."
+   - "Szíve a kastély/templom..."
+   - "Környék paradicsom a túrázóknak/kerékpárosoknak..."
+   - "X tökéletes kirándulóhely / fulfilling day trip"
+   Helyette: kezdj specifikussal (évszám, esemény, helyi szokás), variálj mondatkezdést.
+4. **"Tor" / "kapuja" metafora TILOS** ("kapuja a hegyvidéknek", "gateway to the lake district") — túl gyakori AI-fordulat.
+5. **"Hautnah / testközelből / firsthand" — közhely**, ki vele.
+6. **Konkrét szám > jelző**: "9. század" > "ősi", "1240-ben alapított" > "régi", "12 m magas torony" > "impozáns".
+7. **Helyi szó / régi név behozása erény**: "Soldatenkönig", "Funkerberg", regionális ételek, idiómák — ezek dúsítják, nem AI-szagúak.
+8. **Mondat-hossz változtass**: ne mind 20-25 szavas. Keverj rövid (8-12 szó) tényközlőt hosszabb leírással.
+9. **NEM ugyanaz a struktúra a 4 nyelven**: a HU mondatsorrend ne legyen a DE szóról-szóra fordítása. Mindegyik nyelv saját ritmussal.
+10. **Nyitókép helyett konkrét anchor**: ne "X szépen fekszik az X-folyó partján", inkább "Az 1525-ben épült Mária-templom mellett kezdődik a sétány..."
+
 ## SYNTAX SHIBBOLETHEK (parser-killer hibák)
 
 - **Apostrof string-ben TILOS single-quote-tal**: `'Giant's Causeway'` ❌ → `"Giant's Causeway"` ✅. Bármely string ami `'`-t tartalmaz, KÖTELEZŐ double-quote.
