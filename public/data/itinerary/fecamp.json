@@ -672,32 +672,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.fecamptourisme.com/",
-    "events": "https://www.fecamptourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.bus-stop.fr/",
-    "language_tips": {
-      "de": "Fecamp spricht normannisches Franzoesisch, klar und etwas sproede. Englisch in Hotels und am Palais Benedictine ok, in der Fischerhafen-Atmosphäre eher selten. 'Bonjour' und 'merci' bleiben Pflicht, normannische Fischer sind reserviert aber freundlich.",
-      "hu": "Fecamp normandiai franciat beszel, tiszta es kicsit zarkozott. A szallodakban es a Palais Benedictine-ben van angol, a halaszkikotoben ritkabb. A 'bonjour' es 'merci' kotelezo, a normandiai halaszok zarkozottak de barati.",
-      "ro": "Fecamp vorbeste franceza normanda, clara si putin retinuta. Engleza merge la hoteluri si la Palais Benedictine, in port mai rar. 'Bonjour' si 'merci' raman obligatorii, pescarii normanzi sunt rezervati dar prietenosi.",
-      "en": "Fecamp speaks Norman French, clear and a touch reserved. English works in hotels and at the Palais Benedictine, rarer around the fishing harbour. 'Bonjour' and 'merci' stay essential — Norman fishermen are quiet but warm."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal (14-22 Grad), Festival 'Grandes Voiles' alle 2 Jahre im Juli mit Tall Ships. Juli-August warm und mit Wochenend-Touristen voll. Winter rau und windig (5-9 Grad), Klippen-Wanderwege im Sturm spektakulaer, Palais Benedictine offen.",
-      "hu": "Majus-szeptember a legjobb (14-22 fok), ketevente juliusban 'Grandes Voiles' vitorlasunnep. Julius-augusztus meleg es hetvegi turistakkal teli. Tel zord es szeles (5-9 fok), a sziklai turautak viharban latvanyosak, Palais Benedictine nyitva.",
-      "ro": "Mai-septembrie sunt ideale (14-22 grade), festivalul 'Grandes Voiles' din 2 in 2 ani in iulie cu corabii inalte. Iulie-august sunt calde si aglomerate la weekend. Iarna e aspra si vantoasa (5-9 grade), traseele de pe faleza in furtuna sunt spectaculoase, Palais Benedictine deschis.",
-      "en": "May-September are ideal (14-22°C), with the 'Grandes Voiles' tall-ship festival every two years in July. July-August are warm and weekend-busy. Winter is rough and windy (5-9°C), cliff trails spectacular in storms, Palais Benedictine open."
-    },
-    "neighborhood_warnings": {
-      "de": "Fecamp ist sehr sicher, kleine Fischerstadt. Keine bekannten Problemviertel. Klippen-Spaziergaenge abends mit Vorsicht (kein Gelaender, hohe Klippen). Hafen und Strand auch nachts ruhig.",
-      "hu": "Fecamp nagyon biztonsagos, kis halaszvaros. Nincs ismert problemas negyed. A szikla-setak este ovatossagot igenyelnek (nincs korlat, magas sziklak). Kikoto es strand ejjel is csendes.",
-      "ro": "Fecamp e foarte sigur, mic oras de pescari. Nu exista cartiere problematice. Plimbarile pe faleza, seara, necesita atentie (fara balustrada, faleza inalta). Portul si plaja sunt linistite si noaptea.",
-      "en": "Fecamp is very safe — small fishing town. No problem districts. Cliff walks at dusk need care (no railings, tall drops). Harbour and beach stay calm at night."
-    },
-    "parking_real_time": ""
   }
 }

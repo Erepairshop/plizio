@@ -290,6 +290,420 @@
           "Most museums are closed on Mondays.",
           "Be sure to try Kouign-Amann at a bakery."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das mittelalterliche Viertel mit seinen malerischen Fachwerkhäusern. Mittags bewundern wir die beeindruckende Architektur der Kathedrale und die Kunstschätze im Museum. Am Nachmittag schlendern wir durch die historischen Gassen und genießen lokale Spezialitäten. Der Abend endet mit einem entspannten Spaziergang auf den Mont Frugy für den besten Ausblick.",
+            "hu": "A reggelt a középkori negyed felfedezésével kezdjük, festői gerendavázas házak között. Napközben a katedrális lenyűgöző építészetét és a múzeum műkincseit csodáljuk meg. Délután a történelmi sikátorokban kalandozunk és helyi finomságokat kóstolunk. Az estét a Mont Frugy-n zárjuk, ahonnan a legjobb kilátás nyílik a városra.",
+            "ro": "Dimineața explorăm cartierul medieval cu casele sale pitorești din lemn. La prânz admirăm arhitectura impresionantă a catedralei și comorile de artă din muzeu. După-amiaza ne plimbăm pe străduțele istorice și degustăm specialități locale. Seara se încheie cu o plimbare relaxantă pe Mont Frugy pentru cea mai bună vedere asupra orașului.",
+            "en": "Morning starts by exploring the medieval quarter with its picturesque timber-framed houses. At midday, we admire the impressive cathedral architecture and art treasures in the museum. In the afternoon, we wander through historical alleys and taste local specialties. The evening ends with a relaxed walk up Mont Frugy for the best view over the city."
+          },
+          "stops": [
+            {
+              "name": "Place Terre au Duc",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fachwerkhäuser am Platz.",
+                "hu": "Csodálja meg a tér gerendavázas házait.",
+                "ro": "Admirați casele cu bârne de lemn din piață.",
+                "en": "Admire the timber-framed houses in the square."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Corentin",
+              "tip_5lang": {
+                "de": "Achten Sie auf das leicht schiefe Kirchenschiff.",
+                "hu": "Figyelje meg a templomhajó enyhe ferdeségét.",
+                "ro": "Observați nava ușor înclinată a catedralei.",
+                "en": "Notice the slightly leaning nave of the church."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Sektion über bretonische Legenden.",
+                "hu": "Nézze meg a breton legendákat bemutató szekciót.",
+                "ro": "Vizitați secțiunea despre legendele bretone.",
+                "en": "Visit the section on Breton legends."
+              }
+            },
+            {
+              "name": "Vieux Quimper",
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in den gepflasterten Gassen.",
+                "hu": "Vesszen el a macskaköves sikátorokban.",
+                "ro": "Pierdeți-vă pe străduțele pietruite.",
+                "en": "Get lost in the cobbled narrow streets."
+              }
+            },
+            {
+              "name": "Crêperie du Quartier",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine Galette mit salziger Butter.",
+                "hu": "Rendeljen egy sós vajas galette-et.",
+                "ro": "Comandați o galette cu unt sărat.",
+                "en": "Order a galette with salty butter."
+              }
+            },
+            {
+              "name": "Mont Frugy",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Stadt.",
+                "hu": "Élvezze a városra nyíló panorámát.",
+                "ro": "Bucurați-vă de panorama asupra orașului.",
+                "en": "Enjoy the panoramic view over the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Galette Bretonne",
+                "tip": "Herzhafter Buchweizenpfannkuchen."
+              },
+              {
+                "name": "Cidre de Cornouaille",
+                "tip": "Traditioneller Apfelwein aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galette Bretonne",
+                "tip": "Hajdinából készült sós palacsinta."
+              },
+              {
+                "name": "Cidre de Cornouaille",
+                "tip": "Hagyományos helyi almabor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galette Bretonne",
+                "tip": "Clătită sărată din hrișcă."
+              },
+              {
+                "name": "Cidre de Cornouaille",
+                "tip": "Cidru tradițional din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Galette Bretonne",
+                "tip": "Savory buckwheat pancake."
+              },
+              {
+                "name": "Cidre de Cornouaille",
+                "tip": "Traditional local apple cider."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mont Frugy",
+                "tip": "Ruhiger Hügel mit Aussicht.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin de la Retraite",
+                "tip": "Versteckter exotischer Garten.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mont Frugy",
+                "tip": "Csendes domb kilátással.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin de la Retraite",
+                "tip": "Rejtett egzotikus kert.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mont Frugy",
+                "tip": "Deal liniștit cu vedere.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin de la Retraite",
+                "tip": "Grădină exotică ascunsă.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mont Frugy",
+                "tip": "Quiet hill with a view.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin de la Retraite",
+                "tip": "Hidden exotic garden.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Henriot-Quimper",
+                "tip": "Berühmte handbemalte Keramik."
+              },
+              {
+                "name": "Les Halles",
+                "tip": "Lokaler Markt für frische Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Henriot-Quimper",
+                "tip": "Híres kézzel festett kerámia."
+              },
+              {
+                "name": "Les Halles",
+                "tip": "Helyi piac friss termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Henriot-Quimper",
+                "tip": "Ceramică celebră pictată manual."
+              },
+              {
+                "name": "Les Halles",
+                "tip": "Piață locală pentru produse proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Henriot-Quimper",
+                "tip": "Famous hand-painted ceramics."
+              },
+              {
+                "name": "Les Halles",
+                "tip": "Local market for fresh produce."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Quimper ist sehr fußgängerfreundlich.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die meisten Museen sind montags geschlossen.",
+              "Probieren Sie unbedingt Kouign-Amann beim Bäcker."
+            ],
+            "hu": [
+              "Quimper remekül bejárható gyalogosan.",
+              "Viseljen kényelmes cipőt a macskakövek miatt.",
+              "A legtöbb múzeum hétfőn zárva tart.",
+              "Mindenképpen kóstolja meg a Kouign-Amann süteményt."
+            ],
+            "ro": [
+              "Quimper este foarte ușor de parcurs pe jos.",
+              "Purtați încălțăminte comodă pentru pavaj.",
+              "Majoritatea muzeelor sunt închise lunea.",
+              "Nu ratați prăjitura Kouign-Amann de la brutărie."
+            ],
+            "en": [
+              "Quimper is very pedestrian friendly.",
+              "Wear comfortable shoes for the cobblestones.",
+              "Most museums are closed on Mondays.",
+              "Be sure to try Kouign-Amann at a bakery."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Überhängen der Place Terre au Duc. Der graue bretonische Himmel verleiht dem Granit der Kathedrale eine besondere Tiefe. Verbringen Sie den Mittag im Kunstmuseum, einem perfekten Zufluchtsort vor dem Regen. Nachmittags glänzen die Kopfsteinpflaster der Altstadt im nassen Licht, was für authentische Fotos sorgt. Den Abend lassen Sie bei einer heißen Galette und Cidre gemütlich ausklingen.",
+            "hu": "Kezdje a napot a Place Terre au Duc fagerendás házai között, ahol az eresz alatt védve maradhat az esőtől. A katedrális és a Szépművészeti Múzeum kiváló menedéket nyújt a déli órákban. Délután a vizes macskaköveken megcsillanó fények különleges hangulatot adnak az óvárosnak. Az estét egy meleg palacsintázóban töltheti, elkerülve a ködös Mont Frugy-t, ha az időjárás nem javul.",
+            "ro": "Începeți ziua sub arcadele din Place Terre au Duc, protejați de ploaia bretonă. Catedrala și Muzeul de Arte Frumoase sunt refugii ideale pentru orele prânzului. După-amiaza, străzile medievale umede reflectă frumos fațadele cu bârne de lemn, oferind un decor autentic. Seara, bucurați-vă de o galetă fierbinte și cidru într-o atmosferă primitoare, lăsând muntele Frugy pentru o zi mai senină.",
+            "en": "Start your day under the timber-framed overhangs of Place Terre au Duc, staying dry while admiring the architecture. The cathedral and the Fine Arts Museum offer perfect sanctuaries during the rainy midday hours. In the afternoon, the wet cobblestones of Vieux Quimper reflect the medieval facades beautifully. Spend your evening in a cozy creperie with hot cider, as the mist settles over the Odet."
+          },
+          "stops": [
+            {
+              "name": "Place Terre au Duc",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Dachüberstände der alten Fachwerkhäuser als Regenschutz.",
+                "hu": "Használja a régi fagerendás házak ereszeit eső elleni védelemként.",
+                "ro": "Folosiți streșinile caselor vechi din lemn pentru a vă adăposti de ploaie.",
+                "en": "Use the overhangs of the old timber-framed houses for rain protection."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Corentin",
+              "tip_5lang": {
+                "de": "Ein majestätischer und absolut trockener Ort, um den Regen abzuwarten.",
+                "hu": "Fenséges és teljesen száraz helyszín az eső kivárására.",
+                "ro": "Un loc maiestuos și complet uscat pentru a aștepta oprirea ploii.",
+                "en": "A majestic and perfectly dry sanctuary to wait out a downpour."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit für die bretonische Kunst ein.",
+                "hu": "Erős eső esetén szánjon több időt a breton művészet felfedezésére.",
+                "ro": "Alocați mai mult timp artei bretone dacă ploaia de afară este intensă.",
+                "en": "Spend extra time exploring Breton art if the rain intensifies outside."
+              }
+            },
+            {
+              "name": "Vieux Quimper",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; Granit kann rutschig sein.",
+                "hu": "Vigyázzon a vizes macskaköveken; a gránit csúszós lehet.",
+                "ro": "Atenție pe piatra cubică umedă; granitul poate deveni alunecos.",
+                "en": "Be careful on the wet cobblestones; granite can be slippery when wet."
+              }
+            },
+            {
+              "name": "Crêperie du Quartier",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich bei einer heißen Schokolade oder Cidre aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre egy forró csokoládé vagy cider mellett.",
+                "ro": "Locul ideal pentru a vă încălzi cu o ciocolată caldă sau un cidru.",
+                "en": "The perfect spot to warm up with a hot chocolate or local cider."
+              }
+            },
+            {
+              "name": "Mont Frugy",
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az erdei utak sárosak lehetnek; maradjon a kiépített ösvényeken.",
+                "ro": "Potecile din pădure pot fi noroioase; rămâneți pe traseele pavate.",
+                "en": "Woodland paths can be muddy; stick to the paved sections of the trail."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine robuste Regenjacke, da der Wind in der Bretagne Schirme oft unbrauchbar macht.",
+              "Die Markthalle Les Halles ist eine großartige überdachte Alternative für einen Spaziergang.",
+              "Granitpflaster ist bei Nässe tückisch; wählen Sie Schuhe mit gutem Profil.",
+              "Nutzen Sie die vielen Museen im Zentrum als strategische Trockenpunkte.",
+              "Genießen Sie die melancholische Schönheit der Stadt, die im Regen erst richtig bretonisch wirkt."
+            ],
+            "hu": [
+              "Viseljen stabil esőkabátot, mert a breton szél gyakran tönkreteszi az esernyőket.",
+              "A Les Halles piaccsarnok kiváló fedett alternatíva egy sétához esős időben.",
+              "A gránit burkolat vizesen csalóka; válasszon tapadós talpú cipőt.",
+              "Használja a központ múzeumait stratégiai száraz pontokként a nap folyamán.",
+              "Élvezze a város melankolikus szépségét, amely esőben tűnik igazán bretonnak."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie rezistentă, vântul breton distruge adesea umbrelele.",
+              "Piața acoperită Les Halles este o alternativă excelentă pentru plimbare pe ploaie.",
+              "Pavajul de granit este înșelător când e ud; alegeți încălțăminte cu aderență bună.",
+              "Folosiți muzeele din centru ca puncte strategice de adăpost pe parcursul zilei.",
+              "Admirați frumusețea melancolică a orașului, care pare cel mai autentic pe ploaie."
+            ],
+            "en": [
+              "Wear a sturdy raincoat as Breton winds often make umbrellas useless.",
+              "Les Halles covered market is a great indoor alternative for a mid-walk stroll.",
+              "Granite paving is treacherous when wet; choose shoes with good grip.",
+              "Use the city center's museums as strategic dry points throughout the day.",
+              "Embrace the melancholic beauty of the city, which feels most authentic in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Odet ist erfrischend. Die Kathedrale wirkt in der tiefstehenden Sonne besonders majestätisch, auch wenn es im Inneren kühl ist. Mittags bietet das Kunstmuseum wohltuende Wärme und Kultur. Die Altstadt erstrahlt in der frühen Dämmerung mit festlicher Beleuchtung. Ein Besuch in einer Crêperie ist im Winter ein Muss, bevor Sie den frühen Sonnenuntergang vom Mont Frugy aus bewundern.",
+            "hu": "A friss téli reggel az Odet partján felfrissíti a lelket. A katedrális a téli napsütésben ragyog, de belül hűvös, így tartsa magán a kabátját. Délben a múzeum fűtött galériái nyújtanak menedéket. A kora délutáni szürkületben az óváros ünnepi fényei és a fagerendás házak mesebeli hangulatot árasztanak. Zárja a napot egy forró galette-tel az 5 órai naplemente előtt.",
+            "ro": "O dimineață răcoroasă de iarnă pe malul râului Odet este revigorantă. Catedrala strălucește în soarele palid, dar interiorul rămâne rece, deci păstrați haina pe dvs. Muzeul oferă căldură și cultură la prânz. Amurgul timpuriu aduce la viață luminile festive din centrul vechi. Savurați o galetă fierbinte înainte de apusul soarelui de la ora 17:00 pe muntele Frugy.",
+            "en": "A crisp winter morning by the Odet is refreshing. The cathedral looks majestic in the low winter sun, though the interior remains chilly. At noon, the museum's heated galleries provide a warm cultural escape. Early dusk brings festive lights to the medieval streets of Vieux Quimper. A hot crepe is essential before catching the early 5 PM sunset from Mont Frugy."
+          },
+          "stops": [
+            {
+              "name": "Place Terre au Duc",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Holzbalken und Pflastersteinen.",
+                "hu": "Ügyeljen a dérre a fagerendákon és a macskaköveken.",
+                "ro": "Atenție la chiciura de pe grinzile de lemn și de pe piatra cubică.",
+                "en": "Watch out for frost on the timber beams and cobblestones."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Corentin",
+              "tip_5lang": {
+                "de": "Es ist im Winter im Inneren sehr kalt; behalten Sie Ihren Mantel an.",
+                "hu": "Télen belül nagyon hideg van; ne vegye le a kabátját.",
+                "ro": "Este foarte frig în interior iarna; păstrați haina pe dvs.",
+                "en": "It is very cold inside during winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Hervorragend beheizt – der perfekte Ort für eine zweistündige Pause.",
+                "hu": "Kiválóan fűtött – tökéletes hely egy kétórás pihenőre.",
+                "ro": "Excelent încălzit – locul perfect pentru o pauză de două ore.",
+                "en": "Excellently heated – the perfect place for a two-hour cultural break."
+              }
+            },
+            {
+              "name": "Vieux Quimper",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung macht diesen Bereich nach 16:30 Uhr magisch.",
+                "hu": "A karácsonyi fények 16:30 után varázslatossá teszik ezt a részt.",
+                "ro": "Luminile de Crăciun fac această zonă magică după ora 16:30.",
+                "en": "The festive lights make this area magical after 4:30 PM."
+              }
+            },
+            {
+              "name": "Crêperie du Quartier",
+              "tip_5lang": {
+                "de": "Fragen Sie nach heißem Apfelsaft mit Gewürzen (jus de pomme chaud).",
+                "hu": "Kérjen forró, fűszeres almalevet (jus de pomme chaud).",
+                "ro": "Cereți suc de mere cald cu mirodenii (jus de pomme chaud).",
+                "en": "Ask for hot spiced apple juice (jus de pomme chaud) with your meal."
+              }
+            },
+            {
+              "name": "Mont Frugy",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist gegen 17:15 Uhr; seien Sie rechtzeitig oben.",
+                "hu": "A naplemente 17:15 körül van; érjen fel időben a kilátóhoz.",
+                "ro": "Apusul este în jurul orei 17:15; ajungeți sus la timp.",
+                "en": "Sunset is around 5:15 PM; reach the viewpoint in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da Museen warm, Kirchen aber eiskalt sind.",
+              "Die Sonne geht bereits gegen 17:00 Uhr unter; planen Sie Outdoor-Fotos davor.",
+              "Trinken Sie 'Cidre chaud' in den lokalen Cafés für das echte Wintergefühl.",
+              "Einige Geschäfte in der Altstadt schließen im Winter früher.",
+              "Der Wind vom Odet-Fluss kann die gefühlte Temperatur stark senken."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a múzeumok melegek, de a templomok jéghidegek.",
+              "A nap már 17:00 körül lemegy; a szabadtéri fotókat tervezze korábbra.",
+              "Kóstolja meg a 'Cidre chaud'-t a helyi kávézókban az igazi téli hangulatért.",
+              "Néhány óvárosi üzlet télen korábban zárhat.",
+              "Az Odet folyó felől fújó szél jelentősen csökkentheti a hőérzetet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece muzeele sunt calde, dar bisericile sunt înghețate.",
+              "Soarele apune deja în jurul orei 17:00; planificați fotografiile în aer liber înainte.",
+              "Gustați 'Cidre chaud' în cafenelele locale pentru o experiență autentică de iarnă.",
+              "Unele magazine din centrul vechi se pot închide mai devreme iarna.",
+              "Vântul de pe râul Odet poate scădea considerabil temperatura resimțită."
+            ],
+            "en": [
+              "Dress in layers, as museums are warm but churches remain freezing cold.",
+              "Sunset is as early as 5:00 PM; plan your outdoor photography before then.",
+              "Try 'Cidre chaud' (hot cider) in local cafes for a true winter feeling.",
+              "Some shops in the medieval center may close earlier during the winter season.",
+              "The wind coming off the Odet river can make the temperature feel much lower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -504,6 +918,341 @@
           "Rent a bike near the train station.",
           "The route to Locmaria is flat and easy."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt entlang der malerischen Odet-Ufer, die für ihre Blumenpracht bekannt sind. Wir radeln zum historischen Locmaria-Viertel, um das Keramikmuseum und die alten Gärten zu erkunden. Der Weg führt uns durch ruhige Parkanlagen und endet wieder im lebhaften Stadtzentrum.",
+            "hu": "A kerékpártúra a festői Odet partján indul, amely virágpompájáról híres. Eltekerünk a történelmi Locmaria negyedbe, hogy felfedezzük a kerámiamúzeumot és a régi kerteket. Utunk csendes parkokon át vezet, majd a nyüzsgő városközpontban ér véget.",
+            "ro": "Turul cu bicicleta începe pe malurile pitorești ale râului Odet, faimoase pentru flori. Pedalam spre cartierul istoric Locmaria pentru a explora muzeul ceramicii și grădinile vechi. Drumul ne poartă prin parcuri liniștite și se termină în centrul animat al orașului.",
+            "en": "The bike tour starts along the picturesque Odet banks, famous for their flowers. We cycle to the historical Locmaria district to explore the pottery museum and the old gardens. Our path leads through quiet parks and ends back in the lively city center."
+          },
+          "stops": [
+            {
+              "name": "Odet River Banks",
+              "tip_5lang": {
+                "de": "Radeln Sie entlang der blumigen Ufer.",
+                "hu": "Kerékpározzon a virágos folyópart mentén.",
+                "ro": "Mergeți cu bicicleta pe malul înflorit.",
+                "en": "Cycle along the flowery river banks."
+              }
+            },
+            {
+              "name": "Quartier Locmaria",
+              "tip_5lang": {
+                "de": "Besuchen Sie das älteste Viertel der Stadt.",
+                "hu": "Látogassa meg a város legősibb negyedét.",
+                "ro": "Vizitați cel mai vechi cartier al orașului.",
+                "en": "Visit the oldest district of the city."
+              }
+            },
+            {
+              "name": "Musée de la Faïence",
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der Keramik.",
+                "hu": "Fedezze fel a kerámia történetét.",
+                "ro": "Descoperiți istoria ceramicii.",
+                "en": "Discover the history of ceramics."
+              }
+            },
+            {
+              "name": "Jardin du Prieuré",
+              "tip_5lang": {
+                "de": "Ein mittelalterlicher Garten zur Entspannung.",
+                "hu": "Középkori stílusú kert a pihenéshez.",
+                "ro": "O grădină medievală pentru relaxare.",
+                "en": "A medieval-style garden for relaxation."
+              }
+            },
+            {
+              "name": "Vieux Quimper Center",
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour im Herzen der Stadt ab.",
+                "hu": "Zárja a túrát a város szívében.",
+                "ro": "Încheiați turul în inima orașului.",
+                "en": "Finish the tour in the heart of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie du Prieuré",
+                "tip": "Hübsche Terrasse im Locmaria-Viertel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie du Prieuré",
+                "tip": "Hangulatos terasz a Locmaria negyedben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie du Prieuré",
+                "tip": "Terasă frumoasă în cartierul Locmaria."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie du Prieuré",
+                "tip": "Lovely terrace in the Locmaria district."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Odet Ufer",
+                "tip": "Ruhiger Weg am Wasser.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Odet partja",
+                "tip": "Nyugodt út a víz mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Odet",
+                "tip": "Drum liniștit pe lângă apă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Odet Banks",
+                "tip": "Quiet path by the water.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Faïencerie d'Art",
+                "tip": "Künstlerische Keramik in Locmaria."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Faïencerie d'Art",
+                "tip": "Művészi kerámiák Locmariában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faïencerie d'Art",
+                "tip": "Ceramică artistică în Locmaria."
+              }
+            ],
+            "en": [
+              {
+                "name": "Faïencerie d'Art",
+                "tip": "Artistic ceramics in Locmaria."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Es gibt viele Fahrradwege entlang der Flüsse.",
+              "Achten Sie auf Fußgänger in der Altstadt.",
+              "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs.",
+              "Die Strecke nach Locmaria ist flach und einfach."
+            ],
+            "hu": [
+              "Sok kerékpárút van a folyók mentén.",
+              "Ügyeljen a gyalogosokra az óvárosban.",
+              "Béreljen biciklit a vasútállomás közelében.",
+              "A Locmariába vezető út sík és könnyű."
+            ],
+            "ro": [
+              "Există multe piste de biciclete de-a lungul râurilor.",
+              "Atenție la pietoni în centrul vechi.",
+              "Închiriați o bicicletă lângă gară.",
+              "Traseul spre Locmaria este plat și ușor."
+            ],
+            "en": [
+              "There are many bike paths along the rivers.",
+              "Watch out for pedestrians in the old town.",
+              "Rent a bike near the train station.",
+              "The route to Locmaria is flat and easy."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig entlang der Odet-Ufer, wo die Bäume etwas Schutz bieten. In Locmaria können Sie die Fahrräder abstellen und das Fayence-Museum besuchen, um trocken zu bleiben. Der Prieuré-Garten wirkt im Regen fast mystisch. Mittags bietet sich eine Pause im Viertel Locmaria an. Beenden Sie die Tour im Zentrum, wo Sie Ihr Rad sicher parken und die Altstadt zu Fuß erkunden können.",
+            "hu": "Tekerjen óvatosan az Odet partján, ahol a fák némi védelmet nyújtanak. Locmaria negyedben tegye le a bringát és látogasson el a Fajansz Múzeumba, hogy száraz maradjon. A Prieuré kert esőben szinte misztikus látványt nyújt. Délben tartson szünetet egy helyi bisztróban. A túrát a központban fejezze be, ahol biztonságban lelakatolhatja a kerékpárt az óvárosi séta előtt.",
+            "ro": "Pedalați cu atenție pe malul râului Odet, unde copacii oferă puțină protecție. În cartierul Locmaria, lăsați bicicleta și vizitați Muzeul de Faianță pentru a rămâne uscați. Grădina Prieuré pare aproape mistică pe ploaie. La prânz, faceți o pauză într-un bistro local. Încheiați turul în centru, unde puteți parca bicicleta în siguranță pentru a explora orașul vechi.",
+            "en": "Cycle carefully along the Odet banks, where the trees offer some shelter. In the Locmaria district, park your bike and visit the Faïence Museum to stay dry. The Prieuré Garden looks almost mystical in the rain. Take a midday break in a local bistro. Finish the tour in the center, where you can securely park your bike before exploring the old town on foot."
+          },
+          "stops": [
+            {
+              "name": "Odet River Banks",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; bremsen Sie frühzeitig vor Kurven.",
+                "hu": "Az utak csúszósak lehetnek; fékezzen időben a kanyarok előtt.",
+                "ro": "Pistele pot fi alunecoase; frânați din timp înainte de curbe.",
+                "en": "Paths can be slippery; brake early before reaching turns."
+              }
+            },
+            {
+              "name": "Quartier Locmaria",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden Schutz, falls der Regen stärker wird.",
+                "hu": "Keressen menedéket az árkádok alatt, ha erősödik az eső.",
+                "ro": "Căutați adăpost sub arcade dacă ploaia se intensifică.",
+                "en": "Seek shelter under the arcades if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Musée de la Faïence",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garderobenbereich, um Ihre nassen Regenjacken zu verstauen.",
+                "hu": "Használja a ruhatárat a vizes esőkabátok elhelyezésére.",
+                "ro": "Folosiți zona garderobei pentru a vă lăsa pelerinele ude.",
+                "en": "Use the cloakroom area to store your wet raincoats while visiting."
+              }
+            },
+            {
+              "name": "Jardin du Prieuré",
+              "tip_5lang": {
+                "de": "Die Steinpfade im Garten sind bei Nässe extrem glatt.",
+                "hu": "A kert kőösvényei vizesen rendkívül csúszósak.",
+                "ro": "Potecile de piatră din grădină sunt extrem de alunecoase când sunt ude.",
+                "en": "The stone paths in the garden are extremely slick when wet."
+              }
+            },
+            {
+              "name": "Vieux Quimper Center",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an den offiziellen Bügeln nahe der Markthalle ab.",
+                "hu": "Hagyja a bringát a piaccsarnok közeli hivatalos tárolóknál.",
+                "ro": "Lăsați bicicleta la suporturile oficiale de lângă piața acoperită.",
+                "en": "Park your bike at the official racks near the covered market hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Überfahren von nassen Fahrbahnmarkierungen und Gullydeckeln.",
+              "Vollständige wasserfeste Kleidung ist in Quimper bei Regen unerlässlich.",
+              "Prüfen Sie Ihre Bremsen, da sie bei Nässe weniger effektiv sein können.",
+              "Nutzen Sie die bewachten Fahrradparkplätze im Stadtzentrum.",
+              "Die Uferwege des Odet sind bei Regen weniger befahren und ruhiger."
+            ],
+            "hu": [
+              "Kerülje a vizes útburkolati jeleken és csatornafedeleken való áthajtást.",
+              "A teljes vízálló ruházat elengedhetetlen Quimperben esős időben.",
+              "Ellenőrizze a fékeket, mert nedvesen kevésbé hatékonyak lehetnek.",
+              "Használja a városközpont őrzött kerékpártárolóit.",
+              "Az Odet-parti utak esőben kevésbé forgalmasak és nyugodtabbak."
+            ],
+            "ro": [
+              "Evitați trecerea peste marcajele rutiere umede și capacele de canal.",
+              "Echipamentul complet impermeabil este esențial în Quimper pe ploaie.",
+              "Verificați frânele, deoarece pot fi mai puțin eficiente pe umiditate.",
+              "Folosiți parcările supravegheate pentru biciclete din centrul orașului.",
+              "Traseele de pe malul Odet sunt mai puțin circulate și mai liniștite pe ploaie."
+            ],
+            "en": [
+              "Avoid riding over wet road markings and manhole covers.",
+              "Full waterproof gear is essential in Quimper during rainy weather.",
+              "Check your brakes, as they may be less effective when wet.",
+              "Utilize the supervised bike parking areas in the city center.",
+              "The Odet riverside paths are less crowded and more peaceful in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour entlang des Odet erfordert warme Handschuhe gegen den kalten Fahrtwind. In Locmaria können Sie sich im Fayence-Museum aufwärmen. Der Prieuré-Garten wirkt mit seinem Winterschnitt sehr ordentlich und ruhig. Mittags empfiehlt sich ein Stopp für eine heiße Suppe. Die Tour endet im beleuchteten Stadtzentrum, wo die Fachwerkhäuser in der frühen Dunkelheit besonders charmant aussehen.",
+            "hu": "A téli kerékpározás az Odet mentén meleg kesztyűt igényel a hideg menetszél miatt. Locmariában melegedjen fel a Fajansz Múzeumban. A Prieuré kert téli nyugalma és rendezettsége különleges hangulatot áraszt. Délben álljon meg egy forró levesre. A túra a kivilágított városközpontban ér véget, ahol a fagerendás házak a korai sötétben különösen bájosak.",
+            "ro": "O plimbare cu bicicleta iarna pe lângă Odet necesită mănuși groase împotriva vântului rece. În Locmaria, încălziți-vă la Muzeul de Faianță. Grădina Prieuré are un aspect ordonat și liniștit iarna. La prânz, opriți-vă pentru o supă caldă. Turul se încheie în centrul iluminat, unde casele cu bârne de lemn par deosebit de fermecătoare în întunericul timpuriu.",
+            "en": "A winter bike ride along the Odet requires warm gloves against the cold wind. In Locmaria, warm up inside the Faïence Museum. The Prieuré Garden feels very peaceful and orderly in its winter state. Stop for a hot soup at midday. The tour ends in the illuminated city center, where the timber-framed houses look particularly charming in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Odet River Banks",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen, besonders auf Holzbrücken.",
+                "hu": "Ügyeljen a jeges foltokra, különösen a fahidacskákon.",
+                "ro": "Atenție la porțiunile înghețate, în special pe podurile de lemn.",
+                "en": "Watch out for icy patches, especially on wooden bridges."
+              }
+            },
+            {
+              "name": "Quartier Locmaria",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Radfahren entlang des Flusses blenden.",
+                "hu": "Az alacsonyan járó nap vakíthat a folyó menti tekerés közben.",
+                "ro": "Soarele palid poate fi orbitor în timp ce pedalați pe lângă râu.",
+                "en": "The low winter sun can be blinding while cycling along the river."
+              }
+            },
+            {
+              "name": "Musée de la Faïence",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger nach der Fahrt aufzuwärmen.",
+                "hu": "Ideális hely az ujjak felmelegítésére a tekerés után.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile după plimbare.",
+                "en": "An ideal place to warm up your fingers after the ride."
+              }
+            },
+            {
+              "name": "Jardin du Prieuré",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die Ruhe in diesem Garten.",
+                "hu": "Élvezze a tiszta téli levegőt és a csendet ebben a kertben.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de liniștea din această grădină.",
+                "en": "Enjoy the crisp winter air and the tranquility of this garden."
+              }
+            },
+            {
+              "name": "Vieux Quimper Center",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um im Hellen anzukommen.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy még világosban érkezzen meg.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a ajunge pe lumină.",
+                "en": "Finish your tour before 5:00 PM to arrive while it is still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung; der Fahrtwind ist im Winter sehr kalt.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Der Sonnenuntergang ist früh; planen Sie Ihre Rückkehr für 16:30 Uhr.",
+              "Trinken Sie zwischendurch etwas Heißes, um die Körpertemperatur zu halten.",
+              "Vermeiden Sie schattige Wege, da dort das Eis länger liegen bleibt."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot; a menetszél télen nagyon hideg.",
+              "Győződjön meg róla, hogy a kerékpár lámpái kifogástalanul működnek.",
+              "A naplemente korai; tervezze a visszaérkezést 16:30-ra.",
+              "Igyon forró italokat útközben a testhőmérséklet fenntartásához.",
+              "Kerülje az árnyékos utakat, mert ott tovább megmaradhat a jég."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt; curentul de aer este foarte rece iarna.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Apusul este timpuriu; planificați revenirea pentru ora 16:30.",
+              "Beți băuturi calde pe parcurs pentru a menține temperatura corpului.",
+              "Evitați traseele umbrite, deoarece gheața persistă mai mult acolo."
+            ],
+            "en": [
+              "Wear windproof clothing; the wind chill is significant in winter.",
+              "Ensure your bike lights are functioning perfectly for early dusk.",
+              "Sunset is early; aim to be back or at your destination by 4:30 PM.",
+              "Drink hot beverages periodically to maintain your body heat.",
+              "Avoid shaded paths where ice is more likely to linger."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -700,6 +1449,314 @@
           "The coastal roads are very scenic.",
           "Avoid rush hour in the city center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir zuerst das Locmaria-Viertel und fahren dann in das historische Dorf Locronan, das wie ein Filmset wirkt. Nach einem Abstecher zum weiten Strand von Sainte-Anne-la-Palud kehren wir für einen Abendspaziergang nach Quimper zurück.",
+            "hu": "Autóval először a Locmaria negyedet fedezzük fel, majd elhajtunk Locronan történelmi falujába, amely olyan, mint egy filmdíszlet. Egy kitérő után Sainte-Anne-la-Palud tágas strandjához, visszatérünk Quimperbe egy esti sétára.",
+            "ro": "Cu mașina explorăm mai întâi cartierul Locmaria, apoi mergem în satul istoric Locronan, care arată ca un decor de film. După o vizită la plaja întinsă din Sainte-Anne-la-Palud, ne întoarcem în Quimper pentru o plimbare de seară.",
+            "en": "By car, we first explore the Locmaria district and then drive to the historical village of Locronan, which feels like a movie set. After a trip to the wide beach of Sainte-Anne-la-Palud, we return to Quimper for an evening stroll."
+          },
+          "stops": [
+            {
+              "name": "Quimper Locmaria",
+              "tip_5lang": {
+                "de": "Besuchen Sie die romanische Kirche.",
+                "hu": "Nézze meg a román stílusú templomot.",
+                "ro": "Vizitați biserica romanică.",
+                "en": "Visit the Romanesque church."
+              }
+            },
+            {
+              "name": "Locronan Village",
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Frankreichs.",
+                "hu": "Franciaország egyik legszebb faluja.",
+                "ro": "Unul dintre cele mai frumoase sate din Franța.",
+                "en": "One of the most beautiful villages in France."
+              }
+            },
+            {
+              "name": "Sainte-Anne-la-Palud",
+              "tip_5lang": {
+                "de": "Ein riesiger Sandstrand in der Nähe.",
+                "hu": "Hatalmas homokos strand a közelben.",
+                "ro": "O plajă imensă de nisip în apropiere.",
+                "en": "A huge sandy beach nearby."
+              }
+            },
+            {
+              "name": "Quimper Cathédrale",
+              "tip_5lang": {
+                "de": "Rückkehr ins Stadtzentrum für die Besichtigung.",
+                "hu": "Visszatérés a városközpontba a látogatáshoz.",
+                "ro": "Revenire în centrul orașului pentru vizită.",
+                "en": "Return to the city center for the visit."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kouign-Amann Locronan",
+                "tip": "Die beste Version dieses Kuchens."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Locronani Kouign-Amann",
+                "tip": "E sütemény legjobb változata."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kouign-Amann Locronan",
+                "tip": "Cea mai bună versiune a acestei prăjituri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Locronan Kouign-Amann",
+                "tip": "The best version of this cake."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sainte-Anne Strand",
+                "tip": "Meeresbrise und weite Sicht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sainte-Anne strand",
+                "tip": "Tengeri szellő és tágas kilátás.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Sainte-Anne",
+                "tip": "Briză marină și vedere largă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sainte-Anne Beach",
+                "tip": "Sea breeze and wide views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Locronan Weberei",
+                "tip": "Traditionelle Leinenstoffe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Locronani szövőműhely",
+                "tip": "Hagyományos vászontermékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Țesătoria Locronan",
+                "tip": "Țesături tradiționale de in."
+              }
+            ],
+            "en": [
+              {
+                "name": "Locronan Weaving",
+                "tip": "Traditional linen fabrics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in Quimper auf den großen Parkplätzen am Rand.",
+              "Locronan ist eine Fußgängerzone, Parken davor möglich.",
+              "Die Straßen an der Küste sind sehr malerisch.",
+              "Vermeiden Sie die Rushhour im Stadtzentrum."
+            ],
+            "hu": [
+              "Quimperben parkoljon a széleken lévő nagy parkolókban.",
+              "Locronan gyalogos övezet, parkolás előtte lehetséges.",
+              "A tengerparti utak nagyon festőiek.",
+              "Kerülje a csúcsforgalmat a városközpontban."
+            ],
+            "ro": [
+              "În Quimper parcați în marile parcări de la periferie.",
+              "Locronan este zonă pietonală, parcarea este posibilă la intrare.",
+              "Drumurile de coastă sunt foarte pitorești.",
+              "Evitați orele de vârf în centrul orașului."
+            ],
+            "en": [
+              "In Quimper, park in the large lots on the outskirts.",
+              "Locronan is a pedestrian zone, parking is available outside.",
+              "The coastal roads are very scenic.",
+              "Avoid rush hour in the city center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem Locmaria und das nahegelegene Locronan, ohne nass zu werden. In Locronan glänzen die Granithäuser im Regen besonders schön – ein Dorf wie aus einer anderen Zeit. Die Fahrt zur Küste nach Sainte-Anne-la-Palud bietet dramatische Ausblicke auf das raue Meer. Beenden Sie den Tag wieder in Quimper, wo Sie nahe der Kathedrale in einem Parkhaus parken können.",
+            "hu": "Autóval kényelmesen elérheti Locmariát és a közeli Locronant anélkül, hogy bőrig ázna. Locronan gránitházai esőben különösen szépen csillognak – mintha megállt volna az idő. A Sainte-Anne-la-Palud tengerparti út drámai kilátást nyújt a háborgó óceánra. A napot Quimperben fejezze be, ahol a katedrálishoz közeli parkolóházban biztonságban tudhatja autóját.",
+            "ro": "Cu mașina puteți ajunge confortabil la Locmaria și în satul vecin Locronan fără a vă uda. Casele de granit din Locronan strălucesc frumos pe ploaie – un sat desprins din alte timpuri. Drumul spre coasta Sainte-Anne-la-Palud oferă vederi dramatice asupra mării agitate. Încheiați ziua în Quimper, parcând într-o parcare supraetajată lângă catedrală.",
+            "en": "By car, you can comfortably reach Locmaria and nearby Locronan without getting wet. Locronan's granite houses sparkle beautifully in the rain – a village frozen in time. The drive to the coast at Sainte-Anne-la-Palud offers dramatic views of the rough sea. End the day back in Quimper, parking in a multi-story car park near the cathedral."
+          },
+          "stops": [
+            {
+              "name": "Quimper Locmaria",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Place Bérardier, um kurze Wege zu haben.",
+                "hu": "Parkoljon közvetlenül a Place Bérardier-nél a rövid sétákért.",
+                "ro": "Parcați direct în Place Bérardier pentru a merge cât mai puțin pe jos.",
+                "en": "Park directly at Place Bérardier for the shortest walk to the museum."
+              }
+            },
+            {
+              "name": "Locronan Village",
+              "tip_5lang": {
+                "de": "Der große Parkplatz am Dorfeingang ist bei Regen oft matschig.",
+                "hu": "A falu bejáratánál lévő nagy parkoló esőben gyakran sáros.",
+                "ro": "Parcarea mare de la intrarea în sat este adesea noroioasă pe ploaie.",
+                "en": "The large parking lot at the village entrance is often muddy in the rain."
+              }
+            },
+            {
+              "name": "Sainte-Anne-la-Palud",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Meeresbrise.",
+                "hu": "Erős esőben maradjon az autóban, és élvezze a tengeri látványt.",
+                "ro": "Rămâneți în mașină dacă plouă torențial și admirați marea.",
+                "en": "Stay in the car if the rain is heavy and enjoy the sea view."
+              }
+            },
+            {
+              "name": "Quimper Cathédrale",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Théodore Le Hars' für trockenen Zugang.",
+                "hu": "Használja a 'Théodore Le Hars' parkolóházat a fedett bejutáshoz.",
+                "ro": "Folosiți parcarea 'Théodore Le Hars' pentru un acces acoperit.",
+                "en": "Use the 'Théodore Le Hars' parking garage for dry access to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen rund um Quimper.",
+              "Die Sicht kann bei bretonischem Küstennebel stark eingeschränkt sein.",
+              "Parkhäuser im Zentrum sind bequemer als Parkplätze am Straßenrand.",
+              "Besuchen Sie die Dorfkirche in Locronan als perfekten Regenschutz.",
+              "Halten Sie an lokalen Hofläden an, um bretonische Spezialitäten trocken zu kaufen."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) a Quimper környéki utakon.",
+              "A látási viszonyok korlátozottak lehetnek a breton partmenti köd miatt.",
+              "A központi parkolóházak kényelmesebbek, mint az utcai parkolók.",
+              "Látogasson el Locronan templomába, amely tökéletes menedék az eső elől.",
+              "Álljon meg a helyi gazdaságoknál breton finomságokért esőben is."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene din jurul Quimper-ului.",
+              "Vizibilitatea poate fi redusă din cauza ceții de pe coasta bretonă.",
+              "Parcările etajate din centru sunt mai comode decât locurile de pe stradă.",
+              "Vizitați biserica din satul Locronan pentru un adăpost perfect de ploaie.",
+              "Opriți la magazinele fermelor locale pentru specialități bretone."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads around Quimper.",
+              "Visibility can be severely limited by typical Breton coastal mist.",
+              "Multi-story car parks in the center are more convenient than street parking.",
+              "Visit the village church in Locronan for a perfect rainy day refuge.",
+              "Stop at local farm shops to buy Breton specialties while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Locronan im Winter ist zauberhaft, wenn das Dorf festlich geschmückt ist. Die kühle Meeresluft in Sainte-Anne-la-Palud ist belebend; genießen Sie den Blick auf den Atlantik aus dem warmen Auto. Zurück in Quimper bietet die Kathedrale einen ruhigen, winterlichen Rückzugsort. Abends locken die beleuchteten Straßen des Zentrums zu einem kurzen Spaziergang, bevor Sie wieder ins warme Auto steigen.",
+            "hu": "A téli út Locronanba varázslatos, amikor a falu ünnepi díszbe öltözik. A Sainte-Anne-la-Palud-i hűvös tengeri levegő felfrissít; élvezze az Atlanti-óceán látványát a meleg autóból. Visszatérve Quimperbe, a katedrális csendes téli menedéket nyújt. Este a központ kivilágított utcái rövid sétára csábítanak, mielőtt visszatérne a fűtött autóba.",
+            "ro": "Drumul spre Locronan iarna este magic, când satul este decorat festiv. Aerul rece al mării la Sainte-Anne-la-Palud este revigorant; admirați Atlanticul din mașina caldă. Revenind în Quimper, catedrala oferă un refugiu liniștit de iarnă. Seara, străzile luminate ale centrului vă invită la o scurtă plimbare înainte de a pleca.",
+            "en": "The winter drive to Locronan is magical when the village is festively decorated. The cool sea air at Sainte-Anne-la-Palud is invigorating; enjoy the Atlantic views from your warm car. Returning to Quimper, the cathedral provides a quiet winter sanctuary. In the evening, the illuminated city streets invite you for a short walk before returning to your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Quimper Locmaria",
+              "tip_5lang": {
+                "de": "Das Viertel ist im Winter sehr ruhig und Parkplätze sind leicht zu finden.",
+                "hu": "A negyed télen nagyon csendes, és könnyű parkolóhelyet találni.",
+                "ro": "Cartierul este foarte liniștit iarna și parcarea se găsește ușor.",
+                "en": "The district is very quiet in winter and parking is easy to find."
+              }
+            },
+            {
+              "name": "Locronan Village",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kunsthandwerkerläden; sie sind im Winter gemütlich warm.",
+                "hu": "Látogasson el a kézműves boltokba; télen kellemesen melegek.",
+                "ro": "Vizitați atelierele meșteșugarilor; sunt calde și primitoare iarna.",
+                "en": "Visit the artisan shops; they are cozily warm during the winter months."
+              }
+            },
+            {
+              "name": "Sainte-Anne-la-Palud",
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt am Strand bieten den besten Blick auf die Wellen.",
+                "hu": "A közvetlen tengerparti parkolók kínálják a legjobb kilátást a hullámokra.",
+                "ro": "Parcările de lângă plajă oferă cea mai bună vedere asupra valurilor.",
+                "en": "Parking lots right by the beach offer the best views of the winter waves."
+              }
+            },
+            {
+              "name": "Quimper Cathédrale",
+              "tip_5lang": {
+                "de": "Das Zentrum ist am späten Nachmittag wegen der Beleuchtung am schönsten.",
+                "hu": "A központ késő délután a legszebb az ünnepi kivilágítás miatt.",
+                "ro": "Centrul este cel mai frumos după-amiaza târziu datorită luminilor.",
+                "en": "The center is most beautiful in the late afternoon with the lights on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf morgendliche Glätte auf den kleinen Nebenstraßen.",
+              "Die Tage sind kurz; planen Sie Ihre Fahrten bei Tageslicht ein.",
+              "Heizen Sie das Auto vor, bevor Sie die Küste für einen Spaziergang verlassen.",
+              "Locronan ist im Dezember wegen der Weihnachtsbeleuchtung besonders sehenswert.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann."
+            ],
+            "hu": [
+              "Ügyeljen a reggeli jegesedésre a kisebb mellékutakon.",
+              "A nappalok rövidek; tervezze az utazásait nappali fényre.",
+              "Fűtse fel az autót, mielőtt kiszállna a tengerparti sétához.",
+              "Locronan decemberben a karácsonyi fények miatt különösen látványos.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet."
+            ],
+            "ro": [
+              "Atenție la poleiul de dimineață pe drumurile secundare mici.",
+              "Zilele sunt scurte; planificați călătoriile pe timpul zilei.",
+              "Încălziți mașina înainte de a ieși pentru plimbarea pe plajă.",
+              "Locronan merită vizitat în decembrie pentru decorațiunile de Crăciun.",
+              "Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig."
+            ],
+            "en": [
+              "Watch out for morning ice on the smaller secondary roads.",
+              "Daylight hours are short; plan your scenic drives for midday.",
+              "Keep the car warm and ready for when you return from the windy coast.",
+              "Locronan is especially worth seeing in December for its Christmas lights.",
+              "Check your tire pressure as it can drop in colder temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -914,34 +1971,342 @@
           "Download the QUB app for schedules.",
           "On Sundays, there is a limited schedule."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem effizienten Bussystem von Quimper erreichen wir bequem alle wichtigen Sehenswürdigkeiten. Vom Bahnhof geht es zum Zentrum für Kultur und Geschichte, dann weiter in das traditionelle Locmaria-Viertel. Den Tag lassen wir auf dem lokalen Markt ausklingen, wo wir regionale Produkte entdecken.",
+            "hu": "Quimper hatékony buszhálózatával kényelmesen elérjük az összes fontos látnivalót. A vasútállomástól a kulturális és történelmi központba megyünk, majd tovább a hagyományos Locmaria negyedbe. A napot a helyi piacon zárjuk, ahol regionális termékeket fedezünk fel.",
+            "ro": "Cu sistemul eficient de autobuz din Quimper, ajungem ușor la toate obiectivele importante. De la gară mergem spre centrul cultural și istoric, apoi mai departe în cartierul tradițional Locmaria. Încheiem ziua la piața locală, unde descoperim produse regionale.",
+            "en": "With Quimper's efficient bus system, we easily reach all major sights. From the station, we head to the cultural and historical center, then on to the traditional Locmaria district. We end the day at the local market, discovering regional products."
+          },
+          "stops": [
+            {
+              "name": "Gare de Quimper",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Buslinien.",
+                "hu": "Központi csomópont minden buszjáratnak.",
+                "ro": "Nod central pentru toate liniile de autobuz.",
+                "en": "Central hub for all bus lines."
+              }
+            },
+            {
+              "name": "Cathédrale / Center",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Linie A oder B zum Zentrum.",
+                "hu": "Vigye az A vagy B vonalat a központba.",
+                "ro": "Luați linia A sau B spre centru.",
+                "en": "Take line A or B to the center."
+              }
+            },
+            {
+              "name": "Musée Breton",
+              "tip_5lang": {
+                "de": "Direkt neben der Kathedrale gelegen.",
+                "hu": "Közvetlenül a katedrális mellett található.",
+                "ro": "Situat chiar lângă catedrală.",
+                "en": "Located right next to the cathedral."
+              }
+            },
+            {
+              "name": "Locmaria (Bus 2)",
+              "tip_5lang": {
+                "de": "Die Linie 2 verbindet das Zentrum mit Locmaria.",
+                "hu": "A 2-es busz köti össze a központot Locmariával.",
+                "ro": "Linia 2 leagă centrul de Locmaria.",
+                "en": "Line 2 connects the center with Locmaria."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_5lang": {
+                "de": "Ein Paradies für Feinschmecker.",
+                "hu": "Az ínyencek paradicsoma.",
+                "ro": "Un paradis pentru gurmanzi.",
+                "en": "A paradise for food lovers."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Halles St-François",
+                "tip": "Frische Meeresfrüchte und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles St-François",
+                "tip": "Friss tenger gyümölcsei és sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles St-François",
+                "tip": "Fructe de mare proaspete și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles St-François",
+                "tip": "Fresh seafood and cheeses."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de la Paix",
+                "tip": "Ein ruhiger Ort nahe dem Zentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de la Paix",
+                "tip": "Csendes hely a központ közelében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de la Paix",
+                "tip": "Un loc liniștit lângă centru.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de la Paix",
+                "tip": "A quiet spot near the center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue Kéréon",
+                "tip": "Hübsche Geschäfte in der Fußgängerzone."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue Kéréon",
+                "tip": "Szép üzletek a sétálóutcában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue Kéréon",
+                "tip": "Magazine frumoase în zona pietonală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue Kéréon",
+                "tip": "Lovely shops in the pedestrian zone."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket (Ticket Journée).",
+              "Die Busse fahren regelmäßig ab dem Bahnhof.",
+              "Laden Sie die QUB-App für Fahrpläne herunter.",
+              "Sonntags gibt es einen eingeschränkten Fahrplan."
+            ],
+            "hu": [
+              "Vásároljon napijegyet (Ticket Journée).",
+              "A buszok rendszeresen indulnak a vasútállomástól.",
+              "Töltse le a QUB alkalmazást a menetrendekhez.",
+              "Vasárnaponként korlátozott a menetrend."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi (Ticket Journée).",
+              "Autobuzele pleacă regulat de la gară.",
+              "Descărcați aplicația QUB pentru orare.",
+              "Duminica programul este redus."
+            ],
+            "en": [
+              "Buy a day ticket (Ticket Journée).",
+              "Buses run regularly from the train station.",
+              "Download the QUB app for schedules.",
+              "On Sundays, there is a limited schedule."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um trocken vom Bahnhof zum Zentrum zu gelangen. Die Kathedrale und das Bretonische Museum liegen direkt nebeneinander und bieten stundenlangen Schutz vor dem Regen. Mit der Linie 2 erreichen Sie bequem Locmaria, ohne weit laufen zu müssen. Den Abschluss bildet ein Besuch in der Markthalle Les Halles, wo Sie unter einem sicheren Dach regionale Köstlichkeiten probieren können.",
+            "hu": "Használja a buszt, hogy szárazon jusson el a vasútállomástól a központba. A katedrális és a Breton Múzeum egymás mellett található, órákra menedéket nyújtva az eső elől. A 2-es busszal kényelmesen elérheti Locmariát anélkül, hogy sokat kellene gyalogolnia. A napot a Les Halles piaccsarnokban zárja, ahol fedett helyen kóstolhatja meg a helyi finomságokat.",
+            "ro": "Folosiți autobuzul pentru a ajunge de la gară în centru fără a vă uda. Catedrala și Muzeul Breton sunt situate chiar una lângă alta, oferind adăpost pentru ore întregi. Cu linia 2 puteți ajunge confortabil la Locmaria. Încheiați ziua la piața acoperită Les Halles, unde puteți degusta delicatese locale sub un acoperiș sigur.",
+            "en": "Use the bus to travel dry from the station to the city center. The cathedral and the Breton Museum are right next to each other, offering hours of protection from the rain. Bus line 2 takes you comfortably to Locmaria without much walking. Finish your day at Les Halles market, where you can sample regional delicacies under a solid roof."
+          },
+          "stops": [
+            {
+              "name": "Gare de Quimper",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon a váróteremben, amíg meg nem érkezik a busza.",
+                "ro": "Așteptați în holul gării până când este afișat autobuzul dvs.",
+                "en": "Wait in the station hall until your bus is shown on the display."
+              }
+            },
+            {
+              "name": "Cathédrale / Center",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht; ideal zum Umsteigen im Regen.",
+                "hu": "A megálló fedett; ideális az átszálláshoz esős időben.",
+                "ro": "Stația este acoperită; ideală pentru transfer pe ploaie.",
+                "en": "The bus stop is covered; ideal for transferring during rain."
+              }
+            },
+            {
+              "name": "Musée Breton",
+              "tip_5lang": {
+                "de": "Nur 20 Meter Fußweg von der Kathedrale entfernt – sehr trocken.",
+                "hu": "Mindössze 20 méter séta a katedrálistól – nagyon száraz útvonal.",
+                "ro": "La doar 20 de metri de mers pe jos de catedrală – un traseu uscat.",
+                "en": "Only a 20-meter walk from the cathedral – a very dry route."
+              }
+            },
+            {
+              "name": "Locmaria (Bus 2)",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der alten Abteikirche.",
+                "hu": "A busz szinte közvetlenül a régi apátsági templom előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața vechii biserici a abației.",
+                "en": "The bus stops almost directly in front of the old abbey church."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_5lang": {
+                "de": "Ein riesiger Indoor-Bereich; perfekt zum Shoppen bei Regen.",
+                "hu": "Hatalmas fedett terület; tökéletes vásárláshoz esőben.",
+                "ro": "O zonă interioară vastă; perfectă pentru cumpărături pe ploaie.",
+                "en": "A massive indoor area; perfect for food shopping while it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'QUB'-App für Echtzeit-Infos und Ticketkauf.",
+              "Die Busse fahren im Zentrum sehr regelmäßig, ideal als Regenshuttle.",
+              "Ein Tagesticket lohnt sich bei mehreren kurzen Fahrten im Regen.",
+              "Die Markthalle hat auch kleine Cafés, in denen man trocken sitzen kann.",
+              "Achten Sie auf beschlagene Scheiben in den Bussen bei hoher Luftfeuchtigkeit."
+            ],
+            "hu": [
+              "Használja a 'QUB' alkalmazást a valós idejű infókért és jegyvásárláshoz.",
+              "A buszok sűrűn járnak a központban, ideálisak 'eső-transzfernek'.",
+              "A napijegy megéri, ha több rövid utat tervez esős időben.",
+              "A piaccsarnokban kis kávézók is vannak, ahol szárazon pihenhet.",
+              "Ügyeljen a bepárásodott ablakokra a buszokon esős időben."
+            ],
+            "ro": [
+              "Folosiți aplicația 'QUB' pentru informații în timp real și bilete.",
+              "Autobuzele circulă regulat în centru, fiind ideale pe timp de ploaie.",
+              "Un bilet de o zi merită dacă faceți mai multe călătorii scurte pe ploaie.",
+              "Piața acoperită are și cafenele mici unde puteți sta la adăpost.",
+              "Atenție la geamurile aburite din autobuze când umiditatea este mare."
+            ],
+            "en": [
+              "Use the 'QUB' app for real-time bus info and mobile ticket purchases.",
+              "Buses run frequently in the center, acting as a perfect rain shuttle.",
+              "A day pass is worth it if you plan multiple short trips in the rain.",
+              "The market hall features small cafes where you can sit and stay dry.",
+              "Watch out for fogged windows on the buses during humid rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Morgen am Bahnhof beginnt mit einer kurzen Busfahrt ins Zentrum. Die Kathedrale bietet eine stille, kühle Atmosphäre, während das Bretonische Museum daneben wohlige Wärme spendet. Mit dem Bus geht es weiter nach Locmaria, um die winterliche Ruhe des Viertels zu genießen. Den Nachmittag verbringen Sie in der geschäftigen Markthalle Les Halles, bevor Sie in der frühen Dunkelheit den Bus zurück zum Bahnhof nehmen.",
+            "hu": "A téli reggel a vasútállomáson kezdődik egy rövid buszúttal a központba. A katedrális csendes, hűvös hangulatot áraszt, míg a szomszédos Breton Múzeum kellemes meleget ad. Busszal menjen tovább Locmariába, hogy élvezze a negyed téli nyugalmát. A délutánt töltse a nyüzsgő Les Halles piaccsarnokban, majd a korai sötétben induljon vissza busszal az állomásra.",
+            "ro": "Dimineața de iarnă la gară începe cu o scurtă călătorie cu autobuzul spre centru. Catedrala oferă o atmosferă liniștită, iar Muzeul Breton de alături oferă căldură. Continuați cu autobuzul spre Locmaria pentru a simți liniștea cartierului. Petreceți după-amiaza în piața Les Halles, înainte de a lua autobuzul înapoi spre gară în întunericul timpuriu.",
+            "en": "Your winter morning starts at the station with a quick bus ride to the center. The cathedral offers a quiet, cool atmosphere, while the Breton Museum next door provides cozy warmth. Continue by bus to Locmaria to enjoy the district's winter tranquility. Spend the afternoon in the bustling Les Halles market before taking the bus back to the station in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Gare de Quimper",
+              "tip_5lang": {
+                "de": "Im Bahnhof gibt es ein beheiztes Café für die Wartezeit.",
+                "hu": "Az állomáson van egy fűtött kávézó a várakozáshoz.",
+                "ro": "În gară există o cafenea încălzită pentru timpul de așteptare.",
+                "en": "There is a heated cafe in the station to use while you wait."
+              }
+            },
+            {
+              "name": "Cathédrale / Center",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt; eine willkommene Aufwärmpause.",
+                "hu": "A buszok télen jól fűtöttek; kellemes felmelegedési lehetőség.",
+                "ro": "Autobuzele sunt bine încălzite iarna; o pauză binevenită.",
+                "en": "The buses are well-heated in winter; a welcome warming break."
+              }
+            },
+            {
+              "name": "Musée Breton",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Museumsshop für originelle bretonische Wintergeschenke.",
+                "hu": "Látogasson el a múzeumi boltba eredeti breton téli ajándékokért.",
+                "ro": "Vizitați magazinul muzeului pentru cadouri originale bretone.",
+                "en": "Visit the museum shop for original Breton-themed winter gifts."
+              }
+            },
+            {
+              "name": "Locmaria (Bus 2)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt, da abends weniger Busse fahren.",
+                "hu": "Ellenőrizze a visszautat, mert este ritkábban járhatnak a buszok.",
+                "ro": "Verificați orarul de retur, deoarece autobuzele circulă mai rar seara.",
+                "en": "Check the return schedule as buses may run less often in the evening."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier frische Austern für ein echtes bretonisches Festessen.",
+                "hu": "Vegyen friss osztrigát egy igazi breton ünnepi vacsorához.",
+                "ro": "Cumpărați stridii proaspete pentru o masă festivă bretonă.",
+                "en": "Pick up some fresh oysters here for a true Breton winter feast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter das angenehmste Transportmittel im Stadtzentrum.",
+              "Die Markthalle ist ein toller Ort, um die Zeit bis zur Dunkelheit zu verbringen.",
+              "Die Linien 1 und 2 decken die wichtigsten Sehenswürdigkeiten ab.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen bei Wind.",
+              "Fahrpläne können während der Schulferien im Winter leicht variieren."
+            ],
+            "hu": [
+              "A busz a legkényelmesebb közlekedési mód télen a városközpontban.",
+              "A piaccsarnok remek hely az időtöltésre, amíg besötétedik.",
+              "Az 1-es és 2-es vonalak lefedik a legfontosabb látnivalókat.",
+              "Kerülje a várakozást a huzatos, nem védett megállókban.",
+              "A menetrendek a téli iskolai szünetek alatt kismértékben változhatnak."
+            ],
+            "ro": [
+              "Autobuzul este cel mai confortabil mod de transport în centru iarna.",
+              "Piața acoperită este un loc excelent pentru a petrece timpul până la seară.",
+              "Liniile 1 și 2 acoperă cele mai importante obiective turistice.",
+              "Evitați să așteptați în stații neprotejate când bate vântul.",
+              "Orarele pot varia ușor în timpul vacanțelor școlare de iarnă."
+            ],
+            "en": [
+              "Buses are the most comfortable way to get around the center in winter.",
+              "The market hall is a great place to pass the time until it gets dark.",
+              "Lines 1 and 2 cover almost all the main tourist sights in Quimper.",
+              "Avoid waiting at unsheltered stops when the winter wind is blowing.",
+              "Schedules may vary slightly during winter school holidays."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.quimper-tourisme.bzh/",
-    "events": "https://www.quimper-tourisme.bzh/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.qub.fr/",
-    "language_tips": {
-      "de": "Quimper ist bretonisches Herz. Französisch und Bretonisch zweisprachig auf Schildern, einige Sätze versuchen: 'Demat' (Bonjour), 'Trugarez' (Merci). Englisch in Hotels, Deutsch selten. Faïence-Keramik überall, fragen Sie nach 'HB Henriot'.",
-      "hu": "Quimper Bretagne szíve. Francia és breton kétnyelvű táblák, próbálj néhány szót: 'Demat' (Bonjour), 'Trugarez' (Merci). Angol szállodákban, német ritka. Faïence-kerámia mindenhol, kérdezz rá a 'HB Henriot'-ra.",
-      "ro": "Quimper este inima Bretaniei. Franceza și bretona apar pe panouri bilingve: 'Demat' (Bonjour), 'Trugarez' (Merci). Engleza la hoteluri, germana rar. Ceramică faïence peste tot, întrebați despre 'HB Henriot'.",
-      "en": "Quimper is the heart of Brittany. Signs are French/Breton bilingual: try 'Demat' (hello), 'Trugarez' (thanks). English at hotels, German is rare. Faïence pottery everywhere, ask about 'HB Henriot'."
-    },
-    "best_time_to_visit": {
-      "de": "Festival de Cornouaille (Juli-Ende) ist bretonisches Highlight. Mai-Juni für blühende Heide und milde 18-22 °C. September für ruhige Tage. Vermeiden Sie Februar-März, oft regnerisch und kalt. Winter: mild aber feucht.",
-      "hu": "A Festival de Cornouaille (július vége) breton csúcspont. Május-június a virágzó pusztáért és 18-22 °C-ért. Szeptember csendes napokért. Februárt-márciust kerüld, esős és hideg. Tél: enyhe de párás.",
-      "ro": "Festival de Cornouaille (sfârșit iulie) este momentul breton. Mai-iunie pentru landa înflorită și 18-22 °C. Septembrie pentru zile liniștite. Evitați februarie-martie, ploios și rece. Iarna: blândă dar umedă.",
-      "en": "The Festival de Cornouaille (late July) is the Breton highlight. May-June for blooming heath and mild 18-22 °C. September is quiet. Avoid February-March, often wet and cold. Winters are mild but damp."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher. Hauptrisiko ist atlantischer Regen, nehmen Sie wetterfeste Kleidung. Steile Schiefer-Dächer können bei Sturm Schiefer abwerfen. Achten Sie auf Fluss-Pegel der Odet bei Hochwasser.",
-      "hu": "Nagyon biztonságos. A fő kockázat az atlanti eső, vigyél vízálló ruhát. Viharban a meredek palatetőkről hullhat pala. Az Odet folyó vízszintjére figyelj áradáskor.",
-      "ro": "Foarte sigur. Riscul principal este ploaia atlantică, luați haine impermeabile. La furtună, acoperișurile de ardezie pot pierde plăci. Atenție la nivelul Odet la inundații.",
-      "en": "Very safe. Main risk is Atlantic rain, pack waterproofs. Steep slate roofs can shed tiles in gales. Watch Odet river levels during flood warnings."
-    },
-    "parking_real_time": ""
   }
 }

@@ -970,32 +970,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.lacorsedesorigines.com/",
-    "events": "https://www.lacorsedesorigines.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Propriano ist kleiner Hafenort im Sartenais, sehr authentisch korsisch, weniger international als Bonifacio oder Ajaccio. Franzoesisch ist Hauptsprache, Korsisch unter Einheimischen verbreitet. Englisch in Hafenrestaurants verstaendlich, aber nicht selbstverstaendlich.",
-      "hu": "Propriano kis kikotovaros a Sartenais-ban, nagyon autentikus korziakai, kevesbe nemzetkozi mint Bonifacio vagy Ajaccio. A francia a fonyelv, a korzikai a helyiek kozott elterjedt. Az angol a kikotoi ettermekben megerteheto, de nem termeszetes.",
-      "ro": "Propriano e mic port in Sartenais, foarte autentic corsican, mai putin international decat Bonifacio sau Ajaccio. Franceza e limba principala, corsicana raspandita printre localnici. Engleza in restaurantele portului inteleasa, dar nu garantata.",
-      "en": "Propriano is a small port in the Sartenais — very authentically Corsican, less international than Bonifacio or Ajaccio. French is the main language, Corsican widely spoken among locals. English at harbour restaurants is understood but not guaranteed."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober perfekt: das Meer warm, ruhige Straende, lokales Leben echt. Juli-August voll mit franzoesischen Familien, vor allem aus Marseille und Nizza. Im Winter sehr ruhig, viele Restaurants und Hotels geschlossen.",
-      "hu": "Majus-junius es szeptember-oktober tokeletes: meleg tenger, csendes strandok, valos helyi elet. Julius-augusztus francia csaladokkal zsufolt, foleg Marseille-bol es Nizzabol. Telen nagyon csendes, sok etterem es hotel zarva.",
-      "ro": "Mai-iunie si septembrie-octombrie sunt perfecte: marea calda, plaje linistite, viata locala autentica. Iulie-august aglomerat cu familii franceze, mai ales din Marsilia si Nisa. Iarna foarte linistita, multe restaurante si hoteluri inchise.",
-      "en": "May-June and September-October are perfect: warm sea, quiet beaches, authentic local life. July-August fills with French families, especially from Marseille and Nice. Winter is very quiet with many restaurants and hotels closed."
-    },
-    "neighborhood_warnings": {
-      "de": "Im Hochsommer Hafen voll mit Yachten und Restaurants ueberteuert, lieber in Sartène oder Olmeto essen. Mietwagen unbedingt noetig, oeffentlicher Verkehr fast nicht vorhanden. Strassen ins Hinterland eng und kurvig, langsam fahren.",
-      "hu": "Foszezonban a kikoto jachtokkal tele, az ettermek dragak, jobb Sartène-ban vagy Olmeto-ban enni. Berauto kotelezo, kozlekedes szinte nincs. A vidaeki utak keskenyek, kanyargosak, lassan vezess.",
-      "ro": "Vara, portul plin de iahturi si restaurante supraevaluate, mai bine mananca in Sartène sau Olmeto. Masina inchiriata e obligatorie, transport public aproape inexistent. Drumurile spre interior sunt inguste si serpuite, conduceti incet.",
-      "en": "In peak summer the harbour fills with yachts and restaurants get pricey — eat in Sartène or Olmeto instead. A rental car is essential, public transport barely exists. Inland roads are narrow and twisty, drive slowly."
-    },
-    "parking_real_time": ""
   }
 }

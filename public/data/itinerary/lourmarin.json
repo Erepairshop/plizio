@@ -954,32 +954,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.destinationluberon.com/",
-    "events": "https://www.destinationluberon.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Lourmarin gilt als kulturelles Schmuckstueck des Luberon (Albert Camus lebte hier), franzoesische Intellektuelle und britische Hauskaeufer mischen sich. Englisch klappt in den Restaurants am Hauptplatz, aber das Dorf bleibt im Kern franzoesisch und literarisch.",
-      "hu": "Lourmarin a Luberon kulturalis ekkove (Albert Camus itt elt), francia intellektuelek es brit haztulajdonosok keverednek. Az angol megy a fo teri ettermekben, de a falu lenyegeben francia es irodalmi.",
-      "ro": "Lourmarin e bijuteria culturala a Luberon-ului (Albert Camus a trait aici), intelectuali francezi si britanici cu case se amesteca. Engleza merge in restaurantele din piata centrala, dar satul ramane in esenta francez si literar.",
-      "en": "Lourmarin is the Luberon's cultural gem (Albert Camus lived here) — French intellectuals mix with British home-owners. English works in the main-square restaurants, but the village stays essentially French and literary at heart."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober ideal: angenehme Temperaturen, der Provence-Markt am Freitag in voller Pracht. Lavendelbluete Mitte Juni bis Mitte Juli in der Umgebung. Juli-August warm und sehr voll, vor allem an Markttagen.",
-      "hu": "Majus-junius es szeptember-oktober ideal: kellemes ho, a penteki provence-i piac teljes pompaban. Levendula viragzas junius kozepetol julius kozepig a kornyeken. Julius-augusztus meleg es nagyon zsufolt, foleg piaci napokon.",
-      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: temperaturi placute, piata provensala de vineri in plina glorie. Lavanda din mijlocul lui iunie pana la mijlocul lui iulie in imprejurimi. Iulie-august cald si foarte aglomerat, mai ales in zilele de targ.",
-      "en": "May-June and September-October are ideal: pleasant temps, the Friday Provençal market at its glorious best. Lavender blooms in the surrounding fields mid-June to mid-July. July-August is hot and very busy, especially on market days."
-    },
-    "neighborhood_warnings": {
-      "de": "Am Freitag (Markttag) Parkplaetze schon vor 10 Uhr voll, lieber zu Fuss kommen oder weiter weg parken. Restaurants im Dorfzentrum oft Reservierung noetig, vor allem im Hochsommer. Die schmalen Strassen sind eng fuer grosse Autos.",
-      "hu": "Penteken (piaci nap) a parkolok 10 ora elott tele, jobb gyalog jonni vagy tavolabb parkolni. A kozponti ettermekben foglalas kell, foleg foszezonban. A keskeny utak nagy autoknak nehezek.",
-      "ro": "Vinerea (zi de targ), parcarile sunt pline inainte de 10, mai bine vino pe jos sau parcheaza mai departe. La restaurantele din centru rezervarea e necesara, mai ales in plina vara. Strazile inguste sunt grele pentru masini mari.",
-      "en": "On Fridays (market day) car parks fill up before 10am — walk in or park further out. Restaurants in the village centre need reservations, especially in peak summer. The narrow lanes are tight for big cars."
-    },
-    "parking_real_time": ""
   }
 }

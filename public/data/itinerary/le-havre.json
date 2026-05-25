@@ -276,6 +276,398 @@
           "Wear comfortable shoes for concrete paths.",
           "Visit St. Joseph's Church during daylight."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die moderne Architektur des UNESCO-Welterbes, beginnend am Rathausplatz und der beeindruckenden Kirche Saint-Joseph. Mittags bewundern Sie das futuristische 'Volcan' von Oscar Niemeyer und spazieren zum MuMa am Hafeneingang. Nachmittags genießen Sie Meeresfrüchte im Fischerviertel Saint-François, bevor Sie den Tag am weitläufigen Strand ausklingen lassen.",
+            "hu": "Reggel az UNESCO világörökség modern építészetével ismerkedünk a Városháza téren és a monumentális Szent József-templomban. Délben megcsodáljuk Oscar Niemeyer futurisztikus 'Vulkánját', majd a tengerparti MuMa múzeum felé vesszük az irányt. Délután friss tengeri ételeket kóstolunk a halásznegyedben, végül a hosszú kavicsos strandon pihenünk.",
+            "ro": "Dimineața explorați arhitectura modernă din patrimoniul UNESCO, începând cu Piața Primăriei și impresionanta biserică Saint-Joseph. La prânz admirați 'Vulcanul' futurist al lui Oscar Niemeyer și vă plimbați spre muzeul MuMa. După-amiaza savurați fructe de mare în cartierul pescăresc Saint-François, înainte de a încheia ziua pe plaja vastă.",
+            "en": "In the morning, explore the modern architecture of the UNESCO World Heritage site, starting at the Town Hall Square and the impressive St. Joseph's Church. At midday, admire Oscar Niemeyer's futuristic 'Volcano' and walk to the MuMa museum by the harbor. In the afternoon, enjoy seafood in the Saint-François fishing quarter before ending the day at the expansive beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathausplatz",
+                "hu": "Városháza tér",
+                "ro": "Piața Primăriei",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Perret-Turm.",
+                "hu": "Nézze meg a Perret-tornyot.",
+                "ro": "Vedeți turnul Perret.",
+                "en": "Look at the Perret tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Joseph",
+                "hu": "Szent József-templom",
+                "ro": "Biserica Saint-Joseph",
+                "en": "St. Joseph's Church"
+              },
+              "tip_5lang": {
+                "de": "Das Lichtspiel im Inneren ist magisch.",
+                "hu": "A belső fényjáték lenyűgöző.",
+                "ro": "Jocul de lumini din interior este magic.",
+                "en": "The light play inside is magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Volcan (Niemeyer)",
+                "hu": "A Vulkán",
+                "ro": "Vulcanul",
+                "en": "The Volcano"
+              },
+              "tip_5lang": {
+                "de": "Ein futuristisches Kulturzentrum.",
+                "hu": "Futurisztikus kulturális központ.",
+                "ro": "Un centru cultural futurist.",
+                "en": "A futuristic cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "MuMa Kunstmuseum",
+                "hu": "MuMa Művészeti Múzeum",
+                "ro": "Muzeul MuMa",
+                "en": "MuMa Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Berühmt für Impressionismus.",
+                "hu": "Impresszionista gyűjteménye híres.",
+                "ro": "Celebru pentru impresionism.",
+                "en": "Famous for Impressionism."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier Saint-François",
+                "hu": "Szent Ferenc negyed",
+                "ro": "Cartierul Saint-François",
+                "en": "Saint-François Quarter"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für frischen Fisch.",
+                "hu": "Tökéletes friss tengeri halhoz.",
+                "ro": "Perfect pentru pește proaspăt.",
+                "en": "Perfect for fresh fish."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Le Havre",
+                "hu": "Le Havre-i strand",
+                "ro": "Plaja Le Havre",
+                "en": "Le Havre Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Kieselstrand.",
+                "hu": "Hosszú kavicsos tengerpart.",
+                "ro": "O plajă lungă cu pietriș.",
+                "en": "A long pebble beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Marmite Dieppoise",
+                "tip": "Fischtopf in Sahnesauce."
+              },
+              {
+                "name": "Taureau",
+                "tip": "Bistro mit Meeresfrüchten am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marmite Dieppoise",
+                "tip": "Halragu tejszínes szószban."
+              },
+              {
+                "name": "Taureau",
+                "tip": "Tengeri herkentyűs bisztró a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marmite Dieppoise",
+                "tip": "Tocană de pește cu smântână."
+              },
+              {
+                "name": "Taureau",
+                "tip": "Bistrou cu fructe de mare la port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marmite Dieppoise",
+                "tip": "Fish stew in cream sauce."
+              },
+              {
+                "name": "Taureau",
+                "tip": "Seafood bistro at the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ende der Kaimauer",
+                "tip": "Beobachten Sie die einlaufenden Schiffe.",
+                "emoji": "🚢"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A gát vége",
+                "tip": "Nézze a hatalmas érkező hajókat.",
+                "emoji": "🚢"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul digului",
+                "tip": "Urmăriți navele mari care intră.",
+                "emoji": "🚢"
+              }
+            ],
+            "en": [
+              {
+                "name": "End of the jetty",
+                "tip": "Watch the huge incoming ships.",
+                "emoji": "🚢"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Halles Centrales",
+                "tip": "Markthalle mit regionalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles Centrales",
+                "tip": "Vásárcsarnok helyi termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles Centrales",
+                "tip": "Piață centrală cu produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles Centrales",
+                "tip": "Market hall with regional products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für Betonwege.",
+              "Besuchen Sie die Kirche Saint-Joseph nur tagsüber."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a betonjárdákhoz.",
+              "Napközben látogassa meg a Szent József-templomot."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru trotuarele de beton.",
+              "Vizitați biserica Saint-Joseph în timpul zilei."
+            ],
+            "en": [
+              "Wear comfortable shoes for concrete paths.",
+              "Visit St. Joseph's Church during daylight."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Le Havre verleiht der Perret-Architektur einen dramatischen Glanz. Am Vormittag bieten die Arkaden am Rathausplatz Schutz, bevor man zur beeindruckenden St. Josephs Kirche flüchtet. Mittags wärmt man sich im 'Volcan' auf. Der Nachmittag gehört dem MuMa, wo man durch Glaswände den stürmischen Ärmelkanal beobachtet. Der Abend endet gemütlich in den Restaurants von Saint-François.",
+            "hu": "Az eső különleges fényt ad Le Havre betonépítészetének. Délelőtt a Városháza tér árkádjai alatt sétálunk, majd a Szent József templom monumentális belső terében keresünk menedéket. Délben a Vulkán kulturális központ nyújt fedezéket. Délután a MuMa üvegfalai mögül nézzük a viharos tengert, végül a Saint-François negyed egyik éttermében zárjuk a napot.",
+            "ro": "Ploaia oferă o strălucire dramatică arhitecturii lui Perret în Le Havre. Dimineața, arcadele din Piața Primăriei oferă protecție înainte de a te refugia în Biserica Sf. Iosif. La prânz, te încălzești în interiorul 'Vulcanului'. După-amiaza aparține muzeului MuMa, unde poți observa marea agitată prin pereții de sticlă. Seara se încheie confortabil în restaurantele din Saint-François.",
+            "en": "Rain gives Le Havre's Perret architecture a dramatic glow. In the morning, the arcades at Town Hall Square provide shelter before escaping to the impressive St. Joseph's Church. At noon, warm up inside 'The Volcano'. The afternoon is spent at MuMa, watching the stormy English Channel through glass walls. The evening ends cozily in the restaurants of Saint-François."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden für trockene Wege.",
+                "hu": "Használd az árkádokat, hogy szárazon maradj.",
+                "ro": "Folosește arcadele pentru a rămâne uscat.",
+                "en": "Use the arcades to stay dry while walking."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Ein spektakulärer, trockener Zufluchtsort.",
+                "hu": "Látványos és száraz menedékhely.",
+                "ro": "Un refugiu spectaculos și uscat.",
+                "en": "A spectacular and dry refuge."
+              }
+            },
+            {
+              "name": "The Volcano",
+              "tip_5lang": {
+                "de": "Die Bibliothek im Inneren ist perfekt bei Regen.",
+                "hu": "A belső könyvtár tökéletes esős időben.",
+                "ro": "Biblioteca din interior este perfectă pe ploaie.",
+                "en": "The library inside is perfect for rainy weather."
+              }
+            },
+            {
+              "name": "MuMa Art Museum",
+              "tip_5lang": {
+                "de": "Blick auf den Regen über dem Meer genießen.",
+                "hu": "Élvezd az esős tenger látványát az üvegfalak mögül.",
+                "ro": "Admiră ploaia peste mare prin pereții de sticlă.",
+                "en": "Enjoy the view of the rain over the sea."
+              }
+            },
+            {
+              "name": "Saint-François Quarter",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange Mittagspause im Trockenen.",
+                "hu": "Ideális hely egy hosszú, száraz ebédszünethez.",
+                "ro": "Loc ideal pentru o pauză lungă de prânz la uscat.",
+                "en": "Ideal spot for a long, dry lunch break."
+              }
+            },
+            {
+              "name": "Le Havre Beach",
+              "tip_5lang": {
+                "de": "Nur mit windfestem Regenschirm besuchen.",
+                "hu": "Csak szélálló esernyővel érdemes kijönni.",
+                "ro": "Vizitează doar cu o umbrelă rezistentă la vânt.",
+                "en": "Only visit with a windproof umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Beton Pfützen bilden.",
+              "Die Perret-Arkaden bieten kilometerlangen Regenschutz.",
+              "Das MuMa ist das beste 'Indoor'-Ziel bei schlechtem Wetter.",
+              "Vermeiden Sie den Strand bei starkem Wind."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert a betonfelületeken megáll a víz.",
+              "A Perret-féle árkádok kilométereken át védenek az esőtől.",
+              "A MuMa a legjobb beltéri célpont rossz idő esetén.",
+              "Erős szélben kerüld a tengerparti nyílt szakaszokat."
+            ],
+            "ro": [
+              "Poartă încălțăminte impermeabilă, apa stagnează pe beton.",
+              "Arcadele lui Perret oferă protecție pe kilometri întregi.",
+              "MuMa este cea mai bună destinație de interior pe vreme rea.",
+              "Evită plaja în caz de vânt puternic."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form easily on concrete.",
+              "The Perret arcades offer kilometers of rain protection.",
+              "MuMa is the best indoor destination during bad weather.",
+              "Avoid the beach area during high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterwind weht frisch vom Meer durch die breiten Avenuen. Am Morgen leuchtet der Beton unter der tiefstehenden Sonne am Rathausplatz. Die St. Josephs Kirche wirkt im Winterlicht besonders mystisch. Nachmittags wärmt man sich in den Ausstellungsräumen des MuMa auf. Da die Sonne bereits um 17 Uhr sinkt, erlebt man einen frühen, dramatischen Sonnenuntergang an der Uferpromenade.",
+            "hu": "A téli szél frissen fúj a tenger felől a széles sugárutakon. Reggel a betonfelületek ragyognak az alacsony napfényben a Városháza téren. A Szent József templom téli fényben különösen misztikus. Délután a MuMa kiállítótermeiben melegedhetünk fel. Mivel a nap már délután 5-kor nyugszik, korai, drámai naplementét láthatunk a parton.",
+            "ro": "Vântul de iarnă suflă proaspăt dinspre mare pe bulevardele largi. Dimineața, betonul strălucește sub soarele jos în Piața Primăriei. Biserica Sf. Iosif pare deosebit de mistică în lumina iernii. După-amiaza te poți încălzi în sălile muzeului MuMa. Deoarece soarele apune deja la ora 17, vei avea parte de un apus timpuriu și dramatic pe faleză.",
+            "en": "Winter winds blow fresh from the sea through the wide avenues. In the morning, the concrete shines under the low sun at Town Hall Square. St. Joseph's Church looks especially mystical in winter light. In the afternoon, warm up in the galleries of MuMa. Since the sun sets by 5 PM, you'll experience an early, dramatic sunset at the promenade."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Warme Kleidung gegen den Kanalwind nötig.",
+                "hu": "Meleg ruha kell a csatorna felől fújó szél ellen.",
+                "ro": "Haine groase necesare împotriva vântului de pe Canal.",
+                "en": "Warm clothes needed against the Channel wind."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Im Inneren kann es recht kühl sein.",
+                "hu": "A templombelső télen elég hűvös lehet.",
+                "ro": "Interiorul poate fi destul de răcoros iarna.",
+                "en": "The interior can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "The Volcano",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee im Kulturzentrum ist ideal.",
+                "hu": "Egy forró kávé a kulturális központban ideális.",
+                "ro": "O cafea fierbinte la centrul cultural este ideală.",
+                "en": "A hot coffee at the cultural center is ideal."
+              }
+            },
+            {
+              "name": "MuMa Art Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für das goldene Winterlicht.",
+                "hu": "Tökéletes hely az aranyló téli fényekhez.",
+                "ro": "Loc perfect pentru lumina aurie de iarnă.",
+                "en": "Perfect spot for the golden winter light."
+              }
+            },
+            {
+              "name": "Saint-François Quarter",
+              "tip_5lang": {
+                "de": "Probieren Sie die warme Fischsuppe.",
+                "hu": "Kóstold meg a forró hallevest.",
+                "ro": "Încearcă supa de pește fierbinte.",
+                "en": "Try the hot fish soup."
+              }
+            },
+            {
+              "name": "Le Havre Beach",
+              "tip_5lang": {
+                "de": "Sonnenuntergang findet hier gegen 17:00 Uhr statt.",
+                "hu": "A naplemente itt délután 5 körül van.",
+                "ro": "Apusul are loc aici în jurul orei 17:00.",
+                "en": "Sunset happens here around 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Windchill-Faktor am Meer ist nicht zu unterschätzen.",
+              "Die Museen schließen im Winter oft etwas früher.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten.",
+              "Warme Getränke in Saint-François einplanen."
+            ],
+            "hu": [
+              "A tengerparti szélérzet sokkal hidegebb a mért foknál.",
+              "A múzeumok télen gyakran korábban zárnak.",
+              "A déli órákat használd a szabadtéri látnivalókra.",
+              "Tervezz be meleg italokat a Saint-François negyedben."
+            ],
+            "ro": [
+              "Factorul de răcire al vântului la mare este semnificativ.",
+              "Muzeele se închid adesea mai devreme iarna.",
+              "Folosește orele prânzului pentru activități în aer liber.",
+              "Planifică opriri pentru băuturi calde în Saint-François."
+            ],
+            "en": [
+              "The wind chill factor by the sea is significant.",
+              "Museums often close slightly earlier in winter.",
+              "Use the midday hours for outdoor activities.",
+              "Plan for hot drinks in the Saint-François quarter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -534,6 +926,386 @@
           "Use the 'LiA Vélos' rental stations.",
           "Watch out for strong sea winds."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der Küste von den modernen Hafenanlagen bis zu den malerischen Klippen von Sainte-Adresse. Sie besuchen das MuMa-Museum und erklimmen die Hängenden Gärten in einer alten Festung. Der Rückweg führt über die breite Strandpromenade zurück ins Stadtzentrum.",
+            "hu": "Ez a kerékpártúra a part mentén vezet a modern kikötőtől Sainte-Adresse festői szikláiig. Útközben meglátogatjuk a MuMa múzeumot és feltekerünk a Függőkertekhez az egykori erődbe. A visszaút a széles tengerparti sétányon keresztül vezet a városközpontba.",
+            "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei, de la portul modern până la stâncile pitorești din Sainte-Adresse. Vizitați muzeul MuMa și urcați la Grădinile Suspendate într-o veche fortăreață. Întoarcerea se face pe promenada largă a plajei spre centrul orașului.",
+            "en": "This bike tour takes you along the coast from the modern harbor facilities to the picturesque cliffs of Sainte-Adresse. You will visit the MuMa museum and climb up to the Hanging Gardens in an old fortress. The return path leads through the wide beach promenade back to the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafenviertel",
+                "hu": "Kikötői negyed",
+                "ro": "Zona portului",
+                "en": "Harbor Area"
+              },
+              "tip_5lang": {
+                "de": "Moderne Terminals.",
+                "hu": "Modern terminálok látványa.",
+                "ro": "Terminale moderne.",
+                "en": "Modern terminals."
+              }
+            },
+            {
+              "name": {
+                "de": "MuMa",
+                "hu": "MuMa",
+                "ro": "MuMa",
+                "en": "MuMa"
+              },
+              "tip_5lang": {
+                "de": "Lichtdurchflutetes Museum.",
+                "hu": "Fényárban úszó múzeum.",
+                "ro": "Muzeu plin de lumină.",
+                "en": "Light-filled museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Hängende Gärten",
+                "hu": "Függőkertek",
+                "ro": "Grădinile Suspendate",
+                "en": "Hanging Gardens"
+              },
+              "tip_5lang": {
+                "de": "Ehemalige Festung mit Aussicht.",
+                "hu": "Egykori erőd kilátással.",
+                "ro": "Fostă fortăreață cu panoramă.",
+                "en": "Former fortress with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Adresse",
+                "hu": "Sainte-Adresse",
+                "ro": "Sainte-Adresse",
+                "en": "Sainte-Adresse"
+              },
+              "tip_5lang": {
+                "de": "Der 'Nizza' des Nordens.",
+                "hu": "Észak Nizzája.",
+                "ro": "Nisa Nordului.",
+                "en": "The Nice of the North."
+              }
+            },
+            {
+              "name": {
+                "de": "Pain de Sucre",
+                "hu": "Cukorsüveg-emlékmű",
+                "ro": "Pain de Sucre",
+                "en": "Pain de Sucre"
+              },
+              "tip_5lang": {
+                "de": "Denkmal für Seeleute.",
+                "hu": "Tengerészek emlékműve.",
+                "ro": "Monumentul marinarilor.",
+                "en": "Monument to sailors."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada de pe plajă",
+                "en": "Beach Promenade"
+              },
+              "tip_5lang": {
+                "de": "Perfekt ausgebaute Radwege.",
+                "hu": "Remek kerékpárutak.",
+                "ro": "Piste excelente pentru biciclete.",
+                "en": "Excellent bike paths."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie am Strand",
+                "tip": "Süße oder herzhafte Galettes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie a parton",
+                "tip": "Édes vagy sós palacsinták."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie pe plajă",
+                "tip": "Clătite dulci sau sărate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Beach Crêperie",
+                "tip": "Sweet or savory galettes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kap von Sainte-Adresse",
+                "tip": "Panoramablick auf die Seine-Mündung.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sainte-Adresse fok",
+                "tip": "Panoráma a Szajna torkolatára.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capul Sainte-Adresse",
+                "tip": "Vedere panoramică spre gura Senei.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cape of Sainte-Adresse",
+                "tip": "Panoramic view of the Seine estuary.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Docks Vauban",
+                "tip": "Einkaufszentrum im alten Lagerhaus."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Docks Vauban",
+                "tip": "Bevásárlóközpont egy régi raktárban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Docks Vauban",
+                "tip": "Centru comercial în depozit vechi."
+              },
+              {
+                "id": "test",
+                "name": "test"
+              }
+            ],
+            "en": [
+              {
+                "name": "Docks Vauban",
+                "tip": "Shopping mall in an old warehouse."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'LiA Vélos' Mietstationen.",
+              "Achten Sie auf starken Wind am Meer."
+            ],
+            "hu": [
+              "Használja a 'LiA Vélos' bérbringákat.",
+              "Figyeljen az erős tengeri szélre."
+            ],
+            "ro": [
+              "Utilizați stațiile de închiriat 'LiA Vélos'.",
+              "Atenție la vântul puternic de la mare."
+            ],
+            "en": [
+              "Use the 'LiA Vélos' rental stations.",
+              "Watch out for strong sea winds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Kleidung, aber die Hafenpromenaden sind leer und ruhig. Vormittags erkunden wir das Hafengebiet, wobei wir auf rutschigen Schienen achten. Mittags bietet das MuMa eine trockene Pause. Die Fahrt zu den Hängenden Gärten ist anstrengend, aber die Gewächshäuser sind die perfekte Flucht vor dem Regen. Abends geht es zurück entlang der glänzenden Promenade.",
+            "hu": "Az esős bringázás jó felszerelést igényel, de a kikötői sétányok ilyenkor üresek és csendesek. Délelőtt a kikötőt járjuk be, figyelve a csúszós sínekre. Délben a MuMa nyújt száraz pihenőt. A Függőkertekhez vezető út nehéz az esőben, de az üvegházak tökéletes menedéket nyújtanak. Este a csillogó aszfalton tekerünk vissza.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită echipament bun, dar falezele portului sunt goale și liniștite. Dimineața explorăm zona portuară, atenți la șinele alunecoase. La prânz, MuMa oferă o pauză uscată. Drumul spre Grădinile Suspendate este greu, dar serele sunt refugiul perfect. Seara ne întoarcem pe faleza strălucitoare.",
+            "en": "Cycling in the rain requires good gear, but the harbor promenades are empty and quiet. In the morning, explore the harbor area, watching out for slippery tracks. At noon, MuMa offers a dry break. The ride to the Hanging Gardens is tough in the rain, but the greenhouses are the perfect escape. In the evening, ride back along the glistening promenade."
+          },
+          "stops": [
+            {
+              "name": "Harbor Area",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Metallschienen.",
+                "hu": "Vigyázz a csúszós fém sínekre.",
+                "ro": "Atenție la șinele metalice alunecoase.",
+                "en": "Beware of slippery metal tracks."
+              }
+            },
+            {
+              "name": "MuMa",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden.",
+                "hu": "Fedett biciklitárolók állnak rendelkezésre.",
+                "ro": "Rafturi de biciclete acoperite disponibile.",
+                "en": "Covered bike racks available."
+              }
+            },
+            {
+              "name": "Hanging Gardens",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind komplett trocken.",
+                "hu": "Az üvegházak teljesen szárazak.",
+                "ro": "Serele sunt complet uscate.",
+                "en": "The greenhouses are completely dry."
+              }
+            },
+            {
+              "name": "Sainte-Adresse",
+              "tip_5lang": {
+                "de": "Bremsweg auf nasser Straße verlängert.",
+                "hu": "A féktáv megnő a vizes úton.",
+                "ro": "Distanța de frânare crește pe drum ud.",
+                "en": "Braking distance increases on wet roads."
+              }
+            },
+            {
+              "name": "Pain de Sucre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, exponiert gegenüber Wind.",
+                "hu": "Rövid megálló, kitett a szélnek.",
+                "ro": "Oprire scurtă, expusă la vânt.",
+                "en": "Short stop, exposed to wind."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Sand auf dem nassen Radweg.",
+                "hu": "Vigyázz a homokra a vizes kerékpárúton.",
+                "ro": "Atenție la nisipul de pe pista de biciclete udă.",
+                "en": "Watch out for sand on the wet bike path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip.",
+              "Nutzen Sie die Gewächshäuser der Hängenden Gärten als Basis.",
+              "Vermeiden Sie abrupte Bremsmanöver auf glattem Beton."
+            ],
+            "hu": [
+              "Viselj teljes esővédő felszerelést.",
+              "Enyhén csökkentsd a keréknyomást a jobb tapadásért.",
+              "Használd a Függőkertek üvegházait bázisként.",
+              "Kerüld a hirtelen fékezést a sima betonon."
+            ],
+            "ro": [
+              "Poartă echipament complet de ploaie.",
+              "Redu ușor presiunea în pneuri pentru aderență.",
+              "Folosește serele Grădinilor Suspendate ca bază.",
+              "Evită frânările bruște pe betonul neted."
+            ],
+            "en": [
+              "Wear full rain gear for the trip.",
+              "Slightly reduce tire pressure for better grip.",
+              "Use the greenhouses at Hanging Gardens as a dry base.",
+              "Avoid sudden braking on smooth concrete surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Le Havre ist erfrischend, solange man sich gegen den Wind schützt. Morgens bietet der Hafen klare Sichtweiten. Die Auffahrt zu den Hängenden Gärten bringt den Kreislauf in Schwung, und die tropischen Gewächshäuser bieten wohlige Wärme. Der Nachmittag in Sainte-Adresse ist ruhig, und die Rückfahrt bei Sonnenuntergang entlang der Promenade ist das Highlight des Tages.",
+            "hu": "A téli bringázás Le Havre-ban frissítő, amíg védve vagyunk a széltől. Reggel a kikötőben tiszta a látótávolság. A Függőkertekhez való feltekerés felpezsdíti a keringést, a trópusi üvegházak pedig kellemes meleget adnak. Sainte-Adresse délután csendes, a naplementés visszautazás a sétányon a nap fénypontja.",
+            "ro": "Ciclismul de iarnă în Le Havre este revigorant dacă te protejezi de vânt. Dimineața, portul oferă vizibilitate clară. Urcarea spre Grădinile Suspendate îți pune sângele în mișcare, iar serele tropicale oferă căldură. Sainte-Adresse este liniștită după-amiaza, iar întoarcerea la apus pe faleză este punctul culminant.",
+            "en": "Winter cycling in Le Havre is refreshing as long as you guard against the wind. In the morning, the harbor offers clear views. The climb to the Hanging Gardens gets the circulation going, and the tropical greenhouses offer cozy warmth. Sainte-Adresse is quiet in the afternoon, and the sunset ride back along the promenade is the highlight."
+          },
+          "stops": [
+            {
+              "name": "Harbor Area",
+              "tip_5lang": {
+                "de": "Winddichte Handschuhe sind unerlässlich.",
+                "hu": "A szélálló kesztyű elengedhetetlen.",
+                "ro": "Mănușile rezistente la vânt sunt esențiale.",
+                "en": "Windproof gloves are essential here."
+              }
+            },
+            {
+              "name": "MuMa",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Foyer.",
+                "hu": "Rövid megálló a melegedéshez a fogadótérben.",
+                "ro": "Oprire scurtă pentru încălzire în foaier.",
+                "en": "Short stop to warm up in the foyer."
+              }
+            },
+            {
+              "name": "Hanging Gardens",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind im Winter beheizt.",
+                "hu": "Az üvegházakat télen fűtik.",
+                "ro": "Serele sunt încălzite iarna.",
+                "en": "The greenhouses are heated in winter."
+              }
+            },
+            {
+              "name": "Sainte-Adresse",
+              "tip_5lang": {
+                "de": "Bester Spot für das Winterpanorama.",
+                "hu": "A legjobb hely a téli panorámához.",
+                "ro": "Cel mai bun loc pentru panorama de iarnă.",
+                "en": "Best spot for the winter panorama."
+              }
+            },
+            {
+              "name": "Pain de Sucre",
+              "tip_5lang": {
+                "de": "Sehr exponiert, schnell weiterfahren.",
+                "hu": "Nagyon kitett hely, tekerj tovább gyorsan.",
+                "ro": "Foarte expus, continuă drumul rapid.",
+                "en": "Very exposed, move on quickly."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Sonnenuntergang genießen, dann Licht einschalten.",
+                "hu": "Élvezd a naplementét, aztán kapcsold be a lámpát.",
+                "ro": "Admiră apusul, apoi aprinde luminile.",
+                "en": "Enjoy the sunset, then turn on your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Prüfen Sie die Lichtanlage vor der Abfahrt.",
+              "Die Hängenden Gärten bieten die beste Aufwärmpause.",
+              "Achten Sie auf vereiste Stellen im Schatten."
+            ],
+            "hu": [
+              "Öltözködj rétegesen.",
+              "Indulás előtt ellenőrizd a lámpákat.",
+              "A Függőkertek biztosítják a legjobb melegedő szünetet.",
+              "Ügyelj a jeges foltokra az árnyékos részeken."
+            ],
+            "ro": [
+              "Îmbracă-te în straturi.",
+              "Verifică sistemul de iluminare înainte de plecare.",
+              "Grădinile Suspendate oferă cea mai bună pauză de încălzire.",
+              "Atenție la porțiunile înghețate la umbră."
+            ],
+            "en": [
+              "Dress in multiple thin layers.",
+              "Check your bike lights before starting.",
+              "The Hanging Gardens provide the best warm-up break.",
+              "Watch out for icy patches in shaded areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -742,6 +1514,318 @@
           "The toll for Pont de Normandie is approx. 5-6 €.",
           "Parking in Étretat is difficult in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie das UNESCO-Zentrum von Le Havre mit den spektakulären Klippen der Normandie. Nach einer Stadtbesichtigung fahren Sie nach Étretat, um die ikonischen Felsentore zu sehen. Zum Abschluss überqueren Sie die beeindruckende Pont de Normandie für einen Besuch im charmanten Honfleur.",
+            "hu": "Autóval összekötjük Le Havre UNESCO belvárosát Normandia látványos szikláival. A városnézés után Étretat felé vesszük az irányt, hogy megnézzük az ikonikus sziklakapukat. Végezetül átkelünk a monumentális Normandia-hídon a bájos Honfleur városába.",
+            "ro": "Cu mașina conectați centrul UNESCO din Le Havre cu stâncile spectaculoase ale Normandiei. După turul orașului, mergeți spre Étretat pentru a vedea porțile de stâncă emblematice. La final, traversați impresionantul Pont de Normandie pentru o vizită în fermecătorul Honfleur.",
+            "en": "By car, you connect the UNESCO center of Le Havre with the spectacular cliffs of Normandy. After a city tour, drive to Étretat to see the iconic rock arches. Finally, cross the impressive Pont de Normandie for a visit to the charming town of Honfleur."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentrum (UNESCO)",
+                "hu": "UNESCO Központ",
+                "ro": "Centrul UNESCO",
+                "en": "UNESCO Center"
+              },
+              "tip_5lang": {
+                "de": "Auguste Perrets Betonkunst.",
+                "hu": "Auguste Perret betonművészete.",
+                "ro": "Arta betonului a lui Auguste Perret.",
+                "en": "Auguste Perret's concrete art."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Hève",
+                "hu": "La Hève világítótorony",
+                "ro": "Farul de la Hève",
+                "en": "La Hève Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Ärmelkanal.",
+                "hu": "Kilátás a Csatornára.",
+                "ro": "Vedere spre Canalul Mânecii.",
+                "en": "View over the Channel."
+              }
+            },
+            {
+              "name": {
+                "de": "Étretat (Klippen)",
+                "hu": "Étretat (sziklák)",
+                "ro": "Étretat (stânci)",
+                "en": "Étretat (Cliffs)"
+              },
+              "tip_5lang": {
+                "de": "Die berühmten Kreidefelsen.",
+                "hu": "A híres krétafalak.",
+                "ro": "Celebrele stânci de cretă.",
+                "en": "The famous chalk cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Honfleur (Altes Becken)",
+                "hu": "Honfleur (öreg kikötő)",
+                "ro": "Honfleur (portul vechi)",
+                "en": "Honfleur (Old Basin)"
+              },
+              "tip_5lang": {
+                "de": "Malerische Hafenstadt.",
+                "hu": "Festői kikötőváros.",
+                "ro": "Oraș portuar pitoresc.",
+                "en": "Picturesque port town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cidre & Camembert",
+                "tip": "Normannische Klassiker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cidre & Camembert",
+                "tip": "Normandiai klasszikusok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cidre & Camembert",
+                "tip": "Clasice normande."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cidre & Camembert",
+                "tip": "Normandy classics."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Ruhiger Blick auf die Nadel von Étretat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Nyugodt kilátás az Étretat tűsziklára.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Vedere liniștită spre Acul din Étretat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Quiet view of the Étretat needle.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Honfleur Delikatessen",
+                "tip": "Kaufen Sie Calvados direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Honfleur finomságok",
+                "tip": "Vegyen Calvadost közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Honfleur Delicatese",
+                "tip": "Cumpărați Calvados direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Honfleur Delicacies",
+                "tip": "Buy Calvados directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Maut für die Pont de Normandie beträgt ca. 5-6 €.",
+              "Parken in Étretat ist im Sommer schwierig."
+            ],
+            "hu": [
+              "A Normandia-híd útdíja kb. 5-6 €.",
+              "Étretatban nyáron nehéz parkolni."
+            ],
+            "ro": [
+              "Taxa pentru Pont de Normandie este de aprox. 5-6 €.",
+              "Parcarea în Étretat este dificilă vara."
+            ],
+            "en": [
+              "The toll for Pont de Normandie is approx. 5-6 €.",
+              "Parking in Étretat is difficult in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Alabasterküste auch bei Regen ein Genuss. Vormittags erkunden wir das UNESCO-Zentrum trockenen Fußes. Die Fahrt zum Leuchtturm La Hève bietet dramatische Ausblicke auf die graue See. Mittags erreichen wir Étretat, wo der Nebel die Klippen in eine mystische Atmosphäre hüllt. Der Tag endet im malerischen Honfleur, wo die engen Gassen bei Regen besonders nostalgisch wirken.",
+            "hu": "Autóval az Alabástrom-part esőben is élvezetes. Délelőtt száraz lábbal fedezzük fel az UNESCO központot. A La Hève világítótoronyhoz vezető út drámai kilátást nyújt a szürke tengerre. Délben érünk Étretat-ba, ahol a köd misztikus homályba burkolja a sziklákat. A nap Honfleur-ben ér véget, ahol a szűk utcák esőben különösen nosztalgikusak.",
+            "ro": "Cu mașina, Coasta de Alabastru este o plăcere chiar și pe ploaie. Dimineața explorăm centrul UNESCO fără a ne uda. Drumul spre farul La Hève oferă vederi dramatice asupra mării gri. La prânz ajungem la Étretat, unde ceața învăluie stâncile într-o atmosferă mistică. Ziua se încheie în Honfleur, unde străzile înguste par nostalgice pe ploaie.",
+            "en": "By car, the Alabaster Coast is a joy even in the rain. In the morning, explore the UNESCO center dry-footed. The drive to La Hève Lighthouse offers dramatic views of the grey sea. At noon, we reach Étretat, where fog shrouds the cliffs in a mystical atmosphere. The day ends in picturesque Honfleur, where narrow streets feel particularly nostalgic in the rain."
+          },
+          "stops": [
+            {
+              "name": "UNESCO Center",
+              "tip_5lang": {
+                "de": "Parkhaus direkt unter dem Rathausplatz nutzen.",
+                "hu": "Használd a Városháza tér alatti parkolót.",
+                "ro": "Folosește parcarea de sub Piața Primăriei.",
+                "en": "Use the parking garage under Town Hall Square."
+              }
+            },
+            {
+              "name": "La Hève Lighthouse",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto genießen bei starkem Regen.",
+                "hu": "Élvezd a kilátást az autóból szakadó esőben.",
+                "ro": "Admiră priveliștea din mașină pe ploaie torențială.",
+                "en": "Enjoy the view from the car during heavy rain."
+              }
+            },
+            {
+              "name": "Étretat (Cliffs)",
+              "tip_5lang": {
+                "de": "Wanderwege können sehr schlammig sein.",
+                "hu": "A gyalogösvények nagyon sárosak lehetnek.",
+                "ro": "Potecile de drumeție pot fi foarte noroioase.",
+                "en": "Hiking trails can be very muddy."
+              }
+            },
+            {
+              "name": "Honfleur (Old Basin)",
+              "tip_5lang": {
+                "de": "Viele Restaurants mit direktem Hafenblick.",
+                "hu": "Sok étterem kínál közvetlen kilátást a kikötőre.",
+                "ro": "Multe restaurante cu vedere directă la port.",
+                "en": "Many restaurants offer direct harbor views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der Küstenstraße.",
+              "Die Parkplätze in Étretat sind bei Regen oft leerer.",
+              "Halten Sie an Aussichtspunkten mit Unterstand.",
+              "Ein Regenschirm ist für den Weg vom Parkplatz nötig."
+            ],
+            "hu": [
+              "Vigyázz a vízenfutásra a parti utakon.",
+              "Étretat parkolói esőben gyakran üresebbek.",
+              "Állj meg a fedett kilátópontoknál.",
+              "Esernyő kell a parkolótól a látnivalókig."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Parcările din Étretat sunt mai goale pe ploaie.",
+              "Oprește la punctele de belvedere cu adăpost.",
+              "O umbrelă este necesară de la parcare la obiective."
+            ],
+            "en": [
+              "Beware of aquaplaning on coastal roads.",
+              "Parking in Étretat is often easier during rain.",
+              "Stop at viewpoints that offer some shelter.",
+              "An umbrella is needed for the walk from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenstraßen bieten eine klare Sicht und wenig Verkehr. Morgens ist das UNESCO-Zentrum von Le Havre ruhig und friedlich. Die Fahrt zur Landspitze La Hève zeigt den Ärmelkanal in seiner rauen Winterpracht. In Étretat erleben wir die Klippen ohne Touristenmassen, was den Ort magisch macht. Den späten Nachmittag verbringen wir im beleuchteten Honfleur bei einer heißen Schokolade.",
+            "hu": "A téli parti utak tiszta látási viszonyokat és kevés forgalmat kínálnak. Reggel Le Havre UNESCO központja csendes és nyugodt. A La Hève fokhoz vezető út a Csatorna nyers téli szépségét mutatja. Étretat-ban a sziklákat turisták nélkül láthatjuk, ami mágikussá teszi a helyet. A késő délutánt a kivilágított Honfleur-ben töltjük egy forró csokoládé mellett.",
+            "ro": "Drumurile de coastă iarna oferă vizibilitate clară și trafic redus. Dimineața, centrul UNESCO din Le Havre este liniștit. Drumul spre capul La Hève arată Canalul Mânecii în splendoarea sa aspră de iarnă. La Étretat vedem stâncile fără mulțimi de turiști, ceea ce face locul magic. Petrecem după-amiaza târzie în Honfleur luminat, cu o ciocolată caldă.",
+            "en": "Winter coastal roads offer clear views and little traffic. In the morning, Le Havre's UNESCO center is quiet and peaceful. The drive to La Hève point shows the Channel in its raw winter glory. In Étretat, we experience the cliffs without the tourist crowds, making it magical. Spend the late afternoon in illuminated Honfleur with a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "UNESCO Center",
+              "tip_5lang": {
+                "de": "Keine Parkplatznot im Winter.",
+                "hu": "Télen nincs parkolási nehézség.",
+                "ro": "Fără probleme cu parcarea iarna.",
+                "en": "No parking shortage in winter."
+              }
+            },
+            {
+              "name": "La Hève Lighthouse",
+              "tip_5lang": {
+                "de": "Sehr windig, bleiben Sie nah am Auto.",
+                "hu": "Nagyon szeles, maradj az autó közelében.",
+                "ro": "Foarte vântos, stai aproape de mașină.",
+                "en": "Very windy, stay close to the car."
+              }
+            },
+            {
+              "name": "Étretat (Cliffs)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Klippenspaziergang.",
+                "hu": "Meleg ruha kell a sziklaparti sétához.",
+                "ro": "Haine groase pentru plimbarea pe stânci.",
+                "en": "Warm clothing required for the cliff walk."
+              }
+            },
+            {
+              "name": "Honfleur (Old Basin)",
+              "tip_5lang": {
+                "de": "Wunderschöne Winterbeleuchtung am Abend.",
+                "hu": "Csodálatos téli kivilágítás este.",
+                "ro": "Iluminat de iarnă superb seara.",
+                "en": "Beautiful winter lighting in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte auf exponierten Brücken.",
+              "Tagfahrlicht ist bei Winternebel Pflicht.",
+              "Die Klippenwege in Étretat können vereist sein.",
+              "Genießen Sie die Ruhe der Nebensaison."
+            ],
+            "hu": [
+              "Ügyelj a jegesedésre a hidakon.",
+              "Téli ködben használd a nappali menetfényt.",
+              "Étretat sziklaösvényei jegesek lehetnek.",
+              "Élvezd a holtszezon nyugalmát."
+            ],
+            "ro": [
+              "Atenție la polei pe podurile expuse.",
+              "Luminile de zi sunt obligatorii pe ceață de iarnă.",
+              "Potecile de pe stânci la Étretat pot fi înghețate.",
+              "Bucură-te de liniștea din extrasezon."
+            ],
+            "en": [
+              "Watch out for icy patches on exposed bridges.",
+              "Daytime running lights are a must in winter fog.",
+              "Cliff paths in Étretat can be icy.",
+              "Enjoy the peace of the low season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -996,34 +2080,383 @@
           "Buy a day pass for bus and tram.",
           "The funicular is included in the regular ticket."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das ausgezeichnete ÖPNV-Netz mit Straßenbahn und der historischen Seilbahn. Sie besuchen die wichtigsten UNESCO-Stätten im Zentrum, fahren hinauf zu den Hängenden Gärten für einen weiten Blick und entspannen in den modernen Bains des Docks im Hafengebiet.",
+            "hu": "Használja a kiváló tömegközlekedési hálózatot villamossal és a történelmi siklóval. Meglátogatjuk a központ legfontosabb UNESCO helyszíneit, felutazunk a Függőkertekhez a panorámáért, majd lazítunk a kikötői negyed modern Bains des Docks fürdőjében.",
+            "ro": "Utilizați rețeaua excelentă de transport public cu tramvaiul și funicularul istoric. Vizitați principalele situri UNESCO din centru, urcați la Grădinile Suspendate pentru panoramă și relaxați-vă în modernul Bains des Docks din zona portului.",
+            "en": "Use the excellent public transport network with the tram and the historical funicular. You will visit the key UNESCO sites in the center, ride up to the Hanging Gardens for a wide view, and relax in the modern Bains des Docks in the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Le Havre",
+                "hu": "Le Havre pályaudvar",
+                "ro": "Gara Le Havre",
+                "en": "Le Havre Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt.",
+                "hu": "Központi közlekedési csomópont.",
+                "ro": "Nod central de transport.",
+                "en": "Central transport hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville (Tram)",
+                "hu": "Városháza (villamos)",
+                "ro": "Primăria (tramvai)",
+                "en": "Town Hall (Tram)"
+              },
+              "tip_5lang": {
+                "de": "Moderne Straßenbahnlinie.",
+                "hu": "Modern villamosvonal.",
+                "ro": "Linie de tramvai modernă.",
+                "en": "Modern tram line."
+              }
+            },
+            {
+              "name": {
+                "de": "Funiculaire (Seilbahn)",
+                "hu": "Funiculaire (sikló)",
+                "ro": "Funicular",
+                "en": "Funicular"
+              },
+              "tip_5lang": {
+                "de": "Verbindet Unter- und Oberstadt.",
+                "hu": "Összeköti az alsó és felső várost.",
+                "ro": "Conectează orașul de jos cu cel de sus.",
+                "en": "Connects lower and upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Jardins Suspendus",
+                "hu": "Függőkertek",
+                "ro": "Grădinile Suspendate",
+                "en": "Hanging Gardens"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 5 oder 6.",
+                "hu": "5-ös vagy 6-os busz.",
+                "ro": "Linia de autobuz 5 sau 6.",
+                "en": "Bus line 5 or 6."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains des Docks",
+                "hu": "Bains des Docks",
+                "ro": "Bains des Docks",
+                "en": "Bains des Docks"
+              },
+              "tip_5lang": {
+                "de": "Design-Schwimmbad von Jean Nouvel.",
+                "hu": "Jean Nouvel által tervezett fürdő.",
+                "ro": "Piscină de design de Jean Nouvel.",
+                "en": "Design pool by Jean Nouvel."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Oscar Niemeyer",
+                "hu": "Oscar Niemeyer tér",
+                "ro": "Spațiul Oscar Niemeyer",
+                "en": "Oscar Niemeyer Space"
+              },
+              "tip_5lang": {
+                "de": "Vom Zentrum aus leicht zu erreichen.",
+                "hu": "A központból könnyen elérhető.",
+                "ro": "Ușor de accesat din centru.",
+                "en": "Easy to reach from the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie-Cafés im Zentrum",
+                "tip": "Frische Eclairs und Baguettes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pékségek a központban",
+                "tip": "Friss eclairek és baguette-ek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutării în centru",
+                "tip": "Eclere și baghete proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bakeries in the center",
+                "tip": "Fresh eclairs and baguettes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bibliothèque Oscar Niemeyer",
+                "tip": "Stille und Architektur pur.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Oscar Niemeyer Könyvtár",
+                "tip": "Csend és tiszta építészet.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biblioteca Oscar Niemeyer",
+                "tip": "Liniște și arhitectură pură.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Oscar Niemeyer Library",
+                "tip": "Pure quiet and architecture.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Quartier Coty",
+                "tip": "Haupteinkaufsstraße der Oberstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Quartier Coty",
+                "tip": "A felsőváros fő bevásárlónegyede."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Quartier Coty",
+                "tip": "Principala zonă comercială din orașul de sus."
+              }
+            ],
+            "en": [
+              {
+                "name": "Quartier Coty",
+                "tip": "Main shopping district of the upper town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Tageskarte für Bus und Bahn.",
+              "Die Seilbahn ist im normalen Ticket enthalten."
+            ],
+            "hu": [
+              "Vegyen napijegyet a buszokra és villamosokra.",
+              "A sikló használata benne van a normál jegyben."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz și tramvai.",
+              "Funicularul este inclus în biletul normal."
+            ],
+            "en": [
+              "Buy a day pass for bus and tram.",
+              "The funicular is included in the regular ticket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die moderne Straßenbahn von Le Havre ist der beste Ort bei Regen. Wir starten am Bahnhof und fahren zum Rathaus, geschützt vor dem Wetter. Die Standseilbahn bringt uns trocken nach oben, wo wir die Hängenden Gärten besuchen – die Gewächshäuser sind eine Oase. Der Nachmittag in den 'Bains des Docks' ist das ultimative Regenerlebnis, bevor wir den Tag im Espace Oscar Niemeyer ausklingen lassen.",
+            "hu": "Le Havre modern villamosa a legjobb hely esőben. A vasútállomástól indulunk a Városháza felé, védve az időjárástól. A sikló szárazon visz fel a Függőkertekhez, ahol az üvegházak igazi oázist jelentenek. A délután a 'Bains des Docks' fürdőben az ultimátum esős program, mielőtt az Oscar Niemeyer térnél zárnánk a napot.",
+            "ro": "Tramvaiul modern din Le Havre este cel mai bun loc pe ploaie. Pornim de la gară spre Primărie, protejați de vreme. Funicularul ne duce uscați sus la Grădinile Suspendate – serele sunt o oază. După-amiaza la 'Bains des Docks' este experiența supremă pe ploaie, înainte de a încheia ziua la Spațiul Oscar Niemeyer.",
+            "en": "Le Havre's modern tram is the best place to be in the rain. We start at the station and head to the Town Hall, protected from the weather. The funicular takes us dry to the Hanging Gardens – the greenhouses are an oasis. An afternoon at 'Bains des Docks' is the ultimate rainy day experience before ending at Oscar Niemeyer Space."
+          },
+          "stops": [
+            {
+              "name": "Le Havre Station",
+              "tip_5lang": {
+                "de": "Wartebereiche sind komplett überdacht.",
+                "hu": "A váróterületek teljesen fedettek.",
+                "ro": "Zonele de așteptare sunt complet acoperite.",
+                "en": "Waiting areas are fully covered."
+              }
+            },
+            {
+              "name": "Town Hall (Tram)",
+              "tip_5lang": {
+                "de": "Kurzer Weg zu den Arkaden.",
+                "hu": "Rövid séta az árkádokig.",
+                "ro": "Drum scurt până la arcade.",
+                "en": "Short walk to the arcades."
+              }
+            },
+            {
+              "name": "Funicular",
+              "tip_5lang": {
+                "de": "Bester Weg nach oben ohne nass zu werden.",
+                "hu": "A legjobb út felfelé anélkül, hogy eláznál.",
+                "ro": "Cea mai bună cale de a urca fără a te uda.",
+                "en": "Best way to go up without getting wet."
+              }
+            },
+            {
+              "name": "Hanging Gardens",
+              "tip_5lang": {
+                "de": "Haupteingang nah an der Bushaltestelle.",
+                "hu": "A főbejárat közel van a buszmegállóhoz.",
+                "ro": "Intrarea principală este aproape de stația de autobuz.",
+                "en": "Main entrance is close to the bus stop."
+              }
+            },
+            {
+              "name": "Bains des Docks",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Regentag.",
+                "hu": "Tökéletes hely esős napokra.",
+                "ro": "Loc perfect pentru o zi ploioasă.",
+                "en": "Perfect place for a rainy day."
+              }
+            },
+            {
+              "name": "Oscar Niemeyer Space",
+              "tip_5lang": {
+                "de": "Untergrund-Passagen bieten Schutz.",
+                "hu": "A föld alatti átjárók védelmet nyújtanak.",
+                "ro": "Pasajele subterane oferă protecție.",
+                "en": "Underground passages provide shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die LiA-App für Echtzeit-Infos.",
+              "Die Straßenbahnlinien A und B fahren alle paar Minuten.",
+              "Bains des Docks ist ein Muss bei Regen.",
+              "Das Tagesticket lohnt sich für häufiges Umsteigen."
+            ],
+            "hu": [
+              "Használd a LiA appot a valós idejű infókért.",
+              "Az A és B villamosvonalak percenként járnak.",
+              "A Bains des Docks kötelező esőben.",
+              "A napijegy megéri a gyakori átszállásokhoz."
+            ],
+            "ro": [
+              "Folosește aplicația LiA pentru info în timp real.",
+              "Liniile de tramvai A și B circulă la câteva minute.",
+              "Bains des Docks este obligatoriu pe ploaie.",
+              "Abonamentul de o zi merită pentru schimbări dese."
+            ],
+            "en": [
+              "Use the LiA app for real-time transit info.",
+              "Tram lines A and B run every few minutes.",
+              "Bains des Docks is a must on a rainy day.",
+              "A day ticket is worth it for frequent transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erkunden wir Le Havre im Winter warm und bequem. Vom Bahnhof bringt uns die Straßenbahn durch das klare Winterlicht der Stadt. Die Standseilbahn bietet einen windgeschützten Blick auf das Panorama. Die beheizten Becken der 'Bains des Docks' sind im Winter ein luxuriöses Erlebnis. Abends genießen wir die beleuchtete Architektur von Niemeyer, bevor es mit dem Bus zurückgeht.",
+            "hu": "A tömegközlekedéssel télen is kényelmesen és melegben fedezhetjük fel Le Havre-t. A vasútállomástól a villamos a város tiszta téli fényeiben visz minket. A sikló szélvédett kilátást nyújt a panorámára. A 'Bains des Docks' fűtött medencéi télen luxusélményt jelentenek. Este Niemeyer kivilágított építészetében gyönyörködünk, mielőtt busszal visszatérnénk.",
+            "ro": "Cu transportul public explorăm Le Havre iarna în mod confortabil. De la gară, tramvaiul ne poartă prin lumina clară de iarnă a orașului. Funicularul oferă o vedere panoramică protejată de vânt. Bazinele încălzite de la 'Bains des Docks' sunt o experiență de lux iarna. Seara admirăm arhitectura luminată a lui Niemeyer înainte de a reveni cu autobuzul.",
+            "en": "Public transit allows us to explore Le Havre in winter while staying warm and comfy. From the station, the tram takes us through the city's clear winter light. The funicular offers a wind-sheltered view of the panorama. The heated pools of 'Bains des Docks' are a luxury in winter. In the evening, enjoy Niemeyer's illuminated architecture before heading back by bus."
+          },
+          "stops": [
+            {
+              "name": "Le Havre Station",
+              "tip_5lang": {
+                "de": "Drinnen warten, bis der Zug/Bus kommt.",
+                "hu": "Várj bent, amíg a vonat vagy busz beérkezik.",
+                "ro": "Așteaptă în interior până sosește trenul/autobuzul.",
+                "en": "Wait inside until your train or bus arrives."
+              }
+            },
+            {
+              "name": "Town Hall (Tram)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, oft beheizte Bahnen.",
+                "hu": "Központi csomópont, gyakran fűtött szerelvények.",
+                "ro": "Nod central, tramvaie adesea încălzite.",
+                "en": "Central hub, often with heated trams."
+              }
+            },
+            {
+              "name": "Funicular",
+              "tip_5lang": {
+                "de": "Toller Blick auf die Winterstadt.",
+                "hu": "Nagyszerű kilátás a téli városra.",
+                "ro": "Vedere excelentă asupra orașului iarna.",
+                "en": "Great view of the winter city."
+              }
+            },
+            {
+              "name": "Hanging Gardens",
+              "tip_5lang": {
+                "de": "Im Winter sind die Gewächshäuser der Hit.",
+                "hu": "Télen az üvegházak a legnépszerűbbek.",
+                "ro": "Serele sunt atracția principală iarna.",
+                "en": "Greenhouses are the big hit in winter."
+              }
+            },
+            {
+              "name": "Bains des Docks",
+              "tip_5lang": {
+                "de": "Das warme Außenbecken im Winter ist magisch.",
+                "hu": "A meleg külső medence télen mágikus.",
+                "ro": "Piscina exterioară caldă este magică iarna.",
+                "en": "The warm outdoor pool is magical in winter."
+              }
+            },
+            {
+              "name": "Oscar Niemeyer Space",
+              "tip_5lang": {
+                "de": "Abends schön beleuchtet.",
+                "hu": "Este gyönyörűen kivilágítva.",
+                "ro": "Frumos iluminat seara.",
+                "en": "Beautifully lit up in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen variieren.",
+              "Die Standseilbahn schließt im Winter teils früher.",
+              "Bains des Docks bietet Entspannung bei Kälte.",
+              "Trams sind der wärmste Weg durch die Stadt."
+            ],
+            "hu": [
+              "A menetrendek ünnepnapokon változhatnak.",
+              "A sikló télen néha korábban zár.",
+              "A Bains des Docks ellazít a hidegben.",
+              "A villamos a legmelegebb út a városon át."
+            ],
+            "ro": [
+              "Orarele pot varia în zilele de sărbătoare.",
+              "Funicularul se închide uneori mai devreme iarna.",
+              "Bains des Docks oferă relaxare pe timp de frig.",
+              "Tramvaiele sunt cea mai călduroasă cale prin oraș."
+            ],
+            "en": [
+              "Schedules may vary on public holidays.",
+              "The funicular sometimes closes earlier in winter.",
+              "Bains des Docks offers relaxation during the cold.",
+              "Trams are the warmest way to get across the city."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.lehavre-etretat-tourisme.com/",
-    "events": "https://www.lehavre-etretat-tourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.transports-lia.fr/",
-    "language_tips": {
-      "de": "Le Havre spricht normannisches Franzoesisch, klar und etwas rauer. Im Hafen und in der Modernen Innenstadt (Perret-Architektur) findet man Englisch, in Marktstaenden weniger. 'Bonjour' beim Eintreten ist Pflicht, sonst gilt man als unhoeflich.",
-      "hu": "Le Havre normandiai franciat beszel, tiszta es kicsit erdesebb. A kikotoben es a modern (Perret-fele) belvarosban van angol, a piaci standoknal mar kevesbe. A bolepeskori 'bonjour' kotelezo, kulonben udvariatlannak tartanak.",
-      "ro": "La Le Havre se vorbeste franceza normanda, clara si putin mai aspra. In port si in centrul modern (arhitectura Perret) engleza se descurca, in piete mai putin. 'Bonjour' la intrare e obligatoriu, altfel esti considerat nepoliticos.",
-      "en": "Le Havre speaks Norman French, clear and a bit rougher. English works in the port and modern Perret-built centre, less so at market stalls. A 'bonjour' on entering any shop is mandatory or you'll be tagged as rude."
-    },
-    "best_time_to_visit": {
-      "de": "Juni bis September sind ideal: 18-22 Grad, lange Abende am Hafenbecken und Strand-Promenade aktiv. Im Juli-August Festival 'Un Ete au Havre' mit Open-Air-Kunst. Winter windig und nass (5-9 Grad), die Atlantikbrise ist hart, aber das UNESCO-Stadtbild im Nebel hat seinen Reiz.",
-      "hu": "Junius-szeptember a legjobb: 18-22 fok, hosszu estek a kikotonel es elenk strand-promenad. Julius-augusztusban 'Un Ete au Havre' fesztival, szabadteri muveszettel. Tel szeles es nyirkos (5-9 fok), kemeny atlanti szel, de a kodos UNESCO-varoskep is varazslatos.",
-      "ro": "Iunie pana in septembrie sunt ideale: 18-22 grade, seri lungi pe cheiuri si promenada animata. In iulie-august festivalul 'Un Ete au Havre' aduce arta in aer liber. Iarna e vantoasa si umeda (5-9 grade), briza atlantica e dura, dar orasul UNESCO in ceata are farmecul lui.",
-      "en": "June to September are ideal: 18-22°C, long harbour-side evenings and a lively beach promenade. July-August bring the 'Un Ete au Havre' open-air art festival. Winter is windy and damp (5-9°C), the Atlantic gusts are harsh, but the misty UNESCO skyline has its own moody charm."
-    },
-    "neighborhood_warnings": {
-      "de": "Bahnhofsumgebung und Quartier Caucriauville abends meiden. Strandpromenade und Perret-Innenstadt sicher. Im Hafen-Industriebereich nicht zu Fuss umherwandern, das ist Arbeitsgelaende.",
-      "hu": "Az allomas kornyeke es Caucriauville este nem ajanlott. A strand-promenad es a Perret-belvaros biztonsagos. A kikoto ipari teruletein ne setalj, az munkaterulet.",
-      "ro": "Zona garii si cartierul Caucriauville sunt de evitat seara. Promenada de la plaja si centrul Perret sunt sigure. Nu te plimba pe jos prin zona industriala portuara, e teritoriu de munca.",
-      "en": "Avoid the area around the train station and Caucriauville district at night. The beach promenade and Perret centre are safe. Don't wander the industrial port zones on foot — these are working areas, not for sightseeing."
-    },
-    "parking_real_time": ""
   }
 }

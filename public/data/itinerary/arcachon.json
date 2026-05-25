@@ -300,6 +300,422 @@
           "Visit the market before 1 PM as it closes for lunch.",
           "Book boat trips in advance during peak season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Thiers-Pier mit einer Meeresbrise. Steigen Sie hinauf in die elegante Ville d'Hiver, um die prächtigen Villen zu bestaunen, und entspannen Sie im botanischen Parc Mauresque. Mittags lockt die Markthalle mit lokalen Köstlichkeiten. Den Nachmittag verbringen Sie am goldenen Sandstrand, bevor Sie den Tag auf der lebhaften Promenade ausklingen lassen.",
+            "hu": "Kezdje a napot a Thiers-mólónál, érezve az óceán illatát. Sétáljon fel az elegáns Téli Városba a különleges villák közé, majd pihenjen a Mór Park növényei alatt. Ebédre a vásárcsarnok osztrigái várják. A délutánt töltse a homokos strandon, végül élvezze a naplementét a nyüzsgő tengerparti sétányon egy kellemes séta keretében.",
+            "ro": "Începeți ziua la debarcaderul Thiers cu o briză marină. Urcați în elegantul Oraș de Iarnă pentru a admira vilele spectaculoase și relaxați-vă în Parcul Mauresque. La prânz, piața centrală vă atrage cu delicii locale. Petreceți după-amiaza pe plaja cu nisip auriu, înainte de a încheia ziua cu o plimbare relaxantă pe promenada falezei.",
+            "en": "Start your day at the Thiers Pier with a fresh sea breeze. Climb up to the elegant Winter Town to admire the historic villas and relax in the botanical Mauresque Park. For lunch, the market hall offers exquisite local seafood. Spend the afternoon on the golden beach before ending your day with a sunset stroll along the lively seafront promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetée Thiers",
+                "hu": "Jetée Thiers móló",
+                "ro": "Jetée Thiers",
+                "en": "Jetée Thiers"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier für den Blick auf das Becken.",
+                "hu": "Kezdje itt a napot az öböl panorámájával.",
+                "ro": "Începeți aici pentru vederea asupra golfului.",
+                "en": "Start here for the best bay views."
+              }
+            },
+            {
+              "name": {
+                "de": "Ville d'Hiver (Winterstadt)",
+                "hu": "Ville d'Hiver (Téli város)",
+                "ro": "Orașul de Iarnă",
+                "en": "Winter Town"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Villen aus dem 19. Jahrhundert.",
+                "hu": "Csodálja meg a 19. századi exkluzív villákat.",
+                "ro": "Admirați vilele spectaculoase din secolul XIX.",
+                "en": "Admire the unique 19th-century villas."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Mauresque",
+                "hu": "Mór Park",
+                "ro": "Parcul Mauresque",
+                "en": "Mauresque Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug, um zum Park zu gelangen.",
+                "hu": "Használja a liftet a park megközelítéséhez.",
+                "ro": "Folosiți ascensorul pentru a ajunge în parc.",
+                "en": "Use the public elevator to reach the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle von Arcachon",
+                "hu": "Arcachoni Vásárcsarnok",
+                "ro": "Piața Centrală Arcachon",
+                "en": "Arcachon Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie frische Austern direkt am Stand.",
+                "hu": "Kóstoljon friss osztrigát közvetlenül az árusoknál.",
+                "ro": "Gustați stridii proaspete direct de la tarabe.",
+                "en": "Taste fresh oysters directly at the stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Arcachon",
+                "hu": "Arcachon strand",
+                "ro": "Plaja Arcachon",
+                "en": "Arcachon Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein erfrischendes Bad am Nachmittag.",
+                "hu": "Tökéletes hely egy délutáni mártózáshoz.",
+                "ro": "Locul ideal pentru o baie de după-amiază.",
+                "en": "Perfect for a refreshing afternoon swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade du Front de Mer",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada Falezei",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Eis am Meer.",
+                "hu": "Zárja a napot egy fagyival a tengerparton.",
+                "ro": "Încheiați ziua cu o înghețată pe faleză.",
+                "en": "End your day with an ice cream by the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Austern aus dem Becken",
+                "tip": "Frisch serviert in der Markthalle."
+              },
+              {
+                "name": "Dune Blanche",
+                "tip": "Süßes Gebäck von Chez Pascal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Öbölbéli osztriga",
+                "hu": "Frissen a vásárcsarnokban tálalva."
+              },
+              {
+                "name": "Dune Blanche",
+                "hu": "Híres tejszínes sütemény a Chez Pascaltól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stridii de Arcachon",
+                "tip": "Servite proaspete în piața centrală."
+              },
+              {
+                "name": "Dune Blanche",
+                "tip": "Patiserie celebră de la Chez Pascal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arcachon Oysters",
+                "tip": "Freshly served at the local market."
+              },
+              {
+                "name": "Dune Blanche",
+                "tip": "Famous cream-filled pastry from Chez Pascal."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Observatoire Sainte-Cécile",
+                "tip": "Panoramablick über die Stadt.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parc Mauresque Bänke",
+                "tip": "Schattige Ruheoase.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sainte-Cécile kilátó",
+                "tip": "Panoráma az egész öbölre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mór Park padjai",
+                "tip": "Árnyékos pihenőhely.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Observatorul Sainte-Cécile",
+                "tip": "Vedere panoramică asupra orașului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Băncile din Parcul Mauresque",
+                "tip": "Oază de liniște la umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sainte-Cécile Observatory",
+                "tip": "Panoramic view over the city and bay.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mauresque Park benches",
+                "tip": "Shady spot for relaxation.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Halle d'Arcachon",
+                "tip": "Lokale Weine und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arcachoni Csarnok",
+                "tip": "Helyi borok és kézműves sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Arcachon",
+                "tip": "Vinuri locale și brânzeturi artizanale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arcachon Market",
+                "tip": "Local wines and artisanal cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den Aufzug zum Parc Mauresque, um Kraft zu sparen.",
+              "Besuchen Sie den Markt vor 13:00 Uhr.",
+              "Buchen Sie Bootstouren im Voraus."
+            ],
+            "hu": [
+              "Használja a liftet a Mór Parkhoz, ha nem akar dombra mászni.",
+              "A piac 13:00-kor bezár, érkezzen időben.",
+              "A hajótúrákra érdemes előre jegyet váltani."
+            ],
+            "ro": [
+              "Folosiți ascensorul către Parcul Mauresque pentru a evita urcușul.",
+              "Piața se închide la ora 13:00, mergeți devreme.",
+              "Rezervați excursiile cu barca în avans."
+            ],
+            "en": [
+              "Use the elevator to Mauresque Park to save your energy.",
+              "Visit the market before 1 PM as it closes for lunch.",
+              "Book boat trips in advance during peak season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die Jetée Thiers vor dem Wind, während der Regen auf die Bucht peitscht. Mittags bietet die Markthalle von Arcachon einen warmen, trockenen Zufluchtsort voller Aromen. Am Nachmittag verwandelt der Regen die Ville d'Hiver in eine mystische Kulisse unter Pinien. Den Abend verbringen wir geschützt in einem Café an der Promenade, wo wir das graue Meer beobachten.",
+            "hu": "Reggel a Jetée Thiers mólón a szél és az eső vadregényes arcát mutatja az öbölnek. Délben az Arcachon vásárcsarnok fedett menedéket és meleg falatokat kínál. Délután a Téli Város villái között az eső illata keveredik a fenyőével, misztikus hangulatot árasztva. Az estét a parti sétány egyik védett teraszán zárjuk, figyelve a hullámok játékát a szürke ég alatt.",
+            "ro": "Dimineața, Jetée Thiers oferă o priveliște dramatică asupra golfului sub ploaie. La prânz, piața acoperită din Arcachon devine refugiul perfect pentru gastronomie locală. După-amiaza, vilele din Orașul de Iarnă capătă un aer nostalgic printre pinii uzi. Seara se încheie la adăpost pe faleză, privind spectacolul melancolic al mării sub cerul plumburiu.",
+            "en": "Morning at Jetée Thiers offers a dramatic view of the rain-swept bay. At noon, the Arcachon Market Hall provides a cozy, dry sanctuary filled with local delicacies. In the afternoon, the villas of the Winter Town take on a mystical atmosphere under the wet pines. The evening ends sheltered on the promenade, watching the waves roll in under the grey Atlantic sky."
+          },
+          "stops": [
+            {
+              "name": "Jetée Thiers",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier Pflicht.",
+                "hu": "Szélálló esőkabát erősen ajánlott.",
+                "ro": "Pelerina de ploaie este obligatorie aici.",
+                "en": "Windproof rain gear is essential here."
+              }
+            },
+            {
+              "name": "Winter Town",
+              "tip_5lang": {
+                "de": "Die dichten Pinien bieten natürlichen Schutz.",
+                "hu": "A sűrű fenyves természetes esernyőként véd.",
+                "ro": "Pinii deși oferă o protecție naturală.",
+                "en": "Dense pines provide some natural shelter."
+              }
+            },
+            {
+              "name": "Mauresque Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den überdachten Pavillon.",
+                "hu": "Keresse a fedett pavilon védelmét.",
+                "ro": "Căutați adăpost în pavilionul acoperit.",
+                "en": "Look for shelter in the covered pavilion."
+              }
+            },
+            {
+              "name": "Arcachon Market Hall",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um den Regen abzuwarten.",
+                "hu": "Ideális hely az eső kivárására.",
+                "ro": "Locul ideal pentru a aștepta oprirea ploii.",
+                "en": "The perfect spot to wait out the heavy rain."
+              }
+            },
+            {
+              "name": "Arcachon Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die leere, graue Weite.",
+                "hu": "Élvezze az üres, szürke végtelent.",
+                "ro": "Bucurați-vă de pustietatea gri a plajei.",
+                "en": "Enjoy the empty, moody grey expanse."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Viele Arkaden bieten trockene Gehwege.",
+                "hu": "Az árkádok alatt szárazon sétálhat.",
+                "ro": "Arcadele oferă trotuare uscate.",
+                "en": "The arcades offer dry walking paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe.",
+              "Nutzen Sie die Markthalle für längere Pausen.",
+              "Die Ville d'Hiver ist bei Regen besonders ruhig.",
+              "Vermeiden Sie offene Sandflächen bei Starkregen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt.",
+              "Használja a vásárcsarnokot hosszabb pihenőre.",
+              "A Téli Város esőben különösen csendes.",
+              "Kerülje a nyílt homokos részeket nagy esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă.",
+              "Folosiți piața pentru pauze mai lungi.",
+              "Orașul de Iarnă este foarte liniștit pe ploaie.",
+              "Evitați zonele deschise cu nisip pe ploaie torențială."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes.",
+              "Use the market hall for longer breaks.",
+              "The Winter Town is exceptionally quiet in the rain.",
+              "Avoid open sandy areas during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Pier beginnt mit klarer, kalter Meeresluft. Mittags wärmt uns die Ville d'Hiver mit ihrer geschützten Lage vor den atlantischen Winden. Am Nachmittag genießen wir den leeren Strand und die tiefstehende Sonne, bevor wir uns bei Einbruch der Dunkelheit in die Gourmet-Viertel zurückziehen. Die Stadt strahlt eine vornehme, winterliche Ruhe aus.",
+            "hu": "A téli reggel a mólón friss, csípős tengeri levegővel indul. Délben a Téli Város védett fekvése óv meg minket az atlanti szelektől. Délután az üres strandot és az alacsonyan járó napot élvezzük, majd sötétedéskor a gasztronómiai negyed melegébe húzódunk. A város ilyenkor elegáns és csendes, távol a nyári tömegtől.",
+            "ro": "Dimineața de iarnă pe dig începe cu aer marin rece și curat. La prânz, Orașul de Iarnă ne protejează de vânturile atlantice datorită poziției sale. După-amiaza savurăm plaja pustie și soarele palid, iar la lăsarea serii ne retragem în căldura cartierelor gurmande. Orașul emană o liniște nobilă de iarnă.",
+            "en": "The winter morning on the pier starts with crisp, cold sea air. At noon, the Winter Town warms us with its sheltered location away from Atlantic winds. In the afternoon, we enjoy the empty beach and the low sun before retreating to the warmth of the gourmet districts at dusk. The city radiates a refined, winter serenity."
+          },
+          "stops": [
+            {
+              "name": "Jetée Thiers",
+              "tip_5lang": {
+                "de": "Handschuhe gegen den Seewind anziehen.",
+                "hu": "Húzzon kesztyűt a tengeri szél ellen.",
+                "ro": "Puneți-vă mănuși împotriva vântului marin.",
+                "en": "Wear gloves against the biting sea breeze."
+              }
+            },
+            {
+              "name": "Winter Town",
+              "tip_5lang": {
+                "de": "Hier ist es spürbar wärmer als am Meer.",
+                "hu": "Itt érezhetően melegebb van, mint a parton.",
+                "ro": "Aici este vizibil mai cald decât pe mal.",
+                "en": "It is noticeably warmer here than by the shore."
+              }
+            },
+            {
+              "name": "Mauresque Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne auf den Bänken genießen.",
+                "hu": "Élvezze a téli napsütést a padokon.",
+                "ro": "Bucurați-vă de soarele de iarnă pe bănci.",
+                "en": "Enjoy the winter sun on the park benches."
+              }
+            },
+            {
+              "name": "Arcachon Market Hall",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee.",
+                "hu": "Igyon meg itt egy forró kávét.",
+                "ro": "Luați o cafea fierbinte aici.",
+                "en": "Grab a hot coffee here to warm up."
+              }
+            },
+            {
+              "name": "Arcachon Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Winterspaziergang.",
+                "hu": "Ideális egy tempós téli sétához.",
+                "ro": "Ideal pentru o plimbare rapidă de iarnă.",
+                "en": "Ideal for a brisk winter walk."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist bereits gegen 17:15.",
+                "hu": "A naplemente már 17:15 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 17:15.",
+                "en": "Sunset occurs early, around 17:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip).",
+              "Nutzen Sie die geschützte Ville d'Hiver.",
+              "Achtung, die Sonne geht früh unter.",
+              "Viele Strandcafés haben im Winter geschlossen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen.",
+              "Használja ki a Téli Város védett utcáit.",
+              "Figyelem, a nap korán nyugszik.",
+              "Sok strandközeli büfé zárva van télen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în mai multe straturi.",
+              "Profitați de străzile protejate din oraș.",
+              "Atenție, soarele apune devreme.",
+              "Multe cafenele de pe plajă sunt închise iarna."
+            ],
+            "en": [
+              "Dress in layers (onion principle).",
+              "Take advantage of the sheltered Winter Town.",
+              "Note that the sun sets very early.",
+              "Many beachside kiosks are closed in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -535,6 +951,354 @@
           "Watch out for pedestrians on the shared promenade.",
           "The cycle paths are mostly flat and easy."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Küste von Arcachon auf zwei Rädern. Fahren Sie vom Eyrac-Pier in das schicke Viertel Le Moulleau, vorbei an Pinienwäldern. Besuchen Sie die Kirche Notre-Dame am Meer und verbringen Sie die Mittagszeit am entspannten Abatilles-Strand. Beenden Sie Ihre Tour im Hafen, wo Sie das geschäftige Treiben der Fischer beobachten können.",
+            "hu": "Fedezze fel Arcachon partvonalát két keréken. Tekerjen az Eyrac-mólótól az elegáns Le Moulleau negyedbe, fenyőerdők mentén. Látogassa meg a tengerparti Notre-Dame templomot, majd töltse a délutánt a nyugodt Abatilles strandon. A túrát a kikötőben zárja, ahol megfigyelheti a halászhajók érkezését.",
+            "ro": "Explorați coasta Arcachonului pe două roți. Pedalați de la debarcaderul Eyrac spre elegantul cartier Le Moulleau, prin păduri de pini. Vizitați biserica Notre-Dame de lângă mare și petreceți amiaza pe plaja relaxantă Abatilles. Încheiați turul în port, observând activitatea pescarilor locali.",
+            "en": "Explore the Arcachon coastline on two wheels. Cycle from Eyrac Pier to the chic Le Moulleau district through scenic pine forests. Visit the seaside Notre-Dame church and spend your midday at the relaxed Abatilles Beach. Finish your tour at the harbor, watching the busy life of the local fishermen."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetée d'Eyrac",
+                "hu": "Eyrac móló",
+                "ro": "Jetée d'Eyrac",
+                "en": "Eyrac Pier"
+              },
+              "tip_5lang": {
+                "de": "Ruhigerer Startpunkt für Radfahrer.",
+                "hu": "Csendesebb indulópont bicikliseknek.",
+                "ro": "Punct de plecare mai liniștit pentru bicicliști.",
+                "en": "A quieter starting point for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Moulleau",
+                "hu": "Le Moulleau negyed",
+                "ro": "Cartierul Le Moulleau",
+                "en": "Le Moulleau District"
+              },
+              "tip_5lang": {
+                "de": "Schicke Boutique-Viertel am Ende des Radwegs.",
+                "hu": "Elegáns butiknegyed a kerékpárút végén.",
+                "ro": "Cartier elegant cu buticuri la capătul pistei.",
+                "en": "Chic boutique district at the end of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-des-Passages",
+                "hu": "Notre-Dame-des-Passages templom",
+                "ro": "Biserica Notre-Dame-des-Passages",
+                "en": "Notre-Dame-des-Passages Church"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Kirche mit Blick auf das Meer.",
+                "hu": "Gyönyörű templom tengerre néző kilátással.",
+                "ro": "Biserică superbă cu vedere spre ocean.",
+                "en": "Beautiful church with ocean views."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Abatilles",
+                "hu": "Abatilles strand",
+                "ro": "Plaja Abatilles",
+                "en": "Abatilles Beach"
+              },
+              "tip_5lang": {
+                "de": "Weniger überfüllt als der Hauptstrand.",
+                "hu": "Kevésbé zsúfolt, mint a központi strand.",
+                "ro": "Mai puțin aglomerată decât plaja centrală.",
+                "en": "Less crowded than the main beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Port d'Arcachon",
+                "hu": "Arcachoni kikötő",
+                "ro": "Portul Arcachon",
+                "en": "Arcachon Harbor"
+              },
+              "tip_5lang": {
+                "de": "Abendessen mit Blick auf die Fischerboote.",
+                "hu": "Vacsora a halászhajók látványával.",
+                "ro": "Cină cu vedere la bărcile de pescuit.",
+                "en": "Dinner with a view of the fishing boats."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Meeresfrüchte-Platte",
+                "tip": "Im Hafenrestaurant genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tenger gyümölcsei tál",
+                "tip": "A kikötői éttermek egyikében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platou cu fructe de mare",
+                "tip": "Savurați-l într-un restaurant din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood Platter",
+                "tip": "Enjoy it at one of the harbor restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piste Cyclable Littorale",
+                "tip": "Ruhige Fahrt durch den Wald.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Partmenti kerékpárút",
+                "tip": "Csendes tekerés az erdőn át.",
+                "emoji": "🚴"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pista de biciclete de coastă",
+                "tip": "O plimbare liniștită prin pădure.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal Bike Path",
+                "tip": "Quiet ride through the pine woods.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Le Moulleau Boutiquen",
+                "tip": "Exklusive Strandmode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Moulleau butikok",
+                "tip": "Exkluzív strandruházat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buticurile din Le Moulleau",
+                "tip": "Modă de plajă exclusivistă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Moulleau Boutiques",
+                "tip": "Exclusive beachwear and local fashion."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad mit Korb für den Strand.",
+              "Achten Sie auf Fußgänger auf der Promenade.",
+              "Die Wege sind meist flach."
+            ],
+            "hu": [
+              "Béreljen kosaras biciklit a strandcuccoknak.",
+              "Figyeljen a gyalogosokra a sétányon.",
+              "Az utak nagy része teljesen sík."
+            ],
+            "ro": [
+              "Închiriați o bicicletă cu coș pentru lucrurile de plajă.",
+              "Atenție la pietoni pe promenadă.",
+              "Traseele sunt în mare parte plate."
+            ],
+            "en": [
+              "Rent a bike with a basket for your beach gear.",
+              "Watch out for pedestrians on the shared promenade.",
+              "The cycle paths are mostly flat and easy."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, belohnt aber mit einsamen Wegen am Eyrac-Pier. Mittags erreichen wir Le Moulleau, wo die nassen Gassen glänzen. Nachmittags radeln wir durch die Abatilles, geschützt durch die Bäume, und beenden den Tag bei Austern im Hafen, während der Regen gegen die Fenster trommelt. Ein sportliches und erfrischendes Erlebnis.",
+            "hu": "Az esős bringázás jó felszerelést igényel, de magányos utakat ígér az Eyrac-mólónál. Délben érjük el Le Moulleau-t, ahol a nedves utcák csillognak. Délután az Abatilles fenyvesei között tekerünk, ahol a fák védenek, majd a napot osztrigázással zárjuk a kikötőben, miközben az eső veri az ablakot. Sportos és frissítő élmény.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun, dar oferă poteci libere la digul Eyrac. La prânz ajungem în Le Moulleau, unde străzile umede strălucesc. După-amiaza pedalăm prin Abatilles, protejați de arbori, și încheiem ziua cu scoici în port, în timp ce ploaia bate în geam. O experiență sportivă revigorantă.",
+            "en": "Cycling in the rain requires good gear but rewards you with empty paths by Eyrac Pier. At noon, we reach Le Moulleau, where the wet streets glisten. In the afternoon, we bike through Abatilles, sheltered by the trees, and end the day with oysters at the harbor while the rain drums against the windows. A sporty and refreshing experience."
+          },
+          "stops": [
+            {
+              "name": "Eyrac Pier",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzplanken sind rutschig.",
+                "hu": "Vigyázat, a fapadlók csúszósak.",
+                "ro": "Atenție, scândurile de lemn sunt alunecoase.",
+                "en": "Caution, the wooden planks are slippery."
+              }
+            },
+            {
+              "name": "Le Moulleau District",
+              "tip_5lang": {
+                "de": "Kurze Kaffeepause zum Aufwärmen einlegen.",
+                "hu": "Tartson egy rövid kávészünetet melegedni.",
+                "ro": "Faceți o scurtă pauză de cafea pentru încălzire.",
+                "en": "Take a short coffee break to warm up."
+              }
+            },
+            {
+              "name": "Notre-Dame-des-Passages Church",
+              "tip_5lang": {
+                "de": "Trockener Ort für eine kurze Besichtigung.",
+                "hu": "Száraz hely egy rövid látogatáshoz.",
+                "ro": "Loc uscat pentru o scurtă vizită.",
+                "en": "A dry place for a short visit."
+              }
+            },
+            {
+              "name": "Abatilles Beach",
+              "tip_5lang": {
+                "de": "Die Pinienwege bieten Regenschutz.",
+                "hu": "A fenyves utak védenek az esőtől.",
+                "ro": "Potecile cu pini oferă adăpost.",
+                "en": "The pine-lined paths offer rain cover."
+              }
+            },
+            {
+              "name": "Arcachon Harbor",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze an den Hallen.",
+                "hu": "Biztonságos biciklitárolók a csarnokoknál.",
+                "ro": "Parcări sigure pentru biciclete la hale.",
+                "en": "Secure bike parking available near the halls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Holz.",
+              "Prüfen Sie den Reifendruck für besseren Grip.",
+              "Schutzbleche sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot.",
+              "Kerülje a hirtelen fékezést nedves fán.",
+              "Ellenőrizze a guminyomást a jobb tapadásért.",
+              "A sárvédő elengedhetetlen ilyenkor."
+            ],
+            "ro": [
+              "Purtați costum complet de ploaie.",
+              "Evitați frânările bruște pe lemn ud.",
+              "Verificați presiunea roților pentru aderență.",
+              "Apărătorile de noroi sunt obligatorii."
+            ],
+            "en": [
+              "Wear a full rain suit.",
+              "Avoid sharp braking on wet wooden surfaces.",
+              "Check tire pressure for better grip.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Fahrrad die Freiheit, die kühle Küste schnell zu erkunden. Morgens weht eine frische Brise am Eyrac-Pier. Mittags radeln wir zum ruhigen Le Moulleau, wo die Kirche Notre-Dame festlich wirkt. Der Nachmittag führt uns zum leeren Abatilles-Strand, bevor wir uns im Hafen bei deftigen Meeresfrüchten aufwärmen. Die klare Luft macht die Fahrt besonders belebend.",
+            "hu": "Télen a kerékpár szabadságot ad a hűvös part gyors felfedezéséhez. Reggel friss szellő fúj az Eyrac-mólónál. Délben a csendes Le Moulleau-ba tekerünk, ahol a Notre-Dame templom ünnepi hangulatot áraszt. A délután az üres Abatilles strandra vezet, majd a kikötőben melegszünk fel tengeri ételekkel. A tiszta levegő élénkítővé teszi az utat.",
+            "ro": "Iarna, bicicleta oferă libertatea de a explora rapid coasta răcoroasă. Dimineața, o briză proaspătă bate la digul Eyrac. La prânz pedalăm spre liniștitul Le Moulleau. După-amiaza ne duce la plaja pustie Abatilles, înainte de a ne încălzi în port cu fructe de mare. Aerul curat face plimbarea revigorantă.",
+            "en": "In winter, cycling offers the freedom to explore the cool coast quickly. Morning brings a fresh breeze at Eyrac Pier. At noon, we cycle to quiet Le Moulleau. The afternoon leads us to the empty Abatilles beach before warming up in the harbor with hearty seafood. The crisp air makes the ride especially invigorating."
+          },
+          "stops": [
+            {
+              "name": "Eyrac Pier",
+              "tip_5lang": {
+                "de": "Warme Stirnbänder unter dem Helm tragen.",
+                "hu": "Viseljen meleg fejpántot a sisak alatt.",
+                "ro": "Purtați o bandană caldă sub cască.",
+                "en": "Wear a warm headband under your helmet."
+              }
+            },
+            {
+              "name": "Le Moulleau District",
+              "tip_5lang": {
+                "de": "Wenig Verkehr, ideal zum Radeln.",
+                "hu": "Kevés forgalom, ideális bringázáshoz.",
+                "ro": "Trafic redus, ideal pentru pedalat.",
+                "en": "Low traffic, ideal for easy cycling."
+              }
+            },
+            {
+              "name": "Notre-Dame-des-Passages Church",
+              "tip_5lang": {
+                "de": "Kurzer Halt für kulturelle Wärme.",
+                "hu": "Rövid megálló a kulturális melegségért.",
+                "ro": "Scurtă oprire pentru căldură culturală.",
+                "en": "A short stop for some cultural warmth."
+              }
+            },
+            {
+              "name": "Abatilles Beach",
+              "tip_5lang": {
+                "de": "Harte Sandwege, gut befahrbar.",
+                "hu": "Kemény homokos utak, jól járhatóak.",
+                "ro": "Poteci de nisip tare, ușor de parcurs.",
+                "en": "Firm sandy paths, easy to ride on."
+              }
+            },
+            {
+              "name": "Arcachon Harbor",
+              "tip_5lang": {
+                "de": "Ab 17:00 wird es schnell sehr kalt.",
+                "hu": "17:00 után gyorsan lehűl a levegő.",
+                "ro": "După ora 17:00 se răcește brusc.",
+                "en": "It gets very cold quickly after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe.",
+              "Die Radwege sind im Winter fast leer.",
+              "Achten Sie auf vereiste Stellen im Schatten.",
+              "Ein heißes Getränk im Hafen ist Pflicht."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt.",
+              "A kerékpárutak télen szinte üresek.",
+              "Ügyeljen a jeges foltokra az árnyékban.",
+              "Egy forró ital a kikötőben kötelező."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt.",
+              "Pistele de biciclete sunt aproape goale.",
+              "Atenție la porțiunile înghețate la umbră.",
+              "O băutură caldă în port este obligatorie."
+            ],
+            "en": [
+              "Wear windproof gloves.",
+              "Bike paths are almost empty in winter.",
+              "Watch out for icy patches in the shade.",
+              "A hot drink at the harbor is a must."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -770,6 +1534,354 @@
           "Avoid main roads on weekends due to heavy traffic.",
           "Sun protection is essential for the dune climb."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die spektakulärsten Orte rund um Arcachon. Nach einem kurzen Stadtbummel fahren Sie zur majestätischen Dune du Pilat. Danach entspannen Sie am ruhigen Lac de Cazaux. Den späten Nachmittag verbringen Sie in den traditionellen Austernhäfen von Gujan-Mestras, bevor Sie zum Sonnenuntergang nach Arcachon zurückkehren.",
+            "hu": "Autóval Arcachon környékének leglátványosabb helyeit is bejárhatja. Egy rövid városnézés után irány a fenséges Dune du Pilat homokdűne. Ezt követően pihenjen a Cazaux-tó nyugodt partján. A késő délutánt töltse Gujan-Mestras hagyományos osztrigakikötőiben, majd térjen vissza Arcachonba a naplementére.",
+            "ro": "Cu mașina puteți ajunge la cele mai spectaculoase locuri din jurul Arcachonului. După o scurtă plimbare prin oraș, mergeți spre maiestuoasa Dună Pilat. Relaxați-vă apoi pe malul liniștit al lacului Cazaux. Petreceți după-amiaza târzie în porturile tradiționale de stridii din Gujan-Mestras, înainte de a reveni în Arcachon pentru apus.",
+            "en": "By car, you can reach the most spectacular spots around Arcachon. After a quick city tour, drive to the majestic Dune of Pilat. Then, relax by the calm waters of Lake Cazaux. Spend the late afternoon at the traditional oyster ports of Gujan-Mestras before returning to Arcachon for a final sunset view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentrum Arcachon",
+                "hu": "Arcachon belváros",
+                "ro": "Centrul Arcachon",
+                "en": "Arcachon Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im unterirdischen Parkhaus am Markt.",
+                "hu": "Parkoljon a piaci mélygarázsban.",
+                "ro": "Parcați în garajul subteran de lângă piață.",
+                "en": "Park in the underground garage near the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune du Pilat",
+                "hu": "Dune du Pilat",
+                "ro": "Duna du Pilat",
+                "en": "Dune of Pilat"
+              },
+              "tip_5lang": {
+                "de": "Europas höchste Wanderdüne, ein Muss.",
+                "hu": "Európa legmagasabb homokdűnéje, kötelező látnivaló.",
+                "ro": "Cea mai înaltă dună din Europa, un obiectiv obligatoriu.",
+                "en": "Europe's tallest sand dune, an absolute must-see."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Cazaux",
+                "hu": "Cazaux-tó",
+                "ro": "Lacul Cazaux",
+                "en": "Lake Cazaux"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger See, ideal für ein Picknick.",
+                "hu": "Nyugodt tópart, ideális piknikezéshez.",
+                "ro": "Lac liniștit, ideal pentru un picnic.",
+                "en": "Calm lake, perfect for a peaceful picnic."
+              }
+            },
+            {
+              "name": {
+                "de": "Gujan-Mestras Austernhütten",
+                "hu": "Gujan-Mestras osztrigás házak",
+                "ro": "Colibele de stridii din Gujan-Mestras",
+                "en": "Gujan-Mestras Oyster Cabins"
+              },
+              "tip_5lang": {
+                "de": "Authentisches Erlebnis in den bunten Hütten.",
+                "hu": "Autentikus élmény a színes osztrigás házaknál.",
+                "ro": "Experiență autentică la colibele colorate.",
+                "en": "Authentic experience at the colorful oyster cabins."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère d'Arcachon",
+                "hu": "Arcachoni kilátópont",
+                "ro": "Belvedere Arcachon",
+                "en": "Arcachon Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick zum Abschluss des Tages.",
+                "hu": "Panoráma a nap végére.",
+                "ro": "Vedere panoramică pentru finalul zilei.",
+                "en": "Panoramic view to end your day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Degustation in Gujan",
+                "tip": "Osztrigák közvetlenül a termelőtől."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gujan-Mestras kóstoló",
+                "tip": "Osztriga közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Degustare în Gujan",
+                "tip": "Stridii direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gujan Tasting",
+                "tip": "Oysters served directly by the producer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac de Cazaux Westufer",
+                "tip": "Sehr ruhige Badestellen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cazaux-tó nyugati part",
+                "tip": "Nagyon csendes fürdőhelyek.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul de vest al lacului Cazaux",
+                "tip": "Locuri de scăldat foarte liniștite.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Cazaux West Shore",
+                "tip": "Very quiet swimming spots.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bassin Handwerk",
+                "tip": "Souvenirs in Gujan-Mestras."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bassin kézműves bolt",
+                "tip": "Szuvenírek Gujan-Mestrasban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat local",
+                "tip": "Suveniruri în Gujan-Mestras."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bassin Crafts",
+                "tip": "Authentic souvenirs in Gujan-Mestras."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze an der Dune du Pilat sind kostenpflichtig.",
+              "Vermeiden Sie die Hauptstraßen an Wochenenden.",
+              "Sonnenschutz für die Düne ist Pflicht."
+            ],
+            "hu": [
+              "A Dune du Pilat parkolója fizetős.",
+              "Hétvégén kerülje a főutakat a dugók miatt.",
+              "A dűnén kötelező a naptej és víz."
+            ],
+            "ro": [
+              "Parcarea la Duna Pilat este cu plată.",
+              "Evitați drumurile principale în weekend din cauza aglomerației.",
+              "Protecția solară pe dună este obligatorie."
+            ],
+            "en": [
+              "Parking at Dune of Pilat is paid and can be busy.",
+              "Avoid main roads on weekends due to heavy traffic.",
+              "Sun protection is essential for the dune climb."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto bleibt man trocken, während man die Küste erkundet. Morgens besuchen wir das Zentrum von Arcachon. Mittags bietet die Düne von Pilat einen dramatischen Anblick im Nebel und Regen. Den Nachmittag verbringen wir am See von Cazaux, wo das Wasser einsam und grau wirkt. Zum Abschluss genießen wir Austern in Gujan-Mestras in einer gemütlichen, regensicheren Hütte.",
+            "hu": "Autóval szárazon fedezhetjük fel a partvidéket. Reggel Arcachon központját járjuk be. Délben a Dune of Pilat drámai látványt nyújt a ködben és esőben. A délutánt a Cazaux-tónál töltjük, ahol a víz magányos és szürke. Befejezésül Gujan-Mestrasban élvezzük az osztrigát egy hangulatos, esőbiztos kunyhóban.",
+            "ro": "Cu mașina rămâneți uscați în timp ce explorați coasta. Dimineața vizităm centrul. La prânz, Duna Pilat oferă o priveliște dramatică în ceață și ploaie. După-amiaza o petrecem la lacul Cazaux, unde apa pare solitară. La final savurăm scoici în Gujan-Mestras într-o cabană primitoare, protejată de ploaie.",
+            "en": "By car, you stay dry while exploring the coast. In the morning, we visit central Arcachon. At noon, the Dune of Pilat offers a dramatic sight in the mist and rain. We spend the afternoon at Lake Cazaux, where the water looks solitary and grey. To finish, we enjoy oysters in Gujan-Mestras in a cozy, rain-proof cabin."
+          },
+          "stops": [
+            {
+              "name": "Arcachon Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum.",
+                "hu": "Használja a központi parkolóházat.",
+                "ro": "Folosiți parcarea etajată din centru.",
+                "en": "Use the multi-story car park in the center."
+              }
+            },
+            {
+              "name": "Dune of Pilat",
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest und gut begehbar.",
+                "hu": "Esőben a homok kemény és jól járható.",
+                "ro": "Nisipul este tare și ușor de parcurs pe ploaie.",
+                "en": "The sand is firm and easy to walk on in the rain."
+              }
+            },
+            {
+              "name": "Lake Cazaux",
+              "tip_5lang": {
+                "de": "Schöne Aussicht direkt aus dem Auto.",
+                "hu": "Szép kilátás közvetlenül az autóból.",
+                "ro": "Vedere frumoasă direct din mașină.",
+                "en": "Great views directly from your car."
+              }
+            },
+            {
+              "name": "Gujan-Mestras Oyster Cabins",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Hütte mit Innenraum.",
+                "hu": "Válasszon belső térrel rendelkező kunyhót.",
+                "ro": "Alegeți o cabană cu spațiu interior.",
+                "en": "Choose a cabin with indoor seating."
+              }
+            },
+            {
+              "name": "Arcachon Viewpoint",
+              "tip_5lang": {
+                "de": "Im Auto bleiben und die Aussicht genießen.",
+                "hu": "Maradjon az autóban, élvezze a kilátást.",
+                "ro": "Rămâneți în mașină și savurați vederea.",
+                "en": "Stay in the car and enjoy the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Parken Sie nah an den Eingängen.",
+              "Die Düne ist bei Regen viel weniger überlaufen.",
+              "Nehmen Sie einen stabilen Regenschirm mit."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra az országutakon.",
+              "Parkoljon közel a bejáratokhoz.",
+              "A dűne esőben sokkal kevésbé zsúfolt.",
+              "Vigyen magával stabil esernyőt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Parcați aproape de intrări.",
+              "Duna este mult mai puțin aglomerată pe ploaie.",
+              "Luați o umbrelă rezistentă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Park as close to the entrances as possible.",
+              "The dune is much less crowded in the rain.",
+              "Bring a sturdy umbrella with you."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotour zu den Highlights des Beckens. Morgens erkunden wir das ruhige Arcachon. Mittags bietet die Düne von Pilat bei klarer Winterluft eine fantastische Fernsicht. Der Nachmittag am See von Cazaux ist friedlich und still. Den Abend lassen wir bei frischen Austern in den Hütten von Gujan-Mestras ausklingen, wo die Öfen für wohlige Wärme sorgen.",
+            "hu": "Téli autós túra az öböl fénypontjaihoz. Reggel a csendes Arcachont fedezzük fel. Délben a Dune of Pilat a tiszta téli levegőben fantasztikus távlatokat nyit. A délután a Cazaux-tónál békés és néma. Az estét friss osztrigával zárjuk Gujan-Mestras kunyhóiban, ahol a kályhák kellemes meleget adnak.",
+            "ro": "Tur cu mașina iarna la atracțiile golfului. Dimineața explorăm Arcachonul liniștit. La prânz, Duna Pilat oferă o vizibilitate fantastică în aerul curat. După-amiaza la lacul Cazaux este pașnică. Încheiem seara cu scoici proaspete în cabanele din Gujan-Mestras, unde sobele oferă o căldură plăcută.",
+            "en": "A winter car tour of the basin's highlights. In the morning, we explore quiet Arcachon. At noon, the Dune of Pilat offers fantastic distant views in the clear winter air. The afternoon at Lake Cazaux is peaceful and silent. We end the evening with fresh oysters in the cabins of Gujan-Mestras, where stoves provide cozy warmth."
+          },
+          "stops": [
+            {
+              "name": "Arcachon Center",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leicht zu finden.",
+                "hu": "Télen könnyű parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt ușor de găsit iarna.",
+                "en": "Parking spots are easy to find in winter."
+              }
+            },
+            {
+              "name": "Dune of Pilat",
+              "tip_5lang": {
+                "de": "Beste Fernsicht des Jahres bei klarer Luft.",
+                "hu": "Az év legjobb kilátása a tiszta levegőben.",
+                "ro": "Cea mai bună vizibilitate din an în aer curat.",
+                "en": "Best visibility of the year in the clear air."
+              }
+            },
+            {
+              "name": "Lake Cazaux",
+              "tip_5lang": {
+                "de": "Ruhiger Ort für eine Kaffeepause im Auto.",
+                "hu": "Nyugodt hely egy autós kávészünethez.",
+                "ro": "Loc liniștit pentru o cafea în mașină.",
+                "en": "Quiet spot for a coffee break in the car."
+              }
+            },
+            {
+              "name": "Gujan-Mestras Oyster Cabins",
+              "tip_5lang": {
+                "de": "Viele Hütten haben jetzt Heizstrahler.",
+                "hu": "Sok kunyhóban van már hősugárzó.",
+                "ro": "Multe cabane au acum radiatoare.",
+                "en": "Many cabins now have heaters."
+              }
+            },
+            {
+              "name": "Arcachon Viewpoint",
+              "tip_5lang": {
+                "de": "Sonnenuntergang schon am frühen Abend.",
+                "hu": "Naplemente már kora este.",
+                "ro": "Apus de soare deja devreme seara.",
+                "en": "Sunset occurs in the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Genießen Sie die freie Fahrt ohne Staus.",
+              "Warme Decken im Auto sind nützlich.",
+              "Einige Hütten in Gujan-Mestras haben Winterpause."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Élvezze a forgalommentes utakat.",
+              "Meleg takaró az autóban hasznos lehet.",
+              "Néhány kunyhó Gujan-Mestrasban zárva tart."
+            ],
+            "ro": [
+              "Verificați antigelul la spălătorul de parbriz.",
+              "Bucurați-vă de drumuri fără ambuteiaje.",
+              "Pături calde în mașină pot fi utile.",
+              "Unele cabane din Gujan-Mestras sunt închise."
+            ],
+            "en": [
+              "Check the antifreeze in your washer fluid.",
+              "Enjoy the traffic-free roads.",
+              "Warm blankets in the car can be useful.",
+              "Some cabins in Gujan-Mestras have a winter break."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1005,34 +2117,355 @@
           "Always check the schedule for line 1 to the Dune.",
           "Buses can be crowded during summer peak hours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das bequeme Bussystem 'Baïa', um die Höhepunkte von Arcachon zu erkunden. Starten Sie am Bahnhof und fahren Sie direkt zur beeindruckenden Dune du Pilat. Danach bringt Sie der Bus in das charmante Le Moulleau und zum weitläufigen Pereire-Strand. Beenden Sie Ihren Tag im malerischen Aiguillon-Viertel bei einer kleinen Verkostung.",
+            "hu": "Használja a kényelmes 'Baïa' buszhálózatot Arcachon felfedezéséhez. Induljon az állomástól közvetlenül a lenyűgöző Dune du Pilat dűnéhez. Ezután a busz elviszi a bájos Le Moulleau-ba és a tágas Pereire strandra. Zárja a napot a festői Aiguillon negyedben egy kis kóstolóval.",
+            "ro": "Utilizați sistemul convenabil de autobuze 'Baïa' pentru a explora atracțiile Arcachonului. Porniți de la gară direct spre impresionanta Dună Pilat. Apoi, autobuzul vă duce în fermecătorul Le Moulleau și la plaja Pereire. Încheiați ziua în cartierul pitoresc Aiguillon cu o mică degustare locală.",
+            "en": "Use the convenient 'Baïa' bus system to explore Arcachon's highlights. Start at the station and head straight to the impressive Dune of Pilat. Afterward, take the bus to charming Le Moulleau and the spacious Pereire Beach. End your day in the picturesque Aiguillon district with some local treats."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare d'Arcachon",
+                "hu": "Arcachon vasútállomás",
+                "ro": "Gara Arcachon",
+                "en": "Arcachon Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für Busse und Züge.",
+                "hu": "Központi csomópont buszokhoz és vonatokhoz.",
+                "ro": "Nod central pentru autobuze și trenuri.",
+                "en": "Central hub for buses and trains."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune du Pilat (Buszugang)",
+                "hu": "Dune du Pilat (buszmegálló)",
+                "ro": "Duna du Pilat (acces autobuz)",
+                "en": "Dune of Pilat (Bus access)"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 1 verbindet den Bahnhof mit der Düne.",
+                "hu": "Az 1-es busz köti össze az állomást a dűnével.",
+                "ro": "Linia 1 de autobuz face legătura cu duna.",
+                "en": "Bus line 1 connects the station to the dune."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Moulleau Village",
+                "hu": "Le Moulleau falu",
+                "ro": "Satul Le Moulleau",
+                "en": "Le Moulleau Village"
+              },
+              "tip_5lang": {
+                "de": "Gemütliches Dorfzentrum mit tollen Cafés.",
+                "hu": "Hangulatos faluközpont remek kávézókkal.",
+                "ro": "Centru de sat pitoresc cu cafenele bune.",
+                "en": "Charming village center with great cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Pereire",
+                "hu": "Pereire strand",
+                "ro": "Plaja Pereire",
+                "en": "Pereire Beach"
+              },
+              "tip_5lang": {
+                "de": "Langer Sandstrand mit Pinien.",
+                "hu": "Hosszú homokos strand fenyőfákkal.",
+                "ro": "Plajă lungă cu nisip și pini.",
+                "en": "Long sandy beach backed by pine trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier de l'Aiguillon",
+                "hu": "L'Aiguillon negyed",
+                "ro": "Cartierul L'Aiguillon",
+                "en": "Aiguillon District"
+              },
+              "tip_5lang": {
+                "de": "Traditionelles Viertel mit Fischgeschäften.",
+                "hu": "Tradicionális negyed halboltokkal.",
+                "ro": "Cartier tradițional cu pescării.",
+                "en": "Traditional district with fish shops."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fischsuppe",
+                "tip": "Spezialität im Aiguillon-Viertel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halászlé",
+                "tip": "Az Aiguillon negyed specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Supă de pește",
+                "tip": "Specialitate în cartierul Aiguillon."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Soup",
+                "tip": "A specialty in the Aiguillon district."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterer Pereire Strand",
+                "tip": "Ruhe unter den Pinien.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pereire strand hátsó része",
+                "tip": "Csend a fenyők alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Pereire (zona retrasă)",
+                "tip": "Liniște sub pini.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pereire Beach (far end)",
+                "tip": "Peace under the pine trees.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique Baïa",
+                "tip": "Lokale Souvenirs am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baïa Bolt",
+                "tip": "Helyi szuvenírek az állomásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Baïa",
+                "tip": "Suveniruri locale la gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baïa Shop",
+                "tip": "Local souvenirs near the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Bus.",
+              "Überprüfen Sie die Fahrpläne der Linie 1.",
+              "Die Busse können im Sommer voll sein."
+            ],
+            "hu": [
+              "Vegyen napijegyet a buszra.",
+              "Mindig ellenőrizze az 1-es busz menetrendjét.",
+              "Nyáron a buszok zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz.",
+              "Verificați orarul liniei 1.",
+              "Autobuzele pot fi aglomerate vara."
+            ],
+            "en": [
+              "Buy a day pass for the bus system.",
+              "Always check the schedule for line 1 to the Dune.",
+              "Buses can be crowded during summer peak hours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man flexibel und meist im Trockenen. Morgens Ankunft am Bahnhof, dann Fahrt mit dem Bus zur Düne von Pilat, die im Regen mystisch wirkt. Mittags Rückkehr nach Le Moulleau für ein gemütliches Essen. Den Nachmittag verbringen wir am Pereire-Strand, wo wir den Regen aus einem Café beobachten, bevor wir den Tag im Aiguillon-Viertel ausklingen lassen.",
+            "hu": "Busszal és vonattal rugalmasak maradunk, és többnyire szárazon. Reggel érkezés az állomásra, majd busszal a Dune of Pilat-hoz, mely esőben misztikus. Délben visszatérés Le Moulleau-ba egy kellemes ebédre. A délutánt a Pereire strandon töltjük, egy kávézóból figyelve az esőt, majd az Aiguillon negyedben zárjuk a napot.",
+            "ro": "Cu autobuzul și trenul rămâneți flexibili și majoritatea timpului la adăpost. Dimineața sosire la gară, apoi cu autobuzul la Duna Pilat. La prânz revenire în Le Moulleau pentru o masă plăcută. După-amiaza o petrecem la plaja Pereire, privind ploaia dintr-o cafenea, înainte de a încheia ziua în cartierul Aiguillon.",
+            "en": "By bus and train, you stay flexible and mostly dry. Morning arrival at the station, then by bus to the Dune of Pilat, which looks mystical in the rain. At noon, return to Le Moulleau for a pleasant meal. Spend the afternoon at Pereire beach, watching the rain from a cafe, before ending the day in the Aiguillon district."
+          },
+          "stops": [
+            {
+              "name": "Arcachon Railway Station",
+              "tip_5lang": {
+                "de": "Trockener Warteraum vorhanden.",
+                "hu": "Száraz váróterem áll rendelkezésre.",
+                "ro": "Sală de așteptare uscată disponibilă.",
+                "en": "Dry waiting room available."
+              }
+            },
+            {
+              "name": "Dune of Pilat (Bus access)",
+              "tip_5lang": {
+                "de": "Bushaltestelle bietet begrenzten Schutz.",
+                "hu": "A buszmegálló korlátozott védelmet nyújt.",
+                "ro": "Stația de autobuz oferă adăpost limitat.",
+                "en": "The bus stop offers limited shelter."
+              }
+            },
+            {
+              "name": "Le Moulleau Village",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Bus und Cafés.",
+                "hu": "Rövid utak a busz és a kávézók között.",
+                "ro": "Distanțe scurte între autobuz și cafenele.",
+                "en": "Short walks between the bus and cafes."
+              }
+            },
+            {
+              "name": "Pereire Beach",
+              "tip_5lang": {
+                "de": "Cafés direkt an der Bushaltestelle.",
+                "hu": "Kávézók közvetlenül a buszmegállónál.",
+                "ro": "Cafenele direct lângă stația de autobuz.",
+                "en": "Cafes located right by the bus stop."
+              }
+            },
+            {
+              "name": "Aiguillon District",
+              "tip_5lang": {
+                "de": "Gute Busanbindung zurück zum Bahnhof.",
+                "hu": "Jó buszközlekedés vissza az állomásra.",
+                "ro": "Conexiuni bune de autobuz spre gară.",
+                "en": "Good bus connections back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten.",
+              "Halten Sie Kleingeld oder Karte bereit.",
+              "Der Bus zur Düne fährt auch bei Regen stündlich.",
+              "Bahnhöfe sind gute Orte zum Aufwärmen."
+            ],
+            "hu": [
+              "Használja az appot a valós idejű menetrendhez.",
+              "Készítsen elő aprópénzt vagy kártyát.",
+              "A busz a dűnéhez esőben is óránként jár.",
+              "Az állomások jó helyek a melegedésre."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul în timp real.",
+              "Pregătiți mărunțiș sau cardul.",
+              "Autobuzul spre dună circulă orar și pe ploaie.",
+              "Gările sunt locuri bune pentru încălzire."
+            ],
+            "en": [
+              "Use the app for real-time bus schedules.",
+              "Have small change or a card ready.",
+              "The bus to the dune runs hourly even in rain.",
+              "Train stations are good places to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit öffentlichen Verkehrsmitteln durch das Becken. Morgens Ankunft am Bahnhof Arcachon. Die Fahrt zur Düne von Pilat bietet weite Ausblicke auf die winterliche Landschaft. Mittags erkunden wir das ruhige Le Moulleau. Am Nachmittag genießen wir die klare Luft am Pereire-Strand, bevor wir uns im Aiguillon-Viertel bei lokalen Spezialitäten aufwärmen. Alles ist entspannt und ohne Parkplatzsorgen erreichbar.",
+            "hu": "Téli utazás tömegközlekedéssel az öböl körül. Reggel érkezés az arcachoni állomásra. A dűnéhez vezető út során feltárul a téli táj. Délben a csendes Le Moulleau-t fedezzük fel. Délután a tiszta levegőt élvezzük a Pereire strandon, majd az Aiguillon negyedben melegszünk fel helyi különlegességekkel. Minden elérhető stressz és parkolási gondok nélkül.",
+            "ro": "Călătorie de iarnă cu transportul public. Dimineața sosire la gara Arcachon. Drumul spre dună oferă vederi largi asupra peisajului de iarnă. La prânz explorăm liniștitul Le Moulleau. După-amiaza savurăm aerul curat la plaja Pereire, înainte de a ne încălzi în cartierul Aiguillon. Totul este accesibil fără grija parcării.",
+            "en": "Winter travel by public transport around the basin. Morning arrival at Arcachon station. The ride to the dune offers wide views of the winter landscape. At noon, we explore quiet Le Moulleau. In the afternoon, we enjoy the clear air at Pereire beach before warming up in the Aiguillon district. Everything is accessible without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Arcachon Railway Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist weihnachtlich dekoriert.",
+                "hu": "Az állomás karácsonyi díszben pompázik.",
+                "ro": "Gara este decorată de sărbătoare.",
+                "en": "The station is festively decorated."
+              }
+            },
+            {
+              "name": "Dune of Pilat (Bus access)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit am Bus.",
+                "hu": "Meleg ruha a buszra való várakozáshoz.",
+                "ro": "Haine groase pentru așteptarea autobuzului.",
+                "en": "Warm clothes for the wait at the bus stop."
+              }
+            },
+            {
+              "name": "Le Moulleau Village",
+              "tip_5lang": {
+                "de": "Gemütliche Cafés mit Winter-Specials.",
+                "hu": "Hangulatos kávézók téli ajánlatokkal.",
+                "ro": "Cafenele primitoare cu oferte de iarnă.",
+                "en": "Cozy cafes with winter specials."
+              }
+            },
+            {
+              "name": "Pereire Beach",
+              "tip_5lang": {
+                "de": "Schöner Winterspaziergang zwischen Bussen.",
+                "hu": "Szép téli séta a buszjáratok között.",
+                "ro": "Plimbare frumoasă de iarnă între autobuze.",
+                "en": "Nice winter walk between bus connections."
+              }
+            },
+            {
+              "name": "Aiguillon District",
+              "tip_5lang": {
+                "de": "Letzter Bus fährt meist gegen 19:00.",
+                "hu": "Az utolsó busz általában 19:00 körül indul.",
+                "ro": "Ultimul autobuz pleacă de obicei la 19:00.",
+                "en": "The last bus usually departs around 19:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan beachten (weniger Fahrten).",
+              "Busse sind gut beheizt.",
+              "Kaufen Sie Tickets vorab online.",
+              "Die Sonne geht früh unter, planen Sie den Tag kompakt."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre (ritkább járatok).",
+              "A buszok jól fűtöttek.",
+              "Vegyen jegyet előre online.",
+              "A nap korán nyugszik, tervezze tömören a napot."
+            ],
+            "ro": [
+              "Atenție la orarul de iarnă (mai puține curse).",
+              "Autobuzele sunt bine încălzite.",
+              "Cumpărați bilete online în avans.",
+              "Soarele apune devreme, planificați ziua compact."
+            ],
+            "en": [
+              "Check the winter schedule (fewer trips).",
+              "Buses are well heated.",
+              "Buy tickets online in advance.",
+              "The sun sets early, plan a compact day."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.arcachon.com/",
-    "events": "https://www.arcachon.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.bahia-bus.com/",
-    "language_tips": {
-      "de": "Arcachon spricht klares aquitanisches Franzoesisch ohne starken Akzent. Englisch in Hotels und am Hafen verbreitet (internationale Sommertouristen). 'Bonjour' und 'merci' sind hier sehr willkommen, Aquitanier sind freundlich und entspannt.",
-      "hu": "Arcachon tiszta aquitaniai franciat beszel eros akcentus nelkul. A szallodakban es a kikotoben van angol (nemzetkozi nyari turistak). A 'bonjour' es 'merci' szivesen latott, az aquitaniak baratsagosak es nyugodtak.",
-      "ro": "Arcachon vorbeste franceza aquitana clara, fara accent puternic. Engleza merge la hoteluri si in port (turisti internationali vara). 'Bonjour' si 'merci' sunt foarte binevenite, aquitanii sunt prietenosi si relaxati.",
-      "en": "Arcachon speaks clear Aquitaine French with no strong accent. English works in hotels and the harbour (international summer crowd). 'Bonjour' and 'merci' are very welcome — Aquitaine locals are friendly and laid-back."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal (16-25 Grad), Bassin d'Arcachon mit Austernzucht das ganze Jahr, Dune du Pilat begehbar. Juli-August voll und teuer. Winter mild und nass (8-12 Grad), Austern-Hochsaison, Cabanons tochinois im Hafen ruhig.",
-      "hu": "Majus-szeptember a legjobb (16-25 fok), az Arcachon-medence osztrigatenyeszettel egesz evben, Dune du Pilat masszhato. Julius-augusztus zsufolt es draga. Tel enyhe es nyirkos (8-12 fok), osztriga csucsszezon, a kikoto cabanon-jai csendesek.",
-      "ro": "Mai-septembrie sunt ideale (16-25 grade), bazinul Arcachon cu fermele de stridii tot anul, Duna du Pilat accesibila. Iulie-august sunt aglomerate si scumpe. Iarna e blanda si umeda (8-12 grade), sezonul stridiilor, cabanon-urile din port sunt linistite.",
-      "en": "May-September are ideal (16-25°C), Arcachon basin with oyster farms year-round, Dune du Pilat walkable. July-August are packed and pricey. Winter is mild and damp (8-12°C) — peak oyster season, harbour cabanons quiet."
-    },
-    "neighborhood_warnings": {
-      "de": "Arcachon ist sehr sicher, gehobenes Seebad. Strand-Promenade auch nachts ruhig. Achtung auf Gezeiten am Bassin: das Wasser zieht sich weit zurueck, Sandbaenke koennen tueckisch sein.",
-      "hu": "Arcachon nagyon biztonsagos, uri tengerparti uduloszhely. A strand-promenad ejjel is csendes. Figyelj a medence dagalyara: a viz tagasul, a homokpadok alnokok lehetnek.",
-      "ro": "Arcachon e foarte sigur, statiune eleganta. Promenada e linistita si noaptea. Atentie la maree in bazin: apa se retrage mult, bancurile de nisip pot fi inselatoare.",
-      "en": "Arcachon is very safe — upscale resort. The promenade stays calm at night. Mind tides in the basin: water retreats far and sandbanks can be tricky."
-    },
-    "parking_real_time": ""
   }
 }

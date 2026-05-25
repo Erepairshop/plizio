@@ -383,6 +383,522 @@
           "Parking is limited and fills up very quickly during the summer months.",
           "There are several free drinking water fountains throughout the village."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in den charmanten Gassen von Les Baux, wo das Musée des Santons die tiefe provenzalische Tradition der Krippenfiguren zeigt. Schlendern Sie vorbei am prächtigen Hôtel de Manville zur Kirche Saint-Vincent, die teilweise in den Fels gehauen wurde.\n\nDer Mittag gehört der gewaltigen Festung Château des Baux. Erkunden Sie die Ruinen auf dem Felsplateau und genießen Sie den weiten Blick über die Alpillen und die Olivenhaine der Provence, während Sie in die mittelalterliche Geschichte eintauchen.\n\nAm Nachmittag verlassen Sie das Dorf für ein multimediales Erlebnis in den Carrières de Lumières. In einem riesigen ehemaligen Steinbruch werden Kunstwerke weltberühmter Maler an die hohen Felswände projiziert, untermalt von atmosphärischer Musik.\n\nBeenden Sie den Tag mit einem Spaziergang durch das Val d'Enfer. Die bizarren Felsformationen leuchten im goldenen Abendlicht besonders dramatisch. Es ist der perfekte Ort, um die Stille der provenzalischen Natur zu genießen, bevor Sie den Rückweg antreten.",
+            "hu": "Kezdd a reggelt Les Baux bájos utcáin, ahol a Santons Múzeum bemutatja a provence-i betlehemi figurák mély hagyományát. Sétálj el a pompás Hôtel de Manville mellett a Szent Vince-templomhoz, amelyet részben a sziklába vájtak.\n\nA délidő a hatalmas Baux váráé. Fedezd fel a sziklaplatón elterülő romokat, és élvezd a pazar kilátást az Alpilles-hegységre és Provence olajfaligeteire, miközben elmerülsz a középkori történelemben.\n\nDélután hagyd el a falut egy multimédiás élményért a Carrières de Lumières-ben. Egy hatalmas egykori kőfejtőben világhírű festők műveit vetítik a magas sziklafalakra, hangulatos zenével kísérve.\n\nZárd a napot egy sétával a Pokol-völgyében (Val d'Enfer). A bizarr sziklaalakzatok különösen drámaian mutatnak az esti súrolófényben. Tökéletes hely a provence-i természet csendjének élvezetéhez a hazatérés előtt.",
+            "ro": "Începeți dimineața pe străzile fermecătoare din Les Baux, unde Muzeul Santonilor prezintă tradiția profundă a figurinelor de Crăciun provensale. Treceți pe lângă fastuosul Hôtel de Manville către Biserica Saint-Vincent, săpată parțial în stâncă.\n\nAmiaza este dedicată impresionantei fortărețe Château des Baux. Explorați ruinele de pe platoul stâncos și bucurați-vă de panorama vastă peste munții Alpilles și livezile de măslini, în timp ce retrăiți istoria medievală.\n\nDupă-amiaza, părăsiți satul pentru o experiență multimedia la Carrières de Lumières. Într-o fostă carieră uriașă, operele unor pictori celebri sunt proiectate pe pereții înalți de piatră, însoțite de o muzică atmosferică.\n\nÎncheiați ziua cu o plimbare prin Val d'Enfer. Formațiunile stâncoase bizare strălucesc dramatic în lumina aurie a apusului. Este locul perfect pentru a savura liniștea naturii provensale înainte de a pleca spre casă.",
+            "en": "Start your morning in the charming streets of Les Baux, where the Musée des Santons showcases the deep Provencal tradition of nativity figurines. Stroll past the grand Hôtel de Manville to the Church of Saint-Vincent, partially carved into the rock.\n\nMidday belongs to the mighty fortress of Château des Baux. Explore the ruins on the rocky plateau and enjoy the sweeping views over the Alpilles mountains and Provence's olive groves while immersing yourself in medieval history.\n\nIn the afternoon, head just outside the village for a multimedia experience at Carrières de Lumières. In a vast former quarry, masterpieces by world-renowned painters are projected onto the high rock walls, accompanied by atmospheric music.\n\nEnd the day with a walk through the Val d'Enfer (Hell's Valley). The bizarre rock formations look particularly dramatic in the golden evening light. It is the perfect spot to enjoy the silence of the Provencal nature before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum der Santons",
+                "hu": "Santons Múzeum",
+                "ro": "Muzeul Santonilor",
+                "en": "Musée des Santons"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die handgefertigten provenzalischen Krippenfiguren.",
+                "hu": "Csodáld meg a kézzel készített provence-i betlehemi figurákat.",
+                "ro": "Admirați figurinele de tip santon lucrate manual în stil provensal.",
+                "en": "Admire the handcrafted Provencal nativity figurines."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Manville",
+                "hu": "Hôtel de Manville",
+                "ro": "Hôtel de Manville",
+                "en": "Hôtel de Manville"
+              },
+              "tip_5lang": {
+                "de": "Dieses Renaissance-Haus dient heute als Rathaus der Gemeinde.",
+                "hu": "Ez a reneszánsz palota ma a falu városházaként működik.",
+                "ro": "Această reședință renascentistă servește acum drept primărie.",
+                "en": "This Renaissance mansion now serves as the village town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vincent",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die modernen Glasmalereien von Max Ingrand.",
+                "hu": "Nézd meg Max Ingrand modern ólomüveg ablakait.",
+                "ro": "Observați vitraliile moderne realizate de Max Ingrand.",
+                "en": "Notice the modern stained glass windows by Max Ingrand."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Les Baux",
+                "hu": "Baux vára",
+                "ro": "Castelul Les Baux",
+                "en": "Château des Baux"
+              },
+              "tip_5lang": {
+                "de": "Die Katapult-Vorführungen sind im Sommer ein Muss.",
+                "hu": "A nyári ostromgép-bemutatók kihagyhatatlanok.",
+                "ro": "Demonstrațiile cu catapulte sunt obligatorii pe timp de vară.",
+                "en": "The catapult demonstrations are a must-see in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon der Königin Jeanne",
+                "hu": "Jeanne királynő pavilonja",
+                "ro": "Pavilionul Reginei Jeanne",
+                "en": "Pavillon de la Reine Jeanne"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Renaissance-Gartenpavillon im Vallon de la Fontaine.",
+                "hu": "Egy szép reneszánsz kerti pavilon a völgyben.",
+                "ro": "Un pavilion de grădină renascentist situat în Vallon de la Fontaine.",
+                "en": "A beautiful Renaissance garden pavilion in the Vallon de la Fontaine."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrières de Lumières",
+                "hu": "Fények Bányája",
+                "ro": "Carierele de Lumini",
+                "en": "Carrières de Lumières"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, es ist in den Steinbrüchen kühl.",
+                "hu": "Vigyél magaddal pulóvert, a bányában hűvös van.",
+                "ro": "Luați o jachetă, temperatura este scăzută în cariere.",
+                "en": "Bring a jacket, it stays cool inside the quarries."
+              }
+            },
+            {
+              "name": {
+                "de": "Val d'Enfer",
+                "hu": "Pokol-völgye",
+                "ro": "Valea Iadului",
+                "en": "Val d'Enfer"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Kalksteinformationen inspirierten Dantes Inferno.",
+                "hu": "A fehér mészkősziklák ihlették Dante Pokolját.",
+                "ro": "Formațiunile de calcar alb au inspirat Infernul lui Dante.",
+                "en": "The white limestone formations inspired Dante's Inferno."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Huile d'olive de la Vallée des Baux",
+                "tip": "Besuchen Sie eine lokale Mühle für eine Verkostung des geschützten Olivenöls."
+              },
+              {
+                "name": "Agneau des Alpilles",
+                "tip": "Probieren Sie langsam gegartes Lammfleisch mit lokalen Kräutern."
+              },
+              {
+                "name": "L'Oustau de Baumanière",
+                "tip": "Ein legendäres Sterne-Restaurant am Fuße des Dorfes für ein Gourmet-Erlebnis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vallée des Baux olívaolaj",
+                "tip": "Látogass el egy helyi malomba az eredetvédett olívaolaj kóstolására."
+              },
+              {
+                "name": "Alpilles-i bárány",
+                "tip": "Kóstold meg a lassan sült bárányhúst helyi fűszerekkel."
+              },
+              {
+                "name": "L'Oustau de Baumanière",
+                "tip": "Legendás csillagos étterem a falu lábánál a gasztronómiai élmények kedvelőinek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline din Vallée des Baux",
+                "tip": "Vizitați o moară locală pentru o degustare de ulei de măsline cu denumire protejată."
+              },
+              {
+                "name": "Miel de Alpilles",
+                "tip": "Gustați carnea de miel gătită lent cu ierburi aromatice locale."
+              },
+              {
+                "name": "L'Oustau de Baumanière",
+                "tip": "Un restaurant legendar cu stele Michelin la poalele satului pentru o experiență gourmet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vallée des Baux Olive Oil",
+                "tip": "Visit a local mill for a tasting of the protected designation olive oil."
+              },
+              {
+                "name": "Alpilles Lamb",
+                "tip": "Try slow-cooked lamb seasoned with local Provencal herbs."
+              },
+              {
+                "name": "L'Oustau de Baumanière",
+                "tip": "A legendary Michelin-starred restaurant at the foot of the village for a gourmet experience."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pavillon de la Reine Jeanne",
+                "tip": "Ein friedlicher Renaissance-Pavillon im Tal unterhalb der Festung.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plateau du Château",
+                "tip": "Suchen Sie sich eine abgelegene Ecke auf den Burgruinen für den Panoramablick.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sentier du Val d'Enfer",
+                "tip": "Abseits der Massen bieten die Felsen im Tal tiefe Ruhe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jeanne királynő pavilonja",
+                "tip": "Békés reneszánsz pavilon a vár alatti völgyben.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Várfennsík",
+                "tip": "Keress egy félreeső sarkot a várromok között a panorámáért.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Val d'Enfer ösvény",
+                "tip": "A tömegektől távol, a völgy sziklái között teljes a nyugalom.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pavillon de la Reine Jeanne",
+                "tip": "Un pavilion renascentist liniștit în valea de sub fortăreață.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Platoul Castelului",
+                "tip": "Găsiți un colț retras printre ruinele castelului pentru o vedere panoramică.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Poteca Val d'Enfer",
+                "tip": "Departe de mulțime, stâncile din vale oferă o liniște profundă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pavillon de la Reine Jeanne",
+                "tip": "A peaceful Renaissance pavilion in the valley below the fortress.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Castle Plateau",
+                "tip": "Find a secluded corner on the castle ruins for a panoramic view.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Val d'Enfer Trail",
+                "tip": "Away from the crowds, the rocks in the valley offer deep quiet.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Provenzalische Santons",
+                "tip": "Kaufen Sie handbemalte Tonfiguren als authentisches Souvenir."
+              },
+              {
+                "name": "Olivenprodukte",
+                "tip": "Seifen, Öle und Tapenaden aus den umliegenden Hainen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i Santonok",
+                "tip": "Vásárolj kézzel festett agyagfigurákat autentikus szuvenírként."
+              },
+              {
+                "name": "Olajbogyó termékek",
+                "tip": "Szappanok, olajok és tapenádok a környékbeli ligetekből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Santoni Provensali",
+                "tip": "Cumpărați figurine din lut pictate manual ca suvenir autentic."
+              },
+              {
+                "name": "Produse din măsline",
+                "tip": "Săpunuri, uleiuri și tapenada din livezile din împrejurimi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Provencal Santons",
+                "tip": "Buy hand-painted clay figurines as an authentic souvenir."
+              },
+              {
+                "name": "Olive Products",
+                "tip": "Soaps, oils, and tapenades from the surrounding groves."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die mittelalterlichen Pflastersteine sehr rutschig sein können.",
+              "Kommen Sie vor 10:00 Uhr an, um den großen Touristenbussen auszuweichen.",
+              "Ein Kombiticket für das Schloss und Carrières de Lumières spart Geld.",
+              "Die Parkplätze sind begrenzt und im Sommer schnell belegt.",
+              "Im Dorf gibt es viele kostenlose Trinkwasserbrunnen."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt, mert a középkori macskakövek nagyon csúszósak lehetnek.",
+              "Érkezz 10:00 előtt, hogy elkerüld a nagy turistabuszokat.",
+              "A vár és a Carrières de Lumières kombinált jegye olcsóbb.",
+              "A parkolóhelyek száma korlátozott, nyáron hamar megtelnek.",
+              "A faluban több ingyenes ivóvízkút is található."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă, deoarece pietrele medievale pot fi foarte alunecoase.",
+              "Sosiți înainte de ora 10:00 pentru a evita autocarele mari cu turiști.",
+              "Un bilet combinat pentru castel și Carrières de Lumières vă ajută să economisiți.",
+              "Locurile de parcare sunt limitate și se ocupă rapid în timpul verii.",
+              "În sat există mai multe cișmele cu apă potabilă gratuită."
+            ],
+            "en": [
+              "Wear comfortable shoes as the medieval cobblestones can be very slippery.",
+              "Arrive before 10:00 AM to beat the large tour buses.",
+              "A combined ticket for the Castle and Carrières de Lumières saves money.",
+              "Parking is limited and fills up very quickly during the summer months.",
+              "There are several free drinking water fountains throughout the village."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag im Musée des Santons, einem idealen Rückzugsort. Schlendern Sie durch die engen Gassen zum Hôtel de Manville und der schützenden Église Saint-Vincent.\n\nTrotz Regen bietet das Château des Baux eine dramatische Atmosphäre; festes Schuhwerk ist auf den glitschigen Steinen Pflicht.\n\nDer Nachmittag gehört den Carrières de Lumières, einer riesigen Höhle, die völlig trocken ist.\n\nBeenden Sie den Tag im Val d'Enfer, wo die nassen Felsen silbern glänzen.",
+            "hu": "Kezdje az esős napot a Musée des Santons fedett tereiben. Az óváros szűk utcáin haladva érintse meg az Hôtel de Manville-t és a Szent Vince-templomot, amelyek jó menedéket nyújtanak.\n\nA várromok között az eső drámai hatást kelt, de vigyázzon a csúszós kövekre. \n\nDélután a Carrières de Lumières barlangja tökéletes száraz helyszín a fényfestéshez.\n\nA napot a Val d'Enfer misztikus sziklái között zárhatja, ahol az eső kiemeli a kövek textúráját.",
+            "ro": "Începeți ziua ploioasă la Musée des Santons, un loc perfect pentru a rămâne uscat. Continuați spre Hôtel de Manville și biserica Saint-Vincent prin străzile înguste care oferă adăpost.\n\nCastelul Baux capătă o aură dramatică în ploaie, dar atenție la potecile alunecoase.\n\nDupă-amiaza este rezervată pentru Carrières de Lumières, un refugiu subteran spectaculos și complet uscat.\n\nÎncheiați în Val d'Enfer, unde stâncile umede strălucesc sub cerul gri.",
+            "en": "Start your rainy day at the Musée des Santons, an ideal indoor retreat. Walk through the narrow streets to Hôtel de Manville and the protective Saint-Vincent Church.\n\nDespite the rain, the Château des Baux offers a dramatic atmosphere; sturdy shoes are a must on the slippery stones.\n\nThe afternoon belongs to the Carrières de Lumières, a vast cave that is completely dry.\n\nEnd the day in Val d'Enfer, where the wet rocks shine like silver under the mist."
+          },
+          "stops": [
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első eső elkerülésére és a helyi művészetre.",
+                "ro": "Loc perfect pentru a aștepta trecerea primei averse la adăpost.",
+                "en": "Perfect place to wait out the first rain shower while staying dry."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Innenhof für eine kurze Pause.",
+                "hu": "Használja a fedett udvart egy rövid pihenőre az esőben.",
+                "ro": "Folosiți curtea interioară acoperită pentru o scurtă pauză.",
+                "en": "Use the covered interior courtyard for a short break."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Ein ruhiger, trockener Ort mit schöner sakraler Atmosphäre.",
+                "hu": "Csendes, száraz helyszín gyönyörű szakrális hangulattal.",
+                "ro": "Un loc liniștit și uscat, cu o atmosferă sacră deosebită.",
+                "en": "A quiet, dry place with a beautiful sacred atmosphere."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Stufen; die Kalksteine werden extrem rutschig.",
+                "hu": "Vigyázat a lépcsőkön; a mészkő rendkívül csúszóssá válik.",
+                "ro": "Atenție pe trepte; pietrele de calcar devin extrem de alunecoase.",
+                "en": "Watch your step; the limestone blocks become extremely slippery."
+              }
+            },
+            {
+              "name": "Pavillon de la Reine Jeanne",
+              "tip_4lang": {
+                "de": "Kleiner Pavillon, der kaum Schutz bietet; Regenponcho anlassen.",
+                "hu": "Kis pavilon, kevés védelmet nyújt; tartsa magán az esőkabátot.",
+                "ro": "Pavilion mic ce oferă puțin adăpost; păstrați pelerina de ploaie.",
+                "en": "Small pavilion offering little shelter; keep your poncho on."
+              }
+            },
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Das ultimative Schlechtwetter-Ziel; komplett unterirdisch und trocken.",
+                "hu": "A legjobb rosszidős célpont; teljesen föld alatti és száraz.",
+                "ro": "Destinația supremă pentru vreme rea; complet subterană și uscată.",
+                "en": "The ultimate rainy day destination; completely underground and dry."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Die Felsformationen wirken bei Regen besonders mystisch.",
+                "hu": "A sziklaalakzatok esőben különösen misztikus látványt nyújtanak.",
+                "ro": "Formațiunile stâncoase par deosebit de mistice pe ploaie.",
+                "en": "The rock formations look particularly mystical in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit Gummisohle wegen der glatten Pflastersteine.",
+              "Die Carrières de Lumières sind der beste Ort für starke Regengüsse.",
+              "Regenschirme sind bei Mistral-Wind unpraktisch; Ponchos sind besser.",
+              "Viele Cafés im Dorf bieten gemütliche, überdachte Sitzplätze an.",
+              "Die Kalksteinfelsen saugen Wasser auf und können nachdunkeln."
+            ],
+            "hu": [
+              "Viseljen gumitalpú cipőt a rendkívül csúszós macskakövek miatt.",
+              "A Carrières de Lumières a legjobb menedék heves esőzés idején.",
+              "Az esernyő a szélben haszontalan; használjon inkább esőkabátot.",
+              "A falu számos kávézója kínál hangulatos, fedett teraszokat.",
+              "A mészkősziklák beszívják a vizet, ilyenkor sötétebb árnyalatúak."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă de cauciuc pentru pietrele alunecoase.",
+              "Carrières de Lumières este cel mai bun refugiu în caz de ploaie torențială.",
+              "Umbrelele sunt inutile în vânt; pelerinele sunt mult mai practice.",
+              "Multe cafenele din sat oferă locuri acoperite și primitoare.",
+              "Stâncile de calcar absorb apa și își schimbă culoarea în gri închis."
+            ],
+            "en": [
+              "Wear rubber-soled shoes due to the extremely slippery cobblestones.",
+              "Carrières de Lumières is the best sanctuary during heavy downpours.",
+              "Umbrellas are impractical in high winds; ponchos are much better.",
+              "Many village cafes offer cozy, covered indoor seating options.",
+              "Limestone rocks absorb water and may appear darker in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille von Les Baux im Winterlicht. Beginnen Sie im Santon-Museum, das die provenzalische Weihnachtstradition feiert.\n\nAuf dem Château-Plateau kann der Mistral-Wind eisig sein, aber die Fernsicht ist im Winter unübertroffen klar.\n\nNachmittags wärmen Sie sich in den Carrières de Lumières auf, wo die Temperatur konstant bleibt.\n\nGenießen Sie den frühen Sonnenuntergang über dem Val d'Enfer, bevor das Dorf in festlichem Glanz erstrahlt.",
+            "hu": "Fedezze fel Les Baux csendjét a téli fényekben. Kezdje a Santon-múzeumban, amely a provence-i karácsonyi hagyományokat idézi.\n\nA vár platóján a Misztrál szél metsző lehet, de a kilátás télen a legtisztább.\n\nDélután melegedjen fel a Carrières de Lumières barlangjában, ahol állandó a hőmérséklet.\n\nCsodálja meg a korai naplementét a Val d'Enfer felett, mielőtt a falu ünnepi fénybe öltözik.",
+            "ro": "Experimentați liniștea din Les Baux în lumina iernii. Începeți la muzeul Santon, care celebrează tradițiile provensale de Crăciun.\n\nPe platoul castelului, vântul Mistral poate fi tăios, dar vizibilitatea este maximă iarna.\n\nDupă-amiaza, încălziți-vă în Carrières de Lumières, unde temperatura rămâne constantă.\n\nBucurați-vă de apusul timpuriu peste Val d'Enfer înainte ca satul să fie iluminat festiv.",
+            "en": "Experience the silence of Les Baux in the winter light. Start at the Santon Museum, which celebrates Provençal Christmas traditions.\n\nOn the Castle plateau, the Mistral wind can be icy, but the long-distance views are clearest in winter.\n\nIn the afternoon, warm up in the Carrières de Lumières, where the temperature remains constant.\n\nEnjoy the early sunset over Val d'Enfer before the village glows in festive lighting."
+          },
+          "stops": [
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Besonders sehenswert in der Vorweihnachtszeit mit lokalen Krippen.",
+                "hu": "Különösen ajánlott az adventi időszakban a helyi betlehemek miatt.",
+                "ro": "De vizitat în special în perioada Crăciunului pentru ieslele locale.",
+                "en": "Especially worth visiting during the Christmas season for local nativity scenes."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Die Fassade leuchtet in der tiefstehenden Wintersonne golden.",
+                "hu": "A homlokzat aranyosan ragyog az alacsonyan járó téli napsütésben.",
+                "ro": "Fațada strălucește auriu în soarele palid al iernii.",
+                "en": "The facade glows golden in the low-lying winter sun."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Ein geschützter Ort vor dem kalten Mistral-Wind.",
+                "hu": "Védett helyszín a hideg Misztrál szél elől.",
+                "ro": "Un loc adăpostit de vântul rece Mistral.",
+                "en": "A sheltered place away from the cold Mistral wind."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Winddichte Kleidung ist hier oben im Winter unerlässlich.",
+                "hu": "Szélálló ruházat elengedhetetlen itt fent a téli hónapokban.",
+                "ro": "Hainele rezistente la vânt sunt esențiale aici sus iarna.",
+                "en": "Windproof clothing is essential up here during winter."
+              }
+            },
+            {
+              "name": "Pavillon de la Reine Jeanne",
+              "tip_4lang": {
+                "de": "Hervorragender Fotopunkt für den frühen Winter-Sonnenuntergang.",
+                "hu": "Kiváló fotópont a korai téli naplemente megörökítéséhez.",
+                "ro": "Punct excelent de fotografiere pentru apusul timpuriu de iarnă.",
+                "en": "Excellent photo spot for the early winter sunset."
+              }
+            },
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Angenehme 14 Grad im Inneren, unabhängig vom Außenwetter.",
+                "hu": "Kellemes 14 fok bent, a külső időjárástól függetlenül.",
+                "ro": "O temperatură plăcută de 14 grade în interior, indiferent de vreme.",
+                "en": "A pleasant 14 degrees inside, regardless of the outside weather."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Die kühle Luft macht die bizarren Felsformen noch schärfer.",
+                "hu": "A hűvös levegőben a bizarr sziklaformák még élesebbnek tűnnek.",
+                "ro": "Aerul rece face formele bizare ale stâncilor să pară și mai clare.",
+                "en": "The cool air makes the bizarre rock formations look even sharper."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Mistral-Vorhersage; der Wind kann sehr stark sein.",
+              "Sonnenuntergang ist bereits gegen 17:00 Uhr; planen Sie das Ende ein.",
+              "Die Carrières de Lumières bieten eine warme Pause vom Wind.",
+              "Einige kleine Läden haben im tiefsten Winter eingeschränkte Zeiten.",
+              "Warme Schichten sind wichtig, da die Temperatur im Schatten stark fällt."
+            ],
+            "hu": [
+              "Figyelje a Misztrál szél előrejelzést; nagyon erős lehet a platón.",
+              "A naplemente már 17:00 körül bekövetkezik; tervezzen előre.",
+              "A Carrières de Lumières meleg pihenőt nyújt a szeles időben.",
+              "Néhány kis bolt korlátozott nyitvatartással üzemel télen.",
+              "Öltözzön rétegesen, mert az árnyékban hirtelen leesik a hőmérséklet."
+            ],
+            "ro": [
+              "Urmăriți prognoza pentru Mistral; vântul poate fi foarte puternic.",
+              "Apusul este în jur de ora 17:00; planificați finalul traseului.",
+              "Carrières de Lumières oferă o pauză caldă de la vântul tăios.",
+              "Unele magazine mici pot avea program redus în mijlocul iernii.",
+              "Straturile termice sunt vitale, temperatura scade brusc la umbră."
+            ],
+            "en": [
+              "Check the Mistral wind forecast; it can be very strong on the plateau.",
+              "Sunset is around 17:00; make sure to finish your outdoor walk by then.",
+              "Carrières de Lumières provides a warm respite from the biting wind.",
+              "Some small shops might have limited opening hours during winter.",
+              "Wear warm layers as the temperature drops significantly in the shade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -661,6 +1177,414 @@
           "Be sure to use sunscreen when cycling in the summer.",
           "Bicycles are not allowed in the narrow streets of the village."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour mit einem Besuch der Carrières de Lumières, bevor die Mittagssonne zu heiß wird. Die kühlen Steinbrüche sind der perfekte erste Stopp. Danach geht es hinauf zum Dorf Les Baux.\n\nDer Mittag ist der Erkundung des Schlosses und der Kirche Saint-Vincent gewidmet. Stellen Sie Ihr Rad am Dorfeingang ab, da die steilen Gassen nur zu Fuß begehbar sind. Die Aussicht von der Burg entschädigt für den Aufstieg.\n\nNachmittags rollen Sie hinunter zum Pavillon de la Reine Jeanne und weiter in das Val d'Enfer. Die Fahrt durch diese 'Höllenlandschaft' ist mit dem Fahrrad besonders intensiv und bietet fantastische Fotomotive.\n\nDen Abschluss bildet die Chapelle Sainte-Blaise. Genießen Sie die sanfte Abfahrt aus den Alpillen zurück in die Ebene, während die Olivenbäume lange Schatten werfen.",
+            "hu": "Indítsd a kerékpártúrát a Carrières de Lumières meglátogatásával, mielőtt a déli nap túl erőssé válna. A hűvös kőfejtő tökéletes első állomás. Ezután irány fel Les Baux falujába.\n\nA délidőt a vár és a Szent Vince-templom felfedezésének szenteld. Rakd le a biciklit a falu bejáratánál, mert a meredek utcák csak gyalog járhatók. A várból nyíló kilátás kárpótol a kaptatóért.\n\nDélután gurulj le Jeanne királynő pavilonjához, majd tovább a Pokol-völgyébe. A tekerés ezen a „pokoli” tájon kerékpárral különösen intenzív élmény és fantasztikus fotótémákat kínál.\n\nA napot a Szent Balázs-kápolna zárja. Élvezd a lankás gurulást az Alpilles-hegységből vissza a síkságra, ahogy az olajfák árnyéka megnyúlik.",
+            "ro": "Începeți turul cu bicicleta vizitând Carrières de Lumières înainte ca soarele de la prânz să devină prea puternic. Carierele răcoroase sunt prima oprire perfectă. Apoi, urcați spre satul Les Baux.\n\nAmiaza este dedicată explorării castelului și a bisericii Saint-Vincent. Lăsați bicicleta la intrarea în sat, deoarece străzile abrupte pot fi parcurse doar pe jos. Vederea de la castel merită efortul urcării.\n\nDupă-amiaza, coborâți spre Pavilionul Reginei Jeanne și apoi spre Val d'Enfer. Plimbarea prin acest peisaj „infernal” este deosebit de intensă cu bicicleta și oferă oportunități fantastice pentru fotografii.\n\nZiua se încheie la Capela Sainte-Blaise. Bucurați-vă de coborârea lină din munții Alpilles înapoi spre câmpie, în timp ce umbrele măslinilor devin tot mai lungi.",
+            "en": "Start your cycling tour with a visit to Carrières de Lumières before the midday sun gets too strong. The cool quarries are the perfect first stop. Then, head up to the village of Les Baux.\n\nMidday is dedicated to exploring the castle and the Church of Saint-Vincent. Park your bike at the village entrance, as the steep alleys are pedestrian-only. The view from the castle makes up for the climb.\n\nIn the afternoon, roll down to the Pavillon de la Reine Jeanne and further into the Val d'Enfer. Cycling through this 'hellish' landscape is particularly intense and offers fantastic photo opportunities.\n\nThe day concludes at Chapelle Sainte-Blaise. Enjoy the gentle descent from the Alpilles back to the plains as the olive trees' shadows grow long."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carrières de Lumières",
+                "hu": "Fények Bányája",
+                "ro": "Carierele de Lumini",
+                "en": "Carrières de Lumières"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad am dafür vorgesehenen Platz am Eingang.",
+                "hu": "Zárd le a biciklit a bejáratnál kialakított tárolóban.",
+                "ro": "Parcați bicicleta în spațiul special amenajat la intrare.",
+                "en": "Park your bike at the designated spot near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Les Baux",
+                "hu": "Baux vára",
+                "ro": "Castelul Les Baux",
+                "en": "Château des Baux"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Fahrrad im Dorf, es ist Fußgängerzone.",
+                "hu": "A faluban told a biciklit, mert sétálóövezet.",
+                "ro": "Împingeți bicicleta prin sat, este zonă pietonală.",
+                "en": "Push your bike inside the village as it is a pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vincent",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren bietet eine kühle Pause.",
+                "hu": "A belső nyugalom hűvös pihenőt nyújt.",
+                "ro": "Liniștea din interior oferă o pauză răcoroasă.",
+                "en": "The interior's quiet offers a cool break from the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon der Königin Jeanne",
+                "hu": "Jeanne királynő pavilonja",
+                "ro": "Pavilionul Reginei Jeanne",
+                "en": "Pavillon de la Reine Jeanne"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für ein Picknick im Schatten.",
+                "hu": "Remek hely egy árnyas piknikhez.",
+                "ro": "Un loc excelent pentru un picnic la umbră.",
+                "en": "A great spot for a shaded picnic."
+              }
+            },
+            {
+              "name": {
+                "de": "Val d'Enfer",
+                "hu": "Pokol-völgye",
+                "ro": "Valea Iadului",
+                "en": "Val d'Enfer"
+              },
+              "tip_5lang": {
+                "de": "Die Straße durch das Tal ist spektakulär für Radfahrer.",
+                "hu": "A völgyön átvezető út látványos a kerékpárosoknak.",
+                "ro": "Drumul prin vale este spectaculos pentru bicicliști.",
+                "en": "The road through the valley is spectacular for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Blaise",
+                "hu": "Szent Balázs-kápolna",
+                "ro": "Chapelle Sainte-Blaise",
+                "en": "Chapelle Sainte-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine romanische Kapelle liegt direkt an der Festung.",
+                "hu": "Ez a kis román stílusú kápolna közvetlenül a várnál található.",
+                "ro": "Această mică capelă romanică este situată chiar lângă fortăreață.",
+                "en": "This small Romanesque chapel is located right by the fortress."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Prince Noir",
+                "tip": "Ein gemütlicher Ort für eine schnelle, aber hochwertige provenzalische Mahlzeit."
+              },
+              {
+                "name": "AOP Olivenöl-Verkostung",
+                "tip": "Ideal für Radfahrer: Ein energiereicher Snack mit lokalem Brot und Öl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Prince Noir",
+                "tip": "Hangulatos hely egy gyors, de minőségi provence-i ebédhez."
+              },
+              {
+                "name": "AOP olívaolaj kóstoló",
+                "tip": "Ideális bringásoknak: energiadús uzsonna helyi kenyérrel és olajjal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Prince Noir",
+                "tip": "Un loc primitor pentru o masă provensală rapidă, dar de calitate."
+              },
+              {
+                "name": "Degustare de ulei de măsline AOP",
+                "tip": "Ideal pentru bicicliști: o gustare energizantă cu pâine locală și ulei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Prince Noir",
+                "tip": "A cozy spot for a quick but high-quality Provencal meal."
+              },
+              {
+                "name": "AOP Olive Oil Tasting",
+                "tip": "Ideal for cyclists: an energy-rich snack with local bread and oil."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vallon de la Fontaine",
+                "tip": "Ein ruhiges Tal unterhalb der Klippen, ideal zum Ausruhen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vallon de la Fontaine",
+                "tip": "Csendes völgy a sziklák alatt, ideális a pihenéshez.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vallon de la Fontaine",
+                "tip": "O vale liniștită sub stânci, ideală pentru odihnă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vallon de la Fontaine",
+                "tip": "A quiet valley below the cliffs, ideal for resting.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendelsäckchen",
+                "tip": "Leicht zu transportieren im Fahrradkorb und duftet herrlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendulazsákok",
+                "tip": "Könnyű szállítani a biciklis kosárban és isteni az illata."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Săculeți cu lavandă",
+                "tip": "Ușor de transportat în coșul bicicletei și miros divin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender Sachets",
+                "tip": "Easy to carry in a bike basket and they smell heavenly."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Auffahrt nach Les Baux ist steil; stellen Sie sicher, dass Ihre Bremsen gut funktionieren.",
+              "Nutzen Sie die Fahrradständer am Eingang von Carrières de Lumières.",
+              "Tragen Sie im Sommer unbedingt einen Sonnenschutz.",
+              "Fahrräder sind in den engen Gassen des Dorfes nicht erlaubt."
+            ],
+            "hu": [
+              "A Les Baux-ba vezető emelkedő meredek; ellenőrizd a fékeket indulás előtt.",
+              "Használd a Carrières de Lumières bejáratánál lévő kerékpártárolókat.",
+              "Nyáron mindenképpen használj naptejet tekerés közben.",
+              "A falu szűk utcáira tilos behajtani kerékpárral."
+            ],
+            "ro": [
+              "Urcarea spre Les Baux este abruptă; asigurați-vă că frânele funcționează bine.",
+              "Folosiți rastelele de biciclete de la intrarea în Carrières de Lumières.",
+              "Folosiți neapărat protecție solară în timpul verii.",
+              "Bicicletele nu sunt permise pe străzile înguste ale satului."
+            ],
+            "en": [
+              "The climb to Les Baux is steep; make sure your brakes are in good working order.",
+              "Use the bike racks at the entrance of Carrières de Lumières.",
+              "Be sure to use sunscreen when cycling in the summer.",
+              "Bicycles are not allowed in the narrow streets of the village."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch die Alpilles fordert Konzentration. Starten Sie bei den Carrières de Lumières, um sich vor dem ersten Guss zu schützen.\n\nDer Anstieg zum Château ist bei Regen anstrengend; die Kalksteine im Dorf sind extrem glatt für Reifen.\n\nNachmittags bieten die Kirchen und Museen kurze trockene Stopps.\n\nFahren Sie vorsichtig durch das Val d'Enfer zurück, wo die Straßenoberfläche rutschig sein kann.",
+            "hu": "A vizes tekerés az Alpilles dombjai között figyelmet igényel. Kezdjen a Carrières de Lumières-nél, hogy elkerülje az első záport.\n\nA vár felé vezető emelkedő esőben fárasztó; a falusi mészkő burkolat rendkívül csúszik.\n\nDélután a templomok és múzeumok kínálnak rövid, száraz megállókat.\n\nÓvatosan ereszkedjen le a Val d'Enfer felé, ahol az útburkolat csúszós lehet.",
+            "ro": "O tură umedă prin Alpilles necesită concentrare maximă. Începeți la Carrières de Lumières pentru a vă proteja de prima rafală.\n\nUrcarea spre castel este solicitantă pe ploaie; pietrele din sat sunt extrem de alunecoase pentru anvelope.\n\nDupă-amiaza, bisericile și muzeele oferă scurte opriri la adăpost.\n\nCoborâți cu prudență prin Val d'Enfer, unde suprafața drumului poate fi înșelătoare.",
+            "en": "A wet ride through the Alpilles requires focus. Start at Carrières de Lumières to shelter from the first downpour.\n\nThe climb to the Castle is strenuous in the rain; the limestone paving in the village is extremely slick for tires.\n\nIn the afternoon, churches and museums offer short dry stops.\n\nCycle carefully back through Val d'Enfer, where the road surface can be slippery."
+          },
+          "stops": [
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Idealer Startpunkt, um bei Regen erst einmal indoor zu bleiben.",
+                "hu": "Ideális kezdőpont, hogy esőben először fedett helyen maradjon.",
+                "ro": "Punct de pornire ideal pentru a rămâne la interior pe ploaie.",
+                "en": "Ideal starting point to stay indoors during the initial rain."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad sicher ab; die Wege oben sind zu Fuß rutschig.",
+                "hu": "Biztonságosan parkolja le a bringát; a fenti utak gyalog is csúsznak.",
+                "ro": "Parcați bicicleta în siguranță; potecile de sus sunt alunecoase.",
+                "en": "Park your bike securely; the paths above are slippery even on foot."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Kurze Pause im Trockenen, bevor es weitergeht.",
+                "hu": "Rövid pihenő szárazon, mielőtt továbbindulna.",
+                "ro": "Scurtă pauză la uscat înainte de a porni din nou la drum.",
+                "en": "Short break in the dry before continuing your ride."
+              }
+            },
+            {
+              "name": "Pavillon de la Reine Jeanne",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf dem abschüssigen Weg zum Pavillon.",
+                "hu": "Vigyázzon a fékezéssel a pavilon felé vezető lejtős úton.",
+                "ro": "Atenție la frânare pe drumul în pantă spre pavilion.",
+                "en": "Be careful when braking on the sloping path to the pavilion."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Die Straße durch das Tal kann bei Regen viel Laub und Schmutz haben.",
+                "hu": "A völgyön átvezető út esőben avarral és hordalékkal lehet teli.",
+                "ro": "Drumul prin vale poate fi acoperit de frunze și noroi pe ploaie.",
+                "en": "The road through the valley can have leaves and debris when raining."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Blaise",
+              "tip_4lang": {
+                "de": "Ein kleiner, ruhiger Stopp zum Verschnaufen im Regen.",
+                "hu": "Kicsi, csendes megálló egy szusszanásra az esőben.",
+                "ro": "O mică oprire liniștită pentru a răsufla în timp ce plouă.",
+                "en": "A small, quiet stop to catch your breath in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen brauchen längere Bremswege.",
+              "Vermeiden Sie das Fahren auf den weißen Steinen im Dorfzentrum.",
+              "Vollständige Regenbekleidung ist für die Abfahrten unerlässlich.",
+              "Schutzbleche verhindern, dass Schmutzwasser auf den Rücken spritzt.",
+              "Die Straße D27 kann bei Regen durch abfließendes Wasser tückisch sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes felniken hosszabb a féktáv.",
+              "Kerülje a bringázást a falu központjában lévő fehér köveken.",
+              "A teljes esőruházat elengedhetetlen a lejtmenetekhez.",
+              "A sárvédő megakadályozza, hogy a vizes sár a hátára fröccsenjen.",
+              "A D27-es út az átfolyások miatt csalóka lehet esőben."
+            ],
+            "ro": [
+              "Verificați frânele; jantele umede necesită o distanță mai mare de frânare.",
+              "Evitați să pedalați pe pietrele albe din centrul satului.",
+              "Echipamentul complet de ploaie este esențial pentru coborâri.",
+              "Apărătorile de noroi previn stropirea spatelui cu apă murdară.",
+              "Drumul D27 poate fi periculos din cauza scurgerilor de apă pe ploaie."
+            ],
+            "en": [
+              "Check your brakes; wet rims require longer braking distances.",
+              "Avoid cycling directly on the white stones in the village center.",
+              "Full waterproof gear is essential for the descents.",
+              "Mudguards prevent dirty water from splashing onto your back.",
+              "The D27 road can be treacherous with water runoff during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch die Alpilles. Starten Sie bei den Carrières de Lumières, um die morgendliche Kälte zu meiden.\n\nDer Mistral kann auf den offenen Strecken zum Château stark wehen; tragen Sie winddichte Schichten.\n\nDie winterliche Klarheit bietet fantastische Fotomotive vom Pavillon aus.\n\nBeenden Sie die Tour am frühen Nachmittag, da die Temperaturen nach 16 Uhr im Schatten rapide sinken.",
+            "hu": "Frissítő téli túra az Alpilles-hegységben. Kezdjen a Carrières de Lumières-nél, hogy elkerülje a reggeli fagyot.\n\nA Misztrál szél erősen fújhat a vár felé vezető nyílt szakaszokon; viseljen szélálló ruhát.\n\nA téli tisztaság fantasztikus fotótémákat kínál a pavilontól.\n\nA túrát kora délután fejezze be, mert árnyékban 16 óra után hirtelen lehűl a levegő.",
+            "ro": "O tură revigorantă de iarnă prin Alpilles. Începeți la Carrières de Lumières pentru a evita frigul matinal.\n\nMistralul poate sufla cu putere pe secțiunile deschise spre castel; purtați straturi rezistente la vânt.\n\nClaritatea iernii oferă oportunități fantastice de fotografiere de la pavilion.\n\nÎncheiați tura după-amiaza devreme, deoarece temperaturile scad brusc la umbră după ora 16:00.",
+            "en": "A refreshing winter ride through the Alpilles. Start at Carrières de Lumières to avoid the morning chill.\n\nThe Mistral can blow hard on the open stretches toward the Castle; wear windproof layers.\n\nThe winter clarity offers fantastic photo opportunities from the pavilion.\n\nFinish your tour by early afternoon, as temperatures drop rapidly in the shade after 4 PM."
+          },
+          "stops": [
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Konstante Innentemperatur macht es zum idealen Aufwärmstopp.",
+                "hu": "Az állandó belső hőmérséklet ideális melegedőponttá teszi.",
+                "ro": "Temperatura constantă din interior o face o oprire ideală pentru încălzire.",
+                "en": "Constant indoor temperature makes it an ideal warming-up stop."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Extremer Windchill-Faktor auf der Burgspitze; Mütze unter den Helm.",
+                "hu": "Erős hőérzet-csökkenés a szél miatt a vár csúcsán; sapka a sisak alá.",
+                "ro": "Factor de răcire extrem cauzat de vânt pe vârful cetății; purtați căciulă.",
+                "en": "Extreme wind chill factor on the castle summit; wear a cap under your helmet."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Kleiner Rückzugsort, um die Finger wieder aufzuwärmen.",
+                "hu": "Kis menedékhely, ahol felmelegítheti az ujjait.",
+                "ro": "Mic refugiu unde vă puteți reîncălzi degetele.",
+                "en": "Small sanctuary to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Pavillon de la Reine Jeanne",
+              "tip_4lang": {
+                "de": "Das Licht am frühen Nachmittag ist perfekt für Fotos.",
+                "hu": "A kora délutáni fények tökéletesek a fotózáshoz.",
+                "ro": "Lumina de după-amiază devreme este perfectă pentru fotografii.",
+                "en": "The early afternoon light is perfect for photography."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Trinken Sie hier etwas Heißes aus der Thermoskanne.",
+                "hu": "Igyon itt valami forrót a termoszból.",
+                "ro": "Beți ceva cald din termos în timp ce admirați peisajul.",
+                "en": "Enjoy a hot drink from your thermos while taking in the views."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Blaise",
+              "tip_4lang": {
+                "de": "Ruhiger Abschluss der Tour im milden Winterlicht.",
+                "hu": "A túra csendes lezárása a lágy téli fényekben.",
+                "ro": "Finalul liniștit al turei în lumina blândă a iernii.",
+                "en": "A quiet end to your tour in the soft winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind bei den schnellen Abfahrten Pflicht.",
+              "Vermeiden Sie Fahrten bei Mistral-Warnung; Seitenwind ist gefährlich.",
+              "Das Tageslicht endet früh; sorgen Sie für funktionierende Beleuchtung.",
+              "Nehmen Sie eine Thermoskanne mit Tee für Pausen mit.",
+              "Tragen Sie eine Windjacke, die auch den Hals gut schützt."
+            ],
+            "hu": [
+              "A termokesztyű kötelező a gyors lejtmeneteknél.",
+              "Kerülje a bringázást erős Misztrál szélben; az oldalszél veszélyes.",
+              "A nappali fény korán elfogy; gondoskodjon a működő világításról.",
+              "Vigyen magával teát termoszban a pihenőkhöz.",
+              "Viseljen szélkabátot, amely a nyakát is jól védi."
+            ],
+            "ro": [
+              "Mănușile termice sunt obligatorii pentru coborârile rapide.",
+              "Evitați deplasarea pe vânt Mistral puternic; vântul lateral este periculos.",
+              "Lumina zilei dispare devreme; asigurați-vă că aveți lumini funcționale.",
+              "Luați cu voi un termos cu ceai pentru pauzele de pe drum.",
+              "Purtați o jachetă de vânt care să vă protejeze bine și gâtul."
+            ],
+            "en": [
+              "Thermal gloves are a must for the fast descents.",
+              "Avoid cycling during Mistral warnings; crosswinds can be dangerous.",
+              "Daylight ends early; ensure your bike lights are working properly.",
+              "Carry a thermos with hot tea for your breaks.",
+              "Wear a windbreaker that provides good neck protection."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -923,6 +1847,398 @@
           "On weekends, traffic to the village is often very heavy.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank des Autos können Sie den Tag bequem bei den Carrières de Lumières beginnen. Der große Parkplatz ermöglicht einen stressfreien Start in die beeindruckende Lichtshow. Danach ist es nur eine kurze Fahrt zum Haupteingang des Dorfes.\n\nVerbringen Sie die Mittagsstunden auf der Festung Château des Baux. Die Parkgebühren beinhalten oft den Zugang zum Dorf, also nutzen Sie die Zeit für die Ruinen und das Musée des Santons. Die Aussicht von oben ist spektakulär.\n\nAm Nachmittag fahren Sie durch das Val d'Enfer. Die Straße windet sich durch bizarre weiße Kalkfelsen, die an eine Mondlandschaft erinnern. Es ist eine der fotogensten Strecken der Region.\n\nZum Abschluss besuchen Sie die Chapelle Sainte-Blaise. Die Rückfahrt bietet goldene Ausblicke auf die weiten Olivenhaine der Vallée des Baux, bevor Sie die Alpillen verlassen.",
+            "hu": "Az autónak köszönhetően kényelmesen kezdheted a napot a Carrières de Lumières-nél. A nagy parkoló stresszmentes indulást biztosít a lenyűgöző fényshow-hoz. Ezután csak egy rövid út a falu főbejárata.\n\nA délidőt töltsd a Baux várában. A parkolási díj gyakran tartalmazza a faluba való belépést is, így használd ki az időt a romokra és a Santons Múzeumra. A fentről nyíló kilátás pazar.\n\nDélután autózz át a Pokol-völgyén (Val d'Enfer). Az út bizarr fehér mészkősziklák között kanyarog, amik holdbéli tájra emlékeztetnek. Ez a régió egyik legfotogénebb útvonala.\n\nZárásként látogass el a Szent Balázs-kápolnához. A visszaút aranyló kilátást nyújt a Vallée des Baux végtelen olajfaligeteire, mielőtt elhagynád az Alpilles-hegységet.",
+            "ro": "Datorită mașinii, puteți începe ziua confortabil la Carrières de Lumières. Parcarea mare asigură un start fără stres pentru impresionantul spectacol de lumini. Apoi, urmează doar o scurtă călătorie până la intrarea principală în sat.\n\nPetreceți amiaza la fortăreața Château des Baux. Taxa de parcare include adesea accesul în sat, așa că profitați de timp pentru ruine și Muzeul Santonilor. Vederea de sus este spectaculoasă.\n\nDupă-amiaza, conduceți prin Val d'Enfer. Drumul șerpuiește printre stânci bizare de calcar alb, care amintesc de un peisaj lunar. Este una dintre cele mai fotogenice rute din regiune.\n\nLa final, vizitați Capela Sainte-Blaise. Drumul de întoarcere oferă vederi aurii peste livezile vaste de măslini din Vallée des Baux, înainte de a părăsi munții Alpilles.",
+            "en": "Thanks to the car, you can comfortably start the day at Carrières de Lumières. The large parking lot ensures a stress-free start to the impressive light show. Afterward, it is just a short drive to the main entrance of the village.\n\nSpend the midday hours at the fortress of Château des Baux. The parking fee often covers village access, so use the time for the ruins and the Musée des Santons. The view from the top is spectacular.\n\nIn the afternoon, drive through the Val d'Enfer. The road winds through bizarre white limestone rocks that resemble a lunar landscape. It is one of the most photogenic routes in the region.\n\nFinally, visit Chapelle Sainte-Blaise. The drive back offers golden views of the vast olive groves of the Vallée des Baux before leaving the Alpilles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carrières de Lumières",
+                "hu": "Fények Bányája",
+                "ro": "Carierele de Lumini",
+                "en": "Carrières de Lumières"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
+                "hu": "Használd a közvetlenül a bejárat előtt lévő parkolót.",
+                "ro": "Folosiți parcarea situată chiar în fața intrării.",
+                "en": "Use the parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Les Baux",
+                "hu": "Baux vára",
+                "ro": "Castelul Les Baux",
+                "en": "Château des Baux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den terrassierten Plätzen unterhalb des Dorfes.",
+                "hu": "Parkolj a falu alatti teraszos parkolókban.",
+                "ro": "Parcați în spațiile terasate de sub sat.",
+                "en": "Park in the terraced lots below the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Santons",
+                "hu": "Santons Múzeum",
+                "ro": "Muzeul Santonilor",
+                "en": "Musée des Santons"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, informativer Stopp im Herzen des Dorfes.",
+                "hu": "Rövid, tanulságos megálló a falu szívében.",
+                "ro": "O oprire scurtă și informativă în inima satului.",
+                "en": "A short, informative stop in the heart of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Manville",
+                "hu": "Hôtel de Manville",
+                "ro": "Hôtel de Manville",
+                "en": "Hôtel de Manville"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der Renaissance.",
+                "hu": "Csodáld meg a reneszánsz építészetet.",
+                "ro": "Admirați arhitectura renascentistă.",
+                "en": "Admire the Renaissance architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Val d'Enfer",
+                "hu": "Pokol-völgye",
+                "ro": "Valea Iadului",
+                "en": "Val d'Enfer"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um die Felsformationen zu sehen.",
+                "hu": "Vezess lassan, hogy lásd a különleges sziklákat.",
+                "ro": "Conduceți încet pentru a observa formațiunile stâncoase.",
+                "en": "Drive slowly to spot the unique rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Blaise",
+                "hu": "Szent Balázs-kápolna",
+                "ro": "Chapelle Sainte-Blaise",
+                "en": "Chapelle Sainte-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle beherbergt oft kleine Kunstausstellungen.",
+                "hu": "A kápolna gyakran ad otthont kisebb művészeti kiállításoknak.",
+                "ro": "Capela găzduiește adesea mici expoziții de artă.",
+                "en": "The chapel often hosts small art exhibitions."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Baux-de-Provence Wein",
+                "tip": "Besuchen Sie ein Weingut in der Nähe für eine Verkostung der lokalen Rotweine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Baux-de-Provence bor",
+                "tip": "Látogass el egy közeli borászatba a helyi vörösborok kóstolására."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Les Baux-de-Provence",
+                "tip": "Vizitați o cramă din apropiere pentru o degustare de vinuri roșii locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Baux-de-Provence Wine",
+                "tip": "Visit a nearby winery for a tasting of the local red wines."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Belvédère des Alpilles",
+                "tip": "Ein Aussichtspunkt an der Straße mit Blick auf die Camargue.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvédère des Alpilles",
+                "tip": "Útmenti kilátópont rálátással a Camargue vidékére.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvédère des Alpilles",
+                "tip": "Un punct de observație la marginea drumului cu vedere spre Camargue.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvédère des Alpilles",
+                "tip": "A roadside viewpoint with views stretching to the Camargue.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Kaufen Sie direkt beim Erzeuger in einer der Mühlen am Straßenrand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásárolj közvetlenül a termelőtől az útmenti malmok egyikében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producător de la una dintre morile de pe marginea drumului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Buy directly from the producer at one of the roadside mills."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkplätze sind kostenpflichtig; bezahlen Sie bequem per App oder am Automaten.",
+              "Die Straßen in den Alpillen sind eng und kurvig; fahren Sie vorsichtig.",
+              "An Wochenenden ist der Verkehr zum Dorf oft sehr dicht.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "A parkolás díjköteles; fizethetsz kényelmesen applikáción vagy automatánál.",
+              "Az Alpilles útjai szűkek és kanyargósak; vezess óvatosan.",
+              "Hétvégente a faluba vezető forgalom gyakran nagyon sűrű.",
+              "Ne hagyj értéket látható helyen az autóban."
+            ],
+            "ro": [
+              "Parcarea este cu plată; puteți plăti convenabil prin aplicație sau la automat.",
+              "Drumurile din Alpilles sunt înguste și sinuoase; conduceți cu atenție.",
+              "În weekend, traficul spre sat este adesea foarte dens.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Parking is paid; you can pay conveniently via app or at the machine.",
+              "The roads in the Alpilles are narrow and winding; drive carefully.",
+              "On weekends, traffic to the village is often very heavy.",
+              "Do not leave valuables visible in the car."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Les Baux bequem vom Auto aus. Starten Sie bei den Carrières de Lumières, wo Sie fast direkt vor dem Eingang parken können.\n\nDas Château bietet eine dramatische Kulisse im Regen, aber der Weg vom Parkplatz erfordert einen Schirm.\n\nNachmittags laden das Musée des Santons und das Hôtel de Manville im Dorf zu gemütlichen Besichtigungen ein.\n\nEine Fahrt durch das Val d'Enfer bei Regen zeigt die Felsen in einem ganz neuen Licht.",
+            "hu": "Fedezze fel Les Baux-t kényelmesen az autóból. Kezdjen a Carrières de Lumières-nél, ahol szinte a bejáratnál parkolhat.\n\nA vár drámai látványt nyújt esőben, de a parkolótól esernyőre lesz szüksége.\n\nDélután a Musée des Santons és az Hôtel de Manville kínál kellemes beltéri programot.\n\nEgy esős autózás a Val d'Enfer völgyében egészen új arcát mutatja meg a szikláknak.",
+            "ro": "Bucurați-vă de Les Baux confortabil, din mașină. Începeți la Carrières de Lumières, unde puteți parca aproape de intrare.\n\nCetatea oferă un decor dramatic în ploaie, dar veți avea nevoie de umbrelă de la parcare.\n\nDupă-amiaza, Musée des Santons și Hôtel de Manville oferă vizite plăcute la interior.\n\nO plimbare cu mașina prin Val d'Enfer pe ploaie dezvăluie stâncile într-o lumină nouă.",
+            "en": "Enjoy Les Baux comfortably from your car. Start at Carrières de Lumières, where you can park almost right in front of the entrance.\n\nThe Castle offers a dramatic backdrop in the rain, but you'll need an umbrella for the walk from the lot.\n\nIn the afternoon, the Musée des Santons and Hôtel de Manville invite you for cozy indoor visits.\n\nA drive through Val d'Enfer in the rain shows the rocks in a completely new light."
+          },
+          "stops": [
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Naher Parkplatz verfügbar; ideal bei starkem Regen.",
+                "hu": "Közeli parkoló áll rendelkezésre; ideális heves esőben.",
+                "ro": "Parcare apropiată disponibilă; ideal în caz de ploaie torențială.",
+                "en": "Close parking available; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Der Fußweg vom Parkplatz zum Eingang ist ungeschützt.",
+                "hu": "A parkolótól a bejáratig tartó gyalogút nem fedett.",
+                "ro": "Drumul pe jos de la parcare la intrare este neprotejat.",
+                "en": "The walk from the parking lot to the entrance is unsheltered."
+              }
+            },
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Parken Sie am Dorfeingang und nutzen Sie einen Schirm für die Gassen.",
+                "hu": "Parkoljon a falu bejáratánál, és használjon esernyőt a szűk utcákban.",
+                "ro": "Parcați la intrarea în sat și folosiți o umbrelă pe străduțe.",
+                "en": "Park at the village entrance and use an umbrella in the narrow streets."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um kurz dem Regen zu entkommen.",
+                "hu": "Szép helyszín, ahol rövid időre elmenekülhet az eső elől.",
+                "ro": "Un loc frumos pentru a scăpa scurt de ploaie.",
+                "en": "A beautiful spot to briefly escape the rain."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Beste Sicht auf die Felsen direkt aus dem Autofenster.",
+                "hu": "A legjobb kilátás a sziklákra közvetlenül az autó ablakából.",
+                "ro": "Cea mai bună vedere asupra stâncilor direct de pe geamul mașinii.",
+                "en": "Best view of the rocks directly from your car window."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Blaise",
+              "tip_4lang": {
+                "de": "Kleiner Parkstopp für ein schnelles Foto im Regen.",
+                "hu": "Rövid parkolási lehetőség egy gyors fotóhoz az esőben.",
+                "ro": "Mică oprire pentru o fotografie rapidă în ploaie.",
+                "en": "Small parking stop for a quick photo in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplätze direkt am Dorf können bei Regen schlammig sein.",
+              "Nutzen Sie die Carrières de Lumières als Basis bei starkem Guss.",
+              "Fahren Sie vorsichtig auf der gewundenen D27; Aquaplaning-Gefahr.",
+              "Haben Sie immer einen Regenschirm im Auto griffbereit.",
+              "Einige Parkautomaten können bei Nässe schwer bedienbar sein."
+            ],
+            "hu": [
+              "A közvetlenül a falu melletti parkolók esőben sárosak lehetnek.",
+              "Használja a Carrières de Lumières-t bázisként heves esőzéskor.",
+              "Vezessen óvatosan a kanyargós D27-es úton; vízátfolyások lehetnek.",
+              "Mindig legyen kéznél esernyő az autóban.",
+              "Néhány parkolóautomata nehezen kezelhető lehet vizes kézzel."
+            ],
+            "ro": [
+              "Parcările de lângă sat pot deveni noroioase pe ploaie.",
+              "Folosiți Carrières de Lumières ca bază în timpul averselor puternice.",
+              "Conduceți cu prudență pe drumul sinuos D27; risc de acvaplanare.",
+              "Aveți întotdeauna o umbrelă la îndemână în mașină.",
+              "Unele automate de parcare pot fi greu de utilizat când sunt ude."
+            ],
+            "en": [
+              "Parking lots directly by the village can get muddy in the rain.",
+              "Use Carrières de Lumières as your base during heavy downpours.",
+              "Drive carefully on the winding D27; watch out for hydroplaning.",
+              "Always have an umbrella ready in the car.",
+              "Some parking meters might be difficult to operate when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour nach Les Baux. Beginnen Sie bei den Carrières de Lumières, die im Winter angenehm temperiert sind.\n\nDas Château ist im Winterlicht besonders eindrucksvoll; parken Sie so nah wie möglich am Eingang.\n\nNachmittags ist das Dorf ruhig, ideal für einen kurzen Spaziergang zum Musée des Santons.\n\nDie Fahrt durch das Val d'Enfer bietet im klaren Winterlicht die besten Kontraste für Ihre Fotos.",
+            "hu": "Téli kiruccanás Les Baux-ba. Kezdjen a Carrières de Lumières-nél, amely télen is kellemes hőmérsékletű.\n\nA vár a téli fényben különösen lenyűgöző; parkoljon a lehető legközelebb a bejárathoz.\n\nDélután a falu csendes, ideális egy rövid sétához a Musée des Santons-hoz.\n\nA Val d'Enfer völgyén átvezető út a tiszta téli fényben a legjobb kontrasztokat kínálja a fotókhoz.",
+            "ro": "O excursie de iarnă la Les Baux. Începeți la Carrières de Lumières, care are o temperatură plăcută iarna.\n\nCetatea este deosebit de impresionantă în lumina iernii; parcați cât mai aproape de intrare.\n\nDupă-amiaza satul este liniștit, ideal pentru o scurtă plimbare până la Musée des Santons.\n\nDrumul prin Val d'Enfer oferă cele mai bune contraste pentru fotografii în lumina clară a iernii.",
+            "en": "A winter road trip to Les Baux. Start at Carrières de Lumières, which maintains a comfortable temperature in winter.\n\nThe Castle is particularly impressive in the winter light; park as close to the entrance as possible.\n\nIn the afternoon, the village is quiet, ideal for a short walk to the Musée des Santons.\n\nThe drive through Val d'Enfer offers the best contrasts for your photos in the clear winter light."
+          },
+          "stops": [
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Perfekt, um sich nach der Fahrt kurz aufzuwärmen.",
+                "hu": "Tökéletes hely, hogy az út után kicsit felmelegedjen.",
+                "ro": "Perfect pentru a vă încălzi puțin după drum.",
+                "en": "Perfect for warming up briefly after your drive."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Vorsicht beim Aussteigen; der Mistral kann Autotüren zuschlagen.",
+                "hu": "Vigyázat kiszálláskor; a Misztrál becsaphatja az autóajtót.",
+                "ro": "Atenție la coborâre; Mistralul poate trânti ușile mașinii.",
+                "en": "Careful when getting out; the Mistral can slam car doors shut."
+              }
+            },
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Im Winter oft weniger überlaufen; genießen Sie die Ruhe.",
+                "hu": "Télen gyakran kevésbé zsúfolt; élvezze a csendet.",
+                "ro": "Adesea mai puțin aglomerat iarna; bucurați-vă de liniște.",
+                "en": "Often less crowded in winter; enjoy the peace and quiet."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Das Licht im Hof ist im Winter besonders schön.",
+                "hu": "Az udvar belső fényei télen különösen szépek.",
+                "ro": "Lumina din curte este deosebit de frumoasă iarna.",
+                "en": "The light in the courtyard is especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Val d'Enfer",
+              "tip_4lang": {
+                "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Blaise",
+              "tip_4lang": {
+                "de": "Schöner, ruhiger Ort für einen kurzen Winterstopp.",
+                "hu": "Szép, csendes helyszín egy rövid téli megállóhoz.",
+                "ro": "Un loc frumos și liniștit pentru o scurtă oprire de iarnă.",
+                "en": "A beautiful, quiet spot for a short winter stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte kann ihn beeinflussen.",
+              "Bei Mistral-Warnung das Auto nicht unter alten Bäumen parken.",
+              "Die Parkgebühren sind im Winter oft reduziert oder entfallen.",
+              "Halten Sie Enteiser-Spray bereit, falls es über Nacht friert.",
+              "Die Straßen können in schattigen Kurven der Alpilles glatt sein."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg befolyásolhatja.",
+              "Erős szélben ne parkoljon az autóval öreg fák alá.",
+              "A parkolási díjak télen gyakran kedvezőbbek vagy szünetelnek.",
+              "Legyen kéznél jégoldó spray, ha éjszaka fagyna.",
+              "Az Alpilles árnyékos kanyarjaiban az utak jegesek lehetnek."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o poate influența.",
+              "Nu parcați mașina sub arbori bătrâni dacă este alertă de Mistral.",
+              "Taxele de parcare sunt adesea reduse sau suspendate iarna.",
+              "Aveți la îndemână un spray degivrant în caz de îngheț nocturn.",
+              "Drumurile pot fi alunecoase în curbele umbrite din Alpilles."
+            ],
+            "en": [
+              "Check your tire pressure; cold weather can affect it.",
+              "Do not park under old trees during Mistral wind warnings.",
+              "Parking fees are often reduced or waived during winter months.",
+              "Keep de-icer spray ready in case of overnight frost.",
+              "Roads can be slick in shaded bends of the Alpilles region."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1162,34 +2478,367 @@
           "Buy bus tickets online in advance or have small change ready.",
           "Buses can be very crowded during high season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Reisen Sie entspannt mit dem Bus aus Arles oder Avignon an. Ihr Tag beginnt am Dorfeingang mit dem Musée des Santons, das Ihnen die lokale Kultur näherbringt. Von dort aus führt der Weg stetig bergauf durch die malerischen Gassen.\n\nDer Mittag steht ganz im Zeichen des Château des Baux. Ohne Parkplatzsorgen können Sie die Festung und ihre Geschichte in vollen Zügen genießen. Die weiten Ausblicke über die Provence sind der Höhepunkt des Vormittags.\n\nAm Nachmittag spazieren Sie zum Carrières de Lumières. Die multimediale Show in den Felsen ist ein absolutes Muss und bietet eine willkommene Abkühlung. Achten Sie auf den Fußweg vom Dorf zum Steinbruch.\n\nBeenden Sie Ihren Besuch mit einem ruhigen Moment am Hôtel de Manville, bevor Sie zur Bushaltestelle zurückkehren. Die sanfte Rückfahrt durch die Hügel der Alpillen lässt den Tag perfekt ausklingen.",
+            "hu": "Érkezz kényelmesen busszal Arles-ból vagy Avignonból. A napod a falu bejáratánál kezdődik a Santons Múzeummal, amely közelebb hozza a helyi kultúrát. Innen az út folyamatosan felfelé vezet a festői utcákon át.\n\nA délidő a Baux váráé. Parkolási gondok nélkül élvezheted a várat és annak történelmét. A Provence-ra nyíló pazar kilátás a délelőtt fénypontja.\n\nDélután sétálj át a Carrières de Lumières-hez. A sziklák közötti multimédiás show kötelező látnivaló és kellemes felfrissülést nyújt. Figyelj a faluból a kőfejtőhöz vezető gyalogútra.\n\nZárd a látogatást egy nyugodt pillanattal a Hôtel de Manville-nél, mielőtt visszatérnél a buszmegállóhoz. A lágy buszos utazás az Alpilles dombjai között tökéletesen zárja a napot.",
+            "ro": "Sosiți relaxat cu autobuzul din Arles sau Avignon. Ziua începe la intrarea în sat cu Muzeul Santonilor, care vă apropie de cultura locală. De acolo, drumul urcă constant prin străzile pitorești.\n\nAmiaza este dedicată castelului Château des Baux. Fără grija parcării, vă puteți bucura pe deplin de fortăreață și de istoria sa. Vederile vaste peste Provence sunt punctul culminant al dimineții.\n\nDupă-amiaza, mergeți pe jos la Carrières de Lumières. Spectacolul multimedia din stânci este o vizită obligatorie și oferă o răcoare binevenită. Fiți atenți la poteca care leagă satul de carieră.\n\nÎncheiați vizita cu un moment liniștit la Hôtel de Manville înainte de a vă întoarce la stația de autobuz. Călătoria lină înapoi printre dealurile Alpilles încheie ziua perfect.",
+            "en": "Arrive relaxed by bus from Arles or Avignon. Your day starts at the village entrance with the Musée des Santons, bringing you closer to the local culture. From there, the path leads steadily uphill through the picturesque alleys.\n\nMidday is all about the Château des Baux. Without parking worries, you can fully enjoy the fortress and its history. The sweeping views over Provence are the highlight of the morning.\n\nIn the afternoon, walk over to Carrières de Lumières. The multimedia show inside the rocks is an absolute must and offers a welcome cooling break. Note the walking path from the village to the quarry.\n\nEnd your visit with a quiet moment at Hôtel de Manville before returning to the bus stop. The gentle bus ride back through the hills of the Alpilles perfectly rounds off the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum der Santons",
+                "hu": "Santons Múzeum",
+                "ro": "Muzeul Santonilor",
+                "en": "Musée des Santons"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Bushaltestelle entfernt.",
+                "hu": "Csak pár perc séta a buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stația de autobuz.",
+                "en": "Just a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Les Baux",
+                "hu": "Baux vára",
+                "ro": "Castelul Les Baux",
+                "en": "Château des Baux"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für die Erkundung der gesamten Anlage ein.",
+                "hu": "Szánj elég időt a teljes terület bejárására.",
+                "ro": "Alocați suficient timp pentru a explora întregul domeniu.",
+                "en": "Allow enough time to explore the entire site."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vincent",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem Mittagessen.",
+                "hu": "Csendes menedék az ebéd előtt.",
+                "ro": "Un refugiu liniștit înainte de prânz.",
+                "en": "A quiet sanctuary before lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrières de Lumières",
+                "hu": "Fények Bányája",
+                "ro": "Carierele de Lumini",
+                "en": "Carrières de Lumières"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Busabfahrt, bevor Sie hineingehen.",
+                "hu": "Ellenőrizd az utolsó buszindulást, mielőtt bemennél.",
+                "ro": "Verificați ora ultimului autobuz înainte de a intra.",
+                "en": "Check the last bus departure before you go inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Manville",
+                "hu": "Hôtel de Manville",
+                "ro": "Hôtel de Manville",
+                "en": "Hôtel de Manville"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf die Renaissance-Fassaden des Dorfes.",
+                "hu": "Utolsó pillantás a falu reneszánsz homlokzataira.",
+                "ro": "O ultimă privire asupra fațadelor renascentiste ale satului.",
+                "en": "A final look at the village's Renaissance facades."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Provenzalische Tapenade",
+                "tip": "Ideal für ein leichtes Mittagessen mit lokalem Roséwein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i tapenád",
+                "tip": "Ideális egy könnyű ebédhez helyi rozé borral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tapenada provensală",
+                "tip": "Ideală pentru un prânz ușor cu vin rosé local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Provencal Tapenade",
+                "tip": "Ideal for a light lunch paired with a local rosé wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Place Saint-Vincent",
+                "tip": "Ein kleiner Platz mit Aussicht, ideal zum Warten auf den Bus.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place Saint-Vincent",
+                "tip": "Kis tér kilátással, ideális a buszra való várakozáshoz.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Place Saint-Vincent",
+                "tip": "O piață mică cu vedere, ideală pentru a aștepta autobuzul.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Place Saint-Vincent",
+                "tip": "A small square with a view, ideal for waiting for the bus.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Herbes de Provence",
+                "tip": "Getrocknete Kräuter, die leicht im Rucksack zu verstauen sind."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i fűszerek",
+                "tip": "Szárított fűszernövények, amik könnyen elférnek a hátizsákban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ierburi de Provence",
+                "tip": "Ierburi uscate care pot fi depozitate ușor în rucsac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Herbes de Provence",
+                "tip": "Dried herbs that are easy to pack in a backpack."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen (ZOU! Linie 707) vorab, da diese saisonal variieren.",
+              "Die Bushaltestelle liegt am Fuße des Dorfes; planen Sie 10 Minuten Fußweg ein.",
+              "Kaufen Sie Bustickets vorab online oder halten Sie Kleingeld bereit.",
+              "In der Hochsaison können die Busse sehr voll sein."
+            ],
+            "hu": [
+              "Előre ellenőrizd a buszmenetrendet (ZOU! 707-es vonal), mert szezonálisan változik.",
+              "A buszmegálló a falu lábánál van; számolj 10 perc gyalogúttal.",
+              "Vedd meg a jegyet előre online, vagy készülj aprópénzzel.",
+              "Főszezonban a buszok nagyon zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor (linia ZOU! 707) în avans, deoarece acesta variază sezonier.",
+              "Stația de autobuz este la poalele satului; alocați 10 minute pentru mersul pe jos.",
+              "Cumpărați biletele online în avans sau aveți bani mărunti la îndemână.",
+              "În plin sezon, autobuzele pot fi foarte aglomerate."
+            ],
+            "en": [
+              "Check bus schedules (ZOU! line 707) in advance as they vary seasonally.",
+              "The bus stop is at the foot of the village; allow 10 minutes for the walk.",
+              "Buy bus tickets online in advance or have small change ready.",
+              "Buses can be very crowded during high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um bequem nach Les Baux zu gelangen. Starten Sie im Musée des Santons, um sofort im Trockenen zu sein.\n\nDer Weg zum Château ist kurz, aber ungeschützt; nehmen Sie einen stabilen Schirm mit.\n\nNachmittags ist die Église Saint-Vincent ein friedlicher Zufluchtsort vor dem Regen.\n\nBeenden Sie den Tag in den Carrières de Lumières, bevor Sie den Bus zurück nehmen; der Tunnel bietet perfekten Wetterschutz.",
+            "hu": "Használja a buszjáratot, hogy kényelmesen eljusson Les Baux-ba. Kezdjen a Musée des Santons-ban, hogy rögtön fedett helyen legyen.\n\nA várhoz vezető út rövid, de kitett az esőnek; vigyen stabil esernyőt.\n\nDélután a Szent Vince-templom békés menedéket nyújt az eső elől.\n\nA napot a Carrières de Lumières-ben zárja, mielőtt visszabuszozna; a barlang tökéletes védelmet ad.",
+            "ro": "Folosiți autobuzul pentru a ajunge confortabil în Les Baux. Începeți la Musée des Santons pentru a fi imediat la adăpost.\n\nDrumul spre castel este scurt, dar neprotejat; luați o umbrelă rezistentă.\n\nDupă-amiaza, biserica Saint-Vincent este un refugiu liniștit împotriva ploii.\n\nÎncheiați ziua la Carrières de Lumières înainte de a lua autobuzul înapoi; tunelul oferă protecție perfectă.",
+            "en": "Use the bus to reach Les Baux comfortably. Start at the Musée des Santons to be indoors immediately.\n\nThe walk to the Castle is short but unsheltered; take a sturdy umbrella with you.\n\nIn the afternoon, Saint-Vincent Church is a peaceful refuge from the rain.\n\nEnd the day at Carrières de Lumières before taking the bus back; the cave offers perfect weather protection."
+          },
+          "stops": [
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Gleich beim Dorfeingang gelegen, ideal bei Ankunft im Regen.",
+                "hu": "Közvetlenül a falu bejáratánál, ideális esős érkezéskor.",
+                "ro": "Situat chiar la intrarea în sat, ideal la sosirea pe ploaie.",
+                "en": "Located right at the village entrance, ideal when arriving in rain."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für den Weg durch das Dorf.",
+                "hu": "Viseljen vízálló cipőt a falun átvezető úthoz.",
+                "ro": "Purtați încălțăminte impermeabilă pentru drumul prin sat.",
+                "en": "Wear waterproof shoes for the walk through the village."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um auf die nächste Regenpause zu warten.",
+                "hu": "Szép helyszín, ahol megvárhatja a következő esőszünetet.",
+                "ro": "Un loc frumos pentru a aștepta următoarea pauză între averse.",
+                "en": "A beautiful spot to wait for the next break in the rain."
+              }
+            },
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Checken Sie die Busabfahrten; der Weg zur Haltestelle dauert 10 Min.",
+                "hu": "Ellenőrizze a buszmenetrendet; a megálló 10 perc gyalog.",
+                "ro": "Verificați programul autobuzelor; drumul spre stație durează 10 minute.",
+                "en": "Check the bus schedule; the walk to the stop takes 10 minutes."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Kurzer Stopp im Trockenen direkt an der Hauptgasse.",
+                "hu": "Rövid megálló szárazon, közvetlenül a főutcán.",
+                "ro": "Scurtă oprire la adăpost, chiar pe strada principală.",
+                "en": "Short stop in the dry, right on the main street."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winter/Regen-Fahrplan der Buslinie 57.",
+              "Die Haltestellen haben oft nur kleine Unterstände; Schirm dabei haben.",
+              "Kaufen Sie Ihr Ticket nach Möglichkeit vorab online.",
+              "Planen Sie Pufferzeit ein, da der Verkehr bei Regen langsamer fließt.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet."
+            ],
+            "hu": [
+              "Ellenőrizze az 57-es busz téli/esős menetrendjét.",
+              "A buszmegállókban kevés a fedett hely; legyen kéznél esernyő.",
+              "Lehetőleg vegye meg a jegyét előre online.",
+              "Hagyjon rá időt, mert esőben lassabb lehet a forgalom.",
+              "Olyan ruhát viseljen, amely a buszon is gyorsan szárad."
+            ],
+            "ro": [
+              "Verificați programul de iarnă/ploaie al liniei de autobuz 57.",
+              "Stațiile de autobuz au adesea adăposturi mici; aveți umbrela gata.",
+              "Cumpărați biletul online în avans, dacă este posibil.",
+              "Planificați timp suplimentar, traficul este mai lent pe ploaie.",
+              "Purtați haine care se usucă rapid în timpul călătoriei cu autobuzul."
+            ],
+            "en": [
+              "Check the winter/rainy schedule for bus line 57.",
+              "Bus stops often have only small shelters; keep your umbrella handy.",
+              "Buy your ticket online in advance if possible.",
+              "Allow extra time as traffic flows slower in the rain.",
+              "Wear clothing that dries quickly even while on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tagesausflug mit öffentlichen Verkehrsmitteln. Beginnen Sie im Musée des Santons, um die festliche Stimmung zu genießen.\n\nDer Fußweg zum Château ist im klaren Winterlicht kurzweilig, aber achten Sie auf den kalten Mistral.\n\nNachmittags wärmen Sie sich in der Église Saint-Vincent auf, bevor Sie zu den Carrières de Lumières weitergehen.\n\nBeenden Sie Ihren Besuch rechtzeitig vor dem letzten Bus, während die Sonne hinter den Alpilles versinkt.",
+            "hu": "Téli kirándulás tömegközlekedéssel. Kezdjen a Musée des Santons-ban, hogy átvegye az ünnepi hangulatot.\n\nA várhoz vezető séta a tiszta téli fényben kellemes, de figyeljen a hideg Misztrálra.\n\nDélután melegedjen fel a Szent Vince-templomban, mielőtt továbbindulna a Carrières de Lumières-hez.\n\nLátogatását fejezze be időben az utolsó busz előtt, miközben a nap lebukik az Alpilles mögött.",
+            "ro": "O excursie de iarnă cu transportul public. Începeți la Musée des Santons pentru a intra în atmosfera festivă.\n\nPlimbarea spre castel este plăcută în lumina clară a iernii, dar atenție la Mistralul rece.\n\nDupă-amiaza încălziți-vă în biserica Saint-Vincent înainte de a merge la Carrières de Lumières.\n\nÎncheiați vizita la timp pentru ultimul autobuz, în timp ce soarele apune după Alpilles.",
+            "en": "A winter day trip using public transport. Start at the Musée des Santons to enjoy the festive atmosphere.\n\nThe walk to the Castle is pleasant in the clear winter light, but watch out for the cold Mistral.\n\nIn the afternoon, warm up in Saint-Vincent Church before heading to Carrières de Lumières.\n\nFinish your visit in good time for the last bus as the sun sets behind the Alpilles."
+          },
+          "stops": [
+            {
+              "name": "Musée des Santons",
+              "tip_4lang": {
+                "de": "Wunderschön dekoriert in der Weihnachtszeit.",
+                "hu": "Gyönyörűen feldíszítve a karácsonyi időszakban.",
+                "ro": "Frumos decorat în perioada sărbătorilor de iarnă.",
+                "en": "Beautifully decorated during the Christmas season."
+              }
+            },
+            {
+              "name": "Château des Baux",
+              "tip_4lang": {
+                "de": "Die Fernsicht bis zum Meer ist im Winter oft am besten.",
+                "hu": "A kilátás a tengerig télen gyakran a legjobb.",
+                "ro": "Vizibilitatea până la mare este adesea maximă iarna.",
+                "en": "The view all the way to the sea is often best in winter."
+              }
+            },
+            {
+              "name": "Église Saint-Vincent",
+              "tip_4lang": {
+                "de": "Ein ruhiger, windgeschützter Ort für eine Pause.",
+                "hu": "Csendes, széltől védett helyszín egy pihenőhöz.",
+                "ro": "Un loc liniștit și ferit de vânt pentru o pauză.",
+                "en": "A quiet, wind-sheltered spot for a break."
+              }
+            },
+            {
+              "name": "Carrières de Lumières",
+              "tip_4lang": {
+                "de": "Im Winter angenehm mild im Vergleich zur Außenluft.",
+                "hu": "Télen kellemesen enyhe a külső levegőhöz képest.",
+                "ro": "Plăcut și blând iarna în comparație cu aerul de afară.",
+                "en": "Pleasantly mild in winter compared to the outside air."
+              }
+            },
+            {
+              "name": "Hôtel de Manville",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a benti kiállításokat, hogy felmelegedjen.",
+                "ro": "Vizitați expozițiile din interior pentru a vă încălzi.",
+                "en": "Visit the indoor exhibitions to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren im Winter seltener; prüfen Sie den Fahrplan genau.",
+              "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
+              "Die letzte Rückfahrt ist oft schon vor 18:00 Uhr.",
+              "Nutzen Sie die App der Verkehrsbetriebe für Echtzeit-Infos.",
+              "Im Winter ist der Bus oft leerer und bietet mehr Komfort."
+            ],
+            "hu": [
+              "Télen ritkábban járnak a buszok; pontosan ellenőrizze a menetrendet.",
+              "Viseljen meleg ruhát a megállóban való várakozáshoz.",
+              "Az utolsó járat gyakran már 18:00 előtt elindul vissza.",
+              "Használja a közlekedési társaság alkalmazását a valós idejű infókért.",
+              "Télen a busz gyakran üresebb és kényelmesebb."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; verificați programul cu atenție.",
+              "Purtați haine groase pentru timpul de așteptare în stație.",
+              "Ultima cursă de întoarcere este adesea înainte de ora 18:00.",
+              "Folosiți aplicația de transport pentru informații în timp real.",
+              "Iarna, autobuzul este adesea mai liber și oferă mai mult confort."
+            ],
+            "en": [
+              "Buses run less frequently in winter; check the schedule carefully.",
+              "Wear warm clothing for the waiting time at the bus stop.",
+              "The last return trip is often before 6:00 PM.",
+              "Use the transit app for real-time information on bus arrivals.",
+              "In winter, the bus is often less crowded and more comfortable."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.lesbauxdeprovence.com/",
-    "events": "https://www.lesbauxdeprovence.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "https://www.carrieres-lumieres.com/",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Les Baux-de-Provence ist sehr touristisch und auf internationale Besucher eingestellt, Englisch klappt in den Restaurants und Galerien problemlos. Carrières de Lumières und das Schloss bieten mehrsprachige Audioguides. Lokales Leben kaum vorhanden, fast nur Tourismus.",
-      "hu": "Les Baux-de-Provence nagyon turistas es nemzetkozi vendegekre berendezkedett, az angol az ettermekben es galeriakban zoekkenomentes. A Carrières de Lumières es a kastely tobb nyelvu audiokalauzt kinal. Helyi elet alig, szinte csak turizmus.",
-      "ro": "Les Baux-de-Provence e foarte turistic si pregatit pentru vizitatori internationali, engleza merge fara probleme in restaurante si galerii. Carrières de Lumières si castelul ofera audioghiduri multilingve. Viata locala aproape inexistenta, doar turism.",
-      "en": "Les Baux-de-Provence is very touristy and well set up for international visitors — English works easily in restaurants and galleries. The Carrières de Lumières and the castle offer multilingual audio guides. Almost no local life remains, only tourism."
-    },
-    "best_time_to_visit": {
-      "de": "April-Juni und September-Oktober sind ideal, das Dorf liegt auf einem Felsvorsprung und ist im Hochsommer brutal heiss (oft 35+ Grad). Carrières de Lumières immersive Lichtshow das ganze Jahr geoeffnet und klimatisiert.",
-      "hu": "Aprilis-junius es szeptember-oktober ideal, a falu egy sziklan all es foszezonban brutalisan meleg (35+ fok). A Carrières de Lumières latvanyos fenyseow egesz evben nyitva, klimatizalt.",
-      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale, satul e pe o stanca si vara e brutal de cald (35+ grade). Carrières de Lumières (spectacolul imersiv de lumini) e deschis tot anul si climatizat.",
-      "en": "April-June and September-October are ideal — the village perches on a cliff and gets brutally hot in summer (often 35°C+). The Carrières de Lumières immersive light show stays open all year and is air-conditioned."
-    },
-    "neighborhood_warnings": {
-      "de": "Parken nur ausserhalb des Dorfes, dann zu Fuss bergauf. Im Juli-August zwischen 11 und 16 Uhr Massenandrang von Bustouren, frueh oder spaet kommen. Wenig Schatten, Sonnenhut und Wasser unbedingt mitnehmen.",
-      "hu": "Parkolas csak a falu szelen, onnan gyalog felfele. Julius-augusztus 11-16 ora kozott buszos tomeg, jobb korai vagy kesoi. Keves arnyek, napkapot es viz kotelezo.",
-      "ro": "Parcari doar in afara satului, apoi pe jos in sus. In iulie-august intre 11 si 16, mase de turisti din autocare, vino devreme sau tarziu. Putina umbra, palarie si apa obligatorii.",
-      "en": "Park only outside the village, then walk up. In July-August between 11am and 4pm coach-tour crowds swarm — come early or late. Little shade up top, take a sun hat and water."
-    },
-    "parking_real_time": ""
   }
 }

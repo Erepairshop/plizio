@@ -284,6 +284,406 @@
           "The cathedral often closes during lunchtime.",
           "Book Picasso Museum tickets in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Morgen beginnt im Herzen der Altstadt auf dem Marché Provençal, wo die Düfte von Kräutern und frischem Käse die Luft erfüllen. Nach einem kurzen Besuch der Kathedrale tauchen Sie im Grimaldi-Schloss in die Welt von Picasso ein.\n\nMittags schlendern Sie entlang der alten Stadtmauer zur Bastion Saint-Jaume, um die monumentale Skulptur 'Le Nomade' zu bewundern. Die weißen Buchstaben bilden einen faszinierenden Kontrast zum azurblauen Meer.\n\nDer Nachmittag gehört dem Port Vauban, einem der größten Jachthäfen Europas. Spazieren Sie gemütlich am Wasser entlang und bestaunen Sie die schwimmenden Paläste, während Sie sich dem historischen Fort Carré nähern.\n\nZum Abschluss erkunden Sie die sternförmige Festung Fort Carré. Von den hohen Mauern genießen Sie einen 360-Grad-Panoramablick über die Bucht von Engel und die schneebedeckten Alpen im Hintergrund.",
+            "hu": "Reggel az óváros szívében, a provence-i piacon kezdesz, ahol a fűszerek és friss sajtok illata lengi be a teret. Egy rövid székesegyházi látogatás után a Grimaldi-kastélyban merülhetsz el Picasso művészetében.\n\nDélben a várfal mentén sétálva jutsz el a Bastion Saint-Jaume-hoz, ahol a 'Le Nomade' monumentális szobra fogad. A fehér betűkből formált alak különleges kontrasztot alkot az azúrkék tengerrel.\n\nDélután a Vauban kikötőé a főszerep, amely Európa egyik legnagyobb jachtkikötője. Sétálj a vízparton a luxushajók között, miközben fokozatosan közeledsz a történelmi Fort Carré erőd felé.\n\nA napot a csillag alakú Fort Carré felfedezésével zárod. A várfalak tetejéről 360 fokos panoráma nyílik az Angyal-öbölre és a háttérben húzódó, hófödte Alpok csúcsaira.",
+            "ro": "Dimineața începe în inima orașului vechi la Piața Provensală, unde aromele de ierburi și brânzeturi proaspete umplu aerul. După o scurtă vizită la catedrală, pătrundeți în lumea lui Picasso în incinta castelului Grimaldi.\n\nLa prânz, plimbați-vă de-a lungul zidurilor vechi până la Bastion Saint-Jaume pentru a admira sculptura monumentală 'Le Nomade'. Literele albe creează un contrast fascinant cu marea azurie.\n\nDupă-amiaza este dedicată Portului Vauban, unul dintre cele mai mari porturi de iahturi din Europa. Relaxați-vă la o plimbare pe malul apei, admirând palatele plutitoare în timp ce vă îndreptați spre fortăreața istorică.\n\nÎn încheiere, explorați Fort Carré, fortăreața în formă de stea. De pe zidurile sale înalte vă veți bucura de o vedere panoramică de 360 de grade asupra Golfului Îngerilor și a Alpilor înzăpeziți.",
+            "en": "Your morning starts in the heart of the old town at the Provençal Market, where scents of herbs and fresh cheese fill the air. After a short visit to the Cathedral, immerse yourself in Picasso's world inside the Grimaldi Castle.\n\nAt midday, stroll along the ancient ramparts to Bastion Saint-Jaume to admire the monumental 'Le Nomade' sculpture. Its white letters form a striking contrast against the azure sea.\n\nIn the afternoon, head to Port Vauban, one of Europe's largest yacht harbors. Enjoy a leisurely walk by the water among luxury vessels as you approach the historic Fort Carré.\n\nTo wrap up, explore the star-shaped Fort Carré. From its high ramparts, enjoy a 360-degree panoramic view over the Bay of Angels and the snow-capped Alps in the distance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marché Provençal",
+                "hu": "Provençal piac",
+                "ro": "Piața Provensală",
+                "en": "Provençal Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die Socca direkt vom Blech.",
+                "hu": "Kóstold meg a friss soccát a bódéknál.",
+                "ro": "Gustați socca proaspătă de la tarabe.",
+                "en": "Try the fresh socca directly from the stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Antibes",
+                "hu": "Antibes-i székesegyház",
+                "ro": "Catedrala din Antibes",
+                "en": "Antibes Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Altarbild aus dem 16. Jahrhundert.",
+                "hu": "Nézd meg a 16. századi oltárképet.",
+                "ro": "Admirați altarul din secolul al XVI-lea.",
+                "en": "Admire the 16th-century altarpiece."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Picasso",
+                "hu": "Picasso Múzeum",
+                "ro": "Muzeul Picasso",
+                "en": "Picasso Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Terrasse bietet einen der besten Fotospots.",
+                "hu": "A teraszról nyílik a legjobb kilátás fotózáshoz.",
+                "ro": "Terasa oferă unul dintre cele mai bune locuri pentru poze.",
+                "en": "The terrace offers one of the best photo spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Nomade",
+                "hu": "Le Nomade szobor",
+                "ro": "Statuia Le Nomade",
+                "en": "Le Nomade Statue"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie in die Skulptur hinein für ein tolles Erlebnis.",
+                "hu": "Menj be a szobor belsejébe a különleges élményért.",
+                "ro": "Intrați în interiorul sculpturii pentru o experiență inedită.",
+                "en": "Walk inside the sculpture for a unique perspective."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Vauban",
+                "hu": "Vauban kikötő",
+                "ro": "Portul Vauban",
+                "en": "Port Vauban"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den 'Quai des Milliardaires' für Superyachten.",
+                "hu": "Keresd a Milliárdosok Rakpartját a szuperjachtokért.",
+                "ro": "Căutați 'Quai des Milliardaires' pentru iahturi de lux.",
+                "en": "Look for the Billionaires' Quay for superyachts."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Carré",
+                "hu": "Fort Carré erőd",
+                "ro": "Fortăreața Carré",
+                "en": "Fort Carré"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie die geführte Tour, um auf die Mauern zu gelangen.",
+                "hu": "Vegyél részt vezetett túrán a várfalak megtekintéséhez.",
+                "ro": "Rezervați turul ghidat pentru a ajunge pe ziduri.",
+                "en": "Book the guided tour to access the ramparts."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Socca im Marché Provençal",
+                "tip": "Traditioneller Kichererbsenpfannkuchen, heiß serviert."
+              },
+              {
+                "name": "Le Brulot",
+                "tip": "Authentische provençalische Küche im Kellergewölbe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Socca a piacon",
+                "tip": "Hagyományos csicseriborsó palacsinta, forrón tálalva."
+              },
+              {
+                "name": "Le Brulot",
+                "tip": "Hiteles provence-i konyha egy hangulatos pincehelyiségben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Socca în piață",
+                "tip": "Clătită tradițională din făină de năut, servită fierbinte."
+              },
+              {
+                "name": "Le Brulot",
+                "tip": "Bucătărie provensală autentică într-o pivniță boltită."
+              }
+            ],
+            "en": [
+              {
+                "name": "Socca at the Market",
+                "tip": "Traditional chickpea pancake, served piping hot."
+              },
+              {
+                "name": "Le Brulot",
+                "tip": "Authentic Provençal cuisine in a cozy vaulted cellar."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bastion Saint-André",
+                "tip": "Ruhiger Blick auf das Meer abseits der Massen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bastion Saint-André",
+                "tip": "Csendes kilátás a tengerre a tömegtől távol.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bastion Saint-André",
+                "tip": "Priviște liniștită spre mare, departe de aglomerație.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bastion Saint-André",
+                "tip": "Quiet sea views away from the main crowds.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue James Close",
+                "tip": "Boutiquen und lokales Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue James Close",
+                "tip": "Boutique üzletek és helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue James Close",
+                "tip": "Boutique-uri și artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue James Close",
+                "tip": "Boutique shops and local artisanal crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie den Markt vor 13:00 Uhr.",
+              "Die Kathedrale schließt oft über Mittag.",
+              "Reservieren Sie für das Picasso-Museum im Voraus."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+              "A piacot délelőtt, 13 óra előtt látogasd meg.",
+              "A székesegyház délben gyakran zárva tart.",
+              "Érdemes előre jegyet foglalni a Picasso Múzeumba."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Vizitați piața înainte de ora 13:00.",
+              "Catedrala este adesea închisă în timpul prânzului.",
+              "Rezervați biletele pentru Muzeul Picasso în avans."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Visit the market in the morning before 1 PM.",
+              "The cathedral often closes during lunchtime.",
+              "Book Picasso Museum tickets in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem schützenden Dach des Marché Provençal, wo die Aromen trotz des Regens intensiv sind. Mittags bietet das Picasso-Museum einen trockenen Rückzugsort voller Kunst. Am Nachmittag führt der Weg zum Port Vauban; nutzen Sie die Arkaden der Altstadt als Schutz. Den Abend lassen Sie in den gemütlichen Gassen ausklingen, während die nassen Steine glänzen.",
+            "hu": "Kezdje a napot a fedett Marché Provençal alatt, ahol az eső ellenére is pezseg az élet. Délben a Picasso Múzeum nyújt száraz menedéket a művészetek kedvelőinek. Délután tegyen egy sétát a Port Vauban felé, kihasználva az óváros boltíves átjáróit. Az estét töltse egy hangulatos étteremben, csodálva a vizes macskakövek csillogását a lámpafényben.",
+            "ro": "Începeți ziua sub acoperișul pieței Marché Provençal, unde aromele rămân intense chiar și pe ploaie. La prânz, Muzeul Picasso oferă un refugiu uscat plin de artă. După-amiaza, plimbați-vă spre Port Vauban, folosind arcadele orașului vechi pentru adăpost. Încheiați seara într-un local primitor, admirând reflexiile luminilor pe străzile umede.",
+            "en": "Start your day under the shelter of the Marché Provençal, where local flavors thrive despite the rain. At noon, the Picasso Museum provides a dry sanctuary filled with masterpieces. In the afternoon, head towards Port Vauban, using the old town's archways for cover. Spend the evening in a cozy bistro, watching the streetlights reflect on the wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Das feste Dach bietet perfekten Schutz vor Regengüssen.",
+                "hu": "A masszív tetőszerkezet kiváló védelmet nyújt az eső elől.",
+                "ro": "Acoperișul solid oferă protecție perfectă împotriva ploii.",
+                "en": "The permanent roof provides excellent shelter from the rain."
+              }
+            },
+            {
+              "name": "Antibes Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Csendes belső tér, ideális egy nagyobb zápor idejére.",
+                "ro": "Un spațiu interior liniștit, ideal în timpul unei averse.",
+                "en": "A quiet indoor space, ideal for waiting out a heavy downpour."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Inneren lassen das Wetter vergessen.",
+                "hu": "A belső kiállítások segítenek elfelejteni a kinti rossz időt.",
+                "ro": "Expozițiile interioare vă vor face să uitați de vremea de afară.",
+                "en": "Indoor exhibitions make you forget the gloomy weather outside."
+              }
+            },
+            {
+              "name": "Le Nomade Statue",
+              "tip_5lang": {
+                "de": "Vorsicht, die Hafenmauer kann bei Regen rutschig sein.",
+                "hu": "Vigyázat, a kikötő fala esőben csúszós lehet.",
+                "ro": "Atenție, zidul portului poate fi alunecos pe timp de ploaie.",
+                "en": "Caution, the harbor wall can be slippery when wet."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Yachten vom Café-Fenster aus.",
+                "hu": "Élvezze a jachtok látványát egy kávézó ablakából.",
+                "ro": "Admirați iahturile de la fereastra unei cafenele de pe chei.",
+                "en": "Enjoy the view of the yachts from a waterfront cafe window."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Die Innenräume der Festung sind größtenteils trocken.",
+                "hu": "Az erőd belső terei nagyrészt szárazak maradnak.",
+                "ro": "Interiorul fortăreței rămâne în mare parte uscat.",
+                "en": "The fortress interiors remain mostly dry during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig werden.",
+              "Der Marché Provençal ist die beste Option für ein trockenes Frühstück.",
+              "Nutzen Sie die Museumsbesuche für die stärksten Regenstunden.",
+              "Ein Taschenschirm ist bei den engen Gassen praktischer als ein großer Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros kövei csúszóssá válnak.",
+              "A Marché Provençal a legjobb hely egy száraz reggelihez.",
+              "A múzeumlátogatást időzítse a leghevesebb esőzés idejére.",
+              "A szűk utcákban az összecsukható esernyő praktikusabb a boternyőnél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pietrele din orașul vechi devin alunecoase.",
+              "Piața Provençală este cea mai bună opțiune pentru un mic dejun uscat.",
+              "Planificați vizita la muzeu în timpul orelor cu precipitații intense.",
+              "O umbrelă pliabilă este mai practică decât una mare pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town cobblestones become very slippery.",
+              "The Provençal Market is the best spot for a dry breakfast experience.",
+              "Schedule museum visits during the hours of heaviest rainfall.",
+              "A compact umbrella is more practical than a large one in narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne in Antibes ist mild und klar. Starten Sie Ihren Spaziergang am Markt, wenn die Luft noch frisch ist. Mittags wärmt die Sonne die Mauern des Picasso-Museums. Am Nachmittag bietet der Port Vauban eine herrliche Aussicht bei tiefstehender Sonne. Beenden Sie die Tour am Fort Carré rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Antibes téli napsütése enyhe és tiszta. Kezdje a sétát a piacon, amikor a levegő még friss. Délben a nap melengeti a Picasso Múzeum falait. Délután a Port Vauban csodás látványt nyújt az alacsonyan járó nap fényében. Fejezze be a túrát a Fort Carré-nál, még a korai, 17:00 körüli naplemente előtt.",
+            "ro": "Soarele de iarnă în Antibes este blând și clar. Începeți plimbarea la piață când aerul este încă proaspăt. La prânz, soarele încălzește zidurile Muzeului Picasso. După-amiaza, Port Vauban oferă o priveliște superbă sub lumina caldă a soarelui. Încheiați turul la Fort Carré înainte de apusul devreme, în jur de ora 17:00.",
+            "en": "The winter sun in Antibes is mild and crisp. Start your walk at the market while the air is still fresh. At noon, the sun warms the stone walls of the Picasso Museum. In the afternoon, Port Vauban offers stunning views in the low winter light. Finish your tour at Fort Carré before the early sunset around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee an den Marktständen.",
+                "hu": "Igyon egy forró kávét a piaci árusok mellett.",
+                "ro": "Savurați o cafea fierbinte la tarabele din piață.",
+                "en": "Enjoy a hot coffee at the market stalls to warm up."
+              }
+            },
+            {
+              "name": "Antibes Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak távol tartják a kinti hideget.",
+                "ro": "Zidurile groase mențin o temperatură plăcută în interior.",
+                "en": "The thick stone walls keep the winter chill outside."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Die sonnige Terrasse bietet auch im Winter Wärme.",
+                "hu": "A napsütötte terasz télen is kellemesen meleg lehet.",
+                "ro": "Terasa însorită oferă căldură chiar și în timpul iernii.",
+                "en": "The sunny terrace provides warmth even during winter days."
+              }
+            },
+            {
+              "name": "Le Nomade Statue",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos im goldenen Winterlicht.",
+                "hu": "Tökéletes hely fotózáshoz az aranyló téli fényekben.",
+                "ro": "Locul perfect pentru fotografii în lumina aurie a iernii.",
+                "en": "Perfect spot for photos in the golden winter afternoon light."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen der Meeresbrise ratsam.",
+                "hu": "A tengeri szél miatt réteges öltözködés javasolt.",
+                "ro": "Se recomandă haine groase din cauza brizelor marine.",
+                "en": "Warm layers are advised due to the cool sea breeze."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den frühen Sonnenuntergang.",
+                "hu": "A legjobb kilátópont a korai naplemente megtekintéséhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul devreme.",
+                "en": "The best vantage point for the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie Ihre Route entsprechend.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den kühlen Seewind.",
+              "Viele Cafés haben im Winter Heizstrahler auf den Terrassen.",
+              "Die Luft ist im Winter oft klarer, was die Sicht auf die Alpen verbessert."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, tervezze ehhez a látnivalókat.",
+              "A réteges öltözködés segít a hűvös tengeri szél ellen.",
+              "Sok kávézó teraszán vannak fűtőtestek a téli szezonban is.",
+              "Télen tisztább a levegő, így gyakran látni a távoli Alpokat."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00, planificați traseul în consecință.",
+              "Îmbrăcămintea în straturi ajută împotriva brizei reci a mării.",
+              "Multe cafenele au încălzitoare pe terase în timpul iernii.",
+              "Aerul este adesea mai clar iarna, oferind vederi spre Alpi."
+            ],
+            "en": [
+              "Sunset is around 5:00 PM, plan your route to finish before dark.",
+              "Layered clothing is essential against the chilly sea breeze.",
+              "Many cafe terraces use outdoor heaters during the winter months.",
+              "The air is often clearer in winter, offering views of the Alps."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -523,6 +923,358 @@
           "A bike lock is mandatory for stops at the cape.",
           "Avoid the main roads in the late afternoon due to traffic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Radtour am Port Vauban, wo Sie zwischen den Masten der Segelboote hindurchgleiten. Die frische Morgenluft am Hafen bereitet Sie perfekt auf den bevorstehenden Anstieg zum Kap vor.\n\nDer Weg führt Sie hinauf zum Phare de la Garoupe. Es ist die höchste Erhebung von Antibes und bietet einen spektakulären Blick über die gesamte Côte d'Azur. Danach geht es bergab zum Eingang des Sentier du Littoral.\n\nStellen Sie Ihre Räder ab und erkunden Sie zu Fuß den Sentier du Littoral. Dieser Küstenpfad führt um die Spitze des Cap d'Antibes herum, vorbei an wilden Felsen und luxuriösen Anwesen, perfekt für ein Picknick oder ein Bad im Meer.\n\nAm Nachmittag radeln Sie zurück ins Zentrum zum Picasso-Museum und beenden den Tag an der markanten Festung Fort Carré, die wie ein Wächter über den Hafen ragt.",
+            "hu": "Indítsd a biciklis túrát a Vauban kikötőben, sikolva a vitorlások árbocai között. A reggeli friss tengeri levegő tökéletesen felkészít a fokozatos emelkedőre a félsziget csúcsa felé.\n\nAz út felvezet a Garoupe világítótoronyhoz. Ez Antibes legmagasabb pontja, ahonnan lenyűgöző kilátás nyílik az egész Azúr-partra. Innen legurulhatsz a parti ösvény, a Sentier du Littoral bejáratához.\n\nHagyd a bicikliket a tárolóban, és járd be gyalog a Sentier du Littoral ösvényt. Ez a vadregényes út a Cap d'Antibes csúcsát kerüli meg, sziklák és luxusvillák között, ideális egy gyors mártózásra.\n\nDélután tekerj vissza a központba a Picasso Múzeumhoz, majd zárd a napot a Fort Carré erődnél, amely őrszemként magasodik a kikötő fölé.",
+            "ro": "Începeți turul cu bicicleta la Port Vauban, strecurându-vă printre catargele iahturilor. Aerul proaspăt de dimineață din port vă pregătește perfect pentru urcarea spre promontoriu.\n\nDrumul vă conduce sus la Farul Garoupe. Este cel mai înalt punct din Antibes și oferă o vedere spectaculoasă asupra întregii Coaste de Azur. Apoi coborâți spre intrarea de pe Sentier du Littoral.\n\nLăsați bicicletele și explorați la pas Sentier du Littoral. Acest drum de coastă înconjoară vârful Cap d'Antibes, trecând pe lângă stânci sălbatice și vile luxoase, fiind ideal pentru un picnic sau o baie în mare.\n\nDupă-amiaza pedalați înapoi spre centru la Muzeul Picasso și încheiați ziua la Fort Carré, fortăreața care veghează asupra portului ca o santinelă.",
+            "en": "Start your bike tour at Port Vauban, gliding between the masts of the sailboats. The fresh morning harbor air perfectly prepares you for the upcoming climb toward the cape.\n\nThe path leads you up to the Garoupe Lighthouse. It's the highest point in Antibes and offers a spectacular view across the entire Côte d'Azur. Then, coast downhill to the entrance of the Sentier du Littoral.\n\nPark your bikes and explore the Sentier du Littoral on foot. This coastal path winds around the tip of Cap d'Antibes, passing wild rocks and luxurious estates, perfect for a picnic or a swim.\n\nIn the afternoon, cycle back to the center to visit the Picasso Museum and finish your day at the striking Fort Carré fortress, standing like a guardian over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Vauban",
+                "hu": "Vauban kikötő",
+                "ro": "Portul Vauban",
+                "en": "Port Vauban"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Promenadenwegen.",
+                "hu": "Óvatosan tekerj a sétányokon.",
+                "ro": "Mergeți cu atenție pe aleile de promenadă.",
+                "en": "Ride carefully on the promenade paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Garoupe",
+                "hu": "Garoupe világítótorony",
+                "ro": "Farul Garoupe",
+                "en": "Garoupe Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
+                "hu": "Az emelkedő meredek, de a kilátás megéri.",
+                "ro": "Urcarea este abruptă, dar vederea merită.",
+                "en": "The climb is steep, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentier du Littoral",
+                "hu": "Parti ösvény",
+                "ro": "Sentier du Littoral",
+                "en": "Sentier du Littoral"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Fahrräder am Eingang gut ab.",
+                "hu": "Zárd le alaposan a biciklit a bejáratnál.",
+                "ro": "Încuiați bine bicicletele la intrare.",
+                "en": "Lock your bikes securely at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Picasso",
+                "hu": "Picasso Múzeum",
+                "ro": "Muzeul Picasso",
+                "en": "Picasso Museum"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze für Räder befinden sich direkt davor.",
+                "hu": "Biciklitárolók közvetlenül a bejárat előtt találhatók.",
+                "ro": "Parcările pentru biciclete sunt chiar în față.",
+                "en": "Bike racks are located directly in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Carré",
+                "hu": "Fort Carré erőd",
+                "ro": "Fortăreața Carré",
+                "en": "Fort Carré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die letzte Brise vor der Rückgabe.",
+                "hu": "Élvezd az utolsó tengeri szellőt a leadás előtt.",
+                "ro": "Bucurați-vă de ultima briză înainte de returnare.",
+                "en": "Enjoy the last sea breeze before returning the bike."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Jardin du Helder",
+                "tip": "Gartenrestaurant ideal für Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Jardin du Helder",
+                "tip": "Kerthelyiséges étterem, ideális pihenő bicikliseknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Jardin du Helder",
+                "tip": "Restaurant cu grădină, ideal pentru bicicliști."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Jardin du Helder",
+                "tip": "Garden restaurant, ideal for a cyclist's break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Chapelle de la Garoupe",
+                "tip": "Friedliche Kapelle neben dem Leuchtturm.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chapelle de la Garoupe",
+                "tip": "Békés kápolna a világítótorony mellett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chapelle de la Garoupe",
+                "tip": "Capelă liniștită lângă far.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chapelle de la Garoupe",
+                "tip": "Peaceful chapel next to the lighthouse.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cap d'Antibes Souvenirs",
+                "tip": "Postkarten und lokale Andenken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap d'Antibes Souvenirs",
+                "tip": "Képeslapok és helyi emléktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cap d'Antibes Souvenirs",
+                "tip": "Vederi și suveniruri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap d'Antibes Souvenirs",
+                "tip": "Postcards and local souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor dem Anstieg zum Kap.",
+              "Nehmen Sie viel Wasser für den Sentier du Littoral mit.",
+              "Ein Vorhängeschloss ist am Kap zwingend erforderlich.",
+              "Meiden Sie die Hauptstraße am späten Nachmittag."
+            ],
+            "hu": [
+              "Ellenőrizd a guminyomást a félszigeti emelkedő előtt.",
+              "Vigyél sok vizet a parti ösvényhez.",
+              "A lakat használata kötelező a félszigeten.",
+              "Kerüld a főutakat késő délután a forgalom miatt."
+            ],
+            "ro": [
+              "Verificați presiunea roților înainte de urcarea pe cap.",
+              "Luați multă apă pentru Sentier du Littoral.",
+              "Un lacăt este obligatoriu pentru oprirea la cap.",
+              "Evitați drumul principal la sfârșitul după-amiezii."
+            ],
+            "en": [
+              "Check tire pressure before the climb to the cape.",
+              "Take plenty of water for the Sentier du Littoral.",
+              "A bike lock is mandatory for stops at the cape.",
+              "Avoid the main roads in the late afternoon due to traffic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen erfordert gute Vorbereitung. Beginnen Sie am Port Vauban, wo Sie unter den Kais Schutz finden können. Die Fahrt zum Leuchtturm von Garoupe führt durch Pinienwälder, die etwas Regen abhalten. Mittags bietet das Picasso-Museum eine längere Pause im Trockenen. Beenden Sie die Tour vorsichtig am Fort Carré, da die Wege rutschig sein können.",
+            "hu": "Az esős biciklitúra jó felkészülést igényel. Kezdjen a Port Vaubannál, ahol a rakpartok alatt találhat menedéket. A Garoupe világítótoronyhoz vezető út fenyveseken át visz, amik felfogják az esőt. Délben a Picasso Múzeum nyújt hosszabb pihenőt szárazon. Az utat óvatosan fejezze be a Fort Carré-nál a csúszós utak miatt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită pregătire. Începeți la Port Vauban, unde puteți găsi adăpost sub cheiuri. Drumul spre farul Garoupe trece prin păduri de pini care opresc parțial ploaia. La prânz, Muzeul Picasso oferă o pauză lungă la uscat. Încheiați turul cu prudență la Fort Carré, deoarece drumurile pot fi alunecoase.",
+            "en": "Cycling in the rain requires good preparation. Start at Port Vauban, where you can find some cover under the quays. The ride to Garoupe Lighthouse passes through pine groves that provide slight shelter. At noon, the Picasso Museum offers a long indoor break. Finish your tour carefully at Fort Carré as the paths can be slippery."
+          },
+          "stops": [
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Sattel auf Nässe vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze, hogy nem vizes-e a nyereg.",
+                "ro": "Verificați dacă șaua este udă înainte de plecare.",
+                "en": "Check your bike seat for wetness before starting off."
+              }
+            },
+            {
+              "name": "Garoupe Lighthouse",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe anstrengend und rutschig sein.",
+                "hu": "Az emelkedő esőben megerőltető és csúszós lehet.",
+                "ro": "Urcarea poate fi obositoare și alunecoasă pe carosabil ud.",
+                "en": "The climb can be strenuous and slippery in wet conditions."
+              }
+            },
+            {
+              "name": "Sentier du Littoral",
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam; Gischt macht den Weg nass.",
+                "hu": "Itt hajtson lassan; a tenger permete vizesíti az utat.",
+                "ro": "Mergeți încet aici; valurile pot uda poteca.",
+                "en": "Ride slowly here; sea spray can make the path extra wet."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos biciklitárolók találhatók a bejárat közelében.",
+                "ro": "Rasteluri sigure pentru biciclete se află lângă intrare.",
+                "en": "Secure bike racks are located near the museum entrance."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Wege rund um das Fort.",
+                "hu": "Használja az erőd körüli széles utakat.",
+                "ro": "Folosiți aleile late din jurul fortului.",
+                "en": "Stick to the wide paths around the fortress."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Asphalt oder Markierungen.",
+              "Nutzen Sie Schutzbleche, um Schmutz von der Kleidung fernzuhalten.",
+              "Die Küstenstraße kann bei Regen starken Seitenwind haben."
+            ],
+            "hu": [
+              "Viseljen teljes esőöltözetet (kabát és nadrág).",
+              "Kerülje a hirtelen fékezést a vizes aszfalton vagy útburkolati jeleken.",
+              "Használjon sárvédőt, hogy megóvja ruháját a felverődő kosztól.",
+              "A partmenti úton esőben erős oldalszélre kell számítani."
+            ],
+            "ro": [
+              "Purtați pelerină și pantaloni de ploaie complet impermeabili.",
+              "Evitați frânarea bruscă pe asfaltul ud sau pe marcajele rutiere.",
+              "Folosiți apărători de noroi pentru a vă proteja hainele.",
+              "Șoseaua de coastă poate avea vânt lateral puternic pe ploaie."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers.",
+              "Avoid sudden braking on wet asphalt or road markings.",
+              "Ensure your bike has mudguards to keep your clothes clean.",
+              "The coastal road can experience strong crosswinds during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren am Cap d'Antibes bietet klare Luft und wenig Verkehr. Am Morgen ist es am Hafen noch kühl, aber sonnig. Der Weg zum Garoupe-Leuchtturm bringt Sie zum Schwitzen und wärmt auf. Mittags genießen Sie die Aussicht am Sentier du Littoral. Kehren Sie vor Einbruch der Dunkelheit in die Stadt zurück, um die Museen zu besuchen.",
+            "hu": "A téli biciklizés a Cap d'Antibes-nél tiszta levegőt és kevés forgalmat kínál. Reggel a kikötőnél még hűvös van, de napos. A Garoupe világítótoronyhoz vezető út segít bemelegedni. Délben élvezze a kilátást a Sentier du Littoral mentén. Térjen vissza a városba sötétedés előtt, hogy meglátogassa a múzeumokat.",
+            "ro": "Ciclismul de iarnă la Cap d'Antibes oferă aer curat și trafic redus. Dimineața este răcoare în port, dar însorit. Drumul spre farul Garoupe vă va ajuta să vă încălziți. La prânz, bucurați-vă de priveliște pe Sentier du Littoral. Reveniți în oraș înainte de lăsarea întunericului pentru vizite la muzee.",
+            "en": "Winter cycling at Cap d'Antibes features fresh air and very little traffic. It is cool but sunny in the harbor in the morning. The ride up to Garoupe Lighthouse will warm you up. Enjoy the views along Sentier du Littoral at midday. Return to the town center before dark to enjoy the local museums."
+          },
+          "stops": [
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Etappe am Morgen wichtig.",
+                "hu": "A reggeli első szakaszhoz fontos a kesztyű viselete.",
+                "ro": "Mănușile sunt importante pentru prima etapă a dimineții.",
+                "en": "Gloves are essential for the chilly first leg in the morning."
+              }
+            },
+            {
+              "name": "Garoupe Lighthouse",
+              "tip_5lang": {
+                "de": "Im Winter hat man von hier die beste Fernsicht.",
+                "hu": "Télen innen nyílik a legjobb távoli kilátás.",
+                "ro": "Iarna aveți cea mai bună vizibilitate la distanță de aici.",
+                "en": "Winter provides the clearest long-distance views from here."
+              }
+            },
+            {
+              "name": "Sentier du Littoral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für diesen Küstenabschnitt.",
+                "hu": "Használja ki a déli napsütést ezen a parti szakaszon.",
+                "ro": "Profită de soarele de la prânz pentru această secțiune de coastă.",
+                "en": "Take advantage of the midday sun for this coastal section."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag zum Aufwärmen.",
+                "hu": "Látogassa meg a múzeumot késő délután, hogy felmelegedjen.",
+                "ro": "Vizitați muzeul după-amiaza târziu pentru a vă încălzi.",
+                "en": "Visit the museum in the late afternoon to warm up."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Das Fort schließt im Winter früher; prüfen Sie die Zeiten.",
+                "hu": "Az erőd télen korábban zár; ellenőrizze a nyitvatartást.",
+                "ro": "Fortul se închide mai devreme iarna; verificați orarul.",
+                "en": "The fort closes earlier in winter; check the hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders am Cap d'Antibes.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+              "Trinken Sie auch bei Kälte ausreichend Wasser.",
+              "Planen Sie die Route so, dass Sie gegen 16:30 Uhr wieder im Zentrum sind."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a Cap d'Antibes-nél.",
+              "Győződjön meg róla, hogy a bicikli lámpái működnek a korai sötétedés miatt.",
+              "Hidegben is igyon elegendő vizet a túra alatt.",
+              "Úgy tervezze az utat, hogy 16:30-ra visszaérjen a központba."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special la Cap d'Antibes.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru seara devreme.",
+              "Beți suficientă apă, chiar dacă este frig afară.",
+              "Planificați traseul astfel încât să reveniți în centru până la 16:30."
+            ],
+            "en": [
+              "Wear windproof clothing, especially around Cap d'Antibes.",
+              "Ensure your bike lights are functional for the early dusk.",
+              "Keep hydrated even if you do not feel thirsty in the cold.",
+              "Plan your route to be back in the town center by 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -801,6 +1553,406 @@
           "Parking at Cap d'Antibes is difficult in summer.",
           "Drive along the coast road for the best views."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem mit dem Auto am Fort Carré, wo Sie problemlos parken können. Diese Festung bietet den besten Überblick über den Hafen, bevor Sie sich in das geschäftige Zentrum wagen.\n\nMittags lassen Sie das Auto in einem der Parkhäuser am Rande der Altstadt stehen. Erkunden Sie den Marché Provençal und das Picasso-Museum zu Fuß, da die charmanten Gassen für den Verkehr gesperrt sind.\n\nAm Nachmittag führt Sie eine malerische Fahrt entlang der Küstenstraße zum Cap d'Antibes. Der Phare de la Garoupe bietet ein Panorama, das bis nach Nizza und Cannes reicht.\n\nBeenden Sie den Tag mit einem Spaziergang am Sentier du Littoral. Wenn die Sonne tiefer steht, färben sich die Felsen golden – ein perfekter Abschluss, bevor Sie bequem zurückfahren.",
+            "hu": "Kezdd kényelmesen az autós túrát a Fort Carré erődnél, ahol bőséges parkolóhely áll rendelkezésre. Ez az erőd adja a legjobb áttekintést a kikötőről, mielőtt behajtanál a nyüzsgő központba.\n\nDélben hagyd az autót az óváros szélén lévő parkolóházak egyikében. A provence-i piacot és a Picasso Múzeumot gyalog fedezd fel, mivel a hangulatos sikátorok el vannak zárva a forgalom elől.\n\nDélután festői autózás vár a tengerparti úton a Cap d'Antibes felé. A Garoupe világítótoronytól nyíló panoráma egészen Nizzáig és Cannes-ig ellátszik.\n\nA napot a Sentier du Littoral mentén tett sétával zárd. Ahogy a nap alacsonyabban jár, a sziklák aranyszínben játszanak – tökéletes befejezés a hazautazás előtt.",
+            "ro": "Începeți confortabil cu mașina la Fort Carré, unde puteți parca fără probleme. Această fortăreață oferă cea mai bună vedere asupra portului înainte de a vă aventura în centrul aglomerat.\n\nLa prânz, lăsați mașina într-una dintre parcările de la marginea centrului vechi. Explorați Piața Provensală și Muzeul Picasso la pas, deoarece străzile fermecătoare sunt închise traficului.\n\nDupă-amiaza, o unitate pitorească de-a lungul drumului de coastă vă conduce spre Cap d'Antibes. Farul Garoupe oferă o panoramă care se întinde până la Nisa și Cannes.\n\nÎncheiați ziua cu o plimbare pe Sentier du Littoral. Când soarele coboară, stâncile capătă nuanțe aurii – un final perfect înainte de a porni spre casă.",
+            "en": "Start your car tour comfortably at Fort Carré, where parking is easy. This fortress offers the best overview of the harbor before you venture into the bustling center.\n\nAt midday, leave your car in one of the parking garages on the edge of the old town. Explore the Provençal Market and the Picasso Museum on foot, as the charming alleys are pedestrian-only.\n\nIn the afternoon, a scenic drive along the coast road takes you to Cap d'Antibes. The Garoupe Lighthouse offers a panorama stretching as far as Nice and Cannes.\n\nWrap up the day with a stroll along the Sentier du Littoral. As the sun gets lower, the rocks turn golden – a perfect ending before driving back comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Carré",
+                "hu": "Fort Carré erőd",
+                "ro": "Fortăreața Carré",
+                "en": "Fort Carré"
+              },
+              "tip_5lang": {
+                "de": "Kostenloser Parkplatz direkt vor dem Eingang.",
+                "hu": "Ingyenes parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare gratuită chiar în fața intrării.",
+                "en": "Free parking available directly at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Vauban",
+                "hu": "Vauban kikötő",
+                "ro": "Portul Vauban",
+                "en": "Port Vauban"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Gravette' am Hafen.",
+                "hu": "Használd a Gravette parkolóházat a kikötőnél.",
+                "ro": "Folosiți parcarea etajată 'Gravette' din port.",
+                "en": "Use the 'Gravette' parking garage by the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché Provençal",
+                "hu": "Provençal piac",
+                "ro": "Piața Provensală",
+                "en": "Provençal Market"
+              },
+              "tip_5lang": {
+                "de": "Die Altstadt ist eine Fußgängerzone.",
+                "hu": "Az óváros gyalogos zóna, parkolj kívül.",
+                "ro": "Centrul vechi este zonă pietonală.",
+                "en": "The old town is a pedestrian zone; park outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Picasso",
+                "hu": "Picasso Múzeum",
+                "ro": "Muzeul Picasso",
+                "en": "Picasso Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Ticket gilt auch für temporäre Ausstellungen.",
+                "hu": "A jegy az időszaki kiállításokra is érvényes.",
+                "ro": "Biletul este valabil și pentru expoziții temporare.",
+                "en": "The ticket is also valid for temporary exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Garoupe",
+                "hu": "Garoupe világítótorony",
+                "ro": "Farul Garoupe",
+                "en": "Farul Garoupe"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt erfolgt über gewundene Villenstraßen.",
+                "hu": "Az út kanyargós villák közötti utcákon vezet.",
+                "ro": "Accesul se face pe străzi șerpuite printre vile.",
+                "en": "The drive follows winding streets through villa districts."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentier du Littoral",
+                "hu": "Parti ösvény",
+                "ro": "Sentier du Littoral",
+                "en": "Sentier du Littoral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Plage de la Garoupe.",
+                "hu": "Parkolj a Garoupe strand melletti helyeken.",
+                "ro": "Parcați lângă Plage de la Garoupe.",
+                "en": "Park near Plage de la Garoupe."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Oursin",
+                "tip": "Hervorragende Meeresfrüchte im Stadtzentrum."
+              },
+              {
+                "name": "Bacon",
+                "tip": "Legendäres Fischrestaurant am Cap d'Antibes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Oursin",
+                "tip": "Kiváló tenger gyümölcsei a városközpontban."
+              },
+              {
+                "name": "Bacon",
+                "tip": "Legendás halétterem a Cap d'Antibes félszigeten."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Oursin",
+                "tip": "Fructe de mare excelente în centrul orașului."
+              },
+              {
+                "name": "Bacon",
+                "tip": "Restaurant legendar cu specific pescăresc la Cap d'Antibes."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Oursin",
+                "tip": "Excellent seafood in the city center."
+              },
+              {
+                "name": "Bacon",
+                "tip": "Legendary fish restaurant on Cap d'Antibes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plage de la Salis",
+                "tip": "Ruhiger Strandabschnitt am Abend.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plage de la Salis",
+                "tip": "Csendesebb strandszakasz az esti órákban.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plage de la Salis",
+                "tip": "Secțiune de plajă mai liniștită seara.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plage de la Salis",
+                "tip": "Quieter beach section in the evening.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché aux Vêtements",
+                "tip": "Kleidermarkt am Port Vauban."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché aux Vêtements",
+                "tip": "Ruhapiac a Vauban kikötőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché aux Vêtements",
+                "tip": "Piață de haine lângă Port Vauban."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché aux Vêtements",
+                "tip": "Clothing market near Port Vauban."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Stadtzentrum zur Rushhour.",
+              "Parkhäuser sind oft eng, achten Sie auf Schrammen.",
+              "Am Cap d'Antibes ist das Parken im Sommer schwierig.",
+              "Fahren Sie die Küstenstraße für die beste Aussicht."
+            ],
+            "hu": [
+              "Kerüld a városközpontot a csúcsforgalom idején.",
+              "A parkolóházak szűkek lehetnek, vigyázz az autóra.",
+              "Nyáron a Cap d'Antibes környékén nehéz parkolni.",
+              "A legjobb kilátásért válaszd a parti utat."
+            ],
+            "ro": [
+              "Evitați centrul orașului la orele de vârf.",
+              "Parcările etajate sunt înguste, atenție la mașină.",
+              "Parcarea la Cap d'Antibes este dificilă vara.",
+              "Conduceți pe drumul de coastă pentru cele mai bune vederi."
+            ],
+            "en": [
+              "Avoid the city center during rush hour.",
+              "Parking garages are often narrow; watch for scrapes.",
+              "Parking at Cap d'Antibes is difficult in summer.",
+              "Drive along the coast road for the best views."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie in Antibes bei Regen am flexibelsten. Starten Sie am Fort Carré, wo es Parkplätze direkt am Eingang gibt. Mittags parken Sie im Parkhaus Q-Park Pré des Pêcheurs, um trocken zum Markt und Picasso-Museum zu gelangen. Am Nachmittag fahren Sie zum Cap d'Antibes und genießen die raue See sicher aus dem Auto.",
+            "hu": "Autóval Ön a legrugalmasabb Antibes-ben eső idején. Kezdjen a Fort Carré-nál, ahol közvetlenül a bejáratnál van parkoló. Délben válassza a Q-Park Pré des Pêcheurs mélygarázst, így szárazon érheti el a piacot és a múzeumot. Délután autózzon a Cap d'Antibes-hez, és csodálja a viharos tengert a kocsiból.",
+            "ro": "Cu mașina sunteți cel mai flexibil în Antibes pe timp de ploaie. Începeți la Fort Carré, unde există parcare chiar la intrare. La prânz, folosiți parcarea Q-Park Pré des Pêcheurs pentru acces uscat la piață și muzeu. După-amiaza, conduceți spre Cap d'Antibes și admirați marea agitată din mașină.",
+            "en": "A car provides the most flexibility in Antibes during rainy weather. Start at Fort Carré, which has parking right at the entrance. At midday, use the Q-Park Pré des Pêcheurs underground parking for dry access to the market and museum. In the afternoon, drive to Cap d'Antibes to watch the waves from the safety of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Festung.",
+                "hu": "Használja az erőd közvetlen közelében lévő parkolót.",
+                "ro": "Folosiți parcarea situată chiar în fața fortăreței.",
+                "en": "Use the convenient parking lot right in front of the fortress."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Das Parken am Hafen bietet Schutz beim Ein- und Aussteigen.",
+                "hu": "A kikötői parkolás védelmet nyújt ki- és beszálláskor.",
+                "ro": "Parcarea în port oferă protecție la urcare și coborâre.",
+                "en": "Parking by the harbor offers some shelter during entry and exit."
+              }
+            },
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um den Regen zu umgehen.",
+                "hu": "Parkoljon a közeli mélygarázsban az eső elkerülése végett.",
+                "ro": "Parcați în garajul subteran din apropiere pentru a evita ploaia.",
+                "en": "Park in the nearby underground garage to stay dry."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus Pré des Pêcheurs.",
+                "hu": "Rövid séta a Pré des Pêcheurs parkolóháztól.",
+                "ro": "Scurtă plimbare de la parcarea Pré des Pêcheurs.",
+                "en": "Only a short walk from the Pré des Pêcheurs parking garage."
+              }
+            },
+            {
+              "name": "Farul Garoupe",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick im Auto.",
+                "hu": "Heves esőben maradjon a kocsiban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
+                "en": "Stay in the car for the view if the rain is heavy."
+              }
+            },
+            {
+              "name": "Sentier du Littoral",
+              "tip_5lang": {
+                "de": "Parken Sie sicher und beobachten Sie die Brandung.",
+                "hu": "Parkoljon le biztonságosan, és nézze a hullámverést.",
+                "ro": "Parcați în siguranță și observați valurile care se sparg.",
+                "en": "Park safely and watch the spectacular crashing waves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum für maximalen Komfort.",
+              "Fahren Sie vorsichtig, da die Küstenstraße bei Gischt rutschig ist.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Die Sicht kann bei starkem Regen am Cap d'Antibes eingeschränkt sein."
+            ],
+            "hu": [
+              "A kényelem érdekében használja a belvárosi mélygarázsokat.",
+              "Vezessen óvatosan, a tengerparti út csúszós lehet a permettől.",
+              "Tartson törölközőt az autóban, ha elázna kiszálláskor.",
+              "Heves esőben a látótávolság korlátozott lehet a Cap d'Antibes-nél."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru pentru confort maxim.",
+              "Conduceți cu atenție, drumul de coastă este alunecos de la valuri.",
+              "Țineți un prosop în mașină în caz că vă udă ploaia.",
+              "Vizibilitatea poate fi redusă la Cap d'Antibes pe ploaie torențială."
+            ],
+            "en": [
+              "Use underground parking garages in the center for maximum comfort.",
+              "Drive carefully as the coastal road can be slick from sea spray.",
+              "Keep a towel in the car in case you get wet while getting out.",
+              "Visibility can be limited at Cap d'Antibes during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour rund um das Cap d'Antibes ist bei klarem Wetter traumhaft. Starten Sie am Fort Carré unter der milden Morgensonne. Die Fahrt entlang der Küste zum Leuchtturm bietet spektakuläre Ausblicke auf die verschneiten Alpen im Hintergrund. Mittags ist das Parken im Zentrum einfacher als im Sommer, ideal für den Marktbesuch.",
+            "hu": "Egy téli autózás a Cap d'Antibes körül csodálatos tiszta időben. Kezdjen a Fort Carré-nál az enyhe reggeli napsütésben. A tengerparti út a világítótoronyhoz lenyűgöző kilátást nyújt a háttérben lévő havas Alpokra. Délben a parkolás is könnyebb a központban, mint nyáron, ideális a piaci látogatáshoz.",
+            "ro": "O plimbare cu mașina iarna în jurul Cap d'Antibes este de vis pe vreme senină. Începeți la Fort Carré sub soarele blând al dimineții. Drumul de coastă spre far oferă vederi spectaculoase spre Alpii înzăpeziți din fundal. La prânz, parcarea în centru este mai facilă decât vara.",
+            "en": "A winter drive around Cap d'Antibes is wonderful in clear weather. Start at Fort Carré under the mild morning sun. The coastal drive to the lighthouse offers spectacular views of the snowy Alps in the distance. At midday, parking in the center is much easier than in summer, perfect for visiting the market."
+          },
+          "stops": [
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Genießen Sie die einfache Parkplatzsuche im Winter.",
+                "hu": "Élvezze, hogy télen sokkal könnyebb parkolót találni.",
+                "ro": "Bucurați-vă de găsirea ușoară a unui loc de parcare iarna.",
+                "en": "Enjoy the much easier parking situation during winter months."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Die Sonne spiegelt sich wunderschön auf den Yachten.",
+                "hu": "A napfény gyönyörűen csillan meg a jachtokon.",
+                "ro": "Soarele se reflectă superb pe iahturile din port.",
+                "en": "The winter sun reflects beautifully off the yachts."
+              }
+            },
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Kaufen Sie regionale Winterspezialitäten wie Trüffel.",
+                "hu": "Vásároljon helyi téli különlegességeket, például szarvasgombát.",
+                "ro": "Cumpărați specialități locale de iarnă, cum ar fi trufele.",
+                "en": "Look for local winter specialties like truffles at the stalls."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, das Auto heizt sich nicht auf.",
+                "hu": "Parkoljon nyugodtan az árnyékban, az autó nem fog felmelegedni.",
+                "ro": "Parcați la umbră, mașina nu se va supraîncălzi.",
+                "en": "Park in the shade as the car won't overheat in winter."
+              }
+            },
+            {
+              "name": "Farul Garoupe",
+              "tip_5lang": {
+                "de": "Beste Zeit für Panoramafotos der Alpenkette.",
+                "hu": "A legjobb időszak az Alpok láncainak fotózásához.",
+                "ro": "Cel mai bun moment pentru fotografii panoramice cu Alpii.",
+                "en": "The best time for panoramic photos of the Alpine chain."
+              }
+            },
+            {
+              "name": "Sentier du Littoral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für einen Strandspaziergang in der Sonne.",
+                "hu": "Rövid megálló egy napsütötte tengerparti sétához.",
+                "ro": "Scurtă oprire pentru o plimbare pe plajă în soare.",
+                "en": "Short stop for a sunny beach walk even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren sind im Winter in einigen Zonen günstiger.",
+              "Vermeiden Sie Fahrten direkt nach Sonnenuntergang wegen Blendgefahr.",
+              "Die Straßen am Cap sind im Winter viel entspannter zu befahren.",
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen."
+            ],
+            "hu": [
+              "A parkolási díjak télen egyes zónákban kedvezőbbek lehetnek.",
+              "Kerülje a vezetést közvetlenül naplemente után a vakítás veszélye miatt.",
+              "A Cap útjai télen sokkal nyugodtabban járhatók.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet miatt."
+            ],
+            "ro": [
+              "Tarifele de parcare pot fi mai mici în unele zone iarna.",
+              "Evitați condusul imediat după apus din cauza riscului de orbire.",
+              "Drumurile de la Cap sunt mult mai relaxate iarna.",
+              "Verificați presiunea în anvelope când temperaturile scad."
+            ],
+            "en": [
+              "Parking fees may be lower in certain zones during winter.",
+              "Avoid driving directly after sunset due to the risk of glare.",
+              "The roads around the Cap are much less crowded in winter.",
+              "Check your tire pressure as temperatures begin to drop."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1040,34 +2192,359 @@
           "Buses run less frequently on weekends.",
           "Line 2 is the best connection to the cape."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Antibes lässt sich wunderbar mit dem Envibus-Netzwerk erkunden. Starten Sie am Marché Provençal, dem pulsierenden Herz der Stadt. Ein kurzer Spaziergang führt Sie zum Picasso-Museum, wo Sie die Kunstwerke in den historischen Räumen bewundern.\n\nMittags nehmen Sie einen der Busse zum Port Vauban. Genießen Sie die Atmosphäre am Jachthafen und machen Sie eine Pause, bevor Sie zum historischen Fort Carré weiterfahren.\n\nAm Nachmittag bringt Sie der Bus hinauf zum Cap d'Antibes. Die Strecke zum Phare de la Garoupe bietet durch die hohen Fenster der Busse tolle Ausblicke auf die Villen der 'Bucht der Milliardäre'.\n\nZum Ausklang genießen Sie den Panoramablick vom Leuchtturm, bevor Sie mit der Linie 2 entspannt zurück ins Stadtzentrum fahren.",
+            "hu": "Antibes remekül felfedezhető az Envibus hálózattal. Kezdj a provence-i piacon, a város lüktető szívében. Rövid séta után jutsz el a Picasso Múzeumba, ahol a történelmi falak között csodálhatod meg a mester műveit.\n\nDélben pattanj buszra a Vauban kikötő felé. Élvezd a kikötői hangulatot és tarts egy ebédszünetet, mielőtt továbbutaznál a történelmi Fort Carré erőd irányába.\n\nDélután a busz felvisz a Cap d'Antibes félszigetre. A Garoupe világítótoronyhoz vezető út során a busz ablakából remek rálátás nyílik a 'Milliárdosok öblének' luxusvilláira.\n\nBefejezésként élvezd a panorámát a világítótoronytól, majd a 2-es busszal kényelmesen térj vissza a városközpontba.",
+            "ro": "Antibes poate fi explorat minunat cu rețeaua Envibus. Începeți la Piața Provensală, inima vibrantă a orașului. O scurtă plimbare vă duce la Muzeul Picasso, unde admirați operele de artă în sălile istorice.\n\nLa prânz, luați unul dintre autobuze spre Port Vauban. Bucurați-vă de atmosfera din portul de iahturi și faceți o pauză înainte de a continua spre istoricul Fort Carré.\n\nDupă-amiaza, autobuzul vă duce sus pe Cap d'Antibes. Traseul spre Farul Garoupe oferă vederi excelente prin ferestrele autobuzului asupra vilelor din 'Golful Miliardarilor'.\n\nLa final, bucurați-vă de panorama de la far înainte de a vă întoarce relaxat în centrul orașului cu linia 2.",
+            "en": "Antibes is easily explored using the Envibus network. Start at the Provençal Market, the pulsing heart of the city. A short walk takes you to the Picasso Museum to admire artworks in historical settings.\n\nAt midday, hop on a bus toward Port Vauban. Soak in the harbor atmosphere and take a break before heading further to the historic Fort Carré.\n\nIn the afternoon, the bus takes you up to Cap d'Antibes. The route to the Garoupe Lighthouse offers great views from the bus windows of the villas in the 'Billionaires' Bay.'\n\nTo finish, enjoy the panoramic view from the lighthouse before taking line 2 for a relaxed ride back to the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marché Provençal",
+                "hu": "Provençal piac",
+                "ro": "Piața Provensală",
+                "en": "Provençal Market"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 14 hält in der Nähe der Altstadt.",
+                "hu": "A 14-es busz megáll az óváros közelében.",
+                "ro": "Linia 14 oprește aproape de centrul vechi.",
+                "en": "Bus line 14 stops near the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Picasso",
+                "hu": "Picasso Múzeum",
+                "ro": "Muzeul Picasso",
+                "en": "Picasso Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Envibus-Pass für den ganzen Tag.",
+                "hu": "Vegyél egész napos Envibus bérletet.",
+                "ro": "Folosiți un abonament Envibus pentru întreaga zi.",
+                "en": "Use an Envibus day pass for unlimited rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Vauban",
+                "hu": "Vauban kikötő",
+                "ro": "Portul Vauban",
+                "en": "Port Vauban"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafen aus fahren viele Linien ab.",
+                "hu": "A kikötőtől számos buszjárat indul.",
+                "ro": "Din port pleacă multe linii de autobuz.",
+                "en": "Many bus lines depart from the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Carré",
+                "hu": "Fort Carré erőd",
+                "ro": "Fortăreața Carré",
+                "en": "Fort Carré"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Fort Carré' direkt an der Hauptstraße.",
+                "hu": "A 'Fort Carré' megálló közvetlenül a főúton van.",
+                "ro": "Stația 'Fort Carré' este chiar pe drumul principal.",
+                "en": "The 'Fort Carré' stop is right on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Garoupe",
+                "hu": "Garoupe világítótorony",
+                "ro": "Farul Garoupe",
+                "en": "Garoupe Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 2 fährt direkt zum Kap hinauf.",
+                "hu": "A 2-es busz közvetlenül felvisz a félszigetre.",
+                "ro": "Linia 2 merge direct sus pe cap.",
+                "en": "Bus line 2 goes directly up to the cape."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Civette du Marché",
+                "tip": "Snacks und Kaffee direkt am Marktplatz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Civette du Marché",
+                "tip": "Gyors ételek és kávé közvetlenül a piactéren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Civette du Marché",
+                "tip": "Gustări și cafea chiar în piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Civette du Marché",
+                "tip": "Snacks and coffee right at the marketplace."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square du 8 Mai",
+                "tip": "Kleiner Park am Meer in der Nähe des Hafens.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square du 8 Mai",
+                "tip": "Kis tengerparti park a kikötő közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square du 8 Mai",
+                "tip": "Mic parc la malul mării lângă port.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square du 8 Mai",
+                "tip": "Small seaside park near the harbor.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Envibus Verkaufsstelle",
+                "tip": "Für Souvenirs und Fahrkarten am Busbahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Envibus iroda",
+                "tip": "Bérletek és menetrendek a buszpályaudvaron."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct Envibus",
+                "tip": "Pentru bilete și informații la autogară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Envibus Point",
+                "tip": "For tickets and info at the bus station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die Envibus-App für Echtzeit-Infos herunter.",
+              "Tickets können beim Fahrer gekauft werden (teurer).",
+              "Busse fahren am Wochenende seltener.",
+              "Die Linie 2 ist die beste Verbindung zum Kap."
+            ],
+            "hu": [
+              "Töltsd le az Envibus appot a valós idejű infókért.",
+              "A jegy a sofőrnél is megvehető (drágább).",
+              "Hétvégén a buszok ritkábban járnak.",
+              "A 2-es busz a legjobb járat a félszigetre."
+            ],
+            "ro": [
+              "Descărcați aplicația Envibus pentru info în timp real.",
+              "Biletele pot fi cumpărate de la șofer (mai scump).",
+              "Autobuzele circulă mai rar în weekend.",
+              "Linia 2 este cea mai bună conexiune către cap."
+            ],
+            "en": [
+              "Download the Envibus app for real-time info.",
+              "Tickets can be bought from the driver (more expensive).",
+              "Buses run less frequently on weekends.",
+              "Line 2 is the best connection to the cape."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus 'Envibus', um bei Regen trocken durch Antibes zu kommen. Starten Sie am Markt und nehmen Sie die Linie 2 zum Picasso-Museum. Mittags bringt Sie der Bus bequem zum Port Vauban. Den Nachmittag verbringen Sie in der Festung Fort Carré, die gut an das Busnetz angebunden ist. Die Wartezeiten an den Haltestellen sind meist kurz.",
+            "hu": "Használja az 'Envibus' járatait, hogy esőben is szárazon közlekedhessen Antibes-ben. Kezdjen a piacon, majd menjen a 2-es busszal a Picasso Múzeumhoz. Délben a busz kényelmesen elviszi a Port Vaubanhoz. A délutánt töltse a Fort Carré erődben, amely jól megközelíthető tömegközlekedéssel. A várakozási idő általában rövid.",
+            "ro": "Folosiți autobuzele 'Envibus' pentru a rămâne uscat în Antibes pe timp de ploaie. Începeți la piață și luați linia 2 spre Muzeul Picasso. La prânz, autobuzul vă duce confortabil la Port Vauban. Petreceți după-amiaza la Fort Carré, bine conectat la rețea. Timpii de așteptare în stații sunt de obicei scurți.",
+            "en": "Use the 'Envibus' network to stay dry while moving around Antibes in the rain. Start at the market, then take line 2 to the Picasso Museum. At midday, the bus conveniently takes you to Port Vauban. Spend the afternoon at Fort Carré, which is well-connected by bus. Waiting times at shelters are usually minimal."
+          },
+          "stops": [
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum haben oft Überdachungen.",
+                "hu": "A belvárosi megállók gyakran fedettek.",
+                "ro": "Stațiile din centru au adesea copertine de protecție.",
+                "en": "Bus stops in the center often have protective covers."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața muzeului.",
+                "en": "The bus stops almost right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Vom Bus aus haben Sie einen erhöhten Blick auf den Hafen.",
+                "hu": "A buszról magasabbról láthat rá a kikötőre.",
+                "ro": "Din autobuz aveți o vedere panoramică asupra portului.",
+                "en": "The bus offers an elevated view of the harbor while you ride."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um nicht im Regen warten zu müssen.",
+                "hu": "Használja az alkalmazást, hogy ne kelljen az esőben várnia.",
+                "ro": "Folosiți aplicația pentru a nu aștepta în ploaie.",
+                "en": "Use the transit app to avoid waiting outside in the rain."
+              }
+            },
+            {
+              "name": "Garoupe Lighthouse",
+              "tip_5lang": {
+                "de": "Die Linie 2 fährt Sie bis nah an den Leuchtturm.",
+                "hu": "A 2-es busz egészen a világítótorony közelébe visz.",
+                "ro": "Linia 2 vă duce foarte aproape de far.",
+                "en": "Line 2 takes you very close to the lighthouse entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App, um langes Suchen zu vermeiden.",
+              "Die Busse sind im Winter und bei Regen oft gut geheizt.",
+              "Achten Sie auf geänderte Fahrpläne bei starkem Unwetter.",
+              "Nutzen Sie die Hauptlinien für schnellere Verbindungen."
+            ],
+            "hu": [
+              "Vegye meg a jegyét előre az applikációban a gyorsabb felszálláshoz.",
+              "A buszok télen és esőben általában jól fűtöttek.",
+              "Figyeljen az esetleges menetrendi változásokra vihar esetén.",
+              "Használja a fővonalakat a gyorsabb közlekedés érdekében."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a evita cozile.",
+              "Autobuzele sunt de obicei bine încălzite iarna și pe ploaie.",
+              "Urmăriți eventualele modificări de program în caz de furtună.",
+              "Folosiți liniile principale pentru conexiuni mai rapide."
+            ],
+            "en": [
+              "Buy your tickets in advance via the app for faster boarding.",
+              "Buses are usually well-heated during winter and rainy days.",
+              "Check for any schedule changes during severe weather alerts.",
+              "Stick to main bus lines for more frequent and faster connections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Antibes im Winter stressfrei mit dem Transit. Die Busse sind weniger überfüllt als im Sommer. Starten Sie Ihre Tour am Hafen und genießen Sie die klare Sicht. Mittags bringt Sie der Pendelbus bequem in die Altstadt. Da die Sonne früh untergeht, ist der Bus eine sichere und warme Option für die Rückfahrt am Abend.",
+            "hu": "Fedezze fel Antibes-t télen stresszmentesen tömegközlekedéssel. A buszok kevésbé zsúfoltak, mint nyáron. Kezdje a túrát a kikötőnél, és élvezze a tiszta kilátást. Délben az ingajárat kényelmesen beviszi az óvárosba. Mivel a nap korán nyugszik, a busz biztonságos és meleg opció az esti visszatéréshez.",
+            "ro": "Descoperiți Antibes iarna fără stres folosind transportul în comun. Autobuzele sunt mai puțin aglomerate decât vara. Începeți turul în port și bucurați-vă de vizibilitate. La prânz, autobuzul de transfer vă duce în orașul vechi. Deoarece soarele apune devreme, autobuzul este o opțiune caldă pentru seară.",
+            "en": "Explore Antibes in winter stress-free using public transit. Buses are far less crowded than in the summer months. Start your tour at the harbor and enjoy the crisp views. At midday, the shuttle bus takes you comfortably into the old town. Since the sun sets early, the bus is a safe and warm option for your evening return."
+          },
+          "stops": [
+            {
+              "name": "Provençal Market",
+              "tip_5lang": {
+                "de": "Im Winter ist der Marktplatz ruhiger und besser erreichbar.",
+                "hu": "Télen a piactér nyugodtabb és könnyebben elérhető.",
+                "ro": "Iarna, piața este mai liniștită și mai ușor accesibilă.",
+                "en": "In winter, the market square is quieter and easier to reach."
+              }
+            },
+            {
+              "name": "Picasso Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich während der Busfahrt zum Museum auf.",
+                "hu": "Melegedjen fel a múzeumba vezető buszút alatt.",
+                "ro": "Încălziți-vă în timpul călătoriei cu autobuzul spre muzeu.",
+                "en": "Warm up during the short bus ride to the museum."
+              }
+            },
+            {
+              "name": "Port Vauban",
+              "tip_5lang": {
+                "de": "Bester Blick auf die Festung vom Busfenster aus.",
+                "hu": "A legjobb kilátás az erődre a busz ablakából nyílik.",
+                "ro": "Cea mai bună vedere spre fortăreață este de la fereastra autobuzului.",
+                "en": "The best view of the fortress is from the bus window."
+              }
+            },
+            {
+              "name": "Fort Carré",
+              "tip_5lang": {
+                "de": "Prüfen Sie den letzten Bus vor Sonnenuntergang.",
+                "hu": "Ellenőrizze az utolsó buszt naplemente előtt.",
+                "ro": "Verificați ora ultimului autobuz înainte de apus.",
+                "en": "Check the time for the last bus before the sun goes down."
+              }
+            },
+            {
+              "name": "Garoupe Lighthouse",
+              "tip_5lang": {
+                "de": "Die Wintersonne macht die Fahrt zum Cap besonders schön.",
+                "hu": "A téli napsütés különösen széppé teszi az utat a Cap felé.",
+                "ro": "Soarele de iarnă face călătoria spre Cap deosebit de frumoasă.",
+                "en": "The winter sun makes the ride to the Cap especially beautiful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Envibus' App für Echtzeit-Abfahrten.",
+              "Die Busse verkehren im Winter nach dem Standard-Fahrplan.",
+              "Tragen Sie warme Kleidung für die Wartezeit an Haltestellen.",
+              "Kombinieren Sie Busfahrten mit kurzen Spaziergängen in der Sonne."
+            ],
+            "hu": [
+              "Használja az 'Envibus' alkalmazást a valós idejű indulásokhoz.",
+              "A buszok télen a standard menetrend szerint közlekednek.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Kombinálja a buszozást rövid, napsütötte sétákkal."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Envibus' pentru plecări în timp real.",
+              "Autobuzele circulă iarna conform programului standard.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Combinați călătoriile cu autobuzul cu scurte plimbări la soare."
+            ],
+            "en": [
+              "Use the 'Envibus' app for real-time departure information.",
+              "Buses run according to the standard schedule in winter.",
+              "Wear warm clothes for the time spent waiting at stops.",
+              "Combine bus rides with short walks in the winter sun."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.antibesjuanlespins.com/",
-    "events": "https://www.antibesjuanlespins.com/en/agenda",
-    "city_card": "",
-    "museum_tickets": "https://www.antibes-juanlespins.com/culture/musees",
-    "transit_official": "https://envibus.fr/",
-    "language_tips": {
-      "de": "Antibes ist sehr international, vor allem im Hafen Port Vauban (groesster Yachthafen Europas), wo Englisch von Crews und Eignern dominiert. In der Altstadt und auf dem Provencal-Markt ist Franzoesisch die Hauptsprache, ein 'bonjour' beim Marktstand ist Pflicht.",
-      "hu": "Antibes nagyon nemzetkozi, kulonosen a Port Vauban-ban (Europa legnagyobb jachtkikotoje), ahol az angol dominal a legenysegek es tulajdonosok kozott. Az ovarosban es a provence-i piacon a francia a fo, a piaci 'bonjour' kotelezo.",
-      "ro": "Antibes e foarte international, mai ales in Port Vauban (cel mai mare port de iahturi din Europa), unde engleza domina printre echipaje si proprietari. In orasul vechi si in piata provensala franceza e principala, 'bonjour' la taraba e obligatoriu.",
-      "en": "Antibes is very international, especially around Port Vauban (Europe's biggest yacht harbour), where English dominates among crews and owners. In the old town and at the Provençal market, French is the main language — a 'bonjour' at the stall is a must."
-    },
-    "best_time_to_visit": {
-      "de": "Mai, Juni und September perfekt: 22-28 Grad, das Meer warm, die Strandcafes lebendig aber nicht ueberlaufen. Juli und August richtig voll, vor allem mit Yachten und Festivalbesuchern (Jazz à Juan). Winter mild (12-15 Grad), aber viele Strandbars geschlossen.",
-      "hu": "Majus, junius es szeptember tokeletes: 22-28 fok, meleg tenger, elenk part menti kavezok, de nem zsufolt. Julius es augusztus brutal tomott, foleg jachtokkal es a Jazz à Juan kozonsegevel. A tel enyhe (12-15 fok), de sok strandbar zarva.",
-      "ro": "Mai, iunie si septembrie sunt perfecte: 22-28 grade, marea calda, cafenelele de pe plaja vii dar nu aglomerate. Iulie si august sunt brutal de aglomerate, mai ales cu iahturi si publicul de la Jazz à Juan. Iarna e blanda (12-15 grade), dar multe baruri de plaja inchise.",
-      "en": "May, June and September are perfect: 22-28°C, warm sea, beachfront cafés lively but not packed. July and August get brutally busy, especially with yachts and Jazz à Juan festival crowds. Winter is mild (12-15°C) but many beach bars are shut."
-    },
-    "neighborhood_warnings": {
-      "de": "Die Altstadt und der Markt am Cours Masséna sind tagsueber sicher, am Bahnhof Antibes abends auf Taschendiebe achten. Im Hochsommer Parkplaetze nahe der Strandpromenade fast unmoeglich, lieber Park-and-Ride ausserhalb.",
-      "hu": "Az ovaros es a Cours Masséna piac nappal biztonsagos, az Antibes palyaudvaron este figyelj a zsebtolvajokra. Nyaron a strand kornyeken szinte lehetetlen parkolni, jobb Park-and-Ride a varoson kivul.",
-      "ro": "Centrul vechi si piata din Cours Masséna sunt sigure ziua, la gara Antibes seara atentie la hoti de buzunare. Vara, parcarea langa plaja e aproape imposibila, mai bine Park-and-Ride in afara orasului.",
-      "en": "The old town and Cours Masséna market are safe by day, but watch for pickpockets at Antibes station in the evening. Parking near the seafront in peak summer is nearly impossible — use Park-and-Ride outside town."
-    },
-    "parking_real_time": ""
   }
 }

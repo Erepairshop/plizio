@@ -587,32 +587,5 @@
         "en": []
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.la-plagne.com/en/webcams",
-    "tourism_office": "https://www.la-plagne.com/",
-    "events": "https://www.la-plagne.com/en/agenda",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "La Plagne ist familienorientiert mit vielen britischen, niederlaendischen und belgischen Gaesten, Englisch klappt in allen Skischulen und Restaurants. In den 11 Doerfern (Plagne Centre, Belle Plagne, Aime 2000 etc.) ist die Hauptsprache aber Franzoesisch.",
-      "hu": "La Plagne csaladbarat, sok brit, holland es belga vendeg, az angol mukodik a sioktatasban es ettermekben. A 11 falucskaban (Plagne Centre, Belle Plagne, Aime 2000 stb.) a fonyelv azert francia.",
-      "ro": "La Plagne e familiala, multi britanici, olandezi si belgieni, engleza merge in scoli de schi si restaurante. In cele 11 sate (Plagne Centre, Belle Plagne, Aime 2000 etc.) limba principala ramane franceza.",
-      "en": "La Plagne is family-oriented with lots of British, Dutch and Belgian visitors — English works fine in all ski schools and restaurants. Across the 11 villages (Plagne Centre, Belle Plagne, Aime 2000 etc.) French is still the main language."
-    },
-    "best_time_to_visit": {
-      "de": "Skisaison Mitte Dezember bis Ende April, das Paradiski-Gebiet mit Les Arcs zusammen 425 km Pisten. Februar voll und teuer, Januar und Mitte Maerz die besten Wochen fuer ruhigen Schnee. Sommer Wanderparadies, vor allem rund um Aime und den Mont-Saint-Sauveur.",
-      "hu": "Si szezon december kozeptol aprilis vegeig, a Paradiski-terulet Les Arcs-szal egyutt 425 km pistat ad. Februar zsufolt es draga, januar es marcius kozepe a legjobb csendes ho heteinek. Nyaron tura-paradicsom, fokent Aime es a Mont-Saint-Sauveur korul.",
-      "ro": "Sezonul de schi din mijlocul lui decembrie pana la sfarsitul lui aprilie, domeniul Paradiski cu Les Arcs are 425 km de partii. Februarie e aglomerat si scump, ianuarie si mijlocul lui martie sunt cele mai bune saptamani. Vara, paradisul drumetiilor, mai ales in jurul Aime si Mont-Saint-Sauveur.",
-      "en": "Ski season mid-December to late April — the Paradiski domain (with Les Arcs) offers 425 km of pistes. February is busy and pricey, January and mid-March are the best weeks for quiet snow. Summer is a hiking paradise, especially around Aime and Mont-Saint-Sauveur."
-    },
-    "neighborhood_warnings": {
-      "de": "Die 6 Hoehendoerfer sind ski-in/ski-out, die 5 Talddoerfer (Montchavin, Champagny etc.) brauchen Bus. Letzter Bus oft schon um 22 Uhr, Taxi knapp und teuer. Bei Schneefall die Zufahrtsstrassen schnell gesperrt.",
-      "hu": "A 6 magassagi falu ski-in/ski-out, az 5 volgyi (Montchavin, Champagny stb.) busz-fuggo. Az utolso busz gyakran 22-kor, taxi keves es draga. Hoeses kor a felvezeto utak gyorsan zarnak.",
-      "ro": "Cele 6 sate de inaltime sunt ski-in/ski-out, cele 5 din vale (Montchavin, Champagny etc.) au nevoie de autobuz. Ultimul autobuz e des la 22:00, taxiul putin si scump. La ninsoare drumurile de acces se inchid rapid.",
-      "en": "The 6 high villages are ski-in/ski-out, the 5 valley villages (Montchavin, Champagny etc.) need a shuttle bus. The last bus often runs at 22:00, taxis are scarce and pricey. Access roads close fast when it snows hard."
-    },
-    "parking_real_time": ""
   }
 }

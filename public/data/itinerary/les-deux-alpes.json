@@ -1058,32 +1058,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.les2alpes.com/en/webcams/",
-    "tourism_office": "https://www.les2alpes.com/",
-    "events": "https://www.les2alpes.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Les Deux Alpes ist sehr international, britische, niederlaendische und italienische Skifahrer sowie Sommerski-Touristen aus aller Welt. Englisch klappt in Bars und Skischulen, Franzoesisch in den lokalen Boulangerien. Personal oft jung und mehrsprachig.",
-      "hu": "Les Deux Alpes nagyon nemzetkozi, brit, holland, olasz sielok es a vilagbol erkezo nyari sielok. Az angol a baroknal es sioktatasban megy, a francia a helyi pekseguknel. A szemelyzet gyakran fiatal es tobb nyelvu.",
-      "ro": "Les Deux Alpes e foarte internationala, schiori britanici, olandezi, italieni si turisti de schi vara din toata lumea. Engleza merge in baruri si scoli de schi, franceza la patiseriile locale. Personalul e adesea tanar si multilingv.",
-      "en": "Les Deux Alpes is very international — British, Dutch and Italian skiers, plus summer-ski tourists from everywhere. English works in bars and ski schools; French at local boulangeries. Staff are usually young and multilingual."
-    },
-    "best_time_to_visit": {
-      "de": "Winterski Dezember bis April, einzige franzoesische Station mit zuverlaessigem Sommerski-Betrieb auf dem Mont-de-Lans-Gletscher (Juni-August). Mai und Oktober/November geschlossen, dann Sommerseilbahn nur fuer Wanderer.",
-      "hu": "Teli sielles december-aprilis, az egyetlen francia allomas megbizhato nyari sieklessel a Mont-de-Lans gleccseren (junius-augusztus). Majus es oktober-november zarva, akkor a nyari felvono csak turazoknak.",
-      "ro": "Schi de iarna decembrie-aprilie, singura statiune franceza cu schi de vara sigur pe ghetarul Mont-de-Lans (iunie-august). Mai si octombrie-noiembrie inchise, atunci telecabina de vara doar pentru drumetii.",
-      "en": "Winter skiing December to April, the only French resort with reliable summer skiing on the Mont-de-Lans glacier (June-August). May and October-November are shut, with the summer cable car serving only hikers."
-    },
-    "neighborhood_warnings": {
-      "de": "Das Dorf liegt linear an einer Hauptstrasse, im Hochwinter Verkehr und Parkprobleme. Apres-Ski-Bars sehr lebhaft und voll, nicht jeder mag das. Im Sommer Skipisten am Gletscher koennen am Vormittag schon sulzig sein.",
-      "hu": "A falu egyetlen fout menten huzodik, hidegben forgalom es parkolasi gond. Az apres-ski barok nagyon zajosak es tomottek, nem mindenkinek valo. Nyaron a gleccser pistai delelottre mar levesesek lehetnek.",
-      "ro": "Satul e linear de-a lungul drumului principal, iarna trafic si probleme cu parcarea. Barurile apres-ski sunt foarte vibrante si pline, nu e pentru toata lumea. Vara, partiile de pe ghetar pot fi deja moi inainte de pranz.",
-      "en": "The village stretches linearly along one main road, with heavy traffic and parking issues in peak winter. The après-ski bars are loud and packed — not everyone's scene. In summer the glacier pistes can get slushy by late morning."
-    },
-    "parking_real_time": ""
   }
 }

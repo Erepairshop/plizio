@@ -320,6 +320,450 @@
           "Drink plenty of water to counteract the effects of the thin mountain air.",
           "Weather conditions can change in minutes; always carry a warm layer with you."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der Place Caron, dem lebhaften Zentrum des höchstgelegenen Skiorts Europas. Ein kurzer Spaziergang führt Sie zur modernen Kirche, einem Ort der Stille inmitten der Alpen. Am späten Vormittag bietet das Le Board Entspannung und Kultur.\n\nNach dem Mittagessen nehmen Sie den Weg in Richtung Mont de la Chambre, um das Panorama der Trois Vallées zu bewundern. Die frische Bergluft und die weiten Ausblicke sind hier oben unvergleichlich.\n\nAm Nachmittag wandern Sie am Fuße der Aiguille de Péclet, wo die karge Schönheit der Hochalpen besonders zur Geltung kommt. Die Felsformationen bieten tolle Fotomotive.\n\nDen Tag lassen Sie gemütlich auf der Place Caron ausklingen, wenn sich der Ort in das warme Licht der Dämmerung hüllt und die Restaurants ihre Türen für ein herzhaftes Abendessen öffnen.",
+            "hu": "Kezdje a napot a Place Caronon, Európa legmagasabban fekvő síközpontjának nyüzsgő központjában. Egy rövid séta elvezeti a modern templomhoz, amely a nyugalom szigete az Alpok szívében. Késő délelőtt a Le Board központ kínál kikapcsolódást.\n\nEbéd után induljon el a Mont de la Chambre felé, hogy megcsodálja a Trois Vallées (Három Völgy) panorámáját. A friss hegyi levegő és a végtelen kilátás itt fent semmihez sem fogható.\n\nDélután tegyen egy sétát az Aiguille de Péclet lábánál, ahol a magashegyi táj zord szépsége igazán érvényesül. A sziklafalak lenyűgöző látványt nyújtanak.\n\nA napot zárja ismét a Place Caronon, ahogy a falu az alkonyat meleg fényeibe öltözik, és a hütte hangulatú éttermek megtelnek élettel egy kiadós vacsorához.",
+            "ro": "Începeți ziua în Place Caron, centrul animat al celei mai înalte stațiuni de schi din Europa. O scurtă plimbare vă duce la biserica modernă, un loc de liniște în mijlocul Alpilor. Spre sfârșitul dimineții, centrul Le Board oferă relaxare și cultură.\n\nDupă prânz, urmați poteca spre Mont de la Chambre pentru a admira panorama celor Trei Văi. Aerul curat de munte și priveliștile vaste de aici sunt de neegalat.\n\nDupă-amiaza, plimbați-vă la poalele Aiguille de Péclet, unde frumusețea austeră a Alpilor înalți este evidențiată. Formațiunile stâncoase sunt motive fotografice excelente.\n\nÎncheiați ziua relaxat în Place Caron, când satul se îmbracă în lumina caldă a amurgului, iar restaurantele își deschid porțile pentru o cină copioasă.",
+            "en": "Start your day at Place Caron, the lively center of Europe's highest ski resort. A short walk leads you to the modern church, a place of silence in the heart of the Alps. By late morning, Le Board offers relaxation and culture.\n\nAfter lunch, head towards Mont de la Chambre to admire the panorama of the Trois Vallées. The fresh mountain air and the vast views up here are incomparable.\n\nIn the afternoon, hike at the foot of Aiguille de Péclet, where the rugged beauty of the high Alps is especially prominent. The rock formations provide great photo opportunities.\n\nEnd the day back at Place Caron as the village is shrouded in the warm light of dusk and the cozy restaurants fill with life for a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Der pulsierende Mittelpunkt des Dorfes.",
+                "hu": "A falu lüktető központja.",
+                "ro": "Inima vibrantă a satului.",
+                "en": "The pulsating heart of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Val Thorens",
+                "hu": "Val Thorens temploma",
+                "ro": "Biserica din Val Thorens",
+                "en": "Val Thorens Church"
+              },
+              "tip_5lang": {
+                "de": "Moderne Architektur in den Bergen.",
+                "hu": "Modern építészet a hegyek között.",
+                "ro": "Arhitectură modernă în munți.",
+                "en": "Modern architecture in the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Board Val Thorens",
+                "hu": "Le Board kulturális központ",
+                "ro": "Centrul cultural Le Board",
+                "en": "Le Board Val Thorens"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Wellness oder Kultur.",
+                "hu": "Tökéletes wellnesshez vagy kultúrához.",
+                "ro": "Perfect pentru wellness sau cultură.",
+                "en": "Perfect for wellness or culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont de la Chambre",
+                "hu": "Mont de la Chambre",
+                "ro": "Mont de la Chambre",
+                "en": "Mont de la Chambre"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubender Blick auf die Täler.",
+                "hu": "Lélegzetelállító kilátás a völgyekre.",
+                "ro": "Vedere uluitoare asupra văilor.",
+                "en": "Breathtaking view of the valleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille de Péclet",
+                "hu": "Aiguille de Péclet",
+                "ro": "Aiguille de Péclet",
+                "en": "Aiguille de Péclet"
+              },
+              "tip_5lang": {
+                "de": "Majestätischer Gipfelblick.",
+                "hu": "Fenséges csúcs panoráma.",
+                "ro": "Panoramă maiestuoasă de pe vârf.",
+                "en": "Majestic peak panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Caron (Abend)",
+                "hu": "Place Caron (este)",
+                "ro": "Place Caron (seara)",
+                "en": "Place Caron (evening)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Après-Ski Stimmung.",
+                "hu": "Élvezze az après-ski hangulatot.",
+                "ro": "Bucurați-vă de atmosfera après-ski.",
+                "en": "Enjoy the après-ski atmosphere."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Maison",
+                "tip": "Traditionelles Käsefondue in alpinem Ambiente."
+              },
+              {
+                "name": "Le Vieux Chalet",
+                "tip": "Probieren Sie die Tartiflette mit regionalem Reblochon."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Maison",
+                "tip": "Hagyományos sajtos fondü alpesi környezetben."
+              },
+              {
+                "name": "Le Vieux Chalet",
+                "tip": "Kóstolja meg a tartiflette-et helyi Reblochon sajttal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Maison",
+                "tip": "Fondue de brânză tradițional într-un ambient alpin."
+              },
+              {
+                "name": "Le Vieux Chalet",
+                "tip": "Încercați tartiflette cu brânză Reblochon locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Maison",
+                "tip": "Traditional cheese fondue in an alpine setting."
+              },
+              {
+                "name": "Le Vieux Chalet",
+                "tip": "Try the tartiflette with regional Reblochon cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac du Lou am frühen Morgen",
+                "tip": "Stille und Spiegelungen im klaren Bergsee.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Aussichtspunkt Mont de la Chambre",
+                "tip": "Fernab vom Trubel die Gipfel zählen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lac du Lou kora reggel",
+                "tip": "Csend és tükröződések a tiszta hegyi tóban.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont de la Chambre kilátópont",
+                "tip": "Távol a nyüzsgéstől, számolja a csúcsokat.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lac du Lou dimineața devreme",
+                "tip": "Liniște și reflexii în lacul montan limpede.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Punct de belvedere Mont de la Chambre",
+                "tip": "Departe de agitație, numărați vârfurile.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac du Lou early morning",
+                "tip": "Silence and reflections in the clear mountain lake.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont de la Chambre viewpoint",
+                "tip": "Count the peaks far from the hustle and bustle.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Schneesport-Geschäfte",
+                "tip": "Die neueste Ausrüstung und hochwertige Skibekleidung."
+              },
+              {
+                "name": "Hiesige Spezialitäten",
+                "tip": "Lokaler Honig und Bergkäse direkt aus Savoyen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Havas sportüzletek",
+                "tip": "A legújabb felszerelések és minőségi síruházat."
+              },
+              {
+                "name": "Helyi különlegességek",
+                "tip": "Helyi méz és hegyi sajt közvetlenül Savoyából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de sporturi de iarnă",
+                "tip": "Cele mai noi echipamente și haine de schi de calitate."
+              },
+              {
+                "name": "Specialități locale",
+                "tip": "Miere locală și brânză de munte direct din Savoia."
+              }
+            ],
+            "en": [
+              {
+                "name": "Snow sport shops",
+                "tip": "The latest equipment and high-quality ski wear."
+              },
+              {
+                "name": "Local specialties",
+                "tip": "Local honey and mountain cheese directly from Savoy."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie immer Sonnenschutz, die UV-Strahlung auf 2300m ist extrem hoch.",
+              "Wählen Sie festes Schuhwerk mit gutem Profil, auch im Ort kann es rutschig sein.",
+              "Trinken Sie viel Wasser, um der dünnen Höhenluft entgegenzuwirken.",
+              "Die Wetterverhältnisse können in Minuten umschlagen, nehmen Sie immer eine warme Schicht mit."
+            ],
+            "hu": [
+              "Mindig használjon fényvédőt, az UV-sugárzás 2300 méteren rendkívül erős.",
+              "Válasszon stabil, jó tapadású cipőt, mert a faluban is csúszós lehet az út.",
+              "Igyon sok vizet, hogy ellensúlyozza a ritka magaslati levegő hatását.",
+              "Az időjárás percek alatt megváltozhat, mindig vigyen magával meleg réteget."
+            ],
+            "ro": [
+              "Folosiți întotdeauna protecție solară, radiațiile UV la 2300 m sunt extrem de ridicate.",
+              "Alegeți încălțăminte stabilă cu profil bun, chiar și în stațiune poate fi alunecos.",
+              "Beți multă apă pentru a contracara efectele aerului rarefiat de munte.",
+              "Condițiile meteo se pot schimba în câteva minute, aveți mereu o haină groasă."
+            ],
+            "en": [
+              "Always wear sunscreen; UV radiation at 2300m is extremely high.",
+              "Choose sturdy shoes with good grip; it can be slippery even in the village.",
+              "Drink plenty of water to counteract the effects of the thin mountain air.",
+              "Weather conditions can change in minutes; always carry a warm layer with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem nebligen Place Caron, wo die Regentropfen auf dem Pflaster tanzen. Mittags bietet die Kirche von Val Thorens eine stille, trockene Zuflucht vor dem Guss. Nachmittags erkunden wir das moderne Zentrum 'Le Board', das perfekte Indoor-Aktivitäten bereithält. Der Abend klingt gemütlich in einer der vielen Bars im Zentrum aus, während draußen der Regen gegen die Panoramascheiben trommelt.",
+            "hu": "A reggel a ködös Place Caronon indul, ahol az esőcseppek táncolnak a kövön. Délben a Val Thorens templom nyújt csendes és száraz menedéket a zápor elől. Délután a 'Le Board' központ modern fedett tereit fedezzük fel, ami tökéletes program rossz időben. Az este egy hangulatos bárban zárul a központban, miközben kint az eső veri a panorámaablakokat.",
+            "ro": "Dimineața începe în Place Caron, sub o ceață densă și stropi de ploaie pe pavaj. La prânz, biserica din Val Thorens oferă un refugiu liniștit și uscat împotriva aversei. După-amiaza explorăm centrul modern 'Le Board', care oferă activități indoor perfecte. Seara se încheie confortabil într-un bar din centru, în timp ce ploaia bate în ferestrele panoramice.",
+            "en": "The morning starts at a misty Place Caron, with raindrops dancing on the pavement. At noon, the Val Thorens Church provides a quiet, dry sanctuary from the downpour. In the afternoon, we explore the modern 'Le Board' center, offering perfect indoor activities. The evening ends cozily in a central bar, while the rain drums against the panoramic windows outside."
+          },
+          "stops": [
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der Geschäfte.",
+                "hu": "Keressen menedéket az üzletek árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele magazinelor.",
+                "en": "Seek shelter under the shop arcades."
+              }
+            },
+            {
+              "name": "Val Thorens Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenpause abzuwarten.",
+                "hu": "Ideális hely az esőmentes percek megvárására.",
+                "ro": "Un loc ideal pentru a aștepta oprirea ploii.",
+                "en": "An ideal place to wait for a break in the rain."
+              }
+            },
+            {
+              "name": "Le Board Val Thorens",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Hallenbad oder den Wellnessbereich.",
+                "hu": "Használja a fedett medencét vagy a wellness részleget.",
+                "ro": "Bucurați-vă de piscina interioară sau de zona wellness.",
+                "en": "Enjoy the indoor pool or the wellness area."
+              }
+            },
+            {
+              "name": "Mont de la Chambre",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pfade können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, az ösvények esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție, potecile pot fi foarte alunecoase pe ploaie.",
+                "en": "Caution, paths can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Aiguille de Péclet",
+              "tip_5lang": {
+                "de": "Wasserdichte Kleidung ist für diesen Aufstieg Pflicht.",
+                "hu": "A vízálló ruházat kötelező ehhez a túrához.",
+                "ro": "Îmbrăcămintea impermeabilă este obligatorie pentru urcare.",
+                "en": "Waterproof clothing is mandatory for this ascent."
+              }
+            },
+            {
+              "name": "Place Caron (evening)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Getränk auf.",
+                "hu": "Melegedjen fel egy forró itallal a nap végén.",
+                "ro": "Încălziți-vă cu o băutură caldă la finalul zilei.",
+                "en": "Warm up with a hot drink at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Gore-Tex Kleidung.",
+              "Die Wege zwischen den Gebäuden sind oft überdacht.",
+              "Nutzen Sie die kostenlosen Shuttlebusse bei starkem Regen.",
+              "Das Sportzentrum bietet tolle Indoor-Alternativen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Gassen."
+            ],
+            "hu": [
+              "Viseljen jó minőségű Gore-Tex ruházatot.",
+              "Az épületek közötti utak gyakran fedettek.",
+              "Erős esőben használja az ingyenes buszjáratokat.",
+              "A sportközpont remek beltéri alternatívákat kínál.",
+              "Ügyeljen a tócsákra az alacsonyabb fekvésű utcákban."
+            ],
+            "ro": [
+              "Purtați haine de calitate din Gore-Tex.",
+              "Pasajele dintre clădiri sunt adesea acoperite.",
+              "Folosiți autobuzele gratuite în caz de ploaie torențială.",
+              "Centrul sportiv oferă alternative indoor excelente.",
+              "Atenție la bălțile din zonele mai joase ale stațiunii."
+            ],
+            "en": [
+              "Wear high-quality Gore-Tex clothing.",
+              "Paths between buildings are often covered.",
+              "Use the free shuttle buses during heavy rain.",
+              "The sports center offers great indoor alternatives.",
+              "Watch out for puddles in the lower streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kristallklarer Wintermorgen auf dem Place Caron begrüßt uns mit glitzerndem Schnee. Mittags besuchen wir die beheizte Kirche, bevor es in den Schnee geht. Nachmittags bieten die Gipfel Mont de la Chambre und Aiguille de Péclet atemberaubende Eispanoramen bei klirrender Kälte. Zum Abendessen kehren wir ins Dorf zurück, wo die Lichter der Chalets eine zauberhafte Atmosphäre in der frühen Dämmerung schaffen.",
+            "hu": "Kristálytiszta téli reggel köszönt minket a Place Caronon a szikrázó hóval. Délben meglátogatjuk a fűtött templomot, mielőtt a hóba indulnánk. Délután a Mont de la Chambre és az Aiguille de Péclet csúcsok lélegzetelállító jégpanorámát kínálnak a csípős hidegben. Vacsorára visszatérünk a faluba, ahol a chaletek fényei varázslatos hangulatot árasztanak a korai szürkületben.",
+            "ro": "O dimineață de iarnă cristalină în Place Caron ne întâmpină cu zăpadă sclipitoare. La prânz vizităm biserica încălzită înainte de a ieși în zăpadă. După-amiaza, vârfurile Mont de la Chambre și Aiguille de Péclet oferă panorame de gheață uluitoare în gerul tăios. Seara ne întoarcem în sat, unde luminile cabanelor creează o atmosferă magică în amurgul timpuriu.",
+            "en": "A crystal-clear winter morning at Place Caron greets us with sparkling snow. At noon, we visit the heated church before heading out into the snow. In the afternoon, the peaks of Mont de la Chambre and Aiguille de Péclet offer breathtaking ice panoramas in the biting cold. For dinner, we return to the village, where chalet lights create a magical atmosphere in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Pflaster.",
+                "hu": "Ügyeljen a jeges foltokra a kövezeten.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "Val Thorens Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren.",
+                "hu": "Élvezze a benti kellemes meleget.",
+                "ro": "Bucurați-vă de căldura plăcută din interior.",
+                "en": "Enjoy the cozy warmth inside."
+              }
+            },
+            {
+              "name": "Le Board Val Thorens",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Skischuhe kurz auszuziehen.",
+                "hu": "Tökéletes hely a sícipő rövid levételére.",
+                "ro": "Locul perfect pentru a descălța clăparii scurt.",
+                "en": "Perfect place to take off your ski boots for a bit."
+              }
+            },
+            {
+              "name": "Mont de la Chambre",
+              "tip_5lang": {
+                "de": "Nur mit Schneeschuhen oder guten Winterstiefeln begehbar.",
+                "hu": "Csak hótalppal vagy jó téli bakancsban járható.",
+                "ro": "Accesibil doar cu rachete de zăpadă sau bocanci buni.",
+                "en": "Accessible only with snowshoes or good winter boots."
+              }
+            },
+            {
+              "name": "Aiguille de Péclet",
+              "tip_5lang": {
+                "de": "Extremer Windchill möglich, Gesichtsschutz empfohlen.",
+                "hu": "Erős szél hideg lehet, arcvédő javasolt.",
+                "ro": "Vânt extrem de rece posibil, protecția feței recomandată.",
+                "en": "Extreme wind chill possible, face protection recommended."
+              }
+            },
+            {
+              "name": "Place Caron (evening)",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 17:00 Uhr.",
+                "hu": "A naplemente itt 17:00 óra körül van.",
+                "ro": "Apusul soarelui este aici în jurul orei 17:00.",
+                "en": "Sunset is around 17:00 here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist lebenswichtig.",
+              "Die Sonne ist in der Höhe extrem stark, UV-Schutz nutzen.",
+              "Halten Sie Ihr Handy nah am Körper (Akkuschutz).",
+              "Gute Sonnenbrille oder Skibrille ist unverzichtbar.",
+              "Ein heißer Kakao wärmt nach der Wanderung am besten."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) létfontosságú.",
+              "A nap a magasban rendkívül erős, használjon fényvédőt.",
+              "Tartsa telefonját a teste közelében (akkumulátorvédelem).",
+              "Jó napszemüveg vagy síszemüveg nélkülözhetetlen.",
+              "Egy forró kakaó melegít fel a legjobban a túra után."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este vitală.",
+              "Soarele este extrem de puternic la înălțime, folosiți protecție UV.",
+              "Țineți telefonul aproape de corp (protecția bateriei).",
+              "Ochelarii de soare sau de schi buni sunt indispensabili.",
+              "O cacao caldă te încălzește cel mai bine după drumeție."
+            ],
+            "en": [
+              "Layered clothing is vital in these temperatures.",
+              "Sun is extremely strong at altitude, use UV protection.",
+              "Keep your phone close to your body (battery protection).",
+              "Good sunglasses or ski goggles are indispensable.",
+              "Hot cocoa warms you up best after the hike."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -559,6 +1003,366 @@
           "Stay on marked trails to protect the flora.",
           "A helmet is mandatory in this rocky terrain."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Val Thorens auf zwei Rädern. Von der Place Caron geht es zunächst bergab zum idyllischen Lac du Lou. Die Strecke bietet technische Passagen und fantastische Ausblicke auf die Gipfel.\n\nDer Anstieg zum Col de Thorens erfordert Ausdauer, wird aber mit einem Panorama belohnt, das bis zum Mont Blanc reicht. Hier spüren Sie die wahre Kraft der Alpen.\n\nDanach führt die Tour in Richtung des Péclet-Gletschers. Die Landschaft wird karger und alpiner, während Sie sich dem ewigen Eis nähern.\n\nDie Abfahrt zurück ins Dorf ist der krönende Abschluss eines sportlichen Tages in der Höhe.",
+            "hu": "Fedezze fel Val Thorenset két keréken. A Place Caronról indulva először lefelé gurulunk az idilli Lac du Lou tóhoz. Az útvonal technikai szakaszokat és fantasztikus kilátást kínál a csúcsokra.\n\nA Col de Thorens-hez vezető emelkedő kitartást igényel, de a panoráma, amely egészen a Mont Blanc-ig ellátszik, mindenért kárpótol. Itt érezheti az Alpok valódi erejét.\n\nEzután a túra a Péclet-gleccser felé veszi az irányt. A táj kopárabbá és alpesibbé válik, ahogy közeledik az örök jéghez.\n\nA faluba vezető lejtmenet a megkoronázása ennek a sportos, magaslati napnak.",
+            "ro": "Explorați Val Thorens pe două roți. De la Place Caron, mergeți mai întâi la vale spre idilicul Lac du Lou. Traseul oferă pasaje tehnice și vederi fantastice asupra vârfurilor.\n\nUrcarea spre Col de Thorens necesită rezistență, dar este răsplătită cu o panoramă care ajunge până la Mont Blanc. Aici simțiți adevărata forță a Alpilor.\n\nDupă aceea, turul se îndreaptă spre Ghețarul Péclet. Peisajul devine mai auster și mai alpin pe măsură ce vă apropiați de gheața eternă.\n\nCoborârea înapoi în sat este încheierea perfectă a unei zile sportive la înălțime.",
+            "en": "Explore Val Thorens on two wheels. From Place Caron, head downhill first to the idyllic Lac du Lou. The route offers technical passages and fantastic views of the peaks.\n\nThe climb to Col de Thorens requires endurance but is rewarded with a panorama reaching all the way to Mont Blanc. Here you feel the true power of the Alps.\n\nThen the tour heads towards the Péclet Glacier. The landscape becomes more rugged and alpine as you approach the eternal ice.\n\nThe descent back into the village is the crowning glory of a sporty day at high altitude."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für MTB-Touren.",
+                "hu": "Hegyi kerékpáros túrák kiindulópontja.",
+                "ro": "Punct de plecare pentru tururile MTB.",
+                "en": "Starting point for MTB tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Lou",
+                "hu": "Lac du Lou",
+                "ro": "Lac du Lou",
+                "en": "Lac du Lou"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Abfahrt zum See.",
+                "hu": "Gyönyörű lejtő a tóhoz.",
+                "ro": "Coborâre superbă către lac.",
+                "en": "Beautiful descent to the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Col de Thorens",
+                "hu": "Col de Thorens",
+                "ro": "Col de Thorens",
+                "en": "Col de Thorens"
+              },
+              "tip_5lang": {
+                "de": "Herausfordernder Anstieg mit Belohnung.",
+                "hu": "Kihívást jelentő emelkedő jutalommal.",
+                "ro": "Urcare provocatoare cu recompensă.",
+                "en": "Challenging climb with a reward."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacier de Péclet",
+                "hu": "Glacier de Péclet",
+                "ro": "Glacier de Péclet",
+                "en": "Glacier de Péclet"
+              },
+              "tip_5lang": {
+                "de": "Eisige Nähe zum Gletscher.",
+                "hu": "Jeges közelség a gleccserhez.",
+                "ro": "Apropiere înghețată de ghețar.",
+                "en": "Icy proximity to the glacier."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Zurück im Basislager.",
+                "hu": "Vissza a bázisra.",
+                "ro": "Înapoi în tabăra de bază.",
+                "en": "Back at base camp."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chez Pépé Nicolas",
+                "tip": "Hüttenzauber auf dem Weg zum Lac du Lou."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chez Pépé Nicolas",
+                "tip": "Hütteszentély a Lac du Lou felé vezető úton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chez Pépé Nicolas",
+                "tip": "Atmosferă de cabană pe drumul spre Lac du Lou."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chez Pépé Nicolas",
+                "tip": "Cozy hut atmosphere on the way to Lac du Lou."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Lac du Lou",
+                "tip": "Ein ruhiger Ort für eine Pause.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lac du Lou partja",
+                "tip": "Csendes hely egy pihenőhöz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Lacului Lou",
+                "tip": "Un loc liniștit pentru o pauză.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shores of Lac du Lou",
+                "tip": "A quiet spot for a break.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Zenith Ski Shop",
+                "tip": "MTB-Verleih und Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zenith Ski Shop",
+                "tip": "Bringakölcsönző és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zenith Ski Shop",
+                "tip": "Închirieri MTB și accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zenith Ski Shop",
+                "tip": "MTB rental and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie ein E-MTB, um die steilen Anstiege entspannter zu bewältigen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Tal.",
+              "Bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+              "Ein Helm ist in diesem felsigen Gelände Pflicht."
+            ],
+            "hu": [
+              "Használjon e-MTB-t a meredek emelkedők könnyebb leküzdéséhez.",
+              "Ellenőrizze a fékeket a völgybe való leereszkedés előtt.",
+              "Maradjon a kijelölt utakon a növényzet védelme érdekében.",
+              "A sisak kötelező ezen a sziklás terepen."
+            ],
+            "ro": [
+              "Folosiți un E-MTB pentru a depăși mai relaxat urcările abrupte.",
+              "Verificați frânele înainte de coborârea în vale.",
+              "Rămâneți pe traseele marcate pentru a proteja flora.",
+              "Casca este obligatorie pe acest teren stâncos."
+            ],
+            "en": [
+              "Use an E-MTB to handle the steep climbs more easily.",
+              "Check your brakes before descending into the valley.",
+              "Stay on marked trails to protect the flora.",
+              "A helmet is mandatory in this rocky terrain."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Biketour am Place Caron. Die Fahrt zum Lac du Lou führt über schlammige Pfade, die technische Versiertheit erfordern. Mittags am Col de Thorens hängen die Wolken tief, was der Landschaft eine mystische Stimmung verleiht. Der Nachmittag am Gletscher ist nass und kalt, doch das Adrenalin hält uns warm. Müde und schlammbespritzt kehren wir nach Val Thorens zurück.",
+            "hu": "Az eső ellenére a Place Caronon indítjuk a biciklitúrát. A Lac du Lou felé vezető út sáros ösvényeken visz, ami technikai ügyességet igényel. Délben a Col de Thorensnél alacsonyan szállnak a felhők, misztikus hangulatot adva a tájnak. A délután a gleccsernél nedves és hideg, de az adrenalin melegen tart. Fáradtan és sárfoltosan térünk vissza Val Thorensbe.",
+            "ro": "În ciuda ploii, începem tura de bicicletă în Place Caron. Drumul spre Lac du Lou trece prin poteci noroioase care necesită abilități tehnice. La prânz, la Col de Thorens, norii sunt joși, oferind peisajului o stare mistică. După-amiaza la glaciart este umedă și rece, dar adrenalina ne ține cald. Ne întoarcem în Val Thorens obosiți și plini de noroi.",
+            "en": "Despite the rain, we start our bike tour at Place Caron. The ride to Lac du Lou leads through muddy paths requiring technical skills. At noon at Col de Thorens, low clouds give the landscape a mystical mood. The afternoon at the glacier is wet and cold, but adrenaline keeps us warm. We return to Val Thorens tired and mud-splattered."
+          },
+          "stops": [
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start genau.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket.",
+                "ro": "Verificați frânele cu atenție înainte de start.",
+                "en": "Check your brakes carefully before starting."
+              }
+            },
+            {
+              "name": "Lac du Lou",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen am Ufer.",
+                "hu": "Vigyázzon a csúszós kövekre a parton.",
+                "ro": "Atenție la pietrele alunecoase de pe mal.",
+                "en": "Watch out for slippery rocks on the shore."
+              }
+            },
+            {
+              "name": "Col de Thorens",
+              "tip_5lang": {
+                "de": "Bei Nebel auf dem Hauptweg bleiben.",
+                "hu": "Köd esetén maradjon a főúton.",
+                "ro": "Rămâneți pe drumul principal în caz de ceață.",
+                "en": "Stay on the main path in case of fog."
+              }
+            },
+            {
+              "name": "Glacier de Péclet",
+              "tip_5lang": {
+                "de": "Temperatursturz möglich, Regenjacke fest zuziehen.",
+                "hu": "Hirtelen lehűlés várható, húzza fel a kabátot.",
+                "ro": "Scădere bruscă de temperatură posibilă, închideți jacheta.",
+                "en": "Temperature drop possible, tighten your rain jacket."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Reinigen Sie Ihr Bike direkt an der Waschstation.",
+                "hu": "Tisztítsa meg biciklijét rögtön a mosóállomáson.",
+                "ro": "Curățați bicicleta direct la stația de spălare.",
+                "en": "Clean your bike immediately at the wash station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlamm zu reduzieren.",
+              "Niedrigerer Reifendruck gibt auf Nässe mehr Grip.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Felsen.",
+              "Tragen Sie wasserdichte Handschuhe für besseren Griff.",
+              "Ein Satz Ersatzkleidung im Rucksack ist Gold wert."
+            ],
+            "hu": [
+              "Használjon sárvédőt a sárfelverődés csökkentésére.",
+              "Az alacsonyabb guminyomás jobb tapadást ad nedves úton.",
+              "Kerülje az erős fékezést nedves sziklákon.",
+              "Viseljen vízálló kesztyűt a jobb fogás érdekében.",
+              "Egy váltás ruha a hátizsákban aranyat ér."
+            ],
+            "ro": [
+              "Folosiți aripi pentru a reduce noroiul.",
+              "Presiunea mai mică în pneuri oferă aderență mai bună.",
+              "Evitați frânările bruște pe pietre ude.",
+              "Purtați mănuși impermeabile pentru o prindere mai bună.",
+              "Un set de haine de schimb în rucsac este esențial."
+            ],
+            "en": [
+              "Use mudguards to reduce mud splatter.",
+              "Lower tire pressure gives more grip on wet surfaces.",
+              "Avoid sharp braking on wet rocks.",
+              "Wear waterproof gloves for better grip.",
+              "A spare set of clothes in your backpack is worth gold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Fatbiking beginnt am verschneiten Place Caron. Die Fahrt zum Lac du Lou auf breiten Reifen ist ein einzigartiges Erlebnis in der weißen Stille. Mittags erreichen wir den Col de Thorens, umgeben von majestätischen Gipfeln im Winterschlaf. Der Nachmittag am Gletscher erfordert Kraft und Ausdauer im tiefen Schnee. Am Ende des Tages kehren wir mit roten Wangen in das warme Lichtermeer von Val Thorens zurück.",
+            "hu": "A téli fatbiking a havas Place Caronon kezdődik. A Lac du Lou felé vezető út széles kerekeken egyedülálló élmény a fehér csendben. Délben érjük el a Col de Thorenst, téli álmot alvó fenséges csúcsokkal körülvéve. A délután a gleccsernél erőt és kitartást igényel a mély hóban. A nap végén piros arccal térünk vissza Val Thorens meleg fényei közé.",
+            "ro": "Fatbiking-ul de iarnă începe în Place Caron înzăpezit. Drumul spre Lac du Lou pe roți late este o experiență unică în liniștea albă. La prânz ajungem la Col de Thorens, înconjurați de vârfuri maiestuoase. După-amiaza la glaciart necesită forță și rezistență în zăpada adâncă. La finalul zilei ne întoarcem cu obrajii roșii în marea de lumini calde din Val Thorens.",
+            "en": "Winter fat-biking starts at the snowy Place Caron. The ride to Lac du Lou on wide tires is a unique experience in the white silence. At noon we reach Col de Thorens, surrounded by majestic peaks in winter sleep. The afternoon at the glacier requires strength and endurance in deep snow. At the end of the day, we return with red cheeks to the warm lights of Val Thorens."
+          },
+          "stops": [
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Fatbike-Miete ist hier an mehreren Stellen möglich.",
+                "hu": "Fatbike bérlés itt több helyen is lehetséges.",
+                "ro": "Închirierea de fatbike este posibilă în mai multe locuri.",
+                "en": "Fat-bike rental is available at several spots here."
+              }
+            },
+            {
+              "name": "Lac du Lou",
+              "tip_5lang": {
+                "de": "Der See ist im Winter meist komplett zugefroren.",
+                "hu": "A tó télen általában teljesen be van fagyva.",
+                "ro": "Lacul este de obicei complet înghețat iarna.",
+                "en": "The lake is usually completely frozen in winter."
+              }
+            },
+            {
+              "name": "Col de Thorens",
+              "tip_5lang": {
+                "de": "Passen Sie auf Skifahrer auf, die den Weg kreuzen.",
+                "hu": "Vigyázzon a síelőkre, akik keresztezhetik az utat.",
+                "ro": "Atenție la schiorii care pot tăia calea.",
+                "en": "Watch out for skiers crossing the path."
+              }
+            },
+            {
+              "name": "Glacier de Péclet",
+              "tip_5lang": {
+                "de": "Die Auffahrt im Schnee ist extrem anstrengend.",
+                "hu": "A felfelé menet a hóban rendkívül fárasztó.",
+                "ro": "Urcarea prin zăpadă este extrem de obositoare.",
+                "en": "Riding uphill in snow is extremely strenuous."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Ab 16:30 Uhr wird es im Winter sehr schnell kalt.",
+                "hu": "16:30-tól télen nagyon gyorsan lehűl az idő.",
+                "ro": "De la ora 16:30 se face foarte frig rapid iarna.",
+                "en": "It gets cold very quickly after 16:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie nur mit speziellen Fatbikes im Schnee.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Warme, wasserfeste Winterschuhe sind ein Muss.",
+              "Vermeiden Sie Fahrten bei starkem Schneefall (Sicht).",
+              "Trinken Sie auch bei Kälte genug Wasser."
+            ],
+            "hu": [
+              "Csak speciális fatbike-kal induljon a hóba.",
+              "Tartsa a láncot jól olajozva az útszóró só ellen.",
+              "A meleg, vízálló téli bakancs kötelező.",
+              "Kerülje a biciklizést erős hóesésben a látási viszonyok miatt.",
+              "Hidegben is igyon elegendő vizet."
+            ],
+            "ro": [
+              "Mergeți prin zăpadă doar cu fatbike-uri speciale.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum.",
+              "Bocancii de iarnă calzi și impermeabili sunt obligatorii.",
+              "Evitați deplasarea în timpul ninsorilor abundente.",
+              "Beți destulă apă chiar dacă este frig."
+            ],
+            "en": [
+              "Only ride in snow with specialized fat-bikes.",
+              "Keep the chain well-oiled against road salt.",
+              "Warm, waterproof winter boots are a must.",
+              "Avoid riding during heavy snowfall due to visibility.",
+              "Drink enough water even in cold temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1602,366 @@
           "Expect long waiting times at the cable cars during peak hours.",
           "The roads are steep and winding; drive carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Da Val Thorens ein autofreier Skiort ist, beginnt Ihr Tag am zentralen Parkhaus. Von dort aus erreichen Sie schnell das Herz des Dorfes, die Place Caron. Genießen Sie die entspannte Atmosphäre ohne Abgase.\n\nMit den Bergbahnen gelangen Sie zur Cime de Caron, einem der spektakulärsten Aussichtspunkte der Welt. An klaren Tagen sieht man von hier Hunderte von Berggipfeln.\n\nFür Adrenalinjunkies wartet die Tyrolienne d'Orelle, die höchste Seilrutsche der Welt, die Val Thorens mit Orelle verbindet. Ein unvergessliches Erlebnis über den Abgründen.\n\nZurück im Dorf können Sie den Tag mit einem Bummel durch die Geschäfte beenden, bevor Sie Ihr Auto wieder in Empfang nehmen.",
+            "hu": "Mivel Val Thorens autómentes üdülőhely, a napja a központi parkolóháznál kezdődik. Onnan gyorsan elérheti a falu szívét, a Place Caront. Élvezze a tiszta, kipufogógáz-mentes levegőt.\n\nA felvonókkal feljuthat a Cime de Caronra, a világ egyik leglátványosabb kilátópontjára. Tiszta időben több száz hegycsúcs látható innen.\n\nAz adrenalin szerelmeseit várja a Tyrolienne d'Orelle, a világ legmagasabb drótkötélpályája, amely Val Thorenset köti össze Orelle-lel. Felejthetetlen élmény a szakadékok felett.\n\nVisszatérve a faluba, a napot egy kis üzletnézéssel zárhatja, mielőtt visszatérne autójához.",
+            "ro": "Deoarece Val Thorens este o stațiune pietonală, ziua începe la parcarea centrală. De acolo ajungeți rapid în inima satului, Place Caron. Bucurați-vă de atmosfera relaxată fără emisii de gaze.\n\nCu telecabinele ajungeți la Cime de Caron, unul dintre cele mai spectaculoase puncte de belvedere din lume. În zilele senine, de aici se pot vedea sute de vârfuri montane.\n\nPentru amatorii de adrenalină, Tyrolienne d'Orelle, cea mai înaltă tiroliană din lume, leagă Val Thorens de Orelle. O experiență de neuitat deasupra prăpastiilor.\n\nÎnapoi în sat, puteți încheia ziua cu o plimbare prin magazine, înainte de a vă recupera mașina.",
+            "en": "As Val Thorens is a pedestrian-only resort, your day begins at the central parking garage. From there, you quickly reach the heart of the village, Place Caron. Enjoy the relaxed atmosphere without exhaust fumes.\n\nUse the cable cars to reach Cime de Caron, one of the most spectacular viewpoints in the world. On clear days, you can see hundreds of mountain peaks from here.\n\nFor adrenaline junkies, the Tyrolienne d'Orelle, the highest zipline in the world connecting Val Thorens to Orelle, awaits. An unforgettable experience above the chasms.\n\nBack in the village, you can end the day with a stroll through the shops before picking up your car again."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Val Thorens Parkplatz",
+                "hu": "Val Thorens parkoló",
+                "ro": "Parcare Val Thorens",
+                "en": "Val Thorens Parking"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie Ihren Parkplatz im Voraus.",
+                "hu": "Foglalja le parkolóhelyét előre.",
+                "ro": "Rezervați parcarea în avans.",
+                "en": "Book your parking space in advance."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Der Ort ist autofrei, genießen Sie den Spaziergang.",
+                "hu": "A falu autómentes, élvezze a sétát.",
+                "ro": "Stațiunea este pietonală, bucurați-vă de plimbare.",
+                "en": "The resort is pedestrian-only, enjoy the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cime de Caron (via Lift)",
+                "hu": "Cime de Caron (lifttel)",
+                "ro": "Cime de Caron (via lift)",
+                "en": "Cime de Caron (via lift)"
+              },
+              "tip_5lang": {
+                "de": "360-Grad-Panorama der Alpen.",
+                "hu": "360 fokos panoráma az Alpokra.",
+                "ro": "Panoramă de 360 de grade asupra Alpilor.",
+                "en": "360-degree panorama of the Alps."
+              }
+            },
+            {
+              "name": {
+                "de": "Tyrolienne d'Orelle",
+                "hu": "Tyrolienne d'Orelle",
+                "ro": "Tyrolienne d'Orelle",
+                "en": "Tyrolienne d'Orelle"
+              },
+              "tip_5lang": {
+                "de": "Fliegen Sie wie ein Adler über die Berge.",
+                "hu": "Repüljön, mint a sas a hegyek felett.",
+                "ro": "Zboară ca un vultur peste munți.",
+                "en": "Fly like an eagle over the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Abschluss im Zentrum.",
+                "hu": "Zárás a központban.",
+                "ro": "Încheiere în centru.",
+                "en": "Ending in the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Epicurien",
+                "tip": "Gourmet-Küche auf höchstem Niveau."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Epicurien",
+                "tip": "Gourmet konyha a legmagasabb szinten."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Epicurien",
+                "tip": "Bucătărie gourmet la cel mai înalt nivel."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Epicurien",
+                "tip": "Gourmet cuisine at the highest level."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cime de Caron Plateau",
+                "tip": "Über den Wolken die Stille genießen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cime de Caron fennsík",
+                "tip": "Élvezze a csendet a felhők felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platoul Cime de Caron",
+                "tip": "Bucurați-vă de liniște deasupra norilor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cime de Caron Plateau",
+                "tip": "Enjoy the silence above the clouds.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Galerie Caron",
+                "tip": "Überdachte Ladenstraße für Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galerie Caron",
+                "tip": "Fedett bevásárlóutca szuvenírekért."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galerie Caron",
+                "tip": "Galerie comercială acoperită pentru suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Galerie Caron",
+                "tip": "Covered shopping street for souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Schneeketten sind im Winter gesetzlich vorgeschrieben.",
+              "Parken Sie nur in den ausgewiesenen Parkhäusern.",
+              "Rechnen Sie mit langen Wartezeiten an den Bergbahnen bei Stoßzeiten.",
+              "Die Straßen sind steil und kurvenreich, fahren Sie vorsichtig."
+            ],
+            "hu": [
+              "Télen a hólánc használata törvényileg kötelező.",
+              "Csak a kijelölt parkolóházakban parkoljon.",
+              "Számoljon hosszú várakozási idővel a felvonóknál csúcsidőben.",
+              "Az utak meredekek és kanyargósak, vezessen óvatosan."
+            ],
+            "ro": [
+              "Lanțurile de zăpadă sunt obligatorii prin lege în timpul iernii.",
+              "Parcați doar în parcările supraetajate special amenajate.",
+              "Așteptați-vă la timpi lungi de așteptare la telecabine în orele de vârf.",
+              "Drumurile sunt abrupte și sinuoase, conduceți cu atenție."
+            ],
+            "en": [
+              "Snow chains are legally required in winter.",
+              "Park only in designated parking garages.",
+              "Expect long waiting times at the cable cars during peak hours.",
+              "The roads are steep and winding; drive carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Bergstraßen führen uns zum Parkplatz von Val Thorens. Mittags erreichen wir den Place Caron, wo wir im Schutz der Gebäude die Atmosphäre genießen. Die Fahrt zur Cime de Caron per Seilbahn bietet trotz Wolken dramatische Ausblicke auf die nebligen Täler. Am Nachmittag schauen wir uns die Tyrolienne d'Orelle an, bevor wir den Tag entspannt im Auto-Transfer zurück ausklingen lassen.",
+            "hu": "Esős hegyi utak vezetnek Val Thorens parkolójához. Délben elérjük a Place Caront, ahol az épületek védelmében élvezzük a hangulatot. A Cime de Caron felé vezető felvonó a felhők ellenére is drámai kilátást nyújt a ködös völgyekre. Délután megnézzük az Orelle tiroli kötélpályát, majd kényelmesen fejezzük be a napot az autóban.",
+            "ro": "Drumurile montane ploioase ne conduc spre parcarea din Val Thorens. La prânz ajungem în Place Caron, unde ne bucurăm de atmosferă sub protecția clădirilor. Drumul spre Cime de Caron cu telecabina oferă vederi dramatice asupra văilor înnebunite de ceață. După-amiaza vizităm Tyrolienne d'Orelle, apoi încheiem ziua relaxați în mașină.",
+            "en": "Rainy mountain roads lead us to the Val Thorens parking. At noon, we reach Place Caron, enjoying the atmosphere under the protection of the buildings. The cable car ride to Cime de Caron offers dramatic views of misty valleys despite the clouds. In the afternoon, we check out the Tyrolienne d'Orelle before ending the day relaxed in the car."
+          },
+          "stops": [
+            {
+              "name": "Val Thorens Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten P-Plätze (P0/P1).",
+                "hu": "Használja a fedett parkolókat (P0/P1).",
+                "ro": "Folosiți parcările acoperite (P0/P1).",
+                "en": "Use the covered parking lots (P0/P1)."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere nah an den Eingängen raus.",
+                "hu": "Tegye ki az utasokat az bejáratok közelében.",
+                "ro": "Lăsați pasagerii aproape de intrări.",
+                "en": "Drop off passengers near the entrances."
+              }
+            },
+            {
+              "name": "Cime de Caron (via lift)",
+              "tip_5lang": {
+                "de": "Bei Gewittergefahr sind die Lifte geschlossen.",
+                "hu": "Viharveszély esetén a liftek zárva tarthatnak.",
+                "ro": "În caz de furtună, telecabinele pot fi închise.",
+                "en": "Lifts may close if there is a risk of thunderstorms."
+              }
+            },
+            {
+              "name": "Tyrolienne d'Orelle",
+              "tip_5lang": {
+                "de": "Blick ist bei Regen oft durch Wolken versperrt.",
+                "hu": "A kilátást esőben gyakran eltakarják a felhők.",
+                "ro": "Vederea este adesea blocată de nori pe ploaie.",
+                "en": "Views are often blocked by clouds during rain."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit direktem Zugang vom Parkdeck.",
+                "hu": "Keressen a parkolóházból közvetlen elérhető kávézót.",
+                "ro": "Căutați cafenele cu acces direct din parcare.",
+                "en": "Look for cafes with direct access from the parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken auf unbefestigten Flächen.",
+              "Achten Sie auf Aquaplaning in den Kurven.",
+              "Parkhäuser in Val Thorens sind meist kostenpflichtig.",
+              "Die Sicht kann in Wolkenfeldern schlagartig abfallen.",
+              "Licht am Auto auch tagsüber einschalten."
+            ],
+            "hu": [
+              "Kerülje a parkolást nem aszfaltozott területeken.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a kanyarokban.",
+              "A parkolóházak Val Thorensben többnyire fizetősek.",
+              "A látótávolság a felhőkben hirtelen lecsökkenhet.",
+              "Nappal is kapcsolja be az autó világítását."
+            ],
+            "ro": [
+              "Evitați parcarea pe suprafețe neasfaltate.",
+              "Atenție la acvaplanare în curbe.",
+              "Parcările etajate din Val Thorens sunt de obicei cu plată.",
+              "Vizibilitatea poate scădea brusc în zonele cu nori.",
+              "Aprindeți farurile și în timpul zilei."
+            ],
+            "en": [
+              "Avoid parking on unpaved surfaces.",
+              "Watch out for aquaplaning in corners.",
+              "Parking garages in Val Thorens usually charge a fee.",
+              "Visibility can drop suddenly in cloud patches.",
+              "Keep your headlights on during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Durch verschneite Serpentinen kämpfen wir uns zum Parkplatz von Val Thorens vor. Mittags schlendern wir über den tiefverschneiten Place Caron, das Herz des Resorts. Die Auffahrt zur Cime de Caron bietet ein unvergessliches Panorama über 1000 Gipfel der Alpen im Winterkleid. Am Nachmittag fasziniert uns die Technik der Orelle-Verbindung, bevor wir uns auf die Rückfahrt durch die Winterlandschaft begeben.",
+            "hu": "Havas szerpentineken küzdjük fel magunkat Val Thorens parkolójáig. Délben a mélyen havas Place Caronon sétálunk, ami a resort szíve. A Cime de Caron felé vezető út felejthetetlen panorámát nyújt az Alpok ezer téli csúcsára. Délután az Orelle összeköttetés technikája nyűgöz le minket, mielőtt elindulnánk vissza a téli tájon át.",
+            "ro": "Ne luptăm cu serpentinele înzăpezite până la parcarea din Val Thorens. La prânz ne plimbăm prin Place Caron acoperit de zăpadă, inima stațiunii. Urcarea la Cime de Caron oferă o panoramă de neuitat peste 1000 de vârfuri ale Alpilor. După-amiaza ne fascinează tehnica conexiunii Orelle, înainte de a porni înapoi prin peisajul de iarnă.",
+            "en": "We fight our way through snowy serpentines to the Val Thorens parking. At noon, we stroll across the deeply snowy Place Caron, the heart of the resort. The ascent to Cime de Caron offers an unforgettable panorama over 1000 Alpine peaks in winter dress. In the afternoon, the technology of the Orelle connection fascinates us before we head back through the winter landscape."
+          },
+          "stops": [
+            {
+              "name": "Val Thorens Parking",
+              "tip_5lang": {
+                "de": "Winterreifen und Ketten sind gesetzlich Pflicht.",
+                "hu": "A téli gumi és a hólánc törvényileg kötelező.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii.",
+                "en": "Winter tires and chains are legally required."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Parken Sie nicht auf der Straße (Schneeräumung).",
+                "hu": "Ne parkoljon az utcán (hókotrás miatt).",
+                "ro": "Nu parcați pe stradă (din cauza deszăpezirii).",
+                "en": "Do not park on the street (snow clearing)."
+              }
+            },
+            {
+              "name": "Cime de Caron (via lift)",
+              "tip_5lang": {
+                "de": "Warme Kabine, aber am Gipfel ist es extrem kalt.",
+                "hu": "A kabin meleg, de a csúcson rendkívül hideg van.",
+                "ro": "Cabina este caldă, dar la vârf este extrem de frig.",
+                "en": "Warm cabin, but it's extremely cold at the peak."
+              }
+            },
+            {
+              "name": "Tyrolienne d'Orelle",
+              "tip_5lang": {
+                "de": "Sensationelle Aussicht auf den Mont Blanc möglich.",
+                "hu": "Szenzációs kilátás nyílhat a Mont Blanc-ra.",
+                "ro": "Vedere senzațională spre Mont Blanc posibilă.",
+                "en": "Sensational views of Mont Blanc possible."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Scheibenwischer vor dem Parken hochklappen.",
+                "hu": "Parkolás előtt hajtsa fel az ablaktörlőket.",
+                "ro": "Ridicați ștergătoarele înainte de a parca.",
+                "en": "Lift your windshield wipers before parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Winter-Frostschutz in die Waschanlage.",
+              "Ein kleiner Klappspaten im Auto ist oft hilfreich.",
+              "Bremsen Sie frühzeitig und nutzen Sie die Motorbremse.",
+              "Vermeiden Sie nächtliche Fahrten bei Schneefall.",
+              "Tanken Sie voll, bevor Sie ins Hochgebirge fahren."
+            ],
+            "hu": [
+              "Töltsön téli szélvédőmosót a tartályba.",
+              "Egy kis gyalogsági ásó az autóban gyakran hasznos.",
+              "Fékezzen időben és használja a motorféket.",
+              "Kerülje az éjszakai vezetést hóesésben.",
+              "Tankoljon tele, mielőtt a magashegyekbe indul."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz de iarnă.",
+              "O lopată mică în mașină este adesea utilă.",
+              "Frânați din timp și folosiți frâna de motor.",
+              "Evitați deplasările nocturne pe timp de ninsoare.",
+              "Alimentați complet înainte de a urca la altitudine."
+            ],
+            "en": [
+              "Fill your washer reservoir with winter fluid.",
+              "A small folding shovel in the car is often helpful.",
+              "Brake early and use engine braking.",
+              "Avoid driving at night during snowfall.",
+              "Fill up your tank before heading into the high mountains."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1037,34 +2201,367 @@
           "Lifts may close in case of strong winds.",
           "Bring sunglasses; the snow reflects sunlight strongly."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "In Val Thorens ist der öffentliche Nahverkehr vertikal: Nutzen Sie die Bergbahnen als Ihr Haupttransportmittel. Der Tag beginnt an der Telecabine Caron, die Sie in die Höhe befördert.\n\nDie Fahrt zur Cime de Caron in den riesigen Gondeln ist ein Erlebnis für sich. Oben angekommen, liegt Ihnen die Bergwelt zu Füßen.\n\nÜber den Col de Thorens geht es weiter in die hochalpinen Zonen, wo man auch im Sommer Schneefelder sehen kann. Die Infrastruktur der Lifte ist hier weltweit führend.\n\nZum Abschluss führt Sie der Weg zum Péclet-Gletscher, bevor Sie die Gondel zurück in das lebendige Zentrum des Ortes bringt.",
+            "hu": "Val Thorensben a közösségi közlekedés függőleges: használja a felvonókat fő közlekedési eszközként. A nap a Caron kabinos felvonónál kezdődik, amely a magasba repíti.\n\nAz utazás a Cime de Caronra a hatalmas gondolákban önmagában is élmény. Felérve a hegyi világ a lábai előtt hever.\n\nA Col de Thorens-en keresztül továbbhaladunk a magashegyi zónákba, ahol még nyáron is láthatók hófótok. A felvonók infrastruktúrája itt világelső.\n\nBefejezésül az út a Péclet-gleccserhez vezet, mielőtt a gondola visszaviszi Önt a falu nyüzsgő központjába.",
+            "ro": "În Val Thorens, transportul public este vertical: folosiți telecabinele ca mijloc principal de transport. Ziua începe la Telecabina Caron, care vă transportă la înălțime.\n\nCălătoria spre Cime de Caron în gondolele uriașe este o experiență în sine. Odată ajunși sus, lumea montană vă este la picioare.\n\nPrin Col de Thorens continuați spre zonele alpine înalte, unde puteți vedea limbi de zăpadă chiar și vara. Infrastructura lifturilor de aici este lider mondial.\n\nLa final, drumul vă duce spre Ghețarul Péclet, înainte ca gondola să vă aducă înapoi în centrul animat al stațiunii.",
+            "en": "In Val Thorens, public transit is vertical: use the cable cars as your main mode of transport. The day begins at the Caron cable car, which whisks you up to the heights.\n\nThe ride to Cime de Caron in the giant gondolas is an experience in itself. Once at the top, the mountain world lies at your feet.\n\nContinue through Col de Thorens into the high alpine zones, where snowfields can be seen even in summer. The lift infrastructure here is world-leading.\n\nFinally, the route leads to the Péclet Glacier before the gondola brings you back to the lively center of the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Telecabine Caron",
+                "hu": "Caron felvonó",
+                "ro": "Telecabina Caron",
+                "en": "Caron Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Wichtigster Knotenpunkt der Bergbahnen.",
+                "hu": "A felvonórendszer legfontosabb csomópontja.",
+                "ro": "Cel mai important nod al telecabinelor.",
+                "en": "Main hub of the cable car system."
+              }
+            },
+            {
+              "name": {
+                "de": "Cime de Caron",
+                "hu": "Cime de Caron",
+                "ro": "Cime de Caron",
+                "en": "Cime de Caron"
+              },
+              "tip_5lang": {
+                "de": "Die spektakulärste Kabinenbahn der Alpen.",
+                "hu": "Az Alpok leglátványosabb kabinos felvonója.",
+                "ro": "Cea mai spectaculoasă telecabină din Alpi.",
+                "en": "The most spectacular cable car in the Alps."
+              }
+            },
+            {
+              "name": {
+                "de": "Col de Thorens",
+                "hu": "Col de Thorens",
+                "ro": "Col de Thorens",
+                "en": "Col de Thorens"
+              },
+              "tip_5lang": {
+                "de": "Grenzpunkt zwischen den Tälern.",
+                "hu": "Határpont a völgyek között.",
+                "ro": "Punct de frontieră între văi.",
+                "en": "Border point between the valleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacier de Péclet",
+                "hu": "Glacier de Péclet",
+                "ro": "Glacier de Péclet",
+                "en": "Glacier de Péclet"
+              },
+              "tip_5lang": {
+                "de": "Ewiges Eis auf 3000 Metern.",
+                "hu": "Örök jég 3000 méteren.",
+                "ro": "Gheață eternă la 3000 de metri.",
+                "en": "Eternal ice at 3000 meters."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Caron",
+                "hu": "Place Caron",
+                "ro": "Place Caron",
+                "en": "Place Caron"
+              },
+              "tip_5lang": {
+                "de": "Gemütliches Ende im Dorf.",
+                "hu": "Hangulatos befejezés a faluban.",
+                "ro": "Final primitor în sat.",
+                "en": "Cozy end in the village."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Explorateurs",
+                "tip": "Sterne-Küche für anspruchsvolle Gaumen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Explorateurs",
+                "tip": "Csillagos konyha az igényes ínyenceknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Explorateurs",
+                "tip": "Bucătărie cu stele Michelin pentru gurmanzi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Explorateurs",
+                "tip": "Michelin-starred cuisine for demanding palates."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Gletscherterrasse",
+                "tip": "Stille in 3000 Metern Höhe.",
+                "emoji": "🏔️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gleccser-terasz",
+                "tip": "Csend 3000 méteres magasságban.",
+                "emoji": "🏔️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa ghețarului",
+                "tip": "Liniște la 3000 de metri altitudine.",
+                "emoji": "🏔️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Glacier Terrace",
+                "tip": "Silence at 3000 meters altitude.",
+                "emoji": "🏔️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sport 2000",
+                "tip": "Ausrüstung für Höhenbergsteigen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sport 2000",
+                "tip": "Felszerelés magashegyi túrákhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sport 2000",
+                "tip": "Echipament pentru alpinism de altitudine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sport 2000",
+                "tip": "Equipment for high-altitude mountaineering."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie den Liftpass online, um Schlangen zu vermeiden.",
+              "Achten Sie auf die letzte Talfahrt, sonst müssen Sie wandern.",
+              "Die Lifte können bei starkem Wind schließen.",
+              "Nehmen Sie eine Sonnenbrille mit, der Schnee reflektiert stark."
+            ],
+            "hu": [
+              "Vásárolja meg a bérletet online, hogy elkerülje a sorban állást.",
+              "Figyeljen az utolsó völgymenetre, különben túráznia kell.",
+              "Erős szél esetén a felvonók leállhatnak.",
+              "Vigyen napszemüveget, a hó erősen visszaveri a fényt."
+            ],
+            "ro": [
+              "Cumpărați skipass-ul online pentru a evita cozile.",
+              "Fiți atenți la ultima coborâre, altfel va trebui să mergeți pe jos.",
+              "Telecabinele se pot închide în caz de vânt puternic.",
+              "Luați ochelari de soare, zăpada reflectă puternic lumina."
+            ],
+            "en": [
+              "Buy your lift pass online to avoid queues.",
+              "Watch out for the last descent; otherwise, you'll have to hike.",
+              "Lifts may close in case of strong winds.",
+              "Bring sunglasses; the snow reflects sunlight strongly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Caron-Seilbahn schweben wir durch den Regen nach oben. Mittags bietet die Cime de Caron eine mystische Aussicht auf Wolkenmeere. Der Nachmittag führt uns zum Col de Thorens und zum Gletscher, wobei die Seilbahnen uns trocken ans Ziel bringen. Zum Abschluss kehren wir zum Place Caron zurück, wo wir den Tag in der Wärme eines Cafés Revue passieren lassen.",
+            "hu": "A Caron felvonóval emelkedünk a magasba az esőben. Délben a Cime de Caron misztikus kilátást nyújt a felhőtengerre. A délután a Col de Thorenshez és a gleccserhez vezet, ahol a felvonók szárazon juttatnak el minket. Befejezésül visszatérünk a Place Caronra, ahol egy kávézó melegében gondoljuk át a napot.",
+            "ro": "Cu telecabina Caron plutim prin ploaie spre înălțimi. La prânz, Cime de Caron oferă o vedere mistică asupra mării de nori. După-amiaza ne duce la Col de Thorens și la glaciart, telecabinele ducându-ne uscați la destinație. La final ne întoarcem în Place Caron, unde analizăm ziua în căldura unei cafenele.",
+            "en": "With the Caron cable car, we float through the rain to the top. At noon, Cime de Caron offers a mystical view of cloud seas. The afternoon leads us to Col de Thorens and the glacier, with cable cars getting us there dry. Finally, we return to Place Caron, reflecting on the day in the warmth of a cafe."
+          },
+          "stops": [
+            {
+              "name": "Caron Cable Car",
+              "tip_5lang": {
+                "de": "Überdachter Zugang zur Einstiegsstation.",
+                "hu": "Fedett hozzáférés a beszállóállomáshoz.",
+                "ro": "Acces acoperit către stația de îmbarcare.",
+                "en": "Covered access to the boarding station."
+              }
+            },
+            {
+              "name": "Cime de Caron",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Stationsgebäude.",
+                "hu": "Erős esőben maradjon az állomás épületében.",
+                "ro": "Rămâneți în clădirea stației în caz de ploaie tare.",
+                "en": "Stay inside the station building during heavy rain."
+              }
+            },
+            {
+              "name": "Col de Thorens",
+              "tip_5lang": {
+                "de": "Gute Aussicht trotz Regen aus der Kabine.",
+                "hu": "Jó kilátás a kabinból az eső ellenére is.",
+                "ro": "Vedere bună din cabină în ciuda ploii.",
+                "en": "Good views from the cabin despite the rain."
+              }
+            },
+            {
+              "name": "Glacier de Péclet",
+              "tip_5lang": {
+                "de": "Wanderwege ab der Bergstation sind oft matschig.",
+                "hu": "A hegyi állomástól induló utak gyakran sárosak.",
+                "ro": "Potecile de la stația superioară sunt adesea noroioase.",
+                "en": "Hiking paths from the top station are often muddy."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Busse fahren alle 20 Minuten im Ort.",
+                "hu": "A buszok 20 percenként járnak a faluban.",
+                "ro": "Autobuzele circulă la fiecare 20 de minute în stațiune.",
+                "en": "Buses run every 20 minutes in the village."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Liftstatus online bei starkem Wind.",
+              "Seilbahn-Kabinen sind trocken und windgeschützt.",
+              "Nutzen Sie die Verbindungslifte als Transitmittel.",
+              "Tragen Sie trotzdem feste Schuhe für die Stationen.",
+              "Anzeigetafeln zeigen aktuelle Wolkenhöhen an."
+            ],
+            "hu": [
+              "Erős szélben ellenőrizze online a liftek állapotát.",
+              "A felvonókabinok szárazak és szélvédettek.",
+              "Használja az összekötő lifteket közlekedési eszközként.",
+              "Az állomásoknál így is viseljen zárt cipőt.",
+              "A kijelzők mutatják az aktuális felhőmagasságot."
+            ],
+            "ro": [
+              "Verificați starea lifturilor online în caz de vânt.",
+              "Cabinele telecabinelor sunt uscate și protejate de vânt.",
+              "Folosiți lifturile de legătură ca mijloc de tranzit.",
+              "Purtați totuși încălțăminte solidă pentru stații.",
+              "Panourile arată înălțimea actuală a norilor."
+            ],
+            "en": [
+              "Check lift status online during strong winds.",
+              "Cable car cabins are dry and wind-protected.",
+              "Use connecting lifts as a means of transit.",
+              "Still wear sturdy shoes for the stations.",
+              "Display boards show current cloud altitudes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Auf 3200m Höhe schweben wir mit dem Caron-Lift über ein Meer aus Eis und Schnee. Mittags bietet der Gipfel der Cime de Caron eine der spektakulärsten Aussichten der Welt. Am Nachmittag erkunden wir per Lift den Col de Thorens und den Péclet-Gletscher. Der Tag endet auf dem belebten Place Caron, wo Skifahrer und Fußgänger die magische Winterstimmung gemeinsam genießen.",
+            "hu": "3200 méteres magasságba emelkedünk a Caron lifttel a jég és hó felett. Délben a Cime de Caron csúcsa a világ egyik leglátványosabb kilátását nyújtja. Délután felvonóval fedezzük fel a Col de Thorenst és a Péclet-gleccsert. A nap a pezsgő Place Caronon ér véget, ahol síelők és gyalogosok együtt élvezik a mágikus téli hangulatot.",
+            "ro": "La 3200 m altitudine, plutim cu liftul Caron peste o mare de gheață și zăpadă. La prânz, vârful Cime de Caron oferă una dintre cele mai spectaculoase vederi din lume. După-amiaza explorăm cu liftul Col de Thorens și ghețarul Péclet. Ziua se încheie în Place Caron, unde schiorii și pietonii se bucură împreună de atmosfera magică.",
+            "en": "At 3200m altitude, we float with the Caron lift over a sea of ice and snow. At noon, the peak of Cime de Caron offers one of the most spectacular views in the world. In the afternoon, we explore Col de Thorens and the Péclet glacier by lift. The day ends at the lively Place Caron, where skiers and pedestrians enjoy the magical winter mood together."
+          },
+          "stops": [
+            {
+              "name": "Caron Cable Car",
+              "tip_5lang": {
+                "de": "Fußgänger-Pass für Lifte ist hier erhältlich.",
+                "hu": "Gyalogos bérlet a liftekhez itt kapható.",
+                "ro": "Permisul de pietoni pentru lifturi este disponibil aici.",
+                "en": "Pedestrian pass for lifts is available here."
+              }
+            },
+            {
+              "name": "Cime de Caron",
+              "tip_5lang": {
+                "de": "3230m Höhe - Sauerstoffmangel bei Anstrengung möglich.",
+                "hu": "3230m magasság - megerőltetésnél oxigénhiány felléphet.",
+                "ro": "3230 m altitudine - posibilă lipsă de oxigen la efort.",
+                "en": "3230m altitude - lack of oxygen possible during exertion."
+              }
+            },
+            {
+              "name": "Col de Thorens",
+              "tip_5lang": {
+                "de": "Treffpunkt für viele Freerider, toll zum Beobachten.",
+                "hu": "Sok freerider találkozóhelye, remek megfigyelőpont.",
+                "ro": "Loc de întâlnire pentru freerideri, bun pentru observație.",
+                "en": "Meeting point for many freeriders, great for watching."
+              }
+            },
+            {
+              "name": "Glacier de Péclet",
+              "tip_5lang": {
+                "de": "Letzte Talfahrt unbedingt rechtzeitig prüfen.",
+                "hu": "Az utolsó völgymenetet feltétlenül időben ellenőrizze.",
+                "ro": "Verificați neapărat ora ultimei coborâri.",
+                "en": "Be sure to check the time for the last descent."
+              }
+            },
+            {
+              "name": "Place Caron",
+              "tip_5lang": {
+                "de": "Abends herrscht hier echtes Aprés-Ski Flair.",
+                "hu": "Este itt igazi Aprés-Ski hangulat uralkodik.",
+                "ro": "Seara este aici o adevărată atmosferă Aprés-Ski.",
+                "en": "There is a real Aprés-Ski vibe here in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lifte schließen bei zu starkem Wind sofort.",
+              "Fußgänger müssen in manchen Liften bergab fahren.",
+              "Nehmen Sie Lippenpflege gegen die Kälte mit.",
+              "Beachten Sie die Pistenregeln beim Überqueren.",
+              "Einige Bergrestaurants sind nur per Lift erreichbar."
+            ],
+            "hu": [
+              "Túl erős szélben a lifteket azonnal leállítják.",
+              "A gyalogosoknak bizonyos liftekkel lefelé is kell menniük.",
+              "Vigyen magával ajakírt a hideg ellen.",
+              "Ügyeljen a pályaszabályokra az utak keresztezésekor.",
+              "Néhány hegyi étterem csak lifttel érhető el."
+            ],
+            "ro": [
+              "Lifturile se închid imediat în caz de vânt prea puternic.",
+              "Pietonii trebuie să coboare cu liftul în anumite zone.",
+              "Luați balsam de buze împotriva frigului.",
+              "Respectați regulile de pe pârtie la traversare.",
+              "Unele restaurante montane sunt accesibile doar cu liftul."
+            ],
+            "en": [
+              "Lifts close immediately during very strong winds.",
+              "Pedestrians must ride down on certain lifts.",
+              "Take lip balm with you against the cold.",
+              "Follow slope rules when crossing ski runs.",
+              "Some mountain restaurants are only accessible by lift."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.valthorens.com/en/winter/webcam.html",
-    "tourism_office": "https://www.valthorens.com/",
-    "events": "https://www.valthorens.com/en/winter/events.html",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Val Thorens ist auf 2300m das hoechste Skiort Europas und sehr international, Englisch ist Standardsprache in Bars, Hotels und Skischulen. Skandinavische und britische Skifahrer dominieren neben Franzosen. 'Bonjour' und 'merci' werden trotzdem geschaetzt.",
-      "hu": "Val Thorens 2300m-en Europa legmagasabb siallomasa, nagyon nemzetkozi, az angol alap a baroknal, hoteleknel, sioktatasban. Skandinav es brit sielok dominalnak a franciak mellett. 'Bonjour' es 'merci' azert sokat szamit.",
-      "ro": "Val Thorens, la 2300m, e cea mai inalta statiune din Europa si foarte internationala, engleza e standard in baruri, hoteluri si scoli de schi. Schiori scandinavi si britanici domina alaturi de francezi. 'Bonjour' si 'merci' sunt totusi apreciate.",
-      "en": "Val Thorens at 2300m is Europe's highest ski resort and very international — English is standard in bars, hotels and ski schools. Scandinavian and British skiers dominate alongside the French. A 'bonjour' and 'merci' are still appreciated."
-    },
-    "best_time_to_visit": {
-      "de": "Schneegarantie dank Hoehenlage Ende November bis Anfang Mai, Saisonbeginn und Schlusswochen oft die guenstigsten. Februar bis Mitte Maerz spitzenmaessig sonnig und kalt, perfekte Pistenverhaeltnisse. Im Sommer fast komplett geschlossen.",
-      "hu": "A magassag miatt ho garantalva november vegetol majus elejeig, szezonnyitas es zaras a legolcsobb. Februar-marcius kozepe csucsidoszak, napos es hideg, makulatlan pistakkal. Nyaron szinte teljesen zar.",
-      "ro": "Datorita altitudinii, zapada e garantata din sfarsitul lui noiembrie pana la inceputul lui mai, deschiderea si finalul de sezon sunt cele mai ieftine. Februarie pana la mijlocul lui martie e perfect, soare si frig, partii ideale. Vara, aproape totul e inchis.",
-      "en": "Thanks to the altitude, snow is guaranteed from late November to early May — opening and closing weeks are usually the cheapest. February to mid-March is peak: sunny, cold and perfect piste conditions. In summer the resort is almost entirely closed."
-    },
-    "neighborhood_warnings": {
-      "de": "Wegen 2300m Hoehe Hoehenkrankheit moeglich, viel Wasser trinken am Ankunftstag. Wind und Kaelte erbarmungslos, gute Skikleidung Pflicht. Anfahrt vom Tal extrem steile Strasse mit Serpentinen, Schneeketten unverzichtbar.",
-      "hu": "A 2300 m miatt elofordulhat magashegyi rosszullet, az erkezes napjan sok viz. A szel es a hideg konyortelen, jo sifelszereles kotelezo. A volgybol vezeto ut meredek szerpentin, holanc nelkulozhetetlen.",
-      "ro": "La 2300m poate aparea raul de altitudine, bea multa apa in ziua sosirii. Vantul si frigul sunt necrutatoare, echipament bun obligatoriu. Drumul din vale e o serpentina abrupta, lanturile sunt indispensabile.",
-      "en": "At 2300m altitude sickness is possible, drink plenty of water on arrival day. Wind and cold are merciless, proper ski kit is essential. The drive up from the valley is a steep switchback road, snow chains are non-negotiable."
-    },
-    "parking_real_time": ""
   }
 }

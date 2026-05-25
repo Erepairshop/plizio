@@ -1068,32 +1068,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.cargese.fr/",
-    "events": "https://www.cargese.fr/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "In Cargese hoerst du Franzoesisch und das melodische Korsisch nebeneinander, manche aelteren Bewohner sprechen sogar noch ein griechisches Dialekt aus den Wurzeln des Dorfes. Englisch funktioniert in Restaurants und Hotels, ein einfaches 'bonjour' oder 'merci' oeffnet aber sofort Herzen.",
-      "hu": "Cargese-ben franciat es a dallamos korzikait egyszerre hallod, par idosebb lakos meg gorog dialektust is beszel a falu eredetebol. Angol az ettermekben es szallodakban megy, de egy 'bonjour' vagy 'merci' azonnal melegseget hoz a beszelgetesbe.",
-      "ro": "In Cargese auzi franceza si melodioasa corsicana impreuna, unii batrani vorbesc chiar si un dialect grecesc, mostenire a originii satului. Engleza merge in restaurante si hoteluri, dar un simplu 'bonjour' sau 'merci' deschide imediat inimile.",
-      "en": "In Cargese you hear French and melodic Corsican side by side, and some older villagers still speak a Greek dialect from the village's roots. English works in restaurants and hotels, but a simple 'bonjour' or 'merci' opens hearts immediately."
-    },
-    "best_time_to_visit": {
-      "de": "Mai, Juni und September sind ideal: 22-28 Grad, klares Meer und die Straende sind nicht ueberfuellt. Juli und August bringen Hitze und viele Italiener und Franzosen, Reservierung ist Pflicht. Im Winter schlaeft das Dorf, viele Restaurants und Pensionen schliessen.",
-      "hu": "Majus, junius es szeptember a legjobb: 22-28 fok, tiszta tenger, a strandok meg nem zsufoltak. Julius-augusztusban hoseg es sok olasz-francia nyaralo van, foglalas kotelezo. Telen a falu alszik, sok etterem es panzio zarva tart.",
-      "ro": "Mai, iunie si septembrie sunt ideale: 22-28 grade, mare limpede si plaje neaglomerate. Iulie-august aduc caldura si multi italieni si francezi, rezervarea e obligatorie. Iarna satul doarme, multe restaurante si pensiuni se inchid.",
-      "en": "May, June and September are ideal: 22-28°C, clear sea and uncrowded beaches. July and August bring heat and crowds of Italians and French, booking is essential. In winter the village sleeps and many restaurants and guesthouses close."
-    },
-    "neighborhood_warnings": {
-      "de": "Cargese ist sehr sicher, das groesste Risiko sind kurvige Kuestenstrassen mit Wohnmobilen im Hochsommer. Parkplaetze am Strand Peru und Menasina sind Mittag oft voll, frueh kommen oder zu Fuss gehen.",
-      "hu": "Cargese nagyon biztonsagos, a legnagyobb veszely a kanyargos partmenti utak es a lakoautos forgalom csucsszezonban. A Peru es Menasina strand parkoloi delre megtelnek, korai erkezes vagy gyaloglas a megoldas.",
-      "ro": "Cargese e foarte sigur, cel mai mare risc fiind drumurile sinuoase de coasta cu rulote in plina vara. Parcarile de la plajele Peru si Menasina se umplu pana la pranz, vino devreme sau mergi pe jos.",
-      "en": "Cargese is very safe; the biggest risk is winding coastal roads with motorhomes in peak summer. Parking at Peru and Menasina beaches fills by midday, arrive early or walk."
-    },
-    "parking_real_time": ""
   }
 }

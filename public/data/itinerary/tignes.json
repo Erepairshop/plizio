@@ -297,6 +297,410 @@
           "Take advantage of the free shuttle buses between resort areas.",
           "Always check the weather forecast before hiking."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Maison de Tignes für Informationen, gefolgt von einem entspannenden Spaziergang um den kristallklaren Lac de Tignes. Mittags erreichen Sie das pulsierende Val Claret für ein savoyardisches Essen. Der Nachmittag steht im Zeichen des Grande Motte Gletschers, wo Sie ewiges Eis erleben. Den Tag lassen Sie mit einem ruhigen Blick über den See ausklingen.",
+            "hu": "Kezdje a napot a Maison de Tignes látogatóközpontban, majd tegyen egy pihentető sétát a kristálytiszta Tignes-tó partján. Délben érkezzen meg a pezsgő Val Claret negyedbe egy hagyományos savoyai ebédre. Délután a Grande Motte gleccser örök hava várja, ahová siklóval juthat fel. A napot a tó feletti csodás panorámával zárja.",
+            "ro": "Începeți ziua la Maison de Tignes pentru informații, urmată de o plimbare relaxantă în jurul lacului de cristal. La prânz, ajungeți în vibrantul Val Claret pentru o masă tradițională savoiardă. După-amiaza este dedicată ghețarului Grande Motte, unde veți experimenta gheața eternă. Încheiați ziua cu o vedere liniștită asupra lacului.",
+            "en": "Start your day at Maison de Tignes for info, followed by a relaxing walk around the crystal-clear lake. By midday, reach the vibrant Val Claret for a traditional Savoyard lunch. The afternoon is dedicated to the Grande Motte glacier, where you'll experience eternal snow via the funicular. End your day with a quiet panorama over the lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de Tignes",
+                "hu": "Maison de Tignes",
+                "ro": "Maison de Tignes",
+                "en": "Maison de Tignes"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich hier Wanderkarten.",
+                "hu": "Itt kérj ingyenes túratérképet.",
+                "ro": "Luați hărți de drumeție de aici.",
+                "en": "Grab free hiking maps here."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Tignes",
+                "hu": "Tignes-tó",
+                "ro": "Lacul Tignes",
+                "en": "Lac de Tignes"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang um den See dauert 45 Min.",
+                "hu": "A tó körüli séta kb. 45 perc.",
+                "ro": "O plimbare în jurul lacului durează 45 min.",
+                "en": "A walk around the lake takes 45 mins."
+              }
+            },
+            {
+              "name": {
+                "de": "Tignes Val Claret",
+                "hu": "Tignes Val Claret",
+                "ro": "Tignes Val Claret",
+                "en": "Tignes Val Claret"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen im Freien.",
+                "hu": "Tökéletes hely egy szabadtéri ebédhez.",
+                "ro": "Loc perfect pentru un prânz în aer liber.",
+                "en": "Perfect spot for an outdoor lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Motte Funiculaire",
+                "hu": "Grande Motte sikló",
+                "ro": "Funicularul Grande Motte",
+                "en": "Grande Motte Funicular"
+              },
+              "tip_5lang": {
+                "de": "Auffahrt zum Gletscher auf 3032m.",
+                "hu": "Utazás a gleccserhez 3032 méterre.",
+                "ro": "Urcați la ghețar la 3032 m.",
+                "en": "Ride up to the glacier at 3032m."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Panoramablick",
+                "hu": "Le Lac panoráma",
+                "ro": "Panorama Le Lac",
+                "en": "Le Lac Panorama"
+              },
+              "tip_5lang": {
+                "de": "Abschiedsblick auf den Ort.",
+                "hu": "Búcsúzó pillantás a falura.",
+                "ro": "Ultima vedere asupra stațiunii.",
+                "en": "Last view over the resort."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tartiflette",
+                "tip": "Kartoffelauflauf mit Reblochon-Käse."
+              },
+              {
+                "name": "La Table de Jeanne",
+                "tip": "Authentische lokale Küche in Le Lac."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tartiflette",
+                "tip": "Sült burgonya Reblochon sajttal."
+              },
+              {
+                "name": "La Table de Jeanne",
+                "tip": "Autentikus helyi konyha Le Lac-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tartiflette",
+                "tip": "Gratin de cartofi cu brânză Reblochon."
+              },
+              {
+                "name": "La Table de Jeanne",
+                "tip": "Bucătărie locală autentică în Le Lac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tartiflette",
+                "tip": "Potato bake with Reblochon cheese."
+              },
+              {
+                "name": "La Table de Jeanne",
+                "tip": "Authentic local cuisine in Le Lac."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac de Tignes Nordufer",
+                "tip": "Ruhiger Platz zum Entspannen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Aiguille Percée Blick",
+                "tip": "Spektakuläre Felsformation.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tignes-tó északi part",
+                "tip": "Csendes pihenőhely.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Aiguille Percée kilátás",
+                "tip": "Látványos sziklaformáció.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul de nord al lacului",
+                "tip": "Loc liniștit pentru relaxare.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vederea Aiguille Percée",
+                "tip": "Formațiune stâncoasă spectaculoasă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac de Tignes North Shore",
+                "tip": "Quiet spot for relaxation.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Aiguille Percée View",
+                "tip": "Spectacular rock formation.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Val Claret Boutiquen",
+                "tip": "Outdoor-Ausrüstung und Mode."
+              },
+              {
+                "name": "Le Lac Markt",
+                "tip": "Lokale Produkte wie Käse und Wurst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Val Claret butikok",
+                "tip": "Túrafelszerelés és divat."
+              },
+              {
+                "name": "Le Lac piac",
+                "tip": "Helyi sajtok és kolbászok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique-uri Val Claret",
+                "tip": "Echipament outdoor și modă."
+              },
+              {
+                "name": "Piața Le Lac",
+                "tip": "Produse locale precum brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Val Claret Boutiques",
+                "tip": "Outdoor gear and fashion."
+              },
+              {
+                "name": "Le Lac Market",
+                "tip": "Local products like cheese and sausages."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie auch im Sommer feste Wanderschuhe.",
+              "Die Sonne ist in dieser Höhe sehr stark, Sonnenschutz nutzen.",
+              "Nutzen Sie die kostenlosen Shuttlebusse zwischen den Ortsteilen.",
+              "Prüfen Sie immer die Wettervorhersage vor Wanderungen."
+            ],
+            "hu": [
+              "Nyáron is viseljen stabil túrabakancsot.",
+              "A nap nagyon erős ebben a magasságban, használjon fényvédőt.",
+              "Vegye igénybe az ingyenes buszjáratokat a falurészek között.",
+              "Túrázás előtt mindig ellenőrizze az időjárás-jelentést."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție rezistenți chiar și vara.",
+              "Soarele este foarte puternic la această altitudine, folosiți protecție.",
+              "Folosiți autobuzele gratuite între diferitele părți ale stațiunii.",
+              "Verificați întotdeauna prognoza meteo înainte de drumeții."
+            ],
+            "en": [
+              "Wear sturdy hiking boots even in summer.",
+              "The sun is very strong at this altitude, use sunscreen.",
+              "Take advantage of the free shuttle buses between resort areas.",
+              "Always check the weather forecast before hiking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt wettergeschützt im Maison de Tignes, wo Sie Karten studieren können. Danach führt ein kurzer Spaziergang zum See, der im Nebel eine mystische Atmosphäre ausstrahlt. Mittags bieten die Arkaden von Val Claret trockene Wege zu gemütlichen Restaurants. Nachmittags bringt Sie die Standseilbahn im Berginneren trocken zum Gletscher, bevor Sie den Tag mit einem Blick auf den wolkenverhangenen See beenden.",
+            "hu": "A reggel a Maison de Tignes központjában kezdődik, ahol esőmentes környezetben tervezhetjük meg a napot. Ezután a tóparti sétányon a ködös, misztikus tájban gyönyörködhetünk. Ebédidőben Val Claret fedett átjárói biztosítanak száraz utat a hívogató éttermekig. Délután a hegy belsejében futó siklóval jutunk fel a gleccserhez, a napot pedig a felhőkbe burkolózó tó látványával zárjuk.",
+            "ro": "Dimineața începe la adăpost în Maison de Tignes, unde puteți studia hărțile locale. Ulterior, o scurtă plimbare la lac oferă o atmosferă mistică datorită ceaței. La prânz, arcadele din Val Claret oferă căi uscate către restaurante primitoare. După-amiaza, funicularul subteran vă duce la adăpost spre ghețar, înainte de a încheia ziua cu o priveliște asupra lacului învăluit în nori.",
+            "en": "The morning starts sheltered in Maison de Tignes, where you can study local maps. Afterwards, a short walk to the lake offers a mystical atmosphere due to the mist. At lunchtime, the arcades of Val Claret provide dry paths to cozy restaurants. In the afternoon, the underground funicular takes you dry to the glacier, before ending the day with a view of the cloud-covered lake."
+          },
+          "stops": [
+            {
+              "name": "Maison de Tignes",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Ausstellungen, während Sie auf Wetterbesserung warten.",
+                "hu": "Használd ki a belső kiállításokat, amíg várod az eső elálltát.",
+                "ro": "Profitați de expozițiile interioare în timp ce așteptați oprirea ploii.",
+                "en": "Use the indoor exhibitions while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg um den See ist auch bei Nässe gut begehbar.",
+                "hu": "A tó körüli aszfaltozott út esőben is jól járható, nem sáros.",
+                "ro": "Poteca asfaltată din jurul lacului este ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved path around the lake is easy to walk even when wet."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Ladenpassagen mit ihren überdachten Gehwegen.",
+                "hu": "Keress menedéket a bevásárlóközpontok fedett sétányai alatt.",
+                "ro": "Căutați adăpost în pasajele comerciale cu trotuare acoperite.",
+                "en": "Find shelter in the shopping malls with their covered walkways."
+              }
+            },
+            {
+              "name": "Grande Motte Funicular",
+              "tip_5lang": {
+                "de": "Da die Bahn im Tunnel fährt, bleiben Sie während der Fahrt komplett trocken.",
+                "hu": "Mivel a sikló alagútban fut, az út során végig szárazon maradsz.",
+                "ro": "Deoarece funicularul circulă prin tunel, veți rămâne uscat pe tot parcursul călătoriei.",
+                "en": "As the funicular runs in a tunnel, you will stay completely dry during the ride."
+              }
+            },
+            {
+              "name": "Le Lac Panorama",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft eingeschränkt; prüfen Sie die Webcam vorab.",
+                "hu": "Esőben a kilátás korlátozott; indulás előtt nézd meg a webkamerát.",
+                "ro": "Pe ploaie vizibilitatea este limitată; verificați camera web înainte.",
+                "en": "In the rain, visibility is limited; check the webcam beforehand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbefestigte Wanderwege, da diese sehr rutschig werden können.",
+              "Die meisten Bushaltestellen in Tignes sind überdacht und bieten Schutz.",
+              "Nutzen Sie die Zeit für einen Besuch im Wellnesszentrum 'Lagon' am See.",
+              "Regenjacken sind in den Bergen effektiver als Regenschirme wegen des Windes."
+            ],
+            "hu": [
+              "Kerüld a földutakat, mert nagyon csúszóssá válhatnak az esőben.",
+              "A legtöbb buszmegálló Tignesben fedett, jó menedéket nyújtanak.",
+              "Használd ki az időt egy látogatásra a tóparti 'Lagon' wellness központban.",
+              "A szél miatt az esőkabát sokkal praktikusabb viselet itt, mint az esernyő."
+            ],
+            "ro": [
+              "Evitați potecile neamenajate, deoarece pot deveni foarte alunecoase.",
+              "Majoritatea stațiilor de autobuz din Tignes sunt acoperite și oferă adăpost.",
+              "Folosiți timpul pentru o vizită la centrul wellness 'Lagon' de lângă lac.",
+              "Din cauza vântului, pelerinele de ploaie sunt mai practice decât umbrelele."
+            ],
+            "en": [
+              "Avoid unpaved trails as they can become very slippery in the rain.",
+              "Most bus stops in Tignes are covered and provide good shelter.",
+              "Use the time for a visit to the 'Lagon' wellness center by the lake.",
+              "Rain jackets are more practical than umbrellas here due to the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Schnee am Maison de Tignes, ein idealer Ort für Winterinfos. Der Spaziergang am zugefrorenen See bietet atemberaubende Fotomotive im weißen Kleid. Mittags wärmen Sie sich in Val Claret bei einem Fondue auf, während draußen die Skifahrer vorbeiziehen. Nachmittags geht es hinauf zum Gletscher für arktische Aussichten, bevor Sie pünktlich zum frühen Sonnenuntergang wieder im Ort sind.",
+            "hu": "Reggel a hó csillog a Maison de Tignes körül, ahol friss téli információkat kaphatunk. A befagyott tó menti séta lélegzetelállító fotótémákat kínál a fehér tájban. Ebédre egy forró fonduéval melegedhetünk Val Claret-ben, nézve a síelők forgatagát. Délután a gleccseren szippanthatunk az alpesi levegőbe, majd a korai naplemente előtt visszaérünk a városba.",
+            "ro": "Dimineața, zăpada strălucește în jurul Maison de Tignes, locul ideal pentru informații de iarnă. Plimbarea pe lângă lacul înghețat oferă oportunități foto uimitoare în peisajul alb. La prânz, vă încălziți în Val Claret cu un fondue, în timp ce schiorii trec pe lângă. După-amiaza urcați pe ghețar pentru vederi arctice, revenind în oraș înainte de apusul timpuriu.",
+            "en": "In the morning, snow glistens around Maison de Tignes, the ideal spot for winter info. The walk by the frozen lake offers stunning photo opportunities in the white landscape. At lunch, warm up in Val Claret with a fondue while skiers pass by. In the afternoon, head up to the glacier for arctic views, returning to town before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Maison de Tignes",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier Infos über geöffnete Winterwanderwege.",
+                "hu": "Itt tájékozódhatsz a megnyitott téli gyalogutakról.",
+                "ro": "Informați-vă aici despre traseele de iarnă deschise.",
+                "en": "Get information here about open winter hiking trails."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Betreten Sie das Eis nur, wenn es ausdrücklich offiziell freigegeben ist.",
+                "hu": "Csak akkor menj a jégre, ha azt hivatalosan engedélyezték.",
+                "ro": "Intrați pe gheață doar dacă este permis în mod oficial.",
+                "en": "Only walk on the ice if it is explicitly and officially permitted."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Genießen Sie die Après-Ski-Stimmung in den zahlreichen Außenbars.",
+                "hu": "Élvezd az après-ski hangulatot a számos szabadtéri bár egyikében.",
+                "ro": "Bucurați-vă de atmosfera après-ski în numeroasele baruri în aer liber.",
+                "en": "Enjoy the après-ski atmosphere in the numerous outdoor bars."
+              }
+            },
+            {
+              "name": "Grande Motte Funicular",
+              "tip_5lang": {
+                "de": "Oben auf 3032m ist es deutlich kälter; ziehen Sie sich sehr warm an.",
+                "hu": "Fent 3032 méteren sokkal hidegebb van; öltözz fel nagyon melegen.",
+                "ro": "Sus la 3032 m este mult mai frig; îmbrăcați-vă foarte gros.",
+                "en": "It is much colder at 3032m; dress very warmly for the top."
+              }
+            },
+            {
+              "name": "Le Lac Panorama",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang hinter den Bergen ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A hegyek mögötti naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul după munți are loc în jurul orei 16:30 pe timp de iarnă.",
+                "en": "The sunset behind the mountains is as early as 16:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da die Wege oft vereist sind.",
+              "Die Sonne ist in dieser Höhe sehr stark; nutzen Sie Sonnenschutz.",
+              "Beachten Sie, dass einige Fußwege im Winter nur für Skifahrer reserviert sind.",
+              "Wärmen Sie sich regelmäßig in den Cafés auf, um Erfrierungen zu vermeiden."
+            ],
+            "hu": [
+              "Viselj jó tapadású talpú cipőt, mert az utak gyakran jegesek.",
+              "A nap ilyen magasságban nagyon erős; használj fényvédő krémet.",
+              "Ügyelj rá, hogy télen bizonyos gyalogutak csak a síelőknek vannak fenntartva.",
+              "Melegedj fel rendszeresen a kávézókban a fagyási sérülések elkerülése végett."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece drumurile sunt adesea înghețate.",
+              "Soarele este foarte puternic la această altitudine; folosiți protecție solară.",
+              "Atenție, unele poteci sunt rezervate exclusiv schiorilor pe timp de iarnă.",
+              "Încălziți-vă regulat în cafenele pentru a evita degerăturile."
+            ],
+            "en": [
+              "Wear shoes with good grip, as the paths are often icy.",
+              "The sun is very strong at this altitude; use sunscreen.",
+              "Note that some footpaths are reserved only for skiers in winter.",
+              "Warm up regularly in cafes to avoid frostbite."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -572,6 +976,394 @@
           "Be mindful of hikers on shared trails.",
           "E-bikes make the steep climbs much more enjoyable."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Tignes auf zwei Rädern, beginnend im Val Claret. Umrunden Sie den glitzernden See auf einfachen Wegen, bevor Sie die Herausforderung zum beeindruckenden Chevril-Staudamm annehmen. Genießen Sie die frische Bergluft und den Panoramablick auf die Gipfel. Die Tour endet im ruhigen Les Boisses, fernab des Trubels der Hauptstation.",
+            "hu": "Fedezze fel Tignes környékét két keréken, kezdve a Val Claret negyedben. Kerülje meg a csillogó tavat könnyű ösvényeken, mielőtt nekivágna az impozáns Chevril-gáthoz vezető lejtőnek. Élvezze a friss hegyi levegőt és a csúcsokra nyíló panorámát. A túra a csendes Les Boisses faluban zárul, távol a központ nyüzsgésétől.",
+            "ro": "Explorați Tignes pe două roți, începând din Val Claret. Înconjurați lacul sclipitor pe trasee ușoare, înainte de a accepta provocarea coborârii spre impresionantul baraj Chevril. Bucurați-vă de aerul proaspăt de munte și de vederea panoramică asupra vârfurilor. Turul se încheie în liniștitul Les Boisses, departe de agitația stațiunii.",
+            "en": "Explore Tignes on two wheels, starting in Val Claret. Circle the sparkling lake on easy paths before taking on the descent to the impressive Chevril Dam. Enjoy the fresh mountain air and panoramic views of the surrounding peaks. The tour ends in the peaceful Les Boisses, away from the hustle of the main resort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tignes Val Claret",
+                "hu": "Tignes Val Claret",
+                "ro": "Tignes Val Claret",
+                "en": "Tignes Val Claret"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für viele MTB-Strecken.",
+                "hu": "Számos MTB pálya kiindulópontja.",
+                "ro": "Punct de plecare pentru multe trasee MTB.",
+                "en": "Starting point for many MTB trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Tignes Rundweg",
+                "hu": "Tignes-tó körút",
+                "ro": "Circuitul Lacului Tignes",
+                "en": "Lac de Tignes Circuit"
+              },
+              "tip_5lang": {
+                "de": "Leichter Radweg am Ufer entlang.",
+                "hu": "Könnyű kerékpárút a part mentén.",
+                "ro": "Pistă ușoară de biciclete de-a lungul malului.",
+                "en": "Easy bike path along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille Percée Basis",
+                "hu": "Aiguille Percée bázis",
+                "ro": "Baza Aiguille Percée",
+                "en": "Aiguille Percée Base"
+              },
+              "tip_5lang": {
+                "de": "Fahrt zum Palafour-Sessellift.",
+                "hu": "Tekerjen a Palafour libegőhöz.",
+                "ro": "Mergeți spre telescaunul Palafour.",
+                "en": "Ride to the Palafour chairlift."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrage du Chevril",
+                "hu": "Chevril-gát",
+                "ro": "Barajul Chevril",
+                "en": "Barrage du Chevril"
+              },
+              "tip_5lang": {
+                "de": "Anspruchsvolle Abfahrt zum Damm.",
+                "hu": "Kihívást jelentő lejtő a gátig.",
+                "ro": "Coborâre provocatoare spre baraj.",
+                "en": "Challenging descent to the dam."
+              }
+            },
+            {
+              "name": {
+                "de": "Tignes Les Boisses",
+                "hu": "Tignes Les Boisses",
+                "ro": "Tignes Les Boisses",
+                "en": "Tignes Les Boisses"
+              },
+              "tip_5lang": {
+                "de": "Ruhiges Dorf zum Entspannen.",
+                "hu": "Csendes falu a pihenéshez.",
+                "ro": "Sat liniștit pentru relaxare.",
+                "en": "Quiet village for relaxation."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fondue Savoyarde",
+                "tip": "Geschmolzener Käse mit Brotstücken."
+              },
+              {
+                "name": "Le Coffee Bro",
+                "tip": "Guter Stopp für Kaffee und Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Savoyai fondü",
+                "tip": "Olvasztott sajt kenyérdarabkákkal."
+              },
+              {
+                "name": "Le Coffee Bro",
+                "tip": "Jó hely kávéra és harapnivalóra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fondue Savoyardă",
+                "tip": "Brânză topită cu bucăți de pâine."
+              },
+              {
+                "name": "Le Coffee Bro",
+                "tip": "Loc bun pentru cafea și gustări."
+              }
+            ],
+            "en": [
+              {
+                "name": "Savoyard Fondue",
+                "tip": "Melted cheese with bread pieces."
+              },
+              {
+                "name": "Le Coffee Bro",
+                "tip": "Good stop for coffee and snacks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldwege bei Boisses",
+                "tip": "Sinnliches Naturerlebnis.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Staudamm-Aussicht",
+                "tip": "Blick in das tiefe Isère-Tal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boisses erdei utak",
+                "tip": "Természetközeli élmény.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Gát-kilátó",
+                "tip": "Kilátás az Isère-völgybe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteci forestiere la Boisses",
+                "tip": "Experiență în natură.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Vederea barajului",
+                "tip": "Privire spre valea adâncă Isère.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Boisses Forest Paths",
+                "tip": "Close to nature experience.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Dam Lookout",
+                "tip": "View into the deep Isère valley.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Tignes Spirit Shop",
+                "tip": "MTB-Verleih und Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tignes Spirit Shop",
+                "tip": "MTB bérlés és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tignes Spirit Shop",
+                "tip": "Închirieri MTB și accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tignes Spirit Shop",
+                "tip": "MTB rental and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Damm.",
+              "Ein Helm ist auf den Bergwegen unerlässlich.",
+              "Achten Sie auf Wanderer auf gemeinsam genutzten Wegen.",
+              "E-Bikes machen die steilen Anstiege deutlich angenehmer."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a gáthoz való leereszkedés előtt.",
+              "A hegyi utakon a sisak elengedhetetlen.",
+              "Figyeljen a gyalogosokra a közös ösvényeken.",
+              "Az e-bike-ok sokkal kényelmesebbé teszik a meredek emelkedőket."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea spre baraj.",
+              "Cască este esențială pe traseele montane.",
+              "Fiți atenți la excursioniști pe potecile comune.",
+              "E-bike-urile fac urcările abrupte mult mai plăcute."
+            ],
+            "en": [
+              "Check your brakes before the descent to the dam.",
+              "A helmet is essential on mountain paths.",
+              "Be mindful of hikers on shared trails.",
+              "E-bikes make the steep climbs much more enjoyable."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour nach Val Claret einen sportlichen Start. Die Runde um den See erfordert Vorsicht auf den nassen Kurven. Mittags erreichen Sie die Aiguille Percée Basis, wo die Felsen im Regen dunkel glänzen. Die Fahrt zum Staudamm führt bergab, was bei Nässe volle Konzentration verlangt, bevor Sie in Les Boisses den Tag beenden.",
+            "hu": "Az eső ellenére a Val Claret felé vezető út sportos kezdést ígér. A tó körüli kör óvatosságot igényel a vizes kanyarokban. Délben érjük el az Aiguille Percée lábát, ahol a sziklák sötéten csillognak az esőben. A gát felé vezető lejtő teljes koncentrációt igényel vizes úton, mielőtt Les Boisses-ben zárnánk a napot.",
+            "ro": "În ciuda ploii, turul spre Val Claret oferă un start sportiv. Turul lacului necesită prudență în curbele umede. La prânz ajungeți la baza Aiguille Percée, unde stâncile strălucesc întunecat în ploaie. Coborârea spre baraj cere concentrare maximă pe carosabil umed, înainte de a încheia ziua în Les Boisses.",
+            "en": "Despite the rain, the tour to Val Claret offers a sporty start. The loop around the lake requires caution on wet curves. At midday you reach the Aiguille Percée base, where the rocks shine darkly in the rain. The ride down to the dam demands full concentration in the wet, before ending the day in Les Boisses."
+          },
+          "stops": [
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe den Bremsweg verlängert.",
+                "hu": "Indulás előtt ellenőrizd a fékeket, mert a vizes út növeli a féktávot.",
+                "ro": "Verificați frânele înainte de plecare, deoarece umezeala lungește distanța de frânare.",
+                "en": "Check your brakes before starting, as wetness increases braking distance."
+              }
+            },
+            {
+              "name": "Lac de Tignes Circuit",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurvenmanöver auf den markierten Holzstegen.",
+                "hu": "Kerüld a gyors kanyarodást a jelzett fapallókon.",
+                "ro": "Evitați manevrele rapide în curbe pe pasarelele de lemn marcate.",
+                "en": "Avoid fast cornering on the marked wooden boardwalks."
+              }
+            },
+            {
+              "name": "Aiguille Percée Base",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Dachvorsprüngen der nahen Lifte ab.",
+                "hu": "A közeli liftek ereszei alá támaszthatod a bringát az eső elől.",
+                "ro": "Parcați bicicleta sub streșinile lifturilor din apropiere.",
+                "en": "Park your bike under the eaves of the nearby lifts to keep it dry."
+              }
+            },
+            {
+              "name": "Barrage du Chevril",
+              "tip_5lang": {
+                "de": "Achten Sie auf Spritzwasser von vorbeifahrenden Autos auf der D902.",
+                "hu": "Ügyelj az elhaladó autók által felcsapott vízre a D902-es úton.",
+                "ro": "Atenție la apa împroșcată de mașinile care trec pe D902.",
+                "en": "Watch out for spray from passing cars on the D902 road."
+              }
+            },
+            {
+              "name": "Tignes Les Boisses",
+              "tip_5lang": {
+                "de": "In den lokalen Shops gibt es Trocknungsmöglichkeiten für Ihre Kleidung.",
+                "hu": "A helyi boltokban találhatsz lehetőséget a ruháid megszárítására.",
+                "ro": "În magazinele locale găsiți facilități pentru uscarea hainelor.",
+                "en": "Local shops offer facilities to dry your clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenbekleidung und wasserdichte Handschuhe.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Vermeiden Sie Fahrten auf Singletrails, wenn diese schlammig sind (Erosionsgefahr).",
+              "Nutzen Sie helle Kleidung oder Reflektoren bei schlechten Sichtverhältnissen."
+            ],
+            "hu": [
+              "Viselj teljes esőruházatot és vízálló kesztyűt.",
+              "Csökkentsd kicsit a guminyomást a jobb tapadásért a vizes aszfalton.",
+              "Kerüld a saras hegyi ösvényeket a talajerózió megelőzése érdekében.",
+              "Viselj világos ruhát vagy fényvisszaverőt a rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie și mănuși impermeabile.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe asfalt ud.",
+              "Evitați traseele de pământ dacă sunt noroioase pentru a preveni eroziunea.",
+              "Folosiți haine viu colorate sau reflectorizante în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Wear full rain gear and waterproof gloves.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Avoid riding on singletracks if they are muddy (erosion risk).",
+              "Wear bright clothing or reflectors in poor visibility conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Biketour startet in Val Claret auf geräumten Straßen. Die Runde um den See führt durch eine tiefverschneite Märchenlandschaft. Mittags erreichen Sie die Basis der Aiguille Percée, umgeben von weißen Gipfeln. Die Abfahrt zum Staudamm ist landschaftlich reizvoll, erfordert aber Wachsamkeit gegenüber Eisplatten, bevor Sie sich in Les Boisses aufwärmen.",
+            "hu": "A téli kerékpártúra Val Claret letakarított útjain indul. A tó körüli kör egy mélyen havas mesetájon vezet keresztül. Délben érjük el az Aiguille Percée lábát, fehér csúcsoktól övezve. A gát felé vezető lejtő látványos, de éberséget igényel a jeges foltok miatt, mielőtt Les Boisses-ben felmelegednénk.",
+            "ro": "Un tur de iarnă cu bicicleta pornește din Val Claret pe drumuri curățate. Turul lacului trece printr-un peisaj de basm înzăpezit. La prânz ajungeți la baza Aiguille Percée, înconjurați de vârfuri albe. Coborârea spre baraj este pitorească, dar necesită vigilență la porțiunile de gheață, înainte de a vă încălzi în Les Boisses.",
+            "en": "A winter bike tour starts in Val Claret on cleared roads. The loop around the lake leads through a deep snowy fairytale landscape. At midday you reach the base of Aiguille Percée, surrounded by white peaks. The descent to the dam is scenic but requires vigilance for ice patches before warming up in Les Boisses."
+          },
+          "stops": [
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Mieten Sie ein Fatbike mit breiten Reifen für besseren Halt im Schnee.",
+                "hu": "Bérelj széles kerekű Fat Bike-ot a jobb havas tapadás érdekében.",
+                "ro": "Închiriați un fatbike cu anvelope late pentru o mai bună aderență pe zăpadă.",
+                "en": "Rent a fat bike with wide tires for better grip in the snow."
+              }
+            },
+            {
+              "name": "Lac de Tignes Circuit",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den geräumten Wegen, um nicht im Tiefschnee steckenzubleiben.",
+                "hu": "Maradj a letakarított utakon, hogy ne akadj el a mély hóban.",
+                "ro": "Rămâneți pe drumurile curățate pentru a nu rămâne blocat în zăpadă mare.",
+                "en": "Stay on the cleared paths to avoid getting stuck in deep snow."
+              }
+            },
+            {
+              "name": "Aiguille Percée Base",
+              "tip_5lang": {
+                "de": "Die Temperaturen sinken hier im Schatten der Berge sehr schnell.",
+                "hu": "A hőmérséklet itt a hegyek árnyékában nagyon gyorsan leesik.",
+                "ro": "Temperaturile scad foarte repede aici în umbra munților.",
+                "en": "Temperatures drop very quickly here in the shadows of the mountains."
+              }
+            },
+            {
+              "name": "Barrage du Chevril",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierendem Schmelzwasser in den Straßentunneln.",
+                "hu": "Vigyázz az úti alagutakban visszafagyó olvadékvízre.",
+                "ro": "Atenție la apa topită care îngheață la loc în tunelurile rutiere.",
+                "en": "Watch out for refreezing meltwater in the road tunnels."
+              }
+            },
+            {
+              "name": "Tignes Les Boisses",
+              "tip_5lang": {
+                "de": "Die tiefe Lage im Tal ist oft deutlich kälter als die Bergstationen.",
+                "hu": "A völgy mélyebb fekvése miatt itt gyakran hidegebb van, mint a hegyen.",
+                "ro": "Locația joasă din vale este adesea mai rece decât stațiile montane.",
+                "en": "The low elevation in the valley is often colder than the mountain stations."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten aus Merinowolle und winddichte Oberbekleidung.",
+              "Verwenden Sie spezielles Winter-Kettenöl, das bei Frost nicht zäh wird.",
+              "Achten Sie auf die verkürzte Akkulaufzeit bei E-Bikes durch die Kälte.",
+              "Meiden Sie Fahrten nach 16:00 Uhr, wenn die Straßenoberflächen gefrieren."
+            ],
+            "hu": [
+              "Viselj merinó gyapjú rétegeket és szélálló külső ruházatot.",
+              "Használj speciális téli láncolajat, ami fagyban sem dermed meg.",
+              "Számolj az e-bike akkumulátorának hideg miatti rövidebb üzemidejével.",
+              "Kerüld a biciklizést 16:00 után, amikor az utak felülete fagy kezd."
+            ],
+            "ro": [
+              "Purtați straturi de lână merino și îmbrăcăminte exterioară rezistentă la vânt.",
+              "Folosiți ulei de lanț special de iarnă care nu se îngroașă la ger.",
+              "Fiți atenți la durata redusă a bateriei bicicletelor electrice din cauza frigului.",
+              "Evitați deplasările după ora 16:00, când suprafața drumului începe să înghețe."
+            ],
+            "en": [
+              "Wear merino wool layers and windproof outerwear.",
+              "Use special winter chain oil that doesn't get thick in the frost.",
+              "Be aware of reduced e-bike battery life due to the cold.",
+              "Avoid riding after 16:00 when road surfaces begin to freeze."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -847,6 +1639,394 @@
           "Ensure you have enough fuel before heading up.",
           "Enjoy the drive on the Route des Grandes Alpes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos den imposanten Chevril-Staudamm, das Wahrzeichen des Tals. Bewundern Sie die riesige Herkules-Freske, bevor Sie die wunderschöne Kirche Saint-Jacques in Les Boisses besuchen. Später erkunden Sie das moderne Val Claret und beenden Ihren Ausflug am Ufer des Tignes-Sees, wo Sie die beeindruckende Bergkulisse in vollen Zügen genießen können.",
+            "hu": "Autóval könnyedén elérheti az impozáns Chevril-gátat, a völgy jelképét. Csodálja meg a hatalmas Herkules-freskót, majd látogasson el a Les Boisses-ban található gyönyörű Szent Jakab-templomhoz. Később fedezze fel a modern Val Claret negyedet, és zárja kirándulását a Tignes-tó partján, ahol teljes egészében kiélvezheti a lenyűgöző hegyi környezetet.",
+            "ro": "Cu mașina puteți ajunge cu ușurință la impozantul baraj Chevril, simbolul văii. Admirați fresca gigantică a lui Hercule înainte de a vizita frumoasa biserică Sfântul Iacob din Les Boisses. Mai târziu, explorați zona modernă Val Claret și încheiați excursia pe malul lacului Tignes, unde vă puteți bucura pe deplin de decorul montan impresionant.",
+            "en": "By car, you can effortlessly reach the imposing Chevril Dam, the symbol of the valley. Admire the giant Hercules mural before visiting the beautiful Saint-Jacques church in Les Boisses. Later, explore the modern Val Claret and end your trip on the shores of Lake Tignes, where you can fully enjoy the breathtaking mountain scenery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barrage du Chevril",
+                "hu": "Chevril-gát",
+                "ro": "Barajul Chevril",
+                "en": "Barrage du Chevril"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Aussichtspunkt direkt am Damm.",
+                "hu": "Parkoljon közvetlenül a gát melletti kilátónál.",
+                "ro": "Parcați la punctul de belvedere de lângă baraj.",
+                "en": "Park at the viewpoint right by the dam."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fresque d'Hercule",
+                "hu": "Herkules-freskó",
+                "ro": "Fresca lui Hercule",
+                "en": "La Fresque d'Hercule"
+              },
+              "tip_5lang": {
+                "de": "Riesiges Gemälde auf der Staumauer.",
+                "hu": "Hatalmas festmény a gát falán.",
+                "ro": "Pictură gigantică pe peretele barajului.",
+                "en": "Giant painting on the dam wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Szent Jakab-templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Replik der im See versunkenen Kirche.",
+                "hu": "A tóban elsüllyedt templom mása.",
+                "ro": "Replica bisericii scufundate în lac.",
+                "en": "Replica of the church submerged in the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Tignes Val Claret",
+                "hu": "Tignes Val Claret",
+                "ro": "Tignes Val Claret",
+                "en": "Tignes Val Claret"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen Parkplätze am Eingang.",
+                "hu": "Használja a bejáratnál lévő nagy parkolókat.",
+                "ro": "Folosiți parcările mari de la intrare.",
+                "en": "Use the large parking areas at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Tignes",
+                "hu": "Tignes-tó",
+                "ro": "Lacul Tignes",
+                "en": "Lac de Tignes"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Spaziergang am See.",
+                "hu": "Tökéletes hely egy tóparti sétához.",
+                "ro": "Perfect pentru o plimbare pe malul lacului.",
+                "en": "Perfect for a walk by the lake."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crozets",
+                "tip": "Kleine quadratische Buchweizennudeln."
+              },
+              {
+                "name": "Le Panoramic",
+                "tip": "Essen mit Bergblick am Gletscher."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crozets",
+                "tip": "Kis négyzet alakú hajdina tészta."
+              },
+              {
+                "name": "Le Panoramic",
+                "tip": "Ebéd hegyi kilátással a gleccsernél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crozets",
+                "tip": "Paste mici pătrate din hrișcă."
+              },
+              {
+                "name": "Le Panoramic",
+                "tip": "Masă cu vedere la munte pe ghețar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crozets",
+                "tip": "Small square buckwheat pasta."
+              },
+              {
+                "name": "Le Panoramic",
+                "tip": "Dining with mountain views at the glacier."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac du Chevril Ufer",
+                "tip": "Ruhiger Platz abseits der Station.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Espace Killy Panorama",
+                "tip": "Endlose Weite der Alpen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chevril-tó partja",
+                "tip": "Csendes hely távol a falutól.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Espace Killy panoráma",
+                "tip": "Végtelen alpesi látvány.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul lacului Chevril",
+                "tip": "Loc liniștit departe de stațiune.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Panorama Espace Killy",
+                "tip": "Întinderea infinită a Alpilor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac du Chevril Shore",
+                "tip": "Quiet spot away from the resort.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Espace Killy Panorama",
+                "tip": "Endless Alpine expanse.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sherpa Supermarché",
+                "tip": "Lokale Spezialitäten und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sherpa Supermarché",
+                "tip": "Helyi különlegességek és sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sherpa Supermarché",
+                "tip": "Specialități locale și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sherpa Supermarché",
+                "tip": "Local specialties and cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Bergstraßen haben viele Serpentinen, fahren Sie vorsichtig.",
+              "Parkplätze in Tignes sind im Winter oft kostenpflichtig.",
+              "Stellen Sie sicher, dass Ihr Tank ausreichend gefüllt ist.",
+              "Genießen Sie die Fahrt auf der Route des Grandes Alpes."
+            ],
+            "hu": [
+              "A hegyi utak szerpentinekkel teliek, vezessen óvatosan.",
+              "A parkolás Tignes-ben télen gyakran fizetős.",
+              "Győződjön meg róla, hogy elegendő üzemanyaga van.",
+              "Élvezze az autózást a Route des Grandes Alpes útvonalon."
+            ],
+            "ro": [
+              "Drumurile montane au multe serpentine, conduceți cu atenție.",
+              "Parcarea în Tignes este adesea cu plată în timpul iernii.",
+              "Asigurați-vă că aveți suficient combustibil.",
+              "Bucurați-vă de condus pe Route des Grandes Alpes."
+            ],
+            "en": [
+              "Mountain roads have many hairpins, drive carefully.",
+              "Parking in Tignes is often paid during winter.",
+              "Ensure you have enough fuel before heading up.",
+              "Enjoy the drive on the Route des Grandes Alpes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Staudamm, wo die Wolken tief hängen. Die Freske des Herkules wirkt im Regen besonders farbintensiv. Mittags besuchen Sie die geschützte Kirche Saint-Jacques, ein Juwel barocker Kunst. Den Nachmittag verbringen Sie in Val Claret, wo Sie bequem in der Nähe der Geschäfte parken können, bevor der Tag am nebligen See endet.",
+            "hu": "Az út a gátnál indul, ahol a felhők mélyen ülnek a völgyben. Herkules freskója az esőben különösen élénk színeket mutat. Délben a Szent Jakab templom védett belső terében gyönyörködhetünk a barokk művészetben. A délutánt Val Claret-ben töltjük, ahol kényelmesen parkolhatunk az üzletek közelében, majd a nap a ködös tónál zárul.",
+            "ro": "Călătoria începe la baraj, unde norii atârnă jos în vale. Fresca lui Hercule pare deosebit de intens colorată în ploaie. La prânz vizitați biserica protejată Saint-Jacques, o bijuterie a artei baroce. După-amiaza o petreceți în Val Claret, unde puteți parca comod lângă magazine, înainte ca ziua să se încheie la lacul cețos.",
+            "en": "The drive starts at the dam where clouds hang low in the valley. Hercules' fresco appears particularly color-intense in the rain. At midday, visit the sheltered Saint-Jacques church, a jewel of Baroque art. Spend the afternoon in Val Claret, parking conveniently near shops, before the day ends at the misty lake."
+          },
+          "stops": [
+            {
+              "name": "Barrage du Chevril",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist das Parken auf dem Damm zur Aussicht sicher.",
+                "hu": "Heves esőben is biztonságosan parkolhatsz a gáton a kilátáshoz.",
+                "ro": "Parcarea pe baraj pentru vedere este sigură chiar și pe ploaie torențială.",
+                "en": "Parking on the dam for the view is safe even in heavy rain."
+              }
+            },
+            {
+              "name": "La Fresque d'Hercule",
+              "tip_5lang": {
+                "de": "Betrachten Sie das riesige Gemälde direkt aus dem Seitenfenster.",
+                "hu": "Nézd meg az óriási festményt közvetlenül az autó ablakából.",
+                "ro": "Priviți pictura uriașă direct de la fereastra laterală a mașinii.",
+                "en": "View the giant painting directly from your side window."
+              }
+            },
+            {
+              "name": "Église Saint-Jacques",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen für eine Weile komplett zu entfliehen.",
+                "hu": "Ideális helyszín, hogy egy időre teljesen elmenekülj az eső elől.",
+                "ro": "Un loc ideal pentru a scăpa complet de ploaie pentru o vreme.",
+                "en": "An ideal spot to escape the rain completely for a while."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Golf', um trockenen Fußes in den Ort zu gelangen.",
+                "hu": "Használd a 'Golf' parkolóházat, hogy száraz lábbal juss a központba.",
+                "ro": "Folosiți parcarea supraetajată 'Golf' pentru a ajunge uscat în sat.",
+                "en": "Use the 'Golf' parking garage to reach the village dry-footed."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Seeufer ermöglichen Sicht ohne nass zu werden.",
+                "hu": "A közvetlen tóparti parkolók látványt nyújtanak anélkül, hogy eláznál.",
+                "ro": "Parcările de lângă lac permit vizionarea fără a vă uda.",
+                "en": "Parking lots directly by the lake allow viewing without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie auch tagsüber das Abblendlicht ein (Sichtbarkeit im Nebel).",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Passfahrt.",
+              "Vermeiden Sie bei Starkregen das Parken unter steilen Felswänden (Steinschlag).",
+              "In Tignes gibt es mehrere überdachte Parkhäuser, die das Einsteigen erleichtern."
+            ],
+            "hu": [
+              "Napközben is kapcsold be a tompított fényszórót a köd miatt.",
+              "A hágón való átkelés előtt ellenőrizd az ablaktörlők állapotát.",
+              "Heves esőben kerüld a meredek sziklafalak alatti parkolást a kőomlásveszély miatt.",
+              "Tignesben több fedett parkolóház is van, ami megkönnyíti a beszállást."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă și în timpul zilei pentru vizibilitate în ceață.",
+              "Verificați starea ștergătoarelor înainte de a urca pasul montan.",
+              "Evitați parcarea sub stânci abrupte în timpul ploilor torențiale (căderi de pietre).",
+              "În Tignes există mai multe parcări acoperite care facilitează urcarea în mașină."
+            ],
+            "en": [
+              "Turn on your low-beam headlights even during the day for visibility in fog.",
+              "Check the condition of your wipers before driving over mountain passes.",
+              "Avoid parking under steep rock walls during heavy rain (rockfall risk).",
+              "There are several covered parking garages in Tignes for easier boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt die winterliche Fahrt zum Staudamm vorbei an gewaltigen Eiszapfen. Die Herkules-Freske ist oft teilweise schneebedeckt, was ihr einen besonderen Reiz verleiht. Mittags bietet die Kirche Saint-Jacques eine spirituelle Pause in der Kälte. Nachmittags ist Val Claret das Zentrum des Geschehens, bevor Sie den Tag am zugefrorenen Lac de Tignes ausklingen lassen.",
+            "hu": "Reggel a téli autózás hatalmas jégcsapok mellett vezet a gát felé. A Herkules-freskót gyakran részben hó fedi, ami különleges bájt ad neki. Délben a Szent Jakab templom spirituális pihenőt nyújt a hidegben. Délután Val Claret a lüktető központ, mielőtt a napot a befagyott Lac de Tignes partján zárnánk.",
+            "ro": "Dimineața, drumul de iarnă spre baraj trece pe lângă țurțuri uriași de gheață. Fresca lui Hercule este adesea acoperită parțial de zăpadă, având un farmec aparte. La prânz, biserica Saint-Jacques oferă o pauză spirituală în frig. După-amiaza, Val Claret este centrul acțiunii, înainte de a încheia ziua pe malul lacului înghețat.",
+            "en": "In the morning, the winter drive to the dam passes by massive icicles. The Hercules fresco is often partially snow-covered, giving it a special charm. At lunch, the Saint-Jacques church offers a spiritual break in the cold. In the afternoon, Val Claret is the center of the action, before ending the day by the frozen Lac de Tignes."
+          },
+          "stops": [
+            {
+              "name": "Barrage du Chevril",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf der exponierten Dammkrone.",
+                "hu": "Vigyázz a hófúvásokra a gát nyitott tetején.",
+                "ro": "Atenție la troienele de zăpadă pe coroana expusă a barajului.",
+                "en": "Watch out for snow drifts on the exposed top of the dam."
+              }
+            },
+            {
+              "name": "La Fresque d'Hercule",
+              "tip_5lang": {
+                "de": "Das Kunstwerk ist im Winter oft wunderschön eingerahmt von Eis.",
+                "hu": "A műalkotást télen gyakran gyönyörűen keretezi a jég.",
+                "ro": "Opera de artă este adesea încadrată superb de gheață iarna.",
+                "en": "The artwork is often beautifully framed by ice in winter."
+              }
+            },
+            {
+              "name": "Église Saint-Jacques",
+              "tip_5lang": {
+                "de": "Die Kirche wird im Winter beheizt und bietet wohlige Wärme.",
+                "hu": "A templomot télen fűtik, így kellemes melegséget nyújt.",
+                "ro": "Biserica este încălzită iarna și oferă o căldură plăcută.",
+                "en": "The church is heated in winter and offers pleasant warmth."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Parken Sie bevorzugt im Parkhaus, um Schneeräumen zu vermeiden.",
+                "hu": "Lehetőleg parkolóházban állj meg, hogy elkerüld a hólapátolást.",
+                "ro": "Parcați de preferință într-o parcare acoperită pentru a evita deszăpezirea.",
+                "en": "Prefer parking in a garage to avoid snow shoveling later."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Schlittschuhläufer direkt vom Parkplatz.",
+                "hu": "Élvezd a korcsolyázók látványát közvetlenül a parkolóból.",
+                "ro": "Bucurați-vă de vederea patinatorilor direct din parcare.",
+                "en": "Enjoy the view of the ice skaters directly from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind im Winter absolut obligatorisch.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage (bis -20°C).",
+              "Heben Sie die Scheibenwischer beim Parken ab, damit sie nicht festfrieren.",
+              "Lassen Sie die Handbremse beim Parken gelöst (Gefahr des Festfrierens)."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc télen abszolút kötelező felszerelés.",
+              "Tölts fagyállót a szélvédőmosóba (-20°C-ig mérőt).",
+              "Parkoláskor hajtsd fel az ablaktörlőket, hogy ne fagyjanak az üveghez.",
+              "Parkoláskor hagyd kiengedve a kéziféket (fennáll a befagyás veszélye)."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt absolut obligatorii pe timp de iarnă.",
+              "Umpleți rezervorul de spălare a parbrizului cu lichid antigriz (-20°C).",
+              "Ridicați ștergătoarele când parcați pentru a nu îngheța pe parbriz.",
+              "Nu trageți frâna de mână când parcați (risc de înghețare)."
+            ],
+            "en": [
+              "Winter tires and snow chains are absolutely mandatory in winter.",
+              "Fill the windshield washer reservoir with antifreeze (down to -20°C).",
+              "Lift the wipers when parking so they don't freeze to the glass.",
+              "Leave the handbrake disengaged when parking (risk of freezing)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1079,34 +2259,343 @@
           "Buses are more frequent in winter than in summer.",
           "Check the time of the last evening bus back to your accommodation."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Shuttlesystem von Tignes, um die verschiedenen Stationsteile stressfrei zu erkunden. Beginnen Sie in Le Lac, genießen Sie den See und fahren Sie dann bequem ins höher gelegene Val Claret. Das Highlight ist die Fahrt mit der Standseilbahn zum Grande Motte Gletscher, die perfekt auf das Bussystem abgestimmt ist. Ein entspannter Tag ohne Parkplatzsuche.",
+            "hu": "Használja Tignes hatékony buszhálózatát, hogy stresszmentesen fedezze fel a falu különböző részeit. Kezdjen Le Lac-ban, élvezze a tavat, majd utazzon kényelmesen a magasabban fekvő Val Claret negyedbe. A nap fénypontja a Grande Motte gleccserhez vezető sikló, amely tökéletesen illeszkedik a buszrendszerhez. Pihentető nap parkolási nehézségek nélkül.",
+            "ro": "Folosiți sistemul eficient de navetă din Tignes pentru a explora diferitele părți ale stațiunii fără stres. Începeți în Le Lac, bucurați-vă de lac și apoi mergeți confortabil spre Val Claret. Punctul culminant este călătoria cu funicularul spre ghețarul Grande Motte, conectat perfect cu sistemul de autobuze. O zi relaxantă fără grija parcării.",
+            "en": "Use Tignes' efficient shuttle system to explore the different parts of the resort stress-free. Start in Le Lac, enjoy the lake, and then ride comfortably to the higher Val Claret. The highlight is the funicular ride to the Grande Motte glacier, which connects perfectly with the bus system. A relaxed day without the hassle of parking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tignes Le Lac",
+                "hu": "Tignes Le Lac",
+                "ro": "Tignes Le Lac",
+                "en": "Tignes Le Lac"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt für alle Linien.",
+                "hu": "Központi buszcsomópont minden járat számára.",
+                "ro": "Nod central de autobuz pentru toate liniile.",
+                "en": "Central bus hub for all lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Tignes",
+                "hu": "Tignes-tó",
+                "ro": "Lacul Tignes",
+                "en": "Lac de Tignes"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak pár lépés a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Just a few steps from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Tignes Val Claret",
+                "hu": "Tignes Val Claret",
+                "ro": "Tignes Val Claret",
+                "en": "Tignes Val Claret"
+              },
+              "tip_5lang": {
+                "de": "Die Shuttlebusse fahren alle 15-30 Minuten.",
+                "hu": "A buszok 15-30 percenként közlekednek.",
+                "ro": "Autobuzele circulă la fiecare 15-30 de minute.",
+                "en": "Shuttle buses run every 15-30 minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Motte Funiculaire",
+                "hu": "Grande Motte sikló",
+                "ro": "Funicularul Grande Motte",
+                "en": "Grande Motte Funicular"
+              },
+              "tip_5lang": {
+                "de": "Bequeme Erreichbarkeit mit dem Bus.",
+                "hu": "Kényelmesen elérhető busszal.",
+                "ro": "Accesibil confortabil cu autobuzul.",
+                "en": "Comfortably accessible by bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Genépi",
+                "tip": "Traditioneller Kräuterlikör der Alpen."
+              },
+              {
+                "name": "L'Escale Blanche",
+                "tip": "Gute Terrasse direkt in Le Lac."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Genépi",
+                "tip": "Hagyományos alpesi gyógynövénylikőr."
+              },
+              {
+                "name": "L'Escale Blanche",
+                "tip": "Kiváló terasz közvetlenül Le Lac-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Genépi",
+                "tip": "Lichior tradițional de plante din Alpi."
+              },
+              {
+                "name": "L'Escale Blanche",
+                "tip": "Terasă excelentă direct în Le Lac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Genépi",
+                "tip": "Traditional Alpine herbal liqueur."
+              },
+              {
+                "name": "L'Escale Blanche",
+                "tip": "Great terrace right in Le Lac."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferpromenade",
+                "tip": "Abendstimmung am See.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tóparti sétány",
+                "tip": "Esti hangulat a tónál.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada lacului",
+                "tip": "Atmosferă de seară la lac.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lakeside Promenade",
+                "tip": "Evening atmosphere by the lake.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenir-Shops Le Lac",
+                "tip": "Regionale Handwerkskunst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékboltok Le Lac",
+                "tip": "Regionális kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri Le Lac",
+                "tip": "Artizanat regional."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shops Le Lac",
+                "tip": "Regional craftsmanship."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Shuttlebusse sind innerhalb des Resorts kostenlos.",
+              "Laden Sie die Tignes-App für Live-Buszeiten herunter.",
+              "Die Busse sind im Winter häufiger als im Sommer.",
+              "Achten Sie auf die letzte Fahrt am Abend zurück zu Ihrer Unterkunft."
+            ],
+            "hu": [
+              "A buszjáratok a falun belül ingyenesek.",
+              "Töltse le a Tignes appot az élő buszmenetrendhez.",
+              "A buszok télen gyakrabban járnak, mint nyáron.",
+              "Figyeljen az utolsó járatra este a szállás felé."
+            ],
+            "ro": [
+              "Autobuzele de navetă sunt gratuite în interiorul stațiunii.",
+              "Descărcați aplicația Tignes pentru orele live de autobuz.",
+              "Autobuzele sunt mai frecvente iarna decât vara.",
+              "Fiți atenți la ultima cursă de seară spre cazare."
+            ],
+            "en": [
+              "The shuttle buses are free within the resort.",
+              "Download the Tignes app for live bus times.",
+              "Buses are more frequent in winter than in summer.",
+              "Check the time of the last evening bus back to your accommodation."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den kostenlosen Pendelbus 'Le Bus', um trocken durch Tignes zu kommen. Morgens am Seeufer bietet der Bus perfekte Aussichten ohne Regen. Mittags erreichen Sie Val Claret, wo Sie direkt vor den Passagen aussteigen. Der Nachmittag gehört der Grande Motte Standseilbahn, die Sie wettergeschützt in hochalpine Sphären entführt.",
+            "hu": "Használd az ingyenes 'Le Bus' ingajáratot, hogy szárazon közlekedj Tignesben. Reggel a tóparton a busz tökéletes kilátást nyújt az eső nélkül. Délben Val Claret-be érkezünk, ahol közvetlenül a bevásárlóutcák előtt szállhatsz le. A délután a Grande Motte siklóé, amely időjárástól védetten repít a magashegyi világba.",
+            "ro": "Folosiți autobuzul gratuit 'Le Bus' pentru a circula uscat prin Tignes. Dimineața, autobuzul oferă vederi perfecte pe malul lacului, fără ploaie. La prânz ajungeți în Val Claret, coborând chiar în fața pasajelor. După-amiaza aparține funicularului Grande Motte, care vă poartă protejat în zonele alpine înalte.",
+            "en": "Use the free 'Le Bus' shuttle to get around Tignes dryly. In the morning, the bus offers perfect views along the lakeshore without the rain. At midday you reach Val Claret, stepping off right in front of the shopping arcades. The afternoon belongs to the Grande Motte funicular, taking you sheltered into high alpine spheres."
+          },
+          "stops": [
+            {
+              "name": "Tignes Le Lac",
+              "tip_5lang": {
+                "de": "Die Haupthaltestelle ist groß und bietet guten Schutz vor Regen.",
+                "hu": "A fő buszmegálló tágas és jó védelmet nyújt az eső elől.",
+                "ro": "Stația principală este mare și oferă protecție bună împotriva ploii.",
+                "en": "The main bus stop is large and provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht durch die großen Fenster des modernen Busses.",
+                "hu": "Élvezd a kilátást a modern busz nagy ablakain keresztül.",
+                "ro": "Bucurați-vă de vedere prin ferestrele mari ale autobuzului modern.",
+                "en": "Enjoy the view through the large windows of the modern bus."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der überdachten Zentralstation 'Grande Motte'.",
+                "hu": "A busz közvetlenül a fedett központi 'Grande Motte' állomásnál áll meg.",
+                "ro": "Autobuzul oprește chiar la stația centrală acoperită 'Grande Motte'.",
+                "en": "The bus stops right at the covered central station 'Grande Motte'."
+              }
+            },
+            {
+              "name": "Grande Motte Funicular",
+              "tip_5lang": {
+                "de": "Die unterirdische Fahrt ist eine perfekte Schlechtwetter-Alternative.",
+                "hu": "A föld alatti utazás tökéletes alternatíva rossz idő esetén.",
+                "ro": "Călătoria subterană este o alternativă perfectă pe timp nefavorabil.",
+                "en": "The underground journey is a perfect bad-weather alternative."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Shuttle-Service 'Le Bus' ist innerhalb des Resorts komplett kostenlos.",
+              "In den Bussen herrscht bei Regen oft hohe Luftfeuchtigkeit; Kleidung lüften.",
+              "Die Busse fahren im 10-Minuten-Takt zwischen Le Lac und Val Claret.",
+              "Laden Sie die App 'Tignes' für Echtzeit-Infos zu den Busankünften herunter."
+            ],
+            "hu": [
+              "A 'Le Bus' transzferjárat a resorton belül teljesen ingyenes.",
+              "A buszokon esőben gyakran nagy a pára; próbáld szellőztetni a ruházatod.",
+              "A buszok 10 percenként járnak Le Lac és Val Claret között.",
+              "Töltsd le a 'Tignes' alkalmazást a buszok valós idejű érkezéséhez."
+            ],
+            "ro": [
+              "Serviciul de transfer 'Le Bus' este complet gratuit în interiorul stațiunii.",
+              "În autobuze este adesea umiditate ridicată pe ploaie; aerisiți hainele.",
+              "Autobuzele circulă la fiecare 10 minute între Le Lac și Val Claret.",
+              "Descărcați aplicația 'Tignes' pentru informații în timp real despre sosiri."
+            ],
+            "en": [
+              "The 'Le Bus' shuttle service is completely free within the resort.",
+              "Buses often have high humidity during rain; vent your clothing.",
+              "Buses run every 10 minutes between Le Lac and Val Claret.",
+              "Download the 'Tignes' app for real-time bus arrival information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Transit die bequemste Art, sich zwischen den Ortsteilen zu bewegen. Die warmen Busse bringen Sie morgens sicher zum See. Mittags erreichen Sie Val Claret inmitten des geschäftigen Skibetriebs. Nachmittags ist die Fahrt mit der Standseilbahn zum Gletscher ein absolutes Muss für jeden Winterbesucher, auch ohne Skier.",
+            "hu": "Télen a tömegközlekedés a legkényelmesebb módja a városrészek közötti mozgásnak. A fűtött buszok reggel biztonságban visznek a tóhoz. Délben érkezünk Val Claret-be a nyüzsgő síelő forgatagba. Délután a gleccserre vezető siklóút kötelező program minden téli látogatónak, síléc nélkül is.",
+            "ro": "Iarna, tranzitul este cel mai confortabil mod de a te deplasa între zonele stațiunii. Autobuzele calde vă duc în siguranță la lac dimineața. La prânz ajungeți în Val Claret, în mijlocul agitației schiorilor. După-amiaza, drumul cu funicularul spre ghețar este obligatoriu pentru orice vizitator.",
+            "en": "In winter, transit is the most comfortable way to move between resort areas. Heated buses take you safely to the lake in the morning. At lunch you reach Val Claret in the middle of the bustling ski scene. In the afternoon, the funicular ride to the glacier is a must-do for every winter visitor, even without skis."
+          },
+          "stops": [
+            {
+              "name": "Tignes Le Lac",
+              "tip_5lang": {
+                "de": "Achten Sie beim Einsteigen auf rutschige Böden durch schmelzenden Schnee.",
+                "hu": "Felszálláskor ügyelj a hótól nedves, csúszós padlóra.",
+                "ro": "Atenție la podeaua alunecoasă din cauza zăpezii topite la urcare.",
+                "en": "Watch out for slippery floors due to melting snow when boarding."
+              }
+            },
+            {
+              "name": "Lac de Tignes",
+              "tip_5lang": {
+                "de": "Der Bus ist oft voll mit Skifahrern; nehmen Sie Rücksicht auf die Ausrüstung.",
+                "hu": "A busz gyakran tele van síelőkkel; vigyázz a lécekre és botokra.",
+                "ro": "Autobuzul este adesea plin de schiori; atenție la echipamente.",
+                "en": "The bus is often full of skiers; be careful around their equipment."
+              }
+            },
+            {
+              "name": "Tignes Val Claret",
+              "tip_5lang": {
+                "de": "Vom Bus aus haben Sie den besten Blick auf die spektakulären Skipisten.",
+                "hu": "A buszból nyílik a legjobb kilátás a látványos sípályákra.",
+                "ro": "Din autobuz aveți cea mai bună vedere asupra pârtiilor spectaculoase.",
+                "en": "The bus offers the best views of the spectacular ski slopes."
+              }
+            },
+            {
+              "name": "Grande Motte Funicular",
+              "tip_5lang": {
+                "de": "Fußgänger ohne Skier benötigen ein spezielles Ticket für die Berg- und Talfahrt.",
+                "hu": "A sífelszerelés nélküli gyalogosoknak külön jegy kell a retúr úthoz.",
+                "ro": "Pietonii fără schiuri au nevoie de un bilet special pentru dus-întors.",
+                "en": "Pedestrians without skis need a special ticket for the round trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt, ziehen Sie im Bus Ihre Jacke eventuell auf.",
+              "Skier und Boards müssen in den Außenfächern oder Halterungen verstaut werden.",
+              "Zu den Stoßzeiten (Liftschluss gegen 17:00) können die Busse sehr voll sein.",
+              "Tragen Sie feste Winterschuhe für den Weg zwischen Haltestelle und Ziel."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, érdemes lehet kigombolni a kabátot utazás közben.",
+              "A síléceket és deszkákat a külső tartókban vagy rekeszekben kell elhelyezni.",
+              "Csúcsidőben (liftzárás 17:00 körül) a buszok nagyon zsúfoltak lehetnek.",
+              "Viselj stabil téli bakancsot a megálló és az úti cél közötti gyalogláshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, poate doriți să desfaceți haina la interior.",
+              "Schiurile și plăcile trebuie depozitate în suporturile exterioare.",
+              "La orele de vârf (închiderea lifturilor pe la 17:00) autobuzele pot fi pline.",
+              "Purtați ghete de iarnă solide pentru drumul între stație și destinație."
+            ],
+            "en": [
+              "Buses are well heated, you might want to unzip your jacket inside.",
+              "Skis and boards must be stored in the exterior racks or compartments.",
+              "At peak times (lift closing around 17:00), buses can be very crowded.",
+              "Wear sturdy winter boots for the walk between the stop and your destination."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.tignes.net/en/webcams",
-    "tourism_office": "https://www.tignes.net/",
-    "events": "https://www.tignes.net/en/agenda",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Tignes ist eines der internationalsten Skigebiete Frankreichs, in Bars und Hotels reicht oft Englisch, viele Skilehrer sind Briten oder Skandinavier. Ein freundliches 'bonjour' beim Eintreten in eine franzoesische Boulangerie wird trotzdem geschaetzt.",
-      "hu": "Tignes Franciaorszag egyik legnemzetkozibb si terulete, baroknal es hoteleknel az angol legtobbszor eleg, sok sioktato brit vagy skandinav. Egy baratsagos 'bonjour' a francia pekseg ajtajaban megis sokat szamit.",
-      "ro": "Tignes e printre cele mai internationale statiuni de schi din Franta, in baruri si hoteluri engleza ajunge, multi instructori sunt britanici sau scandinavi. Un 'bonjour' politicos la intrarea in boulangerie e mereu apreciat.",
-      "en": "Tignes is one of France's most international ski resorts — English works fine in bars and hotels, and many instructors are British or Scandinavian. Still, a friendly 'bonjour' when you walk into a French boulangerie always lands well."
-    },
-    "best_time_to_visit": {
-      "de": "Dank hoher Lage (2100m) zuverlaessig schneesicher von November bis Mai, Sommerski auf dem Grande-Motte-Gletscher bis Juli. Beste Skitage Januar-Februar, Ostern oft sonnig und voll. November Lifte langsam ans Netz, viele Restaurants noch dicht.",
-      "hu": "A 2100 m-es magassagnak koszonhetoen november-majus megbizhato a ho, a Grande Motte gleccseren juliusig nyari sielles. A legjobb si napok januar-februar, husvet napos es zsufolt. Novemberben a felvonok lassan indulnak, sok etterem meg zarva.",
-      "ro": "La 2100 m altitudine zapada e sigura din noiembrie pana in mai, schi de vara pe ghetarul Grande Motte pana in iulie. Cele mai bune zile de schi sunt ianuarie-februarie, Pastele e insorit dar aglomerat. In noiembrie partiile se deschid lent, multe restaurante inca inchise.",
-      "en": "At 2100m altitude, snow is reliable from November to May, with summer skiing on the Grande Motte glacier into July. Best ski days are January-February; Easter is sunny but packed. In November lifts open slowly and many restaurants are still shut."
-    },
-    "neighborhood_warnings": {
-      "de": "Tignes-le-Lac und Val Claret sind die belebten Zentren, der Stausee dazwischen kann nachts windig und bitterkalt sein. Off-Piste-Lawinengefahr regelmaessig hoch, Guide nehmen. In der Hochsaison Restaurants ohne Reservierung selten Platz.",
-      "hu": "Tignes-le-Lac es Val Claret a pezsgo kozpontok, kozottuk a viztarozo ejjel szeles es csontig hideg lehet. Off-pisten gyakran magas a lavinaveszely, vegy vezetot. Foszezonban etteremben foglalas nelkul ritkan jutsz helyhez.",
-      "ro": "Tignes-le-Lac si Val Claret sunt centrele vibrante, intre ele lacul de acumulare poate fi vantos si geros noaptea. Pericol mare de avalansa off-piste, ia ghid. In sezonul de varf, restaurantele fara rezervare rar au locuri.",
-      "en": "Tignes-le-Lac and Val Claret are the lively hubs, with the reservoir between them often windy and bitter cold at night. Off-piste avalanche risk is regularly high, hire a guide. In peak season, restaurants without a booking rarely have space."
-    },
-    "parking_real_time": ""
   }
 }

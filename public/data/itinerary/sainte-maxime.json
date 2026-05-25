@@ -955,32 +955,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.sainte-maxime.com/",
-    "events": "https://www.sainte-maxime.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.varlib.fr/",
-    "language_tips": {
-      "de": "Sainte-Maxime ist Familien-Riviera, weniger glamouroes als Saint-Tropez gegenueber. Franzoesische Familien dominieren, dazu Briten und Deutsche. Englisch klappt in Hotels und Strandrestaurants, im Hafen und auf dem Markt Franzoesisch.",
-      "hu": "Sainte-Maxime csaladi Riviera, kevesbe glamuros, mint a vele szembeni Saint-Tropez. Francia csaladok dominalnak, mellette britek es nemetek. Az angol megy hotelekben, strandettermekben, a kikotoben es piacon francia.",
-      "ro": "Sainte-Maxime e Riviera familiala, mai putin glamour decat Saint-Tropez de pe celalalt mal. Familiile franceze domina, alaturi britanici si germani. Engleza merge in hoteluri si restaurante de plaja, in port si piata domina franceza.",
-      "en": "Sainte-Maxime is family Riviera — less glamorous than Saint-Tropez across the bay. French families dominate, plus British and German visitors. English works at hotels and beach restaurants, but at the port and market it's French."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September perfekt fuer Strand und Bootsfahrten nach Saint-Tropez, Meer 20+ Grad. Juli-August voll und teuer, aber lebhaftes Strandleben. Im Winter sehr ruhig, viele Restaurants im November-Januar geschlossen.",
-      "hu": "Majus-junius es szeptember tokeletes a strandhoz es a hajos kirandulasokhoz Saint-Tropez fele, a tenger 20 fok folott. Julius-augusztus zsufolt es draga, de elenk strandi elet. Telen nagyon csendes, sok etterem november-januar kozott zar.",
-      "ro": "Mai-iunie si septembrie sunt perfecte pentru plaja si excursii cu vaporasul la Saint-Tropez, marea peste 20 grade. Iulie-august sunt aglomerate si scumpe, dar viata pe plaja e vibranta. Iarna foarte linistita, multe restaurante inchise din noiembrie pana in ianuarie.",
-      "en": "May-June and September are perfect for the beach and boat trips to Saint-Tropez — sea over 20°C. July-August is crowded and pricey but lively. Winter is very quiet, with many restaurants closed from November to January."
-    },
-    "neighborhood_warnings": {
-      "de": "Im Hochsommer Verkehr Richtung Saint-Tropez stundenlang, lieber das Wasser-Shuttle nehmen. Strandzugaenge am Stadtstrand kostenlos, Privatstrandsektoren teurer als Saint-Tropez. Parkplaetze in der Altstadt limitiert.",
-      "hu": "Foszezonban Saint-Tropez fele orakon at all a dugo, jobb a vizi-shuttle. A varosi strandok ingyenesek, a magan strandszektor a Saint-Tropez-nel is dragabb. A ovarosi parkolas korlatozott.",
-      "ro": "Vara, traficul spre Saint-Tropez sta ore in sir, mai bine cu naveta pe apa. Plaja orasului e gratis, sectoarele private sunt mai scumpe decat in Saint-Tropez. Parcari in centrul vechi sunt limitate.",
-      "en": "Peak summer traffic toward Saint-Tropez crawls for hours, take the water shuttle instead. Town beaches are free; private beach sectors actually pricier than at Saint-Tropez. Parking in the old town is limited."
-    },
-    "parking_real_time": ""
   }
 }

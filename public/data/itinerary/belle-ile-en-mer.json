@@ -261,6 +261,383 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Watch the tides when visiting beaches."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt im charmanten Hafen von Le Palais, wo die bunten Fassaden die Ankunft der Schiffe begrüßen. Ein kurzer Aufstieg führt zur majestätischen Zitadelle Vauban, die seit Jahrhunderten über den Atlantik wacht.\n\nMittags schlendern Sie entlang der Kais und genießen die Meeresbrise. Die engen Gassen der Unterstadt laden zum Verweilen und Entdecken kleiner Kunstgalerien ein.\n\nAm Nachmittag stärken Sie sich in einem lokalen Bistro mit bretonischen Spezialitäten. Die entspannte Atmosphäre der Insel spiegelt sich in der Gastfreundschaft der Einheimischen wider.\n\nZum Abschluss spazieren Sie zur Plage de Ramonette, einer versteckten Bucht, die ideal für eine kurze Erfrischung im kristallklaren Wasser ist, bevor der Tag gemütlich ausklingt.",
+            "hu": "A nap Le Palais bájos kikötőjében indul, ahol a színes homlokzatok köszöntik a hajók érkezését. Egy rövid emelkedő vezet a fenséges Vauban-citadellához, amely évszázadok óta őrzi az Atlanti-óceánt.\n\nDélben a rakpartok mentén sétálva élvezheti a tengeri szellőt. Az alsóváros szűk utcái megállásra és a kis művészeti galériák felfedezésére csábítanak.\n\nDélután egy helyi bisztróban breton specialitásokkal frissülhet fel. A sziget nyugodt légköre tükröződik a helyiek vendégszeretetében.\n\nZárásként sétáljon el a Ramonette strandra, amely egy rejtett öböl, ideális egy rövid frissítőre a kristálytiszta vízben, mielőtt a nap kényelmesen véget érne.",
+            "ro": "Ziua începe în portul fermecător Le Palais, unde fațadele colorate salută sosirea navelor. O scurtă urcare duce la maiestuoasa Citadelă Vauban, care veghează asupra Atlanticului de secole.\n\nLa prânz, plimbați-vă de-a lungul cheiurilor și bucurați-vă de briza mării. Străzile înguste ale orașului de jos vă invită să poposiți și să descoperiți mici galerii de artă.\n\nDupă-amiaza, vă puteți delecta într-un bistro local cu specialități bretone. Atmosfera relaxată a insulei se reflectă în ospitalitatea localnicilor.\n\nLa final, mergeți la Plage de Ramonette, un golf ascuns, ideal pentru o scurtă reîmprospătare în apa cristalină, înainte ca ziua să se încheie liniștit.",
+            "en": "Your day begins in the charming port of Le Palais, where colorful facades welcome the arriving ships. A short climb leads to the majestic Vauban Citadel, which has guarded the Atlantic for centuries.\n\nAt noon, stroll along the quays and enjoy the sea breeze. The narrow streets of the lower town invite you to linger and discover small art galleries.\n\nIn the afternoon, recharge in a local bistro with Breton specialties. The island's relaxed atmosphere is reflected in the hospitality of the locals.\n\nFinally, walk to Plage de Ramonette, a hidden cove ideal for a quick dip in the crystal-clear water before the day ends peacefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Palais",
+                "hu": "Le Palais kikötője",
+                "ro": "Portul Le Palais",
+                "en": "Port of Le Palais"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Einlaufen der Fähren bei einem Kaffee.",
+                "hu": "Nézze a kompok érkezését egy kávé mellett.",
+                "ro": "Urmăriți sosirea feriboturilor la o cafea.",
+                "en": "Watch the ferries arrive while enjoying a coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle Vauban",
+                "hu": "Vauban citadella",
+                "ro": "Citadela Vauban",
+                "en": "Vauban Citadel"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie eine Führung, um die unterirdischen Gänge zu sehen.",
+                "hu": "Foglaljon vezetést a földalatti járatok megtekintéséhez.",
+                "ro": "Rezervați un tur pentru a vedea pasajele subterane.",
+                "en": "Book a tour to see the underground passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Quai de l'Acadie",
+                "hu": "Quai de l'Acadie sétány",
+                "ro": "Promenada Quai de l'Acadie",
+                "en": "Quai de l'Acadie"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Blick auf die bunten Häuserzeilen.",
+                "hu": "Kiváló kilátás a színes házsorokra.",
+                "ro": "Vedere excelentă asupra caselor colorate.",
+                "en": "Excellent view of the colorful rows of houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen im Zentrum",
+                "hu": "Ebéd a belvárosban",
+                "ro": "Prânz în centru",
+                "en": "Lunch in the center"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie eine Galette mit gesalzener Butter.",
+                "hu": "Kóstoljon meg egy sós vajas palacsintát.",
+                "ro": "Încercați o galetă cu unt sărat.",
+                "en": "Try a savory galette with salted butter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Ramonette",
+                "hu": "Ramonette strand",
+                "ro": "Plaja Ramonette",
+                "en": "Ramonette Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nächste Badestrand direkt am Stadtrand.",
+                "hu": "A legközelebbi fürdőstrand közvetlenül a város szélén.",
+                "ro": "Cea mai apropiată plajă chiar la marginea orașului.",
+                "en": "The nearest swimming beach right on the edge of town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie L'Amirauté",
+                "tip": "Herzhafte Galettes mit lokalen Jakobsmuscheln."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Probieren Sie diesen berühmten Butterkuchen in der Bäckerei am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie L'Amirauté",
+                "tip": "Kiadós sós palacsinták helyi fésűskagylóval."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Kóstolja meg ezt a híres vajas süteményt a kikötői pékségben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie L'Amirauté",
+                "tip": "Galete sărate cu scoici locale."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Încercați această celebră prăjitură cu unt la brutăria din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie L'Amirauté",
+                "tip": "Hearty galettes with local scallops."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Try this famous butter cake at the bakery by the port."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bastion de la Mer",
+                "tip": "Ein ruhiger Ort auf der Zitadelle mit Blick auf das offene Meer.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bastion de la Mer",
+                "tip": "Egy csendes hely a citadellán, kilátással a nyílt tengerre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bastion de la Mer",
+                "tip": "Un loc liniștit pe citadelă cu vedere la marea deschisă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bastion de la Mer",
+                "tip": "A quiet spot on the citadel overlooking the open sea.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz Le Palais",
+                "tip": "Täglicher Markt mit Inselhonig und Meersalz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Palais piac",
+                "tip": "Napi piac szigeti mézzel és tengeri sóval."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Le Palais",
+                "tip": "Piață zilnică cu miere de pe insulă și sare de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Palais Market",
+                "tip": "Daily market with island honey and sea salt."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie die Fähre im Voraus, besonders im Sommer.",
+              "Die Zitadelle ist montags oft nur teilweise zugänglich.",
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+              "Achten Sie auf die Gezeiten bei Strandbesuchen."
+            ],
+            "hu": [
+              "Foglalja le előre a kompot, különösen nyáron.",
+              "A citadella hétfőnként gyakran csak részben látogatható.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Ügyeljen az árapályra a strandoláskor."
+            ],
+            "ro": [
+              "Rezervați feribotul în avans, mai ales vara.",
+              "Citadela este adesea deschisă doar parțial lunea.",
+              "Purtați pantofi confortabili pentru străzile pietruite.",
+              "Fiți atenți la maree când vizitați plajele."
+            ],
+            "en": [
+              "Book the ferry in advance, especially in summer.",
+              "The citadel is often only partially accessible on Mondays.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Watch the tides when visiting beaches."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Hafen von Le Palais, doch die massive Vauban-Zitadelle bietet perfekten Schutz und tiefen Einblick in die Inselgeschichte. Mittags flüchten wir in die gemütlichen Bistros am Quai, um dem Atlantikregen zu entkommen. Der Nachmittag gehört der rauen Küstenatmosphäre am Strand von Ramonette, wo die Gischt mit dem Regen verschmilzt, bevor wir den Abend trocken im Zentrum ausklingen lassen.",
+            "hu": "Az esős reggel Le Palais kikötőjében indul, de a Vauban-citadella vastag falai tökéletes menedéket és történelmi kalandot nyújtanak. Ebédre a kikötő menti bisztrók melegébe húzódunk az atlanti eső elől. Délután a Ramonette strand vad, szeles arcát csodáljuk meg vízhatlan ruhában, majd az estét a városközpont egyik hangulatos, fedett teraszán zárjuk egy forró itallal.",
+            "ro": "O dimineață ploioasă începe în portul Le Palais, dar Citadela Vauban oferă adăpostul perfect și o incursiune în istoria insulei. La prânz, ne retragem în bistrourile primitoare de pe chei pentru a scăpa de ploaia atlantică. După-amiaza aparține atmosferei dramatice de pe plaja Ramonette, unde spuma mării se contopește cu ploaia, înainte de a încheia seara la căldură, în centrul orașului.",
+            "en": "A rainy morning starts at Le Palais port, but the massive Vauban Citadel provides perfect shelter and a deep dive into island history. At noon, we retreat to cozy bistros along the quay to escape the Atlantic rain. The afternoon belongs to the raw coastal atmosphere at Ramonette Beach, where sea spray meets the rain, before ending the evening dry and comfortable in the town center."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Geschäfte am Hafen findet man Schutz vor ersten Schauern.",
+                "hu": "A kikötői üzletek árkádjai alatt védelmet találunk az első záporok elől.",
+                "ro": "Sub arcadele magazinelor din port găsiți protecție împotriva primelor averse.",
+                "en": "Under the arcades of the harbor shops, you can find shelter from the first showers."
+              }
+            },
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume und das Museum, um während heftiger Regengüsse trocken zu bleiben.",
+                "hu": "Használja ki a belső tereket és a múzeumot, hogy szárazon maradjon a heves esőben.",
+                "ro": "Folosiți spațiile interioare și muzeul pentru a rămâne uscați în timpul ploilor abundente.",
+                "en": "Use the indoor spaces and museum to stay dry during heavy downpours."
+              }
+            },
+            {
+              "name": "Quai de l'Acadie",
+              "tip_5lang": {
+                "de": "Ein kurzer, stürmischer Spaziergang; achten Sie auf glitschiges Kopfsteinpflaster.",
+                "hu": "Rövid, viharos séta; ügyeljen a csúszós macskakövekre a parton.",
+                "ro": "O plimbare scurtă și furtunoasă; atenție la pavajul alunecos de pe chei.",
+                "en": "A short, stormy walk; watch out for slippery cobblestones along the quay."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "content": "Gastro",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Wintergarten, um den Blick auf den Regen zu genießen.",
+                "hu": "Válasszon üvegteraszos éttermet, hogy élvezze az eső látványát az ebéd mellé.",
+                "ro": "Alegeți un restaurant cu verandă pentru a vă bucura de vederea ploii în timp ce mâncați.",
+                "en": "Choose a restaurant with a conservatory to enjoy the view of the rain while dining."
+              }
+            },
+            {
+              "name": "Ramonette Beach",
+              "tip_5lang": {
+                "de": "Perfekt für 'Storm-Watching', aber halten Sie Abstand zum steigenden Meeresspiegel.",
+                "hu": "Tökéletes a vihar megfigyeléséhez, de tartson távolságot a hullámzó tengertől.",
+                "ro": "Perfect pentru observarea furtunii, dar păstrați distanța față de mare.",
+                "en": "Perfect for storm-watching, but keep a safe distance from the surging tide."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständig wasserdichte Kleidung ist auf der Insel Pflicht.",
+              "Die Zitadelle ist der beste Ort für längere Regenschauer.",
+              "Achten Sie auf windfeste Regenschirme; der Wind hier ist stark.",
+              "Nutzen Sie die Zeit für das Inselmuseum in der Festung.",
+              "Die Hafenbistros sind bei Regen schnell voll, reservieren Sie früh."
+            ],
+            "hu": [
+              "A teljesen vízálló ruházat kötelező a szigeten.",
+              "A citadella a legjobb hely a hosszabb esőzések idejére.",
+              "Válasszon szélálló esernyőt; itt az atlanti szél igen erős.",
+              "Használja ki az időt a várban található szigetmúzeum megtekintésére.",
+              "A kikötői bisztrók esőben gyorsan megtelnek, érdemes időben érkezni."
+            ],
+            "ro": [
+              "Îmbrăcămintea complet impermeabilă este obligatorie pe insulă.",
+              "Citadela este cel mai bun loc pentru perioadele lungi de ploaie.",
+              "Folosiți umbrele rezistente la vânt; vântul de aici este puternic.",
+              "Profitați de timp pentru a vizita muzeul insulei din cadrul fortăreței.",
+              "Bistrourile din port se umplu repede când plouă, rezervați din timp."
+            ],
+            "en": [
+              "Fully waterproof clothing is mandatory on the island.",
+              "The Citadel is the best place to spend long periods of rain.",
+              "Use windproof umbrellas; the Atlantic wind here is very strong.",
+              "Take the opportunity to visit the island museum inside the fortress.",
+              "Harbor bistros fill up quickly when it rains, so arrive early."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft im Hafen von Le Palais ist erfrischend, während die Zitadelle in einsamer Pracht über dem Meer thront. Mittags genießen wir die Ruhe der Nebensaison bei einem wärmenden Eintopf im leeren Ortskern. Der kurze Nachmittag führt uns zum Quai de l'Acadie, bevor die Dämmerung gegen 17 Uhr die Festungsmauern in goldenes Licht taucht und wir uns in die Wärme zurückziehen.",
+            "hu": "A friss téli levegő Le Palais kikötőjében felfrissít, miközben a citadella magányos büszkeséggel trónol a tenger felett. Ebédre a holtszezon nyugalmát élvezzük egy melengető egytálétellel a csendes városközpontban. A rövid délután a Quai de l'Acadie-n ér minket, mielőtt az 5 órai naplemente aranyba vonná a várfalakat, mi pedig a szállásunk melegébe vonulunk.",
+            "ro": "Aerul proaspăt de iarnă din portul Le Palais este revigorant, în timp ce citadela tronează cu o mândrie solitară deasupra mării. La prânz, ne bucurăm de liniștea sezonului rece cu o tocană caldă în centrul gol al orașului. Scurta după-amiază ne poartă pe Quai de l'Acadie, înainte ca apusul de la ora 17 să scalde zidurile fortăreței în lumină aurie.",
+            "en": "The crisp winter air in Le Palais harbor is refreshing, while the Citadel stands in solitary splendor above the sea. At noon, enjoy the off-season peace with a warming stew in the quiet town center. The short afternoon leads to Quai de l'Acadie before the 5 PM sunset bathes the fortress walls in golden light, signaling a retreat to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a csendet a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniștea portului fără mulțimile de turiști de vară.",
+                "en": "Enjoy the silence of the harbor without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind auf den Wällen sehr kalt sein kann.",
+                "hu": "A réteges öltözködés fontos, a várfalakon a szél metsző lehet.",
+                "ro": "Îmbrăcămintea groasă este esențială, vântul pe ziduri poate fi foarte rece.",
+                "en": "Warm clothing is essential as the wind on the ramparts can be very cold."
+              }
+            },
+            {
+              "name": "Quai de l'Acadie",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne bietet fantastisches Licht für Fotos.",
+                "hu": "Az alacsony téli napállás fantasztikus fényeket kínál a fotózáshoz.",
+                "ro": "Soarele jos de iarnă oferă o lumină fantastică pentru fotografii.",
+                "en": "The low winter sun provides fantastic light for photography."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten; im Winter haben weniger Lokale offen.",
+                "hu": "Ellenőrizze a nyitvatartást; télen kevesebb hely van nyitva.",
+                "ro": "Verificați programul; iarna sunt deschise mai puține localuri.",
+                "en": "Check opening hours; fewer places are open during the winter season."
+              }
+            },
+            {
+              "name": "Ramonette Beach",
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang; perfekt zum Durchatmen.",
+                "hu": "Magányos tengerparti séta; tökéletes a feltöltődéshez.",
+                "ro": "O plimbare solitară pe plajă; perfectă pentru relaxare.",
+                "en": "A solitary beach walk; perfect for clearing your head."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist bereits gegen 17:00 Uhr.",
+              "Viele Cafés haben Betriebsferien; planen Sie im Voraus.",
+              "Die Fähren fahren seltener und sind wetterabhängig.",
+              "Tragen Sie winddichte Kleidung, auch wenn die Sonne scheint.",
+              "Die Zitadelle hat im Winter eingeschränkte Besuchszeiten."
+            ],
+            "hu": [
+              "A naplemente már délután 5 óra körül bekövetkezik.",
+              "Sok kávézó téli szünetet tart; tervezze meg előre az étkezést.",
+              "A kompok ritkábban járnak és függenek az időjárástól.",
+              "Viseljen szélálló ruhát, még akkor is, ha süt a nap.",
+              "A citadella télen korlátozott látogatási idővel üzemel."
+            ],
+            "ro": [
+              "Apusul soarelui este deja în jurul orei 17:00.",
+              "Multe cafenele au vacanță de iarnă; planificați mesele în avans.",
+              "Feriboturile circulă mai rar și depind de starea vremii.",
+              "Purtați haine rezistente la vânt, chiar dacă soarele strălucește.",
+              "Citadela are program de vizitare redus în timpul iernii."
+            ],
+            "en": [
+              "Sunset occurs as early as 5:00 PM.",
+              "Many cafes are closed for winter holidays; plan ahead.",
+              "Ferries run less frequently and are subject to weather conditions.",
+              "Wear windproof clothing even if the sun is shining.",
+              "The Citadel has restricted visiting hours during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -523,6 +900,398 @@
           "Avoid main roads and use the marked cycle paths.",
           "Check the wind report before departure."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad entdecken Sie die wahre Weite der Belle-Île. Von Le Palais führt der Weg nach Sauzon, einem Fischerort wie aus dem Bilderbuch. Die frische Meeresluft begleitet Sie auf dem Weg zur Nordspitze.\n\nAn der Pointe des Poulains verschmelzen Himmel und Meer. Hier residierte einst Sarah Bernhardt, verzaubert von der wilden Schönheit der Klippen. Ein Ort der Stille und Inspiration.\n\nDie Route führt weiter entlang der Côte Sauvage. Die Grotte de l'Apothicairerie zeigt die unbändige Kraft des Atlantiks, der die Felsen über Jahrtausende geformt hat.\n\nZum Abschluss erreichen Sie den Großen Leuchtturm von Goulphar. Der Blick von oben über die gesamte Insel ist die Belohnung für die Fahrt, bevor es zurück zum Hafen geht.",
+            "hu": "Kerékpárral fedezheti fel Belle-Île valódi kiterjedését. Le Palais-ból az út Sauzonba vezet, amely egy mesébe illő halászfalu. A friss tengeri levegő kíséri útját az északi csúcs felé.\n\nA Pointe des Poulains-nál az ég és a tenger összeolvad. Itt lakott egykor Sarah Bernhardt, akit lenyűgözött a sziklák vad szépsége. A csend és az inspiráció helye ez.\n\nAz útvonal tovább halad a Côte Sauvage mentén. Az Apothicairerie-barlang megmutatja az Atlanti-óceán féktelen erejét, amely évezredek alatt formálta a sziklákat.\n\nZárásként eléri a Goulphar világítótornyot. A fentről nyíló kilátás az egész szigetre a jutalom a tekerésért, mielőtt visszatérne a kikötőbe.",
+            "ro": "Cu bicicleta veți descoperi adevărata întindere a insulei Belle-Île. De la Le Palais, drumul duce spre Sauzon, un sat de pescari desprins din cărțile poștale. Aerul proaspăt al mării vă însoțește spre vârful nordic.\n\nLa Pointe des Poulains, cerul și marea se contopesc. Aici a locuit cândva Sarah Bernhardt, fermecată de frumusețea sălbatică a stâncilor. Un loc de liniște și inspirație.\n\nTraseul continuă de-a lungul Côte Sauvage. Grotte de l'Apothicairerie arată forța neîmblânzită a Atlanticului, care a modelat stâncile de milenii.\n\nLa final, ajungeți la Marele Far din Goulphar. Vederea de sus peste întreaga insulă este răsplata pentru drum, înainte de a vă întoarce în port.",
+            "en": "By bike, you will discover the true expanse of Belle-Île. From Le Palais, the path leads to Sauzon, a picture-perfect fishing village. The fresh sea air accompanies you on your way to the northern tip.\n\nAt Pointe des Poulains, sky and sea merge. Sarah Bernhardt once resided here, enchanted by the wild beauty of the cliffs. A place of silence and inspiration.\n\nThe route continues along the Côte Sauvage. The Grotte de l'Apothicairerie shows the irrepressible power of the Atlantic, which has shaped the rocks over millennia.\n\nFinally, you reach the Grand Lighthouse of Goulphar. The view from the top over the entire island is the reward for the ride before heading back to the port."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Palais",
+                "hu": "Le Palais kikötője",
+                "ro": "Portul Le Palais",
+                "en": "Port of Le Palais"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie Ihr E-Bike direkt am Quai.",
+                "hu": "Béreljen elektromos kerékpárt közvetlenül a rakparton.",
+                "ro": "Închiriați o bicicletă electrică direct pe chei.",
+                "en": "Rent your e-bike directly on the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Sauzon",
+                "hu": "Sauzon kikötője",
+                "ro": "Portul Sauzon",
+                "en": "Port of Sauzon"
+              },
+              "tip_5lang": {
+                "de": "Das malerischste Fischerdorf der Insel.",
+                "hu": "A sziget legfestőibb halászfaluja.",
+                "ro": "Cel mai pitoresc sat de pescari de pe insulă.",
+                "en": "The most picturesque fishing village on the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe des Poulains",
+                "hu": "Poulains-fok",
+                "ro": "Pointe des Poulains",
+                "en": "Pointe des Poulains"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Leuchtturm bei Ebbe zu Fuß.",
+                "hu": "Apálykor gyalog is megközelítheti a világítótornyot.",
+                "ro": "Vizitați farul pe jos în timpul refluxului.",
+                "en": "Visit the lighthouse on foot during low tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort von Sarah Bernhardt",
+                "hu": "Sarah Bernhardt erőd",
+                "ro": "Fortul Sarah Bernhardt",
+                "en": "Sarah Bernhardt's Fort"
+              },
+              "tip_5lang": {
+                "de": "Das ehemalige Sommerhaus der berühmten Tragödin.",
+                "hu": "A híres tragika egykori nyaralója.",
+                "ro": "Fosta casă de vară a celebrei actrițe.",
+                "en": "The former summer home of the famous actress."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotte de l'Apothicairerie",
+                "hu": "Patika-barlang",
+                "ro": "Grotte de l'Apothicairerie",
+                "en": "Apothicairerie Cave"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Klippenformationen an der Wildküste.",
+                "hu": "Látványos sziklaformációk a vadparton.",
+                "ro": "Formațiuni spectaculoase de stânci pe coasta sălbatică.",
+                "en": "Spectacular cliff formations on the wild coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Leuchtturm (Goulphar)",
+                "hu": "Goulphar világítótorony",
+                "ro": "Marele Far (Goulphar)",
+                "en": "Grand Lighthouse (Goulphar)"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie hinauf für einen 360-Grad-Inselblick.",
+                "hu": "Másszon fel a 360 fokos szigeti panorámáért.",
+                "ro": "Urcați pentru o vedere de 360 de grade asupra insulei.",
+                "en": "Climb up for a 360-degree island view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Roz Avel",
+                "tip": "Frischer Hummer direkt im Hafen von Sauzon."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Roz Avel",
+                "tip": "Friss homár közvetlenül Sauzon kikötőjében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Roz Avel",
+                "tip": "Homar proaspăt direct în portul Sauzon."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Roz Avel",
+                "tip": "Fresh lobster right in the port of Sauzon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Anse de Ster-Vras",
+                "tip": "Ein kleiner Fjord, perfekt für eine Pause im Grünen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Anse de Ster-Vras",
+                "tip": "Egy kis fjord, tökéletes egy zöldellő pihenőre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anse de Ster-Vras",
+                "tip": "Un mic fiord, perfect pentru o pauză în natură.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Anse de Ster-Vras",
+                "tip": "A small fjord, perfect for a break in the greenery.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Atelier du Pain",
+                "tip": "Handwerkliches Brot für Ihr Picknick an den Klippen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Atelier du Pain",
+                "tip": "Kézműves kenyér a sziklák melletti piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Atelier du Pain",
+                "tip": "Pâine artizanală pentru un picnic pe stânci."
+              }
+            ],
+            "en": [
+              {
+                "name": "Atelier du Pain",
+                "tip": "Artisanal bread for your picnic on the cliffs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes sind aufgrund der hügeligen Landschaft sehr zu empfehlen.",
+              "Nehmen Sie ausreichend Wasser mit, die Wege sind sonnig.",
+              "Vermeiden Sie die Hauptstraßen und nutzen Sie die markierten Radwege.",
+              "Prüfen Sie den Windbericht vor der Abfahrt."
+            ],
+            "hu": [
+              "A dombos táj miatt az elektromos kerékpár erősen ajánlott.",
+              "Vigyen magával elég vizet, az utak naposak.",
+              "Kerülje a főutakat, használja a jelzett kerékpárutakat.",
+              "Indulás előtt ellenőrizze a széljelentést."
+            ],
+            "ro": [
+              "Bicicletele electrice sunt foarte recomandate datorită reliefului deluros.",
+              "Luați suficientă apă, drumurile sunt însorite.",
+              "Evitați drumurile principale și folosiți pistele de biciclete marcate.",
+              "Verificați prognoza vântului înainte de plecare."
+            ],
+            "en": [
+              "E-bikes are highly recommended due to the hilly landscape.",
+              "Take enough water with you, the paths are sunny.",
+              "Avoid main roads and use the marked cycle paths.",
+              "Check the wind report before departure."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir in Le Palais, gewappnet mit Ölzeug für die Fahrt nach Sauzon, wo der bunte Hafen im Nebel leuchtet. Mittags erreichen wir die Pointe des Poulains; die tosenden Wellen bieten ein dramatisches Schauspiel. Nach einem Besuch im Fort von Sarah Bernhardt geht es vorsichtig zum Leuchtturm Goulphar, wobei wir den rutschigen Wegen trotzen, bevor wir durchnässt, aber beeindruckt zurückkehren.",
+            "hu": "Az eső ellenére Le Palais-ból indulunk, esőruhában tekerve Sauzon felé, ahol a színes kikötő vibrál a ködben. Délben érjük el a Pointe des Poulains-t; a dübörgő hullámok drámai látványt nyújtanak. Sarah Bernhardt erődje után óvatosan haladunk a Goulphar világítótoronyhoz a csúszós utakon, végül vizesen, de felejthetetlen élményekkel térünk vissza.",
+            "ro": "În ciuda ploii, pornim din Le Palais echipați pentru drumul spre Sauzon, unde portul colorat strălucește în ceață. La prânz ajungem la Pointe des Poulains; valurile înfuriate oferă un spectacol dramatic. După vizita la fortul lui Sarah Bernhardt, pedalăm cu grijă spre farul Goulphar pe drumuri alunecoase, întorcându-ne uzi, dar impresionați.",
+            "en": "Despite the rain, we set off from Le Palais, armed with waterproofs for the ride to Sauzon, where the colorful harbor glows in the mist. At noon, we reach Pointe des Poulains; the crashing waves offer a dramatic spectacle. After Sarah Bernhardt's Fort, we navigate carefully to the Goulphar Lighthouse on slippery paths, returning soaked but deeply impressed."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; nasse Straßen verlangen nach mehr Grip.",
+                "hu": "Ellenőrizze a guminyomást; a vizes utak több tapadást igényelnek.",
+                "ro": "Verificați presiunea în anvelope; drumurile ude necesită aderență sporită.",
+                "en": "Check tire pressure; wet roads require better grip."
+              }
+            },
+            {
+              "name": "Port of Sauzon",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder unter die Vordächer der Restaurants.",
+                "hu": "Állítsa le a bicikliket az éttermek előtetői alá.",
+                "ro": "Parcați bicicletele sub copertinele restaurantelor.",
+                "en": "Park your bikes under the restaurant awnings to keep them dry."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; die Felsen sind bei Nässe extrem glatt.",
+                "hu": "Vigyázat a leszálláskor; a sziklák esőben rendkívül csúszósak.",
+                "ro": "Atenție la coborâre; stâncile sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution when dismounting; the rocks are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Sarah Bernhardt's Fort",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine Pause im Trockenen während der Besichtigung.",
+                "hu": "Jó hely egy száraz pihenőre a látogatás során.",
+                "ro": "Un loc bun pentru o pauză la adăpost în timpul vizitei.",
+                "en": "A good place for a dry break during your visit."
+              }
+            },
+            {
+              "name": "Apothicairerie Cave",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Rand; der Boden kann unvermittelt nachgeben.",
+                "hu": "Tartson távolságot a szélétől; a talaj váratlanul megcsúszhat.",
+                "ro": "Păstrați distanța față de margine; solul poate ceda neașteptat.",
+                "en": "Keep your distance from the edge; the ground can give way unexpectedly."
+              }
+            },
+            {
+              "name": "Grand Lighthouse (Goulphar)",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist anstrengend, aber oben ist man vor dem Regen geschützt.",
+                "hu": "A feljutás fárasztó, de fent védve lesz az esőtől.",
+                "ro": "Urcarea este obositoare, dar sus sunteți protejați de ploaie.",
+                "en": "The climb is strenuous, but inside you'll be sheltered from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Küstenpfade; nutzen Sie asphaltierte Straßen bei Regen.",
+              "Bremsschwellen und Markierungen sind extrem rutschig.",
+              "Vollvisier-Regenschutz hilft gegen peitschenden Wind und Regen.",
+              "Prüfen Sie die Bremsen vor der Abfahrt.",
+              "Ein heißes Getränk in Sauzon wirkt Wunder gegen Kälte."
+            ],
+            "hu": [
+              "Kerülje a parti ösvényeket; esőben használja az aszfaltozott utakat.",
+              "A fekvőrendőrök és útburkolati jelek rendkívül csúszósak.",
+              "A teljes arcot védő esővédő segít a metsző szél és eső ellen.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Egy forró ital Sauzonban csodákat tesz a hideg ellen."
+            ],
+            "ro": [
+              "Evitați potecile de coastă; folosiți drumurile asfaltate pe ploaie.",
+              "Limitatoarele de viteză și marcajele rutiere sunt extrem de alunecoase.",
+              "Protecția facială pentru ploaie ajută împotriva vântului tăios.",
+              "Verificați frânele înainte de plecare.",
+              "O băutură caldă în Sauzon face minuni împotriva frigului."
+            ],
+            "en": [
+              "Avoid coastal paths; use paved roads when it rains.",
+              "Speed bumps and road markings are extremely slippery.",
+              "Full-face rain protection helps against biting wind and rain.",
+              "Check your brakes thoroughly before starting.",
+              "A hot drink in Sauzon works wonders against the cold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zur Tour nach Sauzon ein, wo die Kälte die Sinne schärft. Die Pointe des Poulains wirkt in der tiefstehenden Sonne fast magisch, auch wenn der Wind eisig ist. Nach dem Besuch bei Sarah Bernhardt radeln wir zügig weiter, um den Leuchtturm Goulphar vor Einbruch der frühen Dunkelheit zu erreichen, während die weiten Landschaften in stiller Winterruhe liegen.",
+            "hu": "A tiszta téli nap Sauzon felé hív, ahol a hideg élesíti az érzékeket. A Pointe des Poulains szinte mágikus az alacsony napfényben, még ha a szél jeges is. Sarah Bernhardt erődje után gyorsan tekerünk tovább a Goulphar világítótoronyhoz, hogy még a korai sötétedés előtt odaérjünk, miközben a táj téli álomba merül.",
+            "ro": "O zi senină de iarnă ne invită la un tur spre Sauzon, unde frigul ascute simțurile. Pointe des Poulains pare magică sub soarele jos, chiar dacă vântul este înghețat. După vizita la Sarah Bernhardt, pedalăm rapid spre farul Goulphar pentru a ajunge înainte de lăsarea întunericului.",
+            "en": "A clear winter day invites a tour to Sauzon, where the cold sharpens the senses. Pointe des Poulains looks magical in the low sun, even with an icy wind. After visiting Sarah Bernhardt's Fort, we cycle briskly toward the Goulphar Lighthouse to beat the early sunset, while the landscape lies in silent winter peace."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Starten Sie spät, damit der Frost auf den Straßen getaut ist.",
+                "hu": "Később induljon, hogy az utakon az éjszakai fagy felengedjen.",
+                "ro": "Porniți mai târziu, ca să se topească bruma de pe drumuri.",
+                "en": "Start later in the morning to allow any overnight frost to melt."
+              }
+            },
+            {
+              "name": "Port of Sauzon",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause bei einem Galette.",
+                "hu": "Tökéletes egy melengető szünetre egy finom galette mellett.",
+                "ro": "Perfect pentru o pauză de încălzire cu o clătită bretonă.",
+                "en": "Perfect for a warming break with a traditional galette."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Der Wind ist hier am stärksten; tragen Sie eine winddichte Schicht.",
+                "hu": "Itt a legerősebb a szél; viseljen szélálló külső réteget.",
+                "ro": "Vântul este cel mai puternic aici; purtați un strat rezistent.",
+                "en": "The wind is strongest here; wear a windproof outer layer."
+              }
+            },
+            {
+              "name": "Sarah Bernhardt's Fort",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine beeindruckende Stille.",
+                "hu": "Télen lenyűgöző csend honol ezen a helyen.",
+                "ro": "Iarna aici domnește o liniște impresionantă.",
+                "en": "An impressive silence prevails here during the winter months."
+              }
+            },
+            {
+              "name": "Apothicairerie Cave",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht; die Höhlen wirken im Schatten schnell düster.",
+                "hu": "Használja ki a nappali fényt; az árnyékban a sziklák hamar komorrá válnak.",
+                "ro": "Profitați de lumina zilei; stâncile par întunecate rapid la umbră.",
+                "en": "Make the most of the daylight; the rocks darken quickly in the shadows."
+              }
+            },
+            {
+              "name": "Grand Lighthouse (Goulphar)",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um die Aussicht im Hellen zu genießen.",
+                "hu": "Érkezzen délután 4 előtt, hogy még világosban lássa a panorámát.",
+                "ro": "Ajungeți înainte de ora 16 pentru a vedea panorama pe lumină.",
+                "en": "Arrive before 4 PM to enjoy the panorama while it's still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Fahrradhandschuhe gegen den Fahrtwind.",
+              "Achten Sie auf verkürzte Öffnungszeiten der Fahrradverleiher.",
+              "Vorder- und Rücklicht sind ab 16:30 Uhr unverzichtbar.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit.",
+              "Planen Sie die Route so, dass Sie vor 17 Uhr zurück sind."
+            ],
+            "hu": [
+              "Viseljen thermo biciklis kesztyűt a menetszél ellen.",
+              "Ügyeljen a kerékpárkölcsönzők rövidített nyitvatartására.",
+              "Az első és hátsó lámpa 16:30 után nélkülözhetetlen.",
+              "Vigyen magával termoszt forró itallal.",
+              "Tervezze úgy az útvonalat, hogy délután 5 előtt visszaérjen."
+            ],
+            "ro": [
+              "Purtați mănuși termice pentru ciclism împotriva vântului.",
+              "Atenție la programul redus al centrelor de închiriat biciclete.",
+              "Luminile față și spate sunt indispensabile după ora 16:30.",
+              "Luați un termos cu o băutură caldă la voi.",
+              "Planificați ruta astfel încât să vă întoarceți înainte de ora 17."
+            ],
+            "en": [
+              "Wear thermal cycling gloves to protect against the wind chill.",
+              "Note the shortened opening hours of bike rental shops.",
+              "Front and rear lights are essential after 4:30 PM.",
+              "Carry a thermos with a hot drink for the journey.",
+              "Plan your route to ensure you return before 5 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -808,6 +1577,430 @@
           "Parking spaces at the sights can be scarce in summer.",
           "Use the park-and-ride offers during busy periods."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos die entlegensten Winkel von Belle-Île. Nach dem Start an der Zitadelle von Le Palais fahren Sie quer über die Insel zur dramatischen Nordspitze, wo der Atlantik auf Granit trifft.\n\nDie Pointe des Poulains ist ein Ort magischer Lichtspiele. Besuchen Sie das Fort von Sarah Bernhardt, bevor Sie zum Surferparadies Plage de Donnant weiterfahren, wo die Brandung majestätisch gegen den goldenen Sand schlägt.\n\nAm Nachmittag stehen die Aiguilles de Port Coton auf dem Programm. Diese bizarren Felsnadeln inspirierten schon Monet und bieten eines der meistfotografierten Motive der Bretagne.\n\nIhre Reise endet am Großen Leuchtturm und führt schließlich zurück in den belebten Hafen von Le Palais, wo Sie den Tag bei einem Glas Cidre ausklingen lassen können.",
+            "hu": "Autóval könnyedén elérheti Belle-Île legtávolabbi szegleteit is. A Le Palais-i citadellától indulva átszeli a szigetet a drámai északi csúcs felé, ahol az Atlanti-óceán a gránitsziklákkal találkozik.\n\nA Pointe des Poulains a mágikus fények helyszíne. Látogassa meg Sarah Bernhardt erődjét, mielőtt továbbutazna a szörfösök paradicsomába, a Donnant strandra, ahol a hullámok fenségesen csapnak le az aranyló homokra.\n\nDélután a Port Coton tűsziklák következnek. Ezek a bizarr sziklaalakzatok már Monetet is megihlették, és Bretagne egyik legtöbbet fotózott látványosságát nyújtják.\n\nUtazása a Nagy Világítótoronynál ér véget, majd visszatér Le Palais pezsgő kikötőjébe, ahol egy pohár cider mellett zárhatja a napot.",
+            "ro": "Cu mașina puteți ajunge fără efort în cele mai îndepărtate colțuri ale insulei Belle-Île. După plecarea de la citadela din Le Palais, traversați insula spre vârful nordic dramatic, unde Atlanticul întâlnește granitul.\n\nPointe des Poulains este un loc al jocurilor de lumină magice. Vizitați fortul lui Sarah Bernhardt înainte de a continua spre paradisul surferilor, Plage de Donnant, unde valurile se sparg maiestuos de nisipul auriu.\n\nDupă-amiaza, pe program sunt Aiguilles de Port Coton. Aceste ace de stâncă bizare l-au inspirat deja pe Monet și oferă unul dintre cele mai fotografiate motive din Bretania.\n\nCălătoria se încheie la Marele Far și vă duce înapoi în portul plin de viață Le Palais, unde puteți încheia ziua cu un pahar de cidru.",
+            "en": "By car, you can effortlessly reach the most remote corners of Belle-Île. After starting at the Citadel of Le Palais, you drive across the island to the dramatic northern tip, where the Atlantic meets granite.\n\nPointe des Poulains is a place of magical light displays. Visit Sarah Bernhardt's fort before continuing to the surfers' paradise, Plage de Donnant, where the surf breaks majestically against the golden sand.\n\nIn the afternoon, the Aiguilles de Port Coton are on the agenda. These bizarre rock needles already inspired Monet and offer one of the most photographed motifs in Brittany.\n\nYour journey ends at the Grand Lighthouse and finally leads back to the busy port of Le Palais, where you can end the day with a glass of cider."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zitadelle Vauban",
+                "hu": "Vauban citadella",
+                "ro": "Citadela Vauban",
+                "en": "Vauban Citadel"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt vor dem Eingangsbereich.",
+                "hu": "Parkolóhelyeket közvetlenül a bejárat előtt talál.",
+                "ro": "Găsiți locuri de parcare chiar în fața intrării.",
+                "en": "You will find parking spaces right in front of the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe des Poulains",
+                "hu": "Poulains-fok",
+                "ro": "Pointe des Poulains",
+                "en": "Pointe des Poulains"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für jeden Erstbesucher der Insel.",
+                "hu": "Kötelező látnivaló minden első alkalommal idelátogatónak.",
+                "ro": "O necesitate pentru orice vizitator aflat pentru prima dată pe insulă.",
+                "en": "A must-see for every first-time visitor to the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort von Sarah Bernhardt",
+                "hu": "Sarah Bernhardt erőd",
+                "ro": "Fortul Sarah Bernhardt",
+                "en": "Sarah Bernhardt's Fort"
+              },
+              "tip_5lang": {
+                "de": "Das kleine Museum ist in den Sommermonaten geöffnet.",
+                "hu": "A kis múzeum a nyári hónapokban tart nyitva.",
+                "ro": "Micul muzeu este deschis în lunile de vară.",
+                "en": "The small museum is open during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Donnant",
+                "hu": "Donnant strand",
+                "ro": "Plaja Donnant",
+                "en": "Donnant Beach"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Sandstrand mit beeindruckenden Wellen.",
+                "hu": "Gyönyörű homokos tengerpart lenyűgöző hullámokkal.",
+                "ro": "Plajă de nisip superbă cu valuri impresionante.",
+                "en": "Beautiful sandy beach with impressive waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguilles de Port Coton",
+                "hu": "Port Coton tűsziklák",
+                "ro": "Aiguilles de Port Coton",
+                "en": "Aiguilles de Port Coton"
+              },
+              "tip_5lang": {
+                "de": "Berühmt durch die Gemälde von Claude Monet.",
+                "hu": "Claude Monet festményei tették híressé.",
+                "ro": "Faimoase datorită picturilor lui Claude Monet.",
+                "en": "Famous from the paintings of Claude Monet."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Leuchtturm",
+                "hu": "Nagy világítótorony",
+                "ro": "Marele Far",
+                "en": "Grand Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz befindet sich ca. 500m vom Turm entfernt.",
+                "hu": "A parkoló kb. 500 méterre van a toronytól.",
+                "ro": "Parcarea se află la aproximativ 500 m de turn.",
+                "en": "The parking lot is located approx. 500m from the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Le Palais",
+                "hu": "Le Palais kikötője",
+                "ro": "Portul Le Palais",
+                "en": "Port of Le Palais"
+              },
+              "tip_5lang": {
+                "de": "Geben Sie Ihren Mietwagen vor der letzten Fähre ab.",
+                "hu": "Adja le bérautóját az utolsó komp előtt.",
+                "ro": "Predați mașina închiriată înainte de ultimul feribot.",
+                "en": "Return your rental car before the last ferry."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Abri-Côtier",
+                "tip": "Frische Austern und Meeresfrüchteplatten direkt am Wasser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Abri-Côtier",
+                "tip": "Friss osztriga és tenger gyümölcsei tálak közvetlenül a vízparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Abri-Côtier",
+                "tip": "Stridii proaspete și platouri cu fructe de mare chiar lângă apă."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Abri-Côtier",
+                "tip": "Fresh oysters and seafood platters right by the water."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plage d'Herlin",
+                "tip": "Eine ruhige, windgeschützte Bucht im Süden.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plage d'Herlin",
+                "tip": "Egy csendes, szélvédett öböl délen.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plage d'Herlin",
+                "tip": "Un golf liniștit, ferit de vânt, în sud.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Plage d'Herlin",
+                "tip": "A quiet, wind-sheltered bay in the south.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Bien Nommée",
+                "tip": "Exquisite Kekse und bretonisches Gebäck zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Bien Nommée",
+                "tip": "Kiváló kekszek és breton sütemények elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Bien Nommée",
+                "tip": "Biscuiți delicioși și produse de patiserie bretone pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Bien Nommée",
+                "tip": "Exquisite biscuits and Breton pastries to take away."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, die Straßen im Inselinneren sind oft schmal.",
+              "Tanken Sie in Le Palais, bevor Sie die Insel erkunden.",
+              "Parkplätze an den Sehenswürdigkeiten können im Sommer knapp werden.",
+              "Nutzen Sie die Park-and-Ride-Angebote bei großen Andrang."
+            ],
+            "hu": [
+              "Vezessen óvatosan, a sziget belsejében az utak gyakran szűkek.",
+              "Tankoljon Le Palais-ban, mielőtt felfedezné a szigetet.",
+              "A látnivalóknál a parkolóhelyek nyáron elfogyhatnak.",
+              "Nagy tömeg esetén vegye igénybe a P+R lehetőségeket."
+            ],
+            "ro": [
+              "Conduceți cu atenție, drumurile din interiorul insulei sunt adesea înguste.",
+              "Alimentați în Le Palais înainte de a explora insula.",
+              "Locurile de parcare la obiectivele turistice pot deveni limitate vara.",
+              "Folosiți ofertele de Park-and-Ride în caz de aglomerație mare."
+            ],
+            "en": [
+              "Drive carefully, the roads in the interior of the island are often narrow.",
+              "Refuel in Le Palais before exploring the island.",
+              "Parking spaces at the sights can be scarce in summer.",
+              "Use the park-and-ride offers during busy periods."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trocken und komfortabel erkunden wir die Insel per Auto. Die Vauban-Zitadelle ist unser erster Halt im Regen, gefolgt von einer dramatischen Fahrt zur Pointe des Poulains, wo wir das Wetter aus dem Wagenheck beobachten. Mittagsrast im Fort, bevor wir den stürmischen Strand von Donnant und die Aiguilles de Port Coton besuchen, wo die Gischt bis auf die Windschutzscheibe spritzt.",
+            "hu": "Szárazon és kényelemben fedezzük fel a szigetet autóval. A Vauban-citadella az első állomásunk az esőben, majd drámai autózás következik a Pointe des Poulains felé, ahol a kocsiból figyeljük az elemek harcát. Ebédszünet az erődnél, majd a viharos Donnant strand és a Port Coton sziklái következnek, ahol a sós permet az autó szélvédőjéig ér.",
+            "ro": "Explorăm insula confortabil și uscați cu mașina. Citadela Vauban este prima oprire pe ploaie, urmată de un drum dramatic spre Pointe des Poulains, unde observăm vremea din mașină. Prânz la fort, apoi vizităm plaja furtunoasă Donnant și stâncile Port Coton, unde spuma mării ajunge până la parbriz.",
+            "en": "Explore the island in dry comfort by car. The Vauban Citadel is our first rainy-day stop, followed by a dramatic drive to Pointe des Poulains, where we watch the weather from the vehicle. Lunch at the Fort, then visit the stormy Donnant Beach and the needles of Port Coton, where sea spray hits the windshield."
+          },
+          "stops": [
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați chiar la intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park right at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Aussichtsplattform bei starken Böen.",
+                "hu": "Használja az autót kilátóként az erős széllökések idején.",
+                "ro": "Folosiți mașina ca platformă de observație în timpul rafalelor.",
+                "en": "Use your car as a viewing platform during strong gusts."
+              }
+            },
+            {
+              "name": "Sarah Bernhardt's Fort",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Kleidung während der Fahrt zu trocknen.",
+                "hu": "Jó megálló, hogy az út során megszárítsuk a vizes ruhákat.",
+                "ro": "Un popas bun pentru a usca hainele în timpul drumului.",
+                "en": "A good stop to dry off your gear during the drive."
+              }
+            },
+            {
+              "name": "Donnant Beach",
+              "tip_5lang": {
+                "de": "Achten Sie auf Treibsand und starke Strömungen bei Sturmflut.",
+                "hu": "Ügyeljen a futóhomokra és az erős áramlatokra vihardagály idején.",
+                "ro": "Atenție la nisipurile mișcătoare și curenții puternici în timpul furtunii.",
+                "en": "Watch out for shifting sands and strong currents during storm tides."
+              }
+            },
+            {
+              "name": "Aiguilles de Port Coton",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkflächen; der Boden am Rand ist weich.",
+                "hu": "Maradjon a kijelölt parkolóhelyeken; a sziklaszéli talaj felázhat.",
+                "ro": "Rămâneți în parcările amenajate; solul de la margine este moale.",
+                "en": "Stay in designated parking areas; the ground near the edge is soft."
+              }
+            },
+            {
+              "name": "Grand Lighthouse",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oben eingeschränkt, aber die Atmosphäre ist einzigartig.",
+                "hu": "Esőben a kilátás korlátozott fentről, de a hangulat egyedülálló.",
+                "ro": "Pe ploaie vizibilitatea este redusă, dar atmosfera este unică.",
+                "en": "Visibility from the top is limited in rain, but the atmosphere is unique."
+              }
+            },
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Ein überdachtes Abendessen am Hafen ist der perfekte Abschluss.",
+                "hu": "Egy fedett kikötői vacsora a tökéletes befejezés.",
+                "ro": "O cină la adăpost în port este finalul perfect.",
+                "en": "A sheltered dinner at the harbor is the perfect ending."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig; Wasserlachen auf den Straßen können tief sein.",
+              "Die Gischt kann Salzrückstände auf den Scheiben hinterlassen.",
+              "Nutzen Sie die Heizung, um die Luftfeuchtigkeit im Wagen zu senken.",
+              "Einige Parkplätze an der Küste können bei Sturm gesperrt sein.",
+              "Die Fahrtzeit zwischen den Punkten ist kurz und trocken."
+            ],
+            "hu": [
+              "Vezessen óvatosan; az utakon az összefüggő víz mély lehet.",
+              "A sós tengeri permet fehér réteget hagyhat a szélvédőn.",
+              "Használja a fűtést a pára csökkentésére az utastérben.",
+              "Néhány parti parkolót lezárhatnak vihar idején.",
+              "A pontok közötti menetidő rövid és garantáltan száraz."
+            ],
+            "ro": [
+              "Conduceți cu grijă; bălțile de pe drum pot fi adânci.",
+              "Spuma mării poate lăsa reziduuri de sare pe parbriz.",
+              "Folosiți încălzirea pentru a reduce umiditatea din mașină.",
+              "Unele parcări de pe coastă pot fi închise în caz de furtună.",
+              "Timpul de condus între puncte este scurt și confortabil."
+            ],
+            "en": [
+              "Drive carefully as puddles on the narrow roads can be deep.",
+              "Sea spray can leave salt residue on the windshield.",
+              "Use the car's heater to keep humidity down inside.",
+              "Some coastal parking lots may be closed during heavy storms.",
+              "Drive times between sites are short and reliably dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die Freiheit, die weite Insel bei Kälte zu erkunden. Von der einsamen Zitadelle geht es zur Pointe des Poulains, wo die Wintersonne glitzert. Wir genießen ein warmes Mittagessen, besuchen den windgepeitschten Donnant Strand und erreichen die Aiguilles de Port Coton pünktlich zum spektakulären Sonnenuntergang, bevor uns der Leuchtturm Goulphar im Lichtkegel begrüßt.",
+            "hu": "Télen az autó szabadságot ad, hogy a hidegben is bejárjuk a szigetet. A magányos citadellától a Pointe des Poulains felé vesszük az irányt, ahol szikrázik a téli nap. Meleg ebéd után ellátogatunk a szeles Donnant strandra, és pontosan a látványos naplementére érünk a Port Coton sziklákhoz, végül a világítótorony fényei köszönnek ránk.",
+            "ro": "Iarna, mașina oferă libertatea de a explora insula în ciuda frigului. De la citadela solitară mergem spre Pointe des Poulains, unde soarele de iarnă strălucește. Ne bucurăm de un prânz cald, vizităm plaja Donnant și ajungem la stâncile Port Coton exact pentru apusul spectaculos.",
+            "en": "In winter, the car offers the freedom to explore the island despite the cold. From the solitary Citadel, head to Pointe des Poulains, where the winter sun glitters. Enjoy a warm lunch, visit the windswept Donnant Beach, and reach Port Coton just in time for a spectacular sunset before the lighthouse greets you."
+          },
+          "stops": [
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Weniger Andrang bedeutet entspanntes Parken direkt davor.",
+                "hu": "A kevesebb turista miatt könnyű parkolni közvetlenül a bejáratnál.",
+                "ro": "Mai puțină aglomerație înseamnă parcare ușoară chiar în față.",
+                "en": "Fewer crowds mean easy parking right in front of the gate."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Genießen Sie das Lichtspiel auf dem Meer bequem aus dem Auto.",
+                "hu": "Élvezze a tenger feletti fényjátékot kényelmesen, az autóból.",
+                "ro": "Bucurați-vă de jocul de lumini pe mare din confortul mașinii.",
+                "en": "Enjoy the play of light over the sea from the comfort of your car."
+              }
+            },
+            {
+              "name": "Sarah Bernhardt's Fort",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort im warmen Licht des frühen Nachmittags.",
+                "hu": "Látogassa meg az erődöt a kora délutáni meleg fényekben.",
+                "ro": "Vizitați fortul în lumina caldă a după-amiezii devreme.",
+                "en": "Visit the fort in the warm light of early afternoon."
+              }
+            },
+            {
+              "name": "Donnant Beach",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft menschenleer; ideal für Ruhe.",
+                "hu": "A parkoló télen gyakran üres; ideális a nyugalomhoz.",
+                "ro": "Parcarea este adesea pustie iarna; ideal pentru liniște.",
+                "en": "The parking lot is often empty in winter; ideal for peace and quiet."
+              }
+            },
+            {
+              "name": "Aiguilles de Port Coton",
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang; kommen Sie bis 16:45 Uhr an.",
+                "hu": "A legjobb hely a naplementéhez; érkezzen meg 16:45-ig.",
+                "ro": "Cel mai bun loc pentru apus; ajungeți până la ora 16:45.",
+                "en": "Best spot for sunset; make sure to arrive by 4:45 PM."
+              }
+            },
+            {
+              "name": "Grand Lighthouse",
+              "tip_5lang": {
+                "de": "Das Licht des Turms ist in der Winterdunkelheit weithin sichtbar.",
+                "hu": "A torony fénye a téli sötétségben messziről látható.",
+                "ro": "Lumina turnului este vizibilă de departe în întunericul iernii.",
+                "en": "The lighthouse beam is visible from afar in the winter darkness."
+              }
+            },
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Die festliche Winterbeleuchtung im Hafen ist sehr charmant.",
+                "hu": "A kikötő ünnepi téli kivilágítása nagyon bájos.",
+                "ro": "Iluminatul festiv de iarnă din port este foarte fermecător.",
+                "en": "The festive winter lighting in the harbor is very charming."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Nebenstraßen können bei Frost glatt sein.",
+              "Tanken Sie rechtzeitig; Tankstellen haben oft Mittagspause.",
+              "Die Batterie kann bei Kälte schneller entladen; Licht ausschalten.",
+              "Genießen Sie die kurzen Wege ohne sommerliche Staus.",
+              "Nehmen Sie warme Decken für Stopps an Aussichtspunkten mit."
+            ],
+            "hu": [
+              "Néhány mellékút fagyos és csúszós lehet.",
+              "Tankoljon időben; a benzinkutak gyakran tartanak ebédszünetet.",
+              "Az akkumulátor hamarabb merülhet a hidegben; ne felejtse égve a lámpát.",
+              "Élvezze a rövid menetidőt a nyári dugók nélkül.",
+              "Vigyen meleg takarót a kilátópontoknál tartott pihenőkhöz."
+            ],
+            "ro": [
+              "Unele drumuri secundare pot fi alunecoase din cauza brumei.",
+              "Alimentați din timp; benzinăriile au adesea pauză de prânz.",
+              "Bateria se poate descărca mai repede la frig; stingeți farurile.",
+              "Bucurați-vă de drumurile libere fără ambuteiajele de vară.",
+              "Luați pături groase pentru opririle la punctele de belvedere."
+            ],
+            "en": [
+              "Some secondary roads might be slippery due to overnight frost.",
+              "Refuel early; gas stations often have lunch breaks.",
+              "Car batteries drain faster in the cold; don't leave lights on.",
+              "Enjoy the quick travel times without summer traffic jams.",
+              "Take warm blankets for breaks at scenic viewpoints."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1047,34 +2240,367 @@
           "In the low season, buses run significantly less frequently.",
           "Plan buffer times for connections."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Bussystem von Belle-Île ermöglicht eine entspannte Erkundung ohne Stress. Starten Sie in Le Palais und lassen Sie sich nach Sauzon fahren, wo Sie die Ruhe am Morgen genießen können.\n\nDer nächste Halt ist die dramatische Nordspitze. Die Pointe des Poulains ist ein Naturerlebnis, das Sie bequem mit dem Bus erreichen, ohne sich um Parkplätze sorgen zu müssen.\n\nNachmittags führt die Fahrt zum Großen Leuchtturm im Süden. Die weite Insellandschaft zieht am Fenster vorbei, während Sie sich auf den Aufstieg zur Aussichtsplattform vorbereiten.\n\nZurück in Le Palais bleibt genügend Zeit für die Zitadelle Vauban, bevor Sie den Hafen und die lebhafte Atmosphäre der Hauptstadt bei Sonnenuntergang erleben.",
+            "hu": "Belle-Île buszhálózata stresszmentes felfedezést tesz lehetővé. Induljon Le Palais-ból Sauzonba, ahol élvezheti a reggeli nyugalmat.\n\nA következő megálló a drámai északi csúcs. A Pointe des Poulains olyan természeti élmény, amelyet kényelmesen elérhet busszal, anélkül, hogy a parkolás miatt aggódna.\n\nDélután az út a déli Nagy Világítótoronyhoz vezet. A sziget tágas tájai elsuhannak az ablak előtt, miközben felkészül a kilátóhoz vezető útra.\n\nVisszatérve Le Palais-ba, marad elég idő a Vauban-citadellára, mielőtt naplementekor megtapasztalná a főváros kikötőjét és pezsgő hangulatát.",
+            "ro": "Sistemul de autobuze din Belle-Île permite o explorare relaxată fără stres. Începeți în Le Palais și lăsați-vă dus spre Sauzon, unde vă puteți bucura de liniștea dimineții.\n\nUrmătoarea oprire este vârful nordic dramatic. Pointe des Poulains este o experiență naturală la care ajungeți confortabil cu autobuzul, fără să vă faceți griji pentru parcare.\n\nDupă-amiaza, drumul duce la Marele Far din sud. Peisajul vast al insulei trece prin fața ferestrei în timp ce vă pregătiți pentru urcarea spre platforma de observație.\n\nÎnapoi în Le Palais, rămâne destul timp pentru Citadela Vauban, înainte de a experimenta portul și atmosfera plină de viață a capitalei la apus.",
+            "en": "The Belle-Île bus system allows for relaxed exploration without stress. Start in Le Palais and let yourself be driven to Sauzon, where you can enjoy the peace in the morning.\n\nThe next stop is the dramatic northern tip. Pointe des Poulains is a natural experience that you can easily reach by bus without having to worry about parking.\n\nIn the afternoon, the journey leads to the Grand Lighthouse in the south. The wide island landscape passes by the window while you prepare for the climb to the observation deck.\n\nBack in Le Palais, there is enough time for the Vauban Citadel before you experience the port and the lively atmosphere of the capital at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Palais",
+                "hu": "Le Palais kikötője",
+                "ro": "Portul Le Palais",
+                "en": "Port of Le Palais"
+              },
+              "tip_5lang": {
+                "de": "Die Busse 'Les Cars Bleus' starten direkt am Hafen.",
+                "hu": "A 'Les Cars Bleus' buszok közvetlenül a kikötőből indulnak.",
+                "ro": "Autobuzele 'Les Cars Bleus' pleacă direct din port.",
+                "en": "The 'Les Cars Bleus' buses start right at the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Sauzon (Hafen)",
+                "hu": "Sauzon (kikötő)",
+                "ro": "Sauzon (Port)",
+                "en": "Sauzon (Port)"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie hier aus für einen Spaziergang im Fischerdorf.",
+                "hu": "Szálljon le itt egy sétára a halászfaluban.",
+                "ro": "Coborâți aici pentru o plimbare în satul de pescari.",
+                "en": "Get off here for a stroll through the fishing village."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe des Poulains",
+                "hu": "Poulains-fok",
+                "ro": "Pointe des Poulains",
+                "en": "Pointe des Poulains"
+              },
+              "tip_5lang": {
+                "de": "Der Bus hält in der Nähe des Wanderwegs zum Leuchtturm.",
+                "hu": "A busz a világítótoronyhoz vezető túraútvonal közelében áll meg.",
+                "ro": "Autobuzul oprește aproape de traseul spre far.",
+                "en": "The bus stops near the hiking trail to the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Leuchtturm",
+                "hu": "Nagy világítótorony",
+                "ro": "Marele Far",
+                "en": "Grand Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, die Busse fahren seltener.",
+                "hu": "Pontosan ellenőrizze a visszaindulást, a buszok ritkábban járnak.",
+                "ro": "Verificați bine orele de întoarcere, autobuzele circulă mai rar.",
+                "en": "Check return times carefully, buses run less frequently."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle Vauban",
+                "hu": "Vauban citadella",
+                "ro": "Citadela Vauban",
+                "en": "Vauban Citadel"
+              },
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie zurück zum historischen Wahrzeichen.",
+                "hu": "A busz visszaviszi Önt a történelmi jelképhez.",
+                "ro": "Autobuzul vă aduce înapoi la simbolul istoric.",
+                "en": "The bus takes you back to the historical landmark."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Banette",
+                "tip": "Holen Sie sich Sandwiches für die Buspausen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie Banette",
+                "tip": "Vásároljon szendvicseket a buszos pihenőkhöz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie Banette",
+                "tip": "Luați sandvișuri pentru pauzele de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie Banette",
+                "tip": "Get sandwiches for the bus breaks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de Sarah Bernhardt",
+                "tip": "Ein friedlicher Garten neben dem Fort.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de Sarah Bernhardt",
+                "tip": "Egy békés kert az erőd mellett.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de Sarah Bernhardt",
+                "tip": "O grădină liniștită lângă fort.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de Sarah Bernhardt",
+                "tip": "A peaceful garden next to the fort.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Maison de la Presse",
+                "tip": "Postkarten und lokale Magazine über Belle-Île."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maison de la Presse",
+                "tip": "Képeslapok és helyi magazinok Belle-Île-ről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Maison de la Presse",
+                "tip": "Vederi și reviste locale despre Belle-Île."
+              }
+            ],
+            "en": [
+              {
+                "name": "Maison de la Presse",
+                "tip": "Postcards and local magazines about Belle-Île."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Busfahrer.",
+              "Die Fahrpläne hängen am Touristenbüro in Le Palais aus.",
+              "In der Nebensaison fahren die Busse deutlich seltener.",
+              "Planen Sie Pufferzeiten für Anschlüsse ein."
+            ],
+            "hu": [
+              "Vásároljon napijegyet közvetlenül a buszvezetőnél.",
+              "A menetrendek ki vannak függesztve a Le Palais-i irodánál.",
+              "Szezonon kívül a buszok lényegesen ritkábban járnak.",
+              "Tervezzen be puffertartalékot a csatlakozásokhoz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șoferul de autobuz.",
+              "Orarele sunt afișate la biroul de turism din Le Palais.",
+              "În afara sezonului, autobuzele circulă mult mai rar.",
+              "Planificați timpi de rezervă pentru legături."
+            ],
+            "en": [
+              "Buy a day ticket directly from the bus driver.",
+              "The schedules are posted at the tourist office in Le Palais.",
+              "In the low season, buses run significantly less frequently.",
+              "Plan buffer times for connections."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Inselfahrzeug 'Taol Mor' erkunden wir Belle-Île im Regen. Von Le Palais geht es bequem nach Sauzon, wo wir den Regenschauer in einem Café abwarten. Mittags bringt uns der Bus zur Pointe des Poulains für einen windigen Abstecher. Der Nachmittag endet beim Leuchtturm und in der schützenden Zitadelle, während wir die Fahrt durch die vernebelte Landschaft genießen.",
+            "hu": "A 'Taol Mor' buszjárattal fedezzük fel Belle-Île-t az esőben. Le Palais-ból kényelmesen utazunk Sauzonba, ahol egy kávézóban várjuk ki a záport. Délben a busz a Pointe des Poulains-hoz visz egy szeles kitérőre. A délután a világítótoronynál és a citadella védelmező falai között ér véget, miközben a ködös tájat figyeljük az ablakból.",
+            "ro": "Cu autobuzul 'Taol Mor' explorăm Belle-Île pe ploaie. Din Le Palais mergem confortabil spre Sauzon, unde așteptăm să treacă ploaia într-o cafenea. La prânz, autobuzul ne duce la Pointe des Poulains pentru o scurtă vizită. După-amiaza se încheie la far și la citadelă, bucurându-ne de peisajul cețos.",
+            "en": "Explore Belle-Île in the rain using the 'Taol Mor' bus service. Travel comfortably from Le Palais to Sauzon, where you can wait out the rain in a cafe. At noon, the bus takes you to Pointe des Poulains for a windswept detour. The afternoon ends at the lighthouse and the protective Citadel, while enjoying the misty landscape through the bus window."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem Regen beim Warten.",
+                "hu": "A buszmegálló fedett, így várakozás közben védve van az esőtől.",
+                "ro": "Stația de autobuz oferă adăpost împotriva ploii în timp ce așteptați.",
+                "en": "The bus stop provides shelter from the rain while you wait."
+              }
+            },
+            {
+              "name": "Sauzon (Port)",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle bei Regen rechtzeitig ein.",
+                "hu": "Esőben tervezze meg időben a visszautat a buszmegállóhoz.",
+                "ro": "Planificați din timp întoarcerea la stație pe ploaie.",
+                "en": "Plan your walk back to the bus stop ahead of time when it rains."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Der Busparkplatz ist ein guter Treffpunkt bei schlechtem Wetter.",
+                "hu": "A buszparkoló jó találkozási pont rossz idő esetén.",
+                "ro": "Parcarea autobuzelor este un bun punct de întâlnire pe vreme rea.",
+                "en": "The bus parking area is a reliable meeting point in bad weather."
+              }
+            },
+            {
+              "name": "Grand Lighthouse",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die weiten Distanzen trocken zu überbrücken.",
+                "hu": "Használja a buszt, hogy szárazon tegye meg a nagy távolságokat.",
+                "ro": "Folosiți autobuzul pentru a parcurge distanțele mari la uscat.",
+                "en": "Use the bus to cover the long distances while staying dry."
+              }
+            },
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Eingang; perfekt für regnerische Tage.",
+                "hu": "A megálló közel van a bejárathoz; tökéletes esős napokra.",
+                "ro": "Stația este aproape de intrare; perfect pentru zilele ploioase.",
+                "en": "The stop is close to the entrance; perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Fahrplan; bei Sturm kann es Ausfälle geben.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Busse sind im Winter beheizt und bieten gute Sicht.",
+              "Die Fahrpläne hängen an den Haupthaltestellen aus.",
+              "Kombinieren Sie Busfahrten mit kurzen, geschützten Besichtigungen."
+            ],
+            "hu": [
+              "Ellenőrizze az aktuális menetrendet; vihar esetén elmaradhatnak járatok.",
+              "Készítsen ki aprópénzt a jegyvásárláshoz.",
+              "A buszok fűtöttek és jó kilátást nyújtanak esőben is.",
+              "A menetrendek ki vannak függesztve a főbb megállókban.",
+              "Kombinálja a buszozást rövid, fedett helyszíni látogatásokkal."
+            ],
+            "ro": [
+              "Verificați programul actual; în caz de furtună pot apărea anulări.",
+              "Pregătiți mărunțiș pentru bilet.",
+              "Autobuzele sunt încălzite și oferă o vizibilitate bună.",
+              "Orarele sunt afișate în stațiile principale.",
+              "Combinați călătoriile cu autobuzul cu vizite scurte la adăpost."
+            ],
+            "en": [
+              "Check the current schedule; storms can cause service cancellations.",
+              "Have small change ready for buying tickets on board.",
+              "Buses are heated and offer good views even in the rain.",
+              "Timetables are posted at all major stops.",
+              "Combine bus rides with short visits to sheltered attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter nutzen wir den Inselfahrplan für eine entspannte Tour. Von Le Palais fahren wir ins stille Sauzon und wandern zur Pointe des Poulains in der klaren Luft. Nach dem Aufwärmen im Bus geht es zum Leuchtturm Goulphar. Den Abschluss bildet die Zitadelle, bevor wir den letzten Bus zurück ins beleuchtete Le Palais nehmen, während der Frost die Felder überzieht.",
+            "hu": "Télen a szigeti menetrendet használjuk egy pihentető túrához. Le Palais-ból a csendes Sauzonba utazunk, majd a friss levegőn a Pointe des Poulains-hoz sétálunk. A buszban való felmelegedés után a Goulphar világítótorony következik. Végül a citadellát nézzük meg, mielőtt az utolsó busszal visszatérünk a kivilágított Le Palais-ba.",
+            "ro": "Iarna folosim programul local de transport pentru un tur relaxat. Din Le Palais mergem spre liniștitul Sauzon și ne plimbăm spre Pointe des Poulains în aerul curat. După ce ne încălzim în autobuz, mergem la farul Goulphar. Încheiem cu citadela, înainte de a lua ultimul autobuz spre Le Palais.",
+            "en": "In winter, use the island bus schedule for a relaxed tour. Travel from Le Palais to quiet Sauzon and walk to Pointe des Poulains in the crisp air. After warming up on the bus, head to the Goulphar Lighthouse. Finish at the Citadel before catching the last bus back to illuminated Le Palais."
+          },
+          "stops": [
+            {
+              "name": "Port of Le Palais",
+              "tip_5lang": {
+                "de": "Die Winterfahrpläne sind stark reduziert; planen Sie genau.",
+                "hu": "A téli menetrend korlátozott; tervezze meg pontosan az indulást.",
+                "ro": "Orarele de iarnă sunt mult reduse; planificați cu atenție.",
+                "en": "Winter schedules are significantly reduced; plan your timing carefully."
+              }
+            },
+            {
+              "name": "Sauzon (Port)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um auf den Bus zu warten und die Ruhe zu genießen.",
+                "hu": "Szép hely a buszra való várakozáshoz a téli nyugalomban.",
+                "ro": "Un loc frumos pentru a aștepta autobuzul și a savura liniștea.",
+                "en": "A beautiful spot to wait for the bus and enjoy the winter peace."
+              }
+            },
+            {
+              "name": "Pointe des Poulains",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtzeiten des letzten Busses.",
+                "hu": "Ügyeljen az utolsó busz indulási idejére.",
+                "ro": "Atenție la ora de plecare a ultimului autobuz.",
+                "en": "Be very mindful of the departure time for the last bus."
+              }
+            },
+            {
+              "name": "Grand Lighthouse",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine willkommene Aufwärmpause zwischen den Zielen.",
+                "hu": "A busz kellemes felmelegedési lehetőséget nyújt az állomások között.",
+                "ro": "Autobuzul oferă o pauză de încălzire binevenită între destinații.",
+                "en": "The bus provides a welcome warming break between destinations."
+              }
+            },
+            {
+              "name": "Vauban Citadel",
+              "tip_5lang": {
+                "de": "Im Winter ist dies der letzte Halt vor der Rückreise zum Hafen.",
+                "hu": "Télen ez az utolsó megálló a kikötőbe való visszatérés előtt.",
+                "ro": "Iarna, aceasta este ultima oprire înainte de întoarcerea în port.",
+                "en": "In winter, this is the final stop before returning to the harbor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter verkehrt nur die Hauptlinie regelmäßig.",
+              "Die Fahrzeiten sind ideal, um die Insel ohne Kältestress zu sehen.",
+              "Der letzte Bus fährt oft schon kurz nach Sonnenuntergang.",
+              "Halten Sie sich an die markierten Haltestellen; Winken hilft.",
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Télen csak a fővonal közlekedik rendszeresen.",
+              "A menetidők ideálisak a sziget felfedezéséhez fagyoskodás nélkül.",
+              "Az utolsó busz gyakran röviddel naplemente után indul.",
+              "Maradjon a kijelölt megállókban; a sofőrnek intsen leintéssel.",
+              "Használja a közlekedési társaság applikációját a valós idejű infókért."
+            ],
+            "ro": [
+              "Iarna circulă regulat doar linia principală.",
+              "Timpii de parcurs sunt ideali pentru a vedea insula fără stresul frigului.",
+              "Ultimul autobuz pleacă adesea la scurt timp după apus.",
+              "Stați în locurile marcate; faceți semn șoferului pentru oprire.",
+              "Folosiți aplicația companiei de transport pentru informații în timp real."
+            ],
+            "en": [
+              "Only the main bus line runs regularly during winter.",
+              "Travel times are ideal for seeing the island without getting too cold.",
+              "The last bus often departs shortly after sunset.",
+              "Wait at marked stops; wave to the driver to ensure they stop.",
+              "Use the local transit app for real-time schedule information."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
-    "tourism_office": "https://www.belle-ile.com/",
-    "events": "https://www.belle-ile.com/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Belle-Ile-en-Mer ist Bretagne pur, viele Inselbewohner sprechen Franzoesisch mit Bretagne-Akzent. Englisch klappt im Hauptort Le Palais und in Hotels, aber im kleinen Fischerhafen Sauzon oder bei den Crepe-Standchen ist ein 'bonjour' Goldstandard.",
-      "hu": "Belle-Ile-en-Mer tiszta Bretagne, sok szigetlakó breton akcentussal beszel franciat. Az angol megy Le Palais foljaratan es a szallodakban, de a kis halaszkikoto Sauzonban es a creperie-standoknal egy 'bonjour' aranyat er.",
-      "ro": "Belle-Ile-en-Mer e Bretania pura, multi insulari vorbesc franceza cu accent breton. Engleza merge in capitala Le Palais si la hoteluri, dar in micul port pescaresc Sauzon sau la chioscurile de cleatite un 'bonjour' e standardul de aur.",
-      "en": "Belle-Ile-en-Mer is pure Brittany; many islanders speak French with a Breton accent. English works in the main port Le Palais and hotels, but at little Sauzon harbour or crepe stands a 'bonjour' is the gold standard."
-    },
-    "best_time_to_visit": {
-      "de": "Juni und September sind perfekt: 18-23 Grad, ruhige Kuestenpfade GR340 und Faehren ohne Reservierungsstress. Juli und August sind voll mit Pariser Familien, Faehre 2 Wochen vorher buchen. Winter ist stuermisch und romantisch.",
-      "hu": "Junius es szeptember tokeletes: 18-23 fok, csendes partmenti turaut GR340 es kompoz nincs feszultseg. Julius-augusztus parizsi csaladokkal zsufolt, kompot 2 hetel előbb foglalj. Telen viharos es romantikus.",
-      "ro": "Iunie si septembrie sunt perfecte: 18-23 grade, poteca de coasta GR340 linistita si feriboturi fara stresul rezervarilor. Iulie-august sunt sufocate de familii pariziene; rezerva feribot cu 2 saptamani inainte. Iarna e furtunoasa si romantica.",
-      "en": "June and September are perfect: 18-23°C, quiet GR340 coastal path and ferries without booking stress. July and August are packed with Parisian families — book the ferry 2 weeks ahead. Winter is stormy and romantic."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher, Hauptthema sind starke Atlantikstroemungen an der Côte Sauvage (Westseite), Schwimmen nur an bewachten Suedstraenden. Mietfahrraeder im August oft alle weg, frueh buchen.",
-      "hu": "Nagyon biztonsagos, fo veszely a Côte Sauvage (nyugati oldal) erős atlanti arama, csak felugyelt deli strandokon uszorat. Berbiciklik augusztusban elfogynak, korai foglalas.",
-      "ro": "Foarte sigur, atentie la curentii puternici de pe Côte Sauvage (latura vestica), inoata doar pe plajele sudice supravegheate. Bicicletele de inchiriat se epuizeaza in august; rezerva devreme.",
-      "en": "Very safe; main concern is strong Atlantic currents on the Côte Sauvage (west side) — swim only at lifeguarded southern beaches. Hire bikes sell out in August, book early."
-    },
-    "parking_real_time": ""
   }
 }

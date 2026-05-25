@@ -986,32 +986,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tourisme-epinal.com/",
-    "events": "https://www.tourisme-epinal.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Épinal ist Heimat der berühmten 'Images d'Épinal' (Volksgrafik). Französisch dominiert, Englisch im Tourismusbüro vorhanden, Deutsch nur teilweise. Lothringisch-Vogesisch ist fast ausgestorben. 'Quétsch' (Mirabelle-Pflaume) im Markt nachfragen.",
-      "hu": "Épinal a híres 'Images d'Épinal' (népi grafika) otthona. Domináns a francia, az angol megy a turistairodában, a német csak részben. A lotaringiai-vogézi dialektus szinte kihalt. Piacon kérdezz rá a 'Quétsch' (mirabella szilva) gyümölcsre.",
-      "ro": "Épinal este patria celebrelor 'Images d'Épinal'. Franceza domină, engleza este la biroul de turism, germana doar parțial. Dialectul loren-vosgian este aproape dispărut. La piață, întrebați despre 'Quétsch' (prună mirabelă).",
-      "en": "Épinal is home to the famous 'Images d'Épinal' folk prints. French dominates, English at the tourist office, German only partially. The Lorraine-Vosges dialect is nearly extinct. Ask about 'Quétsch' (mirabelle plum) at markets."
-    },
-    "best_time_to_visit": {
-      "de": "Juli-August für Festival 'Floréal Musical' und Outdoor-Aktivitäten in den Vogesen. Mai-Juni für blühende Wälder. Oktober für Vogesen-Goldherbst. Vermeiden Sie Januar-Februar, sehr kalt und Wanderwege oft vereist.",
-      "hu": "Július-augusztus a 'Floréal Musical' fesztiválért és a vogézi szabadtéri aktivitásokért. Május-június a virágzó erdőkért. Október a vogézi aranyősszért. Január-február kerülendő, nagyon hideg, az ösvények jegesek.",
-      "ro": "Iulie-august pentru festivalul 'Floréal Musical' și activități outdoor în Vosgi. Mai-iunie pentru pădurile înflorite. Octombrie pentru aurul toamnei. Evitați ianuarie-februarie, foarte frig, poteci înghețate.",
-      "en": "July-August for the 'Floréal Musical' festival and Vosges outdoor activities. May-June for forests in bloom. October for the Vosges in golden autumn. Avoid January-February, very cold with icy trails."
-    },
-    "neighborhood_warnings": {
-      "de": "Sicher und ruhig. Beim Wandern in den Vogesen Wetter und Karte beachten, Wege schlecht markiert. Achtung an der Mosel nach starkem Regen, Hochwassergefahr im Frühling.",
-      "hu": "Biztonságos és csendes. A Vogézekben túrázásnál figyelj az időjárásra és a térképre, az ösvények rosszul jelöltek. Tavasszal a Mosel árvíz-veszélyes erős eső után.",
-      "ro": "Sigur și liniștit. La drumeții în Vosgi, atenție la vreme și hartă, marcaje slabe. Primăvara, Mosela poate inunda după ploi mari.",
-      "en": "Safe and quiet. When hiking the Vosges, check weather and a map, trails are poorly marked. Watch the Moselle for spring floods after heavy rain."
-    },
-    "parking_real_time": ""
   }
 }

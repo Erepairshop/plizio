@@ -882,32 +882,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine.html",
-    "tourism_office": "https://www.hossegor.fr/",
-    "events": "https://www.hossegor.fr/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.txik-txak.fr/",
-    "language_tips": {
-      "de": "Capbreton ist familienfreundlicher Nachbar von Hossegor mit Hafen-Charme. Englisch klappt in Restaurants und Surfschulen, aber das Fischerdorf-Feeling lebt von ein paar Brocken Franzoesisch in der Boulangerie und auf dem Markt.",
-      "hu": "Capbreton Hossegor csaladbarat szomszedja, kikoto-hangulattal. Az angol megy az ettermekben es szurfiskolakban, de a halaszfalui hangulat par francia szotol a pekiben es a piacon eled.",
-      "ro": "Capbreton e vecinul familist al Hossegorului, cu farmec de port. Engleza merge in restaurante si scoli de surf, dar atmosfera de sat pescaresc traieste din cateva cuvinte franceze la brutarie si in piata.",
-      "en": "Capbreton is Hossegor's family-friendly neighbour with harbour charm. English works in restaurants and surf schools, but the fishing-village feel comes alive with a few French words at the bakery and market."
-    },
-    "best_time_to_visit": {
-      "de": "Juni und September sind ideal: 22-26 Grad, ruhiger Hafen und freie Surf-Spots. Juli und August sind voll mit franzoesischen Familien, aber Capbreton bleibt entspannter als Hossegor. Winter ist still und maritimer Charme.",
-      "hu": "Junius es szeptember a legjobb: 22-26 fok, nyugodt kikoto es szabad szorf-spotok. Julius-augusztusban francia csaladok jonnek, de Capbreton lazabb marad mint Hossegor. Telen csendes, tengeri hangulat.",
-      "ro": "Iunie si septembrie sunt ideale: 22-26 grade, port linistit si spoturi de surf libere. Iulie-august aduc familii franceze, dar Capbreton ramane mai relaxat decat Hossegor. Iarna e linistita si plina de farmec maritim.",
-      "en": "June and September are ideal: 22-26°C, calm harbour and free surf spots. July and August bring French families but Capbreton stays more relaxed than Hossegor. Winter is quiet with maritime charm."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicheres Familienresort, einziges Risiko sind starke Stroemungen am Estacade-Wellenbrecher und Wertsachen in Strandtaschen. Hafenparkplaetze sind im August schnell voll.",
-      "hu": "Nagyon biztonsagos csaladi uduloltohely, egyetlen veszely az Estacade hullamtorot kerulo erős aram es az erteketlen strandtaska. Augusztusban a kikoto parkolok gyorsan megtelnek.",
-      "ro": "Statiune de familie foarte sigura, singurul risc fiind curentii puternici de langa digul Estacade si lasarea obiectelor de valoare in sacosele de plaja. Parcarile portului se umplu repede in august.",
-      "en": "Very safe family resort; the only risks are strong currents around the Estacade jetty and leaving valuables in beach bags. Harbour car parks fill quickly in August."
-    },
-    "parking_real_time": ""
   }
 }

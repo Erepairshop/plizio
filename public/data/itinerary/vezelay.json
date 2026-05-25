@@ -304,6 +304,426 @@
           "Park in the lots at the foot of the hill; the village center is largely pedestrian-only.",
           "The tourist office offers excellent maps for the ramparts walk."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im unteren Dorf auf der Place de la Liberté, bevor Sie die malerischen Gassen zur Basilika hinaufsteigen. Der Vormittag steht im Zeichen der Kunst im Musée Zervos.\n\nMittags erreichen Sie den Gipfel des „ewigen Hügels“. Die Basilika offenbart ihre romanische Pracht und ihre spirituelle Stille.\n\nAm Nachmittag genießen Sie das Panorama von der Schlossterrasse und wandern entlang der mittelalterlichen Stadtmauern, die das Dorf umschließen.\n\nLassen Sie den Tag im Garten der Maison Jules-Roy ausklingen, einem Ort der Inspiration mit Blick auf die sanften Hügel des Morvan.",
+            "hu": "Kezdje a napot az alsó faluban, a Szabadság téren, mielőtt elindulna a festői utcákon a bazilika felé. A délelőtt a művészeté a Zervos Múzeumban.\n\nDélben éri el az „örök domb” tetejét. A bazilika feltárja román kori pompáját és spirituális csendjét.\n\nDélután élvezze a panorámát a várteraszról, és sétáljon végig a falut körülölelő középkori városfalakon.\n\nA napot a Maison Jules-Roy kertjében zárja, amely az inspiráció helyszíne, kilátással a Morvan lankás dombjaira.",
+            "ro": "Începeți ziua în partea de jos a satului, în Piața Libertății, înainte de a urca pe străduțele pitorești spre bazilică. Dimineața este dedicată artei la Muzeul Zervos.\n\nLa prânz veți ajunge în vârful „dealului etern”. Bazilica își dezvăluie splendoarea romanică și liniștea spirituală.\n\nDupă-amiaza, bucurați-vă de panoramă de pe terasa castelului și plimbați-vă de-a lungul zidurilor medievale care înconjoară satul.\n\nÎncheiați ziua în grădina Casei Jules-Roy, un loc de inspirație cu vedere spre dealurile domoale din Morvan.",
+            "en": "Start your day in the lower village at Place de la Liberté before climbing the picturesque streets towards the basilica. The morning is dedicated to art at the Zervos Museum.\n\nAt midday, you reach the summit of the \"eternal hill.\" The basilica reveals its Romanesque splendor and spiritual silence.\n\nIn the afternoon, enjoy the panorama from the castle terrace and walk along the medieval ramparts that encircle the village.\n\nEnd the day in the garden of Maison Jules-Roy, a place of inspiration overlooking the rolling hills of the Morvan."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee am Fuße des Hügels, bevor Sie den Aufstieg beginnen.",
+                "hu": "Igyon egy kávét a domb lábánál, mielőtt elkezdené a kapaszkodást.",
+                "ro": "Savurați o cafea la poalele dealului înainte de a începe urcarea.",
+                "en": "Enjoy a coffee at the foot of the hill before starting the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Zervos",
+                "hu": "Zervos Múzeum",
+                "ro": "Muzeul Zervos",
+                "en": "Zervos Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie Werke von Picasso und Miro im ehemaligen Wohnhaus von Romain Rolland.",
+                "hu": "Csodálja meg Picasso és Miro műveit Romain Rolland egykori lakóházában.",
+                "ro": "Admirați opere de Picasso și Miro în fosta casă a lui Romain Rolland.",
+                "en": "Admire works by Picasso and Miro in the former home of Romain Rolland."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Sainte-Marie-Madeleine",
+                "hu": "Szent Mária Magdolna-bazilika",
+                "ro": "Bazilica Sainte-Marie-Madeleine",
+                "en": "Basilica of Saint Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Das Tympanon ist ein Meisterwerk der romanischen Kunst; achten Sie auf die Lichtspiele.",
+                "hu": "A timpanon a román művészet remekműve; figyelje a fény játékát a hajóban.",
+                "ro": "Timpanul este o capodoperă a artei romanice; observați jocurile de lumină.",
+                "en": "The tympanum is a masterpiece of Romanesque art; watch the play of light."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse du Château",
+                "hu": "Várterasz",
+                "ro": "Terasa Castelului",
+                "en": "Terrace of the Castle"
+              },
+              "tip_5lang": {
+                "de": "Picknicken Sie mit Blick auf das Cure-Tal unter den schattigen Linden.",
+                "hu": "Piknikezzen a Cure-völgyre nyíló kilátással az árnyas hársfák alatt.",
+                "ro": "Faceți un picnic cu vedere la Valea Cure sub teii umbroși.",
+                "en": "Have a picnic with a view of the Cure Valley under the shady lime trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Vézelay",
+                "hu": "Vézelay városfalai",
+                "ro": "Zidurile cetății Vézelay",
+                "en": "Ramparts of Vézelay"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang entlang der Mauern bietet die besten Fotomotive des Dorfes.",
+                "hu": "A falak mentén tett séta kínálja a legjobb fotótémákat a faluról.",
+                "ro": "O plimbare de-a lungul zidurilor oferă cele mai bune unghiuri pentru fotografii.",
+                "en": "A walk along the walls offers the best photo opportunities of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Jules-Roy",
+                "hu": "Jules-Roy háza",
+                "ro": "Casa Jules-Roy",
+                "en": "Jules-Roy House"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten des Schriftstellers für einen Moment der Stille.",
+                "hu": "Látogasson el az író kertjébe egy pillanatnyi csendért.",
+                "ro": "Vizitați grădina scriitorului pentru un moment de liniște.",
+                "en": "Visit the writer's garden for a moment of quiet reflection."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vezelay AOC Weißwein",
+                "tip": "Probieren Sie den lokalen Chardonnay in den Kellern der Rue Saint-Etienne."
+              },
+              {
+                "name": "Restaurant Le Compostelle",
+                "tip": "Traditionelle burgundische Küche in einem historischen Gebäude."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vezelay AOC fehérbor",
+                "tip": "Kóstolja meg a helyi Chardonnay-t a Rue Saint-Etienne pincéiben."
+              },
+              {
+                "name": "Le Compostelle étterem",
+                "tip": "Hagyományos burgundi konyha egy történelmi épületben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin alb Vezelay AOC",
+                "tip": "Gustați Chardonnay-ul local în cramele de pe Rue Saint-Etienne."
+              },
+              {
+                "name": "Restaurant Le Compostelle",
+                "tip": "Bucătărie tradițională burgundă într-o clădire istorică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vezelay AOC White Wine",
+                "tip": "Taste the local Chardonnay in the cellars of Rue Saint-Etienne."
+              },
+              {
+                "name": "Le Compostelle Restaurant",
+                "tip": "Traditional Burgundian cuisine in a historic building."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Garten der Maison Jules-Roy",
+                "tip": "Ein meditativer Ort mit Blick auf das Tal.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Hinterer Teil der Basilika",
+                "tip": "Suchen Sie die Stille in den Kapellen am Chorumgang.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maison Jules-Roy kertje",
+                "tip": "Meditatív hely kilátással a völgyre.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "A bazilika hátsó része",
+                "tip": "Keresse a csendet a szentély körüli kápolnákban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Casei Jules-Roy",
+                "tip": "Un loc meditativ cu vedere spre vale.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Partea din spate a Bazilicii",
+                "tip": "Căutați liniștea în capelele din jurul corului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Garden of Maison Jules-Roy",
+                "tip": "A meditative spot with a valley view.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rear of the Basilica",
+                "tip": "Find quiet in the chapels around the ambulatory.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Artisanat Monastique",
+                "tip": "Produkte aus Klöstern, von Honig bis zu handgefertigten Kerzen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Artisanat Monastique",
+                "tip": "Kolostori termékek a méztől a kézzel készített gyertyákig."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Artisanat Monastique",
+                "tip": "Produse monahale, de la miere la lumânări artizanale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Artisanat Monastique",
+                "tip": "Monastic products ranging from honey to handmade candles."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe; das Kopfsteinpflaster ist steil und uneben.",
+              "Besuchen Sie die Basilika zur Mittagszeit, um das Lichtspiel im Hauptschiff zu sehen.",
+              "Parken Sie auf den Parkplätzen am Fuße des Hügels, das Dorfzentrum ist weitgehend autofrei.",
+              "Die Touristeninformation bietet hervorragende Pläne für den Rundgang über die Stadtmauern."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt; a macskaköves utcák meredekek és egyenetlenek.",
+              "Látogassa meg a bazilikát délidőben, hogy lássa a fények játékát a főhajóban.",
+              "Parkoljon a domb lábánál található parkolókban, a falu központja nagyrészt autómentes.",
+              "A turisztikai iroda kiváló térképeket kínál a városfalakon való körbesétáláshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă; străzile cu piatră cubică sunt abrupte și neregulate.",
+              "Vizitați bazilica la prânz pentru a vedea jocul de lumini în nava principală.",
+              "Parcați în parcările de la poalele dealului, centrul satului este în mare parte pietonal.",
+              "Biroul de turism oferă hărți excelente pentru circuitul zidurilor cetății."
+            ],
+            "en": [
+              "Wear comfortable shoes; the cobblestone streets are steep and uneven.",
+              "Visit the basilica at midday to see the play of light in the nave.",
+              "Park in the lots at the foot of the hill; the village center is largely pedestrian-only.",
+              "The tourist office offers excellent maps for the ramparts walk."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Vézelay beginnt am Place de la Liberté, wo Pfützen die historischen Fassaden widerspiegeln. Das Zervos-Museum bietet einen idealen Rückzugsort vor dem Guss. Mittags bietet die Basilika Schutz und spirituelle Stille. Der Spaziergang entlang der Stadtmauern wirkt im Nebel mystisch, erfordert jedoch festes Schuhwerk auf den glatten Steinen.",
+            "hu": "Az esős reggel a Place de la Liberté-n indul, ahol a pocsolyák tükrözik a történelmi homlokzatokat. A Zervos Múzeum kiváló menedék a zápor elől. Délben a Bazilika nyújt oltalmat és csendes elmélyülést. A várfalakon tett séta a ködben misztikus hangulatot áraszt, de a csúszós kövek miatt óvatosan lépkedjünk.",
+            "ro": "O dimineață ploioasă în Vézelay începe în Place de la Liberté, unde bălțile reflectă fațadele istorice. Muzeul Zervos oferă un refugiu ideal împotriva aversei. La prânz, Basilica oferă adăpost și liniște spirituală. Plimbarea pe metereze pare mistică în ceață, dar necesită încălțăminte aderentă pe pietrele alunecoase.",
+            "en": "A rainy morning in Vézelay begins at Place de la Liberté, where puddles reflect the historic facades. The Zervos Museum provides an ideal retreat from the downpour. At midday, the Basilica offers shelter and spiritual silence. The walk along the ramparts feels mystical in the mist but requires sturdy shoes on the slippery stones."
+          },
+          "stops": [
+            {
+              "name": "Place de la Liberté",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the awnings of the local cafes."
+              }
+            },
+            {
+              "name": "Zervos Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Tökéletes hely a heves eső szárazon történő átvészeléséhez.",
+                "ro": "Locul perfect pentru a aștepta oprirea ploii la căldură.",
+                "en": "The perfect place to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Die Akustik des Regens auf dem Dach ist beeindruckend.",
+                "hu": "Az eső kopogása a tetőn különleges akusztikát ad.",
+                "ro": "Sunetul ploii pe acoperiș creează o acustică impresionantă.",
+                "en": "The sound of rain on the roof creates a unique acoustic."
+              }
+            },
+            {
+              "name": "Terrace of the Castle",
+              "tip_5lang": {
+                "de": "Vorsicht, der Rasen kann sehr matschig sein.",
+                "hu": "Vigyázat, a fű nagyon sáros és csúszós lehet.",
+                "ro": "Atenție, iarba poate fi foarte noroioasă.",
+                "en": "Be careful, the grass can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "Ramparts of Vézelay",
+              "tip_5lang": {
+                "de": "Glatte Steine! Nutzen Sie das Geländer.",
+                "hu": "Csúszós kövek! Használja a korlátokat.",
+                "ro": "Pietre alunecoase! Folosiți balustrada.",
+                "en": "Slippery stones! Make sure to use the handrails."
+              }
+            },
+            {
+              "name": "Jules-Roy House",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verregnete Tal.",
+                "hu": "Élvezze a kilátást az eső áztatta völgyre.",
+                "ro": "Bucurați-vă de priveliștea văii spălate de ploaie.",
+                "en": "Enjoy the view of the rain-washed valley from inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Wanderschuhe für das Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist bei Wind auf dem Hügel unerlässlich.",
+              "Nutzen Sie die Basilika als längeren Aufenthaltspunkt bei Schauern.",
+              "Die schmalen Gassen bieten oft natürlichen Windschutz."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a macskaköves utcákhoz.",
+              "A dombtetőn a szél miatt egy erős esernyő elengedhetetlen.",
+              "Használja a Bazilikát hosszabb pihenőhelyként zápor idején.",
+              "A szűk mellékutcák gyakran természetes szélfogók."
+            ],
+            "ro": [
+              "Purtați pantofi de trekking impermeabili pentru pavaj.",
+              "O umbrelă rezistentă e esențială din cauza vântului de pe deal.",
+              "Folosiți Basilica ca punct de oprire prelungit în timpul averselor.",
+              "Străzile înguste oferă adesea protecție naturală împotriva vântului."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the cobblestone streets.",
+              "A sturdy umbrella is essential due to wind on the hill.",
+              "Use the Basilica as a long-stay point during heavy showers.",
+              "Narrow side streets often provide natural wind protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter liegt eine stille Kälte über Vézelay. Der Morgen am Place de la Liberté ist frostig, oft mit Raureif auf den Brunnen. Das Zervos-Museum bietet eine warme Pause. Nach dem Besuch der Basilika taucht das frühe Abendlicht die Stadtmauern in Gold, bevor es um 17:00 Uhr dunkel wird. Ein Tag voller klarer Luft und einsamer Schönheit.",
+            "hu": "Télen csendes hideg telepedik Vézelay-re. A reggel a Place de la Liberté-n fagyos, a kutakon gyakran dér csillog. A Zervos Múzeum meleg pihenőt kínál. A Bazilika megtekintése után a korai esti fények aranyba vonják a várfalakat, mielőtt 17:00-kor leszáll az éj. Tiszta levegő és magányos szépség.",
+            "ro": "Iarna, o liniște rece stăpânește Vézelay. Dimineața în Place de la Liberté este geroasă, cu chiciură pe fântâni. Muzeul Zervos oferă o pauză caldă. După vizitarea Basilicii, lumina timpurie a serii scaldă meterezele în aur, înainte de apusul de la ora 17:00. O zi plină de aer curat și frumusețe solitară.",
+            "en": "In winter, a quiet cold settles over Vézelay. The morning at Place de la Liberté is frosty, often with rime on the fountains. The Zervos Museum offers a warm break. After visiting the Basilica, the early evening light bathes the ramparts in gold before darkness falls at 17:00. A day of crisp air and solitary beauty."
+          },
+          "stops": [
+            {
+              "name": "Place de la Liberté",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Getränk auf.",
+                "hu": "Melegedjen fel egy forró itallal a közeli kávézóban.",
+                "ro": "Încălziți-vă cu o băutură fierbinte la o cafenea.",
+                "en": "Warm up with a hot drink at a nearby cafe."
+              }
+            },
+            {
+              "name": "Zervos Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a korlátozott téli nyitvatartást.",
+                "ro": "Verificați programul redus de iarnă.",
+                "en": "Check for restricted winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als draußen.",
+                "hu": "A belső tér jelentősen melegebb a kinti levegőnél.",
+                "ro": "Interiorul este considerabil mai cald decât afară.",
+                "en": "The interior is significantly warmer than the outside air."
+              }
+            },
+            {
+              "name": "Terrace of the Castle",
+              "tip_5lang": {
+                "de": "Klare Sicht auf das verschneite Morvan-Gebirge.",
+                "hu": "Tiszta kilátás a havas Morvan-hegységre.",
+                "ro": "Vedere clară spre munții Morvan acoperiți de zăpadă.",
+                "en": "Clear views of the snow-capped Morvan mountains."
+              }
+            },
+            {
+              "name": "Ramparts of Vézelay",
+              "tip_5lang": {
+                "de": "Achtung bei Glatteis auf den Treppenstufen.",
+                "hu": "Vigyázat, a lépcsőfokok jegesek lehetnek.",
+                "ro": "Atenție la polei pe treptele scărilor.",
+                "en": "Watch out for black ice on the stone steps."
+              }
+            },
+            {
+              "name": "Jules-Roy House",
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter oft geschlossen.",
+                "hu": "A kert télen gyakran zárva tart, nézzen be az ablakon.",
+                "ro": "Grădina este adesea închisă pe timp de iarnă.",
+                "en": "The garden is often closed in winter; check availability."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind auf dem Hügel ist beißend.",
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie den Rückweg.",
+              "Viele kleine Läden haben im Winter Mittagspause.",
+              "Glatteisgefahr auf den steilen Wegen zur Basilika."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; a szél a dombon metsző lehet.",
+              "A nap 17:00 körül nyugszik, tervezze meg a visszautat.",
+              "Sok kis bolt télen hosszabb ebédszünetet tart.",
+              "Jegesedés várható a Bazilikához vezető meredek utakon."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul de pe deal poate fi tăios.",
+              "Soarele apune în jurul orei 17:00, planificați întoarcerea.",
+              "Multe magazine mici au pauză de prânz prelungită iarna.",
+              "Pericol de polei pe drumurile abrupte spre Basilică."
+            ],
+            "en": [
+              "Wear thermal layers; the wind on the hill can be biting.",
+              "Sunset is around 17:00, plan your return accordingly.",
+              "Many small shops have longer lunch breaks in winter.",
+              "Expect icy patches on the steep paths to the Basilica."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -543,6 +963,358 @@
           "Bring plenty of water, especially for visiting Fontaines Salées.",
           "Bike rental stations are available near the tourist information office."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie vom historischen Zentrum Vézelays hinunter in das Tal der Cure. Erleben Sie die Natur und die Geschichte des Umlandes auf zwei Rädern.\n\nAm Vormittag besuchen Sie das charmante Dorf Saint-Père und setzen Ihren Weg zu den archäologischen Schätzen von Fontaines Salées fort.\n\nMittags genießen Sie die Ruhe am Flussufer der Cure, bevor Sie den Rückweg antreten.\n\nDer Nachmittag endet mit dem sportlichen Aufstieg zurück zur Basilika, wo Sie den Tag mit einem weiten Blick über das Burgund abschließen.",
+            "hu": "Ez a kerékpártúra Vézelay történelmi központjából vezet le a Cure völgyébe. Fedezze fel a környék természetét és történelmét két keréken.\n\nDélelőtt látogassa meg a bájos Saint-Père falut, majd folytassa útját Fontaines Salées régészeti kincseihez.\n\nDélben élvezze a Cure folyóparti nyugalmát, mielőtt elindulna visszafelé.\n\nA délután a bazilikához való sportos visszatéréssel zárul, ahol Burgundia tágas látképével fejezheti be a napot.",
+            "ro": "Acest tur cu bicicleta vă conduce din centrul istoric al Vézelay-ului în valea râului Cure. Descoperiți natura și istoria împrejurimilor pe două roți.\n\nDimineața vizitați satul pitoresc Saint-Père și continuați drumul spre comorile arheologice de la Fontaines Salées.\n\nLa prânz bucurați-vă de liniștea de pe malul râului Cure înainte de a porni înapoi.\n\nDupă-amiaza se încheie cu urcarea sportivă înapoi spre bazilică, unde veți termina ziua cu o vedere panoramică asupra Burgundiei.",
+            "en": "This bike tour takes you from the historic center of Vézelay down into the Cure valley. Experience the nature and history of the surroundings on two wheels.\n\nIn the morning, visit the charming village of Saint-Père and continue to the archaeological treasures of Fontaines Salées.\n\nAt midday, enjoy the tranquility by the Cure river before heading back.\n\nThe afternoon ends with the athletic climb back to the basilica, where you conclude the day with a sweeping view of Burgundy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für die Erkundung des Umlandes.",
+                "hu": "A környék felfedezésének kiindulópontja.",
+                "ro": "Punct de plecare pentru explorarea împrejurimilor.",
+                "en": "Starting point for exploring the surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Père Dorfzentrum",
+                "hu": "Saint-Père faluközpont",
+                "ro": "Centrul satului Saint-Père",
+                "en": "Saint-Père Village Center"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die gotische Kirche Notre-Dame de Saint-Père am Fuße des Hügels.",
+                "hu": "Látogassa meg a gótikus Notre-Dame de Saint-Père templomot a domb lábánál.",
+                "ro": "Vizitați biserica gotică Notre-Dame de Saint-Père de la poalele dealului.",
+                "en": "Visit the Gothic church of Notre-Dame de Saint-Père at the foot of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaines Salées",
+                "hu": "Fontaines Salées",
+                "ro": "Fontaines Salées",
+                "en": "Fontaines Salées"
+              },
+              "tip_5lang": {
+                "de": "Antike Ausgrabungsstätte mit salzhaltigen Quellen aus gallo-römischer Zeit.",
+                "hu": "Ókori ásatási terület gall-római kori sós forrásokkal.",
+                "ro": "Sit arheologic antic cu izvoare sărate din epoca gallo-romană.",
+                "en": "Ancient archaeological site with salty springs from the Gallo-Roman era."
+              }
+            },
+            {
+              "name": {
+                "de": "Cure-Ufer",
+                "hu": "Cure-part",
+                "ro": "Malul râului Cure",
+                "en": "Banks of the Cure"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Platz für eine Pause am Fluss.",
+                "hu": "Árnyas hely egy pihenőhöz a folyóparton.",
+                "ro": "Un loc umbros pentru o pauză pe malul râului.",
+                "en": "A shady spot for a break by the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Sainte-Marie-Madeleine",
+                "hu": "Szent Mária Magdolna-bazilika",
+                "ro": "Bazilica Sainte-Marie-Madeleine",
+                "en": "Basilica of Saint Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Der finale Anstieg lohnt sich für den Blick und die Architektur.",
+                "hu": "A végső emelkedő megéri a kilátás és az építészet miatt.",
+                "ro": "Urcarea finală merită pentru priveliște și arhitectură.",
+                "en": "The final climb is worth it for the view and the architecture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Espérance",
+                "tip": "Ein berühmtes Gourmetrestaurant in Saint-Père für ein besonderes Mittagessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Espérance",
+                "tip": "Híres ínyenc étterem Saint-Père-ben egy különleges ebédhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Espérance",
+                "tip": "Un celebru restaurant gastronomic în Saint-Père pentru un prânz special."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Espérance",
+                "tip": "A famous gourmet restaurant in Saint-Père for a special lunch."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer der Cure",
+                "tip": "Perfekt für eine kühle Pause im Sommer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cure-part",
+                "tip": "Tökéletes hűsölésre a nyári szünetben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Cure",
+                "tip": "Perfect pentru o pauză răcoroasă în timpul verii.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of the Cure",
+                "tip": "Perfect for a cool break in the summer.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig aus Saint-Père",
+                "tip": "Direktverkauf bei den Imkern im Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz Saint-Père-ből",
+                "tip": "Közvetlen vásárlás a falu méhészeitől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală din Saint-Père",
+                "tip": "Vânzare directă de la apicultorii din sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey from Saint-Père",
+                "tip": "Direct sales from the beekeepers in the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Rückweg nach Vézelay ist ein steiler Anstieg; ein E-Bike ist empfehlenswert.",
+              "Die Straßen im Tal sind verkehrsarm und ideal für Radfahrer.",
+              "Nehmen Sie ausreichend Wasser mit, besonders für die Besichtigung der Fontaines Salées.",
+              "Es gibt Fahrradverleih-Stationen in der Nähe der Touristeninformation."
+            ],
+            "hu": [
+              "A Vézelay-ba vezető visszautat meredek emelkedő jellemzi; az elektromos kerékpár ajánlott.",
+              "A völgy útjai kevés forgalmúak és ideálisak a kerékpárosok számára.",
+              "Vigyen magával elegendő vizet, különösen a Fontaines Salées megtekintéséhez.",
+              "A turisztikai iroda közelében kerékpárkölcsönzők találhatók."
+            ],
+            "ro": [
+              "Drumul de întoarcere spre Vézelay este o urcare abruptă; se recomandă o bicicletă electrică.",
+              "Drumurile din vale au trafic redus și sunt ideale pentru bicicliști.",
+              "Luați suficientă apă, în special pentru vizitarea Fontaines Salées.",
+              "Există centre de închirieri biciclete lângă biroul de turism."
+            ],
+            "en": [
+              "The return trip to Vézelay involves a steep climb; an e-bike is highly recommended.",
+              "The valley roads have low traffic and are ideal for cyclists.",
+              "Bring plenty of water, especially for visiting Fontaines Salées.",
+              "Bike rental stations are available near the tourist information office."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Mut und Ausrüstung. Von Vézelay geht es vorsichtig hinunter nach Saint-Père, wo der Asphalt rutschig sein kann. Die Fontaines Salées bieten eine mystische Atmosphäre unter grauem Himmel. Entlang der Cure spritzt das Wasser hoch, bevor der steile Anstieg zurück zur Basilika die letzte Energie fordert.",
+            "hu": "Az esős kerékpártúra bátorságot és jó felszerelést igényel. Vézelay-ből óvatosan ereszkedünk Saint-Père-be, ahol az aszfalt csúszós lehet. A Fontaines Salées misztikus hangulatot áraszt a szürke ég alatt. A Cure partján felfröccsen a víz, mielőtt a Bazilikához vezető meredek emelkedő próbára teszi az erőt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită curaj și echipament. Din Vézelay coborâm cu grijă spre Saint-Père, unde asfaltul poate fi alunecos. Fontaines Salées oferă o atmosferă mistică sub cerul gri. Pe malul râului Cure apa stropește tare, înainte ca urcarea spre Basilică să ceară ultima energie.",
+            "en": "A bike tour in the rain requires courage and proper gear. From Vézelay, descend carefully to Saint-Père, where the asphalt can be slippery. Fontaines Salées offers a mystical atmosphere under gray skies. Along the Cure, water splashes up before the steep climb back to the Basilica demands your final energy."
+          },
+          "stops": [
+            {
+              "name": "Place de la Liberté",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket.",
+                "ro": "Verificați frânele înainte de plecare.",
+                "en": "Check your brakes before starting the descent."
+              }
+            },
+            {
+              "name": "Saint-Père Village Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a fékezéssel a nedves macskaköveken.",
+                "ro": "Atenție la frânarea pe pavajul umed.",
+                "en": "Be extra careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Fontaines Salées",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad auf befestigtem Grund ab.",
+                "hu": "A biciklit szilárd talajon parkolja le a sár miatt.",
+                "ro": "Parcați bicicleta pe teren stabil din cauza noroiului.",
+                "en": "Park your bike on firm ground to avoid the mud."
+              }
+            },
+            {
+              "name": "Banks of the Cure",
+              "tip_5lang": {
+                "de": "Der Uferweg kann überschwemmt oder schlammig sein.",
+                "hu": "A parti út sáros vagy elöntött lehet.",
+                "ro": "Poteca de pe mal poate fi inundată sau noroioasă.",
+                "en": "The riverside path may be muddy or partially flooded."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in der Vorhalle ab.",
+                "hu": "Szárítkozzon meg az előcsarnokban látogatás előtt.",
+                "ro": "Uscați-vă în narthex înainte de a intra.",
+                "en": "Dry off in the narthex before entering the sanctuary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen empfohlen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie Markierungen auf der Fahrbahn, sie sind extrem glatt.",
+              "Planen Sie mehr Zeit für den Bremsweg ein."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "Hagyjon hosszabb időt a fékezéshez."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie și protecții pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "Planificați o distanță de frânare mai mare."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is recommended.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid road markings as they become extremely slippery.",
+              "Allow extra time and distance for braking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Burgund ist erfrischend, aber kalt. Der Start in Vézelay bei Frost erfordert warme Handschuhe. Die Abfahrt nach Saint-Père führt durch klare, kalte Luft. Bei den Fontaines Salées glitzert oft Frost auf den alten Steinen. Der Rückweg bergauf zur Basilika wärmt den Körper wieder auf, bevor die Sonne früh verschwindet.",
+            "hu": "A téli kerékpározás Burgundiában frissítő, de fagyos. A reggeli indulás Vézelay-ből meleg kesztyűt igényel. A Saint-Père-be vezető lejtő tiszta, hideg levegőn át visz. A Fontaines Salées kövein gyakran dér csillog. A Bazilikához vezető emelkedő segít felmelegedni, mielőtt a nap korán lenyugszik.",
+            "ro": "Ciclismul de iarnă în Burgundia este revigorant, dar rece. Startul din Vézelay pe ger necesită mănuși groase. Coborârea spre Saint-Père trece prin aer rece și curat. La Fontaines Salées, chiciura strălucește pe pietrele vechi. Urcarea înapoi spre Basilică vă va încălzi corpul înainte de apus.",
+            "en": "Winter cycling in Burgundy is refreshing but biting cold. Starting in Vézelay in the frost requires heavy gloves. The descent to Saint-Père takes you through crisp, cold air. At Fontaines Salées, frost often glitters on the ancient stones. The climb back to the Basilica will warm you up before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Place de la Liberté",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten.",
+                "hu": "Vigyázzon a lefagyásokra az árnyékos részeken.",
+                "ro": "Atenție la porțiunile înghețate din zonele cu umbră.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Saint-Père Village Center",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist bei der Abfahrt extrem kalt.",
+                "hu": "A menetszél a lejtőn rendkívül hideg.",
+                "ro": "Curentul de aer la coborâre este extrem de rece.",
+                "en": "The wind chill during the descent is extreme."
+              }
+            },
+            {
+              "name": "Fontaines Salées",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um nicht auszukühlen.",
+                "hu": "Csak rövid megállót tartson, nehogy lehűljön.",
+                "ro": "Faceți o oprire scurtă pentru a nu vă răci corpul.",
+                "en": "Keep the stop brief to avoid cooling down too much."
+              }
+            },
+            {
+              "name": "Banks of the Cure",
+              "tip_5lang": {
+                "de": "Die feuchte Luft am Fluss fühlt sich kälter an.",
+                "hu": "A folyóparti párás levegő hidegebbnek érződik.",
+                "ro": "Aerul umed de lângă râu se simte mult mai rece.",
+                "en": "The damp air by the river feels significantly colder."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an einem hellen Ort an.",
+                "hu": "Világos helyen zárja le a biciklit a korai sötétedés miatt.",
+                "ro": "Legați bicicleta într-un loc iluminat.",
+                "en": "Lock your bike in a well-lit area due to early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist überlebenswichtig.",
+              "Nehmen Sie eine Thermoskanne mit Tee mit.",
+              "Vermeiden Sie Fahrten nach 16:30 Uhr (Dunkelheit).",
+              "Prüfen Sie den Reifendruck; Kälte senkt ihn."
+            ],
+            "hu": [
+              "A réteges öltözködés elengedhetetlen.",
+              "Vigyen magával teát termoszban.",
+              "Kerülje a 16:30 utáni tekerést a sötétedés miatt.",
+              "Ellenőrizze a guminyomást; a hidegben csökken."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este vitală.",
+              "Luați un termos cu ceai fierbinte la voi.",
+              "Evitați deplasările după ora 16:30 din cauza întunericului.",
+              "Verificați presiunea în pneuri; scade la frig."
+            ],
+            "en": [
+              "Layered clothing is vital to manage body temperature.",
+              "Bring a thermos with hot tea for the ride.",
+              "Avoid cycling after 16:30 due to early darkness.",
+              "Check tire pressure as it drops in cold temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1554,358 @@
           "Château de Bazoches is partially closed in winter; check opening hours.",
           "Combine your visit with a trip into the Morvan Natural Park."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie nicht nur Vézelay, sondern auch die Schätze des Umlandes. Beginnen Sie Ihren Vormittag im Herzen des Dorfes.\n\nEin kurzer Ausflug führt Sie zum prachtvollen Château de Bazoches, dem ehemaligen Sitz von Vauban, bevor Sie die natürlichen Felsformationen von Pierre-Perthuis bestaunen.\n\nMittags erkunden Sie die gallo-römischen Wurzeln in Saint-Père.\n\nDer Tag endet wieder in Vézelay, wo Sie die magische Abendstimmung genießen, wenn die Tagestouristen abgereist sind.",
+            "hu": "Autóval nemcsak Vézelay-t, hanem a környék kincseit is felfedezheti. Kezdje a délelőttöt a falu szívében.\n\nEgy rövid kirándulás a pompás Bazoches-i kastélyhoz vezet, Vauban egykori lakhelyéhez, majd csodálja meg Pierre-Perthuis természetes sziklaformációit.\n\nDélben fedezze fel a gall-római gyökereket Saint-Père-ben.\n\nA nap ismét Vézelay-ban ér véget, ahol élvezheti a mágikus esti hangulatot, miután a turisták nagy része már távozott.",
+            "ro": "Cu mașina veți descoperi nu doar Vézelay, ci și comorile din împrejurimi. Începeți dimineața în inima satului.\n\nO scurtă excursie vă duce la splendidul Castel Bazoches, fosta reședință a lui Vauban, înainte de a admira formațiunile stâncoase naturale din Pierre-Perthuis.\n\nLa prânz explorați rădăcinile gallo-romane în Saint-Père.\n\nZiua se încheie din nou în Vézelay, unde vă puteți bucura de atmosfera magică de seară, după ce turiștii de zi au plecat.",
+            "en": "By car, you will discover not only Vézelay but also the treasures of the surrounding area. Start your morning in the heart of the village.\n\nA short excursion takes you to the magnificent Château de Bazoches, the former home of Vauban, before admiring the natural rock formations of Pierre-Perthuis.\n\nAt midday, explore the Gallo-Roman roots in Saint-Père.\n\nThe day ends back in Vézelay, where you can enjoy the magical evening atmosphere once the day-trippers have departed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vézelay Zentrum",
+                "hu": "Vézelay központ",
+                "ro": "Centrul Vézelay",
+                "en": "Vézelay Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die Basilika und das Dorf.",
+                "hu": "Használja ki a délelőttöt a bazilika és a falu felfedezésére.",
+                "ro": "Folosiți dimineața pentru a vizita bazilica și satul.",
+                "en": "Use the morning to explore the basilica and the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bazoches",
+                "hu": "Bazoches-i kastély",
+                "ro": "Castelul Bazoches",
+                "en": "Château de Bazoches"
+              },
+              "tip_5lang": {
+                "de": "Der Wohnsitz von Marschall Vauban bietet einen tiefen Einblick in die Militärgeschichte.",
+                "hu": "Vauban marsall lakóhelye mély betekintést nyújt a hadtörténetbe.",
+                "ro": "Reședința mareșalului Vauban oferă o perspectivă profundă asupra istoriei militare.",
+                "en": "The residence of Marshal Vauban offers deep insight into military history."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre-Perthuis Brücken",
+                "hu": "Pierre-Perthuis hídjai",
+                "ro": "Podurile din Pierre-Perthuis",
+                "en": "Pierre-Perthuis Bridges"
+              },
+              "tip_5lang": {
+                "de": "Zwei beeindruckende Brücken und ein natürlicher Felsbogen über der Cure.",
+                "hu": "Két lenyűgöző híd és egy természetes sziklaív a Cure folyó felett.",
+                "ro": "Două poduri impresionante și un arc natural de piatră peste râul Cure.",
+                "en": "Two impressive bridges and a natural rock arch over the Cure."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Père Archäologie",
+                "hu": "Saint-Père régészet",
+                "ro": "Arheologie Saint-Père",
+                "en": "Saint-Père Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das archäologische Museum vor Ort.",
+                "hu": "Látogassa meg a helyi régészeti múzeumot.",
+                "ro": "Vizitați muzeul arheologic local.",
+                "en": "Visit the local archaeological museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Abendessen in Vézelay",
+                "hu": "Vacsora Vézelay-ban",
+                "ro": "Cină în Vézelay",
+                "en": "Dinner in Vézelay"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag in einem der gemütlichen Restaurants am Hauptplatz ausklingen.",
+                "hu": "Zárja a napot a főtér egyik hangulatos éttermében.",
+                "ro": "Încheiați ziua într-unul dintre restaurantele primitoare din piața centrală.",
+                "en": "End the day in one of the cozy restaurants on the main square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Epoisses Käse",
+                "tip": "Ein kräftiger Weichkäse aus der Region, perfekt mit einem Glas Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Epoisses sajt",
+                "tip": "Erőteljes lágy sajt a régióból, tökéletes egy pohár borral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Epoisses",
+                "tip": "O brânză moale cu aromă puternică din regiune, perfectă cu un pahar de vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Epoisses Cheese",
+                "tip": "A strong regional soft cheese, perfect with a glass of wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pierre-Perthuis",
+                "tip": "Die Ruhe am Fluss und der Anblick des natürlichen Felsbogens.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pierre-Perthuis",
+                "tip": "A folyóparti nyugalom és a természetes sziklaív látványa.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pierre-Perthuis",
+                "tip": "Liniștea de pe malul râului și priveliștea arcului natural.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pierre-Perthuis",
+                "tip": "Tranquility by the river and the sight of the natural rock arch.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vinothèque de Vézelay",
+                "tip": "Große Auswahl an lokalen Weinen und regionalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vinothèque de Vézelay",
+                "tip": "Helyi borok és regionális termékek széles választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinothèque de Vézelay",
+                "tip": "O selecție vastă de vinuri locale și produse regionale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vinothèque de Vézelay",
+                "tip": "A wide selection of local wines and regional products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkplätze am Fuße des Hügels sind oft überfüllt; kommen Sie früh.",
+              "Die Straßen zum Bazoches-Kastell sind schmal, bieten aber schöne Ausblicke.",
+              "Bazoches ist im Winter teilweise geschlossen, prüfen Sie die Öffnungszeiten.",
+              "Kombinieren Sie den Besuch mit einem Abstecher zum Morvan-Naturpark."
+            ],
+            "hu": [
+              "A domb lábánál lévő parkolók gyakran zsúfoltak; érkezzen korán.",
+              "A Bazoches-kastélyhoz vezető utak keskenyek, de gyönyörű kilátást nyújtanak.",
+              "Bazoches télen részben zárva tart, ellenőrizze a nyitvatartást.",
+              "Kombinálja a látogatást egy kirándulással a Morvan Natúrparkba."
+            ],
+            "ro": [
+              "Parcările de la poalele dealului sunt adesea pline; veniți devreme.",
+              "Drumurile spre Castelul Bazoches sunt înguste, dar oferă priveliști frumoase.",
+              "Bazoches este parțial închis iarna, verificați programul de funcționare.",
+              "Combinați vizita cu o excursie în Parcul Natural Regional Morvan."
+            ],
+            "en": [
+              "Parking lots at the foot of the hill fill up quickly; arrive early.",
+              "The roads to Bazoches are narrow but offer scenic views.",
+              "Château de Bazoches is partially closed in winter; check opening hours.",
+              "Combine your visit with a trip into the Morvan Natural Park."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich der Regen in Burgund genießen. Von Vézelay aus führt die Fahrt durch grüne, nasse Täler zum Château de Bazoches. Die Scheibenwischer takten zum Rhythmus der Reise. Die Pierre-Perthuis-Brücken wirken im Regen besonders dramatisch, während man im trockenen Fahrzeug zur nächsten Station in Saint-Père rollt, bevor der Tag bei einem gemütlichen Dinner endet.",
+            "hu": "Autóval az esős Burgundia is élvezetes. Vézelay-ből indulva zöld, ázott völgyeken át jutunk el a Bazoches kastélyhoz. Az ablaktörlők ütemesen kísérik az utat. A Pierre-Perthuis hidak drámai látványt nyújtanak az esőben, miközben mi szárazon gurulunk Saint-Père felé, hogy végül egy kellemes vacsorával zárjuk a napot.",
+            "ro": "Cu mașina, ploaia în Burgundia poate fi savurată. Din Vézelay, drumul trece prin văi verzi și umede spre Castelul Bazoches. Ștergătoarele bat în ritmul călătoriei. Podurile Pierre-Perthuis par dramatice în ploaie, în timp ce rulați uscat spre Saint-Père, înainte de a încheia ziua cu o cină caldă.",
+            "en": "By car, you can enjoy rainy Burgundy in comfort. From Vézelay, drive through lush, wet valleys to the Château de Bazoches. The wipers keep rhythm with the journey. The Pierre-Perthuis bridges look particularly dramatic in the rain while you stay dry on the way to Saint-Père, finishing with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Vézelay Center",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Parkplatz am Fuß des Hügels.",
+                "hu": "Parkoljon a domb alján lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea de la baza dealului.",
+                "en": "Park in the main lot at the bottom of the hill."
+              }
+            },
+            {
+              "name": "Château de Bazoches",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Schloss ist ungeschützt.",
+                "hu": "A parkolótól a kastélyig tartó út nyitott, vigyen ernyőt.",
+                "ro": "Drumul de la parcare la castel este neprotejat.",
+                "en": "The path from the lot to the castle is unsheltered."
+              }
+            },
+            {
+              "name": "Pierre-Perthuis Bridges",
+              "tip_5lang": {
+                "de": "Bleiben Sie für das Foto im Auto oder nutzen Sie den Schirm.",
+                "hu": "Készítsen fotót az autóból, vagy használjon ernyőt.",
+                "ro": "Faceți fotografii din mașină sau folosiți umbrela.",
+                "en": "Take photos from the car or use a sturdy umbrella."
+              }
+            },
+            {
+              "name": "Saint-Père Archaeology",
+              "tip_5lang": {
+                "de": "Die Ausgrabungen sind teilweise überdacht.",
+                "hu": "Az ásatások egy része fedett helyen van.",
+                "ro": "Săpăturile sunt parțial acoperite.",
+                "en": "The archaeological site has partial overhead cover."
+              }
+            },
+            {
+              "name": "Dinner in Vézelay",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in Nähe der Heizung.",
+                "hu": "Foglaljon asztalt a fűtés közelében.",
+                "ro": "Rezervați o masă aproape de sursa de căldură.",
+                "en": "Reserve a table near the heater or fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf den Landstraßen.",
+              "Die Parkplätze in Vézelay können bei Regen matschig sein.",
+              "Licht einschalten, die Sicht in den Tälern ist oft schlecht.",
+              "Halten Sie Decken im Auto bereit."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) az országutakon.",
+              "A vézelay-i parkolók esőben sárosak lehetnek.",
+              "Kapcsolja fel a világítást, a völgyekben rossz a látótávolság.",
+              "Tartson takarókat az autóban."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Parcările din Vézelay pot fi noroioase pe ploaie.",
+              "Aprindeți farurile, vizibilitatea în văi este adesea redusă.",
+              "Păstrați pături în mașină pentru confort."
+            ],
+            "en": [
+              "Watch out for aquaplaning on narrow country roads.",
+              "Parking areas in Vézelay can get muddy when it rains.",
+              "Keep headlights on; visibility in the valleys can be poor.",
+              "Keep spare blankets in the car for comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto offenbart die karge Schönheit des Morvan. Die Fahrt zum Château de Bazoches führt durch frostige Alleen. Im Inneren des Schlosses ist es kühl, aber historisch faszinierend. Die Pierre-Perthuis-Brücken stehen starr in der Winterluft. Nach dem Besuch der Ausgrabungen in Saint-Père bietet ein warmes Dinner in Vézelay den perfekten Abschluss eines kalten Tages.",
+            "hu": "A téli autós túra feltárja a Morvan zord szépségét. A Bazoches kastélyhoz vezető utat dérlepte fasorok szegélyezik. A kastély belseje hűvös, de történelmileg lenyűgöző. A Pierre-Perthuis hidak mozdulatlanul állnak a téli levegőben. A Saint-Père-i ásatások után egy meleg vacsora Vézelay-ben tökéletes zárás.",
+            "ro": "O tură de iarnă cu mașina dezvăluie frumusețea austeră a Morvan-ului. Drumul spre Bazoches trece prin alei înghețate. Interiorul castelului este răcoros, dar fascinant. Podurile Pierre-Perthuis stau nemișcate în aerul iernii. După vizita la Saint-Père, o cină caldă în Vézelay încheie perfect ziua.",
+            "en": "A winter drive reveals the stark beauty of the Morvan region. The road to Château de Bazoches is lined with frost-covered trees. Inside the castle, it's chilly but historically fascinating. The Pierre-Perthuis bridges stand still in the winter air. After visiting Saint-Père, a warm dinner in Vézelay is the perfect finale."
+          },
+          "stops": [
+            {
+              "name": "Vézelay Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den steilen Gassen.",
+                "hu": "Vigyázzon a jegesedésre a meredek mellékutcákban.",
+                "ro": "Atenție la polei pe străzile abrupte.",
+                "en": "Watch out for ice on the steep side streets."
+              }
+            },
+            {
+              "name": "Château de Bazoches",
+              "tip_5lang": {
+                "de": "Dicke Jacke auch drinnen tragen, alte Mauern sind kalt.",
+                "hu": "A kastélyban is viseljen kabátot, a falak sugározzák a hideget.",
+                "ro": "Purtați haina groasă și înăuntru, zidurile sunt reci.",
+                "en": "Keep your coat on inside; the ancient walls are cold."
+              }
+            },
+            {
+              "name": "Pierre-Perthuis Bridges",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, der Wind im Tal ist eisig.",
+                "hu": "Csak rövid fotómegálló, a völgyben jeges a szél.",
+                "ro": "Oprire scurtă pentru poze, vântul e tăios în vale.",
+                "en": "Brief photo stop only; the valley wind is icy."
+              }
+            },
+            {
+              "name": "Saint-Père Archaeology",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Gelände im Winter zugänglich ist.",
+                "hu": "Ellenőrizze, hogy a terület látogatható-e télen.",
+                "ro": "Verificați dacă situl este accesibil iarna.",
+                "en": "Check if the site is accessible during winter months."
+              }
+            },
+            {
+              "name": "Dinner in Vézelay",
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Spezialitäten am Kamin.",
+                "hu": "Élvezze a regionális ételeket a kandalló mellett.",
+                "ro": "Savurați specialități regionale lângă șemineu.",
+                "en": "Enjoy regional specialties by the fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region (Morvan) oft Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+              "Batterie prüfen; Kälte belastet sie stark."
+            ],
+            "hu": [
+              "A téli gumi ezen a vidéken gyakran kötelező.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "Ellenőrizze az akkumulátort a hideg miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt adesea obligatorii în această regiune.",
+              "Aveți la voi o răzuitoare de gheață și lichid de parbriz.",
+              "Planificați drumul de întoarcere înainte de întuneric.",
+              "Verificați bateria; frigul o solicită intens."
+            ],
+            "en": [
+              "Winter tires are often mandatory in this region.",
+              "Carry an ice scraper and de-icer fluid.",
+              "Plan your return trip before darkness sets in.",
+              "Check your battery as cold temperatures strain it."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1021,34 +2145,359 @@
           "A small shuttle bus connects the parking lots at the bottom with the village above.",
           "Allow enough time for the descent so you don't miss your bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vézelay ist über Avallon gut mit regionalen Bussen erreichbar. Nutzen Sie den Shuttlebus, um den steilen Aufstieg zur Basilika zu bewältigen.\n\nDer Vormittag gehört der Basilika und dem beeindruckenden Panorama der Schlossterrasse.\n\nMittags können Sie gemütlich durch die Haupteinkaufsstraße Rue Saint-Etienne bummeln und lokale Spezialitäten entdecken.\n\nBevor Ihr Bus am späten Nachmittag abfährt, bleibt noch Zeit für einen kurzen Besuch im unteren Tal bei Saint-Père.",
+            "hu": "Vézelay Avallon felől jól elérhető regionális buszokkal. Használja az ingajáratot, hogy megkímélje magát a bazilikához vezető meredek emelkedőtől.\n\nA délelőtt a bazilikáé és a várterasz lenyűgöző panorámájáé.\n\nDélben kényelmesen sétálhat a Rue Saint-Etienne főutcán, és felfedezheti a helyi specialitásokat.\n\nMielőtt busza késő délután elindulna, marad idő egy rövid látogatásra az alsó völgyben, Saint-Père-ben.",
+            "ro": "Vézelay este bine deservit de autobuze regionale dinspre Avallon. Folosiți naveta pentru a evita urcarea abruptă spre bazilică.\n\nDimineața aparține bazilicii și panoramei impresionante de pe terasa castelului.\n\nLa prânz vă puteți plimba agale pe strada principală Rue Saint-Etienne și puteți descoperi specialitățile locale.\n\nÎnainte ca autobuzul să plece după-amiaza târziu, mai aveți timp pentru o scurtă vizită în vale la Saint-Père.",
+            "en": "Vézelay is accessible via regional buses from Avallon. Use the shuttle bus to avoid the steep climb to the basilica.\n\nThe morning is dedicated to the basilica and the stunning panorama from the castle terrace.\n\nAt midday, enjoy a leisurely stroll down the main street, Rue Saint-Etienne, and discover local specialties.\n\nBefore your bus departs in the late afternoon, there is still time for a short visit to Saint-Père in the lower valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vézelay - Place de la foire",
+                "hu": "Vézelay - Vásártér",
+                "ro": "Vézelay - Place de la foire",
+                "en": "Vézelay - Place de la foire"
+              },
+              "tip_5lang": {
+                "de": "Ankunftsort der regionalen Busse.",
+                "hu": "A regionális buszok érkezési helye.",
+                "ro": "Locul de sosire a autobuzelor regionale.",
+                "en": "Arrival point for regional buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Sainte-Marie-Madeleine",
+                "hu": "Szent Mária Magdolna-bazilika",
+                "ro": "Bazilica Sainte-Marie-Madeleine",
+                "en": "Basilica of Saint Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Ein Shuttlebus (Navette) verkehrt oft zwischen Parkplatz und Basilika.",
+                "hu": "Ingajárat (Navette) gyakran közlekedik a parkoló és a bazilika között.",
+                "ro": "Un autobuz navetă circulă adesea între parcare și bazilică.",
+                "en": "A shuttle bus (navette) often runs between the parking area and the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse du Château",
+                "hu": "Várterasz",
+                "ro": "Terasa Castelului",
+                "en": "Terrace of the Castle"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine Mittagspause mit Aussicht.",
+                "hu": "Tökéletes hely egy kilátással egybekötött ebédszünethez.",
+                "ro": "Locul perfect pentru o pauză de prânz cu priveliște.",
+                "en": "The perfect place for a lunch break with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstraße (Rue Saint-Etienne)",
+                "hu": "Főutca (Rue Saint-Etienne)",
+                "ro": "Strada principală (Rue Saint-Etienne)",
+                "en": "Main Street (Rue Saint-Etienne)"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die Kunstgalerien und kleinen Boutiquen.",
+                "hu": "Sétáljon végig a művészeti galériák és kis butikok között.",
+                "ro": "Plimbați-vă prin galeriile de artă și micile buticuri.",
+                "en": "Stroll through the art galleries and small boutiques."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Père (Rückfahrt Vorbereitung)",
+                "hu": "Saint-Père (visszautazás előkészítése)",
+                "ro": "Saint-Père (pregătire pentru retur)",
+                "en": "Saint-Père (Return prep)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Bus zurück nach Avallon oder zum Bahnhof.",
+                "hu": "Használja a helyi buszt Avallonba vagy a vasútállomáshoz.",
+                "ro": "Folosiți autobuzul local înapoi spre Avallon sau gară.",
+                "en": "Use the local bus back to Avallon or the train station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Honigkuchen, eine Spezialität der Region, ideal zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Mézeskalács, a régió specialitása, ideális útravaló."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Turtă dulce, o specialitate a regiunii, ideală de luat la pachet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Gingerbread, a regional specialty, ideal to take with you."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schlossterrasse",
+                "tip": "Schatten unter Linden mit Blick auf den Morvan.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Várterasz",
+                "tip": "Árnyék a hársfák alatt, kilátással a Morvanra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa castelului",
+                "tip": "Umbră sub tei cu vedere spre Morvan.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castle Terrace",
+                "tip": "Shade under lime trees with a view of the Morvan.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Keramik",
+                "tip": "In den kleinen Ateliers der Rue Saint-Etienne."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézzel készített kerámia",
+                "tip": "A Rue Saint-Etienne kis műhelyeiben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "În micile ateliere de pe Rue Saint-Etienne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Ceramics",
+                "tip": "In the small workshops along Rue Saint-Etienne."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab, die Frequenz ist gering.",
+              "Der Bahnhof Sermizelles-Vézelay liegt 10 km entfernt, Busverbindung ist nötig.",
+              "Ein kleiner Shuttlebus verbindet die Parkplätze am Fuß mit dem Dorf oben.",
+              "Planen Sie genügend Zeit für den Abstieg ein, um Ihren Bus nicht zu verpassen."
+            ],
+            "hu": [
+              "Előre ellenőrizze a buszmenetrendet, mert ritkán járnak.",
+              "Sermizelles-Vézelay vasútállomása 10 km-re van, buszcsatlakozás szükséges.",
+              "Kisebb ingajárat köti össze a domb alján lévő parkolókat a felső faluval.",
+              "Tervezzen elég időt a lejutásra, hogy ne késse le a buszát."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în avans, frecvența este redusă.",
+              "Gara Sermizelles-Vézelay este la 10 km distanță, este necesară conexiunea cu autobuzul.",
+              "Un mic autobuz navetă face legătura între parcările de la bază și satul de sus.",
+              "Alocați suficient timp pentru coborâre ca să nu pierdeți autobuzul."
+            ],
+            "en": [
+              "Check bus schedules in advance; frequency is low.",
+              "Sermizelles-Vézelay train station is 10 km away; a bus connection is needed.",
+              "A small shuttle bus connects the parking lots at the bottom with the village above.",
+              "Allow enough time for the descent so you don't miss your bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Vézelay auch bei Regen bequem erkunden. Start an der Place de la foire, von wo aus der Weg zur Basilika kurz ist. Mittags bietet die Terrasse trotz Regen einen weiten Blick, bevor man in den Geschäften der Rue Saint-Etienne stöbert. Der Tag endet mit der Vorbereitung auf die Rückfahrt im geschützten Bereich von Saint-Père.",
+            "hu": "Busszal Vézelay esőben is kényelmesen felfedezhető. Indulás a Place de la foire-ról, ahonnan rövid út vezet a Bazilikához. Délben a teraszról az eső ellenére is szép a kilátás, majd a Rue Saint-Etienne boltjaiban nézelődhetünk. A nap Saint-Père fedett részén ér véget a visszautazás előtt.",
+            "ro": "Cu autobuzul, Vézelay poate fi explorat confortabil și pe ploaie. Start din Place de la foire, de unde drumul spre Basilică e scurt. La prânz, terasa oferă o vedere largă în ciuda ploii, înainte de a explora magazinele. Ziua se încheie în zona protejată din Saint-Père.",
+            "en": "By bus, you can explore Vézelay comfortably even in the rain. Start at Place de la foire, followed by a short walk to the Basilica. At midday, the terrace offers broad views despite the rain, then browse the shops on Rue Saint-Etienne. The day ends at a sheltered spot in Saint-Père."
+          },
+          "stops": [
+            {
+              "name": "Vézelay - Place de la foire",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen bei der Ankunft.",
+                "hu": "Használja a buszvárót érkezéskor.",
+                "ro": "Folosiți adăpostul din stație la sosire.",
+                "en": "Use the bus shelter upon arrival to stay dry."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Ideal, um eine Regenpause einzulegen.",
+                "hu": "Ideális hely az esőszünet kivárására.",
+                "ro": "Loc ideal pentru a face o pauză de ploaie.",
+                "en": "An ideal place to take a break from the rain."
+              }
+            },
+            {
+              "name": "Terrace of the Castle",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche unter den Bäumen nutzen.",
+                "hu": "Használja a fák alatti fedett részeket.",
+                "ro": "Folosiți zonele acoperite de sub copaci.",
+                "en": "Utilize the sheltered areas under the trees."
+              }
+            },
+            {
+              "name": "Main Street (Rue Saint-Etienne)",
+              "tip_5lang": {
+                "de": "Wechseln Sie zwischen den Geschäften hin und her.",
+                "hu": "Ugrijon be egyik boltból a másikba az eső elől.",
+                "ro": "Intrați dintr-un magazin în altul pentru a evita ploaia.",
+                "en": "Hop from one shop to another to avoid the rain."
+              }
+            },
+            {
+              "name": "Saint-Père (Return prep)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Buszeiten, Verspätungen möglich.",
+                "hu": "Ellenőrizze a buszokat, az eső miatt késések lehetnek.",
+                "ro": "Verificați orarul, sunt posibile întârzieri din cauza ploii.",
+                "en": "Check bus times as rain can cause slight delays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Halten Sie Kleingeld oder die App für das Ticket bereit.",
+              "Die Busse sind im Regen oft voll, steigen Sie früh ein.",
+              "Ein kleiner Regenschirm passt gut in die Tasche."
+            ],
+            "hu": [
+              "Viseljen gyorsan száradó ruházatot.",
+              "Készítsen elő aprópénzt vagy a jegykezelő appot.",
+              "A buszok esőben zsúfoltak lehetnek, szálljon fel időben.",
+              "Egy kisméretű esernyő praktikus a táskában."
+            ],
+            "ro": [
+              "Purtați haine care se usucă repede.",
+              "Aveți pregătit restul sau aplicația pentru bilet.",
+              "Autobuzele sunt adesea pline pe ploaie, urcați devreme.",
+              "O umbrelă mică este foarte practică în geantă."
+            ],
+            "en": [
+              "Wear clothing that dries quickly.",
+              "Have your change or ticket app ready for boarding.",
+              "Buses are often crowded in the rain; board early.",
+              "A small travel umbrella fits well in your bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit-Reisen im Winter nach Vézelay sind beschaulich. Von der frostigen Place de la foire führt der Weg zur Basilika, die im Winterlicht strahlt. Die Terrasse bietet eine weite, klare Sicht auf das Tal. Nach einem Bummel durch die Rue Saint-Etienne wärmt man sich im Bus nach Saint-Père auf, bevor man die Rückreise antritt.",
+            "hu": "A téli buszos utazás Vézelay-be nyugodt élmény. A fagyos Place de la foire-ról az út a téli fényben ragyogó Bazilikához vezet. A teraszról tiszta kilátás nyílik a völgyre. A Rue Saint-Etienne-i séta után a Saint-Père-be tartó buszon melegedhetünk fel a visszautazás előtt.",
+            "ro": "Călătoria cu transportul public iarna spre Vézelay este liniștită. Din Place de la foire, drumul duce la Basilică. Terasa oferă o vedere clară asupra văii înghețate. După o plimbare pe Rue Saint-Etienne, vă puteți încălzi în autobuzul spre Saint-Père.",
+            "en": "Transit travel to Vézelay in winter is a peaceful experience. From the frosty Place de la foire, the path leads to the Basilica glowing in winter light. The terrace offers clear views of the valley. After a stroll on Rue Saint-Etienne, warm up on the bus to Saint-Père before your return."
+          },
+          "stops": [
+            {
+              "name": "Vézelay - Place de la foire",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an der Haltestelle.",
+                "hu": "Vigyázzon a jegesedésre a buszmegállóban.",
+                "ro": "Atenție la gheață în zona stației.",
+                "en": "Watch out for icy patches around the bus stop."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, im Winter sind kaum Touristen da.",
+                "hu": "Élvezze a csendet, télen alig van turista.",
+                "ro": "Bucurați-vă de liniște, sunt puțini turiști iarna.",
+                "en": "Enjoy the silence; there are very few tourists in winter."
+              }
+            },
+            {
+              "name": "Terrace of the Castle",
+              "tip_5lang": {
+                "de": "Sehr windig, halten Sie Mütze und Schal bereit.",
+                "hu": "Nagyon szeles, legyen kéznél sapka és sál.",
+                "ro": "Foarte vântos, aveți la îndemână căciula și fularul.",
+                "en": "Very windy; keep your hat and scarf ready."
+              }
+            },
+            {
+              "name": "Main Street (Rue Saint-Etienne)",
+              "tip_5lang": {
+                "de": "Viele Galerien haben im Winter nur am Wochenende offen.",
+                "hu": "Sok galéria télen csak hétvégén tart nyitva.",
+                "ro": "Multe galerii sunt deschise doar în weekend iarna.",
+                "en": "Many galleries are only open on weekends in winter."
+              }
+            },
+            {
+              "name": "Saint-Père (Return prep)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café auf den Bus.",
+                "hu": "Várja a buszt egy közeli kávézóban a hideg elől.",
+                "ro": "Așteptați autobuzul într-o cafenea pentru a nu îngheța.",
+                "en": "Wait for the bus in a cafe to stay warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können vom Sommer abweichen.",
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
+              "Nehmen Sie den Bus vor 17:00 Uhr, um im Hellen anzukommen.",
+              "Tragen Sie rutschfeste Sohlen für den Weg zum Bus."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól.",
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Szálljon buszra 17:00 előtt, hogy még világosban érkezzen.",
+              "Viseljen csúszásmentes talpú cipőt a buszhoz menet."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "Luați autobuzul înainte de 17:00 pentru a ajunge pe lumină.",
+              "Purtați încălțăminte cu talpă antiderapantă spre stație."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "Buses are well-heated and ideal for warming up.",
+              "Take the bus before 17:00 to arrive before dark.",
+              "Wear non-slip soles for the walk to the bus stop."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.destinationgrandvezelay.com/",
-    "events": "https://www.destinationgrandvezelay.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://mobigo.bourgognefranchecomte.fr/",
-    "language_tips": {
-      "de": "Vézelay ist ein UNESCO-Pilgerort mit der Basilika Sainte-Madeleine, Englisch wird in der Basilika und den Pilger-Herbergen gesprochen. Lernen Sie 'Basilique Sainte-Madeleine' und 'Chemin de Compostelle' für den Jakobsweg, der hier seinen wichtigsten französischen Ausgangspunkt hat. Pilger werden mit 'Buen Camino' begrüßt.",
-      "hu": "Vézelay UNESCO zarándokhely a Sainte-Madeleine bazilikával, a bazilikában és a zarándokszállókban beszélnek angolul. Tanuld meg a 'Basilique Sainte-Madeleine' és 'Chemin de Compostelle' nevét a Szent Jakab-úthoz, amely itt indul Franciaország legfontosabb pontjáról. A zarándokokat 'Buen Camino' köszönti.",
-      "ro": "Vézelay este un loc de pelerinaj UNESCO cu Bazilica Sainte-Madeleine, engleza se vorbește în bazilică și hanurile pelerinilor. Învățați 'Basilique Sainte-Madeleine' și 'Chemin de Compostelle' pentru drumul Sf. Iacob, care își are aici cel mai important punct de plecare francez. Pelerinii se salută cu 'Buen Camino'.",
-      "en": "Vézelay is a UNESCO pilgrimage site with the Sainte-Madeleine basilica - English is spoken at the basilica and pilgrim hostels. Learn 'Basilique Sainte-Madeleine' and 'Chemin de Compostelle' for the Way of St James, which has its main French starting point here. Pilgrims greet with 'Buen Camino'."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Touristen und perfekte Bedingungen für Wanderungen im Morvan. Im Sommer kommen viele Tagesausflügler, abends ist es aber ruhig. Im Winter ist Vézelay mystisch und ruhig, die Basilika bleibt geöffnet aber das Dorf wirkt verlassen.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb turista, tökéletes feltételek a morvani túrákhoz. Nyáron sok napi kiránduló jön, de este csendes. Télen Vézelay misztikus és csendes, a bazilika nyitva tart, de a falu kihaltnak tűnik.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini turiști și condiții perfecte pentru drumeții în Morvan. Vara vin mulți excursioniști, dar seara este liniște. Iarna, Vézelay este mistic și liniștit, bazilica rămâne deschisă, dar satul pare pustiu.",
-      "en": "April-June and September-October are ideal: mild weather, fewer tourists and perfect conditions for hiking in the Morvan. Summer brings many day-trippers but evenings stay quiet. Winter Vézelay is mystical and silent - the basilica remains open while the village feels deserted."
-    },
-    "neighborhood_warnings": {
-      "de": "Vézelay ist sehr sicher, ein winziges Bergdorf mit nur einer Straße. Im Sommer wird Parken am Fuß des Hügels erzwungen, dann zu Fuß hinauf. Bei Pilgerfesten kann es voll werden, sonst herrscht meditative Stille.",
-      "hu": "Vézelay nagyon biztonságos, apró hegyi falu egyetlen utcával. Nyáron a domb tövébe kényszerítenek a parkolásnál, onnan gyalog kell felmenni. Zarándok ünnepeken zsúfolt lehet, máskor meditatív csend honol.",
-      "ro": "Vézelay este foarte sigur, un sat de munte mic cu o singură stradă. Vara, parcarea este obligatorie la poalele dealului, apoi pe jos sus. La sărbătorile pelerinilor poate fi aglomerat, altfel domnește o liniște meditativă.",
-      "en": "Vézelay is very safe, a tiny hilltop village with one main street. Summer forces parking at the foot of the hill, then walking up. Pilgrim festivals can crowd it, but otherwise meditative silence prevails."
-    },
-    "parking_real_time": ""
   }
 }

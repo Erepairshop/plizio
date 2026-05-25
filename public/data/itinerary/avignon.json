@@ -320,6 +320,442 @@
           "Most major sights are located within the city walls (Intra-Muros).",
           "The famous theater festival takes place in July; plan accordingly."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Herzen von Avignon auf der Place de l'Horloge. Der Vormittag steht ganz im Zeichen der Pracht der Päpste mit einer ausführlichen Besichtigung des monumentalen Palastes. Nach einem entspannten Spaziergang durch die Gärten des Rocher des Doms besuchen Sie die legendäre Brücke Saint-Bénézet. Der Nachmittag führt Sie zum kulinarischen Zentrum der Stadt, den Les Halles, bevor Sie den Tag in der malerischen Rue des Teinturiers ausklingen lassen.",
+            "hu": "Kezdje a napot Avignon történelmi szívében, az Óratorony téren. A délelőtt a pápák fényűzéséről szól a monumentális palota megtekintésével. A Rocher des Doms kertjeiben tett pihentető séta után látogasson el a legendás Szent Bénezet-hídhoz. A délután a város kulináris központjába, a Les Halles-ba vezet, majd zárja a napot a festői Kelmefestők utcájában, ahol régi vízikerekek díszítik a csatorna partját.",
+            "ro": "Începeți ziua în inima istorică a Avignonului, în Piața Ceasului. Dimineața este dedicată splendorii papale, cu o vizită detaliată a palatului monumental. După o plimbare relaxantă prin grădinile Rocher des Doms, vizitați legendarul pod Saint-Bénézet. După-amiaza vă poartă spre centrul culinar al orașului, Les Halles, înainte de a încheia ziua pe pitoreasca stradă a vopsitorilor, Rue des Teinturiers.",
+            "en": "Start your day in the historic heart of Avignon at Place de l'Horloge. The morning is dedicated to the splendor of the Popes with a detailed tour of the monumental palace. After a relaxing stroll through the Rocher des Doms gardens, visit the legendary Saint-Bénézet bridge. The afternoon leads you to the city's culinary hub, Les Halles, before ending the day in the picturesque Rue des Teinturiers, known for its old waterwheels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Horloge",
+                "hu": "Óratorony tér",
+                "ro": "Piața Ceasului",
+                "en": "Place de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso in einem der Straßencafés.",
+                "hu": "Igyon egy kávét a hangulatos teraszok egyikén.",
+                "ro": "Savurați o cafea la una dintre terasele istorice.",
+                "en": "Enjoy a coffee at one of the lively cafe terraces."
+              }
+            },
+            {
+              "name": {
+                "de": "Papstpalast",
+                "hu": "Pápai palota",
+                "ro": "Palatul Papal",
+                "en": "Palais des Papes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Histopad für eine virtuelle Zeitreise.",
+                "hu": "Használja a Histopadot a virtuális időutazáshoz.",
+                "ro": "Folosiți Histopad-ul pentru o călătorie virtuală în timp.",
+                "en": "Use the Histopad for an immersive virtual reality tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher des Doms",
+                "hu": "Rocher des Doms park",
+                "ro": "Grădina Rocher des Doms",
+                "en": "Rocher des Doms"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Rhône.",
+                "hu": "Élvezze a Rhône-folyóra nyíló panorámát.",
+                "ro": "Admirați vederea panoramică asupra fluviului Ron.",
+                "en": "Enjoy the panoramic view over the Rhone river."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont d'Avignon",
+                "hu": "Avignoni híd",
+                "ro": "Podul din Avignon",
+                "en": "Pont d'Avignon"
+              },
+              "tip_5lang": {
+                "de": "Tanzen Sie symbolisch auf der Brücke wie im Volkslied.",
+                "hu": "Táncoljon a hídon a híres népdal emlékére.",
+                "ro": "Dansati pe pod așa cum spune faimosul cântec.",
+                "en": "Dance on the bridge as the famous folk song suggests."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles d'Avignon",
+                "hu": "Avignoni vásárcsarnok",
+                "ro": "Piața Les Halles",
+                "en": "Les Halles d'Avignon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die vertikale Pflanzenwand am Eingang.",
+                "hu": "Csodálja meg a bejáratnál lévő hatalmas növényfalat.",
+                "ro": "Admirați peretele vegetal spectaculos de la intrare.",
+                "en": "Admire the impressive vertical garden on the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue des Teinturiers",
+                "hu": "Kelmefestők utcája",
+                "ro": "Strada Teinturiers",
+                "en": "Rue des Teinturiers"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach den alten Wasserrädern im Kanal.",
+                "hu": "Keresse meg a régi vízikerekeket a csatornában.",
+                "ro": "Căutați roțile de apă vechi de-a lungul canalului.",
+                "en": "Look for the old waterwheels along the canal."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cuisine de Reine",
+                "tip": "Probieren Sie die Daube Provençale im Les Halles."
+              },
+              {
+                "name": "Le Moutardier du Pape",
+                "tip": "Gehobene Küche direkt neben dem Palast."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cuisine de Reine",
+                "tip": "Kóstolja meg a Daube Provençale-t a csarnokban."
+              },
+              {
+                "name": "Le Moutardier du Pape",
+                "tip": "Elegáns étterem közvetlenül a palota mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cuisine de Reine",
+                "tip": "Încercați Daube Provençale în piața Les Halles."
+              },
+              {
+                "name": "Le Moutardier du Pape",
+                "tip": "Bucătărie rafinată chiar lângă palat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cuisine de Reine",
+                "tip": "Try the Daube Provençale at Les Halles market."
+              },
+              {
+                "name": "Le Moutardier du Pape",
+                "tip": "Fine dining located right next to the palace."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rocher des Doms",
+                "tip": "Ruhiger Park mit weitem Blick.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cloître Saint-Louis",
+                "tip": "Ein friedlicher Innenhof.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rocher des Doms",
+                "tip": "Csendes park pazar kilátással.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cloître Saint-Louis",
+                "tip": "Békés belső udvar a város közepén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rocher des Doms",
+                "tip": "Parc liniștit cu vedere largă.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cloître Saint-Louis",
+                "tip": "O curte interioară foarte liniștită.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rocher des Doms",
+                "tip": "Quiet park with panoramic views.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cloître Saint-Louis",
+                "tip": "A peaceful interior courtyard.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Halles",
+                "tip": "Frische provenzalische Kräuter und Öle."
+              },
+              {
+                "name": "Pure Olive",
+                "tip": "Hochwertige Olivenholzprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles",
+                "tip": "Friss provence-i fűszerek és olajok."
+              },
+              {
+                "name": "Pure Olive",
+                "tip": "Minőségi olajfa termékek és ajándékok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles",
+                "tip": "Ierburi de Provence proaspete și uleiuri."
+              },
+              {
+                "name": "Pure Olive",
+                "tip": "Produse de calitate din lemn de măslin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles",
+                "tip": "Fresh Provencal herbs and oils."
+              },
+              {
+                "name": "Pure Olive",
+                "tip": "High-quality olive wood products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Avignon ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
+              "Buchen Sie Tickets für den Papstpalast im Voraus online.",
+              "Die meisten Sehenswürdigkeiten liegen innerhalb der Stadtmauern.",
+              "Im Juli findet das berühmte Theaterfestival statt, planen Sie im Voraus."
+            ],
+            "hu": [
+              "Avignon gyalogosan könnyen bejárható, viseljen kényelmes cipőt.",
+              "Érdemes előre online jegyet foglalni a pápai palotába.",
+              "A legtöbb látnivaló a várfalakon belül található.",
+              "Júliusban tartják a híres színházi fesztivált, ilyenkor nagy a tömeg."
+            ],
+            "ro": [
+              "Avignon este foarte prietenos cu pietonii, purtați pantofi comozi.",
+              "Rezervați biletele pentru Palatul Papal online în avans.",
+              "Majoritatea obiectivelor turistice sunt în interiorul zidurilor.",
+              "În iulie are loc celebrul festival de teatru, planificați din timp."
+            ],
+            "en": [
+              "Avignon is very pedestrian-friendly; wear comfortable walking shoes.",
+              "Book tickets for the Palais des Papes online in advance.",
+              "Most major sights are located within the city walls (Intra-Muros).",
+              "The famous theater festival takes place in July; plan accordingly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt unter den Arkaden der Place de l'Horloge. Der Palais des Papes bietet stundenlangen trockenen Aufenthalt in seinen massiven Mauern. Mittags finden Sie in der Markthalle Les Halles einen perfekten überdachten Zufluchtsort. Den Nachmittag verbringen Sie in den geschichtsträchtigen Gassen, wo die nassen Pflastersteine im Laternenlicht glänzen.",
+            "hu": "Kezdje a napot az óratorony tér árkádjai alatt védve az esőtől. A Pápai Palota vastag falai között órákig szárazon maradhat a felfedezés közben. Ebédidőben a Les Halles fedett piaca tökéletes menedéket nyújt a gasztronómiai élvezetekhez. Délután a Rue des Teinturiers vizes macskakövei különleges hangulatot árasztanak az esőben.",
+            "ro": "Începeți ziua sub arcadele din Place de l'Horloge, feriți de ploaie. Palatul Papal oferă adăpost uscat timp de ore întregi în interiorul zidurilor sale masive. La prânz, piața acoperită Les Halles este refugiul perfect pentru explorare culinară. După-amiaza, străzile istorice cu pavaj umed capătă o strălucire aparte sub lumina felinarelor.",
+            "en": "Start your day protected under the arcades of Place de l'Horloge. The Palais des Papes provides hours of dry exploration within its massive walls. At lunchtime, the covered market of Les Halles offers a perfect gourmet sanctuary. Spend the afternoon in the historic lanes, where the wet cobblestones glisten beautifully in the rain."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Horloge",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés mit Vordächern für den ersten Kaffee im Trockenen.",
+                "hu": "Használja a kávézók előtetőit az első reggeli kávéhoz szárazon.",
+                "ro": "Folosiți cafenelele cu copertine pentru prima cafea la adăpost.",
+                "en": "Use the cafes with awnings for your first coffee in the dry."
+              }
+            },
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Idealer Ort bei Starkregen, da fast die gesamte Tour drinnen stattfindet.",
+                "hu": "Ideális hely heves esőben, mivel szinte a teljes túra bent zajlik.",
+                "ro": "Loc ideal în caz de ploaie torențială, turul fiind aproape integral la interior.",
+                "en": "Ideal spot for heavy rain, as almost the entire tour takes place indoors."
+              }
+            },
+            {
+              "name": "Rocher des Doms",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; bei Regen können die Pfade im Park rutschig sein.",
+                "hu": "Vigyázat a lépcsőkön; esőben a park ösvényei csúszósak lehetnek.",
+                "ro": "Atenție pe trepte; potecile din parc pot fi alunecoase pe ploaie.",
+                "en": "Watch your step; the park paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Pont d'Avignon",
+              "tip_5lang": {
+                "de": "Die Brücke ist exponiert; ein stabiler Regenschirm gegen den Wind ist nötig.",
+                "hu": "A híd nyitott; szélálló esernyő szükséges a szél miatt.",
+                "ro": "Podul este expus; aveți nevoie de o umbrelă rezistentă la vânt.",
+                "en": "The bridge is exposed; a sturdy umbrella is needed against the wind."
+              }
+            },
+            {
+              "name": "Les Halles d'Avignon",
+              "tip_5lang": {
+                "de": "Bester Ort, um das Wetter abzuwarten und lokale Köstlichkeiten zu essen.",
+                "hu": "A legjobb hely az eső kivárására és helyi finomságok kóstolására.",
+                "ro": "Cel mai bun loc pentru a aștepta trecerea ploii și a mânca delicatese locale.",
+                "en": "Best place to wait out the weather and enjoy local delicacies."
+              }
+            },
+            {
+              "name": "Rue des Teinturiers",
+              "tip_5lang": {
+                "de": "Die Wasserräder sehen bei Regen besonders atmosphärisch aus.",
+                "hu": "A vízimalom-kerekek esőben különösen hangulatos látványt nyújtanak.",
+                "ro": "Roțile de apă arată deosebit de atmosferic pe timp de ploaie.",
+                "en": "The water wheels look particularly atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Durchgänge und Arkaden der Altstadt.",
+              "Der Palais des Papes ist die beste Fluchtmöglichkeit bei Gewitter.",
+              "Die Markthalle Les Halles bleibt bis 14:00 Uhr ein trockenes Zentrum."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja ki az óváros számos átjáróját és árkádját.",
+              "A Pápai Palota a legjobb menekülőút zivatar esetén.",
+              "A Les Halles piac 14:00-ig kiváló száraz bázis marad."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Profitați de numeroasele pasaje și arcade din centrul vechi.",
+              "Palatul Papal este cea mai bună opțiune de refugiu în caz de furtună.",
+              "Piața Les Halles rămâne un centru uscat până la ora 14:00."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Make use of the many passages and arcades in the old town.",
+              "The Palais des Papes is the best escape during heavy downpours.",
+              "The Les Halles market remains a dry hub until 2:00 PM."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Avignon ohne die sommerlichen Menschenmassen. Der Palais des Papes wirkt im kühlen Licht noch monumentaler und ist innen angenehm temperiert. Wärmen Sie sich mittags in der geschäftigen Markthalle auf. Nutzen Sie das goldene Licht des frühen Nachmittags für Fotos, bevor die Sonne gegen 17:00 Uhr hinter den Stadtmauern verschwindet.",
+            "hu": "Fedezze fel a téli Avignont a nyári tömeg nélkül. A Pápai Palota a hűvös fényben még monumentálisabb, belül pedig kellemes a hőmérséklet. Melegedjen fel délben a nyüzsgő piaccsarnokban. Használja ki a kora délutáni aranyfényeket fotózáshoz, mielőtt a nap 17:00 körül eltűnik a városfalak mögött.",
+            "ro": "Experimentați Avignonul de iarnă fără aglomerația estivală. Palatul Papal pare și mai monumental în lumina rece, având o temperatură plăcută la interior. Încălziți-vă la prânz în piața plină de viață. Profitați de lumina aurie a după-amiezii pentru fotografii, înainte ca soarele să apună după zidurile orașului în jur de ora 17:00.",
+            "en": "Experience winter in Avignon without the summer crowds. The Palais des Papes looks even more monumental in the cool light and is pleasantly tempered inside. Warm up at noon in the bustling market hall. Take advantage of the golden early afternoon light for photos before the sun sets behind the city walls around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Horloge",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung und den Duft von gerösteten Kastanien.",
+                "hu": "Élvezze az ünnepi kivilágítást és a sült gesztenye illatát.",
+                "ro": "Bucurați-vă de iluminatul festiv și de mirosul de castane coapte.",
+                "en": "Enjoy the festive lighting and the scent of roasted chestnuts."
+              }
+            },
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem kalten Mistral-Wind.",
+                "hu": "A vastag falak jól védenek a hideg misztrál szél ellen.",
+                "ro": "Zidurile groase oferă o protecție bună împotriva vântului rece Mistral.",
+                "en": "The thick walls provide good protection against the cold Mistral wind."
+              }
+            },
+            {
+              "name": "Rocher des Doms",
+              "tip_5lang": {
+                "de": "Bester Blick auf die verschneiten Gipfel der Ferne an klaren Wintertagen.",
+                "hu": "Tiszta téli napokon innen a legjobb a kilátás a távoli havas csúcsokra.",
+                "ro": "Cea mai bună vedere spre vârfurile înzăpezite în zilele senine de iarnă.",
+                "en": "Best view of distant snowy peaks on clear winter days."
+              }
+            },
+            {
+              "name": "Pont d'Avignon",
+              "tip_5lang": {
+                "de": "Sehr windig im Winter; warme Mütze und Handschuhe sind Pflicht.",
+                "hu": "Télen nagyon szeles; meleg sapka és kesztyű kötelező.",
+                "ro": "Foarte vântos iarna; căciula caldă și mănușile sunt obligatorii.",
+                "en": "Very windy in winter; a warm hat and gloves are mandatory."
+              }
+            },
+            {
+              "name": "Les Halles d'Avignon",
+              "tip_5lang": {
+                "de": "Probieren Sie winterliche provenzalische Spezialitäten wie Trüffelprodukte.",
+                "hu": "Kóstolja meg a téli provence-i különlegességeket, például a szarvasgombás termékeket.",
+                "ro": "Gustați specialități provensale de iarnă, cum ar fi produsele cu trufe.",
+                "en": "Taste winter Provençal specialties like truffle products."
+              }
+            },
+            {
+              "name": "Rue des Teinturiers",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Winter gemütliche Rückzugsorte.",
+                "hu": "Az itteni kávézók télen hangulatos menedékhelyek.",
+                "ro": "Cafenelele de aici sunt refugii primitoare pe timp de iarnă.",
+                "en": "The cafes here are cozy retreats during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Mistral-Wind kann die gefühlte Temperatur stark senken.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Fotos vor 16:00 Uhr.",
+              "Museen sind im Winter weniger überlaufen und gut beheizt.",
+              "Tragen Sie Zwiebelschichten für den Wechsel zwischen Kälte und Innenräumen."
+            ],
+            "hu": [
+              "A misztrál szél jelentősen csökkentheti a hőérzetet.",
+              "A nap korán nyugszik, a szabadtéri fotókat tervezze 16:00 előttre.",
+              "A múzeumok télen kevésbé zsúfoltak és jól fűtöttek.",
+              "Öltözködjön rétegesen a kinti hideg és a benti meleg váltakozása miatt."
+            ],
+            "ro": [
+              "Vântul Mistral poate scădea considerabil temperatura resimțită.",
+              "Soarele apune devreme, planificați fotografiile în aer liber înainte de ora 16:00.",
+              "Muzeele sunt mai puțin aglomerate iarna și sunt bine încălzite.",
+              "Purtați haine în mai multe straturi pentru trecerea de la frig la interior."
+            ],
+            "en": [
+              "The Mistral wind can significantly lower the perceived temperature.",
+              "The sun sets early, so plan outdoor photos before 4:00 PM.",
+              "Museums are less crowded in winter and well-heated.",
+              "Dress in layers to adjust between the outdoor cold and indoor warmth."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -532,6 +968,322 @@
           "Use the free river shuttle (Navette Fluviale) to cross the Rhone.",
           "Watch out for one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Avignon und seine grüne Umgebung auf zwei Rädern. Nach der Besichtigung des Papstpalastes überqueren Sie die Rhône zur Île de la Barthelasse, der größten Flussinsel Europas. Genießen Sie die flachen Radwege und den Blick auf die Skyline von Avignon. Ein kurzer Abstecher führt Sie ins historische Villeneuve-lès-Avignon, bevor Sie zur Stärkung in die Markthalle Les Halles zurückkehren.",
+            "hu": "Fedezze fel Avignont és zöld környezetét két keréken. A pápai palota megtekintése után keljen át a Rhône-on a Barthelasse-szigetre, Európa legnagyobb folyami szigetére. Élvezze a sík kerékpárutakat és az Avignonra nyíló panorámát. Egy rövid kitérővel látogasson el Villeneuve-lès-Avignon történelmi központjába, majd térjen vissza a városi vásárcsarnokba egy kis frissítőre.",
+            "ro": "Explorați Avignon și împrejurimile sale verzi pe două roți. După vizitarea Palatului Papal, traversați Ronul spre Insula Barthelasse, cea mai mare insulă fluvială din Europa. Bucurați-vă de pistele plate și de vederea spre Avignon. O scurtă escapadă vă duce în Villeneuve-lès-Avignon înainte de a reveni pentru o gustare la piața Les Halles.",
+            "en": "Explore Avignon and its green surroundings on two wheels. After visiting the Papal Palace, cross the Rhone to Île de la Barthelasse, Europe's largest river island. Enjoy flat cycling paths and great views of Avignon's skyline. A short ride takes you to historic Villeneuve-lès-Avignon before returning to Les Halles market for some refreshment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Papstpalast",
+                "hu": "Pápai palota",
+                "ro": "Palatul Papal",
+                "en": "Palais des Papes"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradparkplatz in der Nähe.",
+                "hu": "Biztonságos kerékpártároló a közelben.",
+                "ro": "Parcare sigură pentru biciclete în apropiere.",
+                "en": "Secure bike parking available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Île de la Barthelasse",
+                "hu": "Barthelasse-sziget",
+                "ro": "Insula Barthelasse",
+                "en": "Île de la Barthelasse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Radweg entlang der Rhône.",
+                "hu": "Használja a Rhône menti kerékpárutat.",
+                "ro": "Folosiți pista de biciclete de-a lungul Ronului.",
+                "en": "Follow the cycling path along the Rhone river."
+              }
+            },
+            {
+              "name": {
+                "de": "Villeneuve-lès-Avignon",
+                "hu": "Villeneuve-lès-Avignon",
+                "ro": "Villeneuve-lès-Avignon",
+                "en": "Villeneuve-lès-Avignon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort Saint-André.",
+                "hu": "Látogasson el a Szent András erődhöz.",
+                "ro": "Vizitați fortul Saint-André.",
+                "en": "Visit the impressive Fort Saint-André."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles",
+                "hu": "Vásárcsarnok",
+                "ro": "Piața Les Halles",
+                "en": "Les Halles"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Snack.",
+                "hu": "Tökéletes hely egy gyors uzsonnához.",
+                "ro": "Locul perfect pentru o gustare rapidă.",
+                "en": "Perfect spot for a quick local snack."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Guinguette du Vieux Moulin",
+                "tip": "Essen im Freien auf der Insel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Guinguette du Vieux Moulin",
+                "tip": "Szabadtéri étkezés a szigeten."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Guinguette du Vieux Moulin",
+                "tip": "Masă în aer liber pe insulă."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Guinguette du Vieux Moulin",
+                "tip": "Outdoor dining on the island."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Barthelasse Ufer",
+                "tip": "Picknick mit Blick auf die Brücke.",
+                "emoji": "🧺"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Barthelasse part",
+                "tip": "Piknik a hídra néző parton.",
+                "emoji": "🧺"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Barthelasse",
+                "tip": "Picnic cu vedere la pod.",
+                "emoji": "🧺"
+              }
+            ],
+            "en": [
+              {
+                "name": "Barthelasse riverbank",
+                "tip": "Picnic with a view of the bridge.",
+                "emoji": "🧺"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vélopassion",
+                "tip": "Fahrradzubehör und Karten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vélopassion",
+                "tip": "Kerékpáros kiegészítők és térképek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vélopassion",
+                "tip": "Accesorii pentru biciclete și hărți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vélopassion",
+                "tip": "Bike accessories and local maps."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Insel Barthelasse ist sehr flach und ideal zum Radfahren.",
+              "Nutzen Sie die kostenlose Fähre (Navette Fluviale) über die Rhône.",
+              "Achten Sie in der Altstadt auf die Einbahnstraßen."
+            ],
+            "hu": [
+              "A Barthelasse-sziget teljesen sík, ideális kerékpározáshoz.",
+              "Használja az ingyenes kishajót (Navette Fluviale) a folyón való átkeléshez.",
+              "Az óvárosban figyeljen az egyirányú utcákra."
+            ],
+            "ro": [
+              "Insula Barthelasse este plată și ideală pentru ciclism.",
+              "Folosiți bacul gratuit (Navette Fluviale) peste Ron.",
+              "Atenție la străzile cu sens unic în centrul vechi."
+            ],
+            "en": [
+              "Île de la Barthelasse is very flat and perfect for easy cycling.",
+              "Use the free river shuttle (Navette Fluviale) to cross the Rhone.",
+              "Watch out for one-way streets in the historic center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Besuchen Sie den Palais des Papes für eine lange trockene Pause. Die Fahrt zur Île de la Barthelasse führt durch eine erfrischte, grüne Landschaft, auch wenn es nass ist. Beenden Sie die Tour in der Markthalle, wo Sie Ihr Rad sicher abstellen und sich bei einem Snack aufwärmen können.",
+            "hu": "Egy esős bringázás megfelelő felszerelést igényel, de cserébe üres utakat kínál. Látogasson el a Pápai Palotába egy hosszú, száraz szünetre. A Barthelasse-szigetre vezető út friss, zöld tájon át visz, még ha nedves is. Zárja a túrát a piaccsarnokban, ahol biztonságban lezárhatja a gépet és felmelegedhet egy falat mellett.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită echipament adecvat, dar oferă trasee libere. Vizitați Palatul Papal pentru o pauză lungă și uscată. Drumul spre Île de la Barthelasse trece printr-un peisaj verde și proaspăt, chiar dacă este ud. Încheiați turul la piața acoperită, unde puteți lăsa bicicleta în siguranță și vă puteți încălzi.",
+            "en": "A bike ride in the rain requires the right gear but offers empty paths. Visit the Palais des Papes for a long dry break. The ride to Île de la Barthelasse takes you through a refreshed, green landscape, even if it's wet. End the tour at the market hall, where you can safely park your bike and warm up with a snack."
+          },
+          "stops": [
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Fahrradabstellplatz nahe dem Eingang.",
+                "hu": "Használja a bejárat közeli nagy kerékpártárolót.",
+                "ro": "Folosiți parcarea mare pentru biciclete de lângă intrare.",
+                "en": "Use the large bike parking area near the entrance."
+              }
+            },
+            {
+              "name": "Île de la Barthelasse",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; Schutzbleche am Rad sind sehr empfohlen.",
+                "hu": "Az utak sarasak lehetnek; a sárvédő használata erősen ajánlott.",
+                "ro": "Potecile pot fi noroioase; aripile la bicicletă sunt recomandate.",
+                "en": "Paths can be muddy; mudguards on your bike are highly recommended."
+              }
+            },
+            {
+              "name": "Villeneuve-lès-Avignon",
+              "tip_5lang": {
+                "de": "Steile, nasse Gassen erfordern vorsichtiges Bremsen beim Abfahren.",
+                "hu": "A meredek, nedves utcák óvatos fékezést igényelnek lefelé menet.",
+                "ro": "Străzile abrupte și ude necesită frânare atentă la coborâre.",
+                "en": "Steep, wet lanes require careful braking when riding downhill."
+              }
+            },
+            {
+              "name": "Les Halles",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Regenkleidung, während Sie drinnen essen.",
+                "hu": "Szárítsa meg esőruházatát, miközben bent ebédel.",
+                "ro": "Uscați-vă hainele de ploaie în timp ce mâncați la interior.",
+                "en": "Dry your rain gear while you eat inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf nassen Fahrbahnmarkierungen und Gullydeckeln.",
+              "Vélopop'-Räder bei Regen auf Bremsfunktion prüfen.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Regenponchos sind praktischer als Schirme auf dem Rad."
+            ],
+            "hu": [
+              "Vigyázzon a nedves útburkolati jeleken és csatornafedeleken.",
+              "Esőben ellenőrizze a Vélopop' kerékpárok fékjeit.",
+              "Kerülje a gyors kanyarodást a nedves macskakövön.",
+              "Az esőponcsó praktikusabb a biciklin, mint az esernyő."
+            ],
+            "ro": [
+              "Atenție la marcajele rutiere umede și la capacele de canal.",
+              "Verificați frânele bicicletelor Vélopop' pe timp de ploaie.",
+              "Evitați virajele strânse pe piatra cubică umedă.",
+              "Pelerinele de ploaie sunt mai practice decât umbrelele pe bicicletă."
+            ],
+            "en": [
+              "Watch out for wet road markings and manhole covers.",
+              "Check the brakes of Vélopop' bikes when it's raining.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Rain ponchos are more practical than umbrellas while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Avignon ist erfrischend und dank flacher Wege angenehm. Starten Sie beim Palais des Papes, bevor der Wind auffrischt. Die Fahrt zur Île de la Barthelasse bietet klare Sicht auf die Skyline der Stadt. Wärmen Sie sich in Villeneuve-lès-Avignon in einem Teehaus auf, bevor Sie zurück zum Stadtzentrum radeln, um in der Markthalle den Tag zu beenden.",
+            "hu": "A téli biciklizés Avignonban frissítő, a sík utaknak köszönhetően pedig kellemes. Kezdjen a Pápai Palotánál, mielőtt feltámadna a szél. A Barthelasse-szigetre vezető út tiszta kilátást nyújt a város sziluettjére. Melegedjen fel Villeneuve-lès-Avignon egyik teázójában, mielőtt visszakerekezne a belvárosba, hogy a piaccsarnokban zárja a napot.",
+            "ro": "Mersul cu bicicleta iarna în Avignon este revigorant și plăcut datorită traseelor plate. Începeți la Palatul Papal înainte ca vântul să se întețească. Drumul spre Île de la Barthelasse oferă o vedere clară asupra siluetei orașului. Încălziți-vă într-o ceainărie din Villeneuve-lès-Avignon înainte de a pedala înapoi spre centru.",
+            "en": "Cycling in Avignon during winter is refreshing and pleasant thanks to flat paths. Start at the Palais des Papes before the wind picks up. The ride to Île de la Barthelasse offers clear views of the city skyline. Warm up in a teahouse in Villeneuve-lès-Avignon before cycling back to the city center to finish your day at the market hall."
+          },
+          "stops": [
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an und nutzen Sie den Besuch zum Aufwärmen.",
+                "hu": "Zárja le a biciklit, és használja a látogatást a felmelegedésre.",
+                "ro": "Legați bicicleta și folosiți vizita pentru a vă încălzi.",
+                "en": "Lock your bike and use the visit to warm up."
+              }
+            },
+            {
+              "name": "Île de la Barthelasse",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; auf der Insel zieht es im Winter stark.",
+                "hu": "Viseljen szélálló ruhát; a szigeten télen erősen fúj a szél.",
+                "ro": "Purtați haine rezistente la vânt; pe insulă curentul este puternic iarna.",
+                "en": "Wear windproof clothing; the wind bites hard on the island in winter."
+              }
+            },
+            {
+              "name": "Villeneuve-lès-Avignon",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Kamin für eine gemütliche Pause.",
+                "hu": "Keressen egy kandallós kávézót egy hangulatos szünethez.",
+                "ro": "Căutați o cafenea cu șemineu pentru o pauză primitoare.",
+                "en": "Look for a cafe with a fireplace for a cozy break."
+              }
+            },
+            {
+              "name": "Les Halles",
+              "tip_5lang": {
+                "de": "Ein heißer Wein oder Punsch ist der perfekte Abschluss der Tour.",
+                "hu": "Egy forró bor vagy puncs a tökéletes lezárása a túrának.",
+                "ro": "Un vin fiert sau un punci este finalul perfect pentru tur.",
+                "en": "A hot wine or punch is the perfect end to the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind beim Radfahren im Mistral-Wind unerlässlich.",
+              "Die Fähre zur Insel verkehrt im Winter seltener, Fahrplan prüfen.",
+              "Vermeiden Sie Fahrten nach Sonnenuntergang (17:00), da es schnell friert.",
+              "Halten Sie die Kette gut geölt gegen winterliche Feuchtigkeit."
+            ],
+            "hu": [
+              "A kesztyű elengedhetetlen a misztrál szélben való bringázáshoz.",
+              "A szigeti komp télen ritkábban jár, ellenőrizze a menetrendet.",
+              "Kerülje a naplemente (17:00) utáni tekerést, mert gyorsan fagyhat.",
+              "Tartsa a láncot jól olajozottan a téli nedvesség ellen."
+            ],
+            "ro": [
+              "Mănușile sunt esențiale pentru pedalat în vântul Mistral.",
+              "Bac-ul spre insulă circulă mai rar iarna, verificați orarul.",
+              "Evitați deplasările după apus (17:00), deoarece îngheață repede.",
+              "Păstrați lanțul bine uns împotriva umidității de iarnă."
+            ],
+            "en": [
+              "Gloves are essential for cycling in the Mistral wind.",
+              "The ferry to the island runs less frequently in winter; check the schedule.",
+              "Avoid riding after sunset (5:00 PM) as temperatures drop rapidly.",
+              "Keep the chain well-oiled against winter moisture."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -744,6 +1496,322 @@
           "The entry fee for Pont du Gard includes parking charges.",
           "Book wine tastings in advance in Châteauneuf-du-Pape."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour kombiniert die Highlights von Avignon mit den Weltkulturerben der Umgebung. Nach dem Papstpalast fahren Sie zum beeindruckenden römischen Aquädukt Pont du Gard. Danach erkunden Sie das charmante Städtchen Uzès mit seinem mittelalterlichen Flair. Den Abschluss bildet ein Besuch in den berühmten Weinbergen von Châteauneuf-du-Pape, bevor Sie zurück nach Avignon fahren.",
+            "hu": "Ez az autós túra Avignon legfontosabb látnivalóit ötvözi a környék világörökségi helyszíneivel. A pápai palota után látogasson el a lenyűgöző Pont du Gard római vízvezetékhez. Ezután fedezze fel Uzès bájos középkori városát. A napot a híres Châteauneuf-du-Pape borvidéken zárja, ahol megismerkedhet a régió kiváló boraival.",
+            "ro": "Acest tur cu mașina combină atracțiile din Avignon cu siturile din patrimoniul mondial din apropiere. După Palatul Papal, mergeți la impresionantul apeduct roman Pont du Gard. Apoi explorați fermecătorul oraș Uzès cu aerul său medieval. Încheiați ziua în faimoasa regiune viticolă Châteauneuf-du-Pape pentru o degustare de vinuri locale.",
+            "en": "This driving tour combines Avignon's highlights with nearby world heritage sites. After visiting the Papal Palace, drive to the breathtaking Roman aqueduct, Pont du Gard. Next, explore the charming medieval town of Uzès. Conclude your day in the famous vineyards of Châteauneuf-du-Pape before heading back to Avignon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Papstpalast",
+                "hu": "Pápai palota",
+                "ro": "Palatul Papal",
+                "en": "Palais des Papes"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Palais des Papes' nutzen.",
+                "hu": "Használja a palota alatti mélygarázst.",
+                "ro": "Folosiți parcarea subterană Palais des Papes.",
+                "en": "Use the underground Palais des Papes parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont du Gard",
+                "hu": "Pont du Gard",
+                "ro": "Pont du Gard",
+                "en": "Pont du Gard"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie Badekleidung für den Fluss mit.",
+                "hu": "Hozzon fürdőruhát a folyóban való mártózáshoz.",
+                "ro": "Aduceți costumul de baie pentru râu.",
+                "en": "Bring swimwear for a dip in the Gardon river."
+              }
+            },
+            {
+              "name": {
+                "de": "Uzès",
+                "hu": "Uzès",
+                "ro": "Uzès",
+                "en": "Uzès"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Place aux Herbes.",
+                "hu": "Látogasson el a Place aux Herbes térre.",
+                "ro": "Vizitați piața Place aux Herbes.",
+                "en": "Visit the beautiful Place aux Herbes."
+              }
+            },
+            {
+              "name": {
+                "de": "Châteauneuf-du-Pape",
+                "hu": "Châteauneuf-du-Pape",
+                "ro": "Châteauneuf-du-Pape",
+                "en": "Châteauneuf-du-Pape"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie einen Weinkeller (Cave).",
+                "hu": "Látogasson el egy helyi borospincébe.",
+                "ro": "Vizitați o cramă locală (cave).",
+                "en": "Visit a local wine cellar (cave) for tasting."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Comptoir du 7",
+                "tip": "Moderne Küche in Uzès."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Comptoir du 7",
+                "tip": "Modern konyha Uzès városában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Comptoir du 7",
+                "tip": "Bucătărie modernă în Uzès."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Comptoir du 7",
+                "tip": "Modern cuisine in the heart of Uzès."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Gardon Ufer",
+                "tip": "Stille am Fluss beim Pont du Gard.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gardon part",
+                "tip": "Csend a folyónál a Pont du Gard alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Gardon",
+                "tip": "Liniște lângă Pont du Gard.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gardon riverbank",
+                "tip": "Peaceful riverside at Pont du Gard.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Haribo Museum",
+                "tip": "Süßigkeiten-Outlet in Uzès."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Haribo Múzeum",
+                "tip": "Édességbolt és outlet Uzèsben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Muzeul Haribo",
+                "tip": "Magazin de dulciuri în Uzès."
+              }
+            ],
+            "en": [
+              {
+                "name": "Haribo Museum",
+                "tip": "Candy factory shop and outlet in Uzès."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in Avignon im Parkhaus Palais des Papes.",
+              "Die Maut für den Pont du Gard beinhaltet das Parken.",
+              "Reservieren Sie Weinverkostungen in Châteauneuf-du-Pape."
+            ],
+            "hu": [
+              "Avignonban a pápai palota alatti parkolót használja.",
+              "A Pont du Gard belépője tartalmazza a parkolási díjat is.",
+              "Châteauneuf-du-Pape-ban érdemes előre borkóstolót foglalni."
+            ],
+            "ro": [
+              "Parcați în parcarea Palais des Papes din Avignon.",
+              "Taxa de intrare la Pont du Gard include și parcarea.",
+              "Rezervați degustările de vin în Châteauneuf-du-Pape."
+            ],
+            "en": [
+              "Use the Palais des Papes parking in Avignon for central access.",
+              "The entry fee for Pont du Gard includes parking charges.",
+              "Book wine tastings in advance in Châteauneuf-du-Pape."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Mietwagen ist die bequemste Art, die Provence bei Regen zu erkunden. Starten Sie trocken in Avignon und fahren Sie zum Pont du Gard, der auch bei grauem Himmel beeindruckt. In Uzès können Sie unter den mittelalterlichen Arkaden der Place aux Herbes bummeln, ohne nass zu werden. Den Tag krönen Sie mit einer Weinprobe in Châteauneuf-du-Pape, gemütlich geschützt in einem Weinkeller.",
+            "hu": "A bérautó a legkényelmesebb módja Provence felfedezésének esőben. Kezdjen szárazon Avignonban, majd hajtson a Pont du Gard-hoz, amely szürke égbolt alatt is lenyűgöző. Uzès-ben a Place aux Herbes középkori árkádjai alatt sétálhat anélkül, hogy megázna. A napot egy borkóstolóval zárhatja Châteauneuf-du-Pape egyik védett borospincéjében.",
+            "ro": "O mașină închiriată este cel mai confortabil mod de a explora Provence pe ploaie. Începeți la adăpost în Avignon și mergeți la Pont du Gard, care impresionează și sub cerul gri. În Uzès, puteți merge pe sub arcadele medievale din Place aux Herbes fără să vă udați. Încheiați ziua cu o degustare în Châteauneuf-du-Pape, protejați într-o cramă.",
+            "en": "A rental car is the most comfortable way to explore Provence in the rain. Start dry in Avignon and drive to Pont du Gard, which is impressive even under grey skies. In Uzès, you can stroll under the medieval arcades of Place aux Herbes without getting wet. Crown the day with a wine tasting in Châteauneuf-du-Pape, cozily sheltered in a wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Palais des Papes' direkt unter dem Platz.",
+                "hu": "Használja a 'Palais des Papes' mélygarázst közvetlenül a tér alatt.",
+                "ro": "Folosiți parcarea subterană 'Palais des Papes' direct sub piață.",
+                "en": "Use the 'Palais des Papes' underground parking directly below the square."
+              }
+            },
+            {
+              "name": "Pont du Gard",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet eine tolle Ausstellung zum Trockenbleiben.",
+                "hu": "A látogatóközpont remek kiállítást kínál, ahol szárazon maradhat.",
+                "ro": "Centrul de vizitare oferă o expoziție excelentă pentru a rămâne la adăpost.",
+                "en": "The visitor center offers a great exhibition to stay dry."
+              }
+            },
+            {
+              "name": "Uzès",
+              "tip_5lang": {
+                "de": "Die Arkadengänge am Hauptplatz bieten perfekten Regenschutz beim Bummeln.",
+                "hu": "A főtér árkádjai tökéletes védelmet nyújtanak séta közben az eső ellen.",
+                "ro": "Arcadele din piața principală oferă protecție perfectă împotriva ploii.",
+                "en": "The arcades at the main square offer perfect rain protection while strolling."
+              }
+            },
+            {
+              "name": "Châteauneuf-du-Pape",
+              "tip_5lang": {
+                "de": "Weinkeller sind der ultimative Ort, um dem Regen zu entfliehen.",
+                "hu": "A borospincék a végső menedékek az eső elől.",
+                "ro": "Cramele sunt locul suprem pentru a scăpa de ploaie.",
+                "en": "Wine cellars are the ultimate place to escape the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den schmalen Landstraßen bei Nässe.",
+              "Buchen Sie Parkhäuser im Voraus, wenn möglich.",
+              "Nutzen Sie die Fahrtzeiten, um Kleidung zu trocknen (Klimaanlage).",
+              "Einige Feldwege zu Weingütern können matschig sein."
+            ],
+            "hu": [
+              "Vezessen óvatosan a szűk vidéki utakon nedves időben.",
+              "Ha lehetséges, foglaljon parkolóhelyet előre a mélygarázsokban.",
+              "Használja az utazási időt a ruházat szárítására (légkondicionáló).",
+              "Néhány dűlőút a borászatokhoz saras lehet."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile rurale înguste când sunt ude.",
+              "Rezervați locuri în parcările subterane în avans, dacă este posibil.",
+              "Folosiți timpul de condus pentru a usca hainele (climatizare).",
+              "Unele drumuri spre podgorii pot fi noroioase."
+            ],
+            "en": [
+              "Drive carefully on narrow country roads when wet.",
+              "Book parking garages in advance if possible.",
+              "Use travel time to dry clothes using the car's AC.",
+              "Some dirt roads leading to wineries might be muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Provence im Winter per Auto ist ein Traum aus klaren Horizonten und wenig Verkehr. Besuchen Sie Avignon am Morgen, wenn die Luft noch frisch ist. Der Pont du Gard wirkt in der tiefstehenden Wintersonne besonders plastisch. In Uzès genießen Sie die Ruhe abseits der Touristenmassen. Den Tag beschließen Sie bei einem Glas kräftigen Rotweins in Châteauneuf-du-Pape, während draußen die Dämmerung früh einsetzt.",
+            "hu": "Provence télen autóval: tiszta látóhatár és kevés forgalom várja. Látogasson el Avignonba reggel, amikor a levegő még friss. A Pont du Gard a téli, alacsony napállásnál különösen plasztikus látványt nyújt. Uzès-ben élvezze a csendet a turistaáradaton kívül. A napot egy pohár testes vörösborral zárja Châteauneuf-du-Pape-ban, miközben odakint korán leszáll az alkonyat.",
+            "ro": "Provence iarna cu mașina este un vis cu orizonturi clare și trafic redus. Vizitați Avignonul dimineața, când aerul este încă proaspăt. Pont du Gard pare deosebit de plastic în lumina joasă a soarelui de iarnă. În Uzès, bucurați-vă de liniște departe de masele de turiști. Încheiați ziua cu un pahar de vin roșu robust în Châteauneuf-du-Pape.",
+            "en": "Provence in winter by car is a dream of clear horizons and little traffic. Visit Avignon in the morning when the air is still crisp. Pont du Gard looks particularly striking in the low winter sun. In Uzès, enjoy the peace away from the tourist crowds. End the day with a glass of bold red wine in Châteauneuf-du-Pape as dusk sets in early."
+          },
+          "stops": [
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft günstiger oder haben mehr freie Plätze.",
+                "hu": "A mélygarázsok télen gyakran olcsóbbak vagy több a szabad hely.",
+                "ro": "Parcările subterane sunt adesea mai ieftine iarna sau au mai multe locuri libere.",
+                "en": "Parking garages are often cheaper or have more free spaces in winter."
+              }
+            },
+            {
+              "name": "Pont du Gard",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind nah am Denkmal; ideal bei kalten Temperaturen.",
+                "hu": "A parkolók közel vannak az emlékműhöz; ideális hideg időben.",
+                "ro": "Parcările sunt aproape de monument; ideal pe temperaturi scăzute.",
+                "en": "Parking areas are close to the monument; ideal for cold temperatures."
+              }
+            },
+            {
+              "name": "Uzès",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leicht Parkplätze direkt am historischen Zentrum.",
+                "hu": "Télen könnyen talál parkolóhelyet közvetlenül a történelmi központnál.",
+                "ro": "Iarna găsiți ușor locuri de parcare chiar lângă centrul istoric.",
+                "en": "In winter, you'll easily find parking spots right by the historic center."
+              }
+            },
+            {
+              "name": "Châteauneuf-du-Pape",
+              "tip_5lang": {
+                "de": "Beste Zeit für Kellerführungen ohne Voranmeldung.",
+                "hu": "A legjobb időszak a pincelátogatásokra előzetes bejelentkezés nélkül.",
+                "ro": "Cea mai bună perioadă pentru tururi de crame fără rezervare prealabilă.",
+                "en": "Best time for cellar tours without prior appointment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteisrisiko in schattigen Tälern am frühen Morgen.",
+              "Die Heizung im Auto sorgt für angenehme Pausen zwischen den Stopps.",
+              "Viele Weingüter haben im Winter verkürzte Öffnungszeiten.",
+              "Tanken Sie rechtzeitig, da einige ländliche Stationen früher schließen."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedés veszélyére az árnyékos völgyekben kora reggel.",
+              "Az autó fűtése kellemes pihenőt biztosít a megállók között.",
+              "Sok borászat télen rövidített nyitvatartással üzemel.",
+              "Tankoljon időben, mert néhány vidéki kút korábban bezárhat."
+            ],
+            "ro": [
+              "Atenție la riscul de polei în văile umbrite, dimineața devreme.",
+              "Încălzirea mașinii oferă pauze plăcute între opriri.",
+              "Multe podgorii au program redus pe timp de iarnă.",
+              "Alimentați din timp, deoarece unele stații rurale închid mai devreme."
+            ],
+            "en": [
+              "Watch out for black ice in shaded valleys early in the morning.",
+              "The car's heating provides comfortable breaks between stops.",
+              "Many wineries have shortened opening hours in winter.",
+              "Refuel in time as some rural stations might close earlier."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -979,34 +2047,355 @@
           "The 'Baladine' shuttles can navigate the narrowest streets.",
           "Use the 'Orizo' app for real-time bus schedules."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Avignon, um die Stadt stressfrei zu erkunden. Starten Sie am Hauptbahnhof und nutzen Sie die Baladine-Elektrobusse für den Weg zum Papstpalast. Der Tag führt Sie weiter zu bedeutenden Kunstsammlungen im Musée Calvet und der Collection Lambert. Zwischen den Museumsbesuchen bietet die Markthalle Les Halles die perfekte Gelegenheit für eine kulinarische Pause, alles bequem per Transit erreichbar.",
+            "hu": "Használja Avignon hatékony buszhálózatát a város stresszmentes felfedezéséhez. Kezdje a főpályaudvarnál, és vegye igénybe a Baladine elektromos buszokat a pápai palotához való eljutáshoz. A nap folyamán látogasson el a Calvet Múzeum és a Lambert Gyűjtemény jelentős művészeti tárlataira. A múzeumlátogatások között a Les Halles vásárcsarnok tökéletes helyszín egy gasztronómiai szünetre.",
+            "ro": "Folosiți rețeaua eficientă de autobuze din Avignon pentru a explora orașul fără stres. Începeți de la gara centrală și folosiți microbuzele electrice Baladine pentru a ajunge la Palatul Papal. Ziua continuă cu vizite la Muzeul Calvet și Colecția Lambert. Între vizitele la muzee, piața Les Halles oferă ocazia perfectă pentru o pauză culinară, totul fiind accesibil cu transportul public.",
+            "en": "Use Avignon's efficient bus network to explore the city stress-free. Start at the central station and take the Baladine electric shuttle to the Papal Palace. Your day continues with visits to major art collections at Musée Calvet and Collection Lambert. Between museum stops, Les Halles market provides the perfect spot for a gastronomic break, all easily reachable by transit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hauptbahnhof Avignon",
+                "hu": "Avignon főpályaudvar",
+                "ro": "Gara Centrală Avignon",
+                "en": "Avignon Central Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle 'Baladine' ins Zentrum.",
+                "hu": "Használja a 'Baladine' buszt a központba.",
+                "ro": "Folosiți autobuzul 'Baladine' spre centru.",
+                "en": "Take the 'Baladine' electric shuttle to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Papstpalast",
+                "hu": "Pápai palota",
+                "ro": "Palatul Papal",
+                "en": "Palais des Papes"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Palais de Justice' ganz nah.",
+                "hu": "A 'Palais de Justice' megálló van a legközelebb.",
+                "ro": "Stația 'Palais de Justice' este cea mai apropiată.",
+                "en": "Get off at the 'Palais de Justice' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Calvet",
+                "hu": "Calvet Múzeum",
+                "ro": "Muzeul Calvet",
+                "en": "Musée Calvet"
+              },
+              "tip_5lang": {
+                "de": "Wunderschönes Palais aus dem 18. Jhd.",
+                "hu": "Gyönyörű 18. századi palota ad helyet a múzeumnak.",
+                "ro": "Muzeul este găzduit într-un palat superb din sec. XVIII.",
+                "en": "Housed in a beautiful 18th-century mansion."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles",
+                "hu": "Vásárcsarnok",
+                "ro": "Piața Les Halles",
+                "en": "Les Halles"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für Busse.",
+                "hu": "Központi csomópont a buszok számára.",
+                "ro": "Nod central pentru transportul public.",
+                "en": "Central hub for local bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Collection Lambert",
+                "hu": "Lambert Gyűjtemény",
+                "ro": "Colecția Lambert",
+                "en": "Collection Lambert"
+              },
+              "tip_5lang": {
+                "de": "Bedeutende zeitgenössische Kunst.",
+                "hu": "Jelentős kortárs művészeti gyűjtemény.",
+                "ro": "Colecție importantă de artă contemporană.",
+                "en": "Important collection of contemporary art."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Epicerie",
+                "tip": "Gemütliches Restaurant an einem ruhigen Platz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Epicerie",
+                "tip": "Hangulatos étterem egy csendes téren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Epicerie",
+                "tip": "Restaurant primitor într-o piață liniștită."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Epicerie",
+                "tip": "Cozy restaurant located on a quiet square."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square Agricol Perdiguier",
+                "tip": "Kleiner Park am Bahnhof.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square Agricol Perdiguier",
+                "tip": "Kis park a pályaudvar mellett.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square Agricol Perdiguier",
+                "tip": "Parc mic lângă gară.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square Agricol Perdiguier",
+                "tip": "Small park near the train station.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue de la République",
+                "tip": "Haupteinkaufsstraße der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue de la République",
+                "tip": "A város fő bevásárlóutcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue de la République",
+                "tip": "Principala stradă comercială."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue de la République",
+                "tip": "The city's main shopping street."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für das Orizo-Netz.",
+              "Die 'Baladine'-Shuttles fahren durch die engsten Gassen.",
+              "Nutzen Sie die App 'Orizo' für Echtzeit-Fahrpläne."
+            ],
+            "hu": [
+              "Vásároljon napijegyet az Orizo hálózatára.",
+              "A 'Baladine' buszok a legszűkebb utcákon is átmennek.",
+              "Használja az 'Orizo' alkalmazást a valós idejű menetrendhez."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru rețeaua Orizo.",
+              "Microbuzele 'Baladine' circulă pe străzile cele mai înguste.",
+              "Folosiți aplicația 'Orizo' pentru orare în timp real."
+            ],
+            "en": [
+              "Purchase a day pass for the Orizo transit network.",
+              "The 'Baladine' shuttles can navigate the narrowest streets.",
+              "Use the 'Orizo' app for real-time bus schedules."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal, um bei Regen trocken zu bleiben. Starten Sie am Hauptbahnhof und fahren Sie bequem zum Palais des Papes. Die Museen Calvet und Lambert bieten stundenlange kulturelle Unterhaltung im Trockenen. Zwischen den Stopps bringen Sie Busse fast direkt vor die Tür, sodass Sie nur minimale Wege im Regen zurücklegen müssen.",
+            "hu": "A tömegközlekedés ideális választás, hogy esőben szárazon maradjon. Kezdjen a központi pályaudvaron, és utazzon kényelmesen a Pápai Palotához. A Calvet és Lambert múzeumok órákig tartó kulturális élményt nyújtanak fedél alatt. A megállók között a buszok szinte az ajtóig viszik, így csak minimálisat kell az esőben gyalogolnia.",
+            "ro": "Transportul public este ideal pentru a rămâne uscat pe timp de ploaie. Începeți la gara centrală și mergeți confortabil spre Palatul Papal. Muzeele Calvet și Lambert oferă ore de divertisment cultural la adăpost. Între opriri, autobuzele vă lasă aproape de intrare, minimizând mersul prin ploaie.",
+            "en": "Public transport is ideal for staying dry in the rain. Start at the central station and travel comfortably to the Palais des Papes. The Calvet and Lambert museums offer hours of indoor cultural entertainment. Between stops, buses take you almost to the doorstep, minimizing your time in the rain."
+          },
+          "stops": [
+            {
+              "name": "Avignon Central Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Anschlussbus.",
+                "hu": "Várja a csatlakozó buszt az állomás várótermében.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait for your connecting bus in the station hall."
+              }
+            },
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nah am Eingang des Palastes.",
+                "hu": "A buszmegálló közel van a palota bejáratához.",
+                "ro": "Stația de autobuz este aproape de intrarea în palat.",
+                "en": "The bus stop is close to the palace entrance."
+              }
+            },
+            {
+              "name": "Musée Calvet",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange, trockene Kulturpause.",
+                "hu": "Tökéletes hely egy hosszú, száraz kulturális szünethez.",
+                "ro": "Loc perfect pentru o pauză culturală lungă și uscată.",
+                "en": "Perfect place for a long, dry cultural break."
+              }
+            },
+            {
+              "name": "Les Halles",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um direkt vor der Markthalle auszusteigen.",
+                "hu": "Használja a buszt, hogy közvetlenül a piaccsarnok előtt szálljon le.",
+                "ro": "Folosiți autobuzul pentru a coborî chiar în fața pieței.",
+                "en": "Take the bus to get off right in front of the market hall."
+              }
+            },
+            {
+              "name": "Collection Lambert",
+              "tip_5lang": {
+                "de": "Moderne Kunst in einem historischen Gebäude ohne Regensorgen.",
+                "hu": "Modern művészet egy történelmi épületben, esőmentesen.",
+                "ro": "Artă modernă într-o clădire istorică, fără grija ploii.",
+                "en": "Modern art in a historic building without worrying about the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Orizo-App für Echtzeit-Infos bei wetterbedingten Verzögerungen.",
+              "Kaufen Sie Tageskarten direkt in der App oder am Automaten im Trockenen.",
+              "Die Elektrobusse der Linie 'Baladine' fahren auch durch schmale Gassen.",
+              "Bahnhöfe und Museen bieten oft Schließfächer für nasse Schirme."
+            ],
+            "hu": [
+              "Használja az Orizo alkalmazást a valós idejű infókért eső miatti késésekkor.",
+              "Vásároljon napijegyet az alkalmazásban vagy automatánál fedett helyen.",
+              "A 'Baladine' elektromos buszok a szűk utcákon is közlekednek.",
+              "Az állomásokon és múzeumokban gyakran van tároló a vizes ernyőknek."
+            ],
+            "ro": [
+              "Folosiți aplicația Orizo pentru informații în timp real în caz de întârzieri.",
+              "Cumpărați bilete de o zi din aplicație sau de la automate, la adăpost.",
+              "Microbuzele electrice 'Baladine' circulă și pe străzile înguste.",
+              "Gările și muzeele oferă adesea spații de depozitare pentru umbrele ude."
+            ],
+            "en": [
+              "Use the Orizo app for real-time updates during weather-related delays.",
+              "Buy day passes in the app or at vending machines while indoors.",
+              "The 'Baladine' electric buses even navigate the narrowest lanes.",
+              "Stations and museums often provide storage for wet umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Avignon mit Bus und Bahn im Winter ist warm und entspannt. Beginnen Sie Ihre Tour am zentralen Bahnhof. Der Palais des Papes ist dank guter Anbindung leicht erreichbar. Nutzen Sie die Mittagspause in der Markthalle, bevor Sie die Museen Calvet und Lambert besuchen, die im Winter wohltemperiert sind. Der Transit ermöglicht es Ihnen, den Tag ohne Frieren im Mistral-Wind zu genießen.",
+            "hu": "Avignon busszal és vonattal télen meleg és pihentető. Kezdje túráját a központi pályaudvaron. A Pápai Palota a jó összeköttetésnek köszönhetően könnyen elérhető. Használja ki az ebédszünetet a piaccsarnokban, majd látogasson el a Calvet és Lambert múzeumokba, amelyek télen kellemesen fűtöttek. A tömegközlekedés lehetővé teszi, hogy fagyoskodás nélkül élvezze a napot.",
+            "ro": "Avignon cu autobuzul și trenul iarna este cald și relaxant. Începeți turul la gara centrală. Palatul Papal este ușor accesibil datorită conexiunilor bune. Profitați de pauza de prânz în piață, apoi vizitați muzeele Calvet și Lambert, care sunt bine încălzite. Transportul public vă permite să vă bucurați de zi fără să înghețați în vântul Mistral.",
+            "en": "Avignon by bus and train in winter is warm and relaxed. Start your tour at the central station. The Palais des Papes is easily accessible thanks to good connections. Make use of the lunch break in the market hall before visiting the Calvet and Lambert museums, which are well-heated in winter. Transit allows you to enjoy the day without freezing in the Mistral wind."
+          },
+          "stops": [
+            {
+              "name": "Avignon Central Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut beheizt; ideal für kurze Wartezeiten.",
+                "hu": "Az állomás jól fűtött; ideális a rövid várakozásokhoz.",
+                "ro": "Gara este bine încălzită; ideală pentru scurte așteptări.",
+                "en": "The station is well-heated; ideal for short waits."
+              }
+            },
+            {
+              "name": "Palais des Papes",
+              "tip_5lang": {
+                "de": "Sparen Sie Energie für den Palastbesuch durch die kurze Busanfahrt.",
+                "hu": "Spóroljon energiát a palotalátogatáshoz a rövid buszos úttal.",
+                "ro": "Economisiți energie pentru vizitarea palatului folosind autobuzul.",
+                "en": "Save energy for the palace visit by taking a short bus ride."
+              }
+            },
+            {
+              "name": "Musée Calvet",
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort mit beeindruckender Kunstsammlung.",
+                "hu": "Meleg menedékhely lenyűgöző művészeti gyűjteménnyel.",
+                "ro": "Un refugiu călduros cu o colecție de artă impresionantă.",
+                "en": "A warm retreat with an impressive art collection."
+              }
+            },
+            {
+              "name": "Les Halles",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Mittagessen im Herzen der Stadt.",
+                "hu": "Élvezzen egy meleg ebédet a város szívében.",
+                "ro": "Bucurați-vă de un prânz cald în inima orașului.",
+                "en": "Enjoy a warm lunch in the heart of the city."
+              }
+            },
+            {
+              "name": "Collection Lambert",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, wenn es draußen am kältesten ist.",
+                "hu": "Látogassa meg a kiállításokat, amikor odakint a leghidegebb van.",
+                "ro": "Vizitați expozițiile când este cel mai frig afară.",
+                "en": "Visit the exhibitions when it's coldest outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen im Winter abweichen.",
+              "Die Wartebereiche im Freien können bei Mistral sehr ungemütlich sein.",
+              "Kaufen Sie Tickets online, um Wartezeiten im Kalten zu vermeiden.",
+              "Nutzen Sie die Stadtbusse, um die Wege zwischen den Museen zu verkürzen."
+            ],
+            "hu": [
+              "A menetrendek téli ünnepnapokon eltérőek lehetnek.",
+              "A szabadtéri várók a misztrál szélben nagyon kellemetlenek lehetnek.",
+              "Vásároljon jegyet online, hogy elkerülje a hidegben való várakozást.",
+              "Használja a városi buszokat a múzeumok közötti gyaloglás rövidítésére."
+            ],
+            "ro": [
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Zonele de așteptare în aer liber pot fi inconfortabile în vântul Mistral.",
+              "Cumpărați bilete online pentru a evita așteptarea în frig.",
+              "Folosiți autobuzele urbane pentru a scurta distanțele între muzee."
+            ],
+            "en": [
+              "Schedules may vary during winter holidays.",
+              "Outdoor waiting areas can be very uncomfortable in the Mistral wind.",
+              "Buy tickets online to avoid waiting in the cold.",
+              "Use city buses to shorten the walking distance between museums."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://avignon-tourisme.com/",
-    "events": "https://avignon-tourisme.com/agenda/",
-    "city_card": "https://avignon-tourisme.com/avignon-city-pass/",
-    "museum_tickets": "https://avignon-tourisme.com/billetterie/",
-    "transit_official": "https://www.orizo.fr/",
-    "language_tips": {
-      "de": "In Avignon ist Französisch die Hauptsprache, aber dank des Theaterfestivals im Juli sprechen viele Caféinhaber und Hotelangestellte gutes Englisch. Lernen Sie 'la place de l'Horloge' korrekt auszusprechen, denn dort verabredet sich jeder. Ein freundliches 'Bonjour' beim Betreten der Boulangerien ist obligatorisch.",
-      "hu": "Avignonban a francia a fő nyelv, de a júliusi színházi fesztiválnak köszönhetően sok kávézótulajdonos és szállodai dolgozó beszél jól angolul. Tanuld meg helyesen kiejteni a 'place de l'Horloge' nevét, mert mindenki ott találkozik. A pékségekbe lépéskor mindig köszönj egy barátságos 'Bonjour'-ral.",
-      "ro": "În Avignon, franceza este principala limbă, dar datorită festivalului de teatru din iulie, mulți proprietari de cafenele și angajați de hotel vorbesc bine engleza. Învățați să pronunțați corect 'place de l'Horloge', pentru că acolo se întâlnește toată lumea. Salutul 'Bonjour' la intrarea în brutării este obligatoriu.",
-      "en": "French dominates in Avignon, but thanks to the July theatre festival, café owners and hotel staff often speak good English. Learn to pronounce 'la place de l'Horloge' properly - it's everyone's meeting spot. A friendly 'Bonjour' when entering boulangeries isn't optional, it's expected etiquette."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni bietet mildes Wetter und blühende Provence, ohne die Hitze des Sommers. Juli ist legendär für das Festival d'Avignon, aber Hotels sind teuer und ausgebucht. September und Oktober bringen Weinlese in der Region. Vermeiden Sie August, wenn die Mistral und Hitze die Stadt erdrücken können.",
-      "hu": "Április és június között enyhe időjárás és virágzó Provence vár, nyári hőség nélkül. Júliusban legendás az Avignoni Fesztivál, de a szállodák drágák és teltházasak. Szeptember és október meghozza a szüretet a régióban. Augusztusban kerüld a várost, mert a misztrál szél és a hőség nyomasztó lehet.",
-      "ro": "Aprilie până în iunie oferă vreme blândă și Provence-ul în floare, fără căldura verii. Iulie este legendar pentru Festivalul d'Avignon, dar hotelurile sunt scumpe și ocupate. Septembrie și octombrie aduc culesul viilor în regiune. Evitați august, când mistralul și căldura pot copleși orașul.",
-      "en": "April to June offers mild weather and a blooming Provence, before the summer heat hits. July is legendary for the Festival d'Avignon, but hotels are expensive and booked solid. September and October bring regional wine harvests. Avoid August, when the Mistral wind and heat can overwhelm the city."
-    },
-    "neighborhood_warnings": {
-      "de": "Innerhalb der Stadtmauern ist Avignon sicher, doch der Bahnhofsviertel um Avignon-Centre kann abends zwielichtig wirken. Achten Sie an der Pont Saint-Bénézet auf Taschendiebe in der Hauptsaison.",
-      "hu": "A városfalakon belül Avignon biztonságos, de a Avignon-Centre pályaudvar környéke este zavarosnak tűnhet. A Pont Saint-Bénézetnél figyelj a zsebtolvajokra a főszezonban.",
-      "ro": "În interiorul zidurilor cetății, Avignon este sigur, dar zona gării Avignon-Centre poate părea dubioasă seara. La Pont Saint-Bénézet, atenție la hoții de buzunare în plin sezon.",
-      "en": "Inside the city walls Avignon is safe, but the area around Avignon-Centre station can feel sketchy at night. Watch for pickpockets at Pont Saint-Bénézet during peak season."
-    },
-    "parking_real_time": "https://www.avignon-parkings.com/"
   }
 }

@@ -261,6 +261,382 @@
           "Use the free valley shuttle buses.",
           "Sunscreen is mandatory due to glacier reflection."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Herzen des Tals, wo die Pioniere des Alpinismus thronen. Der Vormittag gehört dem spirituellen und kulturellen Erbe: die Barockkirche und das Alpenmuseum erwarten uns. Am Nachmittag lockt die Höhe, die Welt der Seilbahnen und das ewige Eis. Der Abend klingt im Schatten des leuchtenden Mont-Blanc in einem gemütlichen lokalen Gasthaus aus.",
+            "hu": "Reggel a völgy szívében kezdünk, ahol a hegymászás úttörői tekintenek ránk. A délelőtt a spirituális és kulturális örökségé: a barokk templom és az Alpok történetét bemutató múzeum vár. Délután a magasba vágyunk, a felvonók világa és a jég birodalma tárul fel. Az este a fénylő Mont-Blanc árnyékában, egy hangulatos helyi fogadóban ér véget.",
+            "ro": "Dimineața începe în inima văii, unde statuile pionierilor alpinismului ne întâmpină. Continuăm cu moștenirea spirituală și culturală: biserica barocă și Muzeul Alpin. După-amiaza este dedicată înălțimilor, telefericelor și regatului ghețurilor eterne. Seara se încheie sub privirea masivului Mont-Blanc, savurând preparate locale într-o atmosferă montană autentică.",
+            "en": "Morning begins in the heart of the valley, greeted by the pioneers of mountaineering. The forenoon is dedicated to spiritual and cultural heritage: the Baroque church and the Alpine Museum. In the afternoon, we head for the heights, exploring cable cars and the kingdom of ice. The evening winds down in the shadow of Mont-Blanc, enjoying local specialties in a cozy alpine inn."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue Balmat-Paccard",
+                "hu": "Balmat-Paccard emlékmű",
+                "ro": "Statuia Balmat-Paccard",
+                "en": "Balmat-Paccard Statue"
+              },
+              "tip_5lang": {
+                "de": "Bester Startpunkt für Fotos mit dem Mont-Blanc im Hintergrund.",
+                "hu": "Tökéletes fotópont, háttérben a Mont-Blanc csúcsával.",
+                "ro": "Cel mai bun loc pentru poze cu vederi spre Mont-Blanc.",
+                "en": "Perfect spot for photos with Mont Blanc in the background."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Innenausstattung dieser Bergkirche.",
+                "hu": "Csodálja meg a hegyi templom barokk belső díszítését.",
+                "ro": "Admirați interiorul baroc al acestei biserici de munte.",
+                "en": "Admire the baroque interior of this mountain church."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Alpin",
+                "hu": "Alpok Múzeum",
+                "ro": "Muzeul Alpin",
+                "en": "Alpine Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie alles über die Erstbesteigung des Mont-Blanc.",
+                "hu": "Ismerje meg a Mont-Blanc első megmászásának történetét.",
+                "ro": "Aflați totul despre prima ascensiune pe Mont-Blanc.",
+                "en": "Learn all about the first ascent of Mont Blanc."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille du Midi (Basisstation)",
+                "hu": "Aiguille du Midi (alsó állomás)",
+                "ro": "Aiguille du Midi (stația de bază)",
+                "en": "Aiguille du Midi (Base Station)"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+                "hu": "Vegyen jegyet előre, hogy elkerülje a hosszú sorban állást.",
+                "ro": "Cumpărați bilete în avans pentru a evita cozile lungi.",
+                "en": "Buy tickets in advance to avoid long queues."
+              }
+            },
+            {
+              "name": {
+                "de": "Mer de Glace (Bahnhof Montenvers)",
+                "hu": "Mer de Glace (Montenvers vasútállomás)",
+                "ro": "Mer de Glace (Gara Montenvers)",
+                "en": "Mer de Glace (Montenvers Station)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eishöhle, die jedes Jahr neu gegraben wird.",
+                "hu": "Látogassa meg a jégbarlangot, amit minden évben újra vájnak.",
+                "ro": "Vizitați peștera de gheață care este săpată din nou anual.",
+                "en": "Visit the ice cave which is re-carved every year."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Calèche",
+                "tip": "Traditionelles Fondue in alpinem Ambiente."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Herzhafter Kartoffelauflauf mit Reblochon-Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Calèche",
+                "tip": "Tradicionális fondue alpesi környezetben."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Kiadós rakott burgonya Reblochon sajttal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Calèche",
+                "tip": "Fondue tradițional într-un decor alpin."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Cartofi gratinați cu brânză Reblochon."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Calèche",
+                "tip": "Traditional fondue in an alpine setting."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Hearty potato bake with Reblochon cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de Merlet",
+                "tip": "Wildtiere beobachten mit Panoramablick.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc de Merlet",
+                "tip": "Vadvilág megfigyelése panorámával.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc de Merlet",
+                "tip": "Observarea faunei cu vedere panoramică.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc de Merlet",
+                "tip": "Wildlife spotting with panoramic views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue du Docteur Paccard",
+                "tip": "Beste Meile für Outdoor-Ausrüstung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue du Docteur Paccard",
+                "tip": "A legjobb hely túrafelszerelésekhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue du Docteur Paccard",
+                "tip": "Cea mai bună stradă pentru echipament montan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue du Docteur Paccard",
+                "tip": "Best mile for outdoor gear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie auch im Sommer feste Wanderschuhe.",
+              "Die Wetterbedingungen am Gipfel ändern sich extrem schnell.",
+              "Nutzen Sie die kostenlosen Shuttlebusse im Tal.",
+              "Sonnencreme ist wegen der Reflexion am Gletscher Pflicht."
+            ],
+            "hu": [
+              "Viseljen erős túracipőt még nyáron is.",
+              "Az időjárás a csúcson rendkívül gyorsan változik.",
+              "Használja az ingyenes völgyi buszjáratokat.",
+              "A naptej kötelező a gleccser fényvisszaverése miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție solidă chiar și vara.",
+              "Vremea pe vârf se schimbă extrem de repede.",
+              "Folosiți autobuzele locale gratuite din vale.",
+              "Crema solară este obligatorie din cauza reflexiei ghețarului."
+            ],
+            "en": [
+              "Wear sturdy hiking shoes even in summer.",
+              "Weather conditions at the summit change extremely fast.",
+              "Use the free valley shuttle buses.",
+              "Sunscreen is mandatory due to glacier reflection."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens führt der Weg unter Arkaden zur Kirche Saint-Michel, wo das Prasseln des Regens für Stille sorgt. Mittags bietet das Alpinmuseum eine warme Zuflucht in die Geschichte des Alpinismus. Nachmittags hüllt der Nebel die Talstation der Aiguille du Midi in Mystik. Abends glänzen die nassen Gassen von Chamonix im Licht der Laternen, perfekt für ein gemütliches Käsefondue.",
+            "hu": "Reggel az árkádok alatt sétálunk a Saint-Michel templomig, ahol az eső kopogása áhítatos csendet teremt. Délben az Alpesi Múzeum nyújt menedéket a hegymászás történetével. Délután a köd misztikus hangulatba vonja az Aiguille du Midi alsó állomását. Este Chamonix vizes aszfaltja csillog a lámpafényben, ideális idő egy forró sajtfondühöz a belvárosban.",
+            "ro": "Dimineața, drumul sub arcade duce la Biserica Saint-Michel, unde ropotele ploii creează o liniște sacră. La prânz, Muzeul Alpin oferă refugiu în istoria alpinismului. După-amiaza, ceața învăluie stația de bază Aiguille du Midi într-o atmosferă mistică. Seara, străzile umede din Chamonix strălucesc sub lumini, fiind momentul perfect pentru un fondue de brânză.",
+            "en": "Morning leads under arcades to Saint-Michel Church, where the rhythmic rain creates a peaceful silence. At noon, the Alpine Museum provides a warm refuge into the history of mountaineering. In the afternoon, mist wraps the Aiguille du Midi base station in a mystical vibe. Evening sees the wet streets of Chamonix glistening under lights, perfect for a cozy cheese fondue."
+          },
+          "stops": [
+            {
+              "name": "Balmat-Paccard Statue",
+              "tip_5lang": {
+                "de": "Regenschirm fest im Wind halten, während man die mutigen Pioniere im Regen bewundert.",
+                "hu": "Tartsuk erősen az esernyőt a szélben, miközben a bátor pionírokat csodáljuk az esőben.",
+                "ro": "Țineți umbrela bine în vânt în timp ce admirați pionierii curajoși sub ploaie.",
+                "en": "Hold your umbrella tight in the wind while admiring the brave pioneers in the rain."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um trocken zu bleiben und die barocke Akustik zu genießen.",
+                "hu": "Kiváló hely a szárazon maradáshoz és a barokk akusztika élvezetéhez.",
+                "ro": "Un loc excelent pentru a rămâne uscat și a vă bucura de acustica barocă.",
+                "en": "An excellent place to stay dry and enjoy the baroque acoustics."
+              }
+            },
+            {
+              "name": "Alpine Museum",
+              "tip_5lang": {
+                "de": "Ideal bei starkem Regen; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Ideális szakadó esőben; használjuk a ruhatárat a vizes kabátoknak.",
+                "ro": "Ideal în caz de ploaie torențială; folosiți garderoba pentru haine ude.",
+                "en": "Ideal during heavy rain; use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Aiguille du Midi (Base Station)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Webcams; oft liegt die Station über den Regenwolken im Sonnenschein.",
+                "hu": "Nézzük meg a webkamerákat; gyakran az állomás az esőfelhők felett napos.",
+                "ro": "Verificați camerele web; adesea stația este deasupra norilor de ploaie, la soare.",
+                "en": "Check the webcams; often the station is above the rain clouds in the sunshine."
+              }
+            },
+            {
+              "name": "Mer de Glace (Montenvers Station)",
+              "tip_5lang": {
+                "de": "Der Zug bietet Schutz; die Eishöhle kann bei Regen rutschig sein.",
+                "hu": "A vonat védelmet nyújt; a jégbarlang bejárata esőben csúszós lehet.",
+                "ro": "Trenul oferă protecție; peștera de gheață poate fi alunecoasă pe ploaie.",
+                "en": "The train provides shelter; the ice cave entrance can be slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Pflastersteine im Zentrum rutschig werden.",
+              "Die Arkaden entlang der Rue Joseph Vallot bieten guten Schutz vor Schauern.",
+              "Bei Gewittergefahr stellen die Bergbahnen den Betrieb kurzzeitig ein.",
+              "Nutzen Sie die Regenpause für Fotos der tiefhängenden Wolken am Mont-Blanc.",
+              "Ein heißer Kakao in den Cafés am Fluss ist die beste Belohnung nach dem Spaziergang."
+            ],
+            "hu": [
+              "Viseljünk vízálló túrabakancsot, mert a központ macskakövei csúszóssá válnak.",
+              "A Rue Joseph Vallot menti árkádok jó védelmet nyújtanak a záporok elől.",
+              "Viharveszély esetén a felvonók működését ideiglenesen felfüggeszthetik.",
+              "Használjuk ki az esőszüneteket a Mont-Blanc alacsonyan szálló felhőinek fotózására.",
+              "Egy forró kakaó a folyóparti kávézókban a legjobb jutalom a séta után."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili, deoarece pavajul din centru devine alunecos.",
+              "Arcadele de-a lungul străzii Joseph Vallot oferă o protecție bună împotriva ploii.",
+              "În caz de furtună, telecabinele își pot suspenda temporar activitatea.",
+              "Profitați de pauzele de ploaie pentru poze cu norii joși de pe Mont-Blanc.",
+              "O ciocolată caldă la cafenelele de lângă râu este cea mai bună recompensă."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as the cobblestones in the center become slippery.",
+              "The arcades along Rue Joseph Vallot offer good protection from showers.",
+              "In case of lightning risk, the cable cars may temporarily suspend service.",
+              "Take advantage of rain breaks for photos of the low-hanging clouds on Mont-Blanc.",
+              "A hot cocoa in the riverside cafes is the best reward after the walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Chamonix erwacht im Winterzauber; morgens knirscht der Schnee auf dem Weg zum Balmat-Denkmal. Mittags wärmt die barocke Pracht der Kirche die Seele. Nachmittags gleicht die Fahrt zur Aiguille du Midi einer Expedition in das ewige Eis. Wenn die Sonne um 17:00 Uhr hinter den Gipfeln verschwindet, verwandelt sich das Dorf in ein Lichtermeer aus Apres-Ski-Freude.",
+            "hu": "Chamonix téli varázslatban ébred; reggel ropog a hó a Balmat-emlékmű felé vezető úton. Délben a templom barokk pompája melengeti a lelket. Délután az Aiguille du Midi felé tartó út egy expedícióval ér fel az örök jég birodalmába. Amikor 17:00-kor a nap eltűnik a csúcsok mögött, a falu az après-ski örömök fényárjává változik.",
+            "ro": "Chamonix se trezește în magie de iarnă; dimineața zăpada scârțâie sub picioare spre Monumentul Balmat. La prânz, splendoarea barocă a bisericii încălzește sufletul. După-amiaza, drumul spre Aiguille du Midi este ca o expediție în gheața veșnică. Când soarele apune la ora 17:00, satul se transformă într-o mare de lumini și bucurie après-ski.",
+            "en": "Chamonix wakes up in winter magic; in the morning, snow crunches on the path to the Balmat monument. At noon, the church's baroque splendor warms the soul. In the afternoon, the trip to Aiguille du Midi feels like an expedition into eternal ice. As the sun sets behind the peaks at 5:00 PM, the village turns into a sea of lights and après-ski joy."
+          },
+          "stops": [
+            {
+              "name": "Balmat-Paccard Statue",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis rund um den Sockel der Statue.",
+                "hu": "Vigyázzunk a tükörjégre a szobor talpazata körül.",
+                "ro": "Atenție la polei în jurul soclului statuii.",
+                "en": "Watch out for black ice around the base of the statue."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen zwischen den Außenaktivitäten.",
+                "hu": "Csendes hely a felmelegedéshez a szabadtéri programok között.",
+                "ro": "Un loc liniștit pentru încălzire între activitățile în aer liber.",
+                "en": "A quiet place to warm up between outdoor activities."
+              }
+            },
+            {
+              "name": "Alpine Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Tökéletes, hogy egy órára elmeneküljünk a hideg elől.",
+                "ro": "Perfect pentru a scăpa de frig timp de o oră.",
+                "en": "Perfect for escaping the cold for an hour."
+              }
+            },
+            {
+              "name": "Aiguille du Midi (Base Station)",
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung; oben herrschen extreme Minustemperaturen.",
+                "hu": "Viseljünk termoruházatot; fent extrém mínuszok várhatók.",
+                "ro": "Purtați haine termice; sus sunt temperaturi extrem de scăzute.",
+                "en": "Wear thermal clothing; extreme sub-zero temperatures await at the top."
+              }
+            },
+            {
+              "name": "Mer de Glace (Montenvers Station)",
+              "tip_5lang": {
+                "de": "Die Zahnradbahn bietet im Winter spektakuläre Ausblicke auf schneebedeckte Tannen.",
+                "hu": "A fogaskerekű télen látványos kilátást nyújt a havas fenyvesekre.",
+                "ro": "Trenul cu cremalieră oferă iarna vederi spectaculoase asupra brazilor înzăpeziți.",
+                "en": "The rack railway offers spectacular winter views of snow-covered firs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Tal bereits gegen 16:30 Uhr; planen Sie Fotos früh ein.",
+              "Tragen Sie Spikes an den Schuhen, wenn die Gehwege vereist sind.",
+              "Die meisten Bergbahnen schließen im Winter früher (ca. 16:30 Uhr).",
+              "Nutzen Sie die kostenlosen Pendelbusse, um Kälteperioden beim Gehen zu überbrücken.",
+              "Wollmütze und Handschuhe sind in dieser Höhe auch im Tal Pflicht."
+            ],
+            "hu": [
+              "A nap a völgyben már 16:30 körül eltűnik; tervezzük koránra a fotózást.",
+              "Használjunk csúszásgátlót a cipőn, ha a járdák jegesek.",
+              "A legtöbb felvonó télen korábban zár (kb. 16:30-kor).",
+              "Használjuk az ingyenes buszokat, hogy lerövidítsük a hidegben való gyaloglást.",
+              "A gyapjúsapka és kesztyű ezen a magasságon a völgyben is kötelező."
+            ],
+            "ro": [
+              "Soarele dispare în vale deja în jurul orei 16:30; planificați fotografiile devreme.",
+              "Folosiți crampoane pe încălțăminte dacă trotuarele sunt înghețate.",
+              "Majoritatea telecabinelor se închid mai devreme iarna (aprox. 16:30).",
+              "Folosiți autobuzele gratuite pentru a evita mersul prelungit prin frig.",
+              "Căciula de lână și mănușile sunt obligatorii la această altitudine chiar și în vale."
+            ],
+            "en": [
+              "The sun disappears in the valley as early as 4:30 PM; plan photos early.",
+              "Use shoe spikes if the sidewalks are icy.",
+              "Most cable cars close earlier in winter (around 4:30 PM).",
+              "Use the free shuttle buses to cut down on walking in the cold.",
+              "Woolen hats and gloves are mandatory at this altitude even in the valley."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -500,6 +876,366 @@
           "E-bikes are very helpful for the climbs.",
           "Watch out for hikers on shared paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad erkunden wir die flachen Talwege und malerischen Dörfer. Wir folgen der Arve durch kühle Wälder und genießen die gewaltige Kulisse der Granitnadeln. Ein Abstecher zu den Gletscherausläufern zeigt die Kraft der Natur. Der Tag verbindet sportliche Aktivität mit unvergleichlichen Bergpanoramen.",
+            "hu": "Kerékpárral fedezzük fel a völgy sík útjait és a festői falvakat. Az Arve folyót követjük hűvös erdőkön át, élvezve a gránittűk látványát. Egy kitérő a gleccserek lábához megmutatja a természet erejét. Ez a nap ötvözi a sportot és a páratlan hegyi panorámát.",
+            "ro": "Cu bicicleta explorăm traseele plate din vale și satele pitorești. Urmăm râul Arve prin păduri răcoroase, admirând acele de granit. O abatere spre picioarele ghețarilor dezvăluie forța naturii. Ziua îmbină activitatea sportivă cu panorame montane de neegalat.",
+            "en": "By bike, we explore the flat valley paths and picturesque villages. We follow the Arve through cool forests, enjoying the massive backdrop of granite needles. A detour to the glacier snouts shows the power of nature. The day combines athletic activity with incomparable mountain panoramas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chamonix Zentrum",
+                "hu": "Chamonix központ",
+                "ro": "Centrul Chamonix",
+                "en": "Chamonix Center"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie hier Ihr E-Bike für entspanntes Fahren.",
+                "hu": "Béreljen e-bike-ot a kényelmesebb haladáshoz.",
+                "ro": "Închiriați o bicicletă electrică pentru confort.",
+                "en": "Rent an e-bike here for relaxed riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Praz de Chamonix",
+                "hu": "Les Praz falu",
+                "ro": "Satul Les Praz",
+                "en": "Les Praz Village"
+              },
+              "tip_5lang": {
+                "de": "Charmantes Dorf mit Blick auf die Drus.",
+                "hu": "Bájos falu kilátással a Drus csúcsaira.",
+                "ro": "Sat fermecător cu vedere spre vârfurile Drus.",
+                "en": "Charming village with views of the Drus."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois du Bouchet",
+                "hu": "Bois du Bouchet erdő",
+                "ro": "Pădurea Bois du Bouchet",
+                "en": "Bois du Bouchet Forest"
+              },
+              "tip_5lang": {
+                "de": "Flache Wege entlang des Flusses Arve.",
+                "hu": "Lapos utak az Arve folyó mentén.",
+                "ro": "Trasee plate de-a lungul râului Arve.",
+                "en": "Flat paths along the Arve river."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Brévent (Basis)",
+                "hu": "Le Brévent (alsó állomás)",
+                "ro": "Le Brévent (bază)",
+                "en": "Le Brévent (Base)"
+              },
+              "tip_5lang": {
+                "de": "Steiler Anstieg, nutzen Sie die Motorunterstützung.",
+                "hu": "Meredek emelkedő, használja a rásegítést.",
+                "ro": "Urcare abruptă, folosiți asistența electrică.",
+                "en": "Steep climb, use the electric assistance."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bossons Gletscherblick",
+                "hu": "Les Bossons gleccserkilátó",
+                "ro": "Vedere ghețar Les Bossons",
+                "en": "Les Bossons Glacier View"
+              },
+              "tip_5lang": {
+                "de": "Hier stürzte 1966 ein Flugzeug ab, Reste sind sichtbar.",
+                "hu": "Itt zuhant le egy repülő 1966-ban, roncsok láthatók.",
+                "ro": "Aici s-a prăbușit un avion în 1966, resturile sunt vizibile.",
+                "en": "A plane crashed here in 1966, wreckage is visible."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buvette du Glacier",
+                "tip": "Snack mit direktem Blick auf das Eis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buvette du Glacier",
+                "tip": "Falatozó közvetlen kilátással a jégre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buvette du Glacier",
+                "tip": "Gustare cu vedere directă la gheață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buvette du Glacier",
+                "tip": "Snack with direct view of the ice."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac des Gaillands",
+                "tip": "Ruhiger See ideal für eine Pause.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lac des Gaillands",
+                "tip": "Nyugodt tó, ideális egy pihenőhöz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lac des Gaillands",
+                "tip": "Lac liniștit, ideal pentru o pauză.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac des Gaillands",
+                "tip": "Quiet lake ideal for a break.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Local Market",
+                "tip": "Samstags lokaler Käse und Salami."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Szombatonként helyi sajtok és szalámik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Brânzeturi și salamuri locale sâmbăta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Local cheese and salami on Saturdays."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die markierten VTT-Wege.",
+              "Helme sind in den Alpen dringend empfohlen.",
+              "E-Bikes sind für die Anstiege sehr hilfreich.",
+              "Achten Sie auf Wanderer auf geteilten Wegen."
+            ],
+            "hu": [
+              "Használja a kijelölt VTT (MTB) útvonalakat.",
+              "A bukósisak viselése erősen ajánlott az Alpokban.",
+              "Az e-bike-ok sokat segítenek az emelkedőkön.",
+              "Figyeljen a gyalogosokra a közös utakon."
+            ],
+            "ro": [
+              "Folosiți traseele marcate pentru VTT.",
+              "Căștile sunt recomandate insistent în Alpi.",
+              "Bicicletele electrice sunt utile pentru urcări.",
+              "Atenție la drumeți pe traseele comune."
+            ],
+            "en": [
+              "Use the marked VTT (MTB) paths.",
+              "Helmets are strongly recommended in the Alps.",
+              "E-bikes are very helpful for the climbs.",
+              "Watch out for hikers on shared paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour spritzig durch das Zentrum; Schutzbleche sind heute Gold wert. Mittags im Dorf Les Praz wirkt die alte Architektur im Regen besonders rustikal. Nachmittags bietet der Wald Bois du Bouchet natürlichen Schutz durch sein dichtes Blätterdach. Den Tag beendet man am besten mit einer heißen Dusche nach der kühlen Fahrt entlang der Gletscherblicke.",
+            "hu": "Reggel frissítően indul a túra a központon át; a sárvédők ma aranyat érnek. Délben Les Praz faluban a régi építészet különösen rusztikusnak tűnik az esőben. Délután a Bois du Bouchet erdő sűrű lombkoronája természetes védelmet nyújt. A napot egy forró zuhany zárja a gleccsernéző útvonal hűvös tekerése után.",
+            "ro": "Dimineața, turul începe revigorant prin centru; apărătorile de noroi valorează aur astăzi. La prânz, în satul Les Praz, arhitectura veche pare deosebit de rustică sub ploaie. După-amiaza, pădurea Bois du Bouchet oferă protecție naturală prin coronamentul des. Ziua se încheie cu un duș fierbinte după tura răcoroasă pe lângă ghețari.",
+            "en": "Morning starts with a splash through the center; mudguards are worth their weight in gold today. At noon in Les Praz village, the old architecture looks especially rustic in the rain. In the afternoon, the Bois du Bouchet forest offers natural protection under its dense canopy. End the day with a hot shower after the cool ride along the glacier views."
+          },
+          "stops": [
+            {
+              "name": "Chamonix Center",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Markierungen auf der Straße, da diese extrem rutschig sind.",
+                "hu": "Kerüljük az útburkolati jeleket, mert rendkívül csúszósak.",
+                "ro": "Evitați marcajele rutiere, deoarece sunt extrem de alunecoase.",
+                "en": "Avoid road markings as they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Les Praz Village",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in einem Café hilft, die Kleidung zu trocknen.",
+                "hu": "Egy rövid megálló egy kávézóban segít megszárítani a ruhákat.",
+                "ro": "O scurtă oprire la o cafenea ajută la uscarea hainelor.",
+                "en": "A short stop at a cafe helps dry off your gear."
+              }
+            },
+            {
+              "name": "Bois du Bouchet Forest",
+              "tip_5lang": {
+                "de": "Die Bäume halten den stärksten Regen ab, aber achten Sie auf nasse Wurzeln.",
+                "hu": "A fák felfogják a nagy esőt, de vigyázzunk a vizes gyökerekre.",
+                "ro": "Copacii opresc ploaia torențială, dar atenție la rădăcinile ude.",
+                "en": "The trees block the heaviest rain, but watch out for wet roots."
+              }
+            },
+            {
+              "name": "Le Brévent (Base)",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft eingeschränkt; genießen Sie die mystische Ruhe.",
+                "hu": "Esőben a kilátás korlátozott; élvezzük a misztikus nyugalmat.",
+                "ro": "Pe ploaie vizibilitatea este limitată; bucurați-vă de liniștea mistică.",
+                "en": "Visibility is often limited in rain; enjoy the mystical silence."
+              }
+            },
+            {
+              "name": "Les Bossons Glacier View",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Asphalt beim Abstieg.",
+                "hu": "Fékezzünk időben a vizes aszfalton az ereszkedésnél.",
+                "ro": "Frânați din timp pe asfaltul umed în timpul coborârii.",
+                "en": "Brake early on the wet asphalt during the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Wegen.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Scheibenbremsen sind bei Nässe wesentlich zuverlässiger als Felgenbremsen.",
+              "Wischen Sie die Kette nach der Fahrt trocken, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "Csökkentsük kicsit a gumi nyomását a jobb tapadásért a vizes utakon.",
+              "Kerüljük a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljünk neon sárga esőkabátot a jobb láthatóságért a szürke időben.",
+              "A tárcsafékek vizes időben sokkal megbízhatóbbak, mint a felnifékek.",
+              "Töröljük szárazra a láncot a túra után a rozsdásodás megelőzésére."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drumuri ude.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați o jachetă de ploaie neon pentru o vizibilitate mai bună pe vreme gri.",
+              "Frânele pe disc sunt mult mai fiabile pe ploaie decât cele pe jantă.",
+              "Ștergeți lanțul după tură pentru a preveni rugina."
+            ],
+            "en": [
+              "Reduce tire pressure slightly for better grip on wet paths.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear a neon rain jacket for better visibility in grey weather.",
+              "Disc brakes are much more reliable than rim brakes in wet conditions.",
+              "Wipe the chain dry after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour startet morgens auf geräumten Wegen im Tal; die Luft ist kristallklar. Mittags im Dorf Les Praz glitzern die Dächer unter einer dicken Schneeschicht. Nachmittags bietet die Fahrt durch den verschneiten Bois du Bouchet ein echtes Märchen-Feeling. Bevor es um 17:00 Uhr dunkel wird, sollte man den Rückweg antreten, um der nächtlichen Eisbildung auf der Straße zu entgehen.",
+            "hu": "A téli kerékpártúra reggel indul a völgy letakarított útjain; a levegő kristálytiszta. Délben Les Praz faluban a tetők csillognak a vastag hó alatt. Délután a havas Bois du Bouchet erdőn át vezető út valódi tündérmese. Mielőtt 17:00-kor besötétedik, érdemes elindulni vissza, hogy elkerüljük az esti jegesedést az utakon.",
+            "ro": "Turul cu bicicleta iarna începe dimineața pe drumurile curățate din vale; aerul este de cristal. La prânz, în satul Les Praz, acoperișurile sclipesc sub un strat gros de zăpadă. După-amiaza, drumul prin Bois du Bouchet înzăpezit oferă o senzație de basm. Înainte de a se întuneca la 17:00, ar trebui să porniți înapoi pentru a evita gheața nocturnă.",
+            "en": "The winter bike tour starts in the morning on cleared paths in the valley; the air is crystal clear. At noon in Les Praz, roofs glisten under a thick layer of snow. In the afternoon, riding through the snowy Bois du Bouchet offers a true fairy-tale feeling. Before it gets dark at 5:00 PM, you should head back to avoid the night-time ice forming on the roads."
+          },
+          "stops": [
+            {
+              "name": "Chamonix Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalz; es kann die Mechanik Ihres Fahrrads angreifen.",
+                "hu": "Vigyázzunk az útszóró sóra; károsíthatja a kerékpár mechanikáját.",
+                "ro": "Atenție la sarea de pe drum; poate ataca mecanica bicicletei.",
+                "en": "Watch out for road salt; it can corrode your bike's mechanics."
+              }
+            },
+            {
+              "name": "Les Praz Village",
+              "tip_5lang": {
+                "de": "Ein Fatbike ist hier ideal, um auch auf weicherem Schnee voranzukommen.",
+                "hu": "Egy Fatbike ideális itt, hogy a puhább havon is haladhassunk.",
+                "ro": "Un fatbike este ideal aici pentru a înainta pe zăpadă moale.",
+                "en": "A fatbike is ideal here for moving through softer snow."
+              }
+            },
+            {
+              "name": "Bois du Bouchet Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den festgetretenen Winterwanderwegen.",
+                "hu": "Maradjunk a letaposott téli túraútvonalakon.",
+                "ro": "Rămâneți pe traseele de iarnă bătătorite.",
+                "en": "Stay on the well-trodden winter hiking trails."
+              }
+            },
+            {
+              "name": "Le Brévent (Base)",
+              "tip_5lang": {
+                "de": "Hier kreuzen Skifahrer den Weg; erhöhte Aufmerksamkeit ist geboten.",
+                "hu": "Itt síelők keresztezhetik az utat; fokozott figyelem szükséges.",
+                "ro": "Schiorii traversează drumul aici; este necesară o atenție sporită.",
+                "en": "Skiers cross the path here; increased awareness is required."
+              }
+            },
+            {
+              "name": "Les Bossons Glacier View",
+              "tip_5lang": {
+                "de": "Der Blick auf den blauen Gletscher ist im Winter besonders intensiv.",
+                "hu": "A kék gleccser látványa télen különösen intenzív.",
+                "ro": "Vederea ghețarului albastru este deosebit de intensă iarna.",
+                "en": "The view of the blue glacier is especially intense in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie im Winter beheizbare Handschuhe, um das Bremsgefühl zu erhalten.",
+              "Vermeiden Sie das Radfahren nach Sonnenuntergang (17:00), wenn die Temperaturen stürzen.",
+              "Die Batterieleistung von E-Bikes sinkt bei Kälte drastisch; planen Sie Reserven ein.",
+              "Tragen Sie eine Skibrille gegen den kalten Fahrtwind und Schneefall.",
+              "Reinigen Sie Ihr Rad sofort nach der Tour von Salzrückständen."
+            ],
+            "hu": [
+              "Használjunk fűthető kesztyűt télen a fékezési érzet megőrzéséhez.",
+              "Kerüljük a bringázást naplemente (17:00) után, amikor a hőmérséklet bezuhan.",
+              "Az e-bike-ok akku teljesítménye drasztikusan csökken hidegben; tervezzünk tartalékkal.",
+              "Viseljünk síszemüveget a hideg menetszél és a hóesés ellen.",
+              "Takarítsuk le a bringát a sómaradványoktól közvetlenül a túra után."
+            ],
+            "ro": [
+              "Folosiți mănuși încălzite iarna pentru a păstra sensibilitatea la frânare.",
+              "Evitați ciclismul după apus (17:00), când temperaturile scad brusc.",
+              "Performanța bateriei e-bike-urilor scade drastic la frig; planificați rezerve.",
+              "Purtați ochelari de schi împotriva vântului rece și a ninsorii.",
+              "Curățați bicicleta de reziduurile de sare imediat după tură."
+            ],
+            "en": [
+              "Use heated gloves in winter to maintain braking feel.",
+              "Avoid cycling after sunset (5:00 PM) when temperatures plummet.",
+              "E-bike battery performance drops drastically in the cold; plan for reserves.",
+              "Wear ski goggles against the cold wind and snowfall.",
+              "Clean your bike of salt residues immediately after the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -739,6 +1475,366 @@
           "The valley roads are well-developed.",
           "Pay attention to the departure times of mountain railways."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir mühelos die entlegeneren Schätze des Tals. Wir kombinieren historische Bergbahnen mit spektakulären Aussichtspunkten. Der Tag führt uns vom lebhaften Zentrum zu den ruhigen Seen der Umgebung. Die Flexibilität erlaubt es, die gewaltigen Dimensionen des Massivs aus verschiedenen Winkeln zu erleben.",
+            "hu": "Autóval könnyedén elérjük a völgy távolabbi kincseit is. A történelmi hegyi vasutakat kombináljuk látványos kilátópontokkal. A nap a nyüzsgő központtól a környék nyugodt tavaihoz vezet. A rugalmasság lehetővé teszi, hogy a masszívum hatalmas méreteit több szögből is megtapasztaljuk.",
+            "ro": "Cu mașina ajungem ușor la comorile mai îndepărtate ale văii. Combinăm trenurile montane istorice cu puncte de belvedere spectaculoase. Ziua ne poartă de la centrul plin de viață la lacurile liniștite din jur. Flexibilitatea ne permite să experimentăm dimensiunile uriașe ale masivului din unghiuri diferite.",
+            "en": "By car, we effortlessly reach the more distant treasures of the valley. We combine historic mountain railways with spectacular viewpoints. The day leads us from the lively center to the quiet lakes of the surroundings. Flexibility allows us to experience the massive dimensions of the massif from different angles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue Balmat-Paccard",
+                "hu": "Balmat-Paccard emlékmű",
+                "ro": "Statuia Balmat-Paccard",
+                "en": "Balmat-Paccard Statue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Place du Mont-Blanc.",
+                "hu": "Parkoljon a Place du Mont-Blanc parkolóházban.",
+                "ro": "Parcați în parcarea Place du Mont-Blanc.",
+                "en": "Park in the Place du Mont-Blanc parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Mer de Glace (Zahnradbahn)",
+                "hu": "Mer de Glace (fogaskerekű)",
+                "ro": "Mer de Glace (tren cu cremalieră)",
+                "en": "Mer de Glace (Rack Railway)"
+              },
+              "tip_5lang": {
+                "de": "Die rote Bahn ist eine Ikone des Tals.",
+                "hu": "A piros kisvonat a völgy egyik jelképe.",
+                "ro": "Trenul roșu este un simbol al văii.",
+                "en": "The red train is an icon of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Houches (Tramway-Start)",
+                "hu": "Les Houches (villamos start)",
+                "ro": "Les Houches (start tramvai)",
+                "en": "Les Houches (Tramway Start)"
+              },
+              "tip_5lang": {
+                "de": "Die höchste Zahnradbahn Frankreichs.",
+                "hu": "Franciaország legmagasabb fogaskerekű vasútja.",
+                "ro": "Cel mai înalt tren cu cremalieră din Franța.",
+                "en": "The highest rack railway in France."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Brévent (Aussichtspunkt)",
+                "hu": "Le Brévent kilátó",
+                "ro": "Belvedere Le Brévent",
+                "en": "Le Brévent Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bester Frontalblick auf das Mont-Blanc-Massiv.",
+                "hu": "A legjobb szemből nyíló kilátás a Mont-Blanc-ra.",
+                "ro": "Cea mai bună vedere frontală spre masivul Mont-Blanc.",
+                "en": "Best frontal view of the Mont Blanc massif."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Gaillands",
+                "hu": "Gaillands-tó",
+                "ro": "Lacul Gaillands",
+                "en": "Lac des Gaillands"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag entspannt zu beenden.",
+                "hu": "Kellemes hely a nap nyugodt lezárásához.",
+                "ro": "Un loc frumos pentru a încheia ziua relaxat.",
+                "en": "A beautiful place to end the day relaxed."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Panoramique",
+                "tip": "Essen auf 1913m Höhe in Montenvers."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Panoramique",
+                "tip": "Étkezés 1913 méter magasan Montenvers-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Panoramique",
+                "tip": "Masă la 1913m altitudine în Montenvers."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Panoramique",
+                "tip": "Dining at 1913m altitude in Montenvers."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Les Chavants",
+                "tip": "Ruhiger Picknickplatz in Les Houches.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Chavants",
+                "tip": "Nyugodt piknikezőhely Les Houches-ban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Chavants",
+                "tip": "Loc de picnic liniștit în Les Houches.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Chavants",
+                "tip": "Quiet picnic spot in Les Houches.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Payot Librairie",
+                "tip": "Wunderschöne Alpinismus-Bücher."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Payot könyvesbolt",
+                "tip": "Gyönyörű hegymászó könyvek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Librăria Payot",
+                "tip": "Cărți superbe despre alpinism."
+              }
+            ],
+            "en": [
+              {
+                "name": "Payot Bookstore",
+                "tip": "Beautiful mountaineering books."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze sind im Zentrum knapp und teuer.",
+              "Nutzen Sie die Park-and-Ride-Plätze am Stadtrand.",
+              "Die Straßen im Tal sind gut ausgebaut.",
+              "Achten Sie auf die Abfahrtszeiten der Bergbahnen."
+            ],
+            "hu": [
+              "A parkolóhelyek a központban szűkösek és drágák.",
+              "Használja a város szélén található P+R parkolókat.",
+              "A völgy útjai jól kiépítettek.",
+              "Ügyeljen a hegyi vasutak indulási idejére."
+            ],
+            "ro": [
+              "Locurile de parcare în centru sunt puține și scumpe.",
+              "Folosiți parcările P+R de la marginea orașului.",
+              "Drumurile din vale sunt bine întreținute.",
+              "Atenție la orele de plecare ale trenurilor montane."
+            ],
+            "en": [
+              "Parking in the center is scarce and expensive.",
+              "Use the P+R parking lots on the outskirts of town.",
+              "The valley roads are well-developed.",
+              "Pay attention to the departure times of mountain railways."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem im Zentrum; das Auto bleibt unsere trockene Basis. Mittags führt die Fahrt zur Mer de Glace, wo die Wolken tief in den Schluchten hängen. Nachmittags in Les Houches trotzen wir dem Regen aus der Wärme des Wagens. Den Tag beschließen wir am Lac des Gaillands, wo die Regentropfen Kreise auf dem Wasser ziehen, während wir den Ausblick genießen.",
+            "hu": "Reggel kényelmesen parkolunk a központban; az autó marad a száraz bázisunk. Délben a Mer de Glace-hoz autózunk, ahol a felhők mélyen ülnek a szurdokokban. Délután Les Houches-ban a kocsi melegéből dacolunk az esővel. A napot a Lac des Gaillands-nál zárjuk, ahol az esőcseppek köröket rajzolnak a vízre, miközben mi élvezzük a kilátást.",
+            "ro": "Dimineața parcăm confortabil în centru; mașina rămâne baza noastră uscată. La prânz, drumul duce spre Mer de Glace, unde norii stau jos în defilee. După-amiaza în Les Houches, sfidăm ploaia din căldura mașinii. Încheiem ziua la Lac des Gaillands, unde picăturile de ploaie desenează cercuri pe apă în timp ce admirăm priveliștea.",
+            "en": "Morning starts with easy parking in the center; the car remains our dry base. At noon, the drive leads to Mer de Glace, where clouds hang low in the ravines. In the afternoon at Les Houches, we brave the rain from the warmth of the car. We conclude the day at Lac des Gaillands, where raindrops draw circles on the water while we enjoy the view."
+          },
+          "stops": [
+            {
+              "name": "Balmat-Paccard Statue",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Saint-Michel, um nah am Denkmal und im Trockenen zu sein.",
+                "hu": "Parkoljunk a Saint-Michel parkolóházban, hogy közel legyünk az emlékműhöz és szárazon maradjunk.",
+                "ro": "Parcați în parcarea Saint-Michel pentru a fi aproape de monument și la adăpost.",
+                "en": "Park in the Saint-Michel parking garage to be close to the monument and stay dry."
+              }
+            },
+            {
+              "name": "Mer de Glace (Rack Railway)",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen überdachten Wartebereich.",
+                "hu": "A vasútállomás fedett váróteremmel rendelkezik.",
+                "ro": "Gara are o zonă de așteptare acoperită.",
+                "en": "The railway station has a covered waiting area."
+              }
+            },
+            {
+              "name": "Les Houches (Tramway Start)",
+              "tip_5lang": {
+                "de": "Die Fahrt mit der Tramway du Mont-Blanc ist auch bei Regen ein gemütliches Erlebnis.",
+                "hu": "A Tramway du Mont-Blanc utazás esőben is kellemes élmény.",
+                "ro": "Călătoria cu Tramway du Mont-Blanc este o experiență plăcută chiar și pe ploaie.",
+                "en": "The ride on the Tramway du Mont-Blanc is a cozy experience even in the rain."
+              }
+            },
+            {
+              "name": "Le Brévent Viewpoint",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz an der Talstation; Schirme sind obligatorisch.",
+                "hu": "Használjuk a nagy parkolót az alsó állomásnál; az esernyő kötelező.",
+                "ro": "Folosiți parcarea mare de la stația de bază; umbrelele sunt obligatorii.",
+                "en": "Use the large parking lot at the base station; umbrellas are mandatory."
+              }
+            },
+            {
+              "name": "Lac des Gaillands",
+              "tip_5lang": {
+                "de": "Man kann den See direkt vom Parkplatz aus bewundern, ohne nass zu werden.",
+                "hu": "A tavat közvetlenül a parkolóból is megcsodálhatjuk anélkül, hogy eláznánk.",
+                "ro": "Puteți admira lacul direct din parcare fără a vă uda.",
+                "en": "You can admire the lake directly from the parking lot without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei starkem Regen das Abblendlicht ein, auch tagsüber.",
+              "Achten Sie auf Aquaplaning auf der Nationalstraße N205.",
+              "Die Parkhäuser im Zentrum (Entrée de Ville) sind die beste Option bei Dauerregen.",
+              "Halten Sie Fensterreiniger bereit; der aufgewirbelte Schmutz behindert die Sicht.",
+              "Einige Bergstraßen können bei extremen Regenfällen wegen Murengefahr gesperrt sein."
+            ],
+            "hu": [
+              "Erős esőben kapcsoljuk be a tompított fényszórót nappal is.",
+              "Vigyázzunk az aquaplaning jelenségre az N205-ös nemzeti úton.",
+              "A központi parkolóházak (Entrée de Ville) a legjobb opciók tartós esőben.",
+              "Legyen nálunk ablakmosó folyadék; a felvert kosz rontja a látási viszonyokat.",
+              "Néhány hegyi utat lezárhatnak sárátfolyás veszélye miatt extrém esőben."
+            ],
+            "ro": [
+              "Porniți faza scurtă în caz de ploaie torențială, chiar și ziua.",
+              "Atenție la acvaplanare pe drumul național N205.",
+              "Parcările subterane din centru (Entrée de Ville) sunt cea mai bună opțiune pe ploaie.",
+              "Aveți la îndemână lichid de parbriz; murdăria ridicată reduce vizibilitatea.",
+              "Unele drumuri montane pot fi închise din cauza riscului de alunecări de teren."
+            ],
+            "en": [
+              "Turn on dipped headlights during heavy rain, even during the day.",
+              "Watch out for aquaplaning on the N205 national road.",
+              "Central parking garages (Entrée de Ville) are the best option during persistent rain.",
+              "Keep windshield washer fluid ready; kicked-up dirt impairs visibility.",
+              "Some mountain roads may be closed due to mudslide risk during extreme rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens kratzen wir das Eis von den Scheiben, bevor wir ins weiße Chamonix gleiten. Mittags bringt uns das Auto zum Montenvers-Bahnhof; die Straßen sind perfekt geräumt. Nachmittags in Les Houches genießen wir die Wintersonne durch die Panoramascheibe. Den Tag lassen wir am Lac des Gaillands ausklingen, der im Winter oft komplett zugefroren ist und eine Stille wie kaum ein anderer Ort bietet.",
+            "hu": "Reggel lekaparjuk a jeget az üvegről, mielőtt a fehér Chamonix-ba siklanánk. Délben az autó a Montenvers állomáshoz visz; az utak tökéletesen le vannak takarítva. Délután Les Houches-ban a panorámaablakon át élvezzük a téli napsütést. A napot a Lac des Gaillands-nál zárjuk, amely télen gyakran teljesen befagy, és páratlan csendet áraszt.",
+            "ro": "Dimineața curățăm gheața de pe parbriz înainte de a aluneca în Chamonix-ul alb. La prânz, mașina ne duce la gara Montenvers; drumurile sunt perfect deszăpezite. După-amiaza în Les Houches ne bucurăm de soarele de iarnă prin geamul panoramic. Încheiem ziua la Lac des Gaillands, care iarna este adesea complet înghețat și oferă o liniște rară.",
+            "en": "Morning starts with scraping ice off the windshield before gliding into white Chamonix. At noon, the car takes us to Montenvers station; roads are perfectly cleared. In the afternoon at Les Houches, we enjoy the winter sun through the panoramic window. We end the day at Lac des Gaillands, which is often completely frozen in winter, offering a unique silence."
+          },
+          "stops": [
+            {
+              "name": "Balmat-Paccard Statue",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage, um das Auto vor Neuschnee zu schützen.",
+                "hu": "Használjuk a mélygarázst, hogy megvédjük az autót a friss hótól.",
+                "ro": "Folosiți parcarea subterană pentru a proteja mașina de zăpada proaspătă.",
+                "en": "Use the underground parking to protect the car from fresh snowfall."
+              }
+            },
+            {
+              "name": "Mer de Glace (Rack Railway)",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Bahnhof werden regelmäßig geräumt.",
+                "hu": "Az állomásnál lévő parkolókat rendszeresen takarítják.",
+                "ro": "Parcările de la gară sunt curățate regulat.",
+                "en": "The parking lots at the station are regularly cleared of snow."
+              }
+            },
+            {
+              "name": "Les Houches (Tramway Start)",
+              "tip_5lang": {
+                "de": "Winterreifen sind hier absolut zwingend erforderlich.",
+                "hu": "A téli gumi itt abszolút kötelező.",
+                "ro": "Anvelopele de iarnă sunt absolut obligatorii aici.",
+                "en": "Winter tires are absolutely mandatory here."
+              }
+            },
+            {
+              "name": "Le Brévent Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Skifahrern, die in der Nähe der Straßen queren.",
+                "hu": "Vigyázzunk az utakat keresztező síelőkre a környéken.",
+                "ro": "Atenție la schiorii care traversează în apropierea drumurilor.",
+                "en": "Watch out for skiers crossing near the roads."
+              }
+            },
+            {
+              "name": "Lac des Gaillands",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz direkt am See.",
+                "hu": "Vigyázzunk a jeges foltokra a közvetlenül a tó melletti parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcarea de lângă lac.",
+                "en": "Watch out for icy patches in the parking lot right by the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung (Ketten) muss im Fahrzeug mitgeführt werden (Loi Montagne).",
+              "Die Schattenseiten des Tals frieren bereits ab 15:00 Uhr wieder ein.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage (bis -20°C).",
+              "Dieselfahrzeuge sollten Winterdiesel tanken, um ein Versulzen zu vermeiden.",
+              "Lassen Sie die Handbremse beim Parken über Nacht nicht angezogen (Gefahr des Festfrierens)."
+            ],
+            "hu": [
+              "A téli felszerelést (hólánc) kötelező az autóban tartani (Loi Montagne).",
+              "A völgy árnyékos oldalai már 15:00-tól újra fagyni kezdenek.",
+              "Ellenőrizzük a fagyállót az ablakmosóban (-20°C-ig).",
+              "Dízelautóknál tankoljunk téli dízelt a dermedés megelőzésére.",
+              "Ne húzzuk be a kéziféket az éjszakai parkolásnál (befagyhat)."
+            ],
+            "ro": [
+              "Echipamentul de iarnă (lanțuri) trebuie purtat în vehicul (Loi Montagne).",
+              "Zonele umbrite ale văii încep să înghețe din nou de la ora 15:00.",
+              "Verificați antigelul din lichidul de parbriz (până la -20°C).",
+              "Vehiculele diesel ar trebui să folosească motorină de iarnă.",
+              "Nu lăsați frâna de mână trasă la parcarea peste noapte (risc de îngheț)."
+            ],
+            "en": [
+              "Winter equipment (chains) must be carried in the vehicle (Loi Montagne).",
+              "Shaded parts of the valley start freezing again as early as 3:00 PM.",
+              "Check that your windshield washer fluid is rated for at least -20°C.",
+              "Diesel vehicles should fill up with winter diesel to prevent gelling.",
+              "Do not leave the handbrake engaged when parking overnight (risk of freezing)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -978,34 +2074,367 @@
           "Trains run hourly through the entire valley.",
           "In high season, buses can be very crowded."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank des exzellenten öffentlichen Verkehrsnetzes erleben wir die Highlights stressfrei. Der Mont-Blanc Express und die lokalen Busse bringen uns zu den berühmtesten Liften und Aussichtspunkten. Wir tauchen tief in die alpine Welt ein, ohne uns um Parkplätze sorgen zu müssen. Ein Tag voller Gipfelerlebnisse und bequemer Mobilität.",
+            "hu": "A kiváló tömegközlekedési hálózatnak köszönhetően stresszmentesen látogatjuk meg a főbb látnivalókat. A Mont-Blanc Express és a helyi buszok elvisznek a leghíresebb felvonókhoz és kilátókhoz. Mélyen elmerülünk az alpesi világban anélkül, hogy parkolás miatt aggódnánk. Csúcsélményekkel teli nap kényelmesen.",
+            "ro": "Datorită rețelei excelente de transport public, vizităm punctele de atracție fără stres. Mont-Blanc Express și autobuzele locale ne duc la cele mai faimoase telecabine și puncte de belvedere. Ne cufundăm în lumea alpină fără grija parcării. O zi plină de experiențe la înălțime și mobilitate confortabilă.",
+            "en": "Thanks to the excellent public transport network, we experience the highlights stress-free. The Mont Blanc Express and local buses take us to the most famous lifts and viewpoints. We dive deep into the alpine world without having to worry about parking. A day full of summit experiences and convenient mobility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chamonix Centre",
+                "hu": "Chamonix központ",
+                "ro": "Centrul Chamonix",
+                "en": "Chamonix Centre"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie Ihre Carte d'Hôte für kostenlose Fahrten.",
+                "hu": "Kérje el a Carte d'Hôte kártyát az ingyen utazáshoz.",
+                "ro": "Luați cardul Carte d'Hôte pentru transport gratuit.",
+                "en": "Get your Carte d'Hôte for free transit."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille du Midi",
+                "hu": "Aiguille du Midi",
+                "ro": "Aiguille du Midi",
+                "en": "Aiguille du Midi"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt, den man per Seilbahn erreicht.",
+                "hu": "A legmagasabb pont, ami felvonóval elérhető.",
+                "ro": "Cel mai înalt punct accesibil cu telecabina.",
+                "en": "The highest point accessible by cable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mer de Glace",
+                "hu": "Mer de Glace",
+                "ro": "Mer de Glace",
+                "en": "Mer de Glace"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit dem Montenvers-Zug ab Bahnhof Chamonix.",
+                "hu": "A Montenvers-vonattal érhető el Chamonix állomásról.",
+                "ro": "Accesibil cu trenul Montenvers din gara Chamonix.",
+                "en": "Accessible by the Montenvers train from Chamonix station."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Blanc (Via Flégère)",
+                "hu": "Lac Blanc (Flégère-en át)",
+                "ro": "Lac Blanc (prin Flégère)",
+                "en": "Lac Blanc (Via Flégère)"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus nach Les Praz zur Flégère-Bahn.",
+                "hu": "Menjen busszal Les Praz-ba a Flégère-felvonóhoz.",
+                "ro": "Luați autobuzul spre Les Praz pentru telecabina Flégère.",
+                "en": "Take the bus to Les Praz for the Flégère lift."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Saint-Michel",
+                "hu": "Szent Mihály templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang im spirituellen Zentrum.",
+                "hu": "Csendes lezárás a spirituális központban.",
+                "ro": "Un final liniștit în centrul spiritual.",
+                "en": "A quiet end in the spiritual center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chambre Neuf",
+                "tip": "Beliebtester Après-Ski Spot direkt am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chambre Neuf",
+                "tip": "Népszerű après-ski hely közvetlenül az állomásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chambre Neuf",
+                "tip": "Loc popular de après-ski chiar lângă gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chambre Neuf",
+                "tip": "Popular après-ski spot right by the station."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vallon de Bérard",
+                "tip": "Unberührtes Naturschutzgebiet per Zug.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vallon de Bérard",
+                "tip": "Érintetlen természetvédelmi terület vonattal.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vallon de Bérard",
+                "tip": "Rezervație naturală intactă accesibilă cu trenul.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vallon de Bérard",
+                "tip": "Pristine nature reserve accessible by train.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "O'Shop",
+                "tip": "Lokale Souvenirs und Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "O'Shop",
+                "tip": "Helyi szuvenírek és különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "O'Shop",
+                "tip": "Suveniruri și specialități locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "O'Shop",
+                "tip": "Local souvenirs and specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Carte d'Hôte erhalten Sie bei Ihrem Gastgeber.",
+              "Laden Sie die 'Chamonix'-App für Live-Busdaten.",
+              "Züge fahren stündlich durch das gesamte Tal.",
+              "In der Hochsaison können Busse sehr voll sein."
+            ],
+            "hu": [
+              "A Carte d'Hôte kártyát a szállásadójától kapja meg.",
+              "Töltse le a 'Chamonix' appot az élő buszadatokhoz.",
+              "A vonatok óránként járnak az egész völgyben.",
+              "Főszezonban a buszok nagyon zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Obțineți cardul Carte d'Hôte de la gazdă.",
+              "Descărcați aplicația 'Chamonix' pentru date live despre autobuze.",
+              "Trenurile circulă la fiecare oră prin întreaga vale.",
+              "În plin sezon, autobuzele pot fi foarte aglomerate."
+            ],
+            "en": [
+              "Get your Carte d'Hôte from your accommodation provider.",
+              "Download the 'Chamonix' app for live bus data.",
+              "Trains run hourly through the entire valley.",
+              "In high season, buses can be very crowded."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir den 'Chamonix Bus', um trocken ins Zentrum zu gelangen. Mittags bringt uns die Seilbahn zur Aiguille du Midi; die Kabine bietet Schutz vor den Elementen. Nachmittags fährt uns der Zug zur Mer de Glace durch die nebligen Tannen. Den Tag beenden wir mit der kurzen Busfahrt zurück zur Kirche Saint-Michel, während draußen der Regen das Tal reinigt.",
+            "hu": "Reggel a 'Chamonix Bus'-szal érkezünk szárazon a központba. Délben a felvonó repít az Aiguille du Midi-re; a kabin védelmet nyújt az elemek elől. Délután a vonat visz a Mer de Glace-hoz a ködös fenyveseken át. A napot egy rövid buszúttal zárjuk a Saint-Michel templomhoz, miközben kint az eső tisztára mossa a völgyet.",
+            "ro": "Dimineața folosim „Chamonix Bus” pentru a ajunge uscați în centru. La prânz, telecabina ne duce la Aiguille du Midi; cabina oferă protecție împotriva elementelor. După-amiaza, trenul ne duce la Mer de Glace prin brazii încețoșați. Încheiem ziua cu o scurtă călătorie cu autobuzul înapoi la Biserica Saint-Michel, în timp ce ploaia curăță valea.",
+            "en": "Morning finds us taking the 'Chamonix Bus' to reach the center dry. At noon, the cable car whisks us to Aiguille du Midi; the cabin provides shelter from the elements. In the afternoon, the train takes us to Mer de Glace through the misty pines. We end the day with a short bus ride back to Saint-Michel Church, as the rain cleanses the valley outside."
+          },
+          "stops": [
+            {
+              "name": "Chamonix Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bushaltestellen am Place du Mont-Blanc.",
+                "hu": "Használjuk a Place du Mont-Blanc fedett buszmegállóit.",
+                "ro": "Folosiți stațiile de autobuz acoperite din Place du Mont-Blanc.",
+                "en": "Use the covered bus stops at Place du Mont-Blanc."
+              }
+            },
+            {
+              "name": "Aiguille du Midi",
+              "tip_5lang": {
+                "de": "Die Wartehalle an der Talstation ist beheizt und trocken.",
+                "hu": "Az alsó állomás várócsarnoka fűtött és száraz.",
+                "ro": "Sala de așteptare de la stația de bază este încălzită și uscată.",
+                "en": "The waiting hall at the base station is heated and dry."
+              }
+            },
+            {
+              "name": "Mer de Glace",
+              "tip_5lang": {
+                "de": "Der Panoramawagen des Zuges bietet auch bei Regen exzellente Fotosicht.",
+                "hu": "A vonat panorámakocsija esőben is kiváló fotózási lehetőséget nyújt.",
+                "ro": "Vagonul panoramic al trenului oferă o vizibilitate excelentă pentru poze chiar și pe ploaie.",
+                "en": "The train's panoramic car offers excellent photo views even in the rain."
+              }
+            },
+            {
+              "name": "Lac Blanc (Via Flégère)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Wanderung zum See nicht zu empfehlen; bleiben Sie an der Flégère-Station.",
+                "hu": "Erős esőben a túra a tóhoz nem ajánlott; maradjunk a Flégère állomásnál.",
+                "ro": "În caz de ploaie torențială, drumeția la lac nu este recomandată; rămâneți la stația Flégère.",
+                "en": "In heavy rain, the hike to the lake is not recommended; stay at the Flégère station."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Chamonix Centre' ist nur 2 Minuten entfernt.",
+                "hu": "A 'Chamonix Centre' buszmegálló mindössze 2 percre van.",
+                "ro": "Stația de autobuz „Chamonix Centre” este la doar 2 minute distanță.",
+                "en": "The 'Chamonix Centre' bus stop is only 2 minutes away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mit der 'Carte d'Hôte' sind Busse und Züge im Tal kostenlos.",
+              "Laden Sie die 'Chamonix Mobile' App für Echtzeit-Abfahrten bei Regen herunter.",
+              "In der Hochsaison können Busse bei Regen sehr voll sein; planen Sie Pufferzeit ein.",
+              "Der 'Mulet' Elektro-Bus bedient das Zentrum im 10-Minuten-Takt (überdacht).",
+              "Züge (Mont Blanc Express) verkehren zuverlässiger als Busse bei extremem Wetter."
+            ],
+            "hu": [
+              "A 'Carte d'Hôte' kártyával a buszok és vonatok ingyenesek a völgyben.",
+              "Töltsük le a 'Chamonix Mobile' appot a valós idejű indulásokhoz esőben.",
+              "Főszezonban a buszok esőben nagyon zsúfoltak lehetnek; számoljunk rá időt.",
+              "A 'Mulet' elektromos busz 10 percenként jár a központban (fedett).",
+              "A vonatok (Mont Blanc Express) megbízhatóbbak a buszoknál extrém időjárásban."
+            ],
+            "ro": [
+              "Cu „Carte d'Hôte”, autobuzele și trenurile din vale sunt gratuite.",
+              "Descărcați aplicația „Chamonix Mobile” pentru plecări în timp real pe ploaie.",
+              "În plin sezon, autobuzele pot fi foarte aglomerate pe ploaie; planificați timp suplimentar.",
+              "Microbuzul electric „Mulet” deservește centrul la fiecare 10 minute.",
+              "Trenurile (Mont Blanc Express) circulă mai fiabil decât autobuzele pe vreme extremă."
+            ],
+            "en": [
+              "With the 'Carte d'Hôte', buses and trains in the valley are free.",
+              "Download the 'Chamonix Mobile' app for real-time departures during rain.",
+              "In high season, buses can be very crowded during rain; allow extra time.",
+              "The 'Mulet' electric bus serves the center every 10 minutes (covered).",
+              "Trains (Mont Blanc Express) run more reliably than buses in extreme weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens gleitet der Mont Blanc Express durch tief verschneite Landschaften ins Zentrum. Mittags bringt uns die Seilbahn in die eisige Welt der Aiguille du Midi; die Aussicht ist im Winter unschlagbar klar. Nachmittags dampft der Zug hoch zur Mer de Glace. Den Tag schließen wir um 17:00 Uhr ab, wenn die Lichter des Tals unter uns angehen und wir gemütlich mit dem Bus zurückfahren.",
+            "hu": "Reggel a Mont Blanc Express siklik át a mélyen havas tájon a központba. Délben a felvonó visz fel az Aiguille du Midi jeges világába; a kilátás télen verhetetlenül tiszta. Délután a vonat zakatol fel a Mer de Glace-hoz. A napot 17:00-kor zárjuk, amikor a völgy fényei kigyúlnak alattunk, mi pedig kényelmesen buszozunk vissza.",
+            "ro": "Dimineața, Mont Blanc Express alunecă prin peisaje înzăpezite spre centru. La prânz, telecabina ne duce în lumea înghețată de pe Aiguille du Midi; vederea este incredibil de clară iarna. După-amiaza, trenul urcă spre Mer de Glace. Încheiem ziua la 17:00, când luminile văii se aprind sub noi și ne întoarcem confortabil cu autobuzul.",
+            "en": "Morning sees the Mont Blanc Express gliding through deep snowy landscapes into the center. At noon, the cable car takes us into the icy world of Aiguille du Midi; the view is unbeatably clear in winter. In the afternoon, the train steams up to Mer de Glace. We finish the day at 5:00 PM as the valley lights flicker on below us, and we ride back comfortably by bus."
+          },
+          "stops": [
+            {
+              "name": "Chamonix Centre",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Bahnsteige am Bahnhof Chamonix-Mont-Blanc.",
+                "hu": "Vigyázzunk a csúszós peronokra a Chamonix-Mont-Blanc állomáson.",
+                "ro": "Atenție la peronul alunecos din gara Chamonix-Mont-Blanc.",
+                "en": "Watch out for slippery platforms at the Chamonix-Mont-Blanc station."
+              }
+            },
+            {
+              "name": "Aiguille du Midi",
+              "tip_5lang": {
+                "de": "Die Seilbahnkabine ist nicht beheizt; bleiben Sie dick eingepackt.",
+                "hu": "A felvonókabin nem fűtött; maradjunk jól felöltözve.",
+                "ro": "Cabina telecabinei nu este încălzită; rămâneți bine îmbrăcați.",
+                "en": "The cable car cabin is not heated; stay warmly dressed."
+              }
+            },
+            {
+              "name": "Mer de Glace",
+              "tip_5lang": {
+                "de": "Im Winter ist der Zugang zur Eishöhle nur über viele Stufen möglich; Vorsicht bei Schnee.",
+                "hu": "Télen a jégbarlang csak sok lépcsőn át érhető el; vigyázzunk a hóra.",
+                "ro": "Iarna, accesul la peștera de gheață se face prin multe trepte; atenție la zăpadă.",
+                "en": "In winter, access to the ice cave is only via many steps; use caution in snow."
+              }
+            },
+            {
+              "name": "Lac Blanc (Via Flégère)",
+              "tip_5lang": {
+                "de": "Die Flégère-Seilbahn ist im Winter primär für Skifahrer; als Fußgänger Ticket prüfen.",
+                "hu": "A Flégère felvonó télen főleg síelőknek van; gyalogosként ellenőrizzük a jegyet.",
+                "ro": "Telecabina Flégère este iarna în principal pentru schiori; verificați biletul pentru pietoni.",
+                "en": "The Flégère cable car is primarily for skiers in winter; check pedestrian tickets."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann im Winter vereist sein; nutzen Sie die geräumten Wege.",
+                "hu": "A templom előtti tér jeges lehet; használjuk a letakarított utakat.",
+                "ro": "Piața din fața bisericii poate fi înghețată; folosiți potecile curățate.",
+                "en": "The church square can be icy in winter; use the cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Zugverkehr kann bei starkem Schneefall durch Lawinensprengungen verzögert werden.",
+              "Ski-Busse sind im Winter extrem frequentiert; nutzen Sie die Randzeiten.",
+              "Die Bergbahnen haben bei starkem Wind im Winter oft reduzierte Kapazitäten.",
+              "Tragen Sie feste Winterschuhe für den Umstieg zwischen Bus und Bahn.",
+              "Letzte Talfahrten der Bergbahnen sind im Winter oft schon gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "A vonatforgalmat erős hóesésben lavinarobbantások késleltethetik.",
+              "A síbuszok télen rendkívül zsúfoltak; használjuk a csúcsidőn kívüli járatokat.",
+              "A felvonók erős szélben télen gyakran csökkentett kapacitással üzemelnek.",
+              "Viseljünk stabil téli cipőt a busz és vonat közötti átszálláshoz.",
+              "Az utolsó völgy menetek a felvonóknál télen gyakran már 16:30-kor indulnak."
+            ],
+            "ro": [
+              "Traficul feroviar poate fi întârziat iarna de detonările pentru avalanșe.",
+              "Autobuzele de schi sunt extrem de aglomerate iarna; folosiți orele de extravârf.",
+              "Telecabinele au adesea capacitate redusă iarna în caz de vânt puternic.",
+              "Purtați încălțăminte de iarnă solidă pentru transferul între autobuz și tren.",
+              "Ultimele coborâri cu telecabina sunt iarna adesea în jurul orei 16:30."
+            ],
+            "en": [
+              "Train traffic can be delayed during heavy snowfall due to avalanche blasting.",
+              "Ski buses are extremely busy in winter; use off-peak times if possible.",
+              "Cable cars often have reduced capacity in winter during high winds.",
+              "Wear sturdy winter shoes for the transfer between bus and train.",
+              "Last descents of the cable cars are often as early as 4:30 PM in winter."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.chamonix.com/webcams,3,en.html",
-    "tourism_office": "https://www.chamonix.com/",
-    "events": "https://www.chamonix.com/events,33,en.html",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.chamonix-bus.com/",
-    "language_tips": {
-      "de": "In Chamonix wird Franzoesisch gesprochen, aber wegen der vielen internationalen Gaeste klappt Englisch in Hotels, Skischulen und Restaurants meistens problemlos. Ein 'bonjour' beim Betreten eines Ladens und 'merci' beim Gehen oeffnet trotzdem Tueren. Berg-Profis und Guides reden oft Englisch, im Tal eher Franzoesisch.",
-      "hu": "Chamonix-ban a francia a hivatalos, de a sok kulfoldi sielo miatt a hotelekben, sioktatoknal es ettermekben az angol legtobbszor megy. Egy 'bonjour' belepeskor es egy 'merci' tavozaskor megis sokat szamit. A hegyi vezetok altalaban beszelnek angolul, a volgyben inkabb francia megy.",
-      "ro": "La Chamonix se vorbeste franceza, dar din cauza turistilor internationali engleza merge usor in hoteluri, scoli de schi si restaurante. Un 'bonjour' la intrare si 'merci' la plecare deschid orice usa. Ghizii montani vorbesc adesea engleza, in vale e mai mult franceza.",
-      "en": "Chamonix speaks French, but with so many international skiers, English works fine in hotels, ski schools and most restaurants. Still, a 'bonjour' when you enter a shop and 'merci' when you leave goes a long way. Mountain guides usually speak English; down in the valley it's more French."
-    },
-    "best_time_to_visit": {
-      "de": "Hochwinter Dezember bis Maerz fuer Ski (Schneegarantie auf hohen Lagen), Juli und August fuer Wandern und Mont-Blanc-Touren. Mai und November sind Zwischensaisons, viele Lifte geschlossen und Hotels guenstig, aber das Wetter ist launisch. Im August Massenandrang am Aiguille du Midi.",
-      "hu": "December-marcius a si szezon (a magas reszeken biztos a ho), julius-augusztus a turazas es Mont-Blanc-csucshodito ideje. Majus es november koztes idoszak, sok felvono zarva es a hotelek olcsobbak, de az ido szeszelyes. Augusztusban brutalis tomeg az Aiguille du Midi-nel.",
-      "ro": "Decembrie-martie pentru schi (zapada garantata in zonele inalte), iulie-august pentru drumetii si ture pe Mont Blanc. Mai si noiembrie sunt sezoane intermediare, multe telecabine inchise si hoteluri ieftine, dar vremea e capricioasa. In august aglomeratie uriasa la Aiguille du Midi.",
-      "en": "December to March for skiing (guaranteed snow up high), July and August for hiking and Mont Blanc trips. May and November are shoulder seasons with cheaper hotels but many lifts closed and unpredictable weather. Expect huge crowds at the Aiguille du Midi in August."
-    },
-    "neighborhood_warnings": {
-      "de": "Im Zentrum am Wochenende Parkplatzchaos und teure Garagen, lieber Park-and-Ride nutzen. Bei Schoenwetter im Sommer ist die Aiguille-du-Midi-Schlange oft 2-3 Stunden, frueh online buchen. Berggefahren ernst nehmen, Lawinen und Spaltensturz fordern jedes Jahr Opfer.",
-      "hu": "Hetvegen a kozpontban parkolasi kaosz es draga garazsok, jobb a Park-and-Ride. Nyari napos idoben az Aiguille-du-Midi sor 2-3 ora, korai online jegyfoglalas kotelezo. A hegyi veszelyeket vedd komolyan, lavina es gleccserszakadek minden evben szed aldozatot.",
-      "ro": "In centru weekendul aduce haos cu parcarea si garaje scumpe, mai bine foloseste Park-and-Ride. Vara, pe vreme buna, coada la Aiguille du Midi e 2-3 ore, rezerva online din timp. Pericolele montane (avalanse, crevase) fac victime in fiecare an, ia-le in serios.",
-      "en": "Parking in the centre is chaos on weekends and garages are pricey, use the Park-and-Ride instead. On sunny summer days the Aiguille du Midi queue runs 2-3 hours, book online early. Take mountain hazards seriously — avalanches and crevasse falls claim lives every year."
-    },
-    "parking_real_time": ""
   }
 }

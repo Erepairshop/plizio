@@ -898,32 +898,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.dieppetourisme.com/",
-    "events": "https://www.dieppetourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.stradibus.fr/",
-    "language_tips": {
-      "de": "Dieppe spricht klares normannisches Franzoesisch, etwas direkter als in Suedfrankreich. Englisch verbreitet (Faehre nach Newhaven!), in Markthallen und Fischrestaurants gemischt. 'Bonjour' und 'merci' bleiben strikt Pflicht.",
-      "hu": "Dieppe tiszta normandiai franciat beszel, kicsit direktebb mint Delen. Az angol elterjedt (komp Newhavenbe!), piaccsarnokokban es halaszettermekben vegyes. A 'bonjour' es 'merci' szigoruan kotelezo.",
-      "ro": "Dieppe vorbeste franceza normanda clara, putin mai directa decat in sud. Engleza e raspandita (ferry catre Newhaven!), in piete si restaurante de peste mai mixt. 'Bonjour' si 'merci' raman strict obligatorii.",
-      "en": "Dieppe speaks clear Norman French, a bit more direct than the south. English is common (ferry to Newhaven), mixed in market halls and fish restaurants. 'Bonjour' and 'merci' stay strictly required."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal (14-22 Grad), Drachenfest 'Cerf-Volant' im September weltweit bekannt. Juli-August warm und mit britischen Wochenendtouristen voll. Winter rau (4-8 Grad), Klippen und Hafen im Sturm dramatisch.",
-      "hu": "Majus-szeptember a legjobb (14-22 fok), szeptemberben 'Cerf-Volant' sarkanyfesztival vilaghiru. Julius-augusztus meleg es brit hetvegi turistakkal zsufolt. Tel zord (4-8 fok), a sziklak es a kikoto viharban dramai.",
-      "ro": "Mai-septembrie sunt ideale (14-22 grade), festivalul de zmeie 'Cerf-Volant' din septembrie e celebru in lume. Iulie-august sunt calde si pline de turisti britanici de weekend. Iarna e aspra (4-8 grade), faleza si portul in furtuna sunt dramatice.",
-      "en": "May-September are ideal (14-22°C), with the world-famous 'Cerf-Volant' kite festival in September. July-August are warm and full of British weekenders. Winter is rough (4-8°C), cliffs and harbour dramatic in storms."
-    },
-    "neighborhood_warnings": {
-      "de": "Neuville und Janval am Stadtrand abends meiden. Altstadt rund um Place du Puits-Sale und Hafen sicher. Bahnhof tagsueber okay, nachts ruhig. Faehrhafen nachts wenig belebt.",
-      "hu": "Neuville es Janval a varos szelen este nem ajanlott. A Place du Puits-Sale koruli obvaros es a kikoto biztonsagos. Az allomas nappal rendben, ejjel csendes. A kompkikoto ejjel kissé kihalt.",
-      "ro": "Neuville si Janval, la periferie, sunt de evitat seara. Centrul vechi din jurul Place du Puits-Sale si portul sunt sigure. Gara e ok ziua, linistita noaptea. Portul de ferry e putin animat noaptea.",
-      "en": "Avoid Neuville and Janval on the outskirts after dark. The old town around Place du Puits-Sale and the harbour are safe. Station fine by day, quiet at night. The ferry port is sparse at night."
-    },
-    "parking_real_time": ""
   }
 }

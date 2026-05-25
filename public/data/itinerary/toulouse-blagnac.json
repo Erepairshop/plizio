@@ -1101,32 +1101,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.toulouse-tourisme.com/",
-    "events": "https://www.toulouse-tourisme.com/agenda",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.tisseo.fr/",
-    "language_tips": {
-      "de": "Blagnac liegt direkt neben Toulouse und teilt sich das Verkehrsnetz Tisséo. Ein freundliches 'Bonjour' beim Betreten von Geschäften ist Pflicht. Die südfranzösische Aussprache ist melodisch, das 'r' wird gerollt. Englisch wird in Flughafennähe verstanden, im Stadtkern eher weniger.",
-      "hu": "Blagnac közvetlenül Toulouse mellett fekszik, és a Tisséo közlekedési hálózatot használja. Boltba lépéskor mindig köszönj 'Bonjour'-ral, ez nem opció. A délfrancia kiejtés dallamos, az 'r'-t pörgetik. A reptér közelében beszélnek angolul, a városmag belsejében sokkal kevésbé.",
-      "ro": "Blagnac se află lângă Toulouse și împarte rețeaua de transport Tisséo. Un 'Bonjour' la intrarea în magazine este obligatoriu, altfel veți părea nepoliticos. Pronunția sudică este melodioasă, iar 'r' este rulat. Engleza se vorbește lângă aeroport, mai puțin în centrul vechi.",
-      "en": "Blagnac sits next to Toulouse and shares the Tisséo transit network. Always greet with 'Bonjour' when entering shops, it's expected. The southern French accent is melodic with rolled 'r' sounds. English is widely understood near the airport, less so in the historic core."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bieten ideales Wetter mit 22-27 °C, ohne den drückenden Juli-August-Hitzeschwall. Im Juli starten Sommerfestivals und der Flughafenverkehr nimmt zu. Winter ist mild, aber regnerisch. Vermeiden Sie August, wenn viele lokale Lokale geschlossen sind.",
-      "hu": "Május-június és szeptember kínálja az ideális időt 22-27 °C-kal, a fullasztó július-augusztusi hőség nélkül. Júliusban indulnak a nyári fesztiválok és nő a reptéri forgalom. A tél enyhe de esős. Kerüld augusztust, mert sok helyi étterem zárva tart.",
-      "ro": "Mai-iunie și septembrie oferă vremea ideală cu 22-27 °C, fără canicula din iulie-august. În iulie încep festivalurile de vară și crește traficul aeroportuar. Iarna este blândă dar ploioasă. Evitați luna august, când multe restaurante locale sunt închise.",
-      "en": "May-June and September offer ideal weather at 22-27 °C without the suffocating July-August heat. July brings summer festivals and busy airport traffic. Winters are mild but rainy. Avoid August when many local eateries close for vacation."
-    },
-    "neighborhood_warnings": {
-      "de": "Blagnac ist sicher, aber rund um den Flughafen und in den Bus-Knotenpunkten nachts wachsam bleiben. Taschendiebe sind in der Tram T1 zur Rushhour aktiv. Meiden Sie unbeleuchtete Wege entlang der Garonne nach Mitternacht.",
-      "hu": "Blagnac biztonságos, de a reptér környékén és a buszcsomópontoknál éjjel maradj éber. A T1 villamoson csúcsidőben zsebtolvajok dolgoznak. Kerüld a Garonne menti kivilágítatlan ösvényeket éjfél után.",
-      "ro": "Blagnac este sigur, dar fiți atenți noaptea în jurul aeroportului și a nodurilor de autobuz. Hoții de buzunare sunt activi în tramvaiul T1 la ora de vârf. Evitați aleile neluminate de-a lungul Garonnei după miezul nopții.",
-      "en": "Blagnac is safe but stay alert near the airport and bus hubs at night. Pickpockets work the T1 tram during rush hour. Avoid the unlit Garonne riverside paths after midnight."
-    },
-    "parking_real_time": ""
   }
 }

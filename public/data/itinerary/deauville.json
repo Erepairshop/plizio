@@ -254,6 +254,376 @@
           "Check the tide times before walking far on the beach.",
           "Visit during the film festival for extra glamour."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem lebhaften Marktplatz, umgeben von Fachwerkhäusern. Spazieren Sie zum legendären Casino, dem Symbol der Eleganz von Deauville.\n\nMittags schlendern Sie über die hölzernen Planches am Meer, wo die Namen Hollywoods verewigt sind. Genießen Sie die frische Meeresbrise an einem der exklusivsten Strände Frankreichs.\n\nDer Nachmittag gehört der Entspannung im Sand unter den berühmten bunten Sonnenschirmen. Beobachten Sie das Treiben am luxuriösen Yachthafen.\n\nBeenden Sie den Tag mit einem exquisiten Abendessen in einem der charmanten Restaurants im Stadtzentrum und lassen Sie den Glamour der Normandie auf sich wirken.",
+            "hu": "Kezdje a napot a nyüzsgő piactéren, favázas házak gyűrűjében. Sétáljon el a legendás Kaszinóhoz, amely Deauville eleganciájának jelképe.\n\nDélben korzózzon a tengerparti fapadlókon, ahol Hollywood nagyjainak nevei sorakoznak. Élvezze a friss tengeri szellőt Franciaország egyik legexkluzívabb strandján.\n\nA délután a pihenésé a homokban, a híres színes napernyők alatt. Figyelje a luxusjachtok ringatózását a kikötőben.\n\nA napot zárja egy fenséges vacsorával a belváros egyik hangulatos éttermében, átadva magát a normandiai fényűzésnek.",
+            "ro": "Începeți ziua în piața plină de viață, înconjurată de case cu bârne de lemn. Mergeți la legendarul Cazinou, simbolul eleganței din Deauville.\n\nLa prânz, plimbați-vă pe faimoasele Planches de pe malul mării, unde sunt imortalizate numele vedetelor de la Hollywood. Bucurați-vă de briza mării pe una dintre cele mai exclusiviste plaje din Franța.\n\nDupă-amiaza este dedicată relaxării pe nisip, sub faimoasele umbrele colorate. Observați activitatea din portul de agrement luxos.\n\nÎncheiați ziua cu o cină rafinată într-unul dintre restaurantele fermecătoare din centrul orașului și lăsați-vă pătruns de glamour-ul Normandiei.",
+            "en": "Start your day at the vibrant market square, surrounded by half-timbered houses. Walk to the legendary Casino, the symbol of Deauville's elegance.\n\nAt midday, stroll along the wooden Planches by the sea, where Hollywood names are immortalized. Enjoy the fresh sea breeze on one of France's most exclusive beaches.\n\nThe afternoon is for relaxing in the sand under the famous colorful parasols. Watch the luxury yachts in the marina.\n\nEnd the day with an exquisite dinner in one of the charming city center restaurants and soak in the glamour of Normandy."
+          },
+          "stops": [
+            {
+              "name": "Place du Marché",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Markt am Vormittag für frische lokale Produkte.",
+                "hu": "Látogasson el a piacra délelőtt a friss helyi termékekért.",
+                "ro": "Vizitați piața dimineața pentru produse locale proaspete.",
+                "en": "Visit the market in the morning for fresh local produce."
+              }
+            },
+            {
+              "name": "Casino de Deauville",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Architektur auch ohne zu spielen.",
+                "hu": "Csodálja meg a pompás építészetet játék nélkül is.",
+                "ro": "Admirați arhitectura splendidă chiar și fără a juca.",
+                "en": "Admire the magnificent architecture even without gambling."
+              }
+            },
+            {
+              "name": "Les Planches",
+              "tip_5lang": {
+                "de": "Suchen Sie nach den Namen berühmter Schauspieler auf den Kabinen.",
+                "hu": "Keresse a híres színészek neveit a kabinokon.",
+                "ro": "Căutați numele actorilor celebri pe cabine.",
+                "en": "Look for the names of famous actors on the cabins."
+              }
+            },
+            {
+              "name": "Plage de Deauville",
+              "tip_5lang": {
+                "de": "Mieten Sie einen bunten Sonnenschirm für das perfekte Foto.",
+                "hu": "Béreljen színes napernyőt a tökéletes fotóhoz.",
+                "ro": "Închiriați o umbrelă colorată pentru fotografia perfectă.",
+                "en": "Rent a colorful parasol for the perfect photo."
+              }
+            },
+            {
+              "name": "Port de Plaisance",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Yachten bei Sonnenuntergang.",
+                "hu": "Élvezze a jachtokra nyíló kilátást naplementekor.",
+                "ro": "Bucurați-vă de vederea la iahturi la apus.",
+                "en": "Enjoy the view of the yachts at sunset."
+              }
+            },
+            {
+              "name": "Dîner gastronomique",
+              "tip_5lang": {
+                "de": "Probieren Sie Seezungenfilet nach normannischer Art.",
+                "hu": "Kóstolja meg a nyelvhalfilét normandiai módra.",
+                "ro": "Gustați file de limbă de mare în stil normand.",
+                "en": "Try the sole fillet prepared in the Normandy style."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sole Normande",
+                "tip": "Frischer Fisch mit Sahnesauce im Chez Miocque."
+              },
+              {
+                "name": "Moules-frites",
+                "tip": "Klassische Muscheln direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sole Normande",
+                "tip": "Friss nyelvhal tejszínes mártással a Chez Miocque-ban."
+              },
+              {
+                "name": "Moules-frites",
+                "tip": "Klasszikus kagyló sült krumplival a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sole Normande",
+                "tip": "Pește proaspăt cu sos de smântână la Chez Miocque."
+              },
+              {
+                "name": "Moules-frites",
+                "tip": "Scoici clasice cu cartofi prăjiți chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sole Normande",
+                "tip": "Fresh sole with cream sauce at Chez Miocque."
+              },
+              {
+                "name": "Moules-frites",
+                "tip": "Classic mussels and fries right by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Point de vue jetée",
+                "tip": "Ruhiger Blick auf das Meer am Ende der Mole.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Móló végpontja",
+                "tip": "Csendes kilátás a tengerre a móló végén.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul digului",
+                "tip": "Vedere liniștită la mare la capătul digului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pier viewpoint",
+                "tip": "Quiet view of the sea at the end of the pier.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Lokale Käsesorten wie Camembert und Pont-l'Évêque."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fedett Piac",
+                "tip": "Helyi sajtok, mint a Camembert és Pont-l'Évêque."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Acoperită",
+                "tip": "Brânzeturi locale precum Camembert și Pont-l'Évêque."
+              }
+            ],
+            "en": [
+              {
+                "name": "Covered Market",
+                "tip": "Local cheeses like Camembert and Pont-l'Évêque."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für den Spaziergang auf den Holzplanken.",
+              "Reservieren Sie Restaurants im Voraus, besonders am Wochenende.",
+              "Achten Sie auf die Gezeiten, bevor Sie weit am Strand wandern.",
+              "Besuchen Sie die Stadt während des Filmfestivals für mehr Glamour."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a fapadlókon való sétához.",
+              "Foglaljon asztalt előre, különösen hétvégén.",
+              "Figyelje az apály-dagály ciklust a tengerparti séták előtt.",
+              "Látogasson el a filmfesztivál idején a nagyobb csillogásért."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru plimbarea pe scândurile de lemn.",
+              "Rezervați restaurantele în avans, mai ales în weekend.",
+              "Verificați fluxul și refluxul înainte de a merge departe pe plajă.",
+              "Vizitați orașul în timpul festivalului de film pentru mai mult glamour."
+            ],
+            "en": [
+              "Wear comfortable shoes for walking on the wooden boards.",
+              "Book restaurants in advance, especially on weekends.",
+              "Check the tide times before walking far on the beach.",
+              "Visit during the film festival for extra glamour."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Deauville im Regen hat einen besonderen Charme. Beginnen Sie Ihren Tag unter den Markthallen, wo Sie trocken lokale Köstlichkeiten probieren können. Der Vormittag gehört dem Casino, einem prachtvollen Rückzugsort vor den Schauern. Mittags laden die überdachten Terrassen an den Planches zum Beobachten des grauen Ärmelkanals ein. Der Abend endet gemütlich bei einem erstklassigen Dinner in der Stadt.",
+            "hu": "Deauville esőben is elegáns marad. Kezdje a reggelt a fedett piaccsarnokban, védve az elemektől. A délelőttöt töltse a Casino pazar belső tereiben, amely tökéletes menedék a záporok elől. Délután a tengerparti sétány melletti kávézók üvegfalai mögül csodálhatja a morajló hullámokat. Az estet egy meghitt, gasztronómiai élményt nyújtó vacsorával zárhatja a város szívében.",
+            "ro": "Deauville în ploaie are un farmec melancolic și rafinat. Începeți dimineața la adăpostul halei pieței, savurând produse locale. Continuați în interiorul somptuos al Cazinoului pentru a evita aversele. La prânz, admirați marea agitată de pe o terasă acoperită de pe Les Planches. Seara se încheie perfect cu o cină gastronomică într-o atmosferă caldă și primitoare.",
+            "en": "Deauville in the rain exudes a unique coastal elegance. Start your morning under the shelter of the market hall, tasting local treats. Spend your late morning inside the opulent Casino, a perfect refuge from the showers. In the afternoon, watch the misty English Channel from the safety of a covered terrace on Les Planches. Conclude your day with a cozy gourmet dinner in the town center."
+          },
+          "stops": [
+            {
+              "name": "Place du Marché",
+              "tip_5lang": {
+                "de": "Nutzen Sie die hölzernen Markthallen als Schutz vor dem Regen.",
+                "hu": "Használja a fa piaccsarnokot menedékként az eső elől.",
+                "ro": "Folosiți hala de lemn a pieței pentru a vă adăposti de ploaie.",
+                "en": "Use the timbered market halls as shelter from the rain."
+              }
+            },
+            {
+              "name": "Casino de Deauville",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit trocken in luxuriöser Atmosphäre zu verbringen.",
+                "hu": "Ideális hely az időtöltésre száraz, luxus környezetben.",
+                "ro": "Locul ideal pentru a petrece timpul la uscat, într-o atmosferă luxoasă.",
+                "en": "An ideal place to spend time dry in a luxurious atmosphere."
+              }
+            },
+            {
+              "name": "Les Planches",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Holz der berühmten Strandpromenade kann rutschig sein.",
+                "hu": "Vigyázat, a híres tengerparti sétány nedves fája csúszós lehet.",
+                "ro": "Atenție, lemnul ud al celebrei promenade poate fi alunecos.",
+                "en": "Careful, the wet wood of the famous boardwalk can be slippery."
+              }
+            },
+            {
+              "name": "Plage de Deauville",
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einer der Strandbars aus.",
+                "hu": "Figyelje a viharos tengert az egyik parti bár biztonságából.",
+                "ro": "Admirați marea agitată din siguranța unui bar de pe plajă.",
+                "en": "Watch the stormy sea from the safety of a beach bar."
+              }
+            },
+            {
+              "name": "Port de Plaisance",
+              "tip_5lang": {
+                "de": "Die Masten der Segelboote klirren im Regenwind – eine tolle Kulisse.",
+                "hu": "A vitorlások árbocai csörömpölnek az esős szélben – különleges hangulat.",
+                "ro": "Catargul iahturilor zăngăne în vântul ploios – o atmosferă aparte.",
+                "en": "The masts of the yachts clatter in the rainy wind – a unique atmosphere."
+              }
+            },
+            {
+              "name": "Dîner gastronomique",
+              "tip_5lang": {
+                "de": "Reservieren Sie vorab, um sicher einen warmen Platz zu haben.",
+                "hu": "Foglaljon előre, hogy biztosan legyen meleg helye.",
+                "ro": "Rezervați din timp pentru a vă asigura un loc călduros.",
+                "en": "Book in advance to ensure a warm spot inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf den Gehwegen Pfützen bilden können.",
+              "Das Casino bietet eine hervorragende Garderobe für nasse Mäntel.",
+              "Nutzen Sie die Passagen zwischen den Fachwerkhäusern für kurze Abkürzungen im Trockenen.",
+              "Ein Taschenschirm ist bei dem oft windigen Küstenregen unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a járdákon tócsák alakulhatnak ki.",
+              "A kaszinó kiváló ruhatárral rendelkezik a nedves kabátok számára.",
+              "Használja a fachwerk házak közötti átjárókat rövid, száraz útvonalként.",
+              "A szeles tengerparti esőben egy erős zsebnyerső elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe trotuare.",
+              "Cazinoul oferă o garderobă excelentă pentru hainele ude.",
+              "Folosiți pasajele dintre casele cu bârne pentru scurte scurtături la uscat.",
+              "O umbrelă rezistentă este esențială pentru ploaia vântoasă de pe coastă."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on the sidewalks.",
+              "The Casino offers an excellent cloakroom for wet coats.",
+              "Use the passages between half-timbered houses for short dry shortcuts.",
+              "A sturdy travel umbrella is essential for the often windy coastal rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Deauville im Winter ist friedlich und exklusiv. Die klare Seeluft am Morgen belebt den Geist, während Sie über den Markt schlendern. Mittags bietet das beheizte Casino prunkvolle Wärme. Nachmittags färbt die frühe Dämmerung den Strand in pastellfarbenes Licht, bevor die Kälte Sie in die gemütlichen Restaurants der Stadt treibt, wo lokale Spezialitäten auf Sie warten.",
+            "hu": "Deauville télen békés és exkluzív arcát mutatja. A reggeli friss tengeri levegő felfrissíti a lelket a piacon tett séta közben. Délben a kaszinó fűtött terei nyújtanak pazar meleget. Délután a korai szürkület pasztellszínekbe öltözteti a partot, mielőtt a hideg elől a város hangulatos, helyi specialitásokat kínáló éttermeibe menekülne.",
+            "ro": "Deauville iarna este liniștit și exclusivist. Aerul proaspăt de mare dimineața revigorează spiritul în timpul unei plimbări prin piață. La prânz, spațiile încălzite ale Cazinoului oferă o căldură somptuoasă. După-amiaza, amurgul timpuriu colorează plaja în nuanțe pastelate, înainte ca frigul să vă trimită în restaurantele primitoare ale orașului.",
+            "en": "Deauville in winter is peaceful and exclusive. The crisp morning sea air invigorates the soul during a market stroll. At noon, the heated interiors of the Casino provide palatial warmth. In the afternoon, the early dusk paints the beach in pastel hues before the cold drives you into the town's cozy restaurants for local specialties."
+          },
+          "stops": [
+            {
+              "name": "Place du Marché",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Cidre an einem der Stände.",
+                "hu": "Élvezzen egy forró cidre-t az egyik standnál.",
+                "ro": "Savurați un cidru fierbinte la unul dintre standuri.",
+                "en": "Enjoy a hot cider at one of the market stalls."
+              }
+            },
+            {
+              "name": "Casino de Deauville",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a látnivalók között.",
+                "ro": "Perfect pentru a vă încălzi între vizitarea obiectivelor turistice.",
+                "en": "Perfect for warming up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Les Planches",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, der Wind vom Meer kann eisig sein.",
+                "hu": "A meleg ruházat fontos, a tengeri szél jeges lehet.",
+                "ro": "Îmbrăcămintea groasă este importantă, vântul mării poate fi înghețat.",
+                "en": "Warm clothing is essential; the sea breeze can be icy."
+              }
+            },
+            {
+              "name": "Plage de Deauville",
+              "tip_5lang": {
+                "de": "Erleben Sie die weite Leere des Strandes in winterlichem Licht.",
+                "hu": "Tapasztalja meg a strand tágas ürességét téli fényekben.",
+                "ro": "Experimentați pustietatea plajei în lumina iernii.",
+                "en": "Experience the vast emptiness of the beach in winter light."
+              }
+            },
+            {
+              "name": "Port de Plaisance",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem Hafen findet bereits gegen 17:00 Uhr statt.",
+                "hu": "A kikötő feletti naplemente már 17:00 körül bekövetkezik.",
+                "ro": "Apusul peste port are loc deja în jurul orei 17:00.",
+                "en": "Sunset over the port occurs early, around 5:00 PM."
+              }
+            },
+            {
+              "name": "Dîner gastronomique",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte normannische Eintöpfe zur Stärkung.",
+                "hu": "Próbálja ki a kiadós normann egytálételeket az erőgyűjtéshez.",
+                "ro": "Încercați tocănițele normande consistente pentru a vă revigora.",
+                "en": "Try hearty Norman stews to recharge your energy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter früh unter (ca. 17 Uhr), planen Sie Außenaktivitäten davor.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem beißenden Küstenwind.",
+              "Viele Cafés bieten im Winter Heizpilze auf ihren Terrassen an.",
+              "Prüfen Sie die Öffnungszeiten, da einige Geschäfte in der Nebensaison früher schließen."
+            ],
+            "hu": [
+              "A nap télen korán nyugszik (kb. 17 óra), tervezze a kinti programokat ez elé.",
+              "A réteges öltözködés véd a metsző tengerparti szél ellen.",
+              "Sok kávézó kínál kültéri fűtést a teraszain télen is.",
+              "Ellenőrizze a nyitvatartást, mert egyes üzletek a holtszezonban korábban zárnak."
+            ],
+            "ro": [
+              "Soarele apune devreme iarna (aprox. ora 17), planificați activitățile în aer liber înainte.",
+              "Îmbrăcămintea în straturi vă protejează de vântul tăios de pe coastă.",
+              "Multe cafenele oferă încălzitoare pe terase în timpul iernii.",
+              "Verificați programul, deoarece unele magazine închid mai devreme în extrasezon."
+            ],
+            "en": [
+              "The sun sets early in winter (around 5 PM), so plan outdoor activities accordingly.",
+              "Layering your clothes protects against the biting coastal wind.",
+              "Many cafes offer outdoor heaters on their terraces even in winter.",
+              "Check opening hours as some shops may close earlier during the off-season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -486,6 +856,360 @@
           "Always lock your bike securely.",
           "Wear a light jacket if it's windy."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Deauville auf zwei Rädern, beginnend bei der prachtvollen Villa Strassburger. Fahren Sie zur Rennbahn, um den Geist des Pferdesports zu spüren.\n\nÜberqueren Sie die Brücke nach Trouville für eine authentische Atmosphäre und ein Mittagessen auf dem berühmten Fischmarkt. Hier ist das Leben etwas rauer und ursprünglicher.\n\nAm Nachmittag genießen Sie die weite Küstenstraße, die Deauville mit den umliegenden Dörfern verbindet. Der Wind in den Haaren und der Blick aufs Meer sind unbezahlbar.\n\nKehren Sie pünktlich zum Sonnenuntergang zum Hafen zurück, um die Fischerboote bei ihrer Einfahrt zu beobachten.",
+            "hu": "Fedezze fel Deauville-t két keréken, kezdve a pompás Villa Strassburgerrel. Tekerjen a lóversenypályához, hogy átélje a lovassport szellemét.\n\nKeresztezze a hidat Trouville-ba az autentikus hangulatért és egy ebédért a híres halpiacon. Itt az élet kicsit nyersebb és eredetibb.\n\nDélután élvezze a tágas parti utat, amely Deauville-t összeköti a környező falvakkal. A szél a hajában és a tengeri kilátás megfizethetetlen.\n\nTérjen vissza a kikötőbe naplementére, hogy megnézze a befutó halászhajókat.",
+            "ro": "Explorați Deauville pe două roți, începând de la splendida Vilă Strassburger. Mergeți la hipodrom pentru a simți spiritul sporturilor ecvestre.\n\nTraversați podul spre Trouville pentru o atmosferă autentică și un prânz în faimoasa piață de pește. Aici viața este puțin mai aspră și mai originală.\n\nDupă-amiaza, bucurați-vă de drumul de coastă spațios care leagă Deauville de satele din jur. Vântul în plete și vederea la mare sunt de neprețuit.\n\nÎntoarceți-vă în port la timp pentru apus, pentru a vedea bărcile de pescari intrând în port.",
+            "en": "Explore Deauville on two wheels, starting with the magnificent Villa Strassburger. Cycle to the racecourse to feel the spirit of equestrian sports.\n\nCross the bridge to Trouville for an authentic atmosphere and lunch at the famous fish market. Life here is a bit more rugged and original.\n\nIn the afternoon, enjoy the wide coastal road connecting Deauville with surrounding villages. The wind in your hair and the sea view are priceless.\n\nReturn to the harbor in time for sunset to watch the fishing boats coming in."
+          },
+          "stops": [
+            {
+              "name": "Villa Strassburger",
+              "tip_5lang": {
+                "de": "Bewundern Sie diese ikonische anglo-normannische Villa.",
+                "hu": "Csodálja meg ezt az ikonikus anglo-normann villát.",
+                "ro": "Admirați această vilă anglo-normandă iconică.",
+                "en": "Admire this iconic Anglo-Norman villa."
+              }
+            },
+            {
+              "name": "Hippodrome de la Touques",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Morgentraining der Vollblüter.",
+                "hu": "Nézze meg a telivérek reggeli edzését.",
+                "ro": "Vizitați antrenamentul de dimineață al cailor pur sânge.",
+                "en": "Visit the morning training of the thoroughbreds."
+              }
+            },
+            {
+              "name": "Trouville-sur-Mer",
+              "tip_5lang": {
+                "de": "Fahren Sie über die Brücke ins benachbarte Fischerdorf.",
+                "hu": "Tekerjen át a hídon a szomszédos halászfaluba.",
+                "ro": "Traversați podul către satul de pescari vecin.",
+                "en": "Cycle across the bridge to the neighboring fishing village."
+              }
+            },
+            {
+              "name": "Marché aux Poissons",
+              "tip_5lang": {
+                "de": "Frische Austern direkt am Stand probieren.",
+                "hu": "Kóstoljon friss osztrigát közvetlenül a pultnál.",
+                "ro": "Gustați stridii proaspete direct la stand.",
+                "en": "Try fresh oysters directly at the stall."
+              }
+            },
+            {
+              "name": "Promenade côtière",
+              "tip_5lang": {
+                "de": "Eine entspannte Fahrt entlang der Küste.",
+                "hu": "Pihentető tekerés a part mentén.",
+                "ro": "O plimbare relaxantă de-a lungul coastei.",
+                "en": "A relaxing ride along the coast."
+              }
+            },
+            {
+              "name": "Phare de Deauville",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto am Leuchtturm.",
+                "hu": "Gyors fotómegálló a világítótoronynál.",
+                "ro": "O scurtă oprire pentru o fotografie la far.",
+                "en": "A quick stop for a photo at the lighthouse."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Plateau de fruits de mer",
+                "tip": "Frische Meeresfrüchte in Trouville."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tenger gyümölcsei tál",
+                "tip": "Friss tengeri finomságok Trouville-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platou cu fructe de mare",
+                "tip": "Fructe de mare proaspete în Trouville."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood platter",
+                "tip": "Fresh seafood in Trouville."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rives de la Touques",
+                "tip": "Ruhiger Radweg entlang des Flusses.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Touques partja",
+                "tip": "Csendes kerékpárút a folyó mentén.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malurile Touques",
+                "tip": "Pistă de biciclete liniștită de-a lungul râului.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of the Touques",
+                "tip": "Quiet bike path along the river.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Trinitaine",
+                "tip": "Traditionelle bretonische Kekse und Galettes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Trinitaine",
+                "tip": "Hagyományos breton kekszek és galettek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Trinitaine",
+                "tip": "Biscuiți și galete tradiționale bretone."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Trinitaine",
+                "tip": "Traditional Breton biscuits and galettes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs.",
+              "Nutzen Sie die Radwege, um den Autoverkehr zu vermeiden.",
+              "Schließen Sie Ihr Fahrrad immer gut ab.",
+              "Tragen Sie bei Wind eine leichte Jacke."
+            ],
+            "hu": [
+              "Béreljen kerékpárt a vasútállomás közelében.",
+              "Használja a kerékpárutakat az autóforgalom elkerülésére.",
+              "Mindig zárja le jól a biciklijét.",
+              "Szeles időben viseljen könnyű kabátot."
+            ],
+            "ro": [
+              "Închiriați o bicicletă în apropierea gării.",
+              "Folosiți pistele de biciclete pentru a evita traficul auto.",
+              "Încuiați întotdeauna bine bicicleta.",
+              "Purtați o jachetă ușoară în caz de vânt."
+            ],
+            "en": [
+              "Rent a bike near the train station.",
+              "Use the bike paths to avoid car traffic.",
+              "Always lock your bike securely.",
+              "Wear a light jacket if it's windy."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, belohnt aber mit leeren Wegen. Besuchen Sie die Villa Strassburger, deren Garten im Regen besonders kräftig leuchtet. Nach einem Halt am Hippodrom geht es über die Brücke nach Trouville. Der überdachte Fischmarkt ist der perfekte Ort für eine Mittagspause, bevor Sie die Küste entlang zurückradeln.",
+            "hu": "Egy esős kerékpártúra jó felszerelést igényel, de üres utakkal jutalmaz. Látogasson el a Villa Strassburgerhez, melynek kertje esőben különösen élénk. A Hippodrom érintése után irány Trouville. A fedett halpiac tökéletes hely az ebédszünetre, mielőtt a part mentén visszakerekezne.",
+            "ro": "O tură cu bicicleta prin ploaie necesită echipament bun, dar vă răsplătește cu drumuri libere. Vizitați Villa Strassburger, a cărei grădină strălucește intens în ploaie. După o oprire la Hipodrom, treceți podul spre Trouville. Piața de pește acoperită este locul perfect pentru prânz înainte de întoarcere.",
+            "en": "A bike ride in the rain requires good gear but rewards you with empty paths. Visit Villa Strassburger, where the gardens look especially vibrant in the rain. After a stop at the Hippodrome, cross the bridge to Trouville. The covered fish market is the perfect lunch spot before cycling back along the coast."
+          },
+          "stops": [
+            {
+              "name": "Villa Strassburger",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kiesweg bei Nässe, er kann rutschig sein.",
+                "hu": "Vigyázat a nedves kavicsos úton, csúszós lehet.",
+                "ro": "Atenție pe drumul cu pietriș umed, poate fi alunecos.",
+                "en": "Be careful on the wet gravel path; it can be slippery."
+              }
+            },
+            {
+              "name": "Hippodrome de la Touques",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die Grasflächen mit dem Rad.",
+                "hu": "Heves esőben kerülje a füves területeket a biciklivel.",
+                "ro": "Evitați zonele cu iarbă cu bicicleta în timpul ploii abundente.",
+                "en": "Avoid grassy areas with your bike during heavy rain."
+              }
+            },
+            {
+              "name": "Trouville-sur-Mer",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die Metallbrücke, die Deauville verbindet.",
+                "hu": "Közlekedjen óvatosan a Deauville-t összekötő fémhídon.",
+                "ro": "Traversați cu atenție podul metalic care leagă Deauville.",
+                "en": "Ride carefully over the metal bridge connecting to Deauville."
+              }
+            },
+            {
+              "name": "Marché aux Poissons",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um trocken zu essen.",
+                "hu": "Parkolja le a biciklit az előtető alatt, hogy szárazon egyen.",
+                "ro": "Parcați bicicleta sub copertină pentru a mânca la uscat.",
+                "en": "Park your bike under the awning to eat in the dry."
+              }
+            },
+            {
+              "name": "Promenade côtière",
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Seitenwind und Spritzwasser.",
+                "hu": "Ügyeljen az erős oldalszélre és a felcsapódó vízre.",
+                "ro": "Fiți atenți la vântul lateral puternic și la apa împroșcată.",
+                "en": "Watch out for strong side winds and splashing water."
+              }
+            },
+            {
+              "name": "Phare de Deauville",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht, bevor es zurück ins Trockene geht.",
+                "hu": "Egy rövid fotómegálló elég, mielőtt visszatérne a szárazba.",
+                "ro": "O scurtă oprire pentru poze e suficientă înainte de a reveni la uscat.",
+                "en": "A quick photo stop is enough before heading back to the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei normannischem Regen unerlässlich.",
+              "Vermeiden Sie das Bremsen auf nassen Fahrbahnmarkierungen oder Gullideckeln.",
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Eine gelbe Regenjacke erhöht Ihre Sichtbarkeit für Autofahrer erheblich."
+            ],
+            "hu": [
+              "A sárvédő a kerékpáron elengedhetetlen a normann esőben.",
+              "Kerülje a fékezést a nedves útburkolati jeleken vagy csatornafedeleken.",
+              "Használjon vízálló táskákat az értéktárgyai számára.",
+              "Egy sárga esőkabát jelentősen növeli a láthatóságát az autósok számára."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt esențiale în ploaia normandă.",
+              "Evitați frânarea pe marcajele rutiere umede sau pe capacele de canal.",
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "O pelerină de ploaie galbenă vă crește considerabil vizibilitatea pentru șoferi."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in the Norman rain.",
+              "Avoid braking on wet road markings or manhole covers.",
+              "Use waterproof panniers or bags for your valuables.",
+              "A high-visibility raincoat significantly increases your safety around cars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Deauville im Winter ist erfrischend. Starten Sie an der prachtvollen Villa Strassburger und radeln Sie am Hippodrom vorbei, wo die Pferde oft im Morgennebel trainieren. In Trouville lockt der Fischmarkt mit frischen Austern, die im Winter am besten schmecken. Die Küstenpromenade bietet freie Sicht auf den weiten Horizont, bevor Sie den Leuchtturm erreichen.",
+            "hu": "A téli kerékpározás Deauville-ben igazi felfrissülés. Kezdjen a pompás Villa Strassburgernél, majd tekerjen el a Hippodrom mellett, ahol a lovak gyakran a reggeli ködben edzenek. Trouville-ban a halpiac friss osztrigával csábít, ami télen a legfinomabb. A parti sétány szabad kilátást nyújt a tágas horizontra, mielőtt elérné a világítótornyot.",
+            "ro": "Ciclismul în Deauville iarna este revigorant. Începeți la splendida Villa Strassburger și pedalați pe lângă Hipodrom, unde caii se antrenează adesea în ceața dimineții. În Trouville, piața de pește vă atrage cu scoici proaspete, care sunt cele mai bune iarna. Promenada oferă o vedere clară asupra orizontului înainte de a ajunge la far.",
+            "en": "Cycling in Deauville in winter is refreshing. Start at the magnificent Villa Strassburger and ride past the Hippodrome, where horses often train in the morning mist. In Trouville, the fish market entices with fresh oysters, which taste best in winter. The coastal promenade offers an unobstructed view of the vast horizon before you reach the lighthouse."
+          },
+          "stops": [
+            {
+              "name": "Villa Strassburger",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den schattigen Wegen am Morgen.",
+                "hu": "Ügyeljen a dérre a reggeli árnyékos utakon.",
+                "ro": "Atenție la chiciură pe drumurile umbrite dimineața.",
+                "en": "Watch out for frost on shaded paths in the morning."
+              }
+            },
+            {
+              "name": "Hippodrome de la Touques",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind kühlt die Hände schnell aus.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél gyorsan lehűti a kezeket.",
+                "ro": "Purtați mănuși groase, curentul de aer răcește rapid mâinile.",
+                "en": "Wear warm gloves; the wind chill cools hands down quickly."
+              }
+            },
+            {
+              "name": "Trouville-sur-Mer",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winterrabatt bei einigen Fahrradverleih-Stationen.",
+                "hu": "Használja ki a téli kedvezményeket egyes kerékpárkölcsönzőknél.",
+                "ro": "Profitați de reducerile de iarnă la unele centre de închirieri biciclete.",
+                "en": "Take advantage of winter discounts at some bike rental shops."
+              }
+            },
+            {
+              "name": "Marché aux Poissons",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Fischsuppe auf.",
+                "hu": "Melegedjen fel egy forró hallevessel.",
+                "ro": "Încălziți-vă cu o supă de pește fierbinte.",
+                "en": "Warm up with a bowl of hot fish soup."
+              }
+            },
+            {
+              "name": "Promenade côtière",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter haben Sie den Weg fast für sich.",
+                "hu": "Élvezze a nyugalmat; télen szinte csak az Öné az út.",
+                "ro": "Bucurați-vă de liniște; iarna aveți drumul aproape doar pentru voi.",
+                "en": "Enjoy the peace; in winter, you'll have the path almost to yourself."
+              }
+            },
+            {
+              "name": "Phare de Deauville",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für dramatische Winterfotos.",
+                "hu": "A délutáni fények ideálisak a drámai téli fotókhoz.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii dramatice de iarnă.",
+                "en": "The afternoon light is ideal for dramatic winter photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Ein Thermosbecher mit Tee im Flaschenhalter ist Gold wert.",
+              "Schützen Sie Ihre Ohren mit einem Stirnband unter dem Helm.",
+              "Kürzen Sie die Tour ab, wenn der Seewind zu stark wird."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg levegő miatt könnyen csökkenhet.",
+              "Egy termosz tea a kulacstartóban aranyat ér.",
+              "Védje a füleit fejpánttal a bukósisak alatt.",
+              "Rövidítse le a túrát, ha a tengeri szél túl erőssé válik."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; aerul rece o poate scădea ușor.",
+              "Un termos cu ceai în suportul de bidon valorează aur.",
+              "Protejați-vă urechile cu o bentiță sub casca de protecție.",
+              "Scurtați turul dacă vântul de pe mare devine prea puternic."
+            ],
+            "en": [
+              "Check tire pressure; cold air can cause it to drop slightly.",
+              "A thermos of tea in your bottle cage is worth its weight in gold.",
+              "Protect your ears with a headband under your helmet.",
+              "Shorten the tour if the sea wind becomes too intense."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -700,6 +1424,333 @@
           "Watch out for narrow streets in the villages.",
           "Some viewpoints require a short walk."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Höhen des Mont Canisy, von wo aus Sie einen atemberaubenden Blick auf die Küste haben. Erkunden Sie die Überreste der Atlantikwall-Befestigungen.\n\nFahren Sie durch das grüne Hinterland der Normandie zu versteckten Herrensitzen und blühenden Wiesen. Ein Stopp in Trouville bietet die beste Gelegenheit für Meeresfrüchte.\n\nDer Nachmittag führt Sie in das charmante Dorf Saint-Arnoult, das Ruhe abseits der Touristenströme bietet. Bewundern Sie die jahrhundertealte religiöse Architektur.\n\nLassen Sie den Tag entspannt ausklingen, während Sie bequem zu den schönsten Aussichtspunkten der Region fahren.",
+            "hu": "Autóval elérheti a Mont Canisy magasságait, ahonnan lélegzetelállító kilátás nyílik a partvidékre. Fedezze fel az Atlanti Fal erődítményeinek maradványait.\n\nAutózzon át Normandia zöld hátországán, rejtett udvarházak és virágzó rétek mentén. Egy megálló Trouville-ban a legjobb alkalom a tenger gyümölcseire.\n\nA délután a bájos Saint-Arnoult faluba vezet, amely nyugalmat kínál a turistatömegeken kívül. Csodálja meg az évszázados vallási építészetet.\n\nZárja a napot pihentetően, miközben kényelmesen ellátogat a régió legszebb kilátópontjaihoz.",
+            "ro": "Cu mașina puteți ajunge la înălțimile Mont Canisy, de unde aveți o vedere uluitoare asupra coastei. Explorați resturile fortificațiilor Zidului Atlanticului.\n\nConduceți prin hinterlandul verde al Normandiei, pe lângă conace ascunse și pajiști înflorite. O oprire în Trouville oferă cea mai bună ocazie pentru fructe de mare.\n\nDupă-amiaza vă duce în satul fermecător Saint-Arnoult, care oferă liniște departe de mulțimile de turiști. Admirați arhitectura religioasă veche de secole.\n\nÎncheiați ziua relaxat, vizitând confortabil cele mai frumoase puncte de belvedere din regiune.",
+            "en": "By car, you can reach the heights of Mont Canisy, offering a breathtaking view of the coast. Explore the remains of the Atlantic Wall fortifications.\n\nDrive through the green hinterland of Normandy, past hidden manors and blooming meadows. A stop in Trouville is the best opportunity for seafood.\n\nThe afternoon takes you to the charming village of Saint-Arnoult, offering peace away from the tourist crowds. Admire the centuries-old religious architecture.\n\nEnd the day in a relaxed way, comfortably visiting the region's most beautiful viewpoints."
+          },
+          "stops": [
+            {
+              "name": "Mont Canisy",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bunker aus dem Zweiten Weltkrieg mit Panoramablick.",
+                "hu": "Látogassa meg a II. világháborús bunkereket panorámás kilátással.",
+                "ro": "Vizitați buncărele din Al Doilea Război Mondial cu vedere panoramică.",
+                "en": "Visit the WWII bunkers with a panoramic view."
+              }
+            },
+            {
+              "name": "Manoir de Longeval",
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel normannischer Architektur.",
+                "hu": "A normandiai építészet rejtett ékköve.",
+                "ro": "O bijuterie ascunsă a arhitecturii normande.",
+                "en": "A hidden gem of Normandy architecture."
+              }
+            },
+            {
+              "name": "Trouville Fish Market",
+              "tip_5lang": {
+                "de": "Perfekt für ein schnelles und frisches Mittagessen.",
+                "hu": "Tökéletes egy gyors és friss ebédhez.",
+                "ro": "Perfect pentru un prânz rapid și proaspăt.",
+                "en": "Perfect for a quick and fresh lunch."
+              }
+            },
+            {
+              "name": "Saint-Arnoult",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die alte Kapelle aus dem 11. Jahrhundert.",
+                "hu": "Tekintse meg a XI. századi ősi kápolnát.",
+                "ro": "Vizitați capela veche din secolul al XI-lea.",
+                "en": "Visit the ancient 11th-century chapel."
+              }
+            },
+            {
+              "name": "Belvédère de Deauville",
+              "tip_5lang": {
+                "de": "Letzter Blick über die Stadt vor der Abfahrt.",
+                "hu": "Utolsó pillantás a városra indulás előtt.",
+                "ro": "Ultima vedere asupra orașului înainte de plecare.",
+                "en": "Final view over the city before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêpes et Galettes",
+                "tip": "In einer traditionellen Auberge auf dem Land."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palacsinták és Galettek",
+                "tip": "Egy hagyományos vidéki fogadóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Clătite și Galete",
+                "tip": "Într-o han tradițional la țară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêpes and Galettes",
+                "tip": "In a traditional countryside inn."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mont Canisy",
+                "tip": "Weitläufiges Gelände für ruhige Spaziergänge.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mont Canisy",
+                "tip": "Tágas terület csendes sétákhoz.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mont Canisy",
+                "tip": "Teren vast pentru plimbări liniștite.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mont Canisy",
+                "tip": "Vast grounds for quiet walks.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cidre-Bauernhof",
+                "tip": "Kaufen Sie handwerklichen Cidre direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cidre-gazdaság",
+                "tip": "Vásároljon kézműves almabort közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fermă de cidru",
+                "tip": "Cumpărați cidru artizanal direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cider farm",
+                "tip": "Buy artisanal cider directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkhäuser im Zentrum sind im Sommer oft voll.",
+              "Nutzen Sie die Küstenstraße D513 für schöne Ausblicke.",
+              "Achten Sie auf enge Gassen in den Dörfern.",
+              "Einige Aussichtspunkte erfordern einen kurzen Fußmarsch."
+            ],
+            "hu": [
+              "A belvárosi parkolók nyáron gyakran megtelnek.",
+              "Használja a D513-as parti utat a szép kilátásért.",
+              "Ügyeljen a falvak szűk utcáira.",
+              "Néhány kilátóponthoz rövid séta szükséges."
+            ],
+            "ro": [
+              "Parcările din centru sunt adesea pline vara.",
+              "Folosiți drumul de coastă D513 pentru vederi frumoase.",
+              "Atenție la străzile înguste din sate.",
+              "Unele puncte de belvedere necesită o scurtă plimbare pe jos."
+            ],
+            "en": [
+              "City center car parks are often full in summer.",
+              "Use the D513 coastal road for beautiful views.",
+              "Watch out for narrow streets in the villages.",
+              "Some viewpoints require a short walk."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie das Umland von Deauville bequem im Trockenen. Vom Mont Canisy haben Sie trotz Wolken eine mystische Aussicht auf die Küste. Das Manoir de Longeval wirkt im Regen wie aus einem Film. Zum Mittagessen bietet der Fischmarkt in Trouville überdachte Köstlichkeiten, bevor Sie die historischen Stätten in Saint-Arnoult besuchen.",
+            "hu": "Autóval kényelmesen, szárazon fedezheti fel Deauville környékét. A Mont Canisy-ról a felhők ellenére is misztikus kilátás nyílik a partra. A Manoir de Longeval esőben úgy fest, mint egy filmben. Ebédre a trouville-i halpiac fedett finomságokat kínál, mielőtt meglátogatná Saint-Arnoult történelmi helyszíneit.",
+            "ro": "Cu mașina, explorați împrejurimile orașului Deauville confortabil, la uscat. De pe Mont Canisy aveți o vedere mistică asupra coastei, în ciuda norilor. Manoir de Longeval arată ca într-un film sub ploaie. Pentru prânz, piața de pește din Trouville oferă delicii la adăpost, înainte de a vizita locurile istorice din Saint-Arnoult.",
+            "en": "Explore the outskirts of Deauville comfortably by car, staying dry. From Mont Canisy, you get a misty, mystical view of the coast despite the clouds. Manoir de Longeval looks like something out of a movie in the rain. For lunch, Trouville's fish market offers sheltered delicacies before you head to the historical sites in Saint-Arnoult."
+          },
+          "stops": [
+            {
+              "name": "Mont Canisy",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Schauer kurz im Auto und genießen Sie die Aussicht.",
+                "hu": "Heves zápor esetén maradjon az autóban, és onnan élvezze a kilátást.",
+                "ro": "Rămâneți în mașină în timpul averselor puternice și admirați priveliștea.",
+                "en": "Stay in the car during heavy showers and enjoy the view from within."
+              }
+            },
+            {
+              "name": "Manoir de Longeval",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nass zu werden zu vermeiden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita să vă udați.",
+                "en": "Park as close to the entrance as possible to avoid getting wet."
+              }
+            },
+            {
+              "name": "Trouville Fish Market",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes zum Markt zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson el a piacra.",
+                "ro": "Folosiți parcarea supraetajată din apropiere pentru a ajunge uscat la piață.",
+                "en": "Use the nearby parking garage to reach the market with dry feet."
+              }
+            },
+            {
+              "name": "Saint-Arnoult",
+              "tip_5lang": {
+                "de": "Die schmalen Straßen können bei Nässe rutschig sein, fahren Sie vorsichtig.",
+                "hu": "A szűk utcák nedvesen csúszósak lehetnek, vezessen óvatosan.",
+                "ro": "Străzile înguste pot fi alunecoase când sunt ude, conduceți cu atenție.",
+                "en": "Narrow streets can be slippery when wet; drive carefully."
+              }
+            },
+            {
+              "name": "Belvédère de Deauville",
+              "tip_5lang": {
+                "de": "Die Scheibenwischer leisten Schwerstarbeit für diesen Panoramablick.",
+                "hu": "Az ablaktörlők keményen dolgoznak majd ezért a panorámáért.",
+                "ro": "Ștergătoarele vor munci din greu pentru această vedere panoramică.",
+                "en": "Wipers will be working hard for this panoramic view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Halten Sie einen Schirm im Auto bereit für den Weg vom Parkplatz.",
+              "Die Sicht kann durch Nebel am Mont Canisy eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach kurzen Stopps im Regen."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a parti úton.",
+              "Tartson esernyőt az autóban a parkolótól a bejáratig tartó útra.",
+              "A kilátást a Mont Canisy-nál köd korlátozhatja.",
+              "Használja az ülésfűtést az extra kényelemért az esős megállók után."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare la obiective.",
+              "Vizibilitatea poate fi redusă de ceață la Mont Canisy.",
+              "Folosiți încălzirea în scaune pentru confort sporit după opririle scurte în ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Keep an umbrella in the car for the walk from the parking lot.",
+              "Visibility might be limited by fog at Mont Canisy.",
+              "Use seat heaters for extra comfort after short stops in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto offenbart die raue Schönheit der Normandie. Der Mont Canisy bietet weite Blicke über das neblige Meer. Das Manoir de Longeval steht stolz in der kargen Winterlandschaft. Nach einem herzhaften Mittagessen am Fischmarkt in Trouville erkunden Sie das geschichtsträchtige Saint-Arnoult, bevor Sie den Tag am Belvédère ausklingen lassen.",
+            "hu": "Egy téli autós túra feltárja Normandia zord szépségét. A Mont Canisy-ról tágas kilátás nyílik a ködös tengerre. A Manoir de Longeval büszkén áll a kopár téli tájban. Egy kiadós ebéd után a trouville-i halpiacon, fedezze fel a történelmi Saint-Arnoult-ot, majd zárja a napot a Belvédère-nél.",
+            "ro": "Un tur cu mașina iarna dezvăluie frumusețea aspră a Normandiei. Mont Canisy oferă vederi largi peste marea încețoșată. Manoir de Longeval stă mândru în peisajul arid de iarnă. După un prânz copios la piața de pește din Trouville, explorați Saint-Arnoult, înainte de a încheia ziua la Belvédère.",
+            "en": "A winter car tour reveals the rugged beauty of Normandy. Mont Canisy offers expansive views over the misty sea. Manoir de Longeval stands proud in the stark winter landscape. After a hearty lunch at Trouville's fish market, explore historic Saint-Arnoult before ending your day at the Belvédère."
+          },
+          "stops": [
+            {
+              "name": "Mont Canisy",
+              "tip_5lang": {
+                "de": "Heizung an! Oben weht im Winter ein sehr kalter Wind.",
+                "hu": "Fűtést be! Fent télen nagyon hideg szél fúj.",
+                "ro": "Porniți căldura! Sus suflă un vânt foarte rece iarna.",
+                "en": "Heater on! A very cold wind blows at the top in winter."
+              }
+            },
+            {
+              "name": "Manoir de Longeval",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im tiefstehenden Winterlicht besonders plastisch.",
+                "hu": "A homlokzat a mélyen járó téli napfényben különösen látványos.",
+                "ro": "Fațada arată spectaculos în lumina joasă a soarelui de iarnă.",
+                "en": "The facade looks particularly striking in the low winter sunlight."
+              }
+            },
+            {
+              "name": "Trouville Fish Market",
+              "tip_5lang": {
+                "de": "Perfekt für ein warmes Mittagessen fernab der Kälte.",
+                "hu": "Tökéletes egy meleg ebédhez, távol a hidegtől.",
+                "ro": "Perfect pentru un prânz cald, departe de frig.",
+                "en": "Perfect for a warm lunch away from the cold."
+              }
+            },
+            {
+              "name": "Saint-Arnoult",
+              "tip_5lang": {
+                "de": "Die historische Kirche bietet einen stillen, warmen Rückzugsort.",
+                "hu": "A történelmi templom csendes, meleg menedéket nyújt.",
+                "ro": "Biserica istorică oferă un refugiu liniștit și cald.",
+                "en": "The historic church provides a quiet, warm retreat."
+              }
+            },
+            {
+              "name": "Belvédère de Deauville",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang bequem vom Fahrersitz aus.",
+                "hu": "Élvezze a naplementét kényelmesen a vezetőülésből.",
+                "ro": "Bucurați-vă de apus confortabil de pe scaunul șoferului.",
+                "en": "Enjoy the sunset comfortably from the driver's seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Straßenglätte in schattigen Waldstücken.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist Pflicht.",
+              "Die Batterie kann bei extremer Kälte schneller entladen – Licht aus beim Parken.",
+              "Halten Sie Decken im Auto bereit, falls Sie länger für die Aussicht halten."
+            ],
+            "hu": [
+              "Ügyeljen az útfelület jegesedésére az árnyékos erdős szakaszokon.",
+              "A szélvédőmosó fagyálló folyadéka kötelező.",
+              "Az akkumulátor hidegben gyorsabban merülhet – parkoláskor kapcsolja le a lámpákat.",
+              "Tartson takarókat az autóban, ha hosszabb időre megállna a kilátásért."
+            ],
+            "ro": [
+              "Atenție la polei în zonele împădurite și umbrite.",
+              "Antigelul în lichidul de parbriz este obligatoriu.",
+              "Bateria se poate descărca mai repede la frig – stingeți farurile la parcare.",
+              "Țineți pături în mașină dacă opriți mai mult pentru priveliște."
+            ],
+            "en": [
+              "Watch out for icy patches in shaded forest areas.",
+              "Antifreeze in the windshield washer fluid is a must.",
+              "The battery can drain faster in extreme cold; turn off lights when parking.",
+              "Keep blankets in the car if you plan to stop longer for the view."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -914,34 +1965,334 @@
           "Buses run more frequently in summer.",
           "There are lockers for luggage at the station."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus-Service, um bequem zwischen dem Bahnhof und den wichtigsten Sehenswürdigkeiten zu pendeln. Beginnen Sie am beeindruckenden Gare de Deauville.\n\nFahren Sie zur Place Morny, um das lokale Leben zu beobachten, bevor Sie den Bus zum Strand und dem Casino nehmen. Alles ist perfekt vernetzt.\n\nAm Nachmittag bringt Sie der Transit zum Reitzentrum, wo Sie mehr über die Pferdetradition der Region erfahren können. Kein Stress mit der Parkplatzsuche.\n\nBeenden Sie Ihre Tour am Hafen und kehren Sie entspannt mit dem Bus zum Ausgangspunkt zurück, während Sie die Aussicht genießen.",
+            "hu": "Használja a helyi buszjáratokat a vasútállomás és a főbb látnivalók közötti kényelmes közlekedéshez. Kezdjen a lenyűgöző Deauville-i pályaudvarnál.\n\nUtazzon a Place Morny-hoz, hogy megfigyelje a helyi életet, mielőtt busszal a strandra és a kaszinóhoz megy. Minden tökéletesen összekapcsolt.\n\nA délután folyamán a tömegközlekedés elviszi a lovasközponthoz, ahol többet megtudhat a régió lovas hagyományairól. Nincs stressz a parkolóhely keresése miatt.\n\nZárja a túrát a kikötőben, és térjen vissza pihentetően busszal a kiindulópontra, miközben élvezi a kilátást.",
+            "ro": "Folosiți serviciul local de autobuz pentru a naveta confortabil între gară și principalele atracții. Începeți la impresionanta Gară Deauville.\n\nMergeți la Place Morny pentru a observa viața locală, înainte de a lua autobuzul spre plajă și cazinou. Totul este perfect conectat.\n\nDupă-amiaza, transportul în comun vă duce la centrul hipic, unde puteți afla mai multe despre tradiția ecvestră a regiunii. Fără stresul căutării unui loc de parcare.\n\nÎncheiați turul în port și întoarceți-vă relaxat cu autobuzul la punctul de plecare, în timp ce vă bucurați de priveliște.",
+            "en": "Use the local bus service to commute comfortably between the station and the main attractions. Start at the impressive Deauville station.\n\nTravel to Place Morny to observe local life before taking the bus to the beach and the casino. Everything is perfectly connected.\n\nIn the afternoon, transit takes you to the equestrian center, where you can learn more about the region's horse tradition. No stress about finding a parking space.\n\nEnd your tour at the harbor and return relaxingly by bus to the starting point while enjoying the view."
+          },
+          "stops": [
+            {
+              "name": "Gare de Trouville-Deauville",
+              "tip_5lang": {
+                "de": "Ein prächtiges Bahnhofsgebäude im normannischen Stil.",
+                "hu": "Pompás pályaudvar normann stílusban.",
+                "ro": "O gară splendidă în stil normand.",
+                "en": "A magnificent station building in Norman style."
+              }
+            },
+            {
+              "name": "Place Morny",
+              "tip_5lang": {
+                "de": "Das Herz der Stadt mit eleganten Cafés.",
+                "hu": "A város szíve elegáns kávézókkal.",
+                "ro": "Inima orașului cu cafenele elegante.",
+                "en": "The heart of the city with elegant cafes."
+              }
+            },
+            {
+              "name": "Casino / Planches",
+              "tip_5lang": {
+                "de": "Zentraler Halt für Strand und Kasino.",
+                "hu": "Központi megálló a strandhoz és a kaszinóhoz.",
+                "ro": "Stație centrală pentru plajă și cazinou.",
+                "en": "Central stop for the beach and casino."
+              }
+            },
+            {
+              "name": "Pôle Hippique",
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit der Buslinie 21.",
+                "hu": "Könnyen elérhető a 21-es busszal.",
+                "ro": "Ușor accesibil cu linia de autobuz 21.",
+                "en": "Easily accessible with bus line 21."
+              }
+            },
+            {
+              "name": "Quai de la Marine",
+              "tip_5lang": {
+                "de": "Spaziergang entlang der Kaianlagen.",
+                "hu": "Séta a rakpartok mentén.",
+                "ro": "Plimbare pe de-a lungul cheiurilor.",
+                "en": "Stroll along the quays."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Patisserie Dupont",
+                "tip": "Probieren Sie die berühmten Macarons."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Patisserie Dupont",
+                "tip": "Kóstolja meg a híres macaronokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Patisserie Dupont",
+                "tip": "Gustați faimoasele macarons."
+              }
+            ],
+            "en": [
+              {
+                "name": "Patisserie Dupont",
+                "tip": "Try the famous macarons."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square de l'Église",
+                "tip": "Ein ruhiger Platz abseits der Buslinien.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Templom tér",
+                "tip": "Csendes tér a buszjáratoktól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Bisericii",
+                "tip": "O piață liniștită departe de liniile de autobuz.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church Square",
+                "tip": "A quiet square away from the bus lines.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutiques Place Morny",
+                "tip": "Elegante Kleidung und Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place Morny üzletek",
+                "tip": "Elegáns ruhák és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique-urile din Place Morny",
+                "tip": "Haine și accesorii elegante."
+              }
+            ],
+            "en": [
+              {
+                "name": "Place Morny Boutiques",
+                "tip": "Elegant clothing and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Bus.",
+              "Laden Sie die Nomad Car App für Echtzeitpläne herunter.",
+              "Die Busse fahren im Sommer häufiger.",
+              "Am Bahnhof gibt es Schließfächer für Gepäck."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra.",
+              "Töltse le a Nomad Car alkalmazást a valós idejű menetrendekhez.",
+              "A buszok nyáron gyakrabban közlekednek.",
+              "Az állomáson vannak csomagmegőrzők."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz.",
+              "Descărcați aplicația Nomad Car pentru orare în timp real.",
+              "Autobuzele circulă mai des vara.",
+              "La gară există dulapuri pentru bagaje."
+            ],
+            "en": [
+              "Buy a day ticket for the bus.",
+              "Download the Nomad Car app for real-time schedules.",
+              "Buses run more frequently in summer.",
+              "There are lockers for luggage at the station."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Deauville trocken zu erleben. Der Bahnhof ist ein architektonisches Juwel und bietet guten Schutz. Von der Place Morny aus erreichen Sie viele Geschäfte unter Arkaden. Das Casino ist nur einen kurzen Sprint von der Haltestelle entfernt. Den Nachmittag verbringen Sie am Quai de la Marine, wo die Busse in dichter Folge fahren.",
+            "hu": "Használja a tömegközlekedést, hogy szárazon ismerje meg Deauville-t. A pályaudvar építészeti remekmű és jó védelmet nyújt. A Place Morny-tól sok üzletet érhet el árkádok alatt. A kaszinó csak egy rövid sprintre van a megállótól. A délutánt töltse a Quai de la Marine-nál, ahol a buszok gyakran járnak.",
+            "ro": "Folosiți transportul public pentru a vedea Deauville fără a vă uda. Gara este o bijuterie arhitecturală și oferă protecție bună. De la Place Morny puteți ajunge la multe magazine sub arcade. Cazinoul este la doar un scurt sprint de stație. Petreceți după-amiaza la Quai de la Marine, unde autobuzele circulă frecvent.",
+            "en": "Use public transit to experience Deauville while staying dry. The train station is an architectural gem and offers great shelter. From Place Morny, many shops are reachable under arcades. The Casino is just a short dash from the bus stop. Spend your afternoon at Quai de la Marine, where buses run frequently."
+          },
+          "stops": [
+            {
+              "name": "Gare de Trouville-Deauville",
+              "tip_5lang": {
+                "de": "Warten Sie in der prachtvollen Bahnhofshalle auf den Bus.",
+                "hu": "Várjon a buszra a pompás pályaudvari csarnokban.",
+                "ro": "Așteptați autobuzul în holul splendid al gării.",
+                "en": "Wait for the bus inside the magnificent station hall."
+              }
+            },
+            {
+              "name": "Place Morny",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet ein kleines Wartehäuschen.",
+                "hu": "A buszmegálló rendelkezik egy kis várakozóhellyel.",
+                "ro": "Stația de autobuz are un mic adăpost pentru așteptare.",
+                "en": "The bus stop features a small shelter for waiting."
+              }
+            },
+            {
+              "name": "Casino / Planches",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Haltestelle und Casino minimieren die Regenzeit.",
+                "hu": "A megálló és a kaszinó közötti rövid táv minimalizálja az esőben töltött időt.",
+                "ro": "Distanța scurtă dintre stație și cazino minimizează timpul petrecut în ploaie.",
+                "en": "Short distance between the stop and the Casino minimizes time in the rain."
+              }
+            },
+            {
+              "name": "Pôle Hippique",
+              "tip_5lang": {
+                "de": "Achten Sie auf die elektronischen Anzeigen für die nächste Abfahrt.",
+                "hu": "Figyelje az elektronikus kijelzőket a következő járatig.",
+                "ro": "Urmăriți afișajele electronice pentru următoarea plecare.",
+                "en": "Watch the electronic displays for the next departure."
+              }
+            },
+            {
+              "name": "Quai de la Marine",
+              "tip_5lang": {
+                "de": "Die Buslinie 20 verbindet Deauville und Trouville auch bei Regen.",
+                "hu": "A 20-as buszjárat esőben is összeköti Deauville-t és Trouville-t.",
+                "ro": "Linia de autobuz 20 leagă Deauville și Trouville chiar și pe ploaie.",
+                "en": "Bus line 20 connects Deauville and Trouville even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App der örtlichen Verkehrsbetriebe für Echtzeit-Infos.",
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Einige Busse haben beschlagene Scheiben; achten Sie auf die Ansagen.",
+              "Die Wartehäuschen können bei starkem Wind etwas zugig sein."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást a valós idejű infókért.",
+              "Tartsa készenlétben a jegyét, hogy elkerülje a késedelmet felszálláskor.",
+              "Egyes buszokon párásodhat az ablak; figyeljen a bemondásokra.",
+              "A várók erős szélben huzatosak lehetnek."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru informații în timp real.",
+              "Aveți biletul la îndemână pentru a evita întârzierile la urcare.",
+              "Unele autobuze pot avea geamuri aburite; fiți atenți la anunțuri.",
+              "Adăposturile din stații pot fi puțin expuse la vânt puternic."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates.",
+              "Keep your ticket ready to avoid delays when boarding.",
+              "Some buses might have foggy windows; listen closely for stop announcements.",
+              "Bus shelters can be a bit drafty during strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit ist im Winter die wärmste Art, Deauville zu erkunden. Starten Sie am Bahnhof und genießen Sie die weihnachtliche Beleuchtung auf der Place Morny. Die Busse sind gut beheizt und bringen Sie direkt zum Casino. Am Nachmittag führt die Fahrt zum Pôle Hippique, bevor Sie am Quai de la Marine den Blick auf den winterlichen Hafen genießen.",
+            "hu": "Télen a tömegközlekedés a legmelegebb módja Deauville felfedezésének. Kezdjen a pályaudvarnál, és élvezze a karácsonyi fényeket a Place Morny-n. A buszok jól fűtöttek, és egyenesen a kaszinóhoz viszik. Délután utazzon el a Pôle Hippique-hez, majd a Quai de la Marine-nál csodálja meg a téli kikötőt.",
+            "ro": "Transportul în comun este cea mai călduroasă cale de a explora Deauville iarna. Începeți la gară și bucurați-vă de luminile de Crăciun din Place Morny. Autobuzele sunt bine încălzite și vă duc direct la Cazino. După-amiaza, mergeți la Pôle Hippique, înainte de a vedea portul iarna de la Quai de la Marine.",
+            "en": "Transit is the warmest way to explore Deauville in winter. Start at the station and enjoy the holiday lights at Place Morny. The buses are well-heated and take you straight to the Casino. In the afternoon, take a ride to Pôle Hippique before admiring the winter port at Quai de la Marine."
+          },
+          "stops": [
+            {
+              "name": "Gare de Trouville-Deauville",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bahnhof oft festlich beleuchtet.",
+                "hu": "Télen a pályaudvar gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Iarna, gara este adesea iluminată festiv.",
+                "en": "In winter, the station is often festively illuminated."
+              }
+            },
+            {
+              "name": "Place Morny",
+              "tip_5lang": {
+                "de": "Besuchen Sie die umliegenden Cafés für eine heiße Schokolade.",
+                "hu": "Látogasson el a környező kávézókba egy forró csokira.",
+                "ro": "Vizitați cafenelele din jur pentru o ciocolată caldă.",
+                "en": "Visit the nearby cafes for a hot chocolate."
+              }
+            },
+            {
+              "name": "Casino / Planches",
+              "tip_5lang": {
+                "de": "Die Busse fahren hier seltener als im Sommer, prüfen Sie den Fahrplan.",
+                "hu": "A buszok itt ritkábban járnak, mint nyáron, ellenőrizze a menetrendet.",
+                "ro": "Autobuzele circulă mai rar aici decât vara, verificați programul.",
+                "en": "Buses run less frequently here than in summer; check the schedule."
+              }
+            },
+            {
+              "name": "Pôle Hippique",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle zur Reithalle ist nötig.",
+                "hu": "Egy rövid séta szükséges a megállótól a lovardáig.",
+                "ro": "Este necesară o scurtă plimbare de la stație până la manej.",
+                "en": "A short walk from the stop to the riding arena is required."
+              }
+            },
+            {
+              "name": "Quai de la Marine",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Busfahrt entlang der Küste.",
+                "hu": "Élvezze a meleg buszozást a part mentén.",
+                "ro": "Bucurați-vă de drumul cu autobuzul încălzit de-a lungul coastei.",
+                "en": "Enjoy the warm bus ride along the coast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan (horaires d'hiver), der weniger Fahrten vorsieht.",
+              "Die Busse sind im Winter meist leerer und bieten viel Platz.",
+              "Tragen Sie eine Mütze, da es beim Warten an der Haltestelle ziehen kann.",
+              "Die Abfahrtzeiten können sich bei Schnee oder Glätte leicht verzögern."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre (horaires d'hiver), amely kevesebb járatot tartalmaz.",
+              "A buszok télen többnyire üresebbek, sok a szabad hely.",
+              "Viseljen sapkát, mert a megállóban való várakozás közben fújhat a szél.",
+              "Hó vagy jegesedés esetén a járatok menetideje kissé növekedhet."
+            ],
+            "ro": [
+              "Fiți atenți la orarul de iarnă (horaires d'hiver), care are mai puține curse.",
+              "Autobuzele sunt de obicei mai libere iarna și oferă mult spațiu.",
+              "Purtați o căciulă, deoarece poate fi curent în timp ce așteptați în stație.",
+              "Orele de plecare pot avea mici întârzieri în caz de zăpadă sau polei."
+            ],
+            "en": [
+              "Note the winter schedule (horaires d'hiver), which has fewer services.",
+              "Buses are usually less crowded in winter, offering plenty of space.",
+              "Wear a hat as it can be drafty while waiting at the bus stop.",
+              "Departure times may be slightly delayed during snow or icy conditions."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.indeauville.fr/",
-    "events": "https://www.indeauville.fr/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.bus-verts.com/",
-    "language_tips": {
-      "de": "Deauville spricht klares, fast Pariser Franzoesisch (Wochenendziel der Pariser Elite). Englisch in Hotels, Casino und am Filmfestival sehr verbreitet. Stil und Hoeflichkeit wichtig: 'Bonjour madame/monsieur' streng beachten.",
-      "hu": "Deauville tiszta, szinte parizsi franciat beszel (a parizsi elit hetvegi celpontja). A szallodakban, kaszinoban es a filmfesztivalon sok az angol. Stilus es udvariassag fontos: a 'bonjour madame/monsieur' szigoruan kovetendo.",
-      "ro": "Deauville vorbeste o franceza clara, aproape pariziana (destinatie de weekend a elitei pariziene). Engleza e foarte prezenta la hoteluri, cazinou si la festivalul de film. Stilul si politetea conteaza: 'Bonjour madame/monsieur' obligatoriu.",
-      "en": "Deauville speaks crisp near-Parisian French (it's the Paris elite's weekend retreat). English is widely used in hotels, the casino and at the film festival. Style and manners count — 'Bonjour madame/monsieur' is strictly expected."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September fuer Strand und Promenade (15-22 Grad), Pferderennen und Polo Juli-August, American Film Festival Anfang September weltweit bekannt. Winter mild und nass (5-9 Grad), Casino und Spa offen, fast leere Strandpromenade.",
-      "hu": "Majus-szeptember strandra es promenadra (15-22 fok), lovaglas es polo julius-augusztusban, az American Film Festival szeptember elejen vilaghiru. Tel enyhe es nyirkos (5-9 fok), kaszino es spa nyitva, szinte ures strandsetany.",
-      "ro": "Mai-septembrie pentru plaja si promenada (15-22 grade), curse de cai si polo in iulie-august, American Film Festival la inceput de septembrie e celebru in lume. Iarna e blanda si umeda (5-9 grade), cazinoul si spa-ul sunt deschise, promenada aproape goala.",
-      "en": "May-September for beach and boardwalk (15-22°C), horse racing and polo in July-August, the world-famous American Film Festival in early September. Winter is mild and wet (5-9°C), casino and spa stay open, the boardwalk is almost empty."
-    },
-    "neighborhood_warnings": {
-      "de": "Deauville ist extrem sicher, gehobenes Niveau. Strand-Promenade auch nachts beleuchtet und ueberwacht. Hauptbahnhof Trouville-Deauville tagsueber okay, nachts ruhig. Achtung: Parkgebuehren sehr hoch.",
-      "hu": "Deauville rendkivul biztonsagos, eleg uri. A strand-promenad ejjel is kivilagitott es felugyelt. A Trouville-Deauville allomas nappal rendben, ejjel csendes. Figyelem: a parkolas nagyon draga.",
-      "ro": "Deauville e extrem de sigur, nivel inalt. Promenada de la plaja e iluminata si supravegheata si noaptea. Gara Trouville-Deauville e ok ziua, linistita noaptea. Atentie: parcarea e foarte scumpa.",
-      "en": "Deauville is extremely safe — high-end resort. The boardwalk stays lit and watched at night. Trouville-Deauville station is fine by day, calm at night. Note: parking fees are very high."
-    },
-    "parking_real_time": ""
   }
 }

@@ -343,6 +343,482 @@
           "Visit the market on Wednesday or Sunday morning.",
           "Follow the 'Chemin du Fauvisme' for art reproductions."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Erkundung des majestätischen Château Royal, bevor Sie die ikonische Kirche am Meer besuchen. Schlendern Sie mittags durch die malerischen Gassen des Mouré-Viertels und genießen Sie frische Meeresfrüchte im Hafen. Der Nachmittag lädt zum Entspannen am Kieselstrand von Boramar ein. Beenden Sie den Tag mit einem Spaziergang zur alten Windmühle und einem Besuch im Museum für Moderne Kunst, um das Erbe von Matisse und Derain zu bewundern.",
+            "hu": "Kezdje a napot a fenséges Királyi Vár felfedezésével, majd látogasson el az ikonikus tengerparti templomba. Délben barangoljon a Mouré negyed festői utcáin, és kóstolja meg a friss tenger gyümölcseit a kikötőben. A délután a pihenésé a Boramar kavicsos strandján. Zárja a napot egy sétával a régi szélmalomhoz és a Modern Művészetek Múzeumához, ahol megcsodálhatja Matisse és Derain örökségét.",
+            "ro": "Începeți ziua explorând maiestuosul Castel Regal, înainte de a vizita biserica iconică de pe malul mării. La prânz, plimbați-vă pe străzile pitorești ale cartierului Mouré și savurați fructe de mare proaspete în port. După-amiaza vă invită la relaxare pe plaja cu pietriș Boramar. Încheiați ziua cu o plimbare până la vechea moară de vânt și o vizită la Muzeul de Artă Modernă pentru a admira moștenirea lui Matisse și Derain.",
+            "en": "Start your day exploring the majestic Royal Castle before visiting the iconic seaside church. At midday, wander through the picturesque streets of the Mouré district and taste fresh seafood at the port. The afternoon invites relaxation on the pebble beach of Boramar. End the day with a walk to the old windmill and a visit to the Museum of Modern Art to admire the legacy of Matisse and Derain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Collioure királyi vára",
+                "ro": "Castelul Regal din Collioure",
+                "en": "Royal Castle of Collioure"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie Tickets online, um die Warteschlangen am Eingang zu vermeiden.",
+                "hu": "Foglalj jegyet online, hogy elkerüld a várakozást a bejáratnál.",
+                "ro": "Rezervă bilete online pentru a evita cozile de la intrare.",
+                "en": "Book tickets online to avoid the queues at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-des-Anges",
+                "hu": "Notre-Dame-des-Anges templom",
+                "ro": "Biserica Notre-Dame-des-Anges",
+                "en": "Church of Notre-Dame-des-Anges"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild im Inneren der Kirche.",
+                "hu": "Csodáld meg a templom belsejében található barokk oltárképet.",
+                "ro": "Admiră retablul baroc din interiorul bisericii.",
+                "en": "Admire the baroque altarpiece inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier du Mouré",
+                "hu": "Mouré negyed",
+                "ro": "Cartierul Mouré",
+                "en": "Quartier du Mouré"
+              },
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in den farbenfrohen Gassen dieses alten Fischerviertels.",
+                "hu": "Vessz el a régi halásznegyed színes, szűk utcácskáiban.",
+                "ro": "Pierde-te pe străduțele colorate ale acestui vechi cartier pescăresc.",
+                "en": "Lose yourself in the colorful narrow streets of this old fishing district."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen im Hafen",
+                "hu": "Ebéd a kikötőben",
+                "ro": "Prânz în port",
+                "en": "Lunch at the Port"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die berühmten Sardellen von Collioure.",
+                "hu": "Kóstold meg a híres collioure-i szardellát.",
+                "ro": "Încearcă faimoasele anșoa din Collioure.",
+                "en": "Try the famous anchovies of Collioure."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Boramar",
+                "hu": "Boramar strand",
+                "ro": "Plaja Boramar",
+                "en": "Boramar Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein erfrischendes Bad im Schatten der Kirche.",
+                "hu": "Élvezz egy frissítő csobbanást a templom árnyékában.",
+                "ro": "Bucură-te de o baie răcoritoare la umbra bisericii.",
+                "en": "Enjoy a refreshing dip in the shadow of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Collioure",
+                "hu": "Collioure-i szélmalom",
+                "ro": "Moara din Collioure",
+                "en": "Windmill of Collioure"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Panoramafoto der Bucht.",
+                "hu": "Tökéletes helyszín egy panorámás fotóhoz az öbölről.",
+                "ro": "Locul perfect pentru o fotografie panoramică a golfului.",
+                "en": "Perfect spot for a panoramic photo of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Moderne Kunst",
+                "hu": "Modern Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Modernă",
+                "en": "Museum of Modern Art"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Werke der Fauvisten, die hier Inspiration fanden.",
+                "hu": "Fedezd fel a fauvisták műveit, akik itt találtak ihletet.",
+                "ro": "Descoperă operele fauviștilor care și-au găsit inspirația aici.",
+                "en": "Discover the works of the Fauvists who found inspiration here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anchois Roque",
+                "tip": "Probieren Sie die handwerklich hergestellten Sardellen."
+              },
+              {
+                "name": "Le 5ème Péché",
+                "tip": "Kreative mediterrane Küche mit lokalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Anchois Roque",
+                "tip": "Kóstold meg a hagyományos módon készült szardellákat."
+              },
+              {
+                "name": "Le 5ème Péché",
+                "tip": "Kreatív mediterrán konyha helyi alapanyagokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anchois Roque",
+                "tip": "Încearcă anșoa preparate artizanal."
+              },
+              {
+                "name": "Le 5ème Péché",
+                "tip": "Bucătărie mediteraneană creativă cu produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Anchois Roque",
+                "tip": "Try the artisanally prepared anchovies."
+              },
+              {
+                "name": "Le 5ème Péché",
+                "tip": "Creative Mediterranean cuisine with local products."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Moulin de Collioure",
+                "tip": "Ein ruhiger Ort mit Blick auf das Meer.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Strand von Saint-Vincent",
+                "tip": "Eine kleinere Bucht hinter der Kirche.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Collioure-i szélmalom",
+                "tip": "Nyugodt hely kilátással a tengerre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Saint-Vincent strand",
+                "tip": "Kisebb öböl a templom mögött.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Moara din Collioure",
+                "tip": "Un loc liniștit cu vedere la mare.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Plaja Saint-Vincent",
+                "tip": "Un golf mic în spatele bisericii.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Windmill of Collioure",
+                "tip": "A quiet spot with a view of the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Saint-Vincent Beach",
+                "tip": "A smaller cove behind the church.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt (Mittwoch/Sonntag)",
+                "tip": "Lokale Produkte und Kunsthandwerk."
+              },
+              {
+                "name": "Les Toiles du Soleil",
+                "tip": "Typisch katalanische Stoffe und Textilien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac (szerda/vasárnap)",
+                "tip": "Helyi termékek és kézműves áruk."
+              },
+              {
+                "name": "Les Toiles du Soleil",
+                "tip": "Tipikus katalán szövetek és textíliák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală (miercuri/duminică)",
+                "tip": "Produse locale și artizanat."
+              },
+              {
+                "name": "Les Toiles du Soleil",
+                "tip": "Țesături și textile tipic catalane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market (Wednesday/Sunday)",
+                "tip": "Local products and handicrafts."
+              },
+              {
+                "name": "Les Toiles du Soleil",
+                "tip": "Typical Catalan fabrics and textiles."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die gepflasterten Gassen.",
+              "Die Stadt ist klein und lässt sich am besten zu Fuß erkunden.",
+              "Besuchen Sie den Markt am Mittwoch- oder Sonntagmorgen.",
+              "Folgen Sie dem 'Chemin du Fauvisme' für Kunstreproduktionen."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+              "A város kicsi, a legjobb gyalogosan felfedezni.",
+              "Látogass el a piacra szerda vagy vasárnap délelőtt.",
+              "Kövesd a 'Chemin du Fauvisme' útvonalat a művészeti másolatokért."
+            ],
+            "ro": [
+              "Poartă încălțăminte confortabilă pentru străzile pietruite.",
+              "Orașul este mic și cel mai bine este explorat la pas.",
+              "Vizitează piața miercuri sau duminică dimineața.",
+              "Urmează 'Chemin du Fauvisme' pentru reproduceri de artă."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobbled streets.",
+              "The town is small and best explored on foot.",
+              "Visit the market on Wednesday or Sunday morning.",
+              "Follow the 'Chemin du Fauvisme' for art reproductions."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt hinter den dicken Mauern des Château Royal, wo die Geschichte der Könige von Mallorca trocken erlebbar bleibt. Mittags bieten die Arkaden am Hafen Schutz, während man bei einem Glas Banyuls dem Prasseln des Regens auf das Mittelmeer lauscht. Am Nachmittag führen schmale Gassen zum Museum für Moderne Kunst, einem idealen Rückzugsort voller Farben. Der Abend klingt gemütlich in einer der Weinstuben der Altstadt aus.",
+            "hu": "A reggel a királyi vár vastag falai között indul, ahol a középkori termek menedéket nyújtanak az eső elől. Délben a kikötő fedett teraszain élvezzük a tenger látványát, miközben a helyi szardellát kóstoljuk. Délután a Mouré negyed szűk utcáin át az eresz alatt osonunk a modern művészeti múzeum felé. Az este a városka belső, meghitt borozóiban ér véget, távol a nedves szél sziszegésétől.",
+            "ro": "Dimineața începe la adăpostul zidurilor groase ale Castelului Regal, unde istoria regilor de Mallorca rămâne accesibilă chiar și pe ploaie. La prânz, arcadele din port oferă protecție în timp ce ascultați sunetul stropilor căzând în Mediterană. După-amiaza, străzile înguste duc spre Muzeul de Artă Modernă, refugiul ideal plin de culoare. Seara se încheie confortabil într-una dintre cramele intime din centrul vechi.",
+            "en": "The morning starts protected behind the thick walls of the Royal Castle, where the history of the Kings of Majorca remains dry and accessible. At noon, the covered terraces at the harbor offer shelter while you listen to the rain hitting the Mediterranean. In the afternoon, narrow alleys lead to the Museum of Modern Art, a perfect colorful refuge. The evening ends cozily in one of the old town's intimate wine cellars, away from the damp wind."
+          },
+          "stops": [
+            {
+              "name": "Royal Castle of Collioure",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume und Kapellen als Regenschutz.",
+                "hu": "Használja a belső termeket és kápolnákat esővédőként.",
+                "ro": "Folosiți încăperile interioare și capelele ca adăpost.",
+                "en": "Use the indoor chambers and chapels as rain shelter."
+              }
+            },
+            {
+              "name": "Church of Notre-Dame-des-Anges",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy heves zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Quartier du Mouré",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster wird bei Nässe rutschig.",
+                "hu": "Vigyázat, a macskaköves út nedvesen csúszóssá válik.",
+                "ro": "Atenție, pavajul devine alunecos când este umed.",
+                "en": "Caution, the cobblestones become slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch at the Port",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit festem Vordach.",
+                "hu": "Válasszon stabil előtetővel rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu o copertină solidă.",
+                "en": "Choose a restaurant with a solid permanent awning."
+              }
+            },
+            {
+              "name": "Boramar Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen vom Ufer aus.",
+                "hu": "Figyelje a drámai hullámokat a partról, távol a víztől.",
+                "ro": "Observați valurile dramatice de pe mal, departe de apă.",
+                "en": "Watch the dramatic waves from the shore, away from the water."
+              }
+            },
+            {
+              "name": "Windmill of Collioure",
+              "tip_5lang": {
+                "de": "Der Weg nach oben kann bei Regen schlammig sein.",
+                "hu": "A felfelé vezető út esőben sáros lehet.",
+                "ro": "Drumul spre culme poate fi noroios pe ploaie.",
+                "en": "The path uphill can be muddy during rain."
+              }
+            },
+            {
+              "name": "Museum of Modern Art",
+              "tip_5lang": {
+                "de": "Ideales Ziel für einen verregneten Nachmittag.",
+                "hu": "Ideális úticél egy esős délutánra.",
+                "ro": "Destinația ideală pentru o după-amiază ploioasă.",
+                "en": "Ideal destination for a rainy afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke statt eines Schirms wegen der starken Windböen am Meer.",
+              "Die Museen und das Schloss bieten viele überdachte Ausstellungsflächen.",
+              "Die Arkadenwege in der Altstadt helfen, trocken zwischen den Läden zu wechseln.",
+              "Warme Schokolade in den Cafés am Place du 18 Juin wärmt nach dem Spaziergang auf.",
+              "Prüfen Sie die Wettervorhersage für das 'Marinada'-Phänomen (feuchter Ostwind)."
+            ],
+            "hu": [
+              "Válasszon esőkabátot esernyő helyett a tengerparti erős széllökések miatt.",
+              "A múzeumok és a vár rengeteg fedett kiállítóteret kínálnak.",
+              "Az óváros boltíves átjárói segítenek szárazon közlekedni az üzletek között.",
+              "A Place du 18 Juin kávézóiban egy forró csokoládé átmelegíti a séta után.",
+              "Ellenőrizze a 'Marinada' (párás keleti szél) érkezését a várható csapadék miatt."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie în loc de umbrelă din cauza rafalelor de vânt marine.",
+              "Muzeele și castelul oferă multe spații expoziționale acoperite.",
+              "Pasajele boltite din orașul vechi vă ajută să rămâneți uscați între magazine.",
+              "O ciocolată caldă în cafenelele din Place du 18 Juin vă va încălzi după plimbare.",
+              "Verificați prognoza pentru fenomenul 'Marinada' (vânt umed dinspre est)."
+            ],
+            "en": [
+              "Wear a raincoat instead of an umbrella due to strong coastal wind gusts.",
+              "The museums and the castle offer plenty of indoor exhibition spaces.",
+              "The arched passages in the old town help you stay dry while moving between shops.",
+              "A hot chocolate in the cafes at Place du 18 Juin warms you up after the walk.",
+              "Check the forecast for the 'Marinada' phenomenon (humid east wind)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter glänzt Collioure im klaren Licht der Tramontane. Der Morgen am Schloss ist ruhig, ohne die sommerlichen Massen. Mittags wärmt die tiefstehende Sonne die Plätze, während man kräftige Fischgerichte in den Restaurants genießt. Am Nachmittag leuchtet der Kirchturm vor dem tiefblauen Himmel besonders intensiv. Da die Sonne bereits gegen 17:00 Uhr hinter den Pyrenäen verschwindet, bietet das Museum am späten Nachmittag eine wohlig warme Atmosphäre.",
+            "hu": "Télen Collioure a Tramontane szél tiszta fényében ragyog. A reggel a várnál csendes, a nyári tömeg nélkül. Délben a gyenge napfényben a tereken falatozunk, laktató hallevest rendelve. Délután a templomtorony szinte világít a mélykék égbolt előtt. Mivel a nap már 17:00 körül eltűnik a Pireneusok mögött, a késő délutáni múzeumlátogatás kellemesen meleg lezárása a napnak.",
+            "ro": "Iarna, Collioure strălucește în lumina clară adusă de vântul Tramontane. Dimineața la castel este liniștită, fără mulțimile estivale. La prânz, soarele blând încălzește piețele, timp în care savurați preparate consistente din pește. După-amiaza, turnul bisericii luminează intens pe fundalul cerului albastru închis. Deoarece soarele apune după Pirinei în jur de ora 17:00, muzeul oferă o atmosferă caldă la finalul zilei.",
+            "en": "In winter, Collioure shines in the clear light brought by the Tramontane wind. The morning at the castle is quiet, free from summer crowds. At noon, the low sun warms the squares while you enjoy hearty fish dishes. In the afternoon, the church tower glows intensely against the deep blue sky. Since the sun disappears behind the Pyrenees around 5:00 PM, the museum offers a warm atmosphere for the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Royal Castle of Collioure",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen, genießen Sie die Stille der Geschichte.",
+                "hu": "Nincsenek sorok, élvezze a történelem csendjét.",
+                "ro": "Fără cozi, bucurați-vă de liniștea istoriei.",
+                "en": "No queues, enjoy the silence of history."
+              }
+            },
+            {
+              "name": "Church of Notre-Dame-des-Anges",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen im Wind.",
+                "hu": "Odabent gyakran melegebb van, mint kint a szélben.",
+                "ro": "În interior este adesea mai cald decât afară în vânt.",
+                "en": "It is often warmer inside than outside in the wind."
+              }
+            },
+            {
+              "name": "Quartier du Mouré",
+              "tip_5lang": {
+                "de": "Die bunten Häuser leuchten im klaren Winterlicht.",
+                "hu": "A színes házak ragyognak a tiszta téli fényben.",
+                "ro": "Casele colorate strălucesc în lumina clară de iarnă.",
+                "en": "The colorful houses glow in the clear winter light."
+              }
+            },
+            {
+              "name": "Lunch at the Port",
+              "tip_5lang": {
+                "de": "Probieren Sie die typische 'Bouillabaisse' zum Aufwärmen.",
+                "hu": "Próbálja ki a tipikus 'Bouillabaisse'-t az átmelegedéshez.",
+                "ro": "Încercați o 'Bouillabaisse' tipică pentru a vă încălzi.",
+                "en": "Try a typical 'Bouillabaisse' to warm up."
+              }
+            },
+            {
+              "name": "Boramar Beach",
+              "tip_5lang": {
+                "de": "Ein erfrischender Spaziergang, warme Kleidung nötig.",
+                "hu": "Frissítő séta, meleg ruházat szükséges.",
+                "ro": "O plimbare revigorantă, necesită haine groase.",
+                "en": "A refreshing walk, warm clothing required."
+              }
+            },
+            {
+              "name": "Windmill of Collioure",
+              "tip_5lang": {
+                "de": "Sehr windexponiert, schützen Sie Ohren und Hände.",
+                "hu": "Erősen szeles hely, védje a fülét és a kezét.",
+                "ro": "Loc foarte expus vântului, protejați-vă urechile și mâinile.",
+                "en": "Very wind-exposed, protect your ears and hands."
+              }
+            },
+            {
+              "name": "Museum of Modern Art",
+              "tip_5lang": {
+                "de": "Perfekter Ort für die Zeit nach Sonnenuntergang.",
+                "hu": "Tökéletes hely a naplemente utáni időszakra.",
+                "ro": "Locul perfect pentru perioada de după apus.",
+                "en": "Perfect place for the period after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tramontane kann sehr kalt sein; Windstopper-Kleidung ist essentiell.",
+              "Sonnenuntergang ist bereits gegen 17:00 Uhr hinter den Bergen.",
+              "Viele Cafés schließen früher als im Sommer, nutzen Sie den Mittag.",
+              "Besuchen Sie die Weinkeller für eine Verkostung im Warmen.",
+              "Das Licht ist ideal für Fotografen, da es weniger Dunst gibt."
+            ],
+            "hu": [
+              "A Tramontane szél nagyon hideg lehet; a szélálló ruházat elengedhetetlen.",
+              "A naplemente már 17:00 körül bekövetkezik a hegyek mögött.",
+              "Sok kávézó korábban zár, mint nyáron, használja ki a déli órákat.",
+              "Látogassa meg a borospincéket egy meleg környezetben történő kóstolóra.",
+              "A fényviszonyok ideálisak a fotósoknak, mivel kevesebb a pára."
+            ],
+            "ro": [
+              "Vântul Tramontane poate fi foarte rece; hainele windstopper sunt esențiale.",
+              "Apusul are loc deja în jur de ora 17:00, după munți.",
+              "Multe cafenele închid mai devreme decât vara, profitați de orele prânzului.",
+              "Vizitați cramele pentru o degustare într-un mediu călduros.",
+              "Lumina este ideală pentru fotografi, fiind mai puțină umiditate în aer."
+            ],
+            "en": [
+              "The Tramontane wind can be very cold; windstopper clothing is essential.",
+              "Sunset is already around 5:00 PM behind the mountains.",
+              "Many cafes close earlier than in summer; make the most of the midday hours.",
+              "Visit the wine cellars for a tasting in a warm environment.",
+              "The light is ideal for photographers as there is less haze."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -657,6 +1133,450 @@
           "The coastal road D914 offers fantastic views.",
           "Watch out for the wind (Tramontane), which can be strong."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der atemberaubenden Côte Vermeille. Beginnen Sie entspannt am Hafen von Collioure, bevor Sie den anspruchsvollen Aufstieg zum Fort Saint-Elme wagen. Belohnt werden Sie mit einem 360-Grad-Blick. Weiter geht es zum geschäftigen Fischereihafen von Port-Vendres für eine Pause. Der Nachmittag gehört der idyllischen Paulilles-Bucht, einem ehemaligen Fabrikgelände, das heute ein Naturparadies ist. Radeln Sie durch die terrassierten Weinberge zurück, während die Sonne langsam tiefer sinkt.",
+            "hu": "Ez a kerékpártúra a lélegzetelállító Côte Vermeille mentén vezet. Kezdjen lazán Collioure kikötőjében, mielőtt belevágna a Szent Elmo erődbe vezető kihívást jelentő emelkedőbe. A jutalom egy 360 fokos panoráma lesz. Folytassa az utat Port-Vendres nyüzsgő halászkikötőjébe egy pihenőre. A délután az idilli Paulilles-öbölé, amely egykori gyárterületből lett természeti paradicsom. Tekerjen vissza a teraszos szőlőültetvényeken keresztül, miközben a nap lassan leereszkedik.",
+            "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei uluitoare Côte Vermeille. Începeți relaxat în portul Collioure înainte de a aborda urcarea provocatoare către Fortul Saint-Elme. Veți fi recompensați cu o vedere panoramică de 360 de grade. Continuați spre portul pescăresc plin de viață Port-Vendres pentru o pauză. După-amiaza aparține idilicului golf Paulilles, o fostă zonă industrială devenită paradis natural. Pedalați înapoi prin podgoriile terasate în timp ce soarele coboară încet.",
+            "en": "This bike tour takes you along the stunning Côte Vermeille. Start relaxed at the harbor of Collioure before tackling the challenging climb to Fort Saint-Elme. You will be rewarded with a 360-degree panorama. Continue to the busy fishing port of Port-Vendres for a break. After-noon belongs to the idyllic Paulilles Bay, a former factory site turned natural paradise. Cycle back through the terraced vineyards as the sun slowly sets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafenpromenade",
+                "hu": "Kikötői sétány",
+                "ro": "Promenada portului",
+                "en": "Harbor Promenade"
+              },
+              "tip_5lang": {
+                "de": "Flache Strecke ideal für den Start.",
+                "hu": "Lapos szakasz, ideális kezdésnek.",
+                "ro": "Traseu plat, ideal pentru început.",
+                "en": "Flat stretch ideal for starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Elme",
+                "hu": "Szent Elmo erőd",
+                "ro": "Fortul Saint-Elme",
+                "en": "Fort Saint-Elme"
+              },
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, aber die Aussicht ist es wert.",
+                "hu": "Meredek emelkedő, de a kilátás megéri.",
+                "ro": "Urcare abruptă, dar priveliștea merită.",
+                "en": "Steep climb, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Port-Vendres",
+                "hu": "Port-Vendres kikötője",
+                "ro": "Portul din Port-Vendres",
+                "en": "Port of Port-Vendres"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Mittagessen mit frischem Fisch.",
+                "hu": "Tökéletes egy friss halas ebédhez.",
+                "ro": "Perfect pentru un prânz cu pește proaspăt.",
+                "en": "Perfect for a fresh fish lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Paulilles Bucht",
+                "hu": "Paulilles-öböl",
+                "ro": "Golful Paulilles",
+                "en": "Paulilles Bay"
+              },
+              "tip_5lang": {
+                "de": "Wunderschönes Naturschutzgebiet am Meer.",
+                "hu": "Gyönyörű természetvédelmi terület a tengerparton.",
+                "ro": "Frumoasă rezervație naturală la malul mării.",
+                "en": "Beautiful nature reserve by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge von Banyuls",
+                "hu": "Banyuls szőlőültetvényei",
+                "ro": "Podgoriile din Banyuls",
+                "en": "Vineyards of Banyuls"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über den berühmten Dessertwein.",
+                "hu": "Tudj meg többet a híres desszertborról.",
+                "ro": "Află mai multe despre faimosul vin de desert.",
+                "en": "Learn more about the famous dessert wine."
+              }
+            },
+            {
+              "name": {
+                "de": "Rückkehr nach Collioure",
+                "hu": "Visszatérés Collioure-ba",
+                "ro": "Întoarcerea în Collioure",
+                "en": "Return to Collioure"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Abfahrt mit Blick auf die Stadt.",
+                "hu": "Élvezd a lejtőt a városra nyíló kilátással.",
+                "ro": "Bucură-te de coborâre cu vederea spre oraș.",
+                "en": "Enjoy the descent with the view of the town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Côté Catalan",
+                "tip": "Hervorragende Tapas in Port-Vendres."
+              },
+              {
+                "name": "Banyuls Weinverkostung",
+                "tip": "Besuchen Sie eine lokale Genossenschaft."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Côté Catalan",
+                "tip": "Kiváló tapasok Port-Vendres-ben."
+              },
+              {
+                "name": "Banyuls borkóstoló",
+                "tip": "Látogass el egy helyi szövetkezethez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Côté Catalan",
+                "tip": "Tapas excelente în Port-Vendres."
+              },
+              {
+                "name": "Degustare de vin Banyuls",
+                "tip": "Vizitează o cooperativă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Côté Catalan",
+                "tip": "Excellent tapas in Port-Vendres."
+              },
+              {
+                "name": "Banyuls Wine Tasting",
+                "tip": "Visit a local cooperative."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Paulilles Gärten",
+                "tip": "Ein friedlicher Park direkt am Strand.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Kap Béar",
+                "tip": "Ruhiger Leuchtturm weit weg vom Trubel.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paulilles kertjei",
+                "tip": "Békés park közvetlenül a tengerparton.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Béar-fok",
+                "tip": "Csendes világítótorony távol a tömegtől.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Paulilles",
+                "tip": "Un parc liniștit direct pe plajă.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Cap Béar",
+                "tip": "Far liniștit departe de agitație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Paulilles Gardens",
+                "tip": "A peaceful park right by the beach.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Cap Béar",
+                "tip": "Quiet lighthouse far from the crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Maison de l'Anchois",
+                "tip": "Spezialitätenladen in Port-Vendres."
+              },
+              {
+                "name": "Katalanische Keramik",
+                "tip": "In den kleinen Läden an der Küste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maison de l'Anchois",
+                "tip": "Szardella szaküzlet Port-Vendres-ben."
+              },
+              {
+                "name": "Katalán kerámiák",
+                "tip": "A parti kis üzletekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Maison de l'Anchois",
+                "tip": "Magazin de specialități în Port-Vendres."
+              },
+              {
+                "name": "Ceramică catalană",
+                "tip": "În micile magazine de pe coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Maison de l'Anchois",
+                "tip": "Anchovy specialty shop in Port-Vendres."
+              },
+              {
+                "name": "Catalan Ceramics",
+                "tip": "In the small shops along the coast."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike wird für die steilen Hügel dringend empfohlen.",
+              "Nehmen Sie ausreichend Wasser und Sonnenschutz mit.",
+              "Die Küstenstraße D914 bietet fantastische Ausblicke.",
+              "Achten Sie auf den Wind (Tramontane), der stark sein kann."
+            ],
+            "hu": [
+              "Az elektromos kerékpár erősen ajánlott a meredek dombokhoz.",
+              "Vigyél magaddal elég vizet és naptejet.",
+              "A D914-es parti út fantasztikus kilátást nyújt.",
+              "Figyelj a szélre (Tramontane), ami néha nagyon erős lehet."
+            ],
+            "ro": [
+              "O bicicletă electrică este recomandată pentru dealurile abrupte.",
+              "Ia cu tine suficientă apă și cremă de protecție solară.",
+              "Drumul de coastă D914 oferă priveliști fantastice.",
+              "Atenție la vânt (Tramontane), care poate fi puternic."
+            ],
+            "en": [
+              "An e-bike is highly recommended for the steep hills.",
+              "Take plenty of water and sunscreen with you.",
+              "The coastal road D914 offers fantastic views.",
+              "Watch out for the wind (Tramontane), which can be strong."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Küstenstraße dramatische Ausblicke. Der Morgen führt vorsichtig zum Fort Saint-Elme, wo man unter steinernen Bögen Schutz findet. Mittags ist Port-Vendres ein rustikaler Ankerplatz mit Fischhallen zum Aufwärmen. Am Nachmittag radeln wir durch die nebligen Weinberge zur Paulilles-Bucht. Der Rückweg erfordert volle Konzentration auf den rutschigen Kurven, bevor man den Tag bei einem heißen Tee beendet.",
+            "hu": "Az eső ellenére a parti út drámai látványt nyújt. Reggel óvatosan tekerünk a Fort Saint-Elme felé, ahol a kőívek alatt találunk menedéket. Délben Port-Vendres rusztikus kikötője és a halpiac kínál fedett pihenőt. Délután a ködös szőlőültetvények között érjük el a Paulilles-öblöt. A visszautazás teljes koncentrációt igényel a csúszós kanyarokban a forró tea előtt.",
+            "ro": "În ciuda ploii, drumul de coastă oferă priveliști dramatice. Dimineața duce cu atenție spre Fort Saint-Elme, unde găsiți adăpost sub arcadele de piatră. La prânz, Port-Vendres este un punct de ancorare rustic cu hale de pește unde vă puteți încălzi. După-amiaza pedalăm prin podgoriile cețoase spre golful Paulilles. Întoarcerea necesită concentrare maximă pe virajele umede.",
+            "en": "Despite the rain, the coastal road offers dramatic views. The morning leads carefully to Fort Saint-Elme, where you find shelter under stone arches. At noon, Port-Vendres is a rustic anchor point with fish halls to warm up in. In the afternoon, we cycle through misty vineyards to Paulilles Bay. The return journey requires full concentration on the slippery curves before a hot tea."
+          },
+          "stops": [
+            {
+              "name": "Harbor Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und glatten Holzplanken.",
+                "hu": "Vigyázzon a tócsákra és a csúszós fadeszkákra.",
+                "ro": "Atenție la bălți și la scândurile de lemn alunecoase.",
+                "en": "Watch out for puddles and slippery wooden planks."
+              }
+            },
+            {
+              "name": "Fort Saint-Elme",
+              "tip_5lang": {
+                "de": "Bietet guten Schutz vor Wind und Schlagregen.",
+                "hu": "Jó védelmet nyújt a szél és a csapó eső ellen.",
+                "ro": "Oferă o protecție bună împotriva vântului și a ploii torențiale.",
+                "en": "Offers good protection against wind and driving rain."
+              }
+            },
+            {
+              "name": "Port of Port-Vendres",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fischmärkte zur Pause.",
+                "hu": "Használja a fedett halpiacokat a pihenőhöz.",
+                "ro": "Folosiți piețele de pește acoperite pentru pauză.",
+                "en": "Use the covered fish markets for a break."
+              }
+            },
+            {
+              "name": "Paulilles Bay",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet trockene Informationen.",
+                "hu": "A látogatóközpont száraz helyet kínál az infóknak.",
+                "ro": "Centrul de vizitare oferă informații la adăpost.",
+                "en": "The visitor center offers dry information area."
+              }
+            },
+            {
+              "name": "Vineyards of Banyuls",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Reben können schlammig sein.",
+                "hu": "A tőkék közötti utak sárosak lehetnek.",
+                "ro": "Căile dintre vii pot fi noroioase.",
+                "en": "The paths between the vines can be muddy."
+              }
+            },
+            {
+              "name": "Return to Collioure",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf nasser Fahrbahn.",
+                "hu": "Fékezzen időben a nedves úttesten.",
+                "ro": "Frânați din timp pe carosabilul umed.",
+                "en": "Brake early on wet road surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Überschuhe, um trockene Füße zu behalten.",
+              "Vermeiden Sie abrupte Manöver auf den markierten Radwegen.",
+              "Die Route durch Port-Vendres bietet mehr Unterstellmöglichkeiten.",
+              "Kontrollieren Sie den Reifendruck für besseren Grip bei Nässe.",
+              "Ein Schutzblech ist bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipővédőt a lábak szárazon tartásához.",
+              "Kerülje a hirtelen manővereket a felfestett kerékpárutakon.",
+              "A Port-Vendres-en átvezető útvonal több megállóhelyet kínál.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "A sárvédő ebben az időben nélkülözhetetlen."
+            ],
+            "ro": [
+              "Purtați protecții impermeabile pentru încălțăminte.",
+              "Evitați manevrele bruște pe pistele de biciclete marcate.",
+              "Ruta prin Port-Vendres oferă mai multe posibilități de adăpost.",
+              "Verificați presiunea anvelopelor pentru o aderență mai bună.",
+              "Apărătoarea de noroi este indispensabilă pe această vreme."
+            ],
+            "en": [
+              "Wear waterproof overshoes to keep your feet dry.",
+              "Avoid abrupt maneuvers on the marked cycle paths.",
+              "The route through Port-Vendres offers more shelter possibilities.",
+              "Check tire pressure for better grip on wet surfaces.",
+              "A mudguard is indispensable in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen für Radfahrer, aber die leeren Straßen entschädigen dafür. Die Auffahrt zum Fort Saint-Elme bringt den Kreislauf in Schwung. Mittags in Port-Vendres schmeckt der frische Fang besonders gut, wenn man windgeschützt sitzt. Am Nachmittag leuchten die roten Felsen der Côte Vermeille in der klaren Wintersonne. Der Besuch der Paulilles-Bucht ist jetzt besonders friedlich, bevor man vor dem frühen Dunkelwerden nach Collioure zurückkehrt.",
+            "hu": "Hűvös reggel a bringásoknak, de az üres utak kárpótolnak. A felfelé menet a Fort Saint-Elme-hez felpezsdíti a vérkeringést. Délben Port-Vendresben a friss fogás különösen jól esik egy szélvédett zugban. Délután a Côte Vermeille vörös sziklái ragyognak a tiszta téli napsütésben. A Paulilles-öböl most különösen békés, mielőtt a korai sötétedés előtt visszatérnénk Collioure-ba.",
+            "ro": "O dimineață răcoroasă pentru bicicliști, dar drumurile libere compensează. Urcarea spre Fort Saint-Elme pune sângele în mișcare. La prânz în Port-Vendres, captura proaspătă are un gust excelent într-un loc ferit de vânt. După-amiaza, stâncile roșii ale Côte Vermeille strălucesc în soarele clar de iarnă. Vizita în golful Paulilles este acum foarte liniștită.",
+            "en": "A cool morning for cyclists, but the empty roads compensate. The climb to Fort Saint-Elme gets the circulation going. At noon in Port-Vendres, the fresh catch tastes especially good in a wind-sheltered spot. In the afternoon, the red rocks of the Côte Vermeille glow in the clear winter sun. The visit to Paulilles Bay is particularly peaceful now before returning before dark."
+          },
+          "stops": [
+            {
+              "name": "Harbor Promenade",
+              "tip_5lang": {
+                "de": "Kalte Meeresbrise, tragen Sie ein Halstuch.",
+                "hu": "Hideg tengeri szellő, viseljen nyaksálat.",
+                "ro": "Briză marină rece, purtați o eșarfă.",
+                "en": "Cold sea breeze, wear a neck warmer."
+              }
+            },
+            {
+              "name": "Fort Saint-Elme",
+              "tip_5lang": {
+                "de": "Harter Anstieg, ideal zum Aufwärmen durch Bewegung.",
+                "hu": "Kemény emelkedő, ideális az átmelegedéshez mozgással.",
+                "ro": "Urcare grea, ideală pentru încălzire prin mișcare.",
+                "en": "Tough climb, ideal for warming up through exercise."
+              }
+            },
+            {
+              "name": "Port of Port-Vendres",
+              "tip_5lang": {
+                "de": "Sonnige Plätze am Kai sind auch im Winter warm.",
+                "hu": "A rakpart napos helyei télen is melegek.",
+                "ro": "Locurile însorite de pe chei sunt calde și iarna.",
+                "en": "Sunny spots on the quay are warm even in winter."
+              }
+            },
+            {
+              "name": "Paulilles Bay",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Picknick in der Wintersonne.",
+                "hu": "Tökéletes hely egy piknikhez a téli napsütésben.",
+                "ro": "Locul perfect pentru un picnic la soarele de iarnă.",
+                "en": "Perfect spot for a picnic in the winter sun."
+              }
+            },
+            {
+              "name": "Vineyards of Banyuls",
+              "tip_5lang": {
+                "de": "Die Reben sind kahl, die Aussicht ist weiter.",
+                "hu": "A tőkék kopaszok, a kilátás messzebb ér.",
+                "ro": "Viile sunt desfrunzite, vederea este mai largă.",
+                "en": "The vines are bare, the view is more expansive."
+              }
+            },
+            {
+              "name": "Return to Collioure",
+              "tip_5lang": {
+                "de": "Licht an! Die Dämmerung beginnt früh.",
+                "hu": "Lámpát fel! A szürkület korán kezdődik.",
+                "ro": "Aprindeți luminile! Amurgul începe devreme.",
+                "en": "Lights on! Twilight starts early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist wegen des Windes wichtig.",
+              "Handschuhe sind bei den Abfahrten unerlässlich.",
+              "Die Straßen sind im Winter deutlich sicherer (weniger Touristenautos).",
+              "Planen Sie die Rückkehr vor 17:00 Uhr ein.",
+              "Ein Thermosbehälter mit warmem Tee im Flaschenhalter hilft."
+            ],
+            "hu": [
+              "A réteges öltözködés a szél miatt rendkívül fontos.",
+              "A lejtőkön a kesztyű használata elengedhetetlen.",
+              "Az utak télen sokkal biztonságosabbak (kevesebb turistaautó).",
+              "Tervezze a visszatérést 17:00 előttre.",
+              "Egy termosz meleg teával a kulacstartóban sokat segít."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este foarte importantă din cauza vântului.",
+              "Mănușile sunt esențiale la coborâri.",
+              "Drumurile sunt mult mai sigure iarna (mai puține mașini de turiști).",
+              "Planificați întoarcerea înainte de ora 17:00.",
+              "Un termos cu ceai cald în suportul de bidon ajută mult."
+            ],
+            "en": [
+              "Layered clothing is very important due to the wind.",
+              "Gloves are essential for the descents.",
+              "Roads are much safer in winter (fewer tourist cars).",
+              "Plan to be back before 5:00 PM.",
+              "A thermos with warm tea in the bottle cage helps."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -948,6 +1868,418 @@
           "Fill up your tank before heading into the mountain roads.",
           "Combine the tour with a short detour to Spain."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie die gesamte Schönheit der Côte Vermeille bis zur spanischen Grenze. Nach einem morgendlichen Bummel durch Collioure führt die Fahrt zum Kap Béar für eine wilde Küstenkulisse. Weiter südlich lädt Banyuls-sur-Mer zu einer Weinprobe ein, bevor Sie das charmante Cerbère erreichen, wo die Pyrenäen ins Meer stürzen. Der Höhepunkt ist die Fahrt über die Höhenrücken zum Tour Madeloc, von wo aus Sie einen unvergleichlichen Blick über das gesamte Küstengebiet genießen.",
+            "hu": "Autóval felfedezheti a Côte Vermeille teljes szépségét egészen a spanyol határig. Egy reggeli collioure-i séta után az út a Béar-fokhoz vezet a vad tengerparti tájért. Tovább délre Banyuls-sur-Mer borkóstolóra hívogat, mielőtt elérné a bájos Cerbère-t, ahol a Pireneusok a tengerbe szakadnak. A csúcspont a gerincutakon át vezető út a Madeloc-toronyhoz, ahonnan páratlan kilátás nyílik az egész partvidékre.",
+            "ro": "Cu mașina veți descoperi întreaga frumusețe a coastei Côte Vermeille până la granița cu Spania. După o plimbare matinală prin Collioure, drumul duce la Cap Béar pentru un peisaj costier sălbatic. Mai la sud, Banyuls-sur-Mer vă invită la o degustare de vinuri înainte de a ajunge în fermecătorul Cerbère, unde Pirineii se varsă în mare. Punctul culminant este drumul pe creastă către Turnul Madeloc, de unde vă veți bucura de o vedere inegalabilă asupra întregii zone de coastă.",
+            "en": "By car, you will discover the full beauty of the Côte Vermeille down to the Spanish border. After a morning stroll in Collioure, the drive leads to Cap Béar for a wild coastal backdrop. Further south, Banyuls-sur-Mer invites you for a wine tasting before reaching charming Cerbère, where the Pyrenees plunge into the sea. The highlight is the drive along the ridge roads to the Madeloc Tower, from where you will enjoy an unparalleled view over the entire coastal area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Collioure",
+                "hu": "Collioure óvárosa",
+                "ro": "Centrul vechi din Collioure",
+                "en": "Collioure Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie frühzeitig auf dem Parkplatz 'Le Glacis'.",
+                "hu": "Parkolj le időben a 'Le Glacis' parkolóban.",
+                "ro": "Parchează devreme în parcarea 'Le Glacis'.",
+                "en": "Park early at the 'Le Glacis' parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kap Béar Leuchtturm",
+                "hu": "Béar-fok világítótorony",
+                "ro": "Farul Cap Béar",
+                "en": "Cap Béar Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Straße ist schmal, fahren Sie vorsichtig.",
+                "hu": "Az út keskeny, vezess óvatosan.",
+                "ro": "Drumul este îngust, condu cu prudență.",
+                "en": "The road is narrow, drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Banyuls-sur-Mer",
+                "hu": "Banyuls-sur-Mer",
+                "ro": "Banyuls-sur-Mer",
+                "en": "Banyuls-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Biodiversarium oder eine Weinkellerei.",
+                "hu": "Látogasd meg a Biodiversariumot vagy egy borospincét.",
+                "ro": "Vizitează Biodiversarium sau o cramă de vinuri.",
+                "en": "Visit the Biodiversarium or a wine cellar."
+              }
+            },
+            {
+              "name": {
+                "de": "Cerbère - Letztes Dorf",
+                "hu": "Cerbère - Az utolsó falu",
+                "ro": "Cerbère - Ultimul sat",
+                "en": "Cerbère - The Last Village"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Art-Déco-Hotel Belvédère du Rayon Vert.",
+                "hu": "Csodáld meg az Art Déco stílusú Belvédère du Rayon Vert hotelt.",
+                "ro": "Admiră hotelul Art Déco Belvédère du Rayon Vert.",
+                "en": "Admire the Art Deco hotel Belvédère du Rayon Vert."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Madeloc",
+                "hu": "Madeloc-torony",
+                "ro": "Turnul Madeloc",
+                "en": "Madeloc Tower"
+              },
+              "tip_5lang": {
+                "de": "Kurze Wanderung vom Parkplatz für die beste Aussicht der Region.",
+                "hu": "Rövid túra a parkolótól a régió legjobb kilátásáért.",
+                "ro": "Scurtă drumeție de la parcare pentru cea mai bună vedere din regiune.",
+                "en": "Short hike from the parking for the best view of the region."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Littorine",
+                "tip": "Restaurant mit Meerblick in Banyuls."
+              },
+              {
+                "name": "Cave de l'Étoile",
+                "tip": "Hervorragende Banyuls-Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Littorine",
+                "tip": "Tengerre néző étterem Banyuls-ban."
+              },
+              {
+                "name": "Cave de l'Étoile",
+                "tip": "Kiváló Banyuls borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Littorine",
+                "tip": "Restaurant cu vedere la mare în Banyuls."
+              },
+              {
+                "name": "Cave de l'Étoile",
+                "tip": "Vinuri Banyuls excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Littorine",
+                "tip": "Restaurant with sea view in Banyuls."
+              },
+              {
+                "name": "Cave de l'Étoile",
+                "tip": "Excellent Banyuls wines."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Tour Madeloc",
+                "tip": "Stille in den Höhen über dem Meer.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Crique de l'Oli",
+                "tip": "Abgelegene Bucht zwischen den Städten.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Madeloc-torony",
+                "tip": "Csend a tenger feletti magaslatokon.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Crique de l'Oli",
+                "tip": "Elszigetelt öböl a városok között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Turnul Madeloc",
+                "tip": "Liniște la înălțime deasupra mării.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Crique de l'Oli",
+                "tip": "Golf retras între orașe.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Madeloc Tower",
+                "tip": "Silence in the heights above the sea.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Crique de l'Oli",
+                "tip": "Secluded cove between the towns.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Terre de Banyuls",
+                "tip": "Lokale Produkte und Olivenöl."
+              },
+              {
+                "name": "Boutique du Belvédère",
+                "tip": "Souvenirs im Art-Déco-Stil in Cerbère."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Terre de Banyuls",
+                "tip": "Helyi termékek és olívaolaj."
+              },
+              {
+                "name": "Boutique du Belvédère",
+                "tip": "Art Déco stílusú szuvenírek Cerbère-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terre de Banyuls",
+                "tip": "Produse locale și ulei de măsline."
+              },
+              {
+                "name": "Boutique du Belvédère",
+                "tip": "Suveniruri în stil Art Déco în Cerbère."
+              }
+            ],
+            "en": [
+              {
+                "name": "Terre de Banyuls",
+                "tip": "Local products and olive oil."
+              },
+              {
+                "name": "Boutique du Belvédère",
+                "tip": "Art Deco style souvenirs in Cerbère."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in Collioure ist im Sommer sehr schwierig, nutzen Sie Shuttle-Parkplätze.",
+              "Die Corniche-Straße nach Cerbère ist wunderschön, aber kurvenreich.",
+              "Tanken Sie voll, bevor Sie in die Bergstraßen fahren.",
+              "Kombinieren Sie die Tour mit einem kurzen Abstecher nach Spanien."
+            ],
+            "hu": [
+              "A parkolás Collioure-ban nyáron nehéz, használd a P+R parkolókat.",
+              "A Cerbère-be vezető tengerparti út gyönyörű, de kanyargós.",
+              "Tankolj tele, mielőtt a hegyi utakra kanyarodnál.",
+              "Kombináld a túrát egy rövid spanyolországi kitérővel."
+            ],
+            "ro": [
+              "Parcarea în Collioure este dificilă vara, folosește parcările cu transfer.",
+              "Drumul de pe cornișă spre Cerbère este superb, dar sinuos.",
+              "Alimentează cu combustibil înainte de a intra pe drumurile de munte.",
+              "Combină turul cu o scurtă incursiune în Spania."
+            ],
+            "en": [
+              "Parking in Collioure is very difficult in summer, use shuttle parking lots.",
+              "The corniche road to Cerbère is beautiful but winding.",
+              "Fill up your tank before heading into the mountain roads.",
+              "Combine the tour with a short detour to Spain."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für eine Panoramafahrt entlang der Küste. Der Morgen in der Altstadt von Collioure beginnt mit einem Spaziergang zwischen den Schauern. Mittags führt die Fahrt nach Banyuls, wo die großen Weinkeller (Caves) trockene Verkostungen bieten. Am Nachmittag erreichen wir Cerbère, wo die verlassene Atmosphäre des Grenzbahnhofs im Regen fast mystisch wirkt. Die Tour endet mit einem Blick auf die wolkenverhangene Madeloc-Turm-Region.",
+            "hu": "Az esős nap tökéletes egy panorámás autózáshoz a part mentén. A reggel Collioure óvárosában indul, a záporok közötti rövid sétákkal. Délben Banyuls-sur-Mer felé vesszük az irányt, ahol a nagy borospincék száraz kóstolókat kínálnak. Délután Cerbère-be érünk, ahol a határállomás elhagyatott hangulata az esőben szinte misztikus. A túra a felhőkbe burkolózó Madeloc-torony látványával zárul.",
+            "ro": "O zi ploioasă este perfectă pentru o plimbare panoramică pe coastă. Dimineața în centrul vechi din Collioure începe cu plimbări scurte între averse. La prânz, drumul duce spre Banyuls, unde marile crame oferă degustări la adăpost. După-amiaza ajungem la Cerbère, unde atmosfera stației de frontieră pare mistică pe ploaie. Turul se încheie cu priveliștea turnului Madeloc învăluit în nori.",
+            "en": "A rainy day is perfect for a scenic drive along the coast. The morning in Collioure's old town starts with short walks between showers. At noon, the drive leads to Banyuls, where the large wine cellars offer dry tastings. In the afternoon, we reach Cerbère, where the station's abandoned atmosphere feels almost mystical in the rain. The tour ends with a view of the cloud-covered Madeloc Tower region."
+          },
+          "stops": [
+            {
+              "name": "Collioure Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Le Glacis', um nah am Zentrum zu sein.",
+                "hu": "Parkoljon a 'Le Glacis' parkolóházban a központ közelében.",
+                "ro": "Parcați în parcarea 'Le Glacis' pentru a fi aproape de centru.",
+                "en": "Park in 'Le Glacis' parking to be close to the center."
+              }
+            },
+            {
+              "name": "Cap Béar Lighthouse",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto für die Aussicht.",
+                "hu": "Heves esőben maradjon az autóban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
+                "en": "Stay in the car for the view if it rains heavily."
+              }
+            },
+            {
+              "name": "Banyuls-sur-Mer",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquarium, wenn es draußen zu nass ist.",
+                "hu": "Látogassa meg az akváriumot, ha kint túl vizes az idő.",
+                "ro": "Vizitați acvariul dacă afară este prea umed.",
+                "en": "Visit the aquarium if it's too wet outside."
+              }
+            },
+            {
+              "name": "Cerbère - The Last Village",
+              "tip_5lang": {
+                "de": "Das Hotel Belvédère du Rayon Vert ist ein tolles Fotomotiv.",
+                "hu": "A Hotel Belvédère du Rayon Vert remek fotótéma esőben is.",
+                "ro": "Hotelul Belvédère du Rayon Vert este un subiect foto excelent.",
+                "en": "Hotel Belvédère du Rayon Vert is a great photo spot."
+              }
+            },
+            {
+              "name": "Madeloc Tower",
+              "tip_5lang": {
+                "de": "Achtung, die schmale Straße kann bei Nebel gefährlich sein.",
+                "hu": "Vigyázat, a szűk út ködben veszélyes lehet.",
+                "ro": "Atenție, drumul îngust poate fi periculos pe ceață.",
+                "en": "Caution, the narrow road can be dangerous in fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße D914 bietet viele Haltebucht für Fotos aus dem Auto.",
+              "Scheibenwischer prüfen – bei Starkregen sind die Kurven tückisch.",
+              "Besuchen Sie die 'Terres des Templiers' Weinkeller in Banyuls.",
+              "Cerbère hat einen großen überdachten Bahnhofsbereich.",
+              "Planen Sie Pausen in Cafés mit Meerblick ein."
+            ],
+            "hu": [
+              "A D914-es parti út sok megállót kínál a fotózáshoz az autóból.",
+              "Ellenőrizze az ablaktörlőket – heves esőben a kanyarok trükkösek.",
+              "Látogassa meg a 'Terres des Templiers' borospincét Banyulsban.",
+              "Cerbère nagy, fedett vasútállomással rendelkezik.",
+              "Tervezzen pihenőket tengerre néző kávézókban."
+            ],
+            "ro": [
+              "Drumul de coastă D914 oferă multe alveole pentru poze din mașină.",
+              "Verificați ștergătoarele – în ploaie torențială virajele sunt înșelătoare.",
+              "Vizitați crama 'Terres des Templiers' din Banyuls.",
+              "Cerbère are o zonă de gară acoperită foarte mare.",
+              "Planificați pauze în cafenele cu vedere la mare."
+            ],
+            "en": [
+              "The D914 coastal road offers many lay-bys for photos from the car.",
+              "Check wipers – the curves are tricky in heavy rain.",
+              "Visit the 'Terres des Templiers' wine cellar in Banyuls.",
+              "Cerbère has a large covered station area.",
+              "Plan breaks in cafes with a sea view."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintersonne und klare Sicht machen diese Fahrt unvergesslich. Der Morgen in Collioure ist entspannt, Parkplätze sind leicht zu finden. Die Fahrt zum Cap Béar bietet einen weiten Blick bis nach Spanien. Mittags in Banyuls lockt die warme Wintersonne auf die Terrassen am Strand. Am Nachmittag wirkt Cerbère wie aus einer anderen Zeit, still und stolz. Zum Abschluss bietet die Fahrt zum Madeloc-Turm ein Panorama der schneebedeckten Pyrenäen im Hintergrund.",
+            "hu": "A téli napsütés és a tiszta látási viszonyok felejthetetlenné teszik ezt az autózást. A reggel Collioure-ban nyugodt, könnyű parkolóhelyet találni. A Cap Béar felé vezető út messzi kilátást nyújt Spanyolországig. Délben Banyulsban a meleg téli nap a strand teraszaira csábít. Délután Cerbère úgy fest, mintha egy másik korból maradt volna itt, csendesen és büszkén. Zárásként a Madeloc-torony felé autózva a háttérben a havas Pireneusok panorámája tárul elénk.",
+            "ro": "Soarele de iarnă și vizibilitatea clară fac această călătorie de neuitat. Dimineața în Collioure este relaxată, parcarea se găsește ușor. Drumul spre Cap Béar oferă o priveliște largă până în Spania. La prânz în Banyuls, soarele cald atrage pe terasele de pe plajă. După-amiaza Cerbère pare desprins din altă epocă. La final, drumul spre turnul Madeloc oferă panorama Pirineilor înzăpeziți.",
+            "en": "Winter sun and clear visibility make this drive unforgettable. The morning in Collioure is relaxed, parking is easy to find. The drive to Cap Béar offers a wide view all the way to Spain. At noon in Banyuls, the warm winter sun attracts you to the beach terraces. In the afternoon, Cerbère looks like it belongs to another era. Finally, the drive to Madeloc Tower offers a panorama of the snow-capped Pyrenees."
+          },
+          "stops": [
+            {
+              "name": "Collioure Old Town",
+              "tip_5lang": {
+                "de": "Profitieren Sie von den kostenlosen Parkplätzen in der Nebensaison.",
+                "hu": "Használja ki az ingyenes parkolóhelyeket a főszezonon kívül.",
+                "ro": "Profitați de parcările gratuite în afara sezonului.",
+                "en": "Take advantage of free parking spaces in the low season."
+              }
+            },
+            {
+              "name": "Cap Béar Lighthouse",
+              "tip_5lang": {
+                "de": "Sehr windig, halten Sie die Autotüren beim Öffnen fest.",
+                "hu": "Nagyon szeles, fogja erősen az ajtót nyitáskor.",
+                "ro": "Foarte vântos, țineți bine portiera când o deschideți.",
+                "en": "Very windy, hold the car door firmly when opening."
+              }
+            },
+            {
+              "name": "Banyuls-sur-Mer",
+              "tip_5lang": {
+                "de": "Sonnige Plätze am Strand sind mittags sehr angenehm.",
+                "hu": "A tengerpart napos helyei délben nagyon kellemesek.",
+                "ro": "Locurile însorite de pe plajă sunt foarte plăcute la prânz.",
+                "en": "Sunny spots on the beach are very pleasant at noon."
+              }
+            },
+            {
+              "name": "Cerbère - The Last Village",
+              "tip_5lang": {
+                "de": "Die Grenzstraße nach Spanien ist im Winter fast leer.",
+                "hu": "A Spanyolországba vezető határút télen szinte üres.",
+                "ro": "Drumul de frontieră spre Spania este aproape gol iarna.",
+                "en": "The border road to Spain is almost empty in winter."
+              }
+            },
+            {
+              "name": "Madeloc Tower",
+              "tip_5lang": {
+                "de": "Einzigartige Sicht auf die verschneiten Gipfel im Westen.",
+                "hu": "Egyedülálló kilátás a nyugati havas csúcsokra.",
+                "ro": "Vedere unică spre vârfurile înzăpezite din vest.",
+                "en": "Unique view of the snow-capped peaks to the west."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die klare Winterluft sorgt für die besten Fernsichten des Jahres.",
+              "Achten Sie auf Eisschilder in schattigen Kurven der Madeloc-Region.",
+              "Nehmen Sie eine warme Decke für Fotostopps mit.",
+              "In der Nebensaison sind die Küstenorte viel entspannter zu befahren.",
+              "Die Sonne blendet im Winter tiefer; Sonnenbrille nicht vergessen."
+            ],
+            "hu": [
+              "A tiszta téli levegő biztosítja az év legjobb távoli kilátásait.",
+              "Ügyeljen a jégre a Madeloc-régió árnyékos kanyarjaiban.",
+              "Vigyen magával meleg takarót a fotómegállókhoz.",
+              "A főszezonon kívül a parti falvakban sokkal nyugodtabb a közlekedés.",
+              "A nap télen alacsonyabban vakít; ne felejtse a napszemüveget."
+            ],
+            "ro": [
+              "Aerul curat de iarnă oferă cele mai bune vizibilități la distanță.",
+              "Atenție la gheață în virajele umbrite din regiunea Madeloc.",
+              "Luați o pătură caldă pentru opririle foto.",
+              "În afara sezonului, satele de coastă sunt mult mai relaxate.",
+              "Soarele este mai jos iarna; nu uitați ochelarii de soare."
+            ],
+            "en": [
+              "The clear winter air provides the best long-distance views of the year.",
+              "Watch for ice in shaded curves of the Madeloc region.",
+              "Take a warm blanket for photo stops.",
+              "In low season, coastal villages are much more relaxed to drive through.",
+              "The sun is lower in winter; don't forget your sunglasses."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1239,34 +2571,419 @@
           "Avoid peak hours in the late afternoon.",
           "The stations are usually located slightly above the city centers."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Küste stressfrei mit dem Zug und dem berühmten 1-Euro-Bus. Nach Ihrer Ankunft in Collioure erkunden Sie das historische Zentrum und die Burg zu Fuß. Mittags bringt Sie der Regionalzug in wenigen Minuten nach Banyuls-sur-Mer, wobei Sie die Tunnel und Klippen der Côte Vermeille passieren. Genießen Sie den Nachmittag am Strand von Banyuls oder besuchen Sie das Meeresmuseum. Die Rückfahrt mit dem Bus bietet Ihnen die Möglichkeit, die Landschaft noch einmal aus einer anderen Perspektive zu genießen.",
+            "hu": "Tapasztalja meg a partvidéket stresszmentesen vonattal és a híres 1 eurós busszal. Collioure-ba érkezés után gyalog fedezze fel a történelmi központot és a várat. Délben a regionális vonat percek alatt elrepíti Banyuls-sur-Mer-be, miközben a Côte Vermeille alagútjain és szikláin halad át. Élvezze a délutánt Banyuls strandján vagy látogassa meg a tengeri múzeumot. A buszos visszautazás lehetőséget ad arra, hogy a tájat egy másik perspektívából is megcsodálja.",
+            "ro": "Experimentați coasta fără stres cu trenul și celebrul autocar de 1 euro. După sosirea în Collioure, explorați centrul istoric și castelul la pas. La prânz, trenul regional vă duce în câteva minute la Banyuls-sur-Mer, trecând prin tunelurile și stâncile de pe Côte Vermeille. Bucurați-vă de după-amiază pe plaja din Banyuls sau vizitați muzeul marin. Întoarcerea cu autocarul vă oferă ocazia de a admira peisajul dintr-o altă perspectivă.",
+            "en": "Experience the coast stress-free with the train and the famous 1-euro bus. After arriving in Collioure, explore the historic center and the castle on foot. At midday, the regional train whisks you to Banyuls-sur-Mer in minutes, passing through the tunnels and cliffs of the Côte Vermeille. Enjoy the afternoon on the beach in Banyuls or visit the marine museum. The return bus trip gives you the chance to enjoy the scenery from another perspective."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Collioure",
+                "hu": "Collioure vasútállomás",
+                "ro": "Gara Collioure",
+                "en": "Collioure Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für regionale Züge.",
+                "hu": "Központi kiindulópont a regionális vonatokhoz.",
+                "ro": "Punct central de plecare pentru trenurile regionale.",
+                "en": "Central starting point for regional trains."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Royal & Hafen",
+                "hu": "Királyi Vár és kikötő",
+                "ro": "Castelul Regal și portul",
+                "en": "Royal Castle & Harbor"
+              },
+              "tip_5lang": {
+                "de": "Nur 10 Minuten zu Fuß vom Bahnhof entfernt.",
+                "hu": "Csak 10 perc séta a vasútállomástól.",
+                "ro": "La doar 10 minute de mers pe jos de gară.",
+                "en": "Just a 10-minute walk from the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Zug nach Banyuls-sur-Mer",
+                "hu": "Vonattal Banyuls-sur-Mer-be",
+                "ro": "Tren spre Banyuls-sur-Mer",
+                "en": "Train to Banyuls-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Der TER-Zug bietet tolle Ausblicke auf die Küste.",
+                "hu": "A TER vonat remek kilátást nyújt a tengerpartra.",
+                "ro": "Trenul TER oferă vederi superbe asupra coastei.",
+                "en": "The TER train offers great views of the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Banyuls Hafen & Strand",
+                "hu": "Banyuls kikötő és strand",
+                "ro": "Portul și plaja Banyuls",
+                "en": "Banyuls Harbor & Beach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquarium am Hafen.",
+                "hu": "Látogasd meg az akváriumot a kikötőben.",
+                "ro": "Vizitează acvariul de la port.",
+                "en": "Visit the aquarium at the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Rückfahrt mit dem 1€-Bus",
+                "hu": "Visszautazás az 1 eurós busszal",
+                "ro": "Întoarcere cu autocarul de 1€",
+                "en": "Return by the 1€ Bus"
+              },
+              "tip_5lang": {
+                "de": "Günstigste Art, zwischen den Küstenorten zu reisen.",
+                "hu": "A legolcsóbb módja a parti városok közötti utazásnak.",
+                "ro": "Cea mai ieftină modalitate de a călători între orașele de pe coastă.",
+                "en": "Cheapest way to travel between the coastal towns."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Neuf Caves",
+                "tip": "Weinbar und Restaurant in Banyuls."
+              },
+              {
+                "name": "Le Jardin de Collioure",
+                "tip": "Romantisches Abendessen im Garten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Neuf Caves",
+                "tip": "Borozó és étterem Banyuls-ban."
+              },
+              {
+                "name": "Le Jardin de Collioure",
+                "tip": "Romantikus vacsora a kertben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Neuf Caves",
+                "tip": "Bar de vinuri și restaurant în Banyuls."
+              },
+              {
+                "name": "Le Jardin de Collioure",
+                "tip": "Cină romantică în grădină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Neuf Caves",
+                "tip": "Wine bar and restaurant in Banyuls."
+              },
+              {
+                "name": "Le Jardin de Collioure",
+                "tip": "Romantic dinner in the garden."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Banyuls Botanischer Garten",
+                "tip": "Ein ruhiger Rückzugsort oberhalb der Stadt.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Kirche Saint-Vincent",
+                "tip": "Kleine Kapelle auf einem Felsen im Meer.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Banyuls botanikus kert",
+                "tip": "Csendes menedék a város felett.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Saint-Vincent kápolna",
+                "tip": "Kis kápolna egy sziklán a tengerben.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Botanică Banyuls",
+                "tip": "Un refugiu liniștit deasupra orașului.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Capela Saint-Vincent",
+                "tip": "O mică capelă pe o stâncă în mare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banyuls Botanical Garden",
+                "tip": "A quiet retreat above the town.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Saint-Vincent Chapel",
+                "tip": "Small chapel on a rock in the sea.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Escale Gourmande",
+                "tip": "Delikatessen am Hafen."
+              },
+              {
+                "name": "L'Anchois de Collioure",
+                "tip": "Souvenirs zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Escale Gourmande",
+                "tip": "Delikátesz áruk a kikötőben."
+              },
+              {
+                "name": "L'Anchois de Collioure",
+                "tip": "Ehető szuvenírek hazavitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Escale Gourmande",
+                "tip": "Delicatese la port."
+              },
+              {
+                "name": "L'Anchois de Collioure",
+                "tip": "Suveniruri de luat acasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Escale Gourmande",
+                "tip": "Delicatessen at the harbor."
+              },
+              {
+                "name": "L'Anchois de Collioure",
+                "tip": "Edible souvenirs to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der 'Bus à 1€' (Linie 540) ist sehr beliebt, kommen Sie rechtzeitig zur Haltestelle.",
+              "Laden Sie die SNCF-App für aktuelle Zugzeiten herunter.",
+              "Vermeiden Sie die Stoßzeiten am späten Nachmittag.",
+              "Die Bahnhöfe liegen meist etwas oberhalb der Stadtzentren."
+            ],
+            "hu": [
+              "Az 1 eurós busz (540-es vonal) nagyon népszerű, érkezz időben a megállóba.",
+              "Töltsd le az SNCF alkalmazást a friss vonatmenetrendhez.",
+              "Kerüld a csúcsforgalmat a késő délutáni órákban.",
+              "A vasútállomások általában kicsit a városközpontok felett találhatók."
+            ],
+            "ro": [
+              "Autocarul de 1€ (linia 540) este foarte popular, vino din timp în stație.",
+              "Descarcă aplicația SNCF pentru orele actualizate ale trenurilor.",
+              "Evită orele de vârf de după-amiază târziu.",
+              "Gările sunt de obicei situate puțin deasupra centrelor orașelor."
+            ],
+            "en": [
+              "The 1€ Bus (line 540) is very popular, arrive early at the stop.",
+              "Download the SNCF app for up-to-date train times.",
+              "Avoid peak hours in the late afternoon.",
+              "The stations are usually located slightly above the city centers."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Zug lässt sich die Küste auch bei Regen entspannt erkunden. Der Morgen beginnt am Bahnhof Collioure, einem charmanten Bauwerk. Mittags erreichen wir das Schloss, wo die Innenräume Schutz bieten. Die Zugfahrt nach Banyuls bietet einen Logenplatz mit Blick auf die aufgewühlte See, ohne nass zu werden. Den Nachmittag verbringen wir im Aquarium von Banyuls. Die Rückfahrt mit dem 1€-Bus ist eine warme und günstige Alternative zum Laufen.",
+            "hu": "Vonattal esőben is kényelmesen felfedezhető a partvidék. A reggel a collioure-i állomáson indul, amely bűbájos építmény. Délben a várat látogatjuk meg, ahol a belső terek védenek. A vonatút Banyulsba páholyból kínál kilátást a felkavart tengerre, anélkül, hogy megáznánk. A délutánt a banyulsi akváriumban töltjük. A visszautazás az 1 eurós busszal meleg és olcsó alternatívája a gyaloglásnak.",
+            "ro": "Cu trenul, coasta poate fi explorată relaxat chiar și pe ploaie. Dimineața începe la gara din Collioure, o clădire fermecătoare. La prânz vizităm castelul, unde spațiile interioare oferă protecție. Călătoria cu trenul spre Banyuls oferă o vedere de la lojă asupra mării agitate. După-amiaza o petrecem la acvariul din Banyuls. Întoarcerea cu autobuzul de 1€ este o alternativă caldă.",
+            "en": "By train, the coast can be explored in a relaxed way even in the rain. The morning starts at Collioure station, a charming building. At noon we visit the castle, where the interiors offer protection. The train ride to Banyuls offers a front-row seat to the turbulent sea without getting wet. We spend the afternoon at the Banyuls aquarium. The return journey with the 1€ bus is a warm alternative."
+          },
+          "stops": [
+            {
+              "name": "Collioure Station",
+              "tip_5lang": {
+                "de": "Der kleine Warteraum bietet Schutz vor dem Regen.",
+                "hu": "A kis váróterem védelmet nyújt az eső elől.",
+                "ro": "Mica sală de așteptare oferă adăpost împotriva ploii.",
+                "en": "The small waiting room offers shelter from the rain."
+              }
+            },
+            {
+              "name": "Royal Castle & Harbor",
+              "tip_5lang": {
+                "de": "Vom Bahnhof zum Hafen sind es ca. 10 Min. Fußweg.",
+                "hu": "Az állomástól a kikötő kb. 10 perc séta.",
+                "ro": "De la gară până în port sunt aproximativ 10 minute de mers.",
+                "en": "It's a 10-minute walk from the station to the harbor."
+              }
+            },
+            {
+              "name": "Train to Banyuls-sur-Mer",
+              "tip_5lang": {
+                "de": "Genießen Sie die Panoramafahrt im trockenen Abteil.",
+                "hu": "Élvezze a panorámás utat a száraz vagonban.",
+                "ro": "Bucurați-vă de drumul panoramic în compartimentul uscat.",
+                "en": "Enjoy the panoramic journey in a dry compartment."
+              }
+            },
+            {
+              "name": "Banyuls Harbor & Beach",
+              "tip_5lang": {
+                "de": "Das Biodiversarium (Aquarium) ist perfekt bei Regen.",
+                "hu": "A Biodiversarium (akvárium) tökéletes esőben.",
+                "ro": "Biodiversarium (acvariul) este perfect pe ploaie.",
+                "en": "The Biodiversarium (aquarium) is perfect during rain."
+              }
+            },
+            {
+              "name": "Return by the 1€ Bus",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen haben meist kleine Unterstände.",
+                "hu": "A buszmegállóknak általában van kis várója.",
+                "ro": "Stațiile de autobuz au de obicei mici adăposturi.",
+                "en": "Bus stops usually have small shelters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die SNCF-App für Echtzeit-Infos bei Wetterverspätungen.",
+              "Der 1€-Bus (Lio) ist bei Regen oft voll, planen Sie Puffer ein.",
+              "Die Bahnhöfe liegen meist etwas oberhalb der Stadtzentren.",
+              "Ein kleiner Taschenschirm ist für die Wege zwischen den Stationen nützlich.",
+              "Kombinieren Sie Ticketkäufe am Automaten, um Zeit im Regen zu sparen."
+            ],
+            "hu": [
+              "Töltse le az SNCF appot a késések valós idejű követéséhez.",
+              "Az 1 eurós busz (Lio) esőben gyakran teli van, számoljon idővel.",
+              "Az állomások általában kicsit a városközpontok felett találhatók.",
+              "Egy kis zsebesernyő hasznos az állomások közötti utakon.",
+              "Vásárolja meg jegyeit előre az automatánál, hogy kevesebbet álljon kint."
+            ],
+            "ro": [
+              "Descărcați aplicația SNCF pentru informații în timp real.",
+              "Autobuzul de 1€ (Lio) este adesea plin pe ploaie, planificați marje.",
+              "Gările sunt situate de obicei puțin deasupra centrelor orașelor.",
+              "O umbrelă mică de buzunar este utilă între stații.",
+              "Cumpărați biletele de la automat pentru a economisi timp în ploaie."
+            ],
+            "en": [
+              "Download the SNCF app for real-time info during weather delays.",
+              "The 1€ bus (Lio) is often full in the rain; plan some buffer time.",
+              "Stations are usually located slightly above the city centers.",
+              "A small pocket umbrella is useful for paths between stations.",
+              "Combine ticket purchases at the machine to save time in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Zug bieten eine ruhige Perspektive auf die Region. Der Morgen am Bahnhof Collioure ist friedlich, man trifft fast nur Einheimische. Mittags im Hafen wärmt die Sonne, bevor wir den kurzen Sprung mit dem Zug nach Banyuls machen. Die Landschaft wirkt im Winterlicht schärfer und farbenfroher. In Banyuls genießen wir den Charme der Nebensaison. Die Rückfahrt mit dem Bus bietet in der Dämmerung einen gemütlichen Abschluss des Tages.",
+            "hu": "A téli vonatozás nyugodt perspektívát kínál a régióra. A reggel a collioure-i állomáson békés, szinte csak helyiekkel találkozni. Délben a kikötőben melegszünk a napon, mielőtt átvonatoznánk Banyulsba. A táj a téli fényben élesebbnek és színesebbnek tűnik. Banyulsban élvezzük a főszezonon kívüli bájt. A buszos visszautazás a szürkületben meghitt lezárása a napnak.",
+            "ro": "Călătoriile cu trenul iarna oferă o perspectivă liniștită asupra regiunii. Dimineața la gara din Collioure este pașnică, întâlniți mai mult localnici. La prânz în port soarele încălzește, înainte de a lua trenul spre Banyuls. Peisajul pare mai clar și mai colorat în lumina iernii. În Banyuls ne bucurăm de farmecul extrasezonului. Întoarcerea cu autobuzul oferă un final de zi confortabil.",
+            "en": "Winter travel by train offers a peaceful perspective on the region. The morning at Collioure station is quiet, meeting mostly locals. At noon in the harbor, the sun warms us before the short train hop to Banyuls. The landscape looks sharper and more colorful in the winter light. In Banyuls, we enjoy the low-season charm. The return bus ride in the twilight offers a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Collioure Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, weniger Verbindungen.",
+                "hu": "Ellenőrizze a téli menetrendet, kevesebb a járat.",
+                "ro": "Verificați mersul trenurilor de iarnă, sunt mai puține legături.",
+                "en": "Check the winter schedule, fewer connections available."
+              }
+            },
+            {
+              "name": "Royal Castle & Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafen ohne die sommerlichen Verkaufsstände.",
+                "hu": "Élvezze a kikötőt a nyári árusok nélkül.",
+                "ro": "Bucurați-vă de port fără tarabele de vară.",
+                "en": "Enjoy the harbor without the summer stalls."
+              }
+            },
+            {
+              "name": "Train to Banyuls-sur-Mer",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die zugigen Bahnsteige einplanen.",
+                "hu": "Meleg ruházat szükséges a huzatos peronokon.",
+                "ro": "Planificați haine groase pentru peroanele cu curent.",
+                "en": "Plan warm clothing for the drafty platforms."
+              }
+            },
+            {
+              "name": "Banyuls Harbor & Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen ruhigen Strandspaziergang in der Sonne.",
+                "hu": "Ideális egy csendes tengerparti sétához a napsütésben.",
+                "ro": "Ideal pentru o plimbare liniștită pe plajă la soare.",
+                "en": "Ideal for a quiet beach walk in the sun."
+              }
+            },
+            {
+              "name": "Return by the 1€ Bus",
+              "tip_5lang": {
+                "de": "Der Bus ist beheizt – perfekt zum Aufwärmen.",
+                "hu": "A busz fűtött – tökéletes az átmelegedéshez.",
+                "ro": "Autobuzul este încălzit – perfect pentru încălzire.",
+                "en": "The bus is heated – perfect for warming up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge verkehren im Winter seltener, Takte genau prüfen.",
+              "Die 1€-Busse sind eine sehr zuverlässige Verbindung.",
+              "Bahnhöfe haben oft keine beheizten Warteräume.",
+              "Nutzen Sie die Mittagsstunden für die Aktivitäten im Freien.",
+              "Kaufen Sie Tickets online, um die kalte Zeit am Automaten zu minimieren."
+            ],
+            "hu": [
+              "A vonatok télen ritkábban járnak, ellenőrizze a menetrendet.",
+              "Az 1 eurós buszok (Lio) nagyon megbízható összeköttetést jelentenek.",
+              "Az állomásokon gyakran nincs fűtött váróterem.",
+              "A szabadtéri programokat a déli órákra időzítse.",
+              "Vásároljon jegyet online, hogy kevesebbet várakozzon a hidegben."
+            ],
+            "ro": [
+              "Trenurile circulă mai rar iarna, verificați bine orele.",
+              "Autobuzele de 1€ sunt o legătură foarte fiabilă.",
+              "Gările nu au adesea săli de așteptare încălzite.",
+              "Folosiți orele prânzului pentru activitățile în aer liber.",
+              "Cumpărați bilete online pentru a minimiza timpul în frig la automat."
+            ],
+            "en": [
+              "Trains run less frequently in winter; check times carefully.",
+              "The 1€ buses are a very reliable connection.",
+              "Stations often lack heated waiting rooms.",
+              "Use the midday hours for outdoor activities.",
+              "Buy tickets online to minimize cold time at the machine."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.tourisme-collioure.com/decouvrir/webcams/",
-    "tourism_office": "https://www.tourisme-collioure.com/",
-    "events": "https://www.tourisme-collioure.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.collioure.com/transports",
-    "language_tips": {
-      "de": "Collioure liegt im katalanischen Roussillon, daher hört man neben Französisch oft Katalanisch. 'Bon dia' funktioniert ebenso gut wie 'Bonjour'. In den Galerien rund um den Hafen wird auch Englisch und Spanisch gesprochen. Probieren Sie 'un verre de Banyuls' zu bestellen, der lokale Süßwein ist eine kulturelle Visitenkarte.",
-      "hu": "Collioure a katalán Roussillonban fekszik, így a francia mellett gyakran katalán szó is hallható. A 'Bon dia' éppúgy működik, mint a 'Bonjour'. A kikötő körüli galériákban beszélnek angolul és spanyolul is. Próbálj meg egy pohár Banyuls édes bort kérni, ez a helyi specialitás a kulturális identitás része.",
-      "ro": "Collioure se află în Roussillon-ul catalan, așa că pe lângă franceză se aude des catalana. 'Bon dia' funcționează la fel de bine ca 'Bonjour'. În galeriile din jurul portului se vorbește engleza și spaniola. Cereți un pahar de Banyuls, vinul dulce local este o carte de vizită culturală.",
-      "en": "Collioure sits in Catalan Roussillon, so you'll hear Catalan alongside French. 'Bon dia' works just as well as 'Bonjour'. Galleries around the harbour speak English and Spanish too. Try ordering 'un verre de Banyuls' - the local sweet wine is a cultural calling card and an instant icebreaker."
-    },
-    "best_time_to_visit": {
-      "de": "Mai, Juni und September sind ideal: warmes Wetter, weniger Touristen und das Licht, das einst Matisse anzog, ist besonders intensiv. Juli und August sind sehr voll, Parkplätze im Zentrum praktisch unmöglich. Die Weinlese im Oktober bringt ein authentisches Dorfgefühl zurück, perfekt für ruhige Spaziergänge.",
-      "hu": "Május, június és szeptember ideális: meleg idő, kevés turista és a Matisse-t is megihlető fény különösen intenzív. Július és augusztus zsúfolt, parkolni szinte lehetetlen a központban. Az októberi szüret idején visszatér a hiteles falusi hangulat, tökéletes csendes sétákhoz.",
-      "ro": "Mai, iunie și septembrie sunt ideale: vreme caldă, mai puțini turiști și lumina care l-a inspirat pe Matisse este deosebit de intensă. Iulie și august sunt foarte aglomerate, parcările din centru aproape imposibile. Culesul viilor din octombrie aduce înapoi atmosfera autentică de sat.",
-      "en": "May, June and September are ideal: warm weather, fewer tourists, and the famous light that drew Matisse here is at its most vivid. July and August are packed, with parking in the centre nearly impossible. The October wine harvest restores an authentic village feel, perfect for quiet exploration."
-    },
-    "neighborhood_warnings": {
-      "de": "Collioure ist sehr sicher, doch die schmalen Gassen werden im Sommer zur Falle für Autos. Parken Sie außerhalb am Cap Béar und gehen zu Fuß. Im August können die Strände extrem überfüllt sein.",
-      "hu": "Collioure biztonságos, de a szűk utcák nyáron csapdát jelentenek az autóknak. Parkolj a Cap Béar mellett és gyere gyalog. Augusztusban a strandok rendkívül zsúfoltak lehetnek.",
-      "ro": "Collioure este foarte sigur, dar străduțele înguste devin o capcană pentru mașini vara. Parcați în afara orașului la Cap Béar și mergeți pe jos. În august, plajele pot fi extrem de aglomerate.",
-      "en": "Collioure is very safe, but narrow lanes turn into car traps in summer. Park outside near Cap Béar and walk in. In August, the small pebble beaches can feel extremely crowded."
-    },
-    "parking_real_time": ""
   }
 }

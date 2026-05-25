@@ -320,6 +320,450 @@
           "Most shops take a lunch break during the day.",
           "Use the small passages (Carrughji) for shortcuts."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der weitläufigen Place Saint-Nicolas, dem pulsierenden Herzen von Bastia. Nach einem kurzen Spaziergang erreichen Sie die beeindruckende Kirche Saint-Jean-Baptiste.\n\nMittags schlendern Sie zum Vieux Port, wo sich bunte Häuser im Wasser spiegeln. Genießen Sie frische Meeresfrüchte in einem der vielen Restaurants direkt am Kai.\n\nAm Nachmittag steigen Sie durch den Jardin Romieu hinauf zur Zitadelle. Dieses befestigte Viertel bietet eine Zeitreise in die genuesische Vergangenheit und spektakuläre Ausblicke auf das Meer.\n\nBeenden Sie den Tag im Palais des Gouverneurs. In den Gassen der Altstadt finden Sie abends gemütliche Weinbars, um lokale Spezialitäten und korsische Weine zu probieren.",
+            "hu": "Kezdje a napot a Place Saint-Nicolas tágas terén, Bastia lüktető szívében. Rövid séta után érkezik meg a lenyűgöző Keresztelő Szent János-templomhoz.\n\nDélben sétáljon el a Vieux Port-hoz, ahol a színes házak tükröződnek a vízben. Élvezze a friss tenger gyümölcseit közvetlenül a rakparton található éttermek egyikében.\n\nDélután a Jardin Romieu parkján keresztül menjen fel a citadellába. Ez az erődített negyed időutazást kínál a genuai múltba, és látványos kilátást nyújt a tengerre.\n\nA napot a Kormányzói Palotában zárja. Az óváros szűk utcáiban este hangulatos borbárokat talál, ahol helyi különlegességeket és korzikai borokat kóstolhat.",
+            "ro": "Începeți ziua în vasta Piață Saint-Nicolas, inima vibrantă a orașului Bastia. După o scurtă plimbare, veți ajunge la impresionanta Biserică Saint-Jean-Baptiste.\n\nLa prânz, plimbați-vă spre Vieux Port, unde casele colorate se oglindesc în apă. Savurați fructe de mare proaspete la unul dintre numeroasele restaurante de pe mal.\n\nDupă-amiaza, urcați prin Grădina Romieu către Citadelă. Acest cartier fortificat oferă o călătorie în timp în trecutul genovez și vederi spectaculoase asupra mării.\n\nÎncheiați ziua la Palatul Guvernatorilor. Pe străduțele orașului vechi veți găsi seara baruri de vinuri primitoare, unde puteți degusta specialități locale și vinuri corsicane.",
+            "en": "Start your day at the expansive Place Saint-Nicolas, the beating heart of Bastia. After a short walk, you will reach the impressive Saint-Jean-Baptiste Church.\n\nAt midday, stroll to the Vieux Port, where colorful houses are reflected in the water. Enjoy fresh seafood at one of the many restaurants right on the quay.\n\nIn the afternoon, climb through the Jardin Romieu up to the Citadel. This fortified district offers a journey back in time to the Genoese past and spectacular sea views.\n\nEnd the day at the Palais des Gouverneurs. In the alleys of the old town, you will find cozy wine bars in the evening to sample local specialties and Corsican wines."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Saint-Nicolas",
+                "hu": "Place Saint-Nicolas",
+                "ro": "Piața Saint-Nicolas",
+                "en": "Place Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee unter den Palmen mit Blick auf den Hafen.",
+                "hu": "Igyon meg egy kávét a pálmák alatt, kilátással a kikötőre.",
+                "ro": "Savurați o cafea sub palmiere, cu vedere la port.",
+                "en": "Enjoy a coffee under the palms with a view of the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Zwillingsglockentürme, das Wahrzeichen der Stadt.",
+                "hu": "Csodálja meg a város jelképének számító ikertornyokat.",
+                "ro": "Admirați turnurile clopotniță gemene, simbolul orașului.",
+                "en": "Admire the twin bell towers, the symbol of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Port (Alter Hafen)",
+                "hu": "Vieux Port (Régi kikötő)",
+                "ro": "Portul Vechi (Vieux Port)",
+                "en": "Vieux Port (Old Port)"
+              },
+              "tip_5lang": {
+                "de": "Der fotogenste Ort der Stadt, ideal für das Mittagessen.",
+                "hu": "A város legfotogénebb helyszíne, ideális ebédre.",
+                "ro": "Cel mai fotogenic loc din oraș, ideal pentru prânz.",
+                "en": "The most photogenic spot in town, ideal for lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin Romieu",
+                "hu": "Jardin Romieu",
+                "ro": "Grădina Romieu",
+                "en": "Jardin Romieu"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie die monumentale Treppe hinauf für einen tollen Ausblick.",
+                "hu": "Sétáljon fel a monumentális lépcsősoron a panorámáért.",
+                "ro": "Urcați scările monumentale pentru o priveliște superbă.",
+                "en": "Walk up the monumental staircase for a great view."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Bastia",
+                "hu": "Bastia citadellája",
+                "ro": "Citadela din Bastia",
+                "en": "Citadel of Bastia"
+              },
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in den engen Gassen der Terra Nova.",
+                "hu": "Vesszen el a Terra Nova negyed szűk utcácskáiban.",
+                "ro": "Pierdeți-vă pe străduțele înguste din Terra Nova.",
+                "en": "Get lost in the narrow streets of the Terra Nova district."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais des Gouverneurs (Museum)",
+                "hu": "Kormányzói palota (Múzeum)",
+                "ro": "Palatul Guvernatorilor (Muzeu)",
+                "en": "Palais des Gouverneurs (Museum)"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte Korsikas in diesem Prachtbau.",
+                "hu": "Fedezze fel Korzika történelmét ebben a pompás épületben.",
+                "ro": "Descoperiți istoria Corsicii în această clădire splendidă.",
+                "en": "Discover the history of Corsica in this magnificent building."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Aziminu",
+                "tip": "Korsische Bouillabaisse aus dem Vieux Port."
+              },
+              {
+                "name": "Charcuterie Corse",
+                "tip": "Probieren Sie Lonzu oder Prisutu in der Zitadelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aziminu",
+                "tip": "Korzikai halászlé a Vieux Port környékéről."
+              },
+              {
+                "name": "Charcuterie Corse",
+                "tip": "Kóstolja meg a Lonzu-t vagy Prisutu-t a citadellában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aziminu",
+                "tip": "Bouillabaisse corsicană din zona Portului Vechi."
+              },
+              {
+                "name": "Charcuterie Corse",
+                "tip": "Gustați Lonzu sau Prisutu în Citadelă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aziminu",
+                "tip": "Corsican bouillabaisse found near the Old Port."
+              },
+              {
+                "name": "Charcuterie Corse",
+                "tip": "Try Lonzu or Prisutu in the Citadel area."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin Romieu",
+                "tip": "Ein ruhiger Rückzugsort im Grünen.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Jetée du Dragon",
+                "tip": "Blick auf das offene Meer bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin Romieu",
+                "tip": "Csendes zöld menedék a város felett.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Jetée du Dragon",
+                "tip": "Kilátás a nyílt tengerre naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Romieu",
+                "tip": "Un refugiu verde și liniștit deasupra orașului.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Jetée du Dragon",
+                "tip": "Vedere spre mare la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin Romieu",
+                "tip": "A quiet green retreat above the city.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Jetée du Dragon",
+                "tip": "View of the open sea at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Place du Marché",
+                "tip": "Lokale Produkte wie Honig und Käse."
+              },
+              {
+                "name": "Rue Napoléon",
+                "tip": "Boutiquen und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place du Marché",
+                "tip": "Helyi termékek, mint a méz és sajtok."
+              },
+              {
+                "name": "Rue Napoléon",
+                "tip": "Butikok és kézműves boltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de alimente",
+                "tip": "Produse locale precum miere și brânzeturi."
+              },
+              {
+                "name": "Rue Napoléon",
+                "tip": "Boutique-uri și artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Market Square",
+                "tip": "Local products like honey and cheeses."
+              },
+              {
+                "name": "Rue Napoléon",
+                "tip": "Boutiques and local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bequeme Schuhe sind für die steilen Gassen der Zitadelle wichtig.",
+              "Die beste Zeit für Fotos im Alten Hafen ist der späte Nachmittag.",
+              "Die meisten Geschäfte machen mittags eine Pause.",
+              "Nutzen Sie die kleinen Durchgänge (Carrughji) für Abkürzungen."
+            ],
+            "hu": [
+              "A citadella meredek utcáihoz kényelmes cipő kötelező.",
+              "A régi kikötő fotózásához a késő délutáni fények a legjobbak.",
+              "A legtöbb üzlet ebédszünetet tart napközben.",
+              "Használja a kis átjárókat (Carrughji) a rövidítésekhez."
+            ],
+            "ro": [
+              "Pantofii comozi sunt esențiali pentru străzile abrupte ale Citadelei.",
+              "Cele mai bune fotografii în Portul Vechi se fac după-amiaza târziu.",
+              "Majoritatea magazinelor au pauză de prânz.",
+              "Folosiți pasajele mici (Carrughji) pentru scurtături."
+            ],
+            "en": [
+              "Comfortable shoes are essential for the steep streets of the Citadel.",
+              "Late afternoon light is best for photos at the Old Port.",
+              "Most shops take a lunch break during the day.",
+              "Use the small passages (Carrughji) for shortcuts."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz unter den Arkaden der Place Saint-Nicolas. Mittags bietet die Kirche Saint-Jean-Baptiste einen trockenen Rückzugsort voller Barockkunst. Am Nachmittag erkunden wir die überdachten Gassen der Zitadelle und flüchten vor dem Regen ins Gouverneurspalast-Museum. Den Abend verbringen wir gemütlich in einem der Restaurants am Alten Hafen, während die Tropfen auf das Wasser fallen.",
+            "hu": "Reggel a Place Saint-Nicolas árkádjai alatt kezdünk egy kávéval. Délben a Saint-Jean-Baptiste templom monumentális belső tere nyújt menedéket a zápor elől. Délután a Citadella szűk, védett utcáin sétálunk, majd a múzeum kiállításai közt várjuk ki az eső végét. Az estét egy hangulatos Vieux Port-i bisztróban zárjuk, élvezve a kikötő esős fényeit.",
+            "ro": "Dimineața ne adăpostim sub arcadele din Place Saint-Nicolas. La prânz, biserica Saint-Jean-Baptiste oferă un refugiu uscat și plin de artă barocă. După-amiaza explorăm străduțele înguste ale Citadelei și ne refugiem de ploaie în Muzeul Palatului Guvernatorilor. Seara o petrecem confortabil într-un restaurant din Portul Vechi, ascultând ploaia căzând peste mare.",
+            "en": "In the morning, we seek shelter under the arcades of Place Saint-Nicolas. At noon, Saint-Jean-Baptiste Church provides a dry sanctuary filled with Baroque art. In the afternoon, we explore the narrow, sheltered streets of the Citadel and take refuge from the rain in the Museum. We spend the evening cozily in an Old Port restaurant, watching the rain dance on the harbor water."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Die Cafés auf der Westseite bieten breite Markisen und gemütliche Innenräume.",
+                "hu": "A nyugati oldalon lévő kávézók széles napellenzői és belső terei szárazon tartanak.",
+                "ro": "Cafenelele de pe latura de vest oferă copertine largi și interioare primitoare.",
+                "en": "Cafes on the west side offer wide awnings and cozy indoor seating to stay dry."
+              }
+            },
+            {
+              "name": "Saint-Jean-Baptiste Church",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Schauer abzuwarten und die Akustik zu genießen.",
+                "hu": "Tökéletes hely a nagyobb záporok átvészelésére és az akustika élvezetére.",
+                "ro": "Ideal pentru a aștepta trecerea ploii torențiale și pentru a admira acustica.",
+                "en": "Ideal spot to wait out a heavy downpour while enjoying the grand interior."
+              }
+            },
+            {
+              "name": "Vieux Port (Old Port)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glitschigen Kopfsteinpflaster rund um das Hafenbecken.",
+                "hu": "Vigyázat, a kikötő körüli macskakő nagyon csúszóssá válik az esőben.",
+                "ro": "Atenție pe pavajul de piatră care devine foarte alunecos în jurul portului.",
+                "en": "Be careful on the slippery cobblestones around the harbor basin when wet."
+              }
+            },
+            {
+              "name": "Jardin Romieu",
+              "tip_5lang": {
+                "de": "Die Treppen können rutschig sein; nutzen Sie die Handläufe aus Eisen.",
+                "hu": "A lépcsők csúszósak lehetnek; használja a vaskorlátokat a biztonságért.",
+                "ro": "Scările pot fi alunecoase; folosiți balustradele de fier pentru sprijin.",
+                "en": "The stairs can be slippery; make sure to use the iron handrails for safety."
+              }
+            },
+            {
+              "name": "Citadel of Bastia",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen bieten erstaunlich guten Schutz vor seitlichem Windregen.",
+                "hu": "A szűk utcák meglepően jó védelmet nyújtanak az oldalszéllel érkező eső ellen.",
+                "ro": "Străduțele înguste oferă un adăpost surprinzător de bun împotriva vântului.",
+                "en": "The narrow alleys provide surprisingly good shelter from driving rain and wind."
+              }
+            },
+            {
+              "name": "Palais des Gouverneurs (Museum)",
+              "tip_5lang": {
+                "de": "Die beste Indoor-Option der Stadt mit fantastischem Blick aus den Fenstern.",
+                "hu": "A város legjobb beltéri programja, az ablakokból pedig pazar a kilátás.",
+                "ro": "Cea mai bună opțiune de interior din oraș, cu vederi superbe de la ferestre.",
+                "en": "The best indoor option in the city, offering fantastic views from the windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Durchgänge zwischen den Gebäuden in der Altstadt als Abkürzung im Trockenen.",
+              "Die Arkaden an der Place Saint-Nicolas sind perfekt für einen langen, regnerischen Espresso.",
+              "Ein stabiler Regenschirm ist bei den böigen Küstenwinden besser als ein leichter Knirps.",
+              "Viele Geschäfte in der Rue Napoléon bieten Vordächer, unter denen man flanieren kann.",
+              "Tragen Sie Schuhe mit gutem Profil wegen des glatten Pflasters im Hafenbereich."
+            ],
+            "hu": [
+              "Használja az óváros épületei közötti átjárókat, hogy szárazon közlekedhessen.",
+              "A Place Saint-Nicolas árkádjai alatt órákig elnézhetjük az esőt egy kávé mellett.",
+              "A szeles tengerparton egy erős esernyő többet ér, mint egy olcsó, összecsukható darab.",
+              "A Rue Napoléon boltjai előtt sok helyen van előtető, ami védi a sétálókat.",
+              "Válasszon tapadós talpú cipőt a kikötő környékén lévő síkos kövek miatt."
+            ],
+            "ro": [
+              "Folosiți pasajele dintre clădiri în orașul vechi pentru a scurta drumul prin ploaie.",
+              "Arcadele din Place Saint-Nicolas sunt perfecte pentru un espresso lung într-o zi ploioasă.",
+              "O umbrelă robustă este necesară din cauza rafalelor de vânt de pe coastă.",
+              "Multe magazine de pe Rue Napoléon au copertine sub care puteți flana la adăpost.",
+              "Purtați încălțăminte cu talpă aderentă din cauza pietrei cubice alunecoase din port."
+            ],
+            "en": [
+              "Use the covered passages between buildings in the old town to stay dry while moving.",
+              "The arcades at Place Saint-Nicolas are perfect for a long, rainy-day espresso.",
+              "A sturdy umbrella is essential due to gusty coastal winds that break light ones.",
+              "Many shops on Rue Napoléon have awnings that allow you to window-shop in the dry.",
+              "Wear shoes with good grip because the harbor paving stones become very slick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne glitzert auf der Place Saint-Nicolas, während wir den frischen Morgenwind genießen. Mittags ist die Stille in der Kirche Saint-Jean-Baptiste besonders andächtig. Nachmittags spazieren wir durch den Jardin Romieu und bestaunen die schneebedeckten Gipfel des Hinterlandes. Da die Sonne früh untergeht, genießen wir das goldene Licht an der Zitadelle und wärmen uns abends bei korsischen Spezialitäten.",
+            "hu": "A téli napfény megcsillan a Place Saint-Nicolas-n, miközben élvezzük a friss reggeli levegőt. Délben a Saint-Jean-Baptiste templom csendje különleges nyugalmat áraszt. Délután a Jardin Romieu-ből csodáljuk a háttérben magasodó havas hegycsúcsokat. A korai naplemente aranyba vonja a Citadellát, az estét pedig egy forró gesztenyelevessel zárjuk egy meleg vendéglőben.",
+            "ro": "Soarele de iarnă sclipește în Place Saint-Nicolas în timp ce savurăm briza proaspătă. La prânz, liniștea din biserica Saint-Jean-Baptiste este deosebit de profundă. După-amiaza ne plimbăm prin Jardin Romieu și admirăm vârfurile înzăpezite din depărtare. Deoarece soarele apune devreme, ne bucurăm de lumina aurie pe Citadelă și ne încălzim seara cu specialități corse.",
+            "en": "Winter sun glitters on Place Saint-Nicolas as we enjoy the fresh morning breeze. At noon, the silence in Saint-Jean-Baptiste Church is particularly peaceful. In the afternoon, we stroll through Jardin Romieu and admire the snow-capped peaks in the distance. Since the sun sets early, we catch the golden hour at the Citadel and warm up in the evening with Corsican stews."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Genießen Sie die wärmenden Sonnenstrahlen auf den nach Osten ausgerichteten Bänken.",
+                "hu": "Élvezze a melengető napsugarakat a kelet felé néző padokon.",
+                "ro": "Bucurați-vă de razele soarelui pe băncile orientate spre est.",
+                "en": "Enjoy the warming sun rays on the east-facing benches during the morning."
+              }
+            },
+            {
+              "name": "Saint-Jean-Baptiste Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als draußen; behalten Sie Ihre Jacke an.",
+                "hu": "Odabent gyakran hűvösebb van, mint kint; ne vegye le a kabátját.",
+                "ro": "În interior este adesea mai răcoare decât afară; păstrați geaca pe dvs.",
+                "en": "It is often cooler inside than outside in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Vieux Port (Old Port)",
+              "tip_5lang": {
+                "de": "Perfektes Licht für Fotos, wenn die tiefstehende Sonne die bunten Häuser beleuchtet.",
+                "hu": "Tökéletes fények a fotózáshoz, ahogy az alacsony nap megvilágítja a színes házakat.",
+                "ro": "Lumină perfectă pentru fotografii când soarele luminează casele colorate.",
+                "en": "Perfect light for photos as the low winter sun illuminates the colorful houses."
+              }
+            },
+            {
+              "name": "Jardin Romieu",
+              "tip_5lang": {
+                "de": "Bester Blick auf die schneebedeckten Berge des Cap Corse Hinterlandes.",
+                "hu": "A legjobb kilátás a Cap Corse háttérben húzódó havas hegyeire.",
+                "ro": "Cea mai bună vedere spre munții înzăpeziți din hinterlandul Cap Corse.",
+                "en": "Best view of the snow-capped mountains of the Cap Corse hinterland."
+              }
+            },
+            {
+              "name": "Citadel of Bastia",
+              "tip_5lang": {
+                "de": "Suchen Sie die sonnigen Bastionen auf, bevor der Schatten am frühen Nachmittag fällt.",
+                "hu": "Keresse fel a napos bástyákat, mielőtt a kora délutáni árnyék rávetülne.",
+                "ro": "Căutați bastioanele însorite înainte ca umbra să cadă după-amiaza devreme.",
+                "en": "Visit the sunny bastions before the early afternoon shadows fall over them."
+              }
+            },
+            {
+              "name": "Palais des Gouverneurs (Museum)",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Geschichte der Stadt ohne die Sommerhitze zu erkunden.",
+                "hu": "Meleg hely a város történelmének felfedezéséhez a nyári hőség nélkül.",
+                "ro": "Un loc călduros pentru a explora istoria orașului fără canicula verii.",
+                "en": "A warm place to explore the city's history without the summer crowds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr; planen Sie entsprechend.",
+              "Probieren Sie geröstete Kastanien oder Kastanienbier, eine typische Winterspezialität.",
+              "Die Meeresbrise kann schneidend kalt sein; ein Schal ist unverzichtbar.",
+              "Wintermärkte auf der Place Saint-Nicolas bieten lokales Handwerk und Köstlichkeiten.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten, wenn die Sonne am stärksten wärmt."
+            ],
+            "hu": [
+              "A naplemente télen már 17:00 körül bekövetkezik, tervezze ehhez a napját.",
+              "Kóstolja meg a sült gesztenyét vagy a gesztenyés sört, ami tipikus téli csemege.",
+              "A tengeri szél metszően hideg lehet, a sál elengedhetetlen kellék.",
+              "A Place Saint-Nicolas téli vásárai helyi kézműves termékeket és ételeket kínálnak.",
+              "A déli órákat használja a szabadtéri programokra, ekkor legmelegebb a nap."
+            ],
+            "ro": [
+              "Apusul soarelui are loc în jurul orei 17:00 iarna; planificați-vă timpul corect.",
+              "Gustați castanele coapte sau berea de castane, o specialitate tipică de iarnă.",
+              "Briza mării poate fi tăioasă; eșarfa este un accesoriu indispensabil.",
+              "Târgurile de iarnă din Place Saint-Nicolas oferă produse locale și delicii.",
+              "Folosiți orele prânzului pentru activități în aer liber când soarele este puternic."
+            ],
+            "en": [
+              "Sunset is as early as 5:00 PM in winter; plan your outdoor sights accordingly.",
+              "Try roasted chestnuts or chestnut beer, a typical local winter specialty.",
+              "The sea breeze can be bitingly cold; a warm scarf is an absolute must.",
+              "Winter markets on Place Saint-Nicolas offer local crafts and seasonal treats.",
+              "Make the most of the midday hours for outdoor activities when the sun is warmest."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -595,6 +1039,402 @@
           "Avoid main roads during rush hours.",
           "Always lock your bike securely in the city center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Bastia auf zwei Rädern. Starten Sie im Zentrum und folgen Sie dem Küstenradweg nach Süden zum weitläufigen Arinella-Strand.\n\nVerbringen Sie den Vormittag mit Schwimmen oder Entspannen am Strand, bevor Sie weiter zum Etang de Biguglia fahren, einer Lagune voller Wildtiere.\n\nNachmittags radeln Sie zurück in die Stadt, vorbei am malerischen Alten Hafen, wo Sie eine kurze Pause einlegen können.\n\nBeenden Sie Ihre Tour im Norden am Port de Toga, einem modernen Viertel mit vielen Cafés und Blick auf die Jachten.",
+            "hu": "Fedezze fel Bastia környékét két keréken. Kezdje a központban, és kövesse a tengerparti kerékpárutat délre a tágas Arinella strandig.\n\nTöltse a délelőttöt úszással vagy pihenéssel a parton, mielőtt továbbindulna az Etang de Biguglia lagúnához, amely tele van vadon élő állatokkal.\n\nDélután tekerjen vissza a városba, elhaladva a festői Régi kikötő mellett, ahol tarthat egy rövid szünetet.\n\nZárja a túrát északon, a Port de Toga kikötőnél, amely egy modern negyed kávézókkal és kilátással a jachtokra.",
+            "ro": "Explorați împrejurimile orașului Bastia pe două roți. Începeți în centru și urmați pista de biciclete de coastă spre sud, până la vasta plajă Arinella.\n\nPetreceți dimineața înotând sau relaxându-vă pe plajă, înainte de a continua spre Etang de Biguglia, o lagună plină de viață sălbatică.\n\nDupă-amiaza, pedalați înapoi spre oraș, trecând pe lângă pitorescul Port Vechi, unde puteți face o scurtă pauză.\n\nÎncheiați turul în nord, la Port de Toga, un cartier modern cu multe cafenele și vedere la iahturi.",
+            "en": "Explore the surroundings of Bastia on two wheels. Start in the center and follow the coastal cycle path south to the expansive Arinella beach.\n\nSpend the morning swimming or relaxing on the beach before continuing to the Etang de Biguglia, a lagoon full of wildlife.\n\nIn the afternoon, cycle back into the city past the picturesque Old Port, where you can take a short break.\n\nEnd your tour in the north at Port de Toga, a modern district with many cafes and views of the yachts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Saint-Nicolas",
+                "hu": "Place Saint-Nicolas",
+                "ro": "Piața Saint-Nicolas",
+                "en": "Place Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Sammeln Sie Kräfte vor der Abfahrt nach Süden.",
+                "hu": "Gyűjtsön erőt a déli irányú indulás előtt.",
+                "ro": "Adunați forțe înainte de plecarea spre sud.",
+                "en": "Gather strength before heading south."
+              }
+            },
+            {
+              "name": {
+                "de": "Arinella Strand",
+                "hu": "Arinella strand",
+                "ro": "Plaja Arinella",
+                "en": "Arinella Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Radweg führt direkt am Meer entlang.",
+                "hu": "Gyönyörű kerékpárút vezet közvetlenül a tengerpart mentén.",
+                "ro": "O pistă de biciclete superbă duce direct pe malul mării.",
+                "en": "A beautiful cycle path leads directly along the seafront."
+              }
+            },
+            {
+              "name": {
+                "de": "Etang de Biguglia",
+                "hu": "Etang de Biguglia",
+                "ro": "Etang de Biguglia",
+                "en": "Etang de Biguglia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Flamingos in diesem Naturschutzgebiet.",
+                "hu": "Figyelje meg a flamingókat ebben a természetvédelmi területen.",
+                "ro": "Observați flamingii în această rezervație naturală.",
+                "en": "Spot flamingos in this nature reserve."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Port",
+                "hu": "Vieux Port",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die Fußgängerzonen.",
+                "hu": "Óvatosan kerekezzen a sétálóövezetekben.",
+                "ro": "Mergeți cu atenție prin zonele pietonale.",
+                "en": "Cycle carefully through the pedestrian areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Toga",
+                "hu": "Port de Toga",
+                "ro": "Port de Toga",
+                "en": "Port de Toga"
+              },
+              "tip_5lang": {
+                "de": "Der moderne Jachthafen im Norden der Stadt.",
+                "hu": "A város északi részén található modern jachtkikötő.",
+                "ro": "Portul modern de iahturi din nordul orașului.",
+                "en": "The modern yacht marina in the north of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Canistrelli",
+                "tip": "Traditionelle Kekse, perfekt als Snack für unterwegs."
+              },
+              {
+                "name": "Pietra Bier",
+                "tip": "Korsisches Kastanienbier nach der Tour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canistrelli",
+                "tip": "Hagyományos keksz, tökéletes útközbeni snack."
+              },
+              {
+                "name": "Pietra sör",
+                "tip": "Korzikai gesztenyesör a túra után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canistrelli",
+                "tip": "Biscuiți tradiționali, perfecți ca gustare pe drum."
+              },
+              {
+                "name": "Bere Pietra",
+                "tip": "Bere de castane corsicană după tură."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canistrelli",
+                "tip": "Traditional biscuits, perfect as a snack for the road."
+              },
+              {
+                "name": "Pietra Beer",
+                "tip": "Corsican chestnut beer after the ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Etang de Biguglia",
+                "tip": "Vogelbeobachtung in absoluter Stille.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Arinella Dünen",
+                "tip": "Ruhiger Platz am Ende des Strandes.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Etang de Biguglia",
+                "tip": "Madármegfigyelés teljes nyugalomban.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Arinella dűnék",
+                "tip": "Csendes hely a strand végén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Etang de Biguglia",
+                "tip": "Observarea păsărilor în liniște deplină.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Dunele Arinella",
+                "tip": "Loc liniștit la capătul plajei.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Etang de Biguglia",
+                "tip": "Bird watching in total silence.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Arinella Dunes",
+                "tip": "Quiet spot at the end of the beach.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Spar Port de Toga",
+                "tip": "Gute Auswahl an lokalen Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Spar Port de Toga",
+                "tip": "Helyi különlegességek jó választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Spar Port de Toga",
+                "tip": "O selecție bună de specialități locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Spar Port de Toga",
+                "tip": "Good selection of local specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Küstenradweg ist flach und sehr angenehm zu fahren.",
+              "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+              "Vermeiden Sie die Hauptstraßen während der Stoßzeiten.",
+              "Schließen Sie Ihr Fahrrad im Stadtzentrum immer gut ab."
+            ],
+            "hu": [
+              "A tengerparti kerékpárút sík és nagyon kellemes.",
+              "Vigyen magával elég vizet, különösen nyáron.",
+              "Csúcsidőben kerülje a főutakat.",
+              "A városközpontban mindig jól zárja le a kerékpárját."
+            ],
+            "ro": [
+              "Pista de biciclete de coastă este plană și foarte plăcută.",
+              "Luați suficientă apă, mai ales vara.",
+              "Evitați drumurile principale în orele de vârf.",
+              "Încuiați întotdeauna bine bicicleta în centrul orașului."
+            ],
+            "en": [
+              "The coastal cycle path is flat and very pleasant to ride.",
+              "Take enough water with you, especially in summer.",
+              "Avoid main roads during rush hours.",
+              "Always lock your bike securely in the city center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens radeln wir vorsichtig entlang der Küste. Am Arinella-Strand beobachten wir die aufgewühlte See von einem geschützten Unterstand aus. Mittags machen wir eine lange Pause am Etang de Biguglia, wo das Naturschutzzentrum Trockenheit verspricht. Nachmittags kehren wir zum Alten Hafen zurück und wärmen uns in Port de Toga auf, während unsere Kleidung trocknet.",
+            "hu": "Az eső ellenére óvatosan tekerünk a tengerparti úton. Az Arinella strandon egy fedett beállóból figyeljük a háborgó tengert. Délben hosszú szünetet tartunk a Biguglia-tónál, ahol a látogatóközpont nyújt menedéket. Délután visszatérünk az óvárosba, és Port de Toga egyik kávézójában melegszünk fel, amíg a ruháink száradnak.",
+            "ro": "În ciuda ploii, pedalăm cu atenție de-a lungul coastei. La plaja Arinella observăm marea agitată dintr-un adăpost protejat. La prânz facem o pauză lungă la Etang de Biguglia, unde centrul de vizitare promite confort. După-amiaza ne întoarcem în Portul Vechi și ne încălzim în Port de Toga în timp ce hainele se usucă.",
+            "en": "Despite the rain, we cycle carefully along the coast. At Arinella Beach, we watch the stormy sea from a sheltered spot. At noon, we take a long break at Etang de Biguglia, where the nature center offers dry refuge. In the afternoon, we head back to the Old Port and warm up in Port de Toga while our gear dries off."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das Pflaster hier wird bei Nässe extrem rutschig.",
+                "hu": "Ellenőrizze a fékeket; a burkolat itt rendkívül csúszóssá válik az esőben.",
+                "ro": "Verificați frânele; pavajul devine extrem de alunecos când este ud.",
+                "en": "Check your brakes; the square's surface becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Arinella Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Strandcafés als Stopp.",
+                "hu": "Használja a strandbüfék fedett részeit pihenőhelyként.",
+                "ro": "Folosiți zonele acoperite ale cafenelelor de pe plajă pentru o oprire.",
+                "en": "Use the covered areas of the beach cafes as a temporary pit stop."
+              }
+            },
+            {
+              "name": "Etang de Biguglia",
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg um den See bietet auch bei Regen guten Grip.",
+                "hu": "A tó körüli aszfaltozott út esőben is jó tapadást biztosít.",
+                "ro": "Poteca asfaltată din jurul lacului oferă aderență bună chiar și pe ploaie.",
+                "en": "The paved path around the lake provides good tire grip even in the rain."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die weißen Begrenzungssteine, diese sind glatt wie Eis.",
+                "hu": "Kerülje a fehér szegélyköveket, mert vizesen olyanok, mint a jég.",
+                "ro": "Evitați pietrele albe de bordură, sunt alunecoase ca gheața pe ploaie.",
+                "en": "Avoid the white curb stones; they are as slippery as ice when wet."
+              }
+            },
+            {
+              "name": "Port de Toga",
+              "tip_5lang": {
+                "de": "Viele Bars hier sind fahrradfreundlich und haben Platz zum Unterstellen.",
+                "hu": "Sok itteni bár kerékpárosbarát, és van hely a bringák fedett tárolására.",
+                "ro": "Multe baruri de aici sunt prietenoase cu bicicliștii și au spații de adăpostire.",
+                "en": "Many bars here are bike-friendly and have spaces to park under cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Bastia unerlässlich, um Schmutzspritzer zu vermeiden.",
+              "Reduzieren Sie den Reifendruck leicht für eine bessere Bodenhaftung auf nassem Asphalt.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Neonfarbene Regenkleidung erhöht Ihre Sichtbarkeit bei grauem Wetter massiv.",
+              "Nach der Tour die Kette trocknen und ölen, um Korrosion durch Salzwasser zu verhindern."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen, hogy elkerülje a felverődő sarat és vizet.",
+              "Csökkentse kicsit a keréknyomást a jobb tapadás érdekében a vizes aszfalton.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek az útburkolaton.",
+              "A neon színű esőkabát drasztikusan javítja a láthatóságot szürke időben.",
+              "A túra után törölje szárazra és olajozza meg a láncot a sós pára miatti korrózió ellen."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pentru a evita stropirea hainelor.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în carosabil.",
+              "Hainele de ploaie în culori neon sporesc masiv vizibilitatea pe vreme gri.",
+              "După tură, uscați și ungeți lanțul pentru a preveni coroziunea de la sarea marină."
+            ],
+            "en": [
+              "Mudguards are essential in Bastia to avoid getting soaked by road spray.",
+              "Slightly lower your tire pressure for better traction on wet coastal asphalt.",
+              "Avoid puddles, as they often hide deep potholes in the older road sections.",
+              "Neon-colored rain gear massively increases your visibility in grey weather.",
+              "Dry and oil your chain after the ride to prevent corrosion from sea salt spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radeln am Morgen besonders erfrischend. Wir folgen dem Küstenradweg zum Arinella-Strand, wo die Brandung imposant gegen die Felsen schlägt. Mittags beobachten wir Flamingos am Etang de Biguglia, die hier überwintern. Da es früh kühlt, kehren wir rechtzeitig zum Alten Hafen zurück und genießen die warme Abendsonne in Port de Toga.",
+            "hu": "A tiszta téli levegő felfrissíti a reggeli tekerést. A tengerparti kerékpárúton haladunk az Arinella strandig, ahol a hullámok látványosan csapkodják a sziklákat. Délben a Biguglia-tónál telelő flamingókat figyeljük meg. Mivel korán lehűl az idő, időben visszatérünk a kikötőbe, és Port de Toga teraszán élvezzük a lemenő nap erejét.",
+            "ro": "Aerul curat de iarnă face pedalatul de dimineață foarte revigorant. Urmăm pista de biciclete spre plaja Arinella, unde valurile se sparg spectaculos. La prânz observăm flamingo la Etang de Biguglia, care iernează aici. Deoarece se răcește devreme, ne întoarcem la Portul Vechi și savurăm soarele cald de seară în Port de Toga.",
+            "en": "The crisp winter air makes the morning ride especially refreshing. We follow the coastal bike path to Arinella Beach, where the surf crashes impressively against the rocks. At noon, we spot flamingos wintering at Etang de Biguglia. As it cools down early, we return to the Old Port in time to enjoy the warm evening glow in Port de Toga."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Starten Sie erst nach 9:00 Uhr, wenn der Reif auf den Wegen geschmolzen ist.",
+                "hu": "Csak 9:00 után induljon, amikor a dér már elolvadt az utakon.",
+                "ro": "Porniți după ora 9:00, când bruma de pe drumuri s-a topit.",
+                "en": "Start after 9:00 AM once any morning frost on the paths has melted away."
+              }
+            },
+            {
+              "name": "Arinella Beach",
+              "tip_5lang": {
+                "de": "Ein toller Ort für ein Picknick in der Wintersonne ohne die Sommer-Massen.",
+                "hu": "Nagyszerű hely egy piknikhez a téli napsütésben, a nyári tömeg nélkül.",
+                "ro": "Un loc excelent pentru un picnic la soare, fără mulțimile de vară.",
+                "en": "A great spot for a picnic in the winter sun without the summer crowds."
+              }
+            },
+            {
+              "name": "Etang de Biguglia",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit, um die Zugvögel im Winterquartier zu sehen.",
+                "hu": "Hozzon távcsövet, hogy megfigyelhesse a telelő költözőmadarakat.",
+                "ro": "Aduceți un binoclu pentru a vedea păsările migratoare în cartierul de iarnă.",
+                "en": "Bring binoculars to spot the migratory birds in their winter quarters."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Die Cafés auf der Sonnenseite des Hafens sind im Winter heiß begehrt.",
+                "hu": "A kikötő napos oldalán lévő kávézók télen nagyon népszerűek.",
+                "ro": "Cafenelele de pe partea însorită a portului sunt foarte căutate iarna.",
+                "en": "Cafes on the sunny side of the harbor are highly popular in winter."
+              }
+            },
+            {
+              "name": "Port de Toga",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Tour vor Einbruch der Dunkelheit zu beenden.",
+                "hu": "Tökéletes hely a túra befejezésére még sötétedés előtt.",
+                "ro": "Locul perfect pentru a încheia turul înainte de lăsarea întunericului.",
+                "en": "Perfect place to end your tour before the winter darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip), da es im Schatten schnell kühl wird.",
+              "Warme Handschuhe sind wichtig, da der Fahrtwind an der Küste eisig sein kann.",
+              "Die Sonne steht tief; eine Sonnenbrille ist wegen der Blendung auf dem Asphalt nötig.",
+              "Prüfen Sie Ihre Beleuchtung, falls Sie nach 16:30 Uhr noch unterwegs sind.",
+              "Der Küstenradweg nach Süden ist im Winter meist windgeschützter als der Norden."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékban hirtelen lecsökken a hőérzet.",
+              "A meleg kesztyű fontos, mert a tengerparti menetszél jeges lehet.",
+              "A nap alacsonyan jár, napszemüveg kell az aszfaltról visszaverődő fény ellen.",
+              "Ellenőrizze a világítást, ha 16:30 után is úton tervez lenni.",
+              "A délre tartó tengerparti kerékpárút télen szélvédettebb, mint az északi szakasz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece se răcește rapid la umbră.",
+              "Mănușile călduroase sunt importante, deoarece vântul de coastă poate fi înghețat.",
+              "Soarele este jos; ochelarii de soare sunt necesari din cauza reflexiei pe asfalt.",
+              "Verificați luminile bicicletei dacă plănuiți să fiți pe drum după ora 16:30.",
+              "Pista de biciclete spre sud este de obicei mai ferită de vânt iarna decât nordul."
+            ],
+            "en": [
+              "Layer your clothing (onion principle) as it cools down rapidly in the shade.",
+              "Warm gloves are vital because the wind chill on the coast can be icy.",
+              "The sun sits low; sunglasses are necessary to avoid glare from the road surface.",
+              "Check your bike lights if you plan to be out after 4:30 PM.",
+              "The coastal bike path heading south is usually more sheltered from wind in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -870,6 +1710,402 @@
           "The coastal road to the north offers great photo stops.",
           "Watch out for restricted traffic zones in the old town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto können Sie die Höhen und die Umgebung von Bastia erkunden. Beginnen Sie in der Zitadelle, bevor Sie die kurvenreiche Straße zum Serra di Pigno hinauffahren.\n\nVon dort oben haben Sie einen atemberaubenden Blick über ganz Bastia und sogar bis nach Saint-Florent auf der anderen Seite der Insel.\n\nMittags fahren Sie in den Norden zum charmanten Dorf Erbalunga, einem Juwel des Cap Corse, wo Sie in einem Restaurant am Wasser essen können.\n\nAm Nachmittag entspannen Sie in Miomo, bevor Sie ins Stadtzentrum zurückkehren, um den Abend auf der Place Saint-Nicolas zu genießen.",
+            "hu": "Autóval felfedezheti Bastia magasságait és környékét. Kezdjen a citadellában, mielőtt felhajtana a szerpentines úton a Serra di Pigno csúcsára.\n\nOnnan fentről lélegzetelállító kilátás nyílik egész Bastiára, sőt, még a sziget túloldalán fekvő Saint-Florent-ig is ellátni.\n\nDélben hajtson északra a bájos Erbalunga faluba, amely a Cap Corse egyik gyöngyszeme, és ebédeljen egy vízparti étteremben.\n\nDélután pihenjen Miomóban, mielőtt visszatérne a városközpontba, hogy az estét a Place Saint-Nicolas-on töltse.",
+            "ro": "Cu mașina puteți explora înălțimile și împrejurimile orașului Bastia. Începeți la Citadelă, înainte de a urca pe drumul sinuos către Serra di Pigno.\n\nDe acolo de sus aveți o priveliște uluitoare peste tot orașul Bastia și chiar până la Saint-Florent, pe cealaltă parte a insulei.\n\nLa prânz, conduceți spre nord către satul fermecător Erbalunga, o bijuterie a Cap Corse, unde puteți mânca la un restaurant pe malul mării.\n\nDupă-amiaza relaxați-vă în Miomo, înainte de a reveni în centrul orașului pentru a vă bucura de seară în Piața Saint-Nicolas.",
+            "en": "By car, you can explore the heights and surroundings of Bastia. Start at the Citadel before driving up the winding road to Serra di Pigno.\n\nFrom up there, you have a breathtaking view over all of Bastia and even as far as Saint-Florent on the other side of the island.\n\nAt midday, drive north to the charming village of Erbalunga, a jewel of Cap Corse, where you can eat at a waterfront restaurant.\n\nIn the afternoon, relax in Miomo before returning to the city center to enjoy the evening at Place Saint-Nicolas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zitadelle von Bastia",
+                "hu": "Bastia citadellája",
+                "ro": "Citadela din Bastia",
+                "en": "Citadel of Bastia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus der Zitadelle.",
+                "hu": "Használja a citadella alatti parkolóházat.",
+                "ro": "Parcați în parcarea subterană a Citadelei.",
+                "en": "Use the underground parking at the Citadel."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra di Pigno",
+                "hu": "Serra di Pigno",
+                "ro": "Serra di Pigno",
+                "en": "Serra di Pigno"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt mit Blick auf beide Küsten Korzikas.",
+                "hu": "A legmagasabb pont, ahonnan mindkét korzikai part látható.",
+                "ro": "Cel mai înalt punct, cu vedere spre ambele coaste ale Corsicii.",
+                "en": "The highest point with views of both Corsican coasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Erbalunga",
+                "hu": "Erbalunga",
+                "ro": "Erbalunga",
+                "en": "Erbalunga"
+              },
+              "tip_5lang": {
+                "de": "Ein malerisches Fischerdorf am Eingang zum Cap Corse.",
+                "hu": "Festői halászfalu a Cap Corse bejáratánál.",
+                "ro": "Un sat pescăresc pitoresc la intrarea în Cap Corse.",
+                "en": "A picturesque fishing village at the gateway to Cap Corse."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine de Miomo",
+                "hu": "Marine de Miomo",
+                "ro": "Marine de Miomo",
+                "en": "Marine de Miomo"
+              },
+              "tip_5lang": {
+                "de": "Kleiner Kieselstrand mit einem Genueserturm.",
+                "hu": "Kis kavicsos strand egy genuai toronnyal.",
+                "ro": "Mică plajă cu pietriș și un turn genovez.",
+                "en": "Small pebble beach with a Genoese tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Saint-Nicolas",
+                "hu": "Place Saint-Nicolas",
+                "ro": "Piața Saint-Nicolas",
+                "en": "Place Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag bei einem Aperitif ausklingen.",
+                "hu": "Zárja a napot egy kellemes aperitiffel.",
+                "ro": "Încheiați ziua cu un aperitiv relaxant.",
+                "en": "End the day with a relaxing aperitif."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pulenda",
+                "tip": "Korsische Polenta aus Kastanienmehl."
+              },
+              {
+                "name": "Brocciu-Käse",
+                "tip": "Probieren Sie ihn frisch oder in Omelettes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pulenda",
+                "tip": "Korzikai puliszka gesztenyelisztből."
+              },
+              {
+                "name": "Brocciu sajt",
+                "tip": "Kóstolja meg frissen vagy omlettben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pulenda",
+                "tip": "Mămăligă corsicană din făină de castane."
+              },
+              {
+                "name": "Brânză Brocciu",
+                "tip": "Gustați-o proaspătă sau în omlete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pulenda",
+                "tip": "Corsican polenta made from chestnut flour."
+              },
+              {
+                "name": "Brocciu Cheese",
+                "tip": "Try it fresh or in omelettes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Serra di Pigno",
+                "tip": "Absolute Stille über den Wolken.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turm von Erbalunga",
+                "tip": "Lauschen Sie dem Meeresrauschen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Serra di Pigno",
+                "tip": "Teljes csend a felhők felett.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Erbalunga tornya",
+                "tip": "Hallgassa a tenger morajlását.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Serra di Pigno",
+                "tip": "Liniște deplină deasupra norilor.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Turnul din Erbalunga",
+                "tip": "Ascultați sunetul mării.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Serra di Pigno",
+                "tip": "Total silence above the clouds.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Erbalunga Tower",
+                "tip": "Listen to the sound of the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cap Corse Mattei",
+                "tip": "Der berühmte Aperitif-Laden im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Corse Mattei",
+                "tip": "A híres aperitif bolt a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cap Corse Mattei",
+                "tip": "Celebrul magazin de aperitive din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Corse Mattei",
+                "tip": "The famous aperitif shop in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen zum Serra di Pigno sind eng und kurvenreich.",
+              "Parkplätze in Bastia sind im Sommer oft Mangelware.",
+              "Die Küstenstraße nach Norden bietet tolle Fotostopps.",
+              "Beachten Sie die eingeschränkten Verkehrsflächen in der Altstadt."
+            ],
+            "hu": [
+              "A Serra di Pigno-hoz vezető utak szűkek és kanyargósak.",
+              "Bastiában nyáron gyakran nehéz parkolóhelyet találni.",
+              "Az északi part menti út remek fotómegállókat kínál.",
+              "Ügyeljen a korlátozott forgalmú övezetekre az óvárosban."
+            ],
+            "ro": [
+              "Drumurile spre Serra di Pigno sunt înguste și sinuoase.",
+              "Locurile de parcare în Bastia sunt greu de găsit vara.",
+              "Drumul de coastă spre nord oferă opriri superbe pentru poze.",
+              "Atenție la zonele cu trafic restricționat din orașul vechi."
+            ],
+            "en": [
+              "The roads to Serra di Pigno are narrow and winding.",
+              "Parking in Bastia can be scarce in summer.",
+              "The coastal road to the north offers great photo stops.",
+              "Watch out for restricted traffic zones in the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen starten wir geschützt in der Zitadelle. Die Fahrt zum Serra di Pigno führt durch mystische Wolkenformationen, auch wenn die Fernsicht eingeschränkt ist. Mittags genießen wir die dramatische Atmosphäre im Küstendorf Erbalunga, wo wir lange in einer gemütlichen Trattoria verweilen. Nachmittags beobachten wir den Regen an der Marine de Miomo und enden unter den Arkaden der Place Saint-Nicolas.",
+            "hu": "Esős időben a Citadella védett múzeumában kezdünk. A Serra di Pigno felé vezető út misztikus felhőkön visz keresztül, még ha a kilátás korlátozott is. Délben Erbalunga drámai tengerparti látványában gyönyörködünk egy hangulatos trattoria ablakából. Délután a Marine de Miomo partján figyeljük a hullámokat, majd a Place Saint-Nicolas árkádjai alatt parkolunk le.",
+            "ro": "Pe ploaie începem protejați în Citadelă. Drumul spre Serra di Pigno trece prin formațiuni de nori mistice, chiar dacă vizibilitatea este redusă. La prânz savurăm atmosfera dramatică din satul Erbalunga, unde zăbovim într-o trattoria primitoare. După-amiaza observăm ploaia la Marine de Miomo și încheiem sub arcadele din Place Saint-Nicolas.",
+            "en": "In the rain, we start sheltered in the Citadel. The drive to Serra di Pigno leads through mystical cloud formations, even if the long-range view is limited. At noon, we enjoy the dramatic atmosphere in Erbalunga, lingering in a cozy trattoria. In the afternoon, we watch the rain hit the sea at Marine de Miomo and end under the arcades of Place Saint-Nicolas."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Bastia",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Citadelle', um trocken ins Zentrum zu gelangen.",
+                "hu": "Parkoljon a 'Citadelle' mélygarázsban, így szárazon juthat a központba.",
+                "ro": "Parcați în parcarea subterană 'Citadelle' pentru a ajunge uscat în centru.",
+                "en": "Park in the 'Citadelle' underground garage to reach the center without getting wet."
+              }
+            },
+            {
+              "name": "Serra di Pigno",
+              "tip_5lang": {
+                "de": "Vorsicht vor Nebel; die Straße ist schmal und kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat a köddel; az út szűk és vizesen nagyon csúszós lehet.",
+                "ro": "Atenție la ceață; drumul este îngust și poate fi alunecos pe ploaie.",
+                "en": "Watch out for fog; the road is narrow and can be very slick when wet."
+              }
+            },
+            {
+              "name": "Erbalunga",
+              "tip_5lang": {
+                "de": "Die Restaurants am kleinen Hafen bieten einen tollen Blick auf die Brandung.",
+                "hu": "A kis kikötő éttermei remek kilátást nyújtanak a felcsapó hullámokra.",
+                "ro": "Restaurantele din portul mic oferă o vedere excelentă spre valurile mării.",
+                "en": "Restaurants at the small harbor offer a great view of the crashing surf."
+              }
+            },
+            {
+              "name": "Marine de Miomo",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie den Blick auf den genuesischen Turm im Regen.",
+                "hu": "Maradjon az autóban, és csodálja a genovai torony látványát az esőben.",
+                "ro": "Rămâneți în mașină și admirați turnul genovez prin parbrizul plouat.",
+                "en": "Stay in the car and enjoy the view of the Genoese tower through the rain."
+              }
+            },
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Das Parkhaus unter dem Platz ist der ideale Endpunkt für Regentage.",
+                "hu": "A tér alatti mélygarázs ideális végpont egy esős napon.",
+                "ro": "Parcarea subterană de sub piață este punctul final ideal pentru zilele ploioase.",
+                "en": "The underground parking under the square is the ideal end point for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße D80 kann bei starkem Regen Steinschlag aufweisen; fahren Sie vorsichtig.",
+              "Nutzen Sie die Parkhäuser (Citadelle, Saint-Nicolas), um Fußwege im Regen zu minimieren.",
+              "Bei Nebel am Serra di Pigno unbedingt mit Abblendlicht fahren.",
+              "Erbalunga ist auch bei Grau ein tolles Fotomotiv, besonders die alte Ruine am Meer.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da die schmalen Wege bei Nässe mehr Konzentration erfordern."
+            ],
+            "hu": [
+              "A D80-as parti úton erős esőben előfordulhat kőomlás; vezessen óvatosan.",
+              "Használja a mélygarázsokat (Citadelle, Saint-Nicolas), hogy elkerülje az ázást.",
+              "A Serra di Pigno ködös szakaszain feltétlenül használja a tompított fényszórót.",
+              "Erbalunga szürke időben is hálás fotótéma, főleg a tengerparti romok.",
+              "Számoljon hosszabb menetidővel, mert a szűk utak vizesen nagyobb figyelmet igényelnek."
+            ],
+            "ro": [
+              "Drumul de coastă D80 poate avea căderi de pietre pe ploaie torențială; conduceți prudent.",
+              "Folosiți parcările subterane pentru a minimiza mersul pe jos prin ploaie.",
+              "Folosiți obligatoriu faza scurtă în caz de ceață pe Serra di Pigno.",
+              "Erbalunga este un motiv fotografic excelent chiar și pe vreme gri.",
+              "Planificați mai mult timp pentru traseu, deoarece drumurile înguste necesită concentrare sporită."
+            ],
+            "en": [
+              "The D80 coastal road can experience rockfalls during heavy rain; drive cautiously.",
+              "Use underground parking (Citadelle, Saint-Nicolas) to minimize walking in the rain.",
+              "Always use dipped headlights if you encounter fog on the Serra di Pigno climb.",
+              "Erbalunga remains a great photo spot even in grey weather, especially the seaside ruins.",
+              "Allow extra time for travel as narrow, wet roads require much higher concentration."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bietet die Auffahrt zum Serra di Pigno eine unvergleichliche Fernsicht bis nach Italien. Mittags genießen wir die Ruhe in Erbalunga, wo wir fast die einzigen Besucher sind. Die Wintersonne wärmt uns bei einem Stopp an der Marine de Miomo, bevor wir den Tag auf der belebten Place Saint-Nicolas ausklingen lassen. Das Licht am Cap Corse ist in dieser Jahreszeit besonders magisch.",
+            "hu": "Egy tiszta téli napon a Serra di Pigno felé vezető út páratlan kilátást nyújt, akár Olaszországig is ellátni. Délben élvezzük Erbalunga nyugalmát, ahol szinte mi vagyunk az egyedüli látogatók. A téli napfény melenget minket a Marine de Miomo partján, mielőtt a napot a nyüzsgő Place Saint-Nicolas-n zárnánk. A Cap Corse fényei ilyenkor a legvarázslatosabbak.",
+            "ro": "Într-o zi senină de iarnă, urcarea spre Serra di Pigno oferă o vedere panoramică până în Italia. La prânz ne bucurăm de liniștea din Erbalunga, unde suntem aproape singurii vizitatori. Soarele de iarnă ne încălzește la Marine de Miomo înainte de a încheia ziua în Place Saint-Nicolas. Lumina de pe Cap Corse este magică în acest sezon.",
+            "en": "On a clear winter day, the drive up Serra di Pigno offers unmatched views stretching as far as Italy. At noon, we enjoy the peace of Erbalunga, being almost the only visitors. Winter sun warms us during a stop at Marine de Miomo, before finishing the day at the lively Place Saint-Nicolas. The light on Cap Corse is especially magical this time of year."
+          },
+          "stops": [
+            {
+              "name": "Citadel of Bastia",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt vor der Zitadelle oft frei.",
+                "hu": "Télen a közvetlenül a Citadella előtti parkolóhelyek gyakran szabadok.",
+                "ro": "Iarna, locurile de parcare direct în fața Citadelei sunt adesea libere.",
+                "en": "In winter, parking spots directly in front of the Citadel are often available."
+              }
+            },
+            {
+              "name": "Serra di Pigno",
+              "tip_5lang": {
+                "de": "Oben kann es empfindlich kalt sein; Windjacke mitnehmen.",
+                "hu": "Fent metszően hideg lehet; vigyen magával szélálló dzsekit.",
+                "ro": "Sus poate fi extrem de frig; luați o jachetă rezistentă la vânt.",
+                "en": "It can be significantly colder at the summit; bring a windproof jacket."
+              }
+            },
+            {
+              "name": "Erbalunga",
+              "tip_5lang": {
+                "de": "Einige Restaurants haben Winterpause, aber die Cafés am Platz sind offen.",
+                "hu": "Néhány étterem zárva tart télen, de a főtéri kávézók nyitva vannak.",
+                "ro": "Unele restaurante sunt închise iarna, dar cafenelele din piață rămân deschise.",
+                "en": "Some restaurants take a winter break, but cafes in the square usually stay open."
+              }
+            },
+            {
+              "name": "Marine de Miomo",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen kurzen Spaziergang in der Mittagssonne.",
+                "hu": "Tökéletes hely egy rövid sétához a déli napsütésben.",
+                "ro": "Locul perfect pentru o scurtă plimbare în soarele amiezii.",
+                "en": "Perfect place for a short walk in the strengthening midday sun."
+              }
+            },
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Abends sind die Terrassen mit Heizstrahlern sehr gemütlich.",
+                "hu": "Este a hősugárzókkal felszerelt teraszok nagyon hívogatóak.",
+                "ro": "Seara, terasele dotate cu radiatoare sunt foarte primitoare.",
+                "en": "In the evening, the terraces with outdoor heaters are very cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Luft ist im Winter klarer, was perfekte Bedingungen für Weitblick-Fotos bietet.",
+              "Vorsicht bei Frostschatten-Stellen auf der schmalen Straße zum Serra di Pigno.",
+              "Viele Parkzonen, die im Sommer kostenpflichtig sind, könnten im Winter gratis sein.",
+              "Nehmen Sie warme Getränke im Auto mit, falls Sie länger oben am Berg verweilen.",
+              "Der Sonnenuntergang am Cap Corse ist spektakulär, aber fahren Sie vor Dunkelheit zurück."
+            ],
+            "hu": [
+              "A levegő télen tisztább, ami tökéletes feltételeket biztosít a tájképekhez.",
+              "Vigyázzon a tartósan árnyékos útszakaszokon a Serra di Pigno felé, ahol lefagyás lehet.",
+              "Sok parkolózóna, ami nyáron fizetős, télen ingyenes lehet (ellenőrizze a táblákat).",
+              "Vigyen meleg italt az autóban, ha hosszabb időt tervez a hegytetőn tölteni.",
+              "A naplemente a Cap Corse-nál látványos, de próbáljon sötétedés előtt visszaérni a városba."
+            ],
+            "ro": [
+              "Aerul este mai clar iarna, oferind condiții perfecte pentru fotografii la distanță.",
+              "Atenție la porțiunile de drum aflate permanent în umbră spre Serra di Pigno.",
+              "Multe zone de parcare cu plată vara ar putea fi gratuite iarna; verificați semnele.",
+              "Luați băuturi calde în mașină dacă plănuiți să zăboviți mai mult pe munte.",
+              "Apusul pe Cap Corse este spectaculos, dar întoarceți-vă înainte de întuneric."
+            ],
+            "en": [
+              "The air is clearer in winter, providing perfect conditions for long-range photography.",
+              "Watch out for icy patches in permanent shadows on the narrow Serra di Pigno road.",
+              "Many parking zones that require payment in summer might be free in winter.",
+              "Carry warm drinks in the car if you plan to linger at the mountain viewpoints.",
+              "Sunset at Cap Corse is spectacular, but aim to head back before total darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1109,34 +2345,367 @@
           "Lines 1 and 4 are the most useful for tourists.",
           "Watch the displays at the Place Saint-Nicolas stop."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Busnetz der „Bastia Bus“, um die Stadt und die Dörfer in den Hügeln zu erkunden. Starten Sie im Zentrum und nehmen Sie den Kleinbus zur Zitadelle.\n\nFahren Sie danach weiter hinauf nach Cardo, einem typisch korsischen Dorf, das über der Stadt thront und Ruhe abseits des Rummels bietet.\n\nMittags kehren Sie zum Zentrum zurück und nehmen die Linie zum Arinella-Strand für ein erfrischendes Bad im Meer.\n\nBeenden Sie den Tag im Alten Hafen, der nur einen kurzen Spaziergang von den Hauptbusstationen entfernt ist.",
+            "hu": "Használja a „Bastia Bus” hálózatát a város és a domboldali falvak felfedezéséhez. Kezdjen a központban, és szálljon fel a citadellához közlekedő kisbuszra.\n\nEzután menjen tovább Cardóba, egy tipikus korzikai faluba, amely a város felett trónol, és nyugalmat kínál a tömegtől távol.\n\nDélben térjen vissza a központba, és menjen el az Arinella strandhoz egy frissítő fürdőzésre.\n\nA napot a Régi kikötőben zárja, amely csak egy rövid sétára van a fő buszmegállóktól.",
+            "ro": "Folosiți rețeaua „Bastia Bus” pentru a explora orașul și satele de pe dealuri. Începeți în centru și luați microbuzul către Citadelă.\n\nContinuați apoi spre Cardo, un sat corsican tipic care domină orașul, oferind liniște departe de agitație.\n\nLa prânz, reveniți în centru și luați linia către plaja Arinella pentru o baie răcoritoare în mare.\n\nÎncheiați ziua în Portul Vechi, situat la o scurtă plimbare de stațiile principale de autobuz.",
+            "en": "Use the 'Bastia Bus' network to explore the city and the hillside villages. Start in the center and take the minibus up to the Citadel.\n\nAfterwards, continue up to Cardo, a typical Corsican village perched above the city, offering peace away from the crowds.\n\nAt midday, return to the center and take the line to Arinella beach for a refreshing swim in the sea.\n\nEnd the day at the Old Port, which is just a short walk from the main bus stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Saint-Nicolas",
+                "hu": "Place Saint-Nicolas",
+                "ro": "Piața Saint-Nicolas",
+                "en": "Place Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für fast alle Buslinien.",
+                "hu": "Központi csomópont szinte az összes buszjárat számára.",
+                "ro": "Nod central pentru aproape toate liniile de autobuz.",
+                "en": "Central hub for almost all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle (Linie 1)",
+                "hu": "Citadella (1-es vonal)",
+                "ro": "Citadela (Linia 1)",
+                "en": "Citadel (Line 1)"
+              },
+              "tip_5lang": {
+                "de": "Sparen Sie sich den steilen Aufstieg zu Fuß.",
+                "hu": "Spórolja meg a meredek gyaloglást felfelé.",
+                "ro": "Economisiți efortul urcușului abrupt pe jos.",
+                "en": "Save yourself the steep walk uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Cardo (Linie 1)",
+                "hu": "Cardo (1-es vonal)",
+                "ro": "Cardo (Linia 1)",
+                "en": "Cardo (Line 1)"
+              },
+              "tip_5lang": {
+                "de": "Ein altes Dorf oberhalb von Bastia mit toller Aussicht.",
+                "hu": "Egy régi falu Bastia felett, remek kilátással.",
+                "ro": "Un sat vechi deasupra orașului, cu o vedere superbă.",
+                "en": "An old village above Bastia with great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Arinella (Linie 4)",
+                "hu": "Arinella (4-es vonal)",
+                "ro": "Arinella (Linia 4)",
+                "en": "Arinella (Line 4)"
+              },
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zum größten Sandstrand.",
+                "hu": "A busz közvetlenül a legnagyobb homokos strandhoz viszi.",
+                "ro": "Autobuzul vă duce direct la cea mai mare plajă cu nisip.",
+                "en": "The bus takes you directly to the largest sandy beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Port",
+                "hu": "Vieux Port",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen letzten Blick aufs Meer.",
+                "hu": "Szép hely egy utolsó pillantásra a tengerre.",
+                "ro": "Un loc frumos pentru o ultimă privire spre mare.",
+                "en": "A beautiful spot for a final look at the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fiadone",
+                "tip": "Korsischer Käsekuchen mit Zitrone."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fiadone",
+                "tip": "Korzikai túrótorta citrommal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fiadone",
+                "tip": "Prăjitură cu brânză corsicană și lămâie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fiadone",
+                "tip": "Corsican cheesecake with lemon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche von Cardo",
+                "tip": "Ein friedlicher Platz im Dorf.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cardo temploma",
+                "tip": "Békés hely a faluban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica din Cardo",
+                "tip": "Un loc liniștit în sat.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cardo Church",
+                "tip": "A peaceful spot in the village.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Géant Casino",
+                "tip": "Großes Einkaufszentrum an der Buslinie 4."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Géant Casino",
+                "tip": "Nagy bevásárlóközpont a 4-es buszvonalon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Géant Casino",
+                "tip": "Centru comercial mare pe linia de autobuz 4."
+              }
+            ],
+            "en": [
+              {
+                "name": "Géant Casino",
+                "tip": "Large shopping center on bus line 4."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrkarten können direkt beim Fahrer gekauft werden.",
+              "Die Fahrpläne sind an Sonntagen stark eingeschränkt.",
+              "Die Linien 1 und 4 sind für Touristen am nützlichsten.",
+              "Achten Sie auf die Anzeigen an der Haltestelle Place Saint-Nicolas."
+            ],
+            "hu": [
+              "Jegyet közvetlenül a buszvezetőnél is vehet.",
+              "Vasárnaponként a menetrendek erősen korlátozottak.",
+              "Az 1-es és 4-es vonalak a leghasznosabbak a turistáknak.",
+              "Figyelje a kijelzőket a Place Saint-Nicolas megállónál."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "Orarele sunt mult reduse în zilele de duminică.",
+              "Liniile 1 și 4 sunt cele mai utile pentru turiști.",
+              "Urmăriți afișajele din stația Piața Saint-Nicolas."
+            ],
+            "en": [
+              "Tickets can be purchased directly from the driver.",
+              "Schedules are significantly reduced on Sundays.",
+              "Lines 1 and 4 are the most useful for tourists.",
+              "Watch the displays at the Place Saint-Nicolas stop."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus ist unser Rettungsanker an diesem Regentag. Wir starten an der Place Saint-Nicolas und fahren mit der Linie 1 direkt zur Zitadelle, um nicht nass zu werden. Mittags bringt uns der Bus nach Cardo, wo wir die Aussicht unter einem Vordach genießen. Nachmittags nutzen wir die Linie 4 zum Arinella-Strand und beobachten das Meer vom Busfenster aus, bevor wir trocken zum Hafen zurückkehren.",
+            "hu": "A busz az igazi mentőöv ezen az esős napon. A Place Saint-Nicolas-tól az 1-es vonallal egyenesen a Citadelláig megyünk, hogy ne ázzunk el. Délben Cardo felé vesszük az irányt, ahol egy előtető alól csodáljuk a kilátást. Délután a 4-es busszal megyünk ki az Arinella strandra, a busz ablakából figyelve a tengert, majd szárazon térünk vissza a kikötőbe.",
+            "ro": "Autobuzul este colacul nostru de salvare în această zi ploioasă. Pornim din Place Saint-Nicolas și luăm Linia 1 direct spre Citadelă pentru a nu ne uda. La prânz autobuzul ne duce la Cardo, unde admirăm vederea de sub un acoperiș. După-amiaza folosim Linia 4 spre plaja Arinella și observăm marea de la fereastră, înainte de a ne întoarce la port.",
+            "en": "The bus is our lifesaver on this rainy day. We start at Place Saint-Nicolas and take Line 1 directly to the Citadel to avoid the rain. At noon, the bus takes us up to Cardo, where we enjoy the views from under a shelter. In the afternoon, we use Line 4 to Arinella Beach, watching the sea from the window before returning dry to the harbor."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier haben meist gute Wartehäuschen.",
+                "hu": "Az itteni buszmegállók többsége jól felszerelt váróteremmel rendelkezik.",
+                "ro": "Stațiile de autobuz de aici au de obicei adăposturi bune pentru așteptare.",
+                "en": "The bus stops here are mostly equipped with good weather shelters."
+              }
+            },
+            {
+              "name": "Citadel (Line 1)",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării în muzeu.",
+                "en": "The bus stops almost right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Cardo (Line 1)",
+              "tip_5lang": {
+                "de": "Im Dorf gibt es einige überdachte Passagen mit toller Aussicht.",
+                "hu": "A faluban több fedett átjáró is van, ahonnan remek a kilátás.",
+                "ro": "În sat există câteva pasaje acoperite cu o vedere excelentă.",
+                "en": "In the village, there are several covered passages with great views."
+              }
+            },
+            {
+              "name": "Arinella (Line 4)",
+              "tip_5lang": {
+                "de": "Die Endstation bietet einen geschützten Bereich zum Warten auf die Rückfahrt.",
+                "hu": "A végállomás fedett váróhelyet biztosít a visszaúthoz.",
+                "ro": "Capătul de linie oferă o zonă protejată pentru a aștepta întoarcerea.",
+                "en": "The terminus offers a sheltered area to wait for the return bus."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle zu den nahen Cafés.",
+                "hu": "Használja ki a rövid sétát a megállótól a közeli kávézókig.",
+                "ro": "Folosiți distanța scurtă de la stație la cafenelele din apropiere.",
+                "en": "Take advantage of the very short walk from the stop to nearby cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Bastia Bus-App herunter, um Live-Ankunftszeiten im Trockenen zu prüfen.",
+              "Ein Tagesticket lohnt sich bei Regen besonders, um flexibel umzusteigen.",
+              "Busse können bei starkem Regen aufgrund des Verkehrs leicht verspätet sein.",
+              "Die Linie 1 ist die beste Option, um die steilen Wege zur Zitadelle trocken zu überbrücken.",
+              "Halten Sie Ihr Ticket bereit, um zügig einzusteigen und nicht im Regen zu stehen."
+            ],
+            "hu": [
+              "Töltse le a Bastia Bus alkalmazást, hogy fedett helyről követhesse a járatokat.",
+              "A napijegy esőben különösen megéri a rugalmas átszállások miatt.",
+              "A buszok erős esőben a forgalom miatt kisebb késéssel közlekedhetnek.",
+              "Az 1-es vonal a legjobb megoldás, hogy szárazon jusson fel a meredek Citadellához.",
+              "Tartsa készenlétben a jegyét a gyors felszálláshoz, hogy ne kelljen az esőben állnia."
+            ],
+            "ro": [
+              "Descărcați aplicația Bastia Bus pentru a verifica timpii de sosire la adăpost.",
+              "Un bilet de o zi merită din plin pe ploaie pentru transferuri flexibile.",
+              "Autobuzele pot avea întârzieri ușoare pe ploaie torențială din cauza traficului.",
+              "Linia 1 este cea mai bună opțiune pentru a ajunge uscat la Citadelă.",
+              "Aveți biletul pregătit pentru o îmbarcare rapidă, evitând ploaia."
+            ],
+            "en": [
+              "Download the Bastia Bus app to check live arrival times while staying dry.",
+              "A day pass is especially worth it in the rain for flexible transfers.",
+              "Buses may experience slight delays during heavy rain due to slower traffic.",
+              "Line 1 is your best bet to avoid walking up the steep Citadel paths in the wet.",
+              "Have your ticket ready for quick boarding to minimize time spent in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen nutzen wir den Bus, um die Anhöhen von Bastia zu erkunden. Die Linie 1 bringt uns zur Zitadelle, wo die Wintersonne die alten Mauern erwärmt. Mittags fahren wir hinauf nach Cardo und genießen die kühle, reine Bergluft mit Blick auf das Meer. Den Nachmittag verbringen wir am Arinella-Strand, bevor uns der Bus pünktlich zum Sonnenuntergang zum Hafen zurückbringt.",
+            "hu": "Egy tiszta téli reggelen busszal fedezzük fel Bastia magaslatait. Az 1-es vonal felvisz a Citadellához, ahol a téli nap melengeti a régi falakat. Délben Cardo felé indulunk, élvezve a hűvös, tiszta hegyi levegőt és a tengeri kilátást. A délutánt az Arinella strandon töltjük, majd a busz pont a naplementére visz vissza minket a kikötőbe.",
+            "ro": "Într-o dimineață senină de iarnă, folosim autobuzul pentru a explora înălțimile Bastiei. Linia 1 ne duce la Citadelă, unde soarele de iarnă încălzește zidurile vechi. La prânz mergem la Cardo și savurăm aerul rece și curat de munte cu vedere la mare. Petrecem după-amiaza la plaja Arinella înainte ca autobuzul să ne aducă înapoi la port la apus.",
+            "en": "On a clear winter morning, we use the bus to explore the heights of Bastia. Line 1 takes us to the Citadel, where the winter sun warms the ancient walls. At noon, we head up to Cardo to enjoy the crisp mountain air and sea views. We spend the afternoon at Arinella Beach before the bus brings us back to the harbor just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Place Saint-Nicolas",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger voll, ideal für eine entspannte Fahrt.",
+                "hu": "Télen a buszok kevésbé zsúfoltak, ideális egy kényelmes utazáshoz.",
+                "ro": "Iarna autobuzele sunt mai puțin aglomerate, ideale pentru o călătorie relaxată.",
+                "en": "Buses are less crowded in winter, making for a much more relaxed trip."
+              }
+            },
+            {
+              "name": "Citadel (Line 1)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Bus während der Auffahrt durch die Altstadt.",
+                "hu": "Élvezze a kilátást a buszból az óvároson átvezető emelkedő során.",
+                "ro": "Bucurați-vă de vedere din autobuz în timpul urcării prin orașul vechi.",
+                "en": "Enjoy the view from the bus window during the climb through the old town."
+              }
+            },
+            {
+              "name": "Cardo (Line 1)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Winterfahrplan; die Taktung nach Cardo kann seltener sein.",
+                "hu": "Figyeljen a téli menetrendre; a Cardo felé tartó járatok ritkábbak lehetnek.",
+                "ro": "Verificați orarul de iarnă; frecvența spre Cardo poate fi mai redusă.",
+                "en": "Check the winter schedule; bus frequency to Cardo might be reduced."
+              }
+            },
+            {
+              "name": "Arinella (Line 4)",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine warme Zuflucht nach einem windigen Strandspaziergang.",
+                "hu": "A busz meleg menedéket nyújt egy szeles tengerparti séta után.",
+                "ro": "Autobuzul oferă un refugiu călduros după o plimbare vântoasă pe plajă.",
+                "en": "The bus provides a warm sanctuary after a windy walk along the beach."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt bietet oft einen schönen Blick auf die Stadtbeleuchtung.",
+                "hu": "Az utolsó járatról gyakran látni a város esti fényeit.",
+                "ro": "Ultima cursă oferă adesea o vedere frumoasă asupra luminilor orașului.",
+                "en": "The final ride often offers a beautiful view of the city lights turning on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Linien könnten im Winter einen reduzierten Fahrplan haben; vorab prüfen.",
+              "Nutzen Sie die Heizung im Bus, um sich zwischen den Sehenswürdigkeiten aufzuwärmen.",
+              "Die Linie nach Cardo bietet im Winter die klarste Sicht auf die toskanischen Inseln.",
+              "Tragen Sie auch im Bus eine Jacke, da die Türen an jeder Haltestelle Kälte einlassen.",
+              "Kaufen Sie Tickets beim Fahrer oder per SMS, falls die Kioske früher schließen."
+            ],
+            "hu": [
+              "Néhány vonalon télen ritkábban járnak a buszok; ellenőrizze előre.",
+              "Használja ki a buszok fűtését a látnivalók közötti felmelegedésre.",
+              "A Cardo felé tartó járatról télen a legtisztább a kilátás a toszkán szigetekre.",
+              "A buszon is tartsa magán a kabátot, mert a megállókban gyorsan lehűl a levegő.",
+              "Vegyen jegyet a sofőrnél vagy SMS-ben, ha a jegyárusító bódék korábban bezárnak."
+            ],
+            "ro": [
+              "Unele linii pot avea un orar redus iarna; verificați în avans.",
+              "Folosiți încălzirea din autobuz pentru a vă încălzi între vizite.",
+              "Linia spre Cardo oferă iarna cea mai clară vedere spre insulele toscane.",
+              "Păstrați geaca pe dvs. și în autobuz, deoarece aerul rece intră la fiecare stație.",
+              "Cumpărați bilete de la șofer sau prin SMS dacă chioșcurile se închid mai devreme."
+            ],
+            "en": [
+              "Some bus lines might have a reduced schedule in winter; check beforehand.",
+              "Use the bus heating to warm up while traveling between different sights.",
+              "The line to Cardo offers the clearest views of the Tuscan islands in winter.",
+              "Keep your coat on inside the bus as cold air enters at every single stop.",
+              "Buy tickets from the driver or via SMS if the ticket kiosks close early."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.bastia-tourisme.com/",
-    "events": "https://www.bastia-tourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Bastia ist Korsikas nördliche Hafenstadt, italienisch geprägt. Französisch und Korsisch (Corsu), Italienisch wird durchaus verstanden. 'À dopu' ist 'Bis später' auf Korsisch. Espresso-Kultur stark, 'caffè' bestellen wie in Italien.",
-      "hu": "Bastia Korzika északi kikötővárosa, olaszos hatású. Francia és korzikai (Corsu), az olaszt is jól értik. Az 'À dopu' korzikaiul 'viszlát'. Erős eszpresszó-kultúra, 'caffè'-t rendelj, mint Olaszországban.",
-      "ro": "Bastia este portul nordic al Corsicii, cu influențe italienești. Franceza și corsicana (Corsu), italiana este înțeleasă. 'À dopu' (corsican) = 'pe curând'. Cultură puternică a espresso-ului, comandați 'caffè' ca în Italia.",
-      "en": "Bastia is Corsica's northern port, Italian-influenced. French and Corsican (Corsu), Italian is widely understood. 'À dopu' (Corsican) means 'see you later'. Strong espresso culture, order 'caffè' the Italian way."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober: ideales Wetter, milder Hafen, weniger Fährgäste. Juli-August: sehr heiß, voll mit Fähren von Italien. Winter: mild aber regnerisch, viele Lokale geschlossen.",
-      "hu": "Május-június és szeptember-október: ideális idő, kellemes kikötő, kevesebb komp-utas. Július-augusztus: nagyon meleg, telt komp Olaszországból. Tél: enyhe de esős, sok zárás.",
-      "ro": "Mai-iunie și septembrie-octombrie: vreme ideală, port blând, mai puțini pasageri pe feribot. Iulie-august: foarte cald, plin de feriboturi din Italia. Iarna: blândă dar ploioasă, multe închideri.",
-      "en": "May-June and September-October: ideal weather, gentle harbour, fewer ferry passengers. July-August: very hot, ferries from Italy packed. Winter is mild but rainy with many closures."
-    },
-    "neighborhood_warnings": {
-      "de": "Generell sicher. Im Vieux Port nachts auf Taschen achten, vor allem rund um Bars. Im Stadtteil 'Lupino' weniger touristisch und nicht abends besuchen. Verkehr im Stadtkern chaotisch, Roller mit Vorsicht.",
-      "hu": "Általában biztonságos. A Vieux Port-on éjjel táskára figyelj, főleg a bárok körül. A 'Lupino' negyed kevésbé turistás, este ne menj. A városmagi forgalom kaotikus, robogóval óvatosan.",
-      "ro": "În general sigur. La Vieux Port noaptea, atenție la genți, mai ales lângă baruri. Cartierul 'Lupino' este mai puțin turistic, evitați-l seara. Trafic haotic în centru, atenție pe scuter.",
-      "en": "Generally safe. Watch bags at night around the Vieux Port bars. The Lupino neighborhood is less touristy and best skipped at night. Chaotic city traffic, careful on scooters."
-    },
-    "parking_real_time": ""
   }
 }

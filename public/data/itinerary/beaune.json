@@ -308,6 +308,447 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Many wine tastings require a prior reservation."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Beaune auf dem Place des Halles. Der Vormittag steht ganz im Zeichen der Geschichte im berühmten Hôtel-Dieu mit seinen prächtigen Dächern. Nach einem Besuch der romanischen Stiftskirche tauchen Sie mittags in die Welt des Weins im herzoglichen Palast ein. Der Nachmittag wird würzig bei Fallot, gefolgt von einem entspannten Spaziergang entlang der historischen Stadtmauern, bevor der Tag friedlich im Bouzaize-Park ausklingt.",
+            "hu": "Kezdje a napot Beaune szívében, a Place des Halles téren. A délelőtt a történelemé a híres Hôtel-Dieu kórházban, melynek tetői lenyűgözőek. A román stílusú Notre-Dame megtekintése után délben merüljön el a borvilágban a hercegi palotában. A délután csípős lesz a Fallot mustárműhelyben, majd egy pihentető séta következik a városfalakon, végül a napot a Bouzaize park nyugalmában zárhatja.",
+            "ro": "Începeți ziua în inima orașului Beaune, în Place des Halles. Dimineața este dedicată istoriei la faimosul Hôtel-Dieu, cu acoperișurile sale magnifice. După vizitarea bisericii Notre-Dame, la prânz descoperiți universul vinului în fostul palat ducal. După-amiaza devine picantă la fabrica de muștar Fallot, urmată de o plimbare relaxantă pe zidurile cetății, înainte de a încheia ziua în liniștea parcului Bouzaize.",
+            "en": "Start your day in the heart of Beaune at Place des Halles. The morning is dedicated to history at the famous Hôtel-Dieu with its magnificent roofs. After visiting the Romanesque Notre-Dame, immerse yourself in the world of wine at the ducal palace. The afternoon gets spicy at the Fallot mustard mill, followed by a relaxing walk along the historic ramparts, before ending the day peacefully in the Bouzaize park."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Markt am Samstagmorgen für lokale Produkte.",
+                "hu": "A szombat reggeli piac a legjobb hely a helyi termékekhez.",
+                "ro": "Vizitați piața sâmbătă dimineața pentru produse locale.",
+                "en": "Visit the Saturday morning market for the best local produce."
+              }
+            },
+            {
+              "name": "Hospices de Beaune (Hôtel-Dieu)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die farbenfrohen glasierten Ziegeldächer im Innenhof.",
+                "hu": "Csodálja meg a belső udvar színes, mázas tetőcserepeit.",
+                "ro": "Admirați acoperișurile colorate cu țiglă smălțuită din curtea interioară.",
+                "en": "Admire the colorful glazed tile roofs in the inner courtyard."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame de Beaune",
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Wandteppiche aus dem 15. Jahrhundert im Chor an.",
+                "hu": "Nézze meg a kórusban található 15. századi faliszőnyegeket.",
+                "ro": "Vedeți tapiseriile din secolul al XV-lea din corul bisericii.",
+                "en": "View the 15th-century tapestries in the church choir."
+              }
+            },
+            {
+              "name": "Musée du Vin de Bourgogne",
+              "tip_5lang": {
+                "de": "Das Museum befindet sich im ehemaligen Palast der Herzöge von Burgund.",
+                "hu": "A múzeum a burgundi hercegek egykori palotájában található.",
+                "ro": "Muzeul se află în fostul palat al ducilor de Burgundia.",
+                "en": "The museum is housed in the former palace of the Dukes of Burgundy."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Probieren Sie verschiedene Senfsorten an der Probierbar.",
+                "hu": "Kóstoljon meg különböző mustárokat a kóstolópultnál.",
+                "ro": "Gustați diferite tipuri de muștar la barul de degustare.",
+                "en": "Taste different types of mustard at the tasting bar."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Ein Spaziergang auf der Stadtmauer bietet schöne Ausblicke auf die Altstadt.",
+                "hu": "A városfalon tett séta szép kilátást nyújt az óvárosra.",
+                "ro": "O plimbare pe zidurile cetății oferă vederi frumoase asupra centrului vechi.",
+                "en": "A walk on the ramparts offers beautiful views of the old town."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Mieten Sie ein kleines Boot auf dem See zum Entspannen.",
+                "hu": "Béreljen egy kis csónakot a tavon a pihenéshez.",
+                "ro": "Închiriați o barcă mică pe lac pentru relaxare.",
+                "en": "Rent a small boat on the lake for some relaxation."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boeuf Bourguignon",
+                "tip": "Das klassische Rindfleischgericht der Region, langsam in Rotwein geschmort."
+              },
+              {
+                "name": "Le Jardin des Remparts",
+                "tip": "Kreative Küche in einem wunderschönen Gartenambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Burgundi marharagu",
+                "tip": "A régió klasszikus étele, vörösborban lassan párolt marhahús."
+              },
+              {
+                "name": "Le Jardin des Remparts",
+                "tip": "Kreatív konyha gyönyörű kerti környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boeuf Bourguignon",
+                "tip": "Mâncarea clasică de vită a regiunii, gătită lent în vin roșu."
+              },
+              {
+                "name": "Le Jardin des Remparts",
+                "tip": "Bucătărie creativă într-un cadru de grădină superb."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boeuf Bourguignon",
+                "tip": "The region's classic beef dish, slowly simmered in red wine."
+              },
+              {
+                "name": "Le Jardin des Remparts",
+                "tip": "Creative cuisine in a beautiful garden setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square des Lions",
+                "tip": "Ein kleiner, ruhiger Park abseits der Touristenströme.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Remparts Nord",
+                "tip": "Der nördliche Teil der Stadtmauer ist besonders friedlich.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square des Lions",
+                "tip": "Egy kis, csendes park távol a turistaáradattól.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Remparts Nord",
+                "tip": "A városfal északi része különösen békés.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square des Lions",
+                "tip": "Un parc mic și liniștit, departe de fluxul de turiști.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Remparts Nord",
+                "tip": "Partea de nord a zidurilor cetății este deosebit de liniștită.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square des Lions",
+                "tip": "A small, quiet park away from the tourist crowds.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Remparts Nord",
+                "tip": "The northern part of the ramparts is particularly peaceful.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Athenaeum",
+                "tip": "Ein fantastischer Buchladen mit großer Weinauswahl."
+              },
+              {
+                "name": "La Boutique Fallot",
+                "tip": "Frischer Senf direkt aus der Mühle als perfektes Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Athenaeum",
+                "tip": "Fantasztikus könyvesbolt hatalmas borválasztékkal."
+              },
+              {
+                "name": "La Boutique Fallot",
+                "tip": "Friss mustár közvetlenül a malomból, tökéletes szuvenír."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Athenaeum",
+                "tip": "O librărie fantastică cu o selecție vastă de vinuri."
+              },
+              {
+                "name": "La Boutique Fallot",
+                "tip": "Muștar proaspăt direct de la moară, suvenirul perfect."
+              }
+            ],
+            "en": [
+              {
+                "name": "Athenaeum",
+                "tip": "A fantastic bookstore with a huge selection of wines."
+              },
+              {
+                "name": "La Boutique Fallot",
+                "tip": "Fresh mustard straight from the mill, a perfect souvenir."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist fast vollständig Fußgängerzone und sehr kompakt.",
+              "Buchen Sie Tickets für das Hôtel-Dieu im Voraus online.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Viele Weinproben erfordern eine Reservierung."
+            ],
+            "hu": [
+              "Az óváros szinte teljesen sétálóövezet és nagyon kompakt.",
+              "Foglalja le online előre a jegyeket a Hôtel-Dieu-be.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Sok borkóstolóhoz előzetes bejelentkezés szükséges."
+            ],
+            "ro": [
+              "Centrul vechi este aproape în întregime pietonal și foarte compact.",
+              "Rezervați biletele pentru Hôtel-Dieu online în avans.",
+              "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+              "Multe degustări de vin necesită rezervare prealabilă."
+            ],
+            "en": [
+              "The old town is almost entirely pedestrianized and very compact.",
+              "Book tickets for the Hôtel-Dieu online in advance.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Many wine tastings require a prior reservation."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Schutz der Markthalle am Place des Halles. Das Hospiz bietet bei Regen hervorragende überdachte Gänge und Innenräume. \nDer Mittag gehört dem burgundischen Weinmuseum, wo man trocken tief in die Geschichte der Region eintaucht.\nAm Nachmittag führt der Weg zur Moutarderie Fallot für eine würzige Indoor-Tour, bevor die Stadtmauern kurz unter dem Regenschirm erkundet werden.\nDer Abend klingt im Park aus, wobei der Rückweg durch die beleuchteten, nassen Gassen der Altstadt führt.",
+            "hu": "A reggel a Place des Halles fedett árkádjai alatt indul, menedéket nyújtva az eső elől. A Hospices de Beaune belső udvara és termei tökéletes esős programok.\nDélben a bormúzeum vastag falai között kalandozhatunk, miközben kint kopog az eső a macskaköveken.\nDélután a Fallot mustármúzeum interaktív tárlata nyújt száraz kikapcsolódást, a bástyák pedig misztikus arcukat mutatják a szürkületben.\nAz este a Bouzaize park tava mellett ér véget, majd egy közeli bisztró melegében pihenhetjük ki a vizes sétát.",
+            "ro": "Dimineața începe sub protecția arcadelor din Place des Halles, feriți de ploaie. Hospices de Beaune oferă trasee interioare fascinante și curți parțial acoperite.\nLa prânz, vizităm Muzeul Vinului, un loc ideal pentru a învăța despre Burgundia fără a ne uda.\nDupă-amiaza este dedicată muștarului la Fallot, urmată de o scurtă plimbare pe fortificații, unde piatra umedă strălucește sub cerul gri.\nSeara se încheie în parcul Bouzaize, înainte de a ne retrage într-o cramă primitoare din centrul vechi.",
+            "en": "The morning starts under the shelter of the covered market at Place des Halles. The Hospices de Beaune provides excellent indoor and covered walkway tours during the rain.\nMidday is spent at the Burgundy Wine Museum, a dry haven for learning about local viticulture history.\nIn the afternoon, enjoy the indoor Moutarderie Fallot tour, followed by a brief umbrella walk along the historic ramparts.\nThe evening concludes at Park Bouzaize, with the wet cobblestones reflecting the warm lights of the city center."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markthalle als trockenen Treffpunkt.",
+                "hu": "Használja a vásárcsarnokot eső elleni menedékként.",
+                "ro": "Folosiți hala pieței ca adăpost împotriva ploii.",
+                "en": "Use the market hall as a dry meeting point."
+              }
+            },
+            {
+              "name": "Hospices de Beaune (Hôtel-Dieu)",
+              "tip_5lang": {
+                "de": "Die Audioguide-Tour findet größtenteils im Inneren statt.",
+                "hu": "Az audioguide túra nagy része fedett helyen zajlik.",
+                "ro": "Turul cu audioghid are loc în mare parte la interior.",
+                "en": "The audio guide tour is mostly indoors or covered."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame de Beaune",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wandteppiche im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a faliszőnyegeket a száraz hajóban.",
+                "ro": "Admirați tapițeriile în interiorul uscat al bisericii.",
+                "en": "Admire the tapestries inside the dry nave."
+              }
+            },
+            {
+              "name": "Musée du Vin de Bourgogne",
+              "tip_5lang": {
+                "de": "Ideal für zwei Stunden Flucht vor dem Regen.",
+                "hu": "Ideális kétórás menekülés az eső elől.",
+                "ro": "Ideal pentru două ore de evadare din ploaie.",
+                "en": "Perfect for a two-hour escape from the rain."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Reservieren Sie die Indoor-Tour im Voraus.",
+                "hu": "Foglalja le az indoor túrát előre.",
+                "ro": "Rezervați turul interior în avans.",
+                "en": "Book the indoor tour in advance."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi alunecoase.",
+                "en": "Caution, the stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz vor Nieselregen.",
+                "hu": "A sűrű lombok némi védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii deși oferă o mică protecție împotriva burniței.",
+                "en": "Dense trees offer some protection from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Markthalle am Place des Halles ist samstags ein Muss.",
+              "Viele Weinkeller bieten trockene Verkostungen unter der Erde.",
+              "Die Stadtmauer ist bei Regen oft menschenleer und fotogen.",
+              "Regenschirme können in den meisten Museen deponiert werden."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a csúszós macskakövek miatt.",
+              "A Place des Halles piaca szombatonként kiváló fedett program.",
+              "A borospincék mélyén az eső sem zavarja a kóstolást.",
+              "Az esernyő elengedhetetlen a bástyákon való sétához.",
+              "A múzeumokban ingyenes ruhatár várja a vizes kabátokat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul cu piatră.",
+              "Piața din Place des Halles este un refugiu bun sâmbăta.",
+              "Degustările în crame subterane sunt perfecte pe ploaie.",
+              "Zidurile cetății sunt pustii și fotogenice pe vreme udă.",
+              "Puteți lăsa umbrelele la intrarea în majoritatea muzeelor."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery cobblestone streets.",
+              "The market at Place des Halles is a great shelter on Saturdays.",
+              "Underground wine cellars offer a perfect dry escape for tastings.",
+              "The ramparts are often empty and atmospheric in the rain.",
+              "Most museums have cloakrooms for wet coats and umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht den Spaziergang zum Hospiz besonders erfrischend. Das farbenfrohe Dach leuchtet auch im Winterlicht.\nMittags wärmt man sich in den historischen Sälen der Stadt, bevor man das gemütliche Weinmuseum besucht.\nNachmittags sinkt die Sonne früh, was die Stadtmauer in ein goldenes Licht taucht. Ein heißer Senf-Test bei Fallot belebt die Geister.\nDer Abend endet früh im Park Bouzaize, bevor man sich in die beheizten Weinstuben der Altstadt zurückzieht.",
+            "hu": "A csípős téli reggelen a Hospices de Beaune színes tetőcserepei élesen válik el a hideg kék égbolttól.\nDélben a fűtött múzeumok és templomok kínálnak menedéket a hideg elől, ahol a történelem melegít fel.\nDélután a korai naplemente aranyba vonja a bástyákat, a Fallot mustárműhelyben pedig csípős kóstoló vár.\nAz este korán leszáll a Bouzaize parkra, ilyenkor a legkellemesebb egy gyertyafényes burgundi borozóba menekülni.",
+            "ro": "Aerul tăios de iarnă face plimbarea de dimineață spre Hospices foarte revigorantă. Acoperișul colorat strălucește în lumina rece.\nLa prânz, ne încălzim în sălile muzeelor, explorând patrimoniul viticol al regiunii la adăpost.\nDupă-amiaza, soarele apune devreme, oferind o lumină aurie zidurilor vechi înainte de vizita la Moutarderie.\nSeara se instalează rapid în parcul Bouzaize, îndemnându-ne spre restaurantele călduroase din centru.",
+            "en": "The crisp winter air makes the morning walk to the Hospices refreshing. The famous tiled roofs look striking in the clear winter light.\nAt midday, warm up inside the city's historic museums and churches, exploring Burgundy's deep cultural roots.\nIn the afternoon, the sun sets early, bathing the ramparts in golden hues. A spicy tasting at Fallot provides a warm boost.\nThe evening arrives early at Park Bouzaize, leading perfectly into a cozy night in a heated local wine bar."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in den umliegenden Cafés.",
+                "hu": "Igyon egy forró kávét a környező kávézók egyikében.",
+                "ro": "Savurați o cafea fierbinte la cafenelele din jur.",
+                "en": "Enjoy a hot coffee at the surrounding cafes."
+              }
+            },
+            {
+              "name": "Hospices de Beaune (Hôtel-Dieu)",
+              "tip_5lang": {
+                "de": "Innenräume sind beheizt, der Innenhof ist zugig.",
+                "hu": "A belső terek fűtöttek, de az udvar huzatos lehet.",
+                "ro": "Sălile interioare sunt încălzite, dar curtea este rece.",
+                "en": "Interior rooms are heated; the courtyard can be drafty."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame de Beaune",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort der Besinnung.",
+                "hu": "Csendes, szélvédett hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și ferit de vânt pentru reflecție.",
+                "en": "A quiet, wind-sheltered place for reflection."
+              }
+            },
+            {
+              "name": "Musée du Vin de Bourgogne",
+              "tip_5lang": {
+                "de": "Die Kellerräume halten eine konstante, milde Temperatur.",
+                "hu": "A pincék hőmérséklete télen is állandó és enyhe.",
+                "ro": "Pivnițele mențin o temperatură constantă și blândă.",
+                "en": "The cellar rooms maintain a constant, mild temperature."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Die scharfen Senfsorten wärmen von innen auf.",
+                "hu": "A csípős mustárok belülről melegítenek fel.",
+                "ro": "Sortimentele iuți de muștar vă vor încălzi imediat.",
+                "en": "The spicy mustard varieties will warm you up from inside."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos während der frühen 'Goldenen Stunde'.",
+                "hu": "A legjobb hely a korai aranyóra fotózásához.",
+                "ro": "Cel mai bun loc pentru fotografii la apusul timpuriu.",
+                "en": "Best spot for photos during the early golden hour."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege in Wassernähe.",
+                "hu": "Vigyázzon a jeges ösvényekre a vízpart közelében.",
+                "ro": "Atenție la aleile înghețate din apropierea apei.",
+                "en": "Watch out for icy paths near the water's edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist für die Stadtmauer-Begehung wichtig.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "In den Weinkellern ist es oft wärmer als draußen.",
+              "Probieren Sie 'Boeuf Bourguignon' als stärkendes Mittagessen.",
+              "Abends sind die Gassen festlich beleuchtet."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a bástyasétányhoz.",
+              "A nap télen már délután 5 körül lemegy.",
+              "A borospincékben gyakran melegebb van, mint az utcán.",
+              "Egyen egy sűrű burgundi marharagut ebédre.",
+              "Az esti fények különleges hangulatot adnak az óvárosnak."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă e vitală pentru plimbarea pe ziduri.",
+              "Soarele apune în jur de ora 17:00 în timpul iernii.",
+              "În cramele de vin este adesea mai cald decât afară.",
+              "Încercați un 'Boeuf Bourguignon' pentru un prânz consistent.",
+              "Seara, străzile vechi sunt iluminate festiv."
+            ],
+            "en": [
+              "Warm clothing is essential for the rampart walk.",
+              "Sunset is around 5:00 PM during the winter months.",
+              "Wine cellars are often warmer than the outside air.",
+              "Enjoy a hearty Boeuf Bourguignon for a warming lunch.",
+              "The old town streets are beautifully lit in the evenings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -540,6 +981,368 @@
           "A bike lock is absolutely necessary.",
           "Take enough water with you, especially in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Beaune und seine Weinberge auf zwei Rädern. Nach dem historischen Hôtel-Dieu verlassen Sie die Stadtmauern und fahren auf der berühmten 'Route des Grands Crus'. Das charmante Dorf Pommard bietet den perfekten Wendepunkt für eine Verkostung, bevor Sie durch den Bouzaize-Park zurückkehren und den Tag bei der Senfmühle Fallot abschließen.",
+            "hu": "Fedezze fel Beaune-t és a környékbeli szőlőültetvényeket két keréken. A történelmi Hôtel-Dieu után hagyja el a városfalakat, és tekerjen a híres 'Route des Grands Crus' úton. A bájos Pommard falu tökéletes fordulópont egy kóstolóra, mielőtt a Bouzaize parkon keresztül visszatérne, és a napot a Fallot mustárműhelynél zárná.",
+            "ro": "Explorați Beaune și podgoriile sale pe două roți. După vizitarea istoricului Hôtel-Dieu, ieșiți dincolo de zidurile cetății și pedalați pe faimoasa 'Route des Grands Crus'. Satul pitoresc Pommard oferă punctul de întoarcere perfect pentru o degustare, înainte de a reveni prin parcul Bouzaize și de a încheia ziua la fabrica de muștar Fallot.",
+            "en": "Explore Beaune and its surrounding vineyards on two wheels. After the historic Hôtel-Dieu, leave the ramparts and cycle on the famous 'Route des Grands Crus'. The charming village of Pommard offers the perfect turning point for a tasting, before returning through Bouzaize park and finishing the day at the Fallot mustard mill."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher am Eingang.",
+                "hu": "Parkolja le biztonságosan a kerékpárját a bejáratnál.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Park your bike safely at the entrance."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Umradeln Sie die Altstadt entlang der äußeren Ringstraße.",
+                "hu": "Kerülje meg az óvárost a külső körgyűrű mentén.",
+                "ro": "Ocoliți centrul vechi de-a lungul șoselei de centură interioare.",
+                "en": "Cycle around the old town along the outer ring road."
+              }
+            },
+            {
+              "name": "Route des Grands Crus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die weltberühmten Weinberge.",
+                "hu": "Élvezze a biciklizést a világhírű szőlőültetvények között.",
+                "ro": "Bucurați-vă de plimbarea prin podgoriile celebre în întreaga lume.",
+                "en": "Enjoy the ride through the world-famous vineyards."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Besuchen Sie ein Weingut für eine kurze Verkostung.",
+                "hu": "Látogasson el egy borászathoz egy rövid kóstolóra.",
+                "ro": "Vizitați o cramă pentru o scurtă degustare.",
+                "en": "Visit a winery for a short tasting session."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause nach der Tour.",
+                "hu": "Ideális hely a pihenésre a túra után.",
+                "ro": "Un loc ideal pentru o pauză după tură.",
+                "en": "An ideal place for a break after the tour."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Holen Sie sich Senf für Ihr Picknick.",
+                "hu": "Vásároljon mustárt a piknikhez.",
+                "ro": "Cumpărați muștar pentru picnic.",
+                "en": "Pick up some mustard for your picnic."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gougères",
+                "tip": "Kleine Käsewindbeutel, ideal als Snack während der Radtour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gougères",
+                "tip": "Sajtos égetett tészta fánkocskák, ideális snack biciklizés közben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gougères",
+                "tip": "Mici gogoși cu brânză, gustarea ideală în timpul turei cu bicicleta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gougères",
+                "tip": "Savory cheese puffs, an ideal snack during your bike ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberge von Pommard",
+                "tip": "Finden Sie ein ruhiges Plätzchen zwischen den Reben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pommard szőlői",
+                "tip": "Keressen egy csendes helyet a tőkék között.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podgoriile din Pommard",
+                "tip": "Găsiți un loc liniștit printre rândurile de viță de vie.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pommard Vineyards",
+                "tip": "Find a quiet spot among the vines.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bourgogne Randonnée",
+                "tip": "Fahrradverleih mit exzellenten Karten der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bourgogne Randonnée",
+                "tip": "Kerékpárkölcsönző kiváló térképekkel a régióról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bourgogne Randonnée",
+                "tip": "Centru de închiriere biciclete cu hărți excelente ale regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bourgogne Randonnée",
+                "tip": "Bike rental shop with excellent regional maps."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die 'Voie Verte' ist ein gut ausgebauter Radweg durch die Weinberge.",
+              "Achten Sie auf Traktoren während der Weinlesezeit.",
+              "Ein Schloss für das Fahrrad ist unbedingt erforderlich.",
+              "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+            ],
+            "hu": [
+              "A 'Voie Verte' egy jól kiépített kerékpárút a szőlők között.",
+              "Ügyeljen a traktorokra a szüret idején.",
+              "A kerékpárhoz feltétlenül vigyen lakatot.",
+              "Vigyen magával elég vizet, különösen nyáron."
+            ],
+            "ro": [
+              "„Voie Verte” este o pistă de biciclete bine amenajată prin podgorii.",
+              "Atenție la tractoare în timpul perioadei de recoltare.",
+              "Un sistem de antifurt pentru bicicletă este absolut necesar.",
+              "Luați suficientă apă, mai ales pe timpul verii."
+            ],
+            "en": [
+              "The 'Voie Verte' is a well-maintained cycle path through the vineyards.",
+              "Watch out for tractors during the harvest season.",
+              "A bike lock is absolutely necessary.",
+              "Take enough water with you, especially in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Fahrt durch den Regen zum Hospiz, wo die Fahrräder sicher abgestellt werden können. \nMittags geht es trotz Nieselregen auf die Stadtmauern, die im Nebel fast mystisch wirken.\nNachmittags wagen wir uns auf die Route des Grands Crus; der Regen lässt die Weinreben tiefgrün leuchten, bevor wir Pommard erreichen.\nDer Rückweg führt über den Park Bouzaize zur Moutarderie, wo eine warme Verkostung wartet.",
+            "hu": "Reggel esőben tekerünk a Hospices de Beaune-hoz, ahol biztonságos tárolók várnak. \nDélben a bástyák mentén biciklizünk, a vizes kőfalak különleges hangulatot árasztanak.\nDélután a Route des Grands Crus útvonalon a szőlőtőkék élénkzöldek a párás időben Pommard felé.\nA hazaút a Bouzaize parkon át vezet a Fallot mustárgyárig, ahol fedett helyen melegedhetünk.",
+            "ro": "Dimineața pedalăm prin ploaie spre Hospices, unde există parcări sigure pentru biciclete.\nLa prânz, explorăm zidurile cetății; piatra udă și ceața creează un decor mistic.\nDupă-amiaza ne aventurăm pe Route des Grands Crus spre Pommard, admirând viile verzi sub ploaie.\nReturul trece prin parcul Bouzaize spre Moutarderie, pentru o degustare binemeritată.",
+            "en": "In the morning, cycle through the rain to the Hospices, where bikes can be parked safely. \nAt midday, ride along the ramparts, which look atmospheric and mystical in the mist.\nIn the afternoon, brave the Route des Grands Crus towards Pommard; the rain makes the vines look vibrant.\nThe return trip passes through Park Bouzaize to the Moutarderie for a warming indoor session."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe.",
+                "hu": "Használja a közeli fedett biciklitárolókat.",
+                "ro": "Folosiți rastelele de biciclete acoperite din apropiere.",
+                "en": "Use the covered bike racks located nearby."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Achtung, das nasse Kopfsteinpflaster ist sehr glatt.",
+                "hu": "Vigyázat, a vizes macskakő nagyon csúszik.",
+                "ro": "Atenție, pavajul umed este foarte alunecos.",
+                "en": "Caution: wet cobblestones are very slippery."
+              }
+            },
+            {
+              "name": "Route des Grands Crus",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen ilyen időben.",
+                "ro": "Apărătorile de noroi sunt esențiale pe această vreme.",
+                "en": "Mudguards are essential in this weather."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Suchen Sie Unterschlupf in einer der vielen Vinotheken.",
+                "hu": "Keressen menedéket a számos vinotéka egyikében.",
+                "ro": "Adăpostiți-vă într-una dintre numeroasele vinoteci.",
+                "en": "Find shelter in one of the many local wine shops."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schlammige unbefestigte Wege.",
+                "hu": "Kerülje a sáros, nem aszfaltozott utakat.",
+                "ro": "Evitați potecile neasfaltate care pot fi noroioase.",
+                "en": "Avoid muddy unpaved paths in the park."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Fahrt trocken zu beenden.",
+                "hu": "Tökéletes hely a túra száraz befejezéséhez.",
+                "ro": "Un loc perfect pentru a încheia tura la adăpost.",
+                "en": "A perfect place to finish the ride indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist absolut notwendig.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Pommard.",
+              "Vermeiden Sie abrupte Kurven auf nassem Untergrund.",
+              "Die Route des Grands Crus ist asphaltiert und gut befahrbar.",
+              "Licht am Fahrrad erhöht die Sichtbarkeit bei Regen enorm."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen.",
+              "Ellenőrizze a fékeket a Pommard felé tartó lejtő előtt.",
+              "Kerülje a hirtelen kanyarodást a vizes úton.",
+              "A borút aszfaltozott, így esőben is jól tekerhető.",
+              "Használjon lámpát a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu.",
+              "Verificați frânele înainte de plecarea spre Pommard.",
+              "Evitați virajele bruște pe carosabilul umed.",
+              "Route des Grands Crus este asfaltată și practicabilă.",
+              "Luminile de bicicletă sunt necesare pentru vizibilitate."
+            ],
+            "en": [
+              "Full waterproof cycling gear is absolutely necessary.",
+              "Check your brakes before heading towards Pommard.",
+              "Avoid sudden turns on wet pavement and stones.",
+              "The wine route is paved and remains rideable in rain.",
+              "Use bike lights to stay visible in gray, rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Morgen führt uns zum Hospiz, während der Reif auf den Dächern glitzert.\nMittags radeln wir entlang der historischen Stadtmauern, die im Winterlicht besonders imposant wirken.\nNachmittags genießen wir die Ruhe auf der Route des Grands Crus; die kahlen Reben haben ihre eigene, herbe Schönheit.\nBevor die Dunkelheit einbricht, durchqueren wir den winterlichen Park und wärmen uns in der Moutarderie auf.",
+            "hu": "A hűvös reggeli tekerés közben a Hospices de Beaune tetőin csillog a zúzmara.\nDélben a bástyák mentén biciklizünk, a téli fényben a városfalak még hatalmasabbnak tűnnek.\nDélután a Route des Grands Crus csendjét élvezzük; a kopár tőkéknek is megvan a maga szépsége.\nMielőtt leszáll az éj, átvágunk a téli parkon, és a mustárgyárban melegszünk fel.",
+            "ro": "Un start răcoros ne poartă spre Hospices, în timp ce chiciura sclipește pe acoperișuri.\nLa prânz pedalăm de-a lungul zidurilor vechi, care par impunătoare în lumina iernii.\nDupă-amiaza ne bucurăm de liniștea de pe Route des Grands Crus; viile golașe au farmecul lor.\nÎnainte de lăsarea întunericului, traversăm parcul și ne încălzim la Moutarderie.",
+            "en": "A chilly morning start takes us to the Hospices while frost glistens on the rooftops.\nAt midday, cycle along the historic ramparts, which look especially grand in the winter sun.\nIn the afternoon, enjoy the quiet of the Route des Grands Crus; the bare vines have a rugged beauty.\nBefore darkness falls, cross the winter park and warm up at the Moutarderie."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen für die Weiterfahrt.",
+                "hu": "Ne felejtse el a kesztyűt a továbbinduláshoz.",
+                "ro": "Nu uitați mănușile pentru restul drumului.",
+                "en": "Don't forget your gloves for the next leg of the ride."
+              }
+            },
+            {
+              "name": "Remparts de Beaune",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Mauern.",
+                "hu": "Vigyázzon a jeges foltokra a falak árnyékában.",
+                "ro": "Atenție la porțiunile înghețate de la umbra zidurilor.",
+                "en": "Watch out for icy patches in the shadows of the walls."
+              }
+            },
+            {
+              "name": "Route des Grands Crus",
+              "tip_5lang": {
+                "de": "Der kalte Wind kann in den offenen Weinbergen beißen.",
+                "hu": "A nyílt szőlőültetvényeken metsző lehet a szél.",
+                "ro": "Vântul rece poate fi tăios în viile deschise.",
+                "en": "The cold wind can be biting in the open vineyards."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem Glas lokalen Rotweins auf.",
+                "hu": "Melegedjen fel egy pohár helyi vörösborral.",
+                "ro": "Încălziți-vă cu un pahar de vin roșu local.",
+                "en": "Warm up with a glass of local red wine."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Planen Sie den Parkbesuch vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "A parklátogatást tervezze a délután 5-ös naplemente elé.",
+                "ro": "Vizitați parcul înainte de apusul de la ora 17:00.",
+                "en": "Visit the park before the 5:00 PM sunset."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Ein beheizter Abschluss für eine kalte Radtour.",
+                "hu": "Fűtött záróhelyszín a hideg biciklitúra végén.",
+                "ro": "Un final călduros pentru o tură rece pe bicicletă.",
+                "en": "A heated finale for a cold bike tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Kleidung und Thermounterwäsche.",
+              "Die Tage sind kurz; starten Sie pünktlich um 9:00 Uhr.",
+              "Halten Sie die Trinkflasche nah am Körper gegen Einfrieren.",
+              "Vermeiden Sie Fahrten nach Einbruch der Dunkelheit.",
+              "Winterreifen oder ein gutes Profil sind ratsam."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és aláöltözetet.",
+              "Rövidek a nappalok, kezdjen pontosan 9-kor.",
+              "Tartsa a kulacsot a testéhez közel, hogy ne hűljön ki.",
+              "Kerülje a sötétben való biciklizést.",
+              "A jó gumiabroncs-profil alapkövetelmény télen."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și lenjerie termică.",
+              "Zilele sunt scurte; începeți tura fix la ora 9:00.",
+              "Țineți bidonul de apă aproape de corp.",
+              "Evitați deplasările după lăsarea întunericului.",
+              "Anvelopele cu profil bun sunt recomandate iarna."
+            ],
+            "en": [
+              "Wear windproof clothing and thermal base layers.",
+              "Days are short; start your tour promptly at 9:00 AM.",
+              "Keep your water bottle close to your body to prevent freezing.",
+              "Avoid cycling after dark for safety and visibility.",
+              "Tires with good tread are advisable for winter conditions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -754,6 +1557,341 @@
           "Be aware of drink-driving limits if you are driving.",
           "The Route des Grands Crus is very scenic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erweitern Sie Ihren Radius um Beaune. Nach dem Pflichtbesuch im Hôtel-Dieu fahren Sie zum Schloss Savigny, das Technik- und Weinliebhaber gleichermaßen begeistert. Die Route führt Sie weiter südlich durch die berühmten Weindörfer Pommard und Meursault, wo Sie die wahre Essenz des Burgunds erleben, bevor Sie für einen letzten Halt nach Beaune zurückkehren.",
+            "hu": "Autóval kibővítheti a Beaune környéki felfedezést. A Hôtel-Dieu kötelező látogatása után irány a Savigny-kastély, amely a technika és a bor szerelmeseit egyaránt lenyűgözi. Az út délebbre vezet a híres Pommard és Meursault borfalvakon keresztül, ahol átélheti Burgundia valódi esszenciáját, mielőtt visszatérne Beaune-ba egy utolsó megállóra.",
+            "ro": "Cu mașina vă extindeți raza de explorare în jurul orașului Beaune. După vizita obligatorie la Hôtel-Dieu, mergeți la Castelul Savigny, care îi încântă deopotrivă pe iubitorii de tehnică și de vin. Traseul continuă spre sud prin satele viticole celebre Pommard și Meursault, unde puteți experimenta esența reală a Burgundiei, înainte de a reveni în Beaune pentru o ultimă oprire.",
+            "en": "By car, you can expand your discovery around Beaune. After the mandatory visit to the Hôtel-Dieu, head to Savigny Castle, which fascinates tech and wine lovers alike. The route takes you further south through the famous wine villages of Pommard and Meursault, where you can experience the true essence of Burgundy before returning to Beaune for a final stop."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz 'Boulevard Perpreuil'.",
+                "hu": "Használja a 'Boulevard Perpreuil' parkolót.",
+                "ro": "Folosiți parcarea de pe „Boulevard Perpreuil”.",
+                "en": "Use the 'Boulevard Perpreuil' parking lot."
+              }
+            },
+            {
+              "name": "Château de Savigny-lès-Beaune",
+              "tip_5lang": {
+                "de": "Einzigartige Sammlung von Flugzeugen und Abarth-Rennwagen.",
+                "hu": "Egyedülálló repülőgép- és Abarth versenyautó-gyűjtemény.",
+                "ro": "Colecție unică de avioane și mașini de curse Abarth.",
+                "en": "Unique collection of aircraft and Abarth racing cars."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen mit Blick auf die Reben.",
+                "hu": "Ideális egy ebédhez kilátással a szőlőre.",
+                "ro": "Ideal pentru un prânz cu vedere la vița de vie.",
+                "en": "Ideal for a lunch with a view of the vines."
+              }
+            },
+            {
+              "name": "Meursault Village",
+              "tip_5lang": {
+                "de": "Bekannt für seine exzellenten Weißweine.",
+                "hu": "Kiváló fehérborairól ismert.",
+                "ro": "Cunoscut pentru vinurile sale albe excelente.",
+                "en": "Known for its excellent white wines."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Souvenirs vor der Rückreise.",
+                "hu": "Rövid megálló ajándékokért a hazautazás előtt.",
+                "ro": "Scurtă oprire pentru suveniruri înainte de plecare.",
+                "en": "Short stop for souvenirs before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Époisses-Käse",
+                "tip": "Ein kräftiger Weichkäse, perfekt zu einem lokalen Weißwein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Époisses sajt",
+                "tip": "Erőteljes lágy sajt, tökéletes egy helyi fehérborhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Époisses",
+                "tip": "O brânză moale cu aromă puternică, perfectă cu un vin alb local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Époisses Cheese",
+                "tip": "A strong soft cheese, perfect with a local white wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Savigny Schlossgarten",
+                "tip": "Großzügige Anlage mit viel Platz zum Durchatmen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Savigny kastélypark",
+                "tip": "Tágas terület, ahol van hely fellélegezni.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Castelului Savigny",
+                "tip": "Domeniu vast cu mult spațiu pentru relaxare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Savigny Castle Gardens",
+                "tip": "Spacious grounds with plenty of room to breathe.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cave de Meursault",
+                "tip": "Ideal, um Weine direkt beim Erzeuger zu kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cave de Meursault",
+                "tip": "Ideális borvásárláshoz közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cave de Meursault",
+                "tip": "Ideal pentru a cumpăra vinuri direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cave de Meursault",
+                "tip": "Ideal for buying wines directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Zentrum von Beaune kann schwierig sein, nutzen Sie die Randparkplätze.",
+              "Die Straßen in den Dörfern sind oft sehr eng.",
+              "0,0 Promille Grenze beachten, wenn Sie fahren.",
+              "Die Route des Grands Crus ist landschaftlich sehr reizvoll."
+            ],
+            "hu": [
+              "Beaune központjában nehéz lehet a parkolás, használja a szélső parkolókat.",
+              "A falvak utcái gyakran nagyon szűkek.",
+              "Ügyeljen a zéró tolerancia szabályára, ha vezet.",
+              "A Route des Grands Crus tájilag nagyon vonzó."
+            ],
+            "ro": [
+              "Parcarea în centrul orașului Beaune poate fi dificilă, folosiți parcările de la periferie.",
+              "Străzile din sate sunt adesea foarte înguste.",
+              "Atenție la limita de alcoolemie dacă conduceți.",
+              "Route des Grands Crus este foarte pitorească."
+            ],
+            "en": [
+              "Parking in central Beaune can be difficult, use the peripheral parking lots.",
+              "Village streets are often very narrow.",
+              "Be aware of drink-driving limits if you are driving.",
+              "The Route des Grands Crus is very scenic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel mit der Fahrt zum Hospiz, Parkplätze sind direkt gegenüber vorhanden. \nMittags fahren wir zum Château de Savigny, wo die beeindruckende Sammlung im Inneren und unter den Flugzeughangars trocken erkundet werden kann.\nNachmittags geht es durch die verregnete Weinlandschaft nach Pommard und Meursault, ideal für gemütliche Dorfspaziergänge.\nDer Tag endet bei der Moutarderie Fallot, wo wir die Einkäufe bequem im Kofferraum verstauen.",
+            "hu": "Az esős nap kényelmesen indul a Hospices de Beaune melletti parkolóban. \nDélben a Savigny-lès-Beaune kastélyhoz autózunk, ahol a belső terek és a hangárok szárazon látogathatók.\nDélután az esőáztatta dűlők között Pommard és Meursault felé vesszük az irányt, élvezve a fűtött utasteret.\nA napot a Fallot mustárgyárnál zárjuk, a beszerzett finomságokat pedig rögtön az autóba pakolhatjuk.",
+            "ro": "Ziua ploioasă începe confortabil cu drumul spre Hospices; parcarea este chiar vizavi.\nLa prânz mergem la Castelul Savigny, unde colecțiile pot fi explorate la adăpost în hangare și în interior.\nDupă-amiaza conducem prin peisajul viticol spre Pommard și Meursault, evitând ploaia de afară.\nÎncheiem ziua la Moutarderie Fallot, depozitând cumpărăturile direct în portbagaj.",
+            "en": "The rainy day begins comfortably with a drive to the Hospices, with parking available right across. \nAt midday, drive to Château de Savigny, where the vast collections can be seen dry inside the castle and hangars.\nIn the afternoon, cruise through the rainy vineyards to Pommard and Meursault, enjoying the warmth of the car.\nThe day finishes at Moutarderie Fallot, perfectly suited for loading up on local mustard gifts."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Saint-Étienne' für trockenen Zugang.",
+                "hu": "Használja a Saint-Étienne parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea Saint-Étienne pentru acces uscat.",
+                "en": "Use the Saint-Étienne parking garage for dry access."
+              }
+            },
+            {
+              "name": "Château de Savigny-lès-Beaune",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Flugzeugsammlung in den Hallen.",
+                "hu": "Látogassa meg a repülőgép-gyűjteményt a hangárokban.",
+                "ro": "Vizitați colecția de avioane din interiorul halelor.",
+                "en": "Visit the aircraft collection inside the halls."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum, um Fußwege im Regen zu minimieren.",
+                "hu": "Parkoljon a központ közelében, hogy keveset kelljen sétálni.",
+                "ro": "Parcați aproape de centru pentru a merge puțin prin ploaie.",
+                "en": "Park near the center to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Meursault Village",
+              "tip_5lang": {
+                "de": "Ideal für eine Weinprobe im trockenen Schlosskeller.",
+                "hu": "Ideális borkóstoló a kastély száraz pincéjében.",
+                "ro": "Ideal pentru o degustare în pivnița uscată a castelului.",
+                "en": "Ideal for a wine tasting in the dry castle cellar."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Beladen vor dem Geschäft möglich.",
+                "hu": "Rövid megállás a rakodáshoz az üzlet előtt megengedett.",
+                "ro": "Oprirea scurtă pentru încărcare este permisă în fața magazinului.",
+                "en": "Short stop for loading is possible in front of the shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen zwischen den Weindörfern sind bei Regen gut befahrbar.",
+              "Nutzen Sie zentrale Parkplätze in Beaune (Boulevard-Ring).",
+              "Ein Regenschirm im Auto ist für die Wege zum Eingang wichtig.",
+              "Vermeiden Sie unbefestigte Weinbergswege bei starkem Regen.",
+              "Die Sicht in den Tälern kann durch Nebel eingeschränkt sein."
+            ],
+            "hu": [
+              "A borfalvak közötti utak esőben is biztonságosak.",
+              "Használja a Boulevard-gyűrű központi parkolóit.",
+              "Legyen kéznél esernyő a parkolótól a bejáratig tartó útra.",
+              "Heves esőben kerülje a földutakat a szőlők között.",
+              "A köd miatt a völgyekben korlátozott lehet a látótávolság."
+            ],
+            "ro": [
+              "Drumurile între satele viticole sunt sigure pe ploaie.",
+              "Folosiți parcările centrale de pe inelul bulevardului.",
+              "Țineți umbrela la îndemână pentru distanța până la intrare.",
+              "Evitați drumurile de pământ prin vii pe ploaie torențială.",
+              "Vizibilitatea poate fi redusă de ceață în văi."
+            ],
+            "en": [
+              "The roads between wine villages are well-maintained for rain.",
+              "Use the central parking lots along the Boulevard ring.",
+              "Keep an umbrella in the car for the walk to each entrance.",
+              "Avoid unpaved vineyard tracks during heavy rainfall.",
+              "Visibility in the valleys can be limited by mist and fog."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto geht es morgens zum Hospiz, dessen bunte Ziegel im Winterfrost glitzern.\nMittags fahren wir zum Château de Savigny; die historischen Mauern bieten Schutz vor dem kalten Wind.\nNachmittags führt die Panoramafahrt durch die schlafenden Weinberge nach Pommard und Meursault.\nZum Abschluss besuchen wir die Moutarderie Fallot, bevor wir die kurze Rückfahrt im beheizten Wagen genießen.",
+            "hu": "Fűtött autóval érkezünk reggel a Hospices de Beaune-hoz, ahol a tetőcserepeken szikrázik a fagy.\nDélben a Savigny-lès-Beaune kastély felé vesszük az irányt, a vastag falak védenek a hideg széltől.\nDélután panorámaautózás vár ránk a téli álmát alvó dűlők között Pommard és Meursault irányába.\nZárásként a Fallot mustárgyárat látogatjuk meg, majd élvezzük a meleg utasteret hazafelé.",
+            "ro": "Cu mașina încălzită mergem dimineața spre Hospices, unde țiglele colorate sclipesc sub ger.\nLa prânz conducem spre Castelul Savigny; zidurile groase oferă adăpost de vântul tăios.\nDupă-amiaza, drumul panoramic prin viile adormite spre Pommard și Meursault este superb.\nLa final vizităm Moutarderie Fallot, savurând confortul mașinii la întoarcere.",
+            "en": "In a warm car, we head to the Hospices in the morning, its famous tiles sparkling with winter frost.\nAt midday, drive to Château de Savigny; the historic castle walls offer shelter from the biting wind.\nIn the afternoon, enjoy a scenic drive through the sleeping vineyards to Pommard and Meursault.\nFinally, visit Moutarderie Fallot before enjoying the short, heated drive back."
+          },
+          "stops": [
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Kälte zu meiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a hideget.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul.",
+                "en": "Park close to the entrance to avoid the winter chill."
+              }
+            },
+            {
+              "name": "Château de Savigny-lès-Beaune",
+              "tip_5lang": {
+                "de": "Die Innenräume des Schlosses sind stimmungsvoll und windgeschützt.",
+                "hu": "A kastély belső terei hangulatosak és szélvédettek.",
+                "ro": "Interiorul castelului este atmosferic și ferit de vânt.",
+                "en": "The castle interiors are atmospheric and sheltered from wind."
+              }
+            },
+            {
+              "name": "Pommard Village",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die frostigen Weinberge aus dem Auto.",
+                "hu": "Élvezze a fagyos dűlők látványát az autóból.",
+                "ro": "Admirați viile înghețate din confortul mașinii.",
+                "en": "Admire the frosty vineyards from the comfort of your car."
+              }
+            },
+            {
+              "name": "Meursault Village",
+              "tip_5lang": {
+                "de": "Die Weinkeller haben im Winter angenehme 12-14 Grad.",
+                "hu": "A borospincékben télen is kellemes 12-14 fok van.",
+                "ro": "Pivnițele au o temperatură plăcută de 12-14 grade iarna.",
+                "en": "Wine cellars maintain a pleasant 12-14°C even in winter."
+              }
+            },
+            {
+              "name": "Moutarderie Fallot",
+              "tip_5lang": {
+                "de": "Perfekt für letzte Besorgungen vor der frühen Dunkelheit.",
+                "hu": "Tökéletes az utolsó vásárlásokhoz a korai sötétedés előtt.",
+                "ro": "Perfect pentru ultimele cumpărături înainte de lăsarea serii.",
+                "en": "Perfect for last-minute shopping before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den schmalen Weinbergstraßen.",
+              "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist wichtig.",
+              "Planen Sie die Fahrt durch die Dörfer vor 16:30 Uhr ein.",
+              "In den kleinen Orten sind manche Restaurants im Winter geschlossen."
+            ],
+            "hu": [
+              "Vigyázzon a jegesedésre a szűk dűlőutakon.",
+              "Télen sokkal könnyebb parkolóhelyet találni.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A falvak közötti autózást tervezze délután fél 5 elé.",
+              "Néhány étterem a kis falvakban télen zárva tarthat."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile înguste dintre vii.",
+              "Găsirea unui loc de parcare este mult mai ușoară iarna.",
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Planificați traseul prin sate înainte de ora 16:30.",
+              "Unele restaurante din satele mici pot fi închise iarna."
+            ],
+            "en": [
+              "Watch for black ice on the narrow vineyard roads.",
+              "Finding parking is significantly easier during winter months.",
+              "Ensure you have anti-freeze in your windshield washer fluid.",
+              "Aim to complete your scenic drive by 4:30 PM.",
+              "Check opening hours as some village restaurants close in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -968,34 +2106,342 @@
           "Buses run significantly less frequently on Sundays.",
           "It's about a 10-15 minute walk from the station to the center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof aus ist Beaune hervorragend erschlossen. Nutzen Sie die kostenlose Innenstadt-Navette, um bequem zum Hôtel-Dieu zu gelangen. Nach der Besichtigung der Stiftskirche bringt Sie der Bus zum weitläufigen Bouzaize-Park. Ein letzter Stopp im Weinmuseum rundet das Erlebnis ab, bevor Sie mit dem Zug die Heimreise antreten.",
+            "hu": "A vasútállomástól Beaune kiválóan megközelíthető. Használja az ingyenes belvárosi buszjáratot, hogy kényelmesen eljusson a Hôtel-Dieu-höz. A Notre-Dame megtekintése után a busz elviszi a tágas Bouzaize parkhoz. Egy utolsó megálló a bormúzeumban teszi teljessé az élményt, mielőtt vonattal hazautazna.",
+            "ro": "De la gară, Beaune este excelent deservit de transportul public. Folosiți microbuzul gratuit din centru pentru a ajunge confortabil la Hôtel-Dieu. După vizitarea bisericii, autobuzul vă duce la parcul vast Bouzaize. O ultimă oprire la Muzeul Vinului completează experiența înainte de a lua trenul înapoi.",
+            "en": "From the train station, Beaune is excellently accessible. Use the free city center shuttle to reach the Hôtel-Dieu comfortably. After visiting the Notre-Dame church, the bus takes you to the extensive Bouzaize park. A final stop at the Wine Museum rounds off the experience before you take the train home."
+          },
+          "stops": [
+            {
+              "name": "Gare de Beaune",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist nur wenige Gehminuten vom Zentrum entfernt.",
+                "hu": "Az állomás csak pár perc sétára van a központtól.",
+                "ro": "Gara se află la doar câteva minute de mers pe jos de centru.",
+                "en": "The station is just a few minutes' walk from the center."
+              }
+            },
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Bus 'Navette gratuite' im Zentrum.",
+                "hu": "Használja a központban a helyi ingyenes buszjáratot.",
+                "ro": "Folosiți autobuzul local gratuit din centru.",
+                "en": "Use the local free shuttle bus in the center."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame",
+              "tip_5lang": {
+                "de": "Zentraler Punkt für viele Busverbindungen.",
+                "hu": "Központi pont sok buszjárat számára.",
+                "ro": "Punct central pentru multe conexiuni de autobuz.",
+                "en": "Central point for many bus connections."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Gut mit der Buslinie 1 erreichbar.",
+                "hu": "Jól megközelíthető az 1-es buszvonallal.",
+                "ro": "Accesibil cu linia de autobuz 1.",
+                "en": "Easily accessible with bus line 1."
+              }
+            },
+            {
+              "name": "Musée du Vin",
+              "tip_5lang": {
+                "de": "Liegt direkt auf dem Rückweg zum Bahnhof.",
+                "hu": "Közvetlenül az állomásra vezető úton fekszik.",
+                "ro": "Se află chiar pe drumul de întoarcere spre gară.",
+                "en": "Located right on the way back to the station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Escargots de Bourgogne",
+                "tip": "Weinbergschnecken mit Knoblauchbutter, eine Delikatesse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Burgundi csigák",
+                "tip": "Fokhagymás vajjal készült éticsigák, igazi ínyencség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Melci de Burgundia",
+                "tip": "Melci cu unt și usturoi, o delicatesă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Burgundy Snails",
+                "tip": "Snails with garlic butter, a true local delicacy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten",
+                "tip": "Ein versteckter Rückzugsort in der Nähe der Notre-Dame.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostorkert",
+                "tip": "Egy rejtett pihenőhely a Notre-Dame közelében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina mănăstirii",
+                "tip": "Un refugiu ascuns în apropiere de Notre-Dame.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cloister Garden",
+                "tip": "A hidden retreat near Notre-Dame.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bouchard Aîné & Fils",
+                "tip": "Historische Keller, die auch zu Fuß erreichbar sind."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bouchard Aîné & Fils",
+                "tip": "Történelmi pincék, amelyek gyalog is elérhetőek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bouchard Aîné & Fils",
+                "tip": "Crame istorice accesibile și pe jos."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bouchard Aîné & Fils",
+                "tip": "Historic cellars that are also reachable on foot."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne der Buslinie 'Cote y Bus'.",
+              "Die Fahrkarten können direkt beim Fahrer gekauft werden.",
+              "Sonntags verkehren deutlich weniger Busse.",
+              "Vom Bahnhof zum Zentrum sind es etwa 10-15 Minuten Fußweg."
+            ],
+            "hu": [
+              "Ellenőrizze a 'Cote y Bus' járatok menetrendjét.",
+              "A jegyeket közvetlenül a sofőrnél is meg lehet vásárolni.",
+              "Vasárnap jelentősen kevesebb busz közlekedik.",
+              "Az állomástól a központ kb. 10-15 perc gyalog."
+            ],
+            "ro": [
+              "Verificați orarul liniilor „Cote y Bus”.",
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "Duminica circulă mult mai puține autobuze.",
+              "De la gară până în centru sunt aproximativ 10-15 minute de mers pe jos."
+            ],
+            "en": [
+              "Check the schedules for 'Cote y Bus' lines.",
+              "Tickets can be purchased directly from the driver.",
+              "Buses run significantly less frequently on Sundays.",
+              "It's about a 10-15 minute walk from the station to the center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Bahnhof Beaune, der gute Unterstellmöglichkeiten bietet. Der Weg zum Hospiz ist kurz und führt durch belebte Gassen.\nMittags besuchen wir die Collégiale, ein trockener Zufluchtsort im Herzen der Stadt.\nNachmittags nehmen wir den Bus zum Park Bouzaize; die Fahrt schützt uns vor dem schlimmsten Regen.\nDer Tag endet im Weinmuseum, bevor wir bequem mit dem Pendelzug oder Bus zurück zum Bahnhof fahren.",
+            "hu": "A beaune-i pályaudvarról indulunk, ahol fedett peronok várnak. A Hospices rövid sétával, részben árkádok alatt érhető el.\nDélben a Collégiale templom vastag falai között találunk menedéket az eső elől.\nDélután busszal megyünk a Bouzaize parkhoz, így elkerülhetjük a hosszú ázást az utcákon.\nA nap a Bormúzeumban zárul, ahonnan kényelmesen visszajuthatunk a pályaudvarra.",
+            "ro": "Începem de la gara Beaune, care oferă adăpost bun. Drumul spre Hospices este scurt și trece prin zone populate.\nLa prânz vizităm Collégiale, un refugiu uscat în inima orașului.\nDupă-amiaza luăm autobuzul spre parcul Bouzaize pentru a evita ploaia torențială.\nZiua se încheie la Muzeul Vinului, de unde revenim ușor la gară cu transportul local.",
+            "en": "We start at Beaune station, which offers good shelter. The walk to the Hospices is short and follows central, sheltered paths.\nAt midday, visit the Collégiale, a dry sanctuary in the heart of the city.\nIn the afternoon, take the local bus to Park Bouzaize to stay dry during the commute.\nThe day concludes at the Wine Museum, followed by a quick transit link back to the station."
+          },
+          "stops": [
+            {
+              "name": "Gare de Beaune",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Bus oder Anschluss.",
+                "hu": "Várja a buszt vagy csatlakozást az állomás várótermében.",
+                "ro": "Așteptați autobuzul sau legătura în sala de așteptare.",
+                "en": "Wait for your bus or connection in the station hall."
+              }
+            },
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Vom Bahnhof nur 10 Minuten Fußweg durch die Innenstadt.",
+                "hu": "Az állomástól mindössze 10 perc séta a belvároson át.",
+                "ro": "La doar 10 minute de mers pe jos de gară prin centru.",
+                "en": "Only a 10-minute walk from the station through the center."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame",
+              "tip_5lang": {
+                "de": "Zentral gelegen, idealer Zwischenstopp bei Regen.",
+                "hu": "Központi fekvésű, ideális megálló esőben.",
+                "ro": "Locație centrală, oprire ideală pe ploaie.",
+                "en": "Centrally located, ideal stop-off during rain."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 bringt Sie fast direkt zum Parkeingang.",
+                "hu": "Az 1-es buszvonal szinte közvetlenül a parkhoz visz.",
+                "ro": "Linia de autobuz 1 vă lasă aproape de intrarea în parc.",
+                "en": "Bus line 1 drops you almost directly at the park entrance."
+              }
+            },
+            {
+              "name": "Musée du Vin",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Busstopp 'Hôtel de Ville' entfernt.",
+                "hu": "Csak egy rövid vágta az 'Hôtel de Ville' buszmegállótól.",
+                "ro": "La o scurtă fugă de stația de autobuz 'Hôtel de Ville'.",
+                "en": "A short dash from the 'Hôtel de Ville' bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die lokale Buslinie 'Le Beaunibus' ist bei Regen sehr praktisch.",
+              "Fahrkarten können direkt beim Fahrer gekauft werden.",
+              "Nutzen Sie die App 'Keolis Beaune' für Echtzeit-Infos.",
+              "Bahnhofsnah gibt es viele Cafés zum Unterstellen.",
+              "Die Taktung der Busse kann am Wochenende reduziert sein."
+            ],
+            "hu": [
+              "A helyi 'Le Beaunibus' nagyon praktikus esőben.",
+              "Jegyet közvetlenül a sofőrnél is válthat.",
+              "Használja a 'Keolis Beaune' alkalmazást a menetrendhez.",
+              "Az állomás közelében sok kávézóban várhat fedett helyen.",
+              "Hétvégén a buszok ritkábban járhatnak."
+            ],
+            "ro": [
+              "Linia locală 'Le Beaunibus' este utilă pe ploaie.",
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "Folosiți aplicația 'Keolis Beaune' pentru informații în timp real.",
+              "Lângă gară sunt multe cafenele unde vă puteți adăposti.",
+              "Frecvența autobuzelor poate fi redusă în weekend."
+            ],
+            "en": [
+              "The local 'Le Beaunibus' shuttle is very practical in the rain.",
+              "Tickets can be purchased directly from the driver.",
+              "Use the 'Keolis Beaune' app for real-time transit info.",
+              "There are many cafes near the station to wait indoors.",
+              "Bus frequency may be reduced on weekends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bahnhof Beaune ist frisch; wir nutzen den kurzen Weg zum Hospiz, um munter zu werden.\nMittags wärmen wir uns in der Collégiale auf, deren Stille im Winter besonders tief wirkt.\nNachmittags fahren wir mit dem Transit zum winterlichen Park Bouzaize, um das klare Licht zu genießen.\nDer Tag endet gemütlich im Weinmuseum, bevor wir die letzte Verbindung zurück zum Bahnhof nehmen.",
+            "hu": "A téli reggel friss a pályaudvaron; a Hospices-ig tartó rövid séta segít felébredni.\nDélben a Collégiale templomban melegszünk fel, a téli csend itt még mélyebbnek hat.\nDélután tömegközlekedéssel megyünk a Bouzaize parkhoz, hogy elcsípjük a délutáni fényeket.\nA nap a Bormúzeumban zárul, mielőtt elérnénk az utolsó járatot vissza az állomásra.",
+            "ro": "Dimineața de iarnă la gară este răcoroasă; drumul scurt spre Hospices ne revigorează.\nLa prânz ne încălzim în Collégiale, unde liniștea iernii este profundă.\nDupă-amiaza mergem cu transportul public spre parcul Bouzaize pentru lumina clară.\nZiua se termină la Muzeul Vinului, înainte de a lua ultima legătură spre gară.",
+            "en": "The winter morning at Beaune station is crisp; the short walk to the Hospices is a great wake-up.\nAt midday, warm up in the Collégiale, where the winter silence feels especially profound.\nIn the afternoon, use transit to reach Park Bouzaize to enjoy the clear winter light.\nThe day ends cozy at the Wine Museum before catching the final connection to the station."
+          },
+          "stops": [
+            {
+              "name": "Gare de Beaune",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting hall is heated during the winter."
+              }
+            },
+            {
+              "name": "Hospices de Beaune",
+              "tip_5lang": {
+                "de": "Ein schneller Fußweg hält den Kreislauf in Schwung.",
+                "hu": "A gyors séta segít melegen tartani a testet.",
+                "ro": "Un mers rapid vă va ajuta să vă încălziți.",
+                "en": "A brisk walk will keep your circulation going."
+              }
+            },
+            {
+              "name": "Collégiale Notre-Dame",
+              "tip_5lang": {
+                "de": "Oft kühler als andere Museen, behalten Sie den Mantel an.",
+                "hu": "Gyakran hűvösebb, mint a múzeumok, ne vegye le a kabátot.",
+                "ro": "Adesea mai rece decât muzeele, păstrați haina pe dvs.",
+                "en": "Often cooler than museums; keep your coat on inside."
+              }
+            },
+            {
+              "name": "Parc de la Bouzaize",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus um 15:30, um vor der Dunkelheit anzukommen.",
+                "hu": "Szálljon buszra 15:30-kor, hogy sötétedés előtt odaérjen.",
+                "ro": "Luați autobuzul la 15:30 pentru a ajunge înainte de lăsarea serii.",
+                "en": "Take the 3:30 PM bus to arrive before it gets dark."
+              }
+            },
+            {
+              "name": "Musée du Vin",
+              "tip_5lang": {
+                "de": "Letzter Einlass meist eine Stunde vor Schließung.",
+                "hu": "Az utolsó belépés általában egy órával zárás előtt.",
+                "ro": "Ultima intrare este de obicei cu o oră înainte de închidere.",
+                "en": "Last entry is usually one hour before closing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der TER-Züge.",
+              "Die Busse sind gut beheizt und bieten eine Pause vom Wind.",
+              "Ein Heißgetränk am Bahnhof verkürzt die Wartezeit.",
+              "Planen Sie Pufferzeiten für eventuelle wetterbedingte Verspätungen ein.",
+              "Ab 17:00 Uhr leuchtet die Weihnachtsbeleuchtung (Dezember)."
+            ],
+            "hu": [
+              "Ellenőrizze a TER vonatok téli menetrendjét.",
+              "A buszok fűtöttek, jó menedéket nyújtanak a szél elől.",
+              "Egy forró ital az állomáson lerövidíti a várakozást.",
+              "Számoljon az időjárás miatti esetleges késésekkel.",
+              "Délután 5-től már égnek az ünnepi fények (decemberben)."
+            ],
+            "ro": [
+              "Verificați mersul trenurilor TER pentru iarnă.",
+              "Autobuzele sunt încălzite și oferă un răgaz de la vânt.",
+              "O băutură caldă la gară face așteptarea mai ușoară.",
+              "Luați în calcul posibile întârzieri din cauza vremii.",
+              "După ora 17:00 se aprind luminile festive (în decembrie)."
+            ],
+            "en": [
+              "Check the winter schedule for TER regional trains.",
+              "Buses are well-heated and offer a break from the cold wind.",
+              "A hot drink at the station makes waiting more pleasant.",
+              "Allow extra time for potential weather-related delays.",
+              "Holiday lights are switched on from 5:00 PM (December)."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.beaune-tourisme.fr/",
-    "events": "https://www.beaune-tourisme.fr/agenda/",
-    "city_card": "https://www.beaune-tourisme.fr/pass-beaune/",
-    "museum_tickets": "https://www.hospices-de-beaune.com/billetterie/",
-    "transit_official": "https://www.cotedor-mobilites.fr/",
-    "language_tips": {
-      "de": "Beaune ist die Welt-Hauptstadt des Burgunderweins, Englisch wird in den Weingütern und im Hospices fließend gesprochen. Lernen Sie 'grand cru' und 'premier cru' für die Weinklassifikation, 'Hospices de Beaune' für das berühmte Hospital. Bei Verkostungen 'la dégustation' und 'le terroir' sind Schlüsselbegriffe.",
-      "hu": "Beaune a burgundi borok világfővárosa, a borászatokban és a Hospices-ben folyékonyan beszélnek angolul. Tanuld meg a 'grand cru' és 'premier cru' kifejezéseket a borosztályozáshoz, a 'Hospices de Beaune' nevet a híres kórházhoz. Kóstoláshoz a 'dégustation' és 'terroir' kulcsfogalmak.",
-      "ro": "Beaune este capitala mondială a vinului de Burgundia, engleza se vorbește fluent la crame și la Hospices. Învățați 'grand cru' și 'premier cru' pentru clasificarea vinului, 'Hospices de Beaune' pentru spitalul renumit. La degustări, 'la dégustation' și 'le terroir' sunt termeni cheie.",
-      "en": "Beaune is the world capital of Burgundy wines - English is spoken fluently at wineries and the Hospices. Learn 'grand cru' and 'premier cru' for the wine classification, 'Hospices de Beaune' for the famous medieval hospital. At tastings 'la dégustation' and 'le terroir' are key terms."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, perfekte Weinverkostungs-Bedingungen und nicht zu voll. Im November findet die berühmte Wein-Versteigerung der Hospices de Beaune statt, sehr spektakulär aber alles ausgebucht. Winter ist ruhig, viele Weinkeller bleiben geöffnet.",
-      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, tökéletes borkóstoló feltételek, nem túl zsúfolt. Novemberben rendezik a Hospices de Beaune híres boraukcióját, látványos, de minden teltház. Télen csendes, sok borospince nyitva tart.",
-      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, condiții perfecte pentru degustări de vin și nu prea aglomerat. În noiembrie are loc celebra licitație de vin a Hospices de Beaune, spectaculoasă dar totul rezervat. Iarna este liniștită, multe pivnițe rămân deschise.",
-      "en": "May-June and September-October are ideal: mild weather, perfect wine tasting conditions and not too crowded. November hosts the famous Hospices de Beaune wine auction - spectacular but everything is booked. Winter is quiet, many wine cellars stay open."
-    },
-    "neighborhood_warnings": {
-      "de": "Beaune ist sehr sicher, eine elegante Weinstadt. Im Sommer kann es voll werden, besonders rund um die Hospices. Beim Autofahren in den engen Gassen der Altstadt vorsichtig sein. Verkostungen mit Mass!",
-      "hu": "Beaune nagyon biztonságos, elegáns borváros. Nyáron zsúfolt lehet, főleg a Hospices körül. Az óváros szűk utcáiban óvatosan vezess. Kóstoláskor mértékkel!",
-      "ro": "Beaune este foarte sigur, un oraș viticol elegant. Vara poate fi aglomerat, mai ales în jurul Hospices. La condusul în străduțele înguste ale centrului vechi, atenție. La degustări, cu măsură!",
-      "en": "Beaune is very safe, an elegant wine town. Summer can get crowded, especially around the Hospices. Drive carefully in the narrow old town lanes. Taste in moderation - cellars are deeper than they look!"
-    },
-    "parking_real_time": ""
   }
 }

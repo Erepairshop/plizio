@@ -260,6 +260,390 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Use the funicular to get up to Fourvière hill."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der riesigen Place Bellecour, dem Herzen von Lyon. Schlendern Sie durch die eleganten Straßen der Presqu'île bis zur Place des Terreaux. Überqueren Sie die Saône, um das mittelalterliche Saint-Jean zu erkunden. Der Nachmittag gehört den engen Gassen des Alten Lyon und seinen geheimnisvollen Traboules. Den krönenden Abschluss bildet der Aufstieg zum Fourvière-Hügel, wo die prächtige Basilika und ein atemberaubender Blick auf die Alpen warten.",
+            "hu": "Kezdje a napot a hatalmas Place Bellecour-on, Lyon szívében. Sétáljon végig a Presqu'île elegáns utcáin a Place des Terreaux-ig. Keljen át a Saône folyón, hogy felfedezze a középkori Saint-Jean negyedet. A délutánt szentelje az Óváros szűk utcáinak és titkos átjáróinak (traboules). A nap fénypontja a Fourvière-dombra való feljutás, ahol a pompás bazilika és az Alpokra nyíló lélegzetelállító kilátás várja.",
+            "ro": "Începeți ziua în uriașa Place Bellecour, inima Lyonului. Plimbați-vă pe străzile elegante din Presqu'île până la Piața Terreaux. Traversați râul Saône pentru a explora cartierul medieval Saint-Jean. După-amiaza este dedicată străzilor înguste din Vechiul Lyon și pasajelor sale secrete (traboules). Punctul culminant al zilei este urcarea pe dealul Fourvière, unde vă așteaptă bazilica somptuoasă și o vedere panoramică uluitoare spre Alpi.",
+            "en": "Start your day at the vast Place Bellecour, the heart of Lyon. Stroll through the elegant streets of the Presqu'île to Place des Terreaux. Cross the Saône river to explore medieval Saint-Jean. Spend the afternoon in the narrow streets of Old Lyon and its mysterious hidden passages (traboules). The highlight of the day is ascending Fourvière hill, where the magnificent basilica and a breathtaking view of the Alps await you."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Bellecour",
+                "hu": "Place Bellecour",
+                "ro": "Piața Bellecour",
+                "en": "Place Bellecour"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die Statue von Ludwig XIV. in der Mitte.",
+                "hu": "Keresd meg XIV. Lajos lovasszobrát a tér közepén.",
+                "ro": "Căutați statuia ecvestră a lui Ludovic al XIV-lea.",
+                "en": "Look for the equestrian statue of Louis XIV in the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Jacobins",
+                "hu": "Place des Jacobins",
+                "ro": "Piața Jacobins",
+                "en": "Place des Jacobins"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Marmorbrunnen ist ein tolles Fotomotiv.",
+                "hu": "A fehér márvány szökőkút tökéletes fotóhelyszín.",
+                "ro": "Fântâna din marmură albă este un loc ideal pentru fotografii.",
+                "en": "The white marble fountain is a perfect photo spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Terreaux",
+                "hu": "Place des Terreaux",
+                "ro": "Piața Terreaux",
+                "en": "Place des Terreaux"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Bartholdi-Brunnen und das Rathaus.",
+                "hu": "Csodáld meg a Bartholdi-szökőkutat és a Városházát.",
+                "ro": "Admirați fântâna Bartholdi și Primăria.",
+                "en": "Admire the Bartholdi fountain and the City Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Jean-Baptiste",
+                "hu": "Szent János-székesegyház",
+                "ro": "Catedrala Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die astronomische Uhr im Inneren.",
+                "hu": "Ne hagyd ki a benti csillagászati órát.",
+                "ro": "Nu ratați ceasul astronomic din interior.",
+                "en": "Don't miss the astronomical clock inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Lyon (Traboules)",
+                "hu": "Ó-Lyon (Traboules)",
+                "ro": "Vechiul Lyon (Traboules)",
+                "en": "Old Lyon (Traboules)"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die versteckten Passagen (Traboules) zwischen den Straßen.",
+                "hu": "Fedezd fel az utcák közötti rejtett átjárókat (traboules).",
+                "ro": "Descoperiți pasajele ascunse (traboules) între străzi.",
+                "en": "Discover the hidden passages (traboules) between the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Notre-Dame de Fourvière",
+                "hu": "Fourvière-i Miasszonyunk-bazilika",
+                "ro": "Basilica Notre-Dame de Fourvière",
+                "en": "Basilica of Notre-Dame de Fourvière"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick über die Stadt ist von hier oben unschlagbar.",
+                "hu": "A városra nyíló panoráma innen fentről verhetetlen.",
+                "ro": "Panorama asupra orașului de aici este imbatabilă.",
+                "en": "The panoramic view over the city is unbeatable from here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bouchon Lyonnais",
+                "tip": "Probieren Sie Quenelle de Brochet in einem traditionellen Restaurant."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bouchon Lyonnais",
+                "tip": "Kóstolja meg a csukagombócot (Quenelle de Brochet) egy hagyományos étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bouchon Lyonnais",
+                "tip": "Gustați găluștele de știucă (Quenelle de Brochet) într-un restaurant tradițional."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bouchon Lyonnais",
+                "tip": "Try the pike dumplings (Quenelle de Brochet) in a traditional restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin des Curiosités",
+                "tip": "Ein versteckter Park mit fantastischer Aussicht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin des Curiosités",
+                "tip": "Egy rejtett park fantasztikus kilátással.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin des Curiosités",
+                "tip": "Un parc ascuns cu o vedere fantastică.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin des Curiosités",
+                "tip": "A hidden park with a fantastic view.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue de la République",
+                "tip": "Die Haupteinkaufsstraße der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue de la République",
+                "tip": "A város fő bevásárlóutcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue de la République",
+                "tip": "Principala stradă comercială a orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue de la République",
+                "tip": "The main shopping street of the city."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die Standseilbahn für den Weg nach Fourvière."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Használja a siklót (funiculaire) a Fourvière-dombra való feljutáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Folosiți funicularul pentru a urca pe dealul Fourvière."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Use the funicular to get up to Fourvière hill."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens peitscht der Regen über den Place Bellecour, doch die Gassen von Vieux Lyon bieten Schutz unter Renaissance-Dächern. Mittags ist die Basilika Fourvière ein goldener Zufluchtsort vor dem Grau. Nachmittags sind die Traboules in Croix-Rousse der ideale trockene Pfad durch das Viertel. Abends glänzen die Lichter der Stadt auf dem nassen Asphalt, während Sie sich in einem warmen Bouchon aufwärmen.",
+            "hu": "Reggel az eső áztatja a Place Bellecourt, de a Vieux Lyon reneszánsz tetői menedéket nyújtanak. Délben a Fourvière-bazilika arany mozaikjai között találunk száraz menedéket. Délután a Croix-Rousse trabouljai (titkos átjárói) tökéletes útvonalat kínálnak az eső elől. Estére a város fényei megcsillannak a vizes aszfalton, mi pedig egy barátságos bouchon melegében pihenünk meg.",
+            "ro": "Dimineața, ploaia mătură Place Bellecour, dar străzile din Vieux Lyon oferă adăpost sub acoperișurile renascentiste. La prânz, Bazilica Fourvière devine un refugiu auriu împotriva griului de afară. După-amiaza, traboule-urile din Croix-Rousse sunt calea ideală și uscată prin cartier. Seara, luminile orașului se oglindesc pe asfaltul umed în timp ce vă încălziți într-un bouchon primitor.",
+            "en": "In the morning, rain sweeps across Place Bellecour, but the streets of Vieux Lyon offer shelter under Renaissance eaves. At noon, the Fourvière Basilica is a golden sanctuary from the grey weather. In the afternoon, the traboules of Croix-Rousse provide the perfect dry path through the district. By evening, city lights shimmer on the wet asphalt as you warm up in a cozy Lyonnais bouchon."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Kiosk oder die umliegenden Arkaden als Unterstand.",
+                "hu": "Használja a turisztikai iroda árkádjait menedékként.",
+                "ro": "Folosiți arcadele biroului de turism pentru a rămâne uscați.",
+                "en": "Use the tourist office arcades as a temporary shelter."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Die engen Gassen schützen gut vor Wind und leichtem Regen.",
+                "hu": "A szűk utcák jól védenek a széltől és az enyhe esőtől.",
+                "ro": "Străzile înguste protejează bine împotriva vântului și ploii ușoare.",
+                "en": "The narrow streets provide good protection from wind and light rain."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Verbringen Sie mehr Zeit in der prächtigen, trockenen Krypta.",
+                "hu": "Töltsön több időt a pompás, száraz kripta felfedezésével.",
+                "ro": "Petreceți mai mult timp în cripta splendidă și uscată.",
+                "en": "Spend more time exploring the magnificent, dry crypt."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Vorsicht, die antiken Steinstufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, az ősi kőlépcsők nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele antice de piatră pot fi alunecoase când sunt ude.",
+                "en": "Caution: the ancient stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Das Musée des Beaux-Arts direkt am Platz ist ein perfekter Rückzugsort.",
+                "hu": "A téren található Szépművészeti Múzeum tökéletes menekülőút az eső elől.",
+                "ro": "Muzeul de Arte Frumoase din piață este un refugiu perfect.",
+                "en": "The Fine Arts Museum right on the square is a perfect rain retreat."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Nutzen Sie diese überdachten Passagen, um trocken durch das Viertel zu kommen.",
+                "hu": "Használja ezeket a fedett átjárókat a száraz közlekedéshez.",
+                "ro": "Folosiți aceste pasaje acoperite pentru a traversa cartierul la uscat.",
+                "en": "Use these covered passages to traverse the district while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in Vieux Lyon.",
+              "Nutzen Sie die Traboules als natürliches Dachsystem der Stadt.",
+              "Die Museen (Beaux-Arts, Cinema & Miniature) sind ideale Regen-Stopps.",
+              "Die Cafés in den Traboules bieten gemütliche, trockene Pausenplätze.",
+              "Regenschirme sind bei Wind in der Nähe der Flüsse oft unhandlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Vieux Lyon macskaköves utcáihoz.",
+              "Használja a traboule-okat a város természetes fedett hálózataként.",
+              "A múzeumok (Beaux-Arts, Mozi- és Miniatűr) ideális esőnap-helyszínek.",
+              "A folyók mentén a szél miatt az esernyő gyakran nehezen kezelhető.",
+              "A traboule-ok belső udvarai száraz pihenőhelyeket kínálnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul din Vieux Lyon.",
+              "Folosiți traboule-urile ca pe un sistem natural de acoperiș al orașului.",
+              "Muzeele (Arte Frumoase, Cinema și Miniaturi) sunt opriri ideale pe ploaie.",
+              "Umbrelele pot fi greu de manevrat lângă râuri din cauza vântului.",
+              "Cafenelele din pasaje oferă locuri de pauză primitoare și uscate."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones in Vieux Lyon.",
+              "Utilize the traboules as the city's natural covered walkway system.",
+              "Museums (Fine Arts, Cinema & Miniature) are ideal rainy day stops.",
+              "Umbrellas can be tricky near the rivers due to sudden gusts of wind.",
+              "Indoor passages offer cozy and dry spots for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Nebel über der Saône, was dem Place Bellecour eine mystische Ruhe verleiht. Mittags wärmt die Sonne die Basilika auf dem Hügel, während der Wind oben kühl weht. Nachmittags taucht das frühe Licht (Sonnenuntergang 17:00) das Viertel Croix-Rousse in sanfte Farben. Abends lockt die Wärme der Lyoner Bouchons mit deftigen Spezialitäten gegen den Winterfrost.",
+            "hu": "Reggel köd ül a Saône felett, misztikus nyugalmat árasztva a Place Bellecouron. Délben a dombtetőn a nap süti a bazilikát, de a szél hűvös. Délután a korai naplemente (17:00) lágy fényekbe öltözteti a Croix-Rousse negyedet. Estére a lyoni bouchonok melege és a laktató téli ételek hívogatnak a kinti fagy elől.",
+            "ro": "Dimineața, ceața stă deasupra Saône-ului, oferind o liniște mistică în Place Bellecour. La prânz, soarele încălzește bazilica de pe deal, deși vântul este tăios. După-amiaza, lumina timpurie (apus la 17:00) scaldă cartierul Croix-Rousse în culori calde. Seara, căldura localurilor tipice și specialitățile consistente vă feresc de ger.",
+            "en": "In the morning, mist often lingers over the Saône, giving Place Bellecour a mystical silence. At noon, the sun warms the hilltop basilica, though the wind remains biting. In the afternoon, the early light (sunset at 17:00) bathes the Croix-Rousse district in soft hues. By evening, the warmth of Lyonnais bouchons and hearty winter dishes beckon from the cold."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Ein heißer Kaffee in den Cafés am Platz ist der ideale Start.",
+                "hu": "Egy forró kávé a tér kávézóiban tökéletes napindító.",
+                "ro": "O cafea fierbinte la cafenelele din piață este startul ideal.",
+                "en": "A hot coffee at the square's cafes is the ideal winter start."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "In den mittelalterlichen Gassen ist es oft windgeschützter als am Fluss.",
+                "hu": "A középkori utcákban gyakran szélvédettebb az idő, mint a folyóparton.",
+                "ro": "Străzile medievale sunt adesea mai ferite de vânt decât malul râului.",
+                "en": "The medieval streets are often more sheltered from wind than the riverside."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Fernsicht, die es oft nur im Winter gibt.",
+                "hu": "Élvezze a tiszta kilátást, amely gyakran csak télen ilyen éles.",
+                "ro": "Bucurați-vă de vizibilitatea clară, specifică zilelor de iarnă.",
+                "en": "Enjoy the crystal-clear views often only possible in winter."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Der Wind auf dem Hügel ist kalt; Schal und Handschuhe sind Pflicht.",
+                "hu": "A dombtetőn hideg a szél; a sál és a kesztyű kötelező.",
+                "ro": "Vântul de pe deal este rece; fularul și mănușile sunt obligatorii.",
+                "en": "The hilltop wind is cold; scarves and gloves are a must."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Ab 17:00 Uhr sorgt die Beleuchtung für eine festliche Winterstimmung.",
+                "hu": "17:00 után a díszkivilágítás ünnepi téli hangulatot áraszt.",
+                "ro": "După ora 17:00, iluminatul creează o atmosferă festivă de iarnă.",
+                "en": "After 17:00, the illuminations create a festive winter atmosphere."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Die Innenhöfe sind kleine Wärmespeicher und windgeschützt.",
+                "hu": "A belső udvarok szélvédettek és valamivel melegebbek.",
+                "ro": "Curțile interioare sunt ferite de vânt și ceva mai calde.",
+                "en": "The inner courtyards are sheltered from the wind and slightly warmer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den windigen Hügel.",
+              "Der Sonnenuntergang gegen 17:00 Uhr ist ideal für Fotos von Fourvière.",
+              "Probieren Sie heiße Praline-Tarte in einer der Bäckereien.",
+              "Die Funiculaire (Seilbahn) spart Ihnen den kalten Aufstieg zu Fuß.",
+              "Die Museen sind gut geheizt und bieten perfekte Pausen vom Frost."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a szeles dombtető miatt.",
+              "A 17:00 körüli naplemente ideális a Fourvière fotózásához.",
+              "Kóstolja meg a forró pralinés pitét valamelyik pékségben.",
+              "A sikló (Funiculaire) megkíméli a hideg, gyalogos hegymenettől.",
+              "A múzeumok jól fűtöttek, tökéletesek a fagy elleni pihenőhöz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru dealul unde vântul bate tare.",
+              "Apusul în jur de ora 17:00 este ideal pentru fotografii cu Fourvière.",
+              "Gustați o tarta cu praline caldă la una dintre brutării.",
+              "Funicularul vă scutește de urcarea pe jos prin aerul rece.",
+              "Muzeele sunt bine încălzite, oferind pauze perfecte de la ger."
+            ],
+            "en": [
+              "Dress in layers for the windy climb to Fourvière hill.",
+              "Sunset around 17:00 is ideal for golden hour photos of the city.",
+              "Try a warm pink praline tart at one of the local bakeries.",
+              "The funicular saves you from a cold walk uphill.",
+              "Museums are well-heated and provide perfect breaks from the frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -514,6 +898,426 @@
           "Use the 'Vélo'v' bike-sharing system.",
           "The riverside paths are almost completely flat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Lyon auf zwei Rädern entlang der Rhone-Ufer. Radeln Sie durch den riesigen Parc de la Tête d'Or, die grüne Lunge der Stadt. Nach einer kulinarischen Pause in den berühmten Hallen Paul Bocuse führt der Weg zum beeindruckenden Mur des Canuts in Croix-Rousse. Die Tour endet entspannt an den malerischen Kais der Saône mit Blick auf die Altstadt.",
+            "hu": "Fedezze fel Lyont két keréken a Rhône partján. Biciklizzen át a hatalmas Aranyfej parkon, a város zöld tüdején. A híres Paul Bocuse vásárcsarnokban tett gasztronómiai pihenő után az út a Croix-Rousse negyed lenyűgöző falfestményéhez vezet. A túra a Saône folyó festői rakpartjain zárul, kilátással az óvárosra.",
+            "ro": "Descoperiți Lyonul pe două roți de-a lungul malurilor Ronului. Pedalați prin uriașul Parc de la Tête d'Or, plămânul verde al orașului. După o pauză gastronomică în faimoasele hale Paul Bocuse, drumul duce la impresionantul Mur des Canuts din Croix-Rousse. Turul se încheie relaxat pe cheiurile pitorești ale Saône-ului, cu vedere spre orașul vechi.",
+            "en": "Discover Lyon on two wheels along the banks of the Rhône. Cycle through the vast Parc de la Tête d'Or, the city's green lung. After a gastronomic break at the famous Halles Paul Bocuse, the path leads to the impressive Mur des Canuts in Croix-Rousse. The tour ends relaxingly on the picturesque quays of the Saône with a view of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Bellecour",
+                "hu": "Place Bellecour",
+                "ro": "Piața Bellecour",
+                "en": "Place Bellecour"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Startpunkt für Radtouren.",
+                "hu": "Tökéletes kiindulópont a kerékpáros túrákhoz.",
+                "ro": "Punct de plecare perfect pentru tururi cu bicicleta.",
+                "en": "Perfect starting point for bike tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Berges du Rhône",
+                "hu": "Rhône-part",
+                "ro": "Malurile Ronului",
+                "en": "Rhône Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Breite Radwege entlang des Flusses.",
+                "hu": "Széles kerékpárutak a folyó mentén.",
+                "ro": "Piste de biciclete largi de-a lungul râului.",
+                "en": "Wide bike paths along the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Tête d'Or",
+                "hu": "Aranyfej park",
+                "ro": "Parcul Tête d'Or",
+                "en": "Parc de la Tête d'Or"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den kostenlosen Zoo und den botanischen Garten.",
+                "hu": "Látogasd meg az ingyenes állatkertet és a botanikus kertet.",
+                "ro": "Vizitați grădina zoologică gratuită și grădina botanică.",
+                "en": "Visit the free zoo and the botanical garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles de Lyon Paul Bocuse",
+                "hu": "Paul Bocuse Vásárcsarnok",
+                "ro": "Halele Lyon Paul Bocuse",
+                "en": "Les Halles de Lyon Paul Bocuse"
+              },
+              "tip_5lang": {
+                "de": "Ein Gourmet-Paradies für ein schnelles Mittagessen.",
+                "hu": "Gasztronómiai paradicsom egy gyors ebédhez.",
+                "ro": "Un paradis gastronomic pentru un prânz rapid.",
+                "en": "A gourmet paradise for a quick lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Mur des Canuts",
+                "hu": "Selyemszövők fala",
+                "ro": "Zidul Canuts",
+                "en": "Mur des Canuts"
+              },
+              "tip_5lang": {
+                "de": "Das größte Wandgemälde Europas (Trompe-l'œil).",
+                "hu": "Európa legnagyobb falfestménye (trompe-l'œil).",
+                "ro": "Cea mai mare pictură murală din Europa (trompe-l'œil).",
+                "en": "The largest mural in Europe (trompe-l'œil)."
+              }
+            },
+            {
+              "name": {
+                "de": "Quai Saint-Antoine",
+                "hu": "Quai Saint-Antoine",
+                "ro": "Quai Saint-Antoine",
+                "en": "Quai Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die bunten Fassaden am Fluss.",
+                "hu": "Élvezd a kilátást a folyóparti színes homlokzatokra.",
+                "ro": "Bucurați-vă de vederea fațadelor colorate de pe malul râului.",
+                "en": "Enjoy the view of the colorful facades by the river."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Halles Paul Bocuse",
+                "tip": "Probieren Sie Saucisson Brioché oder lokale Käsesorten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles Paul Bocuse",
+                "tip": "Kóstolja meg a briósban sült kolbászt vagy a helyi sajtokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles Paul Bocuse",
+                "tip": "Încercați cârnatul în brioșă sau brânzeturile locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles Paul Bocuse",
+                "tip": "Try the sausage in brioche or local cheeses."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Roseraie du Parc",
+                "tip": "Ein ruhiger Ort im Rosengarten.",
+                "emoji": "🌹"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Roseraie du Parc",
+                "tip": "Csendes pont a rózsakertben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Roseraie du Parc",
+                "tip": "Un loc liniștit în grădina de trandafiri.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Roseraie du Parc",
+                "tip": "A quiet spot in the rose garden.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché de la Création",
+                "tip": "Kunstmarkt am Sonntag am Saône-Ufer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché de la Création",
+                "tip": "Művészeti piac vasárnaponként a Saône partján."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché de la Création",
+                "tip": "Piață de artă duminica pe malul Saône-ului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché de la Création",
+                "tip": "Art market on Sundays on the Saône banks."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie das Verleihsystem 'Vélo'v'.",
+              "Die Wege am Fluss sind fast völlig flach."
+            ],
+            "hu": [
+              "Használja a 'Vélo'v' közösségi kerékpárrendszert.",
+              "A folyóparti utak szinte teljesen síkak."
+            ],
+            "ro": [
+              "Folosiți sistemul de închirieri 'Vélo'v'.",
+              "Traseele de-a lungul râului sunt aproape complet plate."
+            ],
+            "en": [
+              "Use the 'Vélo'v' bike-sharing system.",
+              "The riverside paths are almost completely flat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens gleiten Sie durch den Regen am Rhone-Ufer entlang zum Place Bellecour. Mittags bietet die Auffahrt nach Fourvière eine sportliche Herausforderung auf nassen Wegen. Nachmittags flüchten Sie ins Musée des Beaux-Arts, während die Fahrräder sicher im Regen warten. Abends endet die Tour an den Halles Paul Bocuse, einem Paradies für trockene Gourmet-Momente.",
+            "hu": "Reggel az esőben gurulunk a Rhone partján a Place Bellecour felé. Délben a Fourvière-re való felkapaszkodás sportos kihívás a vizes utakon. Délután a Szépművészeti Múzeumba menekülünk, amíg a biciklik kint várnak az esőben. Estére a túra a Halles Paul Bocuse-nál ér véget, ami a száraz gourmet pillanatok paradicsoma.",
+            "ro": "Dimineața glisați prin ploaie pe malul Ronului spre Place Bellecour. La prânz, urcarea spre Fourvière este o provocare sportivă pe drumuri ude. După-amiaza vă refugiați la Muzeul de Arte Frumoase, în timp ce bicicletele așteaptă în ploaie. Seara turul se încheie la Halles Paul Bocuse, un paradis pentru momente gourmet la uscat.",
+            "en": "In the morning, glide through the rain along the Rhone banks towards Place Bellecour. At noon, the climb to Fourvière offers a physical challenge on wet paths. In the afternoon, take refuge in the Fine Arts Museum while the bikes wait in the rain. By evening, the tour ends at Halles Paul Bocuse, a haven for dry gourmet moments."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Wischen Sie den Velo'v Sattel gründlich ab, bevor Sie aufsteigen.",
+                "hu": "Alaposan törölje le a Velo'v nyergét felszállás előtt.",
+                "ro": "Ștergeți bine șaua Velo'v înainte de a pleca la drum.",
+                "en": "Wipe the Velo'v saddle thoroughly before starting your ride."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster; fahren Sie langsam.",
+                "hu": "Vigyázat a sima macskakövön; hajtson lassan és óvatosan.",
+                "ro": "Atenție la pavajul alunecos; conduceți cu viteză redusă.",
+                "en": "Caution on the smooth cobblestones; ride slowly and carefully."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer, falls verfügbar.",
+                "hu": "Használja a fedett kerékpártárolót, ha találni ilyet.",
+                "ro": "Folosiți suportul de biciclete acoperit, dacă este disponibil.",
+                "en": "Use a covered bike rack if available near the entrance."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Die Wege im Park können bei starkem Regen matschig sein.",
+                "hu": "A park útjai heves esőzéskor sárosak lehetnek.",
+                "ro": "Potecile din parc pot fi noroioase în caz de ploaie abundentă.",
+                "en": "The park paths can get muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um nasses Equipment im Schließfach zu lassen.",
+                "hu": "Tökéletes hely a vizes felszerelés megőrzőben hagyására.",
+                "ro": "Loc perfect pentru a lăsa echipamentul umed la vestiar.",
+                "en": "Perfect place to leave wet gear in a locker while you visit."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Der Platz ist bei Regen oft menschenleer – ideal für Fotos.",
+                "hu": "A tér esőben gyakran néptelen – ideális a fotózáshoz.",
+                "ro": "Piața este adesea pustie pe ploaie – ideal pentru fotografii.",
+                "en": "The square is often empty in the rain – ideal for photos."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad sicher ab; die Traboules sind nur für Fußgänger.",
+                "hu": "Lakatolja le a gépet; a traboule-okba csak gyalog szabad belépni.",
+                "ro": "Parcați bicicleta sigur; traboule-urile sunt doar pentru pietoni.",
+                "en": "Park your bike securely; traboules are for pedestrians only."
+              }
+            },
+            {
+              "name": "Halles Paul Bocuse",
+              "tip_4lang": {
+                "de": "Geben Sie das Rad an der nahen Station ab und bleiben Sie trocken.",
+                "hu": "Adja le a biciklit a közeli állomáson, és maradjon szárazon.",
+                "ro": "Lăsați bicicleta la stația apropiată și rămâneți la uscat.",
+                "en": "Drop off your bike at a nearby station and stay dry inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremse auf nassem Kopfsteinpflaster frühzeitig und vorsichtig.",
+              "Velo'v Stationen sind oft direkt neben überdachten Unterständen.",
+              "Tragen Sie eine wasserfeste Regenhose für die Fahrt am Fluss.",
+              "Der Tunnel de la Croix-Rousse (Radweg) ist komplett regengeschützt.",
+              "Meiden Sie bei starkem Regen die unbefestigten Wege im Parc de la Tête d'Or."
+            ],
+            "hu": [
+              "Vizes macskakövön fékezzen korán és óvatosan.",
+              "A Velo'v állomások gyakran fedett helyek közelében vannak.",
+              "Viseljen vízálló nadrágot a folyóparti tekeréshez.",
+              "A Croix-Rousse alagút (kerékpárút) teljesen védett az esőtől.",
+              "Heves esőben kerülje a Parc de la Tête d'Or burkolatlan útjait."
+            ],
+            "ro": [
+              "Frânați din timp și cu prudență pe pavajul ud.",
+              "Stațiile Velo'v sunt adesea lângă locuri adăpostite.",
+              "Purtați pantaloni impermeabili pentru plimbarea pe malul râului.",
+              "Tunelul Croix-Rousse (pistă biciclete) este complet protejat de ploaie.",
+              "Evitați potecile neasfaltate din Parc de la Tête d'Or pe ploaie mare."
+            ],
+            "en": [
+              "Brake early and gently on wet cobblestones.",
+              "Velo'v stations are often located near sheltered spots.",
+              "Wear waterproof trousers for the riverside ride.",
+              "The Croix-Rousse tunnel (bike path) is completely rain-protected.",
+              "Avoid unpaved paths in Parc de la Tête d'Or during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein eisiger Wind über den Place Bellecour, was die Fahrt erfrischend macht. Mittags bietet der steile Weg nach Fourvière genug Bewegung, um warm zu bleiben. Nachmittags leuchten die Kunstwerke im Museum besonders hell gegen das Wintergrau. Abends genießen Sie die schnelle Fahrt zu den Halles Paul Bocuse, wo warme Austern und Wein warten.",
+            "hu": "Reggel jeges szél fúj a Place Bellecour felett, ami frissítővé teszi a tekerést. Délben a meredek út a Fourvière-re elég mozgást ad, hogy melegen tartson. Délután a múzeumi műalkotások különösen fényesen ragyognak a téli szürkeségben. Estére egy gyors gurulás vár a Halles Paul Bocuse-ig, ahol meleg osztriga és bor várja.",
+            "ro": "Dimineața un vânt înghețat bate peste Place Bellecour, făcând cursa revigorantă. La prânz, drumul abrupt spre Fourvière oferă destulă mișcare pentru a vă încălzi. După-amiaza operele de artă din muzeu strălucesc intens contra griului iernii. Seara vă bucurați de o cursă rapidă spre Halles Paul Bocuse pentru stridii calde și vin.",
+            "en": "In the morning, an icy wind blows across Place Bellecour, making the ride refreshing. At noon, the steep climb to Fourvière provides enough exercise to keep you warm. In the afternoon, the artworks in the museum shine brightly against the winter grey. By evening, enjoy a brisk ride to Halles Paul Bocuse for warm oysters and wine."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Handschuhe sind für die Fahrt über den windigen Platz essenziell.",
+                "hu": "A kesztyű elengedhetetlen a szeles téren való tekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru cursa prin piața vântoasă.",
+                "en": "Gloves are essential for riding across the windy square."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Achten Sie auf eventuelles Glatteis in schattigen Gassen.",
+                "hu": "Ügyeljen az esetleges jegesedésre az árnyékos utcákban.",
+                "ro": "Fiți atenți la posibila gheață în străzile umbrite.",
+                "en": "Watch out for potential black ice in shaded alleys."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Die Auffahrt hält Sie warm, oben aber sofort Jacke schließen.",
+                "hu": "A felfelé út felmelegít, de fent azonnal cipzárazza be a kabátját.",
+                "ro": "Urcarea vă încălzește, dar sus închideți imediat haina.",
+                "en": "The climb will warm you up, but zip up your jacket immediately at the top."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Die Steine speichern Kälte; kurzes Verweilen empfohlen.",
+                "hu": "A kövek tárolják a hideget; csak rövid tartózkodás javasolt.",
+                "ro": "Pietrele rețin frigul; se recomandă o oprire scurtă.",
+                "en": "The stones retain the cold; a short visit is recommended."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_4lang": {
+                "de": "Nutzen Sie den beheizten Innenhof für eine kurze Pause.",
+                "hu": "Használja a fűtött belső udvart egy rövid pihenőre.",
+                "ro": "Folosiți curtea interioară încălzită pentru o scurtă pauză.",
+                "en": "Utilize the heated inner courtyard for a short break."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Der Brunnen ist im Winter oft abgestellt, wirkt aber im Frost stoisch.",
+                "hu": "A szökőkút télen gyakran nem üzemel, de fagyosan is lenyűgöző.",
+                "ro": "Fântâna este adesea oprită iarna, dar arată stoic în îngheț.",
+                "en": "The fountain is often off in winter, but looks stoic in the frost."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad an einer Velo'v Station ab, um flexibel zu bleiben.",
+                "hu": "Hagyja a biciklit egy Velo'v állomáson, hogy rugalmas maradjon.",
+                "ro": "Lăsați bicicleta la o stație Velo'v pentru a rămâne flexibil.",
+                "en": "Leave your bike at a Velo'v station to stay flexible on foot."
+              }
+            },
+            {
+              "name": "Halles Paul Bocuse",
+              "tip_4lang": {
+                "de": "Die Markthalle ist perfekt, um sich bei einem Snack aufzuwärmen.",
+                "hu": "A vásárcsarnok tökéletes egy melegítő snack elfogyasztására.",
+                "ro": "Hala este perfectă pentru a vă încălzi cu o gustare.",
+                "en": "The food hall is perfect for warming up with a snack."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Reifen der Velo'v Räder haben im Winter oft weniger Grip.",
+              "Nutzen Sie den Tunnel de la Croix-Rousse als windgeschützte Passage.",
+              "Sonneuntergang ist um 17:00; Licht am Rad prüfen.",
+              "Ein heißer Tee in Vieux Lyon wirkt Wunder gegen klamme Finger."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkhöz.",
+              "A Velo'v gumik télen gyakran kevésbé tapadnak.",
+              "Használja a Croix-Rousse alagutat szélvédett átjáróként.",
+              "A naplemente 17:00-kor van; ellenőrizze a világítást.",
+              "Egy forró tea Vieux Lyonban csodákat tesz az elgémberedett ujjakkal."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Anvelopele Velo'v au adesea mai puțină aderență iarna.",
+              "Folosiți tunelul Croix-Rousse ca pasaj protejat de vânt.",
+              "Apusul este la ora 17:00; verificați luminile bicicletei.",
+              "Un ceai fierbinte în Vieux Lyon face minuni pentru degetele amorțite."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Velo'v bike tires often have less grip in winter conditions.",
+              "Use the Croix-Rousse tunnel as a wind-protected passage.",
+              "Sunset is at 17:00; ensure your bike lights are working.",
+              "A hot tea in Vieux Lyon works wonders for cold fingers."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -745,6 +1549,448 @@
           "Avoid rush hour in the tunnel under Fourvière.",
           "Parking in Pérouges is possible at the village entrance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Tour kombiniert futuristische Architektur mit mittelalterlichem Charme. Starten Sie im modernen Confluences-Viertel, bevor Sie die Stadt verlassen, um das bezaubernde Dorf Pérouges zu besuchen. Am Nachmittag kehren Sie nach Lyon zurück, um den Fourvière-Hügel mühelos mit dem Auto zu erklimmen und die römischen Ruinen sowie die Basilika zu bewundern.",
+            "hu": "Ez a túra ötvözi a futurista építészetet a középkori bájjal. Kezdjen a modern Confluences negyedben, majd hagyja el a várost a varázslatos Pérouges falu meglátogatásához. Délután térjen vissza Lyonba, hogy autóval könnyedén feljusson a Fourvière-dombra, megcsodálva a római romokat és a bazilikát.",
+            "ro": "Acest tur combină arhitectura futuristă cu farmecul medieval. Începeți în cartierul modern Confluences înainte de a părăsi orașul pentru a vizita fermecătorul sat Pérouges. După-amiaza, reveniți în Lyon pentru a urca fără efort cu mașina pe dealul Fourvière și a admira ruinele romane și basilica.",
+            "en": "This tour combines futuristic architecture with medieval charm. Start in the modern Confluences district before leaving the city to visit the enchanting village of Pérouges. In the afternoon, return to Lyon to easily ascend Fourvière hill by car and admire the Roman ruins and the basilica."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Bellecour",
+                "hu": "Place Bellecour",
+                "ro": "Piața Bellecour",
+                "en": "Place Bellecour"
+              },
+              "tip_5lang": {
+                "de": "Unterirdisches Parken ist hier verfügbar.",
+                "hu": "A tér alatt mélygarázs található.",
+                "ro": "Parcare subterană disponibilă aici.",
+                "en": "Underground parking is available here."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Confluences",
+                "hu": "Confluences Múzeum",
+                "ro": "Muzeul Confluences",
+                "en": "Musée des Confluences"
+              },
+              "tip_5lang": {
+                "de": "Moderne Architektur am Zusammenfluss von Rhône und Saône.",
+                "hu": "Modern építészet a Rhône és a Saône összefolyásánál.",
+                "ro": "Arhitectură modernă la confluența râurilor Ron și Saône.",
+                "en": "Modern architecture at the confluence of the Rhône and Saône."
+              }
+            },
+            {
+              "name": {
+                "de": "Village de Pérouges",
+                "hu": "Pérouges középkori falu",
+                "ro": "Satul medieval Pérouges",
+                "en": "Medieval Village of Pérouges"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekt erhaltenes mittelalterliches Dorf außerhalb von Lyon.",
+                "hu": "Egy tökéletesen megőrzött középkori falu Lyonon kívül.",
+                "ro": "Un sat medieval perfect conservat în afara Lyonului.",
+                "en": "A perfectly preserved medieval village outside Lyon."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Notre-Dame de Fourvière",
+                "hu": "Fourvière-i Miasszonyunk-bazilika",
+                "ro": "Basilica Notre-Dame de Fourvière",
+                "en": "Basilica of Notre-Dame de Fourvière"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt hinter der Basilika vorhanden.",
+                "hu": "Parkoló közvetlenül a bazilika mögött található.",
+                "ro": "Parcare disponibilă direct în spatele basilicii.",
+                "en": "Parking available directly behind the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtres Romains",
+                "hu": "Római Színház",
+                "ro": "Teatrele Romane",
+                "en": "Roman Theatres"
+              },
+              "tip_5lang": {
+                "de": "Antike Ruinen mit Blick auf die Stadt.",
+                "hu": "Antik romok kilátással a városra.",
+                "ro": "Ruine antice cu vedere spre oraș.",
+                "en": "Ancient ruins with a view of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Galette de Pérouges",
+                "tip": "Ein süßer Hefekuchen mit Butter und Zucker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galette de Pérouges",
+                "tip": "Vajas-cukros édes lepény, a falu specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galette de Pérouges",
+                "tip": "O plăcintă dulce cu unt și zahăr, specialitatea satului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Galette de Pérouges",
+                "tip": "A sweet buttery sugar tart, the village specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Zusammenfluss von Rhône und Saône",
+                "tip": "Spaziergang an der Landspitze.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Folyók összefolyása",
+                "tip": "Séta a földnyelv végénél.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Confluența râurilor",
+                "tip": "Plimbare la capătul peninsulei.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "River Confluence",
+                "tip": "Walk at the tip of the peninsula.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Confluence Shopping Center",
+                "tip": "Modernes Einkaufszentrum mit Glasdach."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Confluence bevásárlóközpont",
+                "tip": "Modern pláza üvegtetővel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Confluence",
+                "tip": "Mall modern cu acoperiș de sticlă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Confluence Shopping Mall",
+                "tip": "Modern mall with a glass roof."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour im Tunnel unter Fourvière.",
+              "Parken in Pérouges ist am Dorfeingang möglich."
+            ],
+            "hu": [
+              "Kerülje a csúcsforgalmat a Fourvière alatti alagútban.",
+              "Pérouges-ban a falu bejáratánál lehet parkolni."
+            ],
+            "ro": [
+              "Evitați orele de vârf în tunelul de sub Fourvière.",
+              "Parcarea în Pérouges este posibilă la intrarea în sat."
+            ],
+            "en": [
+              "Avoid rush hour in the tunnel under Fourvière.",
+              "Parking in Pérouges is possible at the village entrance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem unter dem Place Bellecour, während es draußen regnet. Mittags führt die Fahrt hinauf nach Fourvière durch nasse Serpentinen mit dramatischem Blick auf die Stadt. Nachmittags ist das Musée des Confluences am Zusammenfluss von Rhone und Saône ein architektonisches Highlight im Regen. Abends schließt der Tag trocken in den luxuriösen Halles Paul Bocuse ab.",
+            "hu": "Reggel kényelmesen parkolunk a Place Bellecour alatt, amíg kint esik. Délben az út a Fourvière-re vizes szerpentineken vezet, drámai kilátással a városra. Délután a Musée des Confluences a folyók találkozásánál építészeti remekmű az esőben. Estére a nap szárazon, a luxus Halles Paul Bocuse vásárcsarnokban ér véget.",
+            "ro": "Dimineața parcați confortabil sub Place Bellecour în timp ce afară plouă. La prânz, drumul spre Fourvière trece prin serpentine ude cu vedere dramatică. După-amiaza, Musée des Confluences la confluența râurilor este un punct forte arhitectural pe ploaie. Seara ziua se încheie la uscat în luxoasa hală Paul Bocuse.",
+            "en": "In the morning, park conveniently under Place Bellecour while it rains outside. At noon, the drive up to Fourvière follows wet serpentines with dramatic city views. In the afternoon, the Musée des Confluences at the river junction is an architectural highlight in the rain. By evening, the day ends dry in the luxurious Halles Paul Bocuse."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Nutzen Sie das große Parkhaus direkt unter dem Platz.",
+                "hu": "Használja a közvetlenül a tér alatt található nagy parkolóházat.",
+                "ro": "Folosiți parcarea mare direct de sub piață.",
+                "en": "Use the large parking garage directly under the square."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Parken Sie im Parkhaus St-Georges, um nah am Geschehen zu sein.",
+                "hu": "Parkoljon a St-Georges parkolóban, hogy közel legyen a központhoz.",
+                "ro": "Parcați la St-Georges pentru a fi aproape de obiective.",
+                "en": "Park at St-Georges garage to be close to the historic heart."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Direkt an der Basilika gibt es einen kleinen Parkplatz.",
+                "hu": "Közvetlenül a bazilikánál található egy kis parkoló.",
+                "ro": "Există o mică parcare chiar lângă bazilică.",
+                "en": "There is a small parking lot right next to the basilica."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Vom Parkplatz der Basilika sind es nur wenige Schritte im Regen.",
+                "hu": "A bazilika parkolójától csak pár lépés az esőben.",
+                "ro": "De la parcarea bazilicii sunt doar câțiva pași prin ploaie.",
+                "en": "It's just a short walk in the rain from the basilica parking lot."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_4lang": {
+                "de": "Parkhaus Terreaux ist die beste Wahl für diesen Stopp.",
+                "hu": "A Terreaux parkolóház a legjobb választás ehhez a megállóhoz.",
+                "ro": "Parcarea Terreaux este cea mai bună alegere pentru această oprire.",
+                "en": "Terreaux parking garage is the best choice for this stop."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Der Platz wirkt bei Regen besonders glänzend und weitläufig.",
+                "hu": "A tér esőben különösen csillogónak és tágasnak hat.",
+                "ro": "Piața pare deosebit de strălucitoare și vastă pe ploaie.",
+                "en": "The square looks particularly shiny and expansive in the rain."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Parken Sie am Place de la Croix-Rousse und gehen Sie zu Fuß.",
+                "hu": "Parkoljon a Place de la Croix-Rousse-on, és menjen gyalog.",
+                "ro": "Parcați la Place de la Croix-Rousse și mergeți pe jos.",
+                "en": "Park at Place de la Croix-Rousse and proceed on foot."
+              }
+            },
+            {
+              "name": "Parc de la Tête d'Or",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Gewächshäuser (Serres), um trocken zu bleiben.",
+                "hu": "Látogasson el az üvegházakba (Serres), hogy szárazon maradjon.",
+                "ro": "Vizitați serele pentru a rămâne la uscat.",
+                "en": "Visit the greenhouses (Serres) to stay dry while in the park."
+              }
+            },
+            {
+              "name": "Halles Paul Bocuse",
+              "tip_4lang": {
+                "de": "Das Parkhaus gegenüber ist perfekt für Einkäufe im Trockenen.",
+                "hu": "A szemközti parkolóház tökéletes a száraz vásárláshoz.",
+                "ro": "Parcarea de vis-a-vis este perfectă pentru cumpărături la uscat.",
+                "en": "The parking garage opposite is perfect for dry shopping."
+              }
+            },
+            {
+              "name": "Musée des Confluences",
+              "tip_4lang": {
+                "de": "Parken Sie direkt am Museum und genießen Sie das moderne Design.",
+                "hu": "Parkoljon közvetlenül a múzeumnál, és élvezze a modern designt.",
+                "ro": "Parcați direct la muzeu și bucurați-vă de designul modern.",
+                "en": "Park directly at the museum and enjoy the futuristic design."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie bei Regen mehr Zeit für den Stadtverkehr ein.",
+              "Nutzen Sie die App 'LPA-Parking', um freie Plätze zu finden.",
+              "Viele Parkhäuser sind architektonisch sehenswert (z.B. Célestins).",
+              "Das Musée des Confluences ist perfekt für einen langen Regennachmittag.",
+              "Vermeiden Sie bei starkem Regen die ufernahen Parkplätze wegen Gischt."
+            ],
+            "hu": [
+              "Esőben számoljon több idővel a városi forgalom miatt.",
+              "Használja az 'LPA-Parking' alkalmazást a szabad helyekhez.",
+              "Sok parkolóház építészetileg is érdekes (pl. Célestins).",
+              "A Musée des Confluences tökéletes egy hosszú esős délutánra.",
+              "Heves esőben kerülje a partközeli parkolókat a felverődő víz miatt."
+            ],
+            "ro": [
+              "Alocați mai mult timp pentru traficul urban când plouă.",
+              "Folosiți aplicația 'LPA-Parking' pentru a găsi locuri libere.",
+              "Multe parcări sunt interesante arhitectural (ex. Célestins).",
+              "Musée des Confluences este perfect pentru o după-amiază ploioasă.",
+              "Evitați parcările de pe malul râului pe ploaie mare din cauza valurilor."
+            ],
+            "en": [
+              "Allow extra time for city traffic during rainy conditions.",
+              "Use the 'LPA-Parking' app to find available spots in real-time.",
+              "Many parking garages are architecturally significant (e.g., Célestins).",
+              "Musée des Confluences is perfect for a long rainy afternoon.",
+              "Avoid riverside parking during heavy rain due to spray and puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt über den beleuchteten Place Bellecour ein stimmungsvoller Start. Mittags bietet die Auffahrt nach Fourvière eine klare Sicht bis zu den fernen Alpen. Nachmittags ist der Parc de la Tête d'Or in Winterstille getaucht, bevor Sie zum warmen Musée des Confluences fahren. Abends endet der Tag bei festlicher Beleuchtung und kulinarischen Highlights in den Halles.",
+            "hu": "Reggel a kivilágított Place Bellecouron keresztül autózni hangulatos kezdés. Délben a Fourvière-re vezető út tiszta kilátást nyújt egészen a távoli Alpokig. Délután a Parc de la Tête d'Or téli csendbe burkolózik, mielőtt a meleg Musée des Confluences-hez hajtanánk. Estére ünnepi fények és kulináris élvezetek várnak a vásárcsarnokban.",
+            "ro": "Dimineața, drumul prin Place Bellecour iluminată este un start atmosferic. La prânz, urcarea spre Fourvière oferă o vedere clară până la Alpii îndepărtați. După-amiaza, Parc de la Tête d'Or este scufundat în liniște hibernală. Seara ziua se încheie cu iluminat festiv și delicii culinare în hală.",
+            "en": "In the morning, driving across the illuminated Place Bellecour is an atmospheric start. At noon, the climb to Fourvière offers clear views as far as the distant Alps. In the afternoon, Parc de la Tête d'Or is bathed in winter silence before you head to the warm Musée des Confluences. By evening, festive lights and culinary highlights await at the Halles."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Die Sitzheizung macht den Start in den frostigen Morgen angenehm.",
+                "hu": "Az ülésfűtés kellemessé teszi a fagyos reggeli indulást.",
+                "ro": "Încălzirea în scaune face startul în dimineața geroasă plăcut.",
+                "en": "Seat heating makes starting the frosty morning much more pleasant."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Parken Sie nah, um die Zeit im kalten Wind zu minimieren.",
+                "hu": "Parkoljon közel, hogy minimalizálja a hideg szélben töltött időt.",
+                "ro": "Parcați aproape pentru a minimiza timpul în vântul rece.",
+                "en": "Park nearby to minimize time spent in the biting winter wind."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Bei klarer Winterluft sieht man vom Parkplatz oft den Mont Blanc.",
+                "hu": "Tiszta téli időben a parkolóból gyakran látni a Mont Blanc-t.",
+                "ro": "În aerul clar de iarnă, din parcare se vede adesea Mont Blanc.",
+                "en": "In clear winter air, you can often see Mont Blanc from the parking lot."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp reicht; die Steine strahlen Kälte aus.",
+                "hu": "Egy rövid fotómegálló elég; a kövek árasztják a hideget.",
+                "ro": "O oprire scurtă pentru poze e suficientă; pietrele emană frig.",
+                "en": "A short photo stop is enough; the ancient stones radiate cold."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_4lang": {
+                "de": "Genießen Sie die wohlige Wärme in den großen Galerien.",
+                "hu": "Élvezze a kellemes meleget a nagy galériákban.",
+                "ro": "Bucurați-vă de căldura plăcută din marile galerii.",
+                "en": "Enjoy the comforting warmth inside the vast art galleries."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Die Fassaden wirken im Winterlicht besonders plastisch.",
+                "hu": "A homlokzatok a téli fényben különösen plasztikusnak hatnak.",
+                "ro": "Fațadele par deosebit de plastice în lumina iernii.",
+                "en": "The facades look particularly sculptural in the winter light."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Die Passagen sind oft einige Grad wärmer als die Außenstraßen.",
+                "hu": "Az átjárók gyakran pár fokkal melegebbek a külső utcáknál.",
+                "ro": "Pasajele sunt adesea cu câteva grade mai calde decât străzile.",
+                "en": "The passages are often a few degrees warmer than the outer streets."
+              }
+            },
+            {
+              "name": "Parc de la Tête d'Or",
+              "tip_4lang": {
+                "de": "Die Fahrt durch den Park ist im Winter sehr ruhig und entspannt.",
+                "hu": "A parkon való áthajtás télen nagyon nyugodt és pihentető.",
+                "ro": "Drumul prin parc este foarte liniștit și relaxant iarna.",
+                "en": "Driving through the park is very peaceful and relaxed in winter."
+              }
+            },
+            {
+              "name": "Halles Paul Bocuse",
+              "tip_4lang": {
+                "de": "Ideal, um lokale Spezialitäten als Weihnachtsgeschenke zu kaufen.",
+                "hu": "Ideális hely helyi különlegességek vásárlására ajándékként.",
+                "ro": "Ideal pentru a cumpăra specialități locale ca cadouri.",
+                "en": "Ideal for buying local specialties as winter holiday gifts."
+              }
+            },
+            {
+              "name": "Musée des Confluences",
+              "tip_4lang": {
+                "de": "Das beheizte Café bietet einen tollen Blick auf die gefrorene Rhone.",
+                "hu": "A fűtött kávézó remek kilátást nyújt a jeges Rhone-ra.",
+                "ro": "Cafeneaua încălzită oferă o vedere excelentă spre Ronul înghețat.",
+                "en": "The heated cafe offers a great view of the icy Rhone river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Brücken über Rhone und Saône.",
+              "Parkhäuser sind im Winter oft wärmer als Außenparkplätze.",
+              "Sonnenuntergang ist um 17:00; planen Sie Ihre Fotos vorher.",
+              "Die winterliche Beleuchtung der Stadt ist abends spektakulär.",
+              "Prüfen Sie den Reifendruck bei plötzlichem Temperatursturz."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a Rhone és Saône hídjain.",
+              "A parkolóházak télen gyakran melegebbek a kültéri helyeknél.",
+              "A naplemente 17:00-kor van; tervezze a fotókat előre.",
+              "A város téli kivilágítása este lenyűgöző.",
+              "Hirtelen hőmérséklet-csökkenésnél ellenőrizze a guminyomást."
+            ],
+            "ro": [
+              "Atenție la gheață pe podurile peste Ron și Saône.",
+              "Parcările subterane sunt mai calde iarna decât cele exterioare.",
+              "Apusul este la ora 17:00; planificați fotografiile înainte.",
+              "Iluminatul de iarnă al orașului este spectaculos seara.",
+              "Verificați presiunea în anvelope la scăderi bruște de temperatură."
+            ],
+            "en": [
+              "Watch out for black ice on the bridges over the Rhone and Saône.",
+              "Underground parking garages are warmer than street parking in winter.",
+              "Sunset is at 17:00; plan your outdoor photos accordingly.",
+              "The city's winter lighting is spectacular in the evening.",
+              "Check tire pressure during sudden drops in temperature."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -999,34 +2245,391 @@
           "Buy a day pass for bus, tram, and metro.",
           "The funicular is included in the standard ticket."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das ausgezeichnete ÖPNV-Netz von Lyon. Starten Sie im Süden beim futuristischen Musée des Confluences. Fahren Sie mit der Metro in die Altstadt und nehmen Sie die berühmte Standseilbahn nach Fourvière. Nach einem Schlemmerstopp in den Hallen Paul Bocuse lassen Sie den Tag im weitläufigen Parc de la Tête d'Or ausklingen.",
+            "hu": "Használja ki Lyon kiváló tömegközlekedési hálózatát. Kezdjen délen a futurista Confluences Múzeumnál. Utazzon metróval az óvárosba, és szálljon fel a híres siklóra Fourvière felé. Egy ínyenc megálló után a Paul Bocuse vásárcsarnokban, zárja a napot a tágas Aranyfej parkban.",
+            "ro": "Profitați de excelenta rețea de transport public din Lyon. Începeți în sud, la futuristul Muzeu Confluences. Mergeți cu metroul în orașul vechi și luați faimosul funicular spre Fourvière. După o oprire gurmandă în halele Paul Bocuse, încheiați ziua în vastul Parc de la Tête d'Or.",
+            "en": "Take advantage of Lyon's excellent public transport network. Start in the south at the futuristic Musée des Confluences. Take the metro to the old town and hop on the famous funicular to Fourvière. After a gourmet stop at Halles Paul Bocuse, end the day in the spacious Parc de la Tête d'Or."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Bellecour",
+                "hu": "Place Bellecour",
+                "ro": "Piața Bellecour",
+                "en": "Place Bellecour"
+              },
+              "tip_5lang": {
+                "de": "Wichtiger Knotenpunkt für die Metrolinien A und D.",
+                "hu": "Az A és D metróvonalak fontos csomópontja.",
+                "ro": "Nod important pentru liniile de metrou A și D.",
+                "en": "Important hub for metro lines A and D."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Confluences",
+                "hu": "Confluences Múzeum",
+                "ro": "Muzeul Confluences",
+                "en": "Musée des Confluences"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit der Straßenbahn T1.",
+                "hu": "A T1-es villamossal érhető el.",
+                "ro": "Accesibil cu tramvaiul T1.",
+                "en": "Accessible via tram line T1."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Lyon",
+                "hu": "Ó-Lyon",
+                "ro": "Vechiul Lyon",
+                "en": "Old Lyon"
+              },
+              "tip_5lang": {
+                "de": "Metro D Station ist direkt im historischen Viertel.",
+                "hu": "A D metró állomása közvetlenül a történelmi negyedben van.",
+                "ro": "Stația de metrou D este chiar în cartierul istoric.",
+                "en": "Metro D station is right in the historical district."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Notre-Dame de Fourvière",
+                "hu": "Fourvière-i Miasszonyunk-bazilika",
+                "ro": "Basilica Notre-Dame de Fourvière",
+                "en": "Basilica of Notre-Dame de Fourvière"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die historische Standseilbahn (Funiculaire).",
+                "hu": "Használja a történelmi siklót (Funiculaire).",
+                "ro": "Folosiți funicularul istoric.",
+                "en": "Use the historical funicular."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles de Lyon Paul Bocuse",
+                "hu": "Paul Bocuse Vásárcsarnok",
+                "ro": "Halele Lyon Paul Bocuse",
+                "en": "Les Halles de Lyon Paul Bocuse"
+              },
+              "tip_5lang": {
+                "de": "Bus C3 bringt Sie direkt hierher.",
+                "hu": "A C3-as busz közvetlenül ide hoz.",
+                "ro": "Autobuzul C3 vă aduce direct aici.",
+                "en": "Bus C3 brings you directly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Tête d'Or",
+                "hu": "Aranyfej park",
+                "ro": "Parcul Tête d'Or",
+                "en": "Parc de la Tête d'Or"
+              },
+              "tip_5lang": {
+                "de": "Metro A (Station Masséna) ist in der Nähe.",
+                "hu": "Az A metró (Masséna megálló) van a közelben.",
+                "ro": "Metroul A (stația Masséna) este în apropiere.",
+                "en": "Metro A (Masséna station) is nearby."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Praline Rose",
+                "tip": "Eine lokale Spezialität, oft in Tartes oder Brioches."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Praline Rose",
+                "tip": "Helyi specialitás, gyakran tortákban vagy briósban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Praline Rose",
+                "tip": "O specialitate locală, adesea în tarte sau brioșe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Praline Rose",
+                "tip": "A local specialty, often in tarts or brioches."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Île Barbe",
+                "tip": "Eine Insel in der Saône, erreichbar mit dem Bus.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Île Barbe",
+                "tip": "Sziget a Saône folyón, busszal elérhető.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Île Barbe",
+                "tip": "O insulă în râul Saône, accesibilă cu autobuzul.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Île Barbe",
+                "tip": "An island in the Saône river, accessible by bus.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Part-Dieu Shopping Center",
+                "tip": "Eines der größten innerstädtischen Einkaufszentren Europas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Part-Dieu bevásárlóközpont",
+                "tip": "Európa egyik legnagyobb városi plázája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Part-Dieu",
+                "tip": "Unul dintre cele mai mari mall-uri urbane din Europa."
+              }
+            ],
+            "en": [
+              {
+                "name": "Part-Dieu Shopping Center",
+                "tip": "One of the largest urban shopping centers in Europe."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für Bus, Tram und Metro.",
+              "Die Standseilbahn ist im normalen Ticket enthalten."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra, villamosra és metróra.",
+              "A sikló használata benne van a normál jegy árában."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz, tramvai și metrou.",
+              "Funicularul este inclus în biletul normal."
+            ],
+            "en": [
+              "Buy a day pass for bus, tram, and metro.",
+              "The funicular is included in the standard ticket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie die Metro trocken zum Place Bellecour. Mittags ist die Standseilbahn (Funiculaire) die perfekte Wahl, um den nassen Hügel nach Fourvière zu erklimmen. Nachmittags erkunden Sie die Traboules, während der Regen draußen an die Scheiben der Busse peitscht. Abends erreichen Sie entspannt und trocken Ihr Ziel für ein gemütliches Abendessen.",
+            "hu": "Reggel a metró szárazon visz a Place Bellecourhoz. Délben a sikló (Funiculaire) a tökéletes választás, hogy elkerüljük a vizes kapaszkodást a Fourvière-re. Délután a traboule-okat fedezzük fel, amíg kint az eső veri a buszok ablakait. Estére kipihenten és szárazon érkezünk meg a barátságos vacsorahelyszínre.",
+            "ro": "Dimineața metroul vă duce la uscat în Place Bellecour. La prânz, funicularul este alegerea perfectă pentru a urca dealul ud spre Fourvière. După-amiaza explorați traboule-urile în timp ce ploaia bate în geamurile autobuzelor. Seara ajungeți relaxați și uscați la locul cinei.",
+            "en": "In the morning, the metro takes you dry to Place Bellecour. At noon, the funicular is the perfect choice to ascend the wet Fourvière hill without getting soaked. In the afternoon, explore the traboules while the rain beats against the bus windows outside. By evening, you'll arrive relaxed and dry for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Die Metrostation Bellecour hat viele Ausgänge; wählen Sie den nächsten zum Ziel.",
+                "hu": "A Bellecour metrómegállónak több kijárata van; válassza a legközelebbit.",
+                "ro": "Stația Bellecour are multe ieșiri; alegeți-o pe cea mai apropiată.",
+                "en": "Bellecour station has many exits; choose the one closest to your goal."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Umsteigen zur Funiculaire ist hier direkt und komplett überdacht.",
+                "hu": "Átszállás a siklóra itt közvetlen és teljesen fedett.",
+                "ro": "Schimbul către funicular este aici direct și complet acoperit.",
+                "en": "Transfer to the funicular here is direct and completely sheltered."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Die Funiculaire-Station ist nur wenige Meter vom Kircheneingang entfernt.",
+                "hu": "A sikló állomása mindössze pár méterre van a templombejárattól.",
+                "ro": "Stația funicularului este la doar câțiva metri de intrarea în biserică.",
+                "en": "The funicular station is just a few meters from the church entrance."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Minimes-Funiculaire für einen kürzeren Weg im Regen.",
+                "hu": "Használja a Minimes siklót a rövidebb gyalogláshoz az esőben.",
+                "ro": "Folosiți funicularul Minimes pentru un drum mai scurt prin ploaie.",
+                "en": "Use the Minimes funicular for a shorter walk in the rain."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Bus C3 hält direkt am Platz und bietet eine trockene Verbindung.",
+                "hu": "A C3-as busz közvetlenül a téren áll meg, száraz összeköttetést adva.",
+                "ro": "Autobuzul C3 oprește direct în piață, oferind o conexiune uscată.",
+                "en": "Bus C3 stops right at the square, providing a dry connection."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Metro C bringt Sie direkt auf den Hügel zur Croix-Rousse.",
+                "hu": "A C metró közvetlenül a Croix-Rousse dombra viszi fel.",
+                "ro": "Metroul C vă duce direct pe dealul Croix-Rousse.",
+                "en": "Metro line C takes you directly up to the Croix-Rousse hilltop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine 24h-Tageskarte, um beliebig oft ins Trockene zu flüchten.",
+              "Die TCL-App zeigt Echtzeit-Infos und nächste Unterstände.",
+              "Funiculaires sind die besten 'Regen-Lifte' auf die Hügel.",
+              "Große Umsteigestationen wie Bellecour bieten Schutz vor Schauern.",
+              "Nutzen Sie die Trolleybusse für eine Stadtrundfahrt im Trockenen."
+            ],
+            "hu": [
+              "Vegyen 24 órás jegyet, hogy bármikor száraz helyre menekülhessen.",
+              "A TCL alkalmazás valós idejű infókat ad a legközelebbi járatokról.",
+              "A siklók a legjobb 'eső-liftek' a dombokra való feljutáshoz.",
+              "A nagy csomópontok, mint Bellecour, védelmet nyújtanak a záporok elől.",
+              "Használja a trolibuszokat egy száraz városnézéshez."
+            ],
+            "ro": [
+              "Cumpărați un bilet de 24h pentru a vă refugia la uscat oricând.",
+              "Aplicația TCL oferă info în timp real despre următoarele vehicule.",
+              "Funicularele sunt cele mai bune 'lifturi de ploaie' spre dealuri.",
+              "Stațiile mari precum Bellecour oferă protecție împotriva averselor.",
+              "Folosiți troleibuzele pentru un tur de oraș la uscat."
+            ],
+            "en": [
+              "Buy a 24h day pass to hop on and off and stay out of the rain.",
+              "The TCL app provides real-time info to minimize waiting in the wet.",
+              "Funiculars are the best 'rain elevators' to reach the hilltops.",
+              "Large hubs like Bellecour offer solid shelter during heavy showers.",
+              "Use the trolleybuses for a scenic city tour while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die beheizte Metro eine Wohltat auf dem Weg zum Place Bellecour. Mittags bringt Sie die Funiculaire mühelos zur Basilika, während Sie die winterliche Aussicht genießen. Nachmittags leuchten die Stationen in warmem Licht, während Sie nach Croix-Rousse fahren. Abends erreichen Sie schnell und sicher die gemütlichen Restaurants im Stadtzentrum.",
+            "hu": "Reggel a fűtött metró áldás a Place Bellecour felé vezető úton. Délben a sikló erőfeszítés nélkül visz fel a bazilikához, miközben élvezzük a téli kilátást. Délután az állomások meleg fényben úsznak, amíg Croix-Rousse felé utazunk. Estére gyorsan és biztonságosan érünk el a belváros hangulatos éttermeihez.",
+            "ro": "Dimineața metroul încălzit este o binecuvântare spre Place Bellecour. La prânz funicularul vă duce fără efort la bazilică în timp ce admirați vederea hibernală. După-amiaza stațiile strălucesc în lumină caldă spre Croix-Rousse. Seara ajungeți rapid și sigur la restaurantele primitoare din centru.",
+            "en": "In the morning, the heated metro is a blessing on your way to Place Bellecour. At noon, the funicular carries you effortlessly to the basilica while you enjoy the winter views. In the afternoon, the stations glow with warm light as you travel to Croix-Rousse. By evening, you'll arrive quickly and safely at the cozy restaurants downtown."
+          },
+          "stops": [
+            {
+              "name": "Place Bellecour",
+              "tip_4lang": {
+                "de": "Die Metrostation ist ein guter Ort, um sich kurz aufzuwärmen.",
+                "hu": "A metrómegálló jó hely egy rövid átmelegedésre.",
+                "ro": "Stația de metrou este un loc bun pentru a vă încălzi puțin.",
+                "en": "The metro station is a good spot for a quick warm-up."
+              }
+            },
+            {
+              "name": "Vieux Lyon (Saint-Jean)",
+              "tip_4lang": {
+                "de": "Warme Kleidung für die Wartezeit auf dem Bahnsteig ist nötig.",
+                "hu": "Meleg ruházat szükséges a peronon való várakozáshoz.",
+                "ro": "Haine groase sunt necesare pentru așteptarea pe peron.",
+                "en": "Warm clothing is necessary while waiting on the platform."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame de Fourvière",
+              "tip_4lang": {
+                "de": "Die Funiculaire erspart Ihnen den schweißtreibenden, kalten Aufstieg.",
+                "hu": "A sikló megkíméli az izzasztó, majd fagyos gyalogos felmenetelt.",
+                "ro": "Funicularul vă scutește de urcarea obositoare prin aerul rece.",
+                "en": "The funicular saves you from a sweaty but cold walk uphill."
+              }
+            },
+            {
+              "name": "Théâtre antique de Fourvière",
+              "tip_4lang": {
+                "de": "Vom Funiculaire-Stopp Minimes ist es nur ein kurzer, frostiger Weg.",
+                "hu": "A Minimes siklómegállótól csak egy rövid, fagyos séta.",
+                "ro": "De la stația de funicular Minimes este doar un drum scurt și geruros.",
+                "en": "It is just a short, frosty walk from the Minimes funicular stop."
+              }
+            },
+            {
+              "name": "Place des Terreaux + Hôtel de Ville",
+              "tip_4lang": {
+                "de": "Metro A bringt Sie direkt ins Herz der winterlich beleuchteten City.",
+                "hu": "Az A metró közvetlenül a téli kivilágítású belváros szívébe visz.",
+                "ro": "Metroul A vă duce direct în inima centrului iluminat festiv.",
+                "en": "Metro line A takes you directly to the heart of the festive city lights."
+              }
+            },
+            {
+              "name": "Traboules (Croix-Rousse)",
+              "tip_4lang": {
+                "de": "Die Metro C ist eine der steilsten Zahnradbahnen Europas.",
+                "hu": "A C metró Európa egyik legmeredekebb fogaskerekű vasútja.",
+                "ro": "Metroul C este una dintre cele mai abrupte căi ferate cu cremalieră.",
+                "en": "Metro line C is one of the steepest rack railways in Europe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stationen wie Part-Dieu oder Bellecour sind im Winter gut beheizt.",
+              "Die Funiculaire bietet den besten Schutz vor dem beißenden Wind am Hügel.",
+              "Busse sind im Winter oft die wärmste Art, die Stadt zu durchqueren.",
+              "Sonnenuntergang 17:00; die Stadt wirkt beleuchtet aus dem Bus magisch.",
+              "TCL-Tickets können auch per SMS oder Kreditkarte am Leser gekauft werden."
+            ],
+            "hu": [
+              "A nagyobb állomások, mint Bellecour, télen jól fűtöttek.",
+              "A sikló nyújtja a legjobb védelmet a dombtetőn fújó szél ellen.",
+              "Télen gyakran a busz a legmelegebb módja a város átszelésének.",
+              "A naplemente 17:00-kor van; a kivilágított város a buszból is szép.",
+              "A jegyeket SMS-ben vagy érintős bankkártyával is megveheti."
+            ],
+            "ro": [
+              "Stațiile mari precum Bellecour sunt bine încălzite iarna.",
+              "Funicularul oferă cea mai bună protecție contra vântului de pe deal.",
+              "Autobuzele sunt adesea cea mai călduroasă cale de a traversa orașul.",
+              "Apusul e la 17:00; orașul iluminat pare magic din autobuz.",
+              "Biletele TCL pot fi cumpărate prin SMS sau cu cardul direct la cititor."
+            ],
+            "en": [
+              "Large stations like Bellecour are well-heated during winter.",
+              "The funicular offers the best protection from the biting hilltop wind.",
+              "Buses are often the warmest way to cross the city in winter.",
+              "Sunset is at 17:00; the lit-up city looks magical from the bus window.",
+              "TCL tickets can be purchased via SMS or with a credit card on board."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes.html",
-    "tourism_office": "https://en.lyon-france.com/",
-    "events": "https://en.lyon-france.com/",
-    "city_card": "https://www.lyoncitycard.com/en/",
-    "museum_tickets": "https://www.lyoncitycard.com/en/",
-    "transit_official": "https://www.tcl.fr/en",
-    "language_tips": {
-      "de": "Lyon ist Frankreichs Gastro-Hauptstadt, hier ist Englisch in Bouchon-Restaurants und Hotels selbstverstaendlich. Aber: ein 'bonjour' und 'merci' wirken Wunder, vor allem in den traditionellen Bouchons und auf dem Markt Quai Saint-Antoine. Lyonnais sind hoeflich-zurueckhaltend.",
-      "hu": "Lyon Franciaorszag gasztro-fovarosa, a bouchon-okban es szallodakban az angol termeszetes. De: egy 'bonjour' es 'merci' csodakat tesz, kulonosen a hagyomanyos bouchon-okban es a Quai Saint-Antoine piacon. A lyoni-ek udvarias-tartózkodóak.",
-      "ro": "Lyon e capitala gastronomica a Frantei; in bouchon-uri si hoteluri engleza e fireasca. Dar un 'bonjour' si 'merci' fac minuni, mai ales in bouchon-urile traditionale si la piata Quai Saint-Antoine. Lyonezii sunt politicos-rezervati.",
-      "en": "Lyon is France's gastro capital; English is taken for granted in bouchons and hotels. But 'bonjour' and 'merci' work wonders, especially in traditional bouchons and at the Quai Saint-Antoine market. Lyonnais are politely reserved."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bis Oktober sind ideal: 18-25 Grad, perfekt fuer Spaziergaenge an Saone und Rhone. Dezember bringt die Fete des Lumieres (8. Dez., Buchung Pflicht). Juli und August sind warm, viele Lyonnais sind weg, Bouchons reduziert.",
-      "hu": "Majus-junius es szeptember-oktober a legjobb: 18-25 fok, tokeletes a Saone es Rhone partjan setalashoz. Decemberben a Fete des Lumieres (dec 8., kotelezo foglalas). Julius-augusztusban meleg, sok lyoni nyaral, kevesebb bouchon nyitva.",
-      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, perfecte pentru plimbari pe Saone si Rhone. Decembrie aduce Fete des Lumieres (8 dec., rezervare obligatorie). Iulie-august sunt calde, multi lyonezi pleaca, bouchon-uri reduse.",
-      "en": "May-June and September-October are ideal: 18-25°C, perfect for walks along the Saone and Rhone. December brings Fete des Lumieres (8 Dec, booking essential). July and August are warm, many locals leave and bouchons close down."
-    },
-    "neighborhood_warnings": {
-      "de": "Generell sicher, Vorsicht in Part-Dieu Bahnhof abends, Guillotiere und Bezirk 8 noerdliche Zonen. Taschendiebe an Place Bellecour und Funiculaire zu Fourviere. La Croix-Rousse und Vieux-Lyon sind charmant und sicher.",
-      "hu": "Altalaban biztonsagos, ovatossag a Part-Dieu palyaudvar estere, Guillotiere es 8. kerulet eszaki resz. Zsebtolvajok a Place Bellecour-on es a Fourviere-be vivo funicularon. La Croix-Rousse es Vieux-Lyon varazsosak es biztonsagosak.",
-      "ro": "In general sigur, atentie seara la gara Part-Dieu, Guillotiere si zonele nordice ale arondismentului 8. Hoti de buzunar la Place Bellecour si funicularul spre Fourviere. La Croix-Rousse si Vieux-Lyon sunt fermecatoare si sigure.",
-      "en": "Generally safe; watch out at Part-Dieu station at night, around Guillotiere and the north of the 8th arrondissement. Pickpockets at Place Bellecour and the Fourviere funicular. La Croix-Rousse and Vieux-Lyon are charming and safe."
-    },
-    "parking_real_time": "https://www.lpa.fr/"
   }
 }

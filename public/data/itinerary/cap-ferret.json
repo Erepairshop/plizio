@@ -304,6 +304,434 @@
           "Oyster huts often only accept cash payments.",
           "Take the 'Petit Train' for a nostalgic ride between the bay and the ocean."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen an der Jetée Bélisaire, wo die Meeresbrise und das geschäftige Treiben der Fähren Sie willkommen heißen. Schlendern Sie zum Markt, um die Farben und Düfte der Gascogne aufzusaugen, bevor Sie den markanten rot-weißen Leuchtturm erklimmen, der über die Halbinsel wacht.\n\nMittags tauchen Sie in das authentische Austernviertel ein. In den bunten Holzhütten servieren lokale Züchter die berühmten Meeresfrüchte direkt aus dem Becken. Es gibt keinen besseren Ort, um die Seele des Bassin d'Arcachon bei einem Glas Weißwein zu spüren.\n\nDer Nachmittag gehört dem weiten Ozean. Überqueren Sie die Halbinsel zur Plage de l'Horizon, wo die wilden Wellen des Atlantiks und der feine Sand endlose Freiheit versprechen. Ein langes Bad oder ein Spaziergang am Flutsaum ist hier ein Muss.\n\nZum Ausklang des Tages spazieren Sie zur Conche du Mimbeau. Während die Sonne langsam sinkt, bietet diese natürliche Lagune einen der spektakulärsten Ausblicke auf die gegenüberliegende Dune de Pilat, die in goldenem Licht erstrahlt.",
+            "hu": "Kezdje a reggelt a Bélisaire mólónál, ahol a sós tengeri szél és az érkező kompok látványa fogadja. Sétáljon el a piacra, hogy magába szívja Gascogne színeit és illatait, majd másszon fel a jellegzetes piros-fehér világítótoronyba, amely a félsziget felett őrködik.\n\nDélben merüljön el az autentikus osztrigatenyésztő negyed világában. A színes faházaknál a helyi gazdák közvetlenül a medencékből kínálják a híres tenger gyümölcseit. Nincs jobb hely a Bassin d'Arcachon lelkének megismerésére egy pohár hideg fehérbor mellett.\n\nA délután a végtelen óceáné. Sétáljon át a félsziget túlsó oldalára, a Horizon strandra, ahol az Atlanti-óceán vad hullámai és a finom homok a szabadság élményét nyújtják. Egy frissítő fürdőzés vagy egy séta a dűnék mentén kötelező program.\n\nA nap zárásaként látogasson el a Conche du Mimbeau lagúnához. Ahogy a nap lassan ereszkedik, ez a természetes öböl kínálja a legszebb kilátást a szemközti Dune de Pilat homokdűnére, amely ilyenkor aranyló fényben tündököl.",
+            "ro": "Începeți dimineața la Jetée Bélisaire, unde briza mării și forfota feriboturilor vă urează bun venit. Plimbați-vă spre piață pentru a absorbi culorile și aromele Gasconiei, înainte de a urca în emblematicul far roșu și alb care veghează asupra peninsulei.\n\nLa prânz, scufundați-vă în atmosfera autentică a cartierului ostréicole. În colibele de lemn colorate, crescătorii locali servesc celebrele fructe de mare direct din bazine. Nu există loc mai bun pentru a simți spiritul bazinului Arcachon lângă un pahar de vin alb rece.\n\nDupă-amiaza aparține oceanului nesfârșit. Traversați peninsula către Plaja Horizon, unde valurile sălbatice ale Atlanticului și nisipul fin promit o libertate totală. O baie lungă sau o plimbare pe malul apei este esențială aici.\n\nSpre seară, mergeți spre Conche du Mimbeau. Pe măsură ce soarele apune, această lagună naturală oferă una dintre cele mai spectaculoase priveliști asupra Dunei lui Pilat, care strălucește în lumină aurie de cealaltă parte a apei.",
+            "en": "Start your morning at Jetée Bélisaire, where the sea breeze and the bustle of arriving ferries welcome you. Stroll to the local market to soak up the colors and scents of Gascony, before climbing the iconic red-and-white lighthouse that stands guard over the peninsula.\n\nAt midday, immerse yourself in the authentic oyster-farming quarter. In colorful wooden huts, local farmers serve the famous seafood directly from their tanks. There is no better place to feel the soul of the Bassin d'Arcachon over a crisp glass of white wine.\n\nAfternoon is for the vast ocean. Cross the peninsula to Plage de l'Horizon, where the wild Atlantic waves and fine sand promise endless freedom. A long swim or a stroll along the tide line is a must here.\n\nTo end the day, walk to Conche du Mimbeau. As the sun slowly sets, this natural lagoon offers one of the most spectacular views of the opposite Dune of Pilat, glowing in golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetée Bélisaire",
+                "hu": "Bélisaire móló",
+                "ro": "Jetée Bélisaire",
+                "en": "Jetée Bélisaire"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fähren, die von Arcachon ankommen.",
+                "hu": "Nézze meg az Arcachonból érkező hajókat a mólónál.",
+                "ro": "Urmăriți feriboturile care sosesc dinspre Arcachon.",
+                "en": "Watch the ferries arriving from Arcachon at the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché du Cap Ferret",
+                "hu": "Cap Ferret piac",
+                "ro": "Piața Cap Ferret",
+                "en": "Cap Ferret Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Spezialitäten und kaufen Sie einen Korb.",
+                "hu": "Kóstoljon helyi finomságokat és vegyen egy fonott kosarat.",
+                "ro": "Gustați specialități locale și cumpărați un coș tradițional.",
+                "en": "Taste local specialties and buy a traditional basket."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Cap Ferret",
+                "hu": "Cap Ferret világítótorony",
+                "ro": "Farul Cap Ferret",
+                "en": "Cap Ferret Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie die 258 Stufen hinauf für eine 360-Grad-Aussicht.",
+                "hu": "Másszon fel a 258 lépcsőn a 360 fokos panorámáért.",
+                "ro": "Urcați cele 258 de trepte pentru o vedere de 360 de grade.",
+                "en": "Climb the 258 steps for a stunning 360-degree view."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier Ostréicole",
+                "hu": "Osztrigatenyésztő negyed",
+                "ro": "Cartierul Ostréicole",
+                "en": "Oyster Farming Village"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie frische Austern direkt am Wasser.",
+                "hu": "Élvezze a friss osztrigát közvetlenül a vízparton.",
+                "ro": "Savurați stridii proaspete chiar pe malul apei.",
+                "en": "Enjoy fresh oysters directly by the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Horizon",
+                "hu": "Horizon strand",
+                "ro": "Plaja Horizon",
+                "en": "Horizon Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt zum Schwimmen im Atlantik mit hohen Wellen.",
+                "hu": "Tökéletes hely az atlanti hullámok közötti úszáshoz.",
+                "ro": "Perfect pentru înot în Atlantic, cu valuri spectaculoase.",
+                "en": "Perfect for swimming in the Atlantic with big waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Conche du Mimbeau",
+                "hu": "Conche du Mimbeau homokpad",
+                "ro": "Conche du Mimbeau",
+                "en": "Conche du Mimbeau"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Sandbank mit Blick auf die Düne von Pilat.",
+                "hu": "Egyedülálló homokpad kilátással a Dune de Pilat-ra.",
+                "ro": "Banc de nisip unic cu vedere spre Duna lui Pilat.",
+                "en": "Unique sandbank with a view of the Dune of Pilat."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Austern von Cap Ferret",
+                "tip": "Genießen Sie 'Une douzaine d'huîtres' mit Butterbrot und Zitrone bei 'Chez Hortense'."
+              },
+              {
+                "name": "Dunes Blanches",
+                "tip": "Probieren Sie diese Sahne-gefüllten Windbeutel von Pascal - eine lokale Legende."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Ferret-i osztriga",
+                "tip": "Kérjen egy tucat osztrigát vajas kenyérrel és citrommal a 'Chez Hortense'-nél."
+              },
+              {
+                "name": "Dunes Blanches",
+                "tip": "Kóstolja meg Pascal híres tejszínes fánkjait, amelyek helyi különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stridii de Cap Ferret",
+                "tip": "Savurați 'o duzină de stridii' cu pâine cu unt și lămâie la 'Chez Hortense'."
+              },
+              {
+                "name": "Dunes Blanches",
+                "tip": "Încercați gogoșile umplute cu cremă de la Pascal, o adevărată legendă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Ferret Oysters",
+                "tip": "Enjoy a dozen oysters with buttered bread and lemon at 'Chez Hortense'."
+              },
+              {
+                "name": "Dunes Blanches",
+                "tip": "Taste these cream-filled puff pastries from Pascal, a local legend."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Conche du Mimbeau",
+                "tip": "Der friedlichste Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Wo der Ozean auf das Bassin trifft.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Conche du Mimbeau",
+                "tip": "A legnyugodtabb hely a naplemente megtekintéséhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Ahol az óceán és az öböl vize találkozik.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Conche du Mimbeau",
+                "tip": "Cel mai liniștit loc pentru a vedea apusul.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Locul unde oceanul se întâlnește cu bazinul.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Conche du Mimbeau",
+                "tip": "The most peaceful spot for sunset watching.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Where the ocean meets the calm basin waters.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché du Cap Ferret",
+                "tip": "Kaufen Sie gestreifte 'Marinière' T-Shirts und lokalen Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Ferret piac",
+                "tip": "Vásároljon csíkos tengerészpólót és helyi mézet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Cap Ferret",
+                "tip": "Cumpărați tricouri marinărești în dungi și miere locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Ferret Market",
+                "tip": "Buy classic striped 'Marinière' shirts and local honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Sandalen, da Sie viel auf Sand laufen werden.",
+              "Die Flut ändert das Gesicht der Strände dramatisch, prüfen Sie den Gezeitenkalender.",
+              "In den Austernhütten wird oft nur Barzahlung akzeptiert.",
+              "Nehmen Sie den 'Petit Train' für eine nostalgische Fahrt zwischen der Bucht und dem Ozean."
+            ],
+            "hu": [
+              "Viseljen kényelmes szandált, mert sokat fog homokban sétálni.",
+              "Az árapály jelentősen megváltoztatja a partot, ellenőrizze a naptárat.",
+              "Az osztrigás bódékban gyakran csak készpénzzel lehet fizetni.",
+              "Szálljon fel a kisvonatra (Petit Train) egy nosztalgikus utazáshoz az öböl és az óceán között."
+            ],
+            "ro": [
+              "Purtați sandale confortabile, deoarece veți merge mult pe nisip.",
+              "Fluxul și refluxul schimbă dramatic plajele, verificați calendarul mareelor.",
+              "În colibele cu stridii se acceptă adesea doar plata în numerar.",
+              "Luați 'Petit Train' pentru o călătorie nostalgică între golf și ocean."
+            ],
+            "en": [
+              "Wear comfortable sandals as you will be walking on sand frequently.",
+              "Tides change the landscape dramatically; check the tide table beforehand.",
+              "Oyster huts often only accept cash payments.",
+              "Take the 'Petit Train' for a nostalgic ride between the bay and the ocean."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Jetée trotzen wir dem Nieselregen. Mittags bietet der Markt trockenen Unterschlupf und lokale Köstlichkeiten. Nachmittags erklimmen wir den Leuchtturm und suchen Schutz in den Austerndörfern. Abends erleben wir die stürmische Atlantikküste am Strand, geschützt durch Regenkleidung.",
+            "hu": "Reggel a mólónál szembeszállunk a szitáló esővel. Délben a piac fedett csarnoka nyújt menedéket. Délután megmásszuk a világítótornyot, majd egy osztrigás bódéban pihenünk meg. Este a viharos óceánparti séta zárja a napot vízhatlan ruhában.",
+            "ro": "Dimineața la debarcader înfruntăm ploaia fină. La prânz, piața acoperită oferă adăpost și delicii. După-amiaza urcăm în far și ne odihnim într-o colibă de stridii. Seara, o plimbare pe plaja furtunoasă încheie ziua cu echipament impermeabil.",
+            "en": "Morning at the pier braving the drizzle. At noon, the covered market provides shelter and treats. Afternoon, we climb the lighthouse and rest in an oyster hut. Evening ends with a stormy beach walk, protected by waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Jetée Bélisaire",
+              "tip_5lang": {
+                "de": "Regenschirm fest am Pier halten.",
+                "hu": "Tartsuk erősen az esernyőt a mólón.",
+                "ro": "Țineți umbrela bine pe debarcader.",
+                "en": "Hold your umbrella tight on the pier."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Die Markthalle ist ideal zum Aufwärmen.",
+                "hu": "A piaci csarnok ideális melegedőhely.",
+                "ro": "Hala pieței este ideală pentru încălzire.",
+                "en": "The market hall is ideal for warming up."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Trockener Aufstieg mit toller Aussicht.",
+                "hu": "Száraz feljutás remek kilátással.",
+                "ro": "Urcare uscată cu o vedere excelentă.",
+                "en": "Dry climb with a great view."
+              }
+            },
+            {
+              "name": "Oyster Farming Village",
+              "tip_5lang": {
+                "de": "Austernverkostung unter dem Vordach.",
+                "hu": "Osztrigakóstolás az előtető alatt.",
+                "ro": "Degustare de stridii sub copertină.",
+                "en": "Oyster tasting under the canopy."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Vorsicht vor stürmischen Böen.",
+                "hu": "Vigyázat a viharos széllökésekkel.",
+                "ro": "Atenție la rafalele de vânt.",
+                "en": "Watch out for stormy gusts."
+              }
+            },
+            {
+              "name": "Conche du Mimbeau",
+              "tip_5lang": {
+                "de": "Wasserfeste Schuhe sind Pflicht.",
+                "hu": "Vízhatlan cipő kötelező.",
+                "ro": "Încălțămintea impermeabilă este obligatorie.",
+                "en": "Waterproof shoes are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke.",
+              "Die Markthalle ist der beste trockene Treffpunkt.",
+              "Austerndörfer bieten viele überdachte Plätze.",
+              "Der Leuchtturm ist auch bei Regen begehbar.",
+              "Meiden Sie den Strand bei starkem Gewitter."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot.",
+              "A piaci csarnok a legjobb száraz találkozóhely.",
+              "Az osztrigás falvak sok fedett helyet kínálnak.",
+              "A világítótorony esőben is látogatható.",
+              "Erős vihar esetén kerülje a tengerpartot."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie rezistentă la vânt.",
+              "Hala pieței este cel mai bun punct de întâlnire uscat.",
+              "Satele de stridii oferă multe locuri acoperite.",
+              "Farul poate fi vizitat și pe ploaie.",
+              "Evitați plaja în timpul furtunilor puternice."
+            ],
+            "en": [
+              "Wear a windproof raincoat.",
+              "The market hall is the best dry meeting point.",
+              "Oyster villages offer many covered spots.",
+              "The lighthouse is accessible even in rain.",
+              "Avoid the beach during heavy storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterbrise weht am Hafen. Mittags wärmt ein heißes Getränk auf dem ruhigen Markt. Nachmittags genießen wir das klare Licht vom Leuchtturm aus. Der Tag endet früh mit einem farbenfrohen Sonnenuntergang am leeren Strand.",
+            "hu": "Friss téli szellő fúj a kikötőben. Délben forró ital melegít a csendes piacon. Délután a világítótoronyból csodáljuk a tiszta fényeket. A nap korán ér véget egy színes naplementével az üres tengerparton.",
+            "ro": "O briză proaspătă de iarnă suflă în port. La prânz, o băutură caldă te încălzește în piața liniștită. După-amiaza admirăm luminile clare de la far. Ziua se încheie devreme cu un apus colorat pe plaja goală.",
+            "en": "A fresh winter breeze blows at the harbor. At noon, a hot drink warms you up at the quiet market. In the afternoon, we admire the clear lights from the lighthouse. The day ends early with a colorful sunset on the empty beach."
+          },
+          "stops": [
+            {
+              "name": "Jetée Bélisaire",
+              "tip_5lang": {
+                "de": "Warme Mütze gegen den Seewind.",
+                "hu": "Meleg sapka a tengeri szél ellen.",
+                "ro": "Căciulă călduroasă împotriva vântului.",
+                "en": "Warm hat against the sea wind."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee.",
+                "hu": "Élvezzen egy forró kávét.",
+                "ro": "Savurați o cafea fierbinte.",
+                "en": "Enjoy a hot coffee."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Klare Sicht bis zu den Dünen.",
+                "hu": "Tiszta kilátás a dűnékig.",
+                "ro": "Vedere clară până la dune.",
+                "en": "Clear view as far as the dunes."
+              }
+            },
+            {
+              "name": "Oyster Farming Village",
+              "tip_5lang": {
+                "de": "Authentisches Flair ohne Touristen.",
+                "hu": "Hiteles hangulat turisták nélkül.",
+                "ro": "Atmosferă autentică fără turiști.",
+                "en": "Authentic flair without tourists."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Sonnenuntergang schon gegen 17:30.",
+                "hu": "Naplemente már 17:30 körül.",
+                "ro": "Apus de soare deja pe la 17:30.",
+                "en": "Sunset as early as 17:30."
+              }
+            },
+            {
+              "name": "Conche du Mimbeau",
+              "tip_5lang": {
+                "de": "Ruhiger Spaziergang in der Kälte.",
+                "hu": "Csendes séta a hidegben.",
+                "ro": "Plimbare liniștită în frig.",
+                "en": "Quiet walk in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip.",
+              "Die Sonne geht im Winter sehr früh unter.",
+              "Viele Restaurants haben Winterpause.",
+              "Genießen Sie die Ruhe ohne Menschenmassen.",
+              "Die Luft ist im Winter besonders klar."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg ellen.",
+              "A nap télen nagyon korán nyugszik.",
+              "Sok étterem zárva tart télen.",
+              "Élvezze a nyugalmat tömeg nélkül.",
+              "A levegő télen különösen tiszta."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva frigului.",
+              "Soarele apune foarte devreme iarna.",
+              "Multe restaurante sunt închise iarna.",
+              "Bucurați-vă de liniște fără mulțime.",
+              "Aerul este deosebit de curat iarna."
+            ],
+            "en": [
+              "Dress in layers against the cold.",
+              "The sun sets very early in winter.",
+              "Many restaurants are closed in winter.",
+              "Enjoy the peace without the crowds.",
+              "The air is particularly clear in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -589,6 +1017,430 @@
           "The cycle paths are flat, but wind can make the ride more demanding.",
           "Always lock your bike, even if the area seems very safe."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie das Cap Ferret wie ein Einheimischer. Starten Sie am Leuchtturm und radeln Sie durch die schattigen Kiefernwälder in den Süden. Die perfekt ausgebauten Radwege führen Sie zur Plage des Dunes, einem wilden Paradies für Surfer.\n\nWeiter geht es zur Südspitze, der 'Pointe'. Hier spüren Sie die Kraft der Natur, wo das ruhige Wasser der Bucht und der ungestüme Ozean aufeinandertreffen. Die alten Blockhäuser erinnern an die Geschichte des Atlantikwalls.\n\nNach der Erkundung der Spitze radeln Sie entlang der Bucht zurück. Machen Sie eine wohlverdiente Pause im Austernviertel von Le Canon oder L'Herbe. Die frischen Meeresfrüchte schmecken nach einer Radtour noch besser.\n\nDer Abschluss ist die maurische Kapelle in L'Herbe. Ihre exotische Architektur und die ruhige Lage am Wasser machen sie zum idealen Endpunkt einer Tour durch die verschiedenen Welten der Halbinsel.",
+            "hu": "Kerékpárral igazi helyiként fedezheti fel Cap Ferretet. Induljon a világítótoronytól, és tekerjen délnek az árnyas fenyőerdőkön át. A kiváló kerékpárutak elvezetik a Dűnék strandjára, amely a szörfösök vad paradicsoma.\n\nFolytassa útját a félsziget legdélebbi pontjához, a 'Pointe'-hoz. Itt érezheti a természet erejét, ahol az öböl nyugodt vize és a zabolátlan óceán találkozik. A régi bunkerek az Atlanti Fal történelmére emlékeztetnek.\n\nA csúcs felfedezése után tekerjen vissza az öböl mentén. Tartson egy jól megérdemelt pihenőt Le Canon vagy L'Herbe osztrigatenyésztő negyedében. A friss tengeri ételek még jobban esnek egy kiadós biciklizés után.\n\nAz út végén látogasson el a maurituszi stílusú kápolnához L'Herbe-ben. Egzotikus építészete és a vízparti nyugalom tökéletes befejezése a félsziget változatos világait bemutató túrának.",
+            "ro": "Cu bicicleta, veți explora Cap Ferret ca un localnic. Porniți de la far și pedalați spre sud prin pădurile de pini umbroase. Pistele de biciclete excelente vă vor duce la Plaja Dunelor, un paradis sălbatic pentru surferi.\n\nContinuați drumul până la extremitatea sudică, 'La Pointe'. Aici veți simți forța naturii unde apele calme ale golfului se întâlnesc cu oceanul impetuos. Vechile buncăre amintesc de istoria Zidului Atlanticului.\n\nDupă explorarea vârfului, pedalați înapoi de-a lungul golfului. Faceți o pauză binemeritată în cartierul ostréicole din Le Canon sau L'Herbe. Fructele de mare proaspete au un gust și mai bun după o tură cu bicicleta.\n\nFinalul traseului este capela maură din L'Herbe. Arhitectura sa exotică și locația liniștită pe malul apei o fac punctul final ideal pentru un tur prin lumile diverse ale peninsulei.",
+            "en": "Exploring Cap Ferret by bike is the true local experience. Start at the lighthouse and pedal south through shaded pine forests. The excellent cycle paths lead you to Plage des Dunes, a wild paradise for surfers.\n\nContinue to the southernmost tip, 'La Pointe'. Here you can feel the raw power of nature where the calm basin waters and the restless ocean meet. The old blockhouses serve as a reminder of the Atlantic Wall history.\n\nAfter exploring the tip, pedal back along the bay side. Take a well-deserved break in the oyster-farming villages of Le Canon or L'Herbe. Fresh seafood tastes even better after a bike ride.\n\nFinish your trip at the Moorish chapel in L'Herbe. Its exotic architecture and peaceful waterfront setting make it the ideal endpoint for a tour through the peninsula's diverse landscapes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare du Cap Ferret",
+                "hu": "Cap Ferret világítótorony",
+                "ro": "Farul Cap Ferret",
+                "en": "Cap Ferret Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie Ihr Fahrrad direkt in der Nähe des Leuchtturms.",
+                "hu": "Béreljen kerékpárt közvetlenül a világítótorony közelében.",
+                "ro": "Închiriați bicicleta direct lângă far.",
+                "en": "Rent your bike right near the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Dunes",
+                "hu": "Dűnék strandja",
+                "ro": "Plaja Dunelor",
+                "en": "Dunes Beach"
+              },
+              "tip_5lang": {
+                "de": "Folgen Sie dem Radweg durch den Kiefernwald.",
+                "hu": "Kövesse a kerékpárutat a fenyőerdőn keresztül.",
+                "ro": "Urmați pista de biciclete prin pădurea de pini.",
+                "en": "Follow the cycle path through the pine forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Blockhaus du Cap Ferret",
+                "hu": "Cap Ferret bunkerek",
+                "ro": "Blockhaus Cap Ferret",
+                "en": "Cap Ferret Blockhaus"
+              },
+              "tip_5lang": {
+                "de": "Überreste des Atlantikwalls im Sand.",
+                "hu": "Az Atlanti Fal maradványai a homokban.",
+                "ro": "Rămășițele Zidului Atlanticului în nisip.",
+                "en": "Remains of the Atlantic Wall half-buried in sand."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pointe du Cap Ferret",
+                "hu": "Cap Ferret csúcsa",
+                "ro": "La Pointe du Cap Ferret",
+                "en": "The Tip of Cap Ferret"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie die Strömungen des Beckens auf den Ozean treffen.",
+                "hu": "Nézze meg, hol találkozik az öböl áramlata az óceánnal.",
+                "ro": "Vedeți cum curenții bazinului se întâlnesc cu oceanul.",
+                "en": "See how the basin currents meet the open ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Conche du Mimbeau",
+                "hu": "Conche du Mimbeau",
+                "ro": "Conche du Mimbeau",
+                "en": "Conche du Mimbeau"
+              },
+              "tip_5lang": {
+                "de": "Eine ruhige Pause abseits der Brandung.",
+                "hu": "Csendes pihenőhely távol az óceán morajlásától.",
+                "ro": "O pauză liniștită departe de zgomotul valurilor.",
+                "en": "A peaceful break away from the ocean roar."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier Ostréicole",
+                "hu": "Osztrigatenyésztő negyed",
+                "ro": "Cartierul Ostréicole",
+                "en": "Oyster Village"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihre Fahrräder am Eingang des Viertels ab.",
+                "hu": "Hagyja a kerékpárt a negyed bejáratánál.",
+                "ro": "Lăsați bicicletele la intrarea în cartier.",
+                "en": "Park your bikes at the entrance of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Villa Algérienne",
+                "hu": "Algériai Villa kápolnája",
+                "ro": "Chapelle de la Villa Algérienne",
+                "en": "Chapelle de la Villa Algérienne"
+              },
+              "tip_5lang": {
+                "de": "Ein Hauch von Orient am Ufer des Beckens.",
+                "hu": "Egy csipetnyi Kelet az öböl partján.",
+                "ro": "O notă de Orient pe malul bazinului.",
+                "en": "A touch of the Orient on the basin shore."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Degustation in L'Herbe",
+                "tip": "Probieren Sie Austern direkt bei den Erzeugern in den bunten Hütten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kóstoló L'Herbe-ben",
+                "tip": "Kóstolja meg az osztrigát közvetlenül a termelőknél a színes faházakban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Degustare în L'Herbe",
+                "tip": "Gustați stridii direct de la producători în colibele colorate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tasting in L'Herbe",
+                "tip": "Try oysters directly at the producers' colorful wooden huts."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldwege",
+                "tip": "Die Stille der Pinienwälder genießen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Erdei utak",
+                "tip": "Élvezze a fenyőerdők csendjét.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cărări forestiere",
+                "tip": "Bucurați-vă de liniștea pădurilor de pini.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Forest paths",
+                "tip": "Enjoy the silence of the pine forests.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrrad-Accessoires",
+                "tip": "Holen Sie sich eine stylische Klingel oder Tasche in den lokalen Shops."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biciklis kiegészítők",
+                "tip": "Vásároljon stílusos csengőt vagy táskát a helyi boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Accesorii pentru biciclete",
+                "tip": "Cumpărați o sonerie sau o geantă stilată din magazinele locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike accessories",
+                "tip": "Pick up a stylish bell or bag in the local shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein 'VTC' oder ein E-Bike, wenn Sie bis zum Norden der Halbinsel fahren wollen.",
+              "Achten Sie auf Fußgänger, die Wege werden oft geteilt.",
+              "Die Radwege sind flach, aber Wind kann die Fahrt anstrengend machen.",
+              "Verriegeln Sie Ihr Fahrrad immer, auch wenn es sicher scheint."
+            ],
+            "hu": [
+              "Béreljen túrakerékpárt vagy e-bike-ot, ha a félsziget északi részéig akar menni.",
+              "Figyeljen a gyalogosokra, az utak gyakran közösek.",
+              "A kerékpárutak síkak, de a szél megnehezítheti a haladást.",
+              "Mindig zárja le a biciklit, még ha biztonságosnak is tűnik a környék."
+            ],
+            "ro": [
+              "Închiriați o bicicletă hibridă sau electrică dacă doriți să mergeți până în nord.",
+              "Atenție la pietoni, pistele sunt adesea comune.",
+              "Traseele sunt plate, dar vântul poate face pedalarea dificilă.",
+              "Încuiați întotdeauna bicicleta, chiar dacă zona pare sigură."
+            ],
+            "en": [
+              "Rent a hybrid or e-bike if you plan to cycle to the northern part of the peninsula.",
+              "Watch out for pedestrians; paths are often shared.",
+              "The cycle paths are flat, but wind can make the ride more demanding.",
+              "Always lock your bike, even if the area seems very safe."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Durch die Pinienwälder radeln wir im Schutz der Bäume. Mittags erreichen wir die stürmische Spitze von Cap Ferret. Nachmittags wärmen wir uns im Austerndorf auf. Der Abend endet mit einer kurzen Fahrt zur Kapelle bei abklingendem Regen.",
+            "hu": "A fenyőerdőkön keresztül a fák védelmében tekerünk. Délben elérjük a Cap Ferret viharos csúcsát. Délután az osztrigás faluban melegszünk fel. Az este egy rövid bringázással zárul a kápolnához az elcsendesedő esőben.",
+            "ro": "Pedalăm prin pădurile de pini sub protecția copacilor. La prânz ajungem în vârful furtunos al Cap Ferret. După-amiaza ne încălzim în satul de stridii. Seara se încheie cu o scurtă plimbare la capelă în ploaia care se domolește.",
+            "en": "We cycle through the pine forests under the protection of the trees. At noon, we reach the stormy tip of Cap Ferret. In the afternoon, we warm up in the oyster village. The evening ends with a short ride to the chapel as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Fahrrad sicher im Ständer abstellen.",
+                "hu": "Helyezze a bringát biztonságos tárolóba.",
+                "ro": "Lăsați bicicleta într-un suport sigur.",
+                "en": "Leave the bike in a secure stand."
+              }
+            },
+            {
+              "name": "Dunes Beach",
+              "tip_5lang": {
+                "de": "Wege können rutschig sein.",
+                "hu": "Az utak csúszósak lehetnek.",
+                "ro": "Potecile pot fi alunecoase.",
+                "en": "Paths can be slippery."
+              }
+            },
+            {
+              "name": "Cap Ferret Blockhaus",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Beton.",
+                "hu": "Rövid megálló a beton alatt.",
+                "ro": "Oprire scurtă sub beton.",
+                "en": "Short stop under the concrete."
+              }
+            },
+            {
+              "name": "The Tip of Cap Ferret",
+              "tip_5lang": {
+                "de": "Starker Wind an der Landspitze.",
+                "hu": "Erős szél a földnyelven.",
+                "ro": "Vânt puternic la capătul uscatului.",
+                "en": "Strong wind at the headland."
+              }
+            },
+            {
+              "name": "Conche du Mimbeau",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf den Wegen.",
+                "hu": "Vigyázat az utakon lévő tócsákkal.",
+                "ro": "Atenție la bălțile de pe drum.",
+                "en": "Watch out for puddles on the paths."
+              }
+            },
+            {
+              "name": "Oyster Village",
+              "tip_5lang": {
+                "de": "Fahrradschloss nicht vergessen.",
+                "hu": "Ne felejtse el a lakatot.",
+                "ro": "Nu uitați antifurtul.",
+                "en": "Don't forget the bike lock."
+              }
+            },
+            {
+              "name": "Chapelle de la Villa Algérienne",
+              "tip_5lang": {
+                "de": "Besinnlicher Ausklang im Trockenen.",
+                "hu": "Békés lezárás száraz helyen.",
+                "ro": "Final liniștit la adăpost.",
+                "en": "Peaceful conclusion in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Kleidung.",
+              "Vorsicht vor rutschigen Piniennadeln.",
+              "Nutzen Sie Schutzbleche am Fahrrad.",
+              "Die Waldwege bieten Schutz vor Wind.",
+              "Prüfen Sie Ihre Bremsen bei Nässe."
+            ],
+            "hu": [
+              "Viseljen vízhatlan ruházatot.",
+              "Vigyázzon a csúszós fenyőtűkre.",
+              "Használjon sárvédőt a biciklin.",
+              "Az erdei utak védelmet nyújtanak a széltől.",
+              "Nedves időben ellenőrizze a fékeket."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte impermeabilă.",
+              "Atenție la acele de pin alunecoase.",
+              "Folosiți apărători de noroi la bicicletă.",
+              "Drumurile forestiere oferă protecție împotriva vântului.",
+              "Verificați frânele pe timp de ploaie."
+            ],
+            "en": [
+              "Wear waterproof clothing.",
+              "Watch out for slippery pine needles.",
+              "Use mudguards on your bike.",
+              "Forest paths provide shelter from wind.",
+              "Check your brakes in wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad durch die kühle Winterluft zu radeln belebt. Mittags erreichen wir die einsame Spitze unter strahlend blauem Himmel. Nachmittags wärmt uns eine Suppe im Austerndorf auf. Der Tag endet mit einer stillen Fahrt entlang der Küste.",
+            "hu": "A kerékpározás a hűvös téli levegőben felfrissít. Délben elérjük a magányos csúcsot a sugárzó kék ég alatt. Délután egy leves melegít fel az osztrigás faluban. A nap egy csendes tekeréssel zárul a part mentén.",
+            "ro": "Pedalarea prin aerul rece de iarnă revigorează. La prânz ajungem la vârful singuratic sub cerul albastru strălucitor. După-amiaza o supă ne încălzește în satul de stridii. Ziua se încheie cu o plimbare liniștită pe coastă.",
+            "en": "Cycling through the cool winter air is invigorating. At noon, we reach the lonely tip under a bright blue sky. In the afternoon, a soup warms us up in the oyster village. The day ends with a quiet ride along the coast."
+          },
+          "stops": [
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne blendet.",
+                "hu": "Az alacsony téli nap elvakíthat.",
+                "ro": "Soarele jos de iarnă este orbitor.",
+                "en": "Low winter sun can be blinding."
+              }
+            },
+            {
+              "name": "Dunes Beach",
+              "tip_5lang": {
+                "de": "Strand ist im Winter fast leer.",
+                "hu": "A strand télen szinte üres.",
+                "ro": "Plaja este aproape goală iarna.",
+                "en": "The beach is almost empty in winter."
+              }
+            },
+            {
+              "name": "Cap Ferret Blockhaus",
+              "tip_5lang": {
+                "de": "Geschichtsträchtiger Ort in Stille.",
+                "hu": "Történelmi helyszín csendben.",
+                "ro": "Loc istoric în liniște.",
+                "en": "Historical site in silence."
+              }
+            },
+            {
+              "name": "The Tip of Cap Ferret",
+              "tip_5lang": {
+                "de": "Sehr kalt an der Wasserkante.",
+                "hu": "Nagyon hideg a vízparton.",
+                "ro": "Foarte frig la marginea apei.",
+                "en": "Very cold at the water's edge."
+              }
+            },
+            {
+              "name": "Conche du Mimbeau",
+              "tip_5lang": {
+                "de": "Faszinierende Wintervögel beobachten.",
+                "hu": "Figyelje meg a téli madarakat.",
+                "ro": "Observați păsările fascinante de iarnă.",
+                "en": "Observe fascinating winter birds."
+              }
+            },
+            {
+              "name": "Oyster Village",
+              "tip_5lang": {
+                "de": "Nur wenige Hütten haben offen.",
+                "hu": "Csak kevés bódé van nyitva.",
+                "ro": "Doar câteva colibe sunt deschise.",
+                "en": "Only a few huts are open."
+              }
+            },
+            {
+              "name": "Chapelle de la Villa Algérienne",
+              "tip_5lang": {
+                "de": "Besuch am Nachmittag einplanen.",
+                "hu": "Tervezze a látogatást délutánra.",
+                "ro": "Planificați vizita după-amiaza.",
+                "en": "Plan the visit for the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind unerlässlich.",
+              "Planen Sie die Route vor Sonnenuntergang.",
+              "Trinken Sie ausreichend Tee.",
+              "Beleuchtung am Fahrrad ist wichtig.",
+              "Vermeiden Sie Eisflächen im Schatten."
+            ],
+            "hu": [
+              "A meleg kesztyű nélkülözhetetlen.",
+              "Tervezze meg az utat naplemente előtt.",
+              "Igyon elegendő teát.",
+              "A bicikli világítása fontos.",
+              "Kerülje az árnyékos jeges foltokat."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale.",
+              "Planificați traseul înainte de apus.",
+              "Beți suficient ceai.",
+              "Iluminarea bicicletei este importantă.",
+              "Evitați zonele înghețate la umbră."
+            ],
+            "en": [
+              "Warm gloves are essential.",
+              "Plan the route before sunset.",
+              "Drink enough tea.",
+              "Bike lighting is important.",
+              "Avoid icy patches in the shade."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -828,6 +1680,366 @@
           "The main 'Avenue de l'Océan' is prone to traffic jams.",
           "Avoid driving or parking in the narrow alleys of the oyster villages."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich das Cap Ferret bequem erkunden, besonders wenn man die verschiedenen Dörfer entlang der Halbinsel besuchen möchte. Beginnen Sie in L'Herbe mit seiner malerischen maurischen Kapelle. Hier scheint die Zeit stillzustehen.\n\nFahren Sie weiter ins Zentrum zum Markt von Cap Ferret, um lokale Köstlichkeiten für ein Picknick zu kaufen. Danach geht es zum berühmten Leuchtturm, von dessen Spitze aus Sie die gesamte Geographie des Bassin d'Arcachon verstehen können.\n\nDer Nachmittag ist für die Entspannung an der Plage de l'Horizon reserviert. Dank des Autos können Sie Sonnenschirme und alles Nötige bequem transportieren, um die Kraft des Ozeans in vollen Zügen zu genießen.\n\nZum Abschluss fahren Sie zur Südspitze, der 'Pointe'. Beobachten Sie den Sonnenuntergang über dem Ozean und blicken Sie hinüber zur gewaltigen Düne von Pilat, bevor Sie sich auf den Rückweg machen.",
+            "hu": "Autóval kényelmesen felfedezheti Cap Ferretet, különösen ha a félsziget mentén fekvő különböző falvakat is látni szeretné. Kezdjen L'Herbe-ben a festői maurituszi kápolnával. Itt megállt az idő.\n\nHajtson tovább a központba, a Cap Ferret piacra, hogy helyi finomságokat vegyen egy délutáni piknikhez. Ezután látogasson el a híres világítótoronyhoz, aminek tetejéről tökéletesen átláthatja a Bassin d'Arcachon földrajzát.\n\nA délután a pihenésé a Horizon strandon. Az autóval kényelmesen magával viheti a napernyőt és minden szükséges felszerelést, hogy teljes mértékben élvezhesse az óceán erejét.\n\nBefejezésként hajtson a félsziget csúcsához, a 'Pointe'-hoz. Figyelje meg a naplementét az óceán felett, és pillantson át a hatalmas Dune de Pilat-ra, mielőtt visszaindulna.",
+            "ro": "Cu mașina, puteți explora Cap Ferret în confort, mai ales dacă doriți să vizitați diferitele sate de-a lungul peninsulei. Începeți în L'Herbe cu pitoreasca sa capelă maură. Aici timpul pare să stea în loc.\n\nConduceți spre centru, la piața Cap Ferret, pentru a cumpăra delicii locale pentru un picnic. Apoi mergeți la faimosul far, de unde puteți înțelege întreaga geografie a bazinului Arcachon.\n\nDupă-amiaza este rezervată relaxării pe plaja Horizon. Datorită mașinii, puteți transporta ușor umbrelele și tot ce aveți nevoie pentru a vă bucura din plin de forța oceanului.\n\nLa final, conduceți spre extremitatea sudică, 'La Pointe'. Urmăriți apusul peste ocean și priviți spre uriașa Dună a lui Pilat înainte de a porni pe drumul de întoarcere.",
+            "en": "Exploring Cap Ferret by car is convenient, especially for visiting the various villages scattered along the peninsula. Start in L'Herbe with its picturesque Moorish chapel, where time seems to stand still.\n\nDrive to the center to visit the Cap Ferret market and pick up local delicacies for a picnic. Then, head to the famous lighthouse to get a panoramic understanding of the Bassin d'Arcachon's geography.\n\nSpend your afternoon relaxing at Plage de l'Horizon. Having a car makes it easy to bring beach umbrellas and everything else needed to enjoy the Atlantic's power.\n\nFinish your day by driving to the very tip, 'La Pointe'. Watch the sunset over the ocean and gaze across at the massive Dune of Pilat before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle de la Villa Algérienne",
+                "hu": "Algériai Villa kápolnája",
+                "ro": "Chapelle de la Villa Algérienne",
+                "en": "Chapelle de la Villa Algérienne"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie früh, um die Ruhe im Dorf L'Herbe zu genießen.",
+                "hu": "Parkoljon le korán, hogy élvezze L'Herbe nyugalmát.",
+                "ro": "Parcați devreme pentru a vă bucura de liniștea din satul L'Herbe.",
+                "en": "Park early to enjoy the peace of L'Herbe village."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché du Cap Ferret",
+                "hu": "Cap Ferret piac",
+                "ro": "Piața Cap Ferret",
+                "en": "Cap Ferret Market"
+              },
+              "tip_5lang": {
+                "de": "Ein großer Parkplatz befindet sich in der Nähe des Marktes.",
+                "hu": "Egy nagy parkoló található a piac közelében.",
+                "ro": "Există o parcare mare în apropierea pieței.",
+                "en": "There is a large parking lot near the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Cap Ferret",
+                "hu": "Cap Ferret világítótorony",
+                "ro": "Farul Cap Ferret",
+                "en": "Cap Ferret Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm ist ein Wahrzeichen der Region.",
+                "hu": "A világítótorony a régió jelképe.",
+                "ro": "Farul este un simbol al regiunii.",
+                "en": "The lighthouse is a landmark of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Horizon",
+                "hu": "Horizon strand",
+                "ro": "Plaja Horizon",
+                "en": "Horizon Beach"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie Ihre Strandausrüstung im Auto mit.",
+                "hu": "Hozza magával a strandfelszerelést az autóban.",
+                "ro": "Aduceți echipamentul de plajă în mașină.",
+                "en": "Bring your beach gear along in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pointe du Cap Ferret",
+                "hu": "Cap Ferret csúcsa",
+                "ro": "La Pointe du Cap Ferret",
+                "en": "The Tip of Cap Ferret"
+              },
+              "tip_5lang": {
+                "de": "Der südlichste Punkt, der mit dem Auto erreichbar ist.",
+                "hu": "A legdélebbi pont, ami autóval elérhető.",
+                "ro": "Cel mai sudic punct accesibil cu mașina.",
+                "en": "The southernmost point accessible by car."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Pinasse Café",
+                "tip": "Gehobene Küche mit Blick auf das Bassin d'Arcachon."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Pinasse Café",
+                "tip": "Elegáns étterem kilátással a Bassin d'Arcachon-ra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Pinasse Café",
+                "tip": "Bucătărie rafinată cu vedere spre bazinul Arcachon."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Pinasse Café",
+                "tip": "Upscale dining with a view of the Bassin d'Arcachon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Ein wilder Ort für Naturfreunde.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Vadregényes hely a természet kedvelőinek.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "Un loc sălbatic pentru iubitorii de natură.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pointe du Cap Ferret",
+                "tip": "A wild spot for nature lovers.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Herbe Kunsthandwerk",
+                "tip": "Kleine Ateliers im Dorf bieten lokale Kunst an."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Herbe kézműves boltok",
+                "tip": "A falu kis műhelyeiben helyi művészeti alkotásokat vehet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat în L'Herbe",
+                "tip": "Micile ateliere din sat oferă artă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Herbe Handicrafts",
+                "tip": "Small studios in the village offer local art."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Verkehr kann an Wochenenden sehr dicht sein, fahren Sie früh los.",
+              "Parkplätze sind im Sommer begrenzt, nutzen Sie die P+R Parkplätze.",
+              "Die Hauptstraße 'Avenue de l'Océan' ist oft stauanfällig.",
+              "Vermeiden Sie es, das Auto in den engen Gassen der Austerndörfer zu parken."
+            ],
+            "hu": [
+              "Hétvégenként nagy lehet a forgalom, induljon korán.",
+              "Nyáron a parkolóhelyek száma korlátozott, használja a P+R-t.",
+              "Az 'Avenue de l'Océan' főút gyakran bedugul.",
+              "Ne próbáljon meg beparkolni az osztrigatenyésztő falvak szűk utcáiba."
+            ],
+            "ro": [
+              "Traficul poate fi intens în weekend, porniți la drum devreme.",
+              "Parcarea este limitată vara, folosiți parcările P+R.",
+              "Drumul principal 'Avenue de l'Océan' este adesea aglomerat.",
+              "Evitați să parcați mașina pe străduțele înguste ale satelor ostréicole."
+            ],
+            "en": [
+              "Traffic can be very heavy on weekends; leave early to beat the crowds.",
+              "Parking is limited in summer; use the designated P+R lots.",
+              "The main 'Avenue de l'Océan' is prone to traffic jams.",
+              "Avoid driving or parking in the narrow alleys of the oyster villages."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gemütliche Fahrt durch die Regenlandschaft. Mittags besuchen wir den überdachten Markt. Nachmittags blicken wir vom warmen Auto aus auf die tosenden Wellen am Horizon Beach. Der Tag endet mit einem Besuch der malerischen Kapelle im Trockenen.",
+            "hu": "Kényelmes autózás az esős tájon. Délben meglátogatjuk a fedett piacot. Délután a meleg autóból figyeljük a tajtékzó hullámokat a Horizon Beachen. A nap a festői kápolna látogatásával zárul szárazon.",
+            "ro": "O călătorie confortabilă prin peisajul ploios. La prânz vizităm piața acoperită. După-amiaza privim valurile înspumate de pe Horizon Beach din mașina caldă. Ziua se încheie cu vizitarea capelei pitorești la adăpost.",
+            "en": "A comfortable drive through the rainy landscape. At noon, we visit the covered market. In the afternoon, we watch the crashing waves at Horizon Beach from the warm car. The day ends with a visit to the picturesque chapel in the dry."
+          },
+          "stops": [
+            {
+              "name": "Chapelle de la Villa Algérienne",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang.",
+                "hu": "Parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare chiar în fața intrării.",
+                "en": "Parking right in front of the entrance."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Parkplatzsuche bei Regen einfacher.",
+                "hu": "Esőben könnyebb parkolót találni.",
+                "ro": "Căutarea parcării e mai ușoară pe ploaie.",
+                "en": "Parking search is easier in the rain."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz.",
+                "hu": "Rövid sprint a parkolóból.",
+                "ro": "Sprint scurt din parcare.",
+                "en": "Short sprint from the parking lot."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Blick auf das Meer aus dem Auto.",
+                "hu": "Kilátás a tengerre az autóból.",
+                "ro": "Vedere la mare din mașină.",
+                "en": "View of the sea from the car."
+              }
+            },
+            {
+              "name": "The Tip of Cap Ferret",
+              "tip_5lang": {
+                "de": "Straße kann überschwemmt sein.",
+                "hu": "Az út elöntve lehet.",
+                "ro": "Drumul poate fi inundat.",
+                "en": "Road might be flooded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer.",
+              "Vermeiden Sie tiefe Pfützen.",
+              "Halten Sie Abstände bei Nässe ein.",
+              "Nutzen Sie die Heizung zum Trocknen.",
+              "Parken Sie nah an den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket.",
+              "Kerülje a mély tócsákat.",
+              "Tartson nagyobb követési távolságot.",
+              "Használja a fűtést a szárításhoz.",
+              "Parkoljon közel a látnivalókhoz."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz.",
+              "Evitați bălțile adânci.",
+              "Păstrați distanța pe timp de ploaie.",
+              "Folosiți încălzirea pentru uscare.",
+              "Parcați aproape de obiective."
+            ],
+            "en": [
+              "Check your windshield wipers.",
+              "Avoid deep puddles.",
+              "Maintain distance in wet conditions.",
+              "Use the heater to dry off.",
+              "Park close to the sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto erkunden wir die winterliche Halbinsel. Mittags wärmt uns die Sonne auf dem stillen Marktplatz. Nachmittags genießen wir die Panoramaaussicht vom Leuchtturm. Der Tag endet mit einem spektakulären Sonnenuntergang an der Landspitze.",
+            "hu": "A fűtött autóban fedezzük fel a téli félszigetet. Délben a nap melegít a csendes piactéren. Délután a panorámás kilátást élvezzük a világítótoronyból. A nap látványos naplementével zárul a földnyelvnél.",
+            "ro": "Explorăm peninsula iernatică în mașina încălzită. La prânz ne încălzește soarele în piața liniștită. După-amiaza savurăm vederea panoramică de la far. Ziua se încheie cu un apus spectaculos la capătul uscatului.",
+            "en": "We explore the winter peninsula in a heated car. At noon, the sun warms us in the quiet market square. In the afternoon, we enjoy the panoramic view from the lighthouse. The day ends with a spectacular sunset at the headland."
+          },
+          "stops": [
+            {
+              "name": "Chapelle de la Villa Algérienne",
+              "tip_5lang": {
+                "de": "Malerischer Ort im Winterlicht.",
+                "hu": "Festői hely a téli fényben.",
+                "ro": "Loc pitoresc în lumina iernii.",
+                "en": "Picturesque spot in winter light."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Wenig Verkehr, entspanntes Parken.",
+                "hu": "Kis forgalom, nyugodt parkolás.",
+                "ro": "Trafic redus, parcare relaxată.",
+                "en": "Little traffic, relaxed parking."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Treppensteigen wärmt auf.",
+                "hu": "A lépcsőzés felmelegít.",
+                "ro": "Urcatul scărilor te încălzește.",
+                "en": "Climbing the stairs warms you up."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Ideal für Fotos ohne Menschen.",
+                "hu": "Ideális fotózáshoz tömeg nélkül.",
+                "ro": "Ideal pentru poze fără oameni.",
+                "en": "Ideal for photos without people."
+              }
+            },
+            {
+              "name": "The Tip of Cap Ferret",
+              "tip_5lang": {
+                "de": "Windschutz im Auto genießen.",
+                "hu": "Élvezze a szélvédelmet az autóban.",
+                "ro": "Bucurați-vă de protecția mașinii.",
+                "en": "Enjoy wind protection in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte bei Frost.",
+              "Nehmen Sie eine Thermoskanne mit.",
+              "Nutzen Sie die Sitzheizung.",
+              "Tagfahrlicht einschalten.",
+              "Tank immer gut gefüllt halten."
+            ],
+            "hu": [
+              "Ügyeljen a fagypont alatti csúszós utakra.",
+              "Vigyen magával termoszt.",
+              "Használja az ülésfűtést.",
+              "Kapcsolja be a nappali menetfényt.",
+              "Tartsa mindig teli a tankot."
+            ],
+            "ro": [
+              "Atenție la polei în caz de îngheț.",
+              "Luați un termos cu voi.",
+              "Folosiți încălzirea în scaune.",
+              "Porniți luminile de zi.",
+              "Păstrați rezervorul plin."
+            ],
+            "en": [
+              "Watch out for ice in freezing weather.",
+              "Take a thermos flask with you.",
+              "Use the seat heating.",
+              "Turn on daytime running lights.",
+              "Keep the tank well filled."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1067,34 +2279,367 @@
           "Purchase your ferry tickets back to Arcachon in advance.",
           "Buses and the train can get very crowded in the late afternoon."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel am Cap Ferret haben einen besonderen Charme, allen voran der 'Petit Train'. Beginnen Sie an der Jetée Bélisaire und steigen Sie in die historische Bahn, die Sie quer über die Halbinsel direkt zum Ozean bringt.\n\nVerbringen Sie den Vormittag an der Plage de l'Horizon. Das Rauschen des Atlantiks ist hier allgegenwärtig. Nach dem Strandbesuch führt ein kurzer Spaziergang Sie zum Leuchtturm, dem Wahrzeichen der Halbinsel.\n\nMittags bringt Sie der lokale Shuttle-Bus (Navette) bequem zum Austernviertel. Genießen Sie die entspannte Atmosphäre und die frischen Meeresfrüchte, ohne sich um die Parkplatzsuche kümmern zu müssen.\n\nZum Abschluss des Tages kehren Sie ins Dorfzentrum zurück. Besuchen Sie den Markt oder schlendern Sie durch die Geschäfte, bevor Sie die Fähre zurück nach Arcachon oder den Bus in Richtung Norden nehmen.",
+            "hu": "A tömegközlekedés Cap Ferret-ben különleges bájt hordoz, különösen a 'Petit Train' kisvonat. Kezdje a Bélisaire mólónál, és szálljon fel a történelmi vasútra, amely a félszigeten átvágva egyenesen az óceánhoz viszi.\n\nTöltse a délelőttöt a Horizon strandon, élvezve az Atlanti-óceán zúgását. A strandolás után egy rövid séta vezet a világítótoronyhoz, amely a félsziget legfontosabb jelképe.\n\nDélben a helyi buszjárat (Navette) kényelmesen elviszi az osztrigatenyésztő negyedbe. Élvezze a nyugodt környezetet és a friss tenger gyümölcseit anélkül, hogy a parkolás miatt kellene aggódnia.\n\nA nap végén térjen vissza a falu központjába. Látogasson el a piacra vagy sétáljon a boltok között, mielőtt felszállna az Arcachonba induló kompra vagy az észak felé tartó buszra.",
+            "ro": "Transportul public în Cap Ferret are un farmec aparte, în special 'Petit Train'. Începeți la Jetée Bélisaire și urcați în trenul istoric care traversează peninsula direct către ocean.\n\nPetreceți dimineața pe plaja Horizon, ascultând vuietul Atlanticului. După plajă, o scurtă plimbare vă duce la far, simbolul peninsulei.\n\nLa prânz, autobuzul local (navette) vă duce confortabil în cartierul ostréicole. Bucurați-vă de atmosfera relaxată și de fructele de mare proaspete fără grija parcării.\n\nSpre finalul zilei, reveniți în centrul satului. Vizitați piața sau plimbați-vă prin magazine înainte de a lua feribotul înapoi spre Arcachon sau autobuzul spre nord.",
+            "en": "Public transit in Cap Ferret has a unique charm, especially the 'Petit Train'. Start at Jetée Bélisaire and board the historic narrow-gauge train that takes you straight across the peninsula to the ocean.\n\nSpend your morning at Plage de l'Horizon, enjoying the Atlantic surf. After the beach, a short walk brings you to the lighthouse, the peninsula's main landmark.\n\nAt midday, take the local shuttle bus (Navette) comfortably to the oyster-farming village. Enjoy the laid-back atmosphere and fresh seafood without the hassle of finding a parking spot.\n\nTo wrap up your day, return to the village center. Visit the market or browse the shops before taking the ferry back to Arcachon or the bus heading north."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetée Bélisaire",
+                "hu": "Bélisaire móló",
+                "ro": "Jetée Bélisaire",
+                "en": "Jetée Bélisaire"
+              },
+              "tip_5lang": {
+                "de": "Hier startet der 'Petit Train' zum Ozean.",
+                "hu": "Innen indul a kisvonat (Petit Train) az óceánhoz.",
+                "ro": "De aici pleacă 'Petit Train' către ocean.",
+                "en": "This is the departure point for the 'Petit Train' to the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Horizon",
+                "hu": "Horizon strand",
+                "ro": "Plaja Horizon",
+                "en": "Horizon Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt mit der Schmalspurbahn ist ein Erlebnis.",
+                "hu": "A keskeny nyomtávú vasúttal való utazás igazi élmény.",
+                "ro": "Călătoria cu trenul pe ecartament îngust este o experiență în sine.",
+                "en": "Riding the narrow-gauge railway is a classic experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Cap Ferret",
+                "hu": "Cap Ferret világítótorony",
+                "ro": "Farul Cap Ferret",
+                "en": "Cap Ferret Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Vom Strand aus in 15 Minuten zu Fuß erreichbar.",
+                "hu": "A strandtól 15 perc sétával elérhető.",
+                "ro": "Accesibil în 15 minute de mers pe jos de la plajă.",
+                "en": "Accessible within a 15-minute walk from the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartier Ostréicole",
+                "hu": "Osztrigatenyésztő negyed",
+                "ro": "Cartierul Ostréicole",
+                "en": "Oyster Village"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Shuttle-Bus (Navette), um sich zu bewegen.",
+                "hu": "Használja a helyi buszt (navette) a közlekedéshez.",
+                "ro": "Folosiți autobuzul local (navette) pentru deplasare.",
+                "en": "Use the local shuttle bus (navette) to get around."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché du Cap Ferret",
+                "hu": "Cap Ferret piac",
+                "ro": "Piața Cap Ferret",
+                "en": "Cap Ferret Market"
+              },
+              "tip_5lang": {
+                "de": "Die Busse halten direkt im Zentrum.",
+                "hu": "A buszok közvetlenül a központban állnak meg.",
+                "ro": "Autobuzele opresc chiar în centru.",
+                "en": "Buses stop directly in the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buvette de la Plage",
+                "tip": "Ein schneller Snack mit Meerblick nach der Zugfahrt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buvette de la Plage",
+                "tip": "Egy gyors harapnivaló tengeri kilátással a vonatozás után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buvette de la Plage",
+                "tip": "O gustare rapidă cu vedere la mare după călătoria cu trenul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buvette de la Plage",
+                "tip": "A quick snack with a sea view after your train ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jetée Bélisaire",
+                "tip": "Der perfekte Ort, um das Kommen und Gehen der Schiffe zu beobachten.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bélisaire móló",
+                "tip": "Tökéletes hely a hajók jövés-menésének megfigyelésére.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jetée Bélisaire",
+                "tip": "Locul perfect pentru a urmări plecarea și sosirea vapoarelor.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jetée Bélisaire",
+                "tip": "The perfect spot to watch the ships come and go.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs du Petit Train",
+                "tip": "Kleine Modelle und Postkarten der berühmten Bahn."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Petit Train szuvenírek",
+                "tip": "A híres kisvonat modelljei és képeslapok kaphatók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Petit Train",
+                "tip": "Machete și cărți poștale cu celebrul trenuleț."
+              }
+            ],
+            "en": [
+              {
+                "name": "Petit Train Souvenirs",
+                "tip": "Small models and postcards of the famous train."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne des 'Petit Train', er fährt nicht das ganze Jahr.",
+              "Die 'Navette' Busse sind eine gute Möglichkeit, zwischen den Dörfern zu reisen.",
+              "Kaufen Sie Ihre Fährtickets nach Arcachon im Voraus.",
+              "Am späten Nachmittag können die Busse und Bahnen sehr voll sein."
+            ],
+            "hu": [
+              "Ellenőrizze a 'Petit Train' menetrendjét, nem jár egész évben.",
+              "A 'Navette' buszok jó lehetőséget kínálnak a falvak közötti utazásra.",
+              "Vásárolja meg előre a kompjegyét Arcachon felé.",
+              "Késő délután a buszok és a kisvonat is nagyon zsúfolt lehet."
+            ],
+            "ro": [
+              "Verificați orarul 'Petit Train', acesta nu circulă tot anul.",
+              "Autobuzele 'Navette' sunt o modalitate bună de a călători între sate.",
+              "Cumpărați biletele de feribot spre Arcachon în avans.",
+              "După-amiaza târziu, autobuzele și trenulețul pot fi foarte aglomerate."
+            ],
+            "en": [
+              "Check the 'Petit Train' schedule; it doesn't run all year round.",
+              "The 'Navette' shuttle buses are a great way to travel between villages.",
+              "Purchase your ferry tickets back to Arcachon in advance.",
+              "Buses and the train can get very crowded in the late afternoon."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus pendeln wir zwischen den Regenpausen. Mittags bietet der Markt Schutz und leckere Snacks. Nachmittags besuchen wir das Leuchtturmmuseum und das Austerndorf. Der Abend klingt bei einer Fahrt durch die nasse Landschaft gemütlich aus.",
+            "hu": "A buszozást az esőszünetekhez igazítjuk. Délben a piac nyújt menedéket és finom falatokat. Délután a világítótorony múzeumát és az osztrigás falut keressük fel. Az este kényelmesen telik a vizes tájon átívelő utazással.",
+            "ro": "Circulăm cu autobuzul între pauzele de ploaie. La prânz piața oferă adăpost și gustări delicioase. După-amiaza vizităm muzeul farului și satul de stridii. Seara se încheie confortabil cu o călătorie prin peisajul ud.",
+            "en": "We commute by bus between rain breaks. At noon, the market offers shelter and tasty snacks. In the afternoon, we visit the lighthouse museum and the oyster village. The evening ends comfortably with a ride through the wet landscape."
+          },
+          "stops": [
+            {
+              "name": "Jetée Bélisaire",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat wenig Schutz.",
+                "hu": "A buszmegálló kevés védelmet nyújt.",
+                "ro": "Stația de autobuz are puțin adăpost.",
+                "en": "The bus stop has little shelter."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Buszeiten genau beachten.",
+                "hu": "Pontosan kövesse a busz menetrendjét.",
+                "ro": "Respectați orele autobuzului.",
+                "en": "Check bus times carefully."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Museumsbereich ist überdacht.",
+                "hu": "A múzeumi rész fedett.",
+                "ro": "Zona muzeului este acoperită.",
+                "en": "The museum area is covered."
+              }
+            },
+            {
+              "name": "Oyster Village",
+              "tip_5lang": {
+                "de": "Weg zum Bus kann matschig sein.",
+                "hu": "A buszhoz vezető út saras lehet.",
+                "ro": "Drumul spre autobuz poate fi noroios.",
+                "en": "The path to the bus can be muddy."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Heimfahrt.",
+                "hu": "Utolsó megálló hazaindulás előtt.",
+                "ro": "Ultima stație înainte de plecare.",
+                "en": "Last stop before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeitdaten.",
+              "Haben Sie Kleingeld oder Karte bereit.",
+              "Warten Sie im Trockenen bei Cafés.",
+              "Vermeiden Sie Stoßzeiten bei Regen.",
+              "Ein Poncho ist praktischer als ein Schirm."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű adatokhoz.",
+              "Legyen kéznél aprópénz vagy kártya.",
+              "Várjon száraz helyen, kávézókban.",
+              "Kerülje a csúcsidőt esőben.",
+              "A poncsó praktikusabb, mint az esernyő."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru date în timp real.",
+              "Aveți pregătit mărunțiș sau cardul.",
+              "Așteptați la adăpost în cafenele.",
+              "Evitați orele de vârf pe ploaie.",
+              "Poncoul este mai practic decât umbrela."
+            ],
+            "en": [
+              "Use the app for real-time data.",
+              "Have change or card ready.",
+              "Wait in the dry at cafes.",
+              "Avoid rush hours in the rain.",
+              "A poncho is more practical than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Stille Busfahrt durch die winterliche Ruhe. Mittags besuchen wir den Markt für ein warmes Mittagessen. Nachmittags steigen wir auf den Leuchtturm und blicken über das weite Becken. Der Tag endet früh bei der Rückfahrt im Dämmerlicht.",
+            "hu": "Csendes buszozás a téli nyugalomban. Délben meglátogatjuk a piacot egy meleg ebédre. Délután megmásszuk a világítótornyot, és a tágas öbölre tekintünk. A nap korán ér véget, az alkonyati visszautazással.",
+            "ro": "Călătorie liniștită cu autobuzul prin calmul iernii. La prânz vizităm piața pentru un prânz cald. După-amiaza urcăm în far și privim peste bazinul larg. Ziua se încheie devreme cu drumul de întoarcere în amurg.",
+            "en": "A quiet bus ride through the winter calm. At noon, we visit the market for a warm lunch. In the afternoon, we climb the lighthouse and look over the wide basin. The day ends early with the return journey in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Jetée Bélisaire",
+              "tip_5lang": {
+                "de": "Windgeschützt im Wartebereich sitzen.",
+                "hu": "Üljön a szélvédett váróteremben.",
+                "ro": "Stați în zona de așteptare ferită de vânt.",
+                "en": "Sit in the wind-sheltered waiting area."
+              }
+            },
+            {
+              "name": "Horizon Beach",
+              "tip_5lang": {
+                "de": "Winterfahrplan ist stark reduziert.",
+                "hu": "A téli menetrend erősen korlátozott.",
+                "ro": "Orarul de iarnă este foarte redus.",
+                "en": "Winter schedule is greatly reduced."
+              }
+            },
+            {
+              "name": "Cap Ferret Lighthouse",
+              "tip_5lang": {
+                "de": "Aussichtsplattform im Winter sehr windig.",
+                "hu": "A kilátó télen nagyon szeles.",
+                "ro": "Platforma de vizionare e vântoasă iarna.",
+                "en": "Viewing platform is very windy in winter."
+              }
+            },
+            {
+              "name": "Oyster Village",
+              "tip_5lang": {
+                "de": "Letzter Bus fährt oft vor 18 Uhr.",
+                "hu": "Az utolsó busz gyakran 18 óra előtt indul.",
+                "ro": "Ultimul autobuz pleacă adesea înainte de 18.",
+                "en": "Last bus often leaves before 18:00."
+              }
+            },
+            {
+              "name": "Cap Ferret Market",
+              "tip_5lang": {
+                "de": "Gemütlicher Ausklang im Marktcafé.",
+                "hu": "Kellemes lezárás a piaci kávézóban.",
+                "ro": "Final plăcut în cafeneaua pieței.",
+                "en": "Cozy ending in the market cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan.",
+              "Tragen Sie warme Schuhe zum Warten.",
+              "Planen Sie Pufferzeiten ein.",
+              "Nutzen Sie die Zeit zum Lesen im Bus.",
+              "Vermeiden Sie die letzte Fahrt des Tages."
+            ],
+            "hu": [
+              "Vegye figyelembe a téli menetrendet.",
+              "Viseljen meleg cipőt a várakozáshoz.",
+              "Tervezzen be tartalék időt.",
+              "Használja ki az időt olvasásra a buszon.",
+              "Kerülje a nap utolsó járatát."
+            ],
+            "ro": [
+              "Țineți cont de orarul de iarnă.",
+              "Purtați încălțăminte caldă pentru așteptare.",
+              "Planificați timpi de rezervă.",
+              "Folosiți timpul pentru citit în autobuz.",
+              "Evitați ultima cursă a zilei."
+            ],
+            "en": [
+              "Note the winter schedule.",
+              "Wear warm shoes for waiting.",
+              "Plan buffer times into your schedule.",
+              "Use the time for reading on the bus.",
+              "Avoid taking the last trip of the day."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.lege-capferret.com/",
-    "events": "https://www.lege-capferret.com/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.infotbm.com/en",
-    "language_tips": {
-      "de": "Cap Ferret ist franzoesisches Sommer-Chic, viele Pariser haben hier Haeuser. Englisch klappt in Strandrestaurants und Austernbars, aber ein lockeres 'bonjour' und 'merci' ist Teil des entspannten Atlantik-Stils.",
-      "hu": "Cap Ferret a francia nyari sikk, sok parizsinak van itt haza. Az angol megy a strandettermekben es osztrigabarokban, de egy laza 'bonjour' es 'merci' hozzatartozik az atlanti partszakasz kotetlen hangulatahoz.",
-      "ro": "Cap Ferret e chic-ul francez de vara, multi parizieni au case aici. Engleza merge in restaurantele de plaja si baruri cu stridii, dar un 'bonjour' si 'merci' lejer fac parte din stilul relaxat al Atlanticului.",
-      "en": "Cap Ferret is French summer chic — many Parisians have second homes here. English works at beach restaurants and oyster bars, but a relaxed 'bonjour' and 'merci' fits the Atlantic-coast vibe."
-    },
-    "best_time_to_visit": {
-      "de": "Juni und September sind perfekt: 22-26 Grad, warmes Atlantikwasser und Austern direkt aus dem Becken. Juli und August sind ueberlaufen mit Pariser Familien, Stau auf der einzigen Zufahrtsstrasse. Winter ist ruhig und stuermisch-schoen.",
-      "hu": "Junius es szeptember tokeletes: 22-26 fok, langyos Atlanti-ocean, friss osztrigak a medencebol. Julius-augusztus parizsi csaladokkal zsufolt, dugo az egyetlen bevezeto uton. Telen csendes, viharos szepseg.",
-      "ro": "Iunie si septembrie sunt perfecte: 22-26 grade, Atlantic cald si stridii proaspete din bazin. Iulie-august sunt sufocate de familiile pariziene, ambuteiaj pe singurul drum de acces. Iarna e linistita si frumos furtunoasa.",
-      "en": "June and September are perfect: 22-26°C, warm Atlantic water and oysters straight from the basin. July and August are packed with Parisian families and the single access road jams. Winter is quiet and stormy-beautiful."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicheres Resort, Hauptproblem ist Verkehr im August und Diebstaehle aus offenen Strandtaschen. Achten Sie auf Stroemungen am Ozean-Strand (Plage de l'Horizon), schwimmen Sie nur in bewachten Zonen.",
-      "hu": "Nagyon biztonsagos uduloltohely, fo gond a augusztusi forgalom es a nyitott strandtaskakbol valo lopas. Vigyazz az oceani oldal aramlasaival (Plage de l'Horizon), csak felugyelt szakaszon uszorat.",
-      "ro": "Statiune foarte sigura, principala problema fiind traficul din august si furturile din sacosele de plaja deschise. Atentie la curentii de pe partea oceanului (Plage de l'Horizon), inoata doar in zone supravegheate.",
-      "en": "Very safe resort; the main issues are August traffic and theft from open beach bags. Beware of strong currents on the ocean side (Plage de l'Horizon) — swim only in lifeguarded zones."
-    },
-    "parking_real_time": ""
   }
 }

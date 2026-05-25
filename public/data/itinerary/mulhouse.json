@@ -290,6 +290,420 @@
           "Most museums are closed on Mondays.",
           "Wear comfortable shoes for the cobblestone streets around the town hall."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Mulhouse auf der Place de la Réunion, umgeben von farbenfrohen Fassaden. Besuchen Sie den beeindruckenden Temple Saint-Étienne, bevor Sie in die Welt der Textilien eintauchen. Nach einem typisch elsässischen Mittagessen entspannen Sie im Parc Salvator. Beenden Sie den Tag mit einem weiten Blick über die Stadt von der markanten Tour de l'Europe.",
+            "hu": "Kezdje a napot Mulhouse szívében, a Place de la Réunion téren, színes homlokzatok között. Látogasson el a lenyűgöző Szent István-templomba, majd merüljön el a textilipar világában a múzeumban. Egy tipikus elzászi ebéd után lazítson a Salvator parkban. A napot a városra nyíló széles kilátással zárja a jellegzetes Európa-toronyból.",
+            "ro": "Începeți ziua în inima orașului Mulhouse, în Place de la Réunion, înconjurați de fațade colorate. Vizitați impresionantul Templu Saint-Étienne înainte de a pătrunde în lumea textilelor la muzeu. După un prânz tipic alsacian, relaxați-vă în Parcul Salvator. Încheiați ziua cu o vedere panoramică asupra orașului de la turnul Tour de l'Europe.",
+            "en": "Start your day in the heart of Mulhouse at Place de la Réunion, surrounded by colorful facades. Visit the impressive Saint-Étienne Temple before diving into the world of textiles at the museum. After a typical Alsatian lunch, relax in Parc Salvator. End the day with a wide view over the city from the distinctive Tour de l'Europe."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Rathaus im Renaissancestil.",
+                "hu": "Csodáld meg a reneszánsz stílusú városházát.",
+                "ro": "Admirați primăria în stil renascentist.",
+                "en": "Admire the Renaissance-style Town Hall."
+              }
+            },
+            {
+              "name": "Temple Saint-Étienne",
+              "tip_5lang": {
+                "de": "Die Glasfenster aus dem 14. Jahrhundert sind spektakulär.",
+                "hu": "A 14. századi üvegablakok látványosak.",
+                "ro": "Vitraliile din secolul al XIV-lea sunt spectaculoase.",
+                "en": "The 14th-century stained glass windows are spectacular."
+              }
+            },
+            {
+              "name": "Musée de l'Impression sur Étoffes",
+              "tip_5lang": {
+                "de": "Entdecken Sie die reiche Textilgeschichte der Stadt.",
+                "hu": "Fedezd fel a város gazdag textilipari múltját.",
+                "ro": "Descoperiți istoria textilă bogată a orașului.",
+                "en": "Discover the city's rich textile history."
+              }
+            },
+            {
+              "name": "Le 17 - Gastro Stop",
+              "tip_5lang": {
+                "de": "Probieren Sie die Fleischschnacka, eine lokale Spezialität.",
+                "hu": "Kóstold meg a Fleischschnackát, a helyi specialitást.",
+                "ro": "Gustați Fleischschnacka, o specialitate locală.",
+                "en": "Try the Fleischschnacka, a local specialty."
+              }
+            },
+            {
+              "name": "Parc Salvator",
+              "tip_5lang": {
+                "de": "Ein englischer Garten ideal für eine Pause.",
+                "hu": "Angolkert, amely ideális egy rövid pihenőre.",
+                "ro": "O grădină englezească ideală pentru o pauză.",
+                "en": "An English-style garden ideal for a break."
+              }
+            },
+            {
+              "name": "Tour de l'Europe",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick vom Restaurant aus.",
+                "hu": "Élvezd a panorámát az étteremből.",
+                "ro": "Bucurați-vă de panorama de la restaurant.",
+                "en": "Enjoy the panoramic view from the restaurant."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le 17",
+                "tip": "Moderne elsässische Küche im Zentrum."
+              },
+              {
+                "name": "Auberge des Franciscains",
+                "tip": "Traditionelle Sauerkrautgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le 17",
+                "tip": "Modern elzászi konyha a központban."
+              },
+              {
+                "name": "Auberge des Franciscains",
+                "tip": "Hagyományos savanyú káposztás ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le 17",
+                "tip": "Bucătărie alsaciană modernă în centru."
+              },
+              {
+                "name": "Auberge des Franciscains",
+                "tip": "Preparate tradiționale cu varză călită."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le 17",
+                "tip": "Modern Alsatian cuisine in the center."
+              },
+              {
+                "name": "Auberge des Franciscains",
+                "tip": "Traditional sauerkraut dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc Salvator",
+                "tip": "Ruhiger Park mit seltenen Bäumen.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Bourse",
+                "tip": "Ein friedlicher Platz im Stadtzentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc Salvator",
+                "tip": "Csendes park ritka fákkal.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Bourse",
+                "tip": "Békés tér a városközpontban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc Salvator",
+                "tip": "Parc liniștit cu arbori rari.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Bourse",
+                "tip": "O piață liniștită în centrul orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc Salvator",
+                "tip": "Quiet park with rare trees.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Bourse",
+                "tip": "A peaceful square in the city center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché du Canal Couvert",
+                "tip": "Einer der größten Märkte im Osten Frankreichs."
+              },
+              {
+                "name": "Boutique du Musée de l'Impression",
+                "tip": "Hochwertige Stoffe und Tücher."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché du Canal Couvert",
+                "tip": "Kelet-Franciaország egyik legnagyobb piaca."
+              },
+              {
+                "name": "Boutique du Musée de l'Impression",
+                "tip": "Kiváló minőségű szövetek és kendők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché du Canal Couvert",
+                "tip": "Una dintre cele mai mari piețe din estul Franței."
+              },
+              {
+                "name": "Boutique du Musée de l'Impression",
+                "tip": "Țesături și eșarfe de înaltă calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché du Canal Couvert",
+                "tip": "One of the largest markets in eastern France."
+              },
+              {
+                "name": "Boutique du Musée de l'Impression",
+                "tip": "High-quality fabrics and scarves."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Innenstadt ist kompakt und gut zu Fuß erkundbar.",
+              "Achten Sie auf die bemalten Fassaden ('Trompe-l'œil') in der Altstadt.",
+              "Die meisten Museen schließen montags.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster rund um das Rathaus."
+            ],
+            "hu": [
+              "A belváros kompakt és gyalogosan is könnyen bejárható.",
+              "Figyelje meg az óváros festett homlokzatait (trompe-l'œil).",
+              "A legtöbb múzeum hétfőn zárva tart.",
+              "Viseljen kényelmes cipőt a városháza körüli macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Centrul orașului este compact și ușor de explorat pe jos.",
+              "Observați fațadele pictate (trompe-l'œil) din orașul vechi.",
+              "Majoritatea muzeelor sunt închise lunea.",
+              "Purtați încălțăminte comodă pentru străzile pietruite din jurul primăriei."
+            ],
+            "en": [
+              "The city center is compact and easy to explore on foot.",
+              "Look out for the painted facades (trompe-l'œil) in the old town.",
+              "Most museums are closed on Mondays.",
+              "Wear comfortable shoes for the cobblestone streets around the town hall."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Place de la Réunion, wo die bunten Fassaden auch bei grauem Himmel leuchten. Die umliegenden Arkaden bieten perfekten Schutz vor den ersten Tropfen.\n\nMittags kehren Sie im Le 17 ein, um sich bei elsässischen Spezialitäten aufzuwärmen, während draußen der Regen gegen die Scheiben peitscht.\n\nDer Nachmittag gehört dem Textildruckmuseum. Hier tauchen Sie in die Geschichte der Stoffe ein, völlig unbeeindruckt vom Wetter draußen.\n\nAbends bietet der Blick von der Tour de l'Europe eine melancholische, aber faszinierende Sicht auf das nasse, glitzernde Mulhouse.",
+            "hu": "Kezdje a napot a Place de la Réunion-on, ahol a színes homlokzatok szürke égbolt alatt is ragyognak. A környező árkádok tökéletes védelmet nyújtanak az eső ellen.\n\nDélben térjen be a Le 17 étterembe, ahol elzászi specialitások mellett melegedhet fel, miközben kint az eső kopog az ablakon.\n\nA délután a Textilmúzeumé. Itt elmerülhet a kelmék történelmében, teljesen függetlenül a kinti időjárástól.\n\nEste a Tour de l'Europe tetejéről nyíló kilátás melankolikus, de lenyűgöző látványt nyújt a vizesen csillogó Mulhouse-ra.",
+            "ro": "Începeți ziua în Place de la Réunion, unde fațadele colorate strălucesc chiar și sub un cer cenușiu. Arcadele din jur oferă protecție perfectă împotriva primilor stropi.\n\nLa prânz, opriți-vă la Le 17 pentru a vă încălzi cu specialități alsaciene, în timp ce ploaia bate în geamuri afară.\n\nDupă-amiaza este dedicată Muzeului Imprimeurilor pe Țesături. Aici vă puteți cufunda în istoria textilelor, neafectați de vremea de afară.\n\nSeara, priveliștea de la Tour de l'Europe oferă o viziune melancolică, dar fascinantă, asupra orașului Mulhouse ud și strălucitor.",
+            "en": "Start your day at Place de la Réunion, where colorful facades shine even under grey skies. The surrounding arcades provide perfect shelter from the first drops.\n\nAt midday, stop by Le 17 to warm up with Alsatian specialties while the rain beats against the windows outside.\n\nThe afternoon belongs to the Museum of Printed Textiles. Here you can dive into the history of fabrics, completely unaffected by the weather outside.\n\nIn the evening, the view from the Tour de l'Europe offers a melancholic but fascinating sight of wet, glittering Mulhouse."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Arkaden am Rathaus als natürlichen Regenschirm.",
+                "hu": "Használja a városháza melletti történelmi árkádokat természetes esernyőként.",
+                "ro": "Folosiți arcadele istorice de lângă primărie ca umbrelă naturală.",
+                "en": "Use the historic arcades by the town hall as a natural umbrella."
+              }
+            },
+            {
+              "name": "Temple Saint-Étienne",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Ideális hely az építészet megcsodálására szárazon.",
+                "ro": "Un loc ideal pentru a admira arhitectura la adăpost.",
+                "en": "An ideal place to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Musée de l'Impression sur Étoffes",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für regnerische Nachmittage mit großen Ausstellungsflächen.",
+                "hu": "Tökéletes menedék esős délutánokra nagy kiállítóterekkel.",
+                "ro": "Refugiu perfect pentru după-amiezi ploioase, cu spații expoziționale vaste.",
+                "en": "Perfect refuge for rainy afternoons with large exhibition areas."
+              }
+            },
+            {
+              "name": "Le 17 - Gastro Stop",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster, um das Regenwetter gemütlich zu beobachten.",
+                "hu": "Foglaljon asztalt az ablaknál, hogy kényelmesen nézhesse az esőt.",
+                "ro": "Rezervați o masă la fereastră pentru a observa ploaia confortabil.",
+                "en": "Book a window table to watch the rainy weather comfortably."
+              }
+            },
+            {
+              "name": "Parc Salvator",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten zwar etwas Schutz, aber ein Schirm bleibt hier Pflicht.",
+                "hu": "A nagy fák adnak némi védelmet, de az esernyő itt kötelező marad.",
+                "ro": "Copacii mari oferă ceva protecție, dar umbrela rămâne obligatorie aici.",
+                "en": "The large trees offer some protection, but an umbrella is still a must here."
+              }
+            },
+            {
+              "name": "Tour de l'Europe",
+              "tip_5lang": {
+                "de": "Der Aufzug bringt Sie trocken nach oben; die Aussicht ist auch bei Nebel mystisch.",
+                "hu": "A lift szárazon visz fel; a kilátás ködben is misztikus.",
+                "ro": "Liftul vă duce sus la uscat; priveliștea este mistică chiar și în ceață.",
+                "en": "The elevator takes you up dry; the view is mystical even in fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mulhouse hat viele Passagen; nutzen Sie diese, um trocken zwischen den Plätzen zu wechseln.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt rutschig sein kann.",
+              "Die Museen bieten Garderoben für nasse Mäntel und Schirme.",
+              "Nutzen Sie die Straßenbahn für kurze Strecken zwischen den Vierteln.",
+              "Ein heißer Kakao in den Cafés am Place de la Réunion ist die beste Regenpause."
+            ],
+            "hu": [
+              "Mulhouse sok átjáróval rendelkezik; használja ezeket a száraz közlekedéshez.",
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszósak lehetnek.",
+              "A múzeumokban van ruhatár a vizes kabátok és esernyők számára.",
+              "Használja a villamost a negyedek közötti rövid távokhoz.",
+              "Egy forró kakaó a Place de la Réunion kávézóiban a legjobb esőszünet."
+            ],
+            "ro": [
+              "Mulhouse are multe pasaje; folosiți-le pentru a vă deplasa la uscat între piețe.",
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din centrul vechi poate fi alunecos.",
+              "Muzeele oferă garderobe pentru haine ude și umbrele.",
+              "Folosiți tramvaiul pentru distanțe scurte între cartiere.",
+              "O ciocolată caldă în cafenelele din Place de la Réunion este cea mai bună pauză de ploaie."
+            ],
+            "en": [
+              "Mulhouse has many passages; use them to move dry between squares.",
+              "Wear waterproof shoes as the cobblestones in the old town can be slippery.",
+              "Museums offer cloakrooms for wet coats and umbrellas.",
+              "Use the tram for short distances between neighborhoods.",
+              "A hot cocoa in the cafes at Place de la Réunion is the best rain break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter verwandelt sich der Place de la Réunion in ein Lichtermeer. Der Duft von Glühwein und gebrannten Mandeln liegt in der kalten Morgenluft.\n\nMittags bietet das Temple Saint-Étienne einen Moment der Stille und relative Wärme, bevor Sie sich im Le 17 bei einem kräftigen Eintopf stärken.\n\nDer Nachmittag im Textilmuseum ist besonders gemütlich, wenn es draußen früh dunkel wird und die Stoffe in warmem Licht präsentiert werden.\n\nDen Abend lassen Sie an der Tour de l'Europe ausklingen, wo die Weihnachtsbeleuchtung der Stadt von oben wie ein funkelnder Teppich wirkt.",
+            "hu": "Télen a Place de la Réunion fényárban úszik. A forralt bor és a pirított mandula illata lengi be a hideg reggeli levegőt.\n\nDélben a Temple Saint-Étienne a csend és a viszonylagos meleg pillanatát kínálja, mielőtt a Le 17-ben egy kiadós egytálétellel erősödne meg.\n\nA délután a Textilmúzeumban különösen hangulatos, amikor kint korán sötétedik, és a kelmék meleg fényben pompáznak.\n\nAz estét a Tour de l'Europe-nál zárja, ahonnan a város karácsonyi kivilágítása fentről úgy fest, mint egy szikrázó szőnyeg.",
+            "ro": "Iarna, Place de la Réunion se transformă într-o mare de lumini. Mirosul de vin fiert și migdale prăjite plutește în aerul rece al dimineții.\n\nLa prânz, Temple Saint-Étienne oferă un moment de liniște și căldură relativă, înainte de a vă întări cu o tocană consistentă la Le 17.\n\nDupă-amiaza la Muzeul Textilelor este deosebit de plăcută când afară se întunecă devreme, iar țesăturile sunt prezentate în lumină caldă.\n\nÎncheiați seara la Tour de l'Europe, unde luminile de Crăciun ale orașului par de sus ca un covor sclipitor.",
+            "en": "In winter, Place de la Réunion transforms into a sea of lights. The scent of mulled wine and roasted almonds hangs in the cold morning air.\n\nAt midday, Temple Saint-Étienne offers a moment of silence and relative warmth before you strengthen yourself with a hearty stew at Le 17.\n\nThe afternoon at the Textile Museum is especially cozy when it gets dark early outside and the fabrics are presented in warm light.\n\nEnd the evening at the Tour de l'Europe, where the city's Christmas lights look like a sparkling carpet from above."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt für lokales Kunsthandwerk und heißen Punsch.",
+                "hu": "Látogassa meg a karácsonyi vásárt helyi kézműves termékekért és forró puncsért.",
+                "ro": "Vizitați târgul de Crăciun pentru artizanat local și punch fierbinte.",
+                "en": "Visit the Christmas market for local handicrafts and hot punch."
+              }
+            },
+            {
+              "name": "Temple Saint-Étienne",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter stimmungsvolle Orgelkonzerte statt.",
+                "hu": "Télen gyakran tartanak itt hangulatos orgonakoncerteket.",
+                "ro": "Adesea aici au loc concerte de orgă impresionante în timpul iernii.",
+                "en": "Atmospheric organ concerts often take place here in winter."
+              }
+            },
+            {
+              "name": "Musée de l'Impression sur Étoffes",
+              "tip_5lang": {
+                "de": "Die Museumsshops bieten exklusive Winterschals mit historischen Mustern.",
+                "hu": "A múzeumi bolt exkluzív téli sálakat kínál történelmi mintákkal.",
+                "ro": "Magazinele muzeului oferă eșarfe de iarnă exclusive cu modele istorice.",
+                "en": "Museum shops offer exclusive winter scarves with historic patterns."
+              }
+            },
+            {
+              "name": "Le 17 - Gastro Stop",
+              "tip_5lang": {
+                "de": "Probieren Sie unbedingt das saisonale Wildgericht oder Fondue.",
+                "hu": "Mindenképpen kóstolja meg a szezonális vadételt vagy a fonduet.",
+                "ro": "Nu ratați mâncărurile de vânat de sezon sau fondu-ul.",
+                "en": "Be sure to try the seasonal game dish or fondue."
+              }
+            },
+            {
+              "name": "Parc Salvator",
+              "tip_5lang": {
+                "de": "Bei Schnee verwandelt sich der Park in eine glitzernde Winterlandschaft.",
+                "hu": "Hó esetén a park szikrázó téli tájjá változik.",
+                "ro": "Dacă ninge, parcul se transformă într-un peisaj de iarnă sclipitor.",
+                "en": "In case of snow, the park transforms into a sparkling winter landscape."
+              }
+            },
+            {
+              "name": "Tour de l'Europe",
+              "tip_5lang": {
+                "de": "Bester Spot, um das Lichtermeer der Stadt ab 17:00 Uhr zu bewundern.",
+                "hu": "A legjobb hely a város fényeinek megcsodálására 17:00 után.",
+                "ro": "Cel mai bun loc pentru a admira marea de lumini a orașului după ora 17:00.",
+                "en": "Best spot to admire the city lights starting from 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter; planen Sie Ihre Fotos entsprechend.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig für den Wechsel zwischen Kälte und beheizten Museen.",
+              "Mulhouse ist berühmt für seine Weihnachtsstoffe; achten Sie auf die Dekorationen.",
+              "Die öffentlichen Verkehrsmittel sind beheizt und bieten eine gute Aufwärmpause.",
+              "Tragen Sie Schuhe mit gutem Profil, da manche Gassen glatt sein können."
+            ],
+            "hu": [
+              "A nap télen 16:45 körül nyugszik; tervezze a fotókat ehhez igazodva.",
+              "A réteges öltözködés fontos a kinti hideg és a fűtött múzeumok közötti váltáshoz.",
+              "Mulhouse híres a karácsonyi szöveteiről; figyelje a dekorációkat.",
+              "A tömegközlekedés fűtött, jó lehetőséget ad a felmelegedésre.",
+              "Viseljen jó tapadású cipőt, mert egyes utcák csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune iarna în jur de 16:45; planificați fotografiile în consecință.",
+              "Sistemul de îmbrăcăminte în straturi e important pentru trecerea de la frig la muzee încălzite.",
+              "Mulhouse este faimos pentru țesăturile de Crăciun; atenție la decorațiuni.",
+              "Transportul public este încălzit și oferă o pauză bună de încălzire.",
+              "Purtați încălțăminte cu aderență bună, deoarece unele străduțe pot fi alunecoase."
+            ],
+            "en": [
+              "Sunset in winter is around 4:45 PM; plan your photos accordingly.",
+              "Layering clothing is important for switching between cold outdoors and heated museums.",
+              "Mulhouse is famous for its Christmas fabrics; look out for the decorations.",
+              "Public transport is heated and provides a good warm-up break.",
+              "Wear shoes with good grip as some alleys can be slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -540,6 +954,377 @@
           "The climb to Rebberg is a bit steeper but worth it.",
           "Always lock your bike securely near museums."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Mulhouse auf zwei Rädern! Starten Sie mit der weltberühmten Schlumpf-Sammlung in der Cité de l'Automobile. Radeln Sie entspannt am Kanal entlang in den Süden der Stadt zum Rebberg-Viertel. Genießen Sie ein Picknick am Belvédère, bevor Sie den prächtigen Zoo und Botanischen Garten besuchen. Der Blick vom Belvédère-Turm ist der krönende Abschluss.",
+            "hu": "Fedezze fel Mulhouse-t két keréken! Kezdje a világhírű Schlumpf-gyűjteménnyel az Autómúzeumban. Tekerjen kényelmesen a csatorna mentén a város déli részébe, a Rebberg negyedbe. Élvezze a pikniket a Belvédère-nél, mielőtt meglátogatná a pompás Állat- és Botanikus Kertet. A Belvédère-toronyból nyíló kilátás a tökéletes befejezés.",
+            "ro": "Explorați Mulhouse pe două roți! Începeți cu faimoasa colecție Schlumpf de la Orașul Automobilului. Mergeți cu bicicleta de-a lungul canalului spre sudul orașului, în cartierul Rebberg. Bucurați-vă de un picnic la Belvédère înainte de a vizita splendida Grădină Zoologică și Botanică. Vederea de la turnul Belvédère este finalul perfect.",
+            "en": "Explore Mulhouse on two wheels! Start with the world-famous Schlumpf collection at the Cité de l'Automobile. Cycle leisurely along the canal to the south of the city into the Rebberg district. Enjoy a picnic at Belvédère before visiting the magnificent Zoological and Botanical Garden. The view from the Belvédère tower is the perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": "Cité de l'Automobile",
+              "tip_5lang": {
+                "de": "Die größte Automobilsammlung der Welt.",
+                "hu": "A világ legnagyobb autógyűjteménye.",
+                "ro": "Cea mai mare colecție de automobile din lume.",
+                "en": "The largest automobile collection in the world."
+              }
+            },
+            {
+              "name": "Canal du Rhône au Rhin",
+              "tip_5lang": {
+                "de": "Radeln Sie entlang des ruhigen Kanalufers.",
+                "hu": "Tekeregj végig a csendes csatornaparton.",
+                "ro": "Mergeți cu bicicleta de-a lungul canalului liniștit.",
+                "en": "Cycle along the quiet canal bank."
+              }
+            },
+            {
+              "name": "Le Belvédère - Picnic Spot",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause mit Aussicht.",
+                "hu": "Tökéletes hely egy kilátással egybekötött pihenőre.",
+                "ro": "Loc perfect pentru o pauză cu vedere.",
+                "en": "Perfect spot for a break with a view."
+              }
+            },
+            {
+              "name": "Parc Zoologique et Botanique",
+              "tip_5lang": {
+                "de": "Ein 25 Hektar großer Park mit seltenen Tierarten.",
+                "hu": "25 hektáros park ritka állatfajokkal.",
+                "ro": "Un parc de 25 de hectare cu specii rare de animale.",
+                "en": "A 25-hectare park with rare animal species."
+              }
+            },
+            {
+              "name": "Tour du Belvédère",
+              "tip_5lang": {
+                "de": "Blick bis zum Schwarzwald und den Alpen.",
+                "hu": "Kilátás a Fekete-erdőig és az Alpokig.",
+                "ro": "Vedere până la Pădurea Neagră și Alpi.",
+                "en": "View as far as the Black Forest and the Alps."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge du Zoo",
+                "tip": "Gute Küche in historischem Rahmen."
+              },
+              {
+                "name": "Le Pantographe",
+                "tip": "Trendiges Bistro in industriellem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge du Zoo",
+                "tip": "Jó konyha történelmi környezetben."
+              },
+              {
+                "name": "Le Pantographe",
+                "tip": "Trendi bisztró ipari környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge du Zoo",
+                "tip": "Bucătărie bună într-un cadru istoric."
+              },
+              {
+                "name": "Le Pantographe",
+                "tip": "Bistro modern într-un ambient industrial."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge du Zoo",
+                "tip": "Good cuisine in a historical setting."
+              },
+              {
+                "name": "Le Pantographe",
+                "tip": "Trendy bistro in an industrial atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canal du Rhône au Rhin",
+                "tip": "Grüner Radweg am Wasser.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Rebberg Viertel",
+                "tip": "Ruhiges Villenviertel mit viel Grün.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canal du Rhône au Rhin",
+                "tip": "Zöld kerékpárút a víz mellett.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Rebberg negyed",
+                "tip": "Csendes villanegyed sok zölddel.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canal du Rhône au Rhin",
+                "tip": "Pistă de biciclete verde pe malul apei.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Cartierul Rebberg",
+                "tip": "Cartier liniștit de vile cu multă verdeață.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal du Rhône au Rhin",
+                "tip": "Green cycle path by the water.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Rebberg district",
+                "tip": "Quiet villa district with lots of greenery.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vélostation",
+                "tip": "Fahrradverleih und Zubehör direkt am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vélostation",
+                "tip": "Kerékpárkölcsönzés és kiegészítők a vasútállomásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vélostation",
+                "tip": "Închirieri biciclete și accesorii chiar la gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vélostation",
+                "tip": "Bike rental and accessories right at the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mulhouse bietet viele markierte Radwege.",
+              "Nutzen Sie das Verleihsystem 'VéloCité'.",
+              "Der Anstieg zum Rebberg ist etwas steiler, aber lohnenswert.",
+              "Schließen Sie Ihr Rad in der Nähe der Museen immer gut ab."
+            ],
+            "hu": [
+              "Mulhouse számos kijelölt kerékpárúttal rendelkezik.",
+              "Használja a 'VéloCité' közösségi kerékpárrendszert.",
+              "A Rebberg-dombra vezető emelkedő meredekebb, de megéri.",
+              "Mindig jól zárja le a kerékpárját a múzeumok közelében."
+            ],
+            "ro": [
+              "Mulhouse oferă multe piste de biciclete marcate.",
+              "Utilizați sistemul de închiriere 'VéloCité'.",
+              "Urcarea spre Rebberg este ceva mai abruptă, dar merită.",
+              "Încuiați-vă întotdeauna bine bicicleta în apropierea muzeelor."
+            ],
+            "en": [
+              "Mulhouse offers many marked cycle paths.",
+              "Use the 'VéloCité' bike-sharing system.",
+              "The climb to Rebberg is a bit steeper but worth it.",
+              "Always lock your bike securely near museums."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad beginnt in der Cité de l'Automobile, wo Hunderte Klassiker unter einem sicheren Dach glänzen.\n\nMittags radeln Sie am Canal du Rhône au Rhin entlang. Das Plätschern des Regens auf dem Wasser hat eine beruhigende Wirkung.\n\nDer Nachmittag am Belvédère erfordert wasserfeste Ausrüstung, aber der Blick auf das im Nebel versinkende Umland ist einzigartig.\n\nZum Abschluss bietet der Zoo trotz Regen viele überdachte Pavillons, in denen Sie die Tierwelt im Trockenen beobachten können.",
+            "hu": "Egy esős bringás nap az Autómúzeumban kezdődik, ahol több száz klasszikus ragyog a biztonságos tető alatt.\n\nDélben a Canal du Rhône au Rhin mentén tekerhet. Az eső kopogása a vízen nyugtató hatású.\n\nA délután a Belvédère-nél vízálló felszerelést igényel, de a ködbe vesző környék látványa egyedülálló.\n\nVégezetül a Zoo az eső ellenére sok fedett pavilont kínál, ahol szárazon figyelheti az állatvilágot.",
+            "ro": "O zi ploioasă pe bicicletă începe la Cité de l'Automobile, unde sute de mașini clasice strălucesc sub un acoperiș sigur.\n\nLa prânz, pedalați de-a lungul Canalului Rhône au Rhin. Susurul ploii pe apă are un efect liniștitor.\n\nDupă-amiaza la Belvédère necesită echipament impermeabil, dar vederea zonei înconjurătoare pierdută în ceață este unică.\n\nLa final, Grădina Zoologică oferă, în ciuda ploii, multe pavilioane acoperite unde puteți observa animalele la uscat.",
+            "en": "A rainy day on a bike starts at the Cité de l'Automobile, where hundreds of classics shine under a secure roof.\n\nAt midday, cycle along the Canal du Rhône au Rhin. The patter of rain on the water has a calming effect.\n\nThe afternoon at the Belvédère requires waterproof gear, but the view of the surroundings fading into the fog is unique.\n\nFinally, the Zoo offers many covered pavilions despite the rain, where you can watch the wildlife while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Cité de l'Automobile",
+              "tip_5lang": {
+                "de": "Großer bewachter Fahrradabstellplatz direkt am Eingang.",
+                "hu": "Nagy őrzött kerékpártároló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare supravegheată pentru biciclete chiar la intrare.",
+                "en": "Large guarded bike parking right at the entrance."
+              }
+            },
+            {
+              "name": "Canal du Rhône au Rhin",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf dem Radweg; fahren Sie vorausschauend.",
+                "hu": "Vigyázat a vizes levelekkel a kerékpárúton; tekerjen óvatosan.",
+                "ro": "Atenție la frunzele ude pe pistă; conduceți cu prudență.",
+                "en": "Watch out for wet leaves on the cycle path; ride defensively."
+              }
+            },
+            {
+              "name": "Le Belvédère - Picnic Spot",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterstände für eine kurze, trockene Pause.",
+                "hu": "Használja a menedékhelyeket egy rövid, száraz szünethez.",
+                "ro": "Folosiți adăposturile pentru o scurtă pauză uscată.",
+                "en": "Use the shelters for a short, dry break."
+              }
+            },
+            {
+              "name": "Parc Zoologique et Botanique",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter und erkunden Sie die Tropenhäuser.",
+                "hu": "Parkolja le a bringát, és fedezze fel a trópusi házakat.",
+                "ro": "Parcați bicicleta și explorați casele tropicale.",
+                "en": "Park the bike and explore the tropical houses."
+              }
+            },
+            {
+              "name": "Tour du Belvédère",
+              "tip_5lang": {
+                "de": "Metallstufen können bei Regen extrem rutschig sein; Handlauf nutzen.",
+                "hu": "A fémlépcsők esőben rendkívül csúszósak lehetnek; használja a korlátot.",
+                "ro": "Treptele metalice pot fi extrem de alunecoase pe ploaie; folosiți balustrada.",
+                "en": "Metal steps can be extremely slippery in the rain; use the handrail."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein Cape oder eine Regenhose; der Fahrtwind kühlt bei Nässe stark aus.",
+              "Vermeiden Sie das Bremsen auf nassen Tramschienen in der Innenstadt.",
+              "Die Leihräder (Vélo'v) haben oft nasse Sättel; nehmen Sie ein Tuch zum Abwischen mit.",
+              "Nutzen Sie die Radwege entlang des Kanals, sie sind weniger stauanfällig.",
+              "Viele Cafés erlauben das Abstellen von Rädern in Sichtweite unter Markisen."
+            ],
+            "hu": [
+              "Viseljen esőköpenyt vagy esőnadrágot; a menetszél vizesen nagyon hűt.",
+              "Kerülje a fékezést a vizes villamossíneken a belvárosban.",
+              "A bérbringák nyerge gyakran vizes; vigyen magával törlőkendőt.",
+              "Használja a csatorna menti kerékpárutakat, ott kisebb a forgalom.",
+              "Sok kávézó megengedi a bringák tárolását látótávolságban a napellenzők alatt."
+            ],
+            "ro": [
+              "Purtați o pelerină sau pantaloni de ploaie; vântul vă răcește puternic când sunteți ud.",
+              "Evitați frânarea pe șinele de tramvai ude în centrul orașului.",
+              "Bicicletele de închiriat au adesea șeile ude; luați o cârpă pentru a le șterge.",
+              "Folosiți pistele de-a lungul canalului, sunt mai puțin aglomerate.",
+              "Multe cafenele permit parcarea bicicletelor la vedere sub copertine."
+            ],
+            "en": [
+              "Wear a cape or rain pants; the wind chill is much stronger when wet.",
+              "Avoid braking on wet tram tracks in the city center.",
+              "Rental bikes often have wet saddles; bring a cloth to wipe them.",
+              "Use the cycle paths along the canal as they are less prone to traffic.",
+              "Many cafes allow parking bikes within sight under awnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Mulhouse beginnt frisch. Der Weg zur Cité de l'Automobile führt durch die klare, frostige Morgenluft.\n\nMittags ist die Fahrt am Kanal besonders ruhig; Raureif an den Bäumen verwandelt die Strecke in eine Märchenlandschaft.\n\nNachmittags am Belvédère wärmt die tiefstehende Wintersonne das Gesicht, bevor es zum Zoo geht.\n\nDer Abend endet früh, aber die beleuchtete Tour du Belvédère weist Ihnen den Weg zurück in die Stadt, während die Kälte in den Fingern beißt.",
+            "hu": "A téli tekerés Mulhouse-ban frissen indul. Az út az Autómúzeumhoz a tiszta, fagyos reggeli levegőn át vezet.\n\nDélben a csatorna menti út különösen csendes; a zúzmarás fák tündérmesévé varázsolják a szakaszt.\n\nDélután a Belvédère-nél az alacsonyan járó téli nap melengeti az arcot, mielőtt a Zoo felé indulna.\n\nAz este korán érkezik, de a kivilágított Tour du Belvédère mutatja az utat vissza a városba, miközben a hideg csípi az ujjait.",
+            "ro": "Pedalatul de iarnă în Mulhouse începe proaspăt. Drumul spre Cité de l'Automobile trece prin aerul curat și înghețat al dimineții.\n\nLa prânz, plimbarea pe canal este deosebit de liniștită; chiciura de pe copaci transformă traseul într-un peisaj de poveste.\n\nDupă-amiaza la Belvédère, soarele jos de iarnă vă încălzește fața înainte de a merge la grădina zoologică.\n\nSeara se termină devreme, dar Tour du Belvédère iluminat vă arată drumul înapoi spre oraș, în timp ce frigul vă pișcă degetele.",
+            "en": "Winter cycling in Mulhouse starts fresh. The ride to the Cité de l'Automobile leads through the clear, frosty morning air.\n\nAt midday, the ride along the canal is particularly quiet; hoarfrost on the trees transforms the route into a fairytale landscape.\n\nIn the afternoon at the Belvédère, the low winter sun warms your face before heading to the Zoo.\n\nThe evening ends early, but the illuminated Tour du Belvédère shows you the way back to the city while the cold bites your fingers."
+          },
+          "stops": [
+            {
+              "name": "Cité de l'Automobile",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um Ihre Hände in der Ausstellung aufzuwärmen.",
+                "hu": "Használja ki a látogatást, hogy felmelegítse a kezeit a kiállításon.",
+                "ro": "Folosiți vizita pentru a vă încălzi mâinile în expoziție.",
+                "en": "Use the visit to warm up your hands in the exhibition."
+              }
+            },
+            {
+              "name": "Canal du Rhône au Rhin",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisstellen im Schatten der Bäume.",
+                "hu": "Ügyeljen a jeges foltokra a fák árnyékában.",
+                "ro": "Atenție la porțiunile de polei la umbra copacilor.",
+                "en": "Watch out for icy spots in the shadows of trees."
+              }
+            },
+            {
+              "name": "Le Belvédère - Picnic Spot",
+              "tip_5lang": {
+                "de": "Ein heißer Tee aus der Thermoskanne ist hier ein Muss.",
+                "hu": "Egy forró tea a termoszból itt kötelező.",
+                "ro": "Un ceai fierbinte din termos este obligatoriu aici.",
+                "en": "A hot tea from a thermos is a must here."
+              }
+            },
+            {
+              "name": "Parc Zoologique et Botanique",
+              "tip_5lang": {
+                "de": "Viele Tiere sind im Winter in den beheizten Innengehegen zu sehen.",
+                "hu": "Sok állat télen a fűtött belső kifutókban látható.",
+                "ro": "Multe animale pot fi văzute iarna în incintele interioare încălzite.",
+                "en": "Many animals can be seen in the heated indoor enclosures in winter."
+              }
+            },
+            {
+              "name": "Tour du Belvédère",
+              "tip_5lang": {
+                "de": "Der Metallturm leitet die Kälte stark; Handschuhe sind unverzichtbar.",
+                "hu": "A fémtorony nagyon vezeti a hideget; a kesztyű elengedhetetlen.",
+                "ro": "Turnul metalic transmite puternic frigul; mănușile sunt indispensabile.",
+                "en": "The metal tower conducts cold strongly; gloves are indispensable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und eine Mütze unter dem Helm sind bei Minusgraden Pflicht.",
+              "Prüfen Sie den Reifendruck; bei Kälte sinkt er leicht ab.",
+              "Die Tage sind kurz; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Planen Sie mehr Zeit ein, da man bei Kälte langsamer vorankommt.",
+              "Ein Stopp für eine heiße Suppe in der Nähe des Hafens wirkt Wunder."
+            ],
+            "hu": [
+              "Jó kesztyű és sapka a sisak alatt kötelező mínuszok esetén.",
+              "Ellenőrizze a guminyomást; hidegben könnyen lecsökken.",
+              "A nappalok rövidek; győződjön meg róla, hogy a világítás működik.",
+              "Tervezzen több időt, mert hidegben lassabban halad az ember.",
+              "Egy megálló egy forró levesre a kikötő közelében csodákra képes."
+            ],
+            "ro": [
+              "Mănușile bune și o căciulă sub cască sunt obligatorii la temperaturi negative.",
+              "Verificați presiunea în anvelope; aceasta scade ușor la frig.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Planificați mai mult timp, deoarece la frig se înaintează mai greu.",
+              "O oprire pentru o supă fierbinte lângă port face minuni."
+            ],
+            "en": [
+              "Good gloves and a hat under the helmet are mandatory in sub-zero temperatures.",
+              "Check tire pressure; it drops slightly in the cold.",
+              "Days are short; ensure your bike lights are working properly.",
+              "Plan for more time as travel is slower in the cold.",
+              "A stop for hot soup near the port works wonders."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -772,6 +1557,350 @@
           "Watch out for speed limits in the villages.",
           "Combine the visit to Cité du Train and Electropolis (combined ticket)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die großen Museen am Stadtrand mühelos. Beginnen Sie in der Cité du Train und im Electropolis. Am Nachmittag fahren Sie zum Écomusée d'Alsace in Ungersheim, einem Dorf aus historischen Fachwerkhäusern. Den Abschluss bildet die außergewöhnliche Abteikirche in Ottmarsheim, ein Meisterwerk der Romanik nahe der deutschen Grenze.",
+            "hu": "Autóval könnyedén elérheti a város szélén található nagy múzeumokat. Kezdjen a Cité du Train vasúti múzeumban és az Electropolisban. Délután utazzon az Ungersheimben található Écomusée d'Alsace-ba, amely történelmi favázas házakból álló falu. A napot az ottmarsheimi apátsági templom zárja, amely a román stílus remekműve a német határ közelében.",
+            "ro": "Cu mașina puteți ajunge fără efort la marile muzee de la marginea orașului. Începeți la Cité du Train și Electropolis. După-amiază, mergeți la Écomusée d'Alsace din Ungersheim, un sat format din case istorice cu bârne de lemn. Finalul aparține bisericii abațiale din Ottmarsheim, o capodoperă a stilului romanic aproape de granița cu Germania.",
+            "en": "By car, you can effortlessly reach the large museums on the outskirts. Start at the Cité du Train and Electropolis. In the afternoon, drive to the Écomusée d'Alsace in Ungersheim, a village made of historical half-timbered houses. The day concludes with the extraordinary abbey church in Ottmarsheim, a Romanesque masterpiece near the German border."
+          },
+          "stops": [
+            {
+              "name": "Cité du Train",
+              "tip_5lang": {
+                "de": "Das größte Eisenbahnmuseum Europas.",
+                "hu": "Európa legnagyobb vasúti múzeuma.",
+                "ro": "Cel mai mare muzeu feroviar din Europa.",
+                "en": "The largest railway museum in Europe."
+              }
+            },
+            {
+              "name": "Musée Electropolis",
+              "tip_5lang": {
+                "de": "Spannende Reise durch die Geschichte der Elektrizität.",
+                "hu": "Izgalmas utazás az elektromosság történetében.",
+                "ro": "O călătorie captivantă prin istoria electricității.",
+                "en": "Exciting journey through the history of electricity."
+              }
+            },
+            {
+              "name": "Écomusée d'Alsace",
+              "tip_5lang": {
+                "de": "Ein lebendiges Freilichtmuseum mit elsässischen Traditionen.",
+                "hu": "Élő szabadtéri múzeum elzászi hagyományokkal.",
+                "ro": "Un muzeu în aer liber viu cu tradiții alsaciene.",
+                "en": "A living open-air museum with Alsatian traditions."
+              }
+            },
+            {
+              "name": "Ottmarsheim Abteikirche",
+              "tip_5lang": {
+                "de": "Einzigartige romanische Kirche mit oktogonalem Grundriss.",
+                "hu": "Egyedülálló román stílusú templom oktogonális alaprajzzal.",
+                "ro": "Biserică romanică unică cu plan octogonal.",
+                "en": "Unique Romanesque church with an octagonal floor plan."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Taverne",
+                "tip": "Rustikales Restaurant im Écomusée."
+              },
+              {
+                "name": "Restaurant du Musée",
+                "tip": "Ideal für ein Mittagessen zwischen den Technik-Museen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Taverne",
+                "tip": "Rusztikus étterem az Écomusée területén."
+              },
+              {
+                "name": "Restaurant du Musée",
+                "tip": "Ideális ebédhelyszín a technikai múzeumok között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Taverne",
+                "tip": "Restaurant rustic în cadrul Écomusée."
+              },
+              {
+                "name": "Restaurant du Musée",
+                "tip": "Ideal pentru prânz între muzeele tehnice."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Taverne",
+                "tip": "Rustic restaurant in the Écomusée."
+              },
+              {
+                "name": "Restaurant du Musée",
+                "tip": "Ideal for lunch between the technical museums."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ottmarsheim am Rhein",
+                "tip": "Spaziergang am Rheinufer.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Garten des Electropolis",
+                "tip": "Überraschend ruhige Anlage.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ottmarsheim a Rajnánál",
+                "tip": "Séta a Rajna-parton.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Electropolis kertje",
+                "tip": "Meglepően csendes terület.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ottmarsheim pe Rin",
+                "tip": "Plimbare pe malul Rinului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Grădina Electropolis",
+                "tip": "O zonă surprinzător de liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ottmarsheim on the Rhine",
+                "tip": "Walk along the Rhine bank.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Garden of Electropolis",
+                "tip": "Surprisingly quiet grounds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Museumsshop Écomusée",
+                "tip": "Lokales Handwerk und regionale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Écomusée múzeumi bolt",
+                "tip": "Helyi kézműves termékek és regionális áruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Écomusée",
+                "tip": "Artizanat local și produse regionale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Écomusée Museum Shop",
+                "tip": "Local crafts and regional products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Es gibt ausreichend Parkplätze bei allen großen Museen.",
+              "Die A35 verbindet die Ziele schnell.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern.",
+              "Kombinieren Sie den Besuch von Cité du Train und Electropolis (Kombi-Ticket)."
+            ],
+            "hu": [
+              "Minden nagy múzeumnál bőséges parkolóhely áll rendelkezésre.",
+              "Az A35-ös út gyorsan összeköti a célpontokat.",
+              "Ügyeljen a sebességkorlátozásokra a falvakban.",
+              "Érdemes kombinálni a vasúti múzeum és az Electropolis látogatását."
+            ],
+            "ro": [
+              "Există locuri de parcare suficiente la toate muzeele mari.",
+              "Autostrada A35 conectează rapid destinațiile.",
+              "Atenție la limitele de viteză din sate.",
+              "Combinați vizitarea Cité du Train și Electropolis (bilet combinat)."
+            ],
+            "en": [
+              "There are plenty of parking spaces at all major museums.",
+              "The A35 connects the destinations quickly.",
+              "Watch out for speed limits in the villages.",
+              "Combine the visit to Cité du Train and Electropolis (combined ticket)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie heute bestens gerüstet. Die Cité du Train bietet stundenlange Unterhaltung in riesigen, trockenen Hallen.\n\nMittags geht es zum Electropolis direkt nebenan. Hier erfahren Sie alles über Elektrizität, während draußen Blitze und Regen das Wetter bestimmen.\n\nNachmittags im Écomusée d'Alsace können Sie zwischen den historischen Häusern flitzen. Jedes Gebäude bietet Schutz und spannende Einblicke.\n\nDer Tag endet in der Abteikirche Ottmarsheim, deren massive Mauern eine geborgene Atmosphäre gegen das stürmische Wetter bieten.",
+            "hu": "Autóval ma a legjobb úton jár. A Cité du Train órákig tartó szórakozást nyújt hatalmas, száraz csarnokaiban.\n\nDélben az Electropolis következik közvetlenül mellette. Itt mindent megtudhat az elektromosságról, miközben kint villámok és eső uralják az időt.\n\nDélután az Écomusée d'Alsace-ban cikázhat a történelmi házak között. Minden épület védelmet és izgalmas betekintést kínál.\n\nA nap az ottmarsheimi apátsági templomban ér véget, melynek vaskos falai biztonságos menedéket nyújtanak a viharos idő elől.",
+            "ro": "Cu mașina sunteți cel mai bine pregătiți astăzi. Cité du Train oferă ore de divertisment în hale uriașe și uscate.\n\nLa prânz, mergeți la Electropolis chiar alături. Aici aflați totul despre electricitate, în timp ce afară fulgerele și ploaia domină vremea.\n\nDupă-amiaza la Écomusée d'Alsace, puteți fugi de la o casă istorică la alta. Fiecare clădire oferă adăpost și perspective fascinante.\n\nZiua se încheie la Biserica Abatiale din Ottmarsheim, ale cărei ziduri masive oferă o atmosferă sigură împotriva vremii furtunoase.",
+            "en": "With a car, you are perfectly equipped today. The Cité du Train offers hours of entertainment in huge, dry halls.\n\nAt midday, head to Electropolis right next door. Here you will learn everything about electricity while lightning and rain dominate the weather outside.\n\nIn the afternoon at the Écomusée d'Alsace, you can dash between historic houses. Every building provides shelter and exciting insights.\n\nThe day ends at the Ottmarsheim Abbey Church, whose massive walls offer a cozy atmosphere against the stormy weather."
+          },
+          "stops": [
+            {
+              "name": "Cité du Train",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museum; kurzer Weg ins Trockene.",
+                "hu": "Nagy parkoló közvetlenül a múzeum előtt; rövid út a szárazig.",
+                "ro": "Parcare mare chiar în fața muzeului; drum scurt până la adăpost.",
+                "en": "Large parking lot right in front of the museum; short walk to stay dry."
+              }
+            },
+            {
+              "name": "Musée Electropolis",
+              "tip_5lang": {
+                "de": "Ideal kombinierbar mit der Cité du Train, um Regenphasen zu überbrücken.",
+                "hu": "Ideálisan kombinálható a Cité du Train-nel az esős fázisok áthidalására.",
+                "ro": "Ideal de combinat cu Cité du Train pentru a trece peste perioadele de ploaie.",
+                "en": "Ideal to combine with Cité du Train to bridge rainy periods."
+              }
+            },
+            {
+              "name": "Écomusée d'Alsace",
+              "tip_5lang": {
+                "de": "Tragen Sie festes Schuhwerk, die Wege zwischen den Häusern können matschig sein.",
+                "hu": "Viseljen zárt cipőt, a házak közötti utak sárosak lehetnek.",
+                "ro": "Purtați încălțăminte solidă, drumurile dintre case pot fi noroioase.",
+                "en": "Wear sturdy shoes as the paths between houses can be muddy."
+              }
+            },
+            {
+              "name": "Ottmarsheim Abteikirche",
+              "tip_5lang": {
+                "de": "Die Akustik ist bei Regen prasselnd auf dem Dach besonders beeindruckend.",
+                "hu": "Az akusztika az eső tetőn való kopogásakor különösen lenyűgöző.",
+                "ro": "Acustica este deosebit de impresionantă când ploaia bate pe acoperiș.",
+                "en": "The acoustics are particularly impressive when rain patters on the roof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt; Mulhouse kann starke Güsse haben.",
+              "Nutzen Sie die Parkhäuser in der Innenstadt für trockenen Zugang zu Geschäften.",
+              "Die Landstraßen Richtung Ottmarsheim können bei Nässe rutschig sein.",
+              "Lassen Sie nasse Schirme im Kofferraum, um die Scheiben nicht beschlagen zu lassen.",
+              "Die Museen sind weitläufig; planen Sie trotz Auto kurze Sprints im Freien ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket; Mulhouse-ban lehetnek heves záporok.",
+              "Használja a belvárosi parkolóházakat a boltok száraz megközelítéséhez.",
+              "Az Ottmarsheim felé vezető utak vizesen csúszósak lehetnek.",
+              "Hagyja a vizes esernyőket a csomagtartóban, hogy ne párásodjanak az ablakok.",
+              "A múzeumok kiterjedtek; az autó ellenére tervezzen rövid sprinteket a szabadban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare; Mulhouse poate avea averse puternice.",
+              "Folosiți parcările supraetajate din centru pentru acces uscat la magazine.",
+              "Drumurile spre Ottmarsheim pot fi alunecoase când sunt ude.",
+              "Lăsați umbrelele ude în portbagaj pentru a nu aburi geamurile.",
+              "Muzeele sunt vaste; în ciuda mașinii, planificați scurte sprinturi în aer liber."
+            ],
+            "en": [
+              "Check your wipers before departure; Mulhouse can have heavy downpours.",
+              "Use city center parking garages for dry access to shops.",
+              "Rural roads towards Ottmarsheim can be slippery when wet.",
+              "Leave wet umbrellas in the trunk to prevent windows from fogging up.",
+              "Museums are spread out; plan for short outdoor dashes despite having a car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen im Auto führt Sie zuerst zur beheizten Cité du Train. Die historischen Waggons wirken im Winterlicht besonders edel.\n\nMittags im Electropolis faszinieren die Tesla-Spulen, während Sie sich im warmen Foyer aufhalten.\n\nNachmittags im Écomusée erleben Sie elsässische Weihnachtstraditionen. In vielen Häusern brennen Kamine und es wird traditionell gebacken.\n\nZum Abendessen in Ottmarsheim wirkt die romanische Kirche in der Dunkelheit besonders feierlich und bietet einen würdigen Abschluss.",
+            "hu": "A téli reggel autóval először a fűtött Cité du Train-hez vezet. A történelmi vagonok a téli fényben különösen elegánsak.\n\nDélben az Electropolisban a Tesla-tekercsek nyűgözik le, miközben a meleg előtérben tartózkodik.\n\nDélután az Écomusée-ben elzászi karácsonyi hagyományokat ismerhet meg. Sok házban ég a kandalló és hagyományos sütemények sülnek.\n\nAz ottmarsheimi vacsorához a román stílusú templom a sötétben különösen ünnepélyes, méltó zárást nyújtva.",
+            "ro": "O dimineață de iarnă cu mașina vă duce mai întâi la Cité du Train încălzit. Vagoanele istorice par deosebit de elegante în lumina iernii.\n\nLa prânz, la Electropolis, bobinele Tesla fascinează în timp ce stați în foierul cald.\n\nDupă-amiaza, la Écomusée, experimentați tradițiile de Crăciun alsaciene. În multe case ard șemineele și se coace tradițional.\n\nPentru cină în Ottmarsheim, biserica romanică pare deosebit de festivă în întuneric, oferind o încheiere demnă.",
+            "en": "A winter morning by car leads you first to the heated Cité du Train. The historic carriages look particularly noble in the winter light.\n\nAt midday in Electropolis, the Tesla coils fascinate while you stay in the warm foyer.\n\nIn the afternoon at the Écomusée, you experience Alsatian Christmas traditions. Fireplaces burn in many houses and traditional baking takes place.\n\nFor dinner in Ottmarsheim, the Romanesque church looks particularly festive in the dark, providing a worthy conclusion."
+          },
+          "stops": [
+            {
+              "name": "Cité du Train",
+              "tip_5lang": {
+                "de": "Die Hallen sind riesig; behalten Sie Ihre Jacke an, da nicht alles voll beheizt ist.",
+                "hu": "A csarnokok hatalmasak; hagyja magán a kabátot, mert nem mindenhol fűtenek teljese.",
+                "ro": "Halele sunt uriașe; păstrați jacheta pe voi, deoarece nu totul este încălzit complet.",
+                "en": "The halls are huge; keep your jacket on as not everything is fully heated."
+              }
+            },
+            {
+              "name": "Musée Electropolis",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich bei den interaktiven Stationen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre az interaktív állomásoknál.",
+                "ro": "Loc perfect pentru a vă încălzi la stațiile interactive.",
+                "en": "Perfect place to warm up at the interactive stations."
+              }
+            },
+            {
+              "name": "Écomusée d'Alsace",
+              "tip_5lang": {
+                "de": "Wohlriechende Kamine und heiße Getränke in den historischen Stuben.",
+                "hu": "Illatos kandallók és forró italok a történelmi szobákban.",
+                "ro": "Șeminee parfumate și băuturi calde în odăile istorice.",
+                "en": "Fragrant fireplaces and hot drinks in the historic rooms."
+              }
+            },
+            {
+              "name": "Ottmarsheim Abteikirche",
+              "tip_5lang": {
+                "de": "Oft festlich beleuchtet; ideal für Abendfotos.",
+                "hu": "Gyakran ünnepi kivilágításban pompázik; ideális esti fotókhoz.",
+                "ro": "Adesea iluminată festiv; ideală pentru fotografii de seară.",
+                "en": "Often festively lit; ideal for evening photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Eiskratzer und Frostschutzmittel mit; Mulhouse kann sehr kalt werden.",
+              "Die Parkplätze am Écomusée können bei Frost glatt sein.",
+              "Nutzen Sie die Sitzheizung für die Fahrten zwischen den Vororten.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit, wenn Sie unsicher bei Glätte sind.",
+              "Die Wintermärkte in der Region sind mit dem Auto leicht erreichbar."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót és fagyállót; Mulhouse-ban nagyon hideg lehet.",
+              "Az Écomusée parkolói fagy esetén csúszósak lehetnek.",
+              "Használja az ülésfűtést a külvárosok közötti utakon.",
+              "Tervezze meg a visszautat sötétedés előtt, ha bizonytalan a csúszós úton.",
+              "A régió téli vásárai autóval könnyen elérhetőek."
+            ],
+            "ro": [
+              "Luați cu voi răzuitoare de gheață și antigel; Mulhouse poate fi foarte rece.",
+              "Parcările de la Écomusée pot fi alunecoase în caz de îngheț.",
+              "Folosiți încălzirea în scaune pentru drumurile între suburbii.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului dacă sunteți nesiguri pe polei.",
+              "Târgurile de iarnă din regiune sunt ușor accesibile cu mașina."
+            ],
+            "en": [
+              "Carry an ice scraper and antifreeze; Mulhouse can get very cold.",
+              "Parking lots at the Écomusée can be slippery in freezing conditions.",
+              "Use seat heating for drives between suburbs.",
+              "Plan your return trip before dark if you are unsure about icy roads.",
+              "Winter markets in the region are easily accessible by car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -984,34 +2113,331 @@
           "Validate your ticket at the machines on the platform before boarding.",
           "The announcements in the tram are also shown visually on screens."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mulhouse hat ein ausgezeichnetes Tram-Netz. Starten Sie im Zentrum und nehmen Sie die Tram 1 direkt zur Cité de l'Automobile. Nach der Besichtigung kehren Sie zum Hauptbahnhof zurück, einem historischen Verkehrsknotenpunkt. Von dort bringt Sie die Tram 3 oder der Tram-Train bequem zur Cité du Train. Ein effizienter Tag ganz ohne Parkplatzsorgen.",
+            "hu": "Mulhouse kiváló villamoshálózattal rendelkezik. Kezdjen a központban, és szálljon fel az 1-es villamosra, amely egyenesen az Autómúzeumhoz viszi. A látogatás után térjen vissza a központi pályaudvarra, amely történelmi közlekedési csomópont. Innen a 3-as villamos vagy a Tram-Train kényelmesen elviszi a vasúti múzeumba. Hatékony nap parkolási gondok nélkül.",
+            "ro": "Mulhouse are o rețea de tramvai excelentă. Începeți în centru și luați tramvaiul 1 direct către Orașul Automobilului. După vizită, reveniți la gara centrală, un nod istoric de transport. De acolo, tramvaiul 3 sau Tram-Train vă duce confortabil la Orașul Trenului. O zi eficientă fără grija parcării.",
+            "en": "Mulhouse has an excellent tram network. Start in the center and take Tram 1 directly to the Cité de l'Automobile. After the visit, return to the main station, a historical transport hub. From there, Tram 3 or the Tram-Train will take you comfortably to the Cité du Train. An efficient day without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt der Stadt.",
+                "hu": "A város központi csomópontja.",
+                "ro": "Punctul central al orașului.",
+                "en": "Central hub of the city."
+              }
+            },
+            {
+              "name": "Cité de l'Automobile (Tram 1)",
+              "tip_5lang": {
+                "de": "Haltestelle 'Musée de l'Auto'.",
+                "hu": "Szállj le a 'Musée de l'Auto' megállónál.",
+                "ro": "Stația 'Musée de l'Auto'.",
+                "en": "Stop at 'Musée de l'Auto'."
+              }
+            },
+            {
+              "name": "Gare Centrale - Mulhouse",
+              "tip_5lang": {
+                "de": "Das Tor zum Elsass, beeindruckende Bahnhofshalle.",
+                "hu": "Elzász kapuja, lenyűgöző állomáscsarnok.",
+                "ro": "Poarta către Alsacia, o hală impresionantă.",
+                "en": "The gateway to Alsace, impressive station hall."
+              }
+            },
+            {
+              "name": "Cité du Train (Tram 3)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram-Train Linie.",
+                "hu": "Használd a Tram-Train vonalat.",
+                "ro": "Utilizați linia Tram-Train.",
+                "en": "Use the Tram-Train line."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cafétéria du Musée",
+                "tip": "Schneller Imbiss zwischen den Autos."
+              },
+              {
+                "name": "Le Grand Zinc",
+                "tip": "Klassische Brasserie in Bahnhofsnähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cafétéria du Musée",
+                "tip": "Gyors harapnivaló az autók között."
+              },
+              {
+                "name": "Le Grand Zinc",
+                "tip": "Klasszikus söröző a pályaudvar közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cafétéria du Musée",
+                "tip": "Gustare rapidă printre mașini."
+              },
+              {
+                "name": "Le Grand Zinc",
+                "tip": "Braserie clasică lângă gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cafétéria du Musée",
+                "tip": "Quick snack among the cars."
+              },
+              {
+                "name": "Le Grand Zinc",
+                "tip": "Classic brasserie near the station."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square de l'Ancien Palais",
+                "tip": "Ruhiger Platz zum Warten auf die Tram.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square de l'Ancien Palais",
+                "tip": "Csendes tér a villamosra való várakozáshoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square de l'Ancien Palais",
+                "tip": "Piață liniștită pentru a aștepta tramvaiul.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square de l'Ancien Palais",
+                "tip": "Quiet square to wait for the tram.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Porte Jeune Mall",
+                "tip": "Einkaufszentrum am zentralen Umsteigepunkt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porte Jeune Mall",
+                "tip": "Bevásárlóközpont a központi átszállóhelyen."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Porte Jeune Mall",
+                "tip": "Centru comercial la punctul central de transfer."
+              }
+            ],
+            "en": [
+              {
+                "name": "Porte Jeune Mall",
+                "tip": "Shopping mall at the central transfer point."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Tageskarte ('Ticket 24h') für unbegrenzte Fahrten.",
+              "Die Straßenbahnen verkehren in kurzen Abständen.",
+              "Entwerten Sie Ihr Ticket vor dem Einsteigen an den Automaten am Bahnsteig.",
+              "Die Ansagen in der Tram sind auch visuell auf Bildschirmen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet (Ticket 24h) a korlátlan utazáshoz.",
+              "A villamosok gyakran közlekednek.",
+              "A jegyet a peronon található automatáknál kell érvényesíteni beszállás előtt.",
+              "A villamoson a bemondások vizuálisan is láthatók a kijelzőkön."
+            ],
+            "ro": [
+              "Cumpărați un abonament de o zi (Ticket 24h) pentru călătorii nelimitate.",
+              "Tramvaiele circulă la intervale scurte.",
+              "Validați biletul la aparatele de pe peron înainte de îmbarcare.",
+              "Anunțurile din tramvai sunt disponibile și vizual pe ecrane."
+            ],
+            "en": [
+              "Buy a day ticket ('Ticket 24h') for unlimited travel.",
+              "Trams run at frequent intervals.",
+              "Validate your ticket at the machines on the platform before boarding.",
+              "The announcements in the tram are also shown visually on screens."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Straßenbahn ist Ihr bester Freund an diesem Regentag. Vom Place de la Réunion kommen Sie trocken zur Cité de l'Automobile.\n\nMittags bietet die Fahrt mit der Linie 1 eine gute Gelegenheit, die Stadtlandschaft im Regen zu beobachten, ohne nass zu werden.\n\nNachmittags steigen Sie am Hauptbahnhof um. Die Gare Centrale ist ein beeindruckender Bau, der Schutz und Cafés für die Wartezeit bietet.\n\nDer Tag endet in der Cité du Train, die Sie bequem mit der Linie 3 erreichen, direkt bis vor die Tür der trockenen Eisenbahnwelt.",
+            "hu": "A villamos a legjobb barátja ezen az esős napon. A Place de la Réunion-tól szárazon juthat el az Autómúzeumhoz.\n\nDélben az 1-es vonalon tett utazás jó alkalom a városi táj megfigyelésére az esőben, anélkül, hogy elázna.\n\nDélután átszáll a főpályaudvaron. A Gare Centrale lenyűgöző épület, amely védelmet és kávézókat kínál a várakozáshoz.\n\nA nap a Cité du Train-ben ér véget, melyet kényelmesen elér a 3-as vonallal, egészen a száraz vasúti világ ajtajáig.",
+            "ro": "Tramvaiul este cel mai bun prieten al tău în această zi ploioasă. Din Place de la Réunion ajungeți la uscat la Cité de l'Automobile.\n\nLa prânz, călătoria cu linia 1 oferă o ocazie bună de a observa peisajul urban în ploaie fără a vă uda.\n\nDupă-amiaza schimbați la gara centrală. Gare Centrale este o clădire impresionantă care oferă adăpost și cafenele pentru timpul de așteptare.\n\nZiua se încheie la Cité du Train, unde ajungeți confortabil cu linia 3, chiar până la ușa lumii feroviare uscate.",
+            "en": "The tram is your best friend on this rainy day. From Place de la Réunion, you can get to the Cité de l'Automobile dry.\n\nAt midday, riding line 1 is a good opportunity to observe the city landscape in the rain without getting wet.\n\nIn the afternoon, transfer at the main station. Gare Centrale is an impressive building that offers shelter and cafes for the wait.\n\nThe day ends at the Cité du Train, which you can easily reach with line 3, right to the door of the dry railway world."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind meist überdacht; nutzen Sie die App für Echtzeitdaten.",
+                "hu": "A megállók többnyire fedettek; használja az alkalmazást a valós idejű adatokhoz.",
+                "ro": "Stațiile sunt majoritatea acoperite; folosiți aplicația pentru date în timp real.",
+                "en": "The stops are mostly covered; use the app for real-time data."
+              }
+            },
+            {
+              "name": "Cité de l'Automobile (Tram 1)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Museumseingang einplanen.",
+                "hu": "Tervezzen egy rövid sprintet a megállótól a múzeum bejáratáig.",
+                "ro": "Planificați un scurt sprint de la stație până la intrarea în muzeu.",
+                "en": "Plan for a short sprint from the stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Gare Centrale - Mulhouse",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bahnhofshalle als trockenen Treffpunkt.",
+                "hu": "Használja a vasúti csarnokot száraz találkozóhelyként.",
+                "ro": "Folosiți holul gării ca punct de întâlnire uscat.",
+                "en": "Use the station hall as a dry meeting point."
+              }
+            },
+            {
+              "name": "Cité du Train (Tram 3)",
+              "tip_5lang": {
+                "de": "Direkte Anbindung; fast kein Fußweg im Freien nötig.",
+                "hu": "Közvetlen kapcsolat; szinte semennyi séta nem kell a szabadban.",
+                "ro": "Conexiune directă; aproape nicio deplasare pe jos necesară în aer liber.",
+                "en": "Direct connection; almost no walking outdoors required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket, um beliebig oft zwischen Bahnen zu wechseln.",
+              "Die Straßenbahnen in Mulhouse sind modern und bieten viel Platz für nasse Schirme.",
+              "Die Haltestelle 'Porte Jeune' ist der zentrale Knotenpunkt mit vielen Unterständen.",
+              "Achten Sie auf die digitalen Anzeigen, um unnötiges Warten im Regen zu vermeiden.",
+              "Nutzen Sie die 'Soléa' App für die beste Verbindung bei Verspätungen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet, hogy tetszőlegesen válthasson a járatok között.",
+              "A mulhouse-i villamosok modernek és sok helyet kínálnak a vizes esernyőknek.",
+              "A 'Porte Jeune' megálló a központi csomópont sok menedékkel.",
+              "Figyelje a digitális kijelzőket, hogy elkerülje a felesleges várakozást az esőben.",
+              "Használja a 'Soléa' alkalmazást késések esetén a legjobb kapcsolatért."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru a schimba liniile de câte ori doriți.",
+              "Tramvaiele din Mulhouse sunt moderne și oferă mult spațiu pentru umbrele ude.",
+              "Stația 'Porte Jeune' este nodul central cu multe adăposturi.",
+              "Urmăriți afișajele digitale pentru a evita așteptarea inutilă în ploaie.",
+              "Folosiți aplicația 'Soléa' pentru cea mai bună conexiune în caz de întârzieri."
+            ],
+            "en": [
+              "Buy a day ticket to switch between lines as often as you want.",
+              "The trams in Mulhouse are modern and offer plenty of space for wet umbrellas.",
+              "The 'Porte Jeune' stop is the central hub with many shelters.",
+              "Watch the digital displays to avoid unnecessary waiting in the rain.",
+              "Use the 'Soléa' app for the best connection during delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die beheizten Straßenbahnen von Mulhouse eine Wohltat. Vom weihnachtlich geschmückten Place de la Réunion geht es gemütlich los.\n\nMittags genießen Sie die Aussicht auf die verschneite Stadt aus der warmen Tram der Linie 1.\n\nNachmittags bietet der Aufenthalt am Hauptbahnhof die Chance, sich bei einem heißen Kaffee aufzuwärmen, bevor es weiter zur Cité du Train geht.\n\nDer Abend endet in der glitzernden Museumswelt, und die Fahrt zurück ins Zentrum bietet einen Blick auf die festliche Stadtbeleuchtung.",
+            "hu": "Télen a fűtött mulhouse-i villamosok áldást jelentenek. A karácsonyi díszbe öltözött Place de la Réunion-tól kényelmesen indulhat.\n\nDélben élvezheti a havas város látványát az 1-es vonal meleg villamosából.\n\nDélután a főpályaudvaron lehetőség nyílik egy forró kávé mellett felmelegedni, mielőtt továbbindulna a Cité du Train felé.\n\nA nap a csillogó múzeumi világban ér véget, a visszaút a központba pedig rálátást nyújt az ünnepi városi kivilágításra.",
+            "ro": "Iarna, tramvaiele încălzite din Mulhouse sunt o binecuvântare. Din Place de la Réunion decorat de Crăciun, plecați confortabil.\n\nLa prânz, bucurați-vă de vederea orașului înzăpezit din tramvaiul cald al liniei 1.\n\nDupă-amiaza, șederea la gara centrală oferă șansa de a vă încălzi cu o cafea fierbinte înainte de a continua spre Cité du Train.\n\nSeara se încheie în lumea sclipitoare a muzeului, iar drumul înapoi spre centru oferă o vedere asupra iluminatului festiv al orașului.",
+            "en": "In winter, the heated trams of Mulhouse are a blessing. Start comfortably from the Christmas-decorated Place de la Réunion.\n\nAt midday, enjoy the view of the snowy city from the warm tram on line 1.\n\nIn the afternoon, staying at the main station offers a chance to warm up with a hot coffee before heading further to the Cité du Train.\n\nThe evening ends in the sparkling museum world, and the ride back to the center offers a view of the festive city lighting."
+          },
+          "stops": [
+            {
+              "name": "Place de la Réunion",
+              "tip_5lang": {
+                "de": "Bester Startpunkt für den Besuch der Weihnachtsbeleuchtung.",
+                "hu": "A legjobb kiindulópont a karácsonyi kivilágítás megtekintéséhez.",
+                "ro": "Cel mai bun punct de plecare pentru a vedea luminile de Crăciun.",
+                "en": "Best starting point for visiting the Christmas lights."
+              }
+            },
+            {
+              "name": "Cité de l'Automobile (Tram 1)",
+              "tip_5lang": {
+                "de": "Die Straßenbahn fährt alle 10-15 Minuten; planen Sie keine langen Wartezeiten ein.",
+                "hu": "A villamos 10-15 percenként jár; ne tervezzen hosszú várakozást.",
+                "ro": "Tramvaiul circulă la fiecare 10-15 minute; nu planificați timpi lungi de așteptare.",
+                "en": "The tram runs every 10-15 minutes; don't plan for long waits."
+              }
+            },
+            {
+              "name": "Gare Centrale - Mulhouse",
+              "tip_5lang": {
+                "de": "Im Bahnhof gibt es gute Bäckereien für eine warme Zwischenmahlzeit.",
+                "hu": "A vasútállomáson jó pékségek vannak egy meleg tízóraihoz.",
+                "ro": "În gară există brutării bune pentru o gustare caldă.",
+                "en": "There are good bakeries in the station for a warm snack."
+              }
+            },
+            {
+              "name": "Cité du Train (Tram 3)",
+              "tip_5lang": {
+                "de": "Die Linie 3 bietet im Winter eine zuverlässige Verbindung bis spät abends.",
+                "hu": "A 3-as vonal télen is megbízható kapcsolatot nyújt késő estig.",
+                "ro": "Linia 3 oferă o conexiune fiabilă iarna până târziu în noapte.",
+                "en": "Line 3 provides a reliable connection in winter until late at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Entwerten Sie Ihr Ticket im Inneren der Bahn, um nicht in der Kälte am Automaten zu stehen.",
+              "Die Trams sind gut beheizt; ideal, um die Füße zwischendurch aufzuwärmen.",
+              "Abends ist die Fahrt durch das Zentrum besonders schön wegen der Weihnachtsdeko.",
+              "Die Taktzeiten können an Feiertagen variieren; prüfen Sie den Fahrplan vorab.",
+              "Tragen Sie Handschuhe mit Touchscreen-Funktion für die Ticketautomaten."
+            ],
+            "hu": [
+              "Érvényesítse a jegyét a járaton belül, hogy ne kelljen a hidegben az automatánál állni.",
+              "A villamosok jól fűtöttek; ideálisak a lábak felmelegítésére két megálló között.",
+              "Este a központon átvezető út különösen szép a karácsonyi dekoráció miatt.",
+              "A követési idők ünnepnapokon változhatnak; ellenőrizze a menetrendet előre.",
+              "Használjon érintőképernyő-kompatibilis kesztyűt a jegyautomatákhoz."
+            ],
+            "ro": [
+              "Validați biletul în interiorul tramvaiului pentru a nu sta în frig la automat.",
+              "Tramvaiele sunt bine încălzite; ideale pentru a vă încălzi picioarele între drumuri.",
+              "Seara, călătoria prin centru este deosebit de frumoasă datorită decorațiunilor de Crăciun.",
+              "Intervalele de succedare pot varia de sărbători; verificați orarul în avans.",
+              "Purtați mănuși cu funcție touchscreen pentru automatele de bilete."
+            ],
+            "en": [
+              "Validate your ticket inside the tram to avoid standing in the cold at the machine.",
+              "The trams are well-heated; ideal for warming up your feet between stops.",
+              "In the evening, the ride through the center is especially beautiful due to the Christmas decorations.",
+              "Frequencies may vary on public holidays; check the schedule in advance.",
+              "Wear touchscreen-compatible gloves for the ticket machines."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tourisme-mulhouse.com/",
-    "events": "https://www.tourisme-mulhouse.com/agenda/",
-    "city_card": "https://www.tourisme-mulhouse.com/mulhouse-city-pass/",
-    "museum_tickets": "",
-    "transit_official": "https://www.solea.info/",
-    "language_tips": {
-      "de": "Mulhouse spricht elsaessisches Franzoesisch mit klarem deutschen Einfluss, viele Einheimische sprechen Elsaessisch (eine alemannische Mundart) und auch Deutsch. Englisch in Museen verbreitet. 'Guten Tag' und 'Salü' funktionieren bestens.",
-      "hu": "Mulhouse elzaszi franciat beszel egyertelmu nemet hatassal, sok helyi tud elzasziul (alemann nyelvjaras) es nemetul is. A muzeumokban van angol. A 'Guten Tag' es 'Salü' kivaloan mukodik.",
-      "ro": "Mulhouse vorbeste franceza alsaciana cu influenta germana clara, multi localnici stiu alsaciana (un dialect alemanic) si germana. Engleza merge in muzee. 'Guten Tag' si 'Salü' functioneaza foarte bine.",
-      "en": "Mulhouse speaks Alsatian French with strong German flavour, and many locals also speak Alsatian dialect and German. English works in museums. 'Guten Tag' and 'Salü' both get warm responses."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal (15-24 Grad), Auto- und Eisenbahnmuseum ganzjaehrig. Juli-August warm, Festival 'Bel Air' im August. Winter kalt (0-5 Grad), aber elsaessischer Weihnachtsmarkt und Glühwein bei -2 Grad sind magisch.",
-      "hu": "Majus-szeptember a legjobb (15-24 fok), az auto- es vasutmuzeum egesz evben. Julius-augusztus meleg, 'Bel Air' fesztival augusztusban. Tel hideg (0-5 fok), de az elzaszi karacsonyi vasar es a -2 fokban kortyolt forralt bor varazslatos.",
-      "ro": "Mai-septembrie sunt ideale (15-24 grade), muzeele de masini si trenuri sunt deschise tot anul. Iulie-august sunt calde, festivalul 'Bel Air' in august. Iarna e rece (0-5 grade), dar targul de Craciun alsacian si vinul fiert la -2 grade sunt magice.",
-      "en": "May-September are ideal (15-24°C), with the car and railway museums open year-round. July-August are warm, 'Bel Air' festival in August. Winter is cold (0-5°C) but the Alsatian Christmas market with mulled wine at -2°C is pure magic."
-    },
-    "neighborhood_warnings": {
-      "de": "Bourtzwiller und Coteaux im Norden abends meiden. Innenstadt, Place de la Reunion und Museumsviertel sicher. Bahnhof Mulhouse-Ville tagsueber lebhaft, nachts ruhiger.",
-      "hu": "Bourtzwiller es Coteaux eszakon este nem ajanlott. A belvaros, Place de la Reunion es muzeumi negyed biztonsagos. Mulhouse-Ville allomas nappal eleven, ejjel csendesebb.",
-      "ro": "Bourtzwiller si Coteaux, in nord, sunt de evitat seara. Centrul, Place de la Reunion si cartierul muzeelor sunt sigure. Gara Mulhouse-Ville e animata ziua, mai linistita noaptea.",
-      "en": "Avoid Bourtzwiller and Coteaux in the north after dark. The centre, Place de la Reunion and museum district are safe. Mulhouse-Ville station is busy by day, quieter at night."
-    },
-    "parking_real_time": ""
   }
 }

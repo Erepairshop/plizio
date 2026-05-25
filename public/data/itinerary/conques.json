@@ -297,6 +297,410 @@
           "Parking is located outside the village; allow time for the walk in.",
           "Check for the light show on the abbey facade during summer nights."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der mystischen Atmosphäre der Abtei Sainte-Foy, einem Meisterwerk der Romanik. Bewundern Sie den legendären Goldschatz, bevor Sie durch die steilen, mittelalterlichen Gassen schlendern. Ein Aufstieg zur Kapelle Sainte-Roch belohnt Sie mit einer postkartenreifen Aussicht. Den Abschluss bildet der friedliche Spaziergang zur historischen Pilgerbrücke im Tal.",
+            "hu": "Kezdje a napot a Szent Foy apátság misztikus falai között, amely a román építészet remekműve. Csodálja meg a világhírű aranykincset, majd kalandozzon a meredek, középkori utcákon. A Szent Rókus-kápolnához vezető séta képeslapszerű kilátást kínál a völgyre. A napot a Dourdou folyó feletti történelmi zarándokhídnál, a béke szigetén zárhatja.",
+            "ro": "Începeți ziua în atmosfera mistică a Abației Sainte-Foy, o capodoperă a artei romanice. Admirați legendarul tezaur de aur înainte de a hoinări pe străzile medievale abrupte. O urcare la Capela Sainte-Roch vă va răsplăti cu o vedere de carte poștală. Încheiați ziua cu o plimbare liniștită spre podul istoric al pelerinilor de pe malul râului Dourdou.",
+            "en": "Start your day in the mystical atmosphere of Sainte-Foy Abbey, a Romanesque masterpiece. Admire the legendary golden treasury before wandering through the steep, medieval alleys. A climb to the Sainte-Roch Chapel rewards you with a postcard-perfect view of the village. Finish your journey with a peaceful walk to the historic Pilgrims Bridge down in the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abteikirche Sainte-Foy",
+                "hu": "Szent Hely (Sainte-Foy) apátsági templom",
+                "ro": "Biserica abațială Sainte-Foy",
+                "en": "Abbey Church of Sainte-Foy"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Tympanon des Jüngsten Gerichts im Detail.",
+                "hu": "Figyelje meg alaposan az Utolsó Ítélet domborművét a bejáratnál.",
+                "ro": "Observați detaliile timpanului Judecății de Apoi la intrare.",
+                "en": "Carefully observe the Last Judgment tympanum at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schatzkammer von Conques",
+                "hu": "Conques-i kincstár",
+                "ro": "Tezaurul din Conques",
+                "en": "Treasury of Conques"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Statue der Heiligen Foy ist das absolute Highlight.",
+                "hu": "Szent Foy aranyszobra a gyűjtemény legfontosabb darabja.",
+                "ro": "Statuia de aur a Sfintei Foy este piesa centrală a colecției.",
+                "en": "The golden Majesty of Sainte Foy is the crown jewel of the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Gassen",
+                "hu": "Középkori sikátorok és ebéd",
+                "ro": "Străduțele medievale",
+                "en": "Medieval Streets & Lunch"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach den traditionellen Fachwerkhäusern.",
+                "hu": "Keresse a hagyományos gerendavázas házakat a szűk utcákban.",
+                "ro": "Căutați casele tradiționale cu bârne de lemn pe străzile înguste.",
+                "en": "Look for the traditional half-timbered houses along the narrow paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Roch",
+                "hu": "Szent Rókus-kápolna",
+                "ro": "Capela Sainte-Roch",
+                "en": "Sainte-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Bester Panoramablick auf das gesamte Dorf Conques.",
+                "hu": "Innen nyílik a legjobb panoráma az egész falura.",
+                "ro": "Cea mai bună vedere panoramică asupra întregului sat.",
+                "en": "Best panoramic view of the entire village from this point."
+              }
+            },
+            {
+              "name": {
+                "de": "Pilgerbrücke über den Dourdou",
+                "hu": "Zarándok-híd a Dourdou felett",
+                "ro": "Podul Pelerinilor peste Dourdou",
+                "en": "Pilgrims Bridge over Dourdou"
+              },
+              "tip_5lang": {
+                "de": "Ein UNESCO-Welterbe-Teil des Jakobswegs.",
+                "hu": "Az UNESCO Világörökség része, a Szent Jakab-út állomása.",
+                "ro": "Parte a patrimoniului UNESCO, pe drumul spre Santiago.",
+                "en": "A UNESCO World Heritage site on the Camino de Santiago."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Estofinado",
+                "tip": "Traditionelles Stockfischgericht der Region Aveyron."
+              },
+              {
+                "name": "Moulin de Cambelong",
+                "tip": "Gehobene Küche in einer alten Mühle am Fluss."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Estofinado",
+                "tip": "Hagyományos szárított tőkehalas étel burgonyával."
+              },
+              {
+                "name": "Auberge Saint Jacques",
+                "tip": "Helyi alapanyagokból készült klasszikus fogások."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Estofinado",
+                "tip": "Mâncare tradițională din pește uscat și cartofi."
+              },
+              {
+                "name": "Le Loquelic",
+                "tip": "Restaurant cochet cu terasă și vedere la abație."
+              }
+            ],
+            "en": [
+              {
+                "name": "Estofinado",
+                "tip": "Traditional dried cod and potato dish from Aveyron."
+              },
+              {
+                "name": "Gâteau à la broche",
+                "tip": "Spit-roasted cake, a local mountain specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bancarel Aussichtspunkt",
+                "tip": "Ein ruhiger Ort hoch über dem Dorf.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Dourdou Flussufer",
+                "tip": "Perfekt für eine meditative Pause am Wasser.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bancarel kilátó",
+                "tip": "Csendes pont magasan a falu felett.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Dourdou partja",
+                "tip": "Meditatív pihenőhely a csobogó víznél.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea Bancarel",
+                "tip": "Un loc liniștit situat deasupra satului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Malul râului Dourdou",
+                "tip": "Ideal pentru o pauză meditativă lângă apă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bancarel Viewpoint",
+                "tip": "A quiet spot high above the village cluster.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Dourdou Riverbank",
+                "tip": "Perfect for a meditative pause by the stream.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Pilger-Souvenirs",
+                "tip": "Handgefertigte Jakobsmuscheln und Wanderstäbe."
+              },
+              {
+                "name": "Honig aus dem Aveyron",
+                "tip": "Lokaler Imkerhonig mit dem Duft der Berge."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zarándok emléktárgyak",
+                "tip": "Kézzel készült kagylók és vándorbotok."
+              },
+              {
+                "name": "Aveyron-i méz",
+                "tip": "Helyi méhészek különleges hegyi mézei."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri pentru pelerini",
+                "tip": "Scoici și toiege lucrate manual."
+              },
+              {
+                "name": "Miere din Aveyron",
+                "tip": "Miere locală parfumată cu florile munților."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pilgrim Souvenirs",
+                "tip": "Handcrafted scallop shells and walking sticks."
+              },
+              {
+                "name": "Local Aveyron Honey",
+                "tip": "Unique honey from local beekeepers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie festes Schuhwerk für die steilen Kopfsteinpflastergassen.",
+              "Besuchen Sie die Abtei früh morgens, um die Stille zu genießen.",
+              "Die Parkplätze liegen meist außerhalb, planen Sie Zeit für den Fußweg ein.",
+              "Achten Sie auf die Lichtshow an der Abteifassade an Sommerabenden."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek macskaköves utcákhoz.",
+              "Érkezzen korán az apátsághoz, hogy elkerülje a csoportokat.",
+              "A parkolók a falun kívül találhatók, számoljon a gyalogúttal.",
+              "Nyári estéken ne hagyja ki az apátság homlokzatának fényjátékát."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile abrupte cu piatră cubică.",
+              "Vizitați abația dimineața devreme pentru a evita grupurile mari.",
+              "Parcările sunt în afara satului, deci rezervați timp pentru mers pe jos.",
+              "Serile de vară oferă un spectacol de lumini pe fațada abației."
+            ],
+            "en": [
+              "Wear sturdy shoes for the steep and uneven cobblestone streets.",
+              "Visit the abbey early in the morning to enjoy the true silence.",
+              "Parking is located outside the village; allow time for the walk in.",
+              "Check for the light show on the abbey facade during summer nights."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Abtei Schutz vor dem Regen. Mittags genießen Sie lokale Spezialitäten in einer gemütlichen Herberge. Nachmittags führt der Weg zur Kapelle durch mystischen Nebel. Abends spiegelt sich das Licht der Laternen in den nassen Gassen von Conques.",
+            "hu": "Reggel az apátság nyújt menedéket az eső elől. Délben egy hangulatos fogadóban kóstolhatja meg a helyi ízeket. Délután misztikus ködbe burkolózva sétálhat a kápolnához. Este a lámpások fénye csillog Conques nedves macskakövein.",
+            "ro": "Dimineața, abatia oferă adăpost împotriva ploii. La prânz, savurați specialități locale într-o tavernă primitoare. După-amiaza, drumul spre capelă este învăluit în ceață mistică. Seara, lumina felinarelor se oglindește pe străzile ude din Conques.",
+            "en": "Morning finds you sheltered within the Abbey's walls. At noon, enjoy local flavors in a cozy stone inn. Afternoon walks to the chapel are accompanied by a mystical valley mist. In the evening, streetlights reflect beautifully on Conques' wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Abbey Church of Sainte-Foy",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Tympanon unter dem schützenden Vorbau.",
+                "hu": "Csodálja meg a timpanont a védett előcsarnok alatt.",
+                "ro": "Admirați timpanonul sub pridvorul protector.",
+                "en": "Admire the tympanum while standing under the protective porch."
+              }
+            },
+            {
+              "name": "Treasury of Conques",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um dem Regen für eine Stunde zu entfliehen.",
+                "hu": "Tökéletes hely, hogy egy órára elmeneküljön az eső elől.",
+                "ro": "Locul perfect pentru a scăpa de ploaie timp de o oră.",
+                "en": "The perfect indoor sanctuary to escape the rain for an hour."
+              }
+            },
+            {
+              "name": "Medieval Streets & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit einem prasselnden Kaminfeuer.",
+                "hu": "Keressen egy éttermet, ahol pattog a tűz a kandallóban.",
+                "ro": "Căutați un restaurant cu foc în șemineu.",
+                "en": "Look for a restaurant with a crackling fireplace."
+              }
+            },
+            {
+              "name": "Sainte-Roch Chapel",
+              "tip_5lang": {
+                "de": "Vorsicht, die steilen Pfade können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a meredek ösvények nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, potecile abrupte pot fi alunecoase când sunt ude.",
+                "en": "Careful, the steep paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Pilgrims Bridge over Dourdou",
+              "tip_5lang": {
+                "de": "Der Nebel über dem Fluss sorgt für eine tolle Atmosphäre.",
+                "hu": "A folyó feletti köd különleges hangulatot áraszt.",
+                "ro": "Ceața de peste râu creează o atmosferă deosebită.",
+                "en": "The mist over the river creates a hauntingly beautiful scene."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste Wanderschuhe mit gutem Profil für die nassen Steine.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein großer.",
+              "Nutzen Sie die Besichtigung der Schatzkammer für die stärksten Regenschauer.",
+              "Die Abtei bietet im Inneren viele trockene Sitzgelegenheiten zum Rasten."
+            ],
+            "hu": [
+              "Viseljen jó tapadású bakancsot a nedves, csúszós kövek miatt.",
+              "A szűk utcákon egy összecsukható esernyő praktikusabb, mint a nagy.",
+              "A kincstár megtekintését időzítse a leghevesebb esőzés idejére.",
+              "Az apátság belseje számos száraz pihenőhelyet kínál a várakozáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru pietrele ude.",
+              "O umbrelă compactă este mai practică pe străzile înguste.",
+              "Programați vizita la tezaur în timpul celor mai puternice averse.",
+              "Interiorul abatiei oferă multe locuri uscate pentru odihnă."
+            ],
+            "en": [
+              "Wear boots with good grip for the slippery medieval stones.",
+              "A compact umbrella is easier to manage in the narrow alleys.",
+              "Time your visit to the Treasury for the heaviest downpour.",
+              "The interior of the Abbey offers plenty of dry spots to rest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Reif auf den Dächern und klarer Luft. Mittags wärmt ein kräftiges Aligot den Körper auf. Nachmittags taucht die tiefstehende Sonne das Gold der Reliquien in warmes Licht. Abends kehrt in das winterliche Dorf frühe Stille ein.",
+            "hu": "A reggel dérlepte tetőkkel és friss, tiszta levegővel indul. Délben egy laktató aligot melegíti fel a testet. Délután az alacsony napfény különleges fénnyel világítja meg a relikviákat. Este korán leszáll a csend a téli falura.",
+            "ro": "Dimineața începe cu brumă pe acoperișuri și aer curat. La prânz, un aligot consistent vă va încălzi corpul. După-amiaza, soarele palid luminează aurul relicvelor. Seara, liniștea se așterne devreme peste satul de iarnă.",
+            "en": "Morning begins with frost on the rooftops and crisp, clear air. At noon, a hearty Aligot will warm your soul. In the afternoon, the low winter sun casts a golden glow on the relics. Evening brings an early, peaceful silence to the winter village."
+          },
+          "stops": [
+            {
+              "name": "Abbey Church of Sainte-Foy",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel an, die Steinmauern speichern die Kälte.",
+                "hu": "Tartsa magán a kabátját, a kőfalak ontják a hideget.",
+                "ro": "Păstrați-vă haina, zidurile de piatră mențin frigul.",
+                "en": "Keep your coat on, as the stone walls hold the winter chill."
+              }
+            },
+            {
+              "name": "Treasury of Conques",
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren hebt das Gold der Majestät hervor.",
+                "hu": "A belső meleg fények gyönyörűen kiemelik az arany kegytárgyakat.",
+                "ro": "Lumina caldă din interior evidențiază aurul relicvelor.",
+                "en": "The warm indoor lighting highlights the gold of the Majesty."
+              }
+            },
+            {
+              "name": "Medieval Streets & Lunch",
+              "tip_5lang": {
+                "de": "Probieren Sie unbedingt das Aligot, das perfekte Winteressen.",
+                "hu": "Mindenképpen kóstolja meg az aligot-t, a tökéletes téli ételt.",
+                "ro": "Încercați neapărat aligot, mâncarea perfectă de iarnă.",
+                "en": "Be sure to try Aligot, the perfect winter comfort food."
+              }
+            },
+            {
+              "name": "Sainte-Roch Chapel",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das kahle Tal.",
+                "hu": "Élvezze a távoli kilátást a kopár völgy felett.",
+                "ro": "Bucurați-vă de vederea panoramică asupra văii desfrunzite.",
+                "en": "Enjoy the expansive views over the bare winter valley."
+              }
+            },
+            {
+              "name": "Pilgrims Bridge over Dourdou",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den alten Steinplatten.",
+                "hu": "Vigyázzon a fagyott foltokra a régi kőlapokon.",
+                "ro": "Atenție la porțiunile înghețate de pe dalele de piatră.",
+                "en": "Watch out for icy patches on the ancient stone slabs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung, besonders für die Abtei.",
+              "Einige kleinere Läden könnten in der Nebensaison geschlossen sein.",
+              "Die klare Winterluft bietet die beste Sicht für Fotos vom Tal."
+            ],
+            "hu": [
+              "A nap télen már délután 5 óra körül lenyugszik.",
+              "Öltözzön rétegesen, az apátság belseje kifejezetten hűvös.",
+              "Néhány kisebb üzlet zárva tarthat a főszezonon kívül.",
+              "A tiszta téli levegő biztosítja a legjobb látási viszonyokat a völgyhöz."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 17:00.",
+              "Îmbrăcați-vă în straturi, interiorul abatiei este foarte rece.",
+              "Unele magazine mici pot fi închise în afara sezonului.",
+              "Aerul curat de iarnă oferă cea mai bună vizibilitate pentru fotografii."
+            ],
+            "en": [
+              "The sun sets as early as 17:00 in the winter months.",
+              "Dress in layers; the interior of the Abbey is quite cold.",
+              "Some small shops may be closed during the off-season.",
+              "Clear winter air provides the best visibility for valley photos."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -536,6 +940,358 @@
           "Carry plenty of water as there are few fountains on the way.",
           "Stick to the marked paths to protect the local environment."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Conques und seine hügelige Umgebung mit dem Fahrrad. Nach einem kurzen Besuch im Zentrum führt Sie der Weg hinunter zum Fluss und dann hinauf zum Bancarel-Aussichtspunkt für eine spektakuläre Perspektive. Genießen Sie die Abfahrt zurück ins Tal und ein entspanntes Picknick am Dourdou, bevor Sie den Tag an der charmanten Sainte-Anne-Kapelle ausklingen lassen.",
+            "hu": "Fedezze fel Conquest és dombos környékét két keréken. A központ rövid bejárása után az út levezet a folyóhoz, majd fel a Bancarel kilátóhoz a látványos panorámáért. Élvezze a gurulást vissza a völgybe, és töltsön el egy kellemes pikniket a Dourdou partján, mielőtt befejezné a túrát a bájos Szent Anna-kápolnánál.",
+            "ro": "Explorați Conques și împrejurimile sale deluroase cu bicicleta. După o scurtă vizită în centru, drumul vă duce la râu și apoi sus la punctul de belvedere Bancarel pentru o perspectivă spectaculoasă. Bucurați-vă de coborârea în vale și de un picnic relaxat pe malul râului Dourdou, înainte de a încheia ziua la fermecătoarea capelă Sainte-Anne.",
+            "en": "Explore Conques and its hilly surroundings by bike. After a quick stop in the center, the path leads you down to the river and then up to the Bancarel viewpoint for a spectacular perspective. Enjoy the glide back into the valley and a relaxed picnic by the Dourdou before finishing your trip at the charming Sainte-Anne chapel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dorfkern Conques",
+                "hu": "Conques faluközpont",
+                "ro": "Centrul satului Conques",
+                "en": "Conques Village Center"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engsten Gassen.",
+                "hu": "A legszűkebb utcákban érdemes tolni a kerékpárt.",
+                "ro": "Împingeți bicicleta pe străzile cele mai înguste.",
+                "en": "Walk your bike through the narrowest pedestrian alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Dourdou Brücke",
+                "hu": "Dourdou híd",
+                "ro": "Podul peste Dourdou",
+                "en": "Dourdou Bridge"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für ein erstes Foto im Tal.",
+                "hu": "Kiváló helyszín az első völgybeli fotókhoz.",
+                "ro": "Un loc perfect pentru primele fotografii din vale.",
+                "en": "A great spot for your first photos in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Bancarel Aussichtspunkt",
+                "hu": "Bancarel kilátóhely",
+                "ro": "Belvederea Bancarel",
+                "en": "Bancarel Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, aber die Mühe lohnt sich.",
+                "hu": "Meredek emelkedő, de a látvány megéri az erőfeszítést.",
+                "ro": "Urcare abruptă, dar vederea merită tot efortul.",
+                "en": "Steep climb, but the view is worth every drop of sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Picknickplatz am Fluss",
+                "hu": "Folyóparti piknikező",
+                "ro": "Loc de picnic lângă râu",
+                "en": "Riverside Picnic Spot"
+              },
+              "tip_5lang": {
+                "de": "Frische Luft und Rauschen des Wassers.",
+                "hu": "Friss levegő és a folyó megnyugtató csobogása.",
+                "ro": "Aer curat și sunetul relaxant al apei.",
+                "en": "Fresh air and the soothing sound of the flowing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Anne",
+                "hu": "Szent Anna-kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Sainte-Anne Chapel"
+              },
+              "tip_5lang": {
+                "de": "Kleine versteckte Kapelle oberhalb des Dorfes.",
+                "hu": "Kicsi, rejtett kápolna a falu felett.",
+                "ro": "O capelă mică și ascunsă deasupra satului.",
+                "en": "Small hidden chapel located above the village."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge de la Treille",
+                "tip": "Ideal für eine Pause mit herzhaften Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge de la Treille",
+                "tip": "Kiváló hely egy kiadós tízóraira."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge de la Treille",
+                "tip": "Ideal pentru o pauză cu gustări consistente."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge de la Treille",
+                "tip": "Ideal for a break with hearty local snacks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dourdou-Schleife",
+                "tip": "Ruhiger Weg entlang der Flussbiegung.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dourdou-kanyar",
+                "tip": "Csendes útvonal a folyó mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cotul râului Dourdou",
+                "tip": "Traseu liniștit de-a lungul apei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dourdou Bend",
+                "tip": "Quiet path along the river's curve.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hofladen",
+                "tip": "Regionale Wurstwaren und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tanyasi bolt",
+                "tip": "Regionális szalámi és sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de fermă",
+                "tip": "Mezeluri și brânzeturi regionale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farm Shop",
+                "tip": "Regional cured meats and cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike wird aufgrund der starken Steigungen dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsen vor den Abfahrten ins Tal.",
+              "Nehmen Sie ausreichend Wasser mit, es gibt wenig Brunnen unterwegs.",
+              "Bleiben Sie auf den markierten Wegen, um die Natur zu schützen."
+            ],
+            "hu": [
+              "Az elektromos kerékpár erősen ajánlott a meredek emelkedők miatt.",
+              "Ellenőrizze a fékeket a völgybe vezető lejtők előtt.",
+              "Vigyen elég vizet, kevés kút található az út mentén.",
+              "Maradjon a jelzett utakon a természet védelme érdekében."
+            ],
+            "ro": [
+              "O bicicletă electrică este recomandată din cauza pantelor abrupte.",
+              "Verificați frânele înainte de coborârile spre vale.",
+              "Luați destulă apă, sunt puține fântâni pe traseu.",
+              "Rămâneți pe traseele marcate pentru a proteja natura."
+            ],
+            "en": [
+              "An e-bike is strongly recommended due to the steep inclines.",
+              "Check your brakes before the long descents into the valley.",
+              "Carry plenty of water as there are few fountains on the way.",
+              "Stick to the marked paths to protect the local environment."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Dorf mit nassen Reifen. Mittags suchen Sie Schutz unter der Dourdou-Brücke. Nachmittags ist die Sicht am Aussichtspunkt eingeschränkt, aber dramatisch. Abends wärmen Sie sich nach der Tour im Hotel auf.",
+            "hu": "A túra vizes gumiabroncsokkal indul a faluból. Délben a Dourdou-híd alatt kereshet menedéket. Délután a kilátás korlátozott, de drámai a köd miatt. Este a túra után jól esik majd a felmelegedés a szálláson.",
+            "ro": "Traseul începe în sat cu pneuri ude. La prânz, căutați adăpost sub podul Dourdou. După-amiaza, vizibilitatea la punctul de belvedere este redusă, dar dramatică. Seara, vă veți încălzi la hotel după tur.",
+            "en": "The ride starts in the village with wet tires. At noon, seek shelter under the Dourdou bridge. In the afternoon, views from the lookout are limited but dramatic. In the evening, warm up at your hotel after the wet tour."
+          },
+          "stops": [
+            {
+              "name": "Conques Village Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie die nassen Hänge hinabfahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a nedves lejtőkön.",
+                "ro": "Verificați frânele înainte de a coborî pantele ude.",
+                "en": "Check your brakes thoroughly before descending the wet hills."
+              }
+            },
+            {
+              "name": "Dourdou Bridge",
+              "tip_5lang": {
+                "de": "Die alten Steine des Brückenbogens bieten guten Regenschutz.",
+                "hu": "A híd ívének régi kövei jó védelmet nyújtanak az eső ellen.",
+                "ro": "Pietrele vechi ale podului oferă o bună protecție contra ploii.",
+                "en": "The old stones of the bridge arch provide good shelter from rain."
+              }
+            },
+            {
+              "name": "Bancarel Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden am Aussichtspunkt ist matschig.",
+                "hu": "Vigyázzon a leszálláskor, a talaj a kilátónál sáros lehet.",
+                "ro": "Atenție la coborâre, solul la punctul de belvedere este noroios.",
+                "en": "Watch your footing; the ground at the viewpoint is muddy."
+              }
+            },
+            {
+              "name": "Riverside Picnic Spot",
+              "tip_5lang": {
+                "de": "Picknick im Regen? Nutzen Sie den Schutz der Bäume.",
+                "hu": "Piknik az esőben? Használja ki a fák nyújtotta védelmet.",
+                "ro": "Picnic în ploaie? Folosiți adăpostul oferit de copaci.",
+                "en": "Picnic in the rain? Use the natural shelter of the trees."
+              }
+            },
+            {
+              "name": "Sainte-Anne Chapel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Csendes hely, ahol rövid időre leveheti az esőkabátot.",
+                "ro": "Un loc liniștit pentru a vă aerisi puțin pelerina de ploaie.",
+                "en": "A quiet place to briefly vent your rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, die Fahrbahnen in Aveyron sind bei Nässe glatt.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den Pflastersteinen.",
+              "Ein hochwertiger Regenponcho ist beim Radfahren unerlässlich.",
+              "Beleuchtung am Fahrrad ist bei Nebel im Tal sehr wichtig."
+            ],
+            "hu": [
+              "Vezessen óvatosan, az aveyroni utak nedvesen csúszósak.",
+              "Kerülje a hirtelen fékezést a macskaköves szakaszokon.",
+              "Egy jó minőségű esőponcsó elengedhetetlen a kerékpározáshoz.",
+              "A lámpák használata a völgyi ködben kiemelten fontos."
+            ],
+            "ro": [
+              "Conduceți cu prudență, drumurile din Aveyron sunt alunecoase pe ploaie.",
+              "Evitați frânările bruște pe secțiunile cu pavaj.",
+              "O pelerină de ploaie de calitate este esențială pentru ciclism.",
+              "Luminile bicicletei sunt foarte importante pe ceață în vale."
+            ],
+            "en": [
+              "Ride cautiously; the Aveyron roads are slippery when wet.",
+              "Avoid sudden braking on the cobblestone sections.",
+              "A high-quality rain poncho is essential for cycling today.",
+              "Bike lights are crucial if mist descends into the valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen erfordert warme Handschuhe für die Abfahrt. Mittags glitzert der Dourdou in der Wintersonne. Nachmittags ist die Fernsicht vom Bancarel-Aussichtspunkt atemberaubend klar. Abends endet die Tour, bevor der Boden gefriert.",
+            "hu": "A fagyos reggel meleg kesztyűt igényel a lejtőkhöz. Délben a Dourdou csillog a téli napsütésben. Délután a távoli kilátás a Bancarel-pontról lenyűgözően tiszta. Este fejezze be a túrát, mielőtt a talaj megfagyna.",
+            "ro": "Dimineața geroasă necesită mănuși groase pentru coborâre. La prânz, râul Dourdou sclipește în soarele de iarnă. După-amiaza, vizibilitatea de la Bancarel este uimitor de clară. Seara, încheiați turul înainte de îngheț.",
+            "en": "The frosty morning calls for warm gloves for the descents. At noon, the Dourdou sparkles in the winter sun. In the afternoon, the view from Bancarel is breathtakingly clear. Finish your tour by evening before the ground freezes."
+          },
+          "stops": [
+            {
+              "name": "Conques Village Center",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn die Sonne das Eis auf den Wegen geschmolzen hat.",
+                "hu": "Csak akkor induljon el, ha a nap már felolvasztotta a jeget.",
+                "ro": "Porniți la drum doar după ce soarele a topit gheața de pe poteci.",
+                "en": "Wait to start until the sun has melted any ice on the paths."
+              }
+            },
+            {
+              "name": "Dourdou Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Raureif auf den schattigen Brückensteinen.",
+                "hu": "Vigyázzon a zúzmarára a híd árnyékos kövein.",
+                "ro": "Atenție la chiciura de pe pietrele umbrite ale podului.",
+                "en": "Watch out for hoarfrost on the shaded stones of the bridge."
+              }
+            },
+            {
+              "name": "Bancarel Viewpoint",
+              "tip_5lang": {
+                "de": "Der eisige Wind hier oben macht dicke Kleidung nötig.",
+                "hu": "A fenti jeges szél miatt szükség van a vastag ruházatra.",
+                "ro": "Vântul înghețat de aici necesită haine groase.",
+                "en": "The icy wind at this height makes warm layers a necessity."
+              }
+            },
+            {
+              "name": "Riverside Picnic Spot",
+              "tip_5lang": {
+                "de": "Vielleicht zu kalt für ein langes Picknick, nur kurzer Halt.",
+                "hu": "Talán túl hideg van egy hosszú piknikhez, csak rövid pihenőt tartson.",
+                "ro": "Poate e prea frig pentru un picnic lung, faceți doar o pauză scurtă.",
+                "en": "Likely too cold for a long picnic; keep the stop brief."
+              }
+            },
+            {
+              "name": "Sainte-Anne Chapel",
+              "tip_5lang": {
+                "de": "Der steile Anstieg wird Sie zum Abschluss der Tour wärmen.",
+                "hu": "A meredek emelkedő a túra végén jól felmelegíti majd.",
+                "ro": "Urcarea abruptă vă va încălzi spre finalul turului.",
+                "en": "The steep climb will help warm you up at the end of the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Radkleidung gegen den kalten Fahrtwind.",
+              "Achten Sie in schattigen Kurven auf überfrierende Nässe.",
+              "Die Tage sind kurz, planen Sie Ihre Rückkehr für 16:30 Uhr.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft leicht ab."
+            ],
+            "hu": [
+              "Viseljen thermo kerékpáros ruhát a hideg menetszél ellen.",
+              "Az árnyékos kanyarokban figyeljen a lefagyásokra.",
+              "A nappalok rövidek, tervezze a visszaérkezést délután fél 5-re.",
+              "Ellenőrizze a guminyomást, a hidegben gyakran csökken."
+            ],
+            "ro": [
+              "Purtați haine de ciclism termice împotriva vântului rece.",
+              "Fiți atenți la gheața din curbele umbrite.",
+              "Zilele sunt scurte, planificați revenirea pentru ora 16:30.",
+              "Verificați presiunea pneurilor, aceasta scade adesea la frig."
+            ],
+            "en": [
+              "Wear thermal cycling gear to protect against the cold wind.",
+              "Watch for black ice in shaded bends of the road.",
+              "Days are short; plan to be back by 16:30.",
+              "Check your tire pressure, as it often drops in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -775,6 +1531,358 @@
           "Parking is limited in the center of Grand-Vabre.",
           "Refuel before heading deep into the mountain roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Umgebung von Conques komfortabel mit dem Auto. Beginnen Sie mit den Highlights des Dorfes, bevor Sie ins malerische Grand-Vabre am Lot fahren. Nach einem Panoramastopp im Tal führt Sie die Reise zu einem Weingut in der Nähe von Marcillac, wo Sie die Weine der Region kennenlernen. Den Tag schließen Sie mit einem letzten Blick auf das im Abendlicht leuchtende Conques ab.",
+            "hu": "Fedezze fel Conques környékét kényelmesen, autóval. Kezdje a falu nevezetességeivel, majd autózzon át a festői Grand-Vabre településre a Lot partján. Egy völgybeli panorámás pihenő után látogasson el egy Marcillac melletti borászatba, ahol megismerheti a régió borait. A napot Conques esti fényben úszó látványával zárhatja.",
+            "ro": "Experimentați împrejurimile Conques în confortul mașinii. Începeți cu punctele forte ale satului înainte de a conduce spre pitorescul Grand-Vabre pe malul Lotului. După o oprire panoramică în vale, călătoria vă duce la o cramă lângă Marcillac pentru a descoperi vinurile regiunii. Încheiați ziua cu o ultimă privire asupra satului Conques strălucind în lumina serii.",
+            "en": "Experience the surroundings of Conques comfortably by car. Start with the village highlights before driving to the picturesque Grand-Vabre on the Lot river. After a panoramic stop in the valley, your journey takes you to a winery near Marcillac to discover the region's unique wines. Conclude your day with a final view of Conques glowing in the evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Conques Zentrum",
+                "hu": "Conques központ",
+                "ro": "Centrul Conques",
+                "en": "Conques Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz oberhalb des Dorfes.",
+                "hu": "Használja a falu feletti nagy parkolót.",
+                "ro": "Folosiți parcarea mare de deasupra satului.",
+                "en": "Use the large parking area located above the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Vabre Dorf",
+                "hu": "Grand-Vabre falu",
+                "ro": "Satul Grand-Vabre",
+                "en": "Grand-Vabre Village"
+              },
+              "tip_5lang": {
+                "de": "Charmantes Dorf am Zusammenfluss von Dourdou und Lot.",
+                "hu": "Bájos falu a Dourdou és a Lot folyók összefolyásánál.",
+                "ro": "Sat fermecător la confluența râurilor Dourdou și Lot.",
+                "en": "Charming village at the confluence of the Dourdou and Lot rivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt auf den Lot",
+                "hu": "Kilátó a Lot folyóra",
+                "ro": "Punct de belvedere asupra râului Lot",
+                "en": "Lot River Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Blick auf das gewundene Flusstal.",
+                "hu": "Gyönyörű kilátás a kanyargó folyóvölgyre.",
+                "ro": "Vedere superbă asupra văii sinuoase a râului.",
+                "en": "Beautiful view of the winding river valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Vin de Marcillac Weingut",
+                "hu": "Marcillac borászat",
+                "ro": "Cramă Vin de Marcillac",
+                "en": "Vin de Marcillac Winery"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Rotwein aus der Rebsorte Mansois.",
+                "hu": "Kóstolja meg a helyi vörösbort a Mansois szőlőből.",
+                "ro": "Gustați vinul roșu local din soiul Mansois.",
+                "en": "Taste the local red wine made from the Mansois grape."
+              }
+            },
+            {
+              "name": {
+                "de": "Rückkehr nach Conques (Abendblick)",
+                "hu": "Visszatérés Conques-ba",
+                "ro": "Revenire în Conques",
+                "en": "Return to Conques"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Fotos im weichen Abendlicht.",
+                "hu": "Tökéletes alkalom fotózáshoz a lágy esti fényben.",
+                "ro": "Perfect pentru fotografii în lumina blândă a serii.",
+                "en": "Perfect for photos in the soft evening light."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Logis de l'Aveyron",
+                "tip": "Regionale Spezialitäten in gemütlichem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Logis de l'Aveyron",
+                "tip": "Regionális specialitások hangulatos környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Logis de l'Aveyron",
+                "tip": "Specialități regionale într-o ambianță primitoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Logis de l'Aveyron",
+                "tip": "Regional specialties in a cozy setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lot-Ufer bei Grand-Vabre",
+                "tip": "Ruhiger Platz am Flussufer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lot-part Grand-Vabre-nál",
+                "tip": "Csendes hely a folyóparton.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Lotului la Grand-Vabre",
+                "tip": "Un loc liniștit pe malul apei.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lot Riverbank at Grand-Vabre",
+                "tip": "Quiet spot by the water's edge.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marcillac Weinladen",
+                "tip": "Direktverkauf lokaler Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marcillac borbolt",
+                "tip": "Helyi borok közvetlen értékesítése."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de vinuri Marcillac",
+                "tip": "Vânzare directă de vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marcillac Wine Shop",
+                "tip": "Direct sale of local vintage wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+              "Parken in Conques ist kostenpflichtig, halten Sie Kleingeld bereit.",
+              "In Grand-Vabre gibt es wenig Parkplätze im Zentrum.",
+              "Tanken Sie vor der Fahrt in die Berge voll."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak, vezessen óvatosan.",
+              "Conques-ban a parkolás fizetős, legyen Önnél aprópénz.",
+              "Grand-Vabre központjában kevés a parkolóhely.",
+              "Tankoljon fel a hegyi utak előtt."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și sinuoase, conduceți cu atenție.",
+              "Parcarea în Conques este cu plată, pregătiți mărunțiș.",
+              "În Grand-Vabre sunt puține locuri de parcare în centru.",
+              "Alimentați cu combustibil înainte de a pleca în munți."
+            ],
+            "en": [
+              "The roads are narrow and winding; drive with caution.",
+              "Parking in Conques is paid; keep some change ready.",
+              "Parking is limited in the center of Grand-Vabre.",
+              "Refuel before heading deep into the mountain roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt durch das Lot-Tal ist auch bei Regen wunderschön. Mittags genießen Sie den Blick auf den Fluss aus dem trockenen Auto. Nachmittags ist die Weinprobe die perfekte Indoor-Aktivität. Abends kehren Sie gemütlich nach Conques zurück.",
+            "hu": "A Lot-völgyben az autózás esőben is gyönyörű látványt nyújt. Délben a száraz autóból élvezheti a folyóra nyíló kilátást. Délután a borkóstolás a tökéletes beltéri program. Este kényelmesen térhet vissza Conques-ba.",
+            "ro": "Drumul prin valea Lot este superb chiar și pe ploaie. La prânz, admirați râul din confortul mașinii uscate. După-amiaza, degustarea de vinuri este activitatea perfectă de interior. Seara, reveniți relaxat în Conques.",
+            "en": "Driving through the Lot Valley is beautiful even in the rain. At noon, enjoy river views from the dry comfort of your car. In the afternoon, a winery visit is the perfect indoor activity. In the evening, return comfortably to Conques."
+          },
+          "stops": [
+            {
+              "name": "Conques Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um trocken ins Dorf zu gelangen.",
+                "hu": "Használja a parkolót, hogy szárazon jusson be a faluba.",
+                "ro": "Folosiți parcarea pentru a ajunge uscat în sat.",
+                "en": "Use the main parking area to access the village with minimal exposure."
+              }
+            },
+            {
+              "name": "Grand-Vabre Village",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Fotostopp aus dem Autofenster.",
+                "hu": "Szép hely egy rövid fotómegállóhoz az autó ablakából.",
+                "ro": "Un loc frumos pentru o scurtă oprire foto de la fereastra mașinii.",
+                "en": "A lovely spot for a quick photo from the car window."
+              }
+            },
+            {
+              "name": "Lot River Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Wagen, die Aussicht ist auch so beeindruckend.",
+                "hu": "Maradjon az autóban, a kilátás onnan is lenyűgöző.",
+                "ro": "Rămâneți în mașină, vederea este impresionantă oricum.",
+                "en": "Stay in the car; the view is impressive even from inside."
+              }
+            },
+            {
+              "name": "Vin de Marcillac Winery",
+              "tip_5lang": {
+                "de": "Die beste Zeit, um die lokalen Weine im Trockenen zu probieren.",
+                "hu": "A legjobb időpont a helyi borok megkóstolására, védett helyen.",
+                "ro": "Cel mai bun moment pentru a degusta vinurile locale la adăpost.",
+                "en": "The best time to sample local wines while staying dry."
+              }
+            },
+            {
+              "name": "Return to Conques",
+              "tip_5lang": {
+                "de": "Die Lichter des Dorfes wirken im Regen besonders stimmungsvoll.",
+                "hu": "A falu fényei az esőben különösen hangulatosak.",
+                "ro": "Luminile satului par deosebit de sugestive pe ploaie.",
+                "en": "The village lights look especially atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die engen Straßen im Tal erfordern bei Nässe hohe Konzentration.",
+              "Vermeiden Sie es, auf unbefestigten Seitenstreifen zu parken.",
+              "Die Weinverkostung ist ein idealer Unterschlupf bei Starkregen.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren."
+            ],
+            "hu": [
+              "A völgy szűk útjai nedvesen fokozott koncentrációt igényelnek.",
+              "Kerülje a parkolást a nem aszfaltozott útpadkán.",
+              "A borkóstolás ideális menedék heves esőzés idején.",
+              "Győződjön meg róla, hogy az ablaktörlők tökéletesen működnek."
+            ],
+            "ro": [
+              "Drumurile înguste din vale necesită concentrare pe ploaie.",
+              "Evitați parcarea pe marginile neasfaltate ale drumului.",
+              "Degustarea de vinuri este un refugiu ideal în caz de ploaie torențială.",
+              "Asigurați-vă că ștergătoarele funcționează impecabil."
+            ],
+            "en": [
+              "The narrow valley roads require extra focus during wet weather.",
+              "Avoid parking on unpaved road shoulders.",
+              "The winery visit is an ideal retreat during heavy rain.",
+              "Ensure your windshield wipers are in good working order."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterlandschaft des Aveyron zeigt sich in sanften Farben. Mittags ist das Dorf Grand-Vabre herrlich ruhig. Nachmittags wärmt die Weinprobe von innen. Abends genießen Sie die Heimfahrt durch das schimmernde Tal.",
+            "hu": "Aveyron téli tája lágy színekben pompázik. Délben Grand-Vabre faluja csodálatosan csendes. Délután a borkóstolás belülről melengeti meg. Este élvezze a hazautat a csillogó völgyön keresztül.",
+            "ro": "Peisajul de iarnă din Aveyron se arată în culori blânde. La prânz, satul Grand-Vabre este minunat de liniștit. După-amiaza, degustarea de vinuri vă va încălzi. Seara, bucurați-vă de drumul spre casă prin valea sclipitoare.",
+            "en": "The winter landscape of Aveyron shows itself in soft, muted colors. At noon, Grand-Vabre is wonderfully peaceful. In the afternoon, a winery visit provides warmth from within. In the evening, enjoy the drive home through the shimmering valley."
+          },
+          "stops": [
+            {
+              "name": "Conques Center",
+              "tip_5lang": {
+                "de": "Heizen Sie den Wagen gut vor, bevor Sie Conques verlassen.",
+                "hu": "Fűtse fel jól az autót, mielőtt elindul Conques-ból.",
+                "ro": "Încălziți bine mașina înainte de a pleca din Conques.",
+                "en": "Pre-heat your car well before leaving the village."
+              }
+            },
+            {
+              "name": "Grand-Vabre Village",
+              "tip_5lang": {
+                "de": "Der Ort wirkt im Winter wie aus der Zeit gefallen.",
+                "hu": "A település télen olyan, mintha megállt volna az idő.",
+                "ro": "Satul pare desprins din timp în timpul iernii.",
+                "en": "The village feels like it's frozen in time during winter."
+              }
+            },
+            {
+              "name": "Lot River Viewpoint",
+              "tip_5lang": {
+                "de": "Die klare Luft ermöglicht eine weite Sicht über den Fluss.",
+                "hu": "A tiszta levegő messzi kilátást enged a folyó mentén.",
+                "ro": "Aerul curat permite o vizibilitate mare de-a lungul râului.",
+                "en": "Clear winter air allows for expansive views along the river."
+              }
+            },
+            {
+              "name": "Vin de Marcillac Winery",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp, um sich aufzuwärmen.",
+                "hu": "Hangulatos megálló, hogy egy kicsit felmelegedjen.",
+                "ro": "O oprire primitoare pentru a vă încălzi.",
+                "en": "A cozy stop to warm up and escape the cold."
+              }
+            },
+            {
+              "name": "Return to Conques",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den tiefergelegenen Straßen.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra az alacsonyabb utakon.",
+                "ro": "Atenție la porțiunile alunecoase de pe drumurile de joasă altitudine.",
+                "en": "Watch for icy patches on roads in the lower valley areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser hügeligen Region zwingend erforderlich.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie die Fahrt so, dass Sie vor Einbruch der Dunkelheit ankommen.",
+              "Einige Weingüter haben im Winter verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "Ebben a dombos régióban a téli gumi használata kötelező.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "Úgy tervezze az utat, hogy sötétedés előtt visszaérjen.",
+              "Néhány borászat télen rövidített nyitvatartással üzemel."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune deluroasă.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Planificați drumul astfel încât să ajungeți înainte de lăsarea întunericului.",
+              "Unele crame pot avea program redus în timpul iernii."
+            ],
+            "en": [
+              "Winter tires are essential in this hilly French region.",
+              "Make sure your windshield washer fluid is frost-resistant.",
+              "Plan to complete your drive before the early sunset.",
+              "Check winter opening hours for wineries as they may be shorter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1014,34 +2122,359 @@
           "Buses can be crowded during the peak tourist season.",
           "The bus stop features a very helpful orientation map."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Shuttle und erkunden Sie Conques stressfrei. Von der Bushaltestelle geht es zum friedlichen Klostergarten und durch das kulturelle Herz des Dorfes. Erfahren Sie mehr über die Geschichte des Jakobswegs, bevor Sie den Nachmittag auf dem belebten Abteiplatz ausklingen lassen.",
+            "hu": "Használja a helyi buszt és fedezze fel Conquest stresszmentesen. A buszmegállótól indulva látogasson el a békés kolostorkertbe, majd a falu kulturális központjába. Ismerje meg a Szent Jakab-út történetét, mielőtt a délutánt az apátság előtti nyüzsgő téren fejezné be.",
+            "ro": "Folosiți transportul local și explorați Conques fără stres. De la stația de autobuz, mergeți spre grădina liniștită a mănăstirii și prin inima culturală a satului. Aflați istoria drumului spre Santiago înainte de a încheia după-amiaza în piața animată a abației.",
+            "en": "Use the local shuttle and explore Conques stress-free. From the bus stop, head to the peaceful cloister garden and through the cultural heart of the village. Learn about the history of the Way of St. James before finishing your afternoon at the lively Abbey Square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Conques",
+                "hu": "Conques buszmegálló",
+                "ro": "Stația de autobuz Conques",
+                "en": "Conques Bus Stop"
+              },
+              "tip_5lang": {
+                "de": "Haupteingang zum Dorf für alle Besucher.",
+                "hu": "A falu főbejárata minden látogató számára.",
+                "ro": "Intrarea principală în sat pentru toți vizitatorii.",
+                "en": "The main gateway to the village for all visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Klostergarten",
+                "hu": "Kolostorkert",
+                "ro": "Grădina mănăstirii",
+                "en": "Cloister Garden"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille inmitten der Abtei.",
+                "hu": "A nyugalom szigete az apátság közepén.",
+                "ro": "Un loc de liniște în mijlocul abației.",
+                "en": "A place of profound peace within the abbey walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Conques (Zentrum)",
+                "hu": "Espace Conques (központ)",
+                "ro": "Espace Conques (centru)",
+                "en": "Espace Conques (Center)"
+              },
+              "tip_5lang": {
+                "de": "Informationspunkt und lokales Handwerk.",
+                "hu": "Információs pont és helyi kézműves termékek.",
+                "ro": "Punct de informare și meșteșuguri locale.",
+                "en": "Information point and hub for local crafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de la Sainte",
+                "hu": "Szent birtok",
+                "ro": "Domaine de la Sainte",
+                "en": "Domaine de la Sainte"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über das Leben der Pilger.",
+                "hu": "Tudjon meg többet a zarándokok életéről.",
+                "ro": "Aflați mai multe despre viața pelerinilor.",
+                "en": "Learn more about the daily life of the pilgrims."
+              }
+            },
+            {
+              "name": {
+                "de": "Abteiplatz (Nachmittag)",
+                "hu": "Apátság tere",
+                "ro": "Piața Abației",
+                "en": "Abbey Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das bunte Treiben der Besucher.",
+                "hu": "Élvezze a látogatók színes forgatagát.",
+                "ro": "Bucurați-vă de animația turiștilor și pelerinilor.",
+                "en": "Enjoy the vibrant atmosphere of pilgrims and tourists."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Salon de Thé de l'Abbatiale",
+                "tip": "Hausgemachte Kuchen und Erfrischungen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Salon de Thé de l'Abbatiale",
+                "tip": "Házi sütemények és frissítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salon de Thé de l'Abbatiale",
+                "tip": "Prăjituri de casă și băuturi răcoritoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Salon de Thé de l'Abbatiale",
+                "tip": "Homemade cakes and light refreshments."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterhof der Abtei",
+                "tip": "Ein versteckter Winkel abseits der Menge.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Apátság hátsó udvara",
+                "tip": "Rejtett zug a tömegtől távol.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Curtea din spate a abației",
+                "tip": "Un ungher ascuns departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Abbey Back Courtyard",
+                "tip": "A hidden nook away from the crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du Patrimoine",
+                "tip": "Hochwertige Bücher und Repliken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boutique du Patrimoine",
+                "tip": "Minőségi könyvek és másolatok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du Patrimoine",
+                "tip": "Cărți de calitate și replici de artă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutique du Patrimoine",
+                "tip": "High-quality books and art replicas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Shuttlebusse fahren nur zu bestimmten Zeiten, prüfen Sie den Fahrplan.",
+              "Die meisten Sehenswürdigkeiten sind vom Shuttle-Drop-off zu Fuß erreichbar.",
+              "In der Hochsaison können die Busse voll sein.",
+              "Die Haltestelle bietet eine gute Orientierungstafel."
+            ],
+            "hu": [
+              "A buszok csak bizonyos időpontokban járnak, ellenőrizze a menetrendet.",
+              "A legtöbb látnivaló gyalogosan elérhető a buszmegállótól.",
+              "Főszezonban a buszok zsúfoltak lehetnek.",
+              "A megállóban jó tájékoztató tábla található."
+            ],
+            "ro": [
+              "Autobuzele circulă doar la anumite ore, verificați orarul.",
+              "Majoritatea obiectivelor sunt accesibile pe jos de la stație.",
+              "În plin sezon, autobuzele pot fi aglomerate.",
+              "Stația are un panou de orientare foarte util."
+            ],
+            "en": [
+              "Shuttle buses run only at specific times; check the schedule carefully.",
+              "Most sights are within easy walking distance from the drop-off point.",
+              "Buses can be crowded during the peak tourist season.",
+              "The bus stop features a very helpful orientation map."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie trocken ins Herz von Conques. Mittags bietet der Kreuzganggarten einen geschützten Rückzugsort. Nachmittags erkunden Sie die Espace Conques im Trockenen. Abends warten Sie an der Bushaltestelle auf die Heimfahrt.",
+            "hu": "A busz szárazon viszi be Conques szívébe. Délben a kerengő kertje védett pihenőhelyet nyújt. Délután az Espace Conques kiállításait tekintheti meg fedett helyen. Este a buszmegállóban várhatja a hazautat.",
+            "ro": "Autobuzul vă duce uscat în inima orașului Conques. La prânz, grădina mănăstirii oferă un refugiu protejat. După-amiaza, explorați Espace Conques la adăpost. Seara, așteptați autobuzul în stație pentru drumul de întoarcere.",
+            "en": "The bus delivers you dry into the heart of Conques. At noon, the cloister garden offers a sheltered retreat. In the afternoon, explore Espace Conques indoors. In the evening, wait at the bus stop for your journey home."
+          },
+          "stops": [
+            {
+              "name": "Conques Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet Schutz während Sie auf den Bus warten.",
+                "hu": "A buszváró fedele védelmet nyújt a várakozás alatt.",
+                "ro": "Adăpostul din stație vă protejează în timp ce așteptați autobuzul.",
+                "en": "The bus shelter provides good cover while you wait."
+              }
+            },
+            {
+              "name": "Cloister Garden",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge des Kreuzgangs sind ideal bei Regen.",
+                "hu": "A kerengő fedett folyosói ideálisak esős időben.",
+                "ro": "Coridoarele acoperite ale mănăstirii sunt ideale pe ploaie.",
+                "en": "The covered walkways of the cloister are perfect for rainy days."
+              }
+            },
+            {
+              "name": "Espace Conques (Center)",
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses Informationszentrum für eine Regenpause.",
+                "hu": "Használja ezt az információs központot egy esőszünetre.",
+                "ro": "Folosiți acest centru de informare pentru o pauză de ploaie.",
+                "en": "Use this visitor center as a base to stay dry."
+              }
+            },
+            {
+              "name": "Domaine de la Sainte",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg hierher erfordert Schutzkleidung.",
+                "hu": "Az ide vezető rövid sétához szükség lesz esővédő ruházatra.",
+                "ro": "Scurta plimbare până aici necesită haine de protecție.",
+                "en": "The short walk here requires proper rain gear."
+              }
+            },
+            {
+              "name": "Abbey Square",
+              "tip_5lang": {
+                "de": "Die Cafés am Platz sind gute Orte, um trocken zu bleiben.",
+                "hu": "A tér melletti kávézók remek helyek a várakozáshoz.",
+                "ro": "Cafenelele din piață sunt locuri bune pentru a rămâne uscat.",
+                "en": "The cafés around the square are great spots to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan, bei Regen kann es Verspätungen geben.",
+              "Die Busse in der Region sind meist gut beheizt.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Das Espace Conques ist ein großartiger Ort zum Aufwärmen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, esőben előfordulhatnak késések.",
+              "A régió buszai általában jól fűtöttek.",
+              "Viseljen vízálló cipőt a megállók közötti sétákhoz.",
+              "Az Espace Conques nagyszerű hely a felmelegedésre."
+            ],
+            "ro": [
+              "Verificați mersul autobuzelor, pot apărea întârzieri din cauza ploii.",
+              "Autobuzele din regiune sunt de obicei bine încălzite.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "Espace Conques este un loc minunat pentru a vă încălzi."
+            ],
+            "en": [
+              "Check the bus schedule; rain can sometimes cause delays.",
+              "Regional buses are generally well-heated and comfortable.",
+              "Wear waterproof shoes for the short walks between stops.",
+              "Espace Conques is an excellent indoor facility to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Busfahrt bietet einen Blick auf die winterlichen Hügel. Mittags ist der Kreuzganggarten still und oft mit Reif bedeckt. Nachmittags wärmen Sie sich im Informationszentrum auf. Abends leuchten die Lichter der Abtei hell in der Winterdunkelheit.",
+            "hu": "A fagyos buszút során rálátni a téli dombokra. Délben a kerengő kertje csendes, gyakran zúzmarás. Délután az információs központban melegedhet fel. Este az apátság fényei ragyognak a téli sötétségben.",
+            "ro": "Drumul cu autobuzul oferă o vedere asupra dealurilor de iarnă. La prânz, grădina mănăstirii este liniștită și brumată. După-amiaza, vă puteți încălzi în centrul de informare. Seara, luminile abatiei strălucesc în întunericul iernii.",
+            "en": "The frosty bus ride offers views of the winter hills. At noon, the cloister garden is quiet and often covered in frost. In the afternoon, warm up at the visitor center. In the evening, the Abbey lights shine brightly in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Conques Bus Stop",
+              "tip_5lang": {
+                "de": "Kommen Sie erst kurz vor Abfahrt zur Haltestelle, um nicht zu frieren.",
+                "hu": "Csak röviddel az indulás előtt menjen ki, hogy ne fázzon.",
+                "ro": "Veniți în stație cu puțin timp înainte de plecare pentru a nu îngheța.",
+                "en": "Arrive at the stop shortly before departure to avoid the cold."
+              }
+            },
+            {
+              "name": "Cloister Garden",
+              "tip_5lang": {
+                "de": "Die gefrorenen Pflanzen im Garten sind ein schönes Fotomotiv.",
+                "hu": "A kert fagyott növényei gyönyörű fotótémát szolgáltatnak.",
+                "ro": "Plantele înghețate din grădină sunt un subiect frumos pentru fotografii.",
+                "en": "The frozen plants in the garden make for beautiful photos."
+              }
+            },
+            {
+              "name": "Espace Conques (Center)",
+              "tip_5lang": {
+                "de": "Hier finden Sie im Winter angenehme Wärme und Informationen.",
+                "hu": "Itt télen kellemes melegre és hasznos információkra lelhet.",
+                "ro": "Aici veți găsi căldură plăcută și informații utile pe timp de iarnă.",
+                "en": "You'll find pleasant warmth and information here during winter."
+              }
+            },
+            {
+              "name": "Domaine de la Sainte",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, um die Körperwärme aufrechtzuerhalten.",
+                "hu": "Sétáljon tempósan, hogy fenntartsa testhőmérsékletét.",
+                "ro": "Mergeți vioi pentru a vă menține căldura corporală.",
+                "en": "Walk briskly to keep your body heat up."
+              }
+            },
+            {
+              "name": "Abbey Square",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk, während Sie auf den Bus warten.",
+                "hu": "Élvezzen egy forró italt, miközve a buszra vár.",
+                "ro": "Savurați o băutură caldă în timp ce așteptați autobuzul.",
+                "en": "Enjoy a hot drink while waiting for your bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse verkehren im Winter seltener, prüfen Sie den Fahrplan genau.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kalt sein kann.",
+              "Die Dunkelheit bricht früh ein, planen Sie den Tag bis 16:30 Uhr.",
+              "Das Informationszentrum ist im Winter oft der einzige beheizte Ort."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak, gondosan ellenőrizze a menetrendet.",
+              "Viseljen meleg zoknit, a megállóban való várakozás hűvös lehet.",
+              "Korán sötétedik, tervezze a napot délután fél 5-ig.",
+              "Az információs központ télen gyakran az egyetlen fűtött közösségi hely."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna, verificați cu atenție orarul.",
+              "Purtați șosete groase, așteptarea în stație poate fi friguroasă.",
+              "Se întunecă devreme, planificați ziua până la ora 16:30.",
+              "Centrul de informare este adesea singurul loc încălzit iarna."
+            ],
+            "en": [
+              "Buses run less frequently in winter; check the timetable carefully.",
+              "Wear warm socks as waiting at stops can be very chilly.",
+              "Darkness falls early; plan to finish your sightseeing by 16:30.",
+              "The visitor center is often the best heated public space in winter."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tourisme-conques.fr/",
-    "events": "https://www.tourisme-conques.fr/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.lio-occitanie.fr/",
-    "language_tips": {
-      "de": "Conques ist UNESCO-Pilgerort am Jakobsweg, eines der schönsten Dörfer Frankreichs. Englisch wird in der Abtei und den Pilger-Herbergen gesprochen. Lernen Sie 'Abbatiale Sainte-Foy' für die romanische Abtei und 'tympan du Jugement dernier' für das berühmte Tympanon des Jüngsten Gerichts.",
-      "hu": "Conques UNESCO zarándokhely a Szent Jakab-úton, Franciaország egyik legszebb falva. Az apátságban és a zarándokszállókban beszélnek angolul. Tanuld meg az 'Abbatiale Sainte-Foy' nevet a román apátsághoz és a 'tympan du Jugement dernier' nevet az utolsó ítélet híres timpanonjához.",
-      "ro": "Conques este loc de pelerinaj UNESCO pe drumul Sf. Iacob, unul dintre cele mai frumoase sate ale Franței. Engleza se vorbește la abație și hanurile pelerinilor. Învățați 'Abbatiale Sainte-Foy' pentru abația romanică și 'tympan du Jugement dernier' pentru celebrul timpan al Judecății de Apoi.",
-      "en": "Conques is a UNESCO pilgrimage site on the Way of St James - one of France's most beautiful villages. English is spoken at the abbey and pilgrim hostels. Learn 'Abbatiale Sainte-Foy' for the Romanesque abbey and 'tympan du Jugement dernier' for the famous Last Judgement tympanum."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Pilger und perfekte Bedingungen für Wanderungen. Juli-August bringt Pilgerströme und das Festival de Conques (Klassische Musik). Winter ist sehr ruhig, viele Geschäfte geschlossen aber die Abtei bleibt geöffnet.",
-      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, kevesebb zarándok és tökéletes feltételek a túrázáshoz. Júliusban-augusztusban érkeznek a zarándokáradat és a Conques fesztivál (klasszikus zene). Télen nagyon csendes, sok bolt zárva, de az apátság nyitva.",
-      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini pelerini și condiții perfecte pentru drumeții. Iulie-august aduc fluxurile de pelerini și festivalul Conques (muzică clasică). Iarna este foarte liniștită, multe magazine închise, dar abația rămâne deschisă.",
-      "en": "May-June and September-October are ideal: mild weather, fewer pilgrims and perfect hiking conditions. July-August bring pilgrim crowds and the Festival de Conques (classical music). Winter is very quiet with many shops closed, though the abbey stays open."
-    },
-    "neighborhood_warnings": {
-      "de": "Conques ist sehr sicher, ein winziges mittelalterliches Dorf. Parken nur außerhalb des Dorfes erlaubt, dann zu Fuß hinein. Die steilen Pflasterstraßen erfordern festes Schuhwerk, besonders bei Regen.",
-      "hu": "Conques nagyon biztonságos, apró középkori falu. Parkolni csak a falun kívül lehet, onnan gyalog. A meredek macskaköves utcák erős cipőt igényelnek, főleg esőben.",
-      "ro": "Conques este foarte sigur, un sat medieval mic. Parcarea este permisă doar în afara satului, apoi pe jos. Străzile abrupte pavate cu piatră necesită încălțăminte solidă, mai ales pe ploaie.",
-      "en": "Conques is very safe, a tiny medieval village. Parking is only allowed outside the village, with foot access in. Steep cobbled streets demand sturdy shoes, especially when wet."
-    },
-    "parking_real_time": ""
   }
 }

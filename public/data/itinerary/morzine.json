@@ -261,6 +261,374 @@
           "Taste local cheeses directly from the producers.",
           "In high season, it's advisable to book a table for lunch."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Morzine mit einem Besuch der zentralen Kirche und des Marktplatzes. Am Vormittag bietet der Parc des Dérêches eine natürliche Erholung am Flussufer. Mittags erkunden Sie die kulinarischen Köstlichkeiten in der Rue du Bourg. Den Nachmittag verbringen Sie entspannt an der Pléney-Talstation, wo Sie die majestätische Bergkulisse der Savoyer Alpen genießen können, bevor der Tag in einer gemütlichen Bar ausklingt.",
+            "hu": "Kezdje a napot Morzine szívében a központi templom és a városháza tér felfedezésével. Délelőtt a Parc des Dérêches kínál természetközeli kikapcsolódást a folyóparton. Ebédidőben kóstolja meg a helyi specialitásokat a Rue du Bourg hangulatos éttermeiben. A délutánt töltse a Pléney felvonó környékén, élvezve a Savoyai-Alpok fenséges látványát, mielőtt egy helyi bárban zárná a napot.",
+            "ro": "Începeți ziua în inima localității Morzine, explorând biserica centrală și piața primăriei. Dimineața, Parcul Dérêches oferă o relaxare în natură pe malul râului. La prânz, gustați specialitățile locale în restaurantele primitoare de pe Rue du Bourg. Petreceți după-amiaza în zona telecabinei Pléney, admirând peisajul maiestuos al Alpilor Savoiarzi, înainte de a încheia ziua într-un bar local.",
+            "en": "Start your day in the heart of Morzine by exploring the central church and the town hall square. In the morning, Parc des Dérêches offers a natural retreat by the riverbank. At lunchtime, taste local specialties in the cozy restaurants of Rue du Bourg. Spend the afternoon around the Pléney cable car base, enjoying the majestic views of the Savoy Alps before ending the day in a local bar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Madeleine",
+                "hu": "Szent Mária Magdolna-templom",
+                "ro": "Biserica Sainte-Marie-Madeleine",
+                "en": "Sainte-Marie-Madeleine Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur und die Glasmalereien.",
+                "hu": "Csodálja meg a modern építészetet és az üvegablakokat.",
+                "ro": "Admirați arhitectura modernă și vitraliile.",
+                "en": "Admire the modern architecture and stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la Mairie",
+                "hu": "Városháza tér",
+                "ro": "Piața Primăriei",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Der zentrale Treffpunkt mit Brunnen und lokalem Flair.",
+                "hu": "Központi találkozóhely szökőkúttal és helyi hangulattal.",
+                "ro": "Punctul central de întâlnire, cu fântână și atmosferă locală.",
+                "en": "The central meeting point with a fountain and local vibe."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Dérêches",
+                "hu": "Dérêches park",
+                "ro": "Parcul Dérêches",
+                "en": "Parc des Dérêches"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang am Fluss Dranse im kühlen Schatten der Bäume.",
+                "hu": "Séta a Dranse-folyó partján, a fák hűvös árnyékában.",
+                "ro": "Plimbare pe malul râului Dranse, la umbra răcoroasă a copacilor.",
+                "en": "Walk along the Dranse river in the cool shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Bourg",
+                "hu": "Rue du Bourg",
+                "ro": "Rue du Bourg",
+                "en": "Rue du Bourg"
+              },
+              "tip_5lang": {
+                "de": "Haupteinkaufsstraße mit Cafés und Sportgeschäften.",
+                "hu": "Fő bevásárlóutca kávézókkal és sportboltokkal.",
+                "ro": "Strada comercială principală, cu cafenele și magazine de sport.",
+                "en": "Main shopping street with cafes and sports shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Pléney Seilbahn Talstation",
+                "hu": "Pléney felvonó alsó állomás",
+                "ro": "Stația de bază a telecabinei Pléney",
+                "en": "Pléney Cable Car Base"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ausgangspunkt für Wanderungen mit Panoramablick.",
+                "hu": "Ideális kiindulópont panorámás túrákhoz.",
+                "ro": "Punct de plecare ideal pentru drumeții cu vedere panoramică.",
+                "en": "Ideal starting point for hikes with panoramic views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tartiflette",
+                "tip": "Reblochon-Käse, Kartoffeln und Speck – ein Muss in den Alpen."
+              },
+              {
+                "name": "La Rotonde",
+                "tip": "Traditionelle savoyische Küche im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tartiflette",
+                "tip": "Reblochon sajt, burgonya és szalonna – kötelező fogás az Alpokban."
+              },
+              {
+                "name": "La Rotonde",
+                "tip": "Hagyományos savoyai konyha a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tartiflette",
+                "tip": "Brânză Reblochon, cartofi și costiță – un preparat obligatoriu în Alpi."
+              },
+              {
+                "name": "La Rotonde",
+                "tip": "Bucătărie tradițională savoiardă în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tartiflette",
+                "tip": "Reblochon cheese, potatoes, and bacon – a must-try in the Alps."
+              },
+              {
+                "name": "La Rotonde",
+                "tip": "Traditional Savoyard cuisine in the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dranse Ufer",
+                "tip": "Ruhiger Platz zum Entspannen am Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dranse-part",
+                "tip": "Csendes hely a vízparti pihenéshez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Dranse",
+                "tip": "Loc liniștit pentru relaxare lângă apă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dranse Riverbank",
+                "tip": "Quiet spot for relaxation by the water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché de Morzine",
+                "tip": "Lokale Produkte am Mittwochvormittag."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Morzine piac",
+                "tip": "Helyi termékek szerda délelőttönként."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Morzine",
+                "tip": "Produse locale în diminețile de miercuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Morzine Market",
+                "tip": "Local products on Wednesday mornings."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+              "Der kostenlose Shuttlebus ist ideal für längere Strecken.",
+              "Probieren Sie den lokalen Käse direkt beim Erzeuger.",
+              "In der Hochsaison ist eine Reservierung für das Mittagessen ratsam."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Az ingyenes buszjárat ideális a hosszabb szakaszokhoz.",
+              "Kóstolja meg a helyi sajtokat közvetlenül a termelőktől.",
+              "Főszezonban érdemes asztalt foglalni az ebédhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Autobuzul gratuit este ideal pentru distanțe mai mari.",
+              "Gustați brânzeturile locale direct de la producători.",
+              "În plin sezon, se recomandă rezervarea unei mese pentru prânz."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "The free shuttle bus is ideal for longer stretches.",
+              "Taste local cheeses directly from the producers.",
+              "In high season, it's advisable to book a table for lunch."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Kirche, einem friedlichen Zufluchtsort vor dem Regen. Der Rathausplatz wirkt im Nebel fast mystisch. Ein Spaziergang im Parc des Dérêches bietet trotz Nässe frische Alpenluft. In der Rue du Bourg finden Sie unter den Vordächern Schutz beim Schaufensterbummel. Den Abschluss bildet die Pléney-Station, wo Sie das Wolkenspiel über den Gipfeln beobachten können.",
+            "hu": "Kezdje a napot a templomban, amely csendes menedéket nyújt az eső elől. A Városháza tér misztikus arcát mutatja a ködben. A Parc des Dérêches friss hegyi levegőt kínál még vizes időben is. A Rue du Bourg üzleteinek ereszei alatt szárazon nézelődhet. A napot a Pléney felvonó bázisánál zárja, figyelve a felhők vonulását a hegyoldalban.",
+            "ro": "Începeți ziua la biserică, un refugiu liniștit împotriva ploii. Piața Primăriei pare aproape mistică prin ceață. O plimbare în Parc des Dérêches oferă aer proaspăt de munte chiar și pe umezeală. Pe Rue du Bourg găsiți adăpost sub streșinile magazinelor în timp ce admirați vitrinele. Încheiați la stația Pléney, observând jocul norilor pe creste.",
+            "en": "Start your day at the church, a peaceful refuge from the rain. The Town Hall Square looks almost mystical through the mist. A walk in Parc des Dérêches offers fresh Alpine air despite the wet. Find shelter under the eaves of shops on Rue du Bourg while window shopping. End at the Pléney station, watching the clouds dance across the mountain slopes."
+          },
+          "stops": [
+            {
+              "name": "Sainte-Marie-Madeleine Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy hirtelen zápor szárazon való megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Die umliegenden Cafés bieten überdachte Sitzmöglichkeiten im Freien.",
+                "hu": "A környékbeli kávézók fedett kültéri ülőhelyeket kínálnak.",
+                "ro": "Cafenelele din jur oferă locuri acoperite la terase.",
+                "en": "Surrounding cafes offer covered outdoor seating options."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "Die dichten Bäume am Fluss bieten natürlichen Schutz vor leichtem Regen.",
+                "hu": "A folyó menti sűrű fák természetes védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Copacii deși de lângă râu oferă protecție naturală împotriva ploii ușoare.",
+                "en": "Dense trees along the river provide natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Rue du Bourg",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Chalets, um trocken von Laden zu Laden zu kommen.",
+                "hu": "Használja a faházak ereszeit, hogy szárazon jusson üzletről üzletre.",
+                "ro": "Folosiți streșinile cabanelor pentru a merge uscat de la magazin la magazin.",
+                "en": "Use the chalet eaves to move between shops while staying dry."
+              }
+            },
+            {
+              "name": "Pléney Cable Car Base",
+              "tip_5lang": {
+                "de": "Der Wartebereich ist komplett überdacht und bietet Schutz.",
+                "hu": "A várakozóhely teljesen fedett és védelmet nyújt az esőtől.",
+                "ro": "Zona de așteptare este complet acoperită și oferă protecție.",
+                "en": "The waiting area is fully covered and provides shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige wasserdichte Schuhe, da die Pflastersteine rutschig sein können.",
+              "Viele Geschäfte in der Rue du Bourg verleihen Regenschirme an ihre Kunden.",
+              "Besuchen Sie das Palais des Sports im Park für Indoor-Aktivitäten wie Schwimmen.",
+              "Die Berggipfel sind bei Regen oft wolkenverhangen, was eine dramatische Fotokulisse bietet."
+            ],
+            "hu": [
+              "Viseljen jó minőségű vízálló cipőt, mert a macskakövek csúszósak lehetnek.",
+              "A Rue du Bourg számos üzlete kínál esernyőt a vásárlóinak.",
+              "Látogassa meg a parkban található Palais des Sports központot fedett úszáshoz.",
+              "A hegycsúcsok esőben gyakran felhőbe burkolóznak, ami drámai fotótémát szolgáltat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă de calitate, deoarece pavajul poate fi alunecos.",
+              "Multe magazine de pe Rue du Bourg împrumută umbrele clienților lor.",
+              "Vizitați Palais des Sports din parc pentru activități interioare, cum ar fi înotul.",
+              "Vârfurile munților sunt adesea învăluite în nori pe ploaie, oferind un fundal dramatic."
+            ],
+            "en": [
+              "Wear high-quality waterproof shoes as the cobblestones can be slippery when wet.",
+              "Many shops on Rue du Bourg provide umbrellas for their customers to use.",
+              "Visit the Palais des Sports in the park for indoor activities like swimming.",
+              "Mountain peaks are often shrouded in clouds during rain, creating a dramatic backdrop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Zauber in der Kirche mit ihrer warmen Atmosphäre. Der Rathausplatz leuchtet festlich im Schnee. Ein Spaziergang im Parc des Dérêches führt Sie durch eine glitzernde Winterlandschaft auf geräumten Wegen. In der Rue du Bourg locken gemütliche Geschäfte mit Heißgetränken. An der Pléney-Station herrscht reges Treiben der Skifahrer vor dem frühen Sonnenuntergang.",
+            "hu": "Élje át a téli varázst a templom meleg hangulatában. A Városháza tér ünnepi fényben úszik a hóesésben. A Parc des Dérêches megtisztított útjai csillogó téli tájon vezetnek keresztül. A Rue du Bourg üzletei forró italokkal és barátságos légkörrel várják. A Pléney állomásnál a síelők forgataga látható a korai naplemente előtt.",
+            "ro": "Experimentați magia iernii în atmosfera caldă a bisericii. Piața Primăriei strălucește festiv sub zăpadă. O plimbare în Parc des Dérêches vă poartă printr-un peisaj de iarnă sclipitor pe poteci curățate. Pe Rue du Bourg, magazinele primitoare vă atrag cu băuturi calde. La stația Pléney, admirați forfota schiorilor înainte de apusul devreme.",
+            "en": "Experience winter magic in the warm atmosphere of the church. The Town Hall Square glows festively in the snow. A walk in Parc des Dérêches leads you through a sparkling winter landscape on cleared paths. On Rue du Bourg, cozy shops beckon with hot drinks and a friendly vibe. At the Pléney station, watch the bustle of skiers before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Sainte-Marie-Madeleine Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es angenehm warm, ideal zum Aufwärmen.",
+                "hu": "Odabent kellemes meleg van, ideális egy kis felmelegedéshez.",
+                "ro": "În interior este plăcut și cald, ideal pentru a vă încălzi.",
+                "en": "It is pleasantly warm inside, ideal for warming up during your walk."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Achtung bei Glatteis auf den freien Flächen des Platzes.",
+                "hu": "Vigyázzon a jegesedésre a tér nyitott területein.",
+                "ro": "Atenție la porțiunile înghețate de pe suprafețele deschise ale pieței.",
+                "en": "Watch out for icy patches on the open areas of the square."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "Die Wege werden regelmäßig geräumt, Winterstiefel sind dennoch ratsam.",
+                "hu": "Az utakat rendszeresen takarítják, de a hótaposó ajánlott.",
+                "ro": "Potecile sunt curățate regulat, dar ghetele de iarnă sunt recomandate.",
+                "en": "Paths are regularly cleared, but winter boots are still recommended."
+              }
+            },
+            {
+              "name": "Rue du Bourg",
+              "tip_5lang": {
+                "de": "Genießen Sie hier eine heiße Schokolade in einem der gemütlichen Tearooms.",
+                "hu": "Igyon meg itt egy forró csokoládét az egyik hangulatos teázóban.",
+                "ro": "Savurați o ciocolată caldă într-una dintre ceainăriile primitoare de aici.",
+                "en": "Enjoy a hot chocolate in one of the cozy tearooms found here."
+              }
+            },
+            {
+              "name": "Pléney Cable Car Base",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fackelabfahrten, die hier oft am späten Nachmittag enden.",
+                "hu": "Nézze meg a fáklyás levonulásokat, amelyek itt érnek véget délután.",
+                "ro": "Urmăriți coborârile cu torțe care se termină adesea aici după-amiaza.",
+                "en": "Watch the torchlit descents that often finish here in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+              "Tragen Sie Schichten (Zwiebelprinzip), da es in den Geschäften sehr warm sein kann.",
+              "Die Gehwege können am frühen Morgen besonders rutschig sein.",
+              "Nutzen Sie die Gelegenheit für eine Eislaufrunde auf der Außenbahn im Zentrum."
+            ],
+            "hu": [
+              "A naplemente télen már délután 17:00 körül bekövetkezik.",
+              "Öltözzön rétegesen, mert az üzletekben és kávézókban nagyon meleg van.",
+              "A járdák kora reggel különösen csúszósak lehetnek a felfagyás miatt.",
+              "Használja ki a lehetőséget egy korcsolyázásra a központ szabadtéri pályáján."
+            ],
+            "ro": [
+              "Apusul soarelui în timpul iernii are loc deja în jurul orei 17:00.",
+              "Îmbrăcați-vă în straturi, deoarece în magazine poate fi foarte cald.",
+              "Trotuarele pot fi deosebit de alunecoase dimineața devreme din cauza înghețului.",
+              "Profită de ocazie pentru o sesiune de patinaj pe patinoarul în aer liber din centru."
+            ],
+            "en": [
+              "Sunset in winter occurs early, around 17:00 in the valley.",
+              "Dress in layers as it can be very warm inside shops and cafes.",
+              "Sidewalks can be particularly slippery in the early morning due to frost.",
+              "Take the opportunity for a skating session at the outdoor rink in the center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -516,6 +884,374 @@
           "Use the marked paths in Parc des Dérêches.",
           "A helmet is highly recommended on forest trails."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Morzine auf zwei Rädern, beginnend mit dem entspannten Radweg am Fluss Dranse. Das Highlight ist die Fahrt zum Lac de Montriond, einem türkisfarbenen See, der von steilen Felswänden umgeben ist. Nach einem Mittagessen am Seeufer führt die Route zurück ins Zentrum, vorbei an der Super-Morzine-Station. Beenden Sie Ihre Tour mit einer sanften Fahrt durch den Parc des Dérêches, bevor Sie die Räder im Herzen des Dorfes zurückgeben.",
+            "hu": "Fedezze fel Morzine környékét két keréken, kezdve a Dranse-folyó menti pihentető kerékpárúttal. A túra csúcspontja a Montriond-tó, egy meredek sziklafalakkal körülvett türkizkék tó. A tóparti ebéd után az útvonal visszavezet a központba, érintve a Super Morzine állomást. Zárja a napot egy kellemes tekeréssel a Parc des Dérêches-en keresztül, mielőtt visszaadná a kerékpárokat a falu szívében.",
+            "ro": "Explorați împrejurimile localității Morzine pe două roți, începând cu pista relaxantă de pe malul râului Dranse. Punctul culminant este drumul către Lacul Montriond, un lac turcoaz înconjurat de pereți stâncoși abrupți. După un prânz pe malul lacului, traseul revine spre centru, trecând pe lângă stația Super Morzine. Încheiați turul cu o plimbare ușoară prin Parcul Dérêches, înainte de a returna bicicletele în inima satului.",
+            "en": "Explore the surroundings of Morzine on two wheels, starting with the relaxing bike path along the Dranse River. The highlight is the ride to Lac de Montriond, a turquoise lake surrounded by steep rock faces. After a lakeside lunch, the route leads back to the center, passing by the Super Morzine station. End your tour with a gentle ride through Parc des Dérêches before returning the bikes in the heart of the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dranse-Radweg",
+                "hu": "Dranse kerékpárút",
+                "ro": "Pista de biciclete Dranse",
+                "en": "Dranse Bike Path"
+              },
+              "tip_5lang": {
+                "de": "Flache Strecke entlang des Flusses, ideal zum Aufwärmen.",
+                "hu": "Lapos szakasz a folyó mentén, ideális bemelegítéshez.",
+                "ro": "Traseu plat de-a lungul râului, ideal pentru încălzire.",
+                "en": "Flat stretch along the river, ideal for warming up."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Montriond",
+                "hu": "Montriond-tó",
+                "ro": "Lacul Montriond",
+                "en": "Lac de Montriond"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Alpensee mit Bademöglichkeit im Sommer.",
+                "hu": "Gyönyörű alpesi tó úszási lehetőséggel nyáron.",
+                "ro": "Lac alpin superb cu posibilitate de înot vara.",
+                "en": "Beautiful Alpine lake with swimming opportunities in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Base de Super Morzine",
+                "hu": "Super Morzine bázis",
+                "ro": "Baza Super Morzine",
+                "en": "Super Morzine Base"
+              },
+              "tip_5lang": {
+                "de": "Treffpunkt für Mountainbiker mit Blick auf das Resort.",
+                "hu": "Hegyi kerékpárosok találkozóhelye kilátással az üdülőhelyre.",
+                "ro": "Punct de întâlnire pentru bicicliști cu vedere spre stațiune.",
+                "en": "Meeting point for mountain bikers with resort views."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Dérêches",
+                "hu": "Dérêches park",
+                "ro": "Parcul Dérêches",
+                "en": "Parc des Dérêches"
+              },
+              "tip_5lang": {
+                "de": "Entspannter Abschluss durch den grünen Park.",
+                "hu": "Pihentető befejezés a zöld parkon keresztül.",
+                "ro": "Final relaxant prin parcul verde.",
+                "en": "Relaxing finish through the green park."
+              }
+            },
+            {
+              "name": {
+                "de": "Morzine Zentrum",
+                "hu": "Morzine központ",
+                "ro": "Centrul Morzine",
+                "en": "Morzine Center"
+              },
+              "tip_5lang": {
+                "de": "Geben Sie die Fahrräder ab und genießen Sie ein Getränk.",
+                "hu": "Adja le a kerékpárokat és igyon egy frissítőt.",
+                "ro": "Predați bicicletele și bucurați-vă de o băutură.",
+                "en": "Return the bikes and enjoy a refreshing drink."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge du Lac",
+                "tip": "Essen mit direktem Blick auf den Lac de Montriond."
+              },
+              {
+                "name": "Myrtillen-Tarte",
+                "tip": "Süße Spezialität aus regionalen Waldfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge du Lac",
+                "tip": "Étkezés közvetlen kilátással a Montriond-tóra."
+              },
+              {
+                "name": "Áfonyás pite",
+                "tip": "Édes különlegesség helyi erdei gyümölcsökből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge du Lac",
+                "tip": "Masă cu vedere directă spre Lacul Montriond."
+              },
+              {
+                "name": "Tartă cu afine",
+                "tip": "Specialitate dulce din fructe de pădure locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge du Lac",
+                "tip": "Dining with a direct view of Lac de Montriond."
+              },
+              {
+                "name": "Blueberry Tart",
+                "tip": "Sweet specialty made from local forest fruits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Westufer Lac de Montriond",
+                "tip": "Besonders ruhiger Bereich für ein Picknick.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Montriond-tó nyugati partja",
+                "tip": "Különösen csendes rész egy piknikhez.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul vestic al Lacului Montriond",
+                "tip": "Zonă deosebit de liniștită pentru un picnic.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac de Montriond West Bank",
+                "tip": "Particularly quiet area for a picnic.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Alpes Attitude",
+                "tip": "Fahrradverleih und hochwertige Sportbekleidung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alpes Attitude",
+                "tip": "Kerékpárkölcsönző és minőségi sportruházat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alpes Attitude",
+                "tip": "Închiriere de biciclete și îmbrăcăminte sport de calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alpes Attitude",
+                "tip": "Bike rental and high-quality sportswear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab den Luftdruck Ihrer Reifen.",
+              "In den Bergen kann das Wetter schnell umschlagen.",
+              "Nutzen Sie die markierten Wege im Parc des Dérêches.",
+              "Ein Helm ist auf den Waldwegen dringend empfohlen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a gumiabroncsok nyomását.",
+              "A hegyekben az időjárás gyorsan megváltozhat.",
+              "Használja a kijelölt utakat a Parc des Dérêches területén.",
+              "Az erdei utakon erősen ajánlott a sisak használata."
+            ],
+            "ro": [
+              "Verificați presiunea din pneuri înainte de plecare.",
+              "În munți, vremea se poate schimba rapid.",
+              "Utilizați potecile marcate din Parcul Dérêches.",
+              "Casca este recomandată cu tărie pe drumurile forestiere."
+            ],
+            "en": [
+              "Check your tire pressure before heading out.",
+              "Weather can change quickly in the mountains.",
+              "Use the marked paths in Parc des Dérêches.",
+              "A helmet is highly recommended on forest trails."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt entlang der Dranse ist erfrischend, erfordert aber gute Schutzbleche. Der Lac de Montriond wirkt bei Regen besonders stimmungsvoll und ruhig. Nutzen Sie die Super Morzine Station für eine kurze Pause im Trockenen. Der Parc des Dérêches bietet unter dichten Bäumen etwas Schutz. Beenden Sie die Tour im Zentrum von Morzine bei einem warmen Crêpe.",
+            "hu": "Az esős tekerés a Dranse mentén felfrissítő, de jó sárvédőt igényel. A Montriond-tó különösen hangulatos és csendes esőben. Használja a Super Morzine állomást egy rövid száraz pihenőre. A Parc des Dérêches sűrű fái alatt némi védelemre lelhet. A túrát Morzine központjában zárja egy forró palacsinta mellett.",
+            "ro": "O plimbare cu bicicleta pe lângă Dranse este revigorantă, dar necesită aripi bune. Lacul Montriond este deosebit de atmosferic și liniștit pe ploaie. Folosiți stația Super Morzine pentru o scurtă pauză la uscat. Parc des Dérêches oferă puțin adăpost sub copacii deși. Încheiați turul în centrul stațiunii Morzine cu o clătită caldă.",
+            "en": "A rainy ride along the Dranse is refreshing but requires good fenders. Lake Montriond is particularly atmospheric and quiet in the rain. Use the Super Morzine station for a quick dry break. Parc des Dérêches offers some shelter under its dense trees. End the tour in Morzine center with a warm crepe to refuel."
+          },
+          "stops": [
+            {
+              "name": "Dranse Bike Path",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzbrücken, diese werden bei Nässe extrem rutschig.",
+                "hu": "Vigyázzon a fahidakon, ezek nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Atenție la podurile de lemn, acestea devin extrem de alunecoase pe ploaie.",
+                "en": "Watch out on the wooden bridges as they become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Lac de Montriond",
+              "tip_5lang": {
+                "de": "Die Restaurants am Seeufer sind ideal für eine wetterfeste Pause.",
+                "hu": "A tóparti éttermek ideálisak egy időjárásálló pihenőre.",
+                "ro": "Restaurantele de pe malul lacului sunt ideale pentru o pauză la adăpost.",
+                "en": "Lakeside restaurants are ideal for a weather-proof break during your ride."
+              }
+            },
+            {
+              "name": "Super Morzine Base",
+              "tip_5lang": {
+                "de": "Große überdachte Flächen bieten Platz zum Unterstellen der Räder.",
+                "hu": "Nagy fedett területek biztosítanak helyet a biciklik leállításához.",
+                "ro": "Zonele mari acoperite oferă spațiu pentru a lăsa bicicletele la adăpost.",
+                "en": "Large covered areas provide space to park bikes out of the rain."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud during rainy conditions."
+              }
+            },
+            {
+              "name": "Morzine Center",
+              "tip_5lang": {
+                "de": "Zahlreiche Fahrradständer befinden sich unter Vordächern.",
+                "hu": "Számos kerékpártároló található ereszek és előtetők alatt.",
+                "ro": "Numeroase rastele pentru biciclete se află sub streșini.",
+                "en": "Numerous bike racks are located under eaves and awnings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserdichte Packtaschen, um Ihre Ausrüstung trocken zu halten.",
+              "Bremsen Sie auf nassem Untergrund früher und vorsichtiger.",
+              "Ein kompletter Satz Regenbekleidung ist in den Bergen unerlässlich.",
+              "Prüfen Sie vorab die Wettervorhersage, Gewitter ziehen hier schnell auf."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszerelése szárazon tartásához.",
+              "Nedves talajon fékezzen korábban és óvatosabban.",
+              "A hegyekben elengedhetetlen a teljes esőruházat megléte.",
+              "Ellenőrizze előre az előrejelzést, a viharok gyorsan érkeznek a völgybe."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru a vă păstra echipamentul uscat.",
+              "Frânați mai devreme și cu mai multă atenție pe suprafețe umede.",
+              "Un set complet de haine de ploaie este esențial în munți.",
+              "Verificați prognoza în prealabil, furtunile apar rapid în această zonă."
+            ],
+            "en": [
+              "Use waterproof panniers to keep your gear dry during the ride.",
+              "Brake earlier and more cautiously on wet and slippery surfaces.",
+              "A full set of rain gear is essential for cycling in the mountains.",
+              "Check the forecast beforehand as storms move quickly in the valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine kristallklare Winterfahrt entlang der gefrorenen Dranse. Der Lac de Montriond präsentiert sich als stille, weiße Wunderwelt. An der Super Morzine Station mischen Sie sich unter die Wintersportler. Der Parc des Dérêches bietet eine märchenhafte Kulisse mit tief verschneiten Tannen. Die Tour endet im belebten Zentrum, wo die Winterbeleuchtung für Stimmung sorgt.",
+            "hu": "Élvezze a kristálytiszta téli tekerést a befagyott Dranse mentén. A Montriond-tó csendes, fehér csodaországként tárul Ön elé. A Super Morzine állomásnál elvegyülhet a téli sportolók között. A Parc des Dérêches mesebeli látványt nyújt a hóval borított fenyőkkel. A túra a nyüzsgő központban ér véget, ahol a téli kivilágítás adja meg az alaphangulatot.",
+            "ro": "Bucurați-vă de o plimbare de iarnă cristalină pe lângă Dranse înghețată. Lacul Montriond se prezintă ca o lume albă și liniștită. La stația Super Morzine, amestecați-vă cu pasionații de sporturi de iarnă. Parc des Dérêches oferă un cadru de basm cu brazi încărcați de zăpadă. Turul se încheie în centrul plin de viață, sub luminile festive.",
+            "en": "Enjoy a crystal-clear winter ride along the frozen Dranse river. Lake Montriond presents itself as a silent, white wonderland. At the Super Morzine station, join the vibrant crowd of winter sports fans. Parc des Dérêches offers a fairytale setting with snow-heavy fir trees. The tour ends in the lively center, where winter lights set the mood."
+          },
+          "stops": [
+            {
+              "name": "Dranse Bike Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume.",
+                "hu": "Ügyeljen a jeges foltokra a fák árnyékos oldalán.",
+                "ro": "Fiți atenți la porțiunile înghețate de la umbra copacilor.",
+                "en": "Be careful of icy patches in the shadows cast by the trees."
+              }
+            },
+            {
+              "name": "Lac de Montriond",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die Eisfläche des Sees, Lebensgefahr!",
+                "hu": "Soha ne lépjen a tó jégfelületére, életveszélyes!",
+                "ro": "Nu călcați niciodată pe gheața lacului, este extrem de periculos!",
+                "en": "Never step onto the ice surface of the lake, it is life-threatening."
+              }
+            },
+            {
+              "name": "Super Morzine Base",
+              "tip_5lang": {
+                "de": "Passen Sie auf Fußgänger mit Skischuhen auf, die oft wenig stabil sind.",
+                "hu": "Vigyázzon a sícipős gyalogosokra, akik gyakran bizonytalanul mozognak.",
+                "ro": "Atenție la pietonii în clăpari, care sunt adesea instabili pe gheață.",
+                "en": "Watch out for pedestrians in ski boots as they are often unstable."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist hier Wildwechsel möglich, fahren Sie vorsichtig.",
+                "hu": "Szürkületkor vadon élő állatok is feltűnhetnek, tekerjen óvatosan.",
+                "ro": "La amurg pot apărea animale sălbatice, conduceți cu prudență.",
+                "en": "Wildlife may appear at dusk, so cycle carefully through the park."
+              }
+            },
+            {
+              "name": "Morzine Center",
+              "tip_5lang": {
+                "de": "Nach 16:00 Uhr wird es im Zentrum sehr voll durch die Apres-Ski-Gäste.",
+                "hu": "16:00 után a központ nagyon zsúfolttá válik az après-ski vendégek miatt.",
+                "ro": "După ora 16:00 centrul devine foarte aglomerat din cauza turiștilor.",
+                "en": "After 16:00 the center gets very busy with the après-ski crowds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie bei Schnee ein Fatbike für besseren Grip.",
+              "Halten Sie die Fahrt kurz, die Kälte zieht schnell in die Glieder.",
+              "Beleuchtung ist ab 16:30 Uhr aufgrund der frühen Dämmerung Pflicht.",
+              "Warme, winddichte Handschuhe sind das wichtigste Utensil."
+            ],
+            "hu": [
+              "Hóban használjon fatbike-ot a jobb tapadás érdekében.",
+              "Tartsa röviden a túrát, mert a hideg gyorsan átjárja a végtagokat.",
+              "A világítás 16:30-tól kötelező a korai szürkület miatt.",
+              "A legfontosabb kellék a meleg, szélálló kesztyű."
+            ],
+            "ro": [
+              "Folosiți un fatbike pe zăpadă pentru o aderență mai bună.",
+              "Păstrați plimbarea scurtă, frigul pătrunde rapid în corp.",
+              "Luminile sunt obligatorii de la ora 16:30 din cauza amurgului devreme.",
+              "Mănușile calde și rezistente la vânt sunt cel mai important accesoriu."
+            ],
+            "en": [
+              "Consider using a fatbike on snow for significantly better grip.",
+              "Keep the ride short as the cold can quickly affect your extremities.",
+              "Lights are mandatory from 16:30 due to the very early dusk.",
+              "Warm, windproof gloves are your most important piece of gear."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -771,6 +1507,374 @@
           "Watch out for hikers and cyclists on the roadside.",
           "Take a jacket, it's cooler at high altitudes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour führt Sie zu den verborgenen Schätzen rund um Morzine. Beginnen Sie am Lac de Montriond für einen entspannten Vormittag am Wasser. Besuchen Sie anschließend den beeindruckenden Ardent-Wasserfall, bevor Sie zum abgeschiedenen Lac des Mines d'Or fahren, einem Paradies für Naturliebhaber. Am Nachmittag bietet die Fahrt zur Prodains-Station einen Blick auf das futuristische Avoriaz. Den Abschluss bildet das Plateau de Nyon mit einem unvergesslichen Panorama über die Hochsavoyer Alpen.",
+            "hu": "Ez az autós túra Morzine környékének rejtett kincseihez vezeti el Önt. Kezdje a Montriond-tónál egy pihentető délelőttel a vízparton. Ezután látogassa meg a lenyűgöző Ardent-vízesést, mielőtt elindulna az elszigetelt Mines d'Or-tóhoz, amely a természetbarátok paradicsoma. Délután a Prodains állomáshoz vezető út rálátást nyújt a futurista Avoriazra. A napot a Plateau de Nyon zárja felejthetetlen panorámával a Savoyai-Alpokra.",
+            "ro": "Acest tur cu mașina vă conduce către comorile ascunse din jurul localității Morzine. Începeți la Lacul Montriond pentru o dimineață relaxantă lângă apă. Vizitați apoi impresionanta cascadă Ardent înainte de a merge spre lacul izolat Mines d'Or, un paradis pentru iubitorii de natură. După-amiaza, drumul spre stația Prodains oferă o privire spre futurista stațiune Avoriaz. Încheierea aparține Plateau de Nyon, cu o panoramă de neuitat asupra Alpilor Savoiarzi.",
+            "en": "This car tour takes you to the hidden gems around Morzine. Start at Lac de Montriond for a relaxed morning by the water. Then visit the impressive Ardent waterfall before heading to the secluded Lac des Mines d'Or, a paradise for nature lovers. In the afternoon, the drive to the Prodains station offers a glimpse of the futuristic Avoriaz. The finale is the Plateau de Nyon with an unforgettable panorama over the Savoy Alps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lac de Montriond",
+                "hu": "Montriond-tó",
+                "ro": "Lacul Montriond",
+                "en": "Lac de Montriond"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind am Nordufer vorhanden; ideal für einen Spaziergang.",
+                "hu": "Parkoló az északi parton érhető el; ideális egy sétához.",
+                "ro": "Parcare disponibilă pe malul nordic; ideal pentru o plimbare.",
+                "en": "Parking available on the north shore; ideal for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascades d'Ardent",
+                "hu": "Ardent vízesés",
+                "ro": "Cascada Ardent",
+                "en": "Ardent Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Wasserfall am Ende des Tals.",
+                "hu": "Látványos vízesés a völgy végében.",
+                "ro": "O cascadă spectaculoasă la capătul văii.",
+                "en": "A spectacular waterfall at the end of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Mines d'Or",
+                "hu": "Mines d'Or-tó",
+                "ro": "Lacul Mines d'Or",
+                "en": "Lac des Mines d'Or"
+              },
+              "tip_5lang": {
+                "de": "Abgeschiedener Bergsee, berühmt für seine Ruhe.",
+                "hu": "Elszigetelt hegyi tó, híres a nyugalmáról.",
+                "ro": "Lac montan izolat, renumit pentru liniștea sa.",
+                "en": "Secluded mountain lake, famous for its tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Prodains Seilbahn",
+                "hu": "Prodains felvonó",
+                "ro": "Telecabina Prodains",
+                "en": "Prodains Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Schnellster Weg nach Avoriaz für eine tolle Aussicht.",
+                "hu": "A leggyorsabb út Avoriazba a nagyszerű kilátásért.",
+                "ro": "Cea mai rapidă cale spre Avoriaz pentru o vedere panoramică.",
+                "en": "Fastest way to Avoriaz for a great view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateau de Nyon Panorama",
+                "hu": "Plateau de Nyon panoráma",
+                "ro": "Panorama Plateau de Nyon",
+                "en": "Plateau de Nyon Panorama"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang über dem Tal.",
+                "hu": "Tökéletes hely a völgy feletti naplementéhez.",
+                "ro": "Locul perfect pentru apusul de soare peste vale.",
+                "en": "Perfect spot for sunset over the valley."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Chalet de la Mine d'Or",
+                "tip": "Rustikale Berghütte mit lokalen Käsegerichten."
+              },
+              {
+                "name": "Fondue Savoyarde",
+                "tip": "Geschmolzener Käse mit Brot – ein Alpen-Klassiker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Chalet de la Mine d'Or",
+                "tip": "Rusztikus hegyi hütte helyi sajtos ételekkel."
+              },
+              {
+                "name": "Sajtfondü",
+                "tip": "Olvasztott sajt kenyérrel – alpesi klasszikus."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Chalet de la Mine d'Or",
+                "tip": "Cabană montană rustică cu preparate locale din brânză."
+              },
+              {
+                "name": "Fondue Savoyard",
+                "tip": "Brânză topită cu pâine – un clasic al Alpilor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Chalet de la Mine d'Or",
+                "tip": "Rustic mountain hut with local cheese dishes."
+              },
+              {
+                "name": "Cheese Fondue",
+                "tip": "Melted cheese with bread – an Alpine classic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac des Mines d'Or",
+                "tip": "Ruhiger Ort fernab der touristischen Massen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mines d'Or-tó",
+                "tip": "Csendes hely távol a turistaáradattól.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Mines d'Or",
+                "tip": "Loc liniștit departe de aglomerația turistică.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac des Mines d'Or",
+                "tip": "Quiet spot far from the tourist crowds.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fruitière de Morzine",
+                "tip": "Direktverkauf von regionalem Käse und Butter."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fruitière de Morzine",
+                "tip": "Regionális sajtok és vaj közvetlen értékesítése."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fruitière de Morzine",
+                "tip": "Vânzare directă de brânză și unt regional."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fruitière de Morzine",
+                "tip": "Direct sale of regional cheese and butter."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+              "Parken Sie nur auf den offiziell ausgewiesenen Flächen.",
+              "Achten Sie auf Wanderer und Radfahrer am Straßenrand.",
+              "Nehmen Sie eine Jacke mit, es ist in der Höhe kühler."
+            ],
+            "hu": [
+              "A hegyi utak kanyargósak, vezessen óvatosan.",
+              "Csak a hivatalosan kijelölt helyeken parkoljon.",
+              "Ügyeljen a túrázókra és kerékpárosokra az út szélén.",
+              "Vigyen magával kabátot, a magasban hűvösebb van."
+            ],
+            "ro": [
+              "Drumurile montane sunt sinuoase, conduceți cu atenție.",
+              "Parcați doar în locurile oficial amenajate.",
+              "Fiți atenți la drumeți și bicicliști pe marginea drumului.",
+              "Luați o jachetă, la altitudine este mai răcoare."
+            ],
+            "en": [
+              "Mountain roads are winding, drive carefully.",
+              "Park only in officially designated areas.",
+              "Watch out for hikers and cyclists on the roadside.",
+              "Take a jacket, it's cooler at high altitudes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Panoramafahrt zum Lac de Montriond bietet auch bei Regen spektakuläre Ausblicke auf die Wasserfälle. Die Cascade d'Ardent ist nach Regenfällen besonders kraftvoll. Der Lac des Mines d'Or wirkt im Nebel geheimnisvoll. Mit der Prodains-Seilbahn gleiten Sie trocken in die Höhe. Beenden Sie den Tag beim Plateau de Nyon mit Blick auf die dramatische Wolkenbildung.",
+            "hu": "A panorámaút a Montriond-tóhoz esőben is látványos kilátást nyújt a vízesésekre. Az Ardent-vízesés eső után különösen erőteljes. A Mines d'Or tó titokzatos arcát mutatja a ködben. A Prodains felvonóval szárazon juthat a magasba. A napot a Plateau de Nyon-nál zárja, figyelve a drámai felhőképződést.",
+            "ro": "O călătorie panoramică spre Lacul Montriond oferă vederi spectaculoase spre cascade chiar și pe ploaie. Cascada Ardent este deosebit de puternică după ploi. Lacul Mines d'Or pare misterios prin ceață. Cu telecabina Prodains urcați la înălțime la adăpost. Încheiați ziua la Plateau de Nyon admirând norii dramatici.",
+            "en": "A scenic drive to Lake Montriond offers spectacular views of the waterfalls even in the rain. The Ardent Waterfall is especially powerful after rainfall. Lake Mines d'Or looks mysterious through the mist. Glide uphill in the dry with the Prodains cable car. End the day at Plateau de Nyon with a view of the dramatic cloud formations."
+          },
+          "stops": [
+            {
+              "name": "Lac de Montriond",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer, um lange Wege im Regen zu vermeiden.",
+                "hu": "Parkoljon közel a parthoz, hogy elkerülje a hosszú gyaloglást az esőben.",
+                "ro": "Parcați aproape de mal pentru a evita mersul lung prin ploaie.",
+                "en": "Park close to the shore to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Ardent Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pfad zur Aussichtsplattform, der Boden ist oft matschig.",
+                "hu": "Vigyázzon a kilátóhoz vezető úton, a talaj gyakran sáros.",
+                "ro": "Atenție pe poteca spre platformă, solul este adesea noroios.",
+                "en": "Be careful on the path to the platform as the ground is often muddy."
+              }
+            },
+            {
+              "name": "Lac des Mines d'Or",
+              "tip_5lang": {
+                "de": "Die Straße hierhin ist eng, fahren Sie bei schlechter Sicht besonders vorsichtig.",
+                "hu": "Az idevezető út szűk, rossz látási viszonyoknál vezessen óvatosan.",
+                "ro": "Drumul până aici este îngust, conduceți prudent în condiții de vizibilitate redusă.",
+                "en": "The road here is narrow, drive carefully in low visibility conditions."
+              }
+            },
+            {
+              "name": "Prodains Cable Car",
+              "tip_5lang": {
+                "de": "Das Parkhaus an der Talstation bietet trockenen Zugang zur Gondel.",
+                "hu": "A völgyállomás parkolóháza száraz kijutást biztosít a gondolához.",
+                "ro": "Parcarea de la stația de bază oferă acces uscat către telecabină.",
+                "en": "The parking garage at the base station offers dry access to the gondola."
+              }
+            },
+            {
+              "name": "Plateau de Nyon Panorama",
+              "tip_5lang": {
+                "de": "Bei starkem Gewitter kann der Betrieb der Seilbahn eingestellt werden.",
+                "hu": "Heves zivatar esetén a felvonó üzemeltetését szüneteltethetik.",
+                "ro": "În caz de furtună puternică, funcționarea telecabinei poate fi oprită.",
+                "en": "Cable car operations may be suspended during heavy thunderstorms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Wischerblätter vor der Fahrt in die Berge.",
+              "Die Bergstraßen können bei Nässe rutschig sein, halten Sie Abstand.",
+              "Nutzen Sie die Motorbremse bei steilen Abfahrten auf nasser Fahrbahn.",
+              "Einige Bergpässe können bei starkem Regen kurzzeitig gesperrt sein."
+            ],
+            "hu": [
+              "Hegyi menet előtt ellenőrizze az ablaktörlő lapátok állapotát.",
+              "A hegyi utak nedvesen csúszósak lehetnek, tartson nagyobb követési távolságot.",
+              "Meredek lejtőkön használja a motorféket a vizes útfelületen.",
+              "Néhány hegyi hágót heves esőzés esetén rövid időre lezárhatnak."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni spre munți.",
+              "Drumurile montane pot fi alunecoase pe ploaie, păstrați distanța.",
+              "Folosiți frâna de motor pe coborârile abrupte pe carosabil umed.",
+              "Unele pasuri montane pot fi închise temporar în caz de ploi abundente."
+            ],
+            "en": [
+              "Check the condition of your wiper blades before driving into the mountains.",
+              "Mountain roads can be slippery when wet, so maintain a safe distance.",
+              "Use engine braking on steep descents when the road surface is wet.",
+              "Some mountain passes may be briefly closed during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie durch eine tief verschneite Alpenwelt zum Lac de Montriond. Die gefrorene Cascade d'Ardent ist ein beeindruckendes Fotomotiv. Der Lac des Mines d'Or liegt oft unter einer meterdicken Schneeschicht. Die Prodains-Seilbahn ist Ihr Tor zur hochgelegenen Welt von Avoriaz. Genießen Sie beim Plateau de Nyon das Alpenglühen zum frühen Sonnenuntergang.",
+            "hu": "Hajtson keresztül a mélyen hófödte Alpokon a Montriond-tóhoz. A befagyott Ardent-vízesés lenyűgöző fotótéma. A Mines d'Or tó gyakran méteres hóréteg alatt pihen. A Prodains felvonó az Ön kapuja Avoriaz magasan fekvő világához. Élvezze az alpesi fényeket a Plateau de Nyon-nál a korai naplemente idején.",
+            "ro": "Conduceți printr-o lume alpină înzăpezită spre Lacul Montriond. Cascada Ardent înghețată este un subiect foto impresionant. Lacul Mines d'Or se află adesea sub un strat gros de zăpadă. Telecabina Prodains este poarta voastră spre lumea înaltă din Avoriaz. Bucurați-vă de strălucirea Alpilor la Plateau de Nyon la apus.",
+            "en": "Drive through a deep snowy Alpine world to reach Lake Montriond. The frozen Ardent Waterfall is an impressive photo subject. Lake Mines d'Or often lies hidden under a thick blanket of snow. The Prodains cable car is your gateway to the high-altitude world of Avoriaz. Enjoy the Alpine glow at Plateau de Nyon during the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Lac de Montriond",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße wird geräumt, Winterreifen sind dennoch Pflicht.",
+                "hu": "A bekötőutat takarítják, de a téli gumi kötelező.",
+                "ro": "Drumul de acces este curățat, dar anvelopele de iarnă sunt obligatorii.",
+                "en": "The access road is cleared, but winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Ardent Waterfall",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft vereist, achten Sie beim Aussteigen auf festen Stand.",
+                "hu": "A parkoló gyakran jeges, kiszálláskor ügyeljen a biztos talajra.",
+                "ro": "Parcarea este adesea înghețată, atenție la coborârea din mașină.",
+                "en": "The parking lot is often icy, so ensure firm footing when exiting."
+              }
+            },
+            {
+              "name": "Lac des Mines d'Or",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, ob die Straße nach starken Schneefällen passierbar ist.",
+                "hu": "Ellenőrizze előre, hogy az út járható-e nagy hóesés után.",
+                "ro": "Verificați dacă drumul este practicabil după ninsori abundente.",
+                "en": "Check beforehand if the road is passable after heavy snowfalls."
+              }
+            },
+            {
+              "name": "Prodains Cable Car",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto auf dem Außenparkplatz.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen a kültéri parkolóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină în parcarea exterioară.",
+                "en": "Do not leave valuables visible in your car in the outdoor parking area."
+              }
+            },
+            {
+              "name": "Plateau de Nyon Panorama",
+              "tip_5lang": {
+                "de": "Die letzte Talfahrt ist oft kurz nach Sonnenuntergang, nicht verpassen!",
+                "hu": "Az utolsó lemenő járat gyakran nem sokkal naplemente után indul.",
+                "ro": "Ultima coborâre este adesea imediat după apus, nu o ratați!",
+                "en": "The last descent is often shortly after sunset, don't miss it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in dieser Region gesetzlich vorgeschrieben.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage auf.",
+              "Die Parkplätze an den Bergbahnen füllen sich ab 8:30 Uhr sehr schnell.",
+              "Planen Sie mehr Zeit für Fahrten zwischen den Tälern ein."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc ebben a régióban törvényileg kötelező.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A felvonók melletti parkolók 8:30-tól nagyon gyorsan megtelnek.",
+              "Tervezzen több időt a völgyek közötti közlekedésre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii prin lege în această regiune.",
+              "Adăugați lichid de parbriz rezistent la îngheț înainte de drum.",
+              "Parcările de la telecabine se umplu foarte rapid începând cu ora 8:30.",
+              "Alocați mai mult timp pentru deplasările între văi."
+            ],
+            "en": [
+              "Winter tires and snow chains are legally required in this region.",
+              "Refill your windshield washer reservoir with anti-freeze fluid.",
+              "Parking lots near cable cars fill up very quickly starting from 8:30.",
+              "Plan for more time when traveling between different valleys."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1026,34 +2130,375 @@
           "Buses run every 15-20 minutes in high season.",
           "Carrying bicycles is permitted on some buses."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morzine lässt sich hervorragend mit dem dichten Netz an kostenlosen Pendelbussen (Navettes) erkunden. Starten Sie am Rathausplatz und nehmen Sie den Bus zum malerischen Lac de Montriond. Genießen Sie dort den Vormittag und wandern Sie zum Ardent-Wasserfall. Nach der Rückkehr mit dem Bus ins Zentrum können Sie gemütlich durch die historische Rue du Bourg schlendern. Der Tag endet entspannt im Parc des Dérêches, der leicht mit dem 'Petit Train' erreichbar ist.",
+            "hu": "Morzine kiválóan felfedezhető az ingyenes buszhálózat (Navettes) segítségével. Kezdjen a városháza téren, és induljon busszal a festői Montriond-tóhoz. Töltse ott a délelőttöt, majd sétáljon el az Ardent-vízeséshez. Miután visszatért busszal a központba, tegyen egy kellemes sétát a történelmi Rue du Bourg utcán. A nap a Parc des Dérêches parkban zárul, amely könnyen elérhető a kisvonattal (Petit Train).",
+            "ro": "Morzine poate fi explorat excelent cu ajutorul rețelei dense de autobuze gratuite (Navettes). Începeți în piața primăriei și luați autobuzul către pitorescul Lac Montriond. Bucurați-vă de dimineață acolo și mergeți până la cascada Ardent. După revenirea cu autobuzul în centru, puteți să vă plimbați agale pe strada istorică Rue du Bourg. Ziua se încheie relaxat în Parcul Dérêches, ușor accesibil cu 'Micul Tren'.",
+            "en": "Morzine can be perfectly explored using the dense network of free shuttle buses (Navettes). Start at the town hall square and take the bus to the picturesque Lac de Montriond. Enjoy the morning there and hike to the Ardent waterfall. After returning to the center by bus, take a leisurely stroll through the historic Rue du Bourg. The day ends relaxed in Parc des Dérêches, which is easily accessible by the 'Petit Train'."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Mairie Stop",
+                "hu": "Városháza megálló",
+                "ro": "Stația Piața Primăriei",
+                "en": "Town Hall Stop"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle kostenlosen Buslinien.",
+                "hu": "Központi csomópont az összes ingyenes buszjárat számára.",
+                "ro": "Nod central pentru toate liniile de autobuz gratuite.",
+                "en": "Central hub for all free bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Montriond (Bus L)",
+                "hu": "Montriond-tó (L busz)",
+                "ro": "Lacul Montriond (Autobuz L)",
+                "en": "Lac de Montriond (Bus L)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie L für eine einfache Fahrt zum See.",
+                "hu": "Használja az L jelzésű buszt a tóhoz való könnyű kijutáshoz.",
+                "ro": "Utilizați linia L pentru un drum ușor către lac.",
+                "en": "Use line L for an easy ride to the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascades d'Ardent",
+                "hu": "Ardent vízesés",
+                "ro": "Cascada Ardent",
+                "en": "Ardent Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+                "hu": "Csak egy rövid séta a buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Morzine Rue du Bourg",
+                "hu": "Morzine Rue du Bourg",
+                "ro": "Morzine Rue du Bourg",
+                "en": "Morzine Rue du Bourg"
+              },
+              "tip_5lang": {
+                "de": "Rückkehr ins Dorfzentrum zum Shoppen und Essen.",
+                "hu": "Visszatérés a falu központjába vásárláshoz és étkezéshez.",
+                "ro": "Revenire în centrul satului pentru cumpărături și masă.",
+                "en": "Return to the village center for shopping and dining."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Dérêches",
+                "hu": "Dérêches park",
+                "ro": "Parcul Dérêches",
+                "en": "Parc des Dérêches"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im Park vor der letzten Busfahrt.",
+                "hu": "Pihenjen a parkban az utolsó buszút előtt.",
+                "ro": "Relaxați-vă în parc înainte de ultima călătorie cu autobuzul.",
+                "en": "Relax in the park before the last bus ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Coup de Coeur",
+                "tip": "Weinbar und Brasserie mit toller Terrasse."
+              },
+              {
+                "name": "Farçon",
+                "tip": "Traditioneller savoyischer Kartoffelkuchen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Coup de Coeur",
+                "tip": "Borozó és bisztró nagyszerű terasszal."
+              },
+              {
+                "name": "Farçon",
+                "tip": "Hagyományos savoyai burgonyatorta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Coup de Coeur",
+                "tip": "Bar de vinuri și braserie cu o terasă superbă."
+              },
+              {
+                "name": "Farçon",
+                "tip": "Prăjitură tradițională savoiardă din cartofi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Coup de Coeur",
+                "tip": "Wine bar and brasserie with a great terrace."
+              },
+              {
+                "name": "Farçon",
+                "tip": "Traditional Savoyard potato cake."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park am Sportzentrum",
+                "tip": "Ruhige Grünflächen am Flussufer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sportközpont parkja",
+                "tip": "Csendes zöldfelületek a folyóparton.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul de lângă centrul sportiv",
+                "tip": "Spații verzi liniștite pe malul râului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sports Center Park",
+                "tip": "Quiet green spaces by the riverbank.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs Morzinois",
+                "tip": "Handgefertigte Holzartikel und lokale Andenken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Souvenirs Morzinois",
+                "tip": "Kézzel készített fatárgyak és helyi emléktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Souvenirs Morzinois",
+                "tip": "Articole din lemn lucrate manual și amintiri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenirs Morzinois",
+                "tip": "Handmade wooden items and local souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie den Fahrplan der Navettes auf Ihr Handy.",
+              "Der 'Petit Train' verbindet die beiden Hauptseilbahnen.",
+              "Busse verkehren in der Hochsaison alle 15-20 Minuten.",
+              "Die Mitnahme von Fahrrädern ist in einigen Bussen erlaubt."
+            ],
+            "hu": [
+              "Töltse le a Navettes menetrendjét a telefonjára.",
+              "A kisvonat összeköti a két fő felvonót.",
+              "A buszok főszezonban 15-20 percenként közlekednek.",
+              "Néhány buszjáraton megengedett a kerékpár szállítása."
+            ],
+            "ro": [
+              "Descărcați orarul Navettes pe telefon.",
+              "Micul tren face legătura între cele două telecabine principale.",
+              "Autobuzele circulă la fiecare 15-20 de minute în plin sezon.",
+              "Transportul bicicletelor este permis în unele autobuze."
+            ],
+            "en": [
+              "Download the Navettes timetable to your phone.",
+              "The 'Petit Train' connects the two main cable cars.",
+              "Buses run every 15-20 minutes in high season.",
+              "Carrying bicycles is permitted on some buses."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Morzine, um trocken zu den Sehenswürdigkeiten zu gelangen. Der Bus L bringt Sie direkt zum Lac de Montriond für einen stimmungsvollen Spaziergang. Besuchen Sie die Cascade d'Ardent bequem per Bus. In der Rue du Bourg finden Sie viele überdachte Cafés für die Mittagspause. Der Parc des Dérêches mit seinem Sportzentrum bietet ideale Indoor-Aktivitäten.",
+            "hu": "Használja Morzine sűrű buszhálózatát, hogy szárazon jusson el a látnivalókhoz. Az L busz közvetlenül a Montriond-tóhoz viszi egy hangulatos sétára. Látogassa meg az Ardent-vízesést kényelmesen busszal. A Rue du Bourg számos fedett kávézót kínál az ebédszünethez. A Parc des Dérêches sportközpontja ideális beltéri kikapcsolódást nyújt.",
+            "ro": "Folosiți rețeaua densă de autobuze din Morzine pentru a ajunge la obiective la adăpost. Autobuzul L vă duce direct la Lacul Montriond pentru o plimbare atmosferică. Vizitați Cascada Ardent confortabil cu autobuzul. Pe Rue du Bourg găsiți multe cafenele acoperite pentru pauza de prânz. Parc des Dérêches oferă activități interioare ideale la centrul sportiv.",
+            "en": "Utilize Morzine's dense bus network to reach local attractions while staying dry. Bus L takes you directly to Lake Montriond for an atmospheric walk. Visit the Ardent Waterfall comfortably by bus. On Rue du Bourg, you will find many covered cafes for your lunch break. Parc des Dérêches and its sports center offer ideal indoor activities."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle verfügt über ein Wartehäuschen, das Schutz bietet.",
+                "hu": "A buszmegálló váróteremmel rendelkezik, amely védelmet nyújt.",
+                "ro": "Stația are un adăpost care oferă protecție împotriva ploii.",
+                "en": "The bus stop features a shelter that provides protection from the rain."
+              }
+            },
+            {
+              "name": "Lac de Montriond (Bus L)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau, die Busse fahren bei Regen oft voll besetzt.",
+                "hu": "Ellenőrizze a menetrendet, esőben a buszok gyakran telítettek.",
+                "ro": "Verificați programul, autobuzele sunt adesea pline când plouă.",
+                "en": "Check the schedule carefully as buses are often crowded when it rains."
+              }
+            },
+            {
+              "name": "Ardent Waterfall",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zur Kaskade ist kurz und befestigt.",
+                "hu": "A gyalogút a megállótól a vízesésig rövid és szilárd burkolatú.",
+                "ro": "Drumul de la stație la cascadă este scurt și amenajat.",
+                "en": "The path from the stop to the waterfall is short and paved."
+              }
+            },
+            {
+              "name": "Morzine Rue du Bourg",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für viele Linien im Ortszentrum.",
+                "hu": "Központi átszállási pont számos járat számára a faluközpontban.",
+                "ro": "Punct central de transfer pentru multe linii în centrul stațiunii.",
+                "en": "Central transfer point for many bus lines in the village center."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Eingang zum Sportzentrum.",
+                "hu": "A buszmegálló közvetlenül a sportközpont bejáratánál található.",
+                "ro": "Stația de autobuz se află chiar la intrarea în centrul sportiv.",
+                "en": "The bus stop is located directly at the entrance to the sports center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Pendelbusse (Navettes) im Zentrum sind in der Saison meist kostenlos.",
+              "Laden Sie die lokale Verkehrs-App für Echtzeit-Infos herunter.",
+              "Rechnen Sie mit Verzögerungen im Verkehr bei starkem Regen.",
+              "Halten Sie Kleingeld bereit, falls der Bus nicht kostenlos ist."
+            ],
+            "hu": [
+              "A központi ingajáratok (navettes) a szezonban többnyire ingyenesek.",
+              "Töltse le a helyi közlekedési alkalmazást a valós idejű információkért.",
+              "Heves esőzés esetén számítson forgalmi akadályokra és késésekre.",
+              "Legyen Önnél aprópénz, ha a járat mégsem lenne ingyenes."
+            ],
+            "ro": [
+              "Autobuzele de transfer (navettes) din centru sunt de obicei gratuite în sezon.",
+              "Descărcați aplicația locală de transport pentru informații în timp real.",
+              "Așteptați-vă la întârzieri în trafic în caz de ploi torențiale.",
+              "Aveți la voi bani mărunți în cazul în care autobuzul nu este gratuit."
+            ],
+            "en": [
+              "The shuttle buses (navettes) in the center are mostly free during the season.",
+              "Download the local transport app for real-time arrival information.",
+              "Expect some traffic delays during periods of heavy rainfall.",
+              "Keep some small change ready in case the bus line is not free of charge."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Skibusse sind im Winter das Herzstück des Verkehrs in Morzine. Fahren Sie mit dem Bus L zum winterlichen Lac de Montriond. Entdecken Sie die Cascade d'Ardent in ihrem eisigen Kleid bequem per Transit. Die Rue du Bourg lädt nach der Busfahrt zum gemütlichen Aufwärmen ein. Beenden Sie den Tag im Parc des Dérêches, wo oft Eishockeyspiele in der Arena stattfinden.",
+            "hu": "A síbuszok télen Morzine közlekedésének gerincét alkotják. Utazzon az L busszal a téli Montriond-tóhoz. Fedezze fel az Ardent-vízesést jeges ruhájában kényelmesen tömegközlekedéssel. A Rue du Bourg a buszozás után barátságos felmelegedésre csábít. Zárja a napot a Parc des Dérêches-nél, ahol gyakran rendeznek hokiütközőket.",
+            "ro": "Autobuzele de schi sunt inima transportului în Morzine pe timp de iarnă. Mergeți cu autobuzul L la Lacul Montriond înghețat. Descoperiți Cascada Ardent în haina sa de gheață cu transportul public. Rue du Bourg vă invită la o încălzire plăcută după călătoria cu autobuzul. Încheiați ziua la Parc des Dérêches, unde au loc adesea meciuri de hochei.",
+            "en": "Ski buses are the backbone of Morzine's transport network during winter. Take Bus L to reach the winter-wonderland of Lake Montriond. Discover the Ardent Waterfall in its icy mantle comfortably via public transit. Rue du Bourg invites you for a cozy warm-up after your bus journey. End the day at Parc des Dérêches, where ice hockey matches often take place."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Stop",
+              "tip_5lang": {
+                "de": "Hier halten fast alle wichtigen Skibus-Linien des Ortes.",
+                "hu": "Itt szinte az összes fontos helyi síbuszjárat megáll.",
+                "ro": "Aici opresc aproape toate liniile importante de autobuz de schi.",
+                "en": "Almost all important local ski bus lines stop here at the Town Hall."
+              }
+            },
+            {
+              "name": "Lac de Montriond (Bus L)",
+              "tip_5lang": {
+                "de": "In der Hochsaison können die Busse durch Skifahrer sehr voll sein.",
+                "hu": "Főszezonban a buszok a síelők miatt nagyon zsúfoltak lehetnek.",
+                "ro": "În plin sezon, autobuzele pot fi foarte aglomerate din cauza schiorilor.",
+                "en": "During high season, buses can be very crowded with skiers and gear."
+              }
+            },
+            {
+              "name": "Ardent Waterfall",
+              "tip_5lang": {
+                "de": "Vom Busstop aus hat man einen tollen Blick auf die Gondelbahn von Ardent.",
+                "hu": "A buszmegállótól remek kilátás nyílik az ardenti gondolás felvonóra.",
+                "ro": "De la stație aveți o vedere excelentă spre telecabina din Ardent.",
+                "en": "From the bus stop, you have a great view of the Ardent gondola lift."
+              }
+            },
+            {
+              "name": "Morzine Rue du Bourg",
+              "tip_5lang": {
+                "de": "Ideal, um die Skier abzustellen und durch den Ort zu schlendern.",
+                "hu": "Ideális hely a sílécek letételére és egy falubéli sétára.",
+                "ro": "Ideal pentru a lăsa schiurile și a vă plimba prin stațiune.",
+                "en": "Ideal spot to leave your skis and stroll through the village streets."
+              }
+            },
+            {
+              "name": "Parc des Dérêches",
+              "tip_5lang": {
+                "de": "Die Haltestelle wird bis spät abends von den Nachtbussen bedient.",
+                "hu": "A megállót késő estig kiszolgálják az éjszakai buszjáratok.",
+                "ro": "Stația este deservită de autobuzele de noapte până târziu.",
+                "en": "The stop is served by night bus lines until late in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Ihre Skischuhe im Bus vorsichtig, der Boden kann glatt sein.",
+              "Die Busse fahren im Winter in sehr hoher Taktung.",
+              "Achten Sie auf die 'Balad'Aulps Bus'-Linien für Fahrten in Nachbarorte.",
+              "Ab 17:30 Uhr fahren die Busse seltener, prüfen Sie den Abendfahrplan."
+            ],
+            "hu": [
+              "A buszon óvatosan járjon sícipőben, a padló csúszós lehet.",
+              "A buszok télen nagyon sűrűn közlekednek a völgyben.",
+              "Keresse a 'Balad'Aulps Bus' járatokat a szomszédos településekhez.",
+              "17:30 után a járatok ritkulnak, ellenőrizze az esti menetrendet."
+            ],
+            "ro": [
+              "Mergeți cu atenție în clăpari în autobuz, podeaua poate fi alunecoasă.",
+              "Autobuzele circulă cu o frecvență ridicată în timpul iernii.",
+              "Căutați liniile 'Balad'Aulps Bus' pentru călătorii în satele vecine.",
+              "După ora 17:30 autobuzele circulă mai rar, verificați programul de seară."
+            ],
+            "en": [
+              "Walk carefully in ski boots on the bus as the floor can be slippery.",
+              "Buses run with a very high frequency during the winter season.",
+              "Look for the 'Balad'Aulps Bus' lines for trips to neighboring villages.",
+              "After 17:30 buses run less frequently, check the evening schedule."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.morzine-avoriaz.com/",
-    "events": "https://www.morzine-avoriaz.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Morzine ist sehr britisch geprägt im Winter, Englisch fast überall. Französisch im Sommer mehr. Skischule auf Deutsch und Englisch verfügbar. 'Portes du Soleil' = großes Skigebiet (Frankreich + Schweiz). Höhe ~1000 m, Schweizer Grenze nahe.",
-      "hu": "Morzine télen nagyon brit hangulatú, az angol mindenhol megy. Nyáron több a francia. A síiskolák kínálnak német és angol nyelvet. 'Portes du Soleil' = nagy síterep (Franciaország + Svájc). Magasság ~1000 m, közel a svájci határ.",
-      "ro": "Morzine este foarte britanic iarna, engleza este peste tot. Vara, mai multă franceză. Școala de schi disponibilă în germană și engleză. 'Portes du Soleil' = mare domeniu schiabil (Franța + Elveția). Altitudine ~1000 m, granița elvețiană aproape.",
-      "en": "Morzine is very British in winter, English works everywhere. Summer is more French. Ski schools offer German and English. 'Portes du Soleil' is the huge cross-border (France + Switzerland) ski area. ~1000 m elevation, Swiss border close."
-    },
-    "best_time_to_visit": {
-      "de": "Dezember-April für Skifahren, Hochsaison Februar-Schulferien. Juli-August für Mountainbike (Bike-Park), Wandern und Festivals. Mai-Juni und September-Oktober: 'Zwischenzeit', viele Lifte und Restaurants geschlossen.",
-      "hu": "December-április a síelésért, csúcsszezon a februári iskolai szünet. Július-augusztus a mountainbike-ért (bike-park), túrázásért és fesztiválokért. Május-június és szeptember-október: 'köztes idő', sok felvonó és étterem zárva.",
-      "ro": "Decembrie-aprilie pentru schi, vârf în vacanța școlară din februarie. Iulie-august pentru mountain bike (bike park), drumeții și festivaluri. Mai-iunie și septembrie-octombrie: 'sezon mort', multe telecabine și restaurante închise.",
-      "en": "December-April for skiing, peak in February school break. July-August for mountain biking (bike park), hiking and festivals. May-June and September-October are 'between seasons' with many lifts and restaurants closed."
-    },
-    "neighborhood_warnings": {
-      "de": "Sicher, aber Bergrisiken hoch: Lawinen abseits der Pisten, plötzliche Wetterwechsel. Beim Apres-Ski mit Vorsicht trinken und auf rutschige Stiegen achten. Verkehr im Tal kann an Samstag-Wechseltagen brutal sein.",
-      "hu": "Biztonságos, de magas hegyi kockázat: lavinaveszély pályán kívül, hirtelen időjárás-változás. Apres-skinél vigyázz az ivással és a csúszós lépcsőkkel. A völgyi forgalom szombati cserenapokon brutális.",
-      "ro": "Sigur, dar riscuri montane: avalanșe în afara pârtiei, schimbări bruște de vreme. La après-ski, beți cu măsură, scări alunecoase. Traficul în vale sâmbăta la schimbul săptămânii poate fi brutal.",
-      "en": "Safe, but mountain risks are real: avalanches off-piste, sudden weather shifts. Pace yourself at après-ski and mind icy stairs. Saturday changeover traffic in the valley is brutal."
-    },
-    "parking_real_time": ""
   }
 }

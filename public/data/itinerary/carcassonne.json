@@ -290,6 +290,412 @@
           "The fortress lights at night are magical.",
           "Buy castle tickets in advance online."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der imposanten Porte Narbonnaise, dem Tor zur mittelalterlichen Welt. Erkunden Sie das majestätische Château Comtal und wandeln Sie auf den Festungsmauern. Mittags bewundern Sie die gotische Pracht der Basilika Saint-Nazaire. Nachmittags spazieren Sie durch die Lices, den Raum zwischen den Stadtmauern, bevor Sie über den Pont Vieux in die lebendige Bastide Saint-Louis hinabsteigen, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "Kezdje a napot az impozáns Porte Narbonnaise-nál, amely kapu a középkori világba. Fedezze fel a fenséges Château Comtal-t, és sétáljon a várfalakon. Délben csodálja meg a Saint-Nazaire bazilika gótikus pompáját. Délután sétáljon végig a Lices-en, a kettős várfal közötti területen, majd a Pont Vieux-n át ereszkedjen le a nyüzsgő Bastide Saint-Louis-ba, hogy hangulatosan zárja a napot.",
+            "ro": "Începeți ziua la impunătoarea Porte Narbonnaise, poarta către lumea medievală. Explorați maiestuosul Château Comtal și plimbați-vă pe zidurile cetății. La prânz, admirați splendoarea gotică a Bazilicii Saint-Nazaire. După-amiaza, plimbați-vă prin Lices, spațiul dintre zidurile orașului, înainte de a coborî peste Pont Vieux în vibranta Bastide Saint-Louis pentru a încheia ziua relaxat.",
+            "en": "Start your day at the imposing Porte Narbonnaise, the gateway to the medieval world. Explore the majestic Château Comtal and walk along the fortress ramparts. At midday, admire the Gothic splendor of the Saint-Nazaire Basilica. In the afternoon, stroll through the Lices, the space between the city walls, before descending across the Pont Vieux into the lively Bastide Saint-Louis for a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Porte Narbonnaise",
+              "tip_5lang": {
+                "de": "Bewundern Sie die massiven Türme am Haupteingang.",
+                "hu": "Csodálja meg a főbejárat monumentális bástyáit.",
+                "ro": "Admirați bastioanele monumentale de la intrarea principală.",
+                "en": "Admire the massive towers at the main entrance."
+              }
+            },
+            {
+              "name": "Château Comtal",
+              "tip_5lang": {
+                "de": "Gehen Sie auf den Mauern für die beste Aussicht.",
+                "hu": "Sétáljon végig a várfalakon a legjobb kilátásért.",
+                "ro": "Mergeți pe zidurile cetății pentru cea mai bună vedere.",
+                "en": "Walk the ramparts for the best panoramic views."
+              }
+            },
+            {
+              "name": "Basilique Saint-Nazaire",
+              "tip_5lang": {
+                "de": "Die Glasmalereien gehören zu den schönsten Frankreichs.",
+                "hu": "Az üvegablakok Franciaország legszebbjei közé tartoznak.",
+                "ro": "Vitraliile sunt printre cele mai frumoase din Franța.",
+                "en": "The stained glass windows are among France's finest."
+              }
+            },
+            {
+              "name": "Lices de la Cité",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick zwischen den beiden Mauern.",
+                "hu": "Ideális egy piknikhez a két várfal között.",
+                "ro": "Ideal pentru un picnic între cele două rânduri de ziduri.",
+                "en": "Ideal for a picnic between the two rings of walls."
+              }
+            },
+            {
+              "name": "Pont Vieux",
+              "tip_5lang": {
+                "de": "Der klassische Fotopunkt mit Blick auf die Festung.",
+                "hu": "Klasszikus fotópont kilátással az erődre.",
+                "ro": "Punctul clasic de fotografie cu vedere spre fortăreață.",
+                "en": "The classic photo spot with views of the fortress."
+              }
+            },
+            {
+              "name": "Place Carnot",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Getränk am Brunnen im Herzen der Unterstadt.",
+                "hu": "Igyon meg valamit a szökőkútnál az alsóváros szívében.",
+                "ro": "Savurați o băutură lângă fântâna din centrul orașului de jos.",
+                "en": "Enjoy a drink by the fountain in the heart of the lower town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cassoulet Carcassonnais",
+                "tip": "Probieren Sie das traditionelle Bohnengericht im Restaurant Le Chaudron."
+              },
+              {
+                "name": "Confit de Canard",
+                "tip": "Zartes Entenfleisch, eine Spezialität des Languedoc."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carcassonne-i Cassoulet",
+                "tip": "Kóstolja meg a hagyományos babos húsételt a Le Chaudron étteremben."
+              },
+              {
+                "name": "Kacsa Confit",
+                "tip": "Omlós kacsahús, a Languedoc régió specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cassoulet de Carcassonne",
+                "tip": "Gustați mâncarea tradițională cu fasole la restaurantul Le Chaudron."
+              },
+              {
+                "name": "Confit de Rață",
+                "tip": "Carne de rață fragedă, o specialitate din Languedoc."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carcassonne Cassoulet",
+                "tip": "Taste the traditional bean and meat stew at Le Chaudron restaurant."
+              },
+              {
+                "name": "Duck Confit",
+                "tip": "Tender duck meat, a specialty of the Languedoc region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lices de la Cité",
+                "tip": "Ein ruhiger Spaziergang zwischen den inneren und äußeren Mauern.",
+                "emoji": "🏰"
+              },
+              {
+                "name": "Ufer der Aude",
+                "tip": "Entspannung am Fluss unterhalb der Festung.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lices de la Cité",
+                "tip": "Csendes séta a belső és külső várfalak között.",
+                "emoji": "🏰"
+              },
+              {
+                "name": "Aude folyó partja",
+                "tip": "Pihenés a folyónál az erőd alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lices de la Cité",
+                "tip": "O plimbare liniștită între zidurile interioare și cele exterioare.",
+                "emoji": "🏰"
+              },
+              {
+                "name": "Malul râului Aude",
+                "tip": "Relaxare lângă râu, sub fortăreață.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lices de la Cité",
+                "tip": "A quiet walk between the inner and outer fortress walls.",
+                "emoji": "🏰"
+              },
+              {
+                "name": "Banks of the Aude",
+                "tip": "Relaxation by the river below the fortress.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Le Palais de la Truffe",
+                "tip": "Lokale Trüffelprodukte und Spezialitäten."
+              },
+              {
+                "name": "Biscuiterie de la Cité",
+                "tip": "Traditionelles Gebäck und handwerkliche Kekse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Palais de la Truffe",
+                "tip": "Helyi szarvasgomba termékek és különlegességek."
+              },
+              {
+                "name": "Biscuiterie de la Cité",
+                "tip": "Hagyományos sütemények és kézműves kekszek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Palais de la Truffe",
+                "tip": "Produse locale din trufe și specialități."
+              },
+              {
+                "name": "Biscuiterie de la Cité",
+                "tip": "Patiserie tradițională și biscuiți artizanali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Palais de la Truffe",
+                "tip": "Local truffle products and specialties."
+              },
+              {
+                "name": "Biscuiterie de la Cité",
+                "tip": "Traditional pastries and artisanal biscuits."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie die Cité früh am Morgen, um den Massen zu entgehen.",
+              "Die Lichter der Festung bei Nacht sind magisch.",
+              "Kaufen Sie Tickets für das Schloss im Voraus online."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Látogasson el a várba kora reggel a tömeg elkerülése érdekében.",
+              "Az erőd fényei éjszaka varázslatosak.",
+              "Vásárolja meg a várbelépőt előre online."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile cu piatră cubică.",
+              "Vizitați cetatea dimineața devreme pentru a evita aglomerația.",
+              "Luminile fortăreței pe timp de noapte sunt magice.",
+              "Cumpărați biletele pentru castel în avans online."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Visit the Cité early in the morning to avoid the crowds.",
+              "The fortress lights at night are magical.",
+              "Buy castle tickets in advance online."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Porte Narbonnaise Schutz vor dem ersten Guss. Mittags verbringen wir viel Zeit im trockenen Château Comtal. Nachmittags flüchten wir in die Basilika und eilen über die Pont Vieux. Abends genießen wir die gemütliche Atmosphäre in den Bistros der Place Carnot, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggel a Narbonne-i kapu boltívei alatt kezdünk, védve az esőtől. Délben a várkastély termeiben kalandozunk, távol a sártól. Délután a bazilika csendjében húzzuk meg magunkat, majd gyorsan átkelünk a hídon. Az estét a Place Carnot egyik barátságos kávézójában zárjuk, figyelve az esőcseppeket.",
+            "ro": "Dimineața, porțile masive oferă primul refugiu. La prânz, explorăm interiorul castelului, feriți de intemperii. După-amiaza ne adăpostim în basilică, apoi traversăm rapid Pont Vieux. Seara ne relaxăm într-o cafenea caldă din Place Carnot, în timp ce ploaia spală străzile medievale ale orașului de jos.",
+            "en": "Morning starts under the shelter of the Narbonne Gate. Midday is spent exploring the dry halls of the Château Comtal. In the afternoon, we find refuge in the Basilica and make a quick dash across Pont Vieux. The evening concludes in the cozy bistros of Place Carnot, safe from the rhythmic rain outside."
+          },
+          "stops": [
+            {
+              "name": "Porte Narbonnaise",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem tiefen Torbogen.",
+                "hu": "Keress menedéket a mély kapualj alatt.",
+                "ro": "Căutați adăpost sub arcada adâncă a porții.",
+                "en": "Seek shelter under the deep archway of the gate."
+              }
+            },
+            {
+              "name": "Château Comtal",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Indoor-Besichtigung.",
+                "hu": "Tökéletes helyszín egy hosszú belső látogatáshoz.",
+                "ro": "Locul perfect pentru o vizită interioară lungă.",
+                "en": "Perfect spot for a lengthy indoor tour."
+              }
+            },
+            {
+              "name": "Basilique Saint-Nazaire",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und das trockene Kirchenschiff.",
+                "hu": "Élvezd a csendet és a száraz templomhajót.",
+                "ro": "Bucurați-vă de liniște și de interiorul uscat.",
+                "en": "Enjoy the silence and the dry nave."
+              }
+            },
+            {
+              "name": "Lices de la Cité",
+              "tip_5lang": {
+                "de": "Achtung, die Wege zwischen den Mauern sind rutschig.",
+                "hu": "Vigyázat, a falak közötti utak csúszósak.",
+                "ro": "Atenție, potecile dintre ziduri sunt alunecoase.",
+                "en": "Watch out, the paths between the walls are slippery."
+              }
+            },
+            {
+              "name": "Pont Vieux",
+              "tip_5lang": {
+                "de": "Nutzen Sie den schnellen Weg in die Unterstadt.",
+                "hu": "Használd a gyors utat az alsóváros felé.",
+                "ro": "Folosiți calea rapidă spre orașul de jos.",
+                "en": "Take the quick route to the lower town."
+              }
+            },
+            {
+              "name": "Place Carnot",
+              "tip_5lang": {
+                "de": "Viele Cafés haben überdachte Terrassen.",
+                "hu": "Sok kávézó rendelkezik fedett terasszal.",
+                "ro": "Multe cafenele au terase acoperite.",
+                "en": "Many cafes have covered terraces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Die Cité bietet viele kleine Läden zum Unterstellen.",
+              "Ein Regenschirm ist bei den Windböen auf der Brücke weniger stabil als ein Regenponcho.",
+              "Nutzen Sie die Mittagszeit für ausgiebige Museumsbesuche im Schloss."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert a macskakövek nagyon csúsznak.",
+              "A várfalak között sok kis bolt kínál menedéket az eső elől.",
+              "A hídon fújó szél miatt az esernyő helyett a poncsó praktikusabb.",
+              "A déli órákat érdemes a kastélymúzeum belső termeiben tölteni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul devine foarte alunecos.",
+              "Cetatea are multe magazine mici unde vă puteți adăposti.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă din cauza vântului.",
+              "Folosiți orele prânzului pentru vizite prelungite în muzeul castelului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones become very slippery.",
+              "The Cité offers many small shops to take cover from the rain.",
+              "A rain poncho is more practical than an umbrella due to wind on the bridge.",
+              "Use midday for extensive indoor museum tours in the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Porte Narbonnaise ohne Touristenmassen. Mittags wärmt uns die Geschichte im Schloss, während der kalte Wind draußen pfeift. Nachmittags ist die Basilika besonders friedlich. Wir überqueren die Brücke bei frühem Zwielicht und genießen am Abend heiße Schokolade auf der Place Carnot.",
+            "hu": "Kristálytiszta téli reggel a kapunál, tömegek nélkül. Délben a kastély falai között melegszünk fel, miközben kint fúj a Tramontane szél. Délután a bazilika különleges nyugalmat áraszt. A korai szürkületben kelünk át a hídon, az estét pedig forró csokoládéval zárjuk a főtéren.",
+            "ro": "O dimineață de iarnă senină la poartă, fără mulțimile de turiști. La prânz ne încălzim în castel, în timp ce vântul rece bate afară. După-amiaza, basilica oferă o liniște aparte. Traversăm podul în amurgul timpuriu și încheiem seara cu o ciocolată caldă în Place Carnot.",
+            "en": "A crisp winter morning at the gate without the usual crowds. At midday, we warm up inside the castle while the cold wind howls outside. The Basilica is exceptionally peaceful in the afternoon. We cross the bridge in the early twilight and enjoy hot chocolate at Place Carnot in the evening."
+          },
+          "stops": [
+            {
+              "name": "Porte Narbonnaise",
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Festung am frühen Morgen.",
+                "hu": "Élvezd az üres erődöt kora reggel.",
+                "ro": "Bucurați-vă de cetatea goală la prima oră.",
+                "en": "Enjoy the empty fortress in the early morning."
+              }
+            },
+            {
+              "name": "Château Comtal",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem Wind.",
+                "hu": "A vastag falak jól védenek a szél ellen.",
+                "ro": "Zidurile groase protejează bine de vânt.",
+                "en": "The thick walls provide good shelter from the wind."
+              }
+            },
+            {
+              "name": "Basilique Saint-Nazaire",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft wärmer als draußen.",
+                "hu": "A templomban gyakran melegebb van, mint kint.",
+                "ro": "În biserică este adesea mai cald decât afară.",
+                "en": "It is often warmer inside the church than outside."
+              }
+            },
+            {
+              "name": "Lices de la Cité",
+              "tip_5lang": {
+                "de": "Der Wind kann hier zwischen den Mauern sehr kalt sein.",
+                "hu": "A szél a falak között nagyon hideg lehet.",
+                "ro": "Vântul poate fi foarte rece între ziduri.",
+                "en": "The wind can be very biting between the walls."
+              }
+            },
+            {
+              "name": "Pont Vieux",
+              "tip_5lang": {
+                "de": "Toller Blick auf die beleuchtete Cité bei Dämmerung.",
+                "hu": "Pazar kilátás a kivilágított várra szürkületkor.",
+                "ro": "Vedere superbă spre cetatea iluminată la amurg.",
+                "en": "Great view of the lit-up Cité at dusk."
+              }
+            },
+            {
+              "name": "Place Carnot",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Kamin oder Heizstrahler.",
+                "hu": "Keress kandallós vagy hősugárzós kávézót.",
+                "ro": "Căutați o cafenea cu șemineu sau încălzitor.",
+                "en": "Look for a cafe with a fireplace or heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wichtig für den Spaziergang auf den Mauern.",
+              "Die Sonne geht im Winter bereits gegen 17:15 Uhr unter.",
+              "Die Cité ist im Winter herrlich leer und fotogen.",
+              "Der Tramontane-Wind kann die gefühlte Temperatur stark senken."
+            ],
+            "hu": [
+              "A várfalakon való sétához elengedhetetlen a meleg kesztyű.",
+              "A nap télen már 17:15 körül lemegy, tervezz eszerint.",
+              "A vár télen gyönyörűen üres és kiválóan fotózható.",
+              "A Tramontane szél jelentősen csökkentheti a hőérzetet."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale pentru plimbarea pe ziduri.",
+              "Soarele apune iarna în jurul orei 17:15.",
+              "Cetatea este minunat de goală și fotogenică iarna.",
+              "Vântul Tramontane poate scădea mult temperatura resimțită."
+            ],
+            "en": [
+              "Warm gloves are essential for the walk along the walls.",
+              "Sunset in winter is already around 17:15, plan accordingly.",
+              "The Cité is wonderfully empty and photogenic in winter.",
+              "The Tramontane wind can significantly lower the perceived temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -504,6 +910,333 @@
           "The route to the lake is slightly hilly.",
           "Avoid cycling inside the crowded fortress."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Carcassonne auf zwei Rädern. Beginnen Sie am Hafen des Canal du Midi und radeln Sie entlang des UNESCO-Welterbes im Schatten alter Platanen. Ein Abstecher führt Sie zum Lac de la Cavayère, wo Sie entspannen können. Am Nachmittag erreichen Sie die majestätische Festung, bevor Sie durch die flachen Straßen der Bastide zurückkehren.",
+            "hu": "Fedezze fel Carcassonne-t két keréken. Kezdje a Canal du Midi kikötőjénél, és tekerjen az UNESCO Világörökség mentén az ősi platánok árnyékában. Egy kitérő elviszi a Lac de la Cavayère-hez, ahol megpihenhet. Délután érje el a fenséges erődöt, majd térjen vissza a Bastide sík utcáin keresztül.",
+            "ro": "Explorați Carcassonne pe două roți. Începeți la portul Canal du Midi și pedalați de-a lungul sitului UNESCO la umbra platanilor antici. O abatere vă duce la Lac de la Cavayère, unde vă puteți relaxa. După-amiaza ajungeți la fortăreața maiestuoasă, înainte de a reveni prin străzile plate ale Bastidei.",
+            "en": "Explore Carcassonne on two wheels. Start at the Canal du Midi port and cycle along the UNESCO World Heritage site under the shade of ancient plane trees. A detour takes you to Lac de la Cavayère for a break. In the afternoon, reach the majestic fortress before returning through the flat streets of the Bastide."
+          },
+          "stops": [
+            {
+              "name": "Port de Carcassonne",
+              "tip_5lang": {
+                "de": "Startpunkt am Canal du Midi.",
+                "hu": "Kiindulópont a Canal du Midi-nél.",
+                "ro": "Punctul de plecare la Canal du Midi.",
+                "en": "Starting point at the Canal du Midi."
+              }
+            },
+            {
+              "name": "Canal du Midi Towpath",
+              "tip_5lang": {
+                "de": "Flache und schattige Wege entlang des Wassers.",
+                "hu": "Lapos és árnyas utak a víz mentén.",
+                "ro": "Trasee plate și umbrite de-a lungul apei.",
+                "en": "Flat and shaded paths along the water."
+              }
+            },
+            {
+              "name": "Lac de la Cavayère",
+              "tip_5lang": {
+                "de": "Ideal für ein erfrischendes Bad im See.",
+                "hu": "Ideális egy frissítő fürdőzéshez a tóban.",
+                "ro": "Ideal pentru o baie răcoritoare în lac.",
+                "en": "Ideal for a refreshing dip in the lake."
+              }
+            },
+            {
+              "name": "Cité de Carcassonne",
+              "tip_5lang": {
+                "de": "Parken Sie die Fahrräder vor dem Eingang.",
+                "hu": "Parkolja le a bicikliket a bejáratnál.",
+                "ro": "Parcați bicicletele în fața intrării.",
+                "en": "Park the bikes outside the main entrance."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Gemütlicher Abschluss in der Unterstadt.",
+                "hu": "Hangulatos befejezés az alsóvárosban.",
+                "ro": "Final relaxat în orașul de jos.",
+                "en": "Cozy finish in the lower town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Picnic am Canal",
+                "tip": "Kaufen Sie Käse und Brot in der Bastide für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piknik a csatornánál",
+                "tip": "Vásároljon sajtot és kenyeret a Bastide-ban az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Picnic la canal",
+                "tip": "Cumpărați brânză și pâine în Bastide pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal Picnic",
+                "tip": "Buy cheese and bread in the Bastide for the ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canal du Midi",
+                "tip": "Die Ruhe des Wassers genießen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canal du Midi",
+                "tip": "Élvezze a víz nyugalmát.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canal du Midi",
+                "tip": "Bucurați-vă de liniștea apei.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal du Midi",
+                "tip": "Enjoy the tranquility of the water.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Halles",
+                "tip": "Frische Produkte auf dem Markt der Bastide."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles",
+                "tip": "Friss termékek a Bastide piacán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles",
+                "tip": "Produse proaspete la piața din Bastide."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles",
+                "tip": "Fresh produce at the Bastide market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie Fahrräder in der Nähe des Bahnhofs.",
+              "Achten Sie auf Spaziergänger am Canal du Midi.",
+              "Die Strecke zum See ist leicht hügelig.",
+              "Vermeiden Sie es, mit dem Rad in die Cité zu fahren."
+            ],
+            "hu": [
+              "Béreljen biciklit a vasútállomás közelében.",
+              "Vigyázzon a gyalogosokra a Canal du Midi mentén.",
+              "A tóhoz vezető út enyhén dombos.",
+              "Kerülje el, hogy kerékpárral hajtson be a várba."
+            ],
+            "ro": [
+              "Închiriați biciclete lângă gară.",
+              "Atenție la pietoni pe marginea Canal du Midi.",
+              "Traseul spre lac este ușor deluros.",
+              "Evitați să intrați cu bicicleta în cetate."
+            ],
+            "en": [
+              "Rent bikes near the train station.",
+              "Watch out for pedestrians along the Canal du Midi.",
+              "The route to the lake is slightly hilly.",
+              "Avoid cycling inside the crowded fortress."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Hafen starten wir trotz Nieselregen. Der Leinpfad am Canal du Midi ist matschig, aber mystisch. Mittags erreichen wir den Cavayère-See im Nebel. Nachmittags radeln wir zur Cité hoch und finden Schutz in den Gassen. Abends lassen wir die Tour in der Bastide bei einem warmen Getränk ausklingen.",
+            "hu": "A kikötőben kezdünk a szemerkélő eső ellenére. A csatorna menti ösvény sáros, de misztikus. Délben ködben érjük el a Cavayère-tavat. Délután feltekerünk a várba, ahol a szűk utcák védenek. Az estét a Bastide-ban zárjuk egy forró ital mellett.",
+            "ro": "Pornim din port în ciuda burniței. Poteca de pe malul canalului este noroioasă, dar mistică. La prânz ajungem la lacul Cavayère prin ceață. După-amiaza urcăm spre cetate, unde străzile oferă adăpost. Seara încheiem turul în Bastide cu o băutură caldă.",
+            "en": "We start at the port despite the drizzle. The Canal du Midi path is muddy but mystical. At midday, we reach Lake Cavayère shrouded in mist. In the afternoon, we cycle up to the Cité where the alleys provide some cover. We finish the evening in the Bastide with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Port de Carcassonne",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Holzstegen am Wasser.",
+                "hu": "Vigyázz a víz melletti nedves fapallókon.",
+                "ro": "Atenție pe platformele de lemn ude de lângă apă.",
+                "en": "Be careful on the wet wooden docks near the water."
+              }
+            },
+            {
+              "name": "Canal du Midi Towpath",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter ein Muss.",
+                "hu": "Sárvédő használata ebben az időben kötelező.",
+                "ro": "Apărătorile de noroi sunt obligatorii pe această vreme.",
+                "en": "Mudguards are a must-have in this weather."
+              }
+            },
+            {
+              "name": "Lac de la Cavayère",
+              "tip_5lang": {
+                "de": "Die Unterstände am Ufer bieten Schutz vor Güssen.",
+                "hu": "A parti esőbeállók védelmet nyújtanak a záporok elől.",
+                "ro": "Adăposturile de pe mal oferă protecție împotriva ploii.",
+                "en": "Shelters on the shore provide cover from downpours."
+              }
+            },
+            {
+              "name": "Cité de Carcassonne",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen, nassen Gassen.",
+                "hu": "Told a biciklit a szűk, nedves utcákban.",
+                "ro": "Împingeți bicicleta pe străzile înguste și ude.",
+                "en": "Walk your bike in the narrow, wet alleys."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Fahrradständer unter Vordächern suchen.",
+                "hu": "Keress előtető alatti kerékpártárolót.",
+                "ro": "Căutați rastele de biciclete sub copertine.",
+                "en": "Look for bike racks under awnings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Leinpfad kann sehr rutschig und matschig sein.",
+              "Vermeiden Sie bei starkem Regen die unbefestigten Wege am See.",
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Ausrüstung.",
+              "Bremswege verlängern sich auf nassem Kopfsteinpflaster drastisch."
+            ],
+            "hu": [
+              "A vontatóút nagyon csúszós és sáros lehet.",
+              "Heves esőben kerüld a tó körüli kiépítetlen utakat.",
+              "Használj vízálló táskákat a felszerelésedhez.",
+              "A fékút drasztikusan megnő a nedves macskakövön."
+            ],
+            "ro": [
+              "Poteca de pe mal poate fi foarte alunecoasă și noroioasă.",
+              "Evitați drumurile neamenajate de lângă lac pe ploaie torențială.",
+              "Folosiți genți de bicicletă impermeabile pentru echipament.",
+              "Distanța de frânare crește drastic pe pavajul ud."
+            ],
+            "en": [
+              "The towpath can be very slippery and muddy.",
+              "Avoid unpaved paths around the lake during heavy rain.",
+              "Use waterproof panniers for your gear.",
+              "Braking distances increase drastically on wet cobblestones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Hafen. Die kahlen Platanen am Canal du Midi lassen die Wintersonne durch. Mittags am See ist es windig, aber die Luft ist herrlich klar. Nachmittags erklimmen wir die Cité und genießen die Aussicht ohne Hitze. Abends belohnen wir uns in der Bastide mit einem herzhaften Cassoulet.",
+            "hu": "Fagyos kezdés a kikötőben. A csatorna menti csupasz platánok átengedik a téli napfényt. Délben a tónál szeles az idő, de a levegő kristálytiszta. Délután könnyedén tekerünk fel a várba a hűvösben. Este a Bastide egyik éttermében egy bőséges Cassoulet-val jutalmazzuk magunkat.",
+            "ro": "Un început geros în port. Platanii golași de pe marginea canalului lasă soarele de iarnă să treacă. La prânz, lângă lac, este vânt, dar aerul e foarte curat. După-amiaza urcăm spre cetate fără disconfortul căldurii. Seara ne recompensăm în Bastide cu un Cassoulet consistent.",
+            "en": "A frosty start at the port. The bare plane trees along the canal let the winter sun through. At midday by the lake, it is windy but the air is wonderfully clear. In the afternoon, we climb up to the Cité, enjoying the view without the heat. In the evening, we treat ourselves to a hearty Cassoulet in the Bastide."
+          },
+          "stops": [
+            {
+              "name": "Port de Carcassonne",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Wegen.",
+                "hu": "Vigyázz a jeges foltokra az utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drum.",
+                "en": "Watch out for frozen patches on the paths."
+              }
+            },
+            {
+              "name": "Canal du Midi Towpath",
+              "tip_5lang": {
+                "de": "Der Wind weht hier im Winter oft recht kräftig.",
+                "hu": "Itt télen gyakran fúj elég erős szél.",
+                "ro": "Vântul suflă adesea destul de tare aici iarna.",
+                "en": "The wind often blows quite strongly here in winter."
+              }
+            },
+            {
+              "name": "Lac de la Cavayère",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos mit klarem Winterlicht.",
+                "hu": "Szuper hely fotózáshoz a tiszta téli fényben.",
+                "ro": "Un loc excelent pentru poze în lumina clară de iarnă.",
+                "en": "A great spot for photos in the clear winter light."
+              }
+            },
+            {
+              "name": "Cité de Carcassonne",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, oben weht der Wind.",
+                "hu": "Az emelkedő felmelegít, de fent fúj a szél.",
+                "ro": "Urcarea vă va încălzi, dar sus bate vântul.",
+                "en": "The climb will keep you warm, but it is windy at the top."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Winterstimmung.",
+                "hu": "Élvezd a hangulatos téli atmoszférát.",
+                "ro": "Bucurați-vă de atmosfera primitoare de iarnă.",
+                "en": "Enjoy the cozy winter atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Die Tage sind kurz, starten Sie früh, um das Licht am See zu nutzen.",
+              "Vorsicht vor Glätte auf Brücken und schattigen Abschnitten.",
+              "Ein heißer Tee in der Thermoskanne ist Gold wert."
+            ],
+            "hu": [
+              "Öltözz rétegesen és használj szélálló ruházatot.",
+              "A nappalok rövidek, indulj korán, hogy kihasználd a fényt a tónál.",
+              "Vigyázz a csúszós részekre a hidakon és árnyékos szakaszokon.",
+              "Egy termosz forró tea aranyat ér ilyenkor."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și echipament anti-vânt.",
+              "Zilele sunt scurte, porniți devreme pentru a prinde lumina la lac.",
+              "Atenție la gheață pe poduri și în zonele umbrite.",
+              "Un termos cu ceai cald face minuni pe acest traseu."
+            ],
+            "en": [
+              "Wear multiple layers and windproof clothing.",
+              "Days are short, start early to catch the light at the lake.",
+              "Watch out for slippery spots on bridges and shaded sections.",
+              "A thermos of hot tea is worth its weight in gold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -718,6 +1451,333 @@
           "Don't drink and drive after wine tasting.",
           "Use GPS for the smaller vineyards."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie nicht nur die Cité, sondern auch das Hinterland. Nach der Erkundung der Festung fahren Sie zur Abtei Saint-Hilaire, wo der erste Schaumwein der Welt erfunden wurde. Genießen Sie ein Mittagessen in Limoux und besuchen Sie ein Weingut für eine Probe lokaler Weine. Zum Abschluss bietet ein Aussichtspunkt den perfekten Blick auf die Silhouette von Carcassonne.",
+            "hu": "Autóval nemcsak a várat, hanem a környéket is felfedezheti. A várlátogatás után hajtson el a Saint-Hilaire apátsághoz, ahol a világ első pezsgőjét feltalálták. Élvezze az ebédet Limoux-ban, és látogasson el egy borászatba helyi borkóstolóra. Zárásként egy kilátópontról csodálhatja meg Carcassonne tökéletes sziluettjét.",
+            "ro": "Cu mașina veți descoperi nu doar cetatea, ci și împrejurimile. După explorarea fortăreței, conduceți spre Abația Saint-Hilaire, unde a fost inventat primul vin spumant din lume. Savurați prânzul în Limoux și vizitați o podgorie pentru o degustare de vinuri locale. La final, un punct de belvedere oferă vederea perfectă asupra siluetei orașului Carcassonne.",
+            "en": "By car, you will discover not only the Cité but also the hinterland. After exploring the fortress, drive to Saint-Hilaire Abbey, where the world's first sparkling wine was invented. Enjoy lunch in Limoux and visit a vineyard for a local wine tasting. To finish, a panoramic viewpoint offers the perfect look at Carcassonne's silhouette."
+          },
+          "stops": [
+            {
+              "name": "Parking Cité",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen P0-Parkplatz.",
+                "hu": "Használja a nagy P0 parkolót.",
+                "ro": "Folosiți parcarea mare P0.",
+                "en": "Use the large P0 parking lot."
+              }
+            },
+            {
+              "name": "Abbaye de Saint-Hilaire",
+              "tip_5lang": {
+                "de": "Geburtsort des Blanquette de Limoux.",
+                "hu": "A Blanquette de Limoux szülőhelye.",
+                "ro": "Locul de naștere al Blanquette de Limoux.",
+                "en": "Birthplace of the Blanquette de Limoux sparkling wine."
+              }
+            },
+            {
+              "name": "Limoux",
+              "tip_5lang": {
+                "de": "Hübsche Stadt am Fluss Aude.",
+                "hu": "Szép város az Aude folyó partján.",
+                "ro": "Oraș frumos pe malul râului Aude.",
+                "en": "Pretty town on the banks of the Aude river."
+              }
+            },
+            {
+              "name": "Domaine Viticole (Vineyard)",
+              "tip_5lang": {
+                "de": "Weinprobe in den Corbières.",
+                "hu": "Borkóstoló a Corbières borvidéken.",
+                "ro": "Degustare de vinuri în Corbières.",
+                "en": "Wine tasting in the Corbières region."
+              }
+            },
+            {
+              "name": "Panorama de Carcassonne",
+              "tip_5lang": {
+                "de": "Bester Blick auf die gesamte Festung.",
+                "hu": "A legjobb kilátás az egész erődre.",
+                "ro": "Cea mai bună vedere asupra întregii fortărețe.",
+                "en": "Best view of the entire fortress from a distance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Blanquette de Limoux",
+                "tip": "Der älteste Schaumwein der Welt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Blanquette de Limoux",
+                "tip": "A világ legrégebbi pezsgője."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Blanquette de Limoux",
+                "tip": "Cel mai vechi vin spumant din lume."
+              }
+            ],
+            "en": [
+              {
+                "name": "Blanquette de Limoux",
+                "tip": "The world's oldest sparkling wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Saint-Hilaire Kreuzgang",
+                "tip": "Spirituelle Ruhe im Kloster.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Saint-Hilaire kerengő",
+                "tip": "Spirituális nyugalom a kolostorban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cloastrul Saint-Hilaire",
+                "tip": "Liniște spirituală în mănăstire.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Saint-Hilaire Cloister",
+                "tip": "Spiritual peace in the monastery.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vignerons de Limoux",
+                "tip": "Direktverkauf von Weinen aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vignerons de Limoux",
+                "tip": "Borok közvetlen értékesítése a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vignerons de Limoux",
+                "tip": "Vânzare directă de vinuri din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vignerons de Limoux",
+                "tip": "Direct sale of wines from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze an der Cité sind teuer, kommen Sie früh.",
+              "Die Straßen im Umland sind kurvenreich.",
+              "Don't drink and drive nach der Weinprobe.",
+              "Nutzen Sie ein Navi für die kleinen Weingüter."
+            ],
+            "hu": [
+              "A várnál a parkolás drága, érkezzen korán.",
+              "A környékbeli utak kanyargósak.",
+              "Ne vezessen alkohol fogyasztása után.",
+              "Használjon navigációt a kis borászatokhoz."
+            ],
+            "ro": [
+              "Parcarea la cetate este scumpă, veniți devreme.",
+              "Drumurile din împrejurimi sunt sinuoase.",
+              "Nu conduceți după degustarea de vinuri.",
+              "Folosiți navigația pentru podgoriile mici."
+            ],
+            "en": [
+              "Parking at the Cité is expensive, arrive early.",
+              "The surrounding roads are winding.",
+              "Don't drink and drive after wine tasting.",
+              "Use GPS for the smaller vineyards."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start am Cité-Parkplatz unter dem Regenschirm. Mittags besuchen wir die Abtei Saint-Hilaire, die drinnen trocken und stimmungsvoll ist. Nachmittags in Limoux genießen wir eine überdachte Weinverkostung. Wir beenden den Tag mit einem nebligen Blick vom Panorama-Punkt auf die beleuchtete Festung.",
+            "hu": "Kényelmes kezdés a várparkolóban, esernyővel a kézben. Délben a Saint-Hilaire apátságot látogatjuk meg, amely belül száraz és hangulatos. Délután Limoux-ban fedett borkóstolón veszünk részt. A napot a panoráma pontnál zárjuk, ködös kilátással a kivilágított erődre.",
+            "ro": "Început confortabil în parcarea cetății, cu umbrela la îndemână. La prânz vizităm abația Saint-Hilaire, uscată și plină de atmosferă la interior. După-amiaza în Limoux ne bucurăm de o degustare de vinuri la adăpost. Încheiem ziua cu o vedere cețoasă de la punctul panoramic spre cetatea iluminată.",
+            "en": "Comfortable start at the Cité parking lot with an umbrella. At midday, we visit Saint-Hilaire Abbey, which is dry and atmospheric inside. In the afternoon in Limoux, we enjoy a covered wine tasting. We end the day with a misty view from the panorama point over the lit-up fortress."
+          },
+          "stops": [
+            {
+              "name": "Parking Cité",
+              "tip_5lang": {
+                "de": "Kurzer Weg zum Eingang, halten Sie den Schirm bereit.",
+                "hu": "Rövid út a bejáratig, legyen kéznél az esernyő.",
+                "ro": "Drum scurt până la intrare, aveți umbrela pregătită.",
+                "en": "Short walk to the entrance, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Abbaye de Saint-Hilaire",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, viel zu entdecken im Inneren.",
+                "hu": "Ideális esőben, sok látnivaló vár bent.",
+                "ro": "Ideal pe ploaie, multe de descoperit la interior.",
+                "en": "Ideal during rain, lots to discover inside."
+              }
+            },
+            {
+              "name": "Limoux",
+              "tip_5lang": {
+                "de": "Gemütliche Restaurants bieten Schutz und gutes Essen.",
+                "hu": "Hangulatos éttermek kínálnak menedéket és jó ételt.",
+                "ro": "Restaurantele primitoare oferă adăpost și mâncare bună.",
+                "en": "Cozy restaurants offer shelter and great food."
+              }
+            },
+            {
+              "name": "Domaine Viticole (Vineyard)",
+              "tip_5lang": {
+                "de": "Die Verkostungsräume sind warm und trocken.",
+                "hu": "A kóstolóhelyiségek melegek és szárazak.",
+                "ro": "Sălile de degustare sunt calde și uscate.",
+                "en": "Tasting rooms are warm and dry."
+              }
+            },
+            {
+              "name": "Panorama de Carcassonne",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Guss einfach im Auto.",
+                "hu": "Heves esőben maradj nyugodtan az autóban.",
+                "ro": "Dacă plouă tare, rămâneți pur și simplu în mașină.",
+                "en": "Stay in the car if there is a heavy downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den kurvigen Landstraßen nach Saint-Hilaire.",
+              "Die Parkplätze an der Cité können bei Regen matschig sein.",
+              "Limoux bietet viele überdachte Arkaden im Zentrum.",
+              "Nutzen Sie die Fahrtzeiten, um im trockenen Auto aufzuwärmen."
+            ],
+            "hu": [
+              "Vezess óvatosan a Saint-Hilaire felé vezető kanyargós utakon.",
+              "A vár melletti parkolók esőben sárosak lehetnek.",
+              "Limoux központjában sok fedett árkád található.",
+              "Használd ki az utazási időt a száraz autóban való melegedésre."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile virajate spre Saint-Hilaire.",
+              "Parcările de lângă cetate pot fi noroioase pe ploaie.",
+              "Limoux are multe arcade acoperite în centru.",
+              "Folosiți timpul de condus pentru a vă încălzi în mașina uscată."
+            ],
+            "en": [
+              "Drive carefully on the winding country roads to Saint-Hilaire.",
+              "The parking areas near the Cité can be muddy in the rain.",
+              "Limoux offers many covered arcades in the town center.",
+              "Use the driving time to dry off and warm up in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Cité-Parkplatz mit freier Platzwahl. Mittags ist die Abtei Saint-Hilaire still und beeindruckend in der Winterkälte. In Limoux wärmen wir uns bei einem Glas Blanquette auf. Den Tag beenden wir am Panorama-Punkt genau zum Sonnenuntergang, wenn die Cité im goldenen Licht erstrahlt.",
+            "hu": "Fagyos reggel a várparkolóban, bőven van szabad hely. Délben a Saint-Hilaire apátság csendes és lenyűgöző a téli hidegben. Limoux-ban egy pohár Blanquette mellett melegszünk fel. A napot a panoráma pontnál zárjuk pont naplementekor, amikor a vár arany fényben úszik.",
+            "ro": "O dimineață geroasă în parcarea cetății, cu multe locuri libere. La prânz, abația Saint-Hilaire este liniștită și impresionantă în frigul iernii. În Limoux ne încălzim cu un pahar de Blanquette. Încheiem ziua la punctul panoramic exact la apus, când cetatea strălucește în lumină aurie.",
+            "en": "A frosty morning at the Cité parking lot with plenty of spaces. At midday, Saint-Hilaire Abbey is quiet and impressive in the winter chill. In Limoux, we warm up with a glass of Blanquette. We end the day at the panorama point exactly at sunset, when the Cité glows in golden light."
+          },
+          "stops": [
+            {
+              "name": "Parking Cité",
+              "tip_5lang": {
+                "de": "Die Parkgebühren sind im Winter oft niedriger.",
+                "hu": "A parkolási díjak télen gyakran alacsonyabbak.",
+                "ro": "Taxele de parcare sunt adesea mai mici iarna.",
+                "en": "Parking fees are often lower during the winter season."
+              }
+            },
+            {
+              "name": "Abbaye de Saint-Hilaire",
+              "tip_5lang": {
+                "de": "Besichtigung ohne Touristenmassen genießen.",
+                "hu": "Élvezd a látogatást tömegek nélkül.",
+                "ro": "Bucurați-vă de vizită fără mulțimi de turiști.",
+                "en": "Enjoy the tour without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Limoux",
+              "tip_5lang": {
+                "de": "Probieren Sie den regionalen Schaumwein Blanquette.",
+                "hu": "Kóstold meg a helyi Blanquette pezsgőt.",
+                "ro": "Gustați vinul spumant local numit Blanquette.",
+                "en": "Try the local sparkling wine called Blanquette."
+              }
+            },
+            {
+              "name": "Domaine Viticole (Vineyard)",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig und persönlich.",
+                "hu": "Télen itt nagyon csendes és családias a hangulat.",
+                "ro": "Iarna este foarte liniște și atmosfera e personală.",
+                "en": "It is very quiet and personal here in winter."
+              }
+            },
+            {
+              "name": "Panorama de Carcassonne",
+              "tip_5lang": {
+                "de": "Beste Zeit für den Sonnenuntergang ist ca. 17:15 Uhr.",
+                "hu": "A naplemente legjobb időpontja kb. 17:15.",
+                "ro": "Cel mai bun moment pentru apus este în jur de 17:15.",
+                "en": "Best time for sunset is around 17:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf mögliche Straßenglätte in höheren Lagen.",
+              "Die Heizung im Auto sorgt für nötige Pausen vom Wind.",
+              "Prüfen Sie die Winteröffnungszeiten der Weingüter.",
+              "Der Sonnenuntergang ist im Winter besonders farbenfroh."
+            ],
+            "hu": [
+              "Figyelj az esetleges jeges utakra a magasabb részeken.",
+              "Az autó fűtése segít kipihenni a kinti szeles időt.",
+              "Ellenőrizd a borászatok téli nyitvatartását.",
+              "A naplemente télen különösen színpompás."
+            ],
+            "ro": [
+              "Atenție la posibila gheață pe drum în zonele mai înalte.",
+              "Căldura din mașină oferă pauzele necesare de la vânt.",
+              "Verificați programul de iarnă al cramelor.",
+              "Apusul de soare este deosebit de colorat iarna."
+            ],
+            "en": [
+              "Watch out for potential icy roads in higher elevations.",
+              "The car's heater provides necessary breaks from the wind.",
+              "Check winter opening hours for the vineyards.",
+              "Sunsets are particularly colorful during the winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -932,34 +1992,334 @@
           "The train station has luggage lockers.",
           "On foot, the Bastide is more compact than it looks."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den praktischen Shuttlebus 'Le Petit Train' oder die Navette, um zwischen dem Bahnhof, der Bastide und der Festung zu pendeln. Beginnen Sie am Bahnhof und fahren Sie direkt zur Cité für eine ausführliche Besichtigung. Danach kehren Sie in die Bastide zurück, um die lokalen Märkte und das Kunstmuseum zu erkunden, bevor Ihr Zug wieder abfährt.",
+            "hu": "Használja a praktikus 'Le Petit Train' kisvonatot vagy a Navette buszt az állomás, a Bastide és az erőd közötti közlekedéshez. Kezdje az állomásnál, és menjen közvetlenül a várba egy alapos látogatásra. Ezután térjen vissza a Bastide-ba, fedezze fel a helyi piacokat és a Szépművészeti Múzeumot, mielőtt a vonata indulna.",
+            "ro": "Folosiți naveta practică sau 'Le Petit Train' pentru a face naveta între gară, Bastide și fortăreață. Începeți la gară și mergeți direct la cetate pentru o vizită detaliată. Ulterior, reveniți în Bastide pentru a explora piețele locale și Muzeul de Arte Frumoase înainte de plecarea trenului.",
+            "en": "Use the convenient 'Le Petit Train' or the Navette shuttle to commute between the station, the Bastide, and the fortress. Start at the station and go straight to the Cité for an extensive tour. Afterward, return to the Bastide to explore local markets and the Fine Arts Museum before your train departs."
+          },
+          "stops": [
+            {
+              "name": "Gare de Carcassonne",
+              "tip_5lang": {
+                "de": "Ankunft am Bahnhof mit Blick auf den Canal.",
+                "hu": "Érkezés a vasútállomásra kilátással a csatornára.",
+                "ro": "Sosirea la gară cu vedere la canal.",
+                "en": "Arrival at the station with views of the canal."
+              }
+            },
+            {
+              "name": "La Navette (Shuttle)",
+              "tip_5lang": {
+                "de": "Der Shuttlebus verbindet Bahnhof und Cité.",
+                "hu": "Az ingajárat összeköti az állomást és a várat.",
+                "ro": "Autobuzul navetă face legătura între gară și cetate.",
+                "en": "The shuttle bus connects the station and the Cité."
+              }
+            },
+            {
+              "name": "Cité Médiévale",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Haupteingang.",
+                "hu": "A busz közvetlenül a főbejáratnál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea principală.",
+                "en": "The bus stops right at the main entrance."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Zentrum der Unterstadt, gut zu Fuß erreichbar.",
+                "hu": "Az alsóváros központja, gyalog jól bejárható.",
+                "ro": "Centrul orașului de jos, ușor de parcurs la pas.",
+                "en": "Center of the lower town, easily walkable."
+              }
+            },
+            {
+              "name": "Place Gambetta",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Musée des Beaux-Arts.",
+                "hu": "Látogassa meg a Szépművészeti Múzeumot.",
+                "ro": "Vizitați Muzeul de Arte Frumoase.",
+                "en": "Visit the Museum of Fine Arts."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie L'Art de la Panification",
+                "tip": "Beste Croissants in der Nähe der Bastide."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie L'Art de la Panification",
+                "tip": "A legjobb croissant-ok a Bastide közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie L'Art de la Panification",
+                "tip": "Cele mai bune croissant-uri lângă Bastide."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie L'Art de la Panification",
+                "tip": "Best croissants near the Bastide area."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square Gambetta",
+                "tip": "Ein kleiner Park zum Verschnaufen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square Gambetta",
+                "tip": "Egy kis park egy kis pihenőhöz.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square Gambetta",
+                "tip": "Un parc mic pentru o pauză.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square Gambetta",
+                "tip": "A small park for a quick breather.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue Verdun",
+                "tip": "Haupteinkaufsstraße der Unterstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue Verdun",
+                "tip": "Az alsóváros fő bevásárlóutcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue Verdun",
+                "tip": "Principala stradă comercială din orașul de jos."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue Verdun",
+                "tip": "Main shopping street of the lower town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Bus.",
+              "Die Navette fährt alle 20-30 Minuten.",
+              "Der Bahnhof hat Schließfächer für Gepäck.",
+              "Zu Fuß ist die Bastide kompakter als sie aussieht."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra.",
+              "A Navette 20-30 percenként közlekedik.",
+              "Az állomáson vannak csomagmegőrzők.",
+              "Gyalog a Bastide kompaktabb, mint amilyennek látszik."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz.",
+              "Naveta circulă la fiecare 20-30 de minute.",
+              "Gara are dulapuri pentru bagaje.",
+              "La pas, Bastide este mai compactă decât pare."
+            ],
+            "en": [
+              "Buy a day ticket for the bus.",
+              "The shuttle runs every 20-30 minutes.",
+              "The train station has luggage lockers.",
+              "On foot, the Bastide is more compact than it looks."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir warten im trockenen Bahnhof von Carcassonne. Mit dem Shuttle-Bus fahren wir direkt zur Cité, ohne nass zu werden. Mittags erkunden wir die überdachten Bereiche der mittelalterlichen Stadt. Nachmittags bringt uns der Bus zurück in die Bastide und wir beenden den Tag im Kunstmuseum an der Place Gambetta.",
+            "hu": "A száraz vasútállomáson várakozunk. A transzferbusszal közvetlenül a várhoz megyünk, elkerülve az esőt. Délben a középkori város fedett részeit fedezzük fel. Délután a busz visszavisz a Bastide-ba, és a napot a Place Gambetta melletti Szépművészeti Múzeumban zárjuk.",
+            "ro": "Așteptăm în gara uscată din Carcassonne. Cu autobuzul de transfer mergem direct la cetate, fără să ne udăm. La prânz explorăm zonele acoperite ale orașului medieval. După-amiaza, autobuzul ne duce înapoi în Bastide și încheiem ziua la Muzeul de Arte Frumoase din Place Gambetta.",
+            "en": "We wait in the dry station of Carcassonne. The shuttle bus takes us directly to the Cité, keeping us dry. At midday, we explore the covered areas of the medieval city. In the afternoon, the bus brings us back to the Bastide, and we end the day at the Museum of Fine Arts near Place Gambetta."
+          },
+          "stops": [
+            {
+              "name": "Gare de Carcassonne",
+              "tip_5lang": {
+                "de": "Warten Sie in der warmen Bahnhofshalle.",
+                "hu": "Várj a meleg állomási váróteremben.",
+                "ro": "Așteptați în sala de așteptare caldă a gării.",
+                "en": "Wait inside the warm station hall."
+              }
+            },
+            {
+              "name": "La Navette (Shuttle)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt vor dem Eingang der Cité.",
+                "hu": "A busz közvetlenül a vár bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața intrării în cetate.",
+                "en": "The bus stops right in front of the Cité entrance."
+              }
+            },
+            {
+              "name": "Cité Médiévale",
+              "tip_5lang": {
+                "de": "Viele Geschäfte bieten Schutz vor Schauern.",
+                "hu": "Sok üzlet nyújt menedéket a záporok elől.",
+                "ro": "Multe magazine oferă adăpost împotriva ploii.",
+                "en": "Many shops provide cover from the rain showers."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind teilweise überdacht.",
+                "hu": "A buszmegállók részben fedettek.",
+                "ro": "Stațiile de autobuz sunt parțial acoperite.",
+                "en": "The bus stops are partially covered."
+              }
+            },
+            {
+              "name": "Place Gambetta",
+              "tip_5lang": {
+                "de": "Das Museum ist ein perfekter Zufluchtsort.",
+                "hu": "A múzeum tökéletes menedékhely.",
+                "ro": "Muzeul este un refugiu perfect pe ploaie.",
+                "en": "The museum is a perfect place to seek refuge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Nahverkehrs für Echtzeit-Infos.",
+              "Der Shuttle (Navette) fährt im Winter seltener, Fahrplan prüfen.",
+              "Das Kunstmuseum in der Bastide ist montags oft geschlossen.",
+              "Kaufen Sie die Tickets direkt beim Fahrer oder am Automaten."
+            ],
+            "hu": [
+              "Használd a helyi közlekedési alkalmazást az élő infókért.",
+              "A Navette télen ritkábban jár, ellenőrizd a menetrendet.",
+              "A Bastide-ban található múzeum hétfőnként zárva tarthat.",
+              "Vegyél jegyet közvetlenül a sofőrnél vagy az automatánál."
+            ],
+            "ro": [
+              "Folosiți aplicația locală de transport pentru info în timp real.",
+              "Naveta circulă mai rar iarna, verificați orarul.",
+              "Muzeul de artă din Bastide este adesea închis lunea.",
+              "Cumpărați biletele direct de la șofer sau de la automat."
+            ],
+            "en": [
+              "Use the local transit app for real-time information.",
+              "The shuttle (Navette) runs less frequently in winter, check the schedule.",
+              "The fine arts museum in the Bastide is often closed on Mondays.",
+              "Buy tickets directly from the driver or at the machine."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen am Bahnhof. Der Shuttle bringt uns bequem zur frostigen Cité hoch. Mittags genießen wir die mittelalterliche Pracht ohne die üblichen Massen. Nachmittags schlendern wir durch die beleuchtete Bastide und wärmen uns am Abend im Museum an der Place Gambetta auf.",
+            "hu": "Csendes téli reggel az állomáson. A transzfer kényelmesen felvisz a fagyos várhoz. Délben a középkori pompát élvezzük a szokásos tömeg nélkül. Délután a kivilágított Bastide-ban sétálunk, majd az estét a Place Gambetta múzeumában melegedve zárjuk.",
+            "ro": "O dimineață de iarnă liniștită la gară. Naveta ne duce confortabil sus la cetatea înghețată. La prânz ne bucurăm de splendoarea medievală fără mulțimile obișnuite. După-amiaza ne plimbăm prin Bastide-ul iluminat și ne încălzim seara în muzeul de la Place Gambetta.",
+            "en": "A quiet winter morning at the station. The shuttle brings us comfortably up to the frosty Cité. At midday, we enjoy the medieval splendor without the usual crowds. In the afternoon, we stroll through the lit-up Bastide and warm up in the evening at the museum on Place Gambetta."
+          },
+          "stops": [
+            {
+              "name": "Gare de Carcassonne",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein guter Startpunkt mit Kiosk.",
+                "hu": "Az állomás jó kiindulópont, van újságos is.",
+                "ro": "Gara este un punct bun de plecare, are și chioșc.",
+                "en": "The station is a good starting point with a kiosk."
+              }
+            },
+            {
+              "name": "La Navette (Shuttle)",
+              "tip_5lang": {
+                "de": "Warmer Platz während der kurzen Fahrt zur Cité.",
+                "hu": "Meleg hely a várig tartó rövid út alatt.",
+                "ro": "Loc cald pe durata scurtului drum spre cetate.",
+                "en": "Warm spot during the short ride to the Cité."
+              }
+            },
+            {
+              "name": "Cité Médiévale",
+              "tip_5lang": {
+                "de": "Die Cafés in der Cité sind im Winter sehr gemütlich.",
+                "hu": "A vári kávézók télen nagyon hangulatosak.",
+                "ro": "Cafenelele din cetate sunt foarte primitoare iarna.",
+                "en": "The cafes in the Cité are very cozy in winter."
+              }
+            },
+            {
+              "name": "Bastide Saint-Louis",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist hier besonders schön.",
+                "hu": "Az esti kivilágítás itt különösen szép.",
+                "ro": "Iluminatul de seară este deosebit de frumos aici.",
+                "en": "The evening lighting is particularly beautiful here."
+              }
+            },
+            {
+              "name": "Place Gambetta",
+              "tip_5lang": {
+                "de": "Letzte Chance zum Aufwärmen vor der Rückreise.",
+                "hu": "Utolsó lehetőség a melegedésre a hazautazás előtt.",
+                "ro": "Ultima șansă de încălzire înainte de plecare.",
+                "en": "Last chance to warm up before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den speziellen Winterfahrplan der Busse.",
+              "Die Navette ist im Winter oft weniger beheizt als erwartet.",
+              "Ab 17:00 Uhr ist es dunkel, die Cité ist dann toll beleuchtet.",
+              "Kombinieren Sie Bus und Bahn für Ausflüge in die Umgebung."
+            ],
+            "hu": [
+              "Figyelj a buszok speciális téli menetrendjére.",
+              "A Navette télen néha kevésbé fűtött, mint várnád.",
+              "17:00 után sötét van, a vár ilyenkor csodásan ki van világítva.",
+              "Kombináld a buszt és a vonatot a környékbeli kirándulásokhoz."
+            ],
+            "ro": [
+              "Verificați orarul special de iarnă al autobuzelor.",
+              "Naveta este uneori mai puțin încălzită iarna decât v-ați aștepta.",
+              "Se întunecă după ora 17:00, cetatea e superb iluminată atunci.",
+              "Combinați autobuzul și trenul pentru excursii în împrejurimi."
+            ],
+            "en": [
+              "Pay attention to the special winter bus schedule.",
+              "The shuttle might be less heated than expected in winter.",
+              "It gets dark after 17:00, the Cité is beautifully lit then.",
+              "Combine bus and train for excursions in the surrounding area."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tourisme-carcassonne.fr/",
-    "events": "https://www.tourisme-carcassonne.fr/agenda/",
-    "city_card": "",
-    "museum_tickets": "https://www.remparts-carcassonne.fr/billetterie/",
-    "transit_official": "https://www.rtca.fr/",
-    "language_tips": {
-      "de": "Carcassonne ist UNESCO-Festungsstadt, Englisch wird in der Cité und am Canal du Midi flüssig gesprochen. Lernen Sie 'la Cité' (medieval city) und 'la Bastide Saint-Louis' (Unterstadt) für die beiden Hauptbereiche. Bei Cassoulet, dem Lokalgericht, 'le cassoulet de Carcassonne' bestellen.",
-      "hu": "Carcassonne UNESCO erődváros, a Cité-ben és a Canal du Midi-nél folyékonyan beszélnek angolul. Tanuld meg a 'la Cité' (középkori város) és 'la Bastide Saint-Louis' (alsóváros) nevét a két fő területhez. A cassoulet helyi ételhez 'le cassoulet de Carcassonne' rendelés a helyi név.",
-      "ro": "Carcassonne este oraș-fortăreață UNESCO, engleza se vorbește fluent în Cité și pe Canal du Midi. Învățați 'la Cité' (orașul medieval) și 'la Bastide Saint-Louis' (orașul de jos) pentru cele două zone principale. La cassoulet, mâncarea locală, cereți 'le cassoulet de Carcassonne'.",
-      "en": "Carcassonne is a UNESCO fortress city - English flows freely in the Cité and along Canal du Midi. Learn 'la Cité' (medieval citadel) and 'la Bastide Saint-Louis' (lower town) for the two main areas. For the local dish, order 'le cassoulet de Carcassonne'."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Touristen und perfekte Bedingungen für die Festungsbesichtigung. Juli und August extrem voll, das Festival de Carcassonne (Konzerte) ist aber spektakulär. Vermeiden Sie den 14. Juli, das Feuerwerk in der Cité ist legendär aber überlaufen.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb turista és tökéletes feltételek az erődmegtekintéshez. Júliusban és augusztusban extrém zsúfolt, de a Festival de Carcassonne (koncertek) látványos. Kerüld július 14-ét, a Cité-i tűzijáték legendás, de zsúfolt.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini turiști și condiții perfecte pentru vizitarea fortăreței. Iulie-august extrem de aglomerate, dar festivalul Carcassonne (concerte) este spectaculos. Evitați 14 iulie, focul de artificii din Cité este legendar dar aglomerat.",
-      "en": "April-June and September-October are ideal: mild weather, fewer tourists and perfect conditions for fortress visits. July-August extremely packed, though the Festival de Carcassonne (concerts) is spectacular. Avoid 14 July - the Cité fireworks are legendary but overwhelming."
-    },
-    "neighborhood_warnings": {
-      "de": "Carcassonne ist meist sicher, doch in der Cité und um den Bahnhof Taschendiebe in der Hochsaison. Die Cité hat keinen Autoverkehr - parken Sie an den ausgewiesenen Parkplätzen außerhalb der Mauern.",
-      "hu": "Carcassonne többnyire biztonságos, de a Cité-ben és a pályaudvar környékén főszezonban vannak zsebtolvajok. A Cité-ben nincs autóforgalom - parkolj a falakon kívüli kijelölt parkolókban.",
-      "ro": "Carcassonne este în general sigur, dar în Cité și în jurul gării sunt hoți de buzunare în sezonul de vârf. Cité-ul nu are trafic auto - parcați în parcările desemnate din afara zidurilor.",
-      "en": "Carcassonne is mostly safe, but watch for pickpockets in the Cité and around the station during peak season. The Cité has no car access - park in designated lots outside the walls."
-    },
-    "parking_real_time": ""
   }
 }

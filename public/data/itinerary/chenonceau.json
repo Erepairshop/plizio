@@ -379,6 +379,526 @@
           "A picnic by the riverbank offers a dreamlike view of the water castle.",
           "The audio guides provide exciting details about the 'Ladies of Chenonceau'."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im malerischen Dorf Chenonceaux mit einem Besuch der historischen Kirche. Nach einem kurzen Spaziergang erreichen Sie die majestätische Schlossanlage. Der Vormittag gehört dem Marques-Turm und dem prachtvollen Schloss selbst, das elegant über den Cher ragt.\n\nMittags erkunden Sie die prächtigen Gärten von Diane de Poitiers, wo Geometrie und Blumenpracht aufeinandertreffen. Ein idealer Zeitpunkt für eine kleine Pause im Schatten der alten Bäume.\n\nDer Nachmittag wird spielerisch im Labyrinth und lehrreich auf dem historischen Bauernhof aus dem 16. Jahrhundert. Hier erleben Sie den Charme vergangener Zeiten hautnah.\n\nZum Abschluss schlendern Sie durch den Garten von Catherine de Médicis. Wenn die Sonne tiefer sinkt, erstrahlt das Wasserschloss in einem ganz besonderen Licht, bevor Sie Ihren Rundgang beenden.",
+            "hu": "Kezdje a napot Chenonceaux festői falujában a történelmi templom megtekintésével. Rövid séta után érkezik meg a kastélybirtokra. A délelőtt a Marques-toronyé és magáé a fenséges kastélyé, amely elegánsan ível át a Cher folyó felett.\n\nDélben fedezze fel Diane de Poitiers pompás kertjeit, ahol a geometria és a virágok találkoznak. Ideális időpont egy rövid pihenőre az öreg fák árnyékában.\n\nA délután játékosan telik a labirintusban, majd a 16. századi majorságban folytatódik, ahol megelevenedik a reneszánsz vidéki élet hangulata.\n\nA napot Catherine de Médicis kertjében zárja. Ahogy a nap alacsonyabban jár, a vízi kastély különleges fényben tündököl, tökéletes befejezést nyújtva a látogatásnak.",
+            "ro": "Începeți ziua în satul pitoresc Chenonceaux cu o vizită la biserica istorică. După o scurtă plimbare, veți ajunge la domeniul castelului. Dimineața este dedicată Turnului Marques și maiestuosului castel în sine, care se întinde elegant peste râul Cher.\n\nLa prânz, explorați grădinile splendide ale Dianei de Poitiers, unde geometria se întâlnește cu explozia de flori. Este momentul ideal pentru o scurtă pauză la umbra copacilor bătrâni.\n\nDupă-amiaza devine ludică în labirint și educativă la ferma istorică din secolul al XVI-lea, unde puteți experimenta farmecul vremurilor trecute.\n\nÎn încheiere, plimbați-vă prin grădina Catherinei de Médicis. Pe măsură ce soarele coboară, castelul de pe apă strălucește într-o lumină specială, înainte de a vă termina turul.",
+            "en": "Start your day in the picturesque village of Chenonceaux with a visit to the historic church. After a short walk, you enter the castle estate. The morning is dedicated to the Marques Tower and the majestic castle itself, elegantly spanning the Cher river.\n\nAt midday, explore the splendid gardens of Diane de Poitiers, where geometry and floral beauty meet. It is an ideal time for a short break in the shade of ancient trees.\n\nIn the afternoon, enjoy a playful moment in the labyrinth followed by a visit to the 16th-century farm, where the charm of past eras comes to life.\n\nFinally, stroll through Catherine de Medici's garden. As the sun gets lower, the water castle glows in a special light, providing a perfect end to your visit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien aus dem 16. Jahrhundert.",
+                "hu": "Csodálja meg a 16. századi üvegablakokat.",
+                "ro": "Admirați vitraliile din secolul al XVI-lea.",
+                "en": "Admire the 16th-century stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm der Marques",
+                "hu": "Marques-torony",
+                "ro": "Turnul Marques",
+                "en": "Marques Tower"
+              },
+              "tip_5lang": {
+                "de": "Der älteste Teil der Anlage, ein Überrest der alten Burg.",
+                "hu": "Az erődítmény legősibb része, az egykori vár maradványa.",
+                "ro": "Cea mai veche parte a complexului, o relicvă a vechiului castel.",
+                "en": "The oldest part of the complex, a remnant of the former castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chenonceau",
+                "hu": "Chenonceau-i kastély",
+                "ro": "Castelul Chenonceau",
+                "en": "Château de Chenonceau"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie über dem Fluss Cher.",
+                "hu": "Sétáljon végig a folyó felett átívelő galérián.",
+                "ro": "Vizitați galeria de peste râul Cher.",
+                "en": "Visit the gallery spanning the river Cher."
+              }
+            },
+            {
+              "name": {
+                "de": "Garten von Diane de Poitiers",
+                "hu": "Diane de Poitiers kertje",
+                "ro": "Grădina Dianei de Poitiers",
+                "en": "Garden of Diane de Poitiers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Nordfassade des Schlosses.",
+                "hu": "Élvezze a kilátást a kastély északi homlokzatára.",
+                "ro": "Bucurați-vă de vederea spre fațada nordică a castelului.",
+                "en": "Enjoy the view of the castle's northern facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Labyrinth",
+                "hu": "A Labirintus",
+                "ro": "Labirintul",
+                "en": "The Labyrinth"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den kleinen Pavillon im Zentrum.",
+                "hu": "Keresse meg a központi kis pavilont.",
+                "ro": "Căutați micul pavilion din centru.",
+                "en": "Find the small pavilion at the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Bauernhof aus dem 16. Jahrhundert",
+                "hu": "16. századi majorság",
+                "ro": "Ferma din secolul al XVI-lea",
+                "en": "16th-century Farm"
+              },
+              "tip_5lang": {
+                "de": "Ein authentischer Einblick in das ländliche Leben der Renaissance.",
+                "hu": "Hiteles betekintés a reneszánsz kori vidéki életbe.",
+                "ro": "O privire autentică în viața rurală din perioada Renașterii.",
+                "en": "An authentic glimpse into Renaissance rural life."
+              }
+            },
+            {
+              "name": {
+                "de": "Garten von Catherine de Médicis",
+                "hu": "Catherine de Médicis kertje",
+                "ro": "Grădina Catherinei de Médicis",
+                "en": "Garden of Catherine de Médicis"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Fotos vom Schloss im späten Nachmittagslicht.",
+                "hu": "Tökéletes hely fotózáshoz a délutáni fényekben.",
+                "ro": "Perfect pentru fotografii cu castelul în lumina după-amiezii.",
+                "en": "Perfect for photos of the castle in late afternoon light."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Orangerie",
+                "tip": "Elegantes Restaurant direkt im Schlosspark."
+              },
+              {
+                "name": "Selles-sur-Cher",
+                "tip": "Berühmter lokaler Ziegenkäse mit Ascherinde."
+              },
+              {
+                "name": "Touraine Sauvignon",
+                "tip": "Frischer Weißwein aus der direkten Umgebung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Orangerie",
+                "tip": "Elegáns étterem közvetlenül a kastélyparkban."
+              },
+              {
+                "name": "Selles-sur-Cher",
+                "tip": "Híres helyi kecskesajt hamus kéregben."
+              },
+              {
+                "name": "Touraine Sauvignon",
+                "tip": "Friss fehérbor a közvetlen környékről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Orangerie",
+                "tip": "Restaurant elegant situat direct în parcul castelului."
+              },
+              {
+                "name": "Selles-sur-Cher",
+                "tip": "Celebra brânză de capră locală cu crustă de cenușă."
+              },
+              {
+                "name": "Touraine Sauvignon",
+                "tip": "Vin alb proaspăt din împrejurimile imediate."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Orangerie",
+                "tip": "Elegant restaurant located directly in the castle park."
+              },
+              {
+                "name": "Selles-sur-Cher",
+                "tip": "Famous local goat cheese with an ash rind."
+              },
+              {
+                "name": "Touraine Sauvignon",
+                "tip": "Fresh white wine from the immediate surroundings."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Cher",
+                "tip": "Ruhiger Blick auf die Brückenbögen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Labyrinth",
+                "tip": "Abseits der Hauptwege für stille Momente.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Schlosspark",
+                "tip": "Weitläufige Alleen unter hundertjährigen Bäumen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cher folyó partja",
+                "tip": "Csendes kilátás a kastély hídjaira.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Labirintus",
+                "tip": "Távol a főutaktól, ideális egy kis nyugalomhoz.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Kastélypark",
+                "tip": "Tágas sétányok százéves fák alatt.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Cher",
+                "tip": "Vedere liniștită spre arcadele castelului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Labirintul",
+                "tip": "Departe de potecile principale pentru momente de liniște.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Parcul Castelului",
+                "tip": "Alei largi sub copaci centenari.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of the Cher",
+                "tip": "Quiet view of the castle's arches.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "The Labyrinth",
+                "tip": "Away from the main paths for quiet moments.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Castle Park",
+                "tip": "Spacious alleys under century-old trees.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Exklusive Geschenke und Bücher über die Geschichte des Loire-Tals."
+              },
+              {
+                "name": "Cave du Père Auguste",
+                "tip": "Lokale Weine direkt vom Winzer in Chenonceaux."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Exkluzív ajándékok és könyvek a Loire-völgy történelméről."
+              },
+              {
+                "name": "Cave du Père Auguste",
+                "tip": "Helyi borok közvetlenül a chenonceaux-i termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Cadouri exclusive și cărți despre istoria Văii Loarei."
+              },
+              {
+                "name": "Cave du Père Auguste",
+                "tip": "Vinuri locale direct de la producătorul din Chenonceaux."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Exclusive gifts and books about the history of the Loire Valley."
+              },
+              {
+                "name": "Cave du Père Auguste",
+                "tip": "Local wines directly from the producer in Chenonceaux."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie Ihre Eintrittskarten vorab online, um Wartezeiten am Tor zu vermeiden.",
+              "Kommen Sie direkt zur Öffnung, um das Schloss in Ruhe zu fotografieren.",
+              "Ein Picknick am Flussufer bietet einen traumhaften Blick auf das Wasserschloss.",
+              "Die Audio-Guides bieten spannende Details über die 'Damen von Chenonceau'."
+            ],
+            "hu": [
+              "Foglalja le jegyét előre online, hogy elkerülje a sorban állást a kapunál.",
+              "Érkezzen közvetlenül nyitásra, ha nyugodtan szeretne fotózni.",
+              "Egy piknik a folyóparton csodálatos kilátást nyújt a vízi kastélyra.",
+              "Az audio-guide izgalmas részleteket árul el a 'Chenonceau-i hölgyekről'."
+            ],
+            "ro": [
+              "Rezervați-vă biletele online în avans pentru a evita cozile la poartă.",
+              "Veniți direct la deschidere pentru a fotografia castelul în liniște.",
+              "Un picnic pe malul râului oferă o vedere de vis asupra castelului.",
+              "Ghidurile audio oferă detalii fascinante despre 'Doamnele de la Chenonceau'."
+            ],
+            "en": [
+              "Book your tickets online in advance to avoid queues at the gate.",
+              "Arrive right at opening time to photograph the castle in peace.",
+              "A picnic by the riverbank offers a dreamlike view of the water castle.",
+              "The audio guides provide exciting details about the 'Ladies of Chenonceau'."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Beginnen Sie in der Kirche Saint-Jean-Baptiste, um dem ersten Regen zu entgehen. \nMittag: Das Innere des Schlosses Chenonceau bietet stundenlangen Schutz und faszinierende Geschichte. \nNachmittag: Besuchen Sie die überdachten Bereiche des Bauernhofs aus dem 16. Jahrhundert. \nAbend: Ein kurzer Spaziergang zurück durch die Allee, wo die Bäume teilweisen Schutz bieten.",
+            "hu": "Reggel: Kezdje a napot a Keresztelő Szent János-templomban, amely tökéletes menedék az eső elől. \nDélben: A kastély belső terei órákig tartó felfedezést kínálnak, miközben az ablakokból csodálhatja a Cher folyót. \nDélután: A 16. századi gazdaság fedett kiállításai kiváló programot nyújtanak borús időben is. \nEste: Egy rövid, frissítő séta a faluba a fasor védelmében zárja a napot.",
+            "ro": "Dimineața: Începeți la biserica Saint-Jean-Baptiste pentru a evita prima ploaie a zilei. \nPrânz: Interiorul castelului Chenonceau oferă adăpost pentru câteva ore de explorare istorică. \nDupă-amiaza: Vizitați zonele acoperite ale fermei din secolul al XVI-lea pentru a rămâne uscat. \nSeara: O scurtă plimbare înapoi spre sat sub protecția arborilor de pe alee încheie vizita.",
+            "en": "Morning: Start at the Church of Saint-Jean-Baptiste, a perfect dry refuge from the morning drizzle. \nNoon: The castle's interior offers hours of exploration away from the rain while you admire the Cher. \nAfternoon: Despite the clouds, the indoor exhibits of the 16th-century farm provide a great experience. \nEvening: A short, damp walk back to the village under the tree canopy ends the day."
+          },
+          "stops": [
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche, während Sie auf das Nachlassen des Regens warten.",
+                "hu": "Használja ki a templom csendjét és fedett terét, amíg eláll az eső.",
+                "ro": "Bucurați-vă de liniștea bisericii în timp ce așteptați să se domolească ploaia.",
+                "en": "Use the quiet interior of the church to stay dry while the rain passes."
+              }
+            },
+            {
+              "name": "Marques Tower",
+              "coords": [
+                1.0701,
+                47.3252
+              ],
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet einen kurzen Unterschlupf vor dem Schlosshof.",
+                "hu": "A bejárati rész rövid menedéket nyújt a kastély udvara előtt.",
+                "ro": "Zona de intrare oferă un scurt adăpost înainte de curtea castelului.",
+                "en": "The entrance area provides a brief shelter before entering the main grounds."
+              }
+            },
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den Galerien, um das Wetter draußen zu vergessen.",
+                "hu": "Töltsön több időt a galériákban, hogy elkerülje a kinti ázást.",
+                "ro": "Prelungiți vizita în galerii pentru a uita de vremea de afară.",
+                "en": "Spend extra time in the galleries to stay dry while enjoying the art."
+              }
+            },
+            {
+              "name": "Garden of Diane de Poitiers",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Nässe gut begehbar, Vorsicht auf Rasenkanten.",
+                "hu": "A burkolt utak esőben is járhatók, de vigyázzon a fűszegélyeknél.",
+                "ro": "Aleile pavate sunt accesibile și pe ploaie, dar atenție la marginile cu iarbă.",
+                "en": "Paved paths remain accessible in the rain, but watch your step near the grass."
+              }
+            },
+            {
+              "name": "The Labyrinth",
+              "tip_5lang": {
+                "de": "Bei starkem Regen können die Heckenwege etwas schlammig sein, festes Schuhwerk hilft.",
+                "hu": "Erős esőben a sövények közötti utak sárosak lehetnek, viseljen zárt cipőt.",
+                "ro": "Pe ploaie torențială, potecile pot deveni noroioase; purtați încălțăminte adecvată.",
+                "en": "In heavy rain, the hedge paths can get muddy; waterproof shoes are recommended."
+              }
+            },
+            {
+              "name": "16th-century Farm",
+              "tip_5lang": {
+                "de": "Die historischen Gebäude bieten hervorragenden Schutz und interessante Exponate.",
+                "hu": "A történelmi épületek kiváló védelmet és érdekes kiállításokat kínálnak.",
+                "ro": "Clădirile istorice oferă protecție excelentă și expoziții interesante.",
+                "en": "The historic farm buildings offer great shelter and fascinating exhibits."
+              }
+            },
+            {
+              "name": "Garden of Catherine de Médicis",
+              "tip_5lang": {
+                "de": "Ein schneller Rundgang reicht heute aus; genießen Sie den Blick auf das nasse Schloss.",
+                "hu": "Egy gyors körséta is elég most; csodálja meg az esőáztatta kastély látványát.",
+                "ro": "O plimbare rapidă este suficientă; admirați castelul sub ploaie.",
+                "en": "A quick loop is enough; enjoy the view of the rain-kissed castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Weg vom Dorf zum Schloss ungeschützt ist.",
+              "Die Innenräume des Schlosses sind beheizt und bieten perfekten Schutz.",
+              "Regenschirme können am Schlosseingang in Ständern deponiert werden.",
+              "Nutzen Sie die Orangerie für eine trockene Kaffeepause.",
+              "Die Wege im Wald können bei Regen rutschig sein, bleiben Sie auf den Hauptpfaden."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot, mert a falu és a kastély közötti út nyitott.",
+              "A kastély belső terei fűtöttek és tökéletes menedéket nyújtanak.",
+              "Az esernyőket a kastély bejáratánál lévő tartókban hagyhatja.",
+              "Használja az Orangerie-t egy száraz kávészünethez.",
+              "Az erdei utak csúszósak lehetnek esőben, maradjon a főútvonalakon."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, drumul dintre sat și castel fiind expus.",
+              "Interioarele castelului sunt încălzite și oferă adăpostul perfect.",
+              "Umbrelele pot fi lăsate în suporturile de la intrarea în castel.",
+              "Vizitați Orangerie pentru o pauză de cafea la adăpost de ploaie.",
+              "Potecile din pădure pot fi alunecoase; rămâneți pe traseele principale."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the path from the village to the castle is open.",
+              "The castle interiors are heated and provide perfect shelter.",
+              "Umbrellas can be placed in stands at the castle entrance.",
+              "Visit the Orangerie for a dry coffee break during your visit.",
+              "Forest paths can be slippery in the rain; stick to the main paved routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Die kühle Winterluft ist erfrischend beim Gang zur Kirche Saint-Jean-Baptiste. \nMittag: Genießen Sie die Wärme der Kamine im Schloss Chenonceau, das festlich dekoriert sein kann. \nNachmittag: Die kahlen Gärten bieten eine klare Sicht auf die Architektur des Schlosses. \nAbend: Wenn die Sonne gegen 17:00 Uhr untergeht, leuchten die Lichter des Dorfes gemütlich.",
+            "hu": "Reggel: A friss téli levegő felfrissíti a sétát a templom felé. \nDélben: Élvezze a kastély kandallóinak melegét, amely télen különösen hangulatos és díszes. \nDélután: A kopár kertek tiszta rálátást biztosítanak a kastély különleges építészetére. \nEste: Mivel a nap 17:00 körül nyugszik, a falu fényei barátságosan csalogatnak vissza.",
+            "ro": "Dimineața: Aerul rece de iarnă este revigorant în drum spre biserica Saint-Jean-Baptiste. \nPrânz: Bucurați-vă de căldura șemineelor din castel, adesea decorat festiv în acest sezon. \nDupă-amiaza: Grădinile deschise oferă o vedere clară asupra arhitecturii castelului. \nSeara: Apusul devreme, în jur de ora 17:00, face ca luminile satului să pară foarte primitoare.",
+            "en": "Morning: The crisp winter air is refreshing as you walk towards the village church. \nNoon: Enjoy the warmth of the roaring fireplaces inside the castle, often festively decorated. \nAfternoon: The bare gardens offer a clear, unobstructed view of the castle's unique architecture. \nEvening: As the sun sets around 17:00, the cozy lights of Chenonceaux welcome you back."
+          },
+          "stops": [
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Wind ab; ein friedlicher Ort zum Aufwärmen.",
+                "hu": "A vastag falak felfogják a szelet; békés hely a lelki feltöltődéshez.",
+                "ro": "Zidurile groase opresc vântul rece; un loc liniștit pentru reculegere.",
+                "en": "The thick walls block the winter wind; a peaceful place to start your day."
+              }
+            },
+            {
+              "name": "Marques Tower",
+              "coords": [
+                1.0701,
+                47.3252
+              ],
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassade im klaren Winterlicht.",
+                "hu": "Csodálja meg a homlokzat részleteit a tiszta téli fényben.",
+                "ro": "Admirați detaliile fațadei în lumina clară de iarnă.",
+                "en": "Admire the intricate details of the facade in the bright winter light."
+              }
+            },
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Suchen Sie die großen Kamine auf, die im Winter oft befeuert werden.",
+                "hu": "Keresse fel a nagy kandallókat, amelyeket télen gyakran begyújtanak.",
+                "ro": "Căutați șemineele mari, care sunt adesea aprinse în timpul iernii.",
+                "en": "Look for the grand fireplaces, which are often lit during the winter months."
+              }
+            },
+            {
+              "name": "Garden of Diane de Poitiers",
+              "tip_5lang": {
+                "de": "Die geometrischen Formen der Beete sind im Winter besonders gut erkennbar.",
+                "hu": "Az ágyások geometrikus formái télen látszanak a legjobban.",
+                "ro": "Formele geometrice ale grădinii sunt cel mai vizibile în timpul iernii.",
+                "en": "The geometric patterns of the garden beds are most visible in winter."
+              }
+            },
+            {
+              "name": "The Labyrinth",
+              "tip_5lang": {
+                "de": "Ohne Laub wirken die Hecken strenger und das Labyrinth fast mystisch.",
+                "hu": "Lomb nélkül a sövények szigorúbbnak, a labirintus pedig misztikusnak hat.",
+                "ro": "Fără frunziș, gardurile vii par mai rigide, iar labirintul aproape mistic.",
+                "en": "Without leaves, the hedges look sharper and the labyrinth feels mystical."
+              }
+            },
+            {
+              "name": "16th-century Farm",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um der Kälte zu entkommen.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy elkerülje a kinti hideget.",
+                "ro": "Vizitați expozițiile interioare pentru a scăpa de frigul de afară.",
+                "en": "Visit the indoor exhibits to take a break from the cold outdoor air."
+              }
+            },
+            {
+              "name": "Garden of Catherine de Médicis",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos des Schlosses mit winterlicher Spiegelung im Fluss.",
+                "hu": "Kiváló hely fotózáshoz, a kastély téli tükröződéseivel a folyón.",
+                "ro": "Un loc excelent pentru fotografii cu reflexiile de iarnă ale castelului în râu.",
+                "en": "A great spot for photos of the castle's winter reflections in the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung und Handschuhe sind für die Gartenrundgänge unerlässlich.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten, wenn es am wärmsten ist.",
+              "Das Schloss schließt im Winter oft früher; prüfen Sie die Öffnungszeiten.",
+              "Die Kamine im Schloss sorgen für eine einzigartige, warme Atmosphäre.",
+              "Vorsicht vor glatten Stellen auf den Brücken über den Cher."
+            ],
+            "hu": [
+              "A kerti sétákhoz elengedhetetlen a meleg ruházat és a kesztyű.",
+              "A kinti programokat a déli órákra időzítse, amikor a legmelegebb van.",
+              "A kastély télen gyakran korábban zár, ellenőrizze a nyitvatartást.",
+              "A kastély kandallói egyedülálló, meghitt hangulatot árasztanak.",
+              "Vigyázzon a csúszós szakaszokra a Cher folyó feletti hidakon."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă și mănușile sunt esențiale pentru plimbările în grădină.",
+              "Planificați activitățile în aer liber la prânz, când este mai cald.",
+              "Castelul se închide adesea mai devreme iarna; verificați programul.",
+              "Șemineele din castel creează o atmosferă caldă și primitoare.",
+              "Atenție la porțiunile înghețate de pe podurile peste râul Cher."
+            ],
+            "en": [
+              "Warm layers and gloves are essential for exploring the outdoor gardens.",
+              "Plan outdoor activities for midday when temperatures are at their highest.",
+              "The castle often closes earlier in winter; verify the latest entry times.",
+              "The castle's fireplaces provide a uniquely warm and cozy atmosphere.",
+              "Watch out for icy patches on the bridges crossing the Cher river."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -633,6 +1153,390 @@
           "Use the 'La Loire à Vélo' route.",
           "The paths in the park are mostly flat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Chenonceau und seine Umgebung auf zwei Rädern. Nach der Schlossbesichtigung führt Sie der Weg durch den kühlen Wald von Amboise und am glitzernden Cher entlang. Genießen Sie die Freiheit, auch die weniger besuchten Ecken der Region zu entdecken.",
+            "hu": "Fedezze fel Chenonceau-t és környékét két keréken. A kastélylátogatás után az út az Amboise-i erdő hűs fái közé és a csillogó Cher folyó partjára vezet. Élvezze a szabadságot, és fedezze fel a régió kevésbé látogatott szegleteit is.",
+            "ro": "Explorați Chenonceau și împrejurimile sale pe două roți. După vizitarea castelului, drumul vă poartă prin pădurea răcoroasă Amboise și de-a lungul râului Cher. Bucurați-vă de libertatea de a descoperi și colțurile mai puțin vizitate ale regiunii.",
+            "en": "Explore Chenonceau and its surroundings on two wheels. After visiting the castle, the path leads through the cool Amboise forest and along the sparkling Cher river. Enjoy the freedom to discover the less-visited corners of the region."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Chenonceau",
+                "hu": "Chenonceau-i kastély",
+                "ro": "Castelul Chenonceau",
+                "en": "Château de Chenonceau"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder müssen am Eingang geparkt werden.",
+                "hu": "A kerékpárokat a bejáratnál kell hagyni.",
+                "ro": "Bicicletele trebuie lăsate la intrare.",
+                "en": "Bicycles must be parked at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie der Wagen",
+                "hu": "Fogatok galériája",
+                "ro": "Galeria Atelajelor",
+                "en": "Galerie des Attelages"
+              },
+              "tip_5lang": {
+                "de": "Sammlung historischer Kutschen.",
+                "hu": "Történelmi hintók gyűjteménye.",
+                "ro": "Colecție de trăsuri istorice.",
+                "en": "Collection of historical carriages."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Amboise (Radweg)",
+                "hu": "Amboise-i erdő (kerékpárút)",
+                "ro": "Pădurea Amboise (pistă de biciclete)",
+                "en": "Amboise Forest (Bike path)"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Weg durch den königlichen Forst.",
+                "hu": "Csendes út a királyi erdőn keresztül.",
+                "ro": "Traseu liniștit prin pădurea regală.",
+                "en": "Quiet path through the royal forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Cher (Civray)",
+                "hu": "Cher-part (Civray)",
+                "ro": "Malul râului Cher (Civray)",
+                "en": "Cher Riverbank (Civray)"
+              },
+              "tip_5lang": {
+                "de": "Blick auf das ferne Chenonceau.",
+                "hu": "Kilátás a távoli Chenonceau-ra.",
+                "ro": "Vedere spre Chenonceau din depărtare.",
+                "en": "View of Chenonceau from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Apothicairerie",
+                "hu": "Patikamúzeum",
+                "ro": "Spițeria",
+                "en": "L'Apothicairerie"
+              },
+              "tip_5lang": {
+                "de": "Eine der seltenen Schlossapotheken.",
+                "hu": "Az egyik ritka kastélypatika.",
+                "ro": "Una dintre rarele farmacii de castel.",
+                "en": "One of the rare castle pharmacies."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Château",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Parc du Château"
+              },
+              "tip_5lang": {
+                "de": "Letzte Runde vor der Rückgabe der Räder.",
+                "hu": "Utolsó kör a biciklik leadása előtt.",
+                "ro": "Ultima tură înainte de a returna bicicletele.",
+                "en": "Last loop before returning the bikes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie du Village",
+                "tip": "Schnelle Stärkung für Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie du Village",
+                "tip": "Gyors feltöltődés bicikliseknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie du Village",
+                "tip": "Gustare rapidă pentru bicicliști."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie du Village",
+                "tip": "Quick fuel for cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cher-Ufer Civray",
+                "tip": "Stille am Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cher-part, Civray",
+                "tip": "Csend a vízparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Cher, Civray",
+                "tip": "Liniște lângă apă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cher Bank Civray",
+                "tip": "Quiet by the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché local",
+                "tip": "Hiesiges Obst für den Weg."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss gyümölcs az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Fructe locale pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local market",
+                "tip": "Local fruit for the road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den Weg 'La Loire à Vélo'.",
+              "Die Wege im Park sind größtenteils flach."
+            ],
+            "hu": [
+              "Használja a 'La Loire à Vélo' útvonalat.",
+              "A park útjai többnyire síkak."
+            ],
+            "ro": [
+              "Folosiți traseul 'La Loire à Vélo'.",
+              "Potecile din parc sunt în mare parte plate."
+            ],
+            "en": [
+              "Use the 'La Loire à Vélo' route.",
+              "The paths in the park are mostly flat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Radeln Sie vorsichtig zum Schloss, die Allee bietet etwas Schutz vor Wind. \nMittag: Parken Sie Ihr Rad trocken und genießen Sie die weitläufigen Innenräume des Schlosses. \nNachmittag: Eine kurze Fahrt durch den Wald von Amboise, wo das Blätterdach den Regen dämpft. \nAbend: Rückfahrt entlang des Flusses mit Blick auf die dramatischen Regenwolken über dem Cher.",
+            "hu": "Reggel: Óvatosan tekerjen a kastélyhoz, a fasor némi védelmet nyújt a szél ellen. \nDélben: Parkolja le a biciklit száraz helyen, és fedezze fel a kastély termeit. \nDélután: Rövid tekerés az amboise-i erdőben, ahol a lombok felfogják az eső nagy részét. \nEste: Visszaút a folyóparton, gyönyörködve a drámai esőfelhőkben a Cher felett.",
+            "ro": "Dimineața: Pedalați cu atenție spre castel; aleea oferă puțină protecție contra vântului. \nPrânz: Parcați bicicleta la adăpost și explorați interioarele vaste ale castelului. \nDupă-amiaza: O scurtă cursă prin pădurea Amboise, unde coronamentul arborilor mai oprește ploaia. \nSeara: Revenire pe malul râului sub un cer dramatic deasupra râului Cher.",
+            "en": "Morning: Cycle carefully to the castle; the tree-lined alley offers some wind protection. \nNoon: Park your bike in a dry spot and enjoy the extensive castle interiors. \nAfternoon: A shorter ride through Amboise Forest where the canopy dampens the rainfall. \nEvening: Ride back along the riverbank with views of dramatic rain clouds over the Cher."
+          },
+          "stops": [
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există rastele de biciclete acoperite în apropierea intrării.",
+                "en": "Covered bike racks are available near the entrance for your convenience."
+              }
+            },
+            {
+              "name": "Galerie des Attelages",
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Kutschen im Trockenen zu bewundern.",
+                "hu": "Tökéletes megálló a hintók megtekintéséhez, fedett helyen.",
+                "ro": "O oprire perfectă pentru a admira caleștile la adăpost de ploaie.",
+                "en": "A perfect stop to admire the carriages while staying completely dry."
+              }
+            },
+            {
+              "name": "Amboise Forest (Bike path)",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe pistele asfaltate pentru a evita noroiul din pădure.",
+                "en": "Stick to the paved cycle paths to avoid getting mud on your clothes."
+              }
+            },
+            {
+              "name": "Cher Riverbank (Civray)",
+              "tip_5lang": {
+                "de": "Der Weg am Fluss kann pfützig sein; Schutzbleche sind heute nützlich.",
+                "hu": "A folyóparti út tócsás lehet; a sárvédő ma nagyon hasznos.",
+                "ro": "Drumul de pe malul râului poate avea bălți; aripile sunt utile astăzi.",
+                "en": "The riverside path can have puddles; fenders are very useful today."
+              }
+            },
+            {
+              "name": "L'Apothicairerie",
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Innenraum für eine Pause vom Sattel und Regen.",
+                "hu": "Használja ki ezt a belső teret egy pihenőre a nyereg és az eső után.",
+                "ro": "Folosiți acest spațiu interior pentru o pauză de la pedalat și ploaie.",
+                "en": "Take advantage of this indoor space for a break from the bike and rain."
+              }
+            },
+            {
+              "name": "Parc du Château",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassem Laub; fahren Sie vorausschauend.",
+                "hu": "Vigyázzon a kanyarokban a nedves leveleken; tekerjen óvatosan.",
+                "ro": "Atenție la viraje pe frunzișul ud; pedalați cu prudență sporită.",
+                "en": "Be careful on turns with wet leaves; cycle with extra caution."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schuhüberzieher sind heute ein Muss.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den nassen Waldwegen.",
+              "Nutzen Sie die Orangerie für eine warme Mahlzeit im Trockenen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Tragen Sie helle Kleidung oder Reflektoren bei schlechter Sicht."
+            ],
+            "hu": [
+              "A teljes esőruházat és cipővédő ma kötelező kiegészítő.",
+              "Kerülje az erős fékezést a nedves erdei utakon.",
+              "Használja az Orangerie-t egy meleg ebédhez, száraz helyen.",
+              "Indulás előtt ellenőrizze a fékeket; a nedvesség növeli a féktávot.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a rossz látási viszonyok miatt."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și protecțiile de pantofi sunt obligatorii.",
+              "Evitați frânările bruște pe potecile umede din pădure.",
+              "Opriți-vă la Orangerie pentru o masă caldă la adăpost de ploaie.",
+              "Verificați frânele înainte de plecare; umezeala mărește distanța de frânare.",
+              "Purtați haine reflectorizante pentru a fi vizibil în condiții de ploaie."
+            ],
+            "en": [
+              "Full rain gear and waterproof shoe covers are a must for today.",
+              "Avoid sudden braking on the wet forest and riverside paths.",
+              "Take a break at the Orangerie for a warm meal in a dry environment.",
+              "Check your brakes before starting; wet rims increase braking distance.",
+              "Wear bright or reflective clothing for better visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ein zügiges Tempo hilft, warm zu bleiben, während Sie zum Schloss fahren. \nMittag: Lassen Sie das Rad stehen und tauchen Sie ein in die warme Geschichte Chenonceaus. \nNachmittag: Die kühle Luft im Wald von Amboise ist klar und belebend für Radfahrer. \nAbend: Die Dämmerung setzt früh ein; genießen Sie die stimmungsvolle Rückfahrt mit Licht.",
+            "hu": "Reggel: A tempós haladás segít melegen maradni, miközben a kastély felé teker. \nDélben: Hagyja a biciklit a tárolóban, és merüljön el a kastély melengető történeteiben. \nDélután: Az amboise-i erdő hűvös levegője tiszta és frissítő a kerékpárosoknak. \nEste: A szürkület korán érkezik; élvezze a hangulatos visszautat bekapcsolt lámpákkal.",
+            "ro": "Dimineața: Un ritm susținut vă ajută să vă mențineți căldura în drum spre castel. \nPrânz: Lăsați bicicleta și bucurați-vă de atmosfera caldă din interiorul castelului. \nDupă-amiaza: Aerul rece din pădurea Amboise este curat și revigorant pentru cicliști. \nSeara: Amurgul coboară devreme; savurați drumul înapoi cu luminile aprinse.",
+            "en": "Morning: Keeping a steady pace will help you stay warm on your way to the castle. \nNoon: Leave the bike behind and warm up while exploring Chenonceau's rich history. \nAfternoon: The crisp air in Amboise Forest is clear and invigorating for winter cyclists. \nEvening: Dusk arrives early; enjoy the atmospheric ride back with your lights on."
+          },
+          "stops": [
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Handschuhe beim Abschließen des Schlosses nicht vergessen; Metall ist kalt.",
+                "hu": "Ne felejtse el a kesztyűt a lakatolásnál; a fém nagyon hideg ilyenkor.",
+                "ro": "Nu uitați mănușile când legați bicicleta; metalul este foarte rece.",
+                "en": "Don't forget your gloves when locking your bike; the metal can be freezing."
+              }
+            },
+            {
+              "name": "Galerie des Attelages",
+              "tip_5lang": {
+                "de": "Die Kutschenhalle ist windgeschützt und bietet einen guten Zwischenstopp.",
+                "hu": "A hintócsarnok szélvédett, kiváló megálló az átmelegedéshez.",
+                "ro": "Hala caleștilor este ferită de vânt; o oprire bună pentru dezmorțire.",
+                "en": "The carriage gallery is sheltered from the wind; a great place to warm up."
+              }
+            },
+            {
+              "name": "Amboise Forest (Bike path)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Eis in schattigen Waldabschnitten.",
+                "hu": "Ügyeljen a zúzmarára vagy jégre az erdő árnyékos részein.",
+                "ro": "Atenție la chiciură sau gheață în zonele umbrite ale pădurii.",
+                "en": "Watch out for frost or black ice in shaded sections of the forest path."
+              }
+            },
+            {
+              "name": "Cher Riverbank (Civray)",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kann beißend sein; schützen Sie Ihr Gesicht.",
+                "hu": "A folyóparti szél metsző lehet; védje arcát sállal.",
+                "ro": "Vântul de pe malul râului poate fi tăios; protejați-vă fața.",
+                "en": "The wind along the river can be biting; protect your face with a scarf."
+              }
+            },
+            {
+              "name": "L'Apothicairerie",
+              "tip_5lang": {
+                "de": "Ein kleiner, gemütlicher Ort, um der Winterkälte kurz zu entfliehen.",
+                "hu": "Kicsi, meghitt hely, ahol rövid időre elmenekülhet a téli hideg elől.",
+                "ro": "Un loc mic și primitor pentru a scăpa scurt de frigul iernii.",
+                "en": "A small, cozy spot to briefly escape the biting winter cold."
+              }
+            },
+            {
+              "name": "Parc du Château",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange, fotogene Schatten auf die Wege.",
+                "hu": "Az alacsonyan járó téli nap hosszú, fotogén árnyékokat vet az utakra.",
+                "ro": "Soarele jos de iarnă proiectează umbre lungi și fotogenice pe alei.",
+                "en": "The low winter sun casts long, photogenic shadows across the park paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit einer winddichten Außenschicht.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll funktionsfähig ist.",
+              "Trinken Sie zwischendurch etwas Warmes, um die Körpertemperatur zu halten.",
+              "Vorsicht vor Frost auf Holzbrücken, diese werden zuerst glatt.",
+              "Planen Sie Ihre Rückkehr vor 17:00 Uhr, um im Hellen anzukommen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, szélálló külső réteggel.",
+              "Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek.",
+              "Igyon valami meleget útközben a testhőmérséklet megőrzéséhez.",
+              "Vigyázzon a faggyal a fahidakan, ezek válnak először csúszóssá.",
+              "Tervezze meg a visszaérkezést 17:00 előtt, hogy világosban érjen célba."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, cu o jachetă exterioară rezistentă la vânt.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Consumați băuturi calde pe parcurs pentru a menține temperatura corpului.",
+              "Atenție la îngheț pe podurile de lemn, acestea devin primele alunecoase.",
+              "Planificați întoarcerea înainte de ora 17:00 pentru a ajunge pe lumină."
+            ],
+            "en": [
+              "Dress in multiple layers with a windproof outer shell for protection.",
+              "Ensure your bike's front and rear lights are fully functional and bright.",
+              "Have a warm drink during stops to help maintain your core temperature.",
+              "Be extra careful on wooden bridges as they freeze and get slippery first.",
+              "Aim to finish your ride by 17:00 as daylight fades very quickly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -864,6 +1768,358 @@
           "Parking in Chenonceaux is mostly free.",
           "Allow time for the secondary roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie das prachtvolle Chenonceau mit dem Erbe Leonardo da Vincis in Amboise. Ein Abstecher zur Pagode von Chanteloup und eine Weinverkostung runden das Erlebnis im Herzen Frankreichs ab.",
+            "hu": "Autóval összekötheti a pompás Chenonceau-t Leonardo da Vinci örökségével Amboise-ban. Egy kitérő a Chanteloup-pagodához és egy borkóstoló teszi teljessé az élményt Franciaország szívében.",
+            "ro": "Cu mașina, puteți combina splendoarea de la Chenonceau cu moștenirea lui Leonardo da Vinci din Amboise. O vizită la Pagoda Chanteloup și o degustare de vinuri completează experiența în inima Franței.",
+            "en": "By car, you can combine the magnificent Chenonceau with Leonardo da Vinci's heritage in Amboise. A detour to the Chanteloup Pagoda and a wine tasting round off the experience in the heart of France."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Chenonceau",
+                "hu": "Chenonceau-i kastély",
+                "ro": "Castelul Chenonceau",
+                "en": "Château de Chenonceau"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz vor dem Eingang.",
+                "hu": "Tágas parkoló a bejárat előtt.",
+                "ro": "Parcare mare în fața intrării.",
+                "en": "Large parking lot in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Amboise - Clos Lucé",
+                "hu": "Amboise - Clos Lucé",
+                "ro": "Amboise - Clos Lucé",
+                "en": "Amboise - Clos Lucé"
+              },
+              "tip_5lang": {
+                "de": "Leonardo da Vincis letzte Residenz.",
+                "hu": "Leonardo da Vinci utolsó lakhelye.",
+                "ro": "Ultima reședință a lui Leonardo da Vinci.",
+                "en": "Leonardo da Vinci's last residence."
+              }
+            },
+            {
+              "name": {
+                "de": "Pagode von Chanteloup",
+                "hu": "Chanteloup-pagoda",
+                "ro": "Pagoda Chanteloup",
+                "en": "Pagoda of Chanteloup"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Pagode im Wald.",
+                "hu": "Egyedülálló pagoda az erdőben.",
+                "ro": "O pagodă unică în pădure.",
+                "en": "Unique pagoda in the forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge von Touraine",
+                "hu": "Touraine-i szőlőültetvények",
+                "ro": "Podgoriile din Touraine",
+                "en": "Touraine Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Besuch eines lokalen Weinguts.",
+                "hu": "Látogatás egy helyi borászatnál.",
+                "ro": "Vizită la o cramă locală.",
+                "en": "Visit to a local winery."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Labyrinthe",
+                "hu": "A Labirintus",
+                "ro": "Labirintul",
+                "en": "The Labyrinth"
+              },
+              "tip_5lang": {
+                "de": "Entspannter Ausklang im Grünen.",
+                "hu": "Pihentető lezárás a zöldben.",
+                "ro": "Final relaxant în natură.",
+                "en": "Relaxing end in the greenery."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Auberge de la Treille",
+                "tip": "Traditionelle Küche der Touraine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Auberge de la Treille",
+                "tip": "Hagyományos touraine-i konyha."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Auberge de la Treille",
+                "tip": "Bucătărie tradițională din Touraine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Auberge de la Treille",
+                "tip": "Traditional Touraine cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pagodengarten",
+                "tip": "Stille unter alten Bäumen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pagoda kertje",
+                "tip": "Csend az öreg fák alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Pagodei",
+                "tip": "Liniște sub copaci centenari.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pagoda Garden",
+                "tip": "Quiet under old trees.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vins de Loire",
+                "tip": "Weinkeller in Amboise."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Loire-i borok",
+                "tip": "Borospincék Amboise-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vins de Loire",
+                "tip": "Crame în Amboise."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vins de Loire",
+                "tip": "Wine cellars in Amboise."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in Chenonceaux ist meist kostenfrei.",
+              "Planen Sie Zeit für die Landstraßen ein."
+            ],
+            "hu": [
+              "Chenonceaux-ban a parkolás többnyire ingyenes.",
+              "Szánjon időt az alsóbbrendű utakra."
+            ],
+            "ro": [
+              "Parcarea în Chenonceaux este de obicei gratuită.",
+              "Alocați timp pentru drumurile secundare."
+            ],
+            "en": [
+              "Parking in Chenonceaux is mostly free.",
+              "Allow time for the secondary roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Eine entspannte Fahrt zum Parkplatz des Schlosses Chenonceau. \nMittag: Nach der Schlossbesichtigung fahren Sie durch die verregnete Landschaft nach Amboise. \nNachmittag: Das Clos Lucé bietet hervorragende Indoor-Exponate zu Da Vinci. \nAbend: Ein Besuch in einem Weingut der Touraine ist der perfekte Abschluss im Trockenen.",
+            "hu": "Reggel: Kényelmes autózás a Chenonceau kastély parkolójába. \nDélben: A kastély után az esős tájon keresztül hajtunk tovább Amboise felé. \nDélután: A Clos Lucé kiváló fedett kiállításokat kínál Da Vinci munkáiról. \nEste: Egy touraine-i borászat látogatása tökéletes befejezés, fedett helyen.",
+            "ro": "Dimineața: O călătorie relaxată cu mașina până la parcarea castelului Chenonceau. \nPrânz: După vizita la castel, conduceți prin peisajul ploios spre Amboise. \nDupă-amiaza: Clos Lucé oferă expoziții interioare excelente despre Da Vinci. \nSeara: O vizită la o cramă din Touraine este finalul perfect, la adăpost de ploaie.",
+            "en": "Morning: A comfortable drive to the spacious parking lot of Château de Chenonceau. \nNoon: After the castle visit, drive through the misty Loire landscape towards Amboise. \nAfternoon: Clos Lucé provides excellent indoor exhibits featuring Da Vinci's genius. \nEvening: Visiting a local Touraine winery is the perfect way to end the day in the dry."
+          },
+          "stops": [
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, was den Weg im Regen kurz hält.",
+                "hu": "A parkoló közel van a bejárathoz, így rövid az út az esőben.",
+                "ro": "Parcarea este aproape de intrare, scurtând drumul prin ploaie.",
+                "en": "The parking area is close to the entrance, minimizing your time in the rain."
+              }
+            },
+            {
+              "name": "Amboise - Clos Lucé",
+              "tip_5lang": {
+                "de": "Fast alle wichtigen Exponate befinden sich im Inneren des Herrenhauses.",
+                "hu": "Szinte minden fontos kiállítási tárgy a kúria belsejében található.",
+                "ro": "Aproape toate exponatele importante sunt în interiorul conacului.",
+                "en": "Nearly all major exhibits are located inside the historic manor house."
+              }
+            },
+            {
+              "name": "Pagoda of Chanteloup",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht eingeschränkt, aber die Architektur bleibt sehenswert.",
+                "hu": "Esőben a kilátás korlátozott, de az építmény látványa így is egyedi.",
+                "ro": "Pe ploaie vizibilitatea este redusă, dar arhitectura rămâne spectaculoasă.",
+                "en": "Visibility might be limited in rain, but the architecture is still striking."
+              }
+            },
+            {
+              "name": "Touraine Vineyards",
+              "tip_5lang": {
+                "de": "Eine Weinprobe im Keller ist die ideale Beschäftigung bei schlechtem Wetter.",
+                "hu": "Egy borkóstoló a pincében ideális elfoglaltság rossz idő esetén.",
+                "ro": "O degustare în pivniță este activitatea ideală pe vreme nefavorabilă.",
+                "en": "A wine tasting in the cellar is the perfect indoor activity for a rainy day."
+              }
+            },
+            {
+              "name": "The Labyrinth",
+              "tip_5lang": {
+                "de": "Vom Auto aus ist es nur ein kurzer Sprung zum Labyrinth und zurück.",
+                "hu": "Az autótól csak egy rövid ugrás a labirintus és vissza.",
+                "ro": "De la mașină este doar o scurtă fugă până la labirint și înapoi.",
+                "en": "It is just a quick dash from the car to the labyrinth and back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen der Touraine.",
+              "Die Parkplätze bei Chenonceau können bei Regen etwas matschig sein.",
+              "Nutzen Sie die Scheibenheizung, um ein Beschlagen der Fenster zu vermeiden.",
+              "Reservieren Sie Weingutsbesuche vorab, da diese bei Regen beliebt sind.",
+              "Haben Sie einen Regenschirm griffbereit für den Weg vom Parkplatz."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) a Touraine mellékútjain.",
+              "A chenonceau-i parkolók esőben kissé sárosak lehetnek.",
+              "Használja a szélvédőfűtést a párásodás elkerülése érdekében.",
+              "Foglaljon előre a borászatoknál, mert esőben népszerűbbek.",
+              "Tartson kéznél esernyőt a parkolótól a bejáratig tartó szakaszra."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile secundare din regiunea Touraine.",
+              "Parcările de la Chenonceau pot deveni noroioase în timpul ploii.",
+              "Folosiți dezaburirea pentru a menține vizibilitatea prin parbriz.",
+              "Rezervați vizitele la crame din timp, fiindcă sunt căutate pe ploaie.",
+              "Aveți o umbrelă la îndemână pentru distanța de la parcare la intrare."
+            ],
+            "en": [
+              "Be cautious of aquaplaning on the smaller country roads in Touraine.",
+              "The unpaved sections of the parking lots can get muddy in heavy rain.",
+              "Use your car's defrost setting to prevent windows from fogging up.",
+              "Pre-book winery visits as they are popular indoor alternatives in the rain.",
+              "Keep an umbrella easily accessible for the walk from the car to the sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Genießen Sie die Fahrt durch das schlafende Loire-Tal im warmen Auto. \nMittag: Chenonceau ist im Winter weniger überlaufen und strahlt Ruhe aus. \nNachmittag: Die historischen Räume von Amboise sind gemütlich beheizt. \nAbend: Wenn es dunkel wird, leuchten die Schlösser oft eindrucksvoll in der Winternacht.",
+            "hu": "Reggel: Élvezze a fűtött autó kényelmét az alvó Loire-völgyön keresztül. \nDélben: Chenonceau télen kevésbé zsúfolt, és békés hangulatot áraszt. \nDélután: Amboise történelmi termei kellemesen fűtöttek a látogatóknak. \nEste: Ahogy sötétedik, a kastélyok gyakran lenyűgöző kivilágítást kapnak.",
+            "ro": "Dimineața: Bucurați-vă de drumul prin valea Loarei adormită, din confortul mașinii. \nPrânz: Chenonceau este mai puțin aglomerat iarna și emană multă liniște. \nDupă-amiaza: Sălile istorice din Amboise sunt încălzite pentru confortul vizitatorilor. \nSeara: Odată cu lăsarea întunericului, castelele sunt adesea iluminate impresionant.",
+            "en": "Morning: Enjoy the scenic drive through the sleeping Loire Valley in your warm car. \nNoon: Chenonceau is much less crowded in winter, offering a peaceful atmosphere. \nAfternoon: The historic rooms in Amboise are cozily heated for your visit. \nEvening: As darkness falls, the chateaux are often impressively lit up at night."
+          },
+          "stops": [
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Wintersonne bietet hervorragendes Licht für Fotos der Schlossfassade.",
+                "hu": "A téli napsütés kiváló fényeket ad a kastély homlokzatának fotózásához.",
+                "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii ale fațadei.",
+                "en": "The low winter sun provides stunning light for photos of the facade."
+              }
+            },
+            {
+              "name": "Amboise - Clos Lucé",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig, ideal für Da Vincis Erfindungen.",
+                "hu": "Télen különösen nagy itt a nyugalom, ideális Da Vinci találmányaihoz.",
+                "ro": "Iarna este foarte liniște aici, ideal pentru a studia invențiile lui Da Vinci.",
+                "en": "It is exceptionally quiet here in winter, ideal for exploring the exhibits."
+              }
+            },
+            {
+              "name": "Pagoda of Chanteloup",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Stufen; die Aussicht ist jedoch herrlich klar.",
+                "hu": "Vigyázzon a fagyos lépcsőkön; a kilátás viszont csodásan tiszta.",
+                "ro": "Atenție la treptele înghețate; totuși, vederea este superbă și clară.",
+                "en": "Be careful of ice on the steps; however, the winter air makes the view clear."
+              }
+            },
+            {
+              "name": "Touraine Vineyards",
+              "tip_5lang": {
+                "de": "Ein gemütliches Gespräch mit dem Winzer ist im ruhigen Winter eher möglich.",
+                "hu": "A csendes téli időszakban könnyebb egy jó beszélgetés a borásszal.",
+                "ro": "O discuție relaxată cu vinificatorul este mai probabilă în sezonul rece.",
+                "en": "A cozy chat with the winemaker is more likely during the quiet winter season."
+              }
+            },
+            {
+              "name": "The Labyrinth",
+              "tip_5lang": {
+                "de": "Ein kurzer, frischer Winterspaziergang belebt vor der Weiterfahrt.",
+                "hu": "Egy rövid, friss téli séta felfrissít a továbbindulás előtt.",
+                "ro": "O scurtă plimbare de iarnă este revigorantă înainte de a continua drumul.",
+                "en": "A short, crisp winter walk is refreshing before continuing your drive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Haben Sie Enteisungsspray oder einen Eiskratzer im Auto.",
+              "Die Tage sind kurz; planen Sie Ihre Fahrten zwischen 9:00 und 17:00 Uhr.",
+              "Hauptstraßen sind meist geräumt, aber Nebenstrecken können glatt sein.",
+              "Lassen Sie keine frostempfindlichen Dinge (wie Wein) über Nacht im Auto."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "Legyen az autóban jégoldó spray vagy jégkaparó.",
+              "A nappalok rövidek; tervezze az utazást 9:00 és 17:00 közé.",
+              "A főutakat takarítják, de a mellékutak jegesek maradhatnak.",
+              "Ne hagyjon fagyérzékeny dolgokat (pl. bort) éjszakára az autóban."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig.",
+              "Aveți în mașină spray de dezghețare sau o racletă pentru gheață.",
+              "Zilele sunt scurte; planificați condusul între orele 9:00 și 17:00.",
+              "Drumurile principale sunt curățate, dar cele secundare pot fi lunecoase.",
+              "Nu lăsați obiecte sensibile la îngheț (cum ar fi vinul) în mașină peste noapte."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop significantly in cold temperatures.",
+              "Ensure you have a de-icer spray or an ice scraper in the car.",
+              "Daylight is limited; plan your driving segments between 09:00 and 17:00.",
+              "Main roads are usually cleared, but smaller lanes can remain icy.",
+              "Don't leave frost-sensitive items (like wine bottles) in the car overnight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1095,34 +2351,359 @@
           "Check train departures to Tours or Bourges.",
           "The paths are accessible."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Reisen Sie bequem mit dem Zug direkt vor die Tore von Chenonceau. Vom Bahnhof ist es nur ein kurzer Spaziergang zum 'Schloss der Damen'. Verbringen Sie den Tag in den Gärten und auf dem historischen Bauernhof, bevor Sie entspannt wieder die Heimreise antreten.",
+            "hu": "Utazzon kényelmesen vonattal közvetlenül Chenonceau kapujáig. Az állomástól rövid séta vezet a 'Hölgyek kastélyához'. Töltse a napot a kertekben és a történelmi majorságban, majd utazzon haza pihentetően.",
+            "ro": "Călătoriți confortabil cu trenul direct la porțile castelului Chenonceau. De la gară este doar o scurtă plimbare până la 'Castelul Doamnelor'. Petreceți ziua în grădini și la ferma istorică înainte de a pleca relaxat spre casă.",
+            "en": "Travel comfortably by train right to the gates of Chenonceau. From the station, it is just a short walk to the 'Ladies' Castle'. Spend the day in the gardens and at the historic farm before a relaxing journey home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Chenonceaux",
+                "hu": "Chenonceaux vasútállomás",
+                "ro": "Gara Chenonceaux",
+                "en": "Chenonceaux Station"
+              },
+              "tip_5lang": {
+                "de": "Nur 400 Meter bis zum Schlosseingang.",
+                "hu": "Csak 400 méter a kastély bejárata.",
+                "ro": "Doar 400 de metri până la intrarea în castel.",
+                "en": "Only 400 meters to the castle entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chenonceau",
+                "hu": "Chenonceau-i kastély",
+                "ro": "Castelul Chenonceau",
+                "en": "Château de Chenonceau"
+              },
+              "tip_5lang": {
+                "de": "Ideale Anreise mit dem TER von Tours.",
+                "hu": "Ideális megközelítés a Tours-ból induló TER vonattal.",
+                "ro": "Acces ideal cu trenul TER din Tours.",
+                "en": "Ideal access with the TER train from Tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Garten von Catherine de Médicis",
+                "hu": "Catherine de Médicis kertje",
+                "ro": "Grădina Catherinei de Médicis",
+                "en": "Garden of Catherine de Médicis"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Blick auf den Cher.",
+                "hu": "Gyönyörű kilátás a Cher folyóra.",
+                "ro": "Vedere superbă spre râul Cher.",
+                "en": "Beautiful view of the river Cher."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme du XVIe siècle",
+                "hu": "16. századi majorság",
+                "ro": "Ferma din secolul al XVI-lea",
+                "en": "16th-century Farm"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie auch das Kutschenmuseum.",
+                "hu": "Látogassa meg a hintómúzeumot is.",
+                "ro": "Vizitați și muzeul trăsurilor.",
+                "en": "Visit the carriage museum too."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Château",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Parc du Château"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille vor der Rückfahrt.",
+                "hu": "Élvezze a csendet a visszaindulás előtt.",
+                "ro": "Bucurați-vă de liniște înainte de plecare.",
+                "en": "Enjoy the quiet before the return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Hostellerie de la Renaissance",
+                "tip": "Nahe dem Bahnhof für ein Mittagessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hostellerie de la Renaissance",
+                "tip": "Az állomás közelében, ebédhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Hostellerie de la Renaissance",
+                "tip": "Aproape de gară pentru prânz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hostellerie de la Renaissance",
+                "tip": "Near the station for lunch."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterer Schlosspark",
+                "tip": "Abseits der Massen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hátsó kastélypark",
+                "tip": "Távol a tömegtől.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Spatele parcului",
+                "tip": "Departe de mulțime.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Back of the park",
+                "tip": "Away from the crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Relais de Chenonceaux",
+                "tip": "Lokale Delikatessen im Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Relais de Chenonceaux",
+                "tip": "Helyi finomságok a faluban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Relais de Chenonceaux",
+                "tip": "Delicii locale în sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Relais de Chenonceaux",
+                "tip": "Local delicacies in the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugabfahrten nach Tours oder Bourges.",
+              "Die Wege sind barrierefrei."
+            ],
+            "hu": [
+              "Ellenőrizze a vonatokat Tours vagy Bourges felé.",
+              "Az útvonal akadálymentesített."
+            ],
+            "ro": [
+              "Verificați orarul trenurilor spre Tours sau Bourges.",
+              "Traseele sunt accesibile."
+            ],
+            "en": [
+              "Check train departures to Tours or Bourges.",
+              "The paths are accessible."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft am Bahnhof Chenonceaux; nutzen Sie die Unterstände bei Regen. \nMittag: Das Schloss ist nur einen kurzen, wenn auch feuchten Fußweg entfernt. \nNachmittag: Entdecken Sie die Geschichte im Inneren und genießen Sie den Blick aus den Fenstern. \nAbend: Ein kurzer Sprint zurück zum Bahnhof, um im trockenen Zug zu entspannen.",
+            "hu": "Reggel: Érkezés a chenonceaux-i vasútállomásra; használja a várókat esőben. \nDélben: A kastély csak egy rövid, bár ázós sétára van az állomástól. \nDélután: Fedezze fel a benti történelmet, és csodálja a kilátást az ablakokból. \nEste: Rövid sprint vissza az állomásra, hogy a száraz vonaton pihenhessen.",
+            "ro": "Dimineața: Sosire la gara Chenonceaux; folosiți adăposturile dacă plouă. \nPrânz: Castelul este la doar o scurtă plimbare, deși umedă, de gară. \nDupă-amiaza: Descoperiți istoria din interior și admirați vederea de la ferestre. \nSeara: Un sprint rapid înapoi la gară pentru a vă relaxa în trenul uscat.",
+            "en": "Morning: Arrive at Chenonceaux Station; make use of the platform shelters if raining. \nNoon: The castle is just a short, albeit damp, walk away from the station. \nAfternoon: Explore the indoor history and enjoy the river views from the windows. \nEvening: A quick dash back to the station to dry off and relax on the train home."
+          },
+          "stops": [
+            {
+              "name": "Chenonceaux Station",
+              "tip_5lang": {
+                "de": "Der Bahnsteig bietet nur begrenzten Schutz; bleiben Sie nah am Unterstand.",
+                "hu": "A peron csak korlátozott védelmet nyújt; maradjon a váróhely közelében.",
+                "ro": "Peronul oferă protecție limitată; stați aproape de zona acoperită.",
+                "en": "The platform has limited shelter; stay close to the covered waiting area."
+              }
+            },
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Der Weg vom Bahnhof zum Schloss ist baumgesäumt, aber teils offen.",
+                "hu": "Az állomástól a kastélyig vezető út fasoros, de néhol nyitott.",
+                "ro": "Drumul de la gară la castel are arbori, dar este parțial expus.",
+                "en": "The path from the station is tree-lined but has some exposed sections."
+              }
+            },
+            {
+              "name": "Garden of Catherine de Médicis",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss kurz, bevor Sie ins Trockene gehen.",
+                "hu": "Vessen egy gyors pillantást a kastélyra, mielőtt fedett helyre vonulna.",
+                "ro": "Admirați rapid castelul înainte de a merge la adăpost de ploaie.",
+                "en": "Take a quick look at the castle before heading to a covered area."
+              }
+            },
+            {
+              "name": "16th-century Farm",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf die nächste Zugverbindung im Trockenen zu warten.",
+                "hu": "Ideális hely a következő vonatcsatlakozás megvárására szárazon.",
+                "ro": "Un loc ideal pentru a aștepta următoarea legătură de tren la adăpost.",
+                "en": "An ideal place to spend time while waiting for your next train connection."
+              }
+            },
+            {
+              "name": "Parc du Château",
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Hauptwege, um die Schuhe sauber zu halten.",
+                "hu": "Használja a burkolt főutakat, hogy tisztán tartsa a cipőjét.",
+                "ro": "Folosiți aleile principale pavate pentru a vă menține pantofii curați.",
+                "en": "Stick to the main paved paths to keep your shoes as dry as possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugzeiten bei Verspätungen aufgrund schlechten Wetters.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zum Bahnhof.",
+              "Die Orangerie ist ein guter Ort, um Wartezeiten bei Regen zu überbrücken.",
+              "Haben Sie Ihre Fahrkarten griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "Ein kleiner Reiseschirm ist im Zug und beim Laufen sehr praktisch."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet a rossz idő miatti esetleges késésekért.",
+              "Viseljen jó tapadású cipőt az állomásra vezető úton.",
+              "Az Orangerie jó hely a várakozási idő lerövidítésére esőben.",
+              "Tartsa kéznél a jegyét, hogy ne kelljen az esőben keresgélni.",
+              "Egy kis összecsukható esernyő nagyon praktikus a vonaton és a sétánál."
+            ],
+            "ro": [
+              "Verificați mersul trenurilor pentru eventuale întârzieri cauzate de vreme.",
+              "Purtați pantofi cu aderență bună pentru drumul spre gară.",
+              "Orangerie este un loc bun pentru a aștepta trenul dacă plouă afară.",
+              "Aveți biletele la îndemână pentru a nu căuta prin bagaje în ploaie.",
+              "O umbrelă mică pliabilă este foarte practică pentru drum și tren."
+            ],
+            "en": [
+              "Check for train delays on your mobile app during heavy rainfall.",
+              "Wear shoes with good grip for the walk to and from the station.",
+              "The Orangerie is a great indoor spot to wait if you have time before a train.",
+              "Keep your tickets in an accessible pocket to avoid searching in the rain.",
+              "A small collapsible umbrella is highly recommended for transit users."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ein frischer Start am Bahnhof; der kurze Weg zum Schloss macht munter. \nMittag: Das Schloss Chenonceau bietet winterliche Wärme und eine ruhige Atmosphäre. \nNachmittag: Ein Spaziergang durch den frostigen Park zeigt das Schloss von seiner klaren Seite. \nAbend: Die Rückfahrt im beheizten Zug ist nach einem Tag an der Winterluft sehr wohltuend.",
+            "hu": "Reggel: Friss kezdés az állomáson; a rövid séta a kastélyig felébreszt. \nDélben: A Chenonceau kastély téli meleget és nyugodt légkört kínál. \nDélután: Séta a fagyos parkban, ahol a kastély tiszta vonalai érvényesülnek. \nEste: A fűtött vonaton való visszaút nagyon jólesik a téli levegőn töltött nap után.",
+            "ro": "Dimineața: Un început revigorant la gară; scurta plimbare spre castel vă va trezi. \nPrânz: Castelul Chenonceau oferă căldură și o atmosferă liniștită de iarnă. \nDupă-amiaza: O plimbare prin parcul înghețat dezvăluie liniile clare ale castelului. \nSeara: Drumul înapoi în trenul încălzit este foarte plăcut după o zi în aerul rece.",
+            "en": "Morning: A crisp start at the station; the short walk to the castle is waking you up. \nNoon: Château de Chenonceau offers winter warmth and a serene, quiet atmosphere. \nAfternoon: A stroll through the frosty park highlights the castle's sharp architectural lines. \nEvening: The return trip in a heated train is very welcome after a day in the winter air."
+          },
+          "stops": [
+            {
+              "name": "Chenonceaux Station",
+              "tip_5lang": {
+                "de": "Der Warteraum am Bahnhof ist im Winter oft geschlossen; warm anziehen.",
+                "hu": "Az állomás váróterme télen gyakran zárva van; öltözzön melegen.",
+                "ro": "Sala de așteptare din gară este adesea închisă iarna; îmbrăcați-vă gros.",
+                "en": "The station waiting room might be closed in winter; dress warmly for the platform."
+              }
+            },
+            {
+              "name": "Château de Chenonceau",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist im Winter besonders angenehm und ruhig.",
+                "hu": "A belső látogatás télen különösen kellemes és nyugodt élmény.",
+                "ro": "Vizitarea interiorului este deosebit de plăcută și liniștită în timpul iernii.",
+                "en": "Exploring the interiors is especially pleasant and quiet during winter."
+              }
+            },
+            {
+              "name": "Garden of Catherine de Médicis",
+              "tip_5lang": {
+                "de": "Die Winterruhe im Garten bietet tolle Gelegenheiten für Architekturfotos.",
+                "hu": "A kerti téli nyugalom remek alkalmat ad az építészeti fotókhoz.",
+                "ro": "Liniștea de iarnă din grădină oferă ocazii excelente pentru fotografii.",
+                "en": "The winter stillness in the garden is perfect for architectural photography."
+              }
+            },
+            {
+              "name": "16th-century Farm",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche zum Aufwärmen zwischen den Stopps.",
+                "hu": "Használja a fedett részeket az átmelegedéshez a megállók között.",
+                "ro": "Folosiți zonele acoperite pentru a vă încălzi între opriri.",
+                "en": "Use the covered sections of the farm to warm up between outdoor segments."
+              }
+            },
+            {
+              "name": "Parc du Château",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Boden; bleiben Sie auf den gestreuten Wegen.",
+                "hu": "Vigyázzon a fagyott talajon; maradjon a felszórt utakon.",
+                "ro": "Atenție la solul înghețat; rămâneți pe aleile curățate.",
+                "en": "Be careful of frozen ground; stick to the main paths which are often gritted."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung für das Warten am zugigen Bahnsteig.",
+              "Die Züge sind meist gut beheizt, ideal zum Aufwärmen.",
+              "Planen Sie Pufferzeit ein, da die Bahn im Winter langsamer fahren kann.",
+              "Nehmen Sie einen Thermobecher mit einem heißen Getränk mit.",
+              "Die Sonne geht früh unter; der Weg zum Bahnhof ist jedoch beleuchtet."
+            ],
+            "hu": [
+              "Viseljen termaruházatot a huzatos peronon való várakozáshoz.",
+              "A vonatok általában jól fűtöttek, ideálisak az átmelegedéshez.",
+              "Tervezzen ráhagyással, mert télen előfordulhatnak menetrendi csúszások.",
+              "Vigyen magával termoszban forró italt az útra.",
+              "A nap korán nyugszik, de az állomásra vezető út ki van világítva."
+            ],
+            "ro": [
+              "Purtați haine termice pentru așteptarea pe peronul expus la curent.",
+              "Trenurile sunt de obicei bine încălzite, fiind ideale pentru dezghețare.",
+              "Lăsați o marjă de timp, deoarece iarna pot apărea întârzieri feroviare.",
+              "Luați o cană termică cu o băutură caldă pentru drum.",
+              "Soarele apune devreme, dar drumul spre gară este bine iluminat."
+            ],
+            "en": [
+              "Wear thermal layers for waiting on the potentially drafty platforms.",
+              "The trains are usually well-heated, making them perfect for warming up.",
+              "Allow extra time for travel as winter weather can affect train schedules.",
+              "Carry a thermal flask with a hot drink for your outdoor segments.",
+              "Sunset is early, but the main path to the station is adequately lit."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.chenonceau.com/",
-    "events": "https://www.chenonceau.com/en/",
-    "city_card": "",
-    "museum_tickets": "https://www.chenonceau.com/en/preparing-for-your-visit/",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Chenonceaux ist ein winziges Loire-Dorf, in dem ein freundliches 'bonjour' beim Eintreten in Boulangerie oder Cafe Pflicht ist. Im Schloss klappt Englisch perfekt mit Audioguide in vielen Sprachen, im Dorf selbst hilft ein paar Brocken Franzoesisch.",
-      "hu": "Chenonceaux egy aprocska Loire menti falu, ahol a 'bonjour' a pekseg vagy kavezo ajtajaban kotelezo udvariassag. A kastelyban az angol audioguide tobb nyelven megy, de a faluban par francia szo nagyon segit.",
-      "ro": "Chenonceaux e un satuc pe Loara unde un 'bonjour' la intrarea in brutarie sau cafenea e o regula nescrisa de politete. La castel engleza merge perfect cu audioghid in mai multe limbi, dar in sat cateva cuvinte de franceza ajuta mult.",
-      "en": "Chenonceaux is a tiny Loire village where saying 'bonjour' when entering the bakery or cafe is essential courtesy. At the chateau English works perfectly with multilingual audio guides, but in the village a few French phrases go a long way."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September sind perfekt: bluehende Gaerten, milde 18-24 Grad und wenige Reisebusse vormittags. Juli und August bringen Hitze und Massen, kommen Sie vor 10 Uhr. Im Winter sind die Innenraeume ruhig, Gaerten aber kahl.",
-      "hu": "Aprilistol juniusig es szeptemberben tokeletes: viragzo kertek, kellemes 18-24 fok es delelott meg kevesebb busz. Julius-augusztusban hoseg es tomeg, erkezz 10 ora elott. Telen a belso termek nyugodtak, de a kertek kopaszok.",
-      "ro": "Aprilie-iunie si septembrie sunt perfecte: gradini infloritoare, 18-24 grade placute si putine autocare dimineata. Iulie-august aduc caldura si aglomeratie, vino inainte de ora 10. Iarna interioarele sunt linistite, dar gradinile golase.",
-      "en": "April through June and September are perfect: blooming gardens, mild 18-24°C and few coaches before 10am. July and August bring heat and crowds — arrive before 10am. In winter the interiors are quiet but the gardens are bare."
-    },
-    "neighborhood_warnings": {
-      "de": "Das Dorf ist sehr sicher, nur das Schlossparkhaus ist mittags voll, dann lohnt sich das kostenlose Dorfparken. Verkaeufer im Loire-Tal sind serioes, achten Sie nur auf Touristenfallen-Restaurants direkt am Eingang.",
-      "hu": "A falu nagyon biztonsagos, csak a kastely parkoloja telik meg delre, ilyenkor erdemes a faluban ingyen parkolni. Az arusok komolyak, csak a kastely bejaratanal levo turistacsapda ettermeket kerulve.",
-      "ro": "Satul e foarte sigur, doar parcarea castelului se umple la pranz, atunci e mai bine sa parchezi gratuit in sat. Vanzatorii din Valea Loarei sunt seriosi, evita doar restaurantele-capcana de la intrare.",
-      "en": "The village is very safe; only the chateau car park fills by midday, so use the free village parking. Loire Valley vendors are honest, just avoid the tourist-trap restaurants right at the entrance."
-    },
-    "parking_real_time": ""
   }
 }

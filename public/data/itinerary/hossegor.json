@@ -900,32 +900,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine.html",
-    "tourism_office": "https://www.hossegor.fr/",
-    "events": "https://www.hossegor.fr/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.txik-txak.fr/",
-    "language_tips": {
-      "de": "Hossegor ist Frankreichs Surf-Hauptstadt, hier hoerst du Franzoesisch, Englisch, Australisch und Brasilianisch durcheinander. Im Wasser und in Surfshops klappt Englisch perfekt, im Boulangerie und Markt gehoert das 'bonjour' aber dazu.",
-      "hu": "Hossegor Franciaorszag szurf-fovarosa, itt franciat, angolt, ausztralt es brazilt egyszerre hallasz. Vizen es szorfboltokban az angol tokeletes, a pekseg es a piacon viszont egy 'bonjour' alapveto.",
-      "ro": "Hossegor e capitala franceza a surfingului, aici auzi franceza, engleza, australiana si braziliana amestecate. La apa si in surf-shop-uri engleza merge perfect, dar la brutarie si in piata un 'bonjour' e obligatoriu.",
-      "en": "Hossegor is France's surf capital; you hear French, English, Australian and Brazilian all mixed. English works perfectly in the water and surf shops, but a 'bonjour' is essential in the bakery and market."
-    },
-    "best_time_to_visit": {
-      "de": "Mai, Juni und September sind die Surf-Geheimtipps: gute Wellen, 22-26 Grad und wenig Menge. August ist Hochsaison mit Wettkaempfen (Quiksilver Pro) und vollen Straenden. Oktober bringt die grossen Wellen fuer Profis.",
-      "hu": "Majus, junius es szeptember a szorf-titok: jo hullamok, 22-26 fok, kevesebb tomeg. Augusztus a foszezon a versenyekkel (Quiksilver Pro), zsufolt strandok. Oktoberben jonnek a nagy hullamok a profiknak.",
-      "ro": "Mai, iunie si septembrie sunt secretele surferilor: valuri bune, 22-26 grade si putina aglomeratie. August e sezonul de varf cu competitii (Quiksilver Pro) si plaje pline. Octombrie aduce valurile mari pentru profesionisti.",
-      "en": "May, June and September are the surf sweet spots: good waves, 22-26°C and fewer crowds. August is peak season with contests (Quiksilver Pro) and packed beaches. October brings the big waves for pros."
-    },
-    "neighborhood_warnings": {
-      "de": "Sicherer Surf-Ort, achten Sie nur auf starke Stroemungen und Sandbank-Wechsel am Atlantik. Wertsachen nie am Strand lassen, Vans und offene Autos werden im Sommer oft aufgebrochen.",
-      "hu": "Biztonsagos szorfváros, csak az atlanti partmenti erős aramlasokra es a homokpadok valtozasara figyelj. Erteket sose hagyj a strandon, nyaron a vanokat es nyitott autokat gyakran feltorik.",
-      "ro": "Localitate sigura, atentie doar la curentii puternici si la bancurile de nisip schimbatoare de pe coasta Atlanticului. Nu lasa obiecte de valoare pe plaja; vara, vans-urile si masinile deschise sunt sparte des.",
-      "en": "Safe surf town; just watch for strong currents and shifting sandbanks on the Atlantic. Never leave valuables on the beach — vans and unlocked cars get broken into often in summer."
-    },
-    "parking_real_time": ""
   }
 }

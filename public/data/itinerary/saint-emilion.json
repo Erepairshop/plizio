@@ -320,6 +320,450 @@
           "Park at the Espace Guadet parking lot at the top of the town.",
           "Wine tastings in town shops are often free or low cost."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen des UNESCO-Weltkulturerbes. Die Monolithische Kirche, die vollständig aus einem einzigen Kalksteinblock gehauen wurde, ist ein architektonisches Wunderwerk. Mittags genießen Sie die Ruhe im gotischen Kreuzgang der Cordeliers bei einem Glas lokalen Crémant.\n\nNachmittags erkunden Sie die steilen Gassen (Tertres) und erklimmen den Königsturm für einen Blick über das Dordogne-Tal. Beenden Sie den Tag mit dem Duft von frisch gebackenen Macarons, einer lokalen Spezialität seit dem 17. Jahrhundert.",
+            "hu": "Kezdje a napot az UNESCO Világörökség szívében. A teljesen egyetlen mészkőtömbből kivájt Monolit-templom építészeti csoda. Délben élvezze a Cordeliers gótikus kolostorának nyugalmát egy pohár helyi Crémant pezsgő mellett.\n\nDélután fedezze fel a meredek sikátorokat (Tertres), és másszon fel a Király-toronyba a Dordogne-völgyre nyíló kilátásért. Zárja a napot a frissen sült makaron illatával, amely a 17. század óta helyi specialitás.",
+            "ro": "Începeți ziua în inima Patrimoniului Mondial UNESCO. Biserica Monolit, săpată în întregime într-un singur bloc de calcar, este o minune arhitecturală. La prânz, bucurați-vă de liniștea claustrului gotic Cordeliers cu un pahar de Crémant local.\n\nDupă-amiaza, explorați străduțele abrupte (Tertres) și urcați în Turnul Regelui pentru o vedere asupra văii Dordogne. Încheiați ziua cu parfumul de macarons proaspăt copți, o specialitate locală încă din secolul al XVII-lea.",
+            "en": "Start your day in the heart of this UNESCO World Heritage site. The Monolithic Church, carved entirely from a single limestone block, is an architectural marvel. At midday, enjoy the peace of the Cordeliers' Gothic cloister with a glass of local sparkling wine.\n\nIn the afternoon, explore the steep alleys known as 'tertres' and climb the King's Keep for views over the Dordogne Valley. End your day with the scent of freshly baked macarons, a local specialty since the 17th century."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso im Schatten der alten Steinmauern.",
+                "hu": "Igyon egy eszpresszót a régi kőfalak árnyékában.",
+                "ro": "Beți un espresso la umbra vechilor ziduri de piatră.",
+                "en": "Enjoy an espresso in the shade of the ancient stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monolithische Kirche",
+                "hu": "Monolit-templom",
+                "ro": "Biserica Monolit",
+                "en": "Monolithic Church"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie die Führung im Voraus, der Zugang ist begrenzt.",
+                "hu": "Foglaljon vezetést előre, a bejutás korlátozott.",
+                "ro": "Rezervați turul în avans, accesul este limitat.",
+                "en": "Book your tour in advance as access is strictly controlled."
+              }
+            },
+            {
+              "name": {
+                "de": "Glockenturm",
+                "hu": "Harangtorony",
+                "ro": "Turnul cu clopot",
+                "en": "Bell Tower"
+              },
+              "tip_5lang": {
+                "de": "Der beste Panoramablick über die Dächer der Stadt.",
+                "hu": "A legjobb panoráma a város háztetőire.",
+                "ro": "Cea mai bună panoramă asupra acoperișurilor orașului.",
+                "en": "The best panoramic view over the town's terracotta roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Cordeliers-Kreuzgang",
+                "hu": "Cordeliers kolostor",
+                "ro": "Mănăstirea Cordeliers",
+                "en": "Cordeliers Cloister"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den Sekt im historischen Garten.",
+                "hu": "Kóstolja meg a pezsgőt a történelmi kertben.",
+                "ro": "Gustați vinul spumant în grădina istorică.",
+                "en": "Try the sparkling wine (Crémant) in the historic garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsturm (Tour du Roy)",
+                "hu": "Király-torony",
+                "ro": "Turnul Regelui",
+                "en": "King's Keep"
+              },
+              "tip_5lang": {
+                "de": "Hier verkündet die Jurade im September die Weinlese.",
+                "hu": "Innen hirdeti ki a Jurade szeptemberben a szüretet.",
+                "ro": "De aici, Jurade anunță recolta în septembrie.",
+                "en": "The Jurade announces the grape harvest from here in September."
+              }
+            },
+            {
+              "name": {
+                "de": "Macarons de Saint-Émilion",
+                "hu": "Saint-Émilion-i makaron",
+                "ro": "Macarons de Saint-Émilion",
+                "en": "Saint-Émilion Macarons"
+              },
+              "tip_5lang": {
+                "de": "Das Originalrezept von 1620 kaufen, nicht die bunten.",
+                "hu": "Az 1620-as eredeti receptet vegye, ne a színeseket.",
+                "ro": "Cumpărați rețeta originală din 1620, nu cele colorate.",
+                "en": "Buy the original 1620 recipe, not the colorful modern ones."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Entrecôte à la Bordelaise",
+                "tip": "In Rotwein mit Schalotten zubereitet."
+              },
+              {
+                "name": "Macarons Nadia Fermigier",
+                "tip": "Das authentische Rezept der Nonnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Entrecôte à la Bordelaise",
+                "tip": "Vörösborban, mogyoróhagymával készítve."
+              },
+              {
+                "name": "Macarons Nadia Fermigier",
+                "tip": "Az apácák eredeti receptje alapján."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Entrecôte à la Bordelaise",
+                "tip": "Gătit în vin roșu cu șalote."
+              },
+              {
+                "name": "Macarons Nadia Fermigier",
+                "tip": "Rețeta autentică a călugărițelor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Entrecôte à la Bordelaise",
+                "tip": "Ribsteak cooked in red wine with shallots."
+              },
+              {
+                "name": "Macarons Nadia Fermigier",
+                "tip": "The authentic recipe from the local nuns."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Tour du Roy Gärten",
+                "tip": "Ruhiger Platz unterhalb des Turms.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Logis de la Cadène",
+                "tip": "Versteckte Ecke bei der alten Pforte.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tour du Roy kertek",
+                "tip": "Csendes hely a torony alatt.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Logis de la Cadène",
+                "tip": "Rejtett zug a régi kapunál.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Tour du Roy",
+                "tip": "Loc liniștit sub turn.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Logis de la Cadène",
+                "tip": "Colț ascuns lângă poarta veche.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Tour du Roy Gardens",
+                "tip": "Quiet spot below the keep.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Logis de la Cadène",
+                "tip": "Hidden corner near the old gate.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Établissements Martin",
+                "tip": "Hervorragende Weinauswahl."
+              },
+              {
+                "name": "Fabrique de Macarons",
+                "tip": "Frische Kekse zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Établissements Martin",
+                "tip": "Kiváló borválaszték."
+              },
+              {
+                "name": "Fabrique de Macarons",
+                "tip": "Friss sütemények elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Établissements Martin",
+                "tip": "Selecție excelentă de vinuri."
+              },
+              {
+                "name": "Fabrique de Macarons",
+                "tip": "Fursecuri proaspete la pachet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Établissements Martin",
+                "tip": "Excellent local wine selection."
+              },
+              {
+                "name": "Fabrique de Macarons",
+                "tip": "Fresh cookies to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster ist sehr uneben.",
+              "Die Stadt ist an Wochenenden sehr voll, kommen Sie früh.",
+              "Parken Sie auf dem Parkplatz Espace Guadet.",
+              "Probieren Sie Wein in den Kellern der Stadt, oft kostenlos."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, a macskakő nagyon egyenetlen.",
+              "A város hétvégente zsúfolt, érkezzen korán.",
+              "Parkoljon az Espace Guadet parkolóban.",
+              "Kóstoljon bort a városi pincékben, gyakran ingyenes."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili, pavajul este foarte denivelat.",
+              "Orașul este aglomerat în weekend, veniți devreme.",
+              "Parcați în parcarea Espace Guadet.",
+              "Degustați vin în cramele din oraș, adesea gratuit."
+            ],
+            "en": [
+              "Wear comfortable shoes as the cobblestones are very uneven.",
+              "The town gets crowded on weekends; try to arrive early.",
+              "Park at the Espace Guadet parking lot at the top of the town.",
+              "Wine tastings in town shops are often free or low cost."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Vormittag beginnt auf dem geschützten Marktplatz, gefolgt von der Erkundung der unterirdischen monolithischen Kirche, die den perfekten trockenen Zufluchtsort bietet.\nMittags genießen Sie die Arkaden der Cordeliers bei einem Glas Crémant, während der Regen auf die alten Steine trommelt.\nNachmittags führt der Weg durch die engen Gassen zum King's Keep, wobei die Kalksteinfassaden im Regen glänzen.\nDer Tag endet gemütlich in der Macaron-Bäckerei, wo der Duft von Mandeln den grauen Himmel vergessen lässt.",
+            "hu": "A szürke reggel a főtér árkádjai alatt indul, majd a föld alatti monolitikus templom nyújt tökéletes menedéket a csapadék elől.\nDélben a Cordeliers kolostor boltívei alatt kóstolhatunk pezsgőt, miközben az eső a középkori romokat mossa.\nDélután a meredek, csúszós macskaköveken óvatosan kapaszkodunk fel a királyi toronyhoz, élvezve a párás panorámát.\nAz estét a hagyományos makronok édes illata és a meleg üzlet belső tere teszi teljessé.",
+            "ro": "O dimineață ploioasă începe sub arcadele din piața centrală, urmată de explorarea bisericii monolitice subterane, refugiul perfect împotriva stropilor.\nLa prânz, savurați un pahar de Crémant sub bolțile mănăstirii Cordeliers, ascultând ritmul ploii pe pietrele vechi.\nDupă-amiaza, străzile înguste duc spre Turnul Regelui, unde fațadele de calcar strălucesc sub apă.\nZiua se încheie călduros în magazinul de macarons, unde aromele dulci alungă atmosfera mohorâtă.",
+            "en": "A rainy morning starts under the shelters of Market Square, followed by the underground monolithic church which provides a perfect dry sanctuary.\nAt noon, enjoy the arches of the Cordeliers cloister with a glass of sparkling wine while the rain patters on ancient ruins.\nAfternoon paths lead to the King's Keep, where the limestone walls glisten beautifully in the wet weather.\nThe day ends cozily at the macaron shop, where sweet aromas help you forget the gray skies outside."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platz.",
+                "hu": "Keressen menedéket a tér körüli kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Seek shelter under the awnings of the cafes surrounding the square."
+              }
+            },
+            {
+              "name": "Monolithic Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen trocken unter der Erde zu entkommen.",
+                "hu": "Ideális helyszín, hogy szárazon maradjon a föld alatti járatokban.",
+                "ro": "Locul ideal pentru a rămâne uscat în galeriile subterane.",
+                "en": "The perfect spot to stay dry within the underground galleries."
+              }
+            },
+            {
+              "name": "Bell Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; der Kalkstein wird bei Nässe extrem rutschig.",
+                "hu": "Vigyázat a lépcsőkön; a mészkő esőben rendkívül csúszóssá válik.",
+                "ro": "Atenție pe trepte; calcarul devine extrem de alunecos pe ploaie.",
+                "en": "Caution on the steps; the limestone becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "Cordeliers Cloister",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge bieten Schutz beim Genießen des Crémants.",
+                "hu": "A fedett kerengő védelmet nyújt a pezsgőzés közben.",
+                "ro": "Coridoarele acoperite oferă protecție în timp ce savurați vinul.",
+                "en": "The covered cloister walkways provide shelter while enjoying bubbly."
+              }
+            },
+            {
+              "name": "King's Keep",
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für den Aufstieg zur Plattform.",
+                "hu": "Várjon meg egy esőszünetet a toronyba való feljutáshoz.",
+                "ro": "Așteptați o pauză între reprizele de ploaie pentru a urca.",
+                "en": "Wait for a break in the rain to climb up for the view."
+              }
+            },
+            {
+              "name": "Saint-Émilion Macarons",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich mit süßen Leckereien aufzuwärmen.",
+                "hu": "A legjobb hely egy édes, melegedő megállóra a séta végén.",
+                "ro": "Locul ideal pentru o oprire dulce și călduroasă la final.",
+                "en": "The best place for a sweet, warm stop at the end of your walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die steilen 'Tertres' (Gassen) sind bei Regen extrem rutschig; nutzen Sie die Geländer.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den Kopfsteinpflasterlücken Pfützen bilden.",
+              "Die unterirdische Kirche bleibt trocken und bietet eine lange Führung.",
+              "Viele Weinkeller im Zentrum bieten kostenlose Verkostungen als Regenschutz.",
+              "Regenschirme können bei starkem Wind in den engen Gassen unpraktisch sein; Regenjacken sind besser."
+            ],
+            "hu": [
+              "A meredek 'tertres' utcák esőben nagyon csúsznak, használja a korlátokat.",
+              "Viseljen vízálló cipőt, mert a macskakövek között megáll a víz.",
+              "A monolitikus templom és a katakombák kiváló fedett programok.",
+              "A belvárosi borospincék tökéletes menedéket nyújtanak egy-egy zápor idején.",
+              "A szél miatt a szűk utcákban az esernyő helyett a vízálló kabát praktikusabb."
+            ],
+            "ro": [
+              "Străzile abrupte 'tertres' sunt foarte alunecoase; folosiți balustradele.",
+              "Purtați încălțăminte impermeabilă, apa se adună între pietrele cubice.",
+              "Biserica monolitică și catacombele sunt opțiuni excelente pentru interior.",
+              "Cramele din centru oferă adăpost ideal în timpul averselor.",
+              "Jachetele de ploaie sunt mai practice decât umbrelele pe străzile înguste."
+            ],
+            "en": [
+              "The steep 'tertres' alleys are extremely slippery in rain; use the handrails.",
+              "Wear waterproof shoes as water tends to pool between the cobblestones.",
+              "The monolithic church and catacombs are excellent indoor highlights.",
+              "Wine cellars in the center offer perfect shelter during heavy downpours.",
+              "Rain jackets are more practical than umbrellas in the narrow, windy streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt auf dem frostigen Marktplatz, wo die Kälte die Luft frisch und sauber wirken lässt.\nMittags bietet die unterirdische Kirche eine angenehme, konstante Temperatur abseits des kalten Windes.\nNachmittags taucht die tiefstehende Wintersonne den King's Keep in ein goldenes Licht, bevor es früh dunkel wird.\nDer Tag klingt bei warmen Macarons und festlicher Beleuchtung in den mittelalterlichen Gassen aus.",
+            "hu": "A fagyos reggeli pára különleges hangulatot ad a főtérnek, ahol a friss levegő ébreszti a látogatót.\nDélben a monolitikus templom állandó hőmérséklete kellemes felüdülést nyújt a téli szél elől.\nDélután a korán lemenő nap aranyba öltözteti a királyi tornyot és a környező dűlőket.\nAz este a díszkivilágításban úszó szűk utcákon, egy doboz friss makronnal válik meghitté.",
+            "ro": "O dimineață geroasă de iarnă începe în piața centrală, unde aerul rece este proaspăt și curat.\nLa prânz, interiorul bisericii monolitice oferă o temperatură constantă și plăcută, ferită de vânt.\nDupă-amiaza, soarele de iarnă scaldă Turnul Regelui într-o lumină aurie înainte de apusul timpuriu.\nZiua se încheie printre luminile festive ale străzilor medievale, cu macarons calzi.",
+            "en": "A crisp winter morning starts at the frosty Market Square, where the cold air feels fresh and clean.\nAt noon, the monolithic church interior provides a stable, mild temperature away from the winter wind.\nAfternoon sun sits low, bathing the King's Keep in golden hues before the early sunset at five.\nThe day concludes among the festive lights of the medieval streets with warm macarons."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee, um sich für den Spaziergang aufzuwärmen.",
+                "hu": "Igyon egy forró kávét a séta előtti bemelegítésként.",
+                "ro": "Savurați o cafea fierbinte pentru a vă încălzi înainte de plimbare.",
+                "en": "Enjoy a hot coffee to warm up before starting your walk."
+              }
+            },
+            {
+              "name": "Monolithic Church",
+              "tip_5lang": {
+                "de": "Die unterirdische Temperatur ist im Winter oft milder als draußen.",
+                "hu": "A föld alatti hőmérséklet télen gyakran enyhébb, mint a felszínen.",
+                "ro": "Temperatura subterană este adesea mai blândă decât cea de afară.",
+                "en": "The underground temperature is often milder than the outside air."
+              }
+            },
+            {
+              "name": "Bell Tower",
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht eine unglaubliche Fernsicht auf die Weinberge.",
+                "hu": "A tiszta téli levegő hihetetlen kilátást enged a távoli dűlőkre.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate incredibilă asupra viilor.",
+                "en": "The clear winter air allows for incredible views over the vineyards."
+              }
+            },
+            {
+              "name": "Cordeliers Cloister",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weinkeller, um der Kälte kurzzeitig zu entfliehen.",
+                "hu": "Látogasson el a borospincékbe, hogy kicsit kimeneküljön a hidegből.",
+                "ro": "Vizitați cramele pentru a scăpa temporar de frigul de afară.",
+                "en": "Visit the wine cellars for a brief escape from the outdoor cold."
+              }
+            },
+            {
+              "name": "King's Keep",
+              "tip_5lang": {
+                "de": "Achten Sie auf den beißenden Wind auf der Aussichtsplattform.",
+                "hu": "Készüljön fel a metsző szélre a kilátóteraszon.",
+                "ro": "Fiți pregătiți pentru vântul tăios de pe platforma superioară.",
+                "en": "Be prepared for the biting wind on the viewing platform."
+              }
+            },
+            {
+              "name": "Saint-Émilion Macarons",
+              "tip_5lang": {
+                "de": "Ein süßes Souvenir, das perfekt zu einem warmen Wintergetränk passt.",
+                "hu": "Édes szuvenír, amely tökéletesen illik egy forró téli italhoz.",
+                "ro": "Un suvenir dulce care se potrivește perfect cu o băutură caldă.",
+                "en": "A sweet souvenir that pairs perfectly with a warm winter drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter; planen Sie Besichtigungen früh ein.",
+              "Einige kleinere Geschäfte könnten in der Nebensaison kürzere Öffnungszeiten haben.",
+              "Tragen Sie Schichten, da der Wind in den hochgelegenen Teilen des Dorfes kalt sein kann.",
+              "Die Steinbauten strahlen im Schatten viel Kälte ab; suchen Sie sonnige Plätze.",
+              "Winterabende im Dorf sind sehr ruhig und ideal für stimmungsvolle Fotos."
+            ],
+            "hu": [
+              "A nap télen 17:00 körül nyugszik, a kültéri látnivalókat tervezze korábbra.",
+              "Néhány kisebb bolt korábban zárhat a téli holtszezon idején.",
+              "Öltözzön rétegesen, mert a falu felső részén metsző lehet a szél.",
+              "A kőépületek árnyékában sokkal hidegebb van, keresse a napos oldalakat.",
+              "A téli esték nagyon csendesek, kiválóak a hangulatos éjszakai fotózáshoz."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00; planificați vizitele în prima parte a zilei.",
+              "Unele magazine mici pot avea program scurt în extrasezon.",
+              "Îmbrăcați-vă în straturi, vântul poate fi tăios în zonele înalte ale satului.",
+              "Clădirile din piatră rețin frigul la umbră; căutați zonele însorite.",
+              "Serile de iarnă sunt foarte liniștite, ideale pentru fotografii atmosferice."
+            ],
+            "en": [
+              "Sunset is around 17:00 in winter; plan your outdoor visits early.",
+              "Some smaller shops might have shorter opening hours during the off-season.",
+              "Wear layers, as the wind can be biting in the upper parts of the village.",
+              "Stone buildings radiate cold in the shade; try to stay on the sunny side.",
+              "Winter evenings are very quiet, perfect for atmospheric night photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -548,6 +992,346 @@
           "Be mindful of farm tractors during the harvest season.",
           "Most chateaux require booking for a proper cellar tour."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die berühmten Weinberge von Saint-Émilion auf zwei Rädern. Radeln Sie entlang der Grand-Cru-Anwesen und genießen Sie die hügelige Landschaft.\n\nNach einem Picknick zwischen den Reben besuchen Sie moderne Weingüter wie La Dominique, bevor Sie am späten Nachmittag zurück ins mittelalterliche Dorf fahren.",
+            "hu": "Fedezze fel Saint-Émilion híres szőlőültetvényeit két keréken. Biciklizzen a Grand Cru birtokok mentén, és élvezze a dombos tájat.\n\nEgy szőlősorok közötti piknik után látogasson el modern borászatokhoz, mint a La Dominique, mielőtt késő délután visszatérne a középkori faluba.",
+            "ro": "Explorați faimoasele podgorii din Saint-Émilion pe două roți. Pedalați pe lângă domeniile Grand Cru și bucurați-vă de peisajul deluros.\n\nDupă un picnic între vii, vizitați crame moderne precum La Dominique, înainte de a vă întoarce în satul medieval târziu după-amiaza.",
+            "en": "Explore the world-famous vineyards of Saint-Émilion on two wheels. Cycle past prestigious Grand Cru estates and enjoy the rolling limestone landscape.\n\nAfter a picnic among the vines, visit contemporary wineries like La Dominique before heading back to the medieval village in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dorfzentrum",
+                "hu": "Falu központja",
+                "ro": "Centrul satului",
+                "en": "Village Center"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Place Créneau.",
+                "hu": "Kezdje a túrát a Place Créneau-nál.",
+                "ro": "Începeți turul la Place Créneau.",
+                "en": "Start your ride from Place Créneau."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Pavie Weinberge",
+                "hu": "Château Pavie szőlők",
+                "ro": "Viile Château Pavie",
+                "en": "Château Pavie Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Wunderbarer Blick auf die Steilhänge.",
+                "hu": "Csodás kilátás a meredek lejtőkre.",
+                "ro": "Vedere minunată asupra versanților abrupți.",
+                "en": "Stunning views of the steep limestone slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Picknick im Weinberg",
+                "hu": "Piknik a szőlőben",
+                "ro": "Picnic în vie",
+                "en": "Vineyard Picnic"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie Käse und Baguette aus dem Dorf mit.",
+                "hu": "Hozzanak sajtot és bagettet a faluból.",
+                "ro": "Aduceți brânză și baghetă din sat.",
+                "en": "Bring local cheese and baguette from the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Château La Dominique",
+                "hu": "Château La Dominique",
+                "ro": "Château La Dominique",
+                "en": "Château La Dominique"
+              },
+              "tip_5lang": {
+                "de": "Moderne Architektur trifft auf Weintradition.",
+                "hu": "Modern építészet találkozása a borral.",
+                "ro": "Arhitectură modernă întâlnește tradiția vinului.",
+                "en": "Modern architecture meets wine tradition."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lokaler Ziegenkäse",
+                "tip": "Perfekt für das Picknick."
+              },
+              {
+                "name": "Saint-Émilion Grand Cru",
+                "tip": "Direkt ab Weingut kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kecskesajt",
+                "tip": "Tökéletes a piknikhez."
+              },
+              {
+                "name": "Saint-Émilion Grand Cru",
+                "tip": "Vásároljon közvetlenül a borászatnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de capră locală",
+                "tip": "Perfectă pentru picnic."
+              },
+              {
+                "name": "Saint-Émilion Grand Cru",
+                "tip": "Cumpărați direct de la cramă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local goat cheese",
+                "tip": "Ideal for a vineyard picnic."
+              },
+              {
+                "name": "Saint-Émilion Grand Cru",
+                "tip": "Buy directly from the estate."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberg-Pfade",
+                "tip": "Abseits der Hauptstraßen radeln.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szőlőhegyi ösvények",
+                "tip": "Biciklizzen a főutaktól távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cărările dintre vii",
+                "tip": "Pedalați departe de drumurile principale.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vineyard paths",
+                "tip": "Cycle away from the main roads.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Velo Saint-Émilion",
+                "tip": "Fahrradverleih und Karten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Velo Saint-Émilion",
+                "tip": "Bicikli bérlés és térképek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Velo Saint-Émilion",
+                "tip": "Închirieri biciclete și hărți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Velo Saint-Émilion",
+                "tip": "Bike rentals and trail maps."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, die Hügel können anstrengend sein.",
+              "Achten Sie auf die Traktoren während der Erntezeit.",
+              "Einige Weingüter verlangen eine Voranmeldung für Besuche."
+            ],
+            "hu": [
+              "Béreljen elektromos biciklit, a dombok fárasztóak lehetnek.",
+              "Vigyázzon a traktorokra szüret idején.",
+              "Néhány borászat előzetes bejelentkezést igényel."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică, dealurile pot fi obositoare.",
+              "Atenție la tractoare în timpul sezonului de recoltare.",
+              "Unele crame necesită programare prealabilă."
+            ],
+            "en": [
+              "Rent an e-bike; the rolling hills can be tougher than they look.",
+              "Be mindful of farm tractors during the harvest season.",
+              "Most chateaux require booking for a proper cellar tour."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet am Dorfzentrum, wo wir uns mit Regenponchos ausrüsten.\nDie Fahrt zum Château Pavie führt über asphaltierte Straßen, um den Schlamm in den Weinbergen zu vermeiden.\nMittags suchen wir Schutz für ein Picknick in einer überdachten Remise eines Weinguts.\nDer Nachmittag endet bei Château La Dominique, wo das moderne Design auch bei grauem Wetter beeindruckt.",
+            "hu": "A kerékpáros nap a központban indul, ahol beszerezzük az esővédő felszerelést.\nA Pavie birtok felé aszfaltozott utakon haladunk, elkerülve a dűlők sarával való küzdelmet.\nDélben egy borászat fedett kóstolóhelyiségében tartunk szünetet a piknik helyett.\nDélután a Château La Dominique modern épülete nyújt menedéket a csapadék elől.",
+            "ro": "Ziua pe bicicletă începe în centru, unde ne echipăm cu pelerine de ploaie.\nTraseul spre Château Pavie urmează drumuri asfaltate pentru a evita noroiul din vii.\nLa prânz, căutăm adăpost într-o cramă pentru a lua gustarea în siguranță.\nDupă-amiaza se încheie la Château La Dominique, a cărei arhitectură impresionează și pe gri.",
+            "en": "The cycling day begins in the center where we gear up with rain ponchos.\nThe ride to Château Pavie follows paved roads to avoid the muddy vineyard trails.\nAt noon, we seek shelter in a winery shed for a dry break instead of a field picnic.\nThe afternoon ends at Château La Dominique, where the modern design shines even in gray weather."
+          },
+          "stops": [
+            {
+              "name": "Village Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie die nassen Hügel hinunterfahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a vizes lejtőkön.",
+                "ro": "Verificați frânele înainte de a coborî pantele umede.",
+                "en": "Check your brakes before heading down the wet hills."
+              }
+            },
+            {
+              "name": "Château Pavie Vineyards",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kövezett utakon, hogy elkerülje a sarat a dűlőkben.",
+                "ro": "Rămâneți pe drumurile pavate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud in the vineyard rows."
+              }
+            },
+            {
+              "name": "Vineyard Picnic",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Schutzhütte oder ein Weingut für die Pause.",
+                "hu": "Keressen egy védett borházat vagy lugast a pihenőhöz.",
+                "ro": "Căutați un adăpost sau o cramă pentru pauza de prânz.",
+                "en": "Look for a sheltered winery porch for your midday break."
+              }
+            },
+            {
+              "name": "Château La Dominique",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich für die Weinverkostung.",
+                "hu": "Használja a fedett kóstolóteret a borok élvezetéhez.",
+                "ro": "Folosiți zona acoperită pentru degustarea de vinuri.",
+                "en": "Utilize the covered tasting area to enjoy the wines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Fahrräder mit Schutzblechen, um Spritzwasser zu vermeiden.",
+              "Vermeiden Sie unbefestigte Wege zwischen den Reben; der Lehmboden klebt stark.",
+              "Fahren Sie in den Kurven vorsichtig, da nasses Laub rutschig sein kann.",
+              "Planen Sie mehr Zeit für Besichtigungen in den Weinkellern ein.",
+              "Wasserdichte Packtaschen sind wichtig, um Ihre Ausrüstung trocken zu halten."
+            ],
+            "hu": [
+              "Használjon sárvédővel felszerelt kerékpárt a felverődő víz ellen.",
+              "Kerülje a földutakat a tőkék között; az agyagos talaj nagyon ragad.",
+              "A kanyarokban legyen óvatos a nedves levelek és a csúszós út miatt.",
+              "Tervezzen több beltéri programot és hosszabb borkóstolókat.",
+              "A vízálló táskák elengedhetetlenek a felszerelés szárazon tartásához."
+            ],
+            "ro": [
+              "Folosiți biciclete cu aripi pentru a evita stropirea cu apă.",
+              "Evitați drumurile de pământ printre vii; solul argilos este foarte lipicios.",
+              "Circulați cu prudență în curbe din cauza frunzelor umede.",
+              "Planificați vizite mai lungi în interiorul cramelor.",
+              "Gențile impermeabile sunt esențiale pentru a vă păstra echipamentul uscat."
+            ],
+            "en": [
+              "Use bikes equipped with fenders to prevent water spray.",
+              "Avoid unpaved trails between vines; the clay soil becomes very sticky.",
+              "Exercise caution in bends due to wet leaves and slippery surfaces.",
+              "Plan for longer indoor stays and wine tastings at the estates.",
+              "Waterproof panniers are essential to keep your belongings dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf zwei Rädern beginnt mit einer Fahrt durch die schlafenden Weinberge.\nBei Château Pavie bewundern wir die kahlen Reben, die eine grafische Schönheit ausstrahlen.\nMittags wärmen wir uns bei einer herzhaften Mahlzeit in einem nahegelegenen Bistro auf.\nDer Radtag endet früh, bevor die Kälte bei Sonnenuntergang intensiv wird.",
+            "hu": "A friss téli reggelen két keréken vágunk át az alvó szőlőültetvényeken.\nA Pavie birtoknál megcsodáljuk a kopasz tőkéket, amelyek ilyenkor különleges látványt nyújtanak.\nDélben egy közeli bisztróban melegedünk fel egy kiadós ebéd mellett.\nA kerékpáros túra korán véget ér, mielőtt a naplemente utáni hideg beköszöntene.",
+            "ro": "O dimineață răcoroasă pe două roți începe printre viile aflate în repaus vegetativ.\nLa Château Pavie admirăm rândurile de viță golașă, care au o frumusețe grafică.\nLa prânz ne încălzim într-un bistro local cu o masă consistentă.\nTurul pe bicicletă se încheie devreme, înainte ca frigul să se intensifice la apus.",
+            "en": "A fresh winter morning on two wheels begins with a ride through the dormant vineyards.\nAt Château Pavie, we admire the bare vines that radiate a unique graphic beauty.\nAt noon, we warm up with a hearty meal in a nearby local bistro.\nThe cycling day ends early, before the cold intensifies at sunset."
+          },
+          "stops": [
+            {
+              "name": "Village Center",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Abfahrten.",
+                "hu": "Viseljen meleg kesztyűt a lejtőkön való guruláshoz.",
+                "ro": "Purtați mănuși groase pentru coborârile în viteză.",
+                "en": "Wear warm gloves for the downhill sections."
+              }
+            },
+            {
+              "name": "Château Pavie Vineyards",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Weinberge im Winter.",
+                "hu": "Élvezze a szőlőültetvények téli nyugalmát.",
+                "ro": "Bucurați-vă de liniștea viilor în timpul iernii.",
+                "en": "Enjoy the peaceful silence of the winter vineyards."
+              }
+            },
+            {
+              "name": "Vineyard Picnic",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk in der Thermoskanne ist jetzt Gold wert.",
+                "hu": "Egy termosznyi forró ital most aranyat ér.",
+                "ro": "O băutură caldă într-un termos este esențială acum.",
+                "en": "A thermos with a hot drink is worth its weight in gold now."
+              }
+            },
+            {
+              "name": "Château La Dominique",
+              "tip_5lang": {
+                "de": "Die Terrasse bietet auch im Winter einen tollen Blick, wenn die Sonne scheint.",
+                "hu": "A terasz télen is remek kilátást nyújt, ha kisüt a nap.",
+                "ro": "Terasa oferă o vedere superbă și iarna dacă e soare.",
+                "en": "The terrace offers great views even in winter if the sun is out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Die Lichtverhältnisse sind im Winter ideal für Landschaftsfotografie.",
+              "Achten Sie auf Raureif auf den Straßen in den frühen Morgenstunden.",
+              "Planen Sie Ihre Route so, dass Sie vor 16:30 Uhr zurück sind.",
+              "Prüfen Sie den Reifendruck; kalte Luft kann ihn verringern."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, és használjon szélálló felsőruházatot.",
+              "A téli fények kiválóak a tájfotózáshoz a dűlők között.",
+              "Kora reggel figyeljen a jegesedésre az útfelületeken.",
+              "Úgy tervezze az útvonalat, hogy 16:30-ra visszaérjen a bázisra.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi și folosiți haine rezistente la vânt.",
+              "Lumina de iarnă este ideală pentru fotografia de peisaj.",
+              "Atenție la porțiunile de drum înghețate dimineața devreme.",
+              "Planificați traseul astfel încât să reveniți până la ora 16:30.",
+              "Verificați presiunea în pneuri; aerul rece o poate scădea."
+            ],
+            "en": [
+              "Wear multiple layers and windproof outer clothing.",
+              "Winter light conditions are ideal for landscape photography in the vines.",
+              "Watch out for frost on the roads during the early morning hours.",
+              "Plan your route to be back by 16:30 before the temperature drops.",
+              "Check tire pressure; cold air can cause it to decrease."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -760,6 +1544,330 @@
           "Central Saint-Émilion is mostly pedestrian; park on the outskirts.",
           "Designate a driver if you plan to visit multiple chateaux."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour verbindet das Beste aus Saint-Émilion mit der benachbarten Exzellenz von Pomerol. Beginnen Sie mit einem Spaziergang im Dorf, bevor Sie nach Pomerol fahren, um die prestigeträchtigsten Weinlagen der Welt zu sehen.\n\nMittags besuchen Sie den Markt in Libourne für ein lokales Mittagessen am Fluss. Beenden Sie den Tag mit einer Panoramafahrt durch die Weinberge zurück nach Saint-Émilion.",
+            "hu": "Ez az autós túra összeköti Saint-Émilion legjavát a szomszédos Pomerol kiválóságával. Kezdje egy sétával a faluban, majd hajtson át Pomerolba, hogy lássa a világ legértékesebb szőlőit.\n\nDélben látogasson el a libourne-i piacra egy folyóparti ebédre. Zárja a napot egy panorámás autózással a szőlőskertek között vissza Saint-Émilionba.",
+            "ro": "Acest tur cu mașina îmbină tot ce e mai bun în Saint-Émilion cu excelența vecină din Pomerol. Începeți cu o plimbare în sat, apoi conduceți spre Pomerol pentru a vedea cele mai prestigioase vii din lume.\n\nLa prânz, vizitați piața din Libourne pentru un prânz local pe malul râului. Încheiați ziua cu o plimbare panoramică prin podgorii înapoi spre Saint-Émilion.",
+            "en": "This driving tour combines the best of Saint-Émilion with the neighboring excellence of Pomerol. Start with a village stroll before driving to Pomerol to see some of the world's most prestigious vineyards.\n\nAt midday, visit the market in Libourne for a local lunch by the river. End your day with a scenic drive through the vineyards back to Saint-Émilion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dorf Saint-Émilion",
+                "hu": "Saint-Émilion falu",
+                "ro": "Satul Saint-Émilion",
+                "en": "Saint-Émilion Village"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie früh am Vormittag.",
+                "hu": "Parkoljon le korán délelőtt.",
+                "ro": "Parcați devreme dimineața.",
+                "en": "Park early in the morning to find a spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Pomerol Weinregion",
+                "hu": "Pomerol borvidék",
+                "ro": "Regiunea viticolă Pomerol",
+                "en": "Pomerol Wine Region"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche von Pomerol.",
+                "hu": "Látogassa meg Pomerol templomát.",
+                "ro": "Vizitați biserica din Pomerol.",
+                "en": "Visit the small church of Pomerol."
+              }
+            },
+            {
+              "name": {
+                "de": "Libourne Markt",
+                "hu": "Libourne-i piac",
+                "ro": "Piața din Libourne",
+                "en": "Libourne Market"
+              },
+              "tip_5lang": {
+                "de": "Ein authentischer Markt am Zusammenfluss von Isle und Dordogne.",
+                "hu": "Autentikus piac az Isle és a Dordogne összefolyásánál.",
+                "ro": "O piață autentică la confluența râurilor Isle și Dordogne.",
+                "en": "An authentic market at the Isle and Dordogne confluence."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Figeac",
+                "hu": "Château Figeac",
+                "ro": "Château Figeac",
+                "en": "Château Figeac"
+              },
+              "tip_5lang": {
+                "de": "Eines der elegantesten Schlösser der Region.",
+                "hu": "A régió egyik legelegánsabb kastélya.",
+                "ro": "Unul dintre cele mai elegante castele din regiune.",
+                "en": "One of the most elegant estates in the region."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lamproie à la Bordelaise",
+                "tip": "Neunauge in Weinsoße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lamproie à la Bordelaise",
+                "tip": "Ingola bormártásban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lamproie à la Bordelaise",
+                "tip": "Chișcar în sos de vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lamproie à la Bordelaise",
+                "tip": "Lamprey fish slow-cooked in red wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dordogne Ufer",
+                "tip": "Ruhiger Platz bei Libourne.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dordogne-part",
+                "tip": "Csendes hely Libourne-nál.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Dordogne",
+                "tip": "Loc liniștit lângă Libourne.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dordogne Banks",
+                "tip": "Quiet riverside spot in Libourne.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Libourne Markthalle",
+                "tip": "Frische regionale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Libourne vásárcsarnok",
+                "tip": "Friss regionális termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Hala din Libourne",
+                "tip": "Produse regionale proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Libourne Covered Market",
+                "tip": "Fresh local food and crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, die Straßen zwischen den Weinbergen sind eng.",
+              "In Saint-Émilion gibt es im Zentrum fast keine Parkplätze.",
+              "Null-Promille-Grenze beachten, wenn Sie Wein probieren."
+            ],
+            "hu": [
+              "Vezessen óvatosan, a szőlők közötti utak szűkek.",
+              "Saint-Émilion központjában szinte nincs parkoló.",
+              "Figyeljen az alkoholkorlátra borkóstoláskor."
+            ],
+            "ro": [
+              "Conduceți cu atenție, drumurile dintre vii sunt înguste.",
+              "În centrul Saint-Émilion aproape că nu există parcări.",
+              "Atenție la limita de alcool dacă degustați vin."
+            ],
+            "en": [
+              "Drive carefully as vineyard roads are narrow and used by tractors.",
+              "Central Saint-Émilion is mostly pedestrian; park on the outskirts.",
+              "Designate a driver if you plan to visit multiple chateaux."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt durch das verregnete Dorf, sicher und trocken im Auto.\nIn Pomerol bewundern wir die nebligen Weinberge, bevor wir zum überdachten Markt in Libourne fahren.\nMittags genießen wir regionale Spezialitäten auf dem Markt, geschützt vor dem Wetter.\nDer Nachmittag endet bei Château Figeac, wo die Verkostung in den eleganten Innenräumen stattfindet.",
+            "hu": "A napot a ködös faluban indítjuk, kényelmesen és szárazon az autóban.\nPomerol dűlői között autózunk a párás időben, majd a libourne-i fedett piacra tartunk.\nDélben a piac kínálatát élvezzük a tető alatt, távol az esőtől.\nDélután a Château Figeac elegáns belső tereiben hódolunk a borkóstolásnak.",
+            "ro": "Ziua începe cu o plimbare prin satul ploios, la adăpost în mașină.\nÎn Pomerol admirăm viile învăluite în ceață, apoi mergem la piața acoperită din Libourne.\nLa prânz savurăm specialități locale în piață, protejați de vremea de afară.\nDupă-amiaza se încheie la Château Figeac, cu o degustare în saloanele elegante.",
+            "en": "The day starts with a drive through the rainy village, safe and dry in the car.\nIn Pomerol, we admire the misty vineyards before heading to the covered market in Libourne.\nAt noon, we enjoy regional specialties at the market, shielded from the weather.\nThe afternoon ends at Château Figeac, where the tasting takes place in elegant indoor rooms."
+          },
+          "stops": [
+            {
+              "name": "Saint-Émilion Village",
+              "tip_5lang": {
+                "de": "Parken Sie auf den oberen Parkplätzen, um weite Fußwege im Regen zu vermeiden.",
+                "hu": "Használja a felső parkolókat, hogy elkerülje a hosszú sétát az esőben.",
+                "ro": "Parcați în locurile de sus pentru a evita mersul mult prin ploaie.",
+                "en": "Park in the upper lots to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Pomerol Wine Region",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die Weinberge bequem aus dem Auto.",
+                "hu": "Élvezze a kilátást a dűlőkre kényelmesen az autóból.",
+                "ro": "Bucurați-vă de vederea viilor din confortul mașinii.",
+                "en": "Enjoy the vineyard views from the comfort of your car."
+              }
+            },
+            {
+              "name": "Libourne Market",
+              "tip_5lang": {
+                "de": "Die Markthalle bietet eine trockene Umgebung zum Einkaufen.",
+                "hu": "A vásárcsarnok száraz környezetet biztosít a nézelődéshez.",
+                "ro": "Hala pieței oferă un mediu uscat pentru cumpărături.",
+                "en": "The indoor market hall provides a dry environment for shopping."
+              }
+            },
+            {
+              "name": "Château Figeac",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ausführliche Kellerführung bei Regen.",
+                "hu": "Ideális helyszín egy alapos pincelátogatáshoz esős időben.",
+                "ro": "Locație ideală pentru o vizită detaliată în cramă pe ploaie.",
+                "en": "Ideal spot for a detailed cellar tour during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den schmalen Straßen, da die Sicht eingeschränkt sein kann.",
+              "Viele Parkplätze im Dorfzentrum sind unbefestigt; achten Sie auf Schlamm.",
+              "Nutzen Sie die Fahrtzeit, um die umliegenden Appellationen im Trockenen zu sehen.",
+              "Buchen Sie Weinverkostungen im Voraus, da diese bei Regen begehrter sind.",
+              "Halten Sie einen Regenschirm griffbereit für den Weg vom Parkplatz."
+            ],
+            "hu": [
+              "Vezessen óvatosan a szűk utakon, mert a látási viszonyok korlátozottak lehetnek.",
+              "A központban több parkoló nem aszfaltozott, figyeljen a sárra.",
+              "Használja ki az időt a környező borvidékek szárazon történő bejárására.",
+              "Foglaljon borkóstolót előre, mert esőben nagyobb rájuk az igény.",
+              "Tartson kéznél esernyőt a parkolótól a bejáratig tartó rövid útra."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile înguste, vizibilitatea poate fi redusă.",
+              "Multe parcări din centru nu sunt asfaltate; atenție la noroi.",
+              "Folosiți timpul pentru a vedea zonele viticole din jur rămânând uscat.",
+              "Rezervați degustările în avans, sunt mai solicitate pe ploaie.",
+              "Aveți o umbrelă la îndemână pentru drumul de la parcare la obiective."
+            ],
+            "en": [
+              "Drive carefully on the narrow roads as visibility may be reduced.",
+              "Some parking lots near the center are unpaved; watch out for mud.",
+              "Use the driving time to see the surrounding appellations while staying dry.",
+              "Pre-book wine tastings as they are more popular during rainy weather.",
+              "Keep an umbrella handy for the walk from the parking area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Vormittag beginnt mit einer Fahrt durch die winterliche Landschaft von Saint-Émilion.\nIn Pomerol sehen wir die Ruhe der Weinberge, bevor wir den Markt in Libourne besuchen.\nMittags wärmen wir uns in einem Restaurant mit lokaler Küche auf.\nDer Nachmittag bei Château Figeac bietet gemütliche Verkostungen, bevor wir im Dunkeln zurückkehren.",
+            "hu": "Fagyos reggelen indulunk útnak Saint-Émilion téli tájai között.\nPomerolban a dűlők téli nyugalmát csodáljuk, majd ellátogatunk a libourne-i piacra.\nDélben egy helyi étteremben melegszünk fel tradicionális fogásokkal.\nA Château Figeac délutáni programja után a kivilágított falun keresztül térünk vissza.",
+            "ro": "O dimineață geroasă începe cu o plimbare prin peisajul de iarnă din Saint-Émilion.\nÎn Pomerol vedem liniștea viilor înainte de a vizita piața din Libourne.\nLa prânz ne încălzim într-un restaurant cu specific local.\nDupă-amiaza la Château Figeac oferă degustări primitoare înainte de lăsarea serii.",
+            "en": "A frosty morning starts with a drive through the winter landscape of Saint-Émilion.\nIn Pomerol, we see the winter stillness of the vines before visiting Libourne market.\nAt noon, we warm up in a restaurant with local cuisine.\nThe afternoon at Château Figeac offers cozy tastings before returning in the dark."
+          },
+          "stops": [
+            {
+              "name": "Saint-Émilion Village",
+              "tip_5lang": {
+                "de": "Im Winter ist es einfacher, einen Parkplatz in der Nähe des Zentrums zu finden.",
+                "hu": "Télen sokkal könnyebb parkolót találni a központ közvetlen közelében.",
+                "ro": "Iarna este mult mai ușor să găsiți parcare aproape de centru.",
+                "en": "It is much easier to find parking near the center during winter."
+              }
+            },
+            {
+              "name": "Pomerol Wine Region",
+              "tip_5lang": {
+                "de": "Die kahlen Weinberge haben im Winter eine ganz eigene Ästhetik.",
+                "hu": "A kopár szőlőtőkéknek télen sajátos esztétikája van.",
+                "ro": "Viile golașe au o estetică aparte în timpul iernii.",
+                "en": "The bare vineyards have a unique aesthetic during the winter."
+              }
+            },
+            {
+              "name": "Libourne Market",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Winterprodukte auf dem Markt.",
+                "hu": "Kóstolja meg a szezonális téli termékeket a piacon.",
+                "ro": "Gustați produsele sezoniere de iarnă în piață.",
+                "en": "Sample seasonal winter products at the market stalls."
+              }
+            },
+            {
+              "name": "Château Figeac",
+              "tip_5lang": {
+                "de": "Die Weinkeller bieten eine willkommene Wärme gegenüber der Außenluft.",
+                "hu": "A borospincék kellemes meleget nyújtanak a kinti levegőhöz képest.",
+                "ro": "Cramele oferă o căldură binevenită față de aerul de afară.",
+                "en": "The wine cellars provide a welcome warmth compared to the outside air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den kleinen Landstraßen am frühen Morgen.",
+              "Die Heizung im Auto sorgt für angenehme Pausen zwischen den Stopps.",
+              "Viele Weingüter erfordern im Winter eine vorherige Anmeldung für Touren.",
+              "Genießen Sie die beleuchteten Fassaden des Dorfes am späten Nachmittag.",
+              "Halten Sie die Tankfüllung im Auge; einige Tankstellen haben im Winter kürzer auf."
+            ],
+            "hu": [
+              "Kora reggel figyeljen a jegesedésre a kisebb mellékutakon.",
+              "Az autó fűtése kellemes pihenést nyújt a megállók közötti úton.",
+              "Sok borászatnál télen kötelező az előzetes bejelentkezés a túrákra.",
+              "Élvezze a falu kivilágított épületeit a késő délutáni órákban.",
+              "Figyeljen az üzemanyagszintre, néhány kút télen korábban zárhat."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile secundare dimineața devreme.",
+              "Căldura din mașină oferă o pauză plăcută între obiective.",
+              "Multe crame necesită rezervare prealabilă pentru tururi în timpul iernii.",
+              "Bucurați-vă de fațadele iluminate ale satului după-amiaza târziu.",
+              "Verificați nivelul combustibilului, unele benzinării pot închide mai devreme."
+            ],
+            "en": [
+              "Watch for black ice on small country roads during the early morning.",
+              "The car's heating provides a nice break between outdoor stops.",
+              "Many wineries require advance booking for tours during the winter months.",
+              "Enjoy the illuminated facades of the village in the late afternoon.",
+              "Keep an eye on the fuel level; some stations may have limited hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -972,34 +2080,331 @@
           "In summer, a 'Petit Train' shuttle often runs from the station.",
           "Buy your tickets in advance to avoid queues at Bordeaux station."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Saint-Émilion ist von Bordeaux oder Libourne aus perfekt mit dem Zug erreichbar. Der kurze Spaziergang vom Bahnhof ins Dorf führt Sie direkt durch die ersten Weinberge.\n\nVerbringen Sie den Tag damit, die historischen Monumente zu Fuß zu erkunden. Der Zug bietet eine entspannte Rückreise, während Sie die Aussicht auf die Weinlandschaft genießen.",
+            "hu": "Saint-Émilion tökéletesen megközelíthető vonattal Bordeaux-ból vagy Libourne-ból. Az állomástól a faluba vezető rövid séta közvetlenül az első szőlőtőkék mellett visz el.\n\nTöltse a napot a történelmi műemlékek gyalogos felfedezésével. A vonat kényelmes hazautat biztosít, miközben gyönyörködhet a borvidék látványában.",
+            "ro": "Saint-Émilion este perfect accesibil cu trenul din Bordeaux sau Libourne. Scurta plimbare de la gară în sat vă poartă chiar printre primele rânduri de viță de vie.\n\nPetreceți ziua explorând monumentele istorice la pas. Trenul oferă o călătorie de întoarcere relaxantă, în timp ce admirați peisajul viticol.",
+            "en": "Saint-Émilion is easily accessible by train from Bordeaux or Libourne. The short walk from the station into the village takes you right past the first prestigious vines.\n\nSpend your day exploring the historic monuments on foot. The train offers a stress-free return journey while you enjoy the vineyard views through the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Libourne",
+                "hu": "Libourne vasútállomás",
+                "ro": "Gara Libourne",
+                "en": "Libourne Station"
+              },
+              "tip_5lang": {
+                "de": "Umsteigen in den Regionalzug nach Saint-Émilion.",
+                "hu": "Szálljon át a Saint-Émilion felé tartó vonatra.",
+                "ro": "Schimbați cu trenul regional spre Saint-Émilion.",
+                "en": "Transfer here for the regional train to Saint-Émilion."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Saint-Émilion",
+                "hu": "Saint-Émilion vasútállomás",
+                "ro": "Gara Saint-Émilion",
+                "en": "Saint-Émilion Station"
+              },
+              "tip_5lang": {
+                "de": "Der Fußweg ins Dorf dauert etwa 20 Minuten bergauf.",
+                "hu": "A gyalogút a faluba kb. 20 perc hegynek felfelé.",
+                "ro": "Drumul pe jos până în sat durează 20 de minute la deal.",
+                "en": "The walk to the village takes about 20 minutes uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Oberstadt (Ville Haute)",
+                "hu": "Felsőváros",
+                "ro": "Orașul de Sus",
+                "en": "Upper Town"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stiftskirche und den Kreuzgang.",
+                "hu": "Látogassa meg a társaskáptalani templomot.",
+                "ro": "Vizitați biserica colegială și claustrul.",
+                "en": "Visit the Collegiate Church and its beautiful cloister."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum & Mittagessen",
+                "hu": "Központ és ebéd",
+                "ro": "Centru și prânz",
+                "en": "Center & Lunch"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Menü in einer der Brasserien.",
+                "hu": "Élvezzen egy menüt az egyik brassériában.",
+                "ro": "Savurați un meniu la una dintre braserii.",
+                "en": "Enjoy a set lunch menu at a local brasserie."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Clos du Roy",
+                "tip": "Gute Küche im Herzen der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Clos du Roy",
+                "tip": "Kiváló konyha a város szívében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Clos du Roy",
+                "tip": "Bucătărie bună în inima orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Clos du Roy",
+                "tip": "Quality local cuisine in the town heart."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ermitage",
+                "tip": "Die Höhle des Heiligen Émilion.",
+                "emoji": "⛪"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ermitage",
+                "tip": "Szent Émilion barlangja.",
+                "emoji": "⛪"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ermitage",
+                "tip": "Peștera Sfântului Émilion.",
+                "emoji": "⛪"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ermitage",
+                "tip": "The original cave of Saint Emilion.",
+                "emoji": "⛪"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wein-Boutiquen",
+                "tip": "Versandservice nach Hause möglich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borboltok",
+                "tip": "Házhozszállítás is kérhető."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de vinuri",
+                "tip": "Serviciu de expediere la domiciliu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wine Boutiques",
+                "tip": "Many shops offer international shipping."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugzeiten, sie sind nicht sehr häufig.",
+              "Vom Bahnhof gibt es im Sommer oft einen kleinen Shuttle-Zug.",
+              "Kaufen Sie die Tickets am Automaten in Bordeaux."
+            ],
+            "hu": [
+              "Ellenőrizze a vonatidőket, nem járnak túl gyakran.",
+              "Az állomástól nyáron gyakran közlekedik kisvonat-shuttle.",
+              "Vásárolja meg a jegyeket az automatánál Bordeaux-ban."
+            ],
+            "ro": [
+              "Verificați orarul trenurilor, nu sunt foarte frecvente.",
+              "De la gară există adesea un trenuleț-shuttle în timpul verii.",
+              "Cumpărați biletele de la automat în Bordeaux."
+            ],
+            "en": [
+              "Check train schedules carefully; they are not very frequent.",
+              "In summer, a 'Petit Train' shuttle often runs from the station.",
+              "Buy your tickets in advance to avoid queues at Bordeaux station."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Bahnhof Libourne, wo wir im trockenen Warteraum auf den Zug warten.\nNach der Ankunft in Saint-Émilion nutzen wir den Shuttle-Service, um nicht im Regen laufen zu müssen.\nMittags genießen wir ein langes Mittagessen im Zentrum, während es draußen regnet.\nDer Nachmittag ist den Museen und Kirchen gewidmet, bevor es mit dem Zug zurückgeht.",
+            "hu": "A nap a libourne-i vasútállomáson indul, a száraz váróteremben várakozunk.\nMegérkezés után a helyi buszt választjuk, hogy elkerüljük a gyaloglást az esőben.\nDélben egy hosszas ebédet tartunk a központban, figyelve a kinti esőt.\nA délutánt a múzeumoknak és a templomoknak szenteljük, majd vonattal térünk vissza.",
+            "ro": "Ziua începe la gara din Libourne, unde așteptăm trenul la adăpost.\nDupă sosire, folosim serviciul de transfer pentru a nu merge prin ploaie.\nLa prânz luăm o masă lungă în centru, în timp ce afară plouă.\nDupă-amiaza este dedicată muzeelor și bisericilor înainte de întoarcere.",
+            "en": "The day starts at Libourne station, waiting for the train in the dry waiting room.\nUpon arrival, we take the local shuttle to avoid walking in the rain.\nAt noon, we enjoy a long lunch in the center while watching the rain outside.\nThe afternoon is dedicated to museums and churches before taking the train back."
+          },
+          "stops": [
+            {
+              "name": "Libourne Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bahnsteig zum Warten.",
+                "hu": "Használja a fedett peront a várakozáshoz.",
+                "ro": "Folosiți peronul acoperit pentru așteptare.",
+                "en": "Use the covered platform for waiting."
+              }
+            },
+            {
+              "name": "Saint-Émilion Station",
+              "tip_5lang": {
+                "de": "Der Fußweg ins Dorf dauert 15 Minuten; ein Schirm ist hier wichtig.",
+                "hu": "A falu 15 perc séta; itt mindenképp kell az esernyő.",
+                "ro": "Drumul spre sat durează 15 minute; umbrela este necesară aici.",
+                "en": "The walk to the village takes 15 minutes; an umbrella is essential here."
+              }
+            },
+            {
+              "name": "Upper Town",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten etwas Schutz vor dem Wind.",
+                "hu": "A szűk utcák valamennyi védelmet nyújtanak a szél ellen.",
+                "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
+                "en": "The narrow streets provide some protection against the wind."
+              }
+            },
+            {
+              "name": "Center & Lunch",
+              "tip_5lang": {
+                "de": "Ein gemütliches Restaurant ist der beste Ort für eine Regenpause.",
+                "hu": "Egy barátságos étterem a legjobb hely az esőszünethez.",
+                "ro": "Un restaurant primitor este cel mai bun loc pentru pauza de ploaie.",
+                "en": "A cozy restaurant is the best place for a rain break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugzeiten, da es bei schlechtem Wetter zu Verspätungen kommen kann.",
+              "Der Weg vom Bahnhof zum Dorf ist nicht überdacht; Regenkleidung ist Pflicht.",
+              "Nutzen Sie die kleinen Touristenbusse, wenn diese bei Regen fahren.",
+              "Die Bahnhöfe haben kleine Wartebereiche, die vor Regen schützen.",
+              "Planen Sie Pufferzeiten für die Rückfahrt ein."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, rossz időben előfordulhatnak késések.",
+              "Az állomástól a faluig vezető út nyitott; az esőkabát kötelező.",
+              "Használja a kis turistabuszokat, ha esőben is közlekednek.",
+              "Az állomások rendelkeznek kisebb fedett várókkal az eső ellen.",
+              "Tervezzen be tartalékidőt a visszautazáshoz."
+            ],
+            "ro": [
+              "Verificați orarul trenurilor, pot apărea întârzieri pe vreme rea.",
+              "Drumul de la gară spre sat este deschis; pelerina de ploaie este obligatorie.",
+              "Folosiți micile autobuze turistice dacă circulă pe ploaie.",
+              "Gările au zone de așteptare acoperite care protejează de ploaie.",
+              "Planificați timp suplimentar pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Check train schedules as bad weather may cause slight delays.",
+              "The path from the station to the village is open; rain gear is a must.",
+              "Use the small tourist shuttles if they are operating in the rain.",
+              "Stations have small covered waiting areas to shield you from the rain.",
+              "Plan for some buffer time when heading back to the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Zugfahrt durch die frostige Dordogne-Ebene.\nIn Saint-Émilion spazieren wir durch die ruhigen, winterlichen Straßen.\nMittags wärmen wir uns in einem Café mit Blick auf die monolithische Kirche.\nDer Nachmittag bietet Zeit für Souvenirs, bevor wir mit dem letzten Tageslicht zum Bahnhof zurückkehren.",
+            "hu": "Tiszta téli reggelen vonatozunk a fagyos Dordogne-síkságon keresztül.\nSaint-Émilionban a csendes, téli hangulatú utcákon sétálunk.\nDélben egy kávézóban melegszünk fel, kilátással a monolitikus templomra.\nA délutáni szuvenírvásárlás után az utolsó fényeknél sétálunk vissza az állomásra.",
+            "ro": "O dimineață senină de iarnă începe cu o călătorie cu trenul prin valea înghețată a Dordognei.\nÎn Saint-Émilion ne plimbăm pe străzile liniștite cu atmosferă de iarnă.\nLa prânz ne încălzim într-o cafenea cu vedere la biserica monolitică.\nDupă cumpărăturile de după-amiază, ne întoarcem la gară la lăsarea serii.",
+            "en": "A clear winter morning begins with a train ride through the frosty Dordogne plain.\nIn Saint-Émilion, we walk through the quiet, wintery streets.\nAt noon, we warm up in a cafe with a view of the monolithic church.\nAfter afternoon souvenir shopping, we return to the station in the last light of day."
+          },
+          "stops": [
+            {
+              "name": "Libourne Station",
+              "tip_5lang": {
+                "de": "Der Warteraum ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită pe timpul iernii.",
+                "en": "The waiting room is heated during the winter."
+              }
+            },
+            {
+              "name": "Saint-Émilion Station",
+              "tip_5lang": {
+                "de": "Laufen Sie zügig zum Dorf, um warm zu bleiben.",
+                "hu": "Sétáljon tempósan a faluig, hogy ne fázzon.",
+                "ro": "Mergeți în ritm alert spre sat pentru a vă menține căldura.",
+                "en": "Walk briskly to the village to keep yourself warm."
+              }
+            },
+            {
+              "name": "Upper Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, die oft nur im Winter so gut ist.",
+                "hu": "Élvezze a tiszta kilátást, ami gyakran csak télen ilyen szép.",
+                "ro": "Bucurați-vă de vizibilitatea clară, adesea mai bună iarna.",
+                "en": "Enjoy the clear views, which are often best during winter."
+              }
+            },
+            {
+              "name": "Center & Lunch",
+              "tip_5lang": {
+                "de": "Viele Plätze im Freien haben im Winter Heizstrahler.",
+                "hu": "Több terasz rendelkezik kültéri fűtőtestekkel télen is.",
+                "ro": "Multe terase au încălzitoare exterioare chiar și iarna.",
+                "en": "Several outdoor terraces have heaters even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die reduzierten Zugfrequenzen im Winterfahrplan.",
+              "Die Züge sind im Winter meist gut beheizt und sehr komfortabel.",
+              "Kommen Sie nicht zu früh zum Bahnhof Saint-Émilion, da es dort kaum Heizung gibt.",
+              "Tragen Sie festes Schuhwerk für den Weg auf unbefestigten Wegen.",
+              "Ein heißer Tee für die Rückfahrt im Zug ist sehr angenehm."
+            ],
+            "hu": [
+              "Figyeljen a téli menetrend szerinti ritkább vonatközlekedésre.",
+              "A vonatok télen általában jól fűtöttek és kényelmesek.",
+              "Ne érkezzen túl korán a Saint-Émilion állomásra, mert alig van fűtés.",
+              "Viseljen stabil lábbelit a burkolatlan utakon való közlekedéshez.",
+              "Egy forró tea a visszautazáshoz a vonaton nagyon kellemes."
+            ],
+            "ro": [
+              "Fiți atenți la frecvența redusă a trenurilor în programul de iarnă.",
+              "Trenurile sunt de obicei bine încălzite și confortabile iarna.",
+              "Nu ajungeți prea devreme la gara Saint-Émilion, deoarece nu este încălzită.",
+              "Purtați încălțăminte robustă pentru porțiunile de drum neasfaltate.",
+              "Un ceai fierbinte pentru drumul de întoarcere cu trenul este binevenit."
+            ],
+            "en": [
+              "Check for reduced train frequencies in the winter schedule.",
+              "Trains are usually well-heated and very comfortable in winter.",
+              "Don't arrive too early at Saint-Émilion station as there is limited heating.",
+              "Wear sturdy footwear for the unpaved portions of the path.",
+              "A hot tea for the return train journey is very pleasant."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.saint-emilion-tourisme.com/",
-    "events": "https://www.saint-emilion-tourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "https://www.saint-emilion-tourisme.com/billetterie/",
-    "transit_official": "https://www.transgironde.fr/",
-    "language_tips": {
-      "de": "Saint-Émilion ist UNESCO-Weinhauptstadt, Englisch wird in den Weingütern und Verkostungssalons fließend gesprochen. Lernen Sie 'grand cru classé' für die Klassifikation und 'merlot' (Hauptrebsorte hier) korrekt aussprechen. Bei Verkostungen 'un verre, s'il vous plaît' und beim Bezahlen Trinkgeld nicht vergessen.",
-      "hu": "Saint-Émilion UNESCO borfőváros, a borászatokban és kóstolószalonokban folyékonyan beszélnek angolul. Tanuld meg a 'grand cru classé' kifejezést az osztályozáshoz, és a 'merlot' (itteni fő szőlőfajta) helyes kiejtését. Kóstoláskor 'un verre, s'il vous plaît', fizetéskor ne feledd a borravalót.",
-      "ro": "Saint-Émilion este capitala viticolă UNESCO, engleza se vorbește fluent la crame și saloanele de degustare. Învățați 'grand cru classé' pentru clasificare și pronunția corectă a 'merlot' (soiul principal aici). La degustări, 'un verre, s'il vous plaît', iar la plată nu uitați bacșișul.",
-      "en": "Saint-Émilion is a UNESCO wine capital - English flows freely at wineries and tasting rooms. Learn 'grand cru classé' for the classification and pronounce 'merlot' (the main grape here) correctly. At tastings 'un verre, s'il vous plaît', and don't forget tipping when paying."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, perfekte Weinverkostungs-Bedingungen und blühende Weinberge. Juli und August voll mit Touristen, Parken schwierig. Im September-Oktober findet die Weinlese statt, ein authentisches Erlebnis. Winter ruhig, viele Weingüter geschlossen.",
-      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, tökéletes borkóstoló feltételek és virágzó szőlőültetvények. Júliusban és augusztusban zsúfolt, parkolni nehéz. Szeptemberben-októberben van a szüret, hiteles élmény. Télen csendes, sok borászat zárva.",
-      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, condiții perfecte pentru degustări și podgorii înflorite. Iulie-august aglomerate cu turiști, parcare dificilă. În septembrie-octombrie are loc culesul viilor, o experiență autentică. Iarna liniștită, multe crame închise.",
-      "en": "May-June and September-October are ideal: mild weather, perfect tasting conditions and blooming vineyards. July-August packed with tourists, parking tough. September-October brings the wine harvest - an authentic experience. Winter is quiet, many estates closed."
-    },
-    "neighborhood_warnings": {
-      "de": "Saint-Émilion ist sehr sicher, eine charmante mittelalterliche Weinstadt. Im Sommer Parken außerhalb der Mauern. Beim Fahren zwischen Weingütern Mass beim Verkosten halten - die Polizei kontrolliert! Steile Pflasterstraßen erfordern feste Schuhe.",
-      "hu": "Saint-Émilion nagyon biztonságos, bájos középkori borváros. Nyáron a falakon kívül kell parkolni. Borászatok közti vezetésnél mértékkel kóstolj - a rendőrség ellenőriz! Meredek macskaköves utcák szilárd cipőt igényelnek.",
-      "ro": "Saint-Émilion este foarte sigur, un oraș viticol medieval fermecător. Vara, parcarea este obligatorie în afara zidurilor. La condusul între crame, degustați cu măsură - poliția controlează! Străzile abrupte pavate cu piatră necesită încălțăminte solidă.",
-      "en": "Saint-Émilion is very safe, a charming medieval wine town. Summer forces parking outside the walls. When driving between wineries taste in moderation - police do check! Steep cobbled streets demand sturdy shoes."
-    },
-    "parking_real_time": ""
   }
 }

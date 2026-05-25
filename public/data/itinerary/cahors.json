@@ -290,6 +290,412 @@
           "The climb to Mont Saint-Cyr is steep, bring plenty of water.",
           "The 'Secret Gardens' are scattered throughout the city, look for the golden leaves on the ground."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt an der majestätischen Pont Valentré, einem Meisterwerk mittelalterlicher Verteidigungsarchitektur. Danach schlendern Sie durch die versteckten Gärten der Altstadt zur Kathedrale Saint-Étienne. Mittags genießen Sie die lebhafte Atmosphäre des Marktes mit regionalen Köstlichkeiten. Den Nachmittag widmen Sie der Kunst im Musée Henri-Martin, bevor Sie den Tag mit einem spektakulären Blick vom Mont Saint-Cyr über die Lot-Schleife ausklingen lassen.",
+            "hu": "A napod a fenséges Valentré-hídnál indul, amely a középkori védelmi építészet remekműve. Ezután az óváros rejtett kertjein keresztül sétálsz el a Saint-Étienne székesegyházhoz. Ebédidőben élvezd a piac pezsgő hangulatát és a helyi finomságokat. A délutánt Henri Martin művészetének szentelheted a múzeumban, majd a napot a Mont Saint-Cyr kilátójánál zárod, ahonnan lenyűgöző panoráma nyílik a Lot folyó kanyarulatára.",
+            "ro": "Ziua începe la maiestuosul Pont Valentré, o capodoperă a arhitecturii medievale de apărare. Apoi, vă plimbați prin grădinile ascunse ale centrului vechi până la Catedrala Saint-Étienne. La prânz, bucurați-vă de atmosfera vibrantă a pieței cu delicatese regionale. Dedicați după-amiaza artei la Muzeul Henri-Martin, înainte de a încheia ziua cu o priveliște spectaculoasă de pe Mont Saint-Cyr asupra buclei râului Lot.",
+            "en": "Your day starts at the majestic Pont Valentré, a masterpiece of medieval defensive architecture. Then, stroll through the hidden gardens of the old town to Saint-Étienne Cathedral. At lunchtime, enjoy the lively atmosphere of the market with regional delicacies. Dedicate the afternoon to art at the Musée Henri-Martin, before ending the day with a spectacular view from Mont Saint-Cyr over the Lot river loop."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Suchen Sie den kleinen Teufel, der in den Turm eingemauert ist.",
+                "hu": "Keresd meg a torony falába épített apró ördögfigurát.",
+                "ro": "Căutați micul diavol sculptat în piatra turnului central.",
+                "en": "Look for the small devil figure carved into the central tower."
+              }
+            },
+            {
+              "name": "Les Jardins Secrets",
+              "tip_5lang": {
+                "de": "Folgen Sie den Schildern durch die Gassen zu den versteckten Oasen.",
+                "hu": "Kövesd a táblákat a sikátorokon át a rejtett oázisokhoz.",
+                "ro": "Urmați indicatoarele prin străduțe pentru a găsi oazele ascunse.",
+                "en": "Follow the signs through the alleys to find the hidden garden oases."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Étienne",
+              "tip_5lang": {
+                "de": "Bewundern Sie die riesigen Kuppeln und den spätgotischen Kreuzgang.",
+                "hu": "Csodáld meg a hatalmas kupolákat és a késő gótikus kolostort.",
+                "ro": "Admirați cupolele imense și claustrul în stil gotic târziu.",
+                "en": "Admire the massive domes and the late Gothic cloister."
+              }
+            },
+            {
+              "name": "Marché de Cahors",
+              "tip_5lang": {
+                "de": "Probieren Sie den berühmten Malbec-Wein und lokalen Ziegenkäse.",
+                "hu": "Kóstold meg a híres malbec bort és a helyi kecskesajtot.",
+                "ro": "Gustați celebrul vin Malbec și brânza locală de capră.",
+                "en": "Taste the famous Malbec wine and local goat cheese."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Entdecken Sie die neoimpressionistischen Werke von Henri Martin.",
+                "hu": "Fedezd fel Henri Martin neoimpresszionista alkotásait.",
+                "ro": "Descoperiți lucrările neo-impresioniste ale lui Henri Martin.",
+                "en": "Discover the neo-impressionist works of Henri Martin."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Lookout",
+              "tip_5lang": {
+                "de": "Der beste Ort für ein Panoramafoto der Stadtschleife.",
+                "hu": "A legjobb hely egy panorámafotóhoz a város kanyarulatáról.",
+                "ro": "Cel mai bun loc pentru o fotografie panoramică a buclei râului.",
+                "en": "The best spot for a panoramic photo of the city loop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vin de Cahors (Malbec)",
+                "tip": "Der tiefrote 'Black Wine' der Region."
+              },
+              {
+                "name": "Le Marché",
+                "tip": "Frische Trüffel und Gänseleber direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cahors-i bor (Malbec)",
+                "tip": "A régió mélyvörös 'fekete bora'."
+              },
+              {
+                "name": "Le Marché",
+                "tip": "Friss szarvasgomba és libamáj közvetlenül a termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Cahors (Malbec)",
+                "tip": "Celebrul 'vin negru' intens al regiunii."
+              },
+              {
+                "name": "Le Marché",
+                "tip": "Trufe proaspete și foie gras direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cahors Wine (Malbec)",
+                "tip": "The deep red 'Black Wine' of the region."
+              },
+              {
+                "name": "Le Marché",
+                "tip": "Fresh truffles and foie gras directly from producers."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardins Secrets",
+                "tip": "Kleine grüne Oasen versteckt in der Altstadt.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Mont Saint-Cyr",
+                "tip": "Ruhiger Aussichtspunkt hoch über dem Fluss.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rejtett kertek",
+                "tip": "Apró zöld oázisok az óvárosban elrejtve.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Mont Saint-Cyr",
+                "tip": "Csendes kilátóhely magasan a folyó felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile ascunse",
+                "tip": "Mici oaze verzi ascunse în orașul vechi.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Mont Saint-Cyr",
+                "tip": "Punct de observație liniștit deasupra râului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Secret Gardens",
+                "tip": "Small green oases hidden in the old town.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Mont Saint-Cyr",
+                "tip": "Quiet viewpoint high above the river.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Halles de Cahors",
+                "tip": "Überdachter Markt für lokale Gourmetprodukte."
+              },
+              {
+                "name": "Rue Nationale",
+                "tip": "Haupteinkaufsstraße mit lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halles de Cahors",
+                "tip": "Fedett piac helyi kézműves élelmiszerekkel."
+              },
+              {
+                "name": "Rue Nationale",
+                "tip": "Fő bevásárlóutca helyi kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Halles de Cahors",
+                "tip": "Piață acoperită pentru produse gourmet locale."
+              },
+              {
+                "name": "Rue Nationale",
+                "tip": "Strada principală cu produse artizanale locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Halles de Cahors",
+                "tip": "Covered market for local gourmet products."
+              },
+              {
+                "name": "Rue Nationale",
+                "tip": "Main shopping street with local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Cahors ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Markttage sind Mittwoch und Samstag Vormittag.",
+              "Der Aufstieg zum Mont Saint-Cyr ist steil, nehmen Sie ausreichend Wasser mit.",
+              "Die 'Jardins Secrets' sind über die ganze Stadt verteilt, suchen Sie nach den goldenen Blättern am Boden."
+            ],
+            "hu": [
+              "Cahors gyalogosan jól bejárható, viselj kényelmes cipőt a macskakövek miatt.",
+              "A piaci napok szerda és szombat délelőtt vannak.",
+              "A Mont Saint-Cyr-re vezető út meredek, vigyél magaddal elég vizet.",
+              "A 'rejtett kertek' az egész városban elszórva találhatók, keresd az arany leveleket a földön."
+            ],
+            "ro": [
+              "Cahors este ușor de explorat la pas, purtați încălțăminte comodă pentru pavaj.",
+              "Zilele de piață sunt miercuri și sâmbătă dimineața.",
+              "Urcarea spre Mont Saint-Cyr este abruptă, luați apă suficientă.",
+              "Grădinile ascunse sunt răspândite prin oraș, căutați frunzele aurii de pe jos."
+            ],
+            "en": [
+              "Cahors is very pedestrian-friendly, wear comfortable shoes for the cobblestones.",
+              "Market days are Wednesday and Saturday mornings.",
+              "The climb to Mont Saint-Cyr is steep, bring plenty of water.",
+              "The 'Secret Gardens' are scattered throughout the city, look for the golden leaves on the ground."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit sanftem Regen an der Pont Valentré, wo die nassen Steine dunkel glänzen. Mittags bietet die Kathedrale Schutz, während der Marktduft durch die feuchte Luft zieht. Nachmittags laden die Museen zum Verweilen im Trockenen ein. Abends blickt man vom Mont Saint-Cyr auf die neblige Schleife des Lot.",
+            "hu": "A nap lágy esővel indul a Pont Valentré-nél, ahol a vizes kövek sötéten csillognak. Délben a székesegyház nyújt menedéket, miközben a piaci illatok átszűrik a párás levegőt. Délután a múzeumok hívogatnak száraz pihenésre. Este a Mont Saint-Cyr-ről tekinthetünk le a Lot folyó ködös kanyarulatára.",
+            "ro": "Ziua începe cu o ploaie ușoară la Pont Valentré, unde pietrele umede strălucesc întunecat. La prânz, catedrala oferă adăpost, în timp ce aromele pieței plutesc prin aerul umed. După-amiaza, muzeele vă invită la un popas uscat. Seara, de pe Mont Saint-Cyr se vede bucla cețoasă a râului Lot.",
+            "en": "The day begins with gentle rain at Pont Valentré, where the wet stones glisten darkly. At noon, the cathedral offers shelter as market scents drift through the damp air. In the afternoon, museums invite you for a dry stay. In the evening, look down from Mont Saint-Cyr at the misty loop of the Lot."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Vorsicht, die mittelalterlichen Pflastersteine sind bei Regen sehr rutschig.",
+                "hu": "Vigyázat, a középkori macskakövek esőben nagyon csúszósak.",
+                "ro": "Atenție, pavajul medieval este foarte alunecos pe ploaie.",
+                "en": "Be careful, the medieval cobblestones are very slippery in the rain."
+              }
+            },
+            {
+              "name": "Les Jardins Secrets",
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Regen besonders grün und mystisch.",
+                "hu": "A kertek esőben különösen zöldnek és misztikusnak tűnnek.",
+                "ro": "Grădinile par deosebit de verzi și mistice în ploaie.",
+                "en": "The gardens look particularly green and mystical in the rain."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Étienne",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer trocken zu überstehen.",
+                "hu": "Ideális hely egy erős zápor szárazon történő átvészeléséhez.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Marché de Cahors",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den nahen Markthallen, falls es zu stark regnet.",
+                "hu": "Keressen menedéket a közeli vásárcsarnokban, ha túl erősen esik.",
+                "ro": "Căutați adăpost în halele pieței din apropiere dacă plouă prea tare.",
+                "en": "Seek shelter in the nearby market halls if it rains too hard."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Regenschirme und Mäntel.",
+                "hu": "Használja a ruhatárat a vizes esernyők és kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru umbrelele și pelerinele umede.",
+                "en": "Use the cloakroom for your wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Lookout",
+              "tip_5lang": {
+                "de": "Der Weg kann schlammig sein; festes Schuhwerk ist unbedingt erforderlich.",
+                "hu": "Az út sáros lehet; a stabil lábbeli elengedhetetlen.",
+                "ro": "Poteca poate fi noroioasă; încălțămintea stabilă este esențială.",
+                "en": "The path can be muddy; sturdy footwear is essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Markthallen bieten eine trockene Alternative zum Außenmarkt.",
+              "Viele Cafés in der Altstadt haben überdachte Terrassen.",
+              "Ein Regenschirm ist bei den schmalen Durchgängen oft praktischer als ein Poncho."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A vásárcsarnok száraz alternatívát kínál a külső piac helyett.",
+              "Az óváros számos kávézója rendelkezik fedett terasszal.",
+              "Az esernyő gyakran praktikusabb a szűk átjárókban, mint az esőponcsó."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Halele pieței oferă o alternativă uscată la piața exterioară.",
+              "Multe cafenele din orașul vechi au terase acoperite.",
+              "O umbrelă este adesea mai practică decât o pelerină în pasajele înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The market halls offer a dry alternative to the outdoor market.",
+              "Many cafes in the old town have covered terraces.",
+              "An umbrella is often more practical than a poncho in the narrow passages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Pont Valentré zeigt den Lot in winterlicher Stille. Mittags wärmt man sich in der Kathedrale auf, bevor man lokale Winterdelikatessen probiert. Nachmittags leuchten die Farben im Museum besonders hell. Den Sonnenuntergang erlebt man bereits früh am Mont Saint-Cyr über der beleuchteten Stadt.",
+            "hu": "A Pont Valentré-nél egy fagyos reggel téli csendben mutatja a Lot folyót. Délben a székesegyházban melegedhetünk fel, mielőtt megkóstolnánk a helyi téli finomságokat. Délután a múzeum színei különösen élénken ragyognak. A naplementét már korán átélhetjük a Mont Saint-Cyr-ről a kivilágított város felett.",
+            "ro": "O dimineață geroasă la Pont Valentré arată râul Lot într-o liniște hibernală. La prânz vă încălziți în catedrală înainte de a gusta delicii locale de iarnă. După-amiaza, culorile din muzeu strălucesc deosebit de tare. Apusul poate fi văzut devreme de pe Mont Saint-Cyr deasupra orașului iluminat.",
+            "en": "A frosty morning at Pont Valentré shows the Lot in winter silence. At noon, warm up in the cathedral before tasting local winter delicacies. In the afternoon, the colors in the museum shine particularly brightly. Experience the early sunset from Mont Saint-Cyr over the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann sehr kalt sein; kleiden Sie sich warm an.",
+                "hu": "A folyó felől fújó szél nagyon hideg lehet; öltözzön melegen.",
+                "ro": "Vântul de pe râu poate fi foarte rece; îmbrăcați-vă gros.",
+                "en": "The wind from the river can be very cold; dress warmly."
+              }
+            },
+            {
+              "name": "Les Jardins Secrets",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Pflanzen in den kleinen Höfen.",
+                "hu": "Figyelje meg a zúzmarát a növényeken a kis udvarokban.",
+                "ro": "Observați chiciura de pe plante în curțile mici.",
+                "en": "Look for hoarfrost on the plants in the small courtyards."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Étienne",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, wirken aber angenehm ruhig.",
+                "hu": "A vastag falak tartják a hideget, de kellemesen nyugodtak.",
+                "ro": "Zidurile groase mențin frigul, dar oferă o liniște plăcută.",
+                "en": "The thick walls keep the cold but feel pleasantly quiet."
+              }
+            },
+            {
+              "name": "Marché de Cahors",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Trüffel-Toast oder Glühwein auf dem Markt.",
+                "hu": "Kóstolja meg a forró szarvasgombás pirítóst vagy forralt bort a piacon.",
+                "ro": "Gustați un toast cu trufe cald sau vin fiert la piață.",
+                "en": "Try hot truffle toast or mulled wine at the market."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez a városnézés közben.",
+                "ro": "Un loc perfect pentru a vă încălzi între vizite.",
+                "en": "A perfect place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Lookout",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 17:00 Uhr statt.",
+                "hu": "Télen a naplemente már 17:00 óra körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 17:00 iarna.",
+                "en": "Sunset occurs as early as 5:00 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wegen des kalten Windes ratsam.",
+              "Die Sonne verschwindet früh hinter den Hügeln.",
+              "Genießen Sie die Ruhe, da deutlich weniger Touristen unterwegs sind.",
+              "Warme Getränke gibt es in den Cafés rund um den Place Champollion."
+            ],
+            "hu": [
+              "A réteges öltözködés tanácsos a hideg szél miatt.",
+              "A nap korán eltűnik a dombok mögött.",
+              "Élvezze a nyugalmat, mivel sokkal kevesebb a turista.",
+              "Meleg italokat a Place Champollion körüli kávézókban talál."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este recomandată din cauza vântului rece.",
+              "Soarele dispare devreme în spatele dealurilor.",
+              "Bucurați-vă de liniște, deoarece sunt mult mai puțini turiști.",
+              "Băuturi calde găsiți la cafenelele din jurul Place Champollion."
+            ],
+            "en": [
+              "Layering clothes is advisable because of the cold wind.",
+              "The sun disappears early behind the hills.",
+              "Enjoy the quiet, as there are significantly fewer tourists.",
+              "Warm drinks are available in the cafes around Place Champollion."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -522,6 +928,360 @@
           "Avoid the midday hours in midsummer.",
           "Cycling is allowed in the old town, but be mindful of pedestrians."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Cahors und seine Umgebung auf zwei Rädern. Starten Sie an der Pont Valentré und folgen Sie dem Lot-Ufer zur Fontaine des Chartreux. Eine ausgiebige Tour entlang des Flusses führt Sie schließlich zurück ins Zentrum zum Markt. Die größte Herausforderung ist die Fahrt zum Mont Saint-Cyr, die Sie mit dem besten Panorama der Stadt belohnt. Den Abschluss bildet eine entspannte Runde durch die Gassen der historischen Altstadt.",
+            "hu": "Fedezd fel Cahors-t és környékét két keréken. Kezdj a Valentré-hídnál, majd kövesd a Lot partját a Chartreux-forrásig. Egy hosszabb folyóparti tekerés után térj vissza a központba a piachoz. A legnagyobb kihívás a Mont Saint-Cyr-re való feljutás, ami a város legjobb panorámájával jutalmaz meg. A napot egy pihentető kör zárja az óváros történelmi sikátoraiban.",
+            "ro": "Explorați Cahors și împrejurimile pe două roți. Începeți la Pont Valentré și urmați malul râului Lot până la Fontaine des Chartreux. Un tur lung de-a lungul râului vă va aduce înapoi în centru, la piață. Cea mai mare provocare este urcarea la Mont Saint-Cyr, care vă recompensează cu cea mai bună panoramă a orașului. Încheiați cu o tură relaxantă prin străduțele centrului istoric.",
+            "en": "Explore Cahors and its surroundings on two wheels. Start at Pont Valentré and follow the Lot banks to the Fontaine des Chartreux. A long riverside ride eventually brings you back to the center and the market. The biggest challenge is the ride up to Mont Saint-Cyr, which rewards you with the best panorama in town. Finish with a relaxed loop through the alleys of the historic old town."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Perfekter Startpunkt am Fluss.",
+                "hu": "Tökéletes kiindulópont a folyóparton.",
+                "ro": "Punct de plecare perfect pe malul râului.",
+                "en": "Perfect starting point on the riverbank."
+              }
+            },
+            {
+              "name": "Fontaine des Chartreux",
+              "tip_5lang": {
+                "de": "Ein heiliger Ort der Kelten.",
+                "hu": "Szent hely volt a kelták számára.",
+                "ro": "Un loc sacru pentru celți.",
+                "en": "A sacred place for the Celts."
+              }
+            },
+            {
+              "name": "Lot Riverbanks Path",
+              "tip_5lang": {
+                "de": "Flache und schattige Wege.",
+                "hu": "Lapos és árnyékos ösvények.",
+                "ro": "Trasee plate și umbrite.",
+                "en": "Flat and shaded paths."
+              }
+            },
+            {
+              "name": "Halles de Cahors",
+              "tip_5lang": {
+                "de": "Decken Sie sich mit Proviant ein.",
+                "hu": "Itt feltöltheted az útravaló készleteidet.",
+                "ro": "Faceți plinul cu provizii locale.",
+                "en": "Stock up on local supplies here."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Panorama",
+              "tip_5lang": {
+                "de": "Ein harter Aufstieg, der sich lohnt.",
+                "hu": "Kemény emelkedő, de megéri.",
+                "ro": "O urcare grea, dar merită.",
+                "en": "A tough climb, but well worth it."
+              }
+            },
+            {
+              "name": "Old Town Loop",
+              "tip_5lang": {
+                "de": "Ruhiges Ausrollen durch Gassen.",
+                "hu": "Csendes gurulás a sikátorokon át.",
+                "ro": "O plimbare relaxantă prin străduțe.",
+                "en": "Quiet cycling through the alleys."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'O à la Bouche",
+                "tip": "Moderne Küche mit regionalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'O à la Bouche",
+                "tip": "Modern konyha helyi alapanyagokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'O à la Bouche",
+                "tip": "Bucătărie modernă cu produse regionale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'O à la Bouche",
+                "tip": "Modern cuisine with regional products."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lot-Uferweg",
+                "tip": "Ruhiges Radeln am Wasser.",
+                "emoji": "🚴‍♂️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lot-parti út",
+                "tip": "Csendes biciklizés a víz mellett.",
+                "emoji": "🚴‍♂️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Lot",
+                "tip": "Ciclism liniștit pe lângă apă.",
+                "emoji": "🚴‍♂️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lot River Path",
+                "tip": "Quiet cycling by the water.",
+                "emoji": "🚴‍♂️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Maison du Malbec",
+                "tip": "Große Auswahl an lokalen Weinen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Maison du Malbec",
+                "tip": "Helyi borok széles választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Maison du Malbec",
+                "tip": "O selecție largă de vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Maison du Malbec",
+                "tip": "Wide selection of local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie E-Bikes für den Aufstieg zum Mont Saint-Cyr.",
+              "Die Radwege entlang des Lot sind gut markiert.",
+              "Vermeiden Sie die Mittagsstunden im Hochsommer.",
+              "In der Altstadt ist das Radfahren erlaubt, aber nehmen Sie Rücksicht auf Fußgänger."
+            ],
+            "hu": [
+              "Bérelj elektromos kerékpárt a Mont Saint-Cyr megmászásához.",
+              "A Lot menti kerékpárutak jól jelzettek.",
+              "Nyáron kerüld a déli órákat a hőség miatt.",
+              "Az óvárosban szabad biciklizni, de figyelj a gyalogosokra."
+            ],
+            "ro": [
+              "Închiriați biciclete electrice pentru urcarea la Mont Saint-Cyr.",
+              "Pistele de biciclete de-a lungul râului Lot sunt bine marcate.",
+              "Evitați orele prânzului în plină vară.",
+              "Ciclismul este permis în orașul vechi, dar aveți grijă la pietoni."
+            ],
+            "en": [
+              "Rent e-bikes for the climb to Mont Saint-Cyr.",
+              "The bike paths along the Lot are well marked.",
+              "Avoid the midday hours in midsummer.",
+              "Cycling is allowed in the old town, but be mindful of pedestrians."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang des Lot im Regen. Die Brücke wirkt im grauen Licht heldenhaft. Mittags bieten die Hallen Schutz für eine Stärkung. Die Uferwege können spritzig sein, bieten aber leere Pfade durch die Stadt. Abends leuchten die nassen Straßen von Cahors im Scheinwerferlicht.",
+            "hu": "Frissítő tekerés a Lot mentén az esőben. A híd a szürke fényben hősiesnek tűnik. Délben a csarnokok nyújtanak védelmet a felfrissüléshez. A parti utak fröcskölhetnek, de üres ösvényeket kínálnak a városon át. Este Cahors vizes utcái ragyognak a fényszórók fényében.",
+            "ro": "O plimbare revigorantă de-a lungul râului Lot în ploaie. Podul pare eroic în lumina cenușie. La prânz, halele oferă protecție pentru o gustare. Potecile de pe mal pot fi noroioase, dar oferă trasee libere prin oraș. Seara, străzile umede ale Cahors-ului strălucesc în lumina farurilor.",
+            "en": "A refreshing ride along the Lot in the rain. The bridge looks heroic in the gray light. At noon, the halls offer protection for a recharge. The riverside paths can be splashy but offer empty trails through the city. In the evening, the wet streets of Cahors glow in the headlights."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Holz- und Steinteile sind extrem rutschig.",
+                "hu": "Hajtson lassan; a fa és kő részek rendkívül csúszósak.",
+                "ro": "Mergeți încet; secțiunile de lemn și piatră sunt extrem de alunecoase.",
+                "en": "Ride slowly; the wood and stone sections are extremely slippery."
+              }
+            },
+            {
+              "name": "Fontaine des Chartreux",
+              "tip_5lang": {
+                "de": "Das blaue Wasser wirkt bei Regen noch intensiver.",
+                "hu": "A kék víz esőben még intenzívebbnek tűnik.",
+                "ro": "Apa albastră pare și mai intensă în ploaie.",
+                "en": "The blue water looks even more intense in the rain."
+              }
+            },
+            {
+              "name": "Lot Riverbanks Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und Schlamm auf den unbefestigten Abschnitten.",
+                "hu": "Vigyázzon a tócsákra és a sárra a burkolatlan szakaszokon.",
+                "ro": "Atenție la bălți și noroi pe secțiunile neasfaltate.",
+                "en": "Watch out for puddles and mud on the unpaved sections."
+              }
+            },
+            {
+              "name": "Halles de Cahors",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer direkt vor dem überdachten Markt vorhanden.",
+                "hu": "Biztonságos kerékpártároló közvetlenül a fedett piac előtt.",
+                "ro": "Rastel de biciclete sigur chiar în fața pieței acoperite.",
+                "en": "Secure bike rack available directly in front of the covered market."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Panorama",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; achten Sie auf die Bremsen bei der Abfahrt.",
+                "hu": "A felfelé menet fárasztó; ügyeljen a fékekre a lejtőn.",
+                "ro": "Urcarea este solicitantă; atenție la frâne la coborâre.",
+                "en": "The climb is strenuous; watch your brakes on the descent."
+              }
+            },
+            {
+              "name": "Old Town Loop",
+              "tip_5lang": {
+                "de": "Schmale Gassen können bei Regen sehr eng und rutschig wirken.",
+                "hu": "A szűk utcák esőben nagyon szűknek és csúszósnak tűnhetnek.",
+                "ro": "Străzile înguste pot părea foarte strâmte și alunecoase pe ploaie.",
+                "en": "Narrow streets can feel very cramped and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem Kopfsteinpflaster.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nasser Fahrbahn."
+            ],
+            "hu": [
+              "A sárvédő a kerékpáron elengedhetetlen ebben az időben.",
+              "Kerülje a hirtelen fékezést a macskaköveken.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében.",
+              "Ellenőrizze a guminyomást a jobb tapadásért a nedves úton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest tip de vreme.",
+              "Evitați frânarea bruscă pe piatra cubică.",
+              "Purtați haine de ploaie reflectorizante pentru o mai bună vizibilitate.",
+              "Verificați presiunea anvelopelor pentru aderență pe carosabil umed."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden braking maneuvers on the cobblestones.",
+              "Wear bright rain gear for better visibility.",
+              "Check tire pressure for better grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft weht bei der Fahrt über die Valentré-Brücke. Mittags laden warme Stopps in den Markthallen zur Pause ein. Die Uferwege bieten eine klare Sicht auf die kahle, aber elegante Landschaft des Lot. Den Tag beendet man mit einer rasanten Abfahrt vom Mont Saint-Cyr in die wärmenden Lichter der Stadt.",
+            "hu": "A friss téli levegő fúj a Valentré-hídon való tekerés közben. Délben a vásárcsarnok meleg állomásai hívnak pihenőre. A parti utak tiszta kilátást nyújtanak a Lot kopár, de elegáns tájára. A napot a Mont Saint-Cyr-ről való gyors leereszkedéssel zárjuk a város melengető fényeibe.",
+            "ro": "Aerul proaspăt de iarnă suflă în timpul plimbării peste podul Valentré. La prânz, punctele calde din hale vă invită la o pauză. Traseele de pe mal oferă o vedere clară asupra peisajului golaș, dar elegant al râului Lot. Ziua se încheie cu o coborâre rapidă de pe Mont Saint-Cyr spre luminile calde ale orașului.",
+            "en": "The fresh winter air blows during the ride across Valentré Bridge. At noon, warm stops in the market halls invite a break. The riverside paths offer a clear view of the bare but elegant Lot landscape. The day ends with a swift descent from Mont Saint-Cyr into the warming city lights."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisbildung in den schattigen Bereichen der Brücke.",
+                "hu": "Vigyázzon a jegesedésre a híd árnyékos részein.",
+                "ro": "Atenție la formarea gheții în zonele umbrite ale podului.",
+                "en": "Watch out for ice formation in the shaded areas of the bridge."
+              }
+            },
+            {
+              "name": "Fontaine des Chartreux",
+              "tip_5lang": {
+                "de": "Der Ort liegt im Winter oft im tiefen Schatten und ist sehr kühl.",
+                "hu": "A hely télen gyakran mély árnyékban van és nagyon hűvös.",
+                "ro": "Locul este adesea în umbră densă iarna și este foarte răcoros.",
+                "en": "The location is often in deep shadow in winter and is very cool."
+              }
+            },
+            {
+              "name": "Lot Riverbanks Path",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick durch die laubfreien Bäume.",
+                "hu": "Élvezze a tágas kilátást a lomb nélküli fákon keresztül.",
+                "ro": "Bucurați-vă de vederea largă prin copacii fără frunze.",
+                "en": "Enjoy the wide view through the leafless trees."
+              }
+            },
+            {
+              "name": "Halles de Cahors",
+              "tip_5lang": {
+                "de": "Perfekt für eine warme Suppe oder einen heißen Kaffee.",
+                "hu": "Tökéletes egy meleg leveshez vagy egy forró kávéhoz.",
+                "ro": "Perfect pentru o supă caldă sau o cafea fierbinte.",
+                "en": "Perfect for a warm soup or a hot coffee."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Panorama",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt bei den kalten Temperaturen Pflicht.",
+                "hu": "A kesztyű kötelező a lejtőhöz a hideg hőmérsékletben.",
+                "ro": "Mănușile sunt obligatorii pentru coborâre la temperaturi scăzute.",
+                "en": "Gloves are mandatory for the descent in the cold temperatures."
+              }
+            },
+            {
+              "name": "Old Town Loop",
+              "tip_5lang": {
+                "de": "In den Gassen bleibt die Kälte oft hängen; bewegen Sie sich stetig.",
+                "hu": "A szűk utcákban gyakran megül a hideg; mozogjon folyamatosan.",
+                "ro": "Frigul persistă adesea pe străduțe; mențineți un ritm constant.",
+                "en": "The cold often lingers in the alleys; keep moving steadily."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe und eine Mütze unter dem Helm.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Achten Sie auf Raureif, besonders auf Brücken und in Flussnähe.",
+              "Planen Sie die Tour so, dass Sie vor 17 Uhr zurück sind."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt és sapkát a sisak alatt.",
+              "Az e-bike-ok akkumulátora hidegben gyorsabban merül.",
+              "Ügyeljen a zúzmarára, különösen a hidakon és a folyó közelében.",
+              "Úgy tervezze a túrát, hogy 17 óra előtt érjen vissza."
+            ],
+            "ro": [
+              "Purtați mănuși groase și o căciulă sub cască.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Atenție la chiciură, în special pe poduri și lângă râu.",
+              "Planificați turul astfel încât să vă întoarceți înainte de ora 17."
+            ],
+            "en": [
+              "Wear warm gloves and a hat under your helmet.",
+              "E-bike batteries discharge faster in the cold.",
+              "Watch out for hoarfrost, especially on bridges and near the river.",
+              "Plan your tour to be back before 5 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -736,6 +1496,333 @@
           "Book Pech Merle tickets weeks in advance online.",
           "Fuel up in Cahors, as there are fewer gas stations in the valley."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour kombiniert die Highlights von Cahors mit den Schätzen des Lot-Tals. Nach der Pont Valentré und der Altstadt genießen Sie den Komfort, zum Mont Saint-Cyr hochzufahren. Dann verlassen Sie die Stadt für einen Ausflug nach Saint-Cirq-Lapopie, einem mittelalterlichen Juwel auf einem Felsen. Den krönenden Abschluss bildet die prähistorische Grotte du Pech Merle mit ihren echten Höhlenmalereien.",
+            "hu": "Ez az autós túra Cahors legfontosabb látnivalóit ötvözi a Lot-völgy kincseivel. A Valentré-híd és az óváros után élvezd a kényelmet, hogy autóval mehetsz fel a Mont Saint-Cyr-re. Ezután elhagyod a várost egy kirándulásra Saint-Cirq-Lapopie-ba, amely egy sziklára épült középkori ékszerdoboz. A napot a Pech Merle barlang őskori barlangrajzai zárják.",
+            "ro": "Acest tur cu mașina combină punctele forte ale orașului Cahors cu comorile Văii Lotului. După Pont Valentré și centrul vechi, bucurați-vă de confortul de a urca cu mașina la Mont Saint-Cyr. Apoi părăsiți orașul pentru o excursie la Saint-Cirq-Lapopie, o bijuterie medievală cocoțată pe o stâncă. Încheiați ziua la peștera preistorică Pech Merle, cu picturile sale rupestre autentice.",
+            "en": "This car tour combines the highlights of Cahors with the treasures of the Lot Valley. After Pont Valentré and the old town, enjoy the convenience of driving up to Mont Saint-Cyr. Then, leave the city for an excursion to Saint-Cirq-Lapopie, a medieval gem perched on a cliff. Finish the day at the prehistoric Pech Merle cave with its authentic cave paintings."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Parken Sie am nahen P+R Parkplatz.",
+                "hu": "Parkolj a közeli P+R parkolóban.",
+                "ro": "Parcați la parcarea P+R din apropiere.",
+                "en": "Park at the nearby P+R parking lot."
+              }
+            },
+            {
+              "name": "Cahors Vieille Ville",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale und den Markt.",
+                "hu": "Látogasd meg a katedrálist és a piacot.",
+                "ro": "Vizitați catedrala și piața.",
+                "en": "Visit the cathedral and the market."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Viewpoint",
+              "tip_5lang": {
+                "de": "Bequem mit dem Auto erreichbar.",
+                "hu": "Autóval könnyen megközelíthető.",
+                "ro": "Accesibil ușor cu mașina.",
+                "en": "Easily accessible by car."
+              }
+            },
+            {
+              "name": "Saint-Cirq-Lapopie",
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Frankreichs.",
+                "hu": "Franciaország egyik legszebb faluja.",
+                "ro": "Unul dintre cele mai frumoase sate din Franța.",
+                "en": "One of the most beautiful villages in France."
+              }
+            },
+            {
+              "name": "Grotte du Pech Merle",
+              "tip_5lang": {
+                "de": "Reservierung der Höhlentour vorab nötig.",
+                "hu": "A barlangtúrára előzetes foglalás szükséges.",
+                "ro": "Rezervarea este necesară în avans pentru peșteră.",
+                "en": "Pre-booking is essential for the cave tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge du Sombral",
+                "tip": "Traditionelle Küche in Saint-Cirq-Lapopie."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge du Sombral",
+                "tip": "Hagyományos konyha Saint-Cirq-Lapopie-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge du Sombral",
+                "tip": "Bucătărie tradițională în Saint-Cirq-Lapopie."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge du Sombral",
+                "tip": "Traditional cuisine in Saint-Cirq-Lapopie."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bouziès-Treidelpfad",
+                "tip": "Wandern Sie am Felsen entlang.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bouziès vontatóút",
+                "tip": "Sétálj a sziklába vájt út mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul Bouziès",
+                "tip": "Plimbare pe poteca săpată în stâncă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bouziès Towpath",
+                "tip": "Walk along the path carved into the rock.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ateliers d'Art",
+                "tip": "Kunsthandwerk in Saint-Cirq-Lapopie."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ateliers d'Art",
+                "tip": "Kézműves műhelyek Saint-Cirq-Lapopie-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliers d'Art",
+                "tip": "Ateliere de artizanat în Saint-Cirq-Lapopie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ateliers d'Art",
+                "tip": "Craft workshops in Saint-Cirq-Lapopie."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen im Lot-Tal sind kurvenreich und eng, fahren Sie vorsichtig.",
+              "In Saint-Cirq-Lapopie gibt es große Parkplätze oberhalb des Dorfes.",
+              "Buchen Sie Pech Merle Wochen im Voraus online.",
+              "Tanken Sie in Cahors, im Tal gibt es weniger Tankstellen."
+            ],
+            "hu": [
+              "A Lot-völgy útjai kanyargósak és szűkek, vezess óvatosan.",
+              "Saint-Cirq-Lapopie-ban nagy parkolók vannak a falu felett.",
+              "Foglald le a Pech Merle jegyeket hetekkel előre online.",
+              "Tankolj Cahors-ban, a völgyben kevesebb a benzinkút."
+            ],
+            "ro": [
+              "Drumurile din Valea Lotului sunt sinuoase și înguste, conduceți cu atenție.",
+              "În Saint-Cirq-Lapopie există parcări mari deasupra satului.",
+              "Rezervați biletele pentru Pech Merle cu săptămâni înainte online.",
+              "Alimentați în Cahors, sunt puține benzinării în vale."
+            ],
+            "en": [
+              "The roads in the Lot Valley are winding and narrow, drive carefully.",
+              "In Saint-Cirq-Lapopie, there are large parking lots above the village.",
+              "Book Pech Merle tickets weeks in advance online.",
+              "Fuel up in Cahors, as there are fewer gas stations in the valley."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch das Lot-Tal, während der Regen gegen die Scheiben trommelt. Die Brücke Valentré wirkt im Regen dramatisch. Mittags bietet Saint-Cirq-Lapopie eine mystische Atmosphäre unter grauen Wolken. Der Höhepunkt ist die Grotte du Pech Merle, wo man völlig trocken prähistorische Kunst bewundern kann.",
+            "hu": "Kellemes autózás a Lot-völgyben, miközben az eső kopog a szélvédőn. A Valentré-híd drámai hatást kelt az esőben. Délben Saint-Cirq-Lapopie misztikus hangulatot áraszt a szürke felhők alatt. A csúcspont a Pech Merle-barlang, ahol teljesen szárazon csodálhatjuk meg az őskori művészetet.",
+            "ro": "O plimbare plăcută prin valea Lot, în timp ce ploaia bate în parbriz. Podul Valentré pare dramatic sub ploaie. La prânz, Saint-Cirq-Lapopie oferă o atmosferă mistică sub norii cenușii. Punctul culminant este peștera Pech Merle, unde puteți admira arta preistorică la adăpost.",
+            "en": "A cozy drive through the Lot Valley while rain drums against the windows. The Valentré Bridge looks dramatic in the rain. At noon, Saint-Cirq-Lapopie offers a mystical atmosphere under gray clouds. The highlight is the Pech Merle cave, where you can admire prehistoric art completely dry."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahen Parkplatz und nutzen Sie den kurzen Fußweg.",
+                "hu": "Parkoljon a közeli parkolóban, és használja a rövid gyalogutat.",
+                "ro": "Parcați în parcarea din apropiere și folosiți drumul scurt pe jos.",
+                "en": "Park in the nearby parking lot and use the short walk."
+              }
+            },
+            {
+              "name": "Cahors Vieille Ville",
+              "tip_5lang": {
+                "de": "Zentrale Parkhäuser ermöglichen einen trockenen Zugang zur Altstadt.",
+                "hu": "A központi parkolóházak száraz bejutást biztosítanak az óvárosba.",
+                "ro": "Parcările etajate centrale permit accesul uscat în orașul vechi.",
+                "en": "Central parking garages allow dry access to the old town."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick direkt aus dem warmen Auto bei Regen.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból esőben.",
+                "ro": "Bucurați-vă de priveliște direct din mașina caldă pe timp de ploaie.",
+                "en": "Enjoy the view directly from the warm car during rain."
+              }
+            },
+            {
+              "name": "Saint-Cirq-Lapopie",
+              "tip_5lang": {
+                "de": "Die steilen Gassen sind bei Nässe rutschig; fahren Sie vorsichtig hinauf.",
+                "hu": "A meredek utcák nedvesen csúszósak; vezessen óvatosan felfelé.",
+                "ro": "Străzile abrupte sunt alunecoase când sunt ude; conduceți cu atenție.",
+                "en": "The steep streets are slippery when wet; drive up carefully."
+              }
+            },
+            {
+              "name": "Grotte du Pech Merle",
+              "tip_5lang": {
+                "de": "Die ideale Indoor-Aktivität für Regentage im Departement Lot.",
+                "hu": "Ideális fedett tevékenység esős napokra Lot megyében.",
+                "ro": "Activitatea ideală de interior pentru zilele ploioase din departamentul Lot.",
+                "en": "The ideal indoor activity for rainy days in the Lot department."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen entlang des Flusses.",
+              "Die Parkplätze in Saint-Cirq-Lapopie können schlammig sein.",
+              "Reservieren Sie Tickets für Pech Merle im Voraus online.",
+              "Fahren Sie mit Licht, da die Sicht im Tal oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) a folyó menti országutakon.",
+              "Saint-Cirq-Lapopie parkolói sárosak lehetnek.",
+              "Foglaljon jegyet a Pech Merle-be előre online.",
+              "Vezessen világítással, mivel a völgyben a látási viszonyok korlátozottak."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale de-a lungul râului.",
+              "Parcările din Saint-Cirq-Lapopie pot fi noroioase.",
+              "Rezervați bilete pentru Pech Merle în avans online.",
+              "Conduceți cu luminile aprinse, vizibilitatea în vale fiind redusă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads along the river.",
+              "Parking lots in Saint-Cirq-Lapopie can be muddy.",
+              "Book tickets for Pech Merle in advance online.",
+              "Drive with lights on as visibility in the valley is often limited."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour durch das Quercy mit klaren Ausblicken. Cahors zeigt sich von seiner ruhigen Seite. Saint-Cirq-Lapopie wirkt wie aus der Zeit gefallen, wenn kaum Besucher da sind. In Pech Merle herrschen konstante Temperaturen, was den Besuch im Winter sehr angenehm macht. Abends kehrt man sicher durch das beleuchtete Tal zurück.",
+            "hu": "Téli túra a Quercy vidéken, tiszta kilátással. Cahors a nyugodt arcát mutatja. Saint-Cirq-Lapopie mintha kiesett volna az időből, amikor alig van látogató. Pech Merle-ben állandó a hőmérséklet, ami a téli látogatást nagyon kellemessé teszi. Este biztonságban térünk vissza a kivilágított völgyön át.",
+            "ro": "Un tur hibernal prin Quercy cu priveliști clare. Cahors își arată latura liniștită. Saint-Cirq-Lapopie pare desprins din timp când sunt puțini vizitatori. În Pech Merle temperaturile sunt constante, făcând vizita plăcută iarna. Seara vă întoarceți în siguranță prin valea iluminată.",
+            "en": "A winter tour through the Quercy with clear views. Cahors shows its quiet side. Saint-Cirq-Lapopie feels out of time when there are few visitors. In Pech Merle, temperatures are constant, making a winter visit very pleasant. In the evening, return safely through the illuminated valley."
+          },
+          "stops": [
+            {
+              "name": "Pont Valentré",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden als im Sommer.",
+                "hu": "Télen könnyebb parkolóhelyet találni, mint nyáron.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit iarna decât vara.",
+                "en": "Parking spaces are easier to find in winter than in summer."
+              }
+            },
+            {
+              "name": "Cahors Vieille Ville",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung in den alten Gassen.",
+                "hu": "Élvezze a karácsonyi kivilágítást a régi utcákban.",
+                "ro": "Bucurați-vă de iluminatul de Crăciun pe străduțele vechi.",
+                "en": "Enjoy the Christmas lights in the old alleys."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr Viewpoint",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost gefährlich glatt sein.",
+                "hu": "A parkoló fagy esetén veszélyesen csúszós lehet.",
+                "ro": "Parcarea poate fi periculos de alunecoasă în caz de îngheț.",
+                "en": "The parking lot can be dangerously slippery during frost."
+              }
+            },
+            {
+              "name": "Saint-Cirq-Lapopie",
+              "tip_5lang": {
+                "de": "Viele Geschäfte sind geschlossen, aber die Ruhe ist einzigartig.",
+                "hu": "Sok üzlet zárva van, de a nyugalom egyedülálló.",
+                "ro": "Multe magazine sunt închise, dar liniștea este unică.",
+                "en": "Many shops are closed, but the peace is unique."
+              }
+            },
+            {
+              "name": "Grotte du Pech Merle",
+              "tip_5lang": {
+                "de": "Konstante 12 Grad in der Höhle wirken im Winter wärmend.",
+                "hu": "A barlang állandó 12 foka télen melengetőnek hat.",
+                "ro": "Cele 12 grade constante din peșteră par calde iarna.",
+                "en": "Constant 12 degrees Celsius in the cave feels warming in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt den Frostschutz in der Scheibenwaschanlage.",
+              "Einige Bergstraßen können bei plötzlichem Schneefall schwierig sein.",
+              "Winterreifen sind in dieser hügeligen Region sehr zu empfehlen.",
+              "Nehmen Sie eine Decke und heißen Tee für Pausen im Auto mit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót az ablakmosóban.",
+              "Néhány hegyi út hirtelen hóesésnél nehézkes lehet.",
+              "A téli gumi erősen ajánlott ebben a dombos régióban.",
+              "Vigyen takarót és forró teát az autóban tartott szünetekhez."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Unele drumuri montane pot fi dificile în caz de ninsoare bruscă.",
+              "Anvelopele de iarnă sunt foarte recomandate în această regiune deluroasă.",
+              "Luați o pătură și ceai cald pentru pauzele în mașină."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer system before departure.",
+              "Some mountain roads can be difficult during sudden snowfall.",
+              "Winter tires are highly recommended in this hilly region.",
+              "Take a blanket and hot tea for breaks in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -950,34 +2037,334 @@
           "Significantly fewer buses run on Sundays.",
           "The 'Gambetta' stop is the central transfer point."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Cahors, um die Stadt stressfrei zu erkunden. Vom Bahnhof bringt Sie der kostenlose Shuttle zur Pont Valentré. Danach geht es weiter ins Zentrum zur Kathedrale und zum Museum. Der Höhepunkt ist die Busfahrt zum Mont Saint-Cyr, die Ihnen den anstrengenden Aufstieg erspart und Ihnen Zeit gibt, das Panorama in aller Ruhe zu genießen.",
+            "hu": "Használd Cahors hatékony buszhálózatát a város stresszmentes felfedezéséhez. A vasútállomástól ingyenes járat visz a Valentré-hídhoz. Ezután folytasd utadat a központba, a katedrálishoz és a múzeumhoz. A nap fénypontja a buszos utazás a Mont Saint-Cyr-re, amivel megspórolod a fárasztó hegymenetet, és több időd marad a panoráma élvezetére.",
+            "ro": "Folosiți sistemul eficient de autobuze din Cahors pentru a explora orașul fără stres. De la gară, naveta gratuită vă duce la Pont Valentré. Apoi continuați spre centru, la catedrală și muzeu. Punctul culminant este călătoria cu autobuzul spre Mont Saint-Cyr, care vă scutește de urcarea obositoare și vă oferă timp să vă bucurați de panoramă în liniște.",
+            "en": "Use Cahors' efficient bus system to explore the city stress-free. From the train station, the free shuttle takes you to Pont Valentré. Then continue to the center to the cathedral and the museum. The highlight is the bus ride to Mont Saint-Cyr, which saves you the tiring climb and leaves more time to enjoy the panorama in peace."
+          },
+          "stops": [
+            {
+              "name": "Gare de Cahors",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für Busse.",
+                "hu": "A buszok központi csomópontja.",
+                "ro": "Nod central pentru autobuze.",
+                "en": "Central hub for buses."
+              }
+            },
+            {
+              "name": "Pont Valentré (Bus Navette)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kostenlosen Shuttle 'Navette'.",
+                "hu": "Használd az ingyenes 'Navette' buszt.",
+                "ro": "Folosiți naveta gratuită.",
+                "en": "Use the free 'Navette' shuttle."
+              }
+            },
+            {
+              "name": "Cathédrale / Mairie",
+              "tip_5lang": {
+                "de": "Mitten im Herzen der Altstadt.",
+                "hu": "Az óváros szívében.",
+                "ro": "Chiar în inima orașului vechi.",
+                "en": "Right in the heart of the old town."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Nahe der Haltestelle Gambetta.",
+                "hu": "A Gambetta megálló közelében.",
+                "ro": "Aproape de stația Gambetta.",
+                "en": "Near the Gambetta stop."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr (Bus Ligne 1)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt.",
+                "hu": "Ellenőrizd a visszautat a menetrendben.",
+                "ro": "Verificați orarul pentru întoarcere.",
+                "en": "Check the timetable for the return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Cariel",
+                "tip": "Hervorragende Quiche und Gebäck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie Cariel",
+                "tip": "Kiváló quiche és sütemények."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie Cariel",
+                "tip": "Quiche și produse de patiserie excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie Cariel",
+                "tip": "Excellent quiche and pastries."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc Tassart",
+                "tip": "Ein kleiner ruhiger Park am Museum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc Tassart",
+                "tip": "Egy kis csendes park a múzeumnál.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc Tassart",
+                "tip": "Un mic parc liniștit lângă muzeu.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc Tassart",
+                "tip": "A small quiet park near the museum.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Echoppe des Saveurs",
+                "tip": "Regionale Spezialitäten zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Echoppe des Saveurs",
+                "tip": "Vigyél haza helyi különlegességeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Echoppe des Saveurs",
+                "tip": "Specialități regionale pentru acasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Echoppe des Saveurs",
+                "tip": "Regional specialties to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die 'Navette gratuite' verbindet die wichtigsten Parkplätze mit dem Zentrum.",
+              "Laden Sie die App des Verkehrsverbundes Evidence herunter.",
+              "Am Sonntag verkehren deutlich weniger Busse.",
+              "Die Haltestelle 'Gambetta' ist der zentrale Umsteigepunkt."
+            ],
+            "hu": [
+              "A 'Navette gratuite' ingyenes járat összeköti a parkolókat a központtal.",
+              "Töltsd le az Evidence közlekedési társaság alkalmazását.",
+              "Vasárnap jelentősen kevesebb busz közlekedik.",
+              "A 'Gambetta' megálló a központi átszállási pont."
+            ],
+            "ro": [
+              "Naveta gratuită conectează principalele parcări de centru.",
+              "Descărcați aplicația Evidence pentru transportul local.",
+              "Duminica circulă mult mai puține autobuze.",
+              "Stația 'Gambetta' este principalul punct de transfer."
+            ],
+            "en": [
+              "The 'Navette gratuite' (free shuttle) connects the main parking lots with the center.",
+              "Download the Evidence transport app for schedules.",
+              "Significantly fewer buses run on Sundays.",
+              "The 'Gambetta' stop is the central transfer point."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch Cahors, während der Regen die Landschaft weichzeichnet. Die Fahrt zur Valentré-Brücke bietet einen geschützten Blick auf das Wahrzeichen. Mittags ist die Kathedrale ein trockener Anlaufpunkt. Nachmittags verbringt man gemütliche Stunden im Museum, bevor der Bus zurück zum Bahnhof fährt.",
+            "hu": "Busszal szárazon Cahors-on át, miközben az eső lágyítja a tájat. A Valentré-hídhoz vezető út védett kilátást nyújt a jelképre. Délben a székesegyház száraz találkozási pont. Délután kellemes órákat tölthetünk a múzeumban, mielőtt a busz visszavisz a vasútállomásra.",
+            "ro": "Cu autobuzul prin Cahors la adăpost, în timp ce ploaia estompează peisajul. Călătoria spre podul Valentré oferă o vedere protejată spre monument. La prânz, catedrala este un punct de reper uscat. După-amiaza, petreceți ore plăcute în muzeu înainte ca autobuzul să vă ducă înapoi la gară.",
+            "en": "By bus through Cahors in the dry while rain softens the landscape. The ride to Valentré Bridge offers a protected view of the landmark. At noon, the cathedral is a dry focal point. In the afternoon, spend pleasant hours in the museum before the bus takes you back to the station."
+          },
+          "stops": [
+            {
+              "name": "Gare de Cahors",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz vor Regen und Wind.",
+                "hu": "A váróterem védelmet nyújt az eső és a szél ellen.",
+                "ro": "Sala de așteptare oferă protecție împotriva ploii și vântului.",
+                "en": "The waiting hall offers protection from rain and wind."
+              }
+            },
+            {
+              "name": "Pont Valentré (Bus Navette)",
+              "tip_5lang": {
+                "de": "Die Navette-Busse halten sehr nah an der Brücke.",
+                "hu": "A Navette buszok nagyon közel állnak meg a hídhoz.",
+                "ro": "Autobuzele Navette opresc foarte aproape de pod.",
+                "en": "The Navette buses stop very close to the bridge."
+              }
+            },
+            {
+              "name": "Cathédrale / Mairie",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen überdachten Geschäften in der Nähe.",
+                "hu": "Központi megálló sok fedett üzlettel a közelben.",
+                "ro": "Stație centrală cu multe magazine acoperite în apropiere.",
+                "en": "Central stop with many covered shops nearby."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus zum Museumseingang genügt.",
+                "hu": "Egy rövid futás a busztól a múzeum bejáratáig elegendő.",
+                "ro": "Un sprint scurt de la autobuz la intrarea muzeului este suficient.",
+                "en": "A short sprint from the bus to the museum entrance is enough."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr (Bus Ligne 1)",
+              "tip_5lang": {
+                "de": "Die Frequenz des Busses kann bei schlechtem Wetter variieren.",
+                "hu": "A busz járatsűrűsége rossz időben változhat.",
+                "ro": "Frecvența autobuzului poate varia în caz de vreme rea.",
+                "en": "The bus frequency may vary during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des ÖPNV für Echtzeit-Infos bei Regenverzögerungen.",
+              "Die Navette 'L'Evidence' ist kostenlos und ideal für Regentage.",
+              "Kaufen Sie Ihr Ticket im Voraus, um Hektik im Regen zu vermeiden.",
+              "Die meisten Haltestellen im Zentrum sind überdacht."
+            ],
+            "hu": [
+              "Használja a tömegközlekedési appot a valós idejű infókért esőben.",
+              "Az 'L'Evidence' ingyenes buszjárat és ideális esős napokra.",
+              "Vásárolja meg jegyét előre, hogy elkerülje a kapkodást az esőben.",
+              "A legtöbb központi megálló fedett."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport public pentru info în timp real la ploaie.",
+              "Naveta 'L'Evidence' este gratuită și ideală pentru zilele ploioase.",
+              "Cumpărați biletul în avans pentru a evita graba prin ploaie.",
+              "Majoritatea stațiilor din centru sunt acoperite."
+            ],
+            "en": [
+              "Use the transit app for real-time info during rain delays.",
+              "The 'L'Evidence' shuttle is free and ideal for rainy days.",
+              "Buy your ticket in advance to avoid rushing in the rain.",
+              "Most central bus stops are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine warme Busfahrt durch das winterliche Cahors. Der Bahnhof bietet einen stimmungsvollen Start. Mittags ist der Besuch der Kathedrale und des Marktes bequem per Transit erreichbar. Die Aussicht vom Mont Saint-Cyr ist auch im Winter mit der Linie 1 gesichert, bevor man die Abenddämmerung im Bus genießt.",
+            "hu": "Meleg buszozás a téli Cahors-on át. A vasútállomás hangulatos kezdést biztosít. Délben a székesegyház és a piac látogatása kényelmesen elérhető tömegközlekedéssel. A Mont Saint-Cyr kilátása télen is biztosított az 1-es vonallal, mielőtt élveznénk a szürkületet a buszon.",
+            "ro": "O călătorie caldă cu autobuzul prin Cahors-ul hibernal. Gara oferă un început atmosferic. La prânz, vizita la catedrală și piață este ușor accesibilă prin transport. Vederea de pe Mont Saint-Cyr este asigurată și iarna cu linia 1, înainte de a savura amurgul în autobuz.",
+            "en": "A warm bus ride through winter Cahors. The train station provides an atmospheric start. At noon, visiting the cathedral and the market is easily accessible by transit. The view from Mont Saint-Cyr is secured even in winter via Line 1, before enjoying the dusk from the bus."
+          },
+          "stops": [
+            {
+              "name": "Gare de Cahors",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum im Bahnhofsgebäude.",
+                "hu": "Használja a fűtött várótermet a pályaudvar épületében.",
+                "ro": "Folosiți sala de așteptare încălzită din clădirea gării.",
+                "en": "Use the heated waiting room in the station building."
+              }
+            },
+            {
+              "name": "Pont Valentré (Bus Navette)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft angenehm beheizt.",
+                "hu": "Télen a buszok gyakran kellemesen fűtöttek.",
+                "ro": "Iarna, autobuzele sunt adesea încălzite plăcut.",
+                "en": "In winter, the buses are often pleasantly heated."
+              }
+            },
+            {
+              "name": "Cathédrale / Mairie",
+              "tip_5lang": {
+                "de": "Idealer Stopp für einen kurzen Weg zum Weihnachtsmarkt.",
+                "hu": "Ideális megálló a karácsonyi piachoz vezető rövid úthoz.",
+                "ro": "Stație ideală pentru un drum scurt către piața de Crăciun.",
+                "en": "Ideal stop for a short walk to the Christmas market."
+              }
+            },
+            {
+              "name": "Musée Henri-Martin",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt vor der Tür des Museums.",
+                "hu": "A buszmegálló közvetlenül a múzeum ajtaja előtt található.",
+                "ro": "Stația de autobuz este chiar în fața ușii muzeului.",
+                "en": "The bus stop is located directly in front of the museum door."
+              }
+            },
+            {
+              "name": "Mont Saint-Cyr (Bus Ligne 1)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die letzte Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Ellenőrizze a menetrendet az utolsó visszainduláshoz sötétedés előtt.",
+                "ro": "Verificați orarul pentru ultima cursă de întoarcere înainte de lăsarea întunericului.",
+                "en": "Check the schedule for the last return trip before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen im Winter eingeschränkt sein.",
+              "Die kostenlose Navette hält alle 20 Minuten.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zur Haltestelle.",
+              "Im Bus ist es oft deutlich wärmer als draußen; Kleidung anpassen."
+            ],
+            "hu": [
+              "A menetrendek korlátozottak lehetnek téli ünnepnapokon.",
+              "Az ingyenes Navette 20 percenként közlekedik.",
+              "Viseljen csúszásmentes cipőt a megállóhoz vezető úton.",
+              "A buszon gyakran jóval melegebb van, mint kint; igazítsa az öltözékét."
+            ],
+            "ro": [
+              "Orarele pot fi limitate în timpul sărbătorilor de iarnă.",
+              "Naveta gratuită trece la fiecare 20 de minute.",
+              "Purtați încălțăminte antiderapantă pentru drumul spre stație.",
+              "În autobuz este adesea mult mai cald decât afară; adaptați hainele."
+            ],
+            "en": [
+              "Schedules may be limited during winter public holidays.",
+              "The free Navette runs every 20 minutes.",
+              "Wear non-slip shoes for the walk to the stop.",
+              "It is often much warmer on the bus than outside; adjust clothing."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.cahorsvalleedulot.com/",
-    "events": "https://www.cahorsvalleedulot.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.lio-occitanie.fr/",
-    "language_tips": {
-      "de": "Cahors ist berühmt für die Pont Valentré und den 'schwarzen Wein' aus Malbec-Trauben. Englisch wird in den Weingütern und am Tourismusbüro gesprochen. Lernen Sie 'Pont Valentré' und 'Cahors AOC' für den lokalen Malbec-Rotwein, der oft 'le vin noir' (schwarzer Wein) genannt wird.",
-      "hu": "Cahors a Pont Valentré-ról és a Malbec szőlőből készült 'fekete borról' híres. A borászatokban és az idegenforgalmi irodában beszélnek angolul. Tanuld meg a 'Pont Valentré' nevet és a 'Cahors AOC' kifejezést a helyi Malbec vörösborhoz, amit gyakran 'le vin noir' (fekete bor) néven emlegetnek.",
-      "ro": "Cahors este renumit pentru Pont Valentré și 'vinul negru' din strugurii Malbec. Engleza se vorbește la crame și la biroul de turism. Învățați 'Pont Valentré' și 'Cahors AOC' pentru vinul roșu Malbec local, deseori numit 'le vin noir' (vinul negru).",
-      "en": "Cahors is famous for the Pont Valentré and 'black wine' from Malbec grapes. English is spoken at wineries and the tourism office. Learn 'Pont Valentré' and 'Cahors AOC' for the local Malbec red, often called 'le vin noir' (black wine) for its deep colour."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, blühendes Lot-Tal und weniger Touristen. Juli-August können sehr heiß werden, das Cahors-Blues-Festival ist aber ein Highlight. Im Herbst beginnt die Weinlese, und im Winter sind die Trüffelmärkte aktiv.",
-      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, virágzó Lot-völgy, kevesebb turista. Júliusban-augusztusban nagyon meleg lehet, de a Cahors Blues Fesztivál csúcspont. Ősszel kezdődik a szüret, télen a szarvasgombás piacok aktívak.",
-      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, valea Lot înflorită și mai puțini turiști. Iulie-august pot fi foarte calde, dar festivalul Cahors Blues este un punct forte. Toamna începe culesul viilor, iar iarna piețele de trufe sunt active.",
-      "en": "May-June and September-October are ideal: mild weather, blooming Lot valley and fewer tourists. July-August can be very hot, though the Cahors Blues Festival is a highlight. Autumn brings the wine harvest, and winter sees active truffle markets."
-    },
-    "neighborhood_warnings": {
-      "de": "Cahors ist meist sicher, doch einige Stadtteile südlich des Bahnhofs sollten abends gemieden werden. Beim Wandern an den Lot-Klippen Vorsicht, besonders bei Saint-Cirq-Lapopie. Parken im Zentrum begrenzt.",
-      "hu": "Cahors többnyire biztonságos, de a pályaudvartól délre eső részeket este érdemes kerülni. A Lot-szirteknél túrázáskor légy óvatos, főleg Saint-Cirq-Lapopie-nál. A központban korlátozott a parkolás.",
-      "ro": "Cahors este în general sigur, dar unele cartiere la sud de gară ar trebui evitate seara. La drumeții pe stâncile Lot, atenție, mai ales la Saint-Cirq-Lapopie. Parcarea în centru este limitată.",
-      "en": "Cahors is mostly safe, but some districts south of the station should be avoided at night. When hiking the Lot cliffs take care, especially near Saint-Cirq-Lapopie. Central parking is limited."
-    },
-    "parking_real_time": ""
   }
 }

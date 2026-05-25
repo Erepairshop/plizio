@@ -356,6 +356,486 @@
           "The climb to the castle is steep but short.",
           "Most shops close for lunch between 12:00 and 14:00."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im Herzen von Kaysersberg auf dem Rathausplatz, umgeben von prächtigen Renaissance-Gebäuden. Ein kurzer Spaziergang führt Sie zur Heilig-Kreuz-Kirche mit ihrem berühmten Altarbild, bevor Sie in das Leben von Albert Schweitzer in seinem Geburtshaus eintauchen.\n\nMittags überqueren Sie die einzigartige befestigte Brücke aus dem 15. Jahrhundert. Genießen Sie ein traditionelles elsässisches Mittagessen in einem der Weinstuben am Ufer der Weiss, während Sie die mittelalterliche Atmosphäre der Stadt aufsaugen.\n\nAm Nachmittag fordern Sie sich mit dem Aufstieg zur Schlossruine heraus. Der Weg durch die Weinberge ist belohnt mit einem atemberaubenden Blick über das Tal und die Dächer der Altstadt. Es ist der ideale Ort, um die Geographie der elsässischen Weinstraße zu verstehen.\n\nBeenden Sie den Tag mit einem gemütlichen Bummel durch die gepflasterten Gassen der Unterstadt. Bewundern Sie die blumengeschmückten Fachwerkhäuser wie das Constant-Say-Haus und kaufen Sie lokale Köstlichkeiten, bevor die Sonne hinter den Vogesen untergeht.",
+            "hu": "Kezdje a reggelt Kaysersberg szívében, a Városháza téren, amelyet pompás reneszánsz épületek vesznek körül. Egy rövid séta elvezeti a Szent Kereszt-templomhoz és annak híres oltárképéhez, majd merüljön el Albert Schweitzer életében szülőházának falai között.\n\nDélben keljen át az egyedülálló, 15. századi erődített hídon. Élvezze a hagyományos elzászi ebédet a Weiss-folyó partján fekvő borozók egyikében, miközben magába szívja a város középkori hangulatát.\n\nDélután hívja ki magát a várromhoz vezető emelkedővel. A szőlőültetvényeken át vezető utat lélegzetelállító kilátás koronázza meg a völgyre és az óváros tetőire. Ez az ideális hely az elzászi borút földrajzának megértéséhez.\n\nA napot zárja egy kellemes sétával az alsóváros macskaköves utcáin. Csodálja meg a virágos gerendavázas házakat, mint például a Constant Say-házat, és vásároljon helyi finomságokat, mielőtt a nap lenyugszik a Vogézek mögött.",
+            "ro": "Începeți dimineața în inima orașului Kaysersberg, în Piața Primăriei, înconjurată de clădiri renascentiste magnifice. O scurtă plimbare vă duce la Biserica Sfânta Cruce și faimosul său retablu, apoi cufundați-vă în viața lui Albert Schweitzer în casa sa natală.\n\nLa prânz, traversați podul fortificat unic din secolul al XV-lea. Bucurați-vă de un prânz tradițional alsacian într-una dintre cramele de pe malul râului Weiss, în timp ce absorbiți atmosfera medievală a orașului.\n\nDupă-amiaza, provocați-vă cu urcarea către ruinele castelului. Drumul prin podgorii este răsplătit cu o vedere uluitoare asupra văii și a acoperișurilor orașului vechi. Este locul ideal pentru a înțelege geografia rutei vinului din Alsacia.\n\nÎncheiați ziua cu o plimbare relaxantă pe străzile pavate ale orașului de jos. Admirați casele cu paiantă pline de flori, cum ar fi Casa Constant Say, și cumpărați delicii locale înainte ca soarele să apună după Munții Vosgi.",
+            "en": "Start your morning in the heart of Kaysersberg at the City Hall Square, surrounded by magnificent Renaissance buildings. A short walk leads to the Sainte-Croix Church and its famous altarpiece, before immersing yourself in the life of Albert Schweitzer in his birthplace.\n\nAt midday, cross the unique 15th-century fortified bridge. Enjoy a traditional Alsatian lunch in one of the winstubs on the banks of the Weiss river while soaking up the medieval atmosphere of the town.\n\nIn the afternoon, challenge yourself with the climb to the castle ruins. The path through the vineyards is rewarded with a breathtaking view over the valley and the rooftops of the old town. It is the ideal place to understand the geography of the Alsatian Wine Route.\n\nEnd the day with a leisurely stroll through the cobbled streets of the lower town. Admire the flower-filled half-timbered houses like the Constant Say House and shop for local delicacies before the sun sets behind the Vosges mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathausplatz",
+                "hu": "Városháza tér",
+                "ro": "Piața Primăriei",
+                "en": "City Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Renaissance-Fassade des Rathauses.",
+                "hu": "Csodálja meg a városháza reneszánsz homlokzatát.",
+                "ro": "Admirați fațada renascentistă a primăriei.",
+                "en": "Admire the Renaissance facade of the City Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Kreuz-Kirche",
+                "hu": "Szent Kereszt-templom",
+                "ro": "Biserica Sfânta Cruce",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das prächtige Retabel von Hans Bongart an.",
+                "hu": "Nézze meg Hans Bongart pompás szárnyasoltárát.",
+                "ro": "Vedeți magnificul retablu realizat de Hans Bongart.",
+                "en": "See the magnificent retable by Hans Bongart."
+              }
+            },
+            {
+              "name": {
+                "de": "Albert Schweitzer Museum",
+                "hu": "Albert Schweitzer Múzeum",
+                "ro": "Muzeul Albert Schweitzer",
+                "en": "Albert Schweitzer Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über das Leben des Friedensnobelpreisträgers.",
+                "hu": "Ismerje meg a Nobel-békedíjas orvos életútját.",
+                "ro": "Aflați mai multe despre viața laureatului Premiului Nobel pentru Pace.",
+                "en": "Learn about the life of the Nobel Peace Prize winner."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigte Brücke",
+                "hu": "Erődített híd",
+                "ro": "Podul Fortificat",
+                "en": "Fortified Bridge"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen mit Blick auf den Fluss Weiss.",
+                "hu": "Tökéletes hely egy ebédhez a Weiss-folyóra néző kilátással.",
+                "ro": "Locul perfect pentru un prânz cu vedere la râul Weiss.",
+                "en": "Perfect spot for lunch with a view of the Weiss river."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Kaysersberg",
+                "hu": "Kaysersberg vára",
+                "ro": "Castelul Kaysersberg",
+                "en": "Kaysersberg Castle"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie auf den Turm für eine 360-Grad-Aussicht.",
+                "hu": "Másszon fel a toronyba a 360 fokos panorámáért.",
+                "ro": "Urcați în turn pentru o vedere de 360 de grade.",
+                "en": "Climb the tower for a 360-degree panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Konstant-Say-Haus",
+                "hu": "Constant Say-ház",
+                "ro": "Casa Constant Say",
+                "en": "Constant Say House"
+              },
+              "tip_5lang": {
+                "de": "Eines der schönsten Fachwerkhäuser der Stadt.",
+                "hu": "A város egyik legszebb gerendavázas háza.",
+                "ro": "Una dintre cele mai frumoase case cu paiantă din oraș.",
+                "en": "One of the most beautiful half-timbered houses in town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Flammekueche",
+                "tip": "Probieren Sie den traditionellen Flammkuchen im Caveau du Schloss."
+              },
+              {
+                "name": "Pinot Gris",
+                "tip": "Verkostung lokaler Weißweine in einer historischen Weinstube."
+              },
+              {
+                "name": "Kougelhopf",
+                "tip": "Holen Sie sich diesen typischen Napfkuchen in einer lokalen Bäckerei."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Flammekueche",
+                "tip": "Kóstolja meg a hagyományos elzászi lepényt a Caveau du Schloss-ban."
+              },
+              {
+                "name": "Pinot Gris",
+                "tip": "Helyi fehérborok kóstolása egy történelmi borozóban."
+              },
+              {
+                "name": "Kougelhopf",
+                "tip": "Vásárolja meg ezt a tipikus kuglófot egy helyi pékségben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Flammekueche",
+                "tip": "Gustați tarta tradițională alsaciană la Caveau du Schloss."
+              },
+              {
+                "name": "Pinot Gris",
+                "tip": "Degustare de vinuri albe locale într-o cramă istorică."
+              },
+              {
+                "name": "Kougelhopf",
+                "tip": "Luați acest cozonac tipic de la o brutărie locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Flammekueche",
+                "tip": "Try the traditional Alsatian thin-crust tart at Caveau du Schloss."
+              },
+              {
+                "name": "Pinot Gris",
+                "tip": "Tasting of local white wines in a historical winstub."
+              },
+              {
+                "name": "Kougelhopf",
+                "tip": "Pick up this typical Alsatian cake at a local bakery."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schlossturm",
+                "tip": "Stille Aussicht über die Weinberge bei Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Weiss-Ufer",
+                "tip": "Ein ruhiger Platz am Fluss hinter dem Schweitzer Museum.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Weinberge",
+                "tip": "Spaziergang oberhalb der Stadt für pure Entspannung.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vártorony",
+                "tip": "Csendes kilátás a szőlőültetvényekre naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Weiss-part",
+                "tip": "Nyugodt hely a folyó mentén a Schweitzer Múzeum mögött.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Szőlőhegy",
+                "tip": "Séta a város felett a tiszta kikapcsolódásért.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Turnul Castelului",
+                "tip": "Vedere liniștită asupra podgoriilor la apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Malul râului Weiss",
+                "tip": "Un loc calm lângă râu în spatele Muzeului Schweitzer.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Podgorii",
+                "tip": "Plimbare deasupra orașului pentru relaxare pură.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castle Tower",
+                "tip": "Quiet view over the vineyards at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Weiss Bank",
+                "tip": "A calm spot by the river behind the Schweitzer Museum.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vineyards",
+                "tip": "Walk above the town for pure relaxation.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Domaine Weinbach",
+                "tip": "Hochwertige Weine direkt vom Erzeuger."
+              },
+              {
+                "name": "Handwerksläden",
+                "tip": "Lokale Töpferei und Holzschnitzereien in der Rue du Général de Gaulle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Domaine Weinbach",
+                "tip": "Kiváló minőségű borok közvetlenül a termelőtől."
+              },
+              {
+                "name": "Kézműves boltok",
+                "tip": "Helyi kerámiák és fafaragványok a Rue du Général de Gaulle-on."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Domaine Weinbach",
+                "tip": "Vinuri de înaltă calitate direct de la producător."
+              },
+              {
+                "name": "Magazine de artizanat",
+                "tip": "Ceramică locală și sculpturi în lemn pe Rue du Général de Gaulle."
+              }
+            ],
+            "en": [
+              {
+                "name": "Domaine Weinbach",
+                "tip": "High-quality wines directly from the producer."
+              },
+              {
+                "name": "Craft Shops",
+                "tip": "Local pottery and wood carvings on Rue du Général de Gaulle."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie die Stadt früh am Morgen, um die Touristenbusse zu vermeiden.",
+              "Der Aufstieg zum Schloss ist steil, aber kurz.",
+              "Die meisten Geschäfte machen zwischen 12:00 und 14:00 Uhr Mittagspause."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Látogassa meg a várost kora reggel, hogy elkerülje a turistabuszokat.",
+              "A várba vezető út meredek, de rövid.",
+              "A legtöbb üzlet zárva tart dél és 14:00 óra között."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pavate.",
+              "Vizitați orașul dimineața devreme pentru a evita autobuzele cu turiști.",
+              "Urcarea la castel este abruptă, dar scurtă.",
+              "Majoritatea magazinelor se închid pentru pauza de prânz între 12:00 și 14:00."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Visit the town early in the morning to avoid the tourist crowds.",
+              "The climb to the castle is steep but short.",
+              "Most shops close for lunch between 12:00 and 14:00."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem regennassen Rathausplatz, wo die bunten Fachwerkhäuser im Pflaster spiegeln. Die Sainte-Croix-Kirche bietet einen trockenen Rückzugsort voller Stille.\nMittags vertiefen wir uns im Albert-Schweitzer-Museum in die Geschichte, während draußen der Regen klopft. Die Befestigte Brücke wirkt im grauen Dunst der Weiss besonders mystisch.\nAm Nachmittag steigen wir trotz der Wolken zur Burg hinauf; die Ruinen wirken im Nebel fast magisch. Das Constant-Say-Haus leuchtet auch bei trübem Wetter farbenfroh.\nDer Abend klingt in den glänzenden Gassen der Altstadt aus, wo sich das Licht der Laternen in den Pfützen bricht.",
+            "hu": "Reggel az eső áztatta Városháza téren kezdünk, ahol a macskakövek tükrözik a színes házakat. A Szent Kereszt-templom csendje tökéletes menedéket nyújt a zápor elől.\nDélben az Albert Schweitzer Múzeumban mélyedünk el a történelemben, miközben kint kopog az eső. Az Erődített híd kövei felett a Weiss folyó morajlása hallatszik.\nDélután a várhoz vezető út ködös és misztikus, a romok látványa megéri a szemerkélő esőt is. A Constant Say-ház díszes homlokzata a szürke időben is ragyog.\nEste a nedves utcák fényeiben gyönyörködünk, egy helyi borozó melegében fejezve be a napot.",
+            "ro": "Dimineața începe în Piața Primăriei, unde reflexiile caselor colorate strălucesc pe pavajul umed. Biserica Sainte-Croix oferă un refugiu uscat și liniștit.\nLa prânz, explorăm Muzeul Albert Schweitzer pentru a ne adăposti de ploaie. Podul Fortificat arată mistic în timp ce râul Weiss curge rapid dedesubt.\nDupă-amiaza urcăm la castel printre nori; ruinele învăluite în ceață au o atmosferă aparte. Casa Constant Say rămâne un punct vizual vibrant chiar și pe cer gri.\nSeara se încheie printre străzile strălucitoare ale orașului vechi, unde luminile se oglindesc în bălți.",
+            "en": "Morning starts at the rain-slicked City Hall Square, where half-timbered houses reflect in the stones. Sainte-Croix Church offers a dry sanctuary with its history.\nAt noon, explore the Albert Schweitzer Museum to stay dry. The Fortified Bridge looks mystical as the Weiss river rushes below in the rainy mist.\nAfternoon brings a misty hike to the Castle; the ruins are atmospheric in the clouds. The Constant Say House remains a colorful highlight despite the gloom.\nEvening ends with reflections in the puddles of the old town, perfect for moody photography."
+          },
+          "stops": [
+            {
+              "name": "City Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das historische Kopfsteinpflaster ist bei Regen sehr rutschig.",
+                "hu": "Vigyázat, a történelmi macskakő esőben nagyon csúszós lehet.",
+                "ro": "Atenție, pavajul istoric este foarte alunecos când plouă.",
+                "en": "Careful, the historic cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Sainte-Croix Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen heftigen Regenschauer im Trockenen abzuwarten.",
+                "hu": "Ideális hely egy heves zápor szárazon való megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "Ideal place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Albert Schweitzer Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Regen draußen zu entfliehen.",
+                "hu": "Tervezzen ide több időt, hogy elmeneküljön a kinti eső elől.",
+                "ro": "Planificați mai mult timp aici pentru a scăpa de ploaia de afară.",
+                "en": "Plan more time here to escape the rain outside."
+              }
+            },
+            {
+              "name": "Fortified Bridge",
+              "tip_5lang": {
+                "de": "Das Dach der Brücke bietet nur begrenzten Schutz vor seitlichem Regen.",
+                "hu": "A híd teteje csak korlátozott védelmet nyújt az oldalsó eső ellen.",
+                "ro": "Acoperișul podului oferă protecție limitată împotriva ploii laterale.",
+                "en": "The bridge roof offers only limited protection from sideways rain."
+              }
+            },
+            {
+              "name": "Kaysersberg Castle",
+              "tip_5lang": {
+                "de": "Der Aufstiegspfad kann bei Nässe schlammig sein; feste Schuhe nutzen.",
+                "hu": "A felfelé vezető út sárga lehet; használjon vízálló, tapadós cipőt.",
+                "ro": "Poteca de urcare poate fi noroioasă; folosiți încălțăminte aderentă.",
+                "en": "The climb path can be muddy; use waterproof shoes with good grip."
+              }
+            },
+            {
+              "name": "Constant Say House",
+              "tip_5lang": {
+                "de": "Die Arkaden in der Nähe bieten kurzzeitig Schutz vor Schauern.",
+                "hu": "A közeli árkádok rövid ideig védelmet nyújtanak a záporok ellen.",
+                "ro": "Arcadele din apropiere oferă adăpost temporar împotriva averselor.",
+                "en": "The nearby arcades offer temporary shelter from showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für das rutschige Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist bei den Winden im Tal besser als ein Knirps.",
+              "Nutzen Sie die vielen gemütlichen Teestuben als Zwischenstopps.",
+              "Die Museen sind die besten Orte, um längere Regenphasen zu überbrücken.",
+              "Achten Sie auf die Weiss; sie kann bei starkem Regen schnell ansteigen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a csúszós macskakövek miatt.",
+              "Egy erős esernyő jobb választás a völgyi szélben, mint egy gyenge darab.",
+              "Használja ki a hangulatos teázókat pihenőként az esőben.",
+              "A múzeumok a legjobb helyek a hosszabb esős időszakok áthidalására.",
+              "Figyelje a Weiss folyót; heves esőzéskor gyorsan megduzzadhat."
+            ],
+            "ro": [
+              "Purtați pantofi de trekking impermeabili pentru pavajul alunecos.",
+              "O umbrelă rezistentă este mai bună decât una pliabilă în vântul din vale.",
+              "Folosiți numeroasele ceainării primitoare ca puncte de oprire.",
+              "Muzeele sunt cele mai bune locuri pentru a trece peste perioadele lungi de ploaie.",
+              "Fiți atenți la râul Weiss; cota acestuia poate crește rapid la ploi mari."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the slippery cobblestones.",
+              "A sturdy umbrella is better than a small one in the valley winds.",
+              "Use the many cozy tea rooms as stops to dry off.",
+              "Museums are the best places to bridge longer rainy periods.",
+              "Watch the Weiss river; it can rise quickly during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathausplatz, wo die Luft nach Holzfeuer duftet. Die Sainte-Croix-Kirche empfängt uns mit einer feierlichen, warmen Stille.\nMittags wärmen wir uns im Albert-Schweitzer-Museum auf und erfahren mehr über sein Lebenswerk. Die Befestigte Brücke glänzt unter einer feinen Frostschicht über der kalten Weiss.\nAm Nachmittag bietet der Aufstieg zur Burg einen herrlichen Blick über das verschneite Tal. Das Constant-Say-Haus wirkt in der frühen Dämmerung besonders prächtig.\nDer Abend wird magisch, wenn die Weihnachtsbeleuchtung die mittelalterlichen Gassen in ein goldenes Licht taucht und der Duft von Glühwein in der Luft liegt.",
+            "hu": "Deres reggel a Városháza téren, ahol a levegőben fafüst illata száll. A Szent Kereszt-templom ünnepi, meleg csenddel fogad minket.\nDélben az Albert Schweitzer Múzeumban melegszünk fel, megismerve az orvos életművét. Az Erődített híd kövei csillognak a zúzmara alatt a hideg Weiss felett.\nDélután a várhoz vezető út havas panorámát kínál a völgyre. A Constant Say-ház az alkonyati fényekben különösen pompás látványt nyújt.\nEste a város varázslatossá válik, ahogy a karácsonyi fények aranyba borítják a középkori utcákat és forralt bor illata tölti be a teret.",
+            "ro": "O dimineață geroasă în Piața Primăriei, unde aerul miroase a fum de lemne. Biserica Sainte-Croix ne întâmpină cu o liniște caldă și solemnă.\nLa prânz ne încălzim în Muzeul Albert Schweitzer, învățând despre opera sa. Podul Fortificat strălucește sub un strat subțire de chiciură deasupra râului rece.\nDupă-amiaza, urcarea la castel oferă o priveliște superbă asupra văii înzăpezite. Casa Constant Say arată magnific în lumina timpurie a amurgului.\nSeara devine magică când luminile de Crăciun scaldă străzile medievale într-o lumină aurie și mirosul de vin fiert plutește în aer.",
+            "en": "A frosty morning at City Hall Square, where the air smells of woodsmoke. Sainte-Croix Church welcomes us with a solemn, warm silence.\nAt noon, warm up in the Albert Schweitzer Museum while learning about his legacy. The Fortified Bridge sparkles under frost above the cold Weiss river.\nAfternoon brings a scenic climb to the Castle for snowy valley views. The Constant Say House looks particularly grand in the early winter twilight.\nEvening becomes magical as Christmas lights bathe the medieval streets in golden light and the scent of mulled wine fills the air."
+          },
+          "stops": [
+            {
+              "name": "City Hall Square",
+              "tip_5lang": {
+                "de": "Im Dezember findet hier ein kleiner, charmanter Weihnachtsmarkt statt.",
+                "hu": "Decemberben itt egy kicsi, bájos karácsonyi vásár kap helyet.",
+                "ro": "În decembrie, aici are loc un târg de Crăciun mic și fermecător.",
+                "en": "In December, a small, charming Christmas market is held here."
+              }
+            },
+            {
+              "name": "Sainte-Croix Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Krippe, die in der Weihnachtszeit aufgestellt wird.",
+                "hu": "Csodálja meg a betlehemet, amelyet a karácsonyi időszakban állítanak fel.",
+                "ro": "Admirați ieslea de Crăciun instalată în timpul sărbătorilor.",
+                "en": "Admire the nativity scene set up during the Christmas season."
+              }
+            },
+            {
+              "name": "Albert Schweitzer Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die kalten Mittagsstunden drinnen zu verbringen.",
+                "hu": "Tökéletes hely a hideg déli órák beltéri eltöltéséhez.",
+                "ro": "Un loc perfect pentru a petrece orele reci de prânz în interior.",
+                "en": "A perfect place to spend the cold midday hours indoors."
+              }
+            },
+            {
+              "name": "Fortified Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Steinstufen der Brücke.",
+                "hu": "Vigyázzon a jegesedéssel a híd lépcsőin és kövein.",
+                "ro": "Atenție la poleiul de pe treptele de piatră ale podului.",
+                "en": "Watch out for black ice on the stone steps of the bridge."
+              }
+            },
+            {
+              "name": "Kaysersberg Castle",
+              "tip_5lang": {
+                "de": "Der Weg kann vereist sein; der Turm ist im Winter oft geschlossen.",
+                "hu": "Az út jeges lehet; a torony télen gyakran zárva tart.",
+                "ro": "Drumul poate fi înghețat; turnul este adesea închis iarna.",
+                "en": "The path can be icy; the tower is often closed in winter."
+              }
+            },
+            {
+              "name": "Constant Say House",
+              "tip_5lang": {
+                "de": "Die Fassade ist in der Vorweihnachtszeit oft festlich geschmückt.",
+                "hu": "A homlokzatot gyakran ünnepi díszbe öltöztetik advent idején.",
+                "ro": "Fațada este adesea decorată festiv în perioada Adventului.",
+                "en": "The facade is often festively decorated during the Advent season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da es im Tal sehr zugig sein kann.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Reservieren Sie für das Abendessen frühzeitig in einer Weinstube.",
+              "Genießen Sie den lokalen 'Vin Chaud' (Glühwein) an den Ständen.",
+              "Feste Stiefel mit gutem Profil sind wegen des Frosts unerlässlich."
+            ],
+            "hu": [
+              "Viseljen termoruházatot, mert a völgyben nagy lehet a huzat.",
+              "A nap télen már 16:30 körül lenyugszik a hegyek mögött.",
+              "Foglaljon asztalt időben a vacsorához egy helyi borozóban.",
+              "Kóstolja meg a helyi forralt bort a karácsonyi bódéknál.",
+              "A fagy miatt elengedhetetlen a jó profilú, meleg bakancs."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece în vale poate fi mult curent.",
+              "Soarele apune deja în jurul orei 16:30 în timpul iernii.",
+              "Rezervați din timp masa pentru cină într-o tavernă locală.",
+              "Savurați vinul fiert local (Vin Chaud) la tarabele din centru.",
+              "Cizmele solide cu talpă aderentă sunt esențiale din cauza înghețului."
+            ],
+            "en": [
+              "Wear thermal layers as it can be very drafty in the valley.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Book a table early for dinner in a local winstub.",
+              "Enjoy the local 'Vin Chaud' (mulled wine) at the stalls.",
+              "Sturdy boots with good tread are essential due to frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -591,6 +1071,362 @@
           "Watch out for tractors in the vineyards.",
           "Carry enough water."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die elsässische Weinstraße auf zwei Rädern. Von Kaysersberg aus radeln Sie durch die Weinberge nach Kientzheim und weiter zur Sigolsheim-Nekropole, die einen weiten Blick bietet. Die Route führt Sie zum berühmten Riquewihr für ein Mittagessen, bevor Sie auf ruhigen Wegen zurück nach Kaysersberg kehren.",
+            "hu": "Fedezze fel az elzászi borutat két keréken. Kaysersbergből indulva tekerjen át a szőlőültetvényeken Kientzheimbe, majd a Sigolsheim-i nekropoliszhoz, ahonnan pazar kilátás nyílik. Az út a híres Riquewihrbe vezet egy ebédre, majd csendes utakon tér vissza Kaysersbergbe.",
+            "ro": "Explorați ruta vinului din Alsacia pe două roți. De la Kaysersberg, pedalați prin podgorii spre Kientzheim și mai departe spre Necropola Sigolsheim, care oferă o vedere largă. Traseul vă duce la faimosul Riquewihr pentru prânz, înainte de a reveni în Kaysersberg pe drumuri liniștite.",
+            "en": "Explore the Alsatian Wine Route on two wheels. From Kaysersberg, cycle through the vineyards to Kientzheim and on to the Sigolsheim Necropolis, which offers a vast view. The route takes you to the famous Riquewihr for lunch before returning to Kaysersberg on quiet paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaysersberg Zentrum",
+                "hu": "Kaysersberg központ",
+                "ro": "Centrul Kaysersberg",
+                "en": "Kaysersberg Center"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für die Tour durch die Weinberge.",
+                "hu": "A szőlőhegyi túra kiindulópontja.",
+                "ro": "Punctul de plecare pentru turul podgoriilor.",
+                "en": "Starting point for the vineyard tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kientzheim Dorf",
+                "hu": "Kientzheim falu",
+                "ro": "Satul Kientzheim",
+                "en": "Kientzheim Village"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Weinmuseum im Schloss Lupfen.",
+                "hu": "Látogassa meg a bormúzeumot a Lupfen-kastélyban.",
+                "ro": "Vizitați Muzeul Vinului din Castelul Lupfen.",
+                "en": "Visit the Wine Museum in Lupfen Castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sigolsheim Nekropole",
+                "hu": "Sigolsheim-i nekropolisz",
+                "ro": "Necropola Sigolsheim",
+                "en": "Sigolsheim Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Ehrenfriedhof mit Panoramablick auf die Rheinebene.",
+                "hu": "Hősi temető panorámás kilátással a Rajna-völgyre.",
+                "ro": "Cimitir de onoare cu vedere panoramică asupra câmpiei Rinului.",
+                "en": "Honorary cemetery with panoramic views of the Rhine plain."
+              }
+            },
+            {
+              "name": {
+                "de": "Riquewihr",
+                "hu": "Riquewihr",
+                "ro": "Riquewihr",
+                "en": "Riquewihr"
+              },
+              "tip_5lang": {
+                "de": "Mittagspause in einem der am besten erhaltenen Dörfer.",
+                "hu": "Ebédszünet az egyik legjobb állapotban maradt faluban.",
+                "ro": "Pauză de prânz într-unul dintre cele mai bine conservate sate.",
+                "en": "Lunch break in one of the best-preserved villages."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigte Brücke Kaysersberg",
+                "hu": "Erődített híd, Kaysersberg",
+                "ro": "Podul Fortificat Kaysersberg",
+                "en": "Kaysersberg Fortified Bridge"
+              },
+              "tip_5lang": {
+                "de": "Rückkehr ins Zentrum zur Fahrradabgabe.",
+                "hu": "Visszatérés a központba a kerékpárok leadásához.",
+                "ro": "Revenire în centru pentru returnarea bicicletelor.",
+                "en": "Return to the center for bike drop-off."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Weinprobe",
+                "tip": "Besuchen Sie eine Genossenschaftskellerei in Kientzheim."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borkóstoló",
+                "tip": "Látogasson el egy szövetkezeti pincészetbe Kientzheimben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Degustare de vin",
+                "tip": "Vizitați o cramă cooperatistă în Kientzheim."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wine Tasting",
+                "tip": "Visit a cooperative winery in Kientzheim."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sigolsheim Hügel",
+                "tip": "Ruhe und Aussicht über das Elsass.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sigolsheim-domb",
+                "tip": "Csend és kilátás Elzászra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Sigolsheim",
+                "tip": "Liniște și vedere asupra Alsaciei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sigolsheim Hill",
+                "tip": "Quiet and views over Alsace.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Kaufen Sie Waldhonig direkt bei den Imkern an der Strecke."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Vásároljon erdei mézet közvetlenül a méhészektől az út mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Cumpărați miere de pădure direct de la apicultorii de pe traseu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Buy forest honey directly from beekeepers along the route."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die hügeligen Abschnitte.",
+              "Achten Sie auf Traktoren in den Weinbergen.",
+              "Nehmen Sie ausreichend Wasser mit."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt a dombos szakaszokhoz.",
+              "Vigyázzon a traktorokra a szőlőültetvényeken.",
+              "Vigyen magával elegendő vizet."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru secțiunile deluroase.",
+              "Atenție la tractoare în podgorii.",
+              "Luați suficientă apă cu voi."
+            ],
+            "en": [
+              "Rent an e-bike for the hilly sections.",
+              "Watch out for tractors in the vineyards.",
+              "Carry enough water."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten im regnerischen Zentrum von Kaysersberg und rüsten uns für die Tour. In Kientzheim leuchten die nassen Reben in sattem Grün.\nMittags erreichen wir die Nekropole von Sigolsheim, die unter dem grauen Himmel eine ehrfürchtige Stille ausstrahlt. Riquewihr empfängt uns mit glänzenden Gassen.\nAm Nachmittag radeln wir zurück durch das neblige Tal, wobei die Weinberge in Wolken gehüllt sind. Die Rückkehr zur Befestigten Brücke bietet Schutz vor dem Wind.\nDer Tag endet mit einer verdienten Pause in einem trockenen Café, während das Fahrrad sicher abgestellt ist.",
+            "hu": "A ködös Kaysersberg központjából indulunk, felkészülve a vizes útra. Kientzheimben a nedves szőlőtőkék élénkzöldben pompáznak.\nDélben érjük el a sigolsheimi nekropoliszt, amely a szürke ég alatt méltóságteljes csendet áraszt. Riquewihr csillogó utcákkal vár minket.\nDélután a ködös völgyön át tekerünk vissza, a felhőkbe burkolózó domboldalak között. Az Erődített hídhoz való visszatérés védelmet nyújt a szél ellen.\nA napot egy megérdemelt pihenővel zárjuk egy száraz kávézóban, miközben a bicikli biztonságban pihen.",
+            "ro": "Pornim din centrul ploios al localității Kaysersberg, echipați pentru drum. În Kientzheim, viile umede strălucesc într-un verde intens.\nLa prânz ajungem la Necropola din Sigolsheim, care emană o liniște solemnă sub cerul gri. Riquewihr ne întâmpină cu străduțe strălucitoare.\nDupă-amiaza pedalăm înapoi prin valea cețoasă, cu podgoriile învăluite în nori. Revenirea la Podul Fortificat oferă protecție împotriva vântului.\nZiua se încheie cu o pauză binemeritată într-o cafenea uscată, în timp ce bicicleta este parcată în siguranță.",
+            "en": "We start in the rainy center of Kaysersberg, geared up for the ride. In Kientzheim, the wet vines glow in a deep green.\nAt noon, reach the Sigolsheim Necropolis, which radiates a solemn silence under the grey sky. Riquewihr welcomes us with shiny wet alleys.\nAfternoon involves cycling back through the misty valley with vineyards shrouded in clouds. Returning to the Fortified Bridge offers some wind shelter.\nThe day ends with a well-deserved break in a dry cafe while the bike is safely parked."
+          },
+          "stops": [
+            {
+              "name": "Kaysersberg Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes macskakőre hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
+                "en": "Check your brakes before heading onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Kientzheim Village",
+              "tip_5lang": {
+                "de": "Die Radwege durch die Weinberge können bei Regen stellenweise schlammig sein.",
+                "hu": "A szőlőültetvényeken átvezető kerékpárutak esőben helyenként sárosak lehetnek.",
+                "ro": "Pistele de biciclete prin podgorii pot fi noroioase pe alocuri când plouă.",
+                "en": "Bike paths through the vineyards can be muddy in spots when it rains."
+              }
+            },
+            {
+              "name": "Sigolsheim Necropolis",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad auf festem Untergrund ab, um Einsinken im Matsch zu vermeiden.",
+                "hu": "Szilárd talajon állítsa le a biciklit, hogy elkerülje a sárba süllyedést.",
+                "ro": "Parcați bicicleta pe teren solid pentru a evita scufundarea în noroi.",
+                "en": "Park the bike on solid ground to avoid sinking into the mud."
+              }
+            },
+            {
+              "name": "Riquewihr",
+              "tip_5lang": {
+                "de": "Besonders rutschiges Pflaster in den engen Gassen; lieber schieben.",
+                "hu": "Különösen csúszós kövezet a szűk utcákban; érdemesebb tolni a gépet.",
+                "ro": "Pavaj extrem de alunecos pe străzile înguste; mai bine împingeți bicicleta.",
+                "en": "Extra slippery pavement in the narrow alleys; better to push the bike."
+              }
+            },
+            {
+              "name": "Kaysersberg Fortified Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Teil der Brücke für einen schnellen Kleidercheck.",
+                "hu": "Használja a híd fedett részét egy gyors ruházat-ellenőrzésre.",
+                "ro": "Folosiți partea acoperită a podului pentru o verificare rapidă a hainelor.",
+                "en": "Use the covered part of the bridge for a quick gear check."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird dringend empfohlen.",
+              "Vermeiden Sie scharfes Bremsen auf nassem Kopfsteinpflaster.",
+              "Reinigen Sie die Kette nach der Fahrt von Sand und Schlamm.",
+              "Nutzen Sie helle Lichter, da die Sicht im nebligen Tal oft schlecht ist.",
+              "Die Radwege sind bei Regen weniger befahren, aber Vorsicht vor Pfützen."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, erősen ajánlott.",
+              "Kerülje az erős fékezést a vizes macskakövön.",
+              "Takarítsa le a láncot a homoktól és sártól a túra után.",
+              "Használjon erős lámpákat, mert a ködös völgyben gyakran rossz a látótávolság.",
+              "Az utak esőben kevésbé forgalmasak, de vigyázzon a tócsákkal."
+            ],
+            "ro": [
+              "Se recomandă insistent echipament complet de ploaie, inclusiv protecții pantofi.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Curățați lanțul de nisip și noroi după călătorie.",
+              "Folosiți lumini puternice, vizibilitatea în valea cețoasă fiind adesea redusă.",
+              "Pistele sunt mai libere pe ploaie, dar atenție la bălți."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Avoid sharp braking on wet cobblestones.",
+              "Clean the chain from sand and mud after the ride.",
+              "Use bright lights as visibility in the misty valley is often poor.",
+              "Bike paths are less crowded in the rain, but watch out for deep puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Start im winterlichen Kaysersberg, wo die Reifen auf dem Frost knirschen. In Kientzheim stehen die kahlen Reben in starrer Ruhe.\nMittags erreichen wir die Anhöhe von Sigolsheim, wo der kalte Wind über die Gedenkstätte weht. Riquewihr wirkt im Winterschlaf wie eine Märchenkulisse.\nAm Nachmittag radeln wir zügig zurück, um vor der frühen Dunkelheit wieder im Tal zu sein. Die Befestigte Brücke empfängt uns mit warmen Lichtern.\nDer Abend endet mit einem heißen Getränk, während wir die gefrorenen Finger wieder aufwärmen.",
+            "hu": "Jéghideg indulás a téli Kaysersbergben, ahol a gumi csikorog a déren. Kientzheimben a kopasz szőlőtőkék néma nyugalomban állnak.\nDélben érjük el a sigolsheimi magaslatot, ahol a hideg szél fúj át az emlékhelyen. Riquewihr téli álomba merülve olyan, mint egy díszlet.\nDélután gyorsan tekerünk vissza, hogy a korai sötétedés előtt beérjünk a völgybe. Az Erődített híd meleg fényekkel fogad minket.\nA nap egy forró itallal zárul, miközben átmelegítjük átfagyott ujjainkat.",
+            "ro": "Un start înghețat în Kaysersbergul hibernal, unde cauciucurile scârțâie pe brumă. În Kientzheim, viile golașe stau într-o liniște deplină.\nLa prânz ajungem pe înălțimea din Sigolsheim, unde vântul rece bate peste memorial. Riquewihr pare un decor de basm în somnul său de iarnă.\nDupă-amiaza pedalăm rapid înapoi pentru a ajunge în vale înainte de întunericul timpuriu. Podul Fortificat ne întâmpină cu lumini calde.\nZiua se încheie cu o băutură fierbinte, în timp ce ne încălzim degetele înghețate.",
+            "en": "An ice-cold start in winter Kaysersberg, with tires crunching on the frost. In Kientzheim, the bare vines stand in stark stillness.\nAt noon, reach the Sigolsheim heights, where the cold wind blows across the memorial site. Riquewihr looks like a fairy tale set in its winter sleep.\nAfternoon involves cycling briskly back to return to the valley before the early darkness. The Fortified Bridge welcomes us with warm lights.\nThe day ends with a hot drink while warming up frozen fingers."
+          },
+          "stops": [
+            {
+              "name": "Kaysersberg Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Schattenseiten der Gassen.",
+                "hu": "Ügyeljen a befagyott tócsákra az utcák árnyékos oldalain.",
+                "ro": "Atenție la bălțile înghețate pe părțile umbrite ale străzilor.",
+                "en": "Watch out for frozen puddles in the shaded parts of the alleys."
+              }
+            },
+            {
+              "name": "Kientzheim Village",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist auf den freien Flächen zwischen den Orten hoch.",
+                "hu": "A szél hűtő hatása jelentős a települések közötti nyílt területeken.",
+                "ro": "Efectul de răcire al vântului este mare în zonele deschise dintre localități.",
+                "en": "The wind chill factor is high in the open areas between villages."
+              }
+            },
+            {
+              "name": "Sigolsheim Necropolis",
+              "tip_5lang": {
+                "de": "Hier oben ist es oft mehrere Grad kälter als im Tal; kurz halten.",
+                "hu": "Itt fent gyakran több fokkal hidegebb van, mint a völgyben; tartsunk rövid szünetet.",
+                "ro": "Aici sus este adesea cu câteva grade mai frig decât în vale; opriți scurt.",
+                "en": "It's often several degrees colder up here than in the valley; keep the stop short."
+              }
+            },
+            {
+              "name": "Riquewihr",
+              "tip_5lang": {
+                "de": "Die Abfahrt von hier zurück ins Tal erfordert warme Handschuhe.",
+                "hu": "Az innen a völgybe vezető lejtőhöz meleg kesztyűre van szükség.",
+                "ro": "Coborârea de aici înapoi în vale necesită mănuși groase.",
+                "en": "The descent from here back to the valley requires warm gloves."
+              }
+            },
+            {
+              "name": "Kaysersberg Fortified Bridge",
+              "tip_5lang": {
+                "de": "Holzbohlen auf der Brücke können bei Frost extrem glatt sein.",
+                "hu": "A híd fapadlói fagyban rendkívül csúszósak lehetnek.",
+                "ro": "Scândurile de lemn de pe pod pot fi extrem de alunecoase la îngheț.",
+                "en": "Wooden planks on the bridge can be extremely slippery in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie winddichte Kleidung und geschlossene Radschuhe.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung voll geladen ist (frühe Dämmerung).",
+              "Achten Sie auf Raureif, besonders in Kurven auf Radwegen.",
+              "Nehmen Sie ein warmes Getränk in einer Thermoskanne mit.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Eis."
+            ],
+            "hu": [
+              "Használjon szélálló ruházatot és zárt kerékpáros cipőt.",
+              "Győződjön meg róla, hogy a lámpák fel vannak töltve (korai sötétedés).",
+              "Ügyeljen a zúzmarára, különösen a kerékpárutak kanyarjaiban.",
+              "Vigyen magával forró italt termoszban.",
+              "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad a jégen."
+            ],
+            "ro": [
+              "Folosiți îmbrăcăminte rezistentă la vânt și pantofi de ciclism închiși.",
+              "Asigurați-vă că luminile sunt complet încărcate (amurg timpuriu).",
+              "Atenție la chiciură, în special în curbele de pe pistele de biciclete.",
+              "Luați o băutură caldă într-un termos.",
+              "Verificați presiunea în pneuri; o presiune ușor mai mică oferă aderență pe gheață."
+            ],
+            "en": [
+              "Use windproof clothing and closed cycling shoes.",
+              "Ensure your lights are fully charged due to early twilight.",
+              "Watch out for frost, especially in bends on bike paths.",
+              "Take a warm drink in a thermos flask.",
+              "Check tire pressure; slightly lower pressure offers better grip on ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -826,6 +1662,362 @@
           "Mountain roads can be narrow.",
           "In winter, check if the passes are open."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie den mittelalterlichen Charme von Kaysersberg mit der wilden Natur der Hochvogesen. Nach der Erkundung der Altstadt fahren Sie hinauf zum Lac Noir, einem geheimnisvollen Bergsee. Genießen Sie die kurvenreichen Straßen zum Col du Bonhomme, bevor Sie für den Abend zurückkehren.",
+            "hu": "Autóval összekötheti Kaysersberg középkori báját a Magas-Vogézek vad természetével. Az óváros felfedezése után autózzon fel a Lac Noir-hoz, egy titokzatos hegyi tóhoz. Élvezze a kanyargós utakat a Col du Bonhomme hágóig, majd térjen vissza az estére.",
+            "ro": "Cu mașina, combinați farmecul medieval al Kaysersbergului cu natura sălbatică a Munților Vosgi. După explorarea orașului vechi, conduceți până la Lac Noir, un lac montan misterios. Bucurați-vă de drumurile șerpuite spre Col du Bonhomme înainte de a vă întoarce pentru seară.",
+            "en": "By car, combine the medieval charm of Kaysersberg with the wild nature of the High Vosges. After exploring the old town, drive up to Lac Noir, a mysterious mountain lake. Enjoy the winding roads to the Col du Bonhomme before returning for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaysersberg Altstadt",
+                "hu": "Kaysersberg óváros",
+                "ro": "Orașul vechi Kaysersberg",
+                "en": "Kaysersberg Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
+                "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de la intrarea în localitate.",
+                "en": "Park in the large parking lot at the entrance of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Kaysersberg",
+                "hu": "Kaysersberg vára",
+                "ro": "Castelul Kaysersberg",
+                "en": "Kaysersberg Castle"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Zentrum zum Schloss.",
+                "hu": "Rövid séta a központból a várhoz.",
+                "ro": "Scurtă plimbare din centru la castel.",
+                "en": "Short walk from the center to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Noir",
+                "hu": "Lac Noir (Fekete-tó)",
+                "ro": "Lacul Noir",
+                "en": "Lac Noir"
+              },
+              "tip_5lang": {
+                "de": "Idyllischer Bergsee in den Vogesen für eine Pause.",
+                "hu": "Idilli hegyi tó a Vogézekben egy pihenőhöz.",
+                "ro": "Lac montan idilic în Munții Vosgi pentru o pauză.",
+                "en": "Idyllic mountain lake in the Vosges for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Col du Bonhomme",
+                "hu": "Col du Bonhomme",
+                "ro": "Col du Bonhomme",
+                "en": "Col du Bonhomme"
+              },
+              "tip_5lang": {
+                "de": "Passhöhe mit herrlicher Aussicht auf die Täler.",
+                "hu": "Hágó lenyűgöző kilátással a völgyekre.",
+                "ro": "Pas montan cu vederi superbe asupra văilor.",
+                "en": "Mountain pass with superb views over the valleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaysersberg Zentrum",
+                "hu": "Kaysersberg központ",
+                "ro": "Centrul Kaysersberg",
+                "en": "Kaysersberg Center"
+              },
+              "tip_5lang": {
+                "de": "Abschluss des Tages mit einem Glas Wein.",
+                "hu": "A nap lezárása egy pohár borral.",
+                "ro": "Încheierea zilei cu un pahar de vin.",
+                "en": "Closing the day with a glass of wine."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Munster Käse",
+                "tip": "Kaufen Sie frischen Käse in einer Ferme-Auberge."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Munster sajt",
+                "tip": "Vásároljon friss sajtot egy Ferme-Auberge-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Munster",
+                "tip": "Cumpărați brânză proaspătă la o Ferme-Auberge."
+              }
+            ],
+            "en": [
+              {
+                "name": "Munster Cheese",
+                "tip": "Buy fresh cheese at a Ferme-Auberge."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac Noir Ufer",
+                "tip": "Ruhiger Platz zum Nachdenken.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lac Noir partja",
+                "tip": "Csendes hely az elmélkedésre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Lacului Noir",
+                "tip": "Loc liniștit pentru reflecție.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac Noir Shore",
+                "tip": "Quiet place for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vogesen-Liköre",
+                "tip": "Spezialitäten aus Beeren und Kräutern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vogézek-i likőrök",
+                "tip": "Bogyós gyümölcsökből és gyógynövényekből készült különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lichioruri din Vosgi",
+                "tip": "Specialități din fructe de pădure și plante."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vosges Liqueurs",
+                "tip": "Specialties made from berries and herbs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze in der Stadt sind kostenpflichtig.",
+              "Die Bergstraßen können eng sein.",
+              "Prüfen Sie im Winter die Pass-Öffnungen."
+            ],
+            "hu": [
+              "A városi parkolók fizetősek.",
+              "A hegyi utak szűkek lehetnek.",
+              "Télen ellenőrizze a hágók nyitvatartását."
+            ],
+            "ro": [
+              "Parcările din oraș sunt cu plată.",
+              "Drumurile montane pot fi înguste.",
+              "Iarna, verificați dacă pasurile sunt deschise."
+            ],
+            "en": [
+              "Parking in town is paid.",
+              "Mountain roads can be narrow.",
+              "In winter, check if the passes are open."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im regnerischen Kaysersberg, während die Scheibenwischer den Rhythmus vorgeben. Die Burg thront düster über der nassen Stadt.\nMittags erreichen wir den Lac Noir, dessen dunkles Wasser im Regen fast mystisch wirkt. Die Wolken hängen tief über dem See.\nAm Nachmittag führt die Route zum Col du Bonhomme, wo der Nebel oft die Sicht einschränkt, aber für eine dramatische Stimmung sorgt.\nZurück im Zentrum von Kaysersberg genießen wir die Fahrt durch die beleuchteten, nassen Gassen, bevor wir trocken am Ziel ankommen.",
+            "hu": "Az út az esős Kaysersbergben indul, miközben az ablaktörlők adják a ritmust. A vár komoran magasodik a nedves város fölé.\nDélben érjük el a Lac Noir-t (Fekete-tó), melynek sötét vize esőben szinte misztikus. A felhők alacsonyan szállnak a tó felett.\nDélután az utunk a Col du Bonhomme hágóhoz vezet, ahol a köd gyakran korlátozza a kilátást, de drámai hangulatot áraszt.\nVisszatérve Kaysersberg központjába, élvezzük az utat a kivilágított, nedves utcákon át, mielőtt szárazon célba érnénk.",
+            "ro": "Călătoria începe în Kaysersbergul ploios, în ritmul ștergătoarelor de parbriz. Castelul tronează sumbru deasupra orașului ud.\nLa prânz ajungem la Lac Noir, ale cărui ape întunecate par aproape mistice în ploaie. Norii atârnă jos deasupra lacului.\nDupă-amiaza, traseul duce spre Col du Bonhomme, unde ceața limitează adesea vizibilitatea, dar creează o atmosferă dramatică.\nReveniți în centrul localității Kaysersberg, ne bucurăm de drumul prin străzile iluminate și ude înainte de a ajunge uscați la destinație.",
+            "en": "The drive begins in rainy Kaysersberg, with wipers setting the rhythm. The Castle looms gloomily over the wet town.\nAt noon, reach Lac Noir, whose dark waters look almost mystical in the rain. Clouds hang low over the lake.\nAfternoon takes the route to Col du Bonhomme, where mist often limits visibility but provides a dramatic atmosphere.\nBack in Kaysersberg center, enjoy driving through the illuminated, wet alleys before arriving dry at the destination."
+          },
+          "stops": [
+            {
+              "name": "Kaysersberg Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Rande, um direkt ins Trockene zu gelangen.",
+                "hu": "Használja a szélső parkolóházat, hogy közvetlenül fedett helyre kerüljön.",
+                "ro": "Folosiți parcarea de la margine pentru a ajunge direct la adăpost.",
+                "en": "Use the parking garage at the edge to stay dry immediately."
+              }
+            },
+            {
+              "name": "Kaysersberg Castle",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht vom Parkplatz aus oft eingeschränkt.",
+                "hu": "Heves esőben a parkolóból a kilátás gyakran korlátozott.",
+                "ro": "La ploi torențiale, vizibilitatea din parcare este adesea redusă.",
+                "en": "In heavy rain, the view from the parking area is often limited."
+              }
+            },
+            {
+              "name": "Lac Noir",
+              "tip_5lang": {
+                "de": "Die Uferpfade sind bei Regen sehr matschig; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A tóparti ösvények esőben nagyon sárosak; maradjon a kövezett utakon.",
+                "ro": "Potecile de pe mal sunt noroioase; rămâneți pe drumurile pavate.",
+                "en": "The lakeshore paths are very muddy; stay on the paved sections."
+              }
+            },
+            {
+              "name": "Col du Bonhomme",
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning auf der kurvenreichen Passstraße.",
+                "hu": "Ügyeljen a vízenfutásra (aquaplaning) a kanyargós hágóúton.",
+                "ro": "Atenție la acvaplanare pe drumul sinuos de munte.",
+                "en": "Watch out for aquaplaning on the winding mountain pass road."
+              }
+            },
+            {
+              "name": "Kaysersberg Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind bei Regen schnell belegt; weichen Sie auf die Ränder aus.",
+                "hu": "A központi parkolók esőben gyorsan betelnek; válassza a szélső helyeket.",
+                "ro": "Parcările centrale se ocupă rapid pe ploaie; alegeți marginile.",
+                "en": "Central parking spots fill up quickly in the rain; use the outskirts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Die Bergstraßen können bei starkem Regen gefährlich glatt sein.",
+              "Nutzen Sie die Heizung, um das Beschlagen der Scheiben zu verhindern.",
+              "Der Lac Noir wirkt bei Nebel besonders eindrucksvoll für Fotos.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Altstadt ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A hegyi utak heves esőzéskor veszélyesen csúszósak lehetnek.",
+              "Használja a fűtést a szélvédő párásodásának elkerülésére.",
+              "A Lac Noir ködben különösen lenyűgöző fotótéma.",
+              "Tervezzen több időt a parkolóhely keresésére az óvárosban."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Drumurile montane pot fi periculos de alunecoase la ploi mari.",
+              "Folosiți încălzirea pentru a preveni aburirea geamurilor.",
+              "Lac Noir arată spectaculos în fotografii pe timp de ceață.",
+              "Alocați mai mult timp pentru căutarea unui loc de parcare în orașul vechi."
+            ],
+            "en": [
+              "Check the condition of your wipers before starting.",
+              "Mountain roads can be dangerously slippery during heavy rain.",
+              "Use the heater to prevent windows from fogging up.",
+              "Lac Noir is especially impressive for photos in the mist.",
+              "Plan extra time for finding a parking spot in the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Kaysersberg, während wir das Auto von Eis befreien. Die schneebedeckte Burg blickt majestätisch auf das Tal herab.\nMittags führt die Fahrt zum Lac Noir, der oft teilweise zugefroren ist und in starrer Winterruhe liegt. Die Tannen am Ufer tragen weiße Hauben.\nAm Nachmittag erklimmen wir den Col du Bonhomme, wo die Schneewände am Straßenrand immer höher werden. Ein echtes Winterabenteuer.\nZurück in Kaysersberg parken wir und genießen den kurzen Weg durch die glitzernde, beleuchtete Altstadt in die Wärme einer Stube.",
+            "hu": "Deres indulás Kaysersbergben, miközben lekaparjuk a jeget az autóról. A hóval fedett vár fenségesen tekint le a völgyre.\nDélben az utunk a Lac Noir-hoz vezet, amely gyakran részben befagyott és dermedt téli nyugalomban pihen. A parti fenyők fehér sipkát viselnek.\nDélután felkapaszkodunk a Col du Bonhomme hágóra, ahol a hófalak az út szélén egyre magasabbak. Igazi téli kaland.\nVisszatérve Kaysersbergbe leparkolunk, és élvezzük a rövid sétát a csillogó, kivilágított óvároson át egy meleg vendéglőbe.",
+            "ro": "Start geroas în Kaysersberg, în timp ce curățăm gheața de pe mașină. Castelul înzăpezit privește maiestuos spre vale.\nLa prânz, drumul duce spre Lac Noir, care este adesea parțial înghețat și cufundat într-o liniște hibernală. Brazii de pe mal poartă căciuli albe.\nDupă-amiaza urcăm spre Col du Bonhomme, unde pereții de zăpadă de la marginea drumului devin tot mai înalți. O adevărată aventură de iarnă.\nReveniți în Kaysersberg, parcăm și ne bucurăm de scurta plimbare prin orașul vechi strălucitor și iluminat spre căldura unei taverne.",
+            "en": "A frosty start in Kaysersberg as we scrape ice off the car. The snow-covered Castle looks down majestically at the valley.\nAt noon, drive to Lac Noir, which is often partially frozen and rests in stark winter silence. The firs on the shore wear white caps.\nAfternoon takes us up to Col du Bonhomme, where the snow banks along the road get higher. A true winter adventure.\nBack in Kaysersberg, we park and enjoy the short walk through the glittering, illuminated old town into the warmth of a winstub."
+          },
+          "stops": [
+            {
+              "name": "Kaysersberg Old Town",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind oft geräumt, aber Vorsicht beim Aussteigen vor Glatteis.",
+                "hu": "A parkolókat gyakran takarítják, de kiszálláskor vigyázzon a jegesedésre.",
+                "ro": "Parcările sunt adesea deszăpezite, dar atenție la polei când coborâți.",
+                "en": "Parking lots are often cleared, but watch out for ice when getting out."
+              }
+            },
+            {
+              "name": "Kaysersberg Castle",
+              "tip_5lang": {
+                "de": "Nur mit Winterreifen befahren; die Zufahrt kann steil und glatt sein.",
+                "hu": "Csak téli gumival hajtson fel; a felvezető út meredek és csúszós lehet.",
+                "ro": "Conduceți doar cu anvelope de iarnă; accesul poate fi abrupt și alunecos.",
+                "en": "Drive with winter tires only; the access can be steep and slick."
+              }
+            },
+            {
+              "name": "Lac Noir",
+              "tip_5lang": {
+                "de": "Die Straße zum See wird geräumt, kann aber bei Neuschnee tückisch sein.",
+                "hu": "A tóhoz vezető utat takarítják, de friss hóban csalóka lehet.",
+                "ro": "Drumul spre lac este curățat, dar poate fi înșelător la zăpadă proaspătă.",
+                "en": "The road to the lake is cleared but can be tricky with fresh snow."
+              }
+            },
+            {
+              "name": "Col du Bonhomme",
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum sind hier oben im Winter Pflicht.",
+                "hu": "A hólánc a csomagtartóban itt fent télen kötelező tartozék.",
+                "ro": "Lanțurile antiderapante în portbagaj sunt obligatorii aici iarna.",
+                "en": "Snow chains in the trunk are mandatory up here in winter."
+              }
+            },
+            {
+              "name": "Kaysersberg Center",
+              "tip_5lang": {
+                "de": "Abends sind die Lichter der Stadt vom Auto aus besonders schön zu sehen.",
+                "hu": "Este a város fényei az autóból nézve különösen szépek.",
+                "ro": "Seara, luminile orașului se văd superb din mașină.",
+                "en": "In the evening, the city lights are especially beautiful from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Prüfen Sie vor Passfahrten den aktuellen Straßenbericht (Inforoute).",
+              "Tanken Sie voll, da der Kraftstoffverbrauch bei Kälte steigt.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Vermeiden Sie hektische Lenkbewegungen auf verschneiten Straßen."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó és fagyálló folyadék.",
+              "A hágók előtt ellenőrizze az aktuális útjelentést.",
+              "Tankoljon tele, mert a fogyasztás hidegben megnő.",
+              "Ne járassa feleslegesen álló helyzetben a motort.",
+              "Kerülje a hirtelen kormánymozdulatokat a havas utakon."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o răzuitoare de gheață și antigel.",
+              "Verificați raportul rutier actual înainte de a urca pasul montan.",
+              "Faceți plinul, deoarece consumul crește pe timp de frig.",
+              "Nu lăsați motorul să meargă inutil la ralanti.",
+              "Evitați manevrele bruște de direcție pe drumurile înzăpezite."
+            ],
+            "en": [
+              "Always carry an ice scraper and anti-freeze.",
+              "Check the latest road reports before heading to the mountain pass.",
+              "Keep the fuel tank full as consumption increases in the cold.",
+              "Do not let the engine idle unnecessarily.",
+              "Avoid sudden steering movements on snowy roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1061,34 +2253,363 @@
           "The 'Kut'zig' bus is ideal for wine tours.",
           "Buy tickets in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Shuttle-Bus 'Kut'zig' oder die Regionallinien, um Kaysersberg stressfrei zu erreichen. Konzentrieren Sie sich auf die wichtigsten Monumente der Altstadt, vom Rathaus bis zum Schweitzer Museum, alles bequem zu Fuß von den Haltestellen erreichbar.",
+            "hu": "Használja a 'Kut'zig' buszjáratot vagy a regionális vonalakat, hogy stresszmentesen érje el Kaysersberget. Koncentráljon az óváros legfontosabb műemlékeire, a városházától a Schweitzer Múzeumig, amelyek kényelmesen elérhetők a megállóktól.",
+            "ro": "Folosiți autobuzul 'Kut'zig' sau liniile regionale pentru a ajunge la Kaysersberg fără stres. Concentrați-vă pe cele mai importante monumente ale orașului vechi, de la primărie la Muzeul Schweitzer, toate accesibile ușor pe jos de la stații.",
+            "en": "Use the 'Kut'zig' shuttle or regional lines to reach Kaysersberg stress-free. Focus on the main monuments of the old town, from the City Hall to the Schweitzer Museum, all easily reachable on foot from the stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Mairie",
+                "hu": "Városháza tér",
+                "ro": "Piața Primăriei",
+                "en": "Place de la Mairie"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle für regionale Linien.",
+                "hu": "Központi buszmegálló a regionális járatokhoz.",
+                "ro": "Stație de autobuz centrală pentru liniile regionale.",
+                "en": "Central bus stop for regional lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Kreuz-Kirche",
+                "hu": "Szent Kereszt-templom",
+                "ro": "Biserica Sfânta Cruce",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das romanische Portal.",
+                "hu": "Csodálja meg a román stílusú kaput.",
+                "ro": "Admirați portalul romanic.",
+                "en": "Admire the Romanesque portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigte Brücke",
+                "hu": "Erődített híd",
+                "ro": "Podul Fortificat",
+                "en": "Fortified Bridge"
+              },
+              "tip_5lang": {
+                "de": "Zentrum des mittelalterlichen Lebens.",
+                "hu": "A középkori élet központja.",
+                "ro": "Centrul vieții medievale.",
+                "en": "Center of medieval life."
+              }
+            },
+            {
+              "name": {
+                "de": "Albert Schweitzer Haus",
+                "hu": "Albert Schweitzer ház",
+                "ro": "Casa Albert Schweitzer",
+                "en": "Albert Schweitzer House"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Geschichtsinteressierte.",
+                "hu": "A történelem iránt érdeklődőknek kötelező.",
+                "ro": "O vizită obligatorie pentru pasionații de istorie.",
+                "en": "A must-visit for history enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Constant-Say-Haus",
+                "hu": "Constant Say-ház",
+                "ro": "Casa Constant Say",
+                "en": "Constant Say House"
+              },
+              "tip_5lang": {
+                "de": "Fotogenstes Haus in der Hauptstraße.",
+                "hu": "A főutca legfotogénebb háza.",
+                "ro": "Cea mai fotogenică casă de pe strada principală.",
+                "en": "Most photogenic house on the main street."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Baeckeoffe",
+                "tip": "Ein traditioneller elsässischer Eintopf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baeckeoffe",
+                "tip": "Hagyományos elzászi húsos egytálétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baeckeoffe",
+                "tip": "O tocană tradițională alsaciană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baeckeoffe",
+                "tip": "A traditional Alsatian meat stew."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtpark",
+                "tip": "Kleine Grünanlage in der Nähe des Flusses.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városi park",
+                "tip": "Kis zöldterület a folyó közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul orașului",
+                "tip": "Mic spațiu verde lângă râu.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "City Park",
+                "tip": "Small green space near the river.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten & Souvenirs",
+                "tip": "Schöne Karten lokaler Künstler."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapok és szuvenírek",
+                "tip": "Helyi művészek szép kártyái."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederi și suveniruri",
+                "tip": "Carduri frumoase ale artiștilor locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcards & Souvenirs",
+                "tip": "Beautiful cards by local artists."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne der Linie 145.",
+              "Der 'Kut'zig' Bus ist ideal für Weintouren.",
+              "Kaufen Sie Tickets im Voraus."
+            ],
+            "hu": [
+              "Ellenőrizze a 145-ös busz menetrendjét.",
+              "A 'Kut'zig' busz ideális bortúrákhoz.",
+              "Vásárolja meg a jegyeket előre."
+            ],
+            "ro": [
+              "Verificați mersul autobuzelor pentru linia 145.",
+              "Autobuzul 'Kut'zig' este ideal pentru tururi viticole.",
+              "Cumpărați biletele în avans."
+            ],
+            "en": [
+              "Check the schedules for line 145.",
+              "The 'Kut'zig' bus is ideal for wine tours.",
+              "Buy tickets in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an der Place de la Mairie, wo das Vordach der Haltestelle Schutz bietet. Die Sainte-Croix-Kirche ist nur einen kurzen, nassen Sprint entfernt.\nMittags bringt uns der Bus sicher durch den Regen. Die Befestigte Brücke betrachten wir kurz, bevor wir ins Albert-Schweitzer-Haus flüchten.\nAm Nachmittag nutzen wir die Wartezeiten an den Haltestellen für einen Blick auf die nebligen Weinberge. Das Constant-Say-Haus liegt direkt an der Route.\nDer Abend endet mit einer gemütlichen Busfahrt zurück, während wir die Regentropfen an der Scheibe beobachten und trocken bleiben.",
+            "hu": "A Place de la Mairie-nél kezdünk, ahol a buszmegálló teteje védelmet nyújt. A Szent Kereszt-templom csak egy rövid, vizes vágtára van.\nDélben a busz biztonságban visz minket az esőben. Az Erődített hidat csak röviden nézzük meg, mielőtt az Albert Schweitzer-házba menekülnénk.\nDélután a várakozási időt a megállókban a ködös szőlőhegyek megfigyelésére használjuk. A Constant Say-ház közvetlenül az útvonal mentén fekszik.\nA nap egy kényelmes buszos visszautazással zárul, miközben az ablakon lefutó esőcseppeket nézzük, és szárazon maradunk.",
+            "ro": "Începem la Place de la Mairie, unde copertina stației ne oferă adăpost. Biserica Sainte-Croix este la doar un scurt sprint prin ploaie.\nLa prânz, autobuzul ne transportă în siguranță prin ploaie. Admirăm rapid Podul Fortificat înainte de a ne refugia în Casa Albert Schweitzer.\nDupă-amiaza, folosim timpii de așteptare în stații pentru a privi podgoriile cețoase. Casa Constant Say se află direct pe traseu.\nSeara se încheie cu o călătorie confortabilă cu autobuzul înapoi, în timp ce privim picăturile de ploaie de pe geam, rămânând uscați.",
+            "en": "We start at Place de la Mairie, where the bus stop shelter provides cover. Sainte-Croix Church is just a short, wet dash away.\nAt noon, the bus transports us safely through the rain. We view the Fortified Bridge briefly before escaping into the Albert Schweitzer House.\nAfternoon involves using waiting times at stops to glimpse the misty vineyards. Constant Say House is located directly along the route.\nThe day ends with a cozy bus ride back, watching raindrops on the window while staying perfectly dry."
+          },
+          "stops": [
+            {
+              "name": "Place de la Mairie",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht, bietet aber bei Wind wenig Schutz von der Seite.",
+                "hu": "A megálló fedett, de szélben oldalról kevés védelmet nyújt.",
+                "ro": "Stația este acoperită, dar oferă puțină protecție laterală la vânt.",
+                "en": "The stop is covered but offers little protection from the side in wind."
+              }
+            },
+            {
+              "name": "Sainte-Croix Church",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle entfernt.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "Just a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Fortified Bridge",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht vom Busfenster auf die Weiss oft am besten.",
+                "hu": "Esőben a busz ablakából a legszebb a kilátás a Weiss folyóra.",
+                "ro": "Pe ploaie, vederea din geamul autobuzului spre râul Weiss este adesea cea mai bună.",
+                "en": "In the rain, the view of the Weiss from the bus window is often best."
+              }
+            },
+            {
+              "name": "Albert Schweitzer House",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Ideális a következő buszig hátralévő idő melegben történő eltöltéséhez.",
+                "ro": "Ideal pentru a petrece timpul până la următorul autobuz la căldură.",
+                "en": "Ideal for spending time in the warm until the next bus arrives."
+              }
+            },
+            {
+              "name": "Constant Say House",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich in unmittelbarer Nähe des Hauses.",
+                "hu": "A megálló közvetlenül a ház szomszédságában található.",
+                "ro": "Stația se află în imediata apropiere a casei.",
+                "en": "The stop is located in the immediate vicinity of the house."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Fluo Grand Est' für Echtzeit-Infos bei Regenverzögerungen.",
+              "Halten Sie Kleingeld oder die App für das Ticket bereit (trockener Einstieg).",
+              "Busse sind bei schlechtem Wetter oft voller; planen Sie Puffer ein.",
+              "Die Fenster können beschlagen sein; wischen Sie sich eine kleine Ecke frei.",
+              "Die Haltestellen in Kaysersberg sind meist gut beleuchtet."
+            ],
+            "hu": [
+              "Használja a 'Fluo Grand Est' alkalmazást az eső miatti késések figyelésére.",
+              "Készítse elő az aprópénzt vagy az alkalmazást a jegyhez (gyors felszállás).",
+              "Rossz időben a buszok tömöttebbek lehetnek; számoljon rá több időt.",
+              "Az ablakok párásodhatnak; töröljön le egy kis sarkot a kilátáshoz.",
+              "Kaysersberg megállói általában jól kivilágítottak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Fluo Grand Est' pentru info în timp real la întârzieri pe ploaie.",
+              "Aveți pregătit măruntul sau aplicația pentru bilet (îmbarcare rapidă).",
+              "Autobuzele sunt mai pline pe vreme rea; planificați o marjă de timp.",
+              "Geamurile se pot aburi; ștergeți un colț pentru a vedea afară.",
+              "Stațiile din Kaysersberg sunt în general bine iluminate."
+            ],
+            "en": [
+              "Use the 'Fluo Grand Est' app for real-time info on rain delays.",
+              "Have change or the app ready for your ticket (quick boarding).",
+              "Buses are often more crowded in bad weather; plan extra time.",
+              "Windows may fog up; clear a small corner to see outside.",
+              "Bus stops in Kaysersberg are mostly well-lit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen an der Place de la Mairie, wo wir auf den beheizten Bus warten. Die Sainte-Croix-Kirche glänzt unter dem Frost.\nMittags genießen wir die Fahrt durch das verschneite Elsass. Die Befestigte Brücke und das Albert-Schweitzer-Haus wirken im Winterkleid besonders besinnlich.\nAm Nachmittag schauen wir aus dem warmen Bus auf die weißen Weinberge und das Constant-Say-Haus, das festlich geschmückt ist.\nDer Tag endet mit einer letzten Fahrt in der frühen Dunkelheit, wenn die Lichter der Dörfer im Schnee funkeln.",
+            "hu": "Jéghideg reggel a Place de la Mairie-nél, ahol a fűtött buszra várunk. A Szent Kereszt-templom csillog a dér alatt.\nDélben élvezzük az utazást a havas Elzászon át. Az Erődített híd és az Albert Schweitzer-ház téli köntösben különösen meghitt.\nDélután a meleg buszból nézzük a fehér szőlőhegyeket és az ünnepi díszbe öltözött Constant Say-házat.\nA nap az utolsó utazással zárul a korai sötétségben, miközben a falvak fényei szikráznak a hóban.",
+            "ro": "O dimineață înghețată la Place de la Mairie, unde așteptăm autobuzul încălzit. Biserica Sainte-Croix strălucește sub brumă.\nLa prânz ne bucurăm de călătoria prin Alsacia înzăpezită. Podul Fortificat și Casa Albert Schweitzer arată deosebit în haine de iarnă.\nDupă-amiaza privim din autobuzul cald spre podgoriile albe și spre Casa Constant Say, decorată festiv.\nZiua se încheie cu o ultimă călătorie în întunericul timpuriu, când luminile satelor scânteiază în zăpadă.",
+            "en": "An ice-cold morning at Place de la Mairie, waiting for the heated bus. Sainte-Croix Church sparkles under the frost.\nAt noon, enjoy the ride through snowy Alsace. The Fortified Bridge and Albert Schweitzer House look particularly serene in their winter dress.\nAfternoon involves gazing from the warm bus at the white vineyards and the festively decorated Constant Say House.\nThe day ends with a final ride in the early darkness as village lights twinkle in the snow."
+          },
+          "stops": [
+            {
+              "name": "Place de la Mairie",
+              "tip_5lang": {
+                "de": "Im Winter ist dies der zentrale Punkt für den Shuttle zum Weihnachtsmarkt.",
+                "hu": "Télen ez a központi hely a karácsonyi vásár ingajáratához.",
+                "ro": "Iarna, acesta este punctul central pentru naveta către târgul de Crăciun.",
+                "en": "In winter, this is the central point for the Christmas market shuttle."
+              }
+            },
+            {
+              "name": "Sainte-Croix Church",
+              "tip_5lang": {
+                "de": "Die Heizung in der Kirche sorgt für eine angenehme Pause vom Frost.",
+                "hu": "A templom fűtése kellemes pihenőt biztosít a fagy elől.",
+                "ro": "Încălzirea din biserică oferă o pauză plăcută de la ger.",
+                "en": "The heating in the church provides a pleasant break from the frost."
+              }
+            },
+            {
+              "name": "Fortified Bridge",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man im Winter oft einen klaren Blick auf den zugefrorenen Fluss.",
+                "hu": "A buszból télen gyakran tiszta kilátás nyílik a befagyott folyóra.",
+                "ro": "Din autobuz aveți adesea o vedere clară spre râul înghețat iarna.",
+                "en": "From the bus, you often have a clear view of the frozen river in winter."
+              }
+            },
+            {
+              "name": "Albert Schweitzer House",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Öffnungszeiten in der Nebensaison.",
+                "hu": "Ügyeljen a holtszezonban érvényes korlátozott nyitvatartásra.",
+                "ro": "Atenție la programul limitat în afara sezonului turistic.",
+                "en": "Note the limited opening hours during the off-season."
+              }
+            },
+            {
+              "name": "Constant Say House",
+              "tip_5lang": {
+                "de": "Abends leuchtet das Haus direkt an der Busstrecke besonders einladend.",
+                "hu": "Este a ház a buszútvonal mentén különösen hívogatóan világít.",
+                "ro": "Seara, casa de pe traseul autobuzului luminează deosebit de primitor.",
+                "en": "In the evening, the house shines invitingly along the bus route."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da manche Linien seltener fahren.",
+              "Nutzen Sie die Wärme im Bus, um sich zwischen den Stopps aufzuwärmen.",
+              "Die Busse sind in der Weihnachtszeit oft sehr voll (Touristenströme).",
+              "Achten Sie beim Ein- und Aussteigen auf vereiste Gehwege an den Stopps.",
+              "Die Abendfahrten bieten tolle Ausblicke auf die Lichterketten der Täler."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, mert néhány járat ritkábban közlekedik.",
+              "Használja ki a busz melegét a megállók közötti felmelegedéshez.",
+              "A buszok a karácsonyi időszakban gyakran nagyon tömöttek.",
+              "Felszálláskor és leszálláskor ügyeljen a jeges járdákra a megállókban.",
+              "Az esti utazások remek kilátást nyújtanak a völgyek fényfüzéreire."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, deoarece unele linii circulă mai rar.",
+              "Folosiți căldura din autobuz pentru a vă încălzi între stații.",
+              "Autobuzele sunt adesea foarte pline în perioada Crăciunului.",
+              "Atenție la trotuarele înghețate din stații la urcare și coborâre.",
+              "Călătoriile de seară oferă vederi superbe asupra ghirlandelor din văi."
+            ],
+            "en": [
+              "Check the winter schedule as some lines run less frequently.",
+              "Use the warmth in the bus to heat up between stops.",
+              "Buses are often very crowded during the Christmas season.",
+              "Watch for icy sidewalks at the stops when boarding or alighting.",
+              "Evening rides offer great views of the valley light strings."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.kaysersberg.com/",
-    "events": "https://www.kaysersberg.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Kaysersberg (Geburtsort Albert Schweitzers) ist sehr deutschsprachig zugänglich. Lokale verwenden gern Elsässisch: 'Bredala' (Plätzchen), 'Stüebla' (kleine Stube). 'Bonjour' beim Eintritt bleibt Pflicht. Englisch in den Hauptweingütern und Hotels gut.",
-      "hu": "Kaysersberg (Schweitzer Albert szülőhelye) jól megérteti magát németül. A helyiek szeretik használni az elzászit: 'Bredala' (sütemény), 'Stüebla' (kis szoba). A 'Bonjour' belépéskor mindig kötelező. Angol jól megy a fő pincészetekben és hotelekben.",
-      "ro": "Kaysersberg (locul de naștere al lui Albert Schweitzer) este foarte accesibil în germană. Localnicii folosesc bucuros alsaciana: 'Bredala' (prăjituri), 'Stüebla' (cameră mică). 'Bonjour' la intrare rămâne obligatoriu. Engleza este bună în vinăriile principale.",
-      "en": "Kaysersberg (Albert Schweitzer's birthplace) is very German-friendly. Locals love Alsatian words: 'Bredala' (cookies), 'Stüebla' (small parlour). Always greet with 'Bonjour'. English works well at major wineries and hotels."
-    },
-    "best_time_to_visit": {
-      "de": "Dezember-Weihnachtsmarkt gilt als einer der schönsten im Elsass. September-Oktober: Erntezauber. Mai-Juni: weniger Touristen, milde Temperaturen. Vermeiden Sie Juli-August Wochenenden, parken Sie kilometerweit entfernt.",
-      "hu": "A decemberi karácsonyi vásár Elzász egyik legszebbike. Szeptember-október: szüret-varázs. Május-június: kevesebb turista, kellemes hőmérséklet. Július-augusztusi hétvégéken csak több km-rel arrébb tudsz parkolni.",
-      "ro": "Târgul de Crăciun din decembrie este unul dintre cele mai frumoase din Alsacia. Septembrie-octombrie: farmecul culesului. Mai-iunie: mai puțini turiști, temperaturi blânde. Weekend-urile din iulie-august: parcare la kilometri distanță.",
-      "en": "December's Christmas market ranks among Alsace's loveliest. September-October brings harvest magic. May-June: fewer crowds, mild weather. Avoid July-August weekends or you'll park kilometres away."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher. Steile Stiegen zur Burgruine sind bei Nässe rutschig. Achten Sie auf den Weichbach-Bach mit niedrigen Mauern, besonders mit Kindern. Beim Weihnachtsmarkt-Glühwein nicht übertreiben.",
-      "hu": "Nagyon biztonságos. A várromhoz vezető meredek lépcsők esőben csúszósak. A Weichbach patak alacsony falaira ügyelj, főleg gyerekkel. A karácsonyi forralt borral ne vidd túlzásba.",
-      "ro": "Foarte sigur. Treptele abrupte spre ruinele castelului alunecă pe ploaie. Atenție la pârâul Weichbach cu ziduri joase, mai ales cu copii. La vinul fiert de la târg, moderație.",
-      "en": "Very safe. Steep steps to the castle ruin grow slick in rain. Mind the low walls along the Weichbach stream, especially with children. Pace yourself with Christmas-market mulled wine."
-    },
-    "parking_real_time": ""
   }
 }

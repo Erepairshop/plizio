@@ -390,6 +390,514 @@
           "Bring a windbreaker as it can be very windy on the cliff tops.",
           "Book your garden tickets in advance to guarantee entry."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am berühmten Kieselstrand, während das Licht die weißen Klippen beleuchtet. Am Vormittag erklimmen Sie die Falaise d'Aval für den klassischen Postkartenblick auf die Aiguille. Mittags tauchen Sie im Clos Lupin in literarische Geheimnisse ein. Den Nachmittag verbringen Sie in den futuristischen Gärten und lassen den Tag an der Kapelle auf der Falaise d'Amont ausklingen.",
+            "hu": "Kezdje a napot a híres kavicsos strandon, ahogy a fény megvilágítja a fehér sziklákat. Délelőtt másszon fel a Falaise d'Aval sziklára a klasszikus képeslap-kilátásért. Délben merüljön el az irodalmi titkokban a Clos Lupin villában. A délutánt töltse a futurisztikus kertekben, majd zárja a napot a Falaise d'Amont tetején álló kápolnánál.",
+            "ro": "Începeți ziua pe celebra plajă cu pietriș, admirând faleza luminată de soarele dimineții. Înainte de prânz, urcați pe Falaise d'Aval pentru panorama clasică asupra stâncii Aiguille. După amiază, explorați misterele literare la Clos Lupin și grădinile suprarealiste de pe deal. Încheiați ziua la capela de pe Falaise d'Amont pentru un apus de neuitat.",
+            "en": "Start your day on the famous pebble beach as the morning light hits the white cliffs. In the morning, hike up Falaise d'Aval for the quintessential view of the Needle. Midday is for literary mysteries at Clos Lupin. Spend your afternoon in the futuristic gardens, then end your journey at the chapel on Falaise d'Amont for a spectacular panoramic farewell."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage d'Étretat",
+                "hu": "Étretati strand",
+                "ro": "Plaja din Étretat",
+                "en": "Étretat Beach"
+              },
+              "tip_5lang": {
+                "de": "Früh am Morgen ist der Kieselstrand am ruhigsten.",
+                "hu": "Kora reggel a legnyugodtabb a kavicsos part.",
+                "ro": "Plaja cu pietriș este cea mai liniștită dimineața devreme.",
+                "en": "The pebble beach is quietest early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Falaise d'Aval",
+                "hu": "Falaise d'Aval szikla",
+                "ro": "Falaise d'Aval",
+                "en": "Falaise d'Aval"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet den ikonischen Blick auf das Tor.",
+                "hu": "A feljutás után nyílik a legszebb kilátás a kapura.",
+                "ro": "Urcarea oferă vederea iconică asupra arcadei.",
+                "en": "The climb offers the iconic view of the stone arch."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Aiguille",
+                "hu": "L'Aiguille (A Tű)",
+                "ro": "L'Aiguille (Acul)",
+                "en": "L'Aiguille (The Needle)"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach dem 'Schatz' von Arsène Lupin.",
+                "hu": "Itt keressétek Arsène Lupin elrejtett kincsét.",
+                "ro": "Căutați 'comoara' lui Arsène Lupin aici.",
+                "en": "Look for the 'treasure' of Arsène Lupin here."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Clos Lupin",
+                "hu": "Le Clos Lupin múzeum",
+                "ro": "Le Clos Lupin",
+                "en": "Le Clos Lupin"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt des Meisterdiebs.",
+                "hu": "Merüljetek el az úri betörő rejtélyes világában.",
+                "ro": "Explorați universul fascinant al hoțului gentilom.",
+                "en": "Immerse yourself in the world of the gentleman thief."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Jardins d'Étretat",
+                "hu": "Étretati kertek",
+                "ro": "Grădinile din Étretat",
+                "en": "Les Jardins d'Étretat"
+              },
+              "tip_5lang": {
+                "de": "Moderne Kunst trifft auf surreale Gartenarchitektur.",
+                "hu": "Modern művészet és szürreális kertépítészet találkozása.",
+                "ro": "Arta modernă întâlnește arhitectura peisagistică suprarealistă.",
+                "en": "Modern art meets surreal garden architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Notre-Dame de la Garde kápolna",
+                "ro": "Capela Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Die Beschützerin der Seeleute hoch über dem Meer.",
+                "hu": "A tengerészek védelmezője magasan a tenger felett.",
+                "ro": "Protectoarea marinarilor, situată sus deasupra mării.",
+                "en": "The protector of sailors perched high above the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Falaise d'Amont",
+                "hu": "Falaise d'Amont szikla",
+                "ro": "Falaise d'Amont",
+                "en": "Falaise d'Amont"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den Abschiedsblick.",
+                "hu": "A tökéletes hely az utolsó pillantáshoz a városra.",
+                "ro": "Locul perfect pentru o ultimă privire asupra orașului.",
+                "en": "The perfect spot for a final view of the town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Moules-Frites",
+                "tip": "Frische Miesmuscheln direkt am Hafen genießen."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Herzhafte Crêpes in einer der lokalen Crêperien."
+              },
+              {
+                "name": "Cidre de Normandie",
+                "tip": "Ein erfrischendes Glas lokaler Apfelwein zum Essen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Moules-Frites",
+                "tip": "Friss feketekagyló sült krumplival a parton."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Sós hajdinalisztből készült palacsinta helyi sonkával."
+              },
+              {
+                "name": "Normandiai Cidre",
+                "tip": "Frissítő helyi almabor, ami minden ételhez illik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Moules-Frites",
+                "tip": "Midi proaspete servite cu cartofi prăjiți pe faleză."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Clătite sărate tradiționale din hrișcă."
+              },
+              {
+                "name": "Cidru de Normandia",
+                "tip": "Băutură răcoritoare locală din mere, acidulată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Moules-Frites",
+                "tip": "Fresh mussels served with fries, a seaside staple."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Savory buckwheat crepes filled with local ingredients."
+              },
+              {
+                "name": "Normandy Cider",
+                "tip": "Refreshingly crisp local apple cider."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Ruhe finden hinter der kleinen Kapelle.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Les Jardins d'Étretat",
+                "tip": "Meditative Stille in den Gartenräumen.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Kieselstrand am Abend",
+                "tip": "Dem Rollen der Steine in den Wellen zuhören.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Csendes elvonulás a kis kápolna mögött.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Étretati kertek",
+                "tip": "Meditatív nyugalom a szürreális növények közt.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Partszél alkonyatkor",
+                "tip": "A hullámok és a kavicsok morajlásának hallgatása.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Găsește liniștea în spatele micii capele.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Grădinile Étretat",
+                "tip": "Liniște meditativă printre sculpturile vegetale.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Plaja la amurg",
+                "tip": "Ascultă sunetul valurilor care mișcă pietrele.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Falaise d'Amont",
+                "tip": "Find peace in the grassy areas behind the chapel.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "The Gardens of Étretat",
+                "tip": "Meditative silence among the topiary art.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Beach at dusk",
+                "tip": "Listen to the soothing sound of pebbles in the waves.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Alte Markthalle mit lokalen Spezialitäten."
+              },
+              {
+                "name": "Lupin Souvenirs",
+                "tip": "Exklusive Artikel rund um den Meisterdieb."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Régi fedett piac helyi gasztrotermékekkel."
+              },
+              {
+                "name": "Lupin ajándékbolt",
+                "tip": "Egyedi emléktárgyak Arsène Lupin rajongóknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Piața acoperită veche cu produse locale."
+              },
+              {
+                "name": "Suveniruri Lupin",
+                "tip": "Obiecte tematice legate de celebrul personaj."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Historic covered market with local delicacies."
+              },
+              {
+                "name": "Lupin Gift Shop",
+                "tip": "Unique souvenirs for fans of the gentleman thief."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie feste Schuhe für die Wanderungen auf den Klippen.",
+              "Achten Sie auf die Gezeiten, wenn Sie am Fuß der Klippen spazieren.",
+              "Die Parkplätze im Zentrum sind schnell voll, nutzen Sie die P+R Plätze.",
+              "Nehmen Sie eine Windjacke mit, es ist oft windig auf den Höhen.",
+              "Buchen Sie die Gärten im Voraus, um Wartezeiten zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen kényelmes, csúszásmentes cipőt a sziklák meghódításához.",
+              "Mindig ellenőrizze az apály-dagály táblázatot a parton sétálva.",
+              "A belvárosi parkolás nehéz, érdemes a külső parkolókat használni.",
+              "Vigyen magával széldzsekit, a sziklák tetején nagy a szél.",
+              "A kertekbe érdemes előre jegyet foglalni a várakozás elkerülésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte adecvată pentru drumețiile pe faleză.",
+              "Verificați tabelul mareelor înainte de a merge pe sub stânci.",
+              "Parcările centrale se umplu rapid, folosiți parcările de la intrare.",
+              "Luați o jachetă de vânt, curentul este puternic pe înălțimi.",
+              "Rezervați biletele pentru grădini online pentru a evita coada."
+            ],
+            "en": [
+              "Wear sturdy shoes for the cliffside coastal paths.",
+              "Always check tide times before walking along the beach under the cliffs.",
+              "Central parking fills up quickly; use the park-and-ride lots.",
+              "Bring a windbreaker as it can be very windy on the cliff tops.",
+              "Book your garden tickets in advance to guarantee entry."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Strand von Étretat offenbart die raue Schönheit der Normandie. Die Kieselsteine glänzen im nassen Grau.\nMittags trotzen Sie dem Wind auf der Falaise d'Aval. Die Aussicht auf die 'Nadel' im Nebel wirkt fast mystisch.\nNachmittags bietet Le Clos Lupin den perfekten Unterschlupf. Tauchen Sie ein in die Welt von Arsène Lupin, während es draußen prasselt.\nDer Abend endet mit einem dramatischen Blick von der Falaise d'Amont. Die beleuchtete Kapelle leuchtet durch den feinen Regen.",
+            "hu": "Az esős reggel Étretat strandján a Normandia vad szépségét mutatja meg. A kavicsok fényesen csillognak a nedves szürkeségben.\nDélben a Falaise d'Aval szikláin dacolhat a széllel. A ködbe burkolózó 'Tű' látványa szinte misztikus élmény.\nDélután a Le Clos Lupin nyújt tökéletes menedéket. Merüljön el Arsène Lupin világában, miközben odakint kopog az eső.\nAz este drámai kilátással zárul a Falaise d'Amont szikláiról. A megvilágított kápolna áttör a finom permeten.",
+            "ro": "O dimineață ploioasă pe plaja din Étretat dezvăluie frumusețea aspră a Normandiei. Pietricelele strălucesc în griul umed.\nLa prânz, înfruntați vântul pe Falaise d'Aval. Vederea spre 'Acul' în ceață pare aproape mistică.\nDupă-amiaza, Le Clos Lupin oferă adăpostul perfect. Scufundați-vă în lumea lui Arsène Lupin în timp ce ploaia bate în geam.\nSeara se încheie cu o vedere dramatică de pe Falaise d'Amont. Capela iluminată strălucește prin ploaia fină.",
+            "en": "A rainy morning at Étretat Beach reveals the raw beauty of Normandy. The pebbles glisten in the wet gray light.\nAt noon, brave the wind on Falaise d'Aval. The view of 'The Needle' in the mist feels almost mystical.\nIn the afternoon, Le Clos Lupin provides the perfect shelter. Immerse yourself in the world of Arsène Lupin while the rain pours outside.\nThe evening ends with a dramatic view from Falaise d'Amont. The illuminated chapel shines through the fine drizzle."
+          },
+          "stops": [
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Vorsicht, die nassen Kieselsteine können rutschig sein. Feste Wanderschuhe sind ratsam.",
+                "hu": "Vigyázat, a nedves kavicsok csúszósak lehetnek. Stabil túrabakancs ajánlott.",
+                "ro": "Atenție, pietricelele umede pot fi alunecoase. Se recomandă ghete de drumeție stabile.",
+                "en": "Careful, the wet pebbles can be slippery. Sturdy hiking boots are recommended."
+              }
+            },
+            {
+              "name": "Falaise d'Aval",
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen halten Sie Sicherheitsabstand zur Klippenkante.",
+                "hu": "Erős szélben és esőben tartson biztonsági távolságot a szikla szélétől.",
+                "ro": "În caz de vânt puternic și ploaie, păstrați o distanță de siguranță față de marginea falezei.",
+                "en": "In case of strong wind and rain, keep a safety distance from the cliff edge."
+              }
+            },
+            {
+              "name": "L'Aiguille (The Needle)",
+              "tip_5lang": {
+                "de": "Der Nebel macht die Felsnadel oft fotogener. Nutzen Sie den Kontrast für Bilder.",
+                "hu": "A köd gyakran fotogénebbé teszi a sziklatűt. Használja ki a kontrasztot a fotózáshoz.",
+                "ro": "Ceața face adesea acul de stâncă mai fotogenic. Profită de contrast pentru poze.",
+                "en": "The mist often makes the needle rock more photogenic. Use the contrast for photos."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regen trocken zu überstehen. Planen Sie hier mehr Zeit ein.",
+                "hu": "Ideális hely a legerősebb eső átvészelésére. Tervezzen ide több időt.",
+                "ro": "Loc ideal pentru a supraviețui celei mai puternice ploi. Planificați mai mult timp aici.",
+                "en": "Ideal place to survive the heaviest rain dry. Plan more time here."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Die Pfade sind befestigt, aber Regenjacken sind wegen der exponierten Lage Pflicht.",
+                "hu": "Az utak burkoltak, de az esőkabát kötelező a kitett helyszín miatt.",
+                "ro": "Potecile sunt pavate, dar pelerinele de ploaie sunt obligatorii din cauza locației expuse.",
+                "en": "The paths are paved, but raincoats are mandatory due to the exposed location."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de la Garde",
+              "tip_5lang": {
+                "de": "Kleiner Innenraum zum Aufwärmen und Besinnen, während der Schauer vorbeizieht.",
+                "hu": "Kis belső tér a felmelegedéshez és elcsendesedéshez, amíg elvonul a zápor.",
+                "ro": "Interior mic pentru încălzire și reflecție în timp ce trece aversa.",
+                "en": "Small interior for warming up and reflection while the shower passes."
+              }
+            },
+            {
+              "name": "Falaise d'Amont",
+              "tip_5lang": {
+                "de": "Der Boden kann hier matschig werden. Bleiben Sie auf den markierten Wegen.",
+                "hu": "A talaj itt sáros lehet. Maradjon a kijelölt ösvényeken.",
+                "ro": "Solul poate deveni noroios aici. Rămâneți pe potecile marcate.",
+                "en": "The ground can get muddy here. Stay on the marked paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Normannischer Regen kommt oft in Schüben, eine gute Regenjacke ist wichtiger als ein Schirm.",
+              "Le Clos Lupin ist ein hervorragendes Indoor-Ausweichziel bei Gewitter.",
+              "Die Klippenwege können bei Nässe sehr rutschig sein, Vorsicht an den Rändern.",
+              "Genießen Sie eine heiße Schokolade in einem der Cafés im Zentrum, wenn es zu nass wird."
+            ],
+            "hu": [
+              "A normandiai eső gyakran hullámokban érkezik, a jó esőkabát fontosabb, mint az esernyő.",
+              "A Le Clos Lupin kiváló beltéri alternatíva vihar esetén.",
+              "A sziklaösvények nedvesen nagyon csúszósak lehetnek, óvatosan a széleken.",
+              "Élvezzen egy forró csokoládét a központ egyik kávézójában, ha túl nedves lesz az idő."
+            ],
+            "ro": [
+              "Ploaia normandă vine adesea în valuri, o jachetă bună de ploaie este mai importantă decât o umbrelă.",
+              "Le Clos Lupin este o alternativă excelentă de interior în caz de furtună.",
+              "Potecile de pe faleză pot fi foarte alunecoase când sunt ude, atenție la margini.",
+              "Savurați o ciocolată caldă într-una dintre cafenelele din centru dacă devine prea umed."
+            ],
+            "en": [
+              "Normandy rain often comes in waves; a good raincoat is more important than an umbrella.",
+              "Le Clos Lupin is an excellent indoor alternative during thunderstorms.",
+              "Cliff paths can be very slippery when wet; be careful near the edges.",
+              "Enjoy a hot chocolate in one of the center's cafes if it gets too wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Strand von Étretat empfängt Sie mit klarer Luft und einsamen Weiten.\nMittags peitscht der kalte Atlantikwind über die Falaise d'Aval. Die Brandung ist im Winter besonders gewaltig.\nNachmittags wärmt Sie die gemütliche Atmosphäre in den Jardins d'Étretat, bevor die Dämmerung früh einsetzt.\nDer Abend kommt schnell. Genießen Sie die blaue Stunde an der Kapelle, bevor Sie sich in ein warmes Bistro zurückziehen.",
+            "hu": "A fagyos reggel Étretat strandján tiszta levegővel és magányos tájakkal fogadja Önt.\nDélben a hideg atlanti szél korbácsolja a Falaise d'Aval szikláit. A hullámverés télen különösen hatalmas.\nDélután a Jardins d'Étretat hangulatos légköre melengeti meg, mielőtt korán leszállna az alkony.\nAz este gyorsan eljön. Élvezze a kék órát a kápolnánál, mielőtt visszahúzódna egy meleg bisztróba.",
+            "ro": "O dimineață geroasă pe plaja din Étretat vă întâmpină cu aer curat și întinderi solitare.\nLa prânz, vântul rece al Atlanticului biciuiește Falaise d'Aval. Valurile sunt deosebit de puternice iarna.\nDupă-amiaza, atmosfera primitoare din Jardins d'Étretat vă încălzește înainte ca amurgul să se instaleze devreme.\nSeara vine repede. Bucurați-vă de ora albastră la capelă înainte de a vă retrage într-un bistro cald.",
+            "en": "A frosty morning at Étretat Beach greets you with crisp air and solitary expanses.\nAt noon, the cold Atlantic wind lashes across Falaise d'Aval. The surf is particularly powerful in winter.\nIn the afternoon, the cozy atmosphere in Les Jardins d'Étretat warms you before dusk sets in early.\nEvening comes quickly. Enjoy the blue hour at the chapel before retreating to a warm bistro."
+          },
+          "stops": [
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft höher. Bleiben Sie fern vom Wasser bei Flut.",
+                "hu": "A hullámverés télen gyakran magasabb. Dagálykor maradjon távol a víztől.",
+                "ro": "Valurile sunt adesea mai mari iarna. Stați departe de apă la flux.",
+                "en": "The surf is often higher in winter. Stay away from the water at high tide."
+              }
+            },
+            {
+              "name": "Falaise d'Aval",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, der Windchill-Effekt auf den Klippen ist extrem.",
+                "hu": "Viseljen szélálló ruházatot, a szél hűtő hatása a sziklákon extrém lehet.",
+                "ro": "Purtați haine rezistente la vânt, efectul de răcire al vântului pe faleze este extrem.",
+                "en": "Wear windproof clothing; the wind chill effect on the cliffs is extreme."
+              }
+            },
+            {
+              "name": "L'Aiguille (The Needle)",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps einlegen, um nicht auszukühlen. Das Licht ist oft glasklar.",
+                "hu": "Tartson rövid fotómegállókat, hogy ne hűljön ki. A fény gyakran kristálytiszta.",
+                "ro": "Faceți opriri scurte pentru fotografii pentru a nu îngheța. Lumina este adesea cristalină.",
+                "en": "Take short photo stops to avoid getting cold. The light is often crystal clear."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Inneren und die Ruhe der Nebensaison.",
+                "hu": "Élvezze a benti fűtést és az utószezon nyugalmát.",
+                "ro": "Bucurați-vă de încălzirea din interior și de liniștea din extrasezon.",
+                "en": "Enjoy the heating inside and the peace of the low season."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Im Winter sind die Skulpturen oft mit Raureif bedeckt, was ihnen einen besonderen Glanz verleiht.",
+                "hu": "Télen a szobrokat gyakran dér borítja, ami különleges fényt ad nekik.",
+                "ro": "Iarna, sculpturile sunt adesea acoperite cu promoroacă, ceea ce le oferă o strălucire aparte.",
+                "en": "In winter, the sculptures are often covered with frost, giving them a special glow."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de la Garde",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang, der im Winter bereits gegen 17:00 Uhr stattfindet.",
+                "hu": "Tökéletes hely a naplementéhez, ami télen már 17:00 körül bekövetkezik.",
+                "ro": "Locul perfect pentru apus, care iarna are loc deja în jurul orei 17:00.",
+                "en": "Perfect spot for the sunset, which occurs as early as 17:00 in winter."
+              }
+            },
+            {
+              "name": "Falaise d'Amont",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz hinter dem Monument, wenn der Wind von Norden weht.",
+                "hu": "Keressen menedéket a monumentum mögött, ha északi szél fúj.",
+                "ro": "Căutați adăpost în spatele monumentului dacă vântul bate dinspre nord.",
+                "en": "Seek shelter behind the monument if the wind blows from the north."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter früh unter (ca. 17:00), planen Sie Ihre Wanderung entsprechend.",
+              "Zwiebelprinzip bei der Kleidung ist Pflicht für die Klippenwanderung.",
+              "Viele kleine Läden im Zentrum haben eingeschränkte Öffnungszeiten.",
+              "Die Brandung ist bei Winterstürmen spektakulär, aber halten Sie Abstand zum Ufer."
+            ],
+            "hu": [
+              "A nap télen korán nyugszik (kb. 17:00), eszerint tervezze a túrát.",
+              "A réteges öltözködés kötelező a sziklatúrához.",
+              "Sok kis bolt a központban korlátozott nyitvatartással üzemel.",
+              "A hullámverés téli viharok idején látványos, de tartson távolságot a parttól."
+            ],
+            "ro": [
+              "Soarele apune devreme iarna (aprox. 17:00), planificați-vă drumeția corespunzător.",
+              "Îmbrăcămintea în straturi este obligatorie pentru drumeția pe faleză.",
+              "Multe magazine mici din centru au program de funcționare limitat.",
+              "Valurile sunt spectaculoase în timpul furtunilor de iarnă, dar păstrați distanța față de țărm."
+            ],
+            "en": [
+              "The sun sets early in winter (approx. 17:00); plan your hike accordingly.",
+              "Layered clothing is a must for the cliff hike.",
+              "Many small shops in the center have limited opening hours.",
+              "The surf is spectacular during winter storms, but keep your distance from the shore."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +1186,410 @@
           "Carry enough water as the climbs can be strenuous.",
           "A sturdy lock is essential for stops at museums and gardens."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Étretat mit dem Rad, von der Uferpromenade bis hinauf zu den windigen Höhen der Klippen. Diese Route verbindet die kulturellen Highlights im Zentrum mit den weiten Aussichten der Falaise d'Amont. Genießen Sie die frische Meeresbrise und die Flexibilität, auch etwas abgelegenere Pfade zu erkunden, die zu Fuß zu weit wären.",
+            "hu": "Fedezze fel Étretat-t kerékpárral a tengerparti sétánytól a sziklák szeles csúcsáig. Ez az útvonal összeköti a belváros kulturális látnivalóit a Falaise d'Amont tágas panorámájával. Élvezze a tengeri szellőt és a szabadságot, hogy olyan távolabbi ösvényeket is bejárhat, amelyek gyalog már messze lennének.",
+            "ro": "Explorați Étretat pe două roți, de la faleză până pe culmile vântoase ale stâncilor. Acest traseu îmbină atracțiile culturale din centru cu panoramele largi de pe Falaise d'Amont. Bucurați-vă de briza mării și de flexibilitatea de a ajunge rapid în locuri care ar fi prea departe de parcurs pe jos.",
+            "en": "Discover Étretat by bike, from the seaside promenade to the windy heights of the cliffs. This route combines cultural highlights in the town center with the expansive views of Falaise d'Amont. Enjoy the fresh sea breeze and the flexibility to explore paths that would be a bit too far to reach on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage d'Étretat",
+                "hu": "Étretati strand",
+                "ro": "Plaja din Étretat",
+                "en": "Étretat Beach"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Wasser vor der Tour.",
+                "hu": "Rövid pihenő a parton az indulás előtt.",
+                "ro": "Scurt popas la apă înainte de tură.",
+                "en": "Quick stop by the water before the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Jardins d'Étretat",
+                "hu": "Étretati kertek",
+                "ro": "Grădinile din Étretat",
+                "en": "Les Jardins d'Étretat"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad am Eingang sicher abstellen.",
+                "hu": "A bringát a bejáratnál biztonságosan le lehet zárni.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Park your bike safely at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument Nungesser et Coli",
+                "hu": "Nungesser és Coli emlékmű",
+                "ro": "Monumentul Nungesser et Coli",
+                "en": "Monument Nungesser et Coli"
+              },
+              "tip_5lang": {
+                "de": "Denkmal für die Pioniere der Atlantiküberquerung.",
+                "hu": "Emlékmű az atlanti átrepülés úttörőinek.",
+                "ro": "Monument dedicat pionierilor traversării Atlanticului.",
+                "en": "Monument to the pioneers of Atlantic flight."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Clos Lupin",
+                "hu": "Le Clos Lupin múzeum",
+                "ro": "Le Clos Lupin",
+                "en": "Le Clos Lupin"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Pause im kühlen Inneren des Hauses.",
+                "hu": "Tökéletes pihenő a ház hűvös falai között.",
+                "ro": "O pauză perfectă la răcoarea muzeului.",
+                "en": "A perfect break in the cool interior of the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Falaise d'Amont (Panorama)",
+                "hu": "Falaise d'Amont panoráma",
+                "ro": "Panorama Falaise d'Amont",
+                "en": "Falaise d'Amont (Panorama)"
+              },
+              "tip_5lang": {
+                "de": "Weiter entfernte Aussichtspunkte anradeln.",
+                "hu": "Tekerjünk el a távolabbi kilátópontokhoz is.",
+                "ro": "Pedalați până la punctele de belvedere mai îndepărtate.",
+                "en": "Cycle further to reach more distant viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Étretat Zentrum",
+                "hu": "Étretat központ",
+                "ro": "Centrul Étretat",
+                "en": "Étretat Center"
+              },
+              "tip_5lang": {
+                "de": "Ausklang in einem der Cafés.",
+                "hu": "Zárja a túrát az egyik hangulatos kávézóban.",
+                "ro": "Încheiați tura la una dintre cafenele.",
+                "en": "Finish your ride at one of the cozy cafes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêpes à emporter",
+                "tip": "Schneller Snack für unterwegs."
+              },
+              {
+                "name": "Lokaler Käse",
+                "tip": "Camembert de Normandie vom Markt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sétáló palacsinta",
+                "tip": "Gyors és finom falat tekerés közben."
+              },
+              {
+                "name": "Helyi sajtok",
+                "tip": "Igazi normandiai Camembert a piacról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Clătite la pachet",
+                "tip": "O gustare rapidă între două reprize de pedalat."
+              },
+              {
+                "name": "Brânzeturi locale",
+                "tip": "Camembert de Normandia direct de la sursă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Takeaway Crepes",
+                "tip": "A quick and delicious snack for the road."
+              },
+              {
+                "name": "Local Cheeses",
+                "tip": "Authentic Normandy Camembert from the market."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterland Pfade",
+                "tip": "Ruhige Wege weg von den Touristenströmen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hátországi ösvények",
+                "tip": "Csendes utak távol a turisták tömegétől.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cărările din hinterland",
+                "tip": "Drumuri liniștite departe de fluxul de turiști.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Inland trails",
+                "tip": "Quiet paths away from the main tourist crowds.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradladen Souvenirs",
+                "tip": "Kleine Andenken für Radbegeisterte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpáros szuvenír",
+                "tip": "Apró emléktárgyak bringásoknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri pentru bicicliști",
+                "tip": "Mici amintiri tematice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike-themed gifts",
+                "tip": "Small mementos for cycling enthusiasts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Bremszustand vor der Abfahrt von den Klippen.",
+              "Einige Wege auf den Klippen sind nur für Fußgänger reserviert.",
+              "Nutzen Sie die markierten Radwege im Stadtgebiet.",
+              "Nehmen Sie ausreichend Wasser mit, der Aufstieg ist steil.",
+              "Ein Schloss ist für die Besichtigung der Museen unerlässlich."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a meredek lejtők előtt.",
+              "Néhány szikla menti ösvény csak gyalogosoknak van fenntartva.",
+              "Használja a kijelölt kerékpársávokat a városban.",
+              "Vigyen elég vizet, az emelkedők izzasztóak lehetnek.",
+              "A múzeumlátogatáshoz mindenképp hozzon lakatot."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a coborî de pe faleză.",
+              "Unele poteci de pe stânci sunt rezervate exclusiv pietonilor.",
+              "Folosiți pistele de biciclete marcate în oraș.",
+              "Luați destulă apă, urcușurile sunt solicitante.",
+              "Un antifurt este esențial pentru opririle la muzee."
+            ],
+            "en": [
+              "Check your brakes before descending from the cliff tops.",
+              "Some cliffside paths are strictly for pedestrians only.",
+              "Stick to marked cycling lanes within the town area.",
+              "Carry enough water as the climbs can be strenuous.",
+              "A sturdy lock is essential for stops at museums and gardens."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start auf zwei Rädern. Der Regen reinigt die Luft am Strand.\nMittags erkunden Sie die Jardins d'Étretat, wo die Pflanzen im Regen besonders intensiv duften.\nNachmittags geht es zum Clos Lupin. Das Fahrrad sicher abgestellt, genießen Sie die Krimi-Atmosphäre.\nDer Abend endet mit einer Fahrt zum Panorama der Falaise d'Amont, wo sich der Regen oft lichtet.",
+            "hu": "Frissítő kezdés két keréken. Az eső megtisztítja a levegőt a strandon.\nDélben a Jardins d'Étretat kertjeit fedezi fel, ahol a növények illata esőben különösen intenzív.\nDélután irány a Clos Lupin. A biciklit biztonságosan leparkolva élvezheti a krimi-hangulatot.\nAz este egy tekeréssel zárul a Falaise d'Amont panorámájához, ahol az eső gyakran eláll.",
+            "ro": "Un început revigorant pe două roți. Ploaia curăță aerul de pe plajă.\nLa prânz, explorați Jardins d'Étretat, unde plantele miros deosebit de intens în ploaie.\nDupă-amiaza, mergeți la Clos Lupin. Cu bicicleta parcată în siguranță, bucurați-vă de atmosfera de mister.\nSeara se încheie cu o plimbare spre panorama de pe Falaise d'Amont, unde ploaia se oprește adesea.",
+            "en": "A refreshing start on two wheels. The rain cleans the air at the beach.\nAt noon, explore Les Jardins d'Étretat, where the plants smell particularly intense in the rain.\nIn the afternoon, head to Le Clos Lupin. With your bike safely parked, enjoy the mystery atmosphere.\nThe evening ends with a ride to the Falaise d'Amont panorama, where the rain often clears."
+          },
+          "stops": [
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Asphalt, der bei Nässe glatt wird. Bremsen Sie frühzeitig.",
+                "hu": "Vigyázat az aszfalton, ami nedvesen csúszik. Fékezzen időben.",
+                "ro": "Atenție pe asfalt, care devine alunecos când este ud. Frânați din timp.",
+                "en": "Careful on the asphalt, which gets slippery when wet. Brake early."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejárati részt a biciklik tárolására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele.",
+                "en": "Use the covered entrance area to park your bikes."
+              }
+            },
+            {
+              "name": "Monument Nungesser et Coli",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto zwischen den Regenschauern.",
+                "hu": "Rövid megálló egy fotóra az esőfelhők között.",
+                "ro": "Scurtă oprire pentru o fotografie între aversele de ploaie.",
+                "en": "Short stop for a photo between rain showers."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre Regenbekleidung an der Garderobe trocknen lassen.",
+                "hu": "Itt a ruhatárban megszáríthatja esőruházatát.",
+                "ro": "Aici vă puteți lăsa hainele de ploaie la uscat la garderobă.",
+                "en": "Here you can let your rain gear dry at the cloakroom."
+              }
+            },
+            {
+              "name": "Falaise d'Amont (Panorama)",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Gegenwind anstrengend sein. Nutzen Sie niedrigere Gänge.",
+                "hu": "A felfelé vezető út ellenszélben fárasztó lehet. Használjon alacsonyabb fokozatot.",
+                "ro": "Urcarea poate fi obositoare în caz de vânt din față. Folosiți viteze inferioare.",
+                "en": "The uphill ride can be exhausting with a headwind. Use lower gears."
+              }
+            },
+            {
+              "name": "Étretat Center",
+              "tip_5lang": {
+                "de": "Zahlreiche überdachte Plätze vor den Geschäften zum kurzen Verschnaufen.",
+                "hu": "Számos fedett hely az üzletek előtt egy rövid pihenőhöz.",
+                "ro": "Numeroase locuri acoperite în fața magazinelor pentru o scurtă pauză.",
+                "en": "Numerous covered spots in front of shops for a quick breather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Vollvisierhelme oder Brillen schützen die Augen vor peitschendem Regen.",
+              "Die Küstenstraßen sind bei Regen windanfällig, halten Sie den Lenker fest.",
+              "Ein kleiner Lappen zum Abwischen des Sattels ist bei Regen Gold wert."
+            ],
+            "hu": [
+              "Kerülje a fékezést a nedves útburkolati jeleken.",
+              "A plexis sisak vagy szemüveg védi a szemet a vágó esőtől.",
+              "A partmenti utak esőben szelesek, fogja erősen a kormányt.",
+              "Egy kis rongy a nyereg letörléséhez aranyat ér esőben."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere umede.",
+              "Căștile cu vizieră sau ochelarii protejează ochii de ploaia biciuitoare.",
+              "Drumurile de coastă sunt expuse la vânt în timpul ploii, țineți bine ghidonul.",
+              "O cârpă mică pentru a șterge șaua valorează aur pe ploaie."
+            ],
+            "en": [
+              "Avoid braking on wet road markings.",
+              "Full-face helmets or goggles protect the eyes from driving rain.",
+              "Coastal roads are windy during rain; hold the handlebars firmly.",
+              "A small rag to wipe the saddle is worth its weight in gold in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen auf dem Rad. Der Fahrtwind ist eisig, aber die Sicht ist fantastisch.\nMittags erreichen Sie die Gärten, die im Winter eine ruhige, fast erstarrte Schönheit besitzen.\nNachmittags bietet das Monument Nungesser et Coli einen weiten Blick über den winterlichen Atlantik.\nAbends kehren Sie ins Zentrum zurück, wo die Lichter der Stadt im Winter besonders gemütlich wirken.",
+            "hu": "Hűvös reggel a bringán. A menetszél jeges, de a kilátás fantasztikus.\nDélben eléri a kerteket, amelyek télen nyugodt, szinte megfagyott szépséget árasztanak.\nDélután a Nungesser et Coli emlékmű tágas kilátást nyújt a téli Atlanti-óceánra.\nEste térjen vissza a központba, ahol a város fényei télen különösen otthonosak.",
+            "ro": "O dimineață răcoroasă pe bicicletă. Vântul este înghețat, dar vizibilitatea este fantastică.\nLa prânz ajungeți la grădini, care iarna au o frumusețe liniștită, aproape încremenită.\nDupă-amiaza, Monumentul Nungesser et Coli oferă o vedere largă asupra Atlanticului hibernal.\nSeara reveniți în centru, unde luminile orașului par deosebit de primitoare iarna.",
+            "en": "A cool morning on the bike. The wind chill is icy, but the visibility is fantastic.\nAt noon, reach the gardens, which possess a quiet, almost frozen beauty in winter.\nIn the afternoon, the Nungesser et Coli Monument offers a wide view over the wintry Atlantic.\nIn the evening, return to the center, where the city lights seem particularly cozy in winter."
+          },
+          "stops": [
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Fahrt entlang der Promenade unverzichtbar.",
+                "hu": "A sétány menti tekeréshez elengedhetetlen a meleg kesztyű.",
+                "ro": "Mănușile călduroase sunt indispensabile pentru plimbarea de-a lungul promenadei.",
+                "en": "Warm gloves are essential for the ride along the promenade."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der grünen Architektur und dem grauen Meer.",
+                "hu": "Élvezze a zöld építészet és a szürke tenger közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre arhitectura verde și marea gri.",
+                "en": "Enjoy the contrast between the green architecture and the gray sea."
+              }
+            },
+            {
+              "name": "Monument Nungesser et Coli",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Aussicht zu genießen, bevor der Körper zu stark auskühlt.",
+                "hu": "Rövid megálló a kilátás élvezetéhez, mielőtt a teste túlságosan lehűlne.",
+                "ro": "Scurtă oprire pentru a te bucura de priveliște înainte ca corpul să se răcească prea mult.",
+                "en": "Short stop to enjoy the view before your body cools down too much."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause während Ihrer Tour.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként a túra során.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire în timpul turului.",
+                "en": "Use the museum visit as a warming break during your tour."
+              }
+            },
+            {
+              "name": "Falaise d'Amont (Panorama)",
+              "tip_5lang": {
+                "de": "Ab 16:30 Uhr färbt sich der Himmel oft dramatisch. Beste Zeit für Fotos.",
+                "hu": "16:30-tól az ég gyakran drámai színeket ölt. A legjobb idő a fotózáshoz.",
+                "ro": "De la 16:30, cerul capătă adesea culori dramatice. Cel mai bun moment pentru fotografii.",
+                "en": "From 16:30, the sky often takes on dramatic colors. Best time for photos."
+              }
+            },
+            {
+              "name": "Étretat Center",
+              "tip_5lang": {
+                "de": "Im Winter sind die Cafés ein beliebter Rückzugsort für Radfahrer.",
+                "hu": "Télen a kávézók a biciklisek kedvelt búvóhelyei.",
+                "ro": "Iarna, cafenelele sunt un refugiu popular pentru bicicliști.",
+                "en": "In winter, cafes are a popular retreat for cyclists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, um dem kalten Fahrtwind zu trotzen.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Vorsicht vor überfrierender Nässe in schattigen Kurven der Klippenwege.",
+              "Trinken Sie ausreichend Tee oder Wasser, auch wenn das Durstgefühl geringer ist."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet, hogy dacoljon a hideg menetszéllel.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt könnyen csökkenhet.",
+              "Vigyázzon a lefagyásokkal a sziklaösvények árnyékos kanyarjaiban.",
+              "Igyon elegendő teát vagy vizet, még ha a szomjúságérzet kisebb is."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru a rezista vântului rece.",
+              "Verificați presiunea anvelopelor; aerul rece o face să scadă ușor.",
+              "Atenție la porțiunile înghețate în curbele umbrite ale potecilor de pe faleză.",
+              "Beți suficient ceai sau apă, chiar dacă senzația de sete este mai mică."
+            ],
+            "en": [
+              "Wear thermal underwear to brave the cold wind chill.",
+              "Check tire pressure; cold air causes it to drop slightly.",
+              "Watch out for icy patches in shaded curves of the cliff paths.",
+              "Drink enough tea or water, even if you feel less thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -926,6 +1838,362 @@
           "Do not leave any valuables visible inside the car.",
           "Allow extra time for finding a parking spot on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen von Étretat. Beginnen Sie oben an der Kapelle für einen weiten Rundblick, bevor Sie die faszinierenden Gärten besuchen. Mittags führt der Weg in das Herz des Ortes zum Clos Lupin und anschließend an den Strand. Den Abschluss bildet der kurze Aufstieg zur Falaise d'Aval für das perfekte Urlaubsfoto.",
+            "hu": "Autóval kényelmesen elérheti Étretat különböző szintjeit. Kezdje fent a kápolnánál a tágas panorámáért, mielőtt meglátogatná a lenyűgöző kerteket. Délben az út a város szívébe vezet a Clos Lupin villához, majd a tengerpartra. A napot a Falaise d'Aval sziklához tett rövid séta zárja a tökéletes nyaralós fotóért.",
+            "ro": "Cu mașina puteți accesa ușor diferitele niveluri ale orașului Étretat. Începeți sus la capelă pentru o panoramă largă, înainte de a vizita grădinile fascinante. La prânz, mergeți în inima stațiunii la Clos Lupin și apoi pe plajă. Încheiați cu o scurtă urcare pe Falaise d'Aval pentru fotografia perfectă de vacanță.",
+            "en": "By car, you can easily access the different levels of Étretat. Start at the top by the chapel for an expansive view before visiting the fascinating gardens. Midday takes you into the heart of the village to Clos Lupin and then to the beach. End your trip with a short walk to Falaise d'Aval for that perfect holiday photo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Notre-Dame de la Garde kápolna",
+                "ro": "Capela Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt an der Klippe nutzen.",
+                "hu": "Használja a közvetlenül a szikla melletti parkolót.",
+                "ro": "Folosiți parcarea situată chiar lângă faleză.",
+                "en": "Use the parking lot located right by the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Jardins d'Étretat",
+                "hu": "Étretati kertek",
+                "ro": "Grădinile din Étretat",
+                "en": "Les Jardins d'Étretat"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Aussicht auf den Ort.",
+                "hu": "Egyedülálló kilátás nyílik innen a falura.",
+                "ro": "O vedere unică asupra satului de aici.",
+                "en": "Unique perspective of the village from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Clos Lupin",
+                "hu": "Le Clos Lupin múzeum",
+                "ro": "Le Clos Lupin",
+                "en": "Le Clos Lupin"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Villa parken.",
+                "hu": "Parkoljon a villa közelében lévő utcákban.",
+                "ro": "Parcați pe străzile din apropierea vilei.",
+                "en": "Park in the streets near the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Étretat",
+                "hu": "Étretati strand",
+                "ro": "Plaja din Étretat",
+                "en": "Étretat Beach"
+              },
+              "tip_5lang": {
+                "de": "Langer Spaziergang entlang der Flutlinie.",
+                "hu": "Hosszú séta a vízpart mentén.",
+                "ro": "O plimbare lungă de-a lungul liniei apei.",
+                "en": "A long walk along the tide line."
+              }
+            },
+            {
+              "name": {
+                "de": "Falaise d'Aval",
+                "hu": "Falaise d'Aval szikla",
+                "ro": "Falaise d'Aval",
+                "en": "Falaise d'Aval"
+              },
+              "tip_5lang": {
+                "de": "Letzter Blick auf das natürliche Felstor.",
+                "hu": "Utolsó pillantás a természetes sziklakapura.",
+                "ro": "O ultimă privire asupra arcadei naturale.",
+                "en": "A final look at the natural rock arch."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frutti di Mare Platte",
+                "tip": "Meeresfrüchte-Spezialitäten in Küstennähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tenger gyümölcsei tál",
+                "tip": "Friss tengeri finomságok a part mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platou cu fructe de mare",
+                "tip": "Specialități marine proaspete lângă coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood Platter",
+                "tip": "Fresh local seafood specialties by the coast."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kapellen-Aussicht",
+                "tip": "Am frühen Morgen fast menschenleer.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kápolna kilátó",
+                "tip": "Kora reggel szinte teljesen néptelen.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea de la capelă",
+                "tip": "Aproape pustie dimineața devreme.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chapel Viewpoint",
+                "tip": "Almost deserted early in the morning.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Keramik",
+                "tip": "Lokale Kunstwerke als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves kerámia",
+                "tip": "Helyi művészeti termékek emlékként."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "Obiecte de artă locală ca suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Ceramics",
+                "tip": "Local artistic pieces as souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig in den engen Gassen des Zentrums.",
+              "Nutzen Sie Bezahl-Apps für die Parkgebühren.",
+              "Die Hauptstraße zum Strand ist oft für PKW gesperrt.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche am Wochenende ein."
+            ],
+            "hu": [
+              "Vezessen óvatosan a belváros szűk utcáiban.",
+              "Használjon mobilappot a parkolási díj fizetéséhez.",
+              "A strandhoz vezető főutca gyakran le van zárva az autók elől.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Hétvégén számoljon több idővel a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe străduțele înguste din centru.",
+              "Folosiți aplicații mobile pentru plata parcării.",
+              "Strada principală spre plajă este adesea închisă mașinilor.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Alocați mai mult timp pentru căutarea parcării în weekend."
+            ],
+            "en": [
+              "Drive carefully through the narrow town center streets.",
+              "Use mobile apps to pay for parking fees conveniently.",
+              "The main street to the beach is often restricted for cars.",
+              "Do not leave any valuables visible inside the car.",
+              "Allow extra time for finding a parking spot on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Trockenen. Die Fahrt zur Kapelle bietet spektakuläre Ausblicke trotz Regen.\nMittags parken Sie nah an den Gärten, um die kunstvollen Hecken im Regenglanz zu bewundern.\nNachmittags ist der Besuch im Clos Lupin ein Muss. Die Rätsel von Lupin lassen das Wetter vergessen.\nAbends genießen Sie den Blick auf die tosenden Wellen direkt vom Auto am Strandparkplatz.",
+            "hu": "Kényelmes kezdés a szárazban. Az út a kápolnához esőben is látványos kilátást nyújt.\nDélben parkoljon a kertek közelében, hogy megcsodálja a sövényeket az eső fényében.\nDélután a Clos Lupin látogatása kötelező. Lupin rejtélyei elfeledtetik az időjárást.\nEste élvezze a tomboló hullámok látványát közvetlenül az autóvól a strandparkolóból.",
+            "ro": "Început confortabil la adăpost. Drumul spre capelă oferă priveliști spectaculoase în ciuda ploii.\nLa prânz parcați aproape de grădini pentru a admira gardurile vii în strălucirea ploii.\nDupă-amiaza, vizita la Clos Lupin este obligatorie. Enigmele lui Lupin te fac să uiți de vreme.\nSeara, bucurați-vă de vederea valurilor înspumate direct din mașină, din parcarea de la plajă.",
+            "en": "A comfortable start in the dry. The drive to the chapel offers spectacular views despite the rain.\nAt noon, park close to the gardens to admire the artistic hedges in the rain's glow.\nIn the afternoon, a visit to Le Clos Lupin is a must. Lupin's mysteries make you forget the weather.\nIn the evening, enjoy the view of the crashing waves directly from your car at the beach parking lot."
+          },
+          "stops": [
+            {
+              "name": "Chapelle Notre-Dame de la Garde",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kapelle, um unnötige Wege im Regen zu vermeiden.",
+                "hu": "Parkoljon közvetlenül a kápolnánál, hogy elkerülje a felesleges gyaloglást az esőben.",
+                "ro": "Parcați direct la capelă pentru a evita drumurile inutile prin ploaie.",
+                "en": "Park directly at the chapel to avoid unnecessary walking in the rain."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Kofferraum ist für den kurzen Weg zum Eingang praktisch.",
+                "hu": "Egy esernyő a csomagtartóban praktikus a bejáratig vezető rövid útra.",
+                "ro": "O umbrelă în portbagaj este practică pentru drumul scurt până la intrare.",
+                "en": "An umbrella in the trunk is practical for the short walk to the entrance."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Parkplätze im Zentrum, um trocken ins Museum zu gelangen.",
+                "hu": "Használja a közeli központi parkolókat, hogy szárazon jusson a múzeumba.",
+                "ro": "Folosiți parcările centrale din apropiere pentru a ajunge uscat la muzeu.",
+                "en": "Use the nearby center parking lots to reach the museum dry."
+              }
+            },
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Strand bietet Schutz, während Sie die Brandung beobachten.",
+                "hu": "A strandparkoló védelmet nyújt, miközben a hullámverést figyeli.",
+                "ro": "Parcarea de la plajă oferă protecție în timp ce urmăriți valurile.",
+                "en": "The beach parking lot offers shelter while you watch the surf."
+              }
+            },
+            {
+              "name": "Falaise d'Aval",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Straßen, das Wasser kann dort stehen.",
+                "hu": "Vezessen óvatosan a szűk utakon, a víz megállhat rajtuk.",
+                "ro": "Conduceți cu atenție pe străzile înguste, apa poate stagna acolo.",
+                "en": "Drive carefully on the narrow roads; water can accumulate there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf den Landstraßen zur Küste.",
+              "Die Parkplätze direkt am Strand sind bei Regen oft leerer.",
+              "Lassen Sie die Sitzheizung an, um nach dem kurzen Fotostopp schnell wieder warm zu werden.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaningre a part felé vezető országutakon.",
+              "A közvetlen strandparkolók esőben gyakran üresebbek.",
+              "Hagyja bekapcsolva az ülésfűtést a gyors felmelegedéshez a fotómegállók után.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale spre coastă.",
+              "Parcările direct de pe plajă sunt adesea mai libere în timpul ploii.",
+              "Lăsați încălzirea în scaune pornită pentru a vă încălzi rapid după opririle foto.",
+              "Verificați starea ștergătoarelor înainte de plecare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads to the coast.",
+              "Parking lots directly at the beach are often emptier in the rain.",
+              "Leave the seat heating on to warm up quickly after short photo stops.",
+              "Check the condition of the windshield wipers before departure."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen. Das Auto ist der perfekte Ausgangspunkt für die Kapelle.\nMittags bietet die Fahrt entlang der Küste weite Blicke auf den winterlichen Atlantik.\nNachmittags wärmt Sie das Clos Lupin auf, bevor Sie den Sonnenuntergang am Strand erleben.\nAbends ist das Zentrum beleuchtet und lädt zu einem kurzen Spaziergang vor dem Dinner ein.",
+            "hu": "Tiszta, hideg reggel. Az autó tökéletes kiindulópont a kápolnához.\nDélben a part menti autózás tágas kilátást nyújt a téli Atlanti-óceánra.\nDélután a Clos Lupin melegíti fel, mielőtt átélné a naplementét a strandon.\nEste a központ ki van világítva, és egy rövid sétára invitál vacsora előtt.",
+            "ro": "O dimineață senină și rece. Mașina este punctul de plecare perfect pentru capelă.\nLa prânz, drumul de-a lungul coastei oferă priveliști largi asupra Atlanticului hibernal.\nDupă-amiaza, Clos Lupin vă încălzește înainte de a experimenta apusul pe plajă.\nSeara, centrul este iluminat și vă invită la o scurtă plimbare înainte de cină.",
+            "en": "A clear, cold morning. The car is the perfect starting point for the chapel.\nAt noon, the drive along the coast offers wide views of the wintry Atlantic.\nIn the afternoon, Le Clos Lupin warms you up before you experience the sunset at the beach.\nIn the evening, the center is lit up and invites you for a short walk before dinner."
+          },
+          "stops": [
+            {
+              "name": "Chapelle Notre-Dame de la Garde",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenaufgang direkt aus dem beheizten Auto.",
+                "hu": "Élvezze a napfelkeltét közvetlenül a fűtött autóból.",
+                "ro": "Bucurați-vă de răsărit direct din mașina încălzită.",
+                "en": "Enjoy the sunrise directly from the heated car."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Rundgang einpacken, der Wind ist oben beißend.",
+                "hu": "Csomagoljon meleg ruhát a körsétához, a szél fent metsző.",
+                "ro": "Pregătiți haine călduroase pentru tur, vântul este tăios sus.",
+                "en": "Pack warm clothes for the walk; the wind is biting up there."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Idealer Stopp, wenn die Kälte draußen zu stark wird.",
+                "hu": "Ideális megálló, ha odakint túl erős lesz a hideg.",
+                "ro": "Oprire ideală dacă frigul de afară devine prea puternic.",
+                "en": "Ideal stop if the cold outside becomes too intense."
+              }
+            },
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier fast immer einen Parkplatz in erster Reihe.",
+                "hu": "Télen itt szinte mindig talál parkolóhelyet az első sorban.",
+                "ro": "Iarna veți găsi aproape întotdeauna un loc de parcare în prima linie.",
+                "en": "In winter, you will almost always find a parking space in the front row here."
+              }
+            },
+            {
+              "name": "Falaise d'Aval",
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt früh, die Scheinwerfer rechtzeitig einschalten.",
+                "hu": "Az alkonyat korán kezdődik, kapcsolja be időben a fényszórókat.",
+                "ro": "Amurgul începe devreme, porniți farurile din timp.",
+                "en": "Dusk begins early; turn on your headlights in good time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer mit, falls die Scheiben beschlagen oder gefrieren.",
+              "Prüfen Sie den Reifendruck vor der Fahrt in die Normandie.",
+              "Nutzen Sie die Parkplätze an den Aussichtspunkten, um die Kältephasen kurz zu halten.",
+              "Die Tankstellen in der Nähe der Küste sind im Winter seltener besetzt."
+            ],
+            "hu": [
+              "Vigyen jégkaparót, ha az ablakok bepárásodnának vagy befagynának.",
+              "Indulás előtt ellenőrizze a guminyomást.",
+              "Használja a kilátópontok parkolóit, hogy lerövidítse a hidegben töltött időt.",
+              "A part közeli benzinkutak télen ritkábban vannak nyitva személyzettel."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă în caz că geamurile se aburesc sau îngheață.",
+              "Verificați presiunea anvelopelor înainte de călătoria în Normandia.",
+              "Folosiți parcările din punctele de belvedere pentru a scurta perioadele de frig.",
+              "Benzinăriile de lângă coastă sunt mai rar deservite iarna."
+            ],
+            "en": [
+              "Carry an ice scraper in case the windows fog up or freeze.",
+              "Check tire pressure before driving to Normandy.",
+              "Use the parking lots at viewpoints to keep the cold phases short.",
+              "Gas stations near the coast are less frequently staffed in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1174,34 +2442,363 @@
           "The bus stops are well-signposted in the center.",
           "Always keep an eye on the last departure in the evening."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr für einen stressfreien Besuch. Vom zentralen Busstopp erreichen Sie bequem den Strand und die wichtigsten Museen im Ort. Die Klippen erkunden Sie von dort aus zu Fuß, wobei die Route Sie von den geheimnisvollen Gärten bis zur geschichtsträchtigen Klippe d'Amont führt. Ein perfekter Mix aus Komfort und Naturerlebnis.",
+            "hu": "Használja a tömegközlekedést a stresszmentes látogatáshoz. A központi buszmegállóból könnyen elérheti a strandot és a legfontosabb múzeumokat. A sziklákat innen gyalog fedezheti fel, az út a titokzatos kertektől a történelmi Falaise d'Amont-ig vezet. A kényelem és a természeti élmény tökéletes keveréke.",
+            "ro": "Folosiți transportul public pentru o vizită fără stres. Din stația centrală de autobuz puteți ajunge ușor la plajă și la principalele muzee. Faleza se explorează pe jos de acolo, traseul ducându-vă de la grădinile misterioase până la faleza istorică d'Amont. Un mix perfect între confort și natură.",
+            "en": "Use public transport for a stress-free visit to Étretat. From the central bus stop, you can easily reach the beach and the main museums. Explore the cliffs from there on foot, with the route taking you from the mysterious gardens to the historic Falaise d'Amont. A perfect blend of convenience and natural beauty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étretat Rathausplatz",
+                "hu": "Étretat Városháza tér",
+                "ro": "Piața Primăriei Étretat",
+                "en": "Étretat Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ankunftspunkt für Busse.",
+                "hu": "A buszok központi érkezési pontja.",
+                "ro": "Punctul central de sosire pentru autobuze.",
+                "en": "Central arrival point for buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Étretat",
+                "hu": "Étretati strand",
+                "ro": "Plaja din Étretat",
+                "en": "Étretat Beach"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Csak pár perc séta a megállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stație.",
+                "en": "Just a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Clos Lupin",
+                "hu": "Le Clos Lupin múzeum",
+                "ro": "Le Clos Lupin",
+                "en": "Le Clos Lupin"
+              },
+              "tip_5lang": {
+                "de": "Einfach erreichbar im Ortskern.",
+                "hu": "Könnyen elérhető a városközpontban.",
+                "ro": "Ușor accesibil în centrul localității.",
+                "en": "Easily accessible in the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Jardins d'Étretat",
+                "hu": "Étretati kertek",
+                "ro": "Grădinile din Étretat",
+                "en": "Les Jardins d'Étretat"
+              },
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg von der Haltestelle.",
+                "hu": "Rövid, de meredek út a buszmegállótól.",
+                "ro": "Drum scurt, dar abrupt de la stație.",
+                "en": "Short but steep walk from the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Falaise d'Amont",
+                "hu": "Falaise d'Amont szikla",
+                "ro": "Falaise d'Amont",
+                "en": "Falaise d'Amont"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Fahrplan für die Rückfahrt nicht vergessen.",
+                "hu": "Ne felejtse el ellenőrizni a visszautat.",
+                "ro": "Nu uitați să verificați orarul pentru întoarcere.",
+                "en": "Don't forget to check the return bus schedule."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Tradition",
+                "tip": "Frische Backwaren für den Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hagyományos pékség",
+                "tip": "Friss péksütemények a tengerparti uzsonnához."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutărie tradițională",
+                "tip": "Produse de patiserie proaspete pentru plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Traditional Bakery",
+                "tip": "Fresh pastries for a seaside snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Strandkörbe",
+                "tip": "Entspannung mit Blick auf die Wellen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Strandkosarak",
+                "tip": "Lazítás a hullámokat figyelve.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coșuri de plajă",
+                "tip": "Relaxare privind valurile.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Beach chairs",
+                "tip": "Relax while watching the waves.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten-Shop",
+                "tip": "Schöne Karten für die Liebsten daheim."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapbolt",
+                "tip": "Szép üdvözlőlapok az otthoniaknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de vederi",
+                "tip": "Cărți poștale frumoase pentru cei de acasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcard Shop",
+                "tip": "Beautiful cards for your loved ones back home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Buslinie 21 verbindet Le Havre mit Étretat.",
+              "Kaufen Sie Tickets idealerweise vorab online.",
+              "Am Wochenende können Busse sehr voll sein.",
+              "Die Haltestellen sind gut ausgeschildert.",
+              "Achten Sie auf die letzte Abfahrt am Abend."
+            ],
+            "hu": [
+              "A 21-es buszjárat köti össze Le Havre-t és Étretat-t.",
+              "A jegyeket érdemes előre online megváltani.",
+              "Hétvégén a buszok nagyon zsúfoltak lehetnek.",
+              "A megállók jól ki vannak táblázva a központban.",
+              "Mindig figyeljen az utolsó esti járat indulására."
+            ],
+            "ro": [
+              "Linia 21 face legătura între Le Havre și Étretat.",
+              "Cumpărați biletele online în prealabil dacă este posibil.",
+              "În weekend, autobuzele pot fi foarte aglomerate.",
+              "Stațiile sunt bine semnalizate în centru.",
+              "Aveți grijă la ora de plecare a ultimului autobuz."
+            ],
+            "en": [
+              "Bus line 21 connects Le Havre with Étretat.",
+              "Ideally, purchase your tickets online in advance.",
+              "Buses can be very crowded during the weekends.",
+              "The bus stops are well-signposted in the center.",
+              "Always keep an eye on the last departure in the evening."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein geschützter Start im Rathaus. Der Bus bietet eine trockene Fahrt zum Strand.\nMittags ist der Aufenthalt am Strand bei Regen kurz, aber der Blick auf die Klippen bleibt unvergesslich.\nNachmittags verbringen Sie die Zeit im Clos Lupin, während der Regen gegen die alten Wände trommelt.\nAbends bringt Sie der Bus zurück, vorbei an den im Regen glänzenden Straßen Étretats.",
+            "hu": "Védett kezdés a városházánál. A busz száraz utat biztosít a strandig.\nDélben a strandon töltött idő esőben rövid, de a sziklák látványa felejthetetlen marad.\nDélután a Clos Lupinben tölti az időt, miközben az eső a régi falakon kopog.\nEste a busz visszaviszi Önt Étretat esőben csillogó utcái mellett.",
+            "ro": "Un început protejat la primărie. Autobuzul oferă o călătorie uscată spre plajă.\nLa prânz, șederea pe plajă în timpul ploii este scurtă, dar vederea falezelor rămâne de neuitat.\nDupă-amiaza petreceți timpul la Clos Lupin, în timp ce ploaia bate în pereții vechi.\nSeara, autobuzul vă aduce înapoi, trecând pe lângă străzile din Étretat care strălucesc sub ploaie.",
+            "en": "A sheltered start at the Town Hall. The bus provides a dry ride to the beach.\nAt noon, the stay at the beach in the rain is short, but the view of the cliffs remains unforgettable.\nIn the afternoon, spend time in Le Clos Lupin while the rain drums against the old walls.\nIn the evening, the bus takes you back past the rain-slicked streets of Étretat."
+          },
+          "stops": [
+            {
+              "name": "Étretat Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen am Rathaus, um trocken auf den Bus zu warten.",
+                "hu": "Használja a városházánál lévő várót, hogy szárazon várja a buszt.",
+                "ro": "Folosiți refugiul de la primărie pentru a aștepta autobuzul la adăpost.",
+                "en": "Use the shelter at the Town Hall to wait for the bus dry."
+              }
+            },
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Bushalt zum Strand minimiert die Zeit im Regen.",
+                "hu": "Csak egy rövid séta a buszmegállótól a strandig, így kevesebb időt tölt az esőben.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz la plajă minimizează timpul petrecut în ploaie.",
+                "en": "Only a short walk from the bus stop to the beach minimizes time in the rain."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt günstig, sodass Sie schnell ins Museum kommen.",
+                "hu": "A buszmegálló kedvező helyen van, így gyorsan a múzeumba érhet.",
+                "ro": "Stația de autobuz este situată convenabil, astfel încât să ajungeți rapid la muzeu.",
+                "en": "The bus stop is conveniently located, allowing you to reach the museum quickly."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Buszeiten genau, um lange Wartezeiten im Freien zu vermeiden.",
+                "hu": "Pontosan ellenőrizze a buszmenetrendet, hogy elkerülje a hosszú várakozást a szabadban.",
+                "ro": "Verificați exact orele de autobuz pentru a evita timpii lungi de așteptare în aer liber.",
+                "en": "Check the bus times carefully to avoid long waits outdoors."
+              }
+            },
+            {
+              "name": "Falaise d'Amont",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann der Busverkehr leicht beeinträchtigt sein.",
+                "hu": "Erős esőben a buszközlekedés kissé akadozhat.",
+                "ro": "În caz de ploaie puternică, circulația autobuzelor poate fi ușor afectată.",
+                "en": "In case of heavy rain, bus services may be slightly affected."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Verkehrs-App herunter, um Live-Updates zu erhalten.",
+              "Ein kleiner, stabiler Taschenschirm ist für den Weg zwischen den Haltestellen ideal.",
+              "Die Busse sind im Winter oft angenehm beheizt.",
+              "Halten Sie Kleingeld oder eine Karte bereit, um den Ticketkauf beim Fahrer zu beschleunigen."
+            ],
+            "hu": [
+              "Töltse le a közlekedési alkalmazást az élő frissítésekhez.",
+              "Egy kis, stabil összecsukható esernyő ideális a megállók közötti útra.",
+              "A buszok télen gyakran kellemesen fűtöttek.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárlás gyorsításához a sofőrnél."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru a primi actualizări live.",
+              "O umbrelă de buzunar mică și stabilă este ideală pentru drumul dintre stații.",
+              "Autobuzele sunt adesea încălzite plăcut iarna.",
+              "Aveți pregătiți bani mărunți sau un card pentru a accelera cumpărarea biletului de la șofer."
+            ],
+            "en": [
+              "Download the transit app to receive live updates.",
+              "A small, sturdy travel umbrella is ideal for the walk between stops.",
+              "Buses are often pleasantly heated in winter.",
+              "Have change or a card ready to speed up ticket purchases from the driver."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Rathaus. Der Bus bringt Sie sicher durch die winterliche Landschaft.\nMittags ist die Luft am Strand glasklar, der Bus bietet einen warmen Rückzugsort.\nNachmittags genießen Sie die Ruhe in den Gärten, bevor Sie mit dem Bus zurück ins Zentrum fahren.\nAbends ist die Fahrt im beleuchteten Bus ein schöner Abschluss Ihres winterlichen Tages.",
+            "hu": "Hűvös kezdés a városházánál. A busz biztonságosan viszi át a téli tájon.\nDélben a strand levegője kristálytiszta, a busz pedig meleg menedéket nyújt.\nDélután élvezze a kertek nyugalmát, mielőtt busszal visszatérne a központba.\nEste a kivilágított buszon tett utazás szép lezárása a téli napnak.",
+            "ro": "Un început răcoros la primărie. Autobuzul vă transportă în siguranță prin peisajul hibernal.\nLa prânz, aerul de pe plajă este cristalini, iar autobuzul oferă un refugiu cald.\nDupă-amiaza, bucurați-vă de liniștea grădinilor înainte de a reveni cu autobuzul în centru.\nSeara, călătoria cu autobuzul iluminat este o încheiere frumoasă a zilei de iarnă.",
+            "en": "A cool start at the Town Hall. The bus takes you safely through the wintry landscape.\nAt noon, the air at the beach is crystal clear, and the bus offers a warm retreat.\nIn the afternoon, enjoy the tranquility of the gardens before heading back to the center by bus.\nIn the evening, the ride on the illuminated bus is a lovely conclusion to your winter day."
+          },
+          "stops": [
+            {
+              "name": "Étretat Town Hall",
+              "tip_5lang": {
+                "de": "Im Winter sind die Wartebereiche oft gut beleuchtet und sicher.",
+                "hu": "Télen a váróhelyek gyakran jól megvilágítottak és biztonságosak.",
+                "ro": "Iarna, zonele de așteptare sunt adesea bine iluminate și sigure.",
+                "en": "In winter, waiting areas are often well-lit and safe."
+              }
+            },
+            {
+              "name": "Étretat Beach",
+              "tip_5lang": {
+                "de": "Die Frequenz der Busse kann im Winter leicht reduziert sein, prüfen Sie den Fahrplan.",
+                "hu": "Télen a buszok gyakorisága kissé csökkenhet, ellenőrizze a menetrendet.",
+                "ro": "Frecvența autobuzelor poate fi ușor redusă iarna, verificați orarul.",
+                "en": "Bus frequency may be slightly reduced in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Le Clos Lupin",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp, ideal abgestimmt auf den Busfahrplan.",
+                "hu": "Meleg köztes megálló, ideálisan igazítva a buszmenetrendhez.",
+                "ro": "O oprire intermediară caldă, adaptată ideal la programul autobuzelor.",
+                "en": "A warm intermediate stop, ideally timed with the bus schedule."
+              }
+            },
+            {
+              "name": "Les Jardins d'Étretat",
+              "tip_5lang": {
+                "de": "Achten Sie auf festes Schuhwerk für den Weg von der Haltestelle zu den Gärten.",
+                "hu": "Ügyeljen a stabil lábbelire a megállótól a kertig tartó úton.",
+                "ro": "Aveți grijă la încălțămintea stabilă pentru drumul de la stație la grădini.",
+                "en": "Wear sturdy footwear for the walk from the stop to the gardens."
+              }
+            },
+            {
+              "name": "Falaise d'Amont",
+              "tip_5lang": {
+                "de": "Die letzte Busfahrt zurück sollte vor Einbruch der Dunkelheit geplant werden.",
+                "hu": "Az utolsó visszautat a sötétedés beállta előtt érdemes betervezni.",
+                "ro": "Ultima călătorie cu autobuzul înapoi ar trebui planificată înainte de lăsarea întunericului.",
+                "en": "The last bus ride back should be planned before darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Mütze und Schal, da es an den Haltestellen ziehen kann.",
+              "Prüfen Sie die Winterfahrpläne online, da einige Linien seltener fahren.",
+              "Die Busse sind im Winter seltener überfüllt als im Sommer.",
+              "Nutzen Sie die Zeit im Bus, um sich für die nächste Etappe aufzuwärmen."
+            ],
+            "hu": [
+              "Viseljen sapkát és sálat, mert a megállókban huzat lehet.",
+              "Ellenőrizze online a téli menetrendet, mivel egyes járatok ritkábban járnak.",
+              "A buszok télen ritkábban zsúfoltak, mint nyáron.",
+              "Használja ki a buszon töltött időt a következő szakasz előtti felmelegedésre."
+            ],
+            "ro": [
+              "Purtați căciulă și fular, deoarece în stații poate fi curent.",
+              "Verificați orarul de iarnă online, deoarece unele linii circulă mai rar.",
+              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
+              "Folosiți timpul petrecut în autobuz pentru a vă încălzi pentru următoarea etapă."
+            ],
+            "en": [
+              "Wear a hat and scarf, as it can be drafty at the bus stops.",
+              "Check winter schedules online, as some lines run less frequently.",
+              "Buses are less crowded in winter than in summer.",
+              "Use your time on the bus to warm up for the next stage."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/normandie.html",
-    "tourism_office": "https://www.lehavre-etretat-tourisme.com/",
-    "events": "https://www.lehavre-etretat-tourisme.com/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Etretat ist ein kleines Normandie-Dorf, das von den Klippen aus Monets Bildern lebt. Englisch klappt in Hotels und Cidre-Bars, im Boulangerie und Markt gehoert ein 'bonjour' aber dazu, sonst wirkst du als Tourist sehr unhoeflich.",
-      "hu": "Etretat egy kis normandiai falu, mely Monet kepeibol ismert sziklakbol el. Az angol megy a szallodakban es ciderbarokban, de a pekiben es a piacon egy 'bonjour' nelkul nagyon udvariatlanul tunsz turistanak.",
-      "ro": "Etretat e un satuc din Normandia care traieste din falezele pictate de Monet. Engleza merge la hoteluri si baruri cu cidru, dar la brutarie si in piata fara 'bonjour' pari un turist nepoliticos.",
-      "en": "Etretat is a small Normandy village famous for the cliffs in Monet's paintings. English works at hotels and cider bars, but skipping the 'bonjour' at the bakery or market makes you look rude."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September fuer Klippenwanderungen und Strand, 15-22 Grad und gutes Licht fuer Fotos. Juli und August sind voll, kommen Sie vor 10 Uhr oder nach 17 Uhr. Winter ist dramatisch mit Stuermen, viele Hotels und Restaurants aber zu.",
-      "hu": "Majus-szeptember a sziklatúrákra es strandra, 15-22 fok es jo fotofeny. Julius-augusztusban zsufolt, erkezz 10 ora elott vagy 17 utan. Telen dramai viharok, de sok szalloda es etterem zarva.",
-      "ro": "Mai-septembrie pentru drumetii pe faleze si plaja, 15-22 grade si lumina buna pentru poze. Iulie-august sunt aglomerate; vino inainte de 10 sau dupa 17. Iarna e dramatica cu furtuni, dar multe hoteluri si restaurante inchise.",
-      "en": "May to September for cliff walks and beach, 15-22°C and great photo light. July and August are packed — arrive before 10am or after 5pm. Winter is dramatic with storms but many hotels and restaurants close."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher, Hauptgefahr sind die Klippen selbst: keine Selfies am Rand, Erdrutsche und Tide auf dem Strand unter den Boegen. Bei Flut kann man im Strand-Tunnel eingeschlossen werden, Tidekalender beachten.",
-      "hu": "Nagyon biztonsagos, fo veszely magaak a sziklak: nincs selfie a szelen, foldcsuszamlas es dagaly a strandon az ivek alatt. Dagalykor a strand-alagutban beszorulhatsz, dagalynaptart figyelj.",
-      "ro": "Foarte sigur, principalul pericol fiind chiar falezele: fara selfie pe margine, alunecari de teren si maree pe plaja de sub arcade. La flux poti ramane blocat in tunelul plajei; verifica calendarul mareelor.",
-      "en": "Very safe; the main hazard is the cliffs themselves — no edge selfies, watch for landslips and tides on the beach beneath the arches. You can get trapped in the beach tunnel at high tide, check tide times."
-    },
-    "parking_real_time": ""
   }
 }

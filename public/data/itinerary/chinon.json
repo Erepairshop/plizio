@@ -987,32 +987,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.chinon-valdeloire.com/",
-    "events": "https://www.chinon-valdeloire.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.remi-centrevaldeloire.fr/",
-    "language_tips": {
-      "de": "Chinon ist Jeanne-d'Arc-Geschichte und Rabelais-Heimat, Englisch wird in den Touristenzentren gesprochen. Lernen Sie 'Forteresse royale' für die königliche Festung und 'Chinon AOC' für den lokalen Rotwein. Beim Besuch der Weingüter im Loire-Tal 'cabernet franc' richtig auszusprechen verschafft Respekt.",
-      "hu": "Chinon Jeanne d'Arc történelme és Rabelais szülőhelye, a turistaközpontokban beszélnek angolul. Tanuld meg a 'Forteresse royale' nevet a királyi erődhöz és a 'Chinon AOC' kifejezést a helyi vörösborhoz. A Loire-völgyi borászatoknál a 'cabernet franc' helyes kiejtése tiszteletet hoz.",
-      "ro": "Chinon este istoria Ioanei d'Arc și casa lui Rabelais, engleza se vorbește în centrele turistice. Învățați 'Forteresse royale' pentru fortăreața regală și 'Chinon AOC' pentru vinul roșu local. La cramele din Valea Loarei, pronunția corectă a 'cabernet franc' aduce respect.",
-      "en": "Chinon is Joan of Arc history and Rabelais's home - English is spoken at tourist sites. Learn 'Forteresse royale' for the royal fortress and 'Chinon AOC' for the local red wine. When visiting Loire wineries, pronouncing 'cabernet franc' correctly earns respect."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Touristen und perfekte Bedingungen für die Festung und Weinkellertouren. Im August findet das mittelalterliche Markt-Festival statt, sehr spektakulär aber voll. Winter ist ruhig und mystisch in der alten Festungsstadt.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb turista, tökéletes feltételek az erőd és borospince túrákhoz. Augusztusban van a középkori vásár fesztivál, látványos de zsúfolt. Télen csendes és misztikus a régi erődvárosban.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini turiști, condiții perfecte pentru fortăreață și tururi în crame. În august, festivalul medieval este spectaculos dar aglomerat. Iarna este liniștită și mistică în vechea cetate.",
-      "en": "April-June and September-October are ideal: mild weather, fewer crowds and perfect conditions for the fortress and wine cave tours. August hosts the medieval market festival - spectacular but packed. Winter is quiet and mystical in the old fortress town."
-    },
-    "neighborhood_warnings": {
-      "de": "Chinon ist sehr sicher, ein ruhiges historisches Städtchen. Die mittelalterlichen Gassen sind steil und glitschig bei Regen, festes Schuhwerk empfohlen. Beim Wandern in den umliegenden Weinbergen Sonnenschutz nicht vergessen.",
-      "hu": "Chinon nagyon biztonságos, csendes történelmi városka. A középkori utcák meredekek és esőben csúszósak, erős cipő ajánlott. A környékbeli szőlőkben túrázáshoz hozz napvédőt.",
-      "ro": "Chinon este foarte sigur, un orășel istoric liniștit. Străduțele medievale sunt abrupte și alunecoase pe ploaie, încălțăminte solidă recomandată. La drumețiile prin podgorii, nu uitați protecția solară.",
-      "en": "Chinon is very safe, a quiet historic town. The medieval lanes are steep and slippery when wet - sturdy shoes recommended. When hiking surrounding vineyards, don't forget sun protection in the open."
-    },
-    "parking_real_time": ""
   }
 }

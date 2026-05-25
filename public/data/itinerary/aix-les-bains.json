@@ -1006,32 +1006,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.aixlesbains-rivieradesalpes.com/",
-    "events": "https://www.aixlesbains-rivieradesalpes.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Aix-les-Bains ist Thermalkurort mit langer britischer und schweizerischer Geschichte, Englisch und Deutsch gut. Spa-Vokabular nützlich: 'cure thermale', 'sources chaudes'. Italiener sind im Sommer viele, sehr offen für mehrsprachige Bedienung.",
-      "hu": "Aix-les-Bains termálfürdőváros, hosszú brit és svájci múlttal, az angol és német jól megy. Hasznos a wellness-szókincs: 'cure thermale', 'sources chaudes'. Sok az olasz nyáron, többnyelvű kiszolgálásra nyitottak.",
-      "ro": "Aix-les-Bains este stațiune termală cu istorie britanică și elvețiană, engleza și germana sunt bune. Util vocabular spa: 'cure thermale', 'sources chaudes'. Vara sunt mulți italieni, deschiși la servire multilingvă.",
-      "en": "Aix-les-Bains is a thermal spa town with long British and Swiss heritage; English and German are good. Spa vocabulary helps: 'cure thermale', 'sources chaudes'. Many Italians in summer, staff are multilingual."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September für Lac du Bourget Aktivitäten. Juli-August: voll, hohe Preise, viele Spa-Reservierungen nötig. März-April und Oktober: ruhige Kursaison. Winter: Spa-Tourismus, aber See zu kalt.",
-      "hu": "Május-szeptember a Bourget-tavi aktivitásokért. Július-augusztus zsúfolt, magas árak, sok wellnessfoglalás kell. Március-április és október: csendes kurszezon. Tél: spa-turizmus, de a tó túl hideg.",
-      "ro": "Mai-septembrie pentru activități pe lacul Bourget. Iulie-august: aglomerat, prețuri mari, rezervări spa multe. Martie-aprilie și octombrie: sezon de cure liniștit. Iarna: turism spa, dar lacul prea rece.",
-      "en": "May-September for Lac du Bourget activities. July-August: crowded, high prices, spa bookings needed early. March-April and October offer a quieter spa season. Winter: spa tourism continues, but the lake is too cold."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher, viele ältere Spa-Gäste. Vorsicht beim Schwimmen, Wassertemperatur des Sees kann täuschen. Im Casino-Bereich nachts auf Taschen achten. Verkehr in der Hochsaison stark.",
-      "hu": "Nagyon biztonságos, sok idősebb spa-vendég. Úszásnál óvatos: a tó vízhőmérséklete csalóka lehet. A kaszinó környékén éjjel táskára figyelj. Csúcsszezonban erős forgalom.",
-      "ro": "Foarte sigur, mulți oaspeți vârstnici. La înot, atenție: temperatura lacului poate înșela. În zona cazinoului, păziți gențile noaptea. Trafic intens în sezon.",
-      "en": "Very safe, lots of older spa visitors. Mind lake temperatures when swimming, they can be deceptive. Watch bags around the casino at night. Heavy traffic in peak season."
-    },
-    "parking_real_time": ""
   }
 }

@@ -290,6 +290,420 @@
           "Nietzsche path is strenuous; ensure you carry enough water.",
           "Book restaurants in advance as Èze is a very popular destination."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens tauchen Sie in die Düfte von Fragonard ein, bevor Sie die verschlungenen Gassen erklimmen. Mittags bestaunen Sie die barocke Pracht der Kirche und die stille Weiße der Büßerkapelle. Der Nachmittag gehört dem Exotischen Garten auf dem Gipfel, wo die Ruinen der Burg thronen. Zum Abschluss wandern Sie auf Nietzsches Spuren hinunter zum azurblauen Meer.",
+            "hu": "Reggel a Fragonard illataival indul a nap, majd felfedezzük a falu kanyargós sikátorait. Délben a barokk templom és a bűnbánók kápolnája nyújt lelki feltöltődést. A délutánt a falu tetején lévő Egzotikus Kertben és a várromok között töltjük. Végül Nietzsche nyomdokain haladva ereszkedünk le a tengerpartra a panorámás ösvényen.",
+            "ro": "Dimineața începe cu aromele Fragonard, urmată de explorarea străduțelor medievale. La prânz, vizităm biserica barocă și capela istorică a penitenților. După-amiaza este dedicată Grădinii Exotice din vârful stâncii și ruinelor castelului. Încheiem ziua cu o drumeție pe poteca lui Nietzsche, coborând spre apele azurii ale Mediteranei.",
+            "en": "Start your morning with the scents of Fragonard before climbing the winding medieval streets. Midday is perfect for visiting the Baroque church and the historic penitents' chapel. Spend your afternoon at the Exotic Garden on the summit, surrounded by castle ruins. Finish your journey by following Nietzsche's path down to the sparkling sea at the base of the cliffs."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Kostenlose Führung durch die Parfumherstellung.",
+                "hu": "Ingyenes tárlatvezetés a parfümkészítés világába.",
+                "ro": "Tur ghidat gratuit prin procesul de fabricare a parfumului.",
+                "en": "Free guided tour through the perfume making process."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Die älteste Kapelle des Dorfes, Ort der Büßer.",
+                "hu": "A falu legrégebbi kápolnája, a bűnbánók rendjéé.",
+                "ro": "Cea mai veche capelă din sat, sediul penitenților.",
+                "en": "The oldest chapel in the village, home of the penitents."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Wunderschöne Barockkirche mit neoklassizistischer Fassade.",
+                "hu": "Csodás barokk templom neoklasszicista homlokzattal.",
+                "ro": "Biserică barocă superbă cu fațadă neoclasică.",
+                "en": "Beautiful Baroque church with a Neoclassical facade."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Panorama-Aussicht auf die Riviera zwischen Kakteen.",
+                "hu": "Panorámás kilátás a Riviérára a kaktuszok közül.",
+                "ro": "Vedere panoramică asupra Rivierei printre cactuși.",
+                "en": "Panoramic Riviera views amidst a cactus collection."
+              }
+            },
+            {
+              "name": "Château d'Èze (Ruinen)",
+              "tip_5lang": {
+                "de": "Historische Überreste auf dem höchsten Punkt des Dorfes.",
+                "hu": "Történelmi maradványok a falu legmagasabb pontján.",
+                "ro": "Vestigii istorice în cel mai înalt punct al satului.",
+                "en": "Historical remains at the highest point of the village."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche",
+              "tip_5lang": {
+                "de": "Steiler Abstieg nach Èze-sur-Mer mit Meerblick.",
+                "hu": "Meredek lejtő Èze-sur-Mer felé, tengeri kilátással.",
+                "ro": "Coborâre abruptă spre Èze-sur-Mer cu vedere la mare.",
+                "en": "Steep descent to Èze-sur-Mer with sea views."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Nid d'Aigle",
+                "tip": "Traditionelle provenzalische Küche mit Aussicht."
+              },
+              {
+                "name": "Socca",
+                "tip": "Kichererbsenfladen, ein Muss an der Riviera."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Nid d'Aigle",
+                "tip": "Hagyományos provence-i konyha pazar kilátással."
+              },
+              {
+                "name": "Socca",
+                "tip": "Csicseriborsó lepény, elmaradhatatlan helyi csemege."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Nid d'Aigle",
+                "tip": "Bucătărie tradițională provensală cu o priveliște superbă."
+              },
+              {
+                "name": "Socca",
+                "tip": "Clătită din năut, o specialitate locală obligatorie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Nid d'Aigle",
+                "tip": "Traditional Provençal cuisine with a great view."
+              },
+              {
+                "name": "Socca",
+                "tip": "Chickpea pancake, a must-try Riviera street food."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin Exotique Ruinen",
+                "tip": "Stiller Moment über dem Abgrund.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Chapelle de la Sainte-Croix",
+                "tip": "Kühle Ruhe im historischen Zentrum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Egzotikus Kert romjai",
+                "tip": "Csendes pillanat a szakadék felett.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Szent Kereszt-kápolna",
+                "tip": "Hűvös nyugalom a történelmi központban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ruinele Grădinii Exotice",
+                "tip": "Moment de liniște deasupra hăului.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Capela Sfintei Cruci",
+                "tip": "Răcoare și liniște în centrul istoric.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Exotic Garden Ruins",
+                "tip": "Quiet moment perched above the abyss.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Chapelle de la Sainte-Croix",
+                "tip": "Cool tranquility in the historical center.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fragonard Boutique",
+                "tip": "Exklusive Düfte und Seifen."
+              },
+              {
+                "name": "Verrerie d'Èze",
+                "tip": "Handgefertigte Glaskunst aus dem Dorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fragonard Boutique",
+                "tip": "Exkluzív illatok és szappanok."
+              },
+              {
+                "name": "Verrerie d'Èze",
+                "tip": "Kézzel készített üvegművészeti tárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fragonard Boutique",
+                "tip": "Parfumuri și săpunuri exclusive."
+              },
+              {
+                "name": "Verrerie d'Èze",
+                "tip": "Artă din sticlă lucrată manual în sat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fragonard Boutique",
+                "tip": "Exclusive fragrances and soaps."
+              },
+              {
+                "name": "Verrerie d'Èze",
+                "tip": "Handmade glass art from the village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Wanderschuhe für die steilen Gassen.",
+              "Besuchen Sie den Garten früh am Morgen, um den Massen zu entgehen.",
+              "Der Nietzsche-Pfad ist anstrengend, nehmen Sie genug Wasser mit.",
+              "Reservieren Sie Restaurants im Voraus, da Èze sehr beliebt ist."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek, köves utcákhoz.",
+              "Érkezzen korán az Egzotikus Kertbe a tömeg elkerülése végett.",
+              "A Nietzsche-ösvény fárasztó, vigyen magával elegendő vizet.",
+              "Foglaljon asztalt előre, mert a falu éttermei gyorsan megtelnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile abrupte și pietruite.",
+              "Vizitați grădina dimineața devreme pentru a evita aglomerația.",
+              "Poteca lui Nietzsche este solicitantă, luați apă suficientă.",
+              "Rezervați masa în avans, deoarece satul este foarte căutat."
+            ],
+            "en": [
+              "Wear comfortable walking shoes for the steep, cobbled streets.",
+              "Visit the Exotic Garden early in the morning to avoid crowds.",
+              "Nietzsche path is strenuous; ensure you carry enough water.",
+              "Book restaurants in advance as Èze is a very popular destination."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen bietet die Parfümfabrik Fragonard einen trockenen Start mit faszinierenden Einblicken in die Duftherstellung. Mittags dienen die historischen Kapellen und die Kirche im Dorf als stimmungsvolle Zufluchtsorte vor dem Regen. Am Nachmittag entfaltet der Jardin Exotique im Nebel eine mystische Atmosphäre, die an die schroffen Klippen erinnert. Der Abend endet mit einem vorsichtigen Abstieg auf dem Nietzsche-Pfad, wo die nassen Steine besondere Aufmerksamkeit erfordern.",
+            "hu": "Reggel a Fragonard illatszergyár fedett termeiben kezdünk, elkerülve az első záporokat és megismerve a parfümgyártás titkait. Délben a falu ódon templomai nyújtanak menedéket a zuhé elől, ahol a csendes belső terek várnak. Délután az Egzotikus Kert ködbe burkolózó kaktuszai között sétálunk, ami kísértetiesen szép látványt nyújt. Este a Nietzsche-ösvényen óvatosan ereszkedünk le a tengerpartra, figyelve a csúszós sziklákra.",
+            "ro": "Dimineața, fabrica de parfumuri Fragonard oferă un început uscat, cu tururi ghidate prin procesul de producție. La prânz, bisericile vechi din sat servesc drept refugii ideale împotriva ploii torențiale. După-amiaza, Grădina Exotică învăluită în ceață capătă un aspect mistic printre ruinele castelului. Seara se încheie cu o coborâre prudentă pe poteca lui Nietzsche, unde pietrele umede pot fi extrem de alunecoase.",
+            "en": "In the morning, the Fragonard perfume factory provides a dry start with fascinating insights into fragrance creation. At noon, the historic chapels and the village church serve as atmospheric shelters from the rain. In the afternoon, the Exotic Garden shrouded in mist develops a mystical vibe among the cacti and ruins. The evening concludes with a careful descent on the Nietzsche path, where the wet stones require extra attention."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenguss bei einer kostenlosen Führung abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására egy ingyenes tárlatvezetés mellett.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii în timpul unui tur ghidat gratuit.",
+                "en": "Perfect place to wait out the first downpour during a free guided tour."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort mit einer jahrhundertealten, ruhigen Atmosphäre.",
+                "hu": "Apró, száraz menedékhely évszázados, nyugodt hangulattal a falu szívében.",
+                "ro": "Un mic refugiu uscat, cu o atmosferă liniștită de secole în inima satului.",
+                "en": "A small, dry retreat with a centuries-old, calm atmosphere in the village heart."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im prunkvollen Barock-Innenraum, bis der Himmel aufklart.",
+                "hu": "Használja ki az időt a díszes barokk belső térben, amíg eláll az eső.",
+                "ro": "Folosiți timpul în interiorul baroc bogat decorat până când ploaia se oprește.",
+                "en": "Utilize the time in the ornate Baroque interior until the rain stops."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Steinstufen; bei Nässe sind die Pfade im Garten sehr rutschig.",
+                "hu": "Vigyázzon a lépcsőkön; esőben a kert ösvényei nagyon csúszóssá válnak.",
+                "ro": "Atenție la trepte; potecile din grădină devin foarte alunecoase când sunt ude.",
+                "en": "Be careful on the steps; the garden paths become very slippery when wet."
+              }
+            },
+            {
+              "name": "Château d'Èze (Ruinen)",
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei Wolken düster-schön, aber halten Sie sich an den Geländern fest.",
+                "hu": "A kilátás felhős időben is komor-szép, de kapaszkodjon erősen a korlátokba.",
+                "ro": "Priveliștea este dramatică pe nori, dar țineți-vă bine de balustrade.",
+                "en": "The view is dramatically beautiful in cloudy weather, but hold onto the railings."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche",
+              "tip_5lang": {
+                "de": "Nur mit Wanderschuhen mit gutem Profil begehen; Steine sind bei Regen spiegelglatt.",
+                "hu": "Csak tapadós talpú bakancsban induljon el; a kövek esőben tükörsimák.",
+                "ro": "Parcurgeți doar cu bocanci de munte; pietrele sunt extrem de lucioase pe ploaie.",
+                "en": "Only walk with hiking boots; the stones are mirror-smooth in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit exzellentem Grip, da das Kopfsteinpflaster in Èze glatt wird.",
+              "Regenschirme sind in den engen Gassen unpraktisch; wählen Sie lieber ein Cape.",
+              "Die Parfümerien bieten kostenlose Führungen an, die ideale Regenprogramme sind.",
+              "Der Nietzsche-Pfad kann bei starkem Regen zu einem kleinen Bachlauf werden.",
+              "Cafés im Dorfzentrum haben oft beheizte, überdachte Terrassen."
+            ],
+            "hu": [
+              "Viseljen kiváló tapadású cipőt, mert Èze macskakövei vizesen nagyon csúsznak.",
+              "Az esernyő nehézkes a szűk utcákban; egy jó esőkabát praktikusabb választás.",
+              "A parfümgyárak ingyenes túrái tökéletes beltéri programok felhőszakadás idején.",
+              "A Nietzsche-ösvény heves esőzéskor kis patakká változhat, kerülje el ilyenkor.",
+              "A falu központjában több kávézó rendelkezik fűtött, fedett terasszal."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență excelentă, deoarece pavajul din Èze devine lucios.",
+              "Umbrelele sunt incomode pe străzile înguste; alegeți mai degrabă o pelerină.",
+              "Parfumeriile oferă tururi gratuite, fiind programe ideale pentru interior pe ploaie.",
+              "Poteca Nietzsche se poate transforma într-un mic pârâu în timpul ploilor torențiale.",
+              "Cafenelele din centrul satului au adesea terase încălzite și acoperite."
+            ],
+            "en": [
+              "Wear shoes with excellent grip, as Èze's cobblestones become very slick when wet.",
+              "Umbrellas are clumsy in the narrow alleys; a raincoat is a more practical choice.",
+              "The perfume factories offer free tours, which are ideal indoor activities during rain.",
+              "The Nietzsche path can turn into a small stream during heavy rain; avoid it then.",
+              "Cafés in the village center often have heated, covered terraces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch bei Fragonard, wo die Wärme der Destillerien lockt. Mittags wärmt die tiefstehende Sonne die geschützten Gassen des Dorfes während der Kirchenbesuche. Der Nachmittag bietet im Jardin Exotique das beste Fotolicht des Jahres, kurz bevor die Sonne hinter den Seealpen verschwindet. Da es um 17:00 Uhr dunkel wird, endet die Wanderung auf dem Nietzsche-Pfad rechtzeitig in der Dämmerung.",
+            "hu": "A tiszta téli reggel frissen indul a Fragonardnál, ahol a lepárlók melege csalogatja a látogatókat. Délben az alacsonyan járó nap sugarai felmelegítik a védett sikátorokat a templomlátogatások során. Délután az Egzotikus Kertben az év legjobb fényviszonyai várják a fotósokat, mielőtt a nap lebukna az Alpok mögött. Mivel 17:00-kor sötétedik, a túra a Nietzsche-ösvényen még szürkületben véget ér.",
+            "ro": "O dimineață senină de iarnă începe proaspăt la Fragonard, unde căldura distileriilor este primitoare. La prânz, soarele blând încălzește străzile adăpostite ale satului în timpul vizitelor la biserici. După-amiaza oferă cea mai bună lumină pentru fotografii în Grădina Exotică, înainte ca soarele să dispară după Alpi. Deoarece se întunecă la ora 17:00, drumeția pe poteca Nietzsche se încheie la timp, în amurg.",
+            "en": "A crisp winter morning starts fresh at Fragonard, where the warmth of the distilleries is inviting. At noon, the low winter sun warms the sheltered alleys of the village during the church visits. The afternoon offers the best photographic light of the year in the Exotic Garden, just before the sun dips behind the Alps. Since it gets dark by 17:00, the hike on the Nietzsche path ends timely in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in den Produktionsräumen zu Beginn der Tour.",
+                "hu": "Élvezze a gyártóhelyiségek kellemes melegét a túra kezdetén.",
+                "ro": "Bucurați-vă de căldura plăcută din spațiile de producție la începutul turului.",
+                "en": "Enjoy the pleasant warmth in the production areas at the start of the tour."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort, um kurz zur Ruhe zu kommen und die Kälte zu vergessen.",
+                "hu": "Szélvédett hely, ahol megpihenhet és elfelejtheti a kinti hideget.",
+                "ro": "Un loc ferit de vânt unde vă puteți odihni și uita de frigul de afară.",
+                "en": "A wind-sheltered spot to rest and forget the cold outside."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab; ein ruhiger Moment der Besinnung.",
+                "hu": "A vastag falak távol tartják a hideget; tökéletes hely egy nyugodt pillanatra.",
+                "ro": "Zidurile groase țin frigul la distanță; un moment perfect de liniște.",
+                "en": "The thick walls keep the cold at bay; a perfect place for a quiet moment."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten gegen 15:30 Uhr für das spektakuläre goldene Licht.",
+                "hu": "Látogasson el a kertbe 15:30 körül a látványos arany óra fényeiért.",
+                "ro": "Vizitați grădina în jurul orei 15:30 pentru lumina spectaculoasă de aur.",
+                "en": "Visit the garden around 15:30 for the spectacular golden hour light."
+              }
+            },
+            {
+              "name": "Château d'Èze (Ruinen)",
+              "tip_5lang": {
+                "de": "Achtung vor dem Mistral-Wind; auf dem Gipfel kann es im Winter sehr zugig sein.",
+                "hu": "Vigyázzon a misztrál széllel; a tetőn télen nagyon huzatos és hideg lehet.",
+                "ro": "Atenție la vântul Mistral; pe vârf poate fi foarte curent și frig iarna.",
+                "en": "Watch out for the Mistral wind; it can be very drafty and cold at the top in winter."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche",
+              "tip_5lang": {
+                "de": "Starten Sie den Abstieg spätestens um 15:45 Uhr, um nicht im Dunkeln zu wandern.",
+                "hu": "Legkésőbb 15:45-kor induljon el lefelé, hogy ne sötétben kelljen botorkálnia.",
+                "ro": "Începeți coborârea cel târziu la 15:45 pentru a nu merge prin întuneric.",
+                "en": "Start the descent by 15:45 at the latest to avoid hiking in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 17:00 Uhr unter; planen Sie den Rückweg früh.",
+              "Tragen Sie Zwiebelschichten; in der Sonne ist es warm, im Schatten eiskalt.",
+              "Im Winter sind deutlich weniger Touristen im Dorf, was die Fotografie erleichtert.",
+              "Einige kleine Läden haben im Januar Betriebskosmos; prüfen Sie Öffnungszeiten.",
+              "Der Mistral kann die gefühlte Temperatur stark senken; Windjacke einpacken."
+            ],
+            "hu": [
+              "A nap decemberben 17:00 körül nyugszik; tervezze meg korán a visszautat.",
+              "Öltözzön rétegesen; a napon meleg van, de az árnyékban jéghideg a levegő.",
+              "Télen lényegesen kevesebb a turista, így kényelmesebben fotózhat a szűk utcákban.",
+              "Néhány kis bolt januárban zárva tarthat; ellenőrizze a nyitvatartást előre.",
+              "A misztrál szél jelentősen csökkentheti a hőérzetet; legyen önnél szélkabát."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:00 în decembrie; planificați întoarcerea devreme.",
+              "Îmbrăcați-vă în straturi; e cald la soare, dar aerul este înghețat la umbră.",
+              "Iarna sunt mult mai puțini turiști, ceea ce facilitează fotografierea în sat.",
+              "Unele magazine mici pot fi închise în ianuarie; verificați programul în avans.",
+              "Vântul Mistral poate scădea semnificativ temperatura resimțită; luați o jachetă."
+            ],
+            "en": [
+              "The sun sets around 17:00 in December; plan your return journey early.",
+              "Dress in layers; it's warm in the sun but freezing cold in the shade.",
+              "Winter has significantly fewer tourists, making it easier to photograph the streets.",
+              "Some small shops may be closed in January; check opening hours in advance.",
+              "The Mistral wind can significantly lower the perceived temperature; pack a windbreaker."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -540,6 +954,377 @@
           "Lock your bike at the village entrance; the interior is pedestrian-only.",
           "Avoid the midday heat on the exposed Corniche roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einer sportlichen Fahrt zum Fort de la Revère für die beste Aussicht. Danach gleiten Sie hinunter zum Dorf Èze, um die Parfumfabriken zu besuchen. Das Dorf selbst erkunden Sie zu Fuß, bevor Sie im Exotischen Garten entspannen. Beenden Sie die Tour mit einem Besuch bei Galimard, bevor Sie die Panorama-Corniche weiterfahren.",
+            "hu": "Kezdje a napot egy sportos tekeréssel a Fort de la Revère-hez a legjobb kilátásért. Ezután guruljon le Éze faluba, hogy meglátogassa a parfümgyárakat. A falut gyalog fedezzük fel, majd az Egzotikus Kertben pihenünk. Zárja a túrát a Galimard-nál, mielőtt továbbhaladna a panorámás Corniche úton.",
+            "ro": "Începeți ziua cu o cursă sportivă spre Fort de la Revère pentru cea mai bună panoramă. Apoi coborâți spre satul Èze pentru a vizita fabricile de parfum. Satul se explorează la pas, urmat de o relaxare în Grădina Exotică. Încheiați turul la Galimard înainte de a continua pe drumul panoramic Corniche.",
+            "en": "Begin with a challenging ride up to Fort de la Revère for the ultimate coastal views. Coast down to Èze Village to explore its famous perfume heritage. Leave your bike to wander through the medieval alleys and the Exotic Garden on foot. Wrap up your cycling tour at Galimard before heading back along the scenic Corniche."
+          },
+          "stops": [
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "360-Grad-Blick über die Alpen und das Meer.",
+                "hu": "360 fokos kilátás az Alpokra és a tengerre.",
+                "ro": "Vedere la 360 de grade peste Alpi și mare.",
+                "en": "360-degree view over the Alps and the sea."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Perfekter Stopp an der Hauptstraße für Radfahrer.",
+                "hu": "Tökéletes megálló a főút mentén a kerékpárosoknak.",
+                "ro": "Oprire perfectă pe șoseaua principală pentru bicicliști.",
+                "en": "Perfect stop along the main road for cyclists."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Fahrradabstellplatz ins Dorf.",
+                "hu": "Rövid séta a biciklitárolótól a falu központjába.",
+                "ro": "Scurtă plimbare de la parcarea de biciclete în sat.",
+                "en": "Short walk from the bike parking into the village."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Die Belohnung für den steilen Aufstieg.",
+                "hu": "A jutalom a meredek emelkedő után.",
+                "ro": "Răsplata pentru urcușul abrupt.",
+                "en": "The reward after the steep climb."
+              }
+            },
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Ein weiterer duftender Halt vor der Abfahrt.",
+                "hu": "Még egy illatos megálló a legurulás előtt.",
+                "ro": "Încă o oprire parfumată înainte de coborâre.",
+                "en": "Another fragrant stop before the ride down."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Deli' Èze",
+                "tip": "Schnelle Sandwiches und Salate für Radfahrer."
+              },
+              {
+                "name": "Pissaladière",
+                "tip": "Zwiebelkuchen mit Sardellen, idealer Snack."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Deli' Èze",
+                "tip": "Gyors szendvicsek és saláták bringásoknak."
+              },
+              {
+                "name": "Pissaladière",
+                "tip": "Hagymás lepény szardellával, remek tízórai."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Deli' Èze",
+                "tip": "Sandvișuri rapide și salate pentru bicicliști."
+              },
+              {
+                "name": "Pissaladière",
+                "tip": "Tartă cu ceapă și anșoa, gustarea ideală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Deli' Èze",
+                "tip": "Quick sandwiches and salads for cyclists."
+              },
+              {
+                "name": "Pissaladière",
+                "tip": "Onion tart with anchovies, a perfect snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Fort de la Revère Picknickplatz",
+                "tip": "Ruhe hoch über dem Mittelmeer.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Moyenne Corniche Aussichtspunkt",
+                "tip": "Kurze Pause mit Blick auf Saint-Jean-Cap-Ferrat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fort de la Revère piknikező",
+                "tip": "Nyugalom magasan a tenger felett.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Moyenne Corniche kilátópont",
+                "tip": "Rövid pihenő rálátással a Cap-Ferrat félszigetre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zona de picnic Fort de la Revère",
+                "tip": "Liniște sus deasupra Mediteranei.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Punct de belvedere Moyenne Corniche",
+                "tip": "Scurtă pauză cu vedere spre Cap-Ferrat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fort de la Revère Picnic Area",
+                "tip": "Tranquility high above the Mediterranean.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Moyenne Corniche Viewpoint",
+                "tip": "Short break with views over Cap-Ferrat.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Savonnerie d'Èze",
+                "tip": "Handgemachte Olivenölseifen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Savonnerie d'Èze",
+                "tip": "Kézműves olívaolaj szappanok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Savonnerie d'Èze",
+                "tip": "Săpunuri artizanale cu ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Savonnerie d'Èze",
+                "tip": "Handmade olive oil soaps."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind schmal und stark befahren, Vorsicht geboten.",
+              "E-Bikes werden für die steilen Anstiege dringend empfohlen.",
+              "Parken Sie Ihr Fahrrad am Dorfeingang; das Dorf ist autofrei.",
+              "Vermeiden Sie die Mittagsitze auf den offenen Straßen."
+            ],
+            "hu": [
+              "Az utak szűkek és forgalmasak, legyen nagyon óvatos.",
+              "Az elektromos kerékpár erősen ajánlott a meredek emelkedők miatt.",
+              "Láncolja le a biciklit a falu bejáratánál; a falu sétálóövezet.",
+              "Kerülje a déli hőséget a nyílt szakaszokon."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și circulate, fiți foarte atenți.",
+              "E-bike-ul este recomandat pentru urcările solicitante.",
+              "Parcați bicicleta la intrarea în sat; interiorul este pietonal.",
+              "Evitați canicula de la amiază pe porțiunile deschise."
+            ],
+            "en": [
+              "Roads are narrow and busy; exercise great caution.",
+              "Electric bikes are highly recommended for the steep inclines.",
+              "Lock your bike at the village entrance; the interior is pedestrian-only.",
+              "Avoid the midday heat on the exposed Corniche roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt zum Fort de la Revère, wo die Wolken tief hängen. Mittags bietet die Fragonard-Fabrik eine willkommene Aufwärmpause im Trockenen. Nach dem Besuch der Kirche geht es zum Jardin Exotique, dessen Pfade bei Regen höchste Konzentration erfordern. Den Abschluss bildet die Galimard-Parfümerie, wo man die Fahrt gemütlich im überdachten Verkaufsraum ausklingen lassen kann.",
+            "hu": "A nap óvatos tekeréssel indul a Fort de la Revère felé, ahol a felhők alacsonyan szállnak. Délben a Fragonard gyár nyújt kellemes pihenőt és száradási lehetőséget. A templomlátogatás után az Egzotikus Kert következik, ahol a csúszós utak miatt nagy koncentrációra van szükség. A napot a Galimard parfümériában zárjuk, ahol fedett helyen válogathatunk az illatok között.",
+            "ro": "Ziua începe cu o cursă prudentă spre Fort de la Revère, unde norii sunt foarte joși. La prânz, fabrica Fragonard oferă o pauză binemeritată de încălzire la adăpost. După vizitarea bisericii, urmează Grădina Exotică, unde potecile umede necesită concentrare maximă. Finalul este la parfumeria Galimard, unde puteți încheia vizita confortabil în showroom-ul acoperit.",
+            "en": "The day begins with a cautious ride to Fort de la Revère, where the clouds hang low. At noon, the Fragonard factory provides a welcome warming break in the dry. After visiting the church, we head to the Exotic Garden, where the wet paths require maximum concentration. The tour ends at the Galimard perfumery, where you can browse the scents in the covered showroom."
+          },
+          "stops": [
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt; die Moyenne Corniche kann bei Regen rutschig sein.",
+                "hu": "Vigyázzon a lejtőn; a Moyenne Corniche út esőben csúszós lehet a forgalom mellett.",
+                "ro": "Atenție la coborâre; drumul Moyenne Corniche poate fi alunecos pe ploaie.",
+                "en": "Be careful on the descent; the Moyenne Corniche can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um das Fahrrad sicher abzustellen.",
+                "hu": "Használja a fedett bejárati részt a kerékpár biztonságos és száraz leállításához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta în siguranță.",
+                "en": "Use the covered entrance area to park your bike safely and dryly."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Kleidung zu richten und den Regen abzuwarten.",
+                "hu": "Rövid megálló a ruházat rendezésére és az eső intenzitásának csökkenésére.",
+                "ro": "O scurtă oprire pentru a vă aranja hainele și a aștepta trecerea ploii.",
+                "en": "A short stop to adjust your gear and wait for the rain to ease up."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Die hölzernen Stege im Garten sind bei Nässe extrem glatt; Vorsicht beim Gehen.",
+                "hu": "A kertben lévő fapallók vizesen rendkívül csúszósak; óvatosan lépkedjen.",
+                "ro": "Pasarelele de lemn din grădină sunt extrem de alunecoase; mergeți cu grijă.",
+                "en": "The wooden walkways in the garden are extremely slick when wet; walk carefully."
+              }
+            },
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Idealer Ort für ein Souvenir-Shopping am Ende eines regnerischen Fahrtages.",
+                "hu": "Ideális hely az ajándékvásárláshoz egy esős kerékpáros nap végén.",
+                "ro": "Locul ideal pentru cumpărături de suveniruri la finalul unei zile ploioase.",
+                "en": "Ideal spot for souvenir shopping at the end of a rainy cycling day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Moyenne Corniche hat bei Regen schlechtere Sichtverhältnisse; Licht einschalten.",
+              "Vermeiden Sie hektische Bremsmanöver auf dem nassen Asphalt der Küstenstraße.",
+              "Èze-Village ist autofrei; stellen Sie das Rad am Parkplatz unter dem Dorf ab.",
+              "Tragen Sie eine vollflächige Regenjacke, da der Wind von der See her drückt.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter in den Bergen unerlässlich."
+            ],
+            "hu": [
+              "A Moyenne Corniche úton esőben rosszabbak a látási viszonyok; kapcsolja be a lámpát.",
+              "Kerülje a hirtelen fékezést a parti út vizes aszfaltján a csúszásveszély miatt.",
+              "Èze falu autómentes; hagyja a kerékpárt a falu alatti parkolónál.",
+              "Viseljen teljes esővédő ruházatot, mert a tenger felől erős szél fújhat.",
+              "A sárvédő elengedhetetlen ilyen időben a hegyi utakon a felverődő víz ellen."
+            ],
+            "ro": [
+              "Vizibilitatea este redusă pe Moyenne Corniche; aprindeți farurile bicicletei.",
+              "Evitați frânările bruște pe asfaltul umed al drumului de coastă.",
+              "Èze-Village este zonă pietonală; lăsați bicicleta în parcarea de sub sat.",
+              "Purtați o jachetă impermeabilă completă, vântul de pe mare poate fi puternic.",
+              "Apărătorile de noroi sunt esențiale pe drumurile de munte în această vreme."
+            ],
+            "en": [
+              "Visibility on Moyenne Corniche is poorer in the rain; keep your lights on.",
+              "Avoid sudden braking maneuvers on the wet asphalt of the coastal road.",
+              "Èze-Village is car-free; park your bike at the lot below the main entrance.",
+              "Wear a full waterproof jacket as the wind from the sea can be driving.",
+              "Mudguards on your bike are essential in this mountain weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt mit dem Aufstieg zum Fort de la Revère unter strahlend blauem, aber kaltem Winterhimmel. Mittags wärmt die Führung bei Fragonard die kalten Glieder wieder auf. Nach dem Besuch der barocken Kirche geht es in den Jardin Exotique, wo die Wintersonne die Sukkulenten beleuchtet. Der Tag endet bei Galimard, bevor die Kälte der Dämmerung nach Sonnenuntergang einsetzt.",
+            "hu": "A túra a Fort de la Revère felé tartó emelkedővel indul a ragyogó kék, de hideg téli égbolt alatt. Délben a Fragonard gyárlátogatás során melegedhetünk fel a tekerés után. A barokk templom megtekintése után az Egzotikus Kertbe látogatunk, ahol a téli nap süti a kaktuszokat. A napot a Galimard-nál zárjuk, még mielőtt beállna a naplemente utáni hűvös sötétség.",
+            "ro": "Turul începe cu urcarea spre Fort de la Revère sub un cer de iarnă senin, dar rece. La prânz, turul fabricii Fragonard vă va încălzi după efortul depus. După vizitarea bisericii baroce, mergem în Grădina Exotică, unde soarele de iarnă luminează plantele suculente. Ziua se încheie la Galimard, înainte de lăsarea frigului de seară.",
+            "en": "The tour starts with the climb to Fort de la Revère under a bright blue but cold winter sky. At noon, the Fragonard factory tour warms up cold limbs. After visiting the Baroque church, we head to the Exotic Garden where the winter sun illuminates the succulents. The day concludes at Galimard before the twilight chill sets in after sunset."
+          },
+          "stops": [
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "Oben ist es oft windig; ziehen Sie für den Stopp eine zusätzliche Schicht an.",
+                "hu": "A tetőn gyakran fúj a szél; vegyen fel egy plusz réteget a pihenő idejére.",
+                "ro": "Sus este adesea vânt; puneți un strat suplimentar de haine pentru oprire.",
+                "en": "It's often windy at the top; put on an extra layer for the stop."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Innenräume, um Ihre Hände für die Weiterfahrt aufzuwärmen.",
+                "hu": "Használja ki a belső terek melegét, hogy átmelegítse kezeit a folytatás előtt.",
+                "ro": "Folosiți căldura interioară pentru a vă încălzi mâinile înainte de a pleca.",
+                "en": "Use the indoor warmth to warm up your hands before continuing the ride."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine friedliche Stille abseits der Haupttouristenzeit.",
+                "hu": "Télen békés csend honol itt, távol a főszezoni turistaáradattól.",
+                "ro": "Iarna este o liniște deplină aici, departe de aglomerația turistică.",
+                "en": "In winter, there is a peaceful silence here away from the peak tourist season."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet; Sonnenbrille ist trotz Kälte wichtig.",
+                "hu": "A téli nap alacsonyan jár és vakíthat; napszemüveg a hideg ellenére is fontos.",
+                "ro": "Soarele de iarnă este jos și poate orbi; ochelarii de soare sunt necesari.",
+                "en": "The winter sun is low and can be blinding; sunglasses are important despite the cold."
+              }
+            },
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss des Tages, bevor die Temperaturen im Schatten rasch sinken.",
+                "hu": "Meleg befejezése a napnak, mielőtt a hőmérséklet hirtelen leesne az árnyékban.",
+                "ro": "Un final călduros al zilei, înainte ca temperaturile să scadă rapid la umbră.",
+                "en": "A warm end to the day before temperatures drop rapidly in the shade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradhandschuhe sind bei den Abfahrten an der Moyenne Corniche Pflicht.",
+              "Die Schattenseiten der Berge sind im Winter eiskalt; planen Sie die Route sonnig.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt den Druck im Winter sinken.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk für die Pausen mit.",
+              "Ab 16:30 Uhr kühlt es extrem schnell ab; beenden Sie die Tour rechtzeitig."
+            ],
+            "hu": [
+              "A Moyenne Corniche lejtőin a kerékpáros kesztyű használata kötelező a hidegben.",
+              "A hegyek árnyékos oldalai télen jéghidegek; próbáljon napos útvonalat tervezni.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt télen csökkenhet a nyomás.",
+              "Vigyen magával termoszt meleg itallal a Fort de la Revère-nél tartott pihenőhöz.",
+              "16:30 után a hőmérséklet drasztikusan esik; fejezze be időben a túrát."
+            ],
+            "ro": [
+              "Mănușile de bicicletă sunt obligatorii pentru coborârile de pe Moyenne Corniche.",
+              "Versanții umbriți ai munților sunt extrem de reci; planificați ruta la soare.",
+              "Verificați presiunea în pneuri; aerul rece face ca presiunea să scadă iarna.",
+              "Luați un termos cu o băutură caldă pentru pauzele de pe traseu.",
+              "După ora 16:30 se răcește extrem de repede; încheiați turul la timp."
+            ],
+            "en": [
+              "Cycling gloves are mandatory for the descents on the Moyenne Corniche.",
+              "The shady sides of the mountains are freezing in winter; plan a sunny route.",
+              "Check tire pressure; cold air causes pressure to drop in winter.",
+              "Take a thermos with a warm drink for your breaks at the forts.",
+              "From 16:30, it cools down extremely quickly; finish your tour in time."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -824,6 +1609,420 @@
           "Driving along the Grande Corniche offers the best photo ops.",
           "Be mindful of the sharp bends in the mountain villages."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie die Highlights von Èze und Umgebung flexibel. Beginnen Sie mit den Parfümerien, bevor Sie den Exotischen Garten im Dorfzentrum erklimmen. Danach fahren Sie hinauf zum Fort de la Revère für ein Panorama der Extraklasse und besuchen das beeindruckende römische Denkmal in La Turbie. Ein entspannter Ausklang mit Blick auf das Meer rundet den Tag ab.",
+            "hu": "Autóval kényelmesen fedezheti fel Éze környékének legszebb pontjait. Kezdjen a parfümériákkal, majd hódítsa meg a falu tetején lévő Egzotikus Kertet. Ezután autózzon fel a Fort de la Revère-hez a pazar kilátásért, és látogassa meg a monumentális római emlékművet La Turbie-ban. A napot egy tengeri panorámás pihenővel zárjuk.",
+            "ro": "Cu mașina puteți descoperi flexibil atracțiile din Èze și împrejurimi. Începeți cu parfumeriile, apoi urcați la Grădina Exotică din centrul satului. Continuați spre Fort de la Revère pentru o panoramă de excepție și vizitați monumentul roman impresionant din La Turbie. Încheiați ziua relaxat, admirând marea de la înălțime.",
+            "en": "A car gives you the freedom to see Èze and its surroundings with ease. Start with the famous perfume houses, then head up to the village's Exotic Garden. Drive further up to Fort de la Revère for world-class vistas and visit the monumental Roman Trophy in nearby La Turbie. End your day at a scenic viewpoint overlooking the glittering Mediterranean."
+          },
+          "stops": [
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor der Parfümerie.",
+                "hu": "Saját parkoló közvetlenül a parfüméria előtt.",
+                "ro": "Parcare proprie chiar în fața parfumeriei.",
+                "en": "Dedicated parking right in front of the perfumery."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Labor, bevor der Touristenansturm kommt.",
+                "hu": "Látogassa meg a labort, mielőtt megérkeznek a buszos csoportok.",
+                "ro": "Vizitați laboratorul înainte de sosirea grupurilor mari.",
+                "en": "Visit the lab before the large tour groups arrive."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Ortseingang ca. 10 Min. Fußweg bergauf.",
+                "hu": "A falu bejáratánál lévő parkolótól kb. 10 perc gyalog felfelé.",
+                "ro": "De la parcarea de la intrare sunt cca. 10 min de urcat pe jos.",
+                "en": "About a 10-minute walk uphill from the village entrance parking."
+              }
+            },
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "Leicht erreichbar über die Grande Corniche.",
+                "hu": "Könnyen elérhető a Grande Corniche úton keresztül.",
+                "ro": "Accesibil ușor prin drumul Grande Corniche.",
+                "en": "Easily accessible via the Grande Corniche road."
+              }
+            },
+            {
+              "name": "Trophée d'Auguste (La Turbie)",
+              "tip_5lang": {
+                "de": "Riesiges römisches Denkmal im Nachbardorf.",
+                "hu": "Hatalmas római emlékmű a szomszédos faluban.",
+                "ro": "Monument roman uriaș în satul vecin.",
+                "en": "Colossal Roman monument in the neighboring village."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, ohne den ganzen Pfad zu gehen.",
+                "hu": "Élvezze a kilátást anélkül, hogy végigmenne az ösvényen.",
+                "ro": "Bucurați-vă de priveliște fără a parcurge toată poteca.",
+                "en": "Enjoy the view without hiking the entire trail."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Chèvre d'Or",
+                "tip": "Luxuriöses Gourmet-Erlebnis (Reservierung nötig)."
+              },
+              {
+                "name": "Hostellerie Jérôme (La Turbie)",
+                "tip": "Hervorragende lokale Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Chèvre d'Or",
+                "tip": "Luxus gasztro-élmény (foglalás kötelező)."
+              },
+              {
+                "name": "Hostellerie Jérôme (La Turbie)",
+                "tip": "Kiváló helyi konyha a szomszéd faluban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Chèvre d'Or",
+                "tip": "Experiență gourmet de lux (necesită rezervare)."
+              },
+              {
+                "name": "Hostellerie Jérôme (La Turbie)",
+                "tip": "Bucătărie locală de excepție."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Chèvre d'Or",
+                "tip": "Luxury gourmet experience (reservation required)."
+              },
+              {
+                "name": "Hostellerie Jérôme (La Turbie)",
+                "tip": "Excellent local cuisine in the next village."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Grande Corniche Naturpark",
+                "tip": "Viel Platz und Ruhe zum Durchatmen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Fort de la Revère Plateau",
+                "tip": "Sonnenuntergang über der gesamten Riviera.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grande Corniche Natúrpark",
+                "tip": "Tágas tér és nyugalom a természetben.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Fort de la Revère fennsík",
+                "tip": "Naplemente az egész Riviéra felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Natural Grande Corniche",
+                "tip": "Spațiu generos și liniște în natură.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Platoul Fort de la Revère",
+                "tip": "Apus de soare peste întreaga Rivieră.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Grande Corniche Nature Park",
+                "tip": "Spacious areas for a quiet breath of air.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Fort de la Revère Plateau",
+                "tip": "Sunset views over the entire Riviera.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Galimard Shop",
+                "tip": "Direktverkauf ab Werk."
+              },
+              {
+                "name": "Atelier de Sculpture",
+                "tip": "Lokale Kunstwerke aus Olivenholz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galimard Shop",
+                "tip": "Közvetlen gyári értékesítés."
+              },
+              {
+                "name": "Atelier de Sculpture",
+                "tip": "Helyi szobrok olajfából."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galimard Shop",
+                "tip": "Vânzare directă de la fabrică."
+              },
+              {
+                "name": "Atelier de Sculpture",
+                "tip": "Sculpturi locale din lemn de măslin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Galimard Shop",
+                "tip": "Direct factory sales prices."
+              },
+              {
+                "name": "Atelier de Sculpture",
+                "tip": "Local sculptures made from olive wood."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken in Èze ist teuer und im Sommer oft voll.",
+              "Nutzen Sie den Shuttle-Service von den unteren Parkplätzen.",
+              "Die Fahrt über die Grande Corniche bietet die besten Fotostopps.",
+              "Achten Sie auf die engen Kurven in den Bergdörfern."
+            ],
+            "hu": [
+              "A parkolás Éze-ben drága és nyáron hamar megtelik.",
+              "Használja az ingajáratot az alsóbb parkolóktól.",
+              "A Grande Corniche úton vannak a legjobb fotópontok.",
+              "Vigyázzon a szűk kanyarokkal a hegyi falvakban."
+            ],
+            "ro": [
+              "Parcarea în Èze este scumpă și adesea plină vara.",
+              "Folosiți serviciul de shuttle de la parcările de mai jos.",
+              "Drumul pe Grande Corniche oferă cele mai bune puncte foto.",
+              "Atenție la curbele strânse în satele de munte."
+            ],
+            "en": [
+              "Parking in Èze is expensive and often full during summer.",
+              "Use the shuttle service from the lower parking lots if needed.",
+              "Driving along the Grande Corniche offers the best photo ops.",
+              "Be mindful of the sharp bends in the mountain villages."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt bei Galimard, wo man das Auto sicher parken kann. Mittags folgt der Besuch bei Fragonard, was ein perfektes Indoor-Erlebnis garantiert. Trotz Regen bietet der Jardin Exotique eine dramatische Kulisse für kurze Spaziergänge. Nachmittags fahren wir zum Fort de la Revère für den Ausblick über die wolkenverhangene Küste, gefolgt vom Trophée d'Auguste und einem letzten Blick auf Èze.",
+            "hu": "A nap kényelmesen indul a Galimard-nál, ahol az autó biztonságban parkolhat. Délben a Fragonard látogatása következik, ami garantált beltéri élményt nyújt. Az eső ellenére az Egzotikus Kert drámai hátteret ad a rövid sétákhoz. Délután a Fort de la Revère felé hajtunk a felhős partvidékért, majd a Trophée d'Auguste következik a közeli La Turbie-ben.",
+            "ro": "Ziua începe relaxat la Galimard, unde puteți parca mașina în siguranță. La prânz urmează vizita la Fragonard, garantând o experiență perfectă în interior. În ciuda ploii, Grădina Exotică oferă un cadru dramatic pentru scurte plimbări. După-amiaza conducem spre Fort de la Revère, urmat de Trophée d'Auguste pentru o ultimă privire spre coastă.",
+            "en": "The day begins relaxed at Galimard, where you can park the car safely. At noon follows the visit to Fragonard, ensuring a perfect indoor experience. Despite the rain, the Exotic Garden provides a dramatic backdrop for short walks. In the afternoon, we drive to Fort de la Revère for views over the cloudy coast, followed by Trophée d'Auguste."
+          },
+          "stops": [
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kundenparkplatz direkt vor dem Eingang, um trocken zu bleiben.",
+                "hu": "Használja a közvetlenül a bejárat előtt lévő ügyfélparkolót, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea pentru clienți direct din fața intrării pentru a rămâne uscat.",
+                "en": "Use the customer parking directly in front of the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; idealer Stopp bei starkem Regen für die ganze Familie.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális megálló heves esőben az egész családnak.",
+                "ro": "Parcare mare disponibilă; oprire ideală pentru întreaga familie pe ploaie grea.",
+                "en": "Large parking available; ideal stop during heavy rain for the whole family."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg vom Parkplatz zum Eingang; ein Regenschirm ist hier sinnvoll.",
+                "hu": "Rövid, meredek út a parkolótól a bejáratig; itt hasznos lehet az esernyő.",
+                "ro": "Drum scurt și abrupt de la parcare la intrare; o umbrelă este utilă aici.",
+                "en": "Short, steep walk from the parking to the entrance; an umbrella is useful here."
+              }
+            },
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie das Panorama vom Fenster aus.",
+                "hu": "Erős szélben maradjon az autóban, és élvezze a panorámát az ablakból.",
+                "ro": "Rămâneți în mașină dacă vântul e puternic și admirați panorama de la geam.",
+                "en": "Stay in the car if the wind is strong and enjoy the panorama from the window."
+              }
+            },
+            {
+              "name": "Trophée d'Auguste (La Turbie)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Monument; der Besuch ist auch bei Nieselregen kurzweilig.",
+                "hu": "A parkoló közel van a műemlékhez; a látogatás szemerkélő esőben is érdekes.",
+                "ro": "Parcarea este aproape de monument; vizita este plăcută chiar și pe burniță.",
+                "en": "The parking is close to the monument; the visit is enjoyable even in drizzle."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen an der Straße; die Sicht kann durch Gischt eingeschränkt sein.",
+                "hu": "Vigyázzon a kiszálláskor az út szélén; a felverődő víz ronthatja a látási viszonyokat.",
+                "ro": "Atenție la coborârea din mașină; vizibilitatea poate fi redusă de burniță.",
+                "en": "Be careful when getting out by the road; visibility may be limited by spray."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Corniche-Straßen sind bei Regen durch abfließendes Wasser tückisch.",
+              "Nutzen Sie die Parkhäuser direkt am Eingang von Èze-Village (Parkplatz Oppidum).",
+              "Scheibenwischer vor der Fahrt prüfen; in den Bergen kann es stark schütten.",
+              "Die Moyenne Corniche kann bei Nebel sehr schlechte Sicht bieten; Nebellicht nutzen.",
+              "Fragonard und Galimard haben große, gut befestigte Kundenparkplätze."
+            ],
+            "hu": [
+              "A Corniche utak esőben a lefolyó víz miatt trükkösek és csúszósak lehetnek.",
+              "Használja az Èze falu bejáratánál lévő parkolókat (pl. Oppidum parkoló).",
+              "Ellenőrizze az ablaktörlőket; a hegyekben hirtelen és hevesen eshet az eső.",
+              "A Moyenne Corniche úton ködben nagyon rossz a látótávolság; használjon ködlámpát.",
+              "A Fragonard és Galimard nagy, aszfaltozott ügyfélparkolókkal rendelkezik."
+            ],
+            "ro": [
+              "Drumurile Corniche sunt înșelătoare pe ploaie din cauza apei care se scurge.",
+              "Folosiți parcările de la intrarea în Èze-Village (parcarea Oppidum).",
+              "Verificați ștergătoarele; în munți poate ploua torențial pe neașteptate.",
+              "Moyenne Corniche poate avea vizibilitate redusă pe ceață; folosiți farurile de ceață.",
+              "Fragonard și Galimard au parcări pentru clienți mari și bine amenajate."
+            ],
+            "en": [
+              "The Corniche roads are treacherous during rain due to runoff water.",
+              "Use the parking lots directly at the entrance of Èze-Village (Oppidum lot).",
+              "Check wipers before driving; it can pour heavily and suddenly in the mountains.",
+              "Moyenne Corniche can have very poor visibility in fog; use fog lights.",
+              "Fragonard and Galimard have large, well-paved customer parking lots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt bei Galimard, bevor wir zur Fragonard-Fabrik für eine Führung fahren. Mittags genießen wir den Jardin Exotique im klaren Sonnenlicht, das die Kakteen perfekt in Szene setzt. Der Nachmittag führt zum Fort de la Revère für Fernsichten bis nach Korsika (bei Glück), gefolgt vom Trophée d'Auguste. Der Tag endet am Aussichtspunkt des Nietzsche-Pfades pünktlich zum Sonnenuntergang.",
+            "hu": "Ragyogó téli reggel indul a Galimard-nál, majd a Fragonard gyárba hajtunk egy tárlatvezetésre. Délben az Egzotikus Kertben gyönyörködünk a tiszta napsütésben, ami tökéletesen megvilágítja a növényeket. Délután a Fort de la Revère felé vesszük az irányt, ahonnan jó eséllyel Korzikáig is ellátni. A nap a Nietzsche-ösvény kilátópontjánál zárul a naplementével.",
+            "ro": "O dimineață senină de iarnă începe la Galimard, înainte de a merge la fabrica Fragonard pentru un tur. La prânz ne bucurăm de Grădina Exotică în lumina clară a soarelui. După-amiaza mergem la Fort de la Revère pentru vederi la distanță (uneori până în Corsica), urmat de Trophée d'Auguste. Ziua se încheie la punctul de belvedere Nietzsche la apus.",
+            "en": "A bright winter morning starts at Galimard before driving to the Fragonard factory for a tour. At noon, we enjoy the Exotic Garden in the clear sunlight. The afternoon leads to Fort de la Revère for distant views (sometimes to Corsica), followed by Trophée d'Auguste. The day ends at the Nietzsche path viewpoint right at sunset."
+          },
+          "stops": [
+            {
+              "name": "Galimard Perfumerie Èze-Village",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger; Sie haben mehr Zeit für eine individuelle Beratung.",
+                "hu": "Télen itt sokkal nyugodtabb a hangulat; több idő jut a személyes tanácsadásra.",
+                "ro": "Iarna este mai liniște aici; aveți mai mult timp pentru consultanță individuală.",
+                "en": "It's quieter here in winter; you'll have more time for individual advice."
+              }
+            },
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Innenräume bieten Schutz vor der kühlen Brise von der See.",
+                "hu": "A kellemes hőmérsékletű belső terek védelmet nyújtanak a hűvös tengeri szél ellen.",
+                "ro": "Spațiile interioare încălzite oferă protecție împotriva brizei reci de pe mare.",
+                "en": "Perfectly tempered interiors offer protection from the cool breeze from the sea."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für kräftige Farben; ideal für Landschaftsfotografen.",
+                "hu": "A téli nap erős színeket kölcsönöz a tájnak; ideális a tájfotósoknak.",
+                "ro": "Soarele de iarnă oferă culori puternice; ideal pentru fotografii de peisaj.",
+                "en": "The winter sun provides strong colors; ideal for landscape photographers."
+              }
+            },
+            {
+              "name": "Fort de la Revère",
+              "tip_5lang": {
+                "de": "Klare Winterluft ermöglicht oft Sichten bis zu den Alpen und zum Meerhorizont.",
+                "hu": "A tiszta téli levegő gyakran lehetővé teszi a kilátást az Alpokig és a távoli tengerig.",
+                "ro": "Aerul curat de iarnă permite adesea vederi până la Alpi și orizontul mării.",
+                "en": "Clear winter air often allows views to the Alps and the sea horizon."
+              }
+            },
+            {
+              "name": "Trophée d'Auguste (La Turbie)",
+              "tip_5lang": {
+                "de": "Im Winter ist das Monument oft weniger überlaufen; genießen Sie die Ruhe vor Ort.",
+                "hu": "Télen a műemlék kevésbé zsúfolt; élvezze a helyszín nyugalmát.",
+                "ro": "Iarna, monumentul este adesea mai puțin aglomerat; bucurați-vă de liniște.",
+                "en": "In winter, the monument is often less crowded; enjoy the peace on site."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Kommen Sie um 16:45 Uhr hierher, um den farbenfrohen Sonnenuntergang zu erleben.",
+                "hu": "Érkezzen ide 16:45 körül, hogy átélje a színpompás téli naplementét.",
+                "ro": "Veniți aici în jurul orei 16:45 pentru a vedea apusul plin de culoare.",
+                "en": "Come here around 16:45 to experience the colorful winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achtung: In den Bergen um La Turbie kann es im Winter vereinzelt Frost geben.",
+              "Die Parkplatzsituation in Èze ist im Winter deutlich entspannter als im Sommer.",
+              "Nutzen Sie die Sitzheizung; die Temperaturen fallen im Schatten der Felsen rasch.",
+              "Vermeiden Sie Fahrten nach 17:30 Uhr auf den Corniches, wenn Sie kein Nachtlicht mögen.",
+              "Prüfen Sie das Frostschutzmittel im Scheibenwischwasser für die Berglagen."
+            ],
+            "hu": [
+              "Vigyázat: La Turbie környékén a hegyekben télen néha előfordulhat fagy.",
+              "A parkolási helyzet Èze-ben télen lényegesen nyugodtabb, mint nyáron.",
+              "Használja az ülésfűtést; a sziklák árnyékában a hőmérséklet gyorsan esik.",
+              "Kerülje a 17:30 utáni vezetést a Corniche utakon, ha nem szereti az éjszakai fényt.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban a hegyi szakaszok előtt."
+            ],
+            "ro": [
+              "Atenție: În munții din jurul La Turbie poate apărea ocazional îngheț iarna.",
+              "Situația parcărilor în Èze este mult mai relaxată iarna decât vara.",
+              "Folosiți încălzirea în scaune; temperaturile scad rapid la umbra stâncilor.",
+              "Evitați condusul pe Corniches după ora 17:30 dacă nu vă place lumina nocturnă.",
+              "Verificați antigelul în lichidul de parbriz pentru zonele montane."
+            ],
+            "en": [
+              "Caution: In the mountains around La Turbie, occasional frost can occur in winter.",
+              "The parking situation in Èze is much more relaxed in winter than in summer.",
+              "Use the seat heating; temperatures drop quickly in the shadow of the cliffs.",
+              "Avoid driving on the Corniches after 17:30 if you don't like night driving.",
+              "Check the antifreeze in the windshield washer fluid for mountain sections."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1074,34 +2273,378 @@
           "Validate your ticket immediately upon boarding.",
           "Keep an eye on the schedule, especially during weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie Èze Village bequem von Nizza oder Monaco aus. Nach der Ankunft erkunden Sie die Parfumgeheimnisse bei Fragonard und steigen dann hinauf in das mittelalterliche Labyrinth. Der Exotische Garten bietet Ihnen eine Pause mit Postkartenblick. Vor der Rückreise schlendern Sie durch die Gassen und werfen einen Blick auf den berühmten Nietzsche-Pfad.",
+            "hu": "Busszal könnyen elérheti Éze falut Nizzából vagy Monacóból. Érkezés után fedezze fel a Fragonard parfümtitkait, majd induljon el a középkori labirintusba. Az Egzotikus Kertben tarthat egy pihenőt képeslapba illő kilátással. A visszautazás előtt tegyen egy utolsó sétát a sikátorokban a Nietzsche-ösvény mentén.",
+            "ro": "Autobuzul vă aduce confortabil în satul Èze din Nisa sau Monaco. După sosire, explorați secretele parfumurilor la Fragonard, apoi urcați în labirintul medieval. Grădina Exotică oferă o pauză cu vederi de carte poștală. Înainte de plecare, plimbați-vă pe străduțe și admirați începutul faimoasei poteci a lui Nietzsche.",
+            "en": "Take the bus from Nice or Monaco to reach Èze Village effortlessly. Start by discovering the secrets of perfume at Fragonard before climbing into the medieval maze of the village. The Exotic Garden provides a perfect break with postcard-worthy views. Before your return journey, wander through the stone alleys and see the start of the legendary Nietzsche path."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Èze Village' direkt vor dem Eingang.",
+                "hu": "Az 'Èze Village' buszmegálló közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz 'Èze Village' este chiar în fața intrării.",
+                "en": "The 'Èze Village' bus stop is right in front of the entrance."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Folgen Sie der Beschilderung ins Dorfzentrum.",
+                "hu": "Kövesse a jelzéseket a falu központja felé.",
+                "ro": "Urmați indicatoarele spre centrul satului.",
+                "en": "Follow the signs leading into the village center."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Spitzenblick, der jeden Cent des Eintritts wert ist.",
+                "hu": "A kilátás minden centet megér a belépőből.",
+                "ro": "Priveliștea merită fiecare cent din prețul biletului.",
+                "en": "The view is worth every cent of the admission fee."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Kleines Juwel in den Gassen des Bergdorfes.",
+                "hu": "Kis ékszerdoboz a hegyi falu sikátoraiban.",
+                "ro": "O mică bijuterie în străduțele satului de munte.",
+                "en": "A small gem hidden in the mountain village alleys."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Startpunkt)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anfang des Pfades für Fotos.",
+                "hu": "Élvezze az ösvény elejét a legjobb fotókért.",
+                "ro": "Bucurați-vă de începutul potecii pentru fotografii.",
+                "en": "Enjoy the start of the trail for great photo spots."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gachon",
+                "tip": "Gemütliche Bäckerei für einen schnellen Snack."
+              },
+              {
+                "name": "Salade Niçoise",
+                "tip": "Frischer Klassiker der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gachon",
+                "tip": "Hangulatos pékség egy gyors tízóraira."
+              },
+              {
+                "name": "Salade Niçoise",
+                "tip": "A régió friss, klasszikus salátája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gachon",
+                "tip": "Brutărie primitoare pentru o gustare rapidă."
+              },
+              {
+                "name": "Salade Niçoise",
+                "tip": "Salata clasică și proaspătă a regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gachon",
+                "tip": "Cozy bakery for a quick local snack."
+              },
+              {
+                "name": "Salade Niçoise",
+                "tip": "The fresh, classic salad of the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pfarrgarten",
+                "tip": "Kleiner Rückzugsort neben der Kirche.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Blickpunkt Moyenne Corniche",
+                "tip": "Warten auf den Bus mit Aussicht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plébániakert",
+                "tip": "Kis menedékhely a templom mellett.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Moyenne Corniche kilátó",
+                "tip": "Várakozás a buszra panorámával.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina parohială",
+                "tip": "Mic refugiu lângă biserică.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Belvedere Moyenne Corniche",
+                "tip": "Așteptarea autobuzului cu priveliște.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Garden",
+                "tip": "Small retreat next to the church.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Moyenne Corniche Lookout",
+                "tip": "Waiting for the bus with a view.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Echoppe d'Èze",
+                "tip": "Provenzalische Stoffe und Deko."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Echoppe d'Èze",
+                "tip": "Provence-i anyagok és dekoráció."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Echoppe d'Èze",
+                "tip": "Țesături și decorațiuni provensale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Echoppe d'Èze",
+                "tip": "Provençal fabrics and home decor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Linie 82 und 112 verbinden Nizza mit Èze Village.",
+              "Die Busse können im Sommer sehr voll sein, kommen Sie rechtzeitig.",
+              "Entwerten Sie Ihr Ticket direkt beim Einsteigen.",
+              "Achten Sie auf den Fahrplan, besonders am Wochenende."
+            ],
+            "hu": [
+              "A 82-es és 112-es busz köti össze Nizzát Éze-vel.",
+              "A buszok nyáron zsúfoltak lehetnek, érkezzen korábban.",
+              "Érvényesítse jegyét azonnal felszállás után.",
+              "Figyeljen a menetrendre, különösen hétvégén."
+            ],
+            "ro": [
+              "Liniile 82 și 112 leagă Nisa de Èze Village.",
+              "Autobuzele pot fi aglomerate vara, veniți din timp.",
+              "Validați biletul imediat după urcare.",
+              "Verificați orarul, în special în weekend."
+            ],
+            "en": [
+              "Lines 82 and 112 connect Nice with Èze Village.",
+              "Buses can be very crowded in summer; arrive early.",
+              "Validate your ticket immediately upon boarding.",
+              "Keep an eye on the schedule, especially during weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit dem Bus 82 oder 112 direkt zur Fragonard-Fabrik, um trocken anzukommen. Mittags bietet die nahegelegene Kirche Schutz vor den Schauern im Dorfzentrum. Der Jardin Exotique ist am Nachmittag ein Erlebnis für sich, wenn der Regen auf die Sukkulenten trommelt. Ein kurzer Stopp bei der Chapelle de la Sainte-Croix folgt, bevor wir die Busfahrt zurück ins Tal antreten.",
+            "hu": "A nap a 82-es vagy 112-es busszal indul közvetlenül a Fragonard gyárhoz, hogy szárazon érkezzünk. Délben a közeli templom nyújt védelmet a záporok elől a falu központjában. Az Egzotikus Kert délután különleges élmény, ahogy az eső dobol a növények levelein. Rövid megálló következik a Szent Kereszt kápolnánál, mielőtt busszal visszatérnénk a völgybe.",
+            "ro": "Ziua începe cu autobuzul 82 sau 112 direct la fabrica Fragonard pentru a ajunge uscat. La prânz, biserica din apropiere oferă protecție împotriva averselor din centrul satului. Grădina Exotică este o experiență specială după-amiaza când ploaia cade pe suculente. Urmează o scurtă oprire la Chapelle de la Sainte-Croix înainte de drumul cu autobuzul înapoi.",
+            "en": "The day starts with bus 82 or 112 directly to the Fragonard factory to arrive dry. At noon, the nearby church offers protection from showers in the village center. The Exotic Garden is an experience of its own in the afternoon when rain drums on the succulents. A short stop at the Sainte-Croix chapel follows before taking the bus back down."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Èze Village' liegt direkt gegenüber der Fabrik.",
+                "hu": "Az 'Èze Village' buszmegálló közvetlenül a gyárral szemben található.",
+                "ro": "Stația de autobuz 'Èze Village' se află chiar vizavi de fabrică.",
+                "en": "The bus stop 'Èze Village' is located directly opposite the factory."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Haltestelle entfernt; gut erreichbar bei Regen.",
+                "hu": "Csak pár perc séta a megállótól; esőben is könnyen és gyorsan elérhető.",
+                "ro": "La doar câteva minute de mers pe jos de stație; accesibil pe ploaie.",
+                "en": "Only a few minutes' walk from the stop; easily accessible in the rain."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Warten Sie eventuelle Starkregenphasen im Kassenhäuschen oder Souvenirshop ab.",
+                "hu": "Várja meg a heves eső végét a jegypénztárnál vagy az ajándékboltban.",
+                "ro": "Așteptați trecerea ploii torențiale la casa de bilete sau în magazin.",
+                "en": "Wait out heavy rain phases at the ticket booth or souvenir shop."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Perfekt für einen letzten trockenen Moment, bevor der Bus kommt.",
+                "hu": "Tökéletes egy utolsó száraz pillanatra, mielőtt érkezne a busz.",
+                "ro": "Perfect pentru un ultim moment uscat înainte de sosirea autobuzului.",
+                "en": "Perfect for one last dry moment before the bus arrives."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Startpunkt)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan (Linie 83), falls Sie nicht wandern möchten.",
+                "hu": "Ellenőrizze a 83-as busz menetrendjét, ha esőben nem szeretne gyalogolni.",
+                "ro": "Verificați programul autobuzului 83 dacă nu doriți să mergeți pe jos pe ploaie.",
+                "en": "Check the bus schedule (Line 83) if you prefer not to hike in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse 82 und 112 fahren seltener; prüfen Sie die App 'Lignes d'Azur'.",
+              "Die Wartehäuschen in Èze-Village bieten nur begrenzten Schutz vor Wind und Regen.",
+              "Haben Sie passendes Kleingeld oder die App für das Ticket bereit (1,50€-2,10€).",
+              "Bei starkem Regen können Busse auf der Moyenne Corniche Verspätung haben.",
+              "Die Busfahrt bietet auch bei Regen tolle Ausblicke auf die Küste."
+            ],
+            "hu": [
+              "A 82-es és 112-es busz ritkábban jár; használja a 'Lignes d'Azur' alkalmazást.",
+              "Az Èze-falu buszmegállói csak korlátozott védelmet nyújtanak szél és eső ellen.",
+              "Legyen önnél aprópénz vagy az applikáció a jegyhez (kb. 1,50€-2,10€).",
+              "Heves esőzéskor a buszok késhetnek a Moyenne Corniche úton a forgalom miatt.",
+              "A buszozás esőben is remek kilátást nyújt a tengerpartra az ablakból."
+            ],
+            "ro": [
+              "Autobuzele 82 și 112 circulă mai rar; verificați aplicația 'Lignes d'Azur'.",
+              "Adăposturile de autobuz din Èze-Village oferă protecție limitată contra vântului.",
+              "Pregătiți mărunt sau aplicația pentru bilet (aproximativ 1,50€-2,10€).",
+              "Autobuzele pot avea întârzieri pe Moyenne Corniche în timpul ploilor grele.",
+              "Călătoria cu autobuzul oferă vederi frumoase spre coastă chiar și pe ploaie."
+            ],
+            "en": [
+              "Buses 82 and 112 run less frequently; check the 'Lignes d'Azur' app.",
+              "Bus shelters in Èze-Village offer only limited protection from wind and rain.",
+              "Have exact change or the app ready for the ticket (approx. €1.50-€2.10).",
+              "During heavy rain, buses on Moyenne Corniche may experience delays.",
+              "The bus ride offers great views of the coast even when it is raining."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit der Busfahrt nach Èze, wo wir direkt bei Fragonard starten. Mittags wärmen wir uns in der Kirche auf, bevor wir den Jardin Exotique im klaren Winterlicht besuchen. Nach einem kurzen Besuch der Chapelle de la Sainte-Croix geht es zum Startpunkt des Nietzsche-Pfades. Da die Busse im Winter seltener fahren, planen wir die Rückfahrt vor Einbruch der Dunkelheit.",
+            "hu": "Friss téli reggel indul a buszozással Èze-be, ahol közvetlenül a Fragonard-nál kezdünk. Délben a templomban melegszünk fel, majd az Egzotikus Kertbe látogatunk a tiszta téli fényben. A Szent Kereszt kápolna után a Nietzsche-ösvény kezdőpontjához megyünk. Mivel a buszok télen ritkábban járnak, még sötétedés előtt tervezzük meg a visszautat.",
+            "ro": "O dimineață proaspătă de iarnă începe cu autobuzul spre Èze, pornind direct de la Fragonard. La prânz ne încălzim în biserică înainte de a vizita Grădina Exotică. După o scurtă vizită la Chapelle de la Sainte-Croix, mergem spre punctul de start Nietzsche. Deoarece autobuzele circulă mai rar iarna, planificăm întoarcerea înainte de întuneric.",
+            "en": "A crisp winter morning starts with the bus ride to Èze, starting directly at Fragonard. At noon, we warm up in the church before visiting the Exotic Garden in the clear winter light. After a quick visit to the Sainte-Croix chapel, we head to the Nietzsche path start. Since buses run less often in winter, we plan the return trip before dark."
+          },
+          "stops": [
+            {
+              "name": "Usine-Laboratoire Fragonard",
+              "tip_5lang": {
+                "de": "Ideal, um nach der Busfahrt im warmen Verkaufsraum anzukommen.",
+                "hu": "Ideális megálló a buszozás után, hogy a meleg eladótérben térjünk magunkhoz.",
+                "ro": "Ideal pentru a vă încălzi în showroom după călătoria cu autobuzul.",
+                "en": "Ideal for warming up in the showroom after the bus ride."
+              }
+            },
+            {
+              "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Innenraum für eine kurze Pause vom Winterwind.",
+                "hu": "Használja ki a szélcsendes belső teret egy rövid pihenőre a téli szél elől.",
+                "ro": "Folosiți interiorul ferit de vânt pentru o scurtă pauză de la frigul iernii.",
+                "en": "Use the windless interior for a quick break from the winter wind."
+              }
+            },
+            {
+              "name": "Le Jardin Exotique d'Èze",
+              "tip_5lang": {
+                "de": "Im Winter sind die Sichtweiten am besten; genießen Sie das Panorama.",
+                "hu": "Télen a legjobb a látótávolság; élvezze a zavartalan panorámát.",
+                "ro": "Iarna vizibilitatea este maximă; bucurați-vă de panorama neîntreruptă.",
+                "en": "Visibility is best in winter; enjoy the unobstructed panorama."
+              }
+            },
+            {
+              "name": "Chapelle de la Sainte-Croix",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschützten Ort, bevor Sie zur Haltestelle zurückkehren.",
+                "hu": "Látogasson el erre a védett helyre, mielőtt visszatérne a buszmegállóhoz.",
+                "ro": "Vizitați acest loc adăpostit înainte de a vă întoarce la stația de autobuz.",
+                "en": "Visit this sheltered spot before returning to the bus stop."
+              }
+            },
+            {
+              "name": "Sentier de Nietzsche (Startpunkt)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten der Linie 83 für die Rückfahrt nach Èze-sur-Mer.",
+                "hu": "Figyeljen a 83-as busz indulási idejére az Èze-sur-Mer-be való visszatéréshez.",
+                "ro": "Verificați orele de plecare ale autobuzului 83 pentru întoarcerea la Èze-sur-Mer.",
+                "en": "Check the departure times for Line 83 for the return to Èze-sur-Mer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter gilt oft ein reduzierter Fahrplan; prüfen Sie 'Lignes d'Azur' vorab.",
+              "Die Busfahrt am frühen Abend bietet einen tollen Blick auf die beleuchtete Küste.",
+              "An der Haltestelle kann es durch den Wind sehr kühl sein; warm anziehen.",
+              "Die Busse sind im Winter weniger voll, man bekommt fast immer einen Sitzplatz.",
+              "Der letzte Bus der Linie 112 fährt oft schon gegen 19:00 Uhr zurück."
+            ],
+            "hu": [
+              "Télen gyakran ritkított menetrend van érvényben; ellenőrizze előre az appot.",
+              "A kora esti buszozás remek kilátást nyújt a kivilágított tengerpartra.",
+              "A buszmegállóban a szél miatt nagyon hideg lehet; öltözzön fel melegen.",
+              "A buszok télen kevésbé zsúfoltak, szinte mindig van szabad ülőhely.",
+              "A 112-es busz utolsó járata télen gyakran már 19:00 körül elindul vissza."
+            ],
+            "ro": [
+              "Iarna se aplică adesea un program redus; verificați aplicația în prealabil.",
+              "Călătoria cu autobuzul seara oferă o vedere superbă asupra coastei iluminate.",
+              "În stație poate fi foarte frig din cauza vântului; îmbrăcați-vă bine.",
+              "Autobuzele sunt mai puțin aglomerate iarna, veți găsi aproape sigur loc.",
+              "Ultimul autobuz 112 pleacă adesea înapoi în jurul orei 19:00 iarna."
+            ],
+            "en": [
+              "Reduced schedules often apply in winter; check 'Lignes d'Azur' in advance.",
+              "The early evening bus ride offers great views of the illuminated coast.",
+              "It can be very cool at the bus stop due to the wind; dress warmly.",
+              "Buses are less crowded in winter, you almost always get a seat.",
+              "The last bus on Line 112 often departs back as early as 19:00 in winter."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.eze-tourisme.com/",
-    "events": "https://www.eze-tourisme.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.lignesdazur.com/",
-    "language_tips": {
-      "de": "Èze ist eines der meistbesuchten Doerfer der Côte d'Azur und sehr touristisch, Englisch, Italienisch und Deutsch sind in den Galerien und Restaurants ueblich. Im Parfumhaus Fragonard und Galimard wird mehrsprachig gefuehrt. Im Bergdorf selbst wenig Lokalbevoelkerung.",
-      "hu": "Èze a Côte d'Azur egyik leglatogatottabb faluja, nagyon turistas, az angol, olasz es nemet a galeriakban, ettermekben szokvanyos. A Fragonard es Galimard parfumhazakban tobb nyelven vezetnek. A hegyi faluban kevesen elnek.",
-      "ro": "Èze e printre cele mai vizitate sate de pe Coasta de Azur si foarte turistic, engleza, italiana si germana sunt comune in galerii si restaurante. La parfumeriile Fragonard si Galimard se ghideaza multilingv. In satul de munte traiesc putini localnici.",
-      "en": "Èze is one of the most visited villages on the French Riviera and very touristy — English, Italian and German are common in galleries and restaurants. The Fragonard and Galimard perfume houses offer multilingual tours. Few locals actually live in the hill village."
-    },
-    "best_time_to_visit": {
-      "de": "April-Juni und September-Oktober sind ideal: angenehm, blumenduftend, Touristen ertraeglich. Juli-August von 11 bis 17 Uhr Massenandrang aus Kreuzfahrten und Bustouren, lieber frueh oder spaet. Im Winter sehr ruhig, einige Restaurants zu, aber leer und schoen.",
-      "hu": "Aprilis-junius es szeptember-oktober tokeletes: enyhe, viragok, viselheto tomeg. Julius-augusztus 11-17 ora kozott hajoutas es buszos tomeg, jobb korai vagy kesoi. Telen nagyon csendes, par etterem zarva, de ures es szep.",
-      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: placut, parfumat, turisti tolerabili. Iulie-august intre 11 si 17 e nebunie de la croaziere si autocare, mai bine dis-de-dimineata sau seara. Iarna e foarte linistit, unele restaurante inchise, dar gol si frumos.",
-      "en": "April-June and September-October are ideal: pleasant, fragrant, with bearable crowds. July-August between 11am and 5pm sees cruise-ship and coach-tour swarms — go early or late. Winter is very quiet with some restaurants closed, but empty and beautiful."
-    },
-    "neighborhood_warnings": {
-      "de": "Die Strasse hinauf ist eng und kurvig, Parkplaetze knapp, lieber Bus 82 oder 112 von Nizza. Cours Sentier-Nietzsche von Èze-Village zum Meer ist 45 Min steil bergab, gute Schuhe Pflicht. Im Sommer extreme Hitze auf den Steintreppen.",
-      "hu": "A felvezeto ut keskeny, kanyargos, parkolas kevesz, jobb a 82-es vagy 112-es busz Niceuk-bol. A Nietzsche-osvenyen 45 perc meredek lefele, jo cipo kell. Nyaron a kovekes lepcson irtozatos a hoseg.",
-      "ro": "Drumul in sus e ingust si serpuit, parcari putine, mai bine cu autobuzul 82 sau 112 din Nisa. Pe poteca Nietzsche 45 min in jos abrupt, incaltari bune obligatorii. Vara, caldura extrema pe scarile de piatra.",
-      "en": "The road up is narrow and twisty, parking is scarce — take the 82 or 112 bus from Nice. The Nietzsche path down to the sea is a steep 45-minute descent, sturdy shoes essential. Summer heat on the stone steps is brutal."
-    },
-    "parking_real_time": ""
   }
 }

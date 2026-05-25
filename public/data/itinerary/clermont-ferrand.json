@@ -346,6 +346,468 @@
           "The city is hilly, so plan for short breaks.",
           "Try the local wines from the Côtes d'Auvergne region."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Place de Jaude, dem pulsierenden Zentrum von Clermont-Ferrand. Die markante schwarze Kathedrale aus Volvic-Stein dominiert das Stadtbild und bietet im Inneren faszinierende Glasmalereien. Nach einem Besuch der romanischen Basilika Notre-Dame-du-Port lockt der Marché Saint-Pierre mit regionalen Köstlichkeiten. Den Nachmittag verbringen Sie entspannt im Jardin Lecoq, bevor Sie im Musée Bargoin in die antike Geschichte der Auvergne eintauchen.",
+            "hu": "Kezdje a napot a Place de Jaude-on, Clermont-Ferrand nyüzsgő központjában. A Volvic-kőből épült jellegzetes fekete katedrális uralja a városképet, belsejében lenyűgöző üvegablakokkal. A román stílusú Notre-Dame-du-Port bazilika megtekintése után a Marché Saint-Pierre kínál regionális finomságokat. A délutánt töltse pihenéssel a Jardin Lecoq parkban, majd merüljön el Auvergne ókori történelmében a Musée Bargoin falai között.",
+            "ro": "Începeți ziua în Place de Jaude, centrul vibrant al orașului Clermont-Ferrand. Catedrala neagră distinctivă, construită din piatră de Volvic, domină peisajul urban și oferă vitralii fascinante în interior. După o vizită la basílica romanică Notre-Dame-du-Port, piața Saint-Pierre vă atrage cu delicii regionale. Petreceți după-amiaza relaxându-vă în Jardin Lecoq, înainte de a explora istoria antică a regiunii Auvergne la Musée Bargoin.",
+            "en": "Start your day at Place de Jaude, the vibrant heart of Clermont-Ferrand. The striking black cathedral made of Volvic stone dominates the skyline and features fascinating stained glass inside. After visiting the Romanesque Basilica of Notre-Dame-du-Port, the Saint-Pierre Market entices with regional delicacies. Spend the afternoon relaxing in Jardin Lecoq before diving into the ancient history of Auvergne at the Musée Bargoin."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Vercingetorix-Statue von Bartholdi.",
+                "hu": "Csodálja meg Vercingetorix szobrát, melyet Bartholdi készített.",
+                "ro": "Admirați statuia lui Vercingetorix realizată de Bartholdi.",
+                "en": "Admire the Vercingetorix statue created by Bartholdi."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame-de-l'Assomption",
+              "tip_5lang": {
+                "de": "Die einzige Kathedrale aus schwarzem Lavastein in Frankreich.",
+                "hu": "Franciaország egyetlen fekete lávakőből épült katedrálisa.",
+                "ro": "Singura catedrală din piatră de lavă neagră din Franța.",
+                "en": "The only cathedral built entirely from black lava stone in France."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Port",
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe mit beeindruckenden Kapitellen.",
+                "hu": "UNESCO világörökség lenyűgöző oszlopfőkkel.",
+                "ro": "Sit UNESCO cu capiteluri sculptate impresionante.",
+                "en": "UNESCO World Heritage site with impressive sculpted capitals."
+              }
+            },
+            {
+              "name": "Marché Saint-Pierre",
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Saint-Nectaire Käse.",
+                "hu": "Kóstolja meg a helyi Saint-Nectaire sajtot.",
+                "ro": "Gustați brânza locală Saint-Nectaire.",
+                "en": "Try the local Saint-Nectaire cheese."
+              }
+            },
+            {
+              "name": "Jardin Lecoq",
+              "tip_5lang": {
+                "de": "Ein englischer Garten im Herzen der Stadt.",
+                "hu": "Angolkert a város szívében.",
+                "ro": "O grădină englezească în inima orașului.",
+                "en": "An English-style garden in the heart of the city."
+              }
+            },
+            {
+              "name": "Musée Bargoin",
+              "tip_5lang": {
+                "de": "Archäologische Schätze aus der gallo-römischen Zeit.",
+                "hu": "Gallo-római kori régészeti kincsek.",
+                "ro": "Trezori arheologice din epoca gallo-romană.",
+                "en": "Archaeological treasures from the Gallo-Roman era."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Truffade",
+                "tip": "Herzhaftes Gericht aus Kartoffeln und Cantal-Käse im L'Ostal."
+              },
+              {
+                "name": "Pounti",
+                "tip": "Traditioneller Fleisch-Gemüse-Kuchen im Le Saint-Eutrope."
+              },
+              {
+                "name": "Bleu d'Auvergne",
+                "tip": "Berühmter Blauschimmelkäse aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Truffade",
+                "tip": "Kiadós burgonyás-sajtos étel Cantal sajttal az L'Ostal étteremben."
+              },
+              {
+                "name": "Pounti",
+                "tip": "Hagyományos húsos-zöldséges pite a Le Saint-Eutrope-ban."
+              },
+              {
+                "name": "Bleu d'Auvergne",
+                "tip": "A régió híres kékpenészes sajtja."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Truffade",
+                "tip": "Mâncare consistentă din cartofi și brânză Cantal la L'Ostal."
+              },
+              {
+                "name": "Pounti",
+                "tip": "Plăcintă tradițională cu carne și legume la Le Saint-Eutrope."
+              },
+              {
+                "name": "Bleu d'Auvergne",
+                "tip": "Celebrul tip de brânză cu mucegai din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffade",
+                "tip": "Hearty potato and Cantal cheese dish at L'Ostal."
+              },
+              {
+                "name": "Pounti",
+                "tip": "Traditional meat and vegetable cake at Le Saint-Eutrope."
+              },
+              {
+                "name": "Bleu d'Auvergne",
+                "tip": "Famous blue cheese from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Belvédère de la Place de la Victoire",
+                "tip": "Blick auf die Türme der Kathedrale.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Square Blaise-Pascal",
+                "tip": "Ein ruhiger Platz hinter der Kathedrale.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fontaine d'Amboise",
+                "tip": "Prächtiger Renaissance-Brunnen.",
+                "emoji": "⛲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place de la Victoire kilátó",
+                "tip": "Kilátás a katedrális tornyaira.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Square Blaise-Pascal",
+                "tip": "Csendes tér a katedrális mögött.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fontaine d'Amboise",
+                "tip": "Pompás reneszánsz szökőkút.",
+                "emoji": "⛲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvédère de la Place de la Victoire",
+                "tip": "Vedere asupra turnurilor catedralei.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Square Blaise-Pascal",
+                "tip": "O piațetă liniștită în spatele catedralei.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fontaine d'Amboise",
+                "tip": "Fântână renascentistă magnifică.",
+                "emoji": "⛲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvédère de la Place de la Victoire",
+                "tip": "View of the cathedral towers.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Square Blaise-Pascal",
+                "tip": "A quiet square behind the cathedral.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fontaine d'Amboise",
+                "tip": "Magnificent Renaissance fountain.",
+                "emoji": "⛲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue des Gras",
+                "tip": "Boutiquen mit Blick auf den Puy de Dôme."
+              },
+              {
+                "name": "L'Aventure Michelin Boutique",
+                "tip": "Einzigartige Souvenirs der Reifenmarke."
+              },
+              {
+                "name": "Les Fromages de l'Abeille",
+                "tip": "Spezialitätenladen für Auvergne-Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue des Gras",
+                "tip": "Butikok kilátással a Puy de Dôme-ra."
+              },
+              {
+                "name": "L'Aventure Michelin Boutique",
+                "tip": "Egyedi szuvenírek a gumiabroncs márkától."
+              },
+              {
+                "name": "Les Fromages de l'Abeille",
+                "tip": "Szaküzlet auvergne-i sajtokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue des Gras",
+                "tip": "Boutique-uri cu vedere spre Puy de Dôme."
+              },
+              {
+                "name": "L'Aventure Michelin Boutique",
+                "tip": "Suveniruri unice ale mărcii de anvelope."
+              },
+              {
+                "name": "Les Fromages de l'Abeille",
+                "tip": "Magazin specializat în brânzeturi din Auvergne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue des Gras",
+                "tip": "Boutiques with a view of Puy de Dôme."
+              },
+              {
+                "name": "L'Aventure Michelin Boutique",
+                "tip": "Unique souvenirs from the tire brand."
+              },
+              {
+                "name": "Les Fromages de l'Abeille",
+                "tip": "Specialty shop for Auvergne cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Die meisten Sehenswürdigkeiten liegen in der Fußgängerzone.",
+              "Achten Sie auf die Brunnen aus Lavastein in der ganzen Stadt.",
+              "Die Stadt ist hügelig, planen Sie kurze Pausen ein.",
+              "Probieren Sie die regionalen Weine aus den Côtes d'Auvergne."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "A legtöbb látnivaló a sétálóövezetben található.",
+              "Figyelje meg a városszerte megtalálható lávakőből készült kutakat.",
+              "A város dombos, tervezzen rövid pihenőket.",
+              "Kóstolja meg a Côtes d'Auvergne borvidék helyi borait."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+              "Majoritatea obiectivelor turistice se află în zona pietonală.",
+              "Observați fântânile din piatră de lavă răspândite prin oraș.",
+              "Orașul este deluros, planificați scurte pauze.",
+              "Gustați vinurile locale din regiunea Côtes d'Auvergne."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets of the old town.",
+              "Most sights are located within the pedestrian zone.",
+              "Look out for the lava stone fountains throughout the city.",
+              "The city is hilly, so plan for short breaks.",
+              "Try the local wines from the Côtes d'Auvergne region."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Place de Jaude, wo die schwarzen Lavasteine im Regen glänzen. Mittags bietet der Marché Saint-Pierre ein trockenes Refugium für regionale Köstlichkeiten. Am Nachmittag erkunden wir die Basilika und das Musée Bargoin geschützt vor den Schauern. Der Abend endet mit dem dramatischen Anblick der dunklen Kathedrale unter grauen Wolken.",
+            "hu": "A reggel az esőtől csillogó Place de Jaude fekete lávakövei között indul. Délben a Marché Saint-Pierre fedett csarnoka nyújt menedéket és helyi finomságokat a zivatar elől. Délután a bazilika és a Musée Bargoin belső tereiben kalandozunk szárazon. Az este a sötét katedrális drámai, eső áztatta sziluettjével zárul.",
+            "ro": "Dimineața începe în Place de Jaude, unde piatra vulcanică neagră strălucește sub ploaie. La prânz, Marché Saint-Pierre oferă un refugiu uscat pentru delicatese regionale. După-amiaza explorăm Basilica și Musée Bargoin feriți de averse. Seara se încheie cu imaginea dramatică a catedralei întunecate sub norii cenușii.",
+            "en": "The morning starts at Place de Jaude, where the black lava stones glisten in the rain. At noon, Marché Saint-Pierre provides a dry haven for regional delicacies. In the afternoon, we explore the Basilica and Musée Bargoin sheltered from the showers. The evening ends with the dramatic sight of the dark cathedral under gray clouds."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Die Statuen wirken im Regen besonders imposant auf dem glänzenden Boden.",
+                "hu": "A szobrok különösen monumentálisak az esőtől fénylő burkolaton.",
+                "ro": "Statuile par deosebit de impunătoare pe pavajul strălucitor de ploaie.",
+                "en": "The statues look particularly imposing on the rain-slicked pavement."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame-de-l'Assomption",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Schauer im warmen, kerzenbeleuchteten Inneren abzuwarten.",
+                "hu": "Ideális hely a záporok kivárására a meleg, gyertyafényes belső térben.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii în interiorul cald.",
+                "en": "An ideal place to wait out the showers in the warm, candlelit interior."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Port",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Kapitelle, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Csodálja meg az oszlopfőket, miközben kint az eső veri a régi falakat.",
+                "ro": "Admirați capitelurile în timp ce afară ploaia bate în zidurile vechi.",
+                "en": "Admire the capitals while the rain beats against the ancient walls outside."
+              }
+            },
+            {
+              "name": "Marché Saint-Pierre",
+              "tip_4lang": {
+                "de": "Der perfekte überdachte Ort für eine gemütliche Mittagspause bei Regen.",
+                "hu": "A tökéletes fedett helyszín egy hangulatos ebédszünethez esőben.",
+                "ro": "Locul acoperit perfect pentru o pauză de prânz relaxantă pe timp de ploaie.",
+                "en": "The perfect covered spot for a cozy lunch break during the rain."
+              }
+            },
+            {
+              "name": "Jardin Lecoq",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Pavillons als Unterstand, falls der Regen stärker wird.",
+                "hu": "Használja a pavilonokat menedékként, ha eleredne az eső.",
+                "ro": "Folosiți pavilioanele ca adăpost dacă ploaia se intensifică.",
+                "en": "Use the pavilions as shelter if the rain gets heavier."
+              }
+            },
+            {
+              "name": "Musée Bargoin",
+              "tip_4lang": {
+                "de": "Verbringen Sie den regnerischen Nachmittag zwischen antiken Textilien und Funden.",
+                "hu": "Töltse az esős délutánt az antik textilek és leletek között.",
+                "ro": "Petreceți după-amiaza ploioasă printre textile și artefacte antice.",
+                "en": "Spend the rainy afternoon among ancient textiles and artifacts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den schwarzen Lavasteinen, sie können bei Nässe rutschig sein.",
+              "Nutzen Sie die Passagen rund um die Place de Jaude als Abkürzung im Trockenen.",
+              "Ein Besuch in der Kathedrale bietet Schutz und eine besondere Atmosphäre.",
+              "Die Markthalle ist der beste Ort, um dem Regen zur Mittagszeit zu entfliehen."
+            ],
+            "hu": [
+              "Vigyázzon a fekete lávaköveken, mert nedvesen nagyon csúszósak lehetnek.",
+              "Használja a Place de Jaude körüli passzázsokat száraz rövidítésként.",
+              "A katedrális látogatása védelmet és különleges hangulatot nyújt esőben.",
+              "A vásárcsarnok a legjobb hely az eső elöli menekülésre ebédidőben."
+            ],
+            "ro": [
+              "Atenție pe pietrele negre de lavă, pot fi alunecoase când sunt ude.",
+              "Folosiți pasajele din jurul Place de Jaude ca scurtături la adăpost.",
+              "O vizită la catedrală oferă protecție și o atmosferă deosebită.",
+              "Hala pieței este cel mai bun loc pentru a scăpa de ploaie la prânz."
+            ],
+            "en": [
+              "Watch out on the black lava stones; they can be very slippery when wet.",
+              "Use the passages around Place de Jaude as dry shortcuts.",
+              "A visit to the cathedral provides shelter and a special atmosphere.",
+              "The market hall is the best place to escape the rain during lunchtime."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen auf der Place de Jaude mit Blick auf die schneebedeckten Vulkane. Mittags wärmen wir uns im Marché Saint-Pierre mit einer heißen Truffade auf. Der Nachmittag gehört den Museen und der Basilika, bevor die Dunkelheit früh hereinbricht. Am Abend leuchten die Lichter der Stadt auf dem dunklen Gestein besonders festlich.",
+            "hu": "Deres reggel a Place de Jaude-on, kilátással a hófödte vulkánokra. Délben a Marché Saint-Pierre-ben melegszünk fel egy forró Truffade mellett. A délután a múzeumoké és a bazilikáé, mielőtt korán leszállna az éj. Este a város fényei ünnepien csillognak a sötét kőépületeken.",
+            "ro": "O dimineață geroasă în Place de Jaude, cu vedere spre vulcanii înzăpeziți. La prânz ne încălzim în Marché Saint-Pierre cu o porție fierbinte de Truffade. După-amiaza aparține muzeelor și basilicii, înainte de lăsarea serii timpurii. Seara, luminile orașului strălucesc festiv pe piatra întunecată.",
+            "en": "A frosty morning at Place de Jaude with views of the snow-capped volcanoes. At noon, we warm up in Marché Saint-Pierre with a hot Truffade. The afternoon is dedicated to museums and the Basilica before darkness falls early. In the evening, the city lights shine festively against the dark stone."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Genießen Sie die Winterbeleuchtung und den Blick auf den Puy de Dôme.",
+                "hu": "Élvezze a téli kivilágítást és a kilátást a Puy de Dôme-ra.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și de vederea spre Puy de Dôme.",
+                "en": "Enjoy the winter lighting and the view towards Puy de Dôme."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame-de-l'Assomption",
+              "tip_4lang": {
+                "de": "Die dunklen Mauern speichern die Kälte, ziehen Sie sich warm an.",
+                "hu": "A sötét falak tárolják a hideget, öltözzön fel melegen a látogatáshoz.",
+                "ro": "Zidurile întunecate rețin frigul, îmbrăcați-vă bine pentru vizită.",
+                "en": "The dark walls retain the cold; dress warmly for the visit."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Port",
+              "tip_4lang": {
+                "de": "Ein ruhiger, windgeschützter Ort für eine spirituelle Pause.",
+                "hu": "Csendes, széltől védett hely egy spirituális szünethez.",
+                "ro": "Un loc liniștit, ferit de vânt, pentru o pauză spirituală.",
+                "en": "A quiet, wind-sheltered spot for a spiritual break."
+              }
+            },
+            {
+              "name": "Marché Saint-Pierre",
+              "tip_4lang": {
+                "de": "Probieren Sie heißen Käse und lokale Winterspezialitäten.",
+                "hu": "Kóstolja meg a forró sajtokat és a helyi téli specialitásokat.",
+                "ro": "Gustați brânzeturile calde și specialitățile locale de iarnă.",
+                "en": "Try the hot cheeses and local winter specialties."
+              }
+            },
+            {
+              "name": "Jardin Lecoq",
+              "tip_4lang": {
+                "de": "Die kahlen Bäume bieten eine melancholisch-schöne Winterkulisse.",
+                "hu": "A kopasz fák melankolikusan szép téli hátteret nyújtanak.",
+                "ro": "Copacii golași oferă un decor de iarnă melancolic și frumos.",
+                "en": "The bare trees provide a melancholically beautiful winter backdrop."
+              }
+            },
+            {
+              "name": "Musée Bargoin",
+              "tip_4lang": {
+                "de": "Perfekt, um sich am späten Nachmittag aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre késő délután.",
+                "ro": "Perfect pentru a vă încălzi la sfârșitul după-amiezii.",
+                "en": "Perfect for warming up in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 17:00 Uhr unter.",
+              "Tragen Sie feste Schuhe, da der Vulkansand auf den Gehwegen glatt werden kann.",
+              "Warme Getränke gibt es in den Cafés rund um die Place de Jaude.",
+              "Planen Sie Museumsbesuche für die kältesten Stunden des Nachmittags ein."
+            ],
+            "hu": [
+              "A nap decemberben már 17:00 körül lemegy.",
+              "Viseljen stabil cipőt, mert a járdákon a vulkáni por csúszóssá válhat.",
+              "Meleg italokat a Place de Jaude körüli kávézókban találhat.",
+              "A múzeumlátogatásokat a délutáni leghidegebb órákra időzítse."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 17:00.",
+              "Purtați încălțăminte stabilă, deoarece praful vulcanic poate deveni alunecos.",
+              "Găsiți băuturi calde în cafenelele din jurul Place de Jaude.",
+              "Planificați vizitele la muzee pentru cele mai reci ore ale după-amiezii."
+            ],
+            "en": [
+              "The sun sets as early as 17:00 in December.",
+              "Wear sturdy shoes, as volcanic dust on pavements can get slippery.",
+              "Warm drinks are available in the cafes around Place de Jaude.",
+              "Schedule museum visits for the coldest hours of the afternoon."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -652,6 +1114,425 @@
           "Take a lock with you to park the bike safely.",
           "Wear a helmet, especially on main roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Clermont-Ferrand und sein industrielles Erbe mit dem Rad. Vom Place de Jaude radeln Sie zum Vieux Montferrand, einer mittelalterlichen Planstadt. Das Michelin-Museum zeigt die faszinierende Entwicklung des Reifenherstellers. Nach einer entspannten Fahrt durch den Parc de la Frange Verte kehren Sie zur Kathedrale ins Stadtzentrum zurück, wobei Sie die modernen Radwege der Stadt nutzen.",
+            "hu": "Fedezze fel Clermont-Ferrand-t és ipari örökségét kerékpárral. A Place de Jaude-ról tekerjen el a Vieux Montferrand-ba, amely egy középkori tervezett város. A Michelin-múzeum bemutatja a gumiabroncs-gyártó lenyűgöző fejlődését. A Parc de la Frange Verte-en keresztül tett pihentető biciklizés után térjen vissza a katedrálishoz, kihasználva a város modern kerékpárútjait.",
+            "ro": "Descoperiți Clermont-Ferrand și moștenirea sa industrială cu bicicleta. Din Place de Jaude, pedalați spre Vieux Montferrand, un oraș medieval planificat. Muzeul Michelin prezintă evoluția fascinantă a producătorului de anvelope. După o plimbare relaxantă prin Parc de la Frange Verte, reveniți la catedrală în centrul orașului, folosind pistele moderne de biciclete.",
+            "en": "Discover Clermont-Ferrand and its industrial heritage by bike. From Place de Jaude, cycle to Vieux Montferrand, a medieval planned city. The Michelin museum shows the fascinating development of the tire manufacturer. After a relaxing ride through Parc de la Frange Verte, return to the cathedral in the city center using the city's modern bike paths."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_5lang": {
+                "de": "Startpunkt mit C-Vélo Leihstation.",
+                "hu": "Kiindulópont C-Vélo bérlőállomással.",
+                "ro": "Punct de plecare cu stație de închiriere C-Vélo.",
+                "en": "Starting point with C-Vélo bike rental station."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_5lang": {
+                "de": "Mittelalterliches Viertel mit prächtigen Renaissance-Häusern.",
+                "hu": "Középkori negyed pompás reneszánsz házakkal.",
+                "ro": "Cartier medieval cu case renascentiste magnifice.",
+                "en": "Medieval district with magnificent Renaissance houses."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_5lang": {
+                "de": "Erfahren Sie alles über die Geschichte von Michelin.",
+                "hu": "Ismerje meg a Michelin márka teljes történetét.",
+                "ro": "Aflați totul despre istoria mărcii Michelin.",
+                "en": "Learn everything about the history of the Michelin brand."
+              }
+            },
+            {
+              "name": "Parc de la Frange Verte",
+              "tip_5lang": {
+                "de": "Grüne Oase am Stadtrand für eine Radpause.",
+                "hu": "Zöld oázis a város szélén egy kerékpáros pihenőhöz.",
+                "ro": "Oază de verdeață la marginea orașului pentru o pauză.",
+                "en": "Green oasis on the outskirts for a cycling break."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_5lang": {
+                "de": "Abschluss im historischen Zentrum.",
+                "hu": "Befejezés a történelmi központban.",
+                "ro": "Final în centrul istoric.",
+                "en": "Finish in the historical center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Auvergne Pastete",
+                "tip": "Perfekt für ein Picknick im Park."
+              },
+              {
+                "name": "L'Avenue",
+                "tip": "Fahrradfreundliches Café in der Nähe von Michelin."
+              },
+              {
+                "name": "Gaufres à la Gentiane",
+                "tip": "Waffeln mit regionalem Enzian-Likör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Auvergne pástétom",
+                "tip": "Tökéletes választás egy parki piknikhez."
+              },
+              {
+                "name": "L'Avenue",
+                "tip": "Kerékpáros-barát kávézó a Michelin közelében."
+              },
+              {
+                "name": "Enciános ostya",
+                "tip": "Gofri helyi enciánlikőrrel ízesítve."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pate de Auvergne",
+                "tip": "Perfect pentru un picnic în parc."
+              },
+              {
+                "name": "L'Avenue",
+                "tip": "Cafenea prietenoasă cu bicicliștii lângă Michelin."
+              },
+              {
+                "name": "Gaufres cu gențiană",
+                "tip": "Vafe cu lichior local de gențiană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Auvergne Pate",
+                "tip": "Perfect for a picnic in the park."
+              },
+              {
+                "name": "L'Avenue",
+                "tip": "Bike-friendly cafe near Michelin."
+              },
+              {
+                "name": "Gentian Waffles",
+                "tip": "Waffles flavored with regional gentian liqueur."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Tiretaine",
+                "tip": "Ruhiger Radweg entlang des Baches.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Jeune Résistance",
+                "tip": "Kleiner Park im Viertel Montferrand.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Parc de Montjuzet",
+                "tip": "Hügeliger Park mit Stadtblick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tiretaine partja",
+                "tip": "Csendes kerékpárút a patak mentén.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Jeune Résistance",
+                "tip": "Kis park Montferrand negyedében.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Parc de Montjuzet",
+                "tip": "Domboldali park városi kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malurile râului Tiretaine",
+                "tip": "Pistă de biciclete liniștită de-a lungul pârâului.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Jeune Résistance",
+                "tip": "Mic parc în cartierul Montferrand.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Parc de Montjuzet",
+                "tip": "Parc pe deal cu vedere spre oraș.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of the Tiretaine",
+                "tip": "Quiet bike path along the stream.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square de la Jeune Résistance",
+                "tip": "Small park in the Montferrand district.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Parc de Montjuzet",
+                "tip": "Hilly park with city views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "C-Vélo Station",
+                "tip": "Mieten Sie ein E-Bike für Steigungen."
+              },
+              {
+                "name": "Velo-City Shop",
+                "tip": "Alles für den Radfahrer im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "C-Vélo állomás",
+                "tip": "Béreljen e-bike-ot az emelkedőkhöz."
+              },
+              {
+                "name": "Velo-City Shop",
+                "tip": "Minden, ami a kerékpározáshoz kell."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stație C-Vélo",
+                "tip": "Închiriați o bicicletă electrică pentru pante."
+              },
+              {
+                "name": "Velo-City Shop",
+                "tip": "Totul pentru bicicliști în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "C-Vélo Station",
+                "tip": "Rent an e-bike for the slopes."
+              },
+              {
+                "name": "Velo-City Shop",
+                "tip": "Everything for cyclists in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie das C-Vélo System für einfache Kurzzeitmieten.",
+              "Einige Straßen in der Altstadt sind sehr steil.",
+              "Die Strecke nach Montferrand ist flach und gut ausgebaut.",
+              "Nehmen Sie ein Schloss mit, um das Rad sicher abzustellen.",
+              "Tragen Sie einen Helm, besonders auf den Hauptstraßen."
+            ],
+            "hu": [
+              "Használja a C-Vélo rendszert az egyszerű rövid távú bérléshez.",
+              "Az óváros néhány utcája nagyon meredek.",
+              "A Montferrand felé vezető út sík és jól kiépített.",
+              "Vigyen magával lakatot a kerékpár biztonságos leállításához.",
+              "Viseljen sisakot, különösen a főutakon."
+            ],
+            "ro": [
+              "Utilizați sistemul C-Vélo pentru închirieri ușoare pe termen scurt.",
+              "Unele străzi din centrul vechi sunt foarte abrupte.",
+              "Traseul spre Montferrand este plat și bine amenajat.",
+              "Luați un lacăt pentru a parca bicicleta în siguranță.",
+              "Purtați cască, în special pe străzile principale."
+            ],
+            "en": [
+              "Use the C-Vélo system for easy short-term rentals.",
+              "Some streets in the old town are very steep.",
+              "The route to Montferrand is flat and well-developed.",
+              "Take a lock with you to park the bike safely.",
+              "Wear a helmet, especially on main roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start im Regen auf der Place de Jaude. Wir radeln vorsichtig durch das mittelalterliche Montferrand und suchen Schutz in der Michelin-Erlebniswelt. Die Parks sind ruhig und grün, während die Wassertropfen auf den Blättern tanzen. Den Tag beschließen wir bei der Kathedrale, während die Stadtlichter im nassen Asphalt reflektieren.",
+            "hu": "Frissítő indulás esőben a Place de Jaude-on. Óvatosan tekerünk át a középkori Montferrand-on, majd a Michelin-kiállításon keresünk menedéket. A parkok csendesek és zöldellnek, miközben az esőcseppek táncolnak a leveleken. A napot a katedrálisnál zárjuk, ahogy a város fényei tükröződnek a vizes aszfalton.",
+            "ro": "Un start revigorant în ploaie în Place de Jaude. Pedalăm cu atenție prin Montferrand-ul medieval și căutăm adăpost la L'Aventure Michelin. Parcurile sunt liniștite și verzi în timp ce picăturile de apă dansează pe frunze. Încheiem ziua la catedrală, cu luminile orașului reflectate în asfaltul ud.",
+            "en": "A refreshing start in the rain at Place de Jaude. We cycle carefully through medieval Montferrand and seek shelter at L'Aventure Michelin. The parks are quiet and lush while raindrops dance on the leaves. We end the day at the cathedral, with city lights reflecting in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Achtung beim Überqueren der nassen Straßenbahnschienen.",
+                "hu": "Vigyázzon a vizes villamossíneken való átkeléskor.",
+                "ro": "Atenție la traversarea șinelor de tramvai ude.",
+                "en": "Be careful when crossing wet tram tracks."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_4lang": {
+                "de": "Das Kopfsteinpflaster kann bei Regen extrem rutschig sein.",
+                "hu": "A macskaköves burkolat esőben rendkívül csúszós lehet.",
+                "ro": "Pavajul de piatră cubică poate fi extrem de alunecos pe ploaie.",
+                "en": "The cobblestones can be extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_4lang": {
+                "de": "Überdachte Fahrradständer sind hier vorhanden.",
+                "hu": "Itt fedett kerékpártárolók állnak rendelkezésre.",
+                "ro": "Sunt disponibile rastele de biciclete acoperite.",
+                "en": "Covered bike racks are available here."
+              }
+            },
+            {
+              "name": "Parc de la Frange Verte",
+              "tip_4lang": {
+                "de": "Die Wege können matschig sein, bleiben Sie auf befestigten Pfaden.",
+                "hu": "Az utak sárosak lehetnek, maradjon a kiépített ösvényeken.",
+                "ro": "Drumurile pot fi noroioase, rămâneți pe potecile amenajate.",
+                "en": "Paths can be muddy; stay on the paved trails."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die Stille im Trockenen.",
+                "hu": "Parkolja le a bringát és élvezze a csendet a szárazban.",
+                "ro": "Parcați bicicleta și bucurați-vă de liniște la adăpost.",
+                "en": "Park your bike and enjoy the silence in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die C.vélo Leihräder mit Schutzblechen gegen Spritzwasser.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den Lavastein-Gehwegen.",
+              "Tragen Sie eine wasserfeste Regenjacke und ggf. Regenhose.",
+              "Die Michelin-Erlebniswelt ist der ideale Stopp für eine längere Regenpause."
+            ],
+            "hu": [
+              "Használja a sárvédővel felszerelt C.vélo bérbringákat.",
+              "Kerülje a hirtelen fékezést a lávaköves burkolatokon.",
+              "Viseljen vízálló esőkabátot és szükség esetén esőnadrágot.",
+              "A Michelin-kiállítás ideális megálló egy hosszabb esőszünethez."
+            ],
+            "ro": [
+              "Folosiți bicicletele de închiriat C.vélo cu aripi împotriva stropirii.",
+              "Evitați frânările bruște pe pavajele din piatră de lavă.",
+              "Purtați o jachetă de ploaie impermeabilă și pantaloni de ploaie.",
+              "L'Aventure Michelin este oprirea ideală pentru o pauză lungă de ploaie."
+            ],
+            "en": [
+              "Use C.vélo rental bikes equipped with mudguards to avoid splashes.",
+              "Avoid sudden braking on lava stone pavements.",
+              "Wear a waterproof rain jacket and rain pants if necessary.",
+              "L'Aventure Michelin is the ideal stop for a longer rain break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klirrend kalter Morgen auf dem Rad an der Place de Jaude. Die Fahrt durch Montferrand erfordert warme Handschuhe, doch die klare Winterluft belebt. Nach einem informativen Stopp bei Michelin radeln wir durch den frostigen Park. Zum Abschluss wärmt uns der Anblick der Kathedrale im goldenen Licht der frühen Abendsonne.",
+            "hu": "Dermesztő reggel a kerékpáron a Place de Jaude-nál. A montferrand-i tekeréshez meleg kesztyű kell, de a tiszta téli levegő élénkít. A Michelin-kiállítás után a dérlepte parkon át gurulunk. Végezetül a katedrális látványa melenget meg minket a kora esti nap aranyló fényében.",
+            "ro": "O dimineață geroasă pe bicicletă în Place de Jaude. Călătoria prin Montferrand necesită mănuși groase, dar aerul curat de iarnă revigorează. După o oprire la Michelin, pedalăm prin parcul înghețat. La final, vederea catedralei în lumina aurie a serii ne încălzește.",
+            "en": "A biting cold morning on the bike at Place de Jaude. Cycling through Montferrand requires warm gloves, but the crisp winter air is invigorating. After an informative stop at Michelin, we cycle through the frosty park. To finish, the sight of the cathedral in the golden light of the early evening sun warms us."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Achten Sie auf mögliche Eisstellen im Schatten der Gebäude.",
+                "hu": "Ügyeljen az esetleges jeges foltokra az épületek árnyékában.",
+                "ro": "Atenție la posibilele porțiuni cu gheață la umbra clădirilor.",
+                "en": "Watch out for possible icy spots in the shadows of buildings."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_4lang": {
+                "de": "Die engen Gassen schützen etwas vor dem kalten Wind.",
+                "hu": "A szűk utcák némileg védenek a hideg szél ellen.",
+                "ro": "Străzile înguste oferă o oarecare protecție împotriva vântului rece.",
+                "en": "The narrow streets offer some protection from the cold wind."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat, hogy rövid időre letegye a nehéz téli ruhát.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă pe durata vizitei.",
+                "en": "Use the cloakroom to store heavy winter clothes during your visit."
+              }
+            },
+            {
+              "name": "Parc de la Frange Verte",
+              "tip_4lang": {
+                "de": "Bei Frost können die Wege sehr hart und rutschig sein.",
+                "hu": "Fagyban az utak nagyon kemények és csúszósak lehetnek.",
+                "ro": "Pe timp de îngheț, drumurile pot fi foarte dure și alunecoase.",
+                "en": "In frosty weather, the paths can be very hard and slippery."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_4lang": {
+                "de": "Das Innere bietet einen Moment der Stille und Wärme.",
+                "hu": "A belső tér egy pillanatnyi csendet és meleget nyújt.",
+                "ro": "Interiorul oferă un moment de liniște și căldură.",
+                "en": "The interior offers a moment of silence and warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze unter dem Helm sind im Winter Pflicht.",
+              "Die Sonne verschwindet früh hinter den Vulkanen, Licht am Rad prüfen.",
+              "Vermeiden Sie Fahrten bei extremem Glatteis auf den Lavaplatten.",
+              "Ein heißer Tee in Montferrand hilft gegen die Kälte während der Tour."
+            ],
+            "hu": [
+              "Télen kötelező a meleg kesztyű és a sisak alatti sapka.",
+              "A nap korán eltűnik a vulkánok mögött, ellenőrizze a lámpákat.",
+              "Kerülje a bringázást a lávalapokon lévő extrém jegesedés esetén.",
+              "Egy forró tea Montferrand-ban segít a hideg ellen a túra alatt."
+            ],
+            "ro": [
+              "Mănușile groase și o căciulă sub cască sunt obligatorii iarna.",
+              "Soarele dispare devreme în spatele vulcanilor, verificați luminile.",
+              "Evitați deplasarea pe bicicletă în caz de polei pe plăcile de lavă.",
+              "Un ceai fierbinte în Montferrand ajută împotriva frigului în timpul turului."
+            ],
+            "en": [
+              "Warm gloves and a hat under the helmet are mandatory in winter.",
+              "The sun disappears early behind the volcanoes; check your bike lights.",
+              "Avoid cycling during extreme ice on the lava slabs.",
+              "A hot tea in Montferrand helps fight the cold during the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -958,6 +1839,425 @@
           "Take a jacket for the summit, even in summer.",
           "Fill up your tank before heading into the more rural volcanic areas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die spektakulärsten Vulkane der Auvergne. Nach einem kurzen Stopp im Stadtzentrum führt die Fahrt zum Puy de Dôme, von wo aus Sie ein 360-Grad-Panorama genießen. Vulcania bietet interaktive Erlebnisse rund um die Geologie. Den Tag lassen Sie auf dem Plateau von Gergovie ausklingen, dem historischen Schauplatz von Vercingetorix' Sieg über die Römer.",
+            "hu": "Autóval elérheti Auvergne leglátványosabb vulkánjait. Rövid belvárosi megálló után az út a Puy de Dôme-hoz vezet, ahonnan 360 fokos panoráma nyílik. A Vulcania interaktív élményeket kínál a geológia világából. A napot a Gergovie-fennsíkon zárja, amely Vercingetorix rómaiak feletti győzelmének történelmi helyszíne.",
+            "ro": "Cu mașina puteți ajunge la cei mai spectaculoși vulcani din Auvergne. După o scurtă oprire în centrul orașului, drumul duce spre Puy de Dôme, de unde vă bucurați de o panoramă de 360 de grade. Vulcania oferă experiențe interactive despre geologie. Încheiați ziua pe platoul Gergovie, locul istoric al victoriei lui Vercingetorix asupra romanilor.",
+            "en": "By car, you can reach the most spectacular volcanoes of Auvergne. After a short stop in the city center, the drive leads to Puy de Dôme, offering a 360-degree panorama. Vulcania provides interactive experiences centered on geology. End the day at the Gergovie Plateau, the historic site of Vercingetorix's victory over the Romans."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_5lang": {
+                "de": "Tiefgarage direkt unter dem Platz nutzen.",
+                "hu": "Használja a tér alatti mélygarázst.",
+                "ro": "Folosiți parcarea subterană direct sub piață.",
+                "en": "Use the underground parking directly under the square."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta der Kathedrale.",
+                "hu": "Látogasson el a katedrális kriptájába.",
+                "ro": "Vizitați cripta catedralei.",
+                "en": "Visit the cathedral crypt."
+              }
+            },
+            {
+              "name": "Puy de Dôme",
+              "tip_5lang": {
+                "de": "Fahrt mit der Zahnradbahn Panoramique des Dômes.",
+                "hu": "Utazás a Panoramique des Dômes fogaskerekű vasúttal.",
+                "ro": "Călătorie cu trenul cu cremalieră Panoramique des Dômes.",
+                "en": "Ride the Panoramique des Dômes rack railway."
+              }
+            },
+            {
+              "name": "Vulcania",
+              "tip_5lang": {
+                "de": "Themenpark über Vulkane und die Erde.",
+                "hu": "Vulkánokról és a Földről szóló témapark.",
+                "ro": "Parc tematic despre vulcani și pământ.",
+                "en": "Theme park about volcanoes and the Earth."
+              }
+            },
+            {
+              "name": "Gergovie Plateau",
+              "tip_5lang": {
+                "de": "Ort der berühmten Schlacht gegen Cäsar.",
+                "hu": "A Cézár elleni híres csata helyszíne.",
+                "ro": "Locul faimoasei bătălii împotriva lui Cezar.",
+                "en": "Site of the famous battle against Caesar."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Auberge de la Moreno",
+                "tip": "Rustikale Küche am Bergpass."
+              },
+              {
+                "name": "Le 1013",
+                "tip": "Panorama-Restaurant auf dem Puy de Dôme."
+              },
+              {
+                "name": "L'Archipel",
+                "tip": "Gourmet-Essen im Vulcania-Park."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Auberge de la Moreno",
+                "tip": "Rusztikus konyha a hágónál."
+              },
+              {
+                "name": "Le 1013",
+                "tip": "Panorámás étterem a Puy de Dôme tetején."
+              },
+              {
+                "name": "L'Archipel",
+                "tip": "Gourmet étkezés a Vulcania parkban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Auberge de la Moreno",
+                "tip": "Bucătărie rustică în trecătoare."
+              },
+              {
+                "name": "Le 1013",
+                "tip": "Restaurant panoramic pe Puy de Dôme."
+              },
+              {
+                "name": "L'Archipel",
+                "tip": "Masă gourmet în parcul Vulcania."
+              }
+            ],
+            "en": [
+              {
+                "name": "Auberge de la Moreno",
+                "tip": "Rustic cuisine at the mountain pass."
+              },
+              {
+                "name": "Le 1013",
+                "tip": "Panoramic restaurant atop Puy de Dôme."
+              },
+              {
+                "name": "L'Archipel",
+                "tip": "Gourmet dining within Vulcania park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plateau de Gergovie",
+                "tip": "Weite Flächen und Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lac d'Aydat",
+                "tip": "Vulkanischer See zum Entspannen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Chemin des Muletiers",
+                "tip": "Wanderweg zum Puy de Dôme.",
+                "emoji": "🥾"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gergovie-fennsík",
+                "tip": "Tágas terek és naplemente.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lac d'Aydat",
+                "tip": "Vulkanikus tó a pihenéshez.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Chemin des Muletiers",
+                "tip": "Gyalogút a Puy de Dôme-hoz.",
+                "emoji": "🥾"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platoul Gergovie",
+                "tip": "Spații vaste și apus de soare.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lac d'Aydat",
+                "tip": "Lac vulcanic pentru relaxare.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Chemin des Muletiers",
+                "tip": "Cale de drumeție spre Puy de Dôme.",
+                "emoji": "🥾"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gergovie Plateau",
+                "tip": "Wide open spaces and sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lac d'Aydat",
+                "tip": "Volcanic lake for relaxing.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Chemin des Muletiers",
+                "tip": "Hiking path to Puy de Dôme.",
+                "emoji": "🥾"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Jaude Shopping Center",
+                "tip": "Große Auswahl an Marken."
+              },
+              {
+                "name": "La Boutique du Volcan",
+                "tip": "Vulkansteinschmuck und Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jaude bevásárlóközpont",
+                "tip": "Márkák széles választéka."
+              },
+              {
+                "name": "La Boutique du Volcan",
+                "tip": "Lávakő ékszerek és szuvenírek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Jaude",
+                "tip": "Gamă largă de mărci."
+              },
+              {
+                "name": "La Boutique du Volcan",
+                "tip": "Bijuterii din piatră de lavă și suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Jaude Shopping Centre",
+                "tip": "Wide selection of brands."
+              },
+              {
+                "name": "La Boutique du Volcan",
+                "tip": "Lava stone jewelry and souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie das Ticket für die Zahnradbahn im Voraus online.",
+              "Die Straßen in der Chaîne des Puys sind kurvig, fahren Sie vorsichtig.",
+              "Parken Sie im Stadtzentrum bevorzugt in Parkhäusern.",
+              "Nehmen Sie auch im Sommer eine Jacke für den Gipfel mit.",
+              "Tanken Sie voll, bevor Sie in die ländlicheren Vulkangebiete fahren."
+            ],
+            "hu": [
+              "Foglalja le előre online a fogaskerekű vasút jegyét.",
+              "A Chaîne des Puys útjai kanyargósak, vezessen óvatosan.",
+              "A belvárosban lehetőleg parkolóházakban parkoljon.",
+              "Vigyen magával kabátot a csúcsra még nyáron is.",
+              "Tankoljon tele, mielőtt a távolabbi vulkáni területekre indul."
+            ],
+            "ro": [
+              "Rezervați online în avans biletul pentru trenul cu cremalieră.",
+              "Drumurile din Chaîne des Puys sunt sinuoase, conduceți cu atenție.",
+              "În centrul orașului, parcați de preferință în parcări etajate.",
+              "Luați o jachetă pentru vârf chiar și în timpul verii.",
+              "Alimentați complet înainte de a pleca spre zonele vulcanice rurale."
+            ],
+            "en": [
+              "Book your rack railway ticket online in advance.",
+              "The roads in the Chaîne des Puys are winding, drive carefully.",
+              "Prefer multi-storey car parks when parking in the city center.",
+              "Take a jacket for the summit, even in summer.",
+              "Fill up your tank before heading into the more rural volcanic areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das Stadtzentrum im Regen, bevor wir zum wolkenverhangenen Puy de Dôme aufbrechen. Mittags genießen wir die mystische Aussicht aus dem Zugfenster. Der Nachmittag bei Vulcania ist perfekt für regnerisches Wetter, da vieles unterirdisch stattfindet. Den Abend lassen wir auf dem Plateau von Gergovie ausklingen, während der Nebel über das Land zieht.",
+            "hu": "Reggel esőben fedezzük fel a városközpontot, mielőtt a felhőkbe burkolózott Puy de Dôme felé indulunk. Délben a vonatablakból élvezzük a misztikus kilátást. A délután a Vulcania-ban tökéletes, mivel a legtöbb rész fedett vagy föld alatti. Az estét a Gergovie-fennsíkon zárjuk, ahogy a köd átvonul a tájon.",
+            "ro": "Dimineața explorăm centrul orașului pe ploaie, înainte de a pleca spre Puy de Dôme acoperit de nori. La prânz admirăm vederea mistică de la fereastra trenului. După-amiaza la Vulcania este perfectă pentru ploaie, deoarece multe atracții sunt subterane. Încheiem seara pe platoul Gergovie, în timp ce ceața trece peste câmpii.",
+            "en": "In the morning, we explore the city center in the rain before heading to the cloud-shrouded Puy de Dôme. At noon, we enjoy the mystical view from the train window. The afternoon at Vulcania is perfect for rainy weather, as much of it is underground. We end the evening on the Gergovie Plateau while fog drifts across the land."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Parken Sie im unterirdischen Parkhaus, um trocken ins Zentrum zu kommen.",
+                "hu": "Parkoljon a föld alatti garázsban, hogy szárazon jusson a központba.",
+                "ro": "Parcați în parcarea subterană pentru a ajunge uscat în centru.",
+                "en": "Park in the underground garage to reach the center dry."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_4lang": {
+                "de": "Das dunkle Gestein wirkt im Regen besonders geheimnisvoll.",
+                "hu": "A sötét kőzet esőben különösen titokzatosnak tűnik.",
+                "ro": "Piatra întunecată pare deosebit de misterioasă sub ploaie.",
+                "en": "The dark stone looks especially mysterious in the rain."
+              }
+            },
+            {
+              "name": "Puy de Dôme",
+              "tip_4lang": {
+                "de": "Die Zahnradbahn bietet Schutz vor Wind und Regen auf dem Weg nach oben.",
+                "hu": "A fogaskerekű vasút védelmet nyújt a szél és eső ellen felfelé menet.",
+                "ro": "Trenul cu cremalieră oferă protecție împotriva vântului și ploii.",
+                "en": "The rack railway provides shelter from wind and rain on the way up."
+              }
+            },
+            {
+              "name": "Vulcania",
+              "tip_4lang": {
+                "de": "Ideal bei Regen, da die meisten Attraktionen überdacht sind.",
+                "hu": "Ideális esőben, mivel a legtöbb látnivaló fedett helyen van.",
+                "ro": "Ideal pe ploaie, deoarece majoritatea atracțiilor sunt acoperite.",
+                "en": "Ideal in the rain as most attractions are covered."
+              }
+            },
+            {
+              "name": "Gergovie Plateau",
+              "tip_4lang": {
+                "de": "Vorsicht bei Nebel, die Sicht kann oben sehr eingeschränkt sein.",
+                "hu": "Vigyázzon ködben, a látótávolság fent nagyon korlátozott lehet.",
+                "ro": "Atenție la ceață, vizibilitatea poate fi foarte redusă sus.",
+                "en": "Be careful in fog; visibility can be very limited at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen in den Bergen können bei starkem Regen rutschig sein.",
+              "Prüfen Sie vorab die Webcam des Puy de Dôme, ob sich die Auffahrt lohnt.",
+              "Vulcania ist der beste Rückzugsort bei anhaltenden Schauern.",
+              "Unterirdische Parkhäuser in der Innenstadt sparen Zeit und Nerven."
+            ],
+            "hu": [
+              "A hegyi utak heves esőzéskor csúszósak lehetnek.",
+              "Indulás előtt ellenőrizze a Puy de Dôme webkameráját a látási viszonyok miatt.",
+              "A Vulcania a legjobb menedék tartós esőzés esetén.",
+              "A belvárosi föld alatti parkolók időt és bosszúságot spórolnak."
+            ],
+            "ro": [
+              "Drumurile montane pot fi alunecoase în caz de ploaie abundentă.",
+              "Verificați camera web de pe Puy de Dôme înainte de a pleca.",
+              "Vulcania este cel mai bun refugiu în caz de ploaie persistentă.",
+              "Parcările subterane din centrul orașului economisesc timp și stres."
+            ],
+            "en": [
+              "Mountain roads can be slippery during heavy rain.",
+              "Check the Puy de Dôme webcam beforehand to see if the ascent is worth it.",
+              "Vulcania is the best sanctuary during persistent showers.",
+              "Underground parking in the city center saves time and hassle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir in der frostigen Stadt und fahren zum tief verschneiten Puy de Dôme. Die Auffahrt mit der Zahnradbahn ist ein wahres Wintermärchen. Mittags wärmen wir uns in den interaktiven Ausstellungen von Vulcania auf. Der späte Nachmittag auf Gergovie bietet einen klaren Blick auf das frostige Umland, bevor wir die Heimreise antreten.",
+            "hu": "Reggel a deres városban kezdünk, majd a mély hóval borított Puy de Dôme felé vesszük az irányt. A fogaskerekűvel való feljutás igazi téli mese. Délben a Vulcania interaktív kiállításain melegszünk fel. Késő délután Gergovie-ról tiszta kilátás nyílik a fagyos környékre, mielőtt hazaindulnánk.",
+            "ro": "Dimineața începem în orașul înghețat și plecăm spre Puy de Dôme acoperit de zăpadă. Urcarea cu trenul este o adevărată poveste de iarnă. La prânz ne încălzim la expozițiile interactive din Vulcania. După-amiaza târziu pe Gergovie oferă o vedere clară asupra împrejurimilor înghețate.",
+            "en": "In the morning, we start in the frosty city and drive to the deep snow-covered Puy de Dôme. The ascent with the rack railway is a true winter fairytale. At noon, we warm up at Vulcania's interactive exhibitions. Late afternoon at Gergovie offers a clear view of the frozen surroundings before we head back."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Das Auto in der Garage zu lassen, schützt vor dem Scheibenkratzen.",
+                "hu": "Az autó garázsban hagyása megvédi Önt a jégkaparástól.",
+                "ro": "Lăsarea mașinii în garaj vă scutește de curățarea gheții de pe parbriz.",
+                "en": "Leaving the car in the garage saves you from scraping ice off the windshield."
+              }
+            },
+            {
+              "name": "Cathédrale de Clermont",
+              "tip_4lang": {
+                "de": "Die schwarzen Türme kontrastieren herrlich mit dem weißen Schnee.",
+                "hu": "A fekete tornyok gyönyörű kontrasztot alkotnak a fehér hóval.",
+                "ro": "Turnurile negre contrastează superb cu zăpada albă.",
+                "en": "The black towers contrast beautifully with the white snow."
+              }
+            },
+            {
+              "name": "Puy de Dôme",
+              "tip_4lang": {
+                "de": "Oben liegt oft deutlich mehr Schnee, warme Winterstiefel sind nötig.",
+                "hu": "Fent gyakran sokkal több a hó, meleg hótaposó szükséges.",
+                "ro": "Sus este adesea mult mai multă zăpadă, sunt necesare ghete călduroase.",
+                "en": "There is often significantly more snow at the top; warm winter boots are needed."
+              }
+            },
+            {
+              "name": "Vulcania",
+              "tip_4lang": {
+                "de": "Im Winter sind die Innenbereiche angenehm beheizt.",
+                "hu": "Télen a belső terek kellemesen fűtöttek.",
+                "ro": "Iarna, spațiile interioare sunt încălzite plăcut.",
+                "en": "In winter, the indoor areas are pleasantly heated."
+              }
+            },
+            {
+              "name": "Gergovie Plateau",
+              "tip_4lang": {
+                "de": "Der Wind auf dem Plateau kann im Winter sehr eisig sein.",
+                "hu": "A fennsíkon a szél télen nagyon jeges lehet.",
+                "ro": "Vântul pe platou poate fi foarte tăios pe timp de iarnă.",
+                "en": "The wind on the plateau can be very icy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Fahrt in die Vulkankette zwingend erforderlich.",
+              "Achten Sie auf Straßensperrungen bei extremem Schneefall.",
+              "Die Zahnradbahn zum Puy de Dôme fährt auch im Winter (Fahrplan prüfen).",
+              "Gergovie ist bei Sonnenuntergang im Winter besonders windig."
+            ],
+            "hu": [
+              "A vulkánok közé való autózáshoz téli gumi kötelező.",
+              "Ügyeljen az útlezárásokra extrém hóesés esetén.",
+              "A fogaskerekű télen is jár a Puy de Dôme-ra (ellenőrizze a menetrendet).",
+              "Gergovie naplementekor télen különösen szeles."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru deplasarea spre zona vulcanică.",
+              "Fiți atenți la închiderile de drumuri în caz de ninsori abundente.",
+              "Trenul spre Puy de Dôme circulă și iarna (verificați orarul).",
+              "Gergovie este deosebit de vântos la apus pe timp de iarnă."
+            ],
+            "en": [
+              "Winter tires are mandatory for driving into the volcanic range.",
+              "Watch out for road closures during extreme snowfall.",
+              "The rack railway to Puy de Dôme also runs in winter (check schedule).",
+              "Gergovie is particularly windy at sunset in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1264,34 +2564,426 @@
           "Validate your ticket upon boarding.",
           "Line A is one of the few rubber-tyred tramways in the world."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die moderne gummibereifte Straßenbahn von Clermont-Ferrand. Die Linie A verbindet die wichtigsten Punkte wie den Place de Jaude mit dem Michelin-Stadion und dem historischen Montferrand. Besuchen Sie das Michelin-Erlebniszentrum und beenden Sie den Tag im Roger-Quilliot-Kunstmuseum, das in einem wunderschön restaurierten Kloster untergebracht ist.",
+            "hu": "Használja Clermont-Ferrand modern, gumikerekű villamosát. Az A vonal összeköti a legfontosabb pontokat, mint a Place de Jaude-ot a Michelin stadionnal és a történelmi Montferrand-nal. Látogassa meg a Michelin élményközpontot, majd zárja a napot a Roger-Quilliot Művészeti Múzeumban, amely egy gyönyörűen felújított kolostorban kapott helyet.",
+            "ro": "Utilizați tramvaiul modern cu pneuri din Clermont-Ferrand. Linia A conectează cele mai importante puncte, precum Place de Jaude cu stadionul Michelin și cartierul istoric Montferrand. Vizitați centrul de experiență Michelin și încheiați ziua la Muzeul de Artă Roger-Quilliot, situat într-o fostă mănăstire restaurată superb.",
+            "en": "Use the modern rubber-tyred tramway of Clermont-Ferrand. Line A connects key points like Place de Jaude with the Michelin stadium and historic Montferrand. Visit the Michelin experience center and end the day at the Roger-Quilliot Art Museum, housed in a beautifully restored convent."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt der T2C Straßenbahn.",
+                "hu": "A T2C villamoshálózat központi csomópontja.",
+                "ro": "Nodul central al tramvaiului T2C.",
+                "en": "Central hub of the T2C tramway."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Tramstation Gaillard.",
+                "hu": "Csak pár perc séta a Gaillard villamosmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stația Gaillard.",
+                "en": "Just a few minutes' walk from the Gaillard tram station."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_5lang": {
+                "de": "Direkt an der Tramlinie A (Station Stade Marcel-Michelin).",
+                "hu": "Közvetlenül az A villamosvonalon (Stade Marcel-Michelin megálló).",
+                "ro": "Direct pe linia de tramvai A (stația Stade Marcel-Michelin).",
+                "en": "Directly on tram line A (Stade Marcel-Michelin station)."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_5lang": {
+                "de": "Station Musée d'Art Roger-Quilliot.",
+                "hu": "Musée d'Art Roger-Quilliot megálló.",
+                "ro": "Stația Musée d'Art Roger-Quilliot.",
+                "en": "Musée d'Art Roger-Quilliot station."
+              }
+            },
+            {
+              "name": "Musée d'Art Roger-Quilliot",
+              "tip_5lang": {
+                "de": "Kunstsammlungen in einem ehemaligen Kloster.",
+                "hu": "Művészeti gyűjtemények egy egykori kolostorban.",
+                "ro": "Colecții de artă într-o fostă mănăstire.",
+                "en": "Art collections housed in a former convent."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Puy de la Lune",
+                "tip": "Jazz-Restaurant mit lokaler Küche."
+              },
+              {
+                "name": "L'Imprimerie",
+                "tip": "Moderne Gastronomie in einem ehemaligen Druckhaus."
+              },
+              {
+                "name": "Boulangerie Moderne",
+                "tip": "Beste Croissants in der Nähe der Tramhaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Puy de la Lune",
+                "tip": "Jazz étterem helyi konyhával."
+              },
+              {
+                "name": "L'Imprimerie",
+                "tip": "Modern gasztronómia egy egykori nyomdában."
+              },
+              {
+                "name": "Boulangerie Moderne",
+                "tip": "A legjobb croissant-ok a villamosmegálló közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Puy de la Lune",
+                "tip": "Restaurant de jazz cu bucătărie locală."
+              },
+              {
+                "name": "L'Imprimerie",
+                "tip": "Gastronomie modernă într-o fostă tipografie."
+              },
+              {
+                "name": "Boulangerie Moderne",
+                "tip": "Cele mai bune cornuri lângă stația de tramvai."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Puy de la Lune",
+                "tip": "Jazz restaurant with local cuisine."
+              },
+              {
+                "name": "L'Imprimerie",
+                "tip": "Modern gastronomy in a former printing house."
+              },
+              {
+                "name": "Boulangerie Moderne",
+                "tip": "Best croissants near the tram stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten MARQ",
+                "tip": "Stilles Atrium im Kunstmuseum.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque du Patrimoine",
+                "tip": "Historische Bibliothek mit ruhiger Atmosphäre.",
+                "emoji": "📚"
+              },
+              {
+                "name": "Parc de la Gauthière",
+                "tip": "Grüner Rückzugsort entlang der Tramlinie.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "MARQ kolostorkert",
+                "tip": "Csendes átrium a művészeti múzeumban.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque du Patrimoine",
+                "tip": "Történelmi könyvtár csendes légkörrel.",
+                "emoji": "📚"
+              },
+              {
+                "name": "Parc de la Gauthière",
+                "tip": "Zöld menedék a villamosvonal mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina mănăstirii MARQ",
+                "tip": "Atrium liniștit în muzeul de artă.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque du Patrimoine",
+                "tip": "Bibliotecă istorică cu atmosferă liniștită.",
+                "emoji": "📚"
+              },
+              {
+                "name": "Parc de la Gauthière",
+                "tip": "Refugiu verde de-a lungul liniei de tramvai.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "MARQ Cloister Garden",
+                "tip": "Quiet atrium within the art museum.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque du Patrimoine",
+                "tip": "Historic library with a quiet atmosphere.",
+                "emoji": "📚"
+              },
+              {
+                "name": "Parc de la Gauthière",
+                "tip": "Green retreat along the tram line.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché Saint-Joseph",
+                "tip": "Lokaler Markt für frische Produkte."
+              },
+              {
+                "name": "Les Galeries de Jaude",
+                "tip": "Zentrales Kaufhaus an der Tramstation."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Saint-Joseph piac",
+                "tip": "Helyi piac friss termékekkel."
+              },
+              {
+                "name": "Les Galeries de Jaude",
+                "tip": "Központi áruház a villamosmegállónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Saint-Joseph",
+                "tip": "Piață locală pentru produse proaspete."
+              },
+              {
+                "name": "Les Galeries de Jaude",
+                "tip": "Magazin central lângă stația de tramvai."
+              }
+            ],
+            "en": [
+              {
+                "name": "Saint-Joseph Market",
+                "tip": "Local market for fresh products."
+              },
+              {
+                "name": "Les Galeries de Jaude",
+                "tip": "Central department store at the tram stop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für das T2C-Netz.",
+              "Die Straßenbahn fährt alle 6-10 Minuten.",
+              "Nutzen Sie die App MyBus Clermont für Fahrpläne in Echtzeit.",
+              "Entwerten Sie Ihr Ticket beim Einsteigen.",
+              "Die Linie A ist eine der wenigen Trambahnen mit Reifen weltweit."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a T2C hálózatra.",
+              "A villamos 6-10 percenként közlekedik.",
+              "Használja a MyBus Clermont alkalmazást a valós idejű menetrendhez.",
+              "Érvényesítse jegyét felszálláskor.",
+              "Az A vonal a világ kevés gumikerekű villamosának egyike."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru rețeaua T2C.",
+              "Tramvaiul circulă la fiecare 6-10 minute.",
+              "Utilizați aplicația MyBus Clermont pentru orare în timp real.",
+              "Validați biletul la urcare.",
+              "Linia A este unul dintre puținele tramvaie cu pneuri din lume."
+            ],
+            "en": [
+              "Purchase a day ticket for the T2C network.",
+              "The tram runs every 6-10 minutes.",
+              "Use the MyBus Clermont app for real-time schedules.",
+              "Validate your ticket upon boarding.",
+              "Line A is one of the few rubber-tyred tramways in the world."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die Tram A, um trocken zur Place de Jaude und zur Kathedrale zu kommen. Mittags entfliehen wir dem Regen in der Michelin-Erlebniswelt. Der Nachmittag gehört dem mittelalterlichen Montferrand und dem Kunstmuseum Roger-Quilliot, beides bequem per Bahn erreichbar. Abends kehren wir mit der Tram zurück, während die Lichter der Stadt im nassen Glas reflektieren.",
+            "hu": "Reggel az A villamost használjuk, hogy szárazon jussunk a Place de Jaude-hoz és a katedrálishoz. Délben a Michelin-kiállításon menekülünk meg az esőtől. A délután a középkori Montferrand-é és a Roger-Quilliot Művészeti Múzeumé, mindkettő kényelmesen elérhető vasúttal. Este villamossal térünk vissza, miközben a város fényei tükröződnek a vizes ablakokon.",
+            "ro": "Dimineața folosim tramvaiul A pentru a ajunge uscați în Place de Jaude și la catedrală. La prânz scăpăm de ploaie la L'Aventure Michelin. După-amiaza aparține Montferrand-ului medieval și Muzeului Roger-Quilliot, ambele accesibile ușor cu transportul public. Seara ne întoarcem cu tramvaiul, în timp ce luminile se reflectă în geamurile ude.",
+            "en": "In the morning, we use Tram A to get to Place de Jaude and the cathedral dry. At noon, we escape the rain at L'Aventure Michelin. The afternoon is dedicated to medieval Montferrand and the Roger-Quilliot Art Museum, both easily accessible by rail. In the evening, we return by tram while the city lights reflect in the wet glass."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Die Tramhaltestelle liegt direkt am Platz, ideal bei Regen.",
+                "hu": "A villamosmegálló közvetlenül a téren van, ideális esőben.",
+                "ro": "Stația de tramvai este direct în piață, ideal pe ploaie.",
+                "en": "The tram stop is right on the square, ideal in the rain."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der Tramstation Gaillard.",
+                "hu": "Csak egy rövid séta a Gaillard villamosmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de tramvai Gaillard.",
+                "en": "Just a short walk from the Gaillard tram station."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_4lang": {
+                "de": "Haltestelle 'Stade Marcel Michelin' bringt Sie direkt zum Eingang.",
+                "hu": "A 'Stade Marcel Michelin' megálló közvetlenül a bejárathoz visz.",
+                "ro": "Stația 'Stade Marcel Michelin' vă lasă direct la intrare.",
+                "en": "The 'Stade Marcel Michelin' stop takes you right to the entrance."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Bahnfahrt, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja a villamosutat, hogy kissé megszárítsa a ruháját.",
+                "ro": "Folosiți călătoria cu tramvaiul pentru a vă mai usca hainele.",
+                "en": "Use the tram ride to dry your clothes a bit."
+              }
+            },
+            {
+              "name": "Musée d'Art Roger-Quilliot",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um den späten Nachmittag im Trockenen zu verbringen.",
+                "hu": "Tökéletes hely a késő délután szárazon való eltöltéséhez.",
+                "ro": "Locul perfect pentru a petrece sfârșitul după-amiezii la adăpost.",
+                "en": "Perfect place to spend the late afternoon in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tram A ist das Rückgrat der Stadt und fährt alle paar Minuten.",
+              "Kaufen Sie ein Tagesticket, um beliebig oft ins Trockene zu flüchten.",
+              "An den Haltestellen gibt es meist digitale Anzeigen und Unterstände.",
+              "Die Museen sind hervorragende Ziele, wenn es draußen durchregnet."
+            ],
+            "hu": [
+              "Az A villamos a város gerince, pár percenként jár.",
+              "Vásároljon napijegyet, hogy bármikor fedél alá húzódhasson.",
+              "A megállókban általában digitális kijelzők és várók találhatók.",
+              "A múzeumok kiváló célpontok, ha kint vigasztalanul esik."
+            ],
+            "ro": [
+              "Tramvaiul A este coloana vertebrală a orașului și circulă la câteva minute.",
+              "Cumpărați un bilet de o zi pentru a vă putea adăposti oricând.",
+              "Stațiile au de obicei afișaje digitale și copertine.",
+              "Muzeele sunt destinații excelente când afară plouă continuu."
+            ],
+            "en": [
+              "Tram A is the backbone of the city and runs every few minutes.",
+              "Buy a day ticket to take shelter in the transit system whenever needed.",
+              "Stops usually have digital displays and shelters.",
+              "Museums are excellent destinations when it's raining outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens gleiten wir mit der Tram durch die frostige Stadt zur Place de Jaude. Mittags wärmen wir uns bei Michelin auf, bevor wir das winterliche Montferrand besuchen. Der späte Nachmittag im beheizten Kunstmuseum Roger-Quilliot ist ein Genuss. Abends bringen uns die hell erleuchteten Bahnen sicher und warm zurück durch die dunkle Winternacht.",
+            "hu": "Reggel villamossal suhanunk át a deres városon a Place de Jaude-ig. Délben a Michelin-nél melegszünk fel, mielőtt meglátogatnánk a téli Montferrand-t. A késő délután a fűtött Roger-Quilliot Művészeti Múzeumban igazi élvezet. Este a kivilágított járatok biztonságban és melegben visznek vissza a sötét téli éjszakán át.",
+            "ro": "Dimineața alunecăm cu tramvaiul prin orașul înghețat spre Place de Jaude. La prânz ne încălzim la Michelin înainte de a vizita Montferrand-ul hibernal. După-amiaza târziu în Muzeul Roger-Quilliot încălzit este o plăcere. Seara, tramvaiele luminate ne aduc înapoi în siguranță prin noaptea de iarnă.",
+            "en": "In the morning, we glide through the frosty city by tram to Place de Jaude. At noon, we warm up at Michelin before visiting wintry Montferrand. The late afternoon in the heated Roger-Quilliot Art Museum is a treat. In the evening, the brightly lit trams take us back safely and warmly through the dark winter night."
+          },
+          "stops": [
+            {
+              "name": "Place de Jaude",
+              "tip_4lang": {
+                "de": "Die Tram ist im Winter angenehm beheizt.",
+                "hu": "A villamos télen kellemesen fűtött.",
+                "ro": "Tramvaiul este încălzit plăcut pe timp de iarnă.",
+                "en": "The tram is pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Cathédrale Notre-Dame",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Kathedrale beim Aussteigen.",
+                "hu": "Élvezze a kivilágított katedrális látványát leszálláskor.",
+                "ro": "Bucurați-vă de vederea catedralei luminate la coborâre.",
+                "en": "Enjoy the view of the illuminated cathedral when getting off."
+              }
+            },
+            {
+              "name": "L'Aventure Michelin",
+              "tip_4lang": {
+                "de": "Ein kurzer Weg von der Haltestelle minimiert die Zeit in der Kälte.",
+                "hu": "A megállótól való rövid séta minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la stație minimizează timpul petrecut în frig.",
+                "en": "A short walk from the stop minimizes time spent in the cold."
+              }
+            },
+            {
+              "name": "Vieux Montferrand",
+              "tip_4lang": {
+                "de": "Die Bahnen fahren bis spät am Abend, auch wenn es früher dunkel wird.",
+                "hu": "A villamosok késő estig járnak, még ha hamarabb is sötétedik.",
+                "ro": "Tramvaiele circulă până târziu, chiar dacă se întunecă devreme.",
+                "en": "Trams run until late evening, even though it gets dark earlier."
+              }
+            },
+            {
+              "name": "Musée d'Art Roger-Quilliot",
+              "tip_4lang": {
+                "de": "Die Garderobe ist ideal für dicke Wintermäntel.",
+                "hu": "A ruhatár ideális a vastag télikabátok számára.",
+                "ro": "Garderoba este ideală pentru haina groasă de iarnă.",
+                "en": "The cloakroom is ideal for thick winter coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der T2C für Echtzeit-Infos bei winterlichen Verzögerungen.",
+              "Die Tramstationen sind oft etwas zugig, kleiden Sie sich im Schichtsystem.",
+              "In der Weihnachtszeit sind die Bahnen oft festlich dekoriert.",
+              "Die Bahnfahrt bietet eine tolle Aussicht auf die winterlich beleuchtete Stadt."
+            ],
+            "hu": [
+              "Használja a T2C alkalmazást a téli késésekről szóló valós idejű infókért.",
+              "A villamosmegállók gyakran huzatosak, öltözzön rétegesen.",
+              "A karácsonyi időszakban a járatok gyakran ünnepi díszbe öltöznek.",
+              "A villamosút remek kilátást nyújt a téliesen kivilágított városra."
+            ],
+            "ro": [
+              "Folosiți aplicația T2C pentru informații în timp real despre întârzieri.",
+              "Stațiile de tramvai pot fi curentate, îmbrăcați-vă în straturi.",
+              "În perioada Crăciunului, tramvaiele sunt adesea decorate festiv.",
+              "Călătoria cu tramvaiul oferă o vedere frumoasă asupra orașului luminat."
+            ],
+            "en": [
+              "Use the T2C app for real-time info on wintry delays.",
+              "Tram stations can be drafty; dress in layers.",
+              "During the Christmas season, trams are often festively decorated.",
+              "The tram ride offers a great view of the winter-lit city."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.clermontauvergnetourisme.com/",
-    "events": "https://www.clermontauvergnetourisme.com/agenda/",
-    "city_card": "https://www.clermontauvergnetourisme.com/city-pass/",
-    "museum_tickets": "",
-    "transit_official": "https://www.t2c.fr/",
-    "language_tips": {
-      "de": "Clermont-Ferrand spricht zentralfranzoesisch mit leichtem auvergnischen Beiklang, klar und gut verstaendlich. Englisch in Hotels und Michelin-Welt-Museum verbreitet, in Auberges am Puy de Dome eher schwach. 'Bonjour' und Geduld helfen immer.",
-      "hu": "Clermont-Ferrand kozep-franciat beszel enyhe auvergne-i felhanggal, tiszta es jol ertheto. Szallodakban es a Michelin-világ múzeumban van angol, a Puy de Dome menti vendegloben kevesbe. A 'bonjour' es a turelem mindig segit.",
-      "ro": "Clermont-Ferrand vorbeste franceza centrala cu accent usor de Auvergne, clara si usor de inteles. Engleza merge la hoteluri si la muzeul Michelin, mai putin in auberge-urile de la poalele Puy de Dome. 'Bonjour' si rabdarea ajuta intotdeauna.",
-      "en": "Clermont-Ferrand speaks central French with a light Auvergne tone — clear and easy to follow. English works in hotels and the Michelin museum, less in mountain auberges around Puy de Dome. 'Bonjour' and patience always help."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal fuer Vulkanwanderungen (15-25 Grad), Juli-August perfekt fuer Puy-de-Dome. Winter kalt (0-6 Grad), oft Schnee auf Vulkanen, Skigebiete in der Naehe. Herbst im Oktober mit goldenen Buchenwaeldern besonders fotogen.",
-      "hu": "Majus-szeptember vulkani turakhoz (15-25 fok), julius-augusztus a Puy-de-Dome-ra tokeletes. Tel hideg (0-6 fok), gyakran ho a vulkanokon, kozeli sipalyak. Oktoberi osz aranysarga bukkerdokkel kulonosen fotogen.",
-      "ro": "Mai-septembrie sunt ideale pentru drumetii pe vulcani (15-25 grade), iulie-august perfecte pentru Puy-de-Dome. Iarna e rece (0-6 grade), adesea cu zapada pe vulcani, statiuni de ski apropiate. Octombrie cu paduri de fag aurii e foto-genic.",
-      "en": "May-September are ideal for volcano hikes (15-25°C), July-August perfect for Puy-de-Dome. Winter is cold (0-6°C), often with snow on the volcanoes and nearby ski resorts. October's golden beech forests are particularly photogenic."
-    },
-    "neighborhood_warnings": {
-      "de": "Croix-de-Neyrat und Saint-Jacques im Norden abends meiden. Innenstadt, Place de Jaude und Kathedral-Viertel sicher. Bahnhof tagsueber lebhaft, nachts ruhig.",
-      "hu": "Croix-de-Neyrat es Saint-Jacques eszakon este nem ajanlott. A belvaros, Place de Jaude es a katedralis-negyed biztonsagos. Az allomas nappal eleven, ejjel csendes.",
-      "ro": "Croix-de-Neyrat si Saint-Jacques, in nord, sunt de evitat seara. Centrul, Place de Jaude si cartierul catedralei sunt sigure. Gara e animata ziua, linistita noaptea.",
-      "en": "Avoid Croix-de-Neyrat and Saint-Jacques in the north after dark. The centre, Place de Jaude and cathedral district are safe. The station is busy by day, calm at night."
-    },
-    "parking_real_time": ""
   }
 }

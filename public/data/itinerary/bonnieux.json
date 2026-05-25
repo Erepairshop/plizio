@@ -850,32 +850,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.destinationluberon.com/",
-    "events": "https://www.destinationluberon.com/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Bonnieux ist ein klassisches Luberon-Bergdorf, weniger internationalisiert als Gordes, mehr franzoesische Familien und ruhige britische Hauskaeufer. Englisch klappt in Restaurants, aber 'bonjour' und langsames Tempo werden hier besonders geschaetzt.",
-      "hu": "Bonnieux klasszikus luberoni hegyi falu, kevesbe nemzetkozi mint Gordes, tobb francia csaladdal es csendes brit haztulajdonosokkal. Az angol megy az ettermekben, de a 'bonjour' es a lassu tempo itt kulonosen ertekes.",
-      "ro": "Bonnieux e un sat clasic din Luberon, mai putin internationalizat decat Gordes, mai multe familii franceze si britanici discreti cu case. Engleza merge in restaurante, dar 'bonjour' si ritmul lent sunt apreciate aici in mod special.",
-      "en": "Bonnieux is a classic Luberon hill village — less internationalised than Gordes, more French families and quiet British home-owners. English works in restaurants, but 'bonjour' and a slow pace are especially appreciated here."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni fuer die Blüte und Lavendel ab Mitte Juni in den umliegenden Feldern. September-Oktober fuer Weinlese und Markt am Freitag. Im Juli-August warm (32-35 Grad), Mittagsruhe von 12 bis 16 Uhr, viele Restaurants nur abends offen.",
-      "hu": "Majus-junius a viragzasra, levendula junius kozepetol a kornyeko mezokon. Szeptember-oktober a szuret es penteki piacra. Julius-augusztus meleg (32-35 fok), del kozotti zarva 12-16 ora, sok etterem csak este nyit.",
-      "ro": "Mai-iunie pentru inflorit si lavanda din mijlocul lui iunie pe campurile din jur. Septembrie-octombrie pentru cules de struguri si piata de vineri. In iulie-august cald (32-35 grade), pauza de pranz 12-16, multe restaurante doar seara.",
-      "en": "May-June for blossoms and lavender from mid-June in the surrounding fields. September-October for the wine harvest and Friday market. In July-August it's hot (32-35°C), with a 12-4pm shutdown — many restaurants open only in the evening."
-    },
-    "neighborhood_warnings": {
-      "de": "Bonnieux liegt auf einem Hügel, viele Treppen, nicht barrierefrei. Parken nur am Dorfeingang, beschraenkte Plaetze. Strassen zwischen Bonnieux, Lacoste und Ménerbes eng und kurvenreich, langsam fahren.",
-      "hu": "Bonnieux dombon, sok lepcso, akadalymentestelen. Parkolas csak a falu szelen, korlatozott helyekkel. Az utak Bonnieux, Lacoste es Ménerbes kozott keskenyek es kanyargosak, lassan vezess.",
-      "ro": "Bonnieux e pe un deal, multe scari, nu e accesibil. Parcare doar la intrare, locuri limitate. Drumurile intre Bonnieux, Lacoste si Ménerbes sunt inguste si serpuite, conduceti incet.",
-      "en": "Bonnieux climbs a hillside with lots of stairs — not wheelchair-friendly. Parking only at the village edge, limited spots. Roads between Bonnieux, Lacoste and Ménerbes are narrow and twisty, drive slowly."
-    },
-    "parking_real_time": ""
   }
 }

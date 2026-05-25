@@ -290,6 +290,420 @@
           "Fill your bottles for free at the sanctuary fountains.",
           "The evening torchlight procession (21:00) is a must-see."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt im heiligen Bezirk, wo Sie die Grotte und die prächtigen Basiliken in aller Ruhe erkunden. Am Mittag schlendern Sie durch die Stadt zum Wachsfigurenmuseum, um mehr über die Erscheinungen zu erfahren. Nachmittags erklimmen Sie die Festung für einen Panoramablick über die Pyrenäen. Den Abend lassen Sie in der gigantischen unterirdischen Basilika Saint-Pie X ausklingen.",
+            "hu": "A napot a szentély körzetében kezdi, ahol a barlangot és a bazilikákat járhatja be. Délben a városközpont felé veszi az irányt a Viaszmúzeumba, hogy megismerje a látomások történetét. Délután a vár sziklájáról csodálhatja meg a Pireneusok vonulatait. Az estet a monumentális föld alatti Szent X. Piusz-bazilikában fejezheti be.",
+            "ro": "Ziua începe în zona sanctuarului, unde veți vizita grota și bazilicile în liniște. La prânz, mergeți spre centrul orașului la Muzeul de Ceară pentru a învăța despre apariții. După-amiaza, urcați la cetate pentru o panoramă superbă asupra Pirineilor. Seara se încheie în uriașa bazilică subterană Sfântul Pius al X-lea.",
+            "en": "Your day starts in the Sanctuary area, exploring the Grotto and the magnificent basilicas in peace. At midday, stroll through the town to the Wax Museum to learn about the apparitions. In the afternoon, climb the fortress for panoramic views of the Pyrenees. End your evening in the massive underground Basilica of Saint Pius X."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Früher Besuch vermeidet die größten Pilgergruppen.",
+                "hu": "Érdemes korán érkezni a tömeg elkerülése végett.",
+                "ro": "Vizitați devreme pentru a evita grupurile mari de pelerini.",
+                "en": "Arrive early to avoid the largest groups of pilgrims."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Stille bewahren und die spirituelle Atmosphäre genießen.",
+                "hu": "A barlangnál teljes csendet és tiszteletet kérnek.",
+                "ro": "Păstrați liniștea deplină în zona grotei.",
+                "en": "Maintain total silence and respect near the grotto."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Die Mosaike an der Fassade sind bei Sonnenlicht prachtvoll.",
+                "hu": "A homlokzat mozaikjai napsütésben a legszebbek.",
+                "ro": "Mozaicurile de pe fațadă sunt superbe în lumina soarelui.",
+                "en": "The facade mosaics are most stunning in the sunlight."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Lebensgroße Wachsfiguren erzählen die Geschichte von Bernadette.",
+                "hu": "Életnagyságú viaszfigurák mutatják be Bernadette életét.",
+                "ro": "Figurile de ceară spun povestea vieții lui Bernadette.",
+                "en": "Life-size wax figures depict the story of Saint Bernadette."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug für einen einfachen Zugang zur Burg.",
+                "hu": "Használja a liftet a könnyebb feljutás érdekében.",
+                "ro": "Folosiți liftul pentru un acces mai ușor la castel.",
+                "en": "Use the elevator for easy access to the fortress."
+              }
+            },
+            {
+              "name": "Basilique Saint-Pie X",
+              "tip_5lang": {
+                "de": "Eine beeindruckende unterirdische Basilika für 25.000 Menschen.",
+                "hu": "Lenyűgöző föld alatti bazilika, 25 ezer fő befogadására.",
+                "ro": "O bazilică subterană impresionantă pentru 25.000 de oameni.",
+                "en": "An impressive underground basilica seating 25,000 people."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Garbure Bigourdane",
+                "tip": "Traditioneller Kohl- und Bohneneintopf im Le Carillon."
+              },
+              {
+                "name": "Gâteau à la Broche",
+                "tip": "Am Spieß gebackener Kuchen, lokal auf Märkten erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Garbure",
+                "tip": "Sűrű káposztás-babos leves kacsahússal a Le Carillonban."
+              },
+              {
+                "name": "Pyrénées sajt",
+                "tip": "Helyi juh- és kecskesajtok a piaci árusoknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Garbure",
+                "tip": "Tocăniță tradițională de varză și fasole la Le Carillon."
+              },
+              {
+                "name": "Gâteau à la Broche",
+                "tip": "Prăjitură coaptă pe scuipat, specifică zonei montane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Garbure",
+                "tip": "Hearty cabbage and bean stew at Le Carillon."
+              },
+              {
+                "name": "Pyrenean Cheese",
+                "tip": "Local sheep and goat cheeses from market stalls."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Gave de Pau",
+                "tip": "Ruhiger Spaziergang am Flussufer.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Le Calvaire",
+                "tip": "Ein bewaldeter Hügelweg oberhalb des Heiligtums.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gave de Pau partja",
+                "tip": "Csendes séta a folyó mentén a szentély mögött.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Kálvária-út",
+                "tip": "Erdei ösvény a szentély feletti dombon.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Gave de Pau",
+                "tip": "Plimbare liniștită pe malul apei.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Calea Crucii (Calvaire)",
+                "tip": "Traseu împădurit deasupra sanctuarului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Banks of Gave de Pau",
+                "tip": "Peaceful walk along the river behind the sanctuary.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "The Calvary",
+                "tip": "A wooded hillside path above the sanctuary.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Halles de Lourdes",
+                "tip": "Lokaler Markt für Käse und Delikatessen."
+              },
+              {
+                "name": "Andenkenläden",
+                "tip": "Kerzen und Wasserflaschen für das Lourdeswasser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halles de Lourdes",
+                "tip": "Helyi fedett piac gasztronómiai termékekkel."
+              },
+              {
+                "name": "Kegytárgyboltok",
+                "tip": "Gyertyák és palackok a lourdes-i víznek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles",
+                "tip": "Piață locală pentru brânzeturi și delicatese."
+              },
+              {
+                "name": "Magazine de suveniruri",
+                "tip": "Lumânări și recipiente pentru apa de la Lourdes."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles de Lourdes",
+                "tip": "Indoor market for local food specialties."
+              },
+              {
+                "name": "Souvenir Shops",
+                "tip": "Candles and containers for Holy Water."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Achten Sie auf angemessene Kleidung in den Basiliken.",
+              "Füllen Sie Ihre Wasserflaschen direkt an den Brunnen im Heiligtum.",
+              "Die abendliche Lichterprozession (21:00 Uhr) ist ein Muss."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "A bazilikákba csak illő öltözetben lépjen be.",
+              "A lourdes-i vizet a szentély kútjainál ingyen töltheti meg.",
+              "Az esti fáklyás körmenet (21:00) felejthetetlen élmény."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+              "Respectați codul vestimentar în interiorul bazilicilor.",
+              "Umpleți recipientele cu apă direct de la izvoarele din sanctuar.",
+              "Procesiunea cu torțe de la ora 21:00 este obligatorie."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobbled streets.",
+              "Dress modestly when entering the basilicas.",
+              "Fill your bottles for free at the sanctuary fountains.",
+              "The evening torchlight procession (21:00) is a must-see."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Heiligtum, wo die Grotte trotz Nässe eine stille Andacht bietet. Mittags finden wir Zuflucht in der beeindruckenden Rosenkranz-Basilika und dem Wachsfigurenkabinett. Am Nachmittag erkunden wir die Burg, deren dicke Mauern Schutz bieten. Der Tag endet in der riesigen unterirdischen Basilika Saint-Pie X, die perfekt für trockenes Verweilen ist.",
+            "hu": "Az esős reggel a szentélynél indul, ahol a barlang misztikus hangulatot áraszt a ködben. Délben a Rózsafüzér-bazilika és a Viaszmúzeum nyújt fedett menedéket a csapadék elől. Délután a vár vastag falai között kalandozunk, elkerülve a nagyobb pocsolyákat. Az estét a hatalmas föld alatti Szent X. Piusz-bazilikában zárjuk, ami teljesen védett az időjárástól.",
+            "ro": "O dimineață ploioasă începe la sanctuar, unde grota oferă un moment de liniște sub sunetul picăturilor. La prânz, ne adăpostim în Basilica Rozariului și la Muzeul de Ceară. După-amiaza explorăm castelul, folosind zonele interioare pentru a rămâne uscați. Ziua se încheie în uriașa basilică subterană Sfântul Pius al X-lea, ideală pentru o vizită lungă pe ploaie.",
+            "en": "A rainy morning starts at the sanctuary, where the Grotto feels mystical in the mist. At midday, we seek shelter in the Rosary Basilica and the Wax Museum. In the afternoon, we explore the castle's interior galleries to stay dry. The day ends in the massive underground Basilica of Saint Pius X, which provides a perfect, weather-proof conclusion."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Die Arkaden rund um den Platz bieten hervorragenden Schutz vor Regenschauern.",
+                "hu": "A tér körüli árkádok kiváló védelmet nyújtanak a hirtelen záporok elől.",
+                "ro": "Arcadele din jurul pieței oferă un adăpost excelent împotriva averselor.",
+                "en": "The arcades around the square provide excellent shelter from sudden rain showers."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist hier unerlässlich, da der Wartebereich meist unbedeckt ist.",
+                "hu": "Az esernyő itt elengedhetetlen, mivel a várakozási rész nagyrészt fedetlen.",
+                "ro": "Umbrela este esențială aici, deoarece zona de așteptare este în mare parte descoperită.",
+                "en": "An umbrella is essential here as the waiting area is mostly uncovered."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um die prächtigen Mosaike im Trockenen zu bewundern.",
+                "hu": "Használja ki a bent töltött időt a pompás mozaikok megcsodálására a szárazon.",
+                "ro": "Profită de timpul petrecut în interior pentru a admira mozaicurile superbe la adăpost.",
+                "en": "Take advantage of the indoor time to admire the magnificent mosaics while staying dry."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Die perfekte Indoor-Aktivität, um dem Regen für über eine Stunde zu entkommen.",
+                "hu": "Tökéletes beltéri program, hogy több mint egy órára elmeneküljünk az eső elől.",
+                "ro": "Activitatea interioară perfectă pentru a scăpa de ploaie timp de peste o oră.",
+                "en": "The perfect indoor activity to escape the rain for over an hour."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lamp": {
+                "de": "Vorsicht auf den steinernen Stufen, diese können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a kőlépcsőkön, ezek nedves időben nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe treptele de piatră, acestea pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the stone steps, as they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Basilique Saint-Pie X",
+              "tip_5lang": {
+                "de": "Diese riesige unterirdische Kirche ist der ultimative trockene Ort in Lourdes.",
+                "hu": "Ez a hatalmas föld alatti templom a végső menedék eső esetén Lourdes-ban.",
+                "ro": "Această biserică subterană masivă este refugiul suprem în caz de ploaie în Lourdes.",
+                "en": "This massive underground church is the ultimate dry haven in Lourdes during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Kopfsteinpflastergassen Pfützen bilden.",
+              "Die Basilika Saint-Pie X bietet Platz für Tausende und ist komplett wetterfest.",
+              "Kaufen Sie Regenschutz in den vielen Souvenirläden nahe dem Eingang.",
+              "Nutzen Sie die überdachten Passagen in der Rue de la Grotte beim Gehen.",
+              "Die Cafés am Boulevard de la Grotte sind ideal für eine trockene Pause."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcákon könnyen megáll a víz.",
+              "A Szent X. Piusz-bazilika több ezer embert befogad és teljesen védett.",
+              "Vásároljon esővédőt a bejárat közeli számos ajándékbolt egyikében.",
+              "Séta közben használja a Rue de la Grotte fedett átjáróit.",
+              "A Boulevard de la Grotte kávézói ideálisak egy száraz pihenőre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe străzile pavate se formează bălți.",
+              "Basilica Sfântul Pius al X-lea poate primi mii de oameni și este complet protejată.",
+              "Cumpărați protecție împotriva ploii de la numeroasele magazine de suveniruri.",
+              "Folosiți pasajele acoperite de pe Rue de la Grotte în timp ce mergeți.",
+              "Cafenelele de pe Boulevard de la Grotte sunt ideale pentru o pauză uscată."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles quickly form on the cobblestone streets.",
+              "The Saint Pius X Basilica can hold thousands and is entirely weather-proof.",
+              "Buy rain gear at the many souvenir shops near the sanctuary entrance.",
+              "Utilize the covered passages on Rue de la Grotte while walking through town.",
+              "Cafes along Boulevard de la Grotte are perfect for a dry mid-day break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Heiligtum bietet eine friedliche Atmosphäre ohne die Sommermassen. Mittags wärmen wir uns in den Basiliken auf und besuchen das Wachsfigurenmuseum. Am Nachmittag genießen wir das goldene Licht auf der Burg, bevor es früh dunkel wird. Den Abend verbringen wir in der spirituellen Stille der riesigen Saint-Pie X Basilika.",
+            "hu": "A tiszta téli reggel a szentélynél békés hangulatot áraszt a nyári tömeg nélkül. Délben a bazilikákban melegszünk fel, majd meglátogatjuk a Viaszmúzeumot. Délután a vár falairól csodáljuk az aranyló fényeket a korai naplemente előtt. Az estét a hatalmas Szent X. Piusz-bazilika spirituális csendjében töltjük.",
+            "ro": "O dimineață senină de iarnă la sanctuar oferă o atmosferă liniștită, fără mulțimile de vară. La prânz ne încălzim în basilici și vizităm Muzeul de Ceară. După-amiaza admirăm lumina aurie de pe castel înainte de apusul timpuriu. Seara o petrecem în liniștea spirituală a uriașei Basilici Sfântul Pius al X-lea.",
+            "en": "A crisp winter morning at the sanctuary offers a peaceful atmosphere without the summer crowds. At midday, we warm up inside the basilicas and visit the Wax Museum. In the afternoon, we enjoy the golden light from the castle walls before the early sunset. We spend the evening in the spiritual silence of the massive Saint Pius X Basilica."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Die Morgenluft in den Pyrenäen ist sehr kalt; kleiden Sie sich in Schichten.",
+                "hu": "A reggeli levegő a Pireneusokban nagyon hideg; öltözzön rétegesen.",
+                "ro": "Aerul dimineții în Pirinei este foarte rece; îmbrăcați-vă în straturi.",
+                "en": "The morning air in the Pyrenees is very cold; be sure to dress in layers."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Die Warteschlangen sind kurz, aber der Boden kann bei Frost rutschig sein.",
+                "hu": "A sorok rövidek, de a talaj fagy esetén csúszós lehet.",
+                "ro": "Cozile sunt scurte, dar solul poate fi alunecos în caz de îngheț.",
+                "en": "Waiting lines are short, but the ground can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Gebet und zum Aufwärmen zwischen den Außenbesichtigungen.",
+                "hu": "Csendes hely az imádságra és a felmelegedésre a külső helyszínek között.",
+                "ro": "Un loc liniștit pentru rugăciune și pentru încălzire între vizitele exterioare.",
+                "en": "A quiet place for prayer and to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Beheizte Räume machen dies zu einem idealen Stopp am frühen Nachmittag.",
+                "hu": "A fűtött termek ideális megállóvá teszik a kora délutáni órákban.",
+                "ro": "Sălile încălzite fac din acesta o oprire ideală la începutul după-amiezii.",
+                "en": "Heated rooms make this an ideal stop during the chilly early afternoon."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Gipfel der Pyrenäen.",
+                "hu": "Élvezze a kilátást a Pireneusok hófödte csúcsaira a várfalakról.",
+                "ro": "Bucurați-vă de priveliștea vârfurilor înzăpezite ale Pirineilor de pe ziduri.",
+                "en": "Enjoy the spectacular view of the snow-capped Pyrenees peaks from the walls."
+              }
+            },
+            {
+              "name": "Basilique Saint-Pie X",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass es in der riesigen Betonhalle kühl bleiben kann.",
+                "hu": "Vegye figyelembe, hogy a hatalmas betoncsarnokban hűvös maradhat az idő.",
+                "ro": "Rețineți că în imensa hală de beton temperatura poate rămâne scăzută.",
+                "en": "Keep in mind that it can remain quite cool inside the vast concrete hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:30 Uhr unter; planen Sie Fotos für den Nachmittag.",
+              "Viele kleinere Souvenirläden haben in der Nebensaison eingeschränkte Zeiten.",
+              "Trinken Sie einen heißen Tee in den Cafés nahe dem Fluss Gave.",
+              "Handschuhe sind für den Besuch der Burgruine im Freien sehr zu empfehlen.",
+              "Die spirituelle Atmosphäre ist im Winter deutlich intimer und ruhiger."
+            ],
+            "hu": [
+              "A nap 17:30 körül nyugszik; a fotózást tervezze a délutáni órákra.",
+              "Sok kisebb ajándékbolt korlátozott nyitvatartással üzemel holtszezonban.",
+              "Igyon egy forró teát a Gave-folyó melletti kávézók egyikében.",
+              "A vár szabadtéri részeinek látogatásához erősen ajánlott a kesztyű.",
+              "A spirituális élmény télen sokkal meghittebb és csendesebb."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:30; planificați fotografiile pentru după-amiază.",
+              "Multe magazine mici de suveniruri au program redus în extrasezon.",
+              "Beți un ceai fierbinte la cafenelele de lângă râul Gave.",
+              "Mănușile sunt recomandate pentru vizitarea zonelor exterioare ale castelului.",
+              "Atmosfera spirituală este mult mai intimă și mai liniștită în timpul iernii."
+            ],
+            "en": [
+              "Sunset is around 17:30; plan your best photo opportunities for mid-afternoon.",
+              "Many small souvenir shops have restricted hours during the low season.",
+              "Enjoy a hot tea at one of the cafes located near the Gave river.",
+              "Gloves are highly recommended for visiting the outdoor parts of the castle.",
+              "The spiritual atmosphere is significantly more intimate and quiet in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -504,6 +918,341 @@
           "Always lock your bike securely when stopping.",
           "Bring plenty of water for the Pic du Jer excursion."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad erkunden Sie erst das religiöse Zentrum und fahren dann zur Festung hinauf. Nach einem kräftigen Mittagessen führt der Weg zum Pic du Jer, wo Sie das Panorama genießen. Den Nachmittag verbringen Sie bei einer entspannten Fahrt zum malerischen See von Lourdes, etwas außerhalb der Stadt.",
+            "hu": "Kerékpárral előbb a vallási központot látogatja meg, majd felteker a várba. Egy kiadós ebéd után az út a Pic du Jer-hez vezet, ahol a panorámában gyönyörködhet. A délutánt egy könnyed tekeréssel zárja a város szélén található festői lourdes-i tónál.",
+            "ro": "Cu bicicleta, explorați centrul religios, apoi urcați la cetate. După un prânz copios, drumul duce la Pic du Jer pentru o panoramă deosebită. După-amiaza se încheie cu o plimbare relaxantă spre lacul Lourdes, situat la marginea orașului.",
+            "en": "By bike, first explore the religious center and then ride up to the fortress. After a hearty lunch, head to Pic du Jer to enjoy the panorama. Spend your afternoon with a relaxed ride to the scenic Lake Lourdes on the outskirts of town."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Fahrräder müssen vor dem heiligen Bezirk abgestellt werden.",
+                "hu": "A kerékpárokat a szentély bejárata előtt kell hagyni.",
+                "ro": "Bicicletele trebuie lăsate la intrarea în zona sfântă.",
+                "en": "Bicycles must be parked outside the sacred area."
+              }
+            },
+            {
+              "name": "Basilique de l'Immaculée Conception",
+              "tip_5lang": {
+                "de": "Die obere Basilika bietet einen tollen Blick auf den Platz.",
+                "hu": "A felső bazilikából remek kilátás nyílik a térre.",
+                "ro": "Bazilica superioară oferă o vedere frumoasă asupra pieței.",
+                "en": "The upper basilica offers great views over the square."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Steiler Anstieg, aber mit dem E-Bike kein Problem.",
+                "hu": "Meredek emelkedő, de e-bike-kal könnyen leküzdhető.",
+                "ro": "Urcare abruptă, dar ușoară cu o bicicletă electrică.",
+                "en": "Steep climb, but easy with an e-bike."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Fahrt mit der Standseilbahn zum Gipfel für 360-Grad-Sicht.",
+                "hu": "Siklóval menjen fel a csúcsra a teljes panorámáért.",
+                "ro": "Urcați cu funicularul pentru o vedere de 360 de grade.",
+                "en": "Take the funicular to the summit for 360-degree views."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Entspannender Abschluss am Seeufer, flacher Weg.",
+                "hu": "Pihentető befejezés a tóparton, sík úton.",
+                "ro": "Final relaxant pe malul lacului, pe un drum plat.",
+                "en": "Relaxing finish by the lake on a flat path."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Comptoir",
+                "tip": "Moderne Küche mit regionalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Comptoir",
+                "tip": "Modern konyha helyi alapanyagokkal a vár közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Comptoir",
+                "tip": "Bucătărie modernă cu ingrediente locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Comptoir",
+                "tip": "Modern cuisine using regional products near the fort."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac de Lourdes",
+                "tip": "Ruhiger See für eine Pause.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lourdes-i tó",
+                "tip": "Csendes pihenőhely a város szélén.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Lourdes",
+                "tip": "Lac liniștit pentru o pauză relaxantă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Lourdes",
+                "tip": "Quiet lake perfect for a sunset break.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike-Souvenirs",
+                "tip": "Lokale Sportgeschäfte in der Avenue Peyramale."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi termékek",
+                "tip": "Sajtok és pástétomok a piaci negyedben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Delicii regionale pentru picnic la lac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Grab some cheese and pâté for a lakeside picnic."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Hügel um Lourdes.",
+              "Nutzen Sie die 'Voie Verte' Radwege in der Umgebung.",
+              "Parken Sie Ihr Rad immer sicher mit einem Schloss.",
+              "Nehmen Sie ausreichend Wasser für den Pic du Jer mit."
+            ],
+            "hu": [
+              "Béreljen e-bike-ot a környékbeli dombokhoz.",
+              "Használja a 'Voie Verte' kerékpárutakat a környéken.",
+              "Mindig zárja le a kerékpárt, ha megáll.",
+              "Vigyen elég vizet a Pic du Jer túrához."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru dealurile din jur.",
+              "Folosiți pistele 'Voie Verte' din apropiere.",
+              "Asigurați întotdeauna bicicleta cu un antifurt.",
+              "Luați suficientă apă pentru urcarea la Pic du Jer."
+            ],
+            "en": [
+              "Rent an e-bike for the hills around Lourdes.",
+              "Use the 'Voie Verte' cycle paths in the area.",
+              "Always lock your bike securely when stopping.",
+              "Bring plenty of water for the Pic du Jer excursion."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir mit dem Rad am Heiligtum. Wir suchen Schutz in der Oberen Basilika, bevor wir zur Burg radeln. Am Nachmittag geht es zum Pic du Jer, wo die Wolken tief hängen. Der Tag endet mit einer kühlen, nassen Fahrt zum Lac de Lourdes, der im Regen mystisch wirkt.",
+            "hu": "Az eső ellenére kerékpárral indulunk a szentélytől. A Felső-bazilikában keresünk menedéket, mielőtt a várhoz tekernénk. Délután a Pic du Jer felé vesszük az irányt, ahol alacsonyan szállnak a felhők. A napot egy hűvös, vizes tekeréssel zárjuk a Lourdes-i tóhoz.",
+            "ro": "În ciuda ploii, pornim cu bicicleta de la sanctuar. Căutăm adăpost în Basilica Superioară înainte de a pedala spre castel. După-amiaza mergem spre Pic du Jer, unde norii sunt joși. Ziua se încheie cu o plimbare răcoroasă și umedă spre Lacul Lourdes.",
+            "en": "Despite the rain, we start our bike tour at the sanctuary. We seek shelter in the Upper Basilica before cycling to the castle. In the afternoon, we head to Pic du Jer where clouds hang low. The day ends with a cool, wet ride to Lake Lourdes, looking mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Arkaden, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az árkádok alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcade pentru a păstra șaua uscată.",
+                "en": "Park your bike under the arcades to keep the saddle dry while visiting."
+              }
+            },
+            {
+              "name": "Basilique de l'Immaculée Conception",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz auszuschütteln und aufzuwärmen.",
+                "hu": "Jó hely az esőruházat megrázására és egy rövid felmelegedésre.",
+                "ro": "Un loc bun pentru a scutura hainele de ploaie și a vă încălzi puțin.",
+                "en": "A good spot to shake off your rain gear and warm up briefly."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Der Anstieg per Rad ist bei Nässe anstrengend; achten Sie auf Rutschgefahr.",
+                "hu": "A kerékpáros feljutás esőben fárasztó; ügyeljen a csúszásveszélyre.",
+                "ro": "Urcarea cu bicicleta este obositoare pe ploaie; atenție la alunecare.",
+                "en": "The bike ascent is taxing in the rain; watch out for slippery patches."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Die Seilbahn bringt Sie und Ihr Rad trocken auf den Gipfel.",
+                "hu": "A sikló szárazon viszi fel önt és a kerékpárját a csúcsra.",
+                "ro": "Funicularul vă duce pe dvs. și bicicleta la vârf la adăpost de ploaie.",
+                "en": "The funicular will take you and your bike to the summit in dry comfort."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Der Uferweg kann schlammig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "A tóparti út saras lehet; maradjon a kiépített ösvényeken.",
+                "ro": "Poteca de pe mal poate fi noroioasă; rămâneți pe drumurile pavate.",
+                "en": "The lakeside path can be muddy; stick to the paved sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind heute unerlässlich.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig und vorsichtig.",
+              "Die Sicht am Pic du Jer kann bei Regen stark eingeschränkt sein.",
+              "Nutzen Sie die Fahrradständer nahe der Basilika Saint-Pie X (überdacht).",
+              "Vermeiden Sie schnelle Kurven auf den glatten Straßen der Altstadt."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő ma elengedhetetlen.",
+              "A nedves macskakövön korán és óvatosan kezdjen el fékezni.",
+              "A kilátás a Pic du Jer-nél esőben erősen korlátozott lehet.",
+              "Használja a Szent X. Piusz-bazilika közeli fedett kerékpártárolókat.",
+              "Kerülje a hirtelen kanyarodást az óváros csúszós utcáin."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și apărătorile sunt esențiale astăzi.",
+              "Frânați devreme și cu prudență pe pavajul umed.",
+              "Vizibilitatea la Pic du Jer poate fi sever limitată pe ploaie.",
+              "Folosiți rastelele de biciclete acoperite de lângă Basilica Sf. Pius X.",
+              "Evitați virajele strânse pe străzile alunecoase din centrul vechi."
+            ],
+            "en": [
+              "Full waterproof gear and mudguards are essential for today's ride.",
+              "Brake early and gently on wet cobblestones to avoid skidding.",
+              "Visibility at Pic du Jer may be significantly reduced during rainfall.",
+              "Use the bike racks near Saint Pius X Basilica for covered parking.",
+              "Avoid sharp turns on the slippery streets of the old town district."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Heiligtum erfordert warme Handschuhe. Wir besuchen die Basilika und radeln dann hinauf zur Burg. Mittags geht es mit der Seilbahn zum Pic du Jer, um die verschneiten Gipfel zu sehen. Der Tag endet mit einer zügigen Fahrt zum Lac de Lourdes im klaren Winterlicht.",
+            "hu": "A fagyos reggel a szentélynél meleg kesztyűt igényel. Meglátogatjuk a bazilikát, majd feltekerünk a várhoz. Délben a siklóval felmegyünk a Pic du Jer-re a havas csúcsokért. A napot egy tempós tekeréssel zárjuk a Lourdes-i tóhoz a tiszta téli fényekben.",
+            "ro": "Un început geros la sanctuar necesită mănuși groase. Vizităm basilica și pedalăm spre castel. La prânz luăm funicularul spre Pic du Jer pentru vârfurile înzăpezite. Ziua se încheie cu o plimbare rapidă spre Lacul Lourdes în lumina clară de iarnă.",
+            "en": "A frosty start at the sanctuary requires warm gloves. We visit the basilica and then cycle up to the castle. At midday, we take the funicular to Pic du Jer for the snowy peaks. The day ends with a brisk ride to Lake Lourdes in the clear winter light."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Brücken über den Gave de Pau.",
+                "hu": "Ügyeljen a zúzmarára a Gave de Pau folyó feletti hidakon.",
+                "ro": "Atenție la chiciura de pe podurile peste râul Gave de Pau.",
+                "en": "Watch out for frost on the bridges crossing the Gave de Pau river."
+              }
+            },
+            {
+              "name": "Basilique de l'Immaculée Conception",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als draußen auf dem Fahrrad.",
+                "hu": "Bent lényegesen melegebb van, mint kint a kerékpáron.",
+                "ro": "În interior este mult mai cald decât afară pe bicicletă.",
+                "en": "It is significantly warmer inside than out on the bicycle."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber die Abfahrt wird sehr windig.",
+                "hu": "A felfelé menet melegen tartja, de a lejtőn nagyon hideg lesz a szél.",
+                "ro": "Urcarea vă va ține de cald, dar coborârea va fi foarte rece din cauza vântului.",
+                "en": "The climb will keep you warm, but the descent will be very windy and cold."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Oben liegt oft Schnee; feste Schuhe für den Gipfelpfad sind nötig.",
+                "hu": "Fent gyakran van hó; a csúcsra vezető ösvényhez bakancs ajánlott.",
+                "ro": "Deseori este zăpadă sus; sunt necesari bocanci pentru poteca spre vârf.",
+                "en": "There is often snow at the top; sturdy boots are needed for the summit path."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig; genießen Sie die klare, kalte Luft.",
+                "hu": "Télen itt nagyon nagy a nyugalom; élvezze a tiszta, hideg levegőt.",
+                "ro": "Iarna este foarte liniște aici; bucurați-vă de aerul curat și rece.",
+                "en": "It is very peaceful here in winter; enjoy the crisp, cold air by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinkt.",
+              "Die Tage sind kurz; sorgen Sie für eine funktionierende Fahrradbeleuchtung.",
+              "Planen Sie regelmäßige Stopps in beheizten Cafés zum Aufwärmen ein.",
+              "Achten Sie in Schattenlagen auf versteckte Eisplatten (Black Ice)."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet és szélálló ruházatot.",
+              "Ellenőrizze a guminyomást, mert hidegben az érték csökkenhet.",
+              "A nappalok rövidek; gondoskodjon a működő kerékpáros világításról.",
+              "Tervezzen rendszeres megállókat fűtött kávézókban a felmelegedéshez.",
+              "Az árnyékos részeken ügyeljen a rejtett jégfoltokra."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și îmbrăcăminte rezistentă la vânt.",
+              "Verificați presiunea în pneuri, deoarece scade ușor la frig.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Planificați opriri regulate la cafenele încălzite pentru a vă dezmorți.",
+              "Atenție la porțiunile înghețate (black ice) în zonele cu umbră."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof outer clothing.",
+              "Check your tire pressure as it tends to drop in colder temperatures.",
+              "Days are short; ensure your bicycle lights are fully functional.",
+              "Plan regular stops at heated cafes to warm up your hands and feet.",
+              "Watch out for 'black ice' or hidden icy patches in shaded areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -718,6 +1467,341 @@
           "The road to the lake is well-signposted.",
           "Use your car for excursions to the nearby High Pyrenees."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die wichtigsten Punkte von Lourdes. Nach dem Besuch des Heiligtums und der Grotte fahren Sie zur Festung hinauf. Am Nachmittag bringt Sie das Auto zur Seilbahn des Pic du Jer für eine spektakuläre Aussicht. Den Tag beschließen Sie am ruhigen See von Lourdes, der nur wenige Autominuten entfernt liegt.",
+            "hu": "Autóval kényelmesen érheti el Lourdes legfontosabb pontjait. A szentély és a barlang után a vár következik. Délután a Pic du Jer siklójához hajthat a látványos panorámáért. A napot a várostól pár percre lévő csendes lourdes-i tónál zárhatja, ahol nyugodt környezetben pihenhet meg.",
+            "ro": "Cu mașina, ajungeți ușor la cele mai importante puncte din Lourdes. După sanctuar și grotă, vizitați cetatea. După-amiaza mergeți la funicularul Pic du Jer pentru o priveliște spectaculoasă. Ziua se încheie la lacul Lourdes, situat la doar câteva minute de mers cu mașina.",
+            "en": "By car, you can comfortably reach Lourdes' key spots. After visiting the Sanctuary and Grotto, drive up to the fortress. In the afternoon, head to the Pic du Jer funicular for spectacular views. Conclude your day at the quiet Lake Lourdes, just a few minutes' drive from the center."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Peyramale'.",
+                "hu": "Parkoljon a Peyramale mélygarázsban.",
+                "ro": "Parcați în parcarea subterană Peyramale.",
+                "en": "Park at the Peyramale underground car park."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Frühmorgens ist die spirituelle Energie am stärksten.",
+                "hu": "Kora reggel a legerősebb a spirituális élmény.",
+                "ro": "Energia spirituală este cea mai puternică dimineața devreme.",
+                "en": "Early morning offers the strongest spiritual experience."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Pyrenäen-Museum im Inneren.",
+                "hu": "Nézze meg a váron belüli Pireneusi Múzeumot is.",
+                "ro": "Vizitați și Muzeul Pirineilor din interiorul cetății.",
+                "en": "Don't miss the Pyrenean Museum inside the fortress."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Kostenloser Parkplatz an der Talstation der Seilbahn.",
+                "hu": "Ingyenes parkoló a sikló alsó állomásánál.",
+                "ro": "Parcare gratuită la stația de bază a funicularului.",
+                "en": "Free parking available at the funicular base station."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Perfekt für einen Kaffee am See vor der Abfahrt.",
+                "hu": "Tökéletes hely egy kávéra a tóparton indulás előtt.",
+                "ro": "Loc perfect pentru o cafea pe malul lacului.",
+                "en": "Perfect spot for a coffee by the lake before leaving."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Embarcadère",
+                "tip": "Restaurant direkt am See von Lourdes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Embarcadère",
+                "tip": "Közvetlenül a tóparton található étterem."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Embarcadère",
+                "tip": "Restaurant situat chiar pe malul lacului."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Embarcadère",
+                "tip": "Scenic restaurant right on the shores of Lake Lourdes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pic du Jer Gipfel",
+                "tip": "Frische Bergluft und weite Sicht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pic du Jer csúcs",
+                "tip": "Friss hegyi levegő és végtelen kilátás.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful Pic du Jer",
+                "tip": "Aer curat de munte și vedere panoramică.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pic du Jer Summit",
+                "tip": "Fresh mountain air and vast horizons.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "E.Leclerc Lourdes",
+                "tip": "Großer Supermarkt für lokale Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "E.Leclerc Lourdes",
+                "tip": "Nagyáruház helyi gasztro-ajándékokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "E.Leclerc",
+                "tip": "Hipermarket pentru specialități locale la prețuri bune."
+              }
+            ],
+            "en": [
+              {
+                "name": "E.Leclerc Lourdes",
+                "tip": "Large supermarket for local food gifts and wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Stadtzentrum während der Prozessionen.",
+              "Parkhäuser sind im Sommer oft voll, kommen Sie früh.",
+              "Die Fahrt zum Lac de Lourdes ist gut ausgeschildert.",
+              "Nutzen Sie den Wagen für Ausflüge in die nahen Hochpyrenäen."
+            ],
+            "hu": [
+              "Kerülje a belvárost a körmenetek idején.",
+              "A parkolóházak nyáron hamar megtelnek.",
+              "A tóhoz vezető út jól ki van táblázva.",
+              "Használja az autót kirándulásokhoz a közeli Magas-Pireneusokba."
+            ],
+            "ro": [
+              "Evitați centrul orașului în timpul procesiunilor.",
+              "Parcările se umplu repede vara, veniți devreme.",
+              "Drumul spre lac este bine semnalizat.",
+              "Folosiți mașina pentru excursii în Pirineii Înalți din apropiere."
+            ],
+            "en": [
+              "Avoid the town center during major processions.",
+              "Car parks fill up early in summer; arrive by 9 AM.",
+              "The road to the lake is well-signposted.",
+              "Use your car for excursions to the nearby High Pyrenees."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir das Heiligtum bequem im Trockenen. Nach der Grotte fahren wir zur Burg und genießen den Komfort des Wagens zwischen den Stopps. Am Nachmittag bringt uns die Seilbahn zum Pic du Jer, bevor wir zum Lac de Lourdes fahren, wo wir den Regen vom Ufercafé aus beobachten.",
+            "hu": "Autóval kényelmesen, szárazon érjük el a szentélyt. A barlang után a várhoz hajtunk, élvezve az autó kényelmét a megállók között. Délután a siklóval felmegyünk a Pic du Jer-re, majd a Lourdes-i tóhoz autózunk, ahol a tóparti kávézóból nézzük az esőt.",
+            "ro": "Cu mașina ajungem la sanctuar confortabil și uscați. După grotă mergem la castel, bucurându-ne de confortul vehiculului între opriri. După-amiaza luăm funicularul spre Pic du Jer, apoi mergem la Lacul Lourdes, unde privim ploaia dintr-o cafenea.",
+            "en": "By car, we reach the sanctuary comfortably and dry. After the Grotto, we drive to the castle, enjoying the vehicle's comfort between stops. In the afternoon, the funicular takes us to Pic du Jer before we head to Lake Lourdes to watch the rain from a lakeside cafe."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Peyramale' für einen kurzen, trockenen Weg.",
+                "hu": "Használja a 'Peyramale' parkolóházat a rövid, fedett út érdekében.",
+                "ro": "Folosiți parcarea 'Peyramale' pentru un drum scurt și protejat.",
+                "en": "Use the 'Peyramale' parking garage for a short, dry walk to the entrance."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Schirme im Auto, bevor Sie das Heiligtum betreten.",
+                "hu": "Hagyja a vizes ernyőket az autóban, mielőtt belépne a szentély területére.",
+                "ro": "Lăsați umbrele ude în mașină înainte de a intra în zona sanctuarului.",
+                "en": "Leave wet umbrellas in the car before entering the inner sanctuary area."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt am Fuß des Schrägaufzugs zur Burg.",
+                "hu": "Közvetlenül a várba vezető ferde lift lábánál van néhány parkolóhely.",
+                "ro": "Există locuri de parcare limitate chiar la baza liftului spre castel.",
+                "en": "Limited parking is available right at the base of the castle elevator."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Der große Parkplatz an der Talstation bleibt bei Regen oft leer.",
+                "hu": "A völgyállomás nagy parkolója esőben gyakran szinte üres.",
+                "ro": "Parcarea mare de la stația de bază este adesea goală pe ploaie.",
+                "en": "The large parking lot at the lower station is often nearly empty in rain."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Restaurant, um den Blick auf den See im Trockenen zu genießen.",
+                "hu": "Parkoljon közvetlenül az étteremnél, hogy szárazon élvezze a tavi kilátást.",
+                "ro": "Parcați chiar lângă restaurant pentru a admira lacul de la adăpost.",
+                "en": "Park right next to the restaurant to enjoy the lake view while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei starkem Regen rutschig sein; fahren Sie vorsichtig.",
+              "Nutzen Sie Parkhäuser statt Straßenparkplätze, um trocken auszusteigen.",
+              "Halten Sie ein Handtuch im Auto bereit, um nasse Kleidung abzutrocknen.",
+              "Einige Zufahrtsstraßen zum Fluss können bei Hochwasser gesperrt sein.",
+              "Die Sicht in den Bergen kann durch tief hängende Wolken behindert sein."
+            ],
+            "hu": [
+              "Az utak heves esőzéskor csúszósak lehetnek; vezessen óvatosan.",
+              "Használjon parkolóházakat az utcai parkolás helyett a száraz kiszálláshoz.",
+              "Tartson törölközőt az autóban a vizes ruhák letörléséhez.",
+              "Néhány folyóparti út áradásveszély esetén lezárható.",
+              "A kilátást a hegyekben az alacsony felhőzet akadályozhatja."
+            ],
+            "ro": [
+              "Drumurile pot fi alunecoase în caz de ploaie torențială; conduceți cu grijă.",
+              "Folosiți parcări subterane în locul celor stradale pentru a coborî uscat.",
+              "Păstrați un prosop în mașină pentru a șterge hainele ude.",
+              "Unele drumuri de lângă râu pot fi închise în caz de inundații.",
+              "Vizibilitatea în munți poate fi redusă din cauza norilor joși."
+            ],
+            "en": [
+              "Roads can be slippery during heavy rain; drive with extra caution.",
+              "Prefer parking garages over street parking for a drier transfer.",
+              "Keep a towel in the car to dry off after returning from outdoor stops.",
+              "Check for road closures near the river if heavy flooding occurs.",
+              "Mountain visibility may be hampered by low-hanging storm clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Wintertour am Heiligtum, wo wir leicht einen Parkplatz finden. Nach dem Besuch der Basiliken fahren wir zur Burg. Am Nachmittag geht es zum Pic du Jer, um das Panorama der schneebedeckten Gipfel zu bestaunen. Zum Abschluss fahren wir zum Lac de Lourdes, der im Winterlicht besonders ruhig und friedlich liegt.",
+            "hu": "Téli túránkat a szentélynél kezdjük, ahol ilyenkor könnyen találunk parkolót. A bazilikák után a várhoz autózunk. Délután a Pic du Jer-hez megyünk a havas pireneusi panorámáért. Zárásként a Lourdes-i tóhoz hajtunk, amely a téli fényekben különösen nyugodt és békés.",
+            "ro": "Începem turul de iarnă la sanctuar, unde găsim ușor parcare. După vizitarea basilicilor mergem la castel. După-amiaza plecăm spre Pic du Jer pentru panorama vârfurilor înzăpezite. La final mergem la Lacul Lourdes, care este extrem de liniștit în lumina iernii.",
+            "en": "We start our winter tour at the sanctuary, where parking is easy to find this time of year. After visiting the basilicas, we drive to the castle. In the afternoon, we head to Pic du Jer for the snowy Pyrenees panorama. Finally, we drive to Lake Lourdes, which is exceptionally calm in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie nach dem Gebet zurückkehren.",
+                "hu": "Fűtse fel az autót, mielőtt visszatérne az imádság után.",
+                "ro": "Preîncălziți mașina înainte de a vă întoarce după rugăciune.",
+                "en": "Pre-heat your car before returning from your prayer visit."
+              }
+            },
+            {
+              "name": "Grotte de Massabielle",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz; der Boden kann morgens gefroren sein.",
+                "hu": "Rövid séta a parkolótól; a talaj reggelente fagyos lehet.",
+                "ro": "Drum scurt de la parcare; solul poate fi înghețat dimineața.",
+                "en": "A short walk from the parking; the ground can be frozen in the mornings."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort des Autos für den Weg nach oben.",
+                "hu": "Élvezze az autó kényelmét a felfelé vezető úton.",
+                "ro": "Bucurați-vă de confortul mașinii pentru drumul spre castel.",
+                "en": "Enjoy the comfort of your heated car for the drive up to the castle."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Überprüfen Sie vor der Fahrt, ob die Seilbahn im Winter in Betrieb ist.",
+                "hu": "Indulás előtt ellenőrizze, hogy a sikló üzemel-e télen.",
+                "ro": "Verificați dacă funicularul funcționează iarna înainte de a porni.",
+                "en": "Check if the funicular is in operation during the winter season before driving."
+              }
+            },
+            {
+              "name": "Lac de Lourdes",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Schneefall rutschig sein.",
+                "hu": "A tóhoz vezető út erős havazás esetén csúszós lehet.",
+                "ro": "Drumul spre lac poate fi alunecos în caz de ninsori puternice.",
+                "en": "The access road to the lake can be slippery if there is recent snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wagen wintertauglich ist (Frostschutzmittel).",
+              "Ein Eiskratzer ist bei Übernachtungen in Lourdes unerlässlich.",
+              "Die Parkgebühren sind im Winter oft niedriger oder entfallen ganz.",
+              "Fahren Sie vorsichtig auf den schattigen Bergstraßen zum Pic du Jer.",
+              "Nutzen Sie die Sitzheizung nach längeren Aufenthalten im Freien."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az autó fel van készítve a télre (fagyálló).",
+              "A jégkaparó elengedhetetlen, ha Lourdes-ban éjszakázik.",
+              "A parkolási díjak télen gyakran alacsonyabbak vagy ingyenesek.",
+              "Vezessen óvatosan az árnyékos hegyi utakon a Pic du Jer felé.",
+              "Használja az ülésfűtést a hosszabb kinti tartózkodás után."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită pentru iarnă (antigel).",
+              "O racletă pentru gheață este esențială dacă înnoptați în Lourdes.",
+              "Taxele de parcare sunt adesea mai mici sau inexistente iarna.",
+              "Conduceți cu atenție pe drumurile montane umbrite spre Pic du Jer.",
+              "Folosiți încălzirea în scaune după perioade lungi petrecute afară."
+            ],
+            "en": [
+              "Ensure your car is winter-ready with proper antifreeze levels.",
+              "An ice scraper is essential if you are staying overnight in Lourdes.",
+              "Parking fees are often lower or waived during the winter months.",
+              "Drive carefully on shaded mountain roads leading to Pic du Jer.",
+              "Make use of seat heaters after long periods of outdoor sightseeing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -932,34 +2016,342 @@
           "Bus stops are clearly marked throughout the town.",
           "Some lines run less frequently during lunch hours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Lourdes, um die Highlights zu sehen. Vom religiösen Zentrum geht es zum Wachsfigurenmuseum und zur alten Festung. Am späten Nachmittag bringt Sie der Bus zum Pic du Jer, um den Tag mit einem Blick über die Gipfel der Pyrenäen abzuschließen.",
+            "hu": "Használja Lourdes hatékony buszhálózatát a látnivalók eléréséhez. A vallási központtól a Viaszmúzeumhoz, majd a várba látogat el. Késő délután busszal mehet a Pic du Jer-hez, hogy a napot a Pireneusok csúcsaira nyíló kilátással zárja.",
+            "ro": "Folosiți rețeaua eficientă de autobuze din Lourdes pentru a vedea atracțiile principale. De la centrul religios mergeți la Muzeul de Ceară și la cetate. După-amiaza târziu, autobuzul vă duce la Pic du Jer pentru a încheia ziua cu o vedere superbă.",
+            "en": "Use Lourdes' efficient bus network to reach all highlights. From the religious center, head to the Wax Museum and the old fortress. In the late afternoon, the bus will take you to Pic du Jer to end the day with a view over the Pyrenean peaks."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Der 'Citybus' hält direkt am Eingang des Heiligtums.",
+                "hu": "A Citybus közvetlenül a szentély bejáratánál áll meg.",
+                "ro": "Citybus oprește chiar la intrarea în sanctuar.",
+                "en": "The 'Citybus' stops right at the sanctuary entrance."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der drei Ebenen.",
+                "hu": "Csodálja meg a három szint építészetét.",
+                "ro": "Admirați arhitectura celor trei niveluri suprapuse.",
+                "en": "Admire the unique architecture of the three levels."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+                "hu": "Csak rövid séta a legközelebbi buszmegállótól.",
+                "ro": "La doar câțiva pași de cea mai apropiată stație de autobuz.",
+                "en": "Just a short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Hinter dem Museum geht es direkt zur Burg.",
+                "hu": "A múzeum mögött közvetlen út vezet a vár felé.",
+                "ro": "În spatele muzeului este drumul spre cetate.",
+                "en": "A direct path leads to the fortress from behind the museum."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Die Linie L2 bringt Sie direkt zur Talstation.",
+                "hu": "Az L2-es buszjárat közvetlenül a siklóhoz viszi.",
+                "ro": "Linia L2 vă duce direct la baza funicularului.",
+                "en": "Bus line L2 takes you directly to the funicular station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Little de Lourdes",
+                "tip": "Gemütliches Bistro nahe dem Heiligtum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Little de Lourdes",
+                "tip": "Hangulatos bisztró a szentély közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Little de Lourdes",
+                "tip": "Bistro primitor aproape de sanctuar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Little de Lourdes",
+                "tip": "Cozy bistro with great service near the sanctuary."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Garten der Festung",
+                "tip": "Botanischer Garten mit Aussicht.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Várkert",
+                "tip": "Botanikus kert kilátással a városra.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina cetății",
+                "tip": "Grădină botanică cu vedere spre oraș.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fortress Garden",
+                "tip": "Botanical garden inside the castle with views.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirstände",
+                "tip": "Entlang der Avenue Monseigneur Schoepfer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kegytárgy árusok",
+                "tip": "A sugárút mentén számtalan kis üzlet található."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Standuri de suveniruri",
+                "tip": "De-a lungul Avenue Monseigneur Schoepfer."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Stalls",
+                "tip": "Many shops along Avenue Monseigneur Schoepfer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Citybus beim Fahrer.",
+              "Die Busse fahren im Sommer bis spät am Abend.",
+              "Die Haltestellen sind gut markiert.",
+              "In der Mittagszeit fahren manche Linien seltener."
+            ],
+            "hu": [
+              "Vegyen napijegyet a sofőrnél a Citybusra.",
+              "A buszok nyáron késő estig közlekednek.",
+              "A megállók jól láthatóan vannak jelölve.",
+              "Ebédidőben egyes járatok ritkábban közlekednek."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru Citybus de la șofer.",
+              "Autobuzele circulă până târziu în timpul verii.",
+              "Stațiile sunt bine marcate în tot orașul.",
+              "Unele linii circulă mai rar în timpul prânzului."
+            ],
+            "en": [
+              "Buy a day pass for the Citybus from the driver.",
+              "Buses run until late evening during the peak season.",
+              "Bus stops are clearly marked throughout the town.",
+              "Some lines run less frequently during lunch hours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Stadtbus, um das Heiligtum im Regen zu erreichen. Nach der Basilika besuchen wir das Wachsfigurenmuseum, das bequem per Bus erreichbar ist. Am Nachmittag fahren wir zur Burg und zum Pic du Jer, wobei wir die Wartezeiten an überdachten Haltestellen verbringen.",
+            "hu": "A városi buszt használjuk, hogy esőben érjük el a szentélyt. A bazilika után meglátogatjuk a Viaszmúzeumot, amely busszal könnyen megközelíthető. Délután a várhoz és a Pic du Jer-hez utazunk, a várakozási időt fedett megállókban töltve.",
+            "ro": "Folosim autobuzul urban pentru a ajunge la sanctuar pe ploaie. După basilică vizităm Muzeul de Ceară, ușor accesibil cu autobuzul. După-amiaza mergem la castel și la Pic du Jer, așteptând în stații acoperite.",
+            "en": "We use the city bus to reach the sanctuary during the rain. After the basilica, we visit the Wax Museum, which is easily accessible by bus. In the afternoon, we travel to the castle and Pic du Jer, spending waiting times at covered stops."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Place Monseigneur Laurence' ist ganz nah am Eingang.",
+                "hu": "A 'Place Monseigneur Laurence' buszmegálló nagyon közel van a bejárathoz.",
+                "ro": "Stația de autobuz 'Place Monseigneur Laurence' este foarte aproape de intrare.",
+                "en": "The bus stop 'Place Monseigneur Laurence' is very close to the main entrance."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Bus; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a busztól; tartsa készenlétben az esernyőjét.",
+                "ro": "Drum scurt de la autobuz; țineți umbrela la îndemână.",
+                "en": "A short walk from the bus stop; keep your umbrella ready for the transfer."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt in der Nähe dieses Indoor-Highlights.",
+                "hu": "Számos buszjárat áll meg közvetlenül ezen beltéri látnivaló közelében.",
+                "ro": "Mai multe linii de autobuz opresc chiar lângă această atracție interioară.",
+                "en": "Several bus lines stop directly near this major indoor attraction."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug zur Burg, um den nassen Anstieg zu vermeiden.",
+                "hu": "Használja a várliftet, hogy elkerülje a vizes és meredek feljutást.",
+                "ro": "Folosiți liftul castelului pentru a evita urcarea umedă și abruptă.",
+                "en": "Use the castle elevator to avoid a wet and steep climb on foot."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Der Bus L1 bringt Sie direkt zur Talstation der Seilbahn.",
+                "hu": "Az L1-es busz közvetlenül a sikló völgyállomásához viszi önt.",
+                "ro": "Autobuzul L1 vă duce direct la stația de bază a funicularului.",
+                "en": "Bus line L1 takes you directly to the lower funicular station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan der Linien L1 und L2 bei Regen vorab.",
+              "Die Citybus-App zeigt Echtzeit-Infos zu Verspätungen bei Unwetter.",
+              "Tragen Sie Kleidung, die in beheizten Bussen nicht zu warm ist.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte für das Ticket bereit.",
+              "Nutzen Sie die Wartehallen am Bahnhof für längere Anschlüsse."
+            ],
+            "hu": [
+              "Esőben előre ellenőrizze az L1 és L2 járatok menetrendjét.",
+              "A Citybus alkalmazás valós idejű infót ad a vihar miatti késésekről.",
+              "Viseljen olyan ruhát, amely a fűtött buszokon nem túl meleg.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a jegyvásárláshoz.",
+              "Hosszabb átszállásnál használja a vasútállomás várótermét."
+            ],
+            "ro": [
+              "Verificați programul liniilor L1 și L2 înainte de a pleca pe ploaie.",
+              "Aplicația Citybus oferă info în timp real despre întârzierile cauzate de furtuni.",
+              "Purtați haine care nu sunt prea groase pentru autobuzele încălzite.",
+              "Aveți pregătit mărunțiș sau un card contactless pentru bilet.",
+              "Folosiți sălile de așteptare de la gară pentru conexiuni mai lungi."
+            ],
+            "en": [
+              "Check the schedules for lines L1 and L2 in advance during rainy weather.",
+              "The Citybus app provides real-time updates on delays during storms.",
+              "Wear layers that are easy to remove in the heated public buses.",
+              "Have small change or a contactless card ready for ticket purchase.",
+              "Utilize the train station waiting area for longer transit connections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den warmen Stadtbus für den Weg zum Heiligtum am Wintermorgen. Nach der Basilika besuchen wir das Wachsfigurenmuseum und fahren dann zur Burg. Am Nachmittag bringt uns der Bus zum Pic du Jer für den Blick auf die verschneiten Berge, bevor wir den Tag in der Stadt beenden.",
+            "hu": "A meleg városi buszt használjuk a szentélyhez a téli reggelen. A bazilika után meglátogatjuk a Viaszmúzeumot, majd a várhoz utazunk. Délután busszal megyünk a Pic du Jer-hez a havas hegyi kilátásért, mielőtt a városban zárnánk a napot.",
+            "ro": "Folosim autobuzul urban încălzit pentru a merge la sanctuar într-o dimineață de iarnă. După basilică vizităm Muzeul de Ceară, apoi mergem la castel. După-amiaza luăm autobuzul spre Pic du Jer pentru priveliștea montană înzăpezită.",
+            "en": "We use the warm city bus to reach the sanctuary on a cold winter morning. After the basilica, we visit the Wax Museum and then travel to the castle. In the afternoon, the bus takes us to Pic du Jer for the snowy mountain views before ending the day in town."
+          },
+          "stops": [
+            {
+              "name": "Sanctuaire de Notre-Dame",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter etwas seltener; planen Sie genau.",
+                "hu": "A buszok télen ritkábban járnak; tervezze meg pontosan az utat.",
+                "ro": "Autobuzele circulă ceva mai rar iarna; planificați-vă timpul cu grijă.",
+                "en": "Buses run slightly less frequently in winter; plan your trip carefully."
+              }
+            },
+            {
+              "name": "Basilique Notre-Dame-du-Rosaire",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Basilika auf, bevor Sie zum Bus zurückkehren.",
+                "hu": "Melegedjen fel a bazilikában, mielőtt visszatérne a buszhoz.",
+                "ro": "Încălziți-vă în basilică înainte de a vă întoarce la autobuz.",
+                "en": "Warm up inside the basilica before returning to the cold bus stop."
+              }
+            },
+            {
+              "name": "Musée de Cire",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle; achten Sie auf glatte Stellen.",
+                "hu": "Rövid séta a megállótól; ügyeljen a csúszós útszakaszokra.",
+                "ro": "Drum scurt de la stație; atenție la porțiunile alunecoase.",
+                "en": "A short walk from the stop; watch out for icy patches on the sidewalk."
+              }
+            },
+            {
+              "name": "Château Fort de Lourdes",
+              "tip_5lang": {
+                "de": "Der Bus hält am Fuße der Burg; nutzen Sie den Schrägaufzug.",
+                "hu": "A busz a vár lábánál áll meg; használja a ferde liftet.",
+                "ro": "Autobuzul oprește la baza castelului; folosiți liftul înclinat.",
+                "en": "The bus stops at the base of the castle; use the inclined elevator."
+              }
+            },
+            {
+              "name": "Pic du Jer",
+              "tip_5lang": {
+                "de": "Der Bus L1 ist die beste Verbindung zur Seilbahn im Winter.",
+                "hu": "Az L1-es busz a legjobb összeköttetés a siklóhoz télen.",
+                "ro": "Autobuzul L1 este cea mai bună conexiune către funicular iarna.",
+                "en": "Bus line L1 is the best connection to the funicular during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und sehr komfortabel.",
+              "Beachten Sie die früheren Abfahrtszeiten der letzten Busse im Winter.",
+              "Nutzen Sie die Fahrplan-App, um Wartezeiten in der Kälte zu minimieren.",
+              "Tragen Sie warme Schuhe für die Wege zwischen den Haltestellen.",
+              "Im Winter sind die Busse deutlich leerer als während der Wallfahrtszeit."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és nagyon kényelmesek.",
+              "Ügyeljen az utolsó buszok korábbi indulási idejére télen.",
+              "Használja a menetrendi appot, hogy minimalizálja a hidegben várakozást.",
+              "Viseljen meleg cipőt a megállók közötti gyalogláshoz.",
+              "Télen a buszok lényegesen üresebbek, mint a zarándokidőszakban."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și foarte confortabile.",
+              "Atenție la orele de plecare mai timpurii ale ultimelor autobuze iarna.",
+              "Folosiți aplicația de transport pentru a reduce timpul de așteptare în frig.",
+              "Purtați încălțăminte groasă pentru distanțele dintre stații.",
+              "Iarna, autobuzele sunt mult mai libere decât în perioada pelerinajelor."
+            ],
+            "en": [
+              "Buses are well-heated and very comfortable during the winter season.",
+              "Be aware of earlier departure times for the last buses in winter.",
+              "Use the transit app to minimize waiting time at cold outdoor stops.",
+              "Wear warm, insulated shoes for the short walks between stops.",
+              "Buses are much less crowded in winter compared to the pilgrimage peak."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
-    "tourism_office": "https://www.lourdes-infotourisme.com/",
-    "events": "https://www.lourdes-france.org/",
-    "city_card": "",
-    "museum_tickets": "https://www.lourdes-france.org/",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Lourdes ist eine internationale Pilgerstadt, viele Hotels und Restaurants sprechen Englisch, Italienisch, Spanisch und sogar Polnisch. In den Sanktuariums-Buchhandlungen helfen mehrsprachige Schilder, ein 'bonjour' bleibt aber freundlicher Eintritt.",
-      "hu": "Lourdes nemzetkozi zarandokvaros, sok szalloda es etterem angolul, olaszul, spanyolul es lengyelul is beszel. A szentely konyvesboltjaiban tobbnyelvu kiirasok segitenek, de egy 'bonjour' baratsagos belepojegy mindenhol.",
-      "ro": "Lourdes e oras international de pelerinaj, multe hoteluri si restaurante vorbesc engleza, italiana, spaniola si chiar poloneza. In librariile sanctuarului ai indicatoare multilingve, dar un 'bonjour' ramane intrarea prietenoasa peste tot.",
-      "en": "Lourdes is an international pilgrim town — many hotels and restaurants speak English, Italian, Spanish and even Polish. Sanctuary bookshops have multilingual signage, but a 'bonjour' remains the friendliest opener."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Oktober ist Pilgersaison mit Prozessionen und Messen in vielen Sprachen, Hoehepunkt 15. August (Mariae Himmelfahrt) mit Massen-Menschen. Mai und September sind ruhiger, gleiche Atmosphaere. Winter ist still und kalt, Sanktuarium aber offen.",
-      "hu": "Aprilistol oktoberig zarandok-szezon, korterek es misek tobb nyelven, csucs augusztus 15 (Nagyboldogasszony) hatalmas tomegekkel. Majus es szeptember csendesebb, ugyanaz a hangulat. Telen csendes es hideg, de a szentely nyitva.",
-      "ro": "Aprilie-octombrie e sezonul pelerinajelor, cu procesiuni si liturghii in multe limbi, varful fiind 15 august (Adormirea Maicii Domnului) cu multimi imense. Mai si septembrie sunt mai linistite cu aceeasi atmosfera. Iarna e linistita si rece, dar sanctuarul ramane deschis.",
-      "en": "Pilgrim season runs April to October with processions and masses in many languages, peaking on 15 August (Assumption) with huge crowds. May and September are quieter with the same atmosphere. Winter is calm and cold but the sanctuary stays open."
-    },
-    "neighborhood_warnings": {
-      "de": "Generell sehr sicher, achten Sie auf Taschendiebe in den Sanktuariums-Menschenmassen und auf ueberteuerte Souvenirlaeden direkt am Tor. Manche Hotels ausserhalb des Zentrums sind veraltet, Bewertungen lesen.",
-      "hu": "Altalaban nagyon biztonsagos, csak a szentely melletti tomegben legy ovatos a zsebtolvajokkal es a kapunal levo tulszamlazott szuvenirboltokkal. Nehany kozponton kivuli szalloda elavult, ertekeleseket olvass.",
-      "ro": "In general foarte sigur, atentie la hoti de buzunare in multimile de la sanctuar si la magazinele de suveniruri umflate la preturi din apropierea portii. Unele hoteluri din afara centrului sunt invechite; citeste recenzii.",
-      "en": "Generally very safe; watch for pickpockets in sanctuary crowds and overpriced souvenir shops right at the gates. Some hotels outside the centre are dated — read reviews."
-    },
-    "parking_real_time": ""
   }
 }

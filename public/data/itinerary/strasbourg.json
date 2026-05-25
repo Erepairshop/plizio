@@ -320,6 +320,450 @@
           "Most shops are closed on Sundays.",
           "Book your restaurant table in La Petite France in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt auf der Place Kléber, bevor Sie das majestätische Münster mit seiner filigranen Fassade bestaunen. Vormittags erkunden Sie den Palais Rohan, ein Meisterwerk französischer Architektur.\n\nMittags tauchen Sie in die Gassen von La Petite France ein, wo das Wasser der Ill die historischen Gerberhäuser umspült. Genießen Sie die Ruhe in einem der kleinen Cafés.\n\nNachmittags bietet das Vauban-Wehr den besten Blick über die Stadtmauer und die Türme der Ponts Couverts. Ein Besuch im Elsässischen Museum vertieft Ihr Verständnis für die regionale Kultur.\n\nDer Abend klingt bei elsässischem Wein und Flammkuchen aus, während die Stadt in sanftes Licht getaucht wird. Ein perfekter Abschluss für einen geschichtsträchtigen Rundgang.",
+            "hu": "A nap a Kléber téren indul, majd a lenyűgöző katedrális gótikus tornya és csillagászati órája következik. Délelőtt a Rohan-palota termeiben barangolunk a művészetek nyomában.\n\nDélben a Kis Franciaország negyed csatornái mentén sétálunk, ahol a muskátlis ablakú gerendavázas házak igazi mesevilágot idéznek. Ez Strasbourg legfotogénebb része.\n\nDélután a Vauban-gát tetejéről csodáljuk meg a panorámát, majd az Elzászi Múzeumban ismerkedünk meg a helyi népviselettel és szokásokkal.\n\nAz este a gasztronómiáról szól: egy hangulatos 'winstub'-ban megkóstoljuk a tartre flambée-t és a híres rajnai borokat a kivilágított óvárosban.",
+            "ro": "Ziua începe în Piața Kléber, urmată de vizitarea maiestuoasei Catedrale Notre-Dame, simbolul orașului. Dimineața este dedicată eleganței baroce de la Palatul Rohan.\n\nLa prânz, explorăm cartierul Petite France, unde canalele râului Ill se strecoară printre casele medievale cu structură de lemn. Este locul ideal pentru o pauză relaxantă.\n\nDupă-amiaza, Barajul Vauban oferă o perspectivă unică asupra turnurilor medievale, iar Muzeul Alsacian ne dezvăluie secretele tradițiilor locale.\n\nSeara se încheie cu o cină tradițională alsaciană, savurând preparate locale într-o atmosferă caldă și primitoare, sub luminile orașului vechi.",
+            "en": "Start your day at Place Kléber before heading to the awe-inspiring Cathedral to admire its intricate facade. Spend your morning exploring the grand galleries of Palais Rohan.\n\nBy midday, get lost in the charming alleys of La Petite France, where the Ill river flows past historic timber-framed houses. It's the most picturesque district of the city.\n\nIn the afternoon, climb the Barrage Vauban for panoramic views, then visit the Alsatian Museum to see how locals lived in centuries past.\n\nEnd your evening in a traditional 'winstub', enjoying local wine and Flammkuchen as the city lights reflect on the calm canal waters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Kléber",
+                "hu": "Kléber tér",
+                "ro": "Piața Kléber",
+                "en": "Place Kléber"
+              },
+              "tip_5lang": {
+                "de": "Treffpunkt im Herzen der Stadt am Denkmal.",
+                "hu": "A város lüktető szíve, remek találkozópont.",
+                "ro": "Inima orașului, un loc ideal de întâlnire.",
+                "en": "The beating heart of the city, perfect meeting point."
+              }
+            },
+            {
+              "name": {
+                "de": "Straßburger Münster",
+                "hu": "Strasbourgi székesegyház",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Strasbourg Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die astronomische Uhr um 12:30 Uhr.",
+                "hu": "Nézze meg a csillagászati órát délben.",
+                "ro": "Admirați ceasul astronomic la prânz.",
+                "en": "Watch the astronomical clock performance at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais Rohan",
+                "hu": "Rohan-palota",
+                "ro": "Palatul Rohan",
+                "en": "Palais Rohan"
+              },
+              "tip_5lang": {
+                "de": "Drei Museen in einem prächtigen Barockbau.",
+                "hu": "Három múzeum egyetlen barokk palotában.",
+                "ro": "Trei muzee într-un singur palat baroc.",
+                "en": "Three museums housed in one baroque palace."
+              }
+            },
+            {
+              "name": {
+                "de": "La Petite France",
+                "hu": "Kis Franciaország negyed",
+                "ro": "Cartierul Petite France",
+                "en": "La Petite France"
+              },
+              "tip_5lang": {
+                "de": "Fachwerkhäuser und Kanäle direkt am Wasser.",
+                "hu": "Gerendavázas házak és csatornák a vízparton.",
+                "ro": "Case cu bârne de lemn și canale pitorești.",
+                "en": "Half-timbered houses and canals by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Vauban-Wehr",
+                "hu": "Vauban-gát",
+                "ro": "Barajul Vauban",
+                "en": "Barrage Vauban"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick von der Terrasse auf die Ponts Couverts.",
+                "hu": "Panoráma a teraszról a Fedett hidakra.",
+                "ro": "Vedere panoramică de pe terasă asupra podurilor.",
+                "en": "Panoramic views from the terrace over the bridges."
+              }
+            },
+            {
+              "name": {
+                "de": "Elsässisches Museum",
+                "hu": "Elzászi Múzeum",
+                "ro": "Muzeul Alsacian",
+                "en": "Musée Alsacien"
+              },
+              "tip_5lang": {
+                "de": "Einblick in das traditionelle elsässische Leben.",
+                "hu": "Bepillantás a hagyományos elzászi életbe.",
+                "ro": "O incursiune în viața tradițională alsaciană.",
+                "en": "A glimpse into traditional Alsatian life."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Maison Kammerzell",
+                "tip": "Probieren Sie Sauerkraut in diesem historischen Gebäude."
+              },
+              {
+                "name": "Le Clou",
+                "tip": "Typische Winstub für echte elsässische Atmosphäre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maison Kammerzell",
+                "tip": "Kóstolja meg a choucroute-ot ebben a történelmi épületben."
+              },
+              {
+                "name": "Le Clou",
+                "tip": "Tipikus elzászi borozó autentikus hangulattal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Maison Kammerzell",
+                "tip": "Încercați choucroute în această clădire istorică."
+              },
+              {
+                "name": "Le Clou",
+                "tip": "Winstub tipic pentru o atmosferă alsaciană autentică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Maison Kammerzell",
+                "tip": "Try the legendary sauerkraut in this historic landmark."
+              },
+              {
+                "name": "Le Clou",
+                "tip": "A classic winstub for authentic Alsatian dining."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Quai de l'Ill",
+                "tip": "Ruhiger Spaziergang am Flussufer.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Barrage Vauban Terrasse",
+                "tip": "Sonnenuntergang mit Blick auf das Münster.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Quai de l'Ill",
+                "tip": "Csendes séta a folyóparton.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vauban-gát terasz",
+                "tip": "Naplemente kilátással a dómra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Quai de l'Ill",
+                "tip": "O plimbare liniștită pe malul râului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Terasa Barajului Vauban",
+                "tip": "Apus de soare cu vedere spre catedrală.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Quai de l'Ill",
+                "tip": "Quiet stroll along the river banks.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Barrage Vauban Terrace",
+                "tip": "Sunset spot with views of the Cathedral.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Galeries Lafayette",
+                "tip": "Französische Mode und Luxusartikel."
+              },
+              {
+                "name": "Rue des Orfèvres",
+                "tip": "Boutiquen und Delikatessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galeries Lafayette",
+                "tip": "Francia divat és luxuscikkek."
+              },
+              {
+                "name": "Rue des Orfèvres",
+                "tip": "Boutique-ok és ínyencségek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galeries Lafayette",
+                "tip": "Modă franceză și articole de lux."
+              },
+              {
+                "name": "Rue des Orfèvres",
+                "tip": "Boutique-uri și delicatese locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Galeries Lafayette",
+                "tip": "Classic French fashion and luxury items."
+              },
+              {
+                "name": "Rue des Orfèvres",
+                "tip": "Charming boutiques and gourmet shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Strasbourg ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
+              "Die Grande Île ist UNESCO-Weltkulturerbe.",
+              "Sonntags sind viele Geschäfte geschlossen.",
+              "Reservieren Sie Restaurants in La Petite France im Voraus."
+            ],
+            "hu": [
+              "Strasbourg nagyon gyalogosbarát, viseljen kényelmes cipőt.",
+              "A Grande Île az UNESCO Világörökség része.",
+              "Vasárnap a legtöbb üzlet zárva tart.",
+              "Érdemes előre asztalt foglalni a Kis Franciaország éttermeibe."
+            ],
+            "ro": [
+              "Strasbourg este un oraș pietonal, purtați încălțăminte comodă.",
+              "Insula Grande Île face parte din patrimoniul UNESCO.",
+              "Duminica majoritatea magazinelor sunt închise.",
+              "Rezervați din timp masa în restaurantele din Petite France."
+            ],
+            "en": [
+              "Strasbourg is very pedestrian-friendly, wear comfortable shoes.",
+              "The Grande Île is a UNESCO World Heritage site.",
+              "Most shops are closed on Sundays.",
+              "Book your restaurant table in La Petite France in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Start am Place Kléber unter den Arkaden. Mittag: Das Münster bietet den perfekten trockenen Rückzugsort; bestaunen Sie die astronomische Uhr. Nachmittag: Die Museen im Palais Rohan sind ideal bei Regen. Abend: Der überdachte Barrage Vauban und das gemütliche Musée Alsacien sorgen für einen trockenen Abschluss im historischen Zentrum.",
+            "hu": "Reggel: Kezdjen a Kléber téren az üzletek előtetői alatt. Délben: A Székesegyház belső tere lenyűgöző és száraz menedék. Délután: A Palais Rohan múzeumai ideálisak esős időben. Este: A fedett Barrage Vauban folyosóin sétálva érje el a Musée Alsacien épületét, elkerülve az elázást a szűk utcákban.",
+            "ro": "Dimineața: Începeți în Place Kléber sub arcadele magazinelor. Prânz: Catedrala oferă un adăpost spectaculos; vizitați ceasul astronomic. După-amiaza: Muzeele de la Palais Rohan sunt ideale pe ploaie. Seara: Traversați Barrage Vauban prin pasajul acoperit și vizitați Musée Alsacien pentru un final de zi uscat.",
+            "en": "Morning: Start at Kléber square, utilizing shop awnings to stay dry. Noon: The Cathedral offers a magnificent indoor retreat; explore the clock. Afternoon: Visit Palais Rohan's museums. Evening: Walk through the covered Barrage Vauban and end at the indoor Musée Alsacien, avoiding the rain in the old town."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele magazinelor pentru a vă proteja de ploaie.",
+                "en": "Use the shop awnings and arcades to stay dry."
+              }
+            },
+            {
+              "name": "Strasbourg Cathedral",
+              "tip_5lang": {
+                "de": "Perfekte Zeit, um die astronomische Uhr im Inneren zu sehen.",
+                "hu": "Tökéletes idő az asztrológiai óra megtekintésére belül.",
+                "ro": "Moment perfect pentru a vedea ceasul astronomic în interior.",
+                "en": "Perfect time to see the astronomical clock inside."
+              }
+            },
+            {
+              "name": "Palais Rohan",
+              "tip_5lang": {
+                "de": "Drei Museen unter einem Dach – ideal bei Dauerregen.",
+                "hu": "Három múzeum egy tető alatt – ideális tartós esőben.",
+                "ro": "Trei muzee sub același acoperiș – ideal pe ploaie.",
+                "en": "Three museums under one roof – ideal for heavy rain."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird rutschig.",
+                "hu": "Vigyázat a macskaköveken, esőben csúszóssá válnak.",
+                "ro": "Atenție pe pavaj, devine alunecos când este ud.",
+                "en": "Be careful on the cobblestones; they get slippery when wet."
+              }
+            },
+            {
+              "name": "Barrage Vauban",
+              "tip_5lang": {
+                "de": "Bleiben Sie im überdachten Durchgang statt auf der Panoramaterrasse.",
+                "hu": "Maradjon a fedett átjáróban a panorámaterasz helyett.",
+                "ro": "Rămâneți în pasajul acoperit în loc de terasa panoramică.",
+                "en": "Stay in the covered passage instead of the panoramic terrace."
+              }
+            },
+            {
+              "name": "Musée Alsacien",
+              "tip_5lang": {
+                "de": "Ein warmer, trockener Ort mit knarrenden Holzböden.",
+                "hu": "Meleg, száraz hely nyikorgó fapadlóval.",
+                "ro": "Un loc cald și uscat, cu podele de lemn tradiționale.",
+                "en": "A warm, dry place with charming creaky wooden floors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Der Pass'Alsace lohnt sich besonders für die Museen.",
+              "Die Straßenbahn A/B ist eine gute trockene Alternative.",
+              "Cafés in der Nähe des Münsters bieten gemütliche Pausen.",
+              "Regenschirme können in den engen Gassen unhandlich sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A Pass'Alsace kártya nagyon megéri a sok múzeumlátogatáshoz.",
+              "Az A és B villamosvonal remek száraz alternatíva.",
+              "A Székesegyház környéki kávézók ideálisak pihenésre.",
+              "Az esernyő a szűk sikátorokban néha útban lehet."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul vechi.",
+              "Pass'Alsace merită din plin pentru vizitarea muzeelor.",
+              "Tramvaiul A/B este o alternativă excelentă și uscată.",
+              "Cafenelele de lângă Catedrală sunt ideale pentru pauze.",
+              "Umbrelele pot fi greu de manevrat pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes for the historic cobblestones.",
+              "Pass'Alsace is great value for the many museum stops.",
+              "Trams A and B offer a dry way to cross the city center.",
+              "Cozy cafés near the Cathedral are perfect for rain breaks.",
+              "Umbrellas can be cumbersome in the very narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Genießen Sie die klare Winterluft am Kléber. Mittag: Das Münster ist festlich beleuchtet; wärmen Sie sich im Inneren auf. Nachmittag: Erkunden Sie das winterliche Palais Rohan. Abend: Sehen Sie den Frost auf der Ill vom Barrage Vauban und beenden Sie den Tag im beheizten Musée Alsacien.",
+            "hu": "Reggel: Élvezze a friss téli levegőt a Kléber téren. Délben: A Székesegyház fényeiben gyönyörködhet, bent pedig felmelegedhet. Délután: Fedezze fel a téli Palais Rohant. Este: Csodálja meg a zúzmarás Ill folyót a Barrage Vaubantól, majd melegedjen fel a Musée Alsacienben.",
+            "ro": "Dimineața: Bucurați-vă de aerul proaspăt de iarnă în Place Kléber. Prânz: Catedrala este luminată festiv; încălziți-vă în interior. După-amiaza: Explorați Palais Rohan în straie de iarnă. Seara: Admirați înghețul pe râul Ill de la Barrage Vauban și încheiați în căldura de la Musée Alsacien.",
+            "en": "Morning: Enjoy the crisp winter air at Place Kléber. Noon: The Cathedral's warm interior is a welcome escape from the cold. Afternoon: Explore the halls of Palais Rohan. Evening: Watch the winter frost on the river from Barrage Vauban and end in the heated Musée Alsacien."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Becher Glühwein oder Tee.",
+                "hu": "Igyon egy forró pohár forralt bort vagy teát.",
+                "ro": "Luați o cană fierbinte de vin fiert sau ceai.",
+                "en": "Grab a hot cup of mulled wine or tea to start."
+              }
+            },
+            {
+              "name": "Strasbourg Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die große Krippe, die im Winter aufgebaut ist.",
+                "hu": "Csodálja meg a nagy betlehemet, amelyet télen állítanak fel.",
+                "ro": "Admirați ieslea mare de Crăciun instalată iarna.",
+                "en": "Admire the large Nativity scene set up during winter."
+              }
+            },
+            {
+              "name": "Palais Rohan",
+              "tip_5lang": {
+                "de": "Die prunkvollen Räume sind im Winter gut beheizt.",
+                "hu": "A pompás termek télen jól fűtöttek.",
+                "ro": "Sălile somptuoase sunt bine încălzite iarna.",
+                "en": "The grand staterooms are well-heated in winter."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann hier besonders beißend sein.",
+                "hu": "A folyó felőli szél itt különösen metsző lehet.",
+                "ro": "Vântul de pe râu poate fi tăios aici iarna.",
+                "en": "The wind from the river can be quite biting here."
+              }
+            },
+            {
+              "name": "Barrage Vauban",
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Élvezze a naplementét 17:00 óra körül.",
+                "ro": "Experimentați apusul de soare în jurul orei 17:00.",
+                "en": "Experience the early winter sunset around 17:00."
+              }
+            },
+            {
+              "name": "Musée Alsacien",
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in elsässische Weihnachtstraditionen.",
+                "hu": "Merüljön el az elzászi karácsonyi hagyományokban.",
+                "ro": "Descoperiți tradițiile de Crăciun din Alsacia.",
+                "en": "Immerse yourself in traditional Alsatian Christmas folklore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist bei 0°C wichtig.",
+              "Die Sonne geht im Dezember bereits um 16:30 Uhr unter.",
+              "Viele Cafés bieten 'Vin Chaud' (Glühwein) an.",
+              "Vorsicht vor Eisglätte auf den kleinen Holzbrücken.",
+              "Das Münster schließt im Winter manchmal früher für Messen."
+            ],
+            "hu": [
+              "A réteges öltözködés elengedhetetlen 0°C körül.",
+              "A nap decemberben már 16:30-kor lemegy.",
+              "Sok kávézó kínál forró 'Vin Chaud'-t (forralt bort).",
+              "Vigyázzon a jegesedésre a kis fahidakon.",
+              "A Székesegyház télen néha korábban zár a misék miatt."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială la 0°C.",
+              "Soarele apune deja la ora 16:30 în decembrie.",
+              "Multe cafenele oferă 'Vin Chaud' (vin fiert).",
+              "Atenție la polei pe micile poduri de lemn.",
+              "Catedrala se poate închide mai devreme pentru slujbe."
+            ],
+            "en": [
+              "Dressing in layers is essential for 0°C weather.",
+              "The sun sets as early as 16:30 in December.",
+              "Many local cafés serve traditional 'Vin Chaud'.",
+              "Watch for ice on the small wooden pedestrian bridges.",
+              "The Cathedral may close earlier for winter services."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -634,6 +1078,450 @@
           "Watch out for one-way streets in the old town.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Strasbourg auf zwei Rädern! Wir starten im Zentrum und radeln nach der Münster-Besichtigung durch das malerische Petite France. Die gut ausgebauten Radwege führen uns direkt zum modernen Europaviertel.\n\nMittags erreichen wir den weitläufigen Parc de l'Orangerie. Hier können Sie zwischen alten Bäumen und Teichen entspannen, während Sie die Störche beobachten, das Symbol des Elsass.\n\nNachmittags geht es zurück Richtung Zentrum durch die Neustadt zum Place de la République. Die breiten Alleen dieses Viertels sind ideal zum Radfahren geeignet.\n\nDer Tag endet mit einer gemütlichen Fahrt entlang der Kanäle, wo die Spiegelungen der Stadt im Wasser eine ganz besondere Atmosphäre schaffen.",
+            "hu": "Fedezze fel Strasbourg-ot két keréken! A központból indulunk, a katedrális után a festői Kis Franciaországon át tekerünk. A kiváló kerékpárutak egyenesen a modern Európai negyedbe vezetnek.\n\nDélben elérjük a tágas Orangerie parkot. Itt az ősfák és tavak között pihenhetünk, miközben megfigyelhetjük a gólyákat, Elzász jelképeit.\n\nDélután visszakerekezünk a központ felé a Neustadt negyeden át a Köztársaság térre. A negyed széles sugárútjai ideálisak a biztonságos bringázáshoz.\n\nA napot egy kellemes folyóparti tekeréssel zárjuk a csatornák mentén, ahol a város fényei megcsillannak a vízen.",
+            "ro": "Descoperiți Strasbourg pe două roți! Pornim din centru și, după vizitarea catedralei, pedalăm prin pitorescul Petite France. Pistele de biciclete ne duc direct către modernul Cartier European.\n\nLa prânz ajungem în vastul Parc de l'Orangerie. Aici vă puteți relaxa printre arbori seculari și lacuri, observând berzele, simbolul Alsaciei.\n\nDupă-amiaza ne întoarcem spre centru prin cartierul Neustadt până în Piața Republicii. Bulevardele largi ale acestui district sunt ideale pentru ciclism.\n\nZiua se încheie cu o plimbare liniștită de-a lungul canalelor, unde reflexiile orașului în apă creează o atmosferă cu totul specială.",
+            "en": "Explore Strasbourg on two wheels! We start in the center, passing the Cathedral and cycling through picturesque Petite France. Excellent bike paths lead us straight to the modern European District.\n\nBy midday, we reach the spacious Parc de l'Orangerie. Here you can relax among ancient trees and ponds while spotting storks, the symbol of Alsace.\n\nIn the afternoon, we head back towards the center through the Neustadt district to Place de la République. The wide avenues here are perfect for easy cycling.\n\nEnd your day with a leisurely ride along the canals, where the city's reflections in the water create a truly special atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Kléber",
+                "hu": "Kléber tér",
+                "ro": "Piața Kléber",
+                "en": "Place Kléber"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für Radtouren.",
+                "hu": "Kiváló kiindulópont bringázáshoz.",
+                "ro": "Punct de plecare pentru tururi cu bicicleta.",
+                "en": "Great starting point for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Straßburger Münster",
+                "hu": "Katedrális",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad abstellen und den Innenraum genießen.",
+                "hu": "Tegye le a bringát és nézze meg belülről.",
+                "ro": "Lăsați bicicleta și vizitați interiorul.",
+                "en": "Park your bike and enjoy the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "La Petite France",
+                "hu": "Kis Franciaország",
+                "ro": "Petite France",
+                "en": "La Petite France"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht in den engen Gassen mit Fußgängern.",
+                "hu": "Vigyázzon a gyalogosokra a szűk utcákban.",
+                "ro": "Atenție la pietoni în zonele înguste.",
+                "en": "Be careful with pedestrians in narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Europaviertel",
+                "hu": "Európai negyed",
+                "ro": "Cartierul European",
+                "en": "European District"
+              },
+              "tip_5lang": {
+                "de": "Sitz des Europäischen Parlaments.",
+                "hu": "Az Európai Parlament székháza.",
+                "ro": "Sediul Parlamentului European.",
+                "en": "Home to the European Parliament."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de l'Orangerie",
+                "hu": "Orangerie park",
+                "ro": "Parcul Orangerie",
+                "en": "Parc de l'Orangerie"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Park zum Radfahren und Picknicken.",
+                "hu": "Gyönyörű park biciklizéshez és piknikhez.",
+                "ro": "Parc superb pentru ciclism și picnic.",
+                "en": "Beautiful park for cycling and picnicking."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Köztársaság tér",
+                "ro": "Piața Republicii",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Preußisches Viertel mit imposanten Gebäuden.",
+                "hu": "Porosz negyed lenyűgöző épületekkel.",
+                "ro": "Cartierul prusac cu clădiri impunătoare.",
+                "en": "Prussian district with imposing architecture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Au Crocodile",
+                "tip": "Gehobene Küche für Feinschmecker."
+              },
+              {
+                "name": "Boulangerie Westermann",
+                "tip": "Holen Sie sich einen Kougelhopf für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Au Crocodile",
+                "tip": "Csúcsgasztronómia ínyenceknek."
+              },
+              {
+                "name": "Boulangerie Westermann",
+                "tip": "Vegyen egy Kougelhopf-ot útravalónak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Au Crocodile",
+                "tip": "Bucătărie rafinată pentru gurmanzi."
+              },
+              {
+                "name": "Boulangerie Westermann",
+                "tip": "Luați un Kougelhopf pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Au Crocodile",
+                "tip": "Fine dining for true foodies."
+              },
+              {
+                "name": "Boulangerie Westermann",
+                "tip": "Grab a Kougelhopf to go."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de l'Orangerie See",
+                "tip": "Ruhiges Rudern auf dem See.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin des Deux Rives",
+                "tip": "Park an der Grenze zu Deutschland.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orangerie-tó",
+                "tip": "Csendes csónakázás a tavon.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin des Deux Rives",
+                "tip": "Park a német határnál.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Orangerie",
+                "tip": "O plimbare liniștită cu barca pe lac.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin des Deux Rives",
+                "tip": "Parc la granița cu Germania.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Orangerie Lake",
+                "tip": "Quiet rowing on the lake.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin des Deux Rives",
+                "tip": "Park right on the German border.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Le Comptoir de Mathilde",
+                "tip": "Lokale Süßigkeiten und Aufstriche."
+              },
+              {
+                "name": "Vélostation",
+                "tip": "Alles rund ums Fahrrad."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Comptoir de Mathilde",
+                "tip": "Helyi édességek és krémek."
+              },
+              {
+                "name": "Vélostation",
+                "tip": "Minden, ami kerékpár."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Comptoir de Mathilde",
+                "tip": "Dulciuri locale și creme tartinabile."
+              },
+              {
+                "name": "Vélostation",
+                "tip": "Totul pentru pasionații de ciclism."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Comptoir de Mathilde",
+                "tip": "Local sweets and spreads."
+              },
+              {
+                "name": "Vélostation",
+                "tip": "Everything for bike lovers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Strasbourg ist die Fahrradhauptstadt Frankreichs.",
+              "Nutzen Sie das Verleihsystem 'Vélhop'.",
+              "Achten Sie auf die Einbahnstraßen in der Altstadt.",
+              "Schließen Sie Ihr Fahrrad immer gut ab."
+            ],
+            "hu": [
+              "Strasbourg Franciaország kerékpáros fővárosa.",
+              "Használja a 'Vélhop' bérbringa-rendszert.",
+              "Figyeljen az egyirányú utcákra az óvárosban.",
+              "Mindig zárja le biztonságosan a kerékpárját."
+            ],
+            "ro": [
+              "Strasbourg este capitala ciclismului în Franța.",
+              "Folosiți sistemul de închiriere 'Vélhop'.",
+              "Atenție la străzile cu sens unic din centrul vechi.",
+              "Încuiați întotdeauna bicicleta cu grijă."
+            ],
+            "en": [
+              "Strasbourg is the cycling capital of France.",
+              "Use the 'Vélhop' bike rental system.",
+              "Watch out for one-way streets in the old town.",
+              "Always lock your bike securely."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Mit Regenponcho zum Kléber und Münster radeln. Mittag: In Petite France durch die nassen Gassen navigieren. Nachmittag: Schnelle Fahrt zum Europaviertel auf breiten Radwegen. Abend: Die Orangerie im Regen erleben und am Place de la République abschließen.",
+            "hu": "Reggel: Esőponchóban tekerjen a Kléber térhez és a Dómhoz. Délben: Navigáljon a vizes utcákon a Petite France negyedben. Délután: Gyors tekerés az Európai Negyedbe a széles utakon. Este: Az esős Orangerie park érintésével zárjon a République téren.",
+            "ro": "Dimineața: Pedalați spre Kléber și Catedrală cu o pelerină. Prânz: Navigați pe străzile ude din Petite France. După-amiaza: O cursă rapidă spre Cartierul European pe piste late. Seara: Experimentați Orangerie pe ploaie și încheiați la République.",
+            "en": "Morning: Cycle to Kléber and the Cathedral with a rain poncho. Noon: Navigate the wet alleys of Petite France. Afternoon: A quick ride to the European District on wide paths. Evening: Experience the rainy Orangerie park and finish at République."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf den glatten Fliesen.",
+                "hu": "Óvatosan fékezzen a csúszós burkolaton.",
+                "ro": "Frânați cu atenție pe plăcile lucioase.",
+                "en": "Brake gently on the smooth, wet floor tiles."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer hinter der Post.",
+                "hu": "Használja a posta mögötti kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete din spatele poștei.",
+                "en": "Use the bike racks located behind the post office."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Straßenbahnschienen bei Nässe.",
+                "hu": "Kerülje el a villamossíneket nedves időben.",
+                "ro": "Evitați șinele de tramvai când sunt ude.",
+                "en": "Strictly avoid tram tracks when they are wet."
+              }
+            },
+            {
+              "name": "European District",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier auf den offenen Flächen wichtig.",
+                "hu": "A szélálló ruházat fontos itt a nyílt tereken.",
+                "ro": "Hainele rezistente la vânt sunt necesare în spațiile deschise.",
+                "en": "Windproof gear is essential in these open areas."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden, Schutzbleche sind nötig.",
+                "hu": "Az utakon tócsák lehetnek, sárvédő elengedhetetlen.",
+                "ro": "Pot apărea bălți pe alei, aripile sunt necesare.",
+                "en": "Paths may have puddles; fenders are a must."
+              }
+            },
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Gute Unterstellmöglichkeiten an der Tramstation.",
+                "hu": "Jó várakozási lehetőség a villamosmegálló fedele alatt.",
+                "ro": "Adăpost bun disponibil la stația de tramvai.",
+                "en": "Good shelter available at the tram station hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vélhop-Räder haben meist gute Schutzbleche.",
+              "Vermeiden Sie abruptes Bremsen auf Kopfsteinpflaster.",
+              "Die Sicht kann durch Regen stark eingeschränkt sein.",
+              "Nutzen Sie die Kanalseitenwege, sie sind oft weniger befahren.",
+              "Tragen Sie eine neongelbe Weste für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A Vélhop kerékpárok általában jó sárvédővel rendelkeznek.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "A látási viszonyok korlátozottak lehetnek az esőben.",
+              "Használja a csatornaparti utakat, ott kevesebb az autó.",
+              "Viseljen láthatósági mellényt a jobb észlelhetőségért."
+            ],
+            "ro": [
+              "Bicicletele Vélhop au de obicei aripi bune.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Vizibilitatea poate fi redusă semnificativ de ploaie.",
+              "Folosiți pistele de pe malul canalului, sunt mai libere.",
+              "Purtați o vestă reflectorizantă pentru vizibilitate."
+            ],
+            "en": [
+              "Vélhop rental bikes usually have good fenders.",
+              "Avoid sudden braking on wet cobblestones.",
+              "Visibility can be significantly reduced by rain.",
+              "Use the canal-side paths; they are often less busy.",
+              "Wear high-visibility gear to be seen by drivers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Kalte Fahrt zum Münster bei Frost. Mittag: Kurzer Stopp in Petite France. Nachmittag: Brise am Europaparlament genießen. Abend: Die gefrorenen Teiche in der Orangerie sehen und vor Dunkelheit zurück zur République radeln.",
+            "hu": "Reggel: Hideg tekerés a Dómhoz fagyos időben. Délben: Rövid megálló a Petite France negyedben. Délután: Élvezze a szelet az Európai Parlamentnél. Este: Nézze meg a fagyott tavakat az Orangerie-ben, és sötétedés előtt érjen a République térre.",
+            "ro": "Dimineața: Cursă rece spre Catedrală pe ger. Prânz: Oprire scurtă în Petite France. După-amiaza: Bucurați-vă de briza de la Parlamentul European. Seara: Vedeți lacurile înghețate din Orangerie și pedalați înapoi înainte de întuneric.",
+            "en": "Morning: Cold ride to the Cathedral in frosty weather. Noon: Brief stop in Petite France. Afternoon: Enjoy the breeze at the European Parliament. Evening: See the frozen ponds in Orangerie and cycle back before dark."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe.",
+                "hu": "Mindenképpen viseljen szélálló kesztyűt.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt.",
+                "en": "Be sure to wear windproof gloves."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad schnell an, um Hände zu wärmen.",
+                "hu": "Gyorsan láncolja le a gépet, hogy melegedni tudjon.",
+                "ro": "Legat bicicleta rapid pentru a vă încălzi mâinile.",
+                "en": "Lock your bike quickly to warm your hands inside."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Achtung bei Frost auf den Holzbrücken.",
+                "hu": "Vigyázat, a fahidak jegesek lehetnek.",
+                "ro": "Atenție la gheață pe podurile de lemn.",
+                "en": "Watch out for black ice on wooden bridges."
+              }
+            },
+            {
+              "name": "European District",
+              "tip_5lang": {
+                "de": "Der kalte Wind vom Rhein ist hier spürbar.",
+                "hu": "A Rajna felőli hideg szél itt erősen érezhető.",
+                "ro": "Vântul rece de la Rin se simte puternic aici.",
+                "en": "The cold wind from the Rhine is noticeable here."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Die Wege können bei Minusgraden rutschig sein.",
+                "hu": "Az utak fagypont alatt csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase la temperaturi negative.",
+                "en": "Paths can be slippery at sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Das Licht der Bibliothek wärmt optisch am Abend.",
+                "hu": "A könyvtár fényei meleg hangulatot árasztanak este.",
+                "ro": "Luminile bibliotecii oferă o atmosferă caldó seara.",
+                "en": "The library lights offer a warm glow in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte.",
+              "Tragen Sie ein Stirnband unter dem Helm gegen den Wind.",
+              "Akkus von E-Bikes entladen sich im Winter schneller.",
+              "Beleuchtung ist ab 16:30 Uhr zwingend erforderlich.",
+              "Vermeiden Sie die Brücken, wenn diese nicht gestreut sind."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, hidegben csökken.",
+              "Viseljen fejpántot a sisak alatt a szél ellen.",
+              "Az e-bike akkumulátorok gyorsabban merülnek télen.",
+              "A világítás 16:30-tól kötelező és létfontosságú.",
+              "Kerülje a hidakat, ha nincsenek felsózva."
+            ],
+            "ro": [
+              "Verificați presiunea roților, scade la frig.",
+              "Purtați o bentiță sub cască împotriva vântului.",
+              "Bateriile e-bike se descarcă mai repede iarna.",
+              "Luminile sunt obligatorii începând cu ora 16:30.",
+              "Evitați podurile dacă nu au fost curățate de gheață."
+            ],
+            "en": [
+              "Check tire pressure; it drops in cold weather.",
+              "Wear a headband under your helmet against the wind.",
+              "E-bike batteries drain faster in winter temperatures.",
+              "Lights are mandatory and vital after 16:30.",
+              "Avoid using bridges if they haven't been salted."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -925,6 +1813,418 @@
           "Check if you need a 'Crit'Air' environmental sticker.",
           "Fuel is often cheaper across the border in Germany."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir nicht nur das Zentrum, sondern auch die grüne Peripherie. Nach einem Morgenspaziergang in Petite France fahren wir zum Orangerie-Park, wo das Parken einfacher ist als in der Altstadt.\n\nMittags genießen wir die weiten Flächen des Parks. Danach führt uns die Fahrt zum Garten der zwei Ufer, einem Symbol der deutsch-französischen Freundschaft direkt am Rhein.\n\nNachmittags überqueren wir die beeindruckende Brücke nach Kehl. Es ist faszinierend, wie nahtlos man hier zwischen zwei Ländern wechseln kann.\n\nDer Tag endet mit der Rückfahrt nach Strasbourg, während wir den Blick auf den Fluss und die modernen Gebäude der EU-Institutionen genießen.",
+            "hu": "Autóval nemcsak a központot, hanem a zöldövezetet is bejárjuk. A Kis Franciaországban tett reggeli séta után az Orangerie parkhoz hajtunk, ahol könnyebb parkolni, mint az óvárosban.\n\nDélben élvezzük a park tágas tereit. Ezután a Két part kertjéhez autózunk, amely a francia-német barátság jelképe közvetlenül a Rajna partján.\n\nDélután áthajtunk a lenyűgöző hídon Kehl-be. Lenyűgöző, milyen észrevétlenül válthatunk országot ezen a szakaszon.\n\nA napot a Strasbourgba való visszatéréssel zárjuk, miközben megcsodáljuk a folyót és az EU-intézmények modern épületeit.",
+            "ro": "Cu mașina explorăm nu doar centrul, ci și zonele verzi periferice. După o plimbare matinală în Petite France, mergem către Parcul Orangerie, unde parcarea este mai facilă decât în centrul vechi.\n\nLa prânz ne bucurăm de spațiile vaste ale parcului. Apoi, drumul ne poartă către Grădina celor două maluri, un simbol al prieteniei franco-germane pe malul Rinului.\n\nDupă-amiaza traversăm podul impresionant către Kehl. Este fascinant cât de ușor se poate trece dintr-o țară în alta în această zonă.\n\nZiua se încheie cu întoarcerea în Strasbourg, admirând râul și clădirile moderne ale instituțiilor europene.",
+            "en": "By car, we explore both the center and the green outskirts. After a morning stroll in Petite France, we drive to the Orangerie Park, where parking is more convenient than in the old town.\n\nBy midday, enjoy the wide spaces of the park. Next, we head to the Garden of the Two Shores, a symbol of Franco-German friendship right on the Rhine.\n\nIn the afternoon, we drive across the bridge to Kehl. It's fascinating how seamlessly you can cross between two countries here.\n\nEnd your day with the drive back to Strasbourg, enjoying views of the river and the modern EU institution buildings."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Petite France",
+                "hu": "Kis Franciaország",
+                "ro": "Petite France",
+                "en": "La Petite France"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Petite France' nutzen.",
+                "hu": "Használja a 'Petite France' parkolóházat.",
+                "ro": "Folosiți parcarea 'Petite France'.",
+                "en": "Use the 'Petite France' parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Straßburger Münster",
+                "hu": "Katedrális",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Zentrum ist weitgehend autofrei.",
+                "hu": "A belváros nagy része autómentes.",
+                "ro": "Centrul este în mare parte pietonal.",
+                "en": "The center is mostly car-free."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de l'Orangerie",
+                "hu": "Orangerie park",
+                "ro": "Parcul Orangerie",
+                "en": "Parc de l'Orangerie"
+              },
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze am Parkrand.",
+                "hu": "Ingyenes parkolás a park szélén.",
+                "ro": "Parcare gratuită la marginea parcului.",
+                "en": "Free parking spots around the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Deux Rives",
+                "hu": "Két part kertje",
+                "ro": "Grădina celor două maluri",
+                "en": "Jardin des Deux Rives"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Fußgängerbrücke nach Kehl.",
+                "hu": "Sétáljon át a gyalogos hídon Kehl-be.",
+                "ro": "Traversați podul pietonal către Kehl.",
+                "en": "Walk across the pedestrian bridge to Kehl."
+              }
+            },
+            {
+              "name": {
+                "de": "Kehl (Deutschland)",
+                "hu": "Kehl (Németország)",
+                "ro": "Kehl (Germania)",
+                "en": "Kehl (Germany)"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Ausflug über die Grenze.",
+                "hu": "Rövid kirándulás a határon túlra.",
+                "ro": "O scurtă incursiune peste graniță.",
+                "en": "A quick trip across the border."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Brasserie de l'Orangerie",
+                "tip": "Essen im Grünen mit schöner Terrasse."
+              },
+              {
+                "name": "Au Pont Corbeau",
+                "tip": "Rustikales Essen nahe der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brasserie de l'Orangerie",
+                "tip": "Ebéd a zöldben, szép terasszal."
+              },
+              {
+                "name": "Au Pont Corbeau",
+                "tip": "Házias ételek az óváros szélén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brasserie de l'Orangerie",
+                "tip": "Masă în mijlocul naturii, cu terasă."
+              },
+              {
+                "name": "Au Pont Corbeau",
+                "tip": "Preparate rustice lângă centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Brasserie de l'Orangerie",
+                "tip": "Dining in the park with a nice terrace."
+              },
+              {
+                "name": "Au Pont Corbeau",
+                "tip": "Rustic dining near the old town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Passerelle des Deux Rives",
+                "tip": "Aussicht auf den Rhein.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Forêt de la Robertsau",
+                "tip": "Natur pur am Stadtrand.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Két part hídja",
+                "tip": "Kilátás a Rajnára.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Robertsau erdő",
+                "tip": "Tiszta természet a város szélén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podul celor două maluri",
+                "tip": "Vedere asupra Rinului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pădurea Robertsau",
+                "tip": "Natură pură la marginea orașului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Two Shores Bridge",
+                "tip": "Great views over the Rhine.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Robertsau Forest",
+                "tip": "Pure nature on the city outskirts.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Place des Halles",
+                "tip": "Großes Einkaufszentrum mit Parkplatz."
+              },
+              {
+                "name": "Kehl Fußgängerzone",
+                "tip": "Günstiges Shopping in Deutschland."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place des Halles",
+                "tip": "Nagy bevásárlóközpont parkolóval."
+              },
+              {
+                "name": "Kehl sétálóutca",
+                "tip": "Kedvező vásárlási lehetőség Németországban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Place des Halles",
+                "tip": "Centru comercial mare cu parcare."
+              },
+              {
+                "name": "Zona pietonală Kehl",
+                "tip": "Cumpărături avantajoase în Germania."
+              }
+            ],
+            "en": [
+              {
+                "name": "Place des Halles",
+                "tip": "Large shopping mall with parking."
+              },
+              {
+                "name": "Kehl Pedestrian Zone",
+                "tip": "Good shopping deals in Germany."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die P+R Parkplätze (Park and Ride).",
+              "Die Innenstadt (Grande Île) ist für den Durchgangsverkehr gesperrt.",
+              "Achten Sie auf die Umweltplakette 'Crit'Air'.",
+              "Benzin ist in Deutschland oft günstiger."
+            ],
+            "hu": [
+              "Használja a P+R (Park and Ride) parkolókat.",
+              "A belváros (Grande Île) le van zárva az átmenő forgalom elől.",
+              "Figyeljen a 'Crit'Air' környezetvédelmi matricára.",
+              "Az üzemanyag gyakran olcsóbb Németországban."
+            ],
+            "ro": [
+              "Folosiți parcările P+R (Park and Ride).",
+              "Centrul istoric (Grande Île) este închis traficului de tranzit.",
+              "Aveți nevoie de vinieta ecologică 'Crit'Air'.",
+              "Combustibilul este adesea mai ieftin în Germania."
+            ],
+            "en": [
+              "Use the P+R (Park and Ride) parking lots.",
+              "The city center (Grande Île) is closed to transit traffic.",
+              "Check if you need a 'Crit'Air' environmental sticker.",
+              "Fuel is often cheaper across the border in Germany."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Fahrt zur Petite France, Parken im Parkhaus. Mittag: Kurzer Spaziergang zum Münster. Nachmittag: Fahrt durch den Regen zur Orangerie und zum Jardin des Deux Rives. Abend: Besuch in Kehl (Deutschland) zum Einkaufen bei jedem Wetter.",
+            "hu": "Reggel: Autózás a Petite France-hoz, parkolás garázsban. Délben: Rövid séta a Székesegyházhoz. Délután: Gurulás az esőben az Orangerie-hez és a Jardin des Deux Rives parkhoz. Este: Látogatás Kehlbe (Németország) fedett vásárlási lehetőségekért.",
+            "ro": "Dimineața: Condus spre Petite France, parcare acoperită. Prânz: Scurtă plimbare la Catedrală. După-amiaza: Mers prin ploaie spre Orangerie și Jardin des Deux Rives. Seara: Vizită în Kehl (Germania) pentru cumpărături la adăpost.",
+            "en": "Morning: Drive to Petite France; park in a multi-storey garage. Noon: Short walk to the Cathedral. Afternoon: Drive through the rain to Orangerie and Jardin des Deux Rives. Evening: Visit Kehl (Germany) for sheltered shopping."
+          },
+          "stops": [
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Petite France' für trockenes Aussteigen.",
+                "hu": "Használja a 'Petite France' parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea 'Petite France' pentru a coborî la uscat.",
+                "en": "Use 'Petite France' parking garage to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Parkhaus 'Gutenberg' ist am nächsten zum Eingang.",
+                "hu": "A 'Gutenberg' parkolóház van legközelebb a bejárathoz.",
+                "ro": "Parcarea 'Gutenberg' este cea mai apropiată de intrare.",
+                "en": "Parking 'Gutenberg' is the closest to the main entrance."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Allee de l'Orangerie nutzen.",
+                "hu": "Használja az Orangerie sugárút menti parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare de pe Aleea Orangerie.",
+                "en": "Use the parking spots along Allée de l'Orangerie."
+              }
+            },
+            {
+              "name": "Jardin des Deux Rives",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei starkem Regen oft matschig.",
+                "hu": "A parkoló heves esőzéskor gyakran sáros.",
+                "ro": "Parcarea este adesea noroioasă la ploi abundente.",
+                "en": "The parking area can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Kehl (Germany)",
+              "tip_5lang": {
+                "de": "Große überdachte Einkaufszentren direkt an der Grenze.",
+                "hu": "Nagy fedett bevásárlóközpontok közvetlenül a határon.",
+                "ro": "Centre comerciale mari acoperite chiar la graniță.",
+                "en": "Large covered shopping malls right at the border."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Umweltplakette 'Crit'Air' für das Zentrum.",
+              "Parkhäuser sind im Regen die beste Wahl.",
+              "Die Europabrücke nach Kehl kann bei Regen stauanfällig sein.",
+              "Vermeiden Sie das Fahren durch die engen Gassen im Zentrum.",
+              "Schalten Sie bei starkem Regen das Abblendlicht ein."
+            ],
+            "hu": [
+              "Ügyeljen a 'Crit'Air' környezetvédelmi matricára a központban.",
+              "Esőben a parkolóházak a legjobb választások.",
+              "A Kehlbe vezető Európa-híd esőben dugóra hajlamos.",
+              "Kerülje az autózást a szűk belvárosi utcákban.",
+              "Heves esőben kapcsolja be a tompított fényszórót."
+            ],
+            "ro": [
+              "Atenție la vinieta ecologică 'Crit'Air' pentru centru.",
+              "Parcările etajate sunt cea mai bună alegere pe ploaie.",
+              "Podul Europa spre Kehl poate fi aglomerat pe ploaie.",
+              "Evitați condusul pe străzile înguste din centru.",
+              "Aprindeți faza scurtă în caz de ploaie abundentă."
+            ],
+            "en": [
+              "Ensure you have the 'Crit'Air' sticker for the city center.",
+              "Multi-storey car parks are best during rainy weather.",
+              "The Europe Bridge to Kehl can be prone to traffic in rain.",
+              "Avoid driving through the narrowest streets of the center.",
+              "Turn on your dipped headlights during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Geheizte Fahrt zur Petite France. Mittag: Winterstimmung am Münster. Nachmittag: Fahrt durch die verschneite oder frostige Orangerie. Abend: Grenzübergang nach Kehl für einen gemütlichen Winterabend.",
+            "hu": "Reggel: Fűtött autózás a Petite France-hoz. Délben: Téli hangulat a Székesegyháznál. Délután: Gurulás a havas vagy zúzmarás Orangerie parkon át. Este: Határátlépés Kehlbe egy kellemes téli estéhez.",
+            "ro": "Dimineața: Condus cu căldură spre Petite France. Prânz: Atmosferă de iarnă la Catedrală. După-amiaza: Mers prin Orangerie înghețată sau înzăpezită. Seara: Trecerea graniței spre Kehl pentru o seară de iarnă.",
+            "en": "Morning: Heated drive to Petite France. Noon: Winter atmosphere at the Cathedral. Afternoon: Drive through the frosty Orangerie park. Evening: Cross the border to Kehl for a cozy winter evening."
+          },
+          "stops": [
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Zufahrtswegen.",
+                "hu": "Vigyázat a csúszós utakon a behajtásnál.",
+                "ro": "Atenție la polei pe drumurile de acces.",
+                "en": "Watch for slippery road surfaces on approach."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Parkhaus 'Austerlitz' bietet Schutz vor Frost.",
+                "hu": "Az 'Austerlitz' parkolóház védelmet nyújt a fagy ellen.",
+                "ro": "Parcarea 'Austerlitz' oferă protecție împotriva gerului.",
+                "en": "Parking 'Austerlitz' offers protection from the frost."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den frostigen See vom Auto aus.",
+                "hu": "Élvezze a kilátást a fagyos tóra az autóból.",
+                "ro": "Admirați lacul înghețat din confortul mașinii.",
+                "en": "Enjoy the view of the frosty lake from your car."
+              }
+            },
+            {
+              "name": "Jardin des Deux Rives",
+              "tip_5lang": {
+                "de": "Schöner Blick auf die schneebedeckte Brücke.",
+                "hu": "Szép kilátás a hóval borított hídra.",
+                "ro": "Vedere frumoasă spre podul acoperit de zăpadă.",
+                "en": "Great view of the snow-dusted bridge structure."
+              }
+            },
+            {
+              "name": "Kehl (Germany)",
+              "tip_5lang": {
+                "de": "Günstigeres Benzin oft auf der deutschen Seite.",
+                "hu": "Gyakran olcsóbb az üzemanyag a német oldalon.",
+                "ro": "Benzină mai ieftină adesea pe partea germană.",
+                "en": "Fuel is often cheaper on the German side of the border."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region im Winter Pflicht.",
+              "Achten Sie auf gefrierende Nässe auf den Brücken.",
+              "Die Parkhäuser im Zentrum füllen sich im Advent schnell.",
+              "Halten Sie Enteiser-Spray im Auto bereit.",
+              "Die Brücken über den Rhein können im Winter windig und glatt sein."
+            ],
+            "hu": [
+              "A téli gumi ebben a régióban télen kötelező.",
+              "Ügyeljen a hidakon a lefagyásokra.",
+              "A belvárosi parkolóházak advent idején hamar megtelnek.",
+              "Legyen az autóban jégoldó spray.",
+              "A Rajna-hidak télen szelesek és csúszósak lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Atenție la polei pe podurile peste râu.",
+              "Parcările din centru se umplu rapid în perioada Adventului.",
+              "Păstrați un spray de dezghețare în mașină.",
+              "Podurile peste Rin pot fi vântoase și alunecoase iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region during winter.",
+              "Watch for black ice on the river bridges.",
+              "City center garages fill up very quickly during Advent.",
+              "Keep a de-icer spray ready in your vehicle.",
+              "The Rhine bridges can be very windy and slick in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1216,34 +2516,419 @@
           "Validate your ticket on the platform before boarding.",
           "The tram lines are clearly color-coded."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Strasbourg besitzt eines der modernsten Straßenbahnnetze Europas. Wir starten an der Place Kléber, dem Herzstück des Systems, und fahren bequem zum Münster. Die gläsernen Wagen bieten tolle Ausblicke.\n\nMittags führt uns die Fahrt nach Petite France. Mit den öffentlichen Verkehrsmitteln erreichen wir danach schnell den Norden der Stadt, wo die imposanten Gebäude des Europaparlaments liegen.\n\nNachmittags entspannen wir im Orangerie-Park. Die Anbindung mit Bus und Bahn ist hervorragend und ermöglicht einen stressfreien Wechsel zwischen Kultur und Natur.\n\nDer Tag endet mit einer Fahrt zurück ins Zentrum, wo Sie das geschäftige Treiben der Stadt beobachten können, während Sie bequem zum Ausgangspunkt zurückkehren.",
+            "hu": "Strasbourg Európa egyik legmodernebb villamoshálózatával büszkélkedhet. A Kléber téren kezdünk, a hálózat szívében, és kényelmesen utazunk a katedrálishoz. Az üvegfalú kocsikból remek a kilátás.\n\nDélben a Kis Franciaországba látogatunk. A tömegközlekedéssel gyorsan elérjük a város északi részét, ahol az Európai Parlament monumentális épületei találhatók.\n\nDélután az Orangerie parkban pihenünk. A kiváló busz- és villamoskapcsolat stresszmentes átmenetet biztosít a kultúra és a természet között.\n\nA napot a központba való visszatéréssel zárjuk, miközben a villamos ablakából figyeljük a város lüktetését, kényelmesen érkezve vissza a kiindulópontra.",
+            "ro": "Strasbourg are una dintre cele mai moderne rețele de tramvai din Europa. Începem în Piața Kléber, inima sistemului, și călătorim confortabil către Catedrală. Vagoanele cu geamuri mari oferă vederi superbe.\n\nLa prânz mergem în Petite France. Cu transportul public ajungem rapid în nordul orașului, unde se află clădirile impunătoare ale Parlamentului European.\n\nDupă-amiaza ne relaxăm în Parcul Orangerie. Conexiunile excelente cu autobuzul și tramvaiul permit o tranziție fără stres între cultură și natură.\n\nZiua se încheie cu întoarcerea în centru, unde puteți observa agitația orașului din confortul tramvaiului, revenind la punctul de plecare.",
+            "en": "Strasbourg boasts one of Europe's most modern tram networks. We start at Place Kléber, the heart of the system, and travel comfortably to the Cathedral. The sleek, glass-walled trams offer great city views.\n\nBy midday, we visit Petite France. Public transport then whisks us to the north of the city to see the impressive European Parliament buildings.\n\nIn the afternoon, relax in the Orangerie Park. Excellent bus and tram links ensure a stress-free transition between historic culture and green nature.\n\nEnd your day with a smooth ride back to the center, watching the city pulse from your tram window as you return to your starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Kléber (Homme de Fer)",
+                "hu": "Kléber tér",
+                "ro": "Piața Kléber",
+                "en": "Place Kléber"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für alle Straßenbahnen.",
+                "hu": "Központi villamoscsomópont.",
+                "ro": "Principalul nod pentru tramvaie.",
+                "en": "Main tram interchange station."
+              }
+            },
+            {
+              "name": {
+                "de": "Straßburger Münster",
+                "hu": "Katedrális",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Broglie' oder 'Langstross'.",
+                "hu": "Szálljon le a 'Broglie' vagy 'Langstross' megállónál.",
+                "ro": "Coborâți la stația 'Broglie' sau 'Langstross'.",
+                "en": "Get off at 'Broglie' or 'Langstross' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Petite France",
+                "hu": "Kis Franciaország",
+                "ro": "Petite France",
+                "en": "La Petite France"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Alt Winmärik' (Vieux Marché aux Vins).",
+                "hu": "Az 'Alt Winmärik' megállótól pár perc séta.",
+                "ro": "Stația 'Alt Winmärik' este cea mai apropiată.",
+                "en": "The 'Alt Winmärik' stop is the closest."
+              }
+            },
+            {
+              "name": {
+                "de": "Europäisches Parlament",
+                "hu": "Európai Parlament",
+                "ro": "Parlamentul European",
+                "en": "European Parliament"
+              },
+              "tip_5lang": {
+                "de": "Tram E direkt bis zur Haltestelle 'Parlement'.",
+                "hu": "E villamos közvetlenül a 'Parlement' megállóig.",
+                "ro": "Tramvaiul E merge direct la stația 'Parlement'.",
+                "en": "Tram line E goes directly to 'Parlement' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de l'Orangerie",
+                "hu": "Orangerie park",
+                "ro": "Parcul Orangerie",
+                "en": "Parc de l'Orangerie"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Bus oder kurzer Spaziergang vom Parlament.",
+                "hu": "Busszal vagy rövid sétával a Parlamenttől.",
+                "ro": "Cu autobuzul sau o scurtă plimbare de la Parlament.",
+                "en": "By bus or a short walk from the Parliament."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Gruber",
+                "tip": "Traditionelle Küche in einem wunderschönen Haus."
+              },
+              {
+                "name": "S'kaffekann",
+                "tip": "Nettes Café für eine Pause zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Gruber",
+                "tip": "Hagyományos konyha egy gyönyörű épületben."
+              },
+              {
+                "name": "S'kaffekann",
+                "tip": "Kedves kávézó egy délutáni szünethez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Gruber",
+                "tip": "Bucătărie tradițională într-o clădire superbă."
+              },
+              {
+                "name": "S'kaffekann",
+                "tip": "O cafenea drăguță pentru o pauză relaxantă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Gruber",
+                "tip": "Traditional dining in a beautiful historic house."
+              },
+              {
+                "name": "S'kaffekann",
+                "tip": "Charming cafe for a quick break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de la Citadelle",
+                "tip": "Ruhiger Park abseits der Touristenpfade.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Ufer der Ill am Parlament",
+                "tip": "Moderne Architektur und Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citadella park",
+                "tip": "Csendes park a turistaútvonalakon kívül.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Ill-part a Parlamentnél",
+                "tip": "Modern építészet és vízparti nyugalom.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Citadelle",
+                "tip": "Parc liniștit în afara traseelor turistice.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Malul râului Ill lângă Parlament",
+                "tip": "Arhitectură modernă și liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Citadelle Park",
+                "tip": "Quiet park away from the main tourist crowds.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Ill banks near Parliament",
+                "tip": "Modern architecture meets calm waters.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rivetoile",
+                "tip": "Modernes Shoppingcenter an den Docks."
+              },
+              {
+                "name": "Bücherflohmarkt",
+                "tip": "Oft am Place de l'Hôpital."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rivetoile",
+                "tip": "Modern bevásárlóközpont a kikötőnél."
+              },
+              {
+                "name": "Könyvpiac",
+                "tip": "Gyakran a Place de l'Hôpital téren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rivetoile",
+                "tip": "Centru comercial modern în zona docurilor."
+              },
+              {
+                "name": "Târg de cărți",
+                "tip": "Adesea în Piața Spitalului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rivetoile",
+                "tip": "Modern shopping mall by the docks."
+              },
+              {
+                "name": "Book flea market",
+                "tip": "Often found at Place de l'Hôpital."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine 'Strasbourg Pass' für Rabatte.",
+              "Ein Ticket gilt für Tram und Bus.",
+              "Entwerten Sie Ihr Ticket vor dem Einsteigen (am Bahnsteig).",
+              "Die Tramlinien sind farblich gekennzeichnet."
+            ],
+            "hu": [
+              "Vásároljon 'Strasbourg Pass'-t a kedvezményekhez.",
+              "A jegy érvényes a villamosra és a buszra is.",
+              "Érvényesítse jegyét a peronon beszállás előtt.",
+              "A villamosvonalak színkóddal vannak ellátva."
+            ],
+            "ro": [
+              "Cumpărați un 'Strasbourg Pass' pentru reduceri.",
+              "Un bilet este valabil atât pentru tramvai, cât și pentru autobuz.",
+              "Validați biletul pe peron înainte de a urca.",
+              "Liniile de tramvai sunt codificate prin culori."
+            ],
+            "en": [
+              "Buy a 'Strasbourg Pass' for various discounts.",
+              "A single ticket is valid for both tram and bus.",
+              "Validate your ticket on the platform before boarding.",
+              "The tram lines are clearly color-coded."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Mit der Tram A/D zum Kléber fahren. Mittag: Kurzer Weg zum Münster im Regen. Nachmittag: Fahrt mit der Linie E zum Europaparlament. Abend: Buslinie L1 bringt Sie trocken zur Orangerie und zurück ins Zentrum.",
+            "hu": "Reggel: Utazzon az A/D villamossal a Kléber térhez. Délben: Rövid séta az esőben a Dómhoz. Délután: E vonal az Európai Parlamenthez. Este: Az L1-es busz szárazon viszi az Orangerie-hez, majd vissza a központba.",
+            "ro": "Dimineața: Luați tramvaiul A/D spre Kléber. Prânz: Scurt drum prin ploaie spre Catedrală. După-amiaza: Linia E spre Parlamentul European. Seara: Autobuzul L1 vă duce la Orangerie și înapoi la centru, la adăpost.",
+            "en": "Morning: Take tram A/D to Kléber square. Noon: Short wet walk to the Cathedral. Afternoon: Line E to the European Parliament. Evening: Bus L1 takes you dry to Orangerie and back to the center."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt 'Homme de Fer' ist überdacht.",
+                "hu": "A 'Homme de Fer' központi átszállóhely fedett.",
+                "ro": "Nodul central 'Homme de Fer' este acoperit.",
+                "en": "The 'Homme de Fer' transit hub is mostly covered."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle 'Langstross Grand' Rue' nutzen.",
+                "hu": "Használja a 'Langstross Grand' Rue' megállót.",
+                "ro": "Folosiți stația 'Langstross Grand' Rue'.",
+                "en": "Use the 'Langstross Grand' Rue' stop for easy access."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Haltestelle 'Alt Winmärik' ist der beste Zugang.",
+                "hu": "Az 'Alt Winmärik' megálló a legjobb bejárat.",
+                "ro": "Stația 'Alt Winmärik' este cea mai bună cale de acces.",
+                "en": "The 'Alt Winmärik' stop is the best entry point."
+              }
+            },
+            {
+              "name": "European Parliament",
+              "tip_5lang": {
+                "de": "Moderne, windgeschützte Tramstation direkt davor.",
+                "hu": "Modern, szélvédett villamosmegálló közvetlenül előtte.",
+                "ro": "Stație de tramvai modernă și protejată chiar în față.",
+                "en": "Modern, wind-sheltered tram station right in front."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Bus L1 hält direkt am Parkeingang.",
+                "hu": "Az L1-es busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul L1 oprește chiar la intrarea în parc.",
+                "en": "Bus L1 stops right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die CTS-App für Echtzeit-Infos bei Regen.",
+              "Tagestickets '24h Solo' gelten für Tram und Bus.",
+              "Die Tramstationen im Zentrum sind meist gut überdacht.",
+              "Trams fahren bei starkem Regen oft etwas langsamer.",
+              "Einige Buslinien können bei Regen Umwege fahren."
+            ],
+            "hu": [
+              "Használja a CTS alkalmazást valós idejű infókért.",
+              "A '24h Solo' napijegy villamosra és buszra is jó.",
+              "A belvárosi villamosmegállók többnyire fedettek.",
+              "Heves esőben a villamosok gyakran lassabban közlekednek.",
+              "Néhány buszjárat esőben terelőúton járhat."
+            ],
+            "ro": [
+              "Folosiți aplicația CTS pentru informații în timp real.",
+              "Biletul de o zi '24h Solo' e valabil pe tramvai și buz.",
+              "Stațiile de tramvai din centru sunt majoritatea acoperite.",
+              "Tramvaiele circulă adesea mai lent pe ploaie abundentă.",
+              "Unele linii de autobuz pot fi deviate pe ploaie."
+            ],
+            "en": [
+              "Use the CTS app for real-time info during rain.",
+              "The '24h Solo' day ticket covers both trams and buses.",
+              "City center tram stations are mostly well-sheltered.",
+              "Trams may run slightly slower during heavy downpours.",
+              "Some bus routes might experience minor delays in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Geheizte Tramfahrt zum Kléber. Mittag: Kurzer Winterspaziergang zum Münster. Nachmittag: Fahrt durch das winterliche Straßburg zum Europaparlament. Abend: Mit dem Bus zur Orangerie, um die Winterbeleuchtung zu sehen.",
+            "hu": "Reggel: Fűtött villamosozás a Kléber térre. Délben: Rövid téli séta a Székesegyházhoz. Délután: Utazás a téli Strasbourgban az Európai Parlamenthez. Este: Busszal az Orangerie-be a téli fények megtekintéséhez.",
+            "ro": "Dimineața: Mers cu tramvaiul încălzit spre Kléber. Prânz: Scurtă plimbare de iarnă spre Catedrală. După-amiaza: Călătorie prin Strasbourg-ul înghețat spre Parlament. Seara: Cu autobuzul la Orangerie pentru a vedea luminile.",
+            "en": "Morning: Heated tram ride to Kléber. Noon: Short winter walk to the Cathedral. Afternoon: Travel through wintry Strasbourg to the Parliament. Evening: Bus to Orangerie to see the winter lights."
+          },
+          "stops": [
+            {
+              "name": "Place Kléber",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe der beheizten Geschäfte.",
+                "hu": "Várjon a fűtött üzletek közelében.",
+                "ro": "Așteptați în apropierea magazinelor încălzite.",
+                "en": "Wait near the heated shop entrances."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Die Tramhaltestellen sind im Winter hell beleuchtet.",
+                "hu": "A villamosmegállók télen jól meg vannak világítva.",
+                "ro": "Stațiile de tramvai sunt bine iluminate iarna.",
+                "en": "Tram stops are brightly lit during winter evenings."
+              }
+            },
+            {
+              "name": "La Petite France",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram, um die kalte Brise am Fluss zu meiden.",
+                "hu": "Használja a villamost a folyóparti hideg szél ellen.",
+                "ro": "Folosiți tramvaiul pentru a evita briza rece de pe râu.",
+                "en": "Use the tram to minimize time in the cold river wind."
+              }
+            },
+            {
+              "name": "European Parliament",
+              "tip_5lang": {
+                "de": "Die Glasfronten des Parlaments wirken im Winterfrost kühl.",
+                "hu": "A Parlament üvegfelületei hűvös hatást keltenek a fagyban.",
+                "ro": "Fațadele de sticlă ale Parlamentului arată rece pe ger.",
+                "en": "The Parliament's glass facades look striking in the frost."
+              }
+            },
+            {
+              "name": "Parc de l'Orangerie",
+              "tip_5lang": {
+                "de": "Letzte Busse zurück ins Zentrum gegen 20:00 Uhr prüfen.",
+                "hu": "Ellenőrizze az utolsó buszokat a központba 20:00 körül.",
+                "ro": "Verificați ultimele autobuze spre centru în jur de ora 20:00.",
+                "en": "Check the last bus times back to the center around 20:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trams sind im Winter angenehm beheizt.",
+              "Achten Sie auf geänderte Fahrpläne während der Feiertage.",
+              "Die CTS-App zeigt Verspätungen durch Schnee an.",
+              "Einige Haltestellen in Petite France können glatt sein.",
+              "Nutzen Sie die P+R Parkplätze am Stadtrand bei Frost."
+            ],
+            "hu": [
+              "A villamosok télen kellemesen fűtöttek.",
+              "Ügyeljen az ünnepek alatti módosított menetrendre.",
+              "A CTS app jelzi a hó miatti késéseket.",
+              "Néhány megálló a Petite France-nál csúszós lehet.",
+              "Használja a P+R parkolókat a város szélén fagy esetén."
+            ],
+            "ro": [
+              "Tramvaiele sunt încălzite plăcut iarna.",
+              "Atenție la orarul modificat în timpul sărbătorilor.",
+              "Aplicația CTS indică întârzierile cauzate de zăpadă.",
+              "Unele stații din Petite France pot fi alunecoase.",
+              "Folosiți parcările P+R de la periferie în caz de ger."
+            ],
+            "en": [
+              "Trams are comfortably heated during winter.",
+              "Watch for modified holiday schedules in December.",
+              "The CTS app tracks delays caused by snow or ice.",
+              "Some stops in Petite France can be slippery on foot.",
+              "Use P+R parking at the outskirts to avoid icy city roads."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/grand-est.html",
-    "tourism_office": "https://www.visitstrasbourg.fr/en/",
-    "events": "https://www.visitstrasbourg.fr/en/",
-    "city_card": "https://www.visitstrasbourg.fr/en/",
-    "museum_tickets": "https://www.musees.strasbourg.eu/",
-    "transit_official": "https://www.cts-strasbourg.eu/en/",
-    "language_tips": {
-      "de": "Strassburg ist zweisprachig, Franzoesisch dominiert, im Petite France und auf den Maerkten hoerst du aber elsaessisch und viel Deutsch. Deutsche Reisende koennen oft komplett auf Deutsch bestellen, das franzoesische 'bonjour' beim Eintreten bleibt aber Pflicht.",
-      "hu": "Strasbourg ketnyelvu, a francia dominal, de a Petite France-ban es a piacokon elsasi es sok nemet hallhato. Nemet utazok gyakran teljesen nemetul rendelhetnek, a francia 'bonjour' belepeskor viszont kotelezo.",
-      "ro": "Strasbourg e bilingv, franceza domina, dar in Petite France si in piete auzi alsaciana si multa germana. Calatorii germani pot comanda complet in germana, dar 'bonjour' la intrare ramane obligatoriu.",
-      "en": "Strasbourg is bilingual: French dominates, but in Petite France and the markets you hear Alsatian and lots of German. German travellers can often order entirely in German, but the French 'bonjour' on entering remains essential."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September fuer Bootsfahrten auf der Ill und Petite France bei 18-25 Grad. Ende November bis 24. Dezember bringt den beruehmten Christkindelsmaerik, dann ist die Stadt magisch aber sehr voll. Januar und Februar sind ruhig und kalt.",
-      "hu": "Majus-szeptember a Ill-en valo hajokirandulasokra es Petite France-ra 18-25 fok mellett. November vegetol december 24-ig a hires Christkindelsmaerik, ilyenkor a varos magikus de nagyon zsufolt. Januar-februar csendes es hideg.",
-      "ro": "Mai-septembrie pentru plimbari cu barca pe Ill si Petite France la 18-25 grade. De la final de noiembrie pana pe 24 decembrie e celebrul Christkindelsmaerik; orasul e magic dar foarte aglomerat. Ianuarie-februarie sunt linistite si reci.",
-      "en": "May-September for boat tours on the Ill and Petite France at 18-25°C. Late November to 24 December brings the famous Christkindelsmaerik — the city is magical but very crowded. January-February are quiet and cold."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sichere Stadt, Vorsicht nur in Neuhof und Hautepierre (aussere Stadtteile, nicht touristisch). Wahrend des Weihnachtsmarktes Taschendiebe an Place Kleber und Place Broglie, auch Strenge Sicherheitskontrollen.",
-      "hu": "Nagyon biztonsagos varos, csak Neuhof es Hautepierre (kulso kerulet, nem turista) kerulendo. A karacsonyi vasar idejen a Place Kleber-en es Place Broglie-en zsebtolvajok, szigoru biztonsagi ellenorzes is.",
-      "ro": "Oras foarte sigur, atentie doar la Neuhof si Hautepierre (cartiere periferice, neturistice). In timpul targului de Craciun, hoti de buzunare in Place Kleber si Place Broglie, plus controale stricte de securitate.",
-      "en": "Very safe city; only Neuhof and Hautepierre (outer non-tourist districts) need avoiding. During the Christmas market, watch pickpockets at Place Kleber and Place Broglie, and expect strict security checks."
-    },
-    "parking_real_time": ""
   }
 }

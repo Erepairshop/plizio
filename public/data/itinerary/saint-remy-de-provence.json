@@ -326,6 +326,448 @@
           "Book Musée Estrine in advance if you are on a tight schedule.",
           "Carry water when walking uphill towards the Glanum site."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens tauchen Sie in das lebhafte Zentrum von Saint-Rémy ein, schlendern durch die Gassen und besuchen das Musée Estrine. Mittags genießen Sie provenzalische Köstlichkeiten in der Altstadt, bevor Sie sich auf den Weg nach Süden machen. Nachmittags erwarten Sie die monumentalen Zeugen der Römerzeit: Les Antiques und die Ausgrabungsstätte Glanum. Den Tag lassen Sie im friedlichen Kreuzgang von Saint-Paul-de-Mausole ausklingen, wo Van Gogh Inspiration fand.",
+            "hu": "A délelőttöt Saint-Rémy pezsgő központjában indítjuk, felfedezve az óváros szűk utcáit és a Musée Estrine kiállításait. Délben megkóstoljuk a helyi specialitásokat egy hangulatos teraszon, majd dél felé vesszük az irányt. Délután a római múlt emlékei, Les Antiques és Glanum romvárosa repítenek vissza az időben. Az estét a Saint-Paul-de-Mausole kolostor békés kertjében zárjuk, ahol Van Gogh legszebb műveit alkotta.",
+            "ro": "Dimineața începe în centrul vibrant al orașului Saint-Rémy, explorând străduțele vechi și vizitând Muzeul Estrine. La prânz, savurați delicatese provensale în centrul istoric înainte de a porni spre sud. După-amiaza este dedicată istoriei romane, vizitând monumentele Les Antiques și situl arheologic Glanum. Încheiați ziua în liniștea mănăstirii Saint-Paul-de-Mausole, locul unde Van Gogh a găsit inspirație în timpul șederii sale.",
+            "en": "Start your morning in the vibrant heart of Saint-Rémy, wandering through historic alleys and visiting the Musée Estrine. At midday, enjoy Provencal flavors in the old town before heading south. Your afternoon is dedicated to Roman history at Les Antiques and the impressive Glanum archaeological site. Finish the day in the peaceful cloisters of Saint-Paul-de-Mausole, the sanctuary where Van Gogh created some of his most famous masterpieces."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee im Schatten der Platanen auf dem Hauptplatz.",
+                "hu": "Élvezze a kávét a hatalmas platánfák árnyékában a főtéren.",
+                "ro": "Savurați o cafea la umbra platanilor în piața centrală.",
+                "en": "Enjoy a coffee under the shade of giant plane trees in the main square."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_5lang": {
+                "de": "Entdecken Sie die Verbindung zwischen Van Gogh und der modernen Kunst.",
+                "hu": "Fedezze fel Van Gogh és a modern művészet közötti kapcsolatot.",
+                "ro": "Descoperiți legătura dintre Van Gogh și arta modernă.",
+                "en": "Discover the link between Van Gogh and modern art in this 18th-century mansion."
+              }
+            },
+            {
+              "name": "Centre Historique (Vieille Ville)",
+              "tip_5lang": {
+                "de": "Suchen Sie das Geburtshaus von Nostradamus in den engen Gassen.",
+                "hu": "Keresse meg Nostradamus szülőházát a szűk sikátorok között.",
+                "ro": "Căutați casa natală a lui Nostradamus printre străduțele înguste.",
+                "en": "Find the birthplace of Nostradamus among the narrow winding streets."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Mausoleum und den Ehrenbogen aus der Römerzeit.",
+                "hu": "Csodálja meg a római kori mauzóleumot és a diadalívet.",
+                "ro": "Admirați mausoleul și arcul de triumf din epoca romană.",
+                "en": "Admire the Roman mausoleum and triumphal arch standing since antiquity."
+              }
+            },
+            {
+              "name": "Glanum Archaeological Site",
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen einer antiken Stadt am Fuße der Alpilles.",
+                "hu": "Fedezze fel az ókori város romjait az Alpilles lábánál.",
+                "ro": "Explorați ruinele unui oraș antic la poalele munților Alpilles.",
+                "en": "Explore the ruins of an ancient city at the foot of the Alpilles mountains."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kloster, in dem Van Gogh 'Die Sternennacht' malte.",
+                "hu": "Látogassa meg a kolostort, ahol Van Gogh a Csillagos éjt festette.",
+                "ro": "Vizitați mănăstirea unde Van Gogh a pictat Noaptea înstelată.",
+                "en": "Visit the monastery and clinic where Van Gogh painted The Starry Night."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lavendelhonig",
+                "tip": "Probieren Sie den echten provenzalischen Honig auf dem Markt."
+              },
+              {
+                "name": "Le Bistro du Paradou",
+                "tip": "Ein klassisches Erlebnis mit festem Menü in der Nähe."
+              },
+              {
+                "name": "Tapenade",
+                "tip": "Paste aus schwarzen Oliven, serviert auf frischem Baguette."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendulaméz",
+                "tip": "Kóstolja meg az igazi provence-i mézet a helyi piacon."
+              },
+              {
+                "name": "Le Bistro du Paradou",
+                "tip": "Klasszikus francia élmény fix menüvel a közelben."
+              },
+              {
+                "name": "Tapenade",
+                "tip": "Fekete olívabogyókrém friss baguette-re kenve."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de lavandă",
+                "tip": "Gustați mierea autentică provensală la piața locală."
+              },
+              {
+                "name": "Le Bistro du Paradou",
+                "tip": "O experiență clasică cu meniu fix în apropiere."
+              },
+              {
+                "name": "Tapenadă",
+                "tip": "Pastă de măsline negre servită pe baghetă proaspătă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender Honey",
+                "tip": "Taste the authentic Provencal honey at the local market."
+              },
+              {
+                "name": "Le Bistro du Paradou",
+                "tip": "A classic French experience with a fixed menu nearby."
+              },
+              {
+                "name": "Tapenade",
+                "tip": "Black olive spread served on fresh crusty baguette."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kreuzgang von Saint-Paul",
+                "tip": "Ein Ort tiefer Stille und Meditation.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plateau de la Caume",
+                "tip": "Panoramablick über die Alpilles.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Glanum-Quelle",
+                "tip": "Kühler, heiliger Ort im antiken Stadtgebiet.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Saint-Paul kolostorkert",
+                "tip": "A csend és a meditáció tökéletes helyszíne.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plateau de la Caume",
+                "tip": "Panorámás kilátás az Alpilles vonulataira.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Glanum forrás",
+                "tip": "Hűvös, szakrális hely az ókori város területén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cloastrul Saint-Paul",
+                "tip": "Un loc de liniște profundă și meditație.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plateau de la Caume",
+                "tip": "Vedere panoramică peste munții Alpilles.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Izvorul Glanum",
+                "tip": "Un loc răcoros și sacru în situl antic.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Saint-Paul Cloister",
+                "tip": "A place of deep silence and meditation.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plateau de la Caume",
+                "tip": "Panoramic views over the Alpilles range.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Glanum Spring",
+                "tip": "Cool, sacred spot within the ancient city site.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt (Mittwoch)",
+                "tip": "Der berühmteste Markt der Region für Textilien und Essen."
+              },
+              {
+                "name": "Boutique des Alpilles",
+                "tip": "Lokales Olivenöl und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szerdai piac",
+                "tip": "A régió leghíresebb piaca textilekkel és ételekkel."
+              },
+              {
+                "name": "Boutique des Alpilles",
+                "tip": "Helyi olívaolaj és kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală (Miercuri)",
+                "tip": "Cea mai faimoasă piață din regiune pentru textile și mâncare."
+              },
+              {
+                "name": "Boutique des Alpilles",
+                "tip": "Ulei de măsline local și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wednesday Market",
+                "tip": "The most famous market in the region for textiles and food."
+              },
+              {
+                "name": "Boutique des Alpilles",
+                "tip": "Local olive oil and artisanal crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Schotterwege in Glanum.",
+              "Mittwochmorgens ist das Parken schwierig wegen des Marktes.",
+              "Buchen Sie das Musée Estrine im Voraus, wenn Sie wenig Zeit haben.",
+              "Nehmen Sie Wasser mit, wenn Sie nach Glanum wandern."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a glanumi murvás utakhoz.",
+              "Szerda reggel a parkolás nehézkes a piac miatt.",
+              "Foglaljon jegyet előre a Musée Estrine-be, ha kevés az ideje.",
+              "Vigyen magával vizet a Glanum felé tartó sétához."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru drumurile cu pietriș din Glanum.",
+              "Miercuri dimineața parcarea este dificilă din cauza pieței.",
+              "Rezervați bilete în avans la Muzeul Estrine dacă aveți timp limitat.",
+              "Luați apă la voi pentru plimbarea spre Glanum."
+            ],
+            "en": [
+              "Wear comfortable shoes for the gravel paths in Glanum.",
+              "Wednesday mornings are busy; parking is tough due to the market.",
+              "Book Musée Estrine in advance if you are on a tight schedule.",
+              "Carry water when walking uphill towards the Glanum site."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Place de la République, wo man unter Vordächern Schutz findet. Mittags bieten die Galerien des Musée Estrine eine trockene Kulturpause. Der Nachmittag in Glanum erfordert gute Regenkleidung, da das Gelände offen ist. Der Abend klingt gemütlich in einer der überdachten Brasserien der Altstadt aus, während der Regen auf das Kopfsteinpflaster trommelt.",
+            "hu": "Az esős reggel a Place de la République árkádjai alatt indul, menedéket keresve a provence-i zápor elől. Délben a Musée Estrine galériái nyújtanak száraz kulturális élményt. A délutáni Glanum látogatáshoz elengedhetetlen a vízálló ruházat, mivel a terület nyitott. Az este a történelmi óváros egyik hangulatos, fedett éttermében ér véget, miközben az eső kopog a macskaköveken.",
+            "ro": "O dimineață ploioasă începe în Place de la République, sub protecția copacilor și a marchizelor. La prânz, galeriile de la Musée Estrine oferă o pauză culturală uscată. După-amiaza la Glanum necesită pelerine de ploaie, situl fiind în aer liber. Seara se încheie confortabil într-o braserie din centrul istoric, ascultând ploaia pe străzile înguste.",
+            "en": "A rainy morning starts at Place de la République, seeking shelter under awnings. At midday, the galleries of Musée Estrine offer a dry cultural escape. The afternoon at Glanum requires sturdy waterproofs as the site is fully exposed. The evening ends cozily in one of the old town's sheltered bistros, watching the rain wash the limestone streets."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Platanen oder in den Cafés am Rand.",
+                "hu": "Keressen menedéket a platánfák alatt vagy a széli kávézókban.",
+                "ro": "Căutați adăpost sub platani sau în cafenelele de la margine.",
+                "en": "Find shelter under the plane trees or in the perimeter cafes."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um den stärksten Regen im Trockenen zu verbringen.",
+                "hu": "Tökéletes hely a legnagyobb eső szárazon történő átvészelésére.",
+                "ro": "Locul perfect pentru a petrece cea mai puternică ploaie la adăpost.",
+                "en": "The perfect spot to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Centre Historique (Vieille Ville)",
+              "tip_4lang": {
+                "de": "Die engen Gassen bieten etwas Schutz vor schräg fallendem Regen.",
+                "hu": "A szűk utcák némi védelmet nyújtanak az oldalszélben hulló eső ellen.",
+                "ro": "Străzile înguste oferă puțină protecție împotriva ploii oblice.",
+                "en": "Narrow streets offer some protection from wind-blown rain."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_4lang": {
+                "de": "Vorsicht, die Steine rund um die Denkmäler können rutschig sein.",
+                "hu": "Vigyázat, az emlékművek körüli kövek csúszósak lehetnek.",
+                "ro": "Atenție, pietrele din jurul monumentelor pot fi alunecoase.",
+                "en": "Careful, the stones around the monuments can be slippery."
+              }
+            },
+            {
+              "name": "Glanum Archaeological Site",
+              "tip_4lang": {
+                "de": "Es gibt kaum Unterstände; ein stabiler Schirm ist hier Pflicht.",
+                "hu": "Alig van fedett rész; egy stabil esernyő itt kötelező.",
+                "ro": "Există puține adăposturi; o umbrelă solidă este obligatorie aici.",
+                "en": "Hardly any shelters; a sturdy umbrella is a must here."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Der Kreuzgang bietet Schutz und eine besondere Atmosphäre bei Regen.",
+                "hu": "A kolostorkeringő védelmet és különleges hangulatot áraszt esőben.",
+                "ro": "Cloastrul oferă adăpost și o atmosferă deosebită pe ploaie.",
+                "en": "The cloister offers shelter and a unique atmosphere in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege nach Glanum.",
+              "Nutzen Sie die Mittagszeit für Museumsbesuche, wenn es am stärksten regnet.",
+              "Einige Wege in der Altstadt können bei Nässe sehr rutschig werden.",
+              "Die archäologische Stätte Glanum ist völlig ungeschützt vor Wind und Regen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a Glanum felé vezető utakon.",
+              "A déli órákat szánja múzeumlátogatásra, amikor a legtöbb eső esik.",
+              "Az óváros egyes macskaköves szakaszai vizesen nagyon csúszhatnak.",
+              "A Glanum régészeti terület teljesen védtelen a szél és az eső ellen."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru drumul spre Glanum.",
+              "Folosiți timpul prânzului pentru vizite la muzee când plouă cel mai tare.",
+              "Unele căi din centrul vechi pot deveni foarte alunecoase când sunt ude.",
+              "Situl arheologic Glanum este complet expus vântului și ploii."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the trails towards Glanum.",
+              "Use midday for museum visits when the rain is typically heaviest.",
+              "Some cobblestone paths in the old town get very slippery when wet.",
+              "The Glanum archaeological site is entirely unprotected from wind and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen beginnt auf der Place de la République. Mittags wärmt man sich im Musée Estrine auf, bevor man durch die ruhige Altstadt schlendert. Der Nachmittag bei den Antiques ist magisch im tiefstehenden Licht, aber man sollte den frühen Sonnenuntergang um 17:00 Uhr beachten. Der Abend endet bei einem heißen Getränk in der Nähe des Saint-Paul-Klosters.",
+            "hu": "Tiszta, hideg téli reggel indul a Place de la République-on. Délben a Musée Estrine-ben melegedhetünk fel, mielőtt a csendes óvárosban sétálnánk. A délután az Antiques-nél varázslatos az alacsony napállásban, de figyeljünk a korai, 17:00 órai naplementére. Az este egy forró ital mellett ér véget a Saint-Paul kolostor közelében.",
+            "ro": "O dimineață de iarnă senină și rece începe în Place de la République. La prânz vă încălziți la Musée Estrine înainte de a explora centrul vechi liniștit. După-amiaza la Antiques este magică în lumina joasă, dar atenție la apusul devreme de la ora 17:00. Seara se încheie cu o băutură caldă lângă mănăstirea Saint-Paul.",
+            "en": "A crisp, cold winter morning starts at Place de la République. At midday, warm up inside Musée Estrine before strolling through the quiet old town. The afternoon at the Antiques is magical in the low winter light, but be mindful of the early 5:00 PM sunset. The evening concludes with a hot drink near the Saint-Paul cloister."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Die Cafés haben Heizstrahler für ein Frühstück im Freien.",
+                "hu": "A kávézók hősugárzókkal várják a szabadtéri reggelizőket.",
+                "ro": "Cafenelele au încălzitoare exterioare pentru micul dejun afară.",
+                "en": "Cafes have outdoor heaters for a cozy winter breakfast."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_4lang": {
+                "de": "Gut beheizte Räume bieten eine Pause von der Winterkälte.",
+                "hu": "Jól fűtött termek kínálnak pihenőt a téli hideg elől.",
+                "ro": "Sălile bine încălzite oferă o pauză de la frigul iernii.",
+                "en": "Well-heated rooms provide a warm break from the winter chill."
+              }
+            },
+            {
+              "name": "Centre Historique (Vieille Ville)",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
+                "en": "Enjoy the peaceful streets without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_4lang": {
+                "de": "Das Licht am frühen Nachmittag ist ideal für Fotos.",
+                "hu": "A kora délutáni fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de după-amiază devreme este ideală pentru fotografii.",
+                "en": "Early afternoon light is perfect for photography here."
+              }
+            },
+            {
+              "name": "Glanum Archaeological Site",
+              "tip_4lang": {
+                "de": "Achten Sie auf den Mistral-Wind, der hier sehr kalt wehen kann.",
+                "hu": "Figyeljen a Mistral szélre, amely itt nagyon hidegen fújhat.",
+                "ro": "Atenție la vântul Mistral, care poate sufla foarte rece aici.",
+                "en": "Watch out for the Mistral wind, which can feel very cold here."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Besuch vor 16:30 Uhr planen, da es früh dunkel wird.",
+                "hu": "Tervezze a látogatást 16:30 előtt, mert korán sötétedik.",
+                "ro": "Planificați vizita înainte de 16:30, deoarece se întunecă devreme.",
+                "en": "Plan your visit before 4:30 PM as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Mistral-Wind kann die gefühlte Temperatur stark senken.",
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Viele kleinere Läden haben in der Nebensaison verkürzte Öffnungszeiten.",
+              "Tragen Sie Zwiebelschichten, da es in der Sonne warm, im Schatten kalt ist."
+            ],
+            "hu": [
+              "A Mistral szél jelentősen csökkentheti a hőérzetet.",
+              "A nap télen már 17:00 óra körül lemegy.",
+              "Sok kisebb üzlet rövidített nyitvatartással üzemel a szezonon kívül.",
+              "Öltözzön rétegesen, mert a napon meleg, az árnyékban hideg van."
+            ],
+            "ro": [
+              "Vântul Mistral poate scădea considerabil temperatura resimțită.",
+              "Soarele apune iarna deja în jurul orei 17:00.",
+              "Multe magazine mici au program redus în afara sezonului.",
+              "Purtați haine în straturi: e cald la soare, dar rece la umbră."
+            ],
+            "en": [
+              "The Mistral wind can significantly lower the perceived temperature.",
+              "The sun sets as early as 5:00 PM during the winter months.",
+              "Many smaller shops have shortened opening hours in the low season.",
+              "Wear layers; it can be warm in the sun but very cold in the shade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -566,6 +1008,368 @@
           "Rent an e-bike for the hilly sections.",
           "Watch out for the Mistral wind."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie nicht nur die Stadt, sondern auch die umliegenden Olivenhaine. Nach dem Start im Zentrum besuchen Sie die römischen Monumente und das Van-Gogh-Kloster. Eine kleine Schleife durch die Ausläufer der Alpilles bietet herrliche Ausblicke und frische Luft, bevor Sie zur Entspannung ins historische Viertel zurückkehren.",
+            "hu": "Kerékpárral nemcsak a várost, hanem a környező olajfaligeteket is felfedezheti. A központból indulva érintjük a római emlékeket és a Van Gogh kolostort. Egy kis hurok az Alpilles lábánál csodás kilátást és friss levegőt kínál, mielőtt visszatérnénk pihenni a történelmi negyedbe.",
+            "ro": "Cu bicicleta veți explora nu doar orașul, ci și livezile de măslini din jur. După plecarea din centru, vizitați monumentele romane și mănăstirea Van Gogh. O mică buclă prin poalele Alpilles oferă vederi superbe și aer curat înainte de a reveni în centrul istoric.",
+            "en": "On a bike, you can explore not just the town but the surrounding olive groves as well. Starting from the center, head to the Roman monuments and the Van Gogh monastery. A short loop through the Alpilles foothills offers stunning views and fresh air before returning to the old town for relaxation."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Startpunkt für die Radtour durch die Alpilles.",
+                "hu": "Az Alpilles körüli bringázás kiindulópontja.",
+                "ro": "Punctul de plecare pentru turul cu bicicleta.",
+                "en": "Start point for your cycling tour around the Alpilles."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp bei den römischen Monumenten.",
+                "hu": "Gyors megálló a római műemlékeknél.",
+                "ro": "O oprire rapidă la monumentele romane.",
+                "en": "A quick stop at the Roman monuments."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Eingang.",
+                "hu": "Parkolja le biztonságosan a bringát a bejáratnál.",
+                "ro": "Parcați bicicleta în siguranță la intrare.",
+                "en": "Park your bike safely at the entrance."
+              }
+            },
+            {
+              "name": "Glanum",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Gelände ist leicht steil.",
+                "hu": "A telephelyhez vezető út kissé meredek.",
+                "ro": "Urcarea spre sit este ușor abruptă.",
+                "en": "The approach to the site is slightly uphill."
+              }
+            },
+            {
+              "name": "Alpilles Foothills Loop",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch Olivenhainfelder.",
+                "hu": "Élvezze a tekerést az olajfaligetek között.",
+                "ro": "Bucurați-vă de plimbarea printre livezile de măslini.",
+                "en": "Enjoy the ride through the olive groves."
+              }
+            },
+            {
+              "name": "Old Town Centre",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem Eis in der Altstadt.",
+                "hu": "Jutalmazza meg magát egy fagyival az óvárosban.",
+                "ro": "Răsplătiți-vă cu o înghețată în centrul vechi.",
+                "en": "Reward yourself with an ice cream in the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Olivenöl-Verkostung",
+                "tip": "Besuchen Sie eine Mühle am Stadtrand."
+              },
+              {
+                "name": "Pain au Chocolat",
+                "tip": "Perfekter Snack für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj kóstoló",
+                "tip": "Látogasson el egy malomba a város szélén."
+              },
+              {
+                "name": "Pain au Chocolat",
+                "tip": "Tökéletes falat útközben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Degustare de ulei de măsline",
+                "tip": "Vizitați o moară la marginea orașului."
+              },
+              {
+                "name": "Pain au Chocolat",
+                "tip": "Gustarea perfectă pe drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil Tasting",
+                "tip": "Visit a mill on the outskirts of town."
+              },
+              {
+                "name": "Pain au Chocolat",
+                "tip": "The perfect snack for your ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Landstraßen",
+                "tip": "Ruhige Wege abseits der Hauptstraßen.",
+                "emoji": "🚴"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mellékutak",
+                "tip": "Csendes utak a főúttól távol.",
+                "emoji": "🚴"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumuri secundare",
+                "tip": "Trasee liniștite departe de drumul principal.",
+                "emoji": "🚴"
+              }
+            ],
+            "en": [
+              {
+                "name": "Backroads",
+                "tip": "Quiet paths away from the main traffic.",
+                "emoji": "🚴"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Boutique du Moulin",
+                "tip": "Hauseigenes Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Boutique du Moulin",
+                "tip": "Helyi termelésű olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Boutique du Moulin",
+                "tip": "Ulei de măsline de producție proprie."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Boutique du Moulin",
+                "tip": "Locally produced olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Hügelstrecken.",
+              "Achten Sie auf den Mistral-Wind."
+            ],
+            "hu": [
+              "Béreljen e-bike-ot a dombos szakaszokhoz.",
+              "Vigyázzon a misztrál széllel."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru dealuri.",
+              "Atenție la vântul Mistral."
+            ],
+            "en": [
+              "Rent an e-bike for the hilly sections.",
+              "Watch out for the Mistral wind."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt vorsichtig auf nassen Straßen an der Place de la République. Die Fahrt zu den Antiques erfordert Konzentration wegen rutschiger Abschnitte. Mittags bietet Saint-Paul-de-Mausole eine trockene Pause unter dem Kreuzgang. Die Alpilles-Runde wird am Nachmittag abgekürzt, um Schlamm auf den Wegen zu vermeiden. Der Tag endet sicher im Stadtzentrum.",
+            "hu": "A nap óvatosan indul a vizes utakon a Place de la République-ról. Az Antiques felé vezető szakasz koncentrációt igényel a csúszós részek miatt. Délben a Saint-Paul-de-Mausole kolostora nyújt száraz pihenőt. Az Alpilles-kört délután lerövidítjük, elkerülve a sárt a mellékutakon. A nap biztonságban ér véget a városközpontban.",
+            "ro": "Ziua începe cu prudență pe străzile ude din Place de la République. Drumul spre Antiques necesită concentrare din cauza porțiunilor alunecoase. La prânz, Saint-Paul-de-Mausole oferă o pauză uscată sub cloastru. Bucla Alpilles este scurtată după-amiaza pentru a evita noroiul. Ziua se încheie în siguranță în centrul orașului.",
+            "en": "The day starts cautiously on wet roads from Place de la République. The ride to the Antiques requires focus due to slippery patches. At midday, Saint-Paul-de-Mausole provides a dry respite under the cloister. The Alpilles loop is shortened in the afternoon to avoid mud on backroads. The day ends safely back in the town centre."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Bremsen vor der Abfahrt auf Kopfsteinpflaster prüfen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a macskakövön.",
+                "ro": "Verificați frânele pe piatra cubică înainte de plecare.",
+                "en": "Check your brakes on the cobblestones before starting."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_4lang": {
+                "de": "Vermeiden Sie das Fahren direkt über die glatten Steinplatten.",
+                "hu": "Kerülje a közvetlen ráhajtást a sima kőlapokra.",
+                "ro": "Evitați să circulați direct pe plăcile de piatră lucioase.",
+                "en": "Avoid cycling directly over the smooth stone slabs."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Fahrräder am Haupteingang im geschützten Bereich abstellen.",
+                "hu": "A kerékpárokat a főbejáratnál, védett helyen parkolja le.",
+                "ro": "Parcați bicicletele într-o zonă protejată la intrarea principală.",
+                "en": "Park bikes in a sheltered area near the main entrance."
+              }
+            },
+            {
+              "name": "Glanum",
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen, der Boden kann schlammig sein.",
+                "hu": "Vigyázat a leszálláskor, a talaj sáros lehet.",
+                "ro": "Atenție la coborâre, solul poate fi noroios.",
+                "en": "Be careful when dismounting; the ground can be muddy."
+              }
+            },
+            {
+              "name": "Alpilles Foothills Loop",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf asphaltierten Straßen; Feldwege sind nun sehr weich.",
+                "hu": "Maradjon az aszfaltozott utakon; a földutak most nagyon puhák.",
+                "ro": "Rămâneți pe drumurile asfaltate; potecile sunt acum foarte moi.",
+                "en": "Stick to paved roads; dirt trails are now very soft."
+              }
+            },
+            {
+              "name": "Old Town Centre",
+              "tip_4lang": {
+                "de": "Vorsicht in engen Kurven bei Nässe.",
+                "hu": "Vigyázat a szűk kanyarokban nedves időben.",
+                "ro": "Atenție în curbele strânse pe carosabil umed.",
+                "en": "Use caution in tight turns when the ground is wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Planen Sie mehr Zeit für Bremsmanöver auf nassem Asphalt ein."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Kerülje a tócsákat, mélyebbek lehetnek, mint gondolná.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért nedves úton.",
+              "Hagyjon több időt a fékezésre a vizes aszfalton."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe ud.",
+              "Alocați mai mult timp manevrelor de frânare pe asfalt umed."
+            ],
+            "en": [
+              "Wear a high-visibility rain jacket for better safety.",
+              "Avoid puddles as they might be deeper than they look.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Allow extra time and distance for braking on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Place de la République mit Handschuhen und Mütze. Die Fahrt zu den Antiques ist erfrischend im klaren Morgenlicht. Mittags genießt man die Sonne in den Alpilles, aber Vorsicht vor dem kalten Wind. Am späten Nachmittag kehrt man in die Altstadt zurück, bevor die Temperaturen nach 16:30 Uhr rapide sinken. Der Tag endet bei einem warmen Wein.",
+            "hu": "Fagyos indulás a Place de la République-ról kesztyűben és sapkában. A tekerés az Antiques felé frissítő a tiszta reggeli fényben. Délben élvezzük a napsütést az Alpilles-ben, de vigyázzunk a hideg széllel. Késő délután visszatérünk az óvárosba, mielőtt 16:30 után a hőmérséklet hirtelen leesik. A nap egy forró bor mellett ér véget.",
+            "ro": "Un start înghețat în Place de la République cu mănuși și căciulă. Drumul spre Antiques este revigorant în lumina clară a dimineții. La prânz bucurați-vă de soare în Alpilles, dar atenție la vântul rece. După-amiaza târziu reveniți în oraș înainte ca temperaturile să scadă brusc după 16:30. Ziua se termină cu un vin fiert.",
+            "en": "A frosty start at Place de la République with gloves and a hat. The ride to the Antiques is bracing in the clear morning light. At midday, enjoy the sun in the Alpilles, but watch out for the chilling wind. In the late afternoon, return to the old town before temperatures drop sharply after 4:30 PM. The day ends with a warm mulled wine."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Handschuhe sind für die erste Etappe am Morgen unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a reggeli első szakaszhoz.",
+                "ro": "Mănușile sunt esențiale pentru prima etapă a dimineții.",
+                "en": "Gloves are essential for the first leg in the morning."
+              }
+            },
+            {
+              "name": "Les Antiques",
+              "tip_4lang": {
+                "de": "Perfektes Fotolicht, aber Vorsicht vor Raureif auf dem Boden.",
+                "hu": "Tökéletes fotófények, de vigyázzon a dérrel a talajon.",
+                "ro": "Lumină perfectă pentru poze, dar atenție la chiciura de pe jos.",
+                "en": "Perfect photo light, but watch out for frost on the ground."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Eine Pause im sonnigen Garten wärmt die Glieder auf.",
+                "hu": "Egy pihenő a napsütötte kertben átmelegíti a végtagokat.",
+                "ro": "O pauză în grădina însorită vă va încălzi membrele.",
+                "en": "A break in the sunny garden helps warm up your limbs."
+              }
+            },
+            {
+              "name": "Glanum",
+              "tip_4lang": {
+                "de": "Im Schatten der Ruinen wird es sehr schnell kühl.",
+                "hu": "A romok árnyékában nagyon gyorsan lehűl a levegő.",
+                "ro": "Se face răcoare foarte repede la umbra ruinelor.",
+                "en": "It gets chilly very quickly in the shadow of the ruins."
+              }
+            },
+            {
+              "name": "Alpilles Foothills Loop",
+              "tip_4lang": {
+                "de": "Der Mistral kann auf freier Strecke ein harter Gegner sein.",
+                "hu": "A Mistral a nyílt szakaszokon kemény ellenfél lehet.",
+                "ro": "Mistralul poate fi un adversar dur pe porțiunile deschise.",
+                "en": "The Mistral wind can be a tough opponent on open stretches."
+              }
+            },
+            {
+              "name": "Old Town Centre",
+              "tip_4lang": {
+                "de": "Viele Cafés schließen ihre Terrassen im Winter früher.",
+                "hu": "Sok kávézó télen korábban zárja be a teraszát.",
+                "ro": "Multe cafenele închid terasele mai devreme iarna.",
+                "en": "Many cafes close their terraces earlier in the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung gegen den kalten Mistral.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee für Pausen mit.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Achten Sie auf schattige Waldwege, dort kann Glatteis lauern."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot a hideg Mistral ellen.",
+              "Vigyen magával termoszt forró teával a szünetekre.",
+              "Ellenőrizze a guminyomást, a hidegben gyakran csökken.",
+              "Figyeljen az árnyékos erdei utakra, ott jegesedés várható."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt împotriva Mistralului rece.",
+              "Luați un termos cu ceai fierbinte pentru pauze.",
+              "Verificați presiunea roților, scade adesea la temperaturi joase.",
+              "Atenție la drumurile forestiere umbrite, pot fi înghețate."
+            ],
+            "en": [
+              "Wear windproof clothing to combat the cold Mistral wind.",
+              "Bring a thermos with hot tea for your breaks.",
+              "Check your tire pressure; it often drops in the cold.",
+              "Be wary of shaded forest paths where black ice might linger."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -790,6 +1594,352 @@
           "Parking in Les Baux is expensive and limited in summer.",
           "Buy combination tickets for Glanum and Les Baux."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto kombinieren Sie die Highlights von Saint-Rémy mit dem spektakulären Dorf Les Baux-de-Provence. Vormittags besuchen Sie Glanum und das Van-Gogh-Heim. Nach einer kurzen Panoramafahrt durch die Alpilles erleben Sie die digitale Kunst in den Carrières des Lumières und erkunden die mittelalterliche Festung von Les Baux, bevor Sie nach Saint-Rémy zurückkehren.",
+            "hu": "Autóval Saint-Rémy legfontosabb látnivalóit kombináljuk a látványos Les Baux-de-Provence faluval. Délelőtt Glanumot és a Van Gogh otthont keressük fel. Rövid panorámaút után az Alpilles-ben, digitális művészeti élményben lesz részünk a Carrières des Lumières-ben, majd felfedezzük Les Baux középkori várát, mielőtt visszatérnénk vacsorázni.",
+            "ro": "Cu mașina combinați atracțiile din Saint-Rémy cu satul spectaculos Les Baux-de-Provence. Dimineața vizitați Glanum și azilul lui Van Gogh. După o scurtă călătorie panoramică prin Alpilles, experimentați arta digitală la Carrières des Lumières și explorați fortăreața medievală din Les Baux înainte de a reveni în Saint-Rémy.",
+            "en": "By car, you can combine Saint-Rémy's highlights with the spectacular village of Les Baux-de-Provence. Spend the morning at Glanum and the Van Gogh asylum. After a short scenic drive through the Alpilles, experience digital art at Carrières des Lumières and explore the medieval fortress of Les Baux before heading back for dinner."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Parkplatz de la Libération.",
+                "hu": "Parkoljon a de la Libération parkolóban.",
+                "ro": "Parcați în parcarea de la Libération.",
+                "en": "Park at the Libération parking lot."
+              }
+            },
+            {
+              "name": "Glanum & Les Antiques",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt gegenüber den Monumenten.",
+                "hu": "Nagy parkoló közvetlenül a műemlékekkel szemben.",
+                "ro": "Parcare mare direct vis-a-vis de monumente.",
+                "en": "Large parking lot directly opposite the monuments."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_5lang": {
+                "de": "Kurze Fahrt von Glanum.",
+                "hu": "Rövid autóút Glanumtól.",
+                "ro": "Drum scurt cu mașina de la Glanum.",
+                "en": "Short drive from Glanum."
+              }
+            },
+            {
+              "name": "Carrières des Lumières",
+              "tip_5lang": {
+                "de": "Spektakuläre Lichtshow in einem Steinbruch (nahe Les Baux).",
+                "hu": "Látványos fényshow egy kőbányában (Les Baux mellett).",
+                "ro": "Spectacol de lumini spectaculos într-o carieră (lângă Les Baux).",
+                "en": "Spectacular light show in a limestone quarry (near Les Baux)."
+              }
+            },
+            {
+              "name": "Les Baux-de-Provence",
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Frankreichs auf einem Felsen.",
+                "hu": "Franciaország egyik legszebb faluja egy sziklán.",
+                "ro": "Unul dintre cele mai frumoase sate din Franța pe o stâncă.",
+                "en": "One of the most beautiful villages in France perched on a rock."
+              }
+            },
+            {
+              "name": "Return to Saint-Rémy",
+              "tip_5lang": {
+                "de": "Abendessen im Zentrum.",
+                "hu": "Vacsora a központban.",
+                "ro": "Cina în centru.",
+                "en": "Dinner in the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lamm aus den Alpilles",
+                "tip": "Eine lokale Fleischspezialität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alpilles-i bárány",
+                "tip": "Helyi hús-specialitás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miel din Alpilles",
+                "tip": "O specialitate locală de carne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alpilles Lamb",
+                "tip": "A prime local meat specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Val d'Enfer",
+                "tip": "Bizarre Felsformationen bei Les Baux.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Val d'Enfer",
+                "tip": "Bizarr sziklaalakzatok Les Baux mellett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Val d'Enfer",
+                "tip": "Formațiuni stâncoase bizare lângă Les Baux.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Val d'Enfer",
+                "tip": "Bizarre rock formations near Les Baux.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Provenzalische Stoffe",
+                "tip": "Typische Muster und Farben."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i szövetek",
+                "tip": "Tipikus minták és színek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Țesături provensale",
+                "tip": "Modele și culori tipice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Provencal Fabrics",
+                "tip": "Typical patterns and colors."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in Les Baux ist teuer und im Sommer begrenzt.",
+              "Kaufen Sie Kombitickets für Glanum und Les Baux."
+            ],
+            "hu": [
+              "A parkolás Les Baux-ban drága és nyáron korlátozott.",
+              "Vásároljon kombinált jegyet Glanumhoz és Les Baux-hoz."
+            ],
+            "ro": [
+              "Parcarea în Les Baux este scumpă și limitată vara.",
+              "Cumpărați bilete combinate pentru Glanum și Les Baux."
+            ],
+            "en": [
+              "Parking in Les Baux is expensive and limited in summer.",
+              "Buy combination tickets for Glanum and Les Baux."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start trotz Regen an der Place de la République. Die Fahrt nach Glanum ist kurz, Parkplätze sind nah am Eingang. Mittags bietet Saint-Paul-de-Mausole Schutz. Das Highlight ist der Nachmittag in den Carrières des Lumières – eine riesige, trockene Höhle mit Lichtshow. Der Tag endet bequem in Les Baux und der Rückfahrt nach Saint-Rémy.",
+            "hu": "Nyugodt indulás az eső ellenére a Place de la République-ról. A Glanum felé vezető út rövid, a parkolók közel vannak a bejárathoz. Délben a Saint-Paul-de-Mausole nyújt védelmet. A délután fénypontja a Carrières des Lumières – egy óriási, száraz barlang fényshow-val. A nap Les Baux-ban és a kényelmes visszautazással ér véget.",
+            "ro": "Un start relaxat în ciuda ploii din Place de la République. Drumul spre Glanum e scurt, parcările sunt aproape de intrare. La prânz, Saint-Paul oferă adăpost. Punctul culminant e după-amiaza la Carrières des Lumières – o peșteră uriașă și uscată cu spectacol de lumini. Ziua se încheie confortabil în Les Baux.",
+            "en": "A relaxed start despite the rain at Place de la République. The drive to Glanum is short, with parking close to the entrance. At midday, Saint-Paul-de-Mausole provides cover. The highlight is the afternoon at Carrières des Lumières – a massive, dry cavern with a light show. The day ends comfortably in Les Baux before driving back."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Parken Sie im Parkhaus 'Libération' für einen trockenen Weg.",
+                "hu": "Parkoljon a 'Libération' mélygarázsban a száraz út érdekében.",
+                "ro": "Parcați în garajul 'Libération' pentru a rămâne uscat.",
+                "en": "Park in the 'Libération' garage for a dry walk to the square."
+              }
+            },
+            {
+              "name": "Glanum & Les Antiques",
+              "tip_4lang": {
+                "de": "Direkt am Parkplatz gibt es einen kleinen Souvenirshop zum Unterstellen.",
+                "hu": "Közvetlenül a parkolónál van egy kis szuvenírbolt, ahol megpihenhet.",
+                "ro": "Există un mic magazin de suveniruri lângă parcare pentru adăpost.",
+                "en": "There's a small souvenir shop by the parking to take cover."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden.",
+                "hu": "A parkolóban heves esőzéskor tócsák alakulhatnak ki.",
+                "ro": "Parcarea poate forma bălți mari în timpul ploilor torențiale.",
+                "en": "The parking area can develop large puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Carrières des Lumières",
+              "tip_4lang": {
+                "de": "Bester Ort bei Regen; die gesamte Ausstellung ist unterirdisch.",
+                "hu": "Legjobb hely esőben; a teljes kiállítás föld alatt van.",
+                "ro": "Cel mai bun loc pe ploaie; întreaga expoziție este subterană.",
+                "en": "Best rainy day spot; the entire exhibition is underground."
+              }
+            },
+            {
+              "name": "Les Baux-de-Provence",
+              "tip_4lang": {
+                "de": "Das Kopfsteinpflaster im Dorf ist bei Nässe extrem glatt.",
+                "hu": "A falu macskakövei nedvesen rendkívül csúszósak.",
+                "ro": "Piatra cubică din sat este extrem de alunecoasă pe ud.",
+                "en": "The cobblestones in the village are extremely slick when wet."
+              }
+            },
+            {
+              "name": "Return to Saint-Rémy",
+              "tip_4lang": {
+                "de": "Genießen Sie den Abend in einem Restaurant mit Kamin.",
+                "hu": "Élvezze az estét egy kandallós étteremben.",
+                "ro": "Bucurați-vă de seară într-un restaurant cu șemineu.",
+                "en": "Enjoy the evening in a restaurant with a fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen können bei Starkregen stellenweise überflutet sein.",
+              "Nutzen Sie die Carrières des Lumières als sicheren Hafen bei Gewitter.",
+              "Vermeiden Sie das Parken unter großen Platanen bei Sturmgefahr.",
+              "Scheibenwischer vor der Abfahrt prüfen; Sicht kann in Senken schlecht sein."
+            ],
+            "hu": [
+              "Az országutak heves esőben helyenként víz alá kerülhetnek.",
+              "Használja a Carrières des Lumières-t menedékként vihar esetén.",
+              "Viharveszélykor kerülje a nagy platánfák alatti parkolást.",
+              "Ellenőrizze az ablaktörlőket; a völgyekben rossz lehet a látótávolság."
+            ],
+            "ro": [
+              "Drumurile secundare pot fi inundate local în timpul ploilor grele.",
+              "Folosiți Carrières des Lumières ca refugiu în caz de furtună.",
+              "Evitați parcarea sub platanii mari dacă există risc de furtună.",
+              "Verificați ștergătoarele; vizibilitatea poate fi redusă în depresiuni."
+            ],
+            "en": [
+              "Rural roads can experience localized flooding during heavy rain.",
+              "Use Carrières des Lumières as a safe haven during a storm.",
+              "Avoid parking under large plane trees if there's a risk of high winds.",
+              "Check your wipers; visibility can be poor in the dips of the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen an der Place de la République. Die Fahrt durch die Alpilles bietet spektakuläre Ausblicke auf die kahlen Kalkfelsen. Mittags ist es in Saint-Paul ruhig und besinnlich. Der Besuch in Les Baux ist im Winter besonders angenehm, da man die Burg fast für sich allein hat. Die Rückfahrt nach Saint-Rémy erfolgt in der Dämmerung.",
+            "hu": "Ragyogó téli reggel a Place de la République-on. Az út az Alpilles-en keresztül látványos kilátást nyújt a kopár mészkősziklákra. Délben Saint-Paul csendes és elmélyült. Les Baux látogatása télen különösen kellemes, mert a vár szinte csak a miénk. A visszautazás Saint-Rémy-be a szürkületben történik.",
+            "ro": "O dimineață de iarnă luminoasă în Place de la République. Drumul prin Alpilles oferă vederi spectaculoase asupra stâncilor calcaroase. La prânz, Saint-Paul e liniștit. Vizita la Les Baux este plăcută iarna, având cetatea aproape doar pentru voi. Întoarcerea la Saint-Rémy are loc la amurg.",
+            "en": "A bright winter morning at Place de la République. The drive through the Alpilles offers spectacular views of the bare limestone crags. At midday, Saint-Paul is quiet and contemplative. Visiting Les Baux in winter is especially pleasant as you have the fortress almost to yourself. The return to Saint-Rémy happens at dusk."
+          },
+          "stops": [
+            {
+              "name": "Place de la République",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze im Zentrum, sie sind im Winter oft frei.",
+                "hu": "Használja a központi parkolókat, télen gyakran van szabad hely.",
+                "ro": "Folosiți parcările din centru, sunt adesea libere iarna.",
+                "en": "Use the central parking lots; they are often empty in winter."
+              }
+            },
+            {
+              "name": "Glanum & Les Antiques",
+              "tip_4lang": {
+                "de": "Die Sonne steht tief; Sonnenbrille beim Fahren nicht vergessen.",
+                "hu": "A nap alacsonyan jár; ne felejtse el a napszemüveget vezetéskor.",
+                "ro": "Soarele este jos; nu uitați ochelarii de soare la condus.",
+                "en": "The sun is low; don't forget your sunglasses while driving."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Im Winter sind die Gärten weniger bunt, aber sehr friedlich.",
+                "hu": "Télen a kertek kevésbé színesek, de nagyon békések.",
+                "ro": "Iarna grădinile sunt mai puțin colorate, dar foarte liniștite.",
+                "en": "In winter, the gardens are less colorful but very peaceful."
+              }
+            },
+            {
+              "name": "Carrières des Lumières",
+              "tip_4lang": {
+                "de": "In der Höhle ist es kühl; behalten Sie Ihre Jacke an.",
+                "hu": "A barlangban hűvös van; hagyja magán a kabátját.",
+                "ro": "În peșteră este răcoare; păstrați-vă jacheta pe voi.",
+                "en": "It's chilly inside the cavern; keep your jacket on."
+              }
+            },
+            {
+              "name": "Les Baux-de-Provence",
+              "tip_4lang": {
+                "de": "Der Wind oben auf der Burg kann im Winter eisig sein.",
+                "hu": "A vár tetején a szél télen jéghideg lehet.",
+                "ro": "Vântul de sus de la cetate poate fi înghețat iarna.",
+                "en": "The wind up at the fortress can be icy in winter."
+              }
+            },
+            {
+              "name": "Return to Saint-Rémy",
+              "tip_4lang": {
+                "de": "Achten Sie auf Wildwechsel in der Dämmerung auf den Landstraßen.",
+                "hu": "Figyeljen a vadakra a szürkületben az országutakon.",
+                "ro": "Atenție la animale sălbatice pe drumuri la amurg.",
+                "en": "Watch out for wildlife on the rural roads at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frost kann die Straßen in den schattigen Lagen der Alpilles glatt machen.",
+              "Die Parkgebühren sind in der Nebensaison oft niedriger oder entfallen.",
+              "Carrières des Lumières schließt im Winter oft für Wartungsarbeiten (Januar).",
+              "Planen Sie die Rückfahrt vor 17:30 Uhr ein, um Dunkelheit zu vermeiden."
+            ],
+            "hu": [
+              "A fagy csúszóssá teheti az utakat az Alpilles árnyékos részein.",
+              "A parkolási díjak a szezonon kívül gyakran alacsonyabbak vagy elmaradnak.",
+              "A Carrières des Lumières januárban gyakran zárva tart karbantartás miatt.",
+              "Tervezze a visszautat 17:30 előtt, hogy elkerülje a sötétet."
+            ],
+            "ro": [
+              "Înghețul poate face drumurile alunecoase în zonele umbrite din Alpilles.",
+              "Taxele de parcare sunt adesea mai mici sau inexistente în extrasezon.",
+              "Carrières des Lumières se închide adesea pentru întreținere în ianuarie.",
+              "Planificați drumul de întoarcere înainte de 17:30 pentru a evita întunericul."
+            ],
+            "en": [
+              "Frost can make the roads slick in shaded parts of the Alpilles.",
+              "Parking fees are often lower or non-existent during the low season.",
+              "Carrières des Lumières often closes for maintenance in January.",
+              "Plan your return trip before 5:30 PM to avoid driving in total darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -996,34 +2146,326 @@
           "Check bus schedules (Line 707) in advance.",
           "The Navette shuttle only runs during summer months."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr und dem saisonalen Shuttle lässt sich Saint-Rémy gut erkunden. Vormittags konzentrieren Sie sich auf die Museen und das historische Zentrum. Nachmittags bringt Sie der Bus oder Shuttle zu den römischen Ausgrabungen und dem Van-Gogh-Heim, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
+            "hu": "Tömegközlekedéssel és a szezonális busszal Saint-Rémy jól bejárható. Délelőtt a múzeumokra és a történelmi központra koncentrálunk. Délután a busz elvisz a római ásatásokhoz és a Van Gogh otthonhoz, majd kényelmesen visszatérünk a kiindulópontra.",
+            "ro": "Cu transportul public și naveta sezonieră, Saint-Rémy poate fi explorat ușor. Dimineața vă concentrați pe muzee și centrul istoric. După-amiaza, autobuzul sau naveta vă duce la situl roman și la azilul lui Van Gogh, înainte de a reveni la punctul de plecare.",
+            "en": "Using public transport and the seasonal shuttle, Saint-Rémy is easily navigable. Spend your morning focusing on the museums and the historical center. In the afternoon, take the bus or shuttle to the Roman ruins and the Van Gogh asylum before returning conveniently to the main station."
+          },
+          "stops": [
+            {
+              "name": "Gare Routière (Bus Station)",
+              "tip_5lang": {
+                "de": "Knotenpunkt für Regionalbusse.",
+                "hu": "Regionális buszok csomópontja.",
+                "ro": "Nod central pentru autobuzele regionale.",
+                "en": "Central hub for regional buses."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_5lang": {
+                "de": "Leicht zu Fuß vom Busbahnhof erreichbar.",
+                "hu": "Könnyen elérhető gyalog a buszállomástól.",
+                "ro": "Ușor accesibil pe jos de la autogară.",
+                "en": "Easy walk from the bus station."
+              }
+            },
+            {
+              "name": "Historic Centre",
+              "tip_5lang": {
+                "de": "Zentraler Bereich für Mittagessen.",
+                "hu": "Központi terület ebédeléshez.",
+                "ro": "Zonă centrală pentru prânz.",
+                "en": "Central area for lunch."
+              }
+            },
+            {
+              "name": "Glanum / Les Antiques",
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Shuttle (Navette) in der Saison.",
+                "hu": "Használja a helyi buszt (Navette) szezonban.",
+                "ro": "Folosiți naveta locală în timpul sezonului.",
+                "en": "Use the local shuttle (Navette) during the season."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle Les Antiques.",
+                "hu": "Les Antiques megálló közelében.",
+                "ro": "Aproape de stația Les Antiques.",
+                "en": "Near the Les Antiques stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Provenzalische Kräuter",
+                "tip": "Kaufen Sie kleine Säckchen als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i fűszerek",
+                "tip": "Vásároljon kis tasakos fűszerkeveréket szuvenírnek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ierburi de Provence",
+                "tip": "Cumpărați săculeți cu ierburi ca suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Herbes de Provence",
+                "tip": "Buy small sachets of dried herbs as a souvenir."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche Saint-Martin",
+                "tip": "Kühle Stille im Zentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Saint-Martin templom",
+                "tip": "Hűvös csend a központban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica Saint-Martin",
+                "tip": "Liniște răcoroasă în centru.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Saint-Martin Church",
+                "tip": "Cool silence in the town center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Örtliche Bäckereien",
+                "tip": "Für frisches Baguette und Quiche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi pékségek",
+                "tip": "Friss baguette és quiche válogatás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutării locale",
+                "tip": "Pentru baghete proaspete și quiche."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Bakeries",
+                "tip": "For fresh baguettes and quiche."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Busfahrzeiten (Linie 707) vorab.",
+              "Die Navette fährt nur in den Sommermonaten."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet (707-es vonal) előre.",
+              "A Navette csak a nyári hónapokban közlekedik."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor (linia 707) în avans.",
+              "Naveta circulă doar în lunile de vară."
+            ],
+            "en": [
+              "Check bus schedules (Line 707) in advance.",
+              "The Navette shuttle only runs during summer months."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start an der Gare Routière unter dem Vordach. Die kurzen Fahrten mit dem lokalen Bus schützen vor dem Regen. Mittags ist das Musée Estrine ein kultureller Zufluchtsort. Der Nachmittag in Glanum wird wegen des Wetters verkürzt. Der Tag endet mit der Rückfahrt zum Busbahnhof und einem kurzen Sprint zum nächsten Café.",
+            "hu": "Indulás a Gare Routière fedett váróterméből. A helyi busz rövid útjai védenek az esőtől. Délben a Musée Estrine kulturális menedéket nyújt. A délutáni Glanum látogatást az időjárás miatt lerövidítjük. A nap a buszállomásra való visszatéréssel és egy rövid vágtával a legközelebbi kávézóig ér véget.",
+            "ro": "Start de la Gare Routière sub copertină. Călătoriile scurte cu autobuzul local vă protejează de ploaie. La prânz, Musée Estrine este un refugiu cultural. După-amiaza la Glanum este scurtată din cauza vremii. Ziua se termină cu întoarcerea la autogară și un sprint spre cea mai apropiată cafenea.",
+            "en": "Start at the Gare Routière under the shelter. Short trips on the local bus keep you out of the rain. At midday, Musée Estrine serves as a cultural haven. The afternoon at Glanum is cut short due to the weather. The day ends with a return to the bus station and a quick dash to the nearest cafe."
+          },
+          "stops": [
+            {
+              "name": "Gare Routière (Bus Station)",
+              "tip_4lang": {
+                "de": "Warten Sie im kleinen Wartebereich, bis der Bus einfährt.",
+                "hu": "Várjon a kis váróteremben, amíg beáll a busz.",
+                "ro": "Așteptați în mica zonă de așteptare până sosește autobuzul.",
+                "en": "Wait in the small indoor area until the bus arrives."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um den Regen zu überbrücken.",
+                "hu": "Használja ki a múzeumlátogatást az eső elkerülésére.",
+                "ro": "Profitați de vizita la muzeu pentru a evita ploaia.",
+                "en": "Use the museum visit to bridge the rainy periods."
+              }
+            },
+            {
+              "name": "Historic Centre",
+              "tip_4lang": {
+                "de": "Die Bushaltestellen im Zentrum haben oft keine Überdachung.",
+                "hu": "A belvárosi buszmegállóknak gyakran nincs fedelük.",
+                "ro": "Stațiile de autobuz din centru nu au adesea acoperiș.",
+                "en": "Bus stops in the center often lack shelters."
+              }
+            },
+            {
+              "name": "Glanum / Les Antiques",
+              "tip_4lang": {
+                "de": "Vom Busstop bis zum Eingang sind es ca. 5 Minuten Fußweg im Freien.",
+                "hu": "A buszmegállótól a bejáratig kb. 5 perc séta a szabadban.",
+                "ro": "De la stație la intrare sunt cca. 5 minute de mers pe jos afară.",
+                "en": "It's about a 5-minute walk from the stop to the entrance outdoors."
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze pontosan a visszaindulást, elkerülve a várakozást az esőben.",
+                "ro": "Verificați orele de retur pentru a nu aștepta mult în ploaie.",
+                "en": "Check return times carefully to avoid waiting long in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Busfahrplan kann bei starkem Regen leicht verzögert sein.",
+              "Halten Sie Kleingeld oder Ihre App für das Ticket bereit.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen im Freien.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "A buszmenetrend heves esőzéskor kissé késhet.",
+              "Készítse elő az aprópénzt vagy az alkalmazást a jegyhez.",
+              "Kerülje a várakozást a fedetlen, szabadtéri megállókban.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Orarele autobuzelor pot avea mici întârzieri pe ploaie torențială.",
+              "Aveți pregătit măruntul sau aplicația pentru bilet.",
+              "Evitați așteptarea în stațiile neacoperite în aer liber.",
+              "Purtați încălțăminte cu talpă aderentă pentru drumul spre stație."
+            ],
+            "en": [
+              "Bus schedules may be slightly delayed during heavy rainfall.",
+              "Have your change or mobile app ready for the bus ticket.",
+              "Avoid waiting at unsheltered stops if the rain is heavy.",
+              "Wear shoes with good grip for the walk to and from the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Busbahnhof. Die Fahrt zum Musée Estrine ist kurz und warm. Mittags erkundet man das historische Zentrum, bevor es mit dem Bus weiter zu den Antiques geht. Das Licht am Nachmittag ist wunderschön, aber die Kälte zieht schnell auf. Der Tag endet frühzeitig mit der Rückfahrt, bevor der Abendfrost einsetzt.",
+            "hu": "Hűvös reggel a buszállomáson. Az út a Musée Estrine-hez rövid és meleg. Délben a történelmi központot fedezzük fel, majd busszal megyünk tovább az Antiques-hoz. A délutáni fények gyönyörűek, de a hideg gyorsan beköszönt. A nap korán, a visszautazással ér véget, még az esti fagy előtt.",
+            "ro": "O dimineață răcoroasă la autogară. Drumul spre Musée Estrine e scurt și cald. La prânz explorați centrul istoric, apoi luați autobuzul spre Antiques. Lumina după-amiezii e superbă, dar frigul se instalează repede. Ziua se termină devreme cu drumul de întoarcere.",
+            "en": "A chilly morning at the bus station. The ride to Musée Estrine is short and warm. At midday, explore the historic center before taking the bus further to the Antiques. The afternoon light is beautiful, but the cold sets in quickly. The day ends early with the return journey before the evening frost."
+          },
+          "stops": [
+            {
+              "name": "Gare Routière (Bus Station)",
+              "tip_4lang": {
+                "de": "Der Wartebereich ist im Winter angenehm temperiert.",
+                "hu": "A váróterem télen kellemesen temperált.",
+                "ro": "Zona de așteptare este încălzită rezonabil iarna.",
+                "en": "The waiting area is kept at a comfortable temperature in winter."
+              }
+            },
+            {
+              "name": "Musée Estrine",
+              "tip_4lang": {
+                "de": "Garderobe nutzen, um die schweren Winterjacken abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok letételéhez.",
+                "ro": "Folosiți garderoba pentru a lăsa jachetele grele de iarnă.",
+                "en": "Use the cloakroom to store heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Historic Centre",
+              "tip_4lang": {
+                "de": "Die Sonne erreicht die engen Gassen im Winter nur selten.",
+                "hu": "A nap télen ritkán éri el a szűk utcákat.",
+                "ro": "Soarele ajunge rar pe străzile înguste în timpul iernii.",
+                "en": "The sun rarely reaches the narrow streets in winter."
+              }
+            },
+            {
+              "name": "Glanum / Les Antiques",
+              "tip_4lang": {
+                "de": "Letzter Bus zurück meist gegen 17:30 – nicht verpassen!",
+                "hu": "Az utolsó busz vissza általában 17:30 körül indul – ne késse le!",
+                "ro": "Ultimul autobuz înapoi e de obicei pe la 17:30 – nu-l ratați!",
+                "en": "Last bus back is usually around 5:30 PM – don't miss it!"
+              }
+            },
+            {
+              "name": "Saint-Paul-de-Mausole",
+              "tip_4lang": {
+                "de": "Bei Dunkelheit ist der Weg zur Haltestelle schlecht beleuchtet.",
+                "hu": "Sötétben a megállóhoz vezető út rosszul megvilágított.",
+                "ro": "Drumul spre stație este prost iluminat după lăsarea întunericului.",
+                "en": "The walk to the bus stop is poorly lit after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft seltener; Fahrplan vorab prüfen.",
+              "Die Haltestellen in Glanum liegen exponiert im Wind.",
+              "Nehmen Sie ein heißes Getränk im Thermobecher mit.",
+              "Sonne geht um 17:00 Uhr unter; planen Sie Ihre Rückkehr davor."
+            ],
+            "hu": [
+              "A buszok télen gyakran ritkábban járnak; ellenőrizze előre.",
+              "A Glanum megállói kitettek a szélnek.",
+              "Vigyen magával forró italt termopohárban.",
+              "A nap 17:00-kor nyugszik; tervezze a visszatérést előbb."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; verificați orarul în avans.",
+              "Stațiile de la Glanum sunt expuse vântului.",
+              "Luați o băutură fierbinte într-o cană termică.",
+              "Soarele apune la 17:00; planificați întoarcerea înainte."
+            ],
+            "en": [
+              "Buses may run less frequently in winter; check the timetable ahead.",
+              "The bus stops at Glanum are very exposed to the wind.",
+              "Bring a hot drink in a thermal mug for the bus ride.",
+              "Sunset is around 5:00 PM; plan your return before it gets dark."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.alpillesenprovence.com/",
-    "events": "https://www.alpillesenprovence.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://lepilote.com/",
-    "language_tips": {
-      "de": "Saint-Rémy ist klassisch provenzalisch, mit einem kosmopolitischen Touch dank van-Gogh-Pilgern. Englisch wird in den Galerien und Restaurants um die Place de la République gut gesprochen. Lernen Sie 'Glanum' (gluh-num) für die römische Ausgrabungsstätte und 'Saint-Paul de Mausole' für das Asyl, in dem van Gogh lebte.",
-      "hu": "Saint-Rémy klasszikus provence-i hely, kozmopolita beütéssel a van Gogh-zarándokoknak köszönhetően. A Place de la République körüli galériákban és éttermekben jól beszélnek angolul. Tanuld meg a 'Glanum' (glü-num) nevet a római ásatáshoz és a 'Saint-Paul de Mausole' nevet, ahol van Gogh élt.",
-      "ro": "Saint-Rémy este clasic provensal, cu o notă cosmopolită datorită pelerinilor van Gogh. Engleza se vorbește bine în galeriile și restaurantele din jurul Place de la République. Învățați 'Glanum' (glă-num) pentru situl arheologic roman și 'Saint-Paul de Mausole' pentru azilul unde a locuit van Gogh.",
-      "en": "Saint-Rémy is classic Provençal with a cosmopolitan touch from van Gogh pilgrims. English is well spoken in galleries and restaurants around Place de la République. Learn 'Glanum' (gluh-num) for the Roman site and 'Saint-Paul de Mausole' for the asylum where van Gogh lived."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühender Lavendel im Juli, weniger Touristen und ideale Bedingungen für Wanderungen in den Alpilles. Juli und August können sehr heiß werden (über 35°C), aber der Lavendel zieht viele Fotografen an. Der Mistral kann unangenehm sein.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe időjárás, júliusi virágzó levendula, kevés turista és tökéletes feltételek az Alpilles túrákhoz. Júliusban és augusztusban nagyon meleg lehet (35°C felett), de a levendula sok fotóst vonz. A misztrál kellemetlen lehet.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, lavandă înflorită în iulie, mai puțini turiști și condiții perfecte pentru drumeții în Alpilles. Iulie-august pot fi foarte calde (peste 35°C), dar lavanda atrage mulți fotografi. Mistralul poate fi neplăcut.",
-      "en": "April-June and September-October are ideal: mild weather, blooming lavender in July, fewer tourists, and perfect conditions for hiking in the Alpilles. July-August can be very hot (over 35°C), though lavender attracts many photographers. The Mistral wind can be relentless."
-    },
-    "neighborhood_warnings": {
-      "de": "Saint-Rémy ist sehr sicher, eine ruhige Provence-Stadt. Im Sommer können die Hauptstraßen voll mit Touristenautos sein - parken Sie früh oder nutzen Sie die Außenparkplätze. Beim Wandern in den Alpilles auf Hitze und Schlangen achten.",
-      "hu": "Saint-Rémy nagyon biztonságos, csendes provence-i város. Nyáron a főutcák tele lehetnek turistaautókkal - parkolj korán vagy használd a külső parkolókat. Az Alpilles túrákon figyelj a hőségre és kígyókra.",
-      "ro": "Saint-Rémy este foarte sigur, un oraș provensal liniștit. Vara, străzile principale pot fi pline cu mașini turistice - parcați devreme sau folosiți parcările exterioare. La drumeții în Alpilles, atenție la căldură și șerpi.",
-      "en": "Saint-Rémy is very safe, a quiet Provence town. In summer the main streets fill with tourist cars - park early or use the outer car parks. When hiking the Alpilles, beware of heat and snakes on rocky paths."
-    },
-    "parking_real_time": ""
   }
 }

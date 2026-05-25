@@ -320,6 +320,442 @@
           "Bring water and sunscreen, the mountain sun is strong.",
           "Some hiking trails are ski slopes in winter, check the season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im malerischen Le Praz, wo Sie den Geist der Olympischen Spiele an den gewaltigen Sprungschanzen spüren können. Wandern Sie hinunter zum historischen Herz von Saint-Bon, um die barocke Architektur zu bewundern.\n\nAm Mittag führt Sie der Weg zum atemberaubenden Lac de la Rosière. Die natürliche Schönheit des türkisblauen Wassers bietet die perfekte Kulisse für eine entspannte Mittagspause in den Bergen.\n\nDer Nachmittag steht im Zeichen von Courchevel 1850. Besuchen Sie das Forum für Unterhaltung und Kultur, bevor Sie die luxuriösen Boutiquen der Umgebung erkunden.\n\nBeenden Sie den Tag mit einem Moment der Stille in der Chapelle Notre-Dame, während die Sonne hinter den majestätischen Gipfeln der Savoyer Alpen versinkt.",
+            "hu": "Kezdje a napot a festői Le Praz-ban, ahol az olimpiai sísáncok tövében érezheti a sporttörténelem szelét. Sétáljon le Saint-Bon történelmi szívébe, hogy megcsodálja a barokk építészetet.\n\nDélben az útja a lélegzetelállító Rosière-tóhoz vezet. A türkizkék víz természetes szépsége tökéletes hátteret biztosít egy pihentető hegyi ebédszünethez.\n\nA délután Courchevel 1850 felfedezéséről szól. Látogasson el a Fórumba szórakozásért és kultúráért, majd fedezze fel a környék luxusboltjait.\n\nA napot a Nagyboldogasszony-kápolna csendjében zárja, miközben a nap lassan nyugovóra tér a Savoyai-Alpok fenséges csúcsai mögött.",
+            "ro": "Începeți ziua în pitorescul Le Praz, unde puteți simți spiritul olimpic lângă trambulinele masive. Coborâți spre inima istorică din Saint-Bon pentru a admira arhitectura barocă.\n\nLa prânz, drumul vă duce la uimitorul Lac de la Rosière. Frumusețea naturală a apei turcoaz oferă cadrul perfect pentru o pauză de prânz relaxantă la munte.\n\nDupă-amiaza este dedicată explorării Courchevel 1850. Vizitați Forumul pentru divertisment și cultură, înainte de a explora buticurile de lux din zonă.\n\nÎncheiați ziua cu un moment de liniște la Capela Notre-Dame, în timp ce soarele apune după vârfurile maiestuoase ale Alpilor Savoiei.",
+            "en": "Start your day in picturesque Le Praz, where you can feel the Olympic spirit by the massive ski jumps. Walk down to the historical heart of Saint-Bon to admire the Baroque architecture.\n\nAt midday, your path leads to the breathtaking Lac de la Rosière. The natural beauty of the turquoise water provides the perfect backdrop for a relaxing mountain lunch break.\n\nThe afternoon is dedicated to exploring Courchevel 1850. Visit the Forum for entertainment and culture, then explore the surrounding luxury boutiques.\n\nEnd the day with a moment of silence at the Chapelle Notre-Dame, as the sun sets behind the majestic peaks of the Savoy Alps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Praz",
+                "hu": "Le Praz",
+                "ro": "Le Praz",
+                "en": "Le Praz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in diesem traditionellen Bergdorf vor dem großen Ansturm.",
+                "hu": "Élvezze a nyugalmat ebben a hagyományos hegyi faluban a reggeli órákban.",
+                "ro": "Bucurați-vă de liniștea acestui sat montan tradițional înainte de aglomerație.",
+                "en": "Enjoy the tranquility of this traditional mountain village before the crowds arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Tremplins du Praz",
+                "hu": "Praz sísáncok",
+                "ro": "Trambulinele du Praz",
+                "en": "Tremplins du Praz"
+              },
+              "tip_5lang": {
+                "de": "Die olympischen Sprungschanzen von 1992 sind auch im Sommer beeindruckend zu sehen.",
+                "hu": "Az 1992-es olimpiai sísáncok nyáron is lenyűgöző látványt nyújtanak.",
+                "ro": "Trambulinele olimpice din 1992 sunt impresionante chiar și pe timp de vară.",
+                "en": "The 1992 Olympic ski jumps are impressive to see even during the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Bon",
+                "hu": "Saint-Bon templom",
+                "ro": "Biserica Saint-Bon",
+                "en": "Église Saint-Bon"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderschöne Barockkirche im ältesten Teil der Gemeinde Courchevel.",
+                "hu": "Egy gyönyörű barokk templom Courchevel község legrégebbi részén.",
+                "ro": "O frumoasă biserică barocă în cea mai veche parte a comunei Courchevel.",
+                "en": "A beautiful Baroque church in the oldest part of the Courchevel municipality."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Rosière",
+                "hu": "Rosière-tó",
+                "ro": "Lacul de la Rosière",
+                "en": "Lac de la Rosière"
+              },
+              "tip_5lang": {
+                "de": "Der türkisfarbene See ist ideal für ein Picknick oder eine Grillpause im Freien.",
+                "hu": "A türkizkék tó ideális egy szabadtéri piknikhez vagy grillezéshez.",
+                "ro": "Lacul turcoaz este ideal pentru un picnic sau o pauză de grătar în aer liber.",
+                "en": "The turquoise lake is ideal for an outdoor picnic or a barbecue break."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum de Courchevel",
+                "hu": "Courchevel Fórum",
+                "ro": "Forum de Courchevel",
+                "en": "Forum de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Ein Zentrum für Sport und Kultur mit einer Eislaufbahn und vielen Geschäften.",
+                "hu": "Sport- és kulturális központ jégpályával és számos üzlettel.",
+                "ro": "Un centru pentru sport și cultură, cu un patinoar și multe magazine.",
+                "en": "A hub for sports and culture with an ice rink and many shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Diese Kápolna in 1850 bietet einen friedlichen Rückzugsort inmitten des Luxus.",
+                "hu": "Ez az 1850-es magasságban található kápolna békés menedéket nyújt a luxus közepette.",
+                "ro": "Această capelă de la cota 1850 oferă un refugiu liniștit în mijlocul luxului.",
+                "en": "This chapel at 1850 altitude offers a peaceful retreat amidst the luxury."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Genépi",
+                "tip": "Probieren Sie das traditionelle Fondue Savoyarde in gemütlicher Atmosphäre."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Ein herzhaftes lokales Gericht mit Kartoffeln, Reblochon-Käse und Speck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Genépi",
+                "tip": "Kóstolja meg a hagyományos sajtfondüt barátságos környezetben."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Kiadós helyi étel burgonyával, Reblochon sajttal és szalonnával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Genépi",
+                "tip": "Încercați tradiționalul fondue savoyard într-o atmosferă primitoare."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "Un preparat local consistent cu cartofi, brânză Reblochon și slănină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Genépi",
+                "tip": "Try the traditional Savoyard fondue in a cozy atmosphere."
+              },
+              {
+                "name": "Tartiflette",
+                "tip": "A hearty local dish with potatoes, Reblochon cheese, and bacon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac de la Rosière",
+                "tip": "Ein ruhiger Ort am Wasser, umgeben von Tannen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Saint-Bon-Tarentaise",
+                "tip": "Das ursprüngliche Dorf bietet abseits der Pisten viel Ruhe.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rosière-tó",
+                "tip": "Csendes vízparti hely fenyőfákkal körülvéve.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Saint-Bon-Tarentaise",
+                "tip": "Az eredeti falu nagy nyugalmat áraszt a pályáktól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul de la Rosière",
+                "tip": "Un loc liniștit lângă apă, înconjurat de brazi.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Saint-Bon-Tarentaise",
+                "tip": "Satul original oferă multă liniște departe de pârtii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac de la Rosière",
+                "tip": "A quiet spot by the water, surrounded by fir trees.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Saint-Bon-Tarentaise",
+                "tip": "The original village offers plenty of peace away from the slopes.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Courchevel 1850 Boutiques",
+                "tip": "Luxusmarken und hochwertige Skimode."
+              },
+              {
+                "name": "La Coopérative Laitière",
+                "tip": "Bester lokaler Beaufort-Käse direkt aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Courchevel 1850 butikok",
+                "tip": "Luxusmárkák és prémium síruházat."
+              },
+              {
+                "name": "La Coopérative Laitière",
+                "tip": "A legjobb helyi Beaufort sajt közvetlenül a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutiques Courchevel 1850",
+                "tip": "Branduri de lux și modă de schi premium."
+              },
+              {
+                "name": "La Coopérative Laitière",
+                "tip": "Cea mai bună brânză locală Beaufort direct din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Courchevel 1850 Boutiques",
+                "tip": "Luxury brands and high-end ski fashion."
+              },
+              {
+                "name": "La Coopérative Laitière",
+                "tip": "Best local Beaufort cheese directly from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie feste Wanderschuhe, da die Wege steil sein können.",
+              "Nutzen Sie die kostenlosen Pendelbusse zwischen den Dorfebenen.",
+              "Bringen Sie Wasser und Sonnenschutz mit, die Höhensonne ist stark.",
+              "Einige Wanderwege sind im Winter Skipisten, prüfen Sie die Saison."
+            ],
+            "hu": [
+              "Viseljen erős túracipőt, mert az ösvények meredekek lehetnek.",
+              "Használja az ingyenes buszjáratokat a falvak különböző szintjei között.",
+              "Vigyen magával vizet és fényvédőt, a hegyi nap erős.",
+              "Néhány túraútvonal télen sípálya, ellenőrizze a szezont."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție solidă, deoarece potecile pot fi abrupte.",
+              "Folosiți autobuzele gratuite de transfer între nivelurile stațiunii.",
+              "Aduceți apă și protecție solară, soarele de munte este puternic.",
+              "Unele trasee de drumeție sunt pârtii de schi iarna, verificați sezonul."
+            ],
+            "en": [
+              "Wear sturdy hiking boots as the paths can be steep.",
+              "Use the free shuttle buses between the different village levels.",
+              "Bring water and sunscreen, the mountain sun is strong.",
+              "Some hiking trails are ski slopes in winter, check the season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im beschaulichen Le Praz, wo der Regen die Gassen in einen sanften Glanz hüllt. Ein Schirm ist heute Ihr bester Begleiter beim Besuch der Tremplins. Mittags bietet die Kirche Saint-Bon einen trockenen Rückzugsort voller Stille. Am Nachmittag führt der Weg zum Lac de la Rosière; der Wald bietet hier natürlichen Schutz vor den Tropfen. Den Abend verbringen Sie im Forum von Courchevel, wo zahlreiche Indoor-Aktivitäten auf Sie warten.",
+            "hu": "A nap a csendes Le Praz-ban indul, ahol az eső különleges csillogást ad a régi utcáknak. Az ugrósáncok meglátogatásához ma elengedhetetlen az esernyő. Délben a Saint-Bon templom nyújt száraz és békés menedéket. Délután a Lac de la Rosière felé vesszük az irányt, ahol a fenyvesek természetes ernyőként védenek. Az estét a Courchevel Forum fedett tereiben zárjuk, ahol minden adott a kikapcsolódáshoz.",
+            "ro": "Ziua începe în liniștitul Le Praz, unde ploaia oferă o strălucire aparte străzilor vechi. O umbrelă este esențială astăzi pentru vizitarea trambulinelelor. La prânz, biserica Saint-Bon oferă un refugiu uscat și plin de liniște. După-amiaza, drumul duce spre Lac de la Rosière, unde pădurea oferă protecție naturală împotriva picăturilor. Seara este petrecută în Forumul din Courchevel, unde activitățile de interior vă așteaptă.",
+            "en": "The day begins in peaceful Le Praz, where the rain lends a soft glow to the old streets. An umbrella is your best companion today while visiting the ski jumps. At noon, the Saint-Bon church provides a dry and peaceful retreat. In the afternoon, the path leads to Lac de la Rosière, where the forest offers natural shelter from the rain. Spend the evening at the Forum de Courchevel, where indoor activities keep you dry and entertained."
+          },
+          "stops": [
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Hauseingänge bei starken Schauern.",
+                "hu": "Használja az ereszaljakat menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți intrările acoperite pentru adăpost în caz de aversă.",
+                "en": "Use the covered doorways for shelter during heavy showers."
+              }
+            },
+            {
+              "name": "Tremplins du Praz",
+              "tip_5lang": {
+                "de": "Der Asphalt kann rutschig sein; gehen Sie vorsichtig.",
+                "hu": "Az aszfalt csúszós lehet, óvatosan közlekedjen.",
+                "ro": "Asfaltul poate fi alunecos; mergeți cu atenție.",
+                "en": "The asphalt can be slippery; walk with caution."
+              }
+            },
+            {
+              "name": "Église Saint-Bon",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenpause abzuwarten.",
+                "hu": "Tökéletes helyszín az eső elől való behúzódásra.",
+                "ro": "Un loc ideal pentru a aștepta oprirea ploii.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Wasserdichte Wanderschuhe sind für die Waldwege Pflicht.",
+                "hu": "Vízálló túrabakancs kötelező az erdei ösvényekhez.",
+                "ro": "Bocancii impermeabili sunt obligatorii pentru potecile de pădure.",
+                "en": "Waterproof hiking boots are essential for the forest paths."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Genießen Sie die Bowlingbahn oder das Einkaufszentrum im Trockenen.",
+                "hu": "Élvezze a bowlingot vagy a plázát teljesen fedett helyen.",
+                "ro": "Bucurați-vă de bowling sau de centrul comercial la adăpost.",
+                "en": "Enjoy the bowling alley or the shopping center indoors."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Forum, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a Forumtól, tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la Forum; țineți umbrela la îndemână.",
+                "en": "Short walk from the Forum; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Gore-Tex Kleidung für die Höhenlagen.",
+              "Die Waldwege am See können schlammig sein, bleiben Sie auf den Hauptpfaden.",
+              "Das Forum bietet ideale Indoor-Alternativen bei Dauerregen.",
+              "Prüfen Sie die Sichtverhältnisse, bevor Sie höhere Pfade wählen."
+            ],
+            "hu": [
+              "Viseljen jó minőségű Gore-Tex ruházatot a hegyi szakaszokon.",
+              "A tó körüli erdei utak sarasak lehetnek, maradjon a fő ösvényen.",
+              "A Forum kiváló fedett alternatívát nyújt tartós eső esetén.",
+              "Ellenőrizze a látási viszonyokat, mielőtt magasabb szakaszokra indul."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte Gore-Tex de calitate pentru zonele înalte.",
+              "Potecile de lângă lac pot fi noroioase; rămâneți pe drumul principal.",
+              "Forumul oferă alternative excelente de interior în caz de ploaie continuă.",
+              "Verificați vizibilitatea înainte de a alege traseele mai înalte."
+            ],
+            "en": [
+              "Wear high-quality Gore-Tex clothing for the mountain sections.",
+              "Forest paths near the lake can be muddy; stick to the main trails.",
+              "The Forum offers great indoor alternatives during persistent rain.",
+              "Check visibility levels before heading to higher elevation paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt Sie in Saint-Bon, während der Schnee unter den Stiefeln knirscht. Der Weg nach Le Praz führt durch eine glitzernde Winterlandschaft. Mittags wärmen Sie sich in der historischen Kirche auf, bevor es zum Lac de la Rosière geht, der oft märchenhaft zugefroren ist. Der Nachmittag bietet spektakuläre Ausblicke auf die verschneiten Gipfel. Den Abend lassen Sie gemütlich im beleuchteten Forum ausklingen, während draußen die Kälte regiert.",
+            "hu": "Fagyos reggel köszönti Önt Saint-Bon-ban, a hó ropog a bakancs alatt. Az út Le Praz felé csillogó téli tájon vezet keresztül. Délben a történelmi templomban melegedhetünk fel, mielőtt a mesésen befagyott Lac de la Rosière-hez indulnánk. A délután látványos kilátást kínál a havas csúcsokra. Az estét a kivilágított Forum melegében zárjuk, miközben odakint átveszi az uralmat a téli hideg.",
+            "ro": "O dimineață geroasă vă întâmpină în Saint-Bon, cu zăpada scârțâind sub ghete. Drumul spre Le Praz trece printr-un peisaj de iarnă sclipitor. La prânz, vă încălziți în biserica istorică înainte de a merge la Lac de la Rosière, care este adesea înghețat feeric. După-amiaza oferă priveliști spectaculoase asupra vârfurilor înzăpezite. Încheiați seara confortabil în Forumul iluminat, în timp ce afară stăpânește frigul.",
+            "en": "A frosty morning greets you in Saint-Bon, with snow crunching under your boots. The walk to Le Praz leads through a sparkling winter wonderland. At noon, warm up in the historical church before heading to Lac de la Rosière, which is often magically frozen. The afternoon offers spectacular views of the snow-capped peaks. End your evening comfortably in the brightly lit Forum, while the winter cold takes over outside."
+          },
+          "stops": [
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dächern der Chalets.",
+                "hu": "Ügyeljen a háztetőkről lelógó jégcsapokra a faluban.",
+                "ro": "Atenție la țurțurii de pe acoperișurile cabanelor.",
+                "en": "Watch out for icicles hanging from the chalet roofs."
+              }
+            },
+            {
+              "name": "Tremplins du Praz",
+              "tip_5lang": {
+                "de": "Die Tribünen können vereist sein, nutzen Sie die Handläufe.",
+                "hu": "A lelátók jegesek lehetnek, használja a korlátokat.",
+                "ro": "Tribunele pot fi înghețate; folosiți balustradele.",
+                "en": "The stands can be icy; make use of the handrails."
+              }
+            },
+            {
+              "name": "Église Saint-Bon",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem eisigen Wind.",
+                "hu": "A vastag falak jól védenek a jeges szél elől.",
+                "ro": "Zidurile groase oferă o protecție bună împotriva vântului rece.",
+                "en": "The thick walls provide good shelter from the biting wind."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die Eisfläche des Sees!",
+                "hu": "Soha ne lépjen a tó jégfelületére!",
+                "ro": "Nu călcați niciodată pe suprafața înghețată a lacului!",
+                "en": "Never step onto the frozen surface of the lake!"
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Die Eisbahn im Inneren ist ein Winter-Highlight.",
+                "hu": "A benti korcsolyapálya igazi téli különlegesség.",
+                "ro": "Patinoarul interior este un punct forte al iernii.",
+                "en": "The indoor ice rink is a highlight of the winter season."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Der Weg ist meist gut geräumt, aber Vorsicht vor Glätte.",
+                "hu": "Az út általában takarított, de vigyázzon a felfagyással.",
+                "ro": "Drumul este de obicei deszăpezit, dar atenție la polei.",
+                "en": "The path is usually cleared, but watch out for black ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter bereits gegen 17:00 Uhr hinter den Bergen.",
+              "Zwiebelprinzip bei der Kleidung ist wegen der Kälte unverzichtbar.",
+              "Nutzen Sie die beheizten Wartebereiche in den Liftstationen.",
+              "Eisgreifer für die Schuhe sind auf den Wanderwegen sehr hilfreich."
+            ],
+            "hu": [
+              "A nap télen már 17:00 körül eltűnik a hegyek mögött.",
+              "A réteges öltözködés elengedhetetlen a nagy hideg miatt.",
+              "Használja a fűtött várótermeket a felvonóállomásokon.",
+              "A cipőre húzható csúszásgátló nagyon hasznos a túraösvényeken."
+            ],
+            "ro": [
+              "Soarele dispare după munți în jurul orei 17:00 iarna.",
+              "Îmbrăcămintea stratificată este indispensabilă din cauza frigului.",
+              "Folosiți zonele de așteptare încălzite din stațiile de teleschi.",
+              "Ghearele pentru gheață sunt foarte utile pe potecile de drumeție."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 17:00 in winter.",
+              "Layering your clothes is essential due to the intense cold.",
+              "Take advantage of the heated waiting areas in lift stations.",
+              "Ice cleats for your boots are very helpful on the hiking trails."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -598,6 +1034,406 @@
           "The main road can have a lot of traffic, use side paths.",
           "Watch out for hikers on shared paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine sportliche Tour durch die verschiedenen Ebenen von Courchevel vor. Sie starten im ruhigen Saint-Bon und erklimmen die Serpentinen nach Le Praz, wo die olympischen Sprungschanzen thronen.\n\nDer anstrengendste Teil folgt am späten Vormittag mit dem Aufstieg nach Courchevel 1850. Belohnen Sie sich mit einer Pause am Forum, dem pulsierenden Herz des Resorts.\n\nNach dem Mittagessen radeln Sie zum legendären Altiport. Die Aussicht auf die extrem geneigte Landebahn ist ein highlight für jeden Technik- und Bergbegeisterten.\n\nZum Abschluss genießen Sie die frische Brise am Lac de la Rosière. Die anschließende Abfahrt zurück ins Tal ist der perfekte Lohn für Ihre Mühen.",
+            "hu": "Készüljön fel egy sportos túrára Courchevel különböző szintjein keresztül. A csendes Saint-Bonból indulva küzdje le a szerpentineket Le Praz-ig, ahol az olimpiai sísáncok tornyosulnak.\n\nA legnehezebb rész délelőtt következik a Courchevel 1850-re való felkapaszkodással. Jutalmazza meg magát egy pihenővel a Fórumban, a resort lüktető szívében.\n\nEbéd után tekerjen el a legendás Altiportig. Az extrém lejtésű kifutópályára nyíló kilátás minden technika- és hegybarát számára felejthetetlen élmény.\n\nBefejezésül élvezze a friss szellőt a Rosière-tónál. Az ezt követő gurulás vissza a völgybe tökéletes jutalom a befektetett energiáért.",
+            "ro": "Pregătiți-vă pentru un tur sportiv prin diferitele niveluri ale stațiunii Courchevel. Pornind din liniștitul Saint-Bon, cuceriți serpentinele până la Le Praz, unde tronează trambulinele olimpice.\n\nCea mai grea parte urmează la sfârșitul dimineții, cu urcarea spre Courchevel 1850. Recompensați-vă cu o pauză la Forum, inima vibrantă a stațiunii.\n\nDupă prânz, pedalați până la legendarul Altiport. Vederea pistei extrem de înclinate este un punct culminant pentru orice pasionat de tehnologie și munte.\n\nLa final, bucurați-vă de briza proaspătă la Lacul de la Rosière. Coborârea ulterioară înapoi în vale este recompensa perfectă pentru eforturile depuse.",
+            "en": "Prepare for a sporty tour through the different levels of Courchevel. Starting in quiet Saint-Bon, tackle the serpentines up to Le Praz, where the Olympic ski jumps tower.\n\nThe hardest part follows in the late morning with the climb to Courchevel 1850. Reward yourself with a break at the Forum, the vibrant heart of the resort.\n\nAfter lunch, cycle to the legendary Altiport. The view of the extremely sloped runway is a highlight for every tech and mountain enthusiast.\n\nFinally, enjoy the fresh breeze at Lac de la Rosière. The subsequent downhill ride back to the valley is the perfect reward for your efforts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Bon",
+                "hu": "Saint-Bon",
+                "ro": "Saint-Bon",
+                "en": "Saint-Bon"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am tiefsten Punkt für eine sportliche Herausforderung bergauf.",
+                "hu": "Kezdjen a legmélyebb ponton egy sportos hegyi kihíváshoz.",
+                "ro": "Începeți de la cel mai jos punct pentru o provocare sportivă la deal.",
+                "en": "Start at the lowest point for a sporty uphill challenge."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Praz",
+                "hu": "Le Praz",
+                "ro": "Le Praz",
+                "en": "Le Praz"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause am See in Le Praz, bevor es weitergeht.",
+                "hu": "Tartson egy rövid szünetet a Le Praz-i tónál a folytatás előtt.",
+                "ro": "Faceți o scurtă pauză lângă lacul din Le Praz înainte de a continua.",
+                "en": "Take a short break by the lake in Le Praz before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Tremplins du Praz",
+                "hu": "Praz sísáncok",
+                "ro": "Trambulinele du Praz",
+                "en": "Tremplins du Praz"
+              },
+              "tip_5lang": {
+                "de": "Biken Sie an den Giganten vorbei, die die Springer in die Luft katapultieren.",
+                "hu": "Tekerjen el az óriási sáncok mellett, amelyek a magasba repítik az ugrókat.",
+                "ro": "Mergeți cu bicicleta pe lângă giganții care îi catapultează pe săritori în aer.",
+                "en": "Bike past the giants that catapult jumpers into the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum de Courchevel",
+                "hu": "Courchevel Fórum",
+                "ro": "Forum de Courchevel",
+                "en": "Forum de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg nach 1850 ist anstrengend, aber die Infrastruktur am Forum lohnt sich.",
+                "hu": "Az 1850-re vezető emelkedő fárasztó, de a Fórum szolgáltatásai megérik.",
+                "ro": "Urcarea spre 1850 este obositoare, dar facilitățile de la Forum merită efortul.",
+                "en": "The climb to 1850 is tiring, but the facilities at the Forum are worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Altiport de Courchevel",
+                "hu": "Courchevel Altiport",
+                "ro": "L'Altiport de Courchevel",
+                "en": "L'Altiport de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Flugzeuge auf einer der gefährlichsten Landebahnen der Welt.",
+                "hu": "Figyelje a repülőket a világ egyik legveszélyesebb kifutópályáján.",
+                "ro": "Urmăriți avioanele pe una dintre cele mai periculoase piste din lume.",
+                "en": "Watch planes on one of the most dangerous runways in the world."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Rosière",
+                "hu": "Rosière-tó",
+                "ro": "Lacul de la Rosière",
+                "en": "Lac de la Rosière"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss am See, bevor es nur noch bergab geht.",
+                "hu": "Pihentető befejezés a tónál, mielőtt megkezdené a hosszú lejtmenetet.",
+                "ro": "Un final relaxant la lac înainte de a începe coborârea lungă.",
+                "en": "A relaxing end at the lake before starting the long downhill ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Bistro du Praz",
+                "tip": "Ideal für eine kräftige Stärkung mit lokalen Produkten."
+              },
+              {
+                "name": "Crozets",
+                "tip": "Kleine, quadratische Buchweizennudeln aus Savoyen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Bistro du Praz",
+                "tip": "Ideális egy kiadós étkezéshez helyi alapanyagokból."
+              },
+              {
+                "name": "Crozets",
+                "tip": "Kicsi, négyszögletű hajdina tészta Savoya régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Bistro du Praz",
+                "tip": "Ideal pentru o masă consistentă cu produse locale."
+              },
+              {
+                "name": "Crozets",
+                "tip": "Paste mici, pătrate, din hrișcă, specifice Savoiei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Bistro du Praz",
+                "tip": "Ideal for a hearty meal with local products."
+              },
+              {
+                "name": "Crozets",
+                "tip": "Small, square buckwheat pasta from Savoy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldwege bei La Rosière",
+                "tip": "Schatten und Ruhe abseits der befestigten Straßen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Rosière erdei ösvények",
+                "tip": "Árnyék és nyugalom a kövezett utaktól távol.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteci forestiere lângă La Rosière",
+                "tip": "Umbră și liniște departe de drumurile pavate.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Forest paths near La Rosière",
+                "tip": "Shadow and peace away from the paved roads.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ski-Service Le Praz",
+                "tip": "Ausrüstung und Karten für Ihre Tour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ski-Service Le Praz",
+                "tip": "Felszerelés és térképek a túrához."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ski-Service Le Praz",
+                "tip": "Echipament și hărți pentru turul dumneavoastră."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ski-Service Le Praz",
+                "tip": "Equipment and maps for your tour."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike wird dringend empfohlen, wenn Sie kein Profi sind.",
+              "Prüfen Sie Ihre Bremsen vor den langen Abfahrten.",
+              "Die Hauptstraße kann viel Verkehr haben, nutzen Sie Nebenwege.",
+              "Achten Sie auf Wanderer auf den gemeinsamen Wegen."
+            ],
+            "hu": [
+              "Az e-bike használata erősen ajánlott, ha nem profi sportoló.",
+              "Ellenőrizze a fékeket a hosszú lejtmenetek előtt.",
+              "A főúton nagy lehet a forgalom, használja a mellékutakat.",
+              "Figyeljen a gyalogosokra a közös használatú ösvényeken."
+            ],
+            "ro": [
+              "Se recomandă insistent o bicicletă electrică dacă nu sunteți profesionist.",
+              "Verificați frânele înainte de coborârile lungi.",
+              "Drumul principal poate fi aglomerat, folosiți rute secundare.",
+              "Aveți grijă la excursioniști pe traseele comune."
+            ],
+            "en": [
+              "An e-bike is strongly recommended unless you are a pro.",
+              "Check your brakes before the long descents.",
+              "The main road can have a lot of traffic, use side paths.",
+              "Watch out for hikers on shared paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet erfrischend in Saint-Bon, wobei die nassen Straßen volle Konzentration erfordern. In Le Praz glänzt das Kopfsteinpflaster gefährlich schön. Mittags bieten die Tremplins einen beeindruckenden Anblick im Nebel. Der Nachmittag führt bergauf zum Forum, wo Sie Ihre Kleidung trocknen können. Die Fahrt zum Altiport und See ist bei Regen eine sportliche Herausforderung, die mit absoluter Ruhe belohnt wird.",
+            "hu": "A kerékpártúra frissítően indul Saint-Bon-ban, a vizes aszfalt teljes koncentrációt igényel. Le Praz-ban a macskakő veszélyesen csillog. Délben az ugrósáncok lenyűgöző látványt nyújtanak a ködben. Délután a Forum felé tekerünk, ahol lehetőség van a ruházat szárítására. Az Altiport és a tó felé vezető út esőben komoly sportteljesítmény, amit a teljes csend jutalmaz.",
+            "ro": "Turul cu bicicleta începe revigorant în Saint-Bon, străzile ude necesitând concentrare maximă. În Le Praz, piatra cubică strălucește periculos. La prânz, trambulinele oferă o priveliște impresionantă în ceață. După-amiaza urcăm spre Forum, unde vă puteți usca hainele. Drumul spre Altiport și lac este o provocare sportivă pe ploaie, răsplătită cu o liniște absolută.",
+            "en": "The bike tour starts refreshingly in Saint-Bon, with wet roads requiring full concentration. In Le Praz, the cobblestones shine with a dangerous beauty. At noon, the ski jumps offer an impressive sight through the mist. The afternoon climb leads to the Forum, where you can dry off. Cycling to the Altiport and the lake in the rain is a sporting challenge rewarded by absolute tranquility."
+          },
+          "stops": [
+            {
+              "name": "Saint-Bon",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+                "hu": "Ellenőrizze a fékeket az esős indulás előtt.",
+                "ro": "Verificați frânele înainte de plecarea pe ploaie.",
+                "en": "Check your brakes before starting off in the rain."
+              }
+            },
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster in den Kurven.",
+                "hu": "Vigyázzon a vizes macskaköveken a kanyarokban.",
+                "ro": "Atenție la piatra cubică udă în viraje.",
+                "en": "Be careful on wet cobblestones when cornering."
+              }
+            },
+            {
+              "name": "Tremplins du Praz",
+              "tip_5lang": {
+                "de": "Die Metallgitter können bei Nässe sehr rutschig sein.",
+                "hu": "A fémrácsok nagyon csúszósak lehetnek nedvesen.",
+                "ro": "Grătarele metalice pot fi foarte alunecoase când sunt ude.",
+                "en": "Metal gratings can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete de lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die Schlaglöcher verdecken könnten.",
+                "hu": "Vigyázzon a pocsolyákra, amik kátyúkat rejthetnek.",
+                "ro": "Atenție la bălțile care pot ascunde gropi.",
+                "en": "Watch out for puddles that might hide potholes."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Der Untergrund am See ist bei Regen sehr weich.",
+                "hu": "A tó körüli talaj esőben nagyon felázhat.",
+                "ro": "Terenul de lângă lac este foarte moale pe ploaie.",
+                "en": "The ground near the lake is very soft during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Straßenstellen.",
+              "Tragen Sie neongelbe Regenbekleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A sárvédő használata ilyenkor elengedhetetlen.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes úton.",
+              "Kerülje a hirtelen fékezést a felfestett útburkolati jeleken.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe acest tip de vreme.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe carosabil ud.",
+              "Evitați frânările bruște pe marcajele rutiere.",
+              "Purtați pelerină de ploaie reflectorizantă pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid sudden braking on painted road markings.",
+              "Wear high-visibility rain gear to be seen by motorists."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein episches Winterabenteuer beginnt auf zwei Rädern in Saint-Bon. Die kalte Bergluft ist belebend, während Sie nach Le Praz radeln. Mittags sind die Tremplins in tiefes Weiß gehüllt – ein grandioses Fotomotiv. Die Auffahrt zum Forum wärmt die Muskeln auf. Am Nachmittag ist die Strecke zum Altiport besonders stimmungsvoll, wenn die Sonne tief steht. Der Tag endet am Lac de la Rosière, wo die winterliche Stille nur vom Knirschen Ihrer Reifen unterbrochen wird.",
+            "hu": "Epikus téli kaland indul két keréken Saint-Bon-ban. A hideg hegyi levegő frissítő, miközben Le Praz felé tekerünk. Délben az ugrósáncok hófehérbe burkolóznak – pazar fotótéma. A felfelé út a Forumhoz alaposan bemelegíti az izmokat. Délután az Altiport felé vezető szakasz különösen hangulatos a laposan beeső fényben. A nap a Lac de la Rosière-nél zárul, ahol a téli csendet csak a gumi ropogása töri meg.",
+            "ro": "O aventură epică de iarnă începe pe două roți în Saint-Bon. Aerul rece de munte este revigorant în timp ce pedalați spre Le Praz. La prânz, trambulinele sunt învăluite în alb pur – un motiv fotografic grandios. Urcarea spre Forum vă va încălzi mușchii. După-amiaza, traseul spre Altiport este deosebit de atmosferic când soarele e jos. Ziua se termină la Lac de la Rosière, unde liniștea este întreruptă doar de anvelope.",
+            "en": "An epic winter adventure starts on two wheels in Saint-Bon. The cold mountain air is invigorating as you cycle towards Le Praz. At noon, the ski jumps are draped in deep white—a magnificent photo opportunity. The climb to the Forum warms up your muscles. In the afternoon, the route to the Altiport is especially atmospheric with the low sun. The day ends at Lac de la Rosière, where the winter silence is broken only by your tires."
+          },
+          "stops": [
+            {
+              "name": "Saint-Bon",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Reifen wintertauglich sind.",
+                "hu": "Győződjön meg róla, hogy a gumik alkalmasak a télre.",
+                "ro": "Asigurați-vă că anvelopele sunt potrivite pentru iarnă.",
+                "en": "Ensure your tires are suitable for winter conditions."
+              }
+            },
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen im Schatten der Chalets.",
+                "hu": "Vigyázzon a megfagyott tócsákra a házak árnyékában.",
+                "ro": "Atenție la bălțile înghețate de la umbra cabanelor.",
+                "en": "Watch out for frozen puddles in the shade of the chalets."
+              }
+            },
+            {
+              "name": "Tremplins du Praz",
+              "tip_5lang": {
+                "de": "Halten Sie die Hände mit Thermo-Handschuhen warm.",
+                "hu": "Tartsa melegen kezeit termo-kesztyűvel.",
+                "ro": "Păstrați-vă mâinile calde cu mănuși termice.",
+                "en": "Keep your hands warm with high-quality thermal gloves."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Kakao im Inneren.",
+                "hu": "Igyon egy forró csokoládét a benti kávézókban.",
+                "ro": "Răsfățați-vă cu o ciocolată caldă în interior.",
+                "en": "Treat yourself to a hot chocolate inside the complex."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Plateau kann sehr schneidig sein.",
+                "hu": "A szél a fennsíkon nagyon metsző lehet.",
+                "ro": "Vântul pe platou poate fi foarte tăios.",
+                "en": "The wind on the plateau can be very biting."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den geräumten Wegen.",
+                "hu": "Csak a takarított utakon közlekedjen a bringával.",
+                "ro": "Circulați doar pe drumurile deszăpezite.",
+                "en": "Cycle only on the paths that have been cleared of snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fatbikes sind ideal für die verschneiten Nebenwege in Courchevel.",
+              "Die Kälte entlädt E-Bike Akkus schneller; planen Sie Reserven ein.",
+              "Tragen Sie eine Sturmhaube unter dem Helm gegen den Fahrtwind.",
+              "Beleuchtung ist wegen des frühen Sonnenuntergangs ab 16:30 Uhr Pflicht."
+            ],
+            "hu": [
+              "A Fatbike-ok ideálisak Courchevel havas mellékútjaihoz.",
+              "A hideg gyorsabban meríti az e-bike akkumulátort; tervezzen rá.",
+              "Viseljen maszkot a sisak alatt a menetszél ellen.",
+              "A világítás a korai naplemente miatt 16:30-tól kötelező."
+            ],
+            "ro": [
+              "Bicicletele de tip Fatbike sunt ideale pentru drumurile înzăpezite.",
+              "Frigul descarcă bateriile e-bike-urilor mai repede; planificați rute mai scurte.",
+              "Purtați o cagulă sub cască împotriva curentului de aer.",
+              "Luminile sunt obligatorii de la 16:30 din cauza apusului timpuriu."
+            ],
+            "en": [
+              "Fatbikes are ideal for the snowy side paths in Courchevel.",
+              "Cold weather drains e-bike batteries faster; plan accordingly.",
+              "Wear a balaclava under your helmet to block the freezing wind.",
+              "Lights are mandatory from 16:30 onwards due to early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -899,6 +1735,438 @@
           "Drive defensively, the curves can be blind.",
           "Refuel in the valley, as prices are significantly higher at the top."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lassen sich die steilen Hänge von Courchevel mühelos überwinden. Beginnen Sie in der Talsohle in Saint-Bon und arbeiten Sie sich über Le Praz nach oben, wo Sie die olympische Geschichte bewundern können.\n\nDas absolute Highlight des Mittags ist der Ausflug zum Sommet de la Saulire. Parken Sie in 1850 und lassen Sie sich von der Gondel auf über 2700 Meter tragen, um ein unvergleichliches Alpenpanorama zu genießen.\n\nAm Nachmittag besuchen Sie den Altiport und den malerischen Lac de la Rosière. Die gut ausgebauten Bergstraßen bieten spektakuläre Ausblicke auf das Tarentaise-Tal.\n\nLassen Sie den Tag im luxuriösen Courchevel 1850 ausklingen, besuchen Sie das Forum und die kleine Chapelle Notre-Dame, bevor Sie die Panoramafahrt zurück ins Tal antreten.",
+            "hu": "Autóval könnyedén leküzdheti Courchevel meredek lejtőit. Kezdje a völgy alján, Saint-Bonban, majd haladjon felfelé Le Praz-ig, ahol megcsodálhatja az olimpiai történelmet.\n\nA dél környéki időszak fénypontja a Saulire-csúcs meglátogatása. Parkoljon 1850-ben, és hagyja, hogy a libegő 2700 méter fölé repítse a páratlan alpesi panorámáért.\n\nDélután látogasson el az Altiportra és a festői Rosière-tóhoz. A jól kiépített hegyi utak látványos kilátást nyújtanak a Tarentaise-völgyre.\n\nZárja a napot a luxus Courchevel 1850-ben, látogasson el a Fórumba és a kis Nagyboldogasszony-kápolnába, mielőtt megkezdené a panorámás ereszkedést a völgybe.",
+            "ro": "Cu mașina puteți depăși fără efort pantele abrupte din Courchevel. Începeți din valea Saint-Bon și urcați prin Le Praz, unde puteți admira istoria olimpică.\n\nPunctul culminant al prânzului este excursia pe Vârful Saulire. Parcați la 1850 și lăsați telegondola să vă poarte la peste 2700 de metri pentru o panoramă alpină de neegalat.\n\nDupă-amiaza, vizitați Altiportul și pitorescul Lac de la Rosière. Drumurile montane bine întreținute oferă vederi spectacoase asupra văii Tarentaise.\n\nÎncheiați ziua în luxosul Courchevel 1850, vizitați Forumul și mica Capelă Notre-Dame, înainte de a porni pe drumul panoramic înapoi spre vale.",
+            "en": "By car, you can effortlessly overcome the steep slopes of Courchevel. Start at the bottom in Saint-Bon and work your way up through Le Praz, where you can admire Olympic history.\n\nThe absolute highlight of the midday is the excursion to Sommet de la Saulire. Park in 1850 and let the gondola carry you above 2700 meters for an unparalleled Alpine panorama.\n\nIn the afternoon, visit the Altiport and the picturesque Lac de la Rosière. The well-maintained mountain roads offer spectacular views of the Tarentaise Valley.\n\nEnd the day in luxurious Courchevel 1850, visit the Forum and the small Chapelle Notre-Dame, before taking the scenic drive back down to the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Bon",
+                "hu": "Saint-Bon",
+                "ro": "Saint-Bon",
+                "en": "Saint-Bon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang des Dorfes und erkunden Sie die Gassen zu Fuß.",
+                "hu": "Parkoljon a falu bejáratánál, és fedezze fel a szűk utcákat gyalog.",
+                "ro": "Parcați la intrarea în sat și explorați străduțele pe jos.",
+                "en": "Park at the entrance of the village and explore the alleys on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Praz",
+                "hu": "Le Praz",
+                "ro": "Le Praz",
+                "en": "Le Praz"
+              },
+              "tip_5lang": {
+                "de": "Ein idyllischer Stopp am See, bevor es in die höheren Lagen geht.",
+                "hu": "Idilli megálló a tónál, mielőtt magasabb szintekre indulna.",
+                "ro": "O oprire idilică lângă lac înainte de a merge la altitudini mai mari.",
+                "en": "An idyllic stop by the lake before heading to higher altitudes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sommet de la Saulire",
+                "hu": "Saulire-csúcs",
+                "ro": "Vârful Saulire",
+                "en": "Sommet de la Saulire"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis 1850 und nehmen Sie die Gondel für das beste Panorama.",
+                "hu": "Autózzon 1850-ig, majd váltson libegőre a legjobb panorámáért.",
+                "ro": "Conduceți până la 1850 și luați telegondola pentru cea mai bună panoramă.",
+                "en": "Drive to 1850 and take the gondola for the best panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Altiport de Courchevel",
+                "hu": "Courchevel Altiport",
+                "ro": "L'Altiport de Courchevel",
+                "en": "L'Altiport de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Luftfahrtfans; es gibt einen Parkplatz direkt daneben.",
+                "hu": "Repülésrajongóknak kötelező; közvetlenül mellette van parkoló.",
+                "ro": "Obligatoriu pentru fanii aviației; există o parcare chiar lângă.",
+                "en": "A must for aviation fans; there is a parking lot right next to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Rosière",
+                "hu": "Rosière-tó",
+                "ro": "Lacul de la Rosière",
+                "en": "Lac de la Rosière"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am See, ideal für einen kurzen Spaziergang.",
+                "hu": "A parkoló közel van a tóhoz, ideális egy rövid sétához.",
+                "ro": "Parcarea este aproape de lac, ideală pentru o scurtă plimbare.",
+                "en": "The parking lot is close to the lake, ideal for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum de Courchevel",
+                "hu": "Courchevel Fórum",
+                "ro": "Forum de Courchevel",
+                "en": "Forum de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Le Forum' für direkten Zugang zum Zentrum.",
+                "hu": "Használja a 'Le Forum' parkolóházat a központ közvetlen eléréséhez.",
+                "ro": "Folosiți parcarea 'Le Forum' pentru acces direct în centru.",
+                "en": "Use the 'Le Forum' parking garage for direct access to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang vor der Rückfahrt ins Tal.",
+                "hu": "Csendes befejezés a völgybe való visszatérés előtt.",
+                "ro": "Un final liniștit înainte de întoarcerea în vale.",
+                "en": "A peaceful conclusion before driving back down to the valley."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Saulire",
+                "tip": "Exzellente Küche mit Trüffelspezialitäten auf 1850 m Höhe."
+              },
+              {
+                "name": "Le Chabichou",
+                "tip": "Ein Gourmet-Erlebnis der Extraklasse für Feinschmecker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Saulire",
+                "tip": "Kiváló konyha szarvasgomba különlegességekkel 1850 m magasságban."
+              },
+              {
+                "name": "Le Chabichou",
+                "tip": "Extra kategóriás ínyenc élmény az igényeseknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Saulire",
+                "tip": "Bucătărie excelentă cu specialități de trufe la 1850 m altitudine."
+              },
+              {
+                "name": "Le Chabichou",
+                "tip": "O experiență gastronomică de top pentru cunoscători."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Saulire",
+                "tip": "Excellent cuisine with truffle specialties at 1850m altitude."
+              },
+              {
+                "name": "Le Chabichou",
+                "tip": "A top-class gourmet experience for foodies."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkte an der Straße nach 1650",
+                "tip": "Perfekt für einen schnellen Fotostopp mit Weitblick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kilátópontok az 1650 felé vezető úton",
+                "tip": "Tökéletes egy gyors fotómegállóhoz pazar kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Puncte de belvedere pe drumul spre 1650",
+                "tip": "Perfect pentru o oprire foto rapidă cu vedere largă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Viewpoints on the road to 1650",
+                "tip": "Perfect for a quick photo stop with a broad view.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Shopping Center 1850",
+                "tip": "Hier finden Sie alles von Souvenirs bis zu Designerkleidung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "1850-es bevásárlóközpont",
+                "tip": "Itt mindent megtalál a szuvenírektől a márkás ruhákig."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul Comercial 1850",
+                "tip": "Aici găsiți totul, de la suveniruri la haine de designer."
+              }
+            ],
+            "en": [
+              {
+                "name": "Shopping Center 1850",
+                "tip": "Here you can find everything from souvenirs to designer clothes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In 1850 sind Parkplätze teuer; nutzen Sie die Parkhäuser.",
+              "Die Straßen sind gut ausgebaut, aber im Winter ist Winterausrüstung Pflicht.",
+              "Fahren Sie defensiv, die Kurven können unübersichtlich sein.",
+              "Tanken Sie im Tal, oben sind die Preise deutlich höher."
+            ],
+            "hu": [
+              "1850-ben a parkolás drága; használja a parkolóházakat.",
+              "Az utak jól kiépítettek, de télen a téli felszerelés kötelező.",
+              "Vezessen óvatosan, a kanyarok beláthatatlanok lehetnek.",
+              "Tankoljon a völgyben, fent az árak jóval magasabbak."
+            ],
+            "ro": [
+              "Parcarea la 1850 este scumpă; folosiți parcările etajate.",
+              "Drumurile sunt bune, dar iarna echipamentul de iarnă este obligatoriu.",
+              "Conduceți defensiv, curbele pot fi lipsite de vizibilitate.",
+              "Alimentați în vale, sus prețurile sunt mult mai mari."
+            ],
+            "en": [
+              "Parking at 1850 is expensive; use the parking garages.",
+              "The roads are well-maintained, but winter gear is mandatory in winter.",
+              "Drive defensively, the curves can be blind.",
+              "Refuel in the valley, as prices are significantly higher at the top."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Entspannt starten Sie im trockenen Auto in Saint-Bon, während der Regen gegen die Scheiben trommelt. In Le Praz genießen Sie den Blick auf die nassen Dächer aus dem warmen Cockpit. Mittags bietet die Fahrt zum Sommet de la Saulire mystische Ausblicke durch den Wolkennebel. Der Nachmittag führt zum Altiport und dem Lac de la Rosière, wo Sie für kurze Spaziergänge unter dem Schirm aussteigen. Den Tag beschließen Sie komfortabel im Forum, ohne nass zu werden.",
+            "hu": "Kényelmesen, a száraz autóban indulunk Saint-Bon-ból, miközben az eső a szélvédőn kopog. Le Praz-ban a meleg kocsiból csodáljuk a vizes háztetőket. Délben a Saulire-csúcs felé vezető út misztikus kilátást nyújt a felhők között. Délután az Altiport és a Lac de la Rosière következik, ahol rövid, esernyős sétákat tehetünk. A napot a Forum fedett parkolójában és tereiben zárjuk, teljesen szárazon.",
+            "ro": "Începeți relaxat în mașina uscată din Saint-Bon, în timp ce ploaia bate în parbriz. În Le Praz, admirați acoperișurile ude din cockpitul cald. La prânz, drumul spre Sommet de la Saulire oferă priveliști mistice prin ceață. După-amiaza duce spre Altiport și Lac de la Rosière, unde coborâți pentru scurte plimbări cu umbrela. Încheiați ziua confortabil la Forum, fără a vă uda.",
+            "en": "Start your day relaxed in the dry cabin of your car in Saint-Bon while the rain drums on the windshield. In Le Praz, enjoy the view of the wet roofs from the comfort of your seat. At noon, the drive towards Sommet de la Saulire offers mystical views through the misty clouds. The afternoon leads to the Altiport and Lac de la Rosière for short walks under an umbrella. End the day comfortably at the Forum, staying completely dry."
+          },
+          "stops": [
+            {
+              "name": "Saint-Bon",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt bei der Kirche.",
+                "hu": "Használja közvetlenül a templom melletti parkolókat.",
+                "ro": "Folosiți locurile de parcare de lângă biserică.",
+                "en": "Use the parking spaces located directly by the church."
+              }
+            },
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Der große Parkplatz am See bietet viel Platz zum Wenden.",
+                "hu": "A tó melletti nagy parkolóban könnyű a megfordulás.",
+                "ro": "Parcarea mare de lângă lac oferă mult spațiu de manevră.",
+                "en": "The large parking lot by the lake offers plenty of space."
+              }
+            },
+            {
+              "name": "Sommet de la Saulire",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt die Nebeldichte oben.",
+                "hu": "A felfelé út előtt ellenőrizze a fenti köd sűrűségét.",
+                "ro": "Verificați densitatea ceții înainte de a urca.",
+                "en": "Check the fog density at the top before driving up."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefhängende Wolken nahe der Landebahn.",
+                "hu": "Ügyeljen az alacsony felhőkre a leszállópálya közelében.",
+                "ro": "Atenție la norii joși din apropierea pistei.",
+                "en": "Watch out for low-hanging clouds near the runway."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht einzusinken.",
+                "hu": "Szilárd talajon parkoljon, hogy ne ragadjon be a sárba.",
+                "ro": "Parcați pe teren solid pentru a nu vă împotmoli.",
+                "en": "Park on solid ground to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Le Forum' bringt Sie direkt ins Trockene.",
+                "hu": "A 'Le Forum' parkolóházból közvetlenül a fedett térbe jut.",
+                "ro": "Parcarea 'Le Forum' vă duce direct la adăpost.",
+                "en": "The 'Le Forum' parking garage takes you directly indoors."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Fotografieren ist meist möglich.",
+                "hu": "Rövid megállás fotózáshoz általában megoldható.",
+                "ro": "O oprire scurtă pentru poze este de obicei posibilă.",
+                "en": "A short stop for photos is usually possible nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Nutzen Sie die Nebelscheinwerfer in den höheren Lagen der Passstraßen.",
+              "Die Parkhäuser in Courchevel 1850 sind bei Regen die beste Wahl.",
+              "Fahren Sie auf den kurvigen Bergstraßen bei Nässe besonders vorsichtig."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők tökéletesen működnek.",
+              "Használja a ködlámpát a hágók magasabb szakaszain.",
+              "A Courchevel 1850 parkolóházai a legjobb választás esőben.",
+              "A kanyargós hegyi utakon vizes aszfalton vezessen óvatosan."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele funcționează impecabil.",
+              "Folosiți proiectoarele de ceață în zonele înalte ale trecătorilor.",
+              "Parcările acoperite din Courchevel 1850 sunt cea mai bună alegere.",
+              "Conduceți cu atenție sporită pe drumurile montane ude și sinuoase."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in perfect working condition.",
+              "Use fog lights in the higher sections of the mountain passes.",
+              "The parking garages in Courchevel 1850 are the best choice in rain.",
+              "Drive with extra caution on the winding mountain roads when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen auf vier Rädern beginnt in Saint-Bon. Die verschneiten Straßen erfordern Ihre volle Aufmerksamkeit, während die Sitzheizung für Wärme sorgt. Mittags bietet die Fahrt zur Saulire ein atemberaubendes Panorama der Alpen. In Le Praz wirken die Chalets wie mit Puderzucker bestäubt. Der Nachmittag am Altiport zeigt das geschäftige Treiben der Privatjets im Schnee. Den Tag beenden Sie im Forum, wo das Leben trotz Minusgraden draußen pulsiert.",
+            "hu": "Téli tündérmese indul négy keréken Saint-Bon-ban. A havas utak teljes figyelmet igényelnek, miközben az ülésfűtés gondoskodik a melegről. Délben a Saulire felé vezető út lélegzetelállító panorámát nyújt az Alpokra. Le Praz-ban a házak úgy festenek, mintha porcukorral szórták volna le őket. Délután az Altiportnál a magángépek havas forgalmát figyelhetjük meg. A napot a Forum környékén zárjuk, ahol a benti élet pezseg a kinti fagy ellenére.",
+            "ro": "O poveste de iarnă pe patru roți începe în Saint-Bon. Drumurile înzăpezite necesită atenție maximă, în timp ce scaunele încălzite oferă confort. La prânz, drumul spre Saulire oferă o panoramă uluitoare a Alpilor. În Le Praz, cabanele par pudrate cu zahăr. După-amiaza la Altiport arată activitatea jeturilor private în zăpadă. Încheiați ziua la Forum, unde viața pulsează în ciuda gerului de afară.",
+            "en": "A winter fairytale on four wheels starts in Saint-Bon. The snowy roads demand your full attention while the seat heaters keep you warm. At noon, the drive to Saulire offers a breathtaking panorama of the Alps. In Le Praz, the chalets look like they’ve been dusted with powdered sugar. The afternoon at the Altiport showcases the busy private jet traffic in the snow. End your day at the Forum, where life is vibrant despite the sub-zero temperatures outside."
+          },
+          "stops": [
+            {
+              "name": "Saint-Bon",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind hier absolute Pflicht.",
+                "hu": "A téli gumi és a hólánc itt abszolút kötelező.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii aici.",
+                "en": "Winter tires and snow chains are absolutely mandatory here."
+              }
+            },
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Parkplätze werden regelmäßig geräumt, aber Vorsicht beim Rangieren.",
+                "hu": "A parkolókat takarítják, de legyen óvatos a manőverezésnél.",
+                "ro": "Parcările sunt curățate regulat, dar atenție la manevre.",
+                "en": "Parking areas are cleared regularly, but be careful when maneuvering."
+              }
+            },
+            {
+              "name": "Sommet de la Saulire",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Neuschnee gesperrt sein.",
+                "hu": "Friss hó esetén az utat lezárhatják a csúcs felé.",
+                "ro": "Drumul spre vârf poate fi închis în caz de ninsoare proaspătă.",
+                "en": "The drive up may be closed during heavy snowfall."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist steil, nutzen Sie niedrige Gänge.",
+                "hu": "A felvezető út meredek, használjon alacsony sebességfokozatot.",
+                "ro": "Accesul este abrupt; folosiți trepte de viteză inferioare.",
+                "en": "The access road is steep; use low gears for better control."
+              }
+            },
+            {
+              "name": "Lac de la Rosière",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+                "hu": "Győződjön meg róla, hogy a fagyálló fel van töltve.",
+                "ro": "Asigurați-vă că nivelul antigelului este corespunzător.",
+                "en": "Make sure your anti-freeze levels are topped up."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt vor dem morgendlichen Eiskratzen.",
+                "hu": "A fedett parkolás megkíméli a reggeli jégkaparástól.",
+                "ro": "Parcarea acoperită vă scutește de răzuirea gheții dimineața.",
+                "en": "Covered parking saves you from scraping ice in the morning."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Der Schnee kann die Parkbuchten verdecken.",
+                "hu": "A hó elfedheti a parkolósávokat az út mentén.",
+                "ro": "Zăpada poate acoperi locurile de parcare de pe marginea drumului.",
+                "en": "Snow can hide the parking bays along the road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schaufel und einen Besen im Auto mit.",
+              "Dieselmotoren benötigen bei extremer Kälte Winterdiesel.",
+              "Lassen Sie die Handbremse beim Parken über Nacht nicht angezogen (Friergefahr).",
+              "Achten Sie auf Räumfahrzeuge und halten Sie ausreichend Abstand."
+            ],
+            "hu": [
+              "Mindig tartson hólapátot és kefét az autóban.",
+              "A dízelmotorokhoz extrém hidegben téli gázolaj szükséges.",
+              "Éjszakai parkoláskor ne húzza be a kéziféket (befagyhat).",
+              "Figyeljen a hókotrókra és tartson megfelelő távolságot."
+            ],
+            "ro": [
+              "Țineți întotdeauna o lopată și o perie în mașină.",
+              "Motoarele diesel necesită motorină de iarnă la temperaturi extreme.",
+              "Nu trageți frâna de mână la parcarea peste noapte (risc de îngheț).",
+              "Fiți atenți la utilajele de deszăpezire și păstrați distanța."
+            ],
+            "en": [
+              "Always carry a snow shovel and a brush in your car.",
+              "Diesel engines require winter-grade fuel in extreme cold.",
+              "Don't leave the handbrake engaged when parking overnight (risk of freezing).",
+              "Watch out for snowplows and maintain a safe following distance."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1138,34 +2406,359 @@
           "Pay attention to the operating hours of the last gondola to the valley.",
           "Dress in layers, it's significantly cooler at the top."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Courchevel mit dem erstklassigen Lift- und Bussystem. Starten Sie in Le Praz und lassen Sie sich von der modernen Gondel direkt in das Herz von 1850 katapultieren.\n\nAm Mittag erreichen Sie mit dem Saulire Express den höchsten Punkt Ihrer Reise. Auf über 2700 Metern fühlen Sie sich dem Himmel ein Stück näher und genießen die Freiheit der Berge.\n\nDer Nachmittag führt Sie mit dem kostenlosen Shuttle-Bus zum Altiport, wo Sie die faszinierende Welt der Gebirgsluftfahrt erleben können.\n\nBeenden Sie Ihre Tour in Courchevel 1850 mit einem Besuch der Chapelle Notre-Dame und schlendern Sie durch die luxuriösen Arkaden, bevor Sie bequem mit dem Bus oder Lift wieder ins Tal fahren.",
+            "hu": "Fedezze fel Courchevelt az elsőosztályú libegő- és buszhálózat segítségével. Kezdjen Le Praz-ban, és hagyja, hogy a modern libegő közvetlenül 1850 szívébe repítse.\n\nDélben a Saulire Express segítségével eléri utazása legmagasabb pontját. 2700 méter felett egy kicsit közelebb érezheti magát az éghez, és élvezheti a hegyek szabadságát.\n\nA délután folyamán az ingyenes buszjárat elviszi az Altiportra, ahol megtapasztalhatja a hegyi repülés lenyűgöző világát.\n\nZárja túráját Courchevel 1850-ben a Nagyboldogasszony-kápolna meglátogatásával, és barangoljon a luxus árkádok alatt, mielőtt kényelmesen visszatérne a völgybe busszal vagy libegővel.",
+            "ro": "Descoperiți Courchevel cu sistemul de lifturi și autobuze de primă clasă. Începeți în Le Praz și lăsați telegondola modernă să vă catapulteze direct în inima cotei 1850.\n\nLa prânz, ajungeți la cel mai înalt punct al călătoriei dumneavoastră cu Saulire Express. La peste 2700 de metri, vă veți simți un pic mai aproape de cer și vă veți bucura de libertatea munților.\n\nDupă-amiaza vă duce cu autobuzul de transfer gratuit la Altiport, unde puteți experimenta lumea fascinantă a aviației montane.\n\nÎncheiați-vă turul în Courchevel 1850 cu o vizită la Capela Notre-Dame și plimbați-vă prin arcadele de lux înainte de a vă întoarce confortabil în vale cu autobuzul sau liftul.",
+            "en": "Discover Courchevel with the world-class lift and bus system. Start in Le Praz and let the modern gondola catapult you directly into the heart of 1850.\n\nAt midday, reach the highest point of your journey with the Saulire Express. Above 2700 meters, you feel a bit closer to the sky and enjoy the freedom of the mountains.\n\nThe afternoon takes you by free shuttle bus to the Altiport, where you can experience the fascinating world of mountain aviation.\n\nEnd your tour in Courchevel 1850 with a visit to the Chapelle Notre-Dame and stroll through the luxury arcades before comfortably returning to the valley by bus or lift."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Praz",
+                "hu": "Le Praz",
+                "ro": "Le Praz",
+                "en": "Le Praz"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie die Gondel 'Le Praz' für eine schnelle Verbindung nach 1850.",
+                "hu": "Szálljon fel a 'Le Praz' libegőre a gyors összeköttetésért 1850-nel.",
+                "ro": "Luați telegondola 'Le Praz' pentru o conexiune rapidă spre 1850.",
+                "en": "Take the 'Le Praz' gondola for a quick connection to 1850."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum de Courchevel",
+                "hu": "Courchevel Fórum",
+                "ro": "Forum de Courchevel",
+                "en": "Forum de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Das Forum ist der zentrale Knotenpunkt für alle Buslinien und Lifte.",
+                "hu": "A Fórum a központi csomópont minden buszjárat és libegő számára.",
+                "ro": "Forumul este nodul central pentru toate liniile de autobuz și lifturi.",
+                "en": "The Forum is the central hub for all bus lines and lifts."
+              }
+            },
+            {
+              "name": {
+                "de": "Sommet de la Saulire",
+                "hu": "Saulire-csúcs",
+                "ro": "Vârful Saulire",
+                "en": "Sommet de la Saulire"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt mit dem Saulire Express bietet atemberaubende Aussichten.",
+                "hu": "A Saulire Expressszel való feljutás lélegzetelállító kilátást kínál.",
+                "ro": "Urcarea cu Saulire Express oferă vederi uluitoare.",
+                "en": "The ascent with the Saulire Express offers breathtaking views."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Altiport de Courchevel",
+                "hu": "Courchevel Altiport",
+                "ro": "L'Altiport de Courchevel",
+                "en": "L'Altiport de Courchevel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kostenlosen Shuttle-Bus Richtung Altiport.",
+                "hu": "Használja az Altiport felé tartó ingyenes buszjáratot.",
+                "ro": "Folosiți autobuzul de transfer gratuit către Altiport.",
+                "en": "Use the free shuttle bus towards Altiport."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle 'Croisette' gelegen.",
+                "hu": "A 'Croisette' megálló közelében található.",
+                "ro": "Situată în apropierea stației 'Croisette'.",
+                "en": "Located near the 'Croisette' stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Les Pierres Plates",
+                "tip": "Panoramarestaurant am Gipfel der Saulire."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Pierres Plates",
+                "tip": "Panoráma étterem a Saulire-csúcs tetején."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Pierres Plates",
+                "tip": "Restaurant panoramic pe vârful Saulire."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Pierres Plates",
+                "tip": "Panoramic restaurant at the top of Saulire."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Saulire Panorama",
+                "tip": "Ein ruhiger Moment über den Wolken.",
+                "emoji": "🏔️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Saulire panoráma",
+                "tip": "Csendes pillanat a felhők felett.",
+                "emoji": "🏔️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Panorama Saulire",
+                "tip": "Un moment de liniște deasupra norilor.",
+                "emoji": "🏔️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Saulire Panorama",
+                "tip": "A quiet moment above the clouds.",
+                "emoji": "🏔️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Croisette",
+                "tip": "Zentrales Einkaufszentrum mit vielen Sportgeschäften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Croisette",
+                "tip": "Központi bevásárlóközpont számos sportbolttal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Croisette",
+                "tip": "Centru comercial central cu multe magazine de sport."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Croisette",
+                "tip": "Central shopping mall with many sports shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Holen Sie sich einen Pistenplan für die Orientierung der Lifte.",
+              "Die Shuttle-Busse sind kostenlos und fahren sehr regelmäßig.",
+              "Achten Sie auf die Betriebszeiten der letzten Gondel ins Tal.",
+              "Tragen Sie Zwiebelprinzip-Kleidung, oben ist es deutlich kühler."
+            ],
+            "hu": [
+              "Szerezzen be egy pályaszállási térképet a libegők tájékozódásához.",
+              "A buszjáratok ingyenesek és nagyon rendszeresen járnak.",
+              "Ügyeljen az utolsó völgybe tartó libegő üzemidejére.",
+              "Öltözzön rétegesen, fent jóval hűvösebb van."
+            ],
+            "ro": [
+              "Obțineți o hartă a pârtiilor pentru orientarea lifturilor.",
+              "Autobuzele de transfer sunt gratuite și circulă foarte regulat.",
+              "Aveți grijă la orele de funcționare ale ultimei telegondole spre vale.",
+              "Îmbrăcați-vă în straturi, sus este mult mai răcoare."
+            ],
+            "en": [
+              "Get a piste map for orientation of the lifts.",
+              "The shuttle buses are free and run very regularly.",
+              "Pay attention to the operating hours of the last gondola to the valley.",
+              "Dress in layers, it's significantly cooler at the top."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem kostenlosen Skibus 'Navette' erkunden Sie Courchevel heute trocken und bequem. In Le Praz starten Sie Ihre Tour, während der Regen draußen prasselt. Mittags bringt Sie der Bus direkt zum Forum, dem sozialen Zentrum. Die Auffahrt zur Saulire mit der Seilbahn bietet einen Blick auf das Wolkenmeer. Am Nachmittag führt die Route zum Altiport, wo Sie die Flugzeuge im Regen beobachten. Der Tag endet sicher und trocken mit der Rückfahrt im beheizten Bus.",
+            "hu": "A mai napon az ingyenes 'Navette' síbuszokkal fedezzük fel Courchevel-t, szárazon és kényelmesen. Le Praz-ban kezdünk, miközben odakint szakad az eső. Délben a busz egyenesen a Forumhoz visz, ami a közösségi élet központja. A Saulire felvonóval a felhőtenger felett találjuk magunkat. Délután az Altiport következik, ahol az esőben landoló gépeket figyelhetjük. A nap biztonságban és szárazon, a fűtött buszban ér véget.",
+            "ro": "Explorați Courchevel astăzi la adăpost și confortabil cu autobuzul gratuit 'Navette'. Începeți turul în Le Praz, în timp ce ploaia toarnă afară. La prânz, autobuzul vă duce direct la Forum, centrul social. Urcarea spre Saulire cu telecabina oferă o vedere deasupra norilor. După-amiaza traseul duce la Altiport, unde observați avioanele pe ploaie. Ziua se termină în siguranță și la uscat cu drumul de întoarcere.",
+            "en": "Explore Courchevel today staying dry and comfortable using the free 'Navette' shuttle bus. Start your tour in Le Praz while the rain pours outside. At noon, the bus takes you directly to the Forum, the social heart of the resort. A cable car ride to Saulire puts you above the sea of clouds. In the afternoon, head to the Altiport to watch planes in the rain. Your day ends safely and dry with a ride back in the heated bus."
+          },
+          "stops": [
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem Regen.",
+                "hu": "A buszmegálló fedett, védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz oferă protecție împotriva ploii.",
+                "en": "The bus stop is covered, providing shelter from the rain."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Haupteingang.",
+                "hu": "A busz szinte közvetlenül a főbejáratnál áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării principale.",
+                "en": "The bus stops almost directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Sommet de la Saulire",
+              "tip_5lang": {
+                "de": "Die Seilbahnkabine bleibt auch bei Wind stabil.",
+                "hu": "A felvonókabin szélben is stabil marad.",
+                "ro": "Cabina telecabinei rămâne stabilă chiar și pe vânt.",
+                "en": "The cable car cabin remains stable even in windy conditions."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, da Busse hier seltener halten.",
+                "hu": "Ellenőrizze a menetrendet, itt ritkábban járnak a buszok.",
+                "ro": "Verificați orarul, autobuzele opresc aici mai rar.",
+                "en": "Check the timetable as buses stop here less frequently."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Vom Forum aus sind es nur wenige Minuten zu Fuß.",
+                "hu": "A Forumtól csak pár perc gyalog az esernyő alatt.",
+                "ro": "Sunt doar câteva minute de mers pe jos de la Forum.",
+                "en": "It’s only a few minutes’ walk from the Forum under your umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Courchevel' für Echtzeit-Buszeiten.",
+              "Die Navettes sind bei Regen oft voll; planen Sie Wartezeiten ein.",
+              "Tragen Sie Ihre nasse Ausrüstung kompakt bei sich im Bus.",
+              "Die Hauptverbindung zwischen den Orten ist sehr zuverlässig."
+            ],
+            "hu": [
+              "Használja a 'Courchevel' appot a valós idejű buszmenetrendhez.",
+              "A buszok esőben gyakran zsúfoltak; számoljon várakozási idővel.",
+              "A vizes felszerelést tartsa magánál szorosan a buszon.",
+              "A települések közötti fővonal nagyon megbízható."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Courchevel' pentru orarul autobuzelor în timp real.",
+              "Autobuzele sunt adesea pline pe ploaie; planificați timp de așteptare.",
+              "Țineți echipamentul ud compact lângă dumneavoastră în autobuz.",
+              "Conexiunea principală între stațiuni este foarte fiabilă."
+            ],
+            "en": [
+              "Use the 'Courchevel' app for real-time bus tracking.",
+              "Shuttles are often crowded in the rain; allow for some extra time.",
+              "Keep your wet gear close to you while on the bus.",
+              "The main connection between the villages is very reliable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag wie aus dem Bilderbuch beginnt mit der Navette in Le Praz. Die beheizten Busse sind ein Segen bei der klirrenden Kälte. Mittags erreichen Sie das Forum, wo die Winterstimmung am intensivsten ist. Die Seilbahnfahrt zur Saulire führt über tief verschneite Hänge. Am Nachmittag bietet der Altiport ein einzigartiges Schauspiel im Schnee. Den Tag lassen Sie entspannt im Bus Revue passieren, während draußen die Lichter von Courchevel im Schnee funkeln.",
+            "hu": "Képeskönyvbe illő téli nap indul a 'Navette' buszon Le Praz-ban. A fűtött járatok igazi áldást jelentenek a metsző hidegben. Délben érünk a Forumhoz, ahol a téli hangulat a legintenzívebb. A Saulire felvonó havas lejtők felett repít át. Délután az Altiport egyedülálló látványt nyújt a hóban. A napot a busz ablakából zárjuk, nézve Courchevel csillogó fényeit a havas éjszakában.",
+            "ro": "O zi de iarnă ca în povești începe cu 'Navette' în Le Praz. Autobuzele încălzite sunt o binecuvântare pe frigul tăios. La prânz ajungeți la Forum, unde atmosfera de iarnă este cea mai intensă. Telecabina spre Saulire trece peste pante înzăpezite. După-amiaza, Altiport oferă un spectacol unic în zăpadă. Încheiați ziua relaxat în autobuz, în timp ce luminile stațiunii sclipesc în zăpadă.",
+            "en": "A picture-perfect winter day starts with the Navette in Le Praz. The heated buses are a blessing in the biting cold. At noon, reach the Forum, where the winter atmosphere is at its peak. The cable car ride to Saulire takes you over deep snow-covered slopes. In the afternoon, the Altiport offers a unique spectacle in the snow. Relax and reflect on your day from the bus window as the lights of Courchevel sparkle in the night."
+          },
+          "stops": [
+            {
+              "name": "Le Praz",
+              "tip_5lang": {
+                "de": "Klopf den Schnee von den Schuhen, bevor du einsteigst.",
+                "hu": "Verje le a havat a bakancsáról, mielőtt felszáll a buszra.",
+                "ro": "Scuturați zăpada de pe ghete înainte de a urca.",
+                "en": "Knock the snow off your boots before boarding the bus."
+              }
+            },
+            {
+              "name": "Forum de Courchevel",
+              "tip_5lang": {
+                "de": "Der zentrale Busbahnhof ist bei Kälte ein guter Treffpunkt.",
+                "hu": "A központi buszmegálló jó találkahely a hidegben.",
+                "ro": "Stația centrală de autobuz este un loc bun de întâlnire pe ger.",
+                "en": "The central bus hub is a good meeting point in the cold."
+              }
+            },
+            {
+              "name": "Sommet de la Saulire",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Betriebszeiten der Seilbahn im Winter.",
+                "hu": "Ügyeljen a felvonó téli üzemidejére.",
+                "ro": "Atenție la programul de funcționare al telecabinei iarna.",
+                "en": "Pay close attention to the cable car's winter operating hours."
+              }
+            },
+            {
+              "name": "L'Altiport de Courchevel",
+              "tip_5lang": {
+                "de": "Warte im beheizten Unterstand auf den Rückbus.",
+                "hu": "Várja a csatlakozást a fűtött buszmegállóban.",
+                "ro": "Așteptați autobuzul de întoarcere în adăpostul încălzit.",
+                "en": "Wait for the return bus in the heated shelter."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame de l'Assomption",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders schön.",
+                "hu": "Az esti kivilágítás télen különösen gyönyörű.",
+                "ro": "Iluminatul de seară este deosebit de frumos iarna.",
+                "en": "The evening lighting is particularly beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie keine Skischuhe im Bus (Rutschgefahr und Etikette).",
+              "Die Navettes verkehren im Winter bis spät in den Abend (ca. 00:00 Uhr).",
+              "Halten Sie sich bei der Fahrt gut fest, die Straßen können glatt sein.",
+              "Die Busse sind im Winter kostenlos für alle Besucher."
+            ],
+            "hu": [
+              "Ne viseljen síbakancsot a buszon (csúszásveszély és etikett).",
+              "A buszok télen késő estig közlekednek (kb. éjfélig).",
+              "Kapaszkodjon erősen menet közben, az utak jegesek lehetnek.",
+              "A buszok télen minden látogató számára ingyenesek."
+            ],
+            "ro": [
+              "Nu purtați clăpari în autobuz (pericol de alunecare și etichetă).",
+              "Autobuzele circulă iarna până târziu în noapte (aprox. ora 00:00).",
+              "Țineți-vă bine în timpul mersului, drumurile pot fi alunecoase.",
+              "Autobuzele sunt gratuite pentru toți vizitatorii pe timpul iernii."
+            ],
+            "en": [
+              "Avoid wearing ski boots on the bus (slipping hazard and etiquette).",
+              "The shuttles run late into the evening during winter (until approx. midnight).",
+              "Hold on tight during the ride as the roads can be icy.",
+              "The shuttle buses are free for all visitors during the winter season."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.courchevel.com/en/cameras-meteo.html",
-    "tourism_office": "https://www.courchevel.com/",
-    "events": "https://www.courchevel.com/en/events.html",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Courchevel ist gehobenes Publikum, viele russische und nahoestliche Gaeste in 1850, Englisch ist Standard. In den unteren Doerfern (1300, 1550, 1650) wird mehr Franzoesisch gesprochen und ein 'bonjour' wirkt Wunder. Bedienpersonal in Luxushotels oft mehrsprachig.",
-      "hu": "Courchevel exkluziv kozonseg, 1850-ben sok orosz es kozel-keleti vendeg, az angol alap. A also falvakban (1300, 1550, 1650) tobb a francia, egy 'bonjour' csodakat tesz. A luxushotelek szemelyzete gyakran tobb nyelven beszel.",
-      "ro": "Courchevel are clientela de lux, in 1850 multi rusi si din Orientul Mijlociu, engleza e standard. In satele de jos (1300, 1550, 1650) se vorbeste mai mult franceza, un 'bonjour' face minuni. Personalul din hotelurile de lux e adesea multilingv.",
-      "en": "Courchevel draws an upscale crowd — lots of Russian and Middle Eastern guests in 1850, English is the default. In the lower villages (1300, 1550, 1650) French is more common and a 'bonjour' works wonders. Luxury hotel staff are usually multilingual."
-    },
-    "best_time_to_visit": {
-      "de": "Skisaison Mitte Dezember bis Mitte April, Sterne-Restaurants und Apres-Ski auf hoechstem Niveau. Februar Schulferien extrem voll und teuer, Januar und Maerz ruhiger und sonniger. Sommer Juli-August fuer Wandern, viele Lifte aber geschlossen.",
-      "hu": "Sszezon december kozeptol aprilis kozepig, csillagos ettermek es high-end apres-ski. Februari iskolai szunet rendkivul zsufolt es draga, januar es marcius nyugodtabb es naposabb. Nyaron julius-augusztus turazas, sok felvono viszont zarva.",
-      "ro": "Sezonul de schi e din mijlocul lui decembrie pana la mijlocul lui aprilie, restaurante cu stele si apres-ski de top. Vacanta de februarie e aglomerata si scumpa, ianuarie si martie sunt mai linistite si insorite. Vara, in iulie-august, drumetii, dar multe telecabine inchise.",
-      "en": "Ski season mid-December to mid-April, with starred restaurants and top-tier après-ski. February school holidays are crowded and expensive, January and March are quieter and sunnier. Summer (July-August) is for hiking, but many lifts are closed."
-    },
-    "neighborhood_warnings": {
-      "de": "Courchevel 1850 ist Luxus pur, ein Mittagessen auf der Piste schnell 100 Euro plus. Wer guenstiger will, in 1550 oder Le Praz schlafen. Engste Strassen im Hochwinter mit grossen SUVs verstopft, Schneeketten oder Allrad noetig.",
-      "hu": "Courchevel 1850 luxus, egy pisten elkoltott ebed konnyen 100 euro folott. Aki sporolna, aludjon 1550-ben vagy Le Praz-ban. A szuk utakat hidegben SUV-k torlaszoljak el, holanc vagy negykerek-meghajtas kell.",
-      "ro": "Courchevel 1850 e pur lux, un pranz pe partie sare usor de 100 euro. Daca vrei mai ieftin, dormi in 1550 sau Le Praz. Strazile inguste se blocheaza iarna cu SUV-uri mari, lanturi sau 4x4 sunt necesare.",
-      "en": "Courchevel 1850 is pure luxury — lunch on the slopes easily tops 100 euros. For better value, sleep in 1550 or Le Praz. The narrow roads clog with big SUVs in peak winter, snow chains or 4WD are essential."
-    },
-    "parking_real_time": ""
   }
 }

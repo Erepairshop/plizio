@@ -306,6 +306,428 @@
           "Look out for the small sculptures hidden in the alleys.",
           "Book restaurants in advance for weekend visits."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Herz der Stadt, den berühmten Champagnerkorken (Bouchon de Champagne). Mittags tauchen Sie in die mittelalterlichen Gassen mit ihren bunten Fachwerkhäusern ein. Nachmittags bewundern Sie die weltberühmten Glasmalereien in der Kathedrale. Abends lassen Sie den Tag in der Nähe der Basilika Saint-Urbain ausklingen, während die Sonne die Fassaden in goldenes Licht taucht.",
+            "hu": "Reggel a város szívét, a híres pezsgődugó alakú központot fedezzük fel. Délben elmerülünk a középkori utcák és színes fagerendás házak világában. Délután a katedrális világhírű ólomüveg ablakait csodáljuk meg. Este a Szent Orbán-bazilika környékén zárjuk a napot, ahol a lemenő nap fénye aranyba vonja a gótikus falakat.",
+            "ro": "Dimineața explorați inima orașului, celebrul dop de șampanie (Bouchon de Champagne). La prânz vă pierdeți pe ulițele medievale cu case colorate din paiantă. După-amiaza admirați vitraliile de renume mondial din catedrală. Seara încheiați ziua lângă Basilica Saint-Urbain, în timp ce soarele apune peste fațadele gotice filigranate.",
+            "en": "Morning explores the heart of the city, the famous 'Champagne cork' shaped center. At midday, dive into medieval alleys with colorful half-timbered houses. Afternoon is dedicated to the world-renowned stained glass windows of the Cathedral. Evening concludes near the Basilica of Saint-Urbain, watching the sunset glow on the Gothic stone."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade des Rathauses aus dem 17. Jahrhundert.",
+                "hu": "Csodálja meg a 17. századi városháza homlokzatát.",
+                "ro": "Admirați fațada primăriei din secolul al XVII-lea.",
+                "en": "Admire the facade of the 17th-century City Hall."
+              }
+            },
+            {
+              "name": "Ruelle des Chats",
+              "tip_5lang": {
+                "de": "Die engste Gasse der Stadt, wo sich die Dächer fast berühren.",
+                "hu": "A város legszűkebb utcája, ahol a tetők szinte összeérnek.",
+                "ro": "Cea mai îngustă uliță, unde acoperișurile aproape se ating.",
+                "en": "The narrowest alley where roofs almost touch each other."
+              }
+            },
+            {
+              "name": "Église Sainte-Madeleine",
+              "tip_5lang": {
+                "de": "Berühmt für seinen prächtigen Lettner aus Stein.",
+                "hu": "Híres a pompás kőből faragott szentélyrekesztőjéről.",
+                "ro": "Celebră pentru iconostasul său magnific din piatră.",
+                "en": "Famous for its magnificent stone rood screen."
+              }
+            },
+            {
+              "name": "Musée de l'Outil et de l'Ouvrier (MOPO)",
+              "tip_5lang": {
+                "de": "Eine einzigartige Sammlung von Handwerkzeugen in einem Herrenhaus.",
+                "hu": "Kéziszerszámok egyedülálló gyűjteménye egy régi palotában.",
+                "ro": "O colecție unică de unelte manuale într-un conac vechi.",
+                "en": "A unique collection of hand tools in a historic mansion."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Pierre-et-Saint-Paul",
+              "tip_5lang": {
+                "de": "Bestaunen Sie die 1.500 m² an historischen Glasmalereien.",
+                "hu": "Ámuljon el az 1500 m²-nyi történelmi üvegablakon.",
+                "ro": "Admirați cei 1.500 m² de vitralii istorice.",
+                "en": "Marvel at the 1,500 m² of historic stained glass windows."
+              }
+            },
+            {
+              "name": "Basilique Saint-Urbain",
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Gotik mit filigraner Architektur.",
+                "hu": "A gótika remekműve, rendkívül filigrán építészettel.",
+                "ro": "O capodoperă a stilului gotic cu arhitectură filigranată.",
+                "en": "A masterpiece of Gothic art with delicate architecture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Andouillette de Troyes",
+                "tip": "Probieren Sie diese traditionelle Wurst bei 'Aux Criées'."
+              },
+              {
+                "name": "Chaource Käse",
+                "tip": "Ein cremiger Weichkäse aus der Region."
+              },
+              {
+                "name": "Prunelle de Troyes",
+                "tip": "Ein lokaler Likör aus Schlehenkernen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Andouillette de Troyes",
+                "tip": "Kóstolja meg a hagyományos kolbászt az 'Aux Criées' étteremben."
+              },
+              {
+                "name": "Chaource sajt",
+                "tip": "Krémes lágy sajt közvetlenül a környékről."
+              },
+              {
+                "name": "Prunelle de Troyes",
+                "tip": "Helyi kökénymag-likőr, igazi különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Andouillette de Troyes",
+                "tip": "Gustați acest cârnat tradițional la 'Aux Criées'."
+              },
+              {
+                "name": "Brânză Chaource",
+                "tip": "O brânză moale și cremoasă din regiune."
+              },
+              {
+                "name": "Prunelle de Troyes",
+                "tip": "Un lichior local rafinat din sâmburi de porumbar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Andouillette de Troyes",
+                "tip": "Try this traditional sausage at 'Aux Criées' restaurant."
+              },
+              {
+                "name": "Chaource Cheese",
+                "tip": "A creamy soft cheese from the nearby village."
+              },
+              {
+                "name": "Prunelle de Troyes",
+                "tip": "A local sloe gin-like liqueur made from sloe pits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de l'Hôtel de Mauroy",
+                "tip": "Ein ruhiger Innenhof inmitten der Altstadt.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Quais de Seine",
+                "tip": "Ein entspannter Spaziergang am Flussufer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de l'Hôtel de Mauroy",
+                "tip": "Csendes belső udvar az óváros szívében.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Szajna-part",
+                "tip": "Pihentető séta a folyóparti rakparton.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de l'Hôtel de Mauroy",
+                "tip": "O curte interioară liniștită în centrul vechi.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Quais de Seine",
+                "tip": "O plimbare relaxantă pe malul râului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de l'Hôtel de Mauroy",
+                "tip": "A peaceful courtyard in the heart of the old town.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Quais de Seine",
+                "tip": "A relaxing walk along the river banks.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché des Halles",
+                "tip": "Überdachter Markt für lokale Spezialitäten."
+              },
+              {
+                "name": "Cellier Saint Pierre",
+                "tip": "Der beste Ort für Champagner und lokale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché des Halles",
+                "tip": "Fedett piac helyi finomságokkal."
+              },
+              {
+                "name": "Cellier Saint Pierre",
+                "tip": "A legjobb hely pezsgőhöz és helyi borokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché des Halles",
+                "tip": "Piață acoperită pentru specialități locale."
+              },
+              {
+                "name": "Cellier Saint Pierre",
+                "tip": "Cel mai bun loc pentru șampanie și vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché des Halles",
+                "tip": "Covered market for local gourmet products."
+              },
+              {
+                "name": "Cellier Saint Pierre",
+                "tip": "The perfect spot for Champagne and local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die meisten Museen sind montags oder dienstags geschlossen.",
+              "Achten Sie auf die kleinen Skulpturen in den Gassen.",
+              "Buchen Sie Restaurants für das Wochenende im Voraus."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "A legtöbb múzeum hétfőn vagy kedden zárva tart.",
+              "Figyelje az apró szobrokat a sikátorok falain.",
+              "Hétvégére érdemes előre asztalt foglalni az éttermekben."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Majoritatea muzeelor sunt închise luni sau marți.",
+              "Căutați micile sculpturi ascunse pe zidurile ulițelor.",
+              "Rezervați din timp masa la restaurant pentru weekend."
+            ],
+            "en": [
+              "Wear comfortable shoes for the uneven cobblestone streets.",
+              "Most museums are closed on Mondays or Tuesdays.",
+              "Look out for the small sculptures hidden in the alleys.",
+              "Book restaurants in advance for weekend visits."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Vormittag unter den schützenden Dachüberständen der Fachwerkhäuser. Mittags bietet das Werkzeugmuseum einen faszinierenden trockenen Rückzugsort. Der Nachmittag steht im Zeichen der prächtigen Kathedralen, wo das Licht durch die berühmten Glasmalereien trotz Regen magisch wirkt. Den Abend lassen wir gemütlich in einem historischen Bistro in der Altstadt ausklingen.",
+            "hu": "Délelőtt a gerendavázas házak védelmező ereszei alatt sétálunk. Délben a Szerszámmúzeum nyújt izgalmas és száraz menedéket. A délutánt a pompás katedrálisoknak szenteljük, ahol a színes üvegablakokon átszűrődő fény az esőben is varázslatos. Az estét egy óvárosi történelmi bisztró barátságos hangulatában zárjuk.",
+            "ro": "O dimineață sub streșinile protectoare ale caselor cu structură din lemn. La prânz, muzeul uneltelor oferă un refugiu uscat și fascinant. După-amiaza este dedicată catedralelor magnifice, unde lumina prin vitraliile celebre este magică chiar și pe ploaie. Încheiem seara în atmosfera primitoare a unui bistrou istoric din centrul vechi.",
+            "en": "A morning spent under the protective overhangs of timber-framed houses. At noon, the tool museum offers a fascinating dry retreat. The afternoon is dedicated to the magnificent cathedrals, where the light through the famous stained glass remains magical despite the rain. We end the evening in the cozy atmosphere of a historic bistro in the old town."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Die Arkaden des Rathauses bieten guten Schutz vor den ersten Tropfen.",
+                "hu": "A városháza árkádjai jó védelmet nyújtanak az első cseppek ellen.",
+                "ro": "Arcadele primăriei oferă o protecție bună împotriva primilor stropi.",
+                "en": "The town hall arcades provide good shelter from the first drops."
+              }
+            },
+            {
+              "name": "Ruelle des Chats",
+              "tip_5lang": {
+                "de": "Die extrem enge Gasse hält dank der nahen Hauswände viel Regen ab.",
+                "hu": "A rendkívül szűk utca a közeli falaknak köszönhetően alig ázik be.",
+                "ro": "Aleea extrem de îngustă ține ploaia la distanță datorită zidurilor apropiate.",
+                "en": "The extremely narrow alley keeps much of the rain out thanks to the close walls."
+              }
+            },
+            {
+              "name": "Église Sainte-Madeleine",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Lettner, während draußen der Regen prasselt.",
+                "hu": "Csodálja meg a szentélyrekesztőt, miközben kint kopog az eső.",
+                "ro": "Admirați iconostasul în timp ce ploaia bate afară.",
+                "en": "Admire the rood screen while the rain patters outside."
+              }
+            },
+            {
+              "name": "Musée de l'Outil et de l'Ouvrier (MOPO)",
+              "tip_5lang": {
+                "de": "Ideal für eine lange Pause im Trockenen inmitten von Handwerkskunst.",
+                "hu": "Ideális egy hosszú, száraz pihenőhöz a kézműves remekek között.",
+                "ro": "Ideal pentru o pauză lungă la uscat, printre obiecte de artizanat.",
+                "en": "Ideal for a long break in the dry surrounded by craftsmanship."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Pierre-et-Saint-Paul",
+              "tip_5lang": {
+                "de": "Die riesigen Glasfenster leuchten auch bei grauem Himmel eindrucksvoll.",
+                "hu": "A hatalmas üvegablakok szürke égbolt mellett is lenyűgözően fénylenek.",
+                "ro": "Ferestrele enorme de sticlă strălucesc impresionant chiar și sub cerul gri.",
+                "en": "The huge glass windows glow impressively even under grey skies."
+              }
+            },
+            {
+              "name": "Basilique Saint-Urbain",
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Gotik, perfekt als letzter trockener Stopp.",
+                "hu": "A gótika remekműve, tökéletes utolsó száraz megállóként.",
+                "ro": "O capodoperă a goticului, perfectă ca ultimă oprire uscată.",
+                "en": "A masterpiece of Gothic architecture, perfect as a final dry stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke statt Schirm, da die Gassen sehr eng sind.",
+              "Die Kirchen in Troyes sind ideale Rückzugsorte bei kurzen Schauern.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster in der Ruelle des Chats.",
+              "Nutzen Sie die Mittagspause für das MOPO Museum, um den stärksten Regen zu meiden."
+            ],
+            "hu": [
+              "Esernyő helyett viseljen esőkabátot, mert a sikátorok nagyon szűkek.",
+              "Troyes templomai ideális menedékek a rövid záporok idején.",
+              "Ügyeljen a csúszós macskakövekre a Ruelle des Chats utcában.",
+              "A leghidegebb eső idejére időzítse a MOPO múzeum látogatását."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie în loc de umbrelă, deoarece aleile sunt înguste.",
+              "Bisericile din Troyes sunt refugii ideale în timpul averselor scurte.",
+              "Atenție la pavajul alunecos din Ruelle des Chats.",
+              "Folosiți pauza de prânz pentru muzeul MOPO pentru a evita ploaia puternică."
+            ],
+            "en": [
+              "Wear a raincoat instead of an umbrella as the alleys are very narrow.",
+              "The churches in Troyes are ideal retreats during short showers.",
+              "Watch out for slippery cobblestones in the Ruelle des Chats.",
+              "Use the lunch break for the MOPO museum to avoid the heaviest rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Morgen beginnt mit dem Blick auf das beleuchtete Rathaus. Die Kälte vertreiben wir uns in den prächtigen Kirchen und dem beheizten Handwerksmuseum. Wenn die Dämmerung gegen 17:00 Uhr einsetzt, verwandelt die Weihnachtsbeleuchtung das Fachwerkviertel in eine Märchenlandschaft. Ein heißer Cidre wärmt uns am späten Nachmittag in der Nähe der Basilika.",
+            "hu": "A téli reggel a kivilágított városháza látványával indul. A hideg elől a pompás templomokba és a fűtött kézműves múzeumba menekülünk. Amikor 17:00 körül leszáll az alkony, az ünnepi fények mesevilággá változtatják a gerendavázas negyedet. Egy forró almafröccs vagy cider melenget meg minket délután a bazilika közelében.",
+            "ro": "Dimineața de iarnă începe cu vederea primăriei iluminate. Alungăm frigul în bisericile magnifice și în muzeul meșteșugurilor încălzit. Când amurgul se lasă în jur de ora 17:00, luminile festive transformă cartierul vechi într-un peisaj de basm. Un cidru fierbinte ne încălzește după-amiaza târziu lângă basilică.",
+            "en": "The winter morning begins with a view of the illuminated town hall. We shake off the cold in the magnificent churches and the heated craft museum. As dusk sets in around 5:00 PM, the festive lights transform the timbered district into a fairy-tale landscape. A hot cider warms us in the late afternoon near the basilica."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Dekoration und die festliche Beleuchtung.",
+                "hu": "Élvezze a téli dekorációt és az ünnepi kivilágítást.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă și de iluminatul festiv.",
+                "en": "Enjoy the winter decorations and the festive lighting."
+              }
+            },
+            {
+              "name": "Ruelle des Chats",
+              "tip_5lang": {
+                "de": "Im Winter wirken die windschiefen Häuser besonders urig und gemütlich.",
+                "hu": "Télen a dülöngélő házak különösen ódonnak és hangulatosnak hatnak.",
+                "ro": "Iarna, casele înclinate par deosebit de pitorești și primitoare.",
+                "en": "In winter, the crooked houses look particularly quaint and cozy."
+              }
+            },
+            {
+              "name": "Église Sainte-Madeleine",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur inneren Einkehr und zum Aufwärmen.",
+                "hu": "Csendes hely az elcsendesedéshez és a felmelegedéshez.",
+                "ro": "Un loc liniștit pentru reflecție și pentru a vă încălzi.",
+                "en": "A quiet place for reflection and to warm up."
+              }
+            },
+            {
+              "name": "Musée de l'Outil et de l'Ouvrier (MOPO)",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten Schutz vor Frost.",
+                "hu": "A kiállítótermek jól fűtöttek, védelmet nyújtanak a fagy elől.",
+                "ro": "Sălile de expoziție sunt bine încălzite și oferă protecție împotriva gerului.",
+                "en": "The exhibition rooms are well heated and offer protection from the frost."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Pierre-et-Saint-Paul",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Schatzkammer, um der Winterkälte kurz zu entfliehen.",
+                "hu": "Látogasson el a kincstárba, hogy rövid időre elmeneküljön a téli hideg elől.",
+                "ro": "Vizitați trezoreria pentru a scăpa scurt de frigul iernii.",
+                "en": "Visit the treasury to briefly escape the winter cold."
+              }
+            },
+            {
+              "name": "Basilique Saint-Urbain",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die beleuchtete Fassade ein Highlight.",
+                "hu": "Szürkületben a kivilágított homlokzat igazi fénypont.",
+                "ro": "La amurg, fațada iluminată este un punct de atracție.",
+                "en": "At dusk, the illuminated facade is a highlight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter; planen Sie Fotos früher.",
+              "Tragen Sie warme Schuhe für das Gehen auf den kalten Pflastersteinen.",
+              "Probieren Sie lokale Spezialitäten wie Andouillette in einem warmen Bistro.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Öffnungszeiten."
+            ],
+            "hu": [
+              "Télen a nap 17:00 körül nyugszik, a fotózást korábbra tervezze.",
+              "Viseljen meleg cipőt a hideg macskaköveken való sétához.",
+              "Kóstolja meg a helyi Andouillette-et egy meleg bisztróban.",
+              "A múzeumok hétfőnként gyakran zárva vannak, ellenőrizze a nyitvatartást."
+            ],
+            "ro": [
+              "Soarele apune iarna în jur de ora 17:00; planificați fotografiile mai devreme.",
+              "Purtați încălțăminte călduroasă pentru mersul pe pietrele reci.",
+              "Gustați specialități locale precum Andouillette într-un bistrou cald.",
+              "Muzeele sunt adesea închise lunea, verificați programul."
+            ],
+            "en": [
+              "The sun sets around 5:00 PM in winter; plan your photos earlier.",
+              "Wear warm shoes for walking on the cold cobblestones.",
+              "Try local specialties like Andouillette in a warm bistro.",
+              "Museums are often closed on Mondays, check the opening hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -520,6 +942,333 @@
           "Bring plenty of water with you.",
           "Bike rentals are available near the train station."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Tour führt Sie aus dem Zentrum hinaus entlang des Kanals. Morgens besuchen Sie das berühmte 'Herz von Troyes'. Mittags radeln Sie durch den Parc des Moulins, eine grüne Lunge der Stadt. Nachmittags kehren Sie für Kultur zurück und erkunden das ruhigere Saint-Nizier Viertel.",
+            "hu": "Ez a túra kivezeti Önt a központból a csatorna mentén. Reggel meglátogatjuk a híres 'Troyes Szívét'. Délben a Parc des Moulins parkban tekerünk, ami a város zöld tüdeje. Délután kulturális élményekkel és a csendesebb Saint-Nizier negyed felfedezésével zárjuk a napot.",
+            "ro": "Acest tur vă scoate din centru pe lângă canal. Dimineața vizitați celebrul 'Inimă a orașului Troyes'. La prânz pedalați prin Parc des Moulins, plămânul verde al orașului. După-amiaza reveniți pentru cultură și explorarea cartierului liniștit Saint-Nizier.",
+            "en": "This tour takes you out of the center along the canal. Morning starts at the famous 'Heart of Troyes'. Midday is spent cycling through Parc des Moulins, the city's green lung. Afternoon brings you back for culture and exploring the quieter Saint-Nizier district."
+          },
+          "stops": [
+            {
+              "name": "Le Coeur de Troyes",
+              "tip_5lang": {
+                "de": "Das Symbol der Stadt am Kanalufer.",
+                "hu": "A város jelképe a csatorna partján.",
+                "ro": "Simbolul orașului pe malul canalului.",
+                "en": "The iconic symbol of the city by the canal."
+              }
+            },
+            {
+              "name": "Canal de la Haute-Seine",
+              "tip_5lang": {
+                "de": "Ein flacher, grüner Radweg entlang des Wassers.",
+                "hu": "Lapos, zöld kerékpárút a víz mentén.",
+                "ro": "O pistă de biciclete plană și verde de-a lungul apei.",
+                "en": "A flat, green cycling path along the water."
+              }
+            },
+            {
+              "name": "Parc des Moulins",
+              "tip_5lang": {
+                "de": "Ein riesiger Park mit alten Mühlen und Teichen.",
+                "hu": "Hatalmas park régi malmokkal és tavakkal.",
+                "ro": "Un parc imens cu mori vechi și iazuri.",
+                "en": "A vast park with old mills and ponds."
+              }
+            },
+            {
+              "name": "Maison de l'Outil",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher im Innenhof ab.",
+                "hu": "Biztonságosan lezárhatja biciklijét a belső udvaron.",
+                "ro": "Puteți parca bicicleta în siguranță în curtea interioară.",
+                "en": "Securely park your bike in the inner courtyard."
+              }
+            },
+            {
+              "name": "Quartier Saint-Nizier",
+              "tip_5lang": {
+                "de": "Ein charmantes Viertel mit bunten Häusern.",
+                "hu": "Bájos negyed színes házakkal.",
+                "ro": "Un cartier fermecător cu case colorate.",
+                "en": "A charming district with colorful houses."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Gérard",
+                "tip": "Perfekt für ein Picknick im Park."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie Gérard",
+                "tip": "Tökéletes választás egy parkbéli piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie Gérard",
+                "tip": "Perfect pentru un picnic în parc."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie Gérard",
+                "tip": "Perfect for grabbing a picnic for the park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canal-Ufer",
+                "tip": "Vogelgezwitscher und Wasserrauschen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Csatornapart",
+                "tip": "Madárcsicsergés és vízmoraj.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul canalului",
+                "tip": "Cântecul păsărilor și susurul apei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal Banks",
+                "tip": "Birdsong and the sound of water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Halle de Troyes",
+                "tip": "Kaufen Sie frisches Obst für die Tour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halle de Troyes",
+                "tip": "Vásároljon friss gyümölcsöt az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Halle de Troyes",
+                "tip": "Cumpărați fructe proaspete pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Halle de Troyes",
+                "tip": "Buy fresh fruit for your cycling trip."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Vélovoie' für sicheres Radfahren.",
+              "Die Strecke ist überwiegend flach.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Fahrradverleih gibt es in der Nähe des Bahnhofs."
+            ],
+            "hu": [
+              "Használja a 'Vélovoie' utakat a biztonságos közlekedéshez.",
+              "Az útvonal nagyrészt sík.",
+              "Vigyen magával elegendő vizet.",
+              "Kerékpárkölcsönzőt a vasútállomás közelében talál."
+            ],
+            "ro": [
+              "Folosiți pistele 'Vélovoie' pentru siguranță.",
+              "Traseul este în mare parte plat.",
+              "Luați suficientă apă cu voi.",
+              "Închirieri de biciclete găsiți lângă gară."
+            ],
+            "en": [
+              "Use the 'Vélovoie' paths for safe cycling.",
+              "The route is mostly flat.",
+              "Bring plenty of water with you.",
+              "Bike rentals are available near the train station."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour am Kanal eine besondere Atmosphäre. Wir starten am Herz von Troyes und folgen dem Wasserlauf, wobei das Blätterdach des Kanals etwas Schutz bietet. Der ausgiebige Besuch im Werkzeugmuseum ist der ideale trockene Stopp zur Mittagszeit. Den Nachmittag verbringen wir im historischen Saint-Nizier Viertel, bevor wir die Räder sicher abstellen.",
+            "hu": "Az eső ellenére a csatorna menti kerékpározás különleges hangulatot áraszt. A Troyes szívétől indulunk és a vízi utat követjük, ahol a csatorna menti fák némi védelmet nyújtanak. A Szerszámmúzeum meglátogatása ideális száraz megálló ebédidőben. A délutánt a történelmi Saint-Nizier negyedben töltjük, mielőtt biztonságba helyezzük a bringákat.",
+            "ro": "În ciuda ploii, turul cu bicicleta pe canal oferă o atmosferă deosebită. Pornim de la Inima Troyes-ului și urmăm cursul apei, unde coronamentul copacilor de pe canal oferă puțină protecție. Vizita prelungită la muzeul uneltelor este oprirea ideală la uscat la prânz. Petrecem după-amiaza în cartierul istoric Saint-Nizier înainte de a parca bicicletele.",
+            "en": "Despite the rain, the bike tour along the canal offers a special atmosphere. We start at the Heart of Troyes and follow the waterway, where the canal's canopy provides some shelter. The extensive visit to the tool museum is the ideal dry stop at lunchtime. We spend the afternoon in the historic Saint-Nizier district before securing the bikes."
+          },
+          "stops": [
+            {
+              "name": "Le Coeur de Troyes",
+              "tip_5lang": {
+                "de": "Vorsicht, der Platz um die Skulptur kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a szobor körüli tér nedvesen csúszós lehet.",
+                "ro": "Atenție, piața din jurul sculpturii poate fi alunecoasă când este udă.",
+                "en": "Caution, the square around the sculpture can be slippery when wet."
+              }
+            },
+            {
+              "name": "Canal de la Haute-Seine",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "A burkolt utak esőben is jól járhatók biciklivel.",
+                "ro": "Pistele pavate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easily rideable even in the rain."
+              }
+            },
+            {
+              "name": "Parc des Moulins",
+              "tip_5lang": {
+                "de": "Die Bäume bieten Schutz, aber meiden Sie unbefestigte Pfade.",
+                "hu": "A fák védelmet nyújtanak, de kerülje a burkolatlan ösvényeket.",
+                "ro": "Copacii oferă protecție, dar evitați potecile nepavate.",
+                "en": "The trees provide shelter, but avoid unpaved paths."
+              }
+            },
+            {
+              "name": "Maison de l'Outil",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof zum Parken Ihrer Räder.",
+                "hu": "Használja a fedett belső udvart a kerékpárok tárolására.",
+                "ro": "Folosiți curtea interioară acoperită pentru a parca bicicletele.",
+                "en": "Use the covered courtyard to park your bikes."
+              }
+            },
+            {
+              "name": "Quartier Saint-Nizier",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den historischen Dachvorsprüngen möglich.",
+                "hu": "Rövid megálló a történelmi ereszek alatt lehetséges.",
+                "ro": "O scurtă oprire sub streșinile istorice este posibilă.",
+                "en": "Short stop possible under the historic eaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser vom Kanalweg zu schützen.",
+              "Die Kopfsteinpflastergassen in der Altstadt sind bei Regen extrem glatt.",
+              "Stellen Sie sicher, dass Ihre Bremsen bei Nässe einwandfrei funktionieren.",
+              "Vermeiden Sie Pfützen, da diese tiefer sein können als sie aussehen."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a csatorna felőli fröccsenő víztől.",
+              "Az óváros macskaköves utcái esőben rendkívül csúszósak.",
+              "Győződjön meg róla, hogy a fékek nedves időben is hibátlanul működnek.",
+              "Kerülje a tócsákat, mert mélyebbek lehetnek, mint amilyennek látszanak."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de stropii de apă de pe drumul canalului.",
+              "Aleile cu pavaj din centrul vechi sunt extrem de alunecoase pe ploaie.",
+              "Asigurați-vă că frânele funcționează impecabil pe vreme umedă.",
+              "Evitați bălțile, deoarece pot fi mai adânci decât par."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashes along the canal path.",
+              "The cobblestone streets in the old town are extremely slippery in the rain.",
+              "Ensure your brakes are working perfectly in wet conditions.",
+              "Avoid puddles as they may be deeper than they look."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch Troyes. Wir radeln zügig am Kanal entlang, um warm zu bleiben, und genießen die klare Winterluft im Parc des Moulins. Die Mittagspause im beheizten Werkzeugmuseum ist essenziell zur Erwärmung. Den frühen Sonnenuntergang erleben wir im malerischen Saint-Nizier Viertel, bevor es in der Kälte zurückgeht.",
+            "hu": "Frissítő téli túra Troyes-ban. Gyorsan tekerünk a csatorna mentén, hogy melegen tartsuk magunkat, és élvezzük a tiszta téli levegőt a Parc des Moulins-ban. A fűtött Szerszámmúzeumban töltött ebédidő elengedhetetlen a felmelegedéshez. A korai naplementét a festői Saint-Nizier negyedben éljük át, mielőtt a hidegben visszaindulnánk.",
+            "ro": "Un tur răcoros de iarnă prin Troyes. Pedalăm rapid de-a lungul canalului pentru a ne menține calzi și ne bucurăm de aerul curat de iarnă în Parc des Moulins. Pauza de prânz în muzeul uneltelor încălzit este esențială pentru încălzire. Experimentăm apusul timpuriu în cartierul pitoresc Saint-Nizier înainte de a ne întoarce prin frig.",
+            "en": "A refreshing winter tour through Troyes. We cycle briskly along the canal to stay warm and enjoy the clear winter air in Parc des Moulins. The lunch break in the heated tool museum is essential for warming up. We experience the early sunset in the picturesque Saint-Nizier district before heading back in the cold."
+          },
+          "stops": [
+            {
+              "name": "Le Coeur de Troyes",
+              "tip_5lang": {
+                "de": "Im Winter oft wunderschön frostig glänzend in der Morgensonne.",
+                "hu": "Télen gyakran gyönyörűen, zúzmarásan csillog a reggeli napfényben.",
+                "ro": "Iarna, adesea strălucind frumos de chiciură în soarele dimineții.",
+                "en": "In winter, often beautifully frosty and glowing in the morning sun."
+              }
+            },
+            {
+              "name": "Canal de la Haute-Seine",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind am Wasser ist sehr kalt.",
+                "hu": "Viseljen kesztyűt, a vízparti menetszél nagyon hideg.",
+                "ro": "Purtați mănuși, vântul din timpul mersului pe lângă apă este foarte rece.",
+                "en": "Wear gloves; the wind chill along the water is very cold."
+              }
+            },
+            {
+              "name": "Parc des Moulins",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen durch den Park.",
+                "hu": "A kopasz fák messzire engednek látni a parkban.",
+                "ro": "Copacii golași oferă perspective largi prin parc.",
+                "en": "The bare trees offer long vistas through the park."
+              }
+            },
+            {
+              "name": "Maison de l'Outil",
+              "tip_5lang": {
+                "de": "Perfekt, um die steif gefrorenen Hände bei einem Rundgang aufzuwärmen.",
+                "hu": "Tökéletes hely az átfagyott kezek felmelegítésére a körséta alatt.",
+                "ro": "Perfect pentru a vă încălzi mâinile înghețate în timpul vizitei.",
+                "en": "Perfect for warming up frozen hands during the tour."
+              }
+            },
+            {
+              "name": "Quartier Saint-Nizier",
+              "tip_5lang": {
+                "de": "Die Straßenlaternen verleihen dem Viertel ab 16:30 Uhr Glanz.",
+                "hu": "Az utcai lámpák 16:30-tól ünnepi fényt adnak a negyednek.",
+                "ro": "Felinarele dau strălucire cartierului începând cu ora 16:30.",
+                "en": "The street lamps give the district a glow from 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Kleidung in mehreren Schichten (Zwiebelprinzip).",
+              "Achten Sie auf überfrierende Nässe auf Brücken über den Kanal.",
+              "Ein heißer Tee in einer Thermoskanne ist ein idealer Begleiter.",
+              "Die Lichtverhältnisse ändern sich schnell, sorgen Sie für gute Beleuchtung am Rad."
+            ],
+            "hu": [
+              "Viseljen réteges termoruházatot (hagymaelv).",
+              "Ügyeljen a csatorna feletti hidakon kialakuló jegesedésre.",
+              "A termoszban lévő forró tea ideális kísérő a túrához.",
+              "A fényviszonyok gyorsan változnak, gondoskodjon a jó kerékpáros világításról."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte termică în mai multe straturi.",
+              "Atenție la poleiul de pe podurile peste canal.",
+              "Un ceai fierbinte într-un termos este tovarășul ideal.",
+              "Condițiile de lumină se schimbă rapid, asigurați-vă că aveți iluminare bună la bicicletă."
+            ],
+            "en": [
+              "Wear thermal clothing in multiple layers (onion principle).",
+              "Watch out for black ice on bridges over the canal.",
+              "A hot tea in a thermos is an ideal companion.",
+              "Light conditions change quickly; ensure you have good bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -734,6 +1483,333 @@
           "Lakeside parking is often paid during summer.",
           "The outlets are mostly closed on Sundays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Umgebung von Troyes. Nach einem kurzen Stadtbesuch fahren Sie zum Orient-See, einem Naturparadies. Der Mittag gehört dem Strand von Géraudot. Nachmittags probieren Sie regionalen Wein in Lusigny, bevor Sie den Tag mit einem Shopping-Erlebnis in den berühmten Outlets abrunden.",
+            "hu": "Autóval Troyes környékét fedezzük fel. Egy rövid városnézés után az Orient-tóhoz utazunk, ami igazi természeti paradicsom. A délutánt Géraudot strandján töltjük. Később Lusigny-ban helyi borokat kóstolunk, végül a napot a híres outlet központokban zárjuk.",
+            "ro": "Cu mașina explorați împrejurimile orașului Troyes. După o scurtă vizită în oraș, mergeți la Lacul Orient, un paradis natural. Prânzul aparține plajei Géraudot. După-amiaza degustați vinuri locale în Lusigny, înainte de a încheia ziua cu o sesiune de cumpărături la celebrele outlet-uri.",
+            "en": "By car, explore the surroundings of Troyes. After a quick city stop, drive to Lake Orient, a natural paradise. Midday is spent at Géraudot beach. Later, taste local wines in Lusigny, then conclude with a shopping spree at the famous factory outlets."
+          },
+          "stops": [
+            {
+              "name": "Troyes Centre-Ville",
+              "tip_5lang": {
+                "de": "Kurzer Morgenspaziergang im historischen Zentrum.",
+                "hu": "Rövid reggeli séta a történelmi központban.",
+                "ro": "Scurtă plimbare de dimineață în centrul istoric.",
+                "en": "Short morning walk in the historic center."
+              }
+            },
+            {
+              "name": "Lac d'Orient",
+              "tip_5lang": {
+                "de": "Ein riesiger Stausee im Naturpark.",
+                "hu": "Hatalmas víztározó a natúrpark szívében.",
+                "ro": "Un lac de acumulare imens în parcul natural.",
+                "en": "A huge reservoir lake in the natural park."
+              }
+            },
+            {
+              "name": "Géraudot Plage",
+              "tip_5lang": {
+                "de": "Sandstrand und klares Wasser zum Entspannen.",
+                "hu": "Homokos strand és tiszta víz a kikapcsolódáshoz.",
+                "ro": "Plajă cu nisip și apă curată pentru relaxare.",
+                "en": "Sandy beach and clear water for relaxing."
+              }
+            },
+            {
+              "name": "Lusigny-sur-Barse",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine lokale Champagner-Kellerei.",
+                "hu": "Látogasson el egy helyi pezsgőpincészetbe.",
+                "ro": "Vizitați o cramă locală de șampanie.",
+                "en": "Visit a local Champagne cellar."
+              }
+            },
+            {
+              "name": "Marques Avenue",
+              "tip_5lang": {
+                "de": "Outlet-Shopping mit großen Marken zu kleinen Preisen.",
+                "hu": "Outlet vásárlás nagy márkákkal, alacsony áron.",
+                "ro": "Cumpărături la outlet cu mărci mari la prețuri mici.",
+                "en": "Outlet shopping with big brands at low prices."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Belvédère",
+                "tip": "Essen mit Blick auf den See."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Belvédère",
+                "tip": "Ebéd kilátással a tóra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Belvédère",
+                "tip": "Masă cu vedere la lac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Belvédère",
+                "tip": "Dining with a view of the lake."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vogelbeobachtungshütte",
+                "tip": "Stille am Seeufer genießen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Madármegfigyelő torony",
+                "tip": "Élvezze a csendet a tóparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Observator ornitologic",
+                "tip": "Bucurați-vă de liniște pe malul lacului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Birdwatching Hide",
+                "tip": "Enjoy the silence by the lakeshore.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "McArthurGlen",
+                "tip": "Designer-Labels zu Outlet-Preisen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "McArthurGlen",
+                "tip": "Designer márkák outlet áron."
+              }
+            ],
+            "ro": [
+              {
+                "name": "McArthurGlen",
+                "tip": "Branduri de designer la prețuri de outlet."
+              }
+            ],
+            "en": [
+              {
+                "name": "McArthurGlen",
+                "tip": "Designer labels at outlet prices."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie im Stadtzentrum im Parkhaus 'Halles'.",
+              "Die Fahrt zum See dauert etwa 30 Minuten.",
+              "Parkplätze am See sind im Sommer oft kostenpflichtig.",
+              "Die Outlets haben sonntags meist geschlossen."
+            ],
+            "hu": [
+              "A városközpontban a 'Halles' parkolóházat ajánljuk.",
+              "Az út a tóhoz körülbelül 30 percet vesz igénybe.",
+              "A tónál a parkolás nyáron gyakran fizetős.",
+              "Az outlet központok vasárnap többnyire zárva vannak."
+            ],
+            "ro": [
+              "Parcați în centrul orașului la parcarea 'Halles'.",
+              "Drumul până la lac durează aproximativ 30 de minute.",
+              "Parcarea la lac este adesea cu plată în timpul verii.",
+              "Outlet-urile sunt de obicei închise duminica."
+            ],
+            "en": [
+              "Park in the 'Halles' parking garage in the city center.",
+              "The drive to the lake takes about 30 minutes.",
+              "Lakeside parking is often paid during summer.",
+              "The outlets are mostly closed on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch die Aube-Region trotz Regen. Das Zentrum von Troyes bietet viele überdachte Gassen. Die Fahrt zum Lac d'Orient ist bei Nebel besonders atmosphärisch. Nach einem kurzen Blick auf den verregneten Strand wärmen wir uns bei einer Gastropause in Lusigny auf. Der Tag endet perfekt im trockenen Shopping-Paradies Marques Avenue.",
+            "hu": "Hangulatos autózás az Aube régión keresztül az eső ellenére. Troyes központja sok fedett átjárót kínál. A Lac d'Orient felé vezető út ködben különösen hangulatos. A szemerkélő esőben tett rövid parti séta után egy lusigny-i gasztro-megállóval melegszünk fel. A napot a száraz vásárlási paradicsomban, a Marques Avenue-n zárjuk.",
+            "ro": "O călătorie plăcută prin regiunea Aube, în ciuda ploii. Centrul orașului Troyes oferă multe alei acoperite. Drumul spre Lac d'Orient este deosebit de atmosferic pe ceață. După o scurtă privire spre plaja ploioasă, ne încălzim cu o pauză gastronomică în Lusigny. Ziua se încheie perfect în paradisul cumpărăturilor la uscat, Marques Avenue.",
+            "en": "A cozy drive through the Aube region despite the rain. The center of Troyes offers many covered passages. The drive to Lac d'Orient is particularly atmospheric in the mist. After a short look at the rainy beach, we warm up with a gastro break in Lusigny. The day ends perfectly in the dry shopping paradise of Marques Avenue."
+          },
+          "stops": [
+            {
+              "name": "Troyes Centre-Ville",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Rathaus, um direkt im Trockenen zu sein.",
+                "hu": "Parkoljon a városháza melletti parkolóházban, hogy szárazon maradjon.",
+                "ro": "Parcați în parcarea subterană de la primărie pentru a rămâne la uscat.",
+                "en": "Park in the town hall parking garage to stay dry right away."
+              }
+            },
+            {
+              "name": "Lac d'Orient",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den mystischen See aus dem warmen Auto.",
+                "hu": "Élvezze a misztikus tó látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea lacului mistic din mașina caldă.",
+                "en": "Enjoy the view of the mystical lake from the warm car."
+              }
+            },
+            {
+              "name": "Géraudot Plage",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Ufer, bevor der nächste Schauer kommt.",
+                "hu": "Egy rövid séta a parton, mielőtt megérkezik a következő zápor.",
+                "ro": "O scurtă plimbare pe mal înainte de următoarea aversă.",
+                "en": "A short walk on the shore before the next shower arrives."
+              }
+            },
+            {
+              "name": "Lusigny-sur-Barse",
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine herzhafte warme Mahlzeit im Trockenen.",
+                "hu": "Ideális hely egy bőséges, meleg étkezéshez a szárazon.",
+                "ro": "Locul ideal pentru o masă caldă și copioasă la uscat.",
+                "en": "The ideal place for a hearty warm meal in the dry."
+              }
+            },
+            {
+              "name": "Marques Avenue",
+              "tip_5lang": {
+                "de": "Das Outlet-Center ist weitgehend überdacht und perfekt bei Regen.",
+                "hu": "Az outlet központ nagy része fedett, így tökéletes esőben.",
+                "ro": "Centrul outlet este în mare parte acoperit, fiind perfect pe ploaie.",
+                "en": "The outlet center is largely covered and perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen zum See können bei Regen rutschig und verschlammt sein.",
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes in die Stadt zu gelangen.",
+              "Im Marques Avenue gibt es viele Cafés für eine Pause zwischen den Läden.",
+              "Prüfen Sie den Reifendruck vor der Fahrt auf nassen Autobahnen."
+            ],
+            "hu": [
+              "A tóhoz vezető országutak esőben csúszósak és sárosak lehetnek.",
+              "Használja a központi parkolóházakat, hogy száraz lábbal érjen be a városba.",
+              "A Marques Avenue-n sok kávézó várja az üzletek közötti pihenésre.",
+              "Nedves autópályán való közlekedés előtt ellenőrizze a gumiabroncsok nyomását."
+            ],
+            "ro": [
+              "Drumurile spre lac pot fi alunecoase și noroioase pe ploaie.",
+              "Folosiți parcările etajate din centru pentru a ajunge în oraș fără a vă uda.",
+              "La Marques Avenue există multe cafenele pentru o pauză între magazine.",
+              "Verificați presiunea în anvelope înainte de a conduce pe autostrăzi umede."
+            ],
+            "en": [
+              "The country roads to the lake can be slippery and muddy in the rain.",
+              "Use the parking garages in the center to get into the city dry-footed.",
+              "There are many cafes at Marques Avenue for a break between shops.",
+              "Check tire pressure before driving on wet highways."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Entdeckungstour mit dem Auto. Morgens erkunden wir das Zentrum von Troyes und wärmen uns in den Museen auf. Die Fahrt zum Lac d'Orient bietet klare Sichten auf die gefrorene Natur. Nach einem erfrischenden Blick auf den winterlichen Strand von Géraudot genießen wir regionale Küche in Lusigny. Der Tag endet gemütlich beim Winter-Shopping im Marques Avenue.",
+            "hu": "Téli felfedezőút autóval. Reggel Troyes központját járjuk be, és a múzeumokban melegszünk fel. A Lac d'Orient felé vezető út tiszta kilátást nyújt a fagyos természetre. A géraudot-i téli strand frissítő látványa után Lusigny-ban élvezzük a helyi konyhát. A napot hangulatos téli vásárlással zárjuk a Marques Avenue-n.",
+            "ro": "Un tur de explorare de iarnă cu mașina. Dimineața explorăm centrul orașului Troyes și ne încălzim în muzee. Drumul spre Lac d'Orient oferă vederi clare asupra naturii înghețate. După o vedere revigorantă asupra plajei de iarnă din Géraudot, savurăm bucătăria regională în Lusigny. Ziua se încheie plăcut cu cumpărături de iarnă la Marques Avenue.",
+            "en": "A winter discovery tour by car. In the morning, we explore the center of Troyes and warm up in the museums. The drive to Lac d'Orient offers clear views of the frozen nature. After a refreshing look at the winter beach of Géraudot, we enjoy regional cuisine in Lusigny. The day ends cozily with winter shopping at Marques Avenue."
+          },
+          "stops": [
+            {
+              "name": "Troyes Centre-Ville",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung in den Gassen ist am Morgen besonders schön.",
+                "hu": "A sikátorok ünnepi kivilágítása reggel különösen szép.",
+                "ro": "Iluminatul festiv de pe alei este deosebit de frumos dimineața.",
+                "en": "The festive lighting in the alleys is particularly beautiful in the morning."
+              }
+            },
+            {
+              "name": "Lac d'Orient",
+              "tip_5lang": {
+                "de": "Im Winter sind die Zugvögel am See ein besonderes Naturschauspiel.",
+                "hu": "Télen a tavon tartózkodó költöző madarak különleges látványt nyújtanak.",
+                "ro": "Iarna, păsările migratoare de pe lac sunt un spectacol natural deosebit.",
+                "en": "In winter, the migratory birds on the lake are a special natural spectacle."
+              }
+            },
+            {
+              "name": "Géraudot Plage",
+              "tip_5lang": {
+                "de": "Ein kurzer, windiger Halt für beeindruckende Winterfotos vom Ufer.",
+                "hu": "Egy rövid, szeles megálló lenyűgöző téli fotókhoz a parton.",
+                "ro": "O oprire scurtă și vântoasă pentru fotografii de iarnă impresionante.",
+                "en": "A short, windy stop for impressive winter photos from the shore."
+              }
+            },
+            {
+              "name": "Lusigny-sur-Barse",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem herzhaften Gratin und lokalem Wein auf.",
+                "hu": "Melegedjen fel egy kiadós csőben sült étellel és helyi borral.",
+                "ro": "Încălziți-vă cu un gratin copios și vin local.",
+                "en": "Warm up with a hearty gratin and local wine."
+              }
+            },
+            {
+              "name": "Marques Avenue",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winterschlussverkauf für tolle Schnäppchen.",
+                "hu": "Használja ki a téli végkiárusítást a nagyszerű ajánlatokért.",
+                "ro": "Profitați de reducerile de iarnă pentru chilipiruri grozave.",
+                "en": "Take advantage of the winter sales for great bargains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Die Straßen um den See können morgens stellenweise glatt sein.",
+              "Im Winter sind die Tage kurz, starten Sie den Seeausflug vor 14:00 Uhr.",
+              "Nutzen Sie die Sitzheizung für eine entspannte Fahrt durch die Natur."
+            ],
+            "hu": [
+              "Tartson jégkaparót és fagyállót az autóban.",
+              "A tó körüli utak reggelente helyenként csúszósak lehetnek.",
+              "Télen a nappalok rövidek, a tavi kirándulást 14:00 előtt kezdje el.",
+              "Használja az ülésfűtést a természeten átvezető pihentető úthoz."
+            ],
+            "ro": [
+              "Aveți în mașină racletă pentru gheață și lichid de parbriz antigel.",
+              "Drumurile din jurul lacului pot fi alunecoase pe alocuri dimineața.",
+              "Iarna zilele sunt scurte, începeți excursia la lac înainte de ora 14:00.",
+              "Folosiți încălzirea în scaune pentru o călătorie relaxată prin natură."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze in your car.",
+              "The roads around the lake can be slippery in places in the morning.",
+              "Days are short in winter; start the lake trip before 2:00 PM.",
+              "Use the seat heating for a relaxed drive through nature."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -948,34 +2024,334 @@
           "Buses run very frequently in the city center.",
           "Line 1 connects the center with Marques Avenue."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Troyes. Vormittags besuchen Sie das Museum für Moderne Kunst. Mittags erkunden Sie die historische Cité. Nachmittags bringt Sie der Bus direkt zu den Outlets für Schnäppchenjäger, bevor Sie den Tag auf einem der belebten Plätze im Zentrum beenden.",
+            "hu": "Használja Troyes sűrű autóbusz-hálózatát. Délelőtt a Modern Művészetek Múzeumát látogatjuk meg. Délben a történelmi Cité negyedet fedezzük fel. Délután a busz egyenesen az outlet központokhoz visz, végül a napot a központ egyik élettel teli terén zárjuk.",
+            "ro": "Folosiți rețeaua densă de autobuze din Troyes. Dimineața vizitați Muzeul de Artă Modernă. La prânz explorați cartierul istoric Cité. După-amiaza autobuzul vă duce direct la outlet-uri, înainte de a încheia ziua într-una dintre piețele animate din centru.",
+            "en": "Utilize the efficient bus network of Troyes. Morning is spent at the Museum of Modern Art. Midday is for exploring the historic Cité district. Afternoon takes you by bus directly to the outlets for some deals, ending your day at a lively central square."
+          },
+          "stops": [
+            {
+              "name": "Gare de Troyes",
+              "tip_5lang": {
+                "de": "Ein schönes Beispiel für die Eisenbahnarchitektur.",
+                "hu": "A vasúti építészet szép példája.",
+                "ro": "Un exemplu frumos de arhitectură feroviară.",
+                "en": "A fine example of railway architecture."
+              }
+            },
+            {
+              "name": "Musée d'Art Moderne (MAM)",
+              "tip_5lang": {
+                "de": "Befindet sich im ehemaligen Bischofspalast.",
+                "hu": "Az egykori püspöki palotában található.",
+                "ro": "Situat în fostul palat episcopal.",
+                "en": "Located in the former episcopal palace."
+              }
+            },
+            {
+              "name": "Quartier de la Cité",
+              "tip_5lang": {
+                "de": "Das älteste Viertel der Stadt rund um die Kathedrale.",
+                "hu": "A város legrégebbi negyede a katedrális körül.",
+                "ro": "Cel mai vechi cartier al orașului în jurul catedralei.",
+                "en": "The oldest district of the city around the Cathedral."
+              }
+            },
+            {
+              "name": "Marques Avenue (Bus Route 1)",
+              "tip_5lang": {
+                "de": "Bequem mit dem Stadtbus erreichbar.",
+                "hu": "Kényelmesen elérhető helyi autóbusszal.",
+                "ro": "Accesibil ușor cu autobuzul local.",
+                "en": "Easily accessible by local bus."
+              }
+            },
+            {
+              "name": "Place du Marché au Pain",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Platz zum Abschluss des Tages.",
+                "hu": "Hangulatos tér a nap lezárásához.",
+                "ro": "O piață primitoare pentru finalul zilei.",
+                "en": "A cozy square to end the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie du Vieux Troyes",
+                "tip": "Authentische Galettes im Fachwerkhaus."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie du Vieux Troyes",
+                "tip": "Autentikus sós palacsinták egy fagerendás házban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie du Vieux Troyes",
+                "tip": "Galette-uri autentice într-o casă de paiantă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie du Vieux Troyes",
+                "tip": "Authentic galettes in a historic half-timbered house."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square de la Trinité",
+                "tip": "Ein kleiner, versteckter Park.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square de la Trinité",
+                "tip": "Egy apró, rejtett park.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square de la Trinité",
+                "tip": "Un parc mic și ascuns.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square de la Trinité",
+                "tip": "A small, hidden park area.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du Musée",
+                "tip": "Einzigartige Kunstgeschenke."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boutique du Musée",
+                "tip": "Egyedi művészeti ajándékok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du Musée",
+                "tip": "Cadouri artistice unice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutique du Musée",
+                "tip": "Unique art-related gifts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Bus (TCAT).",
+              "Laden Sie die TCAT-App für Echtzeit-Infos herunter.",
+              "Busse fahren im Zentrum sehr häufig.",
+              "Die Linie 1 verbindet das Zentrum mit Marques Avenue."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra (TCAT).",
+              "Töltse le a TCAT alkalmazást a valós idejű menetrendhez.",
+              "A buszok a központban nagyon gyakran járnak.",
+              "Az 1-es vonal köti össze a központot a Marques Avenue-val."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz (TCAT).",
+              "Descărcați aplicația TCAT pentru informații în timp real.",
+              "Autobuzele circulă foarte des în centru.",
+              "Linia 1 face legătura între centru și Marques Avenue."
+            ],
+            "en": [
+              "Buy a daily pass for the bus (TCAT).",
+              "Download the TCAT app for real-time bus info.",
+              "Buses run very frequently in the city center.",
+              "Line 1 connects the center with Marques Avenue."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch Troyes. Vom Bahnhof aus erreichen wir bequem die Museen. Das Kunstmuseum (MAM) bietet Stunden im Trockenen. Nach einem Streifzug durch das historische Viertel bringt uns der Bus zum Shopping-Outlet Marques Avenue, wo wir vor dem Regen geschützt sind. Den Abend verbringen wir wieder im belebten Zentrum.",
+            "hu": "Busszal szárazon Troyes-ban. A vasútállomástól kényelmesen elérjük a múzeumokat. A Modern Művészeti Múzeum (MAM) órákig tartó száraz kikapcsolódást kínál. A történelmi negyedben tett séta után a busz a Marques Avenue outlethez visz, ahol védve vagyunk az esőtől. Az estét ismét a nyüzsgő központban töltjük.",
+            "ro": "Cu autobuzul la uscat prin Troyes. De la gară ajungem ușor la muzee. Muzeul de Artă Modernă (MAM) oferă ore de relaxare la uscat. După o plimbare prin cartierul istoric, autobuzul ne duce la outlet-ul Marques Avenue, unde suntem protejați de ploaie. Petrecem seara din nou în centrul plin de viață.",
+            "en": "By bus dry through Troyes. From the station, we easily reach the museums. The Museum of Modern Art (MAM) offers hours of dry relaxation. After a stroll through the historic district, the bus takes us to the Marques Avenue outlet, where we are protected from the rain. We spend the evening back in the lively center."
+          },
+          "stops": [
+            {
+              "name": "Gare de Troyes",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschlussbus.",
+                "hu": "Várjon a csatlakozó buszra a vasútállomás várótermében.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait in the station hall for your connecting bus."
+              }
+            },
+            {
+              "name": "Musée d'Art Moderne (MAM)",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um einen verregneten Vormittag zu verbringen.",
+                "hu": "Nagyszerű hely egy esős délelőtt eltöltéséhez.",
+                "ro": "Un loc minunat pentru a petrece o dimineață ploioasă.",
+                "en": "A great place to spend a rainy morning."
+              }
+            },
+            {
+              "name": "Quartier de la Cité",
+              "tip_5lang": {
+                "de": "Die Busstationen hier bieten meist gute Überdachungen.",
+                "hu": "Az itteni buszmegállók többsége jól fedett.",
+                "ro": "Stațiile de autobuz de aici oferă de obicei copertine bune.",
+                "en": "The bus stations here usually offer good shelters."
+              }
+            },
+            {
+              "name": "Marques Avenue (Bus Route 1)",
+              "tip_5lang": {
+                "de": "Direkte Anbindung mit dem Bus, kein langer Fußweg im Regen.",
+                "hu": "Közvetlen buszkapcsolat, nincs hosszú séta az esőben.",
+                "ro": "Conexiune directă cu autobuzul, fără mers lung pe jos prin ploaie.",
+                "en": "Direct bus connection, no long walk in the rain."
+              }
+            },
+            {
+              "name": "Place du Marché au Pain",
+              "tip_5lang": {
+                "de": "Zentrale Lage mit vielen Cafés zur Rettung vor dem Regen.",
+                "hu": "Központi helyszín sok kávézóval az eső elől való meneküléshez.",
+                "ro": "Locație centrală cu multe cafenele pentru a scăpa de ploaie.",
+                "en": "Central location with many cafes to rescue you from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des TCAT-Verkehrsverbundes für Echtzeit-Infos.",
+              "Die Busse verkehren bei Regen oft mit leichten Verzögerungen.",
+              "Validieren Sie Ihr Ticket direkt beim Einsteigen im trockenen Bus.",
+              "Die Linie 1 zum Outlet ist die bequemste Verbindung bei schlechtem Wetter."
+            ],
+            "hu": [
+              "Használja a TCAT közlekedési társaság alkalmazását a valós idejű infókért.",
+              "Esőben a buszok gyakran kisebb késéssel közlekednek.",
+              "Érvényesítse jegyét közvetlenül a felszálláskor a száraz buszon.",
+              "Az outlethez vezető 1-es vonal a legkényelmesebb rossz időben."
+            ],
+            "ro": [
+              "Folosiți aplicația TCAT pentru informații în timp real.",
+              "Autobuzele circulă adesea cu ușoare întârzieri pe ploaie.",
+              "Validați biletul direct la urcarea în autobuzul uscat.",
+              "Linia 1 către outlet este cea mai convenabilă conexiune pe vreme rea."
+            ],
+            "en": [
+              "Use the TCAT transport app for real-time information.",
+              "Buses often run with slight delays in the rain.",
+              "Validate your ticket directly upon boarding the dry bus.",
+              "Line 1 to the outlet is the most convenient connection in bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour mit dem ÖPNV. Wir starten am Bahnhof und nutzen den Bus als warme Verbindung zwischen den Sehenswürdigkeiten. Das MAM und das historische Zentrum bieten kulturelle Wärme. Zum Abendessen geht es mit dem Bus zurück zum Marché au Pain, wo die winterliche Atmosphäre im Zentrum am schönsten ist.",
+            "hu": "Kényelmes téli túra tömegközlekedéssel. A vasútállomástól indulunk, és a buszt használjuk meleg összeköttetésként a látnivalók között. A MAM és a történelmi központ kulturális felmelegedést kínál. Vacsorához busszal megyünk vissza a Marché au Pain-hoz, ahol a legszebb a téli hangulat.",
+            "ro": "Un tur plăcut de iarnă cu transportul public. Pornim de la gară și folosim autobuzul ca legătură caldă între obiective. MAM și centrul istoric oferă căldură culturală. Pentru cină, mergem cu autobuzul înapoi la Marché au Pain, unde atmosfera de iarnă este cea mai frumoasă.",
+            "en": "A cozy winter tour by public transport. We start at the station and use the bus as a warm connection between the sights. The MAM and the historic center offer cultural warmth. For dinner, we take the bus back to Marché au Pain, where the winter atmosphere in the center is at its best."
+          },
+          "stops": [
+            {
+              "name": "Gare de Troyes",
+              "tip_5lang": {
+                "de": "Im Winter ist die Bahnhofshalle ein guter Ort zum Aufwärmen.",
+                "hu": "Télen a vasútállomás váróterme jó hely a felmelegedésre.",
+                "ro": "Iarna, holul gării este un loc bun pentru a vă încălzi.",
+                "en": "In winter, the station hall is a good place to warm up."
+              }
+            },
+            {
+              "name": "Musée d'Art Moderne (MAM)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst in angenehm temperierten Räumen.",
+                "hu": "Élvezze a művészetet kellemes hőmérsékletű termekben.",
+                "ro": "Bucurați-vă de artă în săli cu temperatură plăcută.",
+                "en": "Enjoy art in comfortably heated rooms."
+              }
+            },
+            {
+              "name": "Quartier de la Cité",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine der Bäckereien für einen heißen Snack.",
+                "hu": "Látogasson el az egyik pékségbe egy forró snackért.",
+                "ro": "Vizitați una dintre brutării pentru o gustare caldă.",
+                "en": "Visit one of the bakeries for a hot snack."
+              }
+            },
+            {
+              "name": "Marques Avenue (Bus Route 1)",
+              "tip_5lang": {
+                "de": "Die beheizten Busse sind eine Wohltat nach dem Shopping-Rundgang.",
+                "hu": "A fűtött buszok valóságos áldást jelentenek a vásárlás után.",
+                "ro": "Autobuzele încălzite sunt o binecuvântare după turul de cumpărături.",
+                "en": "The heated buses are a blessing after the shopping tour."
+              }
+            },
+            {
+              "name": "Place du Marché au Pain",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter hier besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás télen itt különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de atmosferic aici iarna.",
+                "en": "The evening lighting is particularly atmospheric here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Winterfahrpläne, besonders an Feiertagen.",
+              "Nutzen Sie die Zeit im Bus, um Ihre Route im Warmen zu planen.",
+              "Kaufen Sie Tagestickets im Voraus, um Wartezeiten an Automaten zu vermeiden.",
+              "Die TCAT Busse sind meist pünktlich, aber planen Sie Pufferzeiten ein."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre, különösen az ünnepek idején.",
+              "Használja ki a buszon töltött időt az útvonal melegben való tervezésére.",
+              "Vásároljon napijegyet előre, hogy elkerülje a várakozást az automatáknál.",
+              "A TCAT buszok többnyire pontosak, de tervezzen be némi ráhagyást."
+            ],
+            "ro": [
+              "Atenție la orarele de iarnă, în special în timpul sărbătorilor.",
+              "Folosiți timpul în autobuz pentru a vă planifica ruta la căldură.",
+              "Cumpărați bilete de o zi în avans pentru a evita așteptarea la automate.",
+              "Autobuzele TCAT sunt de obicei punctuale, dar planificați timpi de rezervă."
+            ],
+            "en": [
+              "Pay attention to winter schedules, especially during holidays.",
+              "Use the time on the bus to plan your route in the warm.",
+              "Buy day tickets in advance to avoid waiting at machines.",
+              "TCAT buses are usually punctual, but plan for some buffer time."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.troyeslachampagne.com/",
-    "events": "https://www.troyeslachampagne.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.tcat.fr/",
-    "language_tips": {
-      "de": "Troyes ist klassisch französischsprachig, weniger Deutsch als im Elsass. Champagne-Region: 'champenois' ist der Dialektrest. 'Andouillette de Troyes' ist Wurst-Spezialität, in der Bestellung mit 'AAAAA'-Stempel fragen (Qualität).",
-      "hu": "Troyes klasszikus francia nyelvű, kevesebb német mint Elzászban. Champagne régió: a 'champenois' a tájszólás maradványa. Az 'Andouillette de Troyes' a kolbászkülönlegesség, rendelésnél kérdezz az 'AAAAA' pecsétre (minőség).",
-      "ro": "Troyes este clasic francofon, mai puțină germană decât în Alsacia. Regiunea Champagne: 'champenois' este urma de dialect. 'Andouillette de Troyes' este specialitatea de cârnați, întrebați despre ștampila 'AAAAA' (calitate).",
-      "en": "Troyes is classically French-speaking, less German than in Alsace. Champagne region: 'champenois' is the local dialect's trace. 'Andouillette de Troyes' is the sausage specialty, ask for the 'AAAAA' quality stamp."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober für mildes Wetter und Champagner-Erntefeste. Dezember: kleiner Weihnachtsmarkt vor halbhölzernen Häusern. Juli-August: heiß, aber gut für Outlet-Shopping. Vermeiden Sie Februar, viele Museen geschlossen.",
-      "hu": "Május-június és szeptember-október enyhe időért és pezsgő-szüreti ünnepekért. December: kis karácsonyi vásár a favázas házak előtt. Július-augusztus: forró, de jó outlet-shoppingra. Februárt kerüld, sok múzeum zárva.",
-      "ro": "Mai-iunie și septembrie-octombrie pentru vremea blândă și festivaluri ale culesului de șampanie. Decembrie: târg de Crăciun mic în fața caselor cu paiantă. Iulie-august: cald, dar bun pentru outlet. Evitați februarie, multe muzee închise.",
-      "en": "May-June and September-October for mild weather and Champagne harvest events. December offers a small Christmas market amid half-timbered houses. July-August is hot but great for outlet shopping. Avoid February, many museums close."
-    },
-    "neighborhood_warnings": {
-      "de": "Generell sicher. Rund um den Bahnhof nachts vorsichtig sein. Im Quartier Saint-Jean (Outlet-Bereich) kann es zur Stoßzeit hektisch werden. Beim Radfahren auf die schmalen Kopfsteinpflaster-Gassen achten.",
-      "hu": "Általában biztonságos. A pályaudvar körül éjjel óvatosan. A Saint-Jean negyed (outlet) csúcsidőben hektikus lehet. Bringázáskor a szűk macskaköves utcákra figyelj.",
-      "ro": "În general sigur. În jurul gării, atenție noaptea. Cartierul Saint-Jean (zona outlet) poate fi haotic la ore de vârf. Pe bicicletă, atenție la străduțele înguste pavate.",
-      "en": "Generally safe. Be careful around the train station at night. The Saint-Jean outlet quarter can get hectic at peak hours. Cyclists should mind the narrow cobblestone lanes."
-    },
-    "parking_real_time": ""
   }
 }

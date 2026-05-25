@@ -320,6 +320,442 @@
           "Use the cable car for a great aerial view.",
           "Most museums are closed on Mondays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt im Herzen von Brest am Place de la Liberté, bevor Sie die prächtige Allee Cours Dajot entlang schlendern. Genießen Sie die frische Meeresbrise und den Blick auf die Militärschiffe.\n\nMittags erkunden Sie die Festung Château de Brest und lassen sich dann im geschäftigen Port de Commerce mit Meeresfrüchten verwöhnen.\n\nNachmittags überqueren Sie die Penfeld-Brücke zur geschichtsträchtigen Tour Tanguy im Viertel Recouvrance.\n\nDer Abend gehört den Ateliers des Capucins, einer ehemaligen Marinewerkstatt, die heute als pulsierendes Kulturzentrum dient.",
+            "hu": "A napod Brest szívében, a Szabadság téren indul, majd a fenséges Cours Dajot sétányon folytatódik. Élvezd a sós tengeri levegőt és a katonai hajók látványát.\n\nDélben fedezd fel a Bresti várat, majd kóstolj friss tenger gyümölcseit a nyüzsgő Kereskedelmi kikötőben.\n\nDélután kelj át a Penfeld folyó felett a történelmi Tanguy-toronyhoz Recouvrance negyedében.\n\nAz estét töltsd a Capucins műhelyekben, amely egy hajdani haditengerészeti gyárból alakult át lüktető kulturális központtá.",
+            "ro": "Ziua începe în inima Brestului, în Piața Libertății, înainte de a te plimba pe faimoasa promenadă Cours Dajot. Bucură-te de briza mării și de vederea navelor militare.\n\nLa prânz, explorează Castelul Brest și apoi răsfață-te cu fructe de mare în portul comercial plin de viață.\n\nDupă-amiaza, traversează râul Penfeld către Turnul Tanguy din cartierul istoric Recouvrance.\n\nSeara aparține Atelierelor Capucins, o fostă unitate navală transformată într-un centru cultural vibrant.",
+            "en": "Your day starts in the heart of Brest at Place de la Liberté, before strolling along the majestic Cours Dajot. Enjoy the fresh sea breeze and the view of the naval ships.\n\nAt midday, explore the historic Brest Castle and then indulge in seafood at the bustling Commercial Port.\n\nIn the afternoon, cross the Penfeld river to the historic Tanguy Tower in the Recouvrance district.\n\nEnd your day at Les Ateliers des Capucins, a former naval workshop turned into a vibrant cultural hub."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Liberty Square"
+              },
+              "tip_5lang": {
+                "de": "Blick auf das Rathaus.",
+                "hu": "Nézd meg a városházát.",
+                "ro": "Priviți primăria.",
+                "en": "Check out the city hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cours Dajot",
+                "hu": "Cours Dajot sétány",
+                "ro": "Cours Dajot",
+                "en": "Cours Dajot"
+              },
+              "tip_5lang": {
+                "de": "Bester Blick auf den Hafen.",
+                "hu": "A legjobb kilátás a kikötőre.",
+                "ro": "Cea mai bună vedere la port.",
+                "en": "Best view of the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Brest",
+                "hu": "Bresti vár",
+                "ro": "Castelul din Brest",
+                "en": "Brest Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Marinemuseum ist ein Muss.",
+                "hu": "A Tengerészeti Múzeum kötelező.",
+                "ro": "Muzeul Marinei este obligatoriu.",
+                "en": "The Naval Museum is a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Commerce - Mittagessen",
+                "hu": "Kereskedelmi kikötő - Ebéd",
+                "ro": "Portul de Comerț - Prânz",
+                "en": "Commercial Port - Lunch"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie frische Austern.",
+                "hu": "Kóstold meg a friss osztrigát.",
+                "ro": "Gustați stridiile proaspete.",
+                "en": "Try fresh oysters."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Tanguy",
+                "hu": "Tanguy-torony",
+                "ro": "Turnul Tanguy",
+                "en": "Tanguy Tower"
+              },
+              "tip_5lang": {
+                "de": "Kostenloses Museum im Inneren.",
+                "hu": "Ingyenes múzeum a toronyban.",
+                "ro": "Muzeu gratuit în interior.",
+                "en": "Free museum inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Ateliers des Capucins",
+                "hu": "Capucins műhelyek",
+                "ro": "Atelierele Capucins",
+                "en": "Les Ateliers des Capucins"
+              },
+              "tip_5lang": {
+                "de": "Ein riesiger Kulturraum.",
+                "hu": "Hatalmas kulturális tér.",
+                "ro": "Un spațiu cultural imens.",
+                "en": "A massive cultural space."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie du Roi Gradlon",
+                "tip": "Probieren Sie die Galettes mit Buchweizen."
+              },
+              {
+                "name": "Le Crabe Marteau",
+                "tip": "Frischer Taschenkrebs, serviert mit einem Hammer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie du Roi Gradlon",
+                "tip": "Kóstold meg a sós hajdinás galette-et."
+              },
+              {
+                "name": "Le Crabe Marteau",
+                "tip": "Friss tarisznyarák, amit kalapáccsal törhetsz fel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie du Roi Gradlon",
+                "tip": "Încearcă galettes de hrișcă."
+              },
+              {
+                "name": "Le Crabe Marteau",
+                "tip": "Crab proaspăt servit cu un ciocan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie du Roi Gradlon",
+                "tip": "Try the savory buckwheat galettes."
+              },
+              {
+                "name": "Le Crabe Marteau",
+                "tip": "Fresh crab served with a hammer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin des Explorateurs",
+                "tip": "Ein ruhiger Garten mit Blick auf das Schloss.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Cours Dajot zum Sonnenuntergang",
+                "tip": "Romantisches Licht über dem Hafen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin des Explorateurs",
+                "tip": "Csendes kert kilátással a várra.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Cours Dajot naplementekor",
+                "tip": "Romantikus fények a kikötő felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin des Explorateurs",
+                "tip": "O grădină liniștită cu vedere la castel.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Cours Dajot la apus",
+                "tip": "Lumină romantică peste port.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin des Explorateurs",
+                "tip": "A quiet garden overlooking the castle.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Cours Dajot at sunset",
+                "tip": "Romantic light over the harbor.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue Jean Jaurès",
+                "tip": "Die Haupteinkaufsstraße der Stadt."
+              },
+              {
+                "name": "Capucins Concept Store",
+                "tip": "Lokales Design und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue Jean Jaurès",
+                "tip": "A város fő bevásárlóutcája."
+              },
+              {
+                "name": "Capucins Concept Store",
+                "tip": "Helyi dizájn és kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue Jean Jaurès",
+                "tip": "Principala stradă comercială."
+              },
+              {
+                "name": "Capucins Concept Store",
+                "tip": "Design local și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue Jean Jaurès",
+                "tip": "The main shopping street of the city."
+              },
+              {
+                "name": "Capucins Concept Store",
+                "tip": "Local design and crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Brest ist hügelig, tragen Sie bequeme Schuhe.",
+              "Das Wetter kann sich schnell ändern, Regenschutz mitnehmen.",
+              "Nutzen Sie die Seilbahn für einen tollen Ausblick.",
+              "Die meisten Museen schließen montags."
+            ],
+            "hu": [
+              "Brest dombos, viselj kényelmes cipőt.",
+              "Az időjárás gyorsan változhat, vigyél esőkabátot.",
+              "Használd a libegőt a nagyszerű kilátásért.",
+              "A legtöbb múzeum hétfőn zárva tart."
+            ],
+            "ro": [
+              "Brest este deluros, purtați pantofi confortabili.",
+              "Vremea se poate schimba rapid, luați o pelerină.",
+              "Folosiți telecabina pentru o vedere superbă.",
+              "Majoritatea muzeelor sunt închise lunea."
+            ],
+            "en": [
+              "Brest is hilly, wear comfortable shoes.",
+              "The weather changes quickly, bring a raincoat.",
+              "Use the cable car for a great aerial view.",
+              "Most museums are closed on Mondays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Place de la Liberté, wo die Arkaden Schutz bieten. Ein zügiger Spaziergang führt Sie zum Cours Dajot, bevor Sie in die trockenen Mauern der Festung flüchten.\n\nMittags genießen Sie die Atmosphäre im Handelshafen bei einem warmen Essen. Die Meeresbrise und der Regen machen die lokale Küche noch gemütlicher.\n\nAm Nachmittag bietet der Tour Tanguy faszinierende Einblicke, gefolgt von der Überquerung der Brücke zu den Ateliers des Capucins.\n\nDer Tag endet in der riesigen, überdachten Halle der Capucins, dem perfekten Ort, um dem Wetter zu trotzen.",
+            "hu": "Kezdje a napot a Liberty téren, ahol az árkádok védelmet nyújtanak. Egy gyors séta a Cours Dajot-n, mielőtt a vár száraz falai közé menekülne.\n\nEbédeljen a kereskedelmi kikötőben, ahol az eső kopogása még hangulatosabbá teszi a helyi éttermeket és a tengeri fogásokat.\n\nDélután a Tanguy-torony múzeuma kínál menedéket, majd keljen át a hídon a Les Ateliers des Capucins épületéhez.\n\nA napot a Capucins hatalmas, fedett csarnokában zárja, amely ideális hely az eső elöli rejtőzéshez.",
+            "ro": "Începeți ziua în Piața Libertății, unde arcadele oferă protecție. O plimbare rapidă pe Cours Dajot înainte de a vă refugia între zidurile uscate ale castelului.\n\nLa prânz, savurați atmosfera din portul comercial cu o masă caldă. Briza mării și ploaia fac bucătăria locală și mai primitoare.\n\nDupă-amiază, Turnul Tanguy oferă perspective fascinante, urmat de traversarea podului către Ateliers des Capucins.\n\nZiua se încheie în hala imensă și acoperită de la Capucins, locul perfect pentru a ignora vremea nefavorabilă.",
+            "en": "Start your day at Liberty Square, where the arcades provide shelter. A brisk walk leads you to Cours Dajot before escaping into the dry walls of the castle.\n\nAt lunch, enjoy the atmosphere in the commercial port with a warm meal. The sea breeze and rain make the local cuisine even more comforting.\n\nIn the afternoon, Tanguy Tower offers fascinating insights, followed by a walk across the bridge to the Ateliers des Capucins.\n\nThe day ends in the massive, covered hall of the Capucins, the perfect spot to defy the weather."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca adăpost împotriva ploii.",
+                "en": "Use the arcades of the surrounding buildings for rain protection."
+              }
+            },
+            {
+              "name": "Cours Dajot",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist hier wegen des starken Seewinds oft nutzlos; wählen Sie Regenkleidung.",
+                "hu": "Az esernyő itt a szél miatt gyakran hasztalan; válasszon vízhatlan ruhát.",
+                "ro": "Umbrela este adesea inutilă aici din cauza vântului; alegeți haine impermeabile.",
+                "en": "An umbrella is often useless here due to sea winds; choose waterproof clothing."
+              }
+            },
+            {
+              "name": "Brest Castle",
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in den Innenräumen des Marinemuseums.",
+                "hu": "Töltsön több időt a tengerészeti múzeum belső kiállítótereiben.",
+                "ro": "Petreceți mai mult timp în spațiile interioare ale muzeului marinei.",
+                "en": "Spend more time in the indoor exhibition spaces of the navy museum."
+              }
+            },
+            {
+              "name": "Commercial Port - Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant mit Blick auf die stürmische Reede.",
+                "hu": "Keressen egy éttermet, ahonnan rálátni a viharos kikötőre.",
+                "ro": "Căutați un restaurant cu vedere la rada furtunoasă a portului.",
+                "en": "Find a restaurant with a view of the stormy roadstead."
+              }
+            },
+            {
+              "name": "Tanguy Tower",
+              "tip_5lang": {
+                "de": "Der kleine Turm bietet einen hervorragenden, trockenen Aussichtspunkt.",
+                "hu": "A kis torony kiváló és száraz kilátópontot kínál a városra.",
+                "ro": "Turnul mic oferă un punct de observație excelent și uscat.",
+                "en": "The small tower offers an excellent and dry vantage point."
+              }
+            },
+            {
+              "name": "Les Ateliers des Capucins",
+              "tip_5lang": {
+                "de": "Der ultimative Zufluchtsort: 25.000 m² überdachte Fläche zum Erkunden.",
+                "hu": "A végső menedék: 25 000 m² fedett terület a felfedezéshez.",
+                "ro": "Refugiul suprem: 25.000 m² de spațiu acoperit de explorat.",
+                "en": "The ultimate sanctuary: 25,000 m² of covered space to explore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind Schirme oft umknickt.",
+              "Die Ateliers des Capucins sind der beste Ort bei Dauerregen.",
+              "Die Gehwege in der Nähe des Hafens können bei Nässe rutschig sein.",
+              "Nutzen Sie die Seilbahn, um trocken über den Fluss Penfeld zu gelangen."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a szél gyakran kifordítja az esernyőt.",
+              "Az Ateliers des Capucins a legjobb hely tartós eső esetén.",
+              "A kikötő közeli járdák nedvesen csúszósak lehetnek.",
+              "Használja a felvonót, hogy szárazon keljen át a Penfeld-folyón."
+            ],
+            "ro": [
+              "Purtați o pelerină de calitate, deoarece vântul rupe adesea umbrelele.",
+              "Ateliers des Capucins este cel mai bun loc în caz de ploaie persistentă.",
+              "Trotuarele de lângă port pot fi alunecoase când sunt ude.",
+              "Folosiți telecabina pentru a traversa râul Penfeld fără a vă uda."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as the wind often breaks umbrellas.",
+              "The Ateliers des Capucins is the best place during persistent rain.",
+              "Sidewalks near the port can be slippery when wet.",
+              "Use the cable car to cross the Penfeld River while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Place de la Liberté. Die kühle Luft ist erfrischend, während Sie den Panoramablick vom Cours Dajot genießen.\n\nDas Mittagessen im Hafen wärmt Sie auf, bevor Sie die massiven Mauern der Festung erkunden, die im Winterlicht besonders eindrucksvoll wirken.\n\nAm Nachmittag bietet der Tour Tanguy eine gemütliche historische Zeitreise. Der frühe Sonnenuntergang taucht den Hafen in goldenes Licht.\n\nBeenden Sie den Tag bei den Capucins, wo die Beleuchtung und die industrielle Architektur eine warme Atmosphäre schaffen.",
+            "hu": "Tiszta téli reggel a Liberty téren. A hűvös levegő frissítő, miközben a Cours Dajot-ról nyíló panorámában gyönyörködik.\n\nA kikötői ebéd felmelegíti, mielőtt felfedezné a vár masszív falait, amelyek a téli fényben különösen hatásosak.\n\nDélután a Tanguy-torony kellemes történelmi időutazást kínál. A korai naplemente arany fénybe vonja a kikötőt.\n\nA napot a Capucins-nál zárja, ahol a világítás és az ipari építészet meleg atmoszférát teremt.",
+            "ro": "O dimineață senină de iarnă în Piața Libertății. Aerul rece este revigorant în timp ce admirați panorama de pe Cours Dajot.\n\nPrânzul în port vă va încălzi înainte de a explora zidurile masive ale castelului, care par deosebit de impresionante în lumina iernii.\n\nDupă-amiază, Turnul Tanguy oferă o călătorie istorică primitoare. Apusul devreme scaldă portul în lumină aurie.\n\nÎncheiați ziua la Capucins, unde iluminatul și arhitectura industrială creează o atmosferă caldă.",
+            "en": "A crisp winter morning at Liberty Square. The cool air is refreshing while you enjoy the panoramic view from Cours Dajot.\n\nLunch at the port warms you up before exploring the massive walls of the castle, which look particularly striking in winter light.\n\nIn the afternoon, Tanguy Tower offers a cozy historical journey. The early sunset bathes the harbor in golden light.\n\nThe day ends at the Capucins, where the lighting and industrial architecture create a warm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Rathaus in der klaren Winterluft.",
+                "hu": "Élvezze a városháza látványát a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de vederea primăriei în aerul curat de iarnă.",
+                "en": "Enjoy the view of the town hall in the crisp winter air."
+              }
+            },
+            {
+              "name": "Cours Dajot",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des kalten Seewinds unerlässlich.",
+                "hu": "A meleg kesztyű elengedhetetlen a hideg tengeri szél miatt.",
+                "ro": "Mănușile călduroase sunt esențiale din cauza vântului rece de mare.",
+                "en": "Warm gloves are essential due to the cold sea wind."
+              }
+            },
+            {
+              "name": "Brest Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Öffnungszeiten der Museen im Winter.",
+                "hu": "Ügyeljen a múzeumok téli, rövidebb nyitvatartási idejére.",
+                "ro": "Atenție la programul redus al muzeelor pe timp de iarnă.",
+                "en": "Note the shorter opening hours of museums in winter."
+              }
+            },
+            {
+              "name": "Commercial Port - Lunch",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle bretonische Galette zur Stärkung.",
+                "hu": "Kóstoljon meg egy hagyományos breton galette-et az erőgyűjtéshez.",
+                "ro": "Încercați o galette bretonă tradițională pentru a vă încălzi.",
+                "en": "Try a traditional Breton galette for a hearty warm-up."
+              }
+            },
+            {
+              "name": "Tanguy Tower",
+              "tip_5lang": {
+                "de": "Ideal, um sich zwischen den Spaziergängen kurz aufzuwärmen.",
+                "hu": "Ideális egy rövid felmelegedéshez a séták között.",
+                "ro": "Ideal pentru o scurtă încălzire între plimbări.",
+                "en": "Ideal for a quick warm-up between walks."
+              }
+            },
+            {
+              "name": "Les Ateliers des Capucins",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen früh dunkel wird.",
+                "hu": "Tökéletes késő délutánra, amikor kint korán sötétedik.",
+                "ro": "Perfect pentru după-amiaza târzie, când se întunecă devreme.",
+                "en": "Perfect for late afternoon when it gets dark early outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:15 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem beißenden Wind.",
+              "Trinken Sie zwischendurch einen heißen Cidre in den Hafenkneipen.",
+              "Die Museen sind im Winter oft weniger überlaufen."
+            ],
+            "hu": [
+              "A nap télen már 17:15 körül lemegy.",
+              "A réteges öltözködés véd a metsző tengeri szél ellen.",
+              "Igyon meg egy forró cidre-t a kikötői kocsmákban két megálló között.",
+              "A múzeumok télen gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 17:15.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului tăios de mare.",
+              "Savurați un cidru fierbinte în tavernele din port între vizite.",
+              "Muzeele sunt adesea mai puțin aglomerate în timpul iernii."
+            ],
+            "en": [
+              "The sun sets around 17:15 in winter.",
+              "Layering clothes protects against the biting sea wind.",
+              "Enjoy a hot cider in the port pubs between stops.",
+              "Museums are often less crowded during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -551,6 +987,350 @@
           "Use the designated bike lanes at the port.",
           "Avoid the city center during rush hours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der Küste von Brest bis zum beeindruckenden Océanopolis. Erleben Sie die Vielfalt des Meeres und radeln Sie anschließend durch den grünen Vallon du Stang-Alar.",
+            "hu": "Ez a kerékpártúra Brest partvonala mentén vezet a lenyűgöző Océanopolis-hoz. Fedezd fel a tenger élővilágát, majd tekerj át a zöldellő Vallon du Stang-Alar völgyén.",
+            "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei Brestului până la impresionantul Océanopolis. Descoperă viața marină și apoi pedalează prin valea verde Stang-Alar.",
+            "en": "This bike tour takes you along the coast of Brest to the impressive Océanopolis. Discover marine life and then pedal through the lush Vallon du Stang-Alar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina du Château",
+                "hu": "Marina du Château",
+                "ro": "Marina du Château",
+                "en": "Marina du Château"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Yachthafen.",
+                "hu": "Indulj a jachtkikötőtől.",
+                "ro": "Începeți la portul de iahturi.",
+                "en": "Start at the yacht marina."
+              }
+            },
+            {
+              "name": {
+                "de": "Océanopolis",
+                "hu": "Océanopolis",
+                "ro": "Océanopolis",
+                "en": "Océanopolis"
+              },
+              "tip_5lang": {
+                "de": "Das größte Aquarium der Bretagne.",
+                "hu": "Bretagne legnagyobb akváriuma.",
+                "ro": "Cel mai mare acvariu din Bretania.",
+                "en": "Brittany's largest aquarium."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallon du Stang-Alar",
+                "hu": "Vallon du Stang-Alar",
+                "ro": "Vallon du Stang-Alar",
+                "en": "Vallon du Stang-Alar"
+              },
+              "tip_5lang": {
+                "de": "Botanischer Garten.",
+                "hu": "Botanikus kert.",
+                "ro": "Grădina Botanică.",
+                "en": "Botanical garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Moulin Blanc",
+                "hu": "Moulin Blanc strand",
+                "ro": "Plaja Moulin Blanc",
+                "en": "Moulin Blanc Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause.",
+                "hu": "Tökéletes hely egy pihenőre.",
+                "ro": "Perfect pentru o pauză.",
+                "en": "Perfect for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Plaisance",
+                "hu": "Kedvtelési kikötő",
+                "ro": "Port de Plaisance",
+                "en": "Port de Plaisance"
+              },
+              "tip_5lang": {
+                "de": "Fischrestaurants am Hafen.",
+                "hu": "Haléttermek a parton.",
+                "ro": "Restaurante de pește.",
+                "en": "Fish restaurants by the shore."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Tour du Monde",
+                "tip": "Legendäre Bar am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Tour du Monde",
+                "tip": "Legendás bár a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Tour du Monde",
+                "tip": "Bar legendar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Tour du Monde",
+                "tip": "Legendary bar at the port."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vallon du Stang-Alar",
+                "tip": "Vogelzwitschern und Natur pur.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vallon du Stang-Alar",
+                "tip": "Madárcsicsergés és tiszta természet.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vallon du Stang-Alar",
+                "tip": "Cântecul păsărilor și natură.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vallon du Stang-Alar",
+                "tip": "Birdsong and pure nature.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Surf Shop Moulin Blanc",
+                "tip": "Ausrüstung für Wassersport."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Surf Shop Moulin Blanc",
+                "tip": "Vízi sport felszerelések."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Surf Shop Moulin Blanc",
+                "tip": "Echipament sportiv nautic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Surf Shop Moulin Blanc",
+                "tip": "Water sports gear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die markierten Radwege am Hafen.",
+              "Vermeiden Sie das Stadtzentrum zu Stoßzeiten."
+            ],
+            "hu": [
+              "Használd a kijelölt kerékpárutakat a kikötőben.",
+              "Kerüld a belvárost csúcsidőben."
+            ],
+            "ro": [
+              "Folosiți pistele de biciclete din port.",
+              "Evitați centrul orașului la orele de vârf."
+            ],
+            "en": [
+              "Use the designated bike lanes at the port.",
+              "Avoid the city center during rush hours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start an der Marina du Château. Die salzige Gischt vermischt sich mit dem Regen, während Sie zu Océanopolis radeln.\n\nVerbringen Sie den Vormittag im trockenen Aquarium, dem idealen Rückzugsort. Die Unterwasserwelt lässt das graue Wetter draußen vergessen.\n\nNachmittags geht es durch das Vallon du Stang-Alar, wo die Pflanzen im Regen besonders kräftig leuchten, zum Strand Moulin Blanc.\n\nDie Tour endet am Port de Plaisance, wo Sie Ihr Rad abstellen und ein warmes Getränk in einer Bar genießen können.",
+            "hu": "Nedves kezdés a Marina du Château-nál. A sós permet keveredik az esővel, miközben az Océanopolis felé teker.\n\nTöltse a délelőttöt a száraz akváriumban, amely ideális menedék. A vízi világ elfeledteti a kinti szürke időt.\n\nDélután a Vallon du Stang-Alar völgyén át vezet az út, ahol a növények az esőben ragyognak, majd a Moulin Blanc strand következik.\n\nA túra a Port de Plaisance-nál ér véget, ahol leteheti a bringát és ihat egy forró italt.",
+            "ro": "Un început umed la Marina du Château. Pulverizarea sărată se amestecă cu ploaia în timp ce pedalați spre Océanopolis.\n\nPetreceți dimineața în acvariul uscat, refugiul ideal. Lumea subacvatică vă face să uitați de vremea gri de afară.\n\nDupă-amiaza, traseul trece prin Vallon du Stang-Alar, unde plantele strălucesc în ploaie, spre plaja Moulin Blanc.\n\nTurul se încheie la Port de Plaisance, unde puteți lăsa bicicleta și savura o băutură caldă.",
+            "en": "A wet start at Marina du Château. The salty spray mixes with the rain as you cycle toward Océanopolis.\n\nSpend the morning in the dry aquarium, the ideal refuge. The underwater world makes you forget the gray weather outside.\n\nIn the afternoon, head through Vallon du Stang-Alar, where the plants look vibrant in the rain, to Moulin Blanc Beach.\n\nThe tour ends at Port de Plaisance, where you can park your bike and enjoy a warm drink in a bar."
+          },
+          "stops": [
+            {
+              "name": "Marina du Château",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzplanken des Hafens; diese sind bei Regen extrem rutschig.",
+                "hu": "Vigyázat a kikötő fapallóin; esőben rendkívül csúszósak.",
+                "ro": "Atenție la scândurile de lemn din port; sunt extrem de alunecoase pe ploaie.",
+                "en": "Be careful on the wooden planks of the harbor; they are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Océanopolis",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Eingang für einen schnellen Zugang zum Trockenen.",
+                "hu": "Használja a bejáratnál lévő biciklitárolókat a gyors bejutáshoz.",
+                "ro": "Folosiți suporturile de biciclete de la intrare pentru un acces rapid la adăpost.",
+                "en": "Use the bike racks right at the entrance for quick access to the dry interior."
+              }
+            },
+            {
+              "name": "Vallon du Stang-Alar",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű fák természetes védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Copacii deși oferă o protecție naturală împotriva burniței ușoare.",
+                "en": "The dense trees provide natural shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Moulin Blanc Beach",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; genießen Sie die dramatische Brandung vom Uferweg aus.",
+                "hu": "Egy rövid megálló elég; élvezze a drámai hullámzást a parti útról.",
+                "ro": "O scurtă oprire este suficientă; admirați valurile dramatice de pe potecă.",
+                "en": "A short stop is enough; enjoy the dramatic surf from the coastal path."
+              }
+            },
+            {
+              "name": "Port de Plaisance",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés, in denen Sie Ihre Kleidung trocknen können.",
+                "hu": "A közelben vannak kávézók, ahol megszáríthatja a ruháit.",
+                "ro": "Există cafenele în apropiere unde vă puteți usca hainele.",
+                "en": "There are cafes nearby where you can dry off your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Überschuhe, um nasse Füße beim Treten zu vermeiden.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg auf nassem Asphalt ist länger.",
+              "Vermeiden Sie tief hängende Wege, die bei Starkregen überfluten könnten.",
+              "Ein Schutzblech ist bei Brests Wetter ein Muss für jeden Radfahrer."
+            ],
+            "hu": [
+              "Viseljen vízhatlan cipővédőt, hogy elkerülje a lábak elázását tekerés közben.",
+              "Ellenőrizze a fékeket; nedves aszfalton hosszabb a féktáv.",
+              "Kerülje az alacsonyan fekvő utakat, amelyek heves esőben víz alá kerülhetnek.",
+              "A sárvédő kötelező kiegészítő Brest időjárásában."
+            ],
+            "ro": [
+              "Purtați protecții de încălțăminte impermeabile pentru a evita picioarele ude.",
+              "Verificați frânele; distanța de frânare pe asfalt ud este mai mare.",
+              "Evitați potecile joase care se pot inunda în caz de ploaie torențială.",
+              "Aripile de protecție sunt obligatorii pentru orice biciclist în Brest."
+            ],
+            "en": [
+              "Wear waterproof overshoes to avoid getting wet feet while pedaling.",
+              "Check your brakes; the stopping distance is longer on wet asphalt.",
+              "Avoid low-lying paths that might flood during heavy rain.",
+              "Mudguards are a must-have for any cyclist in Brest weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Marina. Die Wintersonne spiegelt sich im Hafenwasser, während Sie die Küste entlang fahren.\n\nOcéanopolis bietet am Vormittag angenehme Wärme und faszinierende Einblicke in die polaren Meereswelten.\n\nDank der blattlosen Bäume im Vallon du Stang-Alar haben Sie einen weiten Blick über das Tal, bevor Sie die frische Brise am Moulin Blanc genießen.\n\nZum Abschluss führt der Weg zum Port de Plaisance, wo die Dämmerung den Hafen in ein sanftes Licht taucht.",
+            "hu": "Hűvös kezdés a kikötőben. A téli nap megcsillan a vízen, miközben a part mentén tekersz.\n\nAz Océanopolis délelőtt kellemes meleget és lenyűgöző betekintést nyújt a poláris tengeri világba.\n\nA Vallon du Stang-Alar lombmentes fái között messzire ellátsz a völgyben, mielőtt élveznéd a friss szellőt a Moulin Blanc strandon.\n\nA túra végén a Port de Plaisance felé veszed az irányt, ahol a szürkület lágy fénybe vonja a kikötőt.",
+            "ro": "Un început răcoros la marină. Soarele de iarnă se reflectă în apa portului în timp ce pedalați de-a lungul coastei.\n\nOcéanopolis oferă căldură plăcută dimineața și perspective fascinante asupra lumilor marine polare.\n\nDatorită copacilor fără frunze din Vallon du Stang-Alar, aveți o vedere largă asupra văii înainte de a savura briza la Moulin Blanc.\n\nLa final, drumul duce spre Port de Plaisance, unde amurgul scaldă portul într-o lumină blândă.",
+            "en": "A cool start at the marina. The winter sun reflects on the harbor water as you ride along the coast.\n\nOcéanopolis offers pleasant warmth in the morning and fascinating insights into polar marine worlds.\n\nThanks to the leafless trees in Vallon du Stang-Alar, you have wide views over the valley before enjoying the fresh breeze at Moulin Blanc.\n\nTo wrap up, the path leads to Port de Plaisance, where twilight bathes the harbor in soft light."
+          },
+          "stops": [
+            {
+              "name": "Marina du Château",
+              "tip_5lang": {
+                "de": "Starten Sie spät, damit die Wintersonne die Wege leicht anwärmen kann.",
+                "hu": "Induljon kicsit később, hogy a téli nap kissé felmelegíthesse az utakat.",
+                "ro": "Începeți mai târziu pentru ca soarele de iarnă să încălzească puțin drumurile.",
+                "en": "Start a bit later so the winter sun can warm up the paths slightly."
+              }
+            },
+            {
+              "name": "Océanopolis",
+              "tip_5lang": {
+                "de": "Besuchen Sie besonders den Pavillon der Polarregionen – sehr passend im Winter.",
+                "hu": "Látogasson el különösen a Sarkvidéki Pavilonba – télen igen találó.",
+                "ro": "Vizitați în special pavilionul polar – foarte potrivit pe timp de iarnă.",
+                "en": "Be sure to visit the polar pavilion – very fitting for winter."
+              }
+            },
+            {
+              "name": "Vallon du Stang-Alar",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen; die Schattenbereiche bleiben lange glatt.",
+                "hu": "Ügyeljen a dérre az utakon; az árnyékos részek sokáig csúszósak maradnak.",
+                "ro": "Atenție la chiciură pe drumuri; zonele umbrite rămân alunecoase mult timp.",
+                "en": "Watch out for frost on the paths; shaded areas stay slippery for a long time."
+              }
+            },
+            {
+              "name": "Moulin Blanc Beach",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade haben oft Heizstrahler für eine kurze Pause.",
+                "hu": "A sétány menti kávézókban gyakran van hősugárzó egy rövid pihenőhöz.",
+                "ro": "Cafenelele de pe promenadă au adesea radiatoare pentru o scurtă pauză.",
+                "en": "The cafes along the promenade often have heaters for a quick break."
+              }
+            },
+            {
+              "name": "Port de Plaisance",
+              "tip_5lang": {
+                "de": "Fahren Sie mit Licht, da es im Winter schon vor 17 Uhr dämmert.",
+                "hu": "Használjon világítást, mert télen már 17 óra előtt szürkül.",
+                "ro": "Folosiți luminile, deoarece iarna se înserează înainte de ora 17.",
+                "en": "Use lights, as it starts getting dark before 17:00 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist entscheidend, da der Fahrtwind die Kälte verstärkt.",
+              "Tragen Sie helle oder reflektierende Kleidung für bessere Sichtbarkeit.",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz zu schützen.",
+              "Planen Sie Ihre Rückkehr vor Einbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "A szélálló ruházat döntő, mert a menetszél felerősíti a hideget.",
+              "Viseljen világos vagy fényvisszaverő ruhát a jobb láthatóságért.",
+              "Tartsa a láncot jól olajozottan, hogy védje az útszóró sótól.",
+              "Tervezze meg a visszautat még a sötétedés beállta előtt."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este crucială, deoarece curentul amplifică frigul.",
+              "Purtați haine deschise la culoare sau reflectorizante pentru vizibilitate.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drumuri.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Windproof clothing is crucial as the wind chill increases while riding.",
+              "Wear bright or reflective clothing for better visibility.",
+              "Keep the chain well-oiled to protect it from road salt.",
+              "Plan your return before darkness sets in."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1562,350 @@
           "Free parking at Petit Minou.",
           "Be careful on the narrow coastal roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte rund um Brest. Nach dem Besuch von Océanopolis fahren Sie westwärts zum Leuchtturm Petit Minou und weiter zum Fort de Bertheaume.",
+            "hu": "Autóval elérheted a Brest környéki leglátványosabb kilátópontokat. Az Océanopolis után indulj nyugat felé a Petit Minou világítótoronyhoz, majd az impozáns Bertheaume-erődhöz.",
+            "ro": "Cu mașina poți ajunge la cele mai spectaculoase puncte de belvedere din jurul Brestului. După vizita la Océanopolis, mergi spre vest la farul Petit Minou și cetatea Bertheaume.",
+            "en": "By car, you can reach the most spectacular viewpoints around Brest. After visiting Océanopolis, drive west to the Petit Minou lighthouse and the impressive Fort de Bertheaume."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Océanopolis",
+                "hu": "Océanopolis",
+                "ro": "Océanopolis",
+                "en": "Océanopolis"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie viel Zeit ein.",
+                "hu": "Sok időt szánj rá.",
+                "ro": "Rezervați mult timp.",
+                "en": "Plan plenty of time."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Commerce",
+                "hu": "Kereskedelmi kikötő",
+                "ro": "Port de Comerț",
+                "en": "Commercial Port"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken am Kai.",
+                "hu": "Könnyű parkolás a rakparton.",
+                "ro": "Parcare ușoară la chei.",
+                "en": "Easy parking on the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Petit Minou",
+                "hu": "Petit Minou-fok",
+                "ro": "Pointe du Petit Minou",
+                "en": "Pointe du Petit Minou"
+              },
+              "tip_5lang": {
+                "de": "Berühmter Leuchtturm.",
+                "hu": "Híres világítótorony.",
+                "ro": "Far celebru.",
+                "en": "Famous lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Anne",
+                "hu": "Szent Anna-strand",
+                "ro": "Plaja Sainte-Anne",
+                "en": "Sainte-Anne Beach"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Strand für Familien.",
+                "hu": "Csendes családi strand.",
+                "ro": "Plajă liniștită.",
+                "en": "Quiet family beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Bertheaume-erőd",
+                "ro": "Cetatea Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Erőd a tengeren.",
+                "hu": "Erőd egy sziklaszigeten.",
+                "ro": "Cetate pe stâncă.",
+                "en": "Fort on a rock."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge du Minou",
+                "tip": "Rustikale Küche mit Aussicht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge du Minou",
+                "tip": "Rusztikus konyha panorámával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge du Minou",
+                "tip": "Bucătărie rustică cu vedere."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge du Minou",
+                "tip": "Rustic kitchen with a view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pointe du Petit Minou",
+                "tip": "Wilder Atlantik.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Petit Minou-fok",
+                "tip": "Vad Atlanti-óceán.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pointe du Petit Minou",
+                "tip": "Atlantic sălbatic.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pointe du Petit Minou",
+                "tip": "Wild Atlantic coast.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "E.Leclerc Brest",
+                "tip": "Großer Supermarkt für lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "E.Leclerc Brest",
+                "tip": "Nagy szupermarket helyi termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "E.Leclerc Brest",
+                "tip": "Supermarket mare pentru produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "E.Leclerc Brest",
+                "tip": "Large supermarket for local goods."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kostenlose Parkplätze am Petit Minou.",
+              "Achten Sie auf die engen Küstenstraßen."
+            ],
+            "hu": [
+              "Ingyenes parkoló a Petit Minou-nál.",
+              "Vigyázz a szűk parti utakon."
+            ],
+            "ro": [
+              "Parcare gratuită la Petit Minou.",
+              "Atenție la drumurile înguste de coastă."
+            ],
+            "en": [
+              "Free parking at Petit Minou.",
+              "Be careful on the narrow coastal roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trocken und komfortabel fahren Sie zum Océanopolis. Der Regen prasselt auf das Dach, während Sie drinnen die Meeresriesen beobachten.\n\nMittags steuern Sie den Handelshafen an. Parken Sie nah an den Restaurants, um dem Wetter nur kurz ausgesetzt zu sein.\n\nAm Nachmittag führt die Fahrt zur Pointe du Petit Minou. Die stürmische See und der Regen machen den Leuchtturm zu einem dramatischen Fotomotiv.\n\nNach einem Blick auf den Strand von Sainte-Anne endet die Tour am Fort de Bertheaume, das mystisch im Nebel liegt.",
+            "hu": "Szárazon és kényelmesen utazhat az Océanopolis-hoz. Az eső kopog a tetőn, miközben bent a tengeri óriásokat figyeli.\n\nEbédre a kereskedelmi kikötő felé vegye az irányt. Parkoljon közel az éttermekhez, hogy csak rövid ideig érje az eső.\n\nDélután a Pointe du Petit Minou-hoz vezet az út. A viharos tenger és az eső drámai fotótémává teszi a világítótornyot.\n\nA Sainte-Anne strand megtekintése után a túra a Fort de Bertheaume-nál ér véget, amely misztikusan fest a ködben.",
+            "ro": "Conduceți confortabil și uscat spre Océanopolis. Ploaia bate în acoperiș în timp ce observați uriașii mării în interior.\n\nLa prânz, îndreptați-vă spre portul comercial. Parcați aproape de restaurante pentru a fi expuși vremii doar scurt timp.\n\nDupă-amiază, drumul duce la Pointe du Petit Minou. Marea furtunoasă și ploaia transformă farul într-un subiect foto dramatic.\n\nDupă o privire spre plaja Sainte-Anne, turul se încheie la Fort de Bertheaume, care pare mistic în ceață.",
+            "en": "Drive dry and comfortable to Océanopolis. The rain drums on the roof while you watch marine giants inside.\n\nAt lunch, head to the commercial port. Park close to the restaurants to minimize exposure to the weather.\n\nIn the afternoon, the drive leads to Pointe du Petit Minou. The stormy sea and rain turn the lighthouse into a dramatic photo subject.\n\nAfter a glance at Sainte-Anne Beach, the tour ends at Fort de Bertheaume, which looks mystical in the mist."
+          },
+          "stops": [
+            {
+              "name": "Océanopolis",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Használja a közvetlenül a főbejárat előtt található nagy parkolót.",
+                "ro": "Folosiți parcarea mare situată chiar în fața intrării principale.",
+                "en": "Use the large parking lot located right in front of the main entrance."
+              }
+            },
+            {
+              "name": "Commercial Port",
+              "tip_5lang": {
+                "de": "Entlang der Kais gibt es viele Parkplätze direkt vor den Cafés.",
+                "hu": "A rakpartok mentén sok parkolóhely van közvetlenül a kávézók előtt.",
+                "ro": "Există multe locuri de parcare de-a lungul cheiurilor, chiar în fața cafenelelor.",
+                "en": "There are many parking spots along the quays directly in front of the cafes."
+              }
+            },
+            {
+              "name": "Pointe du Petit Minou",
+              "tip_5lang": {
+                "de": "Man kann vom Parkplatz aus im Auto sitzen bleiben und die Aussicht genießen.",
+                "hu": "A parkolóból az autóban ülve is élvezheti a kilátást.",
+                "ro": "Puteți rămâne în mașină în parcare și să admirați vederea.",
+                "en": "You can stay in the car at the parking lot and still enjoy the view."
+              }
+            },
+            {
+              "name": "Sainte-Anne Beach",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet gute Aussichtspunkte ohne auszusteigen.",
+                "hu": "A parti út jó kilátópontokat kínál kiszállás nélkül is.",
+                "ro": "Drumul de coastă oferă puncte de observație bune fără a coborî.",
+                "en": "The coastal road offers good viewpoints without needing to get out."
+              }
+            },
+            {
+              "name": "Fort de Bertheaume",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Fort ist bei Regen exponiert; Schirm mitnehmen.",
+                "hu": "A parkolótól az erődig vezető út esőben kitett; vigyen esernyőt.",
+                "ro": "Drumul de la parcare la fort este expus ploii; luați o umbrelă.",
+                "en": "The path from the parking lot to the fort is exposed; take an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie bei Sturm die exponiertesten Parkplätze direkt am Wasser.",
+              "Die Küstenstraßen können bei Starkregen stellenweise überflutet sein.",
+              "Nutzen Sie die Parkhäuser in der Innenstadt für maximale Trockenheit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Viharos időben kerülje a közvetlenül a víz melletti, kitett parkolókat.",
+              "A parti utak heves esőben helyenként víz alá kerülhetnek.",
+              "Használja a belvárosi parkolóházakat a maximális szárazság érdekében."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz înainte de plecare.",
+              "Evitați parcările expuse direct lângă apă în timpul furtunilor.",
+              "Drumurile de coastă pot fi inundate pe alocuri în caz de ploaie torențială.",
+              "Folosiți parcările etajate din centrul orașului pentru a rămâne uscați."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before setting off.",
+              "Avoid the most exposed parking spots directly by the water during storms.",
+              "Coastal roads can be flooded in places during heavy rain.",
+              "Use city center parking garages for maximum dryness."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour beginnt im warmen Auto Richtung Océanopolis. Die tiefstehende Sonne glitzert auf dem Meer.\n\nNach dem Besuch der Meereswelten genießen Sie ein herzhaftes Mittagessen im Hafen, bevor Sie zur Pointe du Petit Minou weiterfahren.\n\nDie Winterlandschaft an der Küste ist rau und schön. Der Strand von Sainte-Anne wirkt im Winterlicht fast unwirklich.\n\nDie Tour endet am Fort de Bertheaume, wo die historische Kulisse in der frühen Dämmerung besonders eindrucksvoll zur Geltung kommt.",
+            "hu": "Egy kellemes téli túra kezdődik a meleg autóban az Océanopolis felé. Az alacsonyan járó nap megcsillan a tengeren.\n\nA tengeri világ megtekintése után fogyasszon el egy kiadós ebédet a kikötőben, mielőtt továbbhajtana a Petit Minou-fokhoz.\n\nA parti téli táj zord és gyönyörű. A Sainte-Anne strand szinte irreálisnak tűnik a téli fényben.\n\nA túra a Fort de Bertheaume-nál ér véget, ahol a történelmi díszlet a korai szürkületben különösen hatásosan érvényesül.",
+            "ro": "Un tur de iarnă confortabil începe în mașina încălzită spre Océanopolis. Soarele jos strălucește pe mare.\n\nDupă vizitarea lumii marine, savurați un prânz copios în port înainte de a continua spre Pointe du Petit Minou.\n\nPeisajul de iarnă de pe coastă este aspru și frumos. Plaja Sainte-Anne pare aproape ireală în lumina iernii.\n\nTurul se încheie la Fort de Bertheaume, unde decorul istoric este pus în valoare în amurgul timpuriu.",
+            "en": "A cozy winter tour starts in a warm car toward Océanopolis. The low sun glitters on the sea.\n\nAfter visiting the marine worlds, enjoy a hearty lunch in the harbor before driving on to Pointe du Petit Minou.\n\nThe winter landscape on the coast is rugged and beautiful. Sainte-Anne Beach looks almost surreal in the winter light.\n\nThe tour ends at Fort de Bertheaume, where the historical setting is particularly striking in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Océanopolis",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die kälteste Zeit des Vormittags drinnen zu verbringen.",
+                "hu": "Tökéletes hely, hogy a délelőtt leghidegebb részét bent töltse.",
+                "ro": "Locul perfect pentru a petrece cea mai rece parte a dimineții în interior.",
+                "en": "Perfect place to spend the coldest part of the morning indoors."
+              }
+            },
+            {
+              "name": "Commercial Port",
+              "tip_5lang": {
+                "de": "Im Winter gibt es meist genügend Parkplätze direkt vor den Restaurants.",
+                "hu": "Télen általában elegendő parkolóhely van közvetlenül az éttermek előtt.",
+                "ro": "Iarna există de obicei suficiente locuri de parcare chiar în fața restaurantelor.",
+                "en": "In winter, there is usually plenty of parking right in front of the restaurants."
+              }
+            },
+            {
+              "name": "Pointe du Petit Minou",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos vom Leuchtturm am frühen Nachmittag.",
+                "hu": "A téli nap kora délután tökéletesen áll a világítótorony fotózásához.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii cu farul la începutul după-amiezii.",
+                "en": "The winter sun is perfectly positioned for photos of the lighthouse in the early afternoon."
+              }
+            },
+            {
+              "name": "Sainte-Anne Beach",
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang am leeren Strand, bevor es zu kalt wird.",
+                "hu": "Tegyen egy rövid sétát az üres strandon, mielőtt túl hideg lenne.",
+                "ro": "Faceți o scurtă plimbare pe plaja goală înainte de a se face prea frig.",
+                "en": "Take a short walk on the empty beach before it gets too cold."
+              }
+            },
+            {
+              "name": "Fort de Bertheaume",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Forts beginnt im Winter bereits gegen 17:30 Uhr.",
+                "hu": "Az erőd kivilágítása télen már 17:30 körül megkezdődik.",
+                "ro": "Iluminatul fortului începe iarna în jurul orei 17:30.",
+                "en": "The fort's lighting starts around 17:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer mit, falls die Temperaturen sinken.",
+              "Achten Sie auf Glätte auf den Küstenstraßen durch gefrierende Gischt.",
+              "Prüfen Sie den Reifendruck; Kälte lässt ihn oft leicht sinken.",
+              "Die Batterieleistung kann bei niedrigen Temperaturen nachlassen."
+            ],
+            "hu": [
+              "Tartson jégkaparót az autóban, ha a hőmérséklet fagypont alá süllyed.",
+              "Ügyeljen a parti utak jegesedésére a megfagyó tengeri permet miatt.",
+              "Ellenőrizze a guminyomást; a hidegben gyakran kissé csökken.",
+              "Az akkumulátor teljesítménye alacsony hőmérsékleten visszaeshet."
+            ],
+            "ro": [
+              "Aveți o racletă de gheață în mașină în caz că scade temperatura.",
+              "Atenție la poleiul de pe drumurile de coastă cauzat de pulverizarea înghețată.",
+              "Verificați presiunea în anvelope; frigul o face să scadă ușor.",
+              "Performanța bateriei poate scădea la temperaturi scăzute."
+            ],
+            "en": [
+              "Keep an ice scraper in the car in case temperatures drop.",
+              "Watch out for icy patches on coastal roads caused by freezing sea spray.",
+              "Check tire pressure; cold often causes it to drop slightly.",
+              "Battery performance can decrease in low temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1017,34 +2141,355 @@
           "The cable car is included in the ticket.",
           "Check weekend schedules."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das moderne Nahverkehrssystem von Brest. Fahren Sie mit der Tram und der Seilbahn, um das Schloss, das hippe Capucins-Viertel und schließlich das berühmte Aquarium zu besuchen.",
+            "hu": "Használd Brest modern tömegközlekedését. Villamosozz és libegőzz, hogy meglátogasd a várat, a trendi Capucins negyedet, végül pedig a híres akváriumot.",
+            "ro": "Folosiți sistemul modern de transport public din Brest. Mergeți cu tramvaiul și telecabina pentru a vizita castelul, cartierul hip Capucins și faimosul acvariu.",
+            "en": "Make use of Brest's modern public transport system. Ride the tram and the cable car to visit the castle, the trendy Capucins district, and finally the famous aquarium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Liberty Square"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Verkehrsknotenpunkt.",
+                "hu": "Központi közlekedési csomópont.",
+                "ro": "Nod central de transport.",
+                "en": "Central transport hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Téléphérique (Capucins)",
+                "hu": "Libegő (Capucins)",
+                "ro": "Telecabina (Capucins)",
+                "en": "Cable Car (Capucins)"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie den Fluss in der Luft.",
+                "hu": "Kelj át a folyó felett a levegőben.",
+                "ro": "Traversați râul prin aer.",
+                "en": "Cross the river in the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château (Tram A)",
+                "hu": "Vár (Villamos A)",
+                "ro": "Castel (Tram A)",
+                "en": "Castle (Tram A)"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Tram.",
+                "hu": "Rövid séta a villamostól.",
+                "ro": "Scurtă plimbare de la tramvai.",
+                "en": "Short walk from the tram."
+              }
+            },
+            {
+              "name": {
+                "de": "Océanopolis (Bus 3)",
+                "hu": "Océanopolis (3-as busz)",
+                "ro": "Océanopolis (Bus 3)",
+                "en": "Océanopolis (Bus 3)"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus vom Zentrum.",
+                "hu": "Szállj buszra a központban.",
+                "ro": "Luați autobuzul din centru.",
+                "en": "Take the bus from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue Jean Jaurès",
+                "hu": "Rue Jean Jaurès",
+                "ro": "Rue Jean Jaurès",
+                "en": "Rue Jean Jaurès"
+              },
+              "tip_5lang": {
+                "de": "Haupteinkaufsmeile.",
+                "hu": "Fő bevásárlóutca.",
+                "ro": "Principala arteră comercială.",
+                "en": "Main shopping street."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Off Block (Capucins)",
+                "tip": "Moderne Snacks in cooles Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Off Block (Capucins)",
+                "tip": "Modern snackek menő környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Off Block (Capucins)",
+                "tip": "Snack-uri moderne în mediu cool."
+              }
+            ],
+            "en": [
+              {
+                "name": "Off Block (Capucins)",
+                "tip": "Modern snacks in a cool setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Téléphérique Fahrt",
+                "tip": "Schweben über dem Penfeld.",
+                "emoji": "🚠"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Libegő utazás",
+                "tip": "Lebegés a Penfeld folyó felett.",
+                "emoji": "🚠"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Călătorie cu telecabina",
+                "tip": "Plutind peste Penfeld.",
+                "emoji": "🚠"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cable Car ride",
+                "tip": "Floating over the Penfeld river.",
+                "emoji": "🚠"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Coat-ar-Guéven",
+                "tip": "Einkaufszentrum an der Tramlinie."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coat-ar-Guéven",
+                "tip": "Bevásárlóközpont a villamosvonalon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coat-ar-Guéven",
+                "tip": "Centru comercial lângă tramvai."
+              }
+            ],
+            "en": [
+              {
+                "name": "Coat-ar-Guéven",
+                "tip": "Shopping mall along the tram line."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Tageskarte für Bus und Tram.",
+              "Die Seilbahn ist im Ticket enthalten.",
+              "Achten Sie auf die Fahrpläne am Wochenende."
+            ],
+            "hu": [
+              "Vegyél napijegyet a buszra és villamosra.",
+              "A libegő ára benne van a jegyben.",
+              "Figyelj a hétvégi menetrendre."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi.",
+              "Telecabina este inclusă în bilet.",
+              "Atenție la orarul de weekend."
+            ],
+            "en": [
+              "Buy a day pass for bus and tram.",
+              "The cable car is included in the ticket.",
+              "Check weekend schedules."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Place de la Liberté, einem zentralen Knotenpunkt mit vielen Unterstellmöglichkeiten. Die Seilbahn bringt Sie trocken über den Fluss.\n\nNach dem Besuch der Capucins nehmen Sie die Straßenbahn zum Schloss. Die modernen Bahnen sind warm und bieten gute Sicht auf die nassen Straßen.\n\nMit dem Bus geht es am Nachmittag zum Océanopolis. Der Bus hält fast direkt vor dem Eingang, sodass Sie kaum nass werden.\n\nBeenden Sie den Tag in der Rue Jean Jaurès, wo Sie unter den Markisen der Geschäfte gemütlich bummeln können.",
+            "hu": "Kezdje a Liberty téren, amely központi csomópont sok fedett hellyel. A felvonó szárazon visz át a folyó felett.\n\nA Capucins után villamossal menjen a várhoz. A modern kocsik melegek és jó kilátást nyújtanak a vizes utcákra.\n\nDélután busszal utazzon az Océanopolis-hoz. A busz szinte a bejárat előtt áll meg, így alig lesz vizes.\n\nA napot a Rue Jean Jaurès-en zárja, ahol az üzletek napellenzői alatt kényelmesen sétálhat.",
+            "ro": "Începeți în Piața Libertății, un nod central cu multe locuri de adăpost. Telecabina vă transportă fără a vă uda peste râu.\n\nDupă vizitarea Capucins, luați tramvaiul spre castel. Vagoanele moderne sunt calde și oferă o vedere bună asupra străzilor ude.\n\nDupă-amiaza, luați autobuzul spre Océanopolis. Autobuzul oprește aproape de intrare, deci nu vă veți uda aproape deloc.\n\nÎncheiați ziua pe Rue Jean Jaurès, unde puteți să vă plimbați sub copertinele magazinelor.",
+            "en": "Start at Liberty Square, a central hub with many sheltered spots. The cable car takes you dry across the river.\n\nAfter visiting the Capucins, take the tram to the castle. The modern cars are warm and offer good views of the wet streets.\n\nIn the afternoon, take the bus to Océanopolis. The bus stops almost right in front of the entrance, so you'll hardly get wet.\n\nThe day ends on Rue Jean Jaurès, where you can stroll comfortably under the shop awnings."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen sind modern und bieten guten Regenschutz.",
+                "hu": "A megállók modernek és jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile sunt moderne și oferă o protecție bună împotriva ploii.",
+                "en": "The bus shelters are modern and offer good protection from rain."
+              }
+            },
+            {
+              "name": "Cable Car (Capucins)",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist bei Regen das spektakulärste und trockenste Verkehrsmittel.",
+                "hu": "A felvonó esőben a leglátványosabb és legszárazabb közlekedési eszköz.",
+                "ro": "Telecabina este cel mai spectaculos și uscat mijloc de transport pe ploaie.",
+                "en": "The cable car is the most spectacular and dry way to travel in the rain."
+              }
+            },
+            {
+              "name": "Castle (Tram A)",
+              "tip_5lang": {
+                "de": "Die Straßenbahnhaltestelle liegt nur wenige Schritte vom Schlosseingang entfernt.",
+                "hu": "A villamosmegálló mindössze néhány lépésre van a vár bejáratától.",
+                "ro": "Stația de tramvai este la doar câțiva pași de intrarea în castel.",
+                "en": "The tram stop is located just a few steps away from the castle entrance."
+              }
+            },
+            {
+              "name": "Océanopolis (Bus 3)",
+              "tip_5lang": {
+                "de": "Bus Nummer 3 bringt Sie direkt zum Aquarium ohne langes Laufen im Regen.",
+                "hu": "A 3-as busz közvetlenül az akváriumhoz visz, elkerülve az esőben gyaloglást.",
+                "ro": "Autobuzul 3 vă duce direct la acvariu, evitând mersul prin ploaie.",
+                "en": "Bus number 3 takes you directly to the aquarium, avoiding long walks in the rain."
+              }
+            },
+            {
+              "name": "Rue Jean Jaurès",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Straßenbahn für kurze Sprünge zwischen den Geschäften.",
+                "hu": "Használja a villamost a boltok közötti rövid szakaszok megtételére.",
+                "ro": "Folosiți tramvaiul pentru deplasări scurte între magazine.",
+                "en": "Use the tram for short hops between shops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Bibus-App für Echtzeit-Infos und digitale Tickets.",
+              "Die Seilbahn fährt auch bei starkem Wind meist zuverlässig.",
+              "Straßenbahnen fahren in Brest sehr häufig, ideal bei Regenpausen.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Töltse le a Bibus alkalmazást valós idejű infókért és digitális jegyekért.",
+              "A felvonó erős szélben is általában megbízhatóan üzemel.",
+              "A villamosok Brestben sűrűn járnak, ideális esőszünetek kihasználására.",
+              "Viseljen jó tapadású cipőt a megállóig vezető szakaszokra."
+            ],
+            "ro": [
+              "Descărcați aplicația Bibus pentru info în timp real și bilete digitale.",
+              "Telecabina funcționează de obicei fiabil chiar și pe vânt puternic.",
+              "Tramvaiele circulă foarte frecvent în Brest, ideal între reprizele de ploaie.",
+              "Purtați pantofi cu talpă aderentă pentru drumul spre stație."
+            ],
+            "en": [
+              "Download the Bibus app for real-time info and digital tickets.",
+              "The cable car usually remains reliable even in strong winds.",
+              "Trams in Brest run very frequently, ideal during rain breaks.",
+              "Wear shoes with good grip for the walk to the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am belebten Place de la Liberté. Die beheizten Busse und Bahnen sind ein willkommener Rückzugsort.\n\nDie Fahrt mit der Seilbahn bietet einen fantastischen Blick auf das winterliche Brest und den schneebedeckten (selten) Penfeld-Fluss.\n\nAm Nachmittag bringt Sie der Bus 3 gemütlich zum Océanopolis, wo Sie die Wärme der tropischen Pavillons genießen können.\n\nZum Abschluss bietet die Rue Jean Jaurès in der Dämmerung mit ihrer Festbeleuchtung ein wunderschönes winterliches Einkaufserlebnis.",
+            "hu": "Egy tiszta téli nap kezdődik a nyüzsgő Liberty téren. A fűtött buszok és villamosok szívesen látott menedékek.\n\nA felvonóval tett utazás fantasztikus kilátást nyújt a téli Brestre és a Penfeld-folyóra.\n\nDélután a 3-as busz kényelmesen elviszi az Océanopolis-hoz, ahol élvezheti a trópusi pavilonok melegét.\n\nZárásként a Rue Jean Jaurès a szürkületben a díszkivilágítással gyönyörű téli vásárlási élményt nyújt.",
+            "ro": "O zi senină de iarnă începe în Piața Libertății. Autobuzele și tramvaiele încălzite sunt un refugiu binevenit.\n\nCălătoria cu telecabina oferă o vedere fantastică asupra orașului Brest și a râului Penfeld pe timp de iarnă.\n\nDupă-amiază, autobuzul 3 vă duce confortabil la Océanopolis, unde vă puteți bucura de căldura pavilioanelor tropicale.\n\nLa final, Rue Jean Jaurès oferă în amurg, cu iluminatul său festiv, o experiență de cumpărături minunată.",
+            "en": "A crisp winter day starts at the busy Liberty Square. The heated buses and trams are a welcome refuge.\n\nA ride on the cable car offers a fantastic view of wintery Brest and the Penfeld River.\n\nIn the afternoon, bus 3 takes you comfortably to Océanopolis, where you can enjoy the warmth of the tropical pavilions.\n\nTo wrap up, Rue Jean Jaurès in the twilight offers a beautiful winter shopping experience with its festive lights."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich im Rathausfoyer, falls es draußen zu kalt ist.",
+                "hu": "Használja a városháza előcsarnokát várakozásra, ha kint túl hideg van.",
+                "ro": "Folosiți foierul primăriei pentru așteptare dacă este prea frig afară.",
+                "en": "Use the town hall foyer as a waiting area if it gets too cold outside."
+              }
+            },
+            {
+              "name": "Cable Car (Capucins)",
+              "tip_5lang": {
+                "de": "Die Kabinen sind windgeschützt und bieten eine ruhige Überfahrt.",
+                "hu": "A kabinok védettek a széltől és nyugodt átkelést biztosítanak.",
+                "ro": "Cabinele sunt protejate de vânt și oferă o traversare liniștită.",
+                "en": "The cabins are sheltered from the wind and offer a calm crossing."
+              }
+            },
+            {
+              "name": "Castle (Tram A)",
+              "tip_5lang": {
+                "de": "In der Straßenbahn können Sie sich zwischen den Besichtigungen aufwärmen.",
+                "hu": "A villamoson felmelegedhet a városnézések között.",
+                "ro": "În tramvai vă puteți încălzi între vizite.",
+                "en": "You can warm up in the tram between sightseeing stops."
+              }
+            },
+            {
+              "name": "Océanopolis (Bus 3)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Winterfahrplan, die Takte können abends variieren.",
+                "hu": "Ügyeljen a téli menetrendre, az esti járatsűrűség eltérhet.",
+                "ro": "Atenție la orarul de iarnă, frecvența poate varia seara.",
+                "en": "Check the winter schedule, as frequency may vary in the evening."
+              }
+            },
+            {
+              "name": "Rue Jean Jaurès",
+              "tip_5lang": {
+                "de": "Ab 17 Uhr ist die winterliche Beleuchtung der Straße besonders schön.",
+                "hu": "17 órától az utca téli kivilágítása különösen szép.",
+                "ro": "După ora 17, iluminatul de iarnă al străzii este deosebit de frumos.",
+                "en": "After 17:00, the street's winter lighting is especially beautiful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tagestickets sind im Winter ideal für häufige Wechsel ins Warme.",
+              "Die Seilbahn bietet einen windgeschützten Blick auf den Sonnenuntergang.",
+              "An den Haltestellen kann es durch den Seewind sehr kalt sein.",
+              "Prüfen Sie abends die letzte Abfahrt des Busses vom Aquarium."
+            ],
+            "hu": [
+              "A napijegy télen ideális a gyakori melegedéshez a járműveken.",
+              "A felvonó szélvédett kilátást nyújt a naplementére.",
+              "A megállókban a tengeri szél miatt nagyon hideg lehet.",
+              "Este ellenőrizze az utolsó busz indulását az akváriumtól."
+            ],
+            "ro": [
+              "Biletele de o zi sunt ideale iarna pentru a intra des la căldură.",
+              "Telecabina oferă o vedere protejată de vânt asupra apusului.",
+              "În stații poate fi foarte frig din cauza vântului de mare.",
+              "Verificați seara ultima plecare a autobuzului de la acvariu."
+            ],
+            "en": [
+              "Day tickets are ideal in winter for frequent hops into the warmth.",
+              "The cable car offers a wind-sheltered view of the sunset.",
+              "It can be very cold at the stops due to the sea breeze.",
+              "Check the last bus departure from the aquarium in the evening."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
-    "tourism_office": "https://www.brest-metropole-tourisme.fr/en/",
-    "events": "https://www.brest-metropole-tourisme.fr/en/",
-    "city_card": "",
-    "museum_tickets": "https://www.oceanopolis.com/en",
-    "transit_official": "https://www.bibus.fr/",
-    "language_tips": {
-      "de": "Brest ist ein nuechterner, modern wieder aufgebauter Marinehafen am westlichsten Zipfel der Bretagne. Englisch klappt im Oceanopolis-Aquarium und in Studentenkneipen, im Hafen Recouvrance und auf dem Markt aber gehoert ein 'bonjour' und Geduld dazu.",
-      "hu": "Brest egy egyszeru, ujjaepitett modern haditengeresz-kikoto Bretagne legnyugatibb csucsan. Az angol megy az Oceanopolis akvariumban es egyetemi kocsmakban, de a Recouvrance kikotoben es a piacon egy 'bonjour' es turelm alapveto.",
-      "ro": "Brest e un port militar sobru, reconstruit modern, in cel mai vestic colt al Bretaniei. Engleza merge la acvariul Oceanopolis si in pub-uri studentesti, dar in portul Recouvrance si in piata, un 'bonjour' si rabdarea sunt obligatorii.",
-      "en": "Brest is a sober, modern-rebuilt naval port at Brittany's westernmost tip. English works at Oceanopolis aquarium and student bars, but at Recouvrance harbour and the market a 'bonjour' and patience are expected."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September ist ideal: 14-20 Grad, lange Tage und Ozean-Wanderungen. Alle vier Jahre (naechste 2028) findet die Fete Maritime Internationale statt, ein Highlight mit Segelschiffen aus aller Welt. Winter ist stuermisch und maritim-rauh.",
-      "hu": "Majus-szeptember a legjobb: 14-20 fok, hosszu napok es oceanparti turak. Negyevente (kovetkezo 2028) Fete Maritime Internationale, vilagveterán vitorlasok foljaratan. Telen viharos es nyers tengeri.",
-      "ro": "Mai-septembrie sunt ideale: 14-20 grade, zile lungi si drumetii pe coasta oceanului. La fiecare 4 ani (urmatoarea in 2028) are loc Fete Maritime Internationale, cu velim de epoca din toata lumea. Iarna e furtunoasa si dura maritim.",
-      "en": "May-September is ideal: 14-20°C, long days and ocean walks. Every four years (next in 2028) Fete Maritime Internationale gathers tall ships from around the world. Winter is stormy and maritime-rugged."
-    },
-    "neighborhood_warnings": {
-      "de": "Zentrum und Recouvrance sind sicher, Bellevue und Pontanezen (aussere Stadtteile) sind nicht touristisch. Bahnhof und Hafenviertel abends ok aber wachsam. Atlantik-Wind kann brutal sein, immer eine Windjacke einpacken.",
-      "hu": "Kozpont es Recouvrance biztonsagos, Bellevue es Pontanezen (kulso kerulet) nem turista terulet. Palyaudvar es kikoto estere ok, de eberseg. Az atlanti szel brutalis lehet, mindig szelkabat veled.",
-      "ro": "Centrul si Recouvrance sunt sigure, Bellevue si Pontanezen (cartiere periferice) nu sunt zone turistice. Gara si zona portuara seara sunt ok, dar fii vigilent. Vantul Atlanticului poate fi brutal; ia mereu o jacheta de vant.",
-      "en": "Centre and Recouvrance are safe; Bellevue and Pontanezen (outer districts) aren't tourist areas. Station and harbour quarter are fine at night with care. Atlantic wind can be brutal — always pack a windbreaker."
-    },
-    "parking_real_time": ""
   }
 }

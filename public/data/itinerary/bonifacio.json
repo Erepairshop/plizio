@@ -256,6 +256,387 @@
           "Wind can be very strong on the cliffs.",
           "Carry plenty of water with you."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie den lebhaften Yachthafen und steigen zur imposanten Bastion de l'Étendard auf. Mittags tauchen Sie in die verwinkelten Gassen der Oberstadt ein und genießen die kühle Atmosphäre der Sainte-Marie-Majeure. Der Nachmittag gehört dem spektakulären Abstieg über die Treppe des Königs von Aragon direkt in die Klippen. Zum Abschluss erleben Sie die friedliche Stille des Seefahrerfriedhofs über dem Meer.",
+            "hu": "Reggel a nyüzsgő kikötőt fedezheti fel, majd felkapaszkodhat az impozáns Bastion de l'Étendard bástyához. Délben a felsőváros szűk utcácskáiban kalandozhat, megcsodálva a Sainte-Marie-Majeure templom hűvös nyugalmát. A délután a látványos Aragóniai király lépcsőjéé, amely közvetlenül a sziklába vájt úton vezet a tengerhez. A napot a tengerparti temető békés csendjével zárhatja a mészkősziklák peremén.",
+            "ro": "Dimineața explorați portul plin de viață și urcați la impunătorul Bastion de l'Étendard. La prânz vă pierdeți pe străzile înguste ale orașului de sus și vă bucurați de răcoarea bisericii Sainte-Marie-Majeure. După-amiaza este dedicată spectaculoasei Scări a Regelui Aragon, săpată direct în stâncă spre mare. Încheiați ziua cu liniștea profundă a Cimitirului Marin situat deasupra falezelor albe.",
+            "en": "Morning starts with the bustling marina before ascending to the imposing Bastion de l'Étendard. At midday, wander through the labyrinthine streets of the Upper Town and enjoy the cool interior of Sainte-Marie-Majeure. The afternoon features the breathtaking descent down the King of Aragon's Steps carved into the cliff. Finish your day with the serene silence of the Marine Cemetery overlooking the Mediterranean."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Kaffee am Kai.",
+                "hu": "Kávézzon a rakparton.",
+                "ro": "O cafea pe chei.",
+                "en": "Coffee on the quay."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Bester Panoramablick.",
+                "hu": "Legjobb panoráma.",
+                "ro": "Cea mai bună vedere.",
+                "en": "Best panorama point."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "Ältestes Bauwerk.",
+                "hu": "A legősibb épület.",
+                "ro": "Cea mai veche clădire.",
+                "en": "Oldest building here."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Vorsicht, steil!",
+                "hu": "Vigyázat, meredek!",
+                "ro": "Atenție, e abrupt!",
+                "en": "Watch out, steep!"
+              }
+            },
+            {
+              "name": "Église Saint-Dominique",
+              "tip_5lang": {
+                "de": "Gotische Architektur.",
+                "hu": "Gótikus építészet.",
+                "ro": "Arhitectură gotică.",
+                "en": "Gothic architecture."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Stille am Abgrund.",
+                "hu": "Csend a szakadéknál.",
+                "ro": "Liniște pe faleză.",
+                "en": "Quiet by the cliffs."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Souvenirs kaufen.",
+                "hu": "Vegyél ajándékot.",
+                "ro": "Cumpără suveniruri.",
+                "en": "Buy local souvenirs."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Aubergines à la bonifacienne",
+                "tip": "Gefüllte Auberginen mit Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aubergines à la bonifacienne",
+                "tip": "Sajttal töltött padlizsán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aubergines à la bonifacienne",
+                "tip": "Vinete umplute cu brânză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aubergines à la bonifacienne",
+                "tip": "Stuffed eggplants with local cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cimetière Marin",
+                "tip": "Friedliche Atmosphäre am Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cimetière Marin",
+                "tip": "Békés hangulat a tenger felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul Marin",
+                "tip": "Atmosferă liniștită deasupra mării.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marine Cemetery",
+                "tip": "Peaceful atmosphere above the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du Corail",
+                "tip": "Echter korsischer Korallenschmuck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Korall bolt",
+                "tip": "Valódi korzikai korall ékszerek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du Corail",
+                "tip": "Bijuterii din corali corsicani."
+              }
+            ],
+            "en": [
+              {
+                "name": "Coral Boutique",
+                "tip": "Authentic Corsican coral jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie festes Schuhwerk für die Treppen.",
+              "Reservieren Sie mittags einen Tisch in der Oberstadt.",
+              "Der Wind kann auf den Klippen sehr stark sein.",
+              "Nehmen Sie genügend Wasser mit."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a lépcsőzéshez.",
+              "Foglaljon asztalt ebédre a felsővárosban.",
+              "A sziklákon erős lehet a szél.",
+              "Vigyen magával elegendő vizet."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru scări.",
+              "Rezervați o masă pentru prânz în orașul vechi.",
+              "Vântul poate fi foarte puternic pe faleze.",
+              "Luați suficientă apă cu voi."
+            ],
+            "en": [
+              "Wear sturdy shoes for the steep stairs.",
+              "Book a table for lunch in the upper town.",
+              "Wind can be very strong on the cliffs.",
+              "Carry plenty of water with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen beginnt grau, doch die Cafés bieten Schutz, während Sie das Treiben beobachten. Mittags ziehen Sie sich in die schmalen Gassen der Oberstadt zurück, wo die hohen Mauern den Wind brechen. Am Nachmittag erkunden Sie die Festungsanlagen und Kirchen, die trockene Rückzugsorte bieten. Der Abend endet gemütlich in einem Restaurant in der Zitadelle bei korsischen Spezialitäten.",
+            "hu": "A kikötőben töltött reggel esős, de a parti kávézók menedéket nyújtanak a nézelődéshez. Délben a felsőváros szűk utcái közé húzódunk, ahol a magas falak felfogják a szelet. Délután a bástyák és templomok belső tereit fedezzük fel, távol az égi áldástól. Az estét egy citadellabeli étteremben zárjuk, ahol a helyi gesztenyelisztből készült ételek melegítik fel a vándort.",
+            "ro": "Dimineața în port începe sub nori, dar cafenelele oferă adăpostul perfect pentru a observa iahturile. La prânz, ne retragem pe străzile înguste ale orașului de sus, unde zidurile înalte protejează de rafale. După-amiaza este dedicată bastioanelor și bisericilor, oferind refugiu uscat. Seara se încheie călduros într-un restaurant din cetate, savurând preparate tradiționale corse.",
+            "en": "The morning at the port starts grey, but waterfront cafes provide shelter while watching the boats. At noon, retreat to the narrow streets of the upper town, where high walls break the wind and rain. Afternoon is spent exploring the interior of bastions and churches, staying dry while soaking in history. The evening ends cozily in a citadel restaurant with hearty Corsican cuisine."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte am Kai als Regenschutz.",
+                "hu": "Használja a rakparti üzletek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele magazinelor de pe chei pentru a vă adăposti de ploaie.",
+                "en": "Use the shop arcades along the quay for rain protection."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Die unterirdischen Säle der Festung sind absolut trocken und sehenswert.",
+                "hu": "Erődítmény föld alatti termei teljesen szárazak és lenyűgözőek.",
+                "ro": "Sălile subterane ale fortăreței sunt complet uscate și merită vizitate.",
+                "en": "The fortress's underground chambers are completely dry and worth visiting."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause während eines Schauers.",
+                "hu": "Ideális helyszín egy hosszabb pihenőre egy kiadós zápor idején.",
+                "ro": "Un loc ideal pentru o pauză prelungită în timpul unei averse.",
+                "en": "An ideal place for an extended break during a heavy downpour."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Vorsicht, die Kalksteinstufen sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a mészkő lépcsők nedvesen rendkívül csúszósak.",
+                "ro": "Atenție, treptele de calcar sunt extrem de alunecoase când sunt ude.",
+                "en": "Caution: the limestone steps are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Église Saint-Dominique",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur im trockenen Innenraum.",
+                "hu": "Csodálja meg a gótikus építészetet a száraz belső térben.",
+                "ro": "Admirați arhitectura gotică în interiorul uscat al bisericii.",
+                "en": "Admire the Gothic architecture inside the dry interior."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Bei starkem Wind meiden, die Klippenwege können gefährlich sein.",
+                "hu": "Erős szélben kerülendő, a szikla menti utak veszélyesek lehetnek.",
+                "ro": "Evitați în caz de vânt puternic; potecile de pe faleză pot fi periculoase.",
+                "en": "Avoid during high winds; the cliffside paths can be hazardous."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen korsischen Tee in einer Bar auf.",
+                "hu": "Melegedjen fel egy forró korzikai teával az egyik kikötői bárban.",
+                "ro": "Încălziți-vă cu un ceai corsican fierbinte într-un bar din port.",
+                "en": "Warm up with a hot Corsican tea in one of the port bars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe wegen des glatten Kalksteins.",
+              "Ein stabiler Regenschirm ist wegen der Windböen besser als ein Poncho.",
+              "Besuchen Sie die Museen in der Zitadelle als Indoor-Alternative.",
+              "Die Treppe des Königs von Aragon sollte bei Regen gemieden werden."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt a sima mészkőburkolat miatt.",
+              "A széllökések miatt az erős esernyő praktikusabb, mint az esőkabát.",
+              "Válassza a citadella múzeumait beltéri alternatívaként.",
+              "Az Aragón-lépcsőt esőben inkább csak fentről nézze meg."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă din cauza pavajului de calcar.",
+              "O umbrelă rezistentă este mai utilă decât o pelerină din cauza vântului.",
+              "Vizitați muzeele din cetate ca alternativă de interior.",
+              "Scara Regelui Aragon ar trebui evitată pe timp de ploaie."
+            ],
+            "en": [
+              "Wear non-slip shoes due to the slick limestone surfaces.",
+              "A sturdy umbrella is better than a poncho due to frequent wind gusts.",
+              "Prioritize the Citadel's museums as indoor alternatives.",
+              "Reconsider the King of Aragon's Staircase if it's raining heavily."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Hafen ist ruhig und klar, die Luft erfrischend salzig. Mittags wärmt die tiefstehende Sonne die Kalksteinfelsen, während Sie durch die leere Altstadt wandern. Am Nachmittag bietet der Küstenweg dramatische Ausblicke auf das aufgewühlte Meer. Der Abend bricht früh an und taucht die weißen Klippen in ein magisches rosa Licht, bevor Sie in eine warme Brasserie einkehren.",
+            "hu": "A téli reggel a kikötőben csendes és tiszta, a levegő frissítően sós. Délben az alacsonyan járó nap süti a mészkősziklákat, miközben az üres óvárosban barangolunk. Délután a tengerparti ösvény drámai kilátást nyújt a hullámzó tengerre. Az este korán érkezik, rózsaszín fénybe vonva a fehér sziklákat, mielőtt betérnénk egy fűtött bisztróba.",
+            "ro": "Dimineața de iarnă în port este liniștită și senină, aerul fiind revigorant de sărat. La prânz, soarele blând încălzește stâncile de calcar în timp ce vă plimbați prin orașul vechi pustiu. După-amiaza oferă priveliști dramatice asupra mării agitate de pe potecile de coastă. Seara coboară devreme, scăldând faleza în lumină roz, înainte de a intra într-o braserie caldă.",
+            "en": "The winter morning at the port is quiet and crisp, with refreshingly salty air. At noon, the low sun warms the limestone cliffs as you wander through the peaceful old town. Afternoon coastal walks offer dramatic views of the churning sea below. Evening arrives early, bathing the white cliffs in magical pink light before you retreat to a heated local brasserie."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din timpul verii.",
+                "en": "Enjoy the rare tranquility without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken auf den Mauern suchen, um die Sonne zu genießen.",
+                "hu": "Keressen szélvédett sarkokat a falakon a napsütés élvezetéhez.",
+                "ro": "Căutați colțuri ferite de vânt pe ziduri pentru a vă bucura de soare.",
+                "en": "Find wind-sheltered corners on the ramparts to soak up the sun."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "Das Innere ist kühler als draußen, behalten Sie Ihre Jacke an.",
+                "hu": "A belső tér hűvösebb, mint kint, ne vegye le a kabátját.",
+                "ro": "Interiorul este mai răcoros decât afară; păstrați jacheta pe dvs.",
+                "en": "The interior is cooler than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Die Anstrengung beim Aufstieg hält Sie bei kühlen Temperaturen warm.",
+                "hu": "A lépcsőzés közbeni megerőltetés segít melegen tartani a testét.",
+                "ro": "Efortul depus la urcare vă va ajuta să vă mențineți căldura corporală.",
+                "en": "The physical effort of the climb will help keep you warm."
+              }
+            },
+            {
+              "name": "Église Saint-Dominique",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für besinnliche Stille in der Nebensaison.",
+                "hu": "A csendes elmélkedés tökéletes helyszíne a holtszezonban.",
+                "ro": "Un loc perfect pentru liniște contemplativă în extrasezon.",
+                "en": "A beautiful spot for contemplative silence during the off-season."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter gegen 17:00 Uhr spektakulär.",
+                "hu": "A naplemente itt télen 17:00 körül látványos.",
+                "ro": "Apusul de soare este spectaculos aici iarna, în jurul orei 17:00.",
+                "en": "Winter sunset here is spectacular, occurring around 5:00 PM."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Viele Jachten sind im Winterlager, was den Hafencharakter verändert.",
+                "hu": "Sok jacht téli tárolóban van, ami megváltoztatja a kikötő képét.",
+                "ro": "Multe iahturi sunt la iernat, ceea ce schimbă aspectul portului.",
+                "en": "Many yachts are in winter storage, changing the port's scenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Kleidung ist wegen des Seewinds unerlässlich.",
+              "Die Sonne geht früh unter (ca. 17:00), planen Sie Ihre Route danach.",
+              "Einige Restaurants haben Betriebsferien, prüfen Sie die Öffnungszeiten.",
+              "Die Luftfeuchtigkeit am Meer lässt die Kälte beißender wirken."
+            ],
+            "hu": [
+              "A tengeri szél miatt a meleg, szélálló ruházat elengedhetetlen.",
+              "A nap korán nyugszik (17:00 körül), tervezze ehhez az útvonalát.",
+              "Néhány étterem zárva tarthat, ellenőrizze a nyitvatartást.",
+              "A tengerparti páratartalom miatt a hideg metszőbbnek tűnhet."
+            ],
+            "ro": [
+              "Îmbrăcămintea călduroasă și rezistentă la vânt este esențială.",
+              "Soarele apune devreme (aprox. 17:00); planificați traseul în funcție de asta.",
+              "Unele restaurante pot fi închise; verificați programul în avans.",
+              "Umiditatea de la mare face ca frigul să pară mult mai pătrunzător."
+            ],
+            "en": [
+              "Warm, windproof clothing is essential due to the biting sea breeze.",
+              "Sunset is early (around 5:00 PM); plan your highlights accordingly.",
+              "Check restaurant availability as some close for the off-season.",
+              "Coastal humidity can make the cold feel much more intense."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -488,6 +869,360 @@
           "Pushing the bike is mandatory in the old town.",
           "Always wear a helmet."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen und radeln Sie entlang der Klippen zum Leuchtturm von Pertusato für atemberaubende Ausblicke auf Sardinien. Mittags kehren Sie zur Zitadelle zurück und erkunden die historischen Befestigungen. Der Nachmittag bietet Zeit für das Bastion und den einzigartigen Seefahrerfriedhof, bevor Sie gemütlich zum Yachthafen zurückrollen.",
+            "hu": "Induljon a kikötőből, és biciklizzen a sziklák mentén a Pertusato világítótoronyhoz, ahonnan lélegzetelállító kilátás nyílik Szardíniára. Délben térjen vissza a fellegvárba, és fedezze fel a történelmi erődítményeket. A délután jut idő a bástyára és az egyedülálló tengerparti temetőre, mielőtt visszagurulna a jachtkikötőbe.",
+            "ro": "Porniți din port și pedalați de-a lungul falezelor până la farul Pertusato pentru vederi uluitoare către Sardinia. La prânz reveniți în citadelă pentru a explora fortificațiile istorice. După-amiaza oferă timp pentru bastion și cimitirul marin unic, înainte de a coborî lejer înapoi în port.",
+            "en": "Start at the port and cycle along the cliffs to the Pertusato lighthouse for stunning views of Sardinia. Return to the citadel by noon to explore the historic fortifications. The afternoon allows time for the Bastion and the unique Marine Cemetery before rolling back down to the marina."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "E-Bike empfohlen.",
+                "hu": "E-bike ajánlott.",
+                "ro": "E-bike recomandat.",
+                "en": "E-bike recommended."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Wilder Küstenweg.",
+                "hu": "Vad tengerparti út.",
+                "ro": "Drum de coastă sălbatic.",
+                "en": "Wild coastal path."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Rad schieben erlaubt.",
+                "hu": "Tolja a bringát.",
+                "ro": "Împingeți bicicleta.",
+                "en": "Walk your bike here."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Historischer Einblick.",
+                "hu": "Történelmi betekintés.",
+                "ro": "Perspectivă istorică.",
+                "en": "Historical insight."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Stille Pause.",
+                "hu": "Csendes pihenő.",
+                "ro": "Pauză de liniște.",
+                "en": "Quiet break."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Rad abgeben.",
+                "hu": "Bringa leadása.",
+                "ro": "Predarea bicicletei.",
+                "en": "Return your bike."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Prisutu",
+                "tip": "Korsischer Rohschinken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Prisutu",
+                "tip": "Korzikai nyers sonka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Prisutu",
+                "tip": "Șuncă crudă corsicană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Prisutu",
+                "tip": "Corsican raw ham."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Phare de Pertusato",
+                "tip": "Einsame Klippenlandschaft.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pertusato világítótorony",
+                "tip": "Magányos sziklás táj.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Farul Pertusato",
+                "tip": "Peisaj solitar pe stânci.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pertusato Lighthouse",
+                "tip": "Lonely cliff landscape.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Huile d'Olive",
+                "tip": "Lokales Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj",
+                "tip": "Helyi olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "Ulei de măsline local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil Shop",
+                "tip": "Local olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Küstenstraße.",
+              "Achtung bei starkem Wind.",
+              "In der Altstadt ist Schieben Pflicht.",
+              "Tragen Sie einen Helm."
+            ],
+            "hu": [
+              "Használja a parti utat.",
+              "Vigyázat az erős széllel.",
+              "Az óvárosban kötelező tolni a gépet.",
+              "Viseljen bukósisakot."
+            ],
+            "ro": [
+              "Folosiți drumul de coastă.",
+              "Atenție la rafalele de vânt.",
+              "În orașul vechi este obligatoriu mersul pe lângă bicicletă.",
+              "Purtați cască."
+            ],
+            "en": [
+              "Use the coastal road.",
+              "Be careful with strong winds.",
+              "Pushing the bike is mandatory in the old town.",
+              "Always wear a helmet."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start am Hafen, wo die glatten Pflastersteine volle Konzentration fordern. Mittags geht es hinaus zum Leuchtturm, wobei der Wind den Regen peitscht – eine echte Herausforderung. Am Nachmittag suchen Sie Schutz in der Zitadelle, während Ihr Rad sicher abgestellt ist. Der Abend endet mit der Rückfahrt zum Hafen, wo die Lichter auf dem nassen Asphalt tanzen.",
+            "hu": "Esős kezdés a kikötőben, ahol a síkos utcakövek teljes koncentrációt igényelnek. Délben a világítótorony felé vesszük az irányt, miközben a szél ostorozza az esőt – igazi kihívás. Délután a citadellában keresünk menedéket, miközben a kerékpárt biztonságban leparkoljuk. Az este a kikötőbe való visszatéréssel zárul, ahol a fények táncolnak a vizes aszfalton.",
+            "ro": "Început ploios în port, unde pavajul umed necesită concentrare maximă. La prânz, pedalăm spre far în timp ce vântul biciuiește ploaia – o adevărată provocare. După-amiaza căutăm adăpost în cetate, lăsând bicicleta parcată în siguranță. Seara se încheie cu întoarcerea în port, unde luminile dansează pe asfaltul ud.",
+            "en": "A rainy start at the port, where the slick cobblestones demand full concentration. At noon, head out toward the lighthouse as the wind whips the rain—a true cycling challenge. Afternoon is spent sheltering in the Citadel while your bike is securely parked. The evening concludes with a ride back to the port, lights reflecting off the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat az induláskor a nedves macskaköveken.",
+                "ro": "Atenție la pornirea de pe loc pe pavajul umed.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm ist sehr exponiert; achten Sie auf Böen.",
+                "hu": "A világítótoronyhoz vezető út nagyon kitett; figyeljen a széllökésekre.",
+                "ro": "Drumul spre far este foarte expus; atenție la rafalele de vânt.",
+                "en": "The path to the lighthouse is very exposed; watch for wind gusts."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und erkunden Sie die Gassen zu Fuß.",
+                "hu": "Parkolja le a bringát, és gyalogosan fedezze fel a szűk utcákat.",
+                "ro": "Parcați bicicleta și explorați străduțele pe jos.",
+                "en": "Park your bike and explore the narrow alleys on foot."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine Trockenpause.",
+                "hu": "Használja ki a látogatást egy száradási szünetre.",
+                "ro": "Folosiți vizita pentru o pauză în care să vă uscați.",
+                "en": "Use this visit as a chance to dry off and take a break."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad bei Wind sicher ab, um Umstürze zu vermeiden.",
+                "hu": "Szélben támassza le stabilan a gépet, nehogy felboruljon.",
+                "ro": "Parcați bicicleta stabil pentru a preveni răsturnarea ei de vânt.",
+                "en": "Park the bike securely to prevent it from blowing over in the wind."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Reinigen Sie die Bremsen nach der Fahrt von Sand und Salz.",
+                "hu": "A túra után tisztítsa meg a fékeket a homoktól és a sótól.",
+                "ro": "Curățați frânele de nisip și sare după finalizarea traseului.",
+                "en": "Clean your brakes of sand and salt after finishing the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip bei Nässe.",
+              "Wasserdichte Packtaschen sind für Ihre Ausrüstung lebensnotwendig.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den weißen Kalksteinflächen.",
+              "Die Sicht kann bei Regen auf den Klippenwegen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Kicsit csökkentse a keréknyomást a jobb tapadás érdekében.",
+              "Vízálló táskák nélkülözhetetlenek a felszerelése védelmében.",
+              "Kerülje a hirtelen fékezést a fehér mészkővel borított felületeken.",
+              "Esőben a látótávolság jelentősen lecsökkenhet a szikla menti utakon."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+              "Genzile impermeabile sunt vitale pentru protejarea echipamentului.",
+              "Evitați frânările bruște pe suprafețele acoperite cu calcar alb.",
+              "Vizibilitatea poate fi redusă considerabil pe drumurile de coastă pe ploaie."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Waterproof panniers are essential to keep your gear dry.",
+              "Avoid sudden braking on the white limestone-covered areas.",
+              "Visibility can be significantly reduced on cliffside paths during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im Hafen, ideal für eine Radtour ohne Hitze. Mittags führt die Strecke entlang der Klippen, wo der kühle Wind Ihre Ausdauer prüft. Am Nachmittag bietet die Auffahrt zur Zitadelle ein gutes Training, während die Altstadt fast verlassen wirkt. Der Abendhimmel färbt sich spektakulär, bevor Sie Ihr Rad sicher im Hafen zurückgeben.",
+            "hu": "Friss téli reggel a kikötőben, ideális egy biciklitúrához hőség nélkül. Délben az útvonal a sziklák mentén vezet, ahol a hűvös szél próbára teszi az állóképességét. Délután a citadellába vezető emelkedő jó edzés, miközben az óváros szinte elhagyatott. Az esti égbolt látványos színeket ölt, mielőtt visszaadná a kerékpárt a kikötőben.",
+            "ro": "O dimineață răcoroasă de iarnă în port, ideală pentru pedalat fără căldură. La prânz, traseul continuă de-a lungul falezei, unde vântul rece vă testează rezistența. După-amiaza, urcarea spre cetate oferă un antrenament bun, în timp ce orașul vechi pare aproape pustiu. Cerul de seară capătă culori spectaculoase înainte de a returna bicicleta în port.",
+            "en": "A crisp winter morning at the port, perfect for cycling without the summer heat. At noon, the route follows the cliffs where the cool wind tests your stamina. Afternoon brings a rewarding climb to the Citadel, which feels nearly deserted in the best way. The evening sky turns spectacular colors before you return your bike to the port."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, um sich beim Radfahren warm zu halten.",
+                "hu": "Öltözzön rétegesen, hogy tekerés közben ne fázzon meg.",
+                "ro": "Purtați haine în straturi pentru a vă menține căldura în timp ce pedalați.",
+                "en": "Wear layers to stay warm while cycling in the crisp air."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Vorsicht vor starken Seitenwinden auf dem Weg zum Kap.",
+                "hu": "Vigyázzon az erős oldalszélre a fok felé vezető úton.",
+                "ro": "Atenție la vântul lateral puternic pe drumul spre capătul falezei.",
+                "en": "Watch out for strong crosswinds on the path to the cape."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Anstieg, um die Körpertemperatur zu erhöhen.",
+                "hu": "Használja ki az emelkedőt testhőmérséklete emelésére.",
+                "ro": "Folosiți urcușul pentru a vă crește temperatura corporală.",
+                "en": "Use the uphill climb to warm up your body temperature."
+              }
+            },
+            {
+              "name": "Bastion de l'Étendard",
+              "tip_5lang": {
+                "de": "Kurze Pause im Windschatten der massiven Mauern.",
+                "hu": "Rövid pihenő a masszív falak szélárnyékában.",
+                "ro": "O scurtă pauză la adăpostul zidurilor masive.",
+                "en": "Take a short break in the lee of the massive fortress walls."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist perfekt für Fotos.",
+                "hu": "A késő délutáni fények tökéletesek a fotózáshoz.",
+                "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii.",
+                "en": "Late afternoon light is perfect for capturing dramatic photos."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Abends kühlt es schnell ab, ziehen Sie rechtzeitig die Jacke an.",
+                "hu": "Este gyorsan hűl a levegő, idejében vegye fel a kabátot.",
+                "ro": "Seara se răcește rapid; puneți-vă jacheta la timp.",
+                "en": "Temperatures drop quickly in the evening; put your jacket on early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Vollfingerhandschuhe gegen den kalten Fahrtwind.",
+              "Ein Halstuch (Buff) schützt vor der salzigen, kalten Meeresbrise.",
+              "Die tiefstehende Sonne kann blenden, Sonnenbrille nicht vergessen.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann."
+            ],
+            "hu": [
+              "Viseljen hosszú ujjú kesztyűt a hideg menetszél ellen.",
+              "Egy csősál megvédi a sós, hideg tengeri fuvallattól.",
+              "Az alacsonyan járó nap vakíthat, ne felejtse el a napszemüveget.",
+              "Ellenőrizze a keréknyomást, mert hidegben az csökkenhet."
+            ],
+            "ro": [
+              "Purtați mănuși cu degete lungi împotriva vântului rece.",
+              "O eșarfă tip buff vă protejează de briza marină rece și sărată.",
+              "Soarele jos poate fi orbitor; nu uitați ochelarii de soare.",
+              "Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig."
+            ],
+            "en": [
+              "Wear full-finger gloves to protect against the cold wind chill.",
+              "A neck gaiter protects you from the salty, freezing sea breeze.",
+              "The low sun can be blinding; don't forget your sunglasses.",
+              "Check tire pressure as it can drop in colder temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -720,6 +1455,360 @@
           "Roads are narrow.",
           "Use the harbor parking lots."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto für die weitere Umgebung. Starten Sie mit einer Bootstour zur Sdragonato-Grotte. Danach fahren Sie zum Parkplatz nahe Pertusato und wandern zum Leuchtturm. Den Nachmittag verbringen Sie in der Zitadelle und erklimmen die berühmte Treppe, bevor Sie den Tag entspannt im Hafen ausklingen lassen.",
+            "hu": "Használja az autót a távolabbi helyszínekhez. Kezdjen egy hajótúrával a Sdragonato-barlanghoz a kikötőből. Ezután hajtson a Pertusato melletti parkolóba, és sétáljon el a világítótoronyhoz. A délutánt a fellegvárban töltheti, megmászva a híres lépcsőt, majd lazítson a kikötőben.",
+            "ro": "Folosiți mașina pentru împrejurimi. Începeți cu o excursie cu barca la grota Sdragonato. Apoi conduceți spre parcarea de lângă Pertusato și mergeți pe jos până la far. După-amiaza o petreceți în citadelă, urcând faimoasa scară, înainte de a încheia ziua relaxat în port.",
+            "en": "Use the car to explore the wider area. Start with a boat trip to the Sdragonato cave from the harbor. Then drive to the parking area near Pertusato and hike to the lighthouse. Spend your afternoon in the Citadel and climb the famous steps before relaxing at the marina."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Parkhaus am Hafen.",
+                "hu": "Parkoló a kikötőben.",
+                "ro": "Parcare în port.",
+                "en": "Parking by the port."
+              }
+            },
+            {
+              "name": "Grotte de Sdragonato",
+              "tip_5lang": {
+                "de": "Bootstour ab Hafen.",
+                "hu": "Hajótúra a kikötőből.",
+                "ro": "Tur cu barca din port.",
+                "en": "Boat tour from port."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Zu Fuß zum Leuchtturm.",
+                "hu": "Gyalog a toronyhoz.",
+                "ro": "Pe jos până la far.",
+                "en": "Walk to the lighthouse."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Zentrale Festung.",
+                "hu": "Központi erőd.",
+                "ro": "Cetatea centrală.",
+                "en": "Central fortress."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Ikonischer Abstieg.",
+                "hu": "Ikonikus lépcsősor.",
+                "ro": "Scara iconică.",
+                "en": "Iconic descent."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Abendessen am Kai.",
+                "hu": "Vacsora a parton.",
+                "ro": "Cină pe chei.",
+                "en": "Dinner at the quay."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Langouste à la Parisienne",
+                "tip": "Frischer Hummer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Langouste",
+                "tip": "Friss homár."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Langouste",
+                "tip": "Homar proaspăt."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lobster",
+                "tip": "Fresh local lobster."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Plage de Sutta Rocca",
+                "tip": "Kleiner Strand am Fels.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sutta Rocca strand",
+                "tip": "Kis strand a szikláknál.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Sutta Rocca",
+                "tip": "Plajă mică sub stânci.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sutta Rocca Beach",
+                "tip": "Small beach under cliffs.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Produits corses",
+                "tip": "Käse und Schinken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Korzikai termékek",
+                "tip": "Sajt és sonka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse corsicane",
+                "tip": "Brânză și șuncă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corsican Products",
+                "tip": "Cheese and ham shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in der Oberstadt ist schwierig.",
+              "Vermeiden Sie die Rushhour.",
+              "Die Straßen sind eng.",
+              "Nutzen Sie Parkplätze am Hafen."
+            ],
+            "hu": [
+              "A felsővárosban nehéz parkolni.",
+              "Kerülje a csúcsforgalmat.",
+              "Az utak szűkek.",
+              "Használja a kikötői parkolókat."
+            ],
+            "ro": [
+              "Parcarea în orașul de sus e dificilă.",
+              "Evitați orele de vârf.",
+              "Drumurile sunt înguste.",
+              "Folosiți parcările din port."
+            ],
+            "en": [
+              "Parking in the Upper Town is difficult.",
+              "Avoid rush hours.",
+              "Roads are narrow.",
+              "Use the harbor parking lots."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Hafen, während der Scheibenwischer den Rhythmus vorgibt. Mittags bietet das Auto den perfekten Schutz bei der Fahrt zur Grotte und zum Leuchtturm, auch wenn die Aussicht wolkenverhangen ist. Am Nachmittag erkunden Sie die Zitadelle, wobei Sie die Nähe zum Parkplatz schätzen. Der Abend endet trocken und komfortabel in der Unterstadt.",
+            "hu": "Az út a kikötőben kezdődik, miközben az ablaktörlő adja a ritmust. Délben az autó tökéletes menedéket nyújt a barlanghoz és a toronyhoz vezető úton, még ha a kilátást felhők is borítják. Délután a citadellát fedezzük fel, értékelve a parkoló közelségét. Az este szárazon és kényelmesen zárul az alsóvárosban.",
+            "ro": "Călătoria începe în port, în timp ce ștergătoarele dau ritmul. La prânz, mașina oferă adăpostul perfect în drum spre grotă și far, chiar dacă priveliștea este înnorată. După-amiaza explorați cetatea, apreciind proximitatea parcării. Seara se încheie confortabil și la adăpost în orașul de jos.",
+            "en": "The drive begins at the port as windshield wipers set the rhythm. At noon, your car provides the perfect sanctuary for the trip to the cave and lighthouse, even with cloudy views. Afternoon is spent exploring the Citadel, making the most of nearby parking. The evening concludes comfortably and dry back in the lower town."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Unterstadt nutzen, um trocken auszusteigen.",
+                "hu": "Használja az alsóvárosi parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcările etajate din orașul de jos pentru a ieși la uscat.",
+                "en": "Use the multi-story car parks in the lower town to stay dry."
+              }
+            },
+            {
+              "name": "Grotte de Sdragonato",
+              "tip_5lang": {
+                "de": "Bootstouren können bei Regen und Seegang ausfallen.",
+                "hu": "Esőben és hullámzáskor a hajótúrák elmaradhatnak.",
+                "ro": "Tururile cu barca pot fi anulate în caz de ploaie sau mare agitată.",
+                "en": "Boat tours may be cancelled during rain or rough seas."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei heftigen Schauern für die Aussicht im Auto.",
+                "hu": "Heves záporok esetén maradjon az autóban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru priveliște în timpul averselor intense.",
+                "en": "Stay in the car for the view during heavy downpours."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Parkplatz P3 ist am nächsten am Eingang der Oberstadt.",
+                "hu": "A P3 parkoló van legközelebb a felsőváros bejáratához.",
+                "ro": "Parcarea P3 este cea mai apropiată de intrarea în orașul de sus.",
+                "en": "Parking lot P3 is the closest to the upper town entrance."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen, ob der Abstieg geöffnet ist.",
+                "hu": "Kiszállás előtt ellenőrizze, hogy a lejáró nyitva van-e.",
+                "ro": "Verificați dacă accesul la scară este deschis înainte de a coborî.",
+                "en": "Check if the staircase access is open before getting out of the car."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Autos für den Kleidungswechsel.",
+                "hu": "Használja ki az autó kényelmét az átöltözéshez.",
+                "ro": "Folosiți confortul mașinii pentru a vă schimba hainele.",
+                "en": "Take advantage of the car's comfort to change wet clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefgelegenen Zonen bei Starkregen.",
+              "Beschlagene Scheiben sind bei der Luftfeuchtigkeit ein Problem.",
+              "Die schmalen Straßen zur Oberstadt sind bei Nässe tückisch.",
+              "Halten Sie eine Münzreserve für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a mélyebben fekvő parkolóhelyeket.",
+              "A magas páratartalom miatt az ablakok könnyen bepárásodhatnak.",
+              "A felsővárosba vezető szűk utak nedvesen trükkösek lehetnek.",
+              "Legyen Önnél aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase în timpul ploilor torențiale.",
+              "Geamurile aburite pot fi o problemă din cauza umidității.",
+              "Drumurile înguste spre orașul de sus sunt înșelătoare pe ud.",
+              "Aveți pregătite monede pentru automatele de parcare."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas during heavy torrential rain.",
+              "Foggy windows can be an issue due to the high humidity.",
+              "The narrow roads to the upper town are tricky when wet.",
+              "Keep some spare change ready for the parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet entspannt im fast leeren Hafen. Mittags genießen Sie die Panoramafahrt zum Kap Pertusato, wobei die Heizung für Wohlbefinden sorgt. Am Nachmittag finden Sie mühelos einen Parkplatz direkt an der Zitadelle. Der frühe Sonnenuntergang lässt sich perfekt von einem Aussichtspunkt aus beobachten, bevor Sie zurück in den Hafen fahren.",
+            "hu": "A téli autós túra nyugodtan indul a szinte üres kikötőben. Délben élvezheti a panorámautat a Pertusato-fokhoz, miközben a fűtés biztosítja a kényelmet. Délután könnyedén talál parkolót közvetlenül a citadellánál. A korai naplemente tökéletesen megfigyelhető egy kilátópontról, mielőtt visszahajtana a kikötőbe.",
+            "ro": "Turul de iarnă cu mașina începe relaxat în portul aproape pustiu. La prânz, vă bucurați de drumul panoramic spre Capul Pertusato în confortul încălzirii. După-amiaza găsiți cu ușurință un loc de parcare chiar lângă cetate. Apusul timpuriu poate fi observat perfect de la un punct de belvedere înainte de a reveni în port.",
+            "en": "Your winter car tour starts relaxed in the nearly empty port. At noon, enjoy the panoramic drive to Cape Pertusato in the warmth of your vehicle. Afternoon brings effortless parking right by the Citadel. The early sunset is best observed from a scenic viewpoint before heading back down to the port."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft günstiger oder zeitweise gratis.",
+                "hu": "Télen a parkolás gyakran olcsóbb vagy időszakosan ingyenes.",
+                "ro": "Parcarea este adesea mai ieftină sau temporar gratuită iarna.",
+                "en": "Parking is often cheaper or occasionally free during winter."
+              }
+            },
+            {
+              "name": "Grotte de Sdragonato",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von den Klippen oberhalb der Grotte.",
+                "hu": "Élvezze a kilátást a barlang feletti sziklákról.",
+                "ro": "Bucurați-vă de priveliștea de pe stâncile de deasupra grotei.",
+                "en": "Enjoy the dramatic views from the cliffs above the cave."
+              }
+            },
+            {
+              "name": "Phare de Pertusato",
+              "tip_5lang": {
+                "de": "Das Auto schützt vor dem eisigen Wind am exponierten Kap.",
+                "hu": "Az autó megvédi a jeges széltől a kitett foknál.",
+                "ro": "Mașina vă protejează de vântul înghețat la capătul expus.",
+                "en": "The car protects you from the icy wind at the exposed cape."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Nutzen Sie die leeren Parkplätze direkt am Eingang P3.",
+                "hu": "Használja ki az üres parkolóhelyeket a P3 bejáratnál.",
+                "ro": "Profitați de parcările goale chiar la intrarea P3.",
+                "en": "Take advantage of the empty parking spots right at the P3 entrance."
+              }
+            },
+            {
+              "name": "Escalier du Roi d'Aragon",
+              "tip_5lang": {
+                "de": "Jacke mitnehmen, der Wind am Treppenhang ist im Winter kalt.",
+                "hu": "Vigyen kabátot, a lépcsőoldalban a szél télen hideg.",
+                "ro": "Luați o jachetă; vântul pe versantul scării este rece iarna.",
+                "en": "Bring a jacket; the wind on the staircase slope is cold in winter."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um die Hafenstimmung ohne Lärm zu genießen.",
+                "hu": "Ideális idő a kikötői hangulat zajtalan élvezetéhez.",
+                "ro": "Momentul ideal pentru a savura atmosfera portului fără zgomot.",
+                "en": "Ideal time to soak in the port atmosphere without the noise."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Batterie prüfen, da Kälte und kurze Strecken sie belasten.",
+              "Frostschutz für die Scheibenwischanlage ist ratsam.",
+              "Genießen Sie die freie Fahrt auf den sonst überfüllten Straßen.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Ellenőrizze az akkumulátort, a hideg és a rövid utak megviselik.",
+              "Fagyálló szélvédőmosó használata javasolt.",
+              "Élvezze a szabad haladást az egyébként zsúfolt utakon.",
+              "A korai sötétedés előtt tervezze meg a visszautat."
+            ],
+            "ro": [
+              "Verificați bateria; frigul și drumurile scurte o pot uza.",
+              "Este recomandat să aveți lichid de parbriz rezistent la îngheț.",
+              "Bucurați-vă de drumurile libere, care altfel sunt supraaglomerate.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Check your battery; cold and short trips can strain it.",
+              "Using frost-resistant windshield washer fluid is advisable.",
+              "Enjoy the open roads that are normally congested in summer.",
+              "Plan your return trip before the early darkness sets in."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -934,34 +2023,334 @@
           "Ideal during hot weather.",
           "The station is at the end of the port."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den 'Petit Train', um bequem vom Hafen in die Zitadelle zu gelangen. Verbringen Sie den Vormittag mit der Erkundung der Festung und der Hauptkirche Sainte-Marie-Majeure. Nach einem Besuch des beeindruckenden Seefahrerfriedhofs bringt Sie der Zug oder ein kurzer Spaziergang zurück zum Hafen für einen entspannten Nachmittag am Wasser.",
+            "hu": "Vegye igénybe a 'Petit Train' kisvonatot, hogy kényelmesen feljusson a kikötőből a fellegvárba. Töltse a délelőttöt az erőd és a Sainte-Marie-Majeure főtemplom felfedezésével. A lenyűgöző tengerparti temető megtekintése után a vonat vagy egy rövid séta visszaviszi a kikötőbe egy pihentető délutánra a vízparton.",
+            "ro": "Folosiți „Petit Train” pentru a ajunge confortabil din port în citadelă. Petreceți dimineața explorând fortăreața și biserica principală Sainte-Marie-Majeure. După o vizită la impresionantul cimitir marin, trenulețul sau o scurtă plimbare vă va duce înapoi în port pentru o după-amiază relaxantă la malul apei.",
+            "en": "Use the 'Petit Train' to comfortably travel from the port up to the Citadel. Spend the morning exploring the fortress and the main church, Sainte-Marie-Majeure. After visiting the impressive Marine Cemetery, the train or a short walk will take you back to the port for a relaxing afternoon by the water."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Petit Train Abfahrt.",
+                "hu": "Kisvonat indulás.",
+                "ro": "Plecare Petit Train.",
+                "en": "Petit Train departure."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Zitadellen-Zug.",
+                "hu": "Vár-vonat.",
+                "ro": "Trenulețul cetății.",
+                "en": "Citadel shuttle train."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "Im Herzen der Altstadt.",
+                "hu": "Az óváros szívében.",
+                "ro": "În inima orașului vechi.",
+                "en": "In the heart of old town."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Spaziergang am Ende.",
+                "hu": "Séta a végén.",
+                "ro": "Plimbare la final.",
+                "en": "Walk at the end."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Freizeit am Hafen.",
+                "hu": "Szabadidő a kikötőben.",
+                "ro": "Timp liber în port.",
+                "en": "Free time at the port."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Canistrelli",
+                "tip": "Korsische Kekse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canistrelli",
+                "tip": "Korzikai keksz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canistrelli",
+                "tip": "Biscuiți corsicani."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canistrelli",
+                "tip": "Corsican shortbread biscuits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Port de Bonifacio",
+                "tip": "Beobachten Sie die Yachten.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bonifacio kikötő",
+                "tip": "Nézze a jachtokat.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Portul Bonifacio",
+                "tip": "Priviți iahturile.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Port de Bonifacio",
+                "tip": "Watch the yachts.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Quai Jérôme Comparetti",
+                "tip": "Viele kleine Läden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Quai Jérôme Comparetti",
+                "tip": "Sok kis bolt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Quai Jérôme Comparetti",
+                "tip": "Multe magazine mici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Quai Jérôme Comparetti",
+                "tip": "Many small shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Zug.",
+              "Die Züge fahren alle 20 Minuten.",
+              "Ideal bei Hitze.",
+              "Der Bahnhof ist am Hafenende."
+            ],
+            "hu": [
+              "Vegyen napijegyet a kisvonatra.",
+              "A vonatok 20 percenként járnak.",
+              "Ideális hőségben.",
+              "Az állomás a kikötő végén van."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru trenuleț.",
+              "Trenurile pleacă la fiecare 20 de minute.",
+              "Ideal pe caniculă.",
+              "Stația este la capătul portului."
+            ],
+            "en": [
+              "Buy a day ticket for the tourist train.",
+              "Trains run every 20 minutes.",
+              "Ideal during hot weather.",
+              "The station is at the end of the port."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag startet im Hafen, wo der 'Petit Train' Sie trocken zur Oberstadt bringt. Mittags erkunden Sie die überdachten Bereiche der Zitadelle und Kirchen. Am Nachmittag bietet der Bus oder das Shuttle Schutz vor den Schauern, während Sie zwischen den Sehenswürdigkeiten pendeln. Der Abend endet gemütlich in Hafennähe, leicht erreichbar mit dem öffentlichen Nahverkehr.",
+            "hu": "Az esős nap a kikötőben indul, ahol a 'Petit Train' szárazon viszi fel a felsővárosba. Délben a citadella fedett részeit és a templomokat fedezzük fel. Délután a busz vagy a transzfer nyújt menedéket a záporok elől a látnivalók között. Az este a kikötő közelében zárul, amely tömegközlekedéssel könnyen elérhető.",
+            "ro": "Ziua ploioasă începe în port, unde 'Petit Train' vă duce la uscat în orașul de sus. La prânz, explorați zonele acoperite ale cetății și bisericile. După-amiaza, autobuzul sau naveta oferă protecție împotriva averselor între obiective. Seara se încheie confortabil lângă port, ușor accesibil cu transportul public.",
+            "en": "The rainy day begins at the port, where the 'Petit Train' takes you dry to the upper town. At noon, explore the sheltered areas of the Citadel and the churches. Afternoon shuttles or buses provide sanctuary from showers as you move between sights. The evening ends cozily near the port, easily reached by local public transport."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Warten Sie in den wetterfesten Wartehallen auf den Bus.",
+                "hu": "Várja a buszt az időjárásálló várótermekben.",
+                "ro": "Așteptați autobuzul în sălile de așteptare protejate de intemperii.",
+                "en": "Wait for the bus in the weather-protected waiting areas."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Der 'Petit Train' ist bei Regen oft die beste Wahl.",
+                "hu": "Esőben a kisvonat gyakran a legjobb választás.",
+                "ro": "Micul tren ('Petit Train') este adesea cea mai bună alegere pe ploaie.",
+                "en": "The 'Petit Train' is often the best choice during rain."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle, Schirm bereithalten.",
+                "hu": "Rövid séta a buszmegállótól, legyen kéznél az esernyő.",
+                "ro": "Drum scurt pe jos de la stație; aveți umbrela pregătită.",
+                "en": "A short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann bei Wind ungemütlich sein.",
+                "hu": "A megállóhoz vezető út szélben kellemetlen lehet.",
+                "ro": "Drumul spre stație poate fi neplăcut în caz de vânt.",
+                "en": "The walk to the bus stop can be unpleasant in windy conditions."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Prüfen Sie die App für Echtzeit-Abfahrten bei Regen.",
+                "hu": "Esőben ellenőrizze az applikációt a valós idejű indulásokhoz.",
+                "ro": "Verificați aplicația pentru plecările în timp real pe timp de ploaie.",
+                "en": "Check the app for real-time departures during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets online, um Wartezeiten im Freien zu vermeiden.",
+              "Der 'Petit Train' verkehrt bei Regen oft mit geschlossenen Planen.",
+              "Tragen Sie wasserdichte Kleidung für die Wege zwischen den Haltestellen.",
+              "Die Busfrequenz kann bei schlechtem Wetter variieren."
+            ],
+            "hu": [
+              "Vásároljon jegyet online, hogy elkerülje a kinti várakozást.",
+              "A kisvonat esőben gyakran leengedett ponyvákkal közlekedik.",
+              "Viseljen vízálló ruhát a megállók közötti szakaszokra.",
+              "Rossz időben a buszok járatsűrűsége változhat."
+            ],
+            "ro": [
+              "Cumpărați biletele online pentru a evita așteptarea afară.",
+              "'Petit Train' circulă adesea cu prelatele trase pe timp de ploaie.",
+              "Purtați haine impermeabile pentru drumurile între stații.",
+              "Frecvența autobuzelor poate varia în funcție de vremea rea."
+            ],
+            "en": [
+              "Buy tickets online to avoid waiting outdoors in the rain.",
+              "The 'Petit Train' often operates with protective covers during rain.",
+              "Wear waterproof clothing for the segments between stops.",
+              "Bus frequency may vary depending on poor weather conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintertag beginnt im Hafen, wo Sie den Fahrplan der Nebensaison nutzen. Mittags bringt Sie das Shuttle zur Zitadelle, während Sie den Blick auf die leeren Kais genießen. Am Nachmittag erkunden Sie die historische Oberstadt ohne die sommerliche Hektik. Der frühe Abend führt Sie zurück zum Hafen, wo die Beleuchtung in der klaren Winterluft besonders hell strahlt.",
+            "hu": "Egy nyugodt téli nap a kikötőben indul, ahol a holtszezoni menetrendet használjuk. Délben a transzfer felviszi a citadellába, miközben élvezheti az üres rakpart látványát. Délután a történelmi felsővárost fedezzük fel a nyári nyüzsgés nélkül. A kora este visszavisz a kikötőbe, ahol a fények különösen ragyognak a tiszta téli levegőben.",
+            "ro": "O zi liniștită de iarnă începe în port, profitând de programul de extrasezon. La prânz, naveta vă duce la cetate în timp ce admirați cheiul pustiu. După-amiaza explorați orașul de sus fără agitația verii. Seara timpurie vă aduce înapoi în port, unde luminile strălucesc intens în aerul curat de iarnă.",
+            "en": "A peaceful winter day begins at the port, operating on the off-season schedule. At noon, the shuttle takes you up to the Citadel while you enjoy views of the quiet quays. Afternoon is for exploring the historic upper town without the summer rush. Early evening brings you back to the port, where lights shine brightly in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Beachten Sie die reduzierten Fahrpläne in der Nebensaison.",
+                "hu": "Ügyeljen a csökkentett menetrendre a holtszezonban.",
+                "ro": "Atenție la programele de circulație reduse în extrasezon.",
+                "en": "Note the reduced transit schedules during the off-season."
+              }
+            },
+            {
+              "name": "Citadelle de Bonifacio",
+              "tip_5lang": {
+                "de": "Der 'Petit Train' macht im Winter oft eine Betriebspause.",
+                "hu": "A kisvonat télen gyakran üzemszünetet tart.",
+                "ro": "Micul tren ('Petit Train') are adesea pauză de funcționare iarna.",
+                "en": "The 'Petit Train' often takes a service break during winter."
+              }
+            },
+            {
+              "name": "Église Sainte-Marie-Majeure",
+              "tip_5lang": {
+                "de": "In der Altstadt sind die Wege kurz und windgeschützt.",
+                "hu": "Az óvárosban az utak rövidek és szélvédettek.",
+                "ro": "În orașul vechi, drumurile sunt scurte și ferite de vânt.",
+                "en": "Paths in the old town are short and well-sheltered from the wind."
+              }
+            },
+            {
+              "name": "Cimetière Marin de Bonifacio",
+              "tip_5lang": {
+                "de": "Prüfen Sie den letzten Bus vor Sonnenuntergang.",
+                "hu": "Ellenőrizze az utolsó buszt naplemente előtt.",
+                "ro": "Verificați ora ultimului autobuz înainte de apus.",
+                "en": "Check the time for the last bus before sunset."
+              }
+            },
+            {
+              "name": "Port de Bonifacio",
+              "tip_5lang": {
+                "de": "Die Cafés an der Haltestelle bieten Wärme beim Warten.",
+                "hu": "A megállónál lévő kávézók meleget nyújtanak várakozás közben.",
+                "ro": "Cafenelele de lângă stație oferă căldură în timp ce așteptați.",
+                "en": "Cafes near the stop provide warmth while you wait."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Betriebszeiten des 'Navette' Shuttles genau.",
+              "Ab 17:00 Uhr wird es merklich kühler, planen Sie Ihre Rückfahrt.",
+              "Die Busse sind im Winter weniger überfüllt und komfortabler.",
+              "Einige Linien verkehren im Winter nur auf Abruf."
+            ],
+            "hu": [
+              "Pontosan ellenőrizze a 'Navette' transzfer üzemidejét.",
+              "17:00 után érezhetően hűvösebb lesz, tervezze meg a visszautat.",
+              "A buszok télen kevésbé zsúfoltak és kényelmesebbek.",
+              "Néhány járat télen csak hívásra (on-demand) közlekedik."
+            ],
+            "ro": [
+              "Verificați cu atenție orele de funcționare ale navetei 'Navette'.",
+              "După ora 17:00 se răcește considerabil; planificați-vă întoarcerea.",
+              "Autobuzele sunt mai puțin aglomerate și mai confortabile iarna.",
+              "Unele linii pot circula iarna doar la cerere."
+            ],
+            "en": [
+              "Carefully check the operating hours of the 'Navette' shuttle.",
+              "It gets noticeably colder after 5:00 PM; plan your return trip.",
+              "Buses are less crowded and more comfortable in the winter.",
+              "Some transit lines may operate on-demand only during winter."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.bonifacio.fr/",
-    "events": "https://www.bonifacio.fr/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Bonifacio ist Franzoesisch mit starkem korsischen Einschlag, viele Ortsnamen und Kirchen-Inschriften noch in Korsisch oder Italienisch (Sardinien ist nur 12 km entfernt). Englisch klappt in Hafenrestaurants und Hotels, aber 'bonjour' und Geduld gehoeren dazu.",
-      "hu": "Bonifacio francia eros korziakai jellegevel, sok helynev es templomi felirat korziakai vagy olasz (Szardinia 12 km). Az angol megy a kikotoi ettermekben, hotelekben, de a 'bonjour' es turelem fontos.",
-      "ro": "Bonifacio e francez cu puternic accent corsican, multe nume si inscriptii bisericesti inca in corsicana sau italiana (Sardinia e la 12 km). Engleza merge in restaurantele portului si hoteluri, dar 'bonjour' si rabdarea sunt necesare.",
-      "en": "Bonifacio is French with a strong Corsican flavour — many place names and church inscriptions are still in Corsican or Italian (Sardinia is just 12 km away). English works at harbour restaurants and hotels, but 'bonjour' and patience matter."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober ideal: warm, das Meer schon 22 Grad, weniger Touristen als im Hochsommer. Juli-August Hochsaison mit Yachten aus Sardinien, Restaurants im Hafen ueberteuert. Im Winter sehr ruhig, viele Restaurants zu.",
-      "hu": "Majus-junius es szeptember-oktober ideal: meleg, tenger mar 22 fok, kevesebb turista, mint foszezonban. Julius-augusztus foszezon szardiniai jachtokkal, a kikotoi ettermek tularazva. Telen nagyon csendes, sok etterem zarva.",
-      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: cald, marea deja 22 grade, mai putini turisti decat in plina vara. Iulie-august sezon de varf cu iahturi din Sardinia, restaurantele din port supraevaluate. Iarna foarte linistita, multe restaurante inchise.",
-      "en": "May-June and September-October are ideal: warm, sea already at 22°C, fewer tourists than peak summer. July-August is high season with Sardinian yachts, harbour restaurants overpriced. Winter is very quiet with many restaurants shut."
-    },
-    "neighborhood_warnings": {
-      "de": "Die Klippentreppe (Escalier du Roi d'Aragon) ist steil und bei Naesse rutschig. Im Sommer Bootstouren zu den Hoehlen Stunden lang Schlange, frueh buchen. Wind kann im Hafen stark sein, vor Bootsausfluegen Wetter checken.",
-      "hu": "A sziklai lepcso (Escalier du Roi d'Aragon) meredek, neddvesen csuszos. Nyaron a barlangtuluronak orakon at all a sor, foglalj korai. A szel a kikotoben eros lehet, hajos kirandulas elott idojarast nezz.",
-      "ro": "Scarile de stanca (Escalier du Roi d'Aragon) sunt abrupte si alunecoase la umezeala. Vara, la turele cu barca spre pesteri sunt cozi de ore, rezerva devreme. Vantul in port poate fi puternic, verifica vremea inainte de excursii cu vaporasul.",
-      "en": "The cliff staircase (Escalier du Roi d'Aragon) is steep and slippery when wet. In summer the boat tours to the sea caves have hours-long queues, book early. Wind can be strong in the harbour, check the forecast before boat trips."
-    },
-    "parking_real_time": ""
   }
 }

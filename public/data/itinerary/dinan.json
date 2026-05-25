@@ -320,6 +320,442 @@
           "Park outside the ramparts at Place Duguesclin.",
           "Try the local cider with your galettes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Vormittag beginnt im imposanten Schloss von Dinan, gefolgt von einem Aufstieg auf den Uhrturm für eine 360-Grad-Aussicht. Mittags spazieren Sie durch die Basilika Saint-Sauveur, bevor Sie die berühmte Rue du Jerzual hinuntersteigen. Den Nachmittag verbringen Sie am malerischen Hafen der Rance bei einem traditionellen Mittagessen. Zum Abschluss umrunden Sie die Altstadt auf den mittelalterlichen Stadtmauern, die spektakuläre Ausblicke auf das Tal bieten.",
+            "hu": "Délelőttje az impozáns dinani várban kezdődik, majd felkapaszkodik az Óratoronyba a 360 fokos panorámáért. Délben a Szent Üdvözítő-bazilikát érinti, mielőtt leereszkedne a híres Rue du Jerzual macskaköves utcáján. A délutánt a Rance folyó festői kikötőjében tölti egy hagyományos ebéd mellett. Búcsúzóul körbesétálja az óvárost a középkori várfalakon, ahonnan lenyűgöző kilátás nyílik a völgyre.",
+            "ro": "Dimineața începe la impunătorul Castel din Dinan, urmată de o urcare în Turnul Ceasului pentru o vedere panoramică. La prânz, vizitați Bazilica Saint-Sauveur înainte de a coborî pe celebra stradă Rue du Jerzual. Petreceți după-amiaza în portul pitoresc de pe Rance, savurând un prânz tradițional. La final, înconjurați orașul vechi pe zidurile medievale, care oferă priveliști spectaculoase asupra văii.",
+            "en": "Your morning starts at the imposing Dinan Castle, followed by a climb up the Clock Tower for a 360-degree view. At midday, visit the Basilica of Saint-Sauveur before descending the famous cobbled Rue du Jerzual. Spend the afternoon at the picturesque port on the Rance with a traditional lunch. To finish, walk around the old town on the medieval ramparts, offering spectacular views over the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss von Dinan",
+                "hu": "Dinani vár",
+                "ro": "Castelul din Dinan",
+                "en": "Dinan Castle"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie auf die Ringmauer für das beste Panorama.",
+                "hu": "Menj fel a várfalra a legjobb panorámáért.",
+                "ro": "Urcați pe metereze pentru cea mai bună panoramă.",
+                "en": "Go up the ramparts for the best panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm (Tour de l'Horloge)",
+                "hu": "Óratorony",
+                "ro": "Turnul Ceasului",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Treppen sind steil, aber die Aussicht lohnt sich.",
+                "hu": "A lépcsők meredekek, de a kilátás megéri.",
+                "ro": "Scările sunt abrupte, dar vederea merită.",
+                "en": "The stairs are steep, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Sauveur",
+                "hu": "Szent Üdvözítő-bazilika",
+                "ro": "Bazilica Saint-Sauveur",
+                "en": "Basilica of Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Herz von Bertrand du Guesclin.",
+                "hu": "Csodálja meg Bertrand du Guesclin szívét.",
+                "ro": "Admirați inima lui Bertrand du Guesclin.",
+                "en": "Admire the heart of Bertrand du Guesclin."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Jerzual",
+                "hu": "Rue du Jerzual",
+                "ro": "Rue du Jerzual",
+                "en": "Rue du Jerzual"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ateliers der Kunsthandwerker.",
+                "hu": "Látogassa meg a kézművesek műhelyeit.",
+                "ro": "Vizitați atelierele meșteșugarilor.",
+                "en": "Visit the artisans' workshops along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Dinan",
+                "hu": "Dinani kikötő",
+                "ro": "Portul din Dinan",
+                "en": "Port of Dinan"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie eine Galette am Ufer der Rance.",
+                "hu": "Kóstoljon meg egy galette-et a Rance partján.",
+                "ro": "Gustați o galette pe malul râului Rance.",
+                "en": "Try a galette by the banks of the Rance."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern Spaziergang",
+                "hu": "Várfal sétány",
+                "ro": "Plimbare pe zidurile cetății",
+                "en": "Ramparts Walk"
+              },
+              "tip_5lang": {
+                "de": "Der Jardin Anglais bietet einen tollen Blick auf das Viadukt.",
+                "hu": "Az Angolkert nagyszerű kilátást nyújt a viaduktra.",
+                "ro": "Grădina Engleză oferă o vedere excelentă spre viaduct.",
+                "en": "The English Garden offers a great view of the viaduct."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kouign-amann",
+                "tip": "Buttriges bretonisches Gebäck in der Boulangerie des Remparts."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Buchweizenpfannkuchen im Crêperie Ahna."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kouign-amann",
+                "tip": "Vajas breton sütemény a Boulangerie des Remparts-ban."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Hajdinapalacsinta a Crêperie Ahna vendéglőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kouign-amann",
+                "tip": "Patiserie bretonă cu unt la Boulangerie des Remparts."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Clătită din hrișcă la Crêperie Ahna."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kouign-amann",
+                "tip": "Buttery Breton pastry at Boulangerie des Remparts."
+              },
+              {
+                "name": "Galette Complète",
+                "tip": "Buckwheat pancake at Crêperie Ahna."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin Anglais",
+                "tip": "Ruhiger Park hinter der Basilika.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Promenade des Petits Fossés",
+                "tip": "Spaziergang am Fuße der Mauern.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Angolkert",
+                "tip": "Csendes park a bazilika mögött.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Promenade des Petits Fossés",
+                "tip": "Séta a várfalak tövében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin Anglais",
+                "tip": "Parc liniștit în spatele bazilicii.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Promenade des Petits Fossés",
+                "tip": "Plimbare la baza zidurilor.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "English Garden",
+                "tip": "Quiet park behind the basilica.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Promenade des Petits Fossés",
+                "tip": "Walk at the foot of the ramparts.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue de la Poissonnerie",
+                "tip": "Lokale Delikatessen und Cidre."
+              },
+              {
+                "name": "Ateliers du Jerzual",
+                "tip": "Handgefertigte Keramik und Glas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue de la Poissonnerie",
+                "tip": "Helyi finomságok és cidre."
+              },
+              {
+                "name": "Ateliers du Jerzual",
+                "tip": "Kézműves kerámia és üvegtárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue de la Poissonnerie",
+                "tip": "Delicii locale și cidru."
+              },
+              {
+                "name": "Ateliers du Jerzual",
+                "tip": "Ceramică și sticlărie artizanală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue de la Poissonnerie",
+                "tip": "Local delicacies and cider."
+              },
+              {
+                "name": "Ateliers du Jerzual",
+                "tip": "Handmade ceramics and glassware."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Rue du Jerzual ist sehr steil, planen Sie Pausen ein.",
+              "Parken Sie außerhalb der Stadtmauer am Place Duguesclin.",
+              "Probieren Sie den lokalen Cidre zu Ihren Galettes."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "A Rue du Jerzual nagyon meredek, tervezzen pihenőket.",
+              "Parkoljon a falakon kívül, a Place Duguesclin téren.",
+              "Kóstolja meg a helyi cidre-t a galette mellé."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Rue du Jerzual este foarte abruptă, planificați pauze.",
+              "Parcați în afara zidurilor, în Place Duguesclin.",
+              "Gustați cidrul local alături de galette."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Rue du Jerzual is very steep, plan for breaks.",
+              "Park outside the ramparts at Place Duguesclin.",
+              "Try the local cider with your galettes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in den massiven Mauern der Burg von Dinan. Mittags steigen wir vorsichtig die rutschigen Kieselsteine der Rue du Jerzual hinab zum Hafen, wo uns ein heißer Cidre aufwärmt. Am Nachmittag bietet die Basilika Saint-Sauveur einen trockenen Rückzugsort. Den Tag lassen wir in einem gemütlichen Bistro in der Altstadt ausklingen, während der bretonische Regen gegen die Fenster prasselt.",
+            "hu": "Reggel a vár vastag falai között bújunk el a breton eső elől. Délben a Jerzual meredek macskakövein óvatosan ereszkedünk le a kikötőbe, ahol a vörösboros kagyló és a gőzölgő tea melegít fel. Délután a bazilika csendjében várunk, amíg csendesedik a zivápor. Az estét a várfalak alatti kivilágított óvárosban zárjuk egy forró, édes palacsintával.",
+            "ro": "Dimineața ne adăpostim între zidurile masive ale Castelului Dinan. La prânz coborâm cu atenție pe pietrele alunecoase de pe Rue du Jerzual spre port, unde o cidră caldă ne încălzește. După-amiaza, Basilica Saint-Sauveur oferă un refugiu uscat și liniștit. Încheiem ziua într-un bistro primitor din orașul vechi, în timp ce ploaia bretonă bate în ferestre.",
+            "en": "In the morning, we seek shelter within the massive walls of Dinan Castle. At noon, we carefully descend the slippery cobblestones of Rue du Jerzual to the port, where a hot cider warms us up. In the afternoon, the Basilica of Saint-Sauveur provides a dry and peaceful retreat. We end the day in a cozy bistro in the old town while the Breton rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Dinan Castle",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da die Ausstellungen komplett überdacht sind.",
+                "hu": "Tökéletes esőnapra, mivel a kiállítások teljesen fedettek.",
+                "ro": "Perfect pentru zilele ploioase, expozițiile fiind complet acoperite.",
+                "en": "Perfect for rainy days as the exhibitions are completely indoors."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; die Aussicht oben ist auch bei Wolken dramatisch.",
+                "hu": "Vigyázat a lépcsőkön; a kilátás a felhők közül is drámai.",
+                "ro": "Atenție pe trepte; priveliștea de sus este dramatică chiar și cu nori.",
+                "en": "Careful on the steps; the view from the top is dramatic even with clouds."
+              }
+            },
+            {
+              "name": "Basilica of Saint-Sauveur",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer in Ruhe abzuwarten.",
+                "hu": "Ideális hely egy heves zápor nyugodt kivárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse în liniște.",
+                "en": "An ideal place to quietly wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Rue du Jerzual",
+              "tip_5lang": {
+                "de": "Sehr rutschiges Kopfsteinpflaster; nutzen Sie die Handläufe an den Seiten.",
+                "hu": "Nagyon csúszós macskakő; használja az oldalsó kapaszkodókat.",
+                "ro": "Pavaj foarte alunecos; folosiți balustradele de pe margini.",
+                "en": "Very slippery cobblestones; use the handrails on the sides."
+              }
+            },
+            {
+              "name": "Port of Dinan",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf die Rance, um trocken zu bleiben.",
+                "hu": "Válasszon egy Rance-ra néző éttermet, hogy szárazon maradjon.",
+                "ro": "Alegeți un restaurant cu vedere la Rance pentru a rămâne uscați.",
+                "en": "Choose a restaurant with a view of the Rance to stay dry."
+              }
+            },
+            {
+              "name": "Ramparts Walk",
+              "tip_5lang": {
+                "de": "Pfützengefahr; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "Tócsa-veszély; mindenképpen vízálló túracipőt viseljen.",
+                "ro": "Pericol de bălți; purtați neapărat încălțăminte impermeabilă.",
+                "en": "Puddle risk; be sure to wear waterproof walking shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, Schirme sind bei Wind oft nutzlos.",
+              "Die Rue du Jerzual ist bei Nässe extrem rutschig, gehen Sie langsam.",
+              "Nutzen Sie die vielen Kunstgalerien in der Altstadt als Zwischenstopps im Trockenen.",
+              "Die Steinhäuser bieten in den schmalen Gassen oft natürlichen Schutz vor leichtem Niesel."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, az esernyő a szélben gyakran használhatatlan.",
+              "A Rue du Jerzual nedvesen rendkívül csúszós, haladjon lassan.",
+              "Használja az óváros számos művészeti galériáját száraz pihenőpontként.",
+              "A kőházak a szűk utcákban gyakran természetes védelmet nyújtanak a szemerkélő eső ellen."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, umbrelele sunt adesea inutile în vânt.",
+              "Rue du Jerzual este extrem de alunecoasă când este umedă, mergeți încet.",
+              "Folosiți numeroasele galerii de artă din orașul vechi ca puncte de oprire la uscat.",
+              "Casele de piatră din străzile înguste oferă adesea protecție naturală împotriva burniței."
+            ],
+            "en": [
+              "Wear a high-quality raincoat; umbrellas are often useless in the wind.",
+              "Rue du Jerzual is extremely slippery when wet; walk slowly.",
+              "Use the many art galleries in the old town as dry stopover points.",
+              "The stone houses in the narrow streets often provide natural shelter from light drizzle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch auf der Burg, wo der Frost die Zinnen weiß färbt. Mittags wärmen wir uns in einer Crêperie am Hafen mit einer herzhaften Galette auf. Am Nachmittag genießen wir das goldene Licht auf den Stadtmauern, bevor die Sonne früh hinter dem Viadukt versinkt. Abends erstrahlt Dinan in festlicher Beleuchtung, die die mittelalterlichen Fachwerkhäuser in ein magisches Licht taucht.",
+            "hu": "A téli reggel frissen indul a várnál, ahol a dér fehérre festi a bástyákat. Délben a kikötő egyik palacsintázójában melegszünk fel egy tápláló galette-tel. Délután a várfalakon élvezzük az aranyló fényeket, mielőtt a nap korán eltűnik a viadukt mögött. Este Dinan ünnepi díszkivilágításban pompázik, ami mágikus fénybe öltözteti a középkori favázas házakat.",
+            "ro": "Dimineața de iarnă începe proaspăt la castel, unde bruma albește meterezele. La prânz ne încălzim într-o clătitărie din port cu o galetă consistentă. După-amiaza ne bucurăm de lumina aurie de pe zidurile orașului înainte ca soarele să apună devreme după viaduct. Seara, Dinan strălucește în iluminatul festiv, care scaldă casele medievale în lumină magică.",
+            "en": "The winter morning starts fresh at the castle, where frost whitens the battlements. At noon, we warm up in a creperie by the port with a hearty galette. In the afternoon, we enjoy the golden light on the ramparts before the sun sets early behind the viaduct. In the evening, Dinan shines in festive lighting, bathing the medieval half-timbered houses in magical light."
+          },
+          "stops": [
+            {
+              "name": "Dinan Castle",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die zugigen Gänge im Inneren ist ratsam.",
+                "hu": "Meleg ruházat ajánlott a belső huzatos folyosók miatt.",
+                "ro": "Se recomandă îmbrăcăminte călduroasă pentru coridoarele cu curent din interior.",
+                "en": "Warm clothing is recommended for the drafty corridors inside."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Im Winter oft geschlossen; prüfen Sie die Öffnungszeiten vorab.",
+                "hu": "Télen gyakran zárva; előre ellenőrizze a nyitvatartást.",
+                "ro": "Adesea închis iarna; verificați programul de funcționare în avans.",
+                "en": "Often closed in winter; check opening hours in advance."
+              }
+            },
+            {
+              "name": "Basilica of Saint-Sauveur",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für die friedliche Winterstille.",
+                "hu": "Látogassa meg a templomot a békés téli csendért.",
+                "ro": "Vizitați biserica pentru liniștea pașnică de iarnă.",
+                "en": "Visit the church for the peaceful winter silence."
+              }
+            },
+            {
+              "name": "Rue du Jerzual",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Dekoration der kleinen Handwerksläden.",
+                "hu": "Élvezze a kis kézműves boltok karácsonyi dekorációját.",
+                "ro": "Bucurați-vă de decorațiunile de Crăciun ale micilor ateliere artizanale.",
+                "en": "Enjoy the Christmas decorations of the small craft shops."
+              }
+            },
+            {
+              "name": "Port of Dinan",
+              "tip_5lang": {
+                "de": "Der Nebel über der Rance sorgt für eine mystische Atmosphäre.",
+                "hu": "A Rance feletti köd misztikus hangulatot áraszt.",
+                "ro": "Ceața de peste Rance creează o atmosferă mistică.",
+                "en": "The mist over the Rance creates a mystical atmosphere."
+              }
+            },
+            {
+              "name": "Ramparts Walk",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet bereits gegen 17:00 Uhr statt.",
+                "hu": "A naplemente már 17:00 óra körül bekövetkezik.",
+                "ro": "Apusul soarelui are loc deja în jurul orei 17:00.",
+                "en": "The sunset already takes place around 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Aktivitäten im Freien vor 16:30 Uhr ein, da es früh dunkel wird.",
+              "Tragen Sie feste Schuhe mit gutem Profil gegen Reifglätte auf Stein.",
+              "Viele Cafés bieten im Winter 'Vin Chaud' (Glühwein) an – probieren Sie ihn.",
+              "Besuchen Sie das Maison de la Harpe für Indoor-Kultur an kalten Tagen."
+            ],
+            "hu": [
+              "Tervezze a szabadtéri programokat 16:30 előttre, mert korán sötétedik.",
+              "Viseljen jó tapadású talpú cipőt a köveken lévő zúzmara ellen.",
+              "Sok kávézó kínál télen 'Vin Chaud'-t (forralt bort) – érdemes megkóstolni.",
+              "Látogassa meg a Maison de la Harpe-ot beltéri kultúráért a hideg napokon."
+            ],
+            "ro": [
+              "Planificați activitățile în aer liber înainte de ora 16:30, deoarece se întunecă devreme.",
+              "Purtați încălțăminte cu aderență bună împotriva brumei de pe pietre.",
+              "Multe cafenele oferă iarna 'Vin Chaud' (vin fiert) – merită încercat.",
+              "Vizitați Maison de la Harpe pentru cultură la interior în zilele reci."
+            ],
+            "en": [
+              "Plan outdoor activities before 16:30, as it gets dark early.",
+              "Wear shoes with good grip against frost on the stones.",
+              "Many cafes offer 'Vin Chaud' (mulled wine) in winter – it's worth a try.",
+              "Visit the Maison de la Harpe for indoor culture on cold days."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -559,6 +995,358 @@
           "The climb from the port back to town is very steep.",
           "Take enough water with you."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet die Geschichte von Dinan mit der Natur der Rance. Nach einer Erkundung der Oberstadt fahren Sie hinunter zum Hafen und folgen dem flachen Treppelweg zum malerischen Dorf Léhon. Dort besichtigen Sie die Abtei und die mittelalterliche Brücke. Am Nachmittag radeln Sie weiter entlang des Flusses, bevor Sie über das beeindruckende Viadukt nach Dinan zurückkehren.",
+            "hu": "Ez a kerékpártúra ötvözi Dinan történelmét a Rance természetével. A felsőváros felfedezése után legurul a kikötőbe, és a lapos vontatóutat követve eljut Léhon festői falujába. Itt megtekinti az apátságot és a középkori hidat. Délután a folyó mentén teker tovább, majd a lenyűgöző viadukton keresztül tér vissza Dinanba.",
+            "ro": "Acest tur cu bicicleta combină istoria orașului Dinan cu natura de pe Rance. După explorarea orașului de sus, coborâți în port și urmați drumul de halaj până în satul pitoresc Léhon. Acolo vizitați abația și podul medieval. După-amiaza pedalați de-a lungul râului, înainte de a reveni în Dinan traversând viaductul impresionant.",
+            "en": "This bike tour combines the history of Dinan with the nature of the Rance. After exploring the upper town, ride down to the port and follow the flat towpath to the picturesque village of Léhon. There, visit the abbey and the medieval bridge. In the afternoon, cycle further along the river before returning to Dinan via the impressive viaduct."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadtzentrum Dinan",
+                "hu": "Dinan belváros",
+                "ro": "Centrul vechi Dinan",
+                "en": "Dinan Old Town"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen Gassen.",
+                "hu": "A szűk utcákban tolja a biciklit.",
+                "ro": "Împingeți bicicleta pe străzile înguste.",
+                "en": "Push your bike in the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Dinan",
+                "hu": "Dinani kikötő",
+                "ro": "Portul din Dinan",
+                "en": "Port of Dinan"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für den Treppelweg entlang der Rance.",
+                "hu": "A Rance menti vontatóút kezdőpontja.",
+                "ro": "Punctul de plecare pentru drumul de halaj de pe Rance.",
+                "en": "Starting point for the towpath along the Rance."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Saint-Magloire de Léhon",
+                "hu": "Léhoni apátság",
+                "ro": "Abatia Saint-Magloire de Léhon",
+                "en": "Abbey of Léhon"
+              },
+              "tip_5lang": {
+                "de": "Ein 'Petite Cité de Caractère' nur 2 km entfernt.",
+                "hu": "Egy bájos kisváros mindössze 2 km-re.",
+                "ro": "Un oraș de caracter la doar 2 km distanță.",
+                "en": "A charming small town just 2km away."
+              }
+            },
+            {
+              "name": {
+                "de": "Rance Treppelweg (Treizain)",
+                "hu": "Rance vontatóút",
+                "ro": "Drumul de halaj Rance",
+                "en": "Rance Towpath"
+              },
+              "tip_5lang": {
+                "de": "Flach und perfekt für entspanntes Radfahren.",
+                "hu": "Lapos és tökéletes a pihentető tekeréshez.",
+                "ro": "Plan și perfect pentru ciclism relaxat.",
+                "en": "Flat and perfect for relaxed cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt von Dinan",
+                "hu": "Dinani viadukt",
+                "ro": "Viaductul din Dinan",
+                "en": "Dinan Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von oben auf den Hafen.",
+                "hu": "Élvezze a fentről nyíló kilátást a kikötőre.",
+                "ro": "Bucurați-vă de vederea de sus asupra portului.",
+                "en": "Enjoy the view from the top overlooking the port."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie du Port",
+                "tip": "Perfekt für eine Pause am Wasser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie du Port",
+                "tip": "Tökéletes pihenőhely a vízparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie du Port",
+                "tip": "Perfect pentru o pauză pe malul apei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie du Port",
+                "tip": "Perfect for a break by the water."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Léhon Brücke",
+                "tip": "Idyllischer Ort zum Verweilen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Léhoni híd",
+                "tip": "Idilli hely a megálláshoz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podul din Léhon",
+                "tip": "Loc idilic pentru relaxare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Léhon Bridge",
+                "tip": "Idyllic spot to linger.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Biscuiterie de Dinan",
+                "tip": "Bretonische Kekse für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biscuiterie de Dinan",
+                "tip": "Breton kekszek az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscuiterie de Dinan",
+                "tip": "Biscuiți bretoni pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Biscuiterie de Dinan",
+                "tip": "Breton biscuits for the road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie Fahrräder direkt am Hafen.",
+              "Der Treppelweg ist am Wochenende oft belebt, fahren Sie vorsichtig.",
+              "Die Auffahrt vom Hafen in die Stadt ist sehr steil.",
+              "Nehmen Sie ausreichend Wasser mit."
+            ],
+            "hu": [
+              "Béreljen kerékpárt közvetlenül a kikötőben.",
+              "A vontatóút hétvégén zsúfolt lehet, tekerjen óvatosan.",
+              "A kikötőből a városba vezető út nagyon meredek.",
+              "Vigyen magával elegendő vizet."
+            ],
+            "ro": [
+              "Închiriați biciclete direct din port.",
+              "Drumul de halaj este aglomerat în weekend, pedalați cu grijă.",
+              "Urcarea din port spre oraș este foarte abruptă.",
+              "Luați suficientă apă cu voi."
+            ],
+            "en": [
+              "Rent bikes directly at the port.",
+              "The towpath can be busy on weekends, ride carefully.",
+              "The climb from the port back to town is very steep.",
+              "Take enough water with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour durch das nasse Dinan beginnt in der Altstadt, wo wir auf den Steinen achtsam fahren. Mittags bietet der Hafen eine willkommene Pause im Trockenen. Der Weg zur Abtei Léhon ist malerisch, kann aber schlammig sein. Nachmittags folgen wir der Rance und kehren schließlich über das beeindruckende Viadukt zurück, wobei der Wind die Regentropfen aufwirbelt.",
+            "hu": "Kerékpártúránk a vizes Dinanban az óvárosból indul, ahol óvatosan manőverezünk a köveken. Délben a kikötő kínál szívesen látott pihenőt a szárazon. A léhoni apátsághoz vezető út festői, de sáros lehet. Délután a Rance folyót követjük, majd a lenyűgöző viadukton keresztül térünk vissza, miközben a szél felkavarja az esőcseppeket.",
+            "ro": "Turul nostru cu bicicleta prin Dinan-ul umed începe în orașul vechi, unde manevrăm cu atenție pe pietre. La prânz, portul oferă o pauză binevenită la uscat. Drumul spre Abadia Léhon este pitoresc, dar poate fi noroios. După-amiaza urmăm Rance și ne întoarcem pe viaductul impresionant, în timp ce vântul spulberă picăturile de ploaie.",
+            "en": "Our bike tour through wet Dinan starts in the old town, where we navigate carefully on the stones. At noon, the port offers a welcome break in the dry. The path to Léhon Abbey is scenic but can be muddy. In the afternoon, we follow the Rance and return via the impressive viaduct, while the wind whips up the raindrops."
+          },
+          "stops": [
+            {
+              "name": "Dinan Old Town",
+              "tip_5lang": {
+                "de": "Bremsen Sie auf nassem Kopfsteinpflaster sehr vorsichtig.",
+                "hu": "Nagyon óvatosan fékezzen a nedves macskakövön.",
+                "ro": "Frânați foarte cu grijă pe pavajul umed.",
+                "en": "Brake very carefully on wet cobblestones."
+              }
+            },
+            {
+              "name": "Port of Dinan",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind hier schwer zu finden; nutzen Sie Vordächer.",
+                "hu": "Fedett biciklitárolót nehéz itt találni; használja az ereszeket.",
+                "ro": "Rafturile de biciclete acoperite sunt greu de găsit aici; folosiți streșinile.",
+                "en": "Covered bike racks are hard to find here; use overhangs."
+              }
+            },
+            {
+              "name": "Abbey of Léhon",
+              "tip_5lang": {
+                "de": "Die Innenhöfe bieten guten Schutz vor plötzlichen Schauern.",
+                "hu": "A belső udvarok jó védelmet nyújtanak a hirtelen záporok ellen.",
+                "ro": "Curțile interioare oferă protecție bună împotriva averselor bruște.",
+                "en": "The inner courtyards provide good protection from sudden showers."
+              }
+            },
+            {
+              "name": "Rance Towpath",
+              "tip_5lang": {
+                "de": "Achtung, der Weg kann bei Dauerregen rutschig und aufgeweicht sein.",
+                "hu": "Vigyázat, az út tartós esőben csúszós és felázott lehet.",
+                "ro": "Atenție, drumul poate fi alunecos și moale în caz de ploaie continuă.",
+                "en": "Caution, the path can be slippery and soft during continuous rain."
+              }
+            },
+            {
+              "name": "Dinan Viaduct",
+              "tip_5lang": {
+                "de": "Starker Seitenwind bei Regen; halten Sie den Lenker fest.",
+                "hu": "Erős oldalszél esőben; tartsa erősen a kormányt.",
+                "ro": "Vânt lateral puternic pe ploaie; țineți bine ghidonul.",
+                "en": "Strong crosswinds in the rain; hold the handlebars firmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Überschuhe, um die Füße trocken zu halten.",
+              "Verringern Sie den Reifendruck minimal für bessere Haftung auf nassen Steinen.",
+              "Vermeiden Sie markierte Linien auf der Straße, da diese extrem glatt werden.",
+              "Ein Schutzblech ist bei Fahrten am Flussufer unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló kamáslit, hogy lábai szárazon maradjanak.",
+              "Kissé csökkentse a gumiabonyomást a jobb tapadásért a nedves köveken.",
+              "Kerülje az útburkolati jeleket, mert azok rendkívül csúszóssá válnak.",
+              "A sárvédő elengedhetetlen a folyóparti tekeréshez."
+            ],
+            "ro": [
+              "Purtați huse impermeabile pentru încălțăminte ca să vă mențineți picioarele uscate.",
+              "Reduceți minim presiunea în anvelope pentru o mai bună aderență pe pietre umede.",
+              "Evitați marcajele rutiere, deoarece devin extrem de alunecoase.",
+              "Aripa de protecție este esențială pentru plimbările pe malul râului."
+            ],
+            "en": [
+              "Wear waterproof shoe covers to keep your feet dry.",
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Avoid road markings as they become extremely slippery.",
+              "A mudguard is essential for rides along the riverbank."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die stillen Gassen der Altstadt. Die kalte Luft am Hafen ist erfrischend, während wir nach Léhon radeln, wo die alte Abtei im Frost glänzt. Am Nachmittag ist der Treppelweg an der Rance einsam und friedlich. Der Rückweg über das Viadukt bietet einen weiten Blick auf das winterlich graue Tal, bevor wir uns bei einem warmen Getränk aufwärmen.",
+            "hu": "A téli kerékpártúra az óváros csendes utcáin vezet keresztül. A kikötő hideg levegője frissítő, miközben Léhon felé tekerünk, ahol a régi apátság fénylik a zúzmarában. Délután a Rance menti vontatóút magányos és békés. A viadukton átvezető út tágas kilátást nyújt a téli szürke völgyre, mielőtt egy meleg ital mellett felmelegednénk.",
+            "ro": "Turul cu bicicleta de iarnă ne poartă prin străzile liniștite ale orașului vechi. Aerul rece din port este revigorant în timp ce pedalăm spre Léhon, unde vechea abadia strălucește în brumă. După-amiaza, drumul de tractare de pe Rance este singuratic și liniștit. Întoarcerea pe viaduct oferă o vedere largă asupra văii cenușii de iarnă înainte de a ne încălzi cu o băutură caldă.",
+            "en": "The winter bike tour takes us through the quiet streets of the old town. The cold air at the port is refreshing as we cycle to Léhon, where the old abbey shines in the frost. In the afternoon, the Rance towpath is lonely and peaceful. The return journey via the viaduct offers a wide view of the wintry gray valley before we warm up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Dinan Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Tau in den schattigen Gassen.",
+                "hu": "Vigyázat a fagyott pára miatt az árnyékos utcákban.",
+                "ro": "Atenție la roua înghețată în străzile umbrite.",
+                "en": "Watch out for frozen dew in the shaded streets."
+              }
+            },
+            {
+              "name": "Port of Dinan",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee im Freien ist nur mit Decke zu empfehlen.",
+                "hu": "A szabadban kávézni csak takaróval ajánlott.",
+                "ro": "O cafea fierbinte în aer liber este recomandată doar cu pătură.",
+                "en": "A hot coffee outdoors is only recommended with a blanket."
+              }
+            },
+            {
+              "name": "Abbey of Léhon",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten, die im Winter eine eigene Melancholie ausstrahlen.",
+                "hu": "Látogassa meg a kerteket, amelyek télen sajátos melankóliát árasztanak.",
+                "ro": "Vizitați grădinile care emană o melancolie proprie iarna.",
+                "en": "Visit the gardens, which radiate their own melancholy in winter."
+              }
+            },
+            {
+              "name": "Rance Towpath",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des Fahrtwinds am Fluss Pflicht.",
+                "hu": "A meleg kesztyű a folyó menti menetszél miatt kötelező.",
+                "ro": "Mănușile călduroase sunt obligatorii din cauza vântului de pe râu.",
+                "en": "Warm gloves are mandatory because of the wind along the river."
+              }
+            },
+            {
+              "name": "Dinan Viaduct",
+              "tip_5lang": {
+                "de": "Der Boden kann hier oben durch den Wind besonders schnell gefrieren.",
+                "hu": "A talaj itt fent a szél miatt különösen gyorsan lefagyhat.",
+                "ro": "Solul de aici se poate îngheța foarte repede din cauza vântului.",
+                "en": "The ground up here can freeze particularly quickly due to the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Zwiebelprinzip bei der Kleidung; es wird schnell kalt am Fluss.",
+              "Überprüfen Sie Ihre Beleuchtung, da es oft neblig und früh dunkel ist.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee mit.",
+              "Die Rance-Uferwege sind im Winter oft windig, schützen Sie Ihr Gesicht."
+            ],
+            "hu": [
+              "Használja a réteges öltözködést; a folyónál gyorsan lehűl az idő.",
+              "Ellenőrizze a világítást, mert gyakran ködös és korán sötétedik.",
+              "Vigyen magával termoszban forró teát.",
+              "A Rance partja télen gyakran szeles, védje az arcát."
+            ],
+            "ro": [
+              "Folosiți principiul straturilor pentru îmbrăcăminte; se face repede frig la râu.",
+              "Verificați iluminarea, deoarece este adesea ceață și se întunecă devreme.",
+              "Luați un termos cu ceai fierbinte.",
+              "Malurile Rance sunt adesea vântoase iarna, protejați-vă fața."
+            ],
+            "en": [
+              "Use layers for clothing; it gets cold quickly by the river.",
+              "Check your lighting, as it is often misty and gets dark early.",
+              "Take a thermos with hot tea with you.",
+              "The Rance banks are often windy in winter; protect your face."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1586,358 @@
           "Some sights close during lunchtime.",
           "Check the opening hours for La Hunaudaye."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie nicht nur Dinan, sondern auch die Umgebung. Nach dem Vormittag in der Altstadt fahren Sie ins nahegelegene Léhon. Nach einem Mittagessen am Hafen von Dinan führt die Fahrt zur majestätischen Ruine von La Hunaudaye, einer echten Ritterburg. Zum Abschluss kehren Sie nach Dinan zurück, um den Tag auf den Stadtmauern ausklingen zu lassen.",
+            "hu": "Autóval nemcsak Dinant, hanem a környékét is felfedezi. Az óvárosi délelőtt után a közeli Léhonba látogat. A dinani kikötőben elköltött ebéd után az út a fenséges La Hunaudaye várromhoz vezet, amely egy valódi lovagvár. Végezetül visszatér Dinanba, hogy a napot a várfalakon zárja.",
+            "ro": "Cu mașina explorați nu doar Dinan, ci și împrejurimile. După dimineața în orașul vechi, conduceți spre Léhon. După un prânz în portul Dinan, drumul vă duce la ruinele maiestuoase de la La Hunaudaye, un adevărat castel cavaleresc. La final, reveniți în Dinan pentru a încheia ziua pe zidurile cetății.",
+            "en": "By car, you explore not only Dinan but also its surroundings. After a morning in the old town, drive to nearby Léhon. After lunch at the port of Dinan, the trip leads to the majestic ruins of La Hunaudaye, a true knight's castle. Finally, return to Dinan to end the day on the ramparts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Dinan",
+                "hu": "Dinan óváros",
+                "ro": "Centrul vechi Dinan",
+                "en": "Dinan Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Place Duguesclin.",
+                "hu": "Parkoljon a Place Duguesclin téren.",
+                "ro": "Parcați în Place Duguesclin.",
+                "en": "Park at Place Duguesclin."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite Cité de Léhon",
+                "hu": "Léhon kisvárosa",
+                "ro": "Micul oraș Léhon",
+                "en": "Small town of Léhon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Klostergärten.",
+                "hu": "Látogassa meg a kolostorkertet.",
+                "ro": "Vizitați grădinile mănăstirii.",
+                "en": "Visit the monastery gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Dinan (Mittagessen)",
+                "hu": "Dinani kikötő (ebéd)",
+                "ro": "Portul Dinan (prânz)",
+                "en": "Port of Dinan (Lunch)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Steinbrücke.",
+                "hu": "Élvezze a kilátást a kőhídra.",
+                "ro": "Bucurați-vă de vederea spre podul de piatră.",
+                "en": "Enjoy the view of the stone bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss La Hunaudaye",
+                "hu": "La Hunaudaye vára",
+                "ro": "Castelul La Hunaudaye",
+                "en": "La Hunaudaye Castle"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Burgruine im Wald.",
+                "hu": "Lenyűgöző várrom az erdőben.",
+                "ro": "Ruine impresionante de castel în pădure.",
+                "en": "Impressive castle ruins in the forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramparts Panorama",
+                "hu": "Várfal panoráma",
+                "ro": "Panorama zidurilor",
+                "en": "Ramparts Panorama"
+              },
+              "tip_5lang": {
+                "de": "Letzter Blick über die Dächer von Dinan.",
+                "hu": "Utolsó pillantás Dinan háztetőire.",
+                "ro": "O ultimă privire peste acoperișurile din Dinan.",
+                "en": "A final look over the rooftops of Dinan."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant La Courtine",
+                "tip": "Gehobene Küche in historischem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant La Courtine",
+                "tip": "Elegáns konyha történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant La Courtine",
+                "tip": "Bucătărie rafinată într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant La Courtine",
+                "tip": "Fine dining in a historical atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Forêt de Coëtquen",
+                "tip": "Ruhiger Wald in der Nähe von La Hunaudaye.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coëtquen erdő",
+                "tip": "Csendes erdő La Hunaudaye közelében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea Coëtquen",
+                "tip": "Pădure liniștită lângă La Hunaudaye.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coëtquen Forest",
+                "tip": "Quiet forest near La Hunaudaye.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Le Local",
+                "tip": "Shop für regionale Produkte (Salz, Cidre)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Local",
+                "tip": "Regionális termékek boltja (só, cidre)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Local",
+                "tip": "Magazin cu produse regionale (sare, cidru)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Local",
+                "tip": "Shop for regional products (salt, cider)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkplätze im Zentrum sind schnell voll, kommen Sie früh.",
+              "Die Landstraßen in der Bretagne sind eng aber landschaftlich schön.",
+              "Einige Sehenswürdigkeiten schließen über Mittag.",
+              "Prüfen Sie die Öffnungszeiten von La Hunaudaye."
+            ],
+            "hu": [
+              "A központi parkolók gyorsan megtelnek, érkezzen korán.",
+              "A breton országutak szűkek, de látványosak.",
+              "Néhány látnivaló bezár ebédidőben.",
+              "Ellenőrizze La Hunaudaye nyitvatartását."
+            ],
+            "ro": [
+              "Parcările centrale se umplu repede, veniți devreme.",
+              "Drumurile județene din Bretania sunt înguste, dar pitorești.",
+              "Unele obiective se închid la prânz.",
+              "Verificați programul de vizitare la La Hunaudaye."
+            ],
+            "en": [
+              "Central parking fills up quickly, arrive early.",
+              "Breton country roads are narrow but scenic.",
+              "Some sights close during lunchtime.",
+              "Check the opening hours for La Hunaudaye."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Regen bietet das Auto den perfekten Komfort, um Dinan und Umgebung zu erkunden. Morgens schlendern wir kurz durch die Altstadt, bevor wir nach Léhon fahren. Nach einem Mittagessen am Hafen machen wir einen Ausflug zum Château de la Hunaudaye, das im Regen besonders mystisch wirkt. Den Tag beenden wir mit einem Panoramablick von den Stadtmauern, geschützt durch die Wärme des Wagens.",
+            "hu": "Esőben az autó tökéletes kényelmet nyújt Dinan és környéke felfedezéséhez. Reggel rövid sétát teszünk az óvárosban, mielőtt Léhonba hajtanánk. A kikötői ebéd után kirándulást teszünk a La Hunaudaye kastélyhoz, amely az esőben különösen misztikusnak hat. A napot a várfalaknál zárjuk panorámával, az autó melegéből élvezve a kilátást.",
+            "ro": "Pe ploaie, mașina oferă confortul perfect pentru a explora Dinan și împrejurimile. Dimineața ne plimbăm scurt prin orașul vechi înainte de a conduce spre Léhon. După un prânz în port, facem o excursie la Castelul La Hunaudaye, care pare deosebit de mistic în ploaie. Încheiem ziua cu o vedere panoramică de pe zidurile orașului, protejați de căldura mașinii.",
+            "en": "In the rain, the car provides perfect comfort for exploring Dinan and its surroundings. In the morning, we take a short stroll through the old town before driving to Léhon. After lunch at the port, we take a trip to La Hunaudaye Castle, which looks particularly mystical in the rain. We end the day with a panoramic view from the ramparts, protected by the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Dinan Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Centre Historique' für einen trockenen Start.",
+                "hu": "Használja a 'Centre Historique' parkolóházat a száraz kezdéshez.",
+                "ro": "Folosiți parcarea 'Centre Historique' pentru un început uscat.",
+                "en": "Use the 'Centre Historique' parking garage for a dry start."
+              }
+            },
+            {
+              "name": "Small town of Léhon",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Abtei, um Laufwege im Regen zu minimieren.",
+                "hu": "Parkoljon közvetlenül az apátságnál, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați direct la abadia pentru a minimiza mersul pe jos în ploaie.",
+                "en": "Park directly at the abbey to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Port of Dinan (Lunch)",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Kai, ideal bei schlechtem Wetter.",
+                "hu": "Közvetlenül a rakparton vannak parkolók, ideális rossz időben.",
+                "ro": "Există locuri de parcare direct pe chei, ideale pe vreme rea.",
+                "en": "There are parking spaces directly on the quay, ideal in bad weather."
+              }
+            },
+            {
+              "name": "La Hunaudaye Castle",
+              "tip_5lang": {
+                "de": "Die Burgruine ist teils offen; ein Schirm ist trotz Auto nützlich.",
+                "hu": "A várrom részben nyitott; az autó ellenére egy esernyő hasznos.",
+                "ro": "Ruina castelului este parțial deschisă; o umbrelă este utilă în ciuda mașinii.",
+                "en": "The castle ruins are partly open; an umbrella is useful despite the car."
+              }
+            },
+            {
+              "name": "Ramparts Panorama",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei Regen direkt aus dem geparkten Auto.",
+                "hu": "Élvezze a kilátást esőben közvetlenül a parkoló autóból.",
+                "ro": "Bucurați-vă de vedere pe ploaie direct din mașina parcată.",
+                "en": "Enjoy the view in the rain directly from the parked car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen zur Hunaudaye können bei Regen rutschig sein; fahren Sie vorsichtig.",
+              "Nutzen Sie die Parkplätze am Port de Dinan für direkten Zugang zum Restaurant.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach kurzen Spaziergängen abzutrocknen.",
+              "Die Sicht am Panorama-Punkt ist auch durch die Windschutzscheibe beeindruckend."
+            ],
+            "hu": [
+              "A Hunaudaye felé vezető utak esőben csúszósak lehetnek; vezessen óvatosan.",
+              "Használja a Port de Dinan parkolóit a közvetlen éttermi hozzáféréshez.",
+              "Tartson törölközőt az autóban, hogy szárazra törölközhessen a rövid séták után.",
+              "A panorámapontnál a kilátás a szélvédőn keresztül is lenyűgöző."
+            ],
+            "ro": [
+              "Drumurile spre Hunaudaye pot fi alunecoase pe ploaie; conduceți cu atenție.",
+              "Folosiți parcările de la Port de Dinan pentru acces direct la restaurante.",
+              "Țineți un prosop în mașină pentru a vă usca după plimbările scurte.",
+              "Vederea din punctul panoramic este impresionantă chiar și prin parbriz."
+            ],
+            "en": [
+              "The roads to Hunaudaye can be slippery in the rain; drive carefully.",
+              "Use the parking lots at Port de Dinan for direct restaurant access.",
+              "Keep a towel in the car to dry off after short walks.",
+              "The view at the panorama point is impressive even through the windshield."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die Bretagne zeigt Dinan von seiner ruhigsten Seite. Die frostige Altstadt ist am Morgen fast leer. In Léhon bewundern wir die kahlen Bäume an der Rance, bevor wir im Hafen zu Mittag essen. Die Fahrt zur Hunaudaye führt durch verschlafene Dörfer. Zum Abschluss genießen wir das frühe Abendlicht über der Stadt, während die Heizung im Auto für wohlige Wärme sorgt.",
+            "hu": "A téli autózás Bretagne-ban Dinan legnyugodtabb arcát mutatja. A fagyos óváros reggel szinte üres. Léhonban a Rance menti kopasz fákat csodáljuk, mielőtt a kikötőben ebédelnénk. A Hunaudaye felé vezető út álmos falvakon visz keresztül. Befejezésül a város feletti kora esti fényeket élvezzük, miközben az autó fűtése kellemes meleget ad.",
+            "ro": "O călătorie cu mașina pe timp de iarnă prin Bretania arată Dinan în cea mai liniștită formă. Orașul vechi înghețat este aproape gol dimineața. În Léhon admirăm copacii golași de pe Rance înainte de a prânzi în port. Drumul spre Hunaudaye trece prin sate somnoroase. La final, ne bucurăm de lumina serii devreme deasupra orașului, în timp ce căldura din mașină oferă confort.",
+            "en": "A winter car journey through Brittany shows Dinan at its quietest. The frosty old town is almost empty in the morning. In Léhon, we admire the bare trees along the Rance before having lunch at the port. The drive to Hunaudaye takes us through sleepy villages. To finish, we enjoy the early evening light over the city while the car's heater provides cozy warmth."
+          },
+          "stops": [
+            {
+              "name": "Dinan Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den kopfsteingepflasterten Parkbuchten.",
+                "hu": "Ügyeljen a jegesedésre a macskaköves parkolóhelyeken.",
+                "ro": "Atenție la polei în locurile de parcare pavate.",
+                "en": "Watch out for black ice in the cobblestone parking bays."
+              }
+            },
+            {
+              "name": "Small town of Léhon",
+              "tip_5lang": {
+                "de": "Die kleine Brücke in Léhon kann im Winter rutschig sein.",
+                "hu": "Léhon kis hídja télen csúszós lehet.",
+                "ro": "Podul mic din Léhon poate fi alunecos iarna.",
+                "en": "The small bridge in Léhon can be slippery in winter."
+              }
+            },
+            {
+              "name": "Port of Dinan (Lunch)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Kamin für das echte Wintergefühl.",
+                "hu": "Válasszon kandallós éttermet az igazi téli hangulathoz.",
+                "ro": "Alegeți un restaurant cu șemineu pentru o senzație veritabilă de iarnă.",
+                "en": "Choose a restaurant with a fireplace for that true winter feeling."
+              }
+            },
+            {
+              "name": "La Hunaudaye Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winter-Öffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidített.",
+                "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
+                "en": "Check winter opening hours as they are often shortened."
+              }
+            },
+            {
+              "name": "Ramparts Panorama",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung beginnt im Winter bereits gegen 17 Uhr.",
+                "hu": "Az alkonyat télen már 17 óra körül elkezdődik.",
+                "ro": "Amurgul începe iarna deja în jurul orei 17.",
+                "en": "Twilight starts around 5 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer mit, da es nachts oft Frost gibt.",
+              "Die Landstraßen zur Hunaudaye können bei Nebel tückisch sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Etappen zwischen den Stopps.",
+              "Stellen Sie sicher, dass das Wischwasser Frostschutzmittel enthält."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót, mert éjszaka gyakran fagy.",
+              "A Hunaudaye felé vezető országutak ködben trükkösek lehetnek.",
+              "Használja az ülésfűtést a megállók közötti rövid szakaszokon.",
+              "Győződjön meg róla, hogy az ablakmosó folyadék tartalmaz fagyállót."
+            ],
+            "ro": [
+              "Luați o racletă pentru gheață, deoarece îngheață adesea noaptea.",
+              "Drumurile spre Hunaudaye pot fi înșelătoare în caz de ceață.",
+              "Folosiți încălzirea în scaune pentru etapele scurte dintre opriri.",
+              "Asigurați-vă că lichidul de spălare a parbrizului conține antigel."
+            ],
+            "en": [
+              "Carry an ice scraper, as there is often frost at night.",
+              "The country roads to Hunaudaye can be tricky in fog.",
+              "Use the seat heating for the short stages between stops.",
+              "Ensure the windshield washer fluid contains antifreeze."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1037,34 +2177,359 @@
           "Buses run less frequently on Sundays.",
           "Validate your ticket upon boarding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr ist Dinan leicht zu erkunden. Vom Bahnhof gelangen Sie schnell zum Place Duguesclin, dem Herz der Stadt. Nach dem Besuch der Kirche Saint-Malo bringt Sie der lokale Dinibus bequem hinunter zum Hafen und später wieder hinauf, was Ihnen den steilen Fußweg erspart. Den Nachmittag verbringen Sie mit Shopping und Entspannung in den Gassen des Zentrums.",
+            "hu": "Tömegközlekedéssel Dinan könnyen felfedezhető. A vasútállomástól gyorsan eljut a Place Duguesclin térre, a város szívébe. A Szent Malo-templom megtekintése után a helyi Dinibusz kényelmesen leviszi a kikötőbe, majd később vissza is hozza, megkímélve Önt a meredek gyalogúttól. A délutánt vásárlással és pihenéssel tölti a központ utcáin.",
+            "ro": "Dinan este ușor de explorat cu transportul public. De la gară ajungeți rapid în Place Duguesclin, inima orașului. După vizitarea bisericii Saint-Malo, autobuzul local Dinibus vă duce confortabil în port și vă aduce înapoi, scutindu-vă de urcarea abruptă. Petreceți după-amiaza la cumpărături și relaxare pe străzile centrale.",
+            "en": "Dinan is easy to explore by public transport. From the train station, you quickly reach Place Duguesclin, the heart of the city. After visiting Saint-Malo Church, the local Dinibus takes you comfortably down to the port and back up later, saving you from the steep walk. Spend the afternoon shopping and relaxing in the central streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Dinan",
+                "hu": "Dinani vasútállomás",
+                "ro": "Gara Dinan",
+                "en": "Dinan Train Station"
+              },
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude ist architektonisch interessant.",
+                "hu": "Az állomás épülete építészetileg is érdekes.",
+                "ro": "Clădirea gării este interesantă arhitectural.",
+                "en": "The station building is architecturally interesting."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Duguesclin",
+                "hu": "Place Duguesclin",
+                "ro": "Place Duguesclin",
+                "en": "Place Duguesclin"
+              },
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für lokale Busse.",
+                "hu": "A helyi buszok központi csomópontja.",
+                "ro": "Nodul central pentru autobuzele locale.",
+                "en": "The central hub for local buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Saint-Malo",
+                "hu": "Szent Malo-templom",
+                "ro": "Biserica Saint-Malo",
+                "en": "Saint-Malo Church"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Buntglasfenster.",
+                "hu": "Gyönyörű ólomüveg ablakok.",
+                "ro": "Vitralii superbe.",
+                "en": "Beautiful stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen (via Dinibus)",
+                "hu": "Kikötő (Dinibusszal)",
+                "ro": "Port (via Dinibus)",
+                "en": "Port (via Dinibus)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Dinibus, um den steilen Jerzual zu vermeiden.",
+                "hu": "Használja a Dinibuszt, hogy elkerülje a meredek Jerzualt.",
+                "ro": "Folosiți Dinibus pentru a evita panta abruptă Jerzual.",
+                "en": "Use the Dinibus to avoid the steep Jerzual climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum / Shopping",
+                "hu": "Központ / Vásárlás",
+                "ro": "Centru / Cumpărături",
+                "en": "Center / Shopping"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die kleinen Boutiquen im Zentrum.",
+                "hu": "Fedezze fel a központ kis butikjait.",
+                "ro": "Descoperiți micile buticuri din centru.",
+                "en": "Explore the small boutiques in the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Glacier",
+                "tip": "Hausgemachtes Eis am Place Duguesclin."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Glacier",
+                "tip": "Házias fagylalt a Place Duguesclin téren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Glacier",
+                "tip": "Înghețată artizanală în Place Duguesclin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Glacier",
+                "tip": "Homemade ice cream at Place Duguesclin."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Place Saint-Sauveur",
+                "tip": "Gemütlicher Platz mit Cafés.",
+                "emoji": "☕"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Place Saint-Sauveur",
+                "tip": "Hangulatos tér kávézókkal.",
+                "emoji": "☕"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Place Saint-Sauveur",
+                "tip": "Piață primitoare cu cafenele.",
+                "emoji": "☕"
+              }
+            ],
+            "en": [
+              {
+                "name": "Place Saint-Sauveur",
+                "tip": "Cosy square with cafes.",
+                "emoji": "☕"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue de l'Apport",
+                "tip": "Klassische bretonische Kleidung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue de l'Apport",
+                "tip": "Klasszikus breton ruházat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue de l'Apport",
+                "tip": "Haine clasice bretone."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue de l'Apport",
+                "tip": "Classic Breton clothing."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Dinibus ist im Stadtzentrum kostenlos.",
+              "Prüfen Sie den Fahrplan für die Rückfahrt zum Bahnhof.",
+              "Die Busse fahren seltener an Sonntagen.",
+              "Entwerten Sie Ihr Ticket direkt beim Einstieg."
+            ],
+            "hu": [
+              "A Dinibusz a városközpontban ingyenes.",
+              "Ellenőrizze a vasútállomásra induló járatok menetrendjét.",
+              "Vasárnap ritkábban járnak a buszok.",
+              "Érvényesítse jegyét felszálláskor."
+            ],
+            "ro": [
+              "Dinibus este gratuit în centrul orașului.",
+              "Verificați orarul pentru întoarcerea la gară.",
+              "Autobuzele circulă mai rar duminica.",
+              "Validați biletul imediat la urcare."
+            ],
+            "en": [
+              "The Dinibus is free within the city center.",
+              "Check the schedule for return trips to the station.",
+              "Buses run less frequently on Sundays.",
+              "Validate your ticket upon boarding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr bleiben wir in Dinan weitgehend trocken. Vom Bahnhof nehmen wir den Bus zum Place Duguesclin. Mittags nutzen wir den Dinibus, um ohne nass zu werden zum Hafen hinunterzufahren. Den Nachmittag verbringen wir in den überdachten Passagen im Zentrum beim Shoppen. Abends bringt uns der Bus bequem zurück zum Bahnhof, während draußen der Regen fällt.",
+            "hu": "A tömegközlekedéssel Dinanban nagyrészt szárazon maradhatunk. A vasútállomástól busszal megyünk a Place Duguesclin-re. Délben a Dinibust használjuk, hogy ázás nélkül jussunk le a kikötőbe. A délutánt a központ fedett passzázsaiban töltjük vásárlással. Este a busz kényelmesen visszavisz az állomásra, miközalatt odakint esik az eső.",
+            "ro": "Cu transportul public din Dinan rămânem în mare parte uscați. De la gară luăm autobuzul până la Place Duguesclin. La prânz folosim Dinibus pentru a coborî în port fără a ne uda. După-amiaza o petrecem în pasajele acoperite din centru la cumpărături. Seara, autobuzul ne duce confortabil înapoi la gară, în timp ce afară plouă.",
+            "en": "With public transport in Dinan, we stay largely dry. From the station, we take the bus to Place Duguesclin. At noon, we use the Dinibus to go down to the port without getting wet. We spend the afternoon shopping in the covered passages in the center. In the evening, the bus takes us comfortably back to the station while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Dinan Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Anschlussbus.",
+                "hu": "Várjon a csatlakozó buszra a vasútállomás csarnokában.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait for the connecting bus in the station hall."
+              }
+            },
+            {
+              "name": "Place Duguesclin",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier bieten guten Wetterschutz.",
+                "hu": "Az itteni buszmegállók jó időjárás-védelmet nyújtanak.",
+                "ro": "Stațiile de autobuz de aici oferă o protecție bună împotriva intemperiilor.",
+                "en": "The bus stops here offer good weather protection."
+              }
+            },
+            {
+              "name": "Saint-Malo Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Busstopp zum Kircheneingang.",
+                "hu": "Csak egy rövid sprint a buszmegállótól a templom bejáratáig.",
+                "ro": "Doar un sprint scurt de la stația de autobuz până la intrarea în biserică.",
+                "en": "Only a short sprint from the bus stop to the church entrance."
+              }
+            },
+            {
+              "name": "Port (via Dinibus)",
+              "tip_5lang": {
+                "de": "Der Dinibus ist die beste Option, um den steilen Hügel trocken zu meistern.",
+                "hu": "A Dinibus a legjobb opció a meredek domb száraz leküzdéséhez.",
+                "ro": "Dinibus este cea mai bună opțiune pentru a urca dealul abrupt fără a te uda.",
+                "en": "The Dinibus is the best option to master the steep hill while staying dry."
+              }
+            },
+            {
+              "name": "Center / Shopping",
+              "tip_5lang": {
+                "de": "Die Fachwerkhäuser bieten in den Erdgeschossen viele überdachte Arkaden.",
+                "hu": "A favázas házak földszintjén sok fedett árkád található.",
+                "ro": "Casele medievale oferă multe arcade acoperite la parter.",
+                "en": "The half-timbered houses offer many covered arcades on the ground floors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App der Dinan-Busse, um Wartezeiten im Regen zu vermeiden.",
+              "Halten Sie Ihr Ticket bereit, um zügig in den Bus einzusteigen.",
+              "Die Dinibus-Linien sind an Regentagen oft voller, planen Sie etwas Zeit ein.",
+              "Der Bahnhof bietet Schließfächer, falls Sie nasse Regenschirme nicht mitschleppen wollen."
+            ],
+            "hu": [
+              "Használja a Dinan-buszok valós idejű alkalmazását, hogy elkerülje az esőben várakozást.",
+              "Tartsa készenlétben a jegyét, hogy gyorsan felszállhasson a buszra.",
+              "A Dinibus járatok esős napokon gyakran zsúfoltabbak, tervezzen időt rá.",
+              "A vasútállomáson vannak csomagmegőrzők, ha nem akarja a vizes esernyőt magával vinni."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real a autobuzelor Dinan pentru a evita așteptarea în ploaie.",
+              "Aveți biletul pregătit pentru a urca rapid în autobuz.",
+              "Liniile Dinibus sunt adesea mai pline în zilele ploioase, planificați-vă timpul.",
+              "Gara oferă dulapuri pentru bagaje dacă nu doriți să cărați umbrele umede."
+            ],
+            "en": [
+              "Use the real-time app for Dinan buses to avoid waiting in the rain.",
+              "Have your ticket ready to board the bus quickly.",
+              "Dinibus lines are often busier on rainy days; allow extra time.",
+              "The station offers lockers if you don't want to carry wet umbrellas around."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Transit-Tag startet am kühlen Bahnhof von Dinan. Mit dem Bus geht es ins historische Herz zum Place Duguesclin. Mittags bringt uns der beheizte Dinibus zum Hafen, wo die Rance im Winternebel liegt. Nachmittags genießen wir das Shopping in den warmen Boutiquen des Zentrums. Abends kehren wir mit dem Bus zum Bahnhof zurück, wenn die Lichter der Stadt im Frost glitzern.",
+            "hu": "A téli tömegközlekedős nap Dinan hűvös vasútállomásán indul. Busszal megyünk a történelmi szívbe, a Place Duguesclin-re. Délben a fűtött Dinibus visz le a kikötőbe, ahol a Rance téli ködbe vész. Délután a központ meleg boltjaiban vásárolunk. Este busszal térünk vissza az állomásra, amikor a város fényei csillognak a zúzmarában.",
+            "ro": "Ziua de tranzit de iarnă începe la gara răcoroasă din Dinan. Cu autobuzul mergem în inima istorică, la Place Duguesclin. La prânz, Dinibusul încălzit ne duce în port, unde Rance este cuprins de ceața de iarnă. După-amiaza ne bucurăm de cumpărături în buticurile călduroase din centru. Seara ne întoarcem cu autobuzul la gară, când luminile orașului sclipesc în brumă.",
+            "en": "The winter transit day starts at the cool Dinan station. By bus, we go to the historical heart at Place Duguesclin. At noon, the heated Dinibus takes us to the port, where the Rance lies in winter mist. In the afternoon, we enjoy shopping in the warm boutiques of the center. In the evening, we return by bus to the station when the city lights sparkle in the frost."
+          },
+          "stops": [
+            {
+              "name": "Dinan Train Station",
+              "tip_5lang": {
+                "de": "Der beheizte Wartesaal ist im Winter ein Muss.",
+                "hu": "A fűtött váróterem télen elengedhetetlen.",
+                "ro": "Sala de așteptare încălzită este obligatorie iarna.",
+                "en": "The heated waiting room is a must in winter."
+              }
+            },
+            {
+              "name": "Place Duguesclin",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten warme Rückzugsorte.",
+                "hu": "A tér körüli kávézók meleg menedéket kínálnak.",
+                "ro": "Cafenelele din jurul pieței oferă locuri de refugiu călduroase.",
+                "en": "The cafes around the square offer warm retreats."
+              }
+            },
+            {
+              "name": "Saint-Malo Church",
+              "tip_5lang": {
+                "de": "In Kirchen ist es im Winter oft kälter als draußen; behalten Sie die Jacke an.",
+                "hu": "A templomokban télen gyakran hidegebb van, mint kint; tartsa magán a kabátot.",
+                "ro": "În biserici este adesea mai frig decât afară iarna; păstrați jacheta pe dvs.",
+                "en": "In churches, it's often colder inside than outside in winter; keep your jacket on."
+              }
+            },
+            {
+              "name": "Port (via Dinibus)",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den anstrengenden Aufstieg in der Kälte.",
+                "hu": "A busz megkíméli Önt a hidegben való fárasztó hegymászástól.",
+                "ro": "Autobuzul vă scutește de urcarea obositoare prin frig.",
+                "en": "The bus saves you from the tiring climb in the cold."
+              }
+            },
+            {
+              "name": "Center / Shopping",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Geschäfte zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "Használja az üzletek melegét a felmelegedéshez a séták között.",
+                "ro": "Folosiți căldura magazinelor pentru a vă încălzi între plimbări.",
+                "en": "Use the warmth of the shops to warm up between walks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Winter-Fahrpläne, die an Feiertagen abweichen können.",
+              "Busse sind im Winter oft eine warme Alternative zum Laufen.",
+              "Der Dinibus fährt in der Nebensaison seltener, prüfen Sie die Zeiten.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kalt sein kann."
+            ],
+            "hu": [
+              "Figyeljen a téli menetrendre, amely ünnepnapokon eltérhet.",
+              "A buszok télen gyakran meleg alternatívát jelentenek a gyalogláshoz képest.",
+              "A Dinibus holtszezonban ritkábban jár, ellenőrizze az időpontokat.",
+              "Viseljen meleg zoknit, mert a megállókban való várakozás hideg lehet."
+            ],
+            "ro": [
+              "Fiți atenți la orarele de iarnă, care pot diferi în zilele de sărbătoare.",
+              "Autobuzele sunt adesea o alternativă călduroasă la mersul pe jos iarna.",
+              "Dinibus circulă mai rar în extrasezon, verificați orele.",
+              "Purtați șosete groase, deoarece așteptarea în stații poate fi friguroasă."
+            ],
+            "en": [
+              "Watch out for winter schedules, which may differ on holidays.",
+              "Buses are often a warm alternative to walking in winter.",
+              "The Dinibus runs less frequently in the low season; check the times.",
+              "Wear warm socks, as waiting at stops can be cold."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.dinan-capfrehel.com/",
-    "events": "https://www.dinan-capfrehel.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Dinan ist mittelalterliche Stadt über der Rance. Französisch, weniger Bretonisch (Gallo-Sprachregion). Englisch in der Altstadt gut. 'Fest-noz' ist das traditionelle bretonische Tanzfest, sehenswert. Crêpes und Cidre überall.",
-      "hu": "Dinan középkori város a Rance fölött. Francia, kevesebb breton (Gallo-nyelvterület). Az angol jól megy az óvárosban. A 'Fest-noz' a hagyományos breton tánc-est, érdemes elmenni. Mindenhol palacsinta és cidre.",
-      "ro": "Dinan este oraș medieval deasupra râului Rance. Franceza, mai puțină bretonă (regiunea Gallo). Engleza este bună în centrul vechi. 'Fest-noz' este balul breton tradițional, merită văzut. Clătite și cidru peste tot.",
-      "en": "Dinan is a medieval town above the Rance river. French, less Breton (Gallo language area). English works well in the old town. 'Fest-noz' is the traditional Breton dance evening, worth seeing. Crêpes and cider everywhere."
-    },
-    "best_time_to_visit": {
-      "de": "Juli (gerade Jahre): 'Fête des Remparts' Mittelaltermarkt, alle 2 Jahre. Mai-Juni und September für ruhige Tage. Vermeiden Sie Februar-März, kalt und regnerisch. Sommerwochenenden sehr voll, früh buchen.",
-      "hu": "Júliusban (páros években): 'Fête des Remparts' középkori vásár, kétévente. Május-június és szeptember csendesebb. Februárt-márciust kerüld, hideg és esős. Nyári hétvégéken nagyon zsúfolt, foglalj előre.",
-      "ro": "Iulie (ani pari): 'Fête des Remparts', târg medieval bienal. Mai-iunie și septembrie pentru zile liniștite. Evitați februarie-martie, frig și ploaie. Weekend-uri de vară foarte aglomerate, rezervați devreme.",
-      "en": "July of even years: 'Fête des Remparts' medieval fair, biennial. May-June and September for quieter days. Avoid February-March, cold and rainy. Summer weekends are very busy, book ahead."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher. Steile Rue du Jerzual mit Kopfsteinpflaster ist rutschig bei Regen. Beim Spaziergang am Rance-Hafen Gezeiten beachten. Achten Sie auf Radler in den engen mittelalterlichen Gassen.",
-      "hu": "Nagyon biztonságos. A meredek macskaköves Rue du Jerzual esőben csúszós. A Rance-kikötőnél figyelj az árapályra. A középkori szűk utcákban bringásokra figyelj.",
-      "ro": "Foarte sigur. Strada abruptă Rue du Jerzual cu pavaj alunecă pe ploaie. La portul Rance, atenție la maree. Pe străduțele medievale, atenție la bicicliști.",
-      "en": "Very safe. Steep cobbled Rue du Jerzual is slick in rain. Mind the tides at Rance harbour. Watch for cyclists in the narrow medieval lanes."
-    },
-    "parking_real_time": ""
   }
 }

@@ -297,6 +297,410 @@
           "Visit the church outside of mass times.",
           "Use the free shuttle buses for longer distances."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den historischen Kern rund um den Place de l'Église, wo das Dorfleben pulsiert. Mittags tauchen wir im Heimatmuseum tief in die alpinen Traditionen und die bäuerliche Geschichte ein. Der Nachmittag gehört dem spirituellen Pfad des Calvaire mit seinen kunstvollen Kapellen und weiten Ausblicken. Abends entspannen wir im modernen Palais-Komplex, dem sportlichen und kulturellen Herzstück des Ortes.",
+            "hu": "A reggelt a történelmi magban, a Place de l'Église körül kezdjük, ahol lüktet a falusi élet. Délben a helytörténeti múzeumban merülünk el az alpesi hagyományok és a paraszti múlt emlékeiben. A délutánt a Kálvária spirituális ösvényének szenteljük, művészi kápolnáival és tágas kilátásaival. Este a modern Palais komplexumban lazítunk, amely a település sport- és kulturális központja.",
+            "ro": "Dimineața explorăm nucleul istoric din jurul Place de l'Église, unde pulsează viața satului. La prânz aprofundăm tradițiile alpine și istoria rurală la muzeul local. După-amiaza este dedicată traseului spiritual Calvaire, cu capelele sale artistice și vederi panoramice. Seara ne relaxăm în complexul modern Palais, inima sportivă și culturală a localității.",
+            "en": "In the morning, we explore the historical core around Place de l'Église, where village life pulses. At midday, we dive deep into Alpine traditions and rural history at the local museum. The afternoon is dedicated to the spiritual path of the Calvaire with its artistic chapels and broad views. In the evening, we relax at the modern Palais complex, the sporting and cultural heart of the resort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Église",
+                "hu": "Place de l'Église",
+                "ro": "Place de l'Église",
+                "en": "Place de l'Église"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Morgenkaffee im Schatten des alten Glockenturms.",
+                "hu": "Igyon egy reggeli kávét a régi harangtorony árnyékában.",
+                "ro": "Savurați o cafea de dimineață la umbra vechiului turn cu ceas.",
+                "en": "Enjoy a morning coffee in the shadow of the ancient bell tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die barocken Altarbilder aus dem 17. Jahrhundert.",
+                "hu": "Figyelje meg a 17. századi barokk oltárképeket.",
+                "ro": "Observați retablurile baroce din secolul al XVII-lea.",
+                "en": "Observe the 17th-century Baroque altarpieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Haut Val d'Arly",
+                "hu": "Haut Val d'Arly Múzeum",
+                "ro": "Muzeul Haut Val d'Arly",
+                "en": "Haut Val d'Arly Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie in diesem alten Bauernhof alles über das bäuerliche Leben.",
+                "hu": "Ismerje meg a paraszti életet ebben a régi gazdasági épületben.",
+                "ro": "Aflați totul despre viața rurală în această veche fermă.",
+                "en": "Learn all about rural life in this old farmhouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Chemin du Calvaire",
+                "hu": "Le Chemin du Calvaire",
+                "ro": "Le Chemin du Calvaire",
+                "en": "Le Chemin du Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die 14 Kapellen entlang des historischen Wanderwegs.",
+                "hu": "Látogassa meg a 14 kápolnát a történelmi túraútvonal mentén.",
+                "ro": "Vizitați cele 14 capele de-a lungul traseului istoric.",
+                "en": "Visit the 14 chapels along the historic hiking trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais de Megève",
+                "hu": "Megève Palota",
+                "ro": "Palais de Megève",
+                "en": "Palais de Megève"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wellnessbereich nach dem Stadtrundgang.",
+                "hu": "Használja a wellness részleget a városi séta után.",
+                "ro": "Utilizați zona de wellness după turul orașului.",
+                "en": "Use the wellness area after your city walk."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Prieuré",
+                "tip": "Probieren Sie das klassische Käsefondue in historischem Ambiente."
+              },
+              {
+                "name": "Farcement",
+                "tip": "Eine lokale Spezialität aus Kartoffeln, Speck und Trockenfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Prieuré",
+                "tip": "Kóstolja meg a klasszikus sajtfonduet történelmi környezetben."
+              },
+              {
+                "name": "Farcement",
+                "tip": "Helyi specialitás burgonyából, szalonnából és aszalt gyümölcsökből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Prieuré",
+                "tip": "Încercați fondue-ul clasic de brânză într-un cadru istoric."
+              },
+              {
+                "name": "Farcement",
+                "tip": "O specialitate locală din cartofi, slănină și fructe uscate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Prieuré",
+                "tip": "Try the classic cheese fondue in a historical setting."
+              },
+              {
+                "name": "Farcement",
+                "tip": "A local specialty made from potatoes, bacon, and dried fruits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Chemin du Calvaire",
+                "tip": "Ein ruhiger Ort für Besinnung am frühen Morgen.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Jardin de l'Évêché",
+                "tip": "Kleiner versteckter Garten hinter der Kirche.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chemin du Calvaire",
+                "tip": "Csendes hely az elmélyüléshez kora reggel.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Jardin de l'Évêché",
+                "tip": "Kicsi, rejtett kert a templom mögött.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chemin du Calvaire",
+                "tip": "Un loc liniștit pentru reflecție dimineața devreme.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Jardin de l'Évêché",
+                "tip": "Mică grădină ascunsă în spatele bisericii.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chemin du Calvaire",
+                "tip": "A quiet place for reflection in the early morning.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Jardin de l'Évêché",
+                "tip": "Small hidden garden behind the church.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Immer freitags am Vormittag mit regionalen Produkten."
+              },
+              {
+                "name": "Aallard",
+                "tip": "Exklusive Mode am zentralen Platz seit 1926."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Minden péntek délelőtt regionális termékekkel."
+              },
+              {
+                "name": "Aallard",
+                "tip": "Exkluzív divat a főtéren 1926 óta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "În fiecare vineri dimineață cu produse regionale."
+              },
+              {
+                "name": "Aallard",
+                "tip": "Modă exclusivistă în piața centrală din 1926."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Every Friday morning with regional products."
+              },
+              {
+                "name": "Aallard",
+                "tip": "Exclusive fashion in the main square since 1926."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Zentrum ist fast vollständig Fußgängerzone.",
+              "Tragen Sie festes Schuhwerk für den Calvaire-Weg.",
+              "Besuchen Sie die Kirche außerhalb der Gottesdienstzeiten.",
+              "Nutzen Sie die kostenlosen Pendelbusse für längere Strecken."
+            ],
+            "hu": [
+              "A központ szinte teljesen sétálóövezet.",
+              "Viseljen kényelmes cipőt a Kálvária-úthoz.",
+              "A templomot a miseidőkön kívül látogassa.",
+              "Használja az ingyenes buszokat a hosszabb távokhoz."
+            ],
+            "ro": [
+              "Centrul este aproape în întregime zonă pietonală.",
+              "Purtați încălțăminte comodă pentru drumul spre Calvaire.",
+              "Vizitați biserica în afara orelor de slujbă.",
+              "Folosiți autobuzele gratuite pentru distanțe mai lungi."
+            ],
+            "en": [
+              "The center is almost entirely pedestrianized.",
+              "Wear sturdy shoes for the Calvaire path.",
+              "Visit the church outside of mass times.",
+              "Use the free shuttle buses for longer distances."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie einen Kaffee unter den Arkaden am Place de l'Église. Mittags bietet das Museum einen gemütlichen Rückzugsort vor dem Regen. Nachmittags führt ein kurzer Gang zum Calvaire durch die mystische Nebellandschaft. Den Abend lassen Sie im trockenen Palais de Megève bei Wellness oder Sport ausklingen.",
+            "hu": "Reggel élvezze a kávét a templom téri árkádok alatt. Délben a múzeum nyújt meleg menedéket az eső elől. Délután a Kálvária-út misztikus ködbe burkolózó sétát ígér. Az estét a Palais de Megève fedett szabadidőközpontjában, wellnessel vagy sportolással töltheti el szárazon.",
+            "ro": "Dimineața, savurați o cafea sub arcadele din Place de l'Église. La prânz, muzeul oferă un refugiu primitor ferit de ploaie. După-amiaza, o scurtă plimbare spre Calvaire vă poartă printr-un peisaj cețos mistic. Încheiați seara la Palais de Megève, bucurându-vă de wellness sau sport la adăpost.",
+            "en": "Morning starts with coffee under the arcades at Place de l'Église. At noon, the museum provides a cozy retreat from the rain. In the afternoon, a short walk to the Calvaire offers a mystic, misty atmosphere. Spend your evening dry at the Palais de Megève leisure center with wellness or sports."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Unter den Arkaden bleiben.",
+                "hu": "Maradjon az árkádok alatt.",
+                "ro": "Stați sub arcade.",
+                "en": "Stay under the arcades."
+              }
+            },
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Ideal für stille Momente.",
+                "hu": "Ideális csendes percekre.",
+                "ro": "Ideal pentru momente de liniște.",
+                "en": "Ideal for quiet moments."
+              }
+            },
+            {
+              "name": "Haut Val d'Arly Museum",
+              "tip_5lang": {
+                "de": "Bester Schutz vor Güssen.",
+                "hu": "Legjobb védelem zápor ellen.",
+                "ro": "Cea mai bună protecție.",
+                "en": "Best shelter from downpours."
+              }
+            },
+            {
+              "name": "Le Chemin du Calvaire",
+              "tip_5lang": {
+                "de": "Fester Boden, Schirm mitnehmen.",
+                "hu": "Szilárd út, vigyen ernyőt.",
+                "ro": "Drum stabil, luați umbrela.",
+                "en": "Paved path, bring an umbrella."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Programm.",
+                "hu": "Tökéletes fedett program.",
+                "ro": "Program interior perfect.",
+                "en": "Perfect indoor program."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für Kopfsteinpflaster.",
+              "Nutzen Sie Cafés als strategische Pausen.",
+              "Der Calvaire-Weg ist asphaltiert und sicher.",
+              "Das Palais bietet die beste Schlechtwetter-Option."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköveken.",
+              "Használja a kávézókat pihenőhelyként.",
+              "A Kálvária útja aszfaltozott és biztonságos.",
+              "A Palais a legjobb választás rossz időben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pe pavaj.",
+              "Folosiți cafenelele ca puncte de oprire.",
+              "Drumul Calvaire este asfaltat și sigur.",
+              "Palais oferă cea mai bună opțiune pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones.",
+              "Use local cafes as strategic pit stops.",
+              "The Calvaire path is paved and safe for rain.",
+              "The Palais is the best bad-weather option."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Schnee auf dem Place de l'Église zwischen festlicher Deko. Mittags wärmen Sie sich im Museum bei lokaler Geschichte auf. Nachmittags stapfen Sie durch die weiße Pracht zum Calvaire. Abends lockt die Eishalle oder das Thermalbad im Palais de Megève zur Entspannung nach dem Kältespaziergang.",
+            "hu": "Reggel a hó csillog a templom téren az ünnepi díszek között. Délben a múzeumban melegedhet fel a helyi történetek mellett. Délután a fehér hótakarón át sétálhat fel a Kálváriához. Este a Palais de Megève jégpályája vagy termálfürdője várja a hideg utáni kikapcsolódásra.",
+            "ro": "Dimineața, zăpada strălucește în Place de l'Église printre decorațiuni. La prânz, vă încălziți la muzeu cu istoria locală. După-amiaza, pășiți prin albul imaculat spre Calvaire. Seara, patinoarul sau băile termale de la Palais vă invitan la relaxare după frig.",
+            "en": "Morning snow sparkles on Place de l'Église amidst festive decor. At noon, warm up in the museum while exploring local history. In the afternoon, trek through the white wonderland to the Calvaire. Spend your evening at the Palais ice rink or thermal spa to thaw out."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glatteis.",
+                "hu": "Vigyázat, jegesedés várható.",
+                "ro": "Atenție la polei.",
+                "en": "Watch out for icy patches."
+              }
+            },
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet.",
+                "hu": "Gyönyörűen kivilágítva.",
+                "ro": "Frumos iluminată.",
+                "en": "Beautifully illuminated."
+              }
+            },
+            {
+              "name": "Haut Val d'Arly Museum",
+              "tip_5lang": {
+                "de": "Angenehm beheizt.",
+                "hu": "Kellemesen fűtött belső.",
+                "ro": "Interior încălzit plăcut.",
+                "en": "Pleasantly heated interior."
+              }
+            },
+            {
+              "name": "Le Chemin du Calvaire",
+              "tip_5lang": {
+                "de": "Winterstiefel sind Pflicht.",
+                "hu": "Téli bakancs kötelező.",
+                "ro": "Ghetele de iarnă sunt obligatorii.",
+                "en": "Winter boots are a must."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Eislaufen als Highlight.",
+                "hu": "A korcsolyázás kihagyhatatlan.",
+                "ro": "Patinajul este punctul forte.",
+                "en": "Ice skating is a highlight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 17:00 Uhr.",
+              "Warme Kleidung in Schichten tragen.",
+              "Kopfsteinpflaster kann sehr rutschig sein.",
+              "Genießen Sie eine heiße Schokolade im Zentrum."
+            ],
+            "hu": [
+              "A naplemente már 17:00 körül bekövetkezik.",
+              "Öltözzön rétegesen és melegen.",
+              "A macskakő nagyon csúszós lehet télen.",
+              "Kóstoljon meg egy forró csokit a központban."
+            ],
+            "ro": [
+              "Apusul soarelui este în jur de ora 17:00.",
+              "Purtați haine groase în straturi.",
+              "Pavajul poate fi foarte alunecos.",
+              "Savurați o ciocolată caldă în centru."
+            ],
+            "en": [
+              "Sunset occurs early, around 17:00.",
+              "Dress in warm, waterproof layers.",
+              "Cobblestones can be very slippery when icy.",
+              "Enjoy a hot chocolate in the town center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -588,6 +992,410 @@
           "Always take a rain jacket, weather changes quickly.",
           "The mountain stations have good bike wash points."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt im Dorfzentrum, bevor wir den Aufstieg zum Mont d'Arbois wagen. Dort erwartet uns eine unvergleichliche Aussicht auf die Alpenriesen. Mittags radeln wir durch Bergwälder zum idyllischen Lac de Javen, einem perfekten Ort für eine Pause in der Natur. Nachmittags besuchen wir das historische Calvaire-Ensemble und beenden die Tour sportlich im modernen Sportzentrum des Ortes.",
+            "hu": "A nap nyugalmasan indul a faluközpontban, mielőtt nekivágnánk a Mont d'Arbois emelkedőjének. Ott páratlan kilátás vár ránk az Alpok óriásaira. Délben hegyi erdőkön át tekerünk az idilli Javen-tóhoz, amely tökéletes hely egy természeti pihenőhöz. Délután a történelmi Kálvária-együttest látogatjuk meg, majd sportosan zárjuk a túrát a település modern sportközpontjában.",
+            "ro": "Ziua începe relaxat în centrul satului, înainte de a urca spre Mont d'Arbois. Acolo ne așteaptă o priveliște inegalabilă asupra uriașilor Alpi. La prânz pedalăm prin păduri de munte spre idilicul Lac de Javen, un loc perfect pentru o pauză în natură. După-amiaza vizităm ansamblul istoric Calvaire și încheiem turul sportiv în centrul modern de sport al localității.",
+            "en": "The day begins relaxed in the village center before we tackle the climb to Mont d'Arbois. There, an incomparable view of the Alpine giants awaits us. At midday, we cycle through mountain forests to the idyllic Lac de Javen, a perfect spot for a break in nature. In the afternoon, we visit the historical Calvaire ensemble and end the tour energetically at the town's modern sports center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Église",
+                "hu": "Place de l'Église",
+                "ro": "Place de l'Église",
+                "en": "Place de l'Église"
+              },
+              "tip_5lang": {
+                "de": "Bereiten Sie Ihre Ausrüstung am Hauptplatz vor.",
+                "hu": "Készítse fel felszerelését a főtéren.",
+                "ro": "Pregătiți-vă echipamentul în piața principală.",
+                "en": "Prepare your gear in the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Arbois",
+                "hu": "Mont d'Arbois",
+                "ro": "Mont d'Arbois",
+                "en": "Mont d'Arbois"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das Mont-Blanc-Massiv.",
+                "hu": "Élvezze a panorámát a Mont-Blanc-masszívumra.",
+                "ro": "Bucurați-vă de panorama asupra masivului Mont-Blanc.",
+                "en": "Enjoy the panoramic view of the Mont-Blanc massif."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Javen",
+                "hu": "Javen-tó",
+                "ro": "Lac de Javen",
+                "en": "Lac de Javen"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Picknick am Seeufer mit Blick auf die Aiguilles de Varans.",
+                "hu": "Piknikezzen a tóparton, kilátással az Aiguilles de Varans-ra.",
+                "ro": "Faceți un picnic pe malul lacului cu vedere la Aiguilles de Varans.",
+                "en": "Have a picnic by the lakeshore with views of the Aiguilles de Varans."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire de Megève",
+                "hu": "Megève-i Kálvária",
+                "ro": "Calvaire de Megève",
+                "en": "Calvaire de Megève"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Fahrräder unten ab und gehen Sie ein Stück zu Fuß.",
+                "hu": "Hagyja lent a kerékpárokat és menjen egy kicsit gyalog.",
+                "ro": "Lăsați bicicletele jos și mergeți puțin pe jos.",
+                "en": "Leave the bikes below and walk for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais de Megève",
+                "hu": "Megève Palota",
+                "ro": "Palais de Megève",
+                "en": "Palais de Megève"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie Ihre Muskeln im beheizten Außenpool.",
+                "hu": "Lazítsa el izmait a fűtött kültéri medencében.",
+                "ro": "Relaxați-vă mușchii în piscina exterioară încălzită.",
+                "en": "Relax your muscles in the heated outdoor pool."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Idéal 1850",
+                "tip": "Luxuriöse Einkehr am Mont d'Arbois mit Panoramaterrasse."
+              },
+              {
+                "name": "Restaurant du Lac",
+                "tip": "Frische Gebirgsforelle direkt am Javen-See genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Idéal 1850",
+                "tip": "Luxus pihenő a Mont d'Arbois-n panorámaterasszal."
+              },
+              {
+                "name": "Restaurant du Lac",
+                "tip": "Élvezze a friss hegyi pisztrángot közvetlenül a Javen-tónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Idéal 1850",
+                "tip": "Popas de lux pe Mont d'Arbois cu terasă panoramică."
+              },
+              {
+                "name": "Restaurant du Lac",
+                "tip": "Savurați păstrăv proaspăt de munte chiar lângă lacul Javen."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Idéal 1850",
+                "tip": "Luxurious break at Mont d'Arbois with a panoramic terrace."
+              },
+              {
+                "name": "Restaurant du Lac",
+                "tip": "Enjoy fresh mountain trout right by Lake Javen."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac de Javen",
+                "tip": "Die Spiegelung der Berge im Wasser beobachten.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont d'Arbois",
+                "tip": "Stille der Berggipfel abseits der Seilbahn.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Javen-tó",
+                "tip": "Figyelje meg a hegyek tükröződését a vízben.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont d'Arbois",
+                "tip": "A hegycsúcsok csendje a felvonótól távolabb.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lac de Javen",
+                "tip": "Observați reflexia munților în apă.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont d'Arbois",
+                "tip": "Liniștea vârfurilor de munte departe de telecabină.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac de Javen",
+                "tip": "Watch the reflection of the mountains in the water.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Mont d'Arbois",
+                "tip": "Silence of the mountain peaks away from the cable car.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sport Megève",
+                "tip": "Bedarf an technischer Outdoor-Ausrüstung."
+              },
+              {
+                "name": "La Fruitière",
+                "tip": "Regionale Käsesorten direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sport Megève",
+                "tip": "Technikai outdoor felszerelések széles választéka."
+              },
+              {
+                "name": "La Fruitière",
+                "tip": "Regionális sajtok közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sport Megève",
+                "tip": "Echipamente tehnice outdoor pentru toate nevoile."
+              },
+              {
+                "name": "La Fruitière",
+                "tip": "Brânzeturi regionale direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sport Megève",
+                "tip": "Technical outdoor equipment for all needs."
+              },
+              {
+                "name": "La Fruitière",
+                "tip": "Regional cheeses directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes werden für die Anstiege dringend empfohlen.",
+              "Achten Sie auf Wanderer auf den gemeinsam genutzten Wegen.",
+              "Nehmen Sie immer eine Regenjacke mit, das Wetter schlägt schnell um.",
+              "Die Bergstationen haben gute Fahrrad-Waschstationen."
+            ],
+            "hu": [
+              "Az emelkedőkhöz erősen ajánlott az e-bike.",
+              "Ügyeljen a gyalogosokra a közös útvonalakon.",
+              "Mindig vigyen esőkabátot, az időjárás gyorsan változhat.",
+              "A hegyi állomásokon jó kerékpármosó pontok vannak."
+            ],
+            "ro": [
+              "E-bike-urile sunt recomandate pentru urcușuri.",
+              "Atenție la drumeți pe potecile comune.",
+              "Luați întotdeauna o pelerină de ploaie, vremea se schimbă repede.",
+              "Stațiile montane au puncte bune de spălare a bicicletelor."
+            ],
+            "en": [
+              "E-bikes are highly recommended for the climbs.",
+              "Watch out for hikers on shared paths.",
+              "Always take a rain jacket, weather changes quickly.",
+              "The mountain stations have good bike wash points."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start im Dorfzentrum bei leichtem Nieselregen. Mittags führt die Fahrt zum Mont d'Arbois durch tiefhängende Wolken. Die Route zum Lac de Javen bietet eine raue, neblige Bergatmosphäre. Nachmittags geht es bergab zum Calvaire und schließlich ins Palais, um die nasse Kleidung gegen Wellness einzutauschen.",
+            "hu": "Frissítő kezdés a faluközpontban enyhe szemerkélésben. Délben a Mont d'Arbois-hoz vezető út alacsonyan szálló felhők között visz. A Lac de Javen felé tartó útvonal nyers, ködös hegyi hangulatot áraszt. Délután gurulás a Kálváriához, végül a Palais-ba, ahol wellnessre cserélheti a vizes ruhát.",
+            "ro": "Un început răcoros în centrul satului sub o burniță ușoară. La prânz, drumul spre Mont d'Arbois trece prin nori joși. Traseul spre Lac de Javen oferă o atmosferă montană brută și cețoasă. După-amiaza coborâți spre Calvaire și apoi la Palais pentru relaxare după ploaie.",
+            "en": "A refreshing start in the village center under light drizzle. At noon, the climb to Mont d'Arbois leads through low-hanging clouds. The route to Lac de Javen offers a raw, misty alpine atmosphere. In the afternoon, descend to the Calvaire and head to the Palais to dry off."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Achtung, rutschiges Pflaster.",
+                "hu": "Vigyázat, csúszós kövezet.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Watch for slippery stones."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Bremsen vorab prüfen.",
+                "hu": "Fékeket ellenőrizze előre.",
+                "ro": "Verificați frânele.",
+                "en": "Check your brakes beforehand."
+              }
+            },
+            {
+              "name": "Lac de Javen",
+              "tip_5lang": {
+                "de": "Schlammige Wege möglich.",
+                "hu": "Saras utakra számítson.",
+                "ro": "Posibile porțiuni noroioase.",
+                "en": "Expect muddy trail sections."
+              }
+            },
+            {
+              "name": "Calvaire de Megève",
+              "tip_5lang": {
+                "de": "Vorsichtig abfahren.",
+                "hu": "Óvatosan ereszkedjen le.",
+                "ro": "Coborâți cu prudență.",
+                "en": "Descend with caution."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz.",
+                "hu": "Biztonságos tárolóhely.",
+                "ro": "Loc de parcare sigur.",
+                "en": "Secure bike parking available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenmontur ist unverzichtbar.",
+              "Bremsweg verlängert sich auf nasser Straße.",
+              "Schutzbleche am Fahrrad sind sehr empfohlen.",
+              "Wählen Sie asphaltierte Wege statt Waldpfade."
+            ],
+            "hu": [
+              "A teljes esőfelszerelés elengedhetetlen.",
+              "A féktáv megnő a vizes utakon.",
+              "A sárvédő használata erősen ajánlott.",
+              "Erdő helyett válassza az aszfaltozott utat."
+            ],
+            "ro": [
+              "Echipamentul de ploaie este esențial.",
+              "Distanța de frânare crește pe ud.",
+              "Aripile la bicicletă sunt recomandate.",
+              "Alegeți drumuri asfaltate, nu poteci."
+            ],
+            "en": [
+              "Full waterproof gear is indispensable.",
+              "Braking distance increases on wet roads.",
+              "Mudguards are highly recommended.",
+              "Stick to paved roads rather than forest trails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt am Place de l'Église. Der Anstieg zum Mont d'Arbois fordert bei kalter Luft, belohnt aber mit Schneepanorama. Der Lac de Javen präsentiert sich als frostiges Juwel. Am späten Nachmittag erreichen Sie den Calvaire im weichen Winterlicht, bevor Sie den Tag gemütlich im Palais abschließen.",
+            "hu": "Induljon vastagon felöltözve a templom térről. A Mont d'Arbois emelkedője a hidegben kihívás, de hópanorámával jutalmaz. A Lac de Javen fagyos ékszerként tündököl. Késő délután érje el a Kálváriát a lágy téli fényekben, majd zárja a napot kényelemben a Palais-ban.",
+            "ro": "Porniți bine echipat din Place de l'Église. Urcarea spre Mont d'Arbois e grea pe ger, dar oferă o panoramă superbă. Lac de Javen se prezintă ca o bijuterie înghețată. După-amiaza târziu ajungeți la Calvaire în lumina iernii, apoi încheiați ziua la Palais.",
+            "en": "Start bundled up at Place de l'Église. The climb to Mont d'Arbois is challenging in the cold but rewards with snow views. Lac de Javen is a frozen jewel. In the late afternoon, reach the Calvaire in soft winter light before warming up at the Palais."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause planen.",
+                "hu": "Tervezzen bemelegítő szünetet.",
+                "ro": "Planificați o pauză scurtă.",
+                "en": "Plan a short warm-up break."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Fatbike empfohlen.",
+                "hu": "Fatbike használata javasolt.",
+                "ro": "Se recomandă Fatbike.",
+                "en": "Fatbike highly recommended."
+              }
+            },
+            {
+              "name": "Lac de Javen",
+              "tip_5lang": {
+                "de": "Zugefroren, nicht betreten.",
+                "hu": "Befagyott, ne lépjen rá.",
+                "ro": "Înghețat, nu călcați pe lac.",
+                "en": "Frozen, do not walk on ice."
+              }
+            },
+            {
+              "name": "Calvaire de Megève",
+              "tip_5lang": {
+                "de": "Frühzeitige Abfahrt planen.",
+                "hu": "Tervezze meg a korai indulást.",
+                "ro": "Planificați plecarea devreme.",
+                "en": "Plan an early descent."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Sauna nach der Fahrt genießen.",
+                "hu": "Élvezze a szaunát a tekerés után.",
+                "ro": "Savurați sauna după drum.",
+                "en": "Enjoy the sauna after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und Handschuhe tragen.",
+              "Akkus von E-Bikes entladen bei Kälte schneller.",
+              "Achten Sie auf vereiste Kurven im Schatten.",
+              "Licht am Fahrrad ist wegen früher Dämmerung nötig."
+            ],
+            "hu": [
+              "Viseljen termő alsóneműt és kesztyűt.",
+              "Az e-bike akkuk gyorsabban merülnek hidegben.",
+              "Figyeljen az árnyékos kanyarok jegére.",
+              "A lámpa kötelező a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mănuși.",
+              "Bateriile e-bike se descarcă rapid la frig.",
+              "Atenție la curbele înghețate la umbră.",
+              "Luminile sunt necesare din cauza amurgului."
+            ],
+            "en": [
+              "Wear thermal underwear and warm gloves.",
+              "E-bike batteries drain faster in the cold.",
+              "Watch for icy patches in shaded curves.",
+              "Bike lights are essential due to early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -879,6 +1687,410 @@
           "The mountain roads are narrow and winding.",
           "In high season, parking spaces fill up quickly."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Wir starten komfortabel am zentralen Kirchplatz, um das dörfliche Flair aufzusaugen. Im Anschluss besuchen wir das Bauernmuseum, das einen tiefen Einblick in das harte Bergleben vergangener Zeiten bietet. Die Fahrt führt uns weiter zum Mont d'Arbois für ein alpines Gipfelerlebnis, gefolgt von einem Besuch am malerischen Lac de Javen. Den Tag beschließen wir bei dem eleganten Anwesen Ferme de la Follie, das Geschichte und Moderne verbindet.",
+            "hu": "Kényelmesen kezdünk a központi templomtéren, hogy magunkba szívjuk a falusi hangulatot. Ezt követően meglátogatjuk a paraszti múzeumot, amely mély betekintést nyújt a múltbéli kemény hegyi életbe. Az út továbbvezet a Mont d'Arbois-ra egy alpesi csúcsélményért, majd a festői Javen-tó meglátogatása következik. A napot az elegáns Ferme de la Follie birtoknál zárjuk, amely ötvözi a történelmet és a modernitást.",
+            "ro": "Începem confortabil în piața centrală a bisericii pentru a absorbi atmosfera satului. Ulterior vizităm muzeul fermierilor, care oferă o perspectivă profundă asupra vieții dure de munte din trecut. Drumul ne duce mai departe spre Mont d'Arbois pentru o experiență alpină la înălțime, urmată de o vizită la pitorescul Lac de Javen. Încheiem ziua la eleganta proprietate Ferme de la Follie, care îmbină istoria cu modernitatea.",
+            "en": "We start comfortably at the central church square to soak up the village flair. Next, we visit the farm museum, which offers a deep insight into the hard mountain life of times past. The drive continues to Mont d'Arbois for an Alpine summit experience, followed by a visit to the picturesque Lac de Javen. We conclude the day at the elegant Ferme de la Follie estate, which blends history and modernity."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Église",
+                "hu": "Place de l'Église",
+                "ro": "Place de l'Église",
+                "en": "Place de l'Église"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parking de l'Hôtel de Ville'.",
+                "hu": "Használja a 'Parking de l'Hôtel de Ville' parkolóházat.",
+                "ro": "Folosiți parcarea subterană 'Parking de l'Hôtel de Ville'.",
+                "en": "Use the 'Parking de l'Hôtel de Ville' parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Haut Val d'Arly",
+                "hu": "Haut Val d'Arly Múzeum",
+                "ro": "Muzeul Haut Val d'Arly",
+                "en": "Haut Val d'Arly Museum"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz zum Museum.",
+                "hu": "Rövid séta a parkolótól a múzeumig.",
+                "ro": "Scurtă plimbare de la parcare la muzeu.",
+                "en": "Short walk from the parking to the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Arbois",
+                "hu": "Mont d'Arbois",
+                "ro": "Mont d'Arbois",
+                "en": "Mont d'Arbois"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Talstation der Seilbahn.",
+                "hu": "Parkoljon közvetlenül a felvonó völgyállomásánál.",
+                "ro": "Parcați chiar la stația de bază a telecabinei.",
+                "en": "Park right at the base station of the cable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Javen",
+                "hu": "Javen-tó",
+                "ro": "Lac de Javen",
+                "en": "Lac de Javen"
+              },
+              "tip_5lang": {
+                "de": "Zufahrt über die Route du Tour bis zum Parkplatz Le Tour.",
+                "hu": "Megközelítés a Route du Tour úton a Le Tour parkolóig.",
+                "ro": "Acces prin Route du Tour până la parcarea Le Tour.",
+                "en": "Access via Route du Tour to the Le Tour parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de la Ferme de la Follie",
+                "hu": "Domaine de la Ferme de la Follie",
+                "ro": "Domaine de la Ferme de la Follie",
+                "en": "Domaine de la Ferme de la Follie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die traditionelle Architektur dieses herrschaftlichen Anwesens.",
+                "hu": "Csodálja meg e főúri birtok hagyományos építészetét.",
+                "ro": "Admirați arhitectura tradițională a acestei proprietăți nobiliare.",
+                "en": "Admire the traditional architecture of this grand estate."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Ferme de mon Père",
+                "tip": "Gehobene Küche in einem rustikalen Chalet."
+              },
+              {
+                "name": "Beaufort D'Alpage",
+                "tip": "Kaufen Sie diesen würzigen Käse direkt bei der Kooperative."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Ferme de mon Père",
+                "tip": "Kifinomult konyha egy rusztikus faházban."
+              },
+              {
+                "name": "Beaufort D'Alpage",
+                "tip": "Vásárolja meg ezt a karakteres sajtot közvetlenül a szövetkezetnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Ferme de mon Père",
+                "tip": "Bucătărie rafinată într-o cabană rustică."
+              },
+              {
+                "name": "Beaufort D'Alpage",
+                "tip": "Cumpărați această brânză aromată direct de la cooperativă."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Ferme de mon Père",
+                "tip": "Upscale cuisine in a rustic chalet."
+              },
+              {
+                "name": "Beaufort D'Alpage",
+                "tip": "Buy this flavorful cheese directly from the cooperative."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer des Arly",
+                "tip": "Ruhiger Platz am Flusslauf unterhalb des Dorfes.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Croix Saint-Michel",
+                "tip": "Einsamer Aussichtspunkt auf halber Höhe.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arly-part",
+                "tip": "Csendes hely a folyóparton a falu alatt.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Croix Saint-Michel",
+                "tip": "Magányos kilátópont félúton.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Arly",
+                "tip": "Loc liniștit pe malul râului sub sat.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Croix Saint-Michel",
+                "tip": "Punct de belvedere retras la jumătatea înălțimii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Arly Banks",
+                "tip": "Quiet spot along the river below the village.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Croix Saint-Michel",
+                "tip": "Lonely viewpoint halfway up.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Epicerie Noémie",
+                "tip": "Feinkost und regionale Weine aus Savoyen."
+              },
+              {
+                "name": "Galerie de l'Alpage",
+                "tip": "Heimtextilien im alpinen Stil."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Epicerie Noémie",
+                "tip": "Csemegeáruk és regionális savoyai borok."
+              },
+              {
+                "name": "Galerie de l'Alpage",
+                "tip": "Alpesi stílusú lakástextilek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Epicerie Noémie",
+                "tip": "Delicatese și vinuri regionale din Savoia."
+              },
+              {
+                "name": "Galerie de l'Alpage",
+                "tip": "Textile pentru casă în stil alpin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Epicerie Noémie",
+                "tip": "Delicacies and regional Savoyard wines."
+              },
+              {
+                "name": "Galerie de l'Alpage",
+                "tip": "Home textiles in Alpine style."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Viele Straßen im Ortskern sind für Autos gesperrt.",
+              "Parken Sie am Ortsrand und nutzen Sie die Kutschen.",
+              "Die Bergstraßen sind schmal und kurvenreich.",
+              "In der Hochsaison sind Parkplätze schnell belegt."
+            ],
+            "hu": [
+              "A faluközpont számos utcája le van zárva az autók elől.",
+              "Parkoljon a falu szélén és használja a lovaskocsikat.",
+              "A hegyi utak szűkek és kanyargósak.",
+              "Főszezonban a parkolóhelyek gyorsan betelnek."
+            ],
+            "ro": [
+              "Multe străzi din centrul satului sunt închise mașinelor.",
+              "Parcați la marginea satului și folosiți trăsurile.",
+              "Drumurile montane sunt înguste și sinuoase.",
+              "În plin sezon, locurile de parcare se ocupă repede."
+            ],
+            "en": [
+              "Many streets in the village center are closed to cars.",
+              "Park on the outskirts and use the horse-drawn carriages.",
+              "The mountain roads are narrow and winding.",
+              "In high season, parking spaces fill up quickly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem am Place de l'Église für einen kurzen Rundgang. Das Museum bietet danach den perfekten Schutz vor Regen. Die Fahrt zum Mont d'Arbois und zum Lac de Javen ermöglicht tolle Ausblicke aus dem trockenen Auto. Den Tag krönt ein Besuch auf der Ferme de la Follie mit rustikalem Flair.",
+            "hu": "Reggel parkoljon kényelmesen a központban egy rövid körútért. A múzeum ezután tökéletes védelmet nyújt az eső ellen. A Mont d'Arbois és a Lac de Javen felé tartó út pazar kilátást kínál a száraz autóból. A napot a Ferme de la Follie látogatása koronázza meg rusztikus hangulattal.",
+            "ro": "Dimineața parcați comod lângă Place de l'Église. Muzeul oferă apoi protecția perfectă împotriva ploii. Drumul spre Mont d'Arbois și Lac de Javen oferă priveliști superbe din mașina uscată. Ziua se încheie la Ferme de la Follie cu o atmosferă rustică.",
+            "en": "Morning starts with easy parking near Place de l'Église. The museum then provides perfect rain protection. Driving to Mont d'Arbois and Lac de Javen allows for great views from your dry vehicle. Crown the day with a visit to Ferme de la Follie for rustic vibes."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Parkhaus 'Village' nutzen.",
+                "hu": "Használja a 'Village' parkolót.",
+                "ro": "Folosiți parcarea 'Village'.",
+                "en": "Use the 'Village' parking garage."
+              }
+            },
+            {
+              "name": "Haut Val d'Arly Museum",
+              "tip_5lang": {
+                "de": "Eingang nah am Parkplatz.",
+                "hu": "Bejárat a parkoló közelében.",
+                "ro": "Intrare aproape de parcare.",
+                "en": "Entrance close to parking."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning.",
+                "hu": "Vigyázat, vízátfolyások lehetnek.",
+                "ro": "Atenție la acvaplanare.",
+                "en": "Beware of aquaplaning risk."
+              }
+            },
+            {
+              "name": "Lac de Javen",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto.",
+                "hu": "Rövid futás az autótól.",
+                "ro": "Scurt sprint de la mașină.",
+                "en": "Quick dash from the car."
+              }
+            },
+            {
+              "name": "Domaine de la Ferme de la Follie",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt möglich.",
+                "hu": "Közvetlen behajtás lehetséges.",
+                "ro": "Acces auto direct disponibil.",
+                "en": "Direct car access available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überdachte Parkhäuser im Zentrum bevorzugen.",
+              "Scheibenwischer vor der Bergfahrt prüfen.",
+              "Die Straßen können bei Regen rutschig sein.",
+              "Genießen Sie das Panorama aus dem Wagen."
+            ],
+            "hu": [
+              "Preferálja a fedett parkolókat a központban.",
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Az utak esőben csúszósak lehetnek.",
+              "Élvezze a panorámát az autóból."
+            ],
+            "ro": [
+              "Preferați parcările acoperite din centru.",
+              "Verificați ștergătoarele înainte de urcare.",
+              "Drumurile pot fi alunecoase pe ploaie.",
+              "Savurați panorama din interiorul mașinii."
+            ],
+            "en": [
+              "Prefer covered parking garages in the center.",
+              "Check wipers before the mountain drive.",
+              "Mountain roads can be slick during rain.",
+              "Enjoy the scenic views from your vehicle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt am Place de l'Église. Nach dem Museumsbesuch geht es hinauf zum Mont d'Arbois, wo der Schnee die Gipfel ziert. Die Fahrt zum Lac de Javen führt durch eine Märchenlandschaft. Der Abend auf der Ferme de la Follie bietet alpine Gemütlichkeit pur bei lokalem Käse und Kaminfeuer.",
+            "hu": "Téli autós kirándulás indul a templom térről. A múzeumlátogatás után irány a Mont d'Arbois, ahol hó borítja a csúcsokat. A Lac de Javen felé vezető út mesebeli tájakon visz keresztül. Az este a Ferme de la Follie-ban alpesi meghittséget kínál helyi sajtokkal és kandallóval.",
+            "ro": "O excursie de iarnă începe la Place de l'Église. După muzeu, urcați spre Mont d'Arbois, unde zăpada acoperă culmile. Drumul spre Lac de Javen trece prin peisaje de basm. Seara la Ferme de la Follie oferă confort alpin cu brânzeturi și șemineu.",
+            "en": "A winter road trip starts at Place de l'Église. After the museum, head up to Mont d'Arbois where snow blankets the peaks. The drive to Lac de Javen leads through a fairytale landscape. Evening at Ferme de la Follie offers alpine coziness with local cheese and a fire."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Winterreifen zwingend.",
+                "hu": "Téli gumi kötelező.",
+                "ro": "Anvelope de iarnă obligatorii.",
+                "en": "Winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Haut Val d'Arly Museum",
+              "tip_5lang": {
+                "de": "Warmer Stopp zwischendurch.",
+                "hu": "Melegítő megálló útközben.",
+                "ro": "Oprire călduroasă pe traseu.",
+                "en": "Warm stop during the trip."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum.",
+                "hu": "Legyen hólánc a csomagtartóban.",
+                "ro": "Lanțuri în portbagaj.",
+                "en": "Keep snow chains in the trunk."
+              }
+            },
+            {
+              "name": "Lac de Javen",
+              "tip_5lang": {
+                "de": "Parkplatz kann vereist sein.",
+                "hu": "A parkoló jeges lehet.",
+                "ro": "Parcarea poate fi înghețată.",
+                "en": "Parking lot might be icy."
+              }
+            },
+            {
+              "name": "Domaine de la Ferme de la Follie",
+              "tip_5lang": {
+                "de": "Romantische Beleuchtung.",
+                "hu": "Romantikus kivilágítás.",
+                "ro": "Iluminat romantic.",
+                "en": "Romantic evening lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz in der Waschanlage prüfen.",
+              "Räumdienste sind in Megève sehr effizient.",
+              "Planen Sie mehr Zeit für Bergstrecken ein.",
+              "Parken Sie nicht unter schneereichen Dächern."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a mosóban.",
+              "A hókotrók nagyon hatékonyak Megève-ben.",
+              "Tervezzen több időt a hegyi szakaszokra.",
+              "Ne parkoljon havas tetők alá."
+            ],
+            "ro": [
+              "Verificați antigelul la spălător.",
+              "Serviciile de deszăpezire sunt eficiente.",
+              "Alocați mai mult timp pentru munte.",
+              "Nu parcați sub acoperișuri cu zăpadă."
+            ],
+            "en": [
+              "Check antifreeze levels in your car.",
+              "Snow removal is very efficient in Megève.",
+              "Allow extra time for mountain roads.",
+              "Do not park under roofs heavily laden with snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1170,34 +2382,411 @@
           "Shuttle frequencies are higher in winter and summer.",
           "Keep an eye on the last return trip from Mont d'Arbois."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem kostenlosen Ortsbus-System erreichen wir bequem die wichtigsten Punkte des Ortes. Wir beginnen im Zentrum und besuchen die historische Kirche, bevor wir zum Palais-Komplex fahren, um die moderne Infrastruktur zu erleben. Ein Shuttle bringt uns hinauf zum Mont d'Arbois, wo die Aussicht auf den Mont Blanc wartet. Zum Abschluss wandern wir ein Stück am Calvaire-Weg, bevor uns der Bus zurück ins Zentrum bringt.",
+            "hu": "Az ingyenes helyi buszrendszerrel kényelmesen elérjük a település legfontosabb pontjait. A központban kezdünk a történelmi templommal, majd a Palais komplexumhoz utazunk, hogy megtapasztaljuk a modern infrastruktúrát. Egy transzferbusz visz fel minket a Mont d'Arbois-ra, ahol a Mont Blanc-ra nyíló kilátás vár ránk. Végezetül teszünk egy rövid sétát a Kálvária-úton, mielőtt a busz visszavisz a központba.",
+            "ro": "Cu sistemul de autobuze locale gratuite ajungem confortabil la cele mai importante puncte ale localității. Începem în centru cu biserica istorică, apoi mergem la complexul Palais pentru a experimenta infrastructura modernă. O navetă ne duce sus la Mont d'Arbois, unde ne așteaptă vederea spre Mont Blanc. În final, facem o scurtă plimbare pe drumul Calvaire înainte ca autobuzul să ne aducă înapoi în centru.",
+            "en": "With the free local bus system, we comfortably reach the most important points of the resort. We begin in the center and visit the historical church before heading to the Palais complex to experience the modern infrastructure. A shuttle takes us up to Mont d'Arbois, where views of Mont Blanc await. Finally, we walk a bit of the Calvaire path before the bus takes us back to the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Église",
+                "hu": "Place de l'Église",
+                "ro": "Place de l'Église",
+                "en": "Place de l'Église"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt für alle Buslinien.",
+                "hu": "Központi találkozóhely az összes buszjárat számára.",
+                "ro": "Punct central de întâlnire pentru toate liniile de autobuz.",
+                "en": "Central meeting point for all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak néhány lépésre a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Just a few steps from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais de Megève",
+                "hu": "Megève Palota",
+                "ro": "Palais de Megève",
+                "en": "Palais de Megève"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Palais' direkt vor dem Eingang.",
+                "hu": "'Palais' megálló közvetlenül a bejárat előtt.",
+                "ro": "Stația 'Palais' chiar în fața intrării.",
+                "en": "Stop 'Palais' right in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Arbois",
+                "hu": "Mont d'Arbois",
+                "ro": "Mont d'Arbois",
+                "en": "Mont d'Arbois"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle zum Mont d'Arbois (Linie Mont d'Arbois).",
+                "hu": "Használja a Mont d'Arbois transzfert (Mont d'Arbois vonal).",
+                "ro": "Folosiți naveta către Mont d'Arbois (linia Mont d'Arbois).",
+                "en": "Use the shuttle to Mont d'Arbois (Mont d'Arbois line)."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire de Megève",
+                "hu": "Megève-i Kálvária",
+                "ro": "Calvaire de Megève",
+                "en": "Calvaire de Megève"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Aufstieg von der Haltestelle im Dorf.",
+                "hu": "Rövid emelkedő a faluban lévő megállótól.",
+                "ro": "Urcuș scurt de la stația din sat.",
+                "en": "Short climb from the bus stop in the village."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Hibou Blanc",
+                "tip": "Beliebte Brasserie mit Blick auf das Treiben am Platz."
+              },
+              {
+                "name": "La Maison de Savoie",
+                "tip": "Spezialitäten aus der Region in gemütlicher Atmosphäre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Hibou Blanc",
+                "tip": "Népszerű söröző kilátással a főtér nyüzsgésére."
+              },
+              {
+                "name": "La Maison de Savoie",
+                "tip": "Régióbeli specialitások otthonos hangulatban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Hibou Blanc",
+                "tip": "Braserie populară cu vedere la agitația din piață."
+              },
+              {
+                "name": "La Maison de Savoie",
+                "tip": "Specialități din regiune într-o atmosferă primitoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Hibou Blanc",
+                "tip": "Popular brasserie with a view of the hustle and bustle in the square."
+              },
+              {
+                "name": "La Maison de Savoie",
+                "tip": "Specialties from the region in a cozy atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mont d'Arbois Terrasse",
+                "tip": "Einen ruhigen Moment mit Bergblick genießen.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Kirchplatz am Abend",
+                "tip": "Wenn die Tagesbesucher weg sind, kehrt Stille ein.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mont d'Arbois terasz",
+                "tip": "Élvezze a csendes pillanatot hegyi kilátással.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Templom tér este",
+                "tip": "Amikor a látogatók elmennek, visszatér a csend.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa Mont d'Arbois",
+                "tip": "Bucurați-vă de un moment liniștit cu vedere la munte.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Piața bisericii seara",
+                "tip": "Când vizitatorii de zi pleacă, se așterne liniștea.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mont d'Arbois Terrace",
+                "tip": "Enjoy a quiet moment with a mountain view.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Church Square in the evening",
+                "tip": "When day visitors are gone, silence returns.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Aux Delices de Megève",
+                "tip": "Lokale Pâtisserie für süße Mitbringsel."
+              },
+              {
+                "name": "Scarabaeus",
+                "tip": "Handgefertigter Schmuck und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aux Delices de Megève",
+                "tip": "Helyi cukrászda édes ajándékokhoz."
+              },
+              {
+                "name": "Scarabaeus",
+                "tip": "Kézzel készített ékszerek és kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aux Delices de Megève",
+                "tip": "Patiserie locală pentru suveniruri dulci."
+              },
+              {
+                "name": "Scarabaeus",
+                "tip": "Bijuterii lucrate manual și artizanat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aux Delices de Megève",
+                "tip": "Local pastry shop for sweet souvenirs."
+              },
+              {
+                "name": "Scarabaeus",
+                "tip": "Handmade jewelry and crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die 'Meg-Busse' sind innerhalb des Ortes kostenfrei.",
+              "Laden Sie die Fahrplan-App für Echtzeit-Infos herunter.",
+              "Die Shuttle-Frequenzen sind im Winter und Sommer höher.",
+              "Behalten Sie die letzte Rückfahrt vom Mont d'Arbois im Auge."
+            ],
+            "hu": [
+              "A 'Meg-buszok' a falun belül ingyenesek.",
+              "Töltse le a menetrendi alkalmazást a valós idejű infókért.",
+              "A transzferbuszok télen és nyáron gyakrabban járnak.",
+              "Ügyeljen az utolsó visszaindulásra a Mont d'Arbois-ról."
+            ],
+            "ro": [
+              "Autobuzele 'Meg' sunt gratuite în interiorul localității.",
+              "Descărcați aplicația de mers al trenurilor pentru info în timp real.",
+              "Frecvența navetelor este mai mare iarna și vara.",
+              "Fiți atenți la ultima cursă de întoarcere de la Mont d'Arbois."
+            ],
+            "en": [
+              "The 'Meg-buses' are free within the village.",
+              "Download the timetable app for real-time information.",
+              "Shuttle frequencies are higher in winter and summer.",
+              "Keep an eye on the last return trip from Mont d'Arbois."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die kostenlosen Pendelbusse vom Place de l'Église zur Kirche. Der Bus bringt Sie trocken zum Palais de Megève für einen Vormittag voller Indoor-Aktivitäten. Mittags geht es mit der Gondel zum Mont d'Arbois, um über den Wolken zu speisen. Den Abschluss bildet der Calvaire, bevor der Bus Sie zurück ins Zentrum bringt.",
+            "hu": "Használja az ingyenes buszokat a templom tértől. A busz szárazon viszi a Palais de Megève-hez egy délelőtti fedett programra. Délben a felvonóval menjen fel a Mont d'Arbois-ra a felhők feletti ebédhez. Zárásként látogasson el a Kálváriához, mielőtt a busz visszaviszi a központba.",
+            "ro": "Folosiți autobuzele gratuite din Place de l'Église. Autobuzul vă duce la uscat la Palais de Megève pentru o dimineață de interior. La prânz, urcați cu telecabina la Mont d'Arbois pentru masa deasupra norilor. Încheiați la Calvaire, apoi luați busul spre centru.",
+            "en": "Use the free shuttle buses from Place de l'Église. The bus keeps you dry on your way to Palais de Megève for an indoor morning. At noon, take the gondola to Mont d'Arbois to dine above the clouds. Finish at the Calvaire before catching the shuttle back to the center."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Fahrplan in der App prüfen.",
+                "hu": "Ellenőrizze a menetrendet appon.",
+                "ro": "Verificați orarul în aplicație.",
+                "en": "Check the schedule in the app."
+              }
+            },
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt davor.",
+                "hu": "Buszmegálló közvetlenül előtte.",
+                "ro": "Stație chiar în față.",
+                "en": "Bus stop right in front."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Ideal bei Dauerregen.",
+                "hu": "Ideális tartós esőben.",
+                "ro": "Ideal în caz de ploaie.",
+                "en": "Ideal during persistent rain."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Gondel ist windgeschützt.",
+                "hu": "A kabin szélvédett.",
+                "ro": "Telecabina este protejată.",
+                "en": "Gondola is wind-protected."
+              }
+            },
+            {
+              "name": "Calvaire de Megève",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Station.",
+                "hu": "Rövid séta az állomástól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die 'Meg'Bus' Linien sind kostenlos.",
+              "Stellen Sie sich unter die Bushäuschen.",
+              "Gondeln fahren auch bei leichtem Regen.",
+              "Halten Sie die App 'Megève' bereit."
+            ],
+            "hu": [
+              "A 'Meg'Bus' vonalak ingyenesek.",
+              "Várjon a fedett buszmegállókban.",
+              "A felvonók esőben is járnak.",
+              "Legyen kéznél a 'Megève' applikáció."
+            ],
+            "ro": [
+              "Liniile 'Meg'Bus' sunt gratuite.",
+              "Așteptați în stațiile acoperite.",
+              "Telecabinele circulă și pe ploaie.",
+              "Aveți aplicația 'Megève' pregătită."
+            ],
+            "en": [
+              "The 'Meg'Bus' lines are free of charge.",
+              "Wait inside the covered bus shelters.",
+              "Gondolas operate even during light rain.",
+              "Keep the 'Megève' app handy for updates."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Skibus bringt Sie warm vom Zentrum zur Kirche und weiter zum Palais de Megève. Mittags schweben Sie mit der Gondel über verschneite Tannen zum Mont d'Arbois. Nachmittags ist der Calvaire ein Wintermärchen, bevor Sie den Shuttle zurück nutzen. Der Tag endet perfekt mit einem Saunabesuch, den Sie bequem per Transit erreichen.",
+            "hu": "A síbusz melegen viszi a központból a templomhoz, majd a Palais-hoz. Délben a felvonóval lebegjen a havas fenyők felett a Mont d'Arbois-ra. Délután a Kálvária igazi téli mese, mielőtt visszabuszozna. A nap szaunával zárul, melyet kényelmesen elérhet a tömegközlekedéssel.",
+            "ro": "Ski-busul vă duce la căldură din centru spre biserică și Palais. La prânz, urcați cu telecabina peste brazii înzăpeziți spre Mont d'Arbois. După-amiaza, Calvaire e un basm de iarnă. Ziua se încheie perfect la saună, accesibilă ușor cu transportul public.",
+            "en": "The ski bus keeps you warm from the center to the church and Palais. At noon, glide over snowy pines in the gondola to Mont d'Arbois. In the afternoon, the Calvaire is a winter wonderland. End your day at the sauna, easily reached by the local shuttle."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Église",
+              "tip_5lang": {
+                "de": "Busse sind oft sehr voll.",
+                "hu": "A buszok gyakran zsúfoltak.",
+                "ro": "Autobuzele sunt adesea pline.",
+                "en": "Buses can be quite crowded."
+              }
+            },
+            {
+              "name": "Church of Saint-Jean-Baptiste",
+              "tip_5lang": {
+                "de": "Nahegelegener Aufwärmort.",
+                "hu": "Közeli melegedőhely.",
+                "ro": "Loc de încălzire apropiat.",
+                "en": "Nearby place to warm up."
+              }
+            },
+            {
+              "name": "Palais de Megève",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt.",
+                "hu": "Központi átszállási pont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": "Mont d'Arbois",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht.",
+                "hu": "Élvezze a kilátást.",
+                "ro": "Bucurați-vă de priveliște.",
+                "en": "Enjoy the snowy views."
+              }
+            },
+            {
+              "name": "Calvaire de Megève",
+              "tip_5lang": {
+                "de": "Gutes Schuhwerk für Haltestelle.",
+                "hu": "Jó cipő a megállóhoz.",
+                "ro": "Încălțăminte bună pentru stație.",
+                "en": "Good shoes needed for the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Skibusse fahren im 15-Minuten-Takt.",
+              "Achten Sie auf die letzte Rückfahrt.",
+              "Heizung in den Bussen ist sehr stark.",
+              "Navettes sind für Fußgänger kostenlos."
+            ],
+            "hu": [
+              "A síbuszok 15 percenként járnak.",
+              "Figyeljen az utolsó visszajáratra.",
+              "A buszok fűtése nagyon erős.",
+              "A Navette járatok gyalogosoknak ingyenesek."
+            ],
+            "ro": [
+              "Ski-busurile circulă la 15 minute.",
+              "Atenție la ultima cursă de retur.",
+              "Încălzirea în bus e foarte puternică.",
+              "Navetele sunt gratuite pentru pietoni."
+            ],
+            "en": [
+              "Ski buses run every 15 minutes.",
+              "Check the time for the last return trip.",
+              "Heating in the buses is quite powerful.",
+              "The Navette shuttles are free for pedestrians."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.megeve-tourisme.fr/en/webcams/",
-    "tourism_office": "https://www.megeve-tourisme.fr/",
-    "events": "https://www.megeve-tourisme.fr/en/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Megève hat franzoesisches Flair, Pariser Familien und gehobenes Publikum, weniger international als Chamonix. In Boutiquen und Restaurants wird Englisch verstanden, aber Franzoesisch ist die Hauptsprache. 'Bonjour madame/monsieur' beim Eintreten ist Pflicht.",
-      "hu": "Megève francias hangulatu, parizsi csaladok es elegans kozonseg, kevesbe nemzetkozi, mint Chamonix. Butikokban es ettermekben az angolt ertik, de a francia a fo. 'Bonjour madame/monsieur' belepeskor kotelezo.",
-      "ro": "Megève are sarm francez autentic, familii pariziene si clientela rafinata, mai putin international decat Chamonix. In boutique-uri si restaurante engleza e inteleasa, dar franceza e limba principala. 'Bonjour madame/monsieur' la intrare e obligatoriu.",
-      "en": "Megève has authentic French chic — Parisian families and an upmarket crowd, less international than Chamonix. English is understood in boutiques and restaurants, but French is the main language. A 'bonjour madame/monsieur' on entering is expected."
-    },
-    "best_time_to_visit": {
-      "de": "Skisaison Dezember bis Mitte April, Sommer Juli-August fuer Wandern, Golf und Reiten in den Bergweiden. Megève hat niedrigere Lage (1100m), daher in milden Wintern oft schneearm auf den unteren Pisten. Schoenste Zeit Februar-Maerz mit Sonne und Schnee.",
-      "hu": "Si szezon december-aprilis kozepe, nyaron julius-augusztus turazas, golf es lovaglas a havasi reten. Megève alacsonyabb (1100m), enyhe teleken az also pistak gyakran hoszegenyek. A legszebb ido februar-marcius, napsutessel es hoval.",
-      "ro": "Sezonul de schi din decembrie pana la mijlocul lui aprilie, vara in iulie-august pentru drumetii, golf si calarie pe pasunile alpine. Megève e la altitudine joasa (1100m), in ierni blande partiile de jos au putina zapada. Cea mai frumoasa perioada e februarie-martie, cu soare si zapada.",
-      "en": "Ski season December to mid-April; July-August for hiking, golf and horse-riding on mountain pastures. Megève sits relatively low (1100m), so lower pistes can run thin in mild winters. The sweetest spot is February-March — sun and snow together."
-    },
-    "neighborhood_warnings": {
-      "de": "Zentrum ist Fussgaengerzone, Pferdekutschen ueberall, charmant aber Pferdedung im Schmelzwasser nicht uebersehen. Hotels und Chalets sehr teuer, einfache 3-Sterne ab 250 Euro. Anfahrt mit Auto im Winter ab Sallanches mit Schneeketten.",
-      "hu": "A kozpont setalo zona, mindenhol lovaskocsi, sarmos de a loganej a hoolvadasban nem nezhetsz el. Hotelek es chaletek nagyon dragak, egyszeru 3 csillagos 250 eurotol. Telen Sallanches-tol holanccal kell hajtani.",
-      "ro": "Centrul e pietonal, trasuri peste tot, fermecator, dar baliga in zapada topita e de evitat. Hoteluri si chalete foarte scumpe, un 3 stele simplu de la 250 euro. Iarna se urca de la Sallanches doar cu lanturi.",
-      "en": "The centre is pedestrianised with horse-drawn carriages everywhere — charming, but watch for manure in the slush. Hotels and chalets are pricey, even a simple 3-star starts at 250 euros. In winter, the drive up from Sallanches needs chains."
-    },
-    "parking_real_time": ""
   }
 }

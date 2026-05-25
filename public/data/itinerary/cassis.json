@@ -324,6 +324,446 @@
           "Carry plenty of water.",
           "Be aware of the Mistral winds."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt am malerischen Hafen von Cassis, dem pulsierenden Herz der Stadt. Nach einem Besuch der charmanten Kirche Saint-Michel entspannen Sie am Hauptstrand Grande Mer. Den Nachmittag verbringen Sie auf der Promenade des Lombards mit spektakulären Ausblicken auf das Cap Canaille, bevor Sie den Tag an der natürlichen Schönheit von Port-Miou ausklingen lassen.",
+            "hu": "A napot Cassis festői kikötőjében kezdi, amely a város lüktető szíve. A bájos Szent Mihály-templom megtekintése után lazítson a Grande Mer strandon. A délutánt a Lombards sétányon töltse, ahonnan pazar kilátás nyílik a Cap Canaille szikláira, majd zárja a napot a Port-Miou öböl természetes szépségével.",
+            "ro": "Ziua începe în portul pitoresc din Cassis, inima vibrantă a orașului. După o vizită la fermecătoarea biserică Saint-Michel, relaxați-vă pe plaja Grande Mer. Petreceți după-amiaza pe promenada Lombards, cu vederi spectaculoase spre Cap Canaille, înainte de a încheia ziua admirând frumusețea naturală de la Port-Miou.",
+            "en": "Your day starts at the picturesque port of Cassis, the vibrant heart of the town. After visiting the charming Saint-Michel church, relax at the Grande Mer beach. Spend the afternoon on the Promenade des Lombards with spectacular views of Cap Canaille, before ending the day at the natural beauty of Port-Miou."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Cassis",
+                "hu": "Cassis kikötője",
+                "ro": "Portul Cassis",
+                "en": "Port of Cassis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee direkt am Wasser, bevor die Tagestouristen kommen.",
+                "hu": "Igyon meg egy kávét a parton, mielőtt megérkeznek a turistacsoportok.",
+                "ro": "Savurați o cafea pe malul apei înainte de sosirea grupurilor de turiști.",
+                "en": "Enjoy a coffee by the water before the day-trippers arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die provenzalische Architektur dieser historischen Kirche.",
+                "hu": "Csodálja meg e történelmi templom provence-i építészetét.",
+                "ro": "Admirați arhitectura provensală a acestei biserici istorice.",
+                "en": "Admire the Provencal architecture of this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Grande Mer",
+                "hu": "Grande Mer strand",
+                "ro": "Plaja Grande Mer",
+                "en": "Grande Mer Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein schnelles Bad im türkisfarbenen Wasser.",
+                "hu": "Tökéletes hely egy gyors mártózásra a türkizkék vízben.",
+                "ro": "Locul perfect pentru o baie rapidă în apa turcoaz.",
+                "en": "Perfect for a quick dip in the turquoise waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Quai des Baux - Mittagessen",
+                "hu": "Quai des Baux - Ebéd",
+                "ro": "Quai des Baux - Prânz",
+                "en": "Quai des Baux - Lunch"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die lokale Fischsuppe mit Blick auf die Boote.",
+                "hu": "Kóstolja meg a helyi hallevest a hajókra néző teraszok egyikén.",
+                "ro": "Gustați supa de pește locală pe una dintre terasele cu vedere la bărci.",
+                "en": "Try the local fish soup on one of the terraces overlooking the boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Lombards",
+                "hu": "Lombards sétány",
+                "ro": "Promenada Lombards",
+                "en": "Promenade des Lombards"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Klippenpfad mit Blick auf das Schloss.",
+                "hu": "Gyönyörű sziklamenti ösvény kilátással a várra.",
+                "ro": "O potecă superbă pe faleză, cu vedere spre castel.",
+                "en": "A beautiful cliffside path with views of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Port-Miou",
+                "hu": "Port-Miou öböl",
+                "ro": "Calanca Port-Miou",
+                "en": "Port-Miou Inlet"
+              },
+              "tip_5lang": {
+                "de": "Der Eingang zum Nationalpark, berühmt für seine Segelboote.",
+                "hu": "A nemzeti park kapuja, híres a horgonyzó vitorlásokról.",
+                "ro": "Poarta de intrare în parcul național, faimoasă pentru ambarcațiunile cu pânze.",
+                "en": "The entrance to the national park, famous for its sailing boats."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cassis Weißwein",
+                "tip": "Probieren Sie den berühmten AOC Cassis Weißwein in einer lokalen Bar."
+              },
+              {
+                "name": "Le Poisson Rouge",
+                "tip": "Frische Meeresfrüchte direkt am Hafen serviert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cassis fehérbor",
+                "tip": "Kóstolja meg a híres AOC Cassis fehérbort egy helyi bárban."
+              },
+              {
+                "name": "Le Poisson Rouge",
+                "tip": "Friss tengeri herkenyűk közvetlenül a kikötőben felszolgálva."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin alb de Cassis",
+                "tip": "Gustați faimosul vin alb AOC Cassis la un bar local."
+              },
+              {
+                "name": "Le Poisson Rouge",
+                "tip": "Fructe de mare proaspete servite chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cassis White Wine",
+                "tip": "Try the famous AOC Cassis white wine at a local bar."
+              },
+              {
+                "name": "Le Poisson Rouge",
+                "tip": "Fresh seafood served right in the harbour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Port-Miou Klippen",
+                "tip": "Ein ruhiger Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin Public de Cassis",
+                "tip": "Ein schattiger Park abseits der Menge.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Port-Miou sziklák",
+                "tip": "Csendes hely a naplemente megtekintéséhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin Public de Cassis",
+                "tip": "Árnyas park távol a tömegtől.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza Port-Miou",
+                "tip": "Un loc liniștit pentru apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin Public de Cassis",
+                "tip": "Un parc umbros departe de mulțime.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Port-Miou Cliffs",
+                "tip": "A quiet spot for sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Jardin Public de Cassis",
+                "tip": "A shaded park away from the crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Provenzalischer Markt",
+                "tip": "Mittwochs und freitags auf dem Place Baragnon."
+              },
+              {
+                "name": "L'Eau de Cassis",
+                "tip": "Lokale Parfümerie mit Düften der Provence."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Provence-i piac",
+                "tip": "Szerdán és pénteken a Place Baragnon téren."
+              },
+              {
+                "name": "L'Eau de Cassis",
+                "tip": "Helyi parfüméria Provence illataival."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața provensală",
+                "tip": "Miercurea și vinerea în Place Baragnon."
+              },
+              {
+                "name": "L'Eau de Cassis",
+                "tip": "Parfumerie locală cu arome din Provence."
+              }
+            ],
+            "en": [
+              {
+                "name": "Provençal Market",
+                "tip": "Wednesdays and Fridays at Place Baragnon."
+              },
+              {
+                "name": "L'Eau de Cassis",
+                "tip": "Local perfumery with scents of Provence."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Klippenpfade.",
+              "Reservieren Sie Ihr Abendessen am Hafen im Voraus.",
+              "Die Wanderung nach Port-Miou ist leicht, aber sonnig.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Achten Sie auf die Mistral-Winde."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a sziklamenti ösvényekhez.",
+              "Foglaljon asztalt előre a kikötői vacsorához.",
+              "A Port-Miou-i túra könnyű, de napos.",
+              "Vigyen magával elegendő vizet.",
+              "Figyeljen a Mistral szélre."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru potecile de pe faleză.",
+              "Rezervați din timp masa pentru cină în port.",
+              "Drumeția spre Port-Miou este ușoară, dar însorită.",
+              "Luați suficientă apă cu voi.",
+              "Atenție la vântul Mistral."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cliffside paths.",
+              "Book your portside dinner in advance.",
+              "The hike to Port-Miou is easy but sunny.",
+              "Carry plenty of water.",
+              "Be aware of the Mistral winds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am nebelverhangenen Hafen von Cassis, wo sich die bunten Fassaden im nassen Pflaster spiegeln. Suchen Sie Zuflucht in der ruhigen Kirche Saint-Michel, um das Innere zu bewundern. Mittags genießen Sie einen warmen provenzalischen Eintopf am Hafen. Nachmittags spazieren Sie auf der Promenade des Lombards für dramatische Küstenblicke. Beenden Sie den Tag in Port-Miou, wo die Kalksteinfelsen im Regen einen silbernen Glanz annehmen.",
+            "hu": "Kezdje a reggelt a ködös cassis-i kikötőben, ahol a színes homlokzatok tükröződnek a nedves kövön. Keressen menedéket a csendes Saint-Michel templomban. Ebédre fogyasszon el egy meleg provence-i ragut a kikötőben, miközben nézi az esőt a vízen. Délután sétáljon végig a Promenade des Lombards mentén a drámai tengerparti kilátásért. A napot Port-Miou-nál zárja, ahol a mészkősziklák ezüstös árnyalatot öltenek az esőben.",
+            "ro": "Începeți dimineața în portul Cassis acoperit de ceață, unde fațadele colorate se oglindesc în pavajul umed. Căutați refugiu în liniștita Biserică Saint-Michel. La prânz, savurați o tocană provensală caldă în port. După-amiaza, plimbați-vă pe Promenade des Lombards pentru vederi de coastă dramatice. Încheiați ziua la Port-Miou, unde stâncile de calcar capătă o nuanță argintie sub ploaie.",
+            "en": "Start your morning at the mist-covered Port of Cassis, where the colorful facades reflect in the wet pavement. Seek refuge in the quiet Church of Saint-Michel to admire its interior. For lunch, enjoy a warm Provencal stew at the port while watching the rain on the water. In the afternoon, walk along the Promenade des Lombards for dramatic coastal views. End your day at Port-Miou, where the limestone cliffs take on a silver hue under the rain."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen bieten gemütliche, überdachte Plätze.",
+                "hu": "A kikötői kávézók kényelmes, fedett helyeket kínálnak.",
+                "ro": "Cafenelele din port oferă locuri acoperite și primitoare.",
+                "en": "Port cafes offer cozy, covered seating areas."
+              }
+            },
+            {
+              "name": "Church of Saint-Michel",
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Ort, um die lokale Kunst zu bewundern.",
+                "hu": "Tökéletes száraz hely a helyi művészet megcsodálására.",
+                "ro": "Un loc uscat perfect pentru a admira arta locală.",
+                "en": "A perfect dry spot to admire local art."
+              }
+            },
+            {
+              "name": "Grande Mer Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen aus sicherer Entfernung.",
+                "hu": "Figyelje a drámai hullámokat biztonságos távolságból.",
+                "ro": "Urmăriți valurile dramatice de la o distanță sigură.",
+                "en": "Watch the dramatic waves from a safe distance."
+              }
+            },
+            {
+              "name": "Quai des Baux - Lunch",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Bouillabaisse gegen die Kälte.",
+                "hu": "Kóstoljon meg egy forró bouillabaisse-t a hideg ellen.",
+                "ro": "Încercați o bouillabaisse fierbinte împotriva frigului.",
+                "en": "Try a hot bouillabaisse to warm up."
+              }
+            },
+            {
+              "name": "Promenade des Lombards",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Careful, the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet",
+              "tip_5lang": {
+                "de": "Der weiße Kalkstein leuchtet auch unter grauen Wolken.",
+                "hu": "A fehér mészkő szürke felhők alatt is ragyog.",
+                "ro": "Calcarul alb strălucește chiar și sub nori gri.",
+                "en": "The white limestone glows even under grey clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie einen stabilen Regenschirm, da der Wind am Meer stark sein kann.",
+              "Die Kalksteinpfade in der Nähe der Calanques werden bei Nässe sehr rutschig.",
+              "Besuchen Sie das Stadtmuseum, wenn der Regen zu stark wird.",
+              "Wasserdichte Schuhe sind für die Hafenpromenade unerlässlich."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a tengerparti szél erős lehet.",
+              "A Calanques közeli mészkőösvények nedvesen nagyon csúszóssá válnak.",
+              "Látogassa meg a városi múzeumot, ha túl erősen esik az eső.",
+              "A vízálló cipő elengedhetetlen a kikötői sétányon."
+            ],
+            "ro": [
+              "Purtați o umbrelă rezistentă, deoarece vântul de la mare poate fi puternic.",
+              "Potecile de calcar din apropierea Calanques devin foarte alunecoase când sunt ude.",
+              "Vizitați muzeul orașului dacă ploaia devine prea puternică.",
+              "Încălțămintea impermeabilă este esențială pentru faleza portului."
+            ],
+            "en": [
+              "Carry a sturdy umbrella as coastal winds can be strong.",
+              "Limestone paths near the Calanques become very slippery when wet.",
+              "Visit the local museum if the rain becomes too heavy.",
+              "Waterproof shoes are essential for the port promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen klaren Wintermorgen am ruhigen Hafen von Cassis unter strahlend blauem Himmel. Besuchen Sie die friedliche Kirche Saint-Michel vor einem zügigen Spaziergang am leeren Strand Grande Mer. Wärmen Sie sich mittags mit einem herzhaften lokalen Essen am Quai des Baux auf. Nachmittags fangen Sie das goldene Licht auf der Promenade des Lombards ein. Beenden Sie Ihre Wanderung in Port-Miou und erleben Sie gegen 17:00 Uhr den Sonnenuntergang über den Calanques.",
+            "hu": "Élvezze a friss téli reggelt a csendes cassis-i kikötőben a ragyogó kék ég alatt. Látogassa meg a békés Saint-Michel templomot egy tempós séta előtt az üres Grande Mer strandon. Ebédnél melegedjen fel egy kiadós helyi étellel a Quai des Baux-nál. Délután csípje el az aranyló fényeket a Promenade des Lombards mentén. Sétáját Port-Miou-nál zárja, megcsodálva a naplementét a Calanques felett 17:00 körül.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă de iarnă în portul liniștit Cassis sub un cer albastru senin. Vizitați Biserica Saint-Michel înainte de o plimbare revigorantă pe plaja goală Grande Mer. La prânz, încălziți-vă cu o masă locală consistentă la Quai des Baux. După-amiaza, surprindeți lumina aurie pe Promenade des Lombards. Încheiați plimbarea la Port-Miou, admirând apusul peste Calanques în jurul orei 17:00.",
+            "en": "Enjoy a crisp winter morning at the quiet Port of Cassis under a clear blue sky. Visit the peaceful Church of Saint-Michel before a brisk walk on the empty Grande Mer Beach. Warm up with a hearty local lunch at Quai des Baux. In the afternoon, catch the golden light on the Promenade des Lombards. Conclude your walk at Port-Miou, witnessing the sunset over the Calanques around 17:00."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist ideal für Fotos ohne Menschenmassen.",
+                "hu": "A reggeli fény ideális a tömeg nélküli fotózáshoz.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii fără mulțimi.",
+                "en": "Morning light is ideal for photos without the crowds."
+              }
+            },
+            {
+              "name": "Church of Saint-Michel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung abseits der Kälte.",
+                "hu": "Csendes hely az elmélkedésre, távol a hidegtől.",
+                "ro": "Un loc liniștit pentru reflecție, departe de frig.",
+                "en": "A quiet place for reflection away from the cold."
+              }
+            },
+            {
+              "name": "Grande Mer Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen erfrischenden Spaziergang an der Seeluft.",
+                "hu": "Tökéletes egy frissítő sétához a tengeri levegőn.",
+                "ro": "Perfect pentru o plimbare revigorantă în aerul marin.",
+                "en": "Perfect for a refreshing walk in the sea air."
+              }
+            },
+            {
+              "name": "Quai des Baux - Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie sonnige Plätze hinter Glaswänden.",
+                "hu": "Élvezze a napsütötte helyeket az üvegfalak mögött.",
+                "ro": "Bucurați-vă de locurile însorite din spatele geamurilor.",
+                "en": "Enjoy sunny spots behind glass windbreaks."
+              }
+            },
+            {
+              "name": "Promenade des Lombards",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Mistral-Wind, der hier kalt wehen kann.",
+                "hu": "Ügyeljen a Misztrál szélre, amely itt hidegen fújhat.",
+                "ro": "Atenție la vântul Mistral, care poate sufla rece aici.",
+                "en": "Watch out for the Mistral wind, which can blow cold here."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet",
+              "tip_5lang": {
+                "de": "Beste Zeit für Wanderungen ohne die Sommerhitze.",
+                "hu": "A legjobb idő a túrázásra a nyári hőség nélkül.",
+                "ro": "Cea mai bună perioadă pentru drumeții fără căldura verii.",
+                "en": "Best time for hiking without the summer heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, um den kalten Mistral-Wind abzuwehren.",
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie Ihre Rückkehr rechtzeitig.",
+              "Viele Touristengeschäfte sind geschlossen, aber Lokale für Einheimische bleiben offen.",
+              "Die Luft ist im Winter außergewöhnlich klar für die Fotografie."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hideg Misztrál szél ellen.",
+              "A nap 17:00 körül nyugszik, tervezze meg időben a visszatérést.",
+              "Sok turistaüzlet zárva van, de a helyiek által kedvelt helyek nyitva maradnak.",
+              "A levegő télen rendkívül tiszta a fotózáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a combate vântul rece Mistral.",
+              "Soarele apune în jurul orei 17:00, planificați întoarcerea la timp.",
+              "Multe magazine turistice sunt închise, dar locurile localnicilor rămân deschise.",
+              "Aerul este excepțional de clar iarna pentru fotografie."
+            ],
+            "en": [
+              "Dress in layers to combat the cold Mistral wind.",
+              "The sun sets around 17:00, plan your return in time.",
+              "Many tourist shops are closed, but local spots stay open.",
+              "The air is exceptionally clear in winter for photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -603,6 +1043,398 @@
           "The Route des Crêtes may be closed in high winds.",
           "Carry plenty of water."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie durch die berühmten Weinberge von Cassis bis hin zur Route des Crêtes. Nach dem anstrengenden Aufstieg werden Sie mit einem Panorama über das Mittelmeer belohnt. Der Rückweg führt über die Calanque de Port-Miou und endet mit einer wohlverdienten Pause am Bestouan Strand.",
+            "hu": "Ez a kerékpártúra Cassis híres szőlőültetvényein keresztül egészen a Route des Crêtes útig vezet. A fárasztó emelkedő után a Földközi-tenger panorámája lesz a jutalma. A visszaút a Port-Miou öblön keresztül vezet, és a jól megérdemelt pihenéssel zárul a Bestouan strandon.",
+            "ro": "Acest tur cu bicicleta vă poartă prin faimoasele podgorii din Cassis până la Route des Crêtes. După urcarea solicitantă, veți fi răsplătiți cu o panoramă asupra Mediteranei. Drumul de întoarcere trece pe lângă Calanca Port-Miou și se încheie cu o pauză binemeritată pe plaja Bestouan.",
+            "en": "This bike tour takes you through the famous vineyards of Cassis up to the Route des Crêtes. After the strenuous climb, you'll be rewarded with a panorama over the Mediterranean. The return journey passes by the Port-Miou inlet and ends with a well-deserved break at Bestouan beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Cassis",
+                "hu": "Cassis kikötője",
+                "ro": "Portul Cassis",
+                "en": "Port of Cassis"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühle Morgenluft zu genießen.",
+                "hu": "Induljon korán, hogy élvezze a hűvös reggeli levegőt.",
+                "ro": "Porniți devreme pentru a vă bucura de aerul răcoros de dimineață.",
+                "en": "Start early to enjoy the cool morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Clos Sainte Magdeleine",
+                "hu": "Clos Sainte Magdeleine szőlőbirtok",
+                "ro": "Podgoriile Clos Sainte Magdeleine",
+                "en": "Clos Sainte Magdeleine Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Weinberg direkt am Meer.",
+                "hu": "Gyönyörű szőlőbirtok közvetlenül a tengerparton.",
+                "ro": "O podgorie superbă chiar lângă mare.",
+                "en": "A stunning vineyard located right by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Port-Miou",
+                "hu": "Port-Miou öböl",
+                "ro": "Calanca Port-Miou",
+                "en": "Port-Miou Inlet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Fahrräder am Eingang ab und erkunden Sie die Calanque zu Fuß.",
+                "hu": "Hagyja a kerékpárokat a bejáratnál, és fedezze fel az öblöt gyalog.",
+                "ro": "Lăsați bicicletele la intrare și explorați calanca pe jos.",
+                "en": "Park your bikes at the entrance and explore the inlet on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Route des Crêtes - Aussichtspunkt",
+                "hu": "Route des Crêtes kilátópont",
+                "ro": "Route des Crêtes - Belvedere",
+                "en": "Route des Crêtes Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Anstrengender Aufstieg, aber die Aussicht ist unbezahlbar.",
+                "hu": "Fárasztó emelkedő, de a kilátás megfizethetetlen.",
+                "ro": "Urcare solicitantă, dar priveliștea este neprețuită.",
+                "en": "Tough climb, but the view is priceless."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Bestouan",
+                "hu": "Bestouan strand",
+                "ro": "Plaja Bestouan",
+                "en": "Bestouan Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannung nach der Fahrt mit Blick auf das Cap Canaille.",
+                "hu": "Pihenés a tekerés után, kilátással a Cap Canaille-ra.",
+                "ro": "Relaxare după drum, cu vedere la Cap Canaille.",
+                "en": "Relax after the ride with views of Cap Canaille."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Weinprobe Clos Sainte Magdeleine",
+                "tip": "Probieren Sie den Weißwein direkt am Ort seiner Entstehung."
+              },
+              {
+                "name": "Snack-Bar Bestouan",
+                "tip": "Leichte Sandwiches für zwischehendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Clos Sainte Magdeleine borkóstoló",
+                "tip": "Kóstolja meg a fehérbort közvetlenül a termőhelyén."
+              },
+              {
+                "name": "Bestouan Snack Bar",
+                "tip": "Könnyű szendvicsek a pihenő alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Degustare la Clos Sainte Magdeleine",
+                "tip": "Gustați vinul alb chiar la locul de origine."
+              },
+              {
+                "name": "Snack Bar Bestouan",
+                "tip": "Sandvișuri ușoare pentru pauză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Clos Sainte Magdeleine Tasting",
+                "tip": "Try the white wine right where it is produced."
+              },
+              {
+                "name": "Bestouan Snack Bar",
+                "tip": "Light sandwiches during your break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cap Canaille",
+                "tip": "Die höchste Meeresklippe Frankreichs.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Weinberg-Pfade",
+                "tip": "Ruhige Wege abseits der Hauptstraßen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cap Canaille",
+                "tip": "Franciaország legmagasabb tengerparti sziklája.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Szőlőskerti ösvények",
+                "tip": "Csendes utak a főutaktól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cap Canaille",
+                "tip": "Cea mai înaltă faleză marină din Franța.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Poteci prin vii",
+                "tip": "Drumuri liniștite departe de șoselele principale.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cap Canaille",
+                "tip": "The highest sea cliff in France.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Vineyard Paths",
+                "tip": "Quiet paths away from the main roads.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Domaine de la Ferme Blanche",
+                "tip": "Wein direkt vom Erzeuger kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Domaine de la Ferme Blanche",
+                "tip": "Vásároljon bort közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Domaine de la Ferme Blanche",
+                "tip": "Cumpărați vin direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Domaine de la Ferme Blanche",
+                "tip": "Buy wine directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Route des Crêtes.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Tragen Sie einen Helm und Sonnenschutz.",
+              "Die Route des Crêtes kann bei starkem Wind gesperrt sein.",
+              "Nehmen Sie genügend Wasser mit."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt a Route des Crêtes-hez.",
+              "Ellenőrizze a fékeket a lejtmenet előtt.",
+              "Viseljen sisakot és használjon naptejet.",
+              "Erős szél esetén a Route des Crêtes utat lezárhatják.",
+              "Vigyen magával bőséges vizet."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru Route des Crêtes.",
+              "Verificați frânele înainte de coborâre.",
+              "Purtați cască și protecție solară.",
+              "Route des Crêtes poate fi închisă în caz de vânt puternic.",
+              "Luați multă apă cu voi."
+            ],
+            "en": [
+              "Rent an e-bike for the Route des Crêtes.",
+              "Check your brakes before the descent.",
+              "Wear a helmet and sun protection.",
+              "The Route des Crêtes may be closed in high winds.",
+              "Carry plenty of water."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hafen und achten Sie auf rutschiges Kopfsteinpflaster. Fahren Sie zu den Weinbergen von Clos Sainte Magdeleine für eine gemütliche Innenverkostung. Mittags erreichen Sie Port-Miou, wo die Pfade matschig sein können. Die Route des Crêtes bietet im Regen mystische Ausblicke, erfordert aber höchste Konzentration. Beenden Sie Ihre Tour am Strand von Bestouan, während der Regen auf das Meer prasselt.",
+            "hu": "Kezdje óvatosan a kikötőben, figyelve a csúszós macskakövekre. Tekerjen a Clos Sainte Magdeleine szőlőskerthez egy hangulatos beltéri kóstolóra. Délben érje el Port-Miou-t, ahol az ösvények sárosak lehetnek. A Route des Crêtes misztikus kilátást nyújt az esőben, de maximális koncentrációt igényel. Fejezze be túráját a Bestouan strandon, miközben az eső a tengerre hullik.",
+            "ro": "Începeți cu prudență în port, atenți la pavajul alunecos. Pedalați spre podgoriile Clos Sainte Magdeleine pentru o degustare la interior. La prânz ajungeți la Port-Miou, unde potecile pot fi noroioase. Route des Crêtes oferă vederi mistice în ploaie, dar necesită concentrare maximă. Încheiați turul la plaja Bestouan, în timp ce ploaia cade peste mare.",
+            "en": "Start cautiously at the port, watching for slippery cobblestones. Cycle to Clos Sainte Magdeleine vineyards for a cozy indoor tasting. At noon, reach Port-Miou where paths might be muddy. The Route des Crêtes offers mystic views in the rain but requires maximum concentration. End your tour at Bestouan beach as the rain patters on the sea."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Grip auf nasser Straße.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért a nedves úton.",
+                "ro": "Verificați presiunea roților pentru aderență pe drum ud.",
+                "en": "Check tire pressure for better grip on wet roads."
+              }
+            },
+            {
+              "name": "Clos Sainte Magdeleine Vineyards",
+              "tip_5lang": {
+                "de": "Die Weinkeller bieten einen perfekten Schutz vor dem Regen.",
+                "hu": "A borospincék tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Cramele oferă un adăpost perfect împotriva ploii.",
+                "en": "The wine cellars provide perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile, unbefestigte Wege im Regen.",
+                "hu": "Kerülje a meredek, nem aszfaltozott utakat esőben.",
+                "ro": "Evitați potecile abrupte și neasfaltate pe ploaie.",
+                "en": "Avoid steep, unpaved paths in the rain."
+              }
+            },
+            {
+              "name": "Route des Crêtes Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen kann die Straße gesperrt sein.",
+                "hu": "Erős szél és eső esetén az út lezárható.",
+                "ro": "Drumul poate fi închis în caz de vânt și ploaie puternică.",
+                "en": "The road may be closed in case of strong wind and rain."
+              }
+            },
+            {
+              "name": "Bestouan Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandduschen, um den Schlamm abzuspülen.",
+                "hu": "Használja a strandzuhanyokat a sár lemosására.",
+                "ro": "Folosiți dușurile de pe plajă pentru a spăla noroiul.",
+                "en": "Use the beach showers to wash off any mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrrad über funktionierende Schutzbleche verfügt.",
+              "Bremsen Sie frühzeitig, da nasse Felgen länger zum Anhalten brauchen.",
+              "Die Route des Crêtes kann bei starkem Wind und Regen gefährlich sein.",
+              "Tragen Sie gut sichtbare, wasserdichte Kleidung."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár rendelkezik sárvédővel.",
+              "Fékezzen időben, mert a nedves felniknek hosszabb idő kell a megálláshoz.",
+              "A Route des Crêtes veszélyes lehet erős szélben és esőben.",
+              "Viseljen jól látható, vízálló ruházatot."
+            ],
+            "ro": [
+              "Asigurați-vă că bicicleta are aripi de protecție funcționale.",
+              "Frânați din timp, deoarece jantele ude necesită mai mult timp pentru oprire.",
+              "Route des Crêtes poate fi periculoasă pe vânt și ploaie puternică.",
+              "Purtați echipament impermeabil de înaltă vizibilitate."
+            ],
+            "en": [
+              "Ensure your bike has functional mudguards.",
+              "Brake early as wet rims take longer to stop.",
+              "The Route des Crêtes can be dangerous in high winds and rain.",
+              "Wear high-visibility waterproof gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie den Hafen am Morgen bei frischer Luft und klarem Licht. Radeln Sie zu den winterlichen Weinbergen, wo die Reben geschnitten werden. Port-Miou bietet im Winter eine scharfe Sicht auf das tiefblaue Meer. Erklimmen Sie die Route des Crêtes für atemberaubende Panoramen, aber wappnen Sie sich gegen den kalten Wind. Beenden Sie Ihre Tour am ruhigen Bestouan-Strand, bevor die Sonne früh hinter den Klippen verschwindet.",
+            "hu": "Fedezze fel a kikötőt reggel a friss levegőn és tiszta fényben. Tekerjen a téli szőlőskertekhez, ahol a tőkéket metszik. Port-Miou télen éles kilátást nyújt a mélykék tengerre. Mássza meg a Route des Crêtes-t a lélegzetelállító panorámáért, de készüljön fel a hideg szélre. Zárja túráját a csendes Bestouan strandon, mielőtt a nap korán eltűnik a sziklák mögött.",
+            "ro": "Explorați portul dimineața în aerul curat și lumina clară. Pedalați spre podgoriile de iarnă, unde vița de vie este tăiată. Port-Miou oferă o vedere clară asupra mării albastre iarna. Urcați pe Route des Crêtes pentru panorame uluitoare, dar protejați-vă de vântul rece. Încheiați turul la plaja liniștită Bestouan, înainte ca soarele să dispară devreme după stânci.",
+            "en": "Explore the port in the morning with fresh air and clear light. Cycle to the winter vineyards where vines are being pruned. Port-Miou offers sharp views of the deep blue sea in winter. Climb the Route des Crêtes for breathtaking panoramas but brace yourself against the cold wind. End your tour at the quiet Bestouan beach before the sun disappears early behind the cliffs."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die morgendliche Fahrt unerlässlich.",
+                "hu": "A meleg kesztyű elengedhetetlen a reggeli tekeréshez.",
+                "ro": "Mănușile călduroase sunt esențiale pentru plimbarea de dimineață.",
+                "en": "Warm gloves are essential for the morning ride."
+              }
+            },
+            {
+              "name": "Clos Sainte Magdeleine Vineyards",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der schlafenden Weinberge.",
+                "hu": "Élvezze az alvó szőlőültetvények csendjét.",
+                "ro": "Bucurați-vă de liniștea podgoriilor adormite.",
+                "en": "Enjoy the silence of the sleeping vineyards."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine unglaubliche Fernsicht.",
+                "hu": "A tiszta téli levegő hihetetlen távoli kilátást biztosít.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate incredibilă la distanță.",
+                "en": "Clear winter air provides incredible long-distance visibility."
+              }
+            },
+            {
+              "name": "Route des Crêtes Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor plötzlichen Mistral-Böen auf den Anhöhen.",
+                "hu": "Vigyázzon a hirtelen Misztrál-széllökésekre a magaslatokon.",
+                "ro": "Atenție la rafalele bruște de Mistral pe înălțimi.",
+                "en": "Watch out for sudden Mistral gusts on the heights."
+              }
+            },
+            {
+              "name": "Bestouan Beach",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Tag bei tiefstehender Sonne zu beenden.",
+                "hu": "Csendes hely a nap befejezéséhez az alacsonyan járó napnál.",
+                "ro": "Un loc liniștit pentru a încheia ziua cu soarele la orizont.",
+                "en": "A quiet spot to end the day with the low sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und ein Stirnband unter dem Helm.",
+              "Prüfen Sie den Reifendruck, da kalte Luft ihn verringert.",
+              "Beachten Sie die kürzeren Tageslichtstunden für Überlandrouten.",
+              "Halten Sie für heiße Getränke an, um Ihre Körpertemperatur zu halten."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és fejpántot a sisak alatt.",
+              "Ellenőrizze a guminyomást, mert a hideg levegő csökkenti azt.",
+              "Ügyeljen a rövidebb nappalokra a városon kívüli útvonalakon.",
+              "Álljon meg forró italokra a testhőmérséklet megőrzése érdekében."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o bentiță sub cască.",
+              "Verificați presiunea roților, deoarece aerul rece o reduce.",
+              "Fiți atenți la orele de lumină mai scurte pentru rutele rurale.",
+              "Opriți-vă pentru băuturi calde pentru a vă menține temperatura corpului."
+            ],
+            "en": [
+              "Wear windproof gloves and a headband under your helmet.",
+              "Check tire pressure as cold air reduces it.",
+              "Be aware of shorter daylight hours for rural routes.",
+              "Stop for hot drinks to keep your core temperature up."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -905,6 +1737,430 @@
           "The Route des Crêtes may be closed in summer due to fire risk.",
           "Don't miss the Eden Théâtre, the oldest cinema in the world."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour verbindet die Schönheit von Cassis mit dem industriellen Charme von La Ciotat. Über die spektakuläre Route des Crêtes fahren Sie zur Nachbarstadt, wo Sie den Mugel Park und die einzigartige Bucht von Figuerolles erkunden. Der Tag endet mit der malerischen Rückfahrt nach Cassis für einen entspannten Abend.",
+            "hu": "Ez az autós túra Cassis szépségét ötvözi La Ciotat ipari bájával. A látványos Route des Crêtes úton haladva eljut a szomszédos városba, ahol felfedezi a Mugel parkot és a Figuerolles-öböl egyedülálló világát. A nap a festői Cassisba való visszatéréssel és egy pihentető estével zárul.",
+            "ro": "Acest tur cu mașina combină frumusețea orașului Cassis cu farmecul industrial din La Ciotat. Pe spectaculoasa Route des Crêtes veți ajunge în orașul vecin, unde veți explora Parcul Mugel și golful unic Figuerolles. Ziua se încheie cu drumul pitoresc de întoarcere la Cassis pentru o seară relaxantă.",
+            "en": "This car tour combines the beauty of Cassis with the industrial charm of La Ciotat. Via the spectacular Route des Crêtes, you'll drive to the neighboring town, where you'll explore Mugel Park and the unique Figuerolles Cove. The day ends with a scenic drive back to Cassis for a relaxed evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Cassis",
+                "hu": "Cassis kikötője",
+                "ro": "Portul Cassis",
+                "en": "Port of Cassis"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie früh im Parkhaus Mimosas.",
+                "hu": "Parkoljon korán a Mimosas parkolóházban.",
+                "ro": "Parcați devreme în parcarea Mimosas.",
+                "en": "Park early in the Mimosas parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Route des Crêtes",
+                "hu": "Route des Crêtes",
+                "ro": "Route des Crêtes",
+                "en": "Route des Crêtes"
+              },
+              "tip_5lang": {
+                "de": "Zahlreiche Haltepunkte für Fotos entlang der Klippen.",
+                "hu": "Számos megállóhely fotózáshoz a sziklák mentén.",
+                "ro": "Numeroase puncte de oprire pentru fotografii de-a lungul falezelor.",
+                "en": "Numerous stopping points for photos along the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "La Ciotat - Alter Hafen",
+                "hu": "La Ciotat - Régi kikötő",
+                "ro": "La Ciotat - Portul Vechi",
+                "en": "La Ciotat - Old Port"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Wiege des Kinos.",
+                "hu": "Látogasson el a mozi bölcsőjébe.",
+                "ro": "Vizitați leagănul cinematografiei.",
+                "en": "Visit the birthplace of cinema."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Mugel",
+                "hu": "Parc du Mugel",
+                "ro": "Parcul Mugel",
+                "en": "Parc du Mugel"
+              },
+              "tip_5lang": {
+                "de": "Ein botanischer Garten am Fuße des Bec de l'Aigle.",
+                "hu": "Botanikus kert a Bec de l'Aigle lábánál.",
+                "ro": "O grădină botanică la poalele stâncii Bec de l'Aigle.",
+                "en": "A botanical garden at the foot of the Bec de l'Aigle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Figuerolles",
+                "hu": "Figuerolles-öböl",
+                "ro": "Golful Figuerolles",
+                "en": "Figuerolles Cove"
+              },
+              "tip_5lang": {
+                "de": "Berühmt für seine ockerfarbenen Felsformationen.",
+                "hu": "Híres az okkersárga sziklaformációiról.",
+                "ro": "Faimos pentru formațiunile sale stâncoase de culoarea ocru.",
+                "en": "Famous for its ochre-colored rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Rückkehr nach Cassis - Sunset",
+                "hu": "Visszatérés Cassisba - Naplemente",
+                "ro": "Întoarcerea în Cassis - Apus",
+                "en": "Return to Cassis - Sunset"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abend in der Stadt.",
+                "hu": "Élvezze az estét a városban.",
+                "ro": "Savurați seara în oraș.",
+                "en": "Enjoy the evening in town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chez Tania",
+                "tip": "In Figuerolles, probieren Sie die Aioli."
+              },
+              {
+                "name": "L'Amphitrite",
+                "tip": "Elegantes Restaurant in La Ciotat."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chez Tania",
+                "tip": "Figuerolles-ban, kóstolja meg az aiolit."
+              },
+              {
+                "name": "L'Amphitrite",
+                "tip": "Elegáns étterem La Ciotatban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chez Tania",
+                "tip": "În Figuerolles, încercați sosul aioli."
+              },
+              {
+                "name": "L'Amphitrite",
+                "tip": "Restaurant elegant în La Ciotat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chez Tania",
+                "tip": "In Figuerolles, try the aioli."
+              },
+              {
+                "name": "L'Amphitrite",
+                "tip": "Elegant restaurant in La Ciotat."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Belvédère de l'Anse du Sec",
+                "tip": "Panoramablick auf die Bucht von La Ciotat.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parc du Mugel",
+                "tip": "Exotische Pflanzen und Meeresbrise.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvédère de l'Anse du Sec",
+                "tip": "Panorámás kilátás a La Ciotat-i öbölre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parc du Mugel",
+                "tip": "Exotikus növények és tengeri szellő.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvédère de l'Anse du Sec",
+                "tip": "Vedere panoramică asupra golfului La Ciotat.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parcul Mugel",
+                "tip": "Plante exotice și briză marină.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvédère de l'Anse du Sec",
+                "tip": "Panoramic view of La Ciotat bay.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parc du Mugel",
+                "tip": "Exotic plants and sea breeze.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Ciotat Flohmarkt",
+                "tip": "Gelegentlich am Hafen zu finden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Ciotat bolhapiac",
+                "tip": "Alkalmanként a kikötőben található."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Târgul de vechituri La Ciotat",
+                "tip": "Se găsește ocazional în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Ciotat Flea Market",
+                "tip": "Occasionally found at the port."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Route des Crêtes hat enge Kurven, fahren Sie vorsichtig.",
+              "Parken in Cassis ist schwierig, nutzen Sie Park-and-Ride Gorguettes.",
+              "In La Ciotat ist das Parken am Hafen einfacher.",
+              "Die Route des Crêtes kann bei Brandgefahr im Sommer gesperrt sein.",
+              "Verpassen Sie nicht das Eden Théâtre, das älteste Kino der Welt."
+            ],
+            "hu": [
+              "A Route des Crêtes éles kanyarokkal teli, vezessen óvatosan.",
+              "Cassisban nehéz a parkolás, használja a Gorguettes P+R parkolót.",
+              "La Ciotatban a kikötőnél könnyebb parkolni.",
+              "Nyáron tűzveszély miatt a Route des Crêtes utat lezárhatják.",
+              "Ne hagyja ki az Eden Théâtre-t, a világ legrégebbi moziját."
+            ],
+            "ro": [
+              "Route des Crêtes are viraje strânse, conduceți cu atenție.",
+              "Parcarea în Cassis este dificilă, folosiți P+R Gorguettes.",
+              "În La Ciotat, parcarea în port este mai ușoară.",
+              "Route des Crêtes poate fi închisă vara din cauza riscului de incendiu.",
+              "Nu ratați Eden Théâtre, cel mai vechi cinematograf din lume."
+            ],
+            "en": [
+              "The Route des Crêtes has tight turns, drive carefully.",
+              "Parking in Cassis is difficult, use the Gorguettes P+R.",
+              "Parking in La Ciotat at the port is easier.",
+              "The Route des Crêtes may be closed in summer due to fire risk.",
+              "Don't miss the Eden Théâtre, the oldest cinema in the world."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Blick auf den Hafen sicher und trocken aus Ihrem Auto. Fahren Sie die Route des Crêtes vorsichtig entlang; bei Nebel bieten die Wolken ein dramatisches Schauspiel. Mittags in La Ciotat können Sie den alten Hafen unter Regenschirmen erkunden. Der Parc du Mugel wirkt im Regen besonders grün und üppig. Die Bucht von Figuerolles wirkt bei Sturm wild und imposant. Kehren Sie am Abend gemütlich nach Cassis zurück.",
+            "hu": "Élvezze a kikötői kilátást biztonságban és szárazon az autójából. Hajtson végig óvatosan a Route des Crêtes mentén; ködben a felhők drámai látványt nyújtanak. Délben La Ciotat-ban ernyők alatt fedezheti fel a régi kikötőt. A Parc du Mugel esőben különösen zöld és dús. Figuerolles öble viharban vad és lenyűgöző. Este térjen vissza kényelmesen Cassis-ba.",
+            "ro": "Bucurați-vă de priveliștea portului la adăpost în mașină. Conduceți cu atenție pe Route des Crêtes; în ceață, norii oferă un spectacol dramatic. La prânz în La Ciotat puteți explora portul vechi sub umbrele. Parcul Mugel pare deosebit de verde și luxuriant în ploaie. Golful Figuerolles pare sălbatic și impunător pe furtună. Seara reveniți confortabil în Cassis.",
+            "en": "Enjoy the harbor views safe and dry from your car. Drive carefully along Route des Crêtes; in fog, the clouds offer a dramatic spectacle. At noon in La Ciotat, you can explore the old port under umbrellas. Parc du Mugel looks particularly green and lush in the rain. Figuerolles Cove looks wild and imposing during a storm. Return comfortably to Cassis in the evening."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Mimosas für einen trockenen Ausstieg.",
+                "hu": "Használja a Mimosas parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea Mimosas pentru a ieși la adăpost.",
+                "en": "Use the Mimosas parking garage for a dry exit."
+              }
+            },
+            {
+              "name": "Route des Crêtes",
+              "tip_5lang": {
+                "de": "Benutzen Sie bei Nebel unbedingt das Abblendlicht.",
+                "hu": "Köd esetén feltétlenül használja a tompított fényszórót.",
+                "ro": "Folosiți obligatoriu faza scurtă în caz de ceață.",
+                "en": "Be sure to use low-beam headlights in fog."
+              }
+            },
+            {
+              "name": "La Ciotat - Old Port",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Markthalle für kurze Wege.",
+                "hu": "Parkoljon a vásárcsarnok közelében a rövid utakért.",
+                "ro": "Parcați lângă hala pieței pentru distanțe scurte.",
+                "en": "Park near the market hall for short walking distances."
+              }
+            },
+            {
+              "name": "Parc du Mugel",
+              "tip_5lang": {
+                "de": "Die tropischen Pflanzen bieten unter den Blättern etwas Schutz.",
+                "hu": "A trópusi növények a levelek alatt némi védelmet nyújtanak.",
+                "ro": "Plantele tropicale oferă puțin adăpost sub frunze.",
+                "en": "Tropical plants offer some shelter under their leaves."
+              }
+            },
+            {
+              "name": "Figuerolles Cove",
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte sind auch vom Auto aus beeindruckend.",
+                "hu": "A kilátópontok az autóból is lenyűgözőek.",
+                "ro": "Punctele de belvedere sunt impresionante și din mașină.",
+                "en": "The viewpoints are impressive even from the car."
+              }
+            },
+            {
+              "name": "Return to Cassis - Sunset",
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist bei Regen besonders stimmungsvoll.",
+                "hu": "A parti út esőben különösen hangulatos.",
+                "ro": "Drumul de coastă este deosebit de atmosferic pe ploaie.",
+                "en": "The coastal road is especially atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Route des Crêtes kann bei starkem Regen gesperrt sein.",
+              "Nutzen Sie das Parkhaus 'Mimosas' im Zentrum.",
+              "Auf den Küstenstraßen kann sich Wasser ansammeln; fahren Sie vorsichtig.",
+              "Die Sicht auf die Calanques kann durch Nebel eingeschränkt sein."
+            ],
+            "hu": [
+              "A Route des Crêtes heves esőzés esetén lezárható.",
+              "Használja a központban található 'Mimosas' parkolóházat.",
+              "A parti utakon megállhat a víz; vezessen óvatosan.",
+              "A Calanques-ra nyíló kilátást korlátozhatja a köd."
+            ],
+            "ro": [
+              "Route des Crêtes poate fi închisă în caz de ploaie torențială.",
+              "Folosiți parcarea supraetajată 'Mimosas' din centru.",
+              "Apa se poate acumula pe drumurile de coastă; conduceți cu prudență.",
+              "Vizibilitatea către Calanques poate fi limitată de ceață."
+            ],
+            "en": [
+              "Route des Crêtes may be closed by authorities during heavy rain.",
+              "Use the covered parking 'Mimosas' near the center.",
+              "Coastal roads can have standing water; drive cautiously.",
+              "Visibility towards the Calanques will be limited by mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterbrise am Hafen von Cassis. Die Fahrt über die Route des Crêtes bietet im Winter eine unendliche Fernsicht über das Mittelmeer. Besuchen Sie in La Ciotat die historischen Werften, die im Winterlicht imposant wirken. Der Parc du Mugel bleibt dank seiner exotischen Pflanzen das ganze Jahr über grün. Genießen Sie den Sonnenuntergang in der Bucht von Figuerolles, bevor Sie rechtzeitig zur Dämmerung nach Cassis zurückkehren.",
+            "hu": "Tapasztalja meg a friss téli szellőt a cassis-i kikötőben. A Route des Crêtes-en való autózás télen végtelen kilátást nyújt a Földközi-tengerre. Látogassa meg La Ciotat történelmi hajógyárait, amelyek impozánsak a téli fényben. A Parc du Mugel egzotikus növényeinek köszönhetően egész évben zöld marad. Élvezze a naplementét Figuerolles öblében, mielőtt sötétedéskor visszatérne Cassis-ba.",
+            "ro": "Experimentați briza proaspătă de iarnă în portul Cassis. Drumul pe Route des Crêtes oferă iarna o vizibilitate infinită peste Marea Mediterană. Vizitați șantierele navale istorice din La Ciotat, impunătoare în lumina de iarnă. Parcul Mugel rămâne verde tot anul datorită plantelor exotice. Bucurați-vă de apus în golful Figuerolles, înainte de a reveni în Cassis la lăsarea serii.",
+            "en": "Experience the fresh winter breeze at the Port of Cassis. Driving along Route des Crêtes in winter offers infinite views over the Mediterranean. Visit the historical shipyards in La Ciotat, which look imposing in the winter light. Parc du Mugel stays green year-round thanks to its exotic plants. Enjoy the sunset in Figuerolles Cove before returning to Cassis by dusk."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter einen Parkplatz direkt am Hafen.",
+                "hu": "Télen könnyebben talál parkolót közvetlenül a kikötőnél.",
+                "ro": "Iarna găsiți mai ușor loc de parcare chiar în port.",
+                "en": "In winter, you can more easily find parking right at the port."
+              }
+            },
+            {
+              "name": "Route des Crêtes",
+              "tip_5lang": {
+                "de": "Die klare Luft bietet Sicht bis weit über den Horizont.",
+                "hu": "A tiszta levegő kilátást biztosít messze a horizonton túlra.",
+                "ro": "Aerul curat oferă vizibilitate mult peste orizont.",
+                "en": "The clear air offers views far beyond the horizon."
+              }
+            },
+            {
+              "name": "La Ciotat - Old Port",
+              "tip_5lang": {
+                "de": "Die Werften sind ein Zeugnis lokaler Industriegeschichte.",
+                "hu": "A hajógyárak a helyi ipartörténet tanúi.",
+                "ro": "Șantierele navale sunt o dovadă a istoriei industriale locale.",
+                "en": "The shipyards are a testament to local industrial history."
+              }
+            },
+            {
+              "name": "Parc du Mugel",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort, oft wärmer als an der offenen Küste.",
+                "hu": "Védett hely, gyakran melegebb, mint a nyílt parton.",
+                "ro": "Un loc adăpostit, adesea mai cald decât pe coasta deschisă.",
+                "en": "A sheltered spot, often warmer than the open coast."
+              }
+            },
+            {
+              "name": "Figuerolles Cove",
+              "tip_5lang": {
+                "de": "Die roten Felsen leuchten im tiefen Sonnenstand besonders stark.",
+                "hu": "A vörös sziklák az alacsony napállásnál különösen ragyognak.",
+                "ro": "Stâncile roșii strălucesc intens la apus.",
+                "en": "The red rocks glow intensely in the low winter sun."
+              }
+            },
+            {
+              "name": "Return to Cassis - Sunset",
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchtete Kulisse des Hafens bei Ankunft.",
+                "hu": "Élvezze a kikötő kivilágított látványát megérkezéskor.",
+                "ro": "Bucurați-vă de decorul iluminat al portului la sosire.",
+                "en": "Enjoy the illuminated scenery of the port upon arrival."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Profitieren Sie von entspannterem Parken als in den Sommermonaten.",
+              "Der Mistral kann auf Höhenstraßen starke Seitenwindböen verursachen.",
+              "Besuchen Sie die Werften von La Ciotat für einen Einblick in die Industrie.",
+              "Das Winterlicht am Cape Canaille ist bei Sonnenuntergang spektakulär."
+            ],
+            "hu": [
+              "Élvezze a nyugodtabb parkolást a nyári hónapokhoz képest.",
+              "A Misztrál erős oldalszelet okozhat a magaslati utakon.",
+              "Látogassa meg La Ciotat hajógyárait az ipari betekintésért.",
+              "A téli fény a Cape Canaille-nál lenyűgöző naplementekor."
+            ],
+            "ro": [
+              "Profitați de parcarea mai relaxată față de lunile de vară.",
+              "Mistralul poate cauza rafale laterale puternice pe drumurile înalte.",
+              "Vizitați șantierele din La Ciotat pentru o perspectivă industrială.",
+              "Lumina de iarnă pe Cap Canaille este spectaculoasă la apus."
+            ],
+            "en": [
+              "Enjoy easier parking compared to the summer months.",
+              "The Mistral can cause strong lateral gusts on high roads.",
+              "Visit the La Ciotat shipyards for a glimpse of local industry.",
+              "The winter light on Cape Canaille is spectacular at sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1184,34 +2440,399 @@
           "Schedules may vary depending on the season.",
           "Arrive by train from Marseille for a stress-free day."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Cassis ohne Parkplatzsorgen. Mit der Bootstour vom Hafen aus sehen Sie die Calanques von ihrer schönsten Seite: vom Wasser aus. Der Shuttle-Bus bringt Sie bequem zum Eingang des Nationalparks bei Port-Miou. Genießen Sie die entspannte Atmosphäre und den provenzalischen Lebensstil im Zentrum.",
+            "hu": "Fedezze fel Cassist parkolási gondok nélkül. A kikötőből induló hajótúrával a legszebb oldalukról láthatja az öblöket: a víz felől. A transzferbusz kényelmesen elviszi a nemzeti park bejáratához, Port-Miou-hoz. Élvezze a nyugodt légkört és a provence-i életstílust a városközpontban.",
+            "ro": "Descoperiți Cassis fără grija parcării. Cu turul cu barca din port, veți vedea calancele din cel mai frumos unghi: de pe apă. Autobuzul vă duce confortabil la intrarea în parcul național, la Port-Miou. Bucurați-vă de atmosfera relaxată și de stilul de viață provensal din centru.",
+            "en": "Explore Cassis without parking worries. With a boat tour from the port, you'll see the Calanques from their best side: from the water. The shuttle bus takes you comfortably to the entrance of the national park at Port-Miou. Enjoy the relaxed atmosphere and the Provencal lifestyle in the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Cassis - Bootstour",
+                "hu": "Cassis kikötője - Hajókirándulás",
+                "ro": "Portul Cassis - Tur cu barca",
+                "en": "Port of Cassis - Boat Tour"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie die Tour zu den 3 Calanques für den besten Überblick.",
+                "hu": "Válassza a 3 öböl túrát a legjobb áttekintésért.",
+                "ro": "Alegeți turul celor 3 calance pentru cea mai bună perspectivă.",
+                "en": "Choose the 3 Calanques tour for the best overview."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagspause am Hafen",
+                "hu": "Ebédszünet a kikötőben",
+                "ro": "Pauză de prânz în port",
+                "en": "Lunch Break at the Port"
+              },
+              "tip_5lang": {
+                "de": "Frischer Fisch ist hier ein Muss.",
+                "hu": "A friss hal itt kötelező választás.",
+                "ro": "Peștele proaspăt este o alegere obligatorie aici.",
+                "en": "Fresh fish is a must-try here."
+              }
+            },
+            {
+              "name": {
+                "de": "Shuttle-Bus nach Gorguettes",
+                "hu": "Transzferbusz Gorguettes-be",
+                "ro": "Autobuz spre Gorguettes",
+                "en": "Shuttle Bus to Gorguettes"
+              },
+              "tip_5lang": {
+                "de": "Die einfachste Verbindung zum Park-and-Ride.",
+                "hu": "A legegyszerűbb kapcsolat a P+R parkolóhoz.",
+                "ro": "Cea mai simplă conexiune către parcarea P+R.",
+                "en": "The easiest connection to the P+R parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Port-Miou (Shuttle)",
+                "hu": "Port-Miou öböl (Transzfer)",
+                "ro": "Calanca Port-Miou (Shuttle)",
+                "en": "Port-Miou Inlet (Shuttle)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Sommer-Shuttle direkt zum Nationalpark.",
+                "hu": "Használja a nyári járatot közvetlenül a nemzeti parkhoz.",
+                "ro": "Folosiți autobuzul de vară direct către parcul național.",
+                "en": "Use the summer shuttle directly to the national park."
+              }
+            },
+            {
+              "name": {
+                "de": "Cassis Stadtzentrum",
+                "hu": "Cassis városközpont",
+                "ro": "Centrul orașului Cassis",
+                "en": "Cassis City Center"
+              },
+              "tip_5lang": {
+                "de": "Ein letztes Eis vor der Abreise.",
+                "hu": "Egy utolsó fagylalt az elutazás előtt.",
+                "ro": "O ultimă înghețată înainte de plecare.",
+                "en": "One last ice cream before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Artisan Glacier",
+                "tip": "Hausgemachtes Eis am Hafen."
+              },
+              {
+                "name": "Le Grand Bleu",
+                "tip": "Traditionelle Küche direkt am Quai."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Artisan Glacier",
+                "tip": "Házias fagylalt a kikötőben."
+              },
+              {
+                "name": "Le Grand Bleu",
+                "tip": "Tradicionális konyha közvetlenül a parton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Artisan Glacier",
+                "tip": "Înghețată artizanală în port."
+              },
+              {
+                "name": "Le Grand Bleu",
+                "tip": "Bucătărie tradițională chiar pe chei."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Artisan Glacier",
+                "tip": "Homemade ice cream at the port."
+              },
+              {
+                "name": "Le Grand Bleu",
+                "tip": "Traditional cuisine right on the quay."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenmauer",
+                "tip": "Setzen Sie sich ans Ende der Mauer für Ruhe.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Bootsdeck",
+                "tip": "Die Brise auf dem Meer genießen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötőmóló",
+                "tip": "Üljön ki a móló végére a csendért.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Hajófedélzet",
+                "tip": "Élvezze a tengeri szellőt.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Digul portului",
+                "tip": "Așezați-vă la capătul digului pentru liniște.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Puntea bărcii",
+                "tip": "Bucurați-vă de briza mării.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Wall",
+                "tip": "Sit at the end of the wall for peace.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Boat Deck",
+                "tip": "Enjoy the sea breeze.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutiquen in den Gassen",
+                "tip": "Stöbern Sie nach provenzalischer Kleidung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sétálóutcai butikok",
+                "tip": "Válogasson a provence-i ruhák között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buticurile de pe străduțe",
+                "tip": "Căutați haine în stil provensal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alleyway Boutiques",
+                "tip": "Browse for Provencal clothing."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bootstickets direkt an den Kiosken am Hafen.",
+              "Die Marcouline-Busse verbinden Cassis mit Marseille.",
+              "Der Shuttle 'Navette Gorguettes' ist im Sommer unverzichtbar.",
+              "Die Fahrpläne können je nach Saison variieren.",
+              "Kommen Sie mit dem Zug aus Marseille für einen stressfreien Tag."
+            ],
+            "hu": [
+              "Vásároljon hajójegyet közvetlenül a kikötői kioszkokban.",
+              "A Marcouline buszok kötik össze Cassist Marseille-jel.",
+              "A 'Navette Gorguettes' transzfer nyáron elengedhetetlen.",
+              "A menetrendek szezontól függően változhatnak.",
+              "Érkezzen vonattal Marseille-ből a stresszmentes napért."
+            ],
+            "ro": [
+              "Cumpărați bilete de barcă direct de la chioșcurile din port.",
+              "Autobuzele Marcouline fac legătura între Cassis și Marsilia.",
+              "Naveta 'Navette Gorguettes' este esențială vara.",
+              "Orarele pot varia în funcție de sezon.",
+              "Veniți cu trenul din Marsilia pentru o zi fără stres."
+            ],
+            "en": [
+              "Buy boat tickets directly at the kiosks in the port.",
+              "Marcouline buses connect Cassis with Marseille.",
+              "The 'Navette Gorguettes' shuttle is essential in summer.",
+              "Schedules may vary depending on the season.",
+              "Arrive by train from Marseille for a stress-free day."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Bootstour vom Hafen; wählen Sie ein Boot mit überdachtem Deck. Genießen Sie eine ausgiebige Mittagspause in einem der gemütlichen Cafés am Hafen. Der Shuttlebus nach Gorguettes bietet eine trockene Fahrt in die Umgebung. Besuchen Sie Port-Miou mit dem Shuttle und nutzen Sie die kurzen Wege. Beenden Sie den Tag im Stadtzentrum von Cassis beim Bummeln durch die Boutiquen.",
+            "hu": "Kezdje a hajótúrát a kikötőből; válasszon fedett fedélzetű hajót. Élvezze a hosszú ebédszünetet a kikötő egyik hangulatos kávézójában. A Gorguettes-be tartó busz száraz utazást biztosít a környéken. Látogassa meg Port-Miou-t a transzferrel, kihasználva a rövid távolságokat. Zárja a napot Cassis városközpontjában, a butikok közötti böngészéssel.",
+            "ro": "Începeți turul cu barca din port; alegeți o barcă cu punte acoperită. Bucurați-vă de o pauză de prânz prelungită într-o cafenea primitoare. Autobuzul spre Gorguettes oferă o călătorie uscată în împrejurimi. Vizitați Port-Miou cu naveta, profitând de distanțele scurte. Încheiați ziua în centrul orașului Cassis, hoinărind prin magazine.",
+            "en": "Start your boat tour from the port; choose a boat with a covered deck. Enjoy a long lunch break in one of the cozy harbor cafes. The shuttle bus to Gorguettes provides a dry ride to the surrounding areas. Visit Port-Miou by shuttle, making use of the short distances. End the day in Cassis city center by browsing through the boutiques."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis - Boat Tour",
+              "tip_5lang": {
+                "de": "Prüfen Sie wetterbedingte Änderungen im Fahrplan.",
+                "hu": "Ellenőrizze az időjárás miatti menetrendi változásokat.",
+                "ro": "Verificați schimbările de orar cauzate de vreme.",
+                "en": "Check for weather-related changes in the schedule."
+              }
+            },
+            {
+              "name": "Lunch Break at the Port",
+              "tip_5lang": {
+                "de": "Ein guter Zeitpunkt für ein ausgiebiges, trockenes Essen.",
+                "hu": "Jó alkalom egy kiadós, száraz étkezésre.",
+                "ro": "Un moment bun pentru o masă consistentă la adăpost.",
+                "en": "A good time for a long, dry meal."
+              }
+            },
+            {
+              "name": "Shuttle Bus to Gorguettes",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Wartebereichen.",
+                "hu": "Várjon a fedett várakozóhelyeken.",
+                "ro": "Așteptați în zonele de așteptare acoperite.",
+                "en": "Wait in the covered waiting areas."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet (Shuttle)",
+              "tip_5lang": {
+                "de": "Der Shuttle hält ganz in der Nähe des Aussichtspunkts.",
+                "hu": "A transzferbusz a kilátóhely közelében áll meg.",
+                "ro": "Naveta oprește foarte aproape de punctul de belvedere.",
+                "en": "The shuttle stops very close to the viewpoint."
+              }
+            },
+            {
+              "name": "Cassis City Center",
+              "tip_5lang": {
+                "de": "Viele Geschäfte bieten Schutz vor dem Regen.",
+                "hu": "Sok üzlet nyújt védelmet az eső elől.",
+                "ro": "Multe magazine oferă adăpost împotriva ploii.",
+                "en": "Many shops provide protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bootstouren finden nur bei ruhiger See statt; fragen Sie am Hafen nach.",
+              "Die 'Marcouline'-Busse sind eine trockene Option für die Anhöhen.",
+              "Nutzen Sie den Gorguettes-Shuttle, um Parkplatzstress im Regen zu vermeiden.",
+              "Halten Sie einen digitalen Fahrplan bereit, um Wartezeiten im Freien zu minimieren."
+            ],
+            "hu": [
+              "A hajótúrák csak nyugodt tenger esetén indulnak; kérdezzen a kikötőben.",
+              "A 'Marcouline' buszok száraz opciót jelentenek a magaslatok eléréséhez.",
+              "Használja a Gorguettes transzfert, hogy elkerülje a parkolási stresszt esőben.",
+              "Tartson kéznél digitális menetrendet a kinti várakozási idő minimalizálására."
+            ],
+            "ro": [
+              "Tururile cu barca au loc doar dacă marea e calmă; întrebați în port.",
+              "Autobuzele 'Marcouline' sunt o opțiune uscată pentru zonele înalte.",
+              "Folosiți naveta Gorguettes pentru a evita stresul parcării pe ploaie.",
+              "Păstrați un orar digital la îndemână pentru a minimiza așteptarea afară."
+            ],
+            "en": [
+              "Boat tours only run if the sea is calm; check at the port.",
+              "The 'Marcouline' buses provide a dry way to reach the heights.",
+              "Use the 'Gorguettes' shuttle to avoid parking stress in the rain.",
+              "Keep a digital schedule handy to minimize waiting outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Seeluft bei einer winterlichen Bootstour, warm eingepackt. Gönnen Sie sich ein Mittagshochgefühl mit winterlichen Spezialitäten am Hafen. Fahren Sie mit dem Shuttlebus nach Gorguettes und bewundern Sie die winterliche Landschaft. Port-Miou zeigt sich im Winterlicht von seiner ruhigsten Seite. Beenden Sie Ihren Tag bei einer heißen Schokolade im gemütlichen Stadtzentrum von Cassis.",
+            "hu": "Élvezze a tiszta tengeri levegőt egy téli hajótúrán, melegen felöltözve. Kényeztesse magát téli specialitásokkal a kikötőben. Utazzon a transzferbusszal Gorguettes-be, és csodálja meg a téli tájat. Port-Miou a legnyugodtabb arcát mutatja a téli fényben. Zárja a napot egy forró csokoládéval Cassis hangulatos városközpontjában.",
+            "ro": "Bucurați-vă de aerul marin curat într-un tur cu barca, bine îmbrăcați. Savurați specialități de iarnă în port la prânz. Mergeți cu naveta spre Gorguettes și admirați peisajul de iarnă. Port-Miou se arată în cea mai liniștită formă în lumina iernii. Încheiați ziua cu o ciocolată caldă în centrul primitor al orașului Cassis.",
+            "en": "Enjoy the clear sea air on a winter boat tour, warmly dressed. Treat yourself to winter specialties at the harbor for lunch. Ride the shuttle bus to Gorguettes and admire the winter landscape. Port-Miou shows its calmest side in the winter light. End your day with a hot chocolate in the cozy city center of Cassis."
+          },
+          "stops": [
+            {
+              "name": "Port of Cassis - Boat Tour",
+              "tip_5lang": {
+                "de": "Ein Windbreaker ist auf dem Wasser unbedingt erforderlich.",
+                "hu": "A szélkabát feltétlenül szükséges a vízen.",
+                "ro": "O jachetă anti-vânt este absolut necesară pe apă.",
+                "en": "A windbreaker is absolutely necessary on the water."
+              }
+            },
+            {
+              "name": "Lunch Break at the Port",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Gerichte mit Trüffeln oder Wild.",
+                "hu": "Kóstolja meg a szezonális szarvasgombás vagy vadhúsos ételeket.",
+                "ro": "Încercați preparate sezoniere cu trufe sau vânat.",
+                "en": "Try seasonal dishes with truffles or game."
+              }
+            },
+            {
+              "name": "Shuttle Bus to Gorguettes",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Port-Miou Inlet (Shuttle)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Calanques ohne Touristenmassen.",
+                "hu": "Élvezze a Calanques csendjét turistatömegek nélkül.",
+                "ro": "Bucurați-vă de liniștea din Calanques fără mase de turiști.",
+                "en": "Enjoy the silence of the Calanques without the tourist crowds."
+              }
+            },
+            {
+              "name": "Cassis City Center",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine lokale Konditorei für ein warmes Getränk.",
+                "hu": "Látogasson el egy helyi cukrászdába egy meleg italra.",
+                "ro": "Vizitați o cofetărie locală pentru o băutură caldă.",
+                "en": "Visit a local pastry shop for a warm drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne, da die Frequenzen im Winter reduziert sind.",
+              "Bootstouren sind seltener, aber viel weniger überlaufen.",
+              "Die Sonne geht früh unter, nehmen Sie den Shuttle vor der Dunkelheit zurück.",
+              "Wärmen Sie sich in der örtlichen Bibliothek oder im Kulturzentrum auf."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendeket, mert télen ritkábban járnak a buszok.",
+              "A hajótúrák ritkábbak, de sokkal kevésbé zsúfoltak.",
+              "A nap korán nyugszik, sötétedés előtt menjen vissza a transzferrel.",
+              "Melegedjen fel a helyi könyvtárban vagy kulturális központban."
+            ],
+            "ro": [
+              "Verificați orarele, deoarece frecvențele sunt reduse iarna.",
+              "Tururile cu barca sunt mai rare, dar mult mai puțin aglomerate.",
+              "Soarele apune devreme, luați naveta înapoi înainte de întuneric.",
+              "Încălziți-vă în biblioteca locală sau în centrul cultural."
+            ],
+            "en": [
+              "Check winter bus frequencies as they are reduced.",
+              "The boat tours are less frequent but much less crowded.",
+              "Sunset is early, so take the shuttle back before it gets dark.",
+              "Warm up in the local library or media center if needed."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.ot-cassis.com/webcam/",
-    "tourism_office": "https://www.ot-cassis.com/",
-    "events": "https://www.ot-cassis.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.cassis.fr/se-deplacer/",
-    "language_tips": {
-      "de": "Cassis ist provenzalisch und mediterran, der Akzent ist singend. Englisch wird in den Hafenrestaurants und Calanques-Boots-Anbietern gut gesprochen. Lernen Sie 'les Calanques' korrekt auszusprechen (Ka-lonk) und bestellen Sie 'un verre de Cassis blanc', den lokalen Weißwein, der zu Meeresfrüchten passt.",
-      "hu": "Cassis provence-i és mediterrán, az akcentus dallamos. A kikötői éttermekben és a Calanques hajós szolgáltatóknál jól beszélnek angolul. Tanuld meg helyesen kiejteni a 'les Calanques' (kalonk) nevet, és rendelj egy pohár Cassis fehérbort, amely tökéletesen illik a tenger gyümölcseihez.",
-      "ro": "Cassis este provensal și mediteranean, accentul cântă. Engleza se vorbește bine în restaurantele din port și la furnizorii de bărci pentru Calanques. Învățați să pronunțați 'les Calanques' (Ka-lonk) și cereți 'un verre de Cassis blanc', vinul alb local care merge perfect cu fructele de mare.",
-      "en": "Cassis is Provençal and Mediterranean, with a sing-song accent. English is spoken well at harbour restaurants and Calanques boat operators. Learn to pronounce 'les Calanques' (Ka-lonk) properly and order 'un verre de Cassis blanc' - the local white wine pairs perfectly with seafood."
-    },
-    "best_time_to_visit": {
-      "de": "Mai, Juni und September sind ideal: warmes Mittelmeerwetter, weniger Touristen und perfekte Bedingungen für Calanques-Wanderungen. Juli und August sind sehr voll, Parkplätze unmöglich. Im Hochsommer sind die Calanques wegen Brandgefahr oft gesperrt - informieren Sie sich vor jeder Wanderung über die täglichen Zugangsregeln.",
-      "hu": "Május, június és szeptember ideális: meleg mediterrán idő, kevés turista, és tökéletes feltételek a Calanques túrákhoz. Július és augusztus zsúfolt, parkolni lehetetlen. Nyár derekán a Calanques-t gyakran lezárják tűzveszély miatt, ezért minden túra előtt nézd meg a napi belépési szabályokat.",
-      "ro": "Mai, iunie și septembrie sunt ideale: vreme mediteraneană caldă, mai puțini turiști și condiții perfecte pentru drumeții în Calanques. Iulie și august sunt foarte aglomerate, parcările imposibile. În toiul verii, Calanques sunt închise des din cauza riscului de incendiu, verificați zilnic.",
-      "en": "May, June and September are ideal: warm Mediterranean weather, fewer crowds, and perfect conditions for Calanques hiking. July and August are packed, with parking impossible. In peak summer, the Calanques are often closed due to fire risk - check daily access rules before any hike."
-    },
-    "neighborhood_warnings": {
-      "de": "Cassis ist sehr sicher, doch im Sommer sind die Hafenparkplätze überfüllt - nutzen Sie das P+R-Système. Bei Calanques-Wanderungen Wasser mitnehmen und Hitze beachten, jedes Jahr gibt es Rettungseinsätze.",
-      "hu": "Cassis nagyon biztonságos, de nyáron a kikötői parkolók túltömöttek - használd a P+R rendszert. Calanques túrákhoz vízzel készülj és figyelj a hőségre, minden évben vannak mentőakciók.",
-      "ro": "Cassis este foarte sigur, dar vara parcările din port sunt aglomerate - folosiți sistemul P+R. La drumețiile în Calanques, luați apă și atenție la căldură, anual sunt salvări de urgență.",
-      "en": "Cassis is very safe, but harbour parking is overrun in summer - use the P+R system. On Calanques hikes carry water and respect the heat; rescues happen every year due to underestimation."
-    },
-    "parking_real_time": ""
   }
 }

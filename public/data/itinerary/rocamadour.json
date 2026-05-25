@@ -312,6 +312,443 @@
           "Park at the top in L'Hospitalet for an easier start.",
           "The town is beautifully illuminated at night."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Porte du Figuier und tauchen Sie ein in die mittelalterliche Atmosphäre der Hauptstraße. Der Aufstieg über die Grand Escalier ist ein klassisches Erlebnis, das früher Pilger auf Knien bewältigten. Der Vormittag gehört den heiligen Kapellen und der geheimnisvollen schwarzen Statue.\n\nNach einem kräftigen Mittagessen in der Unterstadt steigen Sie hinauf zum Schloss. Die Aussicht von den Festungsmauern ist schwindelerregend und zeigt die dramatische Lage des Ortes. Am Nachmittag schlendern Sie den Kreuzweg entlang, der sich sanft durch den Wald schlängelt.\n\nZum Abschluss wandern Sie hinüber nach L'Hospitalet. Von diesem Plateau aus hat man den ikonischen Blick auf das gesamte Dorf, das sich an den Felsen klammert. Wenn die Sonne tiefer steht, färben sich die Kalksteinfelsen in warmen Ockertönen.\n\nGenießen Sie den Abend bei einem Glas Wein aus der Region Cahors. Rocamadour ist bei Sonnenuntergang am ruhigsten, wenn die Tagesbesucher langsam abziehen und die Beleuchtung der Basilika die Szenerie in ein magisches Licht taucht.",
+            "hu": "Kezdje a napot a Porte du Figuier-nél, és merüljön el a főutca középkori hangulatában. A Grand Escalier megmászása klasszikus élmény, amelyet a zarándokok régen térden állva tettek meg. A délelőtt a szent kápolnáké és a titokzatos fekete szoboré.\n\nEgy kiadós ebéd után az alsóvárosban, menjen fel a várba. A bástyákról nyíló kilátás szédítő, és jól mutatja a hely drámai fekvését. Délután sétáljon végig a Keresztúton, amely lágyan kanyarog az erdőn keresztül.\n\nVégezetül sétáljon át L'Hospitalet-be. Erről a fennsíkról nyílik az ikonikus kilátás az egész falura, amely a sziklába kapaszkodik. Ahogy a nap lejjebb süllyed, a mészkősziklák meleg okkersárga színt öltenek.\n\nÉlvezze az estét egy pohár Cahors borral. Rocamadour naplementekor a legcsendesebb, amikor a látogatók lassan elmennek, és a bazilika díszkivilágítása mágikus fénybe vonja a környéket.",
+            "ro": "Începeți ziua la Porte du Figuier și scufundați-vă în atmosfera medievală a străzii principale. Urcarea pe Grand Escalier este o experiență clasică, pe care pelerinii o făceau pe vremuri în genunchi. Dimineața este dedicată capelelor sfinte și misterioasei statui negre.\n\nDupă un prânz copios în orașul de jos, urcați la castel. Vederea de pe zidurile fortăreței este amețitoare și arată locația dramatică a locului. După-amiaza, plimbați-vă pe Calea Crucii, care șerpuiește blând prin pădure.\n\nÎn încheiere, mergeți spre L'Hospitalet. De pe acest platou aveți vederea iconică asupra întregului sat care se agață de stânci. Pe măsură ce soarele coboară, stâncile de calcar capătă nuanțe calde de ocru.\n\nBucurați-vă de seară cu un pahar de vin din regiunea Cahors. Rocamadour este cel mai liniștit la apus, când vizitatorii de o zi pleacă încet, iar iluminatul basilicii scaldă scena într-o lumină magică.",
+            "en": "Start your day at the Porte du Figuier and immerse yourself in the medieval atmosphere of the main street. Climbing the Grand Escalier is a classic experience that pilgrims used to perform on their knees. The morning belongs to the sacred chapels and the mysterious black statue.\n\nAfter a hearty lunch in the lower town, ascend to the castle. The view from the ramparts is dizzying and showcases the dramatic setting of the site. In the afternoon, stroll along the Way of the Cross, which winds gently through the forest.\n\nTo finish, walk over to L'Hospitalet. From this plateau, you get the iconic view of the entire village clinging to the cliffs. As the sun sits lower, the limestone cliffs turn warm shades of ochre.\n\nEnjoy the evening with a glass of local Cahors wine. Rocamadour is quietest at sunset, as the day-trippers slowly depart and the basilica's illumination bathes the scene in a magical light."
+          },
+          "stops": [
+            {
+              "name": "Porte du Figuier",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier eine Karte des Dorfes.",
+                "hu": "Itt szerezhet be térképet a faluról.",
+                "ro": "Luați o hartă a satului de aici.",
+                "en": "Pick up a map of the village here."
+              }
+            },
+            {
+              "name": "Grand Escalier",
+              "tip_5lang": {
+                "de": "Zählen Sie die 216 Stufen beim Aufstieg.",
+                "hu": "Számolja meg a 216 lépcsőfokot felfelé menet.",
+                "ro": "Numărați cele 216 trepte în timp ce urcați.",
+                "en": "Count the 216 steps as you climb up."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame",
+              "tip_5lang": {
+                "de": "Bewundern Sie die berühmte Schwarze Madonna.",
+                "hu": "Csodálja meg a híres Fekete Madonnát.",
+                "ro": "Admirați faimoasa Madonă Neagră.",
+                "en": "Admire the famous Black Madonna statue."
+              }
+            },
+            {
+              "name": "Basilique Saint-Sauveur",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Schwert Durandal im Fels.",
+                "hu": "Keresse a sziklába szúrt Durandal kardot.",
+                "ro": "Căutați sabia Durandal înfiptă în stâncă.",
+                "en": "Look for the Durandal sword embedded in the rock."
+              }
+            },
+            {
+              "name": "Remparts du Château",
+              "tip_5lang": {
+                "de": "Der beste Panoramablick über das Alzou-Tal.",
+                "hu": "A legjobb panoráma az Alzou-völgyre.",
+                "ro": "Cea mai bună panoramă asupra văii Alzou.",
+                "en": "The best panoramic view over the Alzou valley."
+              }
+            },
+            {
+              "name": "Chemin de Croix",
+              "tip_5lang": {
+                "de": "Ein schattiger Zickzack-Weg nach unten.",
+                "hu": "Árnyas cikkcakkos ösvény lefelé menet.",
+                "ro": "O potecă în zigzag la umbră spre bază.",
+                "en": "A shaded zigzag path on your way down."
+              }
+            },
+            {
+              "name": "L'Hospitalet Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Abschiedsfoto.",
+                "hu": "Tökéletes hely egy búcsúfotóhoz.",
+                "ro": "Locul perfect pentru o fotografie de rămas bun.",
+                "en": "Perfect spot for a final souvenir photo."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rocamadour Käse",
+                "tip": "Kleiner Ziegenkäse mit cremiger Textur, perfekt auf warmem Toast."
+              },
+              {
+                "name": "Confit de Canard",
+                "tip": "Traditionell zubereitete Entenkeule, sehr zart."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rocamadour sajt",
+                "tip": "Krémes állagú kisméretű kecskesajt, pirítóson tálalva a legjobb."
+              },
+              {
+                "name": "Confit de Canard",
+                "tip": "Hagyományosan készített kacsacomb, rendkívül omlós."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Rocamadour",
+                "tip": "Brânză mică de capră cu textură cremoasă, delicioasă pe pâine prăjită."
+              },
+              {
+                "name": "Confit de Canard",
+                "tip": "Pulpe de rață gătite tradițional, foarte fragede."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rocamadour Cheese",
+                "tip": "Small goat cheese with a creamy texture, perfect on warm toast."
+              },
+              {
+                "name": "Confit de Canard",
+                "tip": "Traditionally prepared duck leg, incredibly tender."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "L'Hospitalet Plateau",
+                "tip": "Bester Fernblick auf die Stadt.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Alzou Talufer",
+                "tip": "Ruhiger Spaziergang am Flussgrund.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Hospitalet fennsík",
+                "tip": "A legjobb távoli kilátás a városra.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Alzou-völgy partja",
+                "tip": "Csendes séta a völgy alján.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platoul L'Hospitalet",
+                "tip": "Cea mai bună vedere panoramică de la distanță.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Malul văii Alzou",
+                "tip": "O plimbare liniștită la baza stâncii.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Hospitalet Plateau",
+                "tip": "Best distant view of the whole town.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Alzou Valley Floor",
+                "tip": "Quiet walk along the river at the base.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Walnuss-Kuchen",
+                "tip": "Spezialität der Region Quercy."
+              },
+              {
+                "name": "Handgefertigter Schmuck",
+                "tip": "In den kleinen Ateliers der Unterstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Diótorta",
+                "tip": "A Quercy régió híres édessége."
+              },
+              {
+                "name": "Kézműves ékszerek",
+                "tip": "Az alsóváros kis műhelyeiben találhatóak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tort cu nuci",
+                "tip": "Specialitate celebră din regiunea Quercy."
+              },
+              {
+                "name": "Bijuterii artizanale",
+                "tip": "Găsite în micile ateliere din orașul de jos."
+              }
+            ],
+            "en": [
+              {
+                "name": "Walnut Cake",
+                "tip": "Famous specialty of the Quercy region."
+              },
+              {
+                "name": "Artisan Jewelry",
+                "tip": "Found in small workshops in the lower town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Wanderschuhe, da es viele Treppen gibt.",
+              "Nutzen Sie den Aufzug, wenn der Aufstieg zu anstrengend ist.",
+              "Besuchen Sie das Heiligtum früh am Morgen, um Gruppen zu vermeiden.",
+              "Parken Sie oben in L'Hospitalet für einen einfacheren Start.",
+              "Die Stadt ist nachts wunderschön beleuchtet."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a sok lépcső miatt.",
+              "Használja a liftet, ha a mászás túl fárasztó lenne.",
+              "Látogassa meg a szentélyt korán reggel a tömeg elkerülése végett.",
+              "Parkoljon fent L'Hospitalet-ben a könnyebb indulásért.",
+              "A város éjszaka gyönyörűen ki van világítva."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă din cauza numeroaselor trepte.",
+              "Folosiți liftul dacă urcarea vi se pare prea obositoare.",
+              "Vizitați sanctuarul dimineața devreme pentru a evita grupurile mari.",
+              "Parcați sus în L'Hospitalet pentru un început mai ușor.",
+              "Orașul este superb iluminat pe timp de noapte."
+            ],
+            "en": [
+              "Wear comfortable walking shoes as there are many stairs.",
+              "Use the elevator if the climb is too strenuous for you.",
+              "Visit the sanctuary early in the morning to avoid crowds.",
+              "Park at the top in L'Hospitalet for an easier start.",
+              "The town is beautifully illuminated at night."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen an der Porte du Figuier, wo die nassen Kalksteinmauern glänzen. Mittags bieten die Basilika und die Kapellen trockenen Zuflucht vor dem Regen. Am Nachmittag erfordern die Stufen und der Kreuzweg bei Nässe Vorsicht. Den Abend lassen wir bei nebliger, mystischer Aussicht in L'Hospitalet ausklingen.",
+            "hu": "Kezdje a reggelt a Porte du Figuier-nél, ahol a vizes mészkőfalak különleges fényben tündökölnek. Délben a bazilika és a kápolnák nyújtanak száraz menedéket az eső elől. Délután a lépcsők és a kálváriaút fokozott figyelmet igényelnek a csúszós kövek miatt. A napot a ködbe burkolózó L'Hospitalet panorámájával zárjuk.",
+            "ro": "Începeți dimineața la Porte du Figuier, unde zidurile de calcar umede strălucesc. La prânz, basilica și capelele oferă un refugiu uscat împotriva ploii. După-amiaza, treptele și drumul crucii necesită prudență sporită din cauza pietrelor alunecoase. Încheiem ziua cu panorama mistică și cețoasă de la L'Hospitalet.",
+            "en": "Start your morning at Porte du Figuier, where the wet limestone walls glisten. Spend the midday inside the Basilica and chapels to stay dry and admire the frescoes. In the afternoon, navigate the steps and Way of the Cross carefully as stones become slippery. End the day with a moody, mist-covered view from L'Hospitalet."
+          },
+          "stops": [
+            {
+              "name": "Porte du Figuier",
+              "tip_5lang": {
+                "de": "Die Torbögen bieten kurzzeitig Schutz vor Regenschauern.",
+                "hu": "A kapuívek rövid ideig védelmet nyújtanak a záporok elől.",
+                "ro": "Arcadele porții oferă adăpost temporar împotriva ploii.",
+                "en": "The gate arches provide brief shelter from passing showers."
+              }
+            },
+            {
+              "name": "Grand Escalier",
+              "tip_5lang": {
+                "de": "Vorsicht, die 216 Stufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a 216 lépcsőfok nedvesen nagyon csúszós lehet.",
+                "ro": "Atenție, cele 216 trepte pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, the 216 steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen im Inneren abzuwarten.",
+                "hu": "Ideális hely a legerősebb eső kivárására a falak között.",
+                "ro": "Un loc ideal pentru a aștepta trecerea celei mai mari ploi.",
+                "en": "An ideal place to wait out the heaviest rain inside."
+              }
+            },
+            {
+              "name": "Basilique Saint-Sauveur",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
+                "hu": "Használja ki az időt egy részletes belső megtekintésre.",
+                "ro": "Folosiți timpul pentru o vizită detaliată în interior.",
+                "en": "Take advantage of the time for a detailed indoor visit."
+              }
+            },
+            {
+              "name": "Remparts du Château",
+              "tip_5lang": {
+                "de": "Der Blick auf die neblige Schlucht ist besonders dramatisch.",
+                "hu": "A ködös szurdokra nyíló kilátás ilyenkor drámai hatású.",
+                "ro": "Vederea spre cheile cețoase este deosebit de dramatică.",
+                "en": "The view of the misty gorge is particularly dramatic now."
+              }
+            },
+            {
+              "name": "Chemin de Croix",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist auf dem bewaldeten Zickzackweg wichtig.",
+                "hu": "A fás, cikkcakkos úton fontos a biztos tapadású cipő.",
+                "ro": "Încălțămintea stabilă este importantă pe drumul în zig-zag.",
+                "en": "Sturdy footwear is important on the wooded zigzag path."
+              }
+            },
+            {
+              "name": "L'Hospitalet Viewpoint",
+              "tip_5lang": {
+                "de": "Das nahegelegene Café bietet Panoramablick im Trockenen.",
+                "hu": "A közeli kávézó panorámát kínál száraz, meleg helyről.",
+                "ro": "Cafeneaua din apropiere oferă panoramă dintr-un loc uscat.",
+                "en": "The nearby café offers panoramic views from a dry spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Aufzüge, um rutschige Treppen zu vermeiden.",
+              "Tragen Sie Regenbekleidung mit gutem Windschutz für das Plateau.",
+              "Die Heiligtümer sind der beste Ort für längere Regengüsse.",
+              "Besuchen Sie die lokalen Kunsthandwerksläden in der Hauptstraße."
+            ],
+            "hu": [
+              "Használja a lifteket a csúszós lépcsők elkerülése érdekében.",
+              "Viseljen szélálló esőkabátot a fennsíkon tapasztalható szél miatt.",
+              "A szentélyek a legjobb helyek a hosszabb záporok idejére.",
+              "Látogassa meg a főutca kézműves boltjait eső idején."
+            ],
+            "ro": [
+              "Folosiți liftul pentru a evita treptele alunecoase.",
+              "Purtați o pelerină de ploaie rezistentă la vânt pentru platou.",
+              "Sanctuarele sunt cele mai bune locuri în timpul ploilor lungi.",
+              "Vizitați magazinele de artizanat local de pe strada principală."
+            ],
+            "en": [
+              "Use the elevators to avoid the most slippery outdoor steps.",
+              "Wear windproof rain gear as the plateau can be gusty.",
+              "The sanctuaries are the best indoor retreats during heavy rain.",
+              "Explore the local craft shops along the main street."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille eines Wintermorgens in den leeren Gassen. Mittags wärmen wir uns in der Basilika auf, während die Wintersonne tief steht. Am Nachmittag bietet der Weg zur Burg klare Fernsichten über das kahle Alzou-Tal. Der frühe Abend beleuchtet das Dorf spektakulär gegen den dunklen Winterhimmel.",
+            "hu": "Tapasztalja meg a téli reggel csendjét az üres sikátorokban. Délben a bazilikában melegedünk fel, miközben a téli nap alacsonyan jár. Délután a vár felé vezető úton tiszta kilátás nyílik a kopár Alzou-völgyre. A kora este látványosan világítja meg a falut a sötét téli égbolt előtt.",
+            "ro": "Experimentați liniștea unei dimineți de iarnă pe străzile pustii. La prânz ne încălzim în basilică, în timp ce soarele de iarnă e jos. După-amiaza, drumul spre castel oferă vederi clare peste valea Alzou desfrunzită. Seara devreme luminează spectaculos satul pe cerul întunecat.",
+            "en": "Experience the profound silence of a winter morning in the empty alleys. Spend midday warming up in the Basilica while the low winter sun hits the cliffs. In the afternoon, the walk to the castle offers crisp views over the bare Alzou valley. The early sunset illuminates the village spectacularly against the dark sky."
+          },
+          "stops": [
+            {
+              "name": "Porte du Figuier",
+              "tip_5lang": {
+                "de": "Warm anziehen, der Wind zieht oft durch das Stadttor.",
+                "hu": "Öltözzön melegen, a szél gyakran behúz a városkapun.",
+                "ro": "Îmbrăcați-vă gros, vântul bate adesea prin poarta orașului.",
+                "en": "Dress warmly, the wind often whistles through the city gate."
+              }
+            },
+            {
+              "name": "Grand Escalier",
+              "tip_5lang": {
+                "de": "Bei Frost können die Stufen vereist und gefährlich sein.",
+                "hu": "Fagy esetén a lépcsők jegesek és veszélyesek lehetnek.",
+                "ro": "În caz de îngheț, treptele pot fi înghețate și periculoase.",
+                "en": "In case of frost, the steps can be icy and dangerous."
+              }
+            },
+            {
+              "name": "Chapelle Notre-Dame",
+              "tip_5lang": {
+                "de": "Die brennenden Votivkerzen spenden eine warme Atmosphäre.",
+                "hu": "A gyertyák lángja meghitt és meleg hangulatot áraszt.",
+                "ro": "Lumânările aprinse oferă o atmosferă caldă și primitoare.",
+                "en": "The burning votive candles provide a warm atmosphere."
+              }
+            },
+            {
+              "name": "Basilique Saint-Sauveur",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft wärmer als in den zugigen Gassen.",
+                "hu": "Odabent gyakran melegebb van, mint a huzatos utcákon.",
+                "ro": "În interior este adesea mai cald decât pe străzile cu curent.",
+                "en": "It is often warmer inside than in the drafty alleys."
+              }
+            },
+            {
+              "name": "Remparts du Château",
+              "tip_5lang": {
+                "de": "Frühzeitiger Sonnenuntergang gegen 17:00 Uhr beachten.",
+                "hu": "Ügyeljen a korai, 17:00 óra körüli naplementére.",
+                "ro": "Atenție la apusul devreme, în jurul orei 17:00.",
+                "en": "Note the early sunset around 5:00 PM."
+              }
+            },
+            {
+              "name": "Chemin de Croix",
+              "tip_5lang": {
+                "de": "Die laubfreien Bäume erlauben neue Durchblicke ins Tal.",
+                "hu": "A lombkorona nélküli fák új kilátást engednek a völgybe.",
+                "ro": "Copacii fără frunze permit noi perspective spre vale.",
+                "en": "The leafless trees allow new glimpses into the valley."
+              }
+            },
+            {
+              "name": "L'Hospitalet Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Felsenstadt.",
+                "hu": "Élvezze a kivilágított sziklaváros látványát a sötétben.",
+                "ro": "Bucurați-vă de vederea orașului iluminat pe stâncă.",
+                "en": "Enjoy the view of the illuminated cliffside town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da es im Schatten der Felsen kalt ist.",
+              "Die meisten Restaurants haben im Winter begrenzte Öffnungszeiten.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten.",
+              "Prüfen Sie die Bodenbeschaffenheit auf Glatteis."
+            ],
+            "hu": [
+              "Rétegesen öltözzön, a sziklák árnyékában hideg van.",
+              "A legtöbb étterem korlátozott nyitvatartással üzemel télen.",
+              "Használja ki a déli órákat a kültéri sétákra.",
+              "Ellenőrizze az útviszonyokat az esetleges jegesedés miatt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e frig în umbra stâncilor.",
+              "Majoritatea restaurantelor au program limitat iarna.",
+              "Folosiți orele amiezii pentru activități în aer liber.",
+              "Verificați starea drumului pentru eventual îngheț."
+            ],
+            "en": [
+              "Dress in layers as it stays cold in the shadow of the cliffs.",
+              "Most restaurants have limited opening hours in winter.",
+              "Utilize the midday hours for outdoor explorations.",
+              "Check the ground for potential black ice or frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -454,6 +891,261 @@
           "The roads are hilly, an e-bike is recommended.",
           "Watch out for hikers on shared paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Rocamadour mit dem Fahrrad. Starten Sie in L'Hospitalet und besuchen Sie die nahe gelegene Grotte des Merveilles. Danach radeln Sie hinunter in das ruhige Alzou-Tal, wo Sie die Natur fernab der Touristenströme genießen können.\n\nDer Nachmittag führt Sie zur Forêt des Singes, einem einzigartigen Park, in dem Affen frei herumlaufen. Die Rückfahrt bietet weite Ausblicke über die karge Kalksteinlandschaft des Causse de Gramat.",
+            "hu": "Fedezze fel Rocamadour környékét kerékpárral. Kezdjen L'Hospitalet-ben, látogasson el a Csodák Barlangjához, majd guruljon le a csendes Alzou-völgybe. Itt a turistáktól távol élvezheti a természetet.\n\nA délután a Majomerdőbe vezet, ahol szabadon élő majmokat láthat. A visszaút során tágas kilátás nyílik a Causse de Gramat mészkőfennsíkjára.",
+            "ro": "Explorați împrejurimile Rocamadourului cu bicicleta. Începeți în L'Hospitalet, vizitați Grotte des Merveilles, apoi coborâți în valea liniștită Alzou. Aici vă puteți bucura de natură departe de mulțimile de turiști.\n\nDupă-amiaza vă duce la Pădurea Maimuțelor, unde puteți vedea maimuțe în libertate. Drumul de întoarcere oferă vederi largi asupra peisajului calcaros din Causse de Gramat.",
+            "en": "Explore the surroundings of Rocamadour by bike. Start in L'Hospitalet, visit the Cave of Wonders, then cycle down into the quiet Alzou valley. Here you can enjoy nature away from the tourist crowds.\n\nThe afternoon takes you to the Monkey Forest, where you can see free-roaming monkeys. The ride back offers wide views over the limestone landscape of the Causse de Gramat."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet",
+              "tip_5lang": {
+                "de": "Bester Startpunkt für Radtouren.",
+                "hu": "A legjobb kiindulópont kerékpárosoknak.",
+                "ro": "Cel mai bun punct de plecare pentru bicicliști.",
+                "en": "Best starting point for cyclists."
+              }
+            },
+            {
+              "name": "Grotte des Merveilles",
+              "tip_5lang": {
+                "de": "Prähistorische Malereien in einer Höhle.",
+                "hu": "Őskori barlangrajzok egy kis barlangban.",
+                "ro": "Picturi preistorice într-o peșteră mică.",
+                "en": "Prehistoric cave paintings in a small cave."
+              }
+            },
+            {
+              "name": "Moulin de Caoulet",
+              "tip_5lang": {
+                "de": "Eine alte Mühle am Fluss Alzou.",
+                "hu": "Régi malom az Alzou folyó partján.",
+                "ro": "O moară veche pe malul râului Alzou.",
+                "en": "An old mill on the banks of the Alzou."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Über 200 Berberaffen in Freiheit.",
+                "hu": "Több mint 200 szabadon élő berbermajom.",
+                "ro": "Peste 200 de maimuțe berbere în libertate.",
+                "en": "Over 200 Barbary macaques living in freedom."
+              }
+            },
+            {
+              "name": "Rocamadour Plateau",
+              "tip_5lang": {
+                "de": "Ruhiger Blick auf das Schloss.",
+                "hu": "Csendes kilátás a várra.",
+                "ro": "Vedere liniștită spre castel.",
+                "en": "Quiet view towards the castle."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind hügelig, ein E-Bike wird empfohlen.",
+              "Achten Sie auf Wanderer auf den gemeinsamen Wegen."
+            ],
+            "hu": [
+              "Az utak dombosak, elektromos kerékpár ajánlott.",
+              "Figyeljen a gyalogosokra a közös ösvényeken."
+            ],
+            "ro": [
+              "Drumurile sunt deluroase, se recomandă o bicicletă electrică.",
+              "Atenție la drumeți pe potecile comune."
+            ],
+            "en": [
+              "The roads are hilly, an e-bike is recommended.",
+              "Watch out for hikers on shared paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch das Alzou-Tal am Morgen. Die Grotte des Merveilles bietet mittags ein perfektes, trockenes Ziel unter Tage. Nachmittags radeln wir vorsichtig entlang des Moulin de Caoulet, wo die Wege weicher sein können. Der Tag endet auf dem Plateau, wo der Wind den Regen peitschen kann.",
+            "hu": "Frissítő reggeli tekerés az Alzou-völgyben. A Grotte des Merveilles délben tökéletes, száraz úticélt jelent a föld alatt. Délután óvatosan haladunk a Moulin de Caoulet mentén, ahol az utak felázhatnak. A nap a fennsíkon zárul, ahol a szél erősebben fújhatja az esőt.",
+            "ro": "O plimbare răcoritoare prin valea Alzou dimineața. Grotte des Merveilles oferă la prânz o destinație perfectă și uscată sub pământ. După-amiaza pedalăm cu grijă pe lângă Moulin de Caoulet, unde drumurile pot fi moi. Ziua se încheie pe platou, unde vântul poate intensifica ploaia.",
+            "en": "A refreshing morning ride through the Alzou valley. The Grotte des Merveilles provides a perfect, dry underground destination at midday. In the afternoon, cycle carefully near Moulin de Caoulet, where paths may be soft. The day ends on the plateau, where the wind can make the rain feel sharper."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abfahren in den Ort auf nassem Asphalt.",
+                "hu": "Vigyázzon a városba vezető lejtőn a nedves aszfalton.",
+                "ro": "Atenție la coborârea spre oraș pe asfaltul umed.",
+                "en": "Be careful when descending into the town on wet asphalt."
+              }
+            },
+            {
+              "name": "Grotte des Merveilles",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um das Fahrrad im Trockenen abzustellen.",
+                "hu": "Ideális megálló a kerékpár száraz helyen való leállításához.",
+                "ro": "Popas ideal pentru a lăsa bicicleta la loc uscat.",
+                "en": "Ideal stop to park the bike in a dry spot."
+              }
+            },
+            {
+              "name": "Moulin de Caoulet",
+              "tip_5lang": {
+                "de": "Der Weg entlang des Flusses kann schlammig sein.",
+                "hu": "A folyó menti út sáros és csúszós lehet.",
+                "ro": "Drumul de-a lungul râului poate fi noroios.",
+                "en": "The path along the river can be muddy and slick."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Bei starkem Regen suchen die Affen Schutz unter Bäumen.",
+                "hu": "Erős esőben a majmok a fák alatt keresnek menedéket.",
+                "ro": "În caz de ploaie torențială, maimuțele se adăpostesc sub copaci.",
+                "en": "During heavy rain, the monkeys seek shelter under trees."
+              }
+            },
+            {
+              "name": "Rocamadour Plateau",
+              "tip_5lang": {
+                "de": "Vorsicht vor Seitenwinden beim Radfahren auf der Klippe.",
+                "hu": "Vigyázzon az oldalszéllel a szikla menti kerékpározáskor.",
+                "ro": "Atenție la vântul lateral când pedalați pe stâncă.",
+                "en": "Watch out for crosswinds while cycling on the plateau."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Pflaster.",
+              "Tragen Sie wasserdichte Überschuhe und Handschuhe.",
+              "Nutzen Sie die Unterstände bei den Parkplätzen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen kiegészítő ilyen időben.",
+              "Kerülje az éles fékezést a nedves útburkolaton.",
+              "Viseljen vízálló cipővédőt és kesztyűt.",
+              "Használja a parkolók melletti esőbeállókat."
+            ],
+            "ro": [
+              "Apărătorile la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Purtați huse impermeabile pentru încălțăminte și mănuși.",
+              "Folosiți adăposturile de lângă parcări."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sharp braking maneuvers on wet pavement.",
+              "Wear waterproof overshoes and gloves for comfort.",
+              "Make use of shelters near the parking areas during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Start in L'Hospitalet bei klarer Winterluft. Mittags erkunden wir die Höhle, in der konstant milde Temperaturen herrschen. Die Fahrt zum Moulin de Caoulet führt durch die winterlich kahle Natur des Tals. Nachmittags geht es hinauf zum Plateau, wo wir die weite Sicht vor dem frühen Sonnenuntergang genießen.",
+            "hu": "Friss kezdés L'Hospitalet-nél a tiszta téli levegőben. Délben a barlangot fedezzük fel, ahol állandó, enyhe a hőmérséklet. A tekerés a Moulin de Caoulet-hoz a völgy téli, kopár természetén át vezet. Délután felkapaszkodunk a fennsíkra, hogy élvezzük a távoli kilátást a korai naplemente előtt.",
+            "ro": "Un început proaspăt la L'Hospitalet în aerul curat de iarnă. La prânz explorăm peștera, unde temperaturile sunt constant blânde. Drumul spre Moulin de Caoulet trece prin natura hibernală a văii. După-amiaza urcăm spre platou pentru a savura priveliștea înainte de apus.",
+            "en": "A crisp start at L'Hospitalet in the clear winter air. Spend midday exploring the cave, which maintains a constant mild temperature. The ride to Moulin de Caoulet takes you through the stark winter beauty of the valley. In the afternoon, climb to the plateau to catch the long shadows before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Halt auf kaltem Asphalt.",
+                "hu": "Ellenőrizze a keréknyomást a jobb tapadásért a hideg aszfalton.",
+                "ro": "Verificați presiunea roților pentru aderență pe asfalt rece.",
+                "en": "Check tire pressure for better grip on cold asphalt."
+              }
+            },
+            {
+              "name": "Grotte des Merveilles",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit konstanten 13 Grad Celsius.",
+                "hu": "Meleg menedékhely állandó 13 Celsius-fokkal.",
+                "ro": "Un refugiu cald cu o temperatură constantă de 13 grade.",
+                "en": "A warm refuge with a constant 13 degrees Celsius."
+              }
+            },
+            {
+              "name": "Moulin de Caoulet",
+              "tip_5lang": {
+                "de": "Das Tal ist im Winter deutlich kälter als das Plateau.",
+                "hu": "A völgy télen jelentősen hidegebb, mint a fennsík.",
+                "ro": "Valea este mult mai rece iarna decât platoul.",
+                "en": "The valley is significantly colder than the plateau in winter."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Saisonal geschlossen von Nov. bis März, nur Vorbeifahrt.",
+                "hu": "Szezonálisan zárva nov. és márc. között, csak elhaladás.",
+                "ro": "Închis sezonier din nov. până în martie, doar trecere.",
+                "en": "Seasonally closed from Nov. to March, exterior view only."
+              }
+            },
+            {
+              "name": "Rocamadour Plateau",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+                "hu": "Az alacsonyan járó nap erősen vakíthat vezetés közben.",
+                "ro": "Soarele jos poate fi foarte orbitor în timpul mersului.",
+                "en": "The low-hanging sun can be very blinding while riding."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung und winddichte Außenlagen.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (17 Uhr).",
+              "Vermeiden Sie vereiste Stellen in den Schattenzonen des Tals.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit."
+            ],
+            "hu": [
+              "Viseljen termoruházatot és szélálló külső réteget.",
+              "Tervezze meg a visszatérést sötétedés (17 óra) előtt.",
+              "Kerülje a jeges foltokat a völgy árnyékos részein.",
+              "Vigyen magával termoszban meleg teát."
+            ],
+            "ro": [
+              "Purtați haine termice și straturi exterioare anti-vânt.",
+              "Planificați întoarcerea înainte de lăsarea serii (ora 17).",
+              "Evitați porțiunile înghețate din zonele umbrite ale văii.",
+              "Luați un termos cu ceai cald la voi."
+            ],
+            "en": [
+              "Wear thermal clothing and windproof outer layers.",
+              "Plan to be back before darkness falls (around 5 PM).",
+              "Avoid icy patches in the shaded zones of the valley.",
+              "Bring a thermos with warm tea to stay hydrated and warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -596,6 +1288,261 @@
           "The roads are narrow and winding, drive carefully.",
           "Book cave tours online."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie Rocamadour mit den Schätzen des Lot-Tals. Besuchen Sie morgens das Heiligtum und fahren Sie dann zum beeindruckenden Gouffre de Padirac, einer riesigen unterirdischen Höhle mit einem Fluss.\n\nDen Nachmittag verbringen Sie in Loubressac, einem Blumendorf mit herrlicher Aussicht, und beenden den Tag am Wasserfall von Autoire, der in einem natürlichen Amphitheater aus Felsen liegt.",
+            "hu": "Autóval összekötheti Rocamadourt a Lot-völgy kincseivel. Reggel látogassa meg a szentélyt, majd induljon a lenyűgöző Gouffre de Padirac-hoz, amely egy óriási földalatti barlang folyóval.\n\nA délutánt töltse Loubressac-ban, a virágos faluban, és fejezze be a napot az Autoire vízesésnél, amely egy természetes szikla-amfiteátrumban található.",
+            "ro": "Cu mașina puteți combina Rocamadour cu comorile văii Lot. Vizitați sanctuarul dimineața, apoi mergeți la impresionantul Gouffre de Padirac, o peșteră subterană uriașă cu un râu.\n\nPetreceți după-amiaza în Loubressac, un sat plin de flori, și încheiați ziua la cascada Autoire, situată într-un amfiteatru natural de stâncă.",
+            "en": "By car, you can combine Rocamadour with the treasures of the Lot valley. Visit the sanctuary in the morning, then head to the impressive Gouffre de Padirac, a giant underground cave with a river.\n\nSpend the afternoon in Loubressac, a floral village with great views, and end the day at the Autoire waterfall, set in a natural rock amphitheater."
+          },
+          "stops": [
+            {
+              "name": "Rocamadour Sanctuary",
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße des Tals (P1).",
+                "hu": "Parkoljon a völgy alján (P1).",
+                "ro": "Parcați la baza văii (P1).",
+                "en": "Park at the bottom of the valley (P1)."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Ideal für Familien mit Kindern.",
+                "hu": "Ideális kisgyermekes családoknak.",
+                "ro": "Ideal pentru familiile cu copii.",
+                "en": "Ideal for families with children."
+              }
+            },
+            {
+              "name": "Gouffre de Padirac",
+              "tip_5lang": {
+                "de": "Reservieren Sie Tickets weit im Voraus!",
+                "hu": "Foglaljon jegyet jó előre!",
+                "ro": "Rezervați bilete cu mult timp înainte!",
+                "en": "Book tickets well in advance!"
+              }
+            },
+            {
+              "name": "Loubressac",
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Frankreichs.",
+                "hu": "Franciaország egyik legszebb faluja.",
+                "ro": "Unul dintre cele mai frumoase sate din Franța.",
+                "en": "One of the most beautiful villages in France."
+              }
+            },
+            {
+              "name": "Autoire Cascade",
+              "tip_5lang": {
+                "de": "Ein spektakulärer 30m hoher Wasserfall.",
+                "hu": "Látványos, 30 méter magas vízesés.",
+                "ro": "O cascadă spectaculoasă de 30 m.",
+                "en": "A spectacular 30m high waterfall."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+              "Buchen Sie Höhlentouren online."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak, vezessen óvatosan.",
+              "A barlangtúrákat foglalja le online."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+              "Rezervați tururile de peșteră online."
+            ],
+            "en": [
+              "The roads are narrow and winding, drive carefully.",
+              "Book cave tours online."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start im Heiligtum, gut geschützt vor dem Regen. Mittags besuchen wir die Affen, die oft unter den Bäumen Schutz suchen. Das Highlight ist der Gouffre de Padirac am Nachmittag, eine faszinierende Unterwelt, in der man den Regen völlig vergisst. Der Abend in Loubressac bietet eine romantische, wolkenverhangene Kulisse.",
+            "hu": "Nyugodt kezdés a szentélynél, jól védve az esőtől. Délben meglátogatjuk a majmokat, akik gyakran a fák alatt keresnek menedéket. A nap fénypontja délután a Gouffre de Padirac, egy lenyűgöző alvilág, ahol teljesen elfelejtheti az esőt. Az este Loubressac-ban romantikus, felhős díszletek közt telik.",
+            "ro": "Un început relaxat la sanctuar, bine protejat de ploaie. La prânz vizităm maimuțele, care se adăpostesc adesea sub copaci. Punctul culminant este Gouffre de Padirac după-amiaza, o lume subterană fascinantă unde uiți de ploaie. Seara în Loubressac oferă un decor romantic și înnorat.",
+            "en": "A relaxed start at the Sanctuary, well-sheltered from the rain. Spend midday visiting the monkeys, who often huddle under the canopy. The highlight is Gouffre de Padirac in the afternoon, a fascinating underworld where you'll completely forget the rain. The evening in Loubressac offers a romantic, cloud-swept backdrop."
+          },
+          "stops": [
+            {
+              "name": "Rocamadour Sanctuary",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus L'Hospitalet für trockenen Zugang.",
+                "hu": "Parkoljon L'Hospitalet parkolóházában a száraz bejutáshoz.",
+                "ro": "Parcați în parcarea L'Hospitalet pentru acces uscat.",
+                "en": "Park in the L'Hospitalet parking garage for dry access."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Befestigte Wege sorgen für saubere Schuhe trotz Regen.",
+                "hu": "A burkolt utak tiszta cipőt biztosítanak az eső ellenére is.",
+                "ro": "Potecile amenajate asigură încălțăminte curată în ciuda ploii.",
+                "en": "Paved paths ensure clean shoes despite the rain."
+              }
+            },
+            {
+              "name": "Gouffre de Padirac",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen: 103 Meter unter der Erde ist es trocken.",
+                "hu": "Esőben tökéletes: 103 méterrel a föld alatt száraz az idő.",
+                "ro": "Perfect pe ploaie: la 103 metri sub pământ este uscat.",
+                "en": "Perfect for rain: it is dry 103 meters underground."
+              }
+            },
+            {
+              "name": "Loubressac",
+              "tip_5lang": {
+                "de": "Das Dorf wirkt im Regen besonders zeitlos und ruhig.",
+                "hu": "A falu az esőben különösen időtlennek és nyugodtnak tűnik.",
+                "ro": "Satul pare deosebit de atemporal și liniștit pe ploaie.",
+                "en": "The village feels especially timeless and quiet in the rain."
+              }
+            },
+            {
+              "name": "Autoire Cascade",
+              "tip_5lang": {
+                "de": "Nach Regen ist der Wasserfall besonders beeindruckend.",
+                "hu": "Eső után a vízesés különösen lenyűgöző látványt nyújt.",
+                "ro": "După ploaie, cascada este deosebit de impresionantă.",
+                "en": "After rain, the waterfall is particularly impressive and powerful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die kurvigen Straßen können bei Nässe rutschig sein.",
+              "Padirac erfordert eine Vorabreservierung, besonders bei Regen.",
+              "Nutzen Sie die Parkplätze direkt bei den Sehenswürdigkeiten.",
+              "Haben Sie einen Regenschirm für die Wege vom Parkplatz bereit."
+            ],
+            "hu": [
+              "A kanyargós utak nedvesen csúszósak lehetnek.",
+              "Padirac előzetes foglalást igényel, főleg esős napokon.",
+              "Használja a látnivalók melletti közvetlen parkolókat.",
+              "Legyen kéznél esernyő a parkolótól a bejáratig."
+            ],
+            "ro": [
+              "Drumurile șerpuite pot fi alunecoase când sunt ude.",
+              "Padirac necesită rezervare prealabilă, mai ales pe ploaie.",
+              "Folosiți parcările aflate direct lângă obiective.",
+              "Aveți o umbrelă pregătită pentru drumul de la parcare."
+            ],
+            "en": [
+              "The winding roads can be slippery when wet; drive carefully.",
+              "Padirac requires advance booking, especially on rainy days.",
+              "Utilize the parking lots located directly at the sights.",
+              "Keep an umbrella handy for the short walks from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein mystischer Morgen im stillen Heiligtum von Rocamadour. Mittags geht es in die Affenwald-Region, gefolgt vom Besuch des Gouffre de Padirac, wo die Temperatur das ganze Jahr über konstant bleibt. Der Nachmittag in Loubressac bietet weite Blicke über das winterliche Tal. Den Abschluss bildet die kühle Frische der Autoire-Kaskade.",
+            "hu": "Misztikus reggel Rocamadour csendes szentélyében. Délben a majomerdő környékére látogatunk, majd a Gouffre de Padirac következik, ahol a hőmérséklet egész évben állandó. A délután Loubressac-ban tágas kilátást nyújt a téli völgyre. A napot az Autoire-vízesés hűvös frissessége zárja.",
+            "ro": "O dimineață mistică în sanctuarul liniștit din Rocamadour. La prânz mergem spre pădurea maimuțelor, urmată de Gouffre de Padirac, unde temperatura e constantă. După-amiaza în Loubressac oferă vederi largi peste valea hibernală. Încheiem cu prospețimea cascadei Autoire.",
+            "en": "A mystical morning in the silent Sanctuary of Rocamadour. Spend midday near the monkey forest, followed by a visit to Gouffre de Padirac, where the temperature remains constant year-round. The afternoon in Loubressac offers sweeping views over the winter valley. Conclude with the cool freshness of the Autoire Cascade."
+          },
+          "stops": [
+            {
+              "name": "Rocamadour Sanctuary",
+              "tip_5lang": {
+                "de": "Wintersonne beleuchtet die Felsen am Vormittag ideal.",
+                "hu": "A téli nap délelőtt ideálisan világítja meg a sziklákat.",
+                "ro": "Soarele de iarnă luminează ideal stâncile dimineața.",
+                "en": "The winter sun illuminates the cliffs perfectly in the morning."
+              }
+            },
+            {
+              "name": "Forêt des Singes",
+              "tip_5lang": {
+                "de": "Saisonal geschlossen, oft nur Außenbesichtigung möglich.",
+                "hu": "Szezonálisan zárva, gyakran csak kívülről tekinthető meg.",
+                "ro": "Închis sezonier, adesea e posibilă doar vizita exterioară.",
+                "en": "Seasonally closed; often only exterior viewing is possible."
+              }
+            },
+            {
+              "name": "Gouffre de Padirac",
+              "tip_5lang": {
+                "de": "Mit 13 Grad oft wärmer als die Außenluft im Winter.",
+                "hu": "13 fokos hőmérsékletével gyakran melegebb a téli levegőnél.",
+                "ro": "La 13 grade, e adesea mai cald decât aerul de afară.",
+                "en": "At 13 degrees, it is often warmer than the outside air."
+              }
+            },
+            {
+              "name": "Loubressac",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne störendes Laub.",
+                "hu": "Élvezze a távoli kilátást a zavaró lombozat nélkül.",
+                "ro": "Bucurați-vă de vederea largă fără frunzișul deranjant.",
+                "en": "Enjoy the wide views without the obstruction of leaves."
+              }
+            },
+            {
+              "name": "Autoire Cascade",
+              "tip_5lang": {
+                "de": "Bei starkem Frost bilden sich beeindruckende Eiszapfen.",
+                "hu": "Erős fagyban lenyűgöző jégcsapok képződhetnek.",
+                "ro": "În caz de ger, se pot forma țurțuri de gheață impresionanți.",
+                "en": "In heavy frost, impressive icicles can form at the falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf kleinen Nebenstraßen.",
+              "Einige Attraktionen wie Padirac haben Winterpausen.",
+              "Die Parkplätze sind im Winter oft kostenlos oder leer.",
+              "Fahren Sie defensiv bei tiefstehender Sonne oder Nebel."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a kisebb mellékutakon.",
+              "Néhány látnivaló, mint a Padirac, téli szünetet tart.",
+              "A parkolók télen gyakran ingyenesek vagy üresek.",
+              "Vezessen óvatosan alacsony napállás vagy köd esetén."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile secundare mici.",
+              "Unele atracții, cum e Padirac, au pauză de iarnă.",
+              "Parcările sunt adesea gratuite sau goale iarna.",
+              "Conduceți defensiv când soarele e jos sau e ceață."
+            ],
+            "en": [
+              "Watch out for black ice on small secondary roads.",
+              "Check opening dates as some sights have winter closures.",
+              "Parking lots are often free or very empty in winter.",
+              "Drive defensively during low sun or foggy conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -720,34 +1667,235 @@
           "Buy a combined ticket for both lifts.",
           "The train runs seasonally, check the schedule."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Rocamadour bietet ein System aus Liften und einem Touristenzug, um die steilen Hänge bequem zu überwinden. Starten Sie oben in L'Hospitalet, fahren Sie mit dem Lift hinunter zum Heiligtum und erkunden Sie die Kirchen ohne Treppensteigen.\n\nAm Nachmittag bringt Sie der 'Petit Train' durch das Alzou-Tal und zurück zum Parkplatz, was Ihnen einen umfassenden Überblick bietet, ohne dass Sie weite Strecken zu Fuß zurücklegen müssen.",
+            "hu": "Rocamadour liftekkel és kisvonattal teszi kényelmessé a meredek hegyoldal felfedezését. Kezdjen fent L'Hospitalet-ben, liftezzen le a szentélyhez, és fedezze fel a templomokat lépcsőzés nélkül.\n\nDélután a kisvonat átviszi az Alzou-völgyön és visszaviszi a parkolóhoz, így teljes képet kap a városról anélkül, hogy sokat kellene gyalogolnia.",
+            "ro": "Rocamadour oferă un sistem de lifturi și un trenuleț turistic pentru a depăși pantele abrupte. Începeți sus în L'Hospitalet, coborâți cu liftul la sanctuar și explorați bisericile fără a urca trepte.\n\nDupă-amiaza, trenulețul vă poartă prin valea Alzou și vă aduce înapoi la parcare, oferindu-vă o imagine de ansamblu fără a fi nevoie de mult mers pe jos.",
+            "en": "Rocamadour provides a system of lifts and a tourist train to comfortably navigate the steep slopes. Start at the top in L'Hospitalet, take the lift down to the sanctuary, and explore the churches without climbing stairs.\n\nIn the afternoon, the 'Petit Train' takes you through the Alzou valley and back to the parking lot, giving you a full overview without needing much walking."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet (Parking P2)",
+              "tip_5lang": {
+                "de": "Hier startet der 'Petit Train' zur Unterstadt.",
+                "hu": "Itt indul a kisvonat az alsóvárosba.",
+                "ro": "De aici pleacă trenulețul spre orașul de jos.",
+                "en": "The 'Petit Train' to the lower town starts here."
+              }
+            },
+            {
+              "name": "Ascenseur incliné (Top)",
+              "tip_5lang": {
+                "de": "Der Lift verbindet das Schloss mit dem Heiligtum.",
+                "hu": "A lift összeköti a várat a szentéllyel.",
+                "ro": "Liftul face legătura între castel și sanctuar.",
+                "en": "The lift connects the castle and the sanctuary."
+              }
+            },
+            {
+              "name": "Cité Religieuse",
+              "tip_5lang": {
+                "de": "Nutzen Sie den zweiten Lift zur Hauptstraße.",
+                "hu": "Használja a második liftet a főutcához.",
+                "ro": "Folosiți al doilea lift către strada principală.",
+                "en": "Use the second lift to the main street."
+              }
+            },
+            {
+              "name": "Petit Train Touristique",
+              "tip_5lang": {
+                "de": "Eine bequeme Tour durch das Tal.",
+                "hu": "Kényelmes utazás a völgyön keresztül.",
+                "ro": "Un tur confortabil prin vale.",
+                "en": "A comfortable tour through the valley."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "de": [],
+            "hu": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Kombiticket für beide Lifte.",
+              "Der Zug fährt saisonal, prüfen Sie die Fahrzeiten."
+            ],
+            "hu": [
+              "Vásároljon kombinált jegyet mindkét liftre.",
+              "A vonat szezonálisan jár, ellenőrizze a menetrendet."
+            ],
+            "ro": [
+              "Cumpărați un bilet combinat pentru ambele lifturi.",
+              "Trenulețul circulă sezonier, verificați orarul."
+            ],
+            "en": [
+              "Buy a combined ticket for both lifts.",
+              "The train runs seasonally, check the schedule."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken in L'Hospitalet, bevor Sie den Schrägaufzug nutzen, um den Regen im Freien zu minimieren. Mittags bietet die Cité Religieuse viele überdachte Bereiche zum Verweilen. Der kleine Touristenzug am Nachmittag ist oft überdacht und bietet eine bequeme Fahrt durch den Regen. Ein entspannter Tag trotz des Wetters.",
+            "hu": "Kezdjen szárazon L'Hospitalet-nél, majd használja a ferde liftet a szabadtéri áázás minimalizálására. Délben a Cité Religieuse számos fedett területe kínál pihenőhelyet. A Petit Train délután gyakran fedett kocsikkal közlekedik, kényelmes utat biztosítva az esőben. Pihentető nap az időjárás ellenére is.",
+            "ro": "Începeți la L'Hospitalet, apoi folosiți liftul înclinat pentru a minimiza expunerea la ploaie. La prânz, Cité Religieuse oferă multe zone acoperite. Trenulețul turistic de după-amiază este adesea acoperit, oferind o plimbare confortabilă prin ploaie. O zi relaxată în ciuda vremii.",
+            "en": "Start dry at L'Hospitalet before using the inclined elevator to minimize time spent in the rain. Midday at the Cité Religieuse offers many covered areas to explore. The Petit Train in the afternoon is usually covered, providing a comfortable way to see the sights through the rain. A relaxed day regardless of the weather."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet (Parking P2)",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz und Informationen.",
+                "hu": "A látogatóközpont védelmet és információkat nyújt.",
+                "ro": "Centrul de vizitare oferă adăpost și informații.",
+                "en": "The visitor center offers shelter and useful information."
+              }
+            },
+            {
+              "name": "Ascenseur incliné (Top)",
+              "tip_5lang": {
+                "de": "Die beste Wahl bei Regen, um Treppen zu vermeiden.",
+                "hu": "A legjobb választás esőben a lépcsőzés elkerülésére.",
+                "ro": "Cea mai bună alegere pe ploaie pentru a evita treptele.",
+                "en": "The best choice during rain to avoid the outdoor steps."
+              }
+            },
+            {
+              "name": "Cité Religieuse",
+              "tip_5lang": {
+                "de": "Viele Arkaden und Kapellen halten Sie hier trocken.",
+                "hu": "Számos árkád és kápolna tartja Önt itt szárazon.",
+                "ro": "Multe arcade și capele vă vor ține la adăpost aici.",
+                "en": "Many arcades and chapels will keep you dry here."
+              }
+            },
+            {
+              "name": "Petit Train Touristique",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Plastikplanen heute montiert sind.",
+                "hu": "Ellenőrizze, hogy a műanyag védőponyvák fel vannak-e szerelve.",
+                "ro": "Verificați dacă foliile de protecție sunt montate azi.",
+                "en": "Check if the plastic protective covers are installed today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Kombiticket für beide Aufzüge.",
+              "Der kleine Zug fährt bei starkem Regen seltener.",
+              "Die Aufzüge sind der sicherste Weg bei rutschigem Wetter.",
+              "Halten Sie Kleingeld für die Fahrkartenautomaten bereit."
+            ],
+            "hu": [
+              "Vásároljon kombinált jegyet mindkét lifthez.",
+              "A kisvonat heves esőzés esetén ritkábban közlekedhet.",
+              "A liftek a legbiztonságosabbak csúszós időben.",
+              "Legyen Önnél aprópénz a jegyautomatákhoz."
+            ],
+            "ro": [
+              "Cumpărați un bilet combinat pentru ambele lifturi.",
+              "Trenulețul poate circula mai rar în caz de ploaie torențială.",
+              "Lifturile sunt calea cea mai sigură pe vreme alunecoasă.",
+              "Aveți mărunțiș pregătit pentru automatele de bilete."
+            ],
+            "en": [
+              "Purchase a combined ticket for both elevators.",
+              "The Petit Train might run less frequently during heavy rain.",
+              "Elevators are the safest way to travel during slippery weather.",
+              "Have some small change ready for the ticket machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Winterstart am Aussichtspunkt L'Hospitalet. Mit dem Aufzug geht es hinunter in die Cité, wo die Kälte durch die massiven Mauern etwas abgehalten wird. Mittags erkunden wir die Heiligtümer in andächtiger Stille. Der Touristenzug am Nachmittag bietet eine gemütliche Rundfahrt, um die winterliche Felskulisse ohne Anstrengung zu sehen.",
+            "hu": "Csendes téli kezdés L'Hospitalet kilátópontjánál. A lifttel ereszkedünk le a Citébe, ahol a masszív falak valamennyire felfogják a hideget. Délben a szentélyeket fedezzük fel áhítatos csendben. A délutáni kisvonat kényelmes körutazást kínál a téli sziklafalak megtekintéséhez, megerőltetés nélkül.",
+            "ro": "Un început de iarnă liniștit la punctul de belvedere L'Hospitalet. Coborâm cu liftul în Cité, unde zidurile masive mai opresc din frig. La prânz explorăm sanctuarele în liniște. Trenulețul de după-amiază oferă un tur relaxant al stâncilor hibernale, fără efort.",
+            "en": "A quiet winter start at the L'Hospitalet viewpoint. Take the elevator down to the Cité, where the massive walls buffer the cold wind. Midday is spent exploring the sanctuaries in prayerful silence. The Petit Train in the afternoon offers a cozy circuit to see the winter cliffside without physical exertion."
+          },
+          "stops": [
+            {
+              "name": "L'Hospitalet (Parking P2)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist sehr nah und leer.",
+                "hu": "A parkoló télen általában nagyon közeli és üres.",
+                "ro": "Parcarea este de obicei foarte aproape și goală iarna.",
+                "en": "The parking lot is usually very close and empty in winter."
+              }
+            },
+            {
+              "name": "Ascenseur incliné (Top)",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig für die kurze Wartezeit.",
+                "hu": "Meleg ruházat fontos a rövid várakozási idő alatt.",
+                "ro": "Hainele groase sunt importante pentru scurta așteptare.",
+                "en": "Warm clothing is important even for the short wait time."
+              }
+            },
+            {
+              "name": "Cité Religieuse",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta, dort ist es oft am mildesten.",
+                "hu": "Látogassa meg a kriptát, ott gyakran a legenyhébb az idő.",
+                "ro": "Vizitați cripta, acolo este adesea cel mai blând climat.",
+                "en": "Visit the crypt; it is often the mildest spot here."
+              }
+            },
+            {
+              "name": "Petit Train Touristique",
+              "tip_5lang": {
+                "de": "Fahrten sind im Winter seltener, Fahrplan prüfen.",
+                "hu": "Télen ritkábbak az indulások, ellenőrizze a menetrendet.",
+                "ro": "Cursele sunt mai rare iarna, verificați orarul.",
+                "en": "Trips are less frequent in winter; check the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Aufzüge sind im Winter der bequemste Weg.",
+              "Prüfen Sie, ob der kleine Zug in der Nebensaison fährt.",
+              "Tragen Sie warme Schuhe, der Steinboden strahlt Kälte ab.",
+              "Genießen Sie die Abwesenheit der Touristenmassen."
+            ],
+            "hu": [
+              "A liftek télen a legkényelmesebb közlekedési módok.",
+              "Ellenőrizze, hogy a kisvonat közlekedik-e utószezonban.",
+              "Viseljen meleg cipőt, a kőpadló sugározza a hideget.",
+              "Élvezze a turistatömegek hiányát."
+            ],
+            "ro": [
+              "Lifturile sunt cea mai comodă cale de transport iarna.",
+              "Verificați dacă trenulețul circulă în extrasezon.",
+              "Purtați încălțăminte caldă, podeaua de piatră e rece.",
+              "Bucurați-vă de absența mulțimilor de turiști."
+            ],
+            "en": [
+              "The elevators are the most comfortable way in winter.",
+              "Check if the Petit Train operates during the low season.",
+              "Wear warm shoes as the stone floors radiate cold.",
+              "Enjoy the rare absence of large tourist crowds."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.vallee-dordogne.com/decouvrir/rocamadour",
-    "events": "https://www.vallee-dordogne.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.lio-occitanie.fr/",
-    "language_tips": {
-      "de": "Rocamadour ist UNESCO-Pilgerort, dramatisch in den Felsen gebaut. Englisch wird in den Sanktuarien und Restaurants gesprochen. Lernen Sie 'Cité religieuse' für den oberen Heiligen Bereich, 'Vierge Noire' für die berühmte schwarze Madonna. Pilger sagen 'paix et bien' (Friede und Heil) zur Begrüßung.",
-      "hu": "Rocamadour UNESCO zarándokhely, drámaian a sziklákba építve. A szent helyeken és éttermekben beszélnek angolul. Tanuld meg a 'Cité religieuse' nevet a felső szent területhez, a 'Vierge Noire' nevet a híres fekete Madonnához. A zarándokok 'paix et bien' (béke és jólét) köszöntéssel találkoznak.",
-      "ro": "Rocamadour este un loc de pelerinaj UNESCO, construit dramatic în stâncă. Engleza se vorbește în sanctuare și restaurante. Învățați 'Cité religieuse' pentru zona sfântă superioară, 'Vierge Noire' pentru celebra Madonă neagră. Pelerinii se salută cu 'paix et bien'.",
-      "en": "Rocamadour is a UNESCO pilgrimage site, dramatically built into cliffs. English is spoken at the sanctuaries and restaurants. Learn 'Cité religieuse' for the upper holy area and 'Vierge Noire' for the famous Black Madonna. Pilgrims greet with 'paix et bien' (peace and well-being)."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Pilger und perfekte Bedingungen für die 216 Treppenstufen hinauf. Juli und August extrem voll, im Hochsommer Hitze in den engen Gassen. Winter ruhig und mystisch, viele Geschäfte aber geschlossen.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb zarándok és tökéletes feltételek a 216 lépcsőfok megmászásához. Júliusban és augusztusban extrém zsúfolt, nyár derekán a szűk utcákban hőség. Télen csendes és misztikus, de sok bolt zárva.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini pelerini și condiții perfecte pentru cele 216 trepte. Iulie-august extrem de aglomerate, în toiul verii căldură pe străduțele înguste. Iarna liniștită și mistică, dar multe magazine închise.",
-      "en": "April-June and September-October are ideal: mild weather, fewer pilgrims and perfect conditions for the 216-step climb up. July-August extremely packed, with peak summer heat trapped in narrow lanes. Winter quiet and mystical, though many shops close."
-    },
-    "neighborhood_warnings": {
-      "de": "Rocamadour ist sehr sicher, ein winziger Pilgerort. Parken oben am Plateau (L'Hospitalet) und zu Fuß oder Lift hinunter. Bei der Vertikal-Stadt feste Schuhe und Trittsicherheit erforderlich, die Treppen sind glitschig bei Regen.",
-      "hu": "Rocamadour nagyon biztonságos, apró zarándokhely. Parkolj fent a fennsíkon (L'Hospitalet) és gyalog vagy lifttel menj le. A függőleges városhoz erős cipő és biztos lépés kell, a lépcsők esőben csúszósak.",
-      "ro": "Rocamadour este foarte sigur, un mic loc de pelerinaj. Parcați sus pe platou (L'Hospitalet) și coborâți pe jos sau cu liftul. La orașul vertical, încălțăminte solidă și pas sigur sunt necesare, treptele sunt alunecoase pe ploaie.",
-      "en": "Rocamadour is very safe, a tiny pilgrim site. Park up on the plateau (L'Hospitalet) and descend on foot or by lift. The vertical town requires sturdy shoes and steady footing - steps get slippery when wet."
-    },
-    "parking_real_time": ""
   }
 }

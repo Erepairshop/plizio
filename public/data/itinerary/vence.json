@@ -987,32 +987,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.vence-tourisme.com/",
-    "events": "https://www.vence-tourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.lignesdazur.com/",
-    "language_tips": {
-      "de": "Vence ist provenzalisch und international zugleich, viele Engländer und Niederländer haben hier Wohnsitze. Englisch wird gut gesprochen, besonders in der Chapelle Matisse und den Galerien. Lernen Sie 'la Place du Peyra' für die Brunnenplatz-Verabredung. Ein 'Bonjour' beim Betreten der Boulangerien ist Pflicht.",
-      "hu": "Vence egyszerre provence-i és nemzetközi, sok angol és holland lakos él itt. Angolul jól beszélnek, főleg a Chapelle Matisse-ban és a galériákban. Tanuld meg a 'Place du Peyra' nevet, ez a kút téri találkozóhely. A pékségbe lépéskor mindig köszönj 'Bonjour'-ral.",
-      "ro": "Vence este în același timp provensal și internațional, mulți englezi și olandezi locuiesc aici. Engleza se vorbește bine, mai ales în Capela Matisse și galerii. Învățați 'la Place du Peyra' pentru întâlnirile la fântână. 'Bonjour' la intrarea în brutării este obligatoriu.",
-      "en": "Vence is both Provençal and international - many English and Dutch residents live here. English is well spoken, especially at the Chapelle Matisse and art galleries. Learn 'la Place du Peyra' as the fountain-square meeting point. A 'Bonjour' in boulangeries remains mandatory etiquette."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober bieten ideales Wanderwetter und blühende Olivenhaine, ohne die Sommerhitze. Juli und August voller mit Tagesausflüglern aus Nizza, aber abends ruhiger. Im Winter ist Vence eine ruhige Künstlerstadt mit milden Temperaturen für Spaziergänge im Hinterland.",
-      "hu": "Április és június, valamint szeptember és október ideális túraidőt és virágzó olajfaligetet kínál nyári hőség nélkül. Júliusban és augusztusban zsúfoltabb a nizzai napi kirándulókkal, de este csendesebb. Télen Vence csendes művészváros, enyhe hőmérséklettel a hegyek közti sétákhoz.",
-      "ro": "Aprilie-iunie și septembrie-octombrie oferă vreme ideală pentru drumeții și măslini înfloriți, fără căldura verii. Iulie-august sunt mai aglomerate cu excursioniști din Nisa, dar mai liniștite seara. Iarna, Vence este un oraș de artiști liniștit, cu temperaturi blânde pentru plimbări.",
-      "en": "April-June and September-October offer ideal hiking weather and blooming olive groves without summer heat. July-August get busier with day-trippers from Nice, but evenings calm down. Winter Vence is a quiet artists' town with mild temperatures perfect for backcountry walks."
-    },
-    "neighborhood_warnings": {
-      "de": "Vence ist sehr sicher, doch die schmalen Altstadtgassen sind nicht autotauglich. Parken Sie an den ausgewiesenen Parkplätzen außerhalb der Stadtmauern. Im Sommer Vorsicht beim Wandern wegen Hitze und Buschfeuern.",
-      "hu": "Vence nagyon biztonságos, de a szűk óvárosi utcák nem autósoknak valók. A városfalakon kívüli kijelölt parkolókat használd. Nyáron óvatosan túrázz a hőség és bozóttüzek miatt.",
-      "ro": "Vence este foarte sigur, dar străduțele înguste din centrul vechi nu sunt potrivite pentru mașini. Parcați la parcările desemnate din afara zidurilor. Vara, atenție la drumeții din cauza căldurii.",
-      "en": "Vence is very safe, but the narrow old town lanes don't fit cars. Use the designated car parks outside the walls. In summer, hike with care due to heat and bushfire risk."
-    },
-    "parking_real_time": ""
   }
 }

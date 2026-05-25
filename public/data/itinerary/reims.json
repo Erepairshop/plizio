@@ -324,6 +324,454 @@
           "Most sights are within walking distance of each other.",
           "The illuminated cathedral is a must-see at night."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der majestätischen Kathedrale, in der einst die Könige Frankreichs gekrönt wurden. Der Vormittag führt Sie durch die Geschichte des Palais du Tau und die elegante Place Royale. Nach einem künstlerischen Mittag im Musée des Beaux-Arts spazieren Sie zur antiken Porte de Mars. Den Abend lassen Sie gemütlich bei Champagner und lokalem Gebäck auf der belebten Place d'Erlon ausklingen.",
+            "hu": "Kezdje a napot a fenséges katedrálisnál, ahol egykor a francia királyokat koronázták. A délelőtt a Palais du Tau történelmi falai és az elegáns Place Royale között telik. Egy művészeti kitérő után a Szépművészeti Múzeumban, sétáljon el az ókori Mars-kapuhoz. Az estét töltse a nyüzsgő Place d'Erlon téren, megkóstolva a helyi pezsgőt és a híres rózsaszín kekszet.",
+            "ro": "Începeți ziua la catedrala maiestuoasă unde erau încoronați regii Franței. Dimineața vă poartă prin istoria de la Palais du Tau și eleganța Pieței Regale. După o după-amiază artistică la Muzeul de Arte Frumoase, plimbați-vă până la antica Poartă a lui Marte. Seara se încheie relaxat cu șampanie și biscuiți roz locali în vibranta Piață d'Erlon.",
+            "en": "Start your day at the majestic cathedral where French kings were once crowned. The morning takes you through history at the Palais du Tau and the elegant Place Royale. After an artistic midday at the Museum of Fine Arts, walk to the ancient Porte de Mars. End your evening comfortably with champagne and local biscuits at the lively Place d'Erlon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von Reims",
+                "hu": "Reimsi katedrális",
+                "ro": "Catedrala din Reims",
+                "en": "Reims Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Lächeln des Engels am Westportal.",
+                "hu": "Keresse meg a mosolygó angyalt a nyugati kapunál.",
+                "ro": "Admirați îngerul zâmbitor de la portalul de vest.",
+                "en": "Look for the Smiling Angel on the west portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Tau",
+                "hu": "Palais du Tau",
+                "ro": "Palatul Tau",
+                "en": "Palais du Tau"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den Talisman von Karl dem Großen an.",
+                "hu": "Nézze meg Nagy Károly talizmánját a kincstárban.",
+                "ro": "Vedeți talismanul lui Carol cel Mare în tezaur.",
+                "en": "See Charlemagne's talisman in the treasury."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Royale",
+                "hu": "Királyi tér",
+                "ro": "Piața Regală",
+                "en": "Place Royale"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos der Statue von Ludwig XV.",
+                "hu": "Tökéletes hely fotózni XV. Lajos szobrát.",
+                "ro": "Loc perfect pentru poze cu statuia lui Ludovic al XV-lea.",
+                "en": "Perfect spot for photos of Louis XV's statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Beaux-Arts",
+                "hu": "Szépművészeti Múzeum",
+                "ro": "Muzeul de Arte Frumoase",
+                "en": "Musée des Beaux-Arts"
+              },
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die Werke von Camille Corot.",
+                "hu": "Ne hagyja ki Camille Corot műveit.",
+                "ro": "Nu ratați lucrările lui Camille Corot.",
+                "en": "Don't miss the works by Camille Corot."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Mars",
+                "hu": "Mars-kapu",
+                "ro": "Poarta lui Marte",
+                "en": "Porte de Mars"
+              },
+              "tip_5lang": {
+                "de": "Der größte erhaltene römische Bogen seiner Art.",
+                "hu": "A legnagyobb fennmaradt római diadalív a típusában.",
+                "ro": "Cel mai mare arc roman păstrat de acest tip.",
+                "en": "The largest surviving Roman arch of its kind."
+              }
+            },
+            {
+              "name": {
+                "de": "Place d'Erlon",
+                "hu": "Place d'Erlon",
+                "ro": "Piața d'Erlon",
+                "en": "Place d'Erlon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Glas Champagner in einem Straßencafé.",
+                "hu": "Igyon meg egy pohár pezsgőt egy teraszon.",
+                "ro": "Savurați un pahar de șampanie la o terasă.",
+                "en": "Enjoy a glass of champagne at a sidewalk cafe."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Biscuits Roses de Reims",
+                "tip": "Probieren Sie diese im Maison Fossier."
+              },
+              {
+                "name": "Le Café du Palais",
+                "tip": "Historisches Bistro mit fantastischem Dekor."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biscuits Roses de Reims",
+                "tip": "Kóstolja meg a Maison Fossier üzletében."
+              },
+              {
+                "name": "Le Café du Palais",
+                "tip": "Történelmi bisztró fantasztikus dekorációval."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscuits Roses de Reims",
+                "tip": "Gustați-i la Maison Fossier."
+              },
+              {
+                "name": "Le Café du Palais",
+                "tip": "Bistrou istoric cu un decor fantastic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Biscuits Roses de Reims",
+                "tip": "Try these at Maison Fossier."
+              },
+              {
+                "name": "Le Café du Palais",
+                "tip": "Historic bistro with fantastic decor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Square de la Patte d'Oie",
+                "tip": "Ruhiger Park mit Springbrunnen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque Carnegie",
+                "tip": "Atemberaubende Art-déco-Ruhe.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Square de la Patte d'Oie",
+                "tip": "Csendes park szökőkutakkal.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque Carnegie",
+                "tip": "Lenyűgöző Art Deco nyugalom.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Square de la Patte d'Oie",
+                "tip": "Parc liniștit cu fântâni.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque Carnegie",
+                "tip": "Liniște Art Deco uluitoare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Square de la Patte d'Oie",
+                "tip": "Quiet park with fountains.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Bibliothèque Carnegie",
+                "tip": "Stunning Art Deco peace.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Halles du Boulingrin",
+                "tip": "Historische Markthalle für Feinschmecker."
+              },
+              {
+                "name": "Trésors de Champagne",
+                "tip": "Beste Auswahl an lokalen Winzern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Halles du Boulingrin",
+                "tip": "Történelmi vásárcsarnok ínyenceknek."
+              },
+              {
+                "name": "Trésors de Champagne",
+                "tip": "A legjobb választék helyi borászoktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Halles du Boulingrin",
+                "tip": "Piață istorică pentru gurmanzi."
+              },
+              {
+                "name": "Trésors de Champagne",
+                "tip": "Cea mai bună selecție de la vinicultori locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Halles du Boulingrin",
+                "tip": "Historic market hall for foodies."
+              },
+              {
+                "name": "Trésors de Champagne",
+                "tip": "Best selection of local growers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Innenstadt ist sehr kompakt und ideal zu Fuß erreichbar.",
+              "Buchen Sie Kathedralenführungen im Voraus.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander.",
+              "Abends ist die beleuchtete Kathedrale ein Muss."
+            ],
+            "hu": [
+              "A belváros nagyon kompakt, ideális gyalogos felfedezésre.",
+              "Foglalja le előre a katedrális túrákat.",
+              "Viseljen kényelmes cipőt a macskakövek miatt.",
+              "A legtöbb látnivaló sétatávolságra van egymástól.",
+              "Este a kivilágított katedrális kötelező látvány."
+            ],
+            "ro": [
+              "Centrul orașului este compact și ideal pentru mersul pe jos.",
+              "Rezervați tururile la catedrală în avans.",
+              "Purtați pantofi confortabili pentru pavajul cu piatră cubică.",
+              "Majoritatea obiectivelor sunt aproape unele de altele.",
+              "Seara, catedrala iluminată este un obiectiv obligatoriu."
+            ],
+            "en": [
+              "The city center is very compact and ideal for walking.",
+              "Book cathedral tours in advance.",
+              "Wear comfortable shoes for the cobblestones.",
+              "Most sights are within walking distance of each other.",
+              "The illuminated cathedral is a must-see at night."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der prächtigen Kathedrale, wo das prasselnde Geräusch des Regens auf den hohen Fenstern eine mystische Atmosphäre schafft. Der benachbarte Palais du Tau bietet perfekten Schutz und faszinierende königliche Schätze.\n\nMittags führt ein kurzer, erfrischender Spaziergang zur Place Royale. Suchen Sie sich ein gemütliches Bistro in den umliegenden Straßen, um die lokale Küche trocken zu genießen, während der Regen die Kalksteinfassaden glänzen lässt.\n\nDer Nachmittag gehört der Kunst im Musée des Beaux-Arts. In den gut temperierten Galerien vergisst man schnell das graue Wetter draußen. Ein kurzer Abstecher zur Porte de Mars zeigt die römische Pracht auch unter Wolken.\n\nAbends bietet die Place d'Erlon mit ihren zahlreichen überdachten Terrassen und beheizten Außenbereichen den idealen Ort für ein Glas Champagner, um den Tag entspannt ausklingen zu lassen, ganz ungeachtet der Regenschauer.",
+            "hu": "Kezdje a napot a székesegyházban, ahol a hatalmas ólomüveg ablakokon kopogó eső misztikus hangulatot áraszt. A szomszédos Palais du Tau tökéletes menedéket nyújt a királyi kincsek felfedezéséhez.\n\nDélben egy rövid séta vezet a Place Royale-hoz. Keressen egy hangulatos bisztrót a közeli utcákban, ahol szárazon élvezheti a helyi gasztronómiát, miközben az eső fényesre mossa a mészkő homlokzatokat.\n\nA délutánt szentelje a szépművészeti múzeumnak. A meleg galériákban hamar elfelejti a kinti szürkeséget. A Porte de Mars római boltívei alatt még esőben is érezhető a történelem nagysága.\n\nEste a Place d'Erlon fedett teraszai és fűtött beülői várják. Egy pohár helyi pezsgő mellett nézheti az utcai forgatagot, miközben biztonságban marad a záporoktól, lezárva ezt a tartalmas napot.",
+            "ro": "Începeți ziua în catedrala maiestuoasă, unde sunetul ploii pe vitraliile uriașe creează o atmosferă mistică. Palais du Tau din apropiere oferă un adăpost perfect pentru a explora comorile regale.\n\nLa prânz, o scurtă plimbare vă duce la Place Royale. Alegeți un bistro primitor pe străzile adiacente pentru a savura bucătăria locală la adăpost, în timp ce ploaia face fațadele de calcar să strălucească.\n\nDupă-amiaza este dedicată artei la Musée des Beaux-Arts. În galeriile bine încălzite, veți uita rapid de vremea gri de afară. O scurtă vizită la Porte de Mars dezvăluie grandoarea romană chiar și sub nori.\n\nSeara, Place d'Erlon, cu numeroasele sale terase acoperite, este locul ideal pentru un pahar de șampanie. Vă puteți relaxa privind trecătorii prin perdeaua de ploaie, încheind ziua într-o notă elegantă și confortabilă.",
+            "en": "Start your day in the magnificent cathedral, where the sound of rain on the stained glass creates a mystical aura. The adjacent Palais du Tau offers perfect shelter and fascinating royal treasures to explore.\n\nAt noon, a short walk leads to Place Royale. Find a cozy bistro in the surrounding streets to enjoy local cuisine in the dry, while the rain makes the limestone facades glisten beautifully.\n\nThe afternoon belongs to art at the Musée des Beaux-Arts. In the warm galleries, you'll quickly forget the grey weather outside. A quick detour to Porte de Mars shows Roman grandeur even under the clouds.\n\nIn the evening, Place d'Erlon with its many covered terraces and heated areas is the ideal spot for a glass of Champagne. Enjoy the city vibe while staying dry, concluding your rainy day in style."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für eine ausgiebige Innenbesichtigung der Details.",
+                "hu": "Használja ki az esőt a belső részletek alapos felfedezésére.",
+                "ro": "Profitați de ploaie pentru o explorare detaliată a interiorului.",
+                "en": "Use the rain as an excuse for an extensive interior exploration."
+              }
+            },
+            {
+              "name": "Palais du Tau",
+              "tip_5lang": {
+                "de": "Komplett überdacht, ideal um längeren Schauern zu entgehen.",
+                "hu": "Teljesen fedett, ideális a hosszabb záporok elkerülésére.",
+                "ro": "Complet acoperit, ideal pentru a evita aversa prelungită.",
+                "en": "Fully indoor, perfect for escaping longer rain showers."
+              }
+            },
+            {
+              "name": "Place Royale",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten einen trockenen Durchgang zu den Geschäften.",
+                "hu": "Az árkádok száraz átjárást biztosítanak az üzletek felé.",
+                "ro": "Arcadele oferă o trecere uscată către magazinele din jur.",
+                "en": "The arcades provide a dry passage to nearby shops."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine zweistündige Pause im Trockenen.",
+                "hu": "Tökéletes helyszín egy kétórás száraz pihenőhöz.",
+                "ro": "Locul perfect pentru o pauză de două ore la adăpost.",
+                "en": "Perfect venue for a two-hour break in the dry."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Der Bogen bietet kurzzeitig Schutz bei plötzlichen Güssen.",
+                "hu": "A boltív rövid ideig menedéket nyújt a hirtelen záporok elől.",
+                "ro": "Arcul oferă adăpost temporar în caz de aversă bruscă.",
+                "en": "The arch provides brief shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Place d'Erlon",
+              "tip_5lang": {
+                "de": "Viele Cafés haben große Markisen und Schirme gegen Regen.",
+                "hu": "Sok kávézó nagy ponyvával és ernyővel véd az eső ellen.",
+                "ro": "Multe cafenele au copertine mari și umbrele anti-ploaie.",
+                "en": "Many cafes have large awnings and umbrellas against rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfpflaster rutschig sein kann.",
+              "Die Kathedrale und Museen sind die besten Rückzugsorte bei Starkregen.",
+              "Nutzen Sie die Passage Subé für trockene Abkürzungen beim Shoppen.",
+              "Ein Regenschirm ist bei den teils engen Gehwegen praktischer als ein Cape.",
+              "Reservieren Sie für das Mittagessen Plätze im hinteren, trockenen Teil der Bistros."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakő csúszós lehet.",
+              "A katedrális és a múzeumok a legjobb menedékek heves esőben.",
+              "Használja a Passage Subé-t száraz rövidítésnek vásárlás közben.",
+              "Az esernyő praktikusabb a szűk járdákon, mint az esőköpeny.",
+              "Ebédnél foglaljon asztalt a bisztrók belső, szárazabb részén."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate fi alunecos.",
+              "Catedrala și muzeele sunt cele mai bune refugii pe ploaie torențială.",
+              "Folosiți Passage Subé pentru scurtături uscate la cumpărături.",
+              "O umbrelă este mai practică decât o pelerină pe trotuarele înguste.",
+              "Rezervați masa de prânz în partea interioară, uscată a bistrourilor."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can get slippery.",
+              "The cathedral and museums are the best retreats during heavy rain.",
+              "Use Passage Subé for dry shortcuts while shopping.",
+              "An umbrella is more practical than a poncho on narrow sidewalks.",
+              "Book lunch tables in the inner, dry sections of the bistros."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Kathedrale empfängt Sie in der frostigen Morgenluft mit feierlicher Stille. Die warme Beleuchtung im Inneren bildet einen herrlichen Kontrast zur winterlichen Kälte draußen auf dem Vorplatz.\n\nMittags erstrahlt die Place Royale im klaren Winterlicht. Suchen Sie sich einen Platz in einer Brasserie, die traditionelle, herzhafte Gerichte wie Pot-au-feu anbietet, um sich für den Nachmittag aufzuwärmen.\n\nDer Besuch im Museum ist im Winter besonders gemütlich. Wenn die Sonne gegen 17 Uhr untergeht, taucht das Dämmerlicht die römische Porte de Mars in eine fast mystische, bläuliche Atmosphäre.\n\nAbends verwandelt sich die Place d'Erlon in ein Lichtermeer. Genießen Sie die winterliche Stimmung bei einem Glas Champagner in einer beheizten Bar und beobachten Sie das abendliche Treiben der Stadtbewohner.",
+            "hu": "A székesegyház a fagyos reggeli levegőben ünnepi csenddel fogadja. A belső tér meleg világítása pompás kontrasztot alkot a kinti téli hideggel a templom előtti téren.\n\nDélben a Place Royale tiszta téli fényben tündököl. Keressen egy brasserie-t, amely hagyományos, kiadós ételeket kínál, hogy felmelegedjen a délutáni felfedezés előtt.\n\nA múzeumlátogatás télen különösen otthonos program. Amikor a nap 17 óra körül nyugodni kezd, a szürkület szinte misztikus, kékes fénybe vonja a római Porte de Mars ívét.\n\nEste a Place d'Erlon fényárba borul. Élvezze a téli hangulatot egy pohár pezsgővel egy fűtött bárban, és figyelje a város esti lüktetését a melegből.",
+            "ro": "Catedrala vă întâmpină în aerul înghețat al dimineții cu o liniște solemnă. Iluminarea caldă din interior creează un contrast superb cu frigul iernii de afară, din piață.\n\nLa prânz, Place Royale strălucește în lumina clară a iernii. Căutați o braserie care oferă preparate tradiționale consistente pentru a vă încălzi înainte de restul traseului.\n\nVizita la muzeu este deosebit de plăcută iarna. Când soarele apune în jurul orei 17:00, amurgul scaldă Porte de Mars într-o atmosferă mistică, aproape albăstruie.\n\nSeara, Place d'Erlon se transformă într-o mare de lumini. Bucurați-vă de atmosfera de iarnă cu un pahar de șampanie într-un bar încălzit, observând forfota orașului la final de zi.",
+            "en": "The cathedral welcomes you in the frosty morning air with solemn silence. The warm lighting inside creates a magnificent contrast to the winter cold outside on the square.\n\nAt noon, Place Royale shines in the clear winter light. Find a brasserie offering traditional, hearty dishes to warm up for the afternoon exploration ahead.\n\nA museum visit is especially cozy in winter. As the sun sets around 5 PM, the twilight bathes the Roman Porte de Mars in an almost mystical, bluish atmosphere.\n\nIn the evening, Place d'Erlon transforms into a sea of lights. Enjoy the winter ambiance with a glass of Champagne in a heated bar, watching the city's evening pulse."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die großen Hallen können kühl sein.",
+                "hu": "Öltözzön melegen, a hatalmas csarnokok hűvösek lehetnek.",
+                "ro": "Îmbrăcați-vă bine, marile săli pot fi destul de răcoroase.",
+                "en": "Dress warmly; the large halls can be quite chilly."
+              }
+            },
+            {
+              "name": "Palais du Tau",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, ein guter Ort zum Aufwärmen nach dem Frost.",
+                "hu": "Kiválóan fűtött, jó hely a felmelegedésre a fagy után.",
+                "ro": "Bine încălzit, un loc bun pentru încălzire după ger.",
+                "en": "Well-heated, a good spot to warm up after the frost."
+              }
+            },
+            {
+              "name": "Place Royale",
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos der Architektur.",
+                "hu": "Élvezze a tiszta fényeket az építészeti fotókhoz.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii arhitecturale.",
+                "en": "Enjoy the clear light for architectural photography."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter clothing."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Besuch bei Sonnenuntergang (ca. 16:45 Uhr) ist am schönsten.",
+                "hu": "A látogatás naplementekor (kb. 16:45) a legszebb.",
+                "ro": "Vizita la apus (aprox. 16:45) este cea mai spectaculoasă.",
+                "en": "Visiting at sunset (around 4:45 PM) is most beautiful."
+              }
+            },
+            {
+              "name": "Place d'Erlon",
+              "tip_5lang": {
+                "de": "Im Dezember findet hier oft ein kleiner Weihnachtsmarkt statt.",
+                "hu": "Decemberben gyakran tartanak itt kis karácsonyi vásárt.",
+                "ro": "În decembrie, aici are loc adesea un mic târg de Crăciun.",
+                "en": "In December, a small Christmas market often takes place here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlegesohlen für das Stehen auf kaltem Steinboden.",
+              "Beachten Sie, dass Museen oft schon um 17:30 oder 18:00 Uhr schließen.",
+              "Heiße Schokolade ist die perfekte Alternative zum Champagner am Nachmittag.",
+              "Handschuhe sind für Fotos auf den windigen Plätzen unerlässlich.",
+              "Nutzen Sie die Mittagszeit für ausgedehnte, wärmende Mahlzeiten."
+            ],
+            "hu": [
+              "Viseljen termotalpbetétet a hideg kőpadlón való álláshoz.",
+              "Vegye figyelembe, hogy a múzeumok gyakran már 17:30-kor zárnak.",
+              "A forró csokoládé tökéletes alternatíva a pezsgő mellé délután.",
+              "A kesztyű elengedhetetlen a szeles tereken való fotózáshoz.",
+              "Használja ki az ebédidőt hosszabb, melengető étkezésekre."
+            ],
+            "ro": [
+              "Purtați branțuri termice pentru statul pe podele reci de piatră.",
+              "Rețineți că muzeele se închid adesea la 17:30 sau 18:00.",
+              "Ciocolata caldă este alternativa perfectă la șampanie după-amiaza.",
+              "Mănușile sunt esențiale pentru fotografii în piețele vântoase.",
+              "Folosiți timpul prânzului pentru mese lungi și reconfortante."
+            ],
+            "en": [
+              "Wear thermal insoles for standing on cold stone floors.",
+              "Note that museums often close as early as 5:30 or 6:00 PM.",
+              "Hot chocolate is the perfect afternoon alternative to Champagne.",
+              "Gloves are essential for taking photos in the windy squares.",
+              "Use lunchtime for extended, warming meals."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +1090,454 @@
           "Bike locks are essential in the city.",
           "The canal path is particularly flat and relaxing."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Reims auf zwei Rädern! Nach dem Start an der Kathedrale radeln Sie zur ruhigen Basilika Saint-Remi. Der Mittag gehört dem weitläufigen Parc de Champagne und einem Besuch der berühmten Veuve Clicquot Weinkeller. Eine entspannte Fahrt entlang der Coulée Verte am Kanal führt Sie schließlich zurück zur beeindruckenden Porte de Mars. Ein perfekter Mix aus Kultur, Natur und Champagner.",
+            "hu": "Fedezze fel Reims-t két keréken! A katedrálistól indulva tekerjen el a békés Szent Remi-bazilikához. A délutánt töltse a tágas Champagne parkban és látogasson el a híres Veuve Clicquot pincékbe. Egy pihentető biciklizés a csatorna menti Coulée Verte útvonalon visszaviszi az impozáns Mars-kapuhoz. A kultúra, a természet és a pezsgő tökéletes keveréke.",
+            "ro": "Explorați Reims pe două roți! După pornirea de la catedrală, pedalați spre liniștita Bazilică Saint-Remi. Prânzul aparține vastului Parc de Champagne și unei vizite la faimoasele crame Veuve Clicquot. O plimbare relaxantă de-a lungul Coulée Verte pe malul canalului vă duce înapoi la impresionanta Poartă a lui Marte. Un amestec perfect de cultură, natură și șampanie.",
+            "en": "Explore Reims on two wheels! After starting at the cathedral, cycle to the peaceful Saint-Remi Basilica. Spend your midday in the spacious Parc de Champagne and visit the famous Veuve Clicquot cellars. A relaxing ride along the Coulée Verte by the canal leads you back to the impressive Porte de Mars. A perfect mix of culture, nature, and champagne."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Reims",
+                "hu": "Reimsi katedrális",
+                "ro": "Catedrala Reims",
+                "en": "Reims Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer in der Nähe.",
+                "hu": "Biztonságos biciklitárolók a közelben.",
+                "ro": "Rastel de biciclete sigur în apropiere.",
+                "en": "Secure bike racks nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Remi",
+                "hu": "Szent Remi-bazilika",
+                "ro": "Bazilica Saint-Remi",
+                "en": "Basilique Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe, weniger überlaufen.",
+                "hu": "UNESCO világörökség, kevésbé zsúfolt.",
+                "ro": "Patrimoniu UNESCO, mai puțin aglomerat.",
+                "en": "UNESCO site, less crowded than the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Champagne",
+                "hu": "Champagne park",
+                "ro": "Parcul Champagne",
+                "en": "Parc de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause im Grünen.",
+                "hu": "Tökéletes hely egy zöld pihenőre.",
+                "ro": "Loc perfect pentru o pauză în natură.",
+                "en": "Perfect spot for a green break."
+              }
+            },
+            {
+              "name": {
+                "de": "Veuve Clicquot Weinkeller",
+                "hu": "Veuve Clicquot pincék",
+                "ro": "Cramele Veuve Clicquot",
+                "en": "Veuve Clicquot Cellars"
+              },
+              "tip_5lang": {
+                "de": "Führung durch die Kreidekeller (Crayères).",
+                "hu": "Vezetett túra a kréta pincékben.",
+                "ro": "Tur ghidat prin cramele de cretă.",
+                "en": "Guided tour through the chalk cellars."
+              }
+            },
+            {
+              "name": {
+                "de": "Coulée Verte",
+                "hu": "Coulée Verte",
+                "ro": "Coulée Verte",
+                "en": "Coulée Verte"
+              },
+              "tip_5lang": {
+                "de": "Radweg entlang des Kanals.",
+                "hu": "Kerékpárút a csatorna mentén.",
+                "ro": "Pistă de biciclete de-a lungul canalului.",
+                "en": "Bicycle path along the canal."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Mars",
+                "hu": "Mars-kapu",
+                "ro": "Poarta lui Marte",
+                "en": "Porte de Mars"
+              },
+              "tip_5lang": {
+                "de": "Bester Blick bei Sonnenuntergang.",
+                "hu": "Legjobb kilátás naplementekor.",
+                "ro": "Cea mai bună vedere la apus.",
+                "en": "Best view at sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Champagne Pommery",
+                "tip": "Besuchen Sie die kunstvollen Keller."
+              },
+              {
+                "name": "Au Cul de Poule",
+                "tip": "Modernes Restaurant mit lokalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Champagne Pommery",
+                "tip": "Látogasson el a művészi pincékbe."
+              },
+              {
+                "name": "Au Cul de Poule",
+                "tip": "Modern étterem helyi alapanyagokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Champagne Pommery",
+                "tip": "Vizitați cramele pline de artă."
+              },
+              {
+                "name": "Au Cul de Poule",
+                "tip": "Restaurant modern cu produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Champagne Pommery",
+                "tip": "Visit the artistic cellars."
+              },
+              {
+                "name": "Au Cul de Poule",
+                "tip": "Modern restaurant with local products."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Coulée Verte",
+                "tip": "Kilometerlanger grüner Korridor.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Parc de la Butte Saint-Nicaise",
+                "tip": "Ruhiger Blick auf die Weinberge.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coulée Verte",
+                "tip": "Kilométereken átnyúló zöld folyosó.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Parc de la Butte Saint-Nicaise",
+                "tip": "Csendes kilátás a szőlőültetvényekre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coulée Verte",
+                "tip": "Coridor verde de câțiva kilometri.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Parc de la Butte Saint-Nicaise",
+                "tip": "Vedere liniștită spre podgorii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coulée Verte",
+                "tip": "Kilometers-long green corridor.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Parc de la Butte Saint-Nicaise",
+                "tip": "Quiet view of the vineyards.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Velo Reims",
+                "tip": "Fahrradverleih und Zubehör."
+              },
+              {
+                "name": "Terroir des Rois",
+                "tip": "Spezialitäten aus der Champagne."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Velo Reims",
+                "tip": "Kerékpárkölcsönző és kiegészítők."
+              },
+              {
+                "name": "Terroir des Rois",
+                "tip": "Champagne-i különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Velo Reims",
+                "tip": "Închirieri de biciclete și accesorii."
+              },
+              {
+                "name": "Terroir des Rois",
+                "tip": "Specialități din Champagne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Velo Reims",
+                "tip": "Bike rentals and accessories."
+              },
+              {
+                "name": "Terroir des Rois",
+                "tip": "Specialties from the Champagne region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Reims bietet viele gut ausgebaute Radwege.",
+              "Nutzen Sie die App 'Champagne à vélo' für Routen.",
+              "Die Hügel im Süden sind eine kleine Herausforderung.",
+              "Fahrradschlösser sind in der Stadt unerlässlich.",
+              "Der Kanalweg ist besonders flach und entspannt."
+            ],
+            "hu": [
+              "Reims számos jól kiépített kerékpárúttal rendelkezik.",
+              "Használja a 'Champagne à vélo' alkalmazást az útvonalakhoz.",
+              "A déli dombok némi kihívást jelenthetnek.",
+              "A kerékpárzár elengedhetetlen a városban.",
+              "A csatorna menti út különösen sík és pihentető."
+            ],
+            "ro": [
+              "Reims are multe piste de biciclete bine amenajate.",
+              "Utilizați aplicația 'Champagne à vélo' pentru rute.",
+              "Dealurile din sud pot fi o mică provocare.",
+              "Antifurtul pentru bicicletă este esențial în oraș.",
+              "Drumul de-a lungul canalului este plat și relaxant."
+            ],
+            "en": [
+              "Reims has many well-developed bike paths.",
+              "Use the 'Champagne à vélo' app for routes.",
+              "The hills to the south can be a bit of a challenge.",
+              "Bike locks are essential in the city.",
+              "The canal path is particularly flat and relaxing."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour trotz Regen an der Kathedrale. Die kurzen Wege in der Stadt ermöglichen es, schnell zwischen den Sehenswürdigkeiten zu wechseln.\n\nMittags führt die Route zur Basilika Saint-Remi. Die Fahrt durch den Parc de Champagne ist bei Regen besonders erfrischend, da die Natur in sattem Grün leuchtet.\n\nDer Nachmittag ist perfekt für die Veuve Clicquot Keller. Tief unter der Erde ist es trocken und konstant warm, der ideale Rückzugsort vor den Schauern.\n\nAbends radeln Sie entspannt über die Coulée Verte zurück. Das Wasser des Kanals kräuselt sich unter den Tropfen, bevor Sie die Porte de Mars im Abendlicht erreichen.",
+            "hu": "Kezdje a biciklis túrát az eső ellenére a katedrálisnál. A városi rövid távok lehetővé teszik a gyors váltást a látnivalók között.\n\nDélben az út a Saint-Remi bazilikához vezet. A Parc de Champagne-on keresztüli tekerés esőben különösen frissítő, a természet ilyenkor élénkzöldben pompázik.\n\nA délután tökéletes a Veuve Clicquot pincékhez. Mélyen a föld alatt száraz és állandó a hőmérséklet, ideális menedék a záporok elől.\n\nEste tekerjen vissza a Coulée Verte mentén. A csatorna vize fodrozódik az esőcseppektől, mielőtt eléri a Porte de Mars-t az esti fényekben.",
+            "ro": "Începeți turul cu bicicleta de la catedrală, în ciuda ploii. Distanțele scurte din oraș permit deplasarea rapidă între obiective.\n\nLa prânz, traseul duce la Basilica Saint-Remi. Plimbarea prin Parc de Champagne pe ploaie este revigorantă, natura strălucind într-un verde intens.\n\nDupă-amiaza este ideală pentru cramele Veuve Clicquot. Adânc sub pământ este uscat și cald, refugiul perfect în fața averselor.\n\nSeara, pedalați relaxat pe Coulée Verte. Apa canalului încrețită de picături oferă un decor aparte înainte de a ajunge la Porte de Mars în lumina serii.",
+            "en": "Start your bike tour at the cathedral despite the rain. Short city distances allow for quick hops between sights.\n\nAt noon, the route leads to Saint-Remi Basilica. Riding through Parc de Champagne in the rain is refreshing, as nature glows in deep green.\n\nThe afternoon is perfect for Veuve Clicquot cellars. Deep underground, it's dry and constantly warm—the ideal retreat from showers.\n\nIn the evening, cycle back along the Coulée Verte. The canal water ripples under the raindrops before you reach Porte de Mars in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Vorplatz.",
+                "hu": "Használja a közvetlenül a tér mellett található kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete direct din piața din față.",
+                "en": "Use the bike racks located directly on the square."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet Schutz beim Anschließen der Räder.",
+                "hu": "A belső udvar védelmet nyújt a biciklik lezárása közben.",
+                "ro": "Curtea interioară oferă adăpost la legarea bicicletelor.",
+                "en": "The inner courtyard offers shelter while locking the bikes."
+              }
+            },
+            {
+              "name": "Parc de Champagne",
+              "tip_5lang": {
+                "de": "Vorsicht auf den befestigten Wegen, diese können rutschig sein.",
+                "hu": "Vigyázat a burkolt utakon, ezek csúszósak lehetnek.",
+                "ro": "Atenție pe aleile pavate, acestea pot fi alunecoase.",
+                "en": "Be careful on paved paths as they can be slippery."
+              }
+            },
+            {
+              "name": "Veuve Clicquot Cellars",
+              "tip_5lang": {
+                "de": "Sie können Ihre Regenkleidung am Empfang abgeben.",
+                "hu": "Az esőruházatot a recepciónál le lehet adni.",
+                "ro": "Vă puteți lăsa hainele de ploaie la recepție.",
+                "en": "You can leave your rain gear at the reception desk."
+              }
+            },
+            {
+              "name": "Coulée Verte",
+              "tip_5lang": {
+                "de": "Die Bäume bieten teilweisen Schutz vor leichtem Nieselregen.",
+                "hu": "A fák részleges védelmet nyújtanak a könnyű szitáló eső ellen.",
+                "ro": "Copacii oferă protecție parțială împotriva burniței ușoare.",
+                "en": "Trees provide partial shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Bogen bei plötzlichem Regen.",
+                "hu": "Rövid megálló a boltív alatt hirtelen eső esetén.",
+                "ro": "Scurt popas sub arc în caz de ploaie bruscă.",
+                "en": "Brief stop under the arch if sudden rain occurs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierende Schutzbleche an Ihrem Leihrad.",
+              "Vermeiden Sie das Bremsen auf Fahrbahnmarkierungen bei Nässe.",
+              "Champagner-Keller sind die ultimativen Schlechtwetter-Ziele für Radler.",
+              "Wasserfeste Handschuhe halten die Hände beim Lenken warm.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck erhöht die Haftung."
+            ],
+            "hu": [
+              "Ellenőrizze a sárvédők állapotát a bérelt kerékpáron.",
+              "Kerülje a fékezést az útburkolati jeleken nedves időben.",
+              "A pezsgőpincék a legjobb célpontok rossz időben a bringásoknak.",
+              "A vízálló kesztyűk melegen tartják a kezet kormányzás közben.",
+              "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad."
+            ],
+            "ro": [
+              "Verificați dacă aripile bicicletei închiriate sunt funcționale.",
+              "Evitați frânarea pe marcajele rutiere când asfaltul este umed.",
+              "Cramele de șampanie sunt destinațiile ideale pentru bicicliști pe ploaie.",
+              "Mănușile impermeabile mențin mâinile calde pe ghidon.",
+              "Verificați presiunea; o presiune mai mică crește aderența."
+            ],
+            "en": [
+              "Ensure the mudguards on your rental bike are working well.",
+              "Avoid braking on road markings when the surface is wet.",
+              "Champagne cellars are the ultimate bad-weather stops for cyclists.",
+              "Waterproof gloves keep your hands warm while steering.",
+              "Check tire pressure; slightly lower pressure increases grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Start an der Kathedrale weckt die Geister. Die kalte Luft ist klar und die Radwege sind im Winter angenehm leer.\n\nMittags erreichen Sie Saint-Remi. Ein Umweg durch den winterlichen Parc de Champagne zeigt die skulpturale Schönheit der kahlen Bäume vor grauem Himmel.\n\nDer Nachmittag bei Veuve Clicquot ist ein Highlight, da die Kellertemperatur von 10-12 Grad sich im Vergleich zu draußen fast warm anfühlt.\n\nAbends radeln Sie entlang der Coulée Verte, während die Stadtbeleuchtung sich im Wasser spiegelt, und beenden die Tour bei der Porte de Mars, bevor es zu dunkel wird.",
+            "hu": "Egy friss indítás a katedrálisnál felébreszti az érzékeket. A hideg levegő tiszta, a kerékpárutak pedig télen kellemesen üresek.\n\nDélben eléri a Saint-Remi-t. Egy kitérő a téli Parc de Champagne-ban megmutatja a csupasz fák szoborszerű szépségét a szürke égbolt előtt.\n\nA délután a Veuve Clicquot-nál a csúcspont, mivel a pincék 10-12 fokos hőmérséklete kinti hideghez képest szinte melegnek hat.\n\nEste tekerjen a Coulée Verte mentén, miközben a város fényei tükröződnek a vízen, és fejezze be a túrát a Porte de Mars-nál, mielőtt túl sötét lesz.",
+            "ro": "Un început revigorant la catedrală vă va trezi toate simțurile. Aerul rece este curat, iar pistele de biciclete sunt liberă iarna.\n\nLa prânz ajungeți la Saint-Remi. O abatere prin Parc de Champagne iarna dezvăluie frumusețea sculpturală a copacilor golași pe cerul gri.\n\nDupă-amiaza la Veuve Clicquot este punctul culminant, temperatura de 10-12 grade din cramă simțindu-se aproape caldă față de exterior.\n\nSeara, pedalați pe Coulée Verte în timp ce luminile orașului se reflectă în apă și încheiați turul la Porte de Mars înainte de lăsarea întunericului.",
+            "en": "A fresh start at the cathedral wakes up the spirits. The cold air is clear, and the bike paths are pleasantly empty in winter.\n\nAt noon, you reach Saint-Remi. A detour through the wintry Parc de Champagne shows the sculptural beauty of bare trees against the grey sky.\n\nThe afternoon at Veuve Clicquot is a highlight, as the cellar temperature of 10-12°C feels almost warm compared to outside.\n\nIn the evening, cycle along the Coulée Verte as city lights reflect in the water, and finish the tour at Porte de Mars before it gets too dark."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Kaltes Metall: Tragen Sie Handschuhe beim Bedienen des Schlosses.",
+                "hu": "Hideg fém: viseljen kesztyűt a lakat kezelésekor.",
+                "ro": "Metal rece: purtați mănuși când manevrați lacătul.",
+                "en": "Cold metal: wear gloves when handling the bike lock."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren der Basilika einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet a bazilika belsejében.",
+                "ro": "Luați o scurtă pauză de încălzire în interiorul basilicii.",
+                "en": "Take a short warming break inside the basilica."
+              }
+            },
+            {
+              "name": "Parc de Champagne",
+              "tip_5lang": {
+                "de": "Früh schließen die Tore (ca. 17:00 Uhr im Winter).",
+                "hu": "A kapuk korán zárnak (télen kb. 17:00-kor).",
+                "ro": "Porțile se închid devreme (aprox. 17:00 iarna).",
+                "en": "Gates close early (around 5:00 PM in winter)."
+              }
+            },
+            {
+              "name": "Veuve Clicquot Cellars",
+              "tip_5lang": {
+                "de": "Konstante 10°C – idealer Schutz vor Frost.",
+                "hu": "Állandó 10°C – ideális védelem a fagy ellen.",
+                "ro": "Constant 10°C – protecție ideală împotriva gerului.",
+                "en": "Constant 10°C – ideal protection from the frost."
+              }
+            },
+            {
+              "name": "Coulée Verte",
+              "tip_5lang": {
+                "de": "Vorsicht bei Laubresten oder überfrierender Nässe.",
+                "hu": "Vigyázat az avarral vagy a lefagyott nedvességgel.",
+                "ro": "Atenție la resturile de frunze sau umezeala înghețată.",
+                "en": "Watch out for leaf residue or freezing moisture."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Lichter für den Rückweg.",
+                "hu": "Ellenőrizze a lámpákat a visszaúthoz a sötétben.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip: Mehrere dünne Lagen halten beim Radfahren wärmer.",
+              "Ein Thermosbecher mit Tee passt oft in den Flaschenhalter.",
+              "Planen Sie die Tour so, dass Sie vor 17:00 Uhr zurück sind.",
+              "Schützen Sie Ihr Gesicht mit einem Schal vor dem Fahrtwind.",
+              "Die Wege am Kanal sind im Winter oft windiger als in der Stadt."
+            ],
+            "hu": [
+              "Réteges öltözködés: több vékony réteg jobban melegít tekerés közben.",
+              "Egy termosz tea gyakran befér a kulacstartóba.",
+              "Úgy tervezze a túrát, hogy 17:00 előtt visszaérjen.",
+              "Védje arcát sállal a menetszéltől.",
+              "A csatorna menti utak télen gyakran szelesebbek, mint a városiak."
+            ],
+            "ro": [
+              "Principiul straturilor: mai multe straturi subțiri mențin căldura mai bine.",
+              "Un termos cu ceai încape adesea în suportul de bidon.",
+              "Planificați turul astfel încât să vă întoarceți înainte de ora 17:00.",
+              "Protejați-vă fața cu un fular împotriva vântului la deplasare.",
+              "Traseele de pe canal sunt adesea mai vântoase iarna decât orașul."
+            ],
+            "en": [
+              "Layering principle: several thin layers keep you warmer while cycling.",
+              "A thermal mug with tea often fits in the bottle cage.",
+              "Plan the tour to be back before 5:00 PM.",
+              "Protect your face with a scarf from the wind chill.",
+              "Paths along the canal are often windier in winter than in the city."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -937,6 +1833,422 @@
           "A GPS is helpful for the smaller villages.",
           "Many cellar tours require advance booking."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie nicht nur Reims, sondern auch das Herz der Champagne. Nach den historischen Highlights der Stadt wie der Kathedrale und Saint-Remi führt Sie die Route in das charmante Dorf Hautvillers, die Wiege des Champagners. Den krönenden Abschluss bildet der Leuchtturm von Verzenay inmitten der Weinberge, der einen Panoramablick über das gesamte Umland bietet.",
+            "hu": "Autóval nemcsak Reims-t, hanem a Champagne-vidék szívét is felfedezheti. A város történelmi látnivalói, a katedrális és a Szent Remi után az út Hautvillers bájos falujába vezet, amely a pezsgő bölcsője. A napot a Verzenay világítótoronynál zárja a szőlőültetvények közepén, ahonnan panorámás kilátás nyílik az egész környékre.",
+            "ro": "Cu mașina veți descoperi nu doar orașul Reims, ci și inima regiunii Champagne. După atracțiile istorice ale orașului, precum catedrala și Saint-Remi, traseul vă duce în satul fermecător Hautvillers, leagănul șampaniei. Ziua se încheie la farul din Verzenay, în mijlocul podgoriilor, oferind o vedere panoramică asupra întregii regiuni.",
+            "en": "By car, you will discover not only Reims but also the heart of the Champagne region. After the city's historical highlights like the cathedral and Saint-Remi, the route leads you to the charming village of Hautvillers, the cradle of champagne. The crowning finish is the lighthouse of Verzenay amidst the vineyards, offering a panoramic view over the entire countryside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von Reims",
+                "hu": "Reimsi katedrális",
+                "ro": "Catedrala din Reims",
+                "en": "Reims Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Cathedrale' direkt darunter.",
+                "hu": "A 'Cathedrale' parkolóház közvetlenül alatta van.",
+                "ro": "Parcarea 'Cathedrale' este chiar sub ea.",
+                "en": "Parking garage 'Cathedrale' right underneath."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Remi",
+                "hu": "Szent Remi-bazilika",
+                "ro": "Bazilica Saint-Remi",
+                "en": "Basilique Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze oft in der Nähe zu finden.",
+                "hu": "Gyakran találni ingyenes parkolót a közelben.",
+                "ro": "Se găsesc adesea locuri de parcare gratuite în apropiere.",
+                "en": "Free parking can often be found nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Champagnerhäuser (Taittinger)",
+                "hu": "Taittinger pezsgőház",
+                "ro": "Casa de șampanie Taittinger",
+                "en": "Champagne Houses (Taittinger)"
+              },
+              "tip_5lang": {
+                "de": "Besichtigung der antiken römischen Steinbrüche.",
+                "hu": "Látogasson el az ókori római kőfejtőkbe.",
+                "ro": "Vizitați fostele cariere romane de piatră.",
+                "en": "Tour the ancient Roman stone quarries."
+              }
+            },
+            {
+              "name": {
+                "de": "Hautvillers (Weinberge)",
+                "hu": "Hautvillers (szőlőskertek)",
+                "ro": "Hautvillers (podgorii)",
+                "en": "Hautvillers (Vineyards)"
+              },
+              "tip_5lang": {
+                "de": "Heimat von Dom Pérignon.",
+                "hu": "Dom Pérignon otthona.",
+                "ro": "Casa lui Dom Pérignon.",
+                "en": "The home of Dom Pérignon."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Verzenay",
+                "hu": "Verzenay világítótorony",
+                "ro": "Farul din Verzenay",
+                "en": "Phare de Verzenay"
+              },
+              "tip_5lang": {
+                "de": "Weinmuseum in einem Leuchtturm.",
+                "hu": "Bormúzeum egy világítótoronyban.",
+                "ro": "Muzeul vinului într-un far.",
+                "en": "Wine museum inside a lighthouse."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Auberge de l'Abbaye",
+                "tip": "Traditionelle Küche in Hautvillers."
+              },
+              {
+                "name": "Distillerie Guillon",
+                "tip": "Französischer Whisky aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Auberge de l'Abbaye",
+                "tip": "Hagyományos konyha Hautvillers-ben."
+              },
+              {
+                "name": "Distillerie Guillon",
+                "tip": "Francia whisky a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Auberge de l'Abbaye",
+                "tip": "Bucătărie tradițională în Hautvillers."
+              },
+              {
+                "name": "Distillerie Guillon",
+                "tip": "Whisky francez produs în regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Auberge de l'Abbaye",
+                "tip": "Traditional cuisine in Hautvillers."
+              },
+              {
+                "name": "Distillerie Guillon",
+                "tip": "French whisky from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Point de vue de Mutigny",
+                "tip": "Panoramablick über das Tal.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Forêt de Verzy",
+                "tip": "Magischer Wald mit bizarren Buchen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Point de vue de Mutigny",
+                "tip": "Panorámás kilátás a völgyre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Forêt de Verzy",
+                "tip": "Varázslatos erdő bizarr bükkfákkal.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Point de vue de Mutigny",
+                "tip": "Vedere panoramică asupra văii.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Forêt de Verzy",
+                "tip": "Pădure magică cu fagi bizar.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Point de vue de Mutigny",
+                "tip": "Panoramic view over the valley.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Forêt de Verzy",
+                "tip": "Magical forest with bizarre beeches.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Village de marques",
+                "tip": "Outlet-Shopping bei Reims."
+              },
+              {
+                "name": "Hautvillers Souvenirs",
+                "tip": "Handwerk aus dem Winzerdorf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Village de marques",
+                "tip": "Outlet vásárlás Reims mellett."
+              },
+              {
+                "name": "Hautvillers Souvenirs",
+                "tip": "Kézműves termékek a borászfaluból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Village de marques",
+                "tip": "Shopping outlet lângă Reims."
+              },
+              {
+                "name": "Hautvillers Souvenirs",
+                "tip": "Artizanat din satul viticol."
+              }
+            ],
+            "en": [
+              {
+                "name": "Village de marques",
+                "tip": "Outlet shopping near Reims."
+              },
+              {
+                "name": "Hautvillers Souvenirs",
+                "tip": "Crafts from the wine village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Don't drink and drive - achten Sie auf Weinproben.",
+              "Parken im Zentrum ist kostenpflichtig.",
+              "Die Straßen durch die Weinberge sind sehr schmal.",
+              "Ein Navigationssystem ist für die Dörfer hilfreich.",
+              "Viele Kellerbesuche erfordern Voranmeldung."
+            ],
+            "hu": [
+              "Vezetés közben ne fogyasszon alkoholt.",
+              "A parkolás a központban fizetős.",
+              "A szőlőültetvényeken átvezető utak nagyon szűkek.",
+              "A navigációs rendszer hasznos a falvakban.",
+              "Sok pincelátogatáshoz előzetes bejelentkezés kell."
+            ],
+            "ro": [
+              "Nu consumați alcool dacă conduceți.",
+              "Parcarea în centru este cu plată.",
+              "Drumurile prin podgorii sunt foarte înguste.",
+              "Sistemul de navigație este util pentru sate.",
+              "Multe vizite la crame necesită programare."
+            ],
+            "en": [
+              "Don't drink and drive - be careful with tastings.",
+              "Parking in the city center is not free.",
+              "The roads through the vineyards are very narrow.",
+              "A GPS is helpful for the smaller villages.",
+              "Many cellar tours require advance booking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem im Auto an der Kathedrale. Der Regen macht die Anfahrt zum Saint-Remi Viertel stressfrei und trocken.\n\nMittags verlassen Sie die Stadt Richtung Champagner-Häuser wie Taittinger. In den tiefen Kreidekellern spielt das Wetter keine Rolle.\n\nDer Nachmittag führt nach Hautvillers. Die Weinberge im Nebel und Regen haben eine ganz eigene, romantische Ausstrahlung. Ein Stopp in einem lokalen Winzerkeller ist jetzt besonders gemütlich.\n\nZum Abschluss besuchen Sie den Phare de Verzenay. Das dortige Weinmuseum bietet einen fantastischen, trockenen Rundumblick über die regnerische Champagne.",
+            "hu": "Kezdje kényelmesen az autóban a katedrálisnál. Az esőben az út a Saint-Remi negyedbe így stresszmentes és száraz marad.\n\nDélben hagyja el a várost a Taittinger-hez hasonló pezsgőházak felé. A mély kréta-pincékben az időjárás nem számít.\n\nA délután Hautvillers-be vezet. A ködös és esős szőlőültetvényeknek sajátos, romantikus kisugárzása van. Egy megálló egy helyi borásznál most különösen hangulatos.\n\nZárásként látogasson el a Phare de Verzenay-hoz. Az ottani bormúzeum fantasztikus, száraz körpanorámát nyújt az esős Champagne vidékére.",
+            "ro": "Începeți confortabil cu mașina de la catedrală. Ploaia face drumul către cartierul Saint-Remi lipsit de stres și uscat.\n\nLa prânz, părăsiți orașul spre casele de șampanie precum Taittinger. În pivnițele adânci de cretă, vremea nu contează.\n\nDupă-amiaza duce la Hautvillers. Podgoriile în ceață și ploaie au o aură romantică aparte. O oprire la un vinificator local este acum extrem de primitoare.\n\nLa final, vizitați Phare de Verzenay. Muzeul vinului de acolo oferă o panoramă superbă și uscată peste regiunea Champagne sub ploaie.",
+            "en": "Start comfortably in your car at the cathedral. The rain makes the drive to the Saint-Remi district stress-free and dry.\n\nAt noon, leave the city for Champagne houses like Taittinger. In the deep chalk cellars, the weather doesn't matter.\n\nThe afternoon leads to Hautvillers. The vineyards in mist and rain have a very unique, romantic aura. A stop at a local winemaker's cellar is especially cozy now.\n\nTo finish, visit Phare de Verzenay. The wine museum there offers a fantastic, dry panoramic view over the rainy Champagne region."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Parkhaus 'Cathédrale' nutzen, um direkt trocken anzukommen.",
+                "hu": "Használja a 'Cathédrale' parkolóházat a közvetlen, száraz érkezéshez.",
+                "ro": "Folosiți parcarea 'Cathédrale' pentru a ajunge direct la adăpost.",
+                "en": "Use the 'Cathédrale' parking garage for direct dry access."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich meist nah am Eingang.",
+                "hu": "A parkolóhelyek többnyire a bejárat közelében vannak.",
+                "ro": "Locurile de parcare sunt de obicei aproape de intrare.",
+                "en": "Parking spots are usually located close to the entrance."
+              }
+            },
+            {
+              "name": "Champagne Houses (Taittinger)",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da das gesamte Erlebnis unterirdisch ist.",
+                "hu": "Ideális esőben, mivel az egész élmény a föld alatt zajlik.",
+                "ro": "Ideal pe ploaie, deoarece întreaga experiență este subterană.",
+                "en": "Ideal in the rain as the entire experience is underground."
+              }
+            },
+            {
+              "name": "Hautvillers (Vineyards)",
+              "tip_5lang": {
+                "de": "Viele Winzer haben überdachte Parkmöglichkeiten im Hof.",
+                "hu": "Sok borásznak van fedett parkolója az udvarban.",
+                "ro": "Mulți vinificatori au locuri de parcare acoperite în curte.",
+                "en": "Many winemakers have covered parking in their courtyards."
+              }
+            },
+            {
+              "name": "Phare de Verzenay",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und trocken.",
+                "hu": "A múzeum teljesen fedett és száraz.",
+                "ro": "Muzeul este complet acoperit și uscat.",
+                "en": "The museum is completely covered and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen in der Champagne können bei Regen rutschig sein.",
+              "Nutzen Sie Parkhäuser in Reims, um weite Wege im Regen zu vermeiden.",
+              "Achten Sie auf Traktoren in den Weinbergen, die Matsch auf die Straße bringen.",
+              "Legen Sie einen Regenschirm griffbereit auf den Rücksitz.",
+              "Champagner-Proben: Der Fahrer sollte nur riechen oder Spucknäpfe nutzen."
+            ],
+            "hu": [
+              "A Champagne vidéki országutak esőben csúszósak lehetnek.",
+              "Használjon parkolóházakat Reims-ben, hogy elkerülje a gyaloglást az esőben.",
+              "Ügyeljen a traktorokra a szőlőben, amelyek sarat hordhatnak az útra.",
+              "Legyen az esernyő karnyújtásnyira a hátsó ülésen.",
+              "Pezsgőkóstolás: a sofőr csak szagoljon vagy használja a köpőedényt."
+            ],
+            "ro": [
+              "Drumurile secundare din Champagne pot fi alunecoase pe ploaie.",
+              "Folosiți parcările etajate în Reims pentru a evita mersul prin ploaie.",
+              "Atenție la tractoarele din podgorii care pot aduce noroi pe carosabil.",
+              "Țineți o umbrelă la îndemână pe bancheta din spate.",
+              "Degustare: șoferul ar trebui doar să miroasă sau să scuipe vinul."
+            ],
+            "en": [
+              "Country roads in Champagne can be slippery in the rain.",
+              "Use parking garages in Reims to avoid long walks in the rain.",
+              "Watch out for tractors in the vineyards that might bring mud onto the road.",
+              "Keep an umbrella within reach on the back seat.",
+              "Champagne tastings: the driver should only sniff or use spittoons."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im vorgeheizten Auto beginnt der Tag an der prächtigen Kathedrale. Die winterliche Stadt lässt sich so ohne Frieren erkunden.\n\nMittags fahren Sie zu den Champagner-Häusern. Die frostigen Weinberge glitzern in der Ferne, während Sie drinnen die Wärme und den Champagner genießen.\n\nDer Nachmittag in Hautvillers ist im Winter besonders friedlich. Die engen Gassen des Dorfes wirken wie aus einer anderen Zeit, wenn der Frost auf den Dächern liegt.\n\nZum Sonnenuntergang erreichen Sie den Phare de Verzenay. Das goldene Winterlicht über den ruhenden Reben ist ein unvergesslicher Anblick, bevor Sie gemütlich zurückfahren.",
+            "hu": "Az előmelegített autóban kezdődik a nap a pompás katedrálisnál. A téli várost így fázás nélkül fedezheti fel.\n\nDélben hajtson a pezsgőházakhoz. A fagyos szőlőültetvények csillognak a távolban, miközben Ön bent élvezi a meleget és a pezsgőt.\n\nA délután Hautvillers-ben télen különösen békés. A falu szűk utcái mintha egy másik korból származnának, amikor zúzmara fedi a tetőket.\n\nNaplementére érje el a Phare de Verzenay-t. Az aranyló téli fény a pihenő tőkék felett felejthetetlen látvány, mielőtt kényelmesen visszaindulna.",
+            "ro": "Ziua începe la catedrală în mașina preîncălzită. Orașul hivernal poate fi astfel explorat fără a îngheța.\n\nLa prânz conduceți spre casele de șampanie. Podgoriile înghețate sclipesc în depărtare, în timp ce în interior vă bucurați de căldură și șampanie.\n\nDupă-amiaza în Hautvillers este extrem de liniștită iarna. Străzile înguste ale satului par dintr-o altă epocă când chiciura acoperă acoperișurile.\n\nLa apus ajungeți la Phare de Verzenay. Lumina aurie a iernii peste viile aflate în repaus este o priveliște de neuitat înainte de drumul de întoarcere.",
+            "en": "In a preheated car, the day begins at the magnificent cathedral. The winter city can be explored without freezing.\n\nAt noon, drive to the Champagne houses. The frosty vineyards glisten in the distance while you enjoy the warmth and Champagne inside.\n\nThe afternoon in Hautvillers is especially peaceful in winter. The narrow streets of the village seem like they're from another time with frost on the roofs.\n\nBy sunset, reach Phare de Verzenay. The golden winter light over the dormant vines is an unforgettable sight before a cozy drive back."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die Zeit im Freien kurz zu halten.",
+                "hu": "Parkoljon központilag, hogy lerövidítse a szabadban töltött időt.",
+                "ro": "Parcați central pentru a reduce timpul petrecut afară.",
+                "en": "Park centrally to keep outdoor time to a minimum."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Die Heizung in der Basilika ist im Winter oft begrenzt.",
+                "hu": "A bazilikában a fűtés télen gyakran korlátozott.",
+                "ro": "Încălzirea în basilică este adesea limitată iarna.",
+                "en": "Heating in the basilica is often limited in winter."
+              }
+            },
+            {
+              "name": "Champagne Houses (Taittinger)",
+              "tip_5lang": {
+                "de": "Jacke anbehalten, die Keller haben immer ca. 11°C.",
+                "hu": "Tartsa magán a kabátot, a pincékben mindig kb. 11°C van.",
+                "ro": "Păstrați haina pe dvs., pivnițele au mereu cam 11°C.",
+                "en": "Keep your jacket on; the cellars are always around 11°C."
+              }
+            },
+            {
+              "name": "Hautvillers (Vineyards)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den steilen Dorfstraßen.",
+                "hu": "Vigyázat a csúszós utakkal a meredek falusi utcákon.",
+                "ro": "Atenție la polei pe străzile abrupte din sat.",
+                "en": "Watch out for ice on the steep village streets."
+              }
+            },
+            {
+              "name": "Phare de Verzenay",
+              "tip_5lang": {
+                "de": "Warmer Kakao im Museumsshop nach dem Rundgang.",
+                "hu": "Meleg kakaó a múzeumi boltban a körbejárás után.",
+                "ro": "Cacao caldă în magazinul muzeului după vizită.",
+                "en": "Hot cocoa available in the museum shop after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab die Wintertauglichkeit Ihrer Reifen (Winterreifenpflicht).",
+              "Die Landstraßen können in Senken schnell überfrieren.",
+              "Viele kleine Winzer haben im Januar/Februar geänderte Öffnungszeiten.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit zwischen den Stopps.",
+              "Packen Sie Decken ein, falls Sie für Fotos länger draußen bleiben wollen."
+            ],
+            "hu": [
+              "Ellenőrizze a gumik állapotát (téli gumi kötelező lehet).",
+              "Az országutak a mélyebb szakaszokon gyorsan lefagyhatnak.",
+              "Sok kis borásznak módosult a nyitvatartása januárban/februárban.",
+              "Használja az ülésfűtést a maximális kényelemért a megállók között.",
+              "Vigyen takarót, ha a fotózás miatt hosszabb ideig maradna kint."
+            ],
+            "ro": [
+              "Verificați starea anvelopelor (echiparea de iarnă este obligatorie).",
+              "Drumurile județene pot îngheța rapid în zonele joase.",
+              "Mulți mici vinificatori au program modificat în ianuarie/februarie.",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri.",
+              "Luați pături dacă plănuiți să stați mai mult afară pentru poze."
+            ],
+            "en": [
+              "Check your tires for winter suitability (winter tires may be required).",
+              "Country roads can freeze quickly in low-lying areas.",
+              "Many small winemakers have altered hours in January/February.",
+              "Use seat heating for maximum comfort between stops.",
+              "Pack blankets if you plan to stay outside longer for photos."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1232,34 +2544,423 @@
           "The 'Citura' app shows real-time departures.",
           "The tram is accessible and modern."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Straßenbahnnetz von Reims! Starten Sie an der Kathedrale und fahren Sie mit der Tram zur römischen Porte de Mars. Der Mittag führt Sie mit dem Bus zur Basilika und zum Museum Saint-Remi. Den späten Nachmittag verbringen Sie auf der Place d'Erlon, dem Herz des gesellschaftlichen Lebens, bevor Sie bequem mit der Tram zum Bahnhof oder Hotel zurückkehren.",
+            "hu": "Használja Reims hatékony villamoshálózatát! Kezdje a katedrálisnál, majd villamosozzon el a római Mars-kapuhoz. A délután folyamán busszal érheti el a Szent Remi-bazilikát és múzeumot. A késő délutánt töltse a Place d'Erlon téren, a társasági élet központjában, mielőtt kényelmesen visszatérne villamossal a vasútállomáshoz vagy a szállodájához.",
+            "ro": "Utilizați rețeaua eficientă de tramvaie din Reims! Începeți la catedrală și luați tramvaiul spre Poarta romană a lui Marte. După-amiaza vă poartă cu autobuzul la Bazilica și Muzeul Saint-Remi. Petreceți restul zilei în Piața d'Erlon, inima vieții sociale, înainte de a reveni confortabil cu tramvaiul la gară sau la hotel.",
+            "en": "Use the efficient tram network of Reims! Start at the cathedral and take the tram to the Roman Porte de Mars. The afternoon takes you by bus to the Saint-Remi Basilica and Museum. Spend your late afternoon at Place d'Erlon, the heart of social life, before returning comfortably by tram to the station or your hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Reims",
+                "hu": "Reimsi katedrális",
+                "ro": "Catedrala Reims",
+                "en": "Reims Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Opéra-Cathedrale'.",
+                "hu": "'Opéra-Cathedrale' megálló.",
+                "ro": "Stația 'Opéra-Cathedrale'.",
+                "en": "Stop 'Opéra-Cathedrale'."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Mars",
+                "hu": "Mars-kapu",
+                "ro": "Poarta lui Marte",
+                "en": "Porte de Mars"
+              },
+              "tip_5lang": {
+                "de": "Tram A oder B bis 'Boulingrin'.",
+                "hu": "A vagy B villamos a 'Boulingrin' megállóig.",
+                "ro": "Tramvaiul A sau B până la 'Boulingrin'.",
+                "en": "Tram A or B to 'Boulingrin'."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Remi",
+                "hu": "Szent Remi Múzeum",
+                "ro": "Muzeul Saint-Remi",
+                "en": "Musée Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Bus Linie 4 bis 'Saint-Remi'.",
+                "hu": "4-es busz a 'Saint-Remi' megállóig.",
+                "ro": "Autobuzul linia 4 până la 'Saint-Remi'.",
+                "en": "Bus line 4 to 'Saint-Remi'."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Remi",
+                "hu": "Szent Remi-bazilika",
+                "ro": "Bazilica Saint-Remi",
+                "en": "Basilique Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben dem Museum.",
+                "hu": "Közvetlenül a múzeum mellett.",
+                "ro": "Chiar lângă muzeu.",
+                "en": "Right next to the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Place d'Erlon",
+                "hu": "Place d'Erlon",
+                "ro": "Piața d'Erlon",
+                "en": "Place d'Erlon"
+              },
+              "tip_5lang": {
+                "de": "Tram bis 'Langlet' oder 'Gare Centre'.",
+                "hu": "Villamos 'Langlet' vagy 'Gare Centre' felé.",
+                "ro": "Tramvaiul spre 'Langlet' sau 'Gare Centre'.",
+                "en": "Tram to 'Langlet' or 'Gare Centre'."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Brasserie du Boulingrin",
+                "tip": "Traditionelle Brasserie nahe der Tram."
+              },
+              {
+                "name": "L'Epicerie au Bon Manger",
+                "tip": "Delikatessen und kleine Gerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brasserie du Boulingrin",
+                "tip": "Hagyományos söröző a villamos közelében."
+              },
+              {
+                "name": "L'Epicerie au Bon Manger",
+                "tip": "Csemegeüzlet és könnyű ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brasserie du Boulingrin",
+                "tip": "Berărie tradițională lângă tramvai."
+              },
+              {
+                "name": "L'Epicerie au Bon Manger",
+                "tip": "Delicatese și preparate ușoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Brasserie du Boulingrin",
+                "tip": "Traditional brasserie near the tram."
+              },
+              {
+                "name": "L'Epicerie au Bon Manger",
+                "tip": "Delicatessen and light bites."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de la Patte d'Oie",
+                "tip": "Grüne Oase nahe dem Bahnhof.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Kapelle Foujita",
+                "tip": "Einzigartige japanische Kunst.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de la Patte d'Oie",
+                "tip": "Zöld oázis a vasútállomás közelében.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Kapelle Foujita",
+                "tip": "Egyedülálló japán művészet.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de la Patte d'Oie",
+                "tip": "Oază verde lângă gară.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Kapelle Foujita",
+                "tip": "Artă japoneză unică.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de la Patte d'Oie",
+                "tip": "Green oasis near the station.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Kapelle Foujita",
+                "tip": "Unique Japanese art.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue de Vesle",
+                "tip": "Die Haupteinkaufsstraße an der Tramlinie."
+              },
+              {
+                "name": "Maison Fossier",
+                "tip": "Rosa Kekse direkt am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue de Vesle",
+                "tip": "A fő bevásárlóutca a villamosvonal mentén."
+              },
+              {
+                "name": "Maison Fossier",
+                "tip": "Rózsaszín kekszek a vasútállomásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue de Vesle",
+                "tip": "Principala stradă comercială de pe linia de tramvai."
+              },
+              {
+                "name": "Maison Fossier",
+                "tip": "Biscuiți roz chiar la gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue de Vesle",
+                "tip": "Main shopping street along the tram line."
+              },
+              {
+                "name": "Maison Fossier",
+                "tip": "Pink biscuits right at the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket (Ticket Journée).",
+              "Die Tramlinien A und B decken das Zentrum perfekt ab.",
+              "Validieren Sie Ihr Ticket bei jedem Einstieg.",
+              "Die App 'Citura' zeigt Echtzeit-Abfahrten.",
+              "Die Straßenbahn ist barrierefrei und modern."
+            ],
+            "hu": [
+              "Vásároljon napijegyet (Ticket Journée).",
+              "Az A és B villamosvonalak tökéletesen lefedik a központot.",
+              "Minden felszálláskor érvényesítse a jegyét.",
+              "A 'Citura' alkalmazás mutatja a valós idejű indulásokat.",
+              "A villamos akadálymentesített és modern."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi (Ticket Journée).",
+              "Liniile de tramvai A și B acoperă perfect centrul.",
+              "Validați biletul la fiecare urcare.",
+              "Aplicația 'Citura' arată plecările în timp real.",
+              "Tramvaiul este accesibil și modern."
+            ],
+            "en": [
+              "Buy a day pass (Ticket Journée).",
+              "Tram lines A and B cover the center perfectly.",
+              "Validate your ticket every time you board.",
+              "The 'Citura' app shows real-time departures.",
+              "The tram is accessible and modern."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die moderne Straßenbahn, um trocken zur Kathedrale zu gelangen. Der kurze Fußweg von der Haltestelle 'Opéra' ist gut zu bewältigen.\n\nMittags bringt Sie der Bus direkt zur Porte de Mars und weiter zum Musée Saint-Remi. Die Fahrt bietet einen geschützten Blick auf das regnerische Stadtbild.\n\nDer Nachmittag in der Basilika und im Museum Saint-Remi ist ideal, um dem Wetter zu entfliehen. Die weitläufigen Ausstellungsräume sind komplett überdacht.\n\nAbends fahren Sie zurück zur Place d'Erlon. Die beleuchteten Trams, die durch den Regen gleiten, verleihen der Stadt eine moderne, urbane Romantik.",
+            "hu": "Használja a modern villamost, hogy szárazon jusson a katedrálishoz. Az 'Opéra' megállótól csak rövid sétát kell tennie.\n\nDélben a busz közvetlenül a Porte de Mars-hoz, majd a Saint-Remi múzeumhoz viszi. Az utazás védett kilátást nyújt az esős városképre.\n\nA délután a bazilikában és a Saint-Remi múzeumban ideális az időjárás elöli menekülésre. A tágas kiállítóterek teljesen fedettek.\n\nEste utazzon vissza a Place d'Erlon-hoz. Az esőben sikló kivilágított villamosok modern, városi romantikát kölcsönöznek a városnak.",
+            "ro": "Folosiți tramvaiul modern pentru a ajunge uscat la catedrală. Scurta plimbare de la stația 'Opéra' este ușor de parcurs.\n\nLa prânz, autobuzul vă duce direct la Porte de Mars și apoi la Muzeul Saint-Remi. Călătoria oferă o vedere protejată asupra orașului ploios.\n\nDupă-amiaza la basilică și la Muzeul Saint-Remi este ideală pentru a scăpa de vremea rea. Sălile vaste de expoziție sunt complet acoperite.\n\nSeara, întoarceți-vă la Place d'Erlon. Tramvaiele iluminate care alunecă prin ploaie dau orașului o notă de romantism urban modern.",
+            "en": "Use the modern tram to reach the cathedral while staying dry. The short walk from the 'Opéra' stop is easy to manage.\n\nAt noon, the bus takes you directly to Porte de Mars and then to the Saint-Remi Museum. The ride offers a sheltered view of the rainy cityscape.\n\nThe afternoon at the Basilica and Saint-Remi Museum is ideal for escaping the weather. The extensive exhibition spaces are fully covered.\n\nIn the evening, head back to Place d'Erlon. The illuminated trams gliding through the rain give the city a modern, urban romantic feel."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle 'Opéra' ist nur 3 Gehminuten entfernt.",
+                "hu": "Az 'Opéra' megálló mindössze 3 perc sétára van.",
+                "ro": "Stația 'Opéra' este la doar 3 minute de mers pe jos.",
+                "en": "The 'Opéra' stop is just a 3-minute walk away."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle 'Boulingrin' liegt direkt daneben.",
+                "hu": "A 'Boulingrin' villamosmegálló közvetlenül mellette van.",
+                "ro": "Stația de tramvai 'Boulingrin' este chiar lângă.",
+                "en": "The 'Boulingrin' tram stop is located right next to it."
+              }
+            },
+            {
+              "name": "Musée Saint-Remi",
+              "tip_5lang": {
+                "de": "Buslinie 4 oder 6 hält fast vor der Tür.",
+                "hu": "A 4-es vagy 6-os busz szinte az ajtó előtt áll meg.",
+                "ro": "Linia de autobuz 4 sau 6 oprește aproape în față.",
+                "en": "Bus line 4 or 6 stops almost right at the entrance."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Kurzer, trockener Übergang vom Museum möglich.",
+                "hu": "Rövid, száraz átjárás lehetséges a múzeumból.",
+                "ro": "Trecere scurtă și uscată posibilă de la muzeu.",
+                "en": "A short, dry transition from the museum is possible."
+              }
+            },
+            {
+              "name": "Place d'Erlon",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für fast alle Linien zurück.",
+                "hu": "Központi csomópont szinte minden visszamenő járatnak.",
+                "ro": "Nod central pentru aproape toate liniile de retur.",
+                "en": "Central hub for almost all return transit lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket (Ticket 24h) bequem per App.",
+              "Die Tramhaltestellen sind meist gut überdacht.",
+              "Nutzen Sie die App 'CITURA' für Echtzeit-Infos bei Verspätungen.",
+              "In den Bussen ist es warm und trocken, ideal zum Aufwärmen.",
+              "Halten Sie Ihr Ticket griffbereit, um im Regen nicht suchen zu müssen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet (Ticket 24h) kényelmesen az applikációban.",
+              "A villamosmegállók többnyire jól fedettek.",
+              "Használja a 'CITURA' appot a valós idejű információkért.",
+              "A buszokon meleg és száraz az idő, ideális felmelegedni.",
+              "Tartsa a jegyét kéznél, hogy ne kelljen az esőben keresgélnie."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi (Ticket 24h) direct din aplicație.",
+              "Stațiile de tramvai sunt de obicei bine acoperite.",
+              "Folosiți aplicația 'CITURA' pentru informații în timp real.",
+              "În autobuze este cald și uscat, ideal pentru a vă încălzi.",
+              "Țineți biletul la îndemână pentru a nu-l căuta prin ploaie."
+            ],
+            "en": [
+              "Buy a day pass (Ticket 24h) easily via the app.",
+              "Tram stops are mostly well-covered.",
+              "Use the 'CITURA' app for real-time info during delays.",
+              "Buses are warm and dry, ideal for warming up.",
+              "Keep your ticket handy to avoid searching for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag mit der Tram zur Kathedrale. Die beheizten Wagen machen die Anreise am frühen Morgen sehr angenehm.\n\nMittags bringt Sie der Nahverkehr schnell zur Porte de Mars. Ein kurzer Spaziergang durch die kühle Winterluft führt Sie zu den nächsten warmen Innenräumen.\n\nDer Nachmittag im Museum Saint-Remi ist perfekt, um die Kälte draußen zu lassen. Genießen Sie die Geschichte der Champagne in wohliger Wärme.\n\nAbends erreichen Sie die Place d'Erlon, wenn die Weihnachtsbeleuchtung (im Dezember) die Stadt erstrahlt. Die Trams verkehren bis spät, sodass Sie die winterliche Stimmung voll auskosten können.",
+            "hu": "Kezdje a téli napot villamossal a katedrálishoz. A fűtött kocsik nagyon kellemessé teszik a kora reggeli utazást.\n\nDélben a tömegközlekedés gyorsan a Porte de Mars-hoz viszi. Egy rövid séta a hűvös téli levegőn elvezeti a következő meleg belső térhez.\n\nA délután a Saint-Remi múzeumban tökéletes arra, hogy kint hagyja a hideget. Élvezze Champagne történelmét kellemes melegben.\n\nEste érje el a Place d'Erlon-t, amikor a karácsonyi fények (decemberben) ragyogják be a várost. A villamosok későig járnak, így teljesen kiélvezheti a téli hangulatot.",
+            "ro": "Începeți ziua de iarnă cu tramvaiul către catedrală. Vagoanele încălzite fac deplasarea de dimineață foarte plăcută.\n\nLa prânz, transportul în comun vă duce rapid la Porte de Mars. O scurtă plimbare prin aerul rece vă va conduce către următoarele spații calde.\n\nDupă-amiaza la Muzeul Saint-Remi este perfectă pentru a lăsa frigul afară. Bucurați-vă de istoria regiunii Champagne la căldură.\n\nSeara ajungeți la Place d'Erlon, când luminile de Crăciun (în decembrie) fac orașul să strălucească. Tramvaiele circulă până târziu, deci puteți profita din plin de atmosfera de iarnă.",
+            "en": "Start your winter day with the tram to the cathedral. The heated cars make the early morning journey very pleasant.\n\nAt noon, public transit takes you quickly to Porte de Mars. A short walk through the cool winter air leads you to the next warm indoor space.\n\nThe afternoon at the Saint-Remi Museum is perfect for leaving the cold outside. Enjoy the history of Champagne in cozy warmth.\n\nIn the evening, reach Place d'Erlon when the Christmas lights (in December) make the city shine. Trams run late, so you can fully enjoy the winter ambiance."
+          },
+          "stops": [
+            {
+              "name": "Reims Cathedral",
+              "tip_5lang": {
+                "de": "Die Tram A/B fährt alle paar Minuten Richtung Zentrum.",
+                "hu": "Az A/B villamos pár percenként jár a központ felé.",
+                "ro": "Tramvaiul A/B circulă la fiecare câteva minute spre centru.",
+                "en": "Tram A/B runs every few minutes towards the center."
+              }
+            },
+            {
+              "name": "Porte de Mars",
+              "tip_5lang": {
+                "de": "Vom Bahnhof (Gare Centre) nur eine Haltestelle entfernt.",
+                "hu": "A vasútállomástól (Gare Centre) mindössze egy megálló.",
+                "ro": "La doar o stație distanță de gară (Gare Centre).",
+                "en": "Just one stop away from the main station (Gare Centre)."
+              }
+            },
+            {
+              "name": "Musée Saint-Remi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Gehzeit in der Kälte zu minimieren.",
+                "hu": "Használja a buszt, hogy minimalizálja a hidegben való gyaloglást.",
+                "ro": "Folosiți autobuzul pentru a minimiza timpul de mers prin frig.",
+                "en": "Use the bus to minimize walking time in the cold."
+              }
+            },
+            {
+              "name": "Basilique Saint-Remi",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Weg zum nächsten Ziel auf.",
+                "hu": "Melegedjen fel a buszon a következő úticél felé.",
+                "ro": "Încălziți-vă în autobuz în drum spre următoarea destinație.",
+                "en": "Warm up on the bus while heading to your next stop."
+              }
+            },
+            {
+              "name": "Place d'Erlon",
+              "tip_5lang": {
+                "de": "Hauptknotenpunkt für den späten Rückweg zum Hotel.",
+                "hu": "Fő csomópont a késői visszatéréshez a szállodába.",
+                "ro": "Nod principal pentru întoarcerea târzie la hotel.",
+                "en": "Main hub for the late return trip to your hotel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrpläne können an Feiertagen im Winter abweichen.",
+              "Tram-Haltestellen haben oft digitale Anzeigen für Wartezeiten.",
+              "Vermeiden Sie das Warten im Freien durch Nutzung der Echtzeit-App.",
+              "Tragen Sie Mütze und Schal für die kurzen Wege zwischen Haltestellen.",
+              "Abends sind die Bahnen oft voller, wenn die Leute zum Weihnachtsmarkt fahren."
+            ],
+            "hu": [
+              "A menetrendek téli ünnepnapokon eltérhetnek.",
+              "A villamosmegállókban gyakran van digitális kijelző.",
+              "Kerülje a kinti várakozást a valós idejű app használatával.",
+              "Viseljen sapkát és sálat a megállók közötti rövid utakra.",
+              "Este a járatok telítettebbek lehetnek a karácsonyi vásár miatt."
+            ],
+            "ro": [
+              "Orarele pot varia în zilele de sărbătoare din timpul iernii.",
+              "Stațiile de tramvai au adesea afișaje digitale pentru timpii de așteptare.",
+              "Evitați așteptarea afară folosind aplicația cu date în timp real.",
+              "Purtați căciulă și fular pentru segmentele scurte dintre stații.",
+              "Seara, vehiculele sunt mai aglomerate din cauza târgului de Crăciun."
+            ],
+            "en": [
+              "Schedules may vary during winter public holidays.",
+              "Tram stops often have digital displays for waiting times.",
+              "Avoid waiting outside by using the real-time app.",
+              "Wear a hat and scarf for the short segments between stops.",
+              "Buses and trams are often crowded in the evenings during market season."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.reims-tourisme.com/",
-    "events": "https://www.reims-tourisme.com/agenda/",
-    "city_card": "https://www.reims-tourisme.com/le-reims-city-pass/",
-    "museum_tickets": "",
-    "transit_official": "https://citura.fr/",
-    "language_tips": {
-      "de": "In Reims wird klares, neutrales Franzoesisch gesprochen, leichter zu verstehen als der Pariser Slang. In Champagne-Haeusern und groesseren Restaurants ist Englisch Standard, in Boulangerien und Bistros hilft 'bonjour madame/monsieur' enorm. Champagner heisst hier nie 'sekt', das wird unfreundlich aufgenommen.",
-      "hu": "Reims-ben tiszta, semleges franciat hallasz, konnyebb mint a parizsi szleng. A pezsgohazakban es nagy ettermekben az angol alap, a pekseg-kicsi bisztrok eseteben a 'bonjour madame/monsieur' csodakra kepes. A pezsgot itt sose hivd 'sekt'-nek, az nem jol esik.",
-      "ro": "La Reims se vorbeste o franceza clara si neutra, mai usor de inteles decat slangul parizian. In casele de sampanie si in restaurantele mari engleza e standard, dar in boulangerii si bistro-uri un 'bonjour madame/monsieur' face minuni. Sampania nu se cheama niciodata 'sekt', e o ofensa.",
-      "en": "Reims speaks clear, neutral French — easier than Parisian slang. English is standard in Champagne houses and bigger restaurants, but in boulangeries and bistros a polite 'bonjour madame/monsieur' goes far. Never call the local fizz 'sparkling wine' here, it's Champagne and only Champagne."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September sind ideal: 18-26 Grad, Champagner-Lese im September und Oktober mit gefuehrten Touren. Juli-August warm, aber viele Haeuser bleiben geoeffnet. Winter ist nass und grau (3-8 Grad), dafuer leere Kathedrale und Weihnachtsmarkt rund um Notre-Dame.",
-      "hu": "Majustol szeptemberig a legjobb: 18-26 fok, pezsgoszuret szeptember-oktoberben vezetett turakkal. Julius-augusztus meleg, de a hazak nyitva tartanak. Tel nyirkos es szurke (3-8 fok), cserebe ures katedralis es karacsonyi vasar a Notre-Dame korul.",
-      "ro": "Mai pana in septembrie sunt ideale: 18-26 grade, recolta de sampanie in septembrie-octombrie cu tururi ghidate. Iulie-august sunt calde, dar casele raman deschise. Iarna e umeda si gri (3-8 grade), dar catedrala e goala si exista targul de Craciun langa Notre-Dame.",
-      "en": "May to September are ideal: 18-26°C, with Champagne harvest tours in September-October. July-August are warm but houses stay open. Winter is wet and grey (3-8°C), but you get an empty cathedral and a charming Christmas market around Notre-Dame."
-    },
-    "neighborhood_warnings": {
-      "de": "Bahnhof Reims-Centre und Place d'Erlon abends moderate Vorsicht bei Taschendieben. Croix-Rouge und Orgeval im Sueden touristisch uninteressant und nicht empfohlen. Kathedrale und Place Royale auch nachts ruhig und gut beleuchtet.",
-      "hu": "A Reims-Centre allomas es a Place d'Erlon este merskelt zsebtolvaj-veszely. Croix-Rouge es Orgeval delen turistanak ertelmetlen, nem ajanlott. A katedralis es a Place Royale ejjel is csendes es jol vilagitott.",
-      "ro": "Gara Reims-Centre si Place d'Erlon necesita atentie moderata seara la hoti de buzunare. Croix-Rouge si Orgeval, in sud, nu prezinta interes turistic si nu sunt recomandate. Catedrala si Place Royale sunt linistite si bine iluminate si noaptea.",
-      "en": "Reims-Centre station and Place d'Erlon need moderate pickpocket awareness in the evening. Croix-Rouge and Orgeval in the south hold no tourist interest. The cathedral and Place Royale stay calm and well-lit even at night."
-    },
-    "parking_real_time": ""
   }
 }

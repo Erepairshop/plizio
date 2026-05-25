@@ -1055,32 +1055,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tourismeconcarneau.fr/",
-    "events": "https://www.tourismeconcarneau.fr/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "Concarneau ist Fischerei- und Marinestadt mit Ville Close (befestigte Insel). Französisch dominiert, Englisch in Touristenrestaurants. 'Pêcheur' bedeutet Fischer, das Hauptidentitätswort. Beim Markt fragen Sie nach frischem Thunfisch und 'craquelins'.",
-      "hu": "Concarneau halász- és tengerészváros, a Ville Close (erődített sziget) a fő látnivaló. Francia dominál, angol a turistaéttermekben. A 'Pêcheur' halász, fő identitásszó. Piacon kérdezz friss tonhalra és 'craquelins'-re.",
-      "ro": "Concarneau este oraș de pescari și navigatori, cu Ville Close (insulă fortificată). Franceza domină, engleza la restaurante turistice. 'Pêcheur' înseamnă pescar, cuvântul-cheie al identității. La piață, întrebați despre ton proaspăt și 'craquelins'.",
-      "en": "Concarneau is a fishing and naval town with the Ville Close (walled island). French dominates, English at tourist restaurants. 'Pêcheur' (fisherman) is the local identity word. At the market, ask for fresh tuna and 'craquelins'."
-    },
-    "best_time_to_visit": {
-      "de": "Juli-August für 'Festival des Filets Bleus' (Blaue-Netze-Fest, Ende August) und Strandwetter. Mai-Juni und September: weniger Massen, kühles Atlantikwasser. Vermeiden Sie Februar, viele Lokale geschlossen. Frühling oft windig.",
-      "hu": "Július-augusztus a 'Festival des Filets Bleus' (Kék Hálók Ünnepe, augusztus vége) és strandidőért. Május-június és szeptember: kevesebb tömeg, hűvös atlanti víz. Februárt kerüld, sok zárt étterem. Tavasszal szeles.",
-      "ro": "Iulie-august pentru 'Festival des Filets Bleus' (sfârșit august) și plajă. Mai-iunie și septembrie: mai puțin aglomerat, apa rece. Evitați februarie, multe localuri închise. Primăvara este vântoasă.",
-      "en": "July-August for the 'Festival des Filets Bleus' (Blue Nets Festival, late August) and beach weather. May-June and September: fewer crowds, cool Atlantic water. Avoid February, many places closed. Spring is often windy."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher. Beim Ville Close auf rutschiges Pflaster und schmale Treppen achten. Hafenbereich nachts ruhig, aber Vorsicht mit Kindern in der Nähe der Wasserkante. Atlantik-Strömungen können bei Schwimmen tückisch sein.",
-      "hu": "Nagyon biztonságos. A Ville Close-ban csúszós macskakő és szűk lépcsők. A kikötő éjjel csendes, gyerekkel a vízpartnál óvatos. Az atlanti áramlatok úszáskor árulkodók lehetnek.",
-      "ro": "Foarte sigur. La Ville Close, pavaj alunecos și trepte înguste. Zona portuară este liniștită noaptea, atenție cu copiii la malul apei. Curenții atlantici pot fi înșelători la înot.",
-      "en": "Very safe. In the Ville Close watch for slippery cobbles and tight steps. The harbour is quiet at night, mind children near the water's edge. Atlantic currents can be tricky for swimmers."
-    },
-    "parking_real_time": ""
   }
 }

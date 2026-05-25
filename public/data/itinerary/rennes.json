@@ -343,6 +343,482 @@
           "Be sure to try the 'Galette-Saucisse'.",
           "Book in advance for the Palais du Parlement."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Rennes auf dem Place des Lices, wo die Fachwerkhäuser die Geschichte der Stadt erzählen. Spazieren Sie durch die majestätischen Portes Mordelaises und bewundern Sie die Kathedrale Saint-Pierre.\n\nMittags tauchen Sie in die politische Geschichte Bretagnes im Palais du Parlement ein, einem architektonischen Juwel des 17. Jahrhunderts. Genießen Sie eine Pause in den umliegenden gepflasterten Gassen.\n\nDer Nachmittag gehört der Kunst im Musée des Beaux-Arts, gefolgt von einem entspannenden Spaziergang im Parc du Thabor, einem der schönsten Gärten Frankreichs mit seinen Volieren und Rosengärten.\n\nBeenden Sie den Tag im lebhaften Viertel Sainte-Anne, wo die mittelalterliche Atmosphäre bei einem typisch bretonischen Abendessen zum Leben erwacht.",
+            "hu": "Kezdje a napot Rennes szívében, a Place des Lices téren, ahol a favázas házak a város múltjáról mesélnek. Sétáljon át a fenséges Mordelaises-kapukon, és csodálja meg a Szent Péter-székesegyházat.\n\nDélben merüljön el Bretagne politikai történelmében a Parlament Palotájában, amely a 17. század építészeti remekműve. Élvezze a pihenőt a környező macskaköves utcákban.\n\nA délután a művészeté a Szépművészeti Múzeumban, majd pihentető séta következik a Thabor parkban, Franciaország egyik legszebb kertjében, madárházaival és rózsakertjével.\n\nZárja a napot a nyüzsgő Szent Anna negyedben, ahol a középkori hangulat életre kel egy tipikus breton vacsora mellett.",
+            "ro": "Începeți ziua în inima orașului Rennes, în Place des Lices, unde casele cu cherestea spun povestea orașului. Treceți prin maiestuoasele Porți Mordelaises și admirați Catedrala Sfântul Petru.\n\nLa prânz, scufundați-vă în istoria politică a Bretaniei la Palatul Parlamentului, o bijuterie arhitecturală a secolului al XVII-lea. Bucurați-vă de o pauză pe străzile pavate din jur.\n\nDupă-amiaza este dedicată artei la Muzeul de Arte Frumoase, urmată de o plimbare relaxantă în Parcul Thabor, una dintre cele mai frumoase grădini din Franța, cu volierele și grădinile sale de trandafiri.\n\nÎncheiați ziua în cartierul plin de viață Sainte-Anne, unde atmosfera medievală prinde viață la o cină tipic bretonă.",
+            "en": "Start your day in the heart of Rennes at Place des Lices, where half-timbered houses tell the city's story. Walk through the majestic Mordelaises Gates and admire Saint-Pierre Cathedral.\n\nAt midday, immerse yourself in Brittany's political history at the Palais du Parlement, a 17th-century architectural gem. Enjoy a break in the surrounding cobbled streets.\n\nThe afternoon is for art at the Museum of Fine Arts, followed by a relaxing stroll in Thabor Park, one of France's most beautiful gardens with its aviaries and rose gardens.\n\nEnd the day in the lively Sainte-Anne district, where the medieval atmosphere comes alive over a typical Breton dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Lices",
+                "hu": "Place des Lices",
+                "ro": "Place des Lices",
+                "en": "Place des Lices"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie am Samstagmorgen den berühmten Markt.",
+                "hu": "Szombat reggel látogasson el a híres piacra.",
+                "ro": "Vizitați piața celebră sâmbătă dimineața.",
+                "en": "Visit the famous market on Saturday morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Portes Mordelaises",
+                "hu": "Mordelaises-kapuk",
+                "ro": "Porțile Mordelaises",
+                "en": "Mordelaises Gates"
+              },
+              "tip_5lang": {
+                "de": "Der historische Eingang der bretonischen Herzöge.",
+                "hu": "A breton hercegek történelmi bejárata.",
+                "ro": "Intrarea istorică a ducilor de Bretania.",
+                "en": "The historical entrance of the Breton dukes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Szent Péter-székesegyház",
+                "ro": "Catedrala Sfântul Petru",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das prachtvolle neoklassizistische Interieur.",
+                "hu": "Csodálja meg a pompás neoklasszicista belsőt.",
+                "ro": "Admirați interiorul neoclasic magnific.",
+                "en": "Admire the magnificent neoclassical interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Parlement de Bretagne",
+                "hu": "Bretagne-i Parlament Palotája",
+                "ro": "Palatul Parlamentului din Bretania",
+                "en": "Palais du Parlement de Bretagne"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie eine Führung, um die goldenen Decken zu sehen.",
+                "hu": "Foglaljon vezetett túrát az aranyozott mennyezetekhez.",
+                "ro": "Rezervați un tur ghidat pentru tavanele aurite.",
+                "en": "Book a guided tour to see the gilded ceilings."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Beaux-Arts",
+                "hu": "Szépművészeti Múzeum",
+                "ro": "Muzeul de Arte Frumoase",
+                "en": "Museum of Fine Arts"
+              },
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die ägyptische Sammlung.",
+                "hu": "Ne hagyja ki az egyiptomi gyűjteményt.",
+                "ro": "Nu ratați colecția egipteană.",
+                "en": "Don't miss the Egyptian collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Thabor",
+                "hu": "Thabor park",
+                "ro": "Parcul Thabor",
+                "en": "Thabor Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Rosengarten im Sommer.",
+                "hu": "Látogasson el a rózsakertbe nyáron.",
+                "ro": "Vizitați grădina de trandafiri vara.",
+                "en": "Visit the rose garden in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Sainte-Anne",
+                "hu": "Szent Anna tér",
+                "ro": "Piața Sfânta Ana",
+                "en": "Place Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine Galette und Cidre.",
+                "hu": "Ideális hely egy galette-re és cidre-re.",
+                "ro": "Locul ideal pentru o galette și cidru.",
+                "en": "Ideal spot for a galette and cider."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêperie La Saint-Georges",
+                "tip": "Moderne Interpretation bretonischer Galettes."
+              },
+              {
+                "name": "Le Saint-Sauveur",
+                "tip": "Traditionelle Küche in historischem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crêperie La Saint-Georges",
+                "tip": "A breton galette modern értelmezése."
+              },
+              {
+                "name": "Le Saint-Sauveur",
+                "tip": "Hagyományos konyha történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêperie La Saint-Georges",
+                "tip": "Interpretare modernă a galettelor bretone."
+              },
+              {
+                "name": "Le Saint-Sauveur",
+                "tip": "Bucătărie tradițională într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crêperie La Saint-Georges",
+                "tip": "Modern interpretation of Breton galettes."
+              },
+              {
+                "name": "Le Saint-Sauveur",
+                "tip": "Traditional cuisine in a historical setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer der Vilaine",
+                "tip": "Ruhiger Spaziergang am Fluss.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Parc du Thabor Kreuzgang",
+                "tip": "Stille Oase im Stadtpark.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vilaine partja",
+                "tip": "Csendes séta a folyó mentén.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Thabor park kolostorkert",
+                "tip": "Csendes oázis a városi parkban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malurile râului Vilaine",
+                "tip": "Plimbare liniștită pe malul râului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Claustrul Parcului Thabor",
+                "tip": "Oază de liniște în parcul orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vilaine River Banks",
+                "tip": "Quiet stroll along the river.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Thabor Park Cloister",
+                "tip": "Quiet oasis in the city park.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché des Lices",
+                "tip": "Einer der größten Märkte Frankreichs (samstags)."
+              },
+              {
+                "name": "Rue Le Bastard",
+                "tip": "Haupteinkaufsstraße mit bekannten Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marché des Lices",
+                "tip": "Franciaország egyik legnagyobb piaca (szombaton)."
+              },
+              {
+                "name": "Rue Le Bastard",
+                "tip": "Fő bevásárlóutca ismert márkákkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marché des Lices",
+                "tip": "Una dintre cele mai mari piețe din Franța (sâmbăta)."
+              },
+              {
+                "name": "Rue Le Bastard",
+                "tip": "Principala stradă comercială cu mărci cunoscute."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marché des Lices",
+                "tip": "One of the largest markets in France (Saturdays)."
+              },
+              {
+                "name": "Rue Le Bastard",
+                "tip": "Main shopping street with famous brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Innenstadt ist größtenteils Fußgängerzone.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Probieren Sie unbedingt die 'Galette-Saucisse'.",
+              "Reservieren Sie für den Palais du Parlement im Voraus."
+            ],
+            "hu": [
+              "A belváros nagy része sétálóövezet.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Mindenképpen kóstolja meg a 'Galette-Saucisse'-t.",
+              "A Parlament Palotájába foglaljon előre jegyet."
+            ],
+            "ro": [
+              "Centrul orașului este în mare parte pietonal.",
+              "Purtați pantofi confortabili pentru străzile pavate.",
+              "Nu uitați să gustați 'Galette-Saucisse'.",
+              "Rezervați din timp pentru Palais du Parlement."
+            ],
+            "en": [
+              "The city center is mostly pedestrianized.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Be sure to try the 'Galette-Saucisse'.",
+              "Book in advance for the Palais du Parlement."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in den schützenden Markthallen von Lices. Der Weg durch die Altstadt führt zur majestätischen Kathedrale, einem idealen Ort zum Aufwärmen. Den Nachmittag verbringen Sie im Museum der Schönen Künste, geschützt vor dem bretonischen Regen. Der Tag endet gemütlich in den beheizten Cafés rund um die Place Sainte-Anne.",
+            "hu": "Kezdje a reggelt a Lices piac fedett csarnokaiban, hogy szárazon maradjon. Az óvároson átvezető út a katedrálishoz vezet, amely tökéletes menedék az eső elől. A délutánt töltse a Szépművészeti Múzeumban, élvezve a kultúrát. A napot a Place Sainte-Anne fűtött teraszainak egyikén zárja, egy forró ital társaságában.",
+            "ro": "Începeți dimineața în halele acoperite din Place des Lices pentru a rămâne uscați. Drumul prin orașul vechi duce la Catedrală, un refugiu ideal împotriva ploii bretone. Petreceți după-amiaza la Muzeul de Arte Frumoase, explorând galeriile la adăpost. Încheiați ziua în cafenelele primitoare din Place Sainte-Anne.",
+            "en": "Start your morning at the covered Lices market halls to stay dry. The walk through the old town leads to the sheltered Cathedral, a perfect spot to escape the rain. Spend a long afternoon exploring the Museum of Fine Arts. Conclude the day in the cozy, covered terraces of Place Sainte-Anne with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Place des Lices",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Markthallen als Schutz vor dem Regen.",
+                "hu": "Használja a történelmi vásárcsarnokokat menedékként az eső elől.",
+                "ro": "Folosiți halele istorice ca adăpost împotriva ploii.",
+                "en": "Use the historic market halls as shelter from the rain."
+              }
+            },
+            {
+              "name": "Mordelaises Gates",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter den Bögen bietet Schutz bei Schauern.",
+                "hu": "Egy rövid megálló az ívek alatt védelmet nyújt a záporok idején.",
+                "ro": "O scurtă oprire sub arcade oferă protecție în timpul averselor.",
+                "en": "A quick stop under the arches provides protection during showers."
+              }
+            },
+            {
+              "name": "Saint-Pierre Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die vergoldete Decke, während es draußen regnet.",
+                "hu": "Csodálja meg az aranyozott mennyezetet, miközben kint esik.",
+                "ro": "Admirați tavanul aurit în timp ce afară plouă.",
+                "en": "Admire the gilded ceiling while it rains outside."
+              }
+            },
+            {
+              "name": "Palais du Parlement de Bretagne",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist perfekt für einen regnerischen Mittag.",
+                "hu": "A belső látogatás tökéletes egy esős délidőben.",
+                "ro": "Vizita în interior este perfectă pentru o amiază ploioasă.",
+                "en": "The interior visit is perfect for a rainy midday."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Ideal, um mehrere Stunden trocken im Museum zu verbringen.",
+                "hu": "Ideális több órát szárazon tölteni a múzeumban.",
+                "ro": "Ideal pentru a petrece câteva ore la uscat în muzeu.",
+                "en": "Ideal for spending several dry hours inside the museum."
+              }
+            },
+            {
+              "name": "Thabor Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Gewächshaus, um Pflanzen im Trockenen zu sehen.",
+                "hu": "Látogassa meg az üvegházat, hogy szárazon lássa a növényeket.",
+                "ro": "Vizitați sera pentru a vedea plantele la adăpost.",
+                "en": "Visit the greenhouse to see plants while staying dry."
+              }
+            },
+            {
+              "name": "Place Sainte-Anne",
+              "tip_5lang": {
+                "de": "Viele Lokale haben überdachte Außenbereiche mit Heizung.",
+                "hu": "Sok hely rendelkezik fedett, fűtött kültéri résszel.",
+                "ro": "Multe localuri au zone exterioare acoperite și încălzite.",
+                "en": "Many venues have covered, heated outdoor areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine robuste Regenjacke, da der Wind in Rennes Regenschirme umknicken kann.",
+              "Nutzen Sie die zahlreichen Passagen in der Altstadt, um trocken zu bleiben.",
+              "Die Markthallen an der Place des Lices bieten samstags tollen Schutz.",
+              "Besuchen Sie das Museum der Schönen Künste für eine längere Regenpause.",
+              "Die Metrostationen sind sauber und bieten schnelle Wege zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Viseljen erős esőkabátot, mert a szél Rennes-ben könnyen kifordíthatja az esernyőt.",
+              "Használja ki az óváros számos átjáróját, hogy szárazon maradjon.",
+              "A Place des Lices vásárcsarnokai szombatonként kiváló menedéket nyújtanak.",
+              "A Szépművészeti Múzeum tökéletes helyszín egy hosszabb eső szünetre.",
+              "A metróállomások tiszták és gyors összeköttetést biztosítanak a látnivalók között."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie robustă, deoarece vântul din Rennes poate îndoi umbrelele.",
+              "Profitați de numeroasele pasaje din orașul vechi pentru a rămâne uscați.",
+              "Halele din Place des Lices oferă un adăpost excelent în zilele de sâmbătă.",
+              "Vizitați Muzeul de Arte Frumoase pentru o pauză prelungită de ploaie.",
+              "Stațiile de metrou sunt curate și oferă căi rapide între atracții."
+            ],
+            "en": [
+              "Wear a sturdy raincoat as the wind in Rennes can easily flip umbrellas.",
+              "Take advantage of the many passages in the old town to stay dry.",
+              "The market halls at Place des Lices provide excellent shelter on Saturdays.",
+              "Visit the Museum of Fine Arts for a long-duration rain break.",
+              "Metro stations are clean and offer quick ways to move between sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft am Morgen auf der Place des Lices. Das historische Zentrum erstrahlt im sanften Licht der tiefstehenden Sonne. Der Thabor-Park bietet eine ruhige, frostige Kulisse für einen Spaziergang, bevor es dunkel wird. Beenden Sie den Tag bei einem heißen Cidre in der Nähe der Place Sainte-Anne, wenn die Stadtlichter leuchten.",
+            "hu": "Élje át a friss téli levegőt reggel a Place des Lices-en. A történelmi központ a téli nap alacsony fényében tündököl. A Thabor park nyugodt, deres díszletet kínál egy sétához, mielőtt besötétedik. Zárja a napot egy forró ciderrel a Place Sainte-Anne közelében, amikor kigyúlnak a város fényei.",
+            "ro": "Experimentați aerul proaspăt de iarnă dimineața în Place des Lices. Centrul istoric strălucește în lumina blândă a soarelui de iarnă. Parcul Thabor oferă un decor liniștit și înghețat pentru o plimbare înainte de lăsarea întunericului. Încheiați ziua cu un cidru fierbinte lângă Place Sainte-Anne.",
+            "en": "Experience the crisp winter air in the morning at Place des Lices. The historical center glows in the soft, low winter sunlight. Thabor Park offers a calm, frosty backdrop for a stroll before it gets dark early. End the day with a hot cider near Place Sainte-Anne as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Place des Lices",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee am Marktstand.",
+                "hu": "Igyon egy forró kávét az egyik piaci árusnál.",
+                "ro": "Luați o cafea fierbinte de la o tarabă din piață.",
+                "en": "Grab a hot coffee from a market stall."
+              }
+            },
+            {
+              "name": "Mordelaises Gates",
+              "tip_5lang": {
+                "de": "Die Steine können bei Frost rutschig sein, Vorsicht geboten.",
+                "hu": "A kövek fagy esetén csúszósak lehetnek, legyen óvatos.",
+                "ro": "Pietrele pot fi alunecoase în caz de îngheț, atenție sporită.",
+                "en": "The stones can be slippery in case of frost, use caution."
+              }
+            },
+            {
+              "name": "Saint-Pierre Cathedral",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um der Kälte für einen Moment zu entfliehen.",
+                "hu": "Meleg hely, ahol egy pillanatra elmenekülhet a hideg elől.",
+                "ro": "Un loc cald unde puteți scăpa de frig pentru un moment.",
+                "en": "A warm place to escape the cold for a moment."
+              }
+            },
+            {
+              "name": "Palais du Parlement de Bretagne",
+              "tip_5lang": {
+                "de": "Die Fassade ist in der frühen Dämmerung wunderschön beleuchtet.",
+                "hu": "A homlokzat a kora esti szürkületben gyönyörűen ki van világítva.",
+                "ro": "Fațada este frumos iluminată în amurgul timpuriu.",
+                "en": "The facade is beautifully illuminated in the early twilight."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicken Wintermäntel.",
+                "hu": "Használja a ruhatárat a vastag télikabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Thabor Park",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter bereits um 17:30 Uhr.",
+                "hu": "A park télen már 17:30-kor bezár.",
+                "ro": "Parcul se închide la ora 17:30 în timpul iernii.",
+                "en": "The park closes as early as 17:30 in winter."
+              }
+            },
+            {
+              "name": "Place Sainte-Anne",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle Galette in einer warmen Crêperie.",
+                "hu": "Kóstoljon meg egy hagyományos galette-et egy meleg palacsintázóban.",
+                "ro": "Gustați o galette tradițională într-o clătitărie caldă.",
+                "en": "Try a traditional galette in a warm creperie."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:15 Uhr unter, planen Sie Outdoor-Stopps früh ein.",
+              "Tragen Sie Schichten, da es in Museen warm, draußen aber windig ist.",
+              "Besuchen Sie den Weihnachtsmarkt auf der Place du Parlement, falls verfügbar.",
+              "Die meisten Parks schließen im Winter deutlich früher als im Sommer.",
+              "Wärmen Sie sich zwischendurch in den zahlreichen Crêperien der Altstadt auf."
+            ],
+            "hu": [
+              "A nap télen 17:15 körül nyugszik, a szabadtéri megállókat tervezze korábbra.",
+              "Öltözzön rétegesen, mert a múzeumokban meleg van, kint viszont szeles az idő.",
+              "Látogassa meg a karácsonyi vásárt a Place du Parlement-en, ha elérhető.",
+              "A legtöbb park télen jóval korábban bezár, mint nyáron.",
+              "Melegedjen fel időnként az óváros számos palacsintázójának (crêperie) egyikében."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:15 iarna, planificați opririle în aer liber mai devreme.",
+              "Îmbrăcați-vă în straturi, deoarece în muzee este cald, dar afară este vânt.",
+              "Vizitați piața de Crăciun din Place du Parlement, dacă este disponibilă.",
+              "Majoritatea parcurilor se închid mult mai devreme iarna decât vara.",
+              "Încălziți-vă ocazional în numeroasele clătitării din orașul vechi."
+            ],
+            "en": [
+              "Sunset is around 17:15 in winter, plan your outdoor stops early.",
+              "Dress in layers as it is warm inside museums but windy outside.",
+              "Visit the Christmas market at Place du Parlement if available.",
+              "Most parks close significantly earlier in winter than in summer.",
+              "Warm up occasionally in one of the many creperies in the old town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -601,6 +1077,394 @@
           "The canal paths are very safe.",
           "Watch out for pedestrians in the center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Rennes auf zwei Rädern, beginnend am Canal d'Ille-et-Rance, wo die Treidelpfade flach und malerisch sind. Radeln Sie zu den Prairies Saint-Martin für eine Naturpause.\n\nMittags erreichen Sie den Parc du Thabor. Parken Sie Ihr Rad und genießen Sie ein Picknick unter den hundertjährigen Bäumen, bevor Sie zur modernen Architektur von Les Champs Libres weiterfahren.\n\nDer Nachmittag führt Sie aus dem Zentrum heraus zum Étang d'Apigné über den Vilaine-Radweg. Eine perfekte Strecke, um die ländliche Seite von Rennes zu entdecken.\n\nBeenden Sie Ihre Tour am Roazhon Park Stadion, einem Symbol des lokalen Stolzes, bevor Sie gemütlich ins Stadtzentrum zurückkehren.",
+            "hu": "Fedezze fel Rennes-t két keréken, kezdve az Ille-et-Rance csatornánál, ahol a vontatóutak síkak és festőiek. Kerekezzen a Szent Márton-rétekhez egy természetközeli pihenőre.\n\nDélben érje el a Thabor parkot. Parkolja le a biciklit, és élvezze a pikniket a százéves fák alatt, mielőtt továbbindulna a Les Champs Libres modern épülete felé.\n\nA délután kivezeti a központból az Apigné-tóhoz a Vilaine menti kerékpárúton. Tökéletes útvonal Rennes vidékies arcának felfedezéséhez.\n\nZárja a túrát a Roazhon Park stadionnál, a helyi büszkeség szimbólumánál, mielőtt kényelmesen visszatérne a városközpontba.",
+            "ro": "Explorați Rennes pe două roți, începând de la Canalul Ille-et-Rance, unde potecile sunt plate și pitorești. Pedalati până la Prairies Saint-Martin pentru o pauză în natură.\n\nLa prânz, ajungeți la Parcul Thabor. Parcați bicicleta și bucurați-vă de un picnic sub copacii centenari, înainte de a continua spre arhitectura modernă de la Les Champs Libres.\n\nDupă-amiaza vă scoate din centru spre Étang d'Apigné pe pista de biciclete Vilaine. Un traseu perfect pentru a descoperi latura rurală a orașului Rennes.\n\nÎncheiați turul la stadionul Roazhon Park, simbol al mândriei locale, înainte de a vă întoarce relaxat în centrul orașului.",
+            "en": "Explore Rennes on two wheels, starting at the Ille-et-Rance Canal, where the towpaths are flat and picturesque. Cycle to the Prairies Saint-Martin for a nature break.\n\nAt midday, reach Thabor Park. Park your bike and enjoy a picnic under the century-old trees before heading to the modern architecture of Les Champs Libres.\n\nThe afternoon leads you out of the center to Étang d'Apigné via the Vilaine bike path. A perfect route to discover the rural side of Rennes.\n\nEnd your tour at the Roazhon Park stadium, a symbol of local pride, before a leisurely return to the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canal d'Ille-et-Rance",
+                "hu": "Ille-et-Rance csatorna",
+                "ro": "Canalul Ille-et-Rance",
+                "en": "Ille-et-Rance Canal"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Radweg entlang des Wassers.",
+                "hu": "Gyönyörű kerékpárút a víz mentén.",
+                "ro": "Pistă de biciclete superbă de-a lungul apei.",
+                "en": "Beautiful bike path along the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Prairies Saint-Martin",
+                "hu": "Szent Márton-rétek",
+                "ro": "Prairies Saint-Martin",
+                "en": "Saint-Martin Meadows"
+              },
+              "tip_5lang": {
+                "de": "Eine grüne Lunge im Herzen der Stadt.",
+                "hu": "A város szívének zöld tüdeje.",
+                "ro": "Un plămân verde în inima orașului.",
+                "en": "A green lung in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Thabor",
+                "hu": "Thabor park",
+                "ro": "Parcul Thabor",
+                "en": "Thabor Park"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder müssen draußen geparkt werden.",
+                "hu": "A kerékpárokat kint kell hagyni.",
+                "ro": "Bicicletele trebuie parcate afară.",
+                "en": "Bikes must be parked outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Champs Libres",
+                "hu": "Les Champs Libres",
+                "ro": "Les Champs Libres",
+                "en": "Les Champs Libres"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Planetarium und das Bretagne-Museum.",
+                "hu": "Látogassa meg a planetáriumot és a Bretagne múzeumot.",
+                "ro": "Vizitați planetariul și muzeul Bretaniei.",
+                "en": "Visit the planetarium and the Brittany museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang d'Apigné",
+                "hu": "Apigné-tó",
+                "ro": "Étang d'Apigné",
+                "en": "Apigné Lake"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Erfrischung am Ende des Tages.",
+                "hu": "Tökéletes felfrissülés a nap végén.",
+                "ro": "Perfect pentru o răcorire la sfârșitul zilei.",
+                "en": "Perfect for a refresh at the end of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Roazhon Park",
+                "hu": "Roazhon Park",
+                "ro": "Roazhon Park",
+                "en": "Roazhon Park"
+              },
+              "tip_5lang": {
+                "de": "Das Heimstadion des Stade Rennais FC.",
+                "hu": "A Stade Rennais FC hazai stadionja.",
+                "ro": "Stadionul de acasă al Stade Rennais FC.",
+                "en": "The home stadium of Stade Rennais FC."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buvette du Thabor",
+                "tip": "Snacks im schönsten Park der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buvette du Thabor",
+                "tip": "Snackek a város legszebb parkjában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buvette du Thabor",
+                "tip": "Gustări în cel mai frumos parc al orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buvette du Thabor",
+                "tip": "Snacks in the city's most beautiful park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canal d'Ille-et-Rance",
+                "tip": "Ruhiges Radeln am Wasser.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ille-et-Rance csatorna",
+                "tip": "Csendes biciklizés a vízparton.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canalul Ille-et-Rance",
+                "tip": "Pedalat liniștit pe malul apei.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ille-et-Rance Canal",
+                "tip": "Quiet cycling by the water.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vélopark",
+                "tip": "Fahrradservice und Zubehör am Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vélopark",
+                "tip": "Kerékpár szerviz és kiegészítők a vasútállomásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vélopark",
+                "tip": "Service de biciclete și accesorii la gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vélopark",
+                "tip": "Bike service and accessories at the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'Star le vélo' Verleihsystem.",
+              "Die Wege am Kanal sind sehr sicher.",
+              "Achten Sie auf Fußgänger im Zentrum."
+            ],
+            "hu": [
+              "Használja a 'Star le vélo' bérlőrendszert.",
+              "A csatorna menti utak nagyon biztonságosak.",
+              "Figyeljen a gyalogosokra a központban."
+            ],
+            "ro": [
+              "Utilizați sistemul de închirieri 'Star le vélo'.",
+              "Drumurile de pe canal sunt foarte sigure.",
+              "Atenție la pietoni în centru."
+            ],
+            "en": [
+              "Use the 'Star le vélo' bike-sharing system.",
+              "The canal paths are very safe.",
+              "Watch out for pedestrians in the center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang des Ille-et-Rance-Kanals trotz des Regens. Suchen Sie Schutz in den Saint-Martin-Wiesen, wenn Schauer zu stark werden. Den Nachmittag verbringen Sie in Les Champs Libres, dem perfekten Ort für eine trockene Pause. Die Fahrt zum Apigné-See erfordert gute Regenbekleidung, belohnt aber mit einer dramatischen Aussicht.",
+            "hu": "Frissítő tekerés az Ille-et-Rance csatorna mentén az eső ellenére is. Keressen menedéket a Saint-Martin réteken, ha túl erős a zápor. A délutánt töltse a Les Champs Libres kulturális központban, amely tökéletes hely egy száraz szünethez. Az Apigné-tóhoz vezető út jó esőruházatot igényel, de drámai kilátással jutalmaz.",
+            "ro": "O plimbare revigorantă de-a lungul canalului Ille-et-Rance, în ciuda ploii. Căutați adăpost în poienile Saint-Martin dacă aversa devine prea puternică. Petreceți după-amiaza la Les Champs Libres, locul perfect pentru o pauză uscată. Drumul spre lacul Apigné necesită echipament de ploaie bun.",
+            "en": "A refreshing ride along the Ille-et-Rance Canal despite the rain. Seek shelter in the Saint-Martin Meadows if the showers get too heavy. Spend the afternoon at Les Champs Libres, the perfect place for a dry break. The ride to Apigné Lake requires good rain gear but rewards you with a dramatic view."
+          },
+          "stops": [
+            {
+              "name": "Ille-et-Rance Canal",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Treppelweg, er kann bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a vontatóúton, nedvesen csúszós lehet.",
+                "ro": "Atenție pe drumul de halaj, poate fi alunecos când este ud.",
+                "en": "Be careful on the towpath, it can be slippery when wet."
+              }
+            },
+            {
+              "name": "Saint-Martin Meadows",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterstände bei plötzlichen Regengüssen.",
+                "hu": "Használja az aluljárókat vagy beállókat hirtelen eső esetén.",
+                "ro": "Folosiți adăposturile în caz de ploaie bruscă.",
+                "en": "Use the shelters in case of sudden downpours."
+              }
+            },
+            {
+              "name": "Thabor Park",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den überdachten Ständern am Eingang.",
+                "hu": "Parkolja le biciklijét a bejáratnál lévő fedett tárolókban.",
+                "ro": "Parcați bicicleta în suporturile acoperite de la intrare.",
+                "en": "Park your bike at the covered racks by the entrance."
+              }
+            },
+            {
+              "name": "Les Champs Libres",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um das Rad zu sichern und das Planetarium zu besuchen.",
+                "hu": "Tökéletes hely lezárni a biciklit és ellátogatni a planetáriumba.",
+                "ro": "Locul perfect pentru a securiza bicicleta și a vizita planetariul.",
+                "en": "Perfect place to lock your bike and visit the planetarium."
+              }
+            },
+            {
+              "name": "Apigné Lake",
+              "tip_5lang": {
+                "de": "Der Weg zum See kann bei starkem Regen matschig sein.",
+                "hu": "A tóhoz vezető út heves esőzéskor sáros lehet.",
+                "ro": "Drumul spre lac poate fi noroios în caz de ploaie abundentă.",
+                "en": "The path to the lake can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Roazhon Park",
+              "tip_5lang": {
+                "de": "Die Fassade bietet ein wenig Schutz vor Wind und Regen.",
+                "hu": "A homlokzat némi védelmet nyújt a szél és az eső ellen.",
+                "ro": "Fațada oferă puțin adăpost împotriva vântului și ploii.",
+                "en": "The facade offers a bit of shelter from wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie glatte Holzbrücken entlang des Kanals bei Regen.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Die STAR-Leihräder haben oft Schutzbleche, die vor Spritzwasser schützen.",
+              "Nutzen Sie die Les Champs Libres als langen Stopp, um Ausrüstung zu trocknen.",
+              "Tragen Sie wasserfeste Handschuhe, um die Hände warm und griffig zu halten."
+            ],
+            "hu": [
+              "Esőben kerülje a csatorna menti csúszós fahidakat.",
+              "Ellenőrizze a fékeket, mert a fékút hosszabb a nedves aszfalton.",
+              "A STAR bérbicikliknek gyakran van sárvédője, ami véd a felfröccsenő víztől.",
+              "Használja a Les Champs Libres-t hosszú megállóként a felszerelés szárításához.",
+              "Viseljen vízálló kesztyűt, hogy kezei melegek maradjanak és ne csússzanak a kormányon."
+            ],
+            "ro": [
+              "Evitați podurile de lemn alunecoase de-a lungul canalului pe ploaie.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe asfalt ud.",
+              "Bicicletele de închiriat STAR au adesea aripi care protejează de stropi.",
+              "Folosiți Les Champs Libres ca o oprire lungă pentru a vă usca echipamentul.",
+              "Purtați mănuși impermeabile pentru a menține mâinile calde și aderente."
+            ],
+            "en": [
+              "Avoid slippery wooden bridges along the canal when it rains.",
+              "Check your brakes, as stopping distance is longer on wet asphalt.",
+              "STAR rental bikes often have mudguards that protect against splashes.",
+              "Use Les Champs Libres as a long stop to dry your gear.",
+              "Wear waterproof gloves to keep your hands warm and maintain grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start entlang des gefrorenen Kanals am Morgen. Die Saint-Martin-Wiesen wirken im Raureif fast magisch. Wärmen Sie sich in der Bibliothek von Les Champs Libres auf, bevor Sie zum windigen Apigné-See aufbrechen. Der Rückweg führt am Roazhon Park vorbei, während die Wintersonne früh hinter dem Horizont verschwindet.",
+            "hu": "Gyors kezdés a befagyott csatorna mentén reggel. A Saint-Martin rétek a dérben szinte varázslatosnak tűnnek. Melegedjen fel a Les Champs Libres könyvtárában, mielőtt elindulna a szeles Apigné-tóhoz. A visszaút a Roazhon Park mellett vezet el, miközben a téli nap korán eltűnik a horizont mögött.",
+            "ro": "Un început rapid de-a lungul canalului înghețat dimineața. Pajiștile Saint-Martin par magice în promoroacă. Încălziți-vă în biblioteca de la Les Champs Libres înainte de a porni spre lacul Apigné. Drumul de întoarcere trece pe lângă Roazhon Park sub lumina slabă a iernii.",
+            "en": "A brisk start along the frozen canal in the morning. Saint-Martin Meadows look almost magical in the hoarfrost. Warm up in the library of Les Champs Libres before heading to the windy Apigné Lake. The ride back passes Roazhon Park as the winter sun disappears early behind the horizon."
+          },
+          "stops": [
+            {
+              "name": "Ille-et-Rance Canal",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen im Schatten der Bäume.",
+                "hu": "Vigyázzon a jeges foltokra a fák árnyékában.",
+                "ro": "Atenție la zonele înghețate la umbra copacilor.",
+                "en": "Watch out for icy patches in the shade of trees."
+              }
+            },
+            {
+              "name": "Saint-Martin Meadows",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die frostige Landschaft.",
+                "hu": "Élvezze a tágas kilátást a deres tájra.",
+                "ro": "Bucurați-vă de priveliștea largă asupra peisajului înghețat.",
+                "en": "Enjoy the wide view over the frosty landscape."
+              }
+            },
+            {
+              "name": "Thabor Park",
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom Rosengarten im Winterschlaf.",
+                "hu": "Készítsen fotót a téli álmot alvó rózsakertről.",
+                "ro": "Faceți o fotografie grădinii de trandafiri în somn de iarnă.",
+                "en": "Take a photo of the rose garden in its winter sleep."
+              }
+            },
+            {
+              "name": "Les Champs Libres",
+              "tip_5lang": {
+                "de": "Hinter den großen Glasfassaden ist es herrlich warm.",
+                "hu": "A nagy üvegfalak mögött kellemes meleg van.",
+                "ro": "În spatele marilor fațade de sticlă este minunat de cald.",
+                "en": "It is wonderfully warm behind the large glass facades."
+              }
+            },
+            {
+              "name": "Apigné Lake",
+              "tip_5lang": {
+                "de": "Der Wind am See ist im Winter sehr schneidend.",
+                "hu": "A tónál a szél télen nagyon metsző lehet.",
+                "ro": "Vântul la lac este foarte tăios în timpul iernii.",
+                "en": "The wind at the lake is very biting in winter."
+              }
+            },
+            {
+              "name": "Roazhon Park",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zu dunkel zum Fahren wird.",
+                "hu": "Rövid fotómegálló, mielőtt túl sötét lesz a biciklizéshez.",
+                "ro": "Scurtă oprire foto înainte de a deveni prea întuneric.",
+                "en": "Short photo stop before it gets too dark to ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie eine winddichte Schicht, besonders für die Fahrt zum See.",
+              "Vermeiden Sie Fahrten spät am Abend, da es schnell glatt werden kann.",
+              "Die STAR-Fahrräder sind schwer, was auf rutschigem Boden stabilisierend wirkt.",
+              "Holen Sie sich einen heißen Snack am Bahnhof, bevor Sie das Rad abgeben."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár világítása kifogástalanul működik.",
+              "Viseljen szélálló réteget, különösen a tóhoz vezető úton.",
+              "Kerülje a késő esti tekerést, mert az utak gyorsan lefagyhatnak.",
+              "A STAR biciklik nehezek, ami stabilizáló hatású a csúszós talajon.",
+              "Vegyél egy forró tízórait az állomáson, mielőtt leadnád a biciklit."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Purtați un strat rezistent la vânt, mai ales pentru drumul spre lac.",
+              "Evitați plimbările târziu seara, deoarece se poate forma polei rapid.",
+              "Bicicletele STAR sunt grele, ceea ce oferă stabilitate pe sol alunecos.",
+              "Luați o gustare fierbinte la gară înainte de a returna bicicleta."
+            ],
+            "en": [
+              "Ensure your bike lights are working perfectly for the early dusk.",
+              "Wear a windproof layer, especially for the ride to the lake.",
+              "Avoid riding late in the evening as it can get slippery quickly.",
+              "STAR bikes are heavy, which provides stability on slippery ground.",
+              "Grab a hot snack at the station before returning your bike."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -836,6 +1700,362 @@
           "The country roads are well-maintained.",
           "There are many hiking trails in Brocéliande."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto können Sie die Schätze rund um Rennes entdecken. Beginnen Sie mit einem kurzen Rundgang im Zentrum, bevor Sie ins charmante Bécherel fahren, das Dorf der Bücher.\n\nMittags erkunden Sie die Romantik im Château de Combourg, der Wiege der französischen Literatur. Die Fahrt durch die bretonische Landschaft ist erholsam.\n\nDer Nachmittag führt Sie in den sagenumwobenen Wald von Brocéliande. Wandern Sie auf den Spuren von Merlin und König Artus zwischen uralten Eichen.\n\nKehren Sie rechtzeitig nach Rennes zurück, um den Sonnenuntergang von einem der Aussichtspunkte im Norden der Stadt zu genießen.",
+            "hu": "Autóval felfedezheti Rennes környékének kincseit. Kezdje egy rövid belvárosi sétával, majd induljon a bájos Bécherel-be, a könyvek falujába.\n\nDélben fedezze fel a romantikát Combourg kastélyában, a francia irodalom bölcsőjében. Az út a breton tájon keresztül pihentető.\n\nA délután a titokzatos Brocéliande erdőbe vezet. Sétáljon Merlin és Arthur király nyomában az ősi tölgyek között.\n\nTérjen vissza időben Rennes-be, hogy élvezze a naplementét a város északi dombjainak egyik kilátópontjáról.",
+            "ro": "Cu mașina puteți descoperi comorile din jurul orașului Rennes. Începeți cu un scurt tur în centru înainte de a merge în fermecătorul Bécherel, satul cărților.\n\nLa prânz, explorați romantismul la Castelul Combourg, leagănul literaturii franceze. Drumul prin peisajul breton este relaxant.\n\nDupă-amiaza vă duce în legendara pădure Brocéliande. Mergeți pe urmele lui Merlin și ale regelui Arthur printre stejari seculari.\n\nÎntoarceți-vă la timp în Rennes pentru a vă bucura de apusul de soare de la unul dintre punctele de belvedere din nordul orașului.",
+            "en": "By car, you can discover the treasures around Rennes. Start with a quick tour of the center before heading to charming Bécherel, the village of books.\n\nAt midday, explore romanticism at the Château de Combourg, the cradle of French literature. The drive through the Breton countryside is relaxing.\n\nThe afternoon leads you to the legendary Brocéliande Forest. Walk in the footsteps of Merlin and King Arthur among ancient oaks.\n\nReturn to Rennes in time to enjoy the sunset from one of the viewpoints in the north of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadtzentrum Rennes",
+                "hu": "Rennes belváros",
+                "ro": "Centrul orașului Rennes",
+                "en": "Rennes City Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage Place des Lices.",
+                "hu": "Parkoljon a Place des Lices mélygarázsban.",
+                "ro": "Parcați în parcarea subterană Place des Lices.",
+                "en": "Park in the Place des Lices underground garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Bécherel",
+                "hu": "Bécherel",
+                "ro": "Bécherel",
+                "en": "Bécherel"
+              },
+              "tip_5lang": {
+                "de": "Das berühmte Buchdorf Frankreichs.",
+                "hu": "Franciaország híres könyves faluja.",
+                "ro": "Satul cărților celebru în Franța.",
+                "en": "The famous book village of France."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Combourg",
+                "hu": "Combourg kastélya",
+                "ro": "Castelul Combourg",
+                "en": "Combourg Castle"
+              },
+              "tip_5lang": {
+                "de": "Wohnort von Chateaubriand.",
+                "hu": "Chateaubriand lakóhelye.",
+                "ro": "Locuința lui Chateaubriand.",
+                "en": "Home of Chateaubriand."
+              }
+            },
+            {
+              "name": {
+                "de": "Forêt de Brocéliande (Paimpont)",
+                "hu": "Brocéliande erdő",
+                "ro": "Pădurea Brocéliande",
+                "en": "Brocéliande Forest"
+              },
+              "tip_5lang": {
+                "de": "Sitz der Artussage.",
+                "hu": "Az Arthur-mondakör helyszíne.",
+                "ro": "Locul legendei lui Arthur.",
+                "en": "Site of the Arthurian legend."
+              }
+            },
+            {
+              "name": {
+                "de": "Rennes Sunset Panorama",
+                "hu": "Rennes naplemente panoráma",
+                "ro": "Panorama apusului în Rennes",
+                "en": "Rennes Sunset Panorama"
+              },
+              "tip_5lang": {
+                "de": "Blick über die Stadt von den Anhöhen.",
+                "hu": "Kilátás a városra a dombokról.",
+                "ro": "Vedere asupra orașului de pe dealuri.",
+                "en": "View over the city from the heights."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge de Brocéliande",
+                "tip": "Rustikale bretonische Küche im Wald."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge de Brocéliande",
+                "tip": "Rusztikus breton konyha az erdőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge de Brocéliande",
+                "tip": "Bucătărie bretonă rustică în pădure."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge de Brocéliande",
+                "tip": "Rustic Breton cuisine in the forest."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lac au Duc",
+                "tip": "Stiller See für eine Pause.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lac au Duc",
+                "tip": "Csendes tó egy pihenőhöz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lac au Duc",
+                "tip": "Lac liniștit pentru o pauză.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lac au Duc",
+                "tip": "Quiet lake for a break.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bécherel Antiquariate",
+                "tip": "Seltene Bücher und Antiquitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bécherel antikváriumok",
+                "tip": "Ritka könyvek és régiségek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anticariatele din Bécherel",
+                "tip": "Cărți rare și antichități."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bécherel Bookshops",
+                "tip": "Rare books and antiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie im Zentrum in Parkhäusern.",
+              "Die Landstraßen sind gut ausgebaut.",
+              "In Brocéliande gibt es viele Wanderwege."
+            ],
+            "hu": [
+              "A központban parkolóházakat használjon.",
+              "Az országutak jól kiépítettek.",
+              "Brocéliande-ban sok a túraútvonal."
+            ],
+            "ro": [
+              "Parcați în parcări etajate în centru.",
+              "Drumurile naționale sunt bine întreținute.",
+              "În Brocéliande sunt multe trasee de drumeție."
+            ],
+            "en": [
+              "Use parking garages in the center.",
+              "The country roads are well-maintained.",
+              "There are many hiking trails in Brocéliande."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für Ausflüge ins Umland. Erkunden Sie das Zentrum von Rennes bequem per Auto. Das Bücherdorf Bécherel lädt zum Stöbern in gemütlichen Läden ein, während es draußen prasselt. Das Schloss Combourg bietet eine mystische Kulisse im grauen Wetter. Beenden Sie den Tag mit einem Panorama-Blick auf das regnerische Rennes vom Auto aus.",
+            "hu": "Egy esős nap tökéletes a környék felfedezésére. Fedezze fel Rennes központját kényelmesen, autóval. Bécherel, a könyvek faluja, hangulatos üzletekkel várja a nézelődőket, miközben kint kopog az eső. Combourg vára misztikus látványt nyújt a szürke időben. Zárja a napot az esős Rennes panorámájával az autóból.",
+            "ro": "O zi ploioasă este perfectă pentru excursii în împrejurimi. Explorați centrul orașului Rennes confortabil cu mașina. Satul cărților Bécherel vă invită să răsfoiți în magazine primitoare în timp ce afară plouă. Castelul Combourg oferă un decor mistic pe vreme gri. Încheiați ziua cu o panoramă a orașului Rennes din mașină.",
+            "en": "A rainy day is perfect for exploring the surroundings by car. Discover Rennes center comfortably before driving to Bécherel, the book town, where you can browse cozy shops while it pours outside. Combourg Castle offers a mystical backdrop in the grey weather. End the day with a panoramic view of rainy Rennes from your car."
+          },
+          "stops": [
+            {
+              "name": "Rennes City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um direkt im Trockenen auszusteigen.",
+                "hu": "Használja a parkolóházakat, hogy közvetlenül száraz helyen szálljon ki.",
+                "ro": "Folosiți parcările subterane pentru a ieși direct la uscat.",
+                "en": "Use parking garages to step out directly into the dry."
+              }
+            },
+            {
+              "name": "Bécherel",
+              "tip_5lang": {
+                "de": "Die vielen Antiquariate bieten perfekten Schutz vor Regen.",
+                "hu": "A számos antikvárium tökéletes védelmet nyújt az eső ellen.",
+                "ro": "Numeroasele anticariate oferă protecție perfectă împotriva ploii.",
+                "en": "The many second-hand bookstores offer perfect rain protection."
+              }
+            },
+            {
+              "name": "Combourg Castle",
+              "tip_5lang": {
+                "de": "Innenführungen sind bei Regen sehr atmosphärisch.",
+                "hu": "Az esőben a belső vezetések nagyon hangulatosak.",
+                "ro": "Tururile interioare sunt foarte atmosferice pe ploaie.",
+                "en": "Interior tours are very atmospheric when it rains."
+              }
+            },
+            {
+              "name": "Brocéliande Forest",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, die Waldwege können schlammig sein.",
+                "hu": "Vezessen lassan, az erdei utak sárosak lehetnek.",
+                "ro": "Conduceți încet, drumurile forestiere pot fi noroioase.",
+                "en": "Drive slowly, the forest roads can be muddy."
+              }
+            },
+            {
+              "name": "Rennes Sunset Panorama",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick durch die nasse Windschutzscheibe.",
+                "hu": "Élvezze a kilátást a vizes szélvédőn keresztül.",
+                "ro": "Bucurați-vă de priveliște prin parbrizul umed.",
+                "en": "Enjoy the view through the wet windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "In Rennes gibt es viele Park-and-Ride-Plätze (P+R) mit Metro-Anschluss.",
+              "Die Straßen in Brocéliande können bei Regen schmal und rutschig sein.",
+              "Bécherel ist ein idealer Ort, um mehrere Stunden drinnen zu verbringen.",
+              "Vermeiden Sie den Feierabendverkehr in Rennes (17:00-18:30 Uhr) bei Regen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Rennes-ben sok P+R parkoló található metrócsatlakozással.",
+              "Brocéliande útjai esőben szűkek és csúszósak lehetnek.",
+              "Bécherel ideális hely arra, hogy több órát fedett helyen töltsön.",
+              "Esőben kerülje a csúcsforgalmat Rennes-ben (17:00-18:30 között)."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "În Rennes există multe parcări P+R cu conexiune la metrou.",
+              "Drumurile din Brocéliande pot fi înguste și alunecoase pe ploaie.",
+              "Bécherel este un loc ideal pentru a petrece câteva ore în interior.",
+              "Evitați traficul de vârf din Rennes (17:00-18:30) pe timp de ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before departing.",
+              "Rennes has many Park and Ride (P+R) lots with metro connections.",
+              "The roads in Brocéliande can be narrow and slippery in the rain.",
+              "Bécherel is an ideal place to spend several hours indoors.",
+              "Avoid rush hour traffic in Rennes (17:00-18:30) when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einer warmen Fahrt durch das winterliche Rennes. Die Fahrt nach Bécherel führt durch eine ruhige, frostige Landschaft. Im Schloss Combourg weht ein kalter Wind vom See, der den Besuch besonders historisch wirken lässt. Brocéliande wirkt im Winternebel magisch. Der Tag endet mit dem Panorama der beleuchteten Stadt in der frühen Dunkelheit.",
+            "hu": "Kezdjen egy meleg autózással a téli Rennes-ben. A Bécherel felé vezető út csendes, deres tájon át visz. Combourg váránál hideg szél fúj a tóról, ami a látogatást különösen történelmivé teszi. Brocéliande varázslatos a téli ködben. A nap a kivilágított város panorámájával zárul a korai sötétségben.",
+            "ro": "Începeți cu o plimbare caldă prin Rennes-ul de iarnă. Drumul spre Bécherel trece printr-un peisaj liniștit și înghețat. La castelul Combourg, un vânt rece suflă de pe lac. Brocéliande pare magic în ceața de iarnă. Ziua se încheie cu panorama orașului iluminat în întunericul timpuriu.",
+            "en": "Start with a warm drive through wintery Rennes. The trip to Bécherel leads through a calm, frosty landscape. At Combourg Castle, a cold wind blows from the lake, making the visit feel especially historic. Brocéliande looks magical in the winter mist. The day ends with a panorama of the lit-up city in the early dark."
+          },
+          "stops": [
+            {
+              "name": "Rennes City Center",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um kurze Wege in der Kälte zu haben.",
+                "hu": "Parkoljon központilag, hogy keveset kelljen a hidegben gyalogolnia.",
+                "ro": "Parcați central pentru a merge puțin pe jos prin frig.",
+                "en": "Park centrally to minimize walking time in the cold."
+              }
+            },
+            {
+              "name": "Bécherel",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem der Buch-Cafés auf.",
+                "hu": "Melegedjen fel az egyik könyves kávézóban.",
+                "ro": "Încălziți-vă într-una dintre cafenelele cu cărți.",
+                "en": "Warm up in one of the book cafes."
+              }
+            },
+            {
+              "name": "Combourg Castle",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, das Schlossgemäuer ist kühl.",
+                "hu": "Öltözzön melegen, a vár falai hidegek.",
+                "ro": "Îmbrăcați-vă gros, pereții castelului sunt reci.",
+                "en": "Dress warmly, the castle walls are chilly."
+              }
+            },
+            {
+              "name": "Brocéliande Forest",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung im Wald beachten, rechtzeitig zurückkehren.",
+                "hu": "Figyeljen a korai szürkületre az erdőben, térjen vissza időben.",
+                "ro": "Atenție la amurgul timpuriu în pădure, reveniți la timp.",
+                "en": "Note the early dusk in the forest, return in time."
+              }
+            },
+            {
+              "name": "Rennes Sunset Panorama",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Stadtlichter ab 17:30 Uhr zu sehen.",
+                "hu": "Tökéletes hely a város fényeinek megtekintésére 17:30-tól.",
+                "ro": "Locul perfect pentru a vedea luminile orașului de la 17:30.",
+                "en": "Perfect spot to see the city lights starting from 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel in der Scheibenwaschanlage ist.",
+              "Die Straßen im Hinterland können morgens überfrieren.",
+              "Nehmen Sie warme Getränke in einer Thermoskanne mit für die Waldstopps.",
+              "Schlösser und Museen haben im Winter oft verkürzte Öffnungszeiten.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit zwischen den Stopps."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló az ablakmosó folyadékban.",
+              "A vidéki utak reggelente jegesek lehetnek.",
+              "Vigyen magával meleg italokat termoszban az erdei megállókhoz.",
+              "A várak és múzeumok télen gyakran rövidített nyitvatartással üzemelnek.",
+              "Használja az ülésfűtést a maximális kényelem érdekében a megállók között."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Drumurile din mediul rural pot fi înghețate dimineața.",
+              "Luați băuturi calde într-un termos pentru opririle în pădure.",
+              "Castelele și muzeele au adesea program redus în timpul iernii.",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri."
+            ],
+            "en": [
+              "Make sure you have anti-freeze in your windshield washer fluid.",
+              "Rural roads can be icy in the mornings.",
+              "Take warm drinks in a thermos for the forest stops.",
+              "Castles and museums often have shorter opening hours in winter.",
+              "Use seat heating for maximum comfort between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1094,34 +2314,395 @@
           "Rennes has two metro lines (A and B).",
           "The metro is fully automatic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Metrosystem von Rennes. Beginnen Sie am hochmodernen Bahnhof und spazieren Sie zu den Champs Libres für eine Dosis Kultur.\n\nMittags bringt Sie die Metro A schnell zum Place de la Mairie. Bewundern Sie die Architektur, bevor Sie zum historischen Zentrum bei Sainte-Anne weiterfahren.\n\nDer Nachmittag führt Sie in den Süden zum Ecomusée de la Bintinais (mit Bus oder Metro), um die Geschichte der bretonischen Landwirtschaft zu entdecken.\n\nBeenden Sie Ihren Tag im Parc de Bréquigny, bevor Sie bequem mit dem Bus zurück ins lebhafte Stadtzentrum fahren.",
+            "hu": "Használja Rennes hatékony metrórendszerét. Kezdjen a szupermodern vasútállomáson, majd sétáljon át a Champs Libres-hez egy kis kultúráért.\n\nDélben az A metró gyorsan elviszi a Városháza térre. Csodálja meg az építészetet, mielőtt továbbmenne a Szent Anna tér történelmi központjába.\n\nA délután délre vezet a Bintinais ökomúzeumhoz (busszal vagy metróval), hogy felfedezze a breton mezőgazdaság történetét.\n\nZárja a napot a Bréquigny parkban, mielőtt kényelmesen visszabuszozna a nyüzsgő városközpontba.",
+            "ro": "Utilizați sistemul eficient de metrou din Rennes. Începeți la gara ultramodernă și mergeți la Champs Libres pentru o doză de cultură.\n\nLa prânz, metroul A vă duce rapid la Piața Primăriei. Admirați arhitectura înainte de a continua spre centrul istoric de la Sainte-Anne.\n\nDupă-amiaza vă duce în sud la Ecomuzeul Bintinais (cu autobuzul sau metroul) pentru a descoperi istoria agriculturii bretone.\n\nÎncheiați ziua în Parcul Bréquigny înainte de a vă întoarce confortabil cu autobuzul în centrul plin de viață al orașului.",
+            "en": "Use Rennes' efficient metro system. Start at the ultra-modern railway station and walk to Champs Libres for a dose of culture.\n\nAt midday, metro line A quickly takes you to City Hall Square. Admire the architecture before heading to the historical center at Sainte-Anne.\n\nThe afternoon takes you south to the Ecomuseum of La Bintinais (by bus or metro) to discover the history of Breton agriculture.\n\nEnd your day in Bréquigny Park before taking a convenient bus back to the lively city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Rennes",
+                "hu": "Rennes vasútállomás",
+                "ro": "Gara din Rennes",
+                "en": "Rennes Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Ein architektonisches Highlight der Moderne.",
+                "hu": "A modern építészet egyik kiemelkedő darabja.",
+                "ro": "Un punct de reper al arhitecturii moderne.",
+                "en": "An architectural highlight of modernity."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Champs Libres",
+                "hu": "Les Champs Libres",
+                "ro": "Les Champs Libres",
+                "en": "Les Champs Libres"
+              },
+              "tip_5lang": {
+                "de": "Kulturzentrum mit Bibliothek und Museum.",
+                "hu": "Kulturális központ könyvtárral és múzeummal.",
+                "ro": "Centru cultural cu bibliotecă și muzeu.",
+                "en": "Cultural center with library and museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la Mairie",
+                "hu": "Városháza tér",
+                "ro": "Piața Primăriei",
+                "en": "City Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Oper gegenüber dem Rathaus.",
+                "hu": "Nézze meg az Operát a városházával szemben.",
+                "ro": "Vedeți Opera vis-à-vis de primărie.",
+                "en": "See the Opera opposite the City Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Sainte-Anne",
+                "hu": "Szent Anna tér",
+                "ro": "Piața Sfânta Ana",
+                "en": "Place Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Herz des studentischen Lebens.",
+                "hu": "Az egyetemi élet szíve.",
+                "ro": "Inima vieții studențești.",
+                "en": "Heart of student life."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomusée de la Bintinais",
+                "hu": "Bintinais ökomúzeum",
+                "ro": "Ecomuzeul Bintinais",
+                "en": "Ecomuseum of La Bintinais"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie alles über das ländliche Leben.",
+                "hu": "Tudjon meg mindent a vidéki életről.",
+                "ro": "Aflați totul despre viața rurală.",
+                "en": "Learn everything about rural life."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Bréquigny",
+                "hu": "Bréquigny park",
+                "ro": "Parcul Bréquigny",
+                "en": "Bréquigny Park"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stadtpark im Süden.",
+                "hu": "Egy modern városi park délen.",
+                "ro": "Un parc urban modern în sud.",
+                "en": "A modern city park in the south."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le 4B",
+                "tip": "Restaurant im Kulturzentrum Champs Libres."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le 4B",
+                "tip": "Étterem a Champs Libres kulturális központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le 4B",
+                "tip": "Restaurant în centrul cultural Champs Libres."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le 4B",
+                "tip": "Restaurant in the Champs Libres cultural center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bibliothek der Champs Libres",
+                "tip": "Stille mit Blick auf die Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Champs Libres könyvtár",
+                "tip": "Csend és kilátás a városra.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biblioteca Champs Libres",
+                "tip": "Liniște cu vedere la oraș.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Champs Libres Library",
+                "tip": "Quiet with a view over the city.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Colombia Einkaufszentrum",
+                "tip": "Großes Einkaufszentrum in Bahnhofsnähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Colombia bevásárlóközpont",
+                "tip": "Nagy pláza az állomás közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Colombia",
+                "tip": "Centru comercial mare lângă gară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Colombia Shopping Center",
+                "tip": "Large mall near the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Tageskarte für Bus und Metro.",
+              "Rennes hat zwei Metrolinien (A und B).",
+              "Die Metro ist vollautomatisch."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra és metróra.",
+              "Rennes-nek két metróvonala van (A és B).",
+              "A metró teljesen automata."
+            ],
+            "ro": [
+              "Cumpărați un abonament de o zi pentru autobuz și metrou.",
+              "Rennes are două linii de metrou (A și B).",
+              "Metroul este complet automat."
+            ],
+            "en": [
+              "Buy a day pass for bus and metro.",
+              "Rennes has two metro lines (A and B).",
+              "The metro is fully automatic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Metro, um trocken vom Bahnhof zum Les Champs Libres zu gelangen. Den Nachmittag verbringen Sie im weitläufigen Ecomuseum, das gut per Bus erreichbar ist. Die moderne Architektur von Rennes bietet an den Metrostationen oft guten Schutz. Beenden Sie den Tag im Bréquigny-Park, falls der Regen nachlässt, oder bleiben Sie in den Cafés der Innenstadt.",
+            "hu": "Használja a metrót, hogy szárazon jusson el az állomástól a Les Champs Libres-hez. A délutánt töltse a tágas Ökomúzeumban, amely busszal könnyen elérhető. Rennes modern építészete a metróállomásoknál gyakran jó védelmet nyújt. A napot a Bréquigny parkban zárja, ha eláll az eső, vagy maradjon a belvárosi kávézókban.",
+            "ro": "Folosiți metroul pentru a ajunge la uscat de la gară la Les Champs Libres. Petreceți după-amiaza la Ecomuzeul din La Bintinais, ușor accesibil cu autobuzul. Arhitectura modernă a stațiilor de metrou oferă adăpost bun. Încheiați ziua în parcul Bréquigny dacă ploaia se oprește.",
+            "en": "Use the metro to get from the station to Les Champs Libres while staying dry. Spend the afternoon at the spacious Ecomuseum, easily accessible by bus. Rennes' modern architecture often provides good shelter at metro stations. End the day in Bréquigny Park if the rain lets up, or stay in the city center cafes."
+          },
+          "stops": [
+            {
+              "name": "Rennes Railway Station",
+              "tip_5lang": {
+                "de": "Die Metrostation befindet sich direkt unter dem Bahnhof.",
+                "hu": "A metróállomás közvetlenül a vasútállomás alatt található.",
+                "ro": "Stația de metrou se află direct sub gară.",
+                "en": "The metro station is located directly under the railway station."
+              }
+            },
+            {
+              "name": "Les Champs Libres",
+              "tip_5lang": {
+                "de": "Direkt neben der Metrostation Charles de Gaulle, kaum Fußweg.",
+                "hu": "Közvetlenül a Charles de Gaulle metróállomás mellett, alig kell gyalogolni.",
+                "ro": "Lângă stația de metrou Charles de Gaulle, foarte puțin de mers pe jos.",
+                "en": "Right next to Charles de Gaulle metro station, very little walking."
+              }
+            },
+            {
+              "name": "City Hall Square",
+              "tip_5lang": {
+                "de": "Die Arkaden in der Nähe bieten Schutz beim Warten auf den Bus.",
+                "hu": "A közelben lévő árkádok védelmet nyújtanak a buszra várás közben.",
+                "ro": "Arcadele din apropiere oferă adăpost în timp ce așteptați autobuzul.",
+                "en": "Nearby arcades provide shelter while waiting for the bus."
+              }
+            },
+            {
+              "name": "Place Sainte-Anne",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit vielen überdachten Bereichen.",
+                "hu": "Központi átszállási pont sok fedett területtel.",
+                "ro": "Punct central de transfer cu multe zone acoperite.",
+                "en": "Central transfer point with many covered areas."
+              }
+            },
+            {
+              "name": "Ecomuseum of La Bintinais",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den alten Bauernhofgebäuden.",
+                "hu": "Látogassa meg a kiállításokat a régi tanyasi épületekben.",
+                "ro": "Vizitați expozițiile din clădirile vechi ale fermei.",
+                "en": "Visit the exhibitions inside the old farmhouse buildings."
+              }
+            },
+            {
+              "name": "Bréquigny Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hat einen Warteunterstand gegen Regen.",
+                "hu": "A buszmegálló rendelkezik eső elleni váróval.",
+                "ro": "Stația de autobuz are un adăpost împotriva ploii.",
+                "en": "The bus stop has a shelter against the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket in der STAR-App, um Automaten im Regen zu vermeiden.",
+              "Die Metro Linien A und B sind vollautomatisch und fahren sehr häufig.",
+              "Nutzen Sie die Echtzeit-App, um Wartezeiten an ungeschützten Haltestellen zu minimieren.",
+              "Viele Busse haben Klimaanlagen, die auch die Luft entfeuchten.",
+              "Die Station Sainte-Anne ist architektonisch beeindruckend und trocken."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a STAR alkalmazásban, hogy elkerülje az automatákat az esőben.",
+              "Az A és B metróvonalak teljesen automatizáltak és nagyon gyakran járnak.",
+              "Használja a valós idejű alkalmazást, hogy minimalizálja a várakozást a nyitott megállókban.",
+              "Sok busz rendelkezik légkondicionálóval, ami párátlanítja is a levegőt.",
+              "A Sainte-Anne állomás építészetileg lenyűgöző és teljesen száraz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi prin aplicația STAR pentru a evita automatele pe ploaie.",
+              "Liniile de metrou A și B sunt complet automate și circulă foarte frecvent.",
+              "Folosiți aplicația în timp real pentru a minimiza așteptarea în stații neprotejate.",
+              "Multe autobuze au aer condiționat care dezumidifică și aerul.",
+              "Stația Sainte-Anne este impresionantă arhitectural și ferită de ploaie."
+            ],
+            "en": [
+              "Buy a day pass in the STAR app to avoid using ticket machines in the rain.",
+              "Metro lines A and B are fully automated and run very frequently.",
+              "Use the real-time app to minimize waiting at unsheltered stops.",
+              "Many buses have air conditioning that also dehumidifies the air.",
+              "Sainte-Anne station is architecturally impressive and completely dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start im modernen Bahnhof von Rennes. Die Fahrt mit der Metro zu Les Champs Libres ist kurz und komfortabel. Besuchen Sie das Ecomuseum am Nachmittag, um mehr über das ländliche Leben im Winter zu erfahren. Der Bréquigny-Park wirkt in der Abenddämmerung friedlich, bevor Sie mit dem Bus zurück in die beleuchtete Innenstadt fahren.",
+            "hu": "Meleg kezdés Rennes modern vasútállomásán. A metróút a Les Champs Libres-hez rövid és kényelmes. Látogassa meg az Ökomúzeumot délután, hogy megismerje a téli vidéki életet. A Bréquigny park békés az esti szürkületben, mielőtt busszal visszatérne a kivilágított belvárosba.",
+            "ro": "Un început călduros în gara modernă din Rennes. Călătoria cu metroul spre Les Champs Libres este scurtă și confortabilă. Vizitați Ecomuzeul după-amiaza pentru a afla despre viața rurală iarna. Parcul Bréquigny pare liniștit în amurg, înainte de a reveni cu autobuzul în centru.",
+            "en": "A warm start at the modern Rennes station. The metro ride to Les Champs Libres is short and comfortable. Visit the Ecomuseum in the afternoon to learn about rural life in winter. Bréquigny Park feels peaceful in the evening dusk before you take the bus back to the brightly lit city center."
+          },
+          "stops": [
+            {
+              "name": "Rennes Railway Station",
+              "tip_5lang": {
+                "de": "Im Bahnhof gibt es viele beheizte Wartebereiche.",
+                "hu": "Az állomáson sok fűtött váróhelyiség található.",
+                "ro": "În gară există multe zone de așteptare încălzite.",
+                "en": "There are many heated waiting areas inside the station."
+              }
+            },
+            {
+              "name": "Les Champs Libres",
+              "tip_5lang": {
+                "de": "Die Bibliothek bietet gemütliche Sessel zum Aufwärmen.",
+                "hu": "A könyvtár kényelmes foteleket kínál a melegedéshez.",
+                "ro": "Biblioteca oferă fotolii confortabile pentru a vă încălzi.",
+                "en": "The library offers comfortable armchairs to warm up."
+              }
+            },
+            {
+              "name": "City Hall Square",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung hier ist im Winter besonders schön.",
+                "hu": "Az ünnepi kivilágítás itt különösen szép télen.",
+                "ro": "Iluminatul festiv de aici este deosebit de frumos iarna.",
+                "en": "The festive lighting here is particularly beautiful in winter."
+              }
+            },
+            {
+              "name": "Place Sainte-Anne",
+              "tip_5lang": {
+                "de": "Holen Sie sich eine heiße Schokolade in einem der Cafés.",
+                "hu": "Igyon egy forró csokoládét az egyik kávézóban.",
+                "ro": "Luați o ciocolată caldă într-una dintre cafenele.",
+                "en": "Grab a hot chocolate in one of the cafes."
+              }
+            },
+            {
+              "name": "Ecomuseum of La Bintinais",
+              "tip_5lang": {
+                "de": "Im Winter sind oft weniger Tiere draußen zu sehen.",
+                "hu": "Télen gyakran kevesebb állat látható a szabadban.",
+                "ro": "Iarna, adesea se văd mai puține animale afară.",
+                "en": "Fewer animals are often visible outside during winter."
+              }
+            },
+            {
+              "name": "Bréquigny Park",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Spaziergang in der Wintersonne.",
+                "hu": "Szép hely egy rövid sétához a téli napsütésben.",
+                "ro": "Un loc frumos pentru o scurtă plimbare în soarele de iarnă.",
+                "en": "A nice place for a short walk in the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrostationen sind im Winter deutlich wärmer als Bushaltestellen.",
+              "Nutzen Sie die Abendstunden für Fahrten mit der Metro, um Lichter zu sehen.",
+              "Das Ecomuseum hat im Winter eingeschränkte Außenbereiche.",
+              "Achten Sie auf die kürzeren Taktzeiten der Busse am späten Abend.",
+              "Die STAR-Karte kann auch für die Parkhäuser an den Metrostationen genutzt werden."
+            ],
+            "hu": [
+              "A metróállomások télen jóval melegebbek, mint a buszmegállók.",
+              "Használja az esti órákat metrózásra, hogy lássa a város fényeit.",
+              "Az Ökomúzeumnak télen korlátozottabbak a kültéri részei.",
+              "Ügyeljen a buszok ritkább menetrendjére késő este.",
+              "A STAR kártya a metróállomások melletti parkolóházakhoz is használható."
+            ],
+            "ro": [
+              "Stațiile de metrou sunt mult mai calde iarna decât stațiile de autobuz.",
+              "Folosiți orele serii pentru călătorii cu metroul pentru a vedea luminile.",
+              "Ecomuzeul are zone exterioare mai limitate în timpul iernii.",
+              "Atenție la frecvența redusă a autobuzelor târziu seara.",
+              "Cardul STAR poate fi folosit și pentru parcările de la stațiile de metrou."
+            ],
+            "en": [
+              "Metro stations are significantly warmer than bus stops in winter.",
+              "Use the evening hours for metro rides to see the city lights.",
+              "The Ecomuseum has more limited outdoor areas during winter.",
+              "Watch out for the reduced bus frequency late in the evening.",
+              "The STAR card can also be used for the parking garages at metro stations."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
-    "tourism_office": "https://www.tourisme-rennes.com/en/",
-    "events": "https://www.tourisme-rennes.com/en/",
-    "city_card": "",
-    "museum_tickets": "https://mba.rennes.fr/",
-    "transit_official": "https://www.star.fr/",
-    "language_tips": {
-      "de": "Rennes ist Bretagne-Hauptstadt und Studentenstadt, Englisch klappt fast ueberall im Zentrum. Im Markt Marche des Lices (Samstag), in den alten Pubs der Rue Saint-Michel ('Rue de la Soif') und in Creperien gehoert ein 'bonjour' und 'merci' zum Stil.",
-      "hu": "Rennes Bretagne fovaros es egyetemi varos, az angol majdnem mindenhol megy a kozpontban. A Marche des Lices szombati piacon, a Rue Saint-Michel ('Rue de la Soif') regi kocsmaiban es creperie-kben a 'bonjour' es 'merci' alapveto.",
-      "ro": "Rennes e capitala Bretaniei si oras studentesc, engleza merge aproape peste tot in centru. La piata de sambata Marche des Lices, in pub-urile vechi din Rue Saint-Michel ('Rue de la Soif') si in creperii, 'bonjour' si 'merci' sunt standard.",
-      "en": "Rennes is the Breton capital and a student city; English works almost everywhere in the centre. At Saturday's Marche des Lices, in the old pubs on Rue Saint-Michel ('Rue de la Soif') and in creperies, 'bonjour' and 'merci' are the style."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September ist ideal: 16-23 Grad, lange Tage und Festivals (Tombees de la Nuit im Juli, Trans Musicales im Dezember). Marche des Lices an Samstagvormittagen ist Pflicht. Winter ist regnerisch und mild, Studentenleben aktiv.",
-      "hu": "Majus-szeptember a legjobb: 16-23 fok, hosszu napok, fesztivalok (Tombees de la Nuit juliusban, Trans Musicales decemberben). A Marche des Lices szombat reggeli piac kotelezo. Telen esos es enyhe, az egyetemi elet aktiv.",
-      "ro": "Mai-septembrie e ideal: 16-23 grade, zile lungi si festivaluri (Tombees de la Nuit in iulie, Trans Musicales in decembrie). Piata Marche des Lices sambata dimineata e obligatorie. Iarna e ploioasa si blanda, viata studenteasca activa.",
-      "en": "May to September is ideal: 16-23°C, long days and festivals (Tombees de la Nuit in July, Trans Musicales in December). Saturday morning Marche des Lices is a must. Winter is rainy and mild with active student life."
-    },
-    "neighborhood_warnings": {
-      "de": "Zentrum, Vieux Rennes und Rue Saint-Michel sind sicher und lebhaft (sehr laut am Donnerstag-Studentenabend). Le Blosne und Maurepas (aussere Stadtteile) sind nicht touristisch. Bahnhof abends ok aber wachsam.",
-      "hu": "Kozpont, Vieux Rennes es Rue Saint-Michel biztonsagos es elven (csutortok esti egyetemi parti nagyon hangos). Le Blosne es Maurepas (kulso kerulet) nem turista terulet. Palyaudvar estere ok, de eberseg.",
-      "ro": "Centrul, Vieux Rennes si Rue Saint-Michel sunt sigure si vii (foarte galagioase joi seara studenteasca). Le Blosne si Maurepas (cartiere periferice) nu sunt zone turistice. Gara seara e ok, dar fii vigilent.",
-      "en": "Centre, Vieux Rennes and Rue Saint-Michel are safe and lively (very loud on Thursday student nights). Le Blosne and Maurepas (outer districts) aren't tourist areas. Station is fine at night with care."
-    },
-    "parking_real_time": ""
   }
 }

@@ -356,6 +356,479 @@
           "Casual chic is the appropriate dress code for the town.",
           "The beach gets very busy during high season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem lebhaften Markt, wo Sie lokale Köstlichkeiten und das berühmte Guérande-Salz finden. Ein kurzer Spaziergang führt Sie durch die Avenue de Gaulle, das Herz des eleganten Einkaufsviertels der Stadt.\n\nMittags erwartet Sie der 9 Kilometer lange Sandstrand, einer der schönsten Europas. Genießen Sie die Sonne und das entspannte Treiben unter den ikonischen Sonnenschirmen.\n\nNach einem ausgiebigen Mittagessen mit Meeresfrüchten direkt am Wasser schlendern wir entlang der Promenade zum prachtvollen Casino, einem Symbol für den Glanz der Belle Époque.\n\nDen Nachmittag lassen wir kulturell in der Kapelle Sainte-Anne ausklingen, bevor wir den Tag mit einem Blick auf die Villen der Pinienwälder beenden.",
+            "hu": "Kezdje a napot a nyüzsgő piacon, ahol helyi finomságokat és a híres guérande-i sót is megtalálja. Egy rövid séta elvezeti az Avenue de Gaulle-ra, a város elegáns bevásárlónegyedének szívébe.\n\nDélben várja Önt a 9 kilométer hosszú homokos strand, Európa egyik legszebbje. Élvezze a napsütést és a pihentető nyüzsgést az ikonikus napernyők alatt.\n\nEgy bőséges, közvetlenül a vízparton elfogyasztott tengeri ebéd után végigsétálunk a sétányon a pompás Kaszinóig, amely a Belle Époque csillogásának jelképe.\n\nA délutánt kulturális élménnyel zárjuk a Szent Anna kápolnában, majd a napot a fenyvesek villái közötti sétával fejezzük be.",
+            "ro": "Începeți ziua în piața plină de viață, unde veți găsi delicii locale și faimoasa sare de Guérande. O scurtă plimbare vă duce pe Avenue de Gaulle, inima zonei comerciale elegante a orașului.\n\nLa prânz, vă așteaptă plaja cu nisip lungă de 9 kilometri, una dintre cele mai frumoase din Europa. Bucurați-vă de soare și de atmosfera relaxată sub umbrelele iconice.\n\nDupă un prânz copios cu fructe de mare chiar pe malul apei, ne plimbăm de-a lungul promenadei până la splendidul Cazinou, un simbol al strălucirii din Belle Époque.\n\nÎncheiem după-amiaza cultural la Capela Sainte-Anne, înainte de a finaliza ziua cu o privire asupra vilelor ascunse în pădurea de pini.",
+            "en": "Start your day at the lively market, where you can find local delicacies and the famous Guérande salt. A short walk takes you to Avenue de Gaulle, the heart of the city's elegant shopping district.\n\nAt midday, the 9-kilometer long sandy beach awaits, one of the most beautiful in Europe. Enjoy the sun and the relaxing buzz under the iconic beach umbrellas.\n\nAfter a hearty seafood lunch right by the water, we stroll along the promenade to the magnificent Casino, a symbol of Belle Époque glamour.\n\nWe end the afternoon with a cultural touch at Chapelle Sainte-Anne, before finishing the day by admiring the villas nestled in the pine woods."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Markt von La Baule",
+                "hu": "La Baule piaca",
+                "ro": "Piața din La Baule",
+                "en": "La Baule Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Kouign-amann Kuchen.",
+                "hu": "Kóstolja meg a helyi Kouign-amann süteményt.",
+                "ro": "Gustați prăjitura locală Kouign-amann.",
+                "en": "Try the local Kouign-amann cake."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue du Général de Gaulle",
+                "hu": "Avenue de Gaulle sugárút",
+                "ro": "Bulevardul de Gaulle",
+                "en": "Avenue de Gaulle"
+              },
+              "tip_5lang": {
+                "de": "Die schickste Einkaufsstraße der Stadt.",
+                "hu": "A város legelegánsabb bevásárlóutcája.",
+                "ro": "Cea mai elegantă stradă de shopping.",
+                "en": "The chicest shopping street in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von La Baule",
+                "hu": "La Baule-i strand",
+                "ro": "Plaja La Baule",
+                "en": "La Baule Beach"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie eine der blau-weiß gestreiften Strandkabinen.",
+                "hu": "Béreljen egyet a kék-fehér csíkos strandkabinokból.",
+                "ro": "Închiriați o cabină de plajă cu dungi albastre.",
+                "en": "Rent one of the blue and white striped beach cabins."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen am Meer",
+                "hu": "Tengerparti ebéd",
+                "ro": "Prânz pe malul mării",
+                "en": "Seaside Lunch"
+              },
+              "tip_5lang": {
+                "de": "Frische Muscheln mit Pommes sind ein Muss.",
+                "hu": "A friss kagyló sült krumplival kötelező.",
+                "ro": "Scoicile proaspete cu cartofi prăjiți sunt obligatorii.",
+                "en": "Fresh mussels with fries are a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino Barrière",
+                "hu": "Barrière Kaszinó",
+                "ro": "Cazinoul Barrière",
+                "en": "Casino Barrière"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Gebäude im Belle-Époque-Stil.",
+                "hu": "Pompás épület Belle-Époque stílusban.",
+                "ro": "O clădire splendidă în stil Belle-Époque.",
+                "en": "A magnificent building in Belle-Époque style."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Szent Anna kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Oft finden hier schöne Kunstausstellungen statt.",
+                "hu": "Gyakran rendeznek itt szép művészeti kiállításokat.",
+                "ro": "Aici se organizează des expoziții de artă.",
+                "en": "Beautiful art exhibitions are often held here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Plateau de Fruits de Mer",
+                "tip": "Frische Meeresfrüchte direkt am Strand bei 'Les Albatros'."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Ein buttriger bretonischer Kuchen vom Markt."
+              },
+              {
+                "name": "Crêpes & Galettes",
+                "tip": "Traditionelle Buchweizenpfannkuchen in der 'Crêperie du Derwin'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tenger gyümölcsei tál",
+                "tip": "Friss tengeri herkenyűk a 'Les Albatros' teraszán."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "Vajas breton sütemény a helyi piacról."
+              },
+              {
+                "name": "Crêpes és Galettes",
+                "tip": "Hagyományos hajdina palacsinta a 'Crêperie du Derwin'-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Platou cu fructe de mare",
+                "tip": "Fructe de mare proaspete pe malul mării la 'Les Albatros'."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "O prăjitură bretonă cu unt de la piață."
+              },
+              {
+                "name": "Crêpes & Galettes",
+                "tip": "Clătite tradiționale din hrișcă la 'Crêperie du Derwin'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seafood Platter",
+                "tip": "Fresh seafood right on the beach at 'Les Albatros'."
+              },
+              {
+                "name": "Kouign-amann",
+                "tip": "A buttery Breton cake from the local market."
+              },
+              {
+                "name": "Crêpes & Galettes",
+                "tip": "Traditional buckwheat pancakes at 'Crêperie du Derwin'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Forêt d'Escoublac",
+                "tip": "Ein ruhiger Pinienwald zum Wandern.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Parc des Dryades",
+                "tip": "Ein friedlicher Park mit einem Amphitheater.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Sonnenuntergang am Strand",
+                "tip": "Romantischer Abendspaziergang am Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Forêt d'Escoublac",
+                "tip": "Csendes fenyőerdő túrázáshoz.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Parc des Dryades",
+                "tip": "Békés park amfiteátrummal.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Naplemente a strandon",
+                "tip": "Romantikus esti séta a vízparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea Escoublac",
+                "tip": "O pădure de pini liniștită pentru drumeții.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Parcul Dryades",
+                "tip": "Un parc liniștit cu un amfiteatru.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Apus pe plajă",
+                "tip": "Plimbare romantică de seară pe malul apei.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Escoublac Forest",
+                "tip": "A quiet pine forest for hiking.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Dryades Park",
+                "tip": "A peaceful park with an amphitheater.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Sunset on the beach",
+                "tip": "Romantic evening walk by the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché de La Baule",
+                "tip": "Lokale Produkte und Kleidung."
+              },
+              {
+                "name": "Avenue de Gaulle",
+                "tip": "Luxusmarken und kleine Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Baule-i piac",
+                "tip": "Helyi termékek és ruházati cikkek."
+              },
+              {
+                "name": "Avenue de Gaulle",
+                "tip": "Luxusmárkák és kis butikok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața La Baule",
+                "tip": "Produse locale și îmbrăcăminte."
+              },
+              {
+                "name": "Bulevardul de Gaulle",
+                "tip": "Branduri de lux și buticuri mici."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Baule Market",
+                "tip": "Local products and clothing."
+              },
+              {
+                "name": "Avenue de Gaulle",
+                "tip": "Luxury brands and small boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für den Strandspaziergang.",
+              "Der Markt ist morgens am besten besucht.",
+              "Casual Chic ist der passende Kleidungsstil für die Stadt.",
+              "In der Hochsaison ist der Strand sehr belebt."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a tengerparti sétához.",
+              "A piac reggel a legélénkebb.",
+              "A 'casual chic' a legmegfelelőbb öltözködési stílus.",
+              "Főszezonban a strand nagyon zsúfolt lehet."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru plimbarea pe plajă.",
+              "Piața este cea mai animată dimineața.",
+              "Stilul 'casual chic' este cel mai potrivit pentru oraș.",
+              "În plin sezon, plaja este foarte aglomerată."
+            ],
+            "en": [
+              "Wear comfortable shoes for the beach walk.",
+              "The market is best visited in the morning.",
+              "Casual chic is the appropriate dress code for the town.",
+              "The beach gets very busy during high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Markthalle von La Baule, die idealen Schutz vor dem Regen bietet. Schlendern Sie anschließend durch die Boutiquen der Avenue de Gaulle, wo Markisen die Gehwege teilweise trocken halten.\n\nZum Mittagessen ziehen Sie sich in ein gemütliches Restaurant mit Meerblick zurück, um den stürmischen Atlantik aus der Ferne zu beobachten. Die salzige Luft ist auch bei Regen erfrischend.\n\nAm Nachmittag bietet das Casino Barrière eine elegante Zuflucht im Trockenen. Beenden Sie den Tag mit einem kurzen, geschützten Besuch der Chapelle Sainte-Anne.\n\nAbends genießen Sie die beleuchteten Straßen, während sich die Lichter in den Pfützen auf der Promenade spiegeln. Ein Regenschirm ist Ihr bester Begleiter.",
+            "hu": "Kezdje a napot a La Baule-i piaccsarnokban, amely tökéletes fedezéket nyújt az eső elől. Ezután sétáljon az Avenue de Gaulle üzletei között, ahol a boltok előtetői részben szárazon tartják az utat.\n\nEbédidőben keressen egy meghitt, tengerre néző éttermet, és figyelje a távolból a viharos Atlanti-óceánt. A sós levegő esőben is frissítő.\n\nDélután a Casino Barrière nyújt elegáns és száraz menedéket a játékok világában. A napot a Sainte-Anne kápolna rövid, védett látogatásával zárja.\n\nEste csodálja meg a kivilágított utcákat, ahogy a fények visszatükröződnek a sétány tócsáiban. Egy jó esernyő elengedhetetlen kellék.",
+            "ro": "Începeți ziua în hala pieței din La Baule, care oferă adăpostul ideal împotriva ploii. Apoi, plimbați-vă printre buticurile de pe Avenue de Gaulle, unde copertinele magazinelor mențin trotuarele parțial uscate.\n\nLa prânz, retrageți-vă într-un restaurant primitor cu vedere la mare pentru a observa Atlanticul învolburat de la distanță. Aerul sărat este revigorant chiar și pe ploaie.\n\nDupă-amiaza, Casino Barrière oferă un refugiu elegant la adăpost. Încheiați ziua cu o scurtă vizită protejată la Capela Sainte-Anne.\n\nSeara, bucurați-vă de străzile iluminate, în timp ce luminile se reflectă în bălțile de pe faleză. O umbrelă este cel mai bun companion.",
+            "en": "Start your day in the La Baule market hall, providing ideal shelter from the rain. Then, stroll through the boutiques of Avenue de Gaulle, where store awnings keep the sidewalks partially dry.\n\nAt lunchtime, retreat to a cozy seaside restaurant to watch the stormy Atlantic from a distance. The salty air is refreshing even in the rain.\n\nIn the afternoon, the Casino Barrière offers an elegant indoor escape. End the day with a brief, sheltered visit to the Sainte-Anne Chapel.\n\nIn the evening, enjoy the illuminated streets as the lights reflect in the puddles on the promenade. A sturdy umbrella is your best companion."
+          },
+          "stops": [
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Die Markthalle ist komplett überdacht und perfekt für regnerische Morgen.",
+                "hu": "A piaccsarnok teljesen fedett, így ideális esős reggeleken.",
+                "ro": "Hala pieței este complet acoperită și perfectă pentru diminețile ploioase.",
+                "en": "The market hall is fully covered and perfect for rainy mornings."
+              }
+            },
+            {
+              "name": "Avenue de Gaulle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte als Regenschutz beim Schaufensterbummel.",
+                "hu": "Használja az üzletek előtetőit esővédőként a kirakatnézegetés közben.",
+                "ro": "Folosiți copertinele magazinelor ca protecție împotriva ploii în timp ce admirați vitrinele.",
+                "en": "Use the shop awnings as rain protection while window shopping."
+              }
+            },
+            {
+              "name": "La Baule Beach",
+              "tip_5lang": {
+                "de": "Ein windfester Regenmantel ist hier wegen der Gischt wichtiger als ein Schirm.",
+                "hu": "A szélálló esőkabát itt fontosabb az ernyőnél a kicsapó hullámok miatt.",
+                "ro": "O pelerină de ploaie rezistentă la vânt este mai utilă aici decât o umbrelă.",
+                "en": "A windproof raincoat is more essential here than an umbrella due to sea spray."
+              }
+            },
+            {
+              "name": "Seaside Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um die Wellen im Trockenen zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, hogy szárazon figyelhesse a hullámokat.",
+                "ro": "Alegeți o masă la fereastră pentru a observa valurile stând la căldură.",
+                "en": "Choose a window seat to watch the waves while staying dry inside."
+              }
+            },
+            {
+              "name": "Casino Barrière",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um mehrere Stunden im exklusiven Ambiente trocken zu bleiben.",
+                "hu": "Tökéletes helyszín, hogy órákig szárazon maradjon exkluzív környezetben.",
+                "ro": "Locul perfect pentru a rămâne uscat timp de câteva ore într-o ambianță exclusivistă.",
+                "en": "A perfect spot to stay dry for several hours in an exclusive atmosphere."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Anne",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren bietet eine besinnliche Pause vom prasselnden Regen.",
+                "hu": "A belső nyugalom meghitt pihenőt nyújt a kopogó eső elől.",
+                "ro": "Liniștea din interior oferă o pauză meditativă de la ploaia torențială.",
+                "en": "The interior peace offers a contemplative break from the pattering rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Promenade große Pfützen bilden können.",
+              "Die Markthalle schließt gegen 13:00 Uhr, nutzen Sie sie früh als Zufluchtsort.",
+              "Viele Cafés an der Avenue de Gaulle haben beheizte, überdachte Terrassen.",
+              "Bei starkem Wind meiden Sie den direkten Sandbereich wegen des fliegenden Gischt-Sand-Gemischs."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a sétányon nagyobb tócsák alakulhatnak ki.",
+              "A piaccsarnok 13:00 körül bezár, használja ki korán menedékként.",
+              "Az Avenue de Gaulle számos kávézója rendelkezik fűtött, fedett terasszal.",
+              "Erős szélben kerülje a közvetlen homokos részt a szálló vizes homok miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe faleză se pot forma bălți mari.",
+              "Hala pieței se închide în jur de ora 13:00, folosiți-o devreme ca refugiu.",
+              "Multe cafenele de pe Avenue de Gaulle au terase încălzite și acoperite.",
+              "În caz de vânt puternic, evitați zona de nisip din cauza amestecului de nisip și apă."
+            ],
+            "en": [
+              "Wear waterproof shoes as large puddles can form on the promenade.",
+              "The market hall closes around 1:00 PM; use it early as a rainy retreat.",
+              "Many cafes on Avenue de Gaulle have heated, covered terraces.",
+              "In high winds, avoid the direct sandy area due to flying spray and sand."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterbrise am Morgen auf dem Markt, wo heißer Kaffee und frische Austern locken. Die Stadt ist nun ruhig und gehört den Einheimischen.\n\nMittags bietet die Avenue de Gaulle eine gemütliche Atmosphäre mit winterlicher Dekoration. Ein Spaziergang am leeren Strand wirkt bei klarer Winterluft besonders belebend.\n\nAm Nachmittag, wenn die Sonne bereits gegen 17:00 Uhr tief steht, taucht das goldene Licht die Villen in einen besonderen Glanz. Das Casino bietet Wärme und Unterhaltung.\n\nDer Abend endet friedlich bei der Kapelle. Die winterliche Stille von La Baule hat einen ganz eigenen, vornehmen Charme. Warme Kleidung ist für den Seewind unerlässlich.",
+            "hu": "Tapasztalja meg a friss téli szellőt a reggeli piacon, ahol forró kávé és friss osztriga várja. A város ilyenkor csendes, és a helyieké.\n\nDélben az Avenue de Gaulle meghitt hangulatot áraszt téli dekorációival. Egy séta az üres strandon a tiszta téli levegőben különösen élénkítő hatású.\n\nDélután, amikor a nap már 17:00 körül alacsonyan jár, az aranyló fény különleges ragyogásba vonja a villákat. A kaszinó meleget és szórakozást kínál.\n\nAz este békésen zárul a kápolnánál. La Baule téli csendje egyedi, előkelő bájjal bír. A tengeri szél miatt a meleg réteges öltözködés kötelező.",
+            "ro": "Experimentați briza proaspătă de iarnă dimineața la piață, unde vă așteaptă cafea fierbinte și stridii proaspete. Orașul este acum liniștit și aparține localnicilor.\n\nLa prânz, Avenue de Gaulle oferă o atmosferă primitoare cu decorațiuni de iarnă. O plimbare pe plaja pustie în aerul curat de iarnă este deosebit de revigorantă.\n\nDupă-amiaza, când soarele apune deja în jurul orei 17:00, lumina aurie scaldă vilele într-o strălucire aparte. Cazinoul oferă căldură și divertisment.\n\nSeara se încheie liniștit la capelă. Liniștea de iarnă din La Baule are un farmec nobil și aparte. Hainele groase sunt esențiale pentru vântul marin.",
+            "en": "Experience the crisp winter breeze in the morning at the market, where hot coffee and fresh oysters await. The town is quiet now, belonging to the locals.\n\nAt noon, Avenue de Gaulle offers a cozy atmosphere with winter decorations. A stroll along the empty beach in the clear winter air is particularly invigorating.\n\nIn the afternoon, as the sun sits low by 5:00 PM, the golden light bathes the villas in a special glow. The casino provides warmth and entertainment.\n\nThe evening ends peacefully at the chapel. The winter silence of La Baule has its own sophisticated charm. Warm clothing is essential for the sea wind."
+          },
+          "stops": [
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Spezialitäten und genießen Sie die authentische Winterstimmung.",
+                "hu": "Kóstolja meg a forró specialitásokat, és élvezze az autentikus téli hangulatot.",
+                "ro": "Gustați specialitățile calde și bucurați-vă de atmosfera autentică de iarnă.",
+                "en": "Taste the hot specialties and enjoy the authentic winter atmosphere."
+              }
+            },
+            {
+              "name": "Avenue de Gaulle",
+              "tip_5lang": {
+                "de": "Suchen Sie sich eine Teestube für eine warme Pause auf halbem Weg.",
+                "hu": "Keressen egy teázót egy melegítő pihenőhöz a séta felénél.",
+                "ro": "Căutați o ceainărie pentru o pauză caldă la jumătatea drumului.",
+                "en": "Find a tea room for a warm break halfway through your walk."
+              }
+            },
+            {
+              "name": "La Baule Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Leere; perfekt für klare Winterfotos ohne Touristen.",
+                "hu": "Élvezze a végtelen ürességet; tökéletes téli fotókhoz turisták nélkül.",
+                "ro": "Bucurați-vă de golul imens; perfect pentru fotografii de iarnă fără turiști.",
+                "en": "Enjoy the vast emptiness; perfect for clear winter photos without crowds."
+              }
+            },
+            {
+              "name": "Seaside Lunch",
+              "tip_5lang": {
+                "de": "Wärmen sie sich mit einer traditionellen bretonischen Fischsuppe auf.",
+                "hu": "Melegedjen fel egy hagyományos breton hallevessel.",
+                "ro": "Încălziți-vă cu o supă tradițională de pește bretonă.",
+                "en": "Warm up with a traditional Breton fish soup."
+              }
+            },
+            {
+              "name": "Casino Barrière",
+              "tip_5lang": {
+                "de": "Die prachtvolle Beleuchtung ist im Winter besonders stimmungsvoll.",
+                "hu": "A pompás kivilágítás télen különösen hangulatos.",
+                "ro": "Iluminatul magnific este deosebit de atmosferic în timpul iernii.",
+                "en": "The magnificent lighting is particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "Chapelle Sainte-Anne",
+              "tip_5lang": {
+                "de": "In der frühen Dämmerung wirkt die Kapelle besonders friedlich.",
+                "hu": "A kora esti szürkületben a kápolna különösen békésnek hat.",
+                "ro": "În amurgul timpuriu, capela pare deosebit de liniștită.",
+                "en": "In the early dusk, the chapel feels especially peaceful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember bereits gegen 17:10 Uhr.",
+              "Nutzen Sie die Mittagssonne für den Strandspaziergang, danach wird es schnell kühl.",
+              "Viele kleinere Cafés haben im Winter geänderte (kürzere) Öffnungszeiten.",
+              "Handschuhe und Mütze sind wegen des ständigen Seewinds auf der Promenade Pflicht."
+            ],
+            "hu": [
+              "A naplemente decemberben már 17:10 körül bekövetkezik.",
+              "A déli napsütést használja ki a tengerparti sétára, utána gyorsan hűl a levegő.",
+              "Sok kisebb kávézó télen módosított (rövidebb) nyitvatartással üzemel.",
+              "A kesztyű és sapka a sétányon állandóan fújó tengeri szél miatt kötelező.",
+              "Ilyenkor a legkönnyebb asztalt foglalni a legjobb éttermekben."
+            ],
+            "ro": [
+              "Apusul de soare are loc deja în jurul orei 17:10 în decembrie.",
+              "Profită de soarele de la prânz pentru plimbarea pe plajă, apoi se răcește rapid.",
+              "Multe cafenele mici au program modificat (mai scurt) pe timpul iernii.",
+              "Mănușile și căciula sunt obligatorii din cauza vântului marin constant de pe faleză."
+            ],
+            "en": [
+              "Sunset is as early as 5:10 PM in December.",
+              "Take advantage of the midday sun for your beach walk; it cools down quickly after.",
+              "Many smaller cafes have modified (shorter) opening hours in winter.",
+              "Gloves and a hat are mandatory due to the constant sea wind on the promenade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -634,6 +1107,406 @@
           "Rent an e-bike for longer stretches.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Schwingen Sie sich aufs Rad und erkunden Sie zuerst den schattigen Pinienwald von Escoublac, wo die Wege flach und einladend sind. Weiter geht es zum Parc des Dryades, einer grünen Oase der Ruhe.\n\nMittags radeln wir entlang der gesamten Bucht von La Baule bis zum charmanten Hafen von Le Pouliguen, wo Fischerboote und Yachten nebeneinander schaukeln.\n\nNach einer Stärkung am Hafen führt uns der Weg zur Pointe de Penchâteau, wo die Küste wilder wird und der Blick über den Atlantik grenzenlos scheint.\n\nZum Abschluss des Tages fahren wir zurück ins Stadtzentrum, um die Atmosphäre am Markt zu genießen und die prachtvollen Villen in den Alleen zu bewundern.",
+            "hu": "Pattanjon nyeregbe, és fedezze fel először Escoublac árnyas fenyőerdőjét, ahol az utak síkok és csalogatóak. Folytassa az utat a Parc des Dryades-hez, a nyugalom zöld oázisához.\n\nDélben végigkerekezünk a teljes La Baule-i öblön egészen Le Pouliguen bájos kikötőjéig, ahol halászhajók és jachtok ringatóznak egymás mellett.\n\nEgy kikötői ebéd után az út a Penchâteau-fokhoz vezet, ahol a partvidék vadabbá válik, és az Atlanti-óceánra nyíló kilátás határtalannak tűnik.\n\nA nap végén visszatérünk a városközpontba, hogy élvezzük a piaci hangulatot és megcsodáljuk az allékon sorakozó pompás villákat.",
+            "ro": "Urcați pe bicicletă și explorați mai întâi pădurea de pini umbroasă din Escoublac, unde potecile sunt plate și primitoare. Continuați spre Parcul Dryades, o oază verde de liniște.\n\nLa prânz, pedalăm de-a lungul întregului golf La Baule până la portul fermecător din Le Pouliguen, unde bărcile de pescuit și iahturile se leagănă împreună.\n\nDupă o gustare în port, drumul ne duce la Pointe de Penchâteau, unde coasta devine mai sălbatică și vederea spre Atlantic pare nesfârșită.\n\nLa finalul zilei, ne întoarcem în centrul orașului pentru a ne bucura de atmosfera pieței și pentru a admira vilele splendide de pe alei.",
+            "en": "Hop on your bike and first explore the shaded pine forest of Escoublac, where the paths are flat and inviting. Continue to Dryades Park, a green oasis of peace.\n\nAt midday, we cycle along the entire bay of La Baule to the charming harbor of Le Pouliguen, where fishing boats and yachts rock side by side.\n\nAfter a harbor-side lunch, the path leads to Pointe de Penchâteau, where the coast becomes wilder and the view over the Atlantic seems boundless.\n\nTo end the day, we cycle back to the town center to enjoy the market atmosphere and admire the magnificent villas along the avenues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forêt d'Escoublac",
+                "hu": "Escoublac fenyves",
+                "ro": "Pădurea Escoublac",
+                "en": "Escoublac Forest"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Wege im Schatten der Pinien.",
+                "hu": "Tökéletes ösvények a fenyők árnyékában.",
+                "ro": "Trasee perfecte la umbra pinilor.",
+                "en": "Perfect paths in the shade of the pines."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Dryades",
+                "hu": "Dryades park",
+                "ro": "Parcul Dryades",
+                "en": "Dryades Park"
+              },
+              "tip_5lang": {
+                "de": "Ein botanisches Juwel der Stadt.",
+                "hu": "A város botanikai ékszere.",
+                "ro": "O bijuterie botanică a orașului.",
+                "en": "A botanical gem of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "La Baule Promenade",
+                "hu": "La Baule sétány",
+                "ro": "Promenada La Baule",
+                "en": "La Baule Promenade"
+              },
+              "tip_5lang": {
+                "de": "Ein Radweg mit herrlicher Aussicht.",
+                "hu": "Kerékpárút gyönyörű kilátással.",
+                "ro": "Pistă de biciclete cu vedere superbă.",
+                "en": "A bike path with a stunning view."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de La Baule - Le Pouliguen",
+                "hu": "La Baule - Le Pouliguen kikötő",
+                "ro": "Portul La Baule - Le Pouliguen",
+                "en": "Port of La Baule - Le Pouliguen"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen am Hafen.",
+                "hu": "Ideális egy kikötői ebédhez.",
+                "ro": "Ideal pentru un prânz în port.",
+                "en": "Ideal for a lunch at the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Penchâteau",
+                "hu": "Penchâteau-fok",
+                "ro": "Punctul Penchâteau",
+                "en": "Pointe de Penchâteau"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Aussicht auf den Ozean.",
+                "hu": "Látványos kilátás az óceánra.",
+                "ro": "Vedere spectaculoasă spre ocean.",
+                "en": "Spectacular view of the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché de La Baule",
+                "hu": "La Baule-i piac",
+                "ro": "Piața La Baule",
+                "en": "La Baule Market"
+              },
+              "tip_5lang": {
+                "de": "Besorgen Sie Souvenirs für zu Hause.",
+                "hu": "Vásároljon ajándéktárgyakat hazára.",
+                "ro": "Cumpărați suveniruri pentru acasă.",
+                "en": "Buy some souvenirs to take home."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crêpe Caramel au Beurre Salé",
+                "tip": "Am Hafen von Le Pouliguen genießen."
+              },
+              {
+                "name": "Austern aus der Bucht",
+                "tip": "Frisch vom Erzeuger am Markt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sós karamellás palacsinta",
+                "tip": "Élvezze Le Pouliguen kikötőjében."
+              },
+              {
+                "name": "Osztriga az öbölből",
+                "tip": "Frissen a termelőtől a piacon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crêpe cu caramel sărat",
+                "tip": "Savurați-o în portul Le Pouliguen."
+              },
+              {
+                "name": "Stridii din golf",
+                "tip": "Proaspete de la producător în piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Salted Caramel Crêpe",
+                "tip": "Enjoy it by the harbor in Le Pouliguen."
+              },
+              {
+                "name": "Bay Oysters",
+                "tip": "Fresh from the producer at the market."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pointe de Penchâteau",
+                "tip": "Ruhiger Blick auf die Klippen.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Penchâteau-fok",
+                "tip": "Csendes kilátás a sziklákra.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pointe de Penchâteau",
+                "tip": "Vedere liniștită spre stânci.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pointe de Penchâteau",
+                "tip": "Quiet view of the cliffs.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Kunsthandwerk",
+                "tip": "In den kleinen Läden von Le Pouliguen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kézműves termékek",
+                "tip": "Le Pouliguen kis boltjaiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat local",
+                "tip": "În micile magazine din Le Pouliguen."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local handicrafts",
+                "tip": "In the small shops of Le Pouliguen."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Küstenstraße ist ideal zum Radfahren.",
+              "Achten Sie auf Fußgänger auf der Promenade.",
+              "Leihen Sie ein Elektrofahrrad für längere Strecken.",
+              "Schließen Sie Ihr Rad immer gut ab."
+            ],
+            "hu": [
+              "A tengerparti út ideális kerékpározáshoz.",
+              "Figyeljen a gyalogosokra a sétányon.",
+              "Béreljen elektromos kerékpárt a hosszabb szakaszokhoz.",
+              "Mindig jól zárja le a kerékpárját."
+            ],
+            "ro": [
+              "Drumul de coastă este ideal pentru ciclism.",
+              "Atenție la pietoni pe promenadă.",
+              "Închiriați o bicicletă electrică pentru distanțe mai lungi.",
+              "Încuiați întotdeauna bine bicicleta."
+            ],
+            "en": [
+              "The coastal road is ideal for cycling.",
+              "Watch out for pedestrians on the promenade.",
+              "Rent an e-bike for longer stretches.",
+              "Always lock your bike securely."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt im schützenden Blätterdach des Waldes von Escoublac. Der Duft der nassen Kiefern ist hier besonders intensiv.\n\nFahren Sie vorsichtig durch den Dryades Park, da die Wege rutschig sein können. Die Promenade bietet bei Regen eine raue Schönheit, aber achten Sie auf den starken Seitenwind.\n\nAm Hafen von Le Pouliguen können Sie unter den Vordächern der Kaimauern Schutz suchen. Die Pointe de Penchâteau ist bei Regen ein dramatischer Anblick.\n\nBeenden Sie die Tour am Markt, wo Sie Ihr Rad abstellen und sich bei einem heißen Getränk aufwärmen können. Denken Sie an wasserfeste Kleidung für die ganze Fahrt.",
+            "hu": "Az esős biciklitúra az Escoublac-erdő védelmező lombkoronái alatt kezdődik. A vizes fenyők illata itt különösen intenzív.\n\nÓvatosan tekerjen át a Dryades parkon, mert az utak csúszósak lehetnek. A sétány esőben nyers szépséget mutat, de ügyeljen az erős oldalszélre.\n\nLe Pouliguen kikötőjében a rakparti épületek ereszei alatt találhat menedéket. A Penchâteau-fok esőben drámai látványt nyújt.\n\nA túrát a piacon fejezze be, ahol leállíthatja a bringát, és egy forró ital mellett felmelegedhet. Ne feledkezzen meg a teljes vízálló felszerelésről.",
+            "ro": "O tură cu bicicleta pe ploaie începe sub baldachinul protector al pădurii Escoublac. Parfumul pinilor umezi este deosebit de intens aici.\n\nPedalați cu atenție prin Parcul Dryades, deoarece potecile pot fi alunecoase. Faleza oferă o frumusețe brută pe ploaie, dar aveți grijă la vântul lateral puternic.\n\nÎn portul Le Pouliguen, puteți căuta adăpost sub streșinile cheiului. Pointe de Penchâteau oferă o priveliște dramatică pe timp de ploaie.\n\nÎncheiați turul la piață, unde puteți parca bicicleta și vă puteți încălzi cu o băutură caldă. Nu uitați echipamentul impermeabil pentru întreaga călătorie.",
+            "en": "A rainy bike tour starts under the protective canopy of the Escoublac Forest. The scent of wet pines is particularly intense here.\n\nRide carefully through Dryades Park, as the paths can be slippery. The promenade offers a raw beauty in the rain, but watch out for strong crosswinds.\n\nAt the Port of Le Pouliguen, you can seek shelter under the awnings of the quay buildings. Pointe de Penchâteau is a dramatic sight in the rain.\n\nEnd your tour at the market, where you can park your bike and warm up with a hot drink. Remember full waterproof gear for the entire ride."
+          },
+          "stops": [
+            {
+              "name": "Escoublac Forest",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen natürlichen Schutz vor leichtem Regen.",
+                "hu": "A sűrű fák természetes védelmet nyújtanak az enyhe eső ellen.",
+                "ro": "Copacii deși oferă o protecție naturală împotriva ploii ușoare.",
+                "en": "The dense trees provide natural protection against light rain."
+              }
+            },
+            {
+              "name": "Dryades Park",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven, nasses Laub auf den Wegen kann sehr glatt sein.",
+                "hu": "Vigyázat a kanyarokban, a vizes levelek az úton nagyon csúszhatnak.",
+                "ro": "Atenție la curbe, frunzele ude de pe poteci pot fi foarte alunecoase.",
+                "en": "Caution in the turns; wet leaves on the paths can be very slippery."
+              }
+            },
+            {
+              "name": "La Baule Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Windböen vom Meer her fest im Griff.",
+                "hu": "A tenger felől érkező széllökéseknél markolja meg erősen a kormányt.",
+                "ro": "Țineți bine ghidonul în cazul rafalelor de vânt dinspre mare.",
+                "en": "Keep a firm grip on the handlebars during wind gusts from the sea."
+              }
+            },
+            {
+              "name": "Port of La Baule - Le Pouliguen",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen haben oft Fahrradständer unter Vordächern.",
+                "hu": "A kikötői kávézóknál gyakran vannak kerékpártárolók az ereszek alatt.",
+                "ro": "Cafenelele din port au adesea rastele pentru biciclete sub streșini.",
+                "en": "The port cafes often have bike racks under covered awnings."
+              }
+            },
+            {
+              "name": "Pointe de Penchâteau",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Kanten der Felsen, der Boden kann durch Matsch rutschig sein.",
+                "hu": "Kerülje a sziklák szélét, a talaj a sár miatt csúszós lehet.",
+                "ro": "Evitați marginile stâncilor, solul poate fi alunecos din cauza noroiului.",
+                "en": "Avoid the edges of the rocks; the ground can be slippery due to mud."
+              }
+            },
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Tour trocken und mit einem Snack zu beenden.",
+                "hu": "Ideális hely, hogy a túrát szárazon, egy tízóraival zárja.",
+                "ro": "Un loc ideal pentru a încheia turul la uscat și cu o gustare.",
+                "en": "An ideal place to end your tour dry and with a snack."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vergewissern Sie sich, dass Ihre Bremsen bei Nässe gut funktionieren.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen, diese sind bei Regen spiegelglatt.",
+              "Verstauen Sie Wertsachen in wasserdichten Packtaschen.",
+              "Die Promenade ist bei Regen leerer, aber Pfützen können tiefer sein als sie scheinen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fékek nedves időben is jól fognak.",
+              "Kerülje az útburkolati jeleken való áthajtást, mert esőben tükörsima felületűek.",
+              "Az értéktárgyakat vízálló táskákba pakolja.",
+              "A sétány esőben üresebb, de a tócsák mélyebbek lehetnek, mint aminek látszanak."
+            ],
+            "ro": [
+              "Asigurați-vă că frânele funcționează bine în condiții de umiditate.",
+              "Evitați să treceți peste marcajele rutiere, acestea sunt foarte alunecoase pe ploaie.",
+              "Depozitați obiectele de valoare în genți de bicicletă impermeabile.",
+              "Faleza este mai goală pe ploaie, dar bălțile pot fi mai adânci decât par."
+            ],
+            "en": [
+              "Ensure your brakes work well in wet conditions.",
+              "Avoid riding over road markings; they are slippery like ice in the rain.",
+              "Store valuables in waterproof panniers or bags.",
+              "The promenade is emptier in the rain, but puddles can be deeper than they look."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Wald von Escoublac bietet saubere Luft und absolute Stille. Die Wege sind fest und ideal zum Radfahren.\n\nIm Dryades Park leuchten die immergrünen Pflanzen im winterlichen Licht. Die Fahrt entlang der Promenade ist nun besonders erfrischend, mit weitem Blick über die Bucht.\n\nIn Le Pouliguen wirkt der Hafen im Winterlicht fast wie gemalt. Die Pointe de Penchâteau bietet einen spektakulären Panoramablick über das kalte, tiefblaue Meer.\n\nBeenden Sie Ihre Runde am Markt, bevor es am späten Nachmittag frostig wird. Ziehen Sie sich nach dem Zwiebelprinzip an, um während der Fahrt warm zu bleiben.",
+            "hu": "Egy tiszta téli reggel az Escoublac-erdőben friss levegőt és teljes csendet kínál. Az utak kemények és ideálisak a biciklizéshez.\n\nA Dryades parkban az örökzöldek ragyognak a téli fényben. A sétány menti tekerés most különösen frissítő, pazar kilátással az öbölre.\n\nLe Pouliguen kikötője a téli világításban szinte festői. A Penchâteau-fok látványos panorámát nyújt a hideg, mélykék tengerre.\n\nA kört a piacon fejezze be, mielőtt késő délután fagyni kezdene. Öltözzön rétegesen, hogy tekerés közben is megőrizze a testhőjét.",
+            "ro": "O dimineață senină de iarnă în pădurea Escoublac oferă aer curat și liniște deplină. Potecile sunt ferme și ideale pentru ciclism.\n\nÎn Parcul Dryades, plantele veșnic verzi strălucesc în lumina iernii. Călătoria de-a lungul falezei este acum deosebit de revigorantă, cu o vedere largă asupra golfului.\n\nÎn Le Pouliguen, portul pare aproape pictat în lumina iernii. Pointe de Penchâteau oferă o vedere panoramică spectaculoasă asupra mării reci și albastre.\n\nÎncheiați tura la piață înainte de a se lăsa gerul spre sfârșitul după-amiezii. Îmbrăcați-vă în straturi pentru a vă menține căldura în timpul mersului.",
+            "en": "A clear winter morning in the Escoublac Forest offers crisp air and absolute silence. The paths are firm and ideal for cycling.\n\nIn Dryades Park, evergreen plants shine in the winter light. The ride along the promenade is particularly refreshing now, with vast views over the bay.\n\nIn Le Pouliguen, the port looks almost like a painting in the winter light. Pointe de Penchâteau offers a spectacular panoramic view over the cold, deep blue sea.\n\nFinish your loop at the market before it gets frosty in the late afternoon. Dress in layers to stay warm during the ride."
+          },
+          "stops": [
+            {
+              "name": "Escoublac Forest",
+              "tip_5lang": {
+                "de": "Die Luft ist hier im Winter besonders sauerstoffreich und belebend.",
+                "hu": "A levegő itt télen különösen oxigéndús és élénkítő.",
+                "ro": "Aerul de aici este deosebit de bogat în oxigen și revigorant în timpul iernii.",
+                "en": "The air here is particularly oxygen-rich and invigorating in winter."
+              }
+            },
+            {
+              "name": "Dryades Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf schattigen Wegen.",
+                "hu": "Ügyeljen a fagyott foltokra az árnyékos utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile umbrite.",
+                "en": "Watch out for frozen patches on shaded paths."
+              }
+            },
+            {
+              "name": "La Baule Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie einen Halsschutz, der Wind ist im Winter schneidend.",
+                "hu": "Viseljen nyakmelegítőt, a szél télen metsző lehet.",
+                "ro": "Purtați protecție pentru gât, vântul este tăios iarna.",
+                "en": "Wear a neck gaiter; the wind can be biting in winter."
+              }
+            },
+            {
+              "name": "Port of La Baule - Le Pouliguen",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Kai ohne die üblichen Sommermassen.",
+                "hu": "Élvezze a kikötői csendet a szokásos nyári tömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea de pe chei fără mulțimile obișnuite de vară.",
+                "en": "Enjoy the quiet on the quay without the usual summer crowds."
+              }
+            },
+            {
+              "name": "Pointe de Penchâteau",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für Fotos vom winterlichen Atlantik.",
+                "hu": "Tökéletes helyszín fotókhoz a téli Atlanti-óceánról.",
+                "ro": "Locul perfect pentru fotografii ale Atlanticului pe timp de iarnă.",
+                "en": "The perfect spot for photos of the winter Atlantic."
+              }
+            },
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einem frischen Crêpe auf.",
+                "hu": "Melegítse fel a kezeit egy frissen sült palacsintával.",
+                "ro": "Încălziți-vă mâinile cu o clătită proaspătă.",
+                "en": "Warm your hands with a fresh crepe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Luftdruck in den Reifen sinkt bei Kälte leicht, prüfen Sie ihn vorher.",
+              "Die Sonne steht tief, eine Sonnenbrille hilft gegen Blendung auf dem Asphalt.",
+              "Achten Sie auf die frühe Dämmerung und schalten Sie das Licht rechtzeitig ein.",
+              "Warme, winddichte Handschuhe sind das wichtigste Accessoire."
+            ],
+            "hu": [
+              "A guminyomás hidegben kissé csökken, ellenőrizze indulás előtt.",
+              "A nap alacsonyan jár, a napszemüveg segít az aszfaltról visszaverődő fény ellen.",
+              "Ügyeljen a korai sötétedésre, és időben kapcsolja be a világítást.",
+              "A meleg, szélálló kesztyű a legfontosabb kiegészítő."
+            ],
+            "ro": [
+              "Presiunea din anvelope scade ușor la frig, verificați-o înainte.",
+              "Soarele este jos, ochelarii de soare ajută împotriva orbirii cauzate de asfalt.",
+              "Aveți grijă la amurgul timpuriu și aprindeți luminile la timp.",
+              "Mănușile groase și rezistente la vânt sunt cel mai important accesoriu."
+            ],
+            "en": [
+              "Tire pressure drops slightly in the cold; check it before you start.",
+              "The sun sits low; sunglasses help against glare on the asphalt.",
+              "Watch out for early dusk and turn on your lights in time.",
+              "Warm, windproof gloves are your most important accessory."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -889,6 +1762,374 @@
           "Take a jacket for the Côte Sauvage, it's windy.",
           "Reserve a beachside restaurant in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir heute nicht nur La Baule, sondern auch das faszinierende Hinterland. Nach dem Marktbesuch in La Baule fahren wir in die mittelalterliche Stadt Guérande, deren massive Mauern eine Reise in die Vergangenheit versprechen.\n\nMittags tauchen wir in die Welt des weißen Goldes ein: die Salzwiesen von Guérande bieten eine einzigartige Landschaft und Einblicke in die traditionelle Salzgewinnung.\n\nAm Nachmittag kehren wir an die Küste zurück, um die Sonne am endlosen Strand von La Baule zu genießen, bevor wir zur Côte Sauvage fahren.\n\nDer Tag endet an den wilden Klippen der Côte Sauvage, wo die Wellen des Atlantiks spektakulär gegen die Felsen schlagen und die untergehende Sonne die Küste in goldenes Licht taucht.",
+            "hu": "Autóval ma nemcsak La Baule-t, hanem a lenyűgöző hátországot is felfedezzük. A piaclátogatás után Guérande középkori városába hajtunk, amelynek hatalmas falai időutazást ígérnek.\n\nDélben elmerülünk a 'fehér arany' világában: a guérande-i sós mocsarak egyedülálló tájat és betekintést nyújtanak a hagyományos sólepárlásba.\n\nDélután visszatérünk a partra, hogy élvezzük a napsütést La Baule végtelen strandján, mielőtt a Vadpart (Côte Sauvage) felé vennénk az irányt.\n\nA nap a Vadpart vad szikláinál ér véget, ahol az Atlanti-óceán hullámai látványosan csapódnak a kőfalaknak, és a lemenő nap aranyfénybe öltözteti a partot.",
+            "ro": "Cu mașina explorăm astăzi nu doar La Baule, ci și hinterlandul fascinant. După vizita la piață, conducem spre orașul medieval Guérande, ale cărui ziduri masive promit o călătorie în trecut.\n\nLa prânz pătrundem în lumea 'aurului alb': mlaștinile sărate din Guérande oferă un peisaj unic și o incursiune în extracția tradițională a sării.\n\nDupă-amiaza ne întoarcem pe coastă pentru a ne bucura de soare pe plaja nesfârșită din La Baule, înainte de a pleca spre Côte Sauvage.\n\nZiua se încheie la stâncile sălbatice din Côte Sauvage, unde valurile Atlanticului se izbesc spectaculos de pietre, iar apusul scaldă coasta în lumină aurie.",
+            "en": "By car, today we explore not only La Baule but also the fascinating hinterland. After visiting the market, we drive to the medieval town of Guérande, whose massive walls promise a journey back in time.\n\nAt midday, we dive into the world of 'white gold': the salt marshes of Guérande offer a unique landscape and insights into traditional salt harvesting.\n\nIn the afternoon, we return to the coast to enjoy the sun on La Baule's endless beach before heading to the Côte Sauvage.\n\nThe day ends at the wild cliffs of the Côte Sauvage, where the Atlantic waves crash spectacularly against the rocks and the setting sun bathes the coast in golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marché de La Baule",
+                "hu": "La Baule-i piac",
+                "ro": "Piața La Baule",
+                "en": "La Baule Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie frühzeitig in der Nähe.",
+                "hu": "Parkoljon le időben a közelben.",
+                "ro": "Parcați din timp în apropiere.",
+                "en": "Park early nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Guérande - Mittelalterliche Stadt",
+                "hu": "Guérande - Középkori város",
+                "ro": "Guérande - Orașul medieval",
+                "en": "Guérande - Medieval Town"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie auf den Stadtmauern.",
+                "hu": "Sétáljon a városfalakon.",
+                "ro": "Plimbați-vă pe zidurile cetății.",
+                "en": "Walk on the city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Salzwiesen von Guérande",
+                "hu": "Guérande-i sós mocsarak",
+                "ro": "Mlaștinile sărate din Guérande",
+                "en": "Salt Marshes of Guérande"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das 'Terre de Sel' Museum.",
+                "hu": "Látogassa meg a 'Terre de Sel' múzeumot.",
+                "ro": "Vizitați muzeul 'Terre de Sel'.",
+                "en": "Visit the 'Terre de Sel' museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Baule",
+                "hu": "La Baule-i strand",
+                "ro": "Plaja La Baule",
+                "en": "La Baule Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein spätes Bad im Meer.",
+                "hu": "Ideális egy késő délutáni fürdőzéshez.",
+                "ro": "Ideal pentru o baie târzie în mare.",
+                "en": "Ideal for a late dip in the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Côte Sauvage",
+                "hu": "Vadpart",
+                "ro": "Coasta Sălbatică",
+                "en": "Côte Sauvage"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang.",
+                "hu": "Tökéletes hely a naplementéhez.",
+                "ro": "Locul perfect pentru apus.",
+                "en": "Perfect spot for sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fleur de Sel de Guérande",
+                "tip": "Das beste Salz direkt beim Erzeuger kaufen."
+              },
+              {
+                "name": "Bretonischer Hummer",
+                "tip": "In einem der gehobenen Restaurants in La Baule."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fleur de Sel de Guérande",
+                "tip": "Vásárolja a legjobb sót közvetlenül a termelőtől."
+              },
+              {
+                "name": "Breton homár",
+                "tip": "La Baule egyik elegáns éttermében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fleur de Sel de Guérande",
+                "tip": "Cumpărați cea mai bună sare direct de la producător."
+              },
+              {
+                "name": "Homar breton",
+                "tip": "Într-unul dintre restaurantele elegante din La Baule."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fleur de Sel de Guérande",
+                "tip": "Buy the best salt directly from the producer."
+              },
+              {
+                "name": "Breton Lobster",
+                "tip": "In one of the upscale restaurants in La Baule."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marais Salants",
+                "tip": "Meditative Stille in den Salzwiesen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sós mocsarak",
+                "tip": "Meditatív csend a sós réteken.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mlaștinile sărate",
+                "tip": "Liniște meditativă în zonele de sare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Salt Marshes",
+                "tip": "Meditative silence in the salt fields.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Guérande Salzprodukte",
+                "tip": "In der Boutique 'Terre de Sel'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Guérande-i sótermékek",
+                "tip": "A 'Terre de Sel' butikban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse cu sare de Guérande",
+                "tip": "În buticul 'Terre de Sel'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Guérande Salt Products",
+                "tip": "At the 'Terre de Sel' boutique."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in La Baule ist im Sommer schwierig und teuer.",
+              "Die Straßen nach Guérande können zur Hauptverkehrszeit voll sein.",
+              "Nehmen Sie eine Jacke für die Côte Sauvage mit, es ist windig.",
+              "Reservieren Sie ein Restaurant am Strand im Voraus."
+            ],
+            "hu": [
+              "A parkolás La Baule-ban nyáron nehéz és drága.",
+              "A Guérande felé vezető utak csúcsidőben zsúfoltak lehetnek.",
+              "Vigyen kabátot a Vadpartra, mert szeles.",
+              "Foglaljon asztalt előre a tengerparti éttermekben."
+            ],
+            "ro": [
+              "Parcarea în La Baule este dificilă și scumpă vara.",
+              "Drumurile spre Guérande pot fi aglomerate la orele de vârf.",
+              "Luați o jachetă pentru Côte Sauvage, este vânt.",
+              "Rezervați o masă la un restaurant de pe plajă în avans."
+            ],
+            "en": [
+              "Parking in La Baule is difficult and expensive in summer.",
+              "Roads to Guérande can be busy during peak hours.",
+              "Take a jacket for the Côte Sauvage, it's windy.",
+              "Reserve a beachside restaurant in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag die perfekte Gelegenheit, die Umgebung zu erkunden. Starten Sie beim überdachten Markt von La Baule, bevor Sie ins mittelalterliche Guérande fahren.\n\nDie massiven Stadtmauern von Guérande bieten Schutz und eine mystische Atmosphäre im Regen. Die Salzwiesen wirken unter einem grauen Himmel besonders dramatisch.\n\nMittags können Sie den Strand von La Baule bequem aus dem Auto oder von einem ufernahen Parkplatz aus bewundern. Die Côte Sauvage zeigt sich bei Sturm von ihrer wildesten Seite.\n\nBeenden Sie den Tag entspannt, ohne nass zu werden, und genießen Sie die Ausblicke durch die Panoramafenster Ihres Fahrzeugs.",
+            "hu": "Autóval az esős nap tökéletes alkalom a környék felfedezésére. Kezdjen a La Baule-i fedett piacnál, mielőtt a középkori Guérande felé veszi az irányt.\n\nGuérande masszív városfalai védelmet és misztikus hangulatot nyújtanak esőben. A sólepárlók a szürke ég alatt különösen drámai látványt nyújtanak.\n\nDélben La Baule strandját kényelmesen az autóból vagy egy parthoz közeli parkolóból csodálhatja meg. A Côte Sauvage viharban a legvadabb arcát mutatja.\n\nA napot szárazon és kényelmesen fejezheti be, élvezve a kilátást a jármű szélvédőjén keresztül.",
+            "ro": "Cu mașina, o zi ploioasă este ocazia perfectă pentru a explora împrejurimile. Începeți la piața acoperită din La Baule înainte de a merge spre Guérande medieval.\n\nZidurile masive ale orașului Guérande oferă protecție și o atmosferă mistică pe ploaie. Salinele par deosebit de dramatice sub un cer gri.\n\nLa prânz, puteți admira plaja din La Baule confortabil din mașină sau dintr-o parcare de pe mal. Côte Sauvage își arată latura cea mai sălbatică în timpul furtunii.\n\nÎncheiați ziua relaxat, fără a vă uda, și bucurați-vă de priveliști prin ferestrele panoramice ale vehiculului dumneavoastră.",
+            "en": "By car, a rainy day is the perfect opportunity to explore the surrounding area. Start at the covered market of La Baule before driving to medieval Guérande.\n\nThe massive city walls of Guérande offer shelter and a mystical atmosphere in the rain. The salt marshes look particularly dramatic under a grey sky.\n\nAt noon, you can admire La Baule beach comfortably from your car or a seaside parking spot. Côte Sauvage shows its wildest side during a storm.\n\nEnd the day relaxed without getting wet, enjoying the views through your vehicle's windows."
+          },
+          "stops": [
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt in der Nähe, so dass Sie kaum nass werden.",
+                "hu": "Közvetlenül a közelben vannak parkolók, így alig fog megázni.",
+                "ro": "Există parcări chiar în apropiere, așa că aproape că nu vă veți uda.",
+                "en": "There are parking lots right nearby, so you'll hardly get wet."
+              }
+            },
+            {
+              "name": "Guérande - Medieval Town",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten bei Regen guten Windschutz.",
+                "hu": "A szűk utcák jó szélvédelmet nyújtanak esős időben.",
+                "ro": "Străzile înguste oferă o bună protecție împotriva vântului în caz de ploaie.",
+                "en": "The narrow streets offer good wind protection in the rain."
+              }
+            },
+            {
+              "name": "Salt Marshes of Guérande",
+              "tip_5lang": {
+                "de": "Besuchen Sie das 'Terre de Sel' Museum für eine trockene, informative Pause.",
+                "hu": "Látogassa meg a 'Terre de Sel' múzeumot egy száraz, tartalmas pihenőért.",
+                "ro": "Vizitați muzeul 'Terre de Sel' pentru o pauză informativă la uscat.",
+                "en": "Visit the 'Terre de Sel' museum for a dry, informative break."
+              }
+            },
+            {
+              "name": "La Baule Beach",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Promenade für einen perfekten Meerblick im Trockenen.",
+                "hu": "Parkoljon a sétány mentén a tökéletes, száraz tengeri kilátáshoz.",
+                "ro": "Parcați de-a lungul falezei pentru o vedere perfectă la mare, la uscat.",
+                "en": "Park along the promenade for a perfect sea view while staying dry."
+              }
+            },
+            {
+              "name": "Côte Sauvage",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Sturm für Fotos lieber im Auto.",
+                "hu": "Erős viharban a fotózáshoz maradjon inkább az autóban.",
+                "ro": "În caz de furtună puternică, este mai bine să rămâneți în mașină pentru fotografii.",
+                "en": "In heavy storms, stay in the car for photos for better safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer, der Salzgehalt in der Luft kann sie verschmieren.",
+              "Die Straßen in den Salzwiesen können bei starkem Regen leicht überflutet sein.",
+              "Parken ist in der Nebensaison (Regenzeit) oft einfacher und günstiger.",
+              "Halten Sie eine Decke im Auto bereit, falls Sie nach einem kurzen Stopp frösteln."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, a levegő sótartalma elkenheti a vizet.",
+              "A sólepárlók közötti utak heves esőzéskor könnyen víz alá kerülhetnek.",
+              "A parkolás holtszezonban (esős időben) gyakran egyszerűbb és olcsóbb.",
+              "Tartson egy takarót az autóban, ha egy rövid kiszállás után fázna."
+            ],
+            "ro": [
+              "Verificați ștergătoarele, conținutul de sare din aer le poate face ineficiente.",
+              "Drumurile din saline pot fi ușor inundate în caz de ploaie torențială.",
+              "Parcarea este adesea mai ușoară și mai ieftină în extrasezon.",
+              "Păstrați o pătură în mașină în caz că vă este frig după o scurtă oprire afară."
+            ],
+            "en": [
+              "Check your wipers; the salt content in the air can smear the windshield.",
+              "Roads in the salt marshes can easily flood during heavy rain.",
+              "Parking is often easier and cheaper in the off-season/rainy periods.",
+              "Keep a blanket in the car in case you feel chilled after a quick stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Ausflüge mit dem Auto führen durch das stimmungsvolle Guérande und entlang der einsamen Küste. Der Tag beginnt auf dem Markt von La Baule bei klarer Winterluft.\n\nIn Guérande leuchten die Lichter in den mittelalterlichen Gassen besonders einladend. Die Salzwiesen bieten im Winter eine weite, meditative Landschaft in kühlen Farben.\n\nNachmittags ist die Fahrt entlang der Côte Sauvage ein Erlebnis, wenn die tiefstehende Sonne die Felsen in warmes Licht taucht. In La Baule finden Sie leicht einen Parkplatz direkt am Strand.\n\nDer Abend bietet die perfekte Gelegenheit für ein gemütliches Abendessen, bevor Sie in Ihr warmes Fahrzeug zurückkehren. Die Heizung ist Ihr bester Freund nach dem Fotostopp.",
+            "hu": "A téli autós kirándulások a hangulatos Guérande-on és az elhagyatott tengerparton vezetnek keresztül. A nap a La Baule-i piacon kezdődik a tiszta téli levegőben.\n\nGuérande-ban a középkori utcák fényei különösen hívogatóak. A sólepárlók télen tágas, meditatív tájat kínálnak hűvös színekben.\n\nDélután a Côte Sauvage menti autózás nagy élmény, amikor az alacsonyan járó nap meleg fénybe vonja a sziklákat. La Baule-ban ilyenkor könnyű közvetlenül a strandon parkolni.\n\nAz este tökéletes alkalom egy meghitt vacsorához, mielőtt visszatérne meleg járművébe. A fűtés a legjobb barátja lesz a fotómegállók után.",
+            "ro": "Excursiile de iarnă cu mașina vă poartă prin Guérande-ul atmosferic și de-a lungul coastei pustii. Ziua începe la piața din La Baule în aerul curat de iarnă.\n\nÎn Guérande, luminile de pe străzile medievale strălucesc deosebit de primitor. Salinele oferă iarna un peisaj vast, meditativ, în culori reci.\n\nDupă-amiaza, călătoria de-a lungul Côte Sauvage este o experiență aparte, când soarele jos scaldă stâncile în lumină caldă. În La Baule veți găsi ușor parcare chiar lângă plajă.\n\nSeara oferă ocazia perfectă pentru o cină primitoare înainte de a vă întoarce în vehiculul călduros. Încălzirea este cea mai bună prietenă după o oprire pentru fotografii.",
+            "en": "Winter car trips take you through atmospheric Guérande and along the lonely coast. The day begins at the La Baule market in the crisp winter air.\n\nIn Guérande, the lights in the medieval streets shine especially welcomingly. The salt marshes offer a vast, meditative landscape in cool colors during winter.\n\nIn the afternoon, the drive along Côte Sauvage is an experience as the low-setting sun bathes the rocks in warm light. In La Baule, it's easy to find parking right by the beach.\n\nEvening provides the perfect opportunity for a cozy dinner before returning to your warm vehicle. The heater is your best friend after a photo stop."
+          },
+          "stops": [
+            {
+              "name": "La Baule Market",
+              "tip_5lang": {
+                "de": "Decken Sie sich mit lokalen Winterprodukten für Ihre Fahrt ein.",
+                "hu": "Vásároljon be helyi téli termékekből az útra.",
+                "ro": "Aprovizionați-vă cu produse locale de iarnă pentru călătorie.",
+                "en": "Stock up on local winter products for your drive."
+              }
+            },
+            {
+              "name": "Guérande - Medieval Town",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Geschäfte für Fleur de Sel-Geschenke in festlicher Atmosphäre.",
+                "hu": "Látogasson el az üzletekbe Fleur de Sel ajándékokért ünnepi hangulatban.",
+                "ro": "Vizitați magazinele pentru cadouri cu Fleur de Sel într-o atmosferă festivă.",
+                "en": "Visit the shops for Fleur de Sel gifts in a festive atmosphere."
+              }
+            },
+            {
+              "name": "Salt Marshes of Guérande",
+              "tip_5lang": {
+                "de": "Die Straßen sind nun frei von Touristenbussen, genießen Sie die Fahrt.",
+                "hu": "Az utak most mentesek a turistabuszoktól, élvezze az autózást.",
+                "ro": "Drumurile sunt acum libere de autocare cu turiști, bucurați-vă de drum.",
+                "en": "The roads are now free of tour buses; enjoy the smooth drive."
+              }
+            },
+            {
+              "name": "La Baule Beach",
+              "tip_5lang": {
+                "de": "Die klare Sicht ermöglicht Blicke bis weit auf den Atlantik hinaus.",
+                "hu": "A tiszta időben messze ellátni az Atlanti-óceán fölött.",
+                "ro": "Vizibilitatea clară permite vederea până departe în largul Atlanticului.",
+                "en": "The clear visibility allows for views far out into the Atlantic."
+              }
+            },
+            {
+              "name": "Côte Sauvage",
+              "tip_5lang": {
+                "de": "Das Licht kurz vor Sonnenuntergang ist hier im Winter magisch.",
+                "hu": "A naplemente előtti fények télen itt varázslatosak.",
+                "ro": "Lumina de dinainte de apus este magică aici în timpul iernii.",
+                "en": "The light just before sunset is magical here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Nachtfahrten in den Salzwiesen, da es dort keine Straßenbeleuchtung gibt.",
+              "Das Meerwasser gefriert zwar nicht, aber die Gischt auf der Straße kann bei Frost glatt sein.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die meisten öffentlichen Toiletten an der Küste sind im Winter geschlossen."
+            ],
+            "hu": [
+              "Kerülje az éjszakai vezetést a sólepárlóknál, mert nincs közvilágítás.",
+              "A tenger nem fagy meg, de a kicsapódó pára az úton fagy esetén csúszós lehet.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A legtöbb nyilvános vécé a parton télen zárva tart."
+            ],
+            "ro": [
+              "Evitați condusul pe timp de noapte în saline, deoarece nu există iluminat public.",
+              "Apa mării nu îngheață, dar vaporii de pe drum pot fi alunecoși în caz de îngheț.",
+              "Verificați lichidul antigel de parbriz.",
+              "Majoritatea toaletelor publice de pe coastă sunt închise iarna."
+            ],
+            "en": [
+              "Avoid night driving in the salt marshes as there is no street lighting.",
+              "The sea water won't freeze, but spray on the road can be icy during frost.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Most public toilets along the coast are closed during the winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1128,34 +2369,359 @@
           "Validate your ticket upon boarding.",
           "Buses run more frequently during summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank der effizienten Shuttles und Busse lässt sich La Baule wunderbar ohne eigenes Auto erkunden. Wir starten am Bahnhof und tauchen sofort in das lebendige Markttreiben im Zentrum ein.\n\nMittags bringt uns der Bus zum Strandabschnitt Lajarrige, der für seine entspannte Atmosphäre und schönen Villen bekannt ist. Genießen Sie das Meer ohne Parkplatzsorgen.\n\nNachmittags führt uns die Fahrt zum Parc des Dryades, wo botanische Vielfalt und Ruhe auf uns warten. Der Park ist ein Geheimtipp abseits der großen Touristenströme.\n\nZum Abschluss fahren wir zum Casino, dem gesellschaftlichen Mittelpunkt, bevor wir bequem mit dem Shuttle zurück zum Bahnhof gelangen.",
+            "hu": "A hatékony ingajáratoknak és buszoknak köszönhetően La Baule remekül felfedezhető saját autó nélkül is. Az állomásról indulunk, és azonnal elmerülünk a központ pezsgő piaci forgatagában.\n\nDélben a busz a Lajarrige strandrészhez visz minket, amely nyugodt légköréről és gyönyörű villáiról ismert. Élvezze a tengert parkolási gondok nélkül.\n\nDélután a 20-as busz a Parc des Dryades-hez repít, ahol botanikai sokszínűség és nyugalom vár ránk. A park titkos tipp a nagy turistaáradaton kívül.\n\nBefejezésül a Kaszinóhoz utazunk, amely a társasági élet központja, mielőtt kényelmesen visszatérnénk busszal az állomásra.",
+            "ro": "Datorită navetelor și autobuzelor eficiente, La Baule poate fi explorat minunat fără mașină proprie. Începem de la gară și ne scufundăm imediat în animația pieței din centru.\n\nLa prânz, autobuzul ne duce la secțiunea de plajă Lajarrige, cunoscută pentru atmosfera relaxată și vilele frumoase. Bucurați-vă de mare fără grija parcării.\n\nDupă-amiaza, călătoria ne duce la Parcul Dryades, unde ne așteaptă diversitatea botanică și liniștea. Parcul este un pont secret, departe de fluxurile mari de turiști.\n\nLa final, mergem la Cazinou, centrul social al orașului, înainte de a ne întoarce confortabil cu naveta la gară.",
+            "en": "Thanks to efficient shuttles and buses, La Baule can be explored wonderfully without your own car. We start at the station and immediately dive into the lively market bustle in the center.\n\nAt midday, the bus takes us to the Lajarrige beach section, known for its relaxed atmosphere and beautiful villas. Enjoy the sea without parking worries.\n\nIn the afternoon, the ride takes us to Dryades Park, where botanical diversity and peace await. The park is a hidden gem away from the major tourist crowds.\n\nTo finish, we head to the Casino, the social center, before comfortably taking the shuttle back to the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof La Baule-Escoublac",
+                "hu": "La Baule-Escoublac vasútállomás",
+                "ro": "Gara La Baule-Escoublac",
+                "en": "La Baule-Escoublac Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für den Shuttle-Bus.",
+                "hu": "A helyi buszjáratok központi kiindulópontja.",
+                "ro": "Punct central de plecare pentru autobuze.",
+                "en": "Central starting point for the shuttle bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Markt / Stadtzentrum",
+                "hu": "Piac / Városközpont",
+                "ro": "Piața / Centrul orașului",
+                "en": "Market / Town Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kostenlosen Shuttle 'La Navette'.",
+                "hu": "Használja az ingyenes 'La Navette' járatot.",
+                "ro": "Folosiți naveta gratuită 'La Navette'.",
+                "en": "Use the free 'La Navette' shuttle."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand (Lajarrige)",
+                "hu": "Strand (Lajarrige)",
+                "ro": "Plaja (Lajarrige)",
+                "en": "Beach (Lajarrige)"
+              },
+              "tip_5lang": {
+                "de": "Ein etwas ruhigerer Strandabschnitt.",
+                "hu": "Egy valamivel csendesebb strandrész.",
+                "ro": "O secțiune de plajă ceva mai liniștită.",
+                "en": "A slightly quieter section of the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Dryades",
+                "hu": "Dryades park",
+                "ro": "Parcul Dryades",
+                "en": "Dryades Park"
+              },
+              "tip_5lang": {
+                "de": "Gut erreichbar mit der Linie 20.",
+                "hu": "Könnyen elérhető a 20-as busszal.",
+                "ro": "Ușor accesibil cu linia 20.",
+                "en": "Easily accessible with bus line 20."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino Barrière",
+                "hu": "Kaszinó",
+                "ro": "Cazinoul",
+                "en": "Casino"
+              },
+              "tip_5lang": {
+                "de": "Rückfahrt zum Bahnhof in 10 Minuten.",
+                "hu": "Visszaút az állomásra 10 perc alatt.",
+                "ro": "Retur la gară în 10 minute.",
+                "en": "Return to the station in 10 minutes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Niniche de La Baule",
+                "tip": "Berühmte Lutscher, in vielen Läden im Zentrum erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Niniche de La Baule",
+                "tip": "Híres nyalóka, a központ számos boltjában kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Niniche de La Baule",
+                "tip": "Acadele faimoase, disponibile în multe magazine din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Niniche de La Baule",
+                "tip": "Famous lollipops, available in many shops in the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc des Dryades",
+                "tip": "Viel Platz und Schatten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dryades park",
+                "tip": "Sok hely és árnyék.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Dryades",
+                "tip": "Mult spațiu și umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dryades Park",
+                "tip": "Plenty of space and shade.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutiquen in Lajarrige",
+                "tip": "Etwas entspannter als im Hauptzentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lajarrige butikjai",
+                "tip": "Valamivel nyugodtabbak, mint a fő központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buticuri în Lajarrige",
+                "tip": "Ceva mai relaxate decât în centrul principal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutiques in Lajarrige",
+                "tip": "A bit more relaxed than in the main center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Shuttle 'La Navette' ist im Stadtzentrum kostenlos.",
+              "Informieren Sie sich über die App 'Destineo' über Fahrzeiten.",
+              "Entwerten Sie Ihr Ticket beim Einsteigen.",
+              "Die Busse fahren im Sommer häufiger."
+            ],
+            "hu": [
+              "A 'La Navette' ingajárat ingyenes a városközpontban.",
+              "Tájékozódjon a 'Destineo' alkalmazáson keresztül a menetrendről.",
+              "Érvényesítse jegyét felszálláskor.",
+              "A buszok nyáron gyakrabban közlekednek."
+            ],
+            "ro": [
+              "Naveta 'La Navette' este gratuită în centrul orașului.",
+              "Informați-vă prin aplicația 'Destineo' despre orar.",
+              "Validați biletul la urcare.",
+              "Autobuzele circulă mai des vara."
+            ],
+            "en": [
+              "The 'La Navette' shuttle is free in the town center.",
+              "Check schedules via the 'Destineo' app.",
+              "Validate your ticket upon boarding.",
+              "Buses run more frequently during summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof von La Baule-Escoublac ist auch bei Regen komfortabel, da der Bahnhofsbereich gut geschützt ist. Ein kurzer Transfer bringt Sie zum Markt.\n\nDer Markt bietet die perfekte trockene Basis für den Vormittag. Nutzen Sie die lokalen Busse, um zum Strand von Lajarrige zu gelangen, wo Sie die Aussicht aus einem gemütlichen Café genießen können.\n\nIm Dryades Park können die überdachten Pavillons Schutz bieten, bevor Sie mit dem Bus zum Casino weiterfahren. Das Casino ist ein idealer Endpunkt für einen Regentag.\n\nVerlassen Sie sich auf die pünktlichen Verbindungen, um schnell und trocken zwischen den Sehenswürdigkeiten hin und her zu wechseln.",
+            "hu": "A La Baule-Escoublac vasútállomásra érkezés esőben is kényelmes, mivel az állomás környéke jól védett. Egy rövid átszállással máris a piacon lehet.\n\nA piac tökéletes száraz bázis a délelőttre. Használja a helyi buszokat a Lajarrige strand eléréséhez, ahol egy barátságos kávézóból élvezheti a kilátást.\n\nA Dryades parkban a fedett pavilonok nyújthatnak menedéket, mielőtt busszal továbbmenne a kaszinóhoz. A kaszinó ideális végállomás egy esős napra.\n\nHagyatkozzon a pontos járatokra, hogy gyorsan és szárazon közlekedhessen a látnivalók között.",
+            "ro": "Sosirea la gara La Baule-Escoublac este confortabilă chiar și pe ploaie, deoarece zona gării este bine protejată. Un scurt transfer vă duce la piață.\n\nPiața oferă baza perfectă uscată pentru dimineață. Folosiți autobuzele locale pentru a ajunge la plaja Lajarrige, unde vă puteți bucura de priveliște dintr-o cafenea primitoare.\n\nÎn Parcul Dryades, pavilioanele acoperite pot oferi adăpost înainte de a continua cu autobuzul spre cazinou. Cazinoul este un punct final ideal pentru o zi ploioasă.\n\nBazați-vă pe conexiunile punctuale pentru a vă deplasa rapid și la uscat între obiective.",
+            "en": "Arriving at La Baule-Escoublac station is comfortable even in the rain as the station area is well-protected. A short transfer takes you to the market.\n\nThe market provides a perfect dry base for the morning. Use local buses to reach Lajarrige beach, where you can enjoy the view from a cozy cafe.\n\nIn Dryades Park, covered pavilions can provide shelter before you take the bus further to the casino. The casino is an ideal endpoint for a rainy day.\n\nRely on punctual connections to move quickly and dryly between the sights."
+          },
+          "stops": [
+            {
+              "name": "La Baule-Escoublac Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus oder Anschluss eintrifft.",
+                "hu": "Várjon az állomás várótermében, amíg a busza vagy csatlakozása megérkezik.",
+                "ro": "Așteptați în holul gării până când sosește autobuzul sau legătura dumneavoastră.",
+                "en": "Wait in the station hall until your bus or connection arrives."
+              }
+            },
+            {
+              "name": "Market / Town Center",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum haben meist gute Unterstände.",
+                "hu": "A központban lévő buszmegállók többsége jó váróval rendelkezik.",
+                "ro": "Stațiile de autobuz din centru au, de obicei, adăposturi bune.",
+                "en": "Bus stops in the center usually have good shelters."
+              }
+            },
+            {
+              "name": "Beach (Lajarrige)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah an den Cafés, so dass Sie kaum im Regen laufen müssen.",
+                "hu": "A megálló közel van a kávézókhoz, így alig kell az esőben gyalogolnia.",
+                "ro": "Stația este aproape de cafenele, așa că aproape că nu va trebui să mergeți prin ploaie.",
+                "en": "The stop is close to cafes, so you'll hardly have to walk in the rain."
+              }
+            },
+            {
+              "name": "Dryades Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp per Bus eher für den Blick aus dem Fenster geeignet.",
+                "hu": "Heves esőben ez a megálló inkább csak a buszablakból való nézelődésre alkalmas.",
+                "ro": "În caz de ploaie torențială, această oprire este mai potrivită pentru vederea din autobuz.",
+                "en": "In heavy rain, this stop is better suited for viewing from the bus window."
+              }
+            },
+            {
+              "name": "Casino",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang des Casinos.",
+                "hu": "A busz szinte közvetlenül a kaszinó bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării cazinoului.",
+                "en": "The bus stops almost directly in front of the casino entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Lila' Bus-App für Echtzeit-Informationen bei Regenverzögerungen.",
+              "Die Busse sind im Winter/bei Regen oft gut beheizt.",
+              "Halten Sie Ihr Ticket oder Handy griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "An Sonntagen fahren die Busse seltener, prüfen Sie den Fahrplan genau."
+            ],
+            "hu": [
+              "Használja a 'Lila' buszos alkalmazást a valós idejű információkhoz az eső miatti késéseknél.",
+              "A buszok télen és esőben gyakran jól fűtöttek.",
+              "Tartsa készenlétben a jegyét vagy mobilját, hogy elkerülje a keresgélést az esőben.",
+              "Vasárnaponként a buszok ritkábban járnak, ellenőrizze pontosan a menetrendet."
+            ],
+            "ro": [
+              "Utilizați aplicația de autobuz 'Lila' pentru informații în timp real în caz de întârzieri din cauza ploii.",
+              "Autobuzele sunt adesea bine încălzite iarna sau pe ploaie.",
+              "Aveți biletul sau telefonul la îndemână pentru a evita căutarea lor prin ploaie.",
+              "Duminica autobuzele circulă mai rar, verificați orarul cu atenție."
+            ],
+            "en": [
+              "Use the 'Lila' bus app for real-time info during rainy weather delays.",
+              "Buses are usually well-heated during winter or rainy periods.",
+              "Keep your ticket or phone ready to avoid searching for them in the rain.",
+              "Buses run less frequently on Sundays; check the schedule carefully."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bahnhof ist ruhig und friedlich. Mit dem Bus gelangen Sie schnell zum belebten Markt, dem Herz der Stadt im Winter.\n\nNach dem Marktbesuch führt Sie der Transit zum Strand von Lajarrige, wo die Wintersonne die See zum Glitzern bringt. Die Fahrt durch die Villenviertel ist nun besonders übersichtlich.\n\nIm Dryades Park können Sie die frische Luft genießen, bevor Sie den Bus zurück ins warme Casino nehmen. Die öffentlichen Verkehrsmittel sind im Winter ein zuverlässiger Begleiter.\n\nBeenden Sie Ihren Ausflug bequem mit dem Zug oder Bus, während die Dämmerung früh über La Baule hereinbricht.",
+            "hu": "A téli reggel az állomáson csendes és békés. Busszal gyorsan eljuthat a nyüzsgő piacra, amely télen a város szíve.\n\nA piaci látogatás után a közlekedés a Lajarrige strandhoz viszi, ahol a téli nap megcsillantja a tengert. A villanegyedeken keresztüli utazás ilyenkor különösen látványos.\n\nA Dryades parkban élvezheti a friss levegőt, mielőtt visszaszállna a buszra a meleg kaszinó felé. A tömegközlekedés télen is megbízható társ.\n\nZárja kirándulását kényelmesen vonattal vagy busszal, miközben a szürkület korán leszáll La Baule-ra.",
+            "ro": "Dimineața de iarnă la gară este calmă și liniștită. Cu autobuzul ajungeți rapid la piața plină de viață, inima orașului pe timp de iarnă.\n\nDupă vizitarea pieței, transportul vă duce la plaja Lajarrige, unde soarele de iarnă face marea să sclipescă. Călătoria prin cartierele de vile este acum deosebit de clară.\n\nÎn Parcul Dryades vă puteți bucura de aerul curat înainte de a lua autobuzul înapoi spre cazinoul călduros. Transportul public este un partener de încredere iarna.\n\nÎncheiați-vă excursia confortabil cu trenul sau autobuzul, în timp ce amurgul se lasă devreme peste La Baule.",
+            "en": "The winter morning at the station is quiet and peaceful. By bus, you quickly reach the bustling market, the heart of the town in winter.\n\nAfter visiting the market, transit takes you to Lajarrige beach, where the winter sun makes the sea sparkle. The ride through the villa districts is particularly scenic now.\n\nIn Dryades Park, you can enjoy the fresh air before taking the bus back to the warm casino. Public transport is a reliable companion in winter.\n\nEnd your excursion comfortably by train or bus as dusk falls early over La Baule."
+          },
+          "stops": [
+            {
+              "name": "La Baule-Escoublac Station",
+              "tip_5lang": {
+                "de": "Die Züge sind im Winter gut beheizt und bieten einen angenehmen Start.",
+                "hu": "A vonatok télen jól fűtöttek, és kellemes indulást biztosítanak.",
+                "ro": "Trenurile sunt bine încălzite iarna și oferă un început plăcut.",
+                "en": "Trains are well-heated in winter and provide a pleasant start."
+              }
+            },
+            {
+              "name": "Market / Town Center",
+              "tip_5lang": {
+                "de": "Das Stadtzentrum ist im Winter festlich geschmückt.",
+                "hu": "A városközpont télen ünnepi díszbe öltözik.",
+                "ro": "Centrul orașului este decorat festiv în timpul iernii.",
+                "en": "The town center is festively decorated during the winter."
+              }
+            },
+            {
+              "name": "Beach (Lajarrige)",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Bus zum Strand ist perfekt für die Wintersonne.",
+                "hu": "Egy rövid séta a busztól a strandig tökéletes a téli napsütésben.",
+                "ro": "O scurtă plimbare de la autobuz la plajă este perfectă pentru soarele de iarnă.",
+                "en": "A short walk from the bus to the beach is perfect for enjoying the winter sun."
+              }
+            },
+            {
+              "name": "Dryades Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um nach dem Parkbesuch schnell wieder ins Warme zu kommen.",
+                "hu": "Használja a buszt, hogy a parklátogatás után gyorsan visszaérjen a melegbe.",
+                "ro": "Folosiți autobuzul pentru a reveni rapid la căldură după vizitarea parcului.",
+                "en": "Use the bus to get back into the warmth quickly after visiting the park."
+              }
+            },
+            {
+              "name": "Casino",
+              "tip_5lang": {
+                "de": "Ein warmer und eleganter Ort für den späten Nachmittag.",
+                "hu": "Meleg és elegáns helyszín késő délutánra.",
+                "ro": "Un loc cald și elegant pentru după-amiaza târzie.",
+                "en": "A warm and elegant spot for the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter gibt es oft spezielle Wochenend-Tarife für die Region.",
+              "Die Abfahrtszeiten können sich in der Nebensaison leicht ändern.",
+              "Bahnhöfe sind gute Orte, um auf Karten und Broschüren zuzugreifen.",
+              "Der letzte Bus fährt im Winter oft etwas früher als im Hochsommer."
+            ],
+            "hu": [
+              "Télen gyakran vannak speciális hétvégi tarifák a régióban.",
+              "Az indulási idők a holtszezonban némileg módosulhatnak.",
+              "Az állomások jó helyek a térképek és brosúrák beszerzésére.",
+              "Az utolsó busz télen gyakran valamivel korábban indul, mint főszezonban."
+            ],
+            "ro": [
+              "Iarna există adesea tarife speciale de weekend pentru regiune.",
+              "Orele de plecare se pot modifica ușor în extrasezon.",
+              "Gările sunt locuri bune pentru a obține hărți și broșuri.",
+              "Ultimul autobuz pleacă adesea puțin mai devreme iarna decât în plină vară."
+            ],
+            "en": [
+              "There are often special weekend fares for the region in winter.",
+              "Departure times may change slightly during the off-season.",
+              "Stations are good places to pick up maps and brochures.",
+              "The last bus often departs earlier in winter than in high summer."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.labaule-guerande.com/",
-    "events": "https://www.labaule-guerande.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "",
-    "language_tips": {
-      "de": "La Baule hat einen der längsten Stadtstrände Europas (8 km). Französisch, mit gehobenem Pariser Sommerpublikum. Englisch in Hotels und Casinos gut. 'Plage' ist Strand, 'planches' sind die Holzwege am Strand. Salzgärten von Guérande in der Nähe.",
-      "hu": "La Baule Európa egyik leghosszabb városi strandjával rendelkezik (8 km). Francia, nyári pesti elit közönséggel. Az angol jól megy a szállodákban és kaszinókban. A 'Plage' a part, a 'planches' a fa-sétányok. Guérande sókertjei közel.",
-      "ro": "La Baule are una dintre cele mai lungi plaje urbane din Europa (8 km). Franceză, cu public select parizian vara. Engleza este bună la hoteluri și cazinou. 'Plage' = plajă, 'planches' = pasarele de lemn. Salinele de la Guérande sunt aproape.",
-      "en": "La Baule has one of Europe's longest urban beaches (8 km). French, with an upmarket Parisian summer crowd. English works well in hotels and casinos. 'Plage' is beach, 'planches' the wooden boardwalk. Guérande salt marshes are close by."
-    },
-    "best_time_to_visit": {
-      "de": "Juni-September für Strände und Atlantikwetter. Juli-August Hochsaison mit Stars, Tennisturnier 'Open de France' im Mai. Mai-Juni und September für ruhige Tage. Winter: viele Schließungen, Sturmgefahr.",
-      "hu": "Június-szeptember a strandokért és az atlanti időjárásért. Július-augusztus a csúcsszezon sztárokkal, májusban 'Open de France' teniszverseny. Május-június és szeptember csendesebb. Tél: sok zárás, viharveszély.",
-      "ro": "Iunie-septembrie pentru plaje și vremea atlantică. Iulie-august este sezon de vârf cu vedete, în mai turneul de tenis 'Open de France'. Mai-iunie și septembrie liniștite. Iarna: multe închideri, furtuni.",
-      "en": "June-September for beaches and Atlantic weather. July-August is high season with celebrities; 'Open de France' tennis in May. May-June and September are quieter. Winter: many closures and storms."
-    },
-    "neighborhood_warnings": {
-      "de": "Sehr sicher, gehobenes Publikum. Hauptrisiko: starke Atlantik-Strömungen, immer auf Rettungsschwimmer-Flaggen achten. Im Casino-Viertel nachts vereinzelt Taschendiebe. Verkehr im Juli-August chaotisch, früh fahren.",
-      "hu": "Nagyon biztonságos, igényes közönség. Fő kockázat: erős atlanti áramlatok, mindig figyelj a vízimentő-zászlókra. A kaszinó körzetében éjjel néhány zsebtolvaj. Júliusi-augusztusi forgalom kaotikus, indulj korán.",
-      "ro": "Foarte sigur, public select. Risc principal: curenți atlantici puternici, urmăriți steagurile salvamarilor. La cazinou, hoți de buzunare ocazionali noaptea. Trafic haotic în iulie-august, plecați devreme.",
-      "en": "Very safe, upmarket crowd. Main risk: strong Atlantic currents, watch lifeguard flags. Occasional pickpockets near the casino at night. Traffic is chaotic July-August, set off early."
-    },
-    "parking_real_time": ""
   }
 }

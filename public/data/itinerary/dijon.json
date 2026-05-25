@@ -343,6 +343,482 @@
           "Book your lunch table in advance, especially on weekends.",
           "The city center is very pedestrian-friendly."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Dijon auf der majestätischen Place de la Libération. Erkunden Sie den Herzogspalast und seine Kunstschätze, bevor Sie die berühmte Eule an der Notre-Dame suchen. Mittags genießen Sie die lebhafte Atmosphäre der Markthalle Les Halles. Den Nachmittag verbringen Sie mit der Geschichte der Kathedrale und einem entspannten Spaziergang durch den botanischen Garten.",
+            "hu": "Kezdje a napot Dijon szívében, a fenséges Place de la Libération téren. Fedezze fel a hercegi palotát és művészeti kincseit, mielőtt megkeresné a híres baglyot a Notre-Dame falán. Ebédre merüljön el a Les Halles piac vibráló hangulatában. A délutánt a székesegyház történetének megismerésével és egy pihentető sétával töltheti a botanikus kertben.",
+            "ro": "Începeți ziua în inima Dijonului, în maiestuoasa Place de la Libération. Explorați palatul ducal și comorile sale de artă înainte de a căuta celebra bufniță de la Notre-Dame. La prânz, bucurați-vă de atmosfera vibrantă a pieței Les Halles. După-amiaza este dedicată istoriei catedralei și unei plimbări relaxante prin grădina botanică.",
+            "en": "Start your day in the heart of Dijon at the majestic Place de la Libération. Explore the Ducal Palace and its art treasures before seeking out the famous owl at Notre-Dame. For lunch, immerse yourself in the vibrant atmosphere of the Les Halles market. Spend the afternoon uncovering the cathedral's history and enjoying a relaxing stroll through the botanical garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Felszabadulás tere",
+                "ro": "Piața Eliberării",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur des Herzogspalastes von der Mitte des Platzes.",
+                "hu": "Csodálja meg a hercegi palota félköríves architektúráját a tér közepéről.",
+                "ro": "Admirați arhitectura semicirculară a palatului ducal din centrul pieței.",
+                "en": "Admire the semicircular architecture of the ducal palace from the center of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais des Ducs et des Beaux-Arts",
+                "hu": "Hercegi palota és Szépművészeti Múzeum",
+                "ro": "Palatul Ducilor și Muzeul de Arte Frumoase",
+                "en": "Palace of the Dukes and Fine Arts Museum"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie den Philippe-le-Bon-Turm für eine großartige Aussicht.",
+                "hu": "Másszon fel a Philippe-le-Bon toronyba a nagyszerű kilátásért.",
+                "ro": "Urcați în turnul Philippe-le-Bon pentru o priveliște superbă.",
+                "en": "Climb the Philippe-le-Bon tower for a great view of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die kleine Eule an der Fassade und berühren Sie sie mit der linken Hand.",
+                "hu": "Keresse meg a kis baglyot a homlokzaton, és érintse meg bal kézzel.",
+                "ro": "Căutați mica bufniță pe fațadă și atingeți-o cu mâna stângă.",
+                "en": "Find the small owl on the facade and touch it with your left hand for luck."
+              }
+            },
+            {
+              "name": {
+                "de": "Place François-Rude",
+                "hu": "Place François-Rude",
+                "ro": "Piața François-Rude",
+                "en": "Place François-Rude"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Karussell und die Fachwerkhäuser zu sehen.",
+                "hu": "Remek hely a körhinta és a favázas házak megtekintéséhez.",
+                "ro": "Un loc excelent pentru a vedea caruselul și casele cu cadre de lemn.",
+                "en": "A great spot to see the carousel and half-timbered houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles Markt",
+                "hu": "Les Halles piac",
+                "ro": "Piața Les Halles",
+                "en": "Les Halles Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Käsesorten und Burgunder Schinken.",
+                "hu": "Kóstolja meg a helyi sajtokat és a burgundi sonkát.",
+                "ro": "Gustați brânzeturile locale și șunca de Burgundia.",
+                "en": "Taste local cheeses and Burgundian parsley ham."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Bénigne",
+                "hu": "Saint-Bénigne székesegyház",
+                "ro": "Catedrala Saint-Bénigne",
+                "en": "Saint-Bénigne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta mit ihren alten Kapellen.",
+                "hu": "Látogasson el a kriptába az ősi kápolnákhoz.",
+                "ro": "Vizitați cripta cu capelele sale antice.",
+                "en": "Visit the crypt with its ancient chapels."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin de l'Arquebuse",
+                "hu": "Botanikus kert",
+                "ro": "Grădina Botanică",
+                "en": "Jardin de l'Arquebuse"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im Planetarium oder spazieren Sie durch den Rosengarten.",
+                "hu": "Lazítson a planetáriumban vagy sétáljon a rózsakertben.",
+                "ro": "Relaxați-vă la planetariu sau plimbați-vă prin grădina de trandafiri.",
+                "en": "Relax at the planetarium or stroll through the rose garden."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boeuf Bourguignon",
+                "tip": "Der Klassiker der Region im Restaurant La Dame d'Aquitaine."
+              },
+              {
+                "name": "Moutarde de Dijon",
+                "tip": "Frische Senfsorten bei Maille oder Fallot probieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Burgundi marha",
+                "tip": "Helyi klasszikus a La Dame d'Aquitaine étteremben."
+              },
+              {
+                "name": "Dijoni mustár",
+                "tip": "Kóstoljon friss mustárvariációkat a Maille vagy Fallot üzletekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vită Bourguignon",
+                "tip": "Clasicul regional la restaurantul La Dame d'Aquitaine."
+              },
+              {
+                "name": "Muștar de Dijon",
+                "tip": "Gustați varietăți proaspete la magazinele Maille sau Fallot."
+              }
+            ],
+            "en": [
+              {
+                "name": "Beef Bourguignon",
+                "tip": "The regional classic at La Dame d'Aquitaine restaurant."
+              },
+              {
+                "name": "Dijon Mustard",
+                "tip": "Taste fresh mustard varieties at Maille or Fallot boutiques."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de l'Arquebuse",
+                "tip": "Ruhiger botanischer Garten.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square des Bénédictins",
+                "tip": "Friedlicher Platz hinter der Kathedrale.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de l'Arquebuse",
+                "tip": "Csendes botanikus kert a vasútállomás közelében.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square des Bénédictins",
+                "tip": "Békés tér a székesegyház mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de l'Arquebuse",
+                "tip": "Grădină botanică liniștită lângă gară.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square des Bénédictins",
+                "tip": "Piață pașnică în spatele catedralei.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de l'Arquebuse",
+                "tip": "Quiet botanical garden near the station.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Square des Bénédictins",
+                "tip": "Peaceful square behind the cathedral.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mulot & Petitjean",
+                "tip": "Traditioneller Lebkuchen seit 1796."
+              },
+              {
+                "name": "Rue de la Liberté",
+                "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mulot & Petitjean",
+                "tip": "Tradicionális mézeskalács 1796 óta."
+              },
+              {
+                "name": "Rue de la Liberté",
+                "tip": "A fő bevásárlóutca számos butikkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mulot & Petitjean",
+                "tip": "Turtă dulce tradițională din 1796."
+              },
+              {
+                "name": "Rue de la Liberté",
+                "tip": "Principala stradă comercială cu multe buticuri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mulot & Petitjean",
+                "tip": "Traditional gingerbread shop since 1796."
+              },
+              {
+                "name": "Rue de la Liberté",
+                "tip": "The main shopping street with many boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Folgen Sie den Eulenplaketten auf dem Boden (Parcours de la Chouette).",
+              "Besuchen Sie das Kunstmuseum (Musée des Beaux-Arts), es ist kostenlos.",
+              "Reservieren Sie Ihren Tisch für das Mittagessen im Voraus.",
+              "Die Stadt ist sehr fußgängerfreundlich."
+            ],
+            "hu": [
+              "Kövesse a földbe süllyesztett bagoly táblákat (Bagoly-útvonal).",
+              "A Szépművészeti Múzeum belépése ingyenes.",
+              "Foglaljon asztalt előre az ebédhez.",
+              "A belváros nagyon barátságos a gyalogosok számára."
+            ],
+            "ro": [
+              "Urmați plăcuțele cu bufnițe de pe jos (Parcours de la Chouette).",
+              "Vizitați Muzeul de Arte Frumoase, intrarea este gratuită.",
+              "Rezervați masa pentru prânz în avans.",
+              "Centrul orașului este foarte accesibil pe jos."
+            ],
+            "en": [
+              "Follow the bronze owl plaques on the ground (Owl Trail).",
+              "The Fine Arts Museum is free to visit.",
+              "Book your lunch table in advance, especially on weekends.",
+              "The city center is very pedestrian-friendly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Place de la Libération, wo der nasse Stein den herzoglichen Glanz widerspiegelt. Flüchten Sie vor dem Regen in den Palast der Herzöge und erkunden Sie die Kunstschätze im Trockenen. Mittags bietet die Markthalle Les Halles den perfekten Schutz für kulinarische Entdeckungen. Beenden Sie den Tag gemütlich in der Kathedrale Saint-Bénigne.",
+            "hu": "Kezdje a napot a Place de la Libération téren, ahol az esőben csillogó kövek még elegánsabbá teszik a látványt. A Hercegi Palota múzeuma tökéletes menedék a délelőtti záporok elől. Ebédidőben a Les Halles fedett piaca kínál gasztronómiai élményeket szárazon. Délután a Notre-Dame és a Szent Benignus-székesegyház belső terei nyújtanak nyugalmat és védelmet a borús időben.",
+            "ro": "Începeți ziua în Place de la Libération, unde piatra udă reflectă eleganța ducală a orașului. Refugiați-vă de ploaie în Palatul Ducilor, explorând muzeul de artă la adăpost. La prânz, piața acoperită Les Halles este locul ideal pentru degustări gurmande. Seara, atmosfera mistică a Catedralei Saint-Bénigne oferă un final cald și liniștit zilei ploioase.",
+            "en": "Start your day at Place de la Libération, where the rain adds a glossy finish to the limestone facades. Take shelter in the Palace of the Dukes, exploring the vast art collections indoors. For lunch, the covered Les Halles market provides a dry sanctuary for foodies. End your afternoon admiring the intricate interiors of the city's gothic churches while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Place de la Libération",
+              "tip_4lang": {
+                "de": "Die Arkaden rund um den Platz bieten hervorragenden Schutz vor plötzlichen Schauern.",
+                "hu": "A tér körüli árkádok mentén haladva szárazon megúszhatja a hirtelen záporokat.",
+                "ro": "Arcadele din jurul pieței oferă un adăpost excelent împotriva averselor bruște.",
+                "en": "The arcades surrounding the square provide excellent shelter from passing showers."
+              }
+            },
+            {
+              "name": "Palace of the Dukes and Fine Arts Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um mehrere Stunden im Trockenen zwischen Meisterwerken zu verbringen.",
+                "hu": "Ideális helyszín több órányi tartalmas kikapcsolódásra a remekművek között, szárazon.",
+                "ro": "Un loc ideal pentru a petrece câteva ore la adăpost printre capodopere de artă.",
+                "en": "An ideal place to spend several hours dry among world-class art masterpieces."
+              }
+            },
+            {
+              "name": "Church of Notre-Dame",
+              "tip_4lang": {
+                "de": "Bewundern Sie die berühmte Eule an der Außenwand, die im Regen mystisch wirkt.",
+                "hu": "Csodálja meg a falon lévő baglyot, amely az esőben különleges fényben csillog.",
+                "ro": "Admirați bufnița celebră de pe perete, care pare mistică sub picăturile de ploaie.",
+                "en": "Check out the famous owl on the exterior wall; it looks mystical in the rain."
+              }
+            },
+            {
+              "name": "Place François-Rude",
+              "tip_4lang": {
+                "de": "Die umliegenden Cafés mit Markisen sind perfekt für eine kurze Pause im Regen.",
+                "hu": "A környékbeli kávézók napellenzői alatt nyugodtan megpihenhet egy rövid időre.",
+                "ro": "Cafenelele din jur cu copertine sunt perfecte pentru o scurtă pauză pe ploaie.",
+                "en": "Nearby cafes with awnings are perfect for a short break during a downpour."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Vollständig überdacht – der beste Ort in Dijon, um dem Regen zu entkommen.",
+                "hu": "Teljesen fedett helyszín, a legjobb választás Dijonban esős idő esetén.",
+                "ro": "Complet acoperit – cel mai bun loc din Dijon pentru a scăpa de ploaie.",
+                "en": "Fully covered – the best spot in Dijon to escape the rain while exploring."
+              }
+            },
+            {
+              "name": "Saint-Bénigne Cathedral",
+              "tip_4lang": {
+                "de": "Die Krypta bietet eine faszinierende unterirdische Welt, völlig wetterunabhängig.",
+                "hu": "A kripta lenyűgöző földalatti világot kínál, amely teljesen védett az időjárástól.",
+                "ro": "Cripta oferă o lume subterană fascinantă, complet protejată de vremea de afară.",
+                "en": "The crypt offers a fascinating underground world, completely immune to the weather."
+              }
+            },
+            {
+              "name": "Jardin de l'Arquebuse",
+              "tip_4lang": {
+                "de": "Besuchen Sie das Naturkundemuseum im Park, wenn der Regen zu stark wird.",
+                "hu": "Látogassa meg a parkban található természettudományi múzeumot, ha elered az eső.",
+                "ro": "Vizitați muzeul de istorie naturală din parc dacă ploaia devine prea puternică.",
+                "en": "Visit the natural history museum inside the park if the rain gets too heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Eulen-Route' (Parcours de la Chouette), da viele Stopps unter Arkaden liegen.",
+              "Dijoner Senfverkostungen sind die perfekte Indoor-Aktivität bei schlechtem Wetter.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt rutschig sein kann.",
+              "Die Markthalle Les Halles ist dienstags, freitags und samstags vormittags der beste Zufluchtsort.",
+              "Viele Museen in Dijon sind kostenlos, ideal für spontane Regenpausen."
+            ],
+            "hu": [
+              "Kövesse a 'Bagoly-utat', a belvárosi útvonal sok pontja árkádok védelmében halad.",
+              "A mustárkóstolás tökéletes beltéri program, amikor kint vigasztalan az idő.",
+              "Vízálló cipő javasolt, mert az óváros mészkő burkolata esőben csúszóssá válhat.",
+              "A Les Halles piac kedden, pénteken és szombaton délelőtt a legjobb esőbiztos hely.",
+              "Dijon legtöbb múzeuma ingyenes, ideálisak egy-egy hirtelen zápor átvészelésére."
+            ],
+            "ro": [
+              "Urmați traseul 'Bufniței' (Parcours de la Chouette), multe puncte fiind sub arcade.",
+              "Degustările de muștar din magazinele locale sunt activitatea ideală de interior pe ploaie.",
+              "Purtați încălțăminte antiderapantă, deoarece pavajul din centrul vechi devine alunecos.",
+              "Piața Les Halles este cel mai bun refugiu marțea, vinerea și sâmbăta dimineața.",
+              "Multe muzee din Dijon au intrare gratuită, fiind perfecte pentru pauze scurte de ploaie."
+            ],
+            "en": [
+              "Follow the 'Owl Trail' (Parcours de la Chouette) as many sections pass under stone arcades.",
+              "Mustard tasting in boutiques is the perfect indoor activity when the weather turns sour.",
+              "Wear waterproof shoes; the limestone paving in the old town can be slippery when wet.",
+              "Les Halles market is your best dry bet on Tuesday, Friday, and Saturday mornings.",
+              "Many museums in Dijon offer free entry, making them great shelters during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Dijon im Winterlicht, beginnend am Place de la Libération mit einem wärmenden Kaffee. Der Herzogspalast bietet Schutz vor dem kalten Wind und zeigt Burgunds goldene Geschichte. Mittags lockt die Markthalle mit herzhaften regionalen Spezialitäten. Nutzen Sie das frühe Abendlicht für einen Spaziergang zur beleuchteten Kathedrale, bevor die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "Dijon téli fényeiben a Place de la Libération ünnepi hangulatot áraszt egy forró kávé társaságában. A Hercegi Palota falai között melegedhet meg a délelőtti fagyos szél elől. Ebédre a Les Halles piacon kóstoljon tartalmas burgundi ételeket. A korai sötétedés előtt látogasson el a Szent Benignus-székesegyházhoz, amely téli estéken különleges megvilágítást kap.",
+            "ro": "Experimentați Dijon în lumina iernii, începând în Place de la Libération cu o băutură caldă. Palatul Ducal oferă protecție împotriva vântului rece și dezvăluie istoria de aur a Burgundiei. La prânz, piața Les Halles vă atrage cu specialități regionale consistente. Profitați de lumina serii pentru a vedea catedrala iluminată înainte de apusul de la ora 17:00.",
+            "en": "Experience Dijon's winter charm starting at Place de la Libération with a warming drink. The Ducal Palace provides a grand escape from the crisp air while showcasing Burgundy's heritage. Enjoy hearty regional fare at Les Halles market for lunch. Make the most of the short daylight to see the illuminated cathedral before the sun sets around 5 PM."
+          },
+          "stops": [
+            {
+              "name": "Place de la Libération",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung, die den Platz festlich erhellt.",
+                "hu": "Élvezze a téri ünnepi díszkivilágítást, amely télen különleges fényt ad a városnak.",
+                "ro": "Bucurați-vă de luminile de sărbătoare care luminează piața într-un mod festiv.",
+                "en": "Enjoy the festive holiday lights that illuminate the square beautifully in winter."
+              }
+            },
+            {
+              "name": "Palace of the Dukes and Fine Arts Museum",
+              "tip_4lang": {
+                "de": "Die gut geheizten Galerien sind der perfekte Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "A jól fűtött galériák tökéletes helyszínt biztosítanak a felmelegedéshez két séta között.",
+                "ro": "Galeriile bine încălzite sunt locul perfect pentru a vă încălzi între vizite.",
+                "en": "The well-heated galleries are the perfect spot to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Church of Notre-Dame",
+              "tip_4lang": {
+                "de": "Die Kerzen im Inneren erzeugen an kalten Wintertagen eine besonders warme Atmosphäre.",
+                "hu": "A belső térben gyújtott gyertyák különlegesen meleg hangulatot árasztanak télen.",
+                "ro": "Lumânările din interior creează o atmosferă deosebit de caldă în zilele reci de iarnă.",
+                "en": "Candles inside create a particularly warm and peaceful atmosphere on cold winter days."
+              }
+            },
+            {
+              "name": "Place François-Rude",
+              "tip_4lang": {
+                "de": "Das Karussell ist im Winter besonders beliebt bei Kindern und festlich dekoriert.",
+                "hu": "A körhinta télen is működik, és ünnepi díszítése miatt a gyerekek kedvence.",
+                "ro": "Caruselul este decorat festiv și rămâne o atracție populară pentru copii și iarna.",
+                "en": "The carousel is festively decorated and remains a popular stop for families in winter."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Probieren Sie heißen 'Vin Chaud' (Glühwein) an einem der Marktstände.",
+                "hu": "Kóstolja meg a forró 'Vin Chaud'-t (forralt bort) az egyik piaci árusnál.",
+                "ro": "Gustați un 'Vin Chaud' (vin fiert) fierbinte la una dintre tarabele din piață.",
+                "en": "Try some hot 'Vin Chaud' (mulled wine) from one of the market vendors."
+              }
+            },
+            {
+              "name": "Saint-Bénigne Cathedral",
+              "tip_4lang": {
+                "de": "Besuchen Sie ein Abendkonzert, um die Akustik und Wärme des Kirchenraums zu genießen.",
+                "hu": "Látogasson el egy esti koncertre, hogy élvezze az akusztikát és a templom melegét.",
+                "ro": "Participați la un concert de seară pentru a vă bucura de acustica și căldura spațiului.",
+                "en": "Attend an evening concert to enjoy the acoustics and the warmth of the nave."
+              }
+            },
+            {
+              "name": "Jardin de l'Arquebuse",
+              "tip_4lang": {
+                "de": "Die kahlen Bäume bieten im Winter einen klaren Blick auf die umliegende Architektur.",
+                "hu": "A kopasz fák télen tiszta kilátást engednek a környék építészeti remekeire.",
+                "ro": "Copacii desfrunziți oferă o vedere clară asupra arhitecturii înconjurătoare iarna.",
+                "en": "The bare trees allow for clear views of the surrounding architecture in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Außenbesichtigungen für den Vormittag.",
+              "Burgundische Klassiker wie Boeuf Bourguignon schmecken im Winter am besten.",
+              "Tragen Sie Handschuhe, da der Wind in den engen Gassen der Altstadt kühl sein kann.",
+              "Der Place Darcy beherbergt oft einen gemütlichen kleinen Weihnachtsmarkt.",
+              "Kirchen bieten im Winter oft einen friedlichen und relativ warmen Rückzugsort."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, a kültéri látnivalókat érdemes délelőttre időzíteni.",
+              "A burgundi klasszikusok, mint a Boeuf Bourguignon, télen esnek a legjobban.",
+              "Viseljen kesztyűt, mert az óváros szűk utcáin a szél hidegnek érződhet.",
+              "A Place Darcy téren gyakran rendeznek hangulatos, kisméretű karácsonyi vásárt.",
+              "A templomok télen is békés és viszonylag meleg menedéket nyújtanak."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00; planificați vizitele în aer liber dimineața.",
+              "Preparatele clasice burgunde, precum Boeuf Bourguignon, sunt cele mai bune iarna.",
+              "Purtați mănuși, deoarece vântul poate fi tăios pe străzile înguste ale centrului vechi.",
+              "Place Darcy găzduiește adesea un mic și primitor târg de Crăciun.",
+              "Bisericile oferă adesea un refugiu liniștit și relativ cald pe timpul iernii."
+            ],
+            "en": [
+              "Sunset is around 5 PM; try to finish your outdoor sightseeing before late afternoon.",
+              "Hearty Burgundian classics like Boeuf Bourguignon are best enjoyed in winter.",
+              "Bring gloves; the wind channeled through the narrow old streets can be quite chilly.",
+              "Place Darcy often hosts a charming small Christmas market during the season.",
+              "Churches offer a peaceful and relatively warm retreat during the coldest hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -680,6 +1156,482 @@
           "There are many new bike lanes heading south.",
           "Combine your tour with a picnic in the park."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Dijon auf zwei Rädern! Von der Place Darcy radeln Sie durch das historische Zentrum zum prachtvollen Herzogspalast. Nach einem Marktbesuch führt Sie der Weg nach Süden in den weitläufigen Parc de la Colombière. Auf dem Rückweg besichtigen Sie das beeindruckende Puits de Moïse, bevor Sie im Arquebuse-Garten entspannen.",
+            "hu": "Fedezze fel Dijont két keréken! A Darcy tértől indulva tekerjen át a történelmi belvároson a pompás hercegi palotáig. Egy piaci látogatás után az út délre vezet a tágas Colombière parkba. Visszafelé nézze meg a lenyűgöző Mózes-kutat, majd pihenjen meg az Arquebuse kertben.",
+            "ro": "Descoperiți Dijonul pe două roți! De la Piața Darcy, pedalați prin centrul istoric până la splendidul palat ducal. După o vizită la piață, drumul vă duce spre sud, în vastul parc Colombière. La întoarcere, vizitați impresionantul Puț al lui Moise înainte de a vă relaxa în grădina Arquebuse.",
+            "en": "Discover Dijon on two wheels! From Place Darcy, cycle through the historic center to the magnificent Ducal Palace. After a market visit, the path leads south to the spacious Colombière Park. On your way back, see the impressive Well of Moses before relaxing in the Arquebuse Garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Darcy",
+                "hu": "Darcy tér",
+                "ro": "Piața Darcy",
+                "en": "Place Darcy"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Triumphbogen Guillaume.",
+                "hu": "Kezdje az utat a Guillaume diadalívnél.",
+                "ro": "Începeți traseul la arcul de triumf Guillaume.",
+                "en": "Start your journey at the Guillaume triumphal arch."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais des Ducs",
+                "hu": "Hercegi palota",
+                "ro": "Palatul Ducilor",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe der Rue de la Liberté.",
+                "hu": "Biztonságos kerékpártároló a Rue de la Liberté közelében.",
+                "ro": "Parcare securizată pentru biciclete lângă Rue de la Liberté.",
+                "en": "Secure bike parking available near Rue de la Liberté."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles",
+                "hu": "Vásárcsarnok",
+                "ro": "Piața Centrală",
+                "en": "Les Halles Market"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Snack zwischendurch.",
+                "hu": "Tökéletes hely egy gyors tízóraira vagy uzsonnára.",
+                "ro": "Perfect pentru o gustare rapidă între vizite.",
+                "en": "Perfect for a quick snack between visits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Renaissance-Fassade.",
+                "hu": "Csodálja meg a lenyűgöző reneszánsz homlokzatot.",
+                "ro": "Admirați impresionanta fațadă renascentistă.",
+                "en": "Admire the impressive Renaissance facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Colombière",
+                "hu": "Colombière park",
+                "ro": "Parcul Colombière",
+                "en": "Parc de la Colombière"
+              },
+              "tip_5lang": {
+                "de": "Großer Waldpark, ideal zum Radfahren auf den Alleen.",
+                "hu": "Hatalmas erdei park, ideális a sétányokon való tekeréshez.",
+                "ro": "Parc forestier mare, ideal pentru pedalat pe alei.",
+                "en": "Large forest park, ideal for cycling along the wide alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Mose-Brunnen",
+                "hu": "Mózes-kút",
+                "ro": "Puțul lui Moise",
+                "en": "Well of Moses"
+              },
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Bildhauerkunst im ehemaligen Kloster.",
+                "hu": "A szobrászművészet remekműve az egykori kolostorban.",
+                "ro": "O capodoperă a sculpturii în fosta mănăstire.",
+                "en": "A masterpiece of sculpture located in the former monastery."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin de l'Arquebuse",
+                "hu": "Arquebuse kert",
+                "ro": "Grădina Arquebuse",
+                "en": "Jardin de l'Arquebuse"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesem ruhigen botanischen Garten.",
+                "hu": "Zárja a túrát ebben a nyugodt botanikus kertben.",
+                "ro": "Încheiați turul în această grădină botanică liniștită.",
+                "en": "End your tour in this peaceful botanical garden."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gougères",
+                "tip": "Herzhafte Brandteigkrapfen mit Käse."
+              },
+              {
+                "name": "Kir",
+                "tip": "Der berühmte Aperitif aus Weißwein und Cassis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gougères",
+                "tip": "Sajtos égetett tészta golyócskák."
+              },
+              {
+                "name": "Kir",
+                "tip": "A híres aperitif fehérborból és feketeribizli-likőrből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gougères",
+                "tip": "Gogoși sărate din aluat opărit cu brânză."
+              },
+              {
+                "name": "Kir",
+                "tip": "Celebrul aperitiv din vin alb și lichior de coacăze."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gougères",
+                "tip": "Savory cheese puffs made of choux pastry."
+              },
+              {
+                "name": "Kir",
+                "tip": "The famous aperitif made of white wine and cassis liqueur."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Ideal für lange, ruhige Fahrten.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Port du Canal",
+                "tip": "Ruhiges Viertel am Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Ideális hosszú, csendes tekerésekhez.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Port du Canal",
+                "tip": "Nyugodt negyed a csatorna partján.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Ideal pentru plimbări lungi și liniștite.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Port du Canal",
+                "tip": "Cartier liniștit lângă apă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Ideal for long, quiet rides.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Port du Canal",
+                "tip": "Peaceful area by the canal.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vélodi Stationen",
+                "tip": "Einfaches Mieten von Fahrrädern überall."
+              },
+              {
+                "name": "La Boutique Maille",
+                "tip": "Senf direkt vom Fass."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vélodi állomások",
+                "tip": "Egyszerű kerékpárbérlés városszerte."
+              },
+              {
+                "name": "La Boutique Maille",
+                "tip": "Mustár közvetlenül a hordóból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stații Vélodi",
+                "tip": "Închiriere ușoară de biciclete peste tot."
+              },
+              {
+                "name": "La Boutique Maille",
+                "tip": "Muștar direct din butoi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vélodi Stations",
+                "tip": "Easy bike rentals available throughout the city."
+              },
+              {
+                "name": "La Boutique Maille",
+                "tip": "Mustard served directly from the pump."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Vélodi-Leihfahrräder.",
+              "Achten Sie auf die Einbahnstraßen im Stadtzentrum.",
+              "Es gibt viele neue Radwege in Richtung Süden.",
+              "Kombinieren Sie die Tour mit einem Picknick im Park."
+            ],
+            "hu": [
+              "Használja a Vélodi közösségi kerékpárokat.",
+              "Figyeljen az egyirányú utcákra a belvárosban.",
+              "Számos új kerékpárút vezet déli irányba.",
+              "Kösse össze a túrát egy parkbéli piknikkel."
+            ],
+            "ro": [
+              "Utilizați bicicletele de închiriat Vélodi.",
+              "Atenție la străzile cu sens unic din centrul orașului.",
+              "Există multe piste noi de biciclete spre sud.",
+              "Combinați turul cu un picnic în parc."
+            ],
+            "en": [
+              "Use the Vélodi self-service bike share system.",
+              "Watch out for one-way streets in the old town.",
+              "There are many new bike lanes heading south.",
+              "Combine your tour with a picnic in the park."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dijon per Rad im Regen erfordert Vorsicht, bietet aber leere Wege. Starten Sie am Place Darcy und fahren Sie zügig zum Ducal Palace, um dort im Trockenen zu verweilen. Der Parc de la Colombière wirkt im Regen melancholisch schön, aber achten Sie auf rutschiges Laub. Beenden Sie die Tour im Jardin de l'Arquebuse, wo die Gewächshäuser eine grüne Zuflucht bieten.",
+            "hu": "Dijon felfedezése kerékpáron esőben óvatosságot igényel, de csendes utakat kínál. A Place Darcy-tól indulva guruljon el a Hercegi Palotáig, ahol fedett helyen pihenhet. A Parc de la Colombière esőben is szép, de figyeljen a csúszós levelekre. A túrát a Jardin de l'Arquebuse-ben zárja, ahol az üvegházak zöld menedéket nyújtanak.",
+            "ro": "Explorarea orașului Dijon pe bicicletă pe ploaie necesită prudență, dar oferă trasee libere. De la Place Darcy, pedalați spre Palatul Ducal pentru o pauză la adăpost. Parcul Colombière are o frumusețe melancolică pe ploaie, dar atenție la frunzele umede. Încheiați la Jardin de l'Arquebuse, unde serele oferă un refugiu verde.",
+            "en": "Cycling through Dijon in the rain means quieter streets but requires extra care. Start at Place Darcy and head to the Ducal Palace for an indoor break. Parc de la Colombière has a moody charm in the wet, just watch out for slippery leaves. Finish at Jardin de l'Arquebuse, where the glasshouses provide a lush, dry escape."
+          },
+          "stops": [
+            {
+              "name": "Place Darcy",
+              "tip_4lang": {
+                "de": "Unter den Bäumen im Park Darcy finden Sie kurzzeitigen Schutz vor leichtem Regen.",
+                "hu": "A Darcy park fái alatt rövid ideig menedéket találhat az enyhe eső elől.",
+                "ro": "Sub copacii din parcul Darcy puteți găsi adăpost temporar de ploaia ușoară.",
+                "en": "The trees in Darcy Park provide some temporary cover from light drizzle."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe der Museen für einen längeren Stopp im Trockenen.",
+                "hu": "Használja a múzeumok közeli kerékpártárolókat egy hosszabb száraz pihenőhöz.",
+                "ro": "Folosiți rastelele de biciclete de lângă muzee pentru o oprire mai lungă la uscat.",
+                "en": "Use the bike racks near the museums for a longer, dry indoor break."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und genießen Sie regionale Köstlichkeiten wettergeschützt.",
+                "hu": "Parkoljon le biztonságosan, és élvezze a helyi finomságokat az esőtől védve.",
+                "ro": "Parcați bicicleta și savurați delicatesele locale protejat de intemperii.",
+                "en": "Park your bike and enjoy regional treats while staying fully protected from the rain."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_4lang": {
+                "de": "Die kunstvolle Renaissance-Fassade bietet einige Nischen zum Unterstellen.",
+                "hu": "A díszes reneszánsz homlokzat mélyedései némi védelmet nyújtanak az eső ellen.",
+                "ro": "Fațada renascentistă bogat decorată oferă câteva nișe unde vă puteți adăposti.",
+                "en": "The ornate Renaissance facade offers some niches to duck into for cover."
+              }
+            },
+            {
+              "name": "Parc de la Colombière",
+              "tip_4lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen im Park, sie können bei Nässe extrem glatt sein.",
+                "hu": "Vigyázzon a park kövezett útjain, esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Atenție pe aleile pavate din parc, pot fi extrem de alunecoase când sunt ude.",
+                "en": "Be careful on the paved paths in the park; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Well of Moses",
+              "tip_4lang": {
+                "de": "Das Monument ist überdacht, was den Besuch auch bei Regen sehr angenehm macht.",
+                "hu": "Az emlékmű fedett helyen van, így esőben is kényelmesen megtekinthető.",
+                "ro": "Monumentul este acoperit, ceea ce face vizita foarte plăcută chiar și pe ploaie.",
+                "en": "The monument is covered, making the visit very comfortable even during rain."
+              }
+            },
+            {
+              "name": "Jardin de l'Arquebuse",
+              "tip_4lang": {
+                "de": "Das Planetarium im Garten ist ein hervorragendes Ziel, um den Regentag zu beenden.",
+                "hu": "A kertben található planetárium kiváló célpont az esős nap lezárásához.",
+                "ro": "Planetariul din grădină este o destinație excelentă pentru a încheia o zi ploioasă.",
+                "en": "The planetarium within the garden is an excellent spot to end a rainy day trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur; das Wetter in Burgund kann schnell wechseln.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Pflastersteinen im historischen Zentrum.",
+              "Nutzen Sie die DiviaVélo-Stationen mit Überdachung, falls verfügbar.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe den Bremsweg verlängert.",
+              "Die großen Boulevards haben oft bessere Entwässerung als die kleinen Gassen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, a burgundi időjárás gyorsan változhat.",
+              "Kerülje a hirtelen kanyarodást a történelmi központ csúszós macskakövein.",
+              "Használja a fedett DiviaVélo tárolókat, ahol csak lehetséges.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség növeli a féktávot.",
+              "A nagy sugárutak vízelvezetése gyakran jobb, mint a szűk sikátoroké."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie; vremea în Burgundia se poate schimba rapid.",
+              "Evitați virajele bruște pe pavajul din centrul istoric, care devine foarte alunecos.",
+              "Căutați stațiile DiviaVélo acoperite pentru a vă lăsa bicicleta la adăpost.",
+              "Verificați frânele înainte de plecare, deoarece umiditatea mărește distanța de frânare.",
+              "Bulevardele mari au de obicei un drenaj mai bun decât străzile înguste."
+            ],
+            "en": [
+              "Wear full waterproof gear; weather in Burgundy can shift very rapidly.",
+              "Avoid sharp turns on the limestone pavers in the historic center when wet.",
+              "Look for covered DiviaVélo stations if you need to park during a heavy downpour.",
+              "Test your brakes before starting; wet rims significantly increase braking distance.",
+              "Main boulevards often have better drainage than the narrow medieval side streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Dijon ist erfrischend. Starten Sie dick eingepackt am Place Darcy. Der Ducal Palace glänzt in der Wintersonne. Mittags wärmen Sie sich in den Halles auf. Die Fahrt zum Parc de la Colombière führt durch klare Luft, aber achten Sie auf Eisstellen im Schatten. Beenden Sie den Tag früh, da es ab 16:30 Uhr dämmert.",
+            "hu": "Egy téri kerékpártúra Dijonban frissítő élmény. Induljon rétegesen öltözve a Place Darcy-tól. A Hercegi Palota ragyog a téli napsütésben. Ebédnél melegedjen fel a Les Halles piac forgatagában. A Parc de la Colombière felé vezető úton tiszta a levegő, de vigyázzon az árnyékos részeken előforduló jegesedésre. A napot fejezze be korán a 16:30-as szürkület miatt.",
+            "ro": "O plimbare de iarnă cu bicicleta prin Dijon este revigorantă. Plecați bine îmbrăcați de la Place Darcy. Palatul Ducal strălucește în soarele iernii. La prânz, încălziți-vă în piața Les Halles. Drumul spre parcul Colombière oferă aer curat, dar atenție la gheața din zonele umbrite. Încheiați ziua devreme, căci amurgul începe la 16:30.",
+            "en": "A winter bike ride through Dijon is brisk and refreshing. Start well-layered at Place Darcy. The Ducal Palace looks stunning in the clear winter light. Warm up at Les Halles market for lunch. The ride to Parc de la Colombière offers crisp air, but watch out for icy patches in shaded areas. Plan to finish early as twilight begins around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Place Darcy",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind am Morgen ist sehr kalt.",
+                "hu": "Viseljen meleg kesztyűt, a reggeli menetszél nagyon hideg lehet.",
+                "ro": "Purtați mănuși groase, curentul de aer de dimineață este foarte rece.",
+                "en": "Wear warm gloves; the morning wind chill while cycling can be intense."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Hände vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Egy rövid benti pihenő segít felmelegíteni a kezeit a továbbindulás előtt.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea mâinilor înainte de a pleca mai departe.",
+                "en": "A quick indoor break here helps warm up your hands before the next leg."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Perfekt für eine warme Suppe oder einen heißen Tee zur Mittagszeit.",
+                "hu": "Tökéletes hely egy meleg levesre vagy forró teára ebédidőben.",
+                "ro": "Perfect pentru o supă caldă sau un ceai fierbinte la ora prânzului.",
+                "en": "Perfect for a hot soup or a warm tea during your midday break."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_4lang": {
+                "de": "Die Fassade leuchtet im tiefstehenden Winterlicht besonders schön goldgelb.",
+                "hu": "A homlokzat az alacsonyan járó téli napfényben gyönyörű aranysárgán ragyog.",
+                "ro": "Fațada strălucește într-un galben auriu superb în lumina joasă a iernii.",
+                "en": "The facade glows with a beautiful golden hue in the low winter sunlight."
+              }
+            },
+            {
+              "name": "Parc de la Colombière",
+              "tip_4lang": {
+                "de": "Vermeiden Sie die schattigen Alleen, falls es in der Nacht Frost gab.",
+                "hu": "Kerülje az árnyékos fasorokat, ha éjszaka fagyott, mert jegesek maradhatnak.",
+                "ro": "Evitați aleile umbrite dacă a înghețat peste noapte, pot fi alunecoase.",
+                "en": "Avoid the shaded avenues if there was frost overnight; they stay icy longer."
+              }
+            },
+            {
+              "name": "Well of Moses",
+              "tip_4lang": {
+                "de": "Die Parkmöglichkeiten für Räder sind hier gut, auch im Winter leicht erreichbar.",
+                "hu": "A kerékpáros parkolás itt kiváló, télen is könnyen megközelíthető.",
+                "ro": "Posibilitățile de parcare pentru biciclete sunt bune și accesibile iarna.",
+                "en": "Bike parking facilities here are good and easily accessible even in winter."
+              }
+            },
+            {
+              "name": "Jardin de l'Arquebuse",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Beleuchtung Ihres Rades für die Rückfahrt in der Dämmerung.",
+                "hu": "Figyeljen a kerékpár világítására, ha a szürkületben indulna vissza.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere pe amurg.",
+                "en": "Make sure your bike lights are working for the return trip in the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie defensiv, da Reif auf den Wegen oft schwer zu sehen ist.",
+              "Die Dämmerung beginnt früh (ca. 16:30 Uhr) – Licht am Rad ist Pflicht.",
+              "Halten Sie die Fahrten kurz und legen Sie öfter Aufwärmpausen in Cafés ein.",
+              "Schützen Sie Ihr Gesicht mit einem Schal vor der kalten Winterluft.",
+              "Die Hauptradwege werden oft geräumt, Nebenwege können glatt sein."
+            ],
+            "hu": [
+              "Vezessen óvatosan, mert a zúzmara az utakon gyakran nehezen észrevehető.",
+              "A szürkület korán kezdődik (kb. 16:30) – a világítás kötelező.",
+              "Tartson rövidebb etapokat és iktasson be melegedő szüneteket kávézókban.",
+              "Sállal védje arcát a hideg menetszéltől menet közben.",
+              "A fő kerékpárutakat gyakran takarítják, de a mellékutak csúszósak lehetnek."
+            ],
+            "ro": [
+              "Pedalați defensiv, deoarece chiciura de pe drum este adesea greu de observat.",
+              "Amurgul începe devreme (aprox. 16:30) – luminile la bicicletă sunt obligatorii.",
+              "Faceți trasee mai scurte și opriți-vă des în cafenele pentru a vă încălzi.",
+              "Protejați-vă fața cu un fular împotriva aerului rece de iarnă în timpul mersului.",
+              "Pistele principale de biciclete sunt de obicei curățate, dar aleile pot fi glisante."
+            ],
+            "en": [
+              "Ride defensively as black ice or frost on the paths can be hard to spot.",
+              "Twilight starts early (around 4:30 PM) – working bike lights are essential.",
+              "Keep the segments short and plan frequent warm-up stops in local cafes.",
+              "Use a scarf to protect your face from the biting winter wind while riding.",
+              "Main cycle paths are usually cleared, but side streets may remain icy."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -994,6 +1946,450 @@
           "Warning: Do not drink wine if you still have to drive.",
           "The vineyards are most beautiful in autumn."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour kombiniert die Highlights von Dijon mit dem Charme der nahen Weinberge. Nach der Besichtigung des Herzogspalastes und der Markthalle fahren Sie zum historischen Mose-Brunnen. Anschließend verlassen Sie die Stadt in Richtung Süden nach Marsannay-la-Côte, dem Beginn der berühmten Côte de Nuits, für eine exklusive Weinprobe.",
+            "hu": "Ez az autós túra Dijon nevezetességeit ötvözi a közeli szőlőültetvények bájával. A hercegi palota és a vásárcsarnok megtekintése után látogasson el a történelmi Mózes-kúthoz. Ezután induljon délre Marsannay-la-Côte felé, amely a híres Côte de Nuits borvidék kezdete, egy exkluzív borkóstolóra.",
+            "ro": "Acest tur auto combină punctele forte ale Dijonului cu farmecul podgoriilor din apropiere. După vizitarea palatului ducal și a pieței, conduceți spre istoricul Puț al lui Moise. Apoi, părăsiți orașul spre sud către Marsannay-la-Côte, începutul faimoasei regiuni Côte de Nuits, pentru o degustare de vinuri.",
+            "en": "This car tour combines the highlights of Dijon with the charm of the nearby vineyards. After visiting the Ducal Palace and the market, drive to the historic Well of Moses. Then, head south out of the city to Marsannay-la-Côte, the start of the famous Côte de Nuits wine region, for an exclusive tasting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Felszabadulás tere",
+                "ro": "Piața Eliberării",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Beaux-Arts.",
+                "hu": "Parkoljon a Beaux-Arts mélygarázsban.",
+                "ro": "Parcați în parcarea Beaux-Arts.",
+                "en": "Park your car at the Beaux-Arts underground parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais des Ducs",
+                "hu": "Hercegi palota",
+                "ro": "Palatul Ducilor",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen von Dijon.",
+                "hu": "Dijon legfontosabb jelképe.",
+                "ro": "Simbolul principal al orașului Dijon.",
+                "en": "The main landmark of Dijon."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Halles Markt",
+                "hu": "Vásárcsarnok",
+                "ro": "Piața Les Halles",
+                "en": "Les Halles Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie Spezialitäten für die Weiterfahrt.",
+                "hu": "Vásároljon különlegességeket az útra.",
+                "ro": "Cumpărați specialități pentru drum.",
+                "en": "Buy local specialties for the rest of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Mose-Brunnen",
+                "hu": "Mózes-kút",
+                "ro": "Puțul lui Moise",
+                "en": "Well of Moses"
+              },
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit dem Auto, Parkplätze vorhanden.",
+                "hu": "Autóval könnyen megközelíthető, van parkoló.",
+                "ro": "Ușor accesibil cu mașina, parcare disponibilă.",
+                "en": "Easily accessible by car with parking available."
+              }
+            },
+            {
+              "name": {
+                "de": "Marsannay-la-Côte",
+                "hu": "Marsannay-la-Côte",
+                "ro": "Marsannay-la-Côte",
+                "en": "Marsannay-la-Côte"
+              },
+              "tip_5lang": {
+                "de": "Das Tor zur Weinstraße Route des Grands Crus.",
+                "hu": "A Route des Grands Crus borút kapuja.",
+                "ro": "Poarta de intrare pe drumul vinului Route des Grands Crus.",
+                "en": "The gateway to the Route des Grands Crus wine route."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Marsannay",
+                "hu": "Marsannay kastély",
+                "ro": "Castelul Marsannay",
+                "en": "Château de Marsannay"
+              },
+              "tip_5lang": {
+                "de": "Besichtigung der Weinkeller und Weinprobe.",
+                "hu": "Borospince látogatás és borkóstoló.",
+                "ro": "Vizitarea cramelor și degustare de vinuri.",
+                "en": "Visit the wine cellars and enjoy a tasting session."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Coq au Vin",
+                "tip": "In Rotwein geschmortes Hähnchen."
+              },
+              {
+                "name": "Époisses Käse",
+                "tip": "Ein kräftiger Weichkäse aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coq au Vin",
+                "tip": "Vörösborban párolt kakas."
+              },
+              {
+                "name": "Époisses sajt",
+                "tip": "Erős ízű, lágy helyi sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coq au Vin",
+                "tip": "Pui înăbușit în vin roșu."
+              },
+              {
+                "name": "Brânză Époisses",
+                "tip": "O brânză moale cu aromă puternică din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Coq au Vin",
+                "tip": "Chicken braised in red wine."
+              },
+              {
+                "name": "Époisses Cheese",
+                "tip": "A pungent soft cheese from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberge von Marsannay",
+                "tip": "Spaziergang durch die Reben.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Lac Kir",
+                "tip": "See am Stadtrand von Dijon.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marsannay szőlőskertjei",
+                "tip": "Séta a tőkék között.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Lac Kir",
+                "tip": "Tó Dijon szélén.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podgoriile din Marsannay",
+                "tip": "Plimbare printre vițele de vie.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Lac Kir",
+                "tip": "Lac la marginea orașului Dijon.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marsannay Vineyards",
+                "tip": "Stroll through the vines.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Lac Kir",
+                "tip": "Lake on the outskirts of Dijon.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cave de Marsannay",
+                "tip": "Große Auswahl an lokalen Weinen."
+              },
+              {
+                "name": "Moutarderie Fallot",
+                "tip": "Exklusiver Senf-Shop."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cave de Marsannay",
+                "tip": "Széles választék helyi borokból."
+              },
+              {
+                "name": "Moutarderie Fallot",
+                "tip": "Exkluzív mustárbolt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cave de Marsannay",
+                "tip": "Selecție largă de vinuri locale."
+              },
+              {
+                "name": "Moutarderie Fallot",
+                "tip": "Magazin exclusiv de muștar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cave de Marsannay",
+                "tip": "Wide selection of local wines."
+              },
+              {
+                "name": "Moutarderie Fallot",
+                "tip": "Exclusive mustard shop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum.",
+              "Fahren Sie die Route des Grands Crus entlang.",
+              "Achtung: Trinken Sie nicht, wenn Sie noch fahren müssen.",
+              "Die Weinberge sind im Herbst am schönsten."
+            ],
+            "hu": [
+              "Használja a belvárosi parkolóházakat.",
+              "Hajtson végig a Route des Grands Crus útvonalon.",
+              "Vigyázat: ne igyon alkoholt, ha még vezetnie kell.",
+              "A szőlőskertek ősszel a legszebbek."
+            ],
+            "ro": [
+              "Utilizați parcările supraetajate din centru.",
+              "Conduceți de-a lungul rutei Route des Grands Crus.",
+              "Atenție: nu consumați alcool dacă mai aveți de condus.",
+              "Podgoriile sunt cele mai frumoase toamna."
+            ],
+            "en": [
+              "Use the multi-story car parks in the city center.",
+              "Drive along the Route des Grands Crus.",
+              "Warning: Do not drink wine if you still have to drive.",
+              "The vineyards are most beautiful in autumn."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Dijon und seine Umgebung gemütlich vom Auto aus. Nach einem Stopp am Place de la Libération fahren Sie zum Well of Moses, der bei Regen gut geschützt ist. Die Fahrt durch die Weinberge nach Marsannay-la-Côte bietet trotz Regen eine malerische Sicht auf die burgundische Landschaft. Verkostungen im Château de Marsannay sind das ideale Schlechtwetterprogramm.",
+            "hu": "Fedezze fel Dijont és környékét kényelmesen, autóból. A Place de la Libération után látogasson el a Mózes-kúthoz, amely esőben is jól védett. A szőlőültetvényeken átvezető út Marsannay-la-Côte felé az eső ellenére is festői látványt nyújt. A Château de Marsannay borpincéi tökéletes menedéket és programot kínálnak borús időben.",
+            "ro": "Bucurați-vă de Dijon și împrejurimi din confortul mașinii. După o oprire în Place de la Libération, mergeți la Puțul lui Moise, bine protejat pe ploaie. Drumul prin podgorii spre Marsannay-la-Côte oferă o priveliște pitorească asupra peisajului burgund în ciuda ploii. Degustările de la Château de Marsannay sunt activitatea ideală pe vreme rea.",
+            "en": "Enjoy Dijon and its surroundings from the comfort of your car. After visiting Place de la Libération, head to the Well of Moses, which is well-sheltered. The drive through the vineyards to Marsannay-la-Côte offers scenic views of the Burgundian countryside even in the rain. Wine tastings at Château de Marsannay are the perfect rainy-day activity."
+          },
+          "stops": [
+            {
+              "name": "Place de la Libération",
+              "tip_4lang": {
+                "de": "Nutzen Sie das Parkhaus Saint-Anne, um direkt unter dem Zentrum im Trockenen zu parken.",
+                "hu": "Használja a Saint-Anne parkolóházat, hogy közvetlenül a központ alatt, szárazon parkolhasson.",
+                "ro": "Folosiți parcarea subterană Saint-Anne pentru a parca direct în centru, la adăpost.",
+                "en": "Use the Saint-Anne underground parking to arrive right in the center while staying dry."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Kurze Wege vom Parkhaus ermöglichen einen fast regenfreien Zugang zum Palast.",
+                "hu": "A közeli parkolóházból rövid sétával, szinte esőmentesen juthat el a palotába.",
+                "ro": "Distanțele scurte de la parcare permit un acces aproape ferit de ploaie la palat.",
+                "en": "Short walks from nearby parking decks allow for almost rain-free access to the palace."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Parken Sie im Parkhaus Grangier, nur wenige Schritte von der Markthalle entfernt.",
+                "hu": "Parkoljon a Grangier parkolóházban, amely csak néhány lépésre van a piactól.",
+                "ro": "Parcați în parcarea Grangier, aflată la doar câțiva pași de piața acoperită.",
+                "en": "Park at the Grangier parking garage, located just a few steps from the market hall."
+              }
+            },
+            {
+              "name": "Well of Moses",
+              "tip_4lang": {
+                "de": "Es gibt Parkplätze direkt vor dem Eingang, ideal bei starkem Regen.",
+                "hu": "Közvetlenül a bejárat előtt vannak parkolóhelyek, ami ideális szakadó esőben.",
+                "ro": "Există locuri de parcare chiar în fața intrării, ideal în caz de ploaie torențială.",
+                "en": "There are parking spots right in front of the entrance, ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Marsannay-la-Côte",
+              "tip_4lang": {
+                "de": "Die Straßen durch die Weinberge sind asphaltiert und auch bei Nässe gut befahrbar.",
+                "hu": "A szőlőültetvények közötti utak aszfaltozottak és esőben is jól járhatóak.",
+                "ro": "Drumurile prin podgorii sunt asfaltate și ușor de parcurs chiar și pe ploaie.",
+                "en": "The roads through the vineyards are paved and easy to drive even when wet."
+              }
+            },
+            {
+              "name": "Château de Marsannay",
+              "tip_4lang": {
+                "de": "Die Weinkeller sind der beste Ort, um den Regen bei einer Verkostung zu vergessen.",
+                "hu": "A borpincék a legjobb helyek, hogy egy kóstoló mellett elfeledje a kinti esőt.",
+                "ro": "Cramele sunt cel mai bun loc pentru a uita de ploaie în timpul unei degustări.",
+                "en": "The wine cellars are the best place to forget the rain during a tasting session."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zahlreichen Tiefgaragen in der Innenstadt (Grangier, Dauphine).",
+              "Die Route des Grands Crus ist auch bei Regen eine wunderschöne Panoramafahrt.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Teilen der Weinberge.",
+              "Buchen Sie Weinverkostungen im Voraus, da diese bei Regen sehr beliebt sind.",
+              "Verwenden Sie die Scheibenwischer-Intervallschaltung für bessere Sicht in den Gassen."
+            ],
+            "hu": [
+              "Használja a belvárosi mélygarázsokat (Grangier, Dauphine) az ázámentes közlekedéshez.",
+              "A Route des Grands Crus esőben is csodálatos panorámautat kínál.",
+              "Ügyeljen a tócsákra a szőlőültetvények alacsonyabban fekvő részein.",
+              "Foglaljon borkóstolót előre, mert esős időben ezek a helyek hamar megtelnek.",
+              "Állítsa az ablaktörlőt szakaszos üzemmódba a szűk utcákon való jobb kilátásért."
+            ],
+            "ro": [
+              "Folosiți numeroasele parcări subterane din centru (Grangier, Dauphine).",
+              "Route des Grands Crus rămâne un drum panoramic superb chiar și pe ploaie.",
+              "Fiți atenți la bălțile din zonele mai joase ale podgoriilor.",
+              "Rezervați degustările de vin în avans, deoarece sunt foarte căutate pe ploaie.",
+              "Folosiți ștergătoarele pe modul intermitent pentru o vizibilitate mai bună pe străduțe."
+            ],
+            "en": [
+              "Utilize the many underground parking lots in the city center (Grangier, Dauphine).",
+              "The Route des Grands Crus remains a beautiful scenic drive even in rainy weather.",
+              "Watch out for deep puddles in the lower-lying sections of the vineyard roads.",
+              "Book wine tastings in advance, as they become very popular when it rains.",
+              "Keep your wipers on a suitable setting for best visibility in the narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Burgund vom Fahrersitz aus entdecken: Starten Sie am festlich beleuchteten Place de la Libération. Besuchen Sie den Ducal Palace, bevor Sie zum Well of Moses weiterfahren. Die Fahrt nach Marsannay zeigt die kahle, aber elegante Struktur der Weinberge. Im Château de Marsannay wärmt Sie der burgundische Wein bei einer Kellerbesichtigung auf.",
+            "hu": "Fedezze fel a téli Burgundiát a vezetőülésből: kezdjen a díszkivilágított Place de la Libération-nál. Látogasson el a Hercegi Palotába, majd guruljon tovább a Mózes-kúthoz. A Marsannay felé vezető út a szőlőtőkék kopár, de elegáns rendjét mutatja. A Château de Marsannay-ban a burgundi bor és a pince hangulata melegíti fel a látogatás végén.",
+            "ro": "Descoperiți Burgundia de iarnă de la volan: începeți în Place de la Libération, iluminată festiv. Vizitați Palatul Ducal înainte de a pleca spre Puțul lui Moise. Drumul spre Marsannay dezvăluie structura golașă, dar elegantă a podgoriilor. La Château de Marsannay, vinul burgund vă va încălzi în timpul vizitei la cramă.",
+            "en": "Discover winter in Burgundy from the driver's seat: start at the festively lit Place de la Libération. Visit the Ducal Palace before heading to the Well of Moses. The drive to Marsannay showcases the stark but elegant lines of the winter vineyards. At Château de Marsannay, fine Burgundian wine will warm you up during a cellar tour."
+          },
+          "stops": [
+            {
+              "name": "Place de la Libération",
+              "tip_4lang": {
+                "de": "Dank der Parkhäuser müssen Sie nicht lange in der Kälte nach einem Platz suchen.",
+                "hu": "A parkolóházaknak köszönhetően nem kell sokáig a hidegben helyet keresnie.",
+                "ro": "Datorită parcărilor subterane, nu trebuie să căutați mult un loc în frig.",
+                "en": "Thanks to underground parking, you won't have to spend long searching in the cold."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Heizen Sie das Auto vor, während Sie die warmen Museumsräume besichtigen.",
+                "hu": "Melegítse elő az autót, miközben a múzeum fűtött termeit járja be.",
+                "ro": "Preîncălziți mașina în timp ce vizitați sălile calde ale muzeului.",
+                "en": "Let the car warm up while you explore the cozy, heated museum rooms."
+              }
+            },
+            {
+              "name": "Les Halles Market",
+              "tip_4lang": {
+                "de": "Kaufen Sie regionale Delikatessen als winterliche Vorräte für die Weiterfahrt.",
+                "hu": "Vásároljon helyi finomságokat téli útravalónak a további utazáshoz.",
+                "ro": "Cumpărați delicatese locale ca provizii de iarnă pentru drumul care urmează.",
+                "en": "Pick up some regional delicacies as winter snacks for the rest of your drive."
+              }
+            },
+            {
+              "name": "Well of Moses",
+              "tip_4lang": {
+                "de": "Im Winter ist es hier ruhiger, Parkplätze sind meist direkt verfügbar.",
+                "hu": "Télen itt csendesebb az élet, a parkolóhelyek általában azonnal elérhetőek.",
+                "ro": "Iarna este mai liniște aici, locurile de parcare fiind de obicei disponibile imediat.",
+                "en": "It's quieter here in winter, so parking spots are usually readily available."
+              }
+            },
+            {
+              "name": "Marsannay-la-Côte",
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Sicht auf die winterlichen Weinberge durch die Panoramafenster.",
+                "hu": "Élvezze a téli szőlőültetvények tiszta látványát az autó ablakain keresztül.",
+                "ro": "Bucurați-vă de vederea clară asupra podgoriilor de iarnă prin geamurile mașinii.",
+                "en": "Enjoy the crisp views of the winter vineyards through your car windows."
+              }
+            },
+            {
+              "name": "Château de Marsannay",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um den Tag bei einer gemütlichen Verkostung im Warmen zu beenden.",
+                "hu": "Ideális hely, hogy a napot egy kellemes kóstolóval zárja a melegben.",
+                "ro": "Un loc ideal pentru a încheia ziua cu o degustare plăcută la căldură.",
+                "en": "An ideal spot to conclude your day with a cozy wine tasting in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Die Route des Grands Crus kann bei Frost stellenweise glatt sein.",
+              "Nutzen Sie die Parkhäuser, um das Auto eisfrei zu halten.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr, um nicht im Dunkeln zu fahren.",
+              "Nehmen Sie eine Decke und heißen Tee für Pausen in den Weinbergen mit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben az lecsökkenhet.",
+              "A Route des Grands Crus út mentén fagy esetén előfordulhatnak jeges foltok.",
+              "Használjon mélygarázsokat, hogy az autó ne jegesedjen le parkolás közben.",
+              "Tervezze a visszautat 17:00 előtt, hogy elkerülje a sötétben való vezetést.",
+              "Vigyen magával takarót és forró teát a szőlőültetvények melletti pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece aceasta scade la frig.",
+              "Route des Grands Crus poate avea porțiuni alunecoase în caz de îngheț.",
+              "Folosiți parcările subterane pentru a păstra mașina ferită de îngheț.",
+              "Planificați întoarcerea înainte de ora 17:00 pentru a evita condusul pe întuneric.",
+              "Luați o pătură și ceai fierbinte pentru pauzele scurte printre podgorii."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop significantly in cold weather.",
+              "The Route des Grands Crus may have icy patches in shaded areas during frost.",
+              "Use underground parking garages to keep your car windshield frost-free.",
+              "Aim to be back by 5 PM to avoid driving on rural roads in total darkness.",
+              "Keep a blanket and a thermos of hot tea for breaks along the vineyard routes."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1308,34 +2704,451 @@
           "Download the Divia app for real-time schedules.",
           "Always validate your ticket when boarding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das ausgezeichnete Divia-Netzwerk von Dijon. Starten Sie am Bahnhof und erkunden Sie das Zentrum mit der Straßenbahn. Besuchen Sie das Museum der burgundischen Lebensart und fahren Sie anschließend mit dem Bus zum entspannenden Parc de la Colombière. Den Abschluss bildet ein Blick auf die moderne Architektur beim Auditorium.",
+            "hu": "Használja ki Dijon kiváló Divia közlekedési hálózatát. Kezdje a vasútállomásnál, és fedezze fel a belvárost villamossal. Látogassa meg a burgundi élet múzeumát, majd busszal menjen ki a pihentető Colombière parkba. A napot az Auditorium modern épületénél zárhatja.",
+            "ro": "Profitați de excelenta rețea Divia din Dijon. Începeți de la gară și explorați centrul cu tramvaiul. Vizitați muzeul vieții burgunde și apoi mergeți cu autobuzul către relaxantul parc Colombière. Încheiați ziua admirând arhitectura modernă de la Auditorium.",
+            "en": "Take advantage of Dijon's excellent Divia transport network. Start at the train station and explore the center by tram. Visit the Museum of Burgundian Life, then take a bus to the relaxing Colombière Park. Finish your day by admiring the modern architecture at the Auditorium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Dijon-Ville",
+                "hu": "Vasútállomás",
+                "ro": "Gara Dijon-Ville",
+                "en": "Dijon-Ville Station"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt für Trams und Busse.",
+                "hu": "A villamosok és buszok találkozási pontja.",
+                "ro": "Nod central pentru tramvaie și autobuze.",
+                "en": "Central hub for trams and buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Darcy",
+                "hu": "Darcy tér",
+                "ro": "Piața Darcy",
+                "en": "Place Darcy"
+              },
+              "tip_5lang": {
+                "de": "Nur eine Tramstation vom Bahnhof entfernt.",
+                "hu": "Csak egy villamosmegálló az állomástól.",
+                "ro": "Doar o stație de tramvai de la gară.",
+                "en": "Just one tram stop away from the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais des Ducs",
+                "hu": "Hercegi palota",
+                "ro": "Palatul Ducilor",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'République' oder 'Théâtre'.",
+                "hu": "Szálljon le a 'République' vagy 'Théâtre' megállónál.",
+                "ro": "Coborâți la stația 'République' sau 'Théâtre'.",
+                "en": "Get off at the 'République' or 'Théâtre' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Vie Bourguignonne",
+                "hu": "Burgundi élet múzeuma",
+                "ro": "Muzeul Vieții Burgunde",
+                "en": "Museum of Burgundian Life"
+              },
+              "tip_5lang": {
+                "de": "Einblick in das tägliche Leben im alten Burgund.",
+                "hu": "Betekintés a régi Burgundia mindennapi életébe.",
+                "ro": "O privire asupra vieții cotidiene în vechea Burgundie.",
+                "en": "Insight into daily life in old Burgundy."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Colombière",
+                "hu": "Colombière park",
+                "ro": "Parcul Colombière",
+                "en": "Parc de la Colombière"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit der Buslinie L6.",
+                "hu": "Az L6-os buszjárattal érhető el.",
+                "ro": "Accesibil cu linia de autobuz L6.",
+                "en": "Accessible via the L6 bus line."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium",
+                "hu": "Auditorium",
+                "ro": "Auditorium",
+                "en": "Auditorium"
+              },
+              "tip_5lang": {
+                "de": "Moderne Architektur, Haltestelle der Linie T1.",
+                "hu": "Modern építészet, a T1-es villamos vonalán.",
+                "ro": "Arhitectură modernă, stație pe linia T1.",
+                "en": "Modern architecture, located on the T1 tram line."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Würziger Honigkuchen von Mulot & Petitjean."
+              },
+              {
+                "name": "Escargots de Bourgogne",
+                "tip": "Weinbergschnecken mit Kräuterbutter."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Fűszeres mézeskalács a Mulot & Petitjean-tól."
+              },
+              {
+                "name": "Escargots de Bourgogne",
+                "tip": "Éti csigák fűszeres vajjal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Turtă dulce cu miere de la Mulot & Petitjean."
+              },
+              {
+                "name": "Escargots de Bourgogne",
+                "tip": "Melci de Burgundia cu unt cu ierburi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pain d'épices",
+                "tip": "Spiced gingerbread from Mulot & Petitjean."
+              },
+              {
+                "name": "Escargots de Bourgogne",
+                "tip": "Burgundy snails with garlic and parsley butter."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Viel Platz zum Ausruhen.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Jardin Japonais",
+                "tip": "Kleiner, versteckter Park.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Rengeteg hely a pihenéshez.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Japán kert",
+                "tip": "Kicsi, elrejtett park.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Mult spațiu pentru odihnă.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Grădina Japoneză",
+                "tip": "Un parc mic și ascuns.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc de la Colombière",
+                "tip": "Plenty of space to rest.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Japanese Garden",
+                "tip": "A small, hidden gem of a park.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Divia Mobilités Shop",
+                "tip": "Fahrkarten und Informationen am Place Darcy."
+              },
+              {
+                "name": "Toison d'Or",
+                "tip": "Großes Einkaufszentrum am Ende der Tramlinie T2."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Divia Mobilités üzlet",
+                "tip": "Jegyvásárlás és információ a Darcy téren."
+              },
+              {
+                "name": "Toison d'Or",
+                "tip": "Nagy bevásárlóközpont a T2-es villamos végén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Divia Mobilités",
+                "tip": "Bilete și informații în Piața Darcy."
+              },
+              {
+                "name": "Toison d'Or",
+                "tip": "Centru comercial mare la capătul liniei T2."
+              }
+            ],
+            "en": [
+              {
+                "name": "Divia Mobilités Shop",
+                "tip": "Tickets and info available at Place Darcy."
+              },
+              {
+                "name": "Toison d'Or",
+                "tip": "Large shopping mall at the end of tram line T2."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Tageskarte für Bus und Tram.",
+              "Die Trams fahren sehr häufig.",
+              "Laden Sie die Divia-App für Echtzeit-Infos herunter.",
+              "Entwerten Sie Ihr Ticket beim Einstieg."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra és villamosra.",
+              "A villamosok nagyon gyakran közlekednek.",
+              "Töltse le a Divia alkalmazást a valós idejű infókért.",
+              "Felszálláskor érvényesítse a jegyét."
+            ],
+            "ro": [
+              "Cumpărați un abonament de o zi pentru autobuz și tramvai.",
+              "Tramvaiele circulă foarte des.",
+              "Descărcați aplicația Divia pentru info în timp real.",
+              "Validați biletul la urcare."
+            ],
+            "en": [
+              "Buy a day pass for unlimited bus and tram travel.",
+              "Trams are very frequent and reliable.",
+              "Download the Divia app for real-time schedules.",
+              "Always validate your ticket when boarding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Dijons modernes Tram-System, um im Regen mobil zu bleiben. Starten Sie am Bahnhof Dijon-Ville und fahren Sie zum Place Darcy. Die Museen am Herzogspalast bieten stundenlangen Schutz. Mit der Linie T1 gelangen Sie bequem zum Auditorium und wieder zurück, während Sie den Regen von Ihrem Fensterplatz aus beobachten können.",
+            "hu": "Használja Dijon modern villamoshálózatát, hogy esőben is kényelmesen közlekedhessen. Kezdjen a Dijon-Ville pályaudvarnál, majd menjen a Place Darcy-ig. A Hercegi Palota múzeumaiban órákig elidőzhet szárazon. A T1-es vonal kényelmesen elviszi az Auditoriumhoz, miközben az ablakból nézheti az esőt.",
+            "ro": "Folosiți sistemul modern de tramvai din Dijon pentru a rămâne mobil pe ploaie. Începeți la gara Dijon-Ville și mergeți spre Place Darcy. Muzeele de la Palatul Ducal oferă ore de adăpost. Cu linia T1 ajungeți confortabil la Auditorium, observând ploaia de la fereastra tramvaiului.",
+            "en": "Utilize Dijon's modern tram system to stay mobile while keeping dry. Start at Dijon-Ville station and take a quick ride to Place Darcy. The museums at the Ducal Palace offer hours of indoor shelter. Use line T1 to reach the Auditorium comfortably while watching the rain fall from your window seat."
+          },
+          "stops": [
+            {
+              "name": "Dijon-Ville Station",
+              "tip_4lang": {
+                "de": "Der Bahnhof bietet großzügige Wartebereiche und direkten Zugang zur Tram.",
+                "hu": "Az állomás tágas várótermekkel és közvetlen villamoskapcsolattal rendelkezik.",
+                "ro": "Gara are zone de așteptare generoase și acces direct la tramvai.",
+                "en": "The station features spacious waiting areas and direct access to the tram platforms."
+              }
+            },
+            {
+              "name": "Place Darcy",
+              "tip_4lang": {
+                "de": "Die Tramstation 'Darcy' liegt direkt am Rand der Fußgängerzone im Trockenen.",
+                "hu": "A 'Darcy' villamosmegálló közvetlenül a sétálóövezet szélén, fedett helyen található.",
+                "ro": "Stația de tramvai 'Darcy' este chiar la marginea zonei pietonale, la adăpost.",
+                "en": "The 'Darcy' tram stop is right at the edge of the pedestrian zone and well-covered."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Godrans' ist nur ein kurzer Fußweg unter Arkaden zum Palast.",
+                "hu": "A 'Godrans' megállótól csak egy rövid séta a palota az árkádok védelmében.",
+                "ro": "Stația 'Godrans' este la o scurtă plimbare sub arcade până la palat.",
+                "en": "The 'Godrans' stop is just a short walk away, mostly under the cover of arcades."
+              }
+            },
+            {
+              "name": "Museum of Burgundian Life",
+              "tip_4lang": {
+                "de": "Nutzen Sie den City-Bus (DiviaCity), der Sie fast bis vor die Tür des Museums bringt.",
+                "hu": "Használja a City-buszt (DiviaCity), amely szinte a múzeum ajtajáig viszi.",
+                "ro": "Folosiți autobuzul City (DiviaCity) care vă lasă aproape de ușa muzeului.",
+                "en": "Take the small City-bus (DiviaCity) which drops you off very close to the entrance."
+              }
+            },
+            {
+              "name": "Parc de la Colombière",
+              "tip_4lang": {
+                "de": "Die Buslinie L6 bringt Sie direkt zum Parkeingang, minimaler Aufenthalt im Regen.",
+                "hu": "Az L6-os buszvonal közvetlenül a park bejáratához viszi, így alig kell áznia.",
+                "ro": "Linia de autobuz L6 vă lasă chiar la intrarea în parc, minimizând expunerea.",
+                "en": "Bus line L6 takes you directly to the park entrance, minimizing time in the rain."
+              }
+            },
+            {
+              "name": "Auditorium",
+              "tip_4lang": {
+                "de": "Die gleichnamige Tramstation T1 liegt unmittelbar vor dem modernen Gebäude.",
+                "hu": "Az azonos nevű T1-es villamosmegálló közvetlenül a modern épület előtt van.",
+                "ro": "Stația de tramvai T1 cu același nume este situată chiar în fața clădirii moderne.",
+                "en": "The T1 tram station of the same name is located right in front of the modern hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket (Pass 24h) an den Automaten, um flexibel umzusteigen.",
+              "Die Tramstationen sind meist gut überdacht und bieten Schutz während der Wartezeit.",
+              "Laden Sie die Divia-App für Echtzeit-Infos herunter, um Regenpausen zu planen.",
+              "Die kleinen Elektrobusse 'DiviaCity' fahren kostenlos durch die engen Gassen.",
+              "Museen in der Nähe der Tramlinien T1 und T2 sind die besten Regen-Ziele."
+            ],
+            "hu": [
+              "Vásároljon 24 órás jegyet az automatákból a rugalmas átszálláshoz.",
+              "A villamosmegállók többnyire fedettek, így védelmet nyújtanak várakozás közben.",
+              "Töltse le a Divia alkalmazást a valós idejű infókért az eső elkerülése végett.",
+              "A kis 'DiviaCity' elektromos buszok ingyenesek és a szűk utcákba is bemennek.",
+              "A T1 és T2 vonalak mentén található múzeumok a legjobb úti célok esőben."
+            ],
+            "ro": [
+              "Cumpărați un abonament de 24h de la automate pentru transferuri flexibile.",
+              "Stațiile de tramvai sunt în general bine acoperite, oferind protecție la așteptare.",
+              "Descărcați aplicația Divia pentru informații în timp real și evitarea ploii.",
+              "Autobuzele electrice mici 'DiviaCity' sunt gratuite și circulă pe străzile înguste.",
+              "Muzeele din apropierea liniilor de tramvai T1 și T2 sunt cele mai bune ținte pe ploaie."
+            ],
+            "en": [
+              "Purchase a 24-hour pass at the ticket machines for unlimited flexible transfers.",
+              "Most tram stations are well-sheltered, providing good cover while you wait.",
+              "Download the Divia app for real-time arrivals to minimize time spent in the rain.",
+              "The small 'DiviaCity' electric shuttles are free and navigate the narrow streets.",
+              "Museums located along tram lines T1 and T2 are your best rainy-day destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dijon im Winter lässt sich hervorragend mit Tram und Bus erkunden. Starten Sie im warmen Bahnhofsbereich von Dijon-Ville. Die Tram T1 bringt Sie schnell zum weihnachtlich geschmückten Place Darcy. Besuchen Sie das Museum für burgundisches Leben, das im Winter eine warme Atmosphäre bietet. Beenden Sie den Tag im Auditorium, bevor Sie die beleuchtete Stadt bei der Rückfahrt genießen.",
+            "hu": "A téli Dijon villamossal és busszal is remekül bejárható. Kezdjen a Dijon-Ville pályaudvar meleg várójában. A T1-es villamos gyorsan elviszi a karácsonyi díszbe öltözött Place Darcy-hoz. Látogasson el a Burgundi Élet Múzeumába, amely télen meghitt hangulatot áraszt. A napot zárja az Auditoriumban, majd élvezze a kivilágított várost hazafelé.",
+            "ro": "Dijonul de iarnă poate fi explorat excelent cu tramvaiul și autobuzul. Începeți în zona caldă a gării Dijon-Ville. Tramvaiul T1 vă duce rapid în Place Darcy, decorată de Crăciun. Vizitați Muzeul Vieții Burgunde, care oferă o atmosferă caldă iarna. Încheiați ziua la Auditorium, savurând orașul iluminat la întoarcere.",
+            "en": "Winter in Dijon is best navigated using the efficient tram and bus network. Start in the heated waiting area at Dijon-Ville station. Tram T1 zips you to the festively decorated Place Darcy in minutes. Visit the Museum of Burgundian Life for a cozy indoor experience. End your day at the Auditorium before enjoying the city lights on your ride back."
+          },
+          "stops": [
+            {
+              "name": "Dijon-Ville Station",
+              "tip_4lang": {
+                "de": "Die Wartebereiche im Bahnhof sind im Winter angenehm geheizt.",
+                "hu": "Az állomás várótermei télen kellemesen fűtöttek a várakozáshoz.",
+                "ro": "Zonele de așteptare din gară sunt încălzite plăcut pe timp de iarnă.",
+                "en": "The station waiting areas are comfortably heated during the winter months."
+              }
+            },
+            {
+              "name": "Place Darcy",
+              "tip_4lang": {
+                "de": "Vom Tram-Stopp aus erreichen Sie den kleinen Weihnachtsmarkt in wenigen Schritten.",
+                "hu": "A villamosmegállótól néhány lépéssel elérheti a hangulatos karácsonyi vásárt.",
+                "ro": "De la stația de tramvai ajungeți la micul târg de Crăciun în doar câțiva pași.",
+                "en": "From the tram stop, you can reach the local Christmas market in just a few steps."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_4lang": {
+                "de": "Die Museen hier sind die wärmsten Orte in der Altstadt für einen längeren Stopp.",
+                "hu": "Az itt található múzeumok az óváros legmelegebb helyei egy hosszabb pihenőhöz.",
+                "ro": "Muzeele de aici sunt cele mai calde locuri din centrul vechi pentru o oprire lungă.",
+                "en": "The museums here are some of the warmest spots in the old town for a long break."
+              }
+            },
+            {
+              "name": "Museum of Burgundian Life",
+              "tip_4lang": {
+                "de": "Ein sehr gemütliches Museum, ideal um dem kalten Winterwind zu entfliehen.",
+                "hu": "Nagyon barátságos múzeum, ideális a hideg téli szél elöli menekülésre.",
+                "ro": "Un muzeu foarte primitor, ideal pentru a scăpa de vântul rece de iarnă.",
+                "en": "A very cozy museum, perfect for escaping the biting winter wind for a while."
+              }
+            },
+            {
+              "name": "Parc de la Colombière",
+              "tip_4lang": {
+                "de": "Nehmen Sie den Bus L6 zurück, sobald die Sonne untergeht und es kühler wird.",
+                "hu": "Szálljon fel az L6-os buszra a visszaúthoz, amint lemegy a nap és hűlni kezd az idő.",
+                "ro": "Luați autobuzul L6 înapoi imediat ce soarele apune și se face mai frig.",
+                "en": "Hop on the L6 bus for your return as soon as the sun sets and the air cools down."
+              }
+            },
+            {
+              "name": "Auditorium",
+              "tip_4lang": {
+                "de": "Im Winter finden hier oft erstklassige Abendkonzerte im Warmen statt.",
+                "hu": "Télen gyakran rendeznek itt kiváló esti koncerteket a kellemes melegben.",
+                "ro": "Iarna aici au loc adesea concerte de seară de primă clasă, la căldură.",
+                "en": "In winter, this venue often hosts world-class evening concerts in a warm setting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Trams fahren bis spät in den Abend und sind gut geheizt.",
+              "Entwerten Sie Ihr Ticket vor dem Einsteigen an den Bahnsteig-Automaten.",
+              "Achten Sie auf die kürzeren Öffnungszeiten mancher Museen in der Nebensaison.",
+              "Nutzen Sie die App, um Wartezeiten an zugigen Haltestellen zu vermeiden.",
+              "Die Trams T1 und T2 kreuzen sich am Place Darcy – idealer Umsteigepunkt."
+            ],
+            "hu": [
+              "A villamosok késő estig közlekednek és jól fűtöttek.",
+              "A jegyét a peronon található automatáknál érvényesítse felszállás előtt.",
+              "Figyeljen egyes múzeumok téli, rövidebb nyitvatartási idejére.",
+              "Használja az appot, hogy ne kelljen sokat várnia a huzatos megállókban.",
+              "A T1 és T2 villamosok a Place Darcy-nál találkoznak, ez a legjobb átszállóhely."
+            ],
+            "ro": [
+              "Tramvaiele circulă până târziu în noapte și sunt bine încălzite.",
+              "Validați biletul la aparatele de pe peron înainte de a urca în tramvai.",
+              "Fiți atenți la programul de iarnă redus al unor muzee din oraș.",
+              "Folosiți aplicația pentru a evita așteptarea lungă în stațiile unde bate vântul.",
+              "Tramvaiele T1 și T2 se intersectează în Place Darcy – punctul ideal de transfer."
+            ],
+            "en": [
+              "Trams run late into the evening and are consistently well-heated.",
+              "Remember to validate your ticket at the platform machines before boarding.",
+              "Check for shorter winter opening hours at some of the city's smaller museums.",
+              "Use the Divia app to time your arrivals and avoid waiting at windy stops.",
+              "Tram lines T1 and T2 cross at Place Darcy, making it the best transfer hub."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.destinationdijon.com/",
-    "events": "https://www.destinationdijon.com/agenda/",
-    "city_card": "https://www.destinationdijon.com/dijon-city-pass/",
-    "museum_tickets": "",
-    "transit_official": "https://www.divia.fr/",
-    "language_tips": {
-      "de": "Dijon spricht klares Burgund-Franzoesisch, leicht und ohne starken Akzent. In Weinkellern und groesseren Restaurants Englisch verbreitet, in der Markthalle Halles weniger. 'Bonjour' beim Betreten jeder Boutique ist hier besonders wichtig, Burgund liebt Etikette.",
-      "hu": "Dijon tiszta burgundiai franciat beszel, konnyu, eros akcentus nelkul. A pinczetkben es nagy ettermekben angol megy, a Halles piaccsarnokban kevesbe. A boltba lepeskori 'bonjour' itt kiemelten fontos, Burgundia szereti az etikettet.",
-      "ro": "Dijon vorbeste o franceza burgunda clara, usoara, fara accent puternic. In pivnitele de vin si restaurantele mari engleza merge, in piata Halles mai putin. 'Bonjour' la intrarea in orice butic e foarte important, Burgundia tine la eticheta.",
-      "en": "Dijon speaks clear Burgundy French, easy and unaccented. English works in wine cellars and bigger restaurants, less at the Halles market. A 'bonjour' on entering any boutique matters extra here — Burgundy loves good manners."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-Juni und September-Oktober sind ideal: 18-25 Grad, Weinlese im September mit Routes des Grands Crus zugaenglich. Juli-August warm und touristisch, aber Festival International Folkloriques. Winter kalt (2-8 Grad), dafuer Senf-Wochenende und Weihnachtsmarkt rund um Palais des Ducs.",
-      "hu": "Majus-junius es szeptember-oktober a legjobb: 18-25 fok, szuretelhetnek a Routes des Grands Crus-on. Julius-augusztus meleg es turistas, viszont Folklor Fesztival. Tel hideg (2-8 fok), de mustar-hetvege es karacsonyi vasar a Palais des Ducs korul.",
-      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, vendemia in septembrie cu Routes des Grands Crus accesibila. Iulie-august sunt calde si turistice, dar cu festivalul folcloric. Iarna e rece (2-8 grade), insa cu weekend dedicat mustarului si targ de Craciun la Palais des Ducs.",
-      "en": "May-June and September-October are ideal: 18-25°C, with September harvest on the Routes des Grands Crus. July-August are warm and busy but bring the International Folklore Festival. Winter is cold (2-8°C) but offers a mustard weekend and a Christmas market by the Palais des Ducs."
-    },
-    "neighborhood_warnings": {
-      "de": "Grezille und Fontaine-d'Ouche abends meiden, touristisch uninteressant. Innenstadt und Place de la Liberation sehr sicher, gut beleuchtet. Bahnhof Dijon-Ville tagsueber okay, nachts ruhiger.",
-      "hu": "Grezille es Fontaine-d'Ouche este nem ajanlott, turistanak ertelmetlen. A belvaros es a Place de la Liberation nagyon biztonsagos, jol vilagitott. Dijon-Ville allomas nappal rendben, ejjel csendesebb.",
-      "ro": "Grezille si Fontaine-d'Ouche sunt de evitat seara, fara interes turistic. Centrul si Place de la Liberation sunt foarte sigure, bine iluminate. Gara Dijon-Ville e ok ziua, mai linistita noaptea.",
-      "en": "Avoid Grezille and Fontaine-d'Ouche after dark — no tourist interest. The centre and Place de la Liberation are very safe and well-lit. Dijon-Ville station is fine by day, quieter at night."
-    },
-    "parking_real_time": ""
   }
 }

@@ -320,6 +320,450 @@
           "Visit the castle right at opening at 9 AM.",
           "The park is accessible for free."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag in Chambord beginnt am malerischen Place Saint-Louis, bevor Sie in die Pracht der Renaissance eintauchen. Das Schloss beeindruckt mit seiner Architektur und der berühmten Treppe. Nach einem regionalen Mittagessen spazieren Sie durch die geometrisch angelegten französischen Gärten und lassen den Tag entspannt am großen Kanal ausklingen, wo sich die Türme im Wasser spiegeln.",
+            "hu": "A chambord-i nap a festői Place Saint-Louis-n kezdődik, mielőtt elmerülne a reneszánsz pompájában. A kastély építészete és a híres lépcsőház lenyűgöző látványt nyújt. Egy regionális ebéd után sétáljon végig a mértani francia kerteken, majd zárja a napot a nagy csatorna partján, ahol a kastély tornyai tükröződnek a víz felszínén.",
+            "ro": "Ziua dumneavoastră la Chambord începe în pitoreasca Place Saint-Louis, înainte de a vă scufunda în splendoarea Renașterii. Castelul impresionează prin arhitectura sa și faimoasa scară. După un prânz regional, plimbați-vă prin grădinile franceze geometrice și încheiați ziua relaxat lângă marele canal, unde turnurile se oglindesc în apă.",
+            "en": "Your day in Chambord begins at the picturesque Place Saint-Louis before diving into Renaissance grandeur. The castle impresses with its architecture and the famous staircase. After a regional lunch, stroll through the geometric French gardens and end the day relaxed by the grand canal, where the towers are reflected in the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Saint-Louis",
+                "hu": "Place Saint-Louis",
+                "ro": "Piața Saint-Louis",
+                "en": "Saint-Louis Square"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich hier Ihren ersten Kaffee mit Blick auf das Dorf.",
+                "hu": "Igyon itt egy kávét a falura néző kilátással.",
+                "ro": "Luați prima cafea aici cu vedere la sat.",
+                "en": "Grab your first coffee here with a view of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chambord - Haupthalle",
+                "hu": "Chambord-i kastély - Főcsarnok",
+                "ro": "Castelul Chambord - Holul Principal",
+                "en": "Château de Chambord - Main Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Doppelwendeltreppe ist das absolute Highlight.",
+                "hu": "A kettős csigalépcső az abszolút fénypont.",
+                "ro": "Scara cu dublă elice este punctul culminant.",
+                "en": "The double helix staircase is the absolute highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Dachterrassen",
+                "hu": "Tetőteraszok",
+                "ro": "Terasele de pe acoperiș",
+                "en": "Roof Terraces"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schornsteine aus der Nähe.",
+                "hu": "Csodálja meg közelről a kéményeket.",
+                "ro": "Admirați coșurile de fum de aproape.",
+                "en": "Admire the chimneys from up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Saint-Michel (Mittagessen)",
+                "hu": "Le Grand Saint-Michel (Ebéd)",
+                "ro": "Le Grand Saint-Michel (Prânz)",
+                "en": "Le Grand Saint-Michel (Lunch)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Spezialitäten mit Blick auf das Schloss.",
+                "hu": "Élvezze a regionális specialitásokat a kastélyra néző kilátással.",
+                "ro": "Savurați specialități regionale cu vedere la castel.",
+                "en": "Enjoy regional specialties with a view of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Französische Gärten",
+                "hu": "Francia kertek",
+                "ro": "Grădinile Franceze",
+                "en": "French Gardens"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für Panoramafotos des Schlosses.",
+                "hu": "Tökéletes hely a kastély panorámafotóihoz.",
+                "ro": "Locul perfect pentru fotografii panoramice ale castelului.",
+                "en": "Perfect spot for panoramic photos of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanalpromenade",
+                "hu": "Csatorna menti sétány",
+                "ro": "Promenada Canalului",
+                "en": "Canal Promenade"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiegelbild des Schlosses im Wasser.",
+                "hu": "Figyelje a kastély tükröződését a vízben.",
+                "ro": "Observați reflexia castelului în apă.",
+                "en": "Watch the reflection of the castle in the water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Grand Saint-Michel",
+                "tip": "Wildgerichte aus der Sologne."
+              },
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Probieren Sie die Palets de Sologne."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Grand Saint-Michel",
+                "tip": "Vadhúsételek a Sologne régióból."
+              },
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Kóstolja meg a Palets de Sologne kekszet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Grand Saint-Michel",
+                "tip": "Mâncăruri din vânat din regiunea Sologne."
+              },
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Încercați biscuiții Palets de Sologne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Grand Saint-Michel",
+                "tip": "Game dishes from the Sologne region."
+              },
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Try the Palets de Sologne biscuits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canal de Chambord",
+                "tip": "Ruhiger Spaziergang am Wasser.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Waldrand",
+                "tip": "Beobachten Sie Hirsche in der Ferne.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canal de Chambord",
+                "tip": "Csendes séta a vízparton.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Erdőszél",
+                "tip": "Figyelje meg a szarvasokat a távolban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canal de Chambord",
+                "tip": "Plimbare liniștită pe malul apei.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Marginea pădurii",
+                "tip": "Observați cerbii în depărtare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal de Chambord",
+                "tip": "Quiet walk by the water.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Forest edge",
+                "tip": "Watch deer in the distance.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Boutique du Château",
+                "tip": "Exklusive Souvenirs und Bücher."
+              },
+              {
+                "name": "Marché local",
+                "tip": "Regionaler Honig und Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Boutique du Château",
+                "tip": "Exkluzív ajándéktárgyak és könyvek."
+              },
+              {
+                "name": "Helyi piac",
+                "tip": "Regionális méz és bor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Boutique du Château",
+                "tip": "Suveniruri și cărți exclusive."
+              },
+              {
+                "name": "Piața locală",
+                "tip": "Miere și vin regional."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Boutique du Château",
+                "tip": "Exclusive souvenirs and books."
+              },
+              {
+                "name": "Local market",
+                "tip": "Regional honey and wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+              "Tragen Sie bequeme Schuhe für die vielen Treppen.",
+              "Besuchen Sie das Schloss direkt zur Öffnung um 9 Uhr.",
+              "Der Park ist kostenlos zugänglich."
+            ],
+            "hu": [
+              "Vásároljon jegyet online a sorban állás elkerülése érdekében.",
+              "Viseljen kényelmes cipőt a sok lépcső miatt.",
+              "Látogassa meg a kastélyt közvetlenül a 9 órai nyitáskor.",
+              "A park ingyenesen látogatható."
+            ],
+            "ro": [
+              "Cumpărați bilete online pentru a evita cozile.",
+              "Purtați încălțăminte confortabilă pentru multele scări.",
+              "Vizitați castelul imediat la deschiderea de la ora 9.",
+              "Parcul este accesibil gratuit."
+            ],
+            "en": [
+              "Buy tickets online to avoid queues.",
+              "Wear comfortable shoes for the many stairs.",
+              "Visit the castle right at opening at 9 AM.",
+              "The park is accessible for free."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Saint-Louis-Platz, wo Pfützen das Schloss spiegeln. Mittags bietet das Schloss Schutz vor dem Regen, während Sie die Doppelwendeltreppe erkunden. Am Nachmittag wirken die Gärten im Regen melancholisch, ein Schirm ist unerlässlich. Den Abend lassen Sie gemütlich in einem lokalen Bistro ausklingen, weit weg vom nassen Wetter.",
+            "hu": "A reggel a Saint-Louis téren indul, ahol a tócsák tükrözik a kastélyt. Délben a várfalak nyújtanak menedéket a zápor elől, miközben a kettős lépcsőházat csodálja. Délután a kertek melankolikus arcukat mutatják, az esernyő kötelező kellék. Az estét egy barátságos bisztróban töltjük, távol a kinti nedves időjárástól.",
+            "ro": "Dimineața începe în Piața Saint-Louis, unde bălțile reflectă castelul. La prânz, interiorul castelului oferă adăpost împotriva ploii în timp ce explorați scările duble. După-amiaza, grădinile par melancolice sub ploaie, umbrela fiind indispensabilă. Seara se încheie confortabil într-un bistro local, departe de vremea umedă de afară.",
+            "en": "The morning starts at Saint-Louis Square, where puddles reflect the chateau. At noon, the castle walls provide shelter from the downpour as you explore the double helix staircase. In the afternoon, the gardens show a melancholy face, making an umbrella essential. The evening ends cozily in a local bistro, far from the wet weather outside."
+          },
+          "stops": [
+            {
+              "name": "Saint-Louis Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Geschäfte trocken bleiben.",
+                "hu": "Az üzletek árkádjai alatt védve maradhat az esőtől.",
+                "ro": "Rămâneți la adăpost sub arcadele magazinelor.",
+                "en": "Stay dry under the shop arcades."
+              }
+            },
+            {
+              "name": "Château de Chambord - Main Hall",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális helyszín a legnagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "Ideal place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Roof Terraces",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek esőben.",
+                "ro": "Atenție, treptele de piatră pot fi alunecoase.",
+                "en": "Caution, the stone steps can be slippery."
+              }
+            },
+            {
+              "name": "Le Grand Saint-Michel (Lunch)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel zu trocknen.",
+                "hu": "Használja a ruhatárat a vizes kabátok szárítására.",
+                "ro": "Folosiți garderoba pentru a usca haina udă.",
+                "en": "Use the cloakroom to dry off wet coats."
+              }
+            },
+            {
+              "name": "French Gardens",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wegen des aufgeweichten Bodens wichtig.",
+                "hu": "A felázott talaj miatt zárt, vízhatlan cipő ajánlott.",
+                "ro": "Încălțămintea solidă este necesară din cauza noroiului.",
+                "en": "Sturdy shoes are important due to the muddy ground."
+              }
+            },
+            {
+              "name": "Canal Promenade",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang reicht, da kaum Unterstand vorhanden.",
+                "hu": "Rövid séta javasolt, mert kevés a fedett rész.",
+                "ro": "Plimbare scurtă, deoarece există puține adăposturi.",
+                "en": "Keep the walk short as there is little shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Gartenwege.",
+              "Nutzen Sie die kostenlosen Schließfächer im Schloss für nasse Sachen.",
+              "Die Dachterrassen bieten bei Regen einzigartige Fotomotive durch Spiegelungen.",
+              "Planen Sie mehr Zeit für die Innenbesichtigung ein.",
+              "Ein Taschenregenschirm ist praktischer als ein großer Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a kerti utakhoz.",
+              "Használja a kastély ingyenes szekrényeit a vizes holmiknak.",
+              "A tetőteraszok esőben különleges tükröződő fotótémákat kínálnak.",
+              "Tervezzen több időt a belső terek felfedezésére.",
+              "Egy összecsukható esernyő praktikusabb, mint a hosszú nyelű változat."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru potecile din grădină.",
+              "Folosiți dulapurile gratuite din castel pentru lucrurile ude.",
+              "Terasele de pe acoperiș oferă oportunități foto unice datorită reflexiilor.",
+              "Alocați mai mult timp vizitării interiorului.",
+              "O umbrelă compactă este mai practică decât una mare."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the garden paths.",
+              "Use the free lockers in the castle for wet items.",
+              "The roof terraces offer unique photo opportunities with reflections.",
+              "Plan more time for the indoor visit.",
+              "A compact umbrella is more practical than a large walking one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Frost auf den Wiesen rund um Chambord. Mittags wärmen Sie sich in den gewaltigen Sälen des Schlosses auf, wo die Kälte draußen bleibt. Nachmittags taucht die frühe Wintersonne die Fassade in goldenes Licht. Abends, wenn es bereits um 17 Uhr dunkel wird, strahlt das Dorf eine besinnliche Ruhe aus.",
+            "hu": "Reggelente gyakran dér fedi a Chambord körüli mezőket. Délben a kastély monumentális termeiben melegedhetünk fel, ahol a falak kizárják a hideget. Délután a korai téli napsütés arany fénybe vonja a homlokzatot. Este, mivel már 17 órakor sötétedik, a falu meghitt nyugalmat áraszt.",
+            "ro": "Dimineața, bruma acoperă adesea câmpiile din jurul castelului. La prânz, vă încălziți în sălile monumentale ale castelului, unde frigul este lăsat afară. După-amiaza, soarele palid de iarnă scaldă fațada în lumină aurie. Seara, deoarece se întunecă deja la ora 17, satul emană o liniște profundă.",
+            "en": "In the morning, frost often covers the meadows around Chambord. At noon, warm up in the monumental halls of the castle, where the cold stays outside. In the afternoon, the early winter sun bathes the facade in golden light. In the evening, as it gets dark by 5 PM, the village radiates a peaceful calm."
+          },
+          "stops": [
+            {
+              "name": "Saint-Louis Square",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee zum Aufwärmen.",
+                "hu": "Vegyél egy forró kávét a bemelegítéshez.",
+                "ro": "Luați o cafea fierbinte pentru a vă încălzi.",
+                "en": "Grab a hot coffee to warm up."
+              }
+            },
+            {
+              "name": "Château de Chambord - Main Hall",
+              "tip_5lang": {
+                "de": "Achtung, die großen Hallen können zugig sein.",
+                "hu": "Vigyázat, a nagy csarnokok huzatosak lehetnek.",
+                "ro": "Atenție, sălile mari pot avea curent de aer.",
+                "en": "Caution, the large halls can be drafty."
+              }
+            },
+            {
+              "name": "Roof Terraces",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Dach ist im Winter sehr schneidend.",
+                "hu": "A szél a tetőn télen nagyon metsző lehet.",
+                "ro": "Vântul pe acoperiș este foarte tăios iarna.",
+                "en": "The wind on the roof is very biting in winter."
+              }
+            },
+            {
+              "name": "Le Grand Saint-Michel (Lunch)",
+              "tip_5lang": {
+                "de": "Probieren Sie regionale Wildgerichte der Saison.",
+                "hu": "Kóstolja meg a szezonális vadételeket.",
+                "ro": "Gustați preparatele din vânat de sezon.",
+                "en": "Try the seasonal regional game dishes."
+              }
+            },
+            {
+              "name": "French Gardens",
+              "tip_5lang": {
+                "de": "Die Geometrie ist bei Frost besonders klar sichtbar.",
+                "hu": "A kertek geometriája zúzmarás időben a leglátványosabb.",
+                "ro": "Geometria este clar vizibilă în timpul înghețului.",
+                "en": "The geometry is especially clear during frost."
+              }
+            },
+            {
+              "name": "Canal Promenade",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang vor Sonnenuntergang um 17 Uhr.",
+                "hu": "Fejezze be a sétát a 17 órai naplemente előtt.",
+                "ro": "Încheiați plimbarea înainte de apusul de la ora 17.",
+                "en": "Finish the walk before sunset at 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für kalte Schlossräume.",
+              "Die Sonne geht früh unter, nutzen Sie das Mittagslicht für Fotos.",
+              "Warme Handschuhe sind für die Außenbereiche unerlässlich.",
+              "Besuchen Sie das Schloss direkt zur Öffnung, um den Frost zu sehen.",
+              "Thermoskanne mit Tee sorgt für Wärme zwischendurch."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg kastélytermek miatt.",
+              "A nap korán nyugszik, használja ki a déli fényt a fotózáshoz.",
+              "A meleg kesztyű elengedhetetlen a kültéri részeken.",
+              "Látogasson el nyitásra, hogy láthassa a zúzmarás tájat.",
+              "A teával töltött termosz segít a bemelegítésben."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru sălile reci ale castelului.",
+              "Soarele apune devreme, folosiți lumina amiezii pentru poze.",
+              "Mănușile călduroase sunt esențiale pentru exterior.",
+              "Vizitați castelul la deschidere pentru a vedea bruma.",
+              "Un termos cu ceai vă va ajuta să vă mențineți căldura."
+            ],
+            "en": [
+              "Dress in layers for the cold castle rooms.",
+              "Sun sets early, use the midday light for photos.",
+              "Warm gloves are essential for the outdoor areas.",
+              "Visit right at opening to see the frost on the ground.",
+              "A thermos with tea will help keep you warm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -634,6 +1078,450 @@
           "Avoid cycling in the midday heat during summer.",
           "Keep your distance from the wildlife."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die riesigen Ländereien von Chambord mit dem Rad. Beginnen Sie mit einer Fahrt durch die wilden Wälder zu den Aussichtstürmen, wo Sie mit etwas Glück Hirsche oder Wildschweine sehen. Danach kehren Sie zum Schloss zurück, um die Architektur zu bewundern. Beenden Sie Ihre Tour mit einem Besuch der historischen Ställe und einem gemütlichen Picknick am Ufer des Kanals.",
+            "hu": "Fedezze fel Chambord hatalmas birtokait kerékpárral. Kezdje egy túrával a vadon élő erdőkön keresztül a kilátótornyokhoz, ahol szerencsével szarvasokat vagy vaddisznókat is láthat. Ezután térjen vissza a kastélyhoz, hogy megcsodálja annak építészetét. Zárja túráját a történelmi istállók meglátogatásával és egy kellemes piknikkel a csatorna partján.",
+            "ro": "Descoperiți domeniile vaste ale Chambord-ului cu bicicleta. Începeți cu o plimbare prin pădurile sălbatice până la turnurile de observație, unde cu puțin noroc puteți vedea cerbi sau mistreți. Apoi reveniți la castel pentru a admira arhitectura. Încheiați turul cu o vizită la grajdurile istorice și un picnic plăcut pe malul canalului.",
+            "en": "Explore the vast lands of Chambord by bike. Start with a ride through the wild forests to the observation towers, where you might spot deer or wild boar if you're lucky. Then return to the castle to admire the architecture. End your tour with a visit to the historic stables and a pleasant picnic on the banks of the canal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fahrradverleih am Kanal",
+                "hu": "Kerékpárkölcsönző a csatornánál",
+                "ro": "Închiriere biciclete la canal",
+                "en": "Bike Rental by the Canal"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie ein E-Bike für die längeren Waldwege.",
+                "hu": "Béreljen elektromos kerékpárt a hosszabb erdei utakhoz.",
+                "ro": "Închiriați o bicicletă electrică pentru traseele mai lungi prin pădure.",
+                "en": "Rent an e-bike for the longer forest trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Forstweg Richtung Muides",
+                "hu": "Erdei út Muides felé",
+                "ro": "Drum forestier spre Muides",
+                "en": "Forest Path towards Muides"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des größten ummauerten Parks Europas.",
+                "hu": "Élvezze Európa legnagyobb fallal körülvett parkjának nyugalmát.",
+                "ro": "Bucurați-vă de liniștea celui mai mare parc împrejmuit din Europa.",
+                "en": "Enjoy the peace of Europe's largest walled park."
+              }
+            },
+            {
+              "name": {
+                "de": "Beobachtungsturm Gabillière",
+                "hu": "Gabillière megfigyelőtorony",
+                "ro": "Turnul de observație Gabillière",
+                "en": "Gabillière Observation Tower"
+              },
+              "tip_5lang": {
+                "de": "Fernglas nicht vergessen – ideal zur Tierbeobachtung.",
+                "hu": "Ne felejtse el a távcsövet – ideális vadmegfigyeléshez.",
+                "ro": "Nu uitați binoclul – ideal pentru observarea animalelor.",
+                "en": "Don't forget your binoculars – ideal for wildlife spotting."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chambord (Innenbesichtigung)",
+                "hu": "Chambord-i kastély (Belső látogatás)",
+                "ro": "Castelul Chambord (Vizită interioară)",
+                "en": "Château de Chambord (Interior Visit)"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "A kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile pentru biciclete sunt situate lângă intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Stallungen des Marschalls von Sachsen",
+                "hu": "Szász Móric lovardája",
+                "ro": "Grajdurile Mareșalului de Saxonia",
+                "en": "Stables of the Marshal of Saxony"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Reitvorführungen an.",
+                "hu": "Nézze meg a lovasbemutatókat.",
+                "ro": "Urmăriți spectacolele ecvestre.",
+                "en": "Watch the equestrian shows."
+              }
+            },
+            {
+              "name": {
+                "de": "Picknick am Canal",
+                "hu": "Piknik a csatornánál",
+                "ro": "Picnic la Canal",
+                "en": "Picnic by the Canal"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss Ihrer Radtour.",
+                "hu": "Kerékpártúrájának pihentető lezárása.",
+                "ro": "Un final relaxant al turului dumneavoastră pe bicicletă.",
+                "en": "A relaxing conclusion to your bike tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Relais de Chambord",
+                "tip": "Mittagessen auf der Terrasse."
+              },
+              {
+                "name": "L'Epicerie du Lys",
+                "tip": "Sandwiches und lokale Produkte für das Picknick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Relais de Chambord",
+                "tip": "Ebéd a teraszon."
+              },
+              {
+                "name": "L'Epicerie du Lys",
+                "tip": "Szendvicsek és helyi termékek a piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Relais de Chambord",
+                "tip": "Prânz pe terasă."
+              },
+              {
+                "name": "L'Epicerie du Lys",
+                "tip": "Sandvișuri și produse locale pentru picnic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Relais de Chambord",
+                "tip": "Lunch on the terrace."
+              },
+              {
+                "name": "L'Epicerie du Lys",
+                "tip": "Sandwiches and local products for the picnic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Observatoire de la Gabillière",
+                "tip": "Einsamer Aussichtspunkt im Wald.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Étang des Bons Hommes",
+                "tip": "Ruhiger Teich abseits der Massen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Observatoire de la Gabillière",
+                "tip": "Magányos kilátóhely az erdőben.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Étang des Bons Hommes",
+                "tip": "Csendes tó a tömegtől távol.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Observatoire de la Gabillière",
+                "tip": "Punct de observație solitar în pădure.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Étang des Bons Hommes",
+                "tip": "Iaz liniștit departe de mulțime.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Observatoire de la Gabillière",
+                "tip": "Lonely observation point in the forest.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Étang des Bons Hommes",
+                "tip": "Quiet pond away from the crowds.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Berühmte Butterkekse."
+              },
+              {
+                "name": "Boutique des jardins",
+                "tip": "Pflanzen und Garten-Deko."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Híres vajas kekszek."
+              },
+              {
+                "name": "Boutique des jardins",
+                "tip": "Növények és kerti dekoráció."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Biscuiți celebri cu unt."
+              },
+              {
+                "name": "Boutique des jardins",
+                "tip": "Plante și decorațiuni de grădină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Biscuiterie de Chambord",
+                "tip": "Famous butter biscuits."
+              },
+              {
+                "name": "Boutique des jardins",
+                "tip": "Plants and garden decor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Es gibt über 30 km markierte Radwege im Park.",
+              "Die Wege sind flach und gut befahrbar.",
+              "Vermeiden Sie das Radfahren in der Mittagshitze im Sommer.",
+              "Halten Sie Abstand zum Wild."
+            ],
+            "hu": [
+              "A parkban több mint 30 km jelzett kerékpárút található.",
+              "Az utak síkak és jól járhatóak.",
+              "Nyáron kerülje a kerékpározást a déli hőségben.",
+              "Tartson távolságot a vadaktól."
+            ],
+            "ro": [
+              "Există peste 30 km de piste de biciclete marcate în parc.",
+              "Traseele sunt plate și ușor de parcurs.",
+              "Evitați mersul pe bicicletă în căldura amiezii în timpul verii.",
+              "Păstrați distanța față de animalele sălbatice."
+            ],
+            "en": [
+              "There are over 30 km of marked bike trails in the park.",
+              "The paths are flat and easy to ride.",
+              "Avoid cycling in the midday heat during summer.",
+              "Keep your distance from the wildlife."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Kanal erfordert gute Ausrüstung beim Verleih. Mittags führt der Waldweg durch duftendes, feuchtes Grün nach Muides. Nachmittags suchen wir Schutz im trockenen Inneren des Schlosses. Der Tag endet mit einem Picknick-Ersatz in einer überdachten Hütte am Wasser.",
+            "hu": "Egy esős reggel a csatornánál jó felszerelést igényel a kölcsönzőben. Délben az erdei út illatos, nedves zöldön át vezet Muides felé. Délután a kastély száraz belső tereiben keresünk menedéket. A napot a vízparti fedett kunyhóban fejezzük be piknikezés helyett.",
+            "ro": "O dimineață ploioasă la canal necesită echipament bun de la închirieri. La prânz, drumul prin pădure duce prin verdeața umedă spre Muides. După-amiaza căutăm adăpost în interiorul uscat al castelului. Ziua se termină cu o alternativă la picnic într-un foișor acoperit lângă apă.",
+            "en": "A rainy morning at the canal requires good gear from the rental shop. At noon, the forest path leads through fragrant, damp greenery towards Muides. In the afternoon, we seek shelter in the dry interior of the castle. The day ends with a picnic alternative in a covered hut by the water."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental by the Canal",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători de noroi.",
+                "en": "Ask for a bike with mudguards."
+              }
+            },
+            {
+              "name": "Forest Path towards Muides",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf dem Asphalt.",
+                "hu": "Vigyázat, a vizes levelek csúszósak lehetnek.",
+                "ro": "Atenție la frunzele umede pe asfalt.",
+                "en": "Watch out for slippery leaves on the path."
+              }
+            },
+            {
+              "name": "Gabillière Observation Tower",
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz vor einem kurzen Schauer.",
+                "hu": "A torony védelmet nyújt egy rövid zápor esetén.",
+                "ro": "Turnul oferă protecție împotriva unei ploi scurte.",
+                "en": "The tower provides shelter from a short shower."
+              }
+            },
+            {
+              "name": "Château de Chambord (Interior Visit)",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder an den markierten Ständern ab.",
+                "hu": "Helyezze a kerékpárokat a kijelölt tárolókba.",
+                "ro": "Lăsați bicicletele în rastelurile marcate.",
+                "en": "Leave your bikes in the marked racks."
+              }
+            },
+            {
+              "name": "Stables of the Marshal of Saxony",
+              "tip_5lang": {
+                "de": "Überdachter Bereich für eine kurze Pause.",
+                "hu": "Fedett terület egy rövid pihenőhöz.",
+                "ro": "Zonă acoperită pentru o scurtă pauză.",
+                "en": "Covered area for a short break."
+              }
+            },
+            {
+              "name": "Picnic by the Canal",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz unter den großen Bäumen.",
+                "hu": "Keressen helyet a nagy fák lombja alatt.",
+                "ro": "Căutați un loc sub copacii mari.",
+                "en": "Look for a spot under the large trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Waldwege mit tiefem Schlamm.",
+              "Ein Regenponcho ist beim Radfahren effektiver als ein Schirm.",
+              "Prüfen Sie die Bremsen vor der Abfahrt auf Nässe.",
+              "Halten Sie die Fahrt kurz, wenn der Wind zunimmt.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera."
+            ],
+            "hu": [
+              "Kerülje a mély sáros erdei utakat.",
+              "Az esőponcsó hatékonyabb kerékpározáskor, mint az esernyő.",
+              "Indulás előtt ellenőrizze a fékeket a nedves úton.",
+              "Rövidítse le az utat, ha felerősödik a szél.",
+              "Vízálló táska ajánlott az értéktárgyak védelmére."
+            ],
+            "ro": [
+              "Evitați potecile din pădure cu noroi adânc.",
+              "O pelerină de ploaie este mai eficientă decât umbrela pe bicicletă.",
+              "Verificați frânele pe carosabil umed înainte de plecare.",
+              "Scurtați traseul dacă vântul se intensifică.",
+              "Genzile impermeabile vă protejează echipamentul foto."
+            ],
+            "en": [
+              "Avoid forest paths with deep mud.",
+              "A rain poncho is more effective than an umbrella while cycling.",
+              "Check your brakes on wet surfaces before starting.",
+              "Shorten the ride if the wind picks up.",
+              "Waterproof panniers protect your camera and valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Wind am Kanal macht die morgendliche Radfahrt erfrischend. Mittags wärmt die Bewegung im Wald, während der Frost die Äste glitzern lässt. Nachmittags bietet das Schloss eine willkommene Aufwärmpause. Zum Sonnenuntergang radeln wir zurück, bevor die Kälte des Abends die Pfade fest im Griff hat.",
+            "hu": "A csatorna menti hideg szél frissítővé teszi a reggeli kerékpározást. Délben az erdei mozgás felmelegít, miközben a zúzmara csillog az ágakon. Délután a kastély szívesen látott melegedőhelyet kínál. Naplementekor tekerünk vissza, mielőtt az esti fagy teljesen átveszi az uralmat.",
+            "ro": "Vântul rece de la canal face plimbarea de dimineață revigorantă. La prânz, mișcarea în pădure vă încălzește în timp ce bruma strălucește pe ramuri. După-amiaza, castelul oferă o pauză binemeritată pentru încălzire. La apus pedalăm înapoi, înainte ca gerul serii să cuprindă potecile.",
+            "en": "The cold wind by the canal makes the morning bike ride refreshing. At noon, moving through the forest warms you up while frost glitters on the branches. In the afternoon, the castle offers a welcome warming break. At sunset, we cycle back before the evening frost takes hold of the paths."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental by the Canal",
+              "tip_5lang": {
+                "de": "Handschuhe beim Radfahren sind ein Muss.",
+                "hu": "A kesztyű használata kötelező tekerés közben.",
+                "ro": "Mănușile sunt obligatorii în timpul mersului.",
+                "en": "Gloves are a must while cycling."
+              }
+            },
+            {
+              "name": "Forest Path towards Muides",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Pfützen auf dem Weg.",
+                "hu": "Vigyázat a befagyott tócsákkal az úton.",
+                "ro": "Atenție la bălțile înghețate de pe drum.",
+                "en": "Watch out for frozen puddles on the path."
+              }
+            },
+            {
+              "name": "Gabillière Observation Tower",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos der winterlichen Wildnis.",
+                "hu": "Tökéletes hely a téli vadon fotózásához.",
+                "ro": "Perfect pentru fotografii cu sălbăticia iernii.",
+                "en": "Perfect for photos of the winter wilderness."
+              }
+            },
+            {
+              "name": "Château de Chambord (Interior Visit)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt zum Aufwärmen.",
+                "hu": "Használja ki az időt a bemelegedésre.",
+                "ro": "Folosiți timpul pentru a vă încălzi.",
+                "en": "Use the time inside to warm up."
+              }
+            },
+            {
+              "name": "Stables of the Marshal of Saxony",
+              "tip_5lang": {
+                "de": "Im Winter oft weniger überlaufen.",
+                "hu": "Télen gyakran kevésbé zsúfolt.",
+                "ro": "Iarna este adesea mai puțin aglomerat.",
+                "en": "Often less crowded in winter."
+              }
+            },
+            {
+              "name": "Picnic by the Canal",
+              "tip_5lang": {
+                "de": "Kurze Rast mit einem Heißgetränk.",
+                "hu": "Rövid pihenő egy forró itallal.",
+                "ro": "O scurtă pauză cu o băutură caldă.",
+                "en": "A short break with a hot drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Socken und winddichte Kleidung sind Pflicht.",
+              "Die Wege können bei Reif sehr rutschig sein.",
+              "Planen Sie die Rückkehr spätestens für 16:30 Uhr ein.",
+              "Ein Schlauchtuch schützt das Gesicht vor Fahrtwind.",
+              "Achten Sie auf Wildtiere, die im Winter aktiver sind."
+            ],
+            "hu": [
+              "Meleg zokni és szélálló ruházat kötelező.",
+              "Az utak zúzmarás időben nagyon csúszósak lehetnek.",
+              "Tervezze a visszatérést legkésőbb 16:30-ra.",
+              "A csősál védi az arcot a menetszéltől.",
+              "Figyeljen a vadállatokra, télen aktívabbak lehetnek."
+            ],
+            "ro": [
+              "Șosetele groase și hainele rezistente la vânt sunt obligatorii.",
+              "Drumurile pot fi foarte alunecoase din cauza poleiului.",
+              "Planificați întoarcerea cel târziu la ora 16:30.",
+              "O eșarfă tip tub protejează fața de vântul rece.",
+              "Fiți atenți la animalele sălbatice, mai active iarna."
+            ],
+            "en": [
+              "Warm socks and windproof clothing are mandatory.",
+              "Paths can be very slippery with frost.",
+              "Plan your return by 4:30 PM at the latest.",
+              "A neck buff protects your face from the wind.",
+              "Look out for wildlife, which can be more active in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -925,6 +1813,418 @@
           "Charge your electric car at the designated stations.",
           "Watch out for wildlife crossing the forest roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie Chambord bequem und flexibel. Nach einer ausführlichen Besichtigung des Schlosses und seiner 60 prunkvollen Räume genießen Sie ein gemütliches Mittagessen im kleinen Dorf am Schlosspark. Am Nachmittag nutzen Sie den Wagen, um tiefer in den Wald zu fahren und die abgelegeneren Beobachtungspunkte zu erreichen, bevor Sie zum Abschluss einen spektakulären Panoramablick auf die gesamte Anlage genießen.",
+            "hu": "Autóval kényelmesen és rugalmasan érheti el Chambord-t. A kastély és annak 60 pompás termének alapos megtekintése után élvezze a kellemes ebédet a kastélypark melletti kis faluban. Délután használja az autót, hogy mélyebbre hatoljon az erdőben, és elérje a távolabbi megfigyelőpontokat, mielőtt végül megcsodálná az egész épületegyüttes látványos panorámáját.",
+            "ro": "Cu mașina ajungeți la Chambord confortabil și flexibil. După o vizitare detaliată a castelului și a celor 60 de camere fastuoase ale sale, savurați un prânz plăcut în micul sat de lângă parcul castelului. După-amiaza, folosiți mașina pentru a merge mai adânc în pădure și a ajunge la punctele de observație mai îndepărtate, înainte de a vă bucura la final de o vedere panoramică spectaculoasă asupra întregului ansamblu.",
+            "en": "By car, you can reach Chambord comfortably and flexibly. After a detailed tour of the castle and its 60 magnificent rooms, enjoy a cozy lunch in the small village next to the castle park. In the afternoon, use the car to go deeper into the forest and reach the more remote observation points before finally enjoying a spectacular panoramic view of the entire complex."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haupteingang & Parkplatz P0",
+                "hu": "Főbejárat és P0 parkoló",
+                "ro": "Intrarea principală și parcarea P0",
+                "en": "Main Entrance & P0 Parking"
+              },
+              "tip_5lang": {
+                "de": "P0 ist am nächsten zum Schlosseingang.",
+                "hu": "A P0 van a legközelebb a kastély bejáratához.",
+                "ro": "P0 este cea mai apropiată de intrarea în castel.",
+                "en": "P0 is the closest to the castle entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chambord - Ganztagsbesuch",
+                "hu": "Chambord-i kastély - Egész napos látogatás",
+                "ro": "Castelul Chambord - Vizită de o zi",
+                "en": "Château de Chambord - Full Visit"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie das HistoPad für eine interaktive Zeitreise.",
+                "hu": "Használja a HistoPadot egy interaktív időutazáshoz.",
+                "ro": "Folosiți HistoPad pentru o călătorie interactivă în timp.",
+                "en": "Use the HistoPad for an interactive time travel."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen im Dorf Chambord",
+                "hu": "Ebéd Chambord faluban",
+                "ro": "Prânz în satul Chambord",
+                "en": "Lunch in Chambord Village"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den Ziegenkäse der Region.",
+                "hu": "Kóstolja meg a régió kecskesajtját.",
+                "ro": "Încercați brânza de capră din regiune.",
+                "en": "Try the goat cheese of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Ausflug nach Masures (Wildbeobachtung)",
+                "hu": "Kirándulás Masures felé (Vadmegfigyelés)",
+                "ro": "Excursie la Masures (Observarea animalelor)",
+                "en": "Trip to Masures (Wildlife Spotting)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Waldabschnitt.",
+                "hu": "Vezessen lassan az erdei szakaszon.",
+                "ro": "Conduceți încet prin secțiunea de pădure.",
+                "en": "Drive slowly through the forest section."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramablick Point de Vue",
+                "hu": "Point de Vue panorámapont",
+                "ro": "Punct de vedere panoramic",
+                "en": "Panoramablick Point de Vue"
+              },
+              "tip_5lang": {
+                "de": "Der beste Blick auf das Schloss beim Verlassen des Geländes.",
+                "hu": "A legjobb kilátás a kastélyra a terület elhagyásakor.",
+                "ro": "Cea mai bună vedere a castelului la părăsirea domeniului.",
+                "en": "The best view of the castle when leaving the grounds."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Cave aux Rois",
+                "tip": "Weinprobe von Loire-Weinen."
+              },
+              {
+                "name": "Les Armes de France",
+                "tip": "Gehobene französische Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Cave aux Rois",
+                "tip": "Loire-menti borok kóstolója."
+              },
+              {
+                "name": "Les Armes de France",
+                "tip": "Színvonalas francia konyha."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Cave aux Rois",
+                "tip": "Degustare de vinuri de pe Valea Loarei."
+              },
+              {
+                "name": "Les Armes de France",
+                "tip": "Bucătărie franceză sofisticată."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Cave aux Rois",
+                "tip": "Wine tasting of Loire wines."
+              },
+              {
+                "name": "Les Armes de France",
+                "tip": "Upscale French cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Chemin de l'Étang",
+                "tip": "Stille Waldwege.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Belvédère de la Loire",
+                "tip": "Aussichtspunkt in der Nähe.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chemin de l'Étang",
+                "tip": "Csendes erdei utak.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Belvédère de la Loire",
+                "tip": "Közeli kilátópont.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chemin de l'Étang",
+                "tip": "Poteci forestiere liniștite.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Belvédère de la Loire",
+                "tip": "Punct de belvedere în apropiere.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chemin de l'Étang",
+                "tip": "Silent forest paths.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Belvédère de la Loire",
+                "tip": "Nearby viewpoint.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du village",
+                "tip": "Lokales Kunsthandwerk."
+              },
+              {
+                "name": "Miel de Chambord",
+                "tip": "Honig direkt aus dem Park."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boutique du village",
+                "tip": "Helyi kézműves termékek."
+              },
+              {
+                "name": "Miel de Chambord",
+                "tip": "Méz közvetlenül a parkból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du village",
+                "tip": "Artizanat local."
+              },
+              {
+                "name": "Miel de Chambord",
+                "tip": "Miere direct din parc."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutique du village",
+                "tip": "Local handicrafts."
+              },
+              {
+                "name": "Miel de Chambord",
+                "tip": "Honey straight from the park."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parkticket gilt für den ganzen Tag.",
+              "Parkplätze sind oft schon früh belegt.",
+              "Laden Sie Ihr E-Auto an den ausgewiesenen Stationen.",
+              "Achten Sie auf Wildwechsel auf den Waldstraßen."
+            ],
+            "hu": [
+              "A parkolójegy egész napra érvényes.",
+              "A parkolóhelyek gyakran már korán betelnek.",
+              "Töltse elektromos autóját a kijelölt állomásokon.",
+              "Ügyeljen a vadakra az erdei utakon."
+            ],
+            "ro": [
+              "Tichetul de parcare este valabil pentru întreaga zi.",
+              "Locurile de parcare se ocupă adesea devreme.",
+              "Încărcați mașina electrică la stațiile desemnate.",
+              "Atenție la animalele care traversează drumurile forestiere."
+            ],
+            "en": [
+              "The parking ticket is valid for the whole day.",
+              "Parking spots often fill up early.",
+              "Charge your electric car at the designated stations.",
+              "Watch out for wildlife crossing the forest roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen prasselt auf das Autodach am Parkplatz P0. Mittags verbringen wir die Zeit trocken im Schloss bei einer ausführlichen Besichtigung. Nachmittags beobachten wir Wildtiere bequem vom Auto aus in Masures. Der Abend schließt mit einem Panorama-Blick, bei dem die Wolken mystisch über dem Anwesen hängen.",
+            "hu": "Az eső dobol az autó tetőjén a P0 parkolóban. Délben a kastélyban töltjük az időt szárazon, egy alapos látogatás keretében. Délután kényelmesen az autóból figyeljük a vadállatokat Masuresnél. Az estét egy panorámás kilátással zárjuk, ahol a felhők misztikusan lebegnek a birtok felett.",
+            "ro": "Ploaia bate în plafonul mașinii în parcarea P0. La prânz petrecem timpul la adăpost în castel pentru o vizită detaliată. După-amiaza observăm animalele sălbatice confortabil din mașină la Masures. Seara se încheie cu o vedere panoramică, norii atârnând mistic peste domeniu.",
+            "en": "Rain drums on the car roof at parking P0. At noon, we spend time dry inside the castle during a detailed visit. In the afternoon, we observe wildlife comfortably from the car at Masures. The evening concludes with a panoramic view where clouds hang mystically over the estate."
+          },
+          "stops": [
+            {
+              "name": "Main Entrance & P0 Parking",
+              "tip_5lang": {
+                "de": "P0 ist am nächsten zum Eingang, spart Gehzeit im Regen.",
+                "hu": "A P0 van a legközelebb a bejárathoz, spórolja a gyaloglást.",
+                "ro": "P0 este cel mai aproape de intrare, scurtând mersul prin ploaie.",
+                "en": "P0 is closest to the entrance, saving walking time in the rain."
+              }
+            },
+            {
+              "name": "Château de Chambord - Full Visit",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für mehrere Stunden.",
+                "hu": "Tökéletes menedék több órára.",
+                "ro": "Refugiul perfect pentru câteva ore.",
+                "en": "Perfect refuge for several hours."
+              }
+            },
+            {
+              "name": "Lunch in Chambord Village",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor den Restaurants nutzen.",
+                "hu": "Használja az éttermek előtti parkolókat.",
+                "ro": "Folosiți locurile de parcare din fața restaurantelor.",
+                "en": "Use the parking spots right in front of the restaurants."
+              }
+            },
+            {
+              "name": "Trip to Masures (Wildlife Spotting)",
+              "tip_5lang": {
+                "de": "Tiere kommen bei Regen oft an den Waldrand.",
+                "hu": "Az állatok esőben gyakran kijönnek az erdőszélre.",
+                "ro": "Animalele ies adesea la marginea pădurii pe ploaie.",
+                "en": "Animals often come to the forest edge during rain."
+              }
+            },
+            {
+              "name": "Panoramablick Point de Vue",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto genießen, falls es zu stark regnet.",
+                "hu": "Élvezze a kilátást az autóból, ha túl erősen esik.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă plouă tare.",
+                "en": "Enjoy the view from the car if it rains too hard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lassen Sie die nassen Schirme im Kofferraum.",
+              "Die Straßen im Wald können rutschig sein, vorsichtig fahren.",
+              "Nutzen Sie die Parkplätze so nah wie möglich am Ziel.",
+              "Scheibenwischer vor der Fahrt kontrollieren.",
+              "Gute Zeit für den Souvenirladen im Dorf."
+            ],
+            "hu": [
+              "Hagyja a vizes esernyőket a csomagtartóban.",
+              "Az erdei utak csúszósak lehetnek, vezessen óvatosan.",
+              "Használja a célhoz legközelebbi parkolókat.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Jó időpont a faluban lévő ajándékbolt meglátogatására."
+            ],
+            "ro": [
+              "Lăsați umbrelele ude în portbagaj.",
+              "Drumurile din pădure pot fi alunecoase, conduceți cu atenție.",
+              "Folosiți parcările cât mai aproape de destinație.",
+              "Verificați ștergătoarele înainte de drum.",
+              "Moment bun pentru magazinul de suveniruri din sat."
+            ],
+            "en": [
+              "Leave wet umbrellas in the trunk.",
+              "Forest roads can be slippery, drive carefully.",
+              "Use parking spots as close to your destination as possible.",
+              "Check your wipers before driving.",
+              "Good time to visit the souvenir shop in the village."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt durch den nebligen Park ist magisch. Mittags wärmen wir uns im Schloss auf, während draußen der Frost die Landschaft erstarrt. Nachmittags suchen wir in Masures nach Hirschen im Schnee oder Reif. Zum Abend genießen wir den Panorama-Blick auf das beleuchtete Schloss, bevor die Dunkelheit einsetzt.",
+            "hu": "A reggeli autózás a ködös parkban varázslatos élmény. Délben a kastélyban melegszünk fel, miközben odakint a fagy megállítja az időt. Délután Masuresnél szarvasokat keresünk a hóban vagy zúzmarában. Este a kivilágított kastély panorámájában gyönyörködünk, mielőtt beáll a sötétség.",
+            "ro": "Drumul de dimineață prin parcul cețos este magic. La prânz ne încălzim în castel, în timp ce afară bruma îngheață peisajul. După-amiaza căutăm cerbi prin zăpadă sau promoroacă la Masures. Seara admirăm panorama castelului iluminat înainte de lăsarea întunericului.",
+            "en": "The morning drive through the foggy park is magical. At noon, we warm up in the castle while outside the frost freezes the landscape. In the afternoon, we look for deer in the snow or frost at Masures. In the evening, we enjoy the panoramic view of the illuminated castle before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Main Entrance & P0 Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem Parkplatz.",
+                "hu": "Vigyázat, a parkoló jeges lehet.",
+                "ro": "Atenție la polei în parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Château de Chambord - Full Visit",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den oberen Etagen.",
+                "hu": "Látogassa meg a felsőbb emeletek kiállításait.",
+                "ro": "Vizitați expozițiile de la etajele superioare.",
+                "en": "Visit the exhibitions on the upper floors."
+              }
+            },
+            {
+              "name": "Lunch in Chambord Village",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme am Kamin in den Restaurants.",
+                "hu": "Élvezze a kandalló melegét az éttermekben.",
+                "ro": "Bucurați-vă de căldura șemineului în restaurante.",
+                "en": "Enjoy the warmth of the fireplace in the restaurants."
+              }
+            },
+            {
+              "name": "Trip to Masures (Wildlife Spotting)",
+              "tip_5lang": {
+                "de": "Fernglas mitnehmen, Tiere sind im Winter gut sichtbar.",
+                "hu": "Vigyen távcsövet, az állatok jól látszanak télen.",
+                "ro": "Luați binoclul, animalele sunt vizibile iarna.",
+                "en": "Bring binoculars, animals are clearly visible in winter."
+              }
+            },
+            {
+              "name": "Panoramablick Point de Vue",
+              "tip_5lang": {
+                "de": "Frühzeitig vor 17 Uhr für das beste Licht dort sein.",
+                "hu": "Érkezzen 17 óra előtt a legjobb fényekért.",
+                "ro": "Ajungeți înainte de ora 17 pentru cea mai bună lumină.",
+                "en": "Be there before 5 PM for the best light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf den Waldwegen ratsam.",
+              "Scheibenfrostschutz nicht vergessen.",
+              "Die Heizung im Auto ist ein guter Rückzugsort.",
+              "Hirsche sind im Winter oft in Gruppen zu sehen.",
+              "Schlossbeleuchtung startet kurz nach Sonnenuntergang."
+            ],
+            "hu": [
+              "Téli gumi ajánlott az erdei utakon.",
+              "Ne felejtse el a szélvédőmosó fagyállót.",
+              "Az autó fűtése remek menedék a hideg ellen.",
+              "A szarvasok télen gyakran csoportokban láthatók.",
+              "A kastély kivilágítása röviddel naplemente után kezdődik."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate pe drumurile forestiere.",
+              "Nu uitați lichidul de parbriz anti-îngheț.",
+              "Căldura din mașină este un refugiu excelent.",
+              "Cerbii pot fi văzuți adesea în grupuri iarna.",
+              "Iluminatul castelului începe la scurt timp după apus."
+            ],
+            "en": [
+              "Winter tires are advisable on the forest roads.",
+              "Don't forget the anti-freeze windshield fluid.",
+              "The car heater is a great retreat from the cold.",
+              "Deer are often seen in groups during winter.",
+              "Castle lighting starts shortly after sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1239,34 +2539,451 @@
           "Don't miss the last bus departure.",
           "Most sights are within walking distance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Auch ohne Auto ist Chambord dank der Shuttle-Busse ab Blois gut erreichbar. Ihr Tag konzentriert sich auf das architektonische Meisterwerk und die direkt umliegenden Gartenanlagen. Nach der Schlossbesichtigung und einer Stärkung im Innenhof unternehmen Sie eine idyllische Bootsfahrt auf dem Cosson-Kanal, bevor Sie vor Ihrer Rückfahrt gemütlich durch die Souvenirläden des kleinen Dorfes bummeln.",
+            "hu": "Autó nélkül is jól megközelíthető Chambord a Blois-ból induló ingajáratoknak köszönhetően. A nap az építészeti remekműre és a közvetlenül körülötte elterülő kertekre összpontosít. A kastélylátogatás és az udvari frissítő után tegyen egy idilli csónakázást a Cosson-csatornán, majd a visszautazás előtt sétáljon végig a kis falu ajándékboltjai között.",
+            "ro": "Chiar și fără mașină, Chambord este ușor accesibil datorită autobuzelor navetă din Blois. Ziua dumneavoastră se concentrează pe capodopera arhitecturală și pe grădinile din imediata apropiere. După vizitarea castelului și o gustare în curtea interioară, faceți o plimbare idilică cu barca pe canalul Cosson, înainte de a vă plimba prin magazinele de suveniruri din micul sat înainte de întoarcere.",
+            "en": "Even without a car, Chambord is easily accessible thanks to the shuttle buses from Blois. Your day focuses on the architectural masterpiece and the directly surrounding gardens. After the castle tour and a refreshment in the courtyard, take an idyllic boat trip on the Cosson canal before strolling through the souvenir shops of the small village before your return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Chambord (Navette)",
+                "hu": "Chambord buszmegálló (Navette)",
+                "ro": "Stația de autobuz Chambord (Navette)",
+                "en": "Chambord Bus Stop (Navette)"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan der Navette ab Blois.",
+                "hu": "Ellenőrizze a Blois-ból induló buszjárat (navette) menetrendjét.",
+                "ro": "Verificați orarul navetei din Blois.",
+                "en": "Check the schedule of the shuttle (navette) from Blois."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chambord (Audioguide-Tour)",
+                "hu": "Chambord-i kastély (Audioguide túra)",
+                "ro": "Castelul Chambord (Tur cu audioguide)",
+                "en": "Château de Chambord (Audioguide Tour)"
+              },
+              "tip_5lang": {
+                "de": "Die Audioguides sind in vielen Sprachen verfügbar.",
+                "hu": "Az audioguide-ok számos nyelven elérhetőek.",
+                "ro": "Audioguide-urile sunt disponibile în multe limbi.",
+                "en": "Audioguides are available in many languages."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagspause im Schlosshof",
+                "hu": "Ebédszünet a kastélyudvaron",
+                "ro": "Pauză de prânz în curtea castelului",
+                "en": "Lunch Break in the Castle Courtyard"
+              },
+              "tip_5lang": {
+                "de": "Schnelle Snacks und Getränke vor Ort.",
+                "hu": "Gyors harapnivalók és italok a helyszínen.",
+                "ro": "Gustări rapide și băuturi la fața locului.",
+                "en": "Quick snacks and drinks on-site."
+              }
+            },
+            {
+              "name": {
+                "de": "Gartenpromenade",
+                "hu": "Kerti sétány",
+                "ro": "Promenada grădinii",
+                "en": "Garden Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klassischen französischen Gartenstil.",
+                "hu": "Élvezze a klasszikus francia kertstílust.",
+                "ro": "Bucurați-vă de stilul clasic al grădinii franceze.",
+                "en": "Enjoy the classic French garden style."
+              }
+            },
+            {
+              "name": {
+                "de": "Bootsfahrt auf dem Cosson",
+                "hu": "Csónakázás a Cosson folyón",
+                "ro": "Plimbare cu barca pe râul Cosson",
+                "en": "Boat Trip on the Cosson"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie ein Ruderboot für eine andere Perspektive.",
+                "hu": "Béreljen evezős csónakot egy másfajta perspektíváért.",
+                "ro": "Închiriați o barcă cu vâsle pentru o perspectivă diferită.",
+                "en": "Rent a rowing boat for a different perspective."
+              }
+            },
+            {
+              "name": {
+                "de": "Souvenir-Shopping",
+                "hu": "Ajándékvásárlás",
+                "ro": "Cumpărături de suveniruri",
+                "en": "Souvenir Shopping"
+              },
+              "tip_5lang": {
+                "de": "Letzte Gelegenheit für Geschenke vor der Abfahrt.",
+                "hu": "Utolsó lehetőség ajándékvásárlásra indulás előtt.",
+                "ro": "Ultima ocazie pentru cadouri înainte de plecare.",
+                "en": "Last chance for gifts before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Autour du Four",
+                "tip": "Frische Backwaren und Pizza."
+              },
+              {
+                "name": "Le Saint-Louis",
+                "tip": "Traditionelles französisches Bistro."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Autour du Four",
+                "tip": "Friss pékáruk és pizza."
+              },
+              {
+                "name": "Le Saint-Louis",
+                "tip": "Hagyományos francia bisztró."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Autour du Four",
+                "tip": "Produse de patiserie proaspete și pizza."
+              },
+              {
+                "name": "Le Saint-Louis",
+                "tip": "Bistrou francez tradițional."
+              }
+            ],
+            "en": [
+              {
+                "name": "Autour du Four",
+                "tip": "Fresh pastries and pizza."
+              },
+              {
+                "name": "Le Saint-Louis",
+                "tip": "Traditional French bistro."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Barque sur le canal",
+                "tip": "Absolute Stille auf dem Wasser.",
+                "emoji": "🚣"
+              },
+              {
+                "name": "Bänke im französischen Garten",
+                "tip": "Platz zum Nachdenken.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Barque sur le canal",
+                "tip": "Abszolút csend a vízen.",
+                "emoji": "🚣"
+              },
+              {
+                "name": "Padok a francia kertben",
+                "tip": "Hely az elmélkedésre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Barque sur le canal",
+                "tip": "Liniște absolută pe apă.",
+                "emoji": "🚣"
+              },
+              {
+                "name": "Bănci în grădina franceză",
+                "tip": "Loc pentru meditație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Barque sur le canal",
+                "tip": "Absolute silence on the water.",
+                "emoji": "🚣"
+              },
+              {
+                "name": "Benches in the French garden",
+                "tip": "Space for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Repliken historischer Objekte."
+              },
+              {
+                "name": "Maison des Vins",
+                "tip": "Weine aus Cheverny und Cour-Cheverny."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Történelmi tárgyak másolatai."
+              },
+              {
+                "name": "Maison des Vins",
+                "tip": "Cheverny és Cour-Cheverny borai."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Replici ale obiectelor istorice."
+              },
+              {
+                "name": "Maison des Vins",
+                "tip": "Vinuri din Cheverny și Cour-Cheverny."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boutique du Château",
+                "tip": "Replicas of historical objects."
+              },
+              {
+                "name": "Maison des Vins",
+                "tip": "Wines from Cheverny and Cour-Cheverny."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Navette verkehrt saisonal.",
+              "Ein Kombiticket mit dem Zug ab Paris ist möglich.",
+              "Die letzte Abfahrt des Busses nicht verpassen.",
+              "Vieles ist fußläufig erreichbar."
+            ],
+            "hu": [
+              "Az ingajárat (navette) szezonálisan közlekedik.",
+              "Kombinált jegy vásárolható Párizsból vonattal.",
+              "Ne késse le az utolsó buszjáratot.",
+              "Sok minden elérhető gyalogosan."
+            ],
+            "ro": [
+              "Naveta circulă sezonier.",
+              "Este posibil un bilet combinat cu trenul din Paris.",
+              "Nu ratați ultima plecare a autobuzului.",
+              "Multe atracții sunt accesibile pe jos."
+            ],
+            "en": [
+              "The shuttle (navette) operates seasonally.",
+              "A combined ticket with the train from Paris is possible.",
+              "Don't miss the last bus departure.",
+              "Most sights are within walking distance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens warten wir unter dem Unterstand an der Bushaltestelle. Mittags tauchen wir mit dem Audioguide tief in die Geschichte des trockenen Schlosses ein. Nachmittags fällt der Garten-Spaziergang wegen des Regens kürzer aus. Der Tag endet mit Shopping in den überdachten Läden des Dorfes, bevor der Bus uns zurückbringt.",
+            "hu": "Reggel a buszmegálló fedett várójában várakozunk. Délben az audioguide segítségével merülünk el a száraz kastély történelmében. Délután a kerti séta az eső miatt rövidebbre sikerül. A napot a falu fedett üzleteiben zárjuk, mielőtt a busz visszavisz minket.",
+            "ro": "Dimineața așteptăm sub adăpostul stației de autobuz. La prânz explorăm istoria castelului uscat cu ajutorul audioghidului. După-amiaza plimbarea în grădină este mai scurtă din cauza ploii. Ziua se încheie cu cumpărături în magazinele acoperite din sat, înainte de plecarea autobuzului.",
+            "en": "In the morning, we wait under the shelter at the bus stop. At noon, we dive deep into the history of the dry castle with the audio guide. In the afternoon, the garden walk is shorter due to the rain. The day ends with shopping in the covered village stores before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Chambord Bus Stop (Navette)",
+              "tip_5lang": {
+                "de": "Fahrplan online prüfen, um Wartezeit im Regen zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet, hogy keveset várjon az esőben.",
+                "ro": "Verificați programul online pentru a nu aștepta în ploaie.",
+                "en": "Check the schedule online to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Château de Chambord (Audioguide Tour)",
+              "tip_5lang": {
+                "de": "Audioguide ermöglicht individuelles Tempo bei Regen.",
+                "hu": "Az audioguide egyéni tempót tesz lehetővé az esőben.",
+                "ro": "Audioghidul permite un ritm individual pe ploaie.",
+                "en": "The audio guide allows for an individual pace during rain."
+              }
+            },
+            {
+              "name": "Lunch Break in the Castle Courtyard",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Cafés.",
+                "hu": "Használja a kávézó fedett részeit.",
+                "ro": "Folosiți zonele acoperite ale cafenelei.",
+                "en": "Use the covered areas of the cafe."
+              }
+            },
+            {
+              "name": "Garden Promenade",
+              "tip_5lang": {
+                "de": "Hauptwege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja a főutakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile principale pentru a evita noroiul.",
+                "en": "Use main paths to avoid mud."
+              }
+            },
+            {
+              "name": "Boat Trip on the Cosson",
+              "tip_5lang": {
+                "de": "Boote sind meist nicht überdacht, Schirm mitnehmen.",
+                "hu": "A csónakok többnyire nem fedettek, vigyen ernyőt.",
+                "ro": "Bărcile nu sunt acoperite, luați o umbrelă.",
+                "en": "Boats are mostly uncovered, bring an umbrella."
+              }
+            },
+            {
+              "name": "Souvenir Shopping",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um lokale Spezialitäten zu kaufen.",
+                "hu": "Ideális időpont a helyi specialitások vásárlására.",
+                "ro": "Moment ideal pentru a cumpăra specialități locale.",
+                "en": "Ideal time to buy local specialties."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Navette-Busse sind im Winter beheizt.",
+              "Kaufen Sie Tickets online, um Warteschlangen im Regen zu vermeiden.",
+              "Wasserdichte Kleidung ist wichtiger als ein Schirm.",
+              "Die Bootsfahrt kann bei starkem Regen abgesagt werden.",
+              "Im Schloss gibt es ausreichend Sitzmöglichkeiten im Trockenen."
+            ],
+            "hu": [
+              "A Navette buszok télen fűtöttek.",
+              "Vásároljon jegyet online, hogy elkerülje a sorban állást az esőben.",
+              "A vízálló ruházat fontosabb, mint az esernyő.",
+              "A csónakázás erős esőben elmaradhat.",
+              "A kastélyban elegendő száraz ülőhely található."
+            ],
+            "ro": [
+              "Autobuzele Navette sunt încălzite iarna.",
+              "Cumpărați bilete online pentru a evita cozile în ploaie.",
+              "Hainele impermeabile sunt mai importante decât umbrela.",
+              "Plimbarea cu barca poate fi anulată în caz de ploaie torențială.",
+              "În interiorul castelului sunt destule locuri de odihnă uscate."
+            ],
+            "en": [
+              "Navette buses are heated in winter.",
+              "Buy tickets online to avoid queuing in the rain.",
+              "Waterproof clothing is more important than an umbrella.",
+              "The boat trip may be cancelled in heavy rain.",
+              "There are plenty of dry seating areas inside the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt mit der Navette durch den kahlen Park stimmungsvoll. Mittags genießen wir die Wärme im Schloss bei einer ausgiebigen Tour. Nachmittags bewundern wir die geometrischen Gärten im Reif, bevor wir die Bootsfahrt gegen einen heißen Tee tauschen. Der Tag endet mit einem gemütlichen Einkaufsbummel vor der Heimfahrt.",
+            "hu": "Reggel a Navette útja a kopár parkon át hangulatos. Délben a kastély melegében élvezzük a hosszú túrát. Délután a zúzmarás geometrikus kertekben gyönyörködünk, majd a csónakázást forró teára cseréljük. A napot egy kényelmes vásárlással zárjuk a hazautazás előtt.",
+            "ro": "Dimineața drumul cu Navette prin parcul golaș este atmosferic. La prânz ne bucurăm de căldura din castel în timpul unui tur lung. După-amiaza admirăm grădinile geometrice brumate, apoi schimbăm barca pe un ceai fierbinte. Ziua se încheie cu cumpărături relaxante înainte de plecare.",
+            "en": "In the morning, the Navette ride through the bare park is atmospheric. At noon, we enjoy the warmth of the castle during a long tour. In the afternoon, we admire the frosted geometric gardens, then swap the boat trip for a hot tea. The day ends with a relaxed shopping trip before heading home."
+          },
+          "stops": [
+            {
+              "name": "Chambord Bus Stop (Navette)",
+              "tip_5lang": {
+                "de": "Pünktlich sein, um nicht in der Kälte zu warten.",
+                "hu": "Legyen pontos, hogy ne kelljen a hidegben várnia.",
+                "ro": "Fiți punctuali pentru a nu aștepta în frig.",
+                "en": "Be punctual to avoid waiting in the cold."
+              }
+            },
+            {
+              "name": "Château de Chambord (Audioguide Tour)",
+              "tip_5lang": {
+                "de": "Informative Tour in beheizten Räumen genießen.",
+                "hu": "Élvezze az informatív túrát a fűtött termekben.",
+                "ro": "Bucurați-vă de turul informativ în sălile încălzite.",
+                "en": "Enjoy the informative tour in heated rooms."
+              }
+            },
+            {
+              "name": "Lunch Break in the Castle Courtyard",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk ist hier sehr willkommen.",
+                "hu": "Egy forró ital itt nagyon jólesik.",
+                "ro": "O băutură fierbinte este binevenită aici.",
+                "en": "A hot drink is very welcome here."
+              }
+            },
+            {
+              "name": "Garden Promenade",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Fernsicht.",
+                "hu": "A tiszta téli levegő távoli kilátást biztosít.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă.",
+                "en": "The clear winter air provides long-distance views."
+              }
+            },
+            {
+              "name": "Boat Trip on the Cosson",
+              "tip_5lang": {
+                "de": "Im Winter oft nur eingeschränkter Betrieb.",
+                "hu": "Télen gyakran csak korlátozottan üzemel.",
+                "ro": "Iarna funcționarea este adesea limitată.",
+                "en": "Often limited operation in winter."
+              }
+            },
+            {
+              "name": "Souvenir Shopping",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Laden vor der Busfahrt auf.",
+                "hu": "Melegedjen fel az üzletben a buszindulás előtt.",
+                "ro": "Încălziți-vă în magazin înainte de plecarea autobuzului.",
+                "en": "Warm up in the shop before your bus ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse verkehren im Winter seltener, Plan prüfen.",
+              "Die Wartebereiche sind oft ungeschützt gegen Wind.",
+              "Kombinieren Sie den Besuch mit einer heißen Schokolade.",
+              "Letzter Bus fährt oft schon gegen 17:30 Uhr.",
+              "Kopfbedeckung und Schal sind wegen des Winds ratsam."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak, ellenőrizze a tervet.",
+              "A váróhelyek gyakran nem védettek a széltől.",
+              "Kösse össze a látogatást egy forró csokoládéval.",
+              "Az utolsó busz gyakran már 17:30 körül indul.",
+              "Sapka és sál ajánlott a szél miatt."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna, verificați programul.",
+              "Zonele de așteptare sunt adesea expuse la vânt.",
+              "Combinați vizita cu o ciocolată caldă.",
+              "Ultimul autobuz pleacă adesea în jurul orei 17:30.",
+              "Căciula și fularul sunt recomandate din cauza vântului."
+            ],
+            "en": [
+              "Buses run less frequently in winter, check the plan.",
+              "Waiting areas are often unprotected from the wind.",
+              "Combine your visit with a hot chocolate.",
+              "The last bus often departs around 5:30 PM.",
+              "A hat and scarf are advisable because of the wind."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.chambord.org/",
-    "events": "https://www.chambord.org/agenda/",
-    "city_card": "https://www.bloischambord.com/pass/",
-    "museum_tickets": "https://www.chambord.org/billetterie/",
-    "transit_official": "https://www.remi-centrevaldeloire.fr/",
-    "language_tips": {
-      "de": "Chambord ist hauptsächlich Schloss-Tourismus, Englisch wird an den Kassen, im Audioguide und bei den Führungen gut gesprochen. Auch Deutsch und Spanisch sind in den offiziellen Audioguides verfügbar. Lernen Sie 'double escalier' (Doppeltreppe) und 'salamandre' (Salamander, Symbol von François I.) für die Renaissance-Symbolik.",
-      "hu": "Chambord főleg kastélyturizmus, az angolt jól beszélik a pénztáraknál, az audiovezetőkben és a túravezetőknél. Németül és spanyolul is van audiovezető. Tanuld meg a 'double escalier' (kettős lépcső) és 'salamandre' (szalamandra, I. Ferenc szimbóluma) szavakat a reneszánsz szimbolikához.",
-      "ro": "Chambord este în principal turism de castel, engleza se vorbește bine la case, în audioghid și la tururile ghidate. Există audioghid și în germană și spaniolă. Învățați 'double escalier' (scara dublă) și 'salamandre' (salamandră, simbolul lui François I) pentru simbolismul renascentist.",
-      "en": "Chambord is essentially château tourism - English is well spoken at ticket desks, in audio guides and on guided tours. German and Spanish audio guides are also available. Learn 'double escalier' (double staircase) and 'salamandre' (the salamander emblem of François I)."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühende Wälder und weniger Touristen. Im Sommer (Juli-August) kann es voll werden, besonders in der Mittagshitze. Im Winter ist das Schloss geöffnet und mystisch in Nebel gehüllt, aber die Außenbereiche und Wälder bleiben eindrucksvoll.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó erdők, kevesebb turista. Nyáron (július-augusztus) zsúfolt lehet, főleg a déli órákban. Télen is nyitva a kastély, misztikus ködbe burkolózva, és a külső területek és erdők lenyűgözőek maradnak.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, păduri înflorite și mai puțini turiști. Vara (iulie-august) poate fi aglomerat, mai ales la prânz. Iarna castelul rămâne deschis, învăluit mistic în ceață, iar exteriorul și pădurile rămân impresionante.",
-      "en": "April-June and September-October are ideal: mild weather, blooming forests and fewer crowds. Summer (July-August) gets packed, especially midday. Winter sees the château still open and mysteriously cloaked in mist, with grounds and forests remaining stunning year-round."
-    },
-    "neighborhood_warnings": {
-      "de": "Chambord ist ein Schloss in einem Wildreservat, das Dorf selbst ist winzig und sicher. Im Sommer Parken nur auf den offiziellen Parkplätzen, sonst Abschleppgefahr. Im Wald Vorsicht vor Wildschweinen, besonders in der Dämmerung.",
-      "hu": "Chambord vadrezervátumban lévő kastély, a falu maga apró és biztonságos. Nyáron csak a hivatalos parkolókban parkolj, különben elviszik az autót. Az erdőben figyelj a vaddisznókra, főleg alkonyatkor.",
-      "ro": "Chambord este un castel într-o rezervație de vânătoare, satul în sine fiind mic și sigur. Vara, parcați doar în parcările oficiale, altfel riscați să fiți remorcați. În pădure, atenție la mistreți, mai ales la asfințit.",
-      "en": "Chambord is a château within a wildlife reserve - the village itself is tiny and safe. In summer park only in official lots or risk being towed. In the forest beware of wild boar, especially at dusk."
-    },
-    "parking_real_time": ""
   }
 }

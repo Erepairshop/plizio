@@ -310,6 +310,426 @@
           "Wear comfortable shoes for the cobblestones in Saint-Leu.",
           "Don't miss the Hortillonnages, book the boat tour in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der majestätischen Kathedrale, bevor Sie in das malerische Saint-Leu-Viertel eintauchen. Nach einem Mittagessen am Kanal erkunden Sie die faszinierenden Hortillonnages mit dem Boot. Der Nachmittag steht im Zeichen der Literatur im Haus von Jules Verne und der Kunst im Picardie-Museum. Lassen Sie den Tag entspannt auf der Place Gambetta ausklingen.",
+            "hu": "Kezdje a napot a fenséges katedrálisban, majd merüljön el a festői Saint-Leu negyed hangulatában. A csatorna menti ebéd után fedezze fel a Hortillonnages úszókerteket csónakkal. A délután az irodalomé Jules Verne házában, és a művészeté a Picardie Múzeumban. A napot pihentetően zárhatja a Gambetta téren.",
+            "ro": "Începeți ziua la catedrala maiestuoasă, apoi scufundați-vă în atmosfera pitorească a cartierului Saint-Leu. După un prânz pe malul canalului, explorați grădinile plutitoare Hortillonnages cu barca. După-amiaza este dedicată literaturii în casa lui Jules Verne și artei la Muzeul Picardiei. Încheiați ziua relaxat în Piața Gambetta.",
+            "en": "Start your day at the majestic cathedral before diving into the picturesque Saint-Leu district. After lunch by the canal, explore the fascinating Hortillonnages by boat. The afternoon is dedicated to literature at Jules Verne's house and art at the Museum of Picardy. End your day relaxing at Place Gambetta."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von Amiens",
+                "hu": "Amiens-i katedrális",
+                "ro": "Catedrala din Amiens",
+                "en": "Amiens Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Lichtshow an der Fassade im Sommer.",
+                "hu": "Nézze meg a homlokzati fényshow-t nyári estéken.",
+                "ro": "Admirați spectacolul de lumini de pe fațadă în serile de vară.",
+                "en": "Watch the light show on the facade during summer evenings."
+              }
+            },
+            {
+              "name": {
+                "de": "Viertel Saint-Leu",
+                "hu": "Saint-Leu negyed",
+                "ro": "Cartierul Saint-Leu",
+                "en": "Saint-Leu Quarter"
+              },
+              "tip_5lang": {
+                "de": "Das Venedig des Nordens mit seinen bunten Häusern.",
+                "hu": "Észak Velencéje színes házaival és csatornáival.",
+                "ro": "Veneția Nordului, cu casele sale colorate și canale.",
+                "en": "The Venice of the North with colorful houses and canals."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmende Gärten",
+                "hu": "Hortillonnages (Úszókertek)",
+                "ro": "Grădinile plutitoare",
+                "en": "Floating Gardens"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie ein Boot für die Erkundung der Kanäle.",
+                "hu": "Béreljen csónakot a csatornák felfedezéséhez.",
+                "ro": "Închiriați o barcă pentru a explora canalele.",
+                "en": "Rent a boat to explore the network of canals."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Jules Verne",
+                "hu": "Jules Verne háza",
+                "ro": "Casa lui Jules Verne",
+                "en": "Jules Verne's House"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Arbeitszimmer des berühmten Autors.",
+                "hu": "Látogasson el a híres író dolgozószobájába.",
+                "ro": "Vizitați biroul de lucru al celebrului autor.",
+                "en": "Visit the study where the famous author wrote."
+              }
+            },
+            {
+              "name": {
+                "de": "Picardie-Museum",
+                "hu": "Picardie Múzeum",
+                "ro": "Muzeul Picardiei",
+                "en": "Museum of Picardy"
+              },
+              "tip_5lang": {
+                "de": "Eines der schönsten Regionalmuseen Frankreichs.",
+                "hu": "Franciaország egyik legszebb vidéki múzeuma.",
+                "ro": "Unul dintre cele mai frumoase muzee regionale din Franța.",
+                "en": "One of the most beautiful regional museums in France."
+              }
+            },
+            {
+              "name": {
+                "de": "Gambetta-Platz",
+                "hu": "Gambetta tér",
+                "ro": "Piața Gambetta",
+                "en": "Gambetta Square"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für einen Kaffee am Abend.",
+                "hu": "Ideális hely egy esti kávéhoz.",
+                "ro": "Locul ideal pentru o cafea de seară.",
+                "en": "The perfect spot for an evening coffee."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Macarons d'Amiens",
+                "tip": "Probieren Sie diese Spezialität bei Jean Trogneux."
+              },
+              {
+                "name": "Ficelle Picarde",
+                "tip": "Herzhafter Pfannkuchen im Restaurant Les Orfèvres."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Macarons d'Amiens",
+                "tip": "Kóstolja meg ezt a mandulás különlegességet a Jean Trogneux-nél."
+              },
+              {
+                "name": "Ficelle Picarde",
+                "tip": "Sós palacsinta gombával és sonkával a Les Orfèvres étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Macarons d'Amiens",
+                "tip": "Gustați această specialitate de migdale la Jean Trogneux."
+              },
+              {
+                "name": "Ficelle Picarde",
+                "tip": "Clătită sărată cu ciuperci și șuncă la restaurantul Les Orfèvres."
+              }
+            ],
+            "en": [
+              {
+                "name": "Macarons d'Amiens",
+                "tip": "Try this almond specialty at Jean Trogneux."
+              },
+              {
+                "name": "Ficelle Picarde",
+                "tip": "Savory pancake with mushrooms and ham at Les Orfèvres."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parc Saint-Pierre",
+                "tip": "Ein weitläufiger Park für einen ruhigen Spaziergang.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Ufer der Somme",
+                "tip": "Genießen Sie die Ruhe am Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parc Saint-Pierre",
+                "tip": "Hatalmas park egy csendes sétához a tó partján.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Somme partja",
+                "tip": "Élvezze a nyugalmat a vízparti sétányon.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parc Saint-Pierre",
+                "tip": "Un parc vast pentru o plimbare liniștită pe malul lacului.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Malul râului Somme",
+                "tip": "Bucurați-vă de liniște pe faleză.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parc Saint-Pierre",
+                "tip": "A vast park for a quiet walk by the lake.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Banks of the Somme",
+                "tip": "Enjoy the peace on the riverside promenade.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Halles du Beffroi",
+                "tip": "Überdachter Markt mit regionalen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halles du Beffroi",
+                "tip": "Fedett piac helyi termékekkel és finomságokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Halles du Beffroi",
+                "tip": "Piață acoperită cu produse și delicatese locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Halles du Beffroi",
+                "tip": "Covered market with local products and delicacies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Amiens lässt sich hervorragend zu Fuß erkunden.",
+              "Die meisten Sehenswürdigkeiten liegen im Stadtzentrum.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in Saint-Leu.",
+              "Die Hortillonnages sind ein Muss, buchen Sie die Bootstour vorab."
+            ],
+            "hu": [
+              "Amiens kiválóan felfedezhető gyalogosan.",
+              "A legtöbb látnivaló a városközpontban található.",
+              "Viseljen kényelmes cipőt a Saint-Leu negyed macskaköveihez.",
+              "A Hortillonnages kerteket ne hagyja ki, foglaljon előre csónaktúrát."
+            ],
+            "ro": [
+              "Amiens poate fi explorat excelent pe jos.",
+              "Majoritatea obiectivelor turistice sunt în centrul orașului.",
+              "Purtați pantofi confortabili pentru pavajul din Saint-Leu.",
+              "Nu ratați grădinile Hortillonnages, rezervați turul cu barca în avans."
+            ],
+            "en": [
+              "Amiens is excellent to explore on foot.",
+              "Most sights are located within the city center.",
+              "Wear comfortable shoes for the cobblestones in Saint-Leu.",
+              "Don't miss the Hortillonnages, book the boat tour in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Gewölben der Kathedrale. Mittags bieten die überdachten Terrassen in Saint-Leu Schutz vor den Schauern. Der Nachmittag gehört den Museen, wo Sie trocken in die Geschichte eintauchen können. Den Abend beschließen Sie in den hell erleuchteten Arkaden am Gambetta-Platz.",
+            "hu": "Kezdje a napot a katedrális védelmező boltívei alatt. Délben a Saint-Leu negyed hangulatos belső terei nyújtanak menedéket az eső elől. A délutánt töltse a múzeumok falai között, szárazon felfedezve a múltat. Az estét a Gambetta tér kivilágított üzletsorai alatt zárja.",
+            "ro": "Începeți ziua sub bolțile protectoare ale catedralei. La prânz, interiorul restaurantelor din Saint-Leu oferă refugiu împotriva ploii. Petreceți după-amiaza în muzee, explorând istoria la adăpost. Încheiați seara sub arcadele luminate din Piața Gambetta.",
+            "en": "Start your day under the protective vaults of the Cathedral. At noon, the cozy interiors of Saint-Leu provide shelter from the showers. Spend the afternoon inside the museums, exploring history while staying dry. End the evening under the bright arcades of Gambetta Square."
+          },
+          "stops": [
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang, um dem Regen sofort zu entkommen.",
+                "hu": "Használja a főbejáratot, hogy azonnal menedéket találjon az eső elől.",
+                "ro": "Folosiți intrarea principală pentru a scăpa imediat de ploaie.",
+                "en": "Use the main entrance to immediately escape the rain."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Die Cafés am Wasser haben oft beheizte und überdachte Außenbereiche.",
+                "hu": "A vízparti kávézók gyakran fűtött és fedett teraszokkal várják.",
+                "ro": "Cafenelele de pe malul apei au adesea terase acoperite și încălzite.",
+                "en": "Waterside cafes often feature heated and covered outdoor seating."
+              }
+            },
+            {
+              "name": "Floating Gardens",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wichtig, da die Wege bei Nässe rutschig sein können.",
+                "hu": "A sár miatt fontos a vízálló cipő, az utak csúszósak lehetnek.",
+                "ro": "Încălțămintea rezistentă e necesară, potecile devin noroioase.",
+                "en": "Sturdy shoes are vital as paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Jules Verne's House",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen während der Besichtigung.",
+                "hu": "Tökéletes hely a felmelegedésre és száradásra a látogatás alatt.",
+                "ro": "Loc ideal pentru a vă încălzi și usca în timpul vizitei.",
+                "en": "Ideal spot to warm up and dry off during your tour."
+              }
+            },
+            {
+              "name": "Museum of Picardy",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Regenschirme.",
+                "hu": "Használja a ruhatárat a vizes kabátok és esernyők elhelyezésére.",
+                "ro": "Folosiți garderoba pentru hainele ude și umbrele.",
+                "en": "Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Gambetta Square",
+              "tip_5lang": {
+                "de": "Die umliegenden Passagen bieten Schutz beim Schaufensterbummel.",
+                "hu": "A környező passzázsok védelmet nyújtanak nézelődés közben.",
+                "ro": "Pasajele din jur oferă protecție în timp ce admirați vitrinele.",
+                "en": "Surrounding passages offer protection while window shopping."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke statt nur eines Schirms.",
+              "Die Museen sind bei Regen beliebter, buchen Sie vorab.",
+              "Nutzen Sie die Stadtbusse für kurze Strecken zwischen den POIs.",
+              "Achten Sie auf Pfützen in den gepflasterten Gassen von Saint-Leu."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot az esernyő mellett a szél miatt.",
+              "A múzeumok esőben népszerűbbek, érdemes előre foglalni.",
+              "Használja a helyi buszokat a látnivalók közötti rövid távokon.",
+              "Vigyázzon a tócsákra Saint-Leu macskaköves utcáin."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă în loc de o simplă umbrelă.",
+              "Muzeele sunt mai aglomerate pe ploaie, rezervați în avans.",
+              "Folosiți autobuzele locale pentru distanțe scurte între obiective.",
+              "Atenție la bălțile de pe străzile pavate din Saint-Leu."
+            ],
+            "en": [
+              "Wear a waterproof jacket instead of just an umbrella due to wind.",
+              "Museums are busier when it rains; consider booking in advance.",
+              "Use city buses for short hops between major points of interest.",
+              "Watch out for puddles on the cobblestone streets of Saint-Leu."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Schönheit der Kathedrale im Morgenlicht. Wärmen Sie sich mittags in den Cafés von Saint-Leu auf. Da es gegen 17:00 Uhr dunkel wird, sollten Sie die Museen am frühen Nachmittag besuchen. Der Abend glänzt mit festlicher Beleuchtung in der Innenstadt.",
+            "hu": "Csodálja meg a katedrális fagyos szépségét a reggeli fényben. Délben melegedjen fel Saint-Leu kávézóiban. Mivel 17:00 körül sötétedik, a múzeumokat kora délután látogassa meg. Az este a belváros ünnepi fényeivel kápráztat el.",
+            "ro": "Admirați frumusețea înghețată a catedralei în lumina dimineții. La prânz, încălziți-vă în cafenelele din Saint-Leu. Deoarece se întunecă în jur de 17:00, vizitați muzeele după-amiaza devreme. Seara strălucește cu lumini festive în centrul orașului.",
+            "en": "Experience the frosty beauty of the Cathedral in the morning light. Warm up at noon in the cafes of Saint-Leu. Since it gets dark around 5:00 PM, visit the museums in the early afternoon. The evening dazzles with festive lights in the city center."
+          },
+          "stops": [
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Die Innentemperatur ist oft kühl, behalten Sie den Mantel an.",
+                "hu": "A belső hőmérséklet alacsony, ne vegye le a kabátját odabent.",
+                "ro": "Temperatura interioară este scăzută, păstrați haina pe dvs.",
+                "en": "Interior temperature is often cool; keep your coat on inside."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Schokolade in einem der historischen Häuser.",
+                "hu": "Kóstoljon meg egy forró csokoládét az egyik történelmi házban.",
+                "ro": "Gustați o ciocolată caldă într-una dintre casele istorice.",
+                "en": "Try a hot chocolate in one of the historic houses."
+              }
+            },
+            {
+              "name": "Floating Gardens",
+              "tip_5lang": {
+                "de": "Im Winter sind die Boote geschlossen, aber der Uferweg ist ruhig.",
+                "hu": "Télen a csónakázás szünetel, de a parti sétány nagyon csendes.",
+                "ro": "Iarna bărcile sunt închise, dar aleea de pe mal este liniștită.",
+                "en": "Boats are closed in winter, but the riverside path is peaceful."
+              }
+            },
+            {
+              "name": "Jules Verne's House",
+              "tip_5lang": {
+                "de": "Der gemütliche Wintergarten ist auch im Winter sehenswert.",
+                "hu": "A hangulatos télikert ilyenkor is különleges látványt nyújt.",
+                "ro": "Grădina de iarnă primitoare merită văzută chiar și acum.",
+                "en": "The cozy winter garden is worth seeing even in the cold."
+              }
+            },
+            {
+              "name": "Museum of Picardy",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Galerien abseits der Kälte.",
+                "hu": "Élvezze a galériák nyugalmát a kinti hideg elől menekülve.",
+                "ro": "Bucurați-vă de liniștea galeriilor, departe de frigul exterior.",
+                "en": "Enjoy the peace of the galleries away from the outside cold."
+              }
+            },
+            {
+              "name": "Gambetta Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt, falls er im Dezember stattfindet.",
+                "hu": "Látogasson el a karácsonyi vásárba, ha decemberben jár erre.",
+                "ro": "Vizitați târgul de Crăciun dacă sunteți aici în decembrie.",
+                "en": "Visit the Christmas market if you are here during December."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende Ihrer Tour vor Sonnenuntergang (ca. 17:00 Uhr).",
+              "Tragen Sie mehrere Schichten und warme Handschuhe.",
+              "Einige Cafés schließen im Winter früher, prüfen Sie die Zeiten.",
+              "Achten Sie auf glatte Stellen auf den Brücken über die Somme."
+            ],
+            "hu": [
+              "Tervezze a túra végét naplemente (kb. 17:00) elé.",
+              "Viseljen réteges öltözetet és meleg kesztyűt.",
+              "Néhány kávézó télen korábban zár, ellenőrizze a nyitvatartást.",
+              "Vigyázzon a csúszós részekre a Somme feletti hidakon."
+            ],
+            "ro": [
+              "Planificați finalul turului înainte de apus (aprox. 17:00).",
+              "Purtați haine în mai multe straturi și mănuși călduroase.",
+              "Unele cafenele se închid mai devreme iarna, verificați orarul.",
+              "Atenție la porțiunile alunecoase de pe podurile peste Somme."
+            ],
+            "en": [
+              "Plan to finish your outdoor tour before sunset (approx. 5:00 PM).",
+              "Wear multiple layers and warm gloves for the riverside breeze.",
+              "Some cafes close earlier in winter; check hours beforehand.",
+              "Watch for icy patches on the bridges crossing the Somme."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -578,6 +998,390 @@
           "The towpath along the Somme is ideal for longer rides.",
           "Watch out for pedestrians in the old town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Amiens auf zwei Rädern, beginnend im grünen Parc Saint-Pierre und entlang der Somme bei den Hortillonnages. Besuchen Sie die imposante Kathedrale und das historische Saint-Leu-Viertel. Am Nachmittag radeln Sie zum beeindruckenden Cirque Jules Verne, bevor Sie Ihre Tour am Bahnhof beenden.",
+            "hu": "Fedezze fel Amiens-t két keréken, kezdve a zöld Saint-Pierre parkban és a Somme mentén a Hortillonnages-nál. Látogassa meg az impozáns katedrálist és a történelmi Saint-Leu negyedet. Délután kerekezzen el a lenyűgöző Jules Verne cirkuszhoz, majd zárja a túrát a vasútállomásnál.",
+            "ro": "Explorați Amiens pe două roți, începând din parcul verde Saint-Pierre și de-a lungul râului Somme la Hortillonnages. Vizitați catedrala impunătoare și cartierul istoric Saint-Leu. După-amiaza, pedalați până la impresionantul Circ Jules Verne, înainte de a încheia turul la gară.",
+            "en": "Explore Amiens on two wheels, starting in the green Saint-Pierre Park and along the Somme at the Hortillonnages. Visit the imposing cathedral and the historical Saint-Leu district. In the afternoon, cycle to the impressive Jules Verne Circus before ending your tour at the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre-Park",
+                "hu": "Saint-Pierre park",
+                "ro": "Parcul Saint-Pierre",
+                "en": "Saint-Pierre Park"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Wege zum Radfahren rund um den See.",
+                "hu": "Tökéletes kerékpárutak a tó körül.",
+                "ro": "Piste de biciclete perfecte în jurul lacului.",
+                "en": "Perfect cycling paths around the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Hortillonnages (Uferweg)",
+                "hu": "Hortillonnages (parti út)",
+                "ro": "Hortillonnages (alee)",
+                "en": "Hortillonnages (riverside)"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang des Treppelpfades der Somme.",
+                "hu": "Kerekezzen a Somme menti vontatóúton.",
+                "ro": "Pedalați pe drumul de halaj de-a lungul râului Somme.",
+                "en": "Cycle along the towpath of the Somme river."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Amiens",
+                "hu": "Amiens-i katedrális",
+                "ro": "Catedrala din Amiens",
+                "en": "Amiens Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer vor dem Portal.",
+                "hu": "Használja a kerékpártárolókat a bejárat előtt.",
+                "ro": "Folosiți suporturile de biciclete din fața porții.",
+                "en": "Use the bike racks in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Viertel Saint-Leu",
+                "hu": "Saint-Leu negyed",
+                "ro": "Cartierul Saint-Leu",
+                "en": "Saint-Leu Quarter"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad in den engen Gassen.",
+                "hu": "A szűk utcákban érdemes tolni a biciklit.",
+                "ro": "E mai bine să împingeți bicicleta pe străzile înguste.",
+                "en": "It's best to push your bike in the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Zirkus Jules Verne",
+                "hu": "Jules Verne cirkusz",
+                "ro": "Circul Jules Verne",
+                "en": "Jules Verne Circus"
+              },
+              "tip_5lang": {
+                "de": "Ein beeindruckendes polygonales Gebäude.",
+                "hu": "Lenyűgöző sokszögletű épület.",
+                "ro": "O clădire poligonală impresionantă.",
+                "en": "An impressive polygonal building."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Amiens",
+                "hu": "Amiens vasútállomás",
+                "ro": "Gara din Amiens",
+                "en": "Amiens Station"
+              },
+              "tip_5lang": {
+                "de": "Hier gibt es gute Leihrad-Stationen.",
+                "hu": "Itt jó kerékpárkölcsönző állomások találhatók.",
+                "ro": "Aici există stații bune de închiriat biciclete.",
+                "en": "There are good bike-sharing stations here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Maxime",
+                "tip": "Holen Sie sich ein Sandwich für ein Picknick im Park."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie Maxime",
+                "tip": "Vegyél egy szendvicset egy parkbéli piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie Maxime",
+                "tip": "Luați un sandviș pentru un picnic în parc."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie Maxime",
+                "tip": "Grab a sandwich for a picnic in the park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Étang de Rivery",
+                "tip": "Ruhiger See am Stadtrand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Étang de Rivery",
+                "tip": "Csendes tó a város szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Étang de Rivery",
+                "tip": "Lac liniștit la marginea orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Étang de Rivery",
+                "tip": "Quiet lake on the outskirts of town.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vélam Stationen",
+                "tip": "Das städtische Leihradsystem."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vélam állomások",
+                "tip": "A városi kerékpármegosztó rendszer."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stații Vélam",
+                "tip": "Sistemul municipal de închiriere biciclete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vélam Stations",
+                "tip": "The municipal bike-sharing system."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Amiens ist sehr fahrradfreundlich mit vielen Radwegen.",
+              "Nutzen Sie das Vélam-System für kurze Strecken.",
+              "Der Leinpfad entlang der Somme ist ideal für längere Fahrten.",
+              "Achten Sie auf Fußgänger in der Altstadt."
+            ],
+            "hu": [
+              "Amiens nagyon kerékpárosbarát, sok kerékpárúttal.",
+              "Használja a Vélam rendszert rövid távokra.",
+              "A Somme menti vontatóút ideális hosszabb utakra.",
+              "Figyeljen a gyalogosokra az óvárosban."
+            ],
+            "ro": [
+              "Amiens este foarte prietenos cu bicicliștii, având multe piste.",
+              "Folosiți sistemul Vélam pentru distanțe scurte.",
+              "Drumul de halaj de-a lungul râului Somme este ideal pentru plimbări lungi.",
+              "Atenție la pietoni în centrul vechi."
+            ],
+            "en": [
+              "Amiens is very bike-friendly with many cycle paths.",
+              "Use the Vélam system for short distances.",
+              "The towpath along the Somme is ideal for longer rides.",
+              "Watch out for pedestrians in the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den Saint-Pierre Park. Der Regen verwandelt die Hortillonnages in eine mystische Wasserwelt. Nach dem Stopp an der Kathedrale bietet Saint-Leu schnelle Einkehrmöglichkeiten. Den Abschluss am Bahnhof erreichen Sie zügig über befestigte Radwege.",
+            "hu": "Kerekezzen óvatosan a Saint-Pierre parkon át. Az eső misztikus vízi világgá változtatja a Hortillonnages területét. A katedrális után Saint-Leu gyors pihenőt kínál. A vasútállomást a kiépített kerékpárutakon gyorsan elérheti.",
+            "ro": "Pedalați cu atenție prin parcul Saint-Pierre. Ploaia transformă Hortillonnages într-o lume acvatică mistică. După oprirea la catedrală, Saint-Leu oferă popasuri rapide. Ajungeți la gară rapid pe pistele de biciclete amenajate.",
+            "en": "Cycle carefully through Saint-Pierre Park. The rain turns the Hortillonnages into a mystic water world. After the Cathedral stop, Saint-Leu offers quick rest spots. Reach the station swiftly via the established bike paths."
+          },
+          "stops": [
+            {
+              "name": "Saint-Pierre Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen; bleiben Sie auf den Asphaltwegen.",
+                "hu": "Kerülje a füves területeket; maradjon az aszfaltozott utakon.",
+                "ro": "Evitați zonele cu iarbă; rămâneți pe potecile asfaltate.",
+                "en": "Avoid grassy areas; stay on the paved asphalt paths."
+              }
+            },
+            {
+              "name": "Hortillonnages (riverside)",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden nassen Ästen am Uferweg.",
+                "hu": "Vigyázzon a belógó vizes ágakra a vízparti sétányon.",
+                "ro": "Atenție la ramurile umede care atârnă deasupra potecii.",
+                "en": "Watch out for low-hanging wet branches along the river."
+              }
+            },
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Vorplatz.",
+                "hu": "Használja a közvetlenül a főtéren található kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete direct din fața catedralei.",
+                "en": "Use the bike racks located directly on the main square."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster; es wird sehr rutschig.",
+                "hu": "Vigyázzon a macskakövön; esőben nagyon csúszóssá válik.",
+                "ro": "Atenție pe pavaj; devine foarte alunecos când este ud.",
+                "en": "Be careful on the cobblestones; they get very slippery."
+              }
+            },
+            {
+              "name": "Jules Verne Circus",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor Sie im Trockenen weiterfahren.",
+                "hu": "Csak egy rövid fotómegálló, mielőtt fedett helyre menne.",
+                "ro": "O scurtă oprire pentru poze înainte de a continua la adăpost.",
+                "en": "Just a quick photo stop before moving to a drier spot."
+              }
+            },
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Sichere Abstellmöglichkeiten im überdachten Fahrradparkhaus.",
+                "hu": "Biztonságos tárolás a fedett kerékpáros parkolóházban.",
+                "ro": "Parcare sigură în parcarea de biciclete acoperită a gării.",
+                "en": "Secure storage available in the covered bike parking garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe später greifen.",
+              "Vermeiden Sie bei starkem Regen die unbefestigten Wege am Kanal.",
+              "Tragen Sie neongelbe Regenbekleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felfröccsenő víz ellen.",
+              "Fékezzen időben, mert nedves úton a fékút meghosszabbodik.",
+              "Heves esőben kerülje a csatorna menti földutakat.",
+              "Viseljen láthatósági esőruházatot a jobb észlelhetőségért."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu apă.",
+              "Frânați din timp, deoarece distanța de frânare crește pe ud.",
+              "Evitați potecile de pământ de lângă canal în caz de ploaie grea.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Use mudguards to prevent splashes from the wet roads.",
+              "Brake early as pads take longer to grip when wet.",
+              "Avoid unpaved canal paths during heavy downpours.",
+              "Wear neon rain gear to stay visible to city traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie warm eingepackt durch den Park. Die kahlen Bäume der Hortillonnages bieten weite Ausblicke. Mittags erreichen Sie die Kathedrale, wo Sie sich kurz aufwärmen können. Nutzen Sie das Tageslicht für die Fahrt durch Saint-Leu zum Zirkus und Bahnhof.",
+            "hu": "Induljon útnak jól felöltözve a parkon keresztül. A Hortillonnages kopár fái tiszta kilátást nyújtanak. Délben a katedrálisnál kicsit felmelegedhet. Használja ki a nappali fényt a Saint-Leu negyed, a cirkusz és a vasútállomás érintéséhez.",
+            "ro": "Porniți la drum bine echipat prin parc. Copacii goliți din Hortillonnages oferă vederi largi. La prânz ajungeți la catedrală pentru o scurtă încălzire. Profitați de lumina zilei pentru drumul prin Saint-Leu spre circ și gară.",
+            "en": "Start well-bundled through the park. The bare trees of the Hortillonnages offer wide views. At noon, reach the Cathedral for a quick warm-up. Use the daylight for the ride through Saint-Leu to the circus and station."
+          },
+          "stops": [
+            {
+              "name": "Saint-Pierre Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő fagyott falevelekre.",
+                "ro": "Atenție la frunzele înghețate de pe poteci.",
+                "en": "Watch out for frozen leaves on the pathways."
+              }
+            },
+            {
+              "name": "Hortillonnages (riverside)",
+              "tip_5lang": {
+                "de": "Der Wind am Wasser kann sehr kalt sein; tragen Sie einen Schal.",
+                "hu": "A vízparti szél nagyon hideg lehet; viseljen sálat.",
+                "ro": "Vântul de lângă apă poate fi tăios; purtați un fular.",
+                "en": "The wind by the water can be biting; wear a scarf."
+              }
+            },
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradschloss-Mechanismen können bei Frost klemmen.",
+                "hu": "A kerékpárzár mechanikája fagyban beragadhat.",
+                "ro": "Mecanismul antifurtului poate îngheța la temperaturi joase.",
+                "en": "Bike lock mechanisms can jam in freezing temperatures."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Glätte auf den Brücken.",
+                "hu": "Számítson jegesedésre a hidakon.",
+                "ro": "Așteptați-vă la gheață pe poduri.",
+                "en": "Expect icy patches on the canal bridges."
+              }
+            },
+            {
+              "name": "Jules Verne Circus",
+              "tip_5lang": {
+                "de": "Das Gebäude ist abends oft beleuchtet; lohnt sich bei Dämmerung.",
+                "hu": "Az épület este gyakran ki van világítva; érdemes szürkületkor látni.",
+                "ro": "Clădirea este luminată seara; merită vizitată la amurg.",
+                "en": "The building is often lit at night; worth seeing at dusk."
+              }
+            },
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Ende der Tour; nutzen Sie den geheizten Warteraum.",
+                "hu": "A túra vége; használja a fűtött várótermet.",
+                "ro": "Finalul turului; folosiți sala de așteptare încălzită.",
+                "en": "End of tour; make use of the heated waiting room."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Schalten Sie die Beleuchtung bereits ab 16:00 Uhr ein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá való sapkát.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad.",
+              "Kapcsolja be a világítást már délután 4 órától."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Verificați presiunea roților; o presiune mai mică oferă aderență mai bună.",
+              "Aprindeți luminile bicicletei începând cu ora 16:00."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "Check tire pressure; slightly lower pressure provides better grip.",
+              "Turn on your lights as early as 4:00 PM for safety."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -822,6 +1626,358 @@
           "Pay attention to speed limits in the villages.",
           "Samara is great especially for families with children."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie die Highlights von Amiens mit der Umgebung. Besuchen Sie zuerst die Kathedrale, bevor Sie zum archäologischen Park Samara fahren. Am Nachmittag erinnert das australische Denkmal in Villers-Bretonneux an die Geschichte. Kehren Sie für einen Abendspaziergang im Saint-Leu-Viertel nach Amiens zurück.",
+            "hu": "Autóval összekötheti Amiens nevezetességeit a környékkel. Először látogassa meg a katedrálist, majd utazzon a Samara régészeti parkba. Délután a Villers-Bretonneux ausztrál emlékműnél tiszteleghet a múlt előtt. Térjen vissza Amiens-be egy esti sétára a Saint-Leu negyedben.",
+            "ro": "Cu mașina, puteți combina punctele forte din Amiens cu împrejurimile. Vizitați mai întâi catedrala, apoi mergeți la parcul arheologic Samara. După-amiaza, memorialul australian din Villers-Bretonneux vă va aminti de istorie. Reveniți în Amiens pentru o plimbare de seară în cartierul Saint-Leu.",
+            "en": "By car, you can combine the highlights of Amiens with the surroundings. Visit the cathedral first before driving to Samara Archaeological Park. In the afternoon, the Australian Memorial at Villers-Bretonneux offers historical reflection. Return to Amiens for an evening stroll in the Saint-Leu district."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von Amiens",
+                "hu": "Amiens-i katedrális",
+                "ro": "Catedrala din Amiens",
+                "en": "Amiens Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Saint-Leu' in der Nähe.",
+                "hu": "Használja a közeli 'Saint-Leu' parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată 'Saint-Leu' din apropiere.",
+                "en": "Use the nearby 'Saint-Leu' parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park Samara",
+                "hu": "Samara régészeti park",
+                "ro": "Parcul arheologic Samara",
+                "en": "Samara Archaeological Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Ausflug in die Vorgeschichte, 15 km von Amiens.",
+                "hu": "Kirándulás az őskorba, 15 km-re Amiens-től.",
+                "ro": "O excursie în preistorie, la 15 km de Amiens.",
+                "en": "A trip to prehistory, 15 km from Amiens."
+              }
+            },
+            {
+              "name": {
+                "de": "Australisches Denkmal Villers-Bretonneux",
+                "hu": "Villers-Bretonneux ausztrál emlékmű",
+                "ro": "Memorialul australian Villers-Bretonneux",
+                "en": "Villers-Bretonneux Australian Memorial"
+              },
+              "tip_5lang": {
+                "de": "Bedeutende Gedenkstätte des Ersten Weltkriegs.",
+                "hu": "Az első világháború jelentős emlékhelye.",
+                "ro": "Memorial important din Primul Război Mondial.",
+                "en": "Significant World War I memorial site."
+              }
+            },
+            {
+              "name": {
+                "de": "Viertel Saint-Leu",
+                "hu": "Saint-Leu negyed",
+                "ro": "Cartierul Saint-Leu",
+                "en": "Saint-Leu Quarter"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und erkunden Sie den Rest zu Fuß.",
+                "hu": "Parkoljon a szélen, és gyalog fedezze fel a negyedet.",
+                "ro": "Parcați la margine și explorați pe jos.",
+                "en": "Park at the edge and explore on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtzentrum Amiens",
+                "hu": "Amiens városközpont",
+                "ro": "Centrul orașului Amiens",
+                "en": "Amiens City Center"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp für ein schönes Abendessen.",
+                "hu": "Utolsó megálló egy kellemes vacsorához.",
+                "ro": "Ultima oprire pentru o cină plăcută.",
+                "en": "Final stop for a nice dinner."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Auberge de Samara",
+                "tip": "Traditionelle Küche direkt beim Park."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Auberge de Samara",
+                "tip": "Hagyományos konyha közvetlenül a park mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Auberge de Samara",
+                "tip": "Bucătărie tradițională chiar lângă parc."
+              }
+            ],
+            "en": [
+              {
+                "name": "Auberge de Samara",
+                "tip": "Traditional cuisine right by the park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Belvédère de Vaux",
+                "tip": "Toller Ausblick auf das Somme-Tal.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvédère de Vaux",
+                "tip": "Nagyszerű kilátás a Somme-völgyre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvédère de Vaux",
+                "tip": "Vedere panoramică asupra văii râului Somme.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvédère de Vaux",
+                "tip": "Great view of the Somme valley.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Shopping Center Aushopping",
+                "tip": "Großes Einkaufszentrum am Stadtrand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aushopping bevásárlóközpont",
+                "tip": "Nagy bevásárlóközpont a város szélén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Aushopping",
+                "tip": "Centru comercial mare la marginea orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aushopping Shopping Center",
+                "tip": "Large shopping mall on the outskirts of town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken im Stadtzentrum kann schwierig sein, nutzen Sie P+R.",
+              "Die Straßen in der Picardie sind gut ausgebaut.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern.",
+              "Samara ist besonders für Familien mit Kindern toll."
+            ],
+            "hu": [
+              "A parkolás a központban nehéz lehet, használja a P+R parkolókat.",
+              "Picardie útjai jól karbantartottak.",
+              "Figyeljen a sebességkorlátozásokra a falvakban.",
+              "Samara különösen ajánlott gyermekes családoknak."
+            ],
+            "ro": [
+              "Parcarea în centru poate fi dificilă, folosiți parcările P+R.",
+              "Drumurile din Picardia sunt bine întreținute.",
+              "Atenție la limitele de viteză în sate.",
+              "Samara este excelent în special pentru familiile cu copii."
+            ],
+            "en": [
+              "Parking in the city center can be difficult, use P+R lots.",
+              "The roads in Picardy are well-maintained.",
+              "Pay attention to speed limits in the villages.",
+              "Samara is great especially for families with children."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie zentrumsnah für die Kathedrale. Die Fahrt nach Samara führt durch regnerische Landschaften zum archäologischen Park. Das Denkmal in Villers-Bretonneux bietet auch bei Regen einen ergreifenden Anblick. Den Abend verbringen Sie entspannt in Saint-Leu und der Innenstadt.",
+            "hu": "Parkoljon a központ közelében a katedrálishoz. Az út Samarába esős tájakon át vezet a régészeti parkhoz. A villers-bretonneux-i emlékmű esőben is megrázó látvány. Az estét töltse pihentetően Saint-Leu-ben és a belvárosban.",
+            "ro": "Parcați aproape de centru pentru catedrală. Drumul spre Samara trece prin peisaje ploioase spre parcul arheologic. Memorialul din Villers-Bretonneux oferă o vedere emoționantă chiar și pe ploaie. Seara este relaxantă în Saint-Leu și centrum.",
+            "en": "Park near the center for the Cathedral. The drive to Samara takes you through rainy landscapes to the archaeological park. The memorial in Villers-Bretonneux offers a moving sight even in the rain. Spend a relaxed evening in Saint-Leu and the city center."
+          },
+          "stops": [
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Parkhaus 'Saint-Leu' ist nah und trocken.",
+                "hu": "A 'Saint-Leu' parkolóház közeli és fedett.",
+                "ro": "Parcarea supraetajată 'Saint-Leu' este aproape și acoperită.",
+                "en": "The 'Saint-Leu' parking garage is nearby and dry."
+              }
+            },
+            {
+              "name": "Samara Archaeological Park",
+              "tip_5lang": {
+                "de": "Manche Rekonstruktionen sind überdacht; ideal für Regenschauer.",
+                "hu": "Néhány rekonstrukció fedett, ideális az eső elöli meneküléshez.",
+                "ro": "Unele reconstrucții sunt acoperite; ideale pentru reprize de ploaie.",
+                "en": "Some reconstructions are covered; ideal for passing showers."
+              }
+            },
+            {
+              "name": "Villers-Bretonneux Australian Memorial",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist modern und komplett wettergeschützt.",
+                "hu": "A látogatóközpont modern és teljesen védett az időjárástól.",
+                "ro": "Centrul pentru vizitatori este modern și complet protejat.",
+                "en": "The visitor center is modern and completely weather-protected."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkleitsystem; Parkplätze am Straßenrand sind begrenzt.",
+                "hu": "Használja a parkolási rendszert; az utcai helyek korlátozottak.",
+                "ro": "Folosiți sistemul de ghidare; locurile la bordură sunt limitate.",
+                "en": "Use the parking guidance system; street spots are limited."
+              }
+            },
+            {
+              "name": "Amiens City Center",
+              "tip_5lang": {
+                "de": "Kurze Wege von den Parkhäusern zu den Geschäften.",
+                "hu": "Rövid séta a parkolóházaktól az üzletekig.",
+                "ro": "Distanțe scurte de la parcări la magazine.",
+                "en": "Short walks from parking garages to the shops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie bei starkem Regen Aquaplaning auf der D1001.",
+              "Parkhäuser sind bequemer als Parkplätze im Freien.",
+              "Halten Sie einen Regenschirm im Türfach griffbereit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Heves esőben vigyázzon a felúszásra (aquaplaning) a D1001-es úton.",
+              "A parkolóházak kényelmesebbek, mint a nyitott parkolók.",
+              "Tartson egy esernyőt az ajtórekeszben kéznél."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drum.",
+              "Evitați acvaplanarea pe drumul D1001 în caz de ploaie torențială.",
+              "Parcările acoperite sunt mai comode decât cele exterioare.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving.",
+              "Avoid aquaplaning on the D1001 road during heavy rain.",
+              "Multi-story parking garages are more convenient than open lots.",
+              "Keep an umbrella handy in the car door compartment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einem beheizten Auto zur Kathedrale. Die Fahrt nach Samara bietet im Winter einen Blick auf die frostige Somme-Ebene. Das Denkmal in Villers-Bretonneux wirkt in der Winterstille besonders majestätisch. Beenden Sie den Tag im stimmungsvoll beleuchteten Amiens.",
+            "hu": "Induljon a fűtött autóval a katedrálishoz. A Samarába vezető út télen a Somme fagyos síkságaira nyit kilátást. A villers-bretonneux-i emlékmű a téli csendben különösen fenséges. Zárja a napot a hangulatosan kivilágított Amiens-ben.",
+            "ro": "Porniți cu mașina încălzită spre catedrală. Drumul spre Samara oferă iarna vederi spre câmpiile înghețate ale Somme. Memorialul din Villers-Bretonneux pare mai maiestuos în liniștea iernii. Încheiați ziua în Amiens-ul luminat ambiental.",
+            "en": "Start with a heated car for the Cathedral visit. The drive to Samara offers views of the frosty Somme plains in winter. The memorial in Villers-Bretonneux feels especially majestic in the winter silence. End your day in atmospheric, lit-up Amiens."
+          },
+          "stops": [
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf Kopfsteinpflaster bei Frostgefahr.",
+                "hu": "Kerülje a macskaköves parkolást, ha fagyveszély van.",
+                "ro": "Evitați parcarea pe pavaj dacă există risc de îngheț.",
+                "en": "Avoid parking on cobblestones if there is a risk of frost."
+              }
+            },
+            {
+              "name": "Samara Archaeological Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor der Anfahrt.",
+                "hu": "Érkezés előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de a pleca.",
+                "en": "Check the winter opening hours before driving there."
+              }
+            },
+            {
+              "name": "Villers-Bretonneux Australian Memorial",
+              "tip_5lang": {
+                "de": "Der Turm kann bei starkem Wind oder Eis geschlossen sein.",
+                "hu": "A torony erős szél vagy jegesedés esetén zárva tarthat.",
+                "ro": "Turnul poate fi închis în caz de vânt puternic sau gheață.",
+                "en": "The tower may be closed during strong winds or icy conditions."
+              }
+            },
+            {
+              "name": "Saint-Leu Quarter",
+              "tip_5lang": {
+                "de": "Die Kanäle können gefroren sein; ein schöner Anblick beim Parken.",
+                "hu": "A csatornák befagyhatnak; szép látvány parkolás közben.",
+                "ro": "Canalele pot fi înghețate; o priveliște frumoasă la parcare.",
+                "en": "The canals might be frozen; a beautiful sight while parking."
+              }
+            },
+            {
+              "name": "Amiens City Center",
+              "tip_5lang": {
+                "de": "Gut beleuchtete Parkplätze geben Sicherheit bei früher Dunkelheit.",
+                "hu": "A jól kivilágított parkolók biztonságosak a korai sötétedéskor.",
+                "ro": "Parcările bine luminate oferă siguranță la lăsarea serii.",
+                "en": "Well-lit parking areas provide safety during early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Enteisungsspray mit.",
+              "Achten Sie auf Glatteis auf den Landstraßen außerhalb der Stadt.",
+              "Batteriecheck ist vor dem Winterbesuch ratsam.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zwischen den Stationen."
+            ],
+            "hu": [
+              "Legyen Önnél jégkaparó és jégoldó spray.",
+              "Vigyázzon a jegesedésre a városon kívüli országutakon.",
+              "Téli látogatás előtt érdemes ellenőrizni az akkumulátort.",
+              "Használja az ülésfűtést a megállók közötti utakon."
+            ],
+            "ro": [
+              "Aveți la voi o racletă și spray de dezghețare.",
+              "Atenție la polei pe drumurile județene din afara orașului.",
+              "Verificarea bateriei este recomandată înainte de vizita de iarnă.",
+              "Folosiți încălzirea în scaune pentru drumul dintre obiective."
+            ],
+            "en": [
+              "Keep an ice scraper and de-icer spray in the car.",
+              "Watch for black ice on rural roads outside the city limits.",
+              "A battery check is advisable before a winter trip.",
+              "Use seat heaters for comfort during the drives between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1090,34 +2246,391 @@
           "Nemo lines are electric rapid transit buses.",
           "The Ametis app provides real-time information."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Amiens. Starten Sie am Bahnhof und besuchen Sie die Kathedrale. Danach fahren Sie zum weitläufigen Zoo von Amiens. Der Nachmittag gehört der Kultur im Picardie-Museum und im Jules Verne Haus, bevor Sie bequem zum Bahnhof zurückkehren.",
+            "hu": "Használja Amiens hatékony buszhálózatát. Kezdjen a vasútállomáson, majd látogassa meg a katedrálist. Ezután utazzon el a tágas Amiens-i Állatkertbe. A délutánt töltse kultúrával a Picardie Múzeumban és Jules Verne házában, mielőtt visszatérne az állomásra.",
+            "ro": "Folosiți sistemul eficient de autobuze din Amiens. Începeți de la gară și vizitați catedrala. Apoi, mergeți la Grădina Zoologică Amiens. După-amiaza este dedicată culturii la Muzeul Picardiei și Casa lui Jules Verne, înainte de a reveni confortabil la gară.",
+            "en": "Use Amiens' efficient bus network. Start at the station and visit the cathedral. Then take a bus to the spacious Amiens Zoo. Spend the afternoon immersed in culture at the Museum of Picardy and Jules Verne's house before returning to the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Amiens",
+                "hu": "Amiens vasútállomás",
+                "ro": "Gara din Amiens",
+                "en": "Amiens Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Buslinien.",
+                "hu": "Minden buszjárat központi csomópontja.",
+                "ro": "Nodul central pentru toate liniile de autobuz.",
+                "en": "Central hub for all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Amiens",
+                "hu": "Amiens-i katedrális",
+                "ro": "Catedrala din Amiens",
+                "en": "Amiens Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Gombault' ist direkt um die Ecke.",
+                "hu": "A 'Gombault' megálló közvetlenül a sarkon van.",
+                "ro": "Stația 'Gombault' este chiar după colț.",
+                "en": "The 'Gombault' stop is just around the corner."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Amiens",
+                "hu": "Amiens Állatkert",
+                "ro": "Grădina Zoologică Amiens",
+                "en": "Amiens Zoo"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit der Linie L4 von der Innenstadt.",
+                "hu": "Az L4-es busszal érhető el a belvárosból.",
+                "ro": "Accesibil cu linia L4 din centrul orașului.",
+                "en": "Accessible via line L4 from the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Picardie-Museum",
+                "hu": "Picardie Múzeum",
+                "ro": "Muzeul Picardiei",
+                "en": "Museum of Picardy"
+              },
+              "tip_5lang": {
+                "de": "Busse halten direkt vor dem Museum.",
+                "hu": "A buszok közvetlenül a múzeum előtt állnak meg.",
+                "ro": "Autobuzele opresc chiar în fața muzeului.",
+                "en": "Buses stop right in front of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Jules Verne",
+                "hu": "Jules Verne háza",
+                "ro": "Casa lui Jules Verne",
+                "en": "Jules Verne's House"
+              },
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von der Haltestelle 'Otages'.",
+                "hu": "Pár perc séta az 'Otages' megállótól.",
+                "ro": "Câteva minute de mers de la stația 'Otages'.",
+                "en": "A few minutes walk from the 'Otages' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Amiens",
+                "hu": "Amiens vasútállomás",
+                "ro": "Gara din Amiens",
+                "en": "Amiens Station"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Abschluss für die Heimreise.",
+                "hu": "Tökéletes befejezés a hazaúthoz.",
+                "ro": "Finalul perfect pentru drumul spre casă.",
+                "en": "Perfect end for the journey home."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Quai",
+                "tip": "Gutes Restaurant in der Nähe des Bahnhofs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Quai",
+                "tip": "Jó étterem a vasútállomás közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Quai",
+                "tip": "Restaurant bun în apropierea gării."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Quai",
+                "tip": "Good restaurant near the train station."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hotoie-Park",
+                "tip": "Der älteste Park der Stadt beim Zoo.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hotoie park",
+                "tip": "A város legrégebbi parkja az állatkert mellett.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Hotoie",
+                "tip": "Cel mai vechi parc din oraș, lângă grădina zoologică.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Hotoie Park",
+                "tip": "The city's oldest park next to the zoo.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue des Trois Cailloux",
+                "tip": "Haupteinkaufsstraße, gut mit dem Bus erreichbar."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue des Trois Cailloux",
+                "tip": "Fő bevásárlóutca, busszal könnyen megközelíthető."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue des Trois Cailloux",
+                "tip": "Principala stradă comercială, ușor accesibilă cu autobuzul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue des Trois Cailloux",
+                "tip": "Main shopping street, easily accessible by bus."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Bussystem heißt 'Ametis'.",
+              "Kaufen Sie Ihre Fahrkarten an den Automaten an den Haltestellen.",
+              "Die Nemo-Linien sind elektrische Schnellbusse.",
+              "Die App von Ametis bietet Echtzeit-Informationen."
+            ],
+            "hu": [
+              "A buszhálózat neve 'Ametis'.",
+              "Vásárolja meg jegyeit a megállókban lévő automatáknál.",
+              "A Nemo vonalak elektromos gyorsbuszok.",
+              "Az Ametis applikáció valós idejű információkat ad."
+            ],
+            "ro": [
+              "Sistemul de autobuze se numește 'Ametis'.",
+              "Cumpărați biletele de la automatele din stații.",
+              "Liniile Nemo sunt autobuze electrice rapide.",
+              "Aplicația Ametis oferă informații în timp real."
+            ],
+            "en": [
+              "The bus network is called 'Ametis'.",
+              "Buy your tickets at the vending machines at the stops.",
+              "Nemo lines are electric rapid transit buses.",
+              "The Ametis app provides real-time information."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken am Bahnhof und nehmen Sie den Bus zur Kathedrale. Der Zoo bietet bei Regen weniger Außenaktivitäten, aber das Picardie-Museum ist ein perfekter Zufluchtsort. Besuchen Sie Jules Vernes Haus am Nachmittag und kehren Sie bequem mit dem Bus zum Bahnhof zurück.",
+            "hu": "Kezdje szárazon a vasútállomáson, majd busszal menjen a katedrálishoz. Az állatkert esőben kevesebb élményt ad, de a Picardie Múzeum tökéletes menedék. Délután látogassa meg Jules Verne házát, majd kényelmesen busszal térjen vissza az állomásra.",
+            "ro": "Începeți la gară și luați autobuzul spre catedrală. Grădina zoologică oferă mai puține activități pe ploaie, dar Muzeul Picardiei este refugiul perfect. Vizitați casa lui Jules Verne după-amiaza și reveniți confortabil cu autobuzul la gară.",
+            "en": "Start dry at the station and take the bus to the Cathedral. The zoo offers fewer outdoor activities in the rain, but the Picardy Museum is a perfect sanctuary. Visit Jules Verne's house in the afternoon and return comfortably by bus to the station."
+          },
+          "stops": [
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Stadtplan am Info-Schalter im Trockenen.",
+                "hu": "Kérjen várostérképet az információs pultnál, fedett helyen.",
+                "ro": "Luați o hartă a orașului de la biroul de informații.",
+                "en": "Pick up a city map at the information desk indoors."
+              }
+            },
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Hôtel de Ville' ist nur wenige Schritte entfernt.",
+                "hu": "A 'Hôtel de Ville' buszmegálló csak néhány lépésre van.",
+                "ro": "Stația de autobuz 'Hôtel de Ville' este la câțiva pași distanță.",
+                "en": "The 'Hôtel de Ville' bus stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Amiens Zoo",
+              "tip_5lang": {
+                "de": "Einige Tierhäuser sind überdacht; nutzen Sie diese bei Schauern.",
+                "hu": "Néhány állatház fedett; használja ezeket záporok idején.",
+                "ro": "Unele pavilioane sunt acoperite; folosiți-le în timpul ploii.",
+                "en": "Some animal houses are covered; use them during showers."
+              }
+            },
+            {
+              "name": "Museum of Picardy",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus in der Glas-Wartehalle vor dem Museum.",
+                "hu": "Várja a buszt a múzeum előtti üvegezett váróban.",
+                "ro": "Așteptați autobuzul în stația vitrată din fața muzeului.",
+                "en": "Wait for the bus in the glazed shelter in front of the museum."
+              }
+            },
+            {
+              "name": "Jules Verne's House",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle 'Jules Verne'.",
+                "hu": "Rövid séta a 'Jules Verne' buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz 'Jules Verne'.",
+                "en": "Short walk from the 'Jules Verne' bus stop."
+              }
+            },
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Digitale Anzeigen informieren im Inneren über Abfahrten.",
+                "hu": "Digitális kijelzők tájékoztatnak odabent az indulásokról.",
+                "ro": "Panourile digitale vă informează în interior despre plecări.",
+                "en": "Digital displays provide departure info inside the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt in der Ametis-App.",
+              "Buse sind bei Regen oft voll; planen Sie Pufferzeiten ein.",
+              "Die Haltestellen sind meist überdacht, aber windanfällig.",
+              "Nutzen Sie die Echtzeit-App für genaue Abfahrtszeiten."
+            ],
+            "hu": [
+              "Vásároljon napijegyet közvetlenül az Ametis alkalmazásban.",
+              "A buszok esőben gyakran zsúfoltak; számoljon rá időt.",
+              "A megállók többsége fedett, de a szél befújhat.",
+              "Használja a valós idejű appot a pontos indulásokhoz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct din aplicația Ametis.",
+              "Autobuzele sunt adesea pline pe ploaie; planificați timp suplimentar.",
+              "Stațiile sunt în mare parte acoperite, dar expuse la vânt.",
+              "Folosiți aplicația în timp real pentru orele exacte de plecare."
+            ],
+            "en": [
+              "Purchase a day pass directly via the Ametis mobile app.",
+              "Buses are often crowded during rain; allow extra travel time.",
+              "Most stops are covered, but still susceptible to wind.",
+              "Use the real-time transit app for accurate departure times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im warmen Bahnhofsgebäude. Der Bus bringt Sie zügig zur Kathedrale. Ein Winterbesuch im Zoo ist ruhig und besinnlich. Genießen Sie die Wärme im Picardie-Museum und Jules Vernes Haus, bevor Sie im Dunkeln mit dem hell erleuchteten Bus zum Bahnhof fahren.",
+            "hu": "Kezdje a túrát a meleg vasútállomáson. A busz gyorsan elviszi a katedrálishoz. Az állatkert téli látogatása csendes és megnyugtató. Élvezze a melegedést a Picardie Múzeumban és Jules Verne házában, majd sötétedés után a kivilágított busszal menjen az állomásra.",
+            "ro": "Începeți turul în gară, unde este cald. Autobuzul vă duce rapid la catedrală. O vizită de iarnă la zoo este liniștită. Bucurați-vă de căldura din Muzeul Picardiei și casa lui Jules Verne, apoi mergeți la gară cu autobuzul luminat.",
+            "en": "Start your tour in the warm station building. The bus takes you quickly to the Cathedral. A winter visit to the zoo is quiet and contemplative. Enjoy the warmth of the Picardy Museum and Jules Verne's house before taking the lit-up bus to the station in the dark."
+          },
+          "stops": [
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés im Bahnhof zum Aufwärmen.",
+                "hu": "Használja az állomáson lévő kávézókat a felmelegedésre.",
+                "ro": "Folosiți cafenelele din gară pentru a vă încălzi.",
+                "en": "Use the cafes inside the station to warm up."
+              }
+            },
+            {
+              "name": "Amiens Cathedral",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden auf den nächsten Bus.",
+                "hu": "Várja a következő buszt az árkádok alatt.",
+                "ro": "Așteptați următorul autobuz sub arcade.",
+                "en": "Wait for the next bus under the protection of the arches."
+              }
+            },
+            {
+              "name": "Amiens Zoo",
+              "tip_5lang": {
+                "de": "Einige Tiere sind im Winter in ihren Innengehegen.",
+                "hu": "Néhány állat télen a belső kifutókban látható.",
+                "ro": "Unele animale pot fi văzute iarna în adăposturile interioare.",
+                "en": "Some animals are kept in their indoor enclosures during winter."
+              }
+            },
+            {
+              "name": "Museum of Picardy",
+              "tip_5lang": {
+                "de": "Die Garderobe ist im Winter für dicke Jacken obligatorisch.",
+                "hu": "A ruhatár télen a vastag kabátok miatt kötelező.",
+                "ro": "Garderoba este obligatorie iarna pentru hainele groase.",
+                "en": "The cloakroom is mandatory for heavy coats in winter."
+              }
+            },
+            {
+              "name": "Jules Verne's House",
+              "tip_5lang": {
+                "de": "Schöne Beleuchtung der Fassade bei früher Dämmerung.",
+                "hu": "A homlokzat szép megvilágítása kora szürkületkor.",
+                "ro": "Iluminare frumoasă a fațadei la lăsarea serii.",
+                "en": "Beautiful illumination of the facade during early dusk."
+              }
+            },
+            {
+              "name": "Amiens Station",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Frost sehr glatt sein.",
+                "hu": "Az állomás előtti tér fagyban nagyon csúszós lehet.",
+                "ro": "Piața din fața gării poate fi alunecoasă în caz de îngheț.",
+                "en": "The station forecourt can be very slippery in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich an Feiertagen im Winter ändern.",
+              "Halten Sie Ihr Ticket griffbereit, um Kälte an der Tür zu vermeiden.",
+              "Die Busse sind im Winter gut geheizt.",
+              "Nutzen Sie die Zeit im Bahnhof für letzte Einkäufe im Warmen."
+            ],
+            "hu": [
+              "A menetrendek téli ünnepek alatt változhatnak.",
+              "Tartsa a jegyét kéznél, hogy elkerülje a hideget az ajtónyitásnál.",
+              "A buszok télen jól fűtöttek.",
+              "Használja ki az állomáson töltött időt melegben való vásárlásra."
+            ],
+            "ro": [
+              "Orarele se pot modifica în timpul sărbătorilor de iarnă.",
+              "Țineți biletul la îndemână pentru a nu sta mult în frig la ușă.",
+              "Autobuzele sunt bine încălzite în timpul iernii.",
+              "Folosiți timpul în gară pentru ultimele cumpărături la căldură."
+            ],
+            "en": [
+              "Bus schedules may change during winter holidays.",
+              "Have your ticket ready to avoid standing in the cold at the door.",
+              "Buses are well-heated during the winter season.",
+              "Use time at the station for last-minute shopping in the warm."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.amiens-tourisme.com/",
-    "events": "https://www.amiens-tourisme.com/agenda/",
-    "city_card": "",
-    "museum_tickets": "",
-    "transit_official": "https://www.ametis.fr/",
-    "language_tips": {
-      "de": "Amiens spricht picardisches Franzoesisch, klar und freundlich, der Akzent ist sehr leicht. Englisch in Hotels und an der Kathedrale verbreitet, in den Hortillonnages-Restaurants weniger. 'Bonjour' und 'au revoir' sind hier echte Hoeflichkeitsregeln.",
-      "hu": "Amiens picardiai franciat beszel, tiszta es barati, az akcentus enyhe. A szallodakban es a katedralisnál van angol, a Hortillonnages ettermeiben kevesbe. A 'bonjour' es 'au revoir' itt valodi udvariassagi szabaly.",
-      "ro": "Amiens vorbeste franceza picarda, clara si prietenoasa, accentul e usor. Engleza merge la hoteluri si la catedrala, in restaurantele de la Hortillonnages mai putin. 'Bonjour' si 'au revoir' sunt reguli reale de politete aici.",
-      "en": "Amiens speaks Picard-flavoured French, clear and friendly, with a soft accent. English works in hotels and at the cathedral, less so in the Hortillonnages restaurants. A 'bonjour' and 'au revoir' here are real social rules."
-    },
-    "best_time_to_visit": {
-      "de": "Mai-September sind ideal (15-23 Grad), Hortillonnages-Bootsfahrten Juni-Oktober, Kathedral-Lichtshow 'Chroma' Juni-September. Winter feucht (3-7 Grad), aber Weihnachtsmarkt am Hotel de Ville und Kathedrale im Licht magisch.",
-      "hu": "Majus-szeptember a legjobb (15-23 fok), Hortillonnages-csonakazas junius-oktober, 'Chroma' fenyshow a katedralison junius-szeptember. Tel nyirkos (3-7 fok), de a Hotel de Ville-i karacsonyi vasar es a kivilagitott katedralis varazslatos.",
-      "ro": "Mai-septembrie sunt ideale (15-23 grade), plimbarile cu barca pe Hortillonnages iunie-octombrie, spectacolul de lumini 'Chroma' la catedrala iunie-septembrie. Iarna e umeda (3-7 grade), dar targul de Craciun de la Hotel de Ville si catedrala iluminata sunt magice.",
-      "en": "May-September are ideal (15-23°C), with Hortillonnages boat trips June-October and the 'Chroma' cathedral light show June-September. Winter is damp (3-7°C), but the Hotel de Ville Christmas market and the lit cathedral feel magical."
-    },
-    "neighborhood_warnings": {
-      "de": "Pierre-Rollin und Etouvie im Norden abends meiden. Innenstadt, Saint-Leu-Viertel und Kathedrale sicher. Bahnhof Amiens-Nord tagsueber okay, nachts ruhig.",
-      "hu": "Pierre-Rollin es Etouvie eszakon este nem ajanlott. A belvaros, Saint-Leu negyed es a katedralis biztonsagos. Amiens-Nord allomas nappal rendben, ejjel csendes.",
-      "ro": "Pierre-Rollin si Etouvie, in nord, sunt de evitat seara. Centrul, cartierul Saint-Leu si catedrala sunt sigure. Gara Amiens-Nord e ok ziua, linistita noaptea.",
-      "en": "Avoid Pierre-Rollin and Etouvie in the north after dark. The centre, Saint-Leu quarter and cathedral are safe. Amiens-Nord station is fine by day, quiet at night."
-    },
-    "parking_real_time": ""
   }
 }

@@ -290,6 +290,420 @@
           "The cathedral might close for a short break during lunchtime.",
           "Wander through the narrow side streets of Old Tours to escape the crowds."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Herzen des Vieux Tours auf dem belebten Place Plumereau. Nach dem Besuch der Basilika Saint-Martin locken die lokalen Köstlichkeiten in den Halles. Nachmittags dominiert die gotische Pracht der Kathedrale und die Kunst im Musée des Beaux-Arts das Programm. Der Tag klingt entspannt im malerischen Jardin des Prébendes aus.",
+            "hu": "A nap az óváros szívében, a nyüzsgő Place Plumereau-n indul. Szent Márton bazilikája után a helyi finomságoké a főszerep a vásárcsarnokban. Délután a gótikus székesegyház és a szépművészeti múzeum kincsei nyűgözik le a látogatót. A napot egy kellemes séta zárja a festői Prébendes kertben.",
+            "ro": "Ziua începe în inima orașului vechi, în vibranta Place Plumereau. După vizitarea Basilicii Saint-Martin, deliciile locale vă așteaptă în hale. După-amiaza este dedicată splendorii gotice a catedralei și artei de la Muzeul de Arte Frumoase. Ziua se încheie relaxant în pitoresca grădină Prébendes.",
+            "en": "Start your day in the heart of Old Tours at the lively Place Plumereau. After visiting Saint Martin's Basilica, indulge in local flavors at the market. The afternoon features the Gothic majesty of the cathedral and the artistic treasures of the Fine Arts Museum. End your walk with a peaceful stroll through the scenic Prébendes Garden."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee inmitten der mittelalterlichen Fachwerkhäuser.",
+                "hu": "Igyon egy kávét a középkori fagerendás házak ölelésében.",
+                "ro": "Savurați o cafea înconjurați de case medievale cu bârne din lemn.",
+                "en": "Enjoy a coffee surrounded by medieval half-timbered houses."
+              }
+            },
+            {
+              "name": "Basilique Saint-Martin",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta mit dem Grab des Heiligen Martin.",
+                "hu": "Látogasson el a kriptába, ahol Szent Márton sírja található.",
+                "ro": "Vizitați cripta cu mormântul Sfântului Martin.",
+                "en": "Visit the crypt containing the tomb of Saint Martin."
+              }
+            },
+            {
+              "name": "Les Halles de Tours",
+              "tip_5lang": {
+                "de": "Probieren Sie die berühmten Rillettes de Tours direkt am Marktstand.",
+                "hu": "Kóstolja meg a híres Tours-i töpörtyűkrémet (rillettes) a piacon.",
+                "ro": "Gustați faimoasele rillettes de Tours direct de la tarabă.",
+                "en": "Try the famous Rillettes de Tours directly at the market stalls."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Glasmalereien aus dem 13. Jahrhundert.",
+                "hu": "Csodálja meg a 13. századi csodálatos üvegablakokat.",
+                "ro": "Admirați vitraliile magnifice din secolul al XIII-lea.",
+                "en": "Admire the magnificent 13th-century stained glass windows."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die monumentale Zeder im Ehrenhof.",
+                "hu": "Ne hagyja ki a hatalmas cédrusfát a belső udvaron.",
+                "ro": "Nu ratați cedrul monumental din curtea de onoare.",
+                "en": "Don't miss the monumental cedar tree in the courtyard."
+              }
+            },
+            {
+              "name": "Jardin des Prébendes d'Oé",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause am kleinen See.",
+                "hu": "Tökéletes hely egy pihenőhöz a kis tó partján.",
+                "ro": "Locul perfect pentru o pauză lângă micul lac.",
+                "en": "Perfect spot for a break by the small lake."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rillettes de Tours",
+                "tip": "Grob gehackter Fleischaufstrich, eine lokale Spezialität."
+              },
+              {
+                "name": "Le Casse-Cailloux",
+                "tip": "Moderne französische Küche mit frischen Produkten aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rillettes de Tours",
+                "tip": "Helyi sertéshúsból készült, rusztikus töpörtyűkrém."
+              },
+              {
+                "name": "Le Casse-Cailloux",
+                "tip": "Modern francia konyha friss, környékbeli alapanyagokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rillettes de Tours",
+                "tip": "Pastă de porc tradițională, o specialitate locală autentică."
+              },
+              {
+                "name": "Le Casse-Cailloux",
+                "tip": "Bucătărie franceză modernă cu ingrediente locale proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rillettes de Tours",
+                "tip": "Traditional pork spread, a must-try local specialty."
+              },
+              {
+                "name": "Le Casse-Cailloux",
+                "tip": "Modern French cuisine featuring fresh regional produce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cloître de la Psalette",
+                "tip": "Ein friedlicher gotischer Kreuzgang neben der Kathedrale.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Loire-Ufer",
+                "tip": "Spaziergang bei Sonnenuntergang entlang des Flusses.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cloître de la Psalette",
+                "tip": "Békés gótikus kolostorkert a székesegyház mellett.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Loire-part",
+                "tip": "Naplemente közbeni séta a folyóparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cloître de la Psalette",
+                "tip": "O mănăstire gotică liniștită lângă catedrală.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Malurile Loarei",
+                "tip": "Plimbare la apus de-a lungul fluviului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cloître de la Psalette",
+                "tip": "A peaceful Gothic cloister next to the cathedral.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Loire River Banks",
+                "tip": "A sunset walk along the longest river in France.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue Colbert",
+                "tip": "Charmante Straße mit vielen kleinen Kunsthandwerksläden."
+              },
+              {
+                "name": "Halles de Tours",
+                "tip": "Der beste Ort für gastronomische Souvenirs wie Käse und Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue Colbert",
+                "tip": "Bájos utca kézműves boltokkal és antikváriumokkal."
+              },
+              {
+                "name": "Halles de Tours",
+                "tip": "A legjobb hely gasztro-ajándékok, például sajt és bor beszerzésére."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue Colbert",
+                "tip": "O stradă fermecătoare cu multe magazine de artizanat."
+              },
+              {
+                "name": "Halles de Tours",
+                "tip": "Cel mai bun loc pentru suveniruri gastronomice, brânză și vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue Colbert",
+                "tip": "Charming street lined with artisanal shops and boutiques."
+              },
+              {
+                "name": "Halles de Tours",
+                "tip": "The ultimate spot for gourmet souvenirs like cheese and wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tours ist sehr flach und perfekt zu Fuß zu erkunden.",
+              "Die meisten Museen sind montags geschlossen.",
+              "Die Kathedrale ist zur Mittagszeit oft kurzzeitig zu.",
+              "Nutzen Sie die kleinen Gassen im Vieux Tours, um Touristenmassen zu vermeiden."
+            ],
+            "hu": [
+              "Tours városa sík, így gyalogosan is kényelmesen bejárható.",
+              "A múzeumok többsége hétfőn zárva tart.",
+              "A székesegyház délidőben rövid időre bezárhat.",
+              "Fedezze fel az óváros szűk sikátorait a tömeg elkerülése érdekében."
+            ],
+            "ro": [
+              "Tours este un oraș plat, ideal pentru a fi explorat la pas.",
+              "Majoritatea muzeelor sunt închise în zilele de luni.",
+              "Catedrala poate fi închisă pentru o scurtă perioadă la prânz.",
+              "Explorați străduțele secundare din orașul vechi pentru a evita aglomerația."
+            ],
+            "en": [
+              "Tours is very flat, making it very easy to explore on foot.",
+              "Keep in mind that most museums are closed on Mondays.",
+              "The cathedral might close for a short break during lunchtime.",
+              "Wander through the narrow side streets of Old Tours to escape the crowds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Place Plumereau, wo die Fachwerkhäuser Schutz bieten. Mittags genießen Sie die trockene Wärme der Halles de Tours. Am Nachmittag bieten die Kathedrale und das Kunstmuseum perfekte Zufluchtsorte vor dem Regen. Der Tag endet mit einem kurzen, nebligen Spaziergang durch den Jardin des Prébendes.",
+            "hu": "A reggel a Place Plumereau patinás favázas házai alatt indul, amelyek védelmet nyújtanak. Délben a Halles de Tours fedett piacán melegedhetünk fel. Délután a katedrális és a Szépművészeti Múzeum belső terei nyújtanak menedéket az eső elől. Az este a párás Jardin des Prébendes kertben zárul.",
+            "ro": "Dimineața începe în Place Plumereau, unde casele cu bârne oferă adăpost. La prânz, savurați căldura uscată din Halles de Tours. După-amiaza, Catedrala și Muzeul de Arte Frumoase oferă refugii perfecte împotriva ploii. Ziua se încheie cu o scurtă plimbare prin ceața din Jardin des Prébendes.",
+            "en": "Morning starts at Place Plumereau where timber-framed houses provide shelter. Midday is spent in the dry warmth of Les Halles de Tours. In the afternoon, the Cathedral and Fine Arts Museum offer perfect refuges from the rain. The day ends with a misty stroll through the Jardin des Prébendes."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den mittelalterlichen Dachüberständen Schutz vor Schauern.",
+                "hu": "Keressen menedéket a középkori tetőperemek alatt a záporok elől.",
+                "ro": "Căutați adăpost sub streșinile medievale în caz de aversă.",
+                "en": "Find shelter under the medieval roof overhangs if a shower starts."
+              }
+            },
+            {
+              "name": "Basilique Saint-Martin",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung während des Regens.",
+                "hu": "Csendes, száraz hely az elmélkedésre az eső idején.",
+                "ro": "Un loc liniștit și uscat pentru reflecție în timpul ploii.",
+                "en": "A quiet, dry place for reflection while it rains outside."
+              }
+            },
+            {
+              "name": "Les Halles de Tours",
+              "tip_5lang": {
+                "de": "Der ultimative Zufluchtsort mit vielen überdachten Essensständen.",
+                "hu": "A végső menedék számos fedett ételárussal.",
+                "ro": "Refugiul suprem, cu multe tarabe cu mâncare la interior.",
+                "en": "The ultimate indoor refuge with plenty of food stalls."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien im grauen Licht – sie wirken magisch.",
+                "hu": "Csodálja meg az üvegablakokat a szürke fényben – mágikus hatást keltenek.",
+                "ro": "Admirați vitraliile în lumina gri – au un efect magic.",
+                "en": "Admire the stained glass in the grey light – they look magical."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tfip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um dem Wetter zu entfliehen.",
+                "hu": "Tervezzen ide hosszabb pihenőt, hogy elmeneküljön az időjárás elől.",
+                "ro": "Planificați o pauză mai lungă aici pentru a scăpa de vreme.",
+                "en": "Plan a longer break here to escape the wet weather."
+              }
+            },
+            {
+              "name": "Jardin des Prébendes d'Oé",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kövezett utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Passage du Cœur de Ville' für überdachtes Shoppen.",
+              "Die Markthalle 'Les Halles' ist der beste Ort für eine trockene Mittagspause.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Museen in Tours sind montags oft geschlossen; prüfen Sie die Termine.",
+              "Ein Regenschirm ist bei den schmalen Gassen oft praktischer als ein Poncho."
+            ],
+            "hu": [
+              "Használja a 'Passage du Cœur de Ville' átjárót a fedett vásárláshoz.",
+              "A 'Les Halles' piac a legjobb hely egy száraz ebédszünethez.",
+              "Viseljen vízálló cipőt, mert a macskakő csúszóssá válik.",
+              "A túri múzeumok gyakran zárva vannak hétfőn; ellenőrizze az időpontokat.",
+              "Az esernyő gyakran praktikusabb a szűk utcákban, mint az esőkabát."
+            ],
+            "ro": [
+              "Folosiți 'Passage du Cœur de Ville' pentru cumpărături la adăpost.",
+              "Piața 'Les Halles' este cel mai bun loc pentru o pauză de prânz uscată.",
+              "Purtați încălțăminte impermeabilă, deoarece pavajul devine alunecos.",
+              "Muzeele din Tours sunt adesea închise lunea; verificați orarul.",
+              "O umbrelă este adesea mai practică decât o pelerină în piețele înguste."
+            ],
+            "en": [
+              "Use the 'Passage du Cœur de Ville' for sheltered shopping.",
+              "The 'Les Halles' market is the best spot for a dry lunch break.",
+              "Wear waterproof shoes as the cobblestones become very slippery.",
+              "Tours museums are often closed on Mondays; double-check the schedule.",
+              "An umbrella is often more practical than a poncho in the narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Place Plumereau mit heißem Kaffee. Mittags wärmen lokale Spezialitäten in den Halles auf. Der Nachmittag gehört der prachtvollen Kathedrale und dem beheizten Kunstmuseum. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die winterliche Stille im Garten von Prébendes früh.",
+            "hu": "Fagyos reggel a Place Plumereau-n egy forró kávéval. Délben helyi különlegességek melegítenek fel a Halles piacon. A délután a pompás katedrálisé és a fűtött Szépművészeti Múzeumé. Mivel a nap 17:00 körül nyugszik, élvezze korán a Prébendes kert téli csendjét.",
+            "ro": "O dimineață geroasă în Place Plumereau cu o cafea fierbinte. La prânz, specialitățile locale vă încălzesc în piața Halles. După-amiaza aparține catedralei magnifice și Muzeului de Arte Frumoase încălzit. Deoarece soarele apune în jurul orei 17:00, bucurați-vă devreme de liniștea iernii în grădina Prébendes.",
+            "en": "A frosty morning at Place Plumereau with a hot coffee. Midday features local specialties to warm you up at the Halles market. The afternoon is dedicated to the magnificent Cathedral and the heated Fine Arts Museum. As the sun sets around 17:00, enjoy the winter silence of the Prébendes garden early."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung an den alten Fassaden.",
+                "hu": "Élvezze a karácsonyi kivilágítást a régi homlokzatokon.",
+                "ro": "Bucurați-vă de iluminatul de Crăciun de pe fațadele vechi.",
+                "en": "Enjoy the festive winter lights on the old timber facades."
+              }
+            },
+            {
+              "name": "Basilique Saint-Martin",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Krypta beim Grab des Heiligen auf.",
+                "hu": "Melegedjen fel a kriptában a szent sírjánál.",
+                "ro": "Încălziți-vă în criptă, lângă mormântul sfântului.",
+                "en": "Warm up in the crypt near the tomb of the saint."
+              }
+            },
+            {
+              "name": "Les Halles de Tours",
+              "tip_5lang": {
+                "de": "Probieren Sie warme Rillettes, eine lokale Winterspezialität.",
+                "hu": "Kóstolja meg a meleg rillettes-t, a helyi téli különlegességet.",
+                "ro": "Gustați rillettes calde, o specialitate locală de iarnă.",
+                "en": "Try some warm rillettes, a local winter specialty."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren sorgen für eine andächtige, warme Atmosphäre.",
+                "hu": "A benti gyertyák meghitt, meleg hangulatot árasztanak.",
+                "ro": "Lumânările din interior creează o atmosferă caldă și pioasă.",
+                "en": "The candles inside create a solemn, warm atmosphere."
+              }
+            },
+            {
+              "name": "Musée des Beaux-Arts",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den kalten Wind für ein bis zwei Stunden zu meiden.",
+                "hu": "Ideális hely a hideg szél elkerülésére egy-két órára.",
+                "ro": "Un loc ideal pentru a evita vântul rece timp de o oră sau două.",
+                "en": "An ideal place to avoid the cold wind for an hour or two."
+              }
+            },
+            {
+              "name": "Jardin des Prébendes d'Oé",
+              "tip_5lang": {
+                "de": "Vorsicht auf den kleinen Brücken, sie können bei Frost glatt sein.",
+                "hu": "Vigyázzon a kis hidakon, fagy idején csúszósak lehetnek.",
+                "ro": "Atenție pe podurile mici, pot fi alunecoase în caz de îngheț.",
+                "en": "Watch out on the small bridges; they can be slippery during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 17:00 Uhr unter.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt, falls Sie im Dezember dort sind.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig für den Wechsel zwischen Drinnen und Draußen.",
+              "Einige Parks schließen im Winter bereits um 17:30 Uhr.",
+              "Heißer Apfelwein ist eine köstliche Alternative zum Glühwein."
+            ],
+            "hu": [
+              "A nap decemberben már 17:00 körül nyugszik.",
+              "Látogassa meg a kis karácsonyi vásárt, ha decemberben jár itt.",
+              "A réteges öltözködés fontos a kinti és benti helyszínek közötti váltáskor.",
+              "Néhány park télen már 17:30-kor bezár.",
+              "A forró alma bor finom alternatívája a forralt bornak."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:00 în decembrie.",
+              "Vizitați micul târg de Crăciun dacă sunteți acolo în decembrie.",
+              "Îmbrăcămintea în straturi este importantă pentru trecerea de la interior la exterior.",
+              "Unele parcuri se închid deja la ora 17:30 iarna.",
+              "Cidrul de mere cald este o alternativă delicioasă la vinul fiert."
+            ],
+            "en": [
+              "The sun sets as early as 17:00 in December.",
+              "Visit the small Christmas market if you are there in December.",
+              "Layering your clothes is key for switching between indoor and outdoor spots.",
+              "Some parks close as early as 17:30 during the winter season.",
+              "Hot apple cider is a delicious local alternative to mulled wine."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -520,6 +934,357 @@
           "Always use a sturdy lock when stopping to visit sights.",
           "Be careful and respectful when cycling in the pedestrian areas of Old Tours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Tours auf zwei Rädern entlang der malerischen Loire. Von den Ufern geht es zum historischen Schloss und zur Kathedrale. Nach einer entspannten Pause auf der Île Simon führt die Route zum Prieuré de Saint-Cosme, dem Heim des Dichters Ronsard. Eine perfekte Mischung aus Natur und Kultur.",
+            "hu": "Fedezze fel Tours városát két keréken a festői Loire-part mentén. A folyóparttól a történelmi kastélyhoz és a székesegyházhoz vezet az út. Az Île Simon szigetén tett pihenő után a túra a Saint-Cosme kolostornál, Ronsard költő házánál ér véget. A természet és kultúra tökéletes egyvelege.",
+            "ro": "Explorați Tours pe două roți de-a lungul malurilor pitorești ale Loarei. De la râu, traseul continuă spre castelul istoric și catedrală. După o pauză relaxantă pe Île Simon, ruta duce la Prieuré de Saint-Cosme, casa poetului Ronsard. Un amestec perfect de natură și cultură.",
+            "en": "Explore Tours on two wheels along the scenic banks of the Loire. Cycle from the riverside to the historic castle and the cathedral. After a relaxing break on Simon Island, the route takes you to the Saint-Cosme Priory, the home of poet Ronsard. A perfect blend of nature, history, and fresh air."
+          },
+          "stops": [
+            {
+              "name": "Loire River Banks",
+              "tip_5lang": {
+                "de": "Fahren Sie ein Stück auf der Route 'Loire à Vélo'.",
+                "hu": "Tekerjen egyet a híres 'Loire à Vélo' útvonalon.",
+                "ro": "Mergeți pe o porțiune din traseul 'Loire à Vélo'.",
+                "en": "Cycle along a section of the famous 'Loire à Vélo' route."
+              }
+            },
+            {
+              "name": "Château de Tours",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Fotoausstellungen im Schloss.",
+                "hu": "Nézze meg a kastélyban rendezett fotókiállításokat.",
+                "ro": "Vizitați expozițiile de fotografie din castel.",
+                "en": "Check out the photography exhibitions inside the castle."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher an den vorgesehenen Bügeln ab.",
+                "hu": "Zárja le biztonságosan a biciklit a kijelölt tárolóknál.",
+                "ro": "Parcați bicicleta în siguranță la suporturile special amenajate.",
+                "en": "Securely park your bike at the designated racks nearby."
+              }
+            },
+            {
+              "name": "Île Simon",
+              "tip_5lang": {
+                "de": "Eine grüne Oase mitten im Fluss, ideal für ein Picknick.",
+                "hu": "Zöld oázis a folyó közepén, ideális piknikezéshez.",
+                "ro": "O oază de verdeață în mijlocul râului, ideală pentru picnic.",
+                "en": "A green oasis in the middle of the river, perfect for a picnic."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Besuchen Sie das letzte Wohnhaus des Dichters Ronsard.",
+                "hu": "Látogasson el Ronsard költő utolsó lakóhelyére.",
+                "ro": "Vizitați ultima reședință a poetului Ronsard.",
+                "en": "Visit the final home of the famous poet Ronsard."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Guinguette de Tours",
+                "tip": "Open-Air Bar am Flussufer mit entspannter Atmosphäre."
+              },
+              {
+                "name": "Nougat de Tours",
+                "tip": "Ein traditioneller Kuchen mit kandierten Früchten und Mandeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Guinguette de Tours",
+                "tip": "Szabadtéri bár a folyóparton, igazi lazulós hangulattal."
+              },
+              {
+                "name": "Nougat de Tours",
+                "tip": "Hagyományos sütemény kandírozott gyümölccsel és mandulával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Guinguette de Tours",
+                "tip": "Bar în aer liber pe malul râului, cu o atmosferă relaxată."
+              },
+              {
+                "name": "Nougat de Tours",
+                "tip": "O prăjitură tradițională cu fructe confiate și migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Guinguette de Tours",
+                "tip": "Outdoor riverside bar with a great relaxed vibe."
+              },
+              {
+                "name": "Nougat de Tours",
+                "tip": "A traditional cake filled with candied fruits and almonds."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Île Simon Nordspitze",
+                "tip": "Ruhiger Blick auf den Zusammenfluss von Loire und Cher.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Île Simon északi csücske",
+                "tip": "Csendes kilátás a folyóra és a városra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful nordic al Insulei Simon",
+                "tip": "Vedere liniștită asupra râului și orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "North tip of Île Simon",
+                "tip": "Quiet views of the river and the city skyline.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Indigo",
+                "tip": "Lokales Kunsthandwerk und schöne Schreibwaren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Indigo",
+                "tip": "Helyi kézműves termékek és szép papíráruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Indigo",
+                "tip": "Produse de artizanat local și papetărie frumoasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Indigo",
+                "tip": "Local handicrafts and beautiful stationery items."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Es gibt viele Fahrradverleihstationen in der Nähe des Bahnhofs.",
+              "Die Radwege entlang der Loire sind sehr gut ausgeschildert.",
+              "Nutzen Sie ein stabiles Schloss, wenn Sie die Sehenswürdigkeiten besuchen.",
+              "Fahren Sie vorsichtig in der Fußgängerzone des Vieux Tours."
+            ],
+            "hu": [
+              "Számos biciklikölcsönző található a vasútállomás közelében.",
+              "A Loire menti kerékpárutak kiválóan ki vannak táblázva.",
+              "Használjon erős lakatot a látnivalók látogatása közben.",
+              "Közlekedjen óvatosan az óváros gyalogos zónáiban."
+            ],
+            "ro": [
+              "Există multe centre de închirieri biciclete lângă gară.",
+              "Traseele de biciclete de-a lungul Loarei sunt foarte bine semnalizate.",
+              "Folosiți un lacăt solid când vizitați obiectivele turistice.",
+              "Conduceți cu atenție în zonele pietonale din orașul vechi."
+            ],
+            "en": [
+              "There are plenty of bike rental stations near the train station.",
+              "The bike paths along the Loire are very well signposted.",
+              "Always use a sturdy lock when stopping to visit sights.",
+              "Be careful and respectful when cycling in the pedestrian areas of Old Tours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist das Ufer der Loire mystisch. Mittags bietet das Château de Tours Schutz. Nachmittags geht es zur Kathedrale, bevor Sie die Île Simon vorsichtig erkunden. Der Tag endet im Prieuré de Saint-Cosme, wobei der Fokus auf den Innenräumen liegt.",
+            "hu": "Az eső ellenére a Loire partja misztikus látvány. Délben a túri kastély nyújt menedéket. Délután a katedrális felé vesszük az irányt, majd óvatosan felfedezzük a Simon-szigetet. A nap a Prieuré de Saint-Cosme-ban zárul, a belső terekre fókuszálva.",
+            "ro": "În ciuda ploii, malurile Loarei sunt mistice. La prânz, Castelul din Tours oferă protecție. După-amiaza mergem la catedrală înainte de a explora cu prudență Île Simon. Ziua se încheie la Prieuré de Saint-Cosme, cu accent pe interior.",
+            "en": "Despite the rain, the Loire banks are mystical. Midday, the Château de Tours provides cover. In the afternoon, head to the Cathedral before cautiously exploring Île Simon. The day ends at the Prieuré de Saint-Cosme, focusing on the indoor exhibits."
+          },
+          "stops": [
+            {
+              "name": "Loire River Banks",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf dem Radweg, der Belag kann rutschig sein.",
+                "hu": "Vigyázzon a tócsákra a kerékpárúton, a burkolat csúszós lehet.",
+                "ro": "Atenție la bălțile de pe pista de biciclete, suprafața poate fi alunecoasă.",
+                "en": "Watch for puddles on the bike path; the surface can be slippery."
+              }
+            },
+            {
+              "name": "Château de Tours",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der Fotoausstellungen für eine Pause.",
+                "hu": "Használja a fotókiállítások belső tereit egy kis pihenőre.",
+                "ro": "Folosiți spațiile interioare ale expozițiilor foto pentru o pauză.",
+                "en": "Use the indoor photo exhibition areas for a dry break."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer direkt in der Nähe des Portals.",
+                "hu": "Közvetlenül a bejárat közelében találhatók kerékpártárolók.",
+                "ro": "Există rastele de biciclete chiar lângă intrare.",
+                "en": "There are bike racks located right near the main entrance."
+              }
+            },
+            {
+              "name": "Île Simon",
+              "tip_5lang": {
+                "de": "Die Holzbrücken sind bei Nässe extrem rutschig – bitte schieben.",
+                "hu": "A fahidak nedvesen rendkívül csúszósak – kérjük, tolja a biciklit.",
+                "ro": "Podurile de lemn sunt extrem de alunecoase când sunt ude – vă rugăm să mergeți pe lângă bicicletă.",
+                "en": "The wooden bridges are extremely slippery when wet – please walk your bike."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus von Ronsard, um trocken zu bleiben.",
+                "hu": "Látogassa meg Ronsard házát, hogy száraz maradjon.",
+                "ro": "Vizitați casa lui Ronsard pentru a rămâne uscat.",
+                "en": "Visit Ronsard's house to stay dry during the visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur, inklusive Überschuhen.",
+              "Vermeiden Sie starkes Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Nutzen Sie die 'Vélo-Station' am Bahnhof für trockene Unterbringung.",
+              "Die Radwege entlang der Loire sind gut drainiert, aber Vorsicht vor Laub.",
+              "Beleuchtung ist bei Regen auch tagsüber für die Sichtbarkeit wichtig."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a cipővédőt is.",
+              "Kerülje az erős fékezést a nedves útburkolati jeleken.",
+              "Használja az állomáson lévő 'Vélo-Station'-t a száraz tároláshoz.",
+              "A Loire menti kerékpárutak jól víztelenítettek, de vigyázzon a levelekre.",
+              "Esőben a láthatóság miatt nappal is fontos a világítás."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Evitați frânarea bruscă pe marcajele rutiere umede.",
+              "Folosiți 'Vélo-Station' de la gară pentru depozitare uscată.",
+              "Pistele de biciclete de-a lungul Loarei sunt bine drenate, dar atenție la frunze.",
+              "Iluminarea este importantă pentru vizibilitate chiar și în timpul zilei când plouă."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Avoid hard braking on wet road markings.",
+              "Use the 'Vélo-Station' at the train station for dry storage.",
+              "The bike paths along the Loire are well-drained, but watch out for leaves.",
+              "Lights are important for visibility during the day when it's raining."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Loire mit Blick auf den Morgennebel. Das Schloss bietet mittags Wärme. Nachmittags geht es zur Kathedrale, bevor wir die Île Simon im Winterlicht queren. Der Tag endet im geschichtsträchtigen Prieuré de Saint-Cosme, bevor es zu dunkel wird.",
+            "hu": "Hűvös kezdés a Loire-nál, kilátással a reggeli ködre. A kastély délben nyújt meleget. Délután a katedrálist ejtjük útba, majd a Simon-szigeten kelünk át a téli fényekben. A nap a történelmi Prieuré de Saint-Cosme-ban zárul, még sötétedés előtt.",
+            "ro": "Un început răcoros la Loara, cu vedere la ceața dimineții. Castelul oferă căldură la prânz. După-amiaza vizităm catedrala, apoi traversăm Île Simon în lumina iernii. Ziua se încheie la istoricul Prieuré de Saint-Cosme, înainte de a se întuneca.",
+            "en": "A chilly start by the Loire with views of the morning mist. The castle offers warmth at midday. In the afternoon, visit the Cathedral before crossing Île Simon in the winter light. The day ends at the historical Prieuré de Saint-Cosme before it gets too dark."
+          },
+          "stops": [
+            {
+              "name": "Loire River Banks",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kann sehr schneidend sein; tragen Sie einen Schal.",
+                "hu": "A folyóparti szél nagyon metsző lehet; viseljen sálat.",
+                "ro": "Vântul de lângă râu poate fi foarte tăios; purtați un fular.",
+                "en": "The wind by the river can be very biting; wear a scarf."
+              }
+            },
+            {
+              "name": "Château de Tours",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und bieten eine willkommene Pause.",
+                "hu": "A kiállítások jól fűtöttek, és kellemes pihenőt kínálnak.",
+                "ro": "Expozițiile sunt bine încălzite și oferă o pauză binevenită.",
+                "en": "The exhibitions are well-heated and offer a welcome break."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut, die Finger können beim Aufschließen kalt sein.",
+                "hu": "Zárja le jól a biciklit, az ujjak megfagyhatnak a lakat kinyitásakor.",
+                "ro": "Asigurați bine bicicleta, degetele pot fi reci la descuiat.",
+                "en": "Secure your bike well; fingers can be cold when unlocking it."
+              }
+            },
+            {
+              "name": "Île Simon",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die kahlen Bäume und den Fluss.",
+                "hu": "Élvezze a kopár fák és a folyó látványát.",
+                "ro": "Bucurați-vă de vederea copacilor desfrunziți și a râului.",
+                "en": "Enjoy the view of the bare trees and the river."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a rövidebb téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă mai scurt înainte de plecare.",
+                "en": "Check the shorter winter opening hours before heading out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um klamme Finger zu vermeiden.",
+              "Die Sonne geht früh unter; sorgen Sie für funktionierende Reflektoren.",
+              "In der Nähe der Loire kann es glatt sein; fahren Sie vorausschauend.",
+              "Eine Thermoskanne mit Tee ist ein treuer Begleiter.",
+              "Der 'Loire à Vélo' Weg wird im Winter weniger gewartet; Vorsicht vor Eis."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, hogy elkerülje az ujjak elgémberedését.",
+              "A nap korán nyugszik; gondoskodjon a működő prizmákról.",
+              "A Loire közelében csúszós lehet az út; vezessen előrelátóan.",
+              "Egy termosz tea hűséges társ a hidegben.",
+              "A 'Loire à Vélo' utat télen kevésbé tartják karban; vigyázzon a jéggel."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a evita amorțirea degetelor.",
+              "Soarele apune devreme; asigurați-vă că aveți reflectorizante funcționale.",
+              "Lângă Loara poate fi polei; conduceți cu prudență.",
+              "Un termos cu ceai este un companion fidel.",
+              "Traseul 'Loire à Vélo' este mai puțin întreținut iarna; atenție la gheață."
+            ],
+            "en": [
+              "Wear windproof gloves to avoid numb fingers.",
+              "The sun sets early; ensure you have working reflectors.",
+              "It can be icy near the Loire; ride proactively.",
+              "A thermos of tea is a faithful companion.",
+              "The 'Loire à Vélo' path is less maintained in winter; watch for ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -750,6 +1515,357 @@
           "Be mindful of speed limits when driving through small villages.",
           "It is recommended to book wine tastings in Vouvray in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie die Highlights von Tours mit den Schätzen der Umgebung. Nach dem Stadtzentrum führt die Fahrt zum Schloss Villandry mit seinen weltberühmten Gärten. Anschließend geht es in das Weinbaugebiet Vouvray für eine Verkostung. Den Abschluss bildet das imposante Rathaus von Tours.",
+            "hu": "Autóval Tours legszebb pontjait a környék kincseivel kombinálhatja. A városközpont után a világhírű kertjeiről ismert Villandry kastélyhoz vezet az út. Ezután a Vouvray borvidék következik egy borkóstolóra. A napot Tours impozáns városházájának megtekintésével zárjuk.",
+            "ro": "Cu mașina puteți combina atracțiile din Tours cu bijuteriile din împrejurimi. După centrul orașului, drumul duce la Castelul Villandry, renumit pentru grădinile sale. Urmează zona viticolă Vouvray pentru o degustare. Finalul aparține clădirii impunătoare a primăriei din Tours.",
+            "en": "By car, you can seamlessly combine Tours' city highlights with nearby treasures. After exploring the center, drive to Villandry Castle to see its world-famous gardens. Then, head to the Vouvray wine region for a local tasting. End your day back in town at the grand City Hall building."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Halles' ganz in der Nähe.",
+                "hu": "Parkoljon a közeli 'Halles' parkolóházban.",
+                "ro": "Parcați în parcarea 'Halles' din apropiere.",
+                "en": "Park at the 'Halles' parking garage located nearby."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus nächster Nähe.",
+                "hu": "Nézze meg alaposan a homlokzat részleteit.",
+                "ro": "Admirați detaliile fațadei de aproape.",
+                "en": "Take a close look at the intricate details of the facade."
+              }
+            },
+            {
+              "name": "Château de Villandry",
+              "tip_5lang": {
+                "de": "Besuchen Sie unbedingt die berühmten Renaissance-Gärten.",
+                "hu": "Mindenképpen nézze meg a híres reneszánsz kerteket.",
+                "ro": "Vizitați neapărat faimoasele grădini renascentiste.",
+                "en": "The world-famous Renaissance gardens are a must-see."
+              }
+            },
+            {
+              "name": "Vouvray Vineyards",
+              "tip_5lang": {
+                "de": "Probieren Sie den Weißwein direkt beim Winzer.",
+                "hu": "Kóstolja meg a fehérbort közvetlenül a termelőnél.",
+                "ro": "Degustați vinul alb direct de la producător.",
+                "en": "Enjoy a white wine tasting directly at a local winery."
+              }
+            },
+            {
+              "name": "Hôtel de Ville de Tours",
+              "tip_5lang": {
+                "de": "Ein prächtiges Gebäude aus der Zeit der Belle Époque.",
+                "hu": "Egy impozáns épület a Belle Époque korszakából.",
+                "ro": "O clădire grandioasă din epoca Belle Époque.",
+                "en": "A magnificent building from the Belle Époque era."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vouvray Wein",
+                "tip": "Berühmter Weißwein aus der Chenin Blanc Traube."
+              },
+              {
+                "name": "Sainte-Maure de Touraine",
+                "tip": "Ziegenkäse mit einem charakteristischen Roggenstrohhalm."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vouvray bor",
+                "tip": "Híres fehérbor Chenin Blanc szőlőből."
+              },
+              {
+                "name": "Sainte-Maure de Touraine",
+                "tip": "Kecskesajt, közepén egy jellegzetes rozsszalmaszállal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Vouvray",
+                "tip": "Vin alb renumit obținut din struguri Chenin Blanc."
+              },
+              {
+                "name": "Sainte-Maure de Touraine",
+                "tip": "Brânză de capră cu un pai de secară caracteristic în interior."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vouvray Wine",
+                "tip": "Famous white wine made from Chenin Blanc grapes."
+              },
+              {
+                "name": "Sainte-Maure de Touraine",
+                "tip": "Goat cheese with a distinctive rye straw through the middle."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villandry Gärten",
+                "tip": "Finden Sie Ruhe im Labyrinth der Gärten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villandry kertjei",
+                "tip": "Találjon nyugalmat a kertek labirintusában.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Villandry",
+                "tip": "Găsiți liniștea în labirintul grădinilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villandry Gardens",
+                "tip": "Find peace and serenity in the garden labyrinth.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cave de Vouvray",
+                "tip": "Kaufen Sie Wein direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cave de Vouvray",
+                "tip": "Vásároljon bort közvetlenül a pincészetből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cave de Vouvray",
+                "tip": "Cumpărați vin direct de la cramă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cave de Vouvray",
+                "tip": "Purchase wine directly from the producers' cellar."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken im Zentrum kann schwierig sein, nutzen Sie Parkhäuser.",
+              "Die Fahrt nach Villandry dauert etwa 20-30 Minuten.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern.",
+              "Buchen Sie Weinverkostungen in Vouvray im Voraus."
+            ],
+            "hu": [
+              "A belvárosi parkolás nehézkes lehet, használja a parkolóházakat.",
+              "Az út Villandryba körülbelül 20-30 percet vesz igénybe.",
+              "Ügyeljen a sebességkorlátozásokra a kisebb falvakban.",
+              "Érdemes előre bejelentkezni a borászatokhoz Vouvray-ben."
+            ],
+            "ro": [
+              "Parcarea în centru poate fi dificilă, folosiți parcările etajate.",
+              "Drumul către Villandry durează aproximativ 20-30 de minute.",
+              "Atenție la limitele de viteză în localități.",
+              "Rezervați din timp degustările de vin în Vouvray."
+            ],
+            "en": [
+              "Parking in the city center can be tricky; use parking garages.",
+              "The drive to Villandry takes about 20-30 minutes.",
+              "Be mindful of speed limits when driving through small villages.",
+              "It is recommended to book wine tastings in Vouvray in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist ideal für eine Fahrt zum Château de Villandry. Mittags genießen wir die Weinkeller von Vouvray, wo es garantiert trocken ist. Nachmittags besuchen wir die Kathedrale von Tours, bevor der Tag am Rathaus endet. Das Auto ist der perfekte Schutz vor dem nassen Wetter.",
+            "hu": "Az eső ideális egy kiránduláshoz a Villandry kastélyhoz. Délben a Vouvray borpincéket élvezzük, ahol garantáltan száraz minden. Délután a túri katedrálist látogatjuk meg, majd a városházánál zárjuk a napot. Az autó tökéletes védelem a nedves időjárás ellen.",
+            "ro": "Ploaia este ideală pentru o excursie la Castelul Villandry. La prânz ne bucurăm de cramele din Vouvray, unde este garantat uscat. După-amiaza vizităm catedrala din Tours, înainte ca ziua să se încheie la primărie. Mașina este protecția perfectă împotriva vremii umede.",
+            "en": "Rain is ideal for a drive to Château de Villandry. Midday, we enjoy the Vouvray wine cellars, where it's guaranteed to be dry. In the afternoon, we visit the Tours Cathedral before the day ends at the City Hall. The car is the perfect shelter from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage am Bahnhof, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja az állomás melletti mélygarázst, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcarea subterană de la gară pentru a ajunge uscat în centru.",
+                "en": "Use the underground parking near the station to stay dry."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Rue Colbert für einen kurzen Fußweg.",
+                "hu": "Parkoljon a Rue Colbert közelében a rövid séta érdekében.",
+                "ro": "Parcați lângă Rue Colbert pentru un drum scurt pe jos.",
+                "en": "Park near Rue Colbert for a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Château de Villandry",
+              "tip_5lang": {
+                "de": "Besuchen Sie zuerst das Innere des Schlosses, bis der Regen nachlässt.",
+                "hu": "Először a kastély belsejét látogassa meg, amíg eláll az eső.",
+                "ro": "Vizitați mai întâi interiorul castelului până se oprește ploaia.",
+                "en": "Visit the interior of the castle first until the rain lets up."
+              }
+            },
+            {
+              "name": "Vouvray Vineyards",
+              "tip_5lang": {
+                "de": "Weinkeller-Touren sind die perfekte Indoor-Aktivität bei Regen.",
+                "hu": "A borpince-túrák tökéletes fedett programok esőben.",
+                "ro": "Tururile în crame sunt activitatea perfectă de interior pe ploaie.",
+                "en": "Wine cellar tours are the perfect indoor activity when it rains."
+              }
+            },
+            {
+              "name": "Hôtel de Ville de Tours",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, bevor Sie wieder ins trockene Auto steigen.",
+                "hu": "Rövid megálló fotózásra, mielőtt visszaszállna a száraz autóba.",
+                "ro": "Oprire scurtă pentru poze înainte de a reveni în mașina uscată.",
+                "en": "Short stop for photos before getting back into the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Scheibenwischer vor der Fahrt in die ländliche Region.",
+              "Parkhäuser im Zentrum bieten direkten Zugang zu Einkaufszentren.",
+              "Die Straßen im Loire-Tal können bei starkem Regen rutschig sein.",
+              "Nutzen Sie Apps wie 'Flowbird' für kontaktloses Parken im Regen.",
+              "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a vidéki út előtt.",
+              "A belvárosi parkolóházak közvetlen elérést biztosítanak a bevásárlóközpontokhoz.",
+              "A Loire-völgy útjai csúszósak lehetnek heves esőzéskor.",
+              "Használjon olyan alkalmazásokat, mint a 'Flowbird' az érintésmentes parkoláshoz.",
+              "Kerülje a fák alatti parkolást viharveszély esetén."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul în regiunea rurală.",
+              "Parcările etajate din centru oferă acces direct la centrele comerciale.",
+              "Drumurile din Valea Loarei pot fi alunecoase la ploi abundente.",
+              "Folosiți aplicații precum 'Flowbird' pentru parcare fără contact pe ploaie.",
+              "Evitați parcarea sub copaci în caz de pericol de furtună."
+            ],
+            "en": [
+              "Check your wipers before driving into the rural countryside.",
+              "City center parking garages offer direct access to shopping malls.",
+              "Roads in the Loire Valley can be slick during heavy rain.",
+              "Use apps like 'Flowbird' for contactless parking in the rain.",
+              "Avoid parking under trees if there's a risk of storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen im Loire-Tal. Morgens geht es durch Tours, bevor wir zum Schloss Villandry fahren, das im Frost besonders edel wirkt. Nachmittags wärmen wir uns in den Kellern von Vouvray auf. Der Tag endet am festlich beleuchteten Rathaus von Tours.",
+            "hu": "Téli mese a Loire-völgyben. Reggel Tours városán haladunk át, mielőtt a Villandry kastélyhoz hajtanánk, amely fagyban különösen nemes látvány. Délután a Vouvray pincékben melegszünk fel. A nap az ünnepi kivilágítású túri városházánál zárul.",
+            "ro": "Poveste de iarnă în Valea Loarei. Dimineața traversăm Tours înainte de a conduce la Castelul Villandry, care arată deosebit de nobil în ger. După-amiaza ne încălzim în cramele din Vouvray. Ziua se încheie la primăria din Tours, iluminată festiv.",
+            "en": "A winter tale in the Loire Valley. In the morning, pass through Tours before driving to Château de Villandry, which looks particularly noble in the frost. In the afternoon, warm up in the Vouvray cellars. The day ends at the festively lit Tours City Hall."
+          },
+          "stops": [
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Heizung im Auto vorwärmen, bevor Sie den Stadtrundgang starten.",
+                "hu": "Melegítse elő az autó fűtését, mielőtt elkezdi a városnézést.",
+                "ro": "Preîncălziți mașina înainte de a începe turul orașului.",
+                "en": "Pre-warm the car heater before you start your city walk."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Kopfsteinpflaster in der Altstadt.",
+                "hu": "Vigyázzon a fagyott macskakövekre az óvárosban.",
+                "ro": "Atenție la pavajul înghețat din centrul vechi.",
+                "en": "Watch out for frozen cobblestones in the old town area."
+              }
+            },
+            {
+              "name": "Château de Villandry",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter weniger besucht – genießen Sie die Ruhe.",
+                "hu": "A park télen kevésbé látogatott – élvezze a nyugalmat.",
+                "ro": "Parcul este mai puțin vizitat iarna – bucurați-vă de liniște.",
+                "en": "The park is less crowded in winter – enjoy the peace."
+              }
+            },
+            {
+              "name": "Vouvray Vineyards",
+              "tip_5lang": {
+                "de": "Die konstante Temperatur in den Kellern ist im Winter angenehm warm.",
+                "hu": "A pincék állandó hőmérséklete télen kellemesen meleg.",
+                "ro": "Temperatura constantă din crame este plăcut de caldă iarna.",
+                "en": "The constant cellar temperature feels pleasantly warm in winter."
+              }
+            },
+            {
+              "name": "Hôtel de Ville de Tours",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Platzes ist nach 17:00 Uhr am schönsten.",
+                "hu": "A tér kivilágítása 17:00 után a legszebb.",
+                "ro": "Iluminatul pieței este cel mai frumos după ora 17:00.",
+                "en": "The square's lighting is most beautiful after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie ausreichend Frostschutzmittel haben.",
+              "Einige ländliche Straßen können morgens glatt sein.",
+              "Parken Sie in Parkhäusern, um das Eiskratzen am Abend zu vermeiden.",
+              "Prüfen Sie die Winteröffnungszeiten der Weingüter in Vouvray.",
+              "Die Fahrt durch das verschneite Loire-Tal ist sehr malerisch."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van elegendő fagyálló folyadéka.",
+              "Néhány vidéki út reggelente csúszós lehet.",
+              "Parkoljon parkolóházban, hogy elkerülje az esti jégkaparást.",
+              "Ellenőrizze a Vouvray borászatok téli nyitvatartását.",
+              "A havas Loire-völgyön való átautózás nagyon festői."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid antigriz.",
+              "Unele drumuri rurale pot fi alunecoase dimineața.",
+              "Parcați în parcări etajate pentru a evita curățarea gheții seara.",
+              "Verificați programul de iarnă al vinăriilor din Vouvray.",
+              "Drumul prin Valea Loarei înzăpezită este foarte pitoresc."
+            ],
+            "en": [
+              "Ensure you have sufficient antifreeze fluid.",
+              "Some rural roads can be icy in the morning.",
+              "Park in parking garages to avoid scraping ice in the evening.",
+              "Check the winter opening hours of the Vouvray wineries.",
+              "The drive through the snowy Loire Valley is very picturesque."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -964,34 +2080,342 @@
           "Download the 'Fil Bleu' app for real-time schedules.",
           "Don't forget to validate your ticket upon boarding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das moderne Straßenbahnnetz von Tours, um die Stadt bequem zu erkunden. Vom zentralen Place Jean Jaurès geht es zur Kathedrale und zum faszinierenden Handwerksmuseum. Nach einer Pause im Vieux Tours bringt Sie der Bus zum Prieuré de Saint-Cosme am Stadtrand. Eine stressfreie Art, viel zu sehen.",
+            "hu": "Használja Tours modern villamoshálózatát a kényelmes városnézéshez. A központi Place Jean Jaurès-től a székesegyházhoz és a különleges céhmúzeumhoz vezet az út. Az óvárosi pihenő után busszal érhető el a város szélén található Saint-Cosme kolostor. Stresszmentes felfedezés.",
+            "ro": "Folosiți rețeaua modernă de tramvaie din Tours pentru o explorare confortabilă. De la Place Jean Jaurès, traseul continuă spre catedrală și muzeul meșteșugurilor. După o pauză în orașul vechi, autobuzul vă duce la Prieuré de Saint-Cosme. Un mod relaxant de a vedea multe obiective.",
+            "en": "Utilize Tours' modern tram system for a comfortable city tour. From the central Place Jean Jaurès, travel to the cathedral and the fascinating craft museum. After a break in Old Tours, a short bus ride takes you to the Saint-Cosme Priory on the outskirts. A stress-free way to see the best of the city."
+          },
+          "stops": [
+            {
+              "name": "Place Jean Jaurès",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt der Straßenbahnlinie A.",
+                "hu": "Az A villamosvonal központi csomópontja.",
+                "ro": "Nod central pentru linia de tramvai A.",
+                "en": "Central hub for the tram line A."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Haltestelle 'Cathédrale' nutzen.",
+                "hu": "Használja a 'Cathédrale' megállót.",
+                "ro": "Folosiți stația 'Cathédrale'.",
+                "en": "Use the 'Cathédrale' stop for easy access."
+              }
+            },
+            {
+              "name": "Musée du Compagnonnage",
+              "tip_5lang": {
+                "de": "Einzigartiges Museum über französisches Handwerk.",
+                "hu": "Egyedülálló múzeum a francia kézműves céhekről.",
+                "ro": "Un muzeu unic despre meșteșugurile franceze.",
+                "en": "A unique museum dedicated to French craftsmanship."
+              }
+            },
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Ideal für ein Mittagessen in historischer Kulisse.",
+                "hu": "Ideális egy ebédhez a történelmi környezetben.",
+                "ro": "Ideal pentru prânz într-un cadru istoric.",
+                "en": "Ideal for lunch amidst historic surroundings."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Buslinie 3 führt direkt hierher.",
+                "hu": "A 3-as buszvonal közvetlenül ide hoz.",
+                "ro": "Linia de autobuz 3 ajunge direct aici.",
+                "en": "Bus line 3 takes you directly to this site."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Boulangerie L'Atelier",
+                "tip": "Hervorragende französische Backwaren und Sandwiches."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie L'Atelier",
+                "tip": "Kiváló francia pékáruk és szendvicsek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie L'Atelier",
+                "tip": "Patiserie franceză excelentă și sandvișuri proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie L'Atelier",
+                "tip": "Excellent French pastries and fresh sandwiches."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin de la Préfecture",
+                "tip": "Ruhiger Park in der Nähe der Straßenbahnhaltestelle.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin de la Préfecture",
+                "tip": "Csendes park a villamosmegálló közelében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin de la Préfecture",
+                "tip": "Parc liniștit situat lângă stația de tramvai.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin de la Préfecture",
+                "tip": "A quiet park located near the tram stop.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rue Nationale",
+                "tip": "Die Haupteinkaufsstraße, durch die die Straßenbahn fährt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rue Nationale",
+                "tip": "A fő bevásárlóutca, ahol a villamos is közlekedik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rue Nationale",
+                "tip": "Principala stradă comercială prin care trece tramvaiul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rue Nationale",
+                "tip": "The main shopping street along the tram line."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für das gesamte Fil-Bleu-Netz.",
+              "Die Straßenbahnen fahren sehr häufig und sind pünktlich.",
+              "Laden Sie die App 'Fil Bleu' für Echtzeit-Fahrpläne herunter.",
+              "Vergessen Sie nicht, Ihr Ticket beim Einsteigen zu entwerten."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a teljes Fil-Bleu hálózatra.",
+              "A villamosok gyakran és pontosan járnak.",
+              "Töltse le a 'Fil Bleu' alkalmazást a valós idejű menetrendért.",
+              "Ne felejtse el érvényesíteni a jegyét felszálláskor."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru întreaga rețea Fil-Bleu.",
+              "Tramvaiele circulă frecvent și sunt punctuale.",
+              "Descărcați aplicația 'Fil Bleu' pentru orarul în timp real.",
+              "Nu uitați să validați biletul la urcare."
+            ],
+            "en": [
+              "Buy a day pass for the entire Fil Bleu network.",
+              "Trams are frequent and generally very punctual.",
+              "Download the 'Fil Bleu' app for real-time schedules.",
+              "Don't forget to validate your ticket upon boarding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Straßenbahn von Tours ist die Rettung bei Regen. Morgens geht es zur Place Jean Jaurès, dann zur Kathedrale. Mittags bietet das Musée du Compagnonnage trockene Kultur. Der Tag endet an der Place Plumereau und dem Prieuré de Saint-Cosme, bequem erreichbar mit dem Bus.",
+            "hu": "A túri villamos a mentőöv esőben. Reggel a Place Jean Jaurès-re megyünk, majd a katedrálishoz. Délben a Musée du Compagnonnage kínál fedett kultúrát. A nap a Place Plumereau-n és a Prieuré de Saint-Cosme-nál zárul, kényelmesen, busszal elérve.",
+            "ro": "Tramvaiul din Tours este salvarea pe ploaie. Dimineața mergem în Place Jean Jaurès, apoi la catedrală. La prânz, Musée du Compagnonnage oferă cultură la adăpost. Ziua se încheie în Place Plumereau și la Prieuré de Saint-Cosme, ușor accesibile cu autobuzul.",
+            "en": "The Tours tram is a lifesaver in the rain. In the morning, head to Place Jean Jaurès, then to the Cathedral. Midday, the Musée du Compagnonnage offers indoor culture. The day ends at Place Plumereau and Prieuré de Saint-Cosme, easily reached by bus."
+          },
+          "stops": [
+            {
+              "name": "Place Jean Jaurès",
+              "tip_5lang": {
+                "de": "Warten Sie unter den überdachten Tramstationen auf die Linie A.",
+                "hu": "Várjon a fedett villamosmegállókban az A vonalra.",
+                "ro": "Așteptați sub stațiile de tramvai acoperite pentru linia A.",
+                "en": "Wait under the covered tram stations for Line A."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestelle 'Cathédrale' für minimale Wege im Regen.",
+                "hu": "Használja a 'Cathédrale' buszmegállót a minimális séta érdekében.",
+                "ro": "Folosiți stația de autobuz 'Cathédrale' pentru drumuri scurte pe ploaie.",
+                "en": "Use the 'Cathédrale' bus stop to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Musée du Compagnonnage",
+              "tip_5lang": {
+                "de": "Ein faszinierendes Museum, das komplett überdacht ist.",
+                "hu": "Lenyűgöző múzeum, amely teljesen fedett.",
+                "ro": "Un muzeu fascinant, care este complet acoperit.",
+                "en": "A fascinating museum that is completely indoors."
+              }
+            },
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Viele Cafés hier haben Markisen, die vor leichtem Regen schützen.",
+                "hu": "Sok itteni kávézónak van napellenzője, ami véd az enyhe esőtől.",
+                "ro": "Multe cafenele de aici au copertine care protejează de ploaia ușoară.",
+                "en": "Many cafes here have awnings that protect from light rain."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Buslinie 3, die fast direkt vor das Tor fährt.",
+                "hu": "Szálljon fel a 3-as buszra, amely szinte közvetlenül a kapu előtt áll meg.",
+                "ro": "Luați autobuzul 3, care oprește aproape chiar în fața porții.",
+                "en": "Take bus line 3, which stops almost right in front of the gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket über die 'Fil Bleu' App, um Automaten im Regen zu meiden.",
+              "Die Straßenbahn fährt alle 6 Minuten und ist perfekt, um trocken zu bleiben.",
+              "Nutzen Sie die Echtzeit-Anzeige der Busse, um Wartezeiten im Freien zu minimieren.",
+              "Sitzplätze in der Tram sind bei Regen sehr begehrt; steigen Sie an Endhaltestellen ein.",
+              "Alle Busse und Bahnen in Tours sind klimatisiert und trocken."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a 'Fil Bleu' alkalmazáson keresztül, hogy elkerülje az automatákat az esőben.",
+              "A villamos 6 percenként jár, és tökéletes a szárazon maradáshoz.",
+              "Használja a buszok valós idejű kijelzőit, hogy minimalizálja a kinti várakozást.",
+              "A villamoson az ülőhelyek esőben nagyon kelendőek; szálljon fel a végállomásokon.",
+              "Tours-ban minden busz és villamos klimatizált és száraz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi prin aplicația 'Fil Bleu' pentru a evita automatele pe ploaie.",
+              "Tramvaiul circulă la fiecare 6 minute și este perfect pentru a rămâne uscat.",
+              "Folosiți afișajul în timp real al autobuzelor pentru a minimiza așteptarea afară.",
+              "Locurile pe scaune în tramvai sunt foarte căutate pe ploaie; urcați la capăt de linie.",
+              "Toate autobuzele și tramvaiele din Tours sunt climatizate și uscate."
+            ],
+            "en": [
+              "Buy a day pass via the 'Fil Bleu' app to avoid ticket machines in the rain.",
+              "The tram runs every 6 minutes and is perfect for staying dry.",
+              "Use the real-time bus displays to minimize outdoor waiting times.",
+              "Seats on the tram are very popular when it rains; board at end stations if possible.",
+              "All buses and trams in Tours are climate-controlled and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort mit den öffentlichen Verkehrsmitteln. Morgens zum Place Jean Jaurès, dann zur Kathedrale. Mittags bietet das Museum Wärme. Nachmittags besuchen wir die historische Place Plumereau, bevor der Bus uns zum Prieuré de Saint-Cosme bringt, während es draußen dunkler wird.",
+            "hu": "Téli kényelem tömegközlekedéssel. Reggel a Place Jean Jaurès-re, majd a katedrálishoz megyünk. Délben a múzeum nyújt meleget. Délután a történelmi Place Plumereau-t látogatjuk meg, mielőtt a busz a Prieuré de Saint-Cosme-hoz vinne, miközben odakint sötétedik.",
+            "ro": "Confort de iarnă cu transportul public. Dimineața în Place Jean Jaurès, apoi la catedrală. La prânz, muzeul oferă căldură. După-amiaza vizităm istorica Place Plumereau, înainte ca autobuzul să ne ducă la Prieuré de Saint-Cosme, în timp ce afară se întunecă.",
+            "en": "Winter comfort using public transit. Morning at Place Jean Jaurès, then to the Cathedral. Midday, the museum provides warmth. In the afternoon, visit historical Place Plumereau before the bus takes us to Prieuré de Saint-Cosme as it gets dark outside."
+          },
+          "stops": [
+            {
+              "name": "Place Jean Jaurès",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung an der Haltestelle 'Hôtel de Ville'.",
+                "hu": "Élvezze az ünnepi kivilágítást a 'Hôtel de Ville' megállónál.",
+                "ro": "Bucurați-vă de iluminatul festiv la stația 'Hôtel de Ville'.",
+                "en": "Enjoy the festive lights at the 'Hôtel de Ville' stop."
+              }
+            },
+            {
+              "name": "Cathédrale Saint-Gatien",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Tramstation 'Anatole France'.",
+                "hu": "Rövid séta az 'Anatole France' villamosmegállótól.",
+                "ro": "O scurtă plimbare de la stația de tramvai 'Anatole France'.",
+                "en": "A short walk from the 'Anatole France' tram station."
+              }
+            },
+            {
+              "name": "Musée du Compagnonnage",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und bietet Schutz vor der Winterkälte.",
+                "hu": "A múzeum jól fűtött, és védelmet nyújt a téli hideg ellen.",
+                "ro": "Muzeul este bine încălzit și oferă protecție împotriva frigului iernii.",
+                "en": "The museum is well-heated and provides shelter from the winter cold."
+              }
+            },
+            {
+              "name": "Place Plumereau",
+              "tip_5lang": {
+                "de": "Einige Terrassen haben im Winter Heizstrahler.",
+                "hu": "Néhány teraszon télen is van hősugárzó.",
+                "ro": "Unele terase au radiatoare iarna.",
+                "en": "Some terraces have outdoor heaters during the winter."
+              }
+            },
+            {
+              "name": "Prieuré de Saint-Cosme",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Busverbindung zurück ins Zentrum.",
+                "hu": "Ügyeljen az utolsó buszcsatlakozásra vissza a központba.",
+                "ro": "Atenție la ultima conexiune de autobuz înapoi spre centru.",
+                "en": "Watch out for the last bus connection back to the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahn ist im Winter oft angenehm beheizt.",
+              "Nutzen Sie die Tram, um weite Wege durch den kalten Wind zu vermeiden.",
+              "Prüfen Sie die Fahrpläne für die Feiertage (Weihnachten/Neujahr).",
+              "Die Haltestellen sind gut beleuchtet, was in der frühen Dunkelheit hilfreich ist.",
+              "Das 'Fil Bleu' Ticket gilt für Tram und Bus gleichermaßen."
+            ],
+            "hu": [
+              "A villamos télen gyakran kellemesen fűtött.",
+              "Használja a villamost, hogy elkerülje a hosszú utakat a hideg szélben.",
+              "Ellenőrizze az ünnepi menetrendet (Karácsony/Újév).",
+              "A megállók jól megvilágítottak, ami segít a korai sötétedésben.",
+              "A 'Fil Bleu' jegy a villamosra és a buszra is érvényes."
+            ],
+            "ro": [
+              "Tramvaiul este adesea încălzit plăcut iarna.",
+              "Folosiți tramvaiul pentru a evita drumurile lungi prin vântul rece.",
+              "Verificați orarul pentru sărbători (Crăciun/Anul Nou).",
+              "Stațiile sunt bine iluminate, ceea ce este util pe întunericul timpuriu.",
+              "Biletul 'Fil Bleu' este valabil atât pentru tramvai, cât și pentru autobuz."
+            ],
+            "en": [
+              "The tram is often pleasantly heated during winter.",
+              "Use the tram to avoid long walks through the cold wind.",
+              "Check the holiday schedules (Christmas/New Year).",
+              "The stops are well-lit, which is helpful in the early darkness.",
+              "The 'Fil Bleu' ticket is valid for both tram and bus."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.tours-tourisme.fr/en/",
-    "events": "https://www.tours-tourisme.fr/en/",
-    "city_card": "https://www.tours-tourisme.fr/en/",
-    "museum_tickets": "https://www.tours-tourisme.fr/en/",
-    "transit_official": "https://www.filbleu.fr/",
-    "language_tips": {
-      "de": "Tours hat den Ruf des reinsten Franzoesisch des Landes, und ist eine studentenfreundliche Loire-Stadt. Englisch klappt im Place Plumereau und in Hotels, an den Bistros der Rue Colbert gehoert ein 'bonjour' und 'merci' zum guten Ton.",
-      "hu": "Tours-ban allitólag az orszag legtisztabb franciát beszelik, egyetemi varos a Loire-n. Az angol megy a Place Plumereau-n es szallodakban, a Rue Colbert bisztroinal a 'bonjour' es 'merci' alapveto.",
-      "ro": "Tours e renumit ca avand cea mai curata franceza din tara, un oras studentesc pe Loara. Engleza merge in Place Plumereau si in hoteluri, dar la bistrourile de pe Rue Colbert 'bonjour' si 'merci' sunt standard.",
-      "en": "Tours is said to speak the country's purest French and is a student-friendly Loire city. English works at Place Plumereau and hotels; at the bistros on Rue Colbert a 'bonjour' and 'merci' are essential."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis September ist die Loire-Schloss-Saison, perfekte Basisstadt fuer Chenonceau, Villandry, Azay-le-Rideau. 18-25 Grad, lange Tage. Vermeiden Sie Wochenenden im August. Winter ist mild und ruhig.",
-      "hu": "Majus-szeptember a Loire-i kastely-szezon, tokeletes bazis Chenonceau, Villandry, Azay-le-Rideau lategatasahoz. 18-25 fok, hosszu napok. Kerud az augusztusi hetvegeket. Telen enyhe es csendes.",
-      "ro": "Mai-septembrie e sezonul castelelor de pe Loara, baza perfecta pentru Chenonceau, Villandry, Azay-le-Rideau. 18-25 grade, zile lungi. Evita weekendurile din august. Iarna e blanda si linistita.",
-      "en": "May-September is Loire chateaux season — the perfect base for Chenonceau, Villandry, Azay-le-Rideau. 18-25°C, long days. Avoid August weekends. Winter is mild and quiet."
-    },
-    "neighborhood_warnings": {
-      "de": "Vieux-Tours rund um Place Plumereau ist sicher tagsueber, abends sehr Studenten-laut und lebhaft. Sanitas und Le Sanitas (aussere Stadtteile) sind nicht touristisch. Bahnhof Tours-Centre abends ok aber wachsam.",
-      "hu": "Vieux-Tours a Place Plumereau koruli nappal biztonsagos, estere nagyon egyetemi-hangos. Sanitas es Le Sanitas (kulso kerulet) nem turista terulet. Tours-Centre palyaudvar estere ok, de eberseg.",
-      "ro": "Vieux-Tours, in jurul Place Plumereau, e sigur ziua, foarte galagios studenteste seara. Sanitas si Le Sanitas (cartiere periferice) nu sunt turistice. Gara Tours-Centre seara e ok, dar fii vigilent.",
-      "en": "Vieux-Tours around Place Plumereau is safe by day, very student-loud at night. Sanitas and Le Sanitas (outer districts) aren't tourist areas. Tours-Centre station is fine at night with care."
-    },
-    "parking_real_time": ""
   }
 }

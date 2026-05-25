@@ -343,6 +343,482 @@
           "The cathedral sometimes closes for a short break at midday.",
           "Wear comfortable shoes for the cobblestone streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das Herz von Albi, beginnend am lebhaften Place du Vigan und der Markthalle, um lokale Aromen zu schnuppern. Danach tauchen wir in die spirituelle Stille der Saint-Salvi-Stiftskirche ein.\n\nMittags steht das UNESCO-Welterbe im Fokus: Die massive Backsteinkathedrale Sainte-Cécile beeindruckt mit ihrer Festungsarchitektur und den prächtigen Innenmalereien.\n\nNachmittags widmen wir uns der Kunst im Toulouse-Lautrec-Museum, das im ehemaligen Bischofspalast untergebracht ist, und spazieren durch die perfekt getrimmten Barockgärten.\n\nAbends genießen wir den Sonnenuntergang auf der alten Brücke Pont Vieux, die einen unvergleichlichen Blick auf die Silhouette der roten Stadt bietet.",
+            "hu": "Reggel Albi szívét fedezzük fel, a nyüzsgő Place du Vigan térről indulva a vásárcsarnok felé, ahol megismerhetjük a helyi ízeket. Ezután a Saint-Salvi templom és kolostor csendjében pihenhetünk meg.\n\nDélben az UNESCO Világörökség központja vár: a monumentális vörös téglából épült Szent Cecília-székesegyház erőd jellegű külseje és lélegzetelállító belső festése lenyűgöz minden látogatót.\n\nDélután a művészeté a főszerep a Toulouse-Lautrec Múzeumban, amely a püspöki palotában kapott helyet, majd sétálunk egyet a palota geometrikus kertjeiben.\n\nEste a Pont Vieux régi hídon zárjuk a napot, ahonnan csodálatos kilátás nyílik a folyóra és a város vöröslő téglaházaira a lemenő nap fényében.",
+            "ro": "Dimineața explorăm inima orașului Albi, pornind de la vibranta Place du Vigan spre piața acoperită, unde simțim aromele locale. Apoi ne retragem în liniștea Colegiatei Saint-Salvi.\n\nLa prânz ne concentrăm pe situl UNESCO: Catedrala masivă din cărămidă Sainte-Cécile impresionează prin arhitectura sa de fortăreață și picturile interioare splendide.\n\nDupă-amiaza este dedicată artei la Muzeul Toulouse-Lautrec, găzduit în fostul palat episcopal, urmată de o plimbare prin grădinile baroce perfect întreținute.\n\nSeara ne bucurăm de apusul de soare pe vechiul pod Pont Vieux, care oferă o vedere inegalabilă asupra siluetei orașului roșu reflectat în râul Tarn.",
+            "en": "In the morning, we explore the heart of Albi, starting at the lively Place du Vigan and visiting the covered market to experience local flavors. Then, we dive into the spiritual silence of the Saint-Salvi collegiate church.\n\nAt midday, the UNESCO World Heritage site takes center stage: the massive brick Sainte-Cécile Cathedral impresses with its fortress-like architecture and magnificent interior paintings.\n\nIn the afternoon, we dedicate time to art at the Toulouse-Lautrec Museum, housed in the former episcopal palace, and stroll through the perfectly manicured Baroque gardens.\n\nIn the evening, we enjoy the sunset on the old bridge, Pont Vieux, which offers an incomparable view of the red city's silhouette over the Tarn river."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Vigan",
+                "hu": "Place du Vigan",
+                "ro": "Place du Vigan",
+                "en": "Place du Vigan"
+              },
+              "tip_5lang": {
+                "de": "Treffpunkt der Einheimischen.",
+                "hu": "A helyiek kedvenc találkozóhelye.",
+                "ro": "Locul de întâlnire al localnicilor.",
+                "en": "The main meeting point for locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Albi",
+                "hu": "Vásárcsarnok",
+                "ro": "Piața Acoperită",
+                "en": "Covered Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den rosa Knoblauch aus Lautrec.",
+                "hu": "Kóstolja meg a lautreci rózsaszín fokhagymát.",
+                "ro": "Gustați usturoiul roz de Lautrec.",
+                "en": "Try the famous pink garlic from Lautrec."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Salvi",
+                "hu": "Saint-Salvi kolostortemplom",
+                "ro": "Colegiata Saint-Salvi",
+                "en": "Saint-Salvi Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den ruhigen Kreuzgang.",
+                "hu": "Látogasson el a csendes kolostorkertbe.",
+                "ro": "Vizitați claustrul liniștit.",
+                "en": "Visit the peaceful cloister garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Sainte-Cécile",
+                "hu": "Szent Cecília-székesegyház",
+                "ro": "Catedrala Sainte-Cécile",
+                "en": "Sainte-Cécile Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Jüngste Gericht-Fresko.",
+                "hu": "Csodálja meg az Utolsó Ítélet freskót.",
+                "ro": "Admirați fresca Judecății de Apoi.",
+                "en": "Admire the Last Judgment fresco."
+              }
+            },
+            {
+              "name": {
+                "de": "Toulouse-Lautrec Museum",
+                "hu": "Toulouse-Lautrec Múzeum",
+                "ro": "Muzeul Toulouse-Lautrec",
+                "en": "Toulouse-Lautrec Museum"
+              },
+              "tip_5lang": {
+                "de": "Die weltweit größte Sammlung des Malers.",
+                "hu": "A festő világ legnagyobb gyűjteménye.",
+                "ro": "Cea mai mare colecție a pictorului.",
+                "en": "The world's largest collection of the painter."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten des Berbie-Palastes",
+                "hu": "Berbie-palota kertjei",
+                "ro": "Grădinile Palatului Berbie",
+                "en": "Gardens of the Berbie Palace"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick auf den Tarn.",
+                "hu": "Panorámás kilátás a Tarn folyóra.",
+                "ro": "Vedere panoramică asupra râului Tarn.",
+                "en": "Panoramic view over the Tarn river."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Vieux",
+                "hu": "Pont Vieux (Régi híd)",
+                "ro": "Pont Vieux",
+                "en": "Pont Vieux"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke für Fotos.",
+                "hu": "Menjen át a hídon a legjobb fotókért.",
+                "ro": "Traversați podul pentru fotografii.",
+                "en": "Cross the bridge for the best photos."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Le Lautrec",
+                "tip": "Probieren Sie das Cassoulet und die Schokoladenspezialitäten."
+              },
+              {
+                "name": "L'Epicurien",
+                "tip": "Moderne Küche mit lokalen Produkten aus der Region Okzitanien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Lautrec",
+                "tip": "Kóstolja meg a cassoulet-t és a különleges csokoládékat."
+              },
+              {
+                "name": "L'Epicurien",
+                "tip": "Modern konyha okcitániai helyi alapanyagokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Lautrec",
+                "tip": "Încercați cassoulet și specialitățile de ciocolată."
+              },
+              {
+                "name": "L'Epicurien",
+                "tip": "Bucătărie modernă cu produse locale din regiunea Occitania."
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Lautrec",
+                "tip": "Try the cassoulet and the artisanal chocolates."
+              },
+              {
+                "name": "L'Epicurien",
+                "tip": "Modern cuisine using local products from the Occitanie region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardins de la Berbie",
+                "tip": "Ruhiger Rückzugsort mit Flussblick.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Ufer des Tarn",
+                "tip": "Spaziergang unterhalb der alten Brücke.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Berbie palota kertje",
+                "tip": "Csendes menedék kilátással a folyóra.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Tarn folyó partja",
+                "tip": "Séta a régi híd alatt a vízparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Berbie",
+                "tip": "Refugiu liniștit cu vedere la râu.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Malul râului Tarn",
+                "tip": "Plimbare pe sub podul vechi.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Berbie Gardens",
+                "tip": "Quiet retreat with river views.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Banks of the Tarn",
+                "tip": "A walk below the old bridge by the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marché Couvert",
+                "tip": "Regionale Delikatessen und Käse."
+              },
+              {
+                "name": "Rue Mariès",
+                "tip": "Hübsche Boutiquen in der Fußgängerzone."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vásárcsarnok",
+                "tip": "Regionális finomságok és sajtok."
+              },
+              {
+                "name": "Rue Mariès",
+                "tip": "Hangulatos butikok a sétálóutcában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Acoperită",
+                "tip": "Delicatese regionale și brânzeturi."
+              },
+              {
+                "name": "Rue Mariès",
+                "tip": "Boutique-uri cochete în zona pietonală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Covered Market",
+                "tip": "Regional delicacies and local cheeses."
+              },
+              {
+                "name": "Rue Mariès",
+                "tip": "Charming boutiques in the pedestrian area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist fast vollständig Fußgängerzone.",
+              "Buchen Sie das Museumsticket im Voraus.",
+              "Die Kathedrale ist mittags oft für eine kurze Pause geschlossen.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Az óváros szinte teljesen gyalogos övezet.",
+              "Érdemes előre lefoglalni a múzeumi jegyeket.",
+              "A székesegyház délben néha rövid időre bezár.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Centrul vechi este aproape în întregime pietonal.",
+              "Rezervați biletele la muzeu în avans.",
+              "Catedrala se închide uneori pentru o scurtă pauză la prânz.",
+              "Purtați încălțăminte comodă pentru străzile cu piatră cubică."
+            ],
+            "en": [
+              "The old town is almost entirely pedestrianized.",
+              "It is best to book museum tickets in advance.",
+              "The cathedral sometimes closes for a short break at midday.",
+              "Wear comfortable shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Place du Vigan, wo die Cafés unter Markisen Schutz bieten. Der überdachte Markt ist der ideale Ort, um dem Regen zu entfliehen und lokale Köstlichkeiten zu probieren.\n\nAm Mittag bietet die massive Sainte-Cécile-Kathedrale einen beeindruckenden und trockenen Zufluchtsort. Die Backsteinarchitektur leuchtet auch bei grauem Himmel in warmen Rottönen.\n\nDer Nachmittag gehört dem Toulouse-Lautrec-Museum im Palais de la Berbie. Die weitläufigen Galerien halten Sie für Stunden trocken.\n\nBeenden Sie den Tag mit einem kurzen, erfrischenden Spaziergang zur Pont Vieux, um den Nebel über dem Tarn zu beobachten, bevor Sie in einer gemütlichen Weinstube einkehren.",
+            "hu": "Kezdje a napot a Place du Vigan terén, ahol a kávézók ponyvái alatt figyelheti az esőt. A fedett piac tökéletes menedék, ahol szárazon kóstolhatja meg a helyi finomságokat.\n\nDélben a monumentális Szent Cecília-székesegyház nyújt fenséges és védett helyszínt. A vörös téglafalak még borús időben is meleg fényt árasztanak.\n\nA délutánt töltse a Toulouse-Lautrec Múzeumban a Berbie-palotában. A kiterjedt beltéri kiállítások órákon át tartó programot kínálnak.\n\nA napot zárja egy rövid sétával a Pont Vieux hídon, megcsodálva a Tarn folyó feletti párát, majd keressen egy hangulatos borozót az óvárosban.",
+            "ro": "Începeți ziua în Place du Vigan, unde cafenelele oferă adăpost sub copertine. Piața acoperită este locul ideal pentru a scăpa de ploaie și a degusta produse locale.\n\nLa prânz, masiva Catedrală Sainte-Cécile oferă un refugiu impresionant și uscat. Arhitectura din cărămidă strălucește în tonuri calde chiar și sub cerul gri.\n\nDupă-amiaza este rezervată Muzeului Toulouse-Lautrec din Palatul Berbie. Galeriile vaste vă vor menține la adăpost timp de câteva ore.\n\nÎncheiați ziua cu o scurtă plimbare pe Pont Vieux pentru a vedea ceața deasupra râului Tarn, înainte de a vă retrage într-un bar de vinuri primitor.",
+            "en": "Start your day at Place du Vigan, where cafe awnings provide shelter. The Covered Market is the perfect escape to enjoy local delicacies while staying dry.\n\nAt midday, the massive Sainte-Cécile Cathedral offers a grand and dry sanctuary. The red brick architecture glows with warmth even under grey skies.\n\nThe afternoon is best spent in the Toulouse-Lautrec Museum inside the Berbie Palace. Its extensive indoor galleries will keep you occupied for hours.\n\nEnd the day with a brisk walk to Pont Vieux to see the mist rising over the Tarn river, then find a cozy wine bar in the historic center."
+          },
+          "stops": [
+            {
+              "name": "Place du Vigan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Markisen der Cafés am nördlichen Rand.",
+                "hu": "Használja az északi oldalon lévő kávézók árkádjait menedékként.",
+                "ro": "Folosiți arcadele și copertinele cafenelelor din partea de nord.",
+                "en": "Use the cafe awnings and arcades on the northern side for shelter."
+              }
+            },
+            {
+              "name": "Covered Market",
+              "tip_5lang": {
+                "de": "Der ultimative Ort für eine trockene Gourmet-Pause.",
+                "hu": "A legjobb hely egy száraz gasztronómiai pihenőhöz.",
+                "ro": "Locul suprem pentru o pauză gastronomică la adăpost.",
+                "en": "The ultimate spot for a dry and delicious gourmet break."
+              }
+            },
+            {
+              "name": "Saint-Salvi Collegiate Church",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet auch bei leichtem Regen einen geschützten Rundgang.",
+                "hu": "A kolostorkeringő enyhe esőben is védett sétát tesz lehetővé.",
+                "ro": "Claustrul oferă un parcurs protejat chiar și pe ploaie ușoară.",
+                "en": "The cloister provides a sheltered walkway even during light rain."
+              }
+            },
+            {
+              "name": "Sainte-Cécile Cathedral",
+              "tip_5lang": {
+                "de": "Ein riesiger Innenraum; ideal, um einen starken Schauer abzuwarten.",
+                "hu": "Hatalmas belső tér, ideális egy nagyobb zápor kivárására.",
+                "ro": "Un spațiu interior imens; ideal pentru a aștepta trecerea unei averse.",
+                "en": "An enormous interior space; ideal for waiting out a heavy downpour."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da es komplett überdacht ist.",
+                "hu": "Tervezzen ide több időt, mivel teljesen fedett és fűtött.",
+                "ro": "Planificați mai mult timp aici, fiind complet acoperit.",
+                "en": "Plan more time here as it is entirely indoors and sheltered."
+              }
+            },
+            {
+              "name": "Gardens of the Berbie Palace",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; genießen Sie die Aussicht von den Mauern.",
+                "hu": "Az utak csúszósak lehetnek, csodálja a kilátást a falakról.",
+                "ro": "Potecile pot fi alunecoase; admirați vederea de pe ziduri.",
+                "en": "Paths can be slippery; enjoy the view from the ramparts instead."
+              }
+            },
+            {
+              "name": "Pont Vieux",
+              "tip_5lang": {
+                "de": "Die Backsteine werden bei Nässe dunkelrot – ein tolles Fotomotiv.",
+                "hu": "A téglák vizesen mélyvörösek lesznek – remek fotótéma.",
+                "ro": "Cărămizile devin roșu închis când sunt ude – motiv foto excelent.",
+                "en": "The bricks turn deep red when wet – a great photo opportunity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Albis Gassen haben viele kleine Nischen und Arkaden zum Unterstellen.",
+              "Die Kathedrale bietet fast eine Stunde Besichtigungszeit im Trockenen.",
+              "Regenschirme können in den engen Gassen der Altstadt unhandlich sein; eine Regenjacke ist besser.",
+              "Der überdachte Markt schließt gegen 13:00 Uhr, nutzen Sie ihn früh.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie den Wochentag."
+            ],
+            "hu": [
+              "Albi sikátoraiban sok kis beugró és árkád található eső esetére.",
+              "A székesegyház belső tere közel egyórás száraz programot kínál.",
+              "Az óváros szűk utcáin az esernyő nehézkes lehet, a széldzseki praktikusabb.",
+              "A fedett piac 13:00 körül zár, érdemes korán érkezni.",
+              "Ellenőrizze a múzeumok nyitvatartását, hétfőnként gyakran zárva vannak."
+            ],
+            "ro": [
+              "Străduțele din Albi au multe nișe și arcade unde vă puteți adăposti.",
+              "Catedrala oferă aproape o oră de vizitare la adăpost de ploaie.",
+              "Umbrelele pot fi incomode pe străzile înguste; o pelerină e mai bună.",
+              "Piața acoperită se închide în jur de ora 13:00, vizitați-o devreme.",
+              "Muzeele sunt adesea închise lunea; verificați programul înainte."
+            ],
+            "en": [
+              "Albi's alleys have many small niches and arcades for quick shelter.",
+              "The cathedral offers nearly an hour of indoor sightseeing time.",
+              "Umbrellas can be cumbersome in the narrow old streets; a raincoat is better.",
+              "The Covered Market closes around 1:00 PM, so visit early.",
+              "Museums are often closed on Mondays; double-check the schedule."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft auf der Place du Vigan. Die Stadt wirkt im Winterlicht besonders scharfkantig und klar.\n\nSuchen Sie mittags die Wärme der Kathedrale Sainte-Cécile, deren dicke Mauern eine stabile Temperatur halten. Ein heißes Getränk in den umliegenden Cafés wärmt Sie danach wieder auf.\n\nAm Nachmittag bietet das Toulouse-Lautrec-Museum eine angenehm temperierte Umgebung, um Weltklasse-Kunst zu bewundern.\n\nBeobachten Sie den frühen Sonnenuntergang gegen 17:15 Uhr von der Pont Vieux aus. Die Beleuchtung der Altstadt spiegelt sich im dunklen Wasser des Tarn und schafft eine magische Atmosphäre.",
+            "hu": "Élvezze a friss téli levegőt a Place du Vigan téren. A város a téli fényekben különösen élesnek és tisztának tűnik.\n\nDélben keressen menedéket a Szent Cecília-székesegyházban, melynek vastag falai tartják a hőt. Egy forró ital a környékbeli kávézókban visszahozza az életkedvét.\n\nA délutánt töltse a Toulouse-Lautrec Múzeumban, ahol kellemes hőmérsékletben csodálhatja meg a világhírű műalkotásokat.\n\nCsodálja meg a korai naplementét 17:15 körül a Pont Vieux hídról. Az óváros fényei megcsillannak a Tarn sötét vizében, varázslatos hangulatot teremtve.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Place du Vigan. Orașul pare deosebit de clar în lumina rece a iernii.\n\nLa prânz, căutați căldura Catedralei Sainte-Cécile, ale cărei ziduri groase mențin o temperatură stabilă. O băutură caldă la cafenelele din jur vă va încălzi ulterior.\n\nDupă-amiaza, Muzeul Toulouse-Lautrec oferă un mediu temperat plăcut pentru a admira artă de clasă mondială.\n\nUrmăriți apusul timpuriu, în jur de ora 17:15, de pe Pont Vieux. Luminile orașului vechi se reflectă în apele întunecate ale râului Tarn, creând o atmosferă magică.",
+            "en": "Experience the crisp winter air at Place du Vigan. The city looks particularly sharp and clear in the winter light.\n\nSeek the warmth of Sainte-Cécile Cathedral at midday, where the thick walls maintain a stable temperature. A hot drink in the nearby cafes will warm you up afterwards.\n\nIn the afternoon, the Toulouse-Lautrec Museum provides a pleasantly heated environment to admire world-class art.\n\nWatch the early sunset around 5:15 PM from Pont Vieux. The lights of the old town reflecting in the dark waters of the Tarn create a truly magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Place du Vigan",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in einem der beheizten Außenbereiche.",
+                "hu": "Élvezzen egy forró kávét az egyik fűtött teraszos kávézóban.",
+                "ro": "Savurați o cafea fierbinte la una dintre terasele încălzite.",
+                "en": "Enjoy a hot coffee at one of the cafes with heated outdoor seating."
+              }
+            },
+            {
+              "name": "Covered Market",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte lokale Winterspezialitäten wie Albigenser Pasteten.",
+                "hu": "Kóstolja meg a kiadós helyi téli különlegességeket, mint az albi pástétom.",
+                "ro": "Gustați specialități locale de iarnă, cum ar fi plăcintele din Albi.",
+                "en": "Try hearty local winter specialties like Albigensian pasties."
+              }
+            },
+            {
+              "name": "Saint-Salvi Collegiate Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Kreuzgang für ein ruhiges, winterliches Fotomotiv.",
+                "hu": "A kolostorkeringő csendes, télies fotótémát kínál.",
+                "ro": "Vizitați claustrul pentru un cadru foto de iarnă liniștit.",
+                "en": "Visit the cloister for a quiet, wintery photo opportunity."
+              }
+            },
+            {
+              "name": "Sainte-Cécile Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist oft wärmer als die Außenluft; ideal zum Aufwärmen.",
+                "hu": "A székesegyház gyakran melegebb a kinti levegőnél, jó hely melegedni.",
+                "ro": "Catedrala este adesea mai caldă decât aerul de afară.",
+                "en": "The cathedral is often warmer than the outside air; great for warming up."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Eine Garderobe ist vorhanden, damit Sie die Kunst ohne schweren Mantel genießen können.",
+                "hu": "Van ruhatár, így nehéz kabát nélkül élvezheti a kiállítást.",
+                "ro": "Există garderobă pentru a vizita muzeul fără haina groasă.",
+                "en": "A cloakroom is available, so you can enjoy the art without a heavy coat."
+              }
+            },
+            {
+              "name": "Gardens of the Berbie Palace",
+              "tip_5lang": {
+                "de": "Die geometrischen Hecken behalten ihre Form auch ohne Blätter.",
+                "hu": "A mértani sövények levelek nélkül is megtartják szép formájukat.",
+                "ro": "Gardurile vii geometrice își păstrează forma chiar și iarna.",
+                "en": "The geometric hedges maintain their striking shape even in winter."
+              }
+            },
+            {
+              "name": "Pont Vieux",
+              "tip_5lang": {
+                "de": "Seien Sie wegen Reifglätte auf den Pflastersteinen vorsichtig.",
+                "hu": "Legyen óvatos a macskaköveken az esetleges zúzmara miatt.",
+                "ro": "Atenție la poleiul de pe pavaj pe timpul serii.",
+                "en": "Be careful of frost on the cobblestones during the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten; die Kathedrale ist kühl, aber die Museen sind beheizt.",
+              "Die Sonne geht früh unter (ca. 17:15 Uhr), planen Sie Außenfotos davor.",
+              "Albi ist im Winter weniger überlaufen, genießen Sie die Stille.",
+              "Einige Bootstouren auf dem Tarn finden im Winter nicht statt.",
+              "Warme Schuhe sind für die Kopfsteinpflastergassen der Altstadt wichtig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a dóm hűvös lehet, de a múzeumok jól fűtöttek.",
+              "A nap korán nyugszik (17:15 körül), a fotókat tervezze korábbra.",
+              "Albi télen kevésbé zsúfolt, élvezze a nyugodt városnézést.",
+              "A Tarn folyón télen szünetel a hajózás.",
+              "Meleg cipő elengedhetetlen az óváros macskaköves utcáin."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; catedrala e răcoroasă, dar muzeele sunt încălzite.",
+              "Soarele apune devreme (cca. 17:15), faceți pozele de exterior înainte.",
+              "Albi este mai puțin aglomerat iarna, bucurați-vă de liniște.",
+              "Unele plimbări cu barca pe Tarn nu sunt disponibile iarna.",
+              "Încălțămintea călduroasă este esențială pentru străzile cu pavaj."
+            ],
+            "en": [
+              "Wear layers; the cathedral can be chilly, but museums are well-heated.",
+              "The sun sets early (around 5:15 PM), so plan outdoor photos earlier.",
+              "Albi is much less crowded in winter; enjoy the peaceful atmosphere.",
+              "Tarn river boat tours are generally not operating in winter.",
+              "Warm shoes are vital for the cobblestone streets of the old town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -601,6 +1077,394 @@
           "Cycling is restricted in some parts of the historic old town.",
           "Pont Vieux has narrow walkways, please cycle carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittags radeln wir über den Tarn in das ruhige Madeleine-Viertel und genießen den Blick auf die Kathedrale. Danach geht es zum weitläufigen Pratgraussals-Park.\n\nMittags entspannen wir am Seeufer des Parks, bevor wir den Caussels-Bach entlang der 'Échappée Verte' folgen.\n\nNachmittags erkunden wir den botanischen Reichtum des Rochegude-Parks und beobachten die Pfauen im Schatten alter Bäume.\n\nAbends kehren wir zum Vigan-Platz zurück, um den Tag bei einem Getränk ausklingen zu lassen.",
+            "hu": "Délelőtt a Tarn folyón átkelve a csendes Madeleine negyedbe tekerünk, ahonnan remek rálátás nyílik a katedrálisra, majd a Pratgraussals park felé vesszük az irányt.\n\nDélben a park tavánál pihenünk, majd az Échappée Verte zöld útján haladunk a Caussels patak mentén.\n\nDélután a Rochegude park botanikai ritkaságait fedezzük fel, pávákat figyelve az öreg fák árnyékában.\n\nEste a Vigan térre érünk vissza, hogy egy frissítővel zárjuk a kerékpáros felfedezést.",
+            "ro": "Dimineața pedalăm peste râul Tarn în cartierul liniștit Madeleine pentru a admira catedrala de la distanță, apoi ne îndreptăm spre parcul Pratgraussals.\n\nLa prânz ne relaxăm lângă lacul din parc, înainte de a urma pârâul Caussels pe traseul 'Échappée Verte'.\n\nDupă-amiaza explorăm bogăția botanică a parcului Rochegude, observând păunii la umbra arborilor seculari.\n\nSeara revenim în Piața Vigan pentru a încheia ziua cu o băutură răcoritoare în centrul orașului.",
+            "en": "In the morning, we cycle across the Tarn to the quiet Madeleine district for a great view of the cathedral, then head towards Pratgraussals Park.\n\nAt midday, we relax by the park's lake before following the Caussels stream along the 'Échappée Verte' green path.\n\nIn the afternoon, we explore the botanical riches of Rochegude Park, spotting peacocks under the shade of ancient trees.\n\nIn the evening, we return to Place du Vigan to finish our cycling tour with a refreshing drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albi Zentrum",
+                "hu": "Albi központ",
+                "ro": "Centrul Albi",
+                "en": "Albi Center"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt bei der Kathedrale.",
+                "hu": "Indulás a székesegyháztól.",
+                "ro": "Punct de plecare de la catedrală.",
+                "en": "Starting point at the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Madeleine Viertel",
+                "hu": "Madeleine negyed",
+                "ro": "Cartierul Madeleine",
+                "en": "Madeleine District"
+              },
+              "tip_5lang": {
+                "de": "Blick auf Albi von der anderen Tarn-Seite.",
+                "hu": "Kilátás Albira a Tarn túlsó partjáról.",
+                "ro": "Vedere spre Albi de pe cealaltă parte a râului.",
+                "en": "View of Albi from across the Tarn river."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Pratgraussals",
+                "hu": "Pratgraussals park",
+                "ro": "Parcul Pratgraussals",
+                "en": "Pratgraussals Park"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause im Grünen.",
+                "hu": "Tökéletes hely egy pihenőhöz a zöldben.",
+                "ro": "Loc perfect pentru o pauză în natură.",
+                "en": "Perfect spot for a break in the greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Échappée Verte",
+                "hu": "Zöld Út (Échappée Verte)",
+                "ro": "Échappée Verte",
+                "en": "Échappée Verte"
+              },
+              "tip_5lang": {
+                "de": "Naturnaher Radweg entlang des Caussels.",
+                "hu": "Természetközeli kerékpárút a Caussels mentén.",
+                "ro": "Traseu de biciclete prin natură de-a lungul pârâului.",
+                "en": "Nature-filled bike path along the stream."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Rochegude",
+                "hu": "Rochegude park",
+                "ro": "Parcul Rochegude",
+                "en": "Rochegude Park"
+              },
+              "tip_5lang": {
+                "de": "Botanischer Garten mit Pfauen.",
+                "hu": "Botanikus kert pávákkal.",
+                "ro": "Grădină botanică cu păuni.",
+                "en": "Botanical garden with peacocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Vigan",
+                "hu": "Place du Vigan",
+                "ro": "Place du Vigan",
+                "en": "Place du Vigan"
+              },
+              "tip_5lang": {
+                "de": "Ende der Tour im Stadtzentrum.",
+                "hu": "A túra vége a belvárosban.",
+                "ro": "Finalul turului în centrul orașului.",
+                "en": "End of the tour in the city center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Part des Anges",
+                "tip": "Ideal für eine leichte Mittagspause."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Part des Anges",
+                "tip": "Ideális hely egy könnyű ebédhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Part des Anges",
+                "tip": "Ideal pentru o pauză de prânz ușoară."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Part des Anges",
+                "tip": "Ideal for a light lunch break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pratgraussals",
+                "tip": "Große Grünflächen am Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pratgraussals",
+                "tip": "Tágas zöldterületek a vízparton.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pratgraussals",
+                "tip": "Spații verzi vaste lângă apă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pratgraussals",
+                "tip": "Large green spaces by the water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Velo Albi",
+                "tip": "Lokaler Fahrradladen für Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Velo Albi",
+                "tip": "Helyi kerékpárbolt kiegészítőkhöz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Velo Albi",
+                "tip": "Magazin local de biciclete pentru accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Velo Albi",
+                "tip": "Local bike shop for accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die markierten Wege der 'Échappée Verte'.",
+              "In der Altstadt ist das Radfahren nur eingeschränkt erlaubt.",
+              "Die Brücke Pont Vieux hat schmale Gehwege, bitte vorsichtig fahren."
+            ],
+            "hu": [
+              "Használja az 'Échappée Verte' kijelölt útvonalait.",
+              "Az óvárosban a kerékpározás korlátozottan megengedett.",
+              "A Pont Vieux hídon szűkek a járdák, közlekedjen óvatosan."
+            ],
+            "ro": [
+              "Folosiți traseele marcate ale 'Échappée Verte'.",
+              "În centrul vechi mersul pe bicicletă este permis cu restricții.",
+              "Podul Pont Vieux are trotuare înguste, circulați cu atenție."
+            ],
+            "en": [
+              "Use the marked paths of the 'Échappée Verte'.",
+              "Cycling is restricted in some parts of the historic old town.",
+              "Pont Vieux has narrow walkways, please cycle carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Zentrum und nutzen Sie Radwege mit gutem Belag. Die Kathedrale bietet einen langen Stopp, während der Regen draußen prasselt.\n\nFahren Sie vorsichtig über die Brücke in das Madeleine-Viertel. Das Kopfsteinpflaster kann rutschig sein.\n\nDer Pratgraussals-Park bietet weite Flächen, wirkt aber bei Regen melancholisch. Die Échappée Verte führt durch bewaldete Abschnitte, die bei leichtem Regen natürlichen Schutz bieten.\n\nBeenden Sie die Tour an der Place du Vigan und nutzen Sie die Fahrradständer in der Nähe der überdachten Passagen.",
+            "hu": "Kezdje a központban, használja a jó minőségű kerékpárutakat. A székesegyház hosszú megállót kínál, amíg kint esik.\n\nÓvatosan tekerjen át a hídon a Madeleine negyedbe, a macskakő csúszós lehet.\n\nA Pratgraussals park tágas, de esőben borongós hangulatú. Az Échappée Verte útvonal erdős szakaszai természetes védelmet nyújtanak az enyhe eső elől.\n\nA túrát a Place du Vigan téren fejezze be, használja a fedett átjárók közeli tárolókat.",
+            "ro": "Începeți în centru și folosiți pistele de biciclete cu asfalt bun. Catedrala oferă o oprire lungă în timp ce ploaia cade afară.\n\nPedalați cu grijă peste pod spre cartierul Madeleine; pavajul poate fi alunecos.\n\nParcul Pratgraussals este vast, dar pare melancolic pe ploaie. Échappée Verte are secțiuni împădurite care oferă protecție naturală.\n\nÎncheiați turul în Place du Vigan și folosiți rastelele de biciclete de lângă pasajele acoperite.",
+            "en": "Start in the center and use well-paved bike paths. The cathedral provides a lengthy stop while the rain pours outside.\n\nRide carefully across the bridge to the Madeleine district; the cobblestones can be slippery when wet.\n\nPratgraussals Park is spacious but can feel melancholic in the rain. The Échappée Verte route features wooded sections that offer some natural cover.\n\nFinish your tour at Place du Vigan and look for bike racks near the sheltered passages."
+          },
+          "stops": [
+            {
+              "name": "Albi Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt an der Kathedrale.",
+                "hu": "Keressen parkolót közvetlenül a székesegyháznál.",
+                "ro": "Căutați un loc de parcare chiar lângă catedrală.",
+                "en": "Look for bike parking directly by the cathedral."
+              }
+            },
+            {
+              "name": "Madeleine District",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő vizesen nagyon csúszik.",
+                "ro": "Atenție la pavajul ud, este alunecos.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Pratgraussals Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Maradjon az aszfaltozott főutakon.",
+                "ro": "Rămâneți pe aleile principale asfaltate.",
+                "en": "Stick to the paved main paths."
+              }
+            },
+            {
+              "name": "Échappée Verte",
+              "tip_5lang": {
+                "de": "Bäume bieten Schutz, aber Vorsicht vor nassen Blättern.",
+                "hu": "A fák védenek, de vigyázzon a vizes levelekre.",
+                "ro": "Copacii oferă protecție, dar atenție la frunzele ude.",
+                "en": "Trees provide some shelter, but watch out for wet leaves."
+              }
+            },
+            {
+              "name": "Rochegude Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; viele Bänke sind nass.",
+                "hu": "Rövid megálló, a padok nagy része vizes ilyenkor.",
+                "ro": "Oprire scurtă; multe bănci sunt ude.",
+                "en": "Short stop; most benches will be wet."
+              }
+            },
+            {
+              "name": "Place du Vigan",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad ab oder parken Sie im Trockenen.",
+                "hu": "Adja le a bérelt bringát vagy parkoljon fedett helyen.",
+                "ro": "Lăsați bicicleta sau parcați-o la adăpost.",
+                "en": "Return your rental bike or park it in a sheltered area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Metallschächten oder Linien.",
+              "Ein Poncho ist beim Radfahren effektiver als ein Regenschirm.",
+              "Nutzen Sie die 'Echappée Verte' nur bei leichtem Regen; bei Sturm meiden.",
+              "Die roten Backsteine von Albi färben bei starkem Regen kaum ab.",
+              "Prüfen Sie, ob Ihre Bremsen bei Nässe gut greifen."
+            ],
+            "hu": [
+              "Kerülje a fékezést a vizes csatornafedeleken és felfestéseken.",
+              "A kerékpáros esőponcsó sokkal hatékonyabb az esernyőnél.",
+              "Az 'Echappée Verte' utat csak enyhe esőben használja.",
+              "Az albi vörös téglák nem fognak be, ha vizesek lesznek.",
+              "Ellenőrizze, hogy a fékek jól fognak-e a vizes úton."
+            ],
+            "ro": [
+              "Evitați frânarea pe gurile de canal sau marcajele rutiere ude.",
+              "O pelerină de bicicletă este mult mai eficientă decât o umbrelă.",
+              "Folosiți 'Echappée Verte' doar pe ploaie ușoară.",
+              "Cărămizile roșii din Albi nu pătează hainele când sunt ude.",
+              "Verificați dacă frânele funcționează corect pe carosabil ud."
+            ],
+            "en": [
+              "Avoid braking on wet manhole covers or road markings.",
+              "A cycling poncho is much more effective than an umbrella while riding.",
+              "Only use the 'Echappée Verte' path during light rain.",
+              "Albi's red bricks won't stain your clothes when wet.",
+              "Check that your brakes are responsive in wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens, wenn die Luft am frischesten ist. Die Kathedrale bietet eine perfekte Pause, um die kalten Hände aufzuwärmen.\n\nÜberqueren Sie den Tarn zur Madeleine; die Aussicht auf die 'Bischofstadt' ist im Winterlicht besonders fotogen.\n\nFahren Sie zum Pratgraussals-Park, um die Ruhe zu genießen, bevor Sie den bewaldeten Weg der Échappée Verte nehmen. Die tiefstehende Sonne glitzert zwischen den Stämmen.\n\nNach einem Stopp im Rochegude-Park kehren Sie zur Place du Vigan zurück, wo Sie sich in einem der Cafés mit heißer Schokolade belohnen können.",
+            "hu": "Induljon reggel, amikor a legfrissebb a levegő. A székesegyház tökéletes megálló a kihűlt kezek felmelegítésére.\n\nTekerjen át a Tarnon a Madeleine negyedbe; a Püspöki Város látványa a téli fényben különösen fotogén.\n\nLátogasson el a Pratgraussals parkba a csendért, majd kövesse az Échappée Verte erdei útvonalát. Az alacsonyan járó nap megcsillan a törzsek között.\n\nA Rochegude parki pihenő után térjen vissza a Place du Vigan térre egy forró csokira.",
+            "ro": "Începeți dimineața, când aerul este cel mai proaspăt. Catedrala este locul perfect pentru a vă încălzi mâinile.\n\nTraversați râul spre Madeleine; vederea spre Orașul Episcopal este foarte fotogenică în lumina iernii.\n\nPedalați spre parcul Pratgraussals pentru liniște, apoi urmați traseul împădurit Échappée Verte. Soarele jos strălucește printre copaci.\n\nDupă o oprire în parcul Rochegude, reveniți în Place du Vigan pentru o ciocolată caldă binemeritată.",
+            "en": "Start in the morning when the air is crispest. The cathedral offers a perfect opportunity to warm up your cold hands.\n\nCross the Tarn to the Madeleine district; the view of the Episcopal City is particularly photogenic in winter light.\n\nRide to Pratgraussals Park for some peace and quiet, then follow the wooded Échappée Verte route. The low sun glitters through the trees.\n\nAfter a stop at Rochegude Park, head back to Place du Vigan to reward yourself with a hot chocolate at one of the cafes."
+          },
+          "stops": [
+            {
+              "name": "Albi Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Stopp in der Kathedrale zum Aufwärmen.",
+                "hu": "Használja ki a hosszú katedrális-látogatást a melegedésre.",
+                "ro": "Profitați de vizita la catedrală pentru a vă încălzi.",
+                "en": "Use the long cathedral visit to get warm."
+              }
+            },
+            {
+              "name": "Madeleine District",
+              "tip_5lang": {
+                "de": "Die Brückenquerung kann sehr windig und kalt sein.",
+                "hu": "A hídon való átkeléskor erős, hideg szélre számítson.",
+                "ro": "Traversarea podului poate fi foarte vântoasă și rece.",
+                "en": "Crossing the bridge can be very windy and cold."
+              }
+            },
+            {
+              "name": "Pratgraussals Park",
+              "tip_5lang": {
+                "de": "Sehr ruhig im Winter; genießen Sie die Weite.",
+                "hu": "Télen nagyon csendes, élvezze a tágas teret.",
+                "ro": "Foarte liniștit iarna; bucurați-vă de spațiu.",
+                "en": "Very quiet in winter; enjoy the wide-open space."
+              }
+            },
+            {
+              "name": "Échappée Verte",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume.",
+                "hu": "Ügyeljen a jeges foltokra a fák árnyékában.",
+                "ro": "Atenție la porțiunile înghețate de la umbra copacilor.",
+                "en": "Watch out for icy patches in the shade of the trees."
+              }
+            },
+            {
+              "name": "Rochegude Park",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber schöner Stopp im Wintergarten-Ambiente.",
+                "hu": "Rövid, de szép megálló a télikert jellegű környezetben.",
+                "ro": "O oprire scurtă dar frumoasă în ambianța de iarnă.",
+                "en": "A short but lovely stop with a winter-garden feel."
+              }
+            },
+            {
+              "name": "Place du Vigan",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor dem Einbruch der Dunkelheit.",
+                "hu": "Fejezze be a túrát még sötétedés előtt.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului.",
+                "en": "Finish your ride before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind bei Fahrten über die Brücken unerlässlich.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr für 17:00 Uhr.",
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+              "Die Wege am Tarn-Ufer können morgens gefroren sein.",
+              "Tragen Sie eine winddichte Jacke für die Fahrten durch offenes Gelände."
+            ],
+            "hu": [
+              "A hidakon való átkeléshez elengedhetetlen a kesztyű.",
+              "A nappalok rövidek, tervezze a visszaérkezést 17:00 órára.",
+              "Ellenőrizze a keréknyomást, a hidegben lecsökkenhet.",
+              "A Tarn-parti utak reggelente jegesek lehetnek.",
+              "Viseljen szélálló kabátot a nyílt terepen való tekeréshez."
+            ],
+            "ro": [
+              "Mănușile sunt indispensabile pentru plimbările peste poduri.",
+              "Zilele sunt scurte; planificați revenirea pentru ora 17:00.",
+              "Verificați presiunea în pneuri; aerul rece o scade.",
+              "Potecile de pe malul râului Tarn pot fi înghețate dimineața.",
+              "Purtați o jachetă rezistentă la vânt pentru zonele deschise."
+            ],
+            "en": [
+              "Gloves are essential for riding across the bridges.",
+              "Days are short; plan to be back by 5:00 PM.",
+              "Check tire pressure; cold air can cause it to drop.",
+              "Paths along the Tarn river bank can be icy in the mornings.",
+              "Wear a windproof jacket for riding through open areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -836,6 +1700,362 @@
           "The roads between Albi and Cordes are winding but scenic.",
           "Be mindful of the parking zones in Albi."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die wichtigsten Highlights von Albi, die Kathedrale und das Museum. Danach fahren wir durch die Weinberge des Gaillac-Gebiets.\n\nMittags erreichen wir das spektakuläre Cordes-sur-Ciel, eines der schönsten Dörfer Frankreichs, und erkunden seine steilen Gassen.\n\nNachmittags genießen wir die Aussicht von den umliegenden Hügeln auf Cordes, bevor wir die Rückreise antreten.\n\nAbends sind wir zurück in Albi, um die Stadtmauer im Abendlicht zu bewundern.",
+            "hu": "Délelőtt Albi legfőbb látnivalóit, a katedrálist és a múzeumot nézzük meg, majd elindulunk a gaillaci borvidéken keresztül.\n\nDélben megérkezünk a látványos Cordes-sur-Ciel-be, Franciaország egyik legszebb falujába, és felfedezzük meredek utcáit.\n\nDélután a környező dombokról gyönyörködünk a kilátásban, mielőtt elindulnánk vissza Albi felé.\n\nEste újra Albiban vagyunk, hogy a városfalakat az alkonyati fényekben csodáljuk meg.",
+            "ro": "Dimineața vizităm principalele atracții din Albi, catedrala și muzeul, apoi conducem prin regiunea viticolă Gaillac.\n\nLa prânz ajungem în spectaculosul Cordes-sur-Ciel, unul dintre cele mai frumoase sate din Franța, și îi explorăm străzile abrupte.\n\nDupă-amiaza ne bucurăm de vederea panoramică asupra satului de pe dealurile din jur înainte de a pleca înapoi.\n\nSeara revenim în Albi pentru a admira zidurile orașului în lumina apusului.",
+            "en": "In the morning, we visit Albi's top highlights, the cathedral and the museum, then drive through the Gaillac wine region.\n\nAt midday, we reach the spectacular Cordes-sur-Ciel, one of France's most beautiful villages, and explore its steep streets.\n\nIn the afternoon, we enjoy the view of Cordes from the surrounding hills before heading back.\n\nIn the evening, we are back in Albi to admire the city walls in the twilight glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Albi",
+                "hu": "Albi székesegyház",
+                "ro": "Catedrala Albi",
+                "en": "Albi Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kostenloses Parken am Bondidou (nahebei).",
+                "hu": "Ingyenes parkolás a közeli Bondidou-nál.",
+                "ro": "Parcare gratuită la Bondidou (în apropiere).",
+                "en": "Free parking at Bondidou nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Toulouse-Lautrec",
+                "hu": "Toulouse-Lautrec Múzeum",
+                "ro": "Muzeul Toulouse-Lautrec",
+                "en": "Toulouse-Lautrec Museum"
+              },
+              "tip_5lang": {
+                "de": "Weltkulturerbe der UNESCO.",
+                "hu": "UNESCO Világörökségi helyszín.",
+                "ro": "Sit în patrimoniul UNESCO.",
+                "en": "UNESCO World Heritage site."
+              }
+            },
+            {
+              "name": {
+                "de": "Cordes-sur-Ciel",
+                "hu": "Cordes-sur-Ciel",
+                "ro": "Cordes-sur-Ciel",
+                "en": "Cordes-sur-Ciel"
+              },
+              "tip_5lang": {
+                "de": "Mittelalterliches Dorf auf einem Hügel.",
+                "hu": "Középkori falu egy dombtetőn.",
+                "ro": "Sat medieval pe vârful unui deal.",
+                "en": "Medieval village perched on a hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorama Cordes",
+                "hu": "Cordes panoráma",
+                "ro": "Panorama Cordes",
+                "en": "Cordes Panorama"
+              },
+              "tip_5lang": {
+                "de": "Bester Blick auf die 'Stadt in den Wolken'.",
+                "hu": "A legjobb kilátás a 'felhők feletti városra'.",
+                "ro": "Cea mai bună vedere asupra 'orașului din nori'.",
+                "en": "Best view of the 'city in the clouds'."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Vieux Albi",
+                "hu": "Pont Vieux Albi",
+                "ro": "Pont Vieux Albi",
+                "en": "Pont Vieux Albi"
+              },
+              "tip_5lang": {
+                "de": "Rückkehr nach Albi zum Sonnenuntergang.",
+                "hu": "Visszatérés Albiba naplementére.",
+                "ro": "Revenire în Albi pentru apus.",
+                "en": "Return to Albi for the sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Hostellerie du Vieux Cordes",
+                "tip": "Traditionelle Küche in historischem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hostellerie du Vieux Cordes",
+                "tip": "Tradicionális konyha történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Hostellerie du Vieux Cordes",
+                "tip": "Bucătărie tradițională într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hostellerie du Vieux Cordes",
+                "tip": "Traditional cuisine in a historical setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Cordes",
+                "tip": "Blick auf die Stadt im Nebel.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cordes kilátópont",
+                "tip": "Kilátás a városra, ahogy úszik a ködben.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Cordes",
+                "tip": "Vedere asupra orașului printre nori.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cordes Viewpoint",
+                "tip": "View of the city as it floats in the mist.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ateliers d'Artistes",
+                "tip": "Handgefertigte Kunst in Cordes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ateliers d'Artistes",
+                "tip": "Kézműves művészeti termékek Cordes-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliers d'Artistes",
+                "tip": "Artizanat local în Cordes."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ateliers d'Artistes",
+                "tip": "Handmade art and crafts in Cordes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in Cordes am Fuß des Hügels und nutzen Sie das Shuttle.",
+              "Die Straßen zwischen Albi und Cordes sind kurvig aber malerisch.",
+              "Achten Sie auf die Parkzonen in Albi."
+            ],
+            "hu": [
+              "Cordes-ban parkoljon a domb alján és használja a kisbuszt.",
+              "Albi és Cordes között az utak kanyargósak, de festőiek.",
+              "Ügyeljen a parkolási zónákra Albiban."
+            ],
+            "ro": [
+              "Parcați la baza dealului în Cordes și folosiți naveta.",
+              "Drumurile între Albi și Cordes sunt sinuoase dar pitorești.",
+              "Atenție la zonele de parcare în Albi."
+            ],
+            "en": [
+              "Park at the bottom of the hill in Cordes and use the shuttle bus.",
+              "The roads between Albi and Cordes are winding but scenic.",
+              "Be mindful of the parking zones in Albi."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie bequem am Bondidou-Parkplatz, um die Kathedrale und das Museum im Zentrum zu besuchen. Der Regen macht die roten Ziegel der Stadt noch intensiver.\n\nFahren Sie mittags nach Cordes-sur-Ciel. Die 25-minütige Fahrt bietet malerische Ausblicke auf die Hügel, die oft geheimnisvoll im Nebel liegen.\n\nIn Cordes angekommen, bieten die mittelalterlichen Gassen viele kleine Läden und Galerien, in denen Sie Schutz finden.\n\nKehren Sie am späten Nachmittag nach Albi zurück und genießen Sie den Blick auf die Pont Vieux bequem vom Auto aus oder bei einem kurzen Stopp am Ufer.",
+            "hu": "Parkoljon kényelmesen a Bondidou parkolóban, hogy meglátogassa a dómot és a múzeumot. Az eső még intenzívebbé teszi a város vörös tégláit.\n\nDélben vezessen Cordes-sur-Ciel felé. A 25 perces út festői kilátást nyújt a dombokra, melyek ilyenkor gyakran ködbe burkolóznak.\n\nCordes-ba érve a középkori utcák sok kis boltot és galériát kínálnak, ahol elrejtőzhet az eső elől.\n\nKéső délután térjen vissza Albiba, és élvezze a Pont Vieux látványát az autóból, vagy egy rövid megálló során a parton.",
+            "ro": "Parcați confortabil la parcarea Bondidou pentru a vizita catedrala și muzeul. Ploaia face cărămizile roșii să pară și mai intense.\n\nLa prânz, conduceți spre Cordes-sur-Ciel. Drumul de 25 de minute oferă vederi pitorești spre dealurile adesea învăluite în ceață.\n\nOdată ajunși în Cordes, străzile medievale oferă multe magazine și galerii mici unde vă puteți adăposti.\n\nReveniți în Albi spre seară și admirați Podul Vechi confortabil din mașină sau printr-o scurtă oprire pe mal.",
+            "en": "Park conveniently at the Bondidou car park to visit the cathedral and museum. The rain makes the city's red bricks appear even more vibrant.\n\nAt midday, drive to Cordes-sur-Ciel. The 25-minute journey offers picturesque views of the hills, which are often mysteriously shrouded in mist.\n\nOnce in Cordes, the medieval streets provide many small shops and galleries where you can find shelter from the rain.\n\nReturn to Albi in the late afternoon and enjoy the view of Pont Vieux comfortably from your car or during a quick stop by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Albi Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Bondidou für einen fast trockenen Zugang.",
+                "hu": "Parkoljon a Bondidou parkolóházban a szinte teljesen fedett útvonalhoz.",
+                "ro": "Parcați la parcarea Bondidou pentru un acces aproape uscat.",
+                "en": "Park at Bondidou car park for an almost dry walk to the entrance."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da der gesamte Komplex überdacht ist.",
+                "hu": "Ideális esőben, mivel a teljes komplexum fedett.",
+                "ro": "Ideal pe ploaie, deoarece tot complexul este acoperit.",
+                "en": "Ideal for rainy weather as the entire complex is indoors."
+              }
+            },
+            {
+              "name": "Cordes-sur-Ciel",
+              "tip_5lang": {
+                "de": "Vorsicht beim steilen Aufstieg auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat a meredek emelkedőn a vizes macskakövön.",
+                "ro": "Atenție la urcarea abruptă pe pavajul ud.",
+                "en": "Be careful during the steep climb on wet cobblestones."
+              }
+            },
+            {
+              "name": "Cordes Panorama",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Auto aus, wenn es zu stark regnet.",
+                "hu": "Élvezze a kilátást az autóból, ha túl erősen esne.",
+                "ro": "Admirați panorama din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view from your car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Pont Vieux Albi",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht bei diesem Wetter aus.",
+                "hu": "Egy rövid fotómegálló is elég ebben az időben.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă.",
+                "en": "A quick photo stop is enough in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen um Albi können bei Regen rutschig sein.",
+              "Nutzen Sie die Tiefgaragen in der Innenstadt (z.B. Vigan oder Bondidou).",
+              "Prüfen Sie die Sichtverhältnisse für den Cordes-Panorama-Stopp.",
+              "Halten Sie eine Regenjacke griffbereit für den Weg vom Parkplatz.",
+              "In Cordes-sur-Ciel gibt es im unteren Teil mehr Parkplätze bei Regen."
+            ],
+            "hu": [
+              "Az Albi környéki mellékutak esőben csúszósak lehetnek.",
+              "Használja a belvárosi mélygarázsokat (Vigan vagy Bondidou).",
+              "Ellenőrizze a látási viszonyokat a Cordes-panoráma előtt.",
+              "Legyen kéznél esőkabát a parkolótól a bejáratig tartó útra.",
+              "Cordes-sur-Ciel alsó részén esőben könnyebb parkolni."
+            ],
+            "ro": [
+              "Drumurile județene din jurul Albi pot fi alunecoase pe ploaie.",
+              "Folosiți parcările subterane din centru (Vigan sau Bondidou).",
+              "Verificați vizibilitatea înainte de a merge la panorama Cordes.",
+              "Aveți pelerina la îndemână pentru drumul de la parcare.",
+              "În Cordes-sur-Ciel există mai multe parcări în partea de jos."
+            ],
+            "en": [
+              "Country roads around Albi can be slippery in the rain.",
+              "Utilize underground car parks in the city center (Vigan or Bondidou).",
+              "Check visibility conditions before heading to the Cordes panorama.",
+              "Keep a raincoat handy for the walk from your car to the sights.",
+              "There are more parking spots in the lower part of Cordes-sur-Ciel."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im Herzen von Albi. Die Kathedrale wirkt im klaren Winterlicht fast wie eine Festung aus Eis und Stein.\n\nFahren Sie mittags nach Cordes-sur-Ciel. Die Hügelstadt sieht im Winter oft wie eine Insel im Nebelmeer aus. Die Fahrt ist kurz und angenehm.\n\nIn Cordes angekommen, wärmen Sie sich in einem der gemütlichen Bistros auf. Die mittelalterliche Stimmung ist im Winter besonders authentisch.\n\nKehren Sie rechtzeitig zum Sonnenuntergang nach Albi zurück, um die beleuchtete Brücke Pont Vieux zu bewundern, während die Dämmerung die Stadt in Blau taucht.",
+            "hu": "Kezdje a téli napot Albi szívében. A székesegyház a tiszta téli fényben szinte egy jégből és kőből épült erődnek tűnik.\n\nDélben vezessen Cordes-sur-Ciel-be. A dombtetőre épült város télen gyakran úgy fest, mint egy sziget a ködtengerben.\n\nCordes-ban melegedjen fel egy barátságos bisztróban. A középkori hangulat télen a leghitelesebb.\n\nTérjen vissza időben Albiba a naplementére, hogy megcsodálja a kivilágított Pont Vieux hidat, miközben az alkony kékbe borítja a várost.",
+            "ro": "Începeți ziua de iarnă în inima orașului Albi. Catedrala pare aproape o fortăreață de gheață și piatră în lumina clară.\n\nLa prânz, mergeți spre Cordes-sur-Ciel. Orașul de pe deal arată adesea ca o insulă într-o mare de ceață iarna.\n\nOdată ajunși în Cordes, încălziți-vă într-un bistro primitor. Atmosfera medievală este autentică în timpul iernii.\n\nReveniți în Albi la timp pentru apus, pentru a admira Podul Vechi iluminat în timp ce amurgul scaldă orașul în albastru.",
+            "en": "Begin your winter day in the heart of Albi. The cathedral looks almost like a fortress of ice and stone in the clear winter light.\n\nAt midday, drive to Cordes-sur-Ciel. The hilltop town often looks like an island in a sea of mist during winter. The drive is short and pleasant.\n\nIn Cordes, warm up in one of the cozy bistros. The medieval atmosphere is particularly authentic in the winter season.\n\nReturn to Albi in time for sunset to admire the illuminated Pont Vieux as the twilight bathes the city in blue."
+          },
+          "stops": [
+            {
+              "name": "Albi Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale mittags für das beste Lichtspiel.",
+                "hu": "Látogassa meg a dómot délben a legszebb fényekért.",
+                "ro": "Vizitați catedrala la prânz pentru cel mai bun joc de lumini.",
+                "en": "Visit the cathedral at midday for the best light effects inside."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, perfekt für den Nachmittag.",
+                "hu": "Jól fűtött hely, tökéletes a délután eltöltésére.",
+                "ro": "Un loc bine încălzit, perfect pentru după-amiază.",
+                "en": "A well-heated venue, perfect for the afternoon."
+              }
+            },
+            {
+              "name": "Cordes-sur-Ciel",
+              "tip_5lang": {
+                "de": "Prüfen Sie bei Frost die Straßenverhältnisse zum Gipfel.",
+                "hu": "Fagy esetén ellenőrizze az utat a város csúcsára.",
+                "ro": "Verificați starea drumului spre vârf în caz de îngheț.",
+                "en": "Check road conditions to the summit if there is frost."
+              }
+            },
+            {
+              "name": "Cordes Panorama",
+              "tip_5lang": {
+                "de": "Der Blick auf den Nebel im Tal ist im Winter spektakulär.",
+                "hu": "A völgyben ülő köd látványa télen lenyűgöző.",
+                "ro": "Vederea ceții din vale este spectaculoasă iarna.",
+                "en": "The view of the mist in the valley is spectacular in winter."
+              }
+            },
+            {
+              "name": "Pont Vieux Albi",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung startet im Winter bereits gegen 17:30 Uhr.",
+                "hu": "Az esti díszkivilágítás télen már 17:30 körül bekapcsol.",
+                "ro": "Iluminatul de seară începe în jur de ora 17:30 iarna.",
+                "en": "The evening lighting starts around 5:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Wetterbericht für Cordes-sur-Ciel (Glatteisgefahr).",
+              "Heizung im Auto auf dem Weg nach Cordes voll ausnutzen.",
+              "Sonne geht gegen 17:15 Uhr unter, planen Sie die Fahrt danach.",
+              "Warme Getränke in Cordes-Bistros sind ein Muss.",
+              "Die Parkplätze in Albi sind im Winter oft leichter zu finden."
+            ],
+            "hu": [
+              "Ellenőrizze az időjárást Cordes-sur-Ciel környékén (jegesedés).",
+              "Használja ki az autó fűtését a Cordes-ba vezető úton.",
+              "A nap 17:15 körül nyugszik, tervezze ehhez az utat.",
+              "Egy forró ital Cordes bisztróiban kötelező program.",
+              "Albiban télen sokkal könnyebb parkolóhelyet találni."
+            ],
+            "ro": [
+              "Verificați prognoza pentru Cordes-sur-Ciel (pericol de polei).",
+              "Folosiți încălzirea mașinii pe drumul spre Cordes.",
+              "Soarele apune în jur de 17:15, planificați drumul în funcție de asta.",
+              "Băuturile calde în bistrourile din Cordes sunt obligatorii.",
+              "Locurile de parcare în Albi sunt mai ușor de găsit iarna."
+            ],
+            "en": [
+              "Check the weather report for Cordes-sur-Ciel (risk of black ice).",
+              "Make the most of the car heater on the way to Cordes.",
+              "The sun sets around 5:15 PM, so plan your drive accordingly.",
+              "Warm drinks in Cordes bistros are a winter must.",
+              "Parking spots in Albi are generally easier to find in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1071,34 +2291,363 @@
           "Tickets can be purchased directly from the driver.",
           "Buses run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittags nutzen wir den Bus, um die historische Bischofsstadt zu erkunden, beginnend mit der Kathedrale und dem weltberühmten Museum.\n\nMittags fahren wir zum Rochegude-Park für eine Pause im Grünen, weit weg vom Trubel der touristischen Gassen.\n\nNachmittags steht das Modemuseum auf dem Programm, das in einem ehemaligen Kloster versteckt ist, bevor wir zurück zum Fluss fahren.\n\nAbends genießen wir den Blick von der alten Brücke, bevor uns der Bus zurück zum Ausgangspunkt bringt.",
+            "hu": "Délelőtt busszal járjuk be a történelmi püspöki várost, kezdve a székesegyházzal és a világhírű múzeummal.\n\nDélben a Rochegude parkba utazunk egy zöld pihenőre, távol a turisták által kedvelt szűk utcák zajától.\n\nDélután a divatmúzeumot látogatjuk meg, amely egy egykori kolostor épületében bújik meg, majd visszatérünk a folyópartra.\n\nEste a régi hídról csodáljuk a várost, mielőtt a busz visszavinne minket a kiindulópontra.",
+            "ro": "Dimineața folosim autobuzul pentru a explora orașul istoric episcopal, începând cu catedrala și muzeul de renume mondial.\n\nLa prânz mergem la parcul Rochegude pentru o pauză în natură, departe de agitația străzilor turistice.\n\nDupă-amiaza vizităm Muzeul Modei, ascuns într-o fostă mănăstire, înainte de a reveni spre malul râului.\n\nSeara ne bucurăm de vederea de pe podul vechi, înainte ca autobuzul să ne ducă înapoi la punctul de plecare.",
+            "en": "In the morning, we use the bus to explore the historical episcopal city, starting with the cathedral and the world-famous museum.\n\nAt midday, we travel to Rochegude Park for a green break, far from the hustle and bustle of the tourist streets.\n\nIn the afternoon, the Fashion Museum is on the agenda, hidden in a former convent, before we return to the riverbank.\n\nIn the evening, we enjoy the view from the old bridge before the bus takes us back to our starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albi Zentrum",
+                "hu": "Albi központ",
+                "ro": "Centrul Albi",
+                "en": "Albi Center"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt in der Nähe.",
+                "hu": "Központi buszcsomópont a közelben.",
+                "ro": "Nod central de autobuze în apropiere.",
+                "en": "Central bus hub nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Toulouse-Lautrec",
+                "hu": "Toulouse-Lautrec Múzeum",
+                "ro": "Muzeul Toulouse-Lautrec",
+                "en": "Toulouse-Lautrec Museum"
+              },
+              "tip_5lang": {
+                "de": "Eingang über den Ehrenhof.",
+                "hu": "Bejárat a díszudvaron keresztül.",
+                "ro": "Intrare prin curtea de onoare.",
+                "en": "Entrance through the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Rochegude",
+                "hu": "Rochegude park",
+                "ro": "Parcul Rochegude",
+                "en": "Rochegude Park"
+              },
+              "tip_5lang": {
+                "de": "Mit Buslinie A oder B erreichbar.",
+                "hu": "Az A vagy B buszvonallal elérhető.",
+                "ro": "Accesibil cu liniile A sau B.",
+                "en": "Accessible via bus lines A or B."
+              }
+            },
+            {
+              "name": {
+                "de": "Mode-Museum Albi",
+                "hu": "Divatmúzeum Albi",
+                "ro": "Muzeul Modei Albi",
+                "en": "Albi Fashion Museum"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Kostümsammlung in einem Kloster.",
+                "hu": "Egyedülálló jelmezgyűjtemény egy kolostorban.",
+                "ro": "Colecție unică de costume într-o mănăstire.",
+                "en": "Unique costume collection in a convent."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Vieux",
+                "hu": "Régi híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Schöner Abschluss der Tour.",
+                "hu": "Szép lezárása a túrának.",
+                "ro": "Un final frumos al turului.",
+                "en": "A beautiful end to the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "L'Auberge de l'Orient",
+                "tip": "Gute Küche in der Nähe der Bushaltestellen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Auberge de l'Orient",
+                "tip": "Kiváló konyha a buszmegállók közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Auberge de l'Orient",
+                "tip": "Bucătărie bună în apropierea stațiilor de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Auberge de l'Orient",
+                "tip": "Great cuisine near the bus stops."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rochegude Park",
+                "tip": "Botanischer Garten im Herzen der Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rochegude park",
+                "tip": "Botanikus kert a város szívében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Rochegude",
+                "tip": "Grădină botanică în inima orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rochegude Park",
+                "tip": "Botanical garden in the heart of the city.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Les Ateliers de la Madeleine",
+                "tip": "Kunsthandwerk auf der anderen Flussseite."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Les Ateliers de la Madeleine",
+                "tip": "Kézműves műhelyek a folyó túloldalán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Les Ateliers de la Madeleine",
+                "tip": "Ateliere de artizanat pe cealaltă parte a râului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Les Ateliers de la Madeleine",
+                "tip": "Artisan workshops on the other side of the river."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'LibéA' Busnetz.",
+              "Fahrkarten können direkt beim Fahrer gekauft werden.",
+              "Die Busse fahren am Wochenende seltener."
+            ],
+            "hu": [
+              "Használja a 'LibéA' buszhálózatot.",
+              "Jegyet közvetlenül a vezetőnél is vásárolhat.",
+              "A buszok hétvégén ritkábban járnak."
+            ],
+            "ro": [
+              "Folosiți rețeaua de autobuze 'LibéA'.",
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "Autobuzele circulă mai rar în weekend."
+            ],
+            "en": [
+              "Use the 'LibéA' bus network.",
+              "Tickets can be purchased directly from the driver.",
+              "Buses run less frequently on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das LibéA-Busnetz, um trocken ins Zentrum zu kommen. Die Kathedrale bietet einen majestätischen Schutz vor dem ersten Regenschauer des Tages.\n\nNach dem Besuch der Kathedrale bringt Sie der Bus schnell zum Toulouse-Lautrec-Museum. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Freien.\n\nVerbringen Sie den Nachmittag im Rochegude-Park (wenn der Regen nachlässt) oder besuchen Sie das Mode-Museum, das komplett überdacht ist.\n\nBeenden Sie den Tag an der Alten Brücke und nutzen Sie die nahegelegenen Bushaltestellen für eine trockene Rückfahrt zu Ihrer Unterkunft.",
+            "hu": "Használja a LibéA buszhálózatot, hogy szárazon jusson a központba. A dóm fenséges védelmet nyújt a nap első záporai elől.\n\nA dóm után a busz gyorsan elviszi a Toulouse-Lautrec Múzeumhoz. A megállók közti rövid távok minimalizálják a kint töltött időt.\n\nA délutánt töltse a Rochegude parkban (ha alábbhagy az eső) vagy a Divatmúzeumban, mely teljesen fedett.\n\nA napot a Pont Vieux-nél zárja, és használja a közeli buszmegállókat a száraz hazatéréshez.",
+            "ro": "Folosiți rețeaua de autobuze LibéA pentru a ajunge uscat în centru. Catedrala oferă o protecție maiestuoasă împotriva primei averse.\n\nDupă catedrală, autobuzul vă duce rapid la Muzeul Toulouse-Lautrec. Distanțele scurte dintre stații minimizează timpul petrecut afară.\n\nPetreceți după-amiaza în parcul Rochegude (dacă se oprește ploaia) sau vizitați Muzeul Modei, care este complet acoperit.\n\nÎncheiați ziua la Podul Vechi și folosiți stațiile de autobuz din apropiere pentru o întoarcere uscată.",
+            "en": "Use the LibéA bus network to reach the center while staying dry. The cathedral offers a grand sanctuary from the day's first showers.\n\nAfter visiting the cathedral, the bus will quickly take you to the Toulouse-Lautrec Museum. Short distances between stops minimize your exposure to the rain.\n\nSpend the afternoon at Rochegude Park (if the rain lets up) or visit the Fashion Museum, which is entirely indoors.\n\nEnd your day at the Old Bridge and use the nearby bus stops for a dry journey back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Albi Center",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt am Place du Vigan.",
+                "hu": "A megállók közvetlenül a Place du Vigan téren vannak.",
+                "ro": "Stațiile se află chiar în Place du Vigan.",
+                "en": "Bus stops are located directly at Place du Vigan."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle zum Museumseingang.",
+                "hu": "Rövid séta a buszmegállótól a múzeum bejáratáig.",
+                "ro": "Scurtă plimbare de la stație la intrarea în muzeu.",
+                "en": "Short walk from the bus stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Rochegude Park",
+              "tip_5lang": {
+                "de": "Busse halten direkt am Parkeingang.",
+                "hu": "A buszok közvetlenül a park bejáratánál állnak meg.",
+                "ro": "Autobuzele opresc chiar la intrarea în parc.",
+                "en": "Buses stop right at the park entrance."
+              }
+            },
+            {
+              "name": "Albi Fashion Museum",
+              "tip_5lang": {
+                "de": "Eine großartige Indoor-Alternative in einem alten Kloster.",
+                "hu": "Remek fedett alternatíva egy régi kolostorépületben.",
+                "ro": "O alternativă excelentă la interior într-o fostă mănăstire.",
+                "en": "A great indoor alternative located in an old convent."
+              }
+            },
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Haltestellen sind auf beiden Seiten der Brücke vorhanden.",
+                "hu": "A híd mindkét oldalán találhatók buszmegállók.",
+                "ro": "Există stații de autobuz pe ambele părți ale podului.",
+                "en": "Bus stops are available on both sides of the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten per App oder beim Fahrer (passendes Kleingeld).",
+              "Die LibéA-Busse sind eine kostengünstige Möglichkeit, trocken zu bleiben.",
+              "An Regentagen können Busse leicht verspätet sein.",
+              "Die Haltestelle 'Vigan' ist der zentrale Umsteigepunkt.",
+              "Das Mode-Museum ist perfekt für regnerische Nachmittage."
+            ],
+            "hu": [
+              "Vásároljon jegyet az applikációban vagy a sofőrnél (legyen aprója).",
+              "A LibéA buszok olcsó módot kínálnak a szárazon maradásra.",
+              "Esős napokon a buszok kisebb késéssel közlekedhetnek.",
+              "A 'Vigan' megálló a központi átszállási pont.",
+              "A Divatmúzeum tökéletes választás esős délutánokra."
+            ],
+            "ro": [
+              "Cumpărați bilete prin aplicație sau de la șofer (pregătiți bani mărunți).",
+              "Autobuzele LibéA sunt o modalitate ieftină de a rămâne uscat.",
+              "În zilele ploioase, autobuzele pot avea mici întârzieri.",
+              "Stația 'Vigan' este punctul central de transfer.",
+              "Muzeul Modei este perfect pentru după-amiezi ploioase."
+            ],
+            "en": [
+              "Buy tickets via the app or from the driver (have exact change).",
+              "LibéA buses are an affordable way to stay dry.",
+              "Buses may experience slight delays on rainy days.",
+              "The 'Vigan' stop is the central transfer point.",
+              "The Fashion Museum is a perfect choice for rainy afternoons."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag mit einer Busfahrt ins Stadtzentrum. Die geheizten Busse bieten einen angenehmen Start.\n\nIn der Kathedrale Sainte-Cécile finden Sie mittags eine ruhige und temperierte Atmosphäre. Danach bringt Sie der Bus direkt zum Toulouse-Lautrec-Museum, um die Kälte draußen zu lassen.\n\nBesuchen Sie den Rochegude-Park für einen kurzen Winterspaziergang, bevor Sie zum Mode-Museum weiterfahren, das sich in einem warmen, historischen Gebäude befindet.\n\nBeenden Sie die Tour an der Alten Brücke im Abendlicht und nehmen Sie den nächsten Bus zurück, wenn es nach Sonnenuntergang schnell abkühlt.",
+            "hu": "Kezdje a téli napot buszozással a belvárosba. A fűtött buszok kellemes indítást adnak a napnak.\n\nA Szent Cecília-székesegyházban délben nyugodt és kellemes hőmérséklet fogadja. Ezután a busz közvetlenül a Toulouse-Lautrec Múzeumhoz viszi, kizárva a kinti hideget.\n\nA Rochegude parkban tegyen egy rövid téli sétát, majd folytassa útját a Divatmúzeumba, mely egy meleg, történelmi épületben található.\n\nA túrát a Pont Vieux-nél zárja az esti fényekben, és szálljon buszra, amint a naplemente után hirtelen lehűl a levegő.",
+            "ro": "Începeți ziua de iarnă cu o călătorie cu autobuzul spre centru. Autobuzele încălzite oferă un start plăcut.\n\nÎn Catedrala Sainte-Cécile veți găsi la prânz o atmosferă liniștită și temperată. Apoi, autobuzul vă duce direct la Muzeul Toulouse-Lautrec pentru a evita frigul.\n\nVizitați parcul Rochegude pentru o scurtă plimbare, apoi continuați spre Muzeul Modei, situat într-o clădire istorică călduroasă.\n\nÎncheiați turul la Podul Vechi în lumina serii și luați autobuzul înapoi când temperatura scade rapid după apus.",
+            "en": "Start your winter day with a bus ride to the city center. The heated buses provide a comfortable start to the day.\n\nInside Sainte-Cécile Cathedral, you'll find a peaceful and tempered atmosphere at midday. Afterwards, the bus will take you directly to the Toulouse-Lautrec Museum to stay out of the cold.\n\nVisit Rochegude Park for a brisk winter walk before heading to the Fashion Museum, housed in a warm, historic building.\n\nFinish your tour at the Old Bridge in the evening light and catch the next bus back as the air cools down rapidly after sunset."
+          },
+          "stops": [
+            {
+              "name": "Albi Center",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Toulouse-Lautrec Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie Ihren Mantel sicher in der Garderobe.",
+                "hu": "Hagyja a kabátját biztonságosan a ruhatárban.",
+                "ro": "Lăsați haina în siguranță la garderobă.",
+                "en": "Leave your coat safely in the cloakroom."
+              }
+            },
+            {
+              "name": "Rochegude Park",
+              "tip_5lang": {
+                "de": "Schöner Wintergarten-Aspekt im Park.",
+                "hu": "Szép télikert jellegű részletek a parkban.",
+                "ro": "Aspect frumos de grădină de iarnă în parc.",
+                "en": "Lovely winter-garden feel within the park."
+              }
+            },
+            {
+              "name": "Albi Fashion Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um seltene Textilien zu entdecken.",
+                "hu": "Meleg hely ritka textíliák felfedezéséhez.",
+                "ro": "Un loc călduros pentru a descoperi textile rare.",
+                "en": "A warm indoor location to discover rare textiles."
+              }
+            },
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Kälte auf der Brücke zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hideget a hídon.",
+                "ro": "Folosiți autobuzul pentru a evita frigul de pe pod.",
+                "en": "Use the bus to avoid the biting cold on the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht variieren, nutzen Sie die App.",
+              "Busse sind perfekt, um sich zwischen den Sehenswürdigkeiten aufzuwärmen.",
+              "Die Sonne geht gegen 17:15 Uhr unter; Abendservice beachten.",
+              "Das Mode-Museum ist oft weniger besucht und sehr gemütlich.",
+              "Zentraler Knotenpunkt ist 'Place du Vigan'."
+            ],
+            "hu": [
+              "A menetrendek télen változhatnak, használja az appot.",
+              "A buszok tökéletesek a melegedésre két látnivaló között.",
+              "A nap 17:15 körül nyugszik, figyeljen az esti járatokra.",
+              "A Divatmúzeum télen kevésbé zsúfolt és nagyon barátságos.",
+              "A központi csomópont a 'Place du Vigan'."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna, folosiți aplicația.",
+              "Autobuzele sunt perfecte pentru a vă încălzi între obiective.",
+              "Soarele apune în jur de 17:15; verificați cursele de seară.",
+              "Muzeul Modei este adesea mai puțin vizitat și foarte primitor.",
+              "Punctul central de transfer este 'Place du Vigan'."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter; use the app for live updates.",
+              "Buses are a great way to warm up between sightseeing stops.",
+              "The sun sets around 5:15 PM; check evening service times.",
+              "The Fashion Museum is usually less crowded and very cozy in winter.",
+              "The main transit hub is 'Place du Vigan'."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.albi-tourisme.fr/",
-    "events": "https://www.albi-tourisme.fr/agenda/",
-    "city_card": "https://www.albi-tourisme.fr/albipass/",
-    "museum_tickets": "https://www.museetoulouselautrec.com/billetterie/",
-    "transit_official": "https://www.albibus.fr/",
-    "language_tips": {
-      "de": "Albi ist UNESCO-Stadt mit der mächtigen Sainte-Cécile-Kathedrale und dem Toulouse-Lautrec-Museum. Englisch wird im Museum und im Tourismusbüro gesprochen. Lernen Sie 'cathédrale Sainte-Cécile' für die größte Backsteinkathedrale der Welt und 'Toulouse-Lautrec' korrekt aussprechen.",
-      "hu": "Albi UNESCO-város a hatalmas Sainte-Cécile katedrálissal és a Toulouse-Lautrec múzeummal. A múzeumban és az idegenforgalmi irodában beszélnek angolul. Tanuld meg a 'cathédrale Sainte-Cécile' nevet a világ legnagyobb téglakatedrálisához és a 'Toulouse-Lautrec' helyes kiejtését.",
-      "ro": "Albi este oraș UNESCO cu impunătoarea catedrală Sainte-Cécile și muzeul Toulouse-Lautrec. Engleza se vorbește la muzeu și la biroul de turism. Învățați 'cathédrale Sainte-Cécile' pentru cea mai mare catedrală din cărămidă din lume și pronunția corectă a 'Toulouse-Lautrec'.",
-      "en": "Albi is a UNESCO city with the mighty Sainte-Cécile cathedral and the Toulouse-Lautrec museum. English is spoken at the museum and tourism office. Learn 'cathédrale Sainte-Cécile' for the world's largest brick cathedral and pronounce 'Toulouse-Lautrec' correctly."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühendes Tarn-Tal und weniger Touristen. Im Sommer kann es sehr heiß werden (über 35°C), die Backsteinstadt strahlt Wärme aus. Winter ist ruhig, das Museum bleibt geöffnet und der Weihnachtsmarkt ist charmant.",
-      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó Tarn-völgy, kevesebb turista. Nyáron nagyon meleg lehet (35°C felett), a téglaváros sugározza a hőséget. Télen csendes, a múzeum nyitva tart, a karácsonyi vásár bájos.",
-      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, valea Tarn înflorită și mai puțini turiști. Vara poate fi foarte cald (peste 35°C), orașul de cărămidă emană căldură. Iarna este liniștită, muzeul rămâne deschis, târgul de Crăciun este fermecător.",
-      "en": "April-June and September-October are ideal: mild weather, blooming Tarn valley and fewer tourists. Summer can be very hot (over 35°C) - the brick city radiates heat. Winter is quiet, the museum stays open and the Christmas market is charming."
-    },
-    "neighborhood_warnings": {
-      "de": "Albi ist meist sicher, doch der Bahnhofsbezirk und einige Vororte können abends ungemütlich sein. In der Altstadt auf Taschendiebe achten. Parken im Zentrum begrenzt - Parking de la Cathédrale nutzen.",
-      "hu": "Albi többnyire biztonságos, de a pályaudvar környéke és néhány külváros este kellemetlen lehet. Az óvárosban figyelj a zsebtolvajokra. A központban korlátozott a parkolás - használd a Parking de la Cathédrale-t.",
-      "ro": "Albi este în general sigur, dar zona gării și unele suburbii pot fi neplăcute seara. În centrul vechi, atenție la hoții de buzunare. Parcarea în centru este limitată - folosiți Parking de la Cathédrale.",
-      "en": "Albi is mostly safe, but the station area and some outskirts can feel uneasy at night. In the old town watch for pickpockets. Central parking is limited - use the Parking de la Cathédrale."
-    },
-    "parking_real_time": ""
   }
 }

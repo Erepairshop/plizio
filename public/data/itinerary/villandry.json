@@ -900,32 +900,5 @@
         ]
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.azay-chinon-valdeloire.com/",
-    "events": "https://www.chateauvillandry.fr/",
-    "city_card": "",
-    "museum_tickets": "https://www.chateauvillandry.fr/",
-    "transit_official": "https://www.remi-centrevaldeloire.fr/",
-    "language_tips": {
-      "de": "Villandry ist ein Mini-Dorf, in dem alles um das Schloss mit den Renaissance-Gaerten kreist. Im Schloss gibt es englische Broschueren und Audioguides, im Dorfcafe hilft ein 'bonjour' und ein Laecheln mehr als jeder Sprachkurs.",
-      "hu": "Villandry mini-falu, ahol minden a reneszansz kertes kastely korul forog. A kastelyban angol prospektus es audioguide all rendelkezesre, a falu kavezojaban viszont egy 'bonjour' es egy mosoly tobbet er minden nyelvtanfolyamnal.",
-      "ro": "Villandry e un mini-sat in care totul graviteaza in jurul castelului cu gradini renascentiste. La castel ai brosuri si audioghiduri in engleza, dar la cafeneaua satului un 'bonjour' si un zambet conteaza mai mult decat orice curs.",
-      "en": "Villandry is a tiny village where everything revolves around the chateau and its Renaissance gardens. English brochures and audio guides are available at the chateau, but at the village cafe a 'bonjour' and a smile beats any language course."
-    },
-    "best_time_to_visit": {
-      "de": "Die Renaissance-Gemuese- und Blumengaerten sind von Mai bis Anfang Oktober am schoensten, Hoehepunkt im Juli mit den geometrischen Mustern in voller Farbe. Vermeiden Sie Wochenenden im August, Werktag-Vormittag ist Gold wert.",
-      "hu": "A reneszansz zoldseg- es viragoskertek majustol oktober elejeig a legszebbek, csucs juliusban a geometrikus mintak teljes szinpompajaval. Kerud az augusztusi hetvegeket, a hetkozapi delelott arnyat er.",
-      "ro": "Gradinile renascentiste de legume si flori sunt cele mai frumoase din mai pana la inceputul lui octombrie, varful fiind in iulie cu modelele geometrice in plina culoare. Evita weekendurile din august; dimineata in zi lucratoare e ideala.",
-      "en": "The Renaissance vegetable and flower gardens peak from May to early October, with July showing the geometric patterns in full colour. Avoid August weekends — a weekday morning is gold."
-    },
-    "neighborhood_warnings": {
-      "de": "Das winzige Dorf ist sehr sicher. Engpass ist nur das Schlossparkplatz, der Mittags voll laeuft, am besten vor 11 Uhr ankommen oder gegen 16 Uhr fuer Abendsonne ueber den Gaerten.",
-      "hu": "Az aprocska falu nagyon biztonsagos. Egyetlen szuk keresztmetszet a kastely parkolo, ami delre megtelik, legjobb 11 ora elott erkezni vagy 16 ora fele az esti napfeny miatt.",
-      "ro": "Satucul e foarte sigur. Singurul punct critic e parcarea castelului care se umple la pranz, cel mai bine ajungi inainte de 11 sau pe la 16 pentru lumina serii peste gradini.",
-      "en": "The tiny village is very safe; the only bottleneck is the chateau car park which fills by midday — best to arrive before 11am or around 4pm for evening light over the gardens."
-    },
-    "parking_real_time": ""
   }
 }

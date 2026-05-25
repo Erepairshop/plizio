@@ -320,6 +320,450 @@
           "Lunch is usually served between 12:00 and 14:00, booking is recommended.",
           "Summer heat can be intense, so make the most of the early morning hours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der gewaltigen römischen Arena, dem am besten erhaltenen Monument der Stadt. Danach erkunden Sie das nahe gelegene antike Theater, wo einst tausende Bürger Arles' Kultur genossen. Mittags erwartet Sie die Place de la République mit der prächtigen Kathedrale Saint-Trophime.\n\nNach einer Pause im Schatten der Platanen besuchen Sie den Espace Van Gogh, das ehemalige Krankenhaus, in dem der Maler behandelt wurde. Spüren Sie die Inspiration in dem farbenfrohen Innenhof.\n\nDer Nachmittag steht im Zeichen der Moderne: Der futuristische Luma-Turm von Frank Gehry bildet einen spektakulären Kontrast zur antiken Stadtmauer. Erfahren Sie hier mehr über zeitgenössische Kunst.\n\nBeenden Sie den Tag mit einem Spaziergang entlang der Rhone. Wenn die Sonne tief steht und das Wasser golden glänzt, verstehen Sie, warum Van Gogh diese Stadt so liebte. Ein Glas Rosé am Ufer rundet das Erlebnis ab.",
+            "hu": "Kezdje a reggelt a hatalmas római amfiteátrumban, amely a város legépebben maradt műemléke. Ezután fedezze fel a közeli antik színházat, ahol egykor Arles polgárai szórakoztak. Délben a Place de la République és a Szent Trophime-templom díszes kapuja várja.\n\nEgy platánok alatti pihenő után látogasson el az Espace Van Gogh-ba, az egykori kórházba, ahol a festőt kezelték. A színes virágokkal teli udvar ma is pontosan úgy fest, mint Van Gogh híres festményén.\n\nDélután a modern művészeté a főszerep: a Frank Gehry által tervezett Luma-torony futurisztikus acéllemezei látványos kontrasztot alkotnak az ókori romokkal. Itt a legfrissebb kortárs tárlatokat tekintheti meg.\n\nZárja a napot egy sétával a Rhône partján. Ahogy a nap alacsonyan jár és aranyba vonja a folyót, megértheti, miért ragadta meg ez a fény Van Goghot. Egy pohár provence-i rozé a parton tökéletes befejezés.",
+            "ro": "Începeți dimineața în uriașa arenă romană, cel mai bine conservat monument al orașului. Apoi explorați teatrul antic din apropiere, unde odinioară mii de cetățeni se bucurau de cultură. La prânz, Place de la République vă așteaptă cu superba catedrală Saint-Trophime.\n\nDupă o pauză la umbra platanilor, vizitați Espace Van Gogh, fostul spital în care a fost tratat pictorul. Simțiți inspirația în curtea interioară plină de culori, restaurată conform tablourilor sale.\n\nDupă-amiaza este dedicată modernității: turnul futurist Luma, proiectat de Frank Gehry, oferă un contrast spectaculos cu zidurile antice. Descoperiți aici expoziții de artă contemporană de nivel mondial.\n\nÎncheiați ziua cu o plimbare pe malul Ronului. Când soarele coboară și apa strălucește auriu, veți înțelege de ce Van Gogh a iubit atât de mult acest oraș. Un pahar de rosé pe malul râului completează experiența.",
+            "en": "Start your morning at the massive Roman Amphitheatre, the city's best-preserved monument. Then explore the nearby Ancient Theatre, where Arles' citizens once gathered for entertainment. Midday brings you to Place de la République with the magnificent Saint-Trophime Church.\n\nAfter a break under the plane trees, visit Espace Van Gogh, the former hospital where the painter was treated. Feel the inspiration in the colorful courtyard, replanted to match his famous paintings.\n\nThe afternoon focuses on modernity: Frank Gehry's futuristic Luma Tower creates a spectacular contrast with the ancient city walls. Explore world-class contemporary art installations here.\n\nEnd the day with a stroll along the Rhône. As the sun sets and the water glows gold, you will understand why Van Gogh was so captivated by this light. A glass of Provençal rosé by the river is the perfect finish."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater von Arles",
+                "hu": "Arles-i amfiteátrum",
+                "ro": "Amfiteatrul din Arles",
+                "en": "Arles Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie in die obersten Ränge für den besten Blick auf die Stadt.",
+                "hu": "Menj fel a legfelső szintekre a legjobb városi kilátásért.",
+                "ro": "Urcați la nivelurile superioare pentru cea mai bună vedere asupra orașului.",
+                "en": "Go to the top tiers for the best view of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Antik Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theatre"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die 'Zwei Grazien', die markanten Marmorsäulen.",
+                "hu": "Keresd a 'Két Gráciát', a megmaradt márványoszlopokat.",
+                "ro": "Căutați 'Cele două Grații', coloanele de marmură rămase.",
+                "en": "Look for the 'Two Graces', the remaining marble columns."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la République & Saint-Trophime",
+                "hu": "Place de la République és Szent Trophime-templom",
+                "ro": "Place de la République și Biserica Saint-Trophime",
+                "en": "Place de la République & Saint-Trophime"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das romanische Portal mit biblischen Szenen.",
+                "hu": "Csodáld meg a román stílusú kaput a bibliai jelenetekkel.",
+                "ro": "Admirați portalul romanic cu scene biblice.",
+                "en": "Admire the Romanesque portal with biblical scenes."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Van Gogh",
+                "hu": "Espace Van Gogh",
+                "ro": "Espace Van Gogh",
+                "en": "Espace Van Gogh"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist exakt so bepflanzt, wie Van Gogh ihn malte.",
+                "hu": "A kertet pontosan úgy ültették be, ahogy Van Gogh megfestette.",
+                "ro": "Grădina este plantată exact așa cum a pictat-o Van Gogh.",
+                "en": "The garden is planted exactly as Van Gogh painted it."
+              }
+            },
+            {
+              "name": {
+                "de": "Luma Arles & Der Turm",
+                "hu": "Luma Arles és a Frank Gehry torony",
+                "ro": "Luma Arles și Turnul Frank Gehry",
+                "en": "Luma Arles & The Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Edelstahlpaneele reflektieren das Licht der Provence.",
+                "hu": "A rozsdamentes acélpanelek visszaverik Provence fényeit.",
+                "ro": "Panourile din oțel inoxidabil reflectă lumina Provencei.",
+                "en": "The stainless steel panels reflect the light of Provence."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhone-Ufer Promenade",
+                "hu": "Rhône-parti sétány",
+                "ro": "Promenada de pe malul Ronului",
+                "en": "Rhône Riverbank Promenade"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang über dem Fluss.",
+                "hu": "Tökéletes hely a folyó feletti naplementéhez.",
+                "ro": "Perfect pentru apusul soarelui peste râu.",
+                "en": "Perfect for sunset over the river."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gardiane de Taureau",
+                "tip": "Traditionelles Schmorgericht vom Camargue-Stier mit Rotwein."
+              },
+              {
+                "name": "Le Galoubet",
+                "tip": "Beliebtes Bistro mit schattiger Terrasse und regionaler Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gardiane de Taureau",
+                "tip": "Hagyományos vörösboros bikapörkölt Camargue-i fekete rizzsel."
+              },
+              {
+                "name": "Le Galoubet",
+                "tip": "Népszerű bisztró árnyas terasszal és helyi alapanyagokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gardiane de Taureau",
+                "tip": "Tocană tradițională de taur din Camargue cu vin roșu."
+              },
+              {
+                "name": "Le Galoubet",
+                "tip": "Bistro popular cu terasă umbrită și bucătărie regională."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gardiane de Taureau",
+                "tip": "Traditional bull stew from Camargue cooked in red wine."
+              },
+              {
+                "name": "Le Galoubet",
+                "tip": "Popular bistro with a shaded terrace and local seasonal food."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Alyscamps",
+                "tip": "Antike Nekropole mit einer ruhigen Allee aus Steinsarkophagen.",
+                "emoji": "🌳"
+              },
+              {
+                "name": "Quai de la Roquette",
+                "tip": "Ruhigerer Teil des Flussufers abseits der Massen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alyscamps",
+                "tip": "Ókori nekropolisz csendes sétánnyal és kőszarkofágokkal.",
+                "emoji": "🌳"
+              },
+              {
+                "name": "Quai de la Roquette",
+                "tip": "Csendesebb folyóparti rész távol a tömegtől.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alyscamps",
+                "tip": "Necropolă antică cu o alee liniștită de sarcofage din piatră.",
+                "emoji": "🌳"
+              },
+              {
+                "name": "Quai de la Roquette",
+                "tip": "Parte liniștită a malului râului, departe de aglomerație.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Alyscamps",
+                "tip": "Ancient Roman necropolis with a quiet alley of stone sarcophagi.",
+                "emoji": "🌳"
+              },
+              {
+                "name": "Quai de la Roquette",
+                "tip": "Quieter part of the riverbank away from the main crowds.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Samstagsmarkt",
+                "tip": "Einer der größten und schönsten Märkte der Provence (Boulevard des Lices)."
+              },
+              {
+                "name": "Moustier",
+                "tip": "Exklusive provenzalische Stoffe und Textilien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szombati piac",
+                "tip": "Provence egyik legnagyobb és legszebb piaca a Boulevard des Lices-en."
+              },
+              {
+                "name": "Moustier",
+                "tip": "Exkluzív provence-i szövetek és textiltermékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de sâmbătă",
+                "tip": "Una dintre cele mai mari și frumoase piețe din Provence pe Boulevard des Lices."
+              },
+              {
+                "name": "Moustier",
+                "tip": "Țesături și textile provensale exclusive."
+              }
+            ],
+            "en": [
+              {
+                "name": "Saturday Market",
+                "tip": "One of the largest and most beautiful markets in Provence on Boulevard des Lices."
+              },
+              {
+                "name": "Moustier",
+                "tip": "Exclusive Provençal fabrics and textile products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie den Pass Monument, wenn Sie mehrere römische Stätten besuchen möchten.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Mittagessen gibt es meist zwischen 12:00 und 14:00 Uhr, reservieren Sie vorab.",
+              "Die Hitze im Sommer kann intensiv sein, nutzen Sie die frühen Morgenstunden."
+            ],
+            "hu": [
+              "Vegyél Monument bérletet, ha több római kori helyszínt is meg akarsz nézni.",
+              "Viselj kényelmes cipőt az óváros macskaköves utcái miatt.",
+              "Az ebédidő szigorúan 12:00 és 14:00 között van, érdemes asztalt foglalni.",
+              "A nyári hőség erős lehet, használd ki a kora reggeli órákat."
+            ],
+            "ro": [
+              "Cumpărați Pass Monument dacă intenționați să vizitați mai multe situri romane.",
+              "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+              "Prânzul este servit de obicei între 12:00 și 14:00, rezervați din timp.",
+              "Căldura de vară poate fi intensă, profitați de orele dimineții."
+            ],
+            "en": [
+              "Purchase the Pass Monument if you plan to visit multiple Roman sites.",
+              "Wear comfortable shoes for the cobblestone streets of the old town.",
+              "Lunch is usually served between 12:00 and 14:00, booking is recommended.",
+              "Summer heat can be intense, so make the most of the early morning hours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Amphitheater unter seinen massiven Steinbögen Schutz vor dem Regen. Mittags flüchten wir in den überdachten Kreuzgang von Saint-Trophime an der Place de la République. Nachmittags erkunden wir die farbenfrohen Innenräume des Espace Van Gogh und den futuristischen Luma-Turm. Abends spazieren wir mit dem Schirm an der stimmungsvoll glänzenden Rhône entlang.",
+            "hu": "Reggel az amfiteátrum hatalmas kőívei nyújtanak menedéket a zápor elől. Délben a Saint-Trophime kolostor fedett kerengőjébe húzódunk a Place de la République-en. Délután az Espace Van Gogh belső tereit és a futurisztikus Luma-torony kiállításait fedezzük fel. Este esernyővel sétálunk a Rhône-parton, ahol a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața, amfiteatrul oferă adăpost sub arcadele sale masive de piatră. La prânz, ne refugiem în claustrul acoperit de la Saint-Trophime din Place de la République. După-amiaza explorăm interiorul colorat de la Espace Van Gogh și turnul futurist Luma. Seara ne plimbăm cu umbrela pe malul Ronului, admirând reflexiile luminilor orașului în apă.",
+            "en": "Morning finds us under the massive stone arches of the Amphitheatre, shielding us from the rain. At noon, we retreat to the covered cloisters of Saint-Trophime at Place de la République. The afternoon is spent inside the colorful Espace Van Gogh and the futuristic Luma Tower. In the evening, a walk along the Rhône with an umbrella reveals beautiful reflections on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Arles Amphitheatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die inneren Korridore, um trocken zu bleiben.",
+                "hu": "Használja a belső folyosókat, hogy száraz maradjon.",
+                "ro": "Folosiți coridoarele interioare pentru a rămâne uscați.",
+                "en": "Use the internal corridors to stay dry during your visit."
+              }
+            },
+            {
+              "name": "Ancient Theatre",
+              "tip_5lang": {
+                "de": "Vorsicht, die antiken Stufen sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, az antik lépcsők nedvesen nagyon csúszósak.",
+                "ro": "Atenție, treptele antice sunt foarte alunecoase pe ploaie.",
+                "en": "Caution: the ancient stones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Place de la République & Saint-Trophime",
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist ein perfekter, trockener Rückzugsort.",
+                "hu": "A kolostor kerengője tökéletes, fedett búvóhely.",
+                "ro": "Claustrul este un refugiu perfect și uscat.",
+                "en": "The cloister is a perfect, dry sanctuary during rain."
+              }
+            },
+            {
+              "name": "Espace Van Gogh",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Garten von den Arkaden aus.",
+                "hu": "Élvezze a kert látványát az emeleti árkádok védelméből.",
+                "ro": "Admirați grădina de la adăpostul arcadelor.",
+                "en": "Enjoy the garden views from the safety of the arcades."
+              }
+            },
+            {
+              "name": "Luma Arles & The Tower",
+              "tip_5lang": {
+                "de": "Ideal für Regentage: Modernste Kunst in Frank Gehrys Turm.",
+                "hu": "Ideális esőben: modern művészet Frank Gehry tornyában.",
+                "ro": "Ideal pentru ploaie: artă modernă în turnul lui Frank Gehry.",
+                "en": "Ideal for rain: modern art inside Frank Gehry's tower."
+              }
+            },
+            {
+              "name": "Rhône Riverbank Promenade",
+              "tip_5lang": {
+                "de": "Die Lichter spiegeln sich bei Regen wunderschön im Fluss.",
+                "hu": "A fények esőben gyönyörűen tükröződnek a folyó vizén.",
+                "ro": "Luminile se reflectă superb în râu pe timp de ploaie.",
+                "en": "The city lights reflect beautifully in the river during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit Profil, da die Kalksteinpflaster extrem rutschig werden.",
+              "Die Passage an der Place de la République bietet guten Windschutz.",
+              "Nutzen Sie die Luma-Bibliothek als warmen Wartebereich.",
+              "Ein Besuch im Museon Arlaten ist eine exzellente Indoor-Alternative.",
+              "Kaufen Sie einen stabilen Schirm, der dem Wind standhält."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt, mert a mészkő burkolat nagyon csúszik.",
+              "A Place de la République árkádjai jó szélvédelmet nyújtanak.",
+              "Használja a Luma könyvtárát meleg várakozóhelyként.",
+              "A Museon Arlaten látogatása kiváló beltéri alternatíva.",
+              "Vegyen erős esernyőt, amely ellenáll a provence-i szélnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență, pavajul de calcar devine alunecos.",
+              "Pasajul din Place de la République oferă protecție bună contra vântului.",
+              "Folosiți biblioteca Luma ca spațiu cald de așteptare.",
+              "O vizită la Museon Arlaten este o alternativă excelentă de interior.",
+              "Cumpărați o umbrelă rezistentă care să facă față vântului."
+            ],
+            "en": [
+              "Wear shoes with good grip as the limestone paving gets very slippery.",
+              "The arcade at Place de la République offers good wind protection.",
+              "Use the Luma library as a warm waiting area between stops.",
+              "Visiting Museon Arlaten is an excellent indoor alternative.",
+              "Invest in a sturdy umbrella that can withstand the local wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beleuchtet das Amphitheater mit tiefstehender Sonne. Mittags wärmen wir uns in einem Café an der Place de la République auf. Nachmittags bietet das Luma-Gelände windgeschützte Ecken für moderne Architektur. Da die Sonne früh untergeht, beenden wir den Tag gegen 17:00 Uhr mit einem kalten, aber klaren Blick auf die Rhône.",
+            "hu": "A tiszta téli reggel alacsonyan járó napfénnyel világítja meg az amfiteátrumot. Délben egy kávézóban melegszünk fel a Place de la République környékén. Délután a Luma negyed szélvédett sarkaiban csodáljuk a modern építészetet. Mivel a nap korán nyugszik, 17:00 körül a Rhône-parti hideg, de kristálytiszta látvánnyal zárjuk a napot.",
+            "ro": "O dimineață senină de iarnă luminează amfiteatrul cu un soare blând. La prânz, ne încălzim într-o cafenea din apropierea Place de la République. După-amiaza căutăm colțurile ferite de vânt din zona Luma pentru arhitectură modernă. Deoarece soarele apune devreme, încheiem ziua la 17:00 cu o vedere rece, dar clară asupra Ronului.",
+            "en": "A crisp winter morning illuminates the Amphitheatre with low-hanging sun. At noon, we warm up in a cozy café near Place de la République. The afternoon is spent finding wind-sheltered spots at Luma to admire the architecture. As the sun sets early, we conclude our day around 5:00 PM with a cold but crystal-clear view of the Rhône."
+          },
+          "stops": [
+            {
+              "name": "Arles Amphitheatre",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a tiszta kilátást a szokásos turistahadak nélkül.",
+                "ro": "Bucurați-vă de vederea clară fără mulțimile de turiști.",
+                "en": "Enjoy the clear views without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Ancient Theatre",
+              "tip_5lang": {
+                "de": "Achtung vor dem Mistral-Wind, der hier oft kräftig weht.",
+                "hu": "Vigyázzon a Misztrál szélre, amely itt gyakran erősen fúj.",
+                "ro": "Atenție la vântul Mistral care suflă adesea puternic aici.",
+                "en": "Watch out for the Mistral wind, which often blows hard here."
+              }
+            },
+            {
+              "name": "Place de la République & Saint-Trophime",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippen-Ausstellung (Dezember).",
+                "hu": "Nézze meg a karácsonyi betlehem-kiállítást (decemberben).",
+                "ro": "Vizitați expoziția de Crăciun (în luna decembrie).",
+                "en": "Visit the Christmas nativity scene exhibition in December."
+              }
+            },
+            {
+              "name": "Espace Van Gogh",
+              "tip_5lang": {
+                "de": "Der Innenhof ist im Winter oft erstaunlich mild.",
+                "hu": "A belső udvar télen gyakran meglepően enyhe.",
+                "ro": "Curtea interioară este adesea surprinzător de blândă iarna.",
+                "en": "The inner courtyard is often surprisingly mild in winter."
+              }
+            },
+            {
+              "name": "Luma Arles & The Tower",
+              "tip_5lang": {
+                "de": "Der Turm glänzt im Winterlicht besonders eindrucksvoll.",
+                "hu": "A torony téli fényben különösen látványosan csillog.",
+                "ro": "Turnul strălucește spectaculos în lumina rece de iarnă.",
+                "en": "The tower glimmers impressively in the crisp winter light."
+              }
+            },
+            {
+              "name": "Rhône Riverbank Promenade",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 17:15 Uhr – warme Jacke nötig!",
+                "hu": "Korai napnyugta 17:15 körül – meleg kabát kötelező!",
+                "ro": "Apus devreme în jur de 17:15 – aveți nevoie de o haină groasă!",
+                "en": "Early sunset around 5:15 PM – a warm jacket is essential!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Mistral kann die gefühlte Temperatur stark senken.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes ratsam.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich.",
+              "Besuchen Sie das Festival 'Drôles de Noëls' Ende Dezember.",
+              "Nutzen Sie das Mittagslicht für Fotos, es ist besonders weich."
+            ],
+            "hu": [
+              "A Misztrál szél jelentősen csökkentheti a hőérzetet.",
+              "A szél miatt a réteges öltözködés erősen ajánlott.",
+              "Sok kávézónak van fűtött terasza a téli időszakban is.",
+              "Látogassa meg a 'Drôles de Noëls' fesztivált december végén.",
+              "Használja ki a déli fényeket fotózáshoz, ilyenkor a leglágyabbak."
+            ],
+            "ro": [
+              "Vântul Mistral poate scădea semnificativ temperatura resimțită.",
+              "Îmbrăcămintea în straturi este recomandată din cauza vântului.",
+              "Multe cafenele au încălzitoare pe terasă și în timpul iernii.",
+              "Vizitați festivalul 'Drôles de Noëls' la sfârșitul lunii decembrie.",
+              "Folosiți lumina de la prânz pentru fotografii, este foarte caldă."
+            ],
+            "en": [
+              "The Mistral wind can significantly lower the perceived temperature.",
+              "Layered clothing is highly recommended to combat the wind chill.",
+              "Many cafés maintain heated outdoor terraces even in winter.",
+              "Visit the 'Drôles de Noëls' festival at the end of December.",
+              "Take advantage of the midday light for photos; it's especially soft."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -551,6 +995,358 @@
           "Follow the 'Via Rhona' signs.",
           "Watch out for the Mistral wind, which can make pedaling difficult."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Arles lässt sich wunderbar mit dem Fahrrad erkunden. Starten Sie bei Alyscamps und radeln Sie dann zum modernen Luma-Gelände. Folgen Sie dem Kanal zum berühmten Pont Van Gogh außerhalb des Zentrums.\n\nNach einem kulturellen Stopp im Musée de l'Arles Antique genießen Sie die Fahrt entlang der Rhone-Dämme. Die flache Landschaft der Camargue beginnt direkt vor den Toren der Stadt.",
+            "hu": "Arles remekül felfedezhető két keréken. Kezdjen az Alyscamps-nál, majd tekerjen a modern Luma negyedbe. Kövesse a csatorna partját a városon kívüli híres Van Gogh-hídhoz.\n\nAz Antik Múzeum megtekintése után élvezze a tekerést a Rhône gátján. A Camargue sík vidéke közvetlenül a város kapui előtt kezdődik.",
+            "ro": "Arles poate fi explorat minunat cu bicicleta. Începeți la Alyscamps, apoi pedalați spre zona modernă Luma. Urmați canalul până la faimosul pod Van Gogh din afara centrului.\n\nDupă o oprire culturală la Muzeul Arles Antic, bucurați-vă de plimbarea pe digurile Ronului. Peisajul plat al Camargue începe chiar la porțile orașului.",
+            "en": "Arles is wonderful to explore by bike. Start at Alyscamps and then cycle to the modern Luma site. Follow the canal to the famous Van Gogh Bridge outside the center.\n\nAfter a cultural stop at the Arles Antique Museum, enjoy the ride along the Rhône dams. The flat Camargue landscape begins right outside the city gates."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alyscamps",
+                "hu": "Alyscamps",
+                "ro": "Alyscamps",
+                "en": "Alyscamps"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang der schattigen Allee.",
+                "hu": "Tekerj végig az árnyas fasoron.",
+                "ro": "Pedalați de-a lungul aleii umbrite.",
+                "en": "Cycle along the shaded avenue."
+              }
+            },
+            {
+              "name": {
+                "de": "Luma Arles",
+                "hu": "Luma Arles",
+                "ro": "Luma Arles",
+                "en": "Luma Arles"
+              },
+              "tip_5lang": {
+                "de": "Es gibt viele Fahrradabstellplätze am Eingang.",
+                "hu": "Sok kerékpártároló van a bejáratnál.",
+                "ro": "Există multe rastele pentru biciclete la intrare.",
+                "en": "There are many bike racks at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l'Arles Antique",
+                "hu": "Arles-i Antik Múzeum",
+                "ro": "Muzeul Arles Antic",
+                "en": "Arles Antique Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das römische Lastkahn-Wrack.",
+                "hu": "Nézd meg a római kori folyami hajó roncsait.",
+                "ro": "Vedeți epava barjei romane.",
+                "en": "See the Roman river barge wreck."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Van Gogh (Langlois-Brücke)",
+                "hu": "Van Gogh-híd (Langlois-híd)",
+                "ro": "Podul Van Gogh",
+                "en": "Van Gogh Bridge"
+              },
+              "tip_5lang": {
+                "de": "Rekonstruktion der Brücke aus Van Goghs Gemälden.",
+                "hu": "Van Gogh festményeiről ismert híd rekonstrukciója.",
+                "ro": "Reconstrucția podului din picturile lui Van Gogh.",
+                "en": "Reconstruction of the bridge from Van Gogh's paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhone-Damm Radweg",
+                "hu": "Rhône-gát kerékpárút",
+                "ro": "Pista de biciclete de pe digul Ronului",
+                "en": "Rhône Dam Cycle Path"
+              },
+              "tip_5lang": {
+                "de": "Flacher Weg mit Blick auf den Fluss und die Stadt.",
+                "hu": "Sík útvonal kilátással a folyóra és a városra.",
+                "ro": "Traseu plat cu vedere la râu și la oraș.",
+                "en": "Flat path with views of the river and the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Camargue-Reis",
+                "tip": "Probieren Sie den geschützten roten Reis der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Camargue-i rizs",
+                "tip": "Kóstolja meg a régió védett vörös rizsét."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orez de Camargue",
+                "tip": "Gustați orezul roșu protejat al regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Camargue Rice",
+                "tip": "Try the protected red rice of the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kanal von Arles nach Bouc",
+                "tip": "Ruhiger Radweg am Wasser.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arles-Bouc csatorna",
+                "tip": "Csendes kerékpárút a víz mellett.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canalul Arles-Bouc",
+                "tip": "Pistă de biciclete liniștită lângă apă.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canal d'Arles à Bouc",
+                "tip": "Quiet cycle path along the water.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl aus den Alpilles",
+                "tip": "Direkt vom Erzeuger in der Nähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alpilles-i olívaolaj",
+                "tip": "Közvetlenül a közeli termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline din Alpilles",
+                "tip": "Direct de la producătorii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alpilles Olive Oil",
+                "tip": "Direct from local producers nearby."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Via Rhona' Beschilderung.",
+              "Achten Sie auf den Mistral-Wind, der das Treten erschweren kann."
+            ],
+            "hu": [
+              "Kövesse a 'Via Rhona' jelzéseket.",
+              "Vigyázzon a misztrál széllel, ami megnehezítheti a tekerést."
+            ],
+            "ro": [
+              "Urmați semnalizarea 'Via Rhona'.",
+              "Atenție la vântul Mistral, care poate îngreuna pedalarea."
+            ],
+            "en": [
+              "Follow the 'Via Rhona' signs.",
+              "Watch out for the Mistral wind, which can make pedaling difficult."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir zügig zu den Alyscamps, wo hohe Bäume etwas Schutz bieten. Mittags verbringen wir viel Zeit im trockenen Luma-Zentrum. Nachmittags ist das Antikenmuseum unser Ziel, ein perfekter Ort für lange Regentage. Später nutzen wir die asphaltierten Radwege am Rhône-Damm, um Pfützen in der Altstadt zu vermeiden.",
+            "hu": "Reggel gyorsan az Alyscamps-hoz tekerünk, ahol a magas fák adnak némi védelmet. Délben sok időt töltünk a száraz Luma központban. Délután az Antik Múzeum a cél, ami tökéletes hely a hosszú esős órákra. Később a Rhône-gát aszfaltozott kerékpárútjait használjuk, elkerülve az óvárosi tócsákat.",
+            "ro": "Dimineața pedalăm rapid spre Alyscamps, unde copacii înalți oferă protecție. La prânz petrecem mult timp în centrul uscat Luma. După-amiaza destinația este Muzeul de Antichități, loc perfect pentru orele lungi de ploaie. Mai târziu folosim pistele asfaltate de pe digul Ronului pentru a evita bălțile din centru.",
+            "en": "In the morning, we cycle swiftly to Alyscamps where tall trees offer some cover. Midday is spent in the dry Luma complex. The afternoon destination is the Antique Museum, perfect for long rainy hours. Later, we use the paved cycle paths on the Rhône dam to avoid the puddles of the old town."
+          },
+          "stops": [
+            {
+              "name": "Alyscamps",
+              "tip_5lang": {
+                "de": "Die Pappelallee bietet natürlichen Schutz vor leichtem Regen.",
+                "hu": "A nyárfasor természetes védelmet nyújt szemerkélő esőben.",
+                "ro": "Aleea cu plopi oferă protecție naturală contra ploii ușoare.",
+                "en": "The poplar alley provides natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang des Parks.",
+                "hu": "Biztonságos biciklitárolók közvetlenül a park bejáratánál.",
+                "ro": "Rafturi de biciclete sigure chiar la intrarea în parc.",
+                "en": "Secure bike racks are located right at the park entrance."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit einplanen, um den Regen drinnen abzuwarten.",
+                "hu": "Tervezzen több időt, hogy bent várja meg az eső végét.",
+                "ro": "Planificați mai mult timp pentru a aștepta oprirea ploii.",
+                "en": "Plan extra time to wait out the rain inside the museum."
+              }
+            },
+            {
+              "name": "Van Gogh Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf unbefestigten Wegen.",
+                "hu": "Legyen óvatos a hídfőhöz vezető föutakon eső után.",
+                "ro": "Atenție la drumul neasfaltat către pod pe timp de ploaie.",
+                "en": "Be careful on the unpaved paths leading to the bridge."
+              }
+            },
+            {
+              "name": "Rhône Dam Cycle Path",
+              "tip_5lang": {
+                "de": "Glatte Fahrbahn, aber Vorsicht vor Windböen am Wasser.",
+                "hu": "Sima aszfalt, de vigyázzon a vízparti széllökésekre.",
+                "ro": "Asfalt neted, dar atenție la rafalele de vânt de lângă apă.",
+                "en": "Smooth pavement, but watch out for wind gusts by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob Ihr Mietrad Schutzbleche hat.",
+              "Vermeiden Sie Kopfsteinpflastergassen, die sehr rutschig sind.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Die Bremswege auf nassem Asphalt verlängern sich deutlich.",
+              "Nutzen Sie die Radstation am Bahnhof für kleine Reparaturen."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a bérelt kerékpáron van-e sárvédő.",
+              "Kerülje a macskaköves utcákat, mert rendkívül csúsznak.",
+              "Viseljen láthatósági esőkabátot a jobb észlelhetőségért.",
+              "A fékút vizes aszfalton jelentősen meghosszabbodik.",
+              "Használja a vasútállomás melletti szervizpontot javításra."
+            ],
+            "ro": [
+              "Verificați dacă bicicleta închiriată are aripi de protecție.",
+              "Evitați străzile cu piatră cubică, sunt extrem de alunecoase.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Distanța de frânare pe asfalt umed crește considerabil.",
+              "Folosiți stația de biciclete de la gară pentru mici reparații."
+            ],
+            "en": [
+              "Check if your rental bike is equipped with mudguards.",
+              "Avoid cobblestone alleys as they become dangerously slippery.",
+              "Wear a hi-vis rain jacket for better visibility in traffic.",
+              "Braking distances increase significantly on wet pavement.",
+              "Use the bike station near the train station for minor repairs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir frisch durch die Alyscamps im klaren Winterlicht. Mittags machen wir Halt bei Luma, um uns aufzuwärmen. Der Nachmittag im Antikenmuseum ist perfekt, wenn die Kälte zunimmt. Vor Sonnenuntergang erreichen wir die Van-Gogh-Brücke, die im tiefen Winterlicht fast magisch wirkt. Den Tag beenden wir auf den flachen Wegen am Rhône-Damm.",
+            "hu": "Reggel frissen tekerünk át az Alyscamps-on a tiszta téli fényben. Délben a Luma negyedben állunk meg felmelegedni. A délután az Antik Múzeumban tökéletes, amikor a hideg fokozódik. Naplemente előtt érjük el a Van Gogh-hidat, amely varázslatos a téli világításban. A napot a Rhône-gát sík útjain zárjuk.",
+            "ro": "Dimineața pedalăm energic prin Alyscamps în lumina clară de iarnă. La prânz ne oprim la Luma pentru a ne încălzi. După-amiaza la Muzeul de Antichități este perfectă când se lasă frigul. Înainte de apus ajungem la Podul Van Gogh, care arată magic. Încheiem ziua pe drumurile plane de pe digul Ronului.",
+            "en": "Morning finds us cycling through Alyscamps in the crisp winter light. At noon, we stop at Luma to warm up indoors. The afternoon at the Antique Museum is perfect as the temperature drops. Before sunset, we reach the Van Gogh Bridge, which looks magical in winter light. We end the day on the flat paths of the Rhône dam."
+          },
+          "stops": [
+            {
+              "name": "Alyscamps",
+              "tip_5lang": {
+                "de": "Die Bäume sind kahl, was weite Sichtachsen ermöglicht.",
+                "hu": "A fák kopaszok, ami tágas látóteret enged a fotózáshoz.",
+                "ro": "Copacii sunt desfrunziți, permițând vederi panoramice.",
+                "en": "The trees are bare, allowing for wide viewing angles."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Drinnen ist es angenehm temperiert, ideal für eine Pause.",
+                "hu": "Bent kellemes a hőmérséklet, ideális egy kis pihenőre.",
+                "ro": "Interiorul este bine încălzit, ideal pentru o pauză.",
+                "en": "The interior is well-heated, ideal for a short break."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Garderobe für dicke Winterjacken vorhanden.",
+                "hu": "Ingyenes ruhatár áll rendelkezésre a vastag kabátoknak.",
+                "ro": "Garderobă gratuită disponibilă pentru hainele de iarnă.",
+                "en": "Free cloakroom available for bulky winter jackets."
+              }
+            },
+            {
+              "name": "Van Gogh Bridge",
+              "tip_5lang": {
+                "de": "Besonders fotogen bei tiefstehender Wintersonne.",
+                "hu": "Különösen fotogén az alacsonyan járó téli napfényben.",
+                "ro": "Foarte fotogenic în lumina soarelui de iarnă.",
+                "en": "Extremely photogenic in the low winter sunlight."
+              }
+            },
+            {
+              "name": "Rhône Dam Cycle Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Gegenwind (Mistral) aus Norden.",
+                "hu": "Vigyázzon az erős északi szembe szélre (Misztrál).",
+                "ro": "Atenție la vântul puternic din față (Mistral) dinspre nord.",
+                "en": "Watch out for strong headwinds (Mistral) from the north."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Fahrt am Damm.",
+              "Die Sonne verschwindet hinter den Hügeln bereits vor 17 Uhr.",
+              "Prüfen Sie die Funktion der Fahrradbeleuchtung vor Abfahrt.",
+              "Heiße Schokolade in der Luma-Kantine ist sehr zu empfehlen.",
+              "Der Mistral kann das Radfahren gegen den Wind extrem mühsam machen."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a gáton való tekeréshez.",
+              "A nap már 17 óra előtt eltűnik a dombok mögött.",
+              "Indulás előtt ellenőrizze a kerékpár világítását.",
+              "A Luma menzáján a forró csokoládé nagyon ajánlott.",
+              "A Misztrál szél miatt a széllel szemben haladás fárasztó lehet."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru tura de pe dig.",
+              "Soarele dispare după dealuri înainte de ora 17:00.",
+              "Verificați funcționarea luminilor bicicletei înainte de plecare.",
+              "Ciocolata caldă de la cantina Luma este foarte recomandată.",
+              "Vântul Mistral poate face pedalatul contra vântului epuizant."
+            ],
+            "en": [
+              "Wear windproof gloves for the ride along the dam.",
+              "The sun disappears behind the hills before 5:00 PM.",
+              "Check that your bike lights are working before you set off.",
+              "Hot chocolate at the Luma canteen is highly recommended.",
+              "The Mistral wind can make cycling against it extremely difficult."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1578,358 @@
           "Avoid the center by car, use P+R parking instead.",
           "Finding parking during the Saturday market is nearly impossible."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie auch die Schätze knapp außerhalb von Arles. Nach der Arena im Zentrum fahren Sie zur beeindruckenden Abbaye de Montmajour. Der Tag endet im Antik-Museum mit seinen wertvollen römischen Funden.",
+            "hu": "Autóval az Arles közvetlen közelében lévő kincseket is elérheti. A központi amfiteátrum után látogasson el a lenyűgöző Montmajour-apátsághoz. A napot az Antik Múzeum értékes római leletei zárják.",
+            "ro": "Cu mașina puteți ajunge și la comorile aflate chiar în afara orașului Arles. După arena din centru, conduceți către impresionanta Abație Montmajour. Ziua se încheie la Muzeul Antic cu valoroasele sale descoperiri romane.",
+            "en": "By car, you can also reach the treasures just outside Arles. After visiting the arena in the center, drive to the impressive Montmajour Abbey. The day ends at the Antique Museum with its precious Roman finds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater (Zentrum)",
+                "hu": "Amfiteátrum (központ)",
+                "ro": "Amfiteatru (centru)",
+                "en": "Amphitheatre (center)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Centre.",
+                "hu": "Parkoljon a Centre parkolóházban.",
+                "ro": "Parcați în parcarea etajată Centre.",
+                "en": "Park in the Centre parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Luma Arles",
+                "hu": "Luma Arles",
+                "ro": "Luma Arles",
+                "en": "Luma Arles"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Parc des Ateliers.",
+                "hu": "Nézze meg a kiállításokat a Parc des Ateliers-ben.",
+                "ro": "Vizitați expozițiile din Parc des Ateliers.",
+                "en": "Visit the exhibitions in the Parc des Ateliers."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye de Montmajour",
+                "hu": "Montmajour-apátság",
+                "ro": "Abația Montmajour",
+                "en": "Montmajour Abbey"
+              },
+              "tip_5lang": {
+                "de": "Mittelalterliche Abtei auf einem Felsen über dem Sumpf.",
+                "hu": "Középkori apátság egy sziklán a mocsár felett.",
+                "ro": "Abație medievală pe o stâncă deasupra mlaștinii.",
+                "en": "Medieval abbey on a rock above the marshes."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l'Arles Antique",
+                "hu": "Arles-i Antik Múzeum",
+                "ro": "Muzeul Arles Antic",
+                "en": "Arles Antique Museum"
+              },
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt davor.",
+                "hu": "Nagy ingyenes parkoló közvetlenül előtte.",
+                "ro": "Parcare mare gratuită chiar în față.",
+                "en": "Large free parking lot right in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Alyscamps",
+                "hu": "Alyscamps",
+                "ro": "Alyscamps",
+                "en": "Alyscamps"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang durch die antike Totenstadt.",
+                "hu": "Séta az ókori holtak városában.",
+                "ro": "Plimbare prin orașul antic al morților.",
+                "en": "Stroll through the ancient city of the dead."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Saucisson d'Arles",
+                "tip": "Würzige Esel- oder Rindersalami."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arles-i kolbász",
+                "tip": "Fűszeres szalámi különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salam de Arles",
+                "tip": "Specialitate de salam picant."
+              }
+            ],
+            "en": [
+              {
+                "name": "Saucisson d'Arles",
+                "tip": "Spicy local sausage specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hügel von Montmajour",
+                "tip": "Blick über die Reisfelder.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Montmajour-domb",
+                "tip": "Kilátás a rizsföldekre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Montmajour",
+                "tip": "Vedere peste câmpurile de orez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Montmajour Hill",
+                "tip": "View over the rice fields.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Occitane en Provence",
+                "tip": "Hochwertige Kosmetik aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Occitane en Provence",
+                "tip": "Kiváló minőségű helyi kozmetikumok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Occitane en Provence",
+                "tip": "Cosmetice de înaltă calitate din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Occitane en Provence",
+                "tip": "High-quality regional cosmetics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Meiden Sie das Zentrum mit dem Auto, nutzen Sie P+R.",
+              "Parkplatzsuche während des Marktes am Samstag ist fast unmöglich."
+            ],
+            "hu": [
+              "Kerülje el a belvárost autóval, használja a P+R parkolókat.",
+              "A szombati piac ideje alatt szinte lehetetlen parkolót találni."
+            ],
+            "ro": [
+              "Evitați centrul cu mașina, folosiți parcările P+R.",
+              "Găsirea unui loc de parcare în timpul pieței de sâmbătă este aproape imposibilă."
+            ],
+            "en": [
+              "Avoid the center by car, use P+R parking instead.",
+              "Finding parking during the Saturday market is nearly impossible."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem im Parkhaus Centre und besichtigen das Amphitheater. Mittags fahren wir zum Luma-Gelände, wo wir direkt vor der Tür parken können. Nachmittags führt uns die Fahrt zur Montmajour-Abtei, die im Regen mystisch wirkt. Später besuchen wir das Antikenmuseum und beenden den Tag bei den Alyscamps, immer nah am Auto.",
+            "hu": "Reggel kényelmesen leparkolunk a Centre parkolóházban az amfiteátrum mellett. Délben a Luma negyedbe hajtunk, ahol közvetlenül a bejáratnál állunk meg. Délután a Montmajour apátsághoz autózunk, amely misztikus az esőben. Később az Antik Múzeumot nézzük meg, majd az Alyscamps-nál zárunk, mindig közel az autóhoz.",
+            "ro": "Dimineața parcăm comod în garajul Centre lângă amfiteatru. La prânz conducem spre Luma, unde putem parca chiar la intrare. După-amiaza mergem la Abația Montmajour, care arată mistic pe ploaie. Mai târziu vizităm Muzeul de Antichități și Alyscamps, rămânând mereu aproape de mașină.",
+            "en": "In the morning, we park conveniently in the Centre garage near the Amphitheatre. Midday, we drive to Luma and park right by the entrance. The afternoon takes us to Montmajour Abbey, which looks mystical in the rain. Later, we visit the Antique Museum and end at Alyscamps, always staying close to the car."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre (center)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parking des Lices' für kurzen Weg.",
+                "hu": "Használja a 'Parking des Lices' parkolót a rövid sétaútért.",
+                "ro": "Folosiți parcarea 'Parking des Lices' pentru acces rapid.",
+                "en": "Use the 'Parking des Lices' garage for the shortest walk."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Überdachte Wege führen vom Parkplatz P6 zum Turm.",
+                "hu": "Fedett útvonalak vezetnek a P6 parkolótól a toronyig.",
+                "ro": "Căi acoperite duc de la parcarea P6 către turn.",
+                "en": "Covered walkways lead from parking P6 to the tower."
+              }
+            },
+            {
+              "name": "Montmajour Abbey",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah, aber der Weg zur Abtei ist ungeschützt.",
+                "hu": "A parkoló közel van, de az apátsághoz vezető út nyitott.",
+                "ro": "Parcarea e aproape, dar drumul spre abație e neprotejat.",
+                "en": "Parking is close, but the path to the abbey is exposed."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, ingyenes parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare și gratuită chiar în fața intrării.",
+                "en": "Large free parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": "Alyscamps",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Avenue des Alyscamps.",
+                "hu": "Parkoljon az Avenue des Alyscamps mentén.",
+                "ro": "Parcați de-a lungul Avenue des Alyscamps.",
+                "en": "Park along the Avenue des Alyscamps for easy access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+              "Einige Straßen in der Altstadt sind bei Regen sehr eng.",
+              "Nutzen Sie die App 'Flowbird' zum Bezahlen der Parkgebühren.",
+              "Die Montmajour-Abtei hat bei starkem Regen eingeschränkte Außenbereiche.",
+              "Das Parkhaus am Bahnhof ist eine gute Alternative, wenn das Zentrum voll ist."
+            ],
+            "hu": [
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Néhány óvárosi utca esőben nagyon szűknek tűnhet.",
+              "Használja a 'Flowbird' appot a parkolás fizetéséhez.",
+              "A Montmajour apátság külső részei erős esőben korlátozottak.",
+              "A vasútállomás parkolója jó alternatíva, ha a központ tele van."
+            ],
+            "ro": [
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Unele străzi din centrul vechi pot fi foarte înguste pe ploaie.",
+              "Folosiți aplicația 'Flowbird' pentru a plăti parcarea.",
+              "Zonele exterioare de la Abația Montmajour pot fi închise pe ploaie.",
+              "Parcarea de la gară este o alternativă bună dacă centrul e plin."
+            ],
+            "en": [
+              "Never leave valuables visible inside your parked car.",
+              "Some old town streets can feel very narrow during heavy rain.",
+              "Use the 'Flowbird' app to manage and pay for parking.",
+              "Montmajour Abbey may restrict outdoor access during heavy downpours.",
+              "The train station parking is a good backup if the center is full."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das Amphitheater im klaren Winterlicht und finden leicht einen Parkplatz. Mittags wärmt uns die Heizung im Auto auf dem Weg zum Luma-Gelände. Nachmittags besichtigen wir die einsame Montmajour-Abtei, bevor wir zum Antikenmuseum fahren. Den Tag beschließen wir bei den Alyscamps, wenn die Dämmerung früh einsetzt.",
+            "hu": "Reggel a tiszta téli fényben érünk az amfiteátrumhoz, ahol ilyenkor könnyű parkolni. Délben az autó fűtése melenget minket a Luma felé menet. Délután a magányos Montmajour apátságot látogatjuk meg, mielőtt az Antik Múzeumba hajtanánk. A napot az Alyscamps-nál zárjuk, ahogy korán leszáll az alkony.",
+            "ro": "Dimineața ajungem la amfiteatru în lumina clară de iarnă, găsind ușor parcare. La prânz, căldura din mașină ne prinde bine în drum spre Luma. După-amiaza vizităm Abația Montmajour înainte de a merge la Muzeul de Antichități. Încheiem ziua la Alyscamps, pe măsură ce se înserează devreme.",
+            "en": "Morning finds us at the Amphitheatre in crisp winter light with easy parking. At noon, the car's heater warms us up on the way to Luma. The afternoon is for the quiet Montmajour Abbey before driving to the Antique Museum. We conclude the day at Alyscamps just as the early dusk begins to fall."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre (center)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkgebühren oft niedriger oder entfallen.",
+                "hu": "Télen a parkolási díjak gyakran alacsonyabbak vagy elmaradnak.",
+                "ro": "Iarna taxele de parcare sunt adesea mai mici sau inexistente.",
+                "en": "Parking fees are often lower or waived during the winter months."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Der Parkplatz P6 bietet im Winter viel freien Platz.",
+                "hu": "A P6 parkolóban télen rengeteg szabad hely van.",
+                "ro": "Parcarea P6 are multe locuri libere în timpul iernii.",
+                "en": "Parking lot P6 has plenty of available spaces in winter."
+              }
+            },
+            {
+              "name": "Montmajour Abbey",
+              "tip_5lang": {
+                "de": "Windig! Die exponierte Lage macht es im Winter sehr kalt.",
+                "hu": "Szeles! A nyitott elhelyezkedés miatt télen nagyon hideg.",
+                "ro": "Vânt puternic! Locația expusă o face foarte rece iarna.",
+                "en": "Windy! The exposed location makes it very cold in winter."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume laden zum langen Verweilen ein.",
+                "hu": "A jól fűtött termek hosszú nézelődésre hívogatnak.",
+                "ro": "Sălile bine încălzite vă invită la o vizită lungă.",
+                "en": "The well-heated galleries invite a long, leisurely visit."
+              }
+            },
+            {
+              "name": "Alyscamps",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter bereits um 17:00 Uhr.",
+                "hu": "A helyszín télen már 17:00 órakor bezár.",
+                "ro": "Situl se închide deja la ora 17:00 în timpul iernii.",
+                "en": "The site closes as early as 5:00 PM during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter Platanen (Vogelkot).",
+              "Die Windschutzscheibe kann morgens vereist sein.",
+              "Fahren Sie vorsichtig, wenn der Mistral Seitenwinde erzeugt.",
+              "Nutzen Sie die kurzen Wege vom Auto zu den Sehenswürdigkeiten.",
+              "Einige abgelegene Parkplätze sind im Winter schlechter beleuchtet."
+            ],
+            "hu": [
+              "Kerülje a platánfák alatti parkolást a madárürülék miatt.",
+              "A szélvédő reggelente jeges lehet Arles környékén.",
+              "Vezessen óvatosan, ha a Misztrál oldalszelet produkál.",
+              "Használja ki az autótól a látnivalókig vezető rövid utakat.",
+              "Néhány távolabbi parkoló télen rosszabbul van kivilágítva."
+            ],
+            "ro": [
+              "Evitați parcarea sub platani din cauza excrementelor de păsări.",
+              "Parbrizul poate fi înghețat dimineața în zona Arles.",
+              "Conduceți cu grijă dacă vântul Mistral produce rafale laterale.",
+              "Profită de distanțele scurte de la mașină la obiective.",
+              "Unele parcări mai îndepărtate sunt prost iluminate iarna."
+            ],
+            "en": [
+              "Avoid parking under plane trees due to bird droppings.",
+              "The windshield may be iced over on cold winter mornings.",
+              "Drive carefully when the Mistral creates strong crosswinds.",
+              "Take advantage of the short walks from your car to the sites.",
+              "Some remote parking lots are poorly lit during winter evenings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1013,34 +2161,359 @@
           "Download the Envia app for real-time schedules.",
           "Buy 10-ride tickets for better value."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Bussystem von Arles, Envia, verbindet die wichtigsten Sehenswürdigkeiten bequem. Starten Sie am Bahnhof und nutzen Sie die kleinen Elektroshuttles für das enge Zentrum. Besuchen Sie das Antik-Museum und Luma bequem ohne Parkplatzsorgen.",
+            "hu": "Az Arles-i buszhálózat (Envia) kényelmesen összeköti a főbb látnivalókat. Kezdjen a vasútállomáson, és használja a kis elektromos buszokat a szűk belvárosban. Látogasson el az Antik Múzeumba és a Lumához parkolási gondok nélkül.",
+            "ro": "Sistemul de autobuze din Arles, Envia, conectează confortabil principalele obiective. Începeți de la gară și folosiți micile navete electrice pentru centrul îngust. Vizitați Muzeul Antic și Luma fără grija parcării.",
+            "en": "Arles' bus system, Envia, conveniently connects the major sights. Start at the train station and use the small electric shuttles for the narrow center. Visit the Antique Museum and Luma comfortably without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Arles",
+                "hu": "Arles vasútállomás",
+                "ro": "Gara Arles",
+                "en": "Arles Train Station"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für die Stadtbusse.",
+                "hu": "A helyi buszok indulási pontja.",
+                "ro": "Punct de plecare pentru autobuzele locale.",
+                "en": "Starting point for city buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Arles Amphitheater",
+                "hu": "Arles-i amfiteátrum",
+                "ro": "Amfiteatrul din Arles",
+                "en": "Arles Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle 'Navia A'.",
+                "hu": "Használja a 'Navia A' ingajáratot.",
+                "ro": "Folosiți naveta 'Navia A'.",
+                "en": "Use the 'Navia A' shuttle."
+              }
+            },
+            {
+              "name": {
+                "de": "Luma Arles",
+                "hu": "Luma Arles",
+                "ro": "Luma Arles",
+                "en": "Luma Arles"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle 'Luma' direkt am Gelände.",
+                "hu": "A 'Luma' megálló közvetlenül a bejáratnál van.",
+                "ro": "Stația 'Luma' chiar lângă incintă.",
+                "en": "The 'Luma' stop is right by the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l'Arles Antique",
+                "hu": "Arles-i Antik Múzeum",
+                "ro": "Muzeul Arles Antic",
+                "en": "Arles Antique Museum"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 4 verbindet das Museum mit dem Zentrum.",
+                "hu": "A 4-es busz köti össze a múzeumot a központtal.",
+                "ro": "Linia 4 de autobuz leagă muzeul de centru.",
+                "en": "Bus line 4 connects the museum with the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Place de la République",
+                "ro": "Place de la République",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Platz, viele Busse halten in der Nähe.",
+                "hu": "Központi tér, sok busz megáll a közelben.",
+                "ro": "Piață centrală, multe autobuze opresc în apropiere.",
+                "en": "Central square, many buses stop nearby."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fougasse d'Arles",
+                "tip": "Traditionelles Brot mit Oliven oder Speck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arles-i Fougasse",
+                "tip": "Hagyományos kenyér olajbogyóval vagy szalonnával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fougasse de Arles",
+                "tip": "Pâine tradițională cu măsline sau slănină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fougasse d'Arles",
+                "tip": "Traditional bread with olives or bacon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Jardin d'été",
+                "tip": "Öffentlicher Garten nahe dem Theater.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jardin d'été",
+                "tip": "Nyilvános kert a színház közelében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Jardin d'été",
+                "tip": "Grădină publică lângă teatru.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Jardin d'été",
+                "tip": "Public garden near the theatre.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boulangerie Soulier",
+                "tip": "Beste Bäckerei für lokale Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Boulangerie Soulier",
+                "tip": "A legjobb pékség a helyi finomságokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Boulangerie Soulier",
+                "tip": "Cea mai bună brutărie pentru specialități locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Boulangerie Soulier",
+                "tip": "Best bakery for local specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die Envia-App für Echtzeit-Fahrpläne.",
+              "Kaufen Sie Zehnerkarten für günstigere Fahrten."
+            ],
+            "hu": [
+              "Töltse le az Envia alkalmazást a valós idejű menetrendhez.",
+              "Vegyen 10-es gyűjtőjegyet a kedvezőbb árért."
+            ],
+            "ro": [
+              "Descărcați aplicația Envia pentru orare în timp real.",
+              "Cumpărați bilete cu 10 călătorii pentru prețuri mai bune."
+            ],
+            "en": [
+              "Download the Envia app for real-time schedules.",
+              "Buy 10-ride tickets for better value."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir trocken am Bahnhof an und nehmen den Bus ins Zentrum zum Amphitheater. Mittags bringt uns die Linie A direkt zum Luma-Gelände. Nachmittags nutzen wir den Nahverkehr zum Antikenmuseum, um den Regen zu umgehen. Den Tag beenden wir an der Place de la République, wo wir in der Nähe eine überdachte Bushaltestelle finden.",
+            "hu": "Reggel szárazon érkezünk a vasútállomásra, majd busszal megyünk a központba az amfiteátrumhoz. Délben az A jelzésű busz visz minket a Luma negyedbe. Délután a tömegközlekedést használjuk az Antik Múzeumhoz, elkerülve az esőt. A napot a Place de la République-en zárjuk, ahol közel van egy fedett buszmegálló.",
+            "ro": "Dimineața ajungem la gară și luăm autobuzul spre centru la amfiteatru. La prânz linia A ne duce direct în zona Luma. După-amiaza folosim transportul public spre Muzeul de Antichități pentru a evita ploaia. Încheiem ziua în Place de la République, unde găsim o stație acoperită.",
+            "en": "Morning arrives at the station dry, and we take the bus to the center for the Amphitheatre. Midday, line A takes us directly to the Luma area. In the afternoon, we use public transit to reach the Antique Museum to avoid the rain. We end the day at Place de la République near a sheltered bus stop."
+          },
+          "stops": [
+            {
+              "name": "Arles Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Anschlussbus.",
+                "hu": "Várjon a vasútállomás várótermében a csatlakozó buszra.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait inside the station hall for your connecting bus."
+              }
+            },
+            {
+              "name": "Arles Amphitheatre",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Lices' ist nur 3 Minuten entfernt.",
+                "hu": "A 'Lices' buszmegálló mindössze 3 percre található.",
+                "ro": "Stația de autobuz 'Lices' este la doar 3 minute distanță.",
+                "en": "The 'Lices' bus stop is just a 3-minute walk away."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Victor Hugo' bietet Schutz vor Regen.",
+                "hu": "A 'Victor Hugo' megálló fedett, védelmet nyújt az esőtől.",
+                "ro": "Stația 'Victor Hugo' este acoperită, oferind protecție.",
+                "en": "The 'Victor Hugo' stop is sheltered from the rain."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării muzeului.",
+                "en": "The bus stops almost directly in front of the museum entry."
+              }
+            },
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Idealer Ort, um in ein trockenes Café umzusteigen.",
+                "hu": "Ideális hely, hogy átszálljon egy száraz kávézóba.",
+                "ro": "Loc ideal pentru a intra într-o cafenea uscată.",
+                "en": "An ideal spot to transition into a dry, warm café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Envia'-App für Echtzeit-Busfahrpläne.",
+              "Busse fahren bei Regen oft mit leichten Verspätungen.",
+              "Ein Tagesticket lohnt sich bei schlechtem Wetter besonders.",
+              "Die Haltestellen in der Altstadt sind oft nicht überdacht.",
+              "Kaufen Sie Tickets vorab beim Fahrer (passendes Kleingeld!)."
+            ],
+            "hu": [
+              "Töltse le az 'Envia' appot a valós idejű menetrendhez.",
+              "Esőben a buszok gyakran kisebb késéssel közlekednek.",
+              "Rossz időben különösen megéri a napijegy váltása.",
+              "Az óvárosi megállók gyakran nem fedettek.",
+              "Vegyen jegyet előre a sofőrtől (készüljön aprópénzzel)."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Envia' pentru orarul în timp real.",
+              "Pe timp de ploaie, autobuzele pot avea mici întârzieri.",
+              "Un bilet de o zi merită din plin pe vreme rea.",
+              "Stațiile din centrul vechi nu sunt adesea acoperite.",
+              "Cumpărați bilete de la șofer (pregătiți bani mărunți)."
+            ],
+            "en": [
+              "Download the 'Envia' app for real-time bus schedules.",
+              "Buses often experience slight delays during heavy rain.",
+              "A day pass is especially worth it during bad weather.",
+              "Be aware that many old town bus stops are not sheltered.",
+              "Buy your tickets from the driver using exact change."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir den Bahnhof im hellen Winterlicht und nehmen den warmen Bus ins Zentrum. Mittags fahren wir mit dem Transit zum Luma-Gelände, um die Kälte zu meiden. Nachmittags ist das Antikenmuseum unser warmes Ziel. Vor der frühen Dunkelheit beenden wir den Tag an der Place de la République und nehmen den letzten bequemen Bus zurück.",
+            "hu": "Reggel a világos téli fényben érünk a vasútállomásra, és a meleg buszra szállunk a központ felé. Délben tömegközlekedéssel megyünk a Lumához, elkerülve a kinti hideget. Délután az Antik Múzeum a fűtött célpontunk. A korai sötétedés előtt a Place de la République-en zárunk, és az utolsó kényelmes busszal indulunk vissza.",
+            "ro": "Dimineața ajungem la gară în lumina clară și luăm autobuzul încălzit spre centru. La prânz folosim transportul public spre Luma pentru a evita frigul. După-amiaza, Muzeul de Antichități este destinația noastră caldă. Înainte de întunericul timpuriu, încheiem ziua în Place de la République.",
+            "en": "Morning sees us at the station in bright winter light, boarding a warm bus to the center. At noon, we use transit to reach Luma, avoiding the outside cold. The afternoon is spent at the heated Antique Museum. Before the early darkness, we finish at Place de la République and catch a comfortable bus back."
+          },
+          "stops": [
+            {
+              "name": "Arles Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofsservice hilft bei Fahrplanänderungen im Winter.",
+                "hu": "A vasúti ügyfélszolgálat segít a téli menetrendváltozásoknál.",
+                "ro": "Serviciul gării vă ajută cu modificările de orar iarna.",
+                "en": "Station staff can assist with winter schedule changes."
+              }
+            },
+            {
+              "name": "Arles Amphitheatre",
+              "tip_5lang": {
+                "de": "Die Busfrequenz kann im Winter leicht reduziert sein.",
+                "hu": "A buszok télen ritkábban közlekedhetnek.",
+                "ro": "Frecvența autobuzelor poate fi redusă iarna.",
+                "en": "Bus frequency may be slightly reduced during winter."
+              }
+            },
+            {
+              "name": "Luma Arles",
+              "tip_5lang": {
+                "de": "Nehmen Sie den 'Navette Star' Bus für den direkten Weg.",
+                "hu": "Használja a 'Navette Star' buszt a közvetlen eljutáshoz.",
+                "ro": "Luați autobuzul 'Navette Star' pentru un drum direct.",
+                "en": "Take the 'Navette Star' shuttle for a direct connection."
+              }
+            },
+            {
+              "name": "Arles Antique Museum",
+              "tip_5lang": {
+                "de": "Der Wartebereich an der Haltestelle ist im Winter sehr zugig.",
+                "hu": "A megálló várakozóhelye télen nagyon huzatos.",
+                "ro": "Zona de așteptare din stație e foarte expusă la vânt.",
+                "en": "The waiting area at the bus stop is very drafty in winter."
+              }
+            },
+            {
+              "name": "Place de la République",
+              "tip_5lang": {
+                "de": "Ab 17:00 Uhr sind die Busse oft stärker beheizt.",
+                "hu": "17:00 óra után a buszok gyakran erősebben fűtöttek.",
+                "ro": "După ora 17:00, autobuzele sunt adesea mai bine încălzite.",
+                "en": "Buses are often more heavily heated after 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die verkürzten Fahrpläne an Feiertagen.",
+              "Busse sind ein idealer Ort, um sich zwischen den Stopps aufzuwärmen.",
+              "Die 'Navette'-Busse im Zentrum sind klein und wendig.",
+              "Warten Sie bei Mistral lieber drinnen in Geschäften auf den Bus.",
+              "Kaufen Sie ein 10er-Ticket-Heft (Carnet) für die ganze Gruppe."
+            ],
+            "hu": [
+              "Ügyeljen az ünnepek alatti rövidített menetrendre.",
+              "A buszok ideálisak a felmelegedésre két megálló között.",
+              "A belvárosi 'Navette' buszok kicsik és fürgék.",
+              "Misztrál szélben inkább üzletekben várja meg a buszt.",
+              "Vegyen 10 darabos gyűjtőjegyet (Carnet) az egész csoportnak."
+            ],
+            "ro": [
+              "Atenție la orarul redus din timpul sărbătorilor.",
+              "Autobuzele sunt ideale pentru a vă încălzi între opriri.",
+              "Autobuzele 'Navette' din centru sunt mici și rapide.",
+              "Pe timp de Mistral, așteptați autobuzul în interiorul magazinelor.",
+              "Cumpărați un carnet de 10 bilete pentru tot grupul."
+            ],
+            "en": [
+              "Be aware of shortened schedules during holiday periods.",
+              "Buses are a great place to warm up between sightseeing stops.",
+              "The 'Navette' city shuttles are small and very agile.",
+              "During Mistral winds, wait for the bus inside nearby shops.",
+              "Buy a 10-ticket 'Carnet' to save money for the whole group."
+            ]
+          }
+        }
       }
     }
-  },
-  "external_resources": {
-    "webcam": "",
-    "tourism_office": "https://www.arlestourisme.com/",
-    "events": "https://www.arlestourisme.com/agenda/",
-    "city_card": "https://www.arlestourisme.com/pass-avantages/",
-    "museum_tickets": "https://www.arlestourisme.com/billetterie/",
-    "transit_official": "https://www.tout-envia.com/",
-    "language_tips": {
-      "de": "Arles ist provenzalisch durch und durch, der Akzent ist singend und das Tempo gemächlich. Englisch wird in den Museen und großen Hotels gesprochen, weniger jedoch auf den Märkten. Lernen Sie 'pastis' und 'tapenade' richtig auszusprechen, das verschafft sofort Sympathie. Begrüßen Sie jeden Marktstandbetreiber mit 'Bonjour'.",
-      "hu": "Arles ízig-vérig provence-i város, az akcentus dallamos és a tempó kényelmes. A múzeumokban és nagyobb szállodákban beszélnek angolul, de a piacokon kevésbé. Tanuld meg helyesen kiejteni a 'pastis' és 'tapenade' szavakat, ez azonnal szimpátiát ébreszt. Köszönj 'Bonjour'-ral minden piaci árusnak.",
-      "ro": "Arles este provensal pur, accentul cântă și ritmul este lent. Engleza se vorbește în muzee și hoteluri mari, mai puțin în piețe. Învățați să pronunțați corect 'pastis' și 'tapenade', vă atrage simpatia imediat. Salutați fiecare vânzător din piață cu 'Bonjour'.",
-      "en": "Arles is Provençal to the core - the accent sings, the pace is slow. English is spoken in museums and major hotels, less so at markets. Learn to pronounce 'pastis' and 'tapenade' correctly for instant rapport. Always greet every market vendor with 'Bonjour' before browsing."
-    },
-    "best_time_to_visit": {
-      "de": "April bis Juni und September bis Oktober sind perfekt: mildes Wetter, weniger Touristen, und das berühmte Licht, das van Gogh inspirierte, ist besonders schön. Vermeiden Sie Juli mit den Rencontres de la Photographie, wenn alles ausgebucht ist. Im Sommer wird es extrem heiß, der Mistral bringt manchmal Erleichterung.",
-      "hu": "Április és június, valamint szeptember és október tökéletes: enyhe időjárás, kevés turista, és a Van Goghot megihlető fény különösen szép. Júliust kerüld a Rencontres de la Photographie miatt, amikor minden teltház. Nyáron rendkívül forró, a misztrál néha enyhülést hoz.",
-      "ro": "Aprilie până în iunie și septembrie până în octombrie sunt perfecte: vreme blândă, mai puțini turiști, iar lumina celebră care l-a inspirat pe van Gogh este deosebit de frumoasă. Evitați iulie cu Rencontres de la Photographie, când totul este rezervat. Vara este extrem de cald.",
-      "en": "April to June and September to October are ideal: mild weather, fewer tourists, and the famous light that inspired van Gogh at its most beautiful. Avoid July when the Rencontres de la Photographie fills every hotel. Summer gets extremely hot, though the Mistral wind occasionally brings relief."
-    },
-    "neighborhood_warnings": {
-      "de": "Arles ist sicher, doch der Bahnhofsbezirk und die Gegend hinter dem Boulevard des Lices können nachts ungemütlich sein. Achten Sie in der Arena und im römischen Theater auf Taschendiebe.",
-      "hu": "Arles biztonságos, de a pályaudvar környéke és a Boulevard des Lices mögötti rész éjjel kényelmetlen lehet. Az arénánál és a római színháznál figyelj a zsebtolvajokra.",
-      "ro": "Arles este sigur, dar zona gării și zona din spatele Boulevard des Lices pot fi neplăcute noaptea. La arenă și teatrul roman, atenție la hoții de buzunare.",
-      "en": "Arles is safe overall, but the station area and the streets behind Boulevard des Lices can feel uneasy at night. Watch for pickpockets at the Arena and Roman Theatre during peak hours."
-    },
-    "parking_real_time": ""
   }
 }
