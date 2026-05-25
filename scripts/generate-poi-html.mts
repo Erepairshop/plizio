@@ -340,8 +340,9 @@ function pageRichness(poi: POI, lang: Lang): {
 
 // Smart meta-description truncation: cut at the last sentence boundary within 160 chars
 // instead of mid-word. Avoids "Nepál " hanging-fragment shown in Google snippet.
-function smartMetaDesc(text: string, fallback: string, max = 160): string {
-  const src = (text || fallback || "").trim();
+function smartMetaDesc(text: unknown, fallback: unknown, max = 160): string {
+  const s = (v: unknown): string => typeof v === "string" ? v : "";
+  const src = (s(text) || s(fallback) || "").trim();
   if (src.length <= max) return src;
   const slice = src.slice(0, max);
   // Prefer sentence boundary (. ! ?) within last 60 chars; fall back to last space.
