@@ -126,6 +126,7 @@ async function loadFullPois(): Promise<POI[]> {
     { poiExtraHrV1 },
     { poiExtraHrV2 },
     { poiExtraItalyV2 },
+    { poiExtraEsV2 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -142,13 +143,14 @@ async function loadFullPois(): Promise<POI[]> {
     import("../lib/visualLab/data/poiExtraHrV1"),
     import("../lib/visualLab/data/poiExtraHrV2"),
     import("../lib/visualLab/data/poiExtraItalyV2"),
+    import("../lib/visualLab/data/poiExtraEsV2"),
   ]);
   const all = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
     [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
     poiExtraDeV1 as POI[], poiExtraRoV1 as POI[], poiExtraHuV4 as POI[], poiExtraFrV1 as POI[],
     poiExtraUkV1 as POI[], poiExtraUkMissingV1 as POI[], poiExtraAtChMissingV1 as POI[],
-    poiExtraHrV1 as POI[], poiExtraHrV2 as POI[],
+    poiExtraHrV1 as POI[], poiExtraHrV2 as POI[], poiExtraItalyV2 as POI[], poiExtraEsV2 as POI[],
   );
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
   const byId = new Map<string, POI>();
@@ -654,25 +656,31 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   }
 
   // Weather variants helper: pick variant content + fallback to sunny if missing.
+  // Stop tips: prefer name-match (lang-agnostic), then INDEX-match as fallback
+  // (Flash sometimes returns rainy/winter stops in English while top-level stops
+  // are localized → name-match misses; index aligns 1:1 with sunny stops).
   function getVariantContent(md: any, wkey: string) {
     const variants = md.variants;
+    function tipsLookup(variantStops: any[]) {
+      const byName = Object.fromEntries((variantStops || []).map((s: any) => [s.name, s.tip_5lang]));
+      const byIdx = (variantStops || []).map((s: any) => s.tip_5lang);
+      return { byName, byIdx };
+    }
     if (variants && variants[wkey]) {
       const v = variants[wkey];
       const sunny = variants.sunny || {};
-      // Per-field fallback to sunny if missing
       return {
         narrative_4lang: v.narrative_4lang || sunny.narrative_4lang,
-        stop_tips_by_name: Object.fromEntries((v.stops || []).map((s: any) => [s.name, s.tip_5lang])),
+        stop_tips_lookup: tipsLookup(v.stops || []),
         gastro_picks: v.gastro_picks || sunny.gastro_picks,
         quiet_picks: v.quiet_picks || sunny.quiet_picks,
         shopping_picks: v.shopping_picks || sunny.shopping_picks,
         tips: v.tips || sunny.tips,
       };
     }
-    // No variants block - use top-level (backward-compat)
     return {
       narrative_4lang: md.narrative_4lang,
-      stop_tips_by_name: Object.fromEntries((md.stops || []).map((s: any) => [s.name, s.tip_5lang])),
+      stop_tips_lookup: tipsLookup(md.stops || []),
       gastro_picks: md.gastro_picks,
       quiet_picks: md.quiet_picks,
       shopping_picks: md.shopping_picks,
@@ -693,7 +701,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
       const nar = (v.narrative_4lang || {})[lang] || "";
       let prev: [number, number] | null = null;
       const stopCards = stops.map((s: any, i: number) => {
-        const stopWithTip = { ...s, tip_5lang: v.stop_tips_by_name[s.name] || s.tip_5lang };
+        const lk = v.stop_tips_lookup;
+        const variantTip = lk.byName[s.name] || lk.byIdx[i];
+        const stopWithTip = { ...s, tip_5lang: variantTip || s.tip_5lang };
         const hopHtml = i > 0 && s.hop_from_prev_min ? `<div class="plz-itin-hop"><strong>${modeLabels[m].split(" ")[0]} ${s.hop_from_prev_min}'</strong>${s.hop_from_prev_km} km</div>` : "";
         const card = renderStopCard(stopWithTip, i, prev, m);
         prev = toLatLon(s.coords);

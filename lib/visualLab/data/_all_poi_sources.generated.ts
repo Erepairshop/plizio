@@ -541,6 +541,7 @@ import * as _src_poiExtraEritreaLandmarksV2 from "./poiExtraEritreaLandmarksV2";
 import * as _src_poiExtraEritreaLifeV2 from "./poiExtraEritreaLifeV2";
 import * as _src_poiExtraEritreaNatureV2 from "./poiExtraEritreaNatureV2";
 import * as _src_poiExtraEritreaReliefV2 from "./poiExtraEritreaReliefV2";
+import * as _src_poiExtraEsV2 from "./poiExtraEsV2";
 import * as _src_poiExtraEstoniaCitiesV2 from "./poiExtraEstoniaCitiesV2";
 import * as _src_poiExtraEstoniaEconomicV2 from "./poiExtraEstoniaEconomicV2";
 import * as _src_poiExtraEstoniaHistoryV2 from "./poiExtraEstoniaHistoryV2";
@@ -682,6 +683,8 @@ import * as _src_poiExtraHongkongLandmarksV2 from "./poiExtraHongkongLandmarksV2
 import * as _src_poiExtraHongkongLifeV2 from "./poiExtraHongkongLifeV2";
 import * as _src_poiExtraHongkongNatureV2 from "./poiExtraHongkongNatureV2";
 import * as _src_poiExtraHongkongReliefV2 from "./poiExtraHongkongReliefV2";
+import * as _src_poiExtraHrV1 from "./poiExtraHrV1";
+import * as _src_poiExtraHrV2 from "./poiExtraHrV2";
 import * as _src_poiExtraHu1_lite from "./poiExtraHu1.lite";
 import * as _src_poiExtraHu1 from "./poiExtraHu1";
 import * as _src_poiExtraHu2_lite from "./poiExtraHu2.lite";
@@ -758,6 +761,7 @@ import * as _src_poiExtraItalyLifeV2 from "./poiExtraItalyLifeV2";
 import * as _src_poiExtraItalyNatureGeschichteC2 from "./poiExtraItalyNatureGeschichteC2";
 import * as _src_poiExtraItalyNatureV2 from "./poiExtraItalyNatureV2";
 import * as _src_poiExtraItalyReliefV2 from "./poiExtraItalyReliefV2";
+import * as _src_poiExtraItalyV2 from "./poiExtraItalyV2";
 import * as _src_poiExtraItalyWirtschaftLebenC3 from "./poiExtraItalyWirtschaftLebenC3";
 import * as _src_poiExtraIvorycoastCitiesV2 from "./poiExtraIvorycoastCitiesV2";
 import * as _src_poiExtraIvorycoastEconomicV2 from "./poiExtraIvorycoastEconomicV2";
@@ -2294,6 +2298,7 @@ const _raw: any[] = [
   ...((_src_poiExtraEritreaLifeV2 as any).poiExtraEritreaLifeV2 as any[]),
   ...((_src_poiExtraEritreaNatureV2 as any).poiExtraEritreaNatureV2 as any[]),
   ...((_src_poiExtraEritreaReliefV2 as any).poiExtraEritreaReliefV2 as any[]),
+  ...((_src_poiExtraEsV2 as any).poiExtraEsV2 as any[]),
   ...((_src_poiExtraEstoniaCitiesV2 as any).estoniaCitiesV2 as any[]),
   ...((_src_poiExtraEstoniaEconomicV2 as any).estoniaEconomicV2 as any[]),
   ...((_src_poiExtraEstoniaHistoryV2 as any).estoniaHistoryV2 as any[]),
@@ -2435,6 +2440,8 @@ const _raw: any[] = [
   ...((_src_poiExtraHongkongLifeV2 as any).hongkongLifeV2 as any[]),
   ...((_src_poiExtraHongkongNatureV2 as any).hongkongNatureV2 as any[]),
   ...((_src_poiExtraHongkongReliefV2 as any).hongkongReliefV2 as any[]),
+  ...((_src_poiExtraHrV1 as any).poiExtraHrV1 as any[]),
+  ...((_src_poiExtraHrV2 as any).poiExtraHrV2 as any[]),
   ...((_src_poiExtraHu1_lite as any).poiExtraHu1 as any[]),
   ...((_src_poiExtraHu1 as any).poiExtraHu1 as any[]),
   ...((_src_poiExtraHu2_lite as any).poiExtraHu2 as any[]),
@@ -2511,6 +2518,7 @@ const _raw: any[] = [
   ...((_src_poiExtraItalyNatureGeschichteC2 as any).poiExtraItalyNatureGeschichteC2 as any[]),
   ...((_src_poiExtraItalyNatureV2 as any).italyNatureV2 as any[]),
   ...((_src_poiExtraItalyReliefV2 as any).italyReliefV2 as any[]),
+  ...((_src_poiExtraItalyV2 as any).poiExtraItalyV2 as any[]),
   ...((_src_poiExtraItalyWirtschaftLebenC3 as any).poiExtraItalyWirtschaftLebenC3 as any[]),
   ...((_src_poiExtraIvorycoastCitiesV2 as any).poiExtraIvorycoastCitiesV2 as any[]),
   ...((_src_poiExtraIvorycoastEconomicV2 as any).poiExtraIvorycoastEconomicV2 as any[]),
