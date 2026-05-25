@@ -1411,7 +1411,7 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
-${isAdSenseEligible(poi, lang) ? ADSENSE_HEAD : ""}
+${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
